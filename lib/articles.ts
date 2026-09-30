@@ -15,6 +15,556 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "private-sector-jobs-rose-by-90-000-in-se-68106043",
+    title: "Private sector jobs rose by 90,000 in September, better than expected, ADP reports",
+    titleJa: "Private sector jobs rose by 90,000 in September, better than expected, ADP reports",
+    summaryJa: "Private job creation picked up in September after a brief slowdown, providing further indication that the U.S. labor market has stabilized, according to an ADP report Wednesday.The payrolls processing firm said company employment rose by 90,000 for the month, higher than the downwardly revised 36,000 in August and better than the Dow Jones consensus estimate for 68,000.",
+    bodyOriginal: `Private job creation picked up in September after a brief slowdown, providing further indication that the U.S. labor market has stabilized, according to an ADP report Wednesday.
+The payrolls processing firm said company employment rose by 90,000 for the month, higher than the downwardly revised 36,000 in August and better than the Dow Jones consensus estimate for 68,000.
+There also was a fair amount of balance in the report, with service providers adding 59,000 positions while goods producers contributed 31,000.
+Base pay rose 3.2% from a year ago, while gross pay accelerated by 4.7%.
+"It's a strong report," said ADP chief economist Nela Richardson. "After a three-month slowdown, job
+creation rebounded and pay growth remained solid."
+Education and health services contributed the most, with 55,000 new hires. Other areas of growth included leisure and hospitality (22,000), manufacturing (17,000) and construction (15,000).
+A handful of sectors saw job losses, including financial activities (-16,000), professional and business services (-11,000) and natural resources and mining (-1,000).
+Much of the employment growth came from the Northeast, which added 56,000. By size, companies with between 50 and 499 workers saw a gain of 54,000.
+Broadly, the report helped confirm sentiment expressed by multiple Federal Reserve officials that the labor market is mostly sound following a growth scare in 2025. Policymakers see the greater policy risk now as the persistent inflation that pushed central bankers to raise benchmark borrowing rates by a quarter percentage point earlier in September.
+The ADP count serves as a precursor to the nonfarm payrolls report that the Bureau of Labor Statistics will release Friday. The Wall Street consensus is for a gain of 84,000 jobs, down from a 162,000 increase the prior month, and the unemployment rate to hold steady at 4.1%.`,
+    bodyJa: `Private job creation picked up in September after a brief slowdown, providing further indication that the U.S. labor market has stabilized, according to an ADP report Wednesday.
+The payrolls processing firm said company employment rose by 90,000 for the month, higher than the downwardly revised 36,000 in August and better than the Dow Jones consensus estimate for 68,000.
+There also was a fair amount of balance in the report, with service providers adding 59,000 positions while goods producers contributed 31,000.
+Base pay rose 3.2% from a year ago, while gross pay accelerated by 4.7%.
+"It's a strong report," said ADP chief economist Nela Richardson. "After a three-month slowdown, job
+creation rebounded and pay growth remained solid."
+Education and health services contributed the most, with 55,000 new hires. Other areas of growth included leisure and hospitality (22,000), manufacturing (17,000) and construction (15,000).
+A handful of sectors saw job losses, including financial activities (-16,000), professional and business services (-11,000) and natural resources and mining (-1,000).
+Much of the employment growth came from the Northeast, which added 56,000. By size, companies with between 50 and 499 workers saw a gain of 54,000.
+Broadly, the report helped confirm sentiment expressed by multiple Federal Reserve officials that the labor market is mostly sound following a growth scare in 2025. Policymakers see the greater policy risk now as the persistent inflation that pushed central bankers to raise benchmark borrowing rates by a quarter percentage point earlier in September.
+The ADP count serves as a precursor to the nonfarm payrolls report that the Bureau of Labor Statistics will release Friday. The Wall Street consensus is for a gain of 84,000 jobs, down from a 162,000 increase the prior month, and the unemployment rate to hold steady at 4.1%.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/30/private-sector-jobs-rose-by-90000-in-september-better-than-expected-adp-reports.html",
+    publishedAt: "2026-09-30T12:24:21+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "openai-follows-meta-into-the-red-hot-mar-b8bd72ab",
+    title: "OpenAI follows Meta into the red-hot market for personal agents. But will users pay?",
+    titleJa: "OpenAI follows Meta into the red-hot market for personal agents. But will users pay?",
+    summaryJa: "Following Meta's blockbuster release of its Muse AI agent earlier this month, OpenAI jumped into the personal agent market with Dots.",
+    bodyOriginal: `Following Meta's blockbuster release of its Muse AI agent earlier this month, OpenAI jumped into the personal agent market on Tuesday with Dots, setting the stage for what could be the next big battle in the artificial intelligence market.
+At its annual DevDay developer conference, OpenAI described Dots as "always-on" agents designed to help users complete a range of tasks. Since the release of Muse three weeks ago, investors have rallied around Meta, sending the stock up 29% in September, on pace for its best month since 2013.
+That level of enthusiasm underscores the power of personal agents and the promise that consumers and office workers will be able to use the technology to book travel, pay bills, respond to emails and perform many more tasks. But OpenAI's entry, arriving soon after the launch of Muse, serves as a reminder that the AI market includes a handful of large companies all converging around the same types of products with little ability to lock in users.
+Google calls its Gemini Spark offering "your 24/7 personal AI agent" for help, and Apple is trying to step up its position in the AI battle with its redesigned Siri AI, which it describes as "a profoundly more capable and personal assistant."
+"I think what we are watching is an inevitable evolution of the technology," said John Waldmann, CEO of HR tech startup Homebase and a user of various AI agent-related tools. "It's probably no surprise that it's all happening around the same time."
+It's not just the big companies that see the opportunity.
+AI assistant startup Instinct announced Monday that it raised $1 billion from venture firms including Sequoia at a $10 billion valuation. And another startup, Town, is reportedly looking at a $1 billion valuation.
+Town CEO Jean-Denis Grèze told CNBC in a statement that OpenAI's debut of Dots, "continues to validate the category and the need for work assistants."
+"It's been our focus at Town from the very beginning," Grèze said, adding that he welcomes the competition.
+On Tuesday, all eyes were on OpenAI, as investors and AI enthusiasts anticipated what the ChatGPT creator would unveil in the wake of last week's Meta Connect developer conference. There, Meta announced forthcoming AI devices, including a pendant, and CEO Mark Zuckerberg called Muse the "centerpiece" of the company's AI strategy.
+Taking the stage in San Francisco for DevDay, Altman called Dots "remarkably capable" and "built to handle really anything you can think of." Although developers could already use OpenAI's existing tools to manage scores of AI agents for various office tasks, Dots promises to be an easier way for workers to use powerful digital assistants to help with tools like Slack and Microsoft Teams.
+More uplifting than AI safety
+The rush of new agents hitting the market offers a more uplifting story for AI companies at a time when the leading labs are facing intensifying scrutiny due to emerging concerns that the most advanced models are at risk of spinning out of human control.
+On Tuesday, as Altman was attending DevDay, his second-in-command, Greg Brockman, was in Washington for a lunch that President Donald Trump was hosting for top technology leaders. The topic was AI safety, and the event came more than two weeks after Anthropic CEO Dario Amodei sent shock waves across the industry, writing an essay urging AI companies to slow the pace of frontier model development.
+Nick Deveau, CEO of AI sales startup GrottoAI, is a fan of AI agent tools like Instinct and sees the vision as companies start building them for a wider audience.
+"The interesting thing about all of these, which I think has become apparent really quickly and is evidenced by some of the valuations, is that people see this as the first successful proof point of true agentic work hitting consumers," Deveau said.
+There's still the question of whether consumers will pay. Meta's Muse is free with a usage limit and can be purchased starting at $20 a month after that. OpenAI's Dots is only available starting at the $100 per month Pro plan and higher.
+And even with Muse racking up millions of downloads across app stores, that doesn't mean people are actively using it or other AI agents, Waldmann said.
+"People will try it, but is it really adding value?" Waldmann said. "Is it part of a daily habit?"
+Thomas Randall, a research director at the Info-Tech Research Group, said in an email that "the race is on," as AI companies search to figure out how consumers want to use agents and what will keep them coming back.
+"Once leading systems are broadly capable, the winner will likely be determined by which agent is the easiest to adopt, the most connected, and the hardest to leave," Randall said. "We'll see who's distribution will gather steam first."`,
+    bodyJa: `Following Meta's blockbuster release of its Muse AI agent earlier this month, OpenAI jumped into the personal agent market on Tuesday with Dots, setting the stage for what could be the next big battle in the artificial intelligence market.
+At its annual DevDay developer conference, OpenAI described Dots as "always-on" agents designed to help users complete a range of tasks. Since the release of Muse three weeks ago, investors have rallied around Meta, sending the stock up 29% in September, on pace for its best month since 2013.
+That level of enthusiasm underscores the power of personal agents and the promise that consumers and office workers will be able to use the technology to book travel, pay bills, respond to emails and perform many more tasks. But OpenAI's entry, arriving soon after the launch of Muse, serves as a reminder that the AI market includes a handful of large companies all converging around the same types of products with little ability to lock in users.
+Google calls its Gemini Spark offering "your 24/7 personal AI agent" for help, and Apple is trying to step up its position in the AI battle with its redesigned Siri AI, which it describes as "a profoundly more capable and personal assistant."
+"I think what we are watching is an inevitable evolution of the technology," said John Waldmann, CEO of HR tech startup Homebase and a user of various AI agent-related tools. "It's probably no surprise that it's all happening around the same time."
+It's not just the big companies that see the opportunity.
+AI assistant startup Instinct announced Monday that it raised $1 billion from venture firms including Sequoia at a $10 billion valuation. And another startup, Town, is reportedly looking at a $1 billion valuation.
+Town CEO Jean-Denis Grèze told CNBC in a statement that OpenAI's debut of Dots, "continues to validate the category and the need for work assistants."
+"It's been our focus at Town from the very beginning," Grèze said, adding that he welcomes the competition.
+On Tuesday, all eyes were on OpenAI, as investors and AI enthusiasts anticipated what the ChatGPT creator would unveil in the wake of last week's Meta Connect developer conference. There, Meta announced forthcoming AI devices, including a pendant, and CEO Mark Zuckerberg called Muse the "centerpiece" of the company's AI strategy.
+Taking the stage in San Francisco for DevDay, Altman called Dots "remarkably capable" and "built to handle really anything you can think of." Although developers could already use OpenAI's existing tools to manage scores of AI agents for various office tasks, Dots promises to be an easier way for workers to use powerful digital assistants to help with tools like Slack and Microsoft Teams.
+More uplifting than AI safety
+The rush of new agents hitting the market offers a more uplifting story for AI companies at a time when the leading labs are facing intensifying scrutiny due to emerging concerns that the most advanced models are at risk of spinning out of human control.
+On Tuesday, as Altman was attending DevDay, his second-in-command, Greg Brockman, was in Washington for a lunch that President Donald Trump was hosting for top technology leaders. The topic was AI safety, and the event came more than two weeks after Anthropic CEO Dario Amodei sent shock waves across the industry, writing an essay urging AI companies to slow the pace of frontier model development.
+Nick Deveau, CEO of AI sales startup GrottoAI, is a fan of AI agent tools like Instinct and sees the vision as companies start building them for a wider audience.
+"The interesting thing about all of these, which I think has become apparent really quickly and is evidenced by some of the valuations, is that people see this as the first successful proof point of true agentic work hitting consumers," Deveau said.
+There's still the question of whether consumers will pay. Meta's Muse is free with a usage limit and can be purchased starting at $20 a month after that. OpenAI's Dots is only available starting at the $100 per month Pro plan and higher.
+And even with Muse racking up millions of downloads across app stores, that doesn't mean people are actively using it or other AI agents, Waldmann said.
+"People will try it, but is it really adding value?" Waldmann said. "Is it part of a daily habit?"
+Thomas Randall, a research director at the Info-Tech Research Group, said in an email that "the race is on," as AI companies search to figure out how consumers want to use agents and what will keep them coming back.
+"Once leading systems are broadly capable, the winner will likely be determined by which agent is the easiest to adopt, the most connected, and the hardest to leave," Randall said. "We'll see who's distribution will gather steam first."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/30/openai-follows-meta-into-the-red-hot-market-for-personal-agents.html",
+    publishedAt: "2026-09-30T12:04:46+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "trump-s-meeting-with-tech-leaders-leaves-32bb1e6a",
+    title: "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
+    titleJa: "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
+    summaryJa: "Following Trump's lunch with AI leaders at the White House, the industry remains largely unchanged on AI safety.",
+    bodyOriginal: `After President Donald Trump's lunch with AI leaders on Tuesday, the leading artificial intelligence companies are right where they were before: policing themselves.
+Trump hosted top execs from Alphabet, Meta, SpaceX, Nvidia, Palantir, Anthropic, OpenAI, and other companies following a three-week stretch during which the topic of AI safety turned into an intense nationwide debate, with leading industry researchers and executives warning of the extreme threats posed by the most powerful models.
+But while the concerns voiced this month by the likes of Anthropic CEO Dario Amodei have led many policymakers and industry experts to demand government regulation, Trump has steadfastly opposed any such moves, and called AI fears a "hoax."
+On Tuesday, Trump brought leaders to the White House to sign a two-page document, including one with signatures, that he shared on his Truth Social account. It was titled, "White House Accord on Super Intelligence: Joint Commitment on Frontier Responsibilities."
+The document says that the group believes "every company is responsible for developing its own technology safely and in a way that builds trust with customers and the public." Signatories included some of the same people who have been insisting that, in the absence of a coordinated safety effort, their technology can't be trusted.
+"You saw two weeks ago almost all those same CEOs say they should be regulated," said Bradley Tusk, CEO of Tusk Ventures, in an interview on CNBC's "Closing Bell Overtime" on Tuesday. "It's not because they fundamentally believe in the power of the state. They want something that creates an equalizer for each other."
+The four action items in the document call for each company to establish "robust" internal monitoring of models, have an internal team that ensures the controls are working, partner with outside auditors or evaluators, and designate an independent committee of the board to oversee the internal team.
+"Over time, it may make sense to codify these steps into laws or regulations," the last paragraph begins. When asked by reporters outside the White House if the rules are binding, Trump said they're "morally binding."
+Trump wasn't just holding the event to promote the new accord. Separately, he said he signed a document purporting to "officially" change the name of AI to "super intelligence," trying to push through a rebrand after crowdsourcing a new name on social media last week.
+'This is a start'
+While tech companies aren't likely to swap out their use of the AI acronym anytime soon, their top leaders, after Tuesday's lunch, were quick to voice their support for Trump's broader effort. It's been a consistent theme during Trump's second term as corporate America, particularly the tech industry, attempts to stay out of the president's crosshairs.
+Meta CEO Mark Zuckerberg told reporters that the agreement is designed to "give the American people and our customers confidence that the technology works in the way we intend."
+"The idea isn't that this is the only thing that we'll ever do," Zuckerberg said. "It is that this is a start and an accord that the whole industry can come to."
+Compared to his peers like Amodei and OpenAI CEO Sam Altman, Zuckerberg has been more in the camp of self-regulation, alongside Nvidia CEO Jensen Huang. Days after Amodei's explosive essay earlier this month urging AI labs to "pace the frontier," Zuckerberg wrote in a post on X that "trust and alignment are quickly becoming the most important capabilities that will differentiate agents and models."
+Amodei, who's had a rocky relationship with the White House but had dinner with Trump late last week, offered a fairly innocuous comment to the group of reporters after the signing, saying, "If we do this right, if we work with the president and everyone here we can win safely."
+And Alphabet's Sundar Pichai described the moment as "historic and consequential."
+But with the concerns surrounding high-profile security breaches escalating, and public sentiment towards AI companies turning decidedly sour heading into the November mid-term elections, calls for regulation are only likely to grow louder.
+According to Verasight's September national survey, 63% of respondents said AI should slow down while only 5% said it should accelerate.
+Sen. Mark Warner, D-Va., said on Tuesday that he's introduced legislation to require "rigorous testing and evaluation" of leading AI technology and to strengthen security and reporting "before the most powerful models are deployed."
+"The companies building the most powerful AI systems are warning us that the technology is advancing faster than our safeguards," Warner said in a release. "The president's response? To rename it and tell the companies developing it to regulate themselves. But changing what we call artificial intelligence does nothing to address the very real risks that come with increasingly powerful AI systems."
+—CNBC's Kevin Breuninger, Samantha Subin and Lora Kolodny contributed to this report`,
+    bodyJa: `After President Donald Trump's lunch with AI leaders on Tuesday, the leading artificial intelligence companies are right where they were before: policing themselves.
+Trump hosted top execs from Alphabet, Meta, SpaceX, Nvidia, Palantir, Anthropic, OpenAI, and other companies following a three-week stretch during which the topic of AI safety turned into an intense nationwide debate, with leading industry researchers and executives warning of the extreme threats posed by the most powerful models.
+But while the concerns voiced this month by the likes of Anthropic CEO Dario Amodei have led many policymakers and industry experts to demand government regulation, Trump has steadfastly opposed any such moves, and called AI fears a "hoax."
+On Tuesday, Trump brought leaders to the White House to sign a two-page document, including one with signatures, that he shared on his Truth Social account. It was titled, "White House Accord on Super Intelligence: Joint Commitment on Frontier Responsibilities."
+The document says that the group believes "every company is responsible for developing its own technology safely and in a way that builds trust with customers and the public." Signatories included some of the same people who have been insisting that, in the absence of a coordinated safety effort, their technology can't be trusted.
+"You saw two weeks ago almost all those same CEOs say they should be regulated," said Bradley Tusk, CEO of Tusk Ventures, in an interview on CNBC's "Closing Bell Overtime" on Tuesday. "It's not because they fundamentally believe in the power of the state. They want something that creates an equalizer for each other."
+The four action items in the document call for each company to establish "robust" internal monitoring of models, have an internal team that ensures the controls are working, partner with outside auditors or evaluators, and designate an independent committee of the board to oversee the internal team.
+"Over time, it may make sense to codify these steps into laws or regulations," the last paragraph begins. When asked by reporters outside the White House if the rules are binding, Trump said they're "morally binding."
+Trump wasn't just holding the event to promote the new accord. Separately, he said he signed a document purporting to "officially" change the name of AI to "super intelligence," trying to push through a rebrand after crowdsourcing a new name on social media last week.
+'This is a start'
+While tech companies aren't likely to swap out their use of the AI acronym anytime soon, their top leaders, after Tuesday's lunch, were quick to voice their support for Trump's broader effort. It's been a consistent theme during Trump's second term as corporate America, particularly the tech industry, attempts to stay out of the president's crosshairs.
+Meta CEO Mark Zuckerberg told reporters that the agreement is designed to "give the American people and our customers confidence that the technology works in the way we intend."
+"The idea isn't that this is the only thing that we'll ever do," Zuckerberg said. "It is that this is a start and an accord that the whole industry can come to."
+Compared to his peers like Amodei and OpenAI CEO Sam Altman, Zuckerberg has been more in the camp of self-regulation, alongside Nvidia CEO Jensen Huang. Days after Amodei's explosive essay earlier this month urging AI labs to "pace the frontier," Zuckerberg wrote in a post on X that "trust and alignment are quickly becoming the most important capabilities that will differentiate agents and models."
+Amodei, who's had a rocky relationship with the White House but had dinner with Trump late last week, offered a fairly innocuous comment to the group of reporters after the signing, saying, "If we do this right, if we work with the president and everyone here we can win safely."
+And Alphabet's Sundar Pichai described the moment as "historic and consequential."
+But with the concerns surrounding high-profile security breaches escalating, and public sentiment towards AI companies turning decidedly sour heading into the November mid-term elections, calls for regulation are only likely to grow louder.
+According to Verasight's September national survey, 63% of respondents said AI should slow down while only 5% said it should accelerate.
+Sen. Mark Warner, D-Va., said on Tuesday that he's introduced legislation to require "rigorous testing and evaluation" of leading AI technology and to strengthen security and reporting "before the most powerful models are deployed."
+"The companies building the most powerful AI systems are warning us that the technology is advancing faster than our safeguards," Warner said in a release. "The president's response? To rename it and tell the companies developing it to regulate themselves. But changing what we call artificial intelligence does nothing to address the very real risks that come with increasingly powerful AI systems."
+—CNBC's Kevin Breuninger, Samantha Subin and Lora Kolodny contributed to this report`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
+    publishedAt: "2026-09-30T12:03:23+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "greggs-to-shut-four-factories-and-cut-74-96601a32",
+    title: "Greggs to shut four factories and cut 740 jobs",
+    titleJa: "Greggs to shut four factories and cut 740 jobs",
+    summaryJa: "The company says it needs to \"keep evolving alongside changing customer expectations\".",
+    bodyOriginal: `Greggs to shut four factories and cut 740 jobs
+- Published
+High street bakery brand Greggs has announced plans to shut four of its factories and cut 740 jobs.
+It plans to close manufacturing sites at North Lakes near Penrith, Cumbria, Pettigrews in Kelso, Scotland, Seaham in County Durham and Enfield, Greater London, though distribution operations would continue to run from the latter.
+The proposals will also impact manufacturing operations at its Treforest site in Wales, but this will also continue as a distribution centre for the business.
+The chain, which has headquarters in Newcastle, said its retail shops would not be affected by the proposed changes and like-for-like sales had grown across its managed stores.
+The changes would take place over the next two and a half years, with parts of Greggs' manufacturing processes relocating, the firm said.
+The range of products manufactured at its Clydesmill Glasgow and Manchester locations would be reduced and production of tinned bread at Gosforth would be stopped.
+Some products would also be sourced from specialist suppliers.
+The general secretary of the Bakers, Food and Allied Workers Union (BFAWU) Sarah Woolley said the union was "deeply concerned" about the announcement.
+She said: "Our immediate priority is our members, their jobs, their families and the communities that could be affected by these proposals."
+She added Greggs was clear in its own announcement the business continued to "perform strongly".
+'No decisions made'
+Greggs said positive trading and continued cost control means it expected a "modestly improved outcome" for 2026.
+Like-for-like sales grew by 3.4% across its managed stores, with overall growth buoyed by the opening of new shops.
+Woolley said Greggs' workers had played a "huge part" in getting the company where it is.
+She said: "Against that backdrop, our members will understandably be asking why their jobs and livelihoods should now be put at risk in the name of efficiency and future progression."
+But chief executive Roisin Currie said the company needed to "keep evolving alongside changing customer expectations".
+She said: "Greggs manufacturing and logistics network remains a key strength of the business, and these proposals are intended to strengthen our manufacturing network, improve efficiency and ensure we remain well placed for the future while continuing to deliver the quality, value and service our customers expect."
+The firm employs 33,000 people in the UK, the majority working in its stores.
+A consultation with staff is expected to start soon and the company said "no final decisions" had been made yet.
+The shake-up is expected to cost the firm about £60m, including disruption costs and redundancy payments.
+It said the plans would save it about £20m across the 2028 and 2029 financial years.
+The retail business said its sales grew by 7.7% in the three months to September 26, compared with the same period a year earlier.
+It said this represented progress in the face of "challenging market conditions", as consumer finances continued to come under pressure.
+The company said positive trading and continued cost control meant it expected a "modestly improved outcome" for 2026.
+Greggs opened 95 new shops and closed 38 in the year to date, taking its overall estate to 2,796 shops.
+Follow BBC North East on X, external and Facebook, external and BBC Cumbria on X, external and Facebook, external and both on Nextdoor and Instagram, external.
+Get in touch
+Do you have a story suggestion for BBC North East & Cumbria?
+- Published24 September 2025
+- Published16 September`,
+    bodyJa: `Greggs to shut four factories and cut 740 jobs
+- Published
+High street bakery brand Greggs has announced plans to shut four of its factories and cut 740 jobs.
+It plans to close manufacturing sites at North Lakes near Penrith, Cumbria, Pettigrews in Kelso, Scotland, Seaham in County Durham and Enfield, Greater London, though distribution operations would continue to run from the latter.
+The proposals will also impact manufacturing operations at its Treforest site in Wales, but this will also continue as a distribution centre for the business.
+The chain, which has headquarters in Newcastle, said its retail shops would not be affected by the proposed changes and like-for-like sales had grown across its managed stores.
+The changes would take place over the next two and a half years, with parts of Greggs' manufacturing processes relocating, the firm said.
+The range of products manufactured at its Clydesmill Glasgow and Manchester locations would be reduced and production of tinned bread at Gosforth would be stopped.
+Some products would also be sourced from specialist suppliers.
+The general secretary of the Bakers, Food and Allied Workers Union (BFAWU) Sarah Woolley said the union was "deeply concerned" about the announcement.
+She said: "Our immediate priority is our members, their jobs, their families and the communities that could be affected by these proposals."
+She added Greggs was clear in its own announcement the business continued to "perform strongly".
+'No decisions made'
+Greggs said positive trading and continued cost control means it expected a "modestly improved outcome" for 2026.
+Like-for-like sales grew by 3.4% across its managed stores, with overall growth buoyed by the opening of new shops.
+Woolley said Greggs' workers had played a "huge part" in getting the company where it is.
+She said: "Against that backdrop, our members will understandably be asking why their jobs and livelihoods should now be put at risk in the name of efficiency and future progression."
+But chief executive Roisin Currie said the company needed to "keep evolving alongside changing customer expectations".
+She said: "Greggs manufacturing and logistics network remains a key strength of the business, and these proposals are intended to strengthen our manufacturing network, improve efficiency and ensure we remain well placed for the future while continuing to deliver the quality, value and service our customers expect."
+The firm employs 33,000 people in the UK, the majority working in its stores.
+A consultation with staff is expected to start soon and the company said "no final decisions" had been made yet.
+The shake-up is expected to cost the firm about £60m, including disruption costs and redundancy payments.
+It said the plans would save it about £20m across the 2028 and 2029 financial years.
+The retail business said its sales grew by 7.7% in the three months to September 26, compared with the same period a year earlier.
+It said this represented progress in the face of "challenging market conditions", as consumer finances continued to come under pressure.
+The company said positive trading and continued cost control meant it expected a "modestly improved outcome" for 2026.
+Greggs opened 95 new shops and closed 38 in the year to date, taking its overall estate to 2,796 shops.
+Follow BBC North East on X, external and Facebook, external and BBC Cumbria on X, external and Facebook, external and both on Nextdoor and Instagram, external.
+Get in touch
+Do you have a story suggestion for BBC North East & Cumbria?
+- Published24 September 2025
+- Published16 September`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-30T11:47:22+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fad1/live/985534f0-bca6-11f1-a3e9-bbda6f9b9e25.jpg",
+    readTime: 9,
+  },
+  {
+    id: "inside-man-how-chinese-spies-used-lies-l-134b9b1b",
+    title: "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
+    titleJa: "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
+    summaryJa: "A CNBC investigation shows how former Fed advisor John Rogers became entangled with a man U.S. officials identify as a Chinese intelligence operative.",
+    bodyOriginal: `John Harold Rogers was walking Prada, his tiny spaniel, past a school bus stop in his suburban Washington neighborhood when FBI agents surrounded him. They handcuffed the former senior Federal Reserve official and took him into custody to face charges of spying for China.
+An agent took Prada's leash, and investigators from multiple federal agencies began an intensive search of Rogers' house.
+The now 65-year-old economist was arrested in January 2025, days before he was set to travel to China with his wife, a Chinese national, and their 6-year-old daughter. Investigators believed that Rogers passed information about the Fed to a Chinese government spy, who, over more than a decade, helped him with his career, his finances and his marriage to a woman 24 years his junior.
+The facts of this case read like a spy novel.Nicholas HunterFederal prosecutor
+Rogers' descent from senior Fed official to espionage suspect appears to have been driven by his desire for female companionship. This desire was exploited by a Chinese government agent, who became increasingly entwined in Rogers' professional and personal life. Rogers' indiscretion was later exploited by online blackmail scammers, ultimately leading to his downfall.
+"The facts of this case read like a spy novel," federal prosecutor Nicholas Hunter told the jury at Rogers' trial in 2026. "There was sex. There was money, manipulation, secret meetings with shady characters in China, fake identities, lies, trickery, and deceit. But this was real life. The events of this case all happened."
+The crucial question, though, was whether Rogers was a spy or a dupe for Chinese intelligence. His lawyers argued that he didn't pass any information of value to the Chinese and that he was just a naive academic who got caught up in espionage.
+A CNBC investigation of the Rogers case has yielded a trove of information not previously made public, including text messages, audio recordings made by investigators, copies of the secret Fed documents Rogers was accused of accessing, and dozens of photographs of Rogers, the Chinese spy and the young Chinese woman who would become Rogers' second wife. This story is based on those materials as well as interviews, testimony, and documents and images produced in court proceedings.
+Rogers declined to be interviewed for this story.
+Officials at the Federal Reserve and the Fed's Office of Inspector General declined to comment.
+U.S. Attorney for the District of Columbia Jeanine Pirro, whose office prosecuted Rogers, said: "John Rogers spent years secretly funneling sensitive Federal Reserve information to Chinese spies, then looked investigators in the eye and lied about it. And when that wasn't enough, he lied again under oath at trial."
+Jonathan Gitlen, an attorney for Rogers, told CNBC that the economist did not lie under oath.
+The Chinese spy
+Rogers first met the man U.S. officials identify as a Chinese government spy in 2013 at a conference in Shanghai sponsored by the Federal Reserve Bank of Dallas on the campus of Fudan University, one of China's elite colleges.
+During a session break, a tall, broad-shouldered young Chinese man approached Rogers and introduced himself as Hummin Lee, a Ph.D. student. The U.S. government believes Lee's real name is Jin Chuan and that he is a Chinese spy.
+Ralph Goff, a retired 35-year veteran of the Central Intelligence Agency, believes the Chinese government might have been tracking Rogers well before he met Lee in Shanghai. Goff, who did not play a role in the Rogers investigation but has decades of experience cultivating sources for espionage, said Rogers would have been a valuable target, given his role as senior advisor overseeing research in the Fed's international finance division, which gave him an inside view of one of the most important and impenetrable financial institutions in the world.
+The Chinese government's interest may have been piqued by Rogers' behavior on dating apps. Rogers, a single father whose four children had grown up and moved away, was lonely and spending time on a website called AsianDating.com. He was sending nude photos to people he met online.
+Lee and Rogers kept in touch over email and connected on Facebook, giving Lee a peek into Rogers' personal life, including photos of his family.
+It also gave Rogers a small peek at Lee. On Facebook, Lee's account displayed a picture of the young Chinese man from behind, rippling shoulders framed in a weight lifter's tank top. Another showed Lee on the floor of a gym in chocolate-chip camouflage pants, doing a situp while a German shepherd holds down his feet. Lee had just six friends on Facebook.
+Over the years, Lee wished Rogers a happy birthday. He sent him Christmas gifts, including a copy of Sun Tzu's "The Art of War" and a set of silk scarves. Lee also invited Rogers to lecture at universities in China.
+After Donald Trump was elected president in 2016, Lee emailed Rogers about a Christmas gift he had just sent — a traditional Chinese painting. And then he asked a pointed question about the new administration: "It seems Donald Trump not friendly to China," Lee wrote. "Some news said he will mark China as a currency manipulator, will that be true? Do you have any comments about this? Have a great Christmas Day."
+In his reply, Rogers didn't answer the question. "Merry Christmas to you too, Hummin," he wrote. "You are so kind, as always. I did not yet receive your kind gift but will let you know when I do."
+Romance in China
+A week later, on New Year's Eve, Rogers was home alone. He would later say that on that night he "kind of felt like a loser." Late in the evening, he logged on to AsianDating.com.
+There, he encountered a young woman in Shanghai with a beautiful smile: Yu Liu, known as Yu Yu. Rogers thought she had lovely eyes.
+The two exchanged photos and talked about their goals for the future. Soon, they were discussing building a new life together. Rogers did not speak Chinese. But Yu Yu's messages were so well written that Rogers believed that she spoke excellent English. Later he learned that she didn't speak the language at all.
+Rogers' budding romance with Yu Yu changed his relationship with Lee. Suddenly, the American economist was eager to travel to China, where he would be able to meet the woman with the beautiful smile.
+Goff said Chinese intelligence was likely aware of the meeting. "If this woman wasn't a plant by Chinese intelligence into that web dating site, then I'm sure that they had a meeting with her soon after that contact," Goff said. He said Chinese intelligence could have told Yu Yu to pursue the relationship.
+It is unclear whether Yu Yu has any links to the Chinese government. CNBC attempted to contact Yu Yu at her home and provided a detailed list of questions to her, but she has not responded.
+The following May, Rogers accepted an invitation from Lee to lecture at two universities in China. On that trip, Rogers met Yu Yu in person for the first time. The couple had to rely on smartphone apps to communicate with one another, but that didn't slow down the relationship.
+When he returned to the United States, Rogers' text messages with Yu Yu had turned to talk of marriage and babies. Rogers wrote: "I am lonely without Yuyu."
+Soon, Rogers wrote to Lee proposing that he be invited back to teach classes at Chinese universities — and to spend a few days in Shanghai, where Yu Yu lived.
+Lee replied by email, delighted to accommodate the Federal Reserve economist. "Of course it's a great plan for us," Lee wrote. "We always look forward to listening to your presentation. ... Your related expenses in China will all be covered by us." Lee got to work providing documents for Rogers to use in his visa application to travel to China.
+Lee arranged for Rogers to return to China in October 2017. Lee managed the itinerary, set up lectures, and arranged for Rogers and Yu Yu to travel by train together between Chinese cities.
+On that trip, the second time Rogers had seen Yu Yu in person, she became pregnant. After landing back in the United States, Rogers sent Yu Yu a text message: "I want to marry you. Will you marry me, sweetheart?"
+Yu Yu replied: "God told me: Marrying John is right!"
+The couple began planning for a wedding in Hong Kong. The next month, Yu Yu texted Rogers with a picture of her pregnancy test. Rogers replied, "I am so happy YuYu. To be a father again is the best thing that could ever happen to me. I love you so much."
+'That guy seemed to know everything'
+The pregnancy and wedding planning made Rogers more dependent on Lee. The American needed travel assistance, help navigating the bureaucracy and funding for his trip. Lee came through for him. "That guy seemed to know everything," Rogers later told Fed investigators.
+While Lee was getting more involved in Rogers' increasingly complicated life, he was also asking for information about the inner workings of the Fed. Rogers pushed back, saying he didn't have much to share. He said later that he'd told Lee, "I don't have any knowledge, nor does any economist at the Fed have any knowledge in addition to what we put on the website."
+Lee introduced Rogers to his boss, whom he called Professor Cui. It was this boss, Lee said, who authorized funds for Rogers' travel and who set up invitations for Rogers to lecture in China.
+Cui pressed Rogers for rumors and gossip about the Fed and offered him packets of cash, which Rogers said he turned down. Rogers said in court that Cui played the role of bad cop to Lee's good cop.
+Much later, when federal agents searched Rogers' home, they would find $55,000 in cash, some of which was in a white plastic grocery bag at the bottom of a closet mixed in with a pile of women's clothing. According to trial testimony, investigators were unable to establish where the cash came from.
+Rogers' life, though, was growing increasingly complicated and expensive. At one point Lee wrote to Rogers: "Yu Yu said she needs 5,000 before you come back. So I wired 5,000 to her. Used my own money. Don't worry."
+Rogers needed more help, and cash, for Yu Yu to get a divorce from her then-husband, who was demanding 80,000 yuan — currently about $12,000 — to sign the papers. Rogers offered 10,000 yuan.
+Lee promised he would get the divorce papers signed. "Go to sleep and take a good rest man," Lee wrote to Rogers.
+Just over seven hours later, Lee texted Rogers photos of a newly issued divorce certificate. "Yuyu got the divorce certificate!" Lee wrote.
+"This is the best waking up message I have ever received," Rogers replied.
+Rogers and Yu Yu married in Hong Kong in March 2018. Lee had planned logistics and important details of the wedding — and he signed the prenuptial agreement between Rogers and Yu Yu as a witness. "Thank goodness I've got you assisting with everything! Yuyu and I would be sunk without you," Rogers wrote to Lee.
+When Yu Yu's due date approached in the summer of 2018, Rogers took paternity leave from the Fed and flew to China to be present for the birth of his new daughter. Lee met him at the airport and accompanied Rogers and Yu Yu to the hospital for the birth.
+Rogers was also aware that Lee, now supposedly an economics professor at a Chinese university, had an unusually intense interest in him. The Chinese economist was a "super nice guy but so nice it was a little bit spooky," Rogers told Fed investigators.
+Rogers had fallen in love with China itself. On his phone, he carried a lengthy love letter of sorts that he wrote to the nation. It began: "Dear Chinese people, I love your kindness, your generosity, your humbly hardworking high-achieving society."
+Yu Yu and their baby eventually moved to Rogers' home in Virginia.
+I owe everything to [Hummin Lee] ... And I love him like a brother.John RogersFormer Federal Reserve official
+Rogers later acknowledged to investigators that he was deeply indebted to Lee. "I owe everything to him. The baby wouldn't have happened, the relationship with my wife wouldn't have happened, despite the fact that we met online, it just would not have happened without him. And I love him like a brother."
+The hunt for Fed secrets
+Lee's efforts to get information about the Fed from Rogers appeared to intensify. Lee arranged regular trips for Rogers to travel to China to conduct classes, although the sessions often took place in hotel rooms, with just a handful of attendees. The topics included specific aspects of the Fed's oversight of the U.S. economy.
+At one point, Lee messaged Rogers images of a document that contained a list of typed questions, including: "The Fed raised interest rates several times during the past two years. Why is the dollar not showing significant changes in appreciation, but has always been at a low level?" And "How does the Fed evaluate China's financial liberalization, especially the openness of the stock market and exchange rate?"
+At the bottom of the document were questions about Trump: "How does the Fed evaluate the trade war with China proposed by Trump? Will the Fed adjust monetary policy to cooperate with the trade war? What specific measures will the Fed take?"
+In his message to Rogers, Lee said: "I'm wondering if you could help us collect answers from your colleagues or documents and teach us when we meet."
+Rogers testified at his trial that the questions were harmless. "These were bread-and-butter classic questions in international finance and macroeconomics, and they not only could be addressed without using any sort of Fed sensitive information, but these questions have been addressed in the literature for dozens of years," he said.
+After receiving the question list, Rogers emailed two colleagues inside the Fed, looking for answers. "I am wondering if you can point me to some readings on the Fed and China. I am traveling to a conference in Beijing soon," Rogers wrote. "I want to be helpful to my very generous hosts, of course, but I never seem able to provide them with the right material. Part of it, I think, is that they want me to reveal some kind of Fed secrets they believe exist."
+Part of it, I think, is that they want me to reveal some kind of Fed secrets they believe exist.John RogersFormer Federal Reserve official, referring to his Chinese 'hosts' in an email to two Fed colleagues
+Rogers asked the colleagues to provide material he could "appropriately share" with the Chinese.
+A colleague responded with two attachments, one of which was labeled "Nonconfidential/Internal FR," with "FR" standing for "Federal Reserve."
+Rogers, a federal agent would later testify, changed the heading on that document to "Nonconfidential/External" and sent it on to Lee.
+Rogers' attorneys said that as a senior Fed official, Rogers had the authority to use his judgment to change the heading on the document, because he had also removed any sensitive information from it.
+In October 2018, Rogers suggested to Lee that their next class could focus on "Trade policy uncertainty."
+Later he emailed a colleague, asking for Fed material on trade policy uncertainty. He wrote to his colleague: "Could you give me: One, the three-sentences description of our current thinking, and/or, number two, anything in writing that is allowed to be shared? If there is something in writing that is not allowed to be shared, please send that just for me to catch up."
+The colleague forwarded Rogers a document on washing machine tariffs. Just how secret the information in that document was — or whether it was a secret at all — would later become a point of contention between prosecutors and Rogers' lawyers in court.
+Rogers forwarded the document to his personal Gmail account and from there sent it to Lee.
+The next June, Rogers printed out two documents, one of which came from a category that generally applied to economic forecasts prepared by the Fed's staff for its interest rate setting committee and for operations where the Fed buys and sells bonds, according to Fed guidelines. These are among the most sensitive activities for the Fed. The other was a set of bullet points for a briefing that a Federal Reserve economist was set to give to Fed governors before a Federal Open Market Committee meeting. The next day Rogers boarded a flight to China.
+Three days later, Rogers took a picture of a class in session in a hotel room in Beijing. In the picture were three people: Hummin Lee, another man and a woman, all dressed in T-shirts and posing by a large video monitor. Lee and the other man, prosecutors said later, worked for Chinese security and intelligence services.
+A marriage unravels
+Back at home, Rogers' relationship with Yu Yu was beginning to disintegrate. Moving from Shanghai to Vienna, Virginia, and raising a baby in unfamiliar surroundings had been an enormous change. "She had a very difficult time adjusting to the new life, and understandably," Rogers later testified. "I was very, very sympathetic." Their relationship became turbulent.
+By early 2019, Rogers and Yu Yu were fighting by text message. Yu Yu demanded more money from Rogers, and Rogers said he'd given enough — including paying for Yu Yu's parents' apartment.
+Yu Yu also claimed Rogers was seeing other women. "You need to take responsibility for your wife and a new baby!" she wrote. "You have too many girlfriends."
+Soon, local police were involved. Rogers had invited another woman to live in his home. Gitlen later told CNBC that she was a masseuse who had treated Rogers for back problems.
+Verbal fights between the two women devolved into a physical brawl. Yu Yu and Rogers told Vienna police that Yu Yu had been assaulted. Yu Yu said the woman scratched her face and breast and pulled her hair. An officer asked Rogers about his relationship with the other woman. "I swear to God we're just friends," Rogers told the police.
+But the breakdown of Rogers' relationship with Yu Yu was complete. Rogers said Yu Yu moved into a guest room in his house.
+In his renewed loneliness, Rogers once again turned to the internet. This time it would lead to his downfall.
+Blackmail and trial
+On Instagram, Rogers exchanged messages with accounts featuring beautiful women, eventually exchanging nude photos of himself taken with his Fed-issued phone, sometimes in the gym at Fed headquarters in Washington.
+Soon, the people behind the accounts began demanding money. They told Rogers they knew where he worked, what kind of car he drove. They threatened to send Rogers' nudes to the vice chair of the Fed, Richard Clarida. They threatened to kidnap Rogers' then-18-month-old daughter. Rogers would testify that all of this had him "very scared and wanting to protect my family."
+This was the breaking point. In 2020, on Super Bowl Sunday, Rogers told higher-ups what had been going on. They referred Rogers to the Fed's Office of Inspector General.
+Rogers was already on the Inspector General's radar, and the Fed's cybersecurity team had concerns about Rogers' travel to China and his relationship with Lee.
+Rogers met with Alan Hershkowitz, a special agent at the Office of Inspector General responsible for criminal investigations, for a voluntary meeting that stretched to 2½ hours. "My brain is a little frazzled," Rogers can be heard saying on a recording of the conversation.
+On the recording, when the topic turns to nude photos, Rogers breathes heavily and lets out several loud sighs as he struggles to explain how the scammers got the photos. "Of course, one wracks his brain about 'how did this happen, what did I do wrong,'" Rogers said.
+"Serious question, and we have to ask it," Hershkowitz said. "Are there nude photos, have you ever taken a nude photo of yourself?"
+"No," replied Rogers.
+Pressing further, Hershkowitz told Rogers that the information was important in determining whether the scammers' threats were real. Rogers sighed again and said, "I can't rule it out."
+Soon the conversation turned to China and Rogers' relationships with Yu Yu and Lee.
+All of the book smarts he had, all of the articles in his resume, they don't prepare you for spies.Stephen SaltzburgAttorney for John Rogers
+Then Hershkowitz asked: "Did you ever provide or share any restricted [Fed Board of Governors] information?" He detailed several types of information deemed confidential at the Fed. "Did you share or provide any of this information with anyone else outside of the board?"
+Rogers responded: "Never."
+Prosecutors would later allege that was a lie. They could prove he had sent such a document — not to Lee, but to a co-author at Fudan University in Shanghai. Rogers' attorneys would argue that although "never" was a false statement, it wasn't made knowingly and willfully — that Rogers was emotional about the nude pictures and the blackmail and couldn't remember every document he sent over the years.
+The incident effectively ended Rogers' career as a Fed economist. He was placed on administrative leave and resigned in lieu of termination in the spring of 2021.
+The circumstances of his departure — the years of Chinese contacts, the nude pictures at the Fed — were not made public.
+Soon after he left the Fed, Rogers began teaching classes at Fudan University — the same university he had visited when he first met Lee in 2013. He believed the case against him had ended.
+He was wrong. The Fed had taken the case to the FBI, and more than three years later its agents surrounded Rogers and his dog at the school bus stop.
+He was charged with one count of making false statements to investigators and one count of conspiracy to commit economic espionage, the far more serious charge.
+Rogers' trial began in January 2026.
+Prosecutors at his trial called Rogers a traitor who "conspired with spies in China to provide secret information from the U.S. Federal Reserve worth untold sums of money to the People's Republic of China."
+Stephen Saltzburg, an attorney for Rogers, argued that Rogers trusted the wrong people. "All of the book smarts he had, all of the articles in his resume, they don't prepare you for spies."
+On Feb. 3, the jury found Rogers guilty on the charge of making false statements but acquitted him on the charge of conspiracy to commit economic espionage.
+On July 15, he was sentenced to 38 months in federal prison.
+The same day, a report by the Fed's Inspector General said the central bank had several security problems, including the lack of "a process to identify its critical assets," and that it needed a program to manage insider risks.
+In another report, published Sept. 24, the Inspector General's office revealed that a Fed employee in 2024 transferred potentially sensitive information outside the Fed just before retiring, exposing deficiencies in the Fed's ability to secure information.
+To CIA veteran Goff, the Rogers case represents a victory for the U.S. government, even though Rogers wasn't convicted of spying. "I think they won out in the end, but it shouldn't have taken that long."
+Asked if he believes the Chinese are still trying to penetrate the Fed, Goff replied: "Absolutely."
+Three weeks after Goff's comment, the FBI and the Justice Department announced they had taken down a vast China state-sponsored hacking operation that targeted sensitive American institutions, including the Federal Reserve.
+At the end of his testimony, Rogers was asked who he believed Lee was.
+"A spy," Rogers responded.
+"And knowing that, how does that make you feel?" he was asked.
+"Duped," Rogers said. "He was my friend."`,
+    bodyJa: `John Harold Rogers was walking Prada, his tiny spaniel, past a school bus stop in his suburban Washington neighborhood when FBI agents surrounded him. They handcuffed the former senior Federal Reserve official and took him into custody to face charges of spying for China.
+An agent took Prada's leash, and investigators from multiple federal agencies began an intensive search of Rogers' house.
+The now 65-year-old economist was arrested in January 2025, days before he was set to travel to China with his wife, a Chinese national, and their 6-year-old daughter. Investigators believed that Rogers passed information about the Fed to a Chinese government spy, who, over more than a decade, helped him with his career, his finances and his marriage to a woman 24 years his junior.
+The facts of this case read like a spy novel.Nicholas HunterFederal prosecutor
+Rogers' descent from senior Fed official to espionage suspect appears to have been driven by his desire for female companionship. This desire was exploited by a Chinese government agent, who became increasingly entwined in Rogers' professional and personal life. Rogers' indiscretion was later exploited by online blackmail scammers, ultimately leading to his downfall.
+"The facts of this case read like a spy novel," federal prosecutor Nicholas Hunter told the jury at Rogers' trial in 2026. "There was sex. There was money, manipulation, secret meetings with shady characters in China, fake identities, lies, trickery, and deceit. But this was real life. The events of this case all happened."
+The crucial question, though, was whether Rogers was a spy or a dupe for Chinese intelligence. His lawyers argued that he didn't pass any information of value to the Chinese and that he was just a naive academic who got caught up in espionage.
+A CNBC investigation of the Rogers case has yielded a trove of information not previously made public, including text messages, audio recordings made by investigators, copies of the secret Fed documents Rogers was accused of accessing, and dozens of photographs of Rogers, the Chinese spy and the young Chinese woman who would become Rogers' second wife. This story is based on those materials as well as interviews, testimony, and documents and images produced in court proceedings.
+Rogers declined to be interviewed for this story.
+Officials at the Federal Reserve and the Fed's Office of Inspector General declined to comment.
+U.S. Attorney for the District of Columbia Jeanine Pirro, whose office prosecuted Rogers, said: "John Rogers spent years secretly funneling sensitive Federal Reserve information to Chinese spies, then looked investigators in the eye and lied about it. And when that wasn't enough, he lied again under oath at trial."
+Jonathan Gitlen, an attorney for Rogers, told CNBC that the economist did not lie under oath.
+The Chinese spy
+Rogers first met the man U.S. officials identify as a Chinese government spy in 2013 at a conference in Shanghai sponsored by the Federal Reserve Bank of Dallas on the campus of Fudan University, one of China's elite colleges.
+During a session break, a tall, broad-shouldered young Chinese man approached Rogers and introduced himself as Hummin Lee, a Ph.D. student. The U.S. government believes Lee's real name is Jin Chuan and that he is a Chinese spy.
+Ralph Goff, a retired 35-year veteran of the Central Intelligence Agency, believes the Chinese government might have been tracking Rogers well before he met Lee in Shanghai. Goff, who did not play a role in the Rogers investigation but has decades of experience cultivating sources for espionage, said Rogers would have been a valuable target, given his role as senior advisor overseeing research in the Fed's international finance division, which gave him an inside view of one of the most important and impenetrable financial institutions in the world.
+The Chinese government's interest may have been piqued by Rogers' behavior on dating apps. Rogers, a single father whose four children had grown up and moved away, was lonely and spending time on a website called AsianDating.com. He was sending nude photos to people he met online.
+Lee and Rogers kept in touch over email and connected on Facebook, giving Lee a peek into Rogers' personal life, including photos of his family.
+It also gave Rogers a small peek at Lee. On Facebook, Lee's account displayed a picture of the young Chinese man from behind, rippling shoulders framed in a weight lifter's tank top. Another showed Lee on the floor of a gym in chocolate-chip camouflage pants, doing a situp while a German shepherd holds down his feet. Lee had just six friends on Facebook.
+Over the years, Lee wished Rogers a happy birthday. He sent him Christmas gifts, including a copy of Sun Tzu's "The Art of War" and a set of silk scarves. Lee also invited Rogers to lecture at universities in China.
+After Donald Trump was elected president in 2016, Lee emailed Rogers about a Christmas gift he had just sent — a traditional Chinese painting. And then he asked a pointed question about the new administration: "It seems Donald Trump not friendly to China," Lee wrote. "Some news said he will mark China as a currency manipulator, will that be true? Do you have any comments about this? Have a great Christmas Day."
+In his reply, Rogers didn't answer the question. "Merry Christmas to you too, Hummin," he wrote. "You are so kind, as always. I did not yet receive your kind gift but will let you know when I do."
+Romance in China
+A week later, on New Year's Eve, Rogers was home alone. He would later say that on that night he "kind of felt like a loser." Late in the evening, he logged on to AsianDating.com.
+There, he encountered a young woman in Shanghai with a beautiful smile: Yu Liu, known as Yu Yu. Rogers thought she had lovely eyes.
+The two exchanged photos and talked about their goals for the future. Soon, they were discussing building a new life together. Rogers did not speak Chinese. But Yu Yu's messages were so well written that Rogers believed that she spoke excellent English. Later he learned that she didn't speak the language at all.
+Rogers' budding romance with Yu Yu changed his relationship with Lee. Suddenly, the American economist was eager to travel to China, where he would be able to meet the woman with the beautiful smile.
+Goff said Chinese intelligence was likely aware of the meeting. "If this woman wasn't a plant by Chinese intelligence into that web dating site, then I'm sure that they had a meeting with her soon after that contact," Goff said. He said Chinese intelligence could have told Yu Yu to pursue the relationship.
+It is unclear whether Yu Yu has any links to the Chinese government. CNBC attempted to contact Yu Yu at her home and provided a detailed list of questions to her, but she has not responded.
+The following May, Rogers accepted an invitation from Lee to lecture at two universities in China. On that trip, Rogers met Yu Yu in person for the first time. The couple had to rely on smartphone apps to communicate with one another, but that didn't slow down the relationship.
+When he returned to the United States, Rogers' text messages with Yu Yu had turned to talk of marriage and babies. Rogers wrote: "I am lonely without Yuyu."
+Soon, Rogers wrote to Lee proposing that he be invited back to teach classes at Chinese universities — and to spend a few days in Shanghai, where Yu Yu lived.
+Lee replied by email, delighted to accommodate the Federal Reserve economist. "Of course it's a great plan for us," Lee wrote. "We always look forward to listening to your presentation. ... Your related expenses in China will all be covered by us." Lee got to work providing documents for Rogers to use in his visa application to travel to China.
+Lee arranged for Rogers to return to China in October 2017. Lee managed the itinerary, set up lectures, and arranged for Rogers and Yu Yu to travel by train together between Chinese cities.
+On that trip, the second time Rogers had seen Yu Yu in person, she became pregnant. After landing back in the United States, Rogers sent Yu Yu a text message: "I want to marry you. Will you marry me, sweetheart?"
+Yu Yu replied: "God told me: Marrying John is right!"
+The couple began planning for a wedding in Hong Kong. The next month, Yu Yu texted Rogers with a picture of her pregnancy test. Rogers replied, "I am so happy YuYu. To be a father again is the best thing that could ever happen to me. I love you so much."
+'That guy seemed to know everything'
+The pregnancy and wedding planning made Rogers more dependent on Lee. The American needed travel assistance, help navigating the bureaucracy and funding for his trip. Lee came through for him. "That guy seemed to know everything," Rogers later told Fed investigators.
+While Lee was getting more involved in Rogers' increasingly complicated life, he was also asking for information about the inner workings of the Fed. Rogers pushed back, saying he didn't have much to share. He said later that he'd told Lee, "I don't have any knowledge, nor does any economist at the Fed have any knowledge in addition to what we put on the website."
+Lee introduced Rogers to his boss, whom he called Professor Cui. It was this boss, Lee said, who authorized funds for Rogers' travel and who set up invitations for Rogers to lecture in China.
+Cui pressed Rogers for rumors and gossip about the Fed and offered him packets of cash, which Rogers said he turned down. Rogers said in court that Cui played the role of bad cop to Lee's good cop.
+Much later, when federal agents searched Rogers' home, they would find $55,000 in cash, some of which was in a white plastic grocery bag at the bottom of a closet mixed in with a pile of women's clothing. According to trial testimony, investigators were unable to establish where the cash came from.
+Rogers' life, though, was growing increasingly complicated and expensive. At one point Lee wrote to Rogers: "Yu Yu said she needs 5,000 before you come back. So I wired 5,000 to her. Used my own money. Don't worry."
+Rogers needed more help, and cash, for Yu Yu to get a divorce from her then-husband, who was demanding 80,000 yuan — currently about $12,000 — to sign the papers. Rogers offered 10,000 yuan.
+Lee promised he would get the divorce papers signed. "Go to sleep and take a good rest man," Lee wrote to Rogers.
+Just over seven hours later, Lee texted Rogers photos of a newly issued divorce certificate. "Yuyu got the divorce certificate!" Lee wrote.
+"This is the best waking up message I have ever received," Rogers replied.
+Rogers and Yu Yu married in Hong Kong in March 2018. Lee had planned logistics and important details of the wedding — and he signed the prenuptial agreement between Rogers and Yu Yu as a witness. "Thank goodness I've got you assisting with everything! Yuyu and I would be sunk without you," Rogers wrote to Lee.
+When Yu Yu's due date approached in the summer of 2018, Rogers took paternity leave from the Fed and flew to China to be present for the birth of his new daughter. Lee met him at the airport and accompanied Rogers and Yu Yu to the hospital for the birth.
+Rogers was also aware that Lee, now supposedly an economics professor at a Chinese university, had an unusually intense interest in him. The Chinese economist was a "super nice guy but so nice it was a little bit spooky," Rogers told Fed investigators.
+Rogers had fallen in love with China itself. On his phone, he carried a lengthy love letter of sorts that he wrote to the nation. It began: "Dear Chinese people, I love your kindness, your generosity, your humbly hardworking high-achieving society."
+Yu Yu and their baby eventually moved to Rogers' home in Virginia.
+I owe everything to [Hummin Lee] ... And I love him like a brother.John RogersFormer Federal Reserve official
+Rogers later acknowledged to investigators that he was deeply indebted to Lee. "I owe everything to him. The baby wouldn't have happened, the relationship with my wife wouldn't have happened, despite the fact that we met online, it just would not have happened without him. And I love him like a brother."
+The hunt for Fed secrets
+Lee's efforts to get information about the Fed from Rogers appeared to intensify. Lee arranged regular trips for Rogers to travel to China to conduct classes, although the sessions often took place in hotel rooms, with just a handful of attendees. The topics included specific aspects of the Fed's oversight of the U.S. economy.
+At one point, Lee messaged Rogers images of a document that contained a list of typed questions, including: "The Fed raised interest rates several times during the past two years. Why is the dollar not showing significant changes in appreciation, but has always been at a low level?" And "How does the Fed evaluate China's financial liberalization, especially the openness of the stock market and exchange rate?"
+At the bottom of the document were questions about Trump: "How does the Fed evaluate the trade war with China proposed by Trump? Will the Fed adjust monetary policy to cooperate with the trade war? What specific measures will the Fed take?"
+In his message to Rogers, Lee said: "I'm wondering if you could help us collect answers from your colleagues or documents and teach us when we meet."
+Rogers testified at his trial that the questions were harmless. "These were bread-and-butter classic questions in international finance and macroeconomics, and they not only could be addressed without using any sort of Fed sensitive information, but these questions have been addressed in the literature for dozens of years," he said.
+After receiving the question list, Rogers emailed two colleagues inside the Fed, looking for answers. "I am wondering if you can point me to some readings on the Fed and China. I am traveling to a conference in Beijing soon," Rogers wrote. "I want to be helpful to my very generous hosts, of course, but I never seem able to provide them with the right material. Part of it, I think, is that they want me to reveal some kind of Fed secrets they believe exist."
+Part of it, I think, is that they want me to reveal some kind of Fed secrets they believe exist.John RogersFormer Federal Reserve official, referring to his Chinese 'hosts' in an email to two Fed colleagues
+Rogers asked the colleagues to provide material he could "appropriately share" with the Chinese.
+A colleague responded with two attachments, one of which was labeled "Nonconfidential/Internal FR," with "FR" standing for "Federal Reserve."
+Rogers, a federal agent would later testify, changed the heading on that document to "Nonconfidential/External" and sent it on to Lee.
+Rogers' attorneys said that as a senior Fed official, Rogers had the authority to use his judgment to change the heading on the document, because he had also removed any sensitive information from it.
+In October 2018, Rogers suggested to Lee that their next class could focus on "Trade policy uncertainty."
+Later he emailed a colleague, asking for Fed material on trade policy uncertainty. He wrote to his colleague: "Could you give me: One, the three-sentences description of our current thinking, and/or, number two, anything in writing that is allowed to be shared? If there is something in writing that is not allowed to be shared, please send that just for me to catch up."
+The colleague forwarded Rogers a document on washing machine tariffs. Just how secret the information in that document was — or whether it was a secret at all — would later become a point of contention between prosecutors and Rogers' lawyers in court.
+Rogers forwarded the document to his personal Gmail account and from there sent it to Lee.
+The next June, Rogers printed out two documents, one of which came from a category that generally applied to economic forecasts prepared by the Fed's staff for its interest rate setting committee and for operations where the Fed buys and sells bonds, according to Fed guidelines. These are among the most sensitive activities for the Fed. The other was a set of bullet points for a briefing that a Federal Reserve economist was set to give to Fed governors before a Federal Open Market Committee meeting. The next day Rogers boarded a flight to China.
+Three days later, Rogers took a picture of a class in session in a hotel room in Beijing. In the picture were three people: Hummin Lee, another man and a woman, all dressed in T-shirts and posing by a large video monitor. Lee and the other man, prosecutors said later, worked for Chinese security and intelligence services.
+A marriage unravels
+Back at home, Rogers' relationship with Yu Yu was beginning to disintegrate. Moving from Shanghai to Vienna, Virginia, and raising a baby in unfamiliar surroundings had been an enormous change. "She had a very difficult time adjusting to the new life, and understandably," Rogers later testified. "I was very, very sympathetic." Their relationship became turbulent.
+By early 2019, Rogers and Yu Yu were fighting by text message. Yu Yu demanded more money from Rogers, and Rogers said he'd given enough — including paying for Yu Yu's parents' apartment.
+Yu Yu also claimed Rogers was seeing other women. "You need to take responsibility for your wife and a new baby!" she wrote. "You have too many girlfriends."
+Soon, local police were involved. Rogers had invited another woman to live in his home. Gitlen later told CNBC that she was a masseuse who had treated Rogers for back problems.
+Verbal fights between the two women devolved into a physical brawl. Yu Yu and Rogers told Vienna police that Yu Yu had been assaulted. Yu Yu said the woman scratched her face and breast and pulled her hair. An officer asked Rogers about his relationship with the other woman. "I swear to God we're just friends," Rogers told the police.
+But the breakdown of Rogers' relationship with Yu Yu was complete. Rogers said Yu Yu moved into a guest room in his house.
+In his renewed loneliness, Rogers once again turned to the internet. This time it would lead to his downfall.
+Blackmail and trial
+On Instagram, Rogers exchanged messages with accounts featuring beautiful women, eventually exchanging nude photos of himself taken with his Fed-issued phone, sometimes in the gym at Fed headquarters in Washington.
+Soon, the people behind the accounts began demanding money. They told Rogers they knew where he worked, what kind of car he drove. They threatened to send Rogers' nudes to the vice chair of the Fed, Richard Clarida. They threatened to kidnap Rogers' then-18-month-old daughter. Rogers would testify that all of this had him "very scared and wanting to protect my family."
+This was the breaking point. In 2020, on Super Bowl Sunday, Rogers told higher-ups what had been going on. They referred Rogers to the Fed's Office of Inspector General.
+Rogers was already on the Inspector General's radar, and the Fed's cybersecurity team had concerns about Rogers' travel to China and his relationship with Lee.
+Rogers met with Alan Hershkowitz, a special agent at the Office of Inspector General responsible for criminal investigations, for a voluntary meeting that stretched to 2½ hours. "My brain is a little frazzled," Rogers can be heard saying on a recording of the conversation.
+On the recording, when the topic turns to nude photos, Rogers breathes heavily and lets out several loud sighs as he struggles to explain how the scammers got the photos. "Of course, one wracks his brain about 'how did this happen, what did I do wrong,'" Rogers said.
+"Serious question, and we have to ask it," Hershkowitz said. "Are there nude photos, have you ever taken a nude photo of yourself?"
+"No," replied Rogers.
+Pressing further, Hershkowitz told Rogers that the information was important in determining whether the scammers' threats were real. Rogers sighed again and said, "I can't rule it out."
+Soon the conversation turned to China and Rogers' relationships with Yu Yu and Lee.
+All of the book smarts he had, all of the articles in his resume, they don't prepare you for spies.Stephen SaltzburgAttorney for John Rogers
+Then Hershkowitz asked: "Did you ever provide or share any restricted [Fed Board of Governors] information?" He detailed several types of information deemed confidential at the Fed. "Did you share or provide any of this information with anyone else outside of the board?"
+Rogers responded: "Never."
+Prosecutors would later allege that was a lie. They could prove he had sent such a document — not to Lee, but to a co-author at Fudan University in Shanghai. Rogers' attorneys would argue that although "never" was a false statement, it wasn't made knowingly and willfully — that Rogers was emotional about the nude pictures and the blackmail and couldn't remember every document he sent over the years.
+The incident effectively ended Rogers' career as a Fed economist. He was placed on administrative leave and resigned in lieu of termination in the spring of 2021.
+The circumstances of his departure — the years of Chinese contacts, the nude pictures at the Fed — were not made public.
+Soon after he left the Fed, Rogers began teaching classes at Fudan University — the same university he had visited when he first met Lee in 2013. He believed the case against him had ended.
+He was wrong. The Fed had taken the case to the FBI, and more than three years later its agents surrounded Rogers and his dog at the school bus stop.
+He was charged with one count of making false statements to investigators and one count of conspiracy to commit economic espionage, the far more serious charge.
+Rogers' trial began in January 2026.
+Prosecutors at his trial called Rogers a traitor who "conspired with spies in China to provide secret information from the U.S. Federal Reserve worth untold sums of money to the People's Republic of China."
+Stephen Saltzburg, an attorney for Rogers, argued that Rogers trusted the wrong people. "All of the book smarts he had, all of the articles in his resume, they don't prepare you for spies."
+On Feb. 3, the jury found Rogers guilty on the charge of making false statements but acquitted him on the charge of conspiracy to commit economic espionage.
+On July 15, he was sentenced to 38 months in federal prison.
+The same day, a report by the Fed's Inspector General said the central bank had several security problems, including the lack of "a process to identify its critical assets," and that it needed a program to manage insider risks.
+In another report, published Sept. 24, the Inspector General's office revealed that a Fed employee in 2024 transferred potentially sensitive information outside the Fed just before retiring, exposing deficiencies in the Fed's ability to secure information.
+To CIA veteran Goff, the Rogers case represents a victory for the U.S. government, even though Rogers wasn't convicted of spying. "I think they won out in the end, but it shouldn't have taken that long."
+Asked if he believes the Chinese are still trying to penetrate the Fed, Goff replied: "Absolutely."
+Three weeks after Goff's comment, the FBI and the Justice Department announced they had taken down a vast China state-sponsored hacking operation that targeted sensitive American institutions, including the Federal Reserve.
+At the end of his testimony, Rogers was asked who he believed Lee was.
+"A spy," Rogers responded.
+"And knowing that, how does that make you feel?" he was asked.
+"Duped," Rogers said. "He was my friend."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html",
+    publishedAt: "2026-09-30T10:55:49+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "regulating-ai-not-the-right-place-to-sta-edf02f36",
+    title: "Regulating AI 'not the right place to start' says Bailey",
+    titleJa: "Regulating AI 'not the right place to start' says Bailey",
+    summaryJa: "Regulating AI 'not the right place to start' says Bailey- Published",
+    bodyOriginal: `Regulating AI 'not the right place to start' says Bailey
+- Published
+The Governor of the Bank of England has said regulating artificial intelligence (AI) "is not the right place to start" but instead called first for "rigorous" testing to find vulnerabilities and safeguards to contain risk.
+Writing his first-ever article for Substack, Andrew Bailey said the risks around AI were "real and increasingly significant".
+Bailey said the development of AI should not be halted or prohibited - "on the contrary, the benefits are immense" - but added there must be a system for intervention and to establish boundaries in which AI operates.
+In recent weeks, the debate about the potential risks surrounding the rapid development of AI and what it means for humanity has intensified.
+The bosses of leading AI firms such as Anthropic and OpenAI have called for development of the technology to slow down and for an internationally co-ordinated approach assessing risks and putting safeguards in place.
+OpenAI recently announced that it would not release its latest AI model due to safety concerns.
+The idea of a slowdown, however, has been rejected by the likes of President Donald Trump who has said the US is leading the AI race ahead of China, adding: "And, frankly, I want to keep it that way because whoever wins AI, wins."
+But on Tuesday, after hosting a summit with the leading firms in AI such as OpenAI and Anthropic, Trump said executives had signed a "morally binding" document that would serve as a "form of protection" from AI's potential risks.
+Chinese AI tool told researchers how to make bioweapons
+- Published13 hours ago
+OpenAI scraps rollout of new model over safety concerns
+- Published1 day ago
+Under the agreement, the companies are responsible for ensuring the safety of their own technology.
+In the UK, Bailey said "important work" was underway in testing AI - the UK has set up the AI Security Institute - which, he said, should help form part of a set of standards.
+"But the pace of progress must accelerate," the bank governor said, though he added: "We should proceed with a degree of humility."
+He said, with testing, there will be failures and "models will behave unexpectedly".
+But, he said: "That is not evidence that testing has failed, rather it is evidence of why testing is necessary."
+Bailey said that testing should not be seen as an alternative to future regulation - over time a more formal regulatory framework might emerge. "But regulation is not, in my view, the right place to start."`,
+    bodyJa: `Regulating AI 'not the right place to start' says Bailey
+- Published
+The Governor of the Bank of England has said regulating artificial intelligence (AI) "is not the right place to start" but instead called first for "rigorous" testing to find vulnerabilities and safeguards to contain risk.
+Writing his first-ever article for Substack, Andrew Bailey said the risks around AI were "real and increasingly significant".
+Bailey said the development of AI should not be halted or prohibited - "on the contrary, the benefits are immense" - but added there must be a system for intervention and to establish boundaries in which AI operates.
+In recent weeks, the debate about the potential risks surrounding the rapid development of AI and what it means for humanity has intensified.
+The bosses of leading AI firms such as Anthropic and OpenAI have called for development of the technology to slow down and for an internationally co-ordinated approach assessing risks and putting safeguards in place.
+OpenAI recently announced that it would not release its latest AI model due to safety concerns.
+The idea of a slowdown, however, has been rejected by the likes of President Donald Trump who has said the US is leading the AI race ahead of China, adding: "And, frankly, I want to keep it that way because whoever wins AI, wins."
+But on Tuesday, after hosting a summit with the leading firms in AI such as OpenAI and Anthropic, Trump said executives had signed a "morally binding" document that would serve as a "form of protection" from AI's potential risks.
+Chinese AI tool told researchers how to make bioweapons
+- Published13 hours ago
+OpenAI scraps rollout of new model over safety concerns
+- Published1 day ago
+Under the agreement, the companies are responsible for ensuring the safety of their own technology.
+In the UK, Bailey said "important work" was underway in testing AI - the UK has set up the AI Security Institute - which, he said, should help form part of a set of standards.
+"But the pace of progress must accelerate," the bank governor said, though he added: "We should proceed with a degree of humility."
+He said, with testing, there will be failures and "models will behave unexpectedly".
+But, he said: "That is not evidence that testing has failed, rather it is evidence of why testing is necessary."
+Bailey said that testing should not be seen as an alternative to future regulation - over time a more formal regulatory framework might emerge. "But regulation is not, in my view, the right place to start."`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-30T10:20:20+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e249/live/7e528b30-bcb4-11f1-a3e9-bbda6f9b9e25.jpg",
+    readTime: 6,
+  },
+  {
+    id: "ken-griffin-pledges-3-billion-to-carnegi-be64ff27",
+    title: "Ken Griffin pledges $3 billion to Carnegie Mellon University in 'historic' gift",
+    titleJa: "Ken Griffin pledges $3 billion to Carnegie Mellon University in 'historic' gift",
+    summaryJa: "Citadel CEO Ken Griffin is committing $3 billion to Carnegie Mellon University, a \"historic\" gift that includes $2 billion to establish a new Miami campus.",
+    bodyOriginal: `Citadel CEO Ken Griffin announced Wednesday that he has committed $3 billion to Carnegie Mellon University, including $2 billion in funding to establish a new Miami campus.
+The $3 billion pledge is the "largest individual gift in higher education history," according to a statement from the university, which called the gift "historic." The previous record was a $2 billion gift by Nike co-founder Phil Knight and his wife Penny to Oregon Health & Science University in August 2025.
+Griffin, who is worth $57.5 billion by Bloomberg's estimate, will join Carnegie Mellon's board of trustees.
+"The opportunity to bring Carnegie Mellon to Miami places our city at the heart of humanistic and scientific advancement and amplifies the University's international reach and impact," Griffin said in a release. "CMU Miami will cultivate the talent, knowledge, and expertise to launch new enterprises, contribute to Miami's economy and community, and advance the prosperity of our nation."
+Tune in at 10 a.m. ET as Ken Griffin joins CNBC TV to discuss his historic charitable gift. Watch in real time on CNBC+ or the CNBC Pro stream.
+Previously, the hedge fund billionaire's largest donation was $300 million to Harvard University, his alma mater, in 2023. Griffin also contributed $125 million to the University of Chicago in 2017 when Citadel was still headquartered in the Windy City.
+Since he moved Citadel's headquarters to Miami in 2022, citing concerns about crime in Chicago, he has become a vocal Miami booster, touting Florida's business-friendly policies, low taxes, and quality of life.
+"It's a state that is prospering," he said at a CNBC conference in 2022. "It's really fun to be in an environment where people are embracing the future. They're hopeful about the future."
+In the past four years, Griffin has become a prolific philanthropist in South Florida. He's made gifts of $50 million apiece to the University of Miami's cancer center, the Baptist Health Foundation's neuroscience institute, and Success Academy, to fund the charter school network's expansion to Miami.
+Carnegie Mellon's new Miami campus will span 35 acres in Wynwood, a neighborhood known for its art scene. Construction is slated to begin in 2027. The university expects to start enrolling students in 2028 and to support more than 3,500 students once the campus is complete.
+The new campus's academic program will be organized around addressing societal challenges such as climate resilience and national security rather than academic majors, according to the release.
+Griffin has been critical of leadership at elite universities, including his alma mater. In 2024, Griffin told CNBC's Leslie Picker that he had paused donations to Harvard over the university's response to antisemitism on campus and he also took verbal aim at top colleges.
+"Are we going to educate the future members of the House and the Senate and the leaders of IBM? Or are we going to educate a group of young men and women who are just caught up in a rhetoric of oppressor and oppressee and this is not fair and frankly just like whiny snowflakes?" Griffin said.`,
+    bodyJa: `Citadel CEO Ken Griffin announced Wednesday that he has committed $3 billion to Carnegie Mellon University, including $2 billion in funding to establish a new Miami campus.
+The $3 billion pledge is the "largest individual gift in higher education history," according to a statement from the university, which called the gift "historic." The previous record was a $2 billion gift by Nike co-founder Phil Knight and his wife Penny to Oregon Health & Science University in August 2025.
+Griffin, who is worth $57.5 billion by Bloomberg's estimate, will join Carnegie Mellon's board of trustees.
+"The opportunity to bring Carnegie Mellon to Miami places our city at the heart of humanistic and scientific advancement and amplifies the University's international reach and impact," Griffin said in a release. "CMU Miami will cultivate the talent, knowledge, and expertise to launch new enterprises, contribute to Miami's economy and community, and advance the prosperity of our nation."
+Tune in at 10 a.m. ET as Ken Griffin joins CNBC TV to discuss his historic charitable gift. Watch in real time on CNBC+ or the CNBC Pro stream.
+Previously, the hedge fund billionaire's largest donation was $300 million to Harvard University, his alma mater, in 2023. Griffin also contributed $125 million to the University of Chicago in 2017 when Citadel was still headquartered in the Windy City.
+Since he moved Citadel's headquarters to Miami in 2022, citing concerns about crime in Chicago, he has become a vocal Miami booster, touting Florida's business-friendly policies, low taxes, and quality of life.
+"It's a state that is prospering," he said at a CNBC conference in 2022. "It's really fun to be in an environment where people are embracing the future. They're hopeful about the future."
+In the past four years, Griffin has become a prolific philanthropist in South Florida. He's made gifts of $50 million apiece to the University of Miami's cancer center, the Baptist Health Foundation's neuroscience institute, and Success Academy, to fund the charter school network's expansion to Miami.
+Carnegie Mellon's new Miami campus will span 35 acres in Wynwood, a neighborhood known for its art scene. Construction is slated to begin in 2027. The university expects to start enrolling students in 2028 and to support more than 3,500 students once the campus is complete.
+The new campus's academic program will be organized around addressing societal challenges such as climate resilience and national security rather than academic majors, according to the release.
+Griffin has been critical of leadership at elite universities, including his alma mater. In 2024, Griffin told CNBC's Leslie Picker that he had paused donations to Harvard over the university's response to antisemitism on campus and he also took verbal aim at top colleges.
+"Are we going to educate the future members of the House and the Senate and the leaders of IBM? Or are we going to educate a group of young men and women who are just caught up in a rhetoric of oppressor and oppressee and this is not fair and frankly just like whiny snowflakes?" Griffin said.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/09/30/ken-griffin-pledges-3-billion-to-carnegie-mellon-university.html",
+    publishedAt: "2026-09-30T09:00:01+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    readTime: 8,
+  },
+  {
     id: "three-takeaways-from-trump-s-super-intel-5fb585b8",
     title: "Three takeaways from Trump's 'Super Intelligence' summit",
     titleJa: "Three takeaways from Trump's 'Super Intelligence' summit",
@@ -330,6 +880,92 @@ Related topics
     publishedAt: "2026-09-29T23:15:29+00:00",
     category: "金融政策",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925f/live/79ba4b60-bc25-11f1-bd53-1b67dc8fba34.jpg",
+    readTime: 10,
+  },
+  {
+    id: "the-start-ups-hoping-to-return-battery-m-b34c3f49",
+    title: "The start-ups hoping to return battery making to the US",
+    titleJa: "The start-ups hoping to return battery making to the US",
+    summaryJa: "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
+    bodyOriginal: `The start-ups hoping to return battery making to the US
+- Published
+As heatwaves scorched Europe this summer, workers at a US battery company noticed an uptick in demand.
+San Diego-based Unigrid sells a nine kilowatt hour battery for people's homes. Sweltering European homeowners were apparently looking for ways of storing power when it was available from the grid at lower rates. They could then run air conditioners more cheaply, off the battery, during the worst heat of the day.
+"We have requests coming from Spain, France, Germany, The Netherlands," says Darren Tan, co-founder and chief executive. "We've shipped the first 100 units and [expect to ship] 1,000 before the end of the year."
+Unigrid's battery is an emerging technology – it's a sodium ion, rather than lithium ion device. Sodium ion batteries have got energy storage experts excited because they could end up much cheaper to build and operate than lithium ion.
+They're potentially less likely to catch fire and should also work in a wider range of temperatures, even down to lows of minus 40C, external.
+But there's a debate over what constitutes the best, and safest, sodium ion battery design. Plus, more than one, external US company working in this space has floundered in recent years, external.
+China leads the world in sodium ion battery manufacturing at present so US competitors are going to have to work hard to keep up.
+The prize that awaits is the possibility of batteries made in the US with 100% US-sourced materials. This is unlike lithium ion batteries, where China dominates the materials, external supply chain as well as manufacturing.
+For Tan, China has helped his company get to market. The Unigrid battery currently uses sodium ion cells made there, rather than in the US. "We can switch back and forth and choose what battery we want to work with," says Tan, explaining that, in future, his firm might source cells from the US – though these may come at a different cost.
+There's another consideration. Unigrid's battery contains chromium-3 in its cathode. In a battery, electrons flow from cathode to anode, external when charging and in the opposite direction when discharging or providing power.
+Prof Dame Clare Grey at the University of Cambridge, who is co-founder of battery firm Nyobolt, points out that under certain conditions chromium-3 may form chromium-6, a toxic, cancer-causing material., external
+"If you're going to go for sodium […] and you're going to sell safety, then don't start putting elements in that are going to raise red flags," she tells the BBC.
+Ivana Hasa at the University of Warwick, who has no connection to Unigrid, agrees that it is possible for chromium-3 to form chromium-6 at very high states of charge, though she says this can be mitigated by how voltage is controlled within the battery. "Safety tests reported on the cell chemistry are very promising," she says of Unigrid's tech.
+Tan says concerns around toxicity of the battery's materials are "overblown" and emphasises that Unigrid's battery has passed certification and safety tests for sale in Europe and is currently undergoing such evaluations for the US market.
+Third-party tests have not been able to get the battery to form chromium-6, he says. "We've tried very hard to try and produce it, we've overcharged it as much as we can... We were unsuccessful in generating chromium-6."
+The choice of cathode material, or how the electrolyte – which separates cathode and anode – is formulated are key details influencing the performance and longevity of sodium ion batteries. Some manufacturers are not using chromium for their cathode but hard carbon instead, or sodium iron phosphate pyrophosphate (NFPP).
+In general, confidence around sodium ion batteries' reliability has increased during the last few years, says Prof Dame Grey, meaning they are now finding their way into grid storage applications.
+Last December, LFP batteries – a relatively cheap form of lithium ion battery – were trading at $81 per kilowatt hour, external (kWh) whereas Unigrid's sodium ion battery pricing is roughly $100 kWh, external.
+Some companies that spoke to the BBC suggested sodium ion might reach as low as $30 per kWh but analysts say significantly lower costs could be many years away, external.
+Sodium ion batteries are also not as energy dense as lithium ion batteries, meaning they must be slightly bigger and heavier in order to provide the same amount of power.
+The technology has been improving, external on this front in recent years but, even so, you're not likely to see sodium ion cells in small, energy hungry devices such as smartphones. Larger energy storage solutions are where most people expect sodium ion to dominate.
+"We think sodium ion […] is going to make up 80% of the market," says David Bell, co-founder and chief executive of Seattle-based Emerald Battery Labs.
+Bell declined to share details of the battery design his firm is working on, though he says Emerald too is currently relying on China-sourced sodium ion cells as they develop their initial product: 12 volt auxiliary batteries for vehicles, currently supplied to unnamed commercial fleets in the US.
+"We took a look at the market and said 'Hey, no-one's trying to attack this space, let's have Emerald Battery Labs attack it'," says Bell. The firm's next goal is to develop new anodes for US-produced sodium ion cells.
+Another company, Peak Energy, based in California and Colorado, announced a partnership with General Motors (GM) in June. The pair aim to develop a US supply chain for sodium ion batteries, in order to enable large-scale energy storage for electricity grids.
+Peak Energy is also, at present, relying on China-sourced cells for its first installations, but hopes to help GM launch a US-based production facility in Michigan "by the end of 2028", says Cameron Wiles, president and co-founder. "China does not have an insurmountable lead in sodium ion batteries," he says.
+One reason US companies feel they can compete is because of the electricity demand boom from data centres, which are contributing to rising greenhouse gas emissions in the US. Data centre-driven demand is also rising in other places around the world, including the UK.
+This is an "opportunity" says Drew Buckley, chief executive at ESS Tech, headquartered in Oregon. He points out that sodium ion batteries could help distribute renewable energy to data centres. And those batteries should be cheaper to run than lithium ion alternatives, since they are not expected to require as much cooling.
+ESS Tech is working with Alsym, another US firm that is planning to ship "hundreds" of megawatt hours' worth of sodium ion batteries – made in the US – by 2027.
+Hasa says that it will be "challenging" for companies to establish mass production of sodium ion batteries. And she also notes that, while this type of battery is often touted as much safer than lithium ion, they do not come with zero fire risk.
+But if any firms can succeed in this space, they could enable new strategic choices, she adds – helping to avoid wastage of renewable electricity and potentially keeping energy costs low. "I'm a strong believer in the technology," says Hasa.
+Related topics
+- Published19 August
+- Published12 August
+- Published7 August`,
+    bodyJa: `The start-ups hoping to return battery making to the US
+- Published
+As heatwaves scorched Europe this summer, workers at a US battery company noticed an uptick in demand.
+San Diego-based Unigrid sells a nine kilowatt hour battery for people's homes. Sweltering European homeowners were apparently looking for ways of storing power when it was available from the grid at lower rates. They could then run air conditioners more cheaply, off the battery, during the worst heat of the day.
+"We have requests coming from Spain, France, Germany, The Netherlands," says Darren Tan, co-founder and chief executive. "We've shipped the first 100 units and [expect to ship] 1,000 before the end of the year."
+Unigrid's battery is an emerging technology – it's a sodium ion, rather than lithium ion device. Sodium ion batteries have got energy storage experts excited because they could end up much cheaper to build and operate than lithium ion.
+They're potentially less likely to catch fire and should also work in a wider range of temperatures, even down to lows of minus 40C, external.
+But there's a debate over what constitutes the best, and safest, sodium ion battery design. Plus, more than one, external US company working in this space has floundered in recent years, external.
+China leads the world in sodium ion battery manufacturing at present so US competitors are going to have to work hard to keep up.
+The prize that awaits is the possibility of batteries made in the US with 100% US-sourced materials. This is unlike lithium ion batteries, where China dominates the materials, external supply chain as well as manufacturing.
+For Tan, China has helped his company get to market. The Unigrid battery currently uses sodium ion cells made there, rather than in the US. "We can switch back and forth and choose what battery we want to work with," says Tan, explaining that, in future, his firm might source cells from the US – though these may come at a different cost.
+There's another consideration. Unigrid's battery contains chromium-3 in its cathode. In a battery, electrons flow from cathode to anode, external when charging and in the opposite direction when discharging or providing power.
+Prof Dame Clare Grey at the University of Cambridge, who is co-founder of battery firm Nyobolt, points out that under certain conditions chromium-3 may form chromium-6, a toxic, cancer-causing material., external
+"If you're going to go for sodium […] and you're going to sell safety, then don't start putting elements in that are going to raise red flags," she tells the BBC.
+Ivana Hasa at the University of Warwick, who has no connection to Unigrid, agrees that it is possible for chromium-3 to form chromium-6 at very high states of charge, though she says this can be mitigated by how voltage is controlled within the battery. "Safety tests reported on the cell chemistry are very promising," she says of Unigrid's tech.
+Tan says concerns around toxicity of the battery's materials are "overblown" and emphasises that Unigrid's battery has passed certification and safety tests for sale in Europe and is currently undergoing such evaluations for the US market.
+Third-party tests have not been able to get the battery to form chromium-6, he says. "We've tried very hard to try and produce it, we've overcharged it as much as we can... We were unsuccessful in generating chromium-6."
+The choice of cathode material, or how the electrolyte – which separates cathode and anode – is formulated are key details influencing the performance and longevity of sodium ion batteries. Some manufacturers are not using chromium for their cathode but hard carbon instead, or sodium iron phosphate pyrophosphate (NFPP).
+In general, confidence around sodium ion batteries' reliability has increased during the last few years, says Prof Dame Grey, meaning they are now finding their way into grid storage applications.
+Last December, LFP batteries – a relatively cheap form of lithium ion battery – were trading at $81 per kilowatt hour, external (kWh) whereas Unigrid's sodium ion battery pricing is roughly $100 kWh, external.
+Some companies that spoke to the BBC suggested sodium ion might reach as low as $30 per kWh but analysts say significantly lower costs could be many years away, external.
+Sodium ion batteries are also not as energy dense as lithium ion batteries, meaning they must be slightly bigger and heavier in order to provide the same amount of power.
+The technology has been improving, external on this front in recent years but, even so, you're not likely to see sodium ion cells in small, energy hungry devices such as smartphones. Larger energy storage solutions are where most people expect sodium ion to dominate.
+"We think sodium ion […] is going to make up 80% of the market," says David Bell, co-founder and chief executive of Seattle-based Emerald Battery Labs.
+Bell declined to share details of the battery design his firm is working on, though he says Emerald too is currently relying on China-sourced sodium ion cells as they develop their initial product: 12 volt auxiliary batteries for vehicles, currently supplied to unnamed commercial fleets in the US.
+"We took a look at the market and said 'Hey, no-one's trying to attack this space, let's have Emerald Battery Labs attack it'," says Bell. The firm's next goal is to develop new anodes for US-produced sodium ion cells.
+Another company, Peak Energy, based in California and Colorado, announced a partnership with General Motors (GM) in June. The pair aim to develop a US supply chain for sodium ion batteries, in order to enable large-scale energy storage for electricity grids.
+Peak Energy is also, at present, relying on China-sourced cells for its first installations, but hopes to help GM launch a US-based production facility in Michigan "by the end of 2028", says Cameron Wiles, president and co-founder. "China does not have an insurmountable lead in sodium ion batteries," he says.
+One reason US companies feel they can compete is because of the electricity demand boom from data centres, which are contributing to rising greenhouse gas emissions in the US. Data centre-driven demand is also rising in other places around the world, including the UK.
+This is an "opportunity" says Drew Buckley, chief executive at ESS Tech, headquartered in Oregon. He points out that sodium ion batteries could help distribute renewable energy to data centres. And those batteries should be cheaper to run than lithium ion alternatives, since they are not expected to require as much cooling.
+ESS Tech is working with Alsym, another US firm that is planning to ship "hundreds" of megawatt hours' worth of sodium ion batteries – made in the US – by 2027.
+Hasa says that it will be "challenging" for companies to establish mass production of sodium ion batteries. And she also notes that, while this type of battery is often touted as much safer than lithium ion, they do not come with zero fire risk.
+But if any firms can succeed in this space, they could enable new strategic choices, she adds – helping to avoid wastage of renewable electricity and potentially keeping energy costs low. "I'm a strong believer in the technology," says Hasa.
+Related topics
+- Published19 August
+- Published12 August
+- Published7 August`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-09-29T23:06:50+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81ff/live/33895530-a5e8-11f1-a019-f3ea5e194221.png",
     readTime: 10,
   },
   {
@@ -2054,520 +2690,6 @@ But potential lower annual increases to pensions if the triple lock is changed w
     publishedAt: "2026-09-28T23:10:13+00:00",
     category: "金融政策",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec74/live/d048b840-bb3a-11f1-a430-4d16ee157c41.jpg",
-    readTime: 10,
-  },
-  {
-    id: "unis-are-offering-degrees-in-content-cre-6cc5f8fe",
-    title: "Unis are offering degrees in content creation for £30,000. But are they worth it?",
-    titleJa: "Unis are offering degrees in content creation for £30,000. But are they worth it?",
-    summaryJa: "Content creation degrees aim to help people make money from their social media posts.",
-    bodyOriginal: `Unis are offering degrees in content creation for £30,000. But are they worth it?
-- Published
-As university courses go it may raise a few eyebrows, but Destiny McGowan has no doubt that hers was very useful.
-In July the 21-year-old graduated from Nottingham Trent University with a degree in content creation.
-As well as teaching how to best make videos and posts for Instagram, TikTok and YouTube, the course also focused on how to build audiences, engage with brands and monetise your content.
-"I always wanted to be an entrepreneur, so for me the course was about the transferable skills that I believed I would gain," says Destiny, pointing to both the social media and business aspects she was taught.
-It's early on in her career, and Destiny refuses to disclose precisely what she is earning, but says she's already making money.
-In addition to posting about fashion on her own accounts, she makes videos for others, and has also been hired as a TikTok live selling host, presenting products for sale on camera.
-She says the course gave her access to equipment, technology and industry contacts.
-"The incredible people I've met through panels that the university hosted would take someone five to 10 years to get to that place," she explains.
-Nottingham Trent says its content creation degree, which it launched in 2022, provides "hands-on experience".
-Several universities in the UK now offer such courses. The University of Brighton says it teaches students how to create "content that cuts through the noise".
-Meanwhile in the US, Arizona State University say its similar qualification allows students to "turn your creativity into content that connects with audiences".
-Yet you'd be paying a lot of money for this. The three-year degrees at Nottingham Trent and Brighton both currently cost £9,790 per year for UK students, while the standard annual fee at Arizona State is $14,724 (£11,000) for a resident of that state.
-More than £2m spent by government on influencers since July 2024
-- Published16 September
-So are such degrees worth it?
-Knightenator, a UK-based, full-time content creator, isn't sure. "I don't think I would have taken the course," she says.
-The 31-year-old, who doesn't reveal her real name, has been posting videos about gaming and travel on social media since 2015. She now has 65,000 followers on Twitch, and more than 100,000 on TikTok.
-It is her full-time job, and while she won't reveal how much money she makes, she says she gets most of her income from deals with brands that she promotes.
-"Honestly, from my experience, I don't think companies would care too much if you had a content creator degree," she says.
-She adds that the internet is saturated with free advice on how to get started. "If you have the drive to want to become a content creator, the tips are out there, and you don't need to commit to a three-year degree."
-Her advice is to watch other people's content and find your own niche. "I honestly think that you don't need much in this day and age at this moment to be able to do it."
-But fellow content creator Aiesha Beasley from Phoenix, Arizona disagrees.
-The 36-year-old, who posts about food, fashion and lifestyle, says she would have enrolled on one of these courses if they had been available when she first started blogging on Tumblr in the early 2010s.
-She believes a degree would have given her a "clearer pathway", particularly when it comes to how to earn a living.
-"You really do have to have a business mindset on: how can I transition this from a hobby into something that makes me money?" says Aiesha.
-She adds that such courses are "ahead of the curve" in recognising that content creation is increasingly an important part of marketing.
-"Now you have to have a digital presence," she explains, "whether you are a business owner or an entrepreneur or building a personal brand."
-The degrees by the likes of Nottingham Trent and Arizona State come as the content creator economy booms on both sides of the Atlantic. YouTube content creators alone contribute £2.2bn to the UK economy, according to one report last year.
-Meanwhile, one in three people aged between 18 and 30 in the US wish to become an influencer, a 2024 survey suggests. , external
-However, Jacky Gurr, course leader and senior lecturer for content creation at Nottingham Trent University, points out that the majority of people on the course are not actually aspiring to become influencers.
-For Gurr, content creation is a professional skill that organisations increasingly need, whether someone runs their own business, works in-house, joins an agency or works freelance across multiple clients.
-"Those skills absolutely can be taught. Students learn how to plan and produce video content, develop campaigns, understand audiences, analyse performance data and adapt strategies based on that data."
-She adds that the business side of content creation "is an important part of the degree", where they discuss monetisation and the commercial side of the industry.
-But for anyone who thinks a university degree will lead to overnight success as an influencer, Jacky Gurr has these words of caution: "So much of being a successful influencer is about luck, and we can't teach luck or personality."
-Related topics
-- Published15 September
-- Published30 June`,
-    bodyJa: `Unis are offering degrees in content creation for £30,000. But are they worth it?
-- Published
-As university courses go it may raise a few eyebrows, but Destiny McGowan has no doubt that hers was very useful.
-In July the 21-year-old graduated from Nottingham Trent University with a degree in content creation.
-As well as teaching how to best make videos and posts for Instagram, TikTok and YouTube, the course also focused on how to build audiences, engage with brands and monetise your content.
-"I always wanted to be an entrepreneur, so for me the course was about the transferable skills that I believed I would gain," says Destiny, pointing to both the social media and business aspects she was taught.
-It's early on in her career, and Destiny refuses to disclose precisely what she is earning, but says she's already making money.
-In addition to posting about fashion on her own accounts, she makes videos for others, and has also been hired as a TikTok live selling host, presenting products for sale on camera.
-She says the course gave her access to equipment, technology and industry contacts.
-"The incredible people I've met through panels that the university hosted would take someone five to 10 years to get to that place," she explains.
-Nottingham Trent says its content creation degree, which it launched in 2022, provides "hands-on experience".
-Several universities in the UK now offer such courses. The University of Brighton says it teaches students how to create "content that cuts through the noise".
-Meanwhile in the US, Arizona State University say its similar qualification allows students to "turn your creativity into content that connects with audiences".
-Yet you'd be paying a lot of money for this. The three-year degrees at Nottingham Trent and Brighton both currently cost £9,790 per year for UK students, while the standard annual fee at Arizona State is $14,724 (£11,000) for a resident of that state.
-More than £2m spent by government on influencers since July 2024
-- Published16 September
-So are such degrees worth it?
-Knightenator, a UK-based, full-time content creator, isn't sure. "I don't think I would have taken the course," she says.
-The 31-year-old, who doesn't reveal her real name, has been posting videos about gaming and travel on social media since 2015. She now has 65,000 followers on Twitch, and more than 100,000 on TikTok.
-It is her full-time job, and while she won't reveal how much money she makes, she says she gets most of her income from deals with brands that she promotes.
-"Honestly, from my experience, I don't think companies would care too much if you had a content creator degree," she says.
-She adds that the internet is saturated with free advice on how to get started. "If you have the drive to want to become a content creator, the tips are out there, and you don't need to commit to a three-year degree."
-Her advice is to watch other people's content and find your own niche. "I honestly think that you don't need much in this day and age at this moment to be able to do it."
-But fellow content creator Aiesha Beasley from Phoenix, Arizona disagrees.
-The 36-year-old, who posts about food, fashion and lifestyle, says she would have enrolled on one of these courses if they had been available when she first started blogging on Tumblr in the early 2010s.
-She believes a degree would have given her a "clearer pathway", particularly when it comes to how to earn a living.
-"You really do have to have a business mindset on: how can I transition this from a hobby into something that makes me money?" says Aiesha.
-She adds that such courses are "ahead of the curve" in recognising that content creation is increasingly an important part of marketing.
-"Now you have to have a digital presence," she explains, "whether you are a business owner or an entrepreneur or building a personal brand."
-The degrees by the likes of Nottingham Trent and Arizona State come as the content creator economy booms on both sides of the Atlantic. YouTube content creators alone contribute £2.2bn to the UK economy, according to one report last year.
-Meanwhile, one in three people aged between 18 and 30 in the US wish to become an influencer, a 2024 survey suggests. , external
-However, Jacky Gurr, course leader and senior lecturer for content creation at Nottingham Trent University, points out that the majority of people on the course are not actually aspiring to become influencers.
-For Gurr, content creation is a professional skill that organisations increasingly need, whether someone runs their own business, works in-house, joins an agency or works freelance across multiple clients.
-"Those skills absolutely can be taught. Students learn how to plan and produce video content, develop campaigns, understand audiences, analyse performance data and adapt strategies based on that data."
-She adds that the business side of content creation "is an important part of the degree", where they discuss monetisation and the commercial side of the industry.
-But for anyone who thinks a university degree will lead to overnight success as an influencer, Jacky Gurr has these words of caution: "So much of being a successful influencer is about luck, and we can't teach luck or personality."
-Related topics
-- Published15 September
-- Published30 June`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-28T23:10:06+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bd8/live/052c6f10-b754-11f1-bc1f-3f186ca4140c.jpg",
-    readTime: 10,
-  },
-  {
-    id: "trump-announces-plan-for-15-billion-stee-0c34c3e3",
-    title: "Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
-    titleJa: "Trump announces plan for $15 billion steel plant, would be largest in U.S. history",
-    summaryJa: "Trump's announcement with Mesabi Metallics comes as Americans' souring views of the economy are poised to shape the upcoming midterm election.",
-    bodyOriginal: `President Donald Trump on Monday announced a steel-making company's plan to invest about $15 billion to build what would be the largest plant of its kind in U.S. history.
-The Oval Office announcement with Mesabi Metallics came just weeks before the November midterm election, which is poised to be shaped by Americans' increasingly sour views of Trump's handling of the economy.
-The steel plant is planned to be built in Iowa and aims to begin production in 2030, a White House official told CNBC on condition of anonymity ahead of the Oval Office event.
-The Wall Street Journal first reported the announcement earlier Monday morning.
-Mesabi Metallics, based in Nashwauk, Minnesota, told CNBC the project will deliver "100% American steel: mined, melted and poured in Minnesota and Iowa."
-The steel plant will use iron ore from Mesabi's mine on Minnesota's Iron Range, a more than $2.5 billion project that is just beginning production after roughly two decades in development. That project was beset by controversies and setbacks, including Essar Steel Minnesota filing for bankruptcy in 2016. Mesabi is part of the Essar Group, an Indian conglomerate.
-The first phase of the Iowa steel plant is estimated to produce some 7.5 million tons per year, supporting up to 6,000 construction jobs, according to the White House. It is slated to eventually ramp up to 10 million tons annually and support at least 1,750 permanent jobs, the official told CNBC. The Minnesota mine project has reportedly created 200 full-time jobs out of an anticipated 350 total, according to Minnesota Public Radio.
-Trump was joined in the Oval Office by Mesabi Metallics' CEO Joe Broking and Chairman Rewant Ruia, as well as Commerce Secretary Howard Lutnick, Energy Secretary Chris Wright, Export-Import Bank Chairman John Jovanovic and a number of Iowa elected officials.
-Trump slapped 25% tariffs on steel and aluminum imports near the start of his second term, and then doubled them to 50%. The president, who strongly dislikes trade deficits and has criticized free-trade deals, has doled out a variety of heavy import duties as he seeks to boost domestic manufacturing.
-Critics say the tariffs have played a major role in raising U.S. steel prices, which have recently hit multi-year highs.
-But numerous steel trade groups on Friday sent a letter to Trump, crediting his steel tariffs with driving $47 billion in "announced and underway investment." They urged him not to weaken those tariffs, arguing that doing so would "put that progress at risk."
-Lutnick said in the Oval Office that the plan is a "done deal." But complex, long-term construction projects can change drastically, or face insurmountable roadblocks, over their development cycles.
-Construction on the Minnesota iron mine, for instance, was supposed to finish by 2016, prior to the company behind the project filing for bankruptcy, Minnesota Public Radio reported.
-As president, Trump has previously touted projects that did not live up to their initial hype.
-In his first term, Trump attended Taiwan electronics manufacturer Foxconn's groundbreaking for a planned $10 billion factory in Wisconsin, and praised the project as "the eighth wonder of the world." But in 2021, Foxconn reduced its planned investment to $672 million and cut the number of new jobs down to 1,454 from 13,000.
-White House spokeswoman Taylor Rogers told CNBC in a statement on Monday's factory announcement, "President Trump is delivering on his promise to rebuild American industry, reshore manufacturing, and create new jobs."
-"Today's announcement underscores the President's historic efforts to revitalize the U.S. steel industry —supporting local communities, strengthening supply chains, and protecting our national security," Rogers said. "After decades of decline, this President is restoring America's industrial competitiveness and securing trillions of dollars in new investment."`,
-    bodyJa: `President Donald Trump on Monday announced a steel-making company's plan to invest about $15 billion to build what would be the largest plant of its kind in U.S. history.
-The Oval Office announcement with Mesabi Metallics came just weeks before the November midterm election, which is poised to be shaped by Americans' increasingly sour views of Trump's handling of the economy.
-The steel plant is planned to be built in Iowa and aims to begin production in 2030, a White House official told CNBC on condition of anonymity ahead of the Oval Office event.
-The Wall Street Journal first reported the announcement earlier Monday morning.
-Mesabi Metallics, based in Nashwauk, Minnesota, told CNBC the project will deliver "100% American steel: mined, melted and poured in Minnesota and Iowa."
-The steel plant will use iron ore from Mesabi's mine on Minnesota's Iron Range, a more than $2.5 billion project that is just beginning production after roughly two decades in development. That project was beset by controversies and setbacks, including Essar Steel Minnesota filing for bankruptcy in 2016. Mesabi is part of the Essar Group, an Indian conglomerate.
-The first phase of the Iowa steel plant is estimated to produce some 7.5 million tons per year, supporting up to 6,000 construction jobs, according to the White House. It is slated to eventually ramp up to 10 million tons annually and support at least 1,750 permanent jobs, the official told CNBC. The Minnesota mine project has reportedly created 200 full-time jobs out of an anticipated 350 total, according to Minnesota Public Radio.
-Trump was joined in the Oval Office by Mesabi Metallics' CEO Joe Broking and Chairman Rewant Ruia, as well as Commerce Secretary Howard Lutnick, Energy Secretary Chris Wright, Export-Import Bank Chairman John Jovanovic and a number of Iowa elected officials.
-Trump slapped 25% tariffs on steel and aluminum imports near the start of his second term, and then doubled them to 50%. The president, who strongly dislikes trade deficits and has criticized free-trade deals, has doled out a variety of heavy import duties as he seeks to boost domestic manufacturing.
-Critics say the tariffs have played a major role in raising U.S. steel prices, which have recently hit multi-year highs.
-But numerous steel trade groups on Friday sent a letter to Trump, crediting his steel tariffs with driving $47 billion in "announced and underway investment." They urged him not to weaken those tariffs, arguing that doing so would "put that progress at risk."
-Lutnick said in the Oval Office that the plan is a "done deal." But complex, long-term construction projects can change drastically, or face insurmountable roadblocks, over their development cycles.
-Construction on the Minnesota iron mine, for instance, was supposed to finish by 2016, prior to the company behind the project filing for bankruptcy, Minnesota Public Radio reported.
-As president, Trump has previously touted projects that did not live up to their initial hype.
-In his first term, Trump attended Taiwan electronics manufacturer Foxconn's groundbreaking for a planned $10 billion factory in Wisconsin, and praised the project as "the eighth wonder of the world." But in 2021, Foxconn reduced its planned investment to $672 million and cut the number of new jobs down to 1,454 from 13,000.
-White House spokeswoman Taylor Rogers told CNBC in a statement on Monday's factory announcement, "President Trump is delivering on his promise to rebuild American industry, reshore manufacturing, and create new jobs."
-"Today's announcement underscores the President's historic efforts to revitalize the U.S. steel industry —supporting local communities, strengthening supply chains, and protecting our national security," Rogers said. "After decades of decline, this President is restoring America's industrial competitiveness and securing trillions of dollars in new investment."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/28/trump-steel-plant-iowa.html",
-    publishedAt: "2026-09-28T21:20:00+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "uk-tries-to-stop-trump-s-diesel-export-b-88b3c320",
-    title: "UK tries to stop Trump's diesel export ban",
-    titleJa: "UK tries to stop Trump's diesel export ban",
-    summaryJa: "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
-    bodyOriginal: `UK tries to stop Trump's diesel export ban
-- Published
-The UK is in talks with US authorities over a potential stoppage of diesel exports and has started preparing for a ban, Chancellor John Healey has told BBC News.
-Diesel prices in the UK reached a new high on Monday due to supply pressures springing from the US-Israel conflict with Iran and Russia's war with Ukraine.
-Fuel prices are rising globally and US President Donald Trump has threatened to ban diesel exports, stating at the weekend: "We're thinking about it very seriously."
-Healey, who admitted that UK diesel prices are "extreme", said the government was in discussions with the US, adding: "We're also making the provision that we may need to and we have our own stocks in the UK."
-Speaking on the sidelines of the annual Labour Party Conference in Liverpool, Healey said: "We work very closely with the Americans.
-"In the end, we're also working with the Americans where we can try and put in place what will solve this, or at least significantly ease it, which would be a diplomatic settlement [and] an end to the fighting with Iran."
-The UK depends on the US for around a third of its diesel imports and a ban would send prices even higher.
-US sources suggest that Trump is considering a ban to attempt to bring down prices for domestic consumers ahead of the critical midterm elections.
-The BBC has contacted the White House for comment.
-In the UK, the average price for a litre of diesel reached 199.33p on Monday, according to the RAC motoring organisation, surpassing a previous high of 199.09p in June 2022 after Russia launched its full-scale invasion of Ukraine.
-Petrol prices are also still rising, with a litre currently costing 174.23p.
-Over the past seven months, the Iran war has severely disrupted the production and transportation of wholesale oil across the region, causing the price of fuels made from oil to surge.
-The RAC said diesel prices had entered "uncharted territory" and served as a reminder of "just how exposed the UK is to events occurring far away".
-Healey said he was "very aware" of these cost of living pressures as he prepared what he called a "breathing space" Budget on 28 October.
-A freeze on fuel duty, first implemented by the Conservative government in 2022, is due to expire at the end of the year. Duty is scheduled to increase by 3p in January and a further 2p in March.
-Healey said: "Fundamentally, what we need is a settlement in the Middle East. We need an easing of the pressure of costs on business, the costs on households and on ordinary families that we see at the pumps in the most extreme level today for diesel."
-Get in touch
-Have you been affected by the issues raised in this story? Let us know
-Related topics
-- Published6 days ago
-- Published2 hours ago`,
-    bodyJa: `UK tries to stop Trump's diesel export ban
-- Published
-The UK is in talks with US authorities over a potential stoppage of diesel exports and has started preparing for a ban, Chancellor John Healey has told BBC News.
-Diesel prices in the UK reached a new high on Monday due to supply pressures springing from the US-Israel conflict with Iran and Russia's war with Ukraine.
-Fuel prices are rising globally and US President Donald Trump has threatened to ban diesel exports, stating at the weekend: "We're thinking about it very seriously."
-Healey, who admitted that UK diesel prices are "extreme", said the government was in discussions with the US, adding: "We're also making the provision that we may need to and we have our own stocks in the UK."
-Speaking on the sidelines of the annual Labour Party Conference in Liverpool, Healey said: "We work very closely with the Americans.
-"In the end, we're also working with the Americans where we can try and put in place what will solve this, or at least significantly ease it, which would be a diplomatic settlement [and] an end to the fighting with Iran."
-The UK depends on the US for around a third of its diesel imports and a ban would send prices even higher.
-US sources suggest that Trump is considering a ban to attempt to bring down prices for domestic consumers ahead of the critical midterm elections.
-The BBC has contacted the White House for comment.
-In the UK, the average price for a litre of diesel reached 199.33p on Monday, according to the RAC motoring organisation, surpassing a previous high of 199.09p in June 2022 after Russia launched its full-scale invasion of Ukraine.
-Petrol prices are also still rising, with a litre currently costing 174.23p.
-Over the past seven months, the Iran war has severely disrupted the production and transportation of wholesale oil across the region, causing the price of fuels made from oil to surge.
-The RAC said diesel prices had entered "uncharted territory" and served as a reminder of "just how exposed the UK is to events occurring far away".
-Healey said he was "very aware" of these cost of living pressures as he prepared what he called a "breathing space" Budget on 28 October.
-A freeze on fuel duty, first implemented by the Conservative government in 2022, is due to expire at the end of the year. Duty is scheduled to increase by 3p in January and a further 2p in March.
-Healey said: "Fundamentally, what we need is a settlement in the Middle East. We need an easing of the pressure of costs on business, the costs on households and on ordinary families that we see at the pumps in the most extreme level today for diesel."
-Get in touch
-Have you been affected by the issues raised in this story? Let us know
-Related topics
-- Published6 days ago
-- Published2 hours ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-28T20:39:31+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/445a/live/ee159a80-bb5a-11f1-b3b3-91d0b491a464.jpg",
-    readTime: 7,
-  },
-  {
-    id: "boeing-737-max-10-certification-delayed-73f24731",
-    title: "Boeing 737 Max 10 certification delayed by software issue, FAA says",
-    titleJa: "Boeing 737 Max 10 certification delayed by software issue, FAA says",
-    summaryJa: "The FAA administrator said the Max 10 will be delayed until the agency can assess a software issue on the aircraft.",
-    bodyOriginal: `The head of the Federal Aviation Administration said a software problem will delay its certification of the Boeing 737 Max 10 as the agency assesses whether it poses a safety issue, a potential setback for the manufacturer as it seeks to complete government approval of its best-selling family of aircraft.
-Boeing had expected to receive a green light from its regulator on the years-delayed planes "very soon," CEO Kelly Ortberg told investors earlier this month. But Boeing said Saturday that last month it flagged a software glitch on some 737 Max aircraft that could affect certain landing procedures.
-"We haven't concluded whether this is a safety-of-flight issue or not, but we will be delaying the 10 ... until we're satisfied that we don't have an issue here," FAA Administrator Bryan Bedford said at a press conference on air traffic modernization in Washington, D.C., on Monday.
-The FAA said in a statement that "safety dictates the certification timeline." It added that the agency was "following our safety review process to investigate this software glitch and won't hesitate to take action if needed."
-Boeing shares extended earlier losses after Bedford's comments, shedding nearly 7% Monday, as investors assessed another delay after years of setbacks for the aircraft.
-"We continue to follow the lead of the FAA as we work through the certification process," Boeing said in a statement.
-Boeing said over the weekend that the issue could occur with a vertical navigation system after an aircraft misses an approach and has to go around and line up to land again, such as in situations when there is an obstruction on the runway, for example. Both the company and Bedford said pilots are trained for those circumstances.
-"The pilots remain in control of the airliner, train for these scenarios," Bedford said Monday. "The issue that we're looking at right now is the workload component."
-The FAA certified the Max 7, the smallest of the family, last month. Those planes have the most updated version of the software, which the FAA is evaluating. It isn't clear how that could affect deliveries of those planes to customers like Southwest Airlines.
-U.S. airlines said they don't have any Max aircraft with the issue, in part because they are allowed to revert to older software on those models, if needed, not the newer version that has the potential issue.
-Bedford said Boeing had fixed a previous bug in the system but "unexpectedly ... introduced a new bug."
-Boeing has been trying to move on from years of safety crises, including two crashes of the Max 8 in 2018 and 2019. A flight control system was implicated in those crashes.
-Bedford added on Monday that unlike that system, this "doesn't take control away from the pilots."
-The company had originally planned to start delivering the Max 10 in 2020 before those safety concerns and other problems delayed the plane. It is the last of the Max family waiting to be certified.`,
-    bodyJa: `The head of the Federal Aviation Administration said a software problem will delay its certification of the Boeing 737 Max 10 as the agency assesses whether it poses a safety issue, a potential setback for the manufacturer as it seeks to complete government approval of its best-selling family of aircraft.
-Boeing had expected to receive a green light from its regulator on the years-delayed planes "very soon," CEO Kelly Ortberg told investors earlier this month. But Boeing said Saturday that last month it flagged a software glitch on some 737 Max aircraft that could affect certain landing procedures.
-"We haven't concluded whether this is a safety-of-flight issue or not, but we will be delaying the 10 ... until we're satisfied that we don't have an issue here," FAA Administrator Bryan Bedford said at a press conference on air traffic modernization in Washington, D.C., on Monday.
-The FAA said in a statement that "safety dictates the certification timeline." It added that the agency was "following our safety review process to investigate this software glitch and won't hesitate to take action if needed."
-Boeing shares extended earlier losses after Bedford's comments, shedding nearly 7% Monday, as investors assessed another delay after years of setbacks for the aircraft.
-"We continue to follow the lead of the FAA as we work through the certification process," Boeing said in a statement.
-Boeing said over the weekend that the issue could occur with a vertical navigation system after an aircraft misses an approach and has to go around and line up to land again, such as in situations when there is an obstruction on the runway, for example. Both the company and Bedford said pilots are trained for those circumstances.
-"The pilots remain in control of the airliner, train for these scenarios," Bedford said Monday. "The issue that we're looking at right now is the workload component."
-The FAA certified the Max 7, the smallest of the family, last month. Those planes have the most updated version of the software, which the FAA is evaluating. It isn't clear how that could affect deliveries of those planes to customers like Southwest Airlines.
-U.S. airlines said they don't have any Max aircraft with the issue, in part because they are allowed to revert to older software on those models, if needed, not the newer version that has the potential issue.
-Bedford said Boeing had fixed a previous bug in the system but "unexpectedly ... introduced a new bug."
-Boeing has been trying to move on from years of safety crises, including two crashes of the Max 8 in 2018 and 2019. A flight control system was implicated in those crashes.
-Bedford added on Monday that unlike that system, this "doesn't take control away from the pilots."
-The company had originally planned to start delivering the Max 10 in 2020 before those safety concerns and other problems delayed the plane. It is the last of the Max family waiting to be certified.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/28/faa-boeing-737-max-10-certification-delay-software-issue.html",
-    publishedAt: "2026-09-28T20:16:04+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "supreme-court-justice-alito-will-not-par-d929995d",
-    title: "Supreme Court Justice Alito will not participate in big climate change case next week",
-    titleJa: "Supreme Court Justice Alito will not participate in big climate change case next week",
-    summaryJa: "Environmental groups had called for Supreme Court Justice Samuel Alito to recuse himself from the case involving ExxonMobil and Suncor Energy.",
-    bodyOriginal: `Supreme Court Justice Samuel Alito, in a surprising reversal, has recused himself from participating in a major climate-change case the Supreme Court is set to hear next week, which involves the oil companies Exxon Mobil and Suncor Energy.
-Environmental groups had called on Alito, one of the court's six conservative justices, to not participate in the case because of his holdings of stock in oil and gas companies. Alito does not hold stock in Exxon Mobil or Suncor Energy, according to his most recent financial disclosure for 2025.
-Alito previously refused to step off the case after the Supreme Court accepted it for consideration earlier this year. However, in 2023, he did not participate in the court's decision not to consider jurisdictional questions raised by the companies in the same case.
-The case, known as Suncor Energy (USA) Inc. v. County Commissioners of Boulder County, is focused on the question of whether federal law precludes claims made under state law seeking damages for injuries allegedly caused by climate change to greenhouse gas emissions.
-The case is set to be argued on Oct. 5.
-"I am writing to inform the parties that Justice Alito has determined that he will not continue to participate in this case," Scott Harris, the clerk of the Supreme Court, wrote lawyers for the parties in the case, on Monday.
-Alito's sudden recusal sets up the possibility of a 4-4 split ruling on the Supreme Court in the case. A tie in a Supreme Court decision leaves in place the lower-court decision that was being appealed.
-The case involves a lawsuit by the city of Boulder, Colorado, and its surrounding county, that seeks damages for alleged harms from the effects of global climate change. A trial court denied a motion to dismiss that was filed by Suncor and Exxon, and the Colorado state Supreme Court affirmed that ruling, allowing the suit to head to trial.
-If the Supreme Court rules against the oil companies, the case would proceed toward trial.
-In May, a Supreme Court spokeswoman told NBC News that Alito would not step aside from the case.
-"Justice Alito does not have a financial interest in any party" involved in the case, the spokeswoman told NBC News at the time.
-She added that the Supreme Court's legal counsel had advised Alito that "his recusal is not required," according to NBC.`,
-    bodyJa: `Supreme Court Justice Samuel Alito, in a surprising reversal, has recused himself from participating in a major climate-change case the Supreme Court is set to hear next week, which involves the oil companies Exxon Mobil and Suncor Energy.
-Environmental groups had called on Alito, one of the court's six conservative justices, to not participate in the case because of his holdings of stock in oil and gas companies. Alito does not hold stock in Exxon Mobil or Suncor Energy, according to his most recent financial disclosure for 2025.
-Alito previously refused to step off the case after the Supreme Court accepted it for consideration earlier this year. However, in 2023, he did not participate in the court's decision not to consider jurisdictional questions raised by the companies in the same case.
-The case, known as Suncor Energy (USA) Inc. v. County Commissioners of Boulder County, is focused on the question of whether federal law precludes claims made under state law seeking damages for injuries allegedly caused by climate change to greenhouse gas emissions.
-The case is set to be argued on Oct. 5.
-"I am writing to inform the parties that Justice Alito has determined that he will not continue to participate in this case," Scott Harris, the clerk of the Supreme Court, wrote lawyers for the parties in the case, on Monday.
-Alito's sudden recusal sets up the possibility of a 4-4 split ruling on the Supreme Court in the case. A tie in a Supreme Court decision leaves in place the lower-court decision that was being appealed.
-The case involves a lawsuit by the city of Boulder, Colorado, and its surrounding county, that seeks damages for alleged harms from the effects of global climate change. A trial court denied a motion to dismiss that was filed by Suncor and Exxon, and the Colorado state Supreme Court affirmed that ruling, allowing the suit to head to trial.
-If the Supreme Court rules against the oil companies, the case would proceed toward trial.
-In May, a Supreme Court spokeswoman told NBC News that Alito would not step aside from the case.
-"Justice Alito does not have a financial interest in any party" involved in the case, the spokeswoman told NBC News at the time.
-She added that the Supreme Court's legal counsel had advised Alito that "his recusal is not required," according to NBC.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/28/supreme-court-justice-alito-recusal-climate-change-case.html",
-    publishedAt: "2026-09-28T20:13:00+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "what-a-us-diesel-export-ban-could-mean-f-48c5f4b2",
-    title: "What a US diesel export ban could mean for you",
-    titleJa: "What a US diesel export ban could mean for you",
-    summaryJa: "The threatened proposal aims to protect US consumers from rising costs, but it could trigger major economic waves if it were to happen.",
-    bodyOriginal: `What a US diesel export ban could mean for you
-- Published
-US President Donald Trump has said he would back a ban on diesel producers selling overseas as surging fuel prices hit drivers ahead of the midterm elections.
-Diesel prices are hovering near a record $6.45 per gallon on average, according to the American Automobile Association (AAA), due to the ongoing US-Israel war with Iran and tight global supplies.
-Trump and his backers say a US diesel export ban would protect domestic consumers from those rising costs, but experts say it could trigger major economic waves both at home and across the world if it were to happen.
-How much diesel does the US produce and export?
-The US is one of the world's leading energy producers, with domestic refineries churning out roughly four to five million barrels of diesel every day, according to the US Energy Information Administration (EIA).
-Americans consume about 3.6 million barrels of that daily output. Refiners export the remaining1.2 to 1.5 million barrels per day, making the US a vital supplier to the global market.
-Between 60% and 70% of this exported fuel goes to Latin America. Nations like Mexico, Brazil, Chile, and Ecuador depend heavily on American shipments to power their transport, farming, and factory sectors.
-Significant volumes also head across the Atlantic to European countries like France, the Netherlands, and the UK, as buyers search for alternatives to Middle Eastern supplies.
-What has happened to diesel prices in the US and abroad?
-US diesel prices have climbed to a record high of over $6.50 per gallon – up nearly 70% year-on-year.
-The spike has been driven by broader energy market shocks tied to ongoing conflict with Iran, which has restricted critical shipping routes through the Strait of Hormuz, a waterway south of Iran through which one fifth of the world's oil and gas usually flows.
-Diesel primarily fuels commercial vehicles in the US – such as freight trucks, farm machinery, and cargo trains – which are used for transporting goods and construction.
-This means higher diesel prices can drive up the price of food, building projects, and many other things.
-Outside the US, diesel is used in both commercial and consumer vehicles, but the effects of higher prices are similar.
-In the UK, diesel prices at the pump have hit an all-time high, prompting warnings about logistics costs and household budgets.
-UK Chancellor John Healey has told BBC News that the UK is in talks with US authorities over a potential diesel export ban and has started preparing for it.
-Meanwhile, in France and across continental Europe, governments are struggling with similar cost-of-living pressures because of rising fuel prices.
-What has Trump said, and what is his argument?
-Trump suggested over the weekend that restricting or outright banning US diesel exports could keep fuel in the domestic market and drive down prices for American consumers.
-The president said on Sunday that the administration was "thinking about it very seriously".
-His comments mirror remarks made on the sidelines of the United Nations General Assembly, where he stated that he had called to "not send out the diesel".
-Trump argues that keeping those extra barrels in the US would lower pump prices, offering immediate relief to drivers, truckers, and businesses ahead of the midterm elections.
-Supporters, including key Republican lawmakers like Congresswoman Ashley Hinson and Senator Dan Sullivan, view the strategy as an effective way to shield the domestic economy from foreign shocks, arguing that American energy should serve American workers first.
-What would an export ban mean for the US and the rest of the world?
-For the US economy, a ban could deliver short-term relief at the pump by flooding the domestic market with excess supply.
-However, energy analysts warn it could backfire.
-David Fyfe, chief economist at Argus Media, notes that cutting off American supply would likely cause international prices to skyrocket.
-That would push up global freight, food, and industrial costs, ultimately "feeding inflation back into the global economy".
-"At a stroke, the US's reputation as a reliable supplier of energy to the world would be shot," Fyfe added.
-Removing more than a million barrels of daily American supply would trigger a fierce bidding war among importing nations in Latin America and Europe.
-Sarah Raffoul, analytics manager at Argus Media, noted that while higher international prices would eventually curb demand, the immediate gap would severely strain trade relationships and accelerate global inflation.
-Get in touch
-Have you been affected by the issues raised in this story? Let us know
-- Published6 days ago
-- Published2 hours ago`,
-    bodyJa: `What a US diesel export ban could mean for you
-- Published
-US President Donald Trump has said he would back a ban on diesel producers selling overseas as surging fuel prices hit drivers ahead of the midterm elections.
-Diesel prices are hovering near a record $6.45 per gallon on average, according to the American Automobile Association (AAA), due to the ongoing US-Israel war with Iran and tight global supplies.
-Trump and his backers say a US diesel export ban would protect domestic consumers from those rising costs, but experts say it could trigger major economic waves both at home and across the world if it were to happen.
-How much diesel does the US produce and export?
-The US is one of the world's leading energy producers, with domestic refineries churning out roughly four to five million barrels of diesel every day, according to the US Energy Information Administration (EIA).
-Americans consume about 3.6 million barrels of that daily output. Refiners export the remaining1.2 to 1.5 million barrels per day, making the US a vital supplier to the global market.
-Between 60% and 70% of this exported fuel goes to Latin America. Nations like Mexico, Brazil, Chile, and Ecuador depend heavily on American shipments to power their transport, farming, and factory sectors.
-Significant volumes also head across the Atlantic to European countries like France, the Netherlands, and the UK, as buyers search for alternatives to Middle Eastern supplies.
-What has happened to diesel prices in the US and abroad?
-US diesel prices have climbed to a record high of over $6.50 per gallon – up nearly 70% year-on-year.
-The spike has been driven by broader energy market shocks tied to ongoing conflict with Iran, which has restricted critical shipping routes through the Strait of Hormuz, a waterway south of Iran through which one fifth of the world's oil and gas usually flows.
-Diesel primarily fuels commercial vehicles in the US – such as freight trucks, farm machinery, and cargo trains – which are used for transporting goods and construction.
-This means higher diesel prices can drive up the price of food, building projects, and many other things.
-Outside the US, diesel is used in both commercial and consumer vehicles, but the effects of higher prices are similar.
-In the UK, diesel prices at the pump have hit an all-time high, prompting warnings about logistics costs and household budgets.
-UK Chancellor John Healey has told BBC News that the UK is in talks with US authorities over a potential diesel export ban and has started preparing for it.
-Meanwhile, in France and across continental Europe, governments are struggling with similar cost-of-living pressures because of rising fuel prices.
-What has Trump said, and what is his argument?
-Trump suggested over the weekend that restricting or outright banning US diesel exports could keep fuel in the domestic market and drive down prices for American consumers.
-The president said on Sunday that the administration was "thinking about it very seriously".
-His comments mirror remarks made on the sidelines of the United Nations General Assembly, where he stated that he had called to "not send out the diesel".
-Trump argues that keeping those extra barrels in the US would lower pump prices, offering immediate relief to drivers, truckers, and businesses ahead of the midterm elections.
-Supporters, including key Republican lawmakers like Congresswoman Ashley Hinson and Senator Dan Sullivan, view the strategy as an effective way to shield the domestic economy from foreign shocks, arguing that American energy should serve American workers first.
-What would an export ban mean for the US and the rest of the world?
-For the US economy, a ban could deliver short-term relief at the pump by flooding the domestic market with excess supply.
-However, energy analysts warn it could backfire.
-David Fyfe, chief economist at Argus Media, notes that cutting off American supply would likely cause international prices to skyrocket.
-That would push up global freight, food, and industrial costs, ultimately "feeding inflation back into the global economy".
-"At a stroke, the US's reputation as a reliable supplier of energy to the world would be shot," Fyfe added.
-Removing more than a million barrels of daily American supply would trigger a fierce bidding war among importing nations in Latin America and Europe.
-Sarah Raffoul, analytics manager at Argus Media, noted that while higher international prices would eventually curb demand, the immediate gap would severely strain trade relationships and accelerate global inflation.
-Get in touch
-Have you been affected by the issues raised in this story? Let us know
-- Published6 days ago
-- Published2 hours ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-28T18:18:30+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e413/live/471b3a50-bb5f-11f1-a430-4d16ee157c41.jpg",
-    readTime: 10,
-  },
-  {
-    id: "aldi-boss-says-some-of-rivals-loyalty-di-035af9f2",
-    title: "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
-    titleJa: "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
-    summaryJa: "Aldi is the only major supermarket chain that doesn't operate a loyalty scheme, which are hugely popular and used by millions of shoppers.",
-    bodyOriginal: `Aldi boss says some of rivals' loyalty discounts 'dupe' customers
-- Published
-Aldi's UK boss has accused rival supermarket chains of duping customers in some cases with loyalty discounts that start with "unrealistically high prices" and then drop.
-Chief executive Giles Hurley said discounts are helpful "when they're real and when they show realistic reductions", but hit out at what he said were unrealistic reductions which "dupe customers".
-Aldi is the only major supermarket chain that doesn't operate a loyalty scheme, which are used by millions of shoppers.
-The UK's official competition watchdog investigated supermarkets' loyalty pricing schemes in 2024 and concluded shoppers "almost always make a genuine saving".
-Former Asda buyer and retail consultant Ged Futter told the BBC Hurley's comments were a "a distraction from the fact is that Aldi is under pressure in the UK".
-He said Aldi was "on a meteoric rise until about two years ago" but that it is "now growing behind the main supermarket pack".
-"The price gap isn't as clear as it once was," he added.
-Hurley, who has made similar comments on discount schemes in the past, was speaking as Aldi reported a 5% increase in sales to £19bn for 2025 from 2024.
-However, operating profits had fallen slightly over the same period, which the retailer said was due to higher staff pay as well as investments in infrastructure and prices.
-Hurley said the business was attracting new customers despite fierce competition across the sector.
-"We are the only retailer where the price of your weekly shop is actually cheaper this summer than last summer," said Hurley
-He said the business was focussed on "everyday low prices, not short-lived offers that disappear the following week".
-"Promotions can supplement every day low prices when they're meaningful, when they're real and when they show realistic reductions.
-"However, when promotions start with unrealistically high prices – and come down to prices which aren't that competitive and dupe customers – we would view that as loyalty that isn't supportive, that isn't transparent and doesn't help customers plan and budget."
-Aldi said it had spent £340m this year on cutting prices. The German-owned chain also announced plans to open 40 new stores next year as part of a £900m investment programme and expand long-term agreements with British suppliers.
-Hurley said recent droughts and global events had highlighted vulnerabilities in food supply chains, arguing that boosting domestic production should be a national strategic priority, helping to reduce the UK's exposure to shocks that can push up food prices.`,
-    bodyJa: `Aldi boss says some of rivals' loyalty discounts 'dupe' customers
-- Published
-Aldi's UK boss has accused rival supermarket chains of duping customers in some cases with loyalty discounts that start with "unrealistically high prices" and then drop.
-Chief executive Giles Hurley said discounts are helpful "when they're real and when they show realistic reductions", but hit out at what he said were unrealistic reductions which "dupe customers".
-Aldi is the only major supermarket chain that doesn't operate a loyalty scheme, which are used by millions of shoppers.
-The UK's official competition watchdog investigated supermarkets' loyalty pricing schemes in 2024 and concluded shoppers "almost always make a genuine saving".
-Former Asda buyer and retail consultant Ged Futter told the BBC Hurley's comments were a "a distraction from the fact is that Aldi is under pressure in the UK".
-He said Aldi was "on a meteoric rise until about two years ago" but that it is "now growing behind the main supermarket pack".
-"The price gap isn't as clear as it once was," he added.
-Hurley, who has made similar comments on discount schemes in the past, was speaking as Aldi reported a 5% increase in sales to £19bn for 2025 from 2024.
-However, operating profits had fallen slightly over the same period, which the retailer said was due to higher staff pay as well as investments in infrastructure and prices.
-Hurley said the business was attracting new customers despite fierce competition across the sector.
-"We are the only retailer where the price of your weekly shop is actually cheaper this summer than last summer," said Hurley
-He said the business was focussed on "everyday low prices, not short-lived offers that disappear the following week".
-"Promotions can supplement every day low prices when they're meaningful, when they're real and when they show realistic reductions.
-"However, when promotions start with unrealistically high prices – and come down to prices which aren't that competitive and dupe customers – we would view that as loyalty that isn't supportive, that isn't transparent and doesn't help customers plan and budget."
-Aldi said it had spent £340m this year on cutting prices. The German-owned chain also announced plans to open 40 new stores next year as part of a £900m investment programme and expand long-term agreements with British suppliers.
-Hurley said recent droughts and global events had highlighted vulnerabilities in food supply chains, arguing that boosting domestic production should be a national strategic priority, helping to reduce the UK's exposure to shocks that can push up food prices.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-28T17:45:52+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9fb/live/1a3e24c0-bb64-11f1-b3b3-91d0b491a464.jpg",
-    readTime: 7,
-  },
-  {
-    id: "what-is-the-budget-and-what-could-be-in-0be38d30",
-    title: "What is the Budget and what could be in it?",
-    titleJa: "What is the Budget and what could be in it?",
-    summaryJa: "What is the Budget and what could be in it?- Published",
-    bodyOriginal: `What is the Budget and what could be in it?
-- Published
-Chancellor John Healey will set out Labour's tax and spending plans when he delivers his first Budget on 28 October.
-He has refused to rule out tax increases after acknowledging government borrowing costs are at "historic highs".
-But the government's room for manoeuvre on tax is limited.
-Before the 2024 general election, Labour promised not to increase three big revenue earners for the government: income tax, National Insurance and VAT.
-What is the Budget?
-In his statement, delivered to MPs in the House of Commons, Healey will set out how the government plans to raise or lower taxes.
-Alongside the Budget, the Treasury will publish details about the measures and their costs.
-The independent Office for Budget Responsibility (OBR), which monitors government spending, will also publish an assessment of the health of the UK economy and a forecast of what it thinks will happen in the future.
-What might be in the Budget?
-The run-up to the Budget typically sees speculation about what might be in it, which the government is trying to keep to a minimum this year.
-Healey and Prime Minister Andy Burnham face a difficult balancing act, trying to offer more support to households and meet commitments on defence spending, while also sticking to Labour's manifesto commitments on tax and the government's self-imposed fiscal rules.
-The previous chancellor, Rachel Reeves, set out two main rules, which the new leadership has vowed to follow. These are:
-Not to borrow to fund day-to-day public spending by the end of this parliament
-To get government debt falling as a share of national income by the end of this parliament
-In March, the OBR calculated that the first rule would be met with a gap - or headroom - of £23.6bn. However, this headroom is expected to have shrunk.
-Analysts at KPMG believe it could have fallen to £12bn, mainly due to the rise in government borrowing costs this year.
-However, one option that has been floated is Healey potentially accepting a smaller buffer, reducing the need to increase taxes in the Budget.
-Your First Home scheme
-Further details on the "Your First Home" scheme, aimed at helping first-time buyers in England to purchase a property, are expected to be announced in the Budget.
-The scheme will allow people to buy a new-build home with a deposit of 2.5%. It would provide them with a loan worth 20% of their property's value to help pay for the purchase.
-Capital Gains Tax
-There has been speculation that Capital Gains Tax - which is imposed on the profit people make when they sell an asset that has increased in value - could be changed, through either higher rates or by removing or amending exemptions.
-Mansion Tax
-The High Value Council Tax Surcharge - dubbed the Mansion Tax - was announced in last year's Budget and will apply to properties in England valued above £2m from April 2028. However, reports have suggested the government is considering extending it to properties worth more than £1.5m.
-Taxes on banks
-Banks have been reporting bumper profits, leading to calls from unions to increase taxes on the sector. But banks have pushed back, suggesting heavier levies would undermine the government's aim to boost growth and make the UK less competitive.
-Fuel duty
-Fuel duty was frozen under the Conservatives in March 2022 and Sir Keir Starmer's government continued the freeze, deciding in May to push back a planned 3p increase in September until the end of this year.
-Healey told the BBC in late September that the "place" and "time" for dealing with rising petrol and diesel costs was the Budget, but would not give details on whether the freeze would be extended again.
-How is the economy doing?
-In the first three months of the year, the UK's economy grew by 0.6%, although it slowed to 0.4% in the April-to-June period.
-The Office for National Statistics said that figure was "relatively robust", with the UK growing faster than other G7 countries.
-The most recent data showed the economy grew by 0.4% in July, which was much stronger than expected.
-Analysts say the UK economy is proving resilient in the face of energy price shocks caused by the US-Israel war with Iran.
-The conflict has led to the effective closure of the Strait of Hormuz, a key waterway for oil and gas trade. This caused a sharp jump in oil prices, which has fed through to higher energy and fuel prices.
-Economists expect UK growth to slow in the months ahead as those costs continue to weigh on households and businesses.
-Prices for goods and services are still rising faster than wanted. Inflation hit 3.1% in the year to August, the highest rate in five months, and above the Bank of England's 2% target, driven by higher petrol and diesel prices.
-The Bank of England held interest rates at 3.75% for the sixth time in a row in September, but said they were likely to rise if high energy prices persist.
-What time is the Budget and what happens afterwards?
-The Budget speech usually starts at about 12:30 UK time - after Prime Minister's Questions - and lasts about an hour.
-It will be broadcast live on the BBC iPlayer and on the BBC News website.
-The Leader of the Opposition, Conservative MP Kemi Badenoch, will respond to the speech in the House of Commons.
-MPs debate the measures for four days, before voting on them.
-If approved by MPs, tax changes can come into effect immediately.
-However, the government must pass a finance bill to make them permanent.
-Get in touch
-Do you have any views, comments or questions about this story?`,
-    bodyJa: `What is the Budget and what could be in it?
-- Published
-Chancellor John Healey will set out Labour's tax and spending plans when he delivers his first Budget on 28 October.
-He has refused to rule out tax increases after acknowledging government borrowing costs are at "historic highs".
-But the government's room for manoeuvre on tax is limited.
-Before the 2024 general election, Labour promised not to increase three big revenue earners for the government: income tax, National Insurance and VAT.
-What is the Budget?
-In his statement, delivered to MPs in the House of Commons, Healey will set out how the government plans to raise or lower taxes.
-Alongside the Budget, the Treasury will publish details about the measures and their costs.
-The independent Office for Budget Responsibility (OBR), which monitors government spending, will also publish an assessment of the health of the UK economy and a forecast of what it thinks will happen in the future.
-What might be in the Budget?
-The run-up to the Budget typically sees speculation about what might be in it, which the government is trying to keep to a minimum this year.
-Healey and Prime Minister Andy Burnham face a difficult balancing act, trying to offer more support to households and meet commitments on defence spending, while also sticking to Labour's manifesto commitments on tax and the government's self-imposed fiscal rules.
-The previous chancellor, Rachel Reeves, set out two main rules, which the new leadership has vowed to follow. These are:
-Not to borrow to fund day-to-day public spending by the end of this parliament
-To get government debt falling as a share of national income by the end of this parliament
-In March, the OBR calculated that the first rule would be met with a gap - or headroom - of £23.6bn. However, this headroom is expected to have shrunk.
-Analysts at KPMG believe it could have fallen to £12bn, mainly due to the rise in government borrowing costs this year.
-However, one option that has been floated is Healey potentially accepting a smaller buffer, reducing the need to increase taxes in the Budget.
-Your First Home scheme
-Further details on the "Your First Home" scheme, aimed at helping first-time buyers in England to purchase a property, are expected to be announced in the Budget.
-The scheme will allow people to buy a new-build home with a deposit of 2.5%. It would provide them with a loan worth 20% of their property's value to help pay for the purchase.
-Capital Gains Tax
-There has been speculation that Capital Gains Tax - which is imposed on the profit people make when they sell an asset that has increased in value - could be changed, through either higher rates or by removing or amending exemptions.
-Mansion Tax
-The High Value Council Tax Surcharge - dubbed the Mansion Tax - was announced in last year's Budget and will apply to properties in England valued above £2m from April 2028. However, reports have suggested the government is considering extending it to properties worth more than £1.5m.
-Taxes on banks
-Banks have been reporting bumper profits, leading to calls from unions to increase taxes on the sector. But banks have pushed back, suggesting heavier levies would undermine the government's aim to boost growth and make the UK less competitive.
-Fuel duty
-Fuel duty was frozen under the Conservatives in March 2022 and Sir Keir Starmer's government continued the freeze, deciding in May to push back a planned 3p increase in September until the end of this year.
-Healey told the BBC in late September that the "place" and "time" for dealing with rising petrol and diesel costs was the Budget, but would not give details on whether the freeze would be extended again.
-How is the economy doing?
-In the first three months of the year, the UK's economy grew by 0.6%, although it slowed to 0.4% in the April-to-June period.
-The Office for National Statistics said that figure was "relatively robust", with the UK growing faster than other G7 countries.
-The most recent data showed the economy grew by 0.4% in July, which was much stronger than expected.
-Analysts say the UK economy is proving resilient in the face of energy price shocks caused by the US-Israel war with Iran.
-The conflict has led to the effective closure of the Strait of Hormuz, a key waterway for oil and gas trade. This caused a sharp jump in oil prices, which has fed through to higher energy and fuel prices.
-Economists expect UK growth to slow in the months ahead as those costs continue to weigh on households and businesses.
-Prices for goods and services are still rising faster than wanted. Inflation hit 3.1% in the year to August, the highest rate in five months, and above the Bank of England's 2% target, driven by higher petrol and diesel prices.
-The Bank of England held interest rates at 3.75% for the sixth time in a row in September, but said they were likely to rise if high energy prices persist.
-What time is the Budget and what happens afterwards?
-The Budget speech usually starts at about 12:30 UK time - after Prime Minister's Questions - and lasts about an hour.
-It will be broadcast live on the BBC iPlayer and on the BBC News website.
-The Leader of the Opposition, Conservative MP Kemi Badenoch, will respond to the speech in the House of Commons.
-MPs debate the measures for four days, before voting on them.
-If approved by MPs, tax changes can come into effect immediately.
-However, the government must pass a finance bill to make them permanent.
-Get in touch
-Do you have any views, comments or questions about this story?`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-28T17:14:16+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e2e/live/b81a2280-b8e8-11f1-ba42-19e1456ae537.jpg",
     readTime: 10,
   },
 ];
