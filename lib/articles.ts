@@ -15,6 +15,578 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "us-says-europe-should-ready-fuel-supplie-0b3a4091",
+    title: "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+    titleJa: "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+    summaryJa: "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+    bodyOriginal: `US says Europe should ready fuel supplies as Trump threatens diesel ban
+- Published
+Donald Trump has said he may ask European countries to release some of their diesel reserves as he mulls a ban on US exports of the fuel amid a global shortage.
+The comments followed his Treasury Secretary Scott Bessent urging for Europe to immediately ready and release such supplies. "American farmers, truckers, and businesses should not be left carrying the burden" as prices soar, he argued.
+The US has threatened to restrict diesel exports amid surging costs due to the war in Iran. The issue is top of mind for US voters ahead of the crucial midterm elections.
+On Thursday, Britain held talks with European partners about the potential release of diesel reserves in response to any ban.
+The US is a vital supplier of diesel to the world, exporting between 1.2 and 1.5 million barrels per day, with experts warning a ban on shipments abroad could put further pressure on prices in other countries.
+"We're thinking about it very seriously," Trump said of an export ban at the weekend.
+On Thursday Trump added that he may ask European countries to release some of their diesel reserves, while Bessent said they should do so "immediately".
+"Our European partners should accelerate delivery on their existing commitments and make additional supplies immediately available to address ongoing disruptions," Bessent said in a post on social media.
+The plans come weeks ahead of November elections in the US, where control of Congress will be up for grabs. The president is set to travel across the US campaigning for Republicans in hopes of keeping control of the House and Senate.
+Diesel prices in the UK hit record highs this week and are hovering just under 200p per litre, according to motoring organisation the RAC.
+Britain's Energy Minister Martin McCluskey was on a call with European counterparts on Thursday to discuss the potential ban.
+A source familiar with the discussions told the BBC it was prudent to prepare a co-ordinated response with other countries, including those across EU, but added that there were still European reserves left from a coordinated release of strategic fuel stocks earlier in the year.
+"We have a diverse and resilient supply. We continue to engage with our international partners and the UK fuel industry," a government spokesperson said. The government has stressed that there is no cause for concern about potential diesel shortages, though prices are expected to rise further.
+What a US diesel export ban could mean for you
+- Published3 days ago
+A European Commission spokesperson said today that there were "lots of calls, lots of meetings" taking place on the diesel situation, including with "high level contacts" in the US administration.
+Prices of petrol and diesel globally have skyrocketed since the outbreak of the US-Israel war in Iran in February. The closure of the vital Strait of Hormuz, which typically transports around a fifth of the world's oil and gas, has pushed up the price of products made from oil.
+An export ban from Russia, also a major supplier of diesel, has added to the pressure on prices.
+Trump has argued that keeping any surplus barrels of diesel in the US would lower pump prices domestically, offering immediate relief to drivers, truckers, and businesses ahead of the midterm elections.
+But David Fyfe, chief economist at Argus Media, said cutting off American supply would likely cause international prices to skyrocket.
+Diesel prices have hit an all-time high in the UK, with the latest RAC figures showing average pump prices at 199.79p per litre, up from 142.38p
+Diesel is harder to refine than gasoline and, because it is used by the haulage industry and in agriculture, it is very difficult to reduce demand.
+The UK is heavily reliant on imports. Although the four refineries in the UK make more than enough petrol to meet demand, they do not make enough diesel for the country's needs.
+There were 15.1 million diesel vehicles on UK roads at the end of June, according to the Department for Transport. That is a drop from 15.7 million a year before.
+There were 9.8 million diesel cars, down year on year from 10.4 million.
+Related topics
+- Published3 days ago
+- Published3 days ago`,
+    bodyJa: `US says Europe should ready fuel supplies as Trump threatens diesel ban
+- Published
+Donald Trump has said he may ask European countries to release some of their diesel reserves as he mulls a ban on US exports of the fuel amid a global shortage.
+The comments followed his Treasury Secretary Scott Bessent urging for Europe to immediately ready and release such supplies. "American farmers, truckers, and businesses should not be left carrying the burden" as prices soar, he argued.
+The US has threatened to restrict diesel exports amid surging costs due to the war in Iran. The issue is top of mind for US voters ahead of the crucial midterm elections.
+On Thursday, Britain held talks with European partners about the potential release of diesel reserves in response to any ban.
+The US is a vital supplier of diesel to the world, exporting between 1.2 and 1.5 million barrels per day, with experts warning a ban on shipments abroad could put further pressure on prices in other countries.
+"We're thinking about it very seriously," Trump said of an export ban at the weekend.
+On Thursday Trump added that he may ask European countries to release some of their diesel reserves, while Bessent said they should do so "immediately".
+"Our European partners should accelerate delivery on their existing commitments and make additional supplies immediately available to address ongoing disruptions," Bessent said in a post on social media.
+The plans come weeks ahead of November elections in the US, where control of Congress will be up for grabs. The president is set to travel across the US campaigning for Republicans in hopes of keeping control of the House and Senate.
+Diesel prices in the UK hit record highs this week and are hovering just under 200p per litre, according to motoring organisation the RAC.
+Britain's Energy Minister Martin McCluskey was on a call with European counterparts on Thursday to discuss the potential ban.
+A source familiar with the discussions told the BBC it was prudent to prepare a co-ordinated response with other countries, including those across EU, but added that there were still European reserves left from a coordinated release of strategic fuel stocks earlier in the year.
+"We have a diverse and resilient supply. We continue to engage with our international partners and the UK fuel industry," a government spokesperson said. The government has stressed that there is no cause for concern about potential diesel shortages, though prices are expected to rise further.
+What a US diesel export ban could mean for you
+- Published3 days ago
+A European Commission spokesperson said today that there were "lots of calls, lots of meetings" taking place on the diesel situation, including with "high level contacts" in the US administration.
+Prices of petrol and diesel globally have skyrocketed since the outbreak of the US-Israel war in Iran in February. The closure of the vital Strait of Hormuz, which typically transports around a fifth of the world's oil and gas, has pushed up the price of products made from oil.
+An export ban from Russia, also a major supplier of diesel, has added to the pressure on prices.
+Trump has argued that keeping any surplus barrels of diesel in the US would lower pump prices domestically, offering immediate relief to drivers, truckers, and businesses ahead of the midterm elections.
+But David Fyfe, chief economist at Argus Media, said cutting off American supply would likely cause international prices to skyrocket.
+Diesel prices have hit an all-time high in the UK, with the latest RAC figures showing average pump prices at 199.79p per litre, up from 142.38p
+Diesel is harder to refine than gasoline and, because it is used by the haulage industry and in agriculture, it is very difficult to reduce demand.
+The UK is heavily reliant on imports. Although the four refineries in the UK make more than enough petrol to meet demand, they do not make enough diesel for the country's needs.
+There were 15.1 million diesel vehicles on UK roads at the end of June, according to the Department for Transport. That is a drop from 15.7 million a year before.
+There were 9.8 million diesel cars, down year on year from 10.4 million.
+Related topics
+- Published3 days ago
+- Published3 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-01T22:21:16+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7842/live/887b3530-bdcc-11f1-b74d-89126d2b845a.jpg",
+    readTime: 10,
+  },
+  {
+    id: "nike-shares-drop-as-retailer-posts-disap-4980f3f6",
+    title: "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
+    titleJa: "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
+    summaryJa: "Nike is expected to post another quarter of declining sales as the company tries to turn around its business and regain growth in China.",
+    bodyOriginal: `Nike on Thursday posted a mixed fiscal first quarter and announced a restructuring plan that will lead to layoffs starting next year.
+The company also offered a full-year outlook, saying it expects revenues to decline by a high-single digit percentage in fiscal 2027. Nike also said it expects adjusted earnings per share to be in a range of $1.15 to $1.35.
+Shares of Nike fell roughly 3% in extended trading Thursday.
+Here's what the company reported for the period compared to what analysts expected, according to consensus estimates from LSEG:
+- Earnings per share: 48 cents vs. 43 cents expected
+- Revenue: $11.21 billion vs. $11.32 billion expected
+Nike reported net income of $712 million, down 2% from $727 million the year prior.
+Revenue fell 4% to $11.21 billion. The retailer said Nike brand revenues took a hit largely due to sustained declines in the China business. Revenue in the market dropped 26%. CEO Elliott Hill said on a call with analysts that the company is "moving with urgency" to improve its business in the region.
+Its North America revenue came in at $5.13 billion, just above estimates of $5.11 billion, according to StreetAccount. Nike also reported gross margin of 42.8% compared to estimates of 42.4%.
+"Despite that progress, our Nike performance business is not yet large enough to offset the pressure we're seeing in Nike Sportswear, Jordan Brand, and Greater China," Hill told analysts. "We're taking deliberate actions to strengthen those businesses, but realizing the full benefit of those efforts will take time."
+Nike's sportswear segment, which Hill said accounted for just under half of the quarter's revenue, fell by a low-double digit percentage.
+"Overall, there's a lack of energy in the lifestyle space right now, which is impacting traffic," he said on the call. "Yes, the consumer is cautious, but as the leader in the industry, it's on us to bring more creativity to sportswear."
+Nike reorganizes
+The sneaker giant also announced a restructuring plan to "position Nike for long-term growth." The strategy is expected to result in layoffs beginning in 2027, though the company did not provide any further details on how many jobs it would cut.
+"This work will result in fewer roles across Nike, and I want to acknowledge that news like this creates uncertainty. I don't take that lightly," Hill wrote in a letter to the company.
+The cuts are the third round of layoffs Nike has announced this year.
+The company said it plans to focus on its supply chain modernization, organizing into three geographies, building a new campus in India and changing its work and workforce. Those geographic regions will be the Americas; the Asia Pacific and Greater China; and Europe, the Middle East and Africa.
+The strategy, which Nike has dubbed Pace, is expected to deliver approximately $2.5 billion in savings through fiscal 2031. It'll also result in a 15-cent restructuring expense to fiscal 2027 earnings per share, the company added.
+"We expect Pace to streamline decision making, so we can capture demand faster and improve productivity, while also creating greater capacity to invest in what has always set Nike apart: serving athletes, creating industry-leading innovation and building the world's strongest sports brands," Hill said on the conference call.
+The retailer has been in the midst of a turnaround plan, focused on improving separate parts of its business at different rates based on priority. The Nike consumer has also been under increased macroeconomic pressure as geopolitical tensions and higher inflation lead to slower spending.
+Shares of Nike have plummeted more than 40% this year.`,
+    bodyJa: `Nike on Thursday posted a mixed fiscal first quarter and announced a restructuring plan that will lead to layoffs starting next year.
+The company also offered a full-year outlook, saying it expects revenues to decline by a high-single digit percentage in fiscal 2027. Nike also said it expects adjusted earnings per share to be in a range of $1.15 to $1.35.
+Shares of Nike fell roughly 3% in extended trading Thursday.
+Here's what the company reported for the period compared to what analysts expected, according to consensus estimates from LSEG:
+- Earnings per share: 48 cents vs. 43 cents expected
+- Revenue: $11.21 billion vs. $11.32 billion expected
+Nike reported net income of $712 million, down 2% from $727 million the year prior.
+Revenue fell 4% to $11.21 billion. The retailer said Nike brand revenues took a hit largely due to sustained declines in the China business. Revenue in the market dropped 26%. CEO Elliott Hill said on a call with analysts that the company is "moving with urgency" to improve its business in the region.
+Its North America revenue came in at $5.13 billion, just above estimates of $5.11 billion, according to StreetAccount. Nike also reported gross margin of 42.8% compared to estimates of 42.4%.
+"Despite that progress, our Nike performance business is not yet large enough to offset the pressure we're seeing in Nike Sportswear, Jordan Brand, and Greater China," Hill told analysts. "We're taking deliberate actions to strengthen those businesses, but realizing the full benefit of those efforts will take time."
+Nike's sportswear segment, which Hill said accounted for just under half of the quarter's revenue, fell by a low-double digit percentage.
+"Overall, there's a lack of energy in the lifestyle space right now, which is impacting traffic," he said on the call. "Yes, the consumer is cautious, but as the leader in the industry, it's on us to bring more creativity to sportswear."
+Nike reorganizes
+The sneaker giant also announced a restructuring plan to "position Nike for long-term growth." The strategy is expected to result in layoffs beginning in 2027, though the company did not provide any further details on how many jobs it would cut.
+"This work will result in fewer roles across Nike, and I want to acknowledge that news like this creates uncertainty. I don't take that lightly," Hill wrote in a letter to the company.
+The cuts are the third round of layoffs Nike has announced this year.
+The company said it plans to focus on its supply chain modernization, organizing into three geographies, building a new campus in India and changing its work and workforce. Those geographic regions will be the Americas; the Asia Pacific and Greater China; and Europe, the Middle East and Africa.
+The strategy, which Nike has dubbed Pace, is expected to deliver approximately $2.5 billion in savings through fiscal 2031. It'll also result in a 15-cent restructuring expense to fiscal 2027 earnings per share, the company added.
+"We expect Pace to streamline decision making, so we can capture demand faster and improve productivity, while also creating greater capacity to invest in what has always set Nike apart: serving athletes, creating industry-leading innovation and building the world's strongest sports brands," Hill said on the conference call.
+The retailer has been in the midst of a turnaround plan, focused on improving separate parts of its business at different rates based on priority. The Nike consumer has also been under increased macroeconomic pressure as geopolitical tensions and higher inflation lead to slower spending.
+Shares of Nike have plummeted more than 40% this year.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
+    publishedAt: "2026-10-01T21:34:44+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "trump-could-target-three-fed-governors-r-f6ac8935",
+    title: "Trump could target three Fed governors. Removing them may be harder than it looks",
+    titleJa: "Trump could target three Fed governors. Removing them may be harder than it looks",
+    summaryJa: "Trump could seek to remove Jerome Powell, Lisa Cook and Michael Barr from the Federal Reserve, but court rulings and lengthy litigation could limit him.",
+    bodyOriginal: `President Donald Trump has new ammunition he can use in his campaign against his perceived opponents at the Federal Reserve, although a watchdog report released Wednesday found no basis for criminal charges stemming from the Fed's costly renovations to its headquarters.
+Combined with separate disputes involving governors Lisa Cook and Michael Barr, Trump's decision to pin the headquarters spending issues on former Chair Jerome Powell means the president could potentially seek the removal of as many as three of the Fed's seven board members. But recent court rulings suggest any attempt would face significant legal hurdles.
+Any legal maneuvers could take months to play out and may have the effect of persuading his targets to postpone any plans to leave the Fed, as Powell has already done. Trump's ability to force the Fed off its recent decision to raise interest rates appears limited, despite the institutional damage he could do if he took further legal action.
+Trump appears to be weighing his options for how to proceed. The Fed is scheduled to announce its latest interest-rate decision on Oct. 28, only days before the Nov. 3 midterm election. The administration faces a deadline in the Cook case shortly after the election.
+If the administration does move against any of the three governors, it may backfire for Trump, said Scott Alvarez, a former Fed general counsel.
+"All have an incentive to litigate and stay," Alvarez said.
+"The Supreme Court said that Lisa Cook can stay while the litigation goes on. If they all stay while he goes on, then all he's done is hurt his own agenda," Alvarez said of Trump.
+Trump fumed in the wake of Wednesday's report from the Fed's inspector general. "Powell is a disaster," the president said Wednesday when asked by reporters about the findings. Powell "should not be sitting on the Federal Reserve Board."
+Trump appointed Powell during his first term, then quickly soured on him.
+Trump asked Attorney General Todd Blanche to review the IG report. A spokesman for Jeanine Pirro, the U.S. attorney for the District of Columbia said her office was also reviewing the report.
+The Department of Justice didn't respond to emailed questions about its plans and how Blanche's review might differ from Pirro's. Pirro previously oversaw a criminal investigation into Powell. A judge quashed her subpoenas in the matter, saying their "dominant (if not sole) purpose is to harass and pressure Powell."
+The Fed declined to comment on Trump's remarks about Powell.
+The long-awaited IG report found a raft of managerial problems had allowed construction costs to jump by about a billion dollars as the Fed renovated its Washington office space. But the report found no evidence of administrative misconduct and saw nothing meriting a criminal referral to prosecutors.
+"I personally don't think the renovation report would be enough for a court to remove Jay for cause," Alvarez said. "It exonerates him on the criminal side, but it also says they didn't identify any administrative misconduct."
+The report details how bureaucratic disorganization left the Fed vulnerable to overspending on a project to renovate and connect a pair of historical federal buildings in Washington. The IG's office faults the Fed for failing to enforce a guaranteed maximum price for the project, among other issues.
+But the backward-looking report can't directly prove the Fed would have saved money had it operated better. It acknowledges in a footnote that better management "does not necessarily mean the project's overall cost will be lower."
+Nor does the report pin the cost overruns on Powell or any individual governor, instead describing failures in project management, contracting and the board's governance and oversight systems. The IG's office notes that the board delegated responsibility to the staff, as it would have expected for a construction project at a large organization.
+Powell can stay on the Fed as a governor through January 2028. He said in March he would remain until the legal threat was "well and truly over, with transparency and finality."
+The Supreme Court in June blocked Trump's attempt to remove Cook over allegations that she had lied on a mortgage application. The court said she was owed notice of the allegations and a chance to respond, and issued guidance for what a later finding of cause might entail.
+As of August, Cook has received the notice and opportunity to respond, removing one obstacle to her potential removal. The administration would still need to show courts it has met the threshold for cause, which would likely require another Supreme Court review.
+The White House hasn't publicly addressed the issue since Cook's response, though in an interview published by Time on Thursday Trump complained about Cook. The White House declined to comment on how the president might respond further to the IG report's findings.
+Newly confirmed Fed Chairman Kevin Warsh is "controlled to a certain extent" by the board, Trump said. "We have Lisa on there," he said.
+For now, the Cook case is pending before U.S. District Court Judge Jia Cobb. She has asked the parties for a joint status report by Nov. 6 on how the litigation should proceed.
+Meanwhile, an outside investigation into the Fed's handling of the 2023 failure of Silicon Valley Bank is ongoing. A preliminary report by the investigative firm Starling Advisory Group faulted the Fed's bank supervisors, whom it said should have known about the risks to the bank as much as a year ahead of its failure.
+The preliminary review doesn't assign responsibility to Barr personally. But the White House heaped the blame for the episode at Barr's feet, while stopping short of calling for his firing.
+There may not be evidence enough in that report to justify his removal to a skeptical judiciary.
+But some in the Fed believe Trump has already proved the administration is willing to act on thin evidence.
+Powell issued an extraordinary statement in January after subpoenas for evidence involving the renovation.
+"This new threat is not about my testimony last June or about the renovation of the Federal Reserve buildings," Powell said. "Those are pretexts."`,
+    bodyJa: `President Donald Trump has new ammunition he can use in his campaign against his perceived opponents at the Federal Reserve, although a watchdog report released Wednesday found no basis for criminal charges stemming from the Fed's costly renovations to its headquarters.
+Combined with separate disputes involving governors Lisa Cook and Michael Barr, Trump's decision to pin the headquarters spending issues on former Chair Jerome Powell means the president could potentially seek the removal of as many as three of the Fed's seven board members. But recent court rulings suggest any attempt would face significant legal hurdles.
+Any legal maneuvers could take months to play out and may have the effect of persuading his targets to postpone any plans to leave the Fed, as Powell has already done. Trump's ability to force the Fed off its recent decision to raise interest rates appears limited, despite the institutional damage he could do if he took further legal action.
+Trump appears to be weighing his options for how to proceed. The Fed is scheduled to announce its latest interest-rate decision on Oct. 28, only days before the Nov. 3 midterm election. The administration faces a deadline in the Cook case shortly after the election.
+If the administration does move against any of the three governors, it may backfire for Trump, said Scott Alvarez, a former Fed general counsel.
+"All have an incentive to litigate and stay," Alvarez said.
+"The Supreme Court said that Lisa Cook can stay while the litigation goes on. If they all stay while he goes on, then all he's done is hurt his own agenda," Alvarez said of Trump.
+Trump fumed in the wake of Wednesday's report from the Fed's inspector general. "Powell is a disaster," the president said Wednesday when asked by reporters about the findings. Powell "should not be sitting on the Federal Reserve Board."
+Trump appointed Powell during his first term, then quickly soured on him.
+Trump asked Attorney General Todd Blanche to review the IG report. A spokesman for Jeanine Pirro, the U.S. attorney for the District of Columbia said her office was also reviewing the report.
+The Department of Justice didn't respond to emailed questions about its plans and how Blanche's review might differ from Pirro's. Pirro previously oversaw a criminal investigation into Powell. A judge quashed her subpoenas in the matter, saying their "dominant (if not sole) purpose is to harass and pressure Powell."
+The Fed declined to comment on Trump's remarks about Powell.
+The long-awaited IG report found a raft of managerial problems had allowed construction costs to jump by about a billion dollars as the Fed renovated its Washington office space. But the report found no evidence of administrative misconduct and saw nothing meriting a criminal referral to prosecutors.
+"I personally don't think the renovation report would be enough for a court to remove Jay for cause," Alvarez said. "It exonerates him on the criminal side, but it also says they didn't identify any administrative misconduct."
+The report details how bureaucratic disorganization left the Fed vulnerable to overspending on a project to renovate and connect a pair of historical federal buildings in Washington. The IG's office faults the Fed for failing to enforce a guaranteed maximum price for the project, among other issues.
+But the backward-looking report can't directly prove the Fed would have saved money had it operated better. It acknowledges in a footnote that better management "does not necessarily mean the project's overall cost will be lower."
+Nor does the report pin the cost overruns on Powell or any individual governor, instead describing failures in project management, contracting and the board's governance and oversight systems. The IG's office notes that the board delegated responsibility to the staff, as it would have expected for a construction project at a large organization.
+Powell can stay on the Fed as a governor through January 2028. He said in March he would remain until the legal threat was "well and truly over, with transparency and finality."
+The Supreme Court in June blocked Trump's attempt to remove Cook over allegations that she had lied on a mortgage application. The court said she was owed notice of the allegations and a chance to respond, and issued guidance for what a later finding of cause might entail.
+As of August, Cook has received the notice and opportunity to respond, removing one obstacle to her potential removal. The administration would still need to show courts it has met the threshold for cause, which would likely require another Supreme Court review.
+The White House hasn't publicly addressed the issue since Cook's response, though in an interview published by Time on Thursday Trump complained about Cook. The White House declined to comment on how the president might respond further to the IG report's findings.
+Newly confirmed Fed Chairman Kevin Warsh is "controlled to a certain extent" by the board, Trump said. "We have Lisa on there," he said.
+For now, the Cook case is pending before U.S. District Court Judge Jia Cobb. She has asked the parties for a joint status report by Nov. 6 on how the litigation should proceed.
+Meanwhile, an outside investigation into the Fed's handling of the 2023 failure of Silicon Valley Bank is ongoing. A preliminary report by the investigative firm Starling Advisory Group faulted the Fed's bank supervisors, whom it said should have known about the risks to the bank as much as a year ahead of its failure.
+The preliminary review doesn't assign responsibility to Barr personally. But the White House heaped the blame for the episode at Barr's feet, while stopping short of calling for his firing.
+There may not be evidence enough in that report to justify his removal to a skeptical judiciary.
+But some in the Fed believe Trump has already proved the administration is willing to act on thin evidence.
+Powell issued an extraordinary statement in January after subpoenas for evidence involving the renovation.
+"This new threat is not about my testimony last June or about the renovation of the Federal Reserve buildings," Powell said. "Those are pretexts."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/01/trump-fed-powell-lisa-cook-michael-barr-removal.html",
+    publishedAt: "2026-10-01T21:14:49+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "what-s-gone-wrong-at-nike-how-the-world-01183971",
+    title: "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
+    titleJa: "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
+    summaryJa: "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
+    bodyOriginal: `What's gone wrong at Nike? How the world's sportswear giant lost its mojo
+- Published
+It's been a difficult few years for Nike.
+The largest sportswear brand on the planet, named after the ancient Greek goddess of victory, has been losing of late. Losing sales, losing customers and losing ground to its rivals.
+The one-time industry disruptor is now the establishment and in the middle of a tricky turnaround plan aimed at clinging on to market dominance.
+Nike's latest financial results show signs a turnaround strategy put in place by company veteran Elliott Hill, who was coaxed out of retirement two years ago to lead the firm, is working - but the pace of change is more marathon than sprint.
+However, its recovery has been dented by the loss of football star Kylian Mbappé, who ended his 20-year association with the brand last week to join fast-growing Swiss rival, On.
+The Real Madrid striker's departure raises the question of whether Nike can remain the top logo for not just elite athletes, but also the fans that idolise them.
+To be clear, Nike is still a mega brand and popular the world over. But missteps have seen hundreds of billions of dollars wiped off its stock market value as its share price tumbled by 75% over five years.
+Last month, Nike was ejected from the S&P 100 stock market index of the biggest blue-chip firms in the US.
+So what's gone wrong? And can Hill turn things around?
+Matt Powell, a veteran analyst and adviser in the sports retail industry, reckons Nike has made "several strategic errors" which have been difficult to reverse, including cutting ties with retailers to sell only direct to customers online and making limited editions items more available.
+"The more broadly available those shoes became, the fewer people were interested," Powell says.
+Other self-inflicted wounds he suggests include spending research and development cash on digital operations rather than new products.
+"They really shut down their innovation on product. Someone jokingly said they were trying to turn Nike into eBay."
+That jibe was aimed at John Donahoe, the former eBay boss behind Nike's online direct-to-consumer sales pivot, before he made way for Hill.
+Donahoe's four years at Nike coincided with the company's share price plunge.
+His tenure saw sales initially soar, driven by pandemic restrictions that boosted online shopping, but subsequent cost-of-living pressures curbed customer spending.
+As demand weakened overseas in key markets like China, Nike announced cost cuts and redundancies.
+Its digital distraction allowed newer footwear firms on top of the trends to snap at its heels. Shop shelf space previously occupied by Nike was replaced by brands such as On and Hoka.
+This was a stark warning to a company that prided and built itself on innovation.
+Nike was the firm that signed a deal with a rookie called Michael Jordan in the mid-1980s at a time when the company wasn't a major player in basketball and still mostly known for its running trainers.
+The gamble - spending its entire basketball budget on Jordan before he had even competed in the NBA - made Nike what it is today.
+The company built a shoe brand around him - Air Jordan. The red and black colours broke NBA rules, but Nike used it as a marketing stunt and paid the fines.
+In years that followed Nike partnered with generational talents Tiger Woods, Serena Williams and Cristiano Ronaldo, who all donned the Swoosh on their way to golf, tennis and football greatness.
+While the brand retains partnerships with long-retired Jordan, plus Williams and Ronaldo - Woods ended his association in 2024.
+"[I'm] not saying that what they did wasn't great, but it was in the past," said Tim Derdenger, an academic in marketing and strategy. "It's not the future and it's not the current and that is what drives apparel sales today."
+Nike's books still boast top athletes, ranging from Rory McIlory to Vinicius Junior.
+However, it has now lost its biggest footballing star in Mbappé, who had been with Nike since he was nine years old, along with World Cup winner Lamine Yamal.
+Yamal suggested his move to Adidas gave him the chance to stand out from Nike's star-studded roster, while Mbappé said On would see him "surrounded by innovators who dream of the same things I do".
+Was that a parting dig at Nike?
+Derdenger suggests Mbappé's move had parallels to Jordan's decision decades earlier to choose Nike over Converse and Adidas due to the opportunity for the athlete to become synonymous with one brand.
+"Athletes have egos and those egos want them to be a part of something big and that they're the ones that are helping drive that change, that growth."
+Nike down but not out
+For all the "doom and gloom", Nike will stay number one, according to Powell - millions worldwide, including young people, remain loyal - but its mistakes have dented its dominance.
+"Will Nike be the gorilla they once were? I don't think so. Can the brand come back to growth and profitability? Yes," Powell says.
+"When you shut down innovation, you don't turn it back on and it goes right back to full speed," he adds.
+Powell thinks Nike's turnaround plan, called "Sport Offense", will start to show positive signs next year.
+Hill said Nike had "more work to do" on its sportswear, Jordan brand and in China as the company announced quarterly revenues of $11bn, which undershot analysts' expectations.
+The company said it expected revenues to decline by "high-single digits" in the financial year ahead, adding that it planned to make savings of $2.5bn by 2031, some of which will result in job losses.
+Last year the company launched a spin-off campaign to its iconic "Just Do It" slogan aimed at younger generations with the line "Why Do It?"
+Young people, and future sporting stars, may ask themselves: Why Nike?
+- Published19 September 2024
+- Published28 June 2024`,
+    bodyJa: `What's gone wrong at Nike? How the world's sportswear giant lost its mojo
+- Published
+It's been a difficult few years for Nike.
+The largest sportswear brand on the planet, named after the ancient Greek goddess of victory, has been losing of late. Losing sales, losing customers and losing ground to its rivals.
+The one-time industry disruptor is now the establishment and in the middle of a tricky turnaround plan aimed at clinging on to market dominance.
+Nike's latest financial results show signs a turnaround strategy put in place by company veteran Elliott Hill, who was coaxed out of retirement two years ago to lead the firm, is working - but the pace of change is more marathon than sprint.
+However, its recovery has been dented by the loss of football star Kylian Mbappé, who ended his 20-year association with the brand last week to join fast-growing Swiss rival, On.
+The Real Madrid striker's departure raises the question of whether Nike can remain the top logo for not just elite athletes, but also the fans that idolise them.
+To be clear, Nike is still a mega brand and popular the world over. But missteps have seen hundreds of billions of dollars wiped off its stock market value as its share price tumbled by 75% over five years.
+Last month, Nike was ejected from the S&P 100 stock market index of the biggest blue-chip firms in the US.
+So what's gone wrong? And can Hill turn things around?
+Matt Powell, a veteran analyst and adviser in the sports retail industry, reckons Nike has made "several strategic errors" which have been difficult to reverse, including cutting ties with retailers to sell only direct to customers online and making limited editions items more available.
+"The more broadly available those shoes became, the fewer people were interested," Powell says.
+Other self-inflicted wounds he suggests include spending research and development cash on digital operations rather than new products.
+"They really shut down their innovation on product. Someone jokingly said they were trying to turn Nike into eBay."
+That jibe was aimed at John Donahoe, the former eBay boss behind Nike's online direct-to-consumer sales pivot, before he made way for Hill.
+Donahoe's four years at Nike coincided with the company's share price plunge.
+His tenure saw sales initially soar, driven by pandemic restrictions that boosted online shopping, but subsequent cost-of-living pressures curbed customer spending.
+As demand weakened overseas in key markets like China, Nike announced cost cuts and redundancies.
+Its digital distraction allowed newer footwear firms on top of the trends to snap at its heels. Shop shelf space previously occupied by Nike was replaced by brands such as On and Hoka.
+This was a stark warning to a company that prided and built itself on innovation.
+Nike was the firm that signed a deal with a rookie called Michael Jordan in the mid-1980s at a time when the company wasn't a major player in basketball and still mostly known for its running trainers.
+The gamble - spending its entire basketball budget on Jordan before he had even competed in the NBA - made Nike what it is today.
+The company built a shoe brand around him - Air Jordan. The red and black colours broke NBA rules, but Nike used it as a marketing stunt and paid the fines.
+In years that followed Nike partnered with generational talents Tiger Woods, Serena Williams and Cristiano Ronaldo, who all donned the Swoosh on their way to golf, tennis and football greatness.
+While the brand retains partnerships with long-retired Jordan, plus Williams and Ronaldo - Woods ended his association in 2024.
+"[I'm] not saying that what they did wasn't great, but it was in the past," said Tim Derdenger, an academic in marketing and strategy. "It's not the future and it's not the current and that is what drives apparel sales today."
+Nike's books still boast top athletes, ranging from Rory McIlory to Vinicius Junior.
+However, it has now lost its biggest footballing star in Mbappé, who had been with Nike since he was nine years old, along with World Cup winner Lamine Yamal.
+Yamal suggested his move to Adidas gave him the chance to stand out from Nike's star-studded roster, while Mbappé said On would see him "surrounded by innovators who dream of the same things I do".
+Was that a parting dig at Nike?
+Derdenger suggests Mbappé's move had parallels to Jordan's decision decades earlier to choose Nike over Converse and Adidas due to the opportunity for the athlete to become synonymous with one brand.
+"Athletes have egos and those egos want them to be a part of something big and that they're the ones that are helping drive that change, that growth."
+Nike down but not out
+For all the "doom and gloom", Nike will stay number one, according to Powell - millions worldwide, including young people, remain loyal - but its mistakes have dented its dominance.
+"Will Nike be the gorilla they once were? I don't think so. Can the brand come back to growth and profitability? Yes," Powell says.
+"When you shut down innovation, you don't turn it back on and it goes right back to full speed," he adds.
+Powell thinks Nike's turnaround plan, called "Sport Offense", will start to show positive signs next year.
+Hill said Nike had "more work to do" on its sportswear, Jordan brand and in China as the company announced quarterly revenues of $11bn, which undershot analysts' expectations.
+The company said it expected revenues to decline by "high-single digits" in the financial year ahead, adding that it planned to make savings of $2.5bn by 2031, some of which will result in job losses.
+Last year the company launched a spin-off campaign to its iconic "Just Do It" slogan aimed at younger generations with the line "Why Do It?"
+Young people, and future sporting stars, may ask themselves: Why Nike?
+- Published19 September 2024
+- Published28 June 2024`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-01T20:51:09+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb88/live/f96c9360-bdc7-11f1-babe-4199b0e7ccea.jpg",
+    readTime: 10,
+  },
+  {
+    id: "brent-oil-jumps-more-than-4-as-u-s-repor-b754a1c0",
+    title: "Brent oil jumps more than 4% as U.S. reportedly sends third aircraft carrier to Middle East",
+    titleJa: "Brent oil jumps more than 4% as U.S. reportedly sends third aircraft carrier to Middle East",
+    summaryJa: "Oil prices rose sharply Thursday following a report the U.S. is sending a third aircraft carrier strike group to the Middle East.",
+    bodyOriginal: `Crude oil prices rose sharply Thursday following a report the U.S. is sending a third aircraft carrier strike group to the Middle East.
+Brent crude, the international benchmark, jumped 4.4% to close at $102.31 per barrel, while U.S. West Texas Intermediate futures climbed 2.7% to settle at $92.87 a barrel.
+U.S. officials told the Wall Street Journal that Marine Corps ships and up to 10,000 additional troops are also being deployed to the region. The forces are expected to arrive by the end of November, the officials said.
+The USS Theodore Roosevelt left San Diego on a scheduled deployment Sunday, the Journal reported. The USS George H.W. Bush and USS George Washington are currently on station in the Middle East.
+The deployment could signal the U.S. is preparing to escalate its war against Iran. President Donald Trump has told aides that he expects to start bombing Iran again after the U.S. midterm elections in November, U.S. officials told the Wall Street Journal last week.
+"The president I think is going to escalate after the midterms; we keep hearing that the Iranians are going to escalate into the midterms," Scott Modell, CEO of Rapidan Energy and a former CIA officer, told CNBC's "Squawk on the Street" on Monday. "The direction of travel is toward escalation."
+Oil prices are rising even as crude flows from the Middle East have effectively recovered to prewar levels. But the bounceback is fragile, with at least three tankers coming under attack this week as they tried to transit the Strait of Hormuz, according to maritime security agencies that monitor the region.
+Meanwhile, fuel shipments from the Middle East are still constrained.
+The world is facing a major disruption to fuel supplies after Ukrainian strikes on Russian refineries forced Moscow to ban diesel exports. Iran and its Houthi allies have also attacked refineries in the Middle East.
+Diesel prices in the U.S. hit record highs last month and remained elevated Thursday at an average $6.40 per gallon. President Trump has said he is weighing a diesel export ban, but appeared to back off from the idea in more recent public comments.
+Meanwhile, Chinese refiners canceled a handful of gasoline and jet fuel exports planned for October, unnamed sources told Reuters, in a possible sign Beijing is trying to safeguard domestic supplies.`,
+    bodyJa: `Crude oil prices rose sharply Thursday following a report the U.S. is sending a third aircraft carrier strike group to the Middle East.
+Brent crude, the international benchmark, jumped 4.4% to close at $102.31 per barrel, while U.S. West Texas Intermediate futures climbed 2.7% to settle at $92.87 a barrel.
+U.S. officials told the Wall Street Journal that Marine Corps ships and up to 10,000 additional troops are also being deployed to the region. The forces are expected to arrive by the end of November, the officials said.
+The USS Theodore Roosevelt left San Diego on a scheduled deployment Sunday, the Journal reported. The USS George H.W. Bush and USS George Washington are currently on station in the Middle East.
+The deployment could signal the U.S. is preparing to escalate its war against Iran. President Donald Trump has told aides that he expects to start bombing Iran again after the U.S. midterm elections in November, U.S. officials told the Wall Street Journal last week.
+"The president I think is going to escalate after the midterms; we keep hearing that the Iranians are going to escalate into the midterms," Scott Modell, CEO of Rapidan Energy and a former CIA officer, told CNBC's "Squawk on the Street" on Monday. "The direction of travel is toward escalation."
+Oil prices are rising even as crude flows from the Middle East have effectively recovered to prewar levels. But the bounceback is fragile, with at least three tankers coming under attack this week as they tried to transit the Strait of Hormuz, according to maritime security agencies that monitor the region.
+Meanwhile, fuel shipments from the Middle East are still constrained.
+The world is facing a major disruption to fuel supplies after Ukrainian strikes on Russian refineries forced Moscow to ban diesel exports. Iran and its Houthi allies have also attacked refineries in the Middle East.
+Diesel prices in the U.S. hit record highs last month and remained elevated Thursday at an average $6.40 per gallon. President Trump has said he is weighing a diesel export ban, but appeared to back off from the idea in more recent public comments.
+Meanwhile, Chinese refiners canceled a handful of gasoline and jet fuel exports planned for October, unnamed sources told Reuters, in a possible sign Beijing is trying to safeguard domestic supplies.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/01/oil-prices-today-wti-brent.html",
+    publishedAt: "2026-10-01T19:29:26+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "pm-warned-rosebank-oil-field-could-breac-b684ca98",
+    title: "PM warned Rosebank oil field could breach West Bank sanctions",
+    titleJa: "PM warned Rosebank oil field could breach West Bank sanctions",
+    summaryJa: "Campaigners and Green Party leader Zack Polanski raise concerns about Rosebank's ties to an Israeli firm.",
+    bodyOriginal: `PM warned Rosebank oil field could breach West Bank sanctions
+- Published
+The prime minister has been warned that approving a controversial oil field risks contravening his own sanctions on illegal Israeli settlements in the West Bank.
+The government will soon have to make a long-awaited decision on whether to go ahead with Rosebank, Britain's largest untapped oil field, which sits off Shetland.
+Environmental campaigners and Green Party leader Zack Polanski have both separately written to Andy Burnham and the foreign secretary to raise concerns about Rosebank's links to an Israeli company, Delek Group.
+Last year Delek Group was included in a UN database of firms which allegedly provide services or utilities to support settlements in occupied Palestinian territories.
+A spokesman for the company told the Daily Telegraph, external it no longer had any involvement in Israeli settlements and was wrongly included in the database.
+Delek Group controls Ithaca Energy, which holds a 20% stake in Rosebank.
+The campaign group Uplift, whose legal challenge against the Rosebank project in 2023 led to the ongoing delay over a decision on exploration, has helped organise a letter to Burnham and Foreign Secretary Ed Miliband.
+In a letter seen by BBC News, campaigners from Stop Rosebank and Greenpeace, with assistance from Uplift, have asked the government to clarify whether Delek will fall foul of the sanctions announced last month.
+Separately, Polanski has also written to Miliband, asking what steps the government would take to make sure revenue from UK oil and gas production did not finance illegal settlements.
+He said: "Rosebank is a test of whether Labour's proposed sanctions regime is fit for purpose.
+"Companies blacklisted by the UN for operating in the illegal settlements should not be financed by oil and gas revenues from the North Sea."
+What is happening with the Rosebank and Jackdaw oil and gas fields?
+- Published17 August
+Last month, Miliband signalled a hardening of the UK's position when he announced action against companies and individuals who provide services such as infrastructure to settlement expansion.
+The UK sanctions will also ban imports of goods from illegal settlements.
+In its letter to Burnham, Uplift asked him to "confirm, unequivocally, whether Delek will be caught by the new planned measures".
+They added: "If it is not, please explain how that is consistent with the government's stated intent to sanction those who finance or facilitate illegal settlements?"
+A spokesperson for Ithaca Energy told the BBC: "Ithaca Energy is a London Stock Exchange listed company which is a member of the FTSE 100, and which is governed by the highest standards of corporate governance.
+"Ithaca is one of the biggest investors in the North Sea and Scotland, is a responsible employer and is a major contributor to both the UK Treasury through tax payments and to the UK's energy security."
+A spokesman for Delek Group told the Telegraph: "Delek Group has been wrongly included in the UN database.
+"Together with our legal advisers, we intend to formally challenge this and request the immediate removal of our name from the UN database."
+The question of whether to approve Rosebank, as well as the Jackdaw gas field east of Aberdeen, has become hugely politically significant.
+Rosebank was approved by the previous Conservative government in 2023, but that decision was successfully challenged in the courts by campaigners including Uplift.
+The decision now lies with the Energy Secretary Miatta Fahnbulleh, but will be seen as an important indication of Burnham's wider thinking on oil and gas.
+Miliband was widely thought to have been opposed to Rosebank when he served as Sir Keir Starmer's energy secretary.
+Burnham has spoken repeatedly of the need for a "flexible" approach to energy and is believed to be in favour of drilling more where licenses already exist in the North Sea.
+The decision could also have implications for the relationship between the UK and the US. President Trump has placed pressure on successive UK prime ministers to drill more in the North Sea.
+While Downing Street is relieved that Trump has not lashed out at the government's recent West Bank sanctions, his administration has said the US will not take the same course of action.
+Tessa Khan, executive director at Uplift, said "not one penny of North Sea oil profits" should go to a company which "itself now risks being sanctioned by the UK".
+The Foreign Office declined to comment.
+Israel has built about 160 settlements housing 700,000 Jews since it occupied the West Bank and East Jerusalem during the 1967 Middle East war. An estimated 3.3 million Palestinians live alongside them.
+Settlements are illegal under international law, and there has been a rise in violence towards Palestinians in the West Bank by settlers in recent months.
+Israel has criticised the UK sanctions, accusing the government of "anti-Israel policies".
+Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
+    bodyJa: `PM warned Rosebank oil field could breach West Bank sanctions
+- Published
+The prime minister has been warned that approving a controversial oil field risks contravening his own sanctions on illegal Israeli settlements in the West Bank.
+The government will soon have to make a long-awaited decision on whether to go ahead with Rosebank, Britain's largest untapped oil field, which sits off Shetland.
+Environmental campaigners and Green Party leader Zack Polanski have both separately written to Andy Burnham and the foreign secretary to raise concerns about Rosebank's links to an Israeli company, Delek Group.
+Last year Delek Group was included in a UN database of firms which allegedly provide services or utilities to support settlements in occupied Palestinian territories.
+A spokesman for the company told the Daily Telegraph, external it no longer had any involvement in Israeli settlements and was wrongly included in the database.
+Delek Group controls Ithaca Energy, which holds a 20% stake in Rosebank.
+The campaign group Uplift, whose legal challenge against the Rosebank project in 2023 led to the ongoing delay over a decision on exploration, has helped organise a letter to Burnham and Foreign Secretary Ed Miliband.
+In a letter seen by BBC News, campaigners from Stop Rosebank and Greenpeace, with assistance from Uplift, have asked the government to clarify whether Delek will fall foul of the sanctions announced last month.
+Separately, Polanski has also written to Miliband, asking what steps the government would take to make sure revenue from UK oil and gas production did not finance illegal settlements.
+He said: "Rosebank is a test of whether Labour's proposed sanctions regime is fit for purpose.
+"Companies blacklisted by the UN for operating in the illegal settlements should not be financed by oil and gas revenues from the North Sea."
+What is happening with the Rosebank and Jackdaw oil and gas fields?
+- Published17 August
+Last month, Miliband signalled a hardening of the UK's position when he announced action against companies and individuals who provide services such as infrastructure to settlement expansion.
+The UK sanctions will also ban imports of goods from illegal settlements.
+In its letter to Burnham, Uplift asked him to "confirm, unequivocally, whether Delek will be caught by the new planned measures".
+They added: "If it is not, please explain how that is consistent with the government's stated intent to sanction those who finance or facilitate illegal settlements?"
+A spokesperson for Ithaca Energy told the BBC: "Ithaca Energy is a London Stock Exchange listed company which is a member of the FTSE 100, and which is governed by the highest standards of corporate governance.
+"Ithaca is one of the biggest investors in the North Sea and Scotland, is a responsible employer and is a major contributor to both the UK Treasury through tax payments and to the UK's energy security."
+A spokesman for Delek Group told the Telegraph: "Delek Group has been wrongly included in the UN database.
+"Together with our legal advisers, we intend to formally challenge this and request the immediate removal of our name from the UN database."
+The question of whether to approve Rosebank, as well as the Jackdaw gas field east of Aberdeen, has become hugely politically significant.
+Rosebank was approved by the previous Conservative government in 2023, but that decision was successfully challenged in the courts by campaigners including Uplift.
+The decision now lies with the Energy Secretary Miatta Fahnbulleh, but will be seen as an important indication of Burnham's wider thinking on oil and gas.
+Miliband was widely thought to have been opposed to Rosebank when he served as Sir Keir Starmer's energy secretary.
+Burnham has spoken repeatedly of the need for a "flexible" approach to energy and is believed to be in favour of drilling more where licenses already exist in the North Sea.
+The decision could also have implications for the relationship between the UK and the US. President Trump has placed pressure on successive UK prime ministers to drill more in the North Sea.
+While Downing Street is relieved that Trump has not lashed out at the government's recent West Bank sanctions, his administration has said the US will not take the same course of action.
+Tessa Khan, executive director at Uplift, said "not one penny of North Sea oil profits" should go to a company which "itself now risks being sanctioned by the UK".
+The Foreign Office declined to comment.
+Israel has built about 160 settlements housing 700,000 Jews since it occupied the West Bank and East Jerusalem during the 1967 Middle East war. An estimated 3.3 million Palestinians live alongside them.
+Settlements are illegal under international law, and there has been a rise in violence towards Palestinians in the West Bank by settlers in recent months.
+Israel has criticised the UK sanctions, accusing the government of "anti-Israel policies".
+Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-01T18:38:22+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcdd/live/d6080670-bd8b-11f1-b442-f3f672c979ff.jpg",
+    readTime: 10,
+  },
+  {
+    id: "hmrc-urged-to-scrutinise-tax-implication-f2d5e950",
+    title: "HMRC urged to scrutinise tax implications of Man City case",
+    titleJa: "HMRC urged to scrutinise tax implications of Man City case",
+    summaryJa: "The Treasury Committee, which is responsible for overseeing HMRC, has urged the body to scrutinise tax implications of the Manchester City verdict.",
+    bodyOriginal: `HMRC urged to scrutinise tax implications of Man City case
+- Published
+Findings from the Premier League's case against Manchester City require scrutiny from His Majesty's Revenue and Customs, the chair of a cross-party group of MPs has told the tax authority.
+It was confirmed on Tuesday that an independent commission found City guilty of all charges relating to breaches of the Premier League's financial regulations between the 2009-10 and 2017-18 seasons.
+City have repeatedly denied guilt, and have signalled an intent to lodge an appeal by Friday.
+The club were found to have artificially inflated revenue through "sham" sponsorship agreements with the help of their owners.
+The independent commission which studied the case found City "utilised devices" to "disguise the true extent of certain club liabilities".
+The Treasury Committee, which is responsible for overseeing policies and administration of HMRC, has therefore asked whether the government department has requested the redacted documents contained within the commission's report.
+Dame Meg Hillier, chair of the Treasury Committee, said she would "welcome reassurance from HMRC that you are seized of the importance of these issues and the public interest in this case".
+The letter follows a report from the Tax Policy Associates, external which claims City failed to pay as much as £12m in unpaid tax because of a "sham" contract with former manager Roberto Mancini.
+In addition to unpaid income tax and National Insurance, the report claims City could face a penalty charge that would take their liabilities to £24m.
+City to argue sponsorship deals came from Abu Dhabi government
+Manchester City will claim as part of their appeal that key sponsorship deals were funded by the Abu Dhabi government, rather than the club's owners.
+Owners Abu Dhabi United Group (ADUG) - a private investment company belonging to United Arab Emirates vice-president and deputy prime minister Sheikh Mansour - are said to have topped up the value of commercial deals as part of a "disguised funding scheme" to the scale of £830.69m.
+This, it was argued, enabled the club to appear to comply with Premier League and Uefa financial rules.
+However, as first reported by the Daily Mail and Times, sources have told BBC Sport that City are expected to tell an appeal board that they have evidence showing the money directed to state-owned sponsors came from the Abu Dhabi government, rather than from ADUG.
+Premier League rules allow state-owned bodies to sponsor clubs.
+In its 40-page decision, the independent commission detailed how City had "denied there had ever been any disguised funding scheme of the type alleged by the Premier League. Its case was that [it] had misunderstood how Abu Dhabi sponsorship agreements had been funded... The reality was [the club contested] that Abu Dhabi sponsors had always been liable for all recorded sponsorship fees and all had in fact been paid to the club by Abu Dhabi sponsors from their own funds/resources.
+"No part of any recorded sponsorship fee had been paid by ADUG or from using ADUG funds. Abu Dhabi sponsors had from time to time applied for financial assistance from the Abu Dhabi government toward their liability to pay the recorded sponsorship fees - such applications had been granted…"
+The independent commission rejected this submission as "untrue", saying: "We concluded that it was an 'explanation' that the club had concocted well after the event in an attempt to obscure and conceal the realities of the disguised funding scheme."
+City's argument is likely to lead to renewed debate over the extent to which City's ownership is separate from the Abu Dhabi state, and over the ramifications of club ownership with state connections.
+Mansour is a member of the ruling family of Abu Dhabi, and the brother of UAE President Sheikh Mohamed bin Zayed Al Nahyan.
+Since the takeover in 2008, City have insisted the club is a completely private enterprise, and not state-owned. However, some critics have questioned the distinction, with human rights campaigners claiming the ownership of City has been used to "sportswash" the UAE.
+On Saturday, City chairman Khaldoon Al Mubarak referred to "irrefutable evidence" that he claimed supports the club's claims of innocence. City have claimed the commission's decision contained "clear material errors, of law, principle and fact, and is unsafe".
+It has emerged that Al Mubarak, who was appointed chairman of City following the takeover in 2008, is named as an Emirati diplomat on the UK government's current directory of all foreign representatives.
+Representatives of foreign states and their diplomatic staff "enjoy privileges and immunities under the Diplomatic Privileges Act (1964)", giving diplomats immunity from prosecution under criminal, civil and administrative laws.
+City's principal sponsor Etihad Airways has said it is considering legal action against the Premier League, claiming the release of the commission findings had "damaging implications… despite the airline not being named in the redacted published findings".
+The UAE's state-owned national airline said it "categorically rejects any finding, conclusion or implication that suggests the airline has ever been involved in improper commercial arrangements".
+Etihad is owned by sovereign wealth fund L'Imad which is chaired by the Crown Prince of Abu Dhabi, the son of the UAE president.
+The Premier League declined to comment when contacted by BBC Sport.
+Additional reporting from James Landale, diplomatic correspondent for BBC News.
+Why do people think this Man City video is AI?
+- Published1 day ago
+How does Cas work and why can't Man City appeal to it?
+- Published3 days ago
+Follow Manchester City on BBC Sounds
+Pre-match, post-match and topical City content
+Subscribe and listen for everything you love about City`,
+    bodyJa: `HMRC urged to scrutinise tax implications of Man City case
+- Published
+Findings from the Premier League's case against Manchester City require scrutiny from His Majesty's Revenue and Customs, the chair of a cross-party group of MPs has told the tax authority.
+It was confirmed on Tuesday that an independent commission found City guilty of all charges relating to breaches of the Premier League's financial regulations between the 2009-10 and 2017-18 seasons.
+City have repeatedly denied guilt, and have signalled an intent to lodge an appeal by Friday.
+The club were found to have artificially inflated revenue through "sham" sponsorship agreements with the help of their owners.
+The independent commission which studied the case found City "utilised devices" to "disguise the true extent of certain club liabilities".
+The Treasury Committee, which is responsible for overseeing policies and administration of HMRC, has therefore asked whether the government department has requested the redacted documents contained within the commission's report.
+Dame Meg Hillier, chair of the Treasury Committee, said she would "welcome reassurance from HMRC that you are seized of the importance of these issues and the public interest in this case".
+The letter follows a report from the Tax Policy Associates, external which claims City failed to pay as much as £12m in unpaid tax because of a "sham" contract with former manager Roberto Mancini.
+In addition to unpaid income tax and National Insurance, the report claims City could face a penalty charge that would take their liabilities to £24m.
+City to argue sponsorship deals came from Abu Dhabi government
+Manchester City will claim as part of their appeal that key sponsorship deals were funded by the Abu Dhabi government, rather than the club's owners.
+Owners Abu Dhabi United Group (ADUG) - a private investment company belonging to United Arab Emirates vice-president and deputy prime minister Sheikh Mansour - are said to have topped up the value of commercial deals as part of a "disguised funding scheme" to the scale of £830.69m.
+This, it was argued, enabled the club to appear to comply with Premier League and Uefa financial rules.
+However, as first reported by the Daily Mail and Times, sources have told BBC Sport that City are expected to tell an appeal board that they have evidence showing the money directed to state-owned sponsors came from the Abu Dhabi government, rather than from ADUG.
+Premier League rules allow state-owned bodies to sponsor clubs.
+In its 40-page decision, the independent commission detailed how City had "denied there had ever been any disguised funding scheme of the type alleged by the Premier League. Its case was that [it] had misunderstood how Abu Dhabi sponsorship agreements had been funded... The reality was [the club contested] that Abu Dhabi sponsors had always been liable for all recorded sponsorship fees and all had in fact been paid to the club by Abu Dhabi sponsors from their own funds/resources.
+"No part of any recorded sponsorship fee had been paid by ADUG or from using ADUG funds. Abu Dhabi sponsors had from time to time applied for financial assistance from the Abu Dhabi government toward their liability to pay the recorded sponsorship fees - such applications had been granted…"
+The independent commission rejected this submission as "untrue", saying: "We concluded that it was an 'explanation' that the club had concocted well after the event in an attempt to obscure and conceal the realities of the disguised funding scheme."
+City's argument is likely to lead to renewed debate over the extent to which City's ownership is separate from the Abu Dhabi state, and over the ramifications of club ownership with state connections.
+Mansour is a member of the ruling family of Abu Dhabi, and the brother of UAE President Sheikh Mohamed bin Zayed Al Nahyan.
+Since the takeover in 2008, City have insisted the club is a completely private enterprise, and not state-owned. However, some critics have questioned the distinction, with human rights campaigners claiming the ownership of City has been used to "sportswash" the UAE.
+On Saturday, City chairman Khaldoon Al Mubarak referred to "irrefutable evidence" that he claimed supports the club's claims of innocence. City have claimed the commission's decision contained "clear material errors, of law, principle and fact, and is unsafe".
+It has emerged that Al Mubarak, who was appointed chairman of City following the takeover in 2008, is named as an Emirati diplomat on the UK government's current directory of all foreign representatives.
+Representatives of foreign states and their diplomatic staff "enjoy privileges and immunities under the Diplomatic Privileges Act (1964)", giving diplomats immunity from prosecution under criminal, civil and administrative laws.
+City's principal sponsor Etihad Airways has said it is considering legal action against the Premier League, claiming the release of the commission findings had "damaging implications… despite the airline not being named in the redacted published findings".
+The UAE's state-owned national airline said it "categorically rejects any finding, conclusion or implication that suggests the airline has ever been involved in improper commercial arrangements".
+Etihad is owned by sovereign wealth fund L'Imad which is chaired by the Crown Prince of Abu Dhabi, the son of the UAE president.
+The Premier League declined to comment when contacted by BBC Sport.
+Additional reporting from James Landale, diplomatic correspondent for BBC News.
+Why do people think this Man City video is AI?
+- Published1 day ago
+How does Cas work and why can't Man City appeal to it?
+- Published3 days ago
+Follow Manchester City on BBC Sounds
+Pre-match, post-match and topical City content
+Subscribe and listen for everything you love about City`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-01T18:21:22+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda1/live/922cde20-bdaa-11f1-8373-27235719cf2a.jpg",
+    readTime: 10,
+  },
+  {
+    id: "thames-water-apologises-after-145-000-cu-2af3c1ea",
+    title: "Thames Water apologises after £145,000 customer billing mistake",
+    titleJa: "Thames Water apologises after £145,000 customer billing mistake",
+    summaryJa: "Thames Water apologises after £145,000 customer billing mistake- Published",
+    bodyOriginal: `Thames Water apologises after £145,000 customer billing mistake
+- Published
+Thames Water has apologised to a customer after trying to take £145,000 from his bank account due to a meter reading error by the company.
+Adam Bainbridge, a teacher from north London, discovered while routinely checking his accounts on Thursday morning that Thames had debited £145,562 from his bank account.
+His wife Julia told the PA news agency that Adam "got the shock of his life" and had trouble paying bills that morning as a result.
+Thames Water said the money had been returned to his account and that he had been offered "a gesture of goodwill".
+The company confirmed to BBC News that it had returned the money to Adam's account and had apologised to him personally.
+Julia told PA that the debit took Adam's account "considerably" into overdraft.
+She said: "It was pre-8am when we looked ... obviously then you try to do some ring rounds, no one's online, no one's answering any phones.
+"We're a family rushing around looking after a three-year-old trying to get ready for the nursery run and all the rest of it."
+Julia said Adam initially could only speak to a Thames chatbot, which said the error would be rectified in the next payment. He then contacted his bank and the money was returned to his account.
+"As it was this morning, Adam had some bills he wanted to pay off his card and things that were due out of his account and everything was blocked.
+"It's such a staggering amount of money."
+The billing error comes at a time when the number of complaints made by households about water companies to the industry watchdog has risen by a record 84% in a year, driven by customer concern and confusion over bills.
+Water customers in England and Wales have been hit with steep price hikes in recent years. The regulator Ofwat has also allowed firms to put up bills by 36% between 2025 and 2030.
+Thames Water, the UK's biggest water company, owes roughly £20bn to lenders and has been working with creditors and government officials to prevent collapse.
+Adam told PA that when he saw the debit he felt "really shocked, because you don't feel in control of what's being taken from your account.
+"It seemed that the numbers being calculated had absolutely nothing to do with reality at all. We're a residential house in north London.
+"It just seems that the billing is completely detached from reality."
+A Thames Water spokesperson said: "We apologise unreservedly to Mr Bainbridge and his family. This was the result of human error originating from an incorrect meter reading.
+"We can confirm the money has been returned to Mr Bainbridge's bank account and we have spoken to him today to say sorry.
+"We are introducing additional checks to our processes to prevent this from happening again.
+"We have also offered Mr Bainbridge a gesture of goodwill and are continuing to work with him to ensure the matter is fully resolved."
+Earlier on Thursday, Julia wrote in a LinkedIn post: "Working parents have enough to contend with in the morning without a utility company emptying their bank account."
+"How does a payment of this size get taken without basic checks?"
+She also wrote in a comment on the post: "The bank were relatively quick to return the money while Thames Water 'looked into it.'"
+Related topics
+- Published16 September
+- Published18 September`,
+    bodyJa: `Thames Water apologises after £145,000 customer billing mistake
+- Published
+Thames Water has apologised to a customer after trying to take £145,000 from his bank account due to a meter reading error by the company.
+Adam Bainbridge, a teacher from north London, discovered while routinely checking his accounts on Thursday morning that Thames had debited £145,562 from his bank account.
+His wife Julia told the PA news agency that Adam "got the shock of his life" and had trouble paying bills that morning as a result.
+Thames Water said the money had been returned to his account and that he had been offered "a gesture of goodwill".
+The company confirmed to BBC News that it had returned the money to Adam's account and had apologised to him personally.
+Julia told PA that the debit took Adam's account "considerably" into overdraft.
+She said: "It was pre-8am when we looked ... obviously then you try to do some ring rounds, no one's online, no one's answering any phones.
+"We're a family rushing around looking after a three-year-old trying to get ready for the nursery run and all the rest of it."
+Julia said Adam initially could only speak to a Thames chatbot, which said the error would be rectified in the next payment. He then contacted his bank and the money was returned to his account.
+"As it was this morning, Adam had some bills he wanted to pay off his card and things that were due out of his account and everything was blocked.
+"It's such a staggering amount of money."
+The billing error comes at a time when the number of complaints made by households about water companies to the industry watchdog has risen by a record 84% in a year, driven by customer concern and confusion over bills.
+Water customers in England and Wales have been hit with steep price hikes in recent years. The regulator Ofwat has also allowed firms to put up bills by 36% between 2025 and 2030.
+Thames Water, the UK's biggest water company, owes roughly £20bn to lenders and has been working with creditors and government officials to prevent collapse.
+Adam told PA that when he saw the debit he felt "really shocked, because you don't feel in control of what's being taken from your account.
+"It seemed that the numbers being calculated had absolutely nothing to do with reality at all. We're a residential house in north London.
+"It just seems that the billing is completely detached from reality."
+A Thames Water spokesperson said: "We apologise unreservedly to Mr Bainbridge and his family. This was the result of human error originating from an incorrect meter reading.
+"We can confirm the money has been returned to Mr Bainbridge's bank account and we have spoken to him today to say sorry.
+"We are introducing additional checks to our processes to prevent this from happening again.
+"We have also offered Mr Bainbridge a gesture of goodwill and are continuing to work with him to ensure the matter is fully resolved."
+Earlier on Thursday, Julia wrote in a LinkedIn post: "Working parents have enough to contend with in the morning without a utility company emptying their bank account."
+"How does a payment of this size get taken without basic checks?"
+She also wrote in a comment on the post: "The bank were relatively quick to return the money while Thames Water 'looked into it.'"
+Related topics
+- Published16 September
+- Published18 September`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ck24j46424veo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-01T18:09:16+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c4/live/c0dffc20-bdb9-11f1-b7d8-31573a2bd831.jpg",
+    readTime: 8,
+  },
+  {
     id: "the-stock-market-is-a-hollow-tree-that-c-e0443836",
     title: "The stock market is a hollow tree that could be about to snap, warns bond king Gundlach",
     titleJa: "The stock market is a hollow tree that could be about to snap, warns bond king Gundlach",
@@ -1812,558 +2384,6 @@ But some experts said after Trump's UN speech that they thought the term was unl
     publishedAt: "2026-09-30T04:01:52+00:00",
     category: "テクノロジー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af69/live/34e7c4c0-bc86-11f1-bc1f-3f186ca4140c.jpg",
-    readTime: 10,
-  },
-  {
-    id: "beijing-warns-of-retaliation-if-europe-i-c500da09",
-    title: "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
-    titleJa: "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
-    summaryJa: "China must \"respond firmly\" if the EU introduces restrictions on Chinese businesses or products, the Commerce Ministry said, according to a CNBC translation.",
-    bodyOriginal: `BEIJING — China's commerce ministry has sent a strong warning to the European Union ahead of expected high-level talks in Beijing next week.
-China will "respond firmly" if the EU introduces restrictions on Chinese businesses or products, the Chinese commerce ministry said in a statement late Tuesday, according to a CNBC translation of Mandarin.
-The ministry said such actions, while China and the EU are engaged in trade talks, would "seriously undermine mutual trust" and "disrupt" the negotiations.
-China and the EU have been engaged in trade talks this summer as Europe wants to reduce its record trade deficit with China by October. EU Trade Commissioner Maroš Šefčovič had warned in an interview with Euronews this week that Beijing must deliver "concrete results" by October or face "harsher measures." He is expected to visit Beijing next week.
-Earlier this week, Rhodium Group's Noah Barkin said Europe was considering measures to shut China out of the bloc.
-Citing European officials, he said Germany and France are finalizing a joint paper that calls on the European Commission to speed up development of a tool that one official described as allowing Brussels "to cut China off from the European market within 24 hours."
-Barkin said the measures could mirror the U.S. Section 301 tariff approach. China's commerce ministry statement said it was responding to Europe's consideration of "301"-style tools.
-While the Association of Southeast Asian Nations surpassed the EU in 2020 to become China's biggest goods trading partner, the EU's trade deficit with China is the largest in the world, recently surpassing the U.S. That's according to China Customs data accessed through Wind Information.
-When including services, the EU said it was China's top trading partner, with combined trade of 880 billion euros, or nearly $1 trillion, last year.`,
-    bodyJa: `BEIJING — China's commerce ministry has sent a strong warning to the European Union ahead of expected high-level talks in Beijing next week.
-China will "respond firmly" if the EU introduces restrictions on Chinese businesses or products, the Chinese commerce ministry said in a statement late Tuesday, according to a CNBC translation of Mandarin.
-The ministry said such actions, while China and the EU are engaged in trade talks, would "seriously undermine mutual trust" and "disrupt" the negotiations.
-China and the EU have been engaged in trade talks this summer as Europe wants to reduce its record trade deficit with China by October. EU Trade Commissioner Maroš Šefčovič had warned in an interview with Euronews this week that Beijing must deliver "concrete results" by October or face "harsher measures." He is expected to visit Beijing next week.
-Earlier this week, Rhodium Group's Noah Barkin said Europe was considering measures to shut China out of the bloc.
-Citing European officials, he said Germany and France are finalizing a joint paper that calls on the European Commission to speed up development of a tool that one official described as allowing Brussels "to cut China off from the European market within 24 hours."
-Barkin said the measures could mirror the U.S. Section 301 tariff approach. China's commerce ministry statement said it was responding to Europe's consideration of "301"-style tools.
-While the Association of Southeast Asian Nations surpassed the EU in 2020 to become China's biggest goods trading partner, the EU's trade deficit with China is the largest in the world, recently surpassing the U.S. That's according to China Customs data accessed through Wind Information.
-When including services, the EU said it was China's top trading partner, with combined trade of 880 billion euros, or nearly $1 trillion, last year.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
-    publishedAt: "2026-09-30T03:39:08+00:00",
-    category: "貿易",
-    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "don-t-go-with-a-fund-go-with-a-solution-050707ff",
-    title: "‘Don’t go with a fund, go with a solution’: CEO’s tips from decades of global investing",
-    titleJa: "‘Don’t go with a fund, go with a solution’: CEO’s tips from decades of global investing",
-    summaryJa: "BlueFive Capital CEO Hazem Ben-Gacem talks about his preferred investment areas and strategies.",
-    bodyOriginal: `Investments that solve problems and align with national interests are some of the most appealing in the current environment, according to a multi-decade veteran of global private markets.
-Smart money in the Middle East is focused on government and strategic priorities, as well as finding solutions in those areas, because "that actually is exactly what those sovereign groups are looking for, and for that capital is available," according to Hazem Ben-Gacem, founder and CEO of Abu Dhabi-based investment firm BlueFive Capital.
-"My recommendation is: don't go with a fund, go with a solution, and how you can play a very important part in that solution with these national priorities – food security, defense and infrastructure," Ben-Gacem told CNBC at the SuperReturn Asia conference in Singapore. He added that automation and robotics were also key areas.
-BlueFive, which launched in November 2024 and had $15 billion in assets under management as of June 30, earlier this month closed a deal for a 30% stake in supercar producer Bugatti Rimac from Porsche. In July it co-led a funding round for Kling AI, a China-based AI video generation company, which valued Kling at $18 billion.
-Ben-Gacem also said that geopolitics is increasingly becoming a vital factor to consider as investors look for areas to put their money.
-"More and more today, geopolitics is probably a bigger variable in your returns, particularly in the parts of the world which we're dealing with: Middle East, Europe, Asia, China," he said. "The geopolitics are such that every single assumption you can have in the use case can very much fall apart."`,
-    bodyJa: `Investments that solve problems and align with national interests are some of the most appealing in the current environment, according to a multi-decade veteran of global private markets.
-Smart money in the Middle East is focused on government and strategic priorities, as well as finding solutions in those areas, because "that actually is exactly what those sovereign groups are looking for, and for that capital is available," according to Hazem Ben-Gacem, founder and CEO of Abu Dhabi-based investment firm BlueFive Capital.
-"My recommendation is: don't go with a fund, go with a solution, and how you can play a very important part in that solution with these national priorities – food security, defense and infrastructure," Ben-Gacem told CNBC at the SuperReturn Asia conference in Singapore. He added that automation and robotics were also key areas.
-BlueFive, which launched in November 2024 and had $15 billion in assets under management as of June 30, earlier this month closed a deal for a 30% stake in supercar producer Bugatti Rimac from Porsche. In July it co-led a funding round for Kling AI, a China-based AI video generation company, which valued Kling at $18 billion.
-Ben-Gacem also said that geopolitics is increasingly becoming a vital factor to consider as investors look for areas to put their money.
-"More and more today, geopolitics is probably a bigger variable in your returns, particularly in the parts of the world which we're dealing with: Middle East, Europe, Asia, China," he said. "The geopolitics are such that every single assumption you can have in the use case can very much fall apart."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/30/bluefive-ceo-offers-tips-from-decades-of-global-investing.html",
-    publishedAt: "2026-09-30T02:37:21+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "hedge-funds-hold-a-record-share-of-the-3-dea6c164",
-    title: "Hedge funds hold a record share of the $30 trillion Treasury market. What could go wrong?",
-    titleJa: "Hedge funds hold a record share of the $30 trillion Treasury market. What could go wrong?",
-    summaryJa: "Hedge funds can boost Treasury market liquidity, but their growing role also risks creating financial instability.",
-    bodyOriginal: `Hedge funds are becoming a force to be reckoned with in the roughly $30 trillion U.S. Treasury market, stepping in at a time when some traditional long-term investors have been looking at other options.
-The shift is helping the government find buyers as its pile of debt grows, but it may also be making the world's largest bond market more vulnerable, experts told CNBC.
-Hedge funds' cash Treasury holdings reached $2 trillion at the end of 2025, nearly three times their level five years earlier, the U.S. Treasurys Office of Financial Research said last month. Marketable Treasury debt — which is traded in the secondary market — was $28.9 trillion, putting hedge funds' share at a record 7%.
-More recent Federal Reserve data shows hedge funds remained net buyers of Treasurys in the first half of 2026. Domestic hedge funds bought a net $60.6 billion in the second quarter, up from $26.4 billion in the first, bringing first-half purchases to about $87 billion.
-The interest from hedge funds comes at a particularly sensitive time for the Treasury market, with the 10-year yield surging to its highest level since 2007 on Monday and the 30-year soaring to the highest since 2002 on Tuesday.
-"Hedge funds apply relatively aggressive leverages as compared to other types of investors and therefore may magnify systematic risk," said Ricky Siao, a hedge fund specialist from Union Bancaire Privée.
-"When forced deleveraging happens due to extreme situations or crisis scenarios, it may result in broader liquidity and financial stability event."
-A different kind of buyer
-Pension funds have traditionally been buyers of long-dated government bonds because the extended investment horizons allow them to match assets against liabilities stretching decades into the future.
-But structural changes, including the migration from defined-benefit plans that promise a predetermined payout to defined-contribution plans whose value depends on investment returns, are reducing pension funds' interest in long-term government bonds, according to the OECD.
-The shift also comes as some pension funds are increasing allocations to higher-yielding, less-liquid assets such as private credit. Institutional investors poured close to $300 billion into private credit vehicles in 2025, according to Mercer.
-Regulators have also flagged risks that come with hedge funds' increasing participation. The Federal Reserve said in its May financial stability report that hedge-fund leverage remained near record highs and was concentrated among large funds, with leveraged strategies supporting significant positions in Treasurys and other markets. "High leverage can lead to spillovers if the fund suddenly loses access to funding," the Fed said.
-The Bank for International Settlements went further, warning earlier this year that the rise of hedge funds as core intermediaries in government bond markets had created "new financial stability vulnerabilities." Their reliance on leverage and short-term repo financing could leave core markets more exposed to sudden deleveraging and bouts of market dysfunction, it said.
-Hedge funds aren't simply buying Treasurys because they like the yield.
-"They are very different, most pension and insurers have very long term time horizons and focus on liability matching. Hedge funds are about performance, typically shorter term focused on high watermarks and benchmark-beating returns," said Noah Hamman, founder of AdvisorShares.
-Stress test
-Much of hedge funds' activity involves relative-value strategies designed to exploit small pricing differences between closely related securities. One of the most prominent is the Treasury cash-futures basis trade, in which funds buy cash Treasurys while selling corresponding futures, expecting to gain from the price difference between the two markets.
-Because the price differential between the cash and futures market is typically tiny, funds often use substantial leverage to generate attractive returns. Repo financing allows them to borrow against Treasury collateral and build positions many times larger than their underlying capital.
-There are already signs that hedge funds are becoming more selective as the Treasury sell-off intensifies. Leveraged Treasury basis-trade position have reportedly fallen about 20% this year to $1.2 trillion, according to Morgan Stanley estimates.
-The pullback doesn't necessarily mean hedge funds are dumping Treasurys outright, as Fed data shows they remained net buyers through the second quarter.
-But the retreat underscores how quickly leveraged positions can shift when market conditions change and highlights the risk of a disorderly unwind during periods of stress.
-"The biggest risk is the basis trade, where a hedge fund simultaneously buys Treasury notes and sells the futures contract that the notes are eligible to settle against," said Don Steinbrugge, founder and CEO of Agecroft Partners. "These trades have thin margins and can often be levered 20 times, if not higher."
-"As we saw in March 2020, when Treasury market liquidity deteriorated sharply, leveraged funds can be forced to unwind positions quickly. This can create a vicious cycle of margin calls, forced selling, and further market volatility."
-A spike in volatility can drive leveraged hedge funds to put up more cash or unwind their trades. That selling can push prices lower, deepen losses and force other funds to exit.
-Besides raising concerns, experts also pointed to the constructive role of hedge fund in the Treasury market.
-Ken Heinz, president of Hedge Fund Research, said that hedge funds' willingness to trade rather than simply hold bonds to maturity can provide two-sided liquidity during both rallies and sell-offs, adding that it could ultimately stabilize rate moves and reduce volatility.
-The tension is therefore not that hedge funds are inherently bad for the Treasury market. In normal conditions, their trading can improve liquidity and help correct pricing discrepancies.
-"Regulators should be concerned about the potential for a disorderly unwind while weighing the benefits of market liquidity that hedge funds provide when making policy decisions," said Steinbrugge. "Hedge funds' growing role in the Treasury market is both necessary for liquidity and a potential source of systemic risk."`,
-    bodyJa: `Hedge funds are becoming a force to be reckoned with in the roughly $30 trillion U.S. Treasury market, stepping in at a time when some traditional long-term investors have been looking at other options.
-The shift is helping the government find buyers as its pile of debt grows, but it may also be making the world's largest bond market more vulnerable, experts told CNBC.
-Hedge funds' cash Treasury holdings reached $2 trillion at the end of 2025, nearly three times their level five years earlier, the U.S. Treasurys Office of Financial Research said last month. Marketable Treasury debt — which is traded in the secondary market — was $28.9 trillion, putting hedge funds' share at a record 7%.
-More recent Federal Reserve data shows hedge funds remained net buyers of Treasurys in the first half of 2026. Domestic hedge funds bought a net $60.6 billion in the second quarter, up from $26.4 billion in the first, bringing first-half purchases to about $87 billion.
-The interest from hedge funds comes at a particularly sensitive time for the Treasury market, with the 10-year yield surging to its highest level since 2007 on Monday and the 30-year soaring to the highest since 2002 on Tuesday.
-"Hedge funds apply relatively aggressive leverages as compared to other types of investors and therefore may magnify systematic risk," said Ricky Siao, a hedge fund specialist from Union Bancaire Privée.
-"When forced deleveraging happens due to extreme situations or crisis scenarios, it may result in broader liquidity and financial stability event."
-A different kind of buyer
-Pension funds have traditionally been buyers of long-dated government bonds because the extended investment horizons allow them to match assets against liabilities stretching decades into the future.
-But structural changes, including the migration from defined-benefit plans that promise a predetermined payout to defined-contribution plans whose value depends on investment returns, are reducing pension funds' interest in long-term government bonds, according to the OECD.
-The shift also comes as some pension funds are increasing allocations to higher-yielding, less-liquid assets such as private credit. Institutional investors poured close to $300 billion into private credit vehicles in 2025, according to Mercer.
-Regulators have also flagged risks that come with hedge funds' increasing participation. The Federal Reserve said in its May financial stability report that hedge-fund leverage remained near record highs and was concentrated among large funds, with leveraged strategies supporting significant positions in Treasurys and other markets. "High leverage can lead to spillovers if the fund suddenly loses access to funding," the Fed said.
-The Bank for International Settlements went further, warning earlier this year that the rise of hedge funds as core intermediaries in government bond markets had created "new financial stability vulnerabilities." Their reliance on leverage and short-term repo financing could leave core markets more exposed to sudden deleveraging and bouts of market dysfunction, it said.
-Hedge funds aren't simply buying Treasurys because they like the yield.
-"They are very different, most pension and insurers have very long term time horizons and focus on liability matching. Hedge funds are about performance, typically shorter term focused on high watermarks and benchmark-beating returns," said Noah Hamman, founder of AdvisorShares.
-Stress test
-Much of hedge funds' activity involves relative-value strategies designed to exploit small pricing differences between closely related securities. One of the most prominent is the Treasury cash-futures basis trade, in which funds buy cash Treasurys while selling corresponding futures, expecting to gain from the price difference between the two markets.
-Because the price differential between the cash and futures market is typically tiny, funds often use substantial leverage to generate attractive returns. Repo financing allows them to borrow against Treasury collateral and build positions many times larger than their underlying capital.
-There are already signs that hedge funds are becoming more selective as the Treasury sell-off intensifies. Leveraged Treasury basis-trade position have reportedly fallen about 20% this year to $1.2 trillion, according to Morgan Stanley estimates.
-The pullback doesn't necessarily mean hedge funds are dumping Treasurys outright, as Fed data shows they remained net buyers through the second quarter.
-But the retreat underscores how quickly leveraged positions can shift when market conditions change and highlights the risk of a disorderly unwind during periods of stress.
-"The biggest risk is the basis trade, where a hedge fund simultaneously buys Treasury notes and sells the futures contract that the notes are eligible to settle against," said Don Steinbrugge, founder and CEO of Agecroft Partners. "These trades have thin margins and can often be levered 20 times, if not higher."
-"As we saw in March 2020, when Treasury market liquidity deteriorated sharply, leveraged funds can be forced to unwind positions quickly. This can create a vicious cycle of margin calls, forced selling, and further market volatility."
-A spike in volatility can drive leveraged hedge funds to put up more cash or unwind their trades. That selling can push prices lower, deepen losses and force other funds to exit.
-Besides raising concerns, experts also pointed to the constructive role of hedge fund in the Treasury market.
-Ken Heinz, president of Hedge Fund Research, said that hedge funds' willingness to trade rather than simply hold bonds to maturity can provide two-sided liquidity during both rallies and sell-offs, adding that it could ultimately stabilize rate moves and reduce volatility.
-The tension is therefore not that hedge funds are inherently bad for the Treasury market. In normal conditions, their trading can improve liquidity and help correct pricing discrepancies.
-"Regulators should be concerned about the potential for a disorderly unwind while weighing the benefits of market liquidity that hedge funds provide when making policy decisions," said Steinbrugge. "Hedge funds' growing role in the Treasury market is both necessary for liquidity and a potential source of systemic risk."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/30/us-treasury-market-is-relying-more-on-hedge-funds.html",
-    publishedAt: "2026-09-30T00:19:09+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "chinese-ai-tool-told-researchers-how-to-0d1e5aec",
-    title: "Chinese AI tool told researchers how to make bioweapons",
-    titleJa: "Chinese AI tool told researchers how to make bioweapons",
-    summaryJa: "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
-    bodyOriginal: `Chinese AI tool told researchers how to make bioweapons
-- Published
-Chinese AI developer Moonshot is conducting an internal review after researchers were able to persuade two of its popular Kimi models to tell them how to make biological weapons and carry out assassinations.
-Mindgard, which tests the security of AI systems, told the BBC it discovered in July that Kimi K2.6 and K3 Swarm could evade safety limits put in place by developers.
-It arose during a process called "jailbreaking", where researchers use a series of complex instructions to see if AI tools ignore guardrails - which Mindgard said should have stopped Kimi from discussing concerning topics.
-Moonshot told the BBC it welcomed third-party input "as a key pillar for building better and safer AI".
-The company also told the BBC it was in discussion with Mindgard about its findings.
-Mindgard's founder Peter Garraghan told the BBC World Service programme Tech Life that its findings about Kimi K2.6 and K3 Swarm were concerning.
-"Once the jailbreak works it will talk about any topic, it will even freely offer up recommendations about other topics that are also nefarious and it will be inventive and creative," he said.
-Jailbreaks present a different kind of risk to those seen with the recent slew of high-profile AI incidents.
-These have seen autonomous AI tools known as agents, developed by US firms including OpenAI, Meta and Anthropic, hack some online services.
-While jailbreaks are complex processes that can take a lot of time and determination some experts fear hackers and other bad actors could try to use them to cause harm.
-Anthropic recently said it had identified and disrupted attempts to use one of its AI model for "malicious activity" that could support the development of biological weapons.
-Cyber-attack launchpad
-Mindgard has not proven whether the answers supplied by Kimi on concerning topics would work.
-But it argued guardrails should have prevented the models in question from entering into discussion with users on such subjects.
-The firm said it was also confident a jailbroken Kimi 2.6 could allow hackers to run code on its computing resources and connect to the internet - making it a potential launchpad for cyber-attacks.
-Garraghan defended Mindgard's decision to publicly discuss its jailbreak of Moonshot's systems, saying it had informed the developer and was not revealing key details about how it got the firm's models to ignore guardrails.
-Mindgard alerted Moonshot to the jailbreak in an email on 27 July, following up about a week later.
-It then published a blog about the issue on 12 September.
-But the company said Moonshot only made contact recently, after it was approached by the BBC for comment.
-In part of an email to Mindgard asking for more details, shared with the BBC by Moonshot, it said its model had generally shown "a high refusal rate for these types of requests" in internal evaluations.
-What is AI, how does it work and why are some people concerned about it?
-- Published14 September
-Preventing jailbreaks
-The findings come as the AI industry continues to be split on whether closed, proprietary models - like those powering ChatGPT and Anthropic's Claude systems - or open-source tools are the best or safest way forward.
-Kimi is an open-weight model, meaning someone could in theory take the model and run it themselves on their own computing infrastructure.
-Prof Alan Woodward, of the University of Surrey, told the BBC there was a risk open-source models might end up in the wrong hands, but they could also be harnessed for cyber-defence.
-He noted that AI firm Hugging Face used a Chinese open-source model to understand a hack later revealed to have been carried out by OpenAI agents.
-Prof Woodward said international regulation was unlikely to match the pace of AI development, saying: "It's taken us decades to agree on the format of telephone numbers."
-Like Mindgard founder Garraghan, Prof Woodward believes there should be a greater focus on identifying and prosecuting humans who misuse AI.
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
-Related topics
-- Published22 September
-- Published6 days ago`,
-    bodyJa: `Chinese AI tool told researchers how to make bioweapons
-- Published
-Chinese AI developer Moonshot is conducting an internal review after researchers were able to persuade two of its popular Kimi models to tell them how to make biological weapons and carry out assassinations.
-Mindgard, which tests the security of AI systems, told the BBC it discovered in July that Kimi K2.6 and K3 Swarm could evade safety limits put in place by developers.
-It arose during a process called "jailbreaking", where researchers use a series of complex instructions to see if AI tools ignore guardrails - which Mindgard said should have stopped Kimi from discussing concerning topics.
-Moonshot told the BBC it welcomed third-party input "as a key pillar for building better and safer AI".
-The company also told the BBC it was in discussion with Mindgard about its findings.
-Mindgard's founder Peter Garraghan told the BBC World Service programme Tech Life that its findings about Kimi K2.6 and K3 Swarm were concerning.
-"Once the jailbreak works it will talk about any topic, it will even freely offer up recommendations about other topics that are also nefarious and it will be inventive and creative," he said.
-Jailbreaks present a different kind of risk to those seen with the recent slew of high-profile AI incidents.
-These have seen autonomous AI tools known as agents, developed by US firms including OpenAI, Meta and Anthropic, hack some online services.
-While jailbreaks are complex processes that can take a lot of time and determination some experts fear hackers and other bad actors could try to use them to cause harm.
-Anthropic recently said it had identified and disrupted attempts to use one of its AI model for "malicious activity" that could support the development of biological weapons.
-Cyber-attack launchpad
-Mindgard has not proven whether the answers supplied by Kimi on concerning topics would work.
-But it argued guardrails should have prevented the models in question from entering into discussion with users on such subjects.
-The firm said it was also confident a jailbroken Kimi 2.6 could allow hackers to run code on its computing resources and connect to the internet - making it a potential launchpad for cyber-attacks.
-Garraghan defended Mindgard's decision to publicly discuss its jailbreak of Moonshot's systems, saying it had informed the developer and was not revealing key details about how it got the firm's models to ignore guardrails.
-Mindgard alerted Moonshot to the jailbreak in an email on 27 July, following up about a week later.
-It then published a blog about the issue on 12 September.
-But the company said Moonshot only made contact recently, after it was approached by the BBC for comment.
-In part of an email to Mindgard asking for more details, shared with the BBC by Moonshot, it said its model had generally shown "a high refusal rate for these types of requests" in internal evaluations.
-What is AI, how does it work and why are some people concerned about it?
-- Published14 September
-Preventing jailbreaks
-The findings come as the AI industry continues to be split on whether closed, proprietary models - like those powering ChatGPT and Anthropic's Claude systems - or open-source tools are the best or safest way forward.
-Kimi is an open-weight model, meaning someone could in theory take the model and run it themselves on their own computing infrastructure.
-Prof Alan Woodward, of the University of Surrey, told the BBC there was a risk open-source models might end up in the wrong hands, but they could also be harnessed for cyber-defence.
-He noted that AI firm Hugging Face used a Chinese open-source model to understand a hack later revealed to have been carried out by OpenAI agents.
-Prof Woodward said international regulation was unlikely to match the pace of AI development, saying: "It's taken us decades to agree on the format of telephone numbers."
-Like Mindgard founder Garraghan, Prof Woodward believes there should be a greater focus on identifying and prosecuting humans who misuse AI.
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
-Related topics
-- Published22 September
-- Published6 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-29T23:15:29+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925f/live/79ba4b60-bc25-11f1-bd53-1b67dc8fba34.jpg",
-    readTime: 10,
-  },
-  {
-    id: "the-start-ups-hoping-to-return-battery-m-b34c3f49",
-    title: "The start-ups hoping to return battery making to the US",
-    titleJa: "The start-ups hoping to return battery making to the US",
-    summaryJa: "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
-    bodyOriginal: `The start-ups hoping to return battery making to the US
-- Published
-As heatwaves scorched Europe this summer, workers at a US battery company noticed an uptick in demand.
-San Diego-based Unigrid sells a nine kilowatt hour battery for people's homes. Sweltering European homeowners were apparently looking for ways of storing power when it was available from the grid at lower rates. They could then run air conditioners more cheaply, off the battery, during the worst heat of the day.
-"We have requests coming from Spain, France, Germany, The Netherlands," says Darren Tan, co-founder and chief executive. "We've shipped the first 100 units and [expect to ship] 1,000 before the end of the year."
-Unigrid's battery is an emerging technology – it's a sodium ion, rather than lithium ion device. Sodium ion batteries have got energy storage experts excited because they could end up much cheaper to build and operate than lithium ion.
-They're potentially less likely to catch fire and should also work in a wider range of temperatures, even down to lows of minus 40C, external.
-But there's a debate over what constitutes the best, and safest, sodium ion battery design. Plus, more than one, external US company working in this space has floundered in recent years, external.
-China leads the world in sodium ion battery manufacturing at present so US competitors are going to have to work hard to keep up.
-The prize that awaits is the possibility of batteries made in the US with 100% US-sourced materials. This is unlike lithium ion batteries, where China dominates the materials, external supply chain as well as manufacturing.
-For Tan, China has helped his company get to market. The Unigrid battery currently uses sodium ion cells made there, rather than in the US. "We can switch back and forth and choose what battery we want to work with," says Tan, explaining that, in future, his firm might source cells from the US – though these may come at a different cost.
-There's another consideration. Unigrid's battery contains chromium-3 in its cathode. In a battery, electrons flow from cathode to anode, external when charging and in the opposite direction when discharging or providing power.
-Prof Dame Clare Grey at the University of Cambridge, who is co-founder of battery firm Nyobolt, points out that under certain conditions chromium-3 may form chromium-6, a toxic, cancer-causing material., external
-"If you're going to go for sodium […] and you're going to sell safety, then don't start putting elements in that are going to raise red flags," she tells the BBC.
-Ivana Hasa at the University of Warwick, who has no connection to Unigrid, agrees that it is possible for chromium-3 to form chromium-6 at very high states of charge, though she says this can be mitigated by how voltage is controlled within the battery. "Safety tests reported on the cell chemistry are very promising," she says of Unigrid's tech.
-Tan says concerns around toxicity of the battery's materials are "overblown" and emphasises that Unigrid's battery has passed certification and safety tests for sale in Europe and is currently undergoing such evaluations for the US market.
-Third-party tests have not been able to get the battery to form chromium-6, he says. "We've tried very hard to try and produce it, we've overcharged it as much as we can... We were unsuccessful in generating chromium-6."
-The choice of cathode material, or how the electrolyte – which separates cathode and anode – is formulated are key details influencing the performance and longevity of sodium ion batteries. Some manufacturers are not using chromium for their cathode but hard carbon instead, or sodium iron phosphate pyrophosphate (NFPP).
-In general, confidence around sodium ion batteries' reliability has increased during the last few years, says Prof Dame Grey, meaning they are now finding their way into grid storage applications.
-Last December, LFP batteries – a relatively cheap form of lithium ion battery – were trading at $81 per kilowatt hour, external (kWh) whereas Unigrid's sodium ion battery pricing is roughly $100 kWh, external.
-Some companies that spoke to the BBC suggested sodium ion might reach as low as $30 per kWh but analysts say significantly lower costs could be many years away, external.
-Sodium ion batteries are also not as energy dense as lithium ion batteries, meaning they must be slightly bigger and heavier in order to provide the same amount of power.
-The technology has been improving, external on this front in recent years but, even so, you're not likely to see sodium ion cells in small, energy hungry devices such as smartphones. Larger energy storage solutions are where most people expect sodium ion to dominate.
-"We think sodium ion […] is going to make up 80% of the market," says David Bell, co-founder and chief executive of Seattle-based Emerald Battery Labs.
-Bell declined to share details of the battery design his firm is working on, though he says Emerald too is currently relying on China-sourced sodium ion cells as they develop their initial product: 12 volt auxiliary batteries for vehicles, currently supplied to unnamed commercial fleets in the US.
-"We took a look at the market and said 'Hey, no-one's trying to attack this space, let's have Emerald Battery Labs attack it'," says Bell. The firm's next goal is to develop new anodes for US-produced sodium ion cells.
-Another company, Peak Energy, based in California and Colorado, announced a partnership with General Motors (GM) in June. The pair aim to develop a US supply chain for sodium ion batteries, in order to enable large-scale energy storage for electricity grids.
-Peak Energy is also, at present, relying on China-sourced cells for its first installations, but hopes to help GM launch a US-based production facility in Michigan "by the end of 2028", says Cameron Wiles, president and co-founder. "China does not have an insurmountable lead in sodium ion batteries," he says.
-One reason US companies feel they can compete is because of the electricity demand boom from data centres, which are contributing to rising greenhouse gas emissions in the US. Data centre-driven demand is also rising in other places around the world, including the UK.
-This is an "opportunity" says Drew Buckley, chief executive at ESS Tech, headquartered in Oregon. He points out that sodium ion batteries could help distribute renewable energy to data centres. And those batteries should be cheaper to run than lithium ion alternatives, since they are not expected to require as much cooling.
-ESS Tech is working with Alsym, another US firm that is planning to ship "hundreds" of megawatt hours' worth of sodium ion batteries – made in the US – by 2027.
-Hasa says that it will be "challenging" for companies to establish mass production of sodium ion batteries. And she also notes that, while this type of battery is often touted as much safer than lithium ion, they do not come with zero fire risk.
-But if any firms can succeed in this space, they could enable new strategic choices, she adds – helping to avoid wastage of renewable electricity and potentially keeping energy costs low. "I'm a strong believer in the technology," says Hasa.
-Related topics
-- Published19 August
-- Published12 August
-- Published7 August`,
-    bodyJa: `The start-ups hoping to return battery making to the US
-- Published
-As heatwaves scorched Europe this summer, workers at a US battery company noticed an uptick in demand.
-San Diego-based Unigrid sells a nine kilowatt hour battery for people's homes. Sweltering European homeowners were apparently looking for ways of storing power when it was available from the grid at lower rates. They could then run air conditioners more cheaply, off the battery, during the worst heat of the day.
-"We have requests coming from Spain, France, Germany, The Netherlands," says Darren Tan, co-founder and chief executive. "We've shipped the first 100 units and [expect to ship] 1,000 before the end of the year."
-Unigrid's battery is an emerging technology – it's a sodium ion, rather than lithium ion device. Sodium ion batteries have got energy storage experts excited because they could end up much cheaper to build and operate than lithium ion.
-They're potentially less likely to catch fire and should also work in a wider range of temperatures, even down to lows of minus 40C, external.
-But there's a debate over what constitutes the best, and safest, sodium ion battery design. Plus, more than one, external US company working in this space has floundered in recent years, external.
-China leads the world in sodium ion battery manufacturing at present so US competitors are going to have to work hard to keep up.
-The prize that awaits is the possibility of batteries made in the US with 100% US-sourced materials. This is unlike lithium ion batteries, where China dominates the materials, external supply chain as well as manufacturing.
-For Tan, China has helped his company get to market. The Unigrid battery currently uses sodium ion cells made there, rather than in the US. "We can switch back and forth and choose what battery we want to work with," says Tan, explaining that, in future, his firm might source cells from the US – though these may come at a different cost.
-There's another consideration. Unigrid's battery contains chromium-3 in its cathode. In a battery, electrons flow from cathode to anode, external when charging and in the opposite direction when discharging or providing power.
-Prof Dame Clare Grey at the University of Cambridge, who is co-founder of battery firm Nyobolt, points out that under certain conditions chromium-3 may form chromium-6, a toxic, cancer-causing material., external
-"If you're going to go for sodium […] and you're going to sell safety, then don't start putting elements in that are going to raise red flags," she tells the BBC.
-Ivana Hasa at the University of Warwick, who has no connection to Unigrid, agrees that it is possible for chromium-3 to form chromium-6 at very high states of charge, though she says this can be mitigated by how voltage is controlled within the battery. "Safety tests reported on the cell chemistry are very promising," she says of Unigrid's tech.
-Tan says concerns around toxicity of the battery's materials are "overblown" and emphasises that Unigrid's battery has passed certification and safety tests for sale in Europe and is currently undergoing such evaluations for the US market.
-Third-party tests have not been able to get the battery to form chromium-6, he says. "We've tried very hard to try and produce it, we've overcharged it as much as we can... We were unsuccessful in generating chromium-6."
-The choice of cathode material, or how the electrolyte – which separates cathode and anode – is formulated are key details influencing the performance and longevity of sodium ion batteries. Some manufacturers are not using chromium for their cathode but hard carbon instead, or sodium iron phosphate pyrophosphate (NFPP).
-In general, confidence around sodium ion batteries' reliability has increased during the last few years, says Prof Dame Grey, meaning they are now finding their way into grid storage applications.
-Last December, LFP batteries – a relatively cheap form of lithium ion battery – were trading at $81 per kilowatt hour, external (kWh) whereas Unigrid's sodium ion battery pricing is roughly $100 kWh, external.
-Some companies that spoke to the BBC suggested sodium ion might reach as low as $30 per kWh but analysts say significantly lower costs could be many years away, external.
-Sodium ion batteries are also not as energy dense as lithium ion batteries, meaning they must be slightly bigger and heavier in order to provide the same amount of power.
-The technology has been improving, external on this front in recent years but, even so, you're not likely to see sodium ion cells in small, energy hungry devices such as smartphones. Larger energy storage solutions are where most people expect sodium ion to dominate.
-"We think sodium ion […] is going to make up 80% of the market," says David Bell, co-founder and chief executive of Seattle-based Emerald Battery Labs.
-Bell declined to share details of the battery design his firm is working on, though he says Emerald too is currently relying on China-sourced sodium ion cells as they develop their initial product: 12 volt auxiliary batteries for vehicles, currently supplied to unnamed commercial fleets in the US.
-"We took a look at the market and said 'Hey, no-one's trying to attack this space, let's have Emerald Battery Labs attack it'," says Bell. The firm's next goal is to develop new anodes for US-produced sodium ion cells.
-Another company, Peak Energy, based in California and Colorado, announced a partnership with General Motors (GM) in June. The pair aim to develop a US supply chain for sodium ion batteries, in order to enable large-scale energy storage for electricity grids.
-Peak Energy is also, at present, relying on China-sourced cells for its first installations, but hopes to help GM launch a US-based production facility in Michigan "by the end of 2028", says Cameron Wiles, president and co-founder. "China does not have an insurmountable lead in sodium ion batteries," he says.
-One reason US companies feel they can compete is because of the electricity demand boom from data centres, which are contributing to rising greenhouse gas emissions in the US. Data centre-driven demand is also rising in other places around the world, including the UK.
-This is an "opportunity" says Drew Buckley, chief executive at ESS Tech, headquartered in Oregon. He points out that sodium ion batteries could help distribute renewable energy to data centres. And those batteries should be cheaper to run than lithium ion alternatives, since they are not expected to require as much cooling.
-ESS Tech is working with Alsym, another US firm that is planning to ship "hundreds" of megawatt hours' worth of sodium ion batteries – made in the US – by 2027.
-Hasa says that it will be "challenging" for companies to establish mass production of sodium ion batteries. And she also notes that, while this type of battery is often touted as much safer than lithium ion, they do not come with zero fire risk.
-But if any firms can succeed in this space, they could enable new strategic choices, she adds – helping to avoid wastage of renewable electricity and potentially keeping energy costs low. "I'm a strong believer in the technology," says Hasa.
-Related topics
-- Published19 August
-- Published12 August
-- Published7 August`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-29T23:06:50+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81ff/live/33895530-a5e8-11f1-a019-f3ea5e194221.png",
-    readTime: 10,
-  },
-  {
-    id: "i-like-proving-people-wrong-the-women-t-aea33840",
-    title: "'I like proving people wrong': The women taking up DIY and plumbing",
-    titleJa: "'I like proving people wrong': The women taking up DIY and plumbing",
-    summaryJa: "Female DIY experts and tradeswomen talk about their experiences of a traditionally male-dominated domain.",
-    bodyOriginal: `'I like proving people wrong': The women taking up DIY and plumbing
-- Published
-It's hard to miss the explosion of DIY content that has hit our social media feeds over the last decade.
-From quick reels on how to fix cracks in walls, to complicated YouTube tutorials on building alcove seating from scratch, the internet is chock-a-block with seemingly endless home improvement demos.
-While DIY was once seen as more of a male domain, female influencers are inspiring a new generation of women to take matters into their own hands.
-Meanwhile, demand for female professionals is rising, while some women are changing careers to take up trades which they see as more AI-proof than their desk jobs.
-Eight months pregnant and building wardrobes
-DIY influencer Jasmine Gurney has documented an impressive and exhausting sounding list of tasks on Instagram.
-She has torn down partition walls, replaced flooring, erected a fence, insulated and boarded her loft, built an outdoor workshop, made custom cabinetry, moved plug sockets, made her son his first bed and has been building him a treehouse.
-Eight months pregnant, the former marketer is now racing to finish building a fitted wardrobe before the new baby arrives.
-"I like proving people wrong," says Jasmine, 33, from Bedfordshire, who says she's been trolled by people questioning her techniques but they just "spur me on more".
-"I'm showing and empowering other women to do it," she says.
-"I've shown me doing things whilst pregnant, I've had my firstborn strapped to me in a baby carrier while doing things.
-"I'm just showing that we are capable, we are interested in this sort of stuff and... we're sick of waiting around for six months for our husbands to pick up the tools and do it in most cases."
-Jasmine says her page really took off during Covid when people couldn't get professionals in so needed to learn to do jobs themselves.
-While the lockdowns are long over, demand for content like hers has stuck, she believes, because there aren't enough tradespeople to meet demand, and cost of living pressures are squeezing budgets.
-Gen Z leads the way
-Gen Z women are "leading the charge in challenging gendered DIY stereotypes", according to a 2024 report by B&Q.
-Around three-quarters of Gen Z women surveyed said they enjoy DIY, compared to 60% of all female respondents.
-And 82% of Gen Z women said seeing women doing more complex home DIY on social media had inspired them to do more themselves, versus 60% of women in general.
-Of course, not all jobs are DIY. Sometimes you'll need to GSI (get someone in).
-Bliss Cunneen walked away from an Anthropology university course in 2020 to train as a plumber.
-The 28-year-old from south London says trying the trade on a whim is the "best thing I've ever done", and she loves the freedom and flexibility of running a business.
-While she has experienced doubt from some customers when she turns up at their door - and has even once been mistaken for the receptionist - "once you start working and you show you're confident and you know what you're doing, they're okay".
-She says the explosion of content online has "definitely helped" with broadening attitudes to women taking up DIY or a trade.
-Rising demand for tradeswomen
-Anna Moynihan set up TaskHer, a platform connecting female tradies with customers who need jobs done, after feeling frustrated when tradesmen she had booked for renovation work would address her husband rather than her.
-Five years ago she says she couldn't find any stock photographs of tradeswomen to use for marketing. Even the word "tradeswoman" would get autocorrected to "tradesman".
-"It's those little things that, you know, ultimately you don't feel welcome into that environment.
-"It's already hard enough to become a tradeswoman, a woman in an industry where you're massively under-represented."
-Enquiries on the site have more than doubled so far this year compared to 2025, while the number of tradeswomen signing up has almost quadrupled, Anna says.
-People might prefer a tradeswoman for a range of reasons - industry surveys suggest they may feel more at ease with a woman entering their home, external, feel a woman would be more respectful, or want to support women working in traditionally male roles.
-Anecdotally, Anna says more women are joining her platform after leaving white-collar jobs, adding three Oxford University-educated tradeswomen have signed up in the last month.
-She says some had always wanted to take up a trade but felt unable to up until now because of their gender.
-Others, she says, want the flexibility of working for themselves in a role less likely to be directly impacted by the rapid advance of AI.
-'You can't be what you can't see'
-Despite the buzz, women make up a tiny proportion of the UK's construction workforce - around 4%, according to the Federation of Master Builders.
-But there are encouraging signs. One in 10 people who started a construction apprenticeship in 2024-25 was a woman, up from around one in 14 five years earlier.
-DIY influencer Jasmine hopes women who see online content such as hers will be inspired to give a project a go, or consider entering a trade.
-"The more women who are seen online doing these sorts of things, the more normal it becomes."
-Anna agrees. "You can't be what you can't see, and anything that shows women and girls that they can do something is fantastic."
-Related topics
-- Published6 September
-- Published22 June
-- Published26 January`,
-    bodyJa: `'I like proving people wrong': The women taking up DIY and plumbing
-- Published
-It's hard to miss the explosion of DIY content that has hit our social media feeds over the last decade.
-From quick reels on how to fix cracks in walls, to complicated YouTube tutorials on building alcove seating from scratch, the internet is chock-a-block with seemingly endless home improvement demos.
-While DIY was once seen as more of a male domain, female influencers are inspiring a new generation of women to take matters into their own hands.
-Meanwhile, demand for female professionals is rising, while some women are changing careers to take up trades which they see as more AI-proof than their desk jobs.
-Eight months pregnant and building wardrobes
-DIY influencer Jasmine Gurney has documented an impressive and exhausting sounding list of tasks on Instagram.
-She has torn down partition walls, replaced flooring, erected a fence, insulated and boarded her loft, built an outdoor workshop, made custom cabinetry, moved plug sockets, made her son his first bed and has been building him a treehouse.
-Eight months pregnant, the former marketer is now racing to finish building a fitted wardrobe before the new baby arrives.
-"I like proving people wrong," says Jasmine, 33, from Bedfordshire, who says she's been trolled by people questioning her techniques but they just "spur me on more".
-"I'm showing and empowering other women to do it," she says.
-"I've shown me doing things whilst pregnant, I've had my firstborn strapped to me in a baby carrier while doing things.
-"I'm just showing that we are capable, we are interested in this sort of stuff and... we're sick of waiting around for six months for our husbands to pick up the tools and do it in most cases."
-Jasmine says her page really took off during Covid when people couldn't get professionals in so needed to learn to do jobs themselves.
-While the lockdowns are long over, demand for content like hers has stuck, she believes, because there aren't enough tradespeople to meet demand, and cost of living pressures are squeezing budgets.
-Gen Z leads the way
-Gen Z women are "leading the charge in challenging gendered DIY stereotypes", according to a 2024 report by B&Q.
-Around three-quarters of Gen Z women surveyed said they enjoy DIY, compared to 60% of all female respondents.
-And 82% of Gen Z women said seeing women doing more complex home DIY on social media had inspired them to do more themselves, versus 60% of women in general.
-Of course, not all jobs are DIY. Sometimes you'll need to GSI (get someone in).
-Bliss Cunneen walked away from an Anthropology university course in 2020 to train as a plumber.
-The 28-year-old from south London says trying the trade on a whim is the "best thing I've ever done", and she loves the freedom and flexibility of running a business.
-While she has experienced doubt from some customers when she turns up at their door - and has even once been mistaken for the receptionist - "once you start working and you show you're confident and you know what you're doing, they're okay".
-She says the explosion of content online has "definitely helped" with broadening attitudes to women taking up DIY or a trade.
-Rising demand for tradeswomen
-Anna Moynihan set up TaskHer, a platform connecting female tradies with customers who need jobs done, after feeling frustrated when tradesmen she had booked for renovation work would address her husband rather than her.
-Five years ago she says she couldn't find any stock photographs of tradeswomen to use for marketing. Even the word "tradeswoman" would get autocorrected to "tradesman".
-"It's those little things that, you know, ultimately you don't feel welcome into that environment.
-"It's already hard enough to become a tradeswoman, a woman in an industry where you're massively under-represented."
-Enquiries on the site have more than doubled so far this year compared to 2025, while the number of tradeswomen signing up has almost quadrupled, Anna says.
-People might prefer a tradeswoman for a range of reasons - industry surveys suggest they may feel more at ease with a woman entering their home, external, feel a woman would be more respectful, or want to support women working in traditionally male roles.
-Anecdotally, Anna says more women are joining her platform after leaving white-collar jobs, adding three Oxford University-educated tradeswomen have signed up in the last month.
-She says some had always wanted to take up a trade but felt unable to up until now because of their gender.
-Others, she says, want the flexibility of working for themselves in a role less likely to be directly impacted by the rapid advance of AI.
-'You can't be what you can't see'
-Despite the buzz, women make up a tiny proportion of the UK's construction workforce - around 4%, according to the Federation of Master Builders.
-But there are encouraging signs. One in 10 people who started a construction apprenticeship in 2024-25 was a woman, up from around one in 14 five years earlier.
-DIY influencer Jasmine hopes women who see online content such as hers will be inspired to give a project a go, or consider entering a trade.
-"The more women who are seen online doing these sorts of things, the more normal it becomes."
-Anna agrees. "You can't be what you can't see, and anything that shows women and girls that they can do something is fantastic."
-Related topics
-- Published6 September
-- Published22 June
-- Published26 January`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm89jkn232xxo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-29T23:06:14+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fbd/live/41b1ec30-bbff-11f1-a430-4d16ee157c41.jpg",
-    readTime: 10,
-  },
-  {
-    id: "huel-ad-banned-for-suggesting-its-produc-800d672e",
-    title: "Huel ad banned for suggesting its products could replace all conventional food",
-    titleJa: "Huel ad banned for suggesting its products could replace all conventional food",
-    summaryJa: "The advertising watchdog said that viewers could assume from the ad that replacing all normal food with Huel was \"nutritionally appropriate\".",
-    bodyOriginal: `Huel ad banned for suggesting its products could replace all conventional food
-- Published
-An advert for Huel meal replacement shakes has been banned by the advertising watchdog for encouraging or condoning "irresponsible" dietary practices.
-The ad featured Huel brand ambassador Spencer Matthews sharing an anecdote of a person he met who "only eats Huel" and who won a 260km race "by miles".
-The Advertising Standards Authority (ASA) said that viewers could assume from the ad that replacing all conventional food with Huel was "nutritionally appropriate" and was compatible with elite physical performance.
-Huel said Matthews' anecdote was not "a recommendation or instruction" and the purpose of the ad was to challenge the misconception that Huel could replace every meal".
-The video, which appeared as a sponsored Instagram post and YouTube pre-roll ad, featured Matthews speaking to Huel founder Julian Hearn in the style of a podcast.
-The Instagram post included the caption: "Here's how our founder uses Huel. Spoiler alert it's not for every meal."
-In the video Hearn said that he has Huel products for breakfast and lunch during the working week, but has a "traditional meal" when he goes home.
-In response, Matthews said that when he was competing in an ultramarathon, he met a man who "only eats Huel".
-Matthews said he was initially sceptical that the man would be able to manage the race, but then said: "He won it by miles, like literally just left us all in the dirt."
-Hearn replied: "In an ideal world, you should have nutritionally complete whole food.
-"Most people either don't do that or can't have the time to do that, and therefore that's where Huel fits in the gap."
-Huel, which is based in Hertfordshire, was founded by Hearn in 2015. It is currently in the process of being bought by French conglomerate Danone.
-The market for so-called complete nutrition products, aimed at time-poor, health-conscious consumers, is thought to be worth $5.9bn (£4.4bn).
-The ASA received four complaints about the advert, which challenged whether the content was irresponsible. Two of the complainants also challenged whether the health claims in the ad breached the ASA's advertising code.
-The ASA acknowledged in its ruling that the ad "did not explicitly recommend that consumers replace all conventional foods with Huel", but consumers could nonetheless interpret the anecdote as "an acceptable dietary practice".
-"By presenting exclusive consumption of Huel in that context, the ads suggested that the complete replacement of conventional food with Huel was nutritionally appropriate and presented no barrier to achieving a high level of physical performance," the ruling said.
-The ASA also upheld the complaint regarding the health claims as it ruled Matthews' anecdote about the ultramarathon athlete "implied a beneficial relationship between consuming Huel and the ability to sustain exceptionally high levels of physical and endurance performance".
-In its response to the complaints, Huel said the advert "unambiguously positioned Huel as part of a balanced diet for occasions when preparing whole food was not practicable".
-The company pointed to Matthews reacting with "extreme scepticism and disbelief" to the idea of a person solely consuming Huel.
-"The anecdote was recounted as a remarkable and unexpected occurrence, not as a representative outcome or a recommendation or instruction to consumers to replicate.
-"At no point in the ads did either speaker suggest that consumers should adopt a 100% Huel diet."
-It is not the first time that Huel has landed in hot water with the ASA over the use of its products as a replacement for conventional food.
-Additionally, some experts have questioned the effectiveness of replacing meals with nutritionally rich drinks.
-Huel told BBC News that it had complied with the ASA ruling.
-"We do not position Huel as a complete diet replacement or claim that it improves athletic performance," a spokesperson said.
-- Published20 August
-- Published5 days ago`,
-    bodyJa: `Huel ad banned for suggesting its products could replace all conventional food
-- Published
-An advert for Huel meal replacement shakes has been banned by the advertising watchdog for encouraging or condoning "irresponsible" dietary practices.
-The ad featured Huel brand ambassador Spencer Matthews sharing an anecdote of a person he met who "only eats Huel" and who won a 260km race "by miles".
-The Advertising Standards Authority (ASA) said that viewers could assume from the ad that replacing all conventional food with Huel was "nutritionally appropriate" and was compatible with elite physical performance.
-Huel said Matthews' anecdote was not "a recommendation or instruction" and the purpose of the ad was to challenge the misconception that Huel could replace every meal".
-The video, which appeared as a sponsored Instagram post and YouTube pre-roll ad, featured Matthews speaking to Huel founder Julian Hearn in the style of a podcast.
-The Instagram post included the caption: "Here's how our founder uses Huel. Spoiler alert it's not for every meal."
-In the video Hearn said that he has Huel products for breakfast and lunch during the working week, but has a "traditional meal" when he goes home.
-In response, Matthews said that when he was competing in an ultramarathon, he met a man who "only eats Huel".
-Matthews said he was initially sceptical that the man would be able to manage the race, but then said: "He won it by miles, like literally just left us all in the dirt."
-Hearn replied: "In an ideal world, you should have nutritionally complete whole food.
-"Most people either don't do that or can't have the time to do that, and therefore that's where Huel fits in the gap."
-Huel, which is based in Hertfordshire, was founded by Hearn in 2015. It is currently in the process of being bought by French conglomerate Danone.
-The market for so-called complete nutrition products, aimed at time-poor, health-conscious consumers, is thought to be worth $5.9bn (£4.4bn).
-The ASA received four complaints about the advert, which challenged whether the content was irresponsible. Two of the complainants also challenged whether the health claims in the ad breached the ASA's advertising code.
-The ASA acknowledged in its ruling that the ad "did not explicitly recommend that consumers replace all conventional foods with Huel", but consumers could nonetheless interpret the anecdote as "an acceptable dietary practice".
-"By presenting exclusive consumption of Huel in that context, the ads suggested that the complete replacement of conventional food with Huel was nutritionally appropriate and presented no barrier to achieving a high level of physical performance," the ruling said.
-The ASA also upheld the complaint regarding the health claims as it ruled Matthews' anecdote about the ultramarathon athlete "implied a beneficial relationship between consuming Huel and the ability to sustain exceptionally high levels of physical and endurance performance".
-In its response to the complaints, Huel said the advert "unambiguously positioned Huel as part of a balanced diet for occasions when preparing whole food was not practicable".
-The company pointed to Matthews reacting with "extreme scepticism and disbelief" to the idea of a person solely consuming Huel.
-"The anecdote was recounted as a remarkable and unexpected occurrence, not as a representative outcome or a recommendation or instruction to consumers to replicate.
-"At no point in the ads did either speaker suggest that consumers should adopt a 100% Huel diet."
-It is not the first time that Huel has landed in hot water with the ASA over the use of its products as a replacement for conventional food.
-Additionally, some experts have questioned the effectiveness of replacing meals with nutritionally rich drinks.
-Huel told BBC News that it had complied with the ASA ruling.
-"We do not position Huel as a complete diet replacement or claim that it improves athletic performance," a spokesperson said.
-- Published20 August
-- Published5 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c920v3y1gjgpo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-29T23:06:06+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd00/live/b8e0d640-bb4b-11f1-a071-65d2e11c8f4a.jpg",
-    readTime: 10,
-  },
-  {
-    id: "household-energy-bills-forecast-to-see-b-285e90fe",
-    title: "Household energy bills forecast to see biggest rise in four years",
-    titleJa: "Household energy bills forecast to see biggest rise in four years",
-    summaryJa: "A typical household faces an annual gas and electricity bill of £1,999 from January, based on a key forecast.",
-    bodyOriginal: `Household energy bills forecast to see biggest rise in four years
-- Published
-Household energy prices are set to soar in January, with a typical annual bill forecast to jump by £276, figures shared with the BBC reveal.
-The 16% predicted increase would hit millions of households at the coldest time of year, and would mark the biggest rise in bills for four years.
-The forecast from consultancy Cornwall Insight comes a day before prices go up under regulator Ofgem's October price cap and puts increased pressure on the government to support those who will struggle to pay.
-Meanwhile, the boss of supplier EDF Simone Rossi has warned the UK is "walking into a second energy crisis" and called for an extension to the VAT cut on electricity which kicks in on Thursday.
-Energy prices bite in winter
-About 20 million households in England, Scotland and Wales are on variable energy tariffs set by Ofgem's price cap, which puts a maximum price on each unit of gas and electricity.
-Those homes will see a 4% increase in prices on Thursday, the equivalent of about £60 per year – or £5 per month – taking an annual bill to £1,723 for the typical household using both electricity and gas and paying by direct debit if this level was sustained for a year.
-That rise would have been higher without the government's VAT cut, which knocks the equivalent of about £45 a year off a typical bill.
-But forecasts show a far greater increase is possible for bills in January. Cornwall Insight said its latest forecast suggests the typical annual bill would rise to £1,999.
-The forecast 16% rise will come at the worst time of year, according to Craig Lowrey, principal consultant at Cornwall Insight.
-"These prices are going to hit households hard. January is already a difficult month for many, with cold weather and bank balances still recovering from Christmas," he said.
-The predicted rise is the result of disruption of gas supplies owing to the conflict in the Middle East, and the resulting low gas storage levels in Europe. Rebuilding those stocks could mean high bills "well beyond the winter", the forecaster said.
-Cornwall Insight has a strong track record on forecasts and is widely respected across the industry and politics. Similar forecasts have been made by energy suppliers.
-What will the energy cap changes mean for my bills?
-- Published1 day ago
-Four ways to keep your energy bills down
-- Published1 day ago
-This remains only a prediction at this stage. Ofgem will not announce the actual January price change until late November.
-While an easing of tensions in the Middle East could lessen the pain for billpayers, the price setting period for the January cap is already halfway through.
-With little sign of a truce or lower international energy costs, a big increase in prices for those not on a fixed tariff looks highly likely. Lowrey said a January rise was "all but certain".
-'Everything's going up'
-That will be tough for people like Aaron Richards from Maidenhead.
-"I try to eat less takeaways, work more overtime, and try to budget a bit better, but at the same time, we shouldn't have to," he said.
-Aaron drives a diesel car, and so is paying record high prices to travel to and from work.
-"I just feel like everything's going up. How far is it going to go? Someone's got to step in," he said.
-"I know people who can't afford to heat their house and they're struggling at the moment. Housing and eating are two of life's essentials that everyone should have. It shouldn't be a challenge to have any of those things."
-Years of relatively high domestic energy bills have left some people facing big sums in unpaid bills.
-Recent data from Ofgem showed that customers collectively owe more than £5bn in unpaid bills and charges to suppliers.
-The regulator has a proposed debt relief scheme on the table, and campaigners keep telling them to get on with it, urging the government to provide funding for it to be implemented.
-"This is unsustainable, not just for households but also for the market as a whole," said Adam Scorer, chief executive of fuel poverty charity National Energy Action.
-"The Budget must deliver additional targeted support for households most at risk this winter, alongside action to tackle energy debt and improve the least energy-efficient homes."
-Among others calling for government help for struggling billpayers is Simone Rossi, chief executive of supplier EDF Energy.
-Speaking exclusively to the BBC's Big Boss Interview podcast, Mr Rossi said: "We are actually walking into a second significant energy crisis after the one we experienced just four years ago."
-He said that the government should extend the cut in VAT on electricity bills from 5% to 0% beyond April, when it is due to expire.
-He also urged ministers to give the go-ahead to the new Jackdaw gas field off the coast of Aberdeen, and the Rosebank oil field off Shetland.
-The government has consistently said that it will consider ways to offer breathing space to billpayers on the cost of living.
-Additional reporting by Oliver Smith and Paul Seddon. Graphics by Miguel Roca-Terry.`,
-    bodyJa: `Household energy bills forecast to see biggest rise in four years
-- Published
-Household energy prices are set to soar in January, with a typical annual bill forecast to jump by £276, figures shared with the BBC reveal.
-The 16% predicted increase would hit millions of households at the coldest time of year, and would mark the biggest rise in bills for four years.
-The forecast from consultancy Cornwall Insight comes a day before prices go up under regulator Ofgem's October price cap and puts increased pressure on the government to support those who will struggle to pay.
-Meanwhile, the boss of supplier EDF Simone Rossi has warned the UK is "walking into a second energy crisis" and called for an extension to the VAT cut on electricity which kicks in on Thursday.
-Energy prices bite in winter
-About 20 million households in England, Scotland and Wales are on variable energy tariffs set by Ofgem's price cap, which puts a maximum price on each unit of gas and electricity.
-Those homes will see a 4% increase in prices on Thursday, the equivalent of about £60 per year – or £5 per month – taking an annual bill to £1,723 for the typical household using both electricity and gas and paying by direct debit if this level was sustained for a year.
-That rise would have been higher without the government's VAT cut, which knocks the equivalent of about £45 a year off a typical bill.
-But forecasts show a far greater increase is possible for bills in January. Cornwall Insight said its latest forecast suggests the typical annual bill would rise to £1,999.
-The forecast 16% rise will come at the worst time of year, according to Craig Lowrey, principal consultant at Cornwall Insight.
-"These prices are going to hit households hard. January is already a difficult month for many, with cold weather and bank balances still recovering from Christmas," he said.
-The predicted rise is the result of disruption of gas supplies owing to the conflict in the Middle East, and the resulting low gas storage levels in Europe. Rebuilding those stocks could mean high bills "well beyond the winter", the forecaster said.
-Cornwall Insight has a strong track record on forecasts and is widely respected across the industry and politics. Similar forecasts have been made by energy suppliers.
-What will the energy cap changes mean for my bills?
-- Published1 day ago
-Four ways to keep your energy bills down
-- Published1 day ago
-This remains only a prediction at this stage. Ofgem will not announce the actual January price change until late November.
-While an easing of tensions in the Middle East could lessen the pain for billpayers, the price setting period for the January cap is already halfway through.
-With little sign of a truce or lower international energy costs, a big increase in prices for those not on a fixed tariff looks highly likely. Lowrey said a January rise was "all but certain".
-'Everything's going up'
-That will be tough for people like Aaron Richards from Maidenhead.
-"I try to eat less takeaways, work more overtime, and try to budget a bit better, but at the same time, we shouldn't have to," he said.
-Aaron drives a diesel car, and so is paying record high prices to travel to and from work.
-"I just feel like everything's going up. How far is it going to go? Someone's got to step in," he said.
-"I know people who can't afford to heat their house and they're struggling at the moment. Housing and eating are two of life's essentials that everyone should have. It shouldn't be a challenge to have any of those things."
-Years of relatively high domestic energy bills have left some people facing big sums in unpaid bills.
-Recent data from Ofgem showed that customers collectively owe more than £5bn in unpaid bills and charges to suppliers.
-The regulator has a proposed debt relief scheme on the table, and campaigners keep telling them to get on with it, urging the government to provide funding for it to be implemented.
-"This is unsustainable, not just for households but also for the market as a whole," said Adam Scorer, chief executive of fuel poverty charity National Energy Action.
-"The Budget must deliver additional targeted support for households most at risk this winter, alongside action to tackle energy debt and improve the least energy-efficient homes."
-Among others calling for government help for struggling billpayers is Simone Rossi, chief executive of supplier EDF Energy.
-Speaking exclusively to the BBC's Big Boss Interview podcast, Mr Rossi said: "We are actually walking into a second significant energy crisis after the one we experienced just four years ago."
-He said that the government should extend the cut in VAT on electricity bills from 5% to 0% beyond April, when it is due to expire.
-He also urged ministers to give the go-ahead to the new Jackdaw gas field off the coast of Aberdeen, and the Rosebank oil field off Shetland.
-The government has consistently said that it will consider ways to offer breathing space to billpayers on the cost of living.
-Additional reporting by Oliver Smith and Paul Seddon. Graphics by Miguel Roca-Terry.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-29T23:03:13+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b79a/live/9a0501e0-bc24-11f1-bd53-1b67dc8fba34.jpg",
     readTime: 10,
   },
 ];
