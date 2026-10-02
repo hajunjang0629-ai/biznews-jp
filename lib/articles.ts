@@ -15,6 +15,616 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "a-brexit-reversal-is-on-the-table-10-yea-e97366e1",
+    title: "A Brexit reversal is on the table 10 years on from the vote that changed Britain. Here’s what’s at stake",
+    titleJa: "A Brexit reversal is on the table 10 years on from the vote that changed Britain. Here’s what’s at stake",
+    summaryJa: "U.K. Prime Minister Andy Burnham suggested this week that British voters could be given the chance to reverse Brexit, the country's highly contentious departure from the European Union a decade ago.Burnham, who became prime minister over the summer, told the BBC on Wednesday it was \"possible\" a referendum on rejoining the EU could be included in a future election manifesto.",
+    bodyOriginal: `U.K. Prime Minister Andy Burnham suggested this week that British voters could be given the chance to reverse Brexit, the country's highly contentious departure from the European Union a decade ago.
+Burnham, who became prime minister over the summer, told the BBC on Wednesday it was "possible" a referendum on rejoining the EU could be included in a future election manifesto.
+A U.K. general election is not currently expected before 2029. Prime ministers are able to trigger an early snap election with the backing of parliament, but Burnham — who replaced predecessor Keir Starmer without a public vote — has ruled out such a move.
+In his interview with the BBC, the prime minister said a referendum "wouldn't be the right thing to do right now," but added that the U.K. must "consider the options" for its relationship with the EU, arguing that "where we are isn't good enough."
+Asked whether an in-out referendum in a future election manifesto was a possibility, Burnham said: "yes, things are possible."
+During the previous general election — which saw Starmer lead the governing Labour party to a landslide victory and end 14 years of Conservative rule — Burnham was serving as Mayor of Manchester. As he prepared to challenge Starmer's leadership, Burnham pledged not to "re-run" arguments over Brexit.
+In a separate interview with the BBC's Today program, Burnham said he wanted to "look at the options" for resetting U.K.-EU relations.
+"We could stay as we are. That's definitely an option, if people think this is the right place to stay," he said, when asked if he wanted Britain to rejoin the union. "We could look at what [former finance minister] George Osborne has said about a customs union, we could look at… the single market or we could go all the way."
+The interviews came after Burnham's speech at the governing Labour party's annual conference on Tuesday, in which he said "Brexit hasn't given us control."
+The 2016 Brexit campaign promised to "take back control" of immigration, free up more money for the country's health service, and forge trade deals with the rest of the world.
+While the value of U.K. goods and services exports has grown significantly in the last decade, according to government figures, immigration and NHS funding pressures are more contentious than ever.
+"Later this year, there will be a U.K.-EU summit," Burnham said at the conference on Tuesday.
+"We will not give Britain the clear path we need into the rest of the century until we decide on a long-term relationship with what is still our largest market. I cannot say to you truthfully that where we are is good enough. Brexit has done more harm than good [and] we need to restore a higher level of growth and prosperity for Britain."
+A decade of Brexit
+On June 23, 2016, Britons headed to the polls to vote on whether to stay in the European Union. A shock result emerged that night: the electorate had voted to leave the bloc by 52% to 48%.
+As the result sank in, the British pound tanked, and London's FTSE 100 tumbled. Then-Prime Minister David Cameron — who had called the referendum and led the campaign for the Remain vote — resigned.
+Britain did not officially leave the EU until 2020. In the interim years, the country's looming exit from the bloc remained a contentious issue, with so-called "Remainers" staging huge protests against the decision and some political parties putting a reversal of the vote at the heart of their election campaigns.
+The U.K. economy has largely failed to experience a post-Brexit boost after upending ties with its largest trading partner, and sterling never returned to its pre-referendum level. The country has also seen a quick succession of prime ministers, with some of the past decade's seven leaders ousted over the way they handled Brexit and the post-referendum economy.
+James Smith, developed markets economist at ING, told CNBC that while Burnham's statement is politically significant, unlocking tangible economic upside relies on concrete changes to the trading relationship, which could take years.
+"Though the PM has opened the door to full EU membership, the reality is that he faces the same constraints that have hemmed in previous leaders," he said in an email. "The public may agree that Brexit hasn't gone well, but it's not clear there is a majority in favor of rejoining. It's also not at all clear how willing the EU will be to give ground in negotiations, given the recent volatility of U.K. politics and the possibility of a Reform-led government in the future."
+Smith noted that it had taken more than five years to go from referendum to new economic relationship with the EU.
+"I suspect it will take much longer for Britain to settle on and implement a new form of relationship now that [Brexit] has dropped down the list of political priorities among voters," he said.
+Steve Nolan, a senior lecturer in economics at Britain's Liverpool John Moores University, told CNBC on Thursday that some estimates suggest U.K. gross domestic product was 5% to 8% smaller than it would have been without the vote to leave the EU.
+"This hasn't been a surprise to economists — standard models in trade say that if you put up barriers to trade with your nearest trading partner then this will cause problems," he said. "So there are definite benefits to be reaped by rejoining, but the road towards that outcome could be rocky."
+Any new referendum would increase uncertainty and turmoil, he added.
+"The U.K. would also be asking to be let back into the club from a weakened bargaining position and may have to accept many conditions — [such as] euro membership and free movement of labor — that may cause economic and political difficulties. So, there are opportunities to grabbed, but they won't come without a cost."
+However, Nigel Green, CEO of London-based financial consultancy DeVere Group, said that while closer ties with Europe would make Britain richer, it would also make it easier for capital to leave the country.
+"Sterling stands to gain from a steadier relationship with the U.K.'s biggest trading partner, and U.K.-focused equities, priced at a discount for a decade, could start to close the gap," he said.
+But he cautioned that "an open door works both ways," with entrepreneurs, and senior professionals increasingly telling deVere they were considering leaving the U.K. to avoid the high tax burden.
+"The EU reset needs a domestic twin: competitive taxes, faster planning and policy stability that lets businesses look beyond the next Budget," he said. "Get both right and the U.K. becomes a magnet for capital in Europe. Get only one right and Britain becomes a more convenient place to leave."`,
+    bodyJa: `U.K. Prime Minister Andy Burnham suggested this week that British voters could be given the chance to reverse Brexit, the country's highly contentious departure from the European Union a decade ago.
+Burnham, who became prime minister over the summer, told the BBC on Wednesday it was "possible" a referendum on rejoining the EU could be included in a future election manifesto.
+A U.K. general election is not currently expected before 2029. Prime ministers are able to trigger an early snap election with the backing of parliament, but Burnham — who replaced predecessor Keir Starmer without a public vote — has ruled out such a move.
+In his interview with the BBC, the prime minister said a referendum "wouldn't be the right thing to do right now," but added that the U.K. must "consider the options" for its relationship with the EU, arguing that "where we are isn't good enough."
+Asked whether an in-out referendum in a future election manifesto was a possibility, Burnham said: "yes, things are possible."
+During the previous general election — which saw Starmer lead the governing Labour party to a landslide victory and end 14 years of Conservative rule — Burnham was serving as Mayor of Manchester. As he prepared to challenge Starmer's leadership, Burnham pledged not to "re-run" arguments over Brexit.
+In a separate interview with the BBC's Today program, Burnham said he wanted to "look at the options" for resetting U.K.-EU relations.
+"We could stay as we are. That's definitely an option, if people think this is the right place to stay," he said, when asked if he wanted Britain to rejoin the union. "We could look at what [former finance minister] George Osborne has said about a customs union, we could look at… the single market or we could go all the way."
+The interviews came after Burnham's speech at the governing Labour party's annual conference on Tuesday, in which he said "Brexit hasn't given us control."
+The 2016 Brexit campaign promised to "take back control" of immigration, free up more money for the country's health service, and forge trade deals with the rest of the world.
+While the value of U.K. goods and services exports has grown significantly in the last decade, according to government figures, immigration and NHS funding pressures are more contentious than ever.
+"Later this year, there will be a U.K.-EU summit," Burnham said at the conference on Tuesday.
+"We will not give Britain the clear path we need into the rest of the century until we decide on a long-term relationship with what is still our largest market. I cannot say to you truthfully that where we are is good enough. Brexit has done more harm than good [and] we need to restore a higher level of growth and prosperity for Britain."
+A decade of Brexit
+On June 23, 2016, Britons headed to the polls to vote on whether to stay in the European Union. A shock result emerged that night: the electorate had voted to leave the bloc by 52% to 48%.
+As the result sank in, the British pound tanked, and London's FTSE 100 tumbled. Then-Prime Minister David Cameron — who had called the referendum and led the campaign for the Remain vote — resigned.
+Britain did not officially leave the EU until 2020. In the interim years, the country's looming exit from the bloc remained a contentious issue, with so-called "Remainers" staging huge protests against the decision and some political parties putting a reversal of the vote at the heart of their election campaigns.
+The U.K. economy has largely failed to experience a post-Brexit boost after upending ties with its largest trading partner, and sterling never returned to its pre-referendum level. The country has also seen a quick succession of prime ministers, with some of the past decade's seven leaders ousted over the way they handled Brexit and the post-referendum economy.
+James Smith, developed markets economist at ING, told CNBC that while Burnham's statement is politically significant, unlocking tangible economic upside relies on concrete changes to the trading relationship, which could take years.
+"Though the PM has opened the door to full EU membership, the reality is that he faces the same constraints that have hemmed in previous leaders," he said in an email. "The public may agree that Brexit hasn't gone well, but it's not clear there is a majority in favor of rejoining. It's also not at all clear how willing the EU will be to give ground in negotiations, given the recent volatility of U.K. politics and the possibility of a Reform-led government in the future."
+Smith noted that it had taken more than five years to go from referendum to new economic relationship with the EU.
+"I suspect it will take much longer for Britain to settle on and implement a new form of relationship now that [Brexit] has dropped down the list of political priorities among voters," he said.
+Steve Nolan, a senior lecturer in economics at Britain's Liverpool John Moores University, told CNBC on Thursday that some estimates suggest U.K. gross domestic product was 5% to 8% smaller than it would have been without the vote to leave the EU.
+"This hasn't been a surprise to economists — standard models in trade say that if you put up barriers to trade with your nearest trading partner then this will cause problems," he said. "So there are definite benefits to be reaped by rejoining, but the road towards that outcome could be rocky."
+Any new referendum would increase uncertainty and turmoil, he added.
+"The U.K. would also be asking to be let back into the club from a weakened bargaining position and may have to accept many conditions — [such as] euro membership and free movement of labor — that may cause economic and political difficulties. So, there are opportunities to grabbed, but they won't come without a cost."
+However, Nigel Green, CEO of London-based financial consultancy DeVere Group, said that while closer ties with Europe would make Britain richer, it would also make it easier for capital to leave the country.
+"Sterling stands to gain from a steadier relationship with the U.K.'s biggest trading partner, and U.K.-focused equities, priced at a discount for a decade, could start to close the gap," he said.
+But he cautioned that "an open door works both ways," with entrepreneurs, and senior professionals increasingly telling deVere they were considering leaving the U.K. to avoid the high tax burden.
+"The EU reset needs a domestic twin: competitive taxes, faster planning and policy stability that lets businesses look beyond the next Budget," he said. "Get both right and the U.K. becomes a magnet for capital in Europe. Get only one right and Britain becomes a more convenient place to leave."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/02/brexit-uk-rejoin-eu-referendum.html",
+    publishedAt: "2026-10-02T05:00:01+00:00",
+    category: "貿易",
+    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "brazil-votes-in-high-stakes-election-as-88753e5e",
+    title: "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
+    titleJa: "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
+    summaryJa: "Brazil will hold a knife-edge vote as its presidential race kicks off — but the election's outcome is likely to be felt far beyond the country's borders.",
+    bodyOriginal: `Brazil will hold a knife-edge vote on Sunday as its presidential race kicks off — but the election's outcome is likely to be felt far beyond the country's borders.
+Voters will head to the polls to decide whether incumbent Luiz Inácio Lula da Silva — known colloquially as Lula — should remain in office or be replaced by one of 12 alternative candidates.
+If no candidate wins more than 50% of votes in Sunday's first round, the two candidates with the most support will progress to a final runoff vote on Oct. 25.
+Polls point to a tight race, with frontrunners Lula and Flávio Bolsonaro effectively tied for support among voters.
+A win for left-leaning Lula would mark his fourth presidential term, while victory for Bolsonaro is expected to mark a shift back to his father's right-wing movement.
+Lula versus Bolsonaro
+Lula's center-left Workers Party (PT) has been a pioneer of social programs aimed at lifting millions of people out of poverty — but it has been stained by corruption scandals. Lula himself spent 18 months in prison after receiving a coastal property from an engineering firm involved in the so-called Car Wash corruption investigation. Former president Dilma Rousseff, who succeeded Lula in 2010, was impeached in 2016, having been accused of budget manipulation.
+Flávio Bolsonaro is a senator and son of former president Jair Bolsonaro, who is currently under house arrest. Jair Bolsonaro was sentenced to 27 years in prison for plotting a coup after losing the 2022 presidential election to Lula.
+Bolsonaro is widely viewed as the political heir to his father, with his policy mix favoring privatization, spending cuts and close alignment with the U.S. — policies that have had recent successes across Latin America, with Bolivia, Chile, Colombia and Peru all inaugurating conservative leaders in the last 12 months.
+Lula, meanwhile, has put Brazilian sovereignty at the center of his campaign. He has also pledged to reduce Brazil's traditional six-day work week, cut income tax for low-earners and enact policing reforms.
+The president has endured a rocky relationship with the Trump administration, which treated Jair Bolsonaro – dubbed colloquially the "Trump of the Tropics" – as a close ally. U.S. President Donald Trump announced 50% tariffs on Brazil in July 2025 in response to what he labeled a "witch-hunt" trial against Jair Bolsonaro.
+Brazil's relationship with China
+Otaviano Canuto, a nonresident senior fellow at The Brookings Institution and a former executive director at the Board of the International Monetary Fund for Brazil, told CNBC that the upcoming vote was a "hinge election" for the broader region with respect to the U.S. and the so-called "Donroe Doctrine" that has seen the Trump administration take a greater interest in Latin America.
+"Brazil is the largest economy in the region and if you take the region as a whole, 20 republics [in Latin America] are now are ruled by right-wing leaders," he said. "And of course, if a victory by Flavio Bolsonaro happens, that would deepen the strategic alignment of the region with President Donald Trump's plan for America. By contrast, if Lula obtains a fourth term, that will frustrate Washington's bid to dominate the neighborhood, and squeeze out the Chinese influence."
+Paulo Nogueira Batista Jr., a Brazilian economist and former vice president of the BRICS New Development Bank, told CNBC that the outcome of the election will have "a substantial effect on all parts of Brazilian life" because the two leading candidates are "radically different."
+"Flavio Bolsonaro has declared to be closely aligned to Donald Trump, and this might affect Brazilian-Chinese relations — [and] China is our main trade partner," he explained. "The geopolitical situation of Brazil that will change enormously if Bolsonaro wins, and will continue more or less like it has been in recent years if Lula wins his re-election bid."
+According to Canuto, part of Brazil's appeal to the U.S. administration is the country's abundance of critical minerals.
+"Trump has been very proactive in trying to guarantee the access to critical minerals, and Brazil is the second source rare earth reserves on the planet, [behind] China," he said.
+"So, the U.S.-China rivalry spills over to access to critical minerals and rare earths, and as we all know, all signals coming from Washington point in the direction of demanding the countries in the region establish restrictions to the Chinese access and so on."
+Economic pressure
+Another major issue at the center of the election is Brazil's mounting debt pile.
+The vote is being closely watched by investors across the globe, with questions swirling around whether the incoming administration can deliver fiscal credibility.
+Brazil's debt has steadily risen in recent years, and stood at 82.9% of gross domestic product in August.
+Meanwhile, Brazil's budget deficit stands at 9.48% of GDP, fueling concerns about whether the next administration will be able to deliver fiscal discipline and bring the national books under greater control.
+But while the wider economy has come under pressure, with inflation hovering above 4% and the government trimming its economic growth forecasts, Brazil has also been an economic beneficiary of higher oil prices as a net oil exporter.
+"The war in Iran, economically speaking, benefited Brazil in terms of trade gains with the rising price of oil," Canuto told CNBC. "Of course, nothing is for free, and the shocks in terms of prices ended up creating challenges in Brazil in terms of controlling inflation."
+Whoever wins, he added, will be obliged to present a plan on bringing the public finances under control.
+"In the short term there is no [imminent risk of] crisis, but the levels of nominal debts are reflecting the high interest rates that in turn reflect fiscal fragility. As time passes by, they tend to enter into an unsustainable trajectory, and markets see this and will charge rising premiums and higher interest rates, which would make things worse."
+Brazilian assets in focus
+The yield on Brazil's benchmark 10-year government bond was last seen trading at around 14.16%. In comparison, the yield on the U.S. 10-year Treasury note hit a 24-year high of 5.3338% on Thursday.
+"The fact of the matter is that Brazil, like other countries in the region, will have to undergo some process of fiscal adjustment, and that's a challenge when you have to negotiate with a divided Congress," Canuto added.
+But according to Christine Reed — who manages an emerging markets fixed income portfolio at Ninety One — a tightening presidential race means the risk-reward weighting across Brazilian assets is improving.
+"We see the most positive risk-reward asymmetry in local rates: tighter polls increase the odds of fiscal adjustment in 2027, while tight monetary policy and the removal of pre-election stimulus should weigh on economic activity and support disinflation, leaving room for further rate cuts regardless of who is elected," she said in an email.
+"The Brazilian real should continue to benefit from high interest-rate carry, tight monetary policy and improving polls, while in hard-currency debt, fiscal fundamentals remain the key risk of a potential Lula re-election and current spreads do not price that risk," she added.
+Batista Jr. agreed that the new leader would have to address Brazil's economic difficulties, telling CNBC the best-case scenario for Brazil would be a president who "would not throw caution to the wind, but would recognise the fact that we have a difficult macroeconomic situation to face up to."
+"Both candidates, if they are elected, will have to take measures to control expenditure, possibly to increase taxation," he said — but he cautioned against immediate, wide-reaching reforms.
+"I would not, in any case, recommend a strong, drastic fiscal adjustment in the first year of the government, because that would harm the level of economic activity, which is already weak," he said. "GDP growth has fallen below 2% according to recent projections for this year, so the economy is not growing well — and a very tight fiscal policy imposed suddenly by the incoming government would be, I think, a [worst-case] scenario."`,
+    bodyJa: `Brazil will hold a knife-edge vote on Sunday as its presidential race kicks off — but the election's outcome is likely to be felt far beyond the country's borders.
+Voters will head to the polls to decide whether incumbent Luiz Inácio Lula da Silva — known colloquially as Lula — should remain in office or be replaced by one of 12 alternative candidates.
+If no candidate wins more than 50% of votes in Sunday's first round, the two candidates with the most support will progress to a final runoff vote on Oct. 25.
+Polls point to a tight race, with frontrunners Lula and Flávio Bolsonaro effectively tied for support among voters.
+A win for left-leaning Lula would mark his fourth presidential term, while victory for Bolsonaro is expected to mark a shift back to his father's right-wing movement.
+Lula versus Bolsonaro
+Lula's center-left Workers Party (PT) has been a pioneer of social programs aimed at lifting millions of people out of poverty — but it has been stained by corruption scandals. Lula himself spent 18 months in prison after receiving a coastal property from an engineering firm involved in the so-called Car Wash corruption investigation. Former president Dilma Rousseff, who succeeded Lula in 2010, was impeached in 2016, having been accused of budget manipulation.
+Flávio Bolsonaro is a senator and son of former president Jair Bolsonaro, who is currently under house arrest. Jair Bolsonaro was sentenced to 27 years in prison for plotting a coup after losing the 2022 presidential election to Lula.
+Bolsonaro is widely viewed as the political heir to his father, with his policy mix favoring privatization, spending cuts and close alignment with the U.S. — policies that have had recent successes across Latin America, with Bolivia, Chile, Colombia and Peru all inaugurating conservative leaders in the last 12 months.
+Lula, meanwhile, has put Brazilian sovereignty at the center of his campaign. He has also pledged to reduce Brazil's traditional six-day work week, cut income tax for low-earners and enact policing reforms.
+The president has endured a rocky relationship with the Trump administration, which treated Jair Bolsonaro – dubbed colloquially the "Trump of the Tropics" – as a close ally. U.S. President Donald Trump announced 50% tariffs on Brazil in July 2025 in response to what he labeled a "witch-hunt" trial against Jair Bolsonaro.
+Brazil's relationship with China
+Otaviano Canuto, a nonresident senior fellow at The Brookings Institution and a former executive director at the Board of the International Monetary Fund for Brazil, told CNBC that the upcoming vote was a "hinge election" for the broader region with respect to the U.S. and the so-called "Donroe Doctrine" that has seen the Trump administration take a greater interest in Latin America.
+"Brazil is the largest economy in the region and if you take the region as a whole, 20 republics [in Latin America] are now are ruled by right-wing leaders," he said. "And of course, if a victory by Flavio Bolsonaro happens, that would deepen the strategic alignment of the region with President Donald Trump's plan for America. By contrast, if Lula obtains a fourth term, that will frustrate Washington's bid to dominate the neighborhood, and squeeze out the Chinese influence."
+Paulo Nogueira Batista Jr., a Brazilian economist and former vice president of the BRICS New Development Bank, told CNBC that the outcome of the election will have "a substantial effect on all parts of Brazilian life" because the two leading candidates are "radically different."
+"Flavio Bolsonaro has declared to be closely aligned to Donald Trump, and this might affect Brazilian-Chinese relations — [and] China is our main trade partner," he explained. "The geopolitical situation of Brazil that will change enormously if Bolsonaro wins, and will continue more or less like it has been in recent years if Lula wins his re-election bid."
+According to Canuto, part of Brazil's appeal to the U.S. administration is the country's abundance of critical minerals.
+"Trump has been very proactive in trying to guarantee the access to critical minerals, and Brazil is the second source rare earth reserves on the planet, [behind] China," he said.
+"So, the U.S.-China rivalry spills over to access to critical minerals and rare earths, and as we all know, all signals coming from Washington point in the direction of demanding the countries in the region establish restrictions to the Chinese access and so on."
+Economic pressure
+Another major issue at the center of the election is Brazil's mounting debt pile.
+The vote is being closely watched by investors across the globe, with questions swirling around whether the incoming administration can deliver fiscal credibility.
+Brazil's debt has steadily risen in recent years, and stood at 82.9% of gross domestic product in August.
+Meanwhile, Brazil's budget deficit stands at 9.48% of GDP, fueling concerns about whether the next administration will be able to deliver fiscal discipline and bring the national books under greater control.
+But while the wider economy has come under pressure, with inflation hovering above 4% and the government trimming its economic growth forecasts, Brazil has also been an economic beneficiary of higher oil prices as a net oil exporter.
+"The war in Iran, economically speaking, benefited Brazil in terms of trade gains with the rising price of oil," Canuto told CNBC. "Of course, nothing is for free, and the shocks in terms of prices ended up creating challenges in Brazil in terms of controlling inflation."
+Whoever wins, he added, will be obliged to present a plan on bringing the public finances under control.
+"In the short term there is no [imminent risk of] crisis, but the levels of nominal debts are reflecting the high interest rates that in turn reflect fiscal fragility. As time passes by, they tend to enter into an unsustainable trajectory, and markets see this and will charge rising premiums and higher interest rates, which would make things worse."
+Brazilian assets in focus
+The yield on Brazil's benchmark 10-year government bond was last seen trading at around 14.16%. In comparison, the yield on the U.S. 10-year Treasury note hit a 24-year high of 5.3338% on Thursday.
+"The fact of the matter is that Brazil, like other countries in the region, will have to undergo some process of fiscal adjustment, and that's a challenge when you have to negotiate with a divided Congress," Canuto added.
+But according to Christine Reed — who manages an emerging markets fixed income portfolio at Ninety One — a tightening presidential race means the risk-reward weighting across Brazilian assets is improving.
+"We see the most positive risk-reward asymmetry in local rates: tighter polls increase the odds of fiscal adjustment in 2027, while tight monetary policy and the removal of pre-election stimulus should weigh on economic activity and support disinflation, leaving room for further rate cuts regardless of who is elected," she said in an email.
+"The Brazilian real should continue to benefit from high interest-rate carry, tight monetary policy and improving polls, while in hard-currency debt, fiscal fundamentals remain the key risk of a potential Lula re-election and current spreads do not price that risk," she added.
+Batista Jr. agreed that the new leader would have to address Brazil's economic difficulties, telling CNBC the best-case scenario for Brazil would be a president who "would not throw caution to the wind, but would recognise the fact that we have a difficult macroeconomic situation to face up to."
+"Both candidates, if they are elected, will have to take measures to control expenditure, possibly to increase taxation," he said — but he cautioned against immediate, wide-reaching reforms.
+"I would not, in any case, recommend a strong, drastic fiscal adjustment in the first year of the government, because that would harm the level of economic activity, which is already weak," he said. "GDP growth has fallen below 2% according to recent projections for this year, so the economy is not growing well — and a very tight fiscal policy imposed suddenly by the incoming government would be, I think, a [worst-case] scenario."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/02/brazil-election-bolsonaro-lula-china-trump.html",
+    publishedAt: "2026-10-02T05:00:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "u-s-trade-representative-greer-says-deal-c9427146",
+    title: "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call",
+    titleJa: "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call",
+    summaryJa: "Ties between the U.S. and India have been under strain for over a year, and New Delhi faces fresh risk of up to 100% tariffs for continuing to buy Russian oil.",
+    bodyOriginal: `U.S. trade representative Jamieson Greer on Thursday signaled that a deal with India was not on the cards soon, as Washington and New Delhi continue to hash out the finer points of a much-awaited agreement.
+"I don't think there is something imminent," Greer said in response to a query by Indian news agency ANI, adding that "we truly have identified the universe of items that are sticking points."
+His comments come just a day after U.S. President Donald Trump and Indian Prime Minister Narendra Modi's spoke over the phone, a call that Greer described as "very constructive." He also held bilateral meetings with Indian Commerce Minister Piyush Goyal, who is in the U.S. to negotiate the trade deal and to attend the G20 trade ministers meeting in Milwaukee.
+Goyal, in a social media post, seemed more upbeat about the negotiations as he underscored that discussions with Greer were around "early conclusion of a mutually beneficial interim agreement under the India-US Bilateral Trade Agreement."
+"Goyal is counting the issues already resolved, and Greer is counting the ones that remain," Ronak D. Desai, visiting fellow at Stanford's Hoover Institution, told CNBC, adding that the last issues in any trade deal were the hardest.
+For Washington, India's continued purchases of Russian oil remain an important point of friction, while for New Delhi, the priority is to protect the politically important parts of the agricultural sector and preferential tariffs that give it an advantage over peers, according to experts.
+Redlines of negotiation
+On Wednesday, Modi said his conversation with Trump was "productive," and the two leaders not only reviewed bilateral trade, defense, energy and critical technologies but also discussed "ongoing efforts to advance global peace and security."
+While the Iran war has threatened India's energy security, pushing it to increase its reliance on Russian oil, the U.S. administration believes that New Delhi's purchase of Moscow's barrels is funding the Ukraine war.
+The ties between the U.S. and India have been under strain for more than a year, and New Delhi faces fresh risk of Washington slapping up to 100% tariffs against it for continuing to buy Russian oil.
+That could derail the trade talks, where India is seeking preferential tariffs from the U.S. that make its exports to Washington more competitive.
+The U.S. had imposed a 25% punitive tariff on India last August for buying Russian oil, raising the duties on imports from New Delhi to 50%. In February, duties were reduced to 18%, with Trump claiming India had "agreed to stop buying Russian Oil, and to buy much more from the United States and, potentially, Venezuela."
+New Delhi did not endorse those details shared by Trump, and it has maintained that ensuring energy security was the sole driver of its purchases.
+Since the start of the year, the U.S. and Venezuela combined have become important to India's energy basket, but given the global supply constraints due to the Iran war, India cannot spurn supplies from Moscow.
+"We may also be reaching the limits of trade complementarities between the two countries under current circumstances," Arpit Chaturvedi, South Asia advisor at strategic advisory firm Teneo, told CNBC.
+Neither side at present appears able to accommodate the other, nor are they yet in a "position to simply agree to disagree and conclude the deal around those differences," he said.
+Currently, Indian exports to the U.S. face a 10% tariff, following the conclusion of USTR's investigation into the acts, policies and practices of forced labor in 60 countries.
+As per the Indian government, a substantial share of the country's exports to the U.S., such as generic pharmaceuticals and smartphones, remain outside the scope of the 10% duty.`,
+    bodyJa: `U.S. trade representative Jamieson Greer on Thursday signaled that a deal with India was not on the cards soon, as Washington and New Delhi continue to hash out the finer points of a much-awaited agreement.
+"I don't think there is something imminent," Greer said in response to a query by Indian news agency ANI, adding that "we truly have identified the universe of items that are sticking points."
+His comments come just a day after U.S. President Donald Trump and Indian Prime Minister Narendra Modi's spoke over the phone, a call that Greer described as "very constructive." He also held bilateral meetings with Indian Commerce Minister Piyush Goyal, who is in the U.S. to negotiate the trade deal and to attend the G20 trade ministers meeting in Milwaukee.
+Goyal, in a social media post, seemed more upbeat about the negotiations as he underscored that discussions with Greer were around "early conclusion of a mutually beneficial interim agreement under the India-US Bilateral Trade Agreement."
+"Goyal is counting the issues already resolved, and Greer is counting the ones that remain," Ronak D. Desai, visiting fellow at Stanford's Hoover Institution, told CNBC, adding that the last issues in any trade deal were the hardest.
+For Washington, India's continued purchases of Russian oil remain an important point of friction, while for New Delhi, the priority is to protect the politically important parts of the agricultural sector and preferential tariffs that give it an advantage over peers, according to experts.
+Redlines of negotiation
+On Wednesday, Modi said his conversation with Trump was "productive," and the two leaders not only reviewed bilateral trade, defense, energy and critical technologies but also discussed "ongoing efforts to advance global peace and security."
+While the Iran war has threatened India's energy security, pushing it to increase its reliance on Russian oil, the U.S. administration believes that New Delhi's purchase of Moscow's barrels is funding the Ukraine war.
+The ties between the U.S. and India have been under strain for more than a year, and New Delhi faces fresh risk of Washington slapping up to 100% tariffs against it for continuing to buy Russian oil.
+That could derail the trade talks, where India is seeking preferential tariffs from the U.S. that make its exports to Washington more competitive.
+The U.S. had imposed a 25% punitive tariff on India last August for buying Russian oil, raising the duties on imports from New Delhi to 50%. In February, duties were reduced to 18%, with Trump claiming India had "agreed to stop buying Russian Oil, and to buy much more from the United States and, potentially, Venezuela."
+New Delhi did not endorse those details shared by Trump, and it has maintained that ensuring energy security was the sole driver of its purchases.
+Since the start of the year, the U.S. and Venezuela combined have become important to India's energy basket, but given the global supply constraints due to the Iran war, India cannot spurn supplies from Moscow.
+"We may also be reaching the limits of trade complementarities between the two countries under current circumstances," Arpit Chaturvedi, South Asia advisor at strategic advisory firm Teneo, told CNBC.
+Neither side at present appears able to accommodate the other, nor are they yet in a "position to simply agree to disagree and conclude the deal around those differences," he said.
+Currently, Indian exports to the U.S. face a 10% tariff, following the conclusion of USTR's investigation into the acts, policies and practices of forced labor in 60 countries.
+As per the Indian government, a substantial share of the country's exports to the U.S., such as generic pharmaceuticals and smartphones, remain outside the scope of the 10% duty.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/02/us-india-trade-modi-trump-russia-oil.html",
+    publishedAt: "2026-10-02T04:07:54+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "u-s-market-regulator-seeks-to-make-it-ea-46b45d01",
+    title: "U.S. market regulator seeks to make it easier for funds, advisers to hold crypto",
+    titleJa: "U.S. market regulator seeks to make it easier for funds, advisers to hold crypto",
+    summaryJa: "The SEC has proposed new rules that would make it easier for investment advisers and regulated funds to hold cryptocurrencies on behalf of clients.",
+    bodyOriginal: `The U.S. Securities and Exchange Commission has proposed new rules that would make it easier for investment advisers and regulated funds to hold cryptocurrencies on behalf of clients, as U.S. regulators push ahead with writing crypto rules after a sweeping legislation stalled in Congress.
+The proposal, announced Thursday stateside, would establish a tailored framework governing how registered investment advisers, investment companies and business development companies hold custody of crypto assets.
+The changes are aimed at modernizing decades-old custody requirements and removing regulatory barriers that the SEC says have limited advisers' ability to offer crypto-related investments.
+Under the proposed rules, crypto assets could be held in self-custody under "certain circumstances," while state trust companies could also serve as custodians for crypto assets belonging to clients and regulated funds.
+The changes could also give regulated funds greater scope to offer investors crypto-related investment strategies, according to the SEC.
+SEC Chairman Paul Atkins said existing regulations had failed to keep pace with the rapid expansion of digital assets, which have grown into a multi-trillion-dollar market.
+"Today’s proposal would provide a clear regulatory framework for the custody of crypto assets, giving investment advisers and funds a compliant pathway where none existed before," Atkins said.
+The proposal comes as U.S. regulators push ahead with building out a crypto rulebook under their existing authority after the Clarity Act, a sweeping crypto market structure bill, stalled in the Senate in September.
+That marks another step in the SEC's broader effort to rewrite the U.S. regulatory framework for digital assets under Atkins, and will be open for public comment for 60 days after it is published in the Federal Register.
+With broader crypto legislation stalling in Congress, regulators are exerting their existing powers to address individual parts of the market, said Jeff Ko, chief analyst at blockchain infrastructure service provider ViaBTC.
+"What we're increasingly seeing is the SEC using the authority it already has to solve individual bottlenecks one by one, issuance, tokenization, trading exemptions and now custody," he told CNBC via email.
+The changes could also increase competition among crypto custodians, potentially lowering the cost and complexity of investing in digital assets, he said, adding that institutional custody has historically been concentrated among a relatively small number of providers
+The regulatory push also comes as crypto markets show signs of renewed momentum following a volatile start to the year. Bitcoin has rebounded over 40% from its July low, as improving risk appetite have helped revive demand for digital assets.
+The recovery follows a prolonged downturn from late 2025 into the first half of 2026.`,
+    bodyJa: `The U.S. Securities and Exchange Commission has proposed new rules that would make it easier for investment advisers and regulated funds to hold cryptocurrencies on behalf of clients, as U.S. regulators push ahead with writing crypto rules after a sweeping legislation stalled in Congress.
+The proposal, announced Thursday stateside, would establish a tailored framework governing how registered investment advisers, investment companies and business development companies hold custody of crypto assets.
+The changes are aimed at modernizing decades-old custody requirements and removing regulatory barriers that the SEC says have limited advisers' ability to offer crypto-related investments.
+Under the proposed rules, crypto assets could be held in self-custody under "certain circumstances," while state trust companies could also serve as custodians for crypto assets belonging to clients and regulated funds.
+The changes could also give regulated funds greater scope to offer investors crypto-related investment strategies, according to the SEC.
+SEC Chairman Paul Atkins said existing regulations had failed to keep pace with the rapid expansion of digital assets, which have grown into a multi-trillion-dollar market.
+"Today’s proposal would provide a clear regulatory framework for the custody of crypto assets, giving investment advisers and funds a compliant pathway where none existed before," Atkins said.
+The proposal comes as U.S. regulators push ahead with building out a crypto rulebook under their existing authority after the Clarity Act, a sweeping crypto market structure bill, stalled in the Senate in September.
+That marks another step in the SEC's broader effort to rewrite the U.S. regulatory framework for digital assets under Atkins, and will be open for public comment for 60 days after it is published in the Federal Register.
+With broader crypto legislation stalling in Congress, regulators are exerting their existing powers to address individual parts of the market, said Jeff Ko, chief analyst at blockchain infrastructure service provider ViaBTC.
+"What we're increasingly seeing is the SEC using the authority it already has to solve individual bottlenecks one by one, issuance, tokenization, trading exemptions and now custody," he told CNBC via email.
+The changes could also increase competition among crypto custodians, potentially lowering the cost and complexity of investing in digital assets, he said, adding that institutional custody has historically been concentrated among a relatively small number of providers
+The regulatory push also comes as crypto markets show signs of renewed momentum following a volatile start to the year. Bitcoin has rebounded over 40% from its July low, as improving risk appetite have helped revive demand for digital assets.
+The recovery follows a prolonged downturn from late 2025 into the first half of 2026.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/02/sec-bitcoin-crypto-proposal.html",
+    publishedAt: "2026-10-02T03:49:50+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "openai-fires-workers-for-mishandling-sen-a367aacf",
+    title: "OpenAI fires workers for mishandling 'sensitive information'",
+    titleJa: "OpenAI fires workers for mishandling 'sensitive information'",
+    summaryJa: "The former employees were investigated for sharing data with an outside AI evaluation group.",
+    bodyOriginal: `OpenAI fires workers for mishandling 'sensitive information'
+- Published
+OpenAI has fired three researchers for allegedly mishandling information, including work that involved an external organisation that analyses artificial intelligence (AI) models.
+"Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work," a spokesperson told the BBC.
+The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm.
+The firings come as the debate over AI safety and the risks the technology may pose to humanity has intensified in recent weeks.
+"We have parted ways with three individuals for violating our policies on accessing and handling sensitive company information," OpenAI's spokesperson said.
+The BBC understands the former employees were not let go for raising safety concerns but for allegedly mishandling sensitive information.
+Concerns over AI safety have made headlines after some researchers and industry executives called for more guardrails around the technology.
+OpenAI has come under under intense scrutiny after its models went rogue and hacked several platforms, including Australian government websites.
+In an earlier incident an OpenAI system accessed the internet and breached the open-source developer platform Hugging Face.
+That incident led OpenAI to conduct a broad review of the activities of its AI models - called agents, which are designed to execute tasks autonomously based on simple instructions.
+The AI lab said this week that it has notified more than 100 organisations about incidents involving unauthoritised activity linked to its AI systems.
+Being notified "does not mean that any private information was accessed" or that a system was compromised, OpenAI said.
+Three takeaways from Trump's 'Super Intelligence' summit
+- Published2 days ago
+OpenAI says its rogue AI tried to hack other companies
+- Published29 July
+OpenAI scraps rollout of new model over safety concerns
+- Published2 days ago
+In September, researcher Jacob Coxon, who left Anthropic, called for AI development to slow down so its potential risks could be properly assessed.
+Anthropic boss Dario Amodei and OpenAI chief executive Sam Altman have also called for measures to address concerns over AI.
+On Tuesday, US President Donald Trump hosted a meeting of top technology bosses - including leaders from OpenAI, Anthropic, Nvidia, SpaceX, Meta and Google - to discuss AI.
+After the gathering at the White House, Trump posted a document that he called a "morally binding" agreement that would serve as a "form of protection" from AI's potential risks.
+Some technology experts criticised the pact, pointing out that it allowed AI companies to regulate themselves.
+Trump has repeatedly downplayed concerns about AI's risks in response to calls from some industry figures for tighter oversight of the technology.`,
+    bodyJa: `OpenAI fires workers for mishandling 'sensitive information'
+- Published
+OpenAI has fired three researchers for allegedly mishandling information, including work that involved an external organisation that analyses artificial intelligence (AI) models.
+"Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work," a spokesperson told the BBC.
+The ChatGPT-maker did not name the sacked workers, but at least two of them were involved in safety research at the firm.
+The firings come as the debate over AI safety and the risks the technology may pose to humanity has intensified in recent weeks.
+"We have parted ways with three individuals for violating our policies on accessing and handling sensitive company information," OpenAI's spokesperson said.
+The BBC understands the former employees were not let go for raising safety concerns but for allegedly mishandling sensitive information.
+Concerns over AI safety have made headlines after some researchers and industry executives called for more guardrails around the technology.
+OpenAI has come under under intense scrutiny after its models went rogue and hacked several platforms, including Australian government websites.
+In an earlier incident an OpenAI system accessed the internet and breached the open-source developer platform Hugging Face.
+That incident led OpenAI to conduct a broad review of the activities of its AI models - called agents, which are designed to execute tasks autonomously based on simple instructions.
+The AI lab said this week that it has notified more than 100 organisations about incidents involving unauthoritised activity linked to its AI systems.
+Being notified "does not mean that any private information was accessed" or that a system was compromised, OpenAI said.
+Three takeaways from Trump's 'Super Intelligence' summit
+- Published2 days ago
+OpenAI says its rogue AI tried to hack other companies
+- Published29 July
+OpenAI scraps rollout of new model over safety concerns
+- Published2 days ago
+In September, researcher Jacob Coxon, who left Anthropic, called for AI development to slow down so its potential risks could be properly assessed.
+Anthropic boss Dario Amodei and OpenAI chief executive Sam Altman have also called for measures to address concerns over AI.
+On Tuesday, US President Donald Trump hosted a meeting of top technology bosses - including leaders from OpenAI, Anthropic, Nvidia, SpaceX, Meta and Google - to discuss AI.
+After the gathering at the White House, Trump posted a document that he called a "morally binding" agreement that would serve as a "form of protection" from AI's potential risks.
+Some technology experts criticised the pact, pointing out that it allowed AI companies to regulate themselves.
+Trump has repeatedly downplayed concerns about AI's risks in response to calls from some industry figures for tighter oversight of the technology.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-02T01:34:56+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/136d/live/561b92b0-bdf9-11f1-a76b-bdcdab65a1b7.jpg",
+    readTime: 7,
+  },
+  {
+    id: "crypto-thieves-attack-man-in-home-and-th-72610f5d",
+    title: "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+    titleJa: "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+    summaryJa: "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
+    bodyOriginal: `Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery
+- Published
+Warning: This story contains distressing details
+A businessman was beaten with hammers by masked men who broke into his home and threatened to kill his heavily pregnant wife unless he transferred hundreds of thousands of pounds of cryptocurrency.
+Speaking to the BBC, the couple, who want to remain anonymous, described the attack as "horrific" and said they feared for their unborn baby's life.
+The attackers left in a car driven by a getaway driver after the man transferred his crypto savings.
+Crimestoppers are offering a £10,000 reward for information in the attack, which was captured on home security footage and is being investigated by the police.
+Experts say it is one of a growing type of violent theft known as a "wrench attack" targeting cryptocurrency investors.
+As crypto coins have risen in value, reports of these violent robberies linked to digital assets have emerged in the UK, France and the US.
+Once funds are transferred, recovering them can be extremely difficult.
+The man, who the BBC is calling James, said three intruders forced their way into their Solihull home before launching an assault which lasted 45 minutes.
+"The door gets pushed open, I can see gloves coming in, balaclavas," he said.
+James tried to fight the men off but they hit him in the face, head and ribs with hammers.
+His wife, who was seven months pregnant, was held down on the sofa by one of the criminals.
+"He's got a pillow over her face," James said. "He's literally suffocating her on the sofa. I can hear her screaming, 'I can't breathe'."
+The couple still had no idea what the criminals wanted until one of the men demanded James unlock his phone and hand it over.
+James said the attackers appeared to know he owned cryptocurrency, but had little understanding of how to access it.
+Instead, they were taking instructions from someone else connected via a live video call.
+"I can hear the guy on FaceTime saying: 'Show me everything on his phone. Show me what apps he's got'," he said.
+When the caller identified a crypto wallet containing substantial funds, the threats escalated dramatically.
+"He was basically saying: 'Look, if you don't send us this money now, we're going to stab your wife in the stomach and kill your baby. We're going to kill your wife'," James said.
+His wife, who also did not want to be named, described the attack that happened in December last year as "horrific" and said she feared James had been killed when he was unresponsive on the floor.
+"It was terrifying," she said.
+The woman, in her early thirties, was expecting her third child at the time and said she feared she might lose the baby due to the stress of the attack. The baby survived and was born at full term.
+The men left after James transferred his savings - hundreds of thousands of pounds of cryptocurrency - to the digital wallet of the man on the video call.
+They also stole several luxury Rolex watches.
+James said before they left, he heard the man on the video call tell his accomplices: "You can have 10 grand each but I am taking the rest."
+Rise of the 'wrench attack'
+Unlike money held in a conventional bank account, cryptocurrency is often controlled directly by the owner through digital wallets or physical storage devices.
+For criminals, that combination of speed, anonymity and irreversibility can make crypto holders attractive targets.
+Whilst the vast majority of cryptocurrency theft happens online through hacks and scams, crypto investigators at Chainalysis say "wrench attacks" have surged in recent years.
+According to their research, $30m (£22.6m) had been stolen so far this year up to June in violent robberies, making 2026 likely to become the single-worst year for violent crypto attacks on record. Home invasions are also on the rise this year, it found.
+The US, Brazil, and Thailand are hotspots but France has seen the largest number of attacks by far, as a result of a data breach at a tax office that has apparently allowed wealthy crypto holders to be located.
+"The physical security assumptions that protect traditional wealth, such as bank vaults and armored cars, do not automatically apply in crypto. Often, holders keep their assets in comparatively low security setups, like self-custody wallets, that can be compromised without any institutional gatekeeper standing in the way," said researchers in their report.
+James said he became an amateur investor in crypto coins in 2020 and made enough money to quit his job in 2023 to trade full time.
+Now he has lost everything and is looking to get back to his traditional job.
+Police have yet to identify the attackers.
+Crimestoppers is offering a £10,000 reward for information leading to progress in the investigation.
+Alan Edwards from the charity hopes people might have information about the three attackers, the driver who was parked outside without a face covering, or the man on the phone.
+"These criminals are obviously serious and part of some kind of organised crime gang," he said.
+"People might be scared to give us information but we are independent of the police and keep people completely anonymous."
+The three attackers are all thought to be in their late teens or early 20s and one of them was a black male with a scar under his left eyebrow.
+James said he has little hope of recovering the stolen funds, but instead wanted to see those responsible brought to justice.
+He also wants his experience to serve as a warning.
+"They threatened my wife and my baby," he said. "People need to understand these risks are real."
+Brutal crypto attack on couple prompts £10k reward
+- Published24 September
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
+    bodyJa: `Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery
+- Published
+Warning: This story contains distressing details
+A businessman was beaten with hammers by masked men who broke into his home and threatened to kill his heavily pregnant wife unless he transferred hundreds of thousands of pounds of cryptocurrency.
+Speaking to the BBC, the couple, who want to remain anonymous, described the attack as "horrific" and said they feared for their unborn baby's life.
+The attackers left in a car driven by a getaway driver after the man transferred his crypto savings.
+Crimestoppers are offering a £10,000 reward for information in the attack, which was captured on home security footage and is being investigated by the police.
+Experts say it is one of a growing type of violent theft known as a "wrench attack" targeting cryptocurrency investors.
+As crypto coins have risen in value, reports of these violent robberies linked to digital assets have emerged in the UK, France and the US.
+Once funds are transferred, recovering them can be extremely difficult.
+The man, who the BBC is calling James, said three intruders forced their way into their Solihull home before launching an assault which lasted 45 minutes.
+"The door gets pushed open, I can see gloves coming in, balaclavas," he said.
+James tried to fight the men off but they hit him in the face, head and ribs with hammers.
+His wife, who was seven months pregnant, was held down on the sofa by one of the criminals.
+"He's got a pillow over her face," James said. "He's literally suffocating her on the sofa. I can hear her screaming, 'I can't breathe'."
+The couple still had no idea what the criminals wanted until one of the men demanded James unlock his phone and hand it over.
+James said the attackers appeared to know he owned cryptocurrency, but had little understanding of how to access it.
+Instead, they were taking instructions from someone else connected via a live video call.
+"I can hear the guy on FaceTime saying: 'Show me everything on his phone. Show me what apps he's got'," he said.
+When the caller identified a crypto wallet containing substantial funds, the threats escalated dramatically.
+"He was basically saying: 'Look, if you don't send us this money now, we're going to stab your wife in the stomach and kill your baby. We're going to kill your wife'," James said.
+His wife, who also did not want to be named, described the attack that happened in December last year as "horrific" and said she feared James had been killed when he was unresponsive on the floor.
+"It was terrifying," she said.
+The woman, in her early thirties, was expecting her third child at the time and said she feared she might lose the baby due to the stress of the attack. The baby survived and was born at full term.
+The men left after James transferred his savings - hundreds of thousands of pounds of cryptocurrency - to the digital wallet of the man on the video call.
+They also stole several luxury Rolex watches.
+James said before they left, he heard the man on the video call tell his accomplices: "You can have 10 grand each but I am taking the rest."
+Rise of the 'wrench attack'
+Unlike money held in a conventional bank account, cryptocurrency is often controlled directly by the owner through digital wallets or physical storage devices.
+For criminals, that combination of speed, anonymity and irreversibility can make crypto holders attractive targets.
+Whilst the vast majority of cryptocurrency theft happens online through hacks and scams, crypto investigators at Chainalysis say "wrench attacks" have surged in recent years.
+According to their research, $30m (£22.6m) had been stolen so far this year up to June in violent robberies, making 2026 likely to become the single-worst year for violent crypto attacks on record. Home invasions are also on the rise this year, it found.
+The US, Brazil, and Thailand are hotspots but France has seen the largest number of attacks by far, as a result of a data breach at a tax office that has apparently allowed wealthy crypto holders to be located.
+"The physical security assumptions that protect traditional wealth, such as bank vaults and armored cars, do not automatically apply in crypto. Often, holders keep their assets in comparatively low security setups, like self-custody wallets, that can be compromised without any institutional gatekeeper standing in the way," said researchers in their report.
+James said he became an amateur investor in crypto coins in 2020 and made enough money to quit his job in 2023 to trade full time.
+Now he has lost everything and is looking to get back to his traditional job.
+Police have yet to identify the attackers.
+Crimestoppers is offering a £10,000 reward for information leading to progress in the investigation.
+Alan Edwards from the charity hopes people might have information about the three attackers, the driver who was parked outside without a face covering, or the man on the phone.
+"These criminals are obviously serious and part of some kind of organised crime gang," he said.
+"People might be scared to give us information but we are independent of the police and keep people completely anonymous."
+The three attackers are all thought to be in their late teens or early 20s and one of them was a black male with a scar under his left eyebrow.
+James said he has little hope of recovering the stolen funds, but instead wanted to see those responsible brought to justice.
+He also wants his experience to serve as a warning.
+"They threatened my wife and my baby," he said. "People need to understand these risks are real."
+Brutal crypto attack on couple prompts £10k reward
+- Published24 September
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-01T23:45:06+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc74/live/877de1e0-bdaa-11f1-babe-4199b0e7ccea.png",
+    readTime: 10,
+  },
+  {
+    id: "it-could-cost-me-10k-but-i-need-the-mon-b786d6c6",
+    title: "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
+    titleJa: "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
+    summaryJa: "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
+    bodyOriginal: `'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions
+- Published
+Until early September, Hassan Nassar, 26, was saving around £430 every month into his NHS workplace pension.
+But the trainee GP, who works in the West Midlands, says he was "really cash strapped" and decided to stop putting money aside for around "six to 12 months".
+He needs the money to help take care of a sick family member, save for his first home and cover rent and student loan repayments.
+But he's aware there is a cost to opting out, estimating he could lose between "£5,000 and £10,000" in future retirement income due to the decades of compound interest he will miss out on by not saving now.
+"People will say, you're silly, look at what you'll be missing out in the future," he tells the BBC. "But I need to look at what I'd be losing now if I didn't opt out."
+Future problems
+All employees will be automatically enrolled, external in a workplace pension if they are aged 22 or above and earn over £10,000, although there are exceptions.
+A percentage is taken directly from the worker's pay - usually around 5% - with tax relief added on top, and the employer must also pay a minimum contribution on top.
+But a growing number of Gen Z and millennials are opting out of these schemes due to cost-of-living pressures and the government has warned they could be on track for lower private pension incomes than people retiring today.
+That is a problem, because while most people in the UK will eventually get a state pension, it only provides a minimum level of retirement income and many will rely on a private pension to supplement it.
+Hassan says he was paying 10.7% of his gross earnings each month into his workplace pension, while the NHS contributed a substantial amount on top.
+But unlike some employers, the NHS doesn't allow staff to reduce their contributions when times are hard.
+Overall, however, he is confident he will have enough to retire on at the end of his "30-40" year career and is determined to opt back in to his pension as soon as he can.
+According to the Department for Work and Pensions (DWP), around 22.6 million people, or 90% of those who are eligible for "automatic enrolment" pensions, are paying into one, while about 2.5 million are not.
+However, Pensions Minister Torsten Bell told the BBC that "a rising number of young workers aren't saving, and overall there is a danger tomorrow's retirees are on track for lower private pension incomes than today's".
+According to DWP data, external:
+In the three months to December last year, 11.5% of eligible 22 to 29-year-olds who recently started a job opted out of their pensions. That's up from 6.6% in the same period of 2020.
+For 30 to 39-year-olds it's gone from 7.4% to 12.7%.
+'How can I save for a house?'
+Evie, 22, from Cornwall, says she opted out of entering the workplace pension at the London events company she works for.
+A recent drama school graduate, she says she would have struggled to cover her outgoings, including food, travel and the £800 she pays in rent.
+Evie is conscious about missing out on saving for retirement, but there are other things she needs money for that make it impractical right now.
+"How can I save for a house, how can I save for a car and afford my outgoings? I don't want to just work day in, day out to live, I want to work to have a life."
+'Think of your future self'
+April Leeson, from The Private Office, a chartered financial advice firm, says she would always advise people to not stop paying into their pensions if they can help it, even if that means reducing their contributions, which many employers allow you to do.
+This is partly because of the free employer contributions they will miss out on but also the lost compound interest.
+"The current minimum pension age is 57, so any money you save in your 20s will have at least 30 years to compound and grow.
+"£100 saved now, compounded at 4% a year over 30 years, is going to be worth a lot more than £100 saved in 15 to 20 years' time."
+She also urges younger people to think ahead. "You really need to think of your future self and what that person will need to retire comfortably."
+Kharlee, 47, a teacher from South East London, can certainly relate to this. She stopped her contributions to a workplace pension twice over the last five years for financial reasons.
+And she thinks she missed out on saving about £5,000 into her pension pot.
+She's in a better place financially now, but recently became self-employed and is no longer part of a private pension scheme, something she hopes to change.
+"I would like to feel my pension is secure, and I don't feel like that. I worry I'm not going to be able to live comfortably at the age of retirement."
+Get in touch
+Are you able to save money every month? Share your tips with us on how you do it.`,
+    bodyJa: `'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions
+- Published
+Until early September, Hassan Nassar, 26, was saving around £430 every month into his NHS workplace pension.
+But the trainee GP, who works in the West Midlands, says he was "really cash strapped" and decided to stop putting money aside for around "six to 12 months".
+He needs the money to help take care of a sick family member, save for his first home and cover rent and student loan repayments.
+But he's aware there is a cost to opting out, estimating he could lose between "£5,000 and £10,000" in future retirement income due to the decades of compound interest he will miss out on by not saving now.
+"People will say, you're silly, look at what you'll be missing out in the future," he tells the BBC. "But I need to look at what I'd be losing now if I didn't opt out."
+Future problems
+All employees will be automatically enrolled, external in a workplace pension if they are aged 22 or above and earn over £10,000, although there are exceptions.
+A percentage is taken directly from the worker's pay - usually around 5% - with tax relief added on top, and the employer must also pay a minimum contribution on top.
+But a growing number of Gen Z and millennials are opting out of these schemes due to cost-of-living pressures and the government has warned they could be on track for lower private pension incomes than people retiring today.
+That is a problem, because while most people in the UK will eventually get a state pension, it only provides a minimum level of retirement income and many will rely on a private pension to supplement it.
+Hassan says he was paying 10.7% of his gross earnings each month into his workplace pension, while the NHS contributed a substantial amount on top.
+But unlike some employers, the NHS doesn't allow staff to reduce their contributions when times are hard.
+Overall, however, he is confident he will have enough to retire on at the end of his "30-40" year career and is determined to opt back in to his pension as soon as he can.
+According to the Department for Work and Pensions (DWP), around 22.6 million people, or 90% of those who are eligible for "automatic enrolment" pensions, are paying into one, while about 2.5 million are not.
+However, Pensions Minister Torsten Bell told the BBC that "a rising number of young workers aren't saving, and overall there is a danger tomorrow's retirees are on track for lower private pension incomes than today's".
+According to DWP data, external:
+In the three months to December last year, 11.5% of eligible 22 to 29-year-olds who recently started a job opted out of their pensions. That's up from 6.6% in the same period of 2020.
+For 30 to 39-year-olds it's gone from 7.4% to 12.7%.
+'How can I save for a house?'
+Evie, 22, from Cornwall, says she opted out of entering the workplace pension at the London events company she works for.
+A recent drama school graduate, she says she would have struggled to cover her outgoings, including food, travel and the £800 she pays in rent.
+Evie is conscious about missing out on saving for retirement, but there are other things she needs money for that make it impractical right now.
+"How can I save for a house, how can I save for a car and afford my outgoings? I don't want to just work day in, day out to live, I want to work to have a life."
+'Think of your future self'
+April Leeson, from The Private Office, a chartered financial advice firm, says she would always advise people to not stop paying into their pensions if they can help it, even if that means reducing their contributions, which many employers allow you to do.
+This is partly because of the free employer contributions they will miss out on but also the lost compound interest.
+"The current minimum pension age is 57, so any money you save in your 20s will have at least 30 years to compound and grow.
+"£100 saved now, compounded at 4% a year over 30 years, is going to be worth a lot more than £100 saved in 15 to 20 years' time."
+She also urges younger people to think ahead. "You really need to think of your future self and what that person will need to retire comfortably."
+Kharlee, 47, a teacher from South East London, can certainly relate to this. She stopped her contributions to a workplace pension twice over the last five years for financial reasons.
+And she thinks she missed out on saving about £5,000 into her pension pot.
+She's in a better place financially now, but recently became self-employed and is no longer part of a private pension scheme, something she hopes to change.
+"I would like to feel my pension is secure, and I don't feel like that. I worry I'm not going to be able to live comfortably at the age of retirement."
+Get in touch
+Are you able to save money every month? Share your tips with us on how you do it.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-01T23:00:06+00:00",
+    category: "自動車",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/166e/live/9297b320-bcd4-11f1-9f83-d9975ff80416.png",
+    readTime: 10,
+  },
+  {
+    id: "the-wealthy-cuban-americans-ready-and-wa-03e5acd7",
+    title: "The wealthy Cuban Americans ready and waiting for Havana to fall",
+    titleJa: "The wealthy Cuban Americans ready and waiting for Havana to fall",
+    summaryJa: "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
+    bodyOriginal: `The wealthy Cuban Americans ready and waiting for Havana to fall
+- Published
+At the lavish home of one of Miami's top plastic surgeons, overlooking the Biscayne Bay, some of the wealthiest Cuban-American families in Florida have gathered.
+They are there to thrash out their vision of Cuba's future at the fourth meeting of the newly created Cuban-American National Chamber of Commerce (CANCC).
+Rum in hand and Rolexes on wrists, this is Miami's old money. People with well-recognised Cuban-American surnames – like Bacardi and Babun – chat around the pool about the lamentable state of the island's economy, and share titbits of gossip about the latest political rumblings.
+"The intention of this evening is to gather under one roof the most prominent Cuban-American entrepreneurs in Miami-Dade County," says CANCC president Juan Omar Sixto, "and the objective is to be in Cuba once the regime falls".
+His guests are convinced that moment is nigh.
+Millions without power as Cuba hit by latest major blackout
+- Published19 September
+US sanctions more Cuban companies and officials
+- Published21 August
+How the US oil blockade is pushing Cuba into darkness
+- Published26 June
+This influential community of Cuban exiles has detested the Communist-run government ever since the late revolutionary leader Fidel Castro expropriated their lands and nationalised their families' companies after taking power in 1959.
+And they have wielded their political and economic clout in Florida over the years to shape Washington's policies towards their homeland.
+Sixto fled the island as a teenager. Now a real estate developer in his early 80s, his organisation is drafting plans for what he calls "the day after" in Cuba.
+The CANCC has created a proposal for a Cuban Stock Exchange and formed committees on everything from energy infrastructure to food security.
+Post-Communist planning is nothing new in Miami.
+Countless documents and logistical plans have been drawn up by interest groups over the decades, some of them more sober and measured than others.
+The difference now, insists Sixto, is the Trump administration's push to force total change on the island. And he says they have the ear of some high-profile contacts including people close to the Secretary of State, Marco Rubio.
+"Together with deliveries of humanitarian aid and medical supplies, we'd go and do business in Cuba right away," says Sixto.
+In Cuba itself, such claims are mostly met with scepticism.
+In the face of Washington's "maximum pressure" campaign on Cuba, the island's leadership recently announced 176 economic liberalisation measures. The Cuban President, Miguel Díaz-Canel, said they were "to advance the defence of socialism, to support and widen social justice".
+To his critics, they look distinctly like full-blown capitalism - lifting the cap on the number of workers in a private business, allowing the direct hiring and firing of Cuban employees and permitting ownership of multiple enterprises at once, including by Cuban Americans.
+Still, the attendees at the CANCC meeting dismissed the economic reforms as cosmetic, saying they gave no meaningful guarantees to investors. They would "not put a foot into Cuba", Sixto said, while the current regime remained in place.
+Some analysts think such planning meetings are premature. Although Cuban Americans are convinced that change is imminent in Cuba, none can say with any certainty what it will be - a US military operation as seen in Venezuela in January? Or a new economic pact with the island's leadership?
+"Right now, the very high expectations created by the US administration that some kind of 'day after' was coming soon, or that Cuba would 'be next' have been kicked down the road," says Mike Bustamante, associate professor of history at the University of Miami.
+With the November mid-term elections in the US approaching and the Trump administration embroiled in the "quagmire" of the Iran war, Bustamante argues there is little appetite for further foreign adventures.
+"It's really tough to think that they will escalate further than what they're doing which is this drip-drip-drip of sanctions."
+With the island's oil supply effectively shut off since January, that is already a significant escalation, says Mike Bustamente. Although they have made life unbearable for most ordinary people, they haven't yet "created the ingredients for a political inflection point" in Cuba, he adds.
+The Cuban government has not commented on the CANCC itself. But traditionally such groups prompt indignation among revolutionaries who insist they will not be forced out by their critics in Miami.
+I ask some guests if they can appreciate the irony that the same people who support a major source of the island's misery – the decades-long US economic embargo and the current fuel blockade – are now hatching plans for its reconstruction, without the input of most Cubans.
+For Cuban-American agricultural expert Hugo Orizondo it is only practical to draw up a road map to Cuban development. "Right now, Cuba is like a black hole, we don't know what is happening over there," he admits. "But we do know the potential [for investment]."
+Orizondo says he understands the reticence among Cubans to see foreign investors buying up something as sensitive as the rights to arable land. "But what are they going to do with it?" he retorts. "When investors come, they bring money and technology into the land."
+Both are urgently needed, he says, if Cuba is ever to produce enough to feed its own population and break its reliance on food imports.
+Land titles lie at the heart of any reconstruction project put forward by this generation of wealthy Cuban Americans. Juan Omar Sixto says his father lost five properties and a farm in Cuba's Pinar del Rio province to the revolution. While he insists he has no intention of removing any family living in those homes, he does want compensation for the nationalised land.
+"I worked on that farm for five years of my life with my father, and they took it away. I want restitution or compensation. Even if they give me just a penny on the dollar, I'll take it."
+"It's moral justice," he argues.
+The Cuban government portrays such historic title claims as bitterness by a corrupt landed gentry who made fortunes on the backs of indentured workers and slaves. Both slavery and the system of indentured workers didn't end in Cuba until the late 19th Century.
+The government also argues that the exiles could never stand that Castro passed land reforms which handed over their fields to the workers and the state.
+"Most of our sugar mills have been dismantled, but we will recover those lands and put them into production," says Nicolás Gutiérrez, the president of the National Association of Sugar Mill Owners of Cuba, an exile organisation championing the title claims.
+"I'm not promising it will be in sugar," he says.
+"It might be in ethanol, co-generation, solar panels or water purification cells. Who knows? There are a lot of different options," he remarks. "We need to get them producing, we need to have a real wage paid to Cuban workers and create a multiplier economic effect across the island."
+With the ice clinking in their drinks and a cool breeze rustling the palm trees on the perfectly manicured lawn, the CANCC members make it sound easy. But within hours of their gathering, Cuba had descended into its sixth nationwide blackout this year.
+The disconnection between the hopes for change in Miami and the realities on the ground in Cuba is stark. Many Miami-based Cubans think the monumental shift they have prayed for is almost here.
+If so, it will inevitably bring huge social and humanitarian disruption which the stricken island is ill-equipped to cope with. Even assuming the diaspora's support is well-intentioned rather than purely self-interested, fixing the island's failing electrical grid alone is estimated to cost $8bn to $10bn (£6bn to £7.5bn).
+Before any industry in Cuba – from agriculture to tourism – can be revitalised by the exiles' wealth and political connections, Cubans continue to face acute shortages in food, water, fuel and medicines. Miami's ambitious plans aside, most Cubans just hope their days get a little easier sometime soon.`,
+    bodyJa: `The wealthy Cuban Americans ready and waiting for Havana to fall
+- Published
+At the lavish home of one of Miami's top plastic surgeons, overlooking the Biscayne Bay, some of the wealthiest Cuban-American families in Florida have gathered.
+They are there to thrash out their vision of Cuba's future at the fourth meeting of the newly created Cuban-American National Chamber of Commerce (CANCC).
+Rum in hand and Rolexes on wrists, this is Miami's old money. People with well-recognised Cuban-American surnames – like Bacardi and Babun – chat around the pool about the lamentable state of the island's economy, and share titbits of gossip about the latest political rumblings.
+"The intention of this evening is to gather under one roof the most prominent Cuban-American entrepreneurs in Miami-Dade County," says CANCC president Juan Omar Sixto, "and the objective is to be in Cuba once the regime falls".
+His guests are convinced that moment is nigh.
+Millions without power as Cuba hit by latest major blackout
+- Published19 September
+US sanctions more Cuban companies and officials
+- Published21 August
+How the US oil blockade is pushing Cuba into darkness
+- Published26 June
+This influential community of Cuban exiles has detested the Communist-run government ever since the late revolutionary leader Fidel Castro expropriated their lands and nationalised their families' companies after taking power in 1959.
+And they have wielded their political and economic clout in Florida over the years to shape Washington's policies towards their homeland.
+Sixto fled the island as a teenager. Now a real estate developer in his early 80s, his organisation is drafting plans for what he calls "the day after" in Cuba.
+The CANCC has created a proposal for a Cuban Stock Exchange and formed committees on everything from energy infrastructure to food security.
+Post-Communist planning is nothing new in Miami.
+Countless documents and logistical plans have been drawn up by interest groups over the decades, some of them more sober and measured than others.
+The difference now, insists Sixto, is the Trump administration's push to force total change on the island. And he says they have the ear of some high-profile contacts including people close to the Secretary of State, Marco Rubio.
+"Together with deliveries of humanitarian aid and medical supplies, we'd go and do business in Cuba right away," says Sixto.
+In Cuba itself, such claims are mostly met with scepticism.
+In the face of Washington's "maximum pressure" campaign on Cuba, the island's leadership recently announced 176 economic liberalisation measures. The Cuban President, Miguel Díaz-Canel, said they were "to advance the defence of socialism, to support and widen social justice".
+To his critics, they look distinctly like full-blown capitalism - lifting the cap on the number of workers in a private business, allowing the direct hiring and firing of Cuban employees and permitting ownership of multiple enterprises at once, including by Cuban Americans.
+Still, the attendees at the CANCC meeting dismissed the economic reforms as cosmetic, saying they gave no meaningful guarantees to investors. They would "not put a foot into Cuba", Sixto said, while the current regime remained in place.
+Some analysts think such planning meetings are premature. Although Cuban Americans are convinced that change is imminent in Cuba, none can say with any certainty what it will be - a US military operation as seen in Venezuela in January? Or a new economic pact with the island's leadership?
+"Right now, the very high expectations created by the US administration that some kind of 'day after' was coming soon, or that Cuba would 'be next' have been kicked down the road," says Mike Bustamante, associate professor of history at the University of Miami.
+With the November mid-term elections in the US approaching and the Trump administration embroiled in the "quagmire" of the Iran war, Bustamante argues there is little appetite for further foreign adventures.
+"It's really tough to think that they will escalate further than what they're doing which is this drip-drip-drip of sanctions."
+With the island's oil supply effectively shut off since January, that is already a significant escalation, says Mike Bustamente. Although they have made life unbearable for most ordinary people, they haven't yet "created the ingredients for a political inflection point" in Cuba, he adds.
+The Cuban government has not commented on the CANCC itself. But traditionally such groups prompt indignation among revolutionaries who insist they will not be forced out by their critics in Miami.
+I ask some guests if they can appreciate the irony that the same people who support a major source of the island's misery – the decades-long US economic embargo and the current fuel blockade – are now hatching plans for its reconstruction, without the input of most Cubans.
+For Cuban-American agricultural expert Hugo Orizondo it is only practical to draw up a road map to Cuban development. "Right now, Cuba is like a black hole, we don't know what is happening over there," he admits. "But we do know the potential [for investment]."
+Orizondo says he understands the reticence among Cubans to see foreign investors buying up something as sensitive as the rights to arable land. "But what are they going to do with it?" he retorts. "When investors come, they bring money and technology into the land."
+Both are urgently needed, he says, if Cuba is ever to produce enough to feed its own population and break its reliance on food imports.
+Land titles lie at the heart of any reconstruction project put forward by this generation of wealthy Cuban Americans. Juan Omar Sixto says his father lost five properties and a farm in Cuba's Pinar del Rio province to the revolution. While he insists he has no intention of removing any family living in those homes, he does want compensation for the nationalised land.
+"I worked on that farm for five years of my life with my father, and they took it away. I want restitution or compensation. Even if they give me just a penny on the dollar, I'll take it."
+"It's moral justice," he argues.
+The Cuban government portrays such historic title claims as bitterness by a corrupt landed gentry who made fortunes on the backs of indentured workers and slaves. Both slavery and the system of indentured workers didn't end in Cuba until the late 19th Century.
+The government also argues that the exiles could never stand that Castro passed land reforms which handed over their fields to the workers and the state.
+"Most of our sugar mills have been dismantled, but we will recover those lands and put them into production," says Nicolás Gutiérrez, the president of the National Association of Sugar Mill Owners of Cuba, an exile organisation championing the title claims.
+"I'm not promising it will be in sugar," he says.
+"It might be in ethanol, co-generation, solar panels or water purification cells. Who knows? There are a lot of different options," he remarks. "We need to get them producing, we need to have a real wage paid to Cuban workers and create a multiplier economic effect across the island."
+With the ice clinking in their drinks and a cool breeze rustling the palm trees on the perfectly manicured lawn, the CANCC members make it sound easy. But within hours of their gathering, Cuba had descended into its sixth nationwide blackout this year.
+The disconnection between the hopes for change in Miami and the realities on the ground in Cuba is stark. Many Miami-based Cubans think the monumental shift they have prayed for is almost here.
+If so, it will inevitably bring huge social and humanitarian disruption which the stricken island is ill-equipped to cope with. Even assuming the diaspora's support is well-intentioned rather than purely self-interested, fixing the island's failing electrical grid alone is estimated to cost $8bn to $10bn (£6bn to £7.5bn).
+Before any industry in Cuba – from agriculture to tourism – can be revitalised by the exiles' wealth and political connections, Cubans continue to face acute shortages in food, water, fuel and medicines. Miami's ambitious plans aside, most Cubans just hope their days get a little easier sometime soon.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-01T23:00:05+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f157/live/3b2f3340-bca9-11f1-a3e9-bbda6f9b9e25.jpg",
+    readTime: 10,
+  },
+  {
     id: "us-says-europe-should-ready-fuel-supplie-0b3a4091",
     title: "US says Europe should ready fuel supplies as Trump threatens diesel ban",
     titleJa: "US says Europe should ready fuel supplies as Trump threatens diesel ban",
@@ -1720,670 +2330,6 @@ But the region's oil supplies could face disruption again as stalemated diplomac
     publishedAt: "2026-09-30T20:16:17+00:00",
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "private-sector-jobs-rose-by-90-000-in-se-68106043",
-    title: "Private sector jobs rose by 90,000 in September, better than expected, ADP reports",
-    titleJa: "Private sector jobs rose by 90,000 in September, better than expected, ADP reports",
-    summaryJa: "Private job creation picked up in September after a brief slowdown, providing further indication that the U.S. labor market has stabilized, according to an ADP report Wednesday.The payrolls processing firm said company employment rose by 90,000 for the month, higher than the downwardly revised 36,000 in August and better than the Dow Jones consensus estimate for 68,000.",
-    bodyOriginal: `Private job creation picked up in September after a brief slowdown, providing further indication that the U.S. labor market has stabilized, according to an ADP report Wednesday.
-The payrolls processing firm said company employment rose by 90,000 for the month, higher than the downwardly revised 36,000 in August and better than the Dow Jones consensus estimate for 68,000.
-There also was a fair amount of balance in the report, with service providers adding 59,000 positions while goods producers contributed 31,000.
-Base pay rose 3.2% from a year ago, while gross pay accelerated by 4.7%.
-"It's a strong report," said ADP chief economist Nela Richardson. "After a three-month slowdown, job
-creation rebounded and pay growth remained solid."
-Education and health services contributed the most, with 55,000 new hires. Other areas of growth included leisure and hospitality (22,000), manufacturing (17,000) and construction (15,000).
-A handful of sectors saw job losses, including financial activities (-16,000), professional and business services (-11,000) and natural resources and mining (-1,000).
-Much of the employment growth came from the Northeast, which added 56,000. By size, companies with between 50 and 499 workers saw a gain of 54,000.
-Broadly, the report helped confirm sentiment expressed by multiple Federal Reserve officials that the labor market is mostly sound following a growth scare in 2025. Policymakers see the greater policy risk now as the persistent inflation that pushed central bankers to raise benchmark borrowing rates by a quarter percentage point earlier in September.
-The ADP count serves as a precursor to the nonfarm payrolls report that the Bureau of Labor Statistics will release Friday. The Wall Street consensus is for a gain of 84,000 jobs, down from a 162,000 increase the prior month, and the unemployment rate to hold steady at 4.1%.`,
-    bodyJa: `Private job creation picked up in September after a brief slowdown, providing further indication that the U.S. labor market has stabilized, according to an ADP report Wednesday.
-The payrolls processing firm said company employment rose by 90,000 for the month, higher than the downwardly revised 36,000 in August and better than the Dow Jones consensus estimate for 68,000.
-There also was a fair amount of balance in the report, with service providers adding 59,000 positions while goods producers contributed 31,000.
-Base pay rose 3.2% from a year ago, while gross pay accelerated by 4.7%.
-"It's a strong report," said ADP chief economist Nela Richardson. "After a three-month slowdown, job
-creation rebounded and pay growth remained solid."
-Education and health services contributed the most, with 55,000 new hires. Other areas of growth included leisure and hospitality (22,000), manufacturing (17,000) and construction (15,000).
-A handful of sectors saw job losses, including financial activities (-16,000), professional and business services (-11,000) and natural resources and mining (-1,000).
-Much of the employment growth came from the Northeast, which added 56,000. By size, companies with between 50 and 499 workers saw a gain of 54,000.
-Broadly, the report helped confirm sentiment expressed by multiple Federal Reserve officials that the labor market is mostly sound following a growth scare in 2025. Policymakers see the greater policy risk now as the persistent inflation that pushed central bankers to raise benchmark borrowing rates by a quarter percentage point earlier in September.
-The ADP count serves as a precursor to the nonfarm payrolls report that the Bureau of Labor Statistics will release Friday. The Wall Street consensus is for a gain of 84,000 jobs, down from a 162,000 increase the prior month, and the unemployment rate to hold steady at 4.1%.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/30/private-sector-jobs-rose-by-90000-in-september-better-than-expected-adp-reports.html",
-    publishedAt: "2026-09-30T12:24:21+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "openai-follows-meta-into-the-red-hot-mar-b8bd72ab",
-    title: "OpenAI follows Meta into the red-hot market for personal agents. But will users pay?",
-    titleJa: "OpenAI follows Meta into the red-hot market for personal agents. But will users pay?",
-    summaryJa: "Following Meta's blockbuster release of its Muse AI agent earlier this month, OpenAI jumped into the personal agent market with Dots.",
-    bodyOriginal: `Following Meta's blockbuster release of its Muse AI agent earlier this month, OpenAI jumped into the personal agent market on Tuesday with Dots, setting the stage for what could be the next big battle in the artificial intelligence market.
-At its annual DevDay developer conference, OpenAI described Dots as "always-on" agents designed to help users complete a range of tasks. Since the release of Muse three weeks ago, investors have rallied around Meta, sending the stock up 29% in September, on pace for its best month since 2013.
-That level of enthusiasm underscores the power of personal agents and the promise that consumers and office workers will be able to use the technology to book travel, pay bills, respond to emails and perform many more tasks. But OpenAI's entry, arriving soon after the launch of Muse, serves as a reminder that the AI market includes a handful of large companies all converging around the same types of products with little ability to lock in users.
-Google calls its Gemini Spark offering "your 24/7 personal AI agent" for help, and Apple is trying to step up its position in the AI battle with its redesigned Siri AI, which it describes as "a profoundly more capable and personal assistant."
-"I think what we are watching is an inevitable evolution of the technology," said John Waldmann, CEO of HR tech startup Homebase and a user of various AI agent-related tools. "It's probably no surprise that it's all happening around the same time."
-It's not just the big companies that see the opportunity.
-AI assistant startup Instinct announced Monday that it raised $1 billion from venture firms including Sequoia at a $10 billion valuation. And another startup, Town, is reportedly looking at a $1 billion valuation.
-Town CEO Jean-Denis Grèze told CNBC in a statement that OpenAI's debut of Dots, "continues to validate the category and the need for work assistants."
-"It's been our focus at Town from the very beginning," Grèze said, adding that he welcomes the competition.
-On Tuesday, all eyes were on OpenAI, as investors and AI enthusiasts anticipated what the ChatGPT creator would unveil in the wake of last week's Meta Connect developer conference. There, Meta announced forthcoming AI devices, including a pendant, and CEO Mark Zuckerberg called Muse the "centerpiece" of the company's AI strategy.
-Taking the stage in San Francisco for DevDay, Altman called Dots "remarkably capable" and "built to handle really anything you can think of." Although developers could already use OpenAI's existing tools to manage scores of AI agents for various office tasks, Dots promises to be an easier way for workers to use powerful digital assistants to help with tools like Slack and Microsoft Teams.
-More uplifting than AI safety
-The rush of new agents hitting the market offers a more uplifting story for AI companies at a time when the leading labs are facing intensifying scrutiny due to emerging concerns that the most advanced models are at risk of spinning out of human control.
-On Tuesday, as Altman was attending DevDay, his second-in-command, Greg Brockman, was in Washington for a lunch that President Donald Trump was hosting for top technology leaders. The topic was AI safety, and the event came more than two weeks after Anthropic CEO Dario Amodei sent shock waves across the industry, writing an essay urging AI companies to slow the pace of frontier model development.
-Nick Deveau, CEO of AI sales startup GrottoAI, is a fan of AI agent tools like Instinct and sees the vision as companies start building them for a wider audience.
-"The interesting thing about all of these, which I think has become apparent really quickly and is evidenced by some of the valuations, is that people see this as the first successful proof point of true agentic work hitting consumers," Deveau said.
-There's still the question of whether consumers will pay. Meta's Muse is free with a usage limit and can be purchased starting at $20 a month after that. OpenAI's Dots is only available starting at the $100 per month Pro plan and higher.
-And even with Muse racking up millions of downloads across app stores, that doesn't mean people are actively using it or other AI agents, Waldmann said.
-"People will try it, but is it really adding value?" Waldmann said. "Is it part of a daily habit?"
-Thomas Randall, a research director at the Info-Tech Research Group, said in an email that "the race is on," as AI companies search to figure out how consumers want to use agents and what will keep them coming back.
-"Once leading systems are broadly capable, the winner will likely be determined by which agent is the easiest to adopt, the most connected, and the hardest to leave," Randall said. "We'll see who's distribution will gather steam first."`,
-    bodyJa: `Following Meta's blockbuster release of its Muse AI agent earlier this month, OpenAI jumped into the personal agent market on Tuesday with Dots, setting the stage for what could be the next big battle in the artificial intelligence market.
-At its annual DevDay developer conference, OpenAI described Dots as "always-on" agents designed to help users complete a range of tasks. Since the release of Muse three weeks ago, investors have rallied around Meta, sending the stock up 29% in September, on pace for its best month since 2013.
-That level of enthusiasm underscores the power of personal agents and the promise that consumers and office workers will be able to use the technology to book travel, pay bills, respond to emails and perform many more tasks. But OpenAI's entry, arriving soon after the launch of Muse, serves as a reminder that the AI market includes a handful of large companies all converging around the same types of products with little ability to lock in users.
-Google calls its Gemini Spark offering "your 24/7 personal AI agent" for help, and Apple is trying to step up its position in the AI battle with its redesigned Siri AI, which it describes as "a profoundly more capable and personal assistant."
-"I think what we are watching is an inevitable evolution of the technology," said John Waldmann, CEO of HR tech startup Homebase and a user of various AI agent-related tools. "It's probably no surprise that it's all happening around the same time."
-It's not just the big companies that see the opportunity.
-AI assistant startup Instinct announced Monday that it raised $1 billion from venture firms including Sequoia at a $10 billion valuation. And another startup, Town, is reportedly looking at a $1 billion valuation.
-Town CEO Jean-Denis Grèze told CNBC in a statement that OpenAI's debut of Dots, "continues to validate the category and the need for work assistants."
-"It's been our focus at Town from the very beginning," Grèze said, adding that he welcomes the competition.
-On Tuesday, all eyes were on OpenAI, as investors and AI enthusiasts anticipated what the ChatGPT creator would unveil in the wake of last week's Meta Connect developer conference. There, Meta announced forthcoming AI devices, including a pendant, and CEO Mark Zuckerberg called Muse the "centerpiece" of the company's AI strategy.
-Taking the stage in San Francisco for DevDay, Altman called Dots "remarkably capable" and "built to handle really anything you can think of." Although developers could already use OpenAI's existing tools to manage scores of AI agents for various office tasks, Dots promises to be an easier way for workers to use powerful digital assistants to help with tools like Slack and Microsoft Teams.
-More uplifting than AI safety
-The rush of new agents hitting the market offers a more uplifting story for AI companies at a time when the leading labs are facing intensifying scrutiny due to emerging concerns that the most advanced models are at risk of spinning out of human control.
-On Tuesday, as Altman was attending DevDay, his second-in-command, Greg Brockman, was in Washington for a lunch that President Donald Trump was hosting for top technology leaders. The topic was AI safety, and the event came more than two weeks after Anthropic CEO Dario Amodei sent shock waves across the industry, writing an essay urging AI companies to slow the pace of frontier model development.
-Nick Deveau, CEO of AI sales startup GrottoAI, is a fan of AI agent tools like Instinct and sees the vision as companies start building them for a wider audience.
-"The interesting thing about all of these, which I think has become apparent really quickly and is evidenced by some of the valuations, is that people see this as the first successful proof point of true agentic work hitting consumers," Deveau said.
-There's still the question of whether consumers will pay. Meta's Muse is free with a usage limit and can be purchased starting at $20 a month after that. OpenAI's Dots is only available starting at the $100 per month Pro plan and higher.
-And even with Muse racking up millions of downloads across app stores, that doesn't mean people are actively using it or other AI agents, Waldmann said.
-"People will try it, but is it really adding value?" Waldmann said. "Is it part of a daily habit?"
-Thomas Randall, a research director at the Info-Tech Research Group, said in an email that "the race is on," as AI companies search to figure out how consumers want to use agents and what will keep them coming back.
-"Once leading systems are broadly capable, the winner will likely be determined by which agent is the easiest to adopt, the most connected, and the hardest to leave," Randall said. "We'll see who's distribution will gather steam first."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/30/openai-follows-meta-into-the-red-hot-market-for-personal-agents.html",
-    publishedAt: "2026-09-30T12:04:46+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "trump-s-meeting-with-tech-leaders-leaves-32bb1e6a",
-    title: "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
-    titleJa: "Trump's meeting with tech leaders leaves AI safety more unsettled than ever",
-    summaryJa: "Following Trump's lunch with AI leaders at the White House, the industry remains largely unchanged on AI safety.",
-    bodyOriginal: `After President Donald Trump's lunch with AI leaders on Tuesday, the leading artificial intelligence companies are right where they were before: policing themselves.
-Trump hosted top execs from Alphabet, Meta, SpaceX, Nvidia, Palantir, Anthropic, OpenAI, and other companies following a three-week stretch during which the topic of AI safety turned into an intense nationwide debate, with leading industry researchers and executives warning of the extreme threats posed by the most powerful models.
-But while the concerns voiced this month by the likes of Anthropic CEO Dario Amodei have led many policymakers and industry experts to demand government regulation, Trump has steadfastly opposed any such moves, and called AI fears a "hoax."
-On Tuesday, Trump brought leaders to the White House to sign a two-page document, including one with signatures, that he shared on his Truth Social account. It was titled, "White House Accord on Super Intelligence: Joint Commitment on Frontier Responsibilities."
-The document says that the group believes "every company is responsible for developing its own technology safely and in a way that builds trust with customers and the public." Signatories included some of the same people who have been insisting that, in the absence of a coordinated safety effort, their technology can't be trusted.
-"You saw two weeks ago almost all those same CEOs say they should be regulated," said Bradley Tusk, CEO of Tusk Ventures, in an interview on CNBC's "Closing Bell Overtime" on Tuesday. "It's not because they fundamentally believe in the power of the state. They want something that creates an equalizer for each other."
-The four action items in the document call for each company to establish "robust" internal monitoring of models, have an internal team that ensures the controls are working, partner with outside auditors or evaluators, and designate an independent committee of the board to oversee the internal team.
-"Over time, it may make sense to codify these steps into laws or regulations," the last paragraph begins. When asked by reporters outside the White House if the rules are binding, Trump said they're "morally binding."
-Trump wasn't just holding the event to promote the new accord. Separately, he said he signed a document purporting to "officially" change the name of AI to "super intelligence," trying to push through a rebrand after crowdsourcing a new name on social media last week.
-'This is a start'
-While tech companies aren't likely to swap out their use of the AI acronym anytime soon, their top leaders, after Tuesday's lunch, were quick to voice their support for Trump's broader effort. It's been a consistent theme during Trump's second term as corporate America, particularly the tech industry, attempts to stay out of the president's crosshairs.
-Meta CEO Mark Zuckerberg told reporters that the agreement is designed to "give the American people and our customers confidence that the technology works in the way we intend."
-"The idea isn't that this is the only thing that we'll ever do," Zuckerberg said. "It is that this is a start and an accord that the whole industry can come to."
-Compared to his peers like Amodei and OpenAI CEO Sam Altman, Zuckerberg has been more in the camp of self-regulation, alongside Nvidia CEO Jensen Huang. Days after Amodei's explosive essay earlier this month urging AI labs to "pace the frontier," Zuckerberg wrote in a post on X that "trust and alignment are quickly becoming the most important capabilities that will differentiate agents and models."
-Amodei, who's had a rocky relationship with the White House but had dinner with Trump late last week, offered a fairly innocuous comment to the group of reporters after the signing, saying, "If we do this right, if we work with the president and everyone here we can win safely."
-And Alphabet's Sundar Pichai described the moment as "historic and consequential."
-But with the concerns surrounding high-profile security breaches escalating, and public sentiment towards AI companies turning decidedly sour heading into the November mid-term elections, calls for regulation are only likely to grow louder.
-According to Verasight's September national survey, 63% of respondents said AI should slow down while only 5% said it should accelerate.
-Sen. Mark Warner, D-Va., said on Tuesday that he's introduced legislation to require "rigorous testing and evaluation" of leading AI technology and to strengthen security and reporting "before the most powerful models are deployed."
-"The companies building the most powerful AI systems are warning us that the technology is advancing faster than our safeguards," Warner said in a release. "The president's response? To rename it and tell the companies developing it to regulate themselves. But changing what we call artificial intelligence does nothing to address the very real risks that come with increasingly powerful AI systems."
-—CNBC's Kevin Breuninger, Samantha Subin and Lora Kolodny contributed to this report`,
-    bodyJa: `After President Donald Trump's lunch with AI leaders on Tuesday, the leading artificial intelligence companies are right where they were before: policing themselves.
-Trump hosted top execs from Alphabet, Meta, SpaceX, Nvidia, Palantir, Anthropic, OpenAI, and other companies following a three-week stretch during which the topic of AI safety turned into an intense nationwide debate, with leading industry researchers and executives warning of the extreme threats posed by the most powerful models.
-But while the concerns voiced this month by the likes of Anthropic CEO Dario Amodei have led many policymakers and industry experts to demand government regulation, Trump has steadfastly opposed any such moves, and called AI fears a "hoax."
-On Tuesday, Trump brought leaders to the White House to sign a two-page document, including one with signatures, that he shared on his Truth Social account. It was titled, "White House Accord on Super Intelligence: Joint Commitment on Frontier Responsibilities."
-The document says that the group believes "every company is responsible for developing its own technology safely and in a way that builds trust with customers and the public." Signatories included some of the same people who have been insisting that, in the absence of a coordinated safety effort, their technology can't be trusted.
-"You saw two weeks ago almost all those same CEOs say they should be regulated," said Bradley Tusk, CEO of Tusk Ventures, in an interview on CNBC's "Closing Bell Overtime" on Tuesday. "It's not because they fundamentally believe in the power of the state. They want something that creates an equalizer for each other."
-The four action items in the document call for each company to establish "robust" internal monitoring of models, have an internal team that ensures the controls are working, partner with outside auditors or evaluators, and designate an independent committee of the board to oversee the internal team.
-"Over time, it may make sense to codify these steps into laws or regulations," the last paragraph begins. When asked by reporters outside the White House if the rules are binding, Trump said they're "morally binding."
-Trump wasn't just holding the event to promote the new accord. Separately, he said he signed a document purporting to "officially" change the name of AI to "super intelligence," trying to push through a rebrand after crowdsourcing a new name on social media last week.
-'This is a start'
-While tech companies aren't likely to swap out their use of the AI acronym anytime soon, their top leaders, after Tuesday's lunch, were quick to voice their support for Trump's broader effort. It's been a consistent theme during Trump's second term as corporate America, particularly the tech industry, attempts to stay out of the president's crosshairs.
-Meta CEO Mark Zuckerberg told reporters that the agreement is designed to "give the American people and our customers confidence that the technology works in the way we intend."
-"The idea isn't that this is the only thing that we'll ever do," Zuckerberg said. "It is that this is a start and an accord that the whole industry can come to."
-Compared to his peers like Amodei and OpenAI CEO Sam Altman, Zuckerberg has been more in the camp of self-regulation, alongside Nvidia CEO Jensen Huang. Days after Amodei's explosive essay earlier this month urging AI labs to "pace the frontier," Zuckerberg wrote in a post on X that "trust and alignment are quickly becoming the most important capabilities that will differentiate agents and models."
-Amodei, who's had a rocky relationship with the White House but had dinner with Trump late last week, offered a fairly innocuous comment to the group of reporters after the signing, saying, "If we do this right, if we work with the president and everyone here we can win safely."
-And Alphabet's Sundar Pichai described the moment as "historic and consequential."
-But with the concerns surrounding high-profile security breaches escalating, and public sentiment towards AI companies turning decidedly sour heading into the November mid-term elections, calls for regulation are only likely to grow louder.
-According to Verasight's September national survey, 63% of respondents said AI should slow down while only 5% said it should accelerate.
-Sen. Mark Warner, D-Va., said on Tuesday that he's introduced legislation to require "rigorous testing and evaluation" of leading AI technology and to strengthen security and reporting "before the most powerful models are deployed."
-"The companies building the most powerful AI systems are warning us that the technology is advancing faster than our safeguards," Warner said in a release. "The president's response? To rename it and tell the companies developing it to regulate themselves. But changing what we call artificial intelligence does nothing to address the very real risks that come with increasingly powerful AI systems."
-—CNBC's Kevin Breuninger, Samantha Subin and Lora Kolodny contributed to this report`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/30/after-trump-meeting-with-tech-leaders-ai-safety-in-more-chaotic-state.html",
-    publishedAt: "2026-09-30T12:03:23+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "greggs-to-shut-four-factories-and-cut-74-96601a32",
-    title: "Greggs to shut four factories and cut 740 jobs",
-    titleJa: "Greggs to shut four factories and cut 740 jobs",
-    summaryJa: "The company says it needs to \"keep evolving alongside changing customer expectations\".",
-    bodyOriginal: `Greggs to shut four factories and cut 740 jobs
-- Published
-High street bakery brand Greggs has announced plans to shut four of its factories and cut 740 jobs.
-It plans to close manufacturing sites at North Lakes near Penrith, Cumbria, Pettigrews in Kelso, Scotland, Seaham in County Durham and Enfield, Greater London, though distribution operations would continue to run from the latter.
-The proposals will also impact manufacturing operations at its Treforest site in Wales, but this will also continue as a distribution centre for the business.
-The chain, which has headquarters in Newcastle, said its retail shops would not be affected by the proposed changes and like-for-like sales had grown across its managed stores.
-The changes would take place over the next two and a half years, with parts of Greggs' manufacturing processes relocating, the firm said.
-The range of products manufactured at its Clydesmill Glasgow and Manchester locations would be reduced and production of tinned bread at Gosforth would be stopped.
-Some products would also be sourced from specialist suppliers.
-The general secretary of the Bakers, Food and Allied Workers Union (BFAWU) Sarah Woolley said the union was "deeply concerned" about the announcement.
-She said: "Our immediate priority is our members, their jobs, their families and the communities that could be affected by these proposals."
-She added Greggs was clear in its own announcement the business continued to "perform strongly".
-'No decisions made'
-Greggs said positive trading and continued cost control means it expected a "modestly improved outcome" for 2026.
-Like-for-like sales grew by 3.4% across its managed stores, with overall growth buoyed by the opening of new shops.
-Woolley said Greggs' workers had played a "huge part" in getting the company where it is.
-She said: "Against that backdrop, our members will understandably be asking why their jobs and livelihoods should now be put at risk in the name of efficiency and future progression."
-But chief executive Roisin Currie said the company needed to "keep evolving alongside changing customer expectations".
-She said: "Greggs manufacturing and logistics network remains a key strength of the business, and these proposals are intended to strengthen our manufacturing network, improve efficiency and ensure we remain well placed for the future while continuing to deliver the quality, value and service our customers expect."
-The firm employs 33,000 people in the UK, the majority working in its stores.
-A consultation with staff is expected to start soon and the company said "no final decisions" had been made yet.
-The shake-up is expected to cost the firm about £60m, including disruption costs and redundancy payments.
-It said the plans would save it about £20m across the 2028 and 2029 financial years.
-The retail business said its sales grew by 7.7% in the three months to September 26, compared with the same period a year earlier.
-It said this represented progress in the face of "challenging market conditions", as consumer finances continued to come under pressure.
-The company said positive trading and continued cost control meant it expected a "modestly improved outcome" for 2026.
-Greggs opened 95 new shops and closed 38 in the year to date, taking its overall estate to 2,796 shops.
-Follow BBC North East on X, external and Facebook, external and BBC Cumbria on X, external and Facebook, external and both on Nextdoor and Instagram, external.
-Get in touch
-Do you have a story suggestion for BBC North East & Cumbria?
-- Published24 September 2025
-- Published16 September`,
-    bodyJa: `Greggs to shut four factories and cut 740 jobs
-- Published
-High street bakery brand Greggs has announced plans to shut four of its factories and cut 740 jobs.
-It plans to close manufacturing sites at North Lakes near Penrith, Cumbria, Pettigrews in Kelso, Scotland, Seaham in County Durham and Enfield, Greater London, though distribution operations would continue to run from the latter.
-The proposals will also impact manufacturing operations at its Treforest site in Wales, but this will also continue as a distribution centre for the business.
-The chain, which has headquarters in Newcastle, said its retail shops would not be affected by the proposed changes and like-for-like sales had grown across its managed stores.
-The changes would take place over the next two and a half years, with parts of Greggs' manufacturing processes relocating, the firm said.
-The range of products manufactured at its Clydesmill Glasgow and Manchester locations would be reduced and production of tinned bread at Gosforth would be stopped.
-Some products would also be sourced from specialist suppliers.
-The general secretary of the Bakers, Food and Allied Workers Union (BFAWU) Sarah Woolley said the union was "deeply concerned" about the announcement.
-She said: "Our immediate priority is our members, their jobs, their families and the communities that could be affected by these proposals."
-She added Greggs was clear in its own announcement the business continued to "perform strongly".
-'No decisions made'
-Greggs said positive trading and continued cost control means it expected a "modestly improved outcome" for 2026.
-Like-for-like sales grew by 3.4% across its managed stores, with overall growth buoyed by the opening of new shops.
-Woolley said Greggs' workers had played a "huge part" in getting the company where it is.
-She said: "Against that backdrop, our members will understandably be asking why their jobs and livelihoods should now be put at risk in the name of efficiency and future progression."
-But chief executive Roisin Currie said the company needed to "keep evolving alongside changing customer expectations".
-She said: "Greggs manufacturing and logistics network remains a key strength of the business, and these proposals are intended to strengthen our manufacturing network, improve efficiency and ensure we remain well placed for the future while continuing to deliver the quality, value and service our customers expect."
-The firm employs 33,000 people in the UK, the majority working in its stores.
-A consultation with staff is expected to start soon and the company said "no final decisions" had been made yet.
-The shake-up is expected to cost the firm about £60m, including disruption costs and redundancy payments.
-It said the plans would save it about £20m across the 2028 and 2029 financial years.
-The retail business said its sales grew by 7.7% in the three months to September 26, compared with the same period a year earlier.
-It said this represented progress in the face of "challenging market conditions", as consumer finances continued to come under pressure.
-The company said positive trading and continued cost control meant it expected a "modestly improved outcome" for 2026.
-Greggs opened 95 new shops and closed 38 in the year to date, taking its overall estate to 2,796 shops.
-Follow BBC North East on X, external and Facebook, external and BBC Cumbria on X, external and Facebook, external and both on Nextdoor and Instagram, external.
-Get in touch
-Do you have a story suggestion for BBC North East & Cumbria?
-- Published24 September 2025
-- Published16 September`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm7802ylq973o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-30T11:47:22+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fad1/live/985534f0-bca6-11f1-a3e9-bbda6f9b9e25.jpg",
-    readTime: 9,
-  },
-  {
-    id: "inside-man-how-chinese-spies-used-lies-l-134b9b1b",
-    title: "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
-    titleJa: "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
-    summaryJa: "A CNBC investigation shows how former Fed advisor John Rogers became entangled with a man U.S. officials identify as a Chinese intelligence operative.",
-    bodyOriginal: `John Harold Rogers was walking Prada, his tiny spaniel, past a school bus stop in his suburban Washington neighborhood when FBI agents surrounded him. They handcuffed the former senior Federal Reserve official and took him into custody to face charges of spying for China.
-An agent took Prada's leash, and investigators from multiple federal agencies began an intensive search of Rogers' house.
-The now 65-year-old economist was arrested in January 2025, days before he was set to travel to China with his wife, a Chinese national, and their 6-year-old daughter. Investigators believed that Rogers passed information about the Fed to a Chinese government spy, who, over more than a decade, helped him with his career, his finances and his marriage to a woman 24 years his junior.
-The facts of this case read like a spy novel.Nicholas HunterFederal prosecutor
-Rogers' descent from senior Fed official to espionage suspect appears to have been driven by his desire for female companionship. This desire was exploited by a Chinese government agent, who became increasingly entwined in Rogers' professional and personal life. Rogers' indiscretion was later exploited by online blackmail scammers, ultimately leading to his downfall.
-"The facts of this case read like a spy novel," federal prosecutor Nicholas Hunter told the jury at Rogers' trial in 2026. "There was sex. There was money, manipulation, secret meetings with shady characters in China, fake identities, lies, trickery, and deceit. But this was real life. The events of this case all happened."
-The crucial question, though, was whether Rogers was a spy or a dupe for Chinese intelligence. His lawyers argued that he didn't pass any information of value to the Chinese and that he was just a naive academic who got caught up in espionage.
-A CNBC investigation of the Rogers case has yielded a trove of information not previously made public, including text messages, audio recordings made by investigators, copies of the secret Fed documents Rogers was accused of accessing, and dozens of photographs of Rogers, the Chinese spy and the young Chinese woman who would become Rogers' second wife. This story is based on those materials as well as interviews, testimony, and documents and images produced in court proceedings.
-Rogers declined to be interviewed for this story.
-Officials at the Federal Reserve and the Fed's Office of Inspector General declined to comment.
-U.S. Attorney for the District of Columbia Jeanine Pirro, whose office prosecuted Rogers, said: "John Rogers spent years secretly funneling sensitive Federal Reserve information to Chinese spies, then looked investigators in the eye and lied about it. And when that wasn't enough, he lied again under oath at trial."
-Jonathan Gitlen, an attorney for Rogers, told CNBC that the economist did not lie under oath.
-The Chinese spy
-Rogers first met the man U.S. officials identify as a Chinese government spy in 2013 at a conference in Shanghai sponsored by the Federal Reserve Bank of Dallas on the campus of Fudan University, one of China's elite colleges.
-During a session break, a tall, broad-shouldered young Chinese man approached Rogers and introduced himself as Hummin Lee, a Ph.D. student. The U.S. government believes Lee's real name is Jin Chuan and that he is a Chinese spy.
-Ralph Goff, a retired 35-year veteran of the Central Intelligence Agency, believes the Chinese government might have been tracking Rogers well before he met Lee in Shanghai. Goff, who did not play a role in the Rogers investigation but has decades of experience cultivating sources for espionage, said Rogers would have been a valuable target, given his role as senior advisor overseeing research in the Fed's international finance division, which gave him an inside view of one of the most important and impenetrable financial institutions in the world.
-The Chinese government's interest may have been piqued by Rogers' behavior on dating apps. Rogers, a single father whose four children had grown up and moved away, was lonely and spending time on a website called AsianDating.com. He was sending nude photos to people he met online.
-Lee and Rogers kept in touch over email and connected on Facebook, giving Lee a peek into Rogers' personal life, including photos of his family.
-It also gave Rogers a small peek at Lee. On Facebook, Lee's account displayed a picture of the young Chinese man from behind, rippling shoulders framed in a weight lifter's tank top. Another showed Lee on the floor of a gym in chocolate-chip camouflage pants, doing a situp while a German shepherd holds down his feet. Lee had just six friends on Facebook.
-Over the years, Lee wished Rogers a happy birthday. He sent him Christmas gifts, including a copy of Sun Tzu's "The Art of War" and a set of silk scarves. Lee also invited Rogers to lecture at universities in China.
-After Donald Trump was elected president in 2016, Lee emailed Rogers about a Christmas gift he had just sent — a traditional Chinese painting. And then he asked a pointed question about the new administration: "It seems Donald Trump not friendly to China," Lee wrote. "Some news said he will mark China as a currency manipulator, will that be true? Do you have any comments about this? Have a great Christmas Day."
-In his reply, Rogers didn't answer the question. "Merry Christmas to you too, Hummin," he wrote. "You are so kind, as always. I did not yet receive your kind gift but will let you know when I do."
-Romance in China
-A week later, on New Year's Eve, Rogers was home alone. He would later say that on that night he "kind of felt like a loser." Late in the evening, he logged on to AsianDating.com.
-There, he encountered a young woman in Shanghai with a beautiful smile: Yu Liu, known as Yu Yu. Rogers thought she had lovely eyes.
-The two exchanged photos and talked about their goals for the future. Soon, they were discussing building a new life together. Rogers did not speak Chinese. But Yu Yu's messages were so well written that Rogers believed that she spoke excellent English. Later he learned that she didn't speak the language at all.
-Rogers' budding romance with Yu Yu changed his relationship with Lee. Suddenly, the American economist was eager to travel to China, where he would be able to meet the woman with the beautiful smile.
-Goff said Chinese intelligence was likely aware of the meeting. "If this woman wasn't a plant by Chinese intelligence into that web dating site, then I'm sure that they had a meeting with her soon after that contact," Goff said. He said Chinese intelligence could have told Yu Yu to pursue the relationship.
-It is unclear whether Yu Yu has any links to the Chinese government. CNBC attempted to contact Yu Yu at her home and provided a detailed list of questions to her, but she has not responded.
-The following May, Rogers accepted an invitation from Lee to lecture at two universities in China. On that trip, Rogers met Yu Yu in person for the first time. The couple had to rely on smartphone apps to communicate with one another, but that didn't slow down the relationship.
-When he returned to the United States, Rogers' text messages with Yu Yu had turned to talk of marriage and babies. Rogers wrote: "I am lonely without Yuyu."
-Soon, Rogers wrote to Lee proposing that he be invited back to teach classes at Chinese universities — and to spend a few days in Shanghai, where Yu Yu lived.
-Lee replied by email, delighted to accommodate the Federal Reserve economist. "Of course it's a great plan for us," Lee wrote. "We always look forward to listening to your presentation. ... Your related expenses in China will all be covered by us." Lee got to work providing documents for Rogers to use in his visa application to travel to China.
-Lee arranged for Rogers to return to China in October 2017. Lee managed the itinerary, set up lectures, and arranged for Rogers and Yu Yu to travel by train together between Chinese cities.
-On that trip, the second time Rogers had seen Yu Yu in person, she became pregnant. After landing back in the United States, Rogers sent Yu Yu a text message: "I want to marry you. Will you marry me, sweetheart?"
-Yu Yu replied: "God told me: Marrying John is right!"
-The couple began planning for a wedding in Hong Kong. The next month, Yu Yu texted Rogers with a picture of her pregnancy test. Rogers replied, "I am so happy YuYu. To be a father again is the best thing that could ever happen to me. I love you so much."
-'That guy seemed to know everything'
-The pregnancy and wedding planning made Rogers more dependent on Lee. The American needed travel assistance, help navigating the bureaucracy and funding for his trip. Lee came through for him. "That guy seemed to know everything," Rogers later told Fed investigators.
-While Lee was getting more involved in Rogers' increasingly complicated life, he was also asking for information about the inner workings of the Fed. Rogers pushed back, saying he didn't have much to share. He said later that he'd told Lee, "I don't have any knowledge, nor does any economist at the Fed have any knowledge in addition to what we put on the website."
-Lee introduced Rogers to his boss, whom he called Professor Cui. It was this boss, Lee said, who authorized funds for Rogers' travel and who set up invitations for Rogers to lecture in China.
-Cui pressed Rogers for rumors and gossip about the Fed and offered him packets of cash, which Rogers said he turned down. Rogers said in court that Cui played the role of bad cop to Lee's good cop.
-Much later, when federal agents searched Rogers' home, they would find $55,000 in cash, some of which was in a white plastic grocery bag at the bottom of a closet mixed in with a pile of women's clothing. According to trial testimony, investigators were unable to establish where the cash came from.
-Rogers' life, though, was growing increasingly complicated and expensive. At one point Lee wrote to Rogers: "Yu Yu said she needs 5,000 before you come back. So I wired 5,000 to her. Used my own money. Don't worry."
-Rogers needed more help, and cash, for Yu Yu to get a divorce from her then-husband, who was demanding 80,000 yuan — currently about $12,000 — to sign the papers. Rogers offered 10,000 yuan.
-Lee promised he would get the divorce papers signed. "Go to sleep and take a good rest man," Lee wrote to Rogers.
-Just over seven hours later, Lee texted Rogers photos of a newly issued divorce certificate. "Yuyu got the divorce certificate!" Lee wrote.
-"This is the best waking up message I have ever received," Rogers replied.
-Rogers and Yu Yu married in Hong Kong in March 2018. Lee had planned logistics and important details of the wedding — and he signed the prenuptial agreement between Rogers and Yu Yu as a witness. "Thank goodness I've got you assisting with everything! Yuyu and I would be sunk without you," Rogers wrote to Lee.
-When Yu Yu's due date approached in the summer of 2018, Rogers took paternity leave from the Fed and flew to China to be present for the birth of his new daughter. Lee met him at the airport and accompanied Rogers and Yu Yu to the hospital for the birth.
-Rogers was also aware that Lee, now supposedly an economics professor at a Chinese university, had an unusually intense interest in him. The Chinese economist was a "super nice guy but so nice it was a little bit spooky," Rogers told Fed investigators.
-Rogers had fallen in love with China itself. On his phone, he carried a lengthy love letter of sorts that he wrote to the nation. It began: "Dear Chinese people, I love your kindness, your generosity, your humbly hardworking high-achieving society."
-Yu Yu and their baby eventually moved to Rogers' home in Virginia.
-I owe everything to [Hummin Lee] ... And I love him like a brother.John RogersFormer Federal Reserve official
-Rogers later acknowledged to investigators that he was deeply indebted to Lee. "I owe everything to him. The baby wouldn't have happened, the relationship with my wife wouldn't have happened, despite the fact that we met online, it just would not have happened without him. And I love him like a brother."
-The hunt for Fed secrets
-Lee's efforts to get information about the Fed from Rogers appeared to intensify. Lee arranged regular trips for Rogers to travel to China to conduct classes, although the sessions often took place in hotel rooms, with just a handful of attendees. The topics included specific aspects of the Fed's oversight of the U.S. economy.
-At one point, Lee messaged Rogers images of a document that contained a list of typed questions, including: "The Fed raised interest rates several times during the past two years. Why is the dollar not showing significant changes in appreciation, but has always been at a low level?" And "How does the Fed evaluate China's financial liberalization, especially the openness of the stock market and exchange rate?"
-At the bottom of the document were questions about Trump: "How does the Fed evaluate the trade war with China proposed by Trump? Will the Fed adjust monetary policy to cooperate with the trade war? What specific measures will the Fed take?"
-In his message to Rogers, Lee said: "I'm wondering if you could help us collect answers from your colleagues or documents and teach us when we meet."
-Rogers testified at his trial that the questions were harmless. "These were bread-and-butter classic questions in international finance and macroeconomics, and they not only could be addressed without using any sort of Fed sensitive information, but these questions have been addressed in the literature for dozens of years," he said.
-After receiving the question list, Rogers emailed two colleagues inside the Fed, looking for answers. "I am wondering if you can point me to some readings on the Fed and China. I am traveling to a conference in Beijing soon," Rogers wrote. "I want to be helpful to my very generous hosts, of course, but I never seem able to provide them with the right material. Part of it, I think, is that they want me to reveal some kind of Fed secrets they believe exist."
-Part of it, I think, is that they want me to reveal some kind of Fed secrets they believe exist.John RogersFormer Federal Reserve official, referring to his Chinese 'hosts' in an email to two Fed colleagues
-Rogers asked the colleagues to provide material he could "appropriately share" with the Chinese.
-A colleague responded with two attachments, one of which was labeled "Nonconfidential/Internal FR," with "FR" standing for "Federal Reserve."
-Rogers, a federal agent would later testify, changed the heading on that document to "Nonconfidential/External" and sent it on to Lee.
-Rogers' attorneys said that as a senior Fed official, Rogers had the authority to use his judgment to change the heading on the document, because he had also removed any sensitive information from it.
-In October 2018, Rogers suggested to Lee that their next class could focus on "Trade policy uncertainty."
-Later he emailed a colleague, asking for Fed material on trade policy uncertainty. He wrote to his colleague: "Could you give me: One, the three-sentences description of our current thinking, and/or, number two, anything in writing that is allowed to be shared? If there is something in writing that is not allowed to be shared, please send that just for me to catch up."
-The colleague forwarded Rogers a document on washing machine tariffs. Just how secret the information in that document was — or whether it was a secret at all — would later become a point of contention between prosecutors and Rogers' lawyers in court.
-Rogers forwarded the document to his personal Gmail account and from there sent it to Lee.
-The next June, Rogers printed out two documents, one of which came from a category that generally applied to economic forecasts prepared by the Fed's staff for its interest rate setting committee and for operations where the Fed buys and sells bonds, according to Fed guidelines. These are among the most sensitive activities for the Fed. The other was a set of bullet points for a briefing that a Federal Reserve economist was set to give to Fed governors before a Federal Open Market Committee meeting. The next day Rogers boarded a flight to China.
-Three days later, Rogers took a picture of a class in session in a hotel room in Beijing. In the picture were three people: Hummin Lee, another man and a woman, all dressed in T-shirts and posing by a large video monitor. Lee and the other man, prosecutors said later, worked for Chinese security and intelligence services.
-A marriage unravels
-Back at home, Rogers' relationship with Yu Yu was beginning to disintegrate. Moving from Shanghai to Vienna, Virginia, and raising a baby in unfamiliar surroundings had been an enormous change. "She had a very difficult time adjusting to the new life, and understandably," Rogers later testified. "I was very, very sympathetic." Their relationship became turbulent.
-By early 2019, Rogers and Yu Yu were fighting by text message. Yu Yu demanded more money from Rogers, and Rogers said he'd given enough — including paying for Yu Yu's parents' apartment.
-Yu Yu also claimed Rogers was seeing other women. "You need to take responsibility for your wife and a new baby!" she wrote. "You have too many girlfriends."
-Soon, local police were involved. Rogers had invited another woman to live in his home. Gitlen later told CNBC that she was a masseuse who had treated Rogers for back problems.
-Verbal fights between the two women devolved into a physical brawl. Yu Yu and Rogers told Vienna police that Yu Yu had been assaulted. Yu Yu said the woman scratched her face and breast and pulled her hair. An officer asked Rogers about his relationship with the other woman. "I swear to God we're just friends," Rogers told the police.
-But the breakdown of Rogers' relationship with Yu Yu was complete. Rogers said Yu Yu moved into a guest room in his house.
-In his renewed loneliness, Rogers once again turned to the internet. This time it would lead to his downfall.
-Blackmail and trial
-On Instagram, Rogers exchanged messages with accounts featuring beautiful women, eventually exchanging nude photos of himself taken with his Fed-issued phone, sometimes in the gym at Fed headquarters in Washington.
-Soon, the people behind the accounts began demanding money. They told Rogers they knew where he worked, what kind of car he drove. They threatened to send Rogers' nudes to the vice chair of the Fed, Richard Clarida. They threatened to kidnap Rogers' then-18-month-old daughter. Rogers would testify that all of this had him "very scared and wanting to protect my family."
-This was the breaking point. In 2020, on Super Bowl Sunday, Rogers told higher-ups what had been going on. They referred Rogers to the Fed's Office of Inspector General.
-Rogers was already on the Inspector General's radar, and the Fed's cybersecurity team had concerns about Rogers' travel to China and his relationship with Lee.
-Rogers met with Alan Hershkowitz, a special agent at the Office of Inspector General responsible for criminal investigations, for a voluntary meeting that stretched to 2½ hours. "My brain is a little frazzled," Rogers can be heard saying on a recording of the conversation.
-On the recording, when the topic turns to nude photos, Rogers breathes heavily and lets out several loud sighs as he struggles to explain how the scammers got the photos. "Of course, one wracks his brain about 'how did this happen, what did I do wrong,'" Rogers said.
-"Serious question, and we have to ask it," Hershkowitz said. "Are there nude photos, have you ever taken a nude photo of yourself?"
-"No," replied Rogers.
-Pressing further, Hershkowitz told Rogers that the information was important in determining whether the scammers' threats were real. Rogers sighed again and said, "I can't rule it out."
-Soon the conversation turned to China and Rogers' relationships with Yu Yu and Lee.
-All of the book smarts he had, all of the articles in his resume, they don't prepare you for spies.Stephen SaltzburgAttorney for John Rogers
-Then Hershkowitz asked: "Did you ever provide or share any restricted [Fed Board of Governors] information?" He detailed several types of information deemed confidential at the Fed. "Did you share or provide any of this information with anyone else outside of the board?"
-Rogers responded: "Never."
-Prosecutors would later allege that was a lie. They could prove he had sent such a document — not to Lee, but to a co-author at Fudan University in Shanghai. Rogers' attorneys would argue that although "never" was a false statement, it wasn't made knowingly and willfully — that Rogers was emotional about the nude pictures and the blackmail and couldn't remember every document he sent over the years.
-The incident effectively ended Rogers' career as a Fed economist. He was placed on administrative leave and resigned in lieu of termination in the spring of 2021.
-The circumstances of his departure — the years of Chinese contacts, the nude pictures at the Fed — were not made public.
-Soon after he left the Fed, Rogers began teaching classes at Fudan University — the same university he had visited when he first met Lee in 2013. He believed the case against him had ended.
-He was wrong. The Fed had taken the case to the FBI, and more than three years later its agents surrounded Rogers and his dog at the school bus stop.
-He was charged with one count of making false statements to investigators and one count of conspiracy to commit economic espionage, the far more serious charge.
-Rogers' trial began in January 2026.
-Prosecutors at his trial called Rogers a traitor who "conspired with spies in China to provide secret information from the U.S. Federal Reserve worth untold sums of money to the People's Republic of China."
-Stephen Saltzburg, an attorney for Rogers, argued that Rogers trusted the wrong people. "All of the book smarts he had, all of the articles in his resume, they don't prepare you for spies."
-On Feb. 3, the jury found Rogers guilty on the charge of making false statements but acquitted him on the charge of conspiracy to commit economic espionage.
-On July 15, he was sentenced to 38 months in federal prison.
-The same day, a report by the Fed's Inspector General said the central bank had several security problems, including the lack of "a process to identify its critical assets," and that it needed a program to manage insider risks.
-In another report, published Sept. 24, the Inspector General's office revealed that a Fed employee in 2024 transferred potentially sensitive information outside the Fed just before retiring, exposing deficiencies in the Fed's ability to secure information.
-To CIA veteran Goff, the Rogers case represents a victory for the U.S. government, even though Rogers wasn't convicted of spying. "I think they won out in the end, but it shouldn't have taken that long."
-Asked if he believes the Chinese are still trying to penetrate the Fed, Goff replied: "Absolutely."
-Three weeks after Goff's comment, the FBI and the Justice Department announced they had taken down a vast China state-sponsored hacking operation that targeted sensitive American institutions, including the Federal Reserve.
-At the end of his testimony, Rogers was asked who he believed Lee was.
-"A spy," Rogers responded.
-"And knowing that, how does that make you feel?" he was asked.
-"Duped," Rogers said. "He was my friend."`,
-    bodyJa: `John Harold Rogers was walking Prada, his tiny spaniel, past a school bus stop in his suburban Washington neighborhood when FBI agents surrounded him. They handcuffed the former senior Federal Reserve official and took him into custody to face charges of spying for China.
-An agent took Prada's leash, and investigators from multiple federal agencies began an intensive search of Rogers' house.
-The now 65-year-old economist was arrested in January 2025, days before he was set to travel to China with his wife, a Chinese national, and their 6-year-old daughter. Investigators believed that Rogers passed information about the Fed to a Chinese government spy, who, over more than a decade, helped him with his career, his finances and his marriage to a woman 24 years his junior.
-The facts of this case read like a spy novel.Nicholas HunterFederal prosecutor
-Rogers' descent from senior Fed official to espionage suspect appears to have been driven by his desire for female companionship. This desire was exploited by a Chinese government agent, who became increasingly entwined in Rogers' professional and personal life. Rogers' indiscretion was later exploited by online blackmail scammers, ultimately leading to his downfall.
-"The facts of this case read like a spy novel," federal prosecutor Nicholas Hunter told the jury at Rogers' trial in 2026. "There was sex. There was money, manipulation, secret meetings with shady characters in China, fake identities, lies, trickery, and deceit. But this was real life. The events of this case all happened."
-The crucial question, though, was whether Rogers was a spy or a dupe for Chinese intelligence. His lawyers argued that he didn't pass any information of value to the Chinese and that he was just a naive academic who got caught up in espionage.
-A CNBC investigation of the Rogers case has yielded a trove of information not previously made public, including text messages, audio recordings made by investigators, copies of the secret Fed documents Rogers was accused of accessing, and dozens of photographs of Rogers, the Chinese spy and the young Chinese woman who would become Rogers' second wife. This story is based on those materials as well as interviews, testimony, and documents and images produced in court proceedings.
-Rogers declined to be interviewed for this story.
-Officials at the Federal Reserve and the Fed's Office of Inspector General declined to comment.
-U.S. Attorney for the District of Columbia Jeanine Pirro, whose office prosecuted Rogers, said: "John Rogers spent years secretly funneling sensitive Federal Reserve information to Chinese spies, then looked investigators in the eye and lied about it. And when that wasn't enough, he lied again under oath at trial."
-Jonathan Gitlen, an attorney for Rogers, told CNBC that the economist did not lie under oath.
-The Chinese spy
-Rogers first met the man U.S. officials identify as a Chinese government spy in 2013 at a conference in Shanghai sponsored by the Federal Reserve Bank of Dallas on the campus of Fudan University, one of China's elite colleges.
-During a session break, a tall, broad-shouldered young Chinese man approached Rogers and introduced himself as Hummin Lee, a Ph.D. student. The U.S. government believes Lee's real name is Jin Chuan and that he is a Chinese spy.
-Ralph Goff, a retired 35-year veteran of the Central Intelligence Agency, believes the Chinese government might have been tracking Rogers well before he met Lee in Shanghai. Goff, who did not play a role in the Rogers investigation but has decades of experience cultivating sources for espionage, said Rogers would have been a valuable target, given his role as senior advisor overseeing research in the Fed's international finance division, which gave him an inside view of one of the most important and impenetrable financial institutions in the world.
-The Chinese government's interest may have been piqued by Rogers' behavior on dating apps. Rogers, a single father whose four children had grown up and moved away, was lonely and spending time on a website called AsianDating.com. He was sending nude photos to people he met online.
-Lee and Rogers kept in touch over email and connected on Facebook, giving Lee a peek into Rogers' personal life, including photos of his family.
-It also gave Rogers a small peek at Lee. On Facebook, Lee's account displayed a picture of the young Chinese man from behind, rippling shoulders framed in a weight lifter's tank top. Another showed Lee on the floor of a gym in chocolate-chip camouflage pants, doing a situp while a German shepherd holds down his feet. Lee had just six friends on Facebook.
-Over the years, Lee wished Rogers a happy birthday. He sent him Christmas gifts, including a copy of Sun Tzu's "The Art of War" and a set of silk scarves. Lee also invited Rogers to lecture at universities in China.
-After Donald Trump was elected president in 2016, Lee emailed Rogers about a Christmas gift he had just sent — a traditional Chinese painting. And then he asked a pointed question about the new administration: "It seems Donald Trump not friendly to China," Lee wrote. "Some news said he will mark China as a currency manipulator, will that be true? Do you have any comments about this? Have a great Christmas Day."
-In his reply, Rogers didn't answer the question. "Merry Christmas to you too, Hummin," he wrote. "You are so kind, as always. I did not yet receive your kind gift but will let you know when I do."
-Romance in China
-A week later, on New Year's Eve, Rogers was home alone. He would later say that on that night he "kind of felt like a loser." Late in the evening, he logged on to AsianDating.com.
-There, he encountered a young woman in Shanghai with a beautiful smile: Yu Liu, known as Yu Yu. Rogers thought she had lovely eyes.
-The two exchanged photos and talked about their goals for the future. Soon, they were discussing building a new life together. Rogers did not speak Chinese. But Yu Yu's messages were so well written that Rogers believed that she spoke excellent English. Later he learned that she didn't speak the language at all.
-Rogers' budding romance with Yu Yu changed his relationship with Lee. Suddenly, the American economist was eager to travel to China, where he would be able to meet the woman with the beautiful smile.
-Goff said Chinese intelligence was likely aware of the meeting. "If this woman wasn't a plant by Chinese intelligence into that web dating site, then I'm sure that they had a meeting with her soon after that contact," Goff said. He said Chinese intelligence could have told Yu Yu to pursue the relationship.
-It is unclear whether Yu Yu has any links to the Chinese government. CNBC attempted to contact Yu Yu at her home and provided a detailed list of questions to her, but she has not responded.
-The following May, Rogers accepted an invitation from Lee to lecture at two universities in China. On that trip, Rogers met Yu Yu in person for the first time. The couple had to rely on smartphone apps to communicate with one another, but that didn't slow down the relationship.
-When he returned to the United States, Rogers' text messages with Yu Yu had turned to talk of marriage and babies. Rogers wrote: "I am lonely without Yuyu."
-Soon, Rogers wrote to Lee proposing that he be invited back to teach classes at Chinese universities — and to spend a few days in Shanghai, where Yu Yu lived.
-Lee replied by email, delighted to accommodate the Federal Reserve economist. "Of course it's a great plan for us," Lee wrote. "We always look forward to listening to your presentation. ... Your related expenses in China will all be covered by us." Lee got to work providing documents for Rogers to use in his visa application to travel to China.
-Lee arranged for Rogers to return to China in October 2017. Lee managed the itinerary, set up lectures, and arranged for Rogers and Yu Yu to travel by train together between Chinese cities.
-On that trip, the second time Rogers had seen Yu Yu in person, she became pregnant. After landing back in the United States, Rogers sent Yu Yu a text message: "I want to marry you. Will you marry me, sweetheart?"
-Yu Yu replied: "God told me: Marrying John is right!"
-The couple began planning for a wedding in Hong Kong. The next month, Yu Yu texted Rogers with a picture of her pregnancy test. Rogers replied, "I am so happy YuYu. To be a father again is the best thing that could ever happen to me. I love you so much."
-'That guy seemed to know everything'
-The pregnancy and wedding planning made Rogers more dependent on Lee. The American needed travel assistance, help navigating the bureaucracy and funding for his trip. Lee came through for him. "That guy seemed to know everything," Rogers later told Fed investigators.
-While Lee was getting more involved in Rogers' increasingly complicated life, he was also asking for information about the inner workings of the Fed. Rogers pushed back, saying he didn't have much to share. He said later that he'd told Lee, "I don't have any knowledge, nor does any economist at the Fed have any knowledge in addition to what we put on the website."
-Lee introduced Rogers to his boss, whom he called Professor Cui. It was this boss, Lee said, who authorized funds for Rogers' travel and who set up invitations for Rogers to lecture in China.
-Cui pressed Rogers for rumors and gossip about the Fed and offered him packets of cash, which Rogers said he turned down. Rogers said in court that Cui played the role of bad cop to Lee's good cop.
-Much later, when federal agents searched Rogers' home, they would find $55,000 in cash, some of which was in a white plastic grocery bag at the bottom of a closet mixed in with a pile of women's clothing. According to trial testimony, investigators were unable to establish where the cash came from.
-Rogers' life, though, was growing increasingly complicated and expensive. At one point Lee wrote to Rogers: "Yu Yu said she needs 5,000 before you come back. So I wired 5,000 to her. Used my own money. Don't worry."
-Rogers needed more help, and cash, for Yu Yu to get a divorce from her then-husband, who was demanding 80,000 yuan — currently about $12,000 — to sign the papers. Rogers offered 10,000 yuan.
-Lee promised he would get the divorce papers signed. "Go to sleep and take a good rest man," Lee wrote to Rogers.
-Just over seven hours later, Lee texted Rogers photos of a newly issued divorce certificate. "Yuyu got the divorce certificate!" Lee wrote.
-"This is the best waking up message I have ever received," Rogers replied.
-Rogers and Yu Yu married in Hong Kong in March 2018. Lee had planned logistics and important details of the wedding — and he signed the prenuptial agreement between Rogers and Yu Yu as a witness. "Thank goodness I've got you assisting with everything! Yuyu and I would be sunk without you," Rogers wrote to Lee.
-When Yu Yu's due date approached in the summer of 2018, Rogers took paternity leave from the Fed and flew to China to be present for the birth of his new daughter. Lee met him at the airport and accompanied Rogers and Yu Yu to the hospital for the birth.
-Rogers was also aware that Lee, now supposedly an economics professor at a Chinese university, had an unusually intense interest in him. The Chinese economist was a "super nice guy but so nice it was a little bit spooky," Rogers told Fed investigators.
-Rogers had fallen in love with China itself. On his phone, he carried a lengthy love letter of sorts that he wrote to the nation. It began: "Dear Chinese people, I love your kindness, your generosity, your humbly hardworking high-achieving society."
-Yu Yu and their baby eventually moved to Rogers' home in Virginia.
-I owe everything to [Hummin Lee] ... And I love him like a brother.John RogersFormer Federal Reserve official
-Rogers later acknowledged to investigators that he was deeply indebted to Lee. "I owe everything to him. The baby wouldn't have happened, the relationship with my wife wouldn't have happened, despite the fact that we met online, it just would not have happened without him. And I love him like a brother."
-The hunt for Fed secrets
-Lee's efforts to get information about the Fed from Rogers appeared to intensify. Lee arranged regular trips for Rogers to travel to China to conduct classes, although the sessions often took place in hotel rooms, with just a handful of attendees. The topics included specific aspects of the Fed's oversight of the U.S. economy.
-At one point, Lee messaged Rogers images of a document that contained a list of typed questions, including: "The Fed raised interest rates several times during the past two years. Why is the dollar not showing significant changes in appreciation, but has always been at a low level?" And "How does the Fed evaluate China's financial liberalization, especially the openness of the stock market and exchange rate?"
-At the bottom of the document were questions about Trump: "How does the Fed evaluate the trade war with China proposed by Trump? Will the Fed adjust monetary policy to cooperate with the trade war? What specific measures will the Fed take?"
-In his message to Rogers, Lee said: "I'm wondering if you could help us collect answers from your colleagues or documents and teach us when we meet."
-Rogers testified at his trial that the questions were harmless. "These were bread-and-butter classic questions in international finance and macroeconomics, and they not only could be addressed without using any sort of Fed sensitive information, but these questions have been addressed in the literature for dozens of years," he said.
-After receiving the question list, Rogers emailed two colleagues inside the Fed, looking for answers. "I am wondering if you can point me to some readings on the Fed and China. I am traveling to a conference in Beijing soon," Rogers wrote. "I want to be helpful to my very generous hosts, of course, but I never seem able to provide them with the right material. Part of it, I think, is that they want me to reveal some kind of Fed secrets they believe exist."
-Part of it, I think, is that they want me to reveal some kind of Fed secrets they believe exist.John RogersFormer Federal Reserve official, referring to his Chinese 'hosts' in an email to two Fed colleagues
-Rogers asked the colleagues to provide material he could "appropriately share" with the Chinese.
-A colleague responded with two attachments, one of which was labeled "Nonconfidential/Internal FR," with "FR" standing for "Federal Reserve."
-Rogers, a federal agent would later testify, changed the heading on that document to "Nonconfidential/External" and sent it on to Lee.
-Rogers' attorneys said that as a senior Fed official, Rogers had the authority to use his judgment to change the heading on the document, because he had also removed any sensitive information from it.
-In October 2018, Rogers suggested to Lee that their next class could focus on "Trade policy uncertainty."
-Later he emailed a colleague, asking for Fed material on trade policy uncertainty. He wrote to his colleague: "Could you give me: One, the three-sentences description of our current thinking, and/or, number two, anything in writing that is allowed to be shared? If there is something in writing that is not allowed to be shared, please send that just for me to catch up."
-The colleague forwarded Rogers a document on washing machine tariffs. Just how secret the information in that document was — or whether it was a secret at all — would later become a point of contention between prosecutors and Rogers' lawyers in court.
-Rogers forwarded the document to his personal Gmail account and from there sent it to Lee.
-The next June, Rogers printed out two documents, one of which came from a category that generally applied to economic forecasts prepared by the Fed's staff for its interest rate setting committee and for operations where the Fed buys and sells bonds, according to Fed guidelines. These are among the most sensitive activities for the Fed. The other was a set of bullet points for a briefing that a Federal Reserve economist was set to give to Fed governors before a Federal Open Market Committee meeting. The next day Rogers boarded a flight to China.
-Three days later, Rogers took a picture of a class in session in a hotel room in Beijing. In the picture were three people: Hummin Lee, another man and a woman, all dressed in T-shirts and posing by a large video monitor. Lee and the other man, prosecutors said later, worked for Chinese security and intelligence services.
-A marriage unravels
-Back at home, Rogers' relationship with Yu Yu was beginning to disintegrate. Moving from Shanghai to Vienna, Virginia, and raising a baby in unfamiliar surroundings had been an enormous change. "She had a very difficult time adjusting to the new life, and understandably," Rogers later testified. "I was very, very sympathetic." Their relationship became turbulent.
-By early 2019, Rogers and Yu Yu were fighting by text message. Yu Yu demanded more money from Rogers, and Rogers said he'd given enough — including paying for Yu Yu's parents' apartment.
-Yu Yu also claimed Rogers was seeing other women. "You need to take responsibility for your wife and a new baby!" she wrote. "You have too many girlfriends."
-Soon, local police were involved. Rogers had invited another woman to live in his home. Gitlen later told CNBC that she was a masseuse who had treated Rogers for back problems.
-Verbal fights between the two women devolved into a physical brawl. Yu Yu and Rogers told Vienna police that Yu Yu had been assaulted. Yu Yu said the woman scratched her face and breast and pulled her hair. An officer asked Rogers about his relationship with the other woman. "I swear to God we're just friends," Rogers told the police.
-But the breakdown of Rogers' relationship with Yu Yu was complete. Rogers said Yu Yu moved into a guest room in his house.
-In his renewed loneliness, Rogers once again turned to the internet. This time it would lead to his downfall.
-Blackmail and trial
-On Instagram, Rogers exchanged messages with accounts featuring beautiful women, eventually exchanging nude photos of himself taken with his Fed-issued phone, sometimes in the gym at Fed headquarters in Washington.
-Soon, the people behind the accounts began demanding money. They told Rogers they knew where he worked, what kind of car he drove. They threatened to send Rogers' nudes to the vice chair of the Fed, Richard Clarida. They threatened to kidnap Rogers' then-18-month-old daughter. Rogers would testify that all of this had him "very scared and wanting to protect my family."
-This was the breaking point. In 2020, on Super Bowl Sunday, Rogers told higher-ups what had been going on. They referred Rogers to the Fed's Office of Inspector General.
-Rogers was already on the Inspector General's radar, and the Fed's cybersecurity team had concerns about Rogers' travel to China and his relationship with Lee.
-Rogers met with Alan Hershkowitz, a special agent at the Office of Inspector General responsible for criminal investigations, for a voluntary meeting that stretched to 2½ hours. "My brain is a little frazzled," Rogers can be heard saying on a recording of the conversation.
-On the recording, when the topic turns to nude photos, Rogers breathes heavily and lets out several loud sighs as he struggles to explain how the scammers got the photos. "Of course, one wracks his brain about 'how did this happen, what did I do wrong,'" Rogers said.
-"Serious question, and we have to ask it," Hershkowitz said. "Are there nude photos, have you ever taken a nude photo of yourself?"
-"No," replied Rogers.
-Pressing further, Hershkowitz told Rogers that the information was important in determining whether the scammers' threats were real. Rogers sighed again and said, "I can't rule it out."
-Soon the conversation turned to China and Rogers' relationships with Yu Yu and Lee.
-All of the book smarts he had, all of the articles in his resume, they don't prepare you for spies.Stephen SaltzburgAttorney for John Rogers
-Then Hershkowitz asked: "Did you ever provide or share any restricted [Fed Board of Governors] information?" He detailed several types of information deemed confidential at the Fed. "Did you share or provide any of this information with anyone else outside of the board?"
-Rogers responded: "Never."
-Prosecutors would later allege that was a lie. They could prove he had sent such a document — not to Lee, but to a co-author at Fudan University in Shanghai. Rogers' attorneys would argue that although "never" was a false statement, it wasn't made knowingly and willfully — that Rogers was emotional about the nude pictures and the blackmail and couldn't remember every document he sent over the years.
-The incident effectively ended Rogers' career as a Fed economist. He was placed on administrative leave and resigned in lieu of termination in the spring of 2021.
-The circumstances of his departure — the years of Chinese contacts, the nude pictures at the Fed — were not made public.
-Soon after he left the Fed, Rogers began teaching classes at Fudan University — the same university he had visited when he first met Lee in 2013. He believed the case against him had ended.
-He was wrong. The Fed had taken the case to the FBI, and more than three years later its agents surrounded Rogers and his dog at the school bus stop.
-He was charged with one count of making false statements to investigators and one count of conspiracy to commit economic espionage, the far more serious charge.
-Rogers' trial began in January 2026.
-Prosecutors at his trial called Rogers a traitor who "conspired with spies in China to provide secret information from the U.S. Federal Reserve worth untold sums of money to the People's Republic of China."
-Stephen Saltzburg, an attorney for Rogers, argued that Rogers trusted the wrong people. "All of the book smarts he had, all of the articles in his resume, they don't prepare you for spies."
-On Feb. 3, the jury found Rogers guilty on the charge of making false statements but acquitted him on the charge of conspiracy to commit economic espionage.
-On July 15, he was sentenced to 38 months in federal prison.
-The same day, a report by the Fed's Inspector General said the central bank had several security problems, including the lack of "a process to identify its critical assets," and that it needed a program to manage insider risks.
-In another report, published Sept. 24, the Inspector General's office revealed that a Fed employee in 2024 transferred potentially sensitive information outside the Fed just before retiring, exposing deficiencies in the Fed's ability to secure information.
-To CIA veteran Goff, the Rogers case represents a victory for the U.S. government, even though Rogers wasn't convicted of spying. "I think they won out in the end, but it shouldn't have taken that long."
-Asked if he believes the Chinese are still trying to penetrate the Fed, Goff replied: "Absolutely."
-Three weeks after Goff's comment, the FBI and the Justice Department announced they had taken down a vast China state-sponsored hacking operation that targeted sensitive American institutions, including the Federal Reserve.
-At the end of his testimony, Rogers was asked who he believed Lee was.
-"A spy," Rogers responded.
-"And knowing that, how does that make you feel?" he was asked.
-"Duped," Rogers said. "He was my friend."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html",
-    publishedAt: "2026-09-30T10:55:49+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "regulating-ai-not-the-right-place-to-sta-edf02f36",
-    title: "Regulating AI 'not the right place to start' says Bailey",
-    titleJa: "Regulating AI 'not the right place to start' says Bailey",
-    summaryJa: "Regulating AI 'not the right place to start' says Bailey- Published",
-    bodyOriginal: `Regulating AI 'not the right place to start' says Bailey
-- Published
-The Governor of the Bank of England has said regulating artificial intelligence (AI) "is not the right place to start" but instead called first for "rigorous" testing to find vulnerabilities and safeguards to contain risk.
-Writing his first-ever article for Substack, Andrew Bailey said the risks around AI were "real and increasingly significant".
-Bailey said the development of AI should not be halted or prohibited - "on the contrary, the benefits are immense" - but added there must be a system for intervention and to establish boundaries in which AI operates.
-In recent weeks, the debate about the potential risks surrounding the rapid development of AI and what it means for humanity has intensified.
-The bosses of leading AI firms such as Anthropic and OpenAI have called for development of the technology to slow down and for an internationally co-ordinated approach assessing risks and putting safeguards in place.
-OpenAI recently announced that it would not release its latest AI model due to safety concerns.
-The idea of a slowdown, however, has been rejected by the likes of President Donald Trump who has said the US is leading the AI race ahead of China, adding: "And, frankly, I want to keep it that way because whoever wins AI, wins."
-But on Tuesday, after hosting a summit with the leading firms in AI such as OpenAI and Anthropic, Trump said executives had signed a "morally binding" document that would serve as a "form of protection" from AI's potential risks.
-Chinese AI tool told researchers how to make bioweapons
-- Published13 hours ago
-OpenAI scraps rollout of new model over safety concerns
-- Published1 day ago
-Under the agreement, the companies are responsible for ensuring the safety of their own technology.
-In the UK, Bailey said "important work" was underway in testing AI - the UK has set up the AI Security Institute - which, he said, should help form part of a set of standards.
-"But the pace of progress must accelerate," the bank governor said, though he added: "We should proceed with a degree of humility."
-He said, with testing, there will be failures and "models will behave unexpectedly".
-But, he said: "That is not evidence that testing has failed, rather it is evidence of why testing is necessary."
-Bailey said that testing should not be seen as an alternative to future regulation - over time a more formal regulatory framework might emerge. "But regulation is not, in my view, the right place to start."`,
-    bodyJa: `Regulating AI 'not the right place to start' says Bailey
-- Published
-The Governor of the Bank of England has said regulating artificial intelligence (AI) "is not the right place to start" but instead called first for "rigorous" testing to find vulnerabilities and safeguards to contain risk.
-Writing his first-ever article for Substack, Andrew Bailey said the risks around AI were "real and increasingly significant".
-Bailey said the development of AI should not be halted or prohibited - "on the contrary, the benefits are immense" - but added there must be a system for intervention and to establish boundaries in which AI operates.
-In recent weeks, the debate about the potential risks surrounding the rapid development of AI and what it means for humanity has intensified.
-The bosses of leading AI firms such as Anthropic and OpenAI have called for development of the technology to slow down and for an internationally co-ordinated approach assessing risks and putting safeguards in place.
-OpenAI recently announced that it would not release its latest AI model due to safety concerns.
-The idea of a slowdown, however, has been rejected by the likes of President Donald Trump who has said the US is leading the AI race ahead of China, adding: "And, frankly, I want to keep it that way because whoever wins AI, wins."
-But on Tuesday, after hosting a summit with the leading firms in AI such as OpenAI and Anthropic, Trump said executives had signed a "morally binding" document that would serve as a "form of protection" from AI's potential risks.
-Chinese AI tool told researchers how to make bioweapons
-- Published13 hours ago
-OpenAI scraps rollout of new model over safety concerns
-- Published1 day ago
-Under the agreement, the companies are responsible for ensuring the safety of their own technology.
-In the UK, Bailey said "important work" was underway in testing AI - the UK has set up the AI Security Institute - which, he said, should help form part of a set of standards.
-"But the pace of progress must accelerate," the bank governor said, though he added: "We should proceed with a degree of humility."
-He said, with testing, there will be failures and "models will behave unexpectedly".
-But, he said: "That is not evidence that testing has failed, rather it is evidence of why testing is necessary."
-Bailey said that testing should not be seen as an alternative to future regulation - over time a more formal regulatory framework might emerge. "But regulation is not, in my view, the right place to start."`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-30T10:20:20+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e249/live/7e528b30-bcb4-11f1-a3e9-bbda6f9b9e25.jpg",
-    readTime: 6,
-  },
-  {
-    id: "ken-griffin-pledges-3-billion-to-carnegi-be64ff27",
-    title: "Ken Griffin pledges $3 billion to Carnegie Mellon University in 'historic' gift",
-    titleJa: "Ken Griffin pledges $3 billion to Carnegie Mellon University in 'historic' gift",
-    summaryJa: "Citadel CEO Ken Griffin is committing $3 billion to Carnegie Mellon University, a \"historic\" gift that includes $2 billion to establish a new Miami campus.",
-    bodyOriginal: `Citadel CEO Ken Griffin announced Wednesday that he has committed $3 billion to Carnegie Mellon University, including $2 billion in funding to establish a new Miami campus.
-The $3 billion pledge is the "largest individual gift in higher education history," according to a statement from the university, which called the gift "historic." The previous record was a $2 billion gift by Nike co-founder Phil Knight and his wife Penny to Oregon Health & Science University in August 2025.
-Griffin, who is worth $57.5 billion by Bloomberg's estimate, will join Carnegie Mellon's board of trustees.
-"The opportunity to bring Carnegie Mellon to Miami places our city at the heart of humanistic and scientific advancement and amplifies the University's international reach and impact," Griffin said in a release. "CMU Miami will cultivate the talent, knowledge, and expertise to launch new enterprises, contribute to Miami's economy and community, and advance the prosperity of our nation."
-Tune in at 10 a.m. ET as Ken Griffin joins CNBC TV to discuss his historic charitable gift. Watch in real time on CNBC+ or the CNBC Pro stream.
-Previously, the hedge fund billionaire's largest donation was $300 million to Harvard University, his alma mater, in 2023. Griffin also contributed $125 million to the University of Chicago in 2017 when Citadel was still headquartered in the Windy City.
-Since he moved Citadel's headquarters to Miami in 2022, citing concerns about crime in Chicago, he has become a vocal Miami booster, touting Florida's business-friendly policies, low taxes, and quality of life.
-"It's a state that is prospering," he said at a CNBC conference in 2022. "It's really fun to be in an environment where people are embracing the future. They're hopeful about the future."
-In the past four years, Griffin has become a prolific philanthropist in South Florida. He's made gifts of $50 million apiece to the University of Miami's cancer center, the Baptist Health Foundation's neuroscience institute, and Success Academy, to fund the charter school network's expansion to Miami.
-Carnegie Mellon's new Miami campus will span 35 acres in Wynwood, a neighborhood known for its art scene. Construction is slated to begin in 2027. The university expects to start enrolling students in 2028 and to support more than 3,500 students once the campus is complete.
-The new campus's academic program will be organized around addressing societal challenges such as climate resilience and national security rather than academic majors, according to the release.
-Griffin has been critical of leadership at elite universities, including his alma mater. In 2024, Griffin told CNBC's Leslie Picker that he had paused donations to Harvard over the university's response to antisemitism on campus and he also took verbal aim at top colleges.
-"Are we going to educate the future members of the House and the Senate and the leaders of IBM? Or are we going to educate a group of young men and women who are just caught up in a rhetoric of oppressor and oppressee and this is not fair and frankly just like whiny snowflakes?" Griffin said.`,
-    bodyJa: `Citadel CEO Ken Griffin announced Wednesday that he has committed $3 billion to Carnegie Mellon University, including $2 billion in funding to establish a new Miami campus.
-The $3 billion pledge is the "largest individual gift in higher education history," according to a statement from the university, which called the gift "historic." The previous record was a $2 billion gift by Nike co-founder Phil Knight and his wife Penny to Oregon Health & Science University in August 2025.
-Griffin, who is worth $57.5 billion by Bloomberg's estimate, will join Carnegie Mellon's board of trustees.
-"The opportunity to bring Carnegie Mellon to Miami places our city at the heart of humanistic and scientific advancement and amplifies the University's international reach and impact," Griffin said in a release. "CMU Miami will cultivate the talent, knowledge, and expertise to launch new enterprises, contribute to Miami's economy and community, and advance the prosperity of our nation."
-Tune in at 10 a.m. ET as Ken Griffin joins CNBC TV to discuss his historic charitable gift. Watch in real time on CNBC+ or the CNBC Pro stream.
-Previously, the hedge fund billionaire's largest donation was $300 million to Harvard University, his alma mater, in 2023. Griffin also contributed $125 million to the University of Chicago in 2017 when Citadel was still headquartered in the Windy City.
-Since he moved Citadel's headquarters to Miami in 2022, citing concerns about crime in Chicago, he has become a vocal Miami booster, touting Florida's business-friendly policies, low taxes, and quality of life.
-"It's a state that is prospering," he said at a CNBC conference in 2022. "It's really fun to be in an environment where people are embracing the future. They're hopeful about the future."
-In the past four years, Griffin has become a prolific philanthropist in South Florida. He's made gifts of $50 million apiece to the University of Miami's cancer center, the Baptist Health Foundation's neuroscience institute, and Success Academy, to fund the charter school network's expansion to Miami.
-Carnegie Mellon's new Miami campus will span 35 acres in Wynwood, a neighborhood known for its art scene. Construction is slated to begin in 2027. The university expects to start enrolling students in 2028 and to support more than 3,500 students once the campus is complete.
-The new campus's academic program will be organized around addressing societal challenges such as climate resilience and national security rather than academic majors, according to the release.
-Griffin has been critical of leadership at elite universities, including his alma mater. In 2024, Griffin told CNBC's Leslie Picker that he had paused donations to Harvard over the university's response to antisemitism on campus and he also took verbal aim at top colleges.
-"Are we going to educate the future members of the House and the Senate and the leaders of IBM? Or are we going to educate a group of young men and women who are just caught up in a rhetoric of oppressor and oppressee and this is not fair and frankly just like whiny snowflakes?" Griffin said.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/09/30/ken-griffin-pledges-3-billion-to-carnegie-mellon-university.html",
-    publishedAt: "2026-09-30T09:00:01+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 8,
-  },
-  {
-    id: "three-takeaways-from-trump-s-super-intel-5fb585b8",
-    title: "Three takeaways from Trump's 'Super Intelligence' summit",
-    titleJa: "Three takeaways from Trump's 'Super Intelligence' summit",
-    summaryJa: "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
-    bodyOriginal: `Three takeaways from Trump's 'Super Intelligence' summit
-- Published
-US President Donald Trump hosted a meeting of top technology bosses on Tuesday for what he called "an extraordinary gathering" of the minds that are "building America's Golden Age".
-The guest list included leaders from OpenAI, Anthropic, Nvidia, SpaceX, Meta and Google - all key figures in the US AI industry.
-The meeting came as some tech executives and experts have called for tighter oversight of AI, citing concerns about the potential risks it poses to humanity.
-Here are three key takeaways from Trump's tech summit at the White House.
-1. AI 'self-regulation' pact
-Trump took questions from the media for around 30 minutes alongside top tech leaders after the closed-door meeting.
-The president said the executives had signed a "morally binding" document that would serve as a "form of protection" from AI's potential risks.
-Under the agreement, which Trump posted online, external, the companies are responsible for ensuring the safety of their own technology.
-The firms also agreed to implement safeguards to keep models operating as intended and quickly detect and fix any issues.
-They will also work with "independent auditors" to assess whether their AI systems are working as intended and ensure their platforms do not "hack or access technical systems in unintended ways."
-The accord was signed by Trump, Google boss Sundar Pichai, Anthropic chief Dario Amodei, Meta's Mark Zuckerberg, OpenAI President Greg Brockman, SpaceX's Elon Musk and Nvidia chief executive Jensen Huang.
-"It's almost like a constitution, in a way," Trump said, referring to the agreement. "And the biggest people in the world signed that, and I signed it as president."
-Trump added that he will set up a board to oversee the safety of AI tools. He did not specify who would be on that board.
-Zuckerberg said the accord gives the "American people and customers the confidence that the technology works" as intended, calling the meeting a "historic conversation".
-Amodei called it was a way "to win safely", referring to the president's comment earlier this month that "whoever wins AI, wins".
-But not all experts are impressed with the accord.
-Nanyang Technological University AI governance researcher Jose Miguelito Enriquez said the pact shows "emerging consensus" but does not address whether AI developers should be held accountable for incidents.
-It is "deeply unimpressive" and comes despite calls from some world leaders and industry figures for tighter regulations over the technology, said law professor Kimberlee Weatheral from the University of Sydney.
-The agreement appears to allow firms to "define what counts as safety" and does not state what consequences there are to any breaches, Weatheral said.
-"The accord should be ignored, for the distraction it is," she added.
-Why Trump is all-in on AI despite the warnings
-- Published16 September
-Why are there concerns AI could threaten humanity, and how real are they?
-- Published17 September
-Trump has repeatedly downplayed concerns about AI's risks, even as major AI firms have called for tighter oversight over the technology.
-On Monday, OpenAI said it had scrapped the release of its latest flagship AI model, GPT-6.1 Astra, over safety concerns.
-The company's security controls have come under intense scrutiny after high-profile incidents involving its technology, including its models accessing Australian government platforms without authorisation.
-Jeannie Paterson from the Centre for Artificial Intelligence and Digital Ethics at the University of Melbourne said self-regulation could mean that companies set "only minimal safeguards".
-The agreement inspires "very little confidence" as recent incidents of AI going rogue suggest companies have been undisciplined in their approach, she added.
-2. Doubling down on data centres
-Trump also reiterated his support for the rapid expansion of data centres - the crucial computing infrastructure that powers AI.
-The rollout of data centres has drawn pushback around the country over concerns about electricity usage and their potential impact on from communities.
-Data centre construction has also emerged as a potential political obstacle for Trump's Republican party ahead of the US midterm elections in November.
-A survey conducted by Marist Poll in partnership with NPR and PBS News, external earlier this month found that 65% of registered voters opposed data centres being built in their areas.
-Responding to those concerns, Trump said tech companies would work to make people "happy" about the construction of data centres.
-"These big, powerful, very rich, very smart companies are going to be making massive contributions to communities," Trump told reporters.
-Trump previously said on social media that the only reason communities should oppose data centres is if they "want to end up being backwards and poor".
-Huang from Nvidia, which produces computer chips essential for running AI, said after the meeting that data centres should be called "super intelligence factories".
-These facilities are "reindustrialising the United States", creating jobs across the economy, he added.
-3. It's now 'Super Intelligence'
-Also on Tuesday, Trump signed an executive order instructing US government departments and agencies to start using the terms "SI" and "Super Intelligence" and should no longer acknowledge the use of term artificial intelligence.
-SI will take the place of AI in "official correspondence", websites, reports and other forms of communication, the order said.
-"As these capabilities continue to improve, they increasingly represent not merely artificial intelligence, but a new era of Super Intelligence," the order said.
-During an address to the United Nations General Assembly last week, Trump said the word "artificial" made the technology "sound fake".
-Some tech leaders, including Zuckerberg and Musk, and other people close to the president have already started to use the term.
-With tech leaders adopting the term, the US "may well be able to set the nomenclature," Paterson said.
-But some experts said after Trump's UN speech that they thought the term was unlikely to gain widespread traction because it is a name typically used to refer to more advanced systems.
-- Published7 hours ago
-- Published1 day ago`,
-    bodyJa: `Three takeaways from Trump's 'Super Intelligence' summit
-- Published
-US President Donald Trump hosted a meeting of top technology bosses on Tuesday for what he called "an extraordinary gathering" of the minds that are "building America's Golden Age".
-The guest list included leaders from OpenAI, Anthropic, Nvidia, SpaceX, Meta and Google - all key figures in the US AI industry.
-The meeting came as some tech executives and experts have called for tighter oversight of AI, citing concerns about the potential risks it poses to humanity.
-Here are three key takeaways from Trump's tech summit at the White House.
-1. AI 'self-regulation' pact
-Trump took questions from the media for around 30 minutes alongside top tech leaders after the closed-door meeting.
-The president said the executives had signed a "morally binding" document that would serve as a "form of protection" from AI's potential risks.
-Under the agreement, which Trump posted online, external, the companies are responsible for ensuring the safety of their own technology.
-The firms also agreed to implement safeguards to keep models operating as intended and quickly detect and fix any issues.
-They will also work with "independent auditors" to assess whether their AI systems are working as intended and ensure their platforms do not "hack or access technical systems in unintended ways."
-The accord was signed by Trump, Google boss Sundar Pichai, Anthropic chief Dario Amodei, Meta's Mark Zuckerberg, OpenAI President Greg Brockman, SpaceX's Elon Musk and Nvidia chief executive Jensen Huang.
-"It's almost like a constitution, in a way," Trump said, referring to the agreement. "And the biggest people in the world signed that, and I signed it as president."
-Trump added that he will set up a board to oversee the safety of AI tools. He did not specify who would be on that board.
-Zuckerberg said the accord gives the "American people and customers the confidence that the technology works" as intended, calling the meeting a "historic conversation".
-Amodei called it was a way "to win safely", referring to the president's comment earlier this month that "whoever wins AI, wins".
-But not all experts are impressed with the accord.
-Nanyang Technological University AI governance researcher Jose Miguelito Enriquez said the pact shows "emerging consensus" but does not address whether AI developers should be held accountable for incidents.
-It is "deeply unimpressive" and comes despite calls from some world leaders and industry figures for tighter regulations over the technology, said law professor Kimberlee Weatheral from the University of Sydney.
-The agreement appears to allow firms to "define what counts as safety" and does not state what consequences there are to any breaches, Weatheral said.
-"The accord should be ignored, for the distraction it is," she added.
-Why Trump is all-in on AI despite the warnings
-- Published16 September
-Why are there concerns AI could threaten humanity, and how real are they?
-- Published17 September
-Trump has repeatedly downplayed concerns about AI's risks, even as major AI firms have called for tighter oversight over the technology.
-On Monday, OpenAI said it had scrapped the release of its latest flagship AI model, GPT-6.1 Astra, over safety concerns.
-The company's security controls have come under intense scrutiny after high-profile incidents involving its technology, including its models accessing Australian government platforms without authorisation.
-Jeannie Paterson from the Centre for Artificial Intelligence and Digital Ethics at the University of Melbourne said self-regulation could mean that companies set "only minimal safeguards".
-The agreement inspires "very little confidence" as recent incidents of AI going rogue suggest companies have been undisciplined in their approach, she added.
-2. Doubling down on data centres
-Trump also reiterated his support for the rapid expansion of data centres - the crucial computing infrastructure that powers AI.
-The rollout of data centres has drawn pushback around the country over concerns about electricity usage and their potential impact on from communities.
-Data centre construction has also emerged as a potential political obstacle for Trump's Republican party ahead of the US midterm elections in November.
-A survey conducted by Marist Poll in partnership with NPR and PBS News, external earlier this month found that 65% of registered voters opposed data centres being built in their areas.
-Responding to those concerns, Trump said tech companies would work to make people "happy" about the construction of data centres.
-"These big, powerful, very rich, very smart companies are going to be making massive contributions to communities," Trump told reporters.
-Trump previously said on social media that the only reason communities should oppose data centres is if they "want to end up being backwards and poor".
-Huang from Nvidia, which produces computer chips essential for running AI, said after the meeting that data centres should be called "super intelligence factories".
-These facilities are "reindustrialising the United States", creating jobs across the economy, he added.
-3. It's now 'Super Intelligence'
-Also on Tuesday, Trump signed an executive order instructing US government departments and agencies to start using the terms "SI" and "Super Intelligence" and should no longer acknowledge the use of term artificial intelligence.
-SI will take the place of AI in "official correspondence", websites, reports and other forms of communication, the order said.
-"As these capabilities continue to improve, they increasingly represent not merely artificial intelligence, but a new era of Super Intelligence," the order said.
-During an address to the United Nations General Assembly last week, Trump said the word "artificial" made the technology "sound fake".
-Some tech leaders, including Zuckerberg and Musk, and other people close to the president have already started to use the term.
-With tech leaders adopting the term, the US "may well be able to set the nomenclature," Paterson said.
-But some experts said after Trump's UN speech that they thought the term was unlikely to gain widespread traction because it is a name typically used to refer to more advanced systems.
-- Published7 hours ago
-- Published1 day ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-09-30T04:01:52+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af69/live/34e7c4c0-bc86-11f1-bc1f-3f186ca4140c.jpg",
     readTime: 10,
   },
 ];
