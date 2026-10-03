@@ -15,6 +15,140 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "cornell-frat-house-rape-accuser-under-si-30afddef",
+    title: "Cornell frat house rape accuser 'under siege' online, says lawyer",
+    titleJa: "Cornell frat house rape accuser 'under siege' online, says lawyer",
+    summaryJa: "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
+    bodyOriginal: `Cornell frat house rape accuser 'under siege' online, says lawyer
+- Published
+The lawyer for the woman who alleges she was raped at a Cornell University fraternity house says she is "not doing well" as she finds herself "under siege" from online sleuths seeking to identity her.
+Thomas Giuffra said the woman known in legal documents as Jane Doe was "incapable of consent" because she was "completely, grossly intoxicated" when she turned up at the home where she says the assault took place.
+The woman alleges she was assaulted by seven men at the campus in Ithaca, New York, in 2024.
+No charges were initially filed in the case. It has reopened since she filed a civil lawsuit that thrust the claims into the national spotlight, reigniting the possibility of criminal charges.
+In an interview on Friday with CNN, Giuffra said: "She's under siege on social media where people are trying to identify her."
+He said that postings have "incorrectly" identified other woman as Doe.
+In an interview with CBS, the BBC's US partner, Giuffra argued that his client, aged 20 at the time, was unable to provide consent because she was intoxicated when she arrived at the fraternity house.
+Giuffra said she had been pressured into taking the drug ketamine before she was allegedly raped.
+His comments came as New York Governor Kathy Hochul appointed the state's top prosecutor, Attorney General Letitia James, to take over the investigation.
+At a news conference on Friday, Hochul said she had "lost faith" in the county prosecutor's ability to oversee the case.
+"This young woman had already endured something that is utterly unspeakable, and then at every turn she was failed by people and institutions with an obligation to protect her," Hochul said.
+She also vowed to close a "loophole" of state law that makes it difficult to press rape charges if an alleged victim voluntarily consumes alcohol or drugs.
+During an interview with investigators, Doe told campus police investigators: "I was a sex doll for all intents and purposes, which is sad but, unfortunately, something I'm not used to, or something that I haven't experienced before."
+She also said that she "felt like bait" as the attackers were "like lions around me", according to records from the school's disciplinary investigation, obtained by US media.
+Social media feeds are filled with women trying to shield the Cornell accuser's identity by posting videos of themselves under the title "I am Jane Doe".
+As well as seeking to complicate internet searches for her name, the messages of solidarity included clips of women detailing their own experiences of sexual assault.
+Efforts to rally round Jane Doe gathered pace after a political commentator vowed to unmask her, arguing it was unfair for her to remain anonymous while the men are publicly named despite not being charged with a crime.
+Online sleuths have also tried to locate the addresses of the so-called Cornell Seven, leading to at least one case of mistaken identity.
+An active-duty US Marine Corps sergeant who had the same name as one of the men was incorrectly served the woman's lawsuit, leading to a torrent of abuse and threats, according to the Free Press, external.`,
+    bodyJa: `Cornell frat house rape accuser 'under siege' online, says lawyer
+- Published
+The lawyer for the woman who alleges she was raped at a Cornell University fraternity house says she is "not doing well" as she finds herself "under siege" from online sleuths seeking to identity her.
+Thomas Giuffra said the woman known in legal documents as Jane Doe was "incapable of consent" because she was "completely, grossly intoxicated" when she turned up at the home where she says the assault took place.
+The woman alleges she was assaulted by seven men at the campus in Ithaca, New York, in 2024.
+No charges were initially filed in the case. It has reopened since she filed a civil lawsuit that thrust the claims into the national spotlight, reigniting the possibility of criminal charges.
+In an interview on Friday with CNN, Giuffra said: "She's under siege on social media where people are trying to identify her."
+He said that postings have "incorrectly" identified other woman as Doe.
+In an interview with CBS, the BBC's US partner, Giuffra argued that his client, aged 20 at the time, was unable to provide consent because she was intoxicated when she arrived at the fraternity house.
+Giuffra said she had been pressured into taking the drug ketamine before she was allegedly raped.
+His comments came as New York Governor Kathy Hochul appointed the state's top prosecutor, Attorney General Letitia James, to take over the investigation.
+At a news conference on Friday, Hochul said she had "lost faith" in the county prosecutor's ability to oversee the case.
+"This young woman had already endured something that is utterly unspeakable, and then at every turn she was failed by people and institutions with an obligation to protect her," Hochul said.
+She also vowed to close a "loophole" of state law that makes it difficult to press rape charges if an alleged victim voluntarily consumes alcohol or drugs.
+During an interview with investigators, Doe told campus police investigators: "I was a sex doll for all intents and purposes, which is sad but, unfortunately, something I'm not used to, or something that I haven't experienced before."
+She also said that she "felt like bait" as the attackers were "like lions around me", according to records from the school's disciplinary investigation, obtained by US media.
+Social media feeds are filled with women trying to shield the Cornell accuser's identity by posting videos of themselves under the title "I am Jane Doe".
+As well as seeking to complicate internet searches for her name, the messages of solidarity included clips of women detailing their own experiences of sexual assault.
+Efforts to rally round Jane Doe gathered pace after a political commentator vowed to unmask her, arguing it was unfair for her to remain anonymous while the men are publicly named despite not being charged with a crime.
+Online sleuths have also tried to locate the addresses of the so-called Cornell Seven, leading to at least one case of mistaken identity.
+An active-duty US Marine Corps sergeant who had the same name as one of the men was incorrectly served the woman's lawsuit, leading to a torrent of abuse and threats, according to the Free Press, external.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-03T02:23:07+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/689e/live/042cea50-beb0-11f1-b48e-15cf4ddc906e.jpg",
+    readTime: 8,
+  },
+  {
+    id: "i-don-t-want-to-die-on-the-sales-floor-9854e46d",
+    title: "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+    titleJa: "‘I don’t want to die on the sales floor’: I’m 67 and earn $19.50 an hour at a big-box store. When can I finally retire?",
+    summaryJa: "“I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).”",
+    bodyOriginal: `“I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).”`,
+    bodyJa: `“I started taking Social Security at 66 and receive $2,410 a month. I have $214,000 in my 401(k).”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/i-dont-want-to-die-on-the-sales-floor-im-67-and-earn-19-50-an-hour-at-a-big-box-store-when-can-i-finally-retire-369abcf9?mod=mw_rss_topstories",
+    publishedAt: "2026-10-03T02:16:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-61114806",
+    readTime: 2,
+  },
+  {
+    id: "why-western-digital-and-seagate-are-seei-94f5eb33",
+    title: "Why Western Digital and Seagate are seeing big stock drops today",
+    titleJa: "Why Western Digital and Seagate are seeing big stock drops today",
+    summaryJa: "Investors are worried that Toshiba will boost its production of a key AI storage product, potentially hurting the strong pricing power that Western Digital and Seagate currently enjoy.",
+    bodyOriginal: `Investors are worried that Toshiba will boost its production of a key AI storage product, potentially hurting the strong pricing power that Western Digital and Seagate currently enjoy.`,
+    bodyJa: `Investors are worried that Toshiba will boost its production of a key AI storage product, potentially hurting the strong pricing power that Western Digital and Seagate currently enjoy.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/why-western-digital-and-seagate-are-seeing-big-stock-drops-today-6b16d95e?mod=mw_rss_topstories",
+    publishedAt: "2026-10-02T22:42:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-588603",
+    readTime: 2,
+  },
+  {
+    id: "cerebras-stock-hits-post-ipo-low-tumblin-6cf737d0",
+    title: "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
+    titleJa: "Cerebras stock hits post-IPO low, tumbling 20% for the week on Nvidia pressure and lockup expiration",
+    summaryJa: "Cerebras shares hit an all-time low due to pressure from chip giant Nvidia, plus a post-lockup selloff.",
+    bodyOriginal: `Cerebras stock plummeted nearly 20% this week to its lowest price since the company's monster IPO in May, after a report that chip giant Nvidia will power a crucial piece of OpenAI's latest model.
+Research firm SemiAnalysis posted on X on Wednesday that OpenAI will power its "Ultrafast" mode for GPT-6.1 Sol with Nvidia graphics processing units instead of Cerebras hardware. Cerebras shares are now down by more than half since their initial pop that followed the company's debut on the Nasdaq.
+The stock, which closed on Friday at $166.43, was also under pressure this week due to the expiration of post-IPO restrictions on some insider shares.
+However, it rose almost 3% in extended trading on Friday after OpenAI CEO Sam Altman responded to the "speculation about our partnership with Cerebras."
+"Cerebras is a close partner, and we have a deep engagement pushing on the frontiers of speed," Altman wrote in a post on X.
+Still, it's been a brutal stretch for Cerebras, which closed at a $95 billion market cap on the first day of trading, just shy of joining the ranks of Meta, Alibaba and now SpaceX, which closed their initial day with valuations over $100 billion.
+Cerebras' market cap now sits at just over $39 billion.
+Investors were excited by the prospect of an alternative to Nvidia to power AI. Cerebras makes dinner plate-sized ASICs, or a custom microchip built for inference workloads, and leases them from inside its own data centers as a cloud service. In January, Cerebras struck a deal worth over $10 billion with OpenAI to supply it with 750 megawatts of computing power through 2028.
+Losing OpenAI inference to Nvidia has put a damper on that exuberance. According to McKinsey, inference is set to surpass training as the most dominant workload in AI data centers by the end of the decade.
+Meanwhile, as more time passes from the IPO, additional shares will hit the market. According to the company's prospectus, up to 19.4 million shares held by directors, officers, non-executive employees, and non-employee holders unlocked on Wednesday. That's equal to 8% of total shares outstanding.
+Prior to that, up to 14.6 million shares have been unlocked for sale every two weeks since Aug. 19.
+CEO Andrew Feldman and CTO Sean Lie, both minted billionaires by the IPO process, sold over $240 million of Class A shares between Aug. 20 and Sept. 25 under trading plans adopted shortly after the IPO. Other executives have also sold shares valued in the millions.
+WATCH: CNBC’s full interview with Cerebras Systems CEO Andrew Feldman`,
+    bodyJa: `Cerebras stock plummeted nearly 20% this week to its lowest price since the company's monster IPO in May, after a report that chip giant Nvidia will power a crucial piece of OpenAI's latest model.
+Research firm SemiAnalysis posted on X on Wednesday that OpenAI will power its "Ultrafast" mode for GPT-6.1 Sol with Nvidia graphics processing units instead of Cerebras hardware. Cerebras shares are now down by more than half since their initial pop that followed the company's debut on the Nasdaq.
+The stock, which closed on Friday at $166.43, was also under pressure this week due to the expiration of post-IPO restrictions on some insider shares.
+However, it rose almost 3% in extended trading on Friday after OpenAI CEO Sam Altman responded to the "speculation about our partnership with Cerebras."
+"Cerebras is a close partner, and we have a deep engagement pushing on the frontiers of speed," Altman wrote in a post on X.
+Still, it's been a brutal stretch for Cerebras, which closed at a $95 billion market cap on the first day of trading, just shy of joining the ranks of Meta, Alibaba and now SpaceX, which closed their initial day with valuations over $100 billion.
+Cerebras' market cap now sits at just over $39 billion.
+Investors were excited by the prospect of an alternative to Nvidia to power AI. Cerebras makes dinner plate-sized ASICs, or a custom microchip built for inference workloads, and leases them from inside its own data centers as a cloud service. In January, Cerebras struck a deal worth over $10 billion with OpenAI to supply it with 750 megawatts of computing power through 2028.
+Losing OpenAI inference to Nvidia has put a damper on that exuberance. According to McKinsey, inference is set to surpass training as the most dominant workload in AI data centers by the end of the decade.
+Meanwhile, as more time passes from the IPO, additional shares will hit the market. According to the company's prospectus, up to 19.4 million shares held by directors, officers, non-executive employees, and non-employee holders unlocked on Wednesday. That's equal to 8% of total shares outstanding.
+Prior to that, up to 14.6 million shares have been unlocked for sale every two weeks since Aug. 19.
+CEO Andrew Feldman and CTO Sean Lie, both minted billionaires by the IPO process, sold over $240 million of Class A shares between Aug. 20 and Sept. 25 under trading plans adopted shortly after the IPO. Other executives have also sold shares valued in the millions.
+WATCH: CNBC’s full interview with Cerebras Systems CEO Andrew Feldman`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/02/cerebras-stock-hits-post-ipo-low-on-nvidia-pressure-lockup-expiration.html",
+    publishedAt: "2026-10-02T22:38:49+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "tesla-sold-a-lot-more-evs-than-wall-stre-22c88a2a",
+    title: "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
+    titleJa: "Tesla sold a lot more EVs than Wall Street expected, and the stock is surging",
+    summaryJa: "EV giant Tesla had the best three-month period for vehicle sales this year, but it was less than a year ago.",
+    bodyOriginal: `EV giant Tesla had the best three-month period for vehicle sales this year, but it was less than a year ago.`,
+    bodyJa: `EV giant Tesla had the best three-month period for vehicle sales this year, but it was less than a year ago.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/tesla-ev-sales-beat-wall-streets-expectations-again-and-the-stock-jumps-294a4f53?mod=mw_rss_topstories",
+    publishedAt: "2026-10-02T22:29:00+00:00",
+    category: "自動車",
+    imageUrl: "https://images.mktw.net/im-14505735",
+    readTime: 2,
+  },
+  {
     id: "doj-says-it-will-not-reopen-criminal-pro-124f475b",
     title: "DOJ says it will not reopen criminal probe into former Fed Chair Powell",
     titleJa: "DOJ says it will not reopen criminal probe into former Fed Chair Powell",
@@ -47,6 +181,92 @@ CNBC's Ryan Ruggiero contributed to this report.`,
     readTime: 5,
   },
   {
+    id: "riot-police-clash-with-students-as-educa-761829da",
+    title: "Riot police clash with students as education protests rage in France",
+    titleJa: "Riot police clash with students as education protests rage in France",
+    summaryJa: "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
+    bodyOriginal: `Riot police clash with students as education protests rage in France
+- Published
+Riot police have clashed with protesters as thousands of students demonstrating over education standards disrupted more than 700 schools in France.
+Fires have burned in the streets as high school pupils and others objected to a lack of teachers, overcrowded classrooms and run-down buildings. Interior Minister Laurent Nuñez said 1,747 people were arrested on Friday.
+The protests began last week in the capital Paris and have spread across the country, with cities including Montpellier, Nantes and Marseille affected.
+French Justice Minister Gérald Darmanin said things had "gone from high-school student demonstrations to a public order disturbance".
+School protests send shivers down French government's spine
+- Published16 hours ago
+Darmanin said that 735 of France's 3,700 schools were now affected "one way or another" by the violent protests.
+Announcing the arrests late on Friday, Nuñez told France's TF1 television network: "We are sliding into riot and urban violence, and we are using all intermediate means to put an end to it."
+Meanwhile, Education Minister Édouard Geffray said the movement had been hijacked by non-students.
+He told French broadcaster BFMTV that teachers had said "the people in front of me were not my students".
+Earlier on Friday, a 17-year-old was arrested on suspicion of attempted homicide after protests in Belfort, north-eastern France, where a police officer was targeted.
+BBC Verify has now authenticated two videos that show the man, who was later identified as an officer by a minister, being beaten up.
+In the graphic footage, a group of young men are seen chasing him. The officer falls to the ground, and is subsequently punched and kicked multiple times in the head.
+At least 65 staff members have been injured in the unrest, the education ministry said.
+In the Paris suburb of Pantin police charged at protesters and made arrests after projectiles where thrown at officers.
+Meanwhile, in Strasbourg tear gas was deployed as police feared conditions would become more hostile, according to the Reuters news agency.
+Rubbish bins have also been set on fire in Rennes and Paris.
+"As far as we're concerned, we've won - our school is closed this morning," Lola, a 16-year-old protester, told the AFP news agency on Friday.
+She said police actions had made things worse.
+"It makes us even angrier - the police have no right to hit us or use tear gas on us," she added.
+Police published pictures of some of the items they had seized from demonstrators, including petrol bombs, an axe and so-called mortar fireworks.
+"Significant damage" had been done to school facilities, the education ministry said, after attacks on school gates, entrances and fences.
+Nelson Mandela high school in Nantes suffered more than €2m (£1.7m) damage, according to the regional government, after fire destroyed its glass entrance and some areas inside the school.
+The blockades and protests started last week before spreading to hundreds of schools across the country.
+Students say school hours are too long, classrooms too hot and too many members of staff are off work.
+It comes at a crucial time for French President Emmanuel Macron, six months before next year's presidential election.
+Budget cuts planned, which will impact on education funding, have infuriated the young protesters.
+Parents have also been worried that their children have become caught up in a wave of violence and unrest.
+At the Claude Monet school in southern Paris, 53-year-old Anya was looking for her son.
+"We banned him from coming. I hope he isn't here, but he did leave the house," she told AFP. "We're afraid the situation might escalate."
+Darmanin said prosecutors had been asked to hold parents liable for damage caused by their children and "pay for repairs".
+Many French unions have given their support to the protesting students.
+Education union SNEP-FSU, public services union SNUEP-FSU and Solidaires have all called for members to support them.
+Solidaires Trade Union Federation said in a statement: "Let's not let them fire on our children.
+"Secondary school pupils have the freedom of assembly, association and demonstration."`,
+    bodyJa: `Riot police clash with students as education protests rage in France
+- Published
+Riot police have clashed with protesters as thousands of students demonstrating over education standards disrupted more than 700 schools in France.
+Fires have burned in the streets as high school pupils and others objected to a lack of teachers, overcrowded classrooms and run-down buildings. Interior Minister Laurent Nuñez said 1,747 people were arrested on Friday.
+The protests began last week in the capital Paris and have spread across the country, with cities including Montpellier, Nantes and Marseille affected.
+French Justice Minister Gérald Darmanin said things had "gone from high-school student demonstrations to a public order disturbance".
+School protests send shivers down French government's spine
+- Published16 hours ago
+Darmanin said that 735 of France's 3,700 schools were now affected "one way or another" by the violent protests.
+Announcing the arrests late on Friday, Nuñez told France's TF1 television network: "We are sliding into riot and urban violence, and we are using all intermediate means to put an end to it."
+Meanwhile, Education Minister Édouard Geffray said the movement had been hijacked by non-students.
+He told French broadcaster BFMTV that teachers had said "the people in front of me were not my students".
+Earlier on Friday, a 17-year-old was arrested on suspicion of attempted homicide after protests in Belfort, north-eastern France, where a police officer was targeted.
+BBC Verify has now authenticated two videos that show the man, who was later identified as an officer by a minister, being beaten up.
+In the graphic footage, a group of young men are seen chasing him. The officer falls to the ground, and is subsequently punched and kicked multiple times in the head.
+At least 65 staff members have been injured in the unrest, the education ministry said.
+In the Paris suburb of Pantin police charged at protesters and made arrests after projectiles where thrown at officers.
+Meanwhile, in Strasbourg tear gas was deployed as police feared conditions would become more hostile, according to the Reuters news agency.
+Rubbish bins have also been set on fire in Rennes and Paris.
+"As far as we're concerned, we've won - our school is closed this morning," Lola, a 16-year-old protester, told the AFP news agency on Friday.
+She said police actions had made things worse.
+"It makes us even angrier - the police have no right to hit us or use tear gas on us," she added.
+Police published pictures of some of the items they had seized from demonstrators, including petrol bombs, an axe and so-called mortar fireworks.
+"Significant damage" had been done to school facilities, the education ministry said, after attacks on school gates, entrances and fences.
+Nelson Mandela high school in Nantes suffered more than €2m (£1.7m) damage, according to the regional government, after fire destroyed its glass entrance and some areas inside the school.
+The blockades and protests started last week before spreading to hundreds of schools across the country.
+Students say school hours are too long, classrooms too hot and too many members of staff are off work.
+It comes at a crucial time for French President Emmanuel Macron, six months before next year's presidential election.
+Budget cuts planned, which will impact on education funding, have infuriated the young protesters.
+Parents have also been worried that their children have become caught up in a wave of violence and unrest.
+At the Claude Monet school in southern Paris, 53-year-old Anya was looking for her son.
+"We banned him from coming. I hope he isn't here, but he did leave the house," she told AFP. "We're afraid the situation might escalate."
+Darmanin said prosecutors had been asked to hold parents liable for damage caused by their children and "pay for repairs".
+Many French unions have given their support to the protesting students.
+Education union SNEP-FSU, public services union SNUEP-FSU and Solidaires have all called for members to support them.
+Solidaires Trade Union Federation said in a statement: "Let's not let them fire on our children.
+"Secondary school pupils have the freedom of assembly, association and demonstration."`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-02T21:13:27+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/061e/live/ef36beb0-be8b-11f1-888b-4d28ea12c7e2.jpg",
+    readTime: 10,
+  },
+  {
     id: "anthropic-to-invest-100-million-to-train-33dc64b0",
     title: "Anthropic to invest $100 million to train AI engineer talent",
     titleJa: "Anthropic to invest $100 million to train AI engineer talent",
@@ -77,6 +297,88 @@ WATCH: Delayed Anthropic IPO would pose a problem for the market`,
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 6,
+  },
+  {
+    id: "us-murderer-christa-pike-unconscious-and-b6e272b1",
+    title: "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+    titleJa: "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
+    summaryJa: "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
+    bodyOriginal: `US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say
+- Published
+Warning: This article contains details that readers may find distressing
+Tennessee death row inmate Christa Pike was unconscious, intubated and on a ventilator on Thursday night, after authorities failed to execute her by lethal injection, her lawyers say in court filings.
+Pike, 50, was injected with two lethal doses of pentobarbital on Wednesday but remained alive. She was then sent to hospital in an ambulance.
+Pike remained critically ill and was being treated at a Nashville-area hospital.
+Lawyers for Pike, who was sentenced to death in 1996 for the murder of Colleen Slemmer, are seeking to have her sentence commuted after the failed execution attempt.
+Pike's lawyers filed an emergency motion on Friday to preserve "any and all evidence" related to her botched execution.
+Hospital staff are working to save her life and clear the drug used, pentobarbital, from her system, the filing states.
+During the execution attempt, prison officials tried to start intravenous (IV) lines by using at least seven needles on Pike, according to her lawyers.
+At one point, Pike herself offered guidance of where they could try.
+"One needle was bent in a 90-degree angle when it was removed," the filing states.
+While receiving the two doses, "she could be heard crying, whimpering, and breathing loudly throughout the procedure", her lawyers said.
+Tennessee Governor Bill Lee ordered an independent review into Pike's botched execution and he halted all executions in the state for the year.
+The state's department of correction has defended the method it used, saying "the protocol does not allow for additional procedures beyond what was carried out".
+Authorities are yet to say whether they will try again to execute Pike. They have not not offered any explanations about what went wrong.
+What happened in the failed execution of Christa Pike - and what next?
+- Published6 hours ago
+I've seen nearly 500 executions - but never one like Christa Pike's
+- Published15 hours ago
+Pike's attorneys previously warned that her conditions, including thrombocytosis (a blood-clotting condition) and small veins meant there was a risk she would experience "unnecessary" pain and suffering during a lethal injection.
+In the latest filings, her lawyers allege that "at no point did any member of the execution team realise that the IV lines were not correctly placed or that the veins had blown and that the pentobarbital was, in whole or in part, entering Ms Pike's body".
+They are requesting that all relevant physical, written and electronic evidence is preserved.
+Dr Joel Zivot, an anaesthesiologist advising Pike's defence team, said two doses of pentobarbital was enough that "she would have surely died" had it entered her bloodstream in normal circulation.
+The only possible explanation for her survival, Zivot said, "is that the pentobarbital blood level was never high enough to cause death" and that blisters on her arm after the botched execution indicated a ruptured vein.
+So, instead of entering Pike's bloodstream, he said, the pentobarbital was more likely to have spread across the tissue under her skin.
+Pike's medical condition of thrombocytosis may have also played a role, forming blood clots at the injection site that would potentially block pentobarbital from entering her veins.
+Regarding the possibility the pentobarbital was degraded, Zivot explained that if this was the case, it could be due to factors including poor manufacturing or improper storage.
+The attempted execution went ahead after multiple failed, last-minute legal challenges by Pike's lawyers.
+The US Supreme Court thwarted two separate efforts to stop the lethal injection.
+Tennessee's governor also denied a clemency request from Pike, the only woman on the state's death row.
+Pike was 18 when she and her then-boyfriend, Tadaryl Shipp, beat, tortured and killed 19-year-old Slemmer in 1995.
+She was sentenced to death the following year after a media frenzy around the killing in Knoxville, Tennessee.
+Before the killing, Pike had accused Slemmer of insulting her and trying to steal her then-boyfriend.
+Pike's boyfriend and co-defendant Shipp was 17 at the time so was spared the death penalty under state law. He was given a life sentence with the possibility of parole and remains in prison.`,
+    bodyJa: `US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say
+- Published
+Warning: This article contains details that readers may find distressing
+Tennessee death row inmate Christa Pike was unconscious, intubated and on a ventilator on Thursday night, after authorities failed to execute her by lethal injection, her lawyers say in court filings.
+Pike, 50, was injected with two lethal doses of pentobarbital on Wednesday but remained alive. She was then sent to hospital in an ambulance.
+Pike remained critically ill and was being treated at a Nashville-area hospital.
+Lawyers for Pike, who was sentenced to death in 1996 for the murder of Colleen Slemmer, are seeking to have her sentence commuted after the failed execution attempt.
+Pike's lawyers filed an emergency motion on Friday to preserve "any and all evidence" related to her botched execution.
+Hospital staff are working to save her life and clear the drug used, pentobarbital, from her system, the filing states.
+During the execution attempt, prison officials tried to start intravenous (IV) lines by using at least seven needles on Pike, according to her lawyers.
+At one point, Pike herself offered guidance of where they could try.
+"One needle was bent in a 90-degree angle when it was removed," the filing states.
+While receiving the two doses, "she could be heard crying, whimpering, and breathing loudly throughout the procedure", her lawyers said.
+Tennessee Governor Bill Lee ordered an independent review into Pike's botched execution and he halted all executions in the state for the year.
+The state's department of correction has defended the method it used, saying "the protocol does not allow for additional procedures beyond what was carried out".
+Authorities are yet to say whether they will try again to execute Pike. They have not not offered any explanations about what went wrong.
+What happened in the failed execution of Christa Pike - and what next?
+- Published6 hours ago
+I've seen nearly 500 executions - but never one like Christa Pike's
+- Published15 hours ago
+Pike's attorneys previously warned that her conditions, including thrombocytosis (a blood-clotting condition) and small veins meant there was a risk she would experience "unnecessary" pain and suffering during a lethal injection.
+In the latest filings, her lawyers allege that "at no point did any member of the execution team realise that the IV lines were not correctly placed or that the veins had blown and that the pentobarbital was, in whole or in part, entering Ms Pike's body".
+They are requesting that all relevant physical, written and electronic evidence is preserved.
+Dr Joel Zivot, an anaesthesiologist advising Pike's defence team, said two doses of pentobarbital was enough that "she would have surely died" had it entered her bloodstream in normal circulation.
+The only possible explanation for her survival, Zivot said, "is that the pentobarbital blood level was never high enough to cause death" and that blisters on her arm after the botched execution indicated a ruptured vein.
+So, instead of entering Pike's bloodstream, he said, the pentobarbital was more likely to have spread across the tissue under her skin.
+Pike's medical condition of thrombocytosis may have also played a role, forming blood clots at the injection site that would potentially block pentobarbital from entering her veins.
+Regarding the possibility the pentobarbital was degraded, Zivot explained that if this was the case, it could be due to factors including poor manufacturing or improper storage.
+The attempted execution went ahead after multiple failed, last-minute legal challenges by Pike's lawyers.
+The US Supreme Court thwarted two separate efforts to stop the lethal injection.
+Tennessee's governor also denied a clemency request from Pike, the only woman on the state's death row.
+Pike was 18 when she and her then-boyfriend, Tadaryl Shipp, beat, tortured and killed 19-year-old Slemmer in 1995.
+She was sentenced to death the following year after a media frenzy around the killing in Knoxville, Tennessee.
+Before the killing, Pike had accused Slemmer of insulting her and trying to steal her then-boyfriend.
+Pike's boyfriend and co-defendant Shipp was 17 at the time so was spared the death penalty under state law. He was given a life sentence with the possibility of parole and remains in prison.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-02T20:32:07+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b22/live/55676b60-be9d-11f1-ad04-23a70b53c1a5.jpg",
+    readTime: 10,
   },
   {
     id: "g7-to-release-100-million-barrels-of-oil-0a8fe71e",
@@ -311,6 +613,86 @@ Ford's year-over-year sales of electric vehicles were off 67.5% through Septembe
     category: "自動車",
     imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
     readTime: 6,
+  },
+  {
+    id: "spanish-pm-s-nchez-loses-key-housing-cri-8c8cb926",
+    title: "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+    titleJa: "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+    summaryJa: "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
+    bodyOriginal: `Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87
+- Published
+Spain's Congress has rejected a series of measures aimed at tackling the country's housing crisis, in a defeat for the government of Pedro Sánchez that increases pressure on him to call a snap election.
+Lawmakers voted on two decree-laws presented by the government in response to nationwide protests that have followed the eviction of an 87-year-old woman, Maricarmen Abascal, from her home.
+The decrees, which introduced a series of initiatives aimed at protecting tenants in the rental market, required parliamentary approval in order to remain in place.
+MPs rejected the first decree by 178 votes to 172 and voted against the second by 184 to 166.
+Hundreds of demonstrators had gathered outside Congress as the debate took place and there were angry scenes.
+Protesters chanted "shame on you" and "your profits, our misery", after the results were announced.
+The government's defeat underlines the fact that Sánchez, a Socialist, does not command a congressional majority and it has heightened speculation that he might call an early general election, which was not due until next summer.
+Sources told Spanish media that the government would spend the weekend deciding its next step, and whether to dissolve parliament.
+Sánchez's beleaguered government had already been mired in a series of scandals and judicial cases affecting his Socialist Party and close allies.
+Abascal was evicted after she was unable to pay a sharp rent increase introduced by Urbagestión, the company that owned her flat in central Madrid.
+Hundreds of protesters gathered to oppose the eviction last week and the case triggered a broader movement across the country demanding affordable rentals, which have soared in recent years.
+The social backlash has seen Urbagestión negotiate the return of Abascal to her flat on a low rent. However, protests have continued, with people occupying squares in Madrid and other cities, pitching tents in squares and with a series of marches scheduled for this weekend.
+The Sindicato de Inquilinas (Tenants' Union) activist association which has been co-ordinating protests, announced during the congressional debate that it was abandoning the tent protest in central Madrid. It said it wanted to "take the struggle to all the neighbourhoods, residential blocks and homes of Madrid, wherever there are rental increases, expulsions and abuses each day, and turn the energy of the last few days into a permanent organisation".
+Protesters are also calling for a general strike over the housing crisis.
+The left-wing coalition government responded to the social anger by hurriedly drawing up the two decree-laws in an effort to defuse the protests.
+The first decree included the suspension of evictions of vulnerable tenants until 2030, a two-year extension to rental leases due to expire before 2028, tax increases for tourist apartments, and a restriction on the purchase of residential properties by what the government calls "vulture funds".
+The second decree was more controversial, because it included the automatic renewal of rental contracts, a major demand of many on the left and the Sindicato de Inquilinas.
+The conservative People's Party (PP) and far-right Vox had already said they would vote against both initiatives, leaving the minority government depending on the support of smaller nationalist parties in Catalonia and the Basque Country.
+However, by the eve of the parliamentary session, the centre-right, pro-independence Together for Catalonia (JxCat) had signalled its opposition to both laws, condemning them to failure.
+Friday's debate was fierce and at times angry, as supporters and opponents of the decrees clashed in Congress.
+"I don't ask you, I beg you to be brave and consistent," Sánchez said, moments before the two votes took place. "Because they are not just ambitious measures, they are necessary".
+He appealed to lawmakers "to put order and humanity into [the housing] market, because if we don't, it will bring down our society".
+Social Affairs minister Pablo Bustinduy, of the Sumar alliance, the junior partner in the governing coalition, presented the debate in dramatic terms.
+"Today is about defending an international oligarchy which is extracting the rent from salaries earned with the effort of working classes of this country in order to share it out with dividends and they don't even pay taxes in Spain," he said.
+"Voting against these decrees today means defending the interests of this oligarchy and turning your back on your own people."
+However, Miriam Nogueras, of JxCat, said the decrees had been hastily drawn up and lacked rigour.
+She said the decrees "will allow [vulture] funds to keep buying, keep speculating and evictions to keep happening… these two decrees would provoke the opposite effect of what they aim to achieve."
+The political right has argued that the government's attempts to intervene will frighten homeowners, causing them not to put their properties on the rental market and pushing prices up further.
+Juan Bravo of the PP said "housing doesn't get cheaper with decrees, it gets cheaper with more homes".
+Related topics
+- Published3 days ago
+- Published23 September`,
+    bodyJa: `Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87
+- Published
+Spain's Congress has rejected a series of measures aimed at tackling the country's housing crisis, in a defeat for the government of Pedro Sánchez that increases pressure on him to call a snap election.
+Lawmakers voted on two decree-laws presented by the government in response to nationwide protests that have followed the eviction of an 87-year-old woman, Maricarmen Abascal, from her home.
+The decrees, which introduced a series of initiatives aimed at protecting tenants in the rental market, required parliamentary approval in order to remain in place.
+MPs rejected the first decree by 178 votes to 172 and voted against the second by 184 to 166.
+Hundreds of demonstrators had gathered outside Congress as the debate took place and there were angry scenes.
+Protesters chanted "shame on you" and "your profits, our misery", after the results were announced.
+The government's defeat underlines the fact that Sánchez, a Socialist, does not command a congressional majority and it has heightened speculation that he might call an early general election, which was not due until next summer.
+Sources told Spanish media that the government would spend the weekend deciding its next step, and whether to dissolve parliament.
+Sánchez's beleaguered government had already been mired in a series of scandals and judicial cases affecting his Socialist Party and close allies.
+Abascal was evicted after she was unable to pay a sharp rent increase introduced by Urbagestión, the company that owned her flat in central Madrid.
+Hundreds of protesters gathered to oppose the eviction last week and the case triggered a broader movement across the country demanding affordable rentals, which have soared in recent years.
+The social backlash has seen Urbagestión negotiate the return of Abascal to her flat on a low rent. However, protests have continued, with people occupying squares in Madrid and other cities, pitching tents in squares and with a series of marches scheduled for this weekend.
+The Sindicato de Inquilinas (Tenants' Union) activist association which has been co-ordinating protests, announced during the congressional debate that it was abandoning the tent protest in central Madrid. It said it wanted to "take the struggle to all the neighbourhoods, residential blocks and homes of Madrid, wherever there are rental increases, expulsions and abuses each day, and turn the energy of the last few days into a permanent organisation".
+Protesters are also calling for a general strike over the housing crisis.
+The left-wing coalition government responded to the social anger by hurriedly drawing up the two decree-laws in an effort to defuse the protests.
+The first decree included the suspension of evictions of vulnerable tenants until 2030, a two-year extension to rental leases due to expire before 2028, tax increases for tourist apartments, and a restriction on the purchase of residential properties by what the government calls "vulture funds".
+The second decree was more controversial, because it included the automatic renewal of rental contracts, a major demand of many on the left and the Sindicato de Inquilinas.
+The conservative People's Party (PP) and far-right Vox had already said they would vote against both initiatives, leaving the minority government depending on the support of smaller nationalist parties in Catalonia and the Basque Country.
+However, by the eve of the parliamentary session, the centre-right, pro-independence Together for Catalonia (JxCat) had signalled its opposition to both laws, condemning them to failure.
+Friday's debate was fierce and at times angry, as supporters and opponents of the decrees clashed in Congress.
+"I don't ask you, I beg you to be brave and consistent," Sánchez said, moments before the two votes took place. "Because they are not just ambitious measures, they are necessary".
+He appealed to lawmakers "to put order and humanity into [the housing] market, because if we don't, it will bring down our society".
+Social Affairs minister Pablo Bustinduy, of the Sumar alliance, the junior partner in the governing coalition, presented the debate in dramatic terms.
+"Today is about defending an international oligarchy which is extracting the rent from salaries earned with the effort of working classes of this country in order to share it out with dividends and they don't even pay taxes in Spain," he said.
+"Voting against these decrees today means defending the interests of this oligarchy and turning your back on your own people."
+However, Miriam Nogueras, of JxCat, said the decrees had been hastily drawn up and lacked rigour.
+She said the decrees "will allow [vulture] funds to keep buying, keep speculating and evictions to keep happening… these two decrees would provoke the opposite effect of what they aim to achieve."
+The political right has argued that the government's attempts to intervene will frighten homeowners, causing them not to put their properties on the rental market and pushing prices up further.
+Juan Bravo of the PP said "housing doesn't get cheaper with decrees, it gets cheaper with more homes".
+Related topics
+- Published3 days ago
+- Published23 September`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-02T15:30:12+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/810a/live/a7710370-be62-11f1-b36c-81ad410b221e.jpg",
+    readTime: 10,
   },
   {
     id: "us-jobs-market-sees-sharp-slowdown-ahead-ed643201",
@@ -1861,404 +2243,6 @@ Related topics
     category: "金融政策",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c4/live/c0dffc20-bdb9-11f1-b7d8-31573a2bd831.jpg",
     readTime: 8,
-  },
-  {
-    id: "the-stock-market-is-a-hollow-tree-that-c-e0443836",
-    title: "The stock market is a hollow tree that could be about to snap, warns bond king Gundlach",
-    titleJa: "The stock market is a hollow tree that could be about to snap, warns bond king Gundlach",
-    summaryJa: "Stocks are facing a lot of issues right now, even if investors think everything looks great on the surface warns DoubleLine Capital’s Jeffrey Gundlach.",
-    bodyOriginal: `Stocks are facing a lot of issues right now, even if investors think everything looks great on the surface warns DoubleLine Capital’s Jeffrey Gundlach.`,
-    bodyJa: `Stocks are facing a lot of issues right now, even if investors think everything looks great on the surface warns DoubleLine Capital’s Jeffrey Gundlach.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/the-stock-market-is-a-hollow-tree-that-could-be-about-to-snap-warns-bond-king-gundlach-215134f0?mod=mw_rss_topstories",
-    publishedAt: "2026-10-01T13:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-02159256",
-    readTime: 2,
-  },
-  {
-    id: "travelodge-failed-sex-assault-victim-at-7ae85481",
-    title: "Travelodge failed sex assault victim 'at every stage'",
-    titleJa: "Travelodge failed sex assault victim 'at every stage'",
-    summaryJa: "Room intrusions were still being reported at one-in-10 Travelodge hotels this summer, a review finds.",
-    bodyOriginal: `Travelodge failed sex assault victim 'at every stage'
-- Published
-A woman who was sexually assaulted by a man given a key to her hotel room was "fundamentally failed" by Travelodge "at every stage", an independent review has found.
-Barrister Paul Greaney KC said the chain's security policies at the time of the attack at its Maidenhead hotel in December 2022 were "not fit for the purpose of keeping guests safe".
-He found guests were still not as safe as they should be, with room intrusions reported at nearly one-in-10 Travelodge hotels this summer, and no policy in place on violence against women and girls.
-Travelodge apologised "unreservedly" to the woman. The review did credit the company with making changes since March.
-Kyran Smith, who obtained the key by falsely claiming to be the woman's boyfriend, was jailed for seven-and-a-half years in January.
-The review found he was handed the key less than three minutes after approaching the reception desk, by a receptionist who had received no training in key security.
-Greaney said blame rested with Travelodge as an organisation rather than with individual staff, and a culture had developed in which room intrusions were regarded as "one of those things".
-The woman emailed a complaint to Travelodge in January 2023, addressed to chief executive Jo Boydell and others.
-The review concluded the email was handled by her office without her knowledge, and did not come to Boydell's attention until March 2026.
-The woman's complaint was instead investigated by a manager who was himself criticised in it, and the customer services team offered her a refund for her night's stay, which she understood to be £30.
-Boydell stepped down as chief executive in August following criticism over the company's handling of safety complaints. The review said she deserved credit for driving improvements from March.
-The attack became national news in March after the woman contacted the BBC, saying the case raised serious questions about room security at Travelodge hotels.
-Since then, dozens of people have shared experiences of strangers entering their rooms, including a domestic abuse victim whose abuser was given a key to her room at a Travelodge in London.
-Then-Prime Minister Sir Keir Starmer wrote to Boydell in March urging her to "seriously engage" with the government over security. Greaney was appointed to lead the review the following month.
-The review makes 38 recommendations, including moving towards a system that requires guests to show ID to get a room key, which Travelodge has been trialling at some hotels since May.
-It also calls for body-worn cameras for reception staff, better checks that staff have understood their training, and for housekeepers to always send guests to reception.
-Greaney said Travelodge must "urgently" create a policy on violence against women and girls, drawn up with the Suzy Lamplugh Trust, and train all staff in it.
-The review said changes made this year had been done quickly "albeit years too late" and its new key security policy would prevent a repeat of the Maidenhead attack if applied correctly.
-But it found the policy was "not being applied with anything like sufficient consistency on the ground".
-Mystery shoppers were able to get into rooms through housekeeping staff at all five hotels tested, including Maidenhead, without being sent to reception or asked for proof they were entitled to enter.
-At three of the hotels, staff confirmed a guest was staying there, and at two, room numbers were said out loud at check-in. The Maidenhead hotel scored worst of the five.
-Other recommendations included networked CCTV across the chain and key card-controlled access to all residential corridors.
-Greaney said room intrusions were a problem across the hotel sector.
-He praised the woman's courage and determination, saying the problems would have remained "beneath the surface" had she not shared her experience.
-Freddie van Mierlo, the Liberal Democrat MP for Henley and Thame, where Travelodge is based, said he was worried the company was "still trying to do safety on the cheap".
-He said the review's recommendations would require "significant capital investment", and Travelodge needed to make clear it was prepared to deliver that.
-Ray Reidy, Travelodge's interim chief executive, said the review made clear there were failures in its policies and in the way customers had been treated.
-"I apologise unreservedly on behalf of Travelodge to all guests where we have failed," he said.
-"We have made significant progress in preventing and addressing these issues over the past six months, and we recognise we still have further to go."
-Travelodge said a new board committee would oversee the changes, with independent assessments of its progress after six and 12 months.
-Get in touch
-Do you have a story BBC Berkshire should cover?`,
-    bodyJa: `Travelodge failed sex assault victim 'at every stage'
-- Published
-A woman who was sexually assaulted by a man given a key to her hotel room was "fundamentally failed" by Travelodge "at every stage", an independent review has found.
-Barrister Paul Greaney KC said the chain's security policies at the time of the attack at its Maidenhead hotel in December 2022 were "not fit for the purpose of keeping guests safe".
-He found guests were still not as safe as they should be, with room intrusions reported at nearly one-in-10 Travelodge hotels this summer, and no policy in place on violence against women and girls.
-Travelodge apologised "unreservedly" to the woman. The review did credit the company with making changes since March.
-Kyran Smith, who obtained the key by falsely claiming to be the woman's boyfriend, was jailed for seven-and-a-half years in January.
-The review found he was handed the key less than three minutes after approaching the reception desk, by a receptionist who had received no training in key security.
-Greaney said blame rested with Travelodge as an organisation rather than with individual staff, and a culture had developed in which room intrusions were regarded as "one of those things".
-The woman emailed a complaint to Travelodge in January 2023, addressed to chief executive Jo Boydell and others.
-The review concluded the email was handled by her office without her knowledge, and did not come to Boydell's attention until March 2026.
-The woman's complaint was instead investigated by a manager who was himself criticised in it, and the customer services team offered her a refund for her night's stay, which she understood to be £30.
-Boydell stepped down as chief executive in August following criticism over the company's handling of safety complaints. The review said she deserved credit for driving improvements from March.
-The attack became national news in March after the woman contacted the BBC, saying the case raised serious questions about room security at Travelodge hotels.
-Since then, dozens of people have shared experiences of strangers entering their rooms, including a domestic abuse victim whose abuser was given a key to her room at a Travelodge in London.
-Then-Prime Minister Sir Keir Starmer wrote to Boydell in March urging her to "seriously engage" with the government over security. Greaney was appointed to lead the review the following month.
-The review makes 38 recommendations, including moving towards a system that requires guests to show ID to get a room key, which Travelodge has been trialling at some hotels since May.
-It also calls for body-worn cameras for reception staff, better checks that staff have understood their training, and for housekeepers to always send guests to reception.
-Greaney said Travelodge must "urgently" create a policy on violence against women and girls, drawn up with the Suzy Lamplugh Trust, and train all staff in it.
-The review said changes made this year had been done quickly "albeit years too late" and its new key security policy would prevent a repeat of the Maidenhead attack if applied correctly.
-But it found the policy was "not being applied with anything like sufficient consistency on the ground".
-Mystery shoppers were able to get into rooms through housekeeping staff at all five hotels tested, including Maidenhead, without being sent to reception or asked for proof they were entitled to enter.
-At three of the hotels, staff confirmed a guest was staying there, and at two, room numbers were said out loud at check-in. The Maidenhead hotel scored worst of the five.
-Other recommendations included networked CCTV across the chain and key card-controlled access to all residential corridors.
-Greaney said room intrusions were a problem across the hotel sector.
-He praised the woman's courage and determination, saying the problems would have remained "beneath the surface" had she not shared her experience.
-Freddie van Mierlo, the Liberal Democrat MP for Henley and Thame, where Travelodge is based, said he was worried the company was "still trying to do safety on the cheap".
-He said the review's recommendations would require "significant capital investment", and Travelodge needed to make clear it was prepared to deliver that.
-Ray Reidy, Travelodge's interim chief executive, said the review made clear there were failures in its policies and in the way customers had been treated.
-"I apologise unreservedly on behalf of Travelodge to all guests where we have failed," he said.
-"We have made significant progress in preventing and addressing these issues over the past six months, and we recognise we still have further to go."
-Travelodge said a new board committee would oversee the changes, with independent assessments of its progress after six and 12 months.
-Get in touch
-Do you have a story BBC Berkshire should cover?`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c93429dg425o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-01T11:44:40+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0380/live/6a80b640-bd8b-11f1-babe-4199b0e7ccea.jpg",
-    readTime: 10,
-  },
-  {
-    id: "trump-s-ai-rebrand-causes-unprecedented-d9f60b42",
-    title: "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-    titleJa: "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-    summaryJa: "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
-    bodyOriginal: `Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names
-- Published
-President Donald Trump's push to rename AI may be behind an "unprecedented" rise in registrations for domain names in Slovenia, according to its official national registry.
-The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian websites.
-Register.si spokesperson Klara Herman said 44,000 web addresses with the .si suffix had been registered in September, compared to less than 2,000 in August - an increase of more than 2,100%.
-She said the scale of activity in late September was "unprecedented" compared to the previous 12 months.
-President Trump called for the technology to be renamed during his speech to the United Nations General Assembly in New York on 11 September.
-"The use of the word artificial makes it sound fake," he said.
-"It's not fake, it's actually amazing. But we have to be careful... welcome to the new world of super intelligence."
-Internet domains are the unique human-readable addresses people type into their web browsers to access websites - like bbc.co.uk.
-Herman said registrations for .si web addresses in September stood out "very clearly" against the other months in the year, although she was "cautious" about attributing the entire increase to only President Trump's comments.
-She said on 30 September alone, 11,000 new registrations were recorded.
-One possible explanation for the purchases is cyber-squatting - where people speculatively register specific domain names in case they increase in value later on and can be sold for a profit.
-For example, in 1997 Rick Schwartz, known as "The Domain King", bought the domain name men.com for $15,000 (£11,300). He sold it for $1.32 million seven years later.
-On Tuesday, President Trump hosted a meeting of top technology bosses for what he called "an extraordinary gathering" of the people "building America's Golden Age".
-He signed an executive order instructing US government departments and agencies to start using the terms "SI" and "Super Intelligence" and they should no longer acknowledge the use of the term AI.
-SI will take the place of AI in "official correspondence", websites, reports and other forms of communication, the order said.
-Images of the signatures for the order were mocked online, external however - when it was discovered "United States" had been spelt incorrectly underneath President Trump's signature.
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
-Related topics
-- Published1 day ago
-- Published1 day ago`,
-    bodyJa: `Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names
-- Published
-President Donald Trump's push to rename AI may be behind an "unprecedented" rise in registrations for domain names in Slovenia, according to its official national registry.
-The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian websites.
-Register.si spokesperson Klara Herman said 44,000 web addresses with the .si suffix had been registered in September, compared to less than 2,000 in August - an increase of more than 2,100%.
-She said the scale of activity in late September was "unprecedented" compared to the previous 12 months.
-President Trump called for the technology to be renamed during his speech to the United Nations General Assembly in New York on 11 September.
-"The use of the word artificial makes it sound fake," he said.
-"It's not fake, it's actually amazing. But we have to be careful... welcome to the new world of super intelligence."
-Internet domains are the unique human-readable addresses people type into their web browsers to access websites - like bbc.co.uk.
-Herman said registrations for .si web addresses in September stood out "very clearly" against the other months in the year, although she was "cautious" about attributing the entire increase to only President Trump's comments.
-She said on 30 September alone, 11,000 new registrations were recorded.
-One possible explanation for the purchases is cyber-squatting - where people speculatively register specific domain names in case they increase in value later on and can be sold for a profit.
-For example, in 1997 Rick Schwartz, known as "The Domain King", bought the domain name men.com for $15,000 (£11,300). He sold it for $1.32 million seven years later.
-On Tuesday, President Trump hosted a meeting of top technology bosses for what he called "an extraordinary gathering" of the people "building America's Golden Age".
-He signed an executive order instructing US government departments and agencies to start using the terms "SI" and "Super Intelligence" and they should no longer acknowledge the use of the term AI.
-SI will take the place of AI in "official correspondence", websites, reports and other forms of communication, the order said.
-Images of the signatures for the order were mocked online, external however - when it was discovered "United States" had been spelt incorrectly underneath President Trump's signature.
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
-Related topics
-- Published1 day ago
-- Published1 day ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-01T11:37:46+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ff7/live/977f2bf0-bd85-11f1-ab03-fd866f8788d0.jpg",
-    readTime: 7,
-  },
-  {
-    id: "japan-s-prime-minister-says-her-policies-d3407673",
-    title: "Japan's prime minister says her policies will boost confidence in the yen after U.S. intervention falls short",
-    titleJa: "Japan's prime minister says her policies will boost confidence in the yen after U.S. intervention falls short",
-    summaryJa: "Japan's Prime Minister said her government's policies will lift confidence in the yen, following underwhelming success in prior efforts to boost the currency.",
-    bodyOriginal: `Japan's Prime Minister said on Thursday that her government's policies will lift market confidence in the yen, after previous efforts to boost the currency, including U.S. intervention, underwhelmed.
-Sanae Takaichi told Nippon Television, in comments translated by Reuters, that she told U.S. President Donald Trump that the currency's undervaluation was a problem when the pair spoke last month.
-"Our economic policy is not aimed at manipulating exchange rates," Takaichi said.
-"My administration aims to boost Japan's growth potential by increasing the economy's supply capacity through bold investment in crisis management and growth areas."
-"Such efforts would strengthen Japan's global competitiveness, thereby helping ensure market confidence in the yen."
-A joint U.S.-Japan intervention to support the yen, along with the Bank of Japan's 25 basis point September rate hike, helped make the yen the G10's top-performing currency in the third quarter, adding 3.3% against the dollar, according to Deutsche Bank data.
-The dollar traded at 158.37 yen, as of 5.57 a.m. ET Thursday, down from a peak above 163 in late July but up by around 7.65% over the last year.
-Societe Generale's chief FX strategist, Kit Juckes, wrote in a Wednesday note that there is "a strong market perception that further USD/JPY intervention is likely in the near future," with current pricing reflecting investors' "reluctance to be caught out by intervention."
-"Another spike in oil prices could easily reverse the recent improvement in risk sentiment, however, and caution still seems warranted," he added.
-FX strategists at OCBC Group Research, Sim Moh Siong and Christopher Wong, said in a Monday note that the yen's "cheap valuation has done little to ease depreciation pressures."
-"While the threat of further intervention should limit disorderly depreciation, intervention alone is unlikely to deliver a sustained recovery without support from domestic policy changes," they added.
-Yen weakness is a headache for Japan's policymakers
-The yen's weakness has pushed up Japanese import costs and broader inflation, with Takaichi's spending plans blamed by critics for pressure on the currency and higher bond yields.
-U.S. policymakers are thought to be concerned about yen weakness as it could prompt Japan to sell down its Treasury holdings.
-Japan holds the largest share of Treasurys among foreign buyers, according to the Treasury Department, with more than $1.1 trillion of U.S. debt.
-The Japanese government will set spending at levels consistent with lowering Japan's debt-to-GDP ratio and "appropriately manage" the size of bond issuances, Takaichi said.
-"We will secure funding in responding to fiscal needs," she added.`,
-    bodyJa: `Japan's Prime Minister said on Thursday that her government's policies will lift market confidence in the yen, after previous efforts to boost the currency, including U.S. intervention, underwhelmed.
-Sanae Takaichi told Nippon Television, in comments translated by Reuters, that she told U.S. President Donald Trump that the currency's undervaluation was a problem when the pair spoke last month.
-"Our economic policy is not aimed at manipulating exchange rates," Takaichi said.
-"My administration aims to boost Japan's growth potential by increasing the economy's supply capacity through bold investment in crisis management and growth areas."
-"Such efforts would strengthen Japan's global competitiveness, thereby helping ensure market confidence in the yen."
-A joint U.S.-Japan intervention to support the yen, along with the Bank of Japan's 25 basis point September rate hike, helped make the yen the G10's top-performing currency in the third quarter, adding 3.3% against the dollar, according to Deutsche Bank data.
-The dollar traded at 158.37 yen, as of 5.57 a.m. ET Thursday, down from a peak above 163 in late July but up by around 7.65% over the last year.
-Societe Generale's chief FX strategist, Kit Juckes, wrote in a Wednesday note that there is "a strong market perception that further USD/JPY intervention is likely in the near future," with current pricing reflecting investors' "reluctance to be caught out by intervention."
-"Another spike in oil prices could easily reverse the recent improvement in risk sentiment, however, and caution still seems warranted," he added.
-FX strategists at OCBC Group Research, Sim Moh Siong and Christopher Wong, said in a Monday note that the yen's "cheap valuation has done little to ease depreciation pressures."
-"While the threat of further intervention should limit disorderly depreciation, intervention alone is unlikely to deliver a sustained recovery without support from domestic policy changes," they added.
-Yen weakness is a headache for Japan's policymakers
-The yen's weakness has pushed up Japanese import costs and broader inflation, with Takaichi's spending plans blamed by critics for pressure on the currency and higher bond yields.
-U.S. policymakers are thought to be concerned about yen weakness as it could prompt Japan to sell down its Treasury holdings.
-Japan holds the largest share of Treasurys among foreign buyers, according to the Treasury Department, with more than $1.1 trillion of U.S. debt.
-The Japanese government will set spending at levels consistent with lowering Japan's debt-to-GDP ratio and "appropriately manage" the size of bond issuances, Takaichi said.
-"We will secure funding in responding to fiscal needs," she added.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/01/japan-yen-dollar-trump-intervention.html",
-    publishedAt: "2026-10-01T11:13:25+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "10-year-treasury-yield-hits-highest-leve-ebe0a571",
-    title: "10-year Treasury yield hits highest level since 2002 as global bond rout gathers pace",
-    titleJa: "10-year Treasury yield hits highest level since 2002 as global bond rout gathers pace",
-    summaryJa: "Treasury yields were higher on Thursday amid a global sell-off in government debt.",
-    bodyOriginal: `U.S. Treasury yields hit their highest level in more than two decades on Thursday as a global bond sell-off deepened.
-The 10-year Treasury yield breached a level last seen in April 2002, rising 4 basis points to 5.3338%, according to LSEG data. The figure is key to rates for mortgage borrowing, auto loans and credit card debt.
-The yield on the 30-year Treasury bond jumped 3 basis points to 5.6702%, its highest level since July 2002. The 2-year yield was 2 basis points higher at 4.91%.
-Yields and prices move inversely. One basis point equals 0.01%.
-Loading chart...
-Government borrowing costs rose around the world on Thursday, continuing a months-long trend as investors express concerns over a lack of political action to tackle fiscal deficits, while inflation remains sticky and interest rates rise.
-Major economies face "persistently large deficits and rising interest expenses — challenges long associated with debt-distressed emerging market sovereigns," the Institute of International Finance said last week.
-Japan's 10-year yield was last seen at 3.126%, the highest level in three decades. Japan's globally influential debt has come under pressure from a weaker yen and rate hikes by the Bank of Japan.
-The yield on the German 10-year bund, the benchmark for the euro area, was up 4 basis points at 3.6179% — its highest since 2008. Elsewhere in Europe, the French 10-year popped 11 basis points to 4.9501%, Italy's 10-year was up 10 basis points to 4.7171%, while the U.K.'s 10-year yield was up 5 basis points to 5.483%.
-Bonds are increasingly moving in lockstep with oil prices, which have been turbulent amid the U.S. and Israel's war with Iran obstructing crude exports from the Middle East. Crude oil prices were higher on Thursday, with international benchmark Brent Crude back above $100 a barrel.
-"We could see [bond] buyers come in effectively to take advantage of those yields, which would have the effect of causing them to go down, but also one of the things that has kept the volatility in those yields in the long end of the curve has been what's going on with oil, what's going on with inflation," Nomi Prins, founder of Prinsights Global, told CNBC's "Squawk Box Europe" on Thursday.
-But sovereign wealth funds and central banks, among the main long-term holders of Treasury debt, are unlikely to do this, Prins said.
-"We could see movement ... in Treasury yields going down if oil prices go down significantly, if there's a resolution" in the Middle East, Prins added.`,
-    bodyJa: `U.S. Treasury yields hit their highest level in more than two decades on Thursday as a global bond sell-off deepened.
-The 10-year Treasury yield breached a level last seen in April 2002, rising 4 basis points to 5.3338%, according to LSEG data. The figure is key to rates for mortgage borrowing, auto loans and credit card debt.
-The yield on the 30-year Treasury bond jumped 3 basis points to 5.6702%, its highest level since July 2002. The 2-year yield was 2 basis points higher at 4.91%.
-Yields and prices move inversely. One basis point equals 0.01%.
-Loading chart...
-Government borrowing costs rose around the world on Thursday, continuing a months-long trend as investors express concerns over a lack of political action to tackle fiscal deficits, while inflation remains sticky and interest rates rise.
-Major economies face "persistently large deficits and rising interest expenses — challenges long associated with debt-distressed emerging market sovereigns," the Institute of International Finance said last week.
-Japan's 10-year yield was last seen at 3.126%, the highest level in three decades. Japan's globally influential debt has come under pressure from a weaker yen and rate hikes by the Bank of Japan.
-The yield on the German 10-year bund, the benchmark for the euro area, was up 4 basis points at 3.6179% — its highest since 2008. Elsewhere in Europe, the French 10-year popped 11 basis points to 4.9501%, Italy's 10-year was up 10 basis points to 4.7171%, while the U.K.'s 10-year yield was up 5 basis points to 5.483%.
-Bonds are increasingly moving in lockstep with oil prices, which have been turbulent amid the U.S. and Israel's war with Iran obstructing crude exports from the Middle East. Crude oil prices were higher on Thursday, with international benchmark Brent Crude back above $100 a barrel.
-"We could see [bond] buyers come in effectively to take advantage of those yields, which would have the effect of causing them to go down, but also one of the things that has kept the volatility in those yields in the long end of the curve has been what's going on with oil, what's going on with inflation," Nomi Prins, founder of Prinsights Global, told CNBC's "Squawk Box Europe" on Thursday.
-But sovereign wealth funds and central banks, among the main long-term holders of Treasury debt, are unlikely to do this, Prins said.
-"We could see movement ... in Treasury yields going down if oil prices go down significantly, if there's a resolution" in the Middle East, Prins added.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/01/us-treasury-bond-yield.html",
-    publishedAt: "2026-10-01T10:22:44+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "the-u-s-just-made-it-much-easier-for-ret-232f171c",
-    title: "The U.S. just made it much easier for retail investors to access private markets",
-    titleJa: "The U.S. just made it much easier for retail investors to access private markets",
-    summaryJa: "The Securities and Exchange Commission has approved new plans to open private markets up to retail investors.",
-    bodyOriginal: `The Securities and Exchange Commission has greenlit sweeping plans to widen access to private markets to individual investors — just as the industry's rush into retail faces sharper scrutiny.
-SEC chairman Paul Atkins said investor demand for private market investment opportunities is growing, adding that exposure to "one of the great engines of American enterprise" should "not be reserved for the wealthiest or for those deemed to be the most sophisticated."
-The proposals, approved Wednesday by the U.S. regulator, would seek to expand the number and type of ways for individuals to qualify as accredited investors.
-"One of my priorities for the Commission is to explore ways to facilitate the ability of individual investors to participate in private markets, while at the same time protecting those investors from bad actors and fraud," Atkins said in a statement.
-The SEC proposals include permitting registered investment advisers (RIAs) to charge performance fees of up to 20% — a level comparable to fees historically used in the hedge fund and alternatives space — to draw more private asset managers into the retail wealth space.
-The Trump administration has been keen to ease regulatory guardrails on private markets and expand access to ordinary investors. Last August, U.S. President Donald Trump signed an executive order, titled 'Democratizing Access to Alternative Assets for 401(k) Investors', which allows Americans to put more of their retirement plans into private equity and other alternatives.
-Retail investors in the private space
-But the move comes as the private assets industry's push into the retail wealth space has drawn closer scrutiny, largely because the harder-to-sell, higher-yielding assets on offer do not fit neatly with retail investors' expectations of easy access to their money.
-Some so-called "semi-liquid" private credit business development vehicles saw a surge in redemption requests earlier this year, as investors — including retail clients — scrambled to withdraw their money amid concerns over risky software debt.
-In February, Blue Owl Capital paused regular quarterly cash redemptions in its U.S. retail-focused Blue Owl Capital Corporation II fund, after a rise in investor withdrawal requests.
-Other private credit managers, including Blackstone and Apollo, also received repurchase requests that exceeded their funds' existing quarterly limits.
-Blackstone's Chief Operating Officer and President Jon Gray told CNBC in March that gating measures are "really a feature, not a bug" of private credit vehicles.`,
-    bodyJa: `The Securities and Exchange Commission has greenlit sweeping plans to widen access to private markets to individual investors — just as the industry's rush into retail faces sharper scrutiny.
-SEC chairman Paul Atkins said investor demand for private market investment opportunities is growing, adding that exposure to "one of the great engines of American enterprise" should "not be reserved for the wealthiest or for those deemed to be the most sophisticated."
-The proposals, approved Wednesday by the U.S. regulator, would seek to expand the number and type of ways for individuals to qualify as accredited investors.
-"One of my priorities for the Commission is to explore ways to facilitate the ability of individual investors to participate in private markets, while at the same time protecting those investors from bad actors and fraud," Atkins said in a statement.
-The SEC proposals include permitting registered investment advisers (RIAs) to charge performance fees of up to 20% — a level comparable to fees historically used in the hedge fund and alternatives space — to draw more private asset managers into the retail wealth space.
-The Trump administration has been keen to ease regulatory guardrails on private markets and expand access to ordinary investors. Last August, U.S. President Donald Trump signed an executive order, titled 'Democratizing Access to Alternative Assets for 401(k) Investors', which allows Americans to put more of their retirement plans into private equity and other alternatives.
-Retail investors in the private space
-But the move comes as the private assets industry's push into the retail wealth space has drawn closer scrutiny, largely because the harder-to-sell, higher-yielding assets on offer do not fit neatly with retail investors' expectations of easy access to their money.
-Some so-called "semi-liquid" private credit business development vehicles saw a surge in redemption requests earlier this year, as investors — including retail clients — scrambled to withdraw their money amid concerns over risky software debt.
-In February, Blue Owl Capital paused regular quarterly cash redemptions in its U.S. retail-focused Blue Owl Capital Corporation II fund, after a rise in investor withdrawal requests.
-Other private credit managers, including Blackstone and Apollo, also received repurchase requests that exceeded their funds' existing quarterly limits.
-Blackstone's Chief Operating Officer and President Jon Gray told CNBC in March that gating measures are "really a feature, not a bug" of private credit vehicles.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/01/private-credit-sec-retail-investors.html",
-    publishedAt: "2026-10-01T08:30:55+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "employers-should-teach-primary-age-child-4e6f7612",
-    title: "Employers should teach primary-age children about work, says Milburn",
-    titleJa: "Employers should teach primary-age children about work, says Milburn",
-    summaryJa: "The author of a major report into youth activity in the UK says children as young as four should be learning about careers.",
-    bodyOriginal: `Employers should teach primary-age children about work, says Milburn
-- Published
-Children should be introduced to the world of work at the start of primary school, says the author of a major report into youth activity in the UK.
-Former minister Alan Milburn says children as young as four should be learning about different careers, with work experience placements made mandatory for 14- to 16-year-olds.
-However, teaching unions warn of the "significant pressure" already facing primary schools and say practical considerations must ensure all schools have access to the support.
-The latest data from the Office for National Statistics (ONS) suggests 981,000 people aged 16 to 24 in the UK were not in education, employment or training (known as Neet), between April and June 2026.
-Milburn told the BBC "in primary school, it's really about opening their eyes and giving them a sense about what is possible".
-Despite a push towards apprenticeships and work experience in Years 10 and 11, for many the journey towards becoming Neet starts well before their 16th birthday.
-As a result, Milburn says children should be introduced to the world of work much earlier in their school journey, with dedicated space in the curriculum to "broaden horizons".
-He told the BBC this could be achieved by employers giving talks in primary schools and offering taster sessions to children.
-"It'd be good if employers came into schools and said, 'Look, this is what's going on, these are things that are possible.'"
-Milburn says that for Key Stage 4 pupils - aged between 14 and 16 - experience must be given in a real workplace with employer feedback.
-"Work experience needs to be mandatory. It makes a big difference," he told the BBC.
-Milburn also emphasised the difficulty some young people face when trying to find work experience placements.
-"There are about four in ten people aged 14-16 who aren't getting any work experience at all," he said. "In other schools, students are told to go off and find their own work experience and that often relies on the network of Mum and Dad."
-Political Thinking with Nick Robinson
-We're failing the next generation: Alan Milburn on getting young people into work
-These recommendations are due to be published in the final instalment of his government-commissioned report into the issue, which is expected to be published in the autumn.
-Education is devolved in the UK, so while Milburn's review looks at the picture in all four nations, his recommendations regarding education are specific to England.
-Currently in England, careers guidance must be offered to students aged 11-18 and work experience is not statutory.
-The government has said its vision, external is to "guarantee two weeks' worth of work experience for every young person" in England.
-In both Scotland and Wales, career-based learning is already a requirement in schools for students as young as three.
-Emma, from Kirklees, has grandchildren in Years 1, 2 and 4 and thinks primary school is too young to be introducing careers talks.
-"In primary school, there is too much trying to get little kids to grow up too quickly," she says.
-"Just let them be little kids. I know they have to learn and the world's changing, but still, give them a chance to be kids."
-But Zoe, another parent, disagrees.
-"I think it's a good idea," she says. "It's something that everyone has to do, so if you learn early, it's something they don't have to learn later on."
-Teaching unions have responded positively to the idea of introducing career-based learning into schools at a younger age, but have warned about the burden this could place on primary schools in particular.
-Paul Whiteman, general secretary of school leaders' union National Association of Head Teachers (NAHT), warns of the "significant pressure" already facing primary schools.
-"Whenever new mandatory requirements are proposed, it is important to be clear about what might have to give way to make room for them," he says.
-Whiteman also highlights the value of existing programmes such as "Primary Futures", which bring in volunteers from different professions into schools to "challenge stereotypes and raise aspirations".
-"The earlier young people can begin to make connections between what they learn in school and the possibilities that lie ahead, the better," Whiteman says.
-Pepe Di'Iasio, general secretary of the Association of School and College Leaders (ASCL), says having someone come into the classroom can really "enlighten [children's] motivation... and give them that sense of passion for all the opportunities beyond the classroom". Although he acknowledges that finding opportunities in rural areas could be more challenging.
-Get in touch
-Are you affected by issues covered in this story?
-Related topics
-- Published17 September`,
-    bodyJa: `Employers should teach primary-age children about work, says Milburn
-- Published
-Children should be introduced to the world of work at the start of primary school, says the author of a major report into youth activity in the UK.
-Former minister Alan Milburn says children as young as four should be learning about different careers, with work experience placements made mandatory for 14- to 16-year-olds.
-However, teaching unions warn of the "significant pressure" already facing primary schools and say practical considerations must ensure all schools have access to the support.
-The latest data from the Office for National Statistics (ONS) suggests 981,000 people aged 16 to 24 in the UK were not in education, employment or training (known as Neet), between April and June 2026.
-Milburn told the BBC "in primary school, it's really about opening their eyes and giving them a sense about what is possible".
-Despite a push towards apprenticeships and work experience in Years 10 and 11, for many the journey towards becoming Neet starts well before their 16th birthday.
-As a result, Milburn says children should be introduced to the world of work much earlier in their school journey, with dedicated space in the curriculum to "broaden horizons".
-He told the BBC this could be achieved by employers giving talks in primary schools and offering taster sessions to children.
-"It'd be good if employers came into schools and said, 'Look, this is what's going on, these are things that are possible.'"
-Milburn says that for Key Stage 4 pupils - aged between 14 and 16 - experience must be given in a real workplace with employer feedback.
-"Work experience needs to be mandatory. It makes a big difference," he told the BBC.
-Milburn also emphasised the difficulty some young people face when trying to find work experience placements.
-"There are about four in ten people aged 14-16 who aren't getting any work experience at all," he said. "In other schools, students are told to go off and find their own work experience and that often relies on the network of Mum and Dad."
-Political Thinking with Nick Robinson
-We're failing the next generation: Alan Milburn on getting young people into work
-These recommendations are due to be published in the final instalment of his government-commissioned report into the issue, which is expected to be published in the autumn.
-Education is devolved in the UK, so while Milburn's review looks at the picture in all four nations, his recommendations regarding education are specific to England.
-Currently in England, careers guidance must be offered to students aged 11-18 and work experience is not statutory.
-The government has said its vision, external is to "guarantee two weeks' worth of work experience for every young person" in England.
-In both Scotland and Wales, career-based learning is already a requirement in schools for students as young as three.
-Emma, from Kirklees, has grandchildren in Years 1, 2 and 4 and thinks primary school is too young to be introducing careers talks.
-"In primary school, there is too much trying to get little kids to grow up too quickly," she says.
-"Just let them be little kids. I know they have to learn and the world's changing, but still, give them a chance to be kids."
-But Zoe, another parent, disagrees.
-"I think it's a good idea," she says. "It's something that everyone has to do, so if you learn early, it's something they don't have to learn later on."
-Teaching unions have responded positively to the idea of introducing career-based learning into schools at a younger age, but have warned about the burden this could place on primary schools in particular.
-Paul Whiteman, general secretary of school leaders' union National Association of Head Teachers (NAHT), warns of the "significant pressure" already facing primary schools.
-"Whenever new mandatory requirements are proposed, it is important to be clear about what might have to give way to make room for them," he says.
-Whiteman also highlights the value of existing programmes such as "Primary Futures", which bring in volunteers from different professions into schools to "challenge stereotypes and raise aspirations".
-"The earlier young people can begin to make connections between what they learn in school and the possibilities that lie ahead, the better," Whiteman says.
-Pepe Di'Iasio, general secretary of the Association of School and College Leaders (ASCL), says having someone come into the classroom can really "enlighten [children's] motivation... and give them that sense of passion for all the opportunities beyond the classroom". Although he acknowledges that finding opportunities in rural areas could be more challenging.
-Get in touch
-Are you affected by issues covered in this story?
-Related topics
-- Published17 September`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-01T07:07:08+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5972/live/53bea8b0-bcc1-11f1-874a-09d072a27eab.jpg",
-    readTime: 10,
-  },
-  {
-    id: "uk-prime-minister-burnham-says-iran-play-3e622bd6",
-    title: "UK Prime Minister Burnham says Iran 'played a part' in British air base incident",
-    titleJa: "UK Prime Minister Burnham says Iran 'played a part' in British air base incident",
-    summaryJa: "RAF Fairford has been used as the U.S. Air Force's command outpost for operations from Europe and for American strikes on Iranian missile sites.",
-    bodyOriginal: `United Kingdom Prime Minister Andy Burnham said Iran was involved in the incident at the Royal Air Force base in Fairford on Sunday that led to the arrest of five men on suspicion of explosive and terrorism offences.
-Speaking to the BBC Wednesday, Burnham said that "There are strong indications that Iran played a part in what happened over the weekend at RAF Fairford," without providing additional details. In response, Iranian Foreign Minister Abbas Araghchi said on X that Burnham was "barking up the wrong tree."
-RAF Fairford, located in Gloucestershire, has been used as the U.S. Air Force's command outpost for operations from Europe and for American strikes on Iranian missile sites.
-London had initially denied the U.S. permission to use UK bases for its war on Iran, but former Prime Minister Keir Starmer had allowed it for "defensive strikes."
-Burnham's BBC interview comes as U.S. Secretary of State Marco Rubio told Fox News on Monday that the incident at RAF Fairford "clearly involves the hands of a foreign actor," without giving any details or evidence.
-The Iranian Embassy in London on Monday "categorically" rejected speculation linking the country to the alleged plot.
-All the five arrested suspects are UK nationals aged between 23 and 25, and one reportedly called the police himself. They have been released on bail.
-Iran UNGA delegation leaves U.S.
-Separately, a U.S. official told MS NOW that Rubio "kicked out" the Iranian delegation as the United Nations General Assembly was over, saying that they had "overstayed their welcome."
-The officials, including Aragachi, left on Monday morning U.S. time. "UNGA was over, so it was time for them to go," the official added.
-Indirect negotiations between Washington and Tehran over Iran's nuclear program and the Strait of Hormuz failed to bear any fruit over the course of the U.N. General Assembly.
-Tehran had proposed a seven-day deal at the UNGA, under which the Strait of Hormuz would be opened and nuclear talks resumed with the U.S. if Washington returned to the terms of the Islamabad deal framework.
-The Islamabad memorandum of understanding in June led to a ceasefire agreement between the U.S. and Iran that collapsed in early July. The Trump administration is unwilling to return to the terms of the June agreement, according to a report by the Wall Street Journal.
-President Donald Trump on Sunday called the latest Iranian proposal "unacceptable," telling reporters that Tehran wants a swift deal because of the economic pressure it is under.
-— CNBC's Anniek Bao contributed to this report.`,
-    bodyJa: `United Kingdom Prime Minister Andy Burnham said Iran was involved in the incident at the Royal Air Force base in Fairford on Sunday that led to the arrest of five men on suspicion of explosive and terrorism offences.
-Speaking to the BBC Wednesday, Burnham said that "There are strong indications that Iran played a part in what happened over the weekend at RAF Fairford," without providing additional details. In response, Iranian Foreign Minister Abbas Araghchi said on X that Burnham was "barking up the wrong tree."
-RAF Fairford, located in Gloucestershire, has been used as the U.S. Air Force's command outpost for operations from Europe and for American strikes on Iranian missile sites.
-London had initially denied the U.S. permission to use UK bases for its war on Iran, but former Prime Minister Keir Starmer had allowed it for "defensive strikes."
-Burnham's BBC interview comes as U.S. Secretary of State Marco Rubio told Fox News on Monday that the incident at RAF Fairford "clearly involves the hands of a foreign actor," without giving any details or evidence.
-The Iranian Embassy in London on Monday "categorically" rejected speculation linking the country to the alleged plot.
-All the five arrested suspects are UK nationals aged between 23 and 25, and one reportedly called the police himself. They have been released on bail.
-Iran UNGA delegation leaves U.S.
-Separately, a U.S. official told MS NOW that Rubio "kicked out" the Iranian delegation as the United Nations General Assembly was over, saying that they had "overstayed their welcome."
-The officials, including Aragachi, left on Monday morning U.S. time. "UNGA was over, so it was time for them to go," the official added.
-Indirect negotiations between Washington and Tehran over Iran's nuclear program and the Strait of Hormuz failed to bear any fruit over the course of the U.N. General Assembly.
-Tehran had proposed a seven-day deal at the UNGA, under which the Strait of Hormuz would be opened and nuclear talks resumed with the U.S. if Washington returned to the terms of the Islamabad deal framework.
-The Islamabad memorandum of understanding in June led to a ceasefire agreement between the U.S. and Iran that collapsed in early July. The Trump administration is unwilling to return to the terms of the June agreement, according to a report by the Wall Street Journal.
-President Donald Trump on Sunday called the latest Iranian proposal "unacceptable," telling reporters that Tehran wants a swift deal because of the economic pressure it is under.
-— CNBC's Anniek Bao contributed to this report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/01/us-iran-war-trump-hormuz.html",
-    publishedAt: "2026-10-01T05:08:23+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 6,
   },
 ];
 
