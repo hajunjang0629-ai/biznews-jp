@@ -15,6 +15,240 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "trump-reiterates-pledge-to-send-5-000-ch-0adc4ad9",
+    title: "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
+    titleJa: "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
+    summaryJa: "Trump is promoting two federal payment programs already underway while reiterating a $5,000 dividend promise contingent on Republicans retaining Congress.",
+    bodyOriginal: `With Election Day less than a month away, President Donald Trump is touting two federal cash-payment programs already underway while renewing a much larger $5,000 check promise contingent on Republicans retaining Congress.
+On Friday, Trump announced one-time $90 payments to 20.8 million Medicare beneficiaries. A day later, he revived an earlier promise to give every adult U.S. citizen $5,000 — but only if Republicans retain control of Congress in November.
+"If Republicans win the House of Representatives and the Senate in the 2026 Midterm Elections, I'm going to give all Adult Citizens in the United States of America, $5,000," Trump said in a Truth Social video post Saturday. The president made a similar pledge at the Republican National Committee's first midterm convention in Dallas last month.
+Trump hasn't provided any details on who would authorize the payments and where the money would come from.
+Those claims came on the heels of $500 Obamacare "refund" checks that began going out last week to roughly 950,000 people who bought unsubsidized coverage through the federal marketplace.
+The $90 payments to certain eligible Medicare Part B enrollees are scheduled to arrive this month, funded through the Medicare Improvement Fund. The $500 Obamacare payments are already being distributed to certain full-price HealthCare.gov customers.
+A Reuters analysis found 71% of the Obamacare money — $339 million — is going to residents of 13 states with some of the country's most competitive Senate and gubernatorial races, though eligibility is based on insurance status, not voting status.
+Together, the flurry of offers of direct cash payments comes as Republicans head into the final stretch of a midterm campaign dominated by concerns about prices and the economy.
+But the $5,000 "Trump dividend" remains just a promise and Trump has been extremely light on details, particularly on where the money would come from and who would need to authorize it. Sending $5,000 to every adult citizen would cost roughly $1.2 trillion and require congressional approval.
+Some Republicans have also raised concerns about its effect on the deficit and inflation.
+Rep. David Schweikert, R-Ariz., told Reuters last month he would "throw everything of my heart and soul" into stopping the proposal, warning it could push interest rates higher. And Rep. Jamie Raskin, D-Md., called the plan a "political bribe" in a Sept. 10 interview with CNN, and said Congress controls federal spending.
+The White House and offices of Reps. David Schweikert, R-Ariz., and Jamie Raskin, D-Md., did not immediately respond to requests for comment.
+Polling suggests the idea isn't a sure-fire political winner.
+A Rasmussen Reports survey found likely voters essentially split, 47% to 48%, on the proposal. Just 15% said it would affect their vote. A Marquette Law School poll in Wisconsin found 70% opposed the payments, while an Economist/YouGov survey found 57% of registered voters doubted Trump would actually deliver them even if Republicans retained Congress.
+In the past, Trump has made several promises to send cash payments to Americans — and didn't deliver.
+In February 2025, the Trump administration floated a $5,000 "DOGE dividend" check, claiming the money would come from savings from the cuts enacted by the now-defunct, Elon Musk-led "Department of Government Efficiency." Those payments never materialized.
+Then, in November, Trump proposed a reciprocal tariff-funded dividend payment of at least $2,000 per person. The Supreme Court struck down the tariffs in February of this year, and no checks were ever issued.
+The pattern of offering cash payments directly to voters stretches back to Trump's first term. Six weeks before the 2020 election, Trump promised 33 million Medicare beneficiaries $200 prescription-drug cards "in coming weeks" — but the cards never went out.
+Still, the Trump administration delivered a $1,776 "Warrior Dividend" to roughly 1.5 million service members last year, and Congress approved pandemic stimulus payments during his first term.`,
+    bodyJa: `With Election Day less than a month away, President Donald Trump is touting two federal cash-payment programs already underway while renewing a much larger $5,000 check promise contingent on Republicans retaining Congress.
+On Friday, Trump announced one-time $90 payments to 20.8 million Medicare beneficiaries. A day later, he revived an earlier promise to give every adult U.S. citizen $5,000 — but only if Republicans retain control of Congress in November.
+"If Republicans win the House of Representatives and the Senate in the 2026 Midterm Elections, I'm going to give all Adult Citizens in the United States of America, $5,000," Trump said in a Truth Social video post Saturday. The president made a similar pledge at the Republican National Committee's first midterm convention in Dallas last month.
+Trump hasn't provided any details on who would authorize the payments and where the money would come from.
+Those claims came on the heels of $500 Obamacare "refund" checks that began going out last week to roughly 950,000 people who bought unsubsidized coverage through the federal marketplace.
+The $90 payments to certain eligible Medicare Part B enrollees are scheduled to arrive this month, funded through the Medicare Improvement Fund. The $500 Obamacare payments are already being distributed to certain full-price HealthCare.gov customers.
+A Reuters analysis found 71% of the Obamacare money — $339 million — is going to residents of 13 states with some of the country's most competitive Senate and gubernatorial races, though eligibility is based on insurance status, not voting status.
+Together, the flurry of offers of direct cash payments comes as Republicans head into the final stretch of a midterm campaign dominated by concerns about prices and the economy.
+But the $5,000 "Trump dividend" remains just a promise and Trump has been extremely light on details, particularly on where the money would come from and who would need to authorize it. Sending $5,000 to every adult citizen would cost roughly $1.2 trillion and require congressional approval.
+Some Republicans have also raised concerns about its effect on the deficit and inflation.
+Rep. David Schweikert, R-Ariz., told Reuters last month he would "throw everything of my heart and soul" into stopping the proposal, warning it could push interest rates higher. And Rep. Jamie Raskin, D-Md., called the plan a "political bribe" in a Sept. 10 interview with CNN, and said Congress controls federal spending.
+The White House and offices of Reps. David Schweikert, R-Ariz., and Jamie Raskin, D-Md., did not immediately respond to requests for comment.
+Polling suggests the idea isn't a sure-fire political winner.
+A Rasmussen Reports survey found likely voters essentially split, 47% to 48%, on the proposal. Just 15% said it would affect their vote. A Marquette Law School poll in Wisconsin found 70% opposed the payments, while an Economist/YouGov survey found 57% of registered voters doubted Trump would actually deliver them even if Republicans retained Congress.
+In the past, Trump has made several promises to send cash payments to Americans — and didn't deliver.
+In February 2025, the Trump administration floated a $5,000 "DOGE dividend" check, claiming the money would come from savings from the cuts enacted by the now-defunct, Elon Musk-led "Department of Government Efficiency." Those payments never materialized.
+Then, in November, Trump proposed a reciprocal tariff-funded dividend payment of at least $2,000 per person. The Supreme Court struck down the tariffs in February of this year, and no checks were ever issued.
+The pattern of offering cash payments directly to voters stretches back to Trump's first term. Six weeks before the 2020 election, Trump promised 33 million Medicare beneficiaries $200 prescription-drug cards "in coming weeks" — but the cards never went out.
+Still, the Trump administration delivered a $1,776 "Warrior Dividend" to roughly 1.5 million service members last year, and Congress approved pandemic stimulus payments during his first term.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html",
+    publishedAt: "2026-10-04T20:28:47+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "supreme-court-justice-alito-said-he-s-th-4349f256",
+    title: "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
+    titleJa: "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
+    summaryJa: "The Senate could flip to Democrats after November's midterm election, jeopardizing a potential Supreme Court nomination by President Donald Trump.",
+    bodyOriginal: `Supreme Court Justice Samuel Alito said he has "thought about" retiring after the high court's last term but decided against it, believing he could still make "a valuable contribution," he said in an interview with CBS News.
+Alito, 76, is the second-oldest justice on the bench, and speculation had swirled that he would retire while Republicans control the Senate and the White House — when the chances of swiftly confirming a GOP-backed candidate to the bench would be high.
+The possibility that the Senate could flip to Democrats after November's midterm election may make confirmation of any potential nominee of President Donald Trump more difficult or impossible if Democrats control the Senate.
+"I've been bemused by the retirement speculation; it's not too pleasant to look up and see the vultures circling," Alito said in a separate interview with "Fox News Sunday." "I don't have a calculation for it ... I think it would be foolhardy to make a calculation [that] I'm going to serve for a certain number of additional years."
+Alito's status as one of the court's most conservative justices has sparked the speculation that he would retire ahead of the midterms — a decision the justice ultimately has not made. Should Democrats take control of the Senate, they would effectively have veto power over a Supreme Court nomination.
+Justice Clarence Thomas, 78 — the court's oldest justice and a member of its conservative bloc — has also been on retirement watch.
+The politics and timing of Supreme Court vacancies have been closely watched since Justice Antonin Scalia died in 2016. Then-Senate Majority Leader Mitch McConnell refused to take up President Barack Obama's nomination of Merrick Garland to the Supreme Court until after the 2016 presidential election, allowing Trump the time to nominate and confirm Justice Neil Gorsuch.
+Then, after Justice Ruth Bader Ginsburg died in 2020, McConnell moved quickly to confirm Trump's nominee, Amy Coney Barrett, just over a week before the 2020 presidential election.
+The Court is now controlled by a 6-3 conservative majority.
+Democrats currently hold an edge in national House polling and in the CBS News Battleground Tracker model, which estimates a narrow Democratic majority after the midterm election, which looms just 30 days away. The Senate is also now in play, with Republicans locked in unexpectedly tight races across the country amid voter ire over prices and the economy.
+Democrats need to net at least four seats while defending all the seats they currently have to win a Senate majority.`,
+    bodyJa: `Supreme Court Justice Samuel Alito said he has "thought about" retiring after the high court's last term but decided against it, believing he could still make "a valuable contribution," he said in an interview with CBS News.
+Alito, 76, is the second-oldest justice on the bench, and speculation had swirled that he would retire while Republicans control the Senate and the White House — when the chances of swiftly confirming a GOP-backed candidate to the bench would be high.
+The possibility that the Senate could flip to Democrats after November's midterm election may make confirmation of any potential nominee of President Donald Trump more difficult or impossible if Democrats control the Senate.
+"I've been bemused by the retirement speculation; it's not too pleasant to look up and see the vultures circling," Alito said in a separate interview with "Fox News Sunday." "I don't have a calculation for it ... I think it would be foolhardy to make a calculation [that] I'm going to serve for a certain number of additional years."
+Alito's status as one of the court's most conservative justices has sparked the speculation that he would retire ahead of the midterms — a decision the justice ultimately has not made. Should Democrats take control of the Senate, they would effectively have veto power over a Supreme Court nomination.
+Justice Clarence Thomas, 78 — the court's oldest justice and a member of its conservative bloc — has also been on retirement watch.
+The politics and timing of Supreme Court vacancies have been closely watched since Justice Antonin Scalia died in 2016. Then-Senate Majority Leader Mitch McConnell refused to take up President Barack Obama's nomination of Merrick Garland to the Supreme Court until after the 2016 presidential election, allowing Trump the time to nominate and confirm Justice Neil Gorsuch.
+Then, after Justice Ruth Bader Ginsburg died in 2020, McConnell moved quickly to confirm Trump's nominee, Amy Coney Barrett, just over a week before the 2020 presidential election.
+The Court is now controlled by a 6-3 conservative majority.
+Democrats currently hold an edge in national House polling and in the CBS News Battleground Tracker model, which estimates a narrow Democratic majority after the midterm election, which looms just 30 days away. The Senate is also now in play, with Republicans locked in unexpectedly tight races across the country amid voter ire over prices and the economy.
+Democrats need to net at least four seats while defending all the seats they currently have to win a Senate majority.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
+    publishedAt: "2026-10-04T17:53:11+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "a-weird-ipo-pull-a-tainted-reputation-an-e1820884",
+    title: "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
+    titleJa: "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
+    summaryJa: "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.",
+    bodyOriginal: `Two years ago, Bella Nowroozi was on a date at the mall when she noticed something odd: A blinking light on her companion's glasses.
+The 24-year-old master's student instantly recognized the frames as the Meta Ray-Ban smart glasses she had seen on social media. She told him to delete the recordings.
+"I was honestly pretty shocked," Nowroozi told CNBC, reflecting on the interaction. "I hadn't really experienced anything like that before. I was also scared to go on dates after that as openly as I did before."
+Apple, Google, Meta and a swarm of other tech contenders are betting that new artificial intelligence wearables in the form of glasses, rings, charms and pendants can push the market toward its category-defining moment. But as the gadgets have grown in notoriety, they've also been met with privacy backlash and doubts about whether the technology is beneficial enough to become a fixture in everyday life.
+Meta made a splash last week with the unveiling of its Tamagotchi-like Muse Charm, a custom housing for its personal agent app that quickly topped Apple's iOS App Store free apps list. The company has continued to release new iterations of its Meta Ray-Ban AI glasses and offers an array of models at different price points.
+This week, OpenAI rolled out its own personal assistant called Dots. The ChatGPT maker is also working with iPhone designer Jony Ive on consumer devices, but its first offering does not appear to be a wearable, according to Bloomberg. Apple provided a look at its latest devices at the beginning of September, complete with AI features on the Watch Series 12 that will listen to your conversations.
+Besides the plethora of available devices, the market looked set this week to keep the momentum rolling with the debut of smart ring maker Oura.
+But on Tuesday, the company delayed its expected initial public offering at the last minute, despite signaling strong demand for its products.
+Oura cited "uncertainty in the IPO market" as the reason for the move, but some analysts were skeptical.
+"I really believe that there's something else that's causing them to pull out of the IPO, and I don't think it's the market," said Anshel Sag, a principal analyst at Moor Insights & Strategy. "I just can't nail what it is."
+"Them jumping out of this IPO is kind of weird," he said.
+Branding problems
+Meta is navigating pushback to its smart spectacles, which have been dubbed "pervert glasses" on social media because of their discreet cameras that can be used for harassment and other misbehavior.
+One social media user said a man took photos of her on a date without her permission. Another said a buyer from Facebook Marketplace took unauthorized videos of her and her children. Meta's own advertising campaign featuring Kylie Jenner filming her everyday life drew further criticism of the surveillance-like nature of the videos.
+Meta did not immediately respond to CNBC's request for comment.
+DA Davidson analyst Gil Luria said the growing resistance to camera-equipped glasses is a hard battle to overcome.
+"It's done for at this moment," said Luria. "We're going to have to revisit this 10 years from now."
+When Luria first gifted the spectacles to his twin teenage boys last year, they were "super excited." He says now, they "wouldn't be caught dead in them."
+Last month, Meta unveiled a camera-free smart glasses option.
+Privacy
+The explosion in wearables couldn't come at a more critical time as the policy debate over AI safety risks intensifies in Washington and the blowback takes center stage ahead of the midterm elections in November.
+Far from the cute, fuzzy appearance of Meta's Muse character called Jolly, sprawling data centers have become the visual symbol of AI opposition in the U.S. Many argue that wearables and other devices that are always listening or recording have become an extension of that perceived surveillance state.
+Flock Safety's license plate scanners are being vandalized and cities have ended contracts with the company over community outcry. Smart glasses have been banned from gyms and other places because of privacy concerns.
+In February, the judge in the Meta social media addiction trial in Los Angeles threatened to hold anyone using AI smart glasses during CEO Mark Zuckerberg's testimony in contempt of court. Several people escorting Zuckerberg into the court were wearing the Meta Ray-Ban AI glasses.
+"Their value add has to overcome the perception of AI being a technology that people are opposed," said Sag. "It needs to be more helpful and useful than people's apprehensions about it."
+Design and execution
+GPS delivered maps to a screen, the smartphone created a pocket-sized personal computer and AI promises to bring efficiency and automation to everyday life.
+New gadgets in the wearables market are vying to build a new category of devices, but the most futuristic gadgets today aren't necessarily what the consumer wants, said Avi Greengart, founder and tech analyst at market research firm Techsponential.
+From sleep readings to exercise tracking and accident detection, health wearables have shown immense promise in a market cornered by big tech giants like Apple and Google, and even startup Oura. Accessibility features added to Apple's AirPods are transforming the popular headphones into hearing aids, Greengart said.
+But some of the flashy emerging AI tech, including pins and pendants, has hit significant design and execution roadblocks.
+Greengart pointed to the Rabbit r1 personal assistant, which lacked distinct use cases from the smartphone and faced technical and hardware issues. Another failed contender was the Humane AI Pin, discontinued last year following poor customer reviews.
+"If you force someone to spend $700 on a device that overheats, has a user interface that doesn't work in sunlight, battery life that is poor, unless what it does is magical, that's not going to work," said Greengart.
+Nowroozi, whose sister owns a pair of Meta glasses, is holding off on buying into the AI wearable wave.
+"I can't really think of how this would really be different from what a phone could do," she said.`,
+    bodyJa: `Two years ago, Bella Nowroozi was on a date at the mall when she noticed something odd: A blinking light on her companion's glasses.
+The 24-year-old master's student instantly recognized the frames as the Meta Ray-Ban smart glasses she had seen on social media. She told him to delete the recordings.
+"I was honestly pretty shocked," Nowroozi told CNBC, reflecting on the interaction. "I hadn't really experienced anything like that before. I was also scared to go on dates after that as openly as I did before."
+Apple, Google, Meta and a swarm of other tech contenders are betting that new artificial intelligence wearables in the form of glasses, rings, charms and pendants can push the market toward its category-defining moment. But as the gadgets have grown in notoriety, they've also been met with privacy backlash and doubts about whether the technology is beneficial enough to become a fixture in everyday life.
+Meta made a splash last week with the unveiling of its Tamagotchi-like Muse Charm, a custom housing for its personal agent app that quickly topped Apple's iOS App Store free apps list. The company has continued to release new iterations of its Meta Ray-Ban AI glasses and offers an array of models at different price points.
+This week, OpenAI rolled out its own personal assistant called Dots. The ChatGPT maker is also working with iPhone designer Jony Ive on consumer devices, but its first offering does not appear to be a wearable, according to Bloomberg. Apple provided a look at its latest devices at the beginning of September, complete with AI features on the Watch Series 12 that will listen to your conversations.
+Besides the plethora of available devices, the market looked set this week to keep the momentum rolling with the debut of smart ring maker Oura.
+But on Tuesday, the company delayed its expected initial public offering at the last minute, despite signaling strong demand for its products.
+Oura cited "uncertainty in the IPO market" as the reason for the move, but some analysts were skeptical.
+"I really believe that there's something else that's causing them to pull out of the IPO, and I don't think it's the market," said Anshel Sag, a principal analyst at Moor Insights & Strategy. "I just can't nail what it is."
+"Them jumping out of this IPO is kind of weird," he said.
+Branding problems
+Meta is navigating pushback to its smart spectacles, which have been dubbed "pervert glasses" on social media because of their discreet cameras that can be used for harassment and other misbehavior.
+One social media user said a man took photos of her on a date without her permission. Another said a buyer from Facebook Marketplace took unauthorized videos of her and her children. Meta's own advertising campaign featuring Kylie Jenner filming her everyday life drew further criticism of the surveillance-like nature of the videos.
+Meta did not immediately respond to CNBC's request for comment.
+DA Davidson analyst Gil Luria said the growing resistance to camera-equipped glasses is a hard battle to overcome.
+"It's done for at this moment," said Luria. "We're going to have to revisit this 10 years from now."
+When Luria first gifted the spectacles to his twin teenage boys last year, they were "super excited." He says now, they "wouldn't be caught dead in them."
+Last month, Meta unveiled a camera-free smart glasses option.
+Privacy
+The explosion in wearables couldn't come at a more critical time as the policy debate over AI safety risks intensifies in Washington and the blowback takes center stage ahead of the midterm elections in November.
+Far from the cute, fuzzy appearance of Meta's Muse character called Jolly, sprawling data centers have become the visual symbol of AI opposition in the U.S. Many argue that wearables and other devices that are always listening or recording have become an extension of that perceived surveillance state.
+Flock Safety's license plate scanners are being vandalized and cities have ended contracts with the company over community outcry. Smart glasses have been banned from gyms and other places because of privacy concerns.
+In February, the judge in the Meta social media addiction trial in Los Angeles threatened to hold anyone using AI smart glasses during CEO Mark Zuckerberg's testimony in contempt of court. Several people escorting Zuckerberg into the court were wearing the Meta Ray-Ban AI glasses.
+"Their value add has to overcome the perception of AI being a technology that people are opposed," said Sag. "It needs to be more helpful and useful than people's apprehensions about it."
+Design and execution
+GPS delivered maps to a screen, the smartphone created a pocket-sized personal computer and AI promises to bring efficiency and automation to everyday life.
+New gadgets in the wearables market are vying to build a new category of devices, but the most futuristic gadgets today aren't necessarily what the consumer wants, said Avi Greengart, founder and tech analyst at market research firm Techsponential.
+From sleep readings to exercise tracking and accident detection, health wearables have shown immense promise in a market cornered by big tech giants like Apple and Google, and even startup Oura. Accessibility features added to Apple's AirPods are transforming the popular headphones into hearing aids, Greengart said.
+But some of the flashy emerging AI tech, including pins and pendants, has hit significant design and execution roadblocks.
+Greengart pointed to the Rabbit r1 personal assistant, which lacked distinct use cases from the smartphone and faced technical and hardware issues. Another failed contender was the Humane AI Pin, discontinued last year following poor customer reviews.
+"If you force someone to spend $700 on a device that overheats, has a user interface that doesn't work in sunlight, battery life that is poor, unless what it does is magical, that's not going to work," said Greengart.
+Nowroozi, whose sister owns a pair of Meta glasses, is holding off on buying into the AI wearable wave.
+"I can't really think of how this would really be different from what a phone could do," she said.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
+    publishedAt: "2026-10-04T13:22:39+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "sports-betting-is-increasingly-the-norm-c4112a5d",
+    title: "Sports betting is increasingly the norm for Gen Z.  Here’s why some financial and mental health experts are worried",
+    titleJa: "Sports betting is increasingly the norm for Gen Z.  Here’s why some financial and mental health experts are worried",
+    summaryJa: "Surveys show Gen Z increasingly views sports bets as a form of investment, and those who gamble too often face mental health risks.",
+    bodyOriginal: `Wagering on sports outcomes has exploded in the 2020s, but recent surveys show just how widespread gambling has become for Generation Z.
+A survey of retail investors released in August by Betterment, an investment advisory platform, found that 66% of Gen Z investors participate in sports betting. The Bank of America Institute found in a September report that Gen Z made up almost 50% of all online betting activity in July, during the height of the 2026 FIFA World Cup, outnumbering millennials for the first time.
+"It is more unusual for someone not to have, for example, a Kalshi account, DraftKings … than it is" to have such an account, said Cynthia Grant, vice president of clinical at Birches Health, which provides online therapy for online gambling addiction recovery. "It's part of the experience of watching sports now."
+Sports betting surged after a 2018 U.S. Supreme Court allowing state-authorized sportsbooks, which have since spread to 30 states. The introduction of sports-related event contracts on prediction markets — which claim they are financial trades, not wagers — in early 2025 further expanded access to additional states without legalized sportsbooks, and to those under 21.
+Now, the proliferation of sports betting has many financial and mental health advisors on edge. The average user on both a sportsbook and prediction market loses money, and trying to claw back losses puts users in even deeper financial holes, experts warn. Unsurprisingly, those who lose the most are at the greatest risk of harmful mental health outcomes.
+Gambling as investment
+The Bank of America Institute survey found that Gen Z was twice as likely to see sports betting as a type of investment, versus 20% of respondents overall. For prediction markets alone, respondents overall saw them as a form of investing, but those numbers were again higher for Gen Z.
+In Betterment's retail investor survey, 52% of Gen Z respondents said they moved money originally meant for investment to sports betting, while another 26% saw wagering as a part of their long-term financial strategy.
+Management at sportsbooks DraftKings and FanDuel typically say their products are entertainment, not investment. Prediction market platforms say event contracts, no matter the category, are a financial derivative.
+Dan Egan, director of behavioral finance and investing at Betterment, said sports betting increasingly appears alongside traditional investments on the same app or device, helping drive the association.
+The conflation is concerning because of the highly active behavior required to manage wagers on sports, unlike a long-term investment, Egan said.
+"It's not an asset that grows with the economy, that kind of gets better as time goes on, that has a positive expected return, and that you can kind of sit back and not have to do anything with," he said. "It's the exact opposite."
+Bank of America also found that the median deposit account balance for households use online betting was 59% of balances for those who didn't.
+An August survey by BadCredit found that 44% of survey respondents started trading on prediction market platforms in hopes of scoring extra income. That's despite the fact the majority of sportsbooks and prediction market users lose money.
+"People tend to tell other people how much money they've made," said Erica Sandberg, a consumer finance expert at BadCredit. "If you've got people around you who are saying, 'I just made $300 in five minutes on this platform,' you're gonna hear about it. You will not hear that they lost $800 last month."
+Mental health worries
+How a sports betting addiction develops, and when it gets to the point where treatment is needed, varies by individual. But, there are common warning signs, Grant said.
+"It creeps into the way that they're functioning in the world, how they interact with their peers, how they interact with family," she said. "They lose time on work, they lose time in school. So when you start to see what we call clinically, 'functional impairment,' that things are interfering with the way that they're trying to navigate the world, that's when we really start to look at how this is developing into being a problem."
+It's little surprise young people are more likely to take up sports wagers as biological development brings a heightened appetite for risk, said Amaura Kemmerer at UWill, a mental health and wellness provider helping to support more than four million students at 500 institutions around the world.
+Consequences often arise well short of clinical treatment.
+Even players who are only dabbling, and "doing it occasionally … are still having predictable negative effects on academics," Kemmerer said, noting the impact sports betting is having on Gen Z college students.
+As a result, the perfect place to help combat the negative effects of gambling is on college campuses, both Kemmerer and Grant said, noting campus counseling services should treat it as they would other types of addiction.
+Betting platforms themselves have tried to mitigate risks. All regulated sportsbooks and prediction market exchanges have age verification tools. FanDuel and DraftKings let users set self-imposed deposit or time limits. FanDuel also imposes monthly deposit limits on accounts held by users under age 26.
+Polymarket on Wednesday announced optional self-imposed limits and a partnership with Birches Health to give users access to mental health resources. Kalshi does the same, as well as directing 18-to-21-year-old users to risk-management programs after they place their first trades. It donated $2 million in May to the National Council on Problem Gambling.
+"We've prioritized making Kalshi the safest venue for people to trade on," spokesperson Elisabeth Diana said in a statement.
+Experts stressed that not all forms of sports betting are harmful, but emphasized that motivation and frequency need to be clear, especially for young people.
+"Lots of people do it to make things more interesting," Egan said. "It makes the game more exciting. You just have to figure out how to say this is entertainment."
+If you or someone you know has a gambling addiction, call the National Council on Problem Gambling hotline: 1-800-522-4700.
+Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.`,
+    bodyJa: `Wagering on sports outcomes has exploded in the 2020s, but recent surveys show just how widespread gambling has become for Generation Z.
+A survey of retail investors released in August by Betterment, an investment advisory platform, found that 66% of Gen Z investors participate in sports betting. The Bank of America Institute found in a September report that Gen Z made up almost 50% of all online betting activity in July, during the height of the 2026 FIFA World Cup, outnumbering millennials for the first time.
+"It is more unusual for someone not to have, for example, a Kalshi account, DraftKings … than it is" to have such an account, said Cynthia Grant, vice president of clinical at Birches Health, which provides online therapy for online gambling addiction recovery. "It's part of the experience of watching sports now."
+Sports betting surged after a 2018 U.S. Supreme Court allowing state-authorized sportsbooks, which have since spread to 30 states. The introduction of sports-related event contracts on prediction markets — which claim they are financial trades, not wagers — in early 2025 further expanded access to additional states without legalized sportsbooks, and to those under 21.
+Now, the proliferation of sports betting has many financial and mental health advisors on edge. The average user on both a sportsbook and prediction market loses money, and trying to claw back losses puts users in even deeper financial holes, experts warn. Unsurprisingly, those who lose the most are at the greatest risk of harmful mental health outcomes.
+Gambling as investment
+The Bank of America Institute survey found that Gen Z was twice as likely to see sports betting as a type of investment, versus 20% of respondents overall. For prediction markets alone, respondents overall saw them as a form of investing, but those numbers were again higher for Gen Z.
+In Betterment's retail investor survey, 52% of Gen Z respondents said they moved money originally meant for investment to sports betting, while another 26% saw wagering as a part of their long-term financial strategy.
+Management at sportsbooks DraftKings and FanDuel typically say their products are entertainment, not investment. Prediction market platforms say event contracts, no matter the category, are a financial derivative.
+Dan Egan, director of behavioral finance and investing at Betterment, said sports betting increasingly appears alongside traditional investments on the same app or device, helping drive the association.
+The conflation is concerning because of the highly active behavior required to manage wagers on sports, unlike a long-term investment, Egan said.
+"It's not an asset that grows with the economy, that kind of gets better as time goes on, that has a positive expected return, and that you can kind of sit back and not have to do anything with," he said. "It's the exact opposite."
+Bank of America also found that the median deposit account balance for households use online betting was 59% of balances for those who didn't.
+An August survey by BadCredit found that 44% of survey respondents started trading on prediction market platforms in hopes of scoring extra income. That's despite the fact the majority of sportsbooks and prediction market users lose money.
+"People tend to tell other people how much money they've made," said Erica Sandberg, a consumer finance expert at BadCredit. "If you've got people around you who are saying, 'I just made $300 in five minutes on this platform,' you're gonna hear about it. You will not hear that they lost $800 last month."
+Mental health worries
+How a sports betting addiction develops, and when it gets to the point where treatment is needed, varies by individual. But, there are common warning signs, Grant said.
+"It creeps into the way that they're functioning in the world, how they interact with their peers, how they interact with family," she said. "They lose time on work, they lose time in school. So when you start to see what we call clinically, 'functional impairment,' that things are interfering with the way that they're trying to navigate the world, that's when we really start to look at how this is developing into being a problem."
+It's little surprise young people are more likely to take up sports wagers as biological development brings a heightened appetite for risk, said Amaura Kemmerer at UWill, a mental health and wellness provider helping to support more than four million students at 500 institutions around the world.
+Consequences often arise well short of clinical treatment.
+Even players who are only dabbling, and "doing it occasionally … are still having predictable negative effects on academics," Kemmerer said, noting the impact sports betting is having on Gen Z college students.
+As a result, the perfect place to help combat the negative effects of gambling is on college campuses, both Kemmerer and Grant said, noting campus counseling services should treat it as they would other types of addiction.
+Betting platforms themselves have tried to mitigate risks. All regulated sportsbooks and prediction market exchanges have age verification tools. FanDuel and DraftKings let users set self-imposed deposit or time limits. FanDuel also imposes monthly deposit limits on accounts held by users under age 26.
+Polymarket on Wednesday announced optional self-imposed limits and a partnership with Birches Health to give users access to mental health resources. Kalshi does the same, as well as directing 18-to-21-year-old users to risk-management programs after they place their first trades. It donated $2 million in May to the National Council on Problem Gambling.
+"We've prioritized making Kalshi the safest venue for people to trade on," spokesperson Elisabeth Diana said in a statement.
+Experts stressed that not all forms of sports betting are harmful, but emphasized that motivation and frequency need to be clear, especially for young people.
+"Lots of people do it to make things more interesting," Egan said. "It makes the game more exciting. You just have to figure out how to say this is entertainment."
+If you or someone you know has a gambling addiction, call the National Council on Problem Gambling hotline: 1-800-522-4700.
+Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
+    publishedAt: "2026-10-04T12:57:45+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
     id: "chick-fil-a-wants-to-stay-a-family-busin-748af2cf",
     title: "Chick-fil-A wants to stay a family business even as it expands in the U.S. and abroad",
     titleJa: "Chick-fil-A wants to stay a family business even as it expands in the U.S. and abroad",
@@ -1688,246 +1922,6 @@ Solidaires Trade Union Federation said in a statement: "Let's not let them fire 
     publishedAt: "2026-10-02T21:13:27+00:00",
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/061e/live/ef36beb0-be8b-11f1-888b-4d28ea12c7e2.jpg",
-    readTime: 10,
-  },
-  {
-    id: "anthropic-to-invest-100-million-to-train-33dc64b0",
-    title: "Anthropic to invest $100 million to train AI engineer talent",
-    titleJa: "Anthropic to invest $100 million to train AI engineer talent",
-    summaryJa: "Anthropic will invest $100 million to train nearly 10,000 AI engineers, partnering with a number of consulting firms.",
-    bodyOriginal: `Anthropic will invest $100 million into an academy for training AI talent, working with companies to integrate artificial intelligence into their operations.
-The investment will fund a program called the Claude Frontier Academy, which aims to train 10,000 "frontier deployed engineers" drawn from companies that are part of Anthropic's Claude Partner Network by the end of 2027, the company said in a press release on Friday.
-Engineers from Accenture, Morgan Stanley, Novo Nordisk and a number of top consulting firms are included in the first groups. The program was borne out of Anthropic's work partnering with businesses in implementing Claude, according to Anthropic.
-"We hear our customers and partner organizations say, we need more people who can bring together familiarity and — with the enterprise tech and business context — and combine that with the highest level of AI fluency to solve the problems that need solving," Shambhavi Shambhavi, Anthropic's head of strategy and operations for partnerships, told CNBC.
-Anthropic is in the midst of massive expansion as companies across the globe race to infuse its AI tools across their business units. The company is expected to hit the public market later this year, and could reportedly seek a $2 trillion market cap. Reuters reported earlier this week, citing a leaked copy of the IPO prospectus, that Anthropic generated almost $4.6 billion in revenue last year while racking up an operating loss of over $8 billion.
-The training program will begin with an intensive "simulated enterprise deployment" with a graded assessment. Those who pass will enter a residency that follows a medical teaching model, with software engineers learning from instructors and practicing with casework before being assessed and credentialed. The first engineers are expected to be certified in early 2027.
-"Claude Frontier Academy trains people the way our own engineers learn, and we want those who graduate to set the standard for how AI gets built inside a business," Steve Corfield, Anthropic's global head of business development and partnerships, said in the release.
-The launch comes amid soaring demand for AI engineering expertise across multiple industries. Job postings for forward deployed engineers and other AI-related roles have surged in the finance world this year, according to data from Draup provided exclusively to CNBC.
-— CNBC's Ashley Capoot contributed reporting.
-WATCH: Delayed Anthropic IPO would pose a problem for the market`,
-    bodyJa: `Anthropic will invest $100 million into an academy for training AI talent, working with companies to integrate artificial intelligence into their operations.
-The investment will fund a program called the Claude Frontier Academy, which aims to train 10,000 "frontier deployed engineers" drawn from companies that are part of Anthropic's Claude Partner Network by the end of 2027, the company said in a press release on Friday.
-Engineers from Accenture, Morgan Stanley, Novo Nordisk and a number of top consulting firms are included in the first groups. The program was borne out of Anthropic's work partnering with businesses in implementing Claude, according to Anthropic.
-"We hear our customers and partner organizations say, we need more people who can bring together familiarity and — with the enterprise tech and business context — and combine that with the highest level of AI fluency to solve the problems that need solving," Shambhavi Shambhavi, Anthropic's head of strategy and operations for partnerships, told CNBC.
-Anthropic is in the midst of massive expansion as companies across the globe race to infuse its AI tools across their business units. The company is expected to hit the public market later this year, and could reportedly seek a $2 trillion market cap. Reuters reported earlier this week, citing a leaked copy of the IPO prospectus, that Anthropic generated almost $4.6 billion in revenue last year while racking up an operating loss of over $8 billion.
-The training program will begin with an intensive "simulated enterprise deployment" with a graded assessment. Those who pass will enter a residency that follows a medical teaching model, with software engineers learning from instructors and practicing with casework before being assessed and credentialed. The first engineers are expected to be certified in early 2027.
-"Claude Frontier Academy trains people the way our own engineers learn, and we want those who graduate to set the standard for how AI gets built inside a business," Steve Corfield, Anthropic's global head of business development and partnerships, said in the release.
-The launch comes amid soaring demand for AI engineering expertise across multiple industries. Job postings for forward deployed engineers and other AI-related roles have surged in the finance world this year, according to data from Draup provided exclusively to CNBC.
-— CNBC's Ashley Capoot contributed reporting.
-WATCH: Delayed Anthropic IPO would pose a problem for the market`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/02/anthropic-to-invest-100-million-to-train-ai-engineer-talent.html",
-    publishedAt: "2026-10-02T21:03:06+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "us-murderer-christa-pike-unconscious-and-b6e272b1",
-    title: "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-    titleJa: "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-    summaryJa: "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
-    bodyOriginal: `US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say
-- Published
-Warning: This article contains details that readers may find distressing
-Tennessee death row inmate Christa Pike was unconscious, intubated and on a ventilator on Thursday night, after authorities failed to execute her by lethal injection, her lawyers say in court filings.
-Pike, 50, was injected with two lethal doses of pentobarbital on Wednesday but remained alive. She was then sent to hospital in an ambulance.
-Pike remained critically ill and was being treated at a Nashville-area hospital.
-Lawyers for Pike, who was sentenced to death in 1996 for the murder of Colleen Slemmer, are seeking to have her sentence commuted after the failed execution attempt.
-Pike's lawyers filed an emergency motion on Friday to preserve "any and all evidence" related to her botched execution.
-Hospital staff are working to save her life and clear the drug used, pentobarbital, from her system, the filing states.
-During the execution attempt, prison officials tried to start intravenous (IV) lines by using at least seven needles on Pike, according to her lawyers.
-At one point, Pike herself offered guidance of where they could try.
-"One needle was bent in a 90-degree angle when it was removed," the filing states.
-While receiving the two doses, "she could be heard crying, whimpering, and breathing loudly throughout the procedure", her lawyers said.
-Tennessee Governor Bill Lee ordered an independent review into Pike's botched execution and he halted all executions in the state for the year.
-The state's department of correction has defended the method it used, saying "the protocol does not allow for additional procedures beyond what was carried out".
-Authorities are yet to say whether they will try again to execute Pike. They have not not offered any explanations about what went wrong.
-What happened in the failed execution of Christa Pike - and what next?
-- Published6 hours ago
-I've seen nearly 500 executions - but never one like Christa Pike's
-- Published15 hours ago
-Pike's attorneys previously warned that her conditions, including thrombocytosis (a blood-clotting condition) and small veins meant there was a risk she would experience "unnecessary" pain and suffering during a lethal injection.
-In the latest filings, her lawyers allege that "at no point did any member of the execution team realise that the IV lines were not correctly placed or that the veins had blown and that the pentobarbital was, in whole or in part, entering Ms Pike's body".
-They are requesting that all relevant physical, written and electronic evidence is preserved.
-Dr Joel Zivot, an anaesthesiologist advising Pike's defence team, said two doses of pentobarbital was enough that "she would have surely died" had it entered her bloodstream in normal circulation.
-The only possible explanation for her survival, Zivot said, "is that the pentobarbital blood level was never high enough to cause death" and that blisters on her arm after the botched execution indicated a ruptured vein.
-So, instead of entering Pike's bloodstream, he said, the pentobarbital was more likely to have spread across the tissue under her skin.
-Pike's medical condition of thrombocytosis may have also played a role, forming blood clots at the injection site that would potentially block pentobarbital from entering her veins.
-Regarding the possibility the pentobarbital was degraded, Zivot explained that if this was the case, it could be due to factors including poor manufacturing or improper storage.
-The attempted execution went ahead after multiple failed, last-minute legal challenges by Pike's lawyers.
-The US Supreme Court thwarted two separate efforts to stop the lethal injection.
-Tennessee's governor also denied a clemency request from Pike, the only woman on the state's death row.
-Pike was 18 when she and her then-boyfriend, Tadaryl Shipp, beat, tortured and killed 19-year-old Slemmer in 1995.
-She was sentenced to death the following year after a media frenzy around the killing in Knoxville, Tennessee.
-Before the killing, Pike had accused Slemmer of insulting her and trying to steal her then-boyfriend.
-Pike's boyfriend and co-defendant Shipp was 17 at the time so was spared the death penalty under state law. He was given a life sentence with the possibility of parole and remains in prison.`,
-    bodyJa: `US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say
-- Published
-Warning: This article contains details that readers may find distressing
-Tennessee death row inmate Christa Pike was unconscious, intubated and on a ventilator on Thursday night, after authorities failed to execute her by lethal injection, her lawyers say in court filings.
-Pike, 50, was injected with two lethal doses of pentobarbital on Wednesday but remained alive. She was then sent to hospital in an ambulance.
-Pike remained critically ill and was being treated at a Nashville-area hospital.
-Lawyers for Pike, who was sentenced to death in 1996 for the murder of Colleen Slemmer, are seeking to have her sentence commuted after the failed execution attempt.
-Pike's lawyers filed an emergency motion on Friday to preserve "any and all evidence" related to her botched execution.
-Hospital staff are working to save her life and clear the drug used, pentobarbital, from her system, the filing states.
-During the execution attempt, prison officials tried to start intravenous (IV) lines by using at least seven needles on Pike, according to her lawyers.
-At one point, Pike herself offered guidance of where they could try.
-"One needle was bent in a 90-degree angle when it was removed," the filing states.
-While receiving the two doses, "she could be heard crying, whimpering, and breathing loudly throughout the procedure", her lawyers said.
-Tennessee Governor Bill Lee ordered an independent review into Pike's botched execution and he halted all executions in the state for the year.
-The state's department of correction has defended the method it used, saying "the protocol does not allow for additional procedures beyond what was carried out".
-Authorities are yet to say whether they will try again to execute Pike. They have not not offered any explanations about what went wrong.
-What happened in the failed execution of Christa Pike - and what next?
-- Published6 hours ago
-I've seen nearly 500 executions - but never one like Christa Pike's
-- Published15 hours ago
-Pike's attorneys previously warned that her conditions, including thrombocytosis (a blood-clotting condition) and small veins meant there was a risk she would experience "unnecessary" pain and suffering during a lethal injection.
-In the latest filings, her lawyers allege that "at no point did any member of the execution team realise that the IV lines were not correctly placed or that the veins had blown and that the pentobarbital was, in whole or in part, entering Ms Pike's body".
-They are requesting that all relevant physical, written and electronic evidence is preserved.
-Dr Joel Zivot, an anaesthesiologist advising Pike's defence team, said two doses of pentobarbital was enough that "she would have surely died" had it entered her bloodstream in normal circulation.
-The only possible explanation for her survival, Zivot said, "is that the pentobarbital blood level was never high enough to cause death" and that blisters on her arm after the botched execution indicated a ruptured vein.
-So, instead of entering Pike's bloodstream, he said, the pentobarbital was more likely to have spread across the tissue under her skin.
-Pike's medical condition of thrombocytosis may have also played a role, forming blood clots at the injection site that would potentially block pentobarbital from entering her veins.
-Regarding the possibility the pentobarbital was degraded, Zivot explained that if this was the case, it could be due to factors including poor manufacturing or improper storage.
-The attempted execution went ahead after multiple failed, last-minute legal challenges by Pike's lawyers.
-The US Supreme Court thwarted two separate efforts to stop the lethal injection.
-Tennessee's governor also denied a clemency request from Pike, the only woman on the state's death row.
-Pike was 18 when she and her then-boyfriend, Tadaryl Shipp, beat, tortured and killed 19-year-old Slemmer in 1995.
-She was sentenced to death the following year after a media frenzy around the killing in Knoxville, Tennessee.
-Before the killing, Pike had accused Slemmer of insulting her and trying to steal her then-boyfriend.
-Pike's boyfriend and co-defendant Shipp was 17 at the time so was spared the death penalty under state law. He was given a life sentence with the possibility of parole and remains in prison.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-02T20:32:07+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b22/live/55676b60-be9d-11f1-ad04-23a70b53c1a5.jpg",
-    readTime: 10,
-  },
-  {
-    id: "g7-to-release-100-million-barrels-of-oil-0a8fe71e",
-    title: "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-    titleJa: "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
-    summaryJa: "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-    bodyOriginal: `G7 to release 100 million barrels of oil and diesel after Trump export ban threat
-- Published
-The G7 has agreed to release 100 million barrels of oil and diesel in a bid to ease supply pressures that have caused prices to skyrocket.
-The group of advanced economies, including the US, said the move would include a "substantial release" of diesel in the coming days.
-President Donald Trump had threatened to ban diesel exports in a move which would have eased pressure on prices for US consumers ahead of November's midterm elections, but pushed up prices elsewhere.
-In a joint statement, the G7 said member countries had now agreed to "refrain from export restrictions on energy and energy products" on one another.
-The G7 includes the US, UK, Canada, Japan, Germany, Italy and France, with the EU also represented at its meetings.
-Trump had warned he would ban diesel exports from the US if European countries did not agree to put more of their own stocks onto the market.
-On Friday, he said on social media: "Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil. The process will begin immediately."
-His Treasury Secretary Scott Bessent had argued US farmers, truckers, and businesses "should not be left carrying the burden" as prices soar.
-Diesel is used heavily by the haulage industry and in agriculture, meaning rises in the cost of the fuel feed through into essentials such as food.
-But, following a meeting of G7 leaders, French President Emmanuel Macron said the bloc had agreed to release reserves of "up to 100 million barrels" within four months under the coordination of the International Energy Agency (IEA).
-The UK was represented at the meeting by Foreign Secretary Ed Miliband, who said the measures would "stabilise energy supplies, build resilience in supply chains and shield households and businesses from price shocks".
-Macron said the coordinated action would "bring down the prices of petroleum products, particularly diesel". Highlighting the agreement not to pursue export bans, Macron said "President Trump, in particular, was very clear on this point".
-Speaking at the White House, Trump later said an export ban on diesel was "never really on the table".
-In the joint statement, G7 leaders said: "We will implement our commitments with a coordinated release through the IEA of 100 million barrels to begin immediately over four months, including a frontloaded substantial diesel release within the first 20 days by G7 members and partners."
-It is not yet clear which partner countries will release stocks, nor how quickly.
-The 100 million barrels will comprise a mix of diesel and crude oil. The price of global benchmark Brent crude oil briefly dropped below $100 a barrel, but rose back to around $102 by Friday evening. Before the US and Israel invaded Iran, it was trading at around $73.
-Matt Smith, director of commodities research at Kpler, said oil had risen again due to renewed strikes between Saudi Arabia and the Houthis in Yemen.
-"Oil prices were selling off strongly due to the announcement of strategic stock releases in Europe, but they reversed course on rumours of Saudi Arabia planning an offensive into Yemen as it looks to re-establish a safe path via Bab-Al Mandeb," he said.
-European countries had pushed back against US threats to turn off American diesel, against a backdrop of the US-led war in the Middle East and reduced supplies from Russia and China.
-The G7 leaders said they will also coordinate maintenance schedules to avoid multiple refineries being shut down at the same time, while encouraging countries with the capacity to do so to ramp up refining of diesel in particular.
-Avoiding a ban on US diesel exports will offer significant relief to countries which are reliant on imports of the fuel, including the UK, where prices at the pump topped £2 a litre for the first time on Friday.
-Over half of the UK's diesel is imported, with 31% of those imports coming from the US.
-The US is one of the world's leading diesel suppliers, with domestic refineries churning out roughly four to five million barrels every day, according to the US Energy Information Administration (EIA).
-Americans consume about 3.6 million barrels of that. Refiners export the remaining 1.2 to 1.5 million barrels per day, making the US a vital supplier to the global market.
-Why UK diesel prices have breached the £2 per litre mark
-- Published8 hours ago
-Supplies of diesel internationally have been heavily constrained by the conflict in the Middle East, which has restricted the flow of both crude oil and refined diesel onto global markets.
-Russia, which is also a major producer, has implemented its own export ban on diesel, following attacks on its refineries by Ukraine, further limiting supply. The G7 leaders stressed that they will maintain sanctions against Russia amid its ongoing war in Ukraine.
-Diesel is harder to refine than petrol and, because of its use in the haulage industry and agriculture, it is very difficult to reduce demand.`,
-    bodyJa: `G7 to release 100 million barrels of oil and diesel after Trump export ban threat
-- Published
-The G7 has agreed to release 100 million barrels of oil and diesel in a bid to ease supply pressures that have caused prices to skyrocket.
-The group of advanced economies, including the US, said the move would include a "substantial release" of diesel in the coming days.
-President Donald Trump had threatened to ban diesel exports in a move which would have eased pressure on prices for US consumers ahead of November's midterm elections, but pushed up prices elsewhere.
-In a joint statement, the G7 said member countries had now agreed to "refrain from export restrictions on energy and energy products" on one another.
-The G7 includes the US, UK, Canada, Japan, Germany, Italy and France, with the EU also represented at its meetings.
-Trump had warned he would ban diesel exports from the US if European countries did not agree to put more of their own stocks onto the market.
-On Friday, he said on social media: "Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil. The process will begin immediately."
-His Treasury Secretary Scott Bessent had argued US farmers, truckers, and businesses "should not be left carrying the burden" as prices soar.
-Diesel is used heavily by the haulage industry and in agriculture, meaning rises in the cost of the fuel feed through into essentials such as food.
-But, following a meeting of G7 leaders, French President Emmanuel Macron said the bloc had agreed to release reserves of "up to 100 million barrels" within four months under the coordination of the International Energy Agency (IEA).
-The UK was represented at the meeting by Foreign Secretary Ed Miliband, who said the measures would "stabilise energy supplies, build resilience in supply chains and shield households and businesses from price shocks".
-Macron said the coordinated action would "bring down the prices of petroleum products, particularly diesel". Highlighting the agreement not to pursue export bans, Macron said "President Trump, in particular, was very clear on this point".
-Speaking at the White House, Trump later said an export ban on diesel was "never really on the table".
-In the joint statement, G7 leaders said: "We will implement our commitments with a coordinated release through the IEA of 100 million barrels to begin immediately over four months, including a frontloaded substantial diesel release within the first 20 days by G7 members and partners."
-It is not yet clear which partner countries will release stocks, nor how quickly.
-The 100 million barrels will comprise a mix of diesel and crude oil. The price of global benchmark Brent crude oil briefly dropped below $100 a barrel, but rose back to around $102 by Friday evening. Before the US and Israel invaded Iran, it was trading at around $73.
-Matt Smith, director of commodities research at Kpler, said oil had risen again due to renewed strikes between Saudi Arabia and the Houthis in Yemen.
-"Oil prices were selling off strongly due to the announcement of strategic stock releases in Europe, but they reversed course on rumours of Saudi Arabia planning an offensive into Yemen as it looks to re-establish a safe path via Bab-Al Mandeb," he said.
-European countries had pushed back against US threats to turn off American diesel, against a backdrop of the US-led war in the Middle East and reduced supplies from Russia and China.
-The G7 leaders said they will also coordinate maintenance schedules to avoid multiple refineries being shut down at the same time, while encouraging countries with the capacity to do so to ramp up refining of diesel in particular.
-Avoiding a ban on US diesel exports will offer significant relief to countries which are reliant on imports of the fuel, including the UK, where prices at the pump topped £2 a litre for the first time on Friday.
-Over half of the UK's diesel is imported, with 31% of those imports coming from the US.
-The US is one of the world's leading diesel suppliers, with domestic refineries churning out roughly four to five million barrels every day, according to the US Energy Information Administration (EIA).
-Americans consume about 3.6 million barrels of that. Refiners export the remaining 1.2 to 1.5 million barrels per day, making the US a vital supplier to the global market.
-Why UK diesel prices have breached the £2 per litre mark
-- Published8 hours ago
-Supplies of diesel internationally have been heavily constrained by the conflict in the Middle East, which has restricted the flow of both crude oil and refined diesel onto global markets.
-Russia, which is also a major producer, has implemented its own export ban on diesel, following attacks on its refineries by Ukraine, further limiting supply. The G7 leaders stressed that they will maintain sanctions against Russia amid its ongoing war in Ukraine.
-Diesel is harder to refine than petrol and, because of its use in the haulage industry and agriculture, it is very difficult to reduce demand.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-02T20:25:19+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c16/live/be292300-be89-11f1-babe-4199b0e7ccea.jpg",
-    readTime: 10,
-  },
-  {
-    id: "g7-nations-to-release-diesel-stocks-as-w-87bec33a",
-    title: "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
-    titleJa: "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
-    summaryJa: "EU countries are set for crisis talks on soaring diesel prices, with officials warning a U.S. export ban could hurt Europe’s economic outlook.",
-    bodyOriginal: `The Group of Seven nations agreed Friday to release 100 million barrels of reserves to address surging diesel fuel prices, after the Trump administration pushed Europe to deploy their stocks.
-The G7 leaders said the deployment will begin immediately and continue over four months with "a frontloaded substantial diesel release within the first 20 days" coordinated through the International Energy Agency.
-"We will convene in the context of the IEA in the coming days to discuss the possibility of additional diesel releases as necessary," the G7 leaders said in a joint statement. U.S. diesel prices hit record highs in September and remain elevated Friday at $6.37 per gallon on average.
-The G7 members are France, Canada, Germany, Italy, Japan, the United Kingdom and the United States. France currently holds the group's presidency. The European Union also participates in its meetings.
-President Donald Trump said moments before the G7 announcement that Europe had "agreed to release a massive amount of their heavily stocked Diesel Oil." The world is facing a fuel supply crisis due to Ukraine's attacks on Russian refineries and disruptions in the Middle East from the Iran war.
-The Trump administration has been pressuring Europe to release diesel stocks as an alternative to the U.S. imposing an export ban. Treasury Secretary Scott Bessent said Thursday that U.S. partners in Europe "should accelerate delivery on their existing commitments and make additional supplies immediately available to address ongoing disruptions."
-The G7 leaders agreed Friday to "refrain from export restrictions on energy and energy products" between the members of the group, according to their joint statement. They also called "on all producers to refrain from imposing bans that could exacerbate market tensions."
-Trump is facing mounting political pressure from Republican lawmakers to tackle soaring fuel prices ahead of the midterm elections in November.
-The president said last week that he was considering an export ban, a move the oil industry and broader business community in the U.S. staunchly oppose. Trump subsequently seemed to lean against an export ban due to its potential impact on gasoline prices.
-EU exposure to U.S.
-The prospect of the world's largest diesel exporter implementing an outright ban raised alarm across the Atlantic. The U.S. supplied around half of the EU's diesel imports in August, according to the International Energy Agency, underscoring the 27-nation bloc's exposure to a potential U.S. export ban.
-EU trade chief Maros Sefcovic said he had discussed diesel supplies and soaring prices with his counterpart U.S. Trade Representative Jamieson Greer.
-"We have every interest in working together on lowering the prices, be it on diesel or also other products from oil and gas supplies," Sefcovic told reporters in Milwaukee at the G20 trade ministers meeting, according to Reuters.
-He added that any move from the U.S. to restrict diesel exports would be unexpected and have a negative impact on Europe's economic outlook.
-IEA emergency release
-IEA members agreed in March to make available 400 million barrels of crude oil and refined products to address the supply disruption from the Iran war.
-Europe pledged around 107 million barrels, 68% of which was fuel. Asia and Oceania made 108 million barrels available consisting of 40% fuel and 60% crude.
-The U.S. pledged 172 million barrels, all of which were crude. Another 23 million barrels came from the Americas.
-U.S. Energy Secretary Chris Wright said Tuesday that the "United States and Japan are delivering on their commitments," but "several European member countries have released only a fraction of the crude oil and petroleum products they pledged."
-Wright's comment came after the Department of Energy announced the release of up to 40 million barrels of crude under U.S. commitments from March.`,
-    bodyJa: `The Group of Seven nations agreed Friday to release 100 million barrels of reserves to address surging diesel fuel prices, after the Trump administration pushed Europe to deploy their stocks.
-The G7 leaders said the deployment will begin immediately and continue over four months with "a frontloaded substantial diesel release within the first 20 days" coordinated through the International Energy Agency.
-"We will convene in the context of the IEA in the coming days to discuss the possibility of additional diesel releases as necessary," the G7 leaders said in a joint statement. U.S. diesel prices hit record highs in September and remain elevated Friday at $6.37 per gallon on average.
-The G7 members are France, Canada, Germany, Italy, Japan, the United Kingdom and the United States. France currently holds the group's presidency. The European Union also participates in its meetings.
-President Donald Trump said moments before the G7 announcement that Europe had "agreed to release a massive amount of their heavily stocked Diesel Oil." The world is facing a fuel supply crisis due to Ukraine's attacks on Russian refineries and disruptions in the Middle East from the Iran war.
-The Trump administration has been pressuring Europe to release diesel stocks as an alternative to the U.S. imposing an export ban. Treasury Secretary Scott Bessent said Thursday that U.S. partners in Europe "should accelerate delivery on their existing commitments and make additional supplies immediately available to address ongoing disruptions."
-The G7 leaders agreed Friday to "refrain from export restrictions on energy and energy products" between the members of the group, according to their joint statement. They also called "on all producers to refrain from imposing bans that could exacerbate market tensions."
-Trump is facing mounting political pressure from Republican lawmakers to tackle soaring fuel prices ahead of the midterm elections in November.
-The president said last week that he was considering an export ban, a move the oil industry and broader business community in the U.S. staunchly oppose. Trump subsequently seemed to lean against an export ban due to its potential impact on gasoline prices.
-EU exposure to U.S.
-The prospect of the world's largest diesel exporter implementing an outright ban raised alarm across the Atlantic. The U.S. supplied around half of the EU's diesel imports in August, according to the International Energy Agency, underscoring the 27-nation bloc's exposure to a potential U.S. export ban.
-EU trade chief Maros Sefcovic said he had discussed diesel supplies and soaring prices with his counterpart U.S. Trade Representative Jamieson Greer.
-"We have every interest in working together on lowering the prices, be it on diesel or also other products from oil and gas supplies," Sefcovic told reporters in Milwaukee at the G20 trade ministers meeting, according to Reuters.
-He added that any move from the U.S. to restrict diesel exports would be unexpected and have a negative impact on Europe's economic outlook.
-IEA emergency release
-IEA members agreed in March to make available 400 million barrels of crude oil and refined products to address the supply disruption from the Iran war.
-Europe pledged around 107 million barrels, 68% of which was fuel. Asia and Oceania made 108 million barrels available consisting of 40% fuel and 60% crude.
-The U.S. pledged 172 million barrels, all of which were crude. Another 23 million barrels came from the Americas.
-U.S. Energy Secretary Chris Wright said Tuesday that the "United States and Japan are delivering on their commitments," but "several European member countries have released only a fraction of the crude oil and petroleum products they pledged."
-Wright's comment came after the Department of Energy announced the release of up to 40 million barrels of crude under U.S. commitments from March.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
-    publishedAt: "2026-10-02T19:25:36+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
     readTime: 10,
   },
 ];
