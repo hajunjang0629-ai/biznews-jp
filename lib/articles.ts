@@ -15,6 +15,424 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "treasury-yields-rise-to-start-the-week-t-593ce19e",
+    title: "Treasury yields rise to start the week; traders look ahead to Fed minutes",
+    titleJa: "Treasury yields rise to start the week; traders look ahead to Fed minutes",
+    summaryJa: "U.S. Treasury yields are coming off a sharp selloff as investors look ahead to the Federal Reserve's last meeting minutes.",
+    bodyOriginal: `U.S. Treasury yields rebounded on Monday following their sharp sell-off last week as investors digested new economic data.
+The benchmark 10-year Treasury yield was last up about 2 basis points to 5.296%. The yield on the 30-year Treasury bond was also 3 basis points higher at 5.661%. The yield on the 2-year Treasury fell 1 basis point to 4.814%.
+One basis point is equal to 0.01%, and yields and prices move in opposite directions.
+The moves came as traders took note of new data on growth in the services sector released Monday by the Institute for Supply Management. The ISM report showed that the Purchasing Manager's Index — a measure of economic activity in the services sector — grew 54.9% in September, or roughly in line with expectations and slightly below its rate of growth for the prior month.
+Now, investors are looking ahead to the minutes from the central bank's September meeting, which are slated to come out on Wednesday.
+Investors have grappled with a bond market selloff over the past few weeks, while a lackluster monthly jobs report on Friday helped to bring yields down and alleviated concerns about another rate hike.
+Traders are now pricing in a nearly 82% chance of the Fed keeping rates unchanged at its next meeting, according to the CME Group's FedWatch Tool.`,
+    bodyJa: `U.S. Treasury yields rebounded on Monday following their sharp sell-off last week as investors digested new economic data.
+The benchmark 10-year Treasury yield was last up about 2 basis points to 5.296%. The yield on the 30-year Treasury bond was also 3 basis points higher at 5.661%. The yield on the 2-year Treasury fell 1 basis point to 4.814%.
+One basis point is equal to 0.01%, and yields and prices move in opposite directions.
+The moves came as traders took note of new data on growth in the services sector released Monday by the Institute for Supply Management. The ISM report showed that the Purchasing Manager's Index — a measure of economic activity in the services sector — grew 54.9% in September, or roughly in line with expectations and slightly below its rate of growth for the prior month.
+Now, investors are looking ahead to the minutes from the central bank's September meeting, which are slated to come out on Wednesday.
+Investors have grappled with a bond market selloff over the past few weeks, while a lackluster monthly jobs report on Friday helped to bring yields down and alleviated concerns about another rate hike.
+Traders are now pricing in a nearly 82% chance of the Fed keeping rates unchanged at its next meeting, according to the CME Group's FedWatch Tool.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/05/treasury-yields-bonds-fed-rates.html",
+    publishedAt: "2026-10-05T14:24:44+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "cerebras-stock-pops-9-after-sam-altman-c-116d3805",
+    title: "Cerebras stock pops 9% after Sam Altman calls the chipmaker a 'close partner'",
+    titleJa: "Cerebras stock pops 9% after Sam Altman calls the chipmaker a 'close partner'",
+    summaryJa: "Cerebras stock climbed in premarket trading after OpenAI's CEO Sam Altman reassured investors that the firm is a \"close partner.\"",
+    bodyOriginal: `Cerebras stock climbed 9% on Monday, rebounding from last week's decline, after OpenAI's CEO Sam Altman reassured investors that the firm is a "close partner."
+The AI hardware firm, which made its debut on the Nasdaq in a monster IPO in May, saw its stock plummet 20% to its lowest price last week after it was revealed that OpenAI would power its "Ultrafast" mode for GPT-6.1 Sol with Nvidia's graphics processing units instead of Cerebras' chips.
+"There is some speculation about our partnership with Cerebras," Altman said in a post on X on Friday. "Cerebras is a close partner, and we have a deep engagement pushing on the frontiers of speed."
+The company's stock rose almost 3% in extended trading on Friday following Altman's comments.
+Cerebras has seen its market cap plunge since its May debut and is now valued at about $43 billion, down from $95 billion.
+Cerebras, a Nvidia competitor, sells large computer chips and AI systems that are designed to run AI models faster than traditional GPUs. It claimed that its flagship product, the Wafer Scale Engine 3, runs faster than Nvidia's GPU.
+Cerebras signed a $10 billion deal with OpenAI in January to supply it with 750 megawatts of computing power through 2028.
+Citi analysts said that their view of Cerebras' revenue outlook between 2026 and 2028 remains "unchanged."
+"We believe frontier-AI labs' latest models would initially roll out on internal chips before running on third-party or Cerebras cloud, so it's too early to read much into it," they said in a note on Friday morning.
+"We believe the stock's ability to outperform is increasingly tied to evidence that gross margins are stabilizing. Any further delay in the gross margin trough would likely weigh on sentiment, particularly given Cerebras' premium valuation," they added.`,
+    bodyJa: `Cerebras stock climbed 9% on Monday, rebounding from last week's decline, after OpenAI's CEO Sam Altman reassured investors that the firm is a "close partner."
+The AI hardware firm, which made its debut on the Nasdaq in a monster IPO in May, saw its stock plummet 20% to its lowest price last week after it was revealed that OpenAI would power its "Ultrafast" mode for GPT-6.1 Sol with Nvidia's graphics processing units instead of Cerebras' chips.
+"There is some speculation about our partnership with Cerebras," Altman said in a post on X on Friday. "Cerebras is a close partner, and we have a deep engagement pushing on the frontiers of speed."
+The company's stock rose almost 3% in extended trading on Friday following Altman's comments.
+Cerebras has seen its market cap plunge since its May debut and is now valued at about $43 billion, down from $95 billion.
+Cerebras, a Nvidia competitor, sells large computer chips and AI systems that are designed to run AI models faster than traditional GPUs. It claimed that its flagship product, the Wafer Scale Engine 3, runs faster than Nvidia's GPU.
+Cerebras signed a $10 billion deal with OpenAI in January to supply it with 750 megawatts of computing power through 2028.
+Citi analysts said that their view of Cerebras' revenue outlook between 2026 and 2028 remains "unchanged."
+"We believe frontier-AI labs' latest models would initially roll out on internal chips before running on third-party or Cerebras cloud, so it's too early to read much into it," they said in a note on Friday morning.
+"We believe the stock's ability to outperform is increasingly tied to evidence that gross margins are stabilizing. Any further delay in the gross margin trough would likely weigh on sentiment, particularly given Cerebras' premium valuation," they added.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/05/cerebras-cbrs-sam-altman-close-partner.html",
+    publishedAt: "2026-10-05T13:37:15+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "china-shuts-hundreds-of-banks-as-beijing-ce66bd33",
+    title: "China shuts hundreds of banks as Beijing moves to shore up its financial system",
+    titleJa: "China shuts hundreds of banks as Beijing moves to shore up its financial system",
+    summaryJa: "Beijing shuttered 670 mainly rural banks last year in a bid to create fewer, larger and better-capitalized lenders.",
+    bodyOriginal: `China is accelerating its consolidation of smaller, mostly rural banks in a bid to shore up its financial system, amid ongoing concerns over an economic slowdown in the country.
+Beijing's policy-led consolidation saw a record 670 lenders closed in 2025 — about one-quarter of banks in the country — as authorities ramped up mergers and dissolutions to create fewer, larger and better-capitalized institutions, according to Fitch Ratings analysis.
+Small and rural commercial banks "remain the weakest part of the system" in China, Fitch said in a report, which flagged their "poor asset quality, low capitalization and governance shortcomings," especially in less-developed regions of the country.
+The rating agency said the return on assets among rural banks fell to 0.45% in the first half, down from 0.56% in 2021. Meanwhile, non-performing loans among such lenders rose to 2.8% in the same period, ahead of the sector average of 1.5%, with greater exposure to smaller companies, property developers and local government funding vehicles.
+The consolidation push is aimed at boosting oversight, curbing regulatory arbitrage and improving transparency, Fitch said, noting that stress at smaller lenders is unlikely to lead to system-wide contagion, pointing to their largely localized operations and limited interbank exposure.
+The measures could "ultimately reshape competitive dynamics among smaller lenders, although their structural weaknesses may persist in the near term," the rating agency added.
+The move comes amid ongoing signs of strain in the world's second-largest economy.
+China's GDP grew 4.3% in the second quarter, its slowest pace since 2022, while industrial profits came in at 4.2% annually in August, their weakest pace this year.`,
+    bodyJa: `China is accelerating its consolidation of smaller, mostly rural banks in a bid to shore up its financial system, amid ongoing concerns over an economic slowdown in the country.
+Beijing's policy-led consolidation saw a record 670 lenders closed in 2025 — about one-quarter of banks in the country — as authorities ramped up mergers and dissolutions to create fewer, larger and better-capitalized institutions, according to Fitch Ratings analysis.
+Small and rural commercial banks "remain the weakest part of the system" in China, Fitch said in a report, which flagged their "poor asset quality, low capitalization and governance shortcomings," especially in less-developed regions of the country.
+The rating agency said the return on assets among rural banks fell to 0.45% in the first half, down from 0.56% in 2021. Meanwhile, non-performing loans among such lenders rose to 2.8% in the same period, ahead of the sector average of 1.5%, with greater exposure to smaller companies, property developers and local government funding vehicles.
+The consolidation push is aimed at boosting oversight, curbing regulatory arbitrage and improving transparency, Fitch said, noting that stress at smaller lenders is unlikely to lead to system-wide contagion, pointing to their largely localized operations and limited interbank exposure.
+The measures could "ultimately reshape competitive dynamics among smaller lenders, although their structural weaknesses may persist in the near term," the rating agency added.
+The move comes amid ongoing signs of strain in the world's second-largest economy.
+China's GDP grew 4.3% in the second quarter, its slowest pace since 2022, while industrial profits came in at 4.2% annually in August, their weakest pace this year.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html",
+    publishedAt: "2026-10-05T13:23:46+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "gm-says-hybrid-vehicles-are-coming-we-re-0b868bc3",
+    title: "GM says hybrid vehicles are coming: 'We're not tone deaf to our customers'",
+    titleJa: "GM says hybrid vehicles are coming: 'We're not tone deaf to our customers'",
+    summaryJa: "DETROIT — General Motors plans to introduce hybrid models into its U.S. lineup as sales of the vehicles continue to grow amid inflated gas prices and a pullback in all-electric cars.Mike Anderson, GM's vice president of propulsion engineering, reconfirmed the automaker's hybrid plans, but declined to discuss timing for such vehicles, which had previously been expected as soon as next year.",
+    bodyOriginal: `DETROIT — General Motors plans to introduce hybrid models into its U.S. lineup as sales of the vehicles continue to grow amid inflated gas prices and a pullback in all-electric cars.
+Mike Anderson, GM's vice president of propulsion engineering, reconfirmed the automaker's hybrid plans, but declined to discuss timing for such vehicles, which had previously been expected as soon as next year.
+"It's fair to say that [hybrids are] part of the plan," Anderson, a 35-year GM veteran, told CNBC during an interview. "We're not tone deaf to our customers. We know what they want and we want to give that to them as quickly as we can."
+GM has largely been absent from the hybrid market this decade, instead using its resources to go "all-in" on all-electric vehicles. But amid lackluster EV demand, industry deregulation and increased hybrid popularity, Anderson said the company needs to meet customer demand wherever it may be.
+"Our long-term vision is an all-electric future. That's our goal," Anderson said. "That's the end state, but it's going to be a journey that involves technology diversity."
+GM CEO Mary Barra in January said the automaker was still studying plug-in hybrid electric vehicles, or PHEVs, for its U.S. lineup as well as traditional hybrids but remained critical of the technologies. She also told Bloomberg later that month that a "handful" of such models were coming but did not give a timeline.
+In mid-2024, GM announced plans to introduce PHEVs by 2027. At that time, GM was under pressure to meet stricter federal tailpipe emissions standards that have since been lowered or eliminated by the Trump administration.
+AutoForecast Solutions, an automotive data and consulting firm, expects GM to begin offering PHEVs in late 2027 to early 2028 with a 70-mile EV range "throughout its portfolio," according to Casey Selecman, director of powertrain forecasts for the company.
+"GM has several PHEVs planned throughout the portfolio from the Equinox to the Silverado but has been very cautious in rolling them out due to fears of customer technology preference changes that have burned them in the past," he said.
+Anderson declined to discuss potential products or timing for GM's first new hybrid model.
+"You can see, without me saying what our future plans are, where the customers are clamoring for these things and really, really going for them," he said. "We want to meet them where they want things."
+Sales of hybrid models in the U.S. have jumped amid dimming EV demand, inflated gas prices and more offerings in the market, which GM has been missing out on.
+Cox Automotive reports hybrid vehicle sales from the second quarter of this year increased 23% from a year earlier to represent a record 16.3% of U.S. sales from April through June. That compares with roughly 5.8% of sales for EVs, Cox said.
+The automotive industry has more powertrain and "propulsion" options than ever before. Here's a breakdown:
+- Internal combustion engine (ICE): A "traditional" vehicle with an engine that's fueled with gasoline or diesel.
+- Mild-hybrid electric vehicle (MHEV): An ICE vehicle that functions largely like a nonhybrid vehicle but may include minimal electrified features such as a small battery, regenerative braking or electric motor.
+- Hybrid electric vehicle (HEV): Think of the Toyota Prius, a vehicle that has a hybrid powertrain system combined with an engine.
+- Plug-in hybrid electric vehicle (PHEV): These vehicles feature an internal combustion engine combined with a hybrid system, including a larger battery than traditional hybrid vehicles as well as a plug to recharge the vehicle's battery. They typically allow drivers to travel a certain number of miles using the battery before the engine is needed to power the car or truck.
+- Battery-electric vehicle (BEV): These all-electric vehicles do not feature an internal combustion engine. Instead, they contain an electric motor that's powered by a large battery. They need to be recharged using an electrical outlet and charging port or charging station.
+- Fuel cell electric vehicle (FCEV): Hydrogen fuel cell electric vehicles and equipment operate much like BEVs but are powered by electricity generated from hydrogen and oxygen instead of pure batteries, which commonly include lithium. They're filled up with a nozzle, similar to traditional gas and diesel vehicles.
+- Extended-range electric vehicles (EREV): These are an emerging technology that largely function as a PHEV, however after the battery runs out of energy to power the vehicle, an engine works as a generator to exclusively power electric motors. The vehicle still drives like an EV instead of having the engine directly power the vehicle's motion.
+There are a growing number of hybrid variants being introduced by automakers but, in general, those vehicles combine a traditional gas-powered engine with electric motors and a battery to offer better fuel economy and, in many cases, better performance.
+The fastest-growing segments for hybrids in the U.S. are compact crossover/SUV and mid-size vehicles, according to Cox.
+"Hybrid vehicles continue to be the clearest growth story in the electrified market," Stephanie Valdez Streaty, Cox director of industry insights, said during a presentation last week.
+There are currently a few types of hybrids available in the U.S. Traditional hybrids, like a Toyota Prius, feature many electrified engine technologies, while PHEVs have a designated all-electric range before using an engine to power the vehicle.
+Then there are extended-range electric vehicles, or "series hybrids," that drive like an EV but have an engine that essentially operates like a generator to power electric motors to propel a vehicle.
+The combination of two powertrains adds additional complexity and costs, which has been an argument GM has made against hybrids, but it's something many consumers appear willing to pay for as hybrid sales continue to rise.
+GM currently offers only one hybrid, a model of its Chevrolet Corvette. The Detroit automaker's last true push into hybrids was the Chevrolet Volt plug-in, which was discontinued in 2019.
+GM's crosstown rivals, Ford Motor and Chrysler parent Stellantis, have leaned on suppliers to get hybrid vehicles to market more quickly.
+Anderson said GM's strategy "will be a mix" of internal and external technologies based on cost, segment and product.
+"We're deliberate because, usually for strategic reasons, we need to control our own destiny. We need to control our own timing," he said. "Or, if it's commodity, go get it. Go get the best price you can."`,
+    bodyJa: `DETROIT — General Motors plans to introduce hybrid models into its U.S. lineup as sales of the vehicles continue to grow amid inflated gas prices and a pullback in all-electric cars.
+Mike Anderson, GM's vice president of propulsion engineering, reconfirmed the automaker's hybrid plans, but declined to discuss timing for such vehicles, which had previously been expected as soon as next year.
+"It's fair to say that [hybrids are] part of the plan," Anderson, a 35-year GM veteran, told CNBC during an interview. "We're not tone deaf to our customers. We know what they want and we want to give that to them as quickly as we can."
+GM has largely been absent from the hybrid market this decade, instead using its resources to go "all-in" on all-electric vehicles. But amid lackluster EV demand, industry deregulation and increased hybrid popularity, Anderson said the company needs to meet customer demand wherever it may be.
+"Our long-term vision is an all-electric future. That's our goal," Anderson said. "That's the end state, but it's going to be a journey that involves technology diversity."
+GM CEO Mary Barra in January said the automaker was still studying plug-in hybrid electric vehicles, or PHEVs, for its U.S. lineup as well as traditional hybrids but remained critical of the technologies. She also told Bloomberg later that month that a "handful" of such models were coming but did not give a timeline.
+In mid-2024, GM announced plans to introduce PHEVs by 2027. At that time, GM was under pressure to meet stricter federal tailpipe emissions standards that have since been lowered or eliminated by the Trump administration.
+AutoForecast Solutions, an automotive data and consulting firm, expects GM to begin offering PHEVs in late 2027 to early 2028 with a 70-mile EV range "throughout its portfolio," according to Casey Selecman, director of powertrain forecasts for the company.
+"GM has several PHEVs planned throughout the portfolio from the Equinox to the Silverado but has been very cautious in rolling them out due to fears of customer technology preference changes that have burned them in the past," he said.
+Anderson declined to discuss potential products or timing for GM's first new hybrid model.
+"You can see, without me saying what our future plans are, where the customers are clamoring for these things and really, really going for them," he said. "We want to meet them where they want things."
+Sales of hybrid models in the U.S. have jumped amid dimming EV demand, inflated gas prices and more offerings in the market, which GM has been missing out on.
+Cox Automotive reports hybrid vehicle sales from the second quarter of this year increased 23% from a year earlier to represent a record 16.3% of U.S. sales from April through June. That compares with roughly 5.8% of sales for EVs, Cox said.
+The automotive industry has more powertrain and "propulsion" options than ever before. Here's a breakdown:
+- Internal combustion engine (ICE): A "traditional" vehicle with an engine that's fueled with gasoline or diesel.
+- Mild-hybrid electric vehicle (MHEV): An ICE vehicle that functions largely like a nonhybrid vehicle but may include minimal electrified features such as a small battery, regenerative braking or electric motor.
+- Hybrid electric vehicle (HEV): Think of the Toyota Prius, a vehicle that has a hybrid powertrain system combined with an engine.
+- Plug-in hybrid electric vehicle (PHEV): These vehicles feature an internal combustion engine combined with a hybrid system, including a larger battery than traditional hybrid vehicles as well as a plug to recharge the vehicle's battery. They typically allow drivers to travel a certain number of miles using the battery before the engine is needed to power the car or truck.
+- Battery-electric vehicle (BEV): These all-electric vehicles do not feature an internal combustion engine. Instead, they contain an electric motor that's powered by a large battery. They need to be recharged using an electrical outlet and charging port or charging station.
+- Fuel cell electric vehicle (FCEV): Hydrogen fuel cell electric vehicles and equipment operate much like BEVs but are powered by electricity generated from hydrogen and oxygen instead of pure batteries, which commonly include lithium. They're filled up with a nozzle, similar to traditional gas and diesel vehicles.
+- Extended-range electric vehicles (EREV): These are an emerging technology that largely function as a PHEV, however after the battery runs out of energy to power the vehicle, an engine works as a generator to exclusively power electric motors. The vehicle still drives like an EV instead of having the engine directly power the vehicle's motion.
+There are a growing number of hybrid variants being introduced by automakers but, in general, those vehicles combine a traditional gas-powered engine with electric motors and a battery to offer better fuel economy and, in many cases, better performance.
+The fastest-growing segments for hybrids in the U.S. are compact crossover/SUV and mid-size vehicles, according to Cox.
+"Hybrid vehicles continue to be the clearest growth story in the electrified market," Stephanie Valdez Streaty, Cox director of industry insights, said during a presentation last week.
+There are currently a few types of hybrids available in the U.S. Traditional hybrids, like a Toyota Prius, feature many electrified engine technologies, while PHEVs have a designated all-electric range before using an engine to power the vehicle.
+Then there are extended-range electric vehicles, or "series hybrids," that drive like an EV but have an engine that essentially operates like a generator to power electric motors to propel a vehicle.
+The combination of two powertrains adds additional complexity and costs, which has been an argument GM has made against hybrids, but it's something many consumers appear willing to pay for as hybrid sales continue to rise.
+GM currently offers only one hybrid, a model of its Chevrolet Corvette. The Detroit automaker's last true push into hybrids was the Chevrolet Volt plug-in, which was discontinued in 2019.
+GM's crosstown rivals, Ford Motor and Chrysler parent Stellantis, have leaned on suppliers to get hybrid vehicles to market more quickly.
+Anderson said GM's strategy "will be a mix" of internal and external technologies based on cost, segment and product.
+"We're deliberate because, usually for strategic reasons, we need to control our own destiny. We need to control our own timing," he said. "Or, if it's commodity, go get it. Go get the best price you can."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/05/gm-hybrid-vehicles.html",
+    publishedAt: "2026-10-05T12:30:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "shadow-chancellor-to-unveil-tory-plans-t-171c8317",
+    title: "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
+    titleJa: "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
+    summaryJa: "Shadow ministers will unveil a series of policies on day two of the Conservative Party conference in Birmingham.",
+    bodyOriginal: `Shadow chancellor to unveil Tory plans to cut taxes and regulations
+- Published
+Conservative shadow chancellor Andrew Griffith is to outline his plans for the UK economy, including hopes to cut taxes, red tape and house-building costs.
+Griffith and his colleagues will also use day two of the party's conference in Birmingham to explain how they would want to reduce food costs, support Heathrow Airport expansion, and abolish Natural England and the Environment Agency.
+Another prospective policy is replacing agreements designed to compel developers to fund community projects and services in areas they want to build.
+Griffith will describe his approach as the "most ambitious deregulation project in a generation". Reform UK suggested the Tories were "copying our policies".
+Griffith's speech comes after Conservative Party leader Kemi Badenoch published a 100-page document, external explaining her guiding principles and how her party would act should it return to government by winning the next general election.
+Following their historic defeat in the 2024 general election, the Conservatives have been trying to rebuild and convince voters that they can be trusted again.
+The Tories have faced repeated attacks from their opponents for their record in government, including on the economy, between 2010 and 2024.
+Speaking to BBC Breakfast, Griffith said infrastructure development was key to his plan, throwing his support behind the expansion of Heathrow airport.
+"Someone, sooner or later, has to get serious about getting this country growing again," he said.
+"It's a national embarrassment that we can't get that third runway built - we've said we will get full square behind that and the government should do that right now.
+"Whether it's reservoirs or reactors we need a system of getting infrastructure in this country that really works."
+Pressed on whether he would keep the pensions triple lock, which Prime Minister Andy Burnham has proposed changing, he said: "We are going to keep it."
+In 2021, then-backbencher Griffith wrote an article saying that the state pension triple lock was "unfair" as pensioners could "gain from the misfortune of others".
+Senior Conservatives including former chancellor Jeremy Hunt and shadow foreign secretary Tom Tugendhat have individually suggested the current triple lock is unsustainable.
+Griffith will accuse Burnham of wanting to pursue a "socialist fever dream of the 1970s", adding the Tories want to deliver "cheaper homes, lower taxes, and less red tape".
+Labour Party chairwoman Bridget Phillipson said: "The Tories had 14 years in government to grow our economy and help people get on the housing ladder, but they completely failed at every turn."
+Chancellor John Healey last week said all promises the government made would be "built on the rock of fiscal discipline" and the Budget on 28 October would "give families and businesses a bit of breathing space".
+During a series of speeches on Monday, Conservative shadow ministers will continue to make their case and provide more details of their proposals.
+This will include ditching environmental and energy efficiency regulations, including the future homes standard.
+The Tories believe their changes could cut the cost of delivering a new home by up to £50,000, which in turn they expect could save money for buyers.
+A single levy for developers would be implemented in place of section 106 agreements and the Community Infrastructure Levy, which fund projects in the community when building plans are progressed.
+The Conservatives argue this new charge would remove delays and improve how the funds are spent to the benefit of residents.
+The party has been critical of the roles of Natural England and the Environment Agency in relation to house building and flood prevention work respectively, and wants to abolish both. Their functions would be looked after by the Department for the Environment, Food and Rural Affairs (Defra).
+Prospect general secretary Mike Clancy, whose union represents members in Natural England and the Environment Agency, said: "Conservative budget cuts have left these regulators struggling to perform their vital functions with 'lack of resources' the most common reason for planning delays.
+"The solution is to restore their funding to adequate levels, not scrap vital safeguards."
+'Fantasy-land' pledges
+The Extended Packaging Responsibility (EPR) scheme, which requires firms to cover the cost of collecting, recycling and disposing of packaging it produces, would also be scrapped by the Conservatives.
+The party believes this would help lift a "burden" from businesses and in turn could cut the cost of the weekly shop.
+On Heathrow, Griffith is expected to say the next Conservative government would do "whatever it takes to end the delays and boost capacity by backing the third runway".
+Plans for expansion were scrapped by the Tory-led coalition government in 2010.
+Former Chancellor Rachel Reeves championed the runway to boost the economy after Labour won power, although Burnham has refused to say whether he backs the project since becoming prime minister.
+Burnham has described it as "principally... a matter for London and Londoners".
+Liberal Democrat deputy leader Daisy Cooper said the Conservatives have "cemented their position as a pointless anti-growth, anti-business party" by rejecting closer ties with Europe.
+She added: "No-one can take anything the Conservatives say on the economy seriously given their litany of fantasy-land financial pledges."
+Reform UK economy spokesman Robert Jenrick accused the Conservatives of "once again copying our policies".
+He added the Tories were unable to match Reform's pledge to raise the tax-free personal allowance to £15,000.
+Green Party MP Ellie Chowns said scrapping rules that "secure affordable homes and vital community infrastructure is not a plan for growth".
+She added: "It is a gift to developers, leaving communities to pick up the bill for new housing while handing ordinary people higher costs and fewer protections."
+Get in touch
+Do you have any views, comments or questions about this story?
+Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
+    bodyJa: `Shadow chancellor to unveil Tory plans to cut taxes and regulations
+- Published
+Conservative shadow chancellor Andrew Griffith is to outline his plans for the UK economy, including hopes to cut taxes, red tape and house-building costs.
+Griffith and his colleagues will also use day two of the party's conference in Birmingham to explain how they would want to reduce food costs, support Heathrow Airport expansion, and abolish Natural England and the Environment Agency.
+Another prospective policy is replacing agreements designed to compel developers to fund community projects and services in areas they want to build.
+Griffith will describe his approach as the "most ambitious deregulation project in a generation". Reform UK suggested the Tories were "copying our policies".
+Griffith's speech comes after Conservative Party leader Kemi Badenoch published a 100-page document, external explaining her guiding principles and how her party would act should it return to government by winning the next general election.
+Following their historic defeat in the 2024 general election, the Conservatives have been trying to rebuild and convince voters that they can be trusted again.
+The Tories have faced repeated attacks from their opponents for their record in government, including on the economy, between 2010 and 2024.
+Speaking to BBC Breakfast, Griffith said infrastructure development was key to his plan, throwing his support behind the expansion of Heathrow airport.
+"Someone, sooner or later, has to get serious about getting this country growing again," he said.
+"It's a national embarrassment that we can't get that third runway built - we've said we will get full square behind that and the government should do that right now.
+"Whether it's reservoirs or reactors we need a system of getting infrastructure in this country that really works."
+Pressed on whether he would keep the pensions triple lock, which Prime Minister Andy Burnham has proposed changing, he said: "We are going to keep it."
+In 2021, then-backbencher Griffith wrote an article saying that the state pension triple lock was "unfair" as pensioners could "gain from the misfortune of others".
+Senior Conservatives including former chancellor Jeremy Hunt and shadow foreign secretary Tom Tugendhat have individually suggested the current triple lock is unsustainable.
+Griffith will accuse Burnham of wanting to pursue a "socialist fever dream of the 1970s", adding the Tories want to deliver "cheaper homes, lower taxes, and less red tape".
+Labour Party chairwoman Bridget Phillipson said: "The Tories had 14 years in government to grow our economy and help people get on the housing ladder, but they completely failed at every turn."
+Chancellor John Healey last week said all promises the government made would be "built on the rock of fiscal discipline" and the Budget on 28 October would "give families and businesses a bit of breathing space".
+During a series of speeches on Monday, Conservative shadow ministers will continue to make their case and provide more details of their proposals.
+This will include ditching environmental and energy efficiency regulations, including the future homes standard.
+The Tories believe their changes could cut the cost of delivering a new home by up to £50,000, which in turn they expect could save money for buyers.
+A single levy for developers would be implemented in place of section 106 agreements and the Community Infrastructure Levy, which fund projects in the community when building plans are progressed.
+The Conservatives argue this new charge would remove delays and improve how the funds are spent to the benefit of residents.
+The party has been critical of the roles of Natural England and the Environment Agency in relation to house building and flood prevention work respectively, and wants to abolish both. Their functions would be looked after by the Department for the Environment, Food and Rural Affairs (Defra).
+Prospect general secretary Mike Clancy, whose union represents members in Natural England and the Environment Agency, said: "Conservative budget cuts have left these regulators struggling to perform their vital functions with 'lack of resources' the most common reason for planning delays.
+"The solution is to restore their funding to adequate levels, not scrap vital safeguards."
+'Fantasy-land' pledges
+The Extended Packaging Responsibility (EPR) scheme, which requires firms to cover the cost of collecting, recycling and disposing of packaging it produces, would also be scrapped by the Conservatives.
+The party believes this would help lift a "burden" from businesses and in turn could cut the cost of the weekly shop.
+On Heathrow, Griffith is expected to say the next Conservative government would do "whatever it takes to end the delays and boost capacity by backing the third runway".
+Plans for expansion were scrapped by the Tory-led coalition government in 2010.
+Former Chancellor Rachel Reeves championed the runway to boost the economy after Labour won power, although Burnham has refused to say whether he backs the project since becoming prime minister.
+Burnham has described it as "principally... a matter for London and Londoners".
+Liberal Democrat deputy leader Daisy Cooper said the Conservatives have "cemented their position as a pointless anti-growth, anti-business party" by rejecting closer ties with Europe.
+She added: "No-one can take anything the Conservatives say on the economy seriously given their litany of fantasy-land financial pledges."
+Reform UK economy spokesman Robert Jenrick accused the Conservatives of "once again copying our policies".
+He added the Tories were unable to match Reform's pledge to raise the tax-free personal allowance to £15,000.
+Green Party MP Ellie Chowns said scrapping rules that "secure affordable homes and vital community infrastructure is not a plan for growth".
+She added: "It is a gift to developers, leaving communities to pick up the bill for new housing while handing ordinary people higher costs and fewer protections."
+Get in touch
+Do you have any views, comments or questions about this story?
+Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-05T10:44:51+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feac/live/6d3064e0-b272-11f1-b67f-2b40fa83cfed.png",
+    readTime: 10,
+  },
+  {
+    id: "bt-agrees-rescue-deal-to-buy-broadband-o-d3600315",
+    title: "BT agrees rescue deal to buy broadband operator TalkTalk",
+    titleJa: "BT agrees rescue deal to buy broadband operator TalkTalk",
+    summaryJa: "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
+    bodyOriginal: `BT agrees rescue deal to buy broadband operator TalkTalk
+- Published
+The UK's biggest broadband provider, BT, has agreed to buy rival operator TalkTalk to save the company from collapse.
+The takeover would end of months of speculation over the future of TalkTalk and mean services for its millions of customers will continue as normal.
+BT boss Alison Kirkby said it provided "a safety net" for TalkTalk customers. The administrator, Alvarez & Marsal, said it also provided certainty for TalkTalk's 900 staff based in Salford, Greater Manchester.
+However, Virgin Media called it a "stitch-up" which allows BT to "tighten its grip" over the market. The government has given itself the power to have the final say on the deal, citing its importance to vital public services.
+TalkTalk has 1.5 million retail customers and one million wholesale customers across the UK.
+BT's Kirkby told the BBC's Today programme: "Two and a half million customers, including vulnerable households, and key emergency services might have lost their services if Talk Talk had failed, which it was on track to do.
+"So BT stepped in as we were the only viable option to take the business forward."
+Ernest Doku from comparison website Uswitch said the deal means "nothing changes today".
+"Your broadband and landline carry on as normal, and there is nothing you need to do right now," he added.
+However, he said that BT should explain "quickly and plainly what this means for contracts, prices and service in the future, so nobody is left guessing".
+The regulator, Ofcom, says broadband customers should have the right to leave a contract without an exit fee, external if a new owner puts the price up beyond what was in the contract.
+TalkTalk began as a challenger to BT in the broadband market. It was listed on the London Stock Exchange, but was taken over by private equity in 2021.
+Since then, the firm has built up debt while losing customers, leaving it unable to pay some of those it owes money to.
+Despite this, TalkTalk remained the fourth biggest broadband provider in the UK, with 6.6% of customers, during the March to June period of this year, according to figures from analytic firm Opensignal.
+BT has 32.5% of customers, Sky 19.9%, and Virgin Media 19.1%.
+Rivals who were beaten to the deal by BT have said it will be bad for consumers.
+Tom O'Hagan, a former TalkTalk executive who was leading a takeover bid for the firm, told the BBC he was worried about "reduced choice and potentially an increase in price for consumers and for businesses" because of the BT deal.
+He added that he was particularly concerned about competition in the wholesale market, where TalkTalk's subsidiary PXC was BT's main rival.
+Virgin Media, which has also reportedly tried to buy TalkTalk in the past, said the BT takeover has "all the characteristics of a stitch-up masked as a rescue deal in the public interest".
+It added that the purchase means BT can "roll its tanks over competition and further tighten its grip on the market. The logic simply doesn't add up."
+The Competition Markets Authority (CMA) will need to approve the takeover, which would give BT greater power over the broadband market.
+Tom Smith, a competition lawyer and former legal director at the CMA, said the regulator will be balancing that concern with other considerations.
+"When the CMA looks at it, it will look at what would have happened if the deal wasn't going through," he told the BBC.
+"If TalkTalk would have exited the market, for example, then really any deal is better than TalkTalk exiting, but then there might be alternative bidders as well that would have been less anticompetitive."
+However, the Department of Culture, Media, and Sport (DCMS) has given itself the power to make the final decision on the deal in the name of the public interest once the CMA has made its report.
+DCMS has given the CMA until 19 October to deliver its verdict.
+Culture Secretary Lisa Nandy said: "Phone and broadband services are vital national infrastructure.
+"If TalkTalk services fail, there is a genuine risk to life and public services – including to hospitals, schools and emergency care. These are unprecedented circumstances that require action now."
+BT has said it welcomed the intervention and would "work constructively with the government and the CMA during their review".
+Judith Mackenzie, a partner at investment manager Downing, told the BBC that broadband was "not a regulated industry, unlike electricity and water, but it's also very important to business users and ourselves, consumers".
+"It's almost like a commodity now, broadband," she added.
+BT has said it will cost the firm £400m to buy TalkTalk out of administration.
+This includes the purchase price, fees, TalkTalk's expected £60m loss for this year, and BT effectively writing off the £100m TalkTalk owes BT's Openreach business.
+TalkTalk has £1.5bn of debt and made a £100m loss last year.`,
+    bodyJa: `BT agrees rescue deal to buy broadband operator TalkTalk
+- Published
+The UK's biggest broadband provider, BT, has agreed to buy rival operator TalkTalk to save the company from collapse.
+The takeover would end of months of speculation over the future of TalkTalk and mean services for its millions of customers will continue as normal.
+BT boss Alison Kirkby said it provided "a safety net" for TalkTalk customers. The administrator, Alvarez & Marsal, said it also provided certainty for TalkTalk's 900 staff based in Salford, Greater Manchester.
+However, Virgin Media called it a "stitch-up" which allows BT to "tighten its grip" over the market. The government has given itself the power to have the final say on the deal, citing its importance to vital public services.
+TalkTalk has 1.5 million retail customers and one million wholesale customers across the UK.
+BT's Kirkby told the BBC's Today programme: "Two and a half million customers, including vulnerable households, and key emergency services might have lost their services if Talk Talk had failed, which it was on track to do.
+"So BT stepped in as we were the only viable option to take the business forward."
+Ernest Doku from comparison website Uswitch said the deal means "nothing changes today".
+"Your broadband and landline carry on as normal, and there is nothing you need to do right now," he added.
+However, he said that BT should explain "quickly and plainly what this means for contracts, prices and service in the future, so nobody is left guessing".
+The regulator, Ofcom, says broadband customers should have the right to leave a contract without an exit fee, external if a new owner puts the price up beyond what was in the contract.
+TalkTalk began as a challenger to BT in the broadband market. It was listed on the London Stock Exchange, but was taken over by private equity in 2021.
+Since then, the firm has built up debt while losing customers, leaving it unable to pay some of those it owes money to.
+Despite this, TalkTalk remained the fourth biggest broadband provider in the UK, with 6.6% of customers, during the March to June period of this year, according to figures from analytic firm Opensignal.
+BT has 32.5% of customers, Sky 19.9%, and Virgin Media 19.1%.
+Rivals who were beaten to the deal by BT have said it will be bad for consumers.
+Tom O'Hagan, a former TalkTalk executive who was leading a takeover bid for the firm, told the BBC he was worried about "reduced choice and potentially an increase in price for consumers and for businesses" because of the BT deal.
+He added that he was particularly concerned about competition in the wholesale market, where TalkTalk's subsidiary PXC was BT's main rival.
+Virgin Media, which has also reportedly tried to buy TalkTalk in the past, said the BT takeover has "all the characteristics of a stitch-up masked as a rescue deal in the public interest".
+It added that the purchase means BT can "roll its tanks over competition and further tighten its grip on the market. The logic simply doesn't add up."
+The Competition Markets Authority (CMA) will need to approve the takeover, which would give BT greater power over the broadband market.
+Tom Smith, a competition lawyer and former legal director at the CMA, said the regulator will be balancing that concern with other considerations.
+"When the CMA looks at it, it will look at what would have happened if the deal wasn't going through," he told the BBC.
+"If TalkTalk would have exited the market, for example, then really any deal is better than TalkTalk exiting, but then there might be alternative bidders as well that would have been less anticompetitive."
+However, the Department of Culture, Media, and Sport (DCMS) has given itself the power to make the final decision on the deal in the name of the public interest once the CMA has made its report.
+DCMS has given the CMA until 19 October to deliver its verdict.
+Culture Secretary Lisa Nandy said: "Phone and broadband services are vital national infrastructure.
+"If TalkTalk services fail, there is a genuine risk to life and public services – including to hospitals, schools and emergency care. These are unprecedented circumstances that require action now."
+BT has said it welcomed the intervention and would "work constructively with the government and the CMA during their review".
+Judith Mackenzie, a partner at investment manager Downing, told the BBC that broadband was "not a regulated industry, unlike electricity and water, but it's also very important to business users and ourselves, consumers".
+"It's almost like a commodity now, broadband," she added.
+BT has said it will cost the firm £400m to buy TalkTalk out of administration.
+This includes the purchase price, fees, TalkTalk's expected £60m loss for this year, and BT effectively writing off the £100m TalkTalk owes BT's Openreach business.
+TalkTalk has £1.5bn of debt and made a £100m loss last year.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-05T10:25:36+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb77/live/0d52c410-c0a9-11f1-a64c-550be9e3c66b.jpg",
+    readTime: 10,
+  },
+  {
+    id: "average-five-year-mortgage-rate-hits-6-f-894cdc7f",
+    title: "Average five-year mortgage rate hits 6% for first time in three years",
+    titleJa: "Average five-year mortgage rate hits 6% for first time in three years",
+    summaryJa: "The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
+    bodyOriginal: `Average five-year mortgage rate hits 6% for first time in three years
+- Published
+The average interest rate on a new five-year fixed mortgage deal has hit 6% for the first time in three years, figures show.
+The cost of home loans has been rising in recent weeks, as lenders face higher costs amid international concern over rising prices, interest rates, and government borrowing costs.
+It means home buyers and anyone renewing a fixed deal have seen about 1,500 mortgage deals priced below 5% vanish since the start of September, according to the financial information service Moneyfacts.
+It described the situation as "brutal" for borrowers, with the average rate on five-year deals now at 6%, and at 5.98% on two-year fixed mortgages.
+For borrowers, the interest rate on a fixed mortgage does not change until it expires, usually after two or five years, and a new one is chosen to replace it. The vast majority of homeowners and buyers have this kind of mortgage.
+Since the Iran war began, global economic uncertainty has been pushing up the cost of deals.
+Moneyfacts said that the biggest High Street lenders had made repeated fixed rate increases during September. Barclays increased selected fixed rates on four occasions, while HSBC, Lloyds Bank, Nationwide, NatWest, Santander and TSB each made three rounds of increases.
+It meant that the average rate on a new five-year deal was at its highest since September 2023. On two-year deals, the average rate is at its highest since December 2023.
+"Average fixed mortgage rates rising back to three-year highs will be disastrous news for borrowers," said Rachel Springall, finance expert at Moneyfacts.
+"Borrowers who were hoping mortgage rates would stabilise will be disappointed."
+She said that those coming to the end of a fixed deal would be "wise to seek advice and compare deals carefully".
+Some lenders could allow people to lock in a rate three months before their current deal ends, while others could allow six months, she said.
+Springall said rate rises were "inevitable" because lenders' wholesale funding costs had climbed as a result of rising gilt yields.
+Interest rates - known as the yield - on government bonds have been going up, meaning it costs the government more to borrow over the long term.
+The knock-on impact of this on the mortgage market has meant that the number of fixed-rate deals priced below 5% has plunged by 99%, from 1,494 since the start of September 2026 to nine now.
+In contrast, the number of sub-5% variable rate mortgages has remained broadly stable, Springall said, leading some borrowers to chose deals that track the Bank of England's base rate.
+Cost-of-living blow
+Millions of mortgage-holders are coming to the end of their current deals in the next two years.
+Just over five million homeowners should expect their monthly mortgage repayments to increase by the end of 2028, according to Bank of England forecasts.
+Some may have expected rates to have fallen this year, owing to improved economic conditions, but the Iran war has upended many of those expectations.
+It has also led to wider pressure on the cost of essential bills.
+On Friday, drivers saw the average cost of diesel rise above £2 a litre in the UK for the first time, according to the RAC motoring group.
+Domestic energy prices also rose by 4% at the start of October, and forecasters have predicted a 16% increase when regulator Ofgem sets its next price cap for January.
+The government is under pressure to support those most likely to struggle to pay at the Budget later this month.
+We bought our £242,000 home without a deposit - here's how
+- Published18 September
+One million more UK homeowners set to face higher mortgages
+- Published7 July
+Get in touch
+How are you coping with mortgage repayments? Are you trying to get on the housing ladder?`,
+    bodyJa: `Average five-year mortgage rate hits 6% for first time in three years
+- Published
+The average interest rate on a new five-year fixed mortgage deal has hit 6% for the first time in three years, figures show.
+The cost of home loans has been rising in recent weeks, as lenders face higher costs amid international concern over rising prices, interest rates, and government borrowing costs.
+It means home buyers and anyone renewing a fixed deal have seen about 1,500 mortgage deals priced below 5% vanish since the start of September, according to the financial information service Moneyfacts.
+It described the situation as "brutal" for borrowers, with the average rate on five-year deals now at 6%, and at 5.98% on two-year fixed mortgages.
+For borrowers, the interest rate on a fixed mortgage does not change until it expires, usually after two or five years, and a new one is chosen to replace it. The vast majority of homeowners and buyers have this kind of mortgage.
+Since the Iran war began, global economic uncertainty has been pushing up the cost of deals.
+Moneyfacts said that the biggest High Street lenders had made repeated fixed rate increases during September. Barclays increased selected fixed rates on four occasions, while HSBC, Lloyds Bank, Nationwide, NatWest, Santander and TSB each made three rounds of increases.
+It meant that the average rate on a new five-year deal was at its highest since September 2023. On two-year deals, the average rate is at its highest since December 2023.
+"Average fixed mortgage rates rising back to three-year highs will be disastrous news for borrowers," said Rachel Springall, finance expert at Moneyfacts.
+"Borrowers who were hoping mortgage rates would stabilise will be disappointed."
+She said that those coming to the end of a fixed deal would be "wise to seek advice and compare deals carefully".
+Some lenders could allow people to lock in a rate three months before their current deal ends, while others could allow six months, she said.
+Springall said rate rises were "inevitable" because lenders' wholesale funding costs had climbed as a result of rising gilt yields.
+Interest rates - known as the yield - on government bonds have been going up, meaning it costs the government more to borrow over the long term.
+The knock-on impact of this on the mortgage market has meant that the number of fixed-rate deals priced below 5% has plunged by 99%, from 1,494 since the start of September 2026 to nine now.
+In contrast, the number of sub-5% variable rate mortgages has remained broadly stable, Springall said, leading some borrowers to chose deals that track the Bank of England's base rate.
+Cost-of-living blow
+Millions of mortgage-holders are coming to the end of their current deals in the next two years.
+Just over five million homeowners should expect their monthly mortgage repayments to increase by the end of 2028, according to Bank of England forecasts.
+Some may have expected rates to have fallen this year, owing to improved economic conditions, but the Iran war has upended many of those expectations.
+It has also led to wider pressure on the cost of essential bills.
+On Friday, drivers saw the average cost of diesel rise above £2 a litre in the UK for the first time, according to the RAC motoring group.
+Domestic energy prices also rose by 4% at the start of October, and forecasters have predicted a 16% increase when regulator Ofgem sets its next price cap for January.
+The government is under pressure to support those most likely to struggle to pay at the Budget later this month.
+We bought our £242,000 home without a deposit - here's how
+- Published18 September
+One million more UK homeowners set to face higher mortgages
+- Published7 July
+Get in touch
+How are you coping with mortgage repayments? Are you trying to get on the housing ladder?`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-05T09:54:57+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb45/live/ddd7ea70-c0b3-11f1-babe-4199b0e7ccea.jpg",
+    readTime: 10,
+  },
+  {
     id: "the-2029-tipping-point-western-populatio-b754090e",
     title: "The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances",
     titleJa: "The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances",
@@ -1650,466 +2068,6 @@ In an interview with CNN on Wednesday evening, Netanyahu said the stabbed pilot,
     publishedAt: "2026-10-03T11:20:21+00:00",
     category: "貿易",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg",
-    readTime: 10,
-  },
-  {
-    id: "david-ellison-just-brought-in-a-co-ceo-t-08864194",
-    title: "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
-    titleJa: "David Ellison just brought in a co-CEO to run his new empire: Meet Ynon Kreiz",
-    summaryJa: "Ynon Kreiz's appointment as co-CEO of Skydance answers a key governance question for Ellison's soon-to-be-merged company.",
-    bodyOriginal: `David Ellison has spent two years fighting to build his media empire. Now, he's bringing in a heavyweight to help him run it.
-Ynon Kreiz, outgoing CEO of Mattel, will serve as co-CEO of the combined Paramount Skydance and Warner Bros. Discovery, to be named simply Skydance, when the merger closes on Tuesday.
-The new entity will unite the storied film studios of Paramount and Warner Bros.; the CBS broadcast network; a sprawling portfolio of pay-TV networks that include CNN, TNT, MTV and BET; and streaming services Paramount+ and HBO Max, all under one roof.
-The appointment of Kreiz to a top executive position alongside Ellison speaks to a governance question that has surrounded Ellison's aggressive pursuit of the legacy media assets: The tech executive and son of billionaire Larry Ellison can buy it, but can he lead it?
-Not even 18 months ago, Ellison was the CEO of film production company Skydance with a limited portfolio of hits, namely the Tom Cruise-led Mission: Impossible franchise and "Top Gun: Maverick."
-By August 2025, he was successfully closing an acquisition of Paramount, a deal worth around $8 billion. Roughly a month later, he started his campaign for WBD, spurring a back-and-forth bidding war that would ultimately result in a deal worth roughly $110 billion on an enterprise basis to merge two of Hollywood's biggest media companies.
-Kreiz is a 30-year veteran of the media space, arguably best known for ushering "Barbie" to the big screen in 2023. He's earned a reputation as a turnaround man, with roots in entertainment despite his more recent stint in consumer goods.
-He joins Paramount Skydance on Monday, and becomes co-CEO on Tuesday upon closing.
-Many on Wall Street have lauded Kreiz for reviving toymaker Mattel through various cost-cutting measures, though others question if his previous entertainment experience is enough to help navigate Skydance through this merger — and how successfully he and Ellison will share the duties.
-"We view the appointment of Ynon Kreiz positively, as his operating experience and brand/IP focus uniquely position him to help lead the integration of Paramount Skydance and WBD and build the combined business into a best-in-class content and IP platform," said Matthew Condon, analyst at Citizens Bank, in a research note published this week.
-Ellison's focus will be on the company's long-term strategy, creative vision, technology and capital allocation, and Kreiz will be responsible for the company's day-to-day management and the integration of the combined businesses, the company said in announcing his role.
-"Kreiz has extensive experience in media and entertainment from before his time at Mattel," Matthew Dolgin, senior equity analyst at Morningstar, wrote in a research note this week. However, "We don't necessarily think he is the best conceivable choice to handle this task."
-"He undoubtedly is an experienced hand who fills a void that had been present, leaving the firm better positioned with him, in our view, than it was without him," Dolgin wrote. "Though his title is co-CEO, we view Kreiz as a chief operating officer."
-Mattel turnaround
-Prior to his eight-year stint as Mattel CEO, Kreiz was chief executive and chairman of Maker Studios, which was sold to The Walt Disney Co. in 2014. Before that he was the chairman and CEO of Endemol Group, one of the world's largest independent television production companies. Earlier in his career, Kreiz co-founded Fox Kids Group Europe, a children's entertainment company, which was also acquired by Disney in 2002.
-"It's an excellent choice for Paramount," Eric Handler, managing director and senior media and entertainment analyst at Roth Capital Partners, told CNBC.
-When Kreiz took the helm at Mattel in 2018, he was the fourth CEO in four years to take control of the toy company. At that time, the company's Fisher-Price, Barbie and American Girl brands were struggling to connect with changing consumer tastes and Mattel was reeling from the recent bankruptcy of Toys R Us.
-"Mattel had like a four-year revenue downturn, gone from being quite profitable to losing money, and he turned that around in like two years," Handler said.
-Wall Street analysts told CNBC that Kreiz's experience righting the ship at Mattel will help Skydance navigate a sprawling and complex merger.
-"He got off to a really great start [at Mattel] because he did some structural improvements," said Gerrick Johnson, equity research analyst at Seaport Research Partners. "They eliminated a lot of SKUs, rationalized the business lines ... They did a great job of cutting like $1 billion worth of cost right out of the gate, becoming more flexible, quicker to market."
-As part of these cost-cutting measures, Kreiz restructured Mattel's supply chain, reduced the number of toys it produced, closed several manufacturing facilities and reduced the overall workforce by 2,200 employees. He prioritized creating free cash flow and deleveraging the company's balance sheet.
-"Net-net, we believe Mr. Kreiz's operational experience restructuring and turning around Mattel, coupled with his focus on developing world-class IP, uniquely positions him for the co-CEO role and to lead the integration of Paramount Skydance and WBD — an integration largely predicated on high expense synergies, and ultimately, building a best-in-class content and IP platform," wrote Citizens' Condon.
-Film strategy
-One of the first major initiatives Kreiz instituted upon taking over Mattel was the launch of an in-house film division. The strategy was to use the box office as a catalyst for toy sales.
-Through this venture, Mattel partnered with the Warner Bros. studio to bring Barbie to the big screen. The film, directed by Greta Gerwig and starring Margot Robbie and Ryan Gosling, generated more than $1.4 billion at the global box office and revitalized the Barbie brand.
-While "Barbie" was a box office hit, most of the revenue from the film went to Warner Bros. and theatrical partners. Mattel reported it received just a $150 million revenue boost in fiscal 2023, the year the film was released.
-"You can't argue that Barbie wasn't anything but a tremendous success," Johnson said. "But for Mattel, it didn't translate to the bottom line. Mattel that year generated an incremental $90 million in operating profit, so that's like 13% growth on a consolidated basis with the 'Barbie' movie. Barbie revenue was up 3% that year, but Barbie revenue since is down 22%. ... So, a massive deterioration of that Barbie brand since."
-Some Wall Street analysts suggested Kreiz became too focused on the entertainment side of Mattel's business, leading to stagnation in toy innovation and slower sales.
-"Post-Covid, earnings have been very stagnant," Johnson said. "The top line has flatlined. Margin growth has stalled. Innovation has stalled, and it just seems like a classic, you know, taking the eye off the ball."
-Mattel's stock has also "done a round trip under Kreiz's tenure," Jaime Katz, senior analyst at Morningstar, wrote in a research note published Tuesday. While shares roughly doubled to the mid-$20 range during his time as CEO, they ultimately fell back to around $15 apiece.
-"Kreiz's strategy to establish Mattel as an IP-driven, high-performing toy company has largely fallen flat," Katz said.
-Merging Paramount and WBD
-Still, analysts see Kreiz as an asset to Skydance and Ellison as the company begins a lengthy merger process.
-The combination of Paramount and Warner Bros. Discovery into Skydance could take between two and three years in total, Laura Martin, analyst at Needham, wrote in a note to investors published Thursday.
-Paramount Skydance has said it intends to realize $6 billion in cost savings through the merger within three years of closing. At the same time, Ellison and Kreiz will be facing around $79 billion in debt once the transaction is complete.
-"Over time, we expect cost synergies to be higher than the $6 billion promised," Martin wrote.
-While Paramount executives have said the majority of that savings target will be found in nonlabor costs, exactly where the savings will come from remains to be seen.
-Ellison has previously said he intends to combine the Paramount+ and HBO Max streaming services into one platform for consumers. That could naturally result in shrinking the infrastructure around those businesses.
-In film, Skydance will now be home to the Warner Bros. and Paramount studios in addition to its DC studio — and it will have lofty production targets to meet.
-In order to settle a lawsuit by a group of state attorneys general seeking to block the deal over antitrust concerns, Paramount Skydance agreed to release at least 30 films per year into theaters in 2027 and 2028 and at least 32 films annually in 2029, 2030 and 2031. It's unclear how much cost cutting the studios could absorb and still achieve these quotas.
-Over at CBS, Skydance has agreed to prohibit writer layoffs on the broadcast team for at least five years.
-Yet, a report from the Department of Economic Opportunity in Los Angeles suggests that 4,500 film and TV jobs in the county are at risk over a three-year period when the companies combine operations.
-"[Kreiz has] got a big task ahead of him," Handler said. "You know, there's a huge amount of debt, a massive integration situation that he's facing. But I think he'll do a great job with it."`,
-    bodyJa: `David Ellison has spent two years fighting to build his media empire. Now, he's bringing in a heavyweight to help him run it.
-Ynon Kreiz, outgoing CEO of Mattel, will serve as co-CEO of the combined Paramount Skydance and Warner Bros. Discovery, to be named simply Skydance, when the merger closes on Tuesday.
-The new entity will unite the storied film studios of Paramount and Warner Bros.; the CBS broadcast network; a sprawling portfolio of pay-TV networks that include CNN, TNT, MTV and BET; and streaming services Paramount+ and HBO Max, all under one roof.
-The appointment of Kreiz to a top executive position alongside Ellison speaks to a governance question that has surrounded Ellison's aggressive pursuit of the legacy media assets: The tech executive and son of billionaire Larry Ellison can buy it, but can he lead it?
-Not even 18 months ago, Ellison was the CEO of film production company Skydance with a limited portfolio of hits, namely the Tom Cruise-led Mission: Impossible franchise and "Top Gun: Maverick."
-By August 2025, he was successfully closing an acquisition of Paramount, a deal worth around $8 billion. Roughly a month later, he started his campaign for WBD, spurring a back-and-forth bidding war that would ultimately result in a deal worth roughly $110 billion on an enterprise basis to merge two of Hollywood's biggest media companies.
-Kreiz is a 30-year veteran of the media space, arguably best known for ushering "Barbie" to the big screen in 2023. He's earned a reputation as a turnaround man, with roots in entertainment despite his more recent stint in consumer goods.
-He joins Paramount Skydance on Monday, and becomes co-CEO on Tuesday upon closing.
-Many on Wall Street have lauded Kreiz for reviving toymaker Mattel through various cost-cutting measures, though others question if his previous entertainment experience is enough to help navigate Skydance through this merger — and how successfully he and Ellison will share the duties.
-"We view the appointment of Ynon Kreiz positively, as his operating experience and brand/IP focus uniquely position him to help lead the integration of Paramount Skydance and WBD and build the combined business into a best-in-class content and IP platform," said Matthew Condon, analyst at Citizens Bank, in a research note published this week.
-Ellison's focus will be on the company's long-term strategy, creative vision, technology and capital allocation, and Kreiz will be responsible for the company's day-to-day management and the integration of the combined businesses, the company said in announcing his role.
-"Kreiz has extensive experience in media and entertainment from before his time at Mattel," Matthew Dolgin, senior equity analyst at Morningstar, wrote in a research note this week. However, "We don't necessarily think he is the best conceivable choice to handle this task."
-"He undoubtedly is an experienced hand who fills a void that had been present, leaving the firm better positioned with him, in our view, than it was without him," Dolgin wrote. "Though his title is co-CEO, we view Kreiz as a chief operating officer."
-Mattel turnaround
-Prior to his eight-year stint as Mattel CEO, Kreiz was chief executive and chairman of Maker Studios, which was sold to The Walt Disney Co. in 2014. Before that he was the chairman and CEO of Endemol Group, one of the world's largest independent television production companies. Earlier in his career, Kreiz co-founded Fox Kids Group Europe, a children's entertainment company, which was also acquired by Disney in 2002.
-"It's an excellent choice for Paramount," Eric Handler, managing director and senior media and entertainment analyst at Roth Capital Partners, told CNBC.
-When Kreiz took the helm at Mattel in 2018, he was the fourth CEO in four years to take control of the toy company. At that time, the company's Fisher-Price, Barbie and American Girl brands were struggling to connect with changing consumer tastes and Mattel was reeling from the recent bankruptcy of Toys R Us.
-"Mattel had like a four-year revenue downturn, gone from being quite profitable to losing money, and he turned that around in like two years," Handler said.
-Wall Street analysts told CNBC that Kreiz's experience righting the ship at Mattel will help Skydance navigate a sprawling and complex merger.
-"He got off to a really great start [at Mattel] because he did some structural improvements," said Gerrick Johnson, equity research analyst at Seaport Research Partners. "They eliminated a lot of SKUs, rationalized the business lines ... They did a great job of cutting like $1 billion worth of cost right out of the gate, becoming more flexible, quicker to market."
-As part of these cost-cutting measures, Kreiz restructured Mattel's supply chain, reduced the number of toys it produced, closed several manufacturing facilities and reduced the overall workforce by 2,200 employees. He prioritized creating free cash flow and deleveraging the company's balance sheet.
-"Net-net, we believe Mr. Kreiz's operational experience restructuring and turning around Mattel, coupled with his focus on developing world-class IP, uniquely positions him for the co-CEO role and to lead the integration of Paramount Skydance and WBD — an integration largely predicated on high expense synergies, and ultimately, building a best-in-class content and IP platform," wrote Citizens' Condon.
-Film strategy
-One of the first major initiatives Kreiz instituted upon taking over Mattel was the launch of an in-house film division. The strategy was to use the box office as a catalyst for toy sales.
-Through this venture, Mattel partnered with the Warner Bros. studio to bring Barbie to the big screen. The film, directed by Greta Gerwig and starring Margot Robbie and Ryan Gosling, generated more than $1.4 billion at the global box office and revitalized the Barbie brand.
-While "Barbie" was a box office hit, most of the revenue from the film went to Warner Bros. and theatrical partners. Mattel reported it received just a $150 million revenue boost in fiscal 2023, the year the film was released.
-"You can't argue that Barbie wasn't anything but a tremendous success," Johnson said. "But for Mattel, it didn't translate to the bottom line. Mattel that year generated an incremental $90 million in operating profit, so that's like 13% growth on a consolidated basis with the 'Barbie' movie. Barbie revenue was up 3% that year, but Barbie revenue since is down 22%. ... So, a massive deterioration of that Barbie brand since."
-Some Wall Street analysts suggested Kreiz became too focused on the entertainment side of Mattel's business, leading to stagnation in toy innovation and slower sales.
-"Post-Covid, earnings have been very stagnant," Johnson said. "The top line has flatlined. Margin growth has stalled. Innovation has stalled, and it just seems like a classic, you know, taking the eye off the ball."
-Mattel's stock has also "done a round trip under Kreiz's tenure," Jaime Katz, senior analyst at Morningstar, wrote in a research note published Tuesday. While shares roughly doubled to the mid-$20 range during his time as CEO, they ultimately fell back to around $15 apiece.
-"Kreiz's strategy to establish Mattel as an IP-driven, high-performing toy company has largely fallen flat," Katz said.
-Merging Paramount and WBD
-Still, analysts see Kreiz as an asset to Skydance and Ellison as the company begins a lengthy merger process.
-The combination of Paramount and Warner Bros. Discovery into Skydance could take between two and three years in total, Laura Martin, analyst at Needham, wrote in a note to investors published Thursday.
-Paramount Skydance has said it intends to realize $6 billion in cost savings through the merger within three years of closing. At the same time, Ellison and Kreiz will be facing around $79 billion in debt once the transaction is complete.
-"Over time, we expect cost synergies to be higher than the $6 billion promised," Martin wrote.
-While Paramount executives have said the majority of that savings target will be found in nonlabor costs, exactly where the savings will come from remains to be seen.
-Ellison has previously said he intends to combine the Paramount+ and HBO Max streaming services into one platform for consumers. That could naturally result in shrinking the infrastructure around those businesses.
-In film, Skydance will now be home to the Warner Bros. and Paramount studios in addition to its DC studio — and it will have lofty production targets to meet.
-In order to settle a lawsuit by a group of state attorneys general seeking to block the deal over antitrust concerns, Paramount Skydance agreed to release at least 30 films per year into theaters in 2027 and 2028 and at least 32 films annually in 2029, 2030 and 2031. It's unclear how much cost cutting the studios could absorb and still achieve these quotas.
-Over at CBS, Skydance has agreed to prohibit writer layoffs on the broadcast team for at least five years.
-Yet, a report from the Department of Economic Opportunity in Los Angeles suggests that 4,500 film and TV jobs in the county are at risk over a three-year period when the companies combine operations.
-"[Kreiz has] got a big task ahead of him," Handler said. "You know, there's a huge amount of debt, a massive integration situation that he's facing. But I think he'll do a great job with it."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/03/david-ellison-ynon-kreiz-skydance.html",
-    publishedAt: "2026-10-03T11:00:01+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "tesla-s-cybercab-had-a-rocky-first-month-26bb7380",
-    title: "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
-    titleJa: "Tesla’s Cybercab had a rocky first month in Austin. Now comes the hard part: expanding",
-    summaryJa: "Elon Musk's effort to move beyond auto sales largely relies on the success of his company's Cybercab, which launched in Austin a month ago.",
-    bodyOriginal: `In the month since Tesla's Cybercab rollout in Austin, the company has almost quadrupled the number of its driverless, bronze two-seaters authorized for commercial service in Texas. For Elon Musk to achieve his ambitions, growth has to pick up
-The unusual driverless vehicles, with no steering wheel, pedals, rear or sideview mirrors or outside door handles, have received mixed reviews from paying passengers, who shared videos and posts online after the launch on Sept. 3. Criticisms have included lengthy wait times, pickups and drop-offs in the wrong place, and technical difficulties with the vehicles' butterfly doors or trunk closing improperly.
-Improving its driverless technology and rapidly growing the Robotaxi service are key to Tesla's effort to reignite investor enthusiasm. Auto sales have been sluggish for an extended period, and the shares have been a loser on Wall Street this year, down 18%, the only megacap tech stock that's failed to generate positive returns for investors.
-On Friday, Tesla reported better-than-expected vehicle deliveries for the third quarter, lifting the stock almost 5%, but the company still showed a 2% year-over-year drop in deliveries. Tesla's core automotive business has experienced consecutive annual revenue declines, as it faces pressure from Chinese EV makers like BYD and Xiaomi, which are selling more affordable, innovative models while they ramp up exports to key Tesla markets, especially across Europe and Asia.
-Meanwhile, Alphabet's Waymo continues to open in new cities. It's now in 15 U.S. markets, with 15 more on the horizon, according to the company's website. It's also announced planned international launches in London, Tokyo and Munich.
-In Texas, Waymo had 1,154 autonomous vehicles authorized for commercial use as of Friday, including 359 of its new Ojai models, which feature a low step and doors that slide open and shut. Waymo is conducting more than 500,000 paid rides every week and has completed 270 million fully autonomous miles of commercial driving domestically. It currently has over 4,000 driverless vehicles in commercial operations in the U.S.
-Tesla had 45 Cybercabs authorized for commercial use in Texas at the time of its Austin unveiling, a number that rose to 169 as of Friday, according to Texas Department of Motor Vehicles' public records.
-Tesla's hometown of Austin is the only city where it currently has the Cybercab running as part of its driverless ride-hail service. The company's Robotaxi fleet in Texas also includes 420 Model Y vehicles equipped with Tesla automated driving systems, which are not yet available to individual car buyers.
-Austin has emerged as a popular early market for robotaxis due to a combination of relatively lax state regulations and the capital city's vibrant tech community. Amazon's Zoox is also testing in Austin.
-Hurdles to expansion
-Growing beyond Austin is the next challenge for Tesla's Cybercab.
-In addition to technical issues, the company faces some potential regulatory hurdles to expansion. The National Highway Traffic Safety Administration (NHTSA) initiated a so-called audit query after the Cybercab launch to make sure the vehicles comply with federal safety standards.
-NHTSA originally ordered Tesla to respond by Sept. 30 to a long list of safety questions, but the company obtained an extension, an agency spokesperson told CNBC via email.
-Ethan McKanna, an Austin resident and former Tesla intern, told CNBC that he's taken rides in every type of autonomous vehicle available to public riders in the city.
-The 20-year-old McKanna, now a sophomore studying computer science at Texas A&M University, has also created a site called RobotaxiTracker.com, which uses machine learning to analyze data streaming in from traffic cameras and other public records, to show how autonomous services are working in U.S. cities.
-McKanna said he's caught about 30 Cybercab rides and has been taking Waymo rides since they debuted in Austin in 2024. With the Cybercab, McKanna said he likes having his "own space with access to a massive screen, media controls and apps," and he found the drive quality "very smooth."
-The "pick up, drop-off experience," he said, was not yet refined and the butterfly doors that extend out are "less convenient" than more traditional doors, or doors that slide open. It also takes patience, he said.
-"There was so much demand that wait times were often like 45 minutes plus," he said, referring to the period when the Cybercab first rolled out. That's come down with more "equalized demand," in recent weeks, he said.
-"Waymo's been doing commercial operations for longer, so they're just more mature with 24/7 service, better support, things like that," McKanna said, adding that in Waymo's early days in Austin, there were some "harsh braking" issues.
-No significant safety incidents or collisions have been reported in Austin involving a Cybercab since the commercial debut. But first responders have expressed concerns about dealing with the Cybercab's lack of manual driving controls and its unique doors.
-Austin Fire Captain Matt McElearney told CNBC in an interview that while Tesla provided detailed emergency guidelines and gave first responders comprehensive instruction on how to deal with Cybercab and Model Y Robotaxi vehicles in a variety of events, that's not going far enough.
-McElearney said he'd like to see national or state-level regulation of autonomous vehicles requiring robotaxis with no steering wheel or pedals to provide some other way for "public safety representatives to take control — move, steer, or shut down an AV — in both emergent or non-emergent events."
-And since their performance can change with software bugs or updates, AVs should have to "pass testing through the entire lifespan of the product," through a kind of "dynamic certification" process, McElearney added.
-Tesla didn't immediately respond to a request for comment.
-The public also has a broad array of safety concerns.
-According to surveys conducted by Slingshot Strategies in a September 2026 Electric Vehicle Intelligence Report, 50% of U.S. respondents said they would not feel comfortable with the idea of riding in a robotaxi without a steering wheel or pedals. Upon hearing about the NHTSA investigation into Tesla's Cybercab, 70% wanted the company to pause rides, the surveys showed.
-Musk needs that sentiment to change if he's to successfully move Tesla into the driverless era. His next step in trying to become a major player in the market will be expansion across Texas in San Antonio, Dallas and other cities, as well as to Nevada and Florida, where AV companies can take advantage of warm weather and favorable state regulations.
-In January, Musk said at the World Economic Forum in Davos that the company's robotaxis would be "very, very widespread" in the U.S. by the end of 2026. That hasn't happened yet. And in California, where Waymos are a common sight in several cities, Tesla still hasn't obtained permits to run its vehicles on public roads without humans at the wheel.
-After Tesla's deliveries report on Friday, analysts at Cantor emphasized the magnitude of the opportunity.
-"Management previously said that once production ramps, it expects Cybercab to ultimately be the largest volume vehicle in its lineup," they wrote.`,
-    bodyJa: `In the month since Tesla's Cybercab rollout in Austin, the company has almost quadrupled the number of its driverless, bronze two-seaters authorized for commercial service in Texas. For Elon Musk to achieve his ambitions, growth has to pick up
-The unusual driverless vehicles, with no steering wheel, pedals, rear or sideview mirrors or outside door handles, have received mixed reviews from paying passengers, who shared videos and posts online after the launch on Sept. 3. Criticisms have included lengthy wait times, pickups and drop-offs in the wrong place, and technical difficulties with the vehicles' butterfly doors or trunk closing improperly.
-Improving its driverless technology and rapidly growing the Robotaxi service are key to Tesla's effort to reignite investor enthusiasm. Auto sales have been sluggish for an extended period, and the shares have been a loser on Wall Street this year, down 18%, the only megacap tech stock that's failed to generate positive returns for investors.
-On Friday, Tesla reported better-than-expected vehicle deliveries for the third quarter, lifting the stock almost 5%, but the company still showed a 2% year-over-year drop in deliveries. Tesla's core automotive business has experienced consecutive annual revenue declines, as it faces pressure from Chinese EV makers like BYD and Xiaomi, which are selling more affordable, innovative models while they ramp up exports to key Tesla markets, especially across Europe and Asia.
-Meanwhile, Alphabet's Waymo continues to open in new cities. It's now in 15 U.S. markets, with 15 more on the horizon, according to the company's website. It's also announced planned international launches in London, Tokyo and Munich.
-In Texas, Waymo had 1,154 autonomous vehicles authorized for commercial use as of Friday, including 359 of its new Ojai models, which feature a low step and doors that slide open and shut. Waymo is conducting more than 500,000 paid rides every week and has completed 270 million fully autonomous miles of commercial driving domestically. It currently has over 4,000 driverless vehicles in commercial operations in the U.S.
-Tesla had 45 Cybercabs authorized for commercial use in Texas at the time of its Austin unveiling, a number that rose to 169 as of Friday, according to Texas Department of Motor Vehicles' public records.
-Tesla's hometown of Austin is the only city where it currently has the Cybercab running as part of its driverless ride-hail service. The company's Robotaxi fleet in Texas also includes 420 Model Y vehicles equipped with Tesla automated driving systems, which are not yet available to individual car buyers.
-Austin has emerged as a popular early market for robotaxis due to a combination of relatively lax state regulations and the capital city's vibrant tech community. Amazon's Zoox is also testing in Austin.
-Hurdles to expansion
-Growing beyond Austin is the next challenge for Tesla's Cybercab.
-In addition to technical issues, the company faces some potential regulatory hurdles to expansion. The National Highway Traffic Safety Administration (NHTSA) initiated a so-called audit query after the Cybercab launch to make sure the vehicles comply with federal safety standards.
-NHTSA originally ordered Tesla to respond by Sept. 30 to a long list of safety questions, but the company obtained an extension, an agency spokesperson told CNBC via email.
-Ethan McKanna, an Austin resident and former Tesla intern, told CNBC that he's taken rides in every type of autonomous vehicle available to public riders in the city.
-The 20-year-old McKanna, now a sophomore studying computer science at Texas A&M University, has also created a site called RobotaxiTracker.com, which uses machine learning to analyze data streaming in from traffic cameras and other public records, to show how autonomous services are working in U.S. cities.
-McKanna said he's caught about 30 Cybercab rides and has been taking Waymo rides since they debuted in Austin in 2024. With the Cybercab, McKanna said he likes having his "own space with access to a massive screen, media controls and apps," and he found the drive quality "very smooth."
-The "pick up, drop-off experience," he said, was not yet refined and the butterfly doors that extend out are "less convenient" than more traditional doors, or doors that slide open. It also takes patience, he said.
-"There was so much demand that wait times were often like 45 minutes plus," he said, referring to the period when the Cybercab first rolled out. That's come down with more "equalized demand," in recent weeks, he said.
-"Waymo's been doing commercial operations for longer, so they're just more mature with 24/7 service, better support, things like that," McKanna said, adding that in Waymo's early days in Austin, there were some "harsh braking" issues.
-No significant safety incidents or collisions have been reported in Austin involving a Cybercab since the commercial debut. But first responders have expressed concerns about dealing with the Cybercab's lack of manual driving controls and its unique doors.
-Austin Fire Captain Matt McElearney told CNBC in an interview that while Tesla provided detailed emergency guidelines and gave first responders comprehensive instruction on how to deal with Cybercab and Model Y Robotaxi vehicles in a variety of events, that's not going far enough.
-McElearney said he'd like to see national or state-level regulation of autonomous vehicles requiring robotaxis with no steering wheel or pedals to provide some other way for "public safety representatives to take control — move, steer, or shut down an AV — in both emergent or non-emergent events."
-And since their performance can change with software bugs or updates, AVs should have to "pass testing through the entire lifespan of the product," through a kind of "dynamic certification" process, McElearney added.
-Tesla didn't immediately respond to a request for comment.
-The public also has a broad array of safety concerns.
-According to surveys conducted by Slingshot Strategies in a September 2026 Electric Vehicle Intelligence Report, 50% of U.S. respondents said they would not feel comfortable with the idea of riding in a robotaxi without a steering wheel or pedals. Upon hearing about the NHTSA investigation into Tesla's Cybercab, 70% wanted the company to pause rides, the surveys showed.
-Musk needs that sentiment to change if he's to successfully move Tesla into the driverless era. His next step in trying to become a major player in the market will be expansion across Texas in San Antonio, Dallas and other cities, as well as to Nevada and Florida, where AV companies can take advantage of warm weather and favorable state regulations.
-In January, Musk said at the World Economic Forum in Davos that the company's robotaxis would be "very, very widespread" in the U.S. by the end of 2026. That hasn't happened yet. And in California, where Waymos are a common sight in several cities, Tesla still hasn't obtained permits to run its vehicles on public roads without humans at the wheel.
-After Tesla's deliveries report on Friday, analysts at Cantor emphasized the magnitude of the opportunity.
-"Management previously said that once production ramps, it expects Cybercab to ultimately be the largest volume vehicle in its lineup," they wrote.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
-    publishedAt: "2026-10-03T11:00:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "these-companies-look-set-to-face-high-pr-f4316c6c",
-    title: "These companies look set to face high-profile hearings and other scrutiny if Democrats win the House",
-    titleJa: "These companies look set to face high-profile hearings and other scrutiny if Democrats win the House",
-    summaryJa: "Law and lobbying firms in Washington, D.C., are telling companies to prepare for a new level of scrutiny, since most modern midterm elections result in some loss of congressional control for the party that holds the White House.",
-    bodyOriginal: `Law and lobbying firms in Washington, D.C., are telling companies to prepare for a new level of scrutiny, since most modern midterm elections result in some loss of congressional control for the party that holds the White House.`,
-    bodyJa: `Law and lobbying firms in Washington, D.C., are telling companies to prepare for a new level of scrutiny, since most modern midterm elections result in some loss of congressional control for the party that holds the White House.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/these-companies-look-set-to-face-high-profile-hearings-and-other-scrutiny-if-democrats-win-the-house-513fe8e7?mod=mw_rss_topstories",
-    publishedAt: "2026-10-03T11:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-27463388",
-    readTime: 2,
-  },
-  {
-    id: "suppliers-pile-pressure-on-government-ov-9ed03d4a",
-    title: "Suppliers pile pressure on government over energy bills",
-    titleJa: "Suppliers pile pressure on government over energy bills",
-    summaryJa: "Immediate action is needed to help households struggling with bills this winter, says trade body Energy UK.",
-    bodyOriginal: `Suppliers pile pressure on government over energy bills
-- Published
-The government should take immediate action to help those struggling with energy bills this winter, the suppliers' trade body has said.
-Energy UK said domestic gas prices, which rose on Thursday, and forecasts of steep rises in January meant inaction would lead to a longer-term, more costly and deeper crisis.
-Figures revealed by the BBC earlier this week showed forecasters predicting a 16% rise in domestic energy prices in the new year for 20 million households on variable tariffs affected by regulator Ofgem's price cap.
-Prime Minister Andy Burnham said the government was considering any measure that took the pressure off.
-Households in England, Scotland and Wales on variable energy tariffs set by Ofgem's price cap, which puts a maximum price on each unit of gas and electricity, were hit with a 4% price increase at the start of October.
-That is the equivalent of about £60 per year - or £5 per month - taking an annual bill to £1,723 for the typical household using both electricity and gas and paying by direct debit if this level was sustained for a year.
-But forecasts show a far greater increase is possible for bills in January. Consultancy Cornwall Insight said its latest forecast suggested the same typical annual bill would rise to £1,999.
-Energy UK said it accepted the government had already provided some support. VAT on electricity bills was cut on Thursday, and some levies were cancelled or shifted into taxation earlier this year.
-But the trade body said these savings had been wiped out by high wholesale prices, paid by suppliers, that were the result in part of international events - namely conflict in the Middle East and the disruption to shipping through the Strait of Hormuz.
-It said bills were soaring as they had in 2022 when they were driven up by the impact of Russia's invasion of Ukraine.
-"We cannot afford to wait for the same scale of crisis before acting again. We must heed the lessons from that time," said Dhara Vyas, chief executive of Energy UK.
-She said that the urgent intervention needed was highlighted by growing levels of customer debt, the cost of which now added an average of £67 a year to everyone's bills.
-Household energy bills forecast to see biggest rise in four years
-- Published2 days ago
-Energy bills are rising by £60 a year - here's how you can bring that down
-- Published2 days ago
-On Thursday, the boss of supplier EDF Energy, Simone Rossi, warned that the UK was "walking into a second energy crisis" and Vyas said that action was needed before bills jumped again.
-"Last-minute emergency interventions run the risk of being badly targeted and costing us all more," she said.
-Energy UK is calling for government measures including:
-targeted support over and above the £150 Warm Home Discount, given to people on benefits, which would eventually lead to the introduction of a discounted social tariff
-a debt relief scheme for the most severely affected households as part of a strategy that will also help prevent debt build-up among new tenants and homeowners
-removing more levies from electricity bills and shifting them to taxation, as part of a wider move to electrification
-Adam Scorer, chief executive of charity National Energy, which campaigns against fuel poverty, told BBC Breakfast he agreed with what Energy UK's analysis.
-"[The increase in debt is] not more people getting into debt, that's more poor people getting into more serious levels of debt."
-He added: "Until you do something about that, there's no way forward, there's no breathing space, there's no future for households who can't see their way beyond debt."
-At the Labour Party conference last week, Prime Minister Andy Burnham told the BBC that he would not call Rossi's crisis warning an overstatement, adding that the cost of home energy, as well as petrol and diesel, was "very difficult indeed".
-"We're looking at any measure that can give people breathing space, that can take the pressure off," he said.
-Get in touch
-How will you be affected by the price cap rise? Do you have a story to share?`,
-    bodyJa: `Suppliers pile pressure on government over energy bills
-- Published
-The government should take immediate action to help those struggling with energy bills this winter, the suppliers' trade body has said.
-Energy UK said domestic gas prices, which rose on Thursday, and forecasts of steep rises in January meant inaction would lead to a longer-term, more costly and deeper crisis.
-Figures revealed by the BBC earlier this week showed forecasters predicting a 16% rise in domestic energy prices in the new year for 20 million households on variable tariffs affected by regulator Ofgem's price cap.
-Prime Minister Andy Burnham said the government was considering any measure that took the pressure off.
-Households in England, Scotland and Wales on variable energy tariffs set by Ofgem's price cap, which puts a maximum price on each unit of gas and electricity, were hit with a 4% price increase at the start of October.
-That is the equivalent of about £60 per year - or £5 per month - taking an annual bill to £1,723 for the typical household using both electricity and gas and paying by direct debit if this level was sustained for a year.
-But forecasts show a far greater increase is possible for bills in January. Consultancy Cornwall Insight said its latest forecast suggested the same typical annual bill would rise to £1,999.
-Energy UK said it accepted the government had already provided some support. VAT on electricity bills was cut on Thursday, and some levies were cancelled or shifted into taxation earlier this year.
-But the trade body said these savings had been wiped out by high wholesale prices, paid by suppliers, that were the result in part of international events - namely conflict in the Middle East and the disruption to shipping through the Strait of Hormuz.
-It said bills were soaring as they had in 2022 when they were driven up by the impact of Russia's invasion of Ukraine.
-"We cannot afford to wait for the same scale of crisis before acting again. We must heed the lessons from that time," said Dhara Vyas, chief executive of Energy UK.
-She said that the urgent intervention needed was highlighted by growing levels of customer debt, the cost of which now added an average of £67 a year to everyone's bills.
-Household energy bills forecast to see biggest rise in four years
-- Published2 days ago
-Energy bills are rising by £60 a year - here's how you can bring that down
-- Published2 days ago
-On Thursday, the boss of supplier EDF Energy, Simone Rossi, warned that the UK was "walking into a second energy crisis" and Vyas said that action was needed before bills jumped again.
-"Last-minute emergency interventions run the risk of being badly targeted and costing us all more," she said.
-Energy UK is calling for government measures including:
-targeted support over and above the £150 Warm Home Discount, given to people on benefits, which would eventually lead to the introduction of a discounted social tariff
-a debt relief scheme for the most severely affected households as part of a strategy that will also help prevent debt build-up among new tenants and homeowners
-removing more levies from electricity bills and shifting them to taxation, as part of a wider move to electrification
-Adam Scorer, chief executive of charity National Energy, which campaigns against fuel poverty, told BBC Breakfast he agreed with what Energy UK's analysis.
-"[The increase in debt is] not more people getting into debt, that's more poor people getting into more serious levels of debt."
-He added: "Until you do something about that, there's no way forward, there's no breathing space, there's no future for households who can't see their way beyond debt."
-At the Labour Party conference last week, Prime Minister Andy Burnham told the BBC that he would not call Rossi's crisis warning an overstatement, adding that the cost of home energy, as well as petrol and diesel, was "very difficult indeed".
-"We're looking at any measure that can give people breathing space, that can take the pressure off," he said.
-Get in touch
-How will you be affected by the price cap rise? Do you have a story to share?`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cq0ld88kzxw8o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-03T08:58:44+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/767f/live/4c61a230-be64-11f1-b36c-81ad410b221e.jpg",
-    readTime: 10,
-  },
-  {
-    id: "top-mckinsey-executive-reveals-asian-own-ca3c2fa9",
-    title: "Top McKinsey executive reveals Asian owner-CEOs' secrets to success",
-    titleJa: "Top McKinsey executive reveals Asian owner-CEOs' secrets to success",
-    summaryJa: "Gautam Kumra, Asia chairman at consultancy McKinsey & Co., researched the qualities of Asia's best owner-CEOs.",
-    bodyOriginal: `What distinguishes truly great and effective leaders from everyone else?
-Gautam Kumra, Asia chairman at consultancy McKinsey & Co., talked to CNBC in an interview about what sets the top executives apart from the crowd, helping filter out the key factors that determine successful leadership.
-The ability to deal with contradicting thoughts: to think both long-term and short-term, to go big-picture but also look at things under a microscope, is one of the top characteristics of an effective leader, said Kumra, the lead author of the book "Shapers and Founders: The Untold Stories of Asia's Extraordinary Owner-CEOs," published last month.
-The skill of getting "extraordinary performance out of ordinary people" and a mission-oriented approach are other characteristics of the most successful people, Kumra said.
-The most effective owner-CEOs have been responsible for a significant portion of value creation in Asia, which made them worth singling out for further study, according to Kumra, who interviewed about 30 such top executives in Asia for the book, from India's Mukesh Ambani and Falguni Nayar to Thailand's Sarath Ratanavadi.
-"Owner CEOs, as a category, as compared to professional CEOs, as compared to state-owned enterprises, are the ones that are creating the most value and the best performance," he said. "Their return to shareholders is the highest. Their return on invested capital is the highest. They've collectively, as a category, created a lion's share of the value."
-He relayed how Anand Mahindra, chairman of the Mahindra Group, said he made an executive assistant the head of the company's South African business.
-Mahindra thought the person had the character – "not some bookish knowledge or not somebody who, on paper, sounded very good – but somebody who had been through such life experiences" that gave him confidence, Kumra said. "So he took a risk on him."
-Stretch opportunities
-These CEOs offer "stretch opportunities, build new businesses, take risks on people," Kumra said, noting that McKinsey has a similar approach.
-"We are actually giving a series of stretch opportunities to our people, so that they are constantly at the learning edge. That's one," he said. "Second is, we really reward self-propelled initiative taking. So it's not about just me telling you what to do. What can you do that will surprise me?"
-One of the hardest things with the owner-CEO is a transition to the next leader, Kumra said. In the move from a founder to a professional, typically five years after the transition happened, companies have done poorly on average, he added.
-It's "very difficult for them to delegate and let go. They are still too involved, even when they know their time is running out," he said. Also, they can lose relevance if they get out of touch with market realities, and may not set up clear mandates when they hire successors.
-Also, it can be hard for professionals to come in and learn how to run the company "because they have run it in a very idiosyncratic way that suited them," Kumra said. "But it hasn't been yet institutionalized in a way that someone from the outside can come in and take the reins."`,
-    bodyJa: `What distinguishes truly great and effective leaders from everyone else?
-Gautam Kumra, Asia chairman at consultancy McKinsey & Co., talked to CNBC in an interview about what sets the top executives apart from the crowd, helping filter out the key factors that determine successful leadership.
-The ability to deal with contradicting thoughts: to think both long-term and short-term, to go big-picture but also look at things under a microscope, is one of the top characteristics of an effective leader, said Kumra, the lead author of the book "Shapers and Founders: The Untold Stories of Asia's Extraordinary Owner-CEOs," published last month.
-The skill of getting "extraordinary performance out of ordinary people" and a mission-oriented approach are other characteristics of the most successful people, Kumra said.
-The most effective owner-CEOs have been responsible for a significant portion of value creation in Asia, which made them worth singling out for further study, according to Kumra, who interviewed about 30 such top executives in Asia for the book, from India's Mukesh Ambani and Falguni Nayar to Thailand's Sarath Ratanavadi.
-"Owner CEOs, as a category, as compared to professional CEOs, as compared to state-owned enterprises, are the ones that are creating the most value and the best performance," he said. "Their return to shareholders is the highest. Their return on invested capital is the highest. They've collectively, as a category, created a lion's share of the value."
-He relayed how Anand Mahindra, chairman of the Mahindra Group, said he made an executive assistant the head of the company's South African business.
-Mahindra thought the person had the character – "not some bookish knowledge or not somebody who, on paper, sounded very good – but somebody who had been through such life experiences" that gave him confidence, Kumra said. "So he took a risk on him."
-Stretch opportunities
-These CEOs offer "stretch opportunities, build new businesses, take risks on people," Kumra said, noting that McKinsey has a similar approach.
-"We are actually giving a series of stretch opportunities to our people, so that they are constantly at the learning edge. That's one," he said. "Second is, we really reward self-propelled initiative taking. So it's not about just me telling you what to do. What can you do that will surprise me?"
-One of the hardest things with the owner-CEO is a transition to the next leader, Kumra said. In the move from a founder to a professional, typically five years after the transition happened, companies have done poorly on average, he added.
-It's "very difficult for them to delegate and let go. They are still too involved, even when they know their time is running out," he said. Also, they can lose relevance if they get out of touch with market realities, and may not set up clear mandates when they hire successors.
-Also, it can be hard for professionals to come in and learn how to run the company "because they have run it in a very idiosyncratic way that suited them," Kumra said. "But it hasn't been yet institutionalized in a way that someone from the outside can come in and take the reins."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/03/mckinsey-asian-leaders-success-ambani-mahindra.html",
-    publishedAt: "2026-10-03T06:00:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 8,
-  },
-  {
-    id: "america-s-data-center-fight-is-a-preview-b3abcef4",
-    title: "America’s data center fight is a preview of what's to come for the rest of the world",
-    titleJa: "America’s data center fight is a preview of what's to come for the rest of the world",
-    summaryJa: "America’s fight over data centers is going global. Communities across Europe and Asia  are pushing back over the rising costs of the AI infrastructure boom.",
-    bodyOriginal: `As the AI boom becomes a major part of political debate, the public backlash against data centers in the U.S. is spreading to Europe and Asia — raising risks for investors.
-Across the Atlantic, negative sentiment is growing in Europe, which has more at stake due to its densely populated countries and higher electricity prices, experts told CNBC.
-Similar tensions are emerging in South Korea, with growing opposition to data centers near residential areas and proposals for tighter local restrictions, even as the national government pushes to accelerate development.
-Public opposition has already impacted around $42 billion of data center investments in Europe, in account delays and cancellations, according to research from STL Partners. That compares to around $77 billion in the U.S.
-The pushback could be the "straw that breaks the camel's back," Olivier Darmouni, associate professor at HEC Paris who specializes in the energy transition, told CNBC.
-Data center opposition is growing in Europe
-More than 70 data center projects in Europe were rejected or restricted between January and April — more than in all of 2025, according to the European Data Center Monitor. It found that pushback had snowballed from local town halls to courts, regulators and parliaments.
-Scotland has paused planning approvals for new hyperscale data centers after campaigners called on the government to avoid the "cautionary tale" of Ireland, where overwhelming power demand led to a moratorium.
-Constraints have been rising in the Nordics, where investors were drawn to large tracts of land and renewable energy. After a surge in power applications, Denmark passed an emergency law that could see data centers at the back of the queue for grid power applications.
-Spain also proposed new data center rules this summer, requiring data centers to source 80% of their electricity from renewables. Projects in the U.K. have stalled after pushback from locals.
-Much of the concern centers around water usage, power consumption, electricity prices, and the sheer amount of space that some centers require. There is also little agreement on how many permanent jobs the sector creates, and no precedent for projecting a center's economic value per megawatt.
-"The gains of AI are very diffused," Darmouni told CNBC.
-"There's definitely been more understanding of the scale of the potential AI build-out and its geographical spread, and perhaps ... more information about how much bigger these are, and that they're a little bit more like giant ghost warehouses that consume a lot of resources and can hurt local communities in some ways."
-Europe's denser population, and the fact that many data center operators are U.S. companies, might mean that the backlash hits harder, the professor added.
-What's happening in Asia
-South Korea, home to tech giants Samsung Electronics and SK Hynix, sits at the heart of the AI supply chain. In June, its government named AI data centers as one of three major investment projects, alongside semiconductors and physical AI.
-But its push to build the infrastructure needed is running into resistance at the local level.
-In the Geumcheon district of southwestern Seoul, residents have called for authorities to revoke the building permit and halt construction of a data center near their homes, according to the local government.
-In July, officials announced plans to require consent from a majority of residents living within 200 meters of proposed data center sites and to introduce a three-stage system for reviewing projects and mediating disputes.
-Residents have also gathered outside the local government office on weekday mornings for months to protest against the project. The demonstrations had continued for 172 days as of mid-August, according to local media.
-In Gwacheon, a city just south of Seoul, a local council member proposed an ordinance aimed at protecting nearby residents from risks associated with data centers operating around the clock, including potential fires involving backup batteries.
-Should investors be worried about the backlash?
-Despite the pusback, the AI boom shows little sign of slowing down.
-But a community's ability "to derail a $10 billion [data center] plan is quite powerful," said Asya Walters, managing director at Alvarez & Marsal.
-She told CNBC the business-friendly environment in the U.S. has historically made it easier to overcome pushback.
-But in Europe and Asia, there's some "hot and coldness" at the country level about where demand is going, Walters said. The "push and pull" between favorable conditions for data centers and more restrictive regulation can be challenging for investment.
-Public backlash can also end up raising costs for operators, because even if they pull out of a project before construction starts, money will likely have already been spent.
-Though most capex expenditure happens after the permits are in place, operators spend a lot to reach that point, "so there is some loss that could happen there if they never get the permits," Walters said.
-We used to be a completely unknown part of the economy. We were just a black box. Now we are one of the fundamental layers driving the economy.Dominic WardVerne CEO
-"Digital infrastructure is becoming more visible and it's understandable that communities want to understand what's being built near them, why it's needed and how local impacts are being managed," said Eulalia Flo, vice president of growth and emerging markets, EMEA at Equinix, one of the biggest data center operators in Europe.
-"We don't see this as a structural constraint on growth, but the policy environment is genuinely tightening in some markets," said Flo.
-But the AI buildout has meant "a misunderstanding of the industry in a very broad sense," according to Dominic Ward, CEO of data center operator Verne.
-"We used to be a completely unknown part of the economy," Ward told CNBC. "We were just a black box. We were just a building that had stuff that went in that nobody understood. Now we are one of the fundamental layers driving the economy."
-He added: "Now everybody knows where they are, so there's kind of no hiding behind this."`,
-    bodyJa: `As the AI boom becomes a major part of political debate, the public backlash against data centers in the U.S. is spreading to Europe and Asia — raising risks for investors.
-Across the Atlantic, negative sentiment is growing in Europe, which has more at stake due to its densely populated countries and higher electricity prices, experts told CNBC.
-Similar tensions are emerging in South Korea, with growing opposition to data centers near residential areas and proposals for tighter local restrictions, even as the national government pushes to accelerate development.
-Public opposition has already impacted around $42 billion of data center investments in Europe, in account delays and cancellations, according to research from STL Partners. That compares to around $77 billion in the U.S.
-The pushback could be the "straw that breaks the camel's back," Olivier Darmouni, associate professor at HEC Paris who specializes in the energy transition, told CNBC.
-Data center opposition is growing in Europe
-More than 70 data center projects in Europe were rejected or restricted between January and April — more than in all of 2025, according to the European Data Center Monitor. It found that pushback had snowballed from local town halls to courts, regulators and parliaments.
-Scotland has paused planning approvals for new hyperscale data centers after campaigners called on the government to avoid the "cautionary tale" of Ireland, where overwhelming power demand led to a moratorium.
-Constraints have been rising in the Nordics, where investors were drawn to large tracts of land and renewable energy. After a surge in power applications, Denmark passed an emergency law that could see data centers at the back of the queue for grid power applications.
-Spain also proposed new data center rules this summer, requiring data centers to source 80% of their electricity from renewables. Projects in the U.K. have stalled after pushback from locals.
-Much of the concern centers around water usage, power consumption, electricity prices, and the sheer amount of space that some centers require. There is also little agreement on how many permanent jobs the sector creates, and no precedent for projecting a center's economic value per megawatt.
-"The gains of AI are very diffused," Darmouni told CNBC.
-"There's definitely been more understanding of the scale of the potential AI build-out and its geographical spread, and perhaps ... more information about how much bigger these are, and that they're a little bit more like giant ghost warehouses that consume a lot of resources and can hurt local communities in some ways."
-Europe's denser population, and the fact that many data center operators are U.S. companies, might mean that the backlash hits harder, the professor added.
-What's happening in Asia
-South Korea, home to tech giants Samsung Electronics and SK Hynix, sits at the heart of the AI supply chain. In June, its government named AI data centers as one of three major investment projects, alongside semiconductors and physical AI.
-But its push to build the infrastructure needed is running into resistance at the local level.
-In the Geumcheon district of southwestern Seoul, residents have called for authorities to revoke the building permit and halt construction of a data center near their homes, according to the local government.
-In July, officials announced plans to require consent from a majority of residents living within 200 meters of proposed data center sites and to introduce a three-stage system for reviewing projects and mediating disputes.
-Residents have also gathered outside the local government office on weekday mornings for months to protest against the project. The demonstrations had continued for 172 days as of mid-August, according to local media.
-In Gwacheon, a city just south of Seoul, a local council member proposed an ordinance aimed at protecting nearby residents from risks associated with data centers operating around the clock, including potential fires involving backup batteries.
-Should investors be worried about the backlash?
-Despite the pusback, the AI boom shows little sign of slowing down.
-But a community's ability "to derail a $10 billion [data center] plan is quite powerful," said Asya Walters, managing director at Alvarez & Marsal.
-She told CNBC the business-friendly environment in the U.S. has historically made it easier to overcome pushback.
-But in Europe and Asia, there's some "hot and coldness" at the country level about where demand is going, Walters said. The "push and pull" between favorable conditions for data centers and more restrictive regulation can be challenging for investment.
-Public backlash can also end up raising costs for operators, because even if they pull out of a project before construction starts, money will likely have already been spent.
-Though most capex expenditure happens after the permits are in place, operators spend a lot to reach that point, "so there is some loss that could happen there if they never get the permits," Walters said.
-We used to be a completely unknown part of the economy. We were just a black box. Now we are one of the fundamental layers driving the economy.Dominic WardVerne CEO
-"Digital infrastructure is becoming more visible and it's understandable that communities want to understand what's being built near them, why it's needed and how local impacts are being managed," said Eulalia Flo, vice president of growth and emerging markets, EMEA at Equinix, one of the biggest data center operators in Europe.
-"We don't see this as a structural constraint on growth, but the policy environment is genuinely tightening in some markets," said Flo.
-But the AI buildout has meant "a misunderstanding of the industry in a very broad sense," according to Dominic Ward, CEO of data center operator Verne.
-"We used to be a completely unknown part of the economy," Ward told CNBC. "We were just a black box. We were just a building that had stuff that went in that nobody understood. Now we are one of the fundamental layers driving the economy."
-He added: "Now everybody knows where they are, so there's kind of no hiding behind this."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
-    publishedAt: "2026-10-03T05:00:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "g7-to-release-millions-of-barrels-of-oil-0a8fe71e",
-    title: "G7 to release millions of barrels of oil and diesel after Trump threat",
-    titleJa: "G7 to release millions of barrels of oil and diesel after Trump threat",
-    summaryJa: "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-    bodyOriginal: `G7 to release millions of barrels of oil and diesel after Trump threat
-- Published
-The G7 has announced 100 million barrels of oil and diesel will be released to ease supply concerns that have caused prices to skyrocket.
-It includes a "substantial release" of diesel within 20 days, with discussions around "additional diesel releases as necessary", G7 leaders said in a statement.
-The group of advanced economies, including the US, said the move would begin immediately and would last for four months.
-Under the measures, which come after US President Donald Trump had threatened to ban diesel exports, there will not be any "export restrictions on energy and energy products" between G7 members.
-The G7 includes the US, UK, Canada, Japan, Germany, Italy and France, with the EU also represented at its meetings.
-Donald Trump had warned he would ban diesel exports from the US if European countries did not agree to put more of their own stocks onto the market. That would have eased pressure on prices for US consumers ahead of November's midterm elections, but pushed up prices elsewhere.
-On Friday, he said on social media: "Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil. The process will begin immediately."
-His Treasury Secretary Scott Bessent had argued US farmers, truckers, and businesses "should not be left carrying the burden" as prices soar.
-Speaking later at the White House, Trump said an export ban on diesel was "never really on the table".
-Referring to the decision by the G7 to release fuel from reserves, he added that "what Europe did was a great thing."
-"Europe has a lot of diesel and they're going to be making a major world contribution - and so are we," he said.
-"And we're not going to be doing the export ban, we're going to be doing what we're supposed to do."
-Trump had first said he backed a diesel export ban early last week, and was still considering it on Thursday, as his administration put pressure on Europe to tap its supplies.
-Diesel is used heavily by the haulage industry and in agriculture, meaning rises in the cost of the fuel feed through into essentials such as food.
-Following a meeting of G7 leaders, French President Emmanuel Macron said the bloc had agreed to release reserves of "up to 100 million barrels" within four months under the co-ordination of the International Energy Agency (IEA).
-The UK was represented at the meeting by Foreign Secretary Ed Miliband, who said the measures would "stabilise energy supplies, build resilience in supply chains and shield households and businesses from price shocks".
-Macron said the co-ordinated action would "bring down the prices of petroleum products, particularly diesel". Highlighting the agreement not to pursue export bans, Macron said "President Trump, in particular, was very clear on this point".
-In the joint statement, G7 leaders said: "We will implement our commitments with a co-ordinated release through the IEA of 100 million barrels to begin immediately over four months, including a frontloaded substantial diesel release within the first 20 days by G7 members and partners."
-It is not yet clear which partner countries will release stocks, nor how quickly.
-The 100 million barrels will comprise a mix of diesel and crude oil. The price of global benchmark Brent crude oil briefly dropped below $100 a barrel, but rose back to around $102 by Friday evening. Before the US and Israel invaded Iran, it was trading at around $73.
-Matt Smith, director of commodities research at Kpler, said oil had risen again due to renewed strikes between Saudi Arabia and the Houthis in Yemen.
-"Oil prices were selling off strongly due to the announcement of strategic stock releases in Europe, but they reversed course on rumours of Saudi Arabia planning an offensive into Yemen as it looks to re-establish a safe path via Bab-Al Mandeb," he said.
-European countries had pushed back against US threats to turn off American diesel, against a backdrop of the US-led war in the Middle East and reduced supplies from Russia and China.
-The G7 leaders said they will also co-ordinate maintenance schedules to avoid multiple refineries being shut down at the same time, while encouraging countries with the capacity to do so to ramp up refining of diesel in particular.
-Avoiding a ban on US diesel exports will offer significant relief to countries which are reliant on imports of the fuel, including the UK, where prices at the pump topped £2 a litre for the first time on Friday.
-Over half of the UK's diesel is imported, with 31% of those imports coming from the US.
-The US is one of the world's leading diesel suppliers, with domestic refineries churning out roughly four to five million barrels every day, according to the US Energy Information Administration (EIA).
-Americans consume about 3.6 million barrels of that. Refiners export the remaining 1.2 to 1.5 million barrels per day, making the US a vital supplier to the global market.
-Why UK diesel prices have breached the £2 per litre mark
-- Published2 days ago
-Supplies of diesel internationally have been heavily constrained by the conflict in the Middle East, which has restricted the flow of both crude oil and refined diesel onto global markets.
-Russia, which is also a major producer, has implemented its own export ban on diesel, following attacks on its refineries by Ukraine, further limiting supply. The G7 leaders stressed that they will maintain sanctions against Russia amid its ongoing war in Ukraine.
-Diesel is harder to refine than petrol and, because of its use in the haulage industry and agriculture, it is very difficult to reduce demand.`,
-    bodyJa: `G7 to release millions of barrels of oil and diesel after Trump threat
-- Published
-The G7 has announced 100 million barrels of oil and diesel will be released to ease supply concerns that have caused prices to skyrocket.
-It includes a "substantial release" of diesel within 20 days, with discussions around "additional diesel releases as necessary", G7 leaders said in a statement.
-The group of advanced economies, including the US, said the move would begin immediately and would last for four months.
-Under the measures, which come after US President Donald Trump had threatened to ban diesel exports, there will not be any "export restrictions on energy and energy products" between G7 members.
-The G7 includes the US, UK, Canada, Japan, Germany, Italy and France, with the EU also represented at its meetings.
-Donald Trump had warned he would ban diesel exports from the US if European countries did not agree to put more of their own stocks onto the market. That would have eased pressure on prices for US consumers ahead of November's midterm elections, but pushed up prices elsewhere.
-On Friday, he said on social media: "Europe has just agreed to release a massive amount of their heavily stocked Diesel Oil. The process will begin immediately."
-His Treasury Secretary Scott Bessent had argued US farmers, truckers, and businesses "should not be left carrying the burden" as prices soar.
-Speaking later at the White House, Trump said an export ban on diesel was "never really on the table".
-Referring to the decision by the G7 to release fuel from reserves, he added that "what Europe did was a great thing."
-"Europe has a lot of diesel and they're going to be making a major world contribution - and so are we," he said.
-"And we're not going to be doing the export ban, we're going to be doing what we're supposed to do."
-Trump had first said he backed a diesel export ban early last week, and was still considering it on Thursday, as his administration put pressure on Europe to tap its supplies.
-Diesel is used heavily by the haulage industry and in agriculture, meaning rises in the cost of the fuel feed through into essentials such as food.
-Following a meeting of G7 leaders, French President Emmanuel Macron said the bloc had agreed to release reserves of "up to 100 million barrels" within four months under the co-ordination of the International Energy Agency (IEA).
-The UK was represented at the meeting by Foreign Secretary Ed Miliband, who said the measures would "stabilise energy supplies, build resilience in supply chains and shield households and businesses from price shocks".
-Macron said the co-ordinated action would "bring down the prices of petroleum products, particularly diesel". Highlighting the agreement not to pursue export bans, Macron said "President Trump, in particular, was very clear on this point".
-In the joint statement, G7 leaders said: "We will implement our commitments with a co-ordinated release through the IEA of 100 million barrels to begin immediately over four months, including a frontloaded substantial diesel release within the first 20 days by G7 members and partners."
-It is not yet clear which partner countries will release stocks, nor how quickly.
-The 100 million barrels will comprise a mix of diesel and crude oil. The price of global benchmark Brent crude oil briefly dropped below $100 a barrel, but rose back to around $102 by Friday evening. Before the US and Israel invaded Iran, it was trading at around $73.
-Matt Smith, director of commodities research at Kpler, said oil had risen again due to renewed strikes between Saudi Arabia and the Houthis in Yemen.
-"Oil prices were selling off strongly due to the announcement of strategic stock releases in Europe, but they reversed course on rumours of Saudi Arabia planning an offensive into Yemen as it looks to re-establish a safe path via Bab-Al Mandeb," he said.
-European countries had pushed back against US threats to turn off American diesel, against a backdrop of the US-led war in the Middle East and reduced supplies from Russia and China.
-The G7 leaders said they will also co-ordinate maintenance schedules to avoid multiple refineries being shut down at the same time, while encouraging countries with the capacity to do so to ramp up refining of diesel in particular.
-Avoiding a ban on US diesel exports will offer significant relief to countries which are reliant on imports of the fuel, including the UK, where prices at the pump topped £2 a litre for the first time on Friday.
-Over half of the UK's diesel is imported, with 31% of those imports coming from the US.
-The US is one of the world's leading diesel suppliers, with domestic refineries churning out roughly four to five million barrels every day, according to the US Energy Information Administration (EIA).
-Americans consume about 3.6 million barrels of that. Refiners export the remaining 1.2 to 1.5 million barrels per day, making the US a vital supplier to the global market.
-Why UK diesel prices have breached the £2 per litre mark
-- Published2 days ago
-Supplies of diesel internationally have been heavily constrained by the conflict in the Middle East, which has restricted the flow of both crude oil and refined diesel onto global markets.
-Russia, which is also a major producer, has implemented its own export ban on diesel, following attacks on its refineries by Ukraine, further limiting supply. The G7 leaders stressed that they will maintain sanctions against Russia amid its ongoing war in Ukraine.
-Diesel is harder to refine than petrol and, because of its use in the haulage industry and agriculture, it is very difficult to reduce demand.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-03T04:38:31+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44c3/live/c89e9510-beff-11f1-babe-4199b0e7ccea.jpg",
     readTime: 10,
   },
 ];
