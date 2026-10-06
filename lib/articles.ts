@@ -15,6 +15,236 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "openai-admits-response-to-australian-gov-f216c602",
+    title: "OpenAI admits response to Australian government hacks 'not good enough'",
+    titleJa: "OpenAI admits response to Australian government hacks 'not good enough'",
+    summaryJa: "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
+    bodyOriginal: `OpenAI admits response to Australian government hacks 'not good enough'
+- Published
+OpenAI has admitted its actions were "not good enough" after one of its rogue agents breached Australian government websites in June and said it had added more precautions to its training environments.
+The company's chief strategy officer Jason Kwon faced a parliamentary hearing into AI on Tuesday in Sydney, saying the breach "should not have happened" and it "should have handled our response better". It took weeks before Australia was notified via an email to a generic inbox.
+"We are sorry and we know we have work to do to rebuild trust with the Australian people," Kwon said.
+Anthropic also appeared and said it had not found any cases of Australian breaches during a recent investigation.
+An OpenAI agent went "rogue" and "infiltrated" a private statistics portal containing "non-sensitive" data from Australia's universal healthcare scheme Medicare in June in what cyber-security experts said was the first hack of its kind.
+Asked why OpenAI had not directly contacted government ministers immediately after it found out about the breaches, Kwon acknowledged it was a mistake.
+"In retrospect, we should have done what you're suggesting," Kwon said, in response to a question by the committee on why it had not dialled the mobile numbers of government ministers.
+"The reason why it happened the way that it did is I think people were thinking about this as a technical situation and they wanted to contact the technical counterparties but it's not good enough."
+Kwon said the company has changed how it handles such incidents.
+"Even if we don't fully understand the situation, we are just going to notify and start working through the situation collaboratively with the impacted party."
+OpenAI has also added "more precautions" to its training environments since the incidents, Kwon told the 12-member committee which is made up of Labor, Liberal and independent MPs and senators who are looking at AI and its impact on Australia.
+The company was also establishing a local taskforce in Australia to investigate "how to better manage the risks associated with increasingly capable AI".
+Kwon told the committee that training models were now monitored in real time during tests, and an alarm was triggered if they interact with the internet in a way they were not meant to.
+This meant that it had been able to alert the New South Wales government to another hack last week within 48 hours.
+The company would also support a framework on mandatory disclosure of incidents, Kwon said, as it would set out "clear expectations".
+"We were trying to come up with a standard to apply to our voluntary actions… based on our learned experience here, we should have been probably talking to more people about how to do that well."
+Anthropic's head of safeguards Dave Orr said in the wake of OpenAI agents hacking tech platform Hugging Face in July, it had reviewed "hundreds of millions of transcripts" to detect any potential breaches of Australian government websites similar to OpenAI.
+"We haven't found anything like this and we have looked," he told the committee.
+The public hearings, which will continue until Friday, also heard evidence from arts and media organisations about copyright and their concerns on how AI models use their materials.
+An opt-out model - where the onus would be on the artist to ask AI not to use their material for training purposes - was flawed and could means artists do not get paid for their content, the committee heard.
+"In other words, Australia's artists will be the roadkill in the rush to this AI deal," said Annabelle Herd, chief executive of the Australian Recording Industry Association.
+Related topics
+- Published24 September
+- Published24 September`,
+    bodyJa: `OpenAI admits response to Australian government hacks 'not good enough'
+- Published
+OpenAI has admitted its actions were "not good enough" after one of its rogue agents breached Australian government websites in June and said it had added more precautions to its training environments.
+The company's chief strategy officer Jason Kwon faced a parliamentary hearing into AI on Tuesday in Sydney, saying the breach "should not have happened" and it "should have handled our response better". It took weeks before Australia was notified via an email to a generic inbox.
+"We are sorry and we know we have work to do to rebuild trust with the Australian people," Kwon said.
+Anthropic also appeared and said it had not found any cases of Australian breaches during a recent investigation.
+An OpenAI agent went "rogue" and "infiltrated" a private statistics portal containing "non-sensitive" data from Australia's universal healthcare scheme Medicare in June in what cyber-security experts said was the first hack of its kind.
+Asked why OpenAI had not directly contacted government ministers immediately after it found out about the breaches, Kwon acknowledged it was a mistake.
+"In retrospect, we should have done what you're suggesting," Kwon said, in response to a question by the committee on why it had not dialled the mobile numbers of government ministers.
+"The reason why it happened the way that it did is I think people were thinking about this as a technical situation and they wanted to contact the technical counterparties but it's not good enough."
+Kwon said the company has changed how it handles such incidents.
+"Even if we don't fully understand the situation, we are just going to notify and start working through the situation collaboratively with the impacted party."
+OpenAI has also added "more precautions" to its training environments since the incidents, Kwon told the 12-member committee which is made up of Labor, Liberal and independent MPs and senators who are looking at AI and its impact on Australia.
+The company was also establishing a local taskforce in Australia to investigate "how to better manage the risks associated with increasingly capable AI".
+Kwon told the committee that training models were now monitored in real time during tests, and an alarm was triggered if they interact with the internet in a way they were not meant to.
+This meant that it had been able to alert the New South Wales government to another hack last week within 48 hours.
+The company would also support a framework on mandatory disclosure of incidents, Kwon said, as it would set out "clear expectations".
+"We were trying to come up with a standard to apply to our voluntary actions… based on our learned experience here, we should have been probably talking to more people about how to do that well."
+Anthropic's head of safeguards Dave Orr said in the wake of OpenAI agents hacking tech platform Hugging Face in July, it had reviewed "hundreds of millions of transcripts" to detect any potential breaches of Australian government websites similar to OpenAI.
+"We haven't found anything like this and we have looked," he told the committee.
+The public hearings, which will continue until Friday, also heard evidence from arts and media organisations about copyright and their concerns on how AI models use their materials.
+An opt-out model - where the onus would be on the artist to ask AI not to use their material for training purposes - was flawed and could means artists do not get paid for their content, the committee heard.
+"In other words, Australia's artists will be the roadkill in the rush to this AI deal," said Annabelle Herd, chief executive of the Australian Recording Industry Association.
+Related topics
+- Published24 September
+- Published24 September`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-06T06:00:53+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d74c/live/d3ce6cd0-c13e-11f1-a64c-550be9e3c66b.jpg",
+    readTime: 9,
+  },
+  {
+    id: "how-quant-funds-beat-the-market-by-being-0161e3e1",
+    title: "How quant funds beat the market by being 'early, contrarian and right'",
+    titleJa: "How quant funds beat the market by being 'early, contrarian and right'",
+    summaryJa: "Quantitative hedge funds have captured big trends in bonds and oil to outperform the stock market this year.",
+    bodyOriginal: `Hedge fund strategies that rely on complex algorithms and machine learning technology to build trades are beating the stock market this year.
+Trend-following hedge funds — also known as commodity trading advisors, or managed futures strategies — are computer-based funds that use quantitative programs, statistical models and price signals to crunch huge volumes of data and invest across futures markets.
+They aim to identify and trade large and consistent trends — both upward and downward — across equities, bonds, commodities, and currencies, to profit from that ongoing momentum.
+Societe Generale's SG CTA Index — the sector's main performance benchmark, which tracks the daily net returns of major strategies including Man Group, PIMCO, AQR and Winton Capital funds — notched a 15.7% return in the nine months to the end of the third quarter. By comparison, the broad-based S&P 500 rose 11.7% over the same nine-month period.
+'Early, contrarian and right'
+Industry pros told CNBC how CTAs correctly called September's sudden bond sell-off with shorts against U.S. Treasurys. That added to earlier gains made from bullish dollar positions, as well as pre-Iran war long oil bets.
+"CTAs are crushing the rest of the hedge fund world this year," said Andrew Beer, managing member at Dynamic Beta Investments. He said the sector was "early, contrarian and right" when it started buying crude oil in January prior to the Iran war, before successfully positioning for rising rates ahead of the global bond market turmoil.
+"They've nailed the two major themes in the markets: on the one hand, feverish AI-driven optimism about equities and, on the other, panic about oil prices and inflation," Beer told CNBC via email. "Humans are too emotional to time markets. Machines are much better."
+Nicolas Gaussel, CEO and CIO of Metori Capital Management, said CTAs have effectively navigated inflationary tensions thanks to their ability to take short positions in fixed income. He added that the negative correlation between stocks and oil was another important feature which helped bolster performance this year.
+This year has been shaped by two important structural themes, Gaussel said: the strong positive correlation between equities and bonds, and a strong negative correlation between energy and both equities and bonds. This has proved an environment for traditional '60/40' portfolios.
+"For traditional long-only diversified portfolios, the positive correlation between equities and bonds has been particularly challenging. Bond performance has been weak, while bonds have also provided less diversification against equities. By contrast, the ability of CTAs to go short bonds and short-term rates has proved very beneficial," Gaussel added.
+"This reminds us that one of the key strengths of CTAs is that they are not dependent on bonds playing their traditional defensive role."
+Looking ahead, the performance of trend-following funds heading into year-end will likely hinge on energy prices and interest rates, said Yung-Shin Kung, chief investment officer at Mast Investments.
+"If September provides any indication, we're at a point where linkages between the two are now propagating meaningfully into currencies and equity markets as well," he told CNBC via email.
+"The upshot is that CTAs are generally well positioned to buffer traditional portfolios — but the risk in many CTA books has grown increasingly concentrated."`,
+    bodyJa: `Hedge fund strategies that rely on complex algorithms and machine learning technology to build trades are beating the stock market this year.
+Trend-following hedge funds — also known as commodity trading advisors, or managed futures strategies — are computer-based funds that use quantitative programs, statistical models and price signals to crunch huge volumes of data and invest across futures markets.
+They aim to identify and trade large and consistent trends — both upward and downward — across equities, bonds, commodities, and currencies, to profit from that ongoing momentum.
+Societe Generale's SG CTA Index — the sector's main performance benchmark, which tracks the daily net returns of major strategies including Man Group, PIMCO, AQR and Winton Capital funds — notched a 15.7% return in the nine months to the end of the third quarter. By comparison, the broad-based S&P 500 rose 11.7% over the same nine-month period.
+'Early, contrarian and right'
+Industry pros told CNBC how CTAs correctly called September's sudden bond sell-off with shorts against U.S. Treasurys. That added to earlier gains made from bullish dollar positions, as well as pre-Iran war long oil bets.
+"CTAs are crushing the rest of the hedge fund world this year," said Andrew Beer, managing member at Dynamic Beta Investments. He said the sector was "early, contrarian and right" when it started buying crude oil in January prior to the Iran war, before successfully positioning for rising rates ahead of the global bond market turmoil.
+"They've nailed the two major themes in the markets: on the one hand, feverish AI-driven optimism about equities and, on the other, panic about oil prices and inflation," Beer told CNBC via email. "Humans are too emotional to time markets. Machines are much better."
+Nicolas Gaussel, CEO and CIO of Metori Capital Management, said CTAs have effectively navigated inflationary tensions thanks to their ability to take short positions in fixed income. He added that the negative correlation between stocks and oil was another important feature which helped bolster performance this year.
+This year has been shaped by two important structural themes, Gaussel said: the strong positive correlation between equities and bonds, and a strong negative correlation between energy and both equities and bonds. This has proved an environment for traditional '60/40' portfolios.
+"For traditional long-only diversified portfolios, the positive correlation between equities and bonds has been particularly challenging. Bond performance has been weak, while bonds have also provided less diversification against equities. By contrast, the ability of CTAs to go short bonds and short-term rates has proved very beneficial," Gaussel added.
+"This reminds us that one of the key strengths of CTAs is that they are not dependent on bonds playing their traditional defensive role."
+Looking ahead, the performance of trend-following funds heading into year-end will likely hinge on energy prices and interest rates, said Yung-Shin Kung, chief investment officer at Mast Investments.
+"If September provides any indication, we're at a point where linkages between the two are now propagating meaningfully into currencies and equity markets as well," he told CNBC via email.
+"The upshot is that CTAs are generally well positioned to buffer traditional portfolios — but the risk in many CTA books has grown increasingly concentrated."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/06/trend-following-hedge-funds-beat-stock-market.html",
+    publishedAt: "2026-10-06T05:00:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "world-bank-warns-of-ai-concentration-ris-884758b1",
+    title: "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
+    titleJa: "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
+    summaryJa: "The World Bank now expects the region to grow 4.5% this year, but flagged that trade growth outside AI-related goods has been \"weak or negative.\"",
+    bodyOriginal: `The World Bank has raised its growth forecast for the East Asia and Pacific region on the back of artificial intelligence-related exports, while warning that its reliance on the AI boom leaves it vulnerable to a potential global tech spending reversal.
+The region includes 23 economies, including China, Vietnam, Indonesia, Malaysia and Thailand.
+The EAP economy is expected to expand 4.5% this year, 0.3 percentage point more than the bank projected in April, according to its latest report released Tuesday. Growth is forecast to ease to 4.4% in 2027 and 4.3% in 2028. Vietnam received the biggest forecast upgrade among major economies of the region, up 1.1 percentage point to 7.4%.
+The region's strength, however, is highly dependent on AI-related manufacturing and exports. Trade growth, excluding AI-related goods, has been "weak or negative," the bank said. Those products accounted for more than half of the export growth in most of the region's economies and more than 70% in Malaysia, the Philippines, Thailand and Vietnam.
+China, Indonesia, Malaysia, the Philippines, Thailand and Vietnam shipped $1.4 trillion of AI-related goods in the 12 months through April, according to the report.
+Official data showed that South Korea's exports grew 83.5% in September to a record $120.9 billion, with chips making up half of those shipments. Reflecting the dominance of semiconductors in the country's market, the World Bank highlighted that just two chipmakers — Samsung and SK Hynix — accounted for 43% of the benchmark Kospi index's value as of end-April.
+The AI risk is on the spending side. AI-related capital expenditure has reached about 6% of U.S. GDP, similar to the 2000 peak in information-technology investment, and the current cycle "has risen faster than either previous cycle and is still gaining speed," the bank said.
+The Bank for International Settlements in its annual economic report in June had warned that the boom's scale and pace bears resemblance to the dot-com frenzy of the 1990s and other "manias."
+The financing driving the boom is also less transparent. Of the $2.9 trillion in AI capex planned for 2025-2028, $800 billion is expected to come from private credit, the bank said, where AI-related lending rose to 34% of activity in 2025 from an 18% average over the prior five years. Private credit portfolios have experienced markdowns, outflows and defaults this year.
+Private credit markets are "less visible, and have not been tested by a severe downturn," the bank said.
+That said, the AI boom supported by abundant liquidity could slow due to the latest tightening of financial conditions as major central banks raise rates for the first time since 2023, according to the report. The U.S. Federal Reserve raised rates last month, its first increase in more than three years, and signaled one more to hike this year.
+A correction may not necessarily mean a bust for the AI supercycle, but that investment "had run ahead of realized demand," the organization said.
+A slowdown by 1 percentage point in U.S. growth cuts other emerging-market growth by an estimated 0.6 percentage point, with the hit to investment about twice as large, the bank said. "A slowdown concentrated in AI would be material for East Asia because of the region's prominence in the AI supply chain."
+Bank funding is the broadest exposure. Foreign-currency-denominated liabilities of banks appeared significant in some countries — 29.2% of GDP in Malaysia, 20.7% in the Philippines.
+Taiwan's statistics bureau recently raised its 2026 growth forecast to 11% from 9.6% on AI demand, while warning in June that "if the high-tech sector faces headwinds, the negative impact on the local economy could be bigger than expected."`,
+    bodyJa: `The World Bank has raised its growth forecast for the East Asia and Pacific region on the back of artificial intelligence-related exports, while warning that its reliance on the AI boom leaves it vulnerable to a potential global tech spending reversal.
+The region includes 23 economies, including China, Vietnam, Indonesia, Malaysia and Thailand.
+The EAP economy is expected to expand 4.5% this year, 0.3 percentage point more than the bank projected in April, according to its latest report released Tuesday. Growth is forecast to ease to 4.4% in 2027 and 4.3% in 2028. Vietnam received the biggest forecast upgrade among major economies of the region, up 1.1 percentage point to 7.4%.
+The region's strength, however, is highly dependent on AI-related manufacturing and exports. Trade growth, excluding AI-related goods, has been "weak or negative," the bank said. Those products accounted for more than half of the export growth in most of the region's economies and more than 70% in Malaysia, the Philippines, Thailand and Vietnam.
+China, Indonesia, Malaysia, the Philippines, Thailand and Vietnam shipped $1.4 trillion of AI-related goods in the 12 months through April, according to the report.
+Official data showed that South Korea's exports grew 83.5% in September to a record $120.9 billion, with chips making up half of those shipments. Reflecting the dominance of semiconductors in the country's market, the World Bank highlighted that just two chipmakers — Samsung and SK Hynix — accounted for 43% of the benchmark Kospi index's value as of end-April.
+The AI risk is on the spending side. AI-related capital expenditure has reached about 6% of U.S. GDP, similar to the 2000 peak in information-technology investment, and the current cycle "has risen faster than either previous cycle and is still gaining speed," the bank said.
+The Bank for International Settlements in its annual economic report in June had warned that the boom's scale and pace bears resemblance to the dot-com frenzy of the 1990s and other "manias."
+The financing driving the boom is also less transparent. Of the $2.9 trillion in AI capex planned for 2025-2028, $800 billion is expected to come from private credit, the bank said, where AI-related lending rose to 34% of activity in 2025 from an 18% average over the prior five years. Private credit portfolios have experienced markdowns, outflows and defaults this year.
+Private credit markets are "less visible, and have not been tested by a severe downturn," the bank said.
+That said, the AI boom supported by abundant liquidity could slow due to the latest tightening of financial conditions as major central banks raise rates for the first time since 2023, according to the report. The U.S. Federal Reserve raised rates last month, its first increase in more than three years, and signaled one more to hike this year.
+A correction may not necessarily mean a bust for the AI supercycle, but that investment "had run ahead of realized demand," the organization said.
+A slowdown by 1 percentage point in U.S. growth cuts other emerging-market growth by an estimated 0.6 percentage point, with the hit to investment about twice as large, the bank said. "A slowdown concentrated in AI would be material for East Asia because of the region's prominence in the AI supply chain."
+Bank funding is the broadest exposure. Foreign-currency-denominated liabilities of banks appeared significant in some countries — 29.2% of GDP in Malaysia, 20.7% in the Philippines.
+Taiwan's statistics bureau recently raised its 2026 growth forecast to 11% from 9.6% on AI demand, while warning in June that "if the high-tech sector faces headwinds, the negative impact on the local economy could be bigger than expected."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html",
+    publishedAt: "2026-10-06T04:07:24+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "little-room-for-giving-and-taking-india-2a473c11",
+    title: "Little room for ‘giving and taking’: India’s finance minister confirms trade impasse with the U.S.",
+    titleJa: "Little room for ‘giving and taking’: India’s finance minister confirms trade impasse with the U.S.",
+    summaryJa: "In the latest sign of growing skepticism around the closure of the trade deal between New Delhi and Washington, an Indian minister said there is little room for ‘giving and taking.’",
+    bodyOriginal: `India's Finance Minister Nirmala Sitharaman said trade talks with the U.S. had reached a plateau, adding to growing skepticism around a deal between New Delhi and Washington.
+"Negotiations are still ongoing, although we'd like to believe that both sides have reached a plateau beyond which giving or taking might be very very difficult," Sitharaman said, speaking to the press at the Munich Leaders Meeting in New Delhi on Monday.
+The finance minister's comments come just after U.S. Trade Representative Jamieson Greer last week said a trade agreement was not 'imminent' even as the negotiations were ongoing.
+Sitharaman's comments mark the first time India has acknowledged the challenges it faces in closing the trade deal with the U.S.
+She said the U.S. wants to "reduce" its trade imbalance with India, and they want to make up "for all that they've lost over these years."
+"When you're talking of trade and trade imbalance being the sole criteria to reduce the imbalance, to what extent beyond negotiation can you go," Sitharaman said.
+The U.S. goods trade deficit with India was $58.42 billion in 2025, a 27.8% increase ($12.7 billion) over 2024. In the first seven months of 2026, this figure was $28.4 billion, as per U.S. data.
+Last week, Indian Prime Minister Narendra Modi had reviewed bilateral trade, defense, energy and critical technologies during a call with U.S. President Donald Trump. While Greer said the call was "constructive," and Modi called it "productive," Trump did not comment on it.
+Trump in February announced an interim trade deal with India, outlining that New Delhi had agreed to "BUY AMERICAN" at "a much higher level." India, meanwhile, has been seeking preferential tariffs from the U.S. that make its exports to Washington more competitive.
+"Both countries stand to lose if no deal is finalized," Mark Linscott, former assistant U.S. trade representative and senior advisor at the U.S.-India Strategic Partnership Forum, told CNBC.
+"US exports currently face higher tariffs in the Indian market," he said, adding that if India did not strike a deal soon, "it could face much higher tariffs than other countries, and that could be a real problem given that the U.S. market is critical for India."
+Currently, Indian exports to the U.S. face a 10% tariff, following the conclusion of USTR's investigation into the acts, policies and practices of forced labor in 60 countries.
+As per the Indian government, a substantial share of the country's exports to the U.S., such as generic pharmaceuticals and smartphones, remain outside the scope of the 10% duty.`,
+    bodyJa: `India's Finance Minister Nirmala Sitharaman said trade talks with the U.S. had reached a plateau, adding to growing skepticism around a deal between New Delhi and Washington.
+"Negotiations are still ongoing, although we'd like to believe that both sides have reached a plateau beyond which giving or taking might be very very difficult," Sitharaman said, speaking to the press at the Munich Leaders Meeting in New Delhi on Monday.
+The finance minister's comments come just after U.S. Trade Representative Jamieson Greer last week said a trade agreement was not 'imminent' even as the negotiations were ongoing.
+Sitharaman's comments mark the first time India has acknowledged the challenges it faces in closing the trade deal with the U.S.
+She said the U.S. wants to "reduce" its trade imbalance with India, and they want to make up "for all that they've lost over these years."
+"When you're talking of trade and trade imbalance being the sole criteria to reduce the imbalance, to what extent beyond negotiation can you go," Sitharaman said.
+The U.S. goods trade deficit with India was $58.42 billion in 2025, a 27.8% increase ($12.7 billion) over 2024. In the first seven months of 2026, this figure was $28.4 billion, as per U.S. data.
+Last week, Indian Prime Minister Narendra Modi had reviewed bilateral trade, defense, energy and critical technologies during a call with U.S. President Donald Trump. While Greer said the call was "constructive," and Modi called it "productive," Trump did not comment on it.
+Trump in February announced an interim trade deal with India, outlining that New Delhi had agreed to "BUY AMERICAN" at "a much higher level." India, meanwhile, has been seeking preferential tariffs from the U.S. that make its exports to Washington more competitive.
+"Both countries stand to lose if no deal is finalized," Mark Linscott, former assistant U.S. trade representative and senior advisor at the U.S.-India Strategic Partnership Forum, told CNBC.
+"US exports currently face higher tariffs in the Indian market," he said, adding that if India did not strike a deal soon, "it could face much higher tariffs than other countries, and that could be a real problem given that the U.S. market is critical for India."
+Currently, Indian exports to the U.S. face a 10% tariff, following the conclusion of USTR's investigation into the acts, policies and practices of forced labor in 60 countries.
+As per the Indian government, a substantial share of the country's exports to the U.S., such as generic pharmaceuticals and smartphones, remain outside the scope of the 10% duty.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/06/india-us-trade-deal-deal-sitharaman.html",
+    publishedAt: "2026-10-06T02:39:19+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "trump-offers-u-s-help-to-russia-after-pl-5e6cced4",
+    title: "Trump offers U.S. help to Russia after plague death; WHO assesses the situation as low risk",
+    titleJa: "Trump offers U.S. help to Russia after plague death; WHO assesses the situation as low risk",
+    summaryJa: "WHO said it was in contact with Russian authorities, and has offered support if needed, while assessing the risk to the general public as low based on available information.",
+    bodyOriginal: `U.S. President Donald Trump has offered to help Russia after a laboratory worker died following an illness at a plague research institute in Siberia, while the Russian authorities said the situation was under control.
+"We'll help," Trump told reporters at the White House on Monday when asked about the case. "Everybody who has that kind of a problem, we'll always help," according to a Reuters transcript.
+A laboratory worker at an anti-plague research institute in the Irkutsk region of eastern Siberia fell ill and died in undisclosed circumstances, reportedly prompting authorities to quarantine nearly 200 people and fueling public health concerns.
+Trump said he had not spoken to Russian officials about the case, but described the plague as a "rough disease."
+"That's a disease we used to be able to control," Trump said, adding that "somehow those microbes have gotten stronger and stronger, they're like an army."
+"We are monitoring the situation closely with the CDC and our other interagency partners. Many details have not been confirmed. We encourage Russian authorities to share accurate information quickly and openly," a state department spokesperson who did not wish to be identified told CNBC.
+Trump said the U.S. would do what it could to help Russia. He has previously said he considers Russian President Vladimir Putin someone he can work with, despite tensions over Moscow's war in Ukraine.
+The World Health Organization in an email response said the cause of death had not been confirmed and testing was underway. It said it was in contact with Russian authorities, and has offered support if needed, while assessing the risk to the general public as low based on available information.
+It remains unclear whether Moscow has sought or would accept any assistance.`,
+    bodyJa: `U.S. President Donald Trump has offered to help Russia after a laboratory worker died following an illness at a plague research institute in Siberia, while the Russian authorities said the situation was under control.
+"We'll help," Trump told reporters at the White House on Monday when asked about the case. "Everybody who has that kind of a problem, we'll always help," according to a Reuters transcript.
+A laboratory worker at an anti-plague research institute in the Irkutsk region of eastern Siberia fell ill and died in undisclosed circumstances, reportedly prompting authorities to quarantine nearly 200 people and fueling public health concerns.
+Trump said he had not spoken to Russian officials about the case, but described the plague as a "rough disease."
+"That's a disease we used to be able to control," Trump said, adding that "somehow those microbes have gotten stronger and stronger, they're like an army."
+"We are monitoring the situation closely with the CDC and our other interagency partners. Many details have not been confirmed. We encourage Russian authorities to share accurate information quickly and openly," a state department spokesperson who did not wish to be identified told CNBC.
+Trump said the U.S. would do what it could to help Russia. He has previously said he considers Russian President Vladimir Putin someone he can work with, despite tensions over Moscow's war in Ukraine.
+The World Health Organization in an email response said the cause of death had not been confirmed and testing was underway. It said it was in contact with Russian authorities, and has offered support if needed, while assessing the risk to the general public as low based on available information.
+It remains unclear whether Moscow has sought or would accept any assistance.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/06/russia-plague-death-trump-offers-us-help.html",
+    publishedAt: "2026-10-06T01:47:32+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "people-in-the-u-s-need-to-wake-up-as-a-f4a6dab5",
+    title: "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected wealthy couples due to overspending. We’re all heading for trouble.",
+    titleJa: "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected wealthy couples due to overspending. We’re all heading for trouble.",
+    summaryJa: "A reader writes: “We’d better get real quick or we’re going to have a financial crisis that makes the Great Recession of 2008 look like a picnic.”",
+    bodyOriginal: `A reader writes: “We’d better get real quick or we’re going to have a financial crisis that makes the Great Recession of 2008 look like a picnic.”`,
+    bodyJa: `A reader writes: “We’d better get real quick or we’re going to have a financial crisis that makes the Great Recession of 2008 look like a picnic.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+    publishedAt: "2026-10-05T23:30:00+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.mktw.net/im-33593263",
+    readTime: 2,
+  },
+  {
     id: "ai-researcher-warns-we-are-racing-to-bui-97d6e6a8",
     title: "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
     titleJa: "AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing",
@@ -121,6 +351,58 @@ MAGA Inc. has spent at least $57 million this election cycle, according to CNBC'
     category: "貿易",
     imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
     readTime: 9,
+  },
+  {
+    id: "russian-gold-floods-hong-kong-as-western-8ffc03d4",
+    title: "Russian gold floods Hong Kong as Western sanctions redraw bullion trade",
+    titleJa: "Russian gold floods Hong Kong as Western sanctions redraw bullion trade",
+    summaryJa: "The surge underscores how Russia's gold trade has been rerouted after its invasion of Ukraine in 2022 shut its producers out of major Western markets.",
+    bodyOriginal: `Russian gold is pouring into Hong Kong at a record pace, highlighting how Western sanctions have rerouted bullion bound for London toward China and other Asian markets.
+Hong Kong imported 112.7 tonnes of Russian-origin gold in the first seven months of 2026, according to precious metals investment firm BullionVault's analysis of data from the Hong Kong Census and Statistics Department.
+Imports have already surpassed the record 92.1 tonnes imported during all of 2025, and compares with just 3.3 tonnes in 2021, before Russia's invasion of Ukraine.
+The surge underscores how Russia's gold trade has been rerouted since its invasion of Ukraine in 2022 shut its producers out of major Western markets, analysts told CNBC.
+Russian bullion accounted for almost 15% of Hong Kong's non-monetary gold imports in the first seven months of this year, up from just 0.6% in 2021.
+"Hong Kong has emerged as an important hub for Russia-China trade since the full-scale invasion," said Vita Spivak, senior consultant at Gatehouse Advisory Partners. "Most gold goes to Mainland China as it hasn't placed sanctions on Russian gold," she told CNBC.
+"For bullion specifically, Hong Kong also offers advantages beyond sanctions circumvention. It provides direct access to the world's largest gold-consuming market," Spivak highlighted.
+The London Bullion Market Association suspended all six Russian gold and silver refiners from its Good Delivery lists in March 2022. The U.S., U.K. and other Western countries subsequently imposed restrictions on Russian gold, effectively closing off markets that had previously been major destinations for the country's bullion.
+Before the war, Russia's gold industry had become heavily dependent on London. Russian gold exports to the U.K. between 2019 and 2021 were equivalent to around two-thirds of the country's mine production, according to data from BullionVault.
+"The fact that Hong Kong's official data clearly shows a steep rise in imports of Russian gold reflects the kind of support and bilateral trade for which Putin has repeatedly thanked Xi," said Adrian Ash, director of research at BullionVault.
+"Russian exports of gold to the UK and other Western-sanction nations of course collapsed," Ash added.
+Behind the rush
+Hong Kong is a natural alternative. The city has long served as a gateway for bullion into mainland China, the world's largest gold consumer, and it is rapidly expanding its storage, clearing and trading infrastructure.
+"Hong Kong has always been an important entre-pot for gold going into China," said Rhona O'Connell, head of market analysis for EMEA and Asia at StoneX. While Shanghai has taken market share in recent years, Hong Kong is now in "a race with Singapore for hub supremacy and is about six months ahead in terms of infrastructure," she said.
+Historically, Hong Kong was the main gateway for China's gold imports, but Beijing has since opened other import hubs including Shenzhen and Beijing, reducing the city's share, according to S&P Global.
+The Russian flows are arriving just as China itself is in the midst of a broader gold buying spree.
+China has designated gold a "strategic mineral" and has promoted physical bullion as a store of value for households, while the People's Bank of China has continued adding to its reserves.
+S&P Global data showed that China's official gold holdings rose by more than 40 tonnes in the first half of 2026, more than double the amount purchased a year earlier.
+"We do know that whether it's the PBOC or if it's the Chinese consumers, they've all been buying quite a bit of gold," Charles Chang, Greater China country lead for corporates at S&P Global Ratings, told CNBC in an interview.
+"In times of high uncertainty, consumers tend to want to protect their savings, and they find gold as one vehicle for that," he said.`,
+    bodyJa: `Russian gold is pouring into Hong Kong at a record pace, highlighting how Western sanctions have rerouted bullion bound for London toward China and other Asian markets.
+Hong Kong imported 112.7 tonnes of Russian-origin gold in the first seven months of 2026, according to precious metals investment firm BullionVault's analysis of data from the Hong Kong Census and Statistics Department.
+Imports have already surpassed the record 92.1 tonnes imported during all of 2025, and compares with just 3.3 tonnes in 2021, before Russia's invasion of Ukraine.
+The surge underscores how Russia's gold trade has been rerouted since its invasion of Ukraine in 2022 shut its producers out of major Western markets, analysts told CNBC.
+Russian bullion accounted for almost 15% of Hong Kong's non-monetary gold imports in the first seven months of this year, up from just 0.6% in 2021.
+"Hong Kong has emerged as an important hub for Russia-China trade since the full-scale invasion," said Vita Spivak, senior consultant at Gatehouse Advisory Partners. "Most gold goes to Mainland China as it hasn't placed sanctions on Russian gold," she told CNBC.
+"For bullion specifically, Hong Kong also offers advantages beyond sanctions circumvention. It provides direct access to the world's largest gold-consuming market," Spivak highlighted.
+The London Bullion Market Association suspended all six Russian gold and silver refiners from its Good Delivery lists in March 2022. The U.S., U.K. and other Western countries subsequently imposed restrictions on Russian gold, effectively closing off markets that had previously been major destinations for the country's bullion.
+Before the war, Russia's gold industry had become heavily dependent on London. Russian gold exports to the U.K. between 2019 and 2021 were equivalent to around two-thirds of the country's mine production, according to data from BullionVault.
+"The fact that Hong Kong's official data clearly shows a steep rise in imports of Russian gold reflects the kind of support and bilateral trade for which Putin has repeatedly thanked Xi," said Adrian Ash, director of research at BullionVault.
+"Russian exports of gold to the UK and other Western-sanction nations of course collapsed," Ash added.
+Behind the rush
+Hong Kong is a natural alternative. The city has long served as a gateway for bullion into mainland China, the world's largest gold consumer, and it is rapidly expanding its storage, clearing and trading infrastructure.
+"Hong Kong has always been an important entre-pot for gold going into China," said Rhona O'Connell, head of market analysis for EMEA and Asia at StoneX. While Shanghai has taken market share in recent years, Hong Kong is now in "a race with Singapore for hub supremacy and is about six months ahead in terms of infrastructure," she said.
+Historically, Hong Kong was the main gateway for China's gold imports, but Beijing has since opened other import hubs including Shenzhen and Beijing, reducing the city's share, according to S&P Global.
+The Russian flows are arriving just as China itself is in the midst of a broader gold buying spree.
+China has designated gold a "strategic mineral" and has promoted physical bullion as a store of value for households, while the People's Bank of China has continued adding to its reserves.
+S&P Global data showed that China's official gold holdings rose by more than 40 tonnes in the first half of 2026, more than double the amount purchased a year earlier.
+"We do know that whether it's the PBOC or if it's the Chinese consumers, they've all been buying quite a bit of gold," Charles Chang, Greater China country lead for corporates at S&P Global Ratings, told CNBC in an interview.
+"In times of high uncertainty, consumers tend to want to protect their savings, and they find gold as one vehicle for that," he said.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/06/russia-gold-hong-kong-china-western-sanctions.html",
+    publishedAt: "2026-10-05T23:14:39+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
   },
   {
     id: "five-reasons-india-s-stock-market-is-sin-1ddf833b",
@@ -299,6 +581,20 @@ Wally Luckeydoo, a personal finance teacher at Smyrna High School in Tennessee, 
     category: "マクロ経済",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2e8/live/a8bdb430-bca0-11f1-bd53-81692d9847e1.jpg",
     readTime: 10,
+  },
+  {
+    id: "the-pain-was-excruciating-a-friend-in-h-7066d5d4",
+    title: "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
+    titleJa: "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
+    summaryJa: "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
+    bodyOriginal: `“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”`,
+    bodyJa: `“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+    publishedAt: "2026-10-05T23:00:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-28037406",
+    readTime: 2,
   },
   {
     id: "house-democrat-targets-candidate-predict-9cb7c2b9",
@@ -1883,204 +2179,6 @@ Related topics
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-39540591",
     readTime: 2,
-  },
-  {
-    id: "trump-taps-director-of-national-intellig-f3ca179e",
-    title: "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports",
-    titleJa: "Trump taps Director of National Intelligence Jay Clayton as AI czar: WSJ reports",
-    summaryJa: "Director of National Intelligence Jay Clayton will lead the administration's AI policy, The Wall Street Journal reported on Saturday.",
-    bodyOriginal: `Director of National Intelligence Jay Clayton has been chosen as the Trump administration's new AI czar, leading its response to artificial intelligence amid growing concerns about the risks of this rapidly evolving technology, The Wall Street Journal reported on Saturday.
-Clayton told the Journal he will lead a new White House task force, which will have 120 days to research and report on AI's risks and opportunities, and offer recommendations on the federal government's responsibilities regarding the new technology.
-"The president asked that a group be put together that was going to ensure exactly what he said, which is that we stay the leaders in superintelligence, and that the interests of the American people are put first," Clayton said, the Journal reported.
-The group will be called the "Super Intelligence Force," or SI — the term President Donald Trump prefers over AI — and Clayton will effectively become the new AI czar, the Journal said, citing a senior White House official.
-The White House did not immediately respond to a CNBC request for comment.
-In September, Trump announced in a Truth Social post that he would create a new "AI Force" to help facilitate the industry and root out bad actors.
-"We will not in any way hinder or stifle the Growth of this incredible Industry. Rather, we will cherish it, help it, and watch over it, as it grows!" Trump said the post, which also announced plans to hire an AI czar.
-"Only High I.Q. individuals need apply!" the president added.
-Clayton is a former chair of the Securities and Exchange Commission and U.S. attorney for the Southern District of New York. The Senate confirmed him in July as DNI, giving him authority over 18 U.S. intelligence agencies.
-The announcement comes days after AI industry leaders met with Trump and House Speaker Mike Johnson at the White House. The AI developers signed onto an agreement of voluntary safety standards that Trump said was "morally binding."
-Despite dire warnings from within the industry and calls from AI leaders Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman for federal guardrails on frontier AI models, Trump has so far opposed regulation.
-In the same September post, Trump suggested AI fears were a hoax and blamed "Radical Left Dumocrats."
-Venture capitalist David Sacks had previously served as AI and crypto czar under Trump, but in March said that his time as a special government employee had ended. Sacks is co-chair of the President's Council of Advisors on Science and Technology, a federal advisory committee made up of outside experts on technology, scientific research and innovation policy.`,
-    bodyJa: `Director of National Intelligence Jay Clayton has been chosen as the Trump administration's new AI czar, leading its response to artificial intelligence amid growing concerns about the risks of this rapidly evolving technology, The Wall Street Journal reported on Saturday.
-Clayton told the Journal he will lead a new White House task force, which will have 120 days to research and report on AI's risks and opportunities, and offer recommendations on the federal government's responsibilities regarding the new technology.
-"The president asked that a group be put together that was going to ensure exactly what he said, which is that we stay the leaders in superintelligence, and that the interests of the American people are put first," Clayton said, the Journal reported.
-The group will be called the "Super Intelligence Force," or SI — the term President Donald Trump prefers over AI — and Clayton will effectively become the new AI czar, the Journal said, citing a senior White House official.
-The White House did not immediately respond to a CNBC request for comment.
-In September, Trump announced in a Truth Social post that he would create a new "AI Force" to help facilitate the industry and root out bad actors.
-"We will not in any way hinder or stifle the Growth of this incredible Industry. Rather, we will cherish it, help it, and watch over it, as it grows!" Trump said the post, which also announced plans to hire an AI czar.
-"Only High I.Q. individuals need apply!" the president added.
-Clayton is a former chair of the Securities and Exchange Commission and U.S. attorney for the Southern District of New York. The Senate confirmed him in July as DNI, giving him authority over 18 U.S. intelligence agencies.
-The announcement comes days after AI industry leaders met with Trump and House Speaker Mike Johnson at the White House. The AI developers signed onto an agreement of voluntary safety standards that Trump said was "morally binding."
-Despite dire warnings from within the industry and calls from AI leaders Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman for federal guardrails on frontier AI models, Trump has so far opposed regulation.
-In the same September post, Trump suggested AI fears were a hoax and blamed "Radical Left Dumocrats."
-Venture capitalist David Sacks had previously served as AI and crypto czar under Trump, but in March said that his time as a special government employee had ended. Sacks is co-chair of the President's Council of Advisors on Science and Technology, a federal advisory committee made up of outside experts on technology, scientific research and innovation policy.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/03/trump-jay-clayton-ai-czar.html",
-    publishedAt: "2026-10-03T23:37:23+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "my-wife-never-went-back-to-work-after-ra-43b2408c",
-    title: "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-    titleJa: "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
-    summaryJa: "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
-    bodyOriginal: `“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”`,
-    bodyJa: `“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
-    publishedAt: "2026-10-03T20:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-90549274",
-    readTime: 2,
-  },
-  {
-    id: "these-bond-strategies-can-help-you-get-a-a7daa36d",
-    title: "These bond strategies can help you get a safe 5% return on your cash",
-    titleJa: "These bond strategies can help you get a safe 5% return on your cash",
-    summaryJa: "With U.S. Treasury yields on the rise, financial planners say they’re seeing a growing interest in bonds, especially among investors looking to secure fixed income in retirement.",
-    bodyOriginal: `With U.S. Treasury yields on the rise, financial planners say they’re seeing a growing interest in bonds, especially among investors looking to secure fixed income in retirement.`,
-    bodyJa: `With U.S. Treasury yields on the rise, financial planners say they’re seeing a growing interest in bonds, especially among investors looking to secure fixed income in retirement.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
-    publishedAt: "2026-10-03T18:49:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-29477851",
-    readTime: 2,
-  },
-  {
-    id: "tennessee-prison-chief-to-resign-after-c-2ef41b7a",
-    title: "Tennessee prison chief to resign after Christa Pike's failed execution",
-    titleJa: "Tennessee prison chief to resign after Christa Pike's failed execution",
-    summaryJa: "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
-    bodyOriginal: `Tennessee prison chief to resign after Christa Pike's failed execution
-- Published
-The head of prisons in the US state of Tennessee is resigning after the failed execution of death row inmate Christa Pike on Wednesday.
-Governor Bill Lee announced the change on Saturday, sharing the news in a joint statement with Tennessee Department of Correction Commissioner Frank Strada.
-Strada said that his stepping down is "in the best interests" of the state, and called the ongoing investigation into the incident "entirely appropriate and necessary".
-Pike, who was sentenced to death in 1996 for the murder of Colleen Slemmer, survived two injections and is now in critical condition at a Tennessee hospital as her lawyers seek to commute her sentence.
-"Commissioner Strada has served with integrity, and I appreciate his willingness to put the interests of Tennesseans first during this difficult moment," Lee said.
-Lee has ordered an independent review into Pike's attempted execution and he halted all executions in the state for the year.
-Attorney's for Pike called the resignation "justified" but said "it does nothing to help Christa now".
-"What happened to her Wednesday reflects a systemic failure that goes far beyond any one person," Pike's legal team wrote in a statement. "We hope the Governor's call for a full, independent review will expose the profound problems within Tennessee's entire death penalty system."
-Pike is being treated at a hospital in Nashville, Tennessee, where doctors are attempting to clear the drugs used during the execution from her body, according to legal filings.
-She was injected with two lethal doses of pentobarbital on Wednesday but remained alive. She was then sent to hospital in an ambulance. While receiving the two doses, "she could be heard crying, whimpering, and breathing loudly throughout the procedure", her lawyers said.
-As of Thursday night, she was unconscious, intubated and on a ventilator.
-The state's Department of Correction has defended the method it used, saying "the protocol does not allow for additional procedures beyond what was carried out".
-Authorities have not yet said whether they will try again to execute Pike. They have also not offered an explanation for what went wrong. Her lawyers filed an emergency motion on Friday to preserve "any and all evidence" related to her failed execution.
-Pike's attorneys previously warned that her medical history and anatomy - including thrombocytosis (a blood-clotting condition) and small veins - meant there was a risk she would experience "unnecessary" pain and suffering during a lethal injection.
-The attempted execution went ahead after multiple failed, last-minute legal challenges by Pike's lawyers.
-The US Supreme Court rejected two separate efforts to stop the lethal injection.
-Tennessee's governor also denied a clemency request from Pike, the only woman on the state's death row.
-Pike was 18 when she and her then-boyfriend, Tadaryl Shipp, beat, tortured and killed 19-year-old Slemmer in 1995.
-She was sentenced to death the following year after a media frenzy around the killing in Knoxville, Tennessee.
-Related topics
-- Published3 hours ago
-- Published10 hours ago
-- Published1 day ago`,
-    bodyJa: `Tennessee prison chief to resign after Christa Pike's failed execution
-- Published
-The head of prisons in the US state of Tennessee is resigning after the failed execution of death row inmate Christa Pike on Wednesday.
-Governor Bill Lee announced the change on Saturday, sharing the news in a joint statement with Tennessee Department of Correction Commissioner Frank Strada.
-Strada said that his stepping down is "in the best interests" of the state, and called the ongoing investigation into the incident "entirely appropriate and necessary".
-Pike, who was sentenced to death in 1996 for the murder of Colleen Slemmer, survived two injections and is now in critical condition at a Tennessee hospital as her lawyers seek to commute her sentence.
-"Commissioner Strada has served with integrity, and I appreciate his willingness to put the interests of Tennesseans first during this difficult moment," Lee said.
-Lee has ordered an independent review into Pike's attempted execution and he halted all executions in the state for the year.
-Attorney's for Pike called the resignation "justified" but said "it does nothing to help Christa now".
-"What happened to her Wednesday reflects a systemic failure that goes far beyond any one person," Pike's legal team wrote in a statement. "We hope the Governor's call for a full, independent review will expose the profound problems within Tennessee's entire death penalty system."
-Pike is being treated at a hospital in Nashville, Tennessee, where doctors are attempting to clear the drugs used during the execution from her body, according to legal filings.
-She was injected with two lethal doses of pentobarbital on Wednesday but remained alive. She was then sent to hospital in an ambulance. While receiving the two doses, "she could be heard crying, whimpering, and breathing loudly throughout the procedure", her lawyers said.
-As of Thursday night, she was unconscious, intubated and on a ventilator.
-The state's Department of Correction has defended the method it used, saying "the protocol does not allow for additional procedures beyond what was carried out".
-Authorities have not yet said whether they will try again to execute Pike. They have also not offered an explanation for what went wrong. Her lawyers filed an emergency motion on Friday to preserve "any and all evidence" related to her failed execution.
-Pike's attorneys previously warned that her medical history and anatomy - including thrombocytosis (a blood-clotting condition) and small veins - meant there was a risk she would experience "unnecessary" pain and suffering during a lethal injection.
-The attempted execution went ahead after multiple failed, last-minute legal challenges by Pike's lawyers.
-The US Supreme Court rejected two separate efforts to stop the lethal injection.
-Tennessee's governor also denied a clemency request from Pike, the only woman on the state's death row.
-Pike was 18 when she and her then-boyfriend, Tadaryl Shipp, beat, tortured and killed 19-year-old Slemmer in 1995.
-She was sentenced to death the following year after a media frenzy around the killing in Knoxville, Tennessee.
-Related topics
-- Published3 hours ago
-- Published10 hours ago
-- Published1 day ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-03T17:48:42+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5d3/live/7d12d1b0-bf45-11f1-babe-4199b0e7ccea.jpg",
-    readTime: 8,
-  },
-  {
-    id: "a-tough-job-market-is-pushing-more-young-331db558",
-    title: "A tough job market is pushing more young Americans to make a big bet: on themselves",
-    titleJa: "A tough job market is pushing more young Americans to make a big bet: on themselves",
-    summaryJa: "There has been a rise in entrepreneurship among young Americans as the entry-level labor market has become tougher to join.",
-    bodyOriginal: `There has been a rise in entrepreneurship among young Americans as the entry-level labor market has become tougher to join.`,
-    bodyJa: `There has been a rise in entrepreneurship among young Americans as the entry-level labor market has become tougher to join.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
-    publishedAt: "2026-10-03T17:24:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-69217223",
-    readTime: 2,
-  },
-  {
-    id: "switching-jobs-to-get-higher-pay-works-b-5ded3ff1",
-    title: "Switching jobs to get higher pay works best in these industries",
-    titleJa: "Switching jobs to get higher pay works best in these industries",
-    summaryJa: "Finding a new job is one way to get a pay increase at a time when inflation has been outpacing wage growth.",
-    bodyOriginal: `Finding a new job is one way to get a pay increase at a time when inflation has been outpacing wage growth.`,
-    bodyJa: `Finding a new job is one way to get a pay increase at a time when inflation has been outpacing wage growth.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
-    publishedAt: "2026-10-03T16:42:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-43794673",
-    readTime: 2,
-  },
-  {
-    id: "i-have-400-000-in-equity-i-m-80-should-134693ef",
-    title: "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-    titleJa: "‘I have $400,000 in equity’: I’m 80. Should I sell my house because of dangerous stairs — or spend thousands renovating?",
-    summaryJa: "“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”",
-    bodyOriginal: `“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”`,
-    bodyJa: `“Generally, the advice I’ve read says not to sell because I have a low-interest-rate mortgage.”`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
-    publishedAt: "2026-10-03T16:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-02929527",
-    readTime: 2,
-  },
-  {
-    id: "medical-plane-with-6-on-board-missing-of-2b6709c3",
-    title: "Medical plane with 6 on board missing off Massachusetts coast",
-    titleJa: "Medical plane with 6 on board missing off Massachusetts coast",
-    summaryJa: "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
-    bodyOriginal: `Medical plane with 6 on board missing off Massachusetts coast
-- Published
-US authorities are searching for six people after a medical plane bound for Boston, Massachusetts went missing early Saturday morning.
-The Federal Aviation Administration told the BBC that it lost contact with the Gulfstream G-100 plane and put out a search and rescue notice just after 1:00 local time (6:00 GMT).
-An air and water search is underway off the coast of Nantucket, a Massachusetts island, according to the US Coast Guard's Northeast District.
-The plane departed from Bermuda's L.F. Wade International Airport at 23:40 local time, according to flight data from FlightAware, and was slated to land at Boston's Logan International at 1:30 EDT (6:30 GMT).
-According to the tail number released by the Coast Guard, the plane belonged to Latitude Air Ambulances, a company that provides international medical flights for patients returning home.
-FlightAware's tracker shows the aircraft significantly dropped in altitude before its communications went dark, plummeting from around 7,300m (24,000ft) to 3,300m (11,000ft).`,
-    bodyJa: `Medical plane with 6 on board missing off Massachusetts coast
-- Published
-US authorities are searching for six people after a medical plane bound for Boston, Massachusetts went missing early Saturday morning.
-The Federal Aviation Administration told the BBC that it lost contact with the Gulfstream G-100 plane and put out a search and rescue notice just after 1:00 local time (6:00 GMT).
-An air and water search is underway off the coast of Nantucket, a Massachusetts island, according to the US Coast Guard's Northeast District.
-The plane departed from Bermuda's L.F. Wade International Airport at 23:40 local time, according to flight data from FlightAware, and was slated to land at Boston's Logan International at 1:30 EDT (6:30 GMT).
-According to the tail number released by the Coast Guard, the plane belonged to Latitude Air Ambulances, a company that provides international medical flights for patients returning home.
-FlightAware's tracker shows the aircraft significantly dropped in altitude before its communications went dark, plummeting from around 7,300m (24,000ft) to 3,300m (11,000ft).`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-03T15:56:14+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5084/live/3748e6a0-bf41-11f1-8acc-0bb5649ca116.jpg",
-    readTime: 3,
   },
 ];
 
