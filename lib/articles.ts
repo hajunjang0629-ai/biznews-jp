@@ -15,6 +15,536 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "anthropic-expands-claude-startups-progra-1eaac72b",
+    title: "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
+    titleJa: "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
+    summaryJa: "The expansion marks the AI company's latest push to deepen its ties to founders and fast-growing companies.",
+    bodyOriginal: `Anthropic on Tuesday announced it's expanding its Claude Startups program, the artificial intelligence lab's latest push to deepen its ties to founders and fast-growing companies.
+Claude Startups initially launched in May, and thousands of companies are already participating, according to Anthropic. The company is opening up the program to more organizations, and members will get access to thousands of dollars' worth of Anthropic's Claude products and credits to help them build.
+"Startups are often the first to push Claude to its limits," Beth Robertson, head of startups at Anthropic, told CNBC in a statement. "When a new model ships, they're ready that same day to take on projects that used to seem out of reach. Claude Startups gives founders credits, tools and direct time with our team, so more companies can build this way from the start."
+The vast majority of Anthropic's revenue comes from its business customers, and it has spent much of the last year trying to fend off rivals like OpenAI and Google, which both offer their own programs for startups. As it gears up for what is widely expected to be a blockbuster initial public offering, Anthropic is working to ensure that the next generation of businesses will be built using its products.
+Claude Startup members can receive up to $45,000 worth of discounts and credits through the Claude Startup Stack, which Anthropic described as a "set of benefits for the tools a startup runs on." Additionally, eligible organizations can access a one-time $1,000 application programming interface, or API, credit, as well as a free year of Claude Team for up to five premium seats.
+Anthropic said members can also meet with the company's applied AI team through virtual office hours and connect with other members of the Claude Startup community at events.
+Startups that were founded within the past five years or funded within the past two years are able to apply, Anthropic said.
+WATCH: Former FTC chief technologist Neil Chilson on agency probe into OpenAI, Anthropic`,
+    bodyJa: `Anthropic on Tuesday announced it's expanding its Claude Startups program, the artificial intelligence lab's latest push to deepen its ties to founders and fast-growing companies.
+Claude Startups initially launched in May, and thousands of companies are already participating, according to Anthropic. The company is opening up the program to more organizations, and members will get access to thousands of dollars' worth of Anthropic's Claude products and credits to help them build.
+"Startups are often the first to push Claude to its limits," Beth Robertson, head of startups at Anthropic, told CNBC in a statement. "When a new model ships, they're ready that same day to take on projects that used to seem out of reach. Claude Startups gives founders credits, tools and direct time with our team, so more companies can build this way from the start."
+The vast majority of Anthropic's revenue comes from its business customers, and it has spent much of the last year trying to fend off rivals like OpenAI and Google, which both offer their own programs for startups. As it gears up for what is widely expected to be a blockbuster initial public offering, Anthropic is working to ensure that the next generation of businesses will be built using its products.
+Claude Startup members can receive up to $45,000 worth of discounts and credits through the Claude Startup Stack, which Anthropic described as a "set of benefits for the tools a startup runs on." Additionally, eligible organizations can access a one-time $1,000 application programming interface, or API, credit, as well as a free year of Claude Team for up to five premium seats.
+Anthropic said members can also meet with the company's applied AI team through virtual office hours and connect with other members of the Claude Startup community at events.
+Startups that were founded within the past five years or funded within the past two years are able to apply, Anthropic said.
+WATCH: Former FTC chief technologist Neil Chilson on agency probe into OpenAI, Anthropic`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
+    publishedAt: "2026-10-06T18:06:40+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "asos-confirms-hackers-sent-unauthorised-ccf419a4",
+    title: "Asos confirms hackers sent 'unauthorised' notification to app users",
+    titleJa: "Asos confirms hackers sent 'unauthorised' notification to app users",
+    summaryJa: "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
+    bodyOriginal: `Asos confirms hackers sent 'unauthorised' notification to app users
+- Published
+Asos says it is investigating "unauthorised activity" involving third-party platforms it uses after customers received a notification from its app sent by hackers.
+Dozens of people told the BBC they received the strange "ASOS HACKED" message from the clothing and beauty store's app on Tuesday morning - with some saying it left them "scared" to open the app.
+The notification was addressed to the company's data protection officer and IT teams in what cyber security experts said looked like a "brazen" extortion attempt.
+Asos acknowledged the "unauthorised customer notification" on Tuesday afternoon, saying some "basic personal information" may have been accessed.
+In an email to customers on Tuesday night, the company apologised and urged customers not to engage with the notification. And it said the website and app are "operating as usual" promising customers they can "shop with confidence" while it investigates the incident.
+The company has not as of yet informed the UK's data watchdog, the Information Commission's Office (ICO), about any breach.
+Exactly how many Asos customers received the notification on Tuesday remains unclear, but Google's Play store says the ASOS app has been downloaded to android devices more than 10 million times.
+The British retailer has a substantial global footprint - serving around 17 million customers each year across more than 150 markets.
+Some Asos app users in Australia, France, Sweden and the Republic of Ireland had also received the notification, according to local reports on Tuesday.
+Hackers seeking to pile pressure on potential victims by informing their customers is rare, as most extortions happen in private, so this incident may go down as a significant moment in cyber-attack history.
+Shares in the company fell by around a tenth on Tuesday.
+Charlotte Wilson, head of enterprise at cyber-security firm Check Point, called it a "deeply serious" and "brazen" attack whereby the hackers had apparently "turned Asos' own app into their ransom note".
+But she told the BBC that Asos customers should not be "scared and frightened" - encouraging those worried to change their passwords, avoid clicking on the notification's link and be cautious about possible scam emails or texts.
+M&S cyber-attack disruption to last until July
+- Published21 May 2025
+Extortion message
+Users of the Asos app appeared to have received the alarming notification at around 10:00 BST on Tuesday.
+Headlined "ASOS HACKED" and addressed to the company's data protection officer and IT teams, it said: "We have fully compromised the Snowflake instance."
+"Engage with us, or we will leak it," it added, before linking to a Telegram channel.
+The message left many ASOS customers confused.
+"At first I thought it was an ad or a fun promotion like 'ASOS HACKED get 50% off everything for a limited time only'," Jodie, an analyst from Edinburgh, told the BBC.
+"Then I read the rest of the message which clearly showed that it wasn't an ad and instead a message to IT."
+"My main concern is that my information, such as bank information, home address, telephone number, has been compromised," said Erin, a student at the University of Sheffield.
+She told the BBC that while her friends have expressed similar concerns about a potential data leak, her sister did not receive the notification on the Asos app.
+"So the question is what is the extent? Are all customers affected even if they didn't get the notification? It's poor from Asos on all fronts."
+Asos said in its statement that it took "immediate action to restrict access to the notification platforms" on Tuesday - adding it was working with specialists within and outside the company, as well as relevant authorities.
+It said it does not believe payment-card information or account passwords were impacted, and that its site and app are "operating as normal".
+"Customer trust is incredibly important to us, and if the situation changes an update will be provided as appropriate," it said.
+The BBC understands the National Cyber Security Centre has offered assistance to Asos.
+Meanwhile Snowflake - whose tools are used by dozens of firms to collect, analyse and store data - told the BBC its investigation was ongoing, but it had so far found "no compromise" of its platform.
+The company's services have, however, been the subject of many high profile data breaches in recent years.
+According to cybersecurity expert Jen Ellis, Snowflake collects data from multiple sources for analysis, and an "enormous" firm like Asos will have lots of data about how people shop globally.
+However Dan Bird, from cybersecurity firm Horizon3, said the message implied the apparent hackers' access had gone beyond the Snowflake database.
+"Sending a push notification to Asos's app users would require access to the company's notification system, which is separate from the Snowflake data platform the attackers claim to have compromised," he said.
+"If both claims hold up, it suggests the attackers got hold of credentials that opened more than one door."
+What can I do to protect myself?
+The company has also shared a statement, external to the London Stock Exchange's Regulatory News Service, which provides updates to investors.
+Cybersecurity experts, including Ellis, have told the BBC those behind those behind this incident are most likely trying to "apply pressure" to Asos to meet their demands, rather than target its customers.
+While those who received this notification will undoubtedly be concerned, it is important to know that it does not mean your phone has been hacked.
+We are still waiting to find out exactly what "basic personal information" may have been impacted in this incident, if any.
+But for now, the advice is:
+Do not click on links in the notification
+Visit Asos's official website directly for updates
+Watch out for emails, texts or calls offering refunds, compensation or help with your account - scammers will exploit this type of incident when they know people are worried
+Try and use different passwords for your online services
+Enable two-step verification on email and banking accounts
+Keep an eye on your online transactions for anything unusual
+Additional reporting by Shiona McCallum, Chris Vallance and Alex Emery
+Get in touch
+Have you been affected by this hack?
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
+Related topics
+- Published30 September 2025`,
+    bodyJa: `Asos confirms hackers sent 'unauthorised' notification to app users
+- Published
+Asos says it is investigating "unauthorised activity" involving third-party platforms it uses after customers received a notification from its app sent by hackers.
+Dozens of people told the BBC they received the strange "ASOS HACKED" message from the clothing and beauty store's app on Tuesday morning - with some saying it left them "scared" to open the app.
+The notification was addressed to the company's data protection officer and IT teams in what cyber security experts said looked like a "brazen" extortion attempt.
+Asos acknowledged the "unauthorised customer notification" on Tuesday afternoon, saying some "basic personal information" may have been accessed.
+In an email to customers on Tuesday night, the company apologised and urged customers not to engage with the notification. And it said the website and app are "operating as usual" promising customers they can "shop with confidence" while it investigates the incident.
+The company has not as of yet informed the UK's data watchdog, the Information Commission's Office (ICO), about any breach.
+Exactly how many Asos customers received the notification on Tuesday remains unclear, but Google's Play store says the ASOS app has been downloaded to android devices more than 10 million times.
+The British retailer has a substantial global footprint - serving around 17 million customers each year across more than 150 markets.
+Some Asos app users in Australia, France, Sweden and the Republic of Ireland had also received the notification, according to local reports on Tuesday.
+Hackers seeking to pile pressure on potential victims by informing their customers is rare, as most extortions happen in private, so this incident may go down as a significant moment in cyber-attack history.
+Shares in the company fell by around a tenth on Tuesday.
+Charlotte Wilson, head of enterprise at cyber-security firm Check Point, called it a "deeply serious" and "brazen" attack whereby the hackers had apparently "turned Asos' own app into their ransom note".
+But she told the BBC that Asos customers should not be "scared and frightened" - encouraging those worried to change their passwords, avoid clicking on the notification's link and be cautious about possible scam emails or texts.
+M&S cyber-attack disruption to last until July
+- Published21 May 2025
+Extortion message
+Users of the Asos app appeared to have received the alarming notification at around 10:00 BST on Tuesday.
+Headlined "ASOS HACKED" and addressed to the company's data protection officer and IT teams, it said: "We have fully compromised the Snowflake instance."
+"Engage with us, or we will leak it," it added, before linking to a Telegram channel.
+The message left many ASOS customers confused.
+"At first I thought it was an ad or a fun promotion like 'ASOS HACKED get 50% off everything for a limited time only'," Jodie, an analyst from Edinburgh, told the BBC.
+"Then I read the rest of the message which clearly showed that it wasn't an ad and instead a message to IT."
+"My main concern is that my information, such as bank information, home address, telephone number, has been compromised," said Erin, a student at the University of Sheffield.
+She told the BBC that while her friends have expressed similar concerns about a potential data leak, her sister did not receive the notification on the Asos app.
+"So the question is what is the extent? Are all customers affected even if they didn't get the notification? It's poor from Asos on all fronts."
+Asos said in its statement that it took "immediate action to restrict access to the notification platforms" on Tuesday - adding it was working with specialists within and outside the company, as well as relevant authorities.
+It said it does not believe payment-card information or account passwords were impacted, and that its site and app are "operating as normal".
+"Customer trust is incredibly important to us, and if the situation changes an update will be provided as appropriate," it said.
+The BBC understands the National Cyber Security Centre has offered assistance to Asos.
+Meanwhile Snowflake - whose tools are used by dozens of firms to collect, analyse and store data - told the BBC its investigation was ongoing, but it had so far found "no compromise" of its platform.
+The company's services have, however, been the subject of many high profile data breaches in recent years.
+According to cybersecurity expert Jen Ellis, Snowflake collects data from multiple sources for analysis, and an "enormous" firm like Asos will have lots of data about how people shop globally.
+However Dan Bird, from cybersecurity firm Horizon3, said the message implied the apparent hackers' access had gone beyond the Snowflake database.
+"Sending a push notification to Asos's app users would require access to the company's notification system, which is separate from the Snowflake data platform the attackers claim to have compromised," he said.
+"If both claims hold up, it suggests the attackers got hold of credentials that opened more than one door."
+What can I do to protect myself?
+The company has also shared a statement, external to the London Stock Exchange's Regulatory News Service, which provides updates to investors.
+Cybersecurity experts, including Ellis, have told the BBC those behind those behind this incident are most likely trying to "apply pressure" to Asos to meet their demands, rather than target its customers.
+While those who received this notification will undoubtedly be concerned, it is important to know that it does not mean your phone has been hacked.
+We are still waiting to find out exactly what "basic personal information" may have been impacted in this incident, if any.
+But for now, the advice is:
+Do not click on links in the notification
+Visit Asos's official website directly for updates
+Watch out for emails, texts or calls offering refunds, compensation or help with your account - scammers will exploit this type of incident when they know people are worried
+Try and use different passwords for your online services
+Enable two-step verification on email and banking accounts
+Keep an eye on your online transactions for anything unusual
+Additional reporting by Shiona McCallum, Chris Vallance and Alex Emery
+Get in touch
+Have you been affected by this hack?
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
+Related topics
+- Published30 September 2025`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-06T17:50:19+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/384f/live/df1099d0-c169-11f1-a003-8be783290413.jpg",
+    readTime: 10,
+  },
+  {
+    id: "rebounding-oil-exports-through-strait-of-61d2b264",
+    title: "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
+    titleJa: "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
+    summaryJa: "Nearly 20 commercial ships, mostly tankers, have come under attack over the past month while sailing through the Hormuz choke point.",
+    bodyOriginal: `Iran has stepped up its attacks on tankers transiting the Strait of Hormuz, threatening a fragile rebound of crude oil exports from the Persian Gulf.
+Nearly 20 commercial ships, mostly tankers, have come under attack over the past month while sailing through Hormuz, the Persian Gulf or off the coast of Oman, according to the Joint Maritime Information Center, a group of U.S.-allied militaries that provide security updates to merchant vessels.
+Iran attacked roughly two ships for every 100 vessels that crossed the strait in the third quarter, said Michelle Wiese Bockmann, senior maritime intelligence analyst at Windward, which tracks ships for defense departments and governments.
+Oil flows through Hormuz now depend on a major U.S. military commitment to protect tankers transiting along a southern route along the coast of Oman.
+With the security situation in Hormuz still dangerous, it is unclear how long the rebound in crude exports can be sustained in the absence of a negotiated settlement or capitulation by Tehran.
+Shuttle system
+In many cases, tankers are bringing crude through Hormuz and then transferring the oil onto ships in the Gulf of Oman that haul it to Asia. This shuttle system reduces the exposure to attack from Iran but also requires more vessels to move the oil.
+"Nobody in Washington thinks this is sustainable financially," said Bob McNally, president of Rapidan Energy and a former energy advisor to President George W. Bush, referring to the U.S. military commitment in the Gulf, ship-to-ship transfers and heightened tanker rates. "It's an inefficient way to move commodities, not just oil, out of Hormuz," McNally said.
+Crude oil shipments through Hormuz fluctuate daily, sometimes matching or even exceeding levels before the Iran war, according to data from Kpler, a firm that tracks tankers and global trade flows.
+At other times, exports are lower than volumes seen before the conflict. Shipments averaged about 10.3 million barrels per day for the week ended Saturday, about 23% below a prewar baseline of 13.5 million bpd, according to Kpler data published Monday.
+Windward estimates crude through Hormuz is averaging 9-10 million bpd compared with a prewar baseline of 14.5 million bpd.
+While crude flows are volatile, they have ramped up compared with earlier in the war as the U.S. military has successfully carved out the shipping route along Oman's coast, analysts say.
+High costs
+But shippers are ferrying crude through Hormuz at high cost to the lives of their crews and in freight and insurance rates, Bockmann said. Since July, at least nine sailors have died, 18 injured and three are missing, according to the International Maritime Organization, a United Nations agency.
+"Volumes are getting through but they're getting through at a time of extremely high maritime risk," Bockmann said. As security has deteriorated, the cost of shipping crude from the Persian Gulf to China has skyrocketed to $1 million per day for each tanker.
+"Oil flows have recovered because the market participants have accepted greater operational complexity and higher costs," said Richard Meade, editor in chief of Lloyd's List, a London-based maritime industry trade publication, in a briefing last Thursday.
+But the threat to tankers remains the same, Meade said. Brent oil prices, the international benchmark, are still hovering near $100 per barrel, even as more crude makes it out of Hormuz.
+"If the market believed that this was sustainable, I think you would be seeing much lower prices," McNally at Rapidan said. Prices remain high because "it's still costly to deliver and insure and land crude in consuming regions where benchmark prices are set," he said.
+And while more oil is getting out, freedom of navigation in Hormuz has not been restored, McNally said. Tehran continues to insist that it controls the strait.
+Iran's Revolutionary Guard on Monday hailed down a tanker transiting the strait and ordered the ship to turn around or face attack, according to an incident report from the United Kingdom Maritime Trade Operations Centre. The vessel complied.
+"The oil market is not becoming more secure," Meade said. "It is becoming more efficient at operating under sustained insecurity."`,
+    bodyJa: `Iran has stepped up its attacks on tankers transiting the Strait of Hormuz, threatening a fragile rebound of crude oil exports from the Persian Gulf.
+Nearly 20 commercial ships, mostly tankers, have come under attack over the past month while sailing through Hormuz, the Persian Gulf or off the coast of Oman, according to the Joint Maritime Information Center, a group of U.S.-allied militaries that provide security updates to merchant vessels.
+Iran attacked roughly two ships for every 100 vessels that crossed the strait in the third quarter, said Michelle Wiese Bockmann, senior maritime intelligence analyst at Windward, which tracks ships for defense departments and governments.
+Oil flows through Hormuz now depend on a major U.S. military commitment to protect tankers transiting along a southern route along the coast of Oman.
+With the security situation in Hormuz still dangerous, it is unclear how long the rebound in crude exports can be sustained in the absence of a negotiated settlement or capitulation by Tehran.
+Shuttle system
+In many cases, tankers are bringing crude through Hormuz and then transferring the oil onto ships in the Gulf of Oman that haul it to Asia. This shuttle system reduces the exposure to attack from Iran but also requires more vessels to move the oil.
+"Nobody in Washington thinks this is sustainable financially," said Bob McNally, president of Rapidan Energy and a former energy advisor to President George W. Bush, referring to the U.S. military commitment in the Gulf, ship-to-ship transfers and heightened tanker rates. "It's an inefficient way to move commodities, not just oil, out of Hormuz," McNally said.
+Crude oil shipments through Hormuz fluctuate daily, sometimes matching or even exceeding levels before the Iran war, according to data from Kpler, a firm that tracks tankers and global trade flows.
+At other times, exports are lower than volumes seen before the conflict. Shipments averaged about 10.3 million barrels per day for the week ended Saturday, about 23% below a prewar baseline of 13.5 million bpd, according to Kpler data published Monday.
+Windward estimates crude through Hormuz is averaging 9-10 million bpd compared with a prewar baseline of 14.5 million bpd.
+While crude flows are volatile, they have ramped up compared with earlier in the war as the U.S. military has successfully carved out the shipping route along Oman's coast, analysts say.
+High costs
+But shippers are ferrying crude through Hormuz at high cost to the lives of their crews and in freight and insurance rates, Bockmann said. Since July, at least nine sailors have died, 18 injured and three are missing, according to the International Maritime Organization, a United Nations agency.
+"Volumes are getting through but they're getting through at a time of extremely high maritime risk," Bockmann said. As security has deteriorated, the cost of shipping crude from the Persian Gulf to China has skyrocketed to $1 million per day for each tanker.
+"Oil flows have recovered because the market participants have accepted greater operational complexity and higher costs," said Richard Meade, editor in chief of Lloyd's List, a London-based maritime industry trade publication, in a briefing last Thursday.
+But the threat to tankers remains the same, Meade said. Brent oil prices, the international benchmark, are still hovering near $100 per barrel, even as more crude makes it out of Hormuz.
+"If the market believed that this was sustainable, I think you would be seeing much lower prices," McNally at Rapidan said. Prices remain high because "it's still costly to deliver and insure and land crude in consuming regions where benchmark prices are set," he said.
+And while more oil is getting out, freedom of navigation in Hormuz has not been restored, McNally said. Tehran continues to insist that it controls the strait.
+Iran's Revolutionary Guard on Monday hailed down a tanker transiting the strait and ordered the ship to turn around or face attack, according to an incident report from the United Kingdom Maritime Trade Operations Centre. The vessel complied.
+"The oil market is not becoming more secure," Meade said. "It is becoming more efficient at operating under sustained insecurity."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
+    publishedAt: "2026-10-06T16:19:10+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "paramount-takes-over-warner-bros-in-110b-83d01158",
+    title: "Paramount takes over Warner Bros in $110bn Hollywood merger",
+    titleJa: "Paramount takes over Warner Bros in $110bn Hollywood merger",
+    summaryJa: "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
+    bodyOriginal: `Paramount takes over Warner Bros in $110bn Hollywood merger
+- Published
+Paramount Skydance has officially taken over Warner Bros Discovery in a $110bn merger that is set to reshape Hollywood and the media landscape.
+The takeover - merging two of the biggest studios in Los Angeles - comes after months of legal disputes and widespread criticism over feared cuts and consolidation could harm competition and consumers.
+It will alter streaming for millions, usher in a new chapter in the film and TV industry, and leave one of the biggest US news outlets, CNN, in uncertain territory.
+The merger will also bring together a host of entities including HBO, CBS, Nickelodeon, Showtime, Comedy Central, DC Studios and Food Network.
+Paramount will acquire ownership of iconic franchises that include Harry Potter, Game of Thrones, The Lord of the Rings to add to its existing catalogue of hit franchises which includes Indiana Jones, Mission: Impossible and Shrek.
+The newly merged entertainment behemoth will be re-branded under the name Skydance Corporation, the company originally founded by David Ellison before he took over both Paramount and Warner Bros Discover.
+Ellison, chairman and chief executive of Skydance, said the completion of the deal was "historic" for the film industry.
+"From the start, our ambition was to bring these two storied studios together and create a stronger competitor, with the talent, resources, and reach to tell great stories in every genre, on every platform, for audiences everywhere. Now that ambition is a reality," he said.
+Films and streaming prices - how the Warner Bros deal could affect you
+- Published5 hours ago
+Last week, Ellison named the outgoing chief executive of Mattel, Ynon Kreiz, as co-chief executive.
+Kreiz will focus on the company's day-to-day operations, including integrating the newly-combined businesses, while Ellison will focus on strategy and technology.
+Mark Thompson - who once served as director general of the BBC - will continue in his role as chairman and editor-in-chief of CNN Worldwide, while Bari Weiss remains editor-in-chief of CBS News.
+Casey Bloys, who has lead HBO and Max Content, will be the co-chair and chief content officer for direct-to-consumer content.
+Mike Proulx, research director at Forrester Research, said that change "essentially means the HBO leadership team is now in charge of Skydance's combined streaming operation".
+"While that bodes well for the HBO brand, make no mistake, Bloys will be pressured to find and deliver cost efficiencies that could affect content quality," he warned.
+Dan Coatsworth, head of markets at AJ Bell, said the company has high debts at a time when interest rates are high.
+"The combined entity, now called Skydance, needs to cut costs and make bigger profits to be able to get the debt down to more manageable levels," he said.
+"The fact Tom Cruise movie Digger, Warner Bros' last release before the merger, has been a major flop is a reminder of how the film industry is not a guaranteed ticket to riches."
+Rocky path to merger
+While the company said it had received unanimous approval from competition authorities across the world, the long running takeover process has featured controversy since the beginning.
+Netflix initially had a deal to buy part of Warner Bros Discovery, but Paramount Skydance launched a bidding war, leading to the streaming giant walking away.
+Lawyers in about a dozen US states then filed lawsuits - led by California - aiming to block the deal, arguing it would stifle competition, raise consumer prices and cause "substantial" harm to movie theatres, cable distributors and "ultimately, audiences nationwide".
+US states announced a settlement with Paramount and Ellison last month which paved the way for the merger to go ahead.
+As part of the deal, Paramount has agreed to establish a "news editorial independence board" to "ensure independent, objective, fact-based reporting" at CNN and CBS.
+Politics and editorial independence has become an area of concern at CBS since the news broadcaster was taken over in 2025 as part of separate a merger between Skydance Media and Paramount.
+Ellison, who hosted a dinner for President Donald Trump earlier this year, has sought to reassure people that editorial independence will be maintained.
+Over its 103-year-old history, Warner Bros has won more than 100 Academy Awards - including dominating at last year's show with a record-tying 11 Oscars for One Battle After Another, Sinners and Weapons.
+Paramount traces its roots back 1912 and also boasts more than 100 Oscars for classics spanning from The Godfather to Titanic, though the studio has not mirrored the same recent spate of Hollywood honours.
+The studio was not nominated for any projects last year by the Academy. Its last win came in 2022 with Top Gun: Maverick.
+The deal with US states aims to ensure the merged studios will produce "real, robust movies" that will generate economic activity and put people back to work, said California Attorney General Rob Bonta, who led the lawsuit and settlement.
+To prevent the studio from fulfilling its annual quota with low-budget or automated content, the deal includes strict guardrails against "AI-generated" films.
+As part of the agreement, Paramount must release at least 30 films each year. If it fails to meet its annual production quota, it will be forced to sell its 49% stake in Miramax, the film company founded by disgraced Hollywood mogul Harvey Weinstein and his brother Bob.
+Paramount also must ensure 20% of all film production takes place in the US for the first two years, rising to more than 30% through the following three years.
+Get in touch
+Are you affected by issues covered in this story? Share your experiences.`,
+    bodyJa: `Paramount takes over Warner Bros in $110bn Hollywood merger
+- Published
+Paramount Skydance has officially taken over Warner Bros Discovery in a $110bn merger that is set to reshape Hollywood and the media landscape.
+The takeover - merging two of the biggest studios in Los Angeles - comes after months of legal disputes and widespread criticism over feared cuts and consolidation could harm competition and consumers.
+It will alter streaming for millions, usher in a new chapter in the film and TV industry, and leave one of the biggest US news outlets, CNN, in uncertain territory.
+The merger will also bring together a host of entities including HBO, CBS, Nickelodeon, Showtime, Comedy Central, DC Studios and Food Network.
+Paramount will acquire ownership of iconic franchises that include Harry Potter, Game of Thrones, The Lord of the Rings to add to its existing catalogue of hit franchises which includes Indiana Jones, Mission: Impossible and Shrek.
+The newly merged entertainment behemoth will be re-branded under the name Skydance Corporation, the company originally founded by David Ellison before he took over both Paramount and Warner Bros Discover.
+Ellison, chairman and chief executive of Skydance, said the completion of the deal was "historic" for the film industry.
+"From the start, our ambition was to bring these two storied studios together and create a stronger competitor, with the talent, resources, and reach to tell great stories in every genre, on every platform, for audiences everywhere. Now that ambition is a reality," he said.
+Films and streaming prices - how the Warner Bros deal could affect you
+- Published5 hours ago
+Last week, Ellison named the outgoing chief executive of Mattel, Ynon Kreiz, as co-chief executive.
+Kreiz will focus on the company's day-to-day operations, including integrating the newly-combined businesses, while Ellison will focus on strategy and technology.
+Mark Thompson - who once served as director general of the BBC - will continue in his role as chairman and editor-in-chief of CNN Worldwide, while Bari Weiss remains editor-in-chief of CBS News.
+Casey Bloys, who has lead HBO and Max Content, will be the co-chair and chief content officer for direct-to-consumer content.
+Mike Proulx, research director at Forrester Research, said that change "essentially means the HBO leadership team is now in charge of Skydance's combined streaming operation".
+"While that bodes well for the HBO brand, make no mistake, Bloys will be pressured to find and deliver cost efficiencies that could affect content quality," he warned.
+Dan Coatsworth, head of markets at AJ Bell, said the company has high debts at a time when interest rates are high.
+"The combined entity, now called Skydance, needs to cut costs and make bigger profits to be able to get the debt down to more manageable levels," he said.
+"The fact Tom Cruise movie Digger, Warner Bros' last release before the merger, has been a major flop is a reminder of how the film industry is not a guaranteed ticket to riches."
+Rocky path to merger
+While the company said it had received unanimous approval from competition authorities across the world, the long running takeover process has featured controversy since the beginning.
+Netflix initially had a deal to buy part of Warner Bros Discovery, but Paramount Skydance launched a bidding war, leading to the streaming giant walking away.
+Lawyers in about a dozen US states then filed lawsuits - led by California - aiming to block the deal, arguing it would stifle competition, raise consumer prices and cause "substantial" harm to movie theatres, cable distributors and "ultimately, audiences nationwide".
+US states announced a settlement with Paramount and Ellison last month which paved the way for the merger to go ahead.
+As part of the deal, Paramount has agreed to establish a "news editorial independence board" to "ensure independent, objective, fact-based reporting" at CNN and CBS.
+Politics and editorial independence has become an area of concern at CBS since the news broadcaster was taken over in 2025 as part of separate a merger between Skydance Media and Paramount.
+Ellison, who hosted a dinner for President Donald Trump earlier this year, has sought to reassure people that editorial independence will be maintained.
+Over its 103-year-old history, Warner Bros has won more than 100 Academy Awards - including dominating at last year's show with a record-tying 11 Oscars for One Battle After Another, Sinners and Weapons.
+Paramount traces its roots back 1912 and also boasts more than 100 Oscars for classics spanning from The Godfather to Titanic, though the studio has not mirrored the same recent spate of Hollywood honours.
+The studio was not nominated for any projects last year by the Academy. Its last win came in 2022 with Top Gun: Maverick.
+The deal with US states aims to ensure the merged studios will produce "real, robust movies" that will generate economic activity and put people back to work, said California Attorney General Rob Bonta, who led the lawsuit and settlement.
+To prevent the studio from fulfilling its annual quota with low-budget or automated content, the deal includes strict guardrails against "AI-generated" films.
+As part of the agreement, Paramount must release at least 30 films each year. If it fails to meet its annual production quota, it will be forced to sell its 49% stake in Miramax, the film company founded by disgraced Hollywood mogul Harvey Weinstein and his brother Bob.
+Paramount also must ensure 20% of all film production takes place in the US for the first two years, rising to more than 30% through the following three years.
+Get in touch
+Are you affected by issues covered in this story? Share your experiences.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-06T16:01:11+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e88/live/f4495f40-c136-11f1-bcd8-493e192378a4.jpg",
+    readTime: 10,
+  },
+  {
+    id: "trade-deficit-hits-105-6-billion-widest-4c5b02eb",
+    title: "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
+    titleJa: "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
+    summaryJa: "That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
+    bodyOriginal: `The U.S. trade deficit widened sharply in August amid an influx of goods related to the artificial intelligence build-out and the vagaries of import tariffs, the Commerce Department reported Tuesday.
+Imports swelled 4.3% for the month, pushing the total imbalance to $105.6 billion. That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.
+It also was the steepest deficit since the all-time gap in March 2025, recorded just before President Donald Trump's "liberation day" announcement of "reciprocal" tariffs against U.S. trading partners.
+Though the monthly total was up, the year-to-date deficit of $138.2 billion was off nearly 20% from the same period a year ago.
+"Rising prices overstate the moves, but nonetheless net trade is set to drag on Q3 GDP growth," said Oren Klachkin, financial economist at Nationwide. "We see this as a sign of strong domestic demand, not economic weakness."
+Imports as a rule generally subtract from gross domestic product calculations. However, if the imports reflect stronger demand and consumption, they can be offset elsewhere.
+Nevertheless, Goldman Sachs cut its tracking estimate for third-quarter economic growth to 3.1%, down 0.3 percentage point from its prior estimate. The Atlanta Federal Reserve's GDPNow tracker lowered its estimate to 3.7% following the trade report, down 0.1 percentage point from the last update.`,
+    bodyJa: `The U.S. trade deficit widened sharply in August amid an influx of goods related to the artificial intelligence build-out and the vagaries of import tariffs, the Commerce Department reported Tuesday.
+Imports swelled 4.3% for the month, pushing the total imbalance to $105.6 billion. That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.
+It also was the steepest deficit since the all-time gap in March 2025, recorded just before President Donald Trump's "liberation day" announcement of "reciprocal" tariffs against U.S. trading partners.
+Though the monthly total was up, the year-to-date deficit of $138.2 billion was off nearly 20% from the same period a year ago.
+"Rising prices overstate the moves, but nonetheless net trade is set to drag on Q3 GDP growth," said Oren Klachkin, financial economist at Nationwide. "We see this as a sign of strong domestic demand, not economic weakness."
+Imports as a rule generally subtract from gross domestic product calculations. However, if the imports reflect stronger demand and consumption, they can be offset elsewhere.
+Nevertheless, Goldman Sachs cut its tracking estimate for third-quarter economic growth to 3.1%, down 0.3 percentage point from its prior estimate. The Atlanta Federal Reserve's GDPNow tracker lowered its estimate to 3.7% following the trade report, down 0.1 percentage point from the last update.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
+    publishedAt: "2026-10-06T15:52:22+00:00",
+    category: "貿易",
+    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "nhs-supply-lorry-drivers-to-strike-in-pa-0792d123",
+    title: "NHS supply lorry drivers to strike in pay dispute",
+    titleJa: "NHS supply lorry drivers to strike in pay dispute",
+    summaryJa: "Drivers who deliver medical equipment to hospitals across England reject a 4% pay increase.",
+    bodyOriginal: `NHS supply lorry drivers to strike in pay dispute
+- Published
+NHS supply lorry drivers are set for a series of strikes in a dispute over pay.
+Drivers employed by GXO in Tyne and Wear, Derbyshire, Yorkshire, Kent, Warwickshire and Suffolk will stage five walkouts from October 13-15, 20-22, 27-29 and November 3-5 and 10-12, Unite said.
+Union members have rejected a 4% pay offer from GXO, which runs the NHS supply chain contract for Supply Chain Coordination Limited (SCCL), and is wholly owned by NHS England.
+Unite regional officer Phil Silkstone said: "There is still time for strike action to be avoided but that will require a deal our members can accept." NHS Supply Chain and GXO said they had "robust contingency plans" in place to minimise disruption.
+Drivers deliver general equipment such as bandages, dressings, gowns, gloves and needles to hospitals across England.
+Silkstone described them as "dedicated workers" and said GXO had refused to put forward a reasonable offer.
+NHS Supply Chain and GXO said they were aware Unite members had voted in favour of industrial action. GXO said it believed the 4% pay offer was fair.
+A spokesperson for GXO said: "Patient care remains of paramount importance, and we remain focused on providing a safe and effective operation throughout this period."
+Depots where strike action is due to take place are in Alfreton in Derbyshire, Bridgwater in Somerset, Normanton in West Yorkshire, Maidstone in Kent, Rugby in Warwickshire, Bury St Edmonds in Suffolk and Washington in Tyne and Wear.
+Follow BBC Sunderland on X, external, Facebook, external, Nextdoor and Instagram, external and listen on BBC Sounds.
+Get in touch
+Do you have a story suggestion for BBC Wear?
+Related stories
+- Published6 July
+- Published29 June`,
+    bodyJa: `NHS supply lorry drivers to strike in pay dispute
+- Published
+NHS supply lorry drivers are set for a series of strikes in a dispute over pay.
+Drivers employed by GXO in Tyne and Wear, Derbyshire, Yorkshire, Kent, Warwickshire and Suffolk will stage five walkouts from October 13-15, 20-22, 27-29 and November 3-5 and 10-12, Unite said.
+Union members have rejected a 4% pay offer from GXO, which runs the NHS supply chain contract for Supply Chain Coordination Limited (SCCL), and is wholly owned by NHS England.
+Unite regional officer Phil Silkstone said: "There is still time for strike action to be avoided but that will require a deal our members can accept." NHS Supply Chain and GXO said they had "robust contingency plans" in place to minimise disruption.
+Drivers deliver general equipment such as bandages, dressings, gowns, gloves and needles to hospitals across England.
+Silkstone described them as "dedicated workers" and said GXO had refused to put forward a reasonable offer.
+NHS Supply Chain and GXO said they were aware Unite members had voted in favour of industrial action. GXO said it believed the 4% pay offer was fair.
+A spokesperson for GXO said: "Patient care remains of paramount importance, and we remain focused on providing a safe and effective operation throughout this period."
+Depots where strike action is due to take place are in Alfreton in Derbyshire, Bridgwater in Somerset, Normanton in West Yorkshire, Maidstone in Kent, Rugby in Warwickshire, Bury St Edmonds in Suffolk and Washington in Tyne and Wear.
+Follow BBC Sunderland on X, external, Facebook, external, Nextdoor and Instagram, external and listen on BBC Sounds.
+Get in touch
+Do you have a story suggestion for BBC Wear?
+Related stories
+- Published6 July
+- Published29 June`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ckqxnwev78dro?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-06T13:43:15+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ea/live/34138a30-c17b-11f1-9d3f-57ff54fad936.jpg",
+    readTime: 4,
+  },
+  {
+    id: "from-films-to-streaming-prices-how-the-w-e06f4f9a",
+    title: "From films to streaming prices - how the Warner Bros deal could affect you",
+    titleJa: "From films to streaming prices - how the Warner Bros deal could affect you",
+    summaryJa: "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
+    bodyOriginal: `From films to streaming prices - how the Warner Bros deal could affect you
+- Published
+It has been months in the making but Paramount Skydance has finally completed its $110bn (£82.8bn) merger with Warner Bros Discovery.
+The deal welds two legacy Hollywood powerhouses, uniting franchises like Harry Potter and Game of Thrones, into an entertainment behemoth named Skydance.
+Yet behind this milestone lies strict rules about what the combined business can and cannot do - from how many films it must produce a year to the editorial independence of its newsroom.
+Here are four ways this could affect you and the movies, TV and news you watch.
+1. Streaming prices may rise
+Warner Bros owns HBO Max, home to The Sopranos, House of the Dragon and Euphoria among others. Meanwhile, Paramount Skydance has Paramount+, which streams the likes of Yellowstone, Parks and Recreation and NCIS.
+Combining HBO Max and Paramount+ into a single platform or bundle will likely squeeze subscribers' wallets over time.
+While existing subscribers to both might enjoy short-term savings, analysts expect overall prices to rise as the combined giant seeks profitability.
+The merged company, Skydance, carries a massive $80bn in debt from the deal, even as executives target $6bn in annual cost savings.
+Mike Proulx, research director at Forrester Research, said viewers will undoubtedly get access to a bigger catalog.
+But he told the BBC: "There's no way that a combined Paramount+ and HBO Max streaming service won't end up costing more for those who subscribe to only one of the services."
+2. More film releases
+As part of a settlement deal with US states who had objected to the merger, Paramount Skydance has agreed to release a set number of films every year for the next five years.
+For the first two years, that's 30 movies annually, and for the remaining period it has to release 32 films each year.
+That's 156 movies in total - and the majority have to be "wide releases," meaning they must to be shown in cinemas.
+The merged studio must also release at least four independent films each year.
+If Skydance misses its movie quota, it could be forced to sell its 49% stake in Miramax – the studio co-founded by disgraced Hollywood mogul Harvey Weinstein.
+Breanne Gilliam, a corporate lawyer at Maddin Hauser, said the film commitment is meaningful, even if it comes with an expiration date.
+"Once those obligations expire, the company will have far more flexibility," she said.
+"Temporary rules cannot permanently fix a structural market shift".
+Once the five-year deal ends, Skydance could follow rivals like Disney and Netflix by prioritizing streaming over cinema.
+As Disney's $71bn buyout of 21st Century Fox in 2019 proved, mega-deals can lead to fewer films in cinemas.
+Before the acquisition, 20th Century Fox routinely released 12 to 17 movies annually in theatres, but under Disney that slate scaled down to just three to six a year.
+3. Hollywood jobs could be hit
+For those working behind the scenes, the merger of two historic studios has been described as a "disaster" by those on the ground.
+Actors and writers recently gathered at Paramount Studios in Los Angeles to oppose the deal, accusing regulators of failing to protect industry livelihoods.
+Criminal Minds star Kirsten Vangsness told the BBC she was "heartbroken".
+"It's people that make this city," she said. "It's people that make entertainment, it's the everyday creatives that this industry is built on - this is who it hurts."
+A report by consultancy CVL Economics for LA County estimated the merger could eliminate roughly 4,500 direct film and TV jobs, while causing $1.26bn in lost wages over three years.
+The blow could hit a region that has already lost roughly a third of its film and TV workforce, about 50,000 jobs, since 2022.
+Syleecia Thompson, a business professor at National University, said that "it hits small businesses, vendors, caterers and local communities".
+She warned that Hollywood may become less of a "single location" and more of a "dispersed network."
+Although the settlement establishes a workforce fund to retrain displaced workers, lawyers note it does not block job cuts.
+"Nothing in the settlement limits layoffs," attorney Gilliam added.
+4. CNN and CBS could change
+To address concerns over journalistic independence at CNN and CBS, the settlement creates a news editorial independence board that will be appointed directly by Paramount.
+The $110bn deal brings two major US television news operations under a single corporate roof. Before the deal, Paramount owned CBS News, and Warner Bros. owned CNN.
+Both networks have faced intense political pressure - CNN was one of a handful of news organisations banned from the White House by President Donald Trump - as well as leadership shifts amid broader industry consolidation.
+Paramount chief executive David Ellison has asked CNN boss Mark Thompson - the former director general of the BBC - to remain at the helm after the takeover closes. CBS News's editor-in-chief Bari Weiss will remain in her role.
+Yet as Paramount targets billions in cost cuts across the merged company, staff fear the consolidation will trigger significant job losses at CNN and CBS.
+Beyond potential workforce reductions, media advocates and legal experts remain deeply skeptical about whether it can ensure newsroom freedom.
+Seth Stern, chief of advocacy at Freedom of the Press Foundation, described the Paramount-appointed board as "worthless".
+"The board creates the same First Amendment problems it claims to solve, the government meddling in news," Stern said.
+Gilliam agrees paper promises mean little without real authority. "An oversight board only has as much power as the agreement gives it. Oversight without authority is just observation," she said.
+Get in touch
+Are you affected by issues covered in this story? Share your experiences.`,
+    bodyJa: `From films to streaming prices - how the Warner Bros deal could affect you
+- Published
+It has been months in the making but Paramount Skydance has finally completed its $110bn (£82.8bn) merger with Warner Bros Discovery.
+The deal welds two legacy Hollywood powerhouses, uniting franchises like Harry Potter and Game of Thrones, into an entertainment behemoth named Skydance.
+Yet behind this milestone lies strict rules about what the combined business can and cannot do - from how many films it must produce a year to the editorial independence of its newsroom.
+Here are four ways this could affect you and the movies, TV and news you watch.
+1. Streaming prices may rise
+Warner Bros owns HBO Max, home to The Sopranos, House of the Dragon and Euphoria among others. Meanwhile, Paramount Skydance has Paramount+, which streams the likes of Yellowstone, Parks and Recreation and NCIS.
+Combining HBO Max and Paramount+ into a single platform or bundle will likely squeeze subscribers' wallets over time.
+While existing subscribers to both might enjoy short-term savings, analysts expect overall prices to rise as the combined giant seeks profitability.
+The merged company, Skydance, carries a massive $80bn in debt from the deal, even as executives target $6bn in annual cost savings.
+Mike Proulx, research director at Forrester Research, said viewers will undoubtedly get access to a bigger catalog.
+But he told the BBC: "There's no way that a combined Paramount+ and HBO Max streaming service won't end up costing more for those who subscribe to only one of the services."
+2. More film releases
+As part of a settlement deal with US states who had objected to the merger, Paramount Skydance has agreed to release a set number of films every year for the next five years.
+For the first two years, that's 30 movies annually, and for the remaining period it has to release 32 films each year.
+That's 156 movies in total - and the majority have to be "wide releases," meaning they must to be shown in cinemas.
+The merged studio must also release at least four independent films each year.
+If Skydance misses its movie quota, it could be forced to sell its 49% stake in Miramax – the studio co-founded by disgraced Hollywood mogul Harvey Weinstein.
+Breanne Gilliam, a corporate lawyer at Maddin Hauser, said the film commitment is meaningful, even if it comes with an expiration date.
+"Once those obligations expire, the company will have far more flexibility," she said.
+"Temporary rules cannot permanently fix a structural market shift".
+Once the five-year deal ends, Skydance could follow rivals like Disney and Netflix by prioritizing streaming over cinema.
+As Disney's $71bn buyout of 21st Century Fox in 2019 proved, mega-deals can lead to fewer films in cinemas.
+Before the acquisition, 20th Century Fox routinely released 12 to 17 movies annually in theatres, but under Disney that slate scaled down to just three to six a year.
+3. Hollywood jobs could be hit
+For those working behind the scenes, the merger of two historic studios has been described as a "disaster" by those on the ground.
+Actors and writers recently gathered at Paramount Studios in Los Angeles to oppose the deal, accusing regulators of failing to protect industry livelihoods.
+Criminal Minds star Kirsten Vangsness told the BBC she was "heartbroken".
+"It's people that make this city," she said. "It's people that make entertainment, it's the everyday creatives that this industry is built on - this is who it hurts."
+A report by consultancy CVL Economics for LA County estimated the merger could eliminate roughly 4,500 direct film and TV jobs, while causing $1.26bn in lost wages over three years.
+The blow could hit a region that has already lost roughly a third of its film and TV workforce, about 50,000 jobs, since 2022.
+Syleecia Thompson, a business professor at National University, said that "it hits small businesses, vendors, caterers and local communities".
+She warned that Hollywood may become less of a "single location" and more of a "dispersed network."
+Although the settlement establishes a workforce fund to retrain displaced workers, lawyers note it does not block job cuts.
+"Nothing in the settlement limits layoffs," attorney Gilliam added.
+4. CNN and CBS could change
+To address concerns over journalistic independence at CNN and CBS, the settlement creates a news editorial independence board that will be appointed directly by Paramount.
+The $110bn deal brings two major US television news operations under a single corporate roof. Before the deal, Paramount owned CBS News, and Warner Bros. owned CNN.
+Both networks have faced intense political pressure - CNN was one of a handful of news organisations banned from the White House by President Donald Trump - as well as leadership shifts amid broader industry consolidation.
+Paramount chief executive David Ellison has asked CNN boss Mark Thompson - the former director general of the BBC - to remain at the helm after the takeover closes. CBS News's editor-in-chief Bari Weiss will remain in her role.
+Yet as Paramount targets billions in cost cuts across the merged company, staff fear the consolidation will trigger significant job losses at CNN and CBS.
+Beyond potential workforce reductions, media advocates and legal experts remain deeply skeptical about whether it can ensure newsroom freedom.
+Seth Stern, chief of advocacy at Freedom of the Press Foundation, described the Paramount-appointed board as "worthless".
+"The board creates the same First Amendment problems it claims to solve, the government meddling in news," Stern said.
+Gilliam agrees paper promises mean little without real authority. "An oversight board only has as much power as the agreement gives it. Oversight without authority is just observation," she said.
+Get in touch
+Are you affected by issues covered in this story? Share your experiences.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-06T13:00:54+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed6f/live/020cc800-c1a6-11f1-bc2e-018d645d8d21.jpg",
+    readTime: 10,
+  },
+  {
+    id: "lego-fraudster-among-last-year-s-most-hi-d293c116",
+    title: "Lego fraudster among last year's most high-profile insurance scammers",
+    titleJa: "Lego fraudster among last year's most high-profile insurance scammers",
+    summaryJa: "The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said.",
+    bodyOriginal: `Lego fraudster among last year's most high-profile insurance scammers
+- Published
+A scammer jailed for making false home insurance claims about supposedly stolen Lego has been listed as one of last year's most high-profile insurance fraudsters.
+The person was sentenced to 28 months in prison after an investigation found the claims were made up, insurance trade body the ABI said.
+Other insurance fraud cases flagged by the ABI include someone who staged car crashes with people they met online and a complex travel insurance scam involving multiple fake identities and documents.
+The average value of a fraudulent claim reached £14,300 last year, the second-highest level on record, the ABI said.
+There were £1.34bn worth of fraudulent claims in 2025, a 14% increase on the £1.18bn detected the previous year.
+At the same time, the number of detected fraudulent claims fell slightly to 93,900, down 2.7% on 2024.
+Mark Allen, head of fraud and financial crime at the ABI, said: "Although the rate of detected insurance fraud fell slightly last year, our data shows that fraudsters are targeting much bigger payouts.
+"As emerging technologies such as AI become more widely available, fraudsters will continue to look for new ways to exploit them."
+Det Ch Insp Simon Klust, head of the Insurance Fraud Enforcement Department (IFED) at the City of London Police, said: "Insurance fraud is not a victimless crime and those who commit it increase the cost of premiums for honest customers."
+He added that the 250 cases a day detected by the ABI last year were "unfortunately likely to be just the tip of the iceberg".
+Macbooks, fishing equipment and Lego sets
+One of the most notable fraudsters identified by the ABI last year was a man found by IFED to have fabricated reports of stolen high-value Lego sets, external.
+The man's scam claims to Axa Insurance during 2021 and 2022 also included other high-value items such as MacBooks, televisions, gaming consoles and fishing equipment, IFED said.
+In 2023, IFED said it found collectible Lego sets matching the ones claimed to have been stolen displayed in the man's living room during a search.
+Alongside his prison sentence handed down last year, he was also ordered to repay the £14,000 he had claimed.
+Other cases highlighted by the ABI included a man jailed for 20 months for manipulating women he met on dating sites into participating in staged car crashes, and a man sentenced to four and a half years for submitting over £300,000 worth of fraudulent travel medical emergency claims.
+In general, the ABI said motor insurance remained the area where insurers identified the most fraudulent cases, accounting for 55% of all scam claims.
+Meanwhile, the ABI's figures found that exaggerated loss remains the most common type of insurance fraud, with 26,900 cases identified.
+This is when someone deliberately attempts to increase the cost of a claim beyond its true value, the ABI said.
+Related topics
+- Published15 May`,
+    bodyJa: `Lego fraudster among last year's most high-profile insurance scammers
+- Published
+A scammer jailed for making false home insurance claims about supposedly stolen Lego has been listed as one of last year's most high-profile insurance fraudsters.
+The person was sentenced to 28 months in prison after an investigation found the claims were made up, insurance trade body the ABI said.
+Other insurance fraud cases flagged by the ABI include someone who staged car crashes with people they met online and a complex travel insurance scam involving multiple fake identities and documents.
+The average value of a fraudulent claim reached £14,300 last year, the second-highest level on record, the ABI said.
+There were £1.34bn worth of fraudulent claims in 2025, a 14% increase on the £1.18bn detected the previous year.
+At the same time, the number of detected fraudulent claims fell slightly to 93,900, down 2.7% on 2024.
+Mark Allen, head of fraud and financial crime at the ABI, said: "Although the rate of detected insurance fraud fell slightly last year, our data shows that fraudsters are targeting much bigger payouts.
+"As emerging technologies such as AI become more widely available, fraudsters will continue to look for new ways to exploit them."
+Det Ch Insp Simon Klust, head of the Insurance Fraud Enforcement Department (IFED) at the City of London Police, said: "Insurance fraud is not a victimless crime and those who commit it increase the cost of premiums for honest customers."
+He added that the 250 cases a day detected by the ABI last year were "unfortunately likely to be just the tip of the iceberg".
+Macbooks, fishing equipment and Lego sets
+One of the most notable fraudsters identified by the ABI last year was a man found by IFED to have fabricated reports of stolen high-value Lego sets, external.
+The man's scam claims to Axa Insurance during 2021 and 2022 also included other high-value items such as MacBooks, televisions, gaming consoles and fishing equipment, IFED said.
+In 2023, IFED said it found collectible Lego sets matching the ones claimed to have been stolen displayed in the man's living room during a search.
+Alongside his prison sentence handed down last year, he was also ordered to repay the £14,000 he had claimed.
+Other cases highlighted by the ABI included a man jailed for 20 months for manipulating women he met on dating sites into participating in staged car crashes, and a man sentenced to four and a half years for submitting over £300,000 worth of fraudulent travel medical emergency claims.
+In general, the ABI said motor insurance remained the area where insurers identified the most fraudulent cases, accounting for 55% of all scam claims.
+Meanwhile, the ABI's figures found that exaggerated loss remains the most common type of insurance fraud, with 26,900 cases identified.
+This is when someone deliberately attempts to increase the cost of a claim beyond its true value, the ABI said.
+Related topics
+- Published15 May`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-06T07:03:35+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e41/live/98c51960-c0ba-11f1-9475-67b7bb314be1.jpg",
+    readTime: 7,
+  },
+  {
     id: "openai-admits-response-to-australian-gov-f216c602",
     title: "OpenAI admits response to Australian government hacks 'not good enough'",
     titleJa: "OpenAI admits response to Australian government hacks 'not good enough'",
@@ -1739,446 +2269,6 @@ Nowroozi, whose sister owns a pair of Meta glasses, is holding off on buying int
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 10,
-  },
-  {
-    id: "sports-betting-is-increasingly-the-norm-c4112a5d",
-    title: "Sports betting is increasingly the norm for Gen Z.  Here’s why some financial and mental health experts are worried",
-    titleJa: "Sports betting is increasingly the norm for Gen Z.  Here’s why some financial and mental health experts are worried",
-    summaryJa: "Surveys show Gen Z increasingly views sports bets as a form of investment, and those who gamble too often face mental health risks.",
-    bodyOriginal: `Wagering on sports outcomes has exploded in the 2020s, but recent surveys show just how widespread gambling has become for Generation Z.
-A survey of retail investors released in August by Betterment, an investment advisory platform, found that 66% of Gen Z investors participate in sports betting. The Bank of America Institute found in a September report that Gen Z made up almost 50% of all online betting activity in July, during the height of the 2026 FIFA World Cup, outnumbering millennials for the first time.
-"It is more unusual for someone not to have, for example, a Kalshi account, DraftKings … than it is" to have such an account, said Cynthia Grant, vice president of clinical at Birches Health, which provides online therapy for online gambling addiction recovery. "It's part of the experience of watching sports now."
-Sports betting surged after a 2018 U.S. Supreme Court allowing state-authorized sportsbooks, which have since spread to 30 states. The introduction of sports-related event contracts on prediction markets — which claim they are financial trades, not wagers — in early 2025 further expanded access to additional states without legalized sportsbooks, and to those under 21.
-Now, the proliferation of sports betting has many financial and mental health advisors on edge. The average user on both a sportsbook and prediction market loses money, and trying to claw back losses puts users in even deeper financial holes, experts warn. Unsurprisingly, those who lose the most are at the greatest risk of harmful mental health outcomes.
-Gambling as investment
-The Bank of America Institute survey found that Gen Z was twice as likely to see sports betting as a type of investment, versus 20% of respondents overall. For prediction markets alone, respondents overall saw them as a form of investing, but those numbers were again higher for Gen Z.
-In Betterment's retail investor survey, 52% of Gen Z respondents said they moved money originally meant for investment to sports betting, while another 26% saw wagering as a part of their long-term financial strategy.
-Management at sportsbooks DraftKings and FanDuel typically say their products are entertainment, not investment. Prediction market platforms say event contracts, no matter the category, are a financial derivative.
-Dan Egan, director of behavioral finance and investing at Betterment, said sports betting increasingly appears alongside traditional investments on the same app or device, helping drive the association.
-The conflation is concerning because of the highly active behavior required to manage wagers on sports, unlike a long-term investment, Egan said.
-"It's not an asset that grows with the economy, that kind of gets better as time goes on, that has a positive expected return, and that you can kind of sit back and not have to do anything with," he said. "It's the exact opposite."
-Bank of America also found that the median deposit account balance for households use online betting was 59% of balances for those who didn't.
-An August survey by BadCredit found that 44% of survey respondents started trading on prediction market platforms in hopes of scoring extra income. That's despite the fact the majority of sportsbooks and prediction market users lose money.
-"People tend to tell other people how much money they've made," said Erica Sandberg, a consumer finance expert at BadCredit. "If you've got people around you who are saying, 'I just made $300 in five minutes on this platform,' you're gonna hear about it. You will not hear that they lost $800 last month."
-Mental health worries
-How a sports betting addiction develops, and when it gets to the point where treatment is needed, varies by individual. But, there are common warning signs, Grant said.
-"It creeps into the way that they're functioning in the world, how they interact with their peers, how they interact with family," she said. "They lose time on work, they lose time in school. So when you start to see what we call clinically, 'functional impairment,' that things are interfering with the way that they're trying to navigate the world, that's when we really start to look at how this is developing into being a problem."
-It's little surprise young people are more likely to take up sports wagers as biological development brings a heightened appetite for risk, said Amaura Kemmerer at UWill, a mental health and wellness provider helping to support more than four million students at 500 institutions around the world.
-Consequences often arise well short of clinical treatment.
-Even players who are only dabbling, and "doing it occasionally … are still having predictable negative effects on academics," Kemmerer said, noting the impact sports betting is having on Gen Z college students.
-As a result, the perfect place to help combat the negative effects of gambling is on college campuses, both Kemmerer and Grant said, noting campus counseling services should treat it as they would other types of addiction.
-Betting platforms themselves have tried to mitigate risks. All regulated sportsbooks and prediction market exchanges have age verification tools. FanDuel and DraftKings let users set self-imposed deposit or time limits. FanDuel also imposes monthly deposit limits on accounts held by users under age 26.
-Polymarket on Wednesday announced optional self-imposed limits and a partnership with Birches Health to give users access to mental health resources. Kalshi does the same, as well as directing 18-to-21-year-old users to risk-management programs after they place their first trades. It donated $2 million in May to the National Council on Problem Gambling.
-"We've prioritized making Kalshi the safest venue for people to trade on," spokesperson Elisabeth Diana said in a statement.
-Experts stressed that not all forms of sports betting are harmful, but emphasized that motivation and frequency need to be clear, especially for young people.
-"Lots of people do it to make things more interesting," Egan said. "It makes the game more exciting. You just have to figure out how to say this is entertainment."
-If you or someone you know has a gambling addiction, call the National Council on Problem Gambling hotline: 1-800-522-4700.
-Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.`,
-    bodyJa: `Wagering on sports outcomes has exploded in the 2020s, but recent surveys show just how widespread gambling has become for Generation Z.
-A survey of retail investors released in August by Betterment, an investment advisory platform, found that 66% of Gen Z investors participate in sports betting. The Bank of America Institute found in a September report that Gen Z made up almost 50% of all online betting activity in July, during the height of the 2026 FIFA World Cup, outnumbering millennials for the first time.
-"It is more unusual for someone not to have, for example, a Kalshi account, DraftKings … than it is" to have such an account, said Cynthia Grant, vice president of clinical at Birches Health, which provides online therapy for online gambling addiction recovery. "It's part of the experience of watching sports now."
-Sports betting surged after a 2018 U.S. Supreme Court allowing state-authorized sportsbooks, which have since spread to 30 states. The introduction of sports-related event contracts on prediction markets — which claim they are financial trades, not wagers — in early 2025 further expanded access to additional states without legalized sportsbooks, and to those under 21.
-Now, the proliferation of sports betting has many financial and mental health advisors on edge. The average user on both a sportsbook and prediction market loses money, and trying to claw back losses puts users in even deeper financial holes, experts warn. Unsurprisingly, those who lose the most are at the greatest risk of harmful mental health outcomes.
-Gambling as investment
-The Bank of America Institute survey found that Gen Z was twice as likely to see sports betting as a type of investment, versus 20% of respondents overall. For prediction markets alone, respondents overall saw them as a form of investing, but those numbers were again higher for Gen Z.
-In Betterment's retail investor survey, 52% of Gen Z respondents said they moved money originally meant for investment to sports betting, while another 26% saw wagering as a part of their long-term financial strategy.
-Management at sportsbooks DraftKings and FanDuel typically say their products are entertainment, not investment. Prediction market platforms say event contracts, no matter the category, are a financial derivative.
-Dan Egan, director of behavioral finance and investing at Betterment, said sports betting increasingly appears alongside traditional investments on the same app or device, helping drive the association.
-The conflation is concerning because of the highly active behavior required to manage wagers on sports, unlike a long-term investment, Egan said.
-"It's not an asset that grows with the economy, that kind of gets better as time goes on, that has a positive expected return, and that you can kind of sit back and not have to do anything with," he said. "It's the exact opposite."
-Bank of America also found that the median deposit account balance for households use online betting was 59% of balances for those who didn't.
-An August survey by BadCredit found that 44% of survey respondents started trading on prediction market platforms in hopes of scoring extra income. That's despite the fact the majority of sportsbooks and prediction market users lose money.
-"People tend to tell other people how much money they've made," said Erica Sandberg, a consumer finance expert at BadCredit. "If you've got people around you who are saying, 'I just made $300 in five minutes on this platform,' you're gonna hear about it. You will not hear that they lost $800 last month."
-Mental health worries
-How a sports betting addiction develops, and when it gets to the point where treatment is needed, varies by individual. But, there are common warning signs, Grant said.
-"It creeps into the way that they're functioning in the world, how they interact with their peers, how they interact with family," she said. "They lose time on work, they lose time in school. So when you start to see what we call clinically, 'functional impairment,' that things are interfering with the way that they're trying to navigate the world, that's when we really start to look at how this is developing into being a problem."
-It's little surprise young people are more likely to take up sports wagers as biological development brings a heightened appetite for risk, said Amaura Kemmerer at UWill, a mental health and wellness provider helping to support more than four million students at 500 institutions around the world.
-Consequences often arise well short of clinical treatment.
-Even players who are only dabbling, and "doing it occasionally … are still having predictable negative effects on academics," Kemmerer said, noting the impact sports betting is having on Gen Z college students.
-As a result, the perfect place to help combat the negative effects of gambling is on college campuses, both Kemmerer and Grant said, noting campus counseling services should treat it as they would other types of addiction.
-Betting platforms themselves have tried to mitigate risks. All regulated sportsbooks and prediction market exchanges have age verification tools. FanDuel and DraftKings let users set self-imposed deposit or time limits. FanDuel also imposes monthly deposit limits on accounts held by users under age 26.
-Polymarket on Wednesday announced optional self-imposed limits and a partnership with Birches Health to give users access to mental health resources. Kalshi does the same, as well as directing 18-to-21-year-old users to risk-management programs after they place their first trades. It donated $2 million in May to the National Council on Problem Gambling.
-"We've prioritized making Kalshi the safest venue for people to trade on," spokesperson Elisabeth Diana said in a statement.
-Experts stressed that not all forms of sports betting are harmful, but emphasized that motivation and frequency need to be clear, especially for young people.
-"Lots of people do it to make things more interesting," Egan said. "It makes the game more exciting. You just have to figure out how to say this is entertainment."
-If you or someone you know has a gambling addiction, call the National Council on Problem Gambling hotline: 1-800-522-4700.
-Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/04/gen-z-sports-betting-financial-and-mental-health-risks.html",
-    publishedAt: "2026-10-04T12:57:45+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "chick-fil-a-wants-to-stay-a-family-busin-748af2cf",
-    title: "Chick-fil-A wants to stay a family business even as it expands in the U.S. and abroad",
-    titleJa: "Chick-fil-A wants to stay a family business even as it expands in the U.S. and abroad",
-    summaryJa: "Chick-fil-A has been expanding into new international markets and growing its menu under CEO Andrew Cathy.",
-    bodyOriginal: `With restaurants as far-flung as Singapore, Chick-fil-A has expanded far beyond its Southeastern stronghold in recent years, but CEO Andrew Cathy still wants the family-owned business to stay true to its roots.
-Nearly five years ago, Cathy succeeded his father, Dan, as chief executive of the chicken chain his grandfather, S. Truett, founded. He took the reins as elevated inflation rocked the restaurant industry and a bevy of new chicken rivals looked to challenge Chick-fil-A's dominance. Since then, not much has changed — except for sluggish traffic across the industry as consumers have become more selective about their dining choices.
-The challenging conditions have led to disappointing results for McDonald's, Popeyes, KFC and other restaurant competitors. While Chick-fil-A is not immune to these headaches, Cathy told CNBC that the chain's restaurants have not seen the same downturn.
-"This has been a good year," the Atlanta-based Cathy said in downtown Manhattan before a planned activation to raise awareness for the chain's Shared Table hunger relief program.
-"Our operators have done such a good job executing on the fundamentals and adding the hospitality to it," he added.
-As a privately held business, Chick-fil-A does not report quarterly results. However, franchise disclosures reveal that the company's revenue in 2025 rose 14% to $10.3 billion, while its net income ticked up 1% to $1.05 billion. Its roughly 3,000 locations generated $23.92 billion in system sales last year, making it the third-largest U.S. restaurant by sales, trailing only McDonald's and Starbucks.
-Chick-fil-A has no plans for an initial public offering or any other opportunities for outside investment. Cathy said the company plans to stick with its "calculated" and "conservative" growth.
-But he may be underselling Chick-fil-A's recent expansion. It opened 179 restaurants last year and has launched in international markets like Canada, Singapore and the United Kingdom in recent years.
-Staying private also has advantages, particularly as restaurant stocks have broadly struggled this year. Shares of Jersey Mike's have fallen nearly 28% since its initial public offering in July, while Dunkin' owner Inspire Brands is reportedly unlikely to go public this year unless the sector's performance improves.
-"We're able to plan for the quarter century, and we don't have to plan for the quarter," Cathy said.
-Balancing Chick-fil-A's past and future
-During Cathy's tenure so far, Chick-fil-A has pursued bold ideas for future growth, like a $1 billion international expansion plan and Daybright, a new beverage-focused restaurant concept created by its venture arm.
-But the company is trying to balance those new strategies with its existing traditions.
-"I look at driving this business like driving a race car — there's a reason that the windshield's bigger than the rearview mirror," Cathy said. "It's important for the rear view to be grounded on where you are, and there are things that we think about our purpose, our mission, that won't change, but everything else we have to be able to evolve and change."
-Some tenets, like staying closed on Sundays, will never change. Others, like its restaurants' signature Southern hospitality, will evolve as diners change their ordering and eating habits.
-Cathy said that Chick-fil-A takes a "human plus" approach to technology in its restaurants.
-"We think about all these new things into the future, about how will people want to receive food in the future?" he said. "As you think about drone delivery and all the other kind of things that could be coming, it's a fun time in the industry, to think about all the possibilities of what we can do to make a better experience for our guests."
-While Chick-fil-A is exploring opportunities to use artificial intelligence behind the scenes, he said that its restaurants will not pursue AI voice ordering in its drive-thru lanes, unlike many of its industry rivals. McDonald's, for example, said at its investor day in September that it plans to test Archy, its voice AI tech, to take orders in both English and Spanish.
-"From our experience, we really want that hospitality to be human to human," Cathy said. "We're not gonna substitute that interaction with technology, because we feel like that hospitality is so important to create that warm environment for consumers."
-Other restaurants are also refocusing on hospitality, hoping that the extra effort from employees will encourage customers to come back. Starbucks bought around 200,000 Sharpie markers so its baristas could write friendly messages on customers' coffee cups. Burger King has redefined its restaurant manager role into a "Your Way Champion," who greets diners and fixes botched orders. And starting Monday, McDonald's will begin its "Make It Golden" training program for franchisees and employees, which focuses on hospitality as well as food quality.
-Chick-fil-A's long-standing focus on service has made it the fast-food leader in customer satisfaction for more than a decade, according to the annual American Customer Satisfaction Index. That reputation can also help the chain stand out from other dining options as consumers have grown more choosy about how they spend their money. Jersey Mike's recently toppled Chick-fil-A in the 2026 study, although Chick-fil-A's score was unchanged from a year ago.
-Waffles and pimento
-Another enduring element of Chick-fil-A is its famously simple menu. But the chain has even been carefully expanding its offerings, typically through seasonal limited-time items like chicken and waffles or its Honey Pepper Pimento Chicken Sandwich. If a menu item is a "home run," as Cathy calls it, then Chick-fil-A might add it permanently, like its Pineapple Dragonfruit drink line.
-"We're very careful about what we want to do, because we want to keep it really focused on unique Chick-fil-A items that they can only get at Chick-fil-A," Cathy said. "But we do want to bring in new flavors and profiles, and that's what we'll do with a lot of our seasonal items that we do, and we learn a lot from our customers about trying those things."
-Other fast-food chains are trying to edge into Chick-fil-A's territory. In 2019, Restaurant Brands International's Popeyes sparked the "chicken sandwich wars" by releasing its own version. Chick-fil-A remains the dominant chicken chain in the U.S., with roughly a 43% market share as of 2024, according to Barclays. However, the chicken sandwich helped catapult Popeyes to the No. 2 spot, with about 11% share.
-McDonald's could reignite the battle as it prepares to test hand-breaded chicken strips and sandwiches.
-But Cathy said that he loves the competition.
-"I'm grateful that there's competition in the chicken space, because that means we're in a good space to be," Cathy said. "Competition just makes us better .... What little details can we do to make that environment even more welcoming for customers?"
-Red Wagon Ventures
-Chick-fil-A has also innovated outside its restaurants.
-In 2017, the company created Red Wagon Ventures, named for the vehicle Truett used to sell bottles of Coca-Cola in his first entrepreneurial gambit at age 6.
-"The lion's share of our time and effort is continuing to make sure that we're getting better and better at Chick-fil-A, but we do have a small team that's working and incubating some of these new ideas and thinking about what could be some things that could help us grow into the future," Andrew Cathy said.
-Some of those ventures are based in the restaurant industry. Its experimental Little Blue Menu concept served traditional Chick-fil-A menu items along with burgers, pizza and onion rings; the chain will convert its final location into a traditional Chick-fil-A next year. More recently, the subsidiary opened Daybright, which serves coffees, smoothies, juices and doughnuts — but no chicken sandwiches or waffle fries.
-Another Red Wagon Ventures bet is even further from Chick-fil-A. Last year, it launched Acrew Home Professionals, a home repair and maintenance business that nodded to the Chick-fil-A ties by promoting "service with a smile," according to its website.
-"I think from a family business standpoint, we've got to build off of our core competencies and look at other types of things that we can get into, so we can continue to serve customers in unique ways," Cathy said.
-Cathy said that he studies family businesses, and those that have been around for more than 100 years still have to think about innovation and think ahead. At 80 years old, Chick-fil-A still has a few more decades to go before it hits the century mark.
-"My grandfather was entrepreneurial to the core. He died at 93, and he opened a new business at 92 years old that he created himself," Cathy said, referring to Truett's Luau, a Hawaiian-themed restaurant concept that opened during the same month that Truett handed over the reins of the family business to his son.
-In addition to starting its own brands, Red Wagon Ventures will explore acquisitions of family businesses, Cathy said. Most likely, those will be companies without a succession plan or just looking to sell — in other words, very different from Chick-fil-A.`,
-    bodyJa: `With restaurants as far-flung as Singapore, Chick-fil-A has expanded far beyond its Southeastern stronghold in recent years, but CEO Andrew Cathy still wants the family-owned business to stay true to its roots.
-Nearly five years ago, Cathy succeeded his father, Dan, as chief executive of the chicken chain his grandfather, S. Truett, founded. He took the reins as elevated inflation rocked the restaurant industry and a bevy of new chicken rivals looked to challenge Chick-fil-A's dominance. Since then, not much has changed — except for sluggish traffic across the industry as consumers have become more selective about their dining choices.
-The challenging conditions have led to disappointing results for McDonald's, Popeyes, KFC and other restaurant competitors. While Chick-fil-A is not immune to these headaches, Cathy told CNBC that the chain's restaurants have not seen the same downturn.
-"This has been a good year," the Atlanta-based Cathy said in downtown Manhattan before a planned activation to raise awareness for the chain's Shared Table hunger relief program.
-"Our operators have done such a good job executing on the fundamentals and adding the hospitality to it," he added.
-As a privately held business, Chick-fil-A does not report quarterly results. However, franchise disclosures reveal that the company's revenue in 2025 rose 14% to $10.3 billion, while its net income ticked up 1% to $1.05 billion. Its roughly 3,000 locations generated $23.92 billion in system sales last year, making it the third-largest U.S. restaurant by sales, trailing only McDonald's and Starbucks.
-Chick-fil-A has no plans for an initial public offering or any other opportunities for outside investment. Cathy said the company plans to stick with its "calculated" and "conservative" growth.
-But he may be underselling Chick-fil-A's recent expansion. It opened 179 restaurants last year and has launched in international markets like Canada, Singapore and the United Kingdom in recent years.
-Staying private also has advantages, particularly as restaurant stocks have broadly struggled this year. Shares of Jersey Mike's have fallen nearly 28% since its initial public offering in July, while Dunkin' owner Inspire Brands is reportedly unlikely to go public this year unless the sector's performance improves.
-"We're able to plan for the quarter century, and we don't have to plan for the quarter," Cathy said.
-Balancing Chick-fil-A's past and future
-During Cathy's tenure so far, Chick-fil-A has pursued bold ideas for future growth, like a $1 billion international expansion plan and Daybright, a new beverage-focused restaurant concept created by its venture arm.
-But the company is trying to balance those new strategies with its existing traditions.
-"I look at driving this business like driving a race car — there's a reason that the windshield's bigger than the rearview mirror," Cathy said. "It's important for the rear view to be grounded on where you are, and there are things that we think about our purpose, our mission, that won't change, but everything else we have to be able to evolve and change."
-Some tenets, like staying closed on Sundays, will never change. Others, like its restaurants' signature Southern hospitality, will evolve as diners change their ordering and eating habits.
-Cathy said that Chick-fil-A takes a "human plus" approach to technology in its restaurants.
-"We think about all these new things into the future, about how will people want to receive food in the future?" he said. "As you think about drone delivery and all the other kind of things that could be coming, it's a fun time in the industry, to think about all the possibilities of what we can do to make a better experience for our guests."
-While Chick-fil-A is exploring opportunities to use artificial intelligence behind the scenes, he said that its restaurants will not pursue AI voice ordering in its drive-thru lanes, unlike many of its industry rivals. McDonald's, for example, said at its investor day in September that it plans to test Archy, its voice AI tech, to take orders in both English and Spanish.
-"From our experience, we really want that hospitality to be human to human," Cathy said. "We're not gonna substitute that interaction with technology, because we feel like that hospitality is so important to create that warm environment for consumers."
-Other restaurants are also refocusing on hospitality, hoping that the extra effort from employees will encourage customers to come back. Starbucks bought around 200,000 Sharpie markers so its baristas could write friendly messages on customers' coffee cups. Burger King has redefined its restaurant manager role into a "Your Way Champion," who greets diners and fixes botched orders. And starting Monday, McDonald's will begin its "Make It Golden" training program for franchisees and employees, which focuses on hospitality as well as food quality.
-Chick-fil-A's long-standing focus on service has made it the fast-food leader in customer satisfaction for more than a decade, according to the annual American Customer Satisfaction Index. That reputation can also help the chain stand out from other dining options as consumers have grown more choosy about how they spend their money. Jersey Mike's recently toppled Chick-fil-A in the 2026 study, although Chick-fil-A's score was unchanged from a year ago.
-Waffles and pimento
-Another enduring element of Chick-fil-A is its famously simple menu. But the chain has even been carefully expanding its offerings, typically through seasonal limited-time items like chicken and waffles or its Honey Pepper Pimento Chicken Sandwich. If a menu item is a "home run," as Cathy calls it, then Chick-fil-A might add it permanently, like its Pineapple Dragonfruit drink line.
-"We're very careful about what we want to do, because we want to keep it really focused on unique Chick-fil-A items that they can only get at Chick-fil-A," Cathy said. "But we do want to bring in new flavors and profiles, and that's what we'll do with a lot of our seasonal items that we do, and we learn a lot from our customers about trying those things."
-Other fast-food chains are trying to edge into Chick-fil-A's territory. In 2019, Restaurant Brands International's Popeyes sparked the "chicken sandwich wars" by releasing its own version. Chick-fil-A remains the dominant chicken chain in the U.S., with roughly a 43% market share as of 2024, according to Barclays. However, the chicken sandwich helped catapult Popeyes to the No. 2 spot, with about 11% share.
-McDonald's could reignite the battle as it prepares to test hand-breaded chicken strips and sandwiches.
-But Cathy said that he loves the competition.
-"I'm grateful that there's competition in the chicken space, because that means we're in a good space to be," Cathy said. "Competition just makes us better .... What little details can we do to make that environment even more welcoming for customers?"
-Red Wagon Ventures
-Chick-fil-A has also innovated outside its restaurants.
-In 2017, the company created Red Wagon Ventures, named for the vehicle Truett used to sell bottles of Coca-Cola in his first entrepreneurial gambit at age 6.
-"The lion's share of our time and effort is continuing to make sure that we're getting better and better at Chick-fil-A, but we do have a small team that's working and incubating some of these new ideas and thinking about what could be some things that could help us grow into the future," Andrew Cathy said.
-Some of those ventures are based in the restaurant industry. Its experimental Little Blue Menu concept served traditional Chick-fil-A menu items along with burgers, pizza and onion rings; the chain will convert its final location into a traditional Chick-fil-A next year. More recently, the subsidiary opened Daybright, which serves coffees, smoothies, juices and doughnuts — but no chicken sandwiches or waffle fries.
-Another Red Wagon Ventures bet is even further from Chick-fil-A. Last year, it launched Acrew Home Professionals, a home repair and maintenance business that nodded to the Chick-fil-A ties by promoting "service with a smile," according to its website.
-"I think from a family business standpoint, we've got to build off of our core competencies and look at other types of things that we can get into, so we can continue to serve customers in unique ways," Cathy said.
-Cathy said that he studies family businesses, and those that have been around for more than 100 years still have to think about innovation and think ahead. At 80 years old, Chick-fil-A still has a few more decades to go before it hits the century mark.
-"My grandfather was entrepreneurial to the core. He died at 93, and he opened a new business at 92 years old that he created himself," Cathy said, referring to Truett's Luau, a Hawaiian-themed restaurant concept that opened during the same month that Truett handed over the reins of the family business to his son.
-In addition to starting its own brands, Red Wagon Ventures will explore acquisitions of family businesses, Cathy said. Most likely, those will be companies without a succession plan or just looking to sell — in other words, very different from Chick-fil-A.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/04/chick-fil-a-ceo-andrew-cathy-family-ownership-growth.html",
-    publishedAt: "2026-10-04T12:08:54+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "more-tankers-struck-in-the-middle-east-a-1bb31c6e",
-    title: "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz",
-    titleJa: "More tankers struck in the Middle East as Iran reiterates conditions for reopening the Strait of Hormuz",
-    summaryJa: "Tehran's conditions include a halt to U.S. \"acts of aggression,\" an end to the naval blockade  and economic warfare, and the release of Iranian assets.",
-    bodyOriginal: `At least two vessels were struck over the weekend in waters near Oman and Iran, the United Kingdom Maritime Trade Operations reported, as Tehran reiterated its position on Sunday that the Strait of Hormuz would not reopen unless its conditions for ending the war with the U.S. are met.
-On Saturday, the UKMTO, a British maritime security alert service, said it received a report of a crude oil tanker being hit by an unknown projectile four nautical miles east of Oman. It said another tanker was reported as being similarly struck Sunday in the Strait of Hormuz, causing damage to its engine room.
-Attacks on shipping in the strait, through which about a fifth of the world's oil supplies moved before the start of the U.S. and Israel-led war on Feb. 28, have been happening on a regular basis for weeks.
-"The Strait of Hormuz will not open until Iran's seven conditions based on the Islamabad Memorandum are met, and Iran will not regulate its national security with tweets from American officials," Iranian state media agency Nour News quoted parliament speaker Mohammad Bagher Ghalibaf as saying Sunday.
-President Donald Trump and Iranian President Masoud Pezeshkian signed an interim deal in June, known as the Islamabad Memorandum of Understanding, that resulted in a brief hiatus in fighting.
-Tehran's conditions for allowing ships to proceed freely through the Strait of Hormuz include a halt to U.S. "acts of aggression," an end to the U.S. naval blockade of its ports and economic warfare, and the release of Iranian assets.
-A key demand of the U.S. has been that Iran dismantle its nuclear weapons program.
-Saudi attack
-Meanwhile, Saudi Arabia's energy infrastructure reportedly came under renewed attacks.
-Reuters reported Saturday that Yemen's Iran-aligned Houthis said they had targeted a facility owned by Saudi Arabian oil giant Aramco in the capital Riyadh with ballistic missiles and drones. The group said the attack was in retaliation for Saudi attacks on Yemen's Sanaa and other provinces.
-A large plume of smoke and fire rose above the facility, Reuters quoted a witness as saying.
-Saudi authorities have not commented on the reported attack. Aramco did not immediately respond to CNBC's emailed request for comment.
-If confirmed, it would be the latest escalation in what has effectively become a second front in the Iran war.
-Not if, but when
-Some investors say they expect full-scale fighting to resume in the Middle East.
-"The situation is fluid and volatile. To me, as we are developing and looking at the situation, it's not a question of if, but when the conflict resumes full force," Bader Al-Saif, founding president of Al-Saif Consulting, told CNBC's Access Middle East show on Friday.
-The ongoing attacks and prospect of a further escalation have driven energy prices higher in recent weeks, raising inflation expectations globally and putting upward pressure on government borrowing costs.
-Reports that the U.S. is sending a third aircraft carrier strike group to the Middle East, along with an amphibious force carrying 2,000 Marines, pushed crude oil prices higher on Thursday. But prices edged lower Friday, after the Group of Seven nations announced the release of diesel and crude stocks to ease the burden on consumers.
-Brent crude futures, the international benchmark, lost 6 cents to close at $102.25 per barrel, while U.S. West Texas Intermediate crude shed $1.76 to settle at $91.11 per barrel.`,
-    bodyJa: `At least two vessels were struck over the weekend in waters near Oman and Iran, the United Kingdom Maritime Trade Operations reported, as Tehran reiterated its position on Sunday that the Strait of Hormuz would not reopen unless its conditions for ending the war with the U.S. are met.
-On Saturday, the UKMTO, a British maritime security alert service, said it received a report of a crude oil tanker being hit by an unknown projectile four nautical miles east of Oman. It said another tanker was reported as being similarly struck Sunday in the Strait of Hormuz, causing damage to its engine room.
-Attacks on shipping in the strait, through which about a fifth of the world's oil supplies moved before the start of the U.S. and Israel-led war on Feb. 28, have been happening on a regular basis for weeks.
-"The Strait of Hormuz will not open until Iran's seven conditions based on the Islamabad Memorandum are met, and Iran will not regulate its national security with tweets from American officials," Iranian state media agency Nour News quoted parliament speaker Mohammad Bagher Ghalibaf as saying Sunday.
-President Donald Trump and Iranian President Masoud Pezeshkian signed an interim deal in June, known as the Islamabad Memorandum of Understanding, that resulted in a brief hiatus in fighting.
-Tehran's conditions for allowing ships to proceed freely through the Strait of Hormuz include a halt to U.S. "acts of aggression," an end to the U.S. naval blockade of its ports and economic warfare, and the release of Iranian assets.
-A key demand of the U.S. has been that Iran dismantle its nuclear weapons program.
-Saudi attack
-Meanwhile, Saudi Arabia's energy infrastructure reportedly came under renewed attacks.
-Reuters reported Saturday that Yemen's Iran-aligned Houthis said they had targeted a facility owned by Saudi Arabian oil giant Aramco in the capital Riyadh with ballistic missiles and drones. The group said the attack was in retaliation for Saudi attacks on Yemen's Sanaa and other provinces.
-A large plume of smoke and fire rose above the facility, Reuters quoted a witness as saying.
-Saudi authorities have not commented on the reported attack. Aramco did not immediately respond to CNBC's emailed request for comment.
-If confirmed, it would be the latest escalation in what has effectively become a second front in the Iran war.
-Not if, but when
-Some investors say they expect full-scale fighting to resume in the Middle East.
-"The situation is fluid and volatile. To me, as we are developing and looking at the situation, it's not a question of if, but when the conflict resumes full force," Bader Al-Saif, founding president of Al-Saif Consulting, told CNBC's Access Middle East show on Friday.
-The ongoing attacks and prospect of a further escalation have driven energy prices higher in recent weeks, raising inflation expectations globally and putting upward pressure on government borrowing costs.
-Reports that the U.S. is sending a third aircraft carrier strike group to the Middle East, along with an amphibious force carrying 2,000 Marines, pushed crude oil prices higher on Thursday. But prices edged lower Friday, after the Group of Seven nations announced the release of diesel and crude stocks to ease the burden on consumers.
-Brent crude futures, the international benchmark, lost 6 cents to close at $102.25 per barrel, while U.S. West Texas Intermediate crude shed $1.76 to settle at $91.11 per barrel.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/04/more-tankers-struck-in-gulf-waters-as-iran-reiterates-conditions.html",
-    publishedAt: "2026-10-04T12:03:09+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "a-weird-ipo-pull-a-tainted-reputation-an-75655eea",
-    title: "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
-    titleJa: "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
-    summaryJa: "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.",
-    bodyOriginal: `Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.`,
-    bodyJa: `Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/04//ai-wearables-oura-ipo-privacy.html",
-    publishedAt: "2026-10-04T12:00:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 2,
-  },
-  {
-    id: "why-brands-like-e-l-f-wendy-s-and-gap-ar-6aff5442",
-    title: "Why brands like E.l.f., Wendy's and Gap are branching out into original music",
-    titleJa: "Why brands like E.l.f., Wendy's and Gap are branching out into original music",
-    summaryJa: "E.l.f. Beauty released an album titled \"Mirror Mix\" as the brand plans to increase its marketing spend for the rest of the year.",
-    bodyOriginal: `Watch out Sony, a new music producer is in town. And this time it's the same brand that makes your favorite lip gloss.
-E.l.f. Beauty announced late last month the release of "Mirror Mix," an original album featuring music from seven rising artists. The album comes as the makeup company ramps up its marketing spend, fueled in part by tariff refunds.
-E.l.f.'s pursuit of music is part of a growing wave of retailers blending shopping with entertainment.
-The album features artists including a WNBA player and a Grammy award-winning singer-songwriter. It's available to stream on Spotify, Apple Music, Amazon and Roblox, according to a press release.
-In addition to elevating the voices of independent artists, the new music is intended to help E.l.f. better connect with its customers, Chief Integrated Marketing Officer Patrick O'Keefe told CNBC in an interview.
-"When you put community at the center of everything … programs and campaigns and building music, which evokes emotion … when you do that, it changes the conversation. And we want to be top of mind with our community," O'Keefe said.
-"Mirror Mix" is E.l.f.'s second album, following the company's 2024 release of "Get Ready With Music, The Album." Its first venture into music, the song "eyes.lips.face.," debuted in 2019.
-"We were one of the first movers on TikTok, and we created an original song around eyes, lips, face, and it went viral. It propelled the brand into new dimensions," O'Keefe said. "People didn't know what eyes, lips, face — what E.l.f. — stood for, and we created the song to embrace what it stands for and what it means for us as a brand."
-The E.l.f.-released music is part of the company's strategy in "disruptive marketing," or marketing that aims to create moments consumers will pay attention to.
-E.l.f. has also launched a TikTok reality show and became one of the first brands to launch a channel on Twitch and offer live shopping on the platform.
-"Our marketing works best when you start seeing that virality on innovation, our ability to feed that and be able to sustain that demand and build growing franchises," CEO Tarang Amin said at the Deutsche Bank dbAccess Global Consumer Conference in early June.
-"We're an entertainment company that happens to sell beauty products," Amin joked.
-Where retail meets entertainment
-E.l.f. is not alone in its foray into entertainment.
-Days before E.l.f.'s album debut, Gap announced a multiyear partnership with boy band Just Your Type, or JYT. The clothing retailer will be responsible for developing a multi-episode docuseries, national mall tour and a clothing collection with the rising pop stars, according to a press release.
-The venture is the company's first collaboration under its newly created "fashiontainment" platform. The initiative comes as the company has undergone a multiyear revival after the retailer closed about 2,000 stores and annual sales fell by $3.5 billion between 2001 and 2021.
-Pam Kaufman, Gap's chief entertainment officer, will oversee the project and said in a press release the partnership with JYT will "create something much bigger than a campaign."
-"Gap has always lived at the intersection of style, music and culture, and our Fashiontainment platform builds on that legacy by putting our brands at the center of the stories and cultural moments people care about," Kaufman said.
-Gap CEO Richard Dickson tapped into a similar sentiment earlier this year, saying traditional advertising campaigns are just not cutting it anymore.
-"Fashion is entertainment, and today's customers aren't just buying apparel, they're buying into brands that tell compelling stories and drive cultural conversations," Dickson said in a statement in January announcing the creation of the chief entertainment officer role.
-In recent weeks, Wendy's also debuted an emo album titled, "Songs to Listen to in a Wendy's Parking Lot." Unlike the earnest attempts of E.l.f. and Gap to create music that would resonate with fans, the fast-food chain created humorous renditions of songs, including "She Said She Didn't Want Fries" and "The Best Combo Meal on the Worst Night of My Life."
-The lead song has generated more than 450,000 streams on Spotify, and the announcement gained hundreds of thousands of likes on Instagram.
-Wendy's CEO Bob Wright named marketing as one of the company's key areas of focus during its most recent earnings call.
-"We have one of the most recognizable brands in the industry, and we need to make our messaging, media and creative drive a meaningful connection with our customers and drive traffic to our restaurants," he said.
-That need is particularly true as younger consumers gain spending power.
-"Cultural relevance moves the entire purchase funnel — especially for Gen Z," United Talent Agency said in a report released in June. "Consumers who perceive a brand as culturally relevant are more likely to notice it (90% of Gen Z), think favorably of it (87% of Gen Z), consider it (81% of Gen Z), and ultimately buy from it (68% of Gen Z) — proving culture's ROI extends far beyond brand perception."
-E.l.f.'s marketing spend
-At E.l.f., O'Keefe said the company uses the concept of unaided awareness, or a consumer's ability to name a brand without being prompted, as a metric to measure its marketing's success. Unaided awareness of E.l.f. Beauty has tripled in the last five years, rising to 45% from 13%, he said.
-The company reported that profits doubled during its most recently reported quarter, which became the cosmetics brand's 30th consecutive quarter of growth.
-At the same time, the company has prioritized spending on innovative marketing campaigns. More than 20% of net sales in the fiscal first quarter were reinvested in marketing and digital, according to the company's most recent earnings call. That percentage is expected to rise throughout the rest of the year, the company said.
-The increased marketing push will be funded in part by tariff refunds. The company received $50 million in the three months that ended June 30 after the Supreme Court struck down President Donald Trump's "liberation day" tariffs and a federal judge ordered the money to be returned.
-"Our plan is to fully reinvest that money in both pricing, to have a superior value proposition, as well as increased marketing across our entire portfolio of brands," CEO Amin told CNBC in an interview in August. "We feel we never should have had the tariffs to begin with, so let's invest in our brands to drive the strength that we see."`,
-    bodyJa: `Watch out Sony, a new music producer is in town. And this time it's the same brand that makes your favorite lip gloss.
-E.l.f. Beauty announced late last month the release of "Mirror Mix," an original album featuring music from seven rising artists. The album comes as the makeup company ramps up its marketing spend, fueled in part by tariff refunds.
-E.l.f.'s pursuit of music is part of a growing wave of retailers blending shopping with entertainment.
-The album features artists including a WNBA player and a Grammy award-winning singer-songwriter. It's available to stream on Spotify, Apple Music, Amazon and Roblox, according to a press release.
-In addition to elevating the voices of independent artists, the new music is intended to help E.l.f. better connect with its customers, Chief Integrated Marketing Officer Patrick O'Keefe told CNBC in an interview.
-"When you put community at the center of everything … programs and campaigns and building music, which evokes emotion … when you do that, it changes the conversation. And we want to be top of mind with our community," O'Keefe said.
-"Mirror Mix" is E.l.f.'s second album, following the company's 2024 release of "Get Ready With Music, The Album." Its first venture into music, the song "eyes.lips.face.," debuted in 2019.
-"We were one of the first movers on TikTok, and we created an original song around eyes, lips, face, and it went viral. It propelled the brand into new dimensions," O'Keefe said. "People didn't know what eyes, lips, face — what E.l.f. — stood for, and we created the song to embrace what it stands for and what it means for us as a brand."
-The E.l.f.-released music is part of the company's strategy in "disruptive marketing," or marketing that aims to create moments consumers will pay attention to.
-E.l.f. has also launched a TikTok reality show and became one of the first brands to launch a channel on Twitch and offer live shopping on the platform.
-"Our marketing works best when you start seeing that virality on innovation, our ability to feed that and be able to sustain that demand and build growing franchises," CEO Tarang Amin said at the Deutsche Bank dbAccess Global Consumer Conference in early June.
-"We're an entertainment company that happens to sell beauty products," Amin joked.
-Where retail meets entertainment
-E.l.f. is not alone in its foray into entertainment.
-Days before E.l.f.'s album debut, Gap announced a multiyear partnership with boy band Just Your Type, or JYT. The clothing retailer will be responsible for developing a multi-episode docuseries, national mall tour and a clothing collection with the rising pop stars, according to a press release.
-The venture is the company's first collaboration under its newly created "fashiontainment" platform. The initiative comes as the company has undergone a multiyear revival after the retailer closed about 2,000 stores and annual sales fell by $3.5 billion between 2001 and 2021.
-Pam Kaufman, Gap's chief entertainment officer, will oversee the project and said in a press release the partnership with JYT will "create something much bigger than a campaign."
-"Gap has always lived at the intersection of style, music and culture, and our Fashiontainment platform builds on that legacy by putting our brands at the center of the stories and cultural moments people care about," Kaufman said.
-Gap CEO Richard Dickson tapped into a similar sentiment earlier this year, saying traditional advertising campaigns are just not cutting it anymore.
-"Fashion is entertainment, and today's customers aren't just buying apparel, they're buying into brands that tell compelling stories and drive cultural conversations," Dickson said in a statement in January announcing the creation of the chief entertainment officer role.
-In recent weeks, Wendy's also debuted an emo album titled, "Songs to Listen to in a Wendy's Parking Lot." Unlike the earnest attempts of E.l.f. and Gap to create music that would resonate with fans, the fast-food chain created humorous renditions of songs, including "She Said She Didn't Want Fries" and "The Best Combo Meal on the Worst Night of My Life."
-The lead song has generated more than 450,000 streams on Spotify, and the announcement gained hundreds of thousands of likes on Instagram.
-Wendy's CEO Bob Wright named marketing as one of the company's key areas of focus during its most recent earnings call.
-"We have one of the most recognizable brands in the industry, and we need to make our messaging, media and creative drive a meaningful connection with our customers and drive traffic to our restaurants," he said.
-That need is particularly true as younger consumers gain spending power.
-"Cultural relevance moves the entire purchase funnel — especially for Gen Z," United Talent Agency said in a report released in June. "Consumers who perceive a brand as culturally relevant are more likely to notice it (90% of Gen Z), think favorably of it (87% of Gen Z), consider it (81% of Gen Z), and ultimately buy from it (68% of Gen Z) — proving culture's ROI extends far beyond brand perception."
-E.l.f.'s marketing spend
-At E.l.f., O'Keefe said the company uses the concept of unaided awareness, or a consumer's ability to name a brand without being prompted, as a metric to measure its marketing's success. Unaided awareness of E.l.f. Beauty has tripled in the last five years, rising to 45% from 13%, he said.
-The company reported that profits doubled during its most recently reported quarter, which became the cosmetics brand's 30th consecutive quarter of growth.
-At the same time, the company has prioritized spending on innovative marketing campaigns. More than 20% of net sales in the fiscal first quarter were reinvested in marketing and digital, according to the company's most recent earnings call. That percentage is expected to rise throughout the rest of the year, the company said.
-The increased marketing push will be funded in part by tariff refunds. The company received $50 million in the three months that ended June 30 after the Supreme Court struck down President Donald Trump's "liberation day" tariffs and a federal judge ordered the money to be returned.
-"Our plan is to fully reinvest that money in both pricing, to have a superior value proposition, as well as increased marketing across our entire portfolio of brands," CEO Amin told CNBC in an interview in August. "We feel we never should have had the tariffs to begin with, so let's invest in our brands to drive the strength that we see."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/04/elf-wendys-gap-music-marketing.html",
-    publishedAt: "2026-10-04T12:00:01+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "ukraine-s-surprise-robot-offensive-expos-aa3765ab",
-    title: "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine",
-    titleJa: "Ukraine’s surprise robot offensive exposes a vulnerability in Putin’s war machine",
-    summaryJa: "Experts say the offensive is not a decisive breakthrough, but demonstrates how Ukraine’s expanding use of robotic systems is reshaping frontline warfare.",
-    bodyOriginal: `A surprise Ukrainian robot offensive in the eastern Donbas region appears to have reversed over a year of Russian territorial gains, according to security experts, dealing a strategic blow to Russian President Vladimir Putin's territorial ambitions.
-Details of the Ukrainian counteroffensive, dubbed "Operation Vivaldi," have started to come to light in recent weeks, offering rare insight into the fast-changing nature of frontline combat operations amid Russia's full-scale invasion.
-As part of the ongoing operation, which started in May, security experts said Ukraine's Third Army Corps had been able to deploy large bomber drones and remote-controlled robots behind enemy lines around Lyman in the northern Donetsk Oblast, apparently catching Russian forces off guard.
-Russian forces have been seeking to encircle Ukraine's so-called fortress belt cities that make up the remaining Ukrainian-held territory in the region for the past 12 months.
-The third phase of Operation Vivaldi, however, liberated an additional 51 square kilometers, taking the total area of territory retaken to 176 square kilometers, Ukrainian Brigadier-General Andrii Biletskyi said on Sept. 28. The latest phase of fighting inflicted over 2,000 Russian losses, with over 250 Russian soldiers taken prisoner, he added.
-The experience of Operation 'Vivaldi' has demonstrated that the systematic replacement of human personnel with robots is changing the paradigm of modern warfare.Serhii KuzanChairman of the Ukrainian Security and Cooperation Center
-Patrick Bolder, a defense expert and strategic advisor at the Hague Center for Strategic Studies (HCSS), described the offensive as a "big bloody nose" to Putin's minimal war aim of seizing Ukraine's Donbas region.
-Alongside demonstrating an ability to keep details of the operation secret, running disinformation campaigns against Russia and orchestrating a months-long air operation to disrupt logistical supplies to the frontline, Bolder said Ukrainian forces had managed to secure control of the air in the Lyman area, denying Russia the use of its drones.
-Ukrainian forces were then able to deploy their own drones to drop unmanned ground vehicles behind enemy lines to attack the Russian troops from behind, Bolder said, without endangering their own personnel.
-"They put this together masterly," Bolder said.
-For the Kremlin, "gaining the Donbas is very far away at the moment because the Ukrainians have come into better defendable positions now — which will make it harder for the Russians to try to do this again," he added.
-A spokesperson for Russia's Embassy in London was not available to comment when contacted by CNBC on Friday.
-'A powerful message to Moscow and Kyiv's partners'
-Security experts made it clear that Ukraine's robot offensive should not be seen as a decisive breakthrough.
-It does, however, send "a powerful message to Moscow and to Kyiv's partners that the highly innovative Ukrainian military remains capable of defeating Russia on the battlefield," according to David Kirichenko, an associate research fellow at the Henry Jackson Society, a U.K.-based national security think tank.
-Ukrainian President Volodymyr Zelenskyy lauded the success of Ukraine's Third Army Corps when he met with soldiers carrying out the counteroffensive, describing the operation as "important in many ways" for Ukraine's defense overall, and the Donbas region especially.
-"One particularly promising area now is replacing our warriors with ground robotic systems wherever possible," Zelenskyy said in a social media post on Sept. 30.
-"During Vivaldi, this capability allowed us to accomplish many things. We will scale it up so that, more and more often, a drone rather than a warrior carries out the most dangerous tasks at the front," he added.
-Russia has stepped up its attacks on Ukraine's capital and major cities in recent days, targeting data centers, communications and energy infrastructure as it seeks to disrupt the flow of information and force power cuts ahead of winter.
-Ukrainian officials have expressed deep concern over the attacks, saying there is an urgent need for the country to be able to rapidly respond to missile and drone threats.
-Ukraine, for its part, has sought to raise the cost of Russia's more than four-and-a-half-year war against it, targeting the country's oil refineries and logistics hubs.
-'Changing the paradigm of modern warfare'
-Robotic systems have become one of the key factors in Ukraine's counter-offensive operations, according to Serhii Kuzan, chairman of the Kyiv-based Ukrainian Security and Cooperation Center think tank.
-"Their use has not only reduced the risks to personnel but has also changed the very logic of combat: where previously dozens or hundreds of soldiers were required, remotely controlled platforms are increasingly being deployed," Kuzan told CNBC by email.
-"The experience of Operation 'Vivaldi' has demonstrated that the systematic replacement of human personnel with robots is changing the paradigm of modern warfare, enabling tasks to be carried out with minimal personnel losses."
-Ultimately, Kuzan said Ukraine's counter-offensive in the Lyman area had been aimed at seizing the initiative on the battlefield, "which will ultimately force the Russian army to abandon the objectives set by its political leadership."
-Ukrainian officials have reported that Russia's political leadership had previously set an objective to capture the Donetsk region by the end of the year, although the Russian military is said to now be seeking an extension to March next year.
-"This is because, according to Ukrainian intelligence, on the main thrust directions of Kostiantynivka, Sloviansk and Kramatorsk, the Russian army is suffering its heaviest losses, accounting for 70–80 per cent of all casualties," Kuzan said.`,
-    bodyJa: `A surprise Ukrainian robot offensive in the eastern Donbas region appears to have reversed over a year of Russian territorial gains, according to security experts, dealing a strategic blow to Russian President Vladimir Putin's territorial ambitions.
-Details of the Ukrainian counteroffensive, dubbed "Operation Vivaldi," have started to come to light in recent weeks, offering rare insight into the fast-changing nature of frontline combat operations amid Russia's full-scale invasion.
-As part of the ongoing operation, which started in May, security experts said Ukraine's Third Army Corps had been able to deploy large bomber drones and remote-controlled robots behind enemy lines around Lyman in the northern Donetsk Oblast, apparently catching Russian forces off guard.
-Russian forces have been seeking to encircle Ukraine's so-called fortress belt cities that make up the remaining Ukrainian-held territory in the region for the past 12 months.
-The third phase of Operation Vivaldi, however, liberated an additional 51 square kilometers, taking the total area of territory retaken to 176 square kilometers, Ukrainian Brigadier-General Andrii Biletskyi said on Sept. 28. The latest phase of fighting inflicted over 2,000 Russian losses, with over 250 Russian soldiers taken prisoner, he added.
-The experience of Operation 'Vivaldi' has demonstrated that the systematic replacement of human personnel with robots is changing the paradigm of modern warfare.Serhii KuzanChairman of the Ukrainian Security and Cooperation Center
-Patrick Bolder, a defense expert and strategic advisor at the Hague Center for Strategic Studies (HCSS), described the offensive as a "big bloody nose" to Putin's minimal war aim of seizing Ukraine's Donbas region.
-Alongside demonstrating an ability to keep details of the operation secret, running disinformation campaigns against Russia and orchestrating a months-long air operation to disrupt logistical supplies to the frontline, Bolder said Ukrainian forces had managed to secure control of the air in the Lyman area, denying Russia the use of its drones.
-Ukrainian forces were then able to deploy their own drones to drop unmanned ground vehicles behind enemy lines to attack the Russian troops from behind, Bolder said, without endangering their own personnel.
-"They put this together masterly," Bolder said.
-For the Kremlin, "gaining the Donbas is very far away at the moment because the Ukrainians have come into better defendable positions now — which will make it harder for the Russians to try to do this again," he added.
-A spokesperson for Russia's Embassy in London was not available to comment when contacted by CNBC on Friday.
-'A powerful message to Moscow and Kyiv's partners'
-Security experts made it clear that Ukraine's robot offensive should not be seen as a decisive breakthrough.
-It does, however, send "a powerful message to Moscow and to Kyiv's partners that the highly innovative Ukrainian military remains capable of defeating Russia on the battlefield," according to David Kirichenko, an associate research fellow at the Henry Jackson Society, a U.K.-based national security think tank.
-Ukrainian President Volodymyr Zelenskyy lauded the success of Ukraine's Third Army Corps when he met with soldiers carrying out the counteroffensive, describing the operation as "important in many ways" for Ukraine's defense overall, and the Donbas region especially.
-"One particularly promising area now is replacing our warriors with ground robotic systems wherever possible," Zelenskyy said in a social media post on Sept. 30.
-"During Vivaldi, this capability allowed us to accomplish many things. We will scale it up so that, more and more often, a drone rather than a warrior carries out the most dangerous tasks at the front," he added.
-Russia has stepped up its attacks on Ukraine's capital and major cities in recent days, targeting data centers, communications and energy infrastructure as it seeks to disrupt the flow of information and force power cuts ahead of winter.
-Ukrainian officials have expressed deep concern over the attacks, saying there is an urgent need for the country to be able to rapidly respond to missile and drone threats.
-Ukraine, for its part, has sought to raise the cost of Russia's more than four-and-a-half-year war against it, targeting the country's oil refineries and logistics hubs.
-'Changing the paradigm of modern warfare'
-Robotic systems have become one of the key factors in Ukraine's counter-offensive operations, according to Serhii Kuzan, chairman of the Kyiv-based Ukrainian Security and Cooperation Center think tank.
-"Their use has not only reduced the risks to personnel but has also changed the very logic of combat: where previously dozens or hundreds of soldiers were required, remotely controlled platforms are increasingly being deployed," Kuzan told CNBC by email.
-"The experience of Operation 'Vivaldi' has demonstrated that the systematic replacement of human personnel with robots is changing the paradigm of modern warfare, enabling tasks to be carried out with minimal personnel losses."
-Ultimately, Kuzan said Ukraine's counter-offensive in the Lyman area had been aimed at seizing the initiative on the battlefield, "which will ultimately force the Russian army to abandon the objectives set by its political leadership."
-Ukrainian officials have reported that Russia's political leadership had previously set an objective to capture the Donetsk region by the end of the year, although the Russian military is said to now be seeking an extension to March next year.
-"This is because, according to Ukrainian intelligence, on the main thrust directions of Kostiantynivka, Sloviansk and Kramatorsk, the Russian army is suffering its heaviest losses, accounting for 70–80 per cent of all casualties," Kuzan said.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/04/russia-ukraine-war-putin-zelenskyy-donbas-lyman.html",
-    publishedAt: "2026-10-04T05:00:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "cornell-president-says-university-must-d-8c1678f5",
-    title: "Cornell president says university 'must do better' after frat house rape allegations",
-    titleJa: "Cornell president says university 'must do better' after frat house rape allegations",
-    summaryJa: "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
-    bodyOriginal: `Cornell president says university 'must do better' after frat house rape allegations
-- Published
-Cornell University's president says the school "must do better" after a woman alleged she was drugged and raped by a group of men at a fraternity house.
-In an eight-minute video statement released on Saturday night, Michael Kotlikoff described the allegations raised by the woman, identified as Jane Doe, as "deeply disturbing".
-The alleged incident has raised questions around the culture on campus of drug and alcohol use, and the way investigations were conducted in the case, Kotlikoff said.
-Jane Doe was a 20-year-old student at the university when she says seven men from its Chi Phi fraternity assaulted her for hours in an incident involving alcohol and the drug ketamine on 19 October 2024.
-She said she had reported the incident two weeks after it happened to Cornell University police, which investigated, but no charges were laid.
-Last month, Jane Doe filed a civil lawsuit against the Ivy League university, in which she alleged Cornell had failed to protect her or adequately punish the men involved.
-Kotlikoff said Cornell was "committed to investigating" the way the case was handled, and said the school administration and community "must do better".
-"We must foster a culture in which sexual assault is inexcusable and ensure our community is empowered and understands informed consent," he said.
-He added that university leaders need to create an environment where victims of sexual assault "feel safe coming forward and are treated with compassion and dignity".
-Kotlikoff said it is a "defining moment" in the university's history.
-"We must lead the way, we owe it to Jane Doe and to survivors of assault to get this right. And we must keep each other safe," he said.
-On the university's campus this week, the BBC saw growing frustration about the situation.
-At a public hearing for students to speak about the alleged gang rape, many told the BBC they were ashamed of what happened and said the university had failed Jane Doe.
-"Our administration needs to change and it needs to change drastically and it needs to change fast," one student told the BBC. "Something like this never should have happened, this is a disgrace."
-As part of "broader work" that needs to happen, Kotlikoff said in his video statement that there should be a "serious look at the role of fraternities and sororities in campus life".
-"Being part of a group can never diminish individual responsibility for our own actions, for how we treat others, or for speaking up when someone may be at risk," he said.
-The university president also said that at the "appropriate time", the school would speak about how Cornell will "use this moment, this conversation, this anger, to help lead the broader effort to combat sexual assault not only on our campus, but beyond it".
-New York Governor Kathy Hochul has said she was "deeply disturbed" by how the investigation was handled, and has appointed New York Attorney General Letitia James to lead a review of the case.
-Kotlikoff said he supported the decision to appoint James to lead a criminal investigation, and welcomed an independent review by a law firm of how Cornell has handled the matter.
-Jane Doe said in her lawsuit that she was intoxicated during the alleged incident and could not provide consent.
-Related topics
-- Published1 day ago`,
-    bodyJa: `Cornell president says university 'must do better' after frat house rape allegations
-- Published
-Cornell University's president says the school "must do better" after a woman alleged she was drugged and raped by a group of men at a fraternity house.
-In an eight-minute video statement released on Saturday night, Michael Kotlikoff described the allegations raised by the woman, identified as Jane Doe, as "deeply disturbing".
-The alleged incident has raised questions around the culture on campus of drug and alcohol use, and the way investigations were conducted in the case, Kotlikoff said.
-Jane Doe was a 20-year-old student at the university when she says seven men from its Chi Phi fraternity assaulted her for hours in an incident involving alcohol and the drug ketamine on 19 October 2024.
-She said she had reported the incident two weeks after it happened to Cornell University police, which investigated, but no charges were laid.
-Last month, Jane Doe filed a civil lawsuit against the Ivy League university, in which she alleged Cornell had failed to protect her or adequately punish the men involved.
-Kotlikoff said Cornell was "committed to investigating" the way the case was handled, and said the school administration and community "must do better".
-"We must foster a culture in which sexual assault is inexcusable and ensure our community is empowered and understands informed consent," he said.
-He added that university leaders need to create an environment where victims of sexual assault "feel safe coming forward and are treated with compassion and dignity".
-Kotlikoff said it is a "defining moment" in the university's history.
-"We must lead the way, we owe it to Jane Doe and to survivors of assault to get this right. And we must keep each other safe," he said.
-On the university's campus this week, the BBC saw growing frustration about the situation.
-At a public hearing for students to speak about the alleged gang rape, many told the BBC they were ashamed of what happened and said the university had failed Jane Doe.
-"Our administration needs to change and it needs to change drastically and it needs to change fast," one student told the BBC. "Something like this never should have happened, this is a disgrace."
-As part of "broader work" that needs to happen, Kotlikoff said in his video statement that there should be a "serious look at the role of fraternities and sororities in campus life".
-"Being part of a group can never diminish individual responsibility for our own actions, for how we treat others, or for speaking up when someone may be at risk," he said.
-The university president also said that at the "appropriate time", the school would speak about how Cornell will "use this moment, this conversation, this anger, to help lead the broader effort to combat sexual assault not only on our campus, but beyond it".
-New York Governor Kathy Hochul has said she was "deeply disturbed" by how the investigation was handled, and has appointed New York Attorney General Letitia James to lead a review of the case.
-Kotlikoff said he supported the decision to appoint James to lead a criminal investigation, and welcomed an independent review by a law firm of how Cornell has handled the matter.
-Jane Doe said in her lawsuit that she was intoxicated during the alleged incident and could not provide consent.
-Related topics
-- Published1 day ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-04T00:11:25+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1acd/live/708a4390-bf7e-11f1-9b0d-03ed169a0cab.jpg",
-    readTime: 8,
-  },
-  {
-    id: "the-government-can-take-15-of-social-sec-cf2759ae",
-    title: "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
-    titleJa: "The government can take 15% of Social Security benefits to repay student loans. These proposals seek to stop it.",
-    summaryJa: "Debt among older Americans is rising, both in terms of the number of older households carrying debt and the amount borrowed.",
-    bodyOriginal: `Debt among older Americans is rising, both in terms of the number of older households carrying debt and the amount borrowed.`,
-    bodyJa: `Debt among older Americans is rising, both in terms of the number of older households carrying debt and the amount borrowed.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
-    publishedAt: "2026-10-04T00:02:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-39540591",
-    readTime: 2,
   },
 ];
 
