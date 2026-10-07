@@ -15,6 +15,518 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "oil-rises-as-concerns-over-houthi-attack-c95f9cab",
+    title: "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
+    titleJa: "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
+    summaryJa: "Iran's move to step up attacks on tankers which are transiting through the Strait of Hormuz has also led to renewed worries over oil supplies among traders.",
+    bodyOriginal: `Oil rose Wednesday as attacks by Yemen's Iran-backed Houthis on Saudi Arabia raised concerns over crude flows from the Middle East even as supplies have been recovering.
+Futures for international benchmark Brent crude for December delivery gained 0.93% at $101.52 a barrel. U.S. West Texas Intermediate futures for November advanced 0.81% at $90.16 per barrel.
+Oil pumped through the East-West Pipeline had reached 5.8 million barrels as of Tuesday morning, according to Saudi Energy Minister Prince Abdulaziz bin Salman.
+However, concerns that there may be further supply disruptions in the Middle East weighed on sentiment. The Saudi aviation authority reportedly said Tuesday that the country's airports in Jazan and Najran were targeted in two attacks, amid growing hostilities between Yemen's Iran-backed Houthis and the kingdom.
+Iran's move to step up attacks on tankers which are transiting through the Strait of Hormuz has also led to renewed worries over oil supplies among traders, as it threatens to disrupt the fragile rebound in oil exports through the crucial waterway.
+Naeem Aslam, chief investment officer of Zaye Capital Markets, said Tuesday that oil remains "caught between improving physical supply and persistent geopolitical risk."
+"The sustained ability of the Houthis in Yemen to target oil facilities hundreds of kilometers from the border keeps the risks of a renewed large-scale crude supply disruption present and high, and these risks could worsen if the Houthis feel the need to apply more pressure as a result of losing more territory," said Samer Hasn, senior market analyst at forex trading platform XS.com.`,
+    bodyJa: `Oil rose Wednesday as attacks by Yemen's Iran-backed Houthis on Saudi Arabia raised concerns over crude flows from the Middle East even as supplies have been recovering.
+Futures for international benchmark Brent crude for December delivery gained 0.93% at $101.52 a barrel. U.S. West Texas Intermediate futures for November advanced 0.81% at $90.16 per barrel.
+Oil pumped through the East-West Pipeline had reached 5.8 million barrels as of Tuesday morning, according to Saudi Energy Minister Prince Abdulaziz bin Salman.
+However, concerns that there may be further supply disruptions in the Middle East weighed on sentiment. The Saudi aviation authority reportedly said Tuesday that the country's airports in Jazan and Najran were targeted in two attacks, amid growing hostilities between Yemen's Iran-backed Houthis and the kingdom.
+Iran's move to step up attacks on tankers which are transiting through the Strait of Hormuz has also led to renewed worries over oil supplies among traders, as it threatens to disrupt the fragile rebound in oil exports through the crucial waterway.
+Naeem Aslam, chief investment officer of Zaye Capital Markets, said Tuesday that oil remains "caught between improving physical supply and persistent geopolitical risk."
+"The sustained ability of the Houthis in Yemen to target oil facilities hundreds of kilometers from the border keeps the risks of a renewed large-scale crude supply disruption present and high, and these risks could worsen if the Houthis feel the need to apply more pressure as a result of losing more territory," said Samer Hasn, senior market analyst at forex trading platform XS.com.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/07/oil-prices-today-brent-wti-hormuz.html",
+    publishedAt: "2026-10-07T05:29:30+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "trump-set-to-talk-to-russia-s-putin-very-f2bd8e48",
+    title: "Trump set to talk to Russia's Putin 'very soon' about plague-related death in Siberia",
+    titleJa: "Trump set to talk to Russia's Putin 'very soon' about plague-related death in Siberia",
+    summaryJa: "Trump says he will speak with Putin “very soon” over a plague incident in Russia as CDC monitor the situation.",
+    bodyOriginal: `U.S. President Donald Trump said Tuesday stateside that he was set to speak with Russian President Vladimir Putin about the death of a laboratory worker from a suspected case of plague in Siberia.
+Trump said the call was scheduled for "very soon" when asked by a reporter about the timing at a White House press gaggle. Asked separately what U.S. intelligence agencies were saying about the incident, Trump said, "So far, we are in very deep discussions. We'll be able to report about it probably tomorrow."
+Trump's, who has said in the past that Putin is someone he can work with despite tensions over Moscow's war in Ukraine, on Monday offered U.S. help to Russia over the deadly plague incident.
+The Centers for Disease Control and Prevention, or CDC, said in a post on X Wednesday that it "is aware of and closely monitoring reports of a suspected case of pneumonic plague in the Irkutsk region of Russia that resulted in a death."
+The U.S. public health agency said the circumstances surrounding the case remain unconfirmed. Pneumonic plague can spread from person to person through respiratory droplets during close contact, the CDC said.
+However, the CDC said that "at this time, there is no indication of a broader threat to the United States," adding that it and its interagency partners were prepared and would continue to closely monitor the situation.
+The World Health Organization has told CNBC that it assesses the risk to the general public as low, based on available information.
+WHO Director-General Tedros Adhanom Ghebreyesus said in a post on X that the agency had requested further information from Russian health authorities to clarify the cause of the severe pneumonia and the pathogen involved. "Timely, complete and transparent information sharing" is essential to assess potential public health risks, he said`,
+    bodyJa: `U.S. President Donald Trump said Tuesday stateside that he was set to speak with Russian President Vladimir Putin about the death of a laboratory worker from a suspected case of plague in Siberia.
+Trump said the call was scheduled for "very soon" when asked by a reporter about the timing at a White House press gaggle. Asked separately what U.S. intelligence agencies were saying about the incident, Trump said, "So far, we are in very deep discussions. We'll be able to report about it probably tomorrow."
+Trump's, who has said in the past that Putin is someone he can work with despite tensions over Moscow's war in Ukraine, on Monday offered U.S. help to Russia over the deadly plague incident.
+The Centers for Disease Control and Prevention, or CDC, said in a post on X Wednesday that it "is aware of and closely monitoring reports of a suspected case of pneumonic plague in the Irkutsk region of Russia that resulted in a death."
+The U.S. public health agency said the circumstances surrounding the case remain unconfirmed. Pneumonic plague can spread from person to person through respiratory droplets during close contact, the CDC said.
+However, the CDC said that "at this time, there is no indication of a broader threat to the United States," adding that it and its interagency partners were prepared and would continue to closely monitor the situation.
+The World Health Organization has told CNBC that it assesses the risk to the general public as low, based on available information.
+WHO Director-General Tedros Adhanom Ghebreyesus said in a post on X that the agency had requested further information from Russian health authorities to clarify the cause of the severe pneumonia and the pathogen involved. "Timely, complete and transparent information sharing" is essential to assess potential public health risks, he said`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/07/trump-putin-russian-plague-death-cdc-pneumonic-.html",
+    publishedAt: "2026-10-07T04:12:27+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "incredible-or-catastrophic-jaguar-unveil-08308968",
+    title: "Incredible or catastrophic? Jaguar unveils its polarising electric car",
+    titleJa: "Incredible or catastrophic? Jaguar unveils its polarising electric car",
+    summaryJa: "Two years after JLR relaunched Jaguar into a blizzard of controversy, it has launched its new EV.",
+    bodyOriginal: `Incredible or catastrophic? Jaguar unveils its polarising electric car
+- Published
+Two years ago, JLR relaunched Jaguar into a blizzard of controversy. Its bizarre teaser ad was described as "woke" and its "Barbie pink" concept car was ridiculed.
+Now, the first of its new models has appeared in public for the first time. The all-electric Type 01, unveiled in New York, represents a radical new direction for the classic brand.
+The car itself is an imposing four-door "Grand Tourer", with a long bonnet that deliberately harks back to Jaguar's emblematic 1960s E-Type.
+But it marks a gamble for JLR, which has invested billions reinventing Jaguar and is facing mixed reactions over the new car's design and the brand's all-electric strategy.
+The new model's electric motors are potent, producing about 1000 horsepower and allowing it to accelerate from 0-62mph in 3.2 seconds. JLR says it has a range, at "sustained highway speed", of up to 320 miles.
+The company describes it as the "most technically advanced, powerful and aerodynamic Jaguar ever engineered".
+However, it comes at a hefty price tag, with a minimum cost of £130,000 ($172,426). In the US, the Type 01 has a starting price of $130,500.
+Under normal circumstances, the launch of a car like this might generate few headlines. But in this case the attention has been much greater, and for good reason.
+'Woke' furore
+In 2024 Jaguar unveiled its new identity to the public. The first step was a surreal advert, showing models in a range of bizarre and brightly coloured outfits. There was a new Jaguar logo - but no cars in sight.
+Two weeks later, Jaguar's denim-clad design chief Gerry McGovern took to a Miami stage to unveil a pair of radical concept cars, resplendent in Miami Pink and London Blue colour schemes. "Jaguar has no desire to be loved by everybody," he quipped.
+The event was meant to herald Jaguar's future as a luxury all-electric marque, but it triggered a furious backlash in the press and on social media.
+Critics claimed JLR was betraying its heritage in favour of going "woke". Even the colour chosen for the launch was derided as "Barbie pink", as culture wars erupted around it.
+The reception appeared to catch JLR by surprise. The reinvention of Jaguar as a luxury electric brand was part of a wide-ranging strategy set out by the company in early 2023, in which it pledged to invest £15bn in new models and technologies.
+How Jaguar lost its way - long before that polarising advert
+- Published8 December 2024
+'Trust and reserve judgement' on rebrand, says Jaguar
+- Published23 November 2024
+At the time, Jaguar itself was struggling. The badge, which was once an intrinsic part of Swinging Sixties British cool, had lost its lustre. Where in the past it had supplied E-Types to Brigitte Bardot and Steve McQueen, it now struggled to sell upmarket saloons and SUVs to middle-ranking corporate executives, who generally preferred Audis and BMWs.
+"Jaguar's core demographic, despite the uproar, gave up on the brand years ago, so they effectively had nothing to lose," explains Matthias Schmidt of Schmidt Automotive Research.
+The unveiling of the Type 01 on Tuesday was met with mixed reactions, with some on social media criticising the new car.
+"Looks like a Cybertruck and a Bentley Continental had an illegitimate child," Facebook user Ken Katch said, referring to the Tesla pick-up, known for its divisive design.
+Craig Kinnersley, who runs a luxury car consultancy, wrote on LinkedIn that it is an "unmitigated catastrophe" that looks like a hearse and lacks any "memorable Jaguar flourish".
+Car journalist Steve Fowler said the Type 01 "looks incredible" and makes him "proud to be British".
+"Not everyone will like it - that's fine. Not everyone has to!" he wrote on X.
+Alistair Weaver from vehicle sales platform Edmunds said Jaguar deserved some credit for the Type 01's looks, despite it being "polarising".
+"If Jaguar designed a car that looked like anything else, it would have had no hope," Weaver told the BBC.
+But the firm faces an uphill battle in the US, where EVs are becoming less popular, he added.
+'Last throw of the dice'
+JLR wound down production of its old Jaguar models in 2024 and 2025. The "woke" row, while it possibly made life briefly uncomfortable for the company's leadership, did at least keep the Jaguar name in the public consciousness at a time when it was selling very few cars.
+"It brought Jaguar from the back pages to the front pages, given that it was dying in a crowded international market," says Schmidt. "Everyone is now talking about what would have been another boring product."
+The GT is expected to be the first of three new electric designs from Jaguar.
+Since that event in Miami two years ago, McGovern has left the company, JLR has parted ways with the agency behind the controversial rebranding campaign, and the company also has a new chief executive.
+But the future of Jaguar itself still hangs in the balance.
+"I think it really is a last throw of the dice," says Fowler. "JLR has struggled to make serious money with Jaguar in the past, and that's what it's all about."
+The question now is whether enough buyers can be found willing to pay £130,000 for a relatively distinctive upmarket electric car, in a market where they can also choose models from the likes of Porsche, Mercedes-AMG or even fast-growing Chinese brands such as Denza.
+"Forget the controversy, the culture wars and the pink concept car," says Ginny Buckley of the electric car website Electrifying.com.
+"What ultimately matters is whether Jaguar has built something extraordinary enough to justify blowing up everything it stood for before."
+She believes the car is good enough to silence critics, but admits "the next challenge will be getting people to buy it".
+Steve Fowler agrees. "The car is good enough to do it," he says. "Whether the Jaguar brand is good enough remains to be seen."
+- Published7 September`,
+    bodyJa: `Incredible or catastrophic? Jaguar unveils its polarising electric car
+- Published
+Two years ago, JLR relaunched Jaguar into a blizzard of controversy. Its bizarre teaser ad was described as "woke" and its "Barbie pink" concept car was ridiculed.
+Now, the first of its new models has appeared in public for the first time. The all-electric Type 01, unveiled in New York, represents a radical new direction for the classic brand.
+The car itself is an imposing four-door "Grand Tourer", with a long bonnet that deliberately harks back to Jaguar's emblematic 1960s E-Type.
+But it marks a gamble for JLR, which has invested billions reinventing Jaguar and is facing mixed reactions over the new car's design and the brand's all-electric strategy.
+The new model's electric motors are potent, producing about 1000 horsepower and allowing it to accelerate from 0-62mph in 3.2 seconds. JLR says it has a range, at "sustained highway speed", of up to 320 miles.
+The company describes it as the "most technically advanced, powerful and aerodynamic Jaguar ever engineered".
+However, it comes at a hefty price tag, with a minimum cost of £130,000 ($172,426). In the US, the Type 01 has a starting price of $130,500.
+Under normal circumstances, the launch of a car like this might generate few headlines. But in this case the attention has been much greater, and for good reason.
+'Woke' furore
+In 2024 Jaguar unveiled its new identity to the public. The first step was a surreal advert, showing models in a range of bizarre and brightly coloured outfits. There was a new Jaguar logo - but no cars in sight.
+Two weeks later, Jaguar's denim-clad design chief Gerry McGovern took to a Miami stage to unveil a pair of radical concept cars, resplendent in Miami Pink and London Blue colour schemes. "Jaguar has no desire to be loved by everybody," he quipped.
+The event was meant to herald Jaguar's future as a luxury all-electric marque, but it triggered a furious backlash in the press and on social media.
+Critics claimed JLR was betraying its heritage in favour of going "woke". Even the colour chosen for the launch was derided as "Barbie pink", as culture wars erupted around it.
+The reception appeared to catch JLR by surprise. The reinvention of Jaguar as a luxury electric brand was part of a wide-ranging strategy set out by the company in early 2023, in which it pledged to invest £15bn in new models and technologies.
+How Jaguar lost its way - long before that polarising advert
+- Published8 December 2024
+'Trust and reserve judgement' on rebrand, says Jaguar
+- Published23 November 2024
+At the time, Jaguar itself was struggling. The badge, which was once an intrinsic part of Swinging Sixties British cool, had lost its lustre. Where in the past it had supplied E-Types to Brigitte Bardot and Steve McQueen, it now struggled to sell upmarket saloons and SUVs to middle-ranking corporate executives, who generally preferred Audis and BMWs.
+"Jaguar's core demographic, despite the uproar, gave up on the brand years ago, so they effectively had nothing to lose," explains Matthias Schmidt of Schmidt Automotive Research.
+The unveiling of the Type 01 on Tuesday was met with mixed reactions, with some on social media criticising the new car.
+"Looks like a Cybertruck and a Bentley Continental had an illegitimate child," Facebook user Ken Katch said, referring to the Tesla pick-up, known for its divisive design.
+Craig Kinnersley, who runs a luxury car consultancy, wrote on LinkedIn that it is an "unmitigated catastrophe" that looks like a hearse and lacks any "memorable Jaguar flourish".
+Car journalist Steve Fowler said the Type 01 "looks incredible" and makes him "proud to be British".
+"Not everyone will like it - that's fine. Not everyone has to!" he wrote on X.
+Alistair Weaver from vehicle sales platform Edmunds said Jaguar deserved some credit for the Type 01's looks, despite it being "polarising".
+"If Jaguar designed a car that looked like anything else, it would have had no hope," Weaver told the BBC.
+But the firm faces an uphill battle in the US, where EVs are becoming less popular, he added.
+'Last throw of the dice'
+JLR wound down production of its old Jaguar models in 2024 and 2025. The "woke" row, while it possibly made life briefly uncomfortable for the company's leadership, did at least keep the Jaguar name in the public consciousness at a time when it was selling very few cars.
+"It brought Jaguar from the back pages to the front pages, given that it was dying in a crowded international market," says Schmidt. "Everyone is now talking about what would have been another boring product."
+The GT is expected to be the first of three new electric designs from Jaguar.
+Since that event in Miami two years ago, McGovern has left the company, JLR has parted ways with the agency behind the controversial rebranding campaign, and the company also has a new chief executive.
+But the future of Jaguar itself still hangs in the balance.
+"I think it really is a last throw of the dice," says Fowler. "JLR has struggled to make serious money with Jaguar in the past, and that's what it's all about."
+The question now is whether enough buyers can be found willing to pay £130,000 for a relatively distinctive upmarket electric car, in a market where they can also choose models from the likes of Porsche, Mercedes-AMG or even fast-growing Chinese brands such as Denza.
+"Forget the controversy, the culture wars and the pink concept car," says Ginny Buckley of the electric car website Electrifying.com.
+"What ultimately matters is whether Jaguar has built something extraordinary enough to justify blowing up everything it stood for before."
+She believes the car is good enough to silence critics, but admits "the next challenge will be getting people to buy it".
+Steve Fowler agrees. "The car is good enough to do it," he says. "Whether the Jaguar brand is good enough remains to be seen."
+- Published7 September`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-07T02:58:30+00:00",
+    category: "自動車",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/335a/live/8dbdf840-c1fd-11f1-9895-010ee6df064e.jpg",
+    readTime: 10,
+  },
+  {
+    id: "trillions-are-being-wasted-on-the-ai-boo-d9d62fc4",
+    title: "Trillions are being ‘wasted’ on the AI boom, Arthur Hayes says. He’s betting on what comes next",
+    titleJa: "Trillions are being ‘wasted’ on the AI boom, Arthur Hayes says. He’s betting on what comes next",
+    summaryJa: "Former BitMEX CEO Arthur Hayes says the AI infrastructure boom is being overbuilt and is betting an eventual crash and bailout will send crypto higher.",
+    bodyOriginal: `Former BitMEX CEO Arthur Hayes is betting that the artificial intelligence boom will eventually produce a familiar outcome: too much investment, a crash and, ultimately, a bailout that sends crypto higher.
+Hayes, co-founder and chief investment officer of crypto investment firm Maelstrom, said in response to questions from CNBC at the Gamma Prime Investing Conference in Singapore that humanity is "wasting multi-trillion dollars" on building AI data centers.
+The massive data center buildout would ultimately make computing power "extremely cheap and extremely plentiful," Hayes said.
+The bet runs against the massive investment pouring into AI infrastructure, as technology companies race to secure the computing power needed to develop and run increasingly advanced AI models. Hayes sees that buildout eventually becoming overcapacity, setting the stage for a downturn that he expects will ultimately benefit crypto.
+"If you study financial history and you study every single major technological rollout, it always is overbuilt. There always is a crash, and there always is a bailout," Hayes said.
+Investors who position for those bailouts stand to benefit, Hayes said, pointing to the aftermath of the 2008 financial crisis and other episodes over the past two decades.
+"Thankfully, we have bitcoin and other crypto to soak up that excess liquidity, and so we know the asset that's going to perform the best when the bailout comes," Hayes said, adding that "you just have to be patient."
+SpaceX, OpenAI and Anthropic are among the end users driving demand for computing power, and none of them makes money, Hayes said. Once the data centers currently under construction are completed, infrastructure providers will seek payment for the compute those companies have committed to, he said.
+That could come in late 2027 or 2028, when much of the new data center capacity is delivered, according to Hayes.
+The bull case is that AI becomes "so useful" over the next 12 months that demand grows enough for AI companies to become profitable, Hayes said.
+Some companies supplying the AI boom are already making money, Hayes said, pointing to memory chipmakers and Nvidia. The question for investors is whether they are paying the right multiple for those companies' forward earnings, he added.
+Hayes also said he does not like betting on falling prices or shorting AI companies, calling it "not really a great investment opportunity," but added that major technological rollouts have historically been overbuilt.
+The abundance of computing power created by the AI buildout is also behind Hayes' latest crypto venture, Flop, an AI-agent payments project expected to launch in the first quarter of 2027.
+Cheaper and more plentiful computing power would allow AI agents to proliferate, Hayes said.
+His new project, Flop, aims to create a spot market for computing power, where participants are rewarded with Flop tokens for providing GPUs and performing AI inference.
+There is currently no payments network for AI agents, Hayes said. Flop aims to create a spot market for compute.
+"If agents can convert a currency directly into compute, which is what they eat and consume, then they will use this currency," Hayes said. "That's our bet."`,
+    bodyJa: `Former BitMEX CEO Arthur Hayes is betting that the artificial intelligence boom will eventually produce a familiar outcome: too much investment, a crash and, ultimately, a bailout that sends crypto higher.
+Hayes, co-founder and chief investment officer of crypto investment firm Maelstrom, said in response to questions from CNBC at the Gamma Prime Investing Conference in Singapore that humanity is "wasting multi-trillion dollars" on building AI data centers.
+The massive data center buildout would ultimately make computing power "extremely cheap and extremely plentiful," Hayes said.
+The bet runs against the massive investment pouring into AI infrastructure, as technology companies race to secure the computing power needed to develop and run increasingly advanced AI models. Hayes sees that buildout eventually becoming overcapacity, setting the stage for a downturn that he expects will ultimately benefit crypto.
+"If you study financial history and you study every single major technological rollout, it always is overbuilt. There always is a crash, and there always is a bailout," Hayes said.
+Investors who position for those bailouts stand to benefit, Hayes said, pointing to the aftermath of the 2008 financial crisis and other episodes over the past two decades.
+"Thankfully, we have bitcoin and other crypto to soak up that excess liquidity, and so we know the asset that's going to perform the best when the bailout comes," Hayes said, adding that "you just have to be patient."
+SpaceX, OpenAI and Anthropic are among the end users driving demand for computing power, and none of them makes money, Hayes said. Once the data centers currently under construction are completed, infrastructure providers will seek payment for the compute those companies have committed to, he said.
+That could come in late 2027 or 2028, when much of the new data center capacity is delivered, according to Hayes.
+The bull case is that AI becomes "so useful" over the next 12 months that demand grows enough for AI companies to become profitable, Hayes said.
+Some companies supplying the AI boom are already making money, Hayes said, pointing to memory chipmakers and Nvidia. The question for investors is whether they are paying the right multiple for those companies' forward earnings, he added.
+Hayes also said he does not like betting on falling prices or shorting AI companies, calling it "not really a great investment opportunity," but added that major technological rollouts have historically been overbuilt.
+The abundance of computing power created by the AI buildout is also behind Hayes' latest crypto venture, Flop, an AI-agent payments project expected to launch in the first quarter of 2027.
+Cheaper and more plentiful computing power would allow AI agents to proliferate, Hayes said.
+His new project, Flop, aims to create a spot market for computing power, where participants are rewarded with Flop tokens for providing GPUs and performing AI inference.
+There is currently no payments network for AI agents, Hayes said. Flop aims to create a spot market for compute.
+"If agents can convert a currency directly into compute, which is what they eat and consume, then they will use this currency," Hayes said. "That's our bet."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/07/flop-ai-boom-arthur-hayes-bitcoin-bitmex-coinferencex-.html",
+    publishedAt: "2026-10-07T00:49:34+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 8,
+  },
+  {
+    id: "froyo-s-made-a-comeback-but-at-12-a-tub-cedd2137",
+    title: "Froyo's made a comeback. But at £12 a tub will it last?",
+    titleJa: "Froyo's made a comeback. But at £12 a tub will it last?",
+    summaryJa: "Frozen yoghurt, which was a huge craze in the 2000s and 2010s, has made its return with multiple chains popping up across the wider UK.",
+    bodyOriginal: `Froyo's made a comeback. But at £12 a tub will it last?
+- Published
+Kiersten Paterno was one of the many people willing to queue up to an hour to treat herself to some frozen yoghurt.
+"It was a 45-minute wait for my turn but the whole experience of choosing your flavours and customising it with different toppings was a big part of the appeal for me," the 19-year-old student says.
+Froyo was a huge trend in the UK in the late 2000s and early 2010s and was most popular in London.
+Chains like Snog had 10 stores in the capital at its peak and other brands like AngelBerry had shops in Bristol and Brighton.
+And this year it's made a comeback, driven by nostalgia, social media and its perception as a healthier dessert choice.
+Several brands such as Go Greek, Myka and Yo-Chi launched in London, while Frurt, which operates mainly in the north west of England and Yorkshire, has opened new stores, including one in Leicester.
+These companies saw hundreds of customers queueing to create their own dessert pot, despite it not being a particularly cheap treat, with tubs costing as much as £12.
+Kiersten says she was initially attracted to the dessert as she could manage portion size and sweetness level.
+"I could control how sweet I wanted it to be through the toppings. It feels healthier overall as it's a dessert I can enjoy without feeling like I've overindulged."
+She admits it can be pricey but says she doesn't mind spending a little more as an occasional treat.
+Sweet treat culture
+Research suggests the froyo market is steadily growing. Market Data Forecast estimates that the European frozen yoghurt market is worth £434m in 2026, up from £419m last year.
+Australian brand Yo-Chi opened a Notting Hill branch in August and blew up quickly on social media for its range of toppings and "third space" feel.
+"Sweet treat culture is huge. People aren't spending a fortune on big things, but a little thing like that, they're happy to," says Bethan Clarke, Yo-Chi campaign manager.
+While Yo-Chi would "never call ourselves healthy" - froyo is usually lower in calories and fat than ice cream, but may also contain more added sugar - Clarke says the fact that it is customisable means that people are in control of their own portion sizes and sugar levels.
+Social media trends like "2026 is the new 2016" are helping froyo's virality.
+"People are coming back to re-experience childhood a little bit," says Clarke.
+Ella Light, who also works for Yo-Chi, says she's been surprised by the mix of people coming into the store.
+"I was kind of expecting to see the Gen Z girlies coming in, [but] this morning there was a group of builders!"
+2010s throwbacks with a modern twist
+But how likely is the current froyo craze to survive? After all, it was huge in the 2010s but by the end of that decade was all but dead.
+Vhari Russell, founder of Food Marketing Experts, says: "Market over-saturation played a role in the initial disappearance of froyo, as well as the natural cycle of dying trends."
+Market leader Snog faced increasing competition from the likes of Yog, Yoomoo and Pinkberry, while consumers also realised that the dessert may not have been the healthier option they initially thought it was.
+"But now 2010s throwbacks coupled with a modern twist are seeing huge appetite across the market," says Russell.
+Will £12 for a tub eventually start to put people off though?
+Russell doesn't believe so, as she calls it an "affordable luxury".
+Going out for a froyo can be "an experiential moment" as much as anything, she adds.
+"For many people, they don't smoke or have expensive lifestyles, so froyo isn't viewed as food, it's viewed as an experience."
+Not interested in queuing for two hours? Here's how to make your own
+If the price of froyo seems unreasonable or if you can’t justify queueing for hours, BBC Food have five different froyo variations you can make at home.`,
+    bodyJa: `Froyo's made a comeback. But at £12 a tub will it last?
+- Published
+Kiersten Paterno was one of the many people willing to queue up to an hour to treat herself to some frozen yoghurt.
+"It was a 45-minute wait for my turn but the whole experience of choosing your flavours and customising it with different toppings was a big part of the appeal for me," the 19-year-old student says.
+Froyo was a huge trend in the UK in the late 2000s and early 2010s and was most popular in London.
+Chains like Snog had 10 stores in the capital at its peak and other brands like AngelBerry had shops in Bristol and Brighton.
+And this year it's made a comeback, driven by nostalgia, social media and its perception as a healthier dessert choice.
+Several brands such as Go Greek, Myka and Yo-Chi launched in London, while Frurt, which operates mainly in the north west of England and Yorkshire, has opened new stores, including one in Leicester.
+These companies saw hundreds of customers queueing to create their own dessert pot, despite it not being a particularly cheap treat, with tubs costing as much as £12.
+Kiersten says she was initially attracted to the dessert as she could manage portion size and sweetness level.
+"I could control how sweet I wanted it to be through the toppings. It feels healthier overall as it's a dessert I can enjoy without feeling like I've overindulged."
+She admits it can be pricey but says she doesn't mind spending a little more as an occasional treat.
+Sweet treat culture
+Research suggests the froyo market is steadily growing. Market Data Forecast estimates that the European frozen yoghurt market is worth £434m in 2026, up from £419m last year.
+Australian brand Yo-Chi opened a Notting Hill branch in August and blew up quickly on social media for its range of toppings and "third space" feel.
+"Sweet treat culture is huge. People aren't spending a fortune on big things, but a little thing like that, they're happy to," says Bethan Clarke, Yo-Chi campaign manager.
+While Yo-Chi would "never call ourselves healthy" - froyo is usually lower in calories and fat than ice cream, but may also contain more added sugar - Clarke says the fact that it is customisable means that people are in control of their own portion sizes and sugar levels.
+Social media trends like "2026 is the new 2016" are helping froyo's virality.
+"People are coming back to re-experience childhood a little bit," says Clarke.
+Ella Light, who also works for Yo-Chi, says she's been surprised by the mix of people coming into the store.
+"I was kind of expecting to see the Gen Z girlies coming in, [but] this morning there was a group of builders!"
+2010s throwbacks with a modern twist
+But how likely is the current froyo craze to survive? After all, it was huge in the 2010s but by the end of that decade was all but dead.
+Vhari Russell, founder of Food Marketing Experts, says: "Market over-saturation played a role in the initial disappearance of froyo, as well as the natural cycle of dying trends."
+Market leader Snog faced increasing competition from the likes of Yog, Yoomoo and Pinkberry, while consumers also realised that the dessert may not have been the healthier option they initially thought it was.
+"But now 2010s throwbacks coupled with a modern twist are seeing huge appetite across the market," says Russell.
+Will £12 for a tub eventually start to put people off though?
+Russell doesn't believe so, as she calls it an "affordable luxury".
+Going out for a froyo can be "an experiential moment" as much as anything, she adds.
+"For many people, they don't smoke or have expensive lifestyles, so froyo isn't viewed as food, it's viewed as an experience."
+Not interested in queuing for two hours? Here's how to make your own
+If the price of froyo seems unreasonable or if you can’t justify queueing for hours, BBC Food have five different froyo variations you can make at home.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cxly57v78yv7o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-06T23:01:31+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/272f/live/082e6960-c1a5-11f1-a64c-550be9e3c66b.jpg",
+    readTime: 10,
+  },
+  {
+    id: "braid-creator-jonathan-blow-on-making-th-047c9a1f",
+    title: "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
+    titleJa: "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
+    summaryJa: "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
+    bodyOriginal: `Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'
+- Published
+For ten years, Jonathan Blow has been working with a small team on what he believes is "the biggest puzzle game ever made".
+The American developer is renowned as one of the fathers of the modern indie game movement, creating the genre-defining puzzle-platformer Braid in 2008.
+Now, a decade on from his last project, The Witness, The Order of the Sinking Star is due to be released on Thursday - a game with roughly 1,500 puzzles that he estimates could take around 500 hours to complete.
+So why make something the majority of players may never get even halfway through, let alone finish?
+"Some people decide what to make based on what's practical or what makes business sense," Blow says. "It's never been the way that I think."
+"I sort of make bad business decisions in a sense...because I let the design dominate that process. But then because we did that, we always have something unique," he says.
+The game's blurb likens itself to a "game design supercollider" - four worlds viewed from overhead, built on the mechanics of four pre-existing free puzzle games from other designers (with their permission to do so).
+These ideas are then "smashed together" to create brand-new brainteasers.
+For example, one world's mechanics, based on those from the free 2014 game Mirror Isles by Alan Hazelden, sees players use mirror reflections to swap places across islands.
+When combined with the system of another free game created by Hazelden, Skipping Stones to Lonely Homes - where players throw stones into water to create paths - brand-new puzzle opportunities suddenly arise.
+Risk and reward
+Taking a risk on making something more experimental is what appears to ultimately drive Blow, who says that as the industry has grown, the culture for developers has also changed.
+"Somewhere along the way...this idea that the best designers were trying to always make new experiences...just sort of got dropped by the wayside," he says.
+The outspoken designer is renowned for his frank takes on the industry - previously calling social media games such as Farmville "evil" and World of Warcraft's quest design "unethical".
+In December 2025, Hazelden publicly distanced himself from Blow - writing in a post on Bluesky, external that he was "dismissive of diversity efforts" and "pro-MAGA".
+Blow, who has not responded to these critiques publicly, tells me he instead decided to "sit down and focus on the games".
+"What the players want from developers is good games," he says.
+"They don't want us to be arguing, especially with each other, about political stances."
+Blow says he is sceptical of AI, which was "not part of the pipeline at all" for Order of the Sinking Star, even though he recognises it as an "advancement" and an "interesting technology".
+Of the benefits often cited by those who use the tech, such as increased productivity, he asks: "If you're saying you're ten times as productive and it's been 3 years, you should have been able to do thirty years of work."
+"So where's this output of 30 years of work?"
+Despite rejecting the tech, Blow says the industry faces an "uncertain time" in how it deals with AI, particularly with newer creators who may rely too heavily on it to code rather than learning the "weird glyphs" themselves.
+"A danger is that not many people know how to program in the future," he says.
+"And if AI can't really do everything, then the supply of programmers might not be enough to make good stuff."
+A new language
+Blow's refusal to compromise on any aspect of the Order of the Sinking Star transcends its core design.
+The developer decided to make his own programming language, Jai, from scratch.
+He then used this, alongside a custom engine, to make the game.
+A game's engine is a piece of software that packs everything needed to craft a playable experience - including graphics rendering, physics simulation and scripting - into one place for creators.
+Some developers turn to pre-built game engines such as Unity or Unreal Engine, rather than taking on the considerable challenge of building an engine from scratch.
+For Blow, creating his own engine in this language meant he could build something "tuned and authored very specifically" to what he wanted to make.
+It is yet another reason he gives for why this project, which started as a simple "design experiment", has taken ten years to finish.
+"I do want the next project after this to be less on hard mode, or really it was nightmare mode, because we did so many things on hard mode at the same time," he reflects.
+"But it's also been rewarding in a certain way. Because otherwise, what else are you in the industry for?"
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
+Related topics
+- Published26 September
+- Published25 June`,
+    bodyJa: `Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'
+- Published
+For ten years, Jonathan Blow has been working with a small team on what he believes is "the biggest puzzle game ever made".
+The American developer is renowned as one of the fathers of the modern indie game movement, creating the genre-defining puzzle-platformer Braid in 2008.
+Now, a decade on from his last project, The Witness, The Order of the Sinking Star is due to be released on Thursday - a game with roughly 1,500 puzzles that he estimates could take around 500 hours to complete.
+So why make something the majority of players may never get even halfway through, let alone finish?
+"Some people decide what to make based on what's practical or what makes business sense," Blow says. "It's never been the way that I think."
+"I sort of make bad business decisions in a sense...because I let the design dominate that process. But then because we did that, we always have something unique," he says.
+The game's blurb likens itself to a "game design supercollider" - four worlds viewed from overhead, built on the mechanics of four pre-existing free puzzle games from other designers (with their permission to do so).
+These ideas are then "smashed together" to create brand-new brainteasers.
+For example, one world's mechanics, based on those from the free 2014 game Mirror Isles by Alan Hazelden, sees players use mirror reflections to swap places across islands.
+When combined with the system of another free game created by Hazelden, Skipping Stones to Lonely Homes - where players throw stones into water to create paths - brand-new puzzle opportunities suddenly arise.
+Risk and reward
+Taking a risk on making something more experimental is what appears to ultimately drive Blow, who says that as the industry has grown, the culture for developers has also changed.
+"Somewhere along the way...this idea that the best designers were trying to always make new experiences...just sort of got dropped by the wayside," he says.
+The outspoken designer is renowned for his frank takes on the industry - previously calling social media games such as Farmville "evil" and World of Warcraft's quest design "unethical".
+In December 2025, Hazelden publicly distanced himself from Blow - writing in a post on Bluesky, external that he was "dismissive of diversity efforts" and "pro-MAGA".
+Blow, who has not responded to these critiques publicly, tells me he instead decided to "sit down and focus on the games".
+"What the players want from developers is good games," he says.
+"They don't want us to be arguing, especially with each other, about political stances."
+Blow says he is sceptical of AI, which was "not part of the pipeline at all" for Order of the Sinking Star, even though he recognises it as an "advancement" and an "interesting technology".
+Of the benefits often cited by those who use the tech, such as increased productivity, he asks: "If you're saying you're ten times as productive and it's been 3 years, you should have been able to do thirty years of work."
+"So where's this output of 30 years of work?"
+Despite rejecting the tech, Blow says the industry faces an "uncertain time" in how it deals with AI, particularly with newer creators who may rely too heavily on it to code rather than learning the "weird glyphs" themselves.
+"A danger is that not many people know how to program in the future," he says.
+"And if AI can't really do everything, then the supply of programmers might not be enough to make good stuff."
+A new language
+Blow's refusal to compromise on any aspect of the Order of the Sinking Star transcends its core design.
+The developer decided to make his own programming language, Jai, from scratch.
+He then used this, alongside a custom engine, to make the game.
+A game's engine is a piece of software that packs everything needed to craft a playable experience - including graphics rendering, physics simulation and scripting - into one place for creators.
+Some developers turn to pre-built game engines such as Unity or Unreal Engine, rather than taking on the considerable challenge of building an engine from scratch.
+For Blow, creating his own engine in this language meant he could build something "tuned and authored very specifically" to what he wanted to make.
+It is yet another reason he gives for why this project, which started as a simple "design experiment", has taken ten years to finish.
+"I do want the next project after this to be less on hard mode, or really it was nightmare mode, because we did so many things on hard mode at the same time," he reflects.
+"But it's also been rewarding in a certain way. Because otherwise, what else are you in the industry for?"
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
+Related topics
+- Published26 September
+- Published25 June`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-06T23:01:22+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb59/live/11c39bd0-be71-11f1-8a45-cd59664d243b.jpg",
+    readTime: 10,
+  },
+  {
+    id: "uk-risks-being-uninvestable-if-new-oil-a-aaf9face",
+    title: "UK risks being 'uninvestable' if new oil and gas fields not approved, warns Equinor",
+    titleJa: "UK risks being 'uninvestable' if new oil and gas fields not approved, warns Equinor",
+    summaryJa: "Equinor warns it may shun further investments in the UK if new oil and gas fields at Rosebank and Jackdaw are not approved.",
+    bodyOriginal: `UK risks being 'uninvestable' if new oil and gas fields not approved, warns Equinor
+- Published
+Oil giant Equinor has warned it may shun further investments in the UK if new oil and gas fields at Rosebank and Jackdaw are not approved.
+"The question will be: is the UK investable in the future? I hope it will not come to that," said Anders Opedal, boss of the Norwegian state oil company which is part owner of the sites.
+He told the BBC the company would "have to take a hard view about it" if a decision was made to reject new drilling.
+The warning comes as the UK government is set to decide whether or not to grant final approval to extract oil and gas at Rosebank and Jackdaw, despite a ban pledged in Labour's election manifesto.
+The government said any decision would take into account all relevant evidence.
+'Political choice'
+Rising energy prices have prompted renewed debate over the UK's energy security, with UK production forecast to halve by 2035.
+The UK already relies on Norway for half of its gas needs, and the Norwegian government has continued to issue new licences for oil and gas exploration in its own North Sea waters.
+Equinor has predicted production will remain at current levels until the middle of the next decade.
+Opedal said he remained confident that Prime Minister Andy Burnham's talk of a "pragmatic approach to oil and gas" meant both projects would get approved but he said the current limbo was "an uncomfortable position to be in".
+He said that the UK could produce more of its own oil and gas.
+"It's a political choice," he said. "The North Sea oil and gas industry started on the UK side. We learned from the UK and it's actually the same geology on both sides of the border - several fields actually cross it."
+Rosebank is the United Kingdom's largest undeveloped oil and gas field, located in the North Atlantic about 80 miles north-west of the Shetland Islands and is thought to hold up to 500 million barrels of oil and gas.
+Opedal told the BBC the exploration licence for the site was originally granted 25 years ago. "The licence was awarded in 2001, the discovery was made in 2004 and the final investment decision in 2023," he said.
+Both Rosebank and Jackdaw were initially given the go-ahead by the former Conservative government but were delayed by a legal ruling from a Scottish court, after environmental groups argued consent was given without fully considering the climate impact.
+Following a public consultation on the sites, which closed in August, the final decision now rests with Energy Secretary Miatta Fahnbulleh.
+Both Jackdaw and Rosebank are operated by Adura, a joint venture between Equinor and Shell. Aberdeen-based firm Ithaca also owns 20% of Rosebank.
+Adura has previously said that if approval comes soon, Jackdaw could start delivering gas to UK homes by this winter as the construction is "99% complete".
+New drilling 'won't cut bills'
+Tessa Khan, executive director of Uplift, an organisation that wants the UK to move away from fossil fuel production, said new drilling at Rosebank "won't cut our bills" and was a "bad deal for Britain".
+"It's overwhelmingly oil for export – but it will make Equinor and its part-owner, the Norwegian government, richer, while Britain is left with high energy bills and a declining workforce."
+Khan said Labour's "climate credibility is also on the line".
+A government spokesperson said the North Sea remained a "vital national asset", adding that "oil and gas will continue to play an important role in our energy system for decades to come - alongside transitioning to clean power to protect jobs and tackle the climate crisis".
+"Any decision will take into account all relevant evidence, including environmental assessments and public representations received during the consultation process," the spokesperson added.`,
+    bodyJa: `UK risks being 'uninvestable' if new oil and gas fields not approved, warns Equinor
+- Published
+Oil giant Equinor has warned it may shun further investments in the UK if new oil and gas fields at Rosebank and Jackdaw are not approved.
+"The question will be: is the UK investable in the future? I hope it will not come to that," said Anders Opedal, boss of the Norwegian state oil company which is part owner of the sites.
+He told the BBC the company would "have to take a hard view about it" if a decision was made to reject new drilling.
+The warning comes as the UK government is set to decide whether or not to grant final approval to extract oil and gas at Rosebank and Jackdaw, despite a ban pledged in Labour's election manifesto.
+The government said any decision would take into account all relevant evidence.
+'Political choice'
+Rising energy prices have prompted renewed debate over the UK's energy security, with UK production forecast to halve by 2035.
+The UK already relies on Norway for half of its gas needs, and the Norwegian government has continued to issue new licences for oil and gas exploration in its own North Sea waters.
+Equinor has predicted production will remain at current levels until the middle of the next decade.
+Opedal said he remained confident that Prime Minister Andy Burnham's talk of a "pragmatic approach to oil and gas" meant both projects would get approved but he said the current limbo was "an uncomfortable position to be in".
+He said that the UK could produce more of its own oil and gas.
+"It's a political choice," he said. "The North Sea oil and gas industry started on the UK side. We learned from the UK and it's actually the same geology on both sides of the border - several fields actually cross it."
+Rosebank is the United Kingdom's largest undeveloped oil and gas field, located in the North Atlantic about 80 miles north-west of the Shetland Islands and is thought to hold up to 500 million barrels of oil and gas.
+Opedal told the BBC the exploration licence for the site was originally granted 25 years ago. "The licence was awarded in 2001, the discovery was made in 2004 and the final investment decision in 2023," he said.
+Both Rosebank and Jackdaw were initially given the go-ahead by the former Conservative government but were delayed by a legal ruling from a Scottish court, after environmental groups argued consent was given without fully considering the climate impact.
+Following a public consultation on the sites, which closed in August, the final decision now rests with Energy Secretary Miatta Fahnbulleh.
+Both Jackdaw and Rosebank are operated by Adura, a joint venture between Equinor and Shell. Aberdeen-based firm Ithaca also owns 20% of Rosebank.
+Adura has previously said that if approval comes soon, Jackdaw could start delivering gas to UK homes by this winter as the construction is "99% complete".
+New drilling 'won't cut bills'
+Tessa Khan, executive director of Uplift, an organisation that wants the UK to move away from fossil fuel production, said new drilling at Rosebank "won't cut our bills" and was a "bad deal for Britain".
+"It's overwhelmingly oil for export – but it will make Equinor and its part-owner, the Norwegian government, richer, while Britain is left with high energy bills and a declining workforce."
+Khan said Labour's "climate credibility is also on the line".
+A government spokesperson said the North Sea remained a "vital national asset", adding that "oil and gas will continue to play an important role in our energy system for decades to come - alongside transitioning to clean power to protect jobs and tackle the climate crisis".
+"Any decision will take into account all relevant evidence, including environmental assessments and public representations received during the consultation process," the spokesperson added.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6zxjrekg29zo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-06T23:01:13+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a744/live/c3d0e5f0-c1a8-11f1-bc2e-018d645d8d21.jpg",
+    readTime: 10,
+  },
+  {
+    id: "what-can-i-do-to-protect-myself-after-as-f39f6f9b",
+    title: "What can I do to protect myself after 'Asos hacked' message?",
+    titleJa: "What can I do to protect myself after 'Asos hacked' message?",
+    summaryJa: "Asos says people should not engage with the unauthorised notification and says it'll provide further information.",
+    bodyOriginal: `What can I do to protect myself after 'Asos hacked' message?
+- Published
+If a strange-looking message from Asos popped up on your phone on Tuesday, you may be worrying what it could mean and whether you need to do anything.
+The online retailer has emailed customers apologising for the "unauthorised push notification" containing an external link, adding that they should disregard the message and not click on it.
+Here's what has happened, and what those who may have been affected are being advised to do.
+What message did people receive?
+On Tuesday morning, Asos users across the UK were sent pop-up messages from its app that appear to have been sent by hackers trying to extort the company.
+"Dear ASOS DPO and IT, we have fully compromised the Snowflake instance. Engage with us, or we will leak it," the message read.
+Later that day, Asos said it took immediate action to restrict the apparent hackers' access, was investigating and working with advisers and relevant authorities on "next steps".
+Data storage company Snowflake told the BBC its investigations had "found no compromise" of its platform.
+What does this mean for my data?
+At this stage it isn't clear what information, if any, has been accessed.
+On Tuesday evening, Asos told customers it may include "basic personal information including name and contact details".
+"However, we don't believe that any payment-card information or account passwords have been impacted," it added.
+While those who received the pop-up message will undoubtedly be concerned, it does not mean your phone has been hacked.
+What can I do to protect myself?
+For now, the advice is:
+Don't click the link: The hack notification included a link to a Telegram account - Asos and cyber security experts say not to click on it
+Change passwords: It's worth updating your password, including across other sites that use the same one as your Asos account. The advice for a strong password is to mix numbers, symbols and upper and lower case characters, and avoid using the same password across multiple accounts
+Turn on two-step verification for important apps like banking and email: The National Cyber Security Centre (NCSC) calls this "one of the most effective ways to protect your online accounts from cyber criminals". You can usually turn it on by going into the security settings in your account
+Monitor transactions: Keep an eye on your online transactions for anything unusual
+Be alert going forward
+According to Charlotte Wilson, head of enterprise at global cyber-security firm Check Point, "the biggest immediate risk may be what happens next".
+She says criminals know people will be searching for information online and expects there to be "attempts to exploit that confusion".
+Her advice to Asos customers is not to be "scared and frightened". But she says they should be "extremely suspicious" of emails, texts or messages claiming their account has been compromised, offering a refund or asking them to click a link to reset their password.
+People should hang up the phone if they receive any calls from someone they think might be posing as Asos or another organisation, says Which? spokesperson Kat Cereda.
+The consumer rights expert says they should contact the organisation themselves afterwards through separate means.
+'An awful lot' we don't know
+It's been less than 24 hours since the notification popped up on people's phones, and there are a number of unanswered questions.
+It isn't yet clear who is behind the message, what their motivation is, how many people received the notification or how many may be impacted
+Wilson, from the cyber-security firm Check Point, says there's still "an awful lot" we don't know.
+Asos said its website and app were operating "as normal, and customers can continue to shop with confidence on ASOS as normal" as of Tuesday night.
+It said protecting customers "is our priority", and it will provide a further update "as soon as we have confirmed more information".
+People should visit Asos's official website directly for updates.
+- Published11 hours ago`,
+    bodyJa: `What can I do to protect myself after 'Asos hacked' message?
+- Published
+If a strange-looking message from Asos popped up on your phone on Tuesday, you may be worrying what it could mean and whether you need to do anything.
+The online retailer has emailed customers apologising for the "unauthorised push notification" containing an external link, adding that they should disregard the message and not click on it.
+Here's what has happened, and what those who may have been affected are being advised to do.
+What message did people receive?
+On Tuesday morning, Asos users across the UK were sent pop-up messages from its app that appear to have been sent by hackers trying to extort the company.
+"Dear ASOS DPO and IT, we have fully compromised the Snowflake instance. Engage with us, or we will leak it," the message read.
+Later that day, Asos said it took immediate action to restrict the apparent hackers' access, was investigating and working with advisers and relevant authorities on "next steps".
+Data storage company Snowflake told the BBC its investigations had "found no compromise" of its platform.
+What does this mean for my data?
+At this stage it isn't clear what information, if any, has been accessed.
+On Tuesday evening, Asos told customers it may include "basic personal information including name and contact details".
+"However, we don't believe that any payment-card information or account passwords have been impacted," it added.
+While those who received the pop-up message will undoubtedly be concerned, it does not mean your phone has been hacked.
+What can I do to protect myself?
+For now, the advice is:
+Don't click the link: The hack notification included a link to a Telegram account - Asos and cyber security experts say not to click on it
+Change passwords: It's worth updating your password, including across other sites that use the same one as your Asos account. The advice for a strong password is to mix numbers, symbols and upper and lower case characters, and avoid using the same password across multiple accounts
+Turn on two-step verification for important apps like banking and email: The National Cyber Security Centre (NCSC) calls this "one of the most effective ways to protect your online accounts from cyber criminals". You can usually turn it on by going into the security settings in your account
+Monitor transactions: Keep an eye on your online transactions for anything unusual
+Be alert going forward
+According to Charlotte Wilson, head of enterprise at global cyber-security firm Check Point, "the biggest immediate risk may be what happens next".
+She says criminals know people will be searching for information online and expects there to be "attempts to exploit that confusion".
+Her advice to Asos customers is not to be "scared and frightened". But she says they should be "extremely suspicious" of emails, texts or messages claiming their account has been compromised, offering a refund or asking them to click a link to reset their password.
+People should hang up the phone if they receive any calls from someone they think might be posing as Asos or another organisation, says Which? spokesperson Kat Cereda.
+The consumer rights expert says they should contact the organisation themselves afterwards through separate means.
+'An awful lot' we don't know
+It's been less than 24 hours since the notification popped up on people's phones, and there are a number of unanswered questions.
+It isn't yet clear who is behind the message, what their motivation is, how many people received the notification or how many may be impacted
+Wilson, from the cyber-security firm Check Point, says there's still "an awful lot" we don't know.
+Asos said its website and app were operating "as normal, and customers can continue to shop with confidence on ASOS as normal" as of Tuesday night.
+It said protecting customers "is our priority", and it will provide a further update "as soon as we have confirmed more information".
+People should visit Asos's official website directly for updates.
+- Published11 hours ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ck1l3g8097rzo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-06T19:17:23+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/939d/live/bd626bd0-c1a3-11f1-8fa2-19a1e9b6288f.png",
+    readTime: 10,
+  },
+  {
     id: "anthropic-expands-claude-startups-progra-1eaac72b",
     title: "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
     titleJa: "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
@@ -1787,488 +2299,6 @@ These countries will face the costs of aging at much lower income levels than th
     category: "金融政策",
     imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 7,
-  },
-  {
-    id: "trump-unveils-super-intelligence-force-t-c28bf1ed",
-    title: "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-    titleJa: "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-    summaryJa: "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
-    bodyOriginal: `Trump unveils 'Super Intelligence Force' to oversee AI policy
-- Published
-US President Donald Trump says he has created a new taskforce focused on artificial intelligence, which will be led by Director of National Intelligence Jay Clayton.
-The "Super Intelligence Force" will work to ensure that the US continues to lead in the technology's development and will coordinate the government's engagement with the public, Trump posted on Sunday.
-It comes after the president signed an executive order on 29 September to rename AI as Super Intelligence, after previously saying the word artificial made it sound "fake".
-Trump also said last week that he would set up a board to oversee AI safety after top tech bosses signed what he described as a "morally binding" pact.
-"The Super Intelligence Force will coordinate the Federal Government's engagement with Consumers, Public Interest Groups, Religious Organizations, Critical Infrastructure Providers, and Super Intelligence Companies," Trump wrote.
-Federal Trade Commission Chair Andrew Ferguson and Undersecretary of Defense for Research, Engineering Emil Michael and Director of the Office of Personnel Management Scott Kupor will also be part of the taskforce.
-It will report directly to the president and White House Chief of Staff Susie Wiles.
-The taskforce's chief, Clayton, took office as the US national intelligence director in August after Trump's original choice, Bill Pulte, was rejected by lawmakers.
-On AI, Clayton has previously said: "When something's both an opportunity and a threat, you better get your arms around it."
-Clayton previously served as US attorney for the Southern District of New York, overseeing several prominent cases, including the drug trafficking case against former Venezuelan President Nicholas Maduro.
-The announcement of the taskforce follows growing pressure from prominent figures in the industry, including executives of OpenAI and Anthropic, to tighten regulation of the technology.
-In an interview published on 4 October, OpenAI chief executive Sam Altman said the benefits of AI justify accepting some of its risks and argued that the technology should remain accessible to the public.
-"The world should accept some bad things happening for the benefits of this technology and people having the agency," Altman told Politico's technology-focused newsletter Decoded.
-Trump has dismissed calls for stronger oversight and largely left it to AI companies to regulate themselves.
-The pact signed on 29 September includes the signatures of executives from top tech firms like OpenAI, Anthropic, SpaceX and Google.
-On the same day, the president signed an executive order instructing US government departments and agencies to start using the terms "SI" and "Super Intelligence" and should no longer acknowledge the use of the term artificial intelligence.
-SI will take the place of AI in "official correspondence", websites, reports and other forms of communication, the order said.
-Some experts have questioned the logic of the rebranding, arguing that the use of "super intelligence" could cause confusion as it refers to more advanced systems.
-Some top tech leaders have already started to use the new name, including multi-billionaire Elon Musk, who said on social media on Sunday that he will rename his firm's AI platform SpaceXAI as SpaceXSI.
-"SpaceX is a super intelligence company", Musk wrote.
-The Tesla boss has recently been brought back into the US government to be part of a project to study the future of war.
-Musk previously served in the Trump administration, heading the so-called Department of Government Efficiency, before his tenure ended in a public spat with Trump.
-- Published5 days ago
-- Published5 days ago`,
-    bodyJa: `Trump unveils 'Super Intelligence Force' to oversee AI policy
-- Published
-US President Donald Trump says he has created a new taskforce focused on artificial intelligence, which will be led by Director of National Intelligence Jay Clayton.
-The "Super Intelligence Force" will work to ensure that the US continues to lead in the technology's development and will coordinate the government's engagement with the public, Trump posted on Sunday.
-It comes after the president signed an executive order on 29 September to rename AI as Super Intelligence, after previously saying the word artificial made it sound "fake".
-Trump also said last week that he would set up a board to oversee AI safety after top tech bosses signed what he described as a "morally binding" pact.
-"The Super Intelligence Force will coordinate the Federal Government's engagement with Consumers, Public Interest Groups, Religious Organizations, Critical Infrastructure Providers, and Super Intelligence Companies," Trump wrote.
-Federal Trade Commission Chair Andrew Ferguson and Undersecretary of Defense for Research, Engineering Emil Michael and Director of the Office of Personnel Management Scott Kupor will also be part of the taskforce.
-It will report directly to the president and White House Chief of Staff Susie Wiles.
-The taskforce's chief, Clayton, took office as the US national intelligence director in August after Trump's original choice, Bill Pulte, was rejected by lawmakers.
-On AI, Clayton has previously said: "When something's both an opportunity and a threat, you better get your arms around it."
-Clayton previously served as US attorney for the Southern District of New York, overseeing several prominent cases, including the drug trafficking case against former Venezuelan President Nicholas Maduro.
-The announcement of the taskforce follows growing pressure from prominent figures in the industry, including executives of OpenAI and Anthropic, to tighten regulation of the technology.
-In an interview published on 4 October, OpenAI chief executive Sam Altman said the benefits of AI justify accepting some of its risks and argued that the technology should remain accessible to the public.
-"The world should accept some bad things happening for the benefits of this technology and people having the agency," Altman told Politico's technology-focused newsletter Decoded.
-Trump has dismissed calls for stronger oversight and largely left it to AI companies to regulate themselves.
-The pact signed on 29 September includes the signatures of executives from top tech firms like OpenAI, Anthropic, SpaceX and Google.
-On the same day, the president signed an executive order instructing US government departments and agencies to start using the terms "SI" and "Super Intelligence" and should no longer acknowledge the use of the term artificial intelligence.
-SI will take the place of AI in "official correspondence", websites, reports and other forms of communication, the order said.
-Some experts have questioned the logic of the rebranding, arguing that the use of "super intelligence" could cause confusion as it refers to more advanced systems.
-Some top tech leaders have already started to use the new name, including multi-billionaire Elon Musk, who said on social media on Sunday that he will rename his firm's AI platform SpaceXAI as SpaceXSI.
-"SpaceX is a super intelligence company", Musk wrote.
-The Tesla boss has recently been brought back into the US government to be part of a project to study the future of war.
-Musk previously served in the Trump administration, heading the so-called Department of Government Efficiency, before his tenure ended in a public spat with Trump.
-- Published5 days ago
-- Published5 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-05T03:37:41+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a97/live/e8568220-c056-11f1-ba75-170165fdb734.jpg",
-    readTime: 9,
-  },
-  {
-    id: "surging-treasury-yields-don-t-signal-a-u-99f2e788",
-    title: "Surging Treasury yields don’t signal a U.S. 'fiscal apocalypse' — yet",
-    titleJa: "Surging Treasury yields don’t signal a U.S. 'fiscal apocalypse' — yet",
-    summaryJa: "Treasury yields above 5% are raising fears that higher borrowing costs could fuel a debt spiral.",
-    bodyOriginal: `U.S. government borrowing costs have risen to their highest levels in decades, stoking concerns that the country's growing debt burden could eventually trigger a fiscal crisis. Will it?
-The benchmark 10-year Treasury yield is now firmly above 5%, while the government's net interest costs estimated at about $1.05 trillion in the first 11 months of fiscal year 2026.
-Experts are voicing concerns over the vicious cycle of rising debt and higher yields. Maya MacGuineas, president of the Committee for a Responsible Federal Budget, a U.S. policy think tank, has warned that higher borrowing costs risk becoming self-reinforcing as mounting interest expenses force the government to borrow still more.
-"The real threat is the debt spiral. If interest begets debt, and debt begets interest, eventually debt will spin out of control. A fiscal crisis, once unthinkable, is now a distinct possibility," MacGuineas said in a statement last month after the 10-year Treasury yield crossed 5%.
-The nightmare scenario is relatively straightforward: investors demand higher yields to lend to a heavily indebted government; those higher rates push up Washington's interest bill; the government has to borrow more to service its debt obligations; and investors demand even higher yields in response.
-Some bond market experts, however, say the U.S. is some distance from a fiscal breaking point, and that the latest surge in yields may have as much to do with a surprisingly resilient economy as fears over government debt.
-"A fiscal apocalypse is not upon us just yet," TD Securities strategists Gennadiy Goldberg and Molly Brooks said in a recent note.
-The bank estimates U.S. interest expenses in fiscal year 2026 to be around $1.1 trillion and continue rising if rates remain elevated. Its projections show financing costs reaching $1.4 trillion in fiscal 2027, $1.5 trillion in 2028 and $1.6 trillion in 2029, if yields stay around current levels.
-An important buffer is that Washington does not have to refinance its entire debt pile at today's higher rates immediately, the investment bank's analysts said.
-The weighted-average maturity of U.S. government debt is about 5.9 years, meaning higher borrowing costs feed through gradually as existing bonds mature and new debt is issued. The average coupon on Treasury securities excluding bills is still just 3.1%, according to TD Securities.
-Perhaps more importantly, the average interest rate on U.S. debt, at about 3.4%, remains below the rate at which the economy is growing in nominal terms. Nominal U.S. GDP grew at an annualized rate of 8.5% in the second quarter, according to the latest Bureau of Economic Analysis estimate. That helps keep the debt burden manageable even as deficits remain large, TD said.
-Matthew Reese, head of global bond strategies at L&G Asset Management, also said fears of an imminent U.S. fiscal crisis were "exaggerated."
-"There are valid concerns that the U.S., along with many other developed economies, will suffer from the negative feedback loop caused by higher yield costs increasing their fiscal burden as they refinance their debt and fund their fiscal deficit," he told CNBC in an e-mail.
-"However, the US still retains much of the 'exorbitant privilege' of the US dollar and its role as the most liquid and still highly rated economy. Therefore, we are some way away from a fiscal crisis."
-Not a crisis — yet
-The negative feedback loop becomes more dangerous when nominal economic growth falls to low levels, causing debt relative to the size of the economy to rise persistently, Reese said.
-Still, high debt alone does not necessarily trigger a crisis.
-"It is important to note that countries such as Japan have coped with significantly higher debt levels than the U.S., with very low nominal growth, without suffering a fiscal crisis," Reese said.
-Federal debt held by the public is projected to stand at about 101% of GDP in fiscal 2026, according to the Congressional Budget Office.
-While that trajectory is enough to keep investors concerned, TD Securities does not see a fiscal crisis as imminent.
-And government finances may not even be the main reason Treasury yields have risen so sharply.
-TD pointed to stronger economic growth, expectations for Federal Reserve rate hikes, higher oil prices, corporate bond issuance and repositioning by fast-money investors alongside fiscal concerns, as factors driving yields higher.
-Ian Lyngen, head of U.S. rates strategy at BMO Capital Markets, also pointed to the resilience of the U.S. economy as an important driver of higher Treasury yields.
-"All else being equal, investors are content with the underlying performance of the real economy and share the Fed's inflation angst," Lyngen wrote. He said the latest jobs data was likely to "confirm the resilience of labor market conditions in the face of sticky inflation and elevated borrowing costs
-Lyngen added that the rise in longer-term yields has "largely been a real rates story," with investors pointing to stronger actual and expected economic growth, among other factors, to explain the move.
-In BMO's survey, just 1% of respondents said the labor market would be the first area to show clear signs of stress from rising real rates. Housing topped the list at 42%, followed by stocks at 26% and corporate credit at 21%.
-The picture could change, however, if higher rates finally begin to inflict significant damage on the economy or financial markets. Lyngen said the "only durable constraint on even higher bond yields would be indisputable evidence that either the economy or risk assets are buckling under the pressure of elevated borrowing costs."`,
-    bodyJa: `U.S. government borrowing costs have risen to their highest levels in decades, stoking concerns that the country's growing debt burden could eventually trigger a fiscal crisis. Will it?
-The benchmark 10-year Treasury yield is now firmly above 5%, while the government's net interest costs estimated at about $1.05 trillion in the first 11 months of fiscal year 2026.
-Experts are voicing concerns over the vicious cycle of rising debt and higher yields. Maya MacGuineas, president of the Committee for a Responsible Federal Budget, a U.S. policy think tank, has warned that higher borrowing costs risk becoming self-reinforcing as mounting interest expenses force the government to borrow still more.
-"The real threat is the debt spiral. If interest begets debt, and debt begets interest, eventually debt will spin out of control. A fiscal crisis, once unthinkable, is now a distinct possibility," MacGuineas said in a statement last month after the 10-year Treasury yield crossed 5%.
-The nightmare scenario is relatively straightforward: investors demand higher yields to lend to a heavily indebted government; those higher rates push up Washington's interest bill; the government has to borrow more to service its debt obligations; and investors demand even higher yields in response.
-Some bond market experts, however, say the U.S. is some distance from a fiscal breaking point, and that the latest surge in yields may have as much to do with a surprisingly resilient economy as fears over government debt.
-"A fiscal apocalypse is not upon us just yet," TD Securities strategists Gennadiy Goldberg and Molly Brooks said in a recent note.
-The bank estimates U.S. interest expenses in fiscal year 2026 to be around $1.1 trillion and continue rising if rates remain elevated. Its projections show financing costs reaching $1.4 trillion in fiscal 2027, $1.5 trillion in 2028 and $1.6 trillion in 2029, if yields stay around current levels.
-An important buffer is that Washington does not have to refinance its entire debt pile at today's higher rates immediately, the investment bank's analysts said.
-The weighted-average maturity of U.S. government debt is about 5.9 years, meaning higher borrowing costs feed through gradually as existing bonds mature and new debt is issued. The average coupon on Treasury securities excluding bills is still just 3.1%, according to TD Securities.
-Perhaps more importantly, the average interest rate on U.S. debt, at about 3.4%, remains below the rate at which the economy is growing in nominal terms. Nominal U.S. GDP grew at an annualized rate of 8.5% in the second quarter, according to the latest Bureau of Economic Analysis estimate. That helps keep the debt burden manageable even as deficits remain large, TD said.
-Matthew Reese, head of global bond strategies at L&G Asset Management, also said fears of an imminent U.S. fiscal crisis were "exaggerated."
-"There are valid concerns that the U.S., along with many other developed economies, will suffer from the negative feedback loop caused by higher yield costs increasing their fiscal burden as they refinance their debt and fund their fiscal deficit," he told CNBC in an e-mail.
-"However, the US still retains much of the 'exorbitant privilege' of the US dollar and its role as the most liquid and still highly rated economy. Therefore, we are some way away from a fiscal crisis."
-Not a crisis — yet
-The negative feedback loop becomes more dangerous when nominal economic growth falls to low levels, causing debt relative to the size of the economy to rise persistently, Reese said.
-Still, high debt alone does not necessarily trigger a crisis.
-"It is important to note that countries such as Japan have coped with significantly higher debt levels than the U.S., with very low nominal growth, without suffering a fiscal crisis," Reese said.
-Federal debt held by the public is projected to stand at about 101% of GDP in fiscal 2026, according to the Congressional Budget Office.
-While that trajectory is enough to keep investors concerned, TD Securities does not see a fiscal crisis as imminent.
-And government finances may not even be the main reason Treasury yields have risen so sharply.
-TD pointed to stronger economic growth, expectations for Federal Reserve rate hikes, higher oil prices, corporate bond issuance and repositioning by fast-money investors alongside fiscal concerns, as factors driving yields higher.
-Ian Lyngen, head of U.S. rates strategy at BMO Capital Markets, also pointed to the resilience of the U.S. economy as an important driver of higher Treasury yields.
-"All else being equal, investors are content with the underlying performance of the real economy and share the Fed's inflation angst," Lyngen wrote. He said the latest jobs data was likely to "confirm the resilience of labor market conditions in the face of sticky inflation and elevated borrowing costs
-Lyngen added that the rise in longer-term yields has "largely been a real rates story," with investors pointing to stronger actual and expected economic growth, among other factors, to explain the move.
-In BMO's survey, just 1% of respondents said the labor market would be the first area to show clear signs of stress from rising real rates. Housing topped the list at 42%, followed by stocks at 26% and corporate credit at 21%.
-The picture could change, however, if higher rates finally begin to inflict significant damage on the economy or financial markets. Lyngen said the "only durable constraint on even higher bond yields would be indisputable evidence that either the economy or risk assets are buckling under the pressure of elevated borrowing costs."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/05/treasury-yields-fiscal-concerns-not-crisis-yet.html",
-    publishedAt: "2026-10-05T02:24:07+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "how-india-became-dangerously-addicted-to-e1d74043",
-    title: "How India became dangerously addicted to Chinese imports",
-    titleJa: "How India became dangerously addicted to Chinese imports",
-    summaryJa: "India’s toy shops provide an unlikely barometer by which to measure its economic relationship with China.",
-    bodyOriginal: `How India became dangerously addicted to Chinese imports
-- Published
-Take a walk into an Indian toy shop and as well as picking up a new favourite plaything for a child, you might just get an insight into how the nation is battling for a better economic relationship with its all-powerful neighbour China.
-Six years ago, in an attempt to push local manufacturing and keep substandard toys out of its market, India raised tariffs on imported toys from 20% to 60% and eventually to 70%.
-Retailers were up in arms and said that domestic firms could never match the foreign-made stuff. But the combination of higher customs duties and quality control standards worked.
-Indian imports of toys fell by a third from nearly $300m (£227m) in 2020 to $100m this year, while exports rose from around $129m to $200m in the same period. Moreover, the country was able to drastically reduce its dependence on China, which held a 70% share of the local toy market.
-The sector stands out as a rare exception in India's otherwise unsuccessful attempts to rebalance an increasingly lopsided trading relationship with its larger neighbour, which some experts say, is now among the most asymmetric in the world.
-Even as diplomatic ties between the two countries completely broke down following the Galwan Valley clashes in 2020 and Delhi announced a slew of anti-dumping duties and a ban on Chinese apps such as Tik Tok, its trade deficit with Beijing has only ballooned - from $44bn in 2020 to an eye-popping $112bn this year.
-"India's economic dependence on China continued to deepen while political, security, and investment ties were at their lowest point," Kevin Zongzhe Li, a Washington-based Fellow at the Asia Society Policy Institute's Centre for China Analysis, told the BBC.
-More worryingly, exports to China remained below pre-pandemic level even as imports doubled in this period.
-"China now supplies over 30% of India's industrial imports, and India depends on it for more than 100 critical products. And the imbalance is worsening," says Ajay Srivastava of the Delhi-based Global Trade and Research Initiative (GTRI).
-If the rapid pace of imports continues, bilateral deficit could jump to $134bn, giving Beijing even more leverage over Indian industry, according to Srivastava.
-On the sidelines of the Brics summit in Delhi in September, amid a deepening thaw between the Asian giants, Prime Minister Narendra Modi and Chinese President Xi Jinping vowed to address, external these "structural trade imbalances and supply chain issues".
-But given how deeply entrenched Chinese imports have become to India's industrial economy, this will be a formidable task for Delhi, experts told the BBC.
-That's primarily because India depends on China to not merely consume end-products, but increasingly to produce industrial goods.
-To be true, India has reduced its reliance on imports of finished goods such as smartphones and solar equipment, and now produces more than a quarter of the world's iPhones.
-"Yet, production remains largely assembly-based and depends heavily on imported components, particularly from China," says Srivastava.
-It's the same story with industrial machinery, battery inputs, chemicals, solar cells, and manufacturing equipment.
-Electrical machinery and electronics alone account for 36% of imports, followed by machinery and mechanical appliances at 21.7%, while organic chemicals and plastics also have a significant share, according to the Observer Research Foundation (ORF) think tank.
-"Their interruption would not merely affect consumption; it would disrupt production itself," according to Soumya Bhowmik, a Fellow at ORF's Centre for New Economic Diplomacy, who argues that this reflects India's difficulty in substituting Chinese inputs with local production.
-Besides a growing reliance on inputs and raw material, Chinese imports to India are also being propelled by other macroeconomic trends.
-China has huge excess capacity in sectors from steel to solar panels and electric vehicles, while its slowing economy cannot absorb the output.
-Manufacturers are therefore increasingly turning to overseas markets, selling goods cheaply. China's trade surplus is expected to top $1tn for a second straight year.
-A lot of these goods are coming to Indian shores because it is rapidly expanding manufacturing across segments of the economy, but also as "Western markets impose tariffs and other restrictions", says Srivastava.
-On the other hand, lack of access to the Chinese market remains a major challenge for Indian companies.
-"Indian products face a variety of tariff and non-tariff hurdles in China that make it difficult to scale exports," says Li.
-"If normalisation [of ties] continues without a serious push for reciprocal market access, India risks a situation where the political relationship improves but the economic dependency stays the same."
-The long term solution to both reducing avoidable imports and improving exports performance will be to strengthen manufacturing, says Srivastava.
-But that requires sector-specific industrial policy and stronger fundamentals – affordable power and credit, efficient logistics and stable regulations – areas where India still falls short.
-India has also recently softened foreign direct investment rules, which could open the door to Chinese companies wanting to expand Indian investments. But these too will need careful vetting, he adds.
-"Investment that merely expands distribution networks or assembles products using Chinese parts could increase imports and deepen dependence. Approvals should therefore prioritise technology transfer, local value addition, domestic component production and exports from India."
-More immediately, India could focus on targeting higher exports to China in specific sectors to reduce its trade asymmetry, says Li. Sectors like pharmaceuticals could be a natural fit with China's population aging and healthcare costs rising.
-"But narrowing a $112bn deficit won't come from finding niche export sectors alone," he adds.
-"The key question is whether Beijing is ready and willing to make concessions on market access as part of the broader normalisation. Alternatively, India will need to find its own leverage to force that conversation."
-Follow BBC News India on Instagram, external, YouTube,, external X, external and Facebook, external.`,
-    bodyJa: `How India became dangerously addicted to Chinese imports
-- Published
-Take a walk into an Indian toy shop and as well as picking up a new favourite plaything for a child, you might just get an insight into how the nation is battling for a better economic relationship with its all-powerful neighbour China.
-Six years ago, in an attempt to push local manufacturing and keep substandard toys out of its market, India raised tariffs on imported toys from 20% to 60% and eventually to 70%.
-Retailers were up in arms and said that domestic firms could never match the foreign-made stuff. But the combination of higher customs duties and quality control standards worked.
-Indian imports of toys fell by a third from nearly $300m (£227m) in 2020 to $100m this year, while exports rose from around $129m to $200m in the same period. Moreover, the country was able to drastically reduce its dependence on China, which held a 70% share of the local toy market.
-The sector stands out as a rare exception in India's otherwise unsuccessful attempts to rebalance an increasingly lopsided trading relationship with its larger neighbour, which some experts say, is now among the most asymmetric in the world.
-Even as diplomatic ties between the two countries completely broke down following the Galwan Valley clashes in 2020 and Delhi announced a slew of anti-dumping duties and a ban on Chinese apps such as Tik Tok, its trade deficit with Beijing has only ballooned - from $44bn in 2020 to an eye-popping $112bn this year.
-"India's economic dependence on China continued to deepen while political, security, and investment ties were at their lowest point," Kevin Zongzhe Li, a Washington-based Fellow at the Asia Society Policy Institute's Centre for China Analysis, told the BBC.
-More worryingly, exports to China remained below pre-pandemic level even as imports doubled in this period.
-"China now supplies over 30% of India's industrial imports, and India depends on it for more than 100 critical products. And the imbalance is worsening," says Ajay Srivastava of the Delhi-based Global Trade and Research Initiative (GTRI).
-If the rapid pace of imports continues, bilateral deficit could jump to $134bn, giving Beijing even more leverage over Indian industry, according to Srivastava.
-On the sidelines of the Brics summit in Delhi in September, amid a deepening thaw between the Asian giants, Prime Minister Narendra Modi and Chinese President Xi Jinping vowed to address, external these "structural trade imbalances and supply chain issues".
-But given how deeply entrenched Chinese imports have become to India's industrial economy, this will be a formidable task for Delhi, experts told the BBC.
-That's primarily because India depends on China to not merely consume end-products, but increasingly to produce industrial goods.
-To be true, India has reduced its reliance on imports of finished goods such as smartphones and solar equipment, and now produces more than a quarter of the world's iPhones.
-"Yet, production remains largely assembly-based and depends heavily on imported components, particularly from China," says Srivastava.
-It's the same story with industrial machinery, battery inputs, chemicals, solar cells, and manufacturing equipment.
-Electrical machinery and electronics alone account for 36% of imports, followed by machinery and mechanical appliances at 21.7%, while organic chemicals and plastics also have a significant share, according to the Observer Research Foundation (ORF) think tank.
-"Their interruption would not merely affect consumption; it would disrupt production itself," according to Soumya Bhowmik, a Fellow at ORF's Centre for New Economic Diplomacy, who argues that this reflects India's difficulty in substituting Chinese inputs with local production.
-Besides a growing reliance on inputs and raw material, Chinese imports to India are also being propelled by other macroeconomic trends.
-China has huge excess capacity in sectors from steel to solar panels and electric vehicles, while its slowing economy cannot absorb the output.
-Manufacturers are therefore increasingly turning to overseas markets, selling goods cheaply. China's trade surplus is expected to top $1tn for a second straight year.
-A lot of these goods are coming to Indian shores because it is rapidly expanding manufacturing across segments of the economy, but also as "Western markets impose tariffs and other restrictions", says Srivastava.
-On the other hand, lack of access to the Chinese market remains a major challenge for Indian companies.
-"Indian products face a variety of tariff and non-tariff hurdles in China that make it difficult to scale exports," says Li.
-"If normalisation [of ties] continues without a serious push for reciprocal market access, India risks a situation where the political relationship improves but the economic dependency stays the same."
-The long term solution to both reducing avoidable imports and improving exports performance will be to strengthen manufacturing, says Srivastava.
-But that requires sector-specific industrial policy and stronger fundamentals – affordable power and credit, efficient logistics and stable regulations – areas where India still falls short.
-India has also recently softened foreign direct investment rules, which could open the door to Chinese companies wanting to expand Indian investments. But these too will need careful vetting, he adds.
-"Investment that merely expands distribution networks or assembles products using Chinese parts could increase imports and deepen dependence. Approvals should therefore prioritise technology transfer, local value addition, domestic component production and exports from India."
-More immediately, India could focus on targeting higher exports to China in specific sectors to reduce its trade asymmetry, says Li. Sectors like pharmaceuticals could be a natural fit with China's population aging and healthcare costs rising.
-"But narrowing a $112bn deficit won't come from finding niche export sectors alone," he adds.
-"The key question is whether Beijing is ready and willing to make concessions on market access as part of the broader normalisation. Alternatively, India will need to find its own leverage to force that conversation."
-Follow BBC News India on Instagram, external, YouTube,, external X, external and Facebook, external.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-05T01:42:11+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/570e/live/a11df9f0-bc83-11f1-8bd0-b38b5eda40be.jpg",
-    readTime: 10,
-  },
-  {
-    id: "trump-tells-south-korea-to-sign-on-to-al-f6f1fafb",
-    title: "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
-    titleJa: "Trump tells South Korea to sign on to Alaska LNG deal or 'I'll just charge them more'",
-    summaryJa: "Trump is ramping up pressure on South Korea over Alaska LNG as Seoul remains cautious over investment projects announced by the U.S. president.",
-    bodyOriginal: `U.S. President Donald Trump said he "didn't jump the gun" in announcing South Korea's participation in a $50 billion Alaska LNG project, warning Seoul could pay "double" if it does not sign on soon.
-His remarks come amid a discrepancy between Washington and Seoul over South Korea's planned energy and infrastructure investments in the U.S., with Trump announcing projects that Seoul has said are not yet finalized.
-"If they don't want to do it, that's OK with me. I'll just charge them more," Trump told reporters Friday, according to the White House. "Tell them if they don't sign shortly, I'm going to double it up."
-Trump did not specify what would be doubled. South Korean local media, though, raised the possibility that he was referring to higher tariffs on the country.
-When asked whether he had prematurely announced South Korea's involvement in the Alaska LNG project, Trump said he "didn't jump the gun."
-Trump's remarks come after South Korea said it was still assessing the Alaska LNG project, with any participation dependent on its commercial viability and compliance with domestic legal procedures.
-Separately, Trump said on Truth Social Friday that South Korea's investment deal "keeps getting BETTER," announcing an additional $8.4 billion enhanced oil recovery project.
-Enhanced oil recovery uses techniques such as carbon dioxide injection to increase the amount of crude oil produced from an oil field.
-South Korean local media further reported that the oil recovery project was not included in the agreements reached between Seoul and Washington, citing the country's industry ministry. The ministry was seeking to verify Trump's announcement and had contacted the U.S. through trade channels for clarification, according to the report.`,
-    bodyJa: `U.S. President Donald Trump said he "didn't jump the gun" in announcing South Korea's participation in a $50 billion Alaska LNG project, warning Seoul could pay "double" if it does not sign on soon.
-His remarks come amid a discrepancy between Washington and Seoul over South Korea's planned energy and infrastructure investments in the U.S., with Trump announcing projects that Seoul has said are not yet finalized.
-"If they don't want to do it, that's OK with me. I'll just charge them more," Trump told reporters Friday, according to the White House. "Tell them if they don't sign shortly, I'm going to double it up."
-Trump did not specify what would be doubled. South Korean local media, though, raised the possibility that he was referring to higher tariffs on the country.
-When asked whether he had prematurely announced South Korea's involvement in the Alaska LNG project, Trump said he "didn't jump the gun."
-Trump's remarks come after South Korea said it was still assessing the Alaska LNG project, with any participation dependent on its commercial viability and compliance with domestic legal procedures.
-Separately, Trump said on Truth Social Friday that South Korea's investment deal "keeps getting BETTER," announcing an additional $8.4 billion enhanced oil recovery project.
-Enhanced oil recovery uses techniques such as carbon dioxide injection to increase the amount of crude oil produced from an oil field.
-South Korean local media further reported that the oil recovery project was not included in the agreements reached between Seoul and Washington, citing the country's industry ministry. The ministry was seeking to verify Trump's announcement and had contacted the U.S. through trade channels for clarification, according to the report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/05/trump-alaska-lng-south-korea-pay.html",
-    publishedAt: "2026-10-05T00:47:47+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "the-job-interview-question-you-don-t-hav-b85fa1a9",
-    title: "The job interview question you don't have to answer",
-    titleJa: "The job interview question you don't have to answer",
-    summaryJa: "Experts explain what you should do if you are asked for your current salary during a job interview.",
-    bodyOriginal: `The job interview question you don't have to answer
-- Published
-Prepare all you like, but there is often still one job interview question that leaves you feeling uncomfortable.
-While employers in the UK are within their rights to ask you how much you get paid in your current role, applicants are not obliged to tell them.
-Recruiters have been encouraged to stop posing questions about salary history and, in the EU, new rules will prevent them doing so.
-But in the UK, there is still a chance of it coming up, so how best should you answer?
-What can interviewers ask?
-When interviewing or deciding on new staff, employers must not discriminate against an applicant based on so-called protected characteristics, including age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, and sexual orientation.
-Sometimes it feels like interviewers, and interviewees, tip-toe around the subject of money.
-But Louise Rudd, a senior adviser at the workplace advice and conciliation service Acas, says there are no regulations that prevent employers from asking interviewees about their current salary, or their salary expectations.
-She says employers, if they do want to know, should ask each applicant the same questions to ensure they are treated fairly.
-A few years ago, a campaign was launched urging employers to stop asking new recruits how much they were paid in their previous jobs. It had its own hashtag - #EndSalaryHistory.
-The Fawcett Society, which campaigns for women and gender equality, said that asking the question risked maintaining historic unfair differences in pay due to gender, race and disability inequality.
-Rather than offering a salary based on skills, experience and performance, it meant employers rewarded an individual's perceived worth and negotiating skills instead, the society said.
-The Recruitment and Employment Confederation supported the move, urging recruiters not to ask.
-Employers in the EU will be banned from asking about salary history in new rules being rolled out across the bloc.
-But that's not featured in Cabinet Office plans in the UK, which instead concentrates on telling employers to publish salary information in job adverts.
-What's the best way to answer?
-When you're going for a new job, you can reveal your current salary if you are happy to.
-Some people asked by BBC News out and about in London suggested they would reply with an inflated salary - so they get paid more in the next job. However, the risks of lying in an interview can far outweigh the possible reward.
-There are no requirements for you to disclose your salary if you don't want to.
-Rudd says some people might prefer to give their salary expectations, or outline their understanding of the salary range for the role.
-Recruitment firms often say applicants could instead focus on their skills and experience, so those are used as a measure of what they should be paid, not their salary history.
-Shazia Ejaz, director of campaigns at the Recruitment and Employment Confederation, says jobseekers should approach questions about pay with "realism but also confidence".
-"Candidates can focus on showcasing the value they bring, the benefits that matter most to them and to go to the interview knowing the market rate for the role," she says.
-"Jobseekers who have done their homework on salaries and can explain the contribution they will make are in the strongest position to secure the right package."
-Get in touch
-What was your worst job interview? How did you handle it?
-Related topics
-- Published6 days ago
-- Published21 September
-- Published7 September`,
-    bodyJa: `The job interview question you don't have to answer
-- Published
-Prepare all you like, but there is often still one job interview question that leaves you feeling uncomfortable.
-While employers in the UK are within their rights to ask you how much you get paid in your current role, applicants are not obliged to tell them.
-Recruiters have been encouraged to stop posing questions about salary history and, in the EU, new rules will prevent them doing so.
-But in the UK, there is still a chance of it coming up, so how best should you answer?
-What can interviewers ask?
-When interviewing or deciding on new staff, employers must not discriminate against an applicant based on so-called protected characteristics, including age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, and sexual orientation.
-Sometimes it feels like interviewers, and interviewees, tip-toe around the subject of money.
-But Louise Rudd, a senior adviser at the workplace advice and conciliation service Acas, says there are no regulations that prevent employers from asking interviewees about their current salary, or their salary expectations.
-She says employers, if they do want to know, should ask each applicant the same questions to ensure they are treated fairly.
-A few years ago, a campaign was launched urging employers to stop asking new recruits how much they were paid in their previous jobs. It had its own hashtag - #EndSalaryHistory.
-The Fawcett Society, which campaigns for women and gender equality, said that asking the question risked maintaining historic unfair differences in pay due to gender, race and disability inequality.
-Rather than offering a salary based on skills, experience and performance, it meant employers rewarded an individual's perceived worth and negotiating skills instead, the society said.
-The Recruitment and Employment Confederation supported the move, urging recruiters not to ask.
-Employers in the EU will be banned from asking about salary history in new rules being rolled out across the bloc.
-But that's not featured in Cabinet Office plans in the UK, which instead concentrates on telling employers to publish salary information in job adverts.
-What's the best way to answer?
-When you're going for a new job, you can reveal your current salary if you are happy to.
-Some people asked by BBC News out and about in London suggested they would reply with an inflated salary - so they get paid more in the next job. However, the risks of lying in an interview can far outweigh the possible reward.
-There are no requirements for you to disclose your salary if you don't want to.
-Rudd says some people might prefer to give their salary expectations, or outline their understanding of the salary range for the role.
-Recruitment firms often say applicants could instead focus on their skills and experience, so those are used as a measure of what they should be paid, not their salary history.
-Shazia Ejaz, director of campaigns at the Recruitment and Employment Confederation, says jobseekers should approach questions about pay with "realism but also confidence".
-"Candidates can focus on showcasing the value they bring, the benefits that matter most to them and to go to the interview knowing the market rate for the role," she says.
-"Jobseekers who have done their homework on salaries and can explain the contribution they will make are in the strongest position to secure the right package."
-Get in touch
-What was your worst job interview? How did you handle it?
-Related topics
-- Published6 days ago
-- Published21 September
-- Published7 September`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-04T23:22:07+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e493/live/17316b80-bd89-11f1-a2ad-3160f44bb180.jpg",
-    readTime: 9,
-  },
-  {
-    id: "trump-reiterates-pledge-to-send-5-000-ch-0adc4ad9",
-    title: "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
-    titleJa: "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
-    summaryJa: "Trump is promoting two federal payment programs already underway while reiterating a $5,000 dividend promise contingent on Republicans retaining Congress.",
-    bodyOriginal: `With Election Day less than a month away, President Donald Trump is touting two federal cash-payment programs already underway while renewing a much larger $5,000 check promise contingent on Republicans retaining Congress.
-On Friday, Trump announced one-time $90 payments to 20.8 million Medicare beneficiaries. A day later, he revived an earlier promise to give every adult U.S. citizen $5,000 — but only if Republicans retain control of Congress in November.
-"If Republicans win the House of Representatives and the Senate in the 2026 Midterm Elections, I'm going to give all Adult Citizens in the United States of America, $5,000," Trump said in a Truth Social video post Saturday. The president made a similar pledge at the Republican National Committee's first midterm convention in Dallas last month.
-Trump hasn't provided any details on who would authorize the payments and where the money would come from.
-Those claims came on the heels of $500 Obamacare "refund" checks that began going out last week to roughly 950,000 people who bought unsubsidized coverage through the federal marketplace.
-The $90 payments to certain eligible Medicare Part B enrollees are scheduled to arrive this month, funded through the Medicare Improvement Fund. The $500 Obamacare payments are already being distributed to certain full-price HealthCare.gov customers.
-A Reuters analysis found 71% of the Obamacare money — $339 million — is going to residents of 13 states with some of the country's most competitive Senate and gubernatorial races, though eligibility is based on insurance status, not voting status.
-Together, the flurry of offers of direct cash payments comes as Republicans head into the final stretch of a midterm campaign dominated by concerns about prices and the economy.
-But the $5,000 "Trump dividend" remains just a promise and Trump has been extremely light on details, particularly on where the money would come from and who would need to authorize it. Sending $5,000 to every adult citizen would cost roughly $1.2 trillion and require congressional approval.
-Some Republicans have also raised concerns about its effect on the deficit and inflation.
-Rep. David Schweikert, R-Ariz., told Reuters last month he would "throw everything of my heart and soul" into stopping the proposal, warning it could push interest rates higher. And Rep. Jamie Raskin, D-Md., called the plan a "political bribe" in a Sept. 10 interview with CNN, and said Congress controls federal spending.
-The White House and offices of Reps. David Schweikert, R-Ariz., and Jamie Raskin, D-Md., did not immediately respond to requests for comment.
-Polling suggests the idea isn't a sure-fire political winner.
-A Rasmussen Reports survey found likely voters essentially split, 47% to 48%, on the proposal. Just 15% said it would affect their vote. A Marquette Law School poll in Wisconsin found 70% opposed the payments, while an Economist/YouGov survey found 57% of registered voters doubted Trump would actually deliver them even if Republicans retained Congress.
-In the past, Trump has made several promises to send cash payments to Americans — and didn't deliver.
-In February 2025, the Trump administration floated a $5,000 "DOGE dividend" check, claiming the money would come from savings from the cuts enacted by the now-defunct, Elon Musk-led "Department of Government Efficiency." Those payments never materialized.
-Then, in November, Trump proposed a reciprocal tariff-funded dividend payment of at least $2,000 per person. The Supreme Court struck down the tariffs in February of this year, and no checks were ever issued.
-The pattern of offering cash payments directly to voters stretches back to Trump's first term. Six weeks before the 2020 election, Trump promised 33 million Medicare beneficiaries $200 prescription-drug cards "in coming weeks" — but the cards never went out.
-Still, the Trump administration delivered a $1,776 "Warrior Dividend" to roughly 1.5 million service members last year, and Congress approved pandemic stimulus payments during his first term.`,
-    bodyJa: `With Election Day less than a month away, President Donald Trump is touting two federal cash-payment programs already underway while renewing a much larger $5,000 check promise contingent on Republicans retaining Congress.
-On Friday, Trump announced one-time $90 payments to 20.8 million Medicare beneficiaries. A day later, he revived an earlier promise to give every adult U.S. citizen $5,000 — but only if Republicans retain control of Congress in November.
-"If Republicans win the House of Representatives and the Senate in the 2026 Midterm Elections, I'm going to give all Adult Citizens in the United States of America, $5,000," Trump said in a Truth Social video post Saturday. The president made a similar pledge at the Republican National Committee's first midterm convention in Dallas last month.
-Trump hasn't provided any details on who would authorize the payments and where the money would come from.
-Those claims came on the heels of $500 Obamacare "refund" checks that began going out last week to roughly 950,000 people who bought unsubsidized coverage through the federal marketplace.
-The $90 payments to certain eligible Medicare Part B enrollees are scheduled to arrive this month, funded through the Medicare Improvement Fund. The $500 Obamacare payments are already being distributed to certain full-price HealthCare.gov customers.
-A Reuters analysis found 71% of the Obamacare money — $339 million — is going to residents of 13 states with some of the country's most competitive Senate and gubernatorial races, though eligibility is based on insurance status, not voting status.
-Together, the flurry of offers of direct cash payments comes as Republicans head into the final stretch of a midterm campaign dominated by concerns about prices and the economy.
-But the $5,000 "Trump dividend" remains just a promise and Trump has been extremely light on details, particularly on where the money would come from and who would need to authorize it. Sending $5,000 to every adult citizen would cost roughly $1.2 trillion and require congressional approval.
-Some Republicans have also raised concerns about its effect on the deficit and inflation.
-Rep. David Schweikert, R-Ariz., told Reuters last month he would "throw everything of my heart and soul" into stopping the proposal, warning it could push interest rates higher. And Rep. Jamie Raskin, D-Md., called the plan a "political bribe" in a Sept. 10 interview with CNN, and said Congress controls federal spending.
-The White House and offices of Reps. David Schweikert, R-Ariz., and Jamie Raskin, D-Md., did not immediately respond to requests for comment.
-Polling suggests the idea isn't a sure-fire political winner.
-A Rasmussen Reports survey found likely voters essentially split, 47% to 48%, on the proposal. Just 15% said it would affect their vote. A Marquette Law School poll in Wisconsin found 70% opposed the payments, while an Economist/YouGov survey found 57% of registered voters doubted Trump would actually deliver them even if Republicans retained Congress.
-In the past, Trump has made several promises to send cash payments to Americans — and didn't deliver.
-In February 2025, the Trump administration floated a $5,000 "DOGE dividend" check, claiming the money would come from savings from the cuts enacted by the now-defunct, Elon Musk-led "Department of Government Efficiency." Those payments never materialized.
-Then, in November, Trump proposed a reciprocal tariff-funded dividend payment of at least $2,000 per person. The Supreme Court struck down the tariffs in February of this year, and no checks were ever issued.
-The pattern of offering cash payments directly to voters stretches back to Trump's first term. Six weeks before the 2020 election, Trump promised 33 million Medicare beneficiaries $200 prescription-drug cards "in coming weeks" — but the cards never went out.
-Still, the Trump administration delivered a $1,776 "Warrior Dividend" to roughly 1.5 million service members last year, and Congress approved pandemic stimulus payments during his first term.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html",
-    publishedAt: "2026-10-04T20:28:47+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "supreme-court-justice-alito-said-he-s-th-4349f256",
-    title: "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
-    titleJa: "Supreme Court Justice Alito said he's 'thought about' retirement as Senate control hangs in balance",
-    summaryJa: "The Senate could flip to Democrats after November's midterm election, jeopardizing a potential Supreme Court nomination by President Donald Trump.",
-    bodyOriginal: `Supreme Court Justice Samuel Alito said he has "thought about" retiring after the high court's last term but decided against it, believing he could still make "a valuable contribution," he said in an interview with CBS News.
-Alito, 76, is the second-oldest justice on the bench, and speculation had swirled that he would retire while Republicans control the Senate and the White House — when the chances of swiftly confirming a GOP-backed candidate to the bench would be high.
-The possibility that the Senate could flip to Democrats after November's midterm election may make confirmation of any potential nominee of President Donald Trump more difficult or impossible if Democrats control the Senate.
-"I've been bemused by the retirement speculation; it's not too pleasant to look up and see the vultures circling," Alito said in a separate interview with "Fox News Sunday." "I don't have a calculation for it ... I think it would be foolhardy to make a calculation [that] I'm going to serve for a certain number of additional years."
-Alito's status as one of the court's most conservative justices has sparked the speculation that he would retire ahead of the midterms — a decision the justice ultimately has not made. Should Democrats take control of the Senate, they would effectively have veto power over a Supreme Court nomination.
-Justice Clarence Thomas, 78 — the court's oldest justice and a member of its conservative bloc — has also been on retirement watch.
-The politics and timing of Supreme Court vacancies have been closely watched since Justice Antonin Scalia died in 2016. Then-Senate Majority Leader Mitch McConnell refused to take up President Barack Obama's nomination of Merrick Garland to the Supreme Court until after the 2016 presidential election, allowing Trump the time to nominate and confirm Justice Neil Gorsuch.
-Then, after Justice Ruth Bader Ginsburg died in 2020, McConnell moved quickly to confirm Trump's nominee, Amy Coney Barrett, just over a week before the 2020 presidential election.
-The Court is now controlled by a 6-3 conservative majority.
-Democrats currently hold an edge in national House polling and in the CBS News Battleground Tracker model, which estimates a narrow Democratic majority after the midterm election, which looms just 30 days away. The Senate is also now in play, with Republicans locked in unexpectedly tight races across the country amid voter ire over prices and the economy.
-Democrats need to net at least four seats while defending all the seats they currently have to win a Senate majority.`,
-    bodyJa: `Supreme Court Justice Samuel Alito said he has "thought about" retiring after the high court's last term but decided against it, believing he could still make "a valuable contribution," he said in an interview with CBS News.
-Alito, 76, is the second-oldest justice on the bench, and speculation had swirled that he would retire while Republicans control the Senate and the White House — when the chances of swiftly confirming a GOP-backed candidate to the bench would be high.
-The possibility that the Senate could flip to Democrats after November's midterm election may make confirmation of any potential nominee of President Donald Trump more difficult or impossible if Democrats control the Senate.
-"I've been bemused by the retirement speculation; it's not too pleasant to look up and see the vultures circling," Alito said in a separate interview with "Fox News Sunday." "I don't have a calculation for it ... I think it would be foolhardy to make a calculation [that] I'm going to serve for a certain number of additional years."
-Alito's status as one of the court's most conservative justices has sparked the speculation that he would retire ahead of the midterms — a decision the justice ultimately has not made. Should Democrats take control of the Senate, they would effectively have veto power over a Supreme Court nomination.
-Justice Clarence Thomas, 78 — the court's oldest justice and a member of its conservative bloc — has also been on retirement watch.
-The politics and timing of Supreme Court vacancies have been closely watched since Justice Antonin Scalia died in 2016. Then-Senate Majority Leader Mitch McConnell refused to take up President Barack Obama's nomination of Merrick Garland to the Supreme Court until after the 2016 presidential election, allowing Trump the time to nominate and confirm Justice Neil Gorsuch.
-Then, after Justice Ruth Bader Ginsburg died in 2020, McConnell moved quickly to confirm Trump's nominee, Amy Coney Barrett, just over a week before the 2020 presidential election.
-The Court is now controlled by a 6-3 conservative majority.
-Democrats currently hold an edge in national House polling and in the CBS News Battleground Tracker model, which estimates a narrow Democratic majority after the midterm election, which looms just 30 days away. The Senate is also now in play, with Republicans locked in unexpectedly tight races across the country amid voter ire over prices and the economy.
-Democrats need to net at least four seats while defending all the seats they currently have to win a Senate majority.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/04/supreme-court-justice-alito-thought-about-retiring.html",
-    publishedAt: "2026-10-04T17:53:11+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "a-weird-ipo-pull-a-tainted-reputation-an-e1820884",
-    title: "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
-    titleJa: "A 'weird' IPO pull, a tainted reputation and the stalled breakout moment for AI wearables",
-    summaryJa: "Apple, Google and Meta are pushing new AI devices and assistants amid growing privacy concerns around wearables.",
-    bodyOriginal: `Two years ago, Bella Nowroozi was on a date at the mall when she noticed something odd: A blinking light on her companion's glasses.
-The 24-year-old master's student instantly recognized the frames as the Meta Ray-Ban smart glasses she had seen on social media. She told him to delete the recordings.
-"I was honestly pretty shocked," Nowroozi told CNBC, reflecting on the interaction. "I hadn't really experienced anything like that before. I was also scared to go on dates after that as openly as I did before."
-Apple, Google, Meta and a swarm of other tech contenders are betting that new artificial intelligence wearables in the form of glasses, rings, charms and pendants can push the market toward its category-defining moment. But as the gadgets have grown in notoriety, they've also been met with privacy backlash and doubts about whether the technology is beneficial enough to become a fixture in everyday life.
-Meta made a splash last week with the unveiling of its Tamagotchi-like Muse Charm, a custom housing for its personal agent app that quickly topped Apple's iOS App Store free apps list. The company has continued to release new iterations of its Meta Ray-Ban AI glasses and offers an array of models at different price points.
-This week, OpenAI rolled out its own personal assistant called Dots. The ChatGPT maker is also working with iPhone designer Jony Ive on consumer devices, but its first offering does not appear to be a wearable, according to Bloomberg. Apple provided a look at its latest devices at the beginning of September, complete with AI features on the Watch Series 12 that will listen to your conversations.
-Besides the plethora of available devices, the market looked set this week to keep the momentum rolling with the debut of smart ring maker Oura.
-But on Tuesday, the company delayed its expected initial public offering at the last minute, despite signaling strong demand for its products.
-Oura cited "uncertainty in the IPO market" as the reason for the move, but some analysts were skeptical.
-"I really believe that there's something else that's causing them to pull out of the IPO, and I don't think it's the market," said Anshel Sag, a principal analyst at Moor Insights & Strategy. "I just can't nail what it is."
-"Them jumping out of this IPO is kind of weird," he said.
-Branding problems
-Meta is navigating pushback to its smart spectacles, which have been dubbed "pervert glasses" on social media because of their discreet cameras that can be used for harassment and other misbehavior.
-One social media user said a man took photos of her on a date without her permission. Another said a buyer from Facebook Marketplace took unauthorized videos of her and her children. Meta's own advertising campaign featuring Kylie Jenner filming her everyday life drew further criticism of the surveillance-like nature of the videos.
-Meta did not immediately respond to CNBC's request for comment.
-DA Davidson analyst Gil Luria said the growing resistance to camera-equipped glasses is a hard battle to overcome.
-"It's done for at this moment," said Luria. "We're going to have to revisit this 10 years from now."
-When Luria first gifted the spectacles to his twin teenage boys last year, they were "super excited." He says now, they "wouldn't be caught dead in them."
-Last month, Meta unveiled a camera-free smart glasses option.
-Privacy
-The explosion in wearables couldn't come at a more critical time as the policy debate over AI safety risks intensifies in Washington and the blowback takes center stage ahead of the midterm elections in November.
-Far from the cute, fuzzy appearance of Meta's Muse character called Jolly, sprawling data centers have become the visual symbol of AI opposition in the U.S. Many argue that wearables and other devices that are always listening or recording have become an extension of that perceived surveillance state.
-Flock Safety's license plate scanners are being vandalized and cities have ended contracts with the company over community outcry. Smart glasses have been banned from gyms and other places because of privacy concerns.
-In February, the judge in the Meta social media addiction trial in Los Angeles threatened to hold anyone using AI smart glasses during CEO Mark Zuckerberg's testimony in contempt of court. Several people escorting Zuckerberg into the court were wearing the Meta Ray-Ban AI glasses.
-"Their value add has to overcome the perception of AI being a technology that people are opposed," said Sag. "It needs to be more helpful and useful than people's apprehensions about it."
-Design and execution
-GPS delivered maps to a screen, the smartphone created a pocket-sized personal computer and AI promises to bring efficiency and automation to everyday life.
-New gadgets in the wearables market are vying to build a new category of devices, but the most futuristic gadgets today aren't necessarily what the consumer wants, said Avi Greengart, founder and tech analyst at market research firm Techsponential.
-From sleep readings to exercise tracking and accident detection, health wearables have shown immense promise in a market cornered by big tech giants like Apple and Google, and even startup Oura. Accessibility features added to Apple's AirPods are transforming the popular headphones into hearing aids, Greengart said.
-But some of the flashy emerging AI tech, including pins and pendants, has hit significant design and execution roadblocks.
-Greengart pointed to the Rabbit r1 personal assistant, which lacked distinct use cases from the smartphone and faced technical and hardware issues. Another failed contender was the Humane AI Pin, discontinued last year following poor customer reviews.
-"If you force someone to spend $700 on a device that overheats, has a user interface that doesn't work in sunlight, battery life that is poor, unless what it does is magical, that's not going to work," said Greengart.
-Nowroozi, whose sister owns a pair of Meta glasses, is holding off on buying into the AI wearable wave.
-"I can't really think of how this would really be different from what a phone could do," she said.`,
-    bodyJa: `Two years ago, Bella Nowroozi was on a date at the mall when she noticed something odd: A blinking light on her companion's glasses.
-The 24-year-old master's student instantly recognized the frames as the Meta Ray-Ban smart glasses she had seen on social media. She told him to delete the recordings.
-"I was honestly pretty shocked," Nowroozi told CNBC, reflecting on the interaction. "I hadn't really experienced anything like that before. I was also scared to go on dates after that as openly as I did before."
-Apple, Google, Meta and a swarm of other tech contenders are betting that new artificial intelligence wearables in the form of glasses, rings, charms and pendants can push the market toward its category-defining moment. But as the gadgets have grown in notoriety, they've also been met with privacy backlash and doubts about whether the technology is beneficial enough to become a fixture in everyday life.
-Meta made a splash last week with the unveiling of its Tamagotchi-like Muse Charm, a custom housing for its personal agent app that quickly topped Apple's iOS App Store free apps list. The company has continued to release new iterations of its Meta Ray-Ban AI glasses and offers an array of models at different price points.
-This week, OpenAI rolled out its own personal assistant called Dots. The ChatGPT maker is also working with iPhone designer Jony Ive on consumer devices, but its first offering does not appear to be a wearable, according to Bloomberg. Apple provided a look at its latest devices at the beginning of September, complete with AI features on the Watch Series 12 that will listen to your conversations.
-Besides the plethora of available devices, the market looked set this week to keep the momentum rolling with the debut of smart ring maker Oura.
-But on Tuesday, the company delayed its expected initial public offering at the last minute, despite signaling strong demand for its products.
-Oura cited "uncertainty in the IPO market" as the reason for the move, but some analysts were skeptical.
-"I really believe that there's something else that's causing them to pull out of the IPO, and I don't think it's the market," said Anshel Sag, a principal analyst at Moor Insights & Strategy. "I just can't nail what it is."
-"Them jumping out of this IPO is kind of weird," he said.
-Branding problems
-Meta is navigating pushback to its smart spectacles, which have been dubbed "pervert glasses" on social media because of their discreet cameras that can be used for harassment and other misbehavior.
-One social media user said a man took photos of her on a date without her permission. Another said a buyer from Facebook Marketplace took unauthorized videos of her and her children. Meta's own advertising campaign featuring Kylie Jenner filming her everyday life drew further criticism of the surveillance-like nature of the videos.
-Meta did not immediately respond to CNBC's request for comment.
-DA Davidson analyst Gil Luria said the growing resistance to camera-equipped glasses is a hard battle to overcome.
-"It's done for at this moment," said Luria. "We're going to have to revisit this 10 years from now."
-When Luria first gifted the spectacles to his twin teenage boys last year, they were "super excited." He says now, they "wouldn't be caught dead in them."
-Last month, Meta unveiled a camera-free smart glasses option.
-Privacy
-The explosion in wearables couldn't come at a more critical time as the policy debate over AI safety risks intensifies in Washington and the blowback takes center stage ahead of the midterm elections in November.
-Far from the cute, fuzzy appearance of Meta's Muse character called Jolly, sprawling data centers have become the visual symbol of AI opposition in the U.S. Many argue that wearables and other devices that are always listening or recording have become an extension of that perceived surveillance state.
-Flock Safety's license plate scanners are being vandalized and cities have ended contracts with the company over community outcry. Smart glasses have been banned from gyms and other places because of privacy concerns.
-In February, the judge in the Meta social media addiction trial in Los Angeles threatened to hold anyone using AI smart glasses during CEO Mark Zuckerberg's testimony in contempt of court. Several people escorting Zuckerberg into the court were wearing the Meta Ray-Ban AI glasses.
-"Their value add has to overcome the perception of AI being a technology that people are opposed," said Sag. "It needs to be more helpful and useful than people's apprehensions about it."
-Design and execution
-GPS delivered maps to a screen, the smartphone created a pocket-sized personal computer and AI promises to bring efficiency and automation to everyday life.
-New gadgets in the wearables market are vying to build a new category of devices, but the most futuristic gadgets today aren't necessarily what the consumer wants, said Avi Greengart, founder and tech analyst at market research firm Techsponential.
-From sleep readings to exercise tracking and accident detection, health wearables have shown immense promise in a market cornered by big tech giants like Apple and Google, and even startup Oura. Accessibility features added to Apple's AirPods are transforming the popular headphones into hearing aids, Greengart said.
-But some of the flashy emerging AI tech, including pins and pendants, has hit significant design and execution roadblocks.
-Greengart pointed to the Rabbit r1 personal assistant, which lacked distinct use cases from the smartphone and faced technical and hardware issues. Another failed contender was the Humane AI Pin, discontinued last year following poor customer reviews.
-"If you force someone to spend $700 on a device that overheats, has a user interface that doesn't work in sunlight, battery life that is poor, unless what it does is magical, that's not going to work," said Greengart.
-Nowroozi, whose sister owns a pair of Meta glasses, is holding off on buying into the AI wearable wave.
-"I can't really think of how this would really be different from what a phone could do," she said.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/04/ai-wearables-oura-ipo-privacy.html",
-    publishedAt: "2026-10-04T13:22:39+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
   },
 ];
 
