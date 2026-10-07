@@ -15,6 +15,412 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "used-car-prices-fall-in-q3-while-demand-d6c3300d",
+    title: "Used car prices fall in Q3, while demand for fuel-efficient vehicles grows",
+    titleJa: "Used car prices fall in Q3, while demand for fuel-efficient vehicles grows",
+    summaryJa: "Used vehicle prices are forecast to fall more than previously expected this year, according to Cox Automotive.",
+    bodyOriginal: `DETROIT — Used vehicle prices are forecast to fall more than previously expected this year, as high gas prices and broader inflationary costs hit Americans' pocketbooks.
+Cox Automotive on Tuesday lowered its forecast for the company's Manheim Used Vehicle Value Index from an increase of 2% to an uptick of 0.2%.
+The lower forecast follows a 0.6% decline for the index in September, which marked the first time since early last year when the monthly index hasn't been higher than a year earlier.
+The historical average for the Manheim index is about a 2.3% year-over-year gain, but last year it was only up 0.4% after a historical run-up in prices during the coronavirus pandemic earlier in the decade.
+Non-adjusted wholesale used-vehicle prices fell 1.2% year over year in September and 1.3% from August as depreciation accelerated in the third quarter.
+"The first half of the year actually showed more appreciation than usual, even in the face of higher fuel prices. But with the conflict in the Middle East ongoing, diesel prices at record highs, and interest rates climbing rapidly, increasingly worrying both businesses and consumers, wholesale prices have felt the sting," Cox Automotive's chief economist, Jeremy Robb, said in a release.
+The index is a closely monitored gauge for used vehicle prices that tracks the pricing of used vehicles sold at Manheim U.S. wholesale auctions. Retail prices for consumers traditionally follow changes in wholesale costs.
+Cox noted electric vehicle sales and off-lease volume continued to grow, reshaping used-vehicle market dynamics as EVs and smaller, fuel-efficient vehicle values increased during the quarter. That compares with poor performances of large trucks and SUVs, the company said.
+The juxtaposition in smaller, fuel-efficient cars and larger vehicles occurred as the national average of gas in September was $4.33 per gallon. That was 50 cents higher than the previous September record of $3.83 set in 2023, according to AAA.
+Cox said retail demand for used vehicles is relatively healthy, but the pricing changes seem to be signaling dealers have hit a ceiling on what they can charge consumers.
+The average listed price of a used vehicle was $27,239 as of August, according to Cox. That compares with new vehicles at an average price of more than $50,000.
+The majority of U.S. consumers purchase used vehicles since they're more affordable than new models.`,
+    bodyJa: `DETROIT — Used vehicle prices are forecast to fall more than previously expected this year, as high gas prices and broader inflationary costs hit Americans' pocketbooks.
+Cox Automotive on Tuesday lowered its forecast for the company's Manheim Used Vehicle Value Index from an increase of 2% to an uptick of 0.2%.
+The lower forecast follows a 0.6% decline for the index in September, which marked the first time since early last year when the monthly index hasn't been higher than a year earlier.
+The historical average for the Manheim index is about a 2.3% year-over-year gain, but last year it was only up 0.4% after a historical run-up in prices during the coronavirus pandemic earlier in the decade.
+Non-adjusted wholesale used-vehicle prices fell 1.2% year over year in September and 1.3% from August as depreciation accelerated in the third quarter.
+"The first half of the year actually showed more appreciation than usual, even in the face of higher fuel prices. But with the conflict in the Middle East ongoing, diesel prices at record highs, and interest rates climbing rapidly, increasingly worrying both businesses and consumers, wholesale prices have felt the sting," Cox Automotive's chief economist, Jeremy Robb, said in a release.
+The index is a closely monitored gauge for used vehicle prices that tracks the pricing of used vehicles sold at Manheim U.S. wholesale auctions. Retail prices for consumers traditionally follow changes in wholesale costs.
+Cox noted electric vehicle sales and off-lease volume continued to grow, reshaping used-vehicle market dynamics as EVs and smaller, fuel-efficient vehicle values increased during the quarter. That compares with poor performances of large trucks and SUVs, the company said.
+The juxtaposition in smaller, fuel-efficient cars and larger vehicles occurred as the national average of gas in September was $4.33 per gallon. That was 50 cents higher than the previous September record of $3.83 set in 2023, according to AAA.
+Cox said retail demand for used vehicles is relatively healthy, but the pricing changes seem to be signaling dealers have hit a ceiling on what they can charge consumers.
+The average listed price of a used vehicle was $27,239 as of August, according to Cox. That compares with new vehicles at an average price of more than $50,000.
+The majority of U.S. consumers purchase used vehicles since they're more affordable than new models.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/07/used-cars-manheim-index.html",
+    publishedAt: "2026-10-07T13:09:59+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "10-year-treasury-note-yield-hits-highest-9b3a1865",
+    title: "10-year Treasury note yield hits highest level since 2002 as traders brace for key bond sale",
+    titleJa: "10-year Treasury note yield hits highest level since 2002 as traders brace for key bond sale",
+    summaryJa: "U.S. Treasury yields climbed Wednesday after retreating in the previous session, as oil prices moved higher.",
+    bodyOriginal: `U.S. Treasury yields climbed Wednesday, trading back around multiyear highs, as traders braced for the sale of 10-year notes at a time when rising yields have rattled investors around the world.
+The benchmark 10-year Treasury was up nearly 8 basis points at 5.35% — its highest level since 2002. The 30-year Treasury bond rose 8.3 basis points to 5.724%, also reaching a 24-year high. The 2-year Treasury note yield was up 2.7 basis points to 4.818%.
+One basis point equals 0.01%, and yields and prices move in opposite directions.
+The Treasury plans to sell $39 billion of 10-year notes in an auction on Wednesday that will test whether yields are now attractive enough to draw buyers or investors will demand an even bigger premium, amid concerns about inflation, debt levels and term risk. The auction's results will be released at 1 p.m. ET.
+This will be the second of three Treasury Department sales this week. The government sold $58 billion in 3-year notes on Tuesday and is scheduled to sell $22 billion 30-year bonds on Thursday.
+"We were encouraged by the takedown of Tuesday's 3-year auction supply – which stopped through slightly but didn't tail as had been the previous streak for coupon auctions," BMO's Head of U.S. Rates Strategy Ian Lyngen said in a note at Tuesday's close.
+"It goes without saying that [Wednesday's] 10-year supply is far more relevant for setting the tone in US rates. Notwithstanding the solid reception to the 3-year supply, we'll look for an auction concession of significance ahead of the reopening of 10s – either outright or on the curve," the analysts added.
+Treasury also will stage its latest buyback operation on Thursday, when it will be targeting maturities between 20 years and 30 years. The liquidity support operation will be at least $4 billion, or double the normal size. The last buyback in that range came to just over $4 billion.
+Bonds have been selling off recently with investors concerned about inflation and rising energy prices. The 10-year has surged 60 basis points since the end of July, , while U.S. crude prices have soared 20% in that time.
+Selling pressure is also picking up overseas. The yield on the 10-year French bond surged 12 basis points to trade at 4.876%. The 10-year U.K. Gilt yield jumped 7 basis points to 5.447%.
+Against that backdrop, FOMC meeting minutes will be released at 2 p.m. ET. Traders will parse them for potential insights on Fed monetary policy decision-making. At the Fed's September meeting, policymakers voted to raise interest rates for the first time since 2023.
+The New York Fed at 11 a.m. will release its monthly survey of consumer expectations, which will contain the outlook for inflation at the one-, three- and five-year horizons.`,
+    bodyJa: `U.S. Treasury yields climbed Wednesday, trading back around multiyear highs, as traders braced for the sale of 10-year notes at a time when rising yields have rattled investors around the world.
+The benchmark 10-year Treasury was up nearly 8 basis points at 5.35% — its highest level since 2002. The 30-year Treasury bond rose 8.3 basis points to 5.724%, also reaching a 24-year high. The 2-year Treasury note yield was up 2.7 basis points to 4.818%.
+One basis point equals 0.01%, and yields and prices move in opposite directions.
+The Treasury plans to sell $39 billion of 10-year notes in an auction on Wednesday that will test whether yields are now attractive enough to draw buyers or investors will demand an even bigger premium, amid concerns about inflation, debt levels and term risk. The auction's results will be released at 1 p.m. ET.
+This will be the second of three Treasury Department sales this week. The government sold $58 billion in 3-year notes on Tuesday and is scheduled to sell $22 billion 30-year bonds on Thursday.
+"We were encouraged by the takedown of Tuesday's 3-year auction supply – which stopped through slightly but didn't tail as had been the previous streak for coupon auctions," BMO's Head of U.S. Rates Strategy Ian Lyngen said in a note at Tuesday's close.
+"It goes without saying that [Wednesday's] 10-year supply is far more relevant for setting the tone in US rates. Notwithstanding the solid reception to the 3-year supply, we'll look for an auction concession of significance ahead of the reopening of 10s – either outright or on the curve," the analysts added.
+Treasury also will stage its latest buyback operation on Thursday, when it will be targeting maturities between 20 years and 30 years. The liquidity support operation will be at least $4 billion, or double the normal size. The last buyback in that range came to just over $4 billion.
+Bonds have been selling off recently with investors concerned about inflation and rising energy prices. The 10-year has surged 60 basis points since the end of July, , while U.S. crude prices have soared 20% in that time.
+Selling pressure is also picking up overseas. The yield on the 10-year French bond surged 12 basis points to trade at 4.876%. The 10-year U.K. Gilt yield jumped 7 basis points to 5.447%.
+Against that backdrop, FOMC meeting minutes will be released at 2 p.m. ET. Traders will parse them for potential insights on Fed monetary policy decision-making. At the Fed's September meeting, policymakers voted to raise interest rates for the first time since 2023.
+The New York Fed at 11 a.m. will release its monthly survey of consumer expectations, which will contain the outlook for inflation at the one-, three- and five-year horizons.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html",
+    publishedAt: "2026-10-07T12:41:10+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "ex-bankers-jailed-for-rigging-rates-have-5ce4a274",
+    title: "Ex-bankers jailed for rigging rates have convictions quashed",
+    titleJa: "Ex-bankers jailed for rigging rates have convictions quashed",
+    summaryJa: "Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham had their convictions overturned by the Court of Appeal.",
+    bodyOriginal: `Ex-bankers jailed for rigging rates have convictions quashed
+- Published
+Five former Barclays traders sentenced in one of the biggest scandals of the financial crisis have had their convictions overturned following a long-running legal battle.
+Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham were convicted following trials for manipulating the interest rates used for loans between banks.
+But their convictions were quashed on Wednesday by the Court of Appeal. The ruling came after two other former City traders had their convictions overturned last year, which has paved the way for others to appeal.
+The traders were cast by prosecutors as a symbol of banker greed amid public backlash and anger during the 2008 financial crisis.
+Merchant, Mathew, Pabon and Bermingham have all served various jail terms. Moryoussef was sentenced in his absence in 2018, never returned to the UK to serve time after France refused to extradite him.
+The prosecutions were over the manipulation of two key interest rate mechanisms: Libor and Euribor, which at the time were used to set borrowing costs on a range of loans such as mortgages and car finance deals.
+Mathew said the "strain" of what he had gone through had been a burden on him for the last 10 years.
+"Having this conviction quashed is not simply about correcting the record, it's about finally having validation that this is an injustice that never should have happened," the 45-year-old said.
+"I now have two children and this means a great deal to have the record corrected for their sake as well."
+Merchant, 55, added that he looked forward to moving on with life, but said part of that would be "ensuring that those responsible for what happened are held fully accountable".
+Lord Justice Edis said full reasons behind the overturned convictions would be given later on Wednesday.
+City traders have rate-rigging convictions quashed
+- Published23 July 2025
+The financial crisis began in 2008, sending huge economic shockwaves across the world and triggering recessions in many countries.
+There was a public backlash against bankers, held by many to be responsible for the crisis, while the financial sector was protected by taxpayer-funded bailouts.
+The Libor scandal erupted in 2012, when it was discovered that at the outbreak of the financial crisis, banks had been misrepresenting their positions during the process of setting the lending rate, helping to boost profits and mask difficulties.
+Some 19 City traders were convicted in the US and UK between 2015 and 2019 across nine criminal trials held in London and New York.
+Each of the former Barclays traders in Wednesday's successful appeal had originally been convicted of a single count of conspiracy to defraud as result of alleged attempts to influence financial benchmark rates.
+Two other bankers have already had their names cleared.
+Tom Hayes, a former trader at Swiss bank UBS, was the first banker jailed. He won a 10-year legal battle last year to have his conviction overturned at the Supreme Court in July 2025.
+His victory alongside that of fellow trader Carlo Palombo, who was jailed in 2019, paved the way for others to challenge their convictions.
+Hayes and Palombo argued they were wrongly prosecuted for what were normal commercial practices in order to appease public anger towards the banks over the financial crisis.
+The latest ruling means just two traders still have convictions over interest rate rigging - former Deutsche Bank trader Christian Bittar and former Barclays trader Peter Johnson.
+Bittar was jailed in 2018 after pleading guilty and served two years in prison. He will challenge his conviction on 9 October.
+Johnson was the original whistleblower calling attention to the Libor scandal but pleaded guilty on advice that he had little chance of winning at trial. He also hopes to appeal.`,
+    bodyJa: `Ex-bankers jailed for rigging rates have convictions quashed
+- Published
+Five former Barclays traders sentenced in one of the biggest scandals of the financial crisis have had their convictions overturned following a long-running legal battle.
+Jay Merchant, Jonathan Mathew, Philippe Moryoussef, Alex Pabon, Colin Bermingham were convicted following trials for manipulating the interest rates used for loans between banks.
+But their convictions were quashed on Wednesday by the Court of Appeal. The ruling came after two other former City traders had their convictions overturned last year, which has paved the way for others to appeal.
+The traders were cast by prosecutors as a symbol of banker greed amid public backlash and anger during the 2008 financial crisis.
+Merchant, Mathew, Pabon and Bermingham have all served various jail terms. Moryoussef was sentenced in his absence in 2018, never returned to the UK to serve time after France refused to extradite him.
+The prosecutions were over the manipulation of two key interest rate mechanisms: Libor and Euribor, which at the time were used to set borrowing costs on a range of loans such as mortgages and car finance deals.
+Mathew said the "strain" of what he had gone through had been a burden on him for the last 10 years.
+"Having this conviction quashed is not simply about correcting the record, it's about finally having validation that this is an injustice that never should have happened," the 45-year-old said.
+"I now have two children and this means a great deal to have the record corrected for their sake as well."
+Merchant, 55, added that he looked forward to moving on with life, but said part of that would be "ensuring that those responsible for what happened are held fully accountable".
+Lord Justice Edis said full reasons behind the overturned convictions would be given later on Wednesday.
+City traders have rate-rigging convictions quashed
+- Published23 July 2025
+The financial crisis began in 2008, sending huge economic shockwaves across the world and triggering recessions in many countries.
+There was a public backlash against bankers, held by many to be responsible for the crisis, while the financial sector was protected by taxpayer-funded bailouts.
+The Libor scandal erupted in 2012, when it was discovered that at the outbreak of the financial crisis, banks had been misrepresenting their positions during the process of setting the lending rate, helping to boost profits and mask difficulties.
+Some 19 City traders were convicted in the US and UK between 2015 and 2019 across nine criminal trials held in London and New York.
+Each of the former Barclays traders in Wednesday's successful appeal had originally been convicted of a single count of conspiracy to defraud as result of alleged attempts to influence financial benchmark rates.
+Two other bankers have already had their names cleared.
+Tom Hayes, a former trader at Swiss bank UBS, was the first banker jailed. He won a 10-year legal battle last year to have his conviction overturned at the Supreme Court in July 2025.
+His victory alongside that of fellow trader Carlo Palombo, who was jailed in 2019, paved the way for others to challenge their convictions.
+Hayes and Palombo argued they were wrongly prosecuted for what were normal commercial practices in order to appease public anger towards the banks over the financial crisis.
+The latest ruling means just two traders still have convictions over interest rate rigging - former Deutsche Bank trader Christian Bittar and former Barclays trader Peter Johnson.
+Bittar was jailed in 2018 after pleading guilty and served two years in prison. He will challenge his conviction on 9 October.
+Johnson was the original whistleblower calling attention to the Libor scandal but pleaded guilty on advice that he had little chance of winning at trial. He also hopes to appeal.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm4g175e8163o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-07T12:28:52+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f749/live/38a2e400-c244-11f1-b2a8-994b2a5598cb.jpg",
+    readTime: 10,
+  },
+  {
+    id: "royal-mail-plans-to-cut-2-500-jobs-8db0cded",
+    title: "Royal Mail plans to cut 2,500 jobs",
+    titleJa: "Royal Mail plans to cut 2,500 jobs",
+    summaryJa: "The postal service firm wants to cut head office and other non-frontline jobs by the end of 2027.",
+    bodyOriginal: `Royal Mail plans to cut 2,500 jobs
+- Published
+Royal Mail has announced plans to cut 2,500 head office and other supporting roles by the end of 2027 as it battles competition and falling demand for letter deliveries.
+The cuts at the postal service will represent about 2% of the 131,000-strong workforce.
+However, frontline postal workers - posties and drivers - are not part of the proposed restructuring.
+Royal Mail said the workforce reduction, designed to improve efficiency, would be achieved through voluntary redundancies and people choosing to leave the company.
+"These proposed changes remove duplication and allow us to invest further in the service we deliver for our customers," said chief executive Alistair Cochrane.
+He added that the job cuts "will not be easy, but they are an important part of building a stronger, simpler and future-ready Royal Mail for our customers and colleagues".
+Royal Mail said it was in formal consultation with its unions, the Communication Workers Union (CWU) and Unite CMA, over the plans.
+The CWU said despite reassurances that there would be no compulsory redundancies, the announcement was "further evidence of a company that is demoralising staff and failing to deliver for customers and the wider community".
+"We urge the government to confront the reality of a collapsing Royal Mail and intervene to save this national institution," deputy general secretary Martin Walsh told the BBC.
+Royal Mail has been struggling to meet its delivery targets for first and second class post, and has been fined by the regulator for missing targets in recent years.
+Just over 75% of first class letters were delivered on time in the year to the end of March, far off its target of 93%.
+Fewer people are sending letters, and the company has repeatedly said that its Universal Service Obligation (USO) – a legal requirement to deliver letters six days a week to every address in the UK – is outdated and needs reform.
+Royal Mail, which is a separate from the Post Office, has faced years of criticism from politicians and the public over slow letter deliveries.
+In March, postal workers across the UK told the BBC they were being asked to move or hide mail from senior bosses to make it look like delivery targets were being met.
+This year, more than 100 MPs have written to regulator Ofcom and the business secretary asking for something to be done about the poor service their constituents say they are receiving.
+The firm has said it is investing £500m over the next five years as part of its improvement plan.
+Royal Mail is owned by Czech billionaire Daniel Kretinsky's EP Group, after his takeover was approved by shareholders at the end of April last year.
+Kretinsky has previously said he will not walk away from the requirement to deliver letters throughout the UK six days a week, as long as he is running the service.
+Get in touch
+Do you work for Royal Mail? Tell us your story
+Related topics
+- Published29 May
+- Published4 days ago`,
+    bodyJa: `Royal Mail plans to cut 2,500 jobs
+- Published
+Royal Mail has announced plans to cut 2,500 head office and other supporting roles by the end of 2027 as it battles competition and falling demand for letter deliveries.
+The cuts at the postal service will represent about 2% of the 131,000-strong workforce.
+However, frontline postal workers - posties and drivers - are not part of the proposed restructuring.
+Royal Mail said the workforce reduction, designed to improve efficiency, would be achieved through voluntary redundancies and people choosing to leave the company.
+"These proposed changes remove duplication and allow us to invest further in the service we deliver for our customers," said chief executive Alistair Cochrane.
+He added that the job cuts "will not be easy, but they are an important part of building a stronger, simpler and future-ready Royal Mail for our customers and colleagues".
+Royal Mail said it was in formal consultation with its unions, the Communication Workers Union (CWU) and Unite CMA, over the plans.
+The CWU said despite reassurances that there would be no compulsory redundancies, the announcement was "further evidence of a company that is demoralising staff and failing to deliver for customers and the wider community".
+"We urge the government to confront the reality of a collapsing Royal Mail and intervene to save this national institution," deputy general secretary Martin Walsh told the BBC.
+Royal Mail has been struggling to meet its delivery targets for first and second class post, and has been fined by the regulator for missing targets in recent years.
+Just over 75% of first class letters were delivered on time in the year to the end of March, far off its target of 93%.
+Fewer people are sending letters, and the company has repeatedly said that its Universal Service Obligation (USO) – a legal requirement to deliver letters six days a week to every address in the UK – is outdated and needs reform.
+Royal Mail, which is a separate from the Post Office, has faced years of criticism from politicians and the public over slow letter deliveries.
+In March, postal workers across the UK told the BBC they were being asked to move or hide mail from senior bosses to make it look like delivery targets were being met.
+This year, more than 100 MPs have written to regulator Ofcom and the business secretary asking for something to be done about the poor service their constituents say they are receiving.
+The firm has said it is investing £500m over the next five years as part of its improvement plan.
+Royal Mail is owned by Czech billionaire Daniel Kretinsky's EP Group, after his takeover was approved by shareholders at the end of April last year.
+Kretinsky has previously said he will not walk away from the requirement to deliver letters throughout the UK six days a week, as long as he is running the service.
+Get in touch
+Do you work for Royal Mail? Tell us your story
+Related topics
+- Published29 May
+- Published4 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cwvgdld13e3eo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-07T12:25:46+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f14c/live/dee1ef00-c235-11f1-be2f-0fbd447d6e43.jpg",
+    readTime: 7,
+  },
+  {
+    id: "ice-came-to-town-and-left-behind-weakene-199c0055",
+    title: "ICE came to town and left behind weakened economies",
+    titleJa: "ICE came to town and left behind weakened economies",
+    summaryJa: "Research links ICE enforcement surges to lasting declines in local spending, foot traffic and jobs. In Minneapolis, businesses are still recovering.",
+    bodyOriginal: `MINNEAPOLIS — Operation Metro Surge has been over for months. The same can't be said for the crisis facing Daniel Hernandez's Colonial Market grocery stores.
+After Hernandez's parking lot became a well-known hangout spot for Immigration and Customs Enforcement officers, the lines that Hernandez grew accustomed to seeing each morning at his stores disappeared. The rebound in traffic Hernandez hoped to see after the end of the surge never materialized.
+"We're barely — literally barely — surviving," Hernandez told CNBC in an interview inside one of his stores, where Spanish-language music played through speakers and piñatas dangled from the ceiling. "The damage has been done."
+This summer, Hernandez shuttered Colonial Market's location on Lake Street, the heart of Minneapolis' Hispanic business community. Hernandez had spent savings and borrowed money against his house to open the store two years prior. He said sales at his stores have declined by roughly 60%.
+The financial turmoil facing Hernandez and others in Minneapolis is being experienced, to varying degrees, in communities across the country. As President Donald Trump has directed federal immigration officers to carry out mass deportations in major U.S. cities during his second term, a growing body of research shows that a monthslong economic chill followed.
+Cities where immigration raids took place in 2025 experienced a nearly 3% decline in weekly foot traffic and a more than 6% drawdown in spending, according to an analysis from University of Pennsylvania professor Zeke Hernandez. (No one with the surname Hernandez mentioned in this article is related to one another.)
+Collectively, he found that resulted in around 8 billion fewer visits and billions of dollars worth of lost spending in those places that year.
+"You are creating recession-like conditions in targeted neighborhoods," Zeke Hernandez said. "It's like a localized recession."
+'Disaster' in Minnesota
+Operation Metro Surge, which was billed as the largest-ever immigration enforcement action by the Department of Homeland Security, ran from early December to mid-February in Minneapolis. Months after its official conclusion, local businesses were still trying to get back on steady ground while community leaders calculate the economic effects.
+The Lake Street Council said immigrant-owned businesses in the commercial district cumulatively lost $46 million in December and January. Council members went door to door in the months after the surge to help small business owners — several of whom do not speak English as their first language, if at all — complete paperwork for emergency relief funds.
+At bars and eateries in the ZIP codes containing the Lake Street corridor, year-over-year foot traffic underperformed nearby neighborhoods for months after the surge officially ended, according to data analyzed exclusively for CNBC by Advan Research. That gap peaked in March at nearly 10 percentage points.
+Across the board, the Minneapolis government estimated that the City of Lakes lost almost $700 million worth of economic activity between December and April from the surge. Mayor Jacob Frey told CNBC that figure was likely conservative and that the city was left grappling with "tail" effects from the operation.
+City lawmakers released about $7 million for local businesses and more than $3 million in rental assistance. Frey acknowledged that would not be enough funding to resolve a situation that many in the community compared with a natural disaster.
+"Traditionally, disaster relief is not a partisan issue," Frey, a Democrat, told CNBC. "Traditionally, disasters are not caused by the government themselves."
+Employment dropped in U.S. cities experiencing immigration enforcement surges, according to an analysis from the Brookings Institution published last month. Six months after a respective surge, the report found that the most-impacted cities had a 0.4% employment shortfall.
+The labor force participation rate fell at a faster clip in Minnesota than it has in the U.S. overall in the last year, according to the Bureau of Labor Statistics. The North Star State's seasonally adjusted unemployment rate in 2026 eclipsed the national average for the first time in about 19 years.
+"Operation Metro Surge can sometimes be perceived as only affecting undocumented workers," said Tyler Schipper, an economist at the University of St. Thomas, Minnesota's largest private college. "That wasn't the case at all."
+Eviction notices dropped year over year in Minneapolis in January and February, according to Home Line, a Minnesota-based tenant advocacy group. While the surge caused some companies to cut workers' hours, Eric Hauge, Home Line's co-executive director, said a combination of government housing funds and mutual aid programs likely helped cushion their personal finances.
+As those funding sources ran dry, Hauge said the relative volume of eviction notifications spiked. Total notices in the year through August rose around 7% compared with the same period in 2025.
+To supplement government aid during the surge, the Minneapolis Foundation collected millions of dollars from corporations based in the city. However, R.T. Rybak, the nonprofit's chief executive, said big firms were slower to speak out about the surge than they were following the death of George Floyd — a shift he attributed to a fear of retribution from the Trump administration.
+"I understand the extraordinary political pressure that was put on these businesses," said Rybak, a former Democratic mayor of Minneapolis. "But I think it's pretty well understood around here that this was not the greatest moment for our usually very effective corporate philanthropic sector."
+The Hispanic American economy
+Trump made mass deportations a pillar of his first term and 2024 campaign. Democrats have marketed next month's midterm elections as an opportunity for voters to show their displeasure with his signature policies.
+White House spokesperson Lauren Bis said in a statement to CNBC that a "surge in illegal immigration under President Biden threatened the long run fiscal health of the country, contributed to record high inflation, and suppressed the wages of American workers."
+A spokesperson for the Department of Homeland Security, which oversees ICE, said that "illegal immigration is a labor-supply shock aimed at the bottom" and can drive up rent costs.
+Advocates for Hispanic Americans warn immigration crackdowns could stymie a demographic that has become a key driver for national economic growth. If U.S.-based Latinos made up their own country, the Latino Donor Collaborative told CNBC on Wednesday that its gross domestic product would be the fourth largest in the world at $5.1 trillion.
+Yet the growth rate for the average Hispanic household's spending in the U.S. decreased by about 2 percentage points over the last two years, according to Numerator. In a 2025 survey from the market research firm, Hispanic consumers were 50% more likely to cite immigration-related policy as a top issue.
+"We're being challenged right now," said Sol Trujillo, co-founder of the California-based Latino Donor Collaborative. "These policies can be highly disruptive to our economy."
+To be sure, it's not only Hispanic consumers and businesses under pressure.
+The Minneapolis-based Children's Theatre Co. had to cancel several shows when its venue became unreachable due to blockades created by the National Guard. After the theater reopened, managing director Ryan French said crowds were around half the size of what was previously expected.
+Depressed ticket and concession sales caused the nonprofit to lose roughly half-a-million dollars in revenue and end its fiscal year in the red. The 6-decade-old organization cut three jobs and reduced hours for other employees, French said.
+'Fear never left'
+On a weekday in Minneapolis late last month, residents referred to the operation as "the surge" in passing and described major life events as happening before or after it. Weathered posters on a building facade memorialized Renee Good and Alex Pretti, the two U.S. citizens killed by federal immigration officers during the operation. Houses and businesses around town displayed signs alerting immigration officers that they are not welcome on private property.
+Many immigrant business owners depleted their life savings to keep stores afloat during the surge, according to Jason Chavez, a Minneapolis City Council member who represents part of Lake Street. Now, Chavez said the community's mom-and-pop shops may not survive a small emergency like a pipe burst or inclement weather event.
+Recently, green shoots have emerged for these businesses. The Lake Street Council drew large crowds for World Cup viewing events and a recent "taco tour" food crawl, offering hope of customers returning to the area. In August, Advan Research found that year-over-year foot traffic growth for restaurants in Lake Street ZIP codes outperformed surrounding areas for the first time since Operation Metro Surge began.
+But community members worry that immigration enforcement could ramp up again. While the volume of arrests by ICE in Minnesota has slowed compared with earlier this year, the national number in July rose to its highest level since Trump returned to office, according to the Deportation Data Project.
+"For immigrants who are still here in Minneapolis and in the surrounding areas, that fear never left," said Miguel Hernandez, owner of Lito's Burritos on Lake Street. "They are operating at an intense level of caution still to this day."
+The restaurateur still sees foot traffic plunge in the days after the news runs headlines about immigration enforcement. Some of his employees with work authorizations left the country due to fear over how they would be treated by federal officers. He sold his gray Chevrolet Tahoe after he said children began mistaking it for an ICE vehicle and running away.
+For the past several Sundays, one of Daniel Hernandez's remaining Colonial Market stores has become home to a pop-up market where immigrant entrepreneurs sell their products. The owner said he invites Minneapolis police officers to patrol during the weekly event, drawing on a belief that the presence of local law enforcement with body cameras would deter ICE agents.
+But Daniel Hernandez said the pop-up's traffic boost may not be enough for that location to survive.
+The grocer could be evicted later this month, he said, after falling behind on rent as a result of lost sales during and after the surge. Colonial Market has raised more than $3,000 through a GoFundMe campaign to help keep the doors open.
+"During the storm, you can feel the winds. But once the storm is over, all that you see is destruction," he said. "That's what happened here."`,
+    bodyJa: `MINNEAPOLIS — Operation Metro Surge has been over for months. The same can't be said for the crisis facing Daniel Hernandez's Colonial Market grocery stores.
+After Hernandez's parking lot became a well-known hangout spot for Immigration and Customs Enforcement officers, the lines that Hernandez grew accustomed to seeing each morning at his stores disappeared. The rebound in traffic Hernandez hoped to see after the end of the surge never materialized.
+"We're barely — literally barely — surviving," Hernandez told CNBC in an interview inside one of his stores, where Spanish-language music played through speakers and piñatas dangled from the ceiling. "The damage has been done."
+This summer, Hernandez shuttered Colonial Market's location on Lake Street, the heart of Minneapolis' Hispanic business community. Hernandez had spent savings and borrowed money against his house to open the store two years prior. He said sales at his stores have declined by roughly 60%.
+The financial turmoil facing Hernandez and others in Minneapolis is being experienced, to varying degrees, in communities across the country. As President Donald Trump has directed federal immigration officers to carry out mass deportations in major U.S. cities during his second term, a growing body of research shows that a monthslong economic chill followed.
+Cities where immigration raids took place in 2025 experienced a nearly 3% decline in weekly foot traffic and a more than 6% drawdown in spending, according to an analysis from University of Pennsylvania professor Zeke Hernandez. (No one with the surname Hernandez mentioned in this article is related to one another.)
+Collectively, he found that resulted in around 8 billion fewer visits and billions of dollars worth of lost spending in those places that year.
+"You are creating recession-like conditions in targeted neighborhoods," Zeke Hernandez said. "It's like a localized recession."
+'Disaster' in Minnesota
+Operation Metro Surge, which was billed as the largest-ever immigration enforcement action by the Department of Homeland Security, ran from early December to mid-February in Minneapolis. Months after its official conclusion, local businesses were still trying to get back on steady ground while community leaders calculate the economic effects.
+The Lake Street Council said immigrant-owned businesses in the commercial district cumulatively lost $46 million in December and January. Council members went door to door in the months after the surge to help small business owners — several of whom do not speak English as their first language, if at all — complete paperwork for emergency relief funds.
+At bars and eateries in the ZIP codes containing the Lake Street corridor, year-over-year foot traffic underperformed nearby neighborhoods for months after the surge officially ended, according to data analyzed exclusively for CNBC by Advan Research. That gap peaked in March at nearly 10 percentage points.
+Across the board, the Minneapolis government estimated that the City of Lakes lost almost $700 million worth of economic activity between December and April from the surge. Mayor Jacob Frey told CNBC that figure was likely conservative and that the city was left grappling with "tail" effects from the operation.
+City lawmakers released about $7 million for local businesses and more than $3 million in rental assistance. Frey acknowledged that would not be enough funding to resolve a situation that many in the community compared with a natural disaster.
+"Traditionally, disaster relief is not a partisan issue," Frey, a Democrat, told CNBC. "Traditionally, disasters are not caused by the government themselves."
+Employment dropped in U.S. cities experiencing immigration enforcement surges, according to an analysis from the Brookings Institution published last month. Six months after a respective surge, the report found that the most-impacted cities had a 0.4% employment shortfall.
+The labor force participation rate fell at a faster clip in Minnesota than it has in the U.S. overall in the last year, according to the Bureau of Labor Statistics. The North Star State's seasonally adjusted unemployment rate in 2026 eclipsed the national average for the first time in about 19 years.
+"Operation Metro Surge can sometimes be perceived as only affecting undocumented workers," said Tyler Schipper, an economist at the University of St. Thomas, Minnesota's largest private college. "That wasn't the case at all."
+Eviction notices dropped year over year in Minneapolis in January and February, according to Home Line, a Minnesota-based tenant advocacy group. While the surge caused some companies to cut workers' hours, Eric Hauge, Home Line's co-executive director, said a combination of government housing funds and mutual aid programs likely helped cushion their personal finances.
+As those funding sources ran dry, Hauge said the relative volume of eviction notifications spiked. Total notices in the year through August rose around 7% compared with the same period in 2025.
+To supplement government aid during the surge, the Minneapolis Foundation collected millions of dollars from corporations based in the city. However, R.T. Rybak, the nonprofit's chief executive, said big firms were slower to speak out about the surge than they were following the death of George Floyd — a shift he attributed to a fear of retribution from the Trump administration.
+"I understand the extraordinary political pressure that was put on these businesses," said Rybak, a former Democratic mayor of Minneapolis. "But I think it's pretty well understood around here that this was not the greatest moment for our usually very effective corporate philanthropic sector."
+The Hispanic American economy
+Trump made mass deportations a pillar of his first term and 2024 campaign. Democrats have marketed next month's midterm elections as an opportunity for voters to show their displeasure with his signature policies.
+White House spokesperson Lauren Bis said in a statement to CNBC that a "surge in illegal immigration under President Biden threatened the long run fiscal health of the country, contributed to record high inflation, and suppressed the wages of American workers."
+A spokesperson for the Department of Homeland Security, which oversees ICE, said that "illegal immigration is a labor-supply shock aimed at the bottom" and can drive up rent costs.
+Advocates for Hispanic Americans warn immigration crackdowns could stymie a demographic that has become a key driver for national economic growth. If U.S.-based Latinos made up their own country, the Latino Donor Collaborative told CNBC on Wednesday that its gross domestic product would be the fourth largest in the world at $5.1 trillion.
+Yet the growth rate for the average Hispanic household's spending in the U.S. decreased by about 2 percentage points over the last two years, according to Numerator. In a 2025 survey from the market research firm, Hispanic consumers were 50% more likely to cite immigration-related policy as a top issue.
+"We're being challenged right now," said Sol Trujillo, co-founder of the California-based Latino Donor Collaborative. "These policies can be highly disruptive to our economy."
+To be sure, it's not only Hispanic consumers and businesses under pressure.
+The Minneapolis-based Children's Theatre Co. had to cancel several shows when its venue became unreachable due to blockades created by the National Guard. After the theater reopened, managing director Ryan French said crowds were around half the size of what was previously expected.
+Depressed ticket and concession sales caused the nonprofit to lose roughly half-a-million dollars in revenue and end its fiscal year in the red. The 6-decade-old organization cut three jobs and reduced hours for other employees, French said.
+'Fear never left'
+On a weekday in Minneapolis late last month, residents referred to the operation as "the surge" in passing and described major life events as happening before or after it. Weathered posters on a building facade memorialized Renee Good and Alex Pretti, the two U.S. citizens killed by federal immigration officers during the operation. Houses and businesses around town displayed signs alerting immigration officers that they are not welcome on private property.
+Many immigrant business owners depleted their life savings to keep stores afloat during the surge, according to Jason Chavez, a Minneapolis City Council member who represents part of Lake Street. Now, Chavez said the community's mom-and-pop shops may not survive a small emergency like a pipe burst or inclement weather event.
+Recently, green shoots have emerged for these businesses. The Lake Street Council drew large crowds for World Cup viewing events and a recent "taco tour" food crawl, offering hope of customers returning to the area. In August, Advan Research found that year-over-year foot traffic growth for restaurants in Lake Street ZIP codes outperformed surrounding areas for the first time since Operation Metro Surge began.
+But community members worry that immigration enforcement could ramp up again. While the volume of arrests by ICE in Minnesota has slowed compared with earlier this year, the national number in July rose to its highest level since Trump returned to office, according to the Deportation Data Project.
+"For immigrants who are still here in Minneapolis and in the surrounding areas, that fear never left," said Miguel Hernandez, owner of Lito's Burritos on Lake Street. "They are operating at an intense level of caution still to this day."
+The restaurateur still sees foot traffic plunge in the days after the news runs headlines about immigration enforcement. Some of his employees with work authorizations left the country due to fear over how they would be treated by federal officers. He sold his gray Chevrolet Tahoe after he said children began mistaking it for an ICE vehicle and running away.
+For the past several Sundays, one of Daniel Hernandez's remaining Colonial Market stores has become home to a pop-up market where immigrant entrepreneurs sell their products. The owner said he invites Minneapolis police officers to patrol during the weekly event, drawing on a belief that the presence of local law enforcement with body cameras would deter ICE agents.
+But Daniel Hernandez said the pop-up's traffic boost may not be enough for that location to survive.
+The grocer could be evicted later this month, he said, after falling behind on rent as a result of lost sales during and after the surge. Colonial Market has raised more than $3,000 through a GoFundMe campaign to help keep the doors open.
+"During the storm, you can feel the winds. But once the storm is over, all that you see is destruction," he said. "That's what happened here."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/07/ice-raids-local-economies.html",
+    publishedAt: "2026-10-07T12:24:32+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "rubio-says-tehran-missed-multiple-chance-42a6a7c8",
+    title: "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
+    titleJa: "Rubio says Tehran missed 'multiple' chances for nuclear deal amid Iran stalemate",
+    summaryJa: "Iran has failed to take advantage of \"multiple opportunities\" to reach a deal on its nuclear program, Secretary of State Marco Rubio said Wednesday.",
+    bodyOriginal: `U.S. Secretary of State Marco Rubio said Wednesday that Iran has passed up "multiple" chances to reach a deal on its nuclear program, as talks between Washington and Tehran over a lasting Middle East peace agreement remain stalled.
+"Iran has failed to take advantage of multiple opportunities to reach agreement with us on nuclear program," Rubio said during a visit to Greece.
+Curtailment of Iran's nuclear ambitions remains a critical part of U.S. demands, as efforts to reach a lasting ceasefire agreement between the two sides remain fruitless.
+Iran indicated there have been "no negotiations" between Tehran and Washington over Iran's nuclear program, according to a Reuters report. The news agency cited comments by a senior Iranian official involved in indirect talks with Washington, who said U.S. ideas about the program are "at odds" with those of the Islamic Republic.
+Rubio's remarks follow comments by Vice President J.D. Vance, who earlier this week said any agreement to resolve the seven-month conflict must include a commitment by Iran to a "meaningful" reduction in its nuclear enrichment.
+The senior Iranian official said Vance's comments reflect American "ideas and interests", adding: "Iran will never give up its right to enrich, but enrichment details can be discussed later."
+President Donald Trump last week denied reports that he had pitched sanctions relief to Iran in exchange for nuclear concessions.
+The absence of any agreement has seen Iran ramp up attacks on tankers passing through the Strait of Hormuz in recent days, where vessels now rely on U.S. military protection to navigate the critical waterway.
+Energy prices moved higher on Wednesday, following two separate attacks by Yemen's Iran-backed Houthis on airports in Saudi Arabia.
+Brent crude, the international oil benchmark, rose 0.64% to $101.23, while U.S. West Texas Intermediate futures climbed 0.21% to $89.63.`,
+    bodyJa: `U.S. Secretary of State Marco Rubio said Wednesday that Iran has passed up "multiple" chances to reach a deal on its nuclear program, as talks between Washington and Tehran over a lasting Middle East peace agreement remain stalled.
+"Iran has failed to take advantage of multiple opportunities to reach agreement with us on nuclear program," Rubio said during a visit to Greece.
+Curtailment of Iran's nuclear ambitions remains a critical part of U.S. demands, as efforts to reach a lasting ceasefire agreement between the two sides remain fruitless.
+Iran indicated there have been "no negotiations" between Tehran and Washington over Iran's nuclear program, according to a Reuters report. The news agency cited comments by a senior Iranian official involved in indirect talks with Washington, who said U.S. ideas about the program are "at odds" with those of the Islamic Republic.
+Rubio's remarks follow comments by Vice President J.D. Vance, who earlier this week said any agreement to resolve the seven-month conflict must include a commitment by Iran to a "meaningful" reduction in its nuclear enrichment.
+The senior Iranian official said Vance's comments reflect American "ideas and interests", adding: "Iran will never give up its right to enrich, but enrichment details can be discussed later."
+President Donald Trump last week denied reports that he had pitched sanctions relief to Iran in exchange for nuclear concessions.
+The absence of any agreement has seen Iran ramp up attacks on tankers passing through the Strait of Hormuz in recent days, where vessels now rely on U.S. military protection to navigate the critical waterway.
+Energy prices moved higher on Wednesday, following two separate attacks by Yemen's Iran-backed Houthis on airports in Saudi Arabia.
+Brent crude, the international oil benchmark, rose 0.64% to $101.23, while U.S. West Texas Intermediate futures climbed 0.21% to $89.63.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/07/us-iran-war-trump-hormuz.html",
+    publishedAt: "2026-10-07T12:18:15+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "rainmakers-the-drones-used-to-seed-cloud-bf77cad2",
+    title: "Rainmakers: The drones used to seed clouds",
+    titleJa: "Rainmakers: The drones used to seed clouds",
+    summaryJa: "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
+    bodyOriginal: `Rainmakers: The drones used to seed clouds
+- Published
+On 23 August, Cooper Freeman had no idea clouds above his head were being filled with a silver compound in order to cause rainfall.
+Neither did thousands of other residents in Homer, Alaska, who later discovered San Francisco start-up Rainmaker conducted an experiment in that region using cloud-seeding technology.
+The company claims it produced 19 million US gallons of water in the sky in three hours.
+This approach to weather modification, now more than 80-years-old, involves using planes and drones to disperse compounds such as silver iodide into clouds to form ice crystals. Those crystals eventually become large enough to fall as rain or snow, depending on the temperatures below.
+Essentially, cloud seeding speeds up the natural process of water vapor condensing inside of clouds. Gravity then pulls those crystals to the ground. The technology, though, needs ideal climate environments, such as mountainous or cold regions such as Alaska.
+Freeman, the Alaska director of the Center for Biological Diversity, isn't just concerned Homer residents weren't widely alerted to these experiments. He's sceptical about what was shot into the clouds, and questions how safe it was for both residents and their habitat.
+"It doesn't appear that there was any downstream monitoring to verify that this silver iodide didn't impact the environment," he says.
+Freeman adds, "Having a company come in to do this seeding isn't going to solve our water woes, and it feels like a distraction from solving the urgent issues related to water conservation."
+Concerns are mounting about the challenges surrounding water security. United Nations Secretary-General António Guterres said in July "our world is using freshwater faster than it can be replenished, external", which echoes reports noting how the past five years have led to the driest period for global rivers, external in more than three decades.
+Cloud-seeding technology may be a drop in the bucket, as it doesn't create rainstorms. For example, Rainmaker's 19 million gallons equates to around 0.01 inch of rain across 100 square miles.
+Nevertheless, more than 50 countries, external are developing programmes to modify the weather and a surge of start-ups are developing systems to create rain.
+As well developed and promising as this innovative field has become, these businesses continue to face thorny questions on safety and efficacy, leading to novel approaches with both finding the right material to spray into clouds and how they do it.
+Augustus Doricko, the founder and CEO of Rainmaker, is quick to answer any questions on the consequences of how his company uses the silver iodide compound. It's clear he's been asked about chemical safety many times.
+He says Rainmaker releases this form of silver at 20 grams per flight, distributed across thousands of square kilometres. "The resultant increase in concentration on the ground is in the parts per quadrillion, way below the threshold laid out by the FDA [Food and Drug Administration] on what is allowable."
+Rainmaker's flights use drones to soar into clouds because without clouds, "we can't do anything," he says, pointing to one of the key limits of cloud-seeding processes. Cloud-seeding sessions have to wait for clouds to form to try to coax them into precipitation.
+Their drones are outfitted with silver iodide flairs, and when lit the burning atomizes the water particles into a small enough size so they can stay suspended in the freezing cloud for hours, eventually turning into crystals and later rain.
+Rainmaker operates in states such as Idaho, Utah, Colorado and areas of the Middle East such as Jordan. Doricko says, "Jordan residents often only have water for hours per week from their utility because of how scarce water is, and it's a privilege to try to help this storied region."
+Cloud seeding's roots began in 1946 when researchers from the General Electric Research Laboratory used dry ice as the first seeding agent. A year later, silver iodide was found to be more effective than dry ice, which quickly turns into useless gas.
+While seeding agents caused more rainfall, they didn't move the needle much. In fact, sobering statistics point to how patchy this technology can be in what it pours on the ground.
+"With the right conditions, cloud seeding squeeze out about an extra five to 10% of precipitation," says Jon Meyer, an assistant state climatologist with the Utah Climate Center.
+What was encouraging, though, for the cloud-seeding sector was a landmark 2017 study that found how silver iodide worked as expected, one of the first reports to observe cloud seeding in action using radar and precipitation gauges.
+In the past several years, Meyer has been encouraged to see more companies such as Rainmaker bring innovation to an old industry. "Drones [such as Rainmaker's products] present this new avenue," says Meyer, "and they offer a more targeted nature to these clouds we hope will be responsive."
+What is sprayed into clouds may also be undergoing a major shift. Recast Systems in San Francisco is experimenting with a type of protein made from amino acids found in the soil, says CEO Olivia Li.
+While still undergoing tests at Texas A&M University, this new seeding agent moves Recast away from silver iodide as the go-to compound.
+"It's safe, biodegradable and nucleates ice at a higher efficiency than silver iodide," says Li, whose company currently uses silver iodide to seed clouds in several US states.
+Meyer is optimistic this technology's trajectory will only continue to rise. "We're going to see more demand for these services as so many regions are experiencing water demand," he says, "and they're going to be looking for ways to help bridge that gap."
+Technology of Business
+- Published25 September
+- Published23 September
+- Published18 September`,
+    bodyJa: `Rainmakers: The drones used to seed clouds
+- Published
+On 23 August, Cooper Freeman had no idea clouds above his head were being filled with a silver compound in order to cause rainfall.
+Neither did thousands of other residents in Homer, Alaska, who later discovered San Francisco start-up Rainmaker conducted an experiment in that region using cloud-seeding technology.
+The company claims it produced 19 million US gallons of water in the sky in three hours.
+This approach to weather modification, now more than 80-years-old, involves using planes and drones to disperse compounds such as silver iodide into clouds to form ice crystals. Those crystals eventually become large enough to fall as rain or snow, depending on the temperatures below.
+Essentially, cloud seeding speeds up the natural process of water vapor condensing inside of clouds. Gravity then pulls those crystals to the ground. The technology, though, needs ideal climate environments, such as mountainous or cold regions such as Alaska.
+Freeman, the Alaska director of the Center for Biological Diversity, isn't just concerned Homer residents weren't widely alerted to these experiments. He's sceptical about what was shot into the clouds, and questions how safe it was for both residents and their habitat.
+"It doesn't appear that there was any downstream monitoring to verify that this silver iodide didn't impact the environment," he says.
+Freeman adds, "Having a company come in to do this seeding isn't going to solve our water woes, and it feels like a distraction from solving the urgent issues related to water conservation."
+Concerns are mounting about the challenges surrounding water security. United Nations Secretary-General António Guterres said in July "our world is using freshwater faster than it can be replenished, external", which echoes reports noting how the past five years have led to the driest period for global rivers, external in more than three decades.
+Cloud-seeding technology may be a drop in the bucket, as it doesn't create rainstorms. For example, Rainmaker's 19 million gallons equates to around 0.01 inch of rain across 100 square miles.
+Nevertheless, more than 50 countries, external are developing programmes to modify the weather and a surge of start-ups are developing systems to create rain.
+As well developed and promising as this innovative field has become, these businesses continue to face thorny questions on safety and efficacy, leading to novel approaches with both finding the right material to spray into clouds and how they do it.
+Augustus Doricko, the founder and CEO of Rainmaker, is quick to answer any questions on the consequences of how his company uses the silver iodide compound. It's clear he's been asked about chemical safety many times.
+He says Rainmaker releases this form of silver at 20 grams per flight, distributed across thousands of square kilometres. "The resultant increase in concentration on the ground is in the parts per quadrillion, way below the threshold laid out by the FDA [Food and Drug Administration] on what is allowable."
+Rainmaker's flights use drones to soar into clouds because without clouds, "we can't do anything," he says, pointing to one of the key limits of cloud-seeding processes. Cloud-seeding sessions have to wait for clouds to form to try to coax them into precipitation.
+Their drones are outfitted with silver iodide flairs, and when lit the burning atomizes the water particles into a small enough size so they can stay suspended in the freezing cloud for hours, eventually turning into crystals and later rain.
+Rainmaker operates in states such as Idaho, Utah, Colorado and areas of the Middle East such as Jordan. Doricko says, "Jordan residents often only have water for hours per week from their utility because of how scarce water is, and it's a privilege to try to help this storied region."
+Cloud seeding's roots began in 1946 when researchers from the General Electric Research Laboratory used dry ice as the first seeding agent. A year later, silver iodide was found to be more effective than dry ice, which quickly turns into useless gas.
+While seeding agents caused more rainfall, they didn't move the needle much. In fact, sobering statistics point to how patchy this technology can be in what it pours on the ground.
+"With the right conditions, cloud seeding squeeze out about an extra five to 10% of precipitation," says Jon Meyer, an assistant state climatologist with the Utah Climate Center.
+What was encouraging, though, for the cloud-seeding sector was a landmark 2017 study that found how silver iodide worked as expected, one of the first reports to observe cloud seeding in action using radar and precipitation gauges.
+In the past several years, Meyer has been encouraged to see more companies such as Rainmaker bring innovation to an old industry. "Drones [such as Rainmaker's products] present this new avenue," says Meyer, "and they offer a more targeted nature to these clouds we hope will be responsive."
+What is sprayed into clouds may also be undergoing a major shift. Recast Systems in San Francisco is experimenting with a type of protein made from amino acids found in the soil, says CEO Olivia Li.
+While still undergoing tests at Texas A&M University, this new seeding agent moves Recast away from silver iodide as the go-to compound.
+"It's safe, biodegradable and nucleates ice at a higher efficiency than silver iodide," says Li, whose company currently uses silver iodide to seed clouds in several US states.
+Meyer is optimistic this technology's trajectory will only continue to rise. "We're going to see more demand for these services as so many regions are experiencing water demand," he says, "and they're going to be looking for ways to help bridge that gap."
+Technology of Business
+- Published25 September
+- Published23 September
+- Published18 September`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-07T07:09:32+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7095/live/a810f030-bb31-11f1-bc1f-3f186ca4140c.png",
+    readTime: 10,
+  },
+  {
     id: "oil-rises-as-concerns-over-houthi-attack-c95f9cab",
     title: "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
     titleJa: "Oil rises as concerns over Houthi attacks on Saudi Arabia eclipse supply recovery",
@@ -39,6 +445,142 @@ Naeem Aslam, chief investment officer of Zaye Capital Markets, said Tuesday that
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
     readTime: 4,
+  },
+  {
+    id: "half-the-harvest-twice-the-bills-how-dro-b13d112a",
+    title: "Half the harvest, twice the bills: how drought hit farms",
+    titleJa: "Half the harvest, twice the bills: how drought hit farms",
+    summaryJa: "Half the harvest, twice the bills: how drought hit farms- Published",
+    bodyOriginal: `Half the harvest, twice the bills: how drought hit farms
+- Published
+The hottest summer on record, the longest drought, the worst harvest. West Country farmers are counting the cost of a "terrible summer", as one put it.
+The wheat harvest on Charles Day's family farm in Gloucestershire was cut in half. "It's just soul-destroying," he says.
+Dairy farmers had to rip open silage clamps stored up for the winter to feed the cattle as the grass failed. Sarah Godwin calculates it cost her family's Wiltshire farm "over £100,000". She says "it's shocking".
+I spent the summer watching farmers install showers for cows, watch their cauliflowers burn to a crisp in the heat, and search for apples in cider orchards reduced to a tenth of their normal crop.
+So now the harvest is home, just how bad was it?
+Worst wheat harvest ever
+Buy a loaf of bread and there's a good chance it started in the fields of Charles Day's family farm in north Gloucestershire.
+"I love harvest," the fourth generation farmer tells me. "It's a whole year's work coming to fruition."
+But 2026 was brutal. The crops were looking "fantastic" in April, he told me. Then in June, the rain stopped and "the sun just stole our yield".
+Throughout the crucial weeks of June and July, there was no rain at all. Wheat grains shrivelled instead of fattening, and the yield plummeted.
+Official figures estimate the total UK cereal harvest was the lowest on record, external, wheat down about three million tonnes, or 11% according to the Agricultural and Horticultural Development Board (AHDB).
+Anthony Hopkins, AHDB director of cereals and oilseeds, says: "At a time of high input costs, arable farmers in the worst-affected areas are really feeling the financial pressure right now."
+But in the South West, it was much hotter and the impact far worse.
+When the combines went out on Charles Day's family farm, they gathered a harvest "about 50% down, sometimes more".
+"It's just soul-destroying," he adds.
+Across the South West, Tom Collins, who speaks for the NFU in Wiltshire, says most cereal farmers had seen harvests down "at least 30%". Spring barley and beans were more than 50% down, he adds, particularly badly hit by the drought.
+"Most farmers will give this harvest 3 out of 10", he adds. "They're pretty depressed."
+Dairy costs rocket up
+Put some butter on your bread, or cheese, and that is probably from the West Country's other farmers - dairy producers.
+But unlike the wheat harvest, the amount of milk produced this summer barely fell. Total production is down just 4.5%, external, according to the ADHB.
+"That's because we have to feed our cows, and milk them, whatever the weather," explains Sarah Godwin.
+Her family raise dairy cows west of Chippenham, selling their milk to a major supermarket.
+The Cotswolds was badly hit by the drought, leaving grazing pastures brown and without any nutrition for the cows. So like many farmers, the Godwins had to open their sileage planned for the winter and buy in feed to boost their cows diets.
+"Altogether it cost us around £100,000," Godwin explains. "We also had a drop in production yields, that's around £20,000.
+"On top of that, cows suffered more lameness, lower fertility, more mastitis. They really did not enjoy the heat."
+The family spent £15,000 installing new sprinkler systems and huge fans to cool the cattle in their sheds when they sheltered from the heat outside. All vital for animal welfare, but more costs to the business.
+Even the normally lush fields of Somerset withered in the heat. Tom Kimber's family have farmed near Charlton Musgrove in south Somerset, in the heart of England's most productive grazing land. They run 250 dairy cows on their own grass, cutting sileage for the winter months.
+By September, they would normally have three large clamps of sileage ready for winter. This year, they have only cut two, and had to raid one throughout July and August, to make up for the lack of grass.
+But sadly, Tom Kimber is getting used to what was once freak weather.
+"This is the fourth drought in eight years now, so you barely financially get over the last one and you're hit with another one. It's becoming far more frequent, these events.
+"It's incredibly difficult this constant lurching between one extreme to the other, that's what keeps you awake at night."
+How are farmers adapting?
+Climate scientists are clear that weather like this is the new normal.
+"What we used to think of as extreme weather, we increasingly consider as normal," says Mike Kendon, a climate scientist at the Met Office.
+So what can farmers do about it?
+In Gloucestershire, Charles Day's family have a rare asset: a lake. Fed by a local river, it fills through the winter and then can be used in the summer. They grow salad onions, broccoli and other vegetables on fields nearby, all irrigated by the lake water.
+The family wants to expand the lake, hold more water, do their bit to turn winter floods into summer irrigation.
+"But it's so complicated," Day explains. "The red tape, the planning, the licences, the digging - it will be very expensive. And we just get no help from government."
+New Prime Minister Andy Burnham announced in the summer a package of support , externalmeasures including grant funding to construct reservoirs and irrigation infrastructure.
+"I hope it helps," Day adds.
+Others are trying to farm in a more nature friendly way. Planting mixed grasses which cope better with drought. More trees to provide shade, older varieties of cereals that withstand heat better.
+All these cost money, and there are government schemes to support them. But when the latest round of financing opened, it was overwhelmed.
+A year's worth of government grants, more than £250m, was handed out in under six hours in an online scramble "reminiscent of Glastonbury ticket sales", as Wiltshire farmer Tom Collins put it.
+"It just shows how desperate farmers are," he adds.
+"It's so hard to make a living from food people fall over themselves to get these environmental grants, and then they're swallowed up in no time. It's so unfair."
+A spokesperson for the Department of Environment, Food and Rural Affairs says: "In anticipation of high demand, ministers decided to allocate an additional £20m to the fund, on top the £50m announced by the prime minister in August, so that we could fund as many agreements as possible."
+Farming Minister Stephen Morgan adds that the Sustainable Farming Incentive had been designed to be simpler to apply for and that farmers had "responded in force".
+Tom Kimber was one of those who missed out. He went online to apply for an extension of an environmental scheme his farm was already running.
+"We plant a mix of different grasses that cope better in the drought," he explains. "But they cost more, so we need the grant."
+A glitch in the Defra computer system left him locked out of the website for hours. When he got back in, the money had all gone.
+Farming, he says, is not easy at the moment.
+"When you're being squeezed from both ends, the milk price is 10p litre below the cost of production, and costs are going up all the time.
+"You're just forever hoping for a better day, but hope doesn't keep you in business."
+How cow showers and fans help farmers keep cattle cool
+- Published29 July
+Drought leaves 'barely any apples' to make cider
+- Published25 August
+Farmers' fury as race for £233m funding compared to 'scramble for Oasis tickets'
+- Published23 September
+Follow BBC Wiltshire on Facebook, external, X, external and Instagram, external. Send your story ideas to us on email or via WhatsApp on 0800 313 4630.`,
+    bodyJa: `Half the harvest, twice the bills: how drought hit farms
+- Published
+The hottest summer on record, the longest drought, the worst harvest. West Country farmers are counting the cost of a "terrible summer", as one put it.
+The wheat harvest on Charles Day's family farm in Gloucestershire was cut in half. "It's just soul-destroying," he says.
+Dairy farmers had to rip open silage clamps stored up for the winter to feed the cattle as the grass failed. Sarah Godwin calculates it cost her family's Wiltshire farm "over £100,000". She says "it's shocking".
+I spent the summer watching farmers install showers for cows, watch their cauliflowers burn to a crisp in the heat, and search for apples in cider orchards reduced to a tenth of their normal crop.
+So now the harvest is home, just how bad was it?
+Worst wheat harvest ever
+Buy a loaf of bread and there's a good chance it started in the fields of Charles Day's family farm in north Gloucestershire.
+"I love harvest," the fourth generation farmer tells me. "It's a whole year's work coming to fruition."
+But 2026 was brutal. The crops were looking "fantastic" in April, he told me. Then in June, the rain stopped and "the sun just stole our yield".
+Throughout the crucial weeks of June and July, there was no rain at all. Wheat grains shrivelled instead of fattening, and the yield plummeted.
+Official figures estimate the total UK cereal harvest was the lowest on record, external, wheat down about three million tonnes, or 11% according to the Agricultural and Horticultural Development Board (AHDB).
+Anthony Hopkins, AHDB director of cereals and oilseeds, says: "At a time of high input costs, arable farmers in the worst-affected areas are really feeling the financial pressure right now."
+But in the South West, it was much hotter and the impact far worse.
+When the combines went out on Charles Day's family farm, they gathered a harvest "about 50% down, sometimes more".
+"It's just soul-destroying," he adds.
+Across the South West, Tom Collins, who speaks for the NFU in Wiltshire, says most cereal farmers had seen harvests down "at least 30%". Spring barley and beans were more than 50% down, he adds, particularly badly hit by the drought.
+"Most farmers will give this harvest 3 out of 10", he adds. "They're pretty depressed."
+Dairy costs rocket up
+Put some butter on your bread, or cheese, and that is probably from the West Country's other farmers - dairy producers.
+But unlike the wheat harvest, the amount of milk produced this summer barely fell. Total production is down just 4.5%, external, according to the ADHB.
+"That's because we have to feed our cows, and milk them, whatever the weather," explains Sarah Godwin.
+Her family raise dairy cows west of Chippenham, selling their milk to a major supermarket.
+The Cotswolds was badly hit by the drought, leaving grazing pastures brown and without any nutrition for the cows. So like many farmers, the Godwins had to open their sileage planned for the winter and buy in feed to boost their cows diets.
+"Altogether it cost us around £100,000," Godwin explains. "We also had a drop in production yields, that's around £20,000.
+"On top of that, cows suffered more lameness, lower fertility, more mastitis. They really did not enjoy the heat."
+The family spent £15,000 installing new sprinkler systems and huge fans to cool the cattle in their sheds when they sheltered from the heat outside. All vital for animal welfare, but more costs to the business.
+Even the normally lush fields of Somerset withered in the heat. Tom Kimber's family have farmed near Charlton Musgrove in south Somerset, in the heart of England's most productive grazing land. They run 250 dairy cows on their own grass, cutting sileage for the winter months.
+By September, they would normally have three large clamps of sileage ready for winter. This year, they have only cut two, and had to raid one throughout July and August, to make up for the lack of grass.
+But sadly, Tom Kimber is getting used to what was once freak weather.
+"This is the fourth drought in eight years now, so you barely financially get over the last one and you're hit with another one. It's becoming far more frequent, these events.
+"It's incredibly difficult this constant lurching between one extreme to the other, that's what keeps you awake at night."
+How are farmers adapting?
+Climate scientists are clear that weather like this is the new normal.
+"What we used to think of as extreme weather, we increasingly consider as normal," says Mike Kendon, a climate scientist at the Met Office.
+So what can farmers do about it?
+In Gloucestershire, Charles Day's family have a rare asset: a lake. Fed by a local river, it fills through the winter and then can be used in the summer. They grow salad onions, broccoli and other vegetables on fields nearby, all irrigated by the lake water.
+The family wants to expand the lake, hold more water, do their bit to turn winter floods into summer irrigation.
+"But it's so complicated," Day explains. "The red tape, the planning, the licences, the digging - it will be very expensive. And we just get no help from government."
+New Prime Minister Andy Burnham announced in the summer a package of support , externalmeasures including grant funding to construct reservoirs and irrigation infrastructure.
+"I hope it helps," Day adds.
+Others are trying to farm in a more nature friendly way. Planting mixed grasses which cope better with drought. More trees to provide shade, older varieties of cereals that withstand heat better.
+All these cost money, and there are government schemes to support them. But when the latest round of financing opened, it was overwhelmed.
+A year's worth of government grants, more than £250m, was handed out in under six hours in an online scramble "reminiscent of Glastonbury ticket sales", as Wiltshire farmer Tom Collins put it.
+"It just shows how desperate farmers are," he adds.
+"It's so hard to make a living from food people fall over themselves to get these environmental grants, and then they're swallowed up in no time. It's so unfair."
+A spokesperson for the Department of Environment, Food and Rural Affairs says: "In anticipation of high demand, ministers decided to allocate an additional £20m to the fund, on top the £50m announced by the prime minister in August, so that we could fund as many agreements as possible."
+Farming Minister Stephen Morgan adds that the Sustainable Farming Incentive had been designed to be simpler to apply for and that farmers had "responded in force".
+Tom Kimber was one of those who missed out. He went online to apply for an extension of an environmental scheme his farm was already running.
+"We plant a mix of different grasses that cope better in the drought," he explains. "But they cost more, so we need the grant."
+A glitch in the Defra computer system left him locked out of the website for hours. When he got back in, the money had all gone.
+Farming, he says, is not easy at the moment.
+"When you're being squeezed from both ends, the milk price is 10p litre below the cost of production, and costs are going up all the time.
+"You're just forever hoping for a better day, but hope doesn't keep you in business."
+How cow showers and fans help farmers keep cattle cool
+- Published29 July
+Drought leaves 'barely any apples' to make cider
+- Published25 August
+Farmers' fury as race for £233m funding compared to 'scramble for Oasis tickets'
+- Published23 September
+Follow BBC Wiltshire on Facebook, external, X, external and Instagram, external. Send your story ideas to us on email or via WhatsApp on 0800 313 4630.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c5rm9mdm79neo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-07T05:22:52+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5256/live/f0b93700-c15f-11f1-ae7b-cfc528a6c828.jpg",
+    readTime: 10,
   },
   {
     id: "trump-set-to-talk-to-russia-s-putin-very-f2bd8e48",
@@ -1841,464 +2383,6 @@ Sign up for our Tech Decoded newsletter to follow the world's top tech stories a
     category: "金融政策",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06c/live/0ca3aea0-c0c5-11f1-bc2e-018d645d8d21.jpg",
     readTime: 10,
-  },
-  {
-    id: "treasury-yields-rise-to-start-the-week-t-593ce19e",
-    title: "Treasury yields rise to start the week; traders look ahead to Fed minutes",
-    titleJa: "Treasury yields rise to start the week; traders look ahead to Fed minutes",
-    summaryJa: "U.S. Treasury yields are coming off a sharp selloff as investors look ahead to the Federal Reserve's last meeting minutes.",
-    bodyOriginal: `U.S. Treasury yields rebounded on Monday following their sharp sell-off last week as investors digested new economic data.
-The benchmark 10-year Treasury yield was last up about 2 basis points to 5.296%. The yield on the 30-year Treasury bond was also 3 basis points higher at 5.661%. The yield on the 2-year Treasury fell 1 basis point to 4.814%.
-One basis point is equal to 0.01%, and yields and prices move in opposite directions.
-The moves came as traders took note of new data on growth in the services sector released Monday by the Institute for Supply Management. The ISM report showed that the Purchasing Manager's Index — a measure of economic activity in the services sector — grew 54.9% in September, or roughly in line with expectations and slightly below its rate of growth for the prior month.
-Now, investors are looking ahead to the minutes from the central bank's September meeting, which are slated to come out on Wednesday.
-Investors have grappled with a bond market selloff over the past few weeks, while a lackluster monthly jobs report on Friday helped to bring yields down and alleviated concerns about another rate hike.
-Traders are now pricing in a nearly 82% chance of the Fed keeping rates unchanged at its next meeting, according to the CME Group's FedWatch Tool.`,
-    bodyJa: `U.S. Treasury yields rebounded on Monday following their sharp sell-off last week as investors digested new economic data.
-The benchmark 10-year Treasury yield was last up about 2 basis points to 5.296%. The yield on the 30-year Treasury bond was also 3 basis points higher at 5.661%. The yield on the 2-year Treasury fell 1 basis point to 4.814%.
-One basis point is equal to 0.01%, and yields and prices move in opposite directions.
-The moves came as traders took note of new data on growth in the services sector released Monday by the Institute for Supply Management. The ISM report showed that the Purchasing Manager's Index — a measure of economic activity in the services sector — grew 54.9% in September, or roughly in line with expectations and slightly below its rate of growth for the prior month.
-Now, investors are looking ahead to the minutes from the central bank's September meeting, which are slated to come out on Wednesday.
-Investors have grappled with a bond market selloff over the past few weeks, while a lackluster monthly jobs report on Friday helped to bring yields down and alleviated concerns about another rate hike.
-Traders are now pricing in a nearly 82% chance of the Fed keeping rates unchanged at its next meeting, according to the CME Group's FedWatch Tool.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/05/treasury-yields-bonds-fed-rates.html",
-    publishedAt: "2026-10-05T14:24:44+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "cerebras-stock-pops-9-after-sam-altman-c-116d3805",
-    title: "Cerebras stock pops 9% after Sam Altman calls the chipmaker a 'close partner'",
-    titleJa: "Cerebras stock pops 9% after Sam Altman calls the chipmaker a 'close partner'",
-    summaryJa: "Cerebras stock climbed in premarket trading after OpenAI's CEO Sam Altman reassured investors that the firm is a \"close partner.\"",
-    bodyOriginal: `Cerebras stock climbed 9% on Monday, rebounding from last week's decline, after OpenAI's CEO Sam Altman reassured investors that the firm is a "close partner."
-The AI hardware firm, which made its debut on the Nasdaq in a monster IPO in May, saw its stock plummet 20% to its lowest price last week after it was revealed that OpenAI would power its "Ultrafast" mode for GPT-6.1 Sol with Nvidia's graphics processing units instead of Cerebras' chips.
-"There is some speculation about our partnership with Cerebras," Altman said in a post on X on Friday. "Cerebras is a close partner, and we have a deep engagement pushing on the frontiers of speed."
-The company's stock rose almost 3% in extended trading on Friday following Altman's comments.
-Cerebras has seen its market cap plunge since its May debut and is now valued at about $43 billion, down from $95 billion.
-Cerebras, a Nvidia competitor, sells large computer chips and AI systems that are designed to run AI models faster than traditional GPUs. It claimed that its flagship product, the Wafer Scale Engine 3, runs faster than Nvidia's GPU.
-Cerebras signed a $10 billion deal with OpenAI in January to supply it with 750 megawatts of computing power through 2028.
-Citi analysts said that their view of Cerebras' revenue outlook between 2026 and 2028 remains "unchanged."
-"We believe frontier-AI labs' latest models would initially roll out on internal chips before running on third-party or Cerebras cloud, so it's too early to read much into it," they said in a note on Friday morning.
-"We believe the stock's ability to outperform is increasingly tied to evidence that gross margins are stabilizing. Any further delay in the gross margin trough would likely weigh on sentiment, particularly given Cerebras' premium valuation," they added.`,
-    bodyJa: `Cerebras stock climbed 9% on Monday, rebounding from last week's decline, after OpenAI's CEO Sam Altman reassured investors that the firm is a "close partner."
-The AI hardware firm, which made its debut on the Nasdaq in a monster IPO in May, saw its stock plummet 20% to its lowest price last week after it was revealed that OpenAI would power its "Ultrafast" mode for GPT-6.1 Sol with Nvidia's graphics processing units instead of Cerebras' chips.
-"There is some speculation about our partnership with Cerebras," Altman said in a post on X on Friday. "Cerebras is a close partner, and we have a deep engagement pushing on the frontiers of speed."
-The company's stock rose almost 3% in extended trading on Friday following Altman's comments.
-Cerebras has seen its market cap plunge since its May debut and is now valued at about $43 billion, down from $95 billion.
-Cerebras, a Nvidia competitor, sells large computer chips and AI systems that are designed to run AI models faster than traditional GPUs. It claimed that its flagship product, the Wafer Scale Engine 3, runs faster than Nvidia's GPU.
-Cerebras signed a $10 billion deal with OpenAI in January to supply it with 750 megawatts of computing power through 2028.
-Citi analysts said that their view of Cerebras' revenue outlook between 2026 and 2028 remains "unchanged."
-"We believe frontier-AI labs' latest models would initially roll out on internal chips before running on third-party or Cerebras cloud, so it's too early to read much into it," they said in a note on Friday morning.
-"We believe the stock's ability to outperform is increasingly tied to evidence that gross margins are stabilizing. Any further delay in the gross margin trough would likely weigh on sentiment, particularly given Cerebras' premium valuation," they added.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/05/cerebras-cbrs-sam-altman-close-partner.html",
-    publishedAt: "2026-10-05T13:37:15+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "china-shuts-hundreds-of-banks-as-beijing-ce66bd33",
-    title: "China shuts hundreds of banks as Beijing moves to shore up its financial system",
-    titleJa: "China shuts hundreds of banks as Beijing moves to shore up its financial system",
-    summaryJa: "Beijing shuttered 670 mainly rural banks last year in a bid to create fewer, larger and better-capitalized lenders.",
-    bodyOriginal: `China is accelerating its consolidation of smaller, mostly rural banks in a bid to shore up its financial system, amid ongoing concerns over an economic slowdown in the country.
-Beijing's policy-led consolidation saw a record 670 lenders closed in 2025 — about one-quarter of banks in the country — as authorities ramped up mergers and dissolutions to create fewer, larger and better-capitalized institutions, according to Fitch Ratings analysis.
-Small and rural commercial banks "remain the weakest part of the system" in China, Fitch said in a report, which flagged their "poor asset quality, low capitalization and governance shortcomings," especially in less-developed regions of the country.
-The rating agency said the return on assets among rural banks fell to 0.45% in the first half, down from 0.56% in 2021. Meanwhile, non-performing loans among such lenders rose to 2.8% in the same period, ahead of the sector average of 1.5%, with greater exposure to smaller companies, property developers and local government funding vehicles.
-The consolidation push is aimed at boosting oversight, curbing regulatory arbitrage and improving transparency, Fitch said, noting that stress at smaller lenders is unlikely to lead to system-wide contagion, pointing to their largely localized operations and limited interbank exposure.
-The measures could "ultimately reshape competitive dynamics among smaller lenders, although their structural weaknesses may persist in the near term," the rating agency added.
-The move comes amid ongoing signs of strain in the world's second-largest economy.
-China's GDP grew 4.3% in the second quarter, its slowest pace since 2022, while industrial profits came in at 4.2% annually in August, their weakest pace this year.`,
-    bodyJa: `China is accelerating its consolidation of smaller, mostly rural banks in a bid to shore up its financial system, amid ongoing concerns over an economic slowdown in the country.
-Beijing's policy-led consolidation saw a record 670 lenders closed in 2025 — about one-quarter of banks in the country — as authorities ramped up mergers and dissolutions to create fewer, larger and better-capitalized institutions, according to Fitch Ratings analysis.
-Small and rural commercial banks "remain the weakest part of the system" in China, Fitch said in a report, which flagged their "poor asset quality, low capitalization and governance shortcomings," especially in less-developed regions of the country.
-The rating agency said the return on assets among rural banks fell to 0.45% in the first half, down from 0.56% in 2021. Meanwhile, non-performing loans among such lenders rose to 2.8% in the same period, ahead of the sector average of 1.5%, with greater exposure to smaller companies, property developers and local government funding vehicles.
-The consolidation push is aimed at boosting oversight, curbing regulatory arbitrage and improving transparency, Fitch said, noting that stress at smaller lenders is unlikely to lead to system-wide contagion, pointing to their largely localized operations and limited interbank exposure.
-The measures could "ultimately reshape competitive dynamics among smaller lenders, although their structural weaknesses may persist in the near term," the rating agency added.
-The move comes amid ongoing signs of strain in the world's second-largest economy.
-China's GDP grew 4.3% in the second quarter, its slowest pace since 2022, while industrial profits came in at 4.2% annually in August, their weakest pace this year.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html",
-    publishedAt: "2026-10-05T13:23:46+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "gm-says-hybrid-vehicles-are-coming-we-re-0b868bc3",
-    title: "GM says hybrid vehicles are coming: 'We're not tone deaf to our customers'",
-    titleJa: "GM says hybrid vehicles are coming: 'We're not tone deaf to our customers'",
-    summaryJa: "DETROIT — General Motors plans to introduce hybrid models into its U.S. lineup as sales of the vehicles continue to grow amid inflated gas prices and a pullback in all-electric cars.Mike Anderson, GM's vice president of propulsion engineering, reconfirmed the automaker's hybrid plans, but declined to discuss timing for such vehicles, which had previously been expected as soon as next year.",
-    bodyOriginal: `DETROIT — General Motors plans to introduce hybrid models into its U.S. lineup as sales of the vehicles continue to grow amid inflated gas prices and a pullback in all-electric cars.
-Mike Anderson, GM's vice president of propulsion engineering, reconfirmed the automaker's hybrid plans, but declined to discuss timing for such vehicles, which had previously been expected as soon as next year.
-"It's fair to say that [hybrids are] part of the plan," Anderson, a 35-year GM veteran, told CNBC during an interview. "We're not tone deaf to our customers. We know what they want and we want to give that to them as quickly as we can."
-GM has largely been absent from the hybrid market this decade, instead using its resources to go "all-in" on all-electric vehicles. But amid lackluster EV demand, industry deregulation and increased hybrid popularity, Anderson said the company needs to meet customer demand wherever it may be.
-"Our long-term vision is an all-electric future. That's our goal," Anderson said. "That's the end state, but it's going to be a journey that involves technology diversity."
-GM CEO Mary Barra in January said the automaker was still studying plug-in hybrid electric vehicles, or PHEVs, for its U.S. lineup as well as traditional hybrids but remained critical of the technologies. She also told Bloomberg later that month that a "handful" of such models were coming but did not give a timeline.
-In mid-2024, GM announced plans to introduce PHEVs by 2027. At that time, GM was under pressure to meet stricter federal tailpipe emissions standards that have since been lowered or eliminated by the Trump administration.
-AutoForecast Solutions, an automotive data and consulting firm, expects GM to begin offering PHEVs in late 2027 to early 2028 with a 70-mile EV range "throughout its portfolio," according to Casey Selecman, director of powertrain forecasts for the company.
-"GM has several PHEVs planned throughout the portfolio from the Equinox to the Silverado but has been very cautious in rolling them out due to fears of customer technology preference changes that have burned them in the past," he said.
-Anderson declined to discuss potential products or timing for GM's first new hybrid model.
-"You can see, without me saying what our future plans are, where the customers are clamoring for these things and really, really going for them," he said. "We want to meet them where they want things."
-Sales of hybrid models in the U.S. have jumped amid dimming EV demand, inflated gas prices and more offerings in the market, which GM has been missing out on.
-Cox Automotive reports hybrid vehicle sales from the second quarter of this year increased 23% from a year earlier to represent a record 16.3% of U.S. sales from April through June. That compares with roughly 5.8% of sales for EVs, Cox said.
-The automotive industry has more powertrain and "propulsion" options than ever before. Here's a breakdown:
-- Internal combustion engine (ICE): A "traditional" vehicle with an engine that's fueled with gasoline or diesel.
-- Mild-hybrid electric vehicle (MHEV): An ICE vehicle that functions largely like a nonhybrid vehicle but may include minimal electrified features such as a small battery, regenerative braking or electric motor.
-- Hybrid electric vehicle (HEV): Think of the Toyota Prius, a vehicle that has a hybrid powertrain system combined with an engine.
-- Plug-in hybrid electric vehicle (PHEV): These vehicles feature an internal combustion engine combined with a hybrid system, including a larger battery than traditional hybrid vehicles as well as a plug to recharge the vehicle's battery. They typically allow drivers to travel a certain number of miles using the battery before the engine is needed to power the car or truck.
-- Battery-electric vehicle (BEV): These all-electric vehicles do not feature an internal combustion engine. Instead, they contain an electric motor that's powered by a large battery. They need to be recharged using an electrical outlet and charging port or charging station.
-- Fuel cell electric vehicle (FCEV): Hydrogen fuel cell electric vehicles and equipment operate much like BEVs but are powered by electricity generated from hydrogen and oxygen instead of pure batteries, which commonly include lithium. They're filled up with a nozzle, similar to traditional gas and diesel vehicles.
-- Extended-range electric vehicles (EREV): These are an emerging technology that largely function as a PHEV, however after the battery runs out of energy to power the vehicle, an engine works as a generator to exclusively power electric motors. The vehicle still drives like an EV instead of having the engine directly power the vehicle's motion.
-There are a growing number of hybrid variants being introduced by automakers but, in general, those vehicles combine a traditional gas-powered engine with electric motors and a battery to offer better fuel economy and, in many cases, better performance.
-The fastest-growing segments for hybrids in the U.S. are compact crossover/SUV and mid-size vehicles, according to Cox.
-"Hybrid vehicles continue to be the clearest growth story in the electrified market," Stephanie Valdez Streaty, Cox director of industry insights, said during a presentation last week.
-There are currently a few types of hybrids available in the U.S. Traditional hybrids, like a Toyota Prius, feature many electrified engine technologies, while PHEVs have a designated all-electric range before using an engine to power the vehicle.
-Then there are extended-range electric vehicles, or "series hybrids," that drive like an EV but have an engine that essentially operates like a generator to power electric motors to propel a vehicle.
-The combination of two powertrains adds additional complexity and costs, which has been an argument GM has made against hybrids, but it's something many consumers appear willing to pay for as hybrid sales continue to rise.
-GM currently offers only one hybrid, a model of its Chevrolet Corvette. The Detroit automaker's last true push into hybrids was the Chevrolet Volt plug-in, which was discontinued in 2019.
-GM's crosstown rivals, Ford Motor and Chrysler parent Stellantis, have leaned on suppliers to get hybrid vehicles to market more quickly.
-Anderson said GM's strategy "will be a mix" of internal and external technologies based on cost, segment and product.
-"We're deliberate because, usually for strategic reasons, we need to control our own destiny. We need to control our own timing," he said. "Or, if it's commodity, go get it. Go get the best price you can."`,
-    bodyJa: `DETROIT — General Motors plans to introduce hybrid models into its U.S. lineup as sales of the vehicles continue to grow amid inflated gas prices and a pullback in all-electric cars.
-Mike Anderson, GM's vice president of propulsion engineering, reconfirmed the automaker's hybrid plans, but declined to discuss timing for such vehicles, which had previously been expected as soon as next year.
-"It's fair to say that [hybrids are] part of the plan," Anderson, a 35-year GM veteran, told CNBC during an interview. "We're not tone deaf to our customers. We know what they want and we want to give that to them as quickly as we can."
-GM has largely been absent from the hybrid market this decade, instead using its resources to go "all-in" on all-electric vehicles. But amid lackluster EV demand, industry deregulation and increased hybrid popularity, Anderson said the company needs to meet customer demand wherever it may be.
-"Our long-term vision is an all-electric future. That's our goal," Anderson said. "That's the end state, but it's going to be a journey that involves technology diversity."
-GM CEO Mary Barra in January said the automaker was still studying plug-in hybrid electric vehicles, or PHEVs, for its U.S. lineup as well as traditional hybrids but remained critical of the technologies. She also told Bloomberg later that month that a "handful" of such models were coming but did not give a timeline.
-In mid-2024, GM announced plans to introduce PHEVs by 2027. At that time, GM was under pressure to meet stricter federal tailpipe emissions standards that have since been lowered or eliminated by the Trump administration.
-AutoForecast Solutions, an automotive data and consulting firm, expects GM to begin offering PHEVs in late 2027 to early 2028 with a 70-mile EV range "throughout its portfolio," according to Casey Selecman, director of powertrain forecasts for the company.
-"GM has several PHEVs planned throughout the portfolio from the Equinox to the Silverado but has been very cautious in rolling them out due to fears of customer technology preference changes that have burned them in the past," he said.
-Anderson declined to discuss potential products or timing for GM's first new hybrid model.
-"You can see, without me saying what our future plans are, where the customers are clamoring for these things and really, really going for them," he said. "We want to meet them where they want things."
-Sales of hybrid models in the U.S. have jumped amid dimming EV demand, inflated gas prices and more offerings in the market, which GM has been missing out on.
-Cox Automotive reports hybrid vehicle sales from the second quarter of this year increased 23% from a year earlier to represent a record 16.3% of U.S. sales from April through June. That compares with roughly 5.8% of sales for EVs, Cox said.
-The automotive industry has more powertrain and "propulsion" options than ever before. Here's a breakdown:
-- Internal combustion engine (ICE): A "traditional" vehicle with an engine that's fueled with gasoline or diesel.
-- Mild-hybrid electric vehicle (MHEV): An ICE vehicle that functions largely like a nonhybrid vehicle but may include minimal electrified features such as a small battery, regenerative braking or electric motor.
-- Hybrid electric vehicle (HEV): Think of the Toyota Prius, a vehicle that has a hybrid powertrain system combined with an engine.
-- Plug-in hybrid electric vehicle (PHEV): These vehicles feature an internal combustion engine combined with a hybrid system, including a larger battery than traditional hybrid vehicles as well as a plug to recharge the vehicle's battery. They typically allow drivers to travel a certain number of miles using the battery before the engine is needed to power the car or truck.
-- Battery-electric vehicle (BEV): These all-electric vehicles do not feature an internal combustion engine. Instead, they contain an electric motor that's powered by a large battery. They need to be recharged using an electrical outlet and charging port or charging station.
-- Fuel cell electric vehicle (FCEV): Hydrogen fuel cell electric vehicles and equipment operate much like BEVs but are powered by electricity generated from hydrogen and oxygen instead of pure batteries, which commonly include lithium. They're filled up with a nozzle, similar to traditional gas and diesel vehicles.
-- Extended-range electric vehicles (EREV): These are an emerging technology that largely function as a PHEV, however after the battery runs out of energy to power the vehicle, an engine works as a generator to exclusively power electric motors. The vehicle still drives like an EV instead of having the engine directly power the vehicle's motion.
-There are a growing number of hybrid variants being introduced by automakers but, in general, those vehicles combine a traditional gas-powered engine with electric motors and a battery to offer better fuel economy and, in many cases, better performance.
-The fastest-growing segments for hybrids in the U.S. are compact crossover/SUV and mid-size vehicles, according to Cox.
-"Hybrid vehicles continue to be the clearest growth story in the electrified market," Stephanie Valdez Streaty, Cox director of industry insights, said during a presentation last week.
-There are currently a few types of hybrids available in the U.S. Traditional hybrids, like a Toyota Prius, feature many electrified engine technologies, while PHEVs have a designated all-electric range before using an engine to power the vehicle.
-Then there are extended-range electric vehicles, or "series hybrids," that drive like an EV but have an engine that essentially operates like a generator to power electric motors to propel a vehicle.
-The combination of two powertrains adds additional complexity and costs, which has been an argument GM has made against hybrids, but it's something many consumers appear willing to pay for as hybrid sales continue to rise.
-GM currently offers only one hybrid, a model of its Chevrolet Corvette. The Detroit automaker's last true push into hybrids was the Chevrolet Volt plug-in, which was discontinued in 2019.
-GM's crosstown rivals, Ford Motor and Chrysler parent Stellantis, have leaned on suppliers to get hybrid vehicles to market more quickly.
-Anderson said GM's strategy "will be a mix" of internal and external technologies based on cost, segment and product.
-"We're deliberate because, usually for strategic reasons, we need to control our own destiny. We need to control our own timing," he said. "Or, if it's commodity, go get it. Go get the best price you can."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/05/gm-hybrid-vehicles.html",
-    publishedAt: "2026-10-05T12:30:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "shadow-chancellor-to-unveil-tory-plans-t-171c8317",
-    title: "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
-    titleJa: "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
-    summaryJa: "Shadow ministers will unveil a series of policies on day two of the Conservative Party conference in Birmingham.",
-    bodyOriginal: `Shadow chancellor to unveil Tory plans to cut taxes and regulations
-- Published
-Conservative shadow chancellor Andrew Griffith is to outline his plans for the UK economy, including hopes to cut taxes, red tape and house-building costs.
-Griffith and his colleagues will also use day two of the party's conference in Birmingham to explain how they would want to reduce food costs, support Heathrow Airport expansion, and abolish Natural England and the Environment Agency.
-Another prospective policy is replacing agreements designed to compel developers to fund community projects and services in areas they want to build.
-Griffith will describe his approach as the "most ambitious deregulation project in a generation". Reform UK suggested the Tories were "copying our policies".
-Griffith's speech comes after Conservative Party leader Kemi Badenoch published a 100-page document, external explaining her guiding principles and how her party would act should it return to government by winning the next general election.
-Following their historic defeat in the 2024 general election, the Conservatives have been trying to rebuild and convince voters that they can be trusted again.
-The Tories have faced repeated attacks from their opponents for their record in government, including on the economy, between 2010 and 2024.
-Speaking to BBC Breakfast, Griffith said infrastructure development was key to his plan, throwing his support behind the expansion of Heathrow airport.
-"Someone, sooner or later, has to get serious about getting this country growing again," he said.
-"It's a national embarrassment that we can't get that third runway built - we've said we will get full square behind that and the government should do that right now.
-"Whether it's reservoirs or reactors we need a system of getting infrastructure in this country that really works."
-Pressed on whether he would keep the pensions triple lock, which Prime Minister Andy Burnham has proposed changing, he said: "We are going to keep it."
-In 2021, then-backbencher Griffith wrote an article saying that the state pension triple lock was "unfair" as pensioners could "gain from the misfortune of others".
-Senior Conservatives including former chancellor Jeremy Hunt and shadow foreign secretary Tom Tugendhat have individually suggested the current triple lock is unsustainable.
-Griffith will accuse Burnham of wanting to pursue a "socialist fever dream of the 1970s", adding the Tories want to deliver "cheaper homes, lower taxes, and less red tape".
-Labour Party chairwoman Bridget Phillipson said: "The Tories had 14 years in government to grow our economy and help people get on the housing ladder, but they completely failed at every turn."
-Chancellor John Healey last week said all promises the government made would be "built on the rock of fiscal discipline" and the Budget on 28 October would "give families and businesses a bit of breathing space".
-During a series of speeches on Monday, Conservative shadow ministers will continue to make their case and provide more details of their proposals.
-This will include ditching environmental and energy efficiency regulations, including the future homes standard.
-The Tories believe their changes could cut the cost of delivering a new home by up to £50,000, which in turn they expect could save money for buyers.
-A single levy for developers would be implemented in place of section 106 agreements and the Community Infrastructure Levy, which fund projects in the community when building plans are progressed.
-The Conservatives argue this new charge would remove delays and improve how the funds are spent to the benefit of residents.
-The party has been critical of the roles of Natural England and the Environment Agency in relation to house building and flood prevention work respectively, and wants to abolish both. Their functions would be looked after by the Department for the Environment, Food and Rural Affairs (Defra).
-Prospect general secretary Mike Clancy, whose union represents members in Natural England and the Environment Agency, said: "Conservative budget cuts have left these regulators struggling to perform their vital functions with 'lack of resources' the most common reason for planning delays.
-"The solution is to restore their funding to adequate levels, not scrap vital safeguards."
-'Fantasy-land' pledges
-The Extended Packaging Responsibility (EPR) scheme, which requires firms to cover the cost of collecting, recycling and disposing of packaging it produces, would also be scrapped by the Conservatives.
-The party believes this would help lift a "burden" from businesses and in turn could cut the cost of the weekly shop.
-On Heathrow, Griffith is expected to say the next Conservative government would do "whatever it takes to end the delays and boost capacity by backing the third runway".
-Plans for expansion were scrapped by the Tory-led coalition government in 2010.
-Former Chancellor Rachel Reeves championed the runway to boost the economy after Labour won power, although Burnham has refused to say whether he backs the project since becoming prime minister.
-Burnham has described it as "principally... a matter for London and Londoners".
-Liberal Democrat deputy leader Daisy Cooper said the Conservatives have "cemented their position as a pointless anti-growth, anti-business party" by rejecting closer ties with Europe.
-She added: "No-one can take anything the Conservatives say on the economy seriously given their litany of fantasy-land financial pledges."
-Reform UK economy spokesman Robert Jenrick accused the Conservatives of "once again copying our policies".
-He added the Tories were unable to match Reform's pledge to raise the tax-free personal allowance to £15,000.
-Green Party MP Ellie Chowns said scrapping rules that "secure affordable homes and vital community infrastructure is not a plan for growth".
-She added: "It is a gift to developers, leaving communities to pick up the bill for new housing while handing ordinary people higher costs and fewer protections."
-Get in touch
-Do you have any views, comments or questions about this story?
-Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
-    bodyJa: `Shadow chancellor to unveil Tory plans to cut taxes and regulations
-- Published
-Conservative shadow chancellor Andrew Griffith is to outline his plans for the UK economy, including hopes to cut taxes, red tape and house-building costs.
-Griffith and his colleagues will also use day two of the party's conference in Birmingham to explain how they would want to reduce food costs, support Heathrow Airport expansion, and abolish Natural England and the Environment Agency.
-Another prospective policy is replacing agreements designed to compel developers to fund community projects and services in areas they want to build.
-Griffith will describe his approach as the "most ambitious deregulation project in a generation". Reform UK suggested the Tories were "copying our policies".
-Griffith's speech comes after Conservative Party leader Kemi Badenoch published a 100-page document, external explaining her guiding principles and how her party would act should it return to government by winning the next general election.
-Following their historic defeat in the 2024 general election, the Conservatives have been trying to rebuild and convince voters that they can be trusted again.
-The Tories have faced repeated attacks from their opponents for their record in government, including on the economy, between 2010 and 2024.
-Speaking to BBC Breakfast, Griffith said infrastructure development was key to his plan, throwing his support behind the expansion of Heathrow airport.
-"Someone, sooner or later, has to get serious about getting this country growing again," he said.
-"It's a national embarrassment that we can't get that third runway built - we've said we will get full square behind that and the government should do that right now.
-"Whether it's reservoirs or reactors we need a system of getting infrastructure in this country that really works."
-Pressed on whether he would keep the pensions triple lock, which Prime Minister Andy Burnham has proposed changing, he said: "We are going to keep it."
-In 2021, then-backbencher Griffith wrote an article saying that the state pension triple lock was "unfair" as pensioners could "gain from the misfortune of others".
-Senior Conservatives including former chancellor Jeremy Hunt and shadow foreign secretary Tom Tugendhat have individually suggested the current triple lock is unsustainable.
-Griffith will accuse Burnham of wanting to pursue a "socialist fever dream of the 1970s", adding the Tories want to deliver "cheaper homes, lower taxes, and less red tape".
-Labour Party chairwoman Bridget Phillipson said: "The Tories had 14 years in government to grow our economy and help people get on the housing ladder, but they completely failed at every turn."
-Chancellor John Healey last week said all promises the government made would be "built on the rock of fiscal discipline" and the Budget on 28 October would "give families and businesses a bit of breathing space".
-During a series of speeches on Monday, Conservative shadow ministers will continue to make their case and provide more details of their proposals.
-This will include ditching environmental and energy efficiency regulations, including the future homes standard.
-The Tories believe their changes could cut the cost of delivering a new home by up to £50,000, which in turn they expect could save money for buyers.
-A single levy for developers would be implemented in place of section 106 agreements and the Community Infrastructure Levy, which fund projects in the community when building plans are progressed.
-The Conservatives argue this new charge would remove delays and improve how the funds are spent to the benefit of residents.
-The party has been critical of the roles of Natural England and the Environment Agency in relation to house building and flood prevention work respectively, and wants to abolish both. Their functions would be looked after by the Department for the Environment, Food and Rural Affairs (Defra).
-Prospect general secretary Mike Clancy, whose union represents members in Natural England and the Environment Agency, said: "Conservative budget cuts have left these regulators struggling to perform their vital functions with 'lack of resources' the most common reason for planning delays.
-"The solution is to restore their funding to adequate levels, not scrap vital safeguards."
-'Fantasy-land' pledges
-The Extended Packaging Responsibility (EPR) scheme, which requires firms to cover the cost of collecting, recycling and disposing of packaging it produces, would also be scrapped by the Conservatives.
-The party believes this would help lift a "burden" from businesses and in turn could cut the cost of the weekly shop.
-On Heathrow, Griffith is expected to say the next Conservative government would do "whatever it takes to end the delays and boost capacity by backing the third runway".
-Plans for expansion were scrapped by the Tory-led coalition government in 2010.
-Former Chancellor Rachel Reeves championed the runway to boost the economy after Labour won power, although Burnham has refused to say whether he backs the project since becoming prime minister.
-Burnham has described it as "principally... a matter for London and Londoners".
-Liberal Democrat deputy leader Daisy Cooper said the Conservatives have "cemented their position as a pointless anti-growth, anti-business party" by rejecting closer ties with Europe.
-She added: "No-one can take anything the Conservatives say on the economy seriously given their litany of fantasy-land financial pledges."
-Reform UK economy spokesman Robert Jenrick accused the Conservatives of "once again copying our policies".
-He added the Tories were unable to match Reform's pledge to raise the tax-free personal allowance to £15,000.
-Green Party MP Ellie Chowns said scrapping rules that "secure affordable homes and vital community infrastructure is not a plan for growth".
-She added: "It is a gift to developers, leaving communities to pick up the bill for new housing while handing ordinary people higher costs and fewer protections."
-Get in touch
-Do you have any views, comments or questions about this story?
-Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-05T10:44:51+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feac/live/6d3064e0-b272-11f1-b67f-2b40fa83cfed.png",
-    readTime: 10,
-  },
-  {
-    id: "bt-agrees-rescue-deal-to-buy-broadband-o-d3600315",
-    title: "BT agrees rescue deal to buy broadband operator TalkTalk",
-    titleJa: "BT agrees rescue deal to buy broadband operator TalkTalk",
-    summaryJa: "The takeover still needs to be approved by the regulator, but would give certainty to TalkTalk's millions of customers",
-    bodyOriginal: `BT agrees rescue deal to buy broadband operator TalkTalk
-- Published
-The UK's biggest broadband provider, BT, has agreed to buy rival operator TalkTalk to save the company from collapse.
-The takeover would end of months of speculation over the future of TalkTalk and mean services for its millions of customers will continue as normal.
-BT boss Alison Kirkby said it provided "a safety net" for TalkTalk customers. The administrator, Alvarez & Marsal, said it also provided certainty for TalkTalk's 900 staff based in Salford, Greater Manchester.
-However, Virgin Media called it a "stitch-up" which allows BT to "tighten its grip" over the market. The government has given itself the power to have the final say on the deal, citing its importance to vital public services.
-TalkTalk has 1.5 million retail customers and one million wholesale customers across the UK.
-BT's Kirkby told the BBC's Today programme: "Two and a half million customers, including vulnerable households, and key emergency services might have lost their services if Talk Talk had failed, which it was on track to do.
-"So BT stepped in as we were the only viable option to take the business forward."
-Ernest Doku from comparison website Uswitch said the deal means "nothing changes today".
-"Your broadband and landline carry on as normal, and there is nothing you need to do right now," he added.
-However, he said that BT should explain "quickly and plainly what this means for contracts, prices and service in the future, so nobody is left guessing".
-The regulator, Ofcom, says broadband customers should have the right to leave a contract without an exit fee, external if a new owner puts the price up beyond what was in the contract.
-TalkTalk began as a challenger to BT in the broadband market. It was listed on the London Stock Exchange, but was taken over by private equity in 2021.
-Since then, the firm has built up debt while losing customers, leaving it unable to pay some of those it owes money to.
-Despite this, TalkTalk remained the fourth biggest broadband provider in the UK, with 6.6% of customers, during the March to June period of this year, according to figures from analytic firm Opensignal.
-BT has 32.5% of customers, Sky 19.9%, and Virgin Media 19.1%.
-Rivals who were beaten to the deal by BT have said it will be bad for consumers.
-Tom O'Hagan, a former TalkTalk executive who was leading a takeover bid for the firm, told the BBC he was worried about "reduced choice and potentially an increase in price for consumers and for businesses" because of the BT deal.
-He added that he was particularly concerned about competition in the wholesale market, where TalkTalk's subsidiary PXC was BT's main rival.
-Virgin Media, which has also reportedly tried to buy TalkTalk in the past, said the BT takeover has "all the characteristics of a stitch-up masked as a rescue deal in the public interest".
-It added that the purchase means BT can "roll its tanks over competition and further tighten its grip on the market. The logic simply doesn't add up."
-The Competition Markets Authority (CMA) will need to approve the takeover, which would give BT greater power over the broadband market.
-Tom Smith, a competition lawyer and former legal director at the CMA, said the regulator will be balancing that concern with other considerations.
-"When the CMA looks at it, it will look at what would have happened if the deal wasn't going through," he told the BBC.
-"If TalkTalk would have exited the market, for example, then really any deal is better than TalkTalk exiting, but then there might be alternative bidders as well that would have been less anticompetitive."
-However, the Department of Culture, Media, and Sport (DCMS) has given itself the power to make the final decision on the deal in the name of the public interest once the CMA has made its report.
-DCMS has given the CMA until 19 October to deliver its verdict.
-Culture Secretary Lisa Nandy said: "Phone and broadband services are vital national infrastructure.
-"If TalkTalk services fail, there is a genuine risk to life and public services – including to hospitals, schools and emergency care. These are unprecedented circumstances that require action now."
-BT has said it welcomed the intervention and would "work constructively with the government and the CMA during their review".
-Judith Mackenzie, a partner at investment manager Downing, told the BBC that broadband was "not a regulated industry, unlike electricity and water, but it's also very important to business users and ourselves, consumers".
-"It's almost like a commodity now, broadband," she added.
-BT has said it will cost the firm £400m to buy TalkTalk out of administration.
-This includes the purchase price, fees, TalkTalk's expected £60m loss for this year, and BT effectively writing off the £100m TalkTalk owes BT's Openreach business.
-TalkTalk has £1.5bn of debt and made a £100m loss last year.`,
-    bodyJa: `BT agrees rescue deal to buy broadband operator TalkTalk
-- Published
-The UK's biggest broadband provider, BT, has agreed to buy rival operator TalkTalk to save the company from collapse.
-The takeover would end of months of speculation over the future of TalkTalk and mean services for its millions of customers will continue as normal.
-BT boss Alison Kirkby said it provided "a safety net" for TalkTalk customers. The administrator, Alvarez & Marsal, said it also provided certainty for TalkTalk's 900 staff based in Salford, Greater Manchester.
-However, Virgin Media called it a "stitch-up" which allows BT to "tighten its grip" over the market. The government has given itself the power to have the final say on the deal, citing its importance to vital public services.
-TalkTalk has 1.5 million retail customers and one million wholesale customers across the UK.
-BT's Kirkby told the BBC's Today programme: "Two and a half million customers, including vulnerable households, and key emergency services might have lost their services if Talk Talk had failed, which it was on track to do.
-"So BT stepped in as we were the only viable option to take the business forward."
-Ernest Doku from comparison website Uswitch said the deal means "nothing changes today".
-"Your broadband and landline carry on as normal, and there is nothing you need to do right now," he added.
-However, he said that BT should explain "quickly and plainly what this means for contracts, prices and service in the future, so nobody is left guessing".
-The regulator, Ofcom, says broadband customers should have the right to leave a contract without an exit fee, external if a new owner puts the price up beyond what was in the contract.
-TalkTalk began as a challenger to BT in the broadband market. It was listed on the London Stock Exchange, but was taken over by private equity in 2021.
-Since then, the firm has built up debt while losing customers, leaving it unable to pay some of those it owes money to.
-Despite this, TalkTalk remained the fourth biggest broadband provider in the UK, with 6.6% of customers, during the March to June period of this year, according to figures from analytic firm Opensignal.
-BT has 32.5% of customers, Sky 19.9%, and Virgin Media 19.1%.
-Rivals who were beaten to the deal by BT have said it will be bad for consumers.
-Tom O'Hagan, a former TalkTalk executive who was leading a takeover bid for the firm, told the BBC he was worried about "reduced choice and potentially an increase in price for consumers and for businesses" because of the BT deal.
-He added that he was particularly concerned about competition in the wholesale market, where TalkTalk's subsidiary PXC was BT's main rival.
-Virgin Media, which has also reportedly tried to buy TalkTalk in the past, said the BT takeover has "all the characteristics of a stitch-up masked as a rescue deal in the public interest".
-It added that the purchase means BT can "roll its tanks over competition and further tighten its grip on the market. The logic simply doesn't add up."
-The Competition Markets Authority (CMA) will need to approve the takeover, which would give BT greater power over the broadband market.
-Tom Smith, a competition lawyer and former legal director at the CMA, said the regulator will be balancing that concern with other considerations.
-"When the CMA looks at it, it will look at what would have happened if the deal wasn't going through," he told the BBC.
-"If TalkTalk would have exited the market, for example, then really any deal is better than TalkTalk exiting, but then there might be alternative bidders as well that would have been less anticompetitive."
-However, the Department of Culture, Media, and Sport (DCMS) has given itself the power to make the final decision on the deal in the name of the public interest once the CMA has made its report.
-DCMS has given the CMA until 19 October to deliver its verdict.
-Culture Secretary Lisa Nandy said: "Phone and broadband services are vital national infrastructure.
-"If TalkTalk services fail, there is a genuine risk to life and public services – including to hospitals, schools and emergency care. These are unprecedented circumstances that require action now."
-BT has said it welcomed the intervention and would "work constructively with the government and the CMA during their review".
-Judith Mackenzie, a partner at investment manager Downing, told the BBC that broadband was "not a regulated industry, unlike electricity and water, but it's also very important to business users and ourselves, consumers".
-"It's almost like a commodity now, broadband," she added.
-BT has said it will cost the firm £400m to buy TalkTalk out of administration.
-This includes the purchase price, fees, TalkTalk's expected £60m loss for this year, and BT effectively writing off the £100m TalkTalk owes BT's Openreach business.
-TalkTalk has £1.5bn of debt and made a £100m loss last year.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cvze4g06526ro?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-05T10:25:36+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb77/live/0d52c410-c0a9-11f1-a64c-550be9e3c66b.jpg",
-    readTime: 10,
-  },
-  {
-    id: "average-five-year-mortgage-rate-hits-6-f-894cdc7f",
-    title: "Average five-year mortgage rate hits 6% for first time in three years",
-    titleJa: "Average five-year mortgage rate hits 6% for first time in three years",
-    summaryJa: "The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
-    bodyOriginal: `Average five-year mortgage rate hits 6% for first time in three years
-- Published
-The average interest rate on a new five-year fixed mortgage deal has hit 6% for the first time in three years, figures show.
-The cost of home loans has been rising in recent weeks, as lenders face higher costs amid international concern over rising prices, interest rates, and government borrowing costs.
-It means home buyers and anyone renewing a fixed deal have seen about 1,500 mortgage deals priced below 5% vanish since the start of September, according to the financial information service Moneyfacts.
-It described the situation as "brutal" for borrowers, with the average rate on five-year deals now at 6%, and at 5.98% on two-year fixed mortgages.
-For borrowers, the interest rate on a fixed mortgage does not change until it expires, usually after two or five years, and a new one is chosen to replace it. The vast majority of homeowners and buyers have this kind of mortgage.
-Since the Iran war began, global economic uncertainty has been pushing up the cost of deals.
-Moneyfacts said that the biggest High Street lenders had made repeated fixed rate increases during September. Barclays increased selected fixed rates on four occasions, while HSBC, Lloyds Bank, Nationwide, NatWest, Santander and TSB each made three rounds of increases.
-It meant that the average rate on a new five-year deal was at its highest since September 2023. On two-year deals, the average rate is at its highest since December 2023.
-"Average fixed mortgage rates rising back to three-year highs will be disastrous news for borrowers," said Rachel Springall, finance expert at Moneyfacts.
-"Borrowers who were hoping mortgage rates would stabilise will be disappointed."
-She said that those coming to the end of a fixed deal would be "wise to seek advice and compare deals carefully".
-Some lenders could allow people to lock in a rate three months before their current deal ends, while others could allow six months, she said.
-Springall said rate rises were "inevitable" because lenders' wholesale funding costs had climbed as a result of rising gilt yields.
-Interest rates - known as the yield - on government bonds have been going up, meaning it costs the government more to borrow over the long term.
-The knock-on impact of this on the mortgage market has meant that the number of fixed-rate deals priced below 5% has plunged by 99%, from 1,494 since the start of September 2026 to nine now.
-In contrast, the number of sub-5% variable rate mortgages has remained broadly stable, Springall said, leading some borrowers to chose deals that track the Bank of England's base rate.
-Cost-of-living blow
-Millions of mortgage-holders are coming to the end of their current deals in the next two years.
-Just over five million homeowners should expect their monthly mortgage repayments to increase by the end of 2028, according to Bank of England forecasts.
-Some may have expected rates to have fallen this year, owing to improved economic conditions, but the Iran war has upended many of those expectations.
-It has also led to wider pressure on the cost of essential bills.
-On Friday, drivers saw the average cost of diesel rise above £2 a litre in the UK for the first time, according to the RAC motoring group.
-Domestic energy prices also rose by 4% at the start of October, and forecasters have predicted a 16% increase when regulator Ofgem sets its next price cap for January.
-The government is under pressure to support those most likely to struggle to pay at the Budget later this month.
-We bought our £242,000 home without a deposit - here's how
-- Published18 September
-One million more UK homeowners set to face higher mortgages
-- Published7 July
-Get in touch
-How are you coping with mortgage repayments? Are you trying to get on the housing ladder?`,
-    bodyJa: `Average five-year mortgage rate hits 6% for first time in three years
-- Published
-The average interest rate on a new five-year fixed mortgage deal has hit 6% for the first time in three years, figures show.
-The cost of home loans has been rising in recent weeks, as lenders face higher costs amid international concern over rising prices, interest rates, and government borrowing costs.
-It means home buyers and anyone renewing a fixed deal have seen about 1,500 mortgage deals priced below 5% vanish since the start of September, according to the financial information service Moneyfacts.
-It described the situation as "brutal" for borrowers, with the average rate on five-year deals now at 6%, and at 5.98% on two-year fixed mortgages.
-For borrowers, the interest rate on a fixed mortgage does not change until it expires, usually after two or five years, and a new one is chosen to replace it. The vast majority of homeowners and buyers have this kind of mortgage.
-Since the Iran war began, global economic uncertainty has been pushing up the cost of deals.
-Moneyfacts said that the biggest High Street lenders had made repeated fixed rate increases during September. Barclays increased selected fixed rates on four occasions, while HSBC, Lloyds Bank, Nationwide, NatWest, Santander and TSB each made three rounds of increases.
-It meant that the average rate on a new five-year deal was at its highest since September 2023. On two-year deals, the average rate is at its highest since December 2023.
-"Average fixed mortgage rates rising back to three-year highs will be disastrous news for borrowers," said Rachel Springall, finance expert at Moneyfacts.
-"Borrowers who were hoping mortgage rates would stabilise will be disappointed."
-She said that those coming to the end of a fixed deal would be "wise to seek advice and compare deals carefully".
-Some lenders could allow people to lock in a rate three months before their current deal ends, while others could allow six months, she said.
-Springall said rate rises were "inevitable" because lenders' wholesale funding costs had climbed as a result of rising gilt yields.
-Interest rates - known as the yield - on government bonds have been going up, meaning it costs the government more to borrow over the long term.
-The knock-on impact of this on the mortgage market has meant that the number of fixed-rate deals priced below 5% has plunged by 99%, from 1,494 since the start of September 2026 to nine now.
-In contrast, the number of sub-5% variable rate mortgages has remained broadly stable, Springall said, leading some borrowers to chose deals that track the Bank of England's base rate.
-Cost-of-living blow
-Millions of mortgage-holders are coming to the end of their current deals in the next two years.
-Just over five million homeowners should expect their monthly mortgage repayments to increase by the end of 2028, according to Bank of England forecasts.
-Some may have expected rates to have fallen this year, owing to improved economic conditions, but the Iran war has upended many of those expectations.
-It has also led to wider pressure on the cost of essential bills.
-On Friday, drivers saw the average cost of diesel rise above £2 a litre in the UK for the first time, according to the RAC motoring group.
-Domestic energy prices also rose by 4% at the start of October, and forecasters have predicted a 16% increase when regulator Ofgem sets its next price cap for January.
-The government is under pressure to support those most likely to struggle to pay at the Budget later this month.
-We bought our £242,000 home without a deposit - here's how
-- Published18 September
-One million more UK homeowners set to face higher mortgages
-- Published7 July
-Get in touch
-How are you coping with mortgage repayments? Are you trying to get on the housing ladder?`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-05T09:54:57+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb45/live/ddd7ea70-c0b3-11f1-babe-4199b0e7ccea.jpg",
-    readTime: 10,
-  },
-  {
-    id: "the-2029-tipping-point-western-populatio-b754090e",
-    title: "The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances",
-    titleJa: "The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances",
-    summaryJa: "Moody's predicts that the world's aging populations will have fundamental impacts on the global economy and lead to difficult policy decisions.",
-    bodyOriginal: `As Western populations age, fewer workers and higher costs will strain public finances, credit rating agency Moody's has warned.
-Europe is at the sharp end of the demographic shift. The European Union's population is projected to peak as soon as 2029, "after which a sustained long-term decline will begin," according to the European Commission.
-The U.S. Census Bureau does not expect the American population to peak until 2080 under its main projection, or until 2043 under its low-immigration scenario. Excluding immigration impact, the population decline has already started.
-But Moody's says the fiscal pressures from aging emerge long before populations actually start shrinking.
-Today, G7 economies have about three working-age people for every person over 65. That ratio is expected to fall to around two by 2050, putting further pressure on growth and public finances, including healthcare systems, according to Moody's.
-Aging populations affect economies through slower economic growth, greater pressure on public finances from pension and care costs, changing consumer demand, and shifts in real interest rates and sovereign yields, Olivier Chemla, vice president of credit strategy and standards at Moody's, told CNBC's "Squawk Box Europe" on Friday.
-In a report published last week, Moody's forecasts that the world's aging populations will have fundamental impacts on the global economy and lead to difficult policy decisions.
-While population growth has long been a tailwind for growth and creditworthiness, falling fertility rates and unprecedented speed of changing age structures are now changing that picture, Moody's writes.
-"Fewer workers will limit productive capacity, while fewer households and consumers will weaken demand. As a result, countries will have to rely more on productivity to sustain growth," the report states.
-The AI impact
-AI and increased productivity can only partially offset the long-term challenge of an aging workforce, Chemla said.
-"This is a partial mitigant because you can certainly replace and enhance the supply side of the economy in factories and in services, but at the same time, robots do not consume – at least not yet – and so on the demand side, you will still be having that gap, which will slow growth," he added.
-And it's not only Europe and the U.S., but emerging economies are aging rapidly, too. China's share of people aged 65 and over has doubled from 7% to 14% over the past two decades, with Brazil, Thailand and Turkiye on similar trajectories.
-These countries will face the costs of aging at much lower income levels than the advanced economies that aged before them, the report says, noting that in Europe, the same shift took several decades.`,
-    bodyJa: `As Western populations age, fewer workers and higher costs will strain public finances, credit rating agency Moody's has warned.
-Europe is at the sharp end of the demographic shift. The European Union's population is projected to peak as soon as 2029, "after which a sustained long-term decline will begin," according to the European Commission.
-The U.S. Census Bureau does not expect the American population to peak until 2080 under its main projection, or until 2043 under its low-immigration scenario. Excluding immigration impact, the population decline has already started.
-But Moody's says the fiscal pressures from aging emerge long before populations actually start shrinking.
-Today, G7 economies have about three working-age people for every person over 65. That ratio is expected to fall to around two by 2050, putting further pressure on growth and public finances, including healthcare systems, according to Moody's.
-Aging populations affect economies through slower economic growth, greater pressure on public finances from pension and care costs, changing consumer demand, and shifts in real interest rates and sovereign yields, Olivier Chemla, vice president of credit strategy and standards at Moody's, told CNBC's "Squawk Box Europe" on Friday.
-In a report published last week, Moody's forecasts that the world's aging populations will have fundamental impacts on the global economy and lead to difficult policy decisions.
-While population growth has long been a tailwind for growth and creditworthiness, falling fertility rates and unprecedented speed of changing age structures are now changing that picture, Moody's writes.
-"Fewer workers will limit productive capacity, while fewer households and consumers will weaken demand. As a result, countries will have to rely more on productivity to sustain growth," the report states.
-The AI impact
-AI and increased productivity can only partially offset the long-term challenge of an aging workforce, Chemla said.
-"This is a partial mitigant because you can certainly replace and enhance the supply side of the economy in factories and in services, but at the same time, robots do not consume – at least not yet – and so on the demand side, you will still be having that gap, which will slow growth," he added.
-And it's not only Europe and the U.S., but emerging economies are aging rapidly, too. China's share of people aged 65 and over has doubled from 7% to 14% over the past two decades, with Brazil, Thailand and Turkiye on similar trajectories.
-These countries will face the costs of aging at much lower income levels than the advanced economies that aged before them, the report says, noting that in Europe, the same shift took several decades.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/05/aging-population-moodys-public-finances.html",
-    publishedAt: "2026-10-05T05:00:01+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 7,
   },
 ];
 
