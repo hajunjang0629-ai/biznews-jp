@@ -15,6 +15,606 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "inflation-on-many-everyday-items-was-ent-d6bb8fc8",
+    title: "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+    titleJa: "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+    summaryJa: "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found.",
+    bodyOriginal: `The cost of many everyday items would have declined last year and early this year without President Donald Trump's tariffs, according to the New York Federal Reserve.
+The cost of 67 categories of goods was 2.9 percentage points higher as of February thanks to tariffs, according to a paper from a team of researchers at the central bank's New York arm.
+Without the levies, the team found that prices for the products they studied would have pulled back by almost 1%.
+The New York Fed's report offers the clearest evidence yet of the impact of Trump's tariffs — a core policy of his most recent campaign and second term in the White House — on consumers' wallets. Economists had widely expected his levies to push up prices, though the precise effects had been hard to estimate due to the changing nature of the policy and the lack of transparency on how companies set their prices.
+The researchers didn't say which 67 types of goods they evaluated.
+For each percentage point increase in the average tariff, the team said that consumer goods prices were higher by roughly a quarter of a percent a year later.
+Annual price growth in the dozens of goods they tracked peaked at the start of 2026, according to the report. But consumers are still expected to pay elevated prices into 2027 as a result of the policy, it said.
+Roughly two-thirds of the tariff-related price impact has directly come from the levies themselves, according to the New York Fed's report. The remaining increase was driven by knock-on effects, such as U.S.-based companies that use imported parts and materials in their products.
+"Tariffs have a larger and more drawn-out impact on consumer prices than the direct effect alone would suggest," the study's three authors, Mary Amiti, Sebastian Heise and David Weinstein, wrote.
+Trump argued that companies could absorb the increased cost from tariffs rather than pass them down to shoppers in the form of price hikes. The New York Fed team said that around 26% of last year's tariff increases ended up trickling into higher prices.
+The Supreme Court in February struck down many of Trump's tariffs, resulting in billions of dollars in refunds to retailers. The White House has vowed to push forward with levies through alternative measures, and products imported from many countries now often face tariffs of about 10%. In many cases, that is significantly less than what they were under the earlier round of tariffs.`,
+    bodyJa: `The cost of many everyday items would have declined last year and early this year without President Donald Trump's tariffs, according to the New York Federal Reserve.
+The cost of 67 categories of goods was 2.9 percentage points higher as of February thanks to tariffs, according to a paper from a team of researchers at the central bank's New York arm.
+Without the levies, the team found that prices for the products they studied would have pulled back by almost 1%.
+The New York Fed's report offers the clearest evidence yet of the impact of Trump's tariffs — a core policy of his most recent campaign and second term in the White House — on consumers' wallets. Economists had widely expected his levies to push up prices, though the precise effects had been hard to estimate due to the changing nature of the policy and the lack of transparency on how companies set their prices.
+The researchers didn't say which 67 types of goods they evaluated.
+For each percentage point increase in the average tariff, the team said that consumer goods prices were higher by roughly a quarter of a percent a year later.
+Annual price growth in the dozens of goods they tracked peaked at the start of 2026, according to the report. But consumers are still expected to pay elevated prices into 2027 as a result of the policy, it said.
+Roughly two-thirds of the tariff-related price impact has directly come from the levies themselves, according to the New York Fed's report. The remaining increase was driven by knock-on effects, such as U.S.-based companies that use imported parts and materials in their products.
+"Tariffs have a larger and more drawn-out impact on consumer prices than the direct effect alone would suggest," the study's three authors, Mary Amiti, Sebastian Heise and David Weinstein, wrote.
+Trump argued that companies could absorb the increased cost from tariffs rather than pass them down to shoppers in the form of price hikes. The New York Fed team said that around 26% of last year's tariff increases ended up trickling into higher prices.
+The Supreme Court in February struck down many of Trump's tariffs, resulting in billions of dollars in refunds to retailers. The White House has vowed to push forward with levies through alternative measures, and products imported from many countries now often face tariffs of about 10%. In many cases, that is significantly less than what they were under the earlier round of tariffs.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+    publishedAt: "2026-10-08T13:08:57+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "amazon-overhauls-aging-devices-lineup-wi-78ce6c17",
+    title: "Amazon overhauls aging devices lineup with higher priced Alexa tablet, dumping the budget Fire",
+    titleJa: "Amazon overhauls aging devices lineup with higher priced Alexa tablet, dumping the budget Fire",
+    summaryJa: "The company said the Alexa tablet's improved speed and performance, artificial intelligence features and upgraded design warrant a higher price tag.",
+    bodyOriginal: `Amazon on Thursday debuted a set of new, pricier Alexa tablets and said it's ditching its budget-friendly Fire lineup, marking a significant shift in the e-commerce juggernaut's devices strategy.
+The company unveiled 8-inch, 11-inch and 12-inch models, which start at $230 and run up to $550. All devices are available for preorder on Thursday and will begin shipping Oct. 14.
+Amazon has historically sold its devices at or near the cost of manufacturing them, partly to undercut competitors with extremely cheap prices, but also with the goal of promoting its other products and services. It's hoped that for every $80 Echo smart speaker it sells, users will purchase movies, audiobook subscriptions or items from its sprawling webstore, which tend to have higher margins.
+The company has recently taken steps to make more money from its devices business under CEO Andy Jassy, who succeeded founder Jeff Bezos in 2021. Last year, it introduced pricier versions of its Echo smart speakers and began charging non-Prime members a subscription for Alexa+, the souped-up version of its digital assistant.
+The $550 Alexa Tablet 12 Pro costs more than double the price of the $155 Fire HD 10, Amazon's base model, and puts it more in line with Apple's iPad, which runs from $449 to $1199.
+The launch comes as Amazon and other devicemakers are grappling with a historic surge in memory prices. Amazon in August boosted prices on Echos, Kindles, Fire TVs and other hardware, citing the memory crunch. And earlier this year, Apple raised its prices on MacBooks and iPads, while Nintendo hiked the price of its Switch 2 console.
+Amazon denied that rising memory costs played a role in its decision to charge more for the Alexa tablet. But Panos Panay, the company's devices boss, acknowledged that the shortage made it "quite tricky" to build a premium tablet at a reasonable price without making any "trade-offs."
+"I think the team did a good job designing without making that trade," Panay told CNBC in an interview. "They gave you the full craftsmanship of a product, but are able to keep it at that price point."
+The company said the Alexa tablet's improved speed and performance, artificial intelligence features and upgraded design warrant a higher price tag and put the devices on par with "the best tablets on the market."
+Amazon added a sleeker, sturdier aluminum backing, higher resolution display and faster processors. On the Alexa Tablet 12 Pro, the highest-end model, it incorporated "Nanomatte" display technology that was developed in partnership with Corning to "dramatically reduce screen glare."
+One of the most notable upgrades is that all of the devices run Google's Android operating system, a major departure from earlier models, which relied on a custom Android version dubbed Fire OS and used Amazon's own app store, limiting the number of apps that were available.
+It's also the first time Amazon has attached a set of devices to the Alexa brand, the company's automated assistant first launched in 2014 via the Echo smart speaker. Alexa is front and center in the new tablets, via a "dynamic tab" on the home screen that offers recommendations and lets users quickly pick up where they left off reading or watching a TV show.
+The company also introduced a new feature called "On-Screen Intelligence," where users can ask Alexa to look at what's on their screen and make suggestions or take actions.
+In a demo, Panay showed how users could watch a TikTok clip of someone cooking on a grill and ask Alexa to shop for a burger press used in the video. Users can also pull up a game schedule and add every date to their calendar, Amazon said.
+"She'll do the homework, and if things work out, she's gonna bring up a shopping list where I can just hit buy now," Panos said.
+Amazon said it will continue to support the Fire lineup and consumers can continue using their devices as they do today, but it is no longer manufacturing new units. The Fire lineup includes a 10-inch and 8-inch model, as well as two versions targeted for kids.`,
+    bodyJa: `Amazon on Thursday debuted a set of new, pricier Alexa tablets and said it's ditching its budget-friendly Fire lineup, marking a significant shift in the e-commerce juggernaut's devices strategy.
+The company unveiled 8-inch, 11-inch and 12-inch models, which start at $230 and run up to $550. All devices are available for preorder on Thursday and will begin shipping Oct. 14.
+Amazon has historically sold its devices at or near the cost of manufacturing them, partly to undercut competitors with extremely cheap prices, but also with the goal of promoting its other products and services. It's hoped that for every $80 Echo smart speaker it sells, users will purchase movies, audiobook subscriptions or items from its sprawling webstore, which tend to have higher margins.
+The company has recently taken steps to make more money from its devices business under CEO Andy Jassy, who succeeded founder Jeff Bezos in 2021. Last year, it introduced pricier versions of its Echo smart speakers and began charging non-Prime members a subscription for Alexa+, the souped-up version of its digital assistant.
+The $550 Alexa Tablet 12 Pro costs more than double the price of the $155 Fire HD 10, Amazon's base model, and puts it more in line with Apple's iPad, which runs from $449 to $1199.
+The launch comes as Amazon and other devicemakers are grappling with a historic surge in memory prices. Amazon in August boosted prices on Echos, Kindles, Fire TVs and other hardware, citing the memory crunch. And earlier this year, Apple raised its prices on MacBooks and iPads, while Nintendo hiked the price of its Switch 2 console.
+Amazon denied that rising memory costs played a role in its decision to charge more for the Alexa tablet. But Panos Panay, the company's devices boss, acknowledged that the shortage made it "quite tricky" to build a premium tablet at a reasonable price without making any "trade-offs."
+"I think the team did a good job designing without making that trade," Panay told CNBC in an interview. "They gave you the full craftsmanship of a product, but are able to keep it at that price point."
+The company said the Alexa tablet's improved speed and performance, artificial intelligence features and upgraded design warrant a higher price tag and put the devices on par with "the best tablets on the market."
+Amazon added a sleeker, sturdier aluminum backing, higher resolution display and faster processors. On the Alexa Tablet 12 Pro, the highest-end model, it incorporated "Nanomatte" display technology that was developed in partnership with Corning to "dramatically reduce screen glare."
+One of the most notable upgrades is that all of the devices run Google's Android operating system, a major departure from earlier models, which relied on a custom Android version dubbed Fire OS and used Amazon's own app store, limiting the number of apps that were available.
+It's also the first time Amazon has attached a set of devices to the Alexa brand, the company's automated assistant first launched in 2014 via the Echo smart speaker. Alexa is front and center in the new tablets, via a "dynamic tab" on the home screen that offers recommendations and lets users quickly pick up where they left off reading or watching a TV show.
+The company also introduced a new feature called "On-Screen Intelligence," where users can ask Alexa to look at what's on their screen and make suggestions or take actions.
+In a demo, Panay showed how users could watch a TikTok clip of someone cooking on a grill and ask Alexa to shop for a burger press used in the video. Users can also pull up a game schedule and add every date to their calendar, Amazon said.
+"She'll do the homework, and if things work out, she's gonna bring up a shopping list where I can just hit buy now," Panos said.
+Amazon said it will continue to support the Fire lineup and consumers can continue using their devices as they do today, but it is no longer manufacturing new units. The Fire lineup includes a 10-inch and 8-inch model, as well as two versions targeted for kids.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html",
+    publishedAt: "2026-10-08T13:02:03+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "skydance-s-david-ellison-tells-cnbc-comb-1b5c463f",
+    title: "Skydance's David Ellison tells CNBC combined company is 'positioned to win in every single vertical'",
+    titleJa: "Skydance's David Ellison tells CNBC combined company is 'positioned to win in every single vertical'",
+    summaryJa: "Skydance includes two film studios, the CBS broadcast network, a sprawling pay TV portfolio and streaming services Paramount+ and HBO Max.",
+    bodyOriginal: `Skydance co-CEO David Ellison told CNBC on Thursday — days after Paramount's acquisition of Warner Bros. Discovery officially closed — that the combined company is "positioned to win in every single vertical that we operate in."
+Skydance includes film studios Paramount and Warner Bros.; the CBS broadcast network; a sprawling pay TV portfolio that includes CNN, TNT, MTV and BET; and streaming services Paramount+ and HBO Max.
+"By combining Paramount and Warner Bros, we have the greatest content engine," Ellison said, noting blockbuster intellectual property and a strong sports portfolio. "You're immediately getting to scale in streaming between HBO Max and Paramount+, over 200 million global streaming subscribers. ... Not to mention the Olympics internationally, and an incredibly profitable linear portfolio anchored by CBS."
+Tune in at 8:30 a.m. ET as Skydance co-CEOs David Ellison and Ynon Kreiz join CNBC TV. Watch in real time on CNBC+ or the CNBC Pro stream.
+Ellison and co-CEO Ynon Kreiz plan to split executive duties, with Ellison focusing on the company's creative vision, technological innovations and long-term strategy while Kreiz leads the integration of the two companies and handles day-to-day management and operations.
+"We have a unique opportunity to build the next generation media and entertainment global company that is powered by creativity and technology," Kreiz said. "We have the assets that David mentioned. We have the capability. We have the people, and all of this is happening at the point in time when the industry is at an inflection point, where it's getting harder and harder to reach the consumer and aggregate fans."
+Kreiz is a 30-year veteran of the media space with a reputation as a turnaround man. Ellison, who is also Skydance chairman, has spent more than 15 years as an on-set producer and has said he's looking to position Skydance as a creative hub for filmmakers.
+The executives will have a tall task at the helm of a media behemoth: As part of a settlement with a group of state attorneys general who sued to block the acquisition over antitrust concerns, Skydance has agreed to release at least 30 films into theaters annually in 2027 and 2028 and at least 32 films annually in 2028, 2030 and 2031.
+Currently, the combined entity has 35 films scheduled for release next year, according to data from Rentrak.
+Ellison has also said he plans to merge the Paramount+ and HBO Max streaming services.
+This story is developing. Please check back for updates.`,
+    bodyJa: `Skydance co-CEO David Ellison told CNBC on Thursday — days after Paramount's acquisition of Warner Bros. Discovery officially closed — that the combined company is "positioned to win in every single vertical that we operate in."
+Skydance includes film studios Paramount and Warner Bros.; the CBS broadcast network; a sprawling pay TV portfolio that includes CNN, TNT, MTV and BET; and streaming services Paramount+ and HBO Max.
+"By combining Paramount and Warner Bros, we have the greatest content engine," Ellison said, noting blockbuster intellectual property and a strong sports portfolio. "You're immediately getting to scale in streaming between HBO Max and Paramount+, over 200 million global streaming subscribers. ... Not to mention the Olympics internationally, and an incredibly profitable linear portfolio anchored by CBS."
+Tune in at 8:30 a.m. ET as Skydance co-CEOs David Ellison and Ynon Kreiz join CNBC TV. Watch in real time on CNBC+ or the CNBC Pro stream.
+Ellison and co-CEO Ynon Kreiz plan to split executive duties, with Ellison focusing on the company's creative vision, technological innovations and long-term strategy while Kreiz leads the integration of the two companies and handles day-to-day management and operations.
+"We have a unique opportunity to build the next generation media and entertainment global company that is powered by creativity and technology," Kreiz said. "We have the assets that David mentioned. We have the capability. We have the people, and all of this is happening at the point in time when the industry is at an inflection point, where it's getting harder and harder to reach the consumer and aggregate fans."
+Kreiz is a 30-year veteran of the media space with a reputation as a turnaround man. Ellison, who is also Skydance chairman, has spent more than 15 years as an on-set producer and has said he's looking to position Skydance as a creative hub for filmmakers.
+The executives will have a tall task at the helm of a media behemoth: As part of a settlement with a group of state attorneys general who sued to block the acquisition over antitrust concerns, Skydance has agreed to release at least 30 films into theaters annually in 2027 and 2028 and at least 32 films annually in 2028, 2030 and 2031.
+Currently, the combined entity has 35 films scheduled for release next year, according to data from Rentrak.
+Ellison has also said he plans to merge the Paramount+ and HBO Max streaming services.
+This story is developing. Please check back for updates.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/08/skydance-co-ceos-ellison-kreiz.html",
+    publishedAt: "2026-10-08T12:56:59+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "trump-s-former-defense-secretary-sees-no-544c2a0f",
+    title: "Trump's former defense secretary sees no end in sight for Iran war — to the benefit of America's 'greatest adversary'",
+    titleJa: "Trump's former defense secretary sees no end in sight for Iran war — to the benefit of America's 'greatest adversary'",
+    summaryJa: "Mark Esper, who served as U.S. Secretary of Defense during Trump's first presidential term, said he did not see the conflict ending in the foreseeable future.",
+    bodyOriginal: `The U.S.-Iran war could drag on for years, putting America at risk of overlooking China's rise to power, according to President Donald Trump's former defense secretary.
+During a panel discussion at LSEG and Eurasia Group's GZERO Summit in London, Mark Esper said on Thursday he saw the conflict continuing "well into 2027," with a possibility that it could be handed to the next U.S. administration in three years' time.
+"At some point, we will reach a point where maybe both sides are willing to come to the table and find a negotiated settlement, but the challenge for president Trump will be he's going to have to get a deal that returns the Strait of Hormuz to the status quo, which is going to be really hard, and is a deal that's better than what [former President Barack Obama] got out of the JCPOA, and I think that's going to be very difficult too," he said.
+"So the question is, will he be willing to make that deal and live with the consequences or how the critics judge that deal? And so you can see another path where it gets handed off to the next administration in 2029."
+Speaking to CNBC on the sidelines of the event, Esper said he does not see an end to the war "in the foreseeable future."
+"I think it continues at this type of pace where we see the American blockade continue, we see occasional outbursts from either side, and it drags along," he said.
+The war, now in its eighth month, has reached an impasse, with Trump saying Wednesday that making a deal with Tehran "isn't really something that I want to do." According to reports, U.S. officials are considering a resumption of large-scale military operations in the coming weeks.
+Esper, who served as U.S. Secretary of Defense during Trump's first presidential term from July 2019 to November 2020, said he had long been an advocate for "the economic strangulation" of Iran. But he said such a policy was vulnerable to impatience in Washington.
+"The challenge is that policy requires time, discipline and patience, and those aren't things that the states are typically good at doing," he said. "So, if allowed to, I think it could have an impact. It doesn't mean it'll actually bring them back to the table, which would be my end, but it's the least worst option at this point in time."
+Over the summer, Trump announced an intensification of sanctions and economic restrictions on Iran, a strategy he labeled "Economic D-Day." The administration has since touted the success of its economic warfare strategies.
+Advantage China
+But Esper warned Thursday that with attention in Washington focused on the Iran war, America's "greatest adversary" was building up its capabilities.
+"China is our greatest adversary," he said. "It's the lurking threat out there that we're not paying attention to because we're so focused, and have been for 20 plus years now, on the Middle East, and Europe is focused on Russia."
+Beijing, he said, was continuing to build economic, technological and diplomatic power, having executed "the largest military buildup in history."
+"We're just not paying enough attention to the Chinese," Esper told CNBC. "They've told us by 2049 they want to dominate the Indo-Pacific region and the world for all intents and purposes. They want to be able to call the shots and dictate global governance."
+China had been working to this end for at least 30 years, he said.
+"Certainly, since their entry into the WTO, they've used the world trading system against us to build their own economic and military power, and they have a game plan," Esper said.
+He highlighted Beijing's domination of certain industries and goods, such as electric vehicles, rare earths, solar panels and critical materials. This, he said, had been achieved thanks to the Chinese government's ability to "consolidate control" and direct the country's economy in a certain direction.
+"They have a game plan, and they're and they're executing it," Esper said.
+"I would focus our efforts on China, and I would do it in partnership with our European and Asian allies, and that would include not just military [alliances], but diplomatic, economic and technological as well."
+CNBC reached out to the U.S. and Chinese governments for comment.`,
+    bodyJa: `The U.S.-Iran war could drag on for years, putting America at risk of overlooking China's rise to power, according to President Donald Trump's former defense secretary.
+During a panel discussion at LSEG and Eurasia Group's GZERO Summit in London, Mark Esper said on Thursday he saw the conflict continuing "well into 2027," with a possibility that it could be handed to the next U.S. administration in three years' time.
+"At some point, we will reach a point where maybe both sides are willing to come to the table and find a negotiated settlement, but the challenge for president Trump will be he's going to have to get a deal that returns the Strait of Hormuz to the status quo, which is going to be really hard, and is a deal that's better than what [former President Barack Obama] got out of the JCPOA, and I think that's going to be very difficult too," he said.
+"So the question is, will he be willing to make that deal and live with the consequences or how the critics judge that deal? And so you can see another path where it gets handed off to the next administration in 2029."
+Speaking to CNBC on the sidelines of the event, Esper said he does not see an end to the war "in the foreseeable future."
+"I think it continues at this type of pace where we see the American blockade continue, we see occasional outbursts from either side, and it drags along," he said.
+The war, now in its eighth month, has reached an impasse, with Trump saying Wednesday that making a deal with Tehran "isn't really something that I want to do." According to reports, U.S. officials are considering a resumption of large-scale military operations in the coming weeks.
+Esper, who served as U.S. Secretary of Defense during Trump's first presidential term from July 2019 to November 2020, said he had long been an advocate for "the economic strangulation" of Iran. But he said such a policy was vulnerable to impatience in Washington.
+"The challenge is that policy requires time, discipline and patience, and those aren't things that the states are typically good at doing," he said. "So, if allowed to, I think it could have an impact. It doesn't mean it'll actually bring them back to the table, which would be my end, but it's the least worst option at this point in time."
+Over the summer, Trump announced an intensification of sanctions and economic restrictions on Iran, a strategy he labeled "Economic D-Day." The administration has since touted the success of its economic warfare strategies.
+Advantage China
+But Esper warned Thursday that with attention in Washington focused on the Iran war, America's "greatest adversary" was building up its capabilities.
+"China is our greatest adversary," he said. "It's the lurking threat out there that we're not paying attention to because we're so focused, and have been for 20 plus years now, on the Middle East, and Europe is focused on Russia."
+Beijing, he said, was continuing to build economic, technological and diplomatic power, having executed "the largest military buildup in history."
+"We're just not paying enough attention to the Chinese," Esper told CNBC. "They've told us by 2049 they want to dominate the Indo-Pacific region and the world for all intents and purposes. They want to be able to call the shots and dictate global governance."
+China had been working to this end for at least 30 years, he said.
+"Certainly, since their entry into the WTO, they've used the world trading system against us to build their own economic and military power, and they have a game plan," Esper said.
+He highlighted Beijing's domination of certain industries and goods, such as electric vehicles, rare earths, solar panels and critical materials. This, he said, had been achieved thanks to the Chinese government's ability to "consolidate control" and direct the country's economy in a certain direction.
+"They have a game plan, and they're and they're executing it," Esper said.
+"I would focus our efforts on China, and I would do it in partnership with our European and Asian allies, and that would include not just military [alliances], but diplomatic, economic and technological as well."
+CNBC reached out to the U.S. and Chinese governments for comment.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/08/trump-iran-war-mark-esper.html",
+    publishedAt: "2026-10-08T12:50:51+00:00",
+    category: "貿易",
+    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "chrysler-building-to-get-its-crown-resto-5b8854b8",
+    title: "Chrysler Building to get its crown restored after being sold",
+    titleJa: "Chrysler Building to get its crown restored after being sold",
+    summaryJa: "The distinctive Manhattan skyescraper will undergo a major renovation and provide a new supply of offices.",
+    bodyOriginal: `Chrysler Building to get its crown restored after being sold
+- Published
+The Chrysler Building, one of the most distinctive high-rises in Manhattan's skyline, will undergo a major renovation as part of a multi-million-dollar sale deal.
+The skyscraper, opened in New York nearly 100 years ago, will see its Art Deco crown polished and restored during a refurbishment that will also involve the restoration of the building's 77-storey façade.
+Developer Tishman Speyer has taken over the lease from the Cooper Union for the Advancement of Science and Art, a private college.
+Tishman Speyer and its partners will invest $235m (£178m) in the project, as part of which it will upgrade the 61st floor, which is home to huge eagle gargoyles and will also feature an "upscale" lounge.
+The developer is planning to use most of the building, which is close to Grand Central railway station, for office space. It is following what it calls a "prebuild approach" that will allow firms to move into their new premises quickly.
+Tishman Speyer explained that the area "has one of the lowest office availability rates in Manhattan", adding: "Construction of new office supply in the neighbourhood has been virtually nonexistent for decades."
+The renovation will include internal work, such as upgrades to the building's mechanical, elevator, electrical and air handling systems.
+At 1,046ft (319m), the Chrysler Building was once the world's tallest building - before being usurped less than a year later by the nearby Empire State Building.
+Financed by Walter Chrysler, the motor magnate, the skyscraper's construction began in 1928 and was completed two years later.
+Architect William Van Alen modelled the eagle gargoyles on hood ornaments found on the 1929 Chrysler car.
+The Cooper Union college, whose alumni include inventor Thomas Edison, has owned the land on which the Chrysler Building stands since 1902.
+The land was bequeathed to it by the children of Peter Cooper, a manufacturer and industrialist who founded the college in 1859.
+As part of the deal, Tishman Speyer will make ground lease payments to the Cooper Union which the college wants to use to finance "a bold plan to restore full-tuition scholarships for all undergraduates".
+Cooper Union's president Steven McLaughlin, said: "The significance of this agreement is ultimately about what it makes possible for generations of Cooper Union students."`,
+    bodyJa: `Chrysler Building to get its crown restored after being sold
+- Published
+The Chrysler Building, one of the most distinctive high-rises in Manhattan's skyline, will undergo a major renovation as part of a multi-million-dollar sale deal.
+The skyscraper, opened in New York nearly 100 years ago, will see its Art Deco crown polished and restored during a refurbishment that will also involve the restoration of the building's 77-storey façade.
+Developer Tishman Speyer has taken over the lease from the Cooper Union for the Advancement of Science and Art, a private college.
+Tishman Speyer and its partners will invest $235m (£178m) in the project, as part of which it will upgrade the 61st floor, which is home to huge eagle gargoyles and will also feature an "upscale" lounge.
+The developer is planning to use most of the building, which is close to Grand Central railway station, for office space. It is following what it calls a "prebuild approach" that will allow firms to move into their new premises quickly.
+Tishman Speyer explained that the area "has one of the lowest office availability rates in Manhattan", adding: "Construction of new office supply in the neighbourhood has been virtually nonexistent for decades."
+The renovation will include internal work, such as upgrades to the building's mechanical, elevator, electrical and air handling systems.
+At 1,046ft (319m), the Chrysler Building was once the world's tallest building - before being usurped less than a year later by the nearby Empire State Building.
+Financed by Walter Chrysler, the motor magnate, the skyscraper's construction began in 1928 and was completed two years later.
+Architect William Van Alen modelled the eagle gargoyles on hood ornaments found on the 1929 Chrysler car.
+The Cooper Union college, whose alumni include inventor Thomas Edison, has owned the land on which the Chrysler Building stands since 1902.
+The land was bequeathed to it by the children of Peter Cooper, a manufacturer and industrialist who founded the college in 1859.
+As part of the deal, Tishman Speyer will make ground lease payments to the Cooper Union which the college wants to use to finance "a bold plan to restore full-tuition scholarships for all undergraduates".
+Cooper Union's president Steven McLaughlin, said: "The significance of this agreement is ultimately about what it makes possible for generations of Cooper Union students."`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c8g47z3r4dzvo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-08T12:49:12+00:00",
+    category: "自動車",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5125/live/1926f250-c30d-11f1-babe-4199b0e7ccea.jpg",
+    readTime: 6,
+  },
+  {
+    id: "bid-to-run-new-trains-on-west-coast-main-5052bb3e",
+    title: "Bid to run new trains on West Coast Mainline refused",
+    titleJa: "Bid to run new trains on West Coast Mainline refused",
+    summaryJa: "Plans for more trains would “likely increase delays and cancelled trains\", the rail regulator says.",
+    bodyOriginal: `Bid to run new trains on West Coast Mainline refused
+- Published
+Plans for new train services between London and Wrexham, Rochdale and Blackpool have been rejected by the Office of Rail and Road (ORR).
+The proposal to add more trains on the West Coast Main Line would "likely increase delays and cancelled trains for passengers", the regulator said.
+It rejected Wrexham, Shropshire and Midlands Railway's application for four daily Wrexham to London Euston return services, as well as Lumo's proposal for up to four return services between Rochdale and Euston on weekdays and Saturdays, and three on Sundays.
+Avanti West Coast's plans for additional services between Blackpool and Euston were also denied by the ORR.
+The regulator said: "Gaps in the current timetable need to provide important space for trains to recover when disruption occurs, minimising delays to passengers.
+"ORR concluded that adding more services into these windows in the timetable for recovery would reduce that resilience, increasing the risk of disruption spreading to other services and affecting more passengers."
+'Heavily used'
+Stephanie Tobyn, from the ORR, said: "New services, destinations and greater choice can bring real benefits for passengers and communities.
+"But the West Coast Main Line is already under significant pressure, with performance reflecting limited resilience on a heavily used part of the rail network.
+"Our detailed analysis has shown that adding more trains to the current timetable would reduce the ability to recover when disruption occurs, increasing the risk of delays spreading and making reliability of the network worse for all passengers."
+The ORR said its assessment and decision came after similar applications were rejected in 2025.
+Get in touch
+Tell us which stories we should cover in Lancashire
+Listen to the best of BBC Radio Lancashire on Sounds and follow BBC Lancashire on Facebook, external, X, external and Instagram, external. You can also send story ideas via Whatsapp to 0808 100 2230.
+- Published17 May 2024
+- Published18 January
+- Published3 March
+- Published1 day ago
+- Published9 September
+- Published3 January`,
+    bodyJa: `Bid to run new trains on West Coast Mainline refused
+- Published
+Plans for new train services between London and Wrexham, Rochdale and Blackpool have been rejected by the Office of Rail and Road (ORR).
+The proposal to add more trains on the West Coast Main Line would "likely increase delays and cancelled trains for passengers", the regulator said.
+It rejected Wrexham, Shropshire and Midlands Railway's application for four daily Wrexham to London Euston return services, as well as Lumo's proposal for up to four return services between Rochdale and Euston on weekdays and Saturdays, and three on Sundays.
+Avanti West Coast's plans for additional services between Blackpool and Euston were also denied by the ORR.
+The regulator said: "Gaps in the current timetable need to provide important space for trains to recover when disruption occurs, minimising delays to passengers.
+"ORR concluded that adding more services into these windows in the timetable for recovery would reduce that resilience, increasing the risk of disruption spreading to other services and affecting more passengers."
+'Heavily used'
+Stephanie Tobyn, from the ORR, said: "New services, destinations and greater choice can bring real benefits for passengers and communities.
+"But the West Coast Main Line is already under significant pressure, with performance reflecting limited resilience on a heavily used part of the rail network.
+"Our detailed analysis has shown that adding more trains to the current timetable would reduce the ability to recover when disruption occurs, increasing the risk of delays spreading and making reliability of the network worse for all passengers."
+The ORR said its assessment and decision came after similar applications were rejected in 2025.
+Get in touch
+Tell us which stories we should cover in Lancashire
+Listen to the best of BBC Radio Lancashire on Sounds and follow BBC Lancashire on Facebook, external, X, external and Instagram, external. You can also send story ideas via Whatsapp to 0808 100 2230.
+- Published17 May 2024
+- Published18 January
+- Published3 March
+- Published1 day ago
+- Published9 September
+- Published3 January`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm3wve9l057vo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-08T11:42:31+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d5e/live/3e90f230-c307-11f1-8f04-85217d686658.png",
+    readTime: 5,
+  },
+  {
+    id: "asos-hackers-took-more-personal-details-aabbb97b",
+    title: "Asos hackers took more personal details than first revealed, BBC finds",
+    titleJa: "Asos hackers took more personal details than first revealed, BBC finds",
+    summaryJa: "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
+    bodyOriginal: `Asos hackers took more personal details than first revealed, BBC finds
+- Published
+Asos has told its customers that hackers are in possession of detailed profiles of potentially millions of the online store's users.
+It issued the update after BBC News told the retailer it had been contacted by cyber criminals who said this week's breach went beyond the "basic contact details" Asos previously said might have been accessed.
+Names, addresses, phone numbers, emails and customer numbers are now in the hands of cyber criminals.
+So too are the searches customers have made on the website. Terms like "reclaimed vintage", "glamorous wide fit" and "Asos petite" are visible in the data.
+With this information, scammers may be able to craft potent phishing attack emails or phone calls.
+The risk to individuals is now higher and customers are being warned about potential impersonation scams.
+In its email to customers, Asos confirmed data profiles were taken but said no bank details or passwords were accessed.
+"Please remain cautious of unexpected messages or calls claiming to be from Asos," it said.
+"We will never ask you to share passwords, security codes or payment details through an unsolicited message or call."
+The company did not respond to questions about the scale of the breach.
+The high profile hack made global headlines on Tuesday when cyber criminals used Asos's own app system to send a pop up notification to potentially millions of people.
+Later that day the firm confirmed to shareholders via the London Stock Exchange that the pop up was sent by an "unauthorised third party" and "basic personal information including name and contact details may have been accessed."
+The company then sent an email to customers with similar wording.
+On Wednesday evening the cyber criminals responsible contacted the BBC sharing a sample of the stolen data which showed the true extent of the hack.
+The BBC held off publishing this article to allow Asos to contact its customers first.
+Asos said it is still investigating the data breach and it would "contact customers directly where we believe additional information, support or action may be required".
+The UK fashion site explained to customers that hackers gained access to an Asos employee account by "impersonating a trusted contact to obtain log in credentials".
+With that log in to an unnamed service, the hackers were able to download the customer data.
+In the pop up notification send to customers by the hackers, they claimed they had "compromised the Snowflake instance".
+Snowflake is a popular data storage and analysis company whose customers have been breached in the past due to unauthorised log ins.
+The cyber criminals, calling themselves Xuanyewen, claimed to the BBC they used a platform which is built natively on top of Snowflake - called Simon AI - to gain access to the data.
+Simon AI has been contacted for comment. Snowflake previously said its platform had not been breached.
+Asos said customers are not being asked to take any action.
+But cyber security experts have warned users to change passwords as a precaution and be on alert for suspicious activity.
+"Passwords have not been stolen, so be highly suspicious of any unsolicited text or email asking you to change or share yours," said Trevor Dearing, Senior Director of Critical Infrastructure at Illumio.
+"Expect scammers to mention the attack, use your personal details to seem genuine, and create urgency, such as threatening to lock your account within 24 hours."
+Asos said its website and app are safe to use and "we know our customers trust us with their information".
+"We take that responsibility seriously and have already taken additional steps to further strengthen security controls," it said.
+Get in touch
+Have you been affected by this hack?
+Asos confirms hackers sent 'unauthorised' notification to app users
+- Published1 day ago
+What can I do to protect myself after 'Asos hacked' message?
+- Published1 day ago
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
+    bodyJa: `Asos hackers took more personal details than first revealed, BBC finds
+- Published
+Asos has told its customers that hackers are in possession of detailed profiles of potentially millions of the online store's users.
+It issued the update after BBC News told the retailer it had been contacted by cyber criminals who said this week's breach went beyond the "basic contact details" Asos previously said might have been accessed.
+Names, addresses, phone numbers, emails and customer numbers are now in the hands of cyber criminals.
+So too are the searches customers have made on the website. Terms like "reclaimed vintage", "glamorous wide fit" and "Asos petite" are visible in the data.
+With this information, scammers may be able to craft potent phishing attack emails or phone calls.
+The risk to individuals is now higher and customers are being warned about potential impersonation scams.
+In its email to customers, Asos confirmed data profiles were taken but said no bank details or passwords were accessed.
+"Please remain cautious of unexpected messages or calls claiming to be from Asos," it said.
+"We will never ask you to share passwords, security codes or payment details through an unsolicited message or call."
+The company did not respond to questions about the scale of the breach.
+The high profile hack made global headlines on Tuesday when cyber criminals used Asos's own app system to send a pop up notification to potentially millions of people.
+Later that day the firm confirmed to shareholders via the London Stock Exchange that the pop up was sent by an "unauthorised third party" and "basic personal information including name and contact details may have been accessed."
+The company then sent an email to customers with similar wording.
+On Wednesday evening the cyber criminals responsible contacted the BBC sharing a sample of the stolen data which showed the true extent of the hack.
+The BBC held off publishing this article to allow Asos to contact its customers first.
+Asos said it is still investigating the data breach and it would "contact customers directly where we believe additional information, support or action may be required".
+The UK fashion site explained to customers that hackers gained access to an Asos employee account by "impersonating a trusted contact to obtain log in credentials".
+With that log in to an unnamed service, the hackers were able to download the customer data.
+In the pop up notification send to customers by the hackers, they claimed they had "compromised the Snowflake instance".
+Snowflake is a popular data storage and analysis company whose customers have been breached in the past due to unauthorised log ins.
+The cyber criminals, calling themselves Xuanyewen, claimed to the BBC they used a platform which is built natively on top of Snowflake - called Simon AI - to gain access to the data.
+Simon AI has been contacted for comment. Snowflake previously said its platform had not been breached.
+Asos said customers are not being asked to take any action.
+But cyber security experts have warned users to change passwords as a precaution and be on alert for suspicious activity.
+"Passwords have not been stolen, so be highly suspicious of any unsolicited text or email asking you to change or share yours," said Trevor Dearing, Senior Director of Critical Infrastructure at Illumio.
+"Expect scammers to mention the attack, use your personal details to seem genuine, and create urgency, such as threatening to lock your account within 24 hours."
+Asos said its website and app are safe to use and "we know our customers trust us with their information".
+"We take that responsibility seriously and have already taken additional steps to further strengthen security controls," it said.
+Get in touch
+Have you been affected by this hack?
+Asos confirms hackers sent 'unauthorised' notification to app users
+- Published1 day ago
+What can I do to protect myself after 'Asos hacked' message?
+- Published1 day ago
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-08T11:01:29+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef63/live/b1b98540-c30e-11f1-a64c-550be9e3c66b.jpg",
+    readTime: 10,
+  },
+  {
+    id: "cnbc-s-financial-advisor-100-best-financ-787ec5d9",
+    title: "CNBC's Financial Advisor 100: Best financial advisors, top firms for 2026 ranked",
+    titleJa: "CNBC's Financial Advisor 100: Best financial advisors, top firms for 2026 ranked",
+    summaryJa: "CNBC's Financial Advisor 100 ranks the best financial advisors and top firms for 2026. Here's how to pick the best financial planner for you and your family.",
+    bodyOriginal: `Many consumers face tough investing decisions amid rising inflation, the artificial intelligence boom and geopolitical uncertainty, among other factors that affect the stock and bond markets.
+An experienced financial advisor can help.
+But the best advisors do more than manage your portfolio. They can help craft a roadmap to meet competing goals such as saving for retirement, reducing your taxes, protecting your family, building a legacy and more.
+CNBC's Financial Advisor 100 list ranks the country's best financial advisors and top financial advisory firms. Investors can use this list as a starting point — along with referrals — to find an expert who is well-suited for their family's needs.
+To make a list of prospective advisors, always verify credentials and check for complaints via the Financial Industry Regulatory Authority's BrokerCheck or the U.S. Securities and Exchange Commission's Investment Adviser Public Disclosure. Then you can interview your short list of candidates.
+CNBC's Financial Advisor 100 list is determined through a blend of data analysis and editorial review. Firms do not apply or pay to be considered, and inclusion and ranking are based solely on the list's methodology. The list takes months to compile, with multiple steps and checks designed to ensure rigor and consistency.
+To prepare the 2026 list, CNBC worked with AccuPoint Solutions, a wealth management data and research firm specializing in advisor intelligence and industry analytics. The process started with 41,578 registered investment advisor firms, or RIAs, narrowed to 1,015 that met CNBC's requirements. These firms also passed a due diligence check, including any regulatory disclosures.
+To get more details, CNBC surveyed the finalists about their practices and fact-checked responses via publicly available resources. AccuPoint used CNBC's weighted criteria to rank the firms. Read more about the methodology below.
+For 2026, CNBC's top advisors collectively manage $329.7 billion. The firms have an average of 35 years in business.
+What is a fiduciary financial advisor?
+Finding the right financial advisor isn't easy, and there's a key question you should ask each prospect: Are you a fiduciary?
+A fiduciary financial advisor must act in the best interest of clients at all times, regardless of how it affects their compensation or profits.
+Certain financial advisors, such as RIAs, are bound by the fiduciary standard. By comparison, investment brokers must follow a suitability standard, which means recommendations must be appropriate but not always the best option for the client.
+What steps should you take when choosing a financial advisor?
+One of the first steps to finding the right financial advisor could be referrals from your colleagues, friends or family.
+You'll want to consider those candidates' credentials, including designations such as certified financial planner, or CFP; certified public accountant, or CPA; and chartered financial analyst, or CFA.
+You should also check each prospect for regulatory violations and customer complaints, known as "disclosures," via FINRA's BrokerCheck and the SEC's Investment Adviser Public Disclosure website. You can check state regulators for smaller firms.
+It's important to meet and interview prospective candidates before choosing a financial advisor. The CFP Board, which sets and enforces standards for CFP professionals, recommends 10 questions to narrow down your list:
+1. What are your qualifications and credentials?
+2. What services do you offer?
+3. Will you have a fiduciary duty to me?
+4. What is your approach to financial planning?
+5. What types of clients do you typically work with?
+6. Will you be the only advisor working with me?
+7. How will I pay for your services?
+8. How much do you typically charge?
+9. Do others stand to gain from the financial advice you give me?
+10. Have you ever been publicly disciplined for unethical or unlawful actions in your career?
+What's the difference between a fee-only financial advisor and a commission-based advisor?
+It's important to understand your financial advisor's pay structure before starting your planning engagement.
+Generally, financial advisors are fee-only, commission-based or fee-based, the latter of which is mostly fees with commissions for certain products.
+Fee-only means the advisor won't receive a commission from products. This category can include assets under management, or AUM, which is typically a set percentage each year and varies by the size of your portfolio. Fee-only may also include one-time projects, hourly fees or advice-only advisors, who don't charge AUM or receive commissions.
+Commission-based advice generally includes commissions for certain products, such as mutual funds or life insurance. It can be the lowest-cost option for advice about a specific financial product, but the guidance can present a conflict of interest in some cases.
+What are the pros and cons of using a robo-advisor vs. a human financial advisor?
+Technology continues to shape the landscape of financial advice, including robo-advisors and digital advice via artificial intelligence platforms.
+Robo-advisors use algorithms to automatically invest your money based on your risk tolerance and timeline. Typically, the cost is based on a percentage of your portfolio, or you pay a flat monthly fee.
+Some robo-advisors offer more customization and features, such as tax-loss harvesting, which uses losses to offset other portfolio gains, or automatic rebalancing.
+By comparison, human advisors can build a comprehensive financial plan — including investing, taxes, insurance, retirement planning, estate planning and more — based on your specific goals.
+In 2024, the median robo-advisor fee was about 0.25% of assets per year, according to Morningstar's latest robo-advisor report from 2025, which analyzed 16 U.S.-based platforms. To compare, it's common to pay around 1% of assets under management, or 100 basis points, for a human advisor, depending on the size of your portfolio.
+Meanwhile, do-it-yourself investors may turn to AI platforms for quick answers to their money questions. Our next section covers some of the key things to know about AI financial advice.
+What to know about AI financial advice
+As consumers embrace generative AI platforms such as ChatGPT, Claude, Copilot or Gemini, it may be tempting to tap the software for financial advice.
+Roughly 1 in 5 Americans looking for financial advice in the prior year have used AI, according to a Gallup survey conducted with financial services firm Edward Jones.
+But fewer than 30% of U.S. adults overall say they have "a great deal" or "some" confidence in AI expertise when it comes to managing money, according to the survey, which polled more than 5,000 U.S. adults in March and April.
+Before turning to AI platforms for money advice, here are some of the key things to know.
+Can AI replace a human financial advisor?
+In short, no.
+Experts say that AI is generally good at providing high-level overviews of financial topics: For example, why it's important to diversify investments, why exchange-traded funds may be better than mutual funds in some cases but not others, or the ages at which people can claim Social Security.
+However, it would be unwise to take AI's advice blindly. The technology may sound authoritative, but it can make mistakes — especially when it comes to making very specific financial calculations for one's personal situation, experts say.
+Is AI financial advice safe and accurate?
+Experts say AI can be a good starting point when learning about a particular financial topic, such as the ins and outs of Medicare. But AI can "hallucinate" — essentially, it can make up information that's inaccurate but sounds true to users.
+Surprisingly, AI isn't — yet — strong at doing financial calculations, so any numbers-based financial planning questions, such as those involving your taxes, are generally best avoided, experts said. Small differences in prompts can also lead to variation in its recommendations, research has shown.
+It's important to double- and triple-check AI's output or, for complex questions, consult with a financial advisor.
+Is an AI financial advisor a fiduciary?
+Fiduciary duty is a legal term that means an advisor must put their client's best interests ahead of their own. It's a concept that applies in other fields, too, such as medicine and law.
+Many human financial advisors — but not all of them — have a fiduciary duty. Advisors who do have a fiduciary duty and who violate that responsibility can be subject to fairly serious consequences, including regulatory penalties, civil liabilities and criminal charges.
+Generative AI platforms, such as ChatGPT and Claude, don't have a fiduciary duty, according to experts. In other words, they don't bear responsibility for output that leads to bad outcomes for users, experts said.
+Is it safe to share personal financial information with AI?
+It would be unwise to input sensitive financial information or sensitive personally identifiable information into generative AI platforms, such as ChatGPT and Claude, experts said.
+For example, it's likely not a good idea to feed your entire tax return into the algorithms, experts said. AI companies currently have no restrictions on how they can use such personal data, they said. Perhaps the biggest risk is that the companies could get hacked, potentially exposing your personal data, they said.
+Who is responsible if AI-generated financial advice is wrong?
+Legal experts say this is an unresolved issue.
+Currently, AI companies aren't responsible for giving financial advice that's in users' best interests — and therefore aren't on the hook if a user implements the advice and something goes wrong, experts said. They said it's important not to accept AI output without researching and vetting it further.
+Financial advisor FAQs
+- Many investors have competing financial goals, such as saving for retirement, funding a child's college education, paying off student loans or buying a new home.
+- A financial advisor can help clients prioritize and fund goals while answering key questions about taxes, investing, insurance, estate planning and more.
+- Paid financial advice comes in many forms, but it's not right for everyone. While some investors want hands-on guidance, others prefer to handle money decisions on their own.
+- Clients meet with their advisor periodically to discuss priorities and review progress on financial goals.
+- Generally, meetings happen at least once per year, but the cadence may vary based on complexity and the scope of the engagement.
+- Regardless of your meeting schedule, your advisor should have an open line of communication to review questions and concerns as they arise.
+- Switching financial advisors is a personal decision that could hinge on a range of factors, including your goals and expectations.
+- You may seek a new planner if your current advisor doesn't offer the expertise you need, such as complex tax or small business planning.
+- Other reasons to switch could be poor communication, missed meetings or failing to execute key elements of your financial plan.
+- Your choice between local, national or online firms may depend on your service and meeting preferences.
+- Some boutique firms refer clients to local experts, such as certified public accountants or estate planning attorneys, while national firms may have these experts on staff.
+- Ultimately, you can find personalized care from a range of firms, depending on how many households your advisor serves.
+- You could work with a single advisor or a team, depending on your planning needs and the firm's structure.
+- If you have a preference, it's a good idea to address this question while interviewing prospective advisors.
+- A registered investment advisor, or RIA, is an individual or company that provides financial advice for compensation. They are also known as financial planners or wealth managers.
+- An investment advisor representative, or IAR, is an individual who works at an RIA, managing portfolios and offering investment advice.
+- A broker buys and sells investments for an investor's account.
+- An RIA is bound by the fiduciary standard and must act in the client's best interest, while a broker must follow a suitability standard, which allows more flexibility for recommendations.
+- There are four requirements a person must meet to become a certified financial planner, or CFP: education, exam, experience and ethics.
+- These professionals must complete a CFP Board-registered program and hold a bachelor's degree before passing an exam.
+- CFP candidates also must complete 4,000 or 6,000 experience hours, depending on their pathway, and meet ongoing ethics and continuing education guidelines.
+- Before picking a financial advisor, you should verify credentials and check for regulatory violations via FINRA's BrokerCheck and the SEC's Investment Adviser Public Disclosure website.
+- One red flag is a lack of transparency about compensation, which RIAs must outline via Form ADV Part 2A.
+- Another warning sign could be an advisor who pushes products before fully understanding your goals, timeline and risk tolerance.
+- The right investing strategy will depend on your goals, risk tolerance and timeline. Common long-term goals may include saving for retirement or funding college education.
+- Many advisors also aim to reduce your lifetime tax bill with such strategies as selling profitable assets during your lower income years.
+- At retirement, advisors can help optimize streams of income, including Social Security, pensions, retirement account drawdowns and more.
+- Estate planning, which covers your wishes at death or incapacitation, is also important for investors at all income levels.
+- Typically, financial advisors who specialize in working with retirees can help with investing, portfolio distribution, Social Security, tax planning, Medicare, long-term care and estate planning, among other issues.
+- You should look for credentials such as CFP or retirement income certified professional, or RICP.
+- However, many years of experience working with retirees could outweigh credentials.
+- The right financial advisor will act as a fiduciary and consider your goals, timeline and risk tolerance before making recommendations.
+- Young professionals often have multiple financial priorities, such as beginning to invest, paying off student loans, employee benefits, buying a first home, and saving for a wedding or starting a family.
+- While some financial advisors have asset minimums, others may charge one-time, hourly or monthly fees rather than a percentage for assets under management.
+- Advisors have different compensation models, including commission-based, fee-only, fee-based or advice-only, which doesn't include managed assets.
+- You can find a fiduciary financial advisor via directories such as the CFP Board, XY Planning Network or the National Association of Personal Financial Advisors.
+- No. The right advisory firm, if any, depends on your family's unique financial needs. You can use this list as a starting point — along with referrals — to find an expert who is well-suited for your family's needs.
+- A firm's or advisor's placement in our yearly ranking is not an endorsement from CNBC.
+Methodology: How we picked the best financial advisors for 2026
+CNBC used data analysis and editorial review to compile its eighth annual Financial Advisor 100 list.
+For 2026, CNBC and data partner AccuPoint Solutions started with 41,578 RIAs from the SEC's regulatory database. That list was culled to 1,015 firms, and finalists completed surveys to confirm key details. CNBC made an editorial review of entries, and AccuPoint used our proprietary weighted criteria to narrow down the list and rank the firms.
+Among other criteria, we weighed:
+- Advisory firm's regulatory/compliance record
+- Number of years in the business
+- Number of employees
+- Number of investment advisors registered with the firm
+- Ratio of investment advisors to the total number of employees
+- Total assets under management
+- Total accounts under management
+- Number of states where the RIA is registered
+- Country of domicile
+You can learn more by reading our FAQ.
+CNBC personal finance reporter Greg Iacurci contributed to this story.
+CNBC receives no compensation from placing financial advisory firms on our Financial Advisor 100 list. Additionally, a firm's or advisor's appearance in our ranking does not constitute an individual endorsement by CNBC of any firm or advisor.`,
+    bodyJa: `Many consumers face tough investing decisions amid rising inflation, the artificial intelligence boom and geopolitical uncertainty, among other factors that affect the stock and bond markets.
+An experienced financial advisor can help.
+But the best advisors do more than manage your portfolio. They can help craft a roadmap to meet competing goals such as saving for retirement, reducing your taxes, protecting your family, building a legacy and more.
+CNBC's Financial Advisor 100 list ranks the country's best financial advisors and top financial advisory firms. Investors can use this list as a starting point — along with referrals — to find an expert who is well-suited for their family's needs.
+To make a list of prospective advisors, always verify credentials and check for complaints via the Financial Industry Regulatory Authority's BrokerCheck or the U.S. Securities and Exchange Commission's Investment Adviser Public Disclosure. Then you can interview your short list of candidates.
+CNBC's Financial Advisor 100 list is determined through a blend of data analysis and editorial review. Firms do not apply or pay to be considered, and inclusion and ranking are based solely on the list's methodology. The list takes months to compile, with multiple steps and checks designed to ensure rigor and consistency.
+To prepare the 2026 list, CNBC worked with AccuPoint Solutions, a wealth management data and research firm specializing in advisor intelligence and industry analytics. The process started with 41,578 registered investment advisor firms, or RIAs, narrowed to 1,015 that met CNBC's requirements. These firms also passed a due diligence check, including any regulatory disclosures.
+To get more details, CNBC surveyed the finalists about their practices and fact-checked responses via publicly available resources. AccuPoint used CNBC's weighted criteria to rank the firms. Read more about the methodology below.
+For 2026, CNBC's top advisors collectively manage $329.7 billion. The firms have an average of 35 years in business.
+What is a fiduciary financial advisor?
+Finding the right financial advisor isn't easy, and there's a key question you should ask each prospect: Are you a fiduciary?
+A fiduciary financial advisor must act in the best interest of clients at all times, regardless of how it affects their compensation or profits.
+Certain financial advisors, such as RIAs, are bound by the fiduciary standard. By comparison, investment brokers must follow a suitability standard, which means recommendations must be appropriate but not always the best option for the client.
+What steps should you take when choosing a financial advisor?
+One of the first steps to finding the right financial advisor could be referrals from your colleagues, friends or family.
+You'll want to consider those candidates' credentials, including designations such as certified financial planner, or CFP; certified public accountant, or CPA; and chartered financial analyst, or CFA.
+You should also check each prospect for regulatory violations and customer complaints, known as "disclosures," via FINRA's BrokerCheck and the SEC's Investment Adviser Public Disclosure website. You can check state regulators for smaller firms.
+It's important to meet and interview prospective candidates before choosing a financial advisor. The CFP Board, which sets and enforces standards for CFP professionals, recommends 10 questions to narrow down your list:
+1. What are your qualifications and credentials?
+2. What services do you offer?
+3. Will you have a fiduciary duty to me?
+4. What is your approach to financial planning?
+5. What types of clients do you typically work with?
+6. Will you be the only advisor working with me?
+7. How will I pay for your services?
+8. How much do you typically charge?
+9. Do others stand to gain from the financial advice you give me?
+10. Have you ever been publicly disciplined for unethical or unlawful actions in your career?
+What's the difference between a fee-only financial advisor and a commission-based advisor?
+It's important to understand your financial advisor's pay structure before starting your planning engagement.
+Generally, financial advisors are fee-only, commission-based or fee-based, the latter of which is mostly fees with commissions for certain products.
+Fee-only means the advisor won't receive a commission from products. This category can include assets under management, or AUM, which is typically a set percentage each year and varies by the size of your portfolio. Fee-only may also include one-time projects, hourly fees or advice-only advisors, who don't charge AUM or receive commissions.
+Commission-based advice generally includes commissions for certain products, such as mutual funds or life insurance. It can be the lowest-cost option for advice about a specific financial product, but the guidance can present a conflict of interest in some cases.
+What are the pros and cons of using a robo-advisor vs. a human financial advisor?
+Technology continues to shape the landscape of financial advice, including robo-advisors and digital advice via artificial intelligence platforms.
+Robo-advisors use algorithms to automatically invest your money based on your risk tolerance and timeline. Typically, the cost is based on a percentage of your portfolio, or you pay a flat monthly fee.
+Some robo-advisors offer more customization and features, such as tax-loss harvesting, which uses losses to offset other portfolio gains, or automatic rebalancing.
+By comparison, human advisors can build a comprehensive financial plan — including investing, taxes, insurance, retirement planning, estate planning and more — based on your specific goals.
+In 2024, the median robo-advisor fee was about 0.25% of assets per year, according to Morningstar's latest robo-advisor report from 2025, which analyzed 16 U.S.-based platforms. To compare, it's common to pay around 1% of assets under management, or 100 basis points, for a human advisor, depending on the size of your portfolio.
+Meanwhile, do-it-yourself investors may turn to AI platforms for quick answers to their money questions. Our next section covers some of the key things to know about AI financial advice.
+What to know about AI financial advice
+As consumers embrace generative AI platforms such as ChatGPT, Claude, Copilot or Gemini, it may be tempting to tap the software for financial advice.
+Roughly 1 in 5 Americans looking for financial advice in the prior year have used AI, according to a Gallup survey conducted with financial services firm Edward Jones.
+But fewer than 30% of U.S. adults overall say they have "a great deal" or "some" confidence in AI expertise when it comes to managing money, according to the survey, which polled more than 5,000 U.S. adults in March and April.
+Before turning to AI platforms for money advice, here are some of the key things to know.
+Can AI replace a human financial advisor?
+In short, no.
+Experts say that AI is generally good at providing high-level overviews of financial topics: For example, why it's important to diversify investments, why exchange-traded funds may be better than mutual funds in some cases but not others, or the ages at which people can claim Social Security.
+However, it would be unwise to take AI's advice blindly. The technology may sound authoritative, but it can make mistakes — especially when it comes to making very specific financial calculations for one's personal situation, experts say.
+Is AI financial advice safe and accurate?
+Experts say AI can be a good starting point when learning about a particular financial topic, such as the ins and outs of Medicare. But AI can "hallucinate" — essentially, it can make up information that's inaccurate but sounds true to users.
+Surprisingly, AI isn't — yet — strong at doing financial calculations, so any numbers-based financial planning questions, such as those involving your taxes, are generally best avoided, experts said. Small differences in prompts can also lead to variation in its recommendations, research has shown.
+It's important to double- and triple-check AI's output or, for complex questions, consult with a financial advisor.
+Is an AI financial advisor a fiduciary?
+Fiduciary duty is a legal term that means an advisor must put their client's best interests ahead of their own. It's a concept that applies in other fields, too, such as medicine and law.
+Many human financial advisors — but not all of them — have a fiduciary duty. Advisors who do have a fiduciary duty and who violate that responsibility can be subject to fairly serious consequences, including regulatory penalties, civil liabilities and criminal charges.
+Generative AI platforms, such as ChatGPT and Claude, don't have a fiduciary duty, according to experts. In other words, they don't bear responsibility for output that leads to bad outcomes for users, experts said.
+Is it safe to share personal financial information with AI?
+It would be unwise to input sensitive financial information or sensitive personally identifiable information into generative AI platforms, such as ChatGPT and Claude, experts said.
+For example, it's likely not a good idea to feed your entire tax return into the algorithms, experts said. AI companies currently have no restrictions on how they can use such personal data, they said. Perhaps the biggest risk is that the companies could get hacked, potentially exposing your personal data, they said.
+Who is responsible if AI-generated financial advice is wrong?
+Legal experts say this is an unresolved issue.
+Currently, AI companies aren't responsible for giving financial advice that's in users' best interests — and therefore aren't on the hook if a user implements the advice and something goes wrong, experts said. They said it's important not to accept AI output without researching and vetting it further.
+Financial advisor FAQs
+- Many investors have competing financial goals, such as saving for retirement, funding a child's college education, paying off student loans or buying a new home.
+- A financial advisor can help clients prioritize and fund goals while answering key questions about taxes, investing, insurance, estate planning and more.
+- Paid financial advice comes in many forms, but it's not right for everyone. While some investors want hands-on guidance, others prefer to handle money decisions on their own.
+- Clients meet with their advisor periodically to discuss priorities and review progress on financial goals.
+- Generally, meetings happen at least once per year, but the cadence may vary based on complexity and the scope of the engagement.
+- Regardless of your meeting schedule, your advisor should have an open line of communication to review questions and concerns as they arise.
+- Switching financial advisors is a personal decision that could hinge on a range of factors, including your goals and expectations.
+- You may seek a new planner if your current advisor doesn't offer the expertise you need, such as complex tax or small business planning.
+- Other reasons to switch could be poor communication, missed meetings or failing to execute key elements of your financial plan.
+- Your choice between local, national or online firms may depend on your service and meeting preferences.
+- Some boutique firms refer clients to local experts, such as certified public accountants or estate planning attorneys, while national firms may have these experts on staff.
+- Ultimately, you can find personalized care from a range of firms, depending on how many households your advisor serves.
+- You could work with a single advisor or a team, depending on your planning needs and the firm's structure.
+- If you have a preference, it's a good idea to address this question while interviewing prospective advisors.
+- A registered investment advisor, or RIA, is an individual or company that provides financial advice for compensation. They are also known as financial planners or wealth managers.
+- An investment advisor representative, or IAR, is an individual who works at an RIA, managing portfolios and offering investment advice.
+- A broker buys and sells investments for an investor's account.
+- An RIA is bound by the fiduciary standard and must act in the client's best interest, while a broker must follow a suitability standard, which allows more flexibility for recommendations.
+- There are four requirements a person must meet to become a certified financial planner, or CFP: education, exam, experience and ethics.
+- These professionals must complete a CFP Board-registered program and hold a bachelor's degree before passing an exam.
+- CFP candidates also must complete 4,000 or 6,000 experience hours, depending on their pathway, and meet ongoing ethics and continuing education guidelines.
+- Before picking a financial advisor, you should verify credentials and check for regulatory violations via FINRA's BrokerCheck and the SEC's Investment Adviser Public Disclosure website.
+- One red flag is a lack of transparency about compensation, which RIAs must outline via Form ADV Part 2A.
+- Another warning sign could be an advisor who pushes products before fully understanding your goals, timeline and risk tolerance.
+- The right investing strategy will depend on your goals, risk tolerance and timeline. Common long-term goals may include saving for retirement or funding college education.
+- Many advisors also aim to reduce your lifetime tax bill with such strategies as selling profitable assets during your lower income years.
+- At retirement, advisors can help optimize streams of income, including Social Security, pensions, retirement account drawdowns and more.
+- Estate planning, which covers your wishes at death or incapacitation, is also important for investors at all income levels.
+- Typically, financial advisors who specialize in working with retirees can help with investing, portfolio distribution, Social Security, tax planning, Medicare, long-term care and estate planning, among other issues.
+- You should look for credentials such as CFP or retirement income certified professional, or RICP.
+- However, many years of experience working with retirees could outweigh credentials.
+- The right financial advisor will act as a fiduciary and consider your goals, timeline and risk tolerance before making recommendations.
+- Young professionals often have multiple financial priorities, such as beginning to invest, paying off student loans, employee benefits, buying a first home, and saving for a wedding or starting a family.
+- While some financial advisors have asset minimums, others may charge one-time, hourly or monthly fees rather than a percentage for assets under management.
+- Advisors have different compensation models, including commission-based, fee-only, fee-based or advice-only, which doesn't include managed assets.
+- You can find a fiduciary financial advisor via directories such as the CFP Board, XY Planning Network or the National Association of Personal Financial Advisors.
+- No. The right advisory firm, if any, depends on your family's unique financial needs. You can use this list as a starting point — along with referrals — to find an expert who is well-suited for your family's needs.
+- A firm's or advisor's placement in our yearly ranking is not an endorsement from CNBC.
+Methodology: How we picked the best financial advisors for 2026
+CNBC used data analysis and editorial review to compile its eighth annual Financial Advisor 100 list.
+For 2026, CNBC and data partner AccuPoint Solutions started with 41,578 RIAs from the SEC's regulatory database. That list was culled to 1,015 firms, and finalists completed surveys to confirm key details. CNBC made an editorial review of entries, and AccuPoint used our proprietary weighted criteria to narrow down the list and rank the firms.
+Among other criteria, we weighed:
+- Advisory firm's regulatory/compliance record
+- Number of years in the business
+- Number of employees
+- Number of investment advisors registered with the firm
+- Ratio of investment advisors to the total number of employees
+- Total assets under management
+- Total accounts under management
+- Number of states where the RIA is registered
+- Country of domicile
+You can learn more by reading our FAQ.
+CNBC personal finance reporter Greg Iacurci contributed to this story.
+CNBC receives no compensation from placing financial advisory firms on our Financial Advisor 100 list. Additionally, a firm's or advisor's appearance in our ranking does not constitute an individual endorsement by CNBC of any firm or advisor.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/08/best-financial-advisors.html",
+    publishedAt: "2026-10-08T10:07:13+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
     id: "elon-musk-blames-indian-oligarchs-for-st-aadf9c9a",
     title: "Elon Musk blames Indian 'oligarchs' for stalling Starlink launch",
     titleJa: "Elon Musk blames Indian 'oligarchs' for stalling Starlink launch",
@@ -2007,536 +2607,6 @@ People should visit Asos's official website directly for updates.
     category: "マクロ経済",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/939d/live/bd626bd0-c1a3-11f1-8fa2-19a1e9b6288f.png",
     readTime: 10,
-  },
-  {
-    id: "anthropic-expands-claude-startups-progra-1eaac72b",
-    title: "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
-    titleJa: "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
-    summaryJa: "The expansion marks the AI company's latest push to deepen its ties to founders and fast-growing companies.",
-    bodyOriginal: `Anthropic on Tuesday announced it's expanding its Claude Startups program, the artificial intelligence lab's latest push to deepen its ties to founders and fast-growing companies.
-Claude Startups initially launched in May, and thousands of companies are already participating, according to Anthropic. The company is opening up the program to more organizations, and members will get access to thousands of dollars' worth of Anthropic's Claude products and credits to help them build.
-"Startups are often the first to push Claude to its limits," Beth Robertson, head of startups at Anthropic, told CNBC in a statement. "When a new model ships, they're ready that same day to take on projects that used to seem out of reach. Claude Startups gives founders credits, tools and direct time with our team, so more companies can build this way from the start."
-The vast majority of Anthropic's revenue comes from its business customers, and it has spent much of the last year trying to fend off rivals like OpenAI and Google, which both offer their own programs for startups. As it gears up for what is widely expected to be a blockbuster initial public offering, Anthropic is working to ensure that the next generation of businesses will be built using its products.
-Claude Startup members can receive up to $45,000 worth of discounts and credits through the Claude Startup Stack, which Anthropic described as a "set of benefits for the tools a startup runs on." Additionally, eligible organizations can access a one-time $1,000 application programming interface, or API, credit, as well as a free year of Claude Team for up to five premium seats.
-Anthropic said members can also meet with the company's applied AI team through virtual office hours and connect with other members of the Claude Startup community at events.
-Startups that were founded within the past five years or funded within the past two years are able to apply, Anthropic said.
-WATCH: Former FTC chief technologist Neil Chilson on agency probe into OpenAI, Anthropic`,
-    bodyJa: `Anthropic on Tuesday announced it's expanding its Claude Startups program, the artificial intelligence lab's latest push to deepen its ties to founders and fast-growing companies.
-Claude Startups initially launched in May, and thousands of companies are already participating, according to Anthropic. The company is opening up the program to more organizations, and members will get access to thousands of dollars' worth of Anthropic's Claude products and credits to help them build.
-"Startups are often the first to push Claude to its limits," Beth Robertson, head of startups at Anthropic, told CNBC in a statement. "When a new model ships, they're ready that same day to take on projects that used to seem out of reach. Claude Startups gives founders credits, tools and direct time with our team, so more companies can build this way from the start."
-The vast majority of Anthropic's revenue comes from its business customers, and it has spent much of the last year trying to fend off rivals like OpenAI and Google, which both offer their own programs for startups. As it gears up for what is widely expected to be a blockbuster initial public offering, Anthropic is working to ensure that the next generation of businesses will be built using its products.
-Claude Startup members can receive up to $45,000 worth of discounts and credits through the Claude Startup Stack, which Anthropic described as a "set of benefits for the tools a startup runs on." Additionally, eligible organizations can access a one-time $1,000 application programming interface, or API, credit, as well as a free year of Claude Team for up to five premium seats.
-Anthropic said members can also meet with the company's applied AI team through virtual office hours and connect with other members of the Claude Startup community at events.
-Startups that were founded within the past five years or funded within the past two years are able to apply, Anthropic said.
-WATCH: Former FTC chief technologist Neil Chilson on agency probe into OpenAI, Anthropic`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
-    publishedAt: "2026-10-06T18:06:40+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "asos-confirms-hackers-sent-unauthorised-ccf419a4",
-    title: "Asos confirms hackers sent 'unauthorised' notification to app users",
-    titleJa: "Asos confirms hackers sent 'unauthorised' notification to app users",
-    summaryJa: "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
-    bodyOriginal: `Asos confirms hackers sent 'unauthorised' notification to app users
-- Published
-Asos says it is investigating "unauthorised activity" involving third-party platforms it uses after customers received a notification from its app sent by hackers.
-Dozens of people told the BBC they received the strange "ASOS HACKED" message from the clothing and beauty store's app on Tuesday morning - with some saying it left them "scared" to open the app.
-The notification was addressed to the company's data protection officer and IT teams in what cyber security experts said looked like a "brazen" extortion attempt.
-Asos acknowledged the "unauthorised customer notification" on Tuesday afternoon, saying some "basic personal information" may have been accessed.
-In an email to customers on Tuesday night, the company apologised and urged customers not to engage with the notification. And it said the website and app are "operating as usual" promising customers they can "shop with confidence" while it investigates the incident.
-The company has not as of yet informed the UK's data watchdog, the Information Commission's Office (ICO), about any breach.
-Exactly how many Asos customers received the notification on Tuesday remains unclear, but Google's Play store says the ASOS app has been downloaded to android devices more than 10 million times.
-The British retailer has a substantial global footprint - serving around 17 million customers each year across more than 150 markets.
-Some Asos app users in Australia, France, Sweden and the Republic of Ireland had also received the notification, according to local reports on Tuesday.
-Hackers seeking to pile pressure on potential victims by informing their customers is rare, as most extortions happen in private, so this incident may go down as a significant moment in cyber-attack history.
-Shares in the company fell by around a tenth on Tuesday.
-Charlotte Wilson, head of enterprise at cyber-security firm Check Point, called it a "deeply serious" and "brazen" attack whereby the hackers had apparently "turned Asos' own app into their ransom note".
-But she told the BBC that Asos customers should not be "scared and frightened" - encouraging those worried to change their passwords, avoid clicking on the notification's link and be cautious about possible scam emails or texts.
-M&S cyber-attack disruption to last until July
-- Published21 May 2025
-Extortion message
-Users of the Asos app appeared to have received the alarming notification at around 10:00 BST on Tuesday.
-Headlined "ASOS HACKED" and addressed to the company's data protection officer and IT teams, it said: "We have fully compromised the Snowflake instance."
-"Engage with us, or we will leak it," it added, before linking to a Telegram channel.
-The message left many ASOS customers confused.
-"At first I thought it was an ad or a fun promotion like 'ASOS HACKED get 50% off everything for a limited time only'," Jodie, an analyst from Edinburgh, told the BBC.
-"Then I read the rest of the message which clearly showed that it wasn't an ad and instead a message to IT."
-"My main concern is that my information, such as bank information, home address, telephone number, has been compromised," said Erin, a student at the University of Sheffield.
-She told the BBC that while her friends have expressed similar concerns about a potential data leak, her sister did not receive the notification on the Asos app.
-"So the question is what is the extent? Are all customers affected even if they didn't get the notification? It's poor from Asos on all fronts."
-Asos said in its statement that it took "immediate action to restrict access to the notification platforms" on Tuesday - adding it was working with specialists within and outside the company, as well as relevant authorities.
-It said it does not believe payment-card information or account passwords were impacted, and that its site and app are "operating as normal".
-"Customer trust is incredibly important to us, and if the situation changes an update will be provided as appropriate," it said.
-The BBC understands the National Cyber Security Centre has offered assistance to Asos.
-Meanwhile Snowflake - whose tools are used by dozens of firms to collect, analyse and store data - told the BBC its investigation was ongoing, but it had so far found "no compromise" of its platform.
-The company's services have, however, been the subject of many high profile data breaches in recent years.
-According to cybersecurity expert Jen Ellis, Snowflake collects data from multiple sources for analysis, and an "enormous" firm like Asos will have lots of data about how people shop globally.
-However Dan Bird, from cybersecurity firm Horizon3, said the message implied the apparent hackers' access had gone beyond the Snowflake database.
-"Sending a push notification to Asos's app users would require access to the company's notification system, which is separate from the Snowflake data platform the attackers claim to have compromised," he said.
-"If both claims hold up, it suggests the attackers got hold of credentials that opened more than one door."
-What can I do to protect myself?
-The company has also shared a statement, external to the London Stock Exchange's Regulatory News Service, which provides updates to investors.
-Cybersecurity experts, including Ellis, have told the BBC those behind those behind this incident are most likely trying to "apply pressure" to Asos to meet their demands, rather than target its customers.
-While those who received this notification will undoubtedly be concerned, it is important to know that it does not mean your phone has been hacked.
-We are still waiting to find out exactly what "basic personal information" may have been impacted in this incident, if any.
-But for now, the advice is:
-Do not click on links in the notification
-Visit Asos's official website directly for updates
-Watch out for emails, texts or calls offering refunds, compensation or help with your account - scammers will exploit this type of incident when they know people are worried
-Try and use different passwords for your online services
-Enable two-step verification on email and banking accounts
-Keep an eye on your online transactions for anything unusual
-Additional reporting by Shiona McCallum, Chris Vallance and Alex Emery
-Get in touch
-Have you been affected by this hack?
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
-Related topics
-- Published30 September 2025`,
-    bodyJa: `Asos confirms hackers sent 'unauthorised' notification to app users
-- Published
-Asos says it is investigating "unauthorised activity" involving third-party platforms it uses after customers received a notification from its app sent by hackers.
-Dozens of people told the BBC they received the strange "ASOS HACKED" message from the clothing and beauty store's app on Tuesday morning - with some saying it left them "scared" to open the app.
-The notification was addressed to the company's data protection officer and IT teams in what cyber security experts said looked like a "brazen" extortion attempt.
-Asos acknowledged the "unauthorised customer notification" on Tuesday afternoon, saying some "basic personal information" may have been accessed.
-In an email to customers on Tuesday night, the company apologised and urged customers not to engage with the notification. And it said the website and app are "operating as usual" promising customers they can "shop with confidence" while it investigates the incident.
-The company has not as of yet informed the UK's data watchdog, the Information Commission's Office (ICO), about any breach.
-Exactly how many Asos customers received the notification on Tuesday remains unclear, but Google's Play store says the ASOS app has been downloaded to android devices more than 10 million times.
-The British retailer has a substantial global footprint - serving around 17 million customers each year across more than 150 markets.
-Some Asos app users in Australia, France, Sweden and the Republic of Ireland had also received the notification, according to local reports on Tuesday.
-Hackers seeking to pile pressure on potential victims by informing their customers is rare, as most extortions happen in private, so this incident may go down as a significant moment in cyber-attack history.
-Shares in the company fell by around a tenth on Tuesday.
-Charlotte Wilson, head of enterprise at cyber-security firm Check Point, called it a "deeply serious" and "brazen" attack whereby the hackers had apparently "turned Asos' own app into their ransom note".
-But she told the BBC that Asos customers should not be "scared and frightened" - encouraging those worried to change their passwords, avoid clicking on the notification's link and be cautious about possible scam emails or texts.
-M&S cyber-attack disruption to last until July
-- Published21 May 2025
-Extortion message
-Users of the Asos app appeared to have received the alarming notification at around 10:00 BST on Tuesday.
-Headlined "ASOS HACKED" and addressed to the company's data protection officer and IT teams, it said: "We have fully compromised the Snowflake instance."
-"Engage with us, or we will leak it," it added, before linking to a Telegram channel.
-The message left many ASOS customers confused.
-"At first I thought it was an ad or a fun promotion like 'ASOS HACKED get 50% off everything for a limited time only'," Jodie, an analyst from Edinburgh, told the BBC.
-"Then I read the rest of the message which clearly showed that it wasn't an ad and instead a message to IT."
-"My main concern is that my information, such as bank information, home address, telephone number, has been compromised," said Erin, a student at the University of Sheffield.
-She told the BBC that while her friends have expressed similar concerns about a potential data leak, her sister did not receive the notification on the Asos app.
-"So the question is what is the extent? Are all customers affected even if they didn't get the notification? It's poor from Asos on all fronts."
-Asos said in its statement that it took "immediate action to restrict access to the notification platforms" on Tuesday - adding it was working with specialists within and outside the company, as well as relevant authorities.
-It said it does not believe payment-card information or account passwords were impacted, and that its site and app are "operating as normal".
-"Customer trust is incredibly important to us, and if the situation changes an update will be provided as appropriate," it said.
-The BBC understands the National Cyber Security Centre has offered assistance to Asos.
-Meanwhile Snowflake - whose tools are used by dozens of firms to collect, analyse and store data - told the BBC its investigation was ongoing, but it had so far found "no compromise" of its platform.
-The company's services have, however, been the subject of many high profile data breaches in recent years.
-According to cybersecurity expert Jen Ellis, Snowflake collects data from multiple sources for analysis, and an "enormous" firm like Asos will have lots of data about how people shop globally.
-However Dan Bird, from cybersecurity firm Horizon3, said the message implied the apparent hackers' access had gone beyond the Snowflake database.
-"Sending a push notification to Asos's app users would require access to the company's notification system, which is separate from the Snowflake data platform the attackers claim to have compromised," he said.
-"If both claims hold up, it suggests the attackers got hold of credentials that opened more than one door."
-What can I do to protect myself?
-The company has also shared a statement, external to the London Stock Exchange's Regulatory News Service, which provides updates to investors.
-Cybersecurity experts, including Ellis, have told the BBC those behind those behind this incident are most likely trying to "apply pressure" to Asos to meet their demands, rather than target its customers.
-While those who received this notification will undoubtedly be concerned, it is important to know that it does not mean your phone has been hacked.
-We are still waiting to find out exactly what "basic personal information" may have been impacted in this incident, if any.
-But for now, the advice is:
-Do not click on links in the notification
-Visit Asos's official website directly for updates
-Watch out for emails, texts or calls offering refunds, compensation or help with your account - scammers will exploit this type of incident when they know people are worried
-Try and use different passwords for your online services
-Enable two-step verification on email and banking accounts
-Keep an eye on your online transactions for anything unusual
-Additional reporting by Shiona McCallum, Chris Vallance and Alex Emery
-Get in touch
-Have you been affected by this hack?
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
-Related topics
-- Published30 September 2025`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-06T17:50:19+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/384f/live/df1099d0-c169-11f1-a003-8be783290413.jpg",
-    readTime: 10,
-  },
-  {
-    id: "rebounding-oil-exports-through-strait-of-61d2b264",
-    title: "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
-    titleJa: "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
-    summaryJa: "Nearly 20 commercial ships, mostly tankers, have come under attack over the past month while sailing through the Hormuz choke point.",
-    bodyOriginal: `Iran has stepped up its attacks on tankers transiting the Strait of Hormuz, threatening a fragile rebound of crude oil exports from the Persian Gulf.
-Nearly 20 commercial ships, mostly tankers, have come under attack over the past month while sailing through Hormuz, the Persian Gulf or off the coast of Oman, according to the Joint Maritime Information Center, a group of U.S.-allied militaries that provide security updates to merchant vessels.
-Iran attacked roughly two ships for every 100 vessels that crossed the strait in the third quarter, said Michelle Wiese Bockmann, senior maritime intelligence analyst at Windward, which tracks ships for defense departments and governments.
-Oil flows through Hormuz now depend on a major U.S. military commitment to protect tankers transiting along a southern route along the coast of Oman.
-With the security situation in Hormuz still dangerous, it is unclear how long the rebound in crude exports can be sustained in the absence of a negotiated settlement or capitulation by Tehran.
-Shuttle system
-In many cases, tankers are bringing crude through Hormuz and then transferring the oil onto ships in the Gulf of Oman that haul it to Asia. This shuttle system reduces the exposure to attack from Iran but also requires more vessels to move the oil.
-"Nobody in Washington thinks this is sustainable financially," said Bob McNally, president of Rapidan Energy and a former energy advisor to President George W. Bush, referring to the U.S. military commitment in the Gulf, ship-to-ship transfers and heightened tanker rates. "It's an inefficient way to move commodities, not just oil, out of Hormuz," McNally said.
-Crude oil shipments through Hormuz fluctuate daily, sometimes matching or even exceeding levels before the Iran war, according to data from Kpler, a firm that tracks tankers and global trade flows.
-At other times, exports are lower than volumes seen before the conflict. Shipments averaged about 10.3 million barrels per day for the week ended Saturday, about 23% below a prewar baseline of 13.5 million bpd, according to Kpler data published Monday.
-Windward estimates crude through Hormuz is averaging 9-10 million bpd compared with a prewar baseline of 14.5 million bpd.
-While crude flows are volatile, they have ramped up compared with earlier in the war as the U.S. military has successfully carved out the shipping route along Oman's coast, analysts say.
-High costs
-But shippers are ferrying crude through Hormuz at high cost to the lives of their crews and in freight and insurance rates, Bockmann said. Since July, at least nine sailors have died, 18 injured and three are missing, according to the International Maritime Organization, a United Nations agency.
-"Volumes are getting through but they're getting through at a time of extremely high maritime risk," Bockmann said. As security has deteriorated, the cost of shipping crude from the Persian Gulf to China has skyrocketed to $1 million per day for each tanker.
-"Oil flows have recovered because the market participants have accepted greater operational complexity and higher costs," said Richard Meade, editor in chief of Lloyd's List, a London-based maritime industry trade publication, in a briefing last Thursday.
-But the threat to tankers remains the same, Meade said. Brent oil prices, the international benchmark, are still hovering near $100 per barrel, even as more crude makes it out of Hormuz.
-"If the market believed that this was sustainable, I think you would be seeing much lower prices," McNally at Rapidan said. Prices remain high because "it's still costly to deliver and insure and land crude in consuming regions where benchmark prices are set," he said.
-And while more oil is getting out, freedom of navigation in Hormuz has not been restored, McNally said. Tehran continues to insist that it controls the strait.
-Iran's Revolutionary Guard on Monday hailed down a tanker transiting the strait and ordered the ship to turn around or face attack, according to an incident report from the United Kingdom Maritime Trade Operations Centre. The vessel complied.
-"The oil market is not becoming more secure," Meade said. "It is becoming more efficient at operating under sustained insecurity."`,
-    bodyJa: `Iran has stepped up its attacks on tankers transiting the Strait of Hormuz, threatening a fragile rebound of crude oil exports from the Persian Gulf.
-Nearly 20 commercial ships, mostly tankers, have come under attack over the past month while sailing through Hormuz, the Persian Gulf or off the coast of Oman, according to the Joint Maritime Information Center, a group of U.S.-allied militaries that provide security updates to merchant vessels.
-Iran attacked roughly two ships for every 100 vessels that crossed the strait in the third quarter, said Michelle Wiese Bockmann, senior maritime intelligence analyst at Windward, which tracks ships for defense departments and governments.
-Oil flows through Hormuz now depend on a major U.S. military commitment to protect tankers transiting along a southern route along the coast of Oman.
-With the security situation in Hormuz still dangerous, it is unclear how long the rebound in crude exports can be sustained in the absence of a negotiated settlement or capitulation by Tehran.
-Shuttle system
-In many cases, tankers are bringing crude through Hormuz and then transferring the oil onto ships in the Gulf of Oman that haul it to Asia. This shuttle system reduces the exposure to attack from Iran but also requires more vessels to move the oil.
-"Nobody in Washington thinks this is sustainable financially," said Bob McNally, president of Rapidan Energy and a former energy advisor to President George W. Bush, referring to the U.S. military commitment in the Gulf, ship-to-ship transfers and heightened tanker rates. "It's an inefficient way to move commodities, not just oil, out of Hormuz," McNally said.
-Crude oil shipments through Hormuz fluctuate daily, sometimes matching or even exceeding levels before the Iran war, according to data from Kpler, a firm that tracks tankers and global trade flows.
-At other times, exports are lower than volumes seen before the conflict. Shipments averaged about 10.3 million barrels per day for the week ended Saturday, about 23% below a prewar baseline of 13.5 million bpd, according to Kpler data published Monday.
-Windward estimates crude through Hormuz is averaging 9-10 million bpd compared with a prewar baseline of 14.5 million bpd.
-While crude flows are volatile, they have ramped up compared with earlier in the war as the U.S. military has successfully carved out the shipping route along Oman's coast, analysts say.
-High costs
-But shippers are ferrying crude through Hormuz at high cost to the lives of their crews and in freight and insurance rates, Bockmann said. Since July, at least nine sailors have died, 18 injured and three are missing, according to the International Maritime Organization, a United Nations agency.
-"Volumes are getting through but they're getting through at a time of extremely high maritime risk," Bockmann said. As security has deteriorated, the cost of shipping crude from the Persian Gulf to China has skyrocketed to $1 million per day for each tanker.
-"Oil flows have recovered because the market participants have accepted greater operational complexity and higher costs," said Richard Meade, editor in chief of Lloyd's List, a London-based maritime industry trade publication, in a briefing last Thursday.
-But the threat to tankers remains the same, Meade said. Brent oil prices, the international benchmark, are still hovering near $100 per barrel, even as more crude makes it out of Hormuz.
-"If the market believed that this was sustainable, I think you would be seeing much lower prices," McNally at Rapidan said. Prices remain high because "it's still costly to deliver and insure and land crude in consuming regions where benchmark prices are set," he said.
-And while more oil is getting out, freedom of navigation in Hormuz has not been restored, McNally said. Tehran continues to insist that it controls the strait.
-Iran's Revolutionary Guard on Monday hailed down a tanker transiting the strait and ordered the ship to turn around or face attack, according to an incident report from the United Kingdom Maritime Trade Operations Centre. The vessel complied.
-"The oil market is not becoming more secure," Meade said. "It is becoming more efficient at operating under sustained insecurity."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/06/crude-oil-tanker-strait-hormuz-iran-attack.html",
-    publishedAt: "2026-10-06T16:19:10+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "paramount-takes-over-warner-bros-in-110b-83d01158",
-    title: "Paramount takes over Warner Bros in $110bn Hollywood merger",
-    titleJa: "Paramount takes over Warner Bros in $110bn Hollywood merger",
-    summaryJa: "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
-    bodyOriginal: `Paramount takes over Warner Bros in $110bn Hollywood merger
-- Published
-Paramount Skydance has officially taken over Warner Bros Discovery in a $110bn merger that is set to reshape Hollywood and the media landscape.
-The takeover - merging two of the biggest studios in Los Angeles - comes after months of legal disputes and widespread criticism over feared cuts and consolidation could harm competition and consumers.
-It will alter streaming for millions, usher in a new chapter in the film and TV industry, and leave one of the biggest US news outlets, CNN, in uncertain territory.
-The merger will also bring together a host of entities including HBO, CBS, Nickelodeon, Showtime, Comedy Central, DC Studios and Food Network.
-Paramount will acquire ownership of iconic franchises that include Harry Potter, Game of Thrones, The Lord of the Rings to add to its existing catalogue of hit franchises which includes Indiana Jones, Mission: Impossible and Shrek.
-The newly merged entertainment behemoth will be re-branded under the name Skydance Corporation, the company originally founded by David Ellison before he took over both Paramount and Warner Bros Discover.
-Ellison, chairman and chief executive of Skydance, said the completion of the deal was "historic" for the film industry.
-"From the start, our ambition was to bring these two storied studios together and create a stronger competitor, with the talent, resources, and reach to tell great stories in every genre, on every platform, for audiences everywhere. Now that ambition is a reality," he said.
-Films and streaming prices - how the Warner Bros deal could affect you
-- Published5 hours ago
-Last week, Ellison named the outgoing chief executive of Mattel, Ynon Kreiz, as co-chief executive.
-Kreiz will focus on the company's day-to-day operations, including integrating the newly-combined businesses, while Ellison will focus on strategy and technology.
-Mark Thompson - who once served as director general of the BBC - will continue in his role as chairman and editor-in-chief of CNN Worldwide, while Bari Weiss remains editor-in-chief of CBS News.
-Casey Bloys, who has lead HBO and Max Content, will be the co-chair and chief content officer for direct-to-consumer content.
-Mike Proulx, research director at Forrester Research, said that change "essentially means the HBO leadership team is now in charge of Skydance's combined streaming operation".
-"While that bodes well for the HBO brand, make no mistake, Bloys will be pressured to find and deliver cost efficiencies that could affect content quality," he warned.
-Dan Coatsworth, head of markets at AJ Bell, said the company has high debts at a time when interest rates are high.
-"The combined entity, now called Skydance, needs to cut costs and make bigger profits to be able to get the debt down to more manageable levels," he said.
-"The fact Tom Cruise movie Digger, Warner Bros' last release before the merger, has been a major flop is a reminder of how the film industry is not a guaranteed ticket to riches."
-Rocky path to merger
-While the company said it had received unanimous approval from competition authorities across the world, the long running takeover process has featured controversy since the beginning.
-Netflix initially had a deal to buy part of Warner Bros Discovery, but Paramount Skydance launched a bidding war, leading to the streaming giant walking away.
-Lawyers in about a dozen US states then filed lawsuits - led by California - aiming to block the deal, arguing it would stifle competition, raise consumer prices and cause "substantial" harm to movie theatres, cable distributors and "ultimately, audiences nationwide".
-US states announced a settlement with Paramount and Ellison last month which paved the way for the merger to go ahead.
-As part of the deal, Paramount has agreed to establish a "news editorial independence board" to "ensure independent, objective, fact-based reporting" at CNN and CBS.
-Politics and editorial independence has become an area of concern at CBS since the news broadcaster was taken over in 2025 as part of separate a merger between Skydance Media and Paramount.
-Ellison, who hosted a dinner for President Donald Trump earlier this year, has sought to reassure people that editorial independence will be maintained.
-Over its 103-year-old history, Warner Bros has won more than 100 Academy Awards - including dominating at last year's show with a record-tying 11 Oscars for One Battle After Another, Sinners and Weapons.
-Paramount traces its roots back 1912 and also boasts more than 100 Oscars for classics spanning from The Godfather to Titanic, though the studio has not mirrored the same recent spate of Hollywood honours.
-The studio was not nominated for any projects last year by the Academy. Its last win came in 2022 with Top Gun: Maverick.
-The deal with US states aims to ensure the merged studios will produce "real, robust movies" that will generate economic activity and put people back to work, said California Attorney General Rob Bonta, who led the lawsuit and settlement.
-To prevent the studio from fulfilling its annual quota with low-budget or automated content, the deal includes strict guardrails against "AI-generated" films.
-As part of the agreement, Paramount must release at least 30 films each year. If it fails to meet its annual production quota, it will be forced to sell its 49% stake in Miramax, the film company founded by disgraced Hollywood mogul Harvey Weinstein and his brother Bob.
-Paramount also must ensure 20% of all film production takes place in the US for the first two years, rising to more than 30% through the following three years.
-Get in touch
-Are you affected by issues covered in this story? Share your experiences.`,
-    bodyJa: `Paramount takes over Warner Bros in $110bn Hollywood merger
-- Published
-Paramount Skydance has officially taken over Warner Bros Discovery in a $110bn merger that is set to reshape Hollywood and the media landscape.
-The takeover - merging two of the biggest studios in Los Angeles - comes after months of legal disputes and widespread criticism over feared cuts and consolidation could harm competition and consumers.
-It will alter streaming for millions, usher in a new chapter in the film and TV industry, and leave one of the biggest US news outlets, CNN, in uncertain territory.
-The merger will also bring together a host of entities including HBO, CBS, Nickelodeon, Showtime, Comedy Central, DC Studios and Food Network.
-Paramount will acquire ownership of iconic franchises that include Harry Potter, Game of Thrones, The Lord of the Rings to add to its existing catalogue of hit franchises which includes Indiana Jones, Mission: Impossible and Shrek.
-The newly merged entertainment behemoth will be re-branded under the name Skydance Corporation, the company originally founded by David Ellison before he took over both Paramount and Warner Bros Discover.
-Ellison, chairman and chief executive of Skydance, said the completion of the deal was "historic" for the film industry.
-"From the start, our ambition was to bring these two storied studios together and create a stronger competitor, with the talent, resources, and reach to tell great stories in every genre, on every platform, for audiences everywhere. Now that ambition is a reality," he said.
-Films and streaming prices - how the Warner Bros deal could affect you
-- Published5 hours ago
-Last week, Ellison named the outgoing chief executive of Mattel, Ynon Kreiz, as co-chief executive.
-Kreiz will focus on the company's day-to-day operations, including integrating the newly-combined businesses, while Ellison will focus on strategy and technology.
-Mark Thompson - who once served as director general of the BBC - will continue in his role as chairman and editor-in-chief of CNN Worldwide, while Bari Weiss remains editor-in-chief of CBS News.
-Casey Bloys, who has lead HBO and Max Content, will be the co-chair and chief content officer for direct-to-consumer content.
-Mike Proulx, research director at Forrester Research, said that change "essentially means the HBO leadership team is now in charge of Skydance's combined streaming operation".
-"While that bodes well for the HBO brand, make no mistake, Bloys will be pressured to find and deliver cost efficiencies that could affect content quality," he warned.
-Dan Coatsworth, head of markets at AJ Bell, said the company has high debts at a time when interest rates are high.
-"The combined entity, now called Skydance, needs to cut costs and make bigger profits to be able to get the debt down to more manageable levels," he said.
-"The fact Tom Cruise movie Digger, Warner Bros' last release before the merger, has been a major flop is a reminder of how the film industry is not a guaranteed ticket to riches."
-Rocky path to merger
-While the company said it had received unanimous approval from competition authorities across the world, the long running takeover process has featured controversy since the beginning.
-Netflix initially had a deal to buy part of Warner Bros Discovery, but Paramount Skydance launched a bidding war, leading to the streaming giant walking away.
-Lawyers in about a dozen US states then filed lawsuits - led by California - aiming to block the deal, arguing it would stifle competition, raise consumer prices and cause "substantial" harm to movie theatres, cable distributors and "ultimately, audiences nationwide".
-US states announced a settlement with Paramount and Ellison last month which paved the way for the merger to go ahead.
-As part of the deal, Paramount has agreed to establish a "news editorial independence board" to "ensure independent, objective, fact-based reporting" at CNN and CBS.
-Politics and editorial independence has become an area of concern at CBS since the news broadcaster was taken over in 2025 as part of separate a merger between Skydance Media and Paramount.
-Ellison, who hosted a dinner for President Donald Trump earlier this year, has sought to reassure people that editorial independence will be maintained.
-Over its 103-year-old history, Warner Bros has won more than 100 Academy Awards - including dominating at last year's show with a record-tying 11 Oscars for One Battle After Another, Sinners and Weapons.
-Paramount traces its roots back 1912 and also boasts more than 100 Oscars for classics spanning from The Godfather to Titanic, though the studio has not mirrored the same recent spate of Hollywood honours.
-The studio was not nominated for any projects last year by the Academy. Its last win came in 2022 with Top Gun: Maverick.
-The deal with US states aims to ensure the merged studios will produce "real, robust movies" that will generate economic activity and put people back to work, said California Attorney General Rob Bonta, who led the lawsuit and settlement.
-To prevent the studio from fulfilling its annual quota with low-budget or automated content, the deal includes strict guardrails against "AI-generated" films.
-As part of the agreement, Paramount must release at least 30 films each year. If it fails to meet its annual production quota, it will be forced to sell its 49% stake in Miramax, the film company founded by disgraced Hollywood mogul Harvey Weinstein and his brother Bob.
-Paramount also must ensure 20% of all film production takes place in the US for the first two years, rising to more than 30% through the following three years.
-Get in touch
-Are you affected by issues covered in this story? Share your experiences.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-06T16:01:11+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e88/live/f4495f40-c136-11f1-bcd8-493e192378a4.jpg",
-    readTime: 10,
-  },
-  {
-    id: "trade-deficit-hits-105-6-billion-widest-4c5b02eb",
-    title: "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
-    titleJa: "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
-    summaryJa: "That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
-    bodyOriginal: `The U.S. trade deficit widened sharply in August amid an influx of goods related to the artificial intelligence build-out and the vagaries of import tariffs, the Commerce Department reported Tuesday.
-Imports swelled 4.3% for the month, pushing the total imbalance to $105.6 billion. That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.
-It also was the steepest deficit since the all-time gap in March 2025, recorded just before President Donald Trump's "liberation day" announcement of "reciprocal" tariffs against U.S. trading partners.
-Though the monthly total was up, the year-to-date deficit of $138.2 billion was off nearly 20% from the same period a year ago.
-"Rising prices overstate the moves, but nonetheless net trade is set to drag on Q3 GDP growth," said Oren Klachkin, financial economist at Nationwide. "We see this as a sign of strong domestic demand, not economic weakness."
-Imports as a rule generally subtract from gross domestic product calculations. However, if the imports reflect stronger demand and consumption, they can be offset elsewhere.
-Nevertheless, Goldman Sachs cut its tracking estimate for third-quarter economic growth to 3.1%, down 0.3 percentage point from its prior estimate. The Atlanta Federal Reserve's GDPNow tracker lowered its estimate to 3.7% following the trade report, down 0.1 percentage point from the last update.`,
-    bodyJa: `The U.S. trade deficit widened sharply in August amid an influx of goods related to the artificial intelligence build-out and the vagaries of import tariffs, the Commerce Department reported Tuesday.
-Imports swelled 4.3% for the month, pushing the total imbalance to $105.6 billion. That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.
-It also was the steepest deficit since the all-time gap in March 2025, recorded just before President Donald Trump's "liberation day" announcement of "reciprocal" tariffs against U.S. trading partners.
-Though the monthly total was up, the year-to-date deficit of $138.2 billion was off nearly 20% from the same period a year ago.
-"Rising prices overstate the moves, but nonetheless net trade is set to drag on Q3 GDP growth," said Oren Klachkin, financial economist at Nationwide. "We see this as a sign of strong domestic demand, not economic weakness."
-Imports as a rule generally subtract from gross domestic product calculations. However, if the imports reflect stronger demand and consumption, they can be offset elsewhere.
-Nevertheless, Goldman Sachs cut its tracking estimate for third-quarter economic growth to 3.1%, down 0.3 percentage point from its prior estimate. The Atlanta Federal Reserve's GDPNow tracker lowered its estimate to 3.7% following the trade report, down 0.1 percentage point from the last update.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
-    publishedAt: "2026-10-06T15:52:22+00:00",
-    category: "貿易",
-    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "nhs-supply-lorry-drivers-to-strike-in-pa-0792d123",
-    title: "NHS supply lorry drivers to strike in pay dispute",
-    titleJa: "NHS supply lorry drivers to strike in pay dispute",
-    summaryJa: "Drivers who deliver medical equipment to hospitals across England reject a 4% pay increase.",
-    bodyOriginal: `NHS supply lorry drivers to strike in pay dispute
-- Published
-NHS supply lorry drivers are set for a series of strikes in a dispute over pay.
-Drivers employed by GXO in Tyne and Wear, Derbyshire, Yorkshire, Kent, Warwickshire and Suffolk will stage five walkouts from October 13-15, 20-22, 27-29 and November 3-5 and 10-12, Unite said.
-Union members have rejected a 4% pay offer from GXO, which runs the NHS supply chain contract for Supply Chain Coordination Limited (SCCL), and is wholly owned by NHS England.
-Unite regional officer Phil Silkstone said: "There is still time for strike action to be avoided but that will require a deal our members can accept." NHS Supply Chain and GXO said they had "robust contingency plans" in place to minimise disruption.
-Drivers deliver general equipment such as bandages, dressings, gowns, gloves and needles to hospitals across England.
-Silkstone described them as "dedicated workers" and said GXO had refused to put forward a reasonable offer.
-NHS Supply Chain and GXO said they were aware Unite members had voted in favour of industrial action. GXO said it believed the 4% pay offer was fair.
-A spokesperson for GXO said: "Patient care remains of paramount importance, and we remain focused on providing a safe and effective operation throughout this period."
-Depots where strike action is due to take place are in Alfreton in Derbyshire, Bridgwater in Somerset, Normanton in West Yorkshire, Maidstone in Kent, Rugby in Warwickshire, Bury St Edmonds in Suffolk and Washington in Tyne and Wear.
-Follow BBC Sunderland on X, external, Facebook, external, Nextdoor and Instagram, external and listen on BBC Sounds.
-Get in touch
-Do you have a story suggestion for BBC Wear?
-Related stories
-- Published6 July
-- Published29 June`,
-    bodyJa: `NHS supply lorry drivers to strike in pay dispute
-- Published
-NHS supply lorry drivers are set for a series of strikes in a dispute over pay.
-Drivers employed by GXO in Tyne and Wear, Derbyshire, Yorkshire, Kent, Warwickshire and Suffolk will stage five walkouts from October 13-15, 20-22, 27-29 and November 3-5 and 10-12, Unite said.
-Union members have rejected a 4% pay offer from GXO, which runs the NHS supply chain contract for Supply Chain Coordination Limited (SCCL), and is wholly owned by NHS England.
-Unite regional officer Phil Silkstone said: "There is still time for strike action to be avoided but that will require a deal our members can accept." NHS Supply Chain and GXO said they had "robust contingency plans" in place to minimise disruption.
-Drivers deliver general equipment such as bandages, dressings, gowns, gloves and needles to hospitals across England.
-Silkstone described them as "dedicated workers" and said GXO had refused to put forward a reasonable offer.
-NHS Supply Chain and GXO said they were aware Unite members had voted in favour of industrial action. GXO said it believed the 4% pay offer was fair.
-A spokesperson for GXO said: "Patient care remains of paramount importance, and we remain focused on providing a safe and effective operation throughout this period."
-Depots where strike action is due to take place are in Alfreton in Derbyshire, Bridgwater in Somerset, Normanton in West Yorkshire, Maidstone in Kent, Rugby in Warwickshire, Bury St Edmonds in Suffolk and Washington in Tyne and Wear.
-Follow BBC Sunderland on X, external, Facebook, external, Nextdoor and Instagram, external and listen on BBC Sounds.
-Get in touch
-Do you have a story suggestion for BBC Wear?
-Related stories
-- Published6 July
-- Published29 June`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ckqxnwev78dro?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-06T13:43:15+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ea/live/34138a30-c17b-11f1-9d3f-57ff54fad936.jpg",
-    readTime: 4,
-  },
-  {
-    id: "from-films-to-streaming-prices-how-the-w-e06f4f9a",
-    title: "From films to streaming prices - how the Warner Bros deal could affect you",
-    titleJa: "From films to streaming prices - how the Warner Bros deal could affect you",
-    summaryJa: "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
-    bodyOriginal: `From films to streaming prices - how the Warner Bros deal could affect you
-- Published
-It has been months in the making but Paramount Skydance has finally completed its $110bn (£82.8bn) merger with Warner Bros Discovery.
-The deal welds two legacy Hollywood powerhouses, uniting franchises like Harry Potter and Game of Thrones, into an entertainment behemoth named Skydance.
-Yet behind this milestone lies strict rules about what the combined business can and cannot do - from how many films it must produce a year to the editorial independence of its newsroom.
-Here are four ways this could affect you and the movies, TV and news you watch.
-1. Streaming prices may rise
-Warner Bros owns HBO Max, home to The Sopranos, House of the Dragon and Euphoria among others. Meanwhile, Paramount Skydance has Paramount+, which streams the likes of Yellowstone, Parks and Recreation and NCIS.
-Combining HBO Max and Paramount+ into a single platform or bundle will likely squeeze subscribers' wallets over time.
-While existing subscribers to both might enjoy short-term savings, analysts expect overall prices to rise as the combined giant seeks profitability.
-The merged company, Skydance, carries a massive $80bn in debt from the deal, even as executives target $6bn in annual cost savings.
-Mike Proulx, research director at Forrester Research, said viewers will undoubtedly get access to a bigger catalog.
-But he told the BBC: "There's no way that a combined Paramount+ and HBO Max streaming service won't end up costing more for those who subscribe to only one of the services."
-2. More film releases
-As part of a settlement deal with US states who had objected to the merger, Paramount Skydance has agreed to release a set number of films every year for the next five years.
-For the first two years, that's 30 movies annually, and for the remaining period it has to release 32 films each year.
-That's 156 movies in total - and the majority have to be "wide releases," meaning they must to be shown in cinemas.
-The merged studio must also release at least four independent films each year.
-If Skydance misses its movie quota, it could be forced to sell its 49% stake in Miramax – the studio co-founded by disgraced Hollywood mogul Harvey Weinstein.
-Breanne Gilliam, a corporate lawyer at Maddin Hauser, said the film commitment is meaningful, even if it comes with an expiration date.
-"Once those obligations expire, the company will have far more flexibility," she said.
-"Temporary rules cannot permanently fix a structural market shift".
-Once the five-year deal ends, Skydance could follow rivals like Disney and Netflix by prioritizing streaming over cinema.
-As Disney's $71bn buyout of 21st Century Fox in 2019 proved, mega-deals can lead to fewer films in cinemas.
-Before the acquisition, 20th Century Fox routinely released 12 to 17 movies annually in theatres, but under Disney that slate scaled down to just three to six a year.
-3. Hollywood jobs could be hit
-For those working behind the scenes, the merger of two historic studios has been described as a "disaster" by those on the ground.
-Actors and writers recently gathered at Paramount Studios in Los Angeles to oppose the deal, accusing regulators of failing to protect industry livelihoods.
-Criminal Minds star Kirsten Vangsness told the BBC she was "heartbroken".
-"It's people that make this city," she said. "It's people that make entertainment, it's the everyday creatives that this industry is built on - this is who it hurts."
-A report by consultancy CVL Economics for LA County estimated the merger could eliminate roughly 4,500 direct film and TV jobs, while causing $1.26bn in lost wages over three years.
-The blow could hit a region that has already lost roughly a third of its film and TV workforce, about 50,000 jobs, since 2022.
-Syleecia Thompson, a business professor at National University, said that "it hits small businesses, vendors, caterers and local communities".
-She warned that Hollywood may become less of a "single location" and more of a "dispersed network."
-Although the settlement establishes a workforce fund to retrain displaced workers, lawyers note it does not block job cuts.
-"Nothing in the settlement limits layoffs," attorney Gilliam added.
-4. CNN and CBS could change
-To address concerns over journalistic independence at CNN and CBS, the settlement creates a news editorial independence board that will be appointed directly by Paramount.
-The $110bn deal brings two major US television news operations under a single corporate roof. Before the deal, Paramount owned CBS News, and Warner Bros. owned CNN.
-Both networks have faced intense political pressure - CNN was one of a handful of news organisations banned from the White House by President Donald Trump - as well as leadership shifts amid broader industry consolidation.
-Paramount chief executive David Ellison has asked CNN boss Mark Thompson - the former director general of the BBC - to remain at the helm after the takeover closes. CBS News's editor-in-chief Bari Weiss will remain in her role.
-Yet as Paramount targets billions in cost cuts across the merged company, staff fear the consolidation will trigger significant job losses at CNN and CBS.
-Beyond potential workforce reductions, media advocates and legal experts remain deeply skeptical about whether it can ensure newsroom freedom.
-Seth Stern, chief of advocacy at Freedom of the Press Foundation, described the Paramount-appointed board as "worthless".
-"The board creates the same First Amendment problems it claims to solve, the government meddling in news," Stern said.
-Gilliam agrees paper promises mean little without real authority. "An oversight board only has as much power as the agreement gives it. Oversight without authority is just observation," she said.
-Get in touch
-Are you affected by issues covered in this story? Share your experiences.`,
-    bodyJa: `From films to streaming prices - how the Warner Bros deal could affect you
-- Published
-It has been months in the making but Paramount Skydance has finally completed its $110bn (£82.8bn) merger with Warner Bros Discovery.
-The deal welds two legacy Hollywood powerhouses, uniting franchises like Harry Potter and Game of Thrones, into an entertainment behemoth named Skydance.
-Yet behind this milestone lies strict rules about what the combined business can and cannot do - from how many films it must produce a year to the editorial independence of its newsroom.
-Here are four ways this could affect you and the movies, TV and news you watch.
-1. Streaming prices may rise
-Warner Bros owns HBO Max, home to The Sopranos, House of the Dragon and Euphoria among others. Meanwhile, Paramount Skydance has Paramount+, which streams the likes of Yellowstone, Parks and Recreation and NCIS.
-Combining HBO Max and Paramount+ into a single platform or bundle will likely squeeze subscribers' wallets over time.
-While existing subscribers to both might enjoy short-term savings, analysts expect overall prices to rise as the combined giant seeks profitability.
-The merged company, Skydance, carries a massive $80bn in debt from the deal, even as executives target $6bn in annual cost savings.
-Mike Proulx, research director at Forrester Research, said viewers will undoubtedly get access to a bigger catalog.
-But he told the BBC: "There's no way that a combined Paramount+ and HBO Max streaming service won't end up costing more for those who subscribe to only one of the services."
-2. More film releases
-As part of a settlement deal with US states who had objected to the merger, Paramount Skydance has agreed to release a set number of films every year for the next five years.
-For the first two years, that's 30 movies annually, and for the remaining period it has to release 32 films each year.
-That's 156 movies in total - and the majority have to be "wide releases," meaning they must to be shown in cinemas.
-The merged studio must also release at least four independent films each year.
-If Skydance misses its movie quota, it could be forced to sell its 49% stake in Miramax – the studio co-founded by disgraced Hollywood mogul Harvey Weinstein.
-Breanne Gilliam, a corporate lawyer at Maddin Hauser, said the film commitment is meaningful, even if it comes with an expiration date.
-"Once those obligations expire, the company will have far more flexibility," she said.
-"Temporary rules cannot permanently fix a structural market shift".
-Once the five-year deal ends, Skydance could follow rivals like Disney and Netflix by prioritizing streaming over cinema.
-As Disney's $71bn buyout of 21st Century Fox in 2019 proved, mega-deals can lead to fewer films in cinemas.
-Before the acquisition, 20th Century Fox routinely released 12 to 17 movies annually in theatres, but under Disney that slate scaled down to just three to six a year.
-3. Hollywood jobs could be hit
-For those working behind the scenes, the merger of two historic studios has been described as a "disaster" by those on the ground.
-Actors and writers recently gathered at Paramount Studios in Los Angeles to oppose the deal, accusing regulators of failing to protect industry livelihoods.
-Criminal Minds star Kirsten Vangsness told the BBC she was "heartbroken".
-"It's people that make this city," she said. "It's people that make entertainment, it's the everyday creatives that this industry is built on - this is who it hurts."
-A report by consultancy CVL Economics for LA County estimated the merger could eliminate roughly 4,500 direct film and TV jobs, while causing $1.26bn in lost wages over three years.
-The blow could hit a region that has already lost roughly a third of its film and TV workforce, about 50,000 jobs, since 2022.
-Syleecia Thompson, a business professor at National University, said that "it hits small businesses, vendors, caterers and local communities".
-She warned that Hollywood may become less of a "single location" and more of a "dispersed network."
-Although the settlement establishes a workforce fund to retrain displaced workers, lawyers note it does not block job cuts.
-"Nothing in the settlement limits layoffs," attorney Gilliam added.
-4. CNN and CBS could change
-To address concerns over journalistic independence at CNN and CBS, the settlement creates a news editorial independence board that will be appointed directly by Paramount.
-The $110bn deal brings two major US television news operations under a single corporate roof. Before the deal, Paramount owned CBS News, and Warner Bros. owned CNN.
-Both networks have faced intense political pressure - CNN was one of a handful of news organisations banned from the White House by President Donald Trump - as well as leadership shifts amid broader industry consolidation.
-Paramount chief executive David Ellison has asked CNN boss Mark Thompson - the former director general of the BBC - to remain at the helm after the takeover closes. CBS News's editor-in-chief Bari Weiss will remain in her role.
-Yet as Paramount targets billions in cost cuts across the merged company, staff fear the consolidation will trigger significant job losses at CNN and CBS.
-Beyond potential workforce reductions, media advocates and legal experts remain deeply skeptical about whether it can ensure newsroom freedom.
-Seth Stern, chief of advocacy at Freedom of the Press Foundation, described the Paramount-appointed board as "worthless".
-"The board creates the same First Amendment problems it claims to solve, the government meddling in news," Stern said.
-Gilliam agrees paper promises mean little without real authority. "An oversight board only has as much power as the agreement gives it. Oversight without authority is just observation," she said.
-Get in touch
-Are you affected by issues covered in this story? Share your experiences.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-06T13:00:54+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed6f/live/020cc800-c1a6-11f1-bc2e-018d645d8d21.jpg",
-    readTime: 10,
-  },
-  {
-    id: "lego-fraudster-among-last-year-s-most-hi-d293c116",
-    title: "Lego fraudster among last year's most high-profile insurance scammers",
-    titleJa: "Lego fraudster among last year's most high-profile insurance scammers",
-    summaryJa: "The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said.",
-    bodyOriginal: `Lego fraudster among last year's most high-profile insurance scammers
-- Published
-A scammer jailed for making false home insurance claims about supposedly stolen Lego has been listed as one of last year's most high-profile insurance fraudsters.
-The person was sentenced to 28 months in prison after an investigation found the claims were made up, insurance trade body the ABI said.
-Other insurance fraud cases flagged by the ABI include someone who staged car crashes with people they met online and a complex travel insurance scam involving multiple fake identities and documents.
-The average value of a fraudulent claim reached £14,300 last year, the second-highest level on record, the ABI said.
-There were £1.34bn worth of fraudulent claims in 2025, a 14% increase on the £1.18bn detected the previous year.
-At the same time, the number of detected fraudulent claims fell slightly to 93,900, down 2.7% on 2024.
-Mark Allen, head of fraud and financial crime at the ABI, said: "Although the rate of detected insurance fraud fell slightly last year, our data shows that fraudsters are targeting much bigger payouts.
-"As emerging technologies such as AI become more widely available, fraudsters will continue to look for new ways to exploit them."
-Det Ch Insp Simon Klust, head of the Insurance Fraud Enforcement Department (IFED) at the City of London Police, said: "Insurance fraud is not a victimless crime and those who commit it increase the cost of premiums for honest customers."
-He added that the 250 cases a day detected by the ABI last year were "unfortunately likely to be just the tip of the iceberg".
-Macbooks, fishing equipment and Lego sets
-One of the most notable fraudsters identified by the ABI last year was a man found by IFED to have fabricated reports of stolen high-value Lego sets, external.
-The man's scam claims to Axa Insurance during 2021 and 2022 also included other high-value items such as MacBooks, televisions, gaming consoles and fishing equipment, IFED said.
-In 2023, IFED said it found collectible Lego sets matching the ones claimed to have been stolen displayed in the man's living room during a search.
-Alongside his prison sentence handed down last year, he was also ordered to repay the £14,000 he had claimed.
-Other cases highlighted by the ABI included a man jailed for 20 months for manipulating women he met on dating sites into participating in staged car crashes, and a man sentenced to four and a half years for submitting over £300,000 worth of fraudulent travel medical emergency claims.
-In general, the ABI said motor insurance remained the area where insurers identified the most fraudulent cases, accounting for 55% of all scam claims.
-Meanwhile, the ABI's figures found that exaggerated loss remains the most common type of insurance fraud, with 26,900 cases identified.
-This is when someone deliberately attempts to increase the cost of a claim beyond its true value, the ABI said.
-Related topics
-- Published15 May`,
-    bodyJa: `Lego fraudster among last year's most high-profile insurance scammers
-- Published
-A scammer jailed for making false home insurance claims about supposedly stolen Lego has been listed as one of last year's most high-profile insurance fraudsters.
-The person was sentenced to 28 months in prison after an investigation found the claims were made up, insurance trade body the ABI said.
-Other insurance fraud cases flagged by the ABI include someone who staged car crashes with people they met online and a complex travel insurance scam involving multiple fake identities and documents.
-The average value of a fraudulent claim reached £14,300 last year, the second-highest level on record, the ABI said.
-There were £1.34bn worth of fraudulent claims in 2025, a 14% increase on the £1.18bn detected the previous year.
-At the same time, the number of detected fraudulent claims fell slightly to 93,900, down 2.7% on 2024.
-Mark Allen, head of fraud and financial crime at the ABI, said: "Although the rate of detected insurance fraud fell slightly last year, our data shows that fraudsters are targeting much bigger payouts.
-"As emerging technologies such as AI become more widely available, fraudsters will continue to look for new ways to exploit them."
-Det Ch Insp Simon Klust, head of the Insurance Fraud Enforcement Department (IFED) at the City of London Police, said: "Insurance fraud is not a victimless crime and those who commit it increase the cost of premiums for honest customers."
-He added that the 250 cases a day detected by the ABI last year were "unfortunately likely to be just the tip of the iceberg".
-Macbooks, fishing equipment and Lego sets
-One of the most notable fraudsters identified by the ABI last year was a man found by IFED to have fabricated reports of stolen high-value Lego sets, external.
-The man's scam claims to Axa Insurance during 2021 and 2022 also included other high-value items such as MacBooks, televisions, gaming consoles and fishing equipment, IFED said.
-In 2023, IFED said it found collectible Lego sets matching the ones claimed to have been stolen displayed in the man's living room during a search.
-Alongside his prison sentence handed down last year, he was also ordered to repay the £14,000 he had claimed.
-Other cases highlighted by the ABI included a man jailed for 20 months for manipulating women he met on dating sites into participating in staged car crashes, and a man sentenced to four and a half years for submitting over £300,000 worth of fraudulent travel medical emergency claims.
-In general, the ABI said motor insurance remained the area where insurers identified the most fraudulent cases, accounting for 55% of all scam claims.
-Meanwhile, the ABI's figures found that exaggerated loss remains the most common type of insurance fraud, with 26,900 cases identified.
-This is when someone deliberately attempts to increase the cost of a claim beyond its true value, the ABI said.
-Related topics
-- Published15 May`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-06T07:03:35+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e41/live/98c51960-c0ba-11f1-9475-67b7bb314be1.jpg",
-    readTime: 7,
   },
 ];
 
