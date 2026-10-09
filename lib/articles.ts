@@ -15,6 +15,430 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "trump-announces-deal-for-russian-diesel-ccd45bdc",
+    title: "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+    titleJa: "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+    summaryJa: "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+    bodyOriginal: `Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
+- Published
+US President Donald Trump says he has reached an agreement with Russian President Vladimir Putin allowing Moscow to "immediately release" diesel to the US and globally.
+Trump said the proposed release of hundreds of thousands of tonnes of Russian diesel, in tranches, would see prices "COMING DOWN, IN RECORD NUMBERS, AND FAST!".
+It is understood the US Treasury is suspending sanctions on Russian diesel exports until 7 April 2027 as part of the deal, but other assets like those in American banks are still frozen.
+Ukraine's president criticised the decision, saying any easing of sanctions on Russia played into Moscow's hands and would prolong the war between the two countries.
+Trump said Putin had agreed to release 300,000 tonnes of diesel immediately, followed by 500,000 tonnes in November and another million after that.
+He added that a further three million tonnes of Russian diesel would be delivered "within a short period" after, dependent on the condition of its refineries, which have seen attacks by Ukraine.
+Putin later said Russia was willing to supply both the US and global markets with oil and petroleum products, but his statement did not specify amounts.
+The BBC has asked the White House for clarity on what Russia will get from the US in return for the commitment.
+Friday's announcement is the latest effort from Trump to lower fuel prices in the US, as he has spent months grappling with the political consequences of the Iran war, which began in February, and its impact on global energy prices.
+That conflict has sent the cost of petrol and, in particular diesel, skyrocketing in America in recent months, which has soured his standing with the public who have been stung by the higher pump prices and knock-on effects that led to across-the board inflation.
+The average diesel price in the US is currently $6.28 (£4.74) a gallon, according to the AAA, down from the record high of $6.53 recorded at the end of September.
+Shortly after Trump's announcement, the US Treasury formally issued a temporary licence allowing Russian diesel into the market.
+Putin said in a statement that he had spoken to Trump about the global energy situation on Friday, adding: "The Russian side confirmed its willingness to supply oil and petroleum products to the US market and global markets at large."
+An envoy for Putin, Kirill Dmitriev, welcomed the deal on social media, saying: "Russia-US co-operation on diesel and energy will benefit the world."
+But Zelensky hit out at it, saying "gifts to Putin will not work for peace" and that Russia would repay the diesel with "further terror".
+"Allowing Russia to sell petroleum products is an investment in a war that must be ended, not prolonged," he wrote on social media.
+Russia has this year experienced two waves of severe fuel shortages across the country as a result of Ukrainian drone strikes on Russian oil refineries, and introduced a ban on diesel exports.
+According to the International Energy Agency, its diesel production is estimated to have fallen by nearly 30%.
+Trump has expressed his displeasure over those attacks, blaming them for rising fuel prices.
+But Zelensky defended the strikes on Friday, saying there were in response to "Russia's years-long campaign of terror against Ukraine's energy sector".
+"Ukraine will not set Russian oil refineries on fire if Russia does not destroy our energy infrastructure," he said.
+Trump wants to reduce the cost of fuel as the midterms loom - will it work?
+- Published2 hours ago
+Trump's Truth Social posts often provide incomplete information and the details of exactly how Russia is supplying this fuel to the global market, and what they might get for in return is unclear.
+But the announced deal represents a remarkable about-face, as the US Congress recently enacted legislation - signed by the president - to authorise new American sanctions and tariffs on nations that import Russian oil and gas.
+The agreement with Russia also opens Trump up to criticism from European allies and pro-Ukraine politicians in the US, that the American president is now helping to fund Moscow's war machine.
+What impact the deal with Russia will have on fuel prices also remains unclear. The global benchmark for crude oil, Brent, remains above $103 a barrel. Before the war with Iran, Brent crude was trading at about $73 a barrel.
+With the looming US midterm congressional elections - which will determine if Republicans maintain control of Congress - Trump has been searching for ways to ease his Republican party's political pain.
+Earlier this week, he said he was "thinking about" suspending the federal tax on gasoline and also announced that he would allow so-called red dye diesel to be used on US highways without facing federal tax.
+Trump has also successfully pressured G7 nations into releasing 100 million barrels of oil and diesel from stockpiles to help ease supply concerns, and previously supported calls for a ban on diesel exports from the US.`,
+    bodyJa: `Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
+- Published
+US President Donald Trump says he has reached an agreement with Russian President Vladimir Putin allowing Moscow to "immediately release" diesel to the US and globally.
+Trump said the proposed release of hundreds of thousands of tonnes of Russian diesel, in tranches, would see prices "COMING DOWN, IN RECORD NUMBERS, AND FAST!".
+It is understood the US Treasury is suspending sanctions on Russian diesel exports until 7 April 2027 as part of the deal, but other assets like those in American banks are still frozen.
+Ukraine's president criticised the decision, saying any easing of sanctions on Russia played into Moscow's hands and would prolong the war between the two countries.
+Trump said Putin had agreed to release 300,000 tonnes of diesel immediately, followed by 500,000 tonnes in November and another million after that.
+He added that a further three million tonnes of Russian diesel would be delivered "within a short period" after, dependent on the condition of its refineries, which have seen attacks by Ukraine.
+Putin later said Russia was willing to supply both the US and global markets with oil and petroleum products, but his statement did not specify amounts.
+The BBC has asked the White House for clarity on what Russia will get from the US in return for the commitment.
+Friday's announcement is the latest effort from Trump to lower fuel prices in the US, as he has spent months grappling with the political consequences of the Iran war, which began in February, and its impact on global energy prices.
+That conflict has sent the cost of petrol and, in particular diesel, skyrocketing in America in recent months, which has soured his standing with the public who have been stung by the higher pump prices and knock-on effects that led to across-the board inflation.
+The average diesel price in the US is currently $6.28 (£4.74) a gallon, according to the AAA, down from the record high of $6.53 recorded at the end of September.
+Shortly after Trump's announcement, the US Treasury formally issued a temporary licence allowing Russian diesel into the market.
+Putin said in a statement that he had spoken to Trump about the global energy situation on Friday, adding: "The Russian side confirmed its willingness to supply oil and petroleum products to the US market and global markets at large."
+An envoy for Putin, Kirill Dmitriev, welcomed the deal on social media, saying: "Russia-US co-operation on diesel and energy will benefit the world."
+But Zelensky hit out at it, saying "gifts to Putin will not work for peace" and that Russia would repay the diesel with "further terror".
+"Allowing Russia to sell petroleum products is an investment in a war that must be ended, not prolonged," he wrote on social media.
+Russia has this year experienced two waves of severe fuel shortages across the country as a result of Ukrainian drone strikes on Russian oil refineries, and introduced a ban on diesel exports.
+According to the International Energy Agency, its diesel production is estimated to have fallen by nearly 30%.
+Trump has expressed his displeasure over those attacks, blaming them for rising fuel prices.
+But Zelensky defended the strikes on Friday, saying there were in response to "Russia's years-long campaign of terror against Ukraine's energy sector".
+"Ukraine will not set Russian oil refineries on fire if Russia does not destroy our energy infrastructure," he said.
+Trump wants to reduce the cost of fuel as the midterms loom - will it work?
+- Published2 hours ago
+Trump's Truth Social posts often provide incomplete information and the details of exactly how Russia is supplying this fuel to the global market, and what they might get for in return is unclear.
+But the announced deal represents a remarkable about-face, as the US Congress recently enacted legislation - signed by the president - to authorise new American sanctions and tariffs on nations that import Russian oil and gas.
+The agreement with Russia also opens Trump up to criticism from European allies and pro-Ukraine politicians in the US, that the American president is now helping to fund Moscow's war machine.
+What impact the deal with Russia will have on fuel prices also remains unclear. The global benchmark for crude oil, Brent, remains above $103 a barrel. Before the war with Iran, Brent crude was trading at about $73 a barrel.
+With the looming US midterm congressional elections - which will determine if Republicans maintain control of Congress - Trump has been searching for ways to ease his Republican party's political pain.
+Earlier this week, he said he was "thinking about" suspending the federal tax on gasoline and also announced that he would allow so-called red dye diesel to be used on US highways without facing federal tax.
+Trump has also successfully pressured G7 nations into releasing 100 million barrels of oil and diesel from stockpiles to help ease supply concerns, and previously supported calls for a ban on diesel exports from the US.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-09T21:54:28+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61b/live/93d8fbd0-c41e-11f1-a175-8928617a734f.jpg",
+    readTime: 10,
+  },
+  {
+    id: "junk-bonds-are-flashing-yellow-watch-the-766c6c8c",
+    title: "Junk bonds are 'flashing yellow.' Watch these warning signs",
+    titleJa: "Junk bonds are 'flashing yellow.' Watch these warning signs",
+    summaryJa: "Spreads have widened in the high-yield bond market, but that doesn't tell the whole story.",
+    bodyOriginal: `Cracks are forming in the junk bond market as investors demand higher payouts for owning the market's riskiest debt. It isn't time to ditch high-yield bonds, but investors should pay attention to the warning signs.
+High-yield bonds now yield 8.1%, up from 7.22% a month ago. The increase reflects a jump in yields across the curve as investors bake in more inflation from high energy prices and other pressures, including concern about the deficit — hitting nearly $2 trillion in the fiscal year that ended Sept. 30.
+The high-yield market is also showing stress on the credit side with spreads recently widening to levels not seen since April, according to the Federal Reserve Bank of St. Louis. Credit spreads are the difference in yield between the bonds and Treasurys of similar maturities. Wider spreads mean investors are demanding higher yields for holding corporate debt, viewing it as riskier.
+Spreads are at 315 basis points in the overall high-yield market, higher than a year ago but still below levels in March when they reached 346 bps. One basis point equals one one-hundredth of a percent, or 0.01%.
+The high-yield market consists of bonds rated BB+ by S&P and Fitch and Ba1 and under by Moody's. The lowest-rated cohort, CCC and below, has seen the most movement with spreads climbing dramatically over the past year to roughly 1,250 bps.
+'Flashing yellow'
+Right now, the high-yield market is "flashing yellow" but is "far from red," said Michael Arone, chief investment strategist at State Street Investment Management.
+It makes sense that investors are demanding more compensation for taking on additional credit risk as borrowing costs rise, he said.
+Yields are elevated across the board with the 10-year Treasury reaching its highest level since 2002 earlier in the week.
+"The bigger question is whether this is simply a repricing of interest rate risk, or the beginning of a more fundamental reassessment of credit quality," Arone said.
+He's in a wait-and-see mode since earnings are still growing, interest-coverage ratios remain good, and while default rates have ticked up some, he believes it is not concerning.
+That said, the starting point in spreads is likely weighing on investors' psyche, since they are still low by historical standards.
+"There's a small margin of error here, which I also think raises the anxiety level," Arone explained. "The compensation that investors are receiving for taking on this credit risk isn't overwhelming relative to history, and therefore subtle changes in credit spreads can be concerning."
+'Logical cracks'
+While there may be concerns about part of the lower-rated market, the overall high-yield market is in good fundamental shape.
+In fact, credit quality is at a record high, with BB bonds making up over 60% of the market compared with 38% prior to the global financial crisis, said Kelley Gerrity, a fixed income strategist at Morgan Stanley Investment Management.
+"We've had higher-quality companies coming in, and with higher rates now, you also have more discipline from companies that are more indebted ... just because of the higher cost of capital, so that actually is creating a bit of a healthier picture as well," she said.
+The lowest tier of high yield has always been more speculative, since the bonds have a higher default risk. Therefore, it's no surprise that they are the ones seeing the most widening in spreads, said Collin Martin, head of fixed income research and strategy at the Schwab Center for Financial Research.
+The overall move in high-yield spreads have been "orderly," he said. "Are there cracks forming? I think the cracks are logical cracks with the lowest-rated bonds and it's too early to say that it's spreading to the broad credit market."
+In addition, fluctuations within the CCC-rated and lower spreads have been idiosyncratic, Gerrity added. Morgan Stanley recently broke down the spreads in the lowest cohort into two buckets: performing assets and non-performing assets, which are defined as spreads above 1,000 bps.
+The non-performing spread to worst is 2,818 bps, while the performing bucket — the biggest piece of the CCC market — is 461 bps, she said.
+"It is isolated," she said. "I'm not necessarily sure that that will go away anytime soon, but it doesn't tell the story of overall concern and flashing caution for credit markets right now."
+For now, investors should remain selective within higher yield, Gerrity advised.
+"We're looking for the best relative value opportunities, and we think that exists within that single-B cohort, and so we're leaning into that," she said.
+Warning signs
+Investors should be concerned if there is a steep widening in the broader high-yield market.
+But there's scant evidence of stress in the BB cohort. Spreads in that group are at 194 bps, up from 179 bps a year ago — although the move hasn't been in a straight line.
+"We're going to be focusing our attention on what are considered some stronger businesses," Martin said. "If we start to see the markets demand higher spreads there also, that's what we'll be looking at to see if risks are really rising."
+It's also important to understand that the Federal Reserve is raising rates in a strong economic environment, said R.J. Gallo, chief investment officer of global fixed income at Federated Hermes. The central bank is concerned about an inflation problem amid high fossil fuel prices due to the Iran war, while growth has been stronger than expected, he noted.
+"With growth being good as the reason that the Fed is hiking, then you wouldn't expect high yield to blow out because growth means revenues stay up, means cash flow and profitability stays up," he explained.
+High yield becomes a disaster when the economy is heading into a sharp economic downturn, Gallo said.
+"That's when spreads really widen out," he said. "But a recession is not the odds-on bet. Now, talk to me in six months if the Fed keeps hiking over and over, if oil prices stay high for longer, well, then maybe we will start to wonder."`,
+    bodyJa: `Cracks are forming in the junk bond market as investors demand higher payouts for owning the market's riskiest debt. It isn't time to ditch high-yield bonds, but investors should pay attention to the warning signs.
+High-yield bonds now yield 8.1%, up from 7.22% a month ago. The increase reflects a jump in yields across the curve as investors bake in more inflation from high energy prices and other pressures, including concern about the deficit — hitting nearly $2 trillion in the fiscal year that ended Sept. 30.
+The high-yield market is also showing stress on the credit side with spreads recently widening to levels not seen since April, according to the Federal Reserve Bank of St. Louis. Credit spreads are the difference in yield between the bonds and Treasurys of similar maturities. Wider spreads mean investors are demanding higher yields for holding corporate debt, viewing it as riskier.
+Spreads are at 315 basis points in the overall high-yield market, higher than a year ago but still below levels in March when they reached 346 bps. One basis point equals one one-hundredth of a percent, or 0.01%.
+The high-yield market consists of bonds rated BB+ by S&P and Fitch and Ba1 and under by Moody's. The lowest-rated cohort, CCC and below, has seen the most movement with spreads climbing dramatically over the past year to roughly 1,250 bps.
+'Flashing yellow'
+Right now, the high-yield market is "flashing yellow" but is "far from red," said Michael Arone, chief investment strategist at State Street Investment Management.
+It makes sense that investors are demanding more compensation for taking on additional credit risk as borrowing costs rise, he said.
+Yields are elevated across the board with the 10-year Treasury reaching its highest level since 2002 earlier in the week.
+"The bigger question is whether this is simply a repricing of interest rate risk, or the beginning of a more fundamental reassessment of credit quality," Arone said.
+He's in a wait-and-see mode since earnings are still growing, interest-coverage ratios remain good, and while default rates have ticked up some, he believes it is not concerning.
+That said, the starting point in spreads is likely weighing on investors' psyche, since they are still low by historical standards.
+"There's a small margin of error here, which I also think raises the anxiety level," Arone explained. "The compensation that investors are receiving for taking on this credit risk isn't overwhelming relative to history, and therefore subtle changes in credit spreads can be concerning."
+'Logical cracks'
+While there may be concerns about part of the lower-rated market, the overall high-yield market is in good fundamental shape.
+In fact, credit quality is at a record high, with BB bonds making up over 60% of the market compared with 38% prior to the global financial crisis, said Kelley Gerrity, a fixed income strategist at Morgan Stanley Investment Management.
+"We've had higher-quality companies coming in, and with higher rates now, you also have more discipline from companies that are more indebted ... just because of the higher cost of capital, so that actually is creating a bit of a healthier picture as well," she said.
+The lowest tier of high yield has always been more speculative, since the bonds have a higher default risk. Therefore, it's no surprise that they are the ones seeing the most widening in spreads, said Collin Martin, head of fixed income research and strategy at the Schwab Center for Financial Research.
+The overall move in high-yield spreads have been "orderly," he said. "Are there cracks forming? I think the cracks are logical cracks with the lowest-rated bonds and it's too early to say that it's spreading to the broad credit market."
+In addition, fluctuations within the CCC-rated and lower spreads have been idiosyncratic, Gerrity added. Morgan Stanley recently broke down the spreads in the lowest cohort into two buckets: performing assets and non-performing assets, which are defined as spreads above 1,000 bps.
+The non-performing spread to worst is 2,818 bps, while the performing bucket — the biggest piece of the CCC market — is 461 bps, she said.
+"It is isolated," she said. "I'm not necessarily sure that that will go away anytime soon, but it doesn't tell the story of overall concern and flashing caution for credit markets right now."
+For now, investors should remain selective within higher yield, Gerrity advised.
+"We're looking for the best relative value opportunities, and we think that exists within that single-B cohort, and so we're leaning into that," she said.
+Warning signs
+Investors should be concerned if there is a steep widening in the broader high-yield market.
+But there's scant evidence of stress in the BB cohort. Spreads in that group are at 194 bps, up from 179 bps a year ago — although the move hasn't been in a straight line.
+"We're going to be focusing our attention on what are considered some stronger businesses," Martin said. "If we start to see the markets demand higher spreads there also, that's what we'll be looking at to see if risks are really rising."
+It's also important to understand that the Federal Reserve is raising rates in a strong economic environment, said R.J. Gallo, chief investment officer of global fixed income at Federated Hermes. The central bank is concerned about an inflation problem amid high fossil fuel prices due to the Iran war, while growth has been stronger than expected, he noted.
+"With growth being good as the reason that the Fed is hiking, then you wouldn't expect high yield to blow out because growth means revenues stay up, means cash flow and profitability stays up," he explained.
+High yield becomes a disaster when the economy is heading into a sharp economic downturn, Gallo said.
+"That's when spreads really widen out," he said. "But a recession is not the odds-on bet. Now, talk to me in six months if the Fed keeps hiking over and over, if oil prices stay high for longer, well, then maybe we will start to wonder."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html",
+    publishedAt: "2026-10-09T20:51:25+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "trump-strikes-deal-with-putin-to-supply-62f6673b",
+    title: "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
+    titleJa: "Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets",
+    summaryJa: "President Donald Trump has few options to reduce diesel prices given the destruction done to refineries by the wars in Eastern Europe and the Middle East.",
+    bodyOriginal: `President Donald Trump said Friday that Russia will supply more than 4 million tons of diesel to the global market under a deal he struck with President Vladimir Putin during a phone call.
+Russia will immediately supply more than 300,000 tons of diesel, followed by 500,000 tons in November, and 1 million tons immediately thereafter, Trump said in a post on Truth Social. Moscow will then deliver another 3 million tons of diesel based on the condition of Russia's refineries, Trump said.
+The Treasury Department temporarily waived sanctions on Russian diesel through April 2027 under a general license issued Friday.
+Ukrainian President Volodymyr Zelenskyy immediately condemned Trump's diesel deal with Putin. Zelenskyy warned that easing sanctions without a commitment from Russia to de-escalate will only prolong the war.
+"Gifts to Putin will not bring peace or any benefit to the civilized world," Zelenskyy said in a social media post. "Russia will 'repay' the diesel with further terror and perfidy. Allowing Russia to sell petroleum products is an investment in a war that must be ended, not prolonged."
+Diesel prices have surged around the world as Ukraine has pounded Russian refineries, forcing Moscow to ban diesel exports to the global market. Iran and its Houthi allies have also attacked refineries in the Middle East, further constraining fuel supplies.
+Trump is under growing political pressure to take action to reduce fuel prices ahead of the November midterm elections. Republicans are facing competitive elections in conservative strongholds like Iowa, where farmers are feeling the pinch from high diesel prices.
+But the president has few options to reduce prices given the destruction done to global refining capacity by the wars in Eastern Europe and the Middle East.
+Trump flirted with a diesel export ban last month but ultimately relented after the oil industry and big business warned a ban would just raise gasoline prices.
+The president issued an executive order earlier this week that allows truckers to use tax-exempt offroad diesel on highways without worrying about federal penalties. But the order only defers the tax obligation, creating confusion about whether truckers may have to pay up at some point.`,
+    bodyJa: `President Donald Trump said Friday that Russia will supply more than 4 million tons of diesel to the global market under a deal he struck with President Vladimir Putin during a phone call.
+Russia will immediately supply more than 300,000 tons of diesel, followed by 500,000 tons in November, and 1 million tons immediately thereafter, Trump said in a post on Truth Social. Moscow will then deliver another 3 million tons of diesel based on the condition of Russia's refineries, Trump said.
+The Treasury Department temporarily waived sanctions on Russian diesel through April 2027 under a general license issued Friday.
+Ukrainian President Volodymyr Zelenskyy immediately condemned Trump's diesel deal with Putin. Zelenskyy warned that easing sanctions without a commitment from Russia to de-escalate will only prolong the war.
+"Gifts to Putin will not bring peace or any benefit to the civilized world," Zelenskyy said in a social media post. "Russia will 'repay' the diesel with further terror and perfidy. Allowing Russia to sell petroleum products is an investment in a war that must be ended, not prolonged."
+Diesel prices have surged around the world as Ukraine has pounded Russian refineries, forcing Moscow to ban diesel exports to the global market. Iran and its Houthi allies have also attacked refineries in the Middle East, further constraining fuel supplies.
+Trump is under growing political pressure to take action to reduce fuel prices ahead of the November midterm elections. Republicans are facing competitive elections in conservative strongholds like Iowa, where farmers are feeling the pinch from high diesel prices.
+But the president has few options to reduce prices given the destruction done to global refining capacity by the wars in Eastern Europe and the Middle East.
+Trump flirted with a diesel export ban last month but ultimately relented after the oil industry and big business warned a ban would just raise gasoline prices.
+The president issued an executive order earlier this week that allows truckers to use tax-exempt offroad diesel on highways without worrying about federal penalties. But the order only defers the tax obligation, creating confusion about whether truckers may have to pay up at some point.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html",
+    publishedAt: "2026-10-09T20:20:57+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "trump-media-advisor-katie-zacharia-offer-909e7b8f",
+    title: "Trump Media advisor Katie Zacharia offered White House press secretary role",
+    titleJa: "Trump Media advisor Katie Zacharia offered White House press secretary role",
+    summaryJa: "The White House has tapped Katie Zacharia to be its next press secretary, a White House official confirmed to CNBC.",
+    bodyOriginal: `The White House has tapped Katie Zacharia, a lawyer and conservative commentator who works for Trump Media & Technology Group, to be its next press secretary, a White House official confirmed to CNBC.
+Zacharia, a self-described "hardline Trump supporter," has been offered the role, the official said on condition of anonymity to discuss the hiring announcement. It was not immediately clear if she has accepted the offer.
+If she takes the job, Zacharia will succeed Karoline Leavitt, who left the Trump administration in late August. Leavitt, who went on maternity leave after giving birth to her second child earlier this year, will join Fox News as an on-air contributor in November.
+The New York Times first reported the White House's pick of Zacharia.
+Zacharia has worked since June as a senior communications advisor for Trump Media, owner of the president's preferred social media outlet, Truth Social, according to her LinkedIn profile.
+The profile also shows her currently serving as general counsel at Fix California, a conservative activist group founded by Richard Grenell, Trump's special presidential envoy for special missions and former head of the John F. Kennedy Center for the Performing Arts.
+Zacharia in March finished a two-month stint as a spokeswoman for the Department of Homeland Security, her LinkedIn page shows.
+An IMDb page for Zacharia shows dozens of appearances on a number of political talk shows airing on Fox News and other conservative outlets.`,
+    bodyJa: `The White House has tapped Katie Zacharia, a lawyer and conservative commentator who works for Trump Media & Technology Group, to be its next press secretary, a White House official confirmed to CNBC.
+Zacharia, a self-described "hardline Trump supporter," has been offered the role, the official said on condition of anonymity to discuss the hiring announcement. It was not immediately clear if she has accepted the offer.
+If she takes the job, Zacharia will succeed Karoline Leavitt, who left the Trump administration in late August. Leavitt, who went on maternity leave after giving birth to her second child earlier this year, will join Fox News as an on-air contributor in November.
+The New York Times first reported the White House's pick of Zacharia.
+Zacharia has worked since June as a senior communications advisor for Trump Media, owner of the president's preferred social media outlet, Truth Social, according to her LinkedIn profile.
+The profile also shows her currently serving as general counsel at Fix California, a conservative activist group founded by Richard Grenell, Trump's special presidential envoy for special missions and former head of the John F. Kennedy Center for the Performing Arts.
+Zacharia in March finished a two-month stint as a spokeswoman for the Department of Homeland Security, her LinkedIn page shows.
+An IMDb page for Zacharia shows dozens of appearances on a number of political talk shows airing on Fox News and other conservative outlets.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/09/katie-zacharia-white-house-press-secretary.html",
+    publishedAt: "2026-10-09T19:25:28+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "americans-debt-problems-are-flashing-a-w-eb735594",
+    title: "Americans' debt problems are flashing a warning not seen since the Great Recession",
+    titleJa: "Americans' debt problems are flashing a warning not seen since the Great Recession",
+    summaryJa: "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
+    bodyOriginal: `The ability of U.S. families to stay current on their debts worsened over the past three years, hitting levels not seen since the aftermath of the global financial crisis, the Federal Reserve reported Friday.
+In the central bank's Survey of Consumer Finances, researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.
+"Families were more likely to be behind on their financial obligations than at any point since the 2010 survey," stated the survey, a data-rich document the Fed releases every three years to chronicle the nation's financial health.
+The country in 2010 was just emerging from what became known as the Great Recession, a period that ran from December 2007 to June 2009. A collapse in the subprime mortgage market resulted in contagion across the largest financial institutions in the U.S. and the world, sending unemployment at one point to 10%.
+According to the new findings, the portion of families behind on loan payments at the end of 2025 soared from about 12% in the prior survey to nearly 20%, a gain of some 67%. Those behind by two months or more also accelerated considerably, moving to more than 8% from 5% in 2022.
+While the report covered the period through 2025, Americans' concerns over their finances have persisted. A New York Fed survey released earlier this week showed that households reported their financial situations had worsened from a year ago and were likely to be weaker in the year ahead.
+Friday's Fed report showed the share of debt to income also posted a large gain. Families with payment-to-income ratios of greater than 40% jumped to 8.6%, up from 6.5% in 2022 and the highest level since 2013.
+At the same time, the net worth of higher earners soared, with those in the top income group seeing their median net worth rise 31%.
+The report covers a period where the economy continued to grow but with inflation rates not seen since the early 1980s.
+Amid that climate, the Fed found that real median, or midpoint, family income increased 7% but average income dropped 6%.
+"Families in the lower ends of the income and net worth distributions saw modest increases in median and mean income, while families in the upper ends saw declines," the report stated. "These patterns indicate that income inequality decreased slightly between surveys."
+The report noted that income gains were particularly strong with families aged 75 or older while tumbling 25% for those aged 35 to 44, which the Fed attributed to declines in capital gains income for that group.
+"The exceptions to the general pattern of a rise in median income were for Black non-Hispanic families, Asian families, and families toward the top of the usual income and net worth distributions," the report stated. "For these families, both median and mean income fell."
+Overall, net worth generally increased.
+Inflation-adjusted average net worth rose 7% to $1.24 million, though median net worth climbed just 2% to $215,900, reflecting gains among those at the higher end. The report noted that net worth was "much slower" than the prior report that covered the 2019-22 period.
+There were considerable disparities among education groups. Those with a college degree had 1.9 times the median income level than those with "some college" and nearly three times the median net worth. Lower-income families "saw some declines" in wealth while those with higher incomes saw gains. Families in the bottom one-fourth of income median net worth declined 6% while average net worth fell 4%.`,
+    bodyJa: `The ability of U.S. families to stay current on their debts worsened over the past three years, hitting levels not seen since the aftermath of the global financial crisis, the Federal Reserve reported Friday.
+In the central bank's Survey of Consumer Finances, researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.
+"Families were more likely to be behind on their financial obligations than at any point since the 2010 survey," stated the survey, a data-rich document the Fed releases every three years to chronicle the nation's financial health.
+The country in 2010 was just emerging from what became known as the Great Recession, a period that ran from December 2007 to June 2009. A collapse in the subprime mortgage market resulted in contagion across the largest financial institutions in the U.S. and the world, sending unemployment at one point to 10%.
+According to the new findings, the portion of families behind on loan payments at the end of 2025 soared from about 12% in the prior survey to nearly 20%, a gain of some 67%. Those behind by two months or more also accelerated considerably, moving to more than 8% from 5% in 2022.
+While the report covered the period through 2025, Americans' concerns over their finances have persisted. A New York Fed survey released earlier this week showed that households reported their financial situations had worsened from a year ago and were likely to be weaker in the year ahead.
+Friday's Fed report showed the share of debt to income also posted a large gain. Families with payment-to-income ratios of greater than 40% jumped to 8.6%, up from 6.5% in 2022 and the highest level since 2013.
+At the same time, the net worth of higher earners soared, with those in the top income group seeing their median net worth rise 31%.
+The report covers a period where the economy continued to grow but with inflation rates not seen since the early 1980s.
+Amid that climate, the Fed found that real median, or midpoint, family income increased 7% but average income dropped 6%.
+"Families in the lower ends of the income and net worth distributions saw modest increases in median and mean income, while families in the upper ends saw declines," the report stated. "These patterns indicate that income inequality decreased slightly between surveys."
+The report noted that income gains were particularly strong with families aged 75 or older while tumbling 25% for those aged 35 to 44, which the Fed attributed to declines in capital gains income for that group.
+"The exceptions to the general pattern of a rise in median income were for Black non-Hispanic families, Asian families, and families toward the top of the usual income and net worth distributions," the report stated. "For these families, both median and mean income fell."
+Overall, net worth generally increased.
+Inflation-adjusted average net worth rose 7% to $1.24 million, though median net worth climbed just 2% to $215,900, reflecting gains among those at the higher end. The report noted that net worth was "much slower" than the prior report that covered the 2019-22 period.
+There were considerable disparities among education groups. Those with a college degree had 1.9 times the median income level than those with "some college" and nearly three times the median net worth. Lower-income families "saw some declines" in wealth while those with higher incomes saw gains. Families in the bottom one-fourth of income median net worth declined 6% while average net worth fell 4%.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html",
+    publishedAt: "2026-10-09T19:18:24+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "two-massive-trades-just-happened-in-micr-1532c85d",
+    title: "Two massive trades just happened in Micron and Nvidia. What they could mean for chips",
+    titleJa: "Two massive trades just happened in Micron and Nvidia. What they could mean for chips",
+    summaryJa: "Bears continued to build up positions against the semiconductor group on Friday.",
+    bodyOriginal: `Bears continued to build up positions against the semiconductor group on Friday, as a series of eyebrow-raising trades in Micron and Nvidia dominated the tape and called into question the move in chips.
+More than 180,000 puts traded in SMH by midday, compared to 50,000 calls, with $46 million of premium tied to puts versus $26 million in calls, according to ThinkOrSwim and SpotGamma data. By volume, 129,000 put contracts look like they were bought, according to SpotGamma.
+The ratio of open interest in put contracts to calls climbed to 1.95, the highest since the second week of August, Barchart data show. The same ratio for the Invesco QQQ Trust continued its recent climb as well, to 1.51.
+A few big single-stock trades stood out on the tape as well.
+In Nvidia, just after the opening bell, someone bought 100,000 180-strike puts expiring Jan. 15 for $21 million, the biggest trade in the stock's options on the day. If it is a speculative position, it needs Nvidia to fall 22% by expiry.
+Arguably, the most interesting trades were in Micron.
+While call volumes ran 40% higher than average, about $270 million in premium was tied to likely put-buying, according to SpotGamma data. The difference can in part be explained by a string of trades in deep in-the-money put contracts expiring in June 2028.
+The bulk of the trades – about 125 puts with strikes from 2,250 to 2,500 – were transacted closer to the ask, suggesting they were bought. By the same logic, 50 trades at the 2,050 strike were likely sold. Micron shares are trading around $1,030.
+Taken at face value, it would be a net $14.5 million bearish spread position with an options delta near -1, meaning the trade functions like a synthetic short position. Traders will buy deep-in-the-money puts instead of shorting a stock if the cost of borrowing the stock is too high or if they want to have a defined risk position. In purchasing options, the most you can lose is what you put in.
+To be sure, interpreting bid-ask spreads can get murky when analyzing far out-of-the-money trades with low open interest and volume.
+"Spreads have difficulty being categorized by midpoint analysis as well, because dealers are willing to take a haircut on one leg while getting a better premium with the other," said Jason DeLorenzo, owner and founder of Volland, an options market-structure analytics platform.`,
+    bodyJa: `Bears continued to build up positions against the semiconductor group on Friday, as a series of eyebrow-raising trades in Micron and Nvidia dominated the tape and called into question the move in chips.
+More than 180,000 puts traded in SMH by midday, compared to 50,000 calls, with $46 million of premium tied to puts versus $26 million in calls, according to ThinkOrSwim and SpotGamma data. By volume, 129,000 put contracts look like they were bought, according to SpotGamma.
+The ratio of open interest in put contracts to calls climbed to 1.95, the highest since the second week of August, Barchart data show. The same ratio for the Invesco QQQ Trust continued its recent climb as well, to 1.51.
+A few big single-stock trades stood out on the tape as well.
+In Nvidia, just after the opening bell, someone bought 100,000 180-strike puts expiring Jan. 15 for $21 million, the biggest trade in the stock's options on the day. If it is a speculative position, it needs Nvidia to fall 22% by expiry.
+Arguably, the most interesting trades were in Micron.
+While call volumes ran 40% higher than average, about $270 million in premium was tied to likely put-buying, according to SpotGamma data. The difference can in part be explained by a string of trades in deep in-the-money put contracts expiring in June 2028.
+The bulk of the trades – about 125 puts with strikes from 2,250 to 2,500 – were transacted closer to the ask, suggesting they were bought. By the same logic, 50 trades at the 2,050 strike were likely sold. Micron shares are trading around $1,030.
+Taken at face value, it would be a net $14.5 million bearish spread position with an options delta near -1, meaning the trade functions like a synthetic short position. Traders will buy deep-in-the-money puts instead of shorting a stock if the cost of borrowing the stock is too high or if they want to have a defined risk position. In purchasing options, the most you can lose is what you put in.
+To be sure, interpreting bid-ask spreads can get murky when analyzing far out-of-the-money trades with low open interest and volume.
+"Spreads have difficulty being categorized by midpoint analysis as well, because dealers are willing to take a haircut on one leg while getting a better premium with the other," said Jason DeLorenzo, owner and founder of Volland, an options market-structure analytics platform.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/09/two-massive-trades-just-happened-in-micron-and-nvidia-what-they-could-mean-for-chips.html",
+    publishedAt: "2026-10-09T18:50:21+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "burnham-promises-to-curb-non-compete-rul-1e7e408d",
+    title: "Burnham promises to curb non-compete rules in job contracts",
+    titleJa: "Burnham promises to curb non-compete rules in job contracts",
+    summaryJa: "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
+    bodyOriginal: `Burnham promises to curb non-compete rules in job contracts
+- Published
+Andy Burnham has promised to curb companies' ability to restrict what their workers can do after leaving their job.
+In a speech, the prime minister said the use of non-compete clauses in employment contracts had "gone too far" and was holding innovative UK companies back.
+He added the clauses had forced workers to go without pay after leaving a role, as well as making it harder for growing firms to hire new staff.
+Ahead of the Budget later this month, he also said there was "more to do" on tax to encourage promising firms to stay in the UK.
+Sir Keir Starmer's government had been exploring possible restrictions on non-compete clauses since late last year, including a total ban, banning them above a certain salary threshold, or limiting how long they can last.
+Although commonly associated with the financial services and technology sectors, research cited by the government has estimated around 5 million jobs in Britain are covered by the clauses, typically lasting around six months.
+Speaking at a business summit in Manchester, Burnham confirmed his government would press ahead with new legislation to ensure the clauses can "no longer be a barrier" to hiring new staff.
+He added that their use had stopped workers leaving to join other companies, or founding their own firms instead, adding: "I think that's a drag on innovation."
+Referencing a landmark 1995 court ruling that is credited with revolutionising the football transfer market in Europe, he said he hoped reining in non-compete clauses could prove the "Bosman ruling for the innovation sector".
+Investor confidence concerns
+Burnham did not specify the scope of the restrictions he is planning, but suggested they would apply to the "everyday economy" as well as helping "promising start-ups and scaling firms".
+It is understood that the government is planning to unveil details of the proposed restrictions, which were first reported by Politico, external and The Financial Times, external, alongside the Budget on 28 October.
+Responding to the prime minister's comments, the Recruitment and Employment Confederation warned against "sweeping" changes to non-compete rules, adding they played a "vital role" in protecting commercially sensitive information and client relationships.
+The previous Conservative government had ruled out a total ban, external on non-compete clauses, after hearing from employers that it could reduce investor confidence in the UK or prompt companies to tighten how they share information internally.
+The prime minister sought to frame the announcement on non-compete clauses as part of a wider government pitch to boost innovative sectors of the economy.
+He told the summit that although the UK was home to outstanding research and start-ups, too many companies had gone abroad in search of investment.
+He also signalled that the government would "say more" at the Budget about plans to use public investment as a way to encourage private funding in the economy.
+He added that he wanted all UK regions to have a dedicated fund to do this, modelled on the Good Growth Fund launched in Greater Manchester last year, during his tenure as mayor of the city-region.
+He also hinted that the government was looking at the tax system to ensure the UK can retain high-growth companies.
+He said: "One of our biggest challenges is breaking through our own ceiling. Too often, our best ideas are developed and scaled overseas, and with it the jobs, technology and investment that goes with them."
+"So I know there is more to do to fix that, specifically on tax, to encourage people to stay and scale."
+Related topics
+- Published28 September
+- Published27 September`,
+    bodyJa: `Burnham promises to curb non-compete rules in job contracts
+- Published
+Andy Burnham has promised to curb companies' ability to restrict what their workers can do after leaving their job.
+In a speech, the prime minister said the use of non-compete clauses in employment contracts had "gone too far" and was holding innovative UK companies back.
+He added the clauses had forced workers to go without pay after leaving a role, as well as making it harder for growing firms to hire new staff.
+Ahead of the Budget later this month, he also said there was "more to do" on tax to encourage promising firms to stay in the UK.
+Sir Keir Starmer's government had been exploring possible restrictions on non-compete clauses since late last year, including a total ban, banning them above a certain salary threshold, or limiting how long they can last.
+Although commonly associated with the financial services and technology sectors, research cited by the government has estimated around 5 million jobs in Britain are covered by the clauses, typically lasting around six months.
+Speaking at a business summit in Manchester, Burnham confirmed his government would press ahead with new legislation to ensure the clauses can "no longer be a barrier" to hiring new staff.
+He added that their use had stopped workers leaving to join other companies, or founding their own firms instead, adding: "I think that's a drag on innovation."
+Referencing a landmark 1995 court ruling that is credited with revolutionising the football transfer market in Europe, he said he hoped reining in non-compete clauses could prove the "Bosman ruling for the innovation sector".
+Investor confidence concerns
+Burnham did not specify the scope of the restrictions he is planning, but suggested they would apply to the "everyday economy" as well as helping "promising start-ups and scaling firms".
+It is understood that the government is planning to unveil details of the proposed restrictions, which were first reported by Politico, external and The Financial Times, external, alongside the Budget on 28 October.
+Responding to the prime minister's comments, the Recruitment and Employment Confederation warned against "sweeping" changes to non-compete rules, adding they played a "vital role" in protecting commercially sensitive information and client relationships.
+The previous Conservative government had ruled out a total ban, external on non-compete clauses, after hearing from employers that it could reduce investor confidence in the UK or prompt companies to tighten how they share information internally.
+The prime minister sought to frame the announcement on non-compete clauses as part of a wider government pitch to boost innovative sectors of the economy.
+He told the summit that although the UK was home to outstanding research and start-ups, too many companies had gone abroad in search of investment.
+He also signalled that the government would "say more" at the Budget about plans to use public investment as a way to encourage private funding in the economy.
+He added that he wanted all UK regions to have a dedicated fund to do this, modelled on the Good Growth Fund launched in Greater Manchester last year, during his tenure as mayor of the city-region.
+He also hinted that the government was looking at the tax system to ensure the UK can retain high-growth companies.
+He said: "One of our biggest challenges is breaking through our own ceiling. Too often, our best ideas are developed and scaled overseas, and with it the jobs, technology and investment that goes with them."
+"So I know there is more to do to fix that, specifically on tax, to encourage people to stay and scale."
+Related topics
+- Published28 September
+- Published27 September`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-09T16:15:30+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/887d/live/a06cb1b0-c3de-11f1-95ba-dba767ffba7e.png",
+    readTime: 9,
+  },
+  {
+    id: "ex-deutsche-bank-trader-jailed-for-riggi-41707074",
+    title: "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
+    titleJa: "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
+    summaryJa: "The Court of Appeal quashes the conviction of Christian Bittar, a former Deutsche Bank trader jailed in 2018.",
+    bodyOriginal: `Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned
+- Published
+Another former banker sentenced in one of the biggest scandals of the financial crisis has had his conviction overturned following a long-running legal battle.
+The Court of Appeal has quashed the conviction of Christian Bittar, a former Deutsche Bank trader who went to prison in 2018 for "manipulating" the benchmark interest rate, Euribor.
+It comes after the same UK court overturned five convictions of ex-Barclays bankers in the rate rigging trials earlier this week.
+Bittar, who watched proceedings via video link from Switzerland because he was not granted a visa to attend court, told the BBC: "I have waited a very, very long time for this day."
+The financial crisis began in 2008, sending huge economic shockwaves across the world and triggering recessions in many countries.
+There was a public backlash against bankers, held by many to be responsible for the crisis, while the financial sector was protected by taxpayer-funded bailouts.
+The Libor scandal erupted in 2012, when it was discovered that at the outbreak of the financial crisis, banks had been misrepresenting their positions during the process of setting the lending rate, helping to boost profits and mask difficulties.
+Some 19 City traders were convicted in the US and UK between 2015 and 2019 across nine criminal trials held in London and New York.
+Eighteen of these have now been acquitted.
+Only one former trader in the world now remains convicted: former Barclays trader Peter Johnson, who was also one of the original whistleblowers in the interest rate rigging scandal. He pleaded guilty on advice that he had little chance at winning at trial. The court confirmed that he too has now applied to appeal against his conviction.
+The news has already prompted lawyers and senior politicians to press for the Bank of England and the Treasury to release all their records about their own roles in interest rate 'rigging' during the financial crisis, amid concerns raised of a cover-up of the role of central banks and governments.
+'Finally our injustice has been recognised'
+Speaking after his conviction was quashed, Bittar said: "Finally the injustice of what I and others suffered has been recognised.
+"I am so grateful for those who stood by me through this ordeal and those who worked so tirelessly to correct it."
+His wife, Caroline, who lives in the UK, said their family had lost 15 "valuable years", with their children "growing up with this injustice".
+She added they were looking forward to "enjoying life with our family and friends without this shadow hanging over us".
+On Wednesday, Jay Merchant, Jonathan Mathew, Alex Pabon, Colin Bermingham and Philippe Moryoussef saw their convictions for 'manipulating' the interest rate benchmarks Libor and Euribor quashed after a 10-year struggle for justice.
+They launched fresh appeals against their jail sentences following a Supreme Court ruling last year that acquitted Tom Hayes, the first to be jailed for 'rigging' interest rates in 2015, and Carlo Palombo, jailed in 2019.
+Tom Hayes, who was initially sentenced to 14 years, reduced on appeal to 11, is now seeking damages from his former employer UBS.
+The traders were among 37 City traders and brokers prosecuted for "manipulating" the interest rate benchmarks Libor and Euribor, which track the cost of borrowing cash between the banks and have been used to set the interest rates on millions of mortgages and commercial loans.
+The BBC has uncovered evidence of a much larger, state-led 'rigging' of interest rates, under pressure from central banks and governments across the world. Evidence implicating Downing Street and the Bank of England was suppressed throughout the criminal trials.
+Former Conservative cabinet minister David Davis told the BBC the innocent traders had been the victims of a series of miscarriages of justice.
+He said the people exonerated this week and before were "the victims of a scapegoating exercise which arose as a result of the government's own misbehaviour in lowballing [falsely understating] Libor interest rates themselves, in order to try and rescue the economy after their own self-induced crash in the late 2000s".
+In 2015, during the first trial for interest rate 'rigging', of former UBS trader Hayes, Mr Justice Jeremy Cooke decided as a matter of law that any attempt to influence the rates could not be lawful, and that any rate influenced by commercial interest must automatically be false. Judges in the subsequent eight trials followed suit.
+However, in July 2025, the Supreme Court decided that all the judges had erred, misdirecting juries that it was wrong as a matter of law. Instead, whether the requests were right or wrong was properly a matter of fact for the jury to decide, not the judge.
+All convictions in the United States were overturned in 2022 after an appeal court ruled that there was insufficient evidence that the traders' requests had broken any rules or laws.
+- Published2 days ago`,
+    bodyJa: `Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned
+- Published
+Another former banker sentenced in one of the biggest scandals of the financial crisis has had his conviction overturned following a long-running legal battle.
+The Court of Appeal has quashed the conviction of Christian Bittar, a former Deutsche Bank trader who went to prison in 2018 for "manipulating" the benchmark interest rate, Euribor.
+It comes after the same UK court overturned five convictions of ex-Barclays bankers in the rate rigging trials earlier this week.
+Bittar, who watched proceedings via video link from Switzerland because he was not granted a visa to attend court, told the BBC: "I have waited a very, very long time for this day."
+The financial crisis began in 2008, sending huge economic shockwaves across the world and triggering recessions in many countries.
+There was a public backlash against bankers, held by many to be responsible for the crisis, while the financial sector was protected by taxpayer-funded bailouts.
+The Libor scandal erupted in 2012, when it was discovered that at the outbreak of the financial crisis, banks had been misrepresenting their positions during the process of setting the lending rate, helping to boost profits and mask difficulties.
+Some 19 City traders were convicted in the US and UK between 2015 and 2019 across nine criminal trials held in London and New York.
+Eighteen of these have now been acquitted.
+Only one former trader in the world now remains convicted: former Barclays trader Peter Johnson, who was also one of the original whistleblowers in the interest rate rigging scandal. He pleaded guilty on advice that he had little chance at winning at trial. The court confirmed that he too has now applied to appeal against his conviction.
+The news has already prompted lawyers and senior politicians to press for the Bank of England and the Treasury to release all their records about their own roles in interest rate 'rigging' during the financial crisis, amid concerns raised of a cover-up of the role of central banks and governments.
+'Finally our injustice has been recognised'
+Speaking after his conviction was quashed, Bittar said: "Finally the injustice of what I and others suffered has been recognised.
+"I am so grateful for those who stood by me through this ordeal and those who worked so tirelessly to correct it."
+His wife, Caroline, who lives in the UK, said their family had lost 15 "valuable years", with their children "growing up with this injustice".
+She added they were looking forward to "enjoying life with our family and friends without this shadow hanging over us".
+On Wednesday, Jay Merchant, Jonathan Mathew, Alex Pabon, Colin Bermingham and Philippe Moryoussef saw their convictions for 'manipulating' the interest rate benchmarks Libor and Euribor quashed after a 10-year struggle for justice.
+They launched fresh appeals against their jail sentences following a Supreme Court ruling last year that acquitted Tom Hayes, the first to be jailed for 'rigging' interest rates in 2015, and Carlo Palombo, jailed in 2019.
+Tom Hayes, who was initially sentenced to 14 years, reduced on appeal to 11, is now seeking damages from his former employer UBS.
+The traders were among 37 City traders and brokers prosecuted for "manipulating" the interest rate benchmarks Libor and Euribor, which track the cost of borrowing cash between the banks and have been used to set the interest rates on millions of mortgages and commercial loans.
+The BBC has uncovered evidence of a much larger, state-led 'rigging' of interest rates, under pressure from central banks and governments across the world. Evidence implicating Downing Street and the Bank of England was suppressed throughout the criminal trials.
+Former Conservative cabinet minister David Davis told the BBC the innocent traders had been the victims of a series of miscarriages of justice.
+He said the people exonerated this week and before were "the victims of a scapegoating exercise which arose as a result of the government's own misbehaviour in lowballing [falsely understating] Libor interest rates themselves, in order to try and rescue the economy after their own self-induced crash in the late 2000s".
+In 2015, during the first trial for interest rate 'rigging', of former UBS trader Hayes, Mr Justice Jeremy Cooke decided as a matter of law that any attempt to influence the rates could not be lawful, and that any rate influenced by commercial interest must automatically be false. Judges in the subsequent eight trials followed suit.
+However, in July 2025, the Supreme Court decided that all the judges had erred, misdirecting juries that it was wrong as a matter of law. Instead, whether the requests were right or wrong was properly a matter of fact for the jury to decide, not the judge.
+All convictions in the United States were overturned in 2022 after an appeal court ruled that there was insufficient evidence that the traders' requests had broken any rules or laws.
+- Published2 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-09T14:36:35+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/875d/live/70d424a0-c3ee-11f1-9a39-31b474234113.jpg",
+    readTime: 10,
+  },
+  {
     id: "treasury-s-bessent-hires-trump-s-controv-366de4cd",
     title: "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
     titleJa: "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
@@ -1985,528 +2409,6 @@ CNBC receives no compensation from placing financial advisory firms on our Finan
     category: "金融政策",
     imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 10,
-  },
-  {
-    id: "elon-musk-blames-indian-oligarchs-for-st-aadf9c9a",
-    title: "Elon Musk blames Indian 'oligarchs' for stalling Starlink launch",
-    titleJa: "Elon Musk blames Indian 'oligarchs' for stalling Starlink launch",
-    summaryJa: "Space X founder Elon Musk accused oligarchs in India of keeping Starlink out of the country to protect their monopoly over consumers.",
-    bodyOriginal: `SpaceX founder Elon Musk has accused vested interests of blocking the launch of his company's satellite internet service, Starlink, to protect their hold over consumers, calling it "a crime against the people of India"
-The country's telecom and internet service market is dominated by Reliance Chairman Mukesh Ambani's Jio and Sunil Mittal's Airtel, with both companies together holding over 80% market share.
-"We are being blocked by certain oligarchs in order to maintain their monopolistic chokehold on the Indian people," Musk said Wednesday stateside in a post on X, without naming his rivals. "You can guess who they are," he said.
-On Thursday, the Indian government said suggestions that its regulatory framework was unfair or discriminatory were "baseless and misconceived."
-Licenses have been granted to three global satellite communication services providers, the government said, without naming the companies, adding that every licensee was "required to demonstrate compliance with security conditions." Starlink received the government license last year.
-In a second post, Musk said Starlink in India would "enable high-speed, affordable internet connectivity for those who cannot afford current prices." At present, Reliance Industries-owned Jio is the country's largest telecom operator and has been widely credited for slashing high-speed mobile data costs in the country since the company's launch a decade ago.
-Starlink's competition
-In June, Jio Platforms announced plans to roll out low-orbit satellite communications in the country. Akash Ambani, the son of Mukesh, told shareholders that the company is partnering with leading global constellation providers to lease satellite capacity as it looks for a quick rollout of satellite connectivity.
-SpaceX last year had announced deals with Jio and India's second-largest telecom service provider, Bharti Airtel, to roll out Starlink internet services across India. There seems to have been little progress on that front, with Starlink yet to launch its service in the country.
-CNBC has reached out to Airtel and Reliance Industries for comments.
-There are 11,000 Starlink satellites currently in orbit that provide service to people in over 170 countries, Lauren Dreyer, SpaceX's Vice President of Starlink business operations, said while speaking at India Mobile Congress on Wednesday.
-Starlink works with government and private companies to close the digital divide by providing internet access to people in remote places, she said, adding that it has been "working for years" in India to do the same, and mentioned the company's memorandum of understanding with Airtel and Reliance Jio.
-Elon Musk's satellite internet services company is also facing pushback from regulators in India over security concerns, which the company has denied. In June, Bloomberg reported that regulators in New Delhi had frozen approvals for Starlink over fears that its terminals could be used despite the service not being licensed.
-The Indian government is concerned about a foreign player operating in a sensitive technology like satellite communications, and there are questions around how Starlink's terminals will be "geofenced" and whether the data will be localized, said Neil Shah, a partner at Counterpoint Research.
-Starlink is likely to get approval to launch around the time when Indian companies also develop their own satellite internet services, Shah said. If Starlink is launched without creating a "level playing field," it will dominate satellite communications services in India, he added.`,
-    bodyJa: `SpaceX founder Elon Musk has accused vested interests of blocking the launch of his company's satellite internet service, Starlink, to protect their hold over consumers, calling it "a crime against the people of India"
-The country's telecom and internet service market is dominated by Reliance Chairman Mukesh Ambani's Jio and Sunil Mittal's Airtel, with both companies together holding over 80% market share.
-"We are being blocked by certain oligarchs in order to maintain their monopolistic chokehold on the Indian people," Musk said Wednesday stateside in a post on X, without naming his rivals. "You can guess who they are," he said.
-On Thursday, the Indian government said suggestions that its regulatory framework was unfair or discriminatory were "baseless and misconceived."
-Licenses have been granted to three global satellite communication services providers, the government said, without naming the companies, adding that every licensee was "required to demonstrate compliance with security conditions." Starlink received the government license last year.
-In a second post, Musk said Starlink in India would "enable high-speed, affordable internet connectivity for those who cannot afford current prices." At present, Reliance Industries-owned Jio is the country's largest telecom operator and has been widely credited for slashing high-speed mobile data costs in the country since the company's launch a decade ago.
-Starlink's competition
-In June, Jio Platforms announced plans to roll out low-orbit satellite communications in the country. Akash Ambani, the son of Mukesh, told shareholders that the company is partnering with leading global constellation providers to lease satellite capacity as it looks for a quick rollout of satellite connectivity.
-SpaceX last year had announced deals with Jio and India's second-largest telecom service provider, Bharti Airtel, to roll out Starlink internet services across India. There seems to have been little progress on that front, with Starlink yet to launch its service in the country.
-CNBC has reached out to Airtel and Reliance Industries for comments.
-There are 11,000 Starlink satellites currently in orbit that provide service to people in over 170 countries, Lauren Dreyer, SpaceX's Vice President of Starlink business operations, said while speaking at India Mobile Congress on Wednesday.
-Starlink works with government and private companies to close the digital divide by providing internet access to people in remote places, she said, adding that it has been "working for years" in India to do the same, and mentioned the company's memorandum of understanding with Airtel and Reliance Jio.
-Elon Musk's satellite internet services company is also facing pushback from regulators in India over security concerns, which the company has denied. In June, Bloomberg reported that regulators in New Delhi had frozen approvals for Starlink over fears that its terminals could be used despite the service not being licensed.
-The Indian government is concerned about a foreign player operating in a sensitive technology like satellite communications, and there are questions around how Starlink's terminals will be "geofenced" and whether the data will be localized, said Neil Shah, a partner at Counterpoint Research.
-Starlink is likely to get approval to launch around the time when Indian companies also develop their own satellite internet services, Shah said. If Starlink is launched without creating a "level playing field," it will dominate satellite communications services in India, he added.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/08/elon-musk-starlink-spacex-jio-airtel-india.html",
-    publishedAt: "2026-10-08T05:28:40+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "come-all-the-way-back-to-eu-french-fina-f88e4978",
-    title: "'Come all the way' back to EU, French finance minister tells UK",
-    titleJa: "'Come all the way' back to EU, French finance minister tells UK",
-    summaryJa: "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
-    bodyOriginal: `'Come all the way' back to EU, French finance minister tells UK
-- Published
-French finance minister Roland Lescure has invited Britain to "come all the way" back to the EU, after Prime Minister Andy Burnham signalled a second Brexit referendum was "possible" in a future Labour election manifesto.
-Lescure said being in the bloc comes with some difficulties, but it enables members to better address the challenges facing the world.
-Last week, Burnham said the UK needed to "consider the options", ranging from staying as is, rejoining the customs union or single market, or going "all the way".
-Asked about the PM's comments, Lescure told the BBC: "British people decided, and that's obviously their 100% right, and if they're willing to come back, they will have to decide."
-"But what I can tell them is: come back, anytime."
-Burnham recently warned that planned EU rules to help European manufacturers would damage the UK.
-The prime minister expressed concerns about how British industry and supply chains could be affected by the planned Made In Europe scheme.
-The proposals aim to protect EU industry from Chinese competitors by giving companies inside the bloc priority for public contracts and subsidies. The EU's car industry has called for the UK to be included to prevent disruption to its own supply chains.
-Asked about the possibility of Britain being kept out of the scheme, Lescure said: "Come back, and you'll be at the table, and we discuss all these things together."
-'Our duty is to listen to young people'
-The finance minister's interview with the BBC also touched on French domestic matters, including the student protests that have swept the country, with more than 500 schools fully or partially shut as of Wednesday.
-Hundreds of thousands of people have been taking to the streets to call for better conditions in schools.
-Lescure said it was a "tough world" for young people, saying he understood why they were anxious and that "our duty as leaders is to listen to them".
-"It's hard to tell young people we're not going to have the money for you because we're spending a lot on health and pensions," he acknowledged.
-"We're getting people more healthy. People live longer. But we cannot just say 'this is fine' and then we don't have money left for the kids, so we need to rebalance that."
-In France's upcoming budget he said he will cut back on health spending and ask retired people to accept a below-inflation rise to their pension next year.
-While he said "not all" French schools were crumbling, he promised further investment in education, adding: "If we need to do more, we'll have to see."
-Public deficit is 'alarming'
-Other challenges France is currently facing include its budget deficit, and markets pushing up borrowing costs.
-Lescure acknowledged that France's annual public borrowing of over 5% of its gross domestic product (GDP) was "alarming", and said "that's why we need to act now" to avoid being forced to act later.
-Asked about the possibility of an intervention from the eurozone's central bank, Lescure said his job was to make sure France did not have to "go there".
-With significant rises in French borrowing costs, especially the premium paid over its eurozone partner, Germany, Lescure acknowledged it was "more expensive" to borrow but said there was "no issue" with issuing its debt.
-He said that his budget "will pass" a fractious French parliament and there were "lots of different ways" to ensure that.
-Related topics
-- Published30 September
-- Published22 September`,
-    bodyJa: `'Come all the way' back to EU, French finance minister tells UK
-- Published
-French finance minister Roland Lescure has invited Britain to "come all the way" back to the EU, after Prime Minister Andy Burnham signalled a second Brexit referendum was "possible" in a future Labour election manifesto.
-Lescure said being in the bloc comes with some difficulties, but it enables members to better address the challenges facing the world.
-Last week, Burnham said the UK needed to "consider the options", ranging from staying as is, rejoining the customs union or single market, or going "all the way".
-Asked about the PM's comments, Lescure told the BBC: "British people decided, and that's obviously their 100% right, and if they're willing to come back, they will have to decide."
-"But what I can tell them is: come back, anytime."
-Burnham recently warned that planned EU rules to help European manufacturers would damage the UK.
-The prime minister expressed concerns about how British industry and supply chains could be affected by the planned Made In Europe scheme.
-The proposals aim to protect EU industry from Chinese competitors by giving companies inside the bloc priority for public contracts and subsidies. The EU's car industry has called for the UK to be included to prevent disruption to its own supply chains.
-Asked about the possibility of Britain being kept out of the scheme, Lescure said: "Come back, and you'll be at the table, and we discuss all these things together."
-'Our duty is to listen to young people'
-The finance minister's interview with the BBC also touched on French domestic matters, including the student protests that have swept the country, with more than 500 schools fully or partially shut as of Wednesday.
-Hundreds of thousands of people have been taking to the streets to call for better conditions in schools.
-Lescure said it was a "tough world" for young people, saying he understood why they were anxious and that "our duty as leaders is to listen to them".
-"It's hard to tell young people we're not going to have the money for you because we're spending a lot on health and pensions," he acknowledged.
-"We're getting people more healthy. People live longer. But we cannot just say 'this is fine' and then we don't have money left for the kids, so we need to rebalance that."
-In France's upcoming budget he said he will cut back on health spending and ask retired people to accept a below-inflation rise to their pension next year.
-While he said "not all" French schools were crumbling, he promised further investment in education, adding: "If we need to do more, we'll have to see."
-Public deficit is 'alarming'
-Other challenges France is currently facing include its budget deficit, and markets pushing up borrowing costs.
-Lescure acknowledged that France's annual public borrowing of over 5% of its gross domestic product (GDP) was "alarming", and said "that's why we need to act now" to avoid being forced to act later.
-Asked about the possibility of an intervention from the eurozone's central bank, Lescure said his job was to make sure France did not have to "go there".
-With significant rises in French borrowing costs, especially the premium paid over its eurozone partner, Germany, Lescure acknowledged it was "more expensive" to borrow but said there was "no issue" with issuing its debt.
-He said that his budget "will pass" a fractious French parliament and there were "lots of different ways" to ensure that.
-Related topics
-- Published30 September
-- Published22 September`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-08T04:02:26+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bb5/live/5f9aaa00-c2a5-11f1-979a-a7b535522d35.png",
-    readTime: 9,
-  },
-  {
-    id: "trump-says-he-is-not-keen-on-a-deal-with-308a5156",
-    title: "Trump says he is not keen on a deal with Iran as U.S. reportedly prepares for 'massive bombing'",
-    titleJa: "Trump says he is not keen on a deal with Iran as U.S. reportedly prepares for 'massive bombing'",
-    summaryJa: "The U.S. president and his national security team have discussed possibly resuming large-scale U.S. military operations in the coming weeks, NBC News reported.",
-    bodyOriginal: `U.S. President Donald Trump said Wednesday that he no longer wants a deal with Iran, following reports that the U.S. military is preparing for possible strikes against the country, likely before the midterm election.
-"I think the deal isn't really something that I want to do, but they're willing to offer us anything to stop," Trump said at a campaign rally with Republican candidates in San Antonio, Texas, late Wednesday stateside. Steve Witkoff, the U.S. special envoy to the Middle East, has been working on the deal and "doing very well," Trump added.
-The U.S. president and his national security team have discussed possibly resuming large-scale U.S. military operations in the coming weeks, NBC News reported Wednesday, citing a U.S. official and another person with knowledge of the discussions.
-Axios reported earlier in the day that a possible resumption in armed conflict could include "massive bombing" of Iranian energy, infrastructure and nuclear targets, adding that military aggression could influence the outcome of the upcoming midterm elections.
-Trump has seen his approval ratings fall to a record low amid concerns over high living costs spurred by soaring gasoline and diesel prices.
-Earlier this week, Trump said the biggest problem for Washington was that nobody knew who was running Iran during the talks to end the conflict. Iranian officials rejected those claims, saying "the problem is actually the opposite." Iran's foreign ministry spokesperson Esmaeli Baghaei pointed to the "contradictory positions and mixed messaging from U.S. officials."
-Crude oil prices have remained elevated even as Middle East exports have been recovering to near pre-war levels, according to Kpler. Combined crude volumes exiting the Gulf, excluding Iran, plus volumes from Saudi Arabia and the United Arab Emirates, were around pre-conflict levels of 18.5 million barrels per day (Mbd).
-"Normalisation no longer needs to wait for a deal," said Matt Wright, lead freight analyst at Kpler, forecasting "slower, uneven normalisation" under continued conflict, with traffic recovering through operational adaptation rather than waiting for a diplomatic trigger.`,
-    bodyJa: `U.S. President Donald Trump said Wednesday that he no longer wants a deal with Iran, following reports that the U.S. military is preparing for possible strikes against the country, likely before the midterm election.
-"I think the deal isn't really something that I want to do, but they're willing to offer us anything to stop," Trump said at a campaign rally with Republican candidates in San Antonio, Texas, late Wednesday stateside. Steve Witkoff, the U.S. special envoy to the Middle East, has been working on the deal and "doing very well," Trump added.
-The U.S. president and his national security team have discussed possibly resuming large-scale U.S. military operations in the coming weeks, NBC News reported Wednesday, citing a U.S. official and another person with knowledge of the discussions.
-Axios reported earlier in the day that a possible resumption in armed conflict could include "massive bombing" of Iranian energy, infrastructure and nuclear targets, adding that military aggression could influence the outcome of the upcoming midterm elections.
-Trump has seen his approval ratings fall to a record low amid concerns over high living costs spurred by soaring gasoline and diesel prices.
-Earlier this week, Trump said the biggest problem for Washington was that nobody knew who was running Iran during the talks to end the conflict. Iranian officials rejected those claims, saying "the problem is actually the opposite." Iran's foreign ministry spokesperson Esmaeli Baghaei pointed to the "contradictory positions and mixed messaging from U.S. officials."
-Crude oil prices have remained elevated even as Middle East exports have been recovering to near pre-war levels, according to Kpler. Combined crude volumes exiting the Gulf, excluding Iran, plus volumes from Saudi Arabia and the United Arab Emirates, were around pre-conflict levels of 18.5 million barrels per day (Mbd).
-"Normalisation no longer needs to wait for a deal," said Matt Wright, lead freight analyst at Kpler, forecasting "slower, uneven normalisation" under continued conflict, with traffic recovering through operational adaptation rather than waiting for a diplomatic trigger.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/08/us-iran-war-trump-hormuz.html",
-    publishedAt: "2026-10-08T03:29:29+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "ai-chip-boom-pushes-samsung-profits-to-r-f0467446",
-    title: "AI chip boom pushes Samsung profits to record $80bn",
-    titleJa: "AI chip boom pushes Samsung profits to record $80bn",
-    summaryJa: "The tech giant is also expected to get a boost from its latest folding devices that were launched in August.",
-    bodyOriginal: `AI chip boom pushes Samsung profits to record $80bn
-- Published
-Samsung Electronics says it expects a nine-fold surge in its quarterly profits compared with a year earlier, driven by surging demand for memory chips used in artificial intelligence (AI) data centres.
-The tech giant estimates that its operating profit for the three months to the end of September will jump to 107.4tn won (£61bn; $80bn), its fourth quarter in a row of record earnings.
-Samsung is one of the world's largest memory chip makers alongside local rival SK Hynix and Micron in the US, which produce chips crucial for AI firms like Nvidia.
-Samsung, which makes the Galaxy Fold and S26 smartphones, is also expected to get a boost from its latest folding devices that were launched in August.
-The firm's full third-quarter earnings will be released at the end of October.
-Major South Korean companies tend to release previews of their earnings to advise investors ahead of more detailed reports.
-There has been huge global demand for computer chips that power AI development, helping to lift the earnings and shares of manufacturers linked to the technology.
-The surge in demand in recent years has resulted in a shortage of semiconductors globally, pushing up sales for firms like Samsung, with its stock market valuation crossing $1tn (£757bn) earlier this year.
-Investment in the industry has surged, with US tech giants including Google, Amazon and Meta pledging to pour more than $650bn into AI projects this year.
-In June, South Korea unveiled plans for at least $880bn in projects led by Samsung and SK Hynix to build out the country's chip manufacturing capabilities in the coming years.
-Rival Asian firms in Japan, China and Taiwan are also investing heavily in chip plants as demand for AI soars.
-A chip shortage driven by surging demand has led firms including Samsung to raise prices, making products such as smartphones and computers more expensive.
-- Published29 June
-- Published19 September 2024`,
-    bodyJa: `AI chip boom pushes Samsung profits to record $80bn
-- Published
-Samsung Electronics says it expects a nine-fold surge in its quarterly profits compared with a year earlier, driven by surging demand for memory chips used in artificial intelligence (AI) data centres.
-The tech giant estimates that its operating profit for the three months to the end of September will jump to 107.4tn won (£61bn; $80bn), its fourth quarter in a row of record earnings.
-Samsung is one of the world's largest memory chip makers alongside local rival SK Hynix and Micron in the US, which produce chips crucial for AI firms like Nvidia.
-Samsung, which makes the Galaxy Fold and S26 smartphones, is also expected to get a boost from its latest folding devices that were launched in August.
-The firm's full third-quarter earnings will be released at the end of October.
-Major South Korean companies tend to release previews of their earnings to advise investors ahead of more detailed reports.
-There has been huge global demand for computer chips that power AI development, helping to lift the earnings and shares of manufacturers linked to the technology.
-The surge in demand in recent years has resulted in a shortage of semiconductors globally, pushing up sales for firms like Samsung, with its stock market valuation crossing $1tn (£757bn) earlier this year.
-Investment in the industry has surged, with US tech giants including Google, Amazon and Meta pledging to pour more than $650bn into AI projects this year.
-In June, South Korea unveiled plans for at least $880bn in projects led by Samsung and SK Hynix to build out the country's chip manufacturing capabilities in the coming years.
-Rival Asian firms in Japan, China and Taiwan are also investing heavily in chip plants as demand for AI soars.
-A chip shortage driven by surging demand has led firms including Samsung to raise prices, making products such as smartphones and computers more expensive.
-- Published29 June
-- Published19 September 2024`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-08T01:59:54+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2882/live/c97d4d10-c2b4-11f1-a0fd-81bd2aaa775c.jpg",
-    readTime: 5,
-  },
-  {
-    id: "what-independence-could-mean-for-oil-ric-bd2cfeb1",
-    title: "What independence could mean for oil-rich Alberta's economy",
-    titleJa: "What independence could mean for oil-rich Alberta's economy",
-    summaryJa: "Albertans vote this month on staying in Canada or moving ahead to a binding independence referendum.",
-    bodyOriginal: `What independence could mean for oil-rich Alberta's economy
-- Published
-For Alberta independence supporter Keith Wilson, the western Canadian province is in a league of its own.
-With its wealth of rich oil and gas reserves, a significant agricultural sector and a young and skilled workforce, its economy is one to be reckoned with, says Wilson.
-The province will hold a referendum on 19 October, giving residents two options: vote to stay in Canada, or vote to move ahead with a formal binding referendum on independence at a later date.
-The vote, despite not being a cut and dry "stay or leave", still stands to be among the most consequential in recent Canadian history, and a significant test of national unity.
-One key issue has become central to the debate: Would Alberta be richer if it were to become an independent country?
-The answer for Wilson is yes.
-"Alberta's economy is unique. is fundamentally different than the rest of Canada's - we have the people, the institutions, the infrastructure to excel," he says.
-Alberta separatists have long argued that the province has been short-changed by being part of Canada, and that more of the oil and gas wealth would be kept within its borders instead of being shared with Ottawa, delivering it tens of billions in savings.
-But many disagree with their accounting.
-Alberta Premier Danielle Smith, who opposes independence, predicts a more sober outcome. She says the province could risk paying C$400bn ($283bn; £213bn) in transition costs alone, while bleeding billions more in lost investments and trade due to the political upheaval.
-A report commissioned, external by her government released earlier this month calculated the costs of separation as between C$50bn and C$170bn over five years - and a highly unpredictable outlook over the long term.
-The report cautions that the to-do list for a newly independent Alberta would be long and costly.
-It would have to set up agencies to manage taxes and national security, develop its own constitution, legal and court systems, and pension plans, and negotiate the division of federal assets like national parks and military bases.
-Lennie Kaplan, a former finance official in Alberta, says the province would be expected to take on a share of Canada's national debt, among many other fiscal challenges and responsibilities.
-A report on Alberta independence by the CanadaWest Foundation, external, a non-profit Alberta-based think tank, estimates that the province could be stuck with additional debt ranging from C$258bn to C$333bn.
-With a projected hit to Alberta's GDP and the additional costs, the report estimates separation could hit Albertans' bottom line and reduce their disposable income by 5.8% on average.
-"Why do we have to create all this uncertainty that might impact and impair the province's fiscal position going forward? Why wouldn't we just work within Canada to address these issues?" Kaplan asks.
-Opinion polling indicates that around 20% to 25% of Albertans plan to vote in favour of moving ahead with a binding separation referendum, with higher support among younger, rural and conservative voters.
-Behind the separatist push is the belief that Alberta is misunderstood and overlooked by decision-makers in Ottawa. For decades, that sentiment fuelled a sense of "western alienation" in the prairie province.
-Once a fringe movement, a number of factors pushed it to the forefront of Alberta politics.
-There was anger over environmental and political pushback that killed proposed pipelines from landlocked Alberta to coastal waters.
-A decade of Liberal government in Ottawa has also caused frustration in reliably conservative Alberta. And, in addition, there is also leftover distrust of the federal government over what some Albertans saw as excessive lockdowns during the Covid-19 pandemic.
-Over the past year, separatist organisers held townhalls across the province to gauge interest from the public. They then launched a citizen-led petition to separate earlier this year, which got more than 300,000 signatures.
-Smith, the premier, decided earlier this year she would authorise a vote.
-Alberta is home to Canada's oil and gas sector, with oil reserves estimated to be the fourth-largest in the world. Crude oil is by far Canada's most profitable commodity, accounting for C$142bn in export value in 2025 alone.
-Most of it is sold to refineries in the US.
-The province has the highest GDP per capita in the country, and it contributes billions a year to the federal tax pool because of its strong economy.
-It has not received any "equalisation" payments - money that so-called "have not", or less wealthy, provinces receive from the federal government - since 1965.
-Calculations by Tegan Hill and Nathaniel Li, economists at the Fraser Institute think tank, show that Alberta's total net contribution to Ottawa since 2007 has been C$322bn, or an average of around $17bn per year.
-"That's nearly four times that of British Columbia, more than four times Ontario," Hill tells the BBC. "The other seven provinces were net recipients, meaning Ottawa spent or transferred more money to those provinces than it collected."
-Hill explains that the amount Alberta contributes to the rest of Canada is one of the main frustrations cited by those in favour of separation.
-The sentiment, she says, is that: "We're paying to support these other provinces, and if we just went our own way, we could keep all that wealth for ourselves."
-This belief is at the heart of the economic projections from the Alberta Prosperity Project, one of the main groups organising in favour of independence.
-In its fiscal plan, released last year, external, they estimate Alberta will save up to C$47bn annually if it stops paying federal taxes.
-The plan acknowledges that Alberta's costs would be higher if it were independent because it would have to pay for things like national defence and international diplomacy, estimating those costs to be up to C$31.6bn annually.
-This would be in addition to paying for things Alberta as a province already covers, like healthcare and education, which cost around C$75bn.
-After all its essentials and new expenses are paid for, the Alberta Prosperity Project estimates a surplus of C$24bn to C$46bn per year.
-With all this extra money, proponents of separation argue Alberta could lower taxes on individuals by more than C$10,000 a year, build out its infrastructure or invest the surplus into the province's wealth fund.
-But a number of economists argue their projections lack clarity and likely overestimate the windfall.
-Hill of the Fraser Institute says one of the biggest drivers for economic decline is prolonged uncertainty, especially if the referendum doesn't put the issue to bed or if it ends up in a lengthy divorce from Canada.
-"If someone doesn't know if Alberta is going to be a part of Canada or if it's going to go on its own way in the next couple years, in what world are they going to be putting their money in the province?" she asks.
-Prime Minister Mark Carney often points to Brexit - the vote to separate Britain from the European Union - as a cautionary tale for Alberta.
-The UK economy has taken a 6% hit from the effects of Brexit, according to one report published earlier this year. If Alberta's economy suffered a similar fate post-independence, its economy could shrink by C$62bn annually, according to one projection by Calgary-based economist Trevor Tombe.
-This would also result in its workforce shrinking by 175,000, he estimated.
-Wilson dismisses that comparison, arguing the "fundamental dynamics are completely different".
-He says some of the projections by the stay side are all "doom and gloom", joking that the only possible negative they failed to include is "a large asteroid hitting Canada".
-"We're a resource economy. We have leverage. We have products the world wants. That's why investment comes here, despite the constraints imposed by Ottawa," he says.`,
-    bodyJa: `What independence could mean for oil-rich Alberta's economy
-- Published
-For Alberta independence supporter Keith Wilson, the western Canadian province is in a league of its own.
-With its wealth of rich oil and gas reserves, a significant agricultural sector and a young and skilled workforce, its economy is one to be reckoned with, says Wilson.
-The province will hold a referendum on 19 October, giving residents two options: vote to stay in Canada, or vote to move ahead with a formal binding referendum on independence at a later date.
-The vote, despite not being a cut and dry "stay or leave", still stands to be among the most consequential in recent Canadian history, and a significant test of national unity.
-One key issue has become central to the debate: Would Alberta be richer if it were to become an independent country?
-The answer for Wilson is yes.
-"Alberta's economy is unique. is fundamentally different than the rest of Canada's - we have the people, the institutions, the infrastructure to excel," he says.
-Alberta separatists have long argued that the province has been short-changed by being part of Canada, and that more of the oil and gas wealth would be kept within its borders instead of being shared with Ottawa, delivering it tens of billions in savings.
-But many disagree with their accounting.
-Alberta Premier Danielle Smith, who opposes independence, predicts a more sober outcome. She says the province could risk paying C$400bn ($283bn; £213bn) in transition costs alone, while bleeding billions more in lost investments and trade due to the political upheaval.
-A report commissioned, external by her government released earlier this month calculated the costs of separation as between C$50bn and C$170bn over five years - and a highly unpredictable outlook over the long term.
-The report cautions that the to-do list for a newly independent Alberta would be long and costly.
-It would have to set up agencies to manage taxes and national security, develop its own constitution, legal and court systems, and pension plans, and negotiate the division of federal assets like national parks and military bases.
-Lennie Kaplan, a former finance official in Alberta, says the province would be expected to take on a share of Canada's national debt, among many other fiscal challenges and responsibilities.
-A report on Alberta independence by the CanadaWest Foundation, external, a non-profit Alberta-based think tank, estimates that the province could be stuck with additional debt ranging from C$258bn to C$333bn.
-With a projected hit to Alberta's GDP and the additional costs, the report estimates separation could hit Albertans' bottom line and reduce their disposable income by 5.8% on average.
-"Why do we have to create all this uncertainty that might impact and impair the province's fiscal position going forward? Why wouldn't we just work within Canada to address these issues?" Kaplan asks.
-Opinion polling indicates that around 20% to 25% of Albertans plan to vote in favour of moving ahead with a binding separation referendum, with higher support among younger, rural and conservative voters.
-Behind the separatist push is the belief that Alberta is misunderstood and overlooked by decision-makers in Ottawa. For decades, that sentiment fuelled a sense of "western alienation" in the prairie province.
-Once a fringe movement, a number of factors pushed it to the forefront of Alberta politics.
-There was anger over environmental and political pushback that killed proposed pipelines from landlocked Alberta to coastal waters.
-A decade of Liberal government in Ottawa has also caused frustration in reliably conservative Alberta. And, in addition, there is also leftover distrust of the federal government over what some Albertans saw as excessive lockdowns during the Covid-19 pandemic.
-Over the past year, separatist organisers held townhalls across the province to gauge interest from the public. They then launched a citizen-led petition to separate earlier this year, which got more than 300,000 signatures.
-Smith, the premier, decided earlier this year she would authorise a vote.
-Alberta is home to Canada's oil and gas sector, with oil reserves estimated to be the fourth-largest in the world. Crude oil is by far Canada's most profitable commodity, accounting for C$142bn in export value in 2025 alone.
-Most of it is sold to refineries in the US.
-The province has the highest GDP per capita in the country, and it contributes billions a year to the federal tax pool because of its strong economy.
-It has not received any "equalisation" payments - money that so-called "have not", or less wealthy, provinces receive from the federal government - since 1965.
-Calculations by Tegan Hill and Nathaniel Li, economists at the Fraser Institute think tank, show that Alberta's total net contribution to Ottawa since 2007 has been C$322bn, or an average of around $17bn per year.
-"That's nearly four times that of British Columbia, more than four times Ontario," Hill tells the BBC. "The other seven provinces were net recipients, meaning Ottawa spent or transferred more money to those provinces than it collected."
-Hill explains that the amount Alberta contributes to the rest of Canada is one of the main frustrations cited by those in favour of separation.
-The sentiment, she says, is that: "We're paying to support these other provinces, and if we just went our own way, we could keep all that wealth for ourselves."
-This belief is at the heart of the economic projections from the Alberta Prosperity Project, one of the main groups organising in favour of independence.
-In its fiscal plan, released last year, external, they estimate Alberta will save up to C$47bn annually if it stops paying federal taxes.
-The plan acknowledges that Alberta's costs would be higher if it were independent because it would have to pay for things like national defence and international diplomacy, estimating those costs to be up to C$31.6bn annually.
-This would be in addition to paying for things Alberta as a province already covers, like healthcare and education, which cost around C$75bn.
-After all its essentials and new expenses are paid for, the Alberta Prosperity Project estimates a surplus of C$24bn to C$46bn per year.
-With all this extra money, proponents of separation argue Alberta could lower taxes on individuals by more than C$10,000 a year, build out its infrastructure or invest the surplus into the province's wealth fund.
-But a number of economists argue their projections lack clarity and likely overestimate the windfall.
-Hill of the Fraser Institute says one of the biggest drivers for economic decline is prolonged uncertainty, especially if the referendum doesn't put the issue to bed or if it ends up in a lengthy divorce from Canada.
-"If someone doesn't know if Alberta is going to be a part of Canada or if it's going to go on its own way in the next couple years, in what world are they going to be putting their money in the province?" she asks.
-Prime Minister Mark Carney often points to Brexit - the vote to separate Britain from the European Union - as a cautionary tale for Alberta.
-The UK economy has taken a 6% hit from the effects of Brexit, according to one report published earlier this year. If Alberta's economy suffered a similar fate post-independence, its economy could shrink by C$62bn annually, according to one projection by Calgary-based economist Trevor Tombe.
-This would also result in its workforce shrinking by 175,000, he estimated.
-Wilson dismisses that comparison, arguing the "fundamental dynamics are completely different".
-He says some of the projections by the stay side are all "doom and gloom", joking that the only possible negative they failed to include is "a large asteroid hitting Canada".
-"We're a resource economy. We have leverage. We have products the world wants. That's why investment comes here, despite the constraints imposed by Ottawa," he says.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cy745jznvxpo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-07T23:10:13+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/157e/live/547f90e0-b7a1-11f1-bc1f-3f186ca4140c.jpg",
-    readTime: 10,
-  },
-  {
-    id: "we-spent-thousands-on-a-tui-river-cruise-c433f2a1",
-    title: "We spent thousands on a Tui river cruise but ended up on coach trips",
-    titleJa: "We spent thousands on a Tui river cruise but ended up on coach trips",
-    summaryJa: "Passengers have described their anger after their itineraries changed to involve hours spent on coach trips instead.",
-    bodyOriginal: `We spent thousands on a Tui river cruise but ended up on coach trips
-- Published
-Passengers who paid thousands of pounds for European river cruises with Tui have described their anger after their itineraries changed to involve hours spent on coach trips instead.
-Several have told the BBC they believe they should get some money back, but have been offered no refund.
-Tui apologised and blamed low water levels on the Danube, adding that customers continued their holidays on amended itineraries under its standard booking conditions.
-It follows previous complaints about conditions on board two of Tui's river vessels.
-Those who contacted the BBC include Richard Pearson from Lincolnshire, whose week-long holiday began on 21 September.
-Upon arrival in Budapest, he says passengers were told their vessel, Isla, was in Vienna and could not get to them, so they were being put up in a hotel instead, which he describes as "average".
-The next day involved a four-hour coach journey to reach the ship.
-The vessel then sailed overnight - meaning no chance to take in the scenery - to Krems. It then stayed there for a few days, with passengers bussed on day trips to locations between 45 minutes and two hours away. The return sailing to Vienna was also in the dark.
-The one time there was a "scenic sail" during the day, it was a round trip back to Krems which started early in the morning.
-'A floating hotel with coach transfers'
-Richard says the food and the staff on board Isla were excellent, but overall the experience was not what he expected when he booked the trip - especially the schedule.
-He worked out that "we spent 14 to 15 hours of that holiday on a coach trip, plus time wasted waiting for coaches".
-Richard says the reason people were given for the changes of plan was "circumstances beyond [Tui's] control because of the low water levels".
-"[But] the main thing for us was it wasn't relaxing. It wasn't a river cruise, it was a little bit of sailing, a floating hotel with coach transfers."
-If they had been offered a refund, Richard and his partner would have not gone.
-He is now contacting Tui to complain and request some of their £3,300 back.
-'We feel as though we've been had'
-Sue Crosby and her husband booked on Isla, with the holiday starting on 14 September - her 70th birthday.
-She had a similar experience and told the BBC: "We feel as though we've been had."
-A revised itinerary was sent a few days before departure, making clear there would be multiple coach trips on offer due to low water levels on the Danube.
-The couple didn't want to do this and so asked for a refund. But after being told no refund was possible, they travelled "reluctantly".
-Even during the trip, the schedule changed further.
-It wasn't the river levels themselves that frustrated Sue. "It's how they handled it, and the fact they're still advertising the holidays now."
-She also describes the food and the people on the ship as great. However, her complaint is "about the drastic change of itinerary... and the fact we weren't able to get a full refund".
-Sue says there were only two half days of sailing where people could actually experience a river cruise.
-"We didn't want to go on a tour on coaches every day."
-'It's the way they handled it'
-David Mallon and a group of five others were due to travel on 21 September. But they decided the new itinerary presented to them a few days before departure was so different from what they had booked that they didn't want to go.
-"What they were planning to give us was not a cruise but a glorified coach trip," says David.
-One reason for not wanting to accept the new plan was that a member of the group was meant to be avoiding long periods of sitting down - such as coach journeys - for health reasons.
-With no offer of a refund, the group booked a last-minute holiday to Kos instead and decided to try and claim money back on their return.
-"We don't blame Tui for the water levels, but it's the way they've handled the consequences of that," David says.
-He has now submitted a complaint to Tui and says he will take his quest for a refund to the small claims court if necessary.
-The BBC contacted Tui River Cruises about passengers' unhappiness with the extensive itinerary changes and the fact they were not offered any refund.
-In a statement, a spokesperson said: "Extreme heat across Europe this summer caused low water levels on the Danube, affecting river cruise operators across the region. We review every sailing individually with our nautical partners.
-"Customers on the Tui Isla departures on 14 and 21 September were sent revised itineraries before travelling. Where the ship couldn't sail sections of the river, we arranged coach transfers, hotel stays and adjusted travel arrangements to minimise transfer times so customers could still visit destinations, including Budapest, Vienna and Bratislava.
-"We reviewed the revised arrangements carefully and customers continued their holiday on the amended itinerary under our standard booking conditions. While customers were still able to visit the key destinations on their itinerary, we're sorry some did not get the river cruise experience they had anticipated."`,
-    bodyJa: `We spent thousands on a Tui river cruise but ended up on coach trips
-- Published
-Passengers who paid thousands of pounds for European river cruises with Tui have described their anger after their itineraries changed to involve hours spent on coach trips instead.
-Several have told the BBC they believe they should get some money back, but have been offered no refund.
-Tui apologised and blamed low water levels on the Danube, adding that customers continued their holidays on amended itineraries under its standard booking conditions.
-It follows previous complaints about conditions on board two of Tui's river vessels.
-Those who contacted the BBC include Richard Pearson from Lincolnshire, whose week-long holiday began on 21 September.
-Upon arrival in Budapest, he says passengers were told their vessel, Isla, was in Vienna and could not get to them, so they were being put up in a hotel instead, which he describes as "average".
-The next day involved a four-hour coach journey to reach the ship.
-The vessel then sailed overnight - meaning no chance to take in the scenery - to Krems. It then stayed there for a few days, with passengers bussed on day trips to locations between 45 minutes and two hours away. The return sailing to Vienna was also in the dark.
-The one time there was a "scenic sail" during the day, it was a round trip back to Krems which started early in the morning.
-'A floating hotel with coach transfers'
-Richard says the food and the staff on board Isla were excellent, but overall the experience was not what he expected when he booked the trip - especially the schedule.
-He worked out that "we spent 14 to 15 hours of that holiday on a coach trip, plus time wasted waiting for coaches".
-Richard says the reason people were given for the changes of plan was "circumstances beyond [Tui's] control because of the low water levels".
-"[But] the main thing for us was it wasn't relaxing. It wasn't a river cruise, it was a little bit of sailing, a floating hotel with coach transfers."
-If they had been offered a refund, Richard and his partner would have not gone.
-He is now contacting Tui to complain and request some of their £3,300 back.
-'We feel as though we've been had'
-Sue Crosby and her husband booked on Isla, with the holiday starting on 14 September - her 70th birthday.
-She had a similar experience and told the BBC: "We feel as though we've been had."
-A revised itinerary was sent a few days before departure, making clear there would be multiple coach trips on offer due to low water levels on the Danube.
-The couple didn't want to do this and so asked for a refund. But after being told no refund was possible, they travelled "reluctantly".
-Even during the trip, the schedule changed further.
-It wasn't the river levels themselves that frustrated Sue. "It's how they handled it, and the fact they're still advertising the holidays now."
-She also describes the food and the people on the ship as great. However, her complaint is "about the drastic change of itinerary... and the fact we weren't able to get a full refund".
-Sue says there were only two half days of sailing where people could actually experience a river cruise.
-"We didn't want to go on a tour on coaches every day."
-'It's the way they handled it'
-David Mallon and a group of five others were due to travel on 21 September. But they decided the new itinerary presented to them a few days before departure was so different from what they had booked that they didn't want to go.
-"What they were planning to give us was not a cruise but a glorified coach trip," says David.
-One reason for not wanting to accept the new plan was that a member of the group was meant to be avoiding long periods of sitting down - such as coach journeys - for health reasons.
-With no offer of a refund, the group booked a last-minute holiday to Kos instead and decided to try and claim money back on their return.
-"We don't blame Tui for the water levels, but it's the way they've handled the consequences of that," David says.
-He has now submitted a complaint to Tui and says he will take his quest for a refund to the small claims court if necessary.
-The BBC contacted Tui River Cruises about passengers' unhappiness with the extensive itinerary changes and the fact they were not offered any refund.
-In a statement, a spokesperson said: "Extreme heat across Europe this summer caused low water levels on the Danube, affecting river cruise operators across the region. We review every sailing individually with our nautical partners.
-"Customers on the Tui Isla departures on 14 and 21 September were sent revised itineraries before travelling. Where the ship couldn't sail sections of the river, we arranged coach transfers, hotel stays and adjusted travel arrangements to minimise transfer times so customers could still visit destinations, including Budapest, Vienna and Bratislava.
-"We reviewed the revised arrangements carefully and customers continued their holiday on the amended itinerary under our standard booking conditions. While customers were still able to visit the key destinations on their itinerary, we're sorry some did not get the river cruise experience they had anticipated."`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cq62j2lzlnm8o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-07T23:05:17+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1364/live/c9d48c10-c278-11f1-bc2e-018d645d8d21.jpg",
-    readTime: 10,
-  },
-  {
-    id: "hedgehog-among-four-animals-chosen-to-fe-51f1a2a2",
-    title: "Hedgehog among four animals chosen to feature on new banknotes",
-    titleJa: "Hedgehog among four animals chosen to feature on new banknotes",
-    summaryJa: "The decision comes after nearly half a million people voted on a shortlist of 18 creatures.",
-    bodyOriginal: `Hedgehog among four animals chosen to feature on new banknotes
-- Published
-Banknotes are getting a nature makeover - and the Bank of England has revealed the four creatures that will feature on our money.
-The Atlantic puffin, barn owl, buff-tailed bumblebee and European hedgehog will appear on the redesigned notes in years to come - although no decision has been made about which animal will be shown on which banknote.
-The owl, bumblebee and hedgehog topped a public vote in their specific categories, and the puffin was included to celebrate marine life, the coastline and bring variety to the notes, the Bank said.
-Wildlife is replacing notable figures from history, such as Sir Winston Churchill, on our cash in a decision that angered a number of leading politicians.
-'Four distinct and inspiring animals'
-"We have chosen four distinct and inspiring animals that not only showcase the great variety of wildlife we have in the UK but will also enhance the security of our banknotes," said Victoria Cleland, the Bank's chief cashier.
-A panel of wildlife experts drew up a shortlist of 18 mammals, birds, amphibians insects and fish which were put forward to public nominations. Respondents were invited to select up to six.
-More than 2.5 million votes were cast by 478,531 people, ranging from wildlife enthusiasts to primary school classes.
-The buff-tailed bumblebee (Bombus terrestris) was a clear winner, receiving 360,399 votes, nearly 90,000 more than the barn owl (Tyto alba).
-The European hedgehog (Erinaceus europaeus) was most popular in the mammals category.
-The red fox, in the mammals category, and the common kingfisher, among the birds, received more nominations than the Atlantic puffin. The puffin (Fratercula arctica) was still selected because it was the most popular marine animal.
-The Bank said its inclusion added variety to the series, made the denominations easier to distinguish, and gave an opportunity to celebrate the British coastline.
-The puffin and bees also feature on coins, as part of the Royal Mint's redesigned 20p and £1 coins respectively.
-Each of the quartet of creatures will feature as the central image of a £5, £10, £20 or £50 note, which will also feature other elements from nature as part of their designs, potentially including other shortlisted animals. The monarch will still feature on the other side of the notes.
-Rhys Phillips, the Bank's incoming chief cashier who will be responsible for the roll-out of the new series of notes, said the process of designing, testing and printing banknotes could take years.
-He said the Bank needed to make sure they were high-quality, resilient and accessible. As the designs were only in the very early stages, they would be unveiled closer to their launch.
-"We'll now work to design, test and produce the banknotes, combining the imagery we've announced today with cutting-edge security features and materials science," he said.
-Wildlife already appears on banknotes in the UK, with mackerel, otters, red squirrels and osprey featuring on notes issued by the Royal Bank of Scotland, external.
-Yet it will be the first time since 1970 that the reverse side of Bank of England notes will no longer feature notable figures from history.
-On notes circulating currently, in ascending order of value, are former Prime Minister Sir Winston Churchill, author Jane Austen, artist JMW Turner and mathematician and wartime codebreaker Alan Turing.
-The proposed removal of wartime leader Churchill angered Reform leader Nigel Farage, and Liberal Democrat leader Sir Ed Davey, with Conservative leader Kemi Badenoch describing the move as "a silly thing to do".
-The Bank said the move was primarily to stop counterfeiting so all images needed to be replaced on banknotes over time.
-Related topics
-- Published15 March
-- Published1 day ago`,
-    bodyJa: `Hedgehog among four animals chosen to feature on new banknotes
-- Published
-Banknotes are getting a nature makeover - and the Bank of England has revealed the four creatures that will feature on our money.
-The Atlantic puffin, barn owl, buff-tailed bumblebee and European hedgehog will appear on the redesigned notes in years to come - although no decision has been made about which animal will be shown on which banknote.
-The owl, bumblebee and hedgehog topped a public vote in their specific categories, and the puffin was included to celebrate marine life, the coastline and bring variety to the notes, the Bank said.
-Wildlife is replacing notable figures from history, such as Sir Winston Churchill, on our cash in a decision that angered a number of leading politicians.
-'Four distinct and inspiring animals'
-"We have chosen four distinct and inspiring animals that not only showcase the great variety of wildlife we have in the UK but will also enhance the security of our banknotes," said Victoria Cleland, the Bank's chief cashier.
-A panel of wildlife experts drew up a shortlist of 18 mammals, birds, amphibians insects and fish which were put forward to public nominations. Respondents were invited to select up to six.
-More than 2.5 million votes were cast by 478,531 people, ranging from wildlife enthusiasts to primary school classes.
-The buff-tailed bumblebee (Bombus terrestris) was a clear winner, receiving 360,399 votes, nearly 90,000 more than the barn owl (Tyto alba).
-The European hedgehog (Erinaceus europaeus) was most popular in the mammals category.
-The red fox, in the mammals category, and the common kingfisher, among the birds, received more nominations than the Atlantic puffin. The puffin (Fratercula arctica) was still selected because it was the most popular marine animal.
-The Bank said its inclusion added variety to the series, made the denominations easier to distinguish, and gave an opportunity to celebrate the British coastline.
-The puffin and bees also feature on coins, as part of the Royal Mint's redesigned 20p and £1 coins respectively.
-Each of the quartet of creatures will feature as the central image of a £5, £10, £20 or £50 note, which will also feature other elements from nature as part of their designs, potentially including other shortlisted animals. The monarch will still feature on the other side of the notes.
-Rhys Phillips, the Bank's incoming chief cashier who will be responsible for the roll-out of the new series of notes, said the process of designing, testing and printing banknotes could take years.
-He said the Bank needed to make sure they were high-quality, resilient and accessible. As the designs were only in the very early stages, they would be unveiled closer to their launch.
-"We'll now work to design, test and produce the banknotes, combining the imagery we've announced today with cutting-edge security features and materials science," he said.
-Wildlife already appears on banknotes in the UK, with mackerel, otters, red squirrels and osprey featuring on notes issued by the Royal Bank of Scotland, external.
-Yet it will be the first time since 1970 that the reverse side of Bank of England notes will no longer feature notable figures from history.
-On notes circulating currently, in ascending order of value, are former Prime Minister Sir Winston Churchill, author Jane Austen, artist JMW Turner and mathematician and wartime codebreaker Alan Turing.
-The proposed removal of wartime leader Churchill angered Reform leader Nigel Farage, and Liberal Democrat leader Sir Ed Davey, with Conservative leader Kemi Badenoch describing the move as "a silly thing to do".
-The Bank said the move was primarily to stop counterfeiting so all images needed to be replaced on banknotes over time.
-Related topics
-- Published15 March
-- Published1 day ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-07T23:01:30+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab31/live/c6dee830-c277-11f1-babe-4199b0e7ccea.jpg",
-    readTime: 10,
-  },
-  {
-    id: "stop-throwing-shade-the-woman-trying-to-66328fc8",
-    title: "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
-    titleJa: "'Stop throwing shade' - the woman trying to stop firms leaving the UK",
-    summaryJa: "British people need more incentives to invest in big firms listed in the UK, Dame Julia Hoggett, boss of the London Stock Exchange, says.",
-    bodyOriginal: `'Stop throwing shade' - the woman trying to stop firms leaving the UK
-- Published
-The UK needs to do more to back its own companies at a time when a growing number are choosing to list their shares in the US rather than at home, the boss of the London Stock Exchange (LSE) has told the BBC.
-Dame Julia Hoggett said the government needed to make it "more attractive" to invest in the UK stock market, otherwise big firms would continue to look overseas for their next stage of growth.
-Over the last few years, scores of big firms have left the London market, are considering a move or have been bought by private foreign investors.
-The fear is this weakens the UK economy by reducing tax revenues and depressing business valuations.
-'Take the handbrake off'
-"If we want Britain to back Britain, which is what I hear the chancellor and the prime minister saying, then let's make sure that we're creating structural incentives to do so," Dame Julia told the BBC's Big Boss podcast.
-"We need to take the handbrake off."
-The LSE's main market is made up of around 930 companies with a total market value of about £4.9 trillion.
-Almost 40% are international businesses, hailing from over 80 countries.
-But in the last few years, many firms have delisted or moved away from the LSE, including takeaway chain Just Eat, which joined the Amsterdam stock exchange, travel giant Tui which opted for Frankfurt, and Paddy Power-owner Flutter which now trades in New York.
-'Stop throwing shade'
-Meanwhile, the number of companies newly listing their shares in London has dwindled.
-Last year, there were 23 initial public offerings (IPOs) on the London market, with £2.1bn raised. In the US, which has much larger capital markets, there were 354 with $44bn (£33bn) raised.
-It has coincided in a big rise of UK investment money flowing into US stocks in search of better returns.
-"We talk as a nation about wanting growth in every postcode, but at the moment, a lot of us are funding growth in every zip code," Dame Julia said.
-There was "no shortage of great companies and no shortage of capital", she added.
-But negative sentiment about the UK market - which was often exaggerated - had contributed to companies leaving in the past, she said.
-"We need to stop throwing shade at ourselves as a nation... it's a national habit."
-Big Boss Interview: LSE's Dame Julia Hoggett
-The boss of the London Stock Exchange speaks to the BBC about the attraction of the UK as a place for companies to list.
-However, she said British people needed more "incentives" to invest in UK stocks.
-She wants the government to scrap the 0.5% tax, external Britons pay when they purchase UK shares, pointing out there is no tax when they buy foreign stocks.
-She also supports the idea of tax credits for Britons investing domestically. The UK had such a scheme until 2016.
-Business lobbying group the Confederation of British Industry has called for urgent action to halt the exodus of firms from the London Stock Exchange.
-It said that lighter regulation, better marketing and incentives for investors were needed to stem the outflow.
-The government declined to say if stock market reform would be part of its Budget this month.
-"As has always been the case, decisions on tax are a matter for the chancellor to set out at fiscal events, rather than routinely commenting on rumour, speculation or proposals," a spokesman said.
-Related topics
-- Published24 April`,
-    bodyJa: `'Stop throwing shade' - the woman trying to stop firms leaving the UK
-- Published
-The UK needs to do more to back its own companies at a time when a growing number are choosing to list their shares in the US rather than at home, the boss of the London Stock Exchange (LSE) has told the BBC.
-Dame Julia Hoggett said the government needed to make it "more attractive" to invest in the UK stock market, otherwise big firms would continue to look overseas for their next stage of growth.
-Over the last few years, scores of big firms have left the London market, are considering a move or have been bought by private foreign investors.
-The fear is this weakens the UK economy by reducing tax revenues and depressing business valuations.
-'Take the handbrake off'
-"If we want Britain to back Britain, which is what I hear the chancellor and the prime minister saying, then let's make sure that we're creating structural incentives to do so," Dame Julia told the BBC's Big Boss podcast.
-"We need to take the handbrake off."
-The LSE's main market is made up of around 930 companies with a total market value of about £4.9 trillion.
-Almost 40% are international businesses, hailing from over 80 countries.
-But in the last few years, many firms have delisted or moved away from the LSE, including takeaway chain Just Eat, which joined the Amsterdam stock exchange, travel giant Tui which opted for Frankfurt, and Paddy Power-owner Flutter which now trades in New York.
-'Stop throwing shade'
-Meanwhile, the number of companies newly listing their shares in London has dwindled.
-Last year, there were 23 initial public offerings (IPOs) on the London market, with £2.1bn raised. In the US, which has much larger capital markets, there were 354 with $44bn (£33bn) raised.
-It has coincided in a big rise of UK investment money flowing into US stocks in search of better returns.
-"We talk as a nation about wanting growth in every postcode, but at the moment, a lot of us are funding growth in every zip code," Dame Julia said.
-There was "no shortage of great companies and no shortage of capital", she added.
-But negative sentiment about the UK market - which was often exaggerated - had contributed to companies leaving in the past, she said.
-"We need to stop throwing shade at ourselves as a nation... it's a national habit."
-Big Boss Interview: LSE's Dame Julia Hoggett
-The boss of the London Stock Exchange speaks to the BBC about the attraction of the UK as a place for companies to list.
-However, she said British people needed more "incentives" to invest in UK stocks.
-She wants the government to scrap the 0.5% tax, external Britons pay when they purchase UK shares, pointing out there is no tax when they buy foreign stocks.
-She also supports the idea of tax credits for Britons investing domestically. The UK had such a scheme until 2016.
-Business lobbying group the Confederation of British Industry has called for urgent action to halt the exodus of firms from the London Stock Exchange.
-It said that lighter regulation, better marketing and incentives for investors were needed to stem the outflow.
-The government declined to say if stock market reform would be part of its Budget this month.
-"As has always been the case, decisions on tax are a matter for the chancellor to set out at fiscal events, rather than routinely commenting on rumour, speculation or proposals," a spokesman said.
-Related topics
-- Published24 April`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmgqwydpd4xwo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-07T23:00:55+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d29e/live/f8595c00-c264-11f1-b3ac-93b64873b487.jpg",
-    readTime: 9,
   },
 ];
 
