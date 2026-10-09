@@ -15,6 +15,314 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "treasury-s-bessent-hires-trump-s-controv-366de4cd",
+    title: "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
+    titleJa: "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
+    summaryJa: "Shelton's controversial economic ideas led the Senate to block her nomination to the Fed. Now she's going to be a counselor to the Treasury secretary.",
+    bodyOriginal: `Judy Shelton, whose controversial economic ideas led the Senate to block her nomination to the Federal Reserve, has been appointed a counselor to Treasury Secretary Scott Bessent.
+The Treasury said Shelton will advise Bessent on currency policy, "with a particular focus on evaluating financial conditions in China."
+Shelton is not known as a China expert. She authored "The Coming Soviet Crash" in 1989, followed by "Money Meltdown," about the need for a unified international monetary regime, in 1994. Before joining Treasury, Shelton was a senior fellow at the Independent Institute, a free market think tank, and, before that, at the Hoover Institution at Stanford University. She holds a Ph.D. in business administration from the University of Utah.
+"Throughout her career, she has specialized in analyzing the internal monetary and financial conditions of nations and their impact on exchange rates," The Treasury said in its announcement, which will be released later Friday.
+A bipartisan group of senators, including all Democrats and a handful of Republicans, rejected President Donald Trump's 2019 nomination of Shelton as a Fed governor over her views on Fed independence, her support for the gold standard and her questioning whether the U.S. needed a central bank.
+Her appointment comes at what looks to be a time of turmoil at the Treasury regarding high-level personnel. A recent Wall Street Journal story cataloged seven Senate-confirmed officials who have left the department through the end of August. Only one position has been filled.
+Bessent recently named David Zervos, former chief market strategist at Jefferies, as a counselor — the same job title as Shelton. Neither Shelton nor Zervos require Senate approval.`,
+    bodyJa: `Judy Shelton, whose controversial economic ideas led the Senate to block her nomination to the Federal Reserve, has been appointed a counselor to Treasury Secretary Scott Bessent.
+The Treasury said Shelton will advise Bessent on currency policy, "with a particular focus on evaluating financial conditions in China."
+Shelton is not known as a China expert. She authored "The Coming Soviet Crash" in 1989, followed by "Money Meltdown," about the need for a unified international monetary regime, in 1994. Before joining Treasury, Shelton was a senior fellow at the Independent Institute, a free market think tank, and, before that, at the Hoover Institution at Stanford University. She holds a Ph.D. in business administration from the University of Utah.
+"Throughout her career, she has specialized in analyzing the internal monetary and financial conditions of nations and their impact on exchange rates," The Treasury said in its announcement, which will be released later Friday.
+A bipartisan group of senators, including all Democrats and a handful of Republicans, rejected President Donald Trump's 2019 nomination of Shelton as a Fed governor over her views on Fed independence, her support for the gold standard and her questioning whether the U.S. needed a central bank.
+Her appointment comes at what looks to be a time of turmoil at the Treasury regarding high-level personnel. A recent Wall Street Journal story cataloged seven Senate-confirmed officials who have left the department through the end of August. Only one position has been filled.
+Bessent recently named David Zervos, former chief market strategist at Jefferies, as a counselor — the same job title as Shelton. Neither Shelton nor Zervos require Senate approval.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
+    publishedAt: "2026-10-09T12:49:28+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "delta-air-lines-cuts-2026-forecast-on-fu-6d7310e6",
+    title: "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
+    titleJa: "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
+    summaryJa: "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
+    bodyOriginal: `Delta Air Lines slashed its 2026 profit outlook as high fuel prices persist, but CEO Ed Bastian said higher fares aren't turning off travelers.
+Delta on Friday forecast full-year earnings per share of between $5.10 and $5.60 on an adjusted basis, compared with its outlook in July, when fuel prices were lower, of $6.50 to $7.50 a share. The company's fourth-quarter guidance was below analyst estimates, too.
+Delta cut its free cash flow outlook for the year to $2.5 billion, from as much as $4 billion it expected in July.
+Still, Bastian said in an interview that fares have continued to tick up as the airline passes along much of a $6 billion increase in fuel costs this year, and that travelers keep booking. Jet fuel prices in the U.S. Gulf of Mexico region have almost doubled to $4.34 on Thursday from $2.19 a year earlier, according to FactSet.
+"The consumer response continues to be quite strong. We're seeing it across all channels, all cabins of service, all geographies, business, leisure," he said.
+Delta forecast a 20% increase in revenue for the fourth quarter over the same period last year, more than the 16% rise in the third quarter, when adjusting for the airline's benefit from its refinery in Trainer, Pennsylvania, where it refines crude oil into jet fuel and other products, giving it an advantage over other carriers.
+"Obviously the fuel pricing, the volatility of fuel prices have something to do with that," Bastian said.
+Delta is the country's most profitable airline and the first to report results from the third quarter, which encompasses the busy summer season.
+Costs continued to weigh on the bottom line. The fuel price surge since the Iran war began in February has put a damper on airline profits even as carriers flex pricing power. The latest inflation read in September showed airfare up more than 23% from a year earlier.
+Here's what the company reported for the third quarter compared with what Wall Street was expecting, based on consensus estimates from LSEG:
+- Earnings per share: $1.72 adjusted vs. $1.75 expected
+- Adjusted revenue: $17.59 billion adjusted vs. $17.67 billion expected
+It was the first time in two years that Delta missed estimates.
+Delta reported net income of $756 million, or $1.15 a share, down 47% from $1.42 billion, or $2.17 per share, a year earlier. Adjusting for one-time items, Delta posted earnings of $1.76 per share.
+Adjusting for sales from its refinery, maintenance business and profit-sharing, revenue rose 16% from the previous year to $17.59 billion. Operating revenue jumped 21% in the third quarter to $20.19 billion.
+Delta's premium revenue, which has become a larger portion of its total sales, grew 18% in the third quarter to $6.82 billion, while main cabin sales rose only 12% to $6.8 billion.
+Musk dispute
+Delta, which announced free Wi-Fi across its fleet almost four years ago, recently said it would add Amazon Leo satellite internet to its airplanes as carriers race to improve service on board to living-room-quality speeds.
+SpaceX CEO Elon Musk criticized Bastian on X last week, saying the Delta CEO would "lose his job over this" after the View from the Wing travel blog said Bastian told staff at an internal event "We do not want to be with Elon Musk. Trust me."
+SpaceX's Starlink Wi-Fi has become the main supplier of satellite Wi-Fi, with airline partnerships that include United Airlines, American Airlines, Southwest Airlines and Alaska Airlines, as well as others around the world.
+Delta's Bastian brushed off the idea of a personal spat with Musk on Friday and told CNBC's Phil LeBeau in an interview that "everyone's entitled to their opinion."
+"There's no tit-for-tat as far as I'm concerned," Bastian said. He said Delta had talks with SpaceX six years ago, but they "weren't ready to scale."`,
+    bodyJa: `Delta Air Lines slashed its 2026 profit outlook as high fuel prices persist, but CEO Ed Bastian said higher fares aren't turning off travelers.
+Delta on Friday forecast full-year earnings per share of between $5.10 and $5.60 on an adjusted basis, compared with its outlook in July, when fuel prices were lower, of $6.50 to $7.50 a share. The company's fourth-quarter guidance was below analyst estimates, too.
+Delta cut its free cash flow outlook for the year to $2.5 billion, from as much as $4 billion it expected in July.
+Still, Bastian said in an interview that fares have continued to tick up as the airline passes along much of a $6 billion increase in fuel costs this year, and that travelers keep booking. Jet fuel prices in the U.S. Gulf of Mexico region have almost doubled to $4.34 on Thursday from $2.19 a year earlier, according to FactSet.
+"The consumer response continues to be quite strong. We're seeing it across all channels, all cabins of service, all geographies, business, leisure," he said.
+Delta forecast a 20% increase in revenue for the fourth quarter over the same period last year, more than the 16% rise in the third quarter, when adjusting for the airline's benefit from its refinery in Trainer, Pennsylvania, where it refines crude oil into jet fuel and other products, giving it an advantage over other carriers.
+"Obviously the fuel pricing, the volatility of fuel prices have something to do with that," Bastian said.
+Delta is the country's most profitable airline and the first to report results from the third quarter, which encompasses the busy summer season.
+Costs continued to weigh on the bottom line. The fuel price surge since the Iran war began in February has put a damper on airline profits even as carriers flex pricing power. The latest inflation read in September showed airfare up more than 23% from a year earlier.
+Here's what the company reported for the third quarter compared with what Wall Street was expecting, based on consensus estimates from LSEG:
+- Earnings per share: $1.72 adjusted vs. $1.75 expected
+- Adjusted revenue: $17.59 billion adjusted vs. $17.67 billion expected
+It was the first time in two years that Delta missed estimates.
+Delta reported net income of $756 million, or $1.15 a share, down 47% from $1.42 billion, or $2.17 per share, a year earlier. Adjusting for one-time items, Delta posted earnings of $1.76 per share.
+Adjusting for sales from its refinery, maintenance business and profit-sharing, revenue rose 16% from the previous year to $17.59 billion. Operating revenue jumped 21% in the third quarter to $20.19 billion.
+Delta's premium revenue, which has become a larger portion of its total sales, grew 18% in the third quarter to $6.82 billion, while main cabin sales rose only 12% to $6.8 billion.
+Musk dispute
+Delta, which announced free Wi-Fi across its fleet almost four years ago, recently said it would add Amazon Leo satellite internet to its airplanes as carriers race to improve service on board to living-room-quality speeds.
+SpaceX CEO Elon Musk criticized Bastian on X last week, saying the Delta CEO would "lose his job over this" after the View from the Wing travel blog said Bastian told staff at an internal event "We do not want to be with Elon Musk. Trust me."
+SpaceX's Starlink Wi-Fi has become the main supplier of satellite Wi-Fi, with airline partnerships that include United Airlines, American Airlines, Southwest Airlines and Alaska Airlines, as well as others around the world.
+Delta's Bastian brushed off the idea of a personal spat with Musk on Friday and told CNBC's Phil LeBeau in an interview that "everyone's entitled to their opinion."
+"There's no tit-for-tat as far as I'm concerned," Bastian said. He said Delta had talks with SpaceX six years ago, but they "weren't ready to scale."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
+    publishedAt: "2026-10-09T12:20:12+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "how-to-navigate-new-tax-rules-in-year-en-a67b2207",
+    title: "How to navigate new tax rules in year-end planning, according to top-ranked advisors",
+    titleJa: "How to navigate new tax rules in year-end planning, according to top-ranked advisors",
+    summaryJa: "Top-ranked advisors from CNBC's Financial Advisor 100 list for 2026 share tax planning strategies for 2026.",
+    bodyOriginal: `Taxes have grown more complex amid changes from President Donald Trump's "big beautiful bill" and other updates, which top-ranked advisors say could affect year-end tax planning.
+The Republicans' marquee legislation extended Trump's 2017 cuts while adding new tax breaks for tip income, overtime earnings and auto loan interest, as well as a deduction that benefits seniors. The law also boosted the federal deduction limit for state and local taxes, known as SALT, among other shifts.
+Often, planning happens throughout the year, and most strategies must be completed by Dec. 31 to affect tax refunds or balances due for the ensuing tax filing season. As year-end approaches, there are some key tax moves to consider, experts say.
+Manage income for the 'ACA cliff'
+Changes to adjusted gross income, or AGI, can affect a range of tax benefits, including the premium tax credit, which makes Affordable Care Act marketplace health insurance cheaper.
+While Congress boosted the credit during the pandemic, the enhanced benefit expired after 2025, exposing millions of Americans to the so-called "ACA cliff" starting in 2026. That means if they earn even $1 more than a certain income threshold, they lose all eligibility for subsidies and must pay the full premium for health coverage.
+"This is the first year the ACA cliff really matters," said Tommy Lucas, a certified financial planner at Moisand Fitzgerald Tamayo in Orlando, Florida. His firm is ranked No. 44 on CNBC's Financial Advisor 100 list for 2026.
+The cliff affects ACA enrollees once household income exceeds 400% of the federal poverty line threshold, which varies by family size. For 2026, those limits are about $63,000 for a single person or $129,000 for a family of four.
+But there are strategies to avoid "falling off the cliff," such as pairing a high-deduction health plan with health savings account contributions, which reduce your AGI, Lucas said.
+Leverage the charitable deduction
+Starting in 2026, Trump's legislation also added a charitable deduction for filers who don't itemize tax breaks, worth up to $1,000 for single filers and $2,000 for married couples. The deduction applies to cash contributions made to eligible nonprofit organizations.
+A $2,000 deduction reduces your income subject to tax. For example, if a married couple filing jointly in the 22% tax bracket donates $2,000, they could reduce federal income taxes by up to $440.
+If you claim the deduction for 2026, you could have "a little bit more room" to potentially offset moves that add to your taxable income, such as selling profitable investments or making Roth conversions, Lucas said.
+Transfer assets to a donor-advised fund
+If you itemize deductions and give to charity, Trump's legislation added two changes that could reduce your benefit.
+For 2026, there's a charitable deduction "floor" for itemizers, which allows the tax break only once your donations exceed 0.5% of AGI. There wasn't a floor before the 2025 tax law.
+For example, if your AGI is $200,000 and you donate $10,000 in 2026, the 0.5% floor, or the first $1,000, isn't eligible for the charitable deduction.
+Trump's legislation also limits the deduction for top-earning households in the 37% top marginal income tax rate by effectively capping the tax break at 35%.
+With the S&P 500 hovering near a record high, many investors are sitting on profitable assets in taxable brokerage accounts and may consider donating those assets for a possible charitable deduction.
+One way to maximize gifts under the new law is bunching charitable gifts you'd have otherwise donated gradually into a single year, according to CFP Charissa Anderson, an executive vice president at Ferguson Wellman Capital Management in Portland, Oregon. Her firm ranked No. 52 on CNBC's Financial Advisor 100 list for 2026.
+"Bunching becomes even more tax-effective when we pair it with the donor-advised fund and fund it with appreciated stock," she said. Donor-advised funds work like a charitable checkbook, allowing taxpayers to make a large gift at one time but can distribute the funds to eligible nonprofit organizations over time.
+Plus, donating profitable investments "still continues to provide the benefits of avoiding capital gains," Anderson said.
+CNBC receives no compensation from placing financial advisory firms on our Financial Advisor 100 list. Additionally, a firm's or advisor's appearance in our ranking does not constitute an individual endorsement by CNBC of any firm or advisor.`,
+    bodyJa: `Taxes have grown more complex amid changes from President Donald Trump's "big beautiful bill" and other updates, which top-ranked advisors say could affect year-end tax planning.
+The Republicans' marquee legislation extended Trump's 2017 cuts while adding new tax breaks for tip income, overtime earnings and auto loan interest, as well as a deduction that benefits seniors. The law also boosted the federal deduction limit for state and local taxes, known as SALT, among other shifts.
+Often, planning happens throughout the year, and most strategies must be completed by Dec. 31 to affect tax refunds or balances due for the ensuing tax filing season. As year-end approaches, there are some key tax moves to consider, experts say.
+Manage income for the 'ACA cliff'
+Changes to adjusted gross income, or AGI, can affect a range of tax benefits, including the premium tax credit, which makes Affordable Care Act marketplace health insurance cheaper.
+While Congress boosted the credit during the pandemic, the enhanced benefit expired after 2025, exposing millions of Americans to the so-called "ACA cliff" starting in 2026. That means if they earn even $1 more than a certain income threshold, they lose all eligibility for subsidies and must pay the full premium for health coverage.
+"This is the first year the ACA cliff really matters," said Tommy Lucas, a certified financial planner at Moisand Fitzgerald Tamayo in Orlando, Florida. His firm is ranked No. 44 on CNBC's Financial Advisor 100 list for 2026.
+The cliff affects ACA enrollees once household income exceeds 400% of the federal poverty line threshold, which varies by family size. For 2026, those limits are about $63,000 for a single person or $129,000 for a family of four.
+But there are strategies to avoid "falling off the cliff," such as pairing a high-deduction health plan with health savings account contributions, which reduce your AGI, Lucas said.
+Leverage the charitable deduction
+Starting in 2026, Trump's legislation also added a charitable deduction for filers who don't itemize tax breaks, worth up to $1,000 for single filers and $2,000 for married couples. The deduction applies to cash contributions made to eligible nonprofit organizations.
+A $2,000 deduction reduces your income subject to tax. For example, if a married couple filing jointly in the 22% tax bracket donates $2,000, they could reduce federal income taxes by up to $440.
+If you claim the deduction for 2026, you could have "a little bit more room" to potentially offset moves that add to your taxable income, such as selling profitable investments or making Roth conversions, Lucas said.
+Transfer assets to a donor-advised fund
+If you itemize deductions and give to charity, Trump's legislation added two changes that could reduce your benefit.
+For 2026, there's a charitable deduction "floor" for itemizers, which allows the tax break only once your donations exceed 0.5% of AGI. There wasn't a floor before the 2025 tax law.
+For example, if your AGI is $200,000 and you donate $10,000 in 2026, the 0.5% floor, or the first $1,000, isn't eligible for the charitable deduction.
+Trump's legislation also limits the deduction for top-earning households in the 37% top marginal income tax rate by effectively capping the tax break at 35%.
+With the S&P 500 hovering near a record high, many investors are sitting on profitable assets in taxable brokerage accounts and may consider donating those assets for a possible charitable deduction.
+One way to maximize gifts under the new law is bunching charitable gifts you'd have otherwise donated gradually into a single year, according to CFP Charissa Anderson, an executive vice president at Ferguson Wellman Capital Management in Portland, Oregon. Her firm ranked No. 52 on CNBC's Financial Advisor 100 list for 2026.
+"Bunching becomes even more tax-effective when we pair it with the donor-advised fund and fund it with appreciated stock," she said. Donor-advised funds work like a charitable checkbook, allowing taxpayers to make a large gift at one time but can distribute the funds to eligible nonprofit organizations over time.
+Plus, donating profitable investments "still continues to provide the benefits of avoiding capital gains," Anderson said.
+CNBC receives no compensation from placing financial advisory firms on our Financial Advisor 100 list. Additionally, a firm's or advisor's appearance in our ranking does not constitute an individual endorsement by CNBC of any firm or advisor.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/09/year-end-tax-strategies-2026.html",
+    publishedAt: "2026-10-09T12:15:01+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "feel-like-a-pumpkin-spice-burrito-analys-6ae659c1",
+    title: "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
+    titleJa: "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
+    summaryJa: "Starbucks investors would likely not be happy about the company adding debt to finance a deal to buy Chipotle, given that it already has a high debt load.",
+    bodyOriginal: `Starbucks investors would likely not be happy about the company adding debt to finance a deal to buy Chipotle, given that it already has a high debt load.`,
+    bodyJa: `Starbucks investors would likely not be happy about the company adding debt to finance a deal to buy Chipotle, given that it already has a high debt load.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
+    publishedAt: "2026-10-09T12:06:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-31884893",
+    readTime: 2,
+  },
+  {
+    id: "pilot-killed-in-attacks-by-iran-backed-h-ac888820",
+    title: "Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response",
+    titleJa: "Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response",
+    summaryJa: "Two attacks were launched on Saudi Arabia's King Khalid International Airport Thursday, officials said.",
+    bodyOriginal: `Three Saudi nationals, including a pilot, were killed in attacks on a Riyadh international airport by Iran-backed Houthi militants on Thursday, Saudi Arabia's civil aviation authority said.
+In a statement posted on X Friday, the Saudi Arabian General Authority of Civil Aviation (GACA) said the deaths were caused by two attacks on the capital's King Khalid International Airport the previous day.
+The first attack, officials said, targeted the airport's facilities, while the second aimed at an aircraft belonging to Saudi carrier Saudia.
+Saudia said in a separate statement on Friday that Captain Hamoud Ali Alkalthami was killed in the strikes.
+Yemen's Houthis, a militant group backed by Tehran, claimed the attacks.
+In a separate statement, the Saudi-led coalition fighting the Houthis said on Friday that it would respond firmly to the militants' recent attacks, after confirming the destruction of three missile launchers used by the group.
+"Houthi attacks on civilians and civilian infrastructure will be met with a firm response," Major General Turki al-Malki, the spokesperson of the coalition, said in a statement.
+Houthi attacks spark flight cancelations
+Hundreds of flights out of Saudi Arabia were cancelled Thursday, according to data from Cirium. By Thursday evening, 31 flights due to depart the following day had been canceled, the data showed.
+However, the GACA said Friday that airport operations and air traffic had now returned to normal.
+News agency Reuters reported Thursday that France and Saudi Arabia were exploring ways for the French military to help protect the Yanbu oil terminal on Saudi Arabia's Red Sea coast.
+Thursday's attacks were the latest in a series of escalations, as the Houthis stepped up their campaign on Riyadh.
+Last month, smoke was seen near Riyadh's main airport as the Houthis claimed to have targeted "sensitive" sites in the city.
+Saudi Arabia has backed Yemen's internationally recognized government in the country's civil war. The civil war has reignited in recent weeks amid the U.S.-Iran war.
+On Monday, Turkey and Pakistan agreed they would help Saudi Arabia implement "deterrence measures" and deploy forces to support Yemen's counterattacks on the Houthis. It came after Yemeni forces reclaimed a key Red Sea port city from the rebel group.
+U.S. attacks on Iran postponed
+Elsewhere, U.S. President Donald Trump said Thursday that the U.S. would not launch attacks on Iran until after the American midterm elections. Voters will go to the polls on Nov. 3.
+The president also said Thursday that Washington was having "productive discussions" with Tehran, according to Reuters.
+"On the Iranian side, Foreign Minister Abbas Araghchi said they were reviewing a US proposal and would respond to it in the next few days, according to Iran's Tasnim news agency," Deutsche Bank's Jim Reid said in a Friday morning note.
+"So both sides acknowledged that talks were happening, which took some of the pressure off oil prices into the close. Yet even with that, the negative headlines still won out yesterday, and it was clear investors were pricing a longer period of disruption into next year."
+Oil prices fell after Trump's comments on Thursday, with futures extending their decline into Friday morning.
+Front-month Brent crude oil futures were last seen 1.3% lower at $102.94 a barrel. U.S. West Texas Intermediate futures were last seen 1% lower at $90.51 per barrel.`,
+    bodyJa: `Three Saudi nationals, including a pilot, were killed in attacks on a Riyadh international airport by Iran-backed Houthi militants on Thursday, Saudi Arabia's civil aviation authority said.
+In a statement posted on X Friday, the Saudi Arabian General Authority of Civil Aviation (GACA) said the deaths were caused by two attacks on the capital's King Khalid International Airport the previous day.
+The first attack, officials said, targeted the airport's facilities, while the second aimed at an aircraft belonging to Saudi carrier Saudia.
+Saudia said in a separate statement on Friday that Captain Hamoud Ali Alkalthami was killed in the strikes.
+Yemen's Houthis, a militant group backed by Tehran, claimed the attacks.
+In a separate statement, the Saudi-led coalition fighting the Houthis said on Friday that it would respond firmly to the militants' recent attacks, after confirming the destruction of three missile launchers used by the group.
+"Houthi attacks on civilians and civilian infrastructure will be met with a firm response," Major General Turki al-Malki, the spokesperson of the coalition, said in a statement.
+Houthi attacks spark flight cancelations
+Hundreds of flights out of Saudi Arabia were cancelled Thursday, according to data from Cirium. By Thursday evening, 31 flights due to depart the following day had been canceled, the data showed.
+However, the GACA said Friday that airport operations and air traffic had now returned to normal.
+News agency Reuters reported Thursday that France and Saudi Arabia were exploring ways for the French military to help protect the Yanbu oil terminal on Saudi Arabia's Red Sea coast.
+Thursday's attacks were the latest in a series of escalations, as the Houthis stepped up their campaign on Riyadh.
+Last month, smoke was seen near Riyadh's main airport as the Houthis claimed to have targeted "sensitive" sites in the city.
+Saudi Arabia has backed Yemen's internationally recognized government in the country's civil war. The civil war has reignited in recent weeks amid the U.S.-Iran war.
+On Monday, Turkey and Pakistan agreed they would help Saudi Arabia implement "deterrence measures" and deploy forces to support Yemen's counterattacks on the Houthis. It came after Yemeni forces reclaimed a key Red Sea port city from the rebel group.
+U.S. attacks on Iran postponed
+Elsewhere, U.S. President Donald Trump said Thursday that the U.S. would not launch attacks on Iran until after the American midterm elections. Voters will go to the polls on Nov. 3.
+The president also said Thursday that Washington was having "productive discussions" with Tehran, according to Reuters.
+"On the Iranian side, Foreign Minister Abbas Araghchi said they were reviewing a US proposal and would respond to it in the next few days, according to Iran's Tasnim news agency," Deutsche Bank's Jim Reid said in a Friday morning note.
+"So both sides acknowledged that talks were happening, which took some of the pressure off oil prices into the close. Yet even with that, the negative headlines still won out yesterday, and it was clear investors were pricing a longer period of disruption into next year."
+Oil prices fell after Trump's comments on Thursday, with futures extending their decline into Friday morning.
+Front-month Brent crude oil futures were last seen 1.3% lower at $102.94 a barrel. U.S. West Texas Intermediate futures were last seen 1% lower at $90.51 per barrel.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/09/saudi-us-iran-war-trump-hormuz.html",
+    publishedAt: "2026-10-09T11:51:11+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "aging-bull-why-this-4-year-old-stock-mar-3f35cf15",
+    title: "Aging bull: Why this 4-year-old stock-market rally still packs a punch",
+    titleJa: "Aging bull: Why this 4-year-old stock-market rally still packs a punch",
+    summaryJa: "History shows bull markets that get past their fourth year rarely throw in the towel, according to Truist Advisory Services.",
+    bodyOriginal: `History shows bull markets that get past their fourth year rarely throw in the towel, according to Truist Advisory Services.`,
+    bodyJa: `History shows bull markets that get past their fourth year rarely throw in the towel, according to Truist Advisory Services.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/aging-bull-why-the-four-year-old-stock-market-rally-can-still-pack-a-punch-d1271631?mod=mw_rss_topstories",
+    publishedAt: "2026-10-09T11:41:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-581639",
+    readTime: 2,
+  },
+  {
+    id: "south-africa-lawyer-navi-pillay-wins-nob-27d72c5a",
+    title: "South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes, genocide",
+    titleJa: "South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes, genocide",
+    summaryJa: "Navanethem \"Navi\" Pillay was awarded the Nobel Peace Prize on Friday for her work promoting peace and international law.",
+    bodyOriginal: `Former International Criminal Court judge Navanethem "Navi" Pillay was awarded the Nobel Peace Prize on Friday for her work promoting peace and international law.
+Pillay has been instrumental in ensuring that war crimes, crimes against humanity and genocide are prosecuted, said Jørgen Watne Frydnes, chair of the Norwegian Nobel Committee.
+Born into a family of Indian Tamil origin under apartheid in Durban, South Africa, Pillay has served as a judge on the High Court in South Africa, the International Criminal Tribunal for Rwanda and the International Criminal Court.
+She served as UN High Commissioner for Human Rights from 2008 to 2014.
+"Navi Pillay has been at the forefront of the development of international law for decades," said Frydnes as he announced this year's laureate.
+"From her involvement of standing and supporting Nelson Mandela and the prisoners of Robben Island to her being a key in all the major international court cases of our time."
+Frydnes said the committee hadn't yet been able to reach "courageous" Pillay to notify her of the award she has been given.
+"My message to her would be 'if you see a Norwegian number calling, please pick up'," he told reporters from Oslo.
+Controversies
+The award is given each year to a person or institution that has "done the most or the best work for fraternity between nations," as per the will of Swedish inventor Alfred Nobel. The winner is selected by a committee elected by the Norwegian Parliament.
+Last year's laureate was Venezuelan opposition leader Marina Corina Machado, awarded for her work promoting democratic rights in the country. Machado later gave her prize to President Donald Trump in what some had described as an attempt to influence his efforts to shape Venezuela's future. Norwegian Nobel Institute said the prize cannot be revoked, shared, or transferred to others.
+Trump had openly campaigned for the coveted prize before it was awarded to Machado, and on Wednesday made a fresh bid for it, claiming he had settled eight wars.
+Earlier this year, Trump linked his aggressive push to take control of Greenland to being snubbed for the Nobel Peace Prize.
+Earlier peace laureates include the Japanese anti-nuclear weapons organization Nihon Hidankyo, Maria Ressa and Dmitry Andreyevich Muratov for their efforts to safeguard freedom of expression in the Philippines and Russia, and former U.S. president Barack Obama.
+In 2026, laureates receive 12 million Swedish crowns ($1.2 million).`,
+    bodyJa: `Former International Criminal Court judge Navanethem "Navi" Pillay was awarded the Nobel Peace Prize on Friday for her work promoting peace and international law.
+Pillay has been instrumental in ensuring that war crimes, crimes against humanity and genocide are prosecuted, said Jørgen Watne Frydnes, chair of the Norwegian Nobel Committee.
+Born into a family of Indian Tamil origin under apartheid in Durban, South Africa, Pillay has served as a judge on the High Court in South Africa, the International Criminal Tribunal for Rwanda and the International Criminal Court.
+She served as UN High Commissioner for Human Rights from 2008 to 2014.
+"Navi Pillay has been at the forefront of the development of international law for decades," said Frydnes as he announced this year's laureate.
+"From her involvement of standing and supporting Nelson Mandela and the prisoners of Robben Island to her being a key in all the major international court cases of our time."
+Frydnes said the committee hadn't yet been able to reach "courageous" Pillay to notify her of the award she has been given.
+"My message to her would be 'if you see a Norwegian number calling, please pick up'," he told reporters from Oslo.
+Controversies
+The award is given each year to a person or institution that has "done the most or the best work for fraternity between nations," as per the will of Swedish inventor Alfred Nobel. The winner is selected by a committee elected by the Norwegian Parliament.
+Last year's laureate was Venezuelan opposition leader Marina Corina Machado, awarded for her work promoting democratic rights in the country. Machado later gave her prize to President Donald Trump in what some had described as an attempt to influence his efforts to shape Venezuela's future. Norwegian Nobel Institute said the prize cannot be revoked, shared, or transferred to others.
+Trump had openly campaigned for the coveted prize before it was awarded to Machado, and on Wednesday made a fresh bid for it, claiming he had settled eight wars.
+Earlier this year, Trump linked his aggressive push to take control of Greenland to being snubbed for the Nobel Peace Prize.
+Earlier peace laureates include the Japanese anti-nuclear weapons organization Nihon Hidankyo, Maria Ressa and Dmitry Andreyevich Muratov for their efforts to safeguard freedom of expression in the Philippines and Russia, and former U.S. president Barack Obama.
+In 2026, laureates receive 12 million Swedish crowns ($1.2 million).`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
+    publishedAt: "2026-10-09T11:11:55+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "india-calls-jd-vance-s-comments-about-im-847ba665",
+    title: "India calls JD Vance's comments about immigrants 'deeply offensive'",
+    titleJa: "India calls JD Vance's comments about immigrants 'deeply offensive'",
+    summaryJa: "India calls comments of U.S. Vice President J.D. Vance about immigrants from the country \"deeply offensive.\"",
+    bodyOriginal: `India called comments by U.S. Vice President J.D. Vance about immigrants from the country "deeply offensive" in an official government statement published on Friday.
+Vance said on Thursday that the Trump administration wants foreign and local companies to "employ American workers," and that they "cannot lay off American workers and then replace them with foreign indentured servants."
+He was speaking as the U.S. Department of Labor announced it would suspend Microsoft, Adobe and several major Indian information technology companies from its Permanent Labor Certification program, meaning they cannot apply for permanent residency for their employees on H-1 B visas.
+Around 70% of H-1B beneficiaries in 2025 were born in India, per official data.
+In a statement on Friday, India's Ministry of External Affairs accused Vance of using "terminology that carries painful historical and colonial legacy connotations."
+"Such descriptions are unwarranted and ignore the fact that Indian professionals in the United States are highly educated and skilled contributors to its economy and innovation ecosystem," the statement said.
+Vance's office did not immediately respond to a comment request from CNBC.
+Vance was critical of Microsoft, accusing the company of replacing 6,000 laid-off workers with people on H-1B visas.
+The Indian foreign ministry assured its citizens that measures announced by the U.S. will not affect the validity of existing H-1B visas or the status of H-1B visa holders and their dependents.
+"Talent mobility adds value to both economies," the statement said, adding that the suspensions "do not advance the shared ambitions of both countries."
+More hiring in the U.S.
+The Indian companies affected by the ban include Cognizant, Infosys, Capgemini, Tata Consultancy Services, Wipro and HCL.
+NASSCOM, the IT industry body, said in a statement that Indian technology companies have "significantly reduced their dependence on H-1B visas" over the last few years, and are expanding domestic hiring to their U.S. workforces.
+The largest Indian IT company, Tata Consultancy Services, said its H-1B applications were in "single digits" in the last two years, and it intends to hire another 15,000 people in the U.S. over the next five years.
+In June, a federal judge blocked the $100,000 H-1B visa fee U.S. President Donald Trump imposed last year.`,
+    bodyJa: `India called comments by U.S. Vice President J.D. Vance about immigrants from the country "deeply offensive" in an official government statement published on Friday.
+Vance said on Thursday that the Trump administration wants foreign and local companies to "employ American workers," and that they "cannot lay off American workers and then replace them with foreign indentured servants."
+He was speaking as the U.S. Department of Labor announced it would suspend Microsoft, Adobe and several major Indian information technology companies from its Permanent Labor Certification program, meaning they cannot apply for permanent residency for their employees on H-1 B visas.
+Around 70% of H-1B beneficiaries in 2025 were born in India, per official data.
+In a statement on Friday, India's Ministry of External Affairs accused Vance of using "terminology that carries painful historical and colonial legacy connotations."
+"Such descriptions are unwarranted and ignore the fact that Indian professionals in the United States are highly educated and skilled contributors to its economy and innovation ecosystem," the statement said.
+Vance's office did not immediately respond to a comment request from CNBC.
+Vance was critical of Microsoft, accusing the company of replacing 6,000 laid-off workers with people on H-1B visas.
+The Indian foreign ministry assured its citizens that measures announced by the U.S. will not affect the validity of existing H-1B visas or the status of H-1B visa holders and their dependents.
+"Talent mobility adds value to both economies," the statement said, adding that the suspensions "do not advance the shared ambitions of both countries."
+More hiring in the U.S.
+The Indian companies affected by the ban include Cognizant, Infosys, Capgemini, Tata Consultancy Services, Wipro and HCL.
+NASSCOM, the IT industry body, said in a statement that Indian technology companies have "significantly reduced their dependence on H-1B visas" over the last few years, and are expanding domestic hiring to their U.S. workforces.
+The largest Indian IT company, Tata Consultancy Services, said its H-1B applications were in "single digits" in the last two years, and it intends to hire another 15,000 people in the U.S. over the next five years.
+In June, a federal judge blocked the $100,000 H-1B visa fee U.S. President Donald Trump imposed last year.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/09/india-us-immigration-h1b-visa.html",
+    publishedAt: "2026-10-09T10:38:15+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 6,
+  },
+  {
     id: "trump-wants-to-reduce-the-cost-of-fuel-a-2c78f723",
     title: "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
     titleJa: "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
@@ -2199,424 +2507,6 @@ Related topics
     category: "マクロ経済",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d29e/live/f8595c00-c264-11f1-b3ac-93b64873b487.jpg",
     readTime: 9,
-  },
-  {
-    id: "samsung-forecasts-record-third-quarter-p-0fb47849",
-    title: "Samsung forecasts record third-quarter profit of $80 billion on the back of AI boom",
-    titleJa: "Samsung forecasts record third-quarter profit of $80 billion on the back of AI boom",
-    summaryJa: "Samsung Electronics reported preliminary third-quarter earnings on Thursday, with operating profit forecast to top 100 trillion won for the first time.",
-    bodyOriginal: `Samsung Electronics on Thursday reported third-quarter preliminary operating profit of 107.40 trillion won ($80.2 billion), surging past 100 trillion won for the first time in the company's history as booming demand for artificial intelligence continues to fuel its chips business.
-Quarterly operating profit jumped 782% from a year earlier. Revenue came in at about 195 trillion won, up nearly 127% from the same period last year.
-Samsung, the world's largest memory chipmaker, has benefited from surging demand for memory used in AI infrastructure. In the second quarter, the company posted record revenue of 171.5 trillion won and record operating profit of 89.5 trillion won, driven by its memory business.
-The company has also stepped up investments and partnerships tied to AI. In September, Samsung announced a strategic partnership with French artificial intelligence startup Mistral AI, with plans to deploy the startup's AI models across its semiconductor operations.
-Samsung is expected to release its full third-quarter earnings, including a breakdown by business division, later this month.`,
-    bodyJa: `Samsung Electronics on Thursday reported third-quarter preliminary operating profit of 107.40 trillion won ($80.2 billion), surging past 100 trillion won for the first time in the company's history as booming demand for artificial intelligence continues to fuel its chips business.
-Quarterly operating profit jumped 782% from a year earlier. Revenue came in at about 195 trillion won, up nearly 127% from the same period last year.
-Samsung, the world's largest memory chipmaker, has benefited from surging demand for memory used in AI infrastructure. In the second quarter, the company posted record revenue of 171.5 trillion won and record operating profit of 89.5 trillion won, driven by its memory business.
-The company has also stepped up investments and partnerships tied to AI. In September, Samsung announced a strategic partnership with French artificial intelligence startup Mistral AI, with plans to deploy the startup's AI models across its semiconductor operations.
-Samsung is expected to release its full third-quarter earnings, including a breakdown by business division, later this month.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/08/samsung-q3-earnings.html",
-    publishedAt: "2026-10-07T22:58:05+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "anthropic-will-be-most-ridiculous-ipo-of-4689c096",
-    title: "Anthropic will be 'most ridiculous IPO' of year, analyst says",
-    titleJa: "Anthropic will be 'most ridiculous IPO' of year, analyst says",
-    summaryJa: "Anthropic reportedly plans to list on the Nasdaq before Thanksgiving, and one bearish advisory firm suggests that investors sit this one out.",
-    bodyOriginal: `As Anthropic barrels toward a potential $2 trillion market cap on the Nasdaq, one research firm is valuing the artificial intelligence company at a mere $150 billion and says Wall Street is about to face an "unprecedented test of investor gullibility."
-In a report on Tuesday, independent financial research provider New Constructs called Anthropic's upcoming offering the "most ridiculous IPO of 2026."
-To reach its desired valuation, the firm estimates Anthropic would need to record double the trailing year of profit for Nvidia, the world's most valuable tech company. Nvidia's net income over the past four quarters topped $190 billion. Meanwhile, Anthropic's revenue in 2025 was $4.6 billion as the company racked up a net loss of $42 billion, according to Reuters, which cited a leaked copy of the company's prospectus.
-Anthropic's mounting operating losses coupled with emerging competition from a plethora of open-source models led New Constructs to conclude that, "We don't think Anthropic has a viable business."
-"Since the arrival of open-source models, it's been clear that the closed models would struggle to generate profits," the firm wrote.
-David Trainer, founder and CEO of New Constructs, has built a reputation on Wall Street as a notorious bear on IPOs. He's been right in the past.
-New Constructs called WeWork "the most ridiculous IPO of 2019," ahead of the office-sharing company's planned offering. WeWork had been valued privately at $47 billion, but just six weeks after the New Constructs report, the company pulled its IPO amid weak demand and intense criticism surrounding its financials. WeWork filed for bankruptcy in 2023.
-"While Anthropic offers more to society than WeWork ever did, at a $2 trillion valuation, its IPO presents far bigger risks and is positioned to be a far bigger rip off of U.S. capital markets," New Constructs wrote, adding that the IPO's purpose isn't to provide wealth for public markets investors, but rather liquidity for the company's Wall Street backers.
-Anthropic didn't respond to a request for comment.
-New Constructs was also bearish on Allbirds' IPO in 2021. The shoe company debuted on the Nasdaq and reached a valuation of $4.1 billion on its opening day. Earlier this year, the company sold its assets to American Exchange Group for an estimated $39 million, pivoting to AI in the process.
-Trainer's firm has also missed the mark on calls. Its "most ridiculous" 2020 IPO choice was DoorDash, which the firm also compared to WeWork, calling the food delivery company "similarly disadvantaged."
-However, DoorDash has held up on the public market. The stock shot up on its first day in December 2020, giving the company a market cap of over $60 billion. That number has since swelled to $83 billion.
-In an interview with CNBC in 2021, Trainer acknowledged that "crazy stuff happens" and New Constructs doesn't always get it right.
-"I can't let that bother me," he said at the time. "I have to stay true to what I think is right."
-Anthropic still hasn't made its prospectus public, so New Constructs hasn't seen the actual filing. However, the firm cited figures that have been reported, including from the New York Times, which reported in September that the company was on pace to generate $100 billion in annualized revenue by the end of 2026.
-Anthropic claimed at the end of July that its annualized revenue run rate was up sevenfold year-over-year to $65 billion.
-The New Constructs report also notes that Anthropic's assertion that AI could pose "a catastrophic or existential risk to humanity" is another reason why investors should avoid the IPO.
-"While we were not fortunate enough to be one of the few to whom Anthropic's S-1 was selectively disclosed, the reports of the leaked financials reveal more than enough to assess the gargantuan risks of investing in this IPO," New Constructs wrote.`,
-    bodyJa: `As Anthropic barrels toward a potential $2 trillion market cap on the Nasdaq, one research firm is valuing the artificial intelligence company at a mere $150 billion and says Wall Street is about to face an "unprecedented test of investor gullibility."
-In a report on Tuesday, independent financial research provider New Constructs called Anthropic's upcoming offering the "most ridiculous IPO of 2026."
-To reach its desired valuation, the firm estimates Anthropic would need to record double the trailing year of profit for Nvidia, the world's most valuable tech company. Nvidia's net income over the past four quarters topped $190 billion. Meanwhile, Anthropic's revenue in 2025 was $4.6 billion as the company racked up a net loss of $42 billion, according to Reuters, which cited a leaked copy of the company's prospectus.
-Anthropic's mounting operating losses coupled with emerging competition from a plethora of open-source models led New Constructs to conclude that, "We don't think Anthropic has a viable business."
-"Since the arrival of open-source models, it's been clear that the closed models would struggle to generate profits," the firm wrote.
-David Trainer, founder and CEO of New Constructs, has built a reputation on Wall Street as a notorious bear on IPOs. He's been right in the past.
-New Constructs called WeWork "the most ridiculous IPO of 2019," ahead of the office-sharing company's planned offering. WeWork had been valued privately at $47 billion, but just six weeks after the New Constructs report, the company pulled its IPO amid weak demand and intense criticism surrounding its financials. WeWork filed for bankruptcy in 2023.
-"While Anthropic offers more to society than WeWork ever did, at a $2 trillion valuation, its IPO presents far bigger risks and is positioned to be a far bigger rip off of U.S. capital markets," New Constructs wrote, adding that the IPO's purpose isn't to provide wealth for public markets investors, but rather liquidity for the company's Wall Street backers.
-Anthropic didn't respond to a request for comment.
-New Constructs was also bearish on Allbirds' IPO in 2021. The shoe company debuted on the Nasdaq and reached a valuation of $4.1 billion on its opening day. Earlier this year, the company sold its assets to American Exchange Group for an estimated $39 million, pivoting to AI in the process.
-Trainer's firm has also missed the mark on calls. Its "most ridiculous" 2020 IPO choice was DoorDash, which the firm also compared to WeWork, calling the food delivery company "similarly disadvantaged."
-However, DoorDash has held up on the public market. The stock shot up on its first day in December 2020, giving the company a market cap of over $60 billion. That number has since swelled to $83 billion.
-In an interview with CNBC in 2021, Trainer acknowledged that "crazy stuff happens" and New Constructs doesn't always get it right.
-"I can't let that bother me," he said at the time. "I have to stay true to what I think is right."
-Anthropic still hasn't made its prospectus public, so New Constructs hasn't seen the actual filing. However, the firm cited figures that have been reported, including from the New York Times, which reported in September that the company was on pace to generate $100 billion in annualized revenue by the end of 2026.
-Anthropic claimed at the end of July that its annualized revenue run rate was up sevenfold year-over-year to $65 billion.
-The New Constructs report also notes that Anthropic's assertion that AI could pose "a catastrophic or existential risk to humanity" is another reason why investors should avoid the IPO.
-"While we were not fortunate enough to be one of the few to whom Anthropic's S-1 was selectively disclosed, the reports of the leaked financials reveal more than enough to assess the gargantuan risks of investing in this IPO," New Constructs wrote.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
-    publishedAt: "2026-10-07T22:29:41+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "trump-doesn-t-think-russia-plague-incide-49fdd007",
-    title: "Trump doesn't think Russia plague incident is bioweapon, plans Putin call Wednesday",
-    titleJa: "Trump doesn't think Russia plague incident is bioweapon, plans Putin call Wednesday",
-    summaryJa: "Nearly 200 people were placed under medical observation earlier this week in Russia's Irkutsk region in eastern Siberia over suspected exposure to plague.",
-    bodyOriginal: `President Donald Trump said Wednesday that the U.S. does not think the death of a Russian laboratory worker from a suspected case of plague is the result of a bioweapon.
-Trump also said he planned to call Russian President Vladimir Putin, who turned 74 on Wednesday, later in the day. Trump previously had said that call would focus on the plague-related incident.
-Trump's comments came at an Oval Office event promoting Trump Accounts, the new tax-deferred savings and investment accounts that more than 60 million American children under age 18 have been automatically enrolled in.
-Russian media reported earlier this week that nearly 200 people had been placed under medical observation in Russia's Irkutsk region in eastern Siberia over suspected exposure to plague, after a female worker at an anti-plague research institute in Irkutsk fell ill and died.
-A reporter at Wednesday's Oval Office event asked Trump, "Is the plague in Russia a bioweapon?"
-Trump replied, "Well, we don't think so."
-"We're going to find out soon enough. But we don't think so," Trump said. "And if you listen to them, it's under control. You know, people have said that before about other things."
-Asked if he was "getting the same vibe" from Russia that he got from China at the start of the Covid-19 outbreak there, Trump acknowledged, "China didn't say much, and Russia is not saying much either."
-"But they do say they have it very much under control," Trump said.
-Asked about being in contact with Putin, Trump said, "I have a call set up. Today is his birthday."`,
-    bodyJa: `President Donald Trump said Wednesday that the U.S. does not think the death of a Russian laboratory worker from a suspected case of plague is the result of a bioweapon.
-Trump also said he planned to call Russian President Vladimir Putin, who turned 74 on Wednesday, later in the day. Trump previously had said that call would focus on the plague-related incident.
-Trump's comments came at an Oval Office event promoting Trump Accounts, the new tax-deferred savings and investment accounts that more than 60 million American children under age 18 have been automatically enrolled in.
-Russian media reported earlier this week that nearly 200 people had been placed under medical observation in Russia's Irkutsk region in eastern Siberia over suspected exposure to plague, after a female worker at an anti-plague research institute in Irkutsk fell ill and died.
-A reporter at Wednesday's Oval Office event asked Trump, "Is the plague in Russia a bioweapon?"
-Trump replied, "Well, we don't think so."
-"We're going to find out soon enough. But we don't think so," Trump said. "And if you listen to them, it's under control. You know, people have said that before about other things."
-Asked if he was "getting the same vibe" from Russia that he got from China at the start of the Covid-19 outbreak there, Trump acknowledged, "China didn't say much, and Russia is not saying much either."
-"But they do say they have it very much under control," Trump said.
-Asked about being in contact with Putin, Trump said, "I have a call set up. Today is his birthday."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/07/trump-russia-plague-bioweapon-putin.html",
-    publishedAt: "2026-10-07T21:20:40+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "openai-says-teen-chatgpt-use-limited-but-45286291",
-    title: "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
-    titleJa: "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
-    summaryJa: "The research found that important guardrails for teens using ChatGPT often failed.",
-    bodyOriginal: `OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'
-- Published
-OpenAI's ChatGPT for Teens was designed to promote healthier use of the artificial intelligence (AI) chatbot, but new research has found its important safety features fall short.
-The major AI firm rolled out many teen safety guardrails in August, including curbs on emotional dependence and new parental alerts for problematic use.
-On Wednesday, OpenAI said it found average teen use of ChatGPT to be relatively limited and tended toward "learning" activity.
-However, research released the same day from non-profit Common Sense Media found that ChatGPT still poses an "unacceptable risk" for teens as safety features, including notifying parents of self-harm conversations, often fail.
-When OpenAI this summer released what it called ChatGPT for Teens, external, it said users identified as being between the ages of 13 and 17 would be opted into "features to promote healthy use and additional controls for parents".
-Those features include preventing teen ChatGPT users from engaging in romantic or other language that could encourage " emotional dependence," including preventing the tool from implying that it was in any way conscious. There are also blocks on sexualized imagery and "reminders" for teens if they were to share an image that was "sensitive."
-The features are also meant to enable parents to receive notifications, if they had linked to their children's ChatGPT account, about chats that included discussions of self-harm or disordered eating.
-OpenAI said those features have caused an uptick in teen use focused on learning, from study help to advice on their school work.
-In addition to seeing the average teen user on ChatGPT for less than 15 minutes a day, OpenAI said that for longer stretches of use, automatic reminders to take a break work well. Almost half of teen users quickly stopped using ChatGPT after such a reminder.
-The company added that, for teens who are seen to have used ChatGPT for three consecutive hours or more, their prompts included something related to learning in more than 80% of such cases.
-But Common Sense Media's new research, external determined that ChatGPT for Teens was an "unacceptable risk" for young people and parents, and said OpenAI should ban people under 18 years old from using the platform until teen guardrails were proven reliable.
-An OpenAI spokesman said a review of Common Sense Media's methodology found that much of the testing may have begun and concluded before activation of parental controls was complete."
-"We welcome rigorous independent evaluation, but we do not believe Common Sense Media's testing accurately reflects how ChatGPT's teen safeguards work in practice or expert perspectives on how AI can support teens," he said.
-While the firm's research, done through multiple accounts registered as belonging to a teen and conversations before and after the teen guardrails were put in place, found that ChatGPT was good at avoiding "sexual roleplay" with young users, other OpenAI guardrails failed, including for discussions of suicide.
-The research found that even an hour of teen-ChatGPT conversation about "suicidal ideation, self-harm, or disordered eating on newly created, parent-linked accounts" resulted in "zero" alerts sent to parents.
-It was only older ChatGPT accounts with "weeks of accumulated conversation history on sensitive topics" that would result in a parental alert.
-In such conversations, ChatGPT also "failed to reliably recommend that teens in crisis connect to a hotline or professional," the report found.
-The tests also showed that ChatGPT for Teens continues to do school work, and that the bot still will engage in anthropomorphised language or "talk like it's a friend," despite OpenAI's promise to curb that behaviour.
-"ChatGPT for Teens could give parents false confidence in guardrails and safety alerts that frequently don't work," Tom Siegel, who leads the Youth AI Safety Institute within Common Sense, said.
-The way young people interact with online platforms has become a major issue in recent years as self-harm and suicide among children has become more common.
-This year has seen several lawsuits looking to hold companies like Meta, TikTok and others responsible for harming the mental health of children end in unprecedented losses for the firms.
-OpenAI, too, has come under increased scrutiny and legal pressure over the way young people use ChatGPT.
-The Tumbler Ridge mass shooting in rural Canada in February was carried out by an 18-year old who had for months prior been discussing gun violence with ChatGPT.
-OpenAI has previously apologised for failing to flag the shooter's account with law enforcement, and is facing several lawsuits over the incident.`,
-    bodyJa: `OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'
-- Published
-OpenAI's ChatGPT for Teens was designed to promote healthier use of the artificial intelligence (AI) chatbot, but new research has found its important safety features fall short.
-The major AI firm rolled out many teen safety guardrails in August, including curbs on emotional dependence and new parental alerts for problematic use.
-On Wednesday, OpenAI said it found average teen use of ChatGPT to be relatively limited and tended toward "learning" activity.
-However, research released the same day from non-profit Common Sense Media found that ChatGPT still poses an "unacceptable risk" for teens as safety features, including notifying parents of self-harm conversations, often fail.
-When OpenAI this summer released what it called ChatGPT for Teens, external, it said users identified as being between the ages of 13 and 17 would be opted into "features to promote healthy use and additional controls for parents".
-Those features include preventing teen ChatGPT users from engaging in romantic or other language that could encourage " emotional dependence," including preventing the tool from implying that it was in any way conscious. There are also blocks on sexualized imagery and "reminders" for teens if they were to share an image that was "sensitive."
-The features are also meant to enable parents to receive notifications, if they had linked to their children's ChatGPT account, about chats that included discussions of self-harm or disordered eating.
-OpenAI said those features have caused an uptick in teen use focused on learning, from study help to advice on their school work.
-In addition to seeing the average teen user on ChatGPT for less than 15 minutes a day, OpenAI said that for longer stretches of use, automatic reminders to take a break work well. Almost half of teen users quickly stopped using ChatGPT after such a reminder.
-The company added that, for teens who are seen to have used ChatGPT for three consecutive hours or more, their prompts included something related to learning in more than 80% of such cases.
-But Common Sense Media's new research, external determined that ChatGPT for Teens was an "unacceptable risk" for young people and parents, and said OpenAI should ban people under 18 years old from using the platform until teen guardrails were proven reliable.
-An OpenAI spokesman said a review of Common Sense Media's methodology found that much of the testing may have begun and concluded before activation of parental controls was complete."
-"We welcome rigorous independent evaluation, but we do not believe Common Sense Media's testing accurately reflects how ChatGPT's teen safeguards work in practice or expert perspectives on how AI can support teens," he said.
-While the firm's research, done through multiple accounts registered as belonging to a teen and conversations before and after the teen guardrails were put in place, found that ChatGPT was good at avoiding "sexual roleplay" with young users, other OpenAI guardrails failed, including for discussions of suicide.
-The research found that even an hour of teen-ChatGPT conversation about "suicidal ideation, self-harm, or disordered eating on newly created, parent-linked accounts" resulted in "zero" alerts sent to parents.
-It was only older ChatGPT accounts with "weeks of accumulated conversation history on sensitive topics" that would result in a parental alert.
-In such conversations, ChatGPT also "failed to reliably recommend that teens in crisis connect to a hotline or professional," the report found.
-The tests also showed that ChatGPT for Teens continues to do school work, and that the bot still will engage in anthropomorphised language or "talk like it's a friend," despite OpenAI's promise to curb that behaviour.
-"ChatGPT for Teens could give parents false confidence in guardrails and safety alerts that frequently don't work," Tom Siegel, who leads the Youth AI Safety Institute within Common Sense, said.
-The way young people interact with online platforms has become a major issue in recent years as self-harm and suicide among children has become more common.
-This year has seen several lawsuits looking to hold companies like Meta, TikTok and others responsible for harming the mental health of children end in unprecedented losses for the firms.
-OpenAI, too, has come under increased scrutiny and legal pressure over the way young people use ChatGPT.
-The Tumbler Ridge mass shooting in rural Canada in February was carried out by an 18-year old who had for months prior been discussing gun violence with ChatGPT.
-OpenAI has previously apologised for failing to flag the shooter's account with law enforcement, and is facing several lawsuits over the incident.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-07T20:34:17+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8459/live/4bc569a0-c27f-11f1-98ea-35e6bf307fc9.jpg",
-    readTime: 10,
-  },
-  {
-    id: "supertanker-chartered-from-gulf-coast-to-74bcb604",
-    title: "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
-    titleJa: "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
-    summaryJa: "Shipping costs have exploded as the war in the Persian Gulf has led to a shortage of available tankers.",
-    bodyOriginal: `(Subscribe to Brian Sullivan's "Power Insider" newsletter here.)
-A supertanker was recently chartered to sail from the U.S. Gulf Coast to China for $76 million, a source familiar told CNBC, as shipping costs soar globally due to the crisis in the Middle East.
-The Alexandros was chartered by the trading firm Trafigura and is expected to load around Nov. 19, the source said. A normal rate for the route based on pre-war levels would be $7 million to $10 million.
-The cost of the journey comes to $38 per barrel of oil assuming the tanker holds 2 million barrels. Shipping costs have exploded as the war in the Persian Gulf has led to a shortage of available tankers.
-The Middle East producers are using a shuttle system to export oil through the Strait of Hormuz. A loaded tanker crosses the strait and then loads the oil onto another ship in the Gulf of Oman that takes the cargo to Asia.
-This system reduces the exposure to Iranian attack and has led to a rebound of crude exports through Hormuz. But it also requires a lot more ships to get the oil out of the Gulf.`,
-    bodyJa: `(Subscribe to Brian Sullivan's "Power Insider" newsletter here.)
-A supertanker was recently chartered to sail from the U.S. Gulf Coast to China for $76 million, a source familiar told CNBC, as shipping costs soar globally due to the crisis in the Middle East.
-The Alexandros was chartered by the trading firm Trafigura and is expected to load around Nov. 19, the source said. A normal rate for the route based on pre-war levels would be $7 million to $10 million.
-The cost of the journey comes to $38 per barrel of oil assuming the tanker holds 2 million barrels. Shipping costs have exploded as the war in the Persian Gulf has led to a shortage of available tankers.
-The Middle East producers are using a shuttle system to export oil through the Strait of Hormuz. A loaded tanker crosses the strait and then loads the oil onto another ship in the Gulf of Oman that takes the cargo to Asia.
-This system reduces the exposure to Iranian attack and has led to a rebound of crude exports through Hormuz. But it also requires a lot more ships to get the oil out of the Gulf.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/07/supertanker-from-us-to-china-chartered-for-76-million-source.html",
-    publishedAt: "2026-10-07T20:33:34+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "fed-officials-see-another-hike-coming-bu-b58072cb",
-    title: "Fed officials see another hike coming, but no sign as to when, minutes show",
-    titleJa: "Fed officials see another hike coming, but no sign as to when, minutes show",
-    summaryJa: "The Federal Reserve on Wednesday released minutes from its Sept. 15-16 policy meeting.",
-    bodyOriginal: `Federal Reserve officials expect they will raise interest rates again before the end of the year to head off inflation that has run above target for more than five years, according to meeting minutes released Wednesday.
-But the meeting summary provided no indication of when specifically policymakers expected to raise benchmark rates – only that persistently higher prices and a stable labor market likely would lead to a second hike this year. The Fed next decides on rates on Oct. 28 and then again on Dec. 9.
-"With regard to the outlook for monetary policy beyond the current meeting, most participants assessed that another increase in the target range for the federal funds rate would likely be appropriate by year end," the document stated.
-That position came with a note of caution.
-"Participants emphasized, however, that they approached each meeting with an open mind and decisions at future meetings would depend on incoming information and its implications for the outlook and the balance of risks," the minutes said.
-Coming off the meeting, which featured tough inflation talk from Chairman Kevin Warsh during his subsequent news conference, markets started betting the Fed would follow the Sept. 16 hike with another move at the late October meeting.
-However, recent inflation data and comments from leading Fed officials indicate that at least for October, another increase is unlikely.
-The Fed's preferred gauge – the personal consumption expenditures price index – showed core inflation at 3% for August and headline at 3.4%. While both readings were still well north of the central bank's 2% target, they were considerably lower than expectations, benefiting in part from changes in the way some of the inputs are calculated.
-Discussion at the September meeting showed officials see risks that inflation will prove sticky, while the labor market is "close to maximum employment" and economic growth overall has picked up.
-The vote to raise the benchmark funds rate by a quarter percentage point was unanimous, despite prior indications that several key officials were reluctant to hike.
-"Many participants emphasized that a higher path for the target range would be prudent on risk-management grounds, providing insurance against inflation remaining persistently above target due to stronger-than-expected demand or further adverse supply shocks," the summary said.
-As a group, the Federal Open Market Committee indicated one more hike this year, then none in 2027. Of the 18 FOMC officials who submitted forecasts, 16 said they expected another increase.
-Warsh has not submitted a forecast since taking the position in May. During his news conference, he described the rate rise as removing "a dose of accommodation" from monetary policy, a remark that Wall Street analysts pored over and took to mean that additional increases could be on the way.
-But several other officials since then have stressed that the Fed doesn't need to rush, while inflation data has been at least a bit more encouraging even if short-term expectations have risen considerably.
-Market-based indicators for inflation are still elevated, and a fresh survey released Wednesday by the New York Fed showed consumer fears over rising prices in the next year are at their highest since May 2023.
-Treasury yields have been soaring as well, hitting levels not seen since 2002.
-Officials at the meeting discussed the rise in yields, attributing them to expectations for higher rates from the Fed as well as the build-out in artificial intelligence and solid economic growth. Staff economists also noted that some of the surge may have come from "uncertainty related to the U.S. Treasury's announcement and implementation of the buyback program."
-Treasury Secretary Scott Bessent in August announced his department would ramp up its buybacks of already-issued long-dated debt. However, the move has had little impact on yields, which are around their highest levels since 2002.`,
-    bodyJa: `Federal Reserve officials expect they will raise interest rates again before the end of the year to head off inflation that has run above target for more than five years, according to meeting minutes released Wednesday.
-But the meeting summary provided no indication of when specifically policymakers expected to raise benchmark rates – only that persistently higher prices and a stable labor market likely would lead to a second hike this year. The Fed next decides on rates on Oct. 28 and then again on Dec. 9.
-"With regard to the outlook for monetary policy beyond the current meeting, most participants assessed that another increase in the target range for the federal funds rate would likely be appropriate by year end," the document stated.
-That position came with a note of caution.
-"Participants emphasized, however, that they approached each meeting with an open mind and decisions at future meetings would depend on incoming information and its implications for the outlook and the balance of risks," the minutes said.
-Coming off the meeting, which featured tough inflation talk from Chairman Kevin Warsh during his subsequent news conference, markets started betting the Fed would follow the Sept. 16 hike with another move at the late October meeting.
-However, recent inflation data and comments from leading Fed officials indicate that at least for October, another increase is unlikely.
-The Fed's preferred gauge – the personal consumption expenditures price index – showed core inflation at 3% for August and headline at 3.4%. While both readings were still well north of the central bank's 2% target, they were considerably lower than expectations, benefiting in part from changes in the way some of the inputs are calculated.
-Discussion at the September meeting showed officials see risks that inflation will prove sticky, while the labor market is "close to maximum employment" and economic growth overall has picked up.
-The vote to raise the benchmark funds rate by a quarter percentage point was unanimous, despite prior indications that several key officials were reluctant to hike.
-"Many participants emphasized that a higher path for the target range would be prudent on risk-management grounds, providing insurance against inflation remaining persistently above target due to stronger-than-expected demand or further adverse supply shocks," the summary said.
-As a group, the Federal Open Market Committee indicated one more hike this year, then none in 2027. Of the 18 FOMC officials who submitted forecasts, 16 said they expected another increase.
-Warsh has not submitted a forecast since taking the position in May. During his news conference, he described the rate rise as removing "a dose of accommodation" from monetary policy, a remark that Wall Street analysts pored over and took to mean that additional increases could be on the way.
-But several other officials since then have stressed that the Fed doesn't need to rush, while inflation data has been at least a bit more encouraging even if short-term expectations have risen considerably.
-Market-based indicators for inflation are still elevated, and a fresh survey released Wednesday by the New York Fed showed consumer fears over rising prices in the next year are at their highest since May 2023.
-Treasury yields have been soaring as well, hitting levels not seen since 2002.
-Officials at the meeting discussed the rise in yields, attributing them to expectations for higher rates from the Fed as well as the build-out in artificial intelligence and solid economic growth. Staff economists also noted that some of the surge may have come from "uncertainty related to the U.S. Treasury's announcement and implementation of the buyback program."
-Treasury Secretary Scott Bessent in August announced his department would ramp up its buybacks of already-issued long-dated debt. However, the move has had little impact on yields, which are around their highest levels since 2002.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html",
-    publishedAt: "2026-10-07T18:42:36+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "boots-sold-in-7bn-deal-to-canadian-billi-2f4e6806",
-    title: "Boots sold in £7bn deal to Canadian billionaire family",
-    titleJa: "Boots sold in £7bn deal to Canadian billionaire family",
-    summaryJa: "Boots sold in £7bn deal to Canadian billionaire family- Published",
-    bodyOriginal: `Boots sold in £7bn deal to Canadian billionaire family
-- Published
-Boots, the High Street pharmacy and retail chain, has been sold in an $8.9bn (£6.7bn) deal to Canada's billionaire Weston family.
-Wittington Investments, the holding company, confirmed it had agreed to buy the 177-year-old retailer on Wednesday from US private equity firm Sycamore Partners and the Pessina family.
-Boots started as a simple apothecary in Nottingham but has evolved to become a stalwart of the High Street, expanding its business to sell a vast range of health and beauty products, meal deals and travel accessories.
-The chain has performed well in recent years despite challenges from rivals and changing shopping habits.
-Its stores have seen lower footfall as people switched to working from home rather than visiting town and city centre offices every weekday.
-It has closed hundreds of branches across the UK in recent years, leaving it with about 1,800 stores and 51,000 employees, but remains a familiar British brand.
-In its most recent annual results, Boots generated £7.5bn in sales - a 3.2% increase on 2024.
-Retail expert Catherine Shuttleworth, chief executive of savvy marketing, said shoppers were unlikely to see much change to stores in the coming months, but added what they can "expect over time is an improved shopping experience as the new owners invest in the business".
-She said health and beauty was a "massive area for growth", and fresh investment from its new ownership would help.
-The last two decades has seen several changes of ownership under discussion and sometimes completed.
-Sycamore only owned the retailer for 18 months, and Shuttleworth said the chopping and changing of owners had been "an unhelpful distraction".
-Boots gets new US owner in multi-billion dollar deal
-- Published7 March 2025
-The company was established by John Boot, who opened the first herbalist store in Nottingham, offering an affordable alternative to traditional medicines in 1849.
-It has since expanded over the decades into selling various products, but health products have remained a key part of its business.
-As well as vaccines, it offers eye and hearing tests, providing much needed health care support in everyday moments as well as at times of national crisis like the coronavirus pandemic.
-It launched its loyalty scheme in 1997, the Advantage Card, which became hugely popular and a move repeated by various retailers since.
-Galen Weston, the chairman of Wittington, will become chairman of Boots.
-He signalled the new owners had fresh plans for the chain, including shop upgrades and an expansion of healthcare services.
-"We see a meaningful opportunity to make a great business even better through stable long-term ownership, further capital investment, and the renewed operating focus required to serve customers with excellence for generations to come," he said.
-The Weston family will be buying Boots' retail operations in the UK and Ireland, Boots Opticians, No7 Beauty Company and its Thailand and franchised businesses. It is set be completed in early 2027.
-The Weston family owns the Canadian grocery chain Loblaws, pharmacy business Shoppers Drug Mart, and previously owned the London department store Selfridges from 2003 to 2021, before selling it for $4bn.
-The separate UK branch of the Weston family is the majority owner of Associated British Foods, the parent firm of Primark.
-The Westons were ranked fifth on this year's Sunday Times Rich List with a combined fortune of almost £19bn.
-Wittington will have operational control over Boots, it has secured ownership in partnership with Fairfax Financial Holdings, a Toronto-based holding company.
-Sycamore Partners, in partnership with Stefano Pessina and his family, will retain ownership of The Boots Group's Farmacias Benavides in Mexico and Alliance Healthcare Deutschland in Germany.
-Get in touch
-What are your views on Boots? What has been your shopping experience? Get in touch.`,
-    bodyJa: `Boots sold in £7bn deal to Canadian billionaire family
-- Published
-Boots, the High Street pharmacy and retail chain, has been sold in an $8.9bn (£6.7bn) deal to Canada's billionaire Weston family.
-Wittington Investments, the holding company, confirmed it had agreed to buy the 177-year-old retailer on Wednesday from US private equity firm Sycamore Partners and the Pessina family.
-Boots started as a simple apothecary in Nottingham but has evolved to become a stalwart of the High Street, expanding its business to sell a vast range of health and beauty products, meal deals and travel accessories.
-The chain has performed well in recent years despite challenges from rivals and changing shopping habits.
-Its stores have seen lower footfall as people switched to working from home rather than visiting town and city centre offices every weekday.
-It has closed hundreds of branches across the UK in recent years, leaving it with about 1,800 stores and 51,000 employees, but remains a familiar British brand.
-In its most recent annual results, Boots generated £7.5bn in sales - a 3.2% increase on 2024.
-Retail expert Catherine Shuttleworth, chief executive of savvy marketing, said shoppers were unlikely to see much change to stores in the coming months, but added what they can "expect over time is an improved shopping experience as the new owners invest in the business".
-She said health and beauty was a "massive area for growth", and fresh investment from its new ownership would help.
-The last two decades has seen several changes of ownership under discussion and sometimes completed.
-Sycamore only owned the retailer for 18 months, and Shuttleworth said the chopping and changing of owners had been "an unhelpful distraction".
-Boots gets new US owner in multi-billion dollar deal
-- Published7 March 2025
-The company was established by John Boot, who opened the first herbalist store in Nottingham, offering an affordable alternative to traditional medicines in 1849.
-It has since expanded over the decades into selling various products, but health products have remained a key part of its business.
-As well as vaccines, it offers eye and hearing tests, providing much needed health care support in everyday moments as well as at times of national crisis like the coronavirus pandemic.
-It launched its loyalty scheme in 1997, the Advantage Card, which became hugely popular and a move repeated by various retailers since.
-Galen Weston, the chairman of Wittington, will become chairman of Boots.
-He signalled the new owners had fresh plans for the chain, including shop upgrades and an expansion of healthcare services.
-"We see a meaningful opportunity to make a great business even better through stable long-term ownership, further capital investment, and the renewed operating focus required to serve customers with excellence for generations to come," he said.
-The Weston family will be buying Boots' retail operations in the UK and Ireland, Boots Opticians, No7 Beauty Company and its Thailand and franchised businesses. It is set be completed in early 2027.
-The Weston family owns the Canadian grocery chain Loblaws, pharmacy business Shoppers Drug Mart, and previously owned the London department store Selfridges from 2003 to 2021, before selling it for $4bn.
-The separate UK branch of the Weston family is the majority owner of Associated British Foods, the parent firm of Primark.
-The Westons were ranked fifth on this year's Sunday Times Rich List with a combined fortune of almost £19bn.
-Wittington will have operational control over Boots, it has secured ownership in partnership with Fairfax Financial Holdings, a Toronto-based holding company.
-Sycamore Partners, in partnership with Stefano Pessina and his family, will retain ownership of The Boots Group's Farmacias Benavides in Mexico and Alliance Healthcare Deutschland in Germany.
-Get in touch
-What are your views on Boots? What has been your shopping experience? Get in touch.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-07T17:18:30+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/882a/live/37402510-c257-11f1-ab30-1f92d324dff9.jpg",
-    readTime: 10,
-  },
-  {
-    id: "badenoch-says-tories-would-scrap-inherit-c90b3176",
-    title: "Badenoch says Tories would scrap inheritance tax on family homes",
-    titleJa: "Badenoch says Tories would scrap inheritance tax on family homes",
-    summaryJa: "Tory leader says her party is \"coming back\", as she aims to convince voters it has changed after 2024 election defeat.",
-    bodyOriginal: `Badenoch says Tories would scrap inheritance tax on family homes
-- Published
-Conservative Party leader Kemi Badenoch has pledged to scrap inheritance tax (IHT) on family homes while also allowing couples to leave £1m tax-free, in her keynote speech at the party's conference in Birmingham.
-Badenoch added her ambition would be for a Conservative government to abolish IHT "as soon as we can afford it", but said she could not currently propose this due to spending commitments on defence, prisons and the economy.
-Badenoch also used her speech to try to make clear how the Tories differed to Labour and Reform UK.
-She pitched them as the "no-nonsense party" compared to the Reform UK "circus" and accused Prime Minister Andy Burnham of wanting to "live in the past".
-Tories united behind Badenoch - but party still needs to win over voters
-- Published6 hours ago
-Why Tories are talking about winning the next election
-- Published1 day ago
-What's in the Conservatives' inheritance tax plan and who benefits?
-- Published6 hours ago
-Rival parties hit back and said the proposals for IHT, which is levied on the value of someone's estate when they die, would prioritise support for wealthier people in the country.
-Badenoch arrived in Birmingham's Symphony Hall with a message to Conservative Party members that they face a "battle for the soul of the this nation".
-She argued her party is "renewed" and "coming back" as she continued efforts to convince voters that it has changed following an historic defeat at the 2024 general election.
-In a nod to those who have defected to Nigel Farage's party, Badenoch said: "The Conservatives have had an export boom of drama queens going to Reform.
-"This party is now the no drama party, we are the no-nonsense party."
-With the party trailing Labour and Reform in the polls, Badenoch acknowledged that people are "looking through the shop window", they "like what they see" but "not enough of them are buying yet, we need to fix that".
-Her inspiration for how to revive a long-standing brand was Marks and Spencer (M&S), saying they have "adapted their style for today's market and people are flooding back".
-Badenoch added: "Just like M&S, we must learn from our mistakes, win back trust and make people feel good about our party again."
-One of the biggest responses in the room from members came as Badenoch made clear she did not want to do an election deal with Reform.
-She described many Reform voters as "our people", adding: "We let them down and we want them to come back home."
-Following a section of the speech mocking some of Reform's senior figures, Badenoch said: "To those who say 'unite the right', we are not uniting with that.
-"People deserve better than that and we are going to give them better than that. Character, conduct, and standards matter."
-She also said she did not want to live in a country run by people who "debate whether my mixed-race children are English".
-In one of many jibes aimed at Burnham, Badenoch labelled him a "Paddington Bear prime minister" who was "hoping that the problems will just go away".
-In the days ahead of Wednesday's speech, there was widespread speculation that Badenoch would announce changes to IHT.
-As the opposition leader neared the end of her 66-minute speech, she said IHT was "supposed to be a tax on the super wealthy" but it is "now a tax on ordinary middle-class families in every corner of our country".
-She said: "The next Conservative government will legislate so nobody will ever pay inheritance tax on their family home.
-"On top of that, couples would be able to leave an additional £1m tax-free and these changes mean every inheritance tax bill will be cut and the number of families paying inheritance tax will fall by more than half."
-The Conservatives have estimated the policy would cost around £6bn a year and believe they have identified £71bn of savings that can be made to government spending, including welfare cuts.
-Under the current rules, estates worth more than £325,000, or £500,000 if a home is left to children or grandchildren, can face a 40% tax rate on assets above the threshold.
-Married or civil partners can also transfer assets between each other.
-In 2023-24, 4.72% of UK deaths resulted in an IHT charge and raised around £7bn for the government.
-Badenoch also said her "ambition is to abolish inheritance tax altogether, as soon as we can afford it".
-Labour Party chairwoman Bridget Phillipson said: "The Tories haven't changed.
-"Kemi Badenoch has shown that the Tories' choice is to do nothing to help ordinary families struggling with the cost of social care, prioritising the wealthiest instead."
-Reform UK economy spokesman Robert Jenrick said Badenoch had "chickened out of doing anything big" and is "for the 2%".
-The former Tory MP said: "While the Tory Party is offering handouts to multi-millionaires, Reform will give everyone a £500 tax cut by raising the tax-free personal allowance to £15,000.
-"The Tory Party is looking after its own in Kensington, Reform is looking after the country."
-Elsewhere in her speech, Badenoch referred to other policies the party has announced in recent days.
-These include a £10bn anti-missile defence system, 50,000 new prison places and halving the rate of employer national insurance on earnings for people aged between 21 to 24.
-They also pledged to scrap the "cliff edge" that means parents in England lose out on childcare support when they earn more than £100,000 a year.
-Another policy to be scrapped would be the High Value Council Tax Surcharge (HVCTS), dubbed the "mansion tax".
-This is due to take effect from 2028 and introduces an extra levy for owners of properties in England valued at more than £2m.
-Liberal Democrat leader Sir Ed Davey responded to the speech by saying Badenoch had been "lecturing the country on fiscal responsibility while making tens of billions in unfunded promises".
-Green MP Carla Denyer added: "Kemi Badenoch once again defined the Conservative Party as pro-billionaires, pro-inequality and pro-damaging the environment."
-Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
-    bodyJa: `Badenoch says Tories would scrap inheritance tax on family homes
-- Published
-Conservative Party leader Kemi Badenoch has pledged to scrap inheritance tax (IHT) on family homes while also allowing couples to leave £1m tax-free, in her keynote speech at the party's conference in Birmingham.
-Badenoch added her ambition would be for a Conservative government to abolish IHT "as soon as we can afford it", but said she could not currently propose this due to spending commitments on defence, prisons and the economy.
-Badenoch also used her speech to try to make clear how the Tories differed to Labour and Reform UK.
-She pitched them as the "no-nonsense party" compared to the Reform UK "circus" and accused Prime Minister Andy Burnham of wanting to "live in the past".
-Tories united behind Badenoch - but party still needs to win over voters
-- Published6 hours ago
-Why Tories are talking about winning the next election
-- Published1 day ago
-What's in the Conservatives' inheritance tax plan and who benefits?
-- Published6 hours ago
-Rival parties hit back and said the proposals for IHT, which is levied on the value of someone's estate when they die, would prioritise support for wealthier people in the country.
-Badenoch arrived in Birmingham's Symphony Hall with a message to Conservative Party members that they face a "battle for the soul of the this nation".
-She argued her party is "renewed" and "coming back" as she continued efforts to convince voters that it has changed following an historic defeat at the 2024 general election.
-In a nod to those who have defected to Nigel Farage's party, Badenoch said: "The Conservatives have had an export boom of drama queens going to Reform.
-"This party is now the no drama party, we are the no-nonsense party."
-With the party trailing Labour and Reform in the polls, Badenoch acknowledged that people are "looking through the shop window", they "like what they see" but "not enough of them are buying yet, we need to fix that".
-Her inspiration for how to revive a long-standing brand was Marks and Spencer (M&S), saying they have "adapted their style for today's market and people are flooding back".
-Badenoch added: "Just like M&S, we must learn from our mistakes, win back trust and make people feel good about our party again."
-One of the biggest responses in the room from members came as Badenoch made clear she did not want to do an election deal with Reform.
-She described many Reform voters as "our people", adding: "We let them down and we want them to come back home."
-Following a section of the speech mocking some of Reform's senior figures, Badenoch said: "To those who say 'unite the right', we are not uniting with that.
-"People deserve better than that and we are going to give them better than that. Character, conduct, and standards matter."
-She also said she did not want to live in a country run by people who "debate whether my mixed-race children are English".
-In one of many jibes aimed at Burnham, Badenoch labelled him a "Paddington Bear prime minister" who was "hoping that the problems will just go away".
-In the days ahead of Wednesday's speech, there was widespread speculation that Badenoch would announce changes to IHT.
-As the opposition leader neared the end of her 66-minute speech, she said IHT was "supposed to be a tax on the super wealthy" but it is "now a tax on ordinary middle-class families in every corner of our country".
-She said: "The next Conservative government will legislate so nobody will ever pay inheritance tax on their family home.
-"On top of that, couples would be able to leave an additional £1m tax-free and these changes mean every inheritance tax bill will be cut and the number of families paying inheritance tax will fall by more than half."
-The Conservatives have estimated the policy would cost around £6bn a year and believe they have identified £71bn of savings that can be made to government spending, including welfare cuts.
-Under the current rules, estates worth more than £325,000, or £500,000 if a home is left to children or grandchildren, can face a 40% tax rate on assets above the threshold.
-Married or civil partners can also transfer assets between each other.
-In 2023-24, 4.72% of UK deaths resulted in an IHT charge and raised around £7bn for the government.
-Badenoch also said her "ambition is to abolish inheritance tax altogether, as soon as we can afford it".
-Labour Party chairwoman Bridget Phillipson said: "The Tories haven't changed.
-"Kemi Badenoch has shown that the Tories' choice is to do nothing to help ordinary families struggling with the cost of social care, prioritising the wealthiest instead."
-Reform UK economy spokesman Robert Jenrick said Badenoch had "chickened out of doing anything big" and is "for the 2%".
-The former Tory MP said: "While the Tory Party is offering handouts to multi-millionaires, Reform will give everyone a £500 tax cut by raising the tax-free personal allowance to £15,000.
-"The Tory Party is looking after its own in Kensington, Reform is looking after the country."
-Elsewhere in her speech, Badenoch referred to other policies the party has announced in recent days.
-These include a £10bn anti-missile defence system, 50,000 new prison places and halving the rate of employer national insurance on earnings for people aged between 21 to 24.
-They also pledged to scrap the "cliff edge" that means parents in England lose out on childcare support when they earn more than £100,000 a year.
-Another policy to be scrapped would be the High Value Council Tax Surcharge (HVCTS), dubbed the "mansion tax".
-This is due to take effect from 2028 and introduces an extra levy for owners of properties in England valued at more than £2m.
-Liberal Democrat leader Sir Ed Davey responded to the speech by saying Badenoch had been "lecturing the country on fiscal responsibility while making tens of billions in unfunded promises".
-Green MP Carla Denyer added: "Kemi Badenoch once again defined the Conservative Party as pro-billionaires, pro-inequality and pro-damaging the environment."
-Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-07T14:33:11+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfc8/live/ac877ba0-c26d-11f1-b278-615cdfb74f16.png",
-    readTime: 10,
   },
 ];
 
