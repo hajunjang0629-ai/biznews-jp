@@ -15,6 +15,320 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "microsoft-s-nadella-says-ai-needs-an-eme-d94bace5",
+    title: "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
+    titleJa: "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
+    summaryJa: "Nadella joined other tech moguls and researchers in calling for stronger safeguards and, in some cases, for the pacing of frontier development.",
+    bodyOriginal: `Microsoft Chairman and CEO Satya Nadella on Saturday called for advanced artificial intelligence systems to be built with containment, independent controls and an "emergency brake" that lets authorized people pause or shut a model down mid-task.
+"We need to surround non-deterministic models with strong, deterministic system design, human controls, and reliable operating procedures, and establish industry standards where existing ones are insufficient," Nadella wrote in a post on social media platform X.
+"Treating frontier closed and open weight models like insider risks is a way to build such a system," he said.
+Nadella's comments come amid warnings from top tech executives and researchers — including Microsoft co-founder Bill Gates, Anthropic CEO Dario Amodei, OpenAI CEO Sam Altman and SpaceX CEO Elon Musk — about insufficient AI safety protocols and claims that the technology is moving too fast.
+An AI researcher quit Anthropic last month and accused the company, and its chief rival, OpenAI, of "gambling with our lives." Later that day, an alignment lead at Anthropic focused on AI safety said there's a greater than 10% chance that the technology could "kill all humans" within the next decade.
+Conversely, President Donald Trump has repeatedly dismissed AI extinction risks and has instead emphasized that the industry needs to stay ahead of China. Trump also recently introduced a new "AI Force," led by Director of National Intelligence Jay Clayton, to help facilitate the industry and root out bad actors.
+Microsoft's Nadella wrote Saturday that AI systems should be designed around "principles of observability."
+They include model diversity; a human-readable footprint of the model's actions; continuous system testing; independent controls and auditability; containment; and incident disclosure, Nadella wrote.
+"The most trustworthy Super Intelligence system will not be the one with the model we trust most," he wrote. "It will be the one that enables us to trust the model the least."`,
+    bodyJa: `Microsoft Chairman and CEO Satya Nadella on Saturday called for advanced artificial intelligence systems to be built with containment, independent controls and an "emergency brake" that lets authorized people pause or shut a model down mid-task.
+"We need to surround non-deterministic models with strong, deterministic system design, human controls, and reliable operating procedures, and establish industry standards where existing ones are insufficient," Nadella wrote in a post on social media platform X.
+"Treating frontier closed and open weight models like insider risks is a way to build such a system," he said.
+Nadella's comments come amid warnings from top tech executives and researchers — including Microsoft co-founder Bill Gates, Anthropic CEO Dario Amodei, OpenAI CEO Sam Altman and SpaceX CEO Elon Musk — about insufficient AI safety protocols and claims that the technology is moving too fast.
+An AI researcher quit Anthropic last month and accused the company, and its chief rival, OpenAI, of "gambling with our lives." Later that day, an alignment lead at Anthropic focused on AI safety said there's a greater than 10% chance that the technology could "kill all humans" within the next decade.
+Conversely, President Donald Trump has repeatedly dismissed AI extinction risks and has instead emphasized that the industry needs to stay ahead of China. Trump also recently introduced a new "AI Force," led by Director of National Intelligence Jay Clayton, to help facilitate the industry and root out bad actors.
+Microsoft's Nadella wrote Saturday that AI systems should be designed around "principles of observability."
+They include model diversity; a human-readable footprint of the model's actions; continuous system testing; independent controls and auditability; containment; and incident disclosure, Nadella wrote.
+"The most trustworthy Super Intelligence system will not be the one with the model we trust most," he wrote. "It will be the one that enables us to trust the model the least."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+    publishedAt: "2026-10-10T20:59:28+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "these-decisions-you-make-in-your-20s-not-0dd3fd88",
+    title: "These decisions you make in your 20s — not your income — determine whether you’ll spend decades in debt or retire comfortably",
+    titleJa: "These decisions you make in your 20s — not your income — determine whether you’ll spend decades in debt or retire comfortably",
+    summaryJa: "Don’t just focus on stock picks when you’re thinking of building retirement wealth",
+    bodyOriginal: `Don’t just focus on stock picks when you’re thinking of building retirement wealth`,
+    bodyJa: `Don’t just focus on stock picks when you’re thinking of building retirement wealth`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories",
+    publishedAt: "2026-10-10T19:44:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-31613768",
+    readTime: 2,
+  },
+  {
+    id: "rising-interest-rates-the-good-the-bad-a-712d7fdf",
+    title: "Rising interest rates: The good, the bad and the ugly for retirees",
+    titleJa: "Rising interest rates: The good, the bad and the ugly for retirees",
+    summaryJa: "Unlike higher gas prices, which hurt almost everyone, higher borrowing costs have an uneven impact.",
+    bodyOriginal: `Unlike higher gas prices, which hurt almost everyone, higher borrowing costs have an uneven impact.`,
+    bodyJa: `Unlike higher gas prices, which hurt almost everyone, higher borrowing costs have an uneven impact.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/the-good-the-bad-and-the-ugly-of-rising-interest-rates-ee465a81?mod=mw_rss_topstories",
+    publishedAt: "2026-10-10T19:44:00+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.mktw.net/im-49042399",
+    readTime: 2,
+  },
+  {
+    id: "taxing-stocks-estates-and-employee-benef-01db294b",
+    title: "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
+    titleJa: "Taxing stocks, estates and employee benefits could keep Social Security from running out of money. Here’s who could pay the most.",
+    summaryJa: "Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.",
+    bodyOriginal: `Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.`,
+    bodyJa: `Social Security is projected to become insolvent in six years. These are some of the creative solutions that are on the table, beyond raising payroll taxes.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/taxing-stocks-estates-and-employee-benefits-could-keep-social-security-from-running-out-of-money-heres-who-could-pay-the-most-616be82c?mod=mw_rss_topstories",
+    publishedAt: "2026-10-10T19:44:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-66664610",
+    readTime: 2,
+  },
+  {
+    id: "time-for-ukraine-to-get-new-president-s-759a9d24",
+    title: "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+    titleJa: "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+    summaryJa: "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+    bodyOriginal: `'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
+- Published
+US President Donald Trump has said he thinks "it's time for Ukraine to get a new president" as he responded to Volodymyr Zelensky's criticism of the US diesel deal with Russia.
+The Ukrainian president warned a new deal to release millions of tonnes of Russian diesel into the US would provide Moscow with money to continue its war against his nation, calling it a gift to Russian President Vladimir Putin.
+Trump told reporters outside the White House on Saturday that Zelensky "wants to make problems for the world" by continuing to authorise attacks on Russian refineries.
+"He'd better damn well stop," Trump said, before suggesting Ukraine should "get a new leader who can make a deal".
+Global fuel supplies, including diesel, have been severely limited by the war against Iran launched by the US and Israel, which led to the effective closure of the Strait of Hormuz, through which roughly a fifth of the world's oil products usually flows.
+Russia - a major producer - and Ukraine have recently intensified their strikes on each other's energy infrastructure and transport facilities, further straining energy markets.
+"We said, 'you can do whatever you want to Russia, don't hit the refineries', because that's a world problem that's caused," Trump continued.
+"He could have made many deals and for some reason, he never does."
+Putin's envoy Kirill Dmitriev described Trump's intervention as "iconic and historic", saying that Ukraine "needs leadership actually focused on peace".
+The US president confirmed on Friday that an agreement had been reached with Moscow to suspend sanctions on Russian diesel exports until 7 April.
+Zelensky reacted by saying it would allow Moscow to raise new funds to source new military equipment to continue the war.
+He also accused Moscow of taking the deal "to mean they can keep fighting, to mean they keep dropping bombs on cities" following deadly new strikes on Zaporizhzhia.
+Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices
+- Published23 hours ago
+The Ukrainian president spoke to several allies on Saturday to discuss the latest developments, calling for "real decisions to protect lives in Ukraine" and to protect European security.
+A Downing Street spokesperson said UK Prime Minister Andy Burnham had spoken to Zelensky and offered his "complete solidarity".
+The pair had agreed Russia should acquiesce to "an immediate energy ceasefire" and end its attacks on shipping in the Black Sea, the spokesperson said, as "this would immediately release more energy and food supplies into the global market".
+News of the US-Russia diesel deal was also met with criticism by EU's foreign affairs chief Kaja Kallas, who echoed Zelensky in saying that suspending sanctions "provides Moscow with more revenues to wage war", adding: "This is not the time to ease pressure on Russia, and Europe won't."
+She said European foreign ministers intended to approve the biggest set of sanctions on Russia since the start of its full-scale invasion on Monday.
+The deal with Russia is the latest effort from Trump to lower fuel prices in the US ahead of the midterm elections, after months spent grappling with the political consequences of the Iran war.
+That conflict, which began in February, has sent the cost of petrol and in particular diesel skyrocketing, which has soured his standing with the American public who have been stung by the higher pump prices and knock-on effects that led to across-the-board inflation.
+The average price of diesel is currently $6.28 (£4.74) a gallon, according to the AAA – up from last month's $5.94 average, and $3.68 last year.
+Under the deal, Russia would release an initial 300,000 tonnes of diesel "to the American and global marketplace" followed by an additional 500,000 tonnes in November.
+A further million would follow, Trump wrote on Truth Social, and then another 3m tonnes "within a short period of time" – but he noted that this delivery will be "based on the condition of their diesel refineries".
+In the past 10 months, Russia experienced two waves of severe fuel shortages across the country due to Ukrainian drones strikes on its oil refineries.
+Diesel production in Russia dropped by an estimated 30%, according to the International Energy Agency.
+Trump had already called for new elections in Ukraine last December, external, saying Ukrainian voters should have the choice to replace Zelensky.
+Since the war broke out in 2022 Ukraine has been under martial law, meaning elections are suspended.
+- Published7 hours ago
+- Published43 minutes ago`,
+    bodyJa: `'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal
+- Published
+US President Donald Trump has said he thinks "it's time for Ukraine to get a new president" as he responded to Volodymyr Zelensky's criticism of the US diesel deal with Russia.
+The Ukrainian president warned a new deal to release millions of tonnes of Russian diesel into the US would provide Moscow with money to continue its war against his nation, calling it a gift to Russian President Vladimir Putin.
+Trump told reporters outside the White House on Saturday that Zelensky "wants to make problems for the world" by continuing to authorise attacks on Russian refineries.
+"He'd better damn well stop," Trump said, before suggesting Ukraine should "get a new leader who can make a deal".
+Global fuel supplies, including diesel, have been severely limited by the war against Iran launched by the US and Israel, which led to the effective closure of the Strait of Hormuz, through which roughly a fifth of the world's oil products usually flows.
+Russia - a major producer - and Ukraine have recently intensified their strikes on each other's energy infrastructure and transport facilities, further straining energy markets.
+"We said, 'you can do whatever you want to Russia, don't hit the refineries', because that's a world problem that's caused," Trump continued.
+"He could have made many deals and for some reason, he never does."
+Putin's envoy Kirill Dmitriev described Trump's intervention as "iconic and historic", saying that Ukraine "needs leadership actually focused on peace".
+The US president confirmed on Friday that an agreement had been reached with Moscow to suspend sanctions on Russian diesel exports until 7 April.
+Zelensky reacted by saying it would allow Moscow to raise new funds to source new military equipment to continue the war.
+He also accused Moscow of taking the deal "to mean they can keep fighting, to mean they keep dropping bombs on cities" following deadly new strikes on Zaporizhzhia.
+Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices
+- Published23 hours ago
+The Ukrainian president spoke to several allies on Saturday to discuss the latest developments, calling for "real decisions to protect lives in Ukraine" and to protect European security.
+A Downing Street spokesperson said UK Prime Minister Andy Burnham had spoken to Zelensky and offered his "complete solidarity".
+The pair had agreed Russia should acquiesce to "an immediate energy ceasefire" and end its attacks on shipping in the Black Sea, the spokesperson said, as "this would immediately release more energy and food supplies into the global market".
+News of the US-Russia diesel deal was also met with criticism by EU's foreign affairs chief Kaja Kallas, who echoed Zelensky in saying that suspending sanctions "provides Moscow with more revenues to wage war", adding: "This is not the time to ease pressure on Russia, and Europe won't."
+She said European foreign ministers intended to approve the biggest set of sanctions on Russia since the start of its full-scale invasion on Monday.
+The deal with Russia is the latest effort from Trump to lower fuel prices in the US ahead of the midterm elections, after months spent grappling with the political consequences of the Iran war.
+That conflict, which began in February, has sent the cost of petrol and in particular diesel skyrocketing, which has soured his standing with the American public who have been stung by the higher pump prices and knock-on effects that led to across-the-board inflation.
+The average price of diesel is currently $6.28 (£4.74) a gallon, according to the AAA – up from last month's $5.94 average, and $3.68 last year.
+Under the deal, Russia would release an initial 300,000 tonnes of diesel "to the American and global marketplace" followed by an additional 500,000 tonnes in November.
+A further million would follow, Trump wrote on Truth Social, and then another 3m tonnes "within a short period of time" – but he noted that this delivery will be "based on the condition of their diesel refineries".
+In the past 10 months, Russia experienced two waves of severe fuel shortages across the country due to Ukrainian drones strikes on its oil refineries.
+Diesel production in Russia dropped by an estimated 30%, according to the International Energy Agency.
+Trump had already called for new elections in Ukraine last December, external, saying Ukrainian voters should have the choice to replace Zelensky.
+Since the war broke out in 2022 Ukraine has been under martial law, meaning elections are suspended.
+- Published7 hours ago
+- Published43 minutes ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-10T19:28:28+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99c5/live/3203eb90-c4d2-11f1-a64c-550be9e3c66b.jpg",
+    readTime: 10,
+  },
+  {
+    id: "vance-says-microsoft-replaced-laid-off-w-c53a3566",
+    title: "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
+    titleJa: "Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows",
+    summaryJa: "The administration barred Microsoft and seven other firms from sponsoring green cards over claims they favor foreign workers. Here's what the visa data shows.",
+    bodyOriginal: `As the Trump administration announced Thursday that it suspended eight tech companies from sponsoring foreign workers for green cards, Vice President JD Vance singled out Microsoft, claiming it replaced the 6,000 workers it laid off in 2025 with people on H-1B work visas.
+The suspension of the Labor Department's PERM program for green cards, which grant permanent residency to immigrants, doesn't affect H-1Bs, which are temporary work permits, but H-1B approval data shows how heavily these companies rely on foreign workers.
+Data from the U.S. Citizenship and Immigration Services' H-1B Employer Data Hub also shows that Amazon and Meta were the biggest sponsors of H-1B visas, and neither was suspended.
+The crackdown went beyond tech. At the same news conference Thursday, the Labor Department's inspector general, Anthony D'Esposito, announced an investigation into alleged J-1 visa fraud involving nine major American universities. Trump supporters have long argued that these programs undercut American workers by incentivizing employers to hire from abroad.
+Who's on the list
+All eight suspended companies rank among the nation's top 50 H-1B sponsors. Most are IT services and consulting firms. Adobe is the smallest, at No. 45.
+The biggest sponsor wasn't suspended
+Amazon, with 19,178 H-1B approvals in fiscal 2025, and Meta, with 6,294, were the top two sponsors, and neither was suspended. Microsoft was a close third with 6,258, according to the USCIS data hub. Microsoft out-sponsored Amazon for years. Amazon passed Microsoft in 2017 and now gets about three times as many approvals.
+If you do the math, for every worker that Microsoft laid off, they replaced that worker with one and a half foreign indentured servants. ... Microsoft is a great American company, and we have a great relationship with them.JD VanceVice President of the United States
+What the numbers show
+The numbers cut both ways. Microsoft did receive more than 6,000 H-1B approvals last year, as Vance said. But 2 in 3 went to people already working there. Amazon, which brought in nearly four times as many H-1B workers new to the company, was not on the suspension list.`,
+    bodyJa: `As the Trump administration announced Thursday that it suspended eight tech companies from sponsoring foreign workers for green cards, Vice President JD Vance singled out Microsoft, claiming it replaced the 6,000 workers it laid off in 2025 with people on H-1B work visas.
+The suspension of the Labor Department's PERM program for green cards, which grant permanent residency to immigrants, doesn't affect H-1Bs, which are temporary work permits, but H-1B approval data shows how heavily these companies rely on foreign workers.
+Data from the U.S. Citizenship and Immigration Services' H-1B Employer Data Hub also shows that Amazon and Meta were the biggest sponsors of H-1B visas, and neither was suspended.
+The crackdown went beyond tech. At the same news conference Thursday, the Labor Department's inspector general, Anthony D'Esposito, announced an investigation into alleged J-1 visa fraud involving nine major American universities. Trump supporters have long argued that these programs undercut American workers by incentivizing employers to hire from abroad.
+Who's on the list
+All eight suspended companies rank among the nation's top 50 H-1B sponsors. Most are IT services and consulting firms. Adobe is the smallest, at No. 45.
+The biggest sponsor wasn't suspended
+Amazon, with 19,178 H-1B approvals in fiscal 2025, and Meta, with 6,294, were the top two sponsors, and neither was suspended. Microsoft was a close third with 6,258, according to the USCIS data hub. Microsoft out-sponsored Amazon for years. Amazon passed Microsoft in 2017 and now gets about three times as many approvals.
+If you do the math, for every worker that Microsoft laid off, they replaced that worker with one and a half foreign indentured servants. ... Microsoft is a great American company, and we have a great relationship with them.JD VanceVice President of the United States
+What the numbers show
+The numbers cut both ways. Microsoft did receive more than 6,000 H-1B approvals last year, as Vance said. But 2 in 3 went to people already working there. Amazon, which brought in nearly four times as many H-1B workers new to the company, was not on the suspension list.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html",
+    publishedAt: "2026-10-10T14:22:23+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "putin-relayed-iran-war-proposal-to-trump-182acae5",
+    title: "Putin relayed Iran war proposal to Trump, Kremlin says",
+    titleJa: "Putin relayed Iran war proposal to Trump, Kremlin says",
+    summaryJa: "Putin's reported call with Trump regarding the Iran war comes on the heels of a deal for the U.S. to buy Russian diesel amid a surge in fuel prices.",
+    bodyOriginal: `Russian President Vladimir Putin conveyed Tehran's vision for a possible end to the war in Iran to U.S. President Donald Trump, Russian state media reported Saturday.
+The report comes a day after Trump said Russia will supply diesel to the global market amid a surge in energy prices caused by the wars in Iran and Ukraine.
+Russia's Interfax news agency quoted Kremlin spokesman Dmitry Peskov as saying Putin sent the message to Trump "in agreement with Iranian President Masoud Pezeshkian," according to a Google translation.
+Other Russian media reports said Putin spoke to Trump by phone after the Russian leader met Pezeshkian on the sidelines of a summit in Turkmenistan.
+Interfax didn't elaborate on the specifics of how Iran sees the war — which began on Feb. 28 with U.S. and Israeli airstrikes on Iranian targets — coming to an end.
+The White House didn't immediately respond to CNBC's emailed request to confirm the reported conversation between Putin and Trump.
+Russia supply deal
+Trump said Friday that Russia will supply more than 4 million tons of diesel to the global market under an arrangement the U.S. president said he agreed with Putin during a phone call.
+Russia will immediately supply more than 300,000 tons of diesel, followed by 500,000 tons in November, and 1 million tons immediately thereafter, Trump said in a post on Truth Social. Moscow will then deliver another 3 million tons of diesel based on the condition of Russia's refineries, Trump said.
+The Treasury Department temporarily waived sanctions on Russian diesel through April 2027 under a general license issued Friday.
+Iran has stepped up its attacks on oil tankers transiting the Strait of Hormuz, with vessels coming under fire almost daily as Tehran tries to choke off a rebound in crude exports.
+A senior Iranian Revolutionary Guard official said Wednesday that Iran will block all "illicit routes" through Hormuz, according to the Fars News Agency, an outlet considered close to the Guard.
+The surge in attacks on tankers comes as crude oil exports from the Middle East rebounded in September to prewar levels, largely because the U.S. military escorted ships through Hormuz along Oman's coast.
+An interim deal signed in June between the U.S. and Iran to pause hostilities to allow for negotiations quickly broke down.
+'Gifts to Putin'
+Ukrainian President Volodymyr Zelenskyy immediately condemned Trump's diesel deal with Putin. Ukraine's leader warned that easing sanctions without a commitment from Russia to de-escalate the war will only prolong it.
+"Gifts to Putin will not bring peace or any benefit to the civilized world," Zelenskyy said in a social media post. "Russia will 'repay' the diesel with further terror and perfidy. Allowing Russia to sell petroleum products is an investment in a war that must be ended, not prolonged."
+Diesel prices have surged worldwide as Ukraine has pounded Russian refineries, forcing Moscow to ban diesel exports to global markets. Iran and its Houthi allies have also attacked refineries in the Middle East, further constraining fuel supplies.
+Trump is under growing political pressure to lower fuel prices ahead of the November midterm elections. Republicans face competitive elections in conservative strongholds like Iowa, where farmers feel the pinch of high diesel prices.`,
+    bodyJa: `Russian President Vladimir Putin conveyed Tehran's vision for a possible end to the war in Iran to U.S. President Donald Trump, Russian state media reported Saturday.
+The report comes a day after Trump said Russia will supply diesel to the global market amid a surge in energy prices caused by the wars in Iran and Ukraine.
+Russia's Interfax news agency quoted Kremlin spokesman Dmitry Peskov as saying Putin sent the message to Trump "in agreement with Iranian President Masoud Pezeshkian," according to a Google translation.
+Other Russian media reports said Putin spoke to Trump by phone after the Russian leader met Pezeshkian on the sidelines of a summit in Turkmenistan.
+Interfax didn't elaborate on the specifics of how Iran sees the war — which began on Feb. 28 with U.S. and Israeli airstrikes on Iranian targets — coming to an end.
+The White House didn't immediately respond to CNBC's emailed request to confirm the reported conversation between Putin and Trump.
+Russia supply deal
+Trump said Friday that Russia will supply more than 4 million tons of diesel to the global market under an arrangement the U.S. president said he agreed with Putin during a phone call.
+Russia will immediately supply more than 300,000 tons of diesel, followed by 500,000 tons in November, and 1 million tons immediately thereafter, Trump said in a post on Truth Social. Moscow will then deliver another 3 million tons of diesel based on the condition of Russia's refineries, Trump said.
+The Treasury Department temporarily waived sanctions on Russian diesel through April 2027 under a general license issued Friday.
+Iran has stepped up its attacks on oil tankers transiting the Strait of Hormuz, with vessels coming under fire almost daily as Tehran tries to choke off a rebound in crude exports.
+A senior Iranian Revolutionary Guard official said Wednesday that Iran will block all "illicit routes" through Hormuz, according to the Fars News Agency, an outlet considered close to the Guard.
+The surge in attacks on tankers comes as crude oil exports from the Middle East rebounded in September to prewar levels, largely because the U.S. military escorted ships through Hormuz along Oman's coast.
+An interim deal signed in June between the U.S. and Iran to pause hostilities to allow for negotiations quickly broke down.
+'Gifts to Putin'
+Ukrainian President Volodymyr Zelenskyy immediately condemned Trump's diesel deal with Putin. Ukraine's leader warned that easing sanctions without a commitment from Russia to de-escalate the war will only prolong it.
+"Gifts to Putin will not bring peace or any benefit to the civilized world," Zelenskyy said in a social media post. "Russia will 'repay' the diesel with further terror and perfidy. Allowing Russia to sell petroleum products is an investment in a war that must be ended, not prolonged."
+Diesel prices have surged worldwide as Ukraine has pounded Russian refineries, forcing Moscow to ban diesel exports to global markets. Iran and its Houthi allies have also attacked refineries in the Middle East, further constraining fuel supplies.
+Trump is under growing political pressure to lower fuel prices ahead of the November midterm elections. Republicans face competitive elections in conservative strongholds like Iowa, where farmers feel the pinch of high diesel prices.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
+    publishedAt: "2026-10-10T13:42:36+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 8,
+  },
+  {
+    id: "how-supreme-court-justices-are-leaning-i-b999452a",
+    title: "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance",
+    titleJa: "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance",
+    summaryJa: "The Supreme Court is weighing an Intel 401(k) case as employers await new Labor Department rules on private investments in retirement plans.",
+    bodyOriginal: `The Supreme Court heard a major case this week concerning an Intel retirement plan which could result in a decision that influences employers' appetite for private investments in 401(k)s.
+Many plan sponsors are in limbo, awaiting the Supreme Court decision and finalized Labor Department rules covering alternative investments before changing their 401(k) menu, even as the asset management industry is gearing up with new products.
+"I think companies want to know what's going to happen with the proposal and what's going to happen with the Supreme Court case before they go rushing in to change their investment strategies," said Elizabeth Hopkins, principal at Hopkins ERISA Law and a former senior trial attorney with the Labor Department, who filed an amicus brief in the Supreme Court case on behalf of former high-ranking DOL officials.
+Here's what employers and employees need to know about forces influencing the market for private investments in 401(k) plans.
+What Justices Thomas, Alito, Gorsuch and Kagan said
+Employers have been whipsawed for the past several years by changing government policies on alternative investments in 401(k) plans and a high-profile lawsuit filed in 2019 by a former Intel employee. That case, Anderson v. Intel Corp. Investment Policy Committee, which the Supreme Court heard oral arguments on Tuesday, Oct. 6, concerns private investments in a defined contribution plan like a 401(k) and the circumstances under which these investments are appropriate.
+The case is not challenging whether alternative assets like hedge funds and private equity can be used in a 401(k) plan alongside stocks and bonds. Rather, the question before the court is whether a retirement plan underperformance claim requires alleging a "meaningful benchmark." The heart of the dispute is how to handle claims by employees that plan sponsors have invested their retirement funds imprudently.
+Employees contend that the relatively low returns on Intel's plans reflect a breach of fiduciary duty. The lower courts disagreed. Their reasoning: claims of underperformance alone are not enough without showing a "meaningful benchmark" for courts to assess performance.
+During the arguments, Supreme Court justices seemed skeptical that plan sponsors' investment choices should provide easy fodder for litigious individuals. Justices frequently turned to a fruit metaphor, with Justice Clarence Thomas summing up his take on the Ninth Circuit's decision as: "you can't compare apples and oranges…if you have a fund…that is designed to produce high returns but riskier returns…you can't compare that to a fund that is to protect against losses."
+Several other justices, including from among the liberal side of the court, seemed to agree with his line of reasoning, Ronald Mann, co-director of the Charles Evans Gerber Transactional Studies Center at Columbia Law School, noted in an analysis on SCOTUSblog. Justice Elena Kagan, for instance, commented, "the thing that you need … is another apple."
+Justice Samuel Alito challenged the employees' attorney, Matthew Wessler, to clarify whether his position was that one could "state a claim by comparing apples and oranges but supplement that with the suggestion that the strategy was flawed."
+Justice Amy Coney Barrett opted for the same metaphor as well.
+Meanwhile, Justice Neil Gorsuch asked Wessler to "agree with the general principle that when we're limited to underperformance claims … a meaningful benchmark of some kind is required, apples, not oranges."
+Wessler did not respond to a request for comment for this article.
+The underlying problem for the court seemed to be the lack of a benchmark. Notably, justices explicitly asked Aimee Brown, assistant to the Solicitor General, how much guidance the court should provide in this case.
+Brown's view was that the court should suggest "some parameters" for what a "meaningful benchmark" needs to be. "Prudence is about process and not about performance," she told the justices.
+Legal experts say SCOTUS seems likely to side with Intel
+Attorneys who attended the arguments in person, listened to the recording or read the transcript took the justices' questions as a sign they were leaning toward siding with Intel and affirming the 9th Circuit. "When the justices are asking opposing counsel to pick and choose among the approaches to use in an opinion, it usually is a safe bet that they are not going to vote for you," Mann wrote.
+On rebuttal, Wessler noted that all of the allegations need to be considered together and holistically. "I think that matters in a case like this, where you have an allegation about an imprudent either strategy or implementation of that strategy that then turns out badly," he told the court.
+Employers are awaiting the court's ruling, in some cases hoping for guidance that helps temper future litigation. "Private funds can be an effective and entirely appropriate component of 401(k) plan investment options," Eugene Scalia, partner at Gibson Dunn & Crutcher, said in an email. "A ruling for Intel by the court would affirm that and lend further support to the Labor Department rulemaking," said the former U.S. Secretary of Labor who submitted an amicus brief on behalf of The American Investment Council and The Managed Funds Association.
+"A positive outcome in this case will go a long way toward getting plan sponsors that have wanted to do this for years, but held off, for fear of being sued, feel more confident that they can do this with less fear of being sued," said Joshua Lichtenstein, partner at Ropes & Gray who heads the firm's ERISA fiduciary practice and was a co-author of an amicus brief to the court on the Investment Company Institute's behalf.
+ERISA doesn't prohibit alternative investments
+The Employee Retirement Income Security Act of 1974, or ERISA, doesn't discuss alternative investments in 401(k)s, but President Trump pushed for their inclusion during his previous administration. Under his watch, the Labor Department issued an Information Letter in June 2020 designed to "help Americans saving for retirement gain access to alternative investments that often provide strong returns," then-Secretary of Labor Scalia said in a statement.
+In December 2021, however, the DOL under the Biden administration issued a supplemental statement, contending that most plan fiduciaries were not suited to evaluate alternative investments, given their complexity and high risk. That had a chilling effect on the market.
+The tide shifted, once again, in Trump's second term. In August 2025, he issued a presidential executive order to democratize access to alternative assets for 401(k) investors. Then, in October 2025, Congressman Troy Downing introduced the Retirement Investment Choice Act to codify the executive order into law. And in March, the Labor Department issued a proposed rule that would ease legal and regulatory barriers against adding alternative investments to retirement plans. Comments were due by June 1.
+"The proposal is the clearest guidance the department has ever given on the types of information and process that a plan sponsor should go through when making investment decisions," Lichtenstein said.
+Big employers may still be slow to add private funds
+Most large companies do not offer private investments within their 401(k) plans, even though there's nothing in ERISA saying they can't, said Kent Mason, partner at Davis & Harman, who filed an amicus brief in the Intel case on behalf of the American Benefits Council and represents major employers, large plans and national vendors of retirement plan services.
+The latest developments in court and in the regulatory landscape might not change this. "The largest companies are going to be the slowest to do this," Mason said, adding that he expects smaller and mid-size companies to start adding private investments to their 401(k) line-up before large companies, who are subject to more litigation risk.
+He expects this even if the Supreme Court sides with Intel and Labor Department rules are adopted. "While the rules provide an excellent and helpful framework, the six-factor analysis is still subjective," he said, referring to recently proposed Labor Department guidance on selecting investment options in plans. "Plaintiffs' attorneys are still likely to file suit alleging large companies failed to meet their safe-harbor fiduciary obligations."
+Alternative investments are already common in defined benefit plans, even as 401(k)s have been slower to adopt them. But that's expected to change over time, as investors push for it, more products become available and more companies become comfortable — even if it's slow out of the gate.
+"There's a clear business case for making sure plans provide employees with a broad base of investment options," said Harvey Bines, partner at law firm Sullivan & Worcester, whose focus includes investment management law. However, employers will have to take extra care to cover all the legal and fiduciary bases. "The more novel and riskier the options you offer, the more care and oversight you need to incorporate to make and continue the offering," Bines said.
+Momentum is rising. During Trump's second term, asset managers and plan providers continue to forge partnerships to offer alternative investments within 401(k)s, with announcements from Empower in May 2025 and Voya Financial in July. OneDigital and Principal Financial Group announced similar partnerships in January and August of this year. In September, Constitution Capital Partners announced the Constitution Capital Horizon CIT, a collective investment trust, that launched with more than $50 million in initial assets across 18 retirement plans and near-term commitments bringing total plan assets to more than $1 billion.
+"We're seeing plan sponsors, together with their advisors and consultants, take a closer look at private market investments and begin incorporating them in thoughtful ways," Amy Vaillancourt, president of retirement at Voya Financial, said in an email. She noted that interest isn't just coming from employers. Voya's research found nearly two-thirds of participants want access to private market investments.
+"Sponsors want to understand where private markets may benefit their participants' long-term retirement outcomes," Brett Fisher, head of investment product strategy at Principal Financial Group, said in an email. At the same time, they "want to make those decisions in a way that aligns with their fiduciary obligations."`,
+    bodyJa: `The Supreme Court heard a major case this week concerning an Intel retirement plan which could result in a decision that influences employers' appetite for private investments in 401(k)s.
+Many plan sponsors are in limbo, awaiting the Supreme Court decision and finalized Labor Department rules covering alternative investments before changing their 401(k) menu, even as the asset management industry is gearing up with new products.
+"I think companies want to know what's going to happen with the proposal and what's going to happen with the Supreme Court case before they go rushing in to change their investment strategies," said Elizabeth Hopkins, principal at Hopkins ERISA Law and a former senior trial attorney with the Labor Department, who filed an amicus brief in the Supreme Court case on behalf of former high-ranking DOL officials.
+Here's what employers and employees need to know about forces influencing the market for private investments in 401(k) plans.
+What Justices Thomas, Alito, Gorsuch and Kagan said
+Employers have been whipsawed for the past several years by changing government policies on alternative investments in 401(k) plans and a high-profile lawsuit filed in 2019 by a former Intel employee. That case, Anderson v. Intel Corp. Investment Policy Committee, which the Supreme Court heard oral arguments on Tuesday, Oct. 6, concerns private investments in a defined contribution plan like a 401(k) and the circumstances under which these investments are appropriate.
+The case is not challenging whether alternative assets like hedge funds and private equity can be used in a 401(k) plan alongside stocks and bonds. Rather, the question before the court is whether a retirement plan underperformance claim requires alleging a "meaningful benchmark." The heart of the dispute is how to handle claims by employees that plan sponsors have invested their retirement funds imprudently.
+Employees contend that the relatively low returns on Intel's plans reflect a breach of fiduciary duty. The lower courts disagreed. Their reasoning: claims of underperformance alone are not enough without showing a "meaningful benchmark" for courts to assess performance.
+During the arguments, Supreme Court justices seemed skeptical that plan sponsors' investment choices should provide easy fodder for litigious individuals. Justices frequently turned to a fruit metaphor, with Justice Clarence Thomas summing up his take on the Ninth Circuit's decision as: "you can't compare apples and oranges…if you have a fund…that is designed to produce high returns but riskier returns…you can't compare that to a fund that is to protect against losses."
+Several other justices, including from among the liberal side of the court, seemed to agree with his line of reasoning, Ronald Mann, co-director of the Charles Evans Gerber Transactional Studies Center at Columbia Law School, noted in an analysis on SCOTUSblog. Justice Elena Kagan, for instance, commented, "the thing that you need … is another apple."
+Justice Samuel Alito challenged the employees' attorney, Matthew Wessler, to clarify whether his position was that one could "state a claim by comparing apples and oranges but supplement that with the suggestion that the strategy was flawed."
+Justice Amy Coney Barrett opted for the same metaphor as well.
+Meanwhile, Justice Neil Gorsuch asked Wessler to "agree with the general principle that when we're limited to underperformance claims … a meaningful benchmark of some kind is required, apples, not oranges."
+Wessler did not respond to a request for comment for this article.
+The underlying problem for the court seemed to be the lack of a benchmark. Notably, justices explicitly asked Aimee Brown, assistant to the Solicitor General, how much guidance the court should provide in this case.
+Brown's view was that the court should suggest "some parameters" for what a "meaningful benchmark" needs to be. "Prudence is about process and not about performance," she told the justices.
+Legal experts say SCOTUS seems likely to side with Intel
+Attorneys who attended the arguments in person, listened to the recording or read the transcript took the justices' questions as a sign they were leaning toward siding with Intel and affirming the 9th Circuit. "When the justices are asking opposing counsel to pick and choose among the approaches to use in an opinion, it usually is a safe bet that they are not going to vote for you," Mann wrote.
+On rebuttal, Wessler noted that all of the allegations need to be considered together and holistically. "I think that matters in a case like this, where you have an allegation about an imprudent either strategy or implementation of that strategy that then turns out badly," he told the court.
+Employers are awaiting the court's ruling, in some cases hoping for guidance that helps temper future litigation. "Private funds can be an effective and entirely appropriate component of 401(k) plan investment options," Eugene Scalia, partner at Gibson Dunn & Crutcher, said in an email. "A ruling for Intel by the court would affirm that and lend further support to the Labor Department rulemaking," said the former U.S. Secretary of Labor who submitted an amicus brief on behalf of The American Investment Council and The Managed Funds Association.
+"A positive outcome in this case will go a long way toward getting plan sponsors that have wanted to do this for years, but held off, for fear of being sued, feel more confident that they can do this with less fear of being sued," said Joshua Lichtenstein, partner at Ropes & Gray who heads the firm's ERISA fiduciary practice and was a co-author of an amicus brief to the court on the Investment Company Institute's behalf.
+ERISA doesn't prohibit alternative investments
+The Employee Retirement Income Security Act of 1974, or ERISA, doesn't discuss alternative investments in 401(k)s, but President Trump pushed for their inclusion during his previous administration. Under his watch, the Labor Department issued an Information Letter in June 2020 designed to "help Americans saving for retirement gain access to alternative investments that often provide strong returns," then-Secretary of Labor Scalia said in a statement.
+In December 2021, however, the DOL under the Biden administration issued a supplemental statement, contending that most plan fiduciaries were not suited to evaluate alternative investments, given their complexity and high risk. That had a chilling effect on the market.
+The tide shifted, once again, in Trump's second term. In August 2025, he issued a presidential executive order to democratize access to alternative assets for 401(k) investors. Then, in October 2025, Congressman Troy Downing introduced the Retirement Investment Choice Act to codify the executive order into law. And in March, the Labor Department issued a proposed rule that would ease legal and regulatory barriers against adding alternative investments to retirement plans. Comments were due by June 1.
+"The proposal is the clearest guidance the department has ever given on the types of information and process that a plan sponsor should go through when making investment decisions," Lichtenstein said.
+Big employers may still be slow to add private funds
+Most large companies do not offer private investments within their 401(k) plans, even though there's nothing in ERISA saying they can't, said Kent Mason, partner at Davis & Harman, who filed an amicus brief in the Intel case on behalf of the American Benefits Council and represents major employers, large plans and national vendors of retirement plan services.
+The latest developments in court and in the regulatory landscape might not change this. "The largest companies are going to be the slowest to do this," Mason said, adding that he expects smaller and mid-size companies to start adding private investments to their 401(k) line-up before large companies, who are subject to more litigation risk.
+He expects this even if the Supreme Court sides with Intel and Labor Department rules are adopted. "While the rules provide an excellent and helpful framework, the six-factor analysis is still subjective," he said, referring to recently proposed Labor Department guidance on selecting investment options in plans. "Plaintiffs' attorneys are still likely to file suit alleging large companies failed to meet their safe-harbor fiduciary obligations."
+Alternative investments are already common in defined benefit plans, even as 401(k)s have been slower to adopt them. But that's expected to change over time, as investors push for it, more products become available and more companies become comfortable — even if it's slow out of the gate.
+"There's a clear business case for making sure plans provide employees with a broad base of investment options," said Harvey Bines, partner at law firm Sullivan & Worcester, whose focus includes investment management law. However, employers will have to take extra care to cover all the legal and fiduciary bases. "The more novel and riskier the options you offer, the more care and oversight you need to incorporate to make and continue the offering," Bines said.
+Momentum is rising. During Trump's second term, asset managers and plan providers continue to forge partnerships to offer alternative investments within 401(k)s, with announcements from Empower in May 2025 and Voya Financial in July. OneDigital and Principal Financial Group announced similar partnerships in January and August of this year. In September, Constitution Capital Partners announced the Constitution Capital Horizon CIT, a collective investment trust, that launched with more than $50 million in initial assets across 18 retirement plans and near-term commitments bringing total plan assets to more than $1 billion.
+"We're seeing plan sponsors, together with their advisors and consultants, take a closer look at private market investments and begin incorporating them in thoughtful ways," Amy Vaillancourt, president of retirement at Voya Financial, said in an email. She noted that interest isn't just coming from employers. Voya's research found nearly two-thirds of participants want access to private market investments.
+"Sponsors want to understand where private markets may benefit their participants' long-term retirement outcomes," Brett Fisher, head of investment product strategy at Principal Financial Group, said in an email. At the same time, they "want to make those decisions in a way that aligns with their fiduciary obligations."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/10/supreme-court-case-401k-private-funds-intel.html",
+    publishedAt: "2026-10-10T13:00:01+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
     id: "buffett-s-trips-down-youtube-rabbit-hole-f6daf310",
     title: "Buffett's 'trips down YouTube rabbit hole' revealed",
     titleJa: "Buffett's 'trips down YouTube rabbit hole' revealed",
@@ -1683,650 +1997,6 @@ In June, a federal judge blocked the $100,000 H-1B visa fee U.S. President Donal
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 6,
-  },
-  {
-    id: "trump-wants-to-reduce-the-cost-of-fuel-a-2c78f723",
-    title: "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
-    titleJa: "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
-    summaryJa: "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
-    bodyOriginal: `Trump wants to reduce the cost of fuel as the midterms loom - will it work?
-- Published
-Prices for gasoline and diesel have more than doubled since the US-Israel conflict with Iran began in February, affecting transport businesses, farmers and anyone who drives a vehicle in America.
-Ahead of the critical midterm elections, there have been growing calls for more to be done to reduce the price of fuel, and US President Donald Trump has made several comments and announcements aimed at getting costs down.
-The question is: what is he able to do with just a few weeks to go before election day - and will it work?
-Why does Trump want to reduce gas and diesel prices?
-Trump's announcement of a waiver on the use of red dye diesel at a campaign stop this week underscored the importance of gas prices in a midterm election dominated by affordability issues.
-The election comes as there is widespread public concern over the rising costs of fuel, food and other goods. Voters have tied the issue to Trump and his party, weighing down Republicans running in November.
-Polls show a majority of Americans disapprove of Trump's handling of the economy and the war in Iran, which has contributed to high diesel and gas prices in the US.
-Global oil supplies have been restricted since the conflict in the Middle East effectively halted the usual flow of oil and refined products through the Strait of Hormuz for months.
-While the flow of crude oil is nearly back to pre-war levels the price remains above $100 a barrel, and sustained high oil prices have had a knock-on effect for diesel and gasoline.
-David Ruisard, pricing manager for commodities intelligence firm Argus says the ongoing Russian war with Ukraine has also impacted oil supplies, contributing to higher fuel prices.
-"Our estimates are that your price increase from about $3 a gallon up to $6 a gallon [for diesel] is 60% connected to the Strait of Hormuz, 40% connected to the Russia-Ukraine conflict," he says.
-Those higher energy prices are responsible for most of the uptick in inflation this year, Oxford Economics chief US economist Michael Pearce says, which is pushing up interest rates.
-"The combined impact of higher rates and higher energy prices is squeezing household budgets and adding to firms' costs," he says.
-While prices remain high, Patrick De Haan, head of petroleum analysis for fuel price tracking website GasBuddy said there have been modest declines recently for both gasoline and diesel.
-"A lot of that is likely due to some of the manoeuvres that we've seen the Trump administration employ over the last couple of weeks," he said.
-What has Trump done so far?
-The president announced this week that he would allow so-called red dye diesel - fuel which is used off-road and does not face federal taxes - to be used on US highways without facing federal levies.
-Ruisard said the only difference in the diesel used by truck drivers and everyday consumers and the tax-free red dye diesel is the dye itself.
-"The problem with that red dye is, it's extremely hard to clean it out of your tank," he explained.
-The problem that creates is what happens to trucking companies that use the dyed diesel once the temporary tax relief ends, he said.
-"The fines are pretty high for having that in your fuel tank because its considered tax evasion."
-The other issue with expanding the use of red dye diesel, according to Ruisard, is that people and businesses - including rail operators - usually set aside a particular amount of the product.
-"If suddenly people go out and they start consuming that diesel, that depletes their available supply as well," he said.
-But another move from Trump has been more successful, according to analysts.
-Last week, the G7 countries announced they would release 100 million barrels of oil and diesel from stockpiles to ease supply concerns, following pressure from Trump to do so.
-De Haan says the announcement itself – regardless of how much has been released so far – "has worked to push prices down to some degree".
-Economist Pearce agreed but warned the release is only a temporary solution.
-"As long as energy exports from the Gulf remain disrupted, stocks will need to be drained further to supply the market," he said. "And the need to refill those stocks will mean energy prices remain elevated for a period, even when disruption in the Middle East clears."
-What else has the president suggested?
-Earlier this week, Trump said he was "thinking about" suspending federal tax on gasoline.
-De Haan said the president has also been imploring states to cut state taxes on gasoline and several have done so, including Ohio and Georgia.
-State taxes form a "moderate portion" of what consumers pay at the pump, and those reductions have helped reduce prices and national averages, he said.
-However, suspending or reducing the federal levy on gasoline would require the cooperation of Congress.
-"That may be difficult to obtain ahead of the midterm elections," said De Haan.
-It is also a costly measure.
-De Haan estimated that in Indiana, which cut its tax on gasoline in May, it has cost the state government $1bn (£760m) in lost revenue.
-Trump has also previously supported calls for a ban on diesel exports from the US.
-While that would provide partial relief in the Gulf and Midwest, according to Pearce, he adds it would be of "little benefit" to the Northeast and West Coast.
-"The policy risks backfiring because it would result in stockpiling of diesel, and as that storage runs out, refineries would need to cut back on production," he said.
-"That would raise prices of other energy products, including gasoline."
-Does Trump have any other levers to pull?
-De Haan believes the president has "basically pulled all of the small levers that a president can pull, and we're still seeing prices very elevated".
-"The only way out of this to reduce gas prices in a meaningful way is solve one or both of the geopolitical tensions that are causing high prices," he said.
-That means reaching a deal with Iran and helping facilitate an agreement between Ukraine and Russia - which, Pearce said, are issues that cannot be directly controlled by the White House.
-Even if those conflicts are resolved, Ruisard said that due to damage to facilities in the Middle East caused by military strikes it would still take production four to six months to return to normal.
-"The message to consumers and industry is that regardless of what happens and whether the president is able to successfully negotiate that kind of a deal," he said.
-"High prices are here to stay for a little while at least."
-Additional reporting from Daniel Bush`,
-    bodyJa: `Trump wants to reduce the cost of fuel as the midterms loom - will it work?
-- Published
-Prices for gasoline and diesel have more than doubled since the US-Israel conflict with Iran began in February, affecting transport businesses, farmers and anyone who drives a vehicle in America.
-Ahead of the critical midterm elections, there have been growing calls for more to be done to reduce the price of fuel, and US President Donald Trump has made several comments and announcements aimed at getting costs down.
-The question is: what is he able to do with just a few weeks to go before election day - and will it work?
-Why does Trump want to reduce gas and diesel prices?
-Trump's announcement of a waiver on the use of red dye diesel at a campaign stop this week underscored the importance of gas prices in a midterm election dominated by affordability issues.
-The election comes as there is widespread public concern over the rising costs of fuel, food and other goods. Voters have tied the issue to Trump and his party, weighing down Republicans running in November.
-Polls show a majority of Americans disapprove of Trump's handling of the economy and the war in Iran, which has contributed to high diesel and gas prices in the US.
-Global oil supplies have been restricted since the conflict in the Middle East effectively halted the usual flow of oil and refined products through the Strait of Hormuz for months.
-While the flow of crude oil is nearly back to pre-war levels the price remains above $100 a barrel, and sustained high oil prices have had a knock-on effect for diesel and gasoline.
-David Ruisard, pricing manager for commodities intelligence firm Argus says the ongoing Russian war with Ukraine has also impacted oil supplies, contributing to higher fuel prices.
-"Our estimates are that your price increase from about $3 a gallon up to $6 a gallon [for diesel] is 60% connected to the Strait of Hormuz, 40% connected to the Russia-Ukraine conflict," he says.
-Those higher energy prices are responsible for most of the uptick in inflation this year, Oxford Economics chief US economist Michael Pearce says, which is pushing up interest rates.
-"The combined impact of higher rates and higher energy prices is squeezing household budgets and adding to firms' costs," he says.
-While prices remain high, Patrick De Haan, head of petroleum analysis for fuel price tracking website GasBuddy said there have been modest declines recently for both gasoline and diesel.
-"A lot of that is likely due to some of the manoeuvres that we've seen the Trump administration employ over the last couple of weeks," he said.
-What has Trump done so far?
-The president announced this week that he would allow so-called red dye diesel - fuel which is used off-road and does not face federal taxes - to be used on US highways without facing federal levies.
-Ruisard said the only difference in the diesel used by truck drivers and everyday consumers and the tax-free red dye diesel is the dye itself.
-"The problem with that red dye is, it's extremely hard to clean it out of your tank," he explained.
-The problem that creates is what happens to trucking companies that use the dyed diesel once the temporary tax relief ends, he said.
-"The fines are pretty high for having that in your fuel tank because its considered tax evasion."
-The other issue with expanding the use of red dye diesel, according to Ruisard, is that people and businesses - including rail operators - usually set aside a particular amount of the product.
-"If suddenly people go out and they start consuming that diesel, that depletes their available supply as well," he said.
-But another move from Trump has been more successful, according to analysts.
-Last week, the G7 countries announced they would release 100 million barrels of oil and diesel from stockpiles to ease supply concerns, following pressure from Trump to do so.
-De Haan says the announcement itself – regardless of how much has been released so far – "has worked to push prices down to some degree".
-Economist Pearce agreed but warned the release is only a temporary solution.
-"As long as energy exports from the Gulf remain disrupted, stocks will need to be drained further to supply the market," he said. "And the need to refill those stocks will mean energy prices remain elevated for a period, even when disruption in the Middle East clears."
-What else has the president suggested?
-Earlier this week, Trump said he was "thinking about" suspending federal tax on gasoline.
-De Haan said the president has also been imploring states to cut state taxes on gasoline and several have done so, including Ohio and Georgia.
-State taxes form a "moderate portion" of what consumers pay at the pump, and those reductions have helped reduce prices and national averages, he said.
-However, suspending or reducing the federal levy on gasoline would require the cooperation of Congress.
-"That may be difficult to obtain ahead of the midterm elections," said De Haan.
-It is also a costly measure.
-De Haan estimated that in Indiana, which cut its tax on gasoline in May, it has cost the state government $1bn (£760m) in lost revenue.
-Trump has also previously supported calls for a ban on diesel exports from the US.
-While that would provide partial relief in the Gulf and Midwest, according to Pearce, he adds it would be of "little benefit" to the Northeast and West Coast.
-"The policy risks backfiring because it would result in stockpiling of diesel, and as that storage runs out, refineries would need to cut back on production," he said.
-"That would raise prices of other energy products, including gasoline."
-Does Trump have any other levers to pull?
-De Haan believes the president has "basically pulled all of the small levers that a president can pull, and we're still seeing prices very elevated".
-"The only way out of this to reduce gas prices in a meaningful way is solve one or both of the geopolitical tensions that are causing high prices," he said.
-That means reaching a deal with Iran and helping facilitate an agreement between Ukraine and Russia - which, Pearce said, are issues that cannot be directly controlled by the White House.
-Even if those conflicts are resolved, Ruisard said that due to damage to facilities in the Middle East caused by military strikes it would still take production four to six months to return to normal.
-"The message to consumers and industry is that regardless of what happens and whether the president is able to successfully negotiate that kind of a deal," he said.
-"High prices are here to stay for a little while at least."
-Additional reporting from Daniel Bush`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-09T04:55:14+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b1a/live/12929650-c32c-11f1-9981-cf94ea240e40.jpg",
-    readTime: 10,
-  },
-  {
-    id: "real-boss-of-india-elon-musk-takes-aim-4312cea0",
-    title: "'Real boss of India?': Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls",
-    titleJa: "'Real boss of India?': Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls",
-    summaryJa: "Musk claimed Starlink was not being allowed to launch in India despite spending five years complying with every single law and requirement of the government.",
-    bodyOriginal: `SpaceX founder Elon Musk on Thursday took a shot at Indian billionaire Mukesh Ambani, a day after he accused certain "oligarchs" of stalling the launch of his company's Starlink internet service in the country.
-Musk said Starlink was not being allowed to launch in India despite having spent "five years complying with every single law and requirement" of the government.
-"Is Ambani the real boss of India?" Musk questioned in a post, having blamed a day earlier "oligarchs" in the country for maintaining a "monopolistic chokehold on the Indian people."
-Ambani's Jio is the largest telecom and internet service operator in India and, along with the other major operator, Airtel, controls about 80% of the market.
-Musk's comment against Ambani caused a political stir in India, eliciting a response from India's leader of opposition, Rahul Gandhi, who has consistently alleged that the government is being influenced by powerful businessmen in India.
-"Wait till you meet the other one," Gandhi said in a veiled reference to India's wealthiest businessman Gautam Adani, who has been a key target of the politician. "This is indeed troubling," Musk said in response to Gandhi.
-Reliance Industries, Ambani's flagship company, did not respond to CNBC's request for comment.
-Frozen approvals
-In March last year, Starlink signed pacts with Ambani's Jio Platforms and India's second-largest telecom company Airtel to explore cross-selling the products and services of the U.S. company in India.
-Following the interim deals, Musk's satellite internet business in July last year got a license to launch its services in India.
-But Starlink could not launch. Bloomberg reported earlier this year that New Delhi had frozen approvals for Starlink over concerns that its terminals could be used despite the service not being licensed.
-Meanwhile, Akash Ambani, the son of Mukesh and managing director of Jio Platforms, told shareholders in June that his company was planning to roll out low-orbit satellite communications in the country.
-Jio is looking to set up set up a satellite network of around 1,600 LEO satellites and 23 ground stations to expand connectivity across India, according to local media reports. Starlink, on the other hand, has 11,000 satellites in orbit that provide service to people in over 170 countries and territories.
-Akash Ambani on Thursday told Moneycontrol, a platform owned by the Reliance Group, that the company believes "India needs its own indigenous stack of technologies."
-Satellite communication is not the only space where Musk's business plans in India have failed to take off. Tesla, which was launched last year in the South Asian country, has received an underwhelming response, with the company reportedly selling just a little over 1,000 cars since launch.`,
-    bodyJa: `SpaceX founder Elon Musk on Thursday took a shot at Indian billionaire Mukesh Ambani, a day after he accused certain "oligarchs" of stalling the launch of his company's Starlink internet service in the country.
-Musk said Starlink was not being allowed to launch in India despite having spent "five years complying with every single law and requirement" of the government.
-"Is Ambani the real boss of India?" Musk questioned in a post, having blamed a day earlier "oligarchs" in the country for maintaining a "monopolistic chokehold on the Indian people."
-Ambani's Jio is the largest telecom and internet service operator in India and, along with the other major operator, Airtel, controls about 80% of the market.
-Musk's comment against Ambani caused a political stir in India, eliciting a response from India's leader of opposition, Rahul Gandhi, who has consistently alleged that the government is being influenced by powerful businessmen in India.
-"Wait till you meet the other one," Gandhi said in a veiled reference to India's wealthiest businessman Gautam Adani, who has been a key target of the politician. "This is indeed troubling," Musk said in response to Gandhi.
-Reliance Industries, Ambani's flagship company, did not respond to CNBC's request for comment.
-Frozen approvals
-In March last year, Starlink signed pacts with Ambani's Jio Platforms and India's second-largest telecom company Airtel to explore cross-selling the products and services of the U.S. company in India.
-Following the interim deals, Musk's satellite internet business in July last year got a license to launch its services in India.
-But Starlink could not launch. Bloomberg reported earlier this year that New Delhi had frozen approvals for Starlink over concerns that its terminals could be used despite the service not being licensed.
-Meanwhile, Akash Ambani, the son of Mukesh and managing director of Jio Platforms, told shareholders in June that his company was planning to roll out low-orbit satellite communications in the country.
-Jio is looking to set up set up a satellite network of around 1,600 LEO satellites and 23 ground stations to expand connectivity across India, according to local media reports. Starlink, on the other hand, has 11,000 satellites in orbit that provide service to people in over 170 countries and territories.
-Akash Ambani on Thursday told Moneycontrol, a platform owned by the Reliance Group, that the company believes "India needs its own indigenous stack of technologies."
-Satellite communication is not the only space where Musk's business plans in India have failed to take off. Tesla, which was launched last year in the South Asian country, has received an underwhelming response, with the company reportedly selling just a little over 1,000 cars since launch.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html",
-    publishedAt: "2026-10-09T04:11:59+00:00",
-    category: "自動車",
-    imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "nvidia-backed-ai-data-centre-firm-scraps-a598303c",
-    title: "Nvidia-backed AI data centre firm scraps landmark listing over market fears",
-    titleJa: "Nvidia-backed AI data centre firm scraps landmark listing over market fears",
-    summaryJa: "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
-    bodyOriginal: `Nvidia-backed AI data centre firm scraps landmark listing over market fears
-- Published
-Artificial intelligence (AI) data centre company Firmus has scrapped its plans for what would have been one of Australia's biggest-ever stock market listings.
-The Nvidia-backed firm said it had made the decision due to "recent market volatility and prevailing market conditions" and that going public would not be in the company or shareholders' best interests.
-Firmus had initially announced plans for a stock market debut that valued the company at more than $30bn (£22.65bn).
-One investment firm told the BBC that it had decided not take part in the initial public offering (IPO) over concerns about its valuation.
-"Firmus will now pursue capital from the private markets and consider alternative public and private market options. We will provide additional information to shareholders as those options progress," the company said.
-Firmus builds and operates liquid-cooled data centres, or what it calls "AI factories", for clients including OpenAI and Meta.
-It has operations in Australia, Singapore and other parts of the Asia-Pacific region.
-The company's backers include Nvidia and major investment firms Blackstone and Jane Street.
-Blackstone declined to comment when contacted by the BBC.
-Nvidia and Jane Street have also been contacted for comment.
-The decision by Firmus to scrap its stock market listing comes as investors and industry analysts have raised concerns about the hundreds of billions of dollars being poured into AI as the prospects for long-term returns remain unclear.
-A humming annoyance or jobs boom? Life next to 199 data centres
-- Published26 October 2025
-AI data centres are booming in Australia - but at what cost?
-- Published3 September
-UniSuper, one of Australia's biggest pension funds, was among the institutional investors that decided not take part in the IPO.
-"We think that Firmus indeed has a compelling story. It just doesn't have a compelling valuation," UniSuper's chief investment officer John Pearce said in an update to investors.
-He also said UniSuper was concerned that Firmus would have to go further into debt to fund its growth plans.
-"It's disappointing. The [Australian Securities Exchange] needs new stories and this could have been one if it was correctly priced," Pearce told the BBC.
-Australia has become an attractive destination for data centre investment, thanks to the country's abundant clean energy, natural gas supplies and land availability.
-OpenAI boss Sam Altman said earlier this year that Australia could become a world leader in the data centre industry if it wanted to.
-There are currently over 160 data centres in the country and plans for more.
-That is despite resistance from some Australians who have raised concerns about their environmental impact and the noise they create.
-In September, Altman said OpenAI did not aim to list on the stock market this year, citing concerns over the technology's safety that make it "an ill-advised moment" to go public.
-The ChatGPT-maker, along with rival Anthropic, have been eyeing blockbuster stock market debuts that would value the firms at more than $1tn each.
-AI-related stocks, Nvidia and Oracle, fell in US trading on Thursday after reports that OpenAI's revenues were lower than previously thought.
-Related topics
-- Published20 July
-- Published1 day ago`,
-    bodyJa: `Nvidia-backed AI data centre firm scraps landmark listing over market fears
-- Published
-Artificial intelligence (AI) data centre company Firmus has scrapped its plans for what would have been one of Australia's biggest-ever stock market listings.
-The Nvidia-backed firm said it had made the decision due to "recent market volatility and prevailing market conditions" and that going public would not be in the company or shareholders' best interests.
-Firmus had initially announced plans for a stock market debut that valued the company at more than $30bn (£22.65bn).
-One investment firm told the BBC that it had decided not take part in the initial public offering (IPO) over concerns about its valuation.
-"Firmus will now pursue capital from the private markets and consider alternative public and private market options. We will provide additional information to shareholders as those options progress," the company said.
-Firmus builds and operates liquid-cooled data centres, or what it calls "AI factories", for clients including OpenAI and Meta.
-It has operations in Australia, Singapore and other parts of the Asia-Pacific region.
-The company's backers include Nvidia and major investment firms Blackstone and Jane Street.
-Blackstone declined to comment when contacted by the BBC.
-Nvidia and Jane Street have also been contacted for comment.
-The decision by Firmus to scrap its stock market listing comes as investors and industry analysts have raised concerns about the hundreds of billions of dollars being poured into AI as the prospects for long-term returns remain unclear.
-A humming annoyance or jobs boom? Life next to 199 data centres
-- Published26 October 2025
-AI data centres are booming in Australia - but at what cost?
-- Published3 September
-UniSuper, one of Australia's biggest pension funds, was among the institutional investors that decided not take part in the IPO.
-"We think that Firmus indeed has a compelling story. It just doesn't have a compelling valuation," UniSuper's chief investment officer John Pearce said in an update to investors.
-He also said UniSuper was concerned that Firmus would have to go further into debt to fund its growth plans.
-"It's disappointing. The [Australian Securities Exchange] needs new stories and this could have been one if it was correctly priced," Pearce told the BBC.
-Australia has become an attractive destination for data centre investment, thanks to the country's abundant clean energy, natural gas supplies and land availability.
-OpenAI boss Sam Altman said earlier this year that Australia could become a world leader in the data centre industry if it wanted to.
-There are currently over 160 data centres in the country and plans for more.
-That is despite resistance from some Australians who have raised concerns about their environmental impact and the noise they create.
-In September, Altman said OpenAI did not aim to list on the stock market this year, citing concerns over the technology's safety that make it "an ill-advised moment" to go public.
-The ChatGPT-maker, along with rival Anthropic, have been eyeing blockbuster stock market debuts that would value the firms at more than $1tn each.
-AI-related stocks, Nvidia and Oracle, fell in US trading on Thursday after reports that OpenAI's revenues were lower than previously thought.
-Related topics
-- Published20 July
-- Published1 day ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-09T04:06:23+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb7/live/41bf1cb0-c380-11f1-b333-87955b7be3e7.jpg",
-    readTime: 8,
-  },
-  {
-    id: "nvidia-backed-aussie-ai-firm-firmus-with-23bac64d",
-    title: "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
-    titleJa: "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility",
-    summaryJa: "Nvidia-backed Australian AI data center operator Firmus has withdrawn its planned IPO amid market volatility.",
-    bodyOriginal: `Australian AI data center operator Firmus, which is backed by Nvidia, has withdrawn its planned mega initial public offering, citing market volatility and conditions, the company said in an emailed statement to CNBC.
-Firmus said its board determined that the terms of the proposed offering did not adequately reflect the strength of its business and long-term growth outlook.
-"The board therefore concluded that proceeding with the offer was not in the best interests of the company and its shareholders," Firmus said in a statement. "Firmus will now pursue capital from the private markets and consider alternative public and private market options," it added.
-Firmus had reportedly planned to raise $5 billion in its IPO, pricing shares at A$11 apiece, which would have made it the second-largest new share sale in Australia's history. The IPO valued the company at around $30.6 billion.
-In August, the company announced a $2 billion funding round backed by Nvidia, Coatue Management, Blackstone and Jane Street, bringing its total equity raised over the preceding year to more than $3 billion and its valuation to over $10.5 billion.
-Firmus also announced agreements with Meta last month to provide GPU computing capacity at its AI data centers in Southeast Asia, built on Nvidia's DSX platform, to support Meta's AI research, model development and training.`,
-    bodyJa: `Australian AI data center operator Firmus, which is backed by Nvidia, has withdrawn its planned mega initial public offering, citing market volatility and conditions, the company said in an emailed statement to CNBC.
-Firmus said its board determined that the terms of the proposed offering did not adequately reflect the strength of its business and long-term growth outlook.
-"The board therefore concluded that proceeding with the offer was not in the best interests of the company and its shareholders," Firmus said in a statement. "Firmus will now pursue capital from the private markets and consider alternative public and private market options," it added.
-Firmus had reportedly planned to raise $5 billion in its IPO, pricing shares at A$11 apiece, which would have made it the second-largest new share sale in Australia's history. The IPO valued the company at around $30.6 billion.
-In August, the company announced a $2 billion funding round backed by Nvidia, Coatue Management, Blackstone and Jane Street, bringing its total equity raised over the preceding year to more than $3 billion and its valuation to over $10.5 billion.
-Firmus also announced agreements with Meta last month to provide GPU computing capacity at its AI data centers in Southeast Asia, built on Nvidia's DSX platform, to support Meta's AI research, model development and training.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/09/nvidia-ai-firmus-ipo-.html",
-    publishedAt: "2026-10-09T03:51:15+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "mark-zuckerberg-has-an-image-problem-so-9de2ab99",
-    title: "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-    titleJa: "Mark Zuckerberg has an image problem - so why is Meta's business booming?",
-    summaryJa: "A new film paints the Meta founder as a villain. But the tech firm seems immune to bad publicity, writes our North America tech correspondent.",
-    bodyOriginal: `Mark Zuckerberg was just three minutes into his keynote speech at the company's annual Meta Connect product event last month when his tone turned almost wistful.
-"Building is an act of love," he said, glancing down at the ground with his hands in his pockets. "It's how we impart what we believe, and we pour our hearts and our souls into what we make."
-Speaking to hundreds of analysts and developers, Zuckerberg proceeded to share news about Meta's latest AI products: its new agentic chatbot Muse, a slew of smart glasses, as well as a Tamagotchi-like AI gadget users can attach to their wrists.
-It was a conference focused on new technologies - but still, it's perhaps notable that during a presentation lasting nearly an hour, Zuckerberg did not mention two of his most popular products, Instagram and Facebook, the social media platforms that have helped Meta become a $2tn company.
-For much of the past year, Meta has been embroiled in a series of legal actions, accused of deliberately designing products that are addictive to young users.
-That has led to the release of internal emails, corporate documents and whistleblower testimony that personal injury lawyers and prosecutors across the country have wielded to make their case.
-And Zuckerberg is unpopular: last year, a Pew Research Center poll found that two-thirds of Americans had an unfavourable opinion of him.
-His reputation is unlikely to be helped by The Social Reckoning, a film by Aaron Sorkin released this week. It's about whistleblower claims that Meta executives were aware of their products harming young people. Succession actor Jeremy Strong plays Zuckerberg as a "full-on villain", according to a review in the Hollywood Reporter, "stoically arguing that even the slightest gesture of responsibility is anathema where money is concerned".
-Some speculate that this is Meta's "Big Tobacco" moment, with a consensus forming against the company, and the social media industry as a whole.
-But the truth seems to be more complicated. Despite months of bad press, in the real world Meta's products are doing better than ever. Use of its apps continues to rise, and users are already flocking to its new AI assistant.
-It raises the question: can anything really clip Meta's wings? Or is it now something of a 'Teflon' company, with scandals simply bouncing off it?
-Meta's 'trust deficit'
-It's certainly been a year of bad headlines for Meta.
-Last summer, Reuters revealed that Meta allowed its chatbots to "engage a child in conversations that are romantic or sensual", and provide false medical information to users.
-Meta has revised those policies and said that such responses should never have been allowed.
-And this year, bills have been mounting. In March, a jury gave $6m (£4.5m) to a 20-year-old California woman who claimed she suffered mental health harms related to her use of Meta's Instagram and Google's YouTube.
-Around the same time, New Mexico became the first state to succeed in a lawsuit against Meta over child safety issues. A jury found the company had failed to warn the public about the dangers its platforms posed to kids. Meta was fined a total of $942m. The judge called Meta a "public nuisance" akin to air pollution.
-Meta says it disagrees with the verdicts and is appealing both cases.
-In May, Meta was among the social companies that avoided a trial by settling a case brought by a Kentucky school district that claimed their product design had led to a youth mental health crisis. Meta reportedly agreed to pay $9m, the most of any defendant.
-And this summer, Meta struck a high-profile $18bn settlement with 48 US states, plus the District of Columbia and three US territories. Meta denied wrongdoing as part of the settlement, and during the five-day trial it maintained that it had worked extensively over the years to make its platforms safer for young users, pouring resources into testing and research. As part of the deal, the firm promised to enact two-hour daily time limits for young users, along with night-time blocks on use, muted notifications during school hours, and other changes.
-The company faces other lawsuits too, including one starting later this month in Los Angeles, also related to alleged social media addiction among young users.
-Meanwhile, several countries have moved to ban social media for children entirely, starting with Australia last December. Social media companies are broadly disliked, even while their products remain wildly popular. A Reuters/Ipsos survey suggests that 85% of Americans think social media can be addictive for children, and 61% support greater government oversight.
-To some, the trust issue feels existential
-"Once the public has stopped trusting you, it's kind of a downward spiral," says associate professor Alison Taylor of New York University's Stern School of Business.
-"It feels like… the trust deficit is so big, I just don't know that they're going to be able to recover."
-'Withstanding the blowback'
-But despite those high-profile cases, the company reported that the number of people using some of its apps (like Instagram and WhatsApp) has risen 3% year on year and this year's second quarter revenue was up 28% compared with the same period in 2025.
-While it has agreed to temper its pursuit of the teen market (which many brands eagerly cultivate to build their future user base), the company has said that teens accounted for less than 1% of its revenue anyway. Competitors TikTok and Google's YouTube are more popular with young users.
-And the company's settlement with the 48 states was widely considered a massive win for Meta, because it prevented some Meta bosses (including Zuckerberg) from having to give testimony, and stopped the release of further internal documents, while allowing the company to avoid admitting wrongdoing. The company's stock price surged 4% immediately following the announcement, and is up more than 25% over the last month.
-One view popular among critics is that the company has tested consumer tolerance for bad behaviour and until now, its business has mostly managed to withstand the blowback. In other words, people will continue to use the products even if they don't like the company.
-"I think they're in a remarkably good position that I didn't expect them to be in," says Patrick Moorhead, founder and CEO of Moor Insights & Strategy.
-Meta's new AI agent
-However, Meta's move into AI depends partly on rebuilding public trust.
-Last month, the company launched its new AI personal assistant app, Muse. Crucially, Muse is an AI agent, meaning it can carry out tasks in multiple stages and work on something over several hours (in contrast to chatbots like ChatGPT, which tend to do one task at a time).
-It's the first AI agent from a major tech firm to become publicly available. A New York Times tech reporter who used the app for two weeks says he was "blown away"; the app called his dental insurer on his behalf, ordered him groceries and tracked his credit card spending in a spreadsheet.
-But Muse works best when users hand over some of their most personal information to the company, including credit card information, purchase histories and access to email inboxes.
-It's a big ask for a company whose reputation on privacy has been sullied, starting a decade ago with the Cambridge Analytica scandal, which followed the revelation that the data of millions of Facebook users was breached and used by a political consulting firm.
-Just two days after Zuckerberg's keynote at Meta Connect, another New Mexico jury found Meta lied about how Facebook used personal information. (The company has said it disagrees with the verdict and will defend itself against what it says are efforts to distort its record.)
-So are customers willing to hand over that data for the convenience of using Muse?
-Some users say yes. Since its launch one month ago, Muse already has more than five million downloads and more than three million weekly active users - outpacing the adoption of ChatGPT when that was first introduced, in the North American market.
-Zuckerberg has laid out a vision in which Muse couples with an ever-expanding line-up of Meta AI smart glasses, enabling users to summon hands-free what he calls "personal superintelligence".
-Meta clearly has big plans for its smart glasses. "I think they're making an investment to position themselves as a category leader," says Kate Winick, principal analyst at Forrester, covering social media and influencers. "However big this category turns out to be, they will own it - for now."
-The glasses are divisive, and have been labelled by some as "pervert glasses" because they can be used to film covertly. The company has moved to stop users from tampering with the light that indicates a photo or video is being captured. Zuckerberg also just announced new audio-only smart glasses, an apparent bid to quell privacy concerns.
-But the company's most strident critics remain wary.
-"Consumers know that Meta has problems, and that to date we haven't been able to trust them to make their products safe for children. So why would a consumer want to trust them with some of their most private and sensitive information?" says Brooke Istook of the Heat Initiative, a campaign group.
-Privacy versus convenience
-In his speech, Zuckerberg briefly addressed the sensitive issue of privacy. At one point during his talk, an image flashed on the screen behind him of its Muse mascot embracing a blue padlock.
-"Given how personal Muse and the content on your glasses is, we designed state-of-the-art privacy and security into all these systems from the beginning," Zuckerberg told the audience.
-He touted a personal virtual machine, for example - essentially a self-contained computer system running inside Meta's cloud, where it says Muse users' data will be stored. Zuckerberg promised it would keep every customer's information secure, and that soon "even Meta won't be able to see that information". He said the virtual machine will be launched later this year, with further privacy protections coming.
-Meta's focus on privacy and security seems aimed at reassuring consumers. But Winick says users still have to opt into many of those protections. "I think if they thought they could get away with not doing that, they would," she says.
-Not long after Zuckerberg took the stage in California, social media users started reporting cases of Muse running amok, including claims that the agent read emails without permission. Meta has pushed back against these reports, saying it does not believe that Muse accesses emails unless a user has consented.
-In the end, the bulk of users may be willing to make some concessions on privacy if it means convenience and utility, says Moorhead. "If the consumer sees the trade-off as beneficial, then they'll keep it going," he says. "This is why Facebook and Instagram still have billions of users."
-On the financial front, the social media advertising business – its cash cow – routinely brings in significant revenue. Meta reported $60.8bn in revenue and $15.9bn in profit for the second quarter of this year.
-Consistent profits have helped fuel bets from the much-mocked Metaverse, to its current mass expansion of AI infrastructure.
-And on Muse? "It's a very real time-saving benefit that a lot of people will want and will like," says Winick.
-AI investment is not cheap. Meta has now taken on $83.7bn in long-term debt, according to its most recent financial statement.
-Still, Meta executives are bullish about the company's pivot to AI. "It's really about your agent, who can do work on your behalf, who is your constant ally in whatever you're trying to accomplish in your goals in your life," Andrew Bosworth, the company's chief technology officer, said in an interview with the BBC.
-Meta has big plans. But its future may ultimately depend on whether its users can trust it.
-Top image credit: CTMG, Inc./Leah Gallo
-More from InDepth
-Tech billionaires seem to be doom prepping. Should we all be worried?
-- Published10 October 2025
-They were labelled 'pervert glasses'. Will a camera-free version transform their image?
-- Published24 September
-AI 'slop' is transforming social media - and a backlash is brewing
-- Published4 February
-BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
-Get in touch
-Are you personally affected by the issues raised in this story?`,
-    bodyJa: `Mark Zuckerberg was just three minutes into his keynote speech at the company's annual Meta Connect product event last month when his tone turned almost wistful.
-"Building is an act of love," he said, glancing down at the ground with his hands in his pockets. "It's how we impart what we believe, and we pour our hearts and our souls into what we make."
-Speaking to hundreds of analysts and developers, Zuckerberg proceeded to share news about Meta's latest AI products: its new agentic chatbot Muse, a slew of smart glasses, as well as a Tamagotchi-like AI gadget users can attach to their wrists.
-It was a conference focused on new technologies - but still, it's perhaps notable that during a presentation lasting nearly an hour, Zuckerberg did not mention two of his most popular products, Instagram and Facebook, the social media platforms that have helped Meta become a $2tn company.
-For much of the past year, Meta has been embroiled in a series of legal actions, accused of deliberately designing products that are addictive to young users.
-That has led to the release of internal emails, corporate documents and whistleblower testimony that personal injury lawyers and prosecutors across the country have wielded to make their case.
-And Zuckerberg is unpopular: last year, a Pew Research Center poll found that two-thirds of Americans had an unfavourable opinion of him.
-His reputation is unlikely to be helped by The Social Reckoning, a film by Aaron Sorkin released this week. It's about whistleblower claims that Meta executives were aware of their products harming young people. Succession actor Jeremy Strong plays Zuckerberg as a "full-on villain", according to a review in the Hollywood Reporter, "stoically arguing that even the slightest gesture of responsibility is anathema where money is concerned".
-Some speculate that this is Meta's "Big Tobacco" moment, with a consensus forming against the company, and the social media industry as a whole.
-But the truth seems to be more complicated. Despite months of bad press, in the real world Meta's products are doing better than ever. Use of its apps continues to rise, and users are already flocking to its new AI assistant.
-It raises the question: can anything really clip Meta's wings? Or is it now something of a 'Teflon' company, with scandals simply bouncing off it?
-Meta's 'trust deficit'
-It's certainly been a year of bad headlines for Meta.
-Last summer, Reuters revealed that Meta allowed its chatbots to "engage a child in conversations that are romantic or sensual", and provide false medical information to users.
-Meta has revised those policies and said that such responses should never have been allowed.
-And this year, bills have been mounting. In March, a jury gave $6m (£4.5m) to a 20-year-old California woman who claimed she suffered mental health harms related to her use of Meta's Instagram and Google's YouTube.
-Around the same time, New Mexico became the first state to succeed in a lawsuit against Meta over child safety issues. A jury found the company had failed to warn the public about the dangers its platforms posed to kids. Meta was fined a total of $942m. The judge called Meta a "public nuisance" akin to air pollution.
-Meta says it disagrees with the verdicts and is appealing both cases.
-In May, Meta was among the social companies that avoided a trial by settling a case brought by a Kentucky school district that claimed their product design had led to a youth mental health crisis. Meta reportedly agreed to pay $9m, the most of any defendant.
-And this summer, Meta struck a high-profile $18bn settlement with 48 US states, plus the District of Columbia and three US territories. Meta denied wrongdoing as part of the settlement, and during the five-day trial it maintained that it had worked extensively over the years to make its platforms safer for young users, pouring resources into testing and research. As part of the deal, the firm promised to enact two-hour daily time limits for young users, along with night-time blocks on use, muted notifications during school hours, and other changes.
-The company faces other lawsuits too, including one starting later this month in Los Angeles, also related to alleged social media addiction among young users.
-Meanwhile, several countries have moved to ban social media for children entirely, starting with Australia last December. Social media companies are broadly disliked, even while their products remain wildly popular. A Reuters/Ipsos survey suggests that 85% of Americans think social media can be addictive for children, and 61% support greater government oversight.
-To some, the trust issue feels existential
-"Once the public has stopped trusting you, it's kind of a downward spiral," says associate professor Alison Taylor of New York University's Stern School of Business.
-"It feels like… the trust deficit is so big, I just don't know that they're going to be able to recover."
-'Withstanding the blowback'
-But despite those high-profile cases, the company reported that the number of people using some of its apps (like Instagram and WhatsApp) has risen 3% year on year and this year's second quarter revenue was up 28% compared with the same period in 2025.
-While it has agreed to temper its pursuit of the teen market (which many brands eagerly cultivate to build their future user base), the company has said that teens accounted for less than 1% of its revenue anyway. Competitors TikTok and Google's YouTube are more popular with young users.
-And the company's settlement with the 48 states was widely considered a massive win for Meta, because it prevented some Meta bosses (including Zuckerberg) from having to give testimony, and stopped the release of further internal documents, while allowing the company to avoid admitting wrongdoing. The company's stock price surged 4% immediately following the announcement, and is up more than 25% over the last month.
-One view popular among critics is that the company has tested consumer tolerance for bad behaviour and until now, its business has mostly managed to withstand the blowback. In other words, people will continue to use the products even if they don't like the company.
-"I think they're in a remarkably good position that I didn't expect them to be in," says Patrick Moorhead, founder and CEO of Moor Insights & Strategy.
-Meta's new AI agent
-However, Meta's move into AI depends partly on rebuilding public trust.
-Last month, the company launched its new AI personal assistant app, Muse. Crucially, Muse is an AI agent, meaning it can carry out tasks in multiple stages and work on something over several hours (in contrast to chatbots like ChatGPT, which tend to do one task at a time).
-It's the first AI agent from a major tech firm to become publicly available. A New York Times tech reporter who used the app for two weeks says he was "blown away"; the app called his dental insurer on his behalf, ordered him groceries and tracked his credit card spending in a spreadsheet.
-But Muse works best when users hand over some of their most personal information to the company, including credit card information, purchase histories and access to email inboxes.
-It's a big ask for a company whose reputation on privacy has been sullied, starting a decade ago with the Cambridge Analytica scandal, which followed the revelation that the data of millions of Facebook users was breached and used by a political consulting firm.
-Just two days after Zuckerberg's keynote at Meta Connect, another New Mexico jury found Meta lied about how Facebook used personal information. (The company has said it disagrees with the verdict and will defend itself against what it says are efforts to distort its record.)
-So are customers willing to hand over that data for the convenience of using Muse?
-Some users say yes. Since its launch one month ago, Muse already has more than five million downloads and more than three million weekly active users - outpacing the adoption of ChatGPT when that was first introduced, in the North American market.
-Zuckerberg has laid out a vision in which Muse couples with an ever-expanding line-up of Meta AI smart glasses, enabling users to summon hands-free what he calls "personal superintelligence".
-Meta clearly has big plans for its smart glasses. "I think they're making an investment to position themselves as a category leader," says Kate Winick, principal analyst at Forrester, covering social media and influencers. "However big this category turns out to be, they will own it - for now."
-The glasses are divisive, and have been labelled by some as "pervert glasses" because they can be used to film covertly. The company has moved to stop users from tampering with the light that indicates a photo or video is being captured. Zuckerberg also just announced new audio-only smart glasses, an apparent bid to quell privacy concerns.
-But the company's most strident critics remain wary.
-"Consumers know that Meta has problems, and that to date we haven't been able to trust them to make their products safe for children. So why would a consumer want to trust them with some of their most private and sensitive information?" says Brooke Istook of the Heat Initiative, a campaign group.
-Privacy versus convenience
-In his speech, Zuckerberg briefly addressed the sensitive issue of privacy. At one point during his talk, an image flashed on the screen behind him of its Muse mascot embracing a blue padlock.
-"Given how personal Muse and the content on your glasses is, we designed state-of-the-art privacy and security into all these systems from the beginning," Zuckerberg told the audience.
-He touted a personal virtual machine, for example - essentially a self-contained computer system running inside Meta's cloud, where it says Muse users' data will be stored. Zuckerberg promised it would keep every customer's information secure, and that soon "even Meta won't be able to see that information". He said the virtual machine will be launched later this year, with further privacy protections coming.
-Meta's focus on privacy and security seems aimed at reassuring consumers. But Winick says users still have to opt into many of those protections. "I think if they thought they could get away with not doing that, they would," she says.
-Not long after Zuckerberg took the stage in California, social media users started reporting cases of Muse running amok, including claims that the agent read emails without permission. Meta has pushed back against these reports, saying it does not believe that Muse accesses emails unless a user has consented.
-In the end, the bulk of users may be willing to make some concessions on privacy if it means convenience and utility, says Moorhead. "If the consumer sees the trade-off as beneficial, then they'll keep it going," he says. "This is why Facebook and Instagram still have billions of users."
-On the financial front, the social media advertising business – its cash cow – routinely brings in significant revenue. Meta reported $60.8bn in revenue and $15.9bn in profit for the second quarter of this year.
-Consistent profits have helped fuel bets from the much-mocked Metaverse, to its current mass expansion of AI infrastructure.
-And on Muse? "It's a very real time-saving benefit that a lot of people will want and will like," says Winick.
-AI investment is not cheap. Meta has now taken on $83.7bn in long-term debt, according to its most recent financial statement.
-Still, Meta executives are bullish about the company's pivot to AI. "It's really about your agent, who can do work on your behalf, who is your constant ally in whatever you're trying to accomplish in your goals in your life," Andrew Bosworth, the company's chief technology officer, said in an interview with the BBC.
-Meta has big plans. But its future may ultimately depend on whether its users can trust it.
-Top image credit: CTMG, Inc./Leah Gallo
-More from InDepth
-Tech billionaires seem to be doom prepping. Should we all be worried?
-- Published10 October 2025
-They were labelled 'pervert glasses'. Will a camera-free version transform their image?
-- Published24 September
-AI 'slop' is transforming social media - and a backlash is brewing
-- Published4 February
-BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
-Get in touch
-Are you personally affected by the issues raised in this story?`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cq8rzjv8g7ejo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-08T23:14:02+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b64/live/f290d3b0-c300-11f1-bc2e-018d645d8d21.jpg",
-    readTime: 10,
-  },
-  {
-    id: "why-are-more-roofs-not-made-of-solar-til-16ff96bd",
-    title: "Why are more roofs not made of solar tiles?",
-    titleJa: "Why are more roofs not made of solar tiles?",
-    summaryJa: "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
-    bodyOriginal: `Why are more roofs not made of solar tiles?
-- Published
-Some people in the US "still hate the look of solar", Kate Collardson acknowledges.
-She would know. Collardson handles operations for the Solar Service of Colorado, a solar maintenance and inspection company. She's also held just about every other job in the industry, from installer to instructor.
-For those that hate the look of solar panels, an alternative is a solar roof, where the tiles (or shingles) house solar cells, but look much the same as regular tiles.
-This is especially important for historic buildings, where heritage rules limit changes to their appearance.
-For many people, the first time they'd heard of this product category was in August, when Tesla's website stopped offering solar roofs, external. This followed disappointing sales and a lawsuit over sudden price hikes, external.
-Other companies have also pulled out, but Tesla's decision in particular sent shockwaves through the solar roof industry.
-Some see it as a death knell for solar tiles; others, as an opportunity.
-For instance, the small Swiss company Freesuns is considering expanding to the US.
-Deborah Learoyd, Freesuns' CEO and managing director, estimates that the company's sales have grown 20–30% since it was established in 2019.
-In general, solar roof components continue to be manufactured in smaller batches. This limits the economies of scale and standardisation, though flexible manufacturing could help somewhat.
-Learoyd says that while the unit costs for Freesuns' products are slowly decreasing, "a lot of the cost is actually the fact that every roof is a little bit different. And so it has to be engineered a little bit differently, installed a little bit differently".
-Solar roofs typically require collaboration among roofers, solar installers and electricians. And building regulations tend to be more complex than for solar panels.
-The additional time and paperwork can take a toll on a roofing business, Collardson explains. "You try to put a roofer into the equation and they're going, 'This is taking forever. I'm losing money. I could have sold 10 roofing jobs in the time that it takes me to sell this one'."
-Collardson has to charge more for repair of solar shingles, compared to a standard photovoltaic (PV) setup.
-She explains, "With traditional solar, we generally have electronics on the panel and a map that shows us exactly how much each panel is producing." So when something goes wrong, it's easy to spot where.
-"With solar shingles, we don't really have the benefit of that mapping; there's no room underneath the shingle for the electronics." Thermal cameras can identify the trouble spots, however.
-But then there's the matter of accessing them. "You can remove the one in the middle of the array, but you have to walk on the others, and you really shouldn't walk on them because you're going to create micro-fractures and that's going to cause issues down the road."
-Before repair costs are factored in, a solar roof might cost twice as much as a system of solar panels mounted on a roof.
-Solar roofs are also less efficient - one reason is that the tiles are just smaller.
-Another factor is the energy lost as heat. Since the tiles sit close to the roof, there's less airflow than with standard solar panels mounted on a roof. Heat impairs solar performance.
-Coloured tiles are even less efficient, comments Ben Graves, co-founder of UK solar company Sunsave. "The reason why all solar cells are black, and increasingly the whole panel is now black, is because black is the best absorbing colour."
-Overall, much more space would need to be devoted to solar roof tiles to produce the same amount of energy.
-Sunsave does not offer solar roofs. "Most people in the UK just don't have enough money to pay for it," Graves believes.
-While appearance was a bigger factor five years ago, now "the vast majority of consumers are most interested in how much they can save".
-But supporters of solar roofs argue that they should not be pitted against standard solar modules on roofs.
-"Let's not compare PV roof tiles to a standard PV system, but look at PV roof tiles as generating additional electricity from our roofs instead of just having the roof sit there," urges Martin Heinrich who leads a research group at the Fraunhofer Institute for Solar Energy Systems in Germany.
-While standard solar panels have gone from strength to strength, solar roofs have not advanced to the same extent.
-One advancement that could especially help solar roofs is matrix shingling technology.
-This is a different way of connecting solar cells. The solar cells are cut into narrow strips, layered like overlapping shingles, and connected to each other using electrically conductive adhesive, rather than metal wires.
-This means that the electrical current can flow around shaded areas, unlike with standard modules. "If you get like a bird pooping on a part of the cell, the current can go around it," Learoyd explains.
-In addition to increasing energy output, this improves the appearance as the silver wires aren't visible.
-Another advantage, Heinrich says, is that "since we cut the cells into smaller areas, we can fill out special sizes more easily. You don't have to adhere to the regular pattern size."
-Freesuns is an early adopter of matrix shingling technology in building-integrated PV. "We see it as a big opportunity for the future in terms of how we would make our tiles," Learoyd says.
-What would also help the company is better software for automated design. This would speed up the design process, since each roofing job is unique.
-Learoyd believes this would lower costs and give "the whole construction industry much more confidence in using the product".
-Ten years after her own solar roof was installed, and despite the sector's setbacks, Learoyd remains optimistic.
-She believes that for people with the means, it will eventually become standard to install a new roof with some sort of embedded solar. "It's just a no-brainer."
-- Published19 August
-- Published12 August
-- Published7 August`,
-    bodyJa: `Why are more roofs not made of solar tiles?
-- Published
-Some people in the US "still hate the look of solar", Kate Collardson acknowledges.
-She would know. Collardson handles operations for the Solar Service of Colorado, a solar maintenance and inspection company. She's also held just about every other job in the industry, from installer to instructor.
-For those that hate the look of solar panels, an alternative is a solar roof, where the tiles (or shingles) house solar cells, but look much the same as regular tiles.
-This is especially important for historic buildings, where heritage rules limit changes to their appearance.
-For many people, the first time they'd heard of this product category was in August, when Tesla's website stopped offering solar roofs, external. This followed disappointing sales and a lawsuit over sudden price hikes, external.
-Other companies have also pulled out, but Tesla's decision in particular sent shockwaves through the solar roof industry.
-Some see it as a death knell for solar tiles; others, as an opportunity.
-For instance, the small Swiss company Freesuns is considering expanding to the US.
-Deborah Learoyd, Freesuns' CEO and managing director, estimates that the company's sales have grown 20–30% since it was established in 2019.
-In general, solar roof components continue to be manufactured in smaller batches. This limits the economies of scale and standardisation, though flexible manufacturing could help somewhat.
-Learoyd says that while the unit costs for Freesuns' products are slowly decreasing, "a lot of the cost is actually the fact that every roof is a little bit different. And so it has to be engineered a little bit differently, installed a little bit differently".
-Solar roofs typically require collaboration among roofers, solar installers and electricians. And building regulations tend to be more complex than for solar panels.
-The additional time and paperwork can take a toll on a roofing business, Collardson explains. "You try to put a roofer into the equation and they're going, 'This is taking forever. I'm losing money. I could have sold 10 roofing jobs in the time that it takes me to sell this one'."
-Collardson has to charge more for repair of solar shingles, compared to a standard photovoltaic (PV) setup.
-She explains, "With traditional solar, we generally have electronics on the panel and a map that shows us exactly how much each panel is producing." So when something goes wrong, it's easy to spot where.
-"With solar shingles, we don't really have the benefit of that mapping; there's no room underneath the shingle for the electronics." Thermal cameras can identify the trouble spots, however.
-But then there's the matter of accessing them. "You can remove the one in the middle of the array, but you have to walk on the others, and you really shouldn't walk on them because you're going to create micro-fractures and that's going to cause issues down the road."
-Before repair costs are factored in, a solar roof might cost twice as much as a system of solar panels mounted on a roof.
-Solar roofs are also less efficient - one reason is that the tiles are just smaller.
-Another factor is the energy lost as heat. Since the tiles sit close to the roof, there's less airflow than with standard solar panels mounted on a roof. Heat impairs solar performance.
-Coloured tiles are even less efficient, comments Ben Graves, co-founder of UK solar company Sunsave. "The reason why all solar cells are black, and increasingly the whole panel is now black, is because black is the best absorbing colour."
-Overall, much more space would need to be devoted to solar roof tiles to produce the same amount of energy.
-Sunsave does not offer solar roofs. "Most people in the UK just don't have enough money to pay for it," Graves believes.
-While appearance was a bigger factor five years ago, now "the vast majority of consumers are most interested in how much they can save".
-But supporters of solar roofs argue that they should not be pitted against standard solar modules on roofs.
-"Let's not compare PV roof tiles to a standard PV system, but look at PV roof tiles as generating additional electricity from our roofs instead of just having the roof sit there," urges Martin Heinrich who leads a research group at the Fraunhofer Institute for Solar Energy Systems in Germany.
-While standard solar panels have gone from strength to strength, solar roofs have not advanced to the same extent.
-One advancement that could especially help solar roofs is matrix shingling technology.
-This is a different way of connecting solar cells. The solar cells are cut into narrow strips, layered like overlapping shingles, and connected to each other using electrically conductive adhesive, rather than metal wires.
-This means that the electrical current can flow around shaded areas, unlike with standard modules. "If you get like a bird pooping on a part of the cell, the current can go around it," Learoyd explains.
-In addition to increasing energy output, this improves the appearance as the silver wires aren't visible.
-Another advantage, Heinrich says, is that "since we cut the cells into smaller areas, we can fill out special sizes more easily. You don't have to adhere to the regular pattern size."
-Freesuns is an early adopter of matrix shingling technology in building-integrated PV. "We see it as a big opportunity for the future in terms of how we would make our tiles," Learoyd says.
-What would also help the company is better software for automated design. This would speed up the design process, since each roofing job is unique.
-Learoyd believes this would lower costs and give "the whole construction industry much more confidence in using the product".
-Ten years after her own solar roof was installed, and despite the sector's setbacks, Learoyd remains optimistic.
-She believes that for people with the means, it will eventually become standard to install a new roof with some sort of embedded solar. "It's just a no-brainer."
-- Published19 August
-- Published12 August
-- Published7 August`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-08T23:09:56+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53f9/live/5f873b90-b0ea-11f1-8d94-cf0ec84c39cd.jpg",
-    readTime: 10,
-  },
-  {
-    id: "add-me-to-whatsapp-scam-calls-to-be-inv-aa5096d7",
-    title: "'Add me to WhatsApp' scam calls to be investigated",
-    titleJa: "'Add me to WhatsApp' scam calls to be investigated",
-    summaryJa: "The UK's data watchdog is investigating a spike in complaints about \"robo calls\" that appear to lead to a recruitment scam.",
-    bodyOriginal: `'Add me to WhatsApp' scam calls to be investigated
-- Published
-The UK's data watchdog is investigating a spike in complaints about "robo calls" - where a recorded voice asks you to add them on WhatsApp - that are suspected to lead to a recruitment scam.
-The Information Commission's Office (ICO) had more than 3,600 complaints about automated calls in September - a five-year high and nearly three times the number it had in July.
-But it suspects millions of people are getting these calls and told BBC Radio 4's You and Yours it was "deeply concerned" by the sharp rise.
-The ICO advises people to ignore calls from numbers they don't recognise, and to block and report any suspicious calls to the watchdog.
-The automated calls typically come from what appears to be a UK mobile number.
-Some of the recorded messages mention an offer of part-time work.
-Simon Fell, from the Communications Crime Strategy Group, a telecoms industry body set up to tackle fraud, said he couldn't be sure exactly what form the scam would take as he hadn't followed up on the messages.
-"Mostly likely it would be a recruitment scam," he said.
-"They would either put you through to a fake job listing, which might involve some form of money muling. It could look like a completely legitimate job, or something ad hoc, but they might pass criminal funds through your account which can lead to terrible consequences.
-"It could also be a simple phishing exercise - criminals send out these messages, and what they really want to know is who's picking up, who's active - that information can be resold on the dark web.
-"The possibilities are endless. At the end of the day this is a criminal that has reached out to you and they're trying to defraud you in some way shape or form."
-'Tip of the iceberg'
-Andy Curry, the ICO's head of criminal investigations, told the BBC he believed the calls were coming from abroad.
-"We are trying to find who is behind this, why they're doing it and the impact it's having on members of the public," he said.
-The number of complaints received by the ICO would only be a small proportion of the totals affected, he said.
-"We think there are probably millions of people who are receiving these messages, which appear to us to be largely indiscriminate.
-"I've had them, my colleague who's leading the investigation has had them. It's likely to be tip of the iceberg."
-'I lost my savings after a job interview scam'
-- Published4 September
-Rise in reports of 'shameful' recruitment scams
-- Published7 May 2025
-Fell said that mobile companies were "working on a range of fronts" to tackle the influx of automated calls.
-This includes sending intelligence reports to the regulator Ofcom, working with law enforcement, and liaising with Meta, which owns WhatsApp, because if someone does follow up on the request to add the number to the encrypted platform, "any dialogue that happens between you and the criminal then can't be investigated any further".
-A WhatsApp spokesman said there were features in place to protect its users from scam calls, including silencing calls from unknown numbers. He also said WhatsApp banned millions of accounts each year for "malicious behaviours", such as bulk account registration or automated messaging.
-Spoofed numbers
-While these calls typically appear to be from a UK mobile number, Fell said these numbers will be imitated, or spoofed, by the criminals behind the scam.
-Last November, the UK government promised, external that call spoofing would be eliminated within a year.
-A Home Office spokesman said the government was taking "robust action" to tackle scams.
-"We remain committed to delivering the Telecommunications Charter, alongside industry, by November," he added.`,
-    bodyJa: `'Add me to WhatsApp' scam calls to be investigated
-- Published
-The UK's data watchdog is investigating a spike in complaints about "robo calls" - where a recorded voice asks you to add them on WhatsApp - that are suspected to lead to a recruitment scam.
-The Information Commission's Office (ICO) had more than 3,600 complaints about automated calls in September - a five-year high and nearly three times the number it had in July.
-But it suspects millions of people are getting these calls and told BBC Radio 4's You and Yours it was "deeply concerned" by the sharp rise.
-The ICO advises people to ignore calls from numbers they don't recognise, and to block and report any suspicious calls to the watchdog.
-The automated calls typically come from what appears to be a UK mobile number.
-Some of the recorded messages mention an offer of part-time work.
-Simon Fell, from the Communications Crime Strategy Group, a telecoms industry body set up to tackle fraud, said he couldn't be sure exactly what form the scam would take as he hadn't followed up on the messages.
-"Mostly likely it would be a recruitment scam," he said.
-"They would either put you through to a fake job listing, which might involve some form of money muling. It could look like a completely legitimate job, or something ad hoc, but they might pass criminal funds through your account which can lead to terrible consequences.
-"It could also be a simple phishing exercise - criminals send out these messages, and what they really want to know is who's picking up, who's active - that information can be resold on the dark web.
-"The possibilities are endless. At the end of the day this is a criminal that has reached out to you and they're trying to defraud you in some way shape or form."
-'Tip of the iceberg'
-Andy Curry, the ICO's head of criminal investigations, told the BBC he believed the calls were coming from abroad.
-"We are trying to find who is behind this, why they're doing it and the impact it's having on members of the public," he said.
-The number of complaints received by the ICO would only be a small proportion of the totals affected, he said.
-"We think there are probably millions of people who are receiving these messages, which appear to us to be largely indiscriminate.
-"I've had them, my colleague who's leading the investigation has had them. It's likely to be tip of the iceberg."
-'I lost my savings after a job interview scam'
-- Published4 September
-Rise in reports of 'shameful' recruitment scams
-- Published7 May 2025
-Fell said that mobile companies were "working on a range of fronts" to tackle the influx of automated calls.
-This includes sending intelligence reports to the regulator Ofcom, working with law enforcement, and liaising with Meta, which owns WhatsApp, because if someone does follow up on the request to add the number to the encrypted platform, "any dialogue that happens between you and the criminal then can't be investigated any further".
-A WhatsApp spokesman said there were features in place to protect its users from scam calls, including silencing calls from unknown numbers. He also said WhatsApp banned millions of accounts each year for "malicious behaviours", such as bulk account registration or automated messaging.
-Spoofed numbers
-While these calls typically appear to be from a UK mobile number, Fell said these numbers will be imitated, or spoofed, by the criminals behind the scam.
-Last November, the UK government promised, external that call spoofing would be eliminated within a year.
-A Home Office spokesman said the government was taking "robust action" to tackle scams.
-"We remain committed to delivering the Telecommunications Charter, alongside industry, by November," he added.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqd09g4l2k9yo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-08T23:05:09+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c7c/live/774c4850-c31a-11f1-bd97-fbe5a3482cde.jpg",
-    readTime: 9,
-  },
-  {
-    id: "i-don-t-know-what-my-partner-earns-how-0fa55876",
-    title: "'I don't know what my partner earns': How soon into dating should you reveal your salary?",
-    titleJa: "'I don't know what my partner earns': How soon into dating should you reveal your salary?",
-    summaryJa: "Talking about salary, spending habits and debt can be some of dating's trickier conversations.",
-    bodyOriginal: `'I don't know what my partner earns': How soon into dating should you reveal your salary?
-- Published
-You know their favourite restaurant, what happened with their ex and their most embarrassing childhood story. But do you know how much your partner earns?
-Money remains one of dating's trickier conversations. Bring it up too early and it can sound like you're sizing up their bank balance. But leave it too long and you could be planning a future with someone without knowing much about their finances at all.
-We spoke to 20-somethings in New York City to see if there was a sweet spot for when to talk salaries.
-Willa Morton, 25, says she doesn't think couples necessarily need to reveal their salaries at all.
-"It's just a number and you can gauge how much someone makes based on the way they live and how much they spend," she says.
-Willa, who works in tech sales, has talked to her boyfriend about not earning very much herself but hasn't asked him for a figure in return.
-He's a company founder and, though his income varies, she knows that he earns more than she does.
-"He's more free-spending whereas I'm always saying, 'That's too expensive, that costs too much, we don't need to spend that.'"
-Their dates typically cost around $200 (£150) and he usually pays, while she picks up smaller bills such as coffees.
-"It's an unspoken rule that he will pick up the bigger bills."
-For many, there's a fairly clear dividing line as to when you talk about salary, spending habits and debt and that's when you become an official couple.
-Alexa Ludato, 25, who works in insurance, says she'd only have the conversation when she was official with someone.
-Before then, she would "like to have an idea of what their job is, but not how much they make".
-Her friend, Vik Sunderaj, 22, agrees. "You should only discuss it once you get into a serious relationship."
-He thinks a salary question on the first few dates is "a little crazy".
-"If they asked, I would be honest, but I wouldn't bring it up," he says. And if his date really wanted to know his salary, "it probably means they wouldn't be the right person for me".
-'Asking my salary is a red flag'
-Others feel even more strongly about being asked too soon. Twenty-six-year-old Bridget Shurdut, who works in sales, says she would find it "incredibly odd" if someone asked about her salary within the first few dates.
-"I don't think I'd continue to see that person. I'd answer the question, but it would be a red flag for me."
-For her, someone's current salary isn't necessarily particularly useful information anyway as she says she's much more interested in "whether someone is ambitious and driven than what they earn monetarily".
-Dating and relationship coach Kate Mansfield, says money conversations "should start much earlier than many people think".
-"In the first few dates you should talk about how each of you approaches spending, saving, generosity, lifestyle and financial independence as these things shape compatibility."
-Becoming official doesn't necessarily mean swapping payslips though.
-Insurance worker Emily Moretta, 26, has been with her boyfriend for two years and says they still haven't explicitly told each other their salaries and "he doesn't know how much I make".
-She assumes he probably has a rough idea, but says neither has ever felt the need to ask.
-"Maybe down the line we would, when it gets more serious," she says, adding that they would have to be at the stage of moving in together before talking about it.
-Related topics
-- Published11 September`,
-    bodyJa: `'I don't know what my partner earns': How soon into dating should you reveal your salary?
-- Published
-You know their favourite restaurant, what happened with their ex and their most embarrassing childhood story. But do you know how much your partner earns?
-Money remains one of dating's trickier conversations. Bring it up too early and it can sound like you're sizing up their bank balance. But leave it too long and you could be planning a future with someone without knowing much about their finances at all.
-We spoke to 20-somethings in New York City to see if there was a sweet spot for when to talk salaries.
-Willa Morton, 25, says she doesn't think couples necessarily need to reveal their salaries at all.
-"It's just a number and you can gauge how much someone makes based on the way they live and how much they spend," she says.
-Willa, who works in tech sales, has talked to her boyfriend about not earning very much herself but hasn't asked him for a figure in return.
-He's a company founder and, though his income varies, she knows that he earns more than she does.
-"He's more free-spending whereas I'm always saying, 'That's too expensive, that costs too much, we don't need to spend that.'"
-Their dates typically cost around $200 (£150) and he usually pays, while she picks up smaller bills such as coffees.
-"It's an unspoken rule that he will pick up the bigger bills."
-For many, there's a fairly clear dividing line as to when you talk about salary, spending habits and debt and that's when you become an official couple.
-Alexa Ludato, 25, who works in insurance, says she'd only have the conversation when she was official with someone.
-Before then, she would "like to have an idea of what their job is, but not how much they make".
-Her friend, Vik Sunderaj, 22, agrees. "You should only discuss it once you get into a serious relationship."
-He thinks a salary question on the first few dates is "a little crazy".
-"If they asked, I would be honest, but I wouldn't bring it up," he says. And if his date really wanted to know his salary, "it probably means they wouldn't be the right person for me".
-'Asking my salary is a red flag'
-Others feel even more strongly about being asked too soon. Twenty-six-year-old Bridget Shurdut, who works in sales, says she would find it "incredibly odd" if someone asked about her salary within the first few dates.
-"I don't think I'd continue to see that person. I'd answer the question, but it would be a red flag for me."
-For her, someone's current salary isn't necessarily particularly useful information anyway as she says she's much more interested in "whether someone is ambitious and driven than what they earn monetarily".
-Dating and relationship coach Kate Mansfield, says money conversations "should start much earlier than many people think".
-"In the first few dates you should talk about how each of you approaches spending, saving, generosity, lifestyle and financial independence as these things shape compatibility."
-Becoming official doesn't necessarily mean swapping payslips though.
-Insurance worker Emily Moretta, 26, has been with her boyfriend for two years and says they still haven't explicitly told each other their salaries and "he doesn't know how much I make".
-She assumes he probably has a rough idea, but says neither has ever felt the need to ask.
-"Maybe down the line we would, when it gets more serious," she says, adding that they would have to be at the stage of moving in together before talking about it.
-Related topics
-- Published11 September`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c8wyz69r0nnpo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-08T23:01:16+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bc3/live/94309dd0-b36c-11f1-b1d1-571ed4d7ff2c.png",
-    readTime: 9,
   },
 ];
 
