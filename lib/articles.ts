@@ -15,6 +15,296 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "trump-s-diesel-agreement-with-putin-accu-870edfbc",
+    title: "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
+    titleJa: "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
+    summaryJa: "Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
+    bodyOriginal: `President Donald Trump's Friday announcement that Russia will supply diesel fuel to the global market marked an apparent pivot from recent efforts to pressure Moscow to end the Ukraine war by targeting Russian energy exports.
+Trump claimed the move, unveiled with less than a month left in an affordability-focused midterm election, would swiftly bring down record-high diesel prices.
+But commentators and critics were quick to highlight contradictions between the new policy and prior efforts by the U.S. to clamp down on Russian oil sales.
+Those efforts most recently included the enactment of the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, empowering Trump to impose tariffs up to 100% on the top purchasers of Russian crude oil or gas, among other restrictions. Trump signed the bill into law just three weeks ago.
+"Congress just passed a law giving Trump the power to impose new tariffs on major buyers of Russian oil & gas," Scott Lincicome, vice president of the libertarian Cato Institute, said on X after Trump's Friday announcement.
+"Can America tariff America?" he quipped.
+Sen. Richard Blumenthal, D-Conn., a member of the Senate Ukraine Caucus, accused Trump's latest move of being "directly contrary to Congress's intent in our bipartisan sanctions bill."
+Peter Harrell, visiting scholar at Georgetown University Law Center's Institute of International Economic Law, in an X post said that the relaxation of Russian diesel restrictions "pretty much proves the point that the Graham Russia Bill was not going to force the Trump Administration to increase economic pressure on Moscow."
+Some of the criticism crossed party lines.
+"Through the Lindsey O. Graham Sanctioning Russia and Iran Act, we gave the president significant authorities and leverage against China and Russia to bring Putin's war to an end with a negotiated settlement," Rep. Michael McCaul, R-Texas, said in an X post. "Unfortunately, while I understand the desire to bring down diesel prices, I am concerned the lifting of sanctions on Russian oil will only fund the Kremlin's war machine—emboldening more violence and destruction, as we have seen in recent days," McCaul said.
+The White House did not immediately respond to CNBC's questions about the diesel agreement with Russia.
+Less than a year earlier, the Trump administration slapped sanctions on multiple Russian oil companies in response to what it called "Russia's lack of serious commitment to a peace process to end the war in Ukraine."
+Trump also had previously slammed NATO allies for continuing to buy Russian oil. In a September 2025 Truth Social post, he wrote, "the purchase of Russian Oil, by some, has been shocking! It greatly weakens your negotiating position, and bargaining power, over Russia."
+Later that month, Trump again harangued world leaders for doing business with Russia.
+"They're funding the war against themselves. Who the hell ever heard of that one?" he said in a speech at the United Nations General Assembly. "They can't be doing what they're doing. They're buying oil and gas from Russia while they're fighting Russia."
+Trump announced the diesel deal in a Truth Social post Friday afternoon after what he described as a "highly successful discussion" with Russian President Vladimir Putin.
+Under the agreement, Russia will immediately supply more than 300,000 tons of diesel, then another 500,000 tons in November, followed by 1 million tons "immediately thereafter" and 3 million more depending on refinery conditions, Trump wrote.
+The Treasury Department soon after said that Trump directed the Office of Foreign Assets Control to immediately issue a "temporary general license to allow the supply of Russian diesel to the global market." OFAC specified that the sanctioned transactions will be authorized for about six months, until April 7.
+Russia seemed to celebrate the move. "Russia-US cooperation on diesel and energy will benefit the world," an X account associated with Putin's economic envoy Kirill Dmitriev said in response to the announcement.
+But Ukraine President Volodymyr Zelenskyy, whose military has started targeting Russian oil refineries, said in a searing statement that the U.S. easing sanctions on Moscow "plays into Russia's hands."
+"Any easing of sanctions against Russia without a clear and lasting de-escalation agreement with Russia is an obvious weakness," Zelenskyy said. "Allowing Russia to sell petroleum products is an investment in a war that must be ended, not prolonged."
+"We count on America's fair support for our defense of life, for our defense of people in Ukraine – and on the United States having a correspondingly strong conversation with Russia," he said.
+"A strong one, not a weak one," he added.
+Trump thanked Putin later Friday afternoon for enabling "massive amounts of oil" to come to the U.S.
+"We need oil for the world, and this is diesel, which is what we need, so we're very happy to get it," Trump told reporters before heading to Syracuse, New York.
+The Trump administration has previously eased some Russian energy sanctions temporarily, though more narrowly than Friday's announcement.
+Earlier this year, in an attempt to stabilize markets after the start of the Iran war, the Trump administration issued limited, 30-day waivers allowing countries to buy sanctioned Russian oil that was already in transit.
+But some interpreted the latest move as a more significant step.
+"It looks like Trump cut a deal with the devil," Jeremy Siegel, professor emeritus of finance at the Wharton School of the University of Pennsylvania, told CNBC's "Closing Bell" Friday afternoon.
+"It's not a permanent solution at all. It's sort of a short-term Band Aid," Siegel said. "And cutting back on or eliminating sanctions on Russia for the invasion in Ukraine, I think, is a very unfortunate consequence."`,
+    bodyJa: `President Donald Trump's Friday announcement that Russia will supply diesel fuel to the global market marked an apparent pivot from recent efforts to pressure Moscow to end the Ukraine war by targeting Russian energy exports.
+Trump claimed the move, unveiled with less than a month left in an affordability-focused midterm election, would swiftly bring down record-high diesel prices.
+But commentators and critics were quick to highlight contradictions between the new policy and prior efforts by the U.S. to clamp down on Russian oil sales.
+Those efforts most recently included the enactment of the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, empowering Trump to impose tariffs up to 100% on the top purchasers of Russian crude oil or gas, among other restrictions. Trump signed the bill into law just three weeks ago.
+"Congress just passed a law giving Trump the power to impose new tariffs on major buyers of Russian oil & gas," Scott Lincicome, vice president of the libertarian Cato Institute, said on X after Trump's Friday announcement.
+"Can America tariff America?" he quipped.
+Sen. Richard Blumenthal, D-Conn., a member of the Senate Ukraine Caucus, accused Trump's latest move of being "directly contrary to Congress's intent in our bipartisan sanctions bill."
+Peter Harrell, visiting scholar at Georgetown University Law Center's Institute of International Economic Law, in an X post said that the relaxation of Russian diesel restrictions "pretty much proves the point that the Graham Russia Bill was not going to force the Trump Administration to increase economic pressure on Moscow."
+Some of the criticism crossed party lines.
+"Through the Lindsey O. Graham Sanctioning Russia and Iran Act, we gave the president significant authorities and leverage against China and Russia to bring Putin's war to an end with a negotiated settlement," Rep. Michael McCaul, R-Texas, said in an X post. "Unfortunately, while I understand the desire to bring down diesel prices, I am concerned the lifting of sanctions on Russian oil will only fund the Kremlin's war machine—emboldening more violence and destruction, as we have seen in recent days," McCaul said.
+The White House did not immediately respond to CNBC's questions about the diesel agreement with Russia.
+Less than a year earlier, the Trump administration slapped sanctions on multiple Russian oil companies in response to what it called "Russia's lack of serious commitment to a peace process to end the war in Ukraine."
+Trump also had previously slammed NATO allies for continuing to buy Russian oil. In a September 2025 Truth Social post, he wrote, "the purchase of Russian Oil, by some, has been shocking! It greatly weakens your negotiating position, and bargaining power, over Russia."
+Later that month, Trump again harangued world leaders for doing business with Russia.
+"They're funding the war against themselves. Who the hell ever heard of that one?" he said in a speech at the United Nations General Assembly. "They can't be doing what they're doing. They're buying oil and gas from Russia while they're fighting Russia."
+Trump announced the diesel deal in a Truth Social post Friday afternoon after what he described as a "highly successful discussion" with Russian President Vladimir Putin.
+Under the agreement, Russia will immediately supply more than 300,000 tons of diesel, then another 500,000 tons in November, followed by 1 million tons "immediately thereafter" and 3 million more depending on refinery conditions, Trump wrote.
+The Treasury Department soon after said that Trump directed the Office of Foreign Assets Control to immediately issue a "temporary general license to allow the supply of Russian diesel to the global market." OFAC specified that the sanctioned transactions will be authorized for about six months, until April 7.
+Russia seemed to celebrate the move. "Russia-US cooperation on diesel and energy will benefit the world," an X account associated with Putin's economic envoy Kirill Dmitriev said in response to the announcement.
+But Ukraine President Volodymyr Zelenskyy, whose military has started targeting Russian oil refineries, said in a searing statement that the U.S. easing sanctions on Moscow "plays into Russia's hands."
+"Any easing of sanctions against Russia without a clear and lasting de-escalation agreement with Russia is an obvious weakness," Zelenskyy said. "Allowing Russia to sell petroleum products is an investment in a war that must be ended, not prolonged."
+"We count on America's fair support for our defense of life, for our defense of people in Ukraine – and on the United States having a correspondingly strong conversation with Russia," he said.
+"A strong one, not a weak one," he added.
+Trump thanked Putin later Friday afternoon for enabling "massive amounts of oil" to come to the U.S.
+"We need oil for the world, and this is diesel, which is what we need, so we're very happy to get it," Trump told reporters before heading to Syracuse, New York.
+The Trump administration has previously eased some Russian energy sanctions temporarily, though more narrowly than Friday's announcement.
+Earlier this year, in an attempt to stabilize markets after the start of the Iran war, the Trump administration issued limited, 30-day waivers allowing countries to buy sanctioned Russian oil that was already in transit.
+But some interpreted the latest move as a more significant step.
+"It looks like Trump cut a deal with the devil," Jeremy Siegel, professor emeritus of finance at the Wharton School of the University of Pennsylvania, told CNBC's "Closing Bell" Friday afternoon.
+"It's not a permanent solution at all. It's sort of a short-term Band Aid," Siegel said. "And cutting back on or eliminating sanctions on Russia for the invasion in Ukraine, I think, is a very unfortunate consequence."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
+    publishedAt: "2026-10-10T02:09:00+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "i-have-no-children-my-aunt-gave-me-50-0-f24353bc",
+    title: "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+    titleJa: "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
+    summaryJa: "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
+    bodyOriginal: `“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”`,
+    bodyJa: `“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
+    publishedAt: "2026-10-10T00:15:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-91758975",
+    readTime: 2,
+  },
+  {
+    id: "boots-has-a-new-owner-three-ways-it-coul-76b928e4",
+    title: "Boots has a new owner: Three ways it could affect you",
+    titleJa: "Boots has a new owner: Three ways it could affect you",
+    summaryJa: "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?",
+    bodyOriginal: `Boots has a new owner: Three ways it could affect you
+- Published
+If you have been looking to buy a health or beauty product, the chances are you will have shopped at a Boots somewhere in the UK.
+The pharmacy and retailer is a stalwart of Britain's high streets, where it has served generations of customers for decades.
+But now it is set to enter its 178th year under new ownership after an £7bn deal was agreed this week - here's three ways it could affect your shopping experience.
+Revamped shops
+Upgrading its portfolio of 1,800 stores is high on the list of Boots' new owners, Wittington Investments. This is the holding company of the Westons - a wealthy and retail-steeped Canadian family who used to own Selfridges and currently own several large retailers across the Atlantic.
+The UK branch of the family also controls the owner of Primark, Associated British Foods (ABF).
+What Boots stores might look like in the future has not been disclosed.
+Business has been good for Boots in recent years, and new-look beauty areas in some of its bigger shops have given shoppers more of a department store experience, according to Sofie Willmott, an associate director and analyst at GlobalData Retail.
+Since the opening of its first beauty-only store in 2023 in the Battersea Power Station development, it says it has redesigned over 180 beauty halls, while also opening its first fragrance concept store and an Opticians dedicated to luxury eyewear.
+"They should invest in the rest of the chain because they've got such a big store portfolio that I think some of the smaller stores have really lacked investment over time, and I think that is something that they need to kind of catch up with," Willmott says.
+A more "consistent" look would also be an improvement, Willmott adds. "At the moment there is a bit of a disconnect."
+Jackie Naghten, a retail industry veteran who has worked for the likes of Top Shop, Marks & Spencer and Debenhams, thinks Boots' stores need to be made "more functional" by not having their health hubs "squeezed in the corner".
+But Yasmin Trimble, 22, who buys beauty products from Boots, likes how the easy stores are to navigate.
+"You can get everything you need...it is not confusing. It has got a cleaner aesthetic to it as well."
+Advantage card an 'asset to double down on'
+Boots was an early adopter of the loyalty cards commonly offered today by companies offering points and discounts to customers who sign up.
+Its Advantage card, launched in 1997, is unlikely to go away and remains popular.
+Naghten doesn't think they would get rid of it. "It's the best-value store card in terms of bang for your buck."
+The card offers shoppers three points for every pound they spend. Each point is worth 1p.
+Katie Burrows, 23, is a fan of building up the points to get money off.
+She mainly shops at Boots for skincare, first aid and medicine, but thinks prices for its sanitary products are "ridiculously expensive" - something her friend Yasmin agrees with.
+Lewis Harrison believes the loyalty card is also good value, but finds it "frustrating how the rewards points only cover a full transaction".
+"I wish you could use your points for a partial transaction like you can in Holland and Barrett," the 25-year-old says. "It would be good to use the points towards more expensive transactions."
+Natalie Berg, retail expert and founder of consultancy NBK Retail, suggests the Advantage card gives Boots "a unique understanding of their customers" and is an asset the new owners "will want to double down on".
+"As AI and social media change how people discover and buy products, that direct relationship with customers will only become more important."
+Expanding healthcare services
+The new owners have already signalled they plan to expand Boots' healthcare service, a booming industry at the moment.
+The retailer started out as an apothecary, so health is in its roots. Today, it offers a wide range of health and wellbeing services as well as prescriptions and vaccinations through its in-store pharmacies.
+It also announced earlier this summer it was expanding services for weight loss drugs, which have surged in popularity.
+Naghten points out that the Weston family's purchase of Boots comes at a time when pharmacies are increasingly going to prescribe more medications and health services, in a bid to ease pressure on GP surgeries and hospitals.
+"They didn't buy this thing for no reason. They have got the blueprint," she says.
+While health will remain a core part of its business, Boots has other strengths, Naghten adds, in its No7 make-up and skincare products.
+"When you have all these people coming in for health and wellbeing services, they will also be picking up a lipstick," she says.
+Willmott suggests Boots has an "edge" over its rivals on the health side, given its reputation as an expert.
+But the company is facing tough competition, which Boots acknowledged affected revenues in its latest financial results.
+Shoppers, particularly younger ones, are increasingly seeking products online through influencer ads rather than heading to brick-and-mortar shops.
+There are also other big players, such as Superdrug. And M&S this week announced a new partnership with Sephora, saying it would replace a hundred of its own beauty departments with the brand next year.
+For 18-year-old Schekina Bourne, Boots is not a "go-to shop" for her. "Even though I can go to Boots even in my area....Superdrug is like closest to me. So, I'll prefer the convenience," she says.
+Additional reporting by Ben Sturt and Anuk Weerawardana
+Related topics
+- Published2 days ago`,
+    bodyJa: `Boots has a new owner: Three ways it could affect you
+- Published
+If you have been looking to buy a health or beauty product, the chances are you will have shopped at a Boots somewhere in the UK.
+The pharmacy and retailer is a stalwart of Britain's high streets, where it has served generations of customers for decades.
+But now it is set to enter its 178th year under new ownership after an £7bn deal was agreed this week - here's three ways it could affect your shopping experience.
+Revamped shops
+Upgrading its portfolio of 1,800 stores is high on the list of Boots' new owners, Wittington Investments. This is the holding company of the Westons - a wealthy and retail-steeped Canadian family who used to own Selfridges and currently own several large retailers across the Atlantic.
+The UK branch of the family also controls the owner of Primark, Associated British Foods (ABF).
+What Boots stores might look like in the future has not been disclosed.
+Business has been good for Boots in recent years, and new-look beauty areas in some of its bigger shops have given shoppers more of a department store experience, according to Sofie Willmott, an associate director and analyst at GlobalData Retail.
+Since the opening of its first beauty-only store in 2023 in the Battersea Power Station development, it says it has redesigned over 180 beauty halls, while also opening its first fragrance concept store and an Opticians dedicated to luxury eyewear.
+"They should invest in the rest of the chain because they've got such a big store portfolio that I think some of the smaller stores have really lacked investment over time, and I think that is something that they need to kind of catch up with," Willmott says.
+A more "consistent" look would also be an improvement, Willmott adds. "At the moment there is a bit of a disconnect."
+Jackie Naghten, a retail industry veteran who has worked for the likes of Top Shop, Marks & Spencer and Debenhams, thinks Boots' stores need to be made "more functional" by not having their health hubs "squeezed in the corner".
+But Yasmin Trimble, 22, who buys beauty products from Boots, likes how the easy stores are to navigate.
+"You can get everything you need...it is not confusing. It has got a cleaner aesthetic to it as well."
+Advantage card an 'asset to double down on'
+Boots was an early adopter of the loyalty cards commonly offered today by companies offering points and discounts to customers who sign up.
+Its Advantage card, launched in 1997, is unlikely to go away and remains popular.
+Naghten doesn't think they would get rid of it. "It's the best-value store card in terms of bang for your buck."
+The card offers shoppers three points for every pound they spend. Each point is worth 1p.
+Katie Burrows, 23, is a fan of building up the points to get money off.
+She mainly shops at Boots for skincare, first aid and medicine, but thinks prices for its sanitary products are "ridiculously expensive" - something her friend Yasmin agrees with.
+Lewis Harrison believes the loyalty card is also good value, but finds it "frustrating how the rewards points only cover a full transaction".
+"I wish you could use your points for a partial transaction like you can in Holland and Barrett," the 25-year-old says. "It would be good to use the points towards more expensive transactions."
+Natalie Berg, retail expert and founder of consultancy NBK Retail, suggests the Advantage card gives Boots "a unique understanding of their customers" and is an asset the new owners "will want to double down on".
+"As AI and social media change how people discover and buy products, that direct relationship with customers will only become more important."
+Expanding healthcare services
+The new owners have already signalled they plan to expand Boots' healthcare service, a booming industry at the moment.
+The retailer started out as an apothecary, so health is in its roots. Today, it offers a wide range of health and wellbeing services as well as prescriptions and vaccinations through its in-store pharmacies.
+It also announced earlier this summer it was expanding services for weight loss drugs, which have surged in popularity.
+Naghten points out that the Weston family's purchase of Boots comes at a time when pharmacies are increasingly going to prescribe more medications and health services, in a bid to ease pressure on GP surgeries and hospitals.
+"They didn't buy this thing for no reason. They have got the blueprint," she says.
+While health will remain a core part of its business, Boots has other strengths, Naghten adds, in its No7 make-up and skincare products.
+"When you have all these people coming in for health and wellbeing services, they will also be picking up a lipstick," she says.
+Willmott suggests Boots has an "edge" over its rivals on the health side, given its reputation as an expert.
+But the company is facing tough competition, which Boots acknowledged affected revenues in its latest financial results.
+Shoppers, particularly younger ones, are increasingly seeking products online through influencer ads rather than heading to brick-and-mortar shops.
+There are also other big players, such as Superdrug. And M&S this week announced a new partnership with Sephora, saying it would replace a hundred of its own beauty departments with the brand next year.
+For 18-year-old Schekina Bourne, Boots is not a "go-to shop" for her. "Even though I can go to Boots even in my area....Superdrug is like closest to me. So, I'll prefer the convenience," she says.
+Additional reporting by Ben Sturt and Anuk Weerawardana
+Related topics
+- Published2 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-09T23:01:14+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31cf/live/7e917260-c32a-11f1-9981-cf94ea240e40.jpg",
+    readTime: 10,
+  },
+  {
+    id: "how-to-provide-guaranteed-retirement-inc-627a7110",
+    title: "How to provide guaranteed retirement income while paying no commissions",
+    titleJa: "How to provide guaranteed retirement income while paying no commissions",
+    summaryJa: "Unlike the stock market, whose future returns are anything but assured, a TIPS ladder’s payout is guaranteed.",
+    bodyOriginal: `Unlike the stock market, whose future returns are anything but assured, a TIPS ladder’s payout is guaranteed.`,
+    bodyJa: `Unlike the stock market, whose future returns are anything but assured, a TIPS ladder’s payout is guaranteed.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories",
+    publishedAt: "2026-10-09T22:41:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-27152625",
+    readTime: 2,
+  },
+  {
+    id: "analysis-trump-s-shock-russia-deal-highl-890b99dd",
+    title: "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+    titleJa: "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+    summaryJa: "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+    bodyOriginal: `Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices
+- Published
+Donald Trump's decision to import Russian fuel to the US represents a remarkable about-face from the president.
+Just three weeks ago, Trump signed legislation to authorise fresh American sanctions and tariffs on nations that import Russian oil and gas.
+Now, Trump says, Russian President Vladimir Putin has agreed to supply hundreds of thousands of tons of diesel fuel to the US and world markets in the coming months.
+The deal comes as Trump is still grappling with the political fallout of the Iran war and its impact on global energy prices, weeks before American voters head to the polls in the midterm elections.
+As the cost of fuel has skyrocketed in America, his standing with the public – stung by the higher prices at the pump and knock-on effects that led to across-the board inflation – has soured.
+The toll the war is taking has been acutely felt by US agricultural states, which rely heavily on diesel to operate farming machinery and to transport their products to market.
+It is these states – places like Iowa, Kansas, Texas and Ohio – that have become unexpected political battlegrounds in the upcoming elections that will determine if Republicans maintain control of Congress.
+Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
+- Published55 minutes ago
+What are the US midterms? A simple guide
+- Published4 days ago
+For months, the American president has been searching for ways to ease his party's political pain.
+He recently pressured European allies to further tap their oil reserves. He deferred federal taxes on the fuel and authorised supplies designated for farm use to be used in interstate trucking.
+He has also promised that he would not renew attacks on Iran until after the midterms – an unusually frank acknowledgement of the political impact the ongoing conflict is having.
+His decision to strike a deal with Russia's Putin is only the latest, most dramatic effort.
+Trump's Truth Social posts often provide incomplete information, of course. The details of exactly how Russia is supplying this fuel to the global market, and what they might get for in return – besides much-needed hard currency – is unclear.
+It opens Trump to criticism from European allies and American politicians that his administration is now helping to fund the Russian war machine.
+Ukrainian President Volodymyr Zelensky called the deal a "gift" to Putin that Russia would "repay" with "terror and perfidy".
+"Allowing Russia to sell petroleum products is an investment in a war that must be ended, not prolonged," he wrote on X.
+It is also uncertain exactly how much Trump's move will help Republicans at the ballot box.
+The promised European diesel release hasn't moved energy prices significantly, and there's no information on the speed with which Russian fuel could enter the market.
+Its diesel refinery capacity has been damaged by repeated Ukrainian strikes – attacks that Trump has encouraged Zelensky to curtail.
+The US uses approximately 3.6 million barrels of diesel a day, so even if Russia delivers its promised 300,000 tons this month, that amounts to approximately half of the US daily consumption.
+Americans may not notice much of an immediate difference.
+With less than a month before November's midterm elections, early voting has already started in many states. The political cake, as the saying goes, is all but baked.
+"Lower prices for Americans, especially our Great Farmers, Ranchers, and Truckers, is my Greatest Priority," Trump wrote in his Truth Social post.
+But over the past seven months, prices on energy, fuel and consumer goods have only gone up - even as Trump and his officials have repeatedly assured an uneasy public a successful resolution to the war, and an easing of its economic impact, is nearly at hand.
+Trump may be left hoping that his latest deal, setting aside its potentially uncomfortable diplomatic issues, will be enough to convince American voters that his promise of impending economic relief is more than just empty words.
+- Published10 hours ago
+- Published2 days ago
+- Published7 days ago`,
+    bodyJa: `Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices
+- Published
+Donald Trump's decision to import Russian fuel to the US represents a remarkable about-face from the president.
+Just three weeks ago, Trump signed legislation to authorise fresh American sanctions and tariffs on nations that import Russian oil and gas.
+Now, Trump says, Russian President Vladimir Putin has agreed to supply hundreds of thousands of tons of diesel fuel to the US and world markets in the coming months.
+The deal comes as Trump is still grappling with the political fallout of the Iran war and its impact on global energy prices, weeks before American voters head to the polls in the midterm elections.
+As the cost of fuel has skyrocketed in America, his standing with the public – stung by the higher prices at the pump and knock-on effects that led to across-the board inflation – has soured.
+The toll the war is taking has been acutely felt by US agricultural states, which rely heavily on diesel to operate farming machinery and to transport their products to market.
+It is these states – places like Iowa, Kansas, Texas and Ohio – that have become unexpected political battlegrounds in the upcoming elections that will determine if Republicans maintain control of Congress.
+Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
+- Published55 minutes ago
+What are the US midterms? A simple guide
+- Published4 days ago
+For months, the American president has been searching for ways to ease his party's political pain.
+He recently pressured European allies to further tap their oil reserves. He deferred federal taxes on the fuel and authorised supplies designated for farm use to be used in interstate trucking.
+He has also promised that he would not renew attacks on Iran until after the midterms – an unusually frank acknowledgement of the political impact the ongoing conflict is having.
+His decision to strike a deal with Russia's Putin is only the latest, most dramatic effort.
+Trump's Truth Social posts often provide incomplete information, of course. The details of exactly how Russia is supplying this fuel to the global market, and what they might get for in return – besides much-needed hard currency – is unclear.
+It opens Trump to criticism from European allies and American politicians that his administration is now helping to fund the Russian war machine.
+Ukrainian President Volodymyr Zelensky called the deal a "gift" to Putin that Russia would "repay" with "terror and perfidy".
+"Allowing Russia to sell petroleum products is an investment in a war that must be ended, not prolonged," he wrote on X.
+It is also uncertain exactly how much Trump's move will help Republicans at the ballot box.
+The promised European diesel release hasn't moved energy prices significantly, and there's no information on the speed with which Russian fuel could enter the market.
+Its diesel refinery capacity has been damaged by repeated Ukrainian strikes – attacks that Trump has encouraged Zelensky to curtail.
+The US uses approximately 3.6 million barrels of diesel a day, so even if Russia delivers its promised 300,000 tons this month, that amounts to approximately half of the US daily consumption.
+Americans may not notice much of an immediate difference.
+With less than a month before November's midterm elections, early voting has already started in many states. The political cake, as the saying goes, is all but baked.
+"Lower prices for Americans, especially our Great Farmers, Ranchers, and Truckers, is my Greatest Priority," Trump wrote in his Truth Social post.
+But over the past seven months, prices on energy, fuel and consumer goods have only gone up - even as Trump and his officials have repeatedly assured an uneasy public a successful resolution to the war, and an easing of its economic impact, is nearly at hand.
+Trump may be left hoping that his latest deal, setting aside its potentially uncomfortable diplomatic issues, will be enough to convince American voters that his promise of impending economic relief is more than just empty words.
+- Published10 hours ago
+- Published2 days ago
+- Published7 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-09T22:30:22+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9075/live/94a528a0-c422-11f1-9462-0fb8e72a616b.jpg",
+    readTime: 10,
+  },
+  {
+    id: "trump-taps-russia-to-boost-global-diesel-cbf56585",
+    title: "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
+    titleJa: "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
+    summaryJa: "The Trump administration has enlisted Russia to help boost U.S. and global diesel supplies in an effort to lower prices for the fuel ahead of the U.S. midterm elections in November.",
+    bodyOriginal: `The Trump administration has enlisted Russia to help boost U.S. and global diesel supplies in an effort to lower prices for the fuel ahead of the U.S. midterm elections in November.`,
+    bodyJa: `The Trump administration has enlisted Russia to help boost U.S. and global diesel supplies in an effort to lower prices for the fuel ahead of the U.S. midterm elections in November.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
+    publishedAt: "2026-10-09T22:00:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-710971",
+    readTime: 2,
+  },
+  {
     id: "trump-announces-deal-for-russian-diesel-ccd45bdc",
     title: "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
     titleJa: "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
@@ -89,6 +379,20 @@ Trump has also successfully pressured G7 nations into releasing 100 million barr
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61b/live/93d8fbd0-c41e-11f1-a175-8928617a734f.jpg",
     readTime: 10,
+  },
+  {
+    id: "is-iphone-18-demand-cooling-off-here-s-h-51f98eb1",
+    title: "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
+    titleJa: "Is iPhone 18 demand cooling off? Here’s how deep Apple reportedly is cutting component orders.",
+    summaryJa: "Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 15% in October, according to Nikkei Asia.",
+    bodyOriginal: `Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 15% in October, according to Nikkei Asia.`,
+    bodyJa: `Component orders for the iPhone 18 Pro and the iPhone 18 Pro Max are down about 15% in October, according to Nikkei Asia.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/is-iphone-18-demand-cooling-off-heres-how-deep-apple-reportedly-is-cutting-component-orders-a44244ee?mod=mw_rss_topstories",
+    publishedAt: "2026-10-09T21:30:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-34379825",
+    readTime: 2,
   },
   {
     id: "junk-bonds-are-flashing-yellow-watch-the-766c6c8c",
@@ -225,6 +529,94 @@ An IMDb page for Zacharia shows dozens of appearances on a number of political t
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 4,
+  },
+  {
+    id: "trump-created-a-committee-to-dig-into-th-a408d114",
+    title: "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
+    titleJa: "Trump created a committee to dig into the Fed's Lisa Cook. What is it and what comes next?",
+    summaryJa: "Trump’s bid to fire the Fed's Lisa Cook follows a Supreme Court ruling and could affect Jerome Powell, central bank independence and interest rates.",
+    bodyOriginal: `President Donald Trump on Friday announced an unusual legal step: He created a committee to help him decide whether to fire Federal Reserve Governor Lisa Cook.
+Trump has accused Cook of mortgage fraud, and in 2025 ordered her to be fired. The Supreme Court blocked that effort on procedural grounds but said he could try again. Trump in August informed Cook that he was considering another attempt to fire her. Her attorneys responded later that month, denying the allegations of fraud and saying Trump had no cause to remove her.
+The decision to form what Trump is calling a "committee of inquiry" raises a number of questions about the path forward for Trump and Cook.
+How will the committee work?
+According to the president's memo, Cook is expected to attend a hearing at the White House on Nov. 5. She can bring an attorney. The committee will weigh the evidence against her and her response. She will have until Nov. 10 to follow up after the proceedings.
+Then the committee will make a recommendation to the president as to whether there is cause to fire her from the Fed. The final call is up to the president. There is no set deadline for that final decision.
+Who is on the committee?
+Trump appointed three people to hear the evidence against Cook: Kevin Hassett, director of the National Economic Council; Keith Sonderling, acting director of the Office of Government Ethics and Labor secretary; and Andrea R. Lucas, chair of the Equal Employment Opportunity Commission. All three are Trump appointees.
+Has a president used a committee like this before?
+Yes, at least once. The Supreme Court's majority opinion in Trump v. Cook, written by Chief Justice John Roberts, mentions a precedent.
+President William Howard Taft in 1912 convened a similar "committee of inquiry" to consider the removal of two members of the Board of General Appraisers, a precursor to what is now the U.S. Court of International Trade. The committee ultimately recommended their removal. Roberts describes the committee as "a prime example of the view that Taft was our 'most judicial president,' as he was our most 'presidential chief justice.' "
+But notably, the Supreme Court didn't require Trump or other presidents to follow that example. The court says Cook was entitled to notice of the president's decision, an explanation of the evidence, and an opportunity to present her defense. That process could take place entirely in writing, Roberts notes.
+A Fed governor is not "entitled to an audience with the President or a full-blown judicial trial," Roberts writes.
+Will Cook cooperate with the committee hearing?
+Her attorneys Abbe Lowell and Norm Eisen said in a statement she "welcomes the opportunity to present the facts so she can clear her name and demonstrate there is no legal basis to fire her." Still, they said they "have grave doubts that this 'hearing' is a legitimate one that would conform to the law." They have said repeatedly that Cook did not commit mortgage fraud.
+Will the committee be independent from the president?
+No, the committee is made up of executive branch appointees who report to the president. They are tasked with weighing the evidence, and are required to hear Cook's point of view. But they are not impartial members of the judicial branch.
+Does the committee need to find that Cook committed a crime?
+No, it only needs to show that the president has cause to fire her. The Supreme Court didn't make a detailed determination of what constitutes cause, and that question will almost certainly be the subject of future litigation should Trump ultimately decide to remove her.
+Roberts wrote in Trump v. Cook that a finding of cause depends "at least in part, on the seriousness of the alleged misconduct, and the extent of any nexus that may exist to the Governor's professional duties."
+Could Cook's testimony expose her to criminal jeopardy?
+Potentially. The order requires Cook to appear and allows Justice Department officials to question her, but it does not say whether her answers would be protected from use in a later criminal case.
+The Fifth Amendment generally protects government employees from having statements that are compelled under threat of losing their jobs used against them in a criminal prosecution. But it is not yet clear whether Cook's testimony in this proceeding would qualify as legally compelled.
+Her attorneys could therefore seek assurances about how her testimony would be used before she answers questions that could expose her to criminal liability. Invoking the Fifth Amendment or seeking immunity would not legally amount to an admission of guilt, though Trump could seek to portray it politically that way.
+Will the committee have the final word on Cook's employment?
+Almost certainly not. The committee will make a recommendation to Trump, but his decision may not be final either. The Supreme Court's ruling establishes that it is entitled to review the president's determination of cause. Should Trump proceed with firing Cook after the hearing, the decision will likely end up in front of the justices again, a process that could take months.
+Will interest rates change as a result of the committee?
+Not immediately, or possibly ever.
+Cook is expected to participate in the Fed's upcoming vote on interest rates scheduled for Oct. 28. After the Supreme Court blocked Trump's earlier attempt to fire Cook, she remains as a member in good standing of the Fed.
+Trump has not yet made another attempt to fire her, though the committee is tasked with making a recommendation on that question. She would likely continue to serve on the Fed during any court challenges after the committee process concludes.
+What does the committee's creation mean for former Chair Jerome Powell or other Fed members?
+Trump's decision to establish the committee has no immediate bearing on Powell's standing at the Fed. Powell ended his term as Fed chairman in May but can remain on as a voting member of the Fed's Board of Governors through January 2028.
+Past Fed chairs have resigned their governorships once their term as the Fed's leader expired, but Powell said in March he wanted to stay on in order to see the end of a separate investigation against him "with transparency and finality."
+That investigation concluded two weeks ago without any criminal charges, and the Department of Justice said it would not pursue the matter further. Powell hasn't spoken about the Cook matter since the Supreme Court's ruling.
+The White House criticized a third Fed governor, Michael Barr, over his involvement as the Fed's top bank regulator in the failure of Silicon Valley Bank in 2023. But the White House stopped short of calling for his resignation.
+What has the Fed said about the committee?
+The Fed referred questions about the committee to Cook's attorneys. Fed Chairman Kevin Warsh has previously said the Fed would follow the Supreme Court's ruling.
+– CNBC's Angela Greiling Keane, Kevin Breuninger, Erik Holm and Steve Liesman contributed to this report.`,
+    bodyJa: `President Donald Trump on Friday announced an unusual legal step: He created a committee to help him decide whether to fire Federal Reserve Governor Lisa Cook.
+Trump has accused Cook of mortgage fraud, and in 2025 ordered her to be fired. The Supreme Court blocked that effort on procedural grounds but said he could try again. Trump in August informed Cook that he was considering another attempt to fire her. Her attorneys responded later that month, denying the allegations of fraud and saying Trump had no cause to remove her.
+The decision to form what Trump is calling a "committee of inquiry" raises a number of questions about the path forward for Trump and Cook.
+How will the committee work?
+According to the president's memo, Cook is expected to attend a hearing at the White House on Nov. 5. She can bring an attorney. The committee will weigh the evidence against her and her response. She will have until Nov. 10 to follow up after the proceedings.
+Then the committee will make a recommendation to the president as to whether there is cause to fire her from the Fed. The final call is up to the president. There is no set deadline for that final decision.
+Who is on the committee?
+Trump appointed three people to hear the evidence against Cook: Kevin Hassett, director of the National Economic Council; Keith Sonderling, acting director of the Office of Government Ethics and Labor secretary; and Andrea R. Lucas, chair of the Equal Employment Opportunity Commission. All three are Trump appointees.
+Has a president used a committee like this before?
+Yes, at least once. The Supreme Court's majority opinion in Trump v. Cook, written by Chief Justice John Roberts, mentions a precedent.
+President William Howard Taft in 1912 convened a similar "committee of inquiry" to consider the removal of two members of the Board of General Appraisers, a precursor to what is now the U.S. Court of International Trade. The committee ultimately recommended their removal. Roberts describes the committee as "a prime example of the view that Taft was our 'most judicial president,' as he was our most 'presidential chief justice.' "
+But notably, the Supreme Court didn't require Trump or other presidents to follow that example. The court says Cook was entitled to notice of the president's decision, an explanation of the evidence, and an opportunity to present her defense. That process could take place entirely in writing, Roberts notes.
+A Fed governor is not "entitled to an audience with the President or a full-blown judicial trial," Roberts writes.
+Will Cook cooperate with the committee hearing?
+Her attorneys Abbe Lowell and Norm Eisen said in a statement she "welcomes the opportunity to present the facts so she can clear her name and demonstrate there is no legal basis to fire her." Still, they said they "have grave doubts that this 'hearing' is a legitimate one that would conform to the law." They have said repeatedly that Cook did not commit mortgage fraud.
+Will the committee be independent from the president?
+No, the committee is made up of executive branch appointees who report to the president. They are tasked with weighing the evidence, and are required to hear Cook's point of view. But they are not impartial members of the judicial branch.
+Does the committee need to find that Cook committed a crime?
+No, it only needs to show that the president has cause to fire her. The Supreme Court didn't make a detailed determination of what constitutes cause, and that question will almost certainly be the subject of future litigation should Trump ultimately decide to remove her.
+Roberts wrote in Trump v. Cook that a finding of cause depends "at least in part, on the seriousness of the alleged misconduct, and the extent of any nexus that may exist to the Governor's professional duties."
+Could Cook's testimony expose her to criminal jeopardy?
+Potentially. The order requires Cook to appear and allows Justice Department officials to question her, but it does not say whether her answers would be protected from use in a later criminal case.
+The Fifth Amendment generally protects government employees from having statements that are compelled under threat of losing their jobs used against them in a criminal prosecution. But it is not yet clear whether Cook's testimony in this proceeding would qualify as legally compelled.
+Her attorneys could therefore seek assurances about how her testimony would be used before she answers questions that could expose her to criminal liability. Invoking the Fifth Amendment or seeking immunity would not legally amount to an admission of guilt, though Trump could seek to portray it politically that way.
+Will the committee have the final word on Cook's employment?
+Almost certainly not. The committee will make a recommendation to Trump, but his decision may not be final either. The Supreme Court's ruling establishes that it is entitled to review the president's determination of cause. Should Trump proceed with firing Cook after the hearing, the decision will likely end up in front of the justices again, a process that could take months.
+Will interest rates change as a result of the committee?
+Not immediately, or possibly ever.
+Cook is expected to participate in the Fed's upcoming vote on interest rates scheduled for Oct. 28. After the Supreme Court blocked Trump's earlier attempt to fire Cook, she remains as a member in good standing of the Fed.
+Trump has not yet made another attempt to fire her, though the committee is tasked with making a recommendation on that question. She would likely continue to serve on the Fed during any court challenges after the committee process concludes.
+What does the committee's creation mean for former Chair Jerome Powell or other Fed members?
+Trump's decision to establish the committee has no immediate bearing on Powell's standing at the Fed. Powell ended his term as Fed chairman in May but can remain on as a voting member of the Fed's Board of Governors through January 2028.
+Past Fed chairs have resigned their governorships once their term as the Fed's leader expired, but Powell said in March he wanted to stay on in order to see the end of a separate investigation against him "with transparency and finality."
+That investigation concluded two weeks ago without any criminal charges, and the Department of Justice said it would not pursue the matter further. Powell hasn't spoken about the Cook matter since the Supreme Court's ruling.
+The White House criticized a third Fed governor, Michael Barr, over his involvement as the Fed's top bank regulator in the failure of Silicon Valley Bank in 2023. But the White House stopped short of calling for his resignation.
+What has the Fed said about the committee?
+The Fed referred questions about the committee to Cook's attorneys. Fed Chairman Kevin Warsh has previously said the Fed would follow the Supreme Court's ruling.
+– CNBC's Angela Greiling Keane, Kevin Breuninger, Erik Holm and Steve Liesman contributed to this report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/09/trump-lisa-cook-fed-firing-committee-explained.html",
+    publishedAt: "2026-10-09T19:19:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
   },
   {
     id: "americans-debt-problems-are-flashing-a-w-eb735594",
@@ -1809,606 +2201,6 @@ Kpler data show about 11.3 million barrels per day of crude oil and petroleum pr
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
     readTime: 7,
-  },
-  {
-    id: "inflation-on-many-everyday-items-was-ent-d6bb8fc8",
-    title: "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
-    titleJa: "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
-    summaryJa: "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found.",
-    bodyOriginal: `The cost of many everyday items would have declined last year and early this year without President Donald Trump's tariffs, according to the New York Federal Reserve.
-The cost of 67 categories of goods was 2.9 percentage points higher as of February thanks to tariffs, according to a paper from a team of researchers at the central bank's New York arm.
-Without the levies, the team found that prices for the products they studied would have pulled back by almost 1%.
-The New York Fed's report offers the clearest evidence yet of the impact of Trump's tariffs — a core policy of his most recent campaign and second term in the White House — on consumers' wallets. Economists had widely expected his levies to push up prices, though the precise effects had been hard to estimate due to the changing nature of the policy and the lack of transparency on how companies set their prices.
-The researchers didn't say which 67 types of goods they evaluated.
-For each percentage point increase in the average tariff, the team said that consumer goods prices were higher by roughly a quarter of a percent a year later.
-Annual price growth in the dozens of goods they tracked peaked at the start of 2026, according to the report. But consumers are still expected to pay elevated prices into 2027 as a result of the policy, it said.
-Roughly two-thirds of the tariff-related price impact has directly come from the levies themselves, according to the New York Fed's report. The remaining increase was driven by knock-on effects, such as U.S.-based companies that use imported parts and materials in their products.
-"Tariffs have a larger and more drawn-out impact on consumer prices than the direct effect alone would suggest," the study's three authors, Mary Amiti, Sebastian Heise and David Weinstein, wrote.
-Trump argued that companies could absorb the increased cost from tariffs rather than pass them down to shoppers in the form of price hikes. The New York Fed team said that around 26% of last year's tariff increases ended up trickling into higher prices.
-The Supreme Court in February struck down many of Trump's tariffs, resulting in billions of dollars in refunds to retailers. The White House has vowed to push forward with levies through alternative measures, and products imported from many countries now often face tariffs of about 10%. In many cases, that is significantly less than what they were under the earlier round of tariffs.`,
-    bodyJa: `The cost of many everyday items would have declined last year and early this year without President Donald Trump's tariffs, according to the New York Federal Reserve.
-The cost of 67 categories of goods was 2.9 percentage points higher as of February thanks to tariffs, according to a paper from a team of researchers at the central bank's New York arm.
-Without the levies, the team found that prices for the products they studied would have pulled back by almost 1%.
-The New York Fed's report offers the clearest evidence yet of the impact of Trump's tariffs — a core policy of his most recent campaign and second term in the White House — on consumers' wallets. Economists had widely expected his levies to push up prices, though the precise effects had been hard to estimate due to the changing nature of the policy and the lack of transparency on how companies set their prices.
-The researchers didn't say which 67 types of goods they evaluated.
-For each percentage point increase in the average tariff, the team said that consumer goods prices were higher by roughly a quarter of a percent a year later.
-Annual price growth in the dozens of goods they tracked peaked at the start of 2026, according to the report. But consumers are still expected to pay elevated prices into 2027 as a result of the policy, it said.
-Roughly two-thirds of the tariff-related price impact has directly come from the levies themselves, according to the New York Fed's report. The remaining increase was driven by knock-on effects, such as U.S.-based companies that use imported parts and materials in their products.
-"Tariffs have a larger and more drawn-out impact on consumer prices than the direct effect alone would suggest," the study's three authors, Mary Amiti, Sebastian Heise and David Weinstein, wrote.
-Trump argued that companies could absorb the increased cost from tariffs rather than pass them down to shoppers in the form of price hikes. The New York Fed team said that around 26% of last year's tariff increases ended up trickling into higher prices.
-The Supreme Court in February struck down many of Trump's tariffs, resulting in billions of dollars in refunds to retailers. The White House has vowed to push forward with levies through alternative measures, and products imported from many countries now often face tariffs of about 10%. In many cases, that is significantly less than what they were under the earlier round of tariffs.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
-    publishedAt: "2026-10-08T13:08:57+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "amazon-overhauls-aging-devices-lineup-wi-78ce6c17",
-    title: "Amazon overhauls aging devices lineup with higher priced Alexa tablet, dumping the budget Fire",
-    titleJa: "Amazon overhauls aging devices lineup with higher priced Alexa tablet, dumping the budget Fire",
-    summaryJa: "The company said the Alexa tablet's improved speed and performance, artificial intelligence features and upgraded design warrant a higher price tag.",
-    bodyOriginal: `Amazon on Thursday debuted a set of new, pricier Alexa tablets and said it's ditching its budget-friendly Fire lineup, marking a significant shift in the e-commerce juggernaut's devices strategy.
-The company unveiled 8-inch, 11-inch and 12-inch models, which start at $230 and run up to $550. All devices are available for preorder on Thursday and will begin shipping Oct. 14.
-Amazon has historically sold its devices at or near the cost of manufacturing them, partly to undercut competitors with extremely cheap prices, but also with the goal of promoting its other products and services. It's hoped that for every $80 Echo smart speaker it sells, users will purchase movies, audiobook subscriptions or items from its sprawling webstore, which tend to have higher margins.
-The company has recently taken steps to make more money from its devices business under CEO Andy Jassy, who succeeded founder Jeff Bezos in 2021. Last year, it introduced pricier versions of its Echo smart speakers and began charging non-Prime members a subscription for Alexa+, the souped-up version of its digital assistant.
-The $550 Alexa Tablet 12 Pro costs more than double the price of the $155 Fire HD 10, Amazon's base model, and puts it more in line with Apple's iPad, which runs from $449 to $1199.
-The launch comes as Amazon and other devicemakers are grappling with a historic surge in memory prices. Amazon in August boosted prices on Echos, Kindles, Fire TVs and other hardware, citing the memory crunch. And earlier this year, Apple raised its prices on MacBooks and iPads, while Nintendo hiked the price of its Switch 2 console.
-Amazon denied that rising memory costs played a role in its decision to charge more for the Alexa tablet. But Panos Panay, the company's devices boss, acknowledged that the shortage made it "quite tricky" to build a premium tablet at a reasonable price without making any "trade-offs."
-"I think the team did a good job designing without making that trade," Panay told CNBC in an interview. "They gave you the full craftsmanship of a product, but are able to keep it at that price point."
-The company said the Alexa tablet's improved speed and performance, artificial intelligence features and upgraded design warrant a higher price tag and put the devices on par with "the best tablets on the market."
-Amazon added a sleeker, sturdier aluminum backing, higher resolution display and faster processors. On the Alexa Tablet 12 Pro, the highest-end model, it incorporated "Nanomatte" display technology that was developed in partnership with Corning to "dramatically reduce screen glare."
-One of the most notable upgrades is that all of the devices run Google's Android operating system, a major departure from earlier models, which relied on a custom Android version dubbed Fire OS and used Amazon's own app store, limiting the number of apps that were available.
-It's also the first time Amazon has attached a set of devices to the Alexa brand, the company's automated assistant first launched in 2014 via the Echo smart speaker. Alexa is front and center in the new tablets, via a "dynamic tab" on the home screen that offers recommendations and lets users quickly pick up where they left off reading or watching a TV show.
-The company also introduced a new feature called "On-Screen Intelligence," where users can ask Alexa to look at what's on their screen and make suggestions or take actions.
-In a demo, Panay showed how users could watch a TikTok clip of someone cooking on a grill and ask Alexa to shop for a burger press used in the video. Users can also pull up a game schedule and add every date to their calendar, Amazon said.
-"She'll do the homework, and if things work out, she's gonna bring up a shopping list where I can just hit buy now," Panos said.
-Amazon said it will continue to support the Fire lineup and consumers can continue using their devices as they do today, but it is no longer manufacturing new units. The Fire lineup includes a 10-inch and 8-inch model, as well as two versions targeted for kids.`,
-    bodyJa: `Amazon on Thursday debuted a set of new, pricier Alexa tablets and said it's ditching its budget-friendly Fire lineup, marking a significant shift in the e-commerce juggernaut's devices strategy.
-The company unveiled 8-inch, 11-inch and 12-inch models, which start at $230 and run up to $550. All devices are available for preorder on Thursday and will begin shipping Oct. 14.
-Amazon has historically sold its devices at or near the cost of manufacturing them, partly to undercut competitors with extremely cheap prices, but also with the goal of promoting its other products and services. It's hoped that for every $80 Echo smart speaker it sells, users will purchase movies, audiobook subscriptions or items from its sprawling webstore, which tend to have higher margins.
-The company has recently taken steps to make more money from its devices business under CEO Andy Jassy, who succeeded founder Jeff Bezos in 2021. Last year, it introduced pricier versions of its Echo smart speakers and began charging non-Prime members a subscription for Alexa+, the souped-up version of its digital assistant.
-The $550 Alexa Tablet 12 Pro costs more than double the price of the $155 Fire HD 10, Amazon's base model, and puts it more in line with Apple's iPad, which runs from $449 to $1199.
-The launch comes as Amazon and other devicemakers are grappling with a historic surge in memory prices. Amazon in August boosted prices on Echos, Kindles, Fire TVs and other hardware, citing the memory crunch. And earlier this year, Apple raised its prices on MacBooks and iPads, while Nintendo hiked the price of its Switch 2 console.
-Amazon denied that rising memory costs played a role in its decision to charge more for the Alexa tablet. But Panos Panay, the company's devices boss, acknowledged that the shortage made it "quite tricky" to build a premium tablet at a reasonable price without making any "trade-offs."
-"I think the team did a good job designing without making that trade," Panay told CNBC in an interview. "They gave you the full craftsmanship of a product, but are able to keep it at that price point."
-The company said the Alexa tablet's improved speed and performance, artificial intelligence features and upgraded design warrant a higher price tag and put the devices on par with "the best tablets on the market."
-Amazon added a sleeker, sturdier aluminum backing, higher resolution display and faster processors. On the Alexa Tablet 12 Pro, the highest-end model, it incorporated "Nanomatte" display technology that was developed in partnership with Corning to "dramatically reduce screen glare."
-One of the most notable upgrades is that all of the devices run Google's Android operating system, a major departure from earlier models, which relied on a custom Android version dubbed Fire OS and used Amazon's own app store, limiting the number of apps that were available.
-It's also the first time Amazon has attached a set of devices to the Alexa brand, the company's automated assistant first launched in 2014 via the Echo smart speaker. Alexa is front and center in the new tablets, via a "dynamic tab" on the home screen that offers recommendations and lets users quickly pick up where they left off reading or watching a TV show.
-The company also introduced a new feature called "On-Screen Intelligence," where users can ask Alexa to look at what's on their screen and make suggestions or take actions.
-In a demo, Panay showed how users could watch a TikTok clip of someone cooking on a grill and ask Alexa to shop for a burger press used in the video. Users can also pull up a game schedule and add every date to their calendar, Amazon said.
-"She'll do the homework, and if things work out, she's gonna bring up a shopping list where I can just hit buy now," Panos said.
-Amazon said it will continue to support the Fire lineup and consumers can continue using their devices as they do today, but it is no longer manufacturing new units. The Fire lineup includes a 10-inch and 8-inch model, as well as two versions targeted for kids.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/08/amazon-alexa-tablet-release.html",
-    publishedAt: "2026-10-08T13:02:03+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "skydance-s-david-ellison-tells-cnbc-comb-1b5c463f",
-    title: "Skydance's David Ellison tells CNBC combined company is 'positioned to win in every single vertical'",
-    titleJa: "Skydance's David Ellison tells CNBC combined company is 'positioned to win in every single vertical'",
-    summaryJa: "Skydance includes two film studios, the CBS broadcast network, a sprawling pay TV portfolio and streaming services Paramount+ and HBO Max.",
-    bodyOriginal: `Skydance co-CEO David Ellison told CNBC on Thursday — days after Paramount's acquisition of Warner Bros. Discovery officially closed — that the combined company is "positioned to win in every single vertical that we operate in."
-Skydance includes film studios Paramount and Warner Bros.; the CBS broadcast network; a sprawling pay TV portfolio that includes CNN, TNT, MTV and BET; and streaming services Paramount+ and HBO Max.
-"By combining Paramount and Warner Bros, we have the greatest content engine," Ellison said, noting blockbuster intellectual property and a strong sports portfolio. "You're immediately getting to scale in streaming between HBO Max and Paramount+, over 200 million global streaming subscribers. ... Not to mention the Olympics internationally, and an incredibly profitable linear portfolio anchored by CBS."
-Tune in at 8:30 a.m. ET as Skydance co-CEOs David Ellison and Ynon Kreiz join CNBC TV. Watch in real time on CNBC+ or the CNBC Pro stream.
-Ellison and co-CEO Ynon Kreiz plan to split executive duties, with Ellison focusing on the company's creative vision, technological innovations and long-term strategy while Kreiz leads the integration of the two companies and handles day-to-day management and operations.
-"We have a unique opportunity to build the next generation media and entertainment global company that is powered by creativity and technology," Kreiz said. "We have the assets that David mentioned. We have the capability. We have the people, and all of this is happening at the point in time when the industry is at an inflection point, where it's getting harder and harder to reach the consumer and aggregate fans."
-Kreiz is a 30-year veteran of the media space with a reputation as a turnaround man. Ellison, who is also Skydance chairman, has spent more than 15 years as an on-set producer and has said he's looking to position Skydance as a creative hub for filmmakers.
-The executives will have a tall task at the helm of a media behemoth: As part of a settlement with a group of state attorneys general who sued to block the acquisition over antitrust concerns, Skydance has agreed to release at least 30 films into theaters annually in 2027 and 2028 and at least 32 films annually in 2028, 2030 and 2031.
-Currently, the combined entity has 35 films scheduled for release next year, according to data from Rentrak.
-Ellison has also said he plans to merge the Paramount+ and HBO Max streaming services.
-This story is developing. Please check back for updates.`,
-    bodyJa: `Skydance co-CEO David Ellison told CNBC on Thursday — days after Paramount's acquisition of Warner Bros. Discovery officially closed — that the combined company is "positioned to win in every single vertical that we operate in."
-Skydance includes film studios Paramount and Warner Bros.; the CBS broadcast network; a sprawling pay TV portfolio that includes CNN, TNT, MTV and BET; and streaming services Paramount+ and HBO Max.
-"By combining Paramount and Warner Bros, we have the greatest content engine," Ellison said, noting blockbuster intellectual property and a strong sports portfolio. "You're immediately getting to scale in streaming between HBO Max and Paramount+, over 200 million global streaming subscribers. ... Not to mention the Olympics internationally, and an incredibly profitable linear portfolio anchored by CBS."
-Tune in at 8:30 a.m. ET as Skydance co-CEOs David Ellison and Ynon Kreiz join CNBC TV. Watch in real time on CNBC+ or the CNBC Pro stream.
-Ellison and co-CEO Ynon Kreiz plan to split executive duties, with Ellison focusing on the company's creative vision, technological innovations and long-term strategy while Kreiz leads the integration of the two companies and handles day-to-day management and operations.
-"We have a unique opportunity to build the next generation media and entertainment global company that is powered by creativity and technology," Kreiz said. "We have the assets that David mentioned. We have the capability. We have the people, and all of this is happening at the point in time when the industry is at an inflection point, where it's getting harder and harder to reach the consumer and aggregate fans."
-Kreiz is a 30-year veteran of the media space with a reputation as a turnaround man. Ellison, who is also Skydance chairman, has spent more than 15 years as an on-set producer and has said he's looking to position Skydance as a creative hub for filmmakers.
-The executives will have a tall task at the helm of a media behemoth: As part of a settlement with a group of state attorneys general who sued to block the acquisition over antitrust concerns, Skydance has agreed to release at least 30 films into theaters annually in 2027 and 2028 and at least 32 films annually in 2028, 2030 and 2031.
-Currently, the combined entity has 35 films scheduled for release next year, according to data from Rentrak.
-Ellison has also said he plans to merge the Paramount+ and HBO Max streaming services.
-This story is developing. Please check back for updates.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/08/skydance-co-ceos-ellison-kreiz.html",
-    publishedAt: "2026-10-08T12:56:59+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "trump-s-former-defense-secretary-sees-no-544c2a0f",
-    title: "Trump's former defense secretary sees no end in sight for Iran war — to the benefit of America's 'greatest adversary'",
-    titleJa: "Trump's former defense secretary sees no end in sight for Iran war — to the benefit of America's 'greatest adversary'",
-    summaryJa: "Mark Esper, who served as U.S. Secretary of Defense during Trump's first presidential term, said he did not see the conflict ending in the foreseeable future.",
-    bodyOriginal: `The U.S.-Iran war could drag on for years, putting America at risk of overlooking China's rise to power, according to President Donald Trump's former defense secretary.
-During a panel discussion at LSEG and Eurasia Group's GZERO Summit in London, Mark Esper said on Thursday he saw the conflict continuing "well into 2027," with a possibility that it could be handed to the next U.S. administration in three years' time.
-"At some point, we will reach a point where maybe both sides are willing to come to the table and find a negotiated settlement, but the challenge for president Trump will be he's going to have to get a deal that returns the Strait of Hormuz to the status quo, which is going to be really hard, and is a deal that's better than what [former President Barack Obama] got out of the JCPOA, and I think that's going to be very difficult too," he said.
-"So the question is, will he be willing to make that deal and live with the consequences or how the critics judge that deal? And so you can see another path where it gets handed off to the next administration in 2029."
-Speaking to CNBC on the sidelines of the event, Esper said he does not see an end to the war "in the foreseeable future."
-"I think it continues at this type of pace where we see the American blockade continue, we see occasional outbursts from either side, and it drags along," he said.
-The war, now in its eighth month, has reached an impasse, with Trump saying Wednesday that making a deal with Tehran "isn't really something that I want to do." According to reports, U.S. officials are considering a resumption of large-scale military operations in the coming weeks.
-Esper, who served as U.S. Secretary of Defense during Trump's first presidential term from July 2019 to November 2020, said he had long been an advocate for "the economic strangulation" of Iran. But he said such a policy was vulnerable to impatience in Washington.
-"The challenge is that policy requires time, discipline and patience, and those aren't things that the states are typically good at doing," he said. "So, if allowed to, I think it could have an impact. It doesn't mean it'll actually bring them back to the table, which would be my end, but it's the least worst option at this point in time."
-Over the summer, Trump announced an intensification of sanctions and economic restrictions on Iran, a strategy he labeled "Economic D-Day." The administration has since touted the success of its economic warfare strategies.
-Advantage China
-But Esper warned Thursday that with attention in Washington focused on the Iran war, America's "greatest adversary" was building up its capabilities.
-"China is our greatest adversary," he said. "It's the lurking threat out there that we're not paying attention to because we're so focused, and have been for 20 plus years now, on the Middle East, and Europe is focused on Russia."
-Beijing, he said, was continuing to build economic, technological and diplomatic power, having executed "the largest military buildup in history."
-"We're just not paying enough attention to the Chinese," Esper told CNBC. "They've told us by 2049 they want to dominate the Indo-Pacific region and the world for all intents and purposes. They want to be able to call the shots and dictate global governance."
-China had been working to this end for at least 30 years, he said.
-"Certainly, since their entry into the WTO, they've used the world trading system against us to build their own economic and military power, and they have a game plan," Esper said.
-He highlighted Beijing's domination of certain industries and goods, such as electric vehicles, rare earths, solar panels and critical materials. This, he said, had been achieved thanks to the Chinese government's ability to "consolidate control" and direct the country's economy in a certain direction.
-"They have a game plan, and they're and they're executing it," Esper said.
-"I would focus our efforts on China, and I would do it in partnership with our European and Asian allies, and that would include not just military [alliances], but diplomatic, economic and technological as well."
-CNBC reached out to the U.S. and Chinese governments for comment.`,
-    bodyJa: `The U.S.-Iran war could drag on for years, putting America at risk of overlooking China's rise to power, according to President Donald Trump's former defense secretary.
-During a panel discussion at LSEG and Eurasia Group's GZERO Summit in London, Mark Esper said on Thursday he saw the conflict continuing "well into 2027," with a possibility that it could be handed to the next U.S. administration in three years' time.
-"At some point, we will reach a point where maybe both sides are willing to come to the table and find a negotiated settlement, but the challenge for president Trump will be he's going to have to get a deal that returns the Strait of Hormuz to the status quo, which is going to be really hard, and is a deal that's better than what [former President Barack Obama] got out of the JCPOA, and I think that's going to be very difficult too," he said.
-"So the question is, will he be willing to make that deal and live with the consequences or how the critics judge that deal? And so you can see another path where it gets handed off to the next administration in 2029."
-Speaking to CNBC on the sidelines of the event, Esper said he does not see an end to the war "in the foreseeable future."
-"I think it continues at this type of pace where we see the American blockade continue, we see occasional outbursts from either side, and it drags along," he said.
-The war, now in its eighth month, has reached an impasse, with Trump saying Wednesday that making a deal with Tehran "isn't really something that I want to do." According to reports, U.S. officials are considering a resumption of large-scale military operations in the coming weeks.
-Esper, who served as U.S. Secretary of Defense during Trump's first presidential term from July 2019 to November 2020, said he had long been an advocate for "the economic strangulation" of Iran. But he said such a policy was vulnerable to impatience in Washington.
-"The challenge is that policy requires time, discipline and patience, and those aren't things that the states are typically good at doing," he said. "So, if allowed to, I think it could have an impact. It doesn't mean it'll actually bring them back to the table, which would be my end, but it's the least worst option at this point in time."
-Over the summer, Trump announced an intensification of sanctions and economic restrictions on Iran, a strategy he labeled "Economic D-Day." The administration has since touted the success of its economic warfare strategies.
-Advantage China
-But Esper warned Thursday that with attention in Washington focused on the Iran war, America's "greatest adversary" was building up its capabilities.
-"China is our greatest adversary," he said. "It's the lurking threat out there that we're not paying attention to because we're so focused, and have been for 20 plus years now, on the Middle East, and Europe is focused on Russia."
-Beijing, he said, was continuing to build economic, technological and diplomatic power, having executed "the largest military buildup in history."
-"We're just not paying enough attention to the Chinese," Esper told CNBC. "They've told us by 2049 they want to dominate the Indo-Pacific region and the world for all intents and purposes. They want to be able to call the shots and dictate global governance."
-China had been working to this end for at least 30 years, he said.
-"Certainly, since their entry into the WTO, they've used the world trading system against us to build their own economic and military power, and they have a game plan," Esper said.
-He highlighted Beijing's domination of certain industries and goods, such as electric vehicles, rare earths, solar panels and critical materials. This, he said, had been achieved thanks to the Chinese government's ability to "consolidate control" and direct the country's economy in a certain direction.
-"They have a game plan, and they're and they're executing it," Esper said.
-"I would focus our efforts on China, and I would do it in partnership with our European and Asian allies, and that would include not just military [alliances], but diplomatic, economic and technological as well."
-CNBC reached out to the U.S. and Chinese governments for comment.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/08/trump-iran-war-mark-esper.html",
-    publishedAt: "2026-10-08T12:50:51+00:00",
-    category: "貿易",
-    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "chrysler-building-to-get-its-crown-resto-5b8854b8",
-    title: "Chrysler Building to get its crown restored after being sold",
-    titleJa: "Chrysler Building to get its crown restored after being sold",
-    summaryJa: "The distinctive Manhattan skyescraper will undergo a major renovation and provide a new supply of offices.",
-    bodyOriginal: `Chrysler Building to get its crown restored after being sold
-- Published
-The Chrysler Building, one of the most distinctive high-rises in Manhattan's skyline, will undergo a major renovation as part of a multi-million-dollar sale deal.
-The skyscraper, opened in New York nearly 100 years ago, will see its Art Deco crown polished and restored during a refurbishment that will also involve the restoration of the building's 77-storey façade.
-Developer Tishman Speyer has taken over the lease from the Cooper Union for the Advancement of Science and Art, a private college.
-Tishman Speyer and its partners will invest $235m (£178m) in the project, as part of which it will upgrade the 61st floor, which is home to huge eagle gargoyles and will also feature an "upscale" lounge.
-The developer is planning to use most of the building, which is close to Grand Central railway station, for office space. It is following what it calls a "prebuild approach" that will allow firms to move into their new premises quickly.
-Tishman Speyer explained that the area "has one of the lowest office availability rates in Manhattan", adding: "Construction of new office supply in the neighbourhood has been virtually nonexistent for decades."
-The renovation will include internal work, such as upgrades to the building's mechanical, elevator, electrical and air handling systems.
-At 1,046ft (319m), the Chrysler Building was once the world's tallest building - before being usurped less than a year later by the nearby Empire State Building.
-Financed by Walter Chrysler, the motor magnate, the skyscraper's construction began in 1928 and was completed two years later.
-Architect William Van Alen modelled the eagle gargoyles on hood ornaments found on the 1929 Chrysler car.
-The Cooper Union college, whose alumni include inventor Thomas Edison, has owned the land on which the Chrysler Building stands since 1902.
-The land was bequeathed to it by the children of Peter Cooper, a manufacturer and industrialist who founded the college in 1859.
-As part of the deal, Tishman Speyer will make ground lease payments to the Cooper Union which the college wants to use to finance "a bold plan to restore full-tuition scholarships for all undergraduates".
-Cooper Union's president Steven McLaughlin, said: "The significance of this agreement is ultimately about what it makes possible for generations of Cooper Union students."`,
-    bodyJa: `Chrysler Building to get its crown restored after being sold
-- Published
-The Chrysler Building, one of the most distinctive high-rises in Manhattan's skyline, will undergo a major renovation as part of a multi-million-dollar sale deal.
-The skyscraper, opened in New York nearly 100 years ago, will see its Art Deco crown polished and restored during a refurbishment that will also involve the restoration of the building's 77-storey façade.
-Developer Tishman Speyer has taken over the lease from the Cooper Union for the Advancement of Science and Art, a private college.
-Tishman Speyer and its partners will invest $235m (£178m) in the project, as part of which it will upgrade the 61st floor, which is home to huge eagle gargoyles and will also feature an "upscale" lounge.
-The developer is planning to use most of the building, which is close to Grand Central railway station, for office space. It is following what it calls a "prebuild approach" that will allow firms to move into their new premises quickly.
-Tishman Speyer explained that the area "has one of the lowest office availability rates in Manhattan", adding: "Construction of new office supply in the neighbourhood has been virtually nonexistent for decades."
-The renovation will include internal work, such as upgrades to the building's mechanical, elevator, electrical and air handling systems.
-At 1,046ft (319m), the Chrysler Building was once the world's tallest building - before being usurped less than a year later by the nearby Empire State Building.
-Financed by Walter Chrysler, the motor magnate, the skyscraper's construction began in 1928 and was completed two years later.
-Architect William Van Alen modelled the eagle gargoyles on hood ornaments found on the 1929 Chrysler car.
-The Cooper Union college, whose alumni include inventor Thomas Edison, has owned the land on which the Chrysler Building stands since 1902.
-The land was bequeathed to it by the children of Peter Cooper, a manufacturer and industrialist who founded the college in 1859.
-As part of the deal, Tishman Speyer will make ground lease payments to the Cooper Union which the college wants to use to finance "a bold plan to restore full-tuition scholarships for all undergraduates".
-Cooper Union's president Steven McLaughlin, said: "The significance of this agreement is ultimately about what it makes possible for generations of Cooper Union students."`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c8g47z3r4dzvo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-08T12:49:12+00:00",
-    category: "自動車",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5125/live/1926f250-c30d-11f1-babe-4199b0e7ccea.jpg",
-    readTime: 6,
-  },
-  {
-    id: "bid-to-run-new-trains-on-west-coast-main-5052bb3e",
-    title: "Bid to run new trains on West Coast Mainline refused",
-    titleJa: "Bid to run new trains on West Coast Mainline refused",
-    summaryJa: "Plans for more trains would “likely increase delays and cancelled trains\", the rail regulator says.",
-    bodyOriginal: `Bid to run new trains on West Coast Mainline refused
-- Published
-Plans for new train services between London and Wrexham, Rochdale and Blackpool have been rejected by the Office of Rail and Road (ORR).
-The proposal to add more trains on the West Coast Main Line would "likely increase delays and cancelled trains for passengers", the regulator said.
-It rejected Wrexham, Shropshire and Midlands Railway's application for four daily Wrexham to London Euston return services, as well as Lumo's proposal for up to four return services between Rochdale and Euston on weekdays and Saturdays, and three on Sundays.
-Avanti West Coast's plans for additional services between Blackpool and Euston were also denied by the ORR.
-The regulator said: "Gaps in the current timetable need to provide important space for trains to recover when disruption occurs, minimising delays to passengers.
-"ORR concluded that adding more services into these windows in the timetable for recovery would reduce that resilience, increasing the risk of disruption spreading to other services and affecting more passengers."
-'Heavily used'
-Stephanie Tobyn, from the ORR, said: "New services, destinations and greater choice can bring real benefits for passengers and communities.
-"But the West Coast Main Line is already under significant pressure, with performance reflecting limited resilience on a heavily used part of the rail network.
-"Our detailed analysis has shown that adding more trains to the current timetable would reduce the ability to recover when disruption occurs, increasing the risk of delays spreading and making reliability of the network worse for all passengers."
-The ORR said its assessment and decision came after similar applications were rejected in 2025.
-Get in touch
-Tell us which stories we should cover in Lancashire
-Listen to the best of BBC Radio Lancashire on Sounds and follow BBC Lancashire on Facebook, external, X, external and Instagram, external. You can also send story ideas via Whatsapp to 0808 100 2230.
-- Published17 May 2024
-- Published18 January
-- Published3 March
-- Published1 day ago
-- Published9 September
-- Published3 January`,
-    bodyJa: `Bid to run new trains on West Coast Mainline refused
-- Published
-Plans for new train services between London and Wrexham, Rochdale and Blackpool have been rejected by the Office of Rail and Road (ORR).
-The proposal to add more trains on the West Coast Main Line would "likely increase delays and cancelled trains for passengers", the regulator said.
-It rejected Wrexham, Shropshire and Midlands Railway's application for four daily Wrexham to London Euston return services, as well as Lumo's proposal for up to four return services between Rochdale and Euston on weekdays and Saturdays, and three on Sundays.
-Avanti West Coast's plans for additional services between Blackpool and Euston were also denied by the ORR.
-The regulator said: "Gaps in the current timetable need to provide important space for trains to recover when disruption occurs, minimising delays to passengers.
-"ORR concluded that adding more services into these windows in the timetable for recovery would reduce that resilience, increasing the risk of disruption spreading to other services and affecting more passengers."
-'Heavily used'
-Stephanie Tobyn, from the ORR, said: "New services, destinations and greater choice can bring real benefits for passengers and communities.
-"But the West Coast Main Line is already under significant pressure, with performance reflecting limited resilience on a heavily used part of the rail network.
-"Our detailed analysis has shown that adding more trains to the current timetable would reduce the ability to recover when disruption occurs, increasing the risk of delays spreading and making reliability of the network worse for all passengers."
-The ORR said its assessment and decision came after similar applications were rejected in 2025.
-Get in touch
-Tell us which stories we should cover in Lancashire
-Listen to the best of BBC Radio Lancashire on Sounds and follow BBC Lancashire on Facebook, external, X, external and Instagram, external. You can also send story ideas via Whatsapp to 0808 100 2230.
-- Published17 May 2024
-- Published18 January
-- Published3 March
-- Published1 day ago
-- Published9 September
-- Published3 January`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm3wve9l057vo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-08T11:42:31+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d5e/live/3e90f230-c307-11f1-8f04-85217d686658.png",
-    readTime: 5,
-  },
-  {
-    id: "asos-hackers-took-more-personal-details-aabbb97b",
-    title: "Asos hackers took more personal details than first revealed, BBC finds",
-    titleJa: "Asos hackers took more personal details than first revealed, BBC finds",
-    summaryJa: "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
-    bodyOriginal: `Asos hackers took more personal details than first revealed, BBC finds
-- Published
-Asos has told its customers that hackers are in possession of detailed profiles of potentially millions of the online store's users.
-It issued the update after BBC News told the retailer it had been contacted by cyber criminals who said this week's breach went beyond the "basic contact details" Asos previously said might have been accessed.
-Names, addresses, phone numbers, emails and customer numbers are now in the hands of cyber criminals.
-So too are the searches customers have made on the website. Terms like "reclaimed vintage", "glamorous wide fit" and "Asos petite" are visible in the data.
-With this information, scammers may be able to craft potent phishing attack emails or phone calls.
-The risk to individuals is now higher and customers are being warned about potential impersonation scams.
-In its email to customers, Asos confirmed data profiles were taken but said no bank details or passwords were accessed.
-"Please remain cautious of unexpected messages or calls claiming to be from Asos," it said.
-"We will never ask you to share passwords, security codes or payment details through an unsolicited message or call."
-The company did not respond to questions about the scale of the breach.
-The high profile hack made global headlines on Tuesday when cyber criminals used Asos's own app system to send a pop up notification to potentially millions of people.
-Later that day the firm confirmed to shareholders via the London Stock Exchange that the pop up was sent by an "unauthorised third party" and "basic personal information including name and contact details may have been accessed."
-The company then sent an email to customers with similar wording.
-On Wednesday evening the cyber criminals responsible contacted the BBC sharing a sample of the stolen data which showed the true extent of the hack.
-The BBC held off publishing this article to allow Asos to contact its customers first.
-Asos said it is still investigating the data breach and it would "contact customers directly where we believe additional information, support or action may be required".
-The UK fashion site explained to customers that hackers gained access to an Asos employee account by "impersonating a trusted contact to obtain log in credentials".
-With that log in to an unnamed service, the hackers were able to download the customer data.
-In the pop up notification send to customers by the hackers, they claimed they had "compromised the Snowflake instance".
-Snowflake is a popular data storage and analysis company whose customers have been breached in the past due to unauthorised log ins.
-The cyber criminals, calling themselves Xuanyewen, claimed to the BBC they used a platform which is built natively on top of Snowflake - called Simon AI - to gain access to the data.
-Simon AI has been contacted for comment. Snowflake previously said its platform had not been breached.
-Asos said customers are not being asked to take any action.
-But cyber security experts have warned users to change passwords as a precaution and be on alert for suspicious activity.
-"Passwords have not been stolen, so be highly suspicious of any unsolicited text or email asking you to change or share yours," said Trevor Dearing, Senior Director of Critical Infrastructure at Illumio.
-"Expect scammers to mention the attack, use your personal details to seem genuine, and create urgency, such as threatening to lock your account within 24 hours."
-Asos said its website and app are safe to use and "we know our customers trust us with their information".
-"We take that responsibility seriously and have already taken additional steps to further strengthen security controls," it said.
-Get in touch
-Have you been affected by this hack?
-Asos confirms hackers sent 'unauthorised' notification to app users
-- Published1 day ago
-What can I do to protect myself after 'Asos hacked' message?
-- Published1 day ago
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
-    bodyJa: `Asos hackers took more personal details than first revealed, BBC finds
-- Published
-Asos has told its customers that hackers are in possession of detailed profiles of potentially millions of the online store's users.
-It issued the update after BBC News told the retailer it had been contacted by cyber criminals who said this week's breach went beyond the "basic contact details" Asos previously said might have been accessed.
-Names, addresses, phone numbers, emails and customer numbers are now in the hands of cyber criminals.
-So too are the searches customers have made on the website. Terms like "reclaimed vintage", "glamorous wide fit" and "Asos petite" are visible in the data.
-With this information, scammers may be able to craft potent phishing attack emails or phone calls.
-The risk to individuals is now higher and customers are being warned about potential impersonation scams.
-In its email to customers, Asos confirmed data profiles were taken but said no bank details or passwords were accessed.
-"Please remain cautious of unexpected messages or calls claiming to be from Asos," it said.
-"We will never ask you to share passwords, security codes or payment details through an unsolicited message or call."
-The company did not respond to questions about the scale of the breach.
-The high profile hack made global headlines on Tuesday when cyber criminals used Asos's own app system to send a pop up notification to potentially millions of people.
-Later that day the firm confirmed to shareholders via the London Stock Exchange that the pop up was sent by an "unauthorised third party" and "basic personal information including name and contact details may have been accessed."
-The company then sent an email to customers with similar wording.
-On Wednesday evening the cyber criminals responsible contacted the BBC sharing a sample of the stolen data which showed the true extent of the hack.
-The BBC held off publishing this article to allow Asos to contact its customers first.
-Asos said it is still investigating the data breach and it would "contact customers directly where we believe additional information, support or action may be required".
-The UK fashion site explained to customers that hackers gained access to an Asos employee account by "impersonating a trusted contact to obtain log in credentials".
-With that log in to an unnamed service, the hackers were able to download the customer data.
-In the pop up notification send to customers by the hackers, they claimed they had "compromised the Snowflake instance".
-Snowflake is a popular data storage and analysis company whose customers have been breached in the past due to unauthorised log ins.
-The cyber criminals, calling themselves Xuanyewen, claimed to the BBC they used a platform which is built natively on top of Snowflake - called Simon AI - to gain access to the data.
-Simon AI has been contacted for comment. Snowflake previously said its platform had not been breached.
-Asos said customers are not being asked to take any action.
-But cyber security experts have warned users to change passwords as a precaution and be on alert for suspicious activity.
-"Passwords have not been stolen, so be highly suspicious of any unsolicited text or email asking you to change or share yours," said Trevor Dearing, Senior Director of Critical Infrastructure at Illumio.
-"Expect scammers to mention the attack, use your personal details to seem genuine, and create urgency, such as threatening to lock your account within 24 hours."
-Asos said its website and app are safe to use and "we know our customers trust us with their information".
-"We take that responsibility seriously and have already taken additional steps to further strengthen security controls," it said.
-Get in touch
-Have you been affected by this hack?
-Asos confirms hackers sent 'unauthorised' notification to app users
-- Published1 day ago
-What can I do to protect myself after 'Asos hacked' message?
-- Published1 day ago
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-08T11:01:29+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef63/live/b1b98540-c30e-11f1-a64c-550be9e3c66b.jpg",
-    readTime: 10,
-  },
-  {
-    id: "cnbc-s-financial-advisor-100-best-financ-787ec5d9",
-    title: "CNBC's Financial Advisor 100: Best financial advisors, top firms for 2026 ranked",
-    titleJa: "CNBC's Financial Advisor 100: Best financial advisors, top firms for 2026 ranked",
-    summaryJa: "CNBC's Financial Advisor 100 ranks the best financial advisors and top firms for 2026. Here's how to pick the best financial planner for you and your family.",
-    bodyOriginal: `Many consumers face tough investing decisions amid rising inflation, the artificial intelligence boom and geopolitical uncertainty, among other factors that affect the stock and bond markets.
-An experienced financial advisor can help.
-But the best advisors do more than manage your portfolio. They can help craft a roadmap to meet competing goals such as saving for retirement, reducing your taxes, protecting your family, building a legacy and more.
-CNBC's Financial Advisor 100 list ranks the country's best financial advisors and top financial advisory firms. Investors can use this list as a starting point — along with referrals — to find an expert who is well-suited for their family's needs.
-To make a list of prospective advisors, always verify credentials and check for complaints via the Financial Industry Regulatory Authority's BrokerCheck or the U.S. Securities and Exchange Commission's Investment Adviser Public Disclosure. Then you can interview your short list of candidates.
-CNBC's Financial Advisor 100 list is determined through a blend of data analysis and editorial review. Firms do not apply or pay to be considered, and inclusion and ranking are based solely on the list's methodology. The list takes months to compile, with multiple steps and checks designed to ensure rigor and consistency.
-To prepare the 2026 list, CNBC worked with AccuPoint Solutions, a wealth management data and research firm specializing in advisor intelligence and industry analytics. The process started with 41,578 registered investment advisor firms, or RIAs, narrowed to 1,015 that met CNBC's requirements. These firms also passed a due diligence check, including any regulatory disclosures.
-To get more details, CNBC surveyed the finalists about their practices and fact-checked responses via publicly available resources. AccuPoint used CNBC's weighted criteria to rank the firms. Read more about the methodology below.
-For 2026, CNBC's top advisors collectively manage $329.7 billion. The firms have an average of 35 years in business.
-What is a fiduciary financial advisor?
-Finding the right financial advisor isn't easy, and there's a key question you should ask each prospect: Are you a fiduciary?
-A fiduciary financial advisor must act in the best interest of clients at all times, regardless of how it affects their compensation or profits.
-Certain financial advisors, such as RIAs, are bound by the fiduciary standard. By comparison, investment brokers must follow a suitability standard, which means recommendations must be appropriate but not always the best option for the client.
-What steps should you take when choosing a financial advisor?
-One of the first steps to finding the right financial advisor could be referrals from your colleagues, friends or family.
-You'll want to consider those candidates' credentials, including designations such as certified financial planner, or CFP; certified public accountant, or CPA; and chartered financial analyst, or CFA.
-You should also check each prospect for regulatory violations and customer complaints, known as "disclosures," via FINRA's BrokerCheck and the SEC's Investment Adviser Public Disclosure website. You can check state regulators for smaller firms.
-It's important to meet and interview prospective candidates before choosing a financial advisor. The CFP Board, which sets and enforces standards for CFP professionals, recommends 10 questions to narrow down your list:
-1. What are your qualifications and credentials?
-2. What services do you offer?
-3. Will you have a fiduciary duty to me?
-4. What is your approach to financial planning?
-5. What types of clients do you typically work with?
-6. Will you be the only advisor working with me?
-7. How will I pay for your services?
-8. How much do you typically charge?
-9. Do others stand to gain from the financial advice you give me?
-10. Have you ever been publicly disciplined for unethical or unlawful actions in your career?
-What's the difference between a fee-only financial advisor and a commission-based advisor?
-It's important to understand your financial advisor's pay structure before starting your planning engagement.
-Generally, financial advisors are fee-only, commission-based or fee-based, the latter of which is mostly fees with commissions for certain products.
-Fee-only means the advisor won't receive a commission from products. This category can include assets under management, or AUM, which is typically a set percentage each year and varies by the size of your portfolio. Fee-only may also include one-time projects, hourly fees or advice-only advisors, who don't charge AUM or receive commissions.
-Commission-based advice generally includes commissions for certain products, such as mutual funds or life insurance. It can be the lowest-cost option for advice about a specific financial product, but the guidance can present a conflict of interest in some cases.
-What are the pros and cons of using a robo-advisor vs. a human financial advisor?
-Technology continues to shape the landscape of financial advice, including robo-advisors and digital advice via artificial intelligence platforms.
-Robo-advisors use algorithms to automatically invest your money based on your risk tolerance and timeline. Typically, the cost is based on a percentage of your portfolio, or you pay a flat monthly fee.
-Some robo-advisors offer more customization and features, such as tax-loss harvesting, which uses losses to offset other portfolio gains, or automatic rebalancing.
-By comparison, human advisors can build a comprehensive financial plan — including investing, taxes, insurance, retirement planning, estate planning and more — based on your specific goals.
-In 2024, the median robo-advisor fee was about 0.25% of assets per year, according to Morningstar's latest robo-advisor report from 2025, which analyzed 16 U.S.-based platforms. To compare, it's common to pay around 1% of assets under management, or 100 basis points, for a human advisor, depending on the size of your portfolio.
-Meanwhile, do-it-yourself investors may turn to AI platforms for quick answers to their money questions. Our next section covers some of the key things to know about AI financial advice.
-What to know about AI financial advice
-As consumers embrace generative AI platforms such as ChatGPT, Claude, Copilot or Gemini, it may be tempting to tap the software for financial advice.
-Roughly 1 in 5 Americans looking for financial advice in the prior year have used AI, according to a Gallup survey conducted with financial services firm Edward Jones.
-But fewer than 30% of U.S. adults overall say they have "a great deal" or "some" confidence in AI expertise when it comes to managing money, according to the survey, which polled more than 5,000 U.S. adults in March and April.
-Before turning to AI platforms for money advice, here are some of the key things to know.
-Can AI replace a human financial advisor?
-In short, no.
-Experts say that AI is generally good at providing high-level overviews of financial topics: For example, why it's important to diversify investments, why exchange-traded funds may be better than mutual funds in some cases but not others, or the ages at which people can claim Social Security.
-However, it would be unwise to take AI's advice blindly. The technology may sound authoritative, but it can make mistakes — especially when it comes to making very specific financial calculations for one's personal situation, experts say.
-Is AI financial advice safe and accurate?
-Experts say AI can be a good starting point when learning about a particular financial topic, such as the ins and outs of Medicare. But AI can "hallucinate" — essentially, it can make up information that's inaccurate but sounds true to users.
-Surprisingly, AI isn't — yet — strong at doing financial calculations, so any numbers-based financial planning questions, such as those involving your taxes, are generally best avoided, experts said. Small differences in prompts can also lead to variation in its recommendations, research has shown.
-It's important to double- and triple-check AI's output or, for complex questions, consult with a financial advisor.
-Is an AI financial advisor a fiduciary?
-Fiduciary duty is a legal term that means an advisor must put their client's best interests ahead of their own. It's a concept that applies in other fields, too, such as medicine and law.
-Many human financial advisors — but not all of them — have a fiduciary duty. Advisors who do have a fiduciary duty and who violate that responsibility can be subject to fairly serious consequences, including regulatory penalties, civil liabilities and criminal charges.
-Generative AI platforms, such as ChatGPT and Claude, don't have a fiduciary duty, according to experts. In other words, they don't bear responsibility for output that leads to bad outcomes for users, experts said.
-Is it safe to share personal financial information with AI?
-It would be unwise to input sensitive financial information or sensitive personally identifiable information into generative AI platforms, such as ChatGPT and Claude, experts said.
-For example, it's likely not a good idea to feed your entire tax return into the algorithms, experts said. AI companies currently have no restrictions on how they can use such personal data, they said. Perhaps the biggest risk is that the companies could get hacked, potentially exposing your personal data, they said.
-Who is responsible if AI-generated financial advice is wrong?
-Legal experts say this is an unresolved issue.
-Currently, AI companies aren't responsible for giving financial advice that's in users' best interests — and therefore aren't on the hook if a user implements the advice and something goes wrong, experts said. They said it's important not to accept AI output without researching and vetting it further.
-Financial advisor FAQs
-- Many investors have competing financial goals, such as saving for retirement, funding a child's college education, paying off student loans or buying a new home.
-- A financial advisor can help clients prioritize and fund goals while answering key questions about taxes, investing, insurance, estate planning and more.
-- Paid financial advice comes in many forms, but it's not right for everyone. While some investors want hands-on guidance, others prefer to handle money decisions on their own.
-- Clients meet with their advisor periodically to discuss priorities and review progress on financial goals.
-- Generally, meetings happen at least once per year, but the cadence may vary based on complexity and the scope of the engagement.
-- Regardless of your meeting schedule, your advisor should have an open line of communication to review questions and concerns as they arise.
-- Switching financial advisors is a personal decision that could hinge on a range of factors, including your goals and expectations.
-- You may seek a new planner if your current advisor doesn't offer the expertise you need, such as complex tax or small business planning.
-- Other reasons to switch could be poor communication, missed meetings or failing to execute key elements of your financial plan.
-- Your choice between local, national or online firms may depend on your service and meeting preferences.
-- Some boutique firms refer clients to local experts, such as certified public accountants or estate planning attorneys, while national firms may have these experts on staff.
-- Ultimately, you can find personalized care from a range of firms, depending on how many households your advisor serves.
-- You could work with a single advisor or a team, depending on your planning needs and the firm's structure.
-- If you have a preference, it's a good idea to address this question while interviewing prospective advisors.
-- A registered investment advisor, or RIA, is an individual or company that provides financial advice for compensation. They are also known as financial planners or wealth managers.
-- An investment advisor representative, or IAR, is an individual who works at an RIA, managing portfolios and offering investment advice.
-- A broker buys and sells investments for an investor's account.
-- An RIA is bound by the fiduciary standard and must act in the client's best interest, while a broker must follow a suitability standard, which allows more flexibility for recommendations.
-- There are four requirements a person must meet to become a certified financial planner, or CFP: education, exam, experience and ethics.
-- These professionals must complete a CFP Board-registered program and hold a bachelor's degree before passing an exam.
-- CFP candidates also must complete 4,000 or 6,000 experience hours, depending on their pathway, and meet ongoing ethics and continuing education guidelines.
-- Before picking a financial advisor, you should verify credentials and check for regulatory violations via FINRA's BrokerCheck and the SEC's Investment Adviser Public Disclosure website.
-- One red flag is a lack of transparency about compensation, which RIAs must outline via Form ADV Part 2A.
-- Another warning sign could be an advisor who pushes products before fully understanding your goals, timeline and risk tolerance.
-- The right investing strategy will depend on your goals, risk tolerance and timeline. Common long-term goals may include saving for retirement or funding college education.
-- Many advisors also aim to reduce your lifetime tax bill with such strategies as selling profitable assets during your lower income years.
-- At retirement, advisors can help optimize streams of income, including Social Security, pensions, retirement account drawdowns and more.
-- Estate planning, which covers your wishes at death or incapacitation, is also important for investors at all income levels.
-- Typically, financial advisors who specialize in working with retirees can help with investing, portfolio distribution, Social Security, tax planning, Medicare, long-term care and estate planning, among other issues.
-- You should look for credentials such as CFP or retirement income certified professional, or RICP.
-- However, many years of experience working with retirees could outweigh credentials.
-- The right financial advisor will act as a fiduciary and consider your goals, timeline and risk tolerance before making recommendations.
-- Young professionals often have multiple financial priorities, such as beginning to invest, paying off student loans, employee benefits, buying a first home, and saving for a wedding or starting a family.
-- While some financial advisors have asset minimums, others may charge one-time, hourly or monthly fees rather than a percentage for assets under management.
-- Advisors have different compensation models, including commission-based, fee-only, fee-based or advice-only, which doesn't include managed assets.
-- You can find a fiduciary financial advisor via directories such as the CFP Board, XY Planning Network or the National Association of Personal Financial Advisors.
-- No. The right advisory firm, if any, depends on your family's unique financial needs. You can use this list as a starting point — along with referrals — to find an expert who is well-suited for your family's needs.
-- A firm's or advisor's placement in our yearly ranking is not an endorsement from CNBC.
-Methodology: How we picked the best financial advisors for 2026
-CNBC used data analysis and editorial review to compile its eighth annual Financial Advisor 100 list.
-For 2026, CNBC and data partner AccuPoint Solutions started with 41,578 RIAs from the SEC's regulatory database. That list was culled to 1,015 firms, and finalists completed surveys to confirm key details. CNBC made an editorial review of entries, and AccuPoint used our proprietary weighted criteria to narrow down the list and rank the firms.
-Among other criteria, we weighed:
-- Advisory firm's regulatory/compliance record
-- Number of years in the business
-- Number of employees
-- Number of investment advisors registered with the firm
-- Ratio of investment advisors to the total number of employees
-- Total assets under management
-- Total accounts under management
-- Number of states where the RIA is registered
-- Country of domicile
-You can learn more by reading our FAQ.
-CNBC personal finance reporter Greg Iacurci contributed to this story.
-CNBC receives no compensation from placing financial advisory firms on our Financial Advisor 100 list. Additionally, a firm's or advisor's appearance in our ranking does not constitute an individual endorsement by CNBC of any firm or advisor.`,
-    bodyJa: `Many consumers face tough investing decisions amid rising inflation, the artificial intelligence boom and geopolitical uncertainty, among other factors that affect the stock and bond markets.
-An experienced financial advisor can help.
-But the best advisors do more than manage your portfolio. They can help craft a roadmap to meet competing goals such as saving for retirement, reducing your taxes, protecting your family, building a legacy and more.
-CNBC's Financial Advisor 100 list ranks the country's best financial advisors and top financial advisory firms. Investors can use this list as a starting point — along with referrals — to find an expert who is well-suited for their family's needs.
-To make a list of prospective advisors, always verify credentials and check for complaints via the Financial Industry Regulatory Authority's BrokerCheck or the U.S. Securities and Exchange Commission's Investment Adviser Public Disclosure. Then you can interview your short list of candidates.
-CNBC's Financial Advisor 100 list is determined through a blend of data analysis and editorial review. Firms do not apply or pay to be considered, and inclusion and ranking are based solely on the list's methodology. The list takes months to compile, with multiple steps and checks designed to ensure rigor and consistency.
-To prepare the 2026 list, CNBC worked with AccuPoint Solutions, a wealth management data and research firm specializing in advisor intelligence and industry analytics. The process started with 41,578 registered investment advisor firms, or RIAs, narrowed to 1,015 that met CNBC's requirements. These firms also passed a due diligence check, including any regulatory disclosures.
-To get more details, CNBC surveyed the finalists about their practices and fact-checked responses via publicly available resources. AccuPoint used CNBC's weighted criteria to rank the firms. Read more about the methodology below.
-For 2026, CNBC's top advisors collectively manage $329.7 billion. The firms have an average of 35 years in business.
-What is a fiduciary financial advisor?
-Finding the right financial advisor isn't easy, and there's a key question you should ask each prospect: Are you a fiduciary?
-A fiduciary financial advisor must act in the best interest of clients at all times, regardless of how it affects their compensation or profits.
-Certain financial advisors, such as RIAs, are bound by the fiduciary standard. By comparison, investment brokers must follow a suitability standard, which means recommendations must be appropriate but not always the best option for the client.
-What steps should you take when choosing a financial advisor?
-One of the first steps to finding the right financial advisor could be referrals from your colleagues, friends or family.
-You'll want to consider those candidates' credentials, including designations such as certified financial planner, or CFP; certified public accountant, or CPA; and chartered financial analyst, or CFA.
-You should also check each prospect for regulatory violations and customer complaints, known as "disclosures," via FINRA's BrokerCheck and the SEC's Investment Adviser Public Disclosure website. You can check state regulators for smaller firms.
-It's important to meet and interview prospective candidates before choosing a financial advisor. The CFP Board, which sets and enforces standards for CFP professionals, recommends 10 questions to narrow down your list:
-1. What are your qualifications and credentials?
-2. What services do you offer?
-3. Will you have a fiduciary duty to me?
-4. What is your approach to financial planning?
-5. What types of clients do you typically work with?
-6. Will you be the only advisor working with me?
-7. How will I pay for your services?
-8. How much do you typically charge?
-9. Do others stand to gain from the financial advice you give me?
-10. Have you ever been publicly disciplined for unethical or unlawful actions in your career?
-What's the difference between a fee-only financial advisor and a commission-based advisor?
-It's important to understand your financial advisor's pay structure before starting your planning engagement.
-Generally, financial advisors are fee-only, commission-based or fee-based, the latter of which is mostly fees with commissions for certain products.
-Fee-only means the advisor won't receive a commission from products. This category can include assets under management, or AUM, which is typically a set percentage each year and varies by the size of your portfolio. Fee-only may also include one-time projects, hourly fees or advice-only advisors, who don't charge AUM or receive commissions.
-Commission-based advice generally includes commissions for certain products, such as mutual funds or life insurance. It can be the lowest-cost option for advice about a specific financial product, but the guidance can present a conflict of interest in some cases.
-What are the pros and cons of using a robo-advisor vs. a human financial advisor?
-Technology continues to shape the landscape of financial advice, including robo-advisors and digital advice via artificial intelligence platforms.
-Robo-advisors use algorithms to automatically invest your money based on your risk tolerance and timeline. Typically, the cost is based on a percentage of your portfolio, or you pay a flat monthly fee.
-Some robo-advisors offer more customization and features, such as tax-loss harvesting, which uses losses to offset other portfolio gains, or automatic rebalancing.
-By comparison, human advisors can build a comprehensive financial plan — including investing, taxes, insurance, retirement planning, estate planning and more — based on your specific goals.
-In 2024, the median robo-advisor fee was about 0.25% of assets per year, according to Morningstar's latest robo-advisor report from 2025, which analyzed 16 U.S.-based platforms. To compare, it's common to pay around 1% of assets under management, or 100 basis points, for a human advisor, depending on the size of your portfolio.
-Meanwhile, do-it-yourself investors may turn to AI platforms for quick answers to their money questions. Our next section covers some of the key things to know about AI financial advice.
-What to know about AI financial advice
-As consumers embrace generative AI platforms such as ChatGPT, Claude, Copilot or Gemini, it may be tempting to tap the software for financial advice.
-Roughly 1 in 5 Americans looking for financial advice in the prior year have used AI, according to a Gallup survey conducted with financial services firm Edward Jones.
-But fewer than 30% of U.S. adults overall say they have "a great deal" or "some" confidence in AI expertise when it comes to managing money, according to the survey, which polled more than 5,000 U.S. adults in March and April.
-Before turning to AI platforms for money advice, here are some of the key things to know.
-Can AI replace a human financial advisor?
-In short, no.
-Experts say that AI is generally good at providing high-level overviews of financial topics: For example, why it's important to diversify investments, why exchange-traded funds may be better than mutual funds in some cases but not others, or the ages at which people can claim Social Security.
-However, it would be unwise to take AI's advice blindly. The technology may sound authoritative, but it can make mistakes — especially when it comes to making very specific financial calculations for one's personal situation, experts say.
-Is AI financial advice safe and accurate?
-Experts say AI can be a good starting point when learning about a particular financial topic, such as the ins and outs of Medicare. But AI can "hallucinate" — essentially, it can make up information that's inaccurate but sounds true to users.
-Surprisingly, AI isn't — yet — strong at doing financial calculations, so any numbers-based financial planning questions, such as those involving your taxes, are generally best avoided, experts said. Small differences in prompts can also lead to variation in its recommendations, research has shown.
-It's important to double- and triple-check AI's output or, for complex questions, consult with a financial advisor.
-Is an AI financial advisor a fiduciary?
-Fiduciary duty is a legal term that means an advisor must put their client's best interests ahead of their own. It's a concept that applies in other fields, too, such as medicine and law.
-Many human financial advisors — but not all of them — have a fiduciary duty. Advisors who do have a fiduciary duty and who violate that responsibility can be subject to fairly serious consequences, including regulatory penalties, civil liabilities and criminal charges.
-Generative AI platforms, such as ChatGPT and Claude, don't have a fiduciary duty, according to experts. In other words, they don't bear responsibility for output that leads to bad outcomes for users, experts said.
-Is it safe to share personal financial information with AI?
-It would be unwise to input sensitive financial information or sensitive personally identifiable information into generative AI platforms, such as ChatGPT and Claude, experts said.
-For example, it's likely not a good idea to feed your entire tax return into the algorithms, experts said. AI companies currently have no restrictions on how they can use such personal data, they said. Perhaps the biggest risk is that the companies could get hacked, potentially exposing your personal data, they said.
-Who is responsible if AI-generated financial advice is wrong?
-Legal experts say this is an unresolved issue.
-Currently, AI companies aren't responsible for giving financial advice that's in users' best interests — and therefore aren't on the hook if a user implements the advice and something goes wrong, experts said. They said it's important not to accept AI output without researching and vetting it further.
-Financial advisor FAQs
-- Many investors have competing financial goals, such as saving for retirement, funding a child's college education, paying off student loans or buying a new home.
-- A financial advisor can help clients prioritize and fund goals while answering key questions about taxes, investing, insurance, estate planning and more.
-- Paid financial advice comes in many forms, but it's not right for everyone. While some investors want hands-on guidance, others prefer to handle money decisions on their own.
-- Clients meet with their advisor periodically to discuss priorities and review progress on financial goals.
-- Generally, meetings happen at least once per year, but the cadence may vary based on complexity and the scope of the engagement.
-- Regardless of your meeting schedule, your advisor should have an open line of communication to review questions and concerns as they arise.
-- Switching financial advisors is a personal decision that could hinge on a range of factors, including your goals and expectations.
-- You may seek a new planner if your current advisor doesn't offer the expertise you need, such as complex tax or small business planning.
-- Other reasons to switch could be poor communication, missed meetings or failing to execute key elements of your financial plan.
-- Your choice between local, national or online firms may depend on your service and meeting preferences.
-- Some boutique firms refer clients to local experts, such as certified public accountants or estate planning attorneys, while national firms may have these experts on staff.
-- Ultimately, you can find personalized care from a range of firms, depending on how many households your advisor serves.
-- You could work with a single advisor or a team, depending on your planning needs and the firm's structure.
-- If you have a preference, it's a good idea to address this question while interviewing prospective advisors.
-- A registered investment advisor, or RIA, is an individual or company that provides financial advice for compensation. They are also known as financial planners or wealth managers.
-- An investment advisor representative, or IAR, is an individual who works at an RIA, managing portfolios and offering investment advice.
-- A broker buys and sells investments for an investor's account.
-- An RIA is bound by the fiduciary standard and must act in the client's best interest, while a broker must follow a suitability standard, which allows more flexibility for recommendations.
-- There are four requirements a person must meet to become a certified financial planner, or CFP: education, exam, experience and ethics.
-- These professionals must complete a CFP Board-registered program and hold a bachelor's degree before passing an exam.
-- CFP candidates also must complete 4,000 or 6,000 experience hours, depending on their pathway, and meet ongoing ethics and continuing education guidelines.
-- Before picking a financial advisor, you should verify credentials and check for regulatory violations via FINRA's BrokerCheck and the SEC's Investment Adviser Public Disclosure website.
-- One red flag is a lack of transparency about compensation, which RIAs must outline via Form ADV Part 2A.
-- Another warning sign could be an advisor who pushes products before fully understanding your goals, timeline and risk tolerance.
-- The right investing strategy will depend on your goals, risk tolerance and timeline. Common long-term goals may include saving for retirement or funding college education.
-- Many advisors also aim to reduce your lifetime tax bill with such strategies as selling profitable assets during your lower income years.
-- At retirement, advisors can help optimize streams of income, including Social Security, pensions, retirement account drawdowns and more.
-- Estate planning, which covers your wishes at death or incapacitation, is also important for investors at all income levels.
-- Typically, financial advisors who specialize in working with retirees can help with investing, portfolio distribution, Social Security, tax planning, Medicare, long-term care and estate planning, among other issues.
-- You should look for credentials such as CFP or retirement income certified professional, or RICP.
-- However, many years of experience working with retirees could outweigh credentials.
-- The right financial advisor will act as a fiduciary and consider your goals, timeline and risk tolerance before making recommendations.
-- Young professionals often have multiple financial priorities, such as beginning to invest, paying off student loans, employee benefits, buying a first home, and saving for a wedding or starting a family.
-- While some financial advisors have asset minimums, others may charge one-time, hourly or monthly fees rather than a percentage for assets under management.
-- Advisors have different compensation models, including commission-based, fee-only, fee-based or advice-only, which doesn't include managed assets.
-- You can find a fiduciary financial advisor via directories such as the CFP Board, XY Planning Network or the National Association of Personal Financial Advisors.
-- No. The right advisory firm, if any, depends on your family's unique financial needs. You can use this list as a starting point — along with referrals — to find an expert who is well-suited for your family's needs.
-- A firm's or advisor's placement in our yearly ranking is not an endorsement from CNBC.
-Methodology: How we picked the best financial advisors for 2026
-CNBC used data analysis and editorial review to compile its eighth annual Financial Advisor 100 list.
-For 2026, CNBC and data partner AccuPoint Solutions started with 41,578 RIAs from the SEC's regulatory database. That list was culled to 1,015 firms, and finalists completed surveys to confirm key details. CNBC made an editorial review of entries, and AccuPoint used our proprietary weighted criteria to narrow down the list and rank the firms.
-Among other criteria, we weighed:
-- Advisory firm's regulatory/compliance record
-- Number of years in the business
-- Number of employees
-- Number of investment advisors registered with the firm
-- Ratio of investment advisors to the total number of employees
-- Total assets under management
-- Total accounts under management
-- Number of states where the RIA is registered
-- Country of domicile
-You can learn more by reading our FAQ.
-CNBC personal finance reporter Greg Iacurci contributed to this story.
-CNBC receives no compensation from placing financial advisory firms on our Financial Advisor 100 list. Additionally, a firm's or advisor's appearance in our ranking does not constitute an individual endorsement by CNBC of any firm or advisor.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/08/best-financial-advisors.html",
-    publishedAt: "2026-10-08T10:07:13+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
   },
 ];
 
