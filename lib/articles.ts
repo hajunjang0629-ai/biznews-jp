@@ -15,6 +15,274 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "twelve-killed-and-300-injured-in-attack-aed35251",
+    title: "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+    titleJa: "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+    summaryJa: "Saudi and US officials blame the attack on Yemen's Houthis, who have not commented on the latest strike.",
+    bodyOriginal: `Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh
+- Published
+At least 12 people have been killed and 309 injured in an attack on the international airport in Riyadh, Saudi Arabia, local authorities say.
+The deaths included four Saudis, two people from Bangladesh and one person each from the US, Jordan, Palestine, Syria, Sudan and Egypt, the Saudi civil aviation authority confirmed.
+Operations at King Khalid International Airport have been suspended.
+A Saudi-led military coalition later vowed to respond to the attack, which it called a "war crime" and blamed on Yemen's Houthis.
+The Houthis have not commented on Saturday's attack but did say they were behind separate strikes on the same airport on Thursday that killed three people and damaged a plane.
+Another three people were killed in separate Houthi attacks on two different Saudi airports on 6 and 7 October.
+Saturday's attack was the deadliest in the kingdom since May 2015.
+Fighting has recently escalated between Yemen's Saudi-backed government forces and the Houthis, who are backed by Iran and control most of the country.
+As well as the strikes on Riyadh's airport, a projectile also fell near King Fahd International Airport in Dammam in eastern Saudi Arabia on Saturday, the Saudi-led coalition said.
+In Saturday's statement, the Saudi civil aviation authority said some of the injured were "in critical condition".
+It said damage to the airport was being assessed.
+An eyewitness who said they had been in the domestic terminal told the news agency that they had seen gate 401 hit and "injured [people] in front of my eyes", adding: "Everyone was running."
+More than a dozen ambulances were seen rushing to the airport, according to news agency Reuters, citing an eyewitness.
+Saudi-led coalition spokesman Maj Gen Turki al-Maliki later said the attack on one of the passenger terminals resulted in deaths and injuries among civilian passengers and airport staff.
+He described the attack as a "full-fledged war crime".
+US Secretary of State Marco Rubio strongly condemned recent attacks on Saudi Arabia as he confirmed an American citizen was killed in the strikes.
+When later asked by reporters whether the US planned to join Saudi Arabia in carrying out strikes against the Houthis, President Donald Trump said: "We may. We're going to look at it. We just found out about the recent attack, so we'll make a decision. We move very quickly."
+António Guterres, Secretary General of the United Nations, said he was "deeply shocked" by the attacks which he called a "violation of international law" that "must cease immediately".
+The attacks were also condemned by Egypt, Palestine and Qatar.
+Western embassies in Saudi Arabia warned their citizens to stay away from the Riyadh airport. The UK Foreign Office told British nationals to avoid the area "until the airport is secure".
+Several Gulf airlines said they had cancelled their flights to and from the airport, with Kuwait Airways citing the "security situation" there.
+All flights to Riyadh have either been diverted or cancelled, aviation tracker Flightradar shows.
+The Houthis say they are targeting Saudi Arabia over its support for government forces in Yemen's civil war.
+The conflict worsened after the Houthis seized strategically important stretches of the Red Sea coast in a rapid offensive.
+That included the port of Mokha on the Bab al-Mandab Strait, which is the narrowest point of the Red Sea and a chokepoint for global shipping. Yemeni pro-government forces have since said they had "secured" the strait at the southern end of the Red Sea.
+The Saudi-led coalition was formed in 2015 after Arab countries joined forces to stop the Houthis taking over Yemen from the country's internationally recognised government.
+A temporary ceasefire was brokered in 2022 after years of air strikes and ground fighting led to the deaths of hundreds of thousands of people, triggering one of the world's worst humanitarian crises.
+But the informal truce began to unravel in July.
+The Houthis announced a "maritime embargo" against Saudi Arabia and began missile and drone attacks on Saudi airports, oil facilities and tankers in the Red Sea.
+They said they were retaliating against what they described as a years-long Saudi blockade and for an air strike on the airport in Yemen's capital Sanaa, which is controlled by the Houthis.
+Related topics
+- Published1 day ago
+- Published24 September`,
+    bodyJa: `Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh
+- Published
+At least 12 people have been killed and 309 injured in an attack on the international airport in Riyadh, Saudi Arabia, local authorities say.
+The deaths included four Saudis, two people from Bangladesh and one person each from the US, Jordan, Palestine, Syria, Sudan and Egypt, the Saudi civil aviation authority confirmed.
+Operations at King Khalid International Airport have been suspended.
+A Saudi-led military coalition later vowed to respond to the attack, which it called a "war crime" and blamed on Yemen's Houthis.
+The Houthis have not commented on Saturday's attack but did say they were behind separate strikes on the same airport on Thursday that killed three people and damaged a plane.
+Another three people were killed in separate Houthi attacks on two different Saudi airports on 6 and 7 October.
+Saturday's attack was the deadliest in the kingdom since May 2015.
+Fighting has recently escalated between Yemen's Saudi-backed government forces and the Houthis, who are backed by Iran and control most of the country.
+As well as the strikes on Riyadh's airport, a projectile also fell near King Fahd International Airport in Dammam in eastern Saudi Arabia on Saturday, the Saudi-led coalition said.
+In Saturday's statement, the Saudi civil aviation authority said some of the injured were "in critical condition".
+It said damage to the airport was being assessed.
+An eyewitness who said they had been in the domestic terminal told the news agency that they had seen gate 401 hit and "injured [people] in front of my eyes", adding: "Everyone was running."
+More than a dozen ambulances were seen rushing to the airport, according to news agency Reuters, citing an eyewitness.
+Saudi-led coalition spokesman Maj Gen Turki al-Maliki later said the attack on one of the passenger terminals resulted in deaths and injuries among civilian passengers and airport staff.
+He described the attack as a "full-fledged war crime".
+US Secretary of State Marco Rubio strongly condemned recent attacks on Saudi Arabia as he confirmed an American citizen was killed in the strikes.
+When later asked by reporters whether the US planned to join Saudi Arabia in carrying out strikes against the Houthis, President Donald Trump said: "We may. We're going to look at it. We just found out about the recent attack, so we'll make a decision. We move very quickly."
+António Guterres, Secretary General of the United Nations, said he was "deeply shocked" by the attacks which he called a "violation of international law" that "must cease immediately".
+The attacks were also condemned by Egypt, Palestine and Qatar.
+Western embassies in Saudi Arabia warned their citizens to stay away from the Riyadh airport. The UK Foreign Office told British nationals to avoid the area "until the airport is secure".
+Several Gulf airlines said they had cancelled their flights to and from the airport, with Kuwait Airways citing the "security situation" there.
+All flights to Riyadh have either been diverted or cancelled, aviation tracker Flightradar shows.
+The Houthis say they are targeting Saudi Arabia over its support for government forces in Yemen's civil war.
+The conflict worsened after the Houthis seized strategically important stretches of the Red Sea coast in a rapid offensive.
+That included the port of Mokha on the Bab al-Mandab Strait, which is the narrowest point of the Red Sea and a chokepoint for global shipping. Yemeni pro-government forces have since said they had "secured" the strait at the southern end of the Red Sea.
+The Saudi-led coalition was formed in 2015 after Arab countries joined forces to stop the Houthis taking over Yemen from the country's internationally recognised government.
+A temporary ceasefire was brokered in 2022 after years of air strikes and ground fighting led to the deaths of hundreds of thousands of people, triggering one of the world's worst humanitarian crises.
+But the informal truce began to unravel in July.
+The Houthis announced a "maritime embargo" against Saudi Arabia and began missile and drone attacks on Saudi airports, oil facilities and tankers in the Red Sea.
+They said they were retaliating against what they described as a years-long Saudi blockade and for an air strike on the airport in Yemen's capital Sanaa, which is controlled by the Houthis.
+Related topics
+- Published1 day ago
+- Published24 September`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-11T03:57:22+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c68/live/40a0f7d0-c507-11f1-a64c-550be9e3c66b.jpg",
+    readTime: 10,
+  },
+  {
+    id: "four-dead-and-thousands-without-power-af-b44c0904",
+    title: "Four dead and thousands without power after Hurricane Isaias lashes US",
+    titleJa: "Four dead and thousands without power after Hurricane Isaias lashes US",
+    summaryJa: "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+    bodyOriginal: `Four dead and thousands without power after Hurricane Isaias lashes US
+- Published
+Four people have died and hundreds of thousands are without power after Hurricane Isaias battered parts of the southern US with powerful winds and heavy rain.
+Officials reported two deaths each in the states of Alabama and Florida, which included people who were killed when trees fell on their houses.
+An estimated 500,000 people in total were without power in several states as of Saturday evening, according to tracker PowerOutage.
+Isaias made landfall in Florida late on Friday with maximum sustained winds of 105mph (168km/h) before being downgraded to a post-tropical cyclone.
+The storm felled trees and ripped the roofs off buildings. Alabama, Florida and Georgia all declared states of emergency ahead of its arrival, while both Florida and Alabama issued mandatory evacuation orders to thousands of people.
+Meanwhile, Hurricane Simon is bearing down on Mexico's Pacific coast and has strengthened to category four. It is expected to make landfall sometime overnight.
+Tropical Storm Rachel, also in the Pacific Ocean, is expected to hit southern California later on Saturday.
+Two deaths related to Isaias were reported in Florida's Escambia County. A woman was killed when a tree fell on her house, local Sheriff Chip Simmons said.
+Joey Williams told NewsNation his wife had died in the storm. He said they went outside to snap pictures of the damage but, when they went back into their home, a tree fell through the roof and trapped them.
+"I was able to squeeze out. My wife didn't make it," Williams told the outlet.
+Simmons later reported that a man had died from carbon monoxide poisoning after running a generator in a garage that was not properly ventilated. Four other people who were in the same house were taken to hospital.
+Officials had to rescue people in vehicles that became submerged by floodwaters. The Florida National Guard shared pictures of a truck stuck in a flood ditch, saying soldiers "stopped, swam to the vehicle and pulled its occupants to safety".
+Florida Governor Ron DeSantis said flooding was a continued risk and warned of a "very hazardous situation".
+In neighbouring Alabama, a sheriff was injured when a tree fell on him as he was responding to a car crash.
+"Unfortunately, we have also learned that two Alabamians have lost their lives," Governor Kay Ivey said in a post on X, without giving further details on the circumstances of the deaths.
+She also said officials were concerned about "spinoff tornadoes" in the state from the strong winds and heavy rain.
+"As we approach the weekend and any travel plans, make sure you have reliable information as conditions develop," she said.
+In Charleston, South Carolina, officials asked people to stay home on Saturday night as high tide is expected to reach 7.5ft (2.3m).
+"After dark, floodwater is much harder to see and it's impossible to judge how deep it is from behind the wheel," the city said.
+The storm is expected to continue to weaken as it travels to the north-east, but the National Oceanic and Atmospheric Administration (Noaa) warned that the Carolinas and Georgia could see floods from up to 10 inches (25cm) of rainfall.
+Hurricane Isaias was the first hurricane in the Atlantic's hurricane season, which largely has been delayed due to El Niño conditions in the Pacific.
+- Published17 hours ago`,
+    bodyJa: `Four dead and thousands without power after Hurricane Isaias lashes US
+- Published
+Four people have died and hundreds of thousands are without power after Hurricane Isaias battered parts of the southern US with powerful winds and heavy rain.
+Officials reported two deaths each in the states of Alabama and Florida, which included people who were killed when trees fell on their houses.
+An estimated 500,000 people in total were without power in several states as of Saturday evening, according to tracker PowerOutage.
+Isaias made landfall in Florida late on Friday with maximum sustained winds of 105mph (168km/h) before being downgraded to a post-tropical cyclone.
+The storm felled trees and ripped the roofs off buildings. Alabama, Florida and Georgia all declared states of emergency ahead of its arrival, while both Florida and Alabama issued mandatory evacuation orders to thousands of people.
+Meanwhile, Hurricane Simon is bearing down on Mexico's Pacific coast and has strengthened to category four. It is expected to make landfall sometime overnight.
+Tropical Storm Rachel, also in the Pacific Ocean, is expected to hit southern California later on Saturday.
+Two deaths related to Isaias were reported in Florida's Escambia County. A woman was killed when a tree fell on her house, local Sheriff Chip Simmons said.
+Joey Williams told NewsNation his wife had died in the storm. He said they went outside to snap pictures of the damage but, when they went back into their home, a tree fell through the roof and trapped them.
+"I was able to squeeze out. My wife didn't make it," Williams told the outlet.
+Simmons later reported that a man had died from carbon monoxide poisoning after running a generator in a garage that was not properly ventilated. Four other people who were in the same house were taken to hospital.
+Officials had to rescue people in vehicles that became submerged by floodwaters. The Florida National Guard shared pictures of a truck stuck in a flood ditch, saying soldiers "stopped, swam to the vehicle and pulled its occupants to safety".
+Florida Governor Ron DeSantis said flooding was a continued risk and warned of a "very hazardous situation".
+In neighbouring Alabama, a sheriff was injured when a tree fell on him as he was responding to a car crash.
+"Unfortunately, we have also learned that two Alabamians have lost their lives," Governor Kay Ivey said in a post on X, without giving further details on the circumstances of the deaths.
+She also said officials were concerned about "spinoff tornadoes" in the state from the strong winds and heavy rain.
+"As we approach the weekend and any travel plans, make sure you have reliable information as conditions develop," she said.
+In Charleston, South Carolina, officials asked people to stay home on Saturday night as high tide is expected to reach 7.5ft (2.3m).
+"After dark, floodwater is much harder to see and it's impossible to judge how deep it is from behind the wheel," the city said.
+The storm is expected to continue to weaken as it travels to the north-east, but the National Oceanic and Atmospheric Administration (Noaa) warned that the Carolinas and Georgia could see floods from up to 10 inches (25cm) of rainfall.
+Hurricane Isaias was the first hurricane in the Atlantic's hurricane season, which largely has been delayed due to El Niño conditions in the Pacific.
+- Published17 hours ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-10T23:19:55+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a454/live/61dbc890-c4e3-11f1-a793-e9d00826e617.jpg",
+    readTime: 8,
+  },
+  {
+    id: "young-men-live-in-fear-of-being-snatched-1af07753",
+    title: "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+    titleJa: "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+    summaryJa: "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
+    bodyOriginal: `Young men live in fear of being snatched off the streets and sold to Myanmar's army
+- Published
+You do not stay out after dark if you're young and able-bodied in Hpa-An, the capital of Myanmar's southern Karen state. In recent months this has become conventional wisdom.
+But Zaw Min has no choice.
+"I worry, but I have to go out to work," says the 26-year-old tuk tuk driver, who asked that his real name be omitted out of fear for his safety. "My family call me all the time and remind me not to drive passengers too far; to be careful who I take as a passenger... I have to be vigilant all the time.
+"People are panicked and frightened," he explains. "Some people I know have been taken."
+Locals say plain-clothed members and supporters of the Myanmar junta have been roaming the streets of Hpa-An, arbitrarily arresting people in their teens, 20s and 30s and forcing them into military service.
+According to leaked documents seen by BBC Burmese, authorities have been ordered to aggressively fulfil the military's recruitment quotas across jurisdictions, bolstering the junta's ranks as it endures a war of attrition against ethnic militias, pro-democracy groups and civilian-led resistance movements.
+Zaw Min is the only one among his siblings who is at the age of recruitment. Many other "kids" his age have fled, he says – to Thailand, or the homes of relatives further afield. Those who remain are often under strict instructions from their parents: be home before dusk.
+Myanmar has been locked in a bloody civil war since February 2021, when its own military launched a coup d'etat and ousted democratically elected leader Aung San Suu Kyi.
+Three years later, following a string of humiliating losses, plummeting morale and soaring rates of desertion, the junta enacted a mandatory conscription law that required all men aged 18 to 35 and women aged 18 to 27 to serve at least two years under military command. Those who refuse face up to five years in prison.
+The enactment of the law "represents one of the most severe and impactful actions taken against the entire civilian population since the military coup", according to Maj Naung Yoe, military affairs official at the Myanmar Defense and Security Institute (MDSI) and a former military officer who defected and joined the anti-coup Civil Disobedience Movement.
+Hpa-An is the latest to be caught in a dragnet that's already ensnared an estimated 100,000 young recruits over the past two-and-a-half years – many of them via coercion, extortion and abductions.
+"Security forces track young people's movements to arrest them, force them into service under the pretext of statutory military eligibility, extort money through threats of detention, and arrest individuals during guest-list inspections," Naung Yoe says.
+The BBC contacted the Myanmar government's Central Body for Summoning People's Military Servants regarding incidents mentioned in this story, including the forced recruitment of conscripts and reports of abductions allegedly carried out in recent months.
+They said they had no comment on the matter.
+With the mandatory conscription law, the junta has established a human supply chain to sustain its armed forces. And it appears to have worked. Observers note that reinforcements have played a critical role in helping the regime claw back more territory. In many parts of Myanmar, the resistance is now on the back foot.
+The war, though, is far from over. And as more youths evade conscription – either to join the resistance or simply avoid armed conflict against their fellow countrymen – the junta's recruitment methods have become ever more extreme.
+International rights groups such as Amnesty International, Human Rights Watch and Fortify Rights say Myanmar's military is abducting civilians and forcing them into military service.
+In July, open-source research organisation Myanmar Witness revealed that they had analysed hundreds of missing-person advertisements collected from Facebook between 2021 and 2025.
+Researchers found that missing person notices for January rose from four in 2021, pre-coup, to 82 in 2025, post-conscription law.
+"In practice, much of [the Myanmar military's] recruitment appears to be carried out through detention, coercion, and disappearance rather than formal call-up, and often without notice to families," they concluded.
+Men and boys constituted the majority of reported missing persons.
+"They are spreading rumours all over the neighbourhood that I sold my husband."
+Ma Moe San Pan sobs the words through gulps of air. She is sitting in her kitchen, at home in Yangon, where on the morning of 8 May 2025 she saw her 33-year-old husband Phyo Wai for the last time.
+"We had an argument, and afterwards he left home," she recalls."I was upset and told my cousin about what had happened."
+Ma Moe San Pan's cousin worked at the local ward administration office, and she asked him to bring her husband back. It was two days later that Phyo Wai called her, from a military recruitment centre on the other side of the city.
+The cousin had taken him to the ward office which had sold him on to another ward for 4 million kyats ($900; £680) to fill that ward's recruitment quota, Ma Moe San Pan says. The BBC was unable to reach Ma Moe San Pan's cousin.
+In a desperate attempt to bring him back, Ma Moe San Pan was then scammed out of 4.5 million kyats by strangers who falsely promised his release.
+U Maung Maung Lwin, the administrator of the ward to which Phyo Wai was taken, later admitted to the BBC that he had played a role in sending him to the military recruitment authorities.
+When asked about allegations that individuals were being conscripted outside their home township, he said transfers from other townships do occur when local quotas cannot be met.
+But he denied that any money was involved in such cases, or in Phyo Wai's forced conscription.
+"[Phyo Wai] told me they said they would help him and made him sign documents," Ma Moe San Pan recalls.
+"If my husband had been legally selected for conscription through the normal process, I could have accepted that. What I cannot accept is that our own ward administration office allegedly sold him to another ward.
+"I also regret placing my trust in my cousin."
+In the time since Phyo Wai was taken, Ma Moe San Pan has filed police complaints relating to two matters: the sale of her husband into military service, and the 4.5 million kyats she lost to scammers.
+The police accepted her complaint, she says, but refused her request to include human trafficking charges, claiming a human trafficking case could only be registered if a person had been sold abroad.
+She does not know where her husband is now.
+Ma Moe San Pan's case highlights a grim mutation of the junta's mandatory conscription laws: mounting pressure from the higher levels of the regime has created perverse incentives further down the chain of command.
+Surging demand and dwindling supply have fuelled an illicit market for eligible recruits. And with money on the table, security officials have taken to arresting youth at road checkpoints, tracking and ambushing workers during their daily commutes, setting traps via fake job advertisements, and forcibly entering people's homes, Naung Yoe says.
+"Under the guise of the conscription law, these coercive arrests and recruitment drives have effectively transformed into a modern-day slavery and human trafficking enterprise."
+In late August, police in Yangon arrested a member of the Fire Services Department – a branch of the home affairs ministry – and his son-in-law for abducting four young men with the intention of selling them for military conscription.
+The reserve fire brigade unit commander allegedly deceived the men with promises of employment opportunities, luring them to his house and trapping them in a series of purpose-built detention rooms. Police officers raided the residence and arrested him on 25 August. He has since been charged with kidnapping or abducting in order to wrongfully confine a person, and faces up to 7 years in prison.
+BBC Burmese made several attempts to contact the police station where he is being held, but was unsuccessful.
+"Lower-level administrative bodies, military personnel and local criminal gangs employ diverse tactics to press-gang and arrest young people," Naung Yoe says.
+"They sell these individuals to military units and regional commands facing manpower shortages, or traffic substitute recruits on behalf of wealthier individuals seeking to buy their way out of service."
+While conscription orders are indiscriminate on paper – demanding a quota of recruits from each village, ward, or township proportional to its population – wealthier conscripts can simply pay to dodge the draft and be replaced by someone more financially vulnerable.
+So it is the poor who disproportionately bear the burden.
+Naung Yoe, meanwhile, told the BBC that "these practices are escalating due to increasing difficulties in meeting monthly recruitment quotas and the lucrative financial profits made from recruit trading at the ground level".
+But the hardening fist of forced conscription also reveals the junta's empty hand, and its desperation for manpower.
+It "seems to be another step in the junta's efforts to enlist unwilling youth in a conflict that underscores its embattled position in the civil war" says Dr Sandeep Singh, a research fellow who teaches military studies at the National University of Singapore.
+The climate surrounding routine abductions, he adds, has "generated further difficulties on the youth of Myanmar, already affected by years of civil war, and their families".
+In addition to the daily anxiety of life in Myanmar, many would-be recruits now fear being forced to fight in a deadly conflict that they not only don't believe in, but actively oppose. This constant threat has fuelled massive internal displacement and severe labour shortages in an already flailing economy, and sent people fleeing to neighbouring countries.
+Having spent more than half a decade waging war against its own population, the junta is now wielding the conscription law as yet another tool of subjugation, observers say.
+As the MDSI put it in a statement published in June: "The generals have benefited by using military law to make the citizens fight against each other."
+- Published14 January
+- Published20 December 2024`,
+    bodyJa: `Young men live in fear of being snatched off the streets and sold to Myanmar's army
+- Published
+You do not stay out after dark if you're young and able-bodied in Hpa-An, the capital of Myanmar's southern Karen state. In recent months this has become conventional wisdom.
+But Zaw Min has no choice.
+"I worry, but I have to go out to work," says the 26-year-old tuk tuk driver, who asked that his real name be omitted out of fear for his safety. "My family call me all the time and remind me not to drive passengers too far; to be careful who I take as a passenger... I have to be vigilant all the time.
+"People are panicked and frightened," he explains. "Some people I know have been taken."
+Locals say plain-clothed members and supporters of the Myanmar junta have been roaming the streets of Hpa-An, arbitrarily arresting people in their teens, 20s and 30s and forcing them into military service.
+According to leaked documents seen by BBC Burmese, authorities have been ordered to aggressively fulfil the military's recruitment quotas across jurisdictions, bolstering the junta's ranks as it endures a war of attrition against ethnic militias, pro-democracy groups and civilian-led resistance movements.
+Zaw Min is the only one among his siblings who is at the age of recruitment. Many other "kids" his age have fled, he says – to Thailand, or the homes of relatives further afield. Those who remain are often under strict instructions from their parents: be home before dusk.
+Myanmar has been locked in a bloody civil war since February 2021, when its own military launched a coup d'etat and ousted democratically elected leader Aung San Suu Kyi.
+Three years later, following a string of humiliating losses, plummeting morale and soaring rates of desertion, the junta enacted a mandatory conscription law that required all men aged 18 to 35 and women aged 18 to 27 to serve at least two years under military command. Those who refuse face up to five years in prison.
+The enactment of the law "represents one of the most severe and impactful actions taken against the entire civilian population since the military coup", according to Maj Naung Yoe, military affairs official at the Myanmar Defense and Security Institute (MDSI) and a former military officer who defected and joined the anti-coup Civil Disobedience Movement.
+Hpa-An is the latest to be caught in a dragnet that's already ensnared an estimated 100,000 young recruits over the past two-and-a-half years – many of them via coercion, extortion and abductions.
+"Security forces track young people's movements to arrest them, force them into service under the pretext of statutory military eligibility, extort money through threats of detention, and arrest individuals during guest-list inspections," Naung Yoe says.
+The BBC contacted the Myanmar government's Central Body for Summoning People's Military Servants regarding incidents mentioned in this story, including the forced recruitment of conscripts and reports of abductions allegedly carried out in recent months.
+They said they had no comment on the matter.
+With the mandatory conscription law, the junta has established a human supply chain to sustain its armed forces. And it appears to have worked. Observers note that reinforcements have played a critical role in helping the regime claw back more territory. In many parts of Myanmar, the resistance is now on the back foot.
+The war, though, is far from over. And as more youths evade conscription – either to join the resistance or simply avoid armed conflict against their fellow countrymen – the junta's recruitment methods have become ever more extreme.
+International rights groups such as Amnesty International, Human Rights Watch and Fortify Rights say Myanmar's military is abducting civilians and forcing them into military service.
+In July, open-source research organisation Myanmar Witness revealed that they had analysed hundreds of missing-person advertisements collected from Facebook between 2021 and 2025.
+Researchers found that missing person notices for January rose from four in 2021, pre-coup, to 82 in 2025, post-conscription law.
+"In practice, much of [the Myanmar military's] recruitment appears to be carried out through detention, coercion, and disappearance rather than formal call-up, and often without notice to families," they concluded.
+Men and boys constituted the majority of reported missing persons.
+"They are spreading rumours all over the neighbourhood that I sold my husband."
+Ma Moe San Pan sobs the words through gulps of air. She is sitting in her kitchen, at home in Yangon, where on the morning of 8 May 2025 she saw her 33-year-old husband Phyo Wai for the last time.
+"We had an argument, and afterwards he left home," she recalls."I was upset and told my cousin about what had happened."
+Ma Moe San Pan's cousin worked at the local ward administration office, and she asked him to bring her husband back. It was two days later that Phyo Wai called her, from a military recruitment centre on the other side of the city.
+The cousin had taken him to the ward office which had sold him on to another ward for 4 million kyats ($900; £680) to fill that ward's recruitment quota, Ma Moe San Pan says. The BBC was unable to reach Ma Moe San Pan's cousin.
+In a desperate attempt to bring him back, Ma Moe San Pan was then scammed out of 4.5 million kyats by strangers who falsely promised his release.
+U Maung Maung Lwin, the administrator of the ward to which Phyo Wai was taken, later admitted to the BBC that he had played a role in sending him to the military recruitment authorities.
+When asked about allegations that individuals were being conscripted outside their home township, he said transfers from other townships do occur when local quotas cannot be met.
+But he denied that any money was involved in such cases, or in Phyo Wai's forced conscription.
+"[Phyo Wai] told me they said they would help him and made him sign documents," Ma Moe San Pan recalls.
+"If my husband had been legally selected for conscription through the normal process, I could have accepted that. What I cannot accept is that our own ward administration office allegedly sold him to another ward.
+"I also regret placing my trust in my cousin."
+In the time since Phyo Wai was taken, Ma Moe San Pan has filed police complaints relating to two matters: the sale of her husband into military service, and the 4.5 million kyats she lost to scammers.
+The police accepted her complaint, she says, but refused her request to include human trafficking charges, claiming a human trafficking case could only be registered if a person had been sold abroad.
+She does not know where her husband is now.
+Ma Moe San Pan's case highlights a grim mutation of the junta's mandatory conscription laws: mounting pressure from the higher levels of the regime has created perverse incentives further down the chain of command.
+Surging demand and dwindling supply have fuelled an illicit market for eligible recruits. And with money on the table, security officials have taken to arresting youth at road checkpoints, tracking and ambushing workers during their daily commutes, setting traps via fake job advertisements, and forcibly entering people's homes, Naung Yoe says.
+"Under the guise of the conscription law, these coercive arrests and recruitment drives have effectively transformed into a modern-day slavery and human trafficking enterprise."
+In late August, police in Yangon arrested a member of the Fire Services Department – a branch of the home affairs ministry – and his son-in-law for abducting four young men with the intention of selling them for military conscription.
+The reserve fire brigade unit commander allegedly deceived the men with promises of employment opportunities, luring them to his house and trapping them in a series of purpose-built detention rooms. Police officers raided the residence and arrested him on 25 August. He has since been charged with kidnapping or abducting in order to wrongfully confine a person, and faces up to 7 years in prison.
+BBC Burmese made several attempts to contact the police station where he is being held, but was unsuccessful.
+"Lower-level administrative bodies, military personnel and local criminal gangs employ diverse tactics to press-gang and arrest young people," Naung Yoe says.
+"They sell these individuals to military units and regional commands facing manpower shortages, or traffic substitute recruits on behalf of wealthier individuals seeking to buy their way out of service."
+While conscription orders are indiscriminate on paper – demanding a quota of recruits from each village, ward, or township proportional to its population – wealthier conscripts can simply pay to dodge the draft and be replaced by someone more financially vulnerable.
+So it is the poor who disproportionately bear the burden.
+Naung Yoe, meanwhile, told the BBC that "these practices are escalating due to increasing difficulties in meeting monthly recruitment quotas and the lucrative financial profits made from recruit trading at the ground level".
+But the hardening fist of forced conscription also reveals the junta's empty hand, and its desperation for manpower.
+It "seems to be another step in the junta's efforts to enlist unwilling youth in a conflict that underscores its embattled position in the civil war" says Dr Sandeep Singh, a research fellow who teaches military studies at the National University of Singapore.
+The climate surrounding routine abductions, he adds, has "generated further difficulties on the youth of Myanmar, already affected by years of civil war, and their families".
+In addition to the daily anxiety of life in Myanmar, many would-be recruits now fear being forced to fight in a deadly conflict that they not only don't believe in, but actively oppose. This constant threat has fuelled massive internal displacement and severe labour shortages in an already flailing economy, and sent people fleeing to neighbouring countries.
+Having spent more than half a decade waging war against its own population, the junta is now wielding the conscription law as yet another tool of subjugation, observers say.
+As the MDSI put it in a statement published in June: "The generals have benefited by using military law to make the citizens fight against each other."
+- Published14 January
+- Published20 December 2024`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-10T22:13:08+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6204/live/aaaf6ea0-c21d-11f1-b7d8-6f930589c871.jpg",
+    readTime: 10,
+  },
+  {
     id: "microsoft-s-nadella-says-ai-needs-an-eme-d94bace5",
     title: "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
     titleJa: "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
@@ -161,6 +429,72 @@ Since the war broke out in 2022 Ukraine has been under martial law, meaning elec
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99c5/live/3203eb90-c4d2-11f1-a64c-550be9e3c66b.jpg",
     readTime: 10,
+  },
+  {
+    id: "us-murderer-christa-pike-discharged-from-9f282d40",
+    title: "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+    titleJa: "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+    summaryJa: "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+    bodyOriginal: `US murderer Christa Pike discharged from hospital 10 days after failed execution
+- Published
+US death row inmate Christa Pike has been discharged from hospital following her botched execution at the end of last month, her lawyers have said.
+Pike, 50, has been sent back to the prison where she has spent the last 30 years and is continuing to receive medical care, according to a statement from her lawyers on Saturday.
+She survived two lethal injections of the drug pentobarbital on 30 September, which left her in a critical condition.
+Pike regained consciousness earlier this week and began speaking - stunning experts, medical staff and her lawyers.
+Her case is now in uncharted territory as she is thought to be the only person to have survived an execution attempt by lethal injection.
+I've seen nearly 500 executions - but never one like Christa Pike's
+- Published2 October
+What happened in Christa Pike's failed US execution, and how did she survive?
+- Published2 days ago
+Pike's lawyers said in their statement that she was "grateful to the first responders and her medical team for their care in these extraordinary circumstances".
+It is unclear what medical care Pike is receiving now that she is back in prison but her lawyers previously said she faced a "long road to recovery".
+The Tennessee Department of Correction is yet to say why the execution did not go as planned, though it has defended the method it used.
+At a court hearing on Wednesday, Tennessee Assistant Attorney General Will Ayers told the judge he did not know whether the state intends to try to execute her again.
+The judge ordered the state to preserve all evidence related to the failed injections. That evidence could lay the groundwork for a future lawsuit against the state.
+Pike was 18 when she and her then-boyfriend, Tadaryl Shipp, beat, tortured and killed 19-year-old Colleen Slemmer, whom they had met at a job training camp for low-income young people.
+Shipp was spared the death penalty because he was not legally an adult when the crime was committed. He remains in prison.
+Pike was the first woman scheduled to be executed in the state of Tennessee in over 200 years.
+Her lawyers have spent decades appealing her case. In the days leading up to her scheduled execution, both the US Supreme Court and Tennessee Governor Bill Lee declined to block the execution.
+Since it failed, Pike's lawyers have renewed their calls for her sentence to be commuted to life in prison without the possibility of parole.
+Pike lost consciousness and was taken to a local hospital following her botched execution. Her legal team believed for days that she was brain dead and expected her to be taken off life support at any moment.
+Pike eventually woke up and began talking again on Tuesday - her lawyer Randy Spivey said her first words were "Where am I?" and "Who are you?"
+At a press conference on Wednesday, her lawyers said she was shackled to the bed and suffering from pneumonia and significant swelling on her arms, while also being unable to swallow.
+"We don't know the toll all of this will take" Spivey said of her mental health, adding that Pike felt "angry and confused".
+Related topics
+- Published2 days ago`,
+    bodyJa: `US murderer Christa Pike discharged from hospital 10 days after failed execution
+- Published
+US death row inmate Christa Pike has been discharged from hospital following her botched execution at the end of last month, her lawyers have said.
+Pike, 50, has been sent back to the prison where she has spent the last 30 years and is continuing to receive medical care, according to a statement from her lawyers on Saturday.
+She survived two lethal injections of the drug pentobarbital on 30 September, which left her in a critical condition.
+Pike regained consciousness earlier this week and began speaking - stunning experts, medical staff and her lawyers.
+Her case is now in uncharted territory as she is thought to be the only person to have survived an execution attempt by lethal injection.
+I've seen nearly 500 executions - but never one like Christa Pike's
+- Published2 October
+What happened in Christa Pike's failed US execution, and how did she survive?
+- Published2 days ago
+Pike's lawyers said in their statement that she was "grateful to the first responders and her medical team for their care in these extraordinary circumstances".
+It is unclear what medical care Pike is receiving now that she is back in prison but her lawyers previously said she faced a "long road to recovery".
+The Tennessee Department of Correction is yet to say why the execution did not go as planned, though it has defended the method it used.
+At a court hearing on Wednesday, Tennessee Assistant Attorney General Will Ayers told the judge he did not know whether the state intends to try to execute her again.
+The judge ordered the state to preserve all evidence related to the failed injections. That evidence could lay the groundwork for a future lawsuit against the state.
+Pike was 18 when she and her then-boyfriend, Tadaryl Shipp, beat, tortured and killed 19-year-old Colleen Slemmer, whom they had met at a job training camp for low-income young people.
+Shipp was spared the death penalty because he was not legally an adult when the crime was committed. He remains in prison.
+Pike was the first woman scheduled to be executed in the state of Tennessee in over 200 years.
+Her lawyers have spent decades appealing her case. In the days leading up to her scheduled execution, both the US Supreme Court and Tennessee Governor Bill Lee declined to block the execution.
+Since it failed, Pike's lawyers have renewed their calls for her sentence to be commuted to life in prison without the possibility of parole.
+Pike lost consciousness and was taken to a local hospital following her botched execution. Her legal team believed for days that she was brain dead and expected her to be taken off life support at any moment.
+Pike eventually woke up and began talking again on Tuesday - her lawyer Randy Spivey said her first words were "Where am I?" and "Who are you?"
+At a press conference on Wednesday, her lawyers said she was shackled to the bed and suffering from pneumonia and significant swelling on her arms, while also being unable to swallow.
+"We don't know the toll all of this will take" Spivey said of her mental health, adding that Pike felt "angry and confused".
+Related topics
+- Published2 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-10T17:44:26+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ed/live/df926130-c4d0-11f1-bc2e-018d645d8d21.jpg",
+    readTime: 8,
   },
   {
     id: "vance-says-microsoft-replaced-laid-off-w-c53a3566",
@@ -1843,160 +2177,6 @@ CNBC receives no compensation from placing financial advisory firms on our Finan
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-31884893",
     readTime: 2,
-  },
-  {
-    id: "pilot-killed-in-attacks-by-iran-backed-h-ac888820",
-    title: "Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response",
-    titleJa: "Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response",
-    summaryJa: "Two attacks were launched on Saudi Arabia's King Khalid International Airport Thursday, officials said.",
-    bodyOriginal: `Three Saudi nationals, including a pilot, were killed in attacks on a Riyadh international airport by Iran-backed Houthi militants on Thursday, Saudi Arabia's civil aviation authority said.
-In a statement posted on X Friday, the Saudi Arabian General Authority of Civil Aviation (GACA) said the deaths were caused by two attacks on the capital's King Khalid International Airport the previous day.
-The first attack, officials said, targeted the airport's facilities, while the second aimed at an aircraft belonging to Saudi carrier Saudia.
-Saudia said in a separate statement on Friday that Captain Hamoud Ali Alkalthami was killed in the strikes.
-Yemen's Houthis, a militant group backed by Tehran, claimed the attacks.
-In a separate statement, the Saudi-led coalition fighting the Houthis said on Friday that it would respond firmly to the militants' recent attacks, after confirming the destruction of three missile launchers used by the group.
-"Houthi attacks on civilians and civilian infrastructure will be met with a firm response," Major General Turki al-Malki, the spokesperson of the coalition, said in a statement.
-Houthi attacks spark flight cancelations
-Hundreds of flights out of Saudi Arabia were cancelled Thursday, according to data from Cirium. By Thursday evening, 31 flights due to depart the following day had been canceled, the data showed.
-However, the GACA said Friday that airport operations and air traffic had now returned to normal.
-News agency Reuters reported Thursday that France and Saudi Arabia were exploring ways for the French military to help protect the Yanbu oil terminal on Saudi Arabia's Red Sea coast.
-Thursday's attacks were the latest in a series of escalations, as the Houthis stepped up their campaign on Riyadh.
-Last month, smoke was seen near Riyadh's main airport as the Houthis claimed to have targeted "sensitive" sites in the city.
-Saudi Arabia has backed Yemen's internationally recognized government in the country's civil war. The civil war has reignited in recent weeks amid the U.S.-Iran war.
-On Monday, Turkey and Pakistan agreed they would help Saudi Arabia implement "deterrence measures" and deploy forces to support Yemen's counterattacks on the Houthis. It came after Yemeni forces reclaimed a key Red Sea port city from the rebel group.
-U.S. attacks on Iran postponed
-Elsewhere, U.S. President Donald Trump said Thursday that the U.S. would not launch attacks on Iran until after the American midterm elections. Voters will go to the polls on Nov. 3.
-The president also said Thursday that Washington was having "productive discussions" with Tehran, according to Reuters.
-"On the Iranian side, Foreign Minister Abbas Araghchi said they were reviewing a US proposal and would respond to it in the next few days, according to Iran's Tasnim news agency," Deutsche Bank's Jim Reid said in a Friday morning note.
-"So both sides acknowledged that talks were happening, which took some of the pressure off oil prices into the close. Yet even with that, the negative headlines still won out yesterday, and it was clear investors were pricing a longer period of disruption into next year."
-Oil prices fell after Trump's comments on Thursday, with futures extending their decline into Friday morning.
-Front-month Brent crude oil futures were last seen 1.3% lower at $102.94 a barrel. U.S. West Texas Intermediate futures were last seen 1% lower at $90.51 per barrel.`,
-    bodyJa: `Three Saudi nationals, including a pilot, were killed in attacks on a Riyadh international airport by Iran-backed Houthi militants on Thursday, Saudi Arabia's civil aviation authority said.
-In a statement posted on X Friday, the Saudi Arabian General Authority of Civil Aviation (GACA) said the deaths were caused by two attacks on the capital's King Khalid International Airport the previous day.
-The first attack, officials said, targeted the airport's facilities, while the second aimed at an aircraft belonging to Saudi carrier Saudia.
-Saudia said in a separate statement on Friday that Captain Hamoud Ali Alkalthami was killed in the strikes.
-Yemen's Houthis, a militant group backed by Tehran, claimed the attacks.
-In a separate statement, the Saudi-led coalition fighting the Houthis said on Friday that it would respond firmly to the militants' recent attacks, after confirming the destruction of three missile launchers used by the group.
-"Houthi attacks on civilians and civilian infrastructure will be met with a firm response," Major General Turki al-Malki, the spokesperson of the coalition, said in a statement.
-Houthi attacks spark flight cancelations
-Hundreds of flights out of Saudi Arabia were cancelled Thursday, according to data from Cirium. By Thursday evening, 31 flights due to depart the following day had been canceled, the data showed.
-However, the GACA said Friday that airport operations and air traffic had now returned to normal.
-News agency Reuters reported Thursday that France and Saudi Arabia were exploring ways for the French military to help protect the Yanbu oil terminal on Saudi Arabia's Red Sea coast.
-Thursday's attacks were the latest in a series of escalations, as the Houthis stepped up their campaign on Riyadh.
-Last month, smoke was seen near Riyadh's main airport as the Houthis claimed to have targeted "sensitive" sites in the city.
-Saudi Arabia has backed Yemen's internationally recognized government in the country's civil war. The civil war has reignited in recent weeks amid the U.S.-Iran war.
-On Monday, Turkey and Pakistan agreed they would help Saudi Arabia implement "deterrence measures" and deploy forces to support Yemen's counterattacks on the Houthis. It came after Yemeni forces reclaimed a key Red Sea port city from the rebel group.
-U.S. attacks on Iran postponed
-Elsewhere, U.S. President Donald Trump said Thursday that the U.S. would not launch attacks on Iran until after the American midterm elections. Voters will go to the polls on Nov. 3.
-The president also said Thursday that Washington was having "productive discussions" with Tehran, according to Reuters.
-"On the Iranian side, Foreign Minister Abbas Araghchi said they were reviewing a US proposal and would respond to it in the next few days, according to Iran's Tasnim news agency," Deutsche Bank's Jim Reid said in a Friday morning note.
-"So both sides acknowledged that talks were happening, which took some of the pressure off oil prices into the close. Yet even with that, the negative headlines still won out yesterday, and it was clear investors were pricing a longer period of disruption into next year."
-Oil prices fell after Trump's comments on Thursday, with futures extending their decline into Friday morning.
-Front-month Brent crude oil futures were last seen 1.3% lower at $102.94 a barrel. U.S. West Texas Intermediate futures were last seen 1% lower at $90.51 per barrel.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/09/saudi-us-iran-war-trump-hormuz.html",
-    publishedAt: "2026-10-09T11:51:11+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "aging-bull-why-this-4-year-old-stock-mar-3f35cf15",
-    title: "Aging bull: Why this 4-year-old stock-market rally still packs a punch",
-    titleJa: "Aging bull: Why this 4-year-old stock-market rally still packs a punch",
-    summaryJa: "History shows bull markets that get past their fourth year rarely throw in the towel, according to Truist Advisory Services.",
-    bodyOriginal: `History shows bull markets that get past their fourth year rarely throw in the towel, according to Truist Advisory Services.`,
-    bodyJa: `History shows bull markets that get past their fourth year rarely throw in the towel, according to Truist Advisory Services.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/aging-bull-why-the-four-year-old-stock-market-rally-can-still-pack-a-punch-d1271631?mod=mw_rss_topstories",
-    publishedAt: "2026-10-09T11:41:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-581639",
-    readTime: 2,
-  },
-  {
-    id: "south-africa-lawyer-navi-pillay-wins-nob-27d72c5a",
-    title: "South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes, genocide",
-    titleJa: "South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes, genocide",
-    summaryJa: "Navanethem \"Navi\" Pillay was awarded the Nobel Peace Prize on Friday for her work promoting peace and international law.",
-    bodyOriginal: `Former International Criminal Court judge Navanethem "Navi" Pillay was awarded the Nobel Peace Prize on Friday for her work promoting peace and international law.
-Pillay has been instrumental in ensuring that war crimes, crimes against humanity and genocide are prosecuted, said Jørgen Watne Frydnes, chair of the Norwegian Nobel Committee.
-Born into a family of Indian Tamil origin under apartheid in Durban, South Africa, Pillay has served as a judge on the High Court in South Africa, the International Criminal Tribunal for Rwanda and the International Criminal Court.
-She served as UN High Commissioner for Human Rights from 2008 to 2014.
-"Navi Pillay has been at the forefront of the development of international law for decades," said Frydnes as he announced this year's laureate.
-"From her involvement of standing and supporting Nelson Mandela and the prisoners of Robben Island to her being a key in all the major international court cases of our time."
-Frydnes said the committee hadn't yet been able to reach "courageous" Pillay to notify her of the award she has been given.
-"My message to her would be 'if you see a Norwegian number calling, please pick up'," he told reporters from Oslo.
-Controversies
-The award is given each year to a person or institution that has "done the most or the best work for fraternity between nations," as per the will of Swedish inventor Alfred Nobel. The winner is selected by a committee elected by the Norwegian Parliament.
-Last year's laureate was Venezuelan opposition leader Marina Corina Machado, awarded for her work promoting democratic rights in the country. Machado later gave her prize to President Donald Trump in what some had described as an attempt to influence his efforts to shape Venezuela's future. Norwegian Nobel Institute said the prize cannot be revoked, shared, or transferred to others.
-Trump had openly campaigned for the coveted prize before it was awarded to Machado, and on Wednesday made a fresh bid for it, claiming he had settled eight wars.
-Earlier this year, Trump linked his aggressive push to take control of Greenland to being snubbed for the Nobel Peace Prize.
-Earlier peace laureates include the Japanese anti-nuclear weapons organization Nihon Hidankyo, Maria Ressa and Dmitry Andreyevich Muratov for their efforts to safeguard freedom of expression in the Philippines and Russia, and former U.S. president Barack Obama.
-In 2026, laureates receive 12 million Swedish crowns ($1.2 million).`,
-    bodyJa: `Former International Criminal Court judge Navanethem "Navi" Pillay was awarded the Nobel Peace Prize on Friday for her work promoting peace and international law.
-Pillay has been instrumental in ensuring that war crimes, crimes against humanity and genocide are prosecuted, said Jørgen Watne Frydnes, chair of the Norwegian Nobel Committee.
-Born into a family of Indian Tamil origin under apartheid in Durban, South Africa, Pillay has served as a judge on the High Court in South Africa, the International Criminal Tribunal for Rwanda and the International Criminal Court.
-She served as UN High Commissioner for Human Rights from 2008 to 2014.
-"Navi Pillay has been at the forefront of the development of international law for decades," said Frydnes as he announced this year's laureate.
-"From her involvement of standing and supporting Nelson Mandela and the prisoners of Robben Island to her being a key in all the major international court cases of our time."
-Frydnes said the committee hadn't yet been able to reach "courageous" Pillay to notify her of the award she has been given.
-"My message to her would be 'if you see a Norwegian number calling, please pick up'," he told reporters from Oslo.
-Controversies
-The award is given each year to a person or institution that has "done the most or the best work for fraternity between nations," as per the will of Swedish inventor Alfred Nobel. The winner is selected by a committee elected by the Norwegian Parliament.
-Last year's laureate was Venezuelan opposition leader Marina Corina Machado, awarded for her work promoting democratic rights in the country. Machado later gave her prize to President Donald Trump in what some had described as an attempt to influence his efforts to shape Venezuela's future. Norwegian Nobel Institute said the prize cannot be revoked, shared, or transferred to others.
-Trump had openly campaigned for the coveted prize before it was awarded to Machado, and on Wednesday made a fresh bid for it, claiming he had settled eight wars.
-Earlier this year, Trump linked his aggressive push to take control of Greenland to being snubbed for the Nobel Peace Prize.
-Earlier peace laureates include the Japanese anti-nuclear weapons organization Nihon Hidankyo, Maria Ressa and Dmitry Andreyevich Muratov for their efforts to safeguard freedom of expression in the Philippines and Russia, and former U.S. president Barack Obama.
-In 2026, laureates receive 12 million Swedish crowns ($1.2 million).`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html",
-    publishedAt: "2026-10-09T11:11:55+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "india-calls-jd-vance-s-comments-about-im-847ba665",
-    title: "India calls JD Vance's comments about immigrants 'deeply offensive'",
-    titleJa: "India calls JD Vance's comments about immigrants 'deeply offensive'",
-    summaryJa: "India calls comments of U.S. Vice President J.D. Vance about immigrants from the country \"deeply offensive.\"",
-    bodyOriginal: `India called comments by U.S. Vice President J.D. Vance about immigrants from the country "deeply offensive" in an official government statement published on Friday.
-Vance said on Thursday that the Trump administration wants foreign and local companies to "employ American workers," and that they "cannot lay off American workers and then replace them with foreign indentured servants."
-He was speaking as the U.S. Department of Labor announced it would suspend Microsoft, Adobe and several major Indian information technology companies from its Permanent Labor Certification program, meaning they cannot apply for permanent residency for their employees on H-1 B visas.
-Around 70% of H-1B beneficiaries in 2025 were born in India, per official data.
-In a statement on Friday, India's Ministry of External Affairs accused Vance of using "terminology that carries painful historical and colonial legacy connotations."
-"Such descriptions are unwarranted and ignore the fact that Indian professionals in the United States are highly educated and skilled contributors to its economy and innovation ecosystem," the statement said.
-Vance's office did not immediately respond to a comment request from CNBC.
-Vance was critical of Microsoft, accusing the company of replacing 6,000 laid-off workers with people on H-1B visas.
-The Indian foreign ministry assured its citizens that measures announced by the U.S. will not affect the validity of existing H-1B visas or the status of H-1B visa holders and their dependents.
-"Talent mobility adds value to both economies," the statement said, adding that the suspensions "do not advance the shared ambitions of both countries."
-More hiring in the U.S.
-The Indian companies affected by the ban include Cognizant, Infosys, Capgemini, Tata Consultancy Services, Wipro and HCL.
-NASSCOM, the IT industry body, said in a statement that Indian technology companies have "significantly reduced their dependence on H-1B visas" over the last few years, and are expanding domestic hiring to their U.S. workforces.
-The largest Indian IT company, Tata Consultancy Services, said its H-1B applications were in "single digits" in the last two years, and it intends to hire another 15,000 people in the U.S. over the next five years.
-In June, a federal judge blocked the $100,000 H-1B visa fee U.S. President Donald Trump imposed last year.`,
-    bodyJa: `India called comments by U.S. Vice President J.D. Vance about immigrants from the country "deeply offensive" in an official government statement published on Friday.
-Vance said on Thursday that the Trump administration wants foreign and local companies to "employ American workers," and that they "cannot lay off American workers and then replace them with foreign indentured servants."
-He was speaking as the U.S. Department of Labor announced it would suspend Microsoft, Adobe and several major Indian information technology companies from its Permanent Labor Certification program, meaning they cannot apply for permanent residency for their employees on H-1 B visas.
-Around 70% of H-1B beneficiaries in 2025 were born in India, per official data.
-In a statement on Friday, India's Ministry of External Affairs accused Vance of using "terminology that carries painful historical and colonial legacy connotations."
-"Such descriptions are unwarranted and ignore the fact that Indian professionals in the United States are highly educated and skilled contributors to its economy and innovation ecosystem," the statement said.
-Vance's office did not immediately respond to a comment request from CNBC.
-Vance was critical of Microsoft, accusing the company of replacing 6,000 laid-off workers with people on H-1B visas.
-The Indian foreign ministry assured its citizens that measures announced by the U.S. will not affect the validity of existing H-1B visas or the status of H-1B visa holders and their dependents.
-"Talent mobility adds value to both economies," the statement said, adding that the suspensions "do not advance the shared ambitions of both countries."
-More hiring in the U.S.
-The Indian companies affected by the ban include Cognizant, Infosys, Capgemini, Tata Consultancy Services, Wipro and HCL.
-NASSCOM, the IT industry body, said in a statement that Indian technology companies have "significantly reduced their dependence on H-1B visas" over the last few years, and are expanding domestic hiring to their U.S. workforces.
-The largest Indian IT company, Tata Consultancy Services, said its H-1B applications were in "single digits" in the last two years, and it intends to hire another 15,000 people in the U.S. over the next five years.
-In June, a federal judge blocked the $100,000 H-1B visa fee U.S. President Donald Trump imposed last year.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/09/india-us-immigration-h1b-visa.html",
-    publishedAt: "2026-10-09T10:38:15+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 6,
   },
 ];
 
