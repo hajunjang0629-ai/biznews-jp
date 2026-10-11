@@ -15,6 +15,390 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "pope-leo-to-have-surgery-after-lump-foun-03457503",
+    title: "Pope Leo to have surgery after lump found on lung",
+    titleJa: "Pope Leo to have surgery after lump found on lung",
+    summaryJa: "Pope Leo to have surgery after lump found on lung- Published",
+    bodyOriginal: `Pope Leo to have surgery after lump found on lung
+- Published
+Pope Leo XIV has announced he will be operated "in the coming days" after a nodule was found on his lung during a medical check up.
+"The doctors found an early, well-localised nodule on my lung," he told the public during his weekly Sunday prayers in St Peter's Square in Rome.
+The 71-year-old pontiff said his medical team "believe it would be right to intervene" and he had agreed to the operation.
+Pope Leo reassured pilgrims that the mass was "well-contained" and caught "at an early stage".
+He concluded his Angelus prayer by thanking everyone for their "spiritual closeness" and said he entrusted himself to their prayers.
+Holy See Press Office spokesperson Matteo Bruni told the media that "the operation is scheduled for the first days of next week".
+Bruni added that the Pope is expected to take about a week to recover.
+Vatican News, the Holy See's news portal, said the operation will take place at Gemelli Hospital in Rome.
+The hospital set up a special Papal suite following the failed assassination attempt on Pope John Paul II's life in May 1981, which is still in use today.
+Italy's Prime Minister Giorgia Meloni expressed her "personal solidarity" to the Pope in a post on X as he "faces the ordeal ahead in the coming days".
+Pope Leo, born Robert Francis Provost, succeeded Pope Francis in 2025. He is the 267th occupant of the throne of St Peter – and is the first American.
+He was ordained in 1982 and spent years as a missionary in Peru, where he is remembered as a figure who worked with marginalised communities.
+During Sunday's service, the Pope confirmed his visit to Uruguay, Argentina and Peru in November will still go ahead.
+According to the National Health Service, a lung nodule is a small lump of tissue that is usually detected following an X-ray or CT scan of the chest.
+Most nodules are do not cause other symptoms.
+Related topics
+- Published25 September`,
+    bodyJa: `Pope Leo to have surgery after lump found on lung
+- Published
+Pope Leo XIV has announced he will be operated "in the coming days" after a nodule was found on his lung during a medical check up.
+"The doctors found an early, well-localised nodule on my lung," he told the public during his weekly Sunday prayers in St Peter's Square in Rome.
+The 71-year-old pontiff said his medical team "believe it would be right to intervene" and he had agreed to the operation.
+Pope Leo reassured pilgrims that the mass was "well-contained" and caught "at an early stage".
+He concluded his Angelus prayer by thanking everyone for their "spiritual closeness" and said he entrusted himself to their prayers.
+Holy See Press Office spokesperson Matteo Bruni told the media that "the operation is scheduled for the first days of next week".
+Bruni added that the Pope is expected to take about a week to recover.
+Vatican News, the Holy See's news portal, said the operation will take place at Gemelli Hospital in Rome.
+The hospital set up a special Papal suite following the failed assassination attempt on Pope John Paul II's life in May 1981, which is still in use today.
+Italy's Prime Minister Giorgia Meloni expressed her "personal solidarity" to the Pope in a post on X as he "faces the ordeal ahead in the coming days".
+Pope Leo, born Robert Francis Provost, succeeded Pope Francis in 2025. He is the 267th occupant of the throne of St Peter – and is the first American.
+He was ordained in 1982 and spent years as a missionary in Peru, where he is remembered as a figure who worked with marginalised communities.
+During Sunday's service, the Pope confirmed his visit to Uruguay, Argentina and Peru in November will still go ahead.
+According to the National Health Service, a lung nodule is a small lump of tissue that is usually detected following an X-ray or CT scan of the chest.
+Most nodules are do not cause other symptoms.
+Related topics
+- Published25 September`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-11T12:32:23+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13bb/live/c2ac8480-c569-11f1-bd33-db1f7eaf2b30.jpg",
+    readTime: 5,
+  },
+  {
+    id: "nba-commissioner-adam-silver-says-league-dcc0d5fa",
+    title: "NBA commissioner Adam Silver says league could introduce ‘smart ball’ technology as soon as next year",
+    titleJa: "NBA commissioner Adam Silver says league could introduce ‘smart ball’ technology as soon as next year",
+    summaryJa: "Commissioner Adam Silver says the NBA could begin using a new \"smart ball\" in games as soon as next year, potentially transforming how officials make calls.",
+    bodyOriginal: `NBA Commissioner Adam Silver says the league could begin using a new "smart ball" in games as soon as 2027, potentially transforming how officials make calls on the basketball court.
+In an interview with CNBC's Contessa Brewer, Silver revealed that the NBA is working with official basketball manufacturer Wilson to develop a ball embedded with a tiny microchip Bluetooth sensor that can track movement, spin and changes in trajectory.
+"We're experimenting with putting a small chip in the ball that weighs roughly a gram," Silver said.
+The technology has already been tested in the NBA's G League, Summer League, and some preseason games, where players used basketballs both with and without the chip. Silver said players have been pleased with the results.
+"Nobody could tell the difference. So that's a good sign," he said.
+The chip weighs just one gram, compared with the roughly 620-gram or 1.4 pound basketball. Silver said the league wanted to ensure that even the most experienced players wouldn't notice a change in how the ball feels or bounces.
+One of the most immediate applications could be officiating.
+Silver said the technology could help referees determine whether a player touched the ball before it went out of bounds by detecting subtle changes in its spin. It could also help identify whether a shot's trajectory was altered.
+"I think you could see as soon as next year us using it for officiating in our games," Silver said.
+Beyond officiating, Silver sees a significant opportunity to bring the technology to consumers, allowing basketball players of all ages to analyze and evaluate their shooting mechanics.
+For example, a player taking hundreds of shots could use data collected by the chip to understand which shooting angles and ball rotations are most likely to result in a basket.
+"You'll then see the graph, and you'll see for which the angle of the shots that went in, they're more likely to go in," Silver said.
+While the officiating application could arrive as soon as next year, Silver said a consumer version may take longer.
+"I think the consumers version [of the smart ball] is a few years away, but it's a really exciting opportunity."
+NBA players' union raises concerns over wearables
+The league is also exploring the use of wearable technology during games, but negotiations with the National Basketball Players Association have yet to produce an agreement.
+The NBA says officials experimented with wrist wearables in select preseason and summer league games this year in a "successful pilot program," but it will not extend into the season. The technology allowed the referees to communicate with the replay center about reviews, scoring changes and clock malfunctions.
+Silver said players routinely use wearable devices off the court to monitor everything from sleep to physical performance, but concerns remain over how data collected during games could be used by teams.
+"I think we have to come to some agreement on exactly how the information is used. But it seems everybody wants that information," Silver said.
+The biggest sticking point is whether that information could affect contract negotiations, Silver said.
+"If you could see a player was slowing down or something like that, they're worried that that could get used in bargaining, and I get that," he said.
+Silver acknowledged those concerns and said the league needs to reach an agreement with the players' union on how the information would be used.
+Still, he suggested that allowing wearables during games is a logical next step as athletes increasingly rely on technology to monitor their performance.
+"I think the players are in a position right now where they're essentially wearing wearables 22 hours a day, and the only time they're not wearing them is when they're playing in the game," Silver said. "So that can't make sense."
+"We'll work something out with them," he added.`,
+    bodyJa: `NBA Commissioner Adam Silver says the league could begin using a new "smart ball" in games as soon as 2027, potentially transforming how officials make calls on the basketball court.
+In an interview with CNBC's Contessa Brewer, Silver revealed that the NBA is working with official basketball manufacturer Wilson to develop a ball embedded with a tiny microchip Bluetooth sensor that can track movement, spin and changes in trajectory.
+"We're experimenting with putting a small chip in the ball that weighs roughly a gram," Silver said.
+The technology has already been tested in the NBA's G League, Summer League, and some preseason games, where players used basketballs both with and without the chip. Silver said players have been pleased with the results.
+"Nobody could tell the difference. So that's a good sign," he said.
+The chip weighs just one gram, compared with the roughly 620-gram or 1.4 pound basketball. Silver said the league wanted to ensure that even the most experienced players wouldn't notice a change in how the ball feels or bounces.
+One of the most immediate applications could be officiating.
+Silver said the technology could help referees determine whether a player touched the ball before it went out of bounds by detecting subtle changes in its spin. It could also help identify whether a shot's trajectory was altered.
+"I think you could see as soon as next year us using it for officiating in our games," Silver said.
+Beyond officiating, Silver sees a significant opportunity to bring the technology to consumers, allowing basketball players of all ages to analyze and evaluate their shooting mechanics.
+For example, a player taking hundreds of shots could use data collected by the chip to understand which shooting angles and ball rotations are most likely to result in a basket.
+"You'll then see the graph, and you'll see for which the angle of the shots that went in, they're more likely to go in," Silver said.
+While the officiating application could arrive as soon as next year, Silver said a consumer version may take longer.
+"I think the consumers version [of the smart ball] is a few years away, but it's a really exciting opportunity."
+NBA players' union raises concerns over wearables
+The league is also exploring the use of wearable technology during games, but negotiations with the National Basketball Players Association have yet to produce an agreement.
+The NBA says officials experimented with wrist wearables in select preseason and summer league games this year in a "successful pilot program," but it will not extend into the season. The technology allowed the referees to communicate with the replay center about reviews, scoring changes and clock malfunctions.
+Silver said players routinely use wearable devices off the court to monitor everything from sleep to physical performance, but concerns remain over how data collected during games could be used by teams.
+"I think we have to come to some agreement on exactly how the information is used. But it seems everybody wants that information," Silver said.
+The biggest sticking point is whether that information could affect contract negotiations, Silver said.
+"If you could see a player was slowing down or something like that, they're worried that that could get used in bargaining, and I get that," he said.
+Silver acknowledged those concerns and said the league needs to reach an agreement with the players' union on how the information would be used.
+Still, he suggested that allowing wearables during games is a logical next step as athletes increasingly rely on technology to monitor their performance.
+"I think the players are in a position right now where they're essentially wearing wearables 22 hours a day, and the only time they're not wearing them is when they're playing in the game," Silver said. "So that can't make sense."
+"We'll work something out with them," he added.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/11/commissioner-adam-silver-nba-could-launch-smart-ball-tech-next-year.html",
+    publishedAt: "2026-10-11T12:00:01+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "bank-earnings-to-shed-the-first-light-on-a33585f9",
+    title: "Bank earnings to shed the first light on how higher yields are affecting the economy",
+    titleJa: "Bank earnings to shed the first light on how higher yields are affecting the economy",
+    summaryJa: "The big banks kick off earnings season on Tuesday, to provide a first read on the health of the economy in a rising-yield environment.",
+    bodyOriginal: `The big banks kick off earnings season on Tuesday, to provide a first read on the health of the economy in a rising-yield environment.`,
+    bodyJa: `The big banks kick off earnings season on Tuesday, to provide a first read on the health of the economy in a rising-yield environment.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/bank-earnings-to-shed-the-first-light-on-how-higher-yields-are-affecting-the-economy-cf3763ef?mod=mw_rss_topstories",
+    publishedAt: "2026-10-11T12:00:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-36899660",
+    readTime: 2,
+  },
+  {
+    id: "trump-says-he-is-going-to-look-at-joinin-59e33ae3",
+    title: "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
+    titleJa: "Trump says he is 'going to look at' joining Saudi Arabia in the fight against Iran-backed Houthis after deadly airport strike",
+    summaryJa: "U.S. military involvement in the fight against the Houthis would stretch resources in the Middle East already committed to fighting Iran, analysts said.",
+    bodyOriginal: `President Donald Trump said he is considering joining Saudi Arabia in its retaliation against Tehran-backed Houthis in Yemen after a deadly attack on Riyadh's main airport, a move that could draw the U.S. further into a second front in the Iran war.
+"We may. We're going to look at it," Trump told reporters outside the White House on Saturday when asked if the U.S. would back Saudi Arabian strikes. "We just found out about the recent attack. So, we'll make a decision. We move very quickly."
+Two Saudi Arabian government officials told MS NOW that the kingdom is requesting "urgent defense support" from the U.S. following the attacks.
+The officials, including a senior member of the Ministry of Foreign Affairs, did not want to be identified because of the matter's sensitivity. They added that the U.S. needs to intervene "as soon as possible" to help the Saudi-led coalition in Yemen fight the Houthis.
+The White House did not immediately respond to a CNBC request for comment.
+The Saudi General Authority of Civil Aviation said the attack on King Khalid International Airport in Riyadh killed 12 people and injured 309 others, the country's official Saudi Gazette media outlet reported.
+Colonel Turki Al-Maliki, the spokesman for the Saudi-led Coalition to Support Legitimacy in Yemen, which has been leading the fight against the Houthis, described the attack as a "war crime."
+"Therefore, the Joint Forces Command of the Coalition will respond decisively to this terrorist attack in accordance with the Customary International Humanitarian Law," Al-Maliki said in a post on X.
+It was the second deadly assault on Riyadh's airport in less than a week.
+Three Saudi nationals, including a pilot, were killed in attacks on the facility by Iran-backed Houthi militants on Thursday.
+Following Saturday's attack, the Houthis renewed their warning against using Saudi airports.
+"We renew our warning to all airlines, experts, employees, workers and travellers against using Saudi airports and airspace, as they are vulnerable to attack and have become a theatre of operations for our forces, with the exception of the airports in (the holy cities of) Mecca and Medina," the Houthis said in a post on X.
+Saudi Arabia, a key U.S. ally in the Middle East, intervened in Yemen's civil war between the Houthis and its internationally recognized government after the group seized the Yemeni capital Sanaa in 2014.
+Last month, the Trump administration approved the potential $24.3 billion sale of nearly 50 F-35 warplanes to Saudi Arabia in what was seen as a major boost for the kingdom as it faces intensifying attacks from the Houthis. The sale is under congressional review.
+International energy conference still on
+The Saudi energy ministry said a long-planned international energy conference will still take place in Riyadh on Sunday, Reuters reported.
+The five-day WPC Energy Congress is taking place at a convention center near King Khalid airport. State television told Reuters that more than 70 ministers, 300 company executives and representatives of more than 25 international energy organizations have confirmed their attendance, though it was not clear whether the participants would attend in person or virtually.
+Reuters said a ministerial meeting of the International Energy Forum is also set to take place, with its plenary session to be held behind closed doors.
+Energy choke points
+In addition to attacks on civil aviation, the Houthis have also been trying to choke off oil tanker traffic through the Bab el Mandeb strait, a key entry point to the Red Sea, as Iran has effectively done in the Strait of Hormuz to the north of the Arabian Peninsula.
+Earlier this month, Yemeni government forces said they reclaimed the strategic port city of Mokha from the Houthis.
+Energy prices have soared since the start of the Iran war, which began with U.S. and Israeli airstrikes on Iranian targets on Feb. 28, putting pressure on consumers globally.
+The surge in domestic fuel prices has been a key issue for voters ahead of next month's U.S. midterm elections.
+But that support would be expensive militarily.
+"Potential U.S. involvement in the Saudi-Yemeni government air campaign to degrade Houthi ballistic missile capabilities would mark the first direct U.S. military action against the group since the conclusion of Operation Rough Rider in May 2025," according to the Critical Threats Project, part of the American Enterprise Institute think tank.
+The offensive aimed to suppress the Houthis' capabilities, but recent attacks show the group has regrouped.
+"After seven months of war, there are questions about the U.S. capacity to wage a sustained campaign against the Houthis, return to combat against Iran if necessary, and prepare for contingencies in other parts of the world, notably East Asia," Steven Cook, an expert on Arab and Turkish politics at the Council on Foreign Relations think tank, wrote last month.
+Meanwhile, the United Kingdom's defense secretary said his government is also examining how to support Saudi Arabia.
+"I've spoken to my Saudi counterpart [Khalid bin Salman] on a number of occasions in recent weeks to look at what more we can do to support Saudi Arabia, and I'm afraid last night explains precisely why we are providing that support," Wes Streeting said in an interview on BBC television on Sunday.
+Streeting said the U.K. is not getting involved in offensive operations "at this stage."
+"We've always been clear that there isn't a military solution to this conflict," Streeting added.`,
+    bodyJa: `President Donald Trump said he is considering joining Saudi Arabia in its retaliation against Tehran-backed Houthis in Yemen after a deadly attack on Riyadh's main airport, a move that could draw the U.S. further into a second front in the Iran war.
+"We may. We're going to look at it," Trump told reporters outside the White House on Saturday when asked if the U.S. would back Saudi Arabian strikes. "We just found out about the recent attack. So, we'll make a decision. We move very quickly."
+Two Saudi Arabian government officials told MS NOW that the kingdom is requesting "urgent defense support" from the U.S. following the attacks.
+The officials, including a senior member of the Ministry of Foreign Affairs, did not want to be identified because of the matter's sensitivity. They added that the U.S. needs to intervene "as soon as possible" to help the Saudi-led coalition in Yemen fight the Houthis.
+The White House did not immediately respond to a CNBC request for comment.
+The Saudi General Authority of Civil Aviation said the attack on King Khalid International Airport in Riyadh killed 12 people and injured 309 others, the country's official Saudi Gazette media outlet reported.
+Colonel Turki Al-Maliki, the spokesman for the Saudi-led Coalition to Support Legitimacy in Yemen, which has been leading the fight against the Houthis, described the attack as a "war crime."
+"Therefore, the Joint Forces Command of the Coalition will respond decisively to this terrorist attack in accordance with the Customary International Humanitarian Law," Al-Maliki said in a post on X.
+It was the second deadly assault on Riyadh's airport in less than a week.
+Three Saudi nationals, including a pilot, were killed in attacks on the facility by Iran-backed Houthi militants on Thursday.
+Following Saturday's attack, the Houthis renewed their warning against using Saudi airports.
+"We renew our warning to all airlines, experts, employees, workers and travellers against using Saudi airports and airspace, as they are vulnerable to attack and have become a theatre of operations for our forces, with the exception of the airports in (the holy cities of) Mecca and Medina," the Houthis said in a post on X.
+Saudi Arabia, a key U.S. ally in the Middle East, intervened in Yemen's civil war between the Houthis and its internationally recognized government after the group seized the Yemeni capital Sanaa in 2014.
+Last month, the Trump administration approved the potential $24.3 billion sale of nearly 50 F-35 warplanes to Saudi Arabia in what was seen as a major boost for the kingdom as it faces intensifying attacks from the Houthis. The sale is under congressional review.
+International energy conference still on
+The Saudi energy ministry said a long-planned international energy conference will still take place in Riyadh on Sunday, Reuters reported.
+The five-day WPC Energy Congress is taking place at a convention center near King Khalid airport. State television told Reuters that more than 70 ministers, 300 company executives and representatives of more than 25 international energy organizations have confirmed their attendance, though it was not clear whether the participants would attend in person or virtually.
+Reuters said a ministerial meeting of the International Energy Forum is also set to take place, with its plenary session to be held behind closed doors.
+Energy choke points
+In addition to attacks on civil aviation, the Houthis have also been trying to choke off oil tanker traffic through the Bab el Mandeb strait, a key entry point to the Red Sea, as Iran has effectively done in the Strait of Hormuz to the north of the Arabian Peninsula.
+Earlier this month, Yemeni government forces said they reclaimed the strategic port city of Mokha from the Houthis.
+Energy prices have soared since the start of the Iran war, which began with U.S. and Israeli airstrikes on Iranian targets on Feb. 28, putting pressure on consumers globally.
+The surge in domestic fuel prices has been a key issue for voters ahead of next month's U.S. midterm elections.
+But that support would be expensive militarily.
+"Potential U.S. involvement in the Saudi-Yemeni government air campaign to degrade Houthi ballistic missile capabilities would mark the first direct U.S. military action against the group since the conclusion of Operation Rough Rider in May 2025," according to the Critical Threats Project, part of the American Enterprise Institute think tank.
+The offensive aimed to suppress the Houthis' capabilities, but recent attacks show the group has regrouped.
+"After seven months of war, there are questions about the U.S. capacity to wage a sustained campaign against the Houthis, return to combat against Iran if necessary, and prepare for contingencies in other parts of the world, notably East Asia," Steven Cook, an expert on Arab and Turkish politics at the Council on Foreign Relations think tank, wrote last month.
+Meanwhile, the United Kingdom's defense secretary said his government is also examining how to support Saudi Arabia.
+"I've spoken to my Saudi counterpart [Khalid bin Salman] on a number of occasions in recent weeks to look at what more we can do to support Saudi Arabia, and I'm afraid last night explains precisely why we are providing that support," Wes Streeting said in an interview on BBC television on Sunday.
+Streeting said the U.K. is not getting involved in offensive operations "at this stage."
+"We've always been clear that there isn't a military solution to this conflict," Streeting added.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/11/trump-saudi-arabia-iran-houthis.html",
+    publishedAt: "2026-10-11T11:52:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "ai-s-quiet-safety-gatekeepers-are-steppi-6b01dbf0",
+    title: "AI’s quiet safety gatekeepers are stepping into the spotlight",
+    titleJa: "AI’s quiet safety gatekeepers are stepping into the spotlight",
+    summaryJa: "The intensifying AI safety debate is bringing a small group of third-party evaluators into the center of a multitrillion-dollar industry.",
+    bodyOriginal: `Two months ago, independent evaluators occupied a relatively sleepy corner of the multitrillion-dollar artificial intelligence industry. Now they're being asked to come to its rescue.
+While Anthropic and OpenAI are the heart of a fierce debate over whether they can safeguard their advanced models and grow their businesses simultaneously, the companies are seeking support from a handful of small third-party groups like Model Evaluation and Threat Research (METR), Apollo Research and Transluce.
+The evaluators, which mostly operate as nonprofits, are still finding their footing in an industry where capital is flowing at historic levels and new models are rolling out faster than ever. Their primary role has been to assess AI model capabilities and risks, and to call attention to instances where the technology behaves badly.
+In the absence of a federal push for regulations, evaluators have taken on outsized importance. Anthropic CEO Dario Amodei pledged to embed independent evaluators in his company last month – a move that OpenAI CEO Sam Altman quickly endorsed. President Donald Trump supported the idea, as did most of the largest U.S. tech companies. But left unanswered are questions about how those third parties should be funded, what level of access they will have and what the reporting structure will ultimately look like.
+"To a degree, the problem, as always, is money," Suresh Venkatasubramanian, a computer science professor at Brown University, told CNBC in an interview. "Who is paying for these companies to do their work? How are they going to support them? You need an ecosystem, you need a viable business model for this."
+Right now, Anthropic, OpenAI and the infrastructure partners that are profiting from the AI boom are writing the rules. Critics say that's like asking the biggest banks to protect us from a financial crisis or allowing pharmaceutical companies to put drugs on the market without regulatory clearance.
+President Trump recently lauded AI executives for their "tremendous self-policing," and signaled that he intends to leave companies to their own devices, unwilling to impede the growth of the industry that's driving the economy and stock market. Trump encouraged AI companies to "partner with an independent external auditor or evaluator" as part of a voluntary accord he presented in late September.
+It's a conversation that Amodei kicked off In his viral essay last month, when he called for a "slower pace" in advanced model development after researchers left his company and voiced their concerns about the existential threats the technology poses.
+As the AI labs move to put evaluators in place, friction is already starting to emerge.
+OpenAI fired three employees last week for "violating our policies on accessing and handling sensitive company information," according to a spokesperson. Two of those employees, Mikita Balesni and Tomek Korbak, said they believe they were dismissed because of how they communicated with third-party evaluators.
+"My former colleagues are telling me they are confused about what to believe," Balesni wrote in a post on X on Thursday. "They also are afraid to speak, and worry their personal phones will be searched for messages to us and third parties. I worry the pervading fear to speak up and engage with third parties will mean OpenAI will cut corners on safety behind closed doors."
+OpenAI disputed that characterization and said in a post on Friday that it's "actively finalizing contracts with third-party safety assessors and will announce details in the coming weeks."
+"We are committed to embedding external assessors and continue to make close collaboration with independent safety organizations a core part of our safety work," OpenAI wrote.
+An OpenAI spokesperson said in an emailed statement that its upcoming work with evaluators "builds on existing collaboration with independent safety organizations," including METR and Redwood Research.
+Anthropic didn't respond to CNBC's request for comment.
+'I've never seen an issue move so fast'
+The AI evaluator ecosystem consists mostly of small organizations, including METR and Apollo Research, and larger accounting and auditing firms like Accenture.
+AI labs have been working with evaluators in limited capacities, but Andrew Freedman, CEO of policy nonprofit Fathom, said the field is quickly maturing.
+"I've worked in politics and policy for the last 20 years of my life, and I've never seen an issue move so fast on so many different political spectrums," Freedman told CNBC in an interview. He said he expects an "influx of capital" to flow into the ecosystem.
+Rayan Krishnan, CEO of independent evaluator Vals AI, said his for-profit startup, which builds benchmarks to measure how AI models perform on industry-specific tasks, has grown from eight employees to roughly 30 this year, and in August announced a $40 million funding round.
+METR, a nonprofit, announced in August that it had raised commitments of around $71 million over the last six months. That's up from total 2024 contributions of $13.6 million, according to the group's most recent filing with the Internal Revenue Service.
+By late that month, METR's profile had risen further. OpenAI enlisted two of its employees and a contractor to put together a postmortem report detailing how the company's models escaped containment, accessed the open internet and breached open-source developer platform Hugging Face. METR said it did not accept payment from OpenAI for the assessment.
+Kevin Werbach, faculty director of the Wharton Accountable AI Lab at the University of Pennsylvania, said the ecosystem is "not robust enough right now." METR, for example, employs fewer than 50 full-time staffers, according to its website.
+The power imbalance between the small evaluators and the leading labs that have raised tens of billions of dollars and employ thousands of people raises questions surrounding potential conflicts.
+"If you want true third-party evaluation, you need true independence financially and otherwise," said Venkatasubramanian. "It's not just a matter of not getting paid, it's a matter of, will there be consequences if I am an auditor and I put out a report that looks unfavorable to this company? Is my business going to dry up?"
+Anthropic acknowledged the complexity in a blog post last month, as it announced it will embed employees from Faculty, Accenture's specialist AI business, to test safeguards and assess whether models will behave in line with human values. Anthropic said that "given the importance and urgency of this work," it will fund Accenture's contributions directly.
+"There are, as yet, no standards for what information embedded evaluators should have access to, or how they should report what they find. There is also no settled system for funding independent evaluation," Anthropic said. "Long-term, we think funding should come from pooled or government sources."
+Anthropic said it's in discussions with METR and other nonprofit evaluators that are planning to use their own funding to pilot "elements" of embedded evaluation.
+Will the government step in?
+In June of last year, Fathom introduced a marketplace framework for Independent Verification Organizations, or IVOs. These groups would be licensed by the government and authorized to test whether AI companies are meeting various safety criteria.
+Freedman, the group's CEO, said government oversight is key because otherwise third-party evaluators can become beholden to the large AI labs for revenue, incentivizing them to "start rubber stamping stuff" to maintain favor.
+Some lawmakers are on board.
+IVOs are a key provision of the ''Frontier Risk Oversight, National Transparency, Independent Evaluation, and Reporting" (FRONTIER) Act, which Reps. Lori Trahan, D-Mass., and Jay Obernolte, R-Calif., introduced in July. Fathom helped draft language and provided technical expertise for the bill, Freedman said.
+OpenAI global affairs chief Chris Lehane told reporters in September that he sat down with one of the bill's sponsors on Capitol Hill to express support for the IVO provision.
+"It was important for them to hear that and hear it from us, and we wanted to be really clear about that," Lehane said, according to reports.
+Meanwhile, lawmakers in California, Connecticut and Virginia have taken steps to implement IVOs, and states like Massachusetts are weighing independent safety evaluations more broadly.
+California Governor Gavin Newsom recently signed two bills involving IVOs, one establishing a "first-in-the-nation framework," and the other creating a state registry for AI auditors. Anthropic threw its support behind both bills in August, and OpenAI formally endorsed them last month, the same day Newsom signed them into law.
+Lehane wrote in a blog post at the time that "we prefer independent technical assessments to be required at the federal level," but in the absence of federal action, "California can help establish the rules of the road."
+Freedman said he thinks it will be "really difficult" for companies like OpenAI and Anthropic to work out how to engage with independent evaluators on their own. However, with the government's role unclear, "it's a muscle worth developing in the interim," he said.
+For now, the closest thing the industry has to a set of standards is what Trump called a "morally binding" agreement at a luncheon he hosted for tech leaders at the White House late last month.
+The one-page accord says that "every company is responsible for developing its own technology safely and in a way that builds trust with customers and the public." It also encourages signees to work with an "independent external auditor or evaluator to carry out independent assessments."
+The document was signed by top execs at Anthropic, Google, Meta, OpenAI, SpaceX and Nvidia, a rare show of solidarity between leaders who have shared conflicting views on addressing AI's risks. The executives still have to chart their own paths forward.
+"It was a performance of an attempt to show action when in fact no action actually happened," Venkatasubramanian said. "The things that they promise to do are things they should have been doing already, and, in fact, have claimed that they were doing in the past."
+Amodei, in his September essay, said Anthropic will equip evaluators with desks, access badges, company laptops, and permissions that are "mostly comparable" with internal risk assessment teams. Additionally, evaluators will be supported with contracts that give them "the right to publish key findings," with Anthropic reserving "the narrow ability" to redact certain security-sensitive or confidential information.
+"This is an unusual step for a company, but we think it is important to prove out the concept of embedded external reviewers," Amodei wrote.
+OpenAI published its own proposal days later, and said evaluators should work on "scoped and mutually agreed upon claims for assessment," clearly explain their methodology and standards, demonstrate relevant technical expertise and disclose conflicts of interest.
+The AI Evaluator Forum, which includes METR, the AI Verification and Evaluation Research Institute (AVERI), and other groups, published a public letter last month titled, "Minimum Conditions for Embedding Evaluators."
+The letter said evaluators should be transparent, shielded from retaliation and granted access equivalent to AI companies' "own highly privileged employees."
+"Embedded evaluations cannot address all oversight needs and should be treated as a complement to, rather than a replacement for, broader efforts by frontier AI companies to expand external oversight," the letter said.
+Freedman said he's seen a shift in posturing out of OpenAI and Anthropic in recent months, largely because they've realized they won't be able to roll out their advanced systems without the public's trust.
+"I don't think you need to trust that they've suddenly turned altruistic or that there's anything but corporations acting like corporations," Freedman said.
+That underscores perhaps the central problem, Werbach said. OpenAI and Anthropic are, first and foremost, competing with each other as they march toward the public markets and seek trillion-dollar-plus valuations.
+"There is a tremendous amount of personal distrust between those two companies," Werbach said. "Even though there's also tremendous agreement about the need for this kind of evaluation to happen."
+WATCH: Bradley Tusk on Anthropic IPO: Why add public market pressure if safety is your top priority?`,
+    bodyJa: `Two months ago, independent evaluators occupied a relatively sleepy corner of the multitrillion-dollar artificial intelligence industry. Now they're being asked to come to its rescue.
+While Anthropic and OpenAI are the heart of a fierce debate over whether they can safeguard their advanced models and grow their businesses simultaneously, the companies are seeking support from a handful of small third-party groups like Model Evaluation and Threat Research (METR), Apollo Research and Transluce.
+The evaluators, which mostly operate as nonprofits, are still finding their footing in an industry where capital is flowing at historic levels and new models are rolling out faster than ever. Their primary role has been to assess AI model capabilities and risks, and to call attention to instances where the technology behaves badly.
+In the absence of a federal push for regulations, evaluators have taken on outsized importance. Anthropic CEO Dario Amodei pledged to embed independent evaluators in his company last month – a move that OpenAI CEO Sam Altman quickly endorsed. President Donald Trump supported the idea, as did most of the largest U.S. tech companies. But left unanswered are questions about how those third parties should be funded, what level of access they will have and what the reporting structure will ultimately look like.
+"To a degree, the problem, as always, is money," Suresh Venkatasubramanian, a computer science professor at Brown University, told CNBC in an interview. "Who is paying for these companies to do their work? How are they going to support them? You need an ecosystem, you need a viable business model for this."
+Right now, Anthropic, OpenAI and the infrastructure partners that are profiting from the AI boom are writing the rules. Critics say that's like asking the biggest banks to protect us from a financial crisis or allowing pharmaceutical companies to put drugs on the market without regulatory clearance.
+President Trump recently lauded AI executives for their "tremendous self-policing," and signaled that he intends to leave companies to their own devices, unwilling to impede the growth of the industry that's driving the economy and stock market. Trump encouraged AI companies to "partner with an independent external auditor or evaluator" as part of a voluntary accord he presented in late September.
+It's a conversation that Amodei kicked off In his viral essay last month, when he called for a "slower pace" in advanced model development after researchers left his company and voiced their concerns about the existential threats the technology poses.
+As the AI labs move to put evaluators in place, friction is already starting to emerge.
+OpenAI fired three employees last week for "violating our policies on accessing and handling sensitive company information," according to a spokesperson. Two of those employees, Mikita Balesni and Tomek Korbak, said they believe they were dismissed because of how they communicated with third-party evaluators.
+"My former colleagues are telling me they are confused about what to believe," Balesni wrote in a post on X on Thursday. "They also are afraid to speak, and worry their personal phones will be searched for messages to us and third parties. I worry the pervading fear to speak up and engage with third parties will mean OpenAI will cut corners on safety behind closed doors."
+OpenAI disputed that characterization and said in a post on Friday that it's "actively finalizing contracts with third-party safety assessors and will announce details in the coming weeks."
+"We are committed to embedding external assessors and continue to make close collaboration with independent safety organizations a core part of our safety work," OpenAI wrote.
+An OpenAI spokesperson said in an emailed statement that its upcoming work with evaluators "builds on existing collaboration with independent safety organizations," including METR and Redwood Research.
+Anthropic didn't respond to CNBC's request for comment.
+'I've never seen an issue move so fast'
+The AI evaluator ecosystem consists mostly of small organizations, including METR and Apollo Research, and larger accounting and auditing firms like Accenture.
+AI labs have been working with evaluators in limited capacities, but Andrew Freedman, CEO of policy nonprofit Fathom, said the field is quickly maturing.
+"I've worked in politics and policy for the last 20 years of my life, and I've never seen an issue move so fast on so many different political spectrums," Freedman told CNBC in an interview. He said he expects an "influx of capital" to flow into the ecosystem.
+Rayan Krishnan, CEO of independent evaluator Vals AI, said his for-profit startup, which builds benchmarks to measure how AI models perform on industry-specific tasks, has grown from eight employees to roughly 30 this year, and in August announced a $40 million funding round.
+METR, a nonprofit, announced in August that it had raised commitments of around $71 million over the last six months. That's up from total 2024 contributions of $13.6 million, according to the group's most recent filing with the Internal Revenue Service.
+By late that month, METR's profile had risen further. OpenAI enlisted two of its employees and a contractor to put together a postmortem report detailing how the company's models escaped containment, accessed the open internet and breached open-source developer platform Hugging Face. METR said it did not accept payment from OpenAI for the assessment.
+Kevin Werbach, faculty director of the Wharton Accountable AI Lab at the University of Pennsylvania, said the ecosystem is "not robust enough right now." METR, for example, employs fewer than 50 full-time staffers, according to its website.
+The power imbalance between the small evaluators and the leading labs that have raised tens of billions of dollars and employ thousands of people raises questions surrounding potential conflicts.
+"If you want true third-party evaluation, you need true independence financially and otherwise," said Venkatasubramanian. "It's not just a matter of not getting paid, it's a matter of, will there be consequences if I am an auditor and I put out a report that looks unfavorable to this company? Is my business going to dry up?"
+Anthropic acknowledged the complexity in a blog post last month, as it announced it will embed employees from Faculty, Accenture's specialist AI business, to test safeguards and assess whether models will behave in line with human values. Anthropic said that "given the importance and urgency of this work," it will fund Accenture's contributions directly.
+"There are, as yet, no standards for what information embedded evaluators should have access to, or how they should report what they find. There is also no settled system for funding independent evaluation," Anthropic said. "Long-term, we think funding should come from pooled or government sources."
+Anthropic said it's in discussions with METR and other nonprofit evaluators that are planning to use their own funding to pilot "elements" of embedded evaluation.
+Will the government step in?
+In June of last year, Fathom introduced a marketplace framework for Independent Verification Organizations, or IVOs. These groups would be licensed by the government and authorized to test whether AI companies are meeting various safety criteria.
+Freedman, the group's CEO, said government oversight is key because otherwise third-party evaluators can become beholden to the large AI labs for revenue, incentivizing them to "start rubber stamping stuff" to maintain favor.
+Some lawmakers are on board.
+IVOs are a key provision of the ''Frontier Risk Oversight, National Transparency, Independent Evaluation, and Reporting" (FRONTIER) Act, which Reps. Lori Trahan, D-Mass., and Jay Obernolte, R-Calif., introduced in July. Fathom helped draft language and provided technical expertise for the bill, Freedman said.
+OpenAI global affairs chief Chris Lehane told reporters in September that he sat down with one of the bill's sponsors on Capitol Hill to express support for the IVO provision.
+"It was important for them to hear that and hear it from us, and we wanted to be really clear about that," Lehane said, according to reports.
+Meanwhile, lawmakers in California, Connecticut and Virginia have taken steps to implement IVOs, and states like Massachusetts are weighing independent safety evaluations more broadly.
+California Governor Gavin Newsom recently signed two bills involving IVOs, one establishing a "first-in-the-nation framework," and the other creating a state registry for AI auditors. Anthropic threw its support behind both bills in August, and OpenAI formally endorsed them last month, the same day Newsom signed them into law.
+Lehane wrote in a blog post at the time that "we prefer independent technical assessments to be required at the federal level," but in the absence of federal action, "California can help establish the rules of the road."
+Freedman said he thinks it will be "really difficult" for companies like OpenAI and Anthropic to work out how to engage with independent evaluators on their own. However, with the government's role unclear, "it's a muscle worth developing in the interim," he said.
+For now, the closest thing the industry has to a set of standards is what Trump called a "morally binding" agreement at a luncheon he hosted for tech leaders at the White House late last month.
+The one-page accord says that "every company is responsible for developing its own technology safely and in a way that builds trust with customers and the public." It also encourages signees to work with an "independent external auditor or evaluator to carry out independent assessments."
+The document was signed by top execs at Anthropic, Google, Meta, OpenAI, SpaceX and Nvidia, a rare show of solidarity between leaders who have shared conflicting views on addressing AI's risks. The executives still have to chart their own paths forward.
+"It was a performance of an attempt to show action when in fact no action actually happened," Venkatasubramanian said. "The things that they promise to do are things they should have been doing already, and, in fact, have claimed that they were doing in the past."
+Amodei, in his September essay, said Anthropic will equip evaluators with desks, access badges, company laptops, and permissions that are "mostly comparable" with internal risk assessment teams. Additionally, evaluators will be supported with contracts that give them "the right to publish key findings," with Anthropic reserving "the narrow ability" to redact certain security-sensitive or confidential information.
+"This is an unusual step for a company, but we think it is important to prove out the concept of embedded external reviewers," Amodei wrote.
+OpenAI published its own proposal days later, and said evaluators should work on "scoped and mutually agreed upon claims for assessment," clearly explain their methodology and standards, demonstrate relevant technical expertise and disclose conflicts of interest.
+The AI Evaluator Forum, which includes METR, the AI Verification and Evaluation Research Institute (AVERI), and other groups, published a public letter last month titled, "Minimum Conditions for Embedding Evaluators."
+The letter said evaluators should be transparent, shielded from retaliation and granted access equivalent to AI companies' "own highly privileged employees."
+"Embedded evaluations cannot address all oversight needs and should be treated as a complement to, rather than a replacement for, broader efforts by frontier AI companies to expand external oversight," the letter said.
+Freedman said he's seen a shift in posturing out of OpenAI and Anthropic in recent months, largely because they've realized they won't be able to roll out their advanced systems without the public's trust.
+"I don't think you need to trust that they've suddenly turned altruistic or that there's anything but corporations acting like corporations," Freedman said.
+That underscores perhaps the central problem, Werbach said. OpenAI and Anthropic are, first and foremost, competing with each other as they march toward the public markets and seek trillion-dollar-plus valuations.
+"There is a tremendous amount of personal distrust between those two companies," Werbach said. "Even though there's also tremendous agreement about the need for this kind of evaluation to happen."
+WATCH: Bradley Tusk on Anthropic IPO: Why add public market pressure if safety is your top priority?`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
+    publishedAt: "2026-10-11T11:00:01+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "ai-may-change-the-price-of-your-big-mac-081483a0",
+    title: "AI may change the price of your Big Mac and groceries — what this means for shoppers",
+    titleJa: "AI may change the price of your Big Mac and groceries — what this means for shoppers",
+    summaryJa: "As retailers turn to AI tools to streamline operations, experts warn that collecting more detailed consumer data increases the risk of personalized pricing.",
+    bodyOriginal: `Fast-food giants and supermarkets are rolling out a range of AI tools that could affect the prices shoppers pay, but experts warn the spread of data-driven tools could make personalized pricing easier to deploy.
+Just this week, a federal antitrust lawsuit filed against McDonald's alleged the fast food giant uses an AI-powered "pricing engine" to set menu prices across U.S. locations and overcharge customers for Big Macs and fries.
+McDonald's has denied that it's using AI to determine what individual customers are willing to pay and said it provides its franchisees with "tools, resources, research and recommendations to help them make informed decisions."
+Even so, food businesses globally are increasingly digitizing operations with AI. Earlier this year, American grocery chain Kroger said it's using an AI platform called FlashFood to mark down perishables nearing the end of their shelf life and marketing them to shoppers via an app.
+Meanwhile, electronic shelf labels (ESLs), which display the price of items in store on digital screens, are becoming increasingly popular at supermarkets like Kroger, Amazon Fresh, Walmart, and Whole Foods.
+The technology is also gaining traction among U.K. supermarkets such as Tesco, Morrisons, and Asda. More recently, global financial platform Revolut trialed facial recognition checkout in select coffee shops, allowing customers to pay with just a glance.
+CNBC reached out to Amazon Fresh, Whole Foods, Tesco, Morrisons, Asda and Revolut for comment on the use of AI but didn't immediately hear back.
+As AI use becomes normalized among retailers, experts warn that this could lead to more dynamic pricing, which refers to frequent, rapid real-time changes in prices that could dramatically affect shoppers' experiences.
+"Dynamic pricing means changing prices in response to changing market conditions, such as demand, timing, capacity or competitors' prices," Miroslava Marinova, a senior lecturer of commercial law at the University of East London, told CNBC. "It is not new. Airlines, hotels, and ride-hailing services have used it for years."
+Bank of England economists Clare Lombardelli and Rupal Patel said in April that more sophisticated technology is leading to prices changing more frequently and also becoming more individualized, which could see more firms charging "as close to the maximum price a consumer is willing to pay for a good or service," which they defined as "perfect price discrimination."
+These conditions could make it harder for statisticians to "measure and interpret" month-to-month inflation data, as the consumer price index is based on a representative sample of prices for shoppers.
+"That works well when prices mostly move slowly and uniformly. But when prices shift continually – and differently for each shopper – the idea of a 'representative' price becomes strained," the BOE economists added.
+AI collects more consumer data
+While dynamic pricing has been in play for a long time, the BOE economists and Marinova noted that AI tools such as ESLs and facial recognition checkout are changing the amount of information that companies can collect on consumers, from transaction histories to browsing behavior, location, and purchasing patterns.
+On Wednesday, U.K. supermarket chain Sainsbury's released "SmartLists," an AI feature that helps customers create shopping lists and find products just by uploading pictures of what they need or by typing out meal ideas.
+"This is also why the traditional distinction between dynamic and personalised pricing is becoming less clear in practice," Marinova explained. "Dynamic pricing responds primarily to market conditions, whereas personalised pricing uses information about the consumer to estimate willingness to pay."
+As companies use both pricing systems, it raises questions around whether customer information is being used to determine the prices consumers see.
+"As retailers combine market-level information with increasingly detailed consumer data, the boundary between dynamic and personalised pricing becomes thinner," Marinova added.
+Walmart and Kroger have publicly insisted in recent years that they do not use dynamic or surge pricing to set individualized prices for customers, but have instead used tools to streamline operations.
+Several U.S. states are moving to curb data-driven pricing. New York requires most businesses using customers’ personal data to set prices to disclose it clearly. Maryland has restricted food retailers and delivery services from using personalised, data-driven pricing to charge higher prices for certain food, while New Jersey and Connecticut have enacted measures targeting “surveillance pricing.”
+Consumer choice compromised
+Dynamic and personalized pricing are not automatically bad for shoppers, Marinova said, explaining that it can discount items for some consumers, making some products and services more accessible.
+However, the risk of individualized pricing is that consumers are no longer aware of whether the price they're getting reflects general market conditions or if it's been influenced by information about their own behavior.
+"That makes it much harder to compare prices and to know whether another consumer is being offered a different price for the same product," she said. "If consumers cannot understand why they received a particular price, cannot compare it with prices offered to others, and cannot effectively switch to another supplier, the normal disciplining effect of consumer choice becomes weaker."
+The BOE economists added that an additional challenge is that personalized pricing "splinters the consumer experience," which means households will face increasingly different inflation rates.
+"And when prices differ for the same thing, inflation becomes even more personalised – and aggregate measures may no longer reflect households' experience," they said.`,
+    bodyJa: `Fast-food giants and supermarkets are rolling out a range of AI tools that could affect the prices shoppers pay, but experts warn the spread of data-driven tools could make personalized pricing easier to deploy.
+Just this week, a federal antitrust lawsuit filed against McDonald's alleged the fast food giant uses an AI-powered "pricing engine" to set menu prices across U.S. locations and overcharge customers for Big Macs and fries.
+McDonald's has denied that it's using AI to determine what individual customers are willing to pay and said it provides its franchisees with "tools, resources, research and recommendations to help them make informed decisions."
+Even so, food businesses globally are increasingly digitizing operations with AI. Earlier this year, American grocery chain Kroger said it's using an AI platform called FlashFood to mark down perishables nearing the end of their shelf life and marketing them to shoppers via an app.
+Meanwhile, electronic shelf labels (ESLs), which display the price of items in store on digital screens, are becoming increasingly popular at supermarkets like Kroger, Amazon Fresh, Walmart, and Whole Foods.
+The technology is also gaining traction among U.K. supermarkets such as Tesco, Morrisons, and Asda. More recently, global financial platform Revolut trialed facial recognition checkout in select coffee shops, allowing customers to pay with just a glance.
+CNBC reached out to Amazon Fresh, Whole Foods, Tesco, Morrisons, Asda and Revolut for comment on the use of AI but didn't immediately hear back.
+As AI use becomes normalized among retailers, experts warn that this could lead to more dynamic pricing, which refers to frequent, rapid real-time changes in prices that could dramatically affect shoppers' experiences.
+"Dynamic pricing means changing prices in response to changing market conditions, such as demand, timing, capacity or competitors' prices," Miroslava Marinova, a senior lecturer of commercial law at the University of East London, told CNBC. "It is not new. Airlines, hotels, and ride-hailing services have used it for years."
+Bank of England economists Clare Lombardelli and Rupal Patel said in April that more sophisticated technology is leading to prices changing more frequently and also becoming more individualized, which could see more firms charging "as close to the maximum price a consumer is willing to pay for a good or service," which they defined as "perfect price discrimination."
+These conditions could make it harder for statisticians to "measure and interpret" month-to-month inflation data, as the consumer price index is based on a representative sample of prices for shoppers.
+"That works well when prices mostly move slowly and uniformly. But when prices shift continually – and differently for each shopper – the idea of a 'representative' price becomes strained," the BOE economists added.
+AI collects more consumer data
+While dynamic pricing has been in play for a long time, the BOE economists and Marinova noted that AI tools such as ESLs and facial recognition checkout are changing the amount of information that companies can collect on consumers, from transaction histories to browsing behavior, location, and purchasing patterns.
+On Wednesday, U.K. supermarket chain Sainsbury's released "SmartLists," an AI feature that helps customers create shopping lists and find products just by uploading pictures of what they need or by typing out meal ideas.
+"This is also why the traditional distinction between dynamic and personalised pricing is becoming less clear in practice," Marinova explained. "Dynamic pricing responds primarily to market conditions, whereas personalised pricing uses information about the consumer to estimate willingness to pay."
+As companies use both pricing systems, it raises questions around whether customer information is being used to determine the prices consumers see.
+"As retailers combine market-level information with increasingly detailed consumer data, the boundary between dynamic and personalised pricing becomes thinner," Marinova added.
+Walmart and Kroger have publicly insisted in recent years that they do not use dynamic or surge pricing to set individualized prices for customers, but have instead used tools to streamline operations.
+Several U.S. states are moving to curb data-driven pricing. New York requires most businesses using customers’ personal data to set prices to disclose it clearly. Maryland has restricted food retailers and delivery services from using personalised, data-driven pricing to charge higher prices for certain food, while New Jersey and Connecticut have enacted measures targeting “surveillance pricing.”
+Consumer choice compromised
+Dynamic and personalized pricing are not automatically bad for shoppers, Marinova said, explaining that it can discount items for some consumers, making some products and services more accessible.
+However, the risk of individualized pricing is that consumers are no longer aware of whether the price they're getting reflects general market conditions or if it's been influenced by information about their own behavior.
+"That makes it much harder to compare prices and to know whether another consumer is being offered a different price for the same product," she said. "If consumers cannot understand why they received a particular price, cannot compare it with prices offered to others, and cannot effectively switch to another supplier, the normal disciplining effect of consumer choice becomes weaker."
+The BOE economists added that an additional challenge is that personalized pricing "splinters the consumer experience," which means households will face increasingly different inflation rates.
+"And when prices differ for the same thing, inflation becomes even more personalised – and aggregate measures may no longer reflect households' experience," they said.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
+    publishedAt: "2026-10-11T05:00:01+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
     id: "twelve-killed-and-300-injured-in-attack-aed35251",
     title: "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
     titleJa: "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
@@ -495,6 +879,48 @@ Related topics
     category: "貿易",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ed/live/df926130-c4d0-11f1-bc2e-018d645d8d21.jpg",
     readTime: 8,
+  },
+  {
+    id: "jpmorgan-makes-bullish-call-in-fixed-inc-3e096059",
+    title: "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
+    titleJa: "JPMorgan makes bullish call in fixed income space, suggests it's a once in a generation opportunity",
+    summaryJa: "Why Priya Misra, a portfolio manager at the firm, is looking to take credit risk in high-quality companies.",
+    bodyOriginal: `J.P. Morgan Asset Management is making a bullish call on an underinvested market group: high-quality fixed income.
+Priya Misra, a portfolio manager at the firm, sees a once in a generation opportunity for investors.
+"You can actually take credit risk in the highest quality companies and still get [a] 6.5% [yield], Misra told CNBC's "ETF Edge" this week. "So, you actually don't have to go down in credit [quality]."
+She suggested the strategy is particularly well suited for investors concerned about having too much exposure to artificial intelligence stocks.
+"There's a huge AI exposure," Misra said. "What fixed income gives you is this diversified set of returns. It's not just an AI trade or a tech trade. You have the Treasury trade. You have credit outside of AI."
+Misra co-manages the JPMorgan Core Plus Bond Fund ETF (JCPB). The fund has almost $16 billion in assets under management, with just over three-quarters of its holdings in BBB-rated debt and above, according to the firm's website as of Aug. 31.
+"We've actually been increasing some of the double-B [and] single-B exposure because there has been a widening in high yield spread," she said. "We like some investment grade. And now, we've started in the last few days to increase some duration as well, thinking we may be nearing the end of that rate move."
+The JPMorgan Core Plus Bond Fund ETF is down more than 5% so far this year as of Friday's close, according to FactSet.
+"You want to be looking bond by bond and sort of sector by sector to see where the macro and you have to do the bottom up as well to make sure that companies are not over levered," noted Misra, who's concerned about how higher rates could hurt the housing market.
+BondBloxx co-founder Joanna Gallegos is also advising investors to take advantage of "historically attractive" yields across debt markets.
+"You want to really consider getting some corporate debt into your portfolio," Gallegos said in the same interview. "It's really in the investor's best interest to start looking at the income that's back in fixed income. It can offset the volatility in your portfolio."
+Part of her bull case: Base rates are high, and they're stable.
+"The fundamentals of these corporations are so strong, and the economy continues to grow," added Gallegos. "We really think that's being lost in the narrative around Treasury rates."
+Her firm BondBloxx is known for fixed-income exchange-traded funds in sectors including Treasury, corporate, private credit and emerging markets.
+One of its funds includes the BondBloxx Private Credit CLO ETF (PCMM). As of Friday's close, it's down 0.6% so far this year, according to FactSet.`,
+    bodyJa: `J.P. Morgan Asset Management is making a bullish call on an underinvested market group: high-quality fixed income.
+Priya Misra, a portfolio manager at the firm, sees a once in a generation opportunity for investors.
+"You can actually take credit risk in the highest quality companies and still get [a] 6.5% [yield], Misra told CNBC's "ETF Edge" this week. "So, you actually don't have to go down in credit [quality]."
+She suggested the strategy is particularly well suited for investors concerned about having too much exposure to artificial intelligence stocks.
+"There's a huge AI exposure," Misra said. "What fixed income gives you is this diversified set of returns. It's not just an AI trade or a tech trade. You have the Treasury trade. You have credit outside of AI."
+Misra co-manages the JPMorgan Core Plus Bond Fund ETF (JCPB). The fund has almost $16 billion in assets under management, with just over three-quarters of its holdings in BBB-rated debt and above, according to the firm's website as of Aug. 31.
+"We've actually been increasing some of the double-B [and] single-B exposure because there has been a widening in high yield spread," she said. "We like some investment grade. And now, we've started in the last few days to increase some duration as well, thinking we may be nearing the end of that rate move."
+The JPMorgan Core Plus Bond Fund ETF is down more than 5% so far this year as of Friday's close, according to FactSet.
+"You want to be looking bond by bond and sort of sector by sector to see where the macro and you have to do the bottom up as well to make sure that companies are not over levered," noted Misra, who's concerned about how higher rates could hurt the housing market.
+BondBloxx co-founder Joanna Gallegos is also advising investors to take advantage of "historically attractive" yields across debt markets.
+"You want to really consider getting some corporate debt into your portfolio," Gallegos said in the same interview. "It's really in the investor's best interest to start looking at the income that's back in fixed income. It can offset the volatility in your portfolio."
+Part of her bull case: Base rates are high, and they're stable.
+"The fundamentals of these corporations are so strong, and the economy continues to grow," added Gallegos. "We really think that's being lost in the narrative around Treasury rates."
+Her firm BondBloxx is known for fixed-income exchange-traded funds in sectors including Treasury, corporate, private credit and emerging markets.
+One of its funds includes the BondBloxx Private Credit CLO ETF (PCMM). As of Friday's close, it's down 0.6% so far this year, according to FactSet.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html",
+    publishedAt: "2026-10-10T15:00:01+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 7,
   },
   {
     id: "vance-says-microsoft-replaced-laid-off-w-c53a3566",
@@ -1855,328 +2281,6 @@ There were considerable disparities among education groups. Those with a college
     category: "金融政策",
     imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 9,
-  },
-  {
-    id: "two-massive-trades-just-happened-in-micr-1532c85d",
-    title: "Two massive trades just happened in Micron and Nvidia. What they could mean for chips",
-    titleJa: "Two massive trades just happened in Micron and Nvidia. What they could mean for chips",
-    summaryJa: "Bears continued to build up positions against the semiconductor group on Friday.",
-    bodyOriginal: `Bears continued to build up positions against the semiconductor group on Friday, as a series of eyebrow-raising trades in Micron and Nvidia dominated the tape and called into question the move in chips.
-More than 180,000 puts traded in SMH by midday, compared to 50,000 calls, with $46 million of premium tied to puts versus $26 million in calls, according to ThinkOrSwim and SpotGamma data. By volume, 129,000 put contracts look like they were bought, according to SpotGamma.
-The ratio of open interest in put contracts to calls climbed to 1.95, the highest since the second week of August, Barchart data show. The same ratio for the Invesco QQQ Trust continued its recent climb as well, to 1.51.
-A few big single-stock trades stood out on the tape as well.
-In Nvidia, just after the opening bell, someone bought 100,000 180-strike puts expiring Jan. 15 for $21 million, the biggest trade in the stock's options on the day. If it is a speculative position, it needs Nvidia to fall 22% by expiry.
-Arguably, the most interesting trades were in Micron.
-While call volumes ran 40% higher than average, about $270 million in premium was tied to likely put-buying, according to SpotGamma data. The difference can in part be explained by a string of trades in deep in-the-money put contracts expiring in June 2028.
-The bulk of the trades – about 125 puts with strikes from 2,250 to 2,500 – were transacted closer to the ask, suggesting they were bought. By the same logic, 50 trades at the 2,050 strike were likely sold. Micron shares are trading around $1,030.
-Taken at face value, it would be a net $14.5 million bearish spread position with an options delta near -1, meaning the trade functions like a synthetic short position. Traders will buy deep-in-the-money puts instead of shorting a stock if the cost of borrowing the stock is too high or if they want to have a defined risk position. In purchasing options, the most you can lose is what you put in.
-To be sure, interpreting bid-ask spreads can get murky when analyzing far out-of-the-money trades with low open interest and volume.
-"Spreads have difficulty being categorized by midpoint analysis as well, because dealers are willing to take a haircut on one leg while getting a better premium with the other," said Jason DeLorenzo, owner and founder of Volland, an options market-structure analytics platform.`,
-    bodyJa: `Bears continued to build up positions against the semiconductor group on Friday, as a series of eyebrow-raising trades in Micron and Nvidia dominated the tape and called into question the move in chips.
-More than 180,000 puts traded in SMH by midday, compared to 50,000 calls, with $46 million of premium tied to puts versus $26 million in calls, according to ThinkOrSwim and SpotGamma data. By volume, 129,000 put contracts look like they were bought, according to SpotGamma.
-The ratio of open interest in put contracts to calls climbed to 1.95, the highest since the second week of August, Barchart data show. The same ratio for the Invesco QQQ Trust continued its recent climb as well, to 1.51.
-A few big single-stock trades stood out on the tape as well.
-In Nvidia, just after the opening bell, someone bought 100,000 180-strike puts expiring Jan. 15 for $21 million, the biggest trade in the stock's options on the day. If it is a speculative position, it needs Nvidia to fall 22% by expiry.
-Arguably, the most interesting trades were in Micron.
-While call volumes ran 40% higher than average, about $270 million in premium was tied to likely put-buying, according to SpotGamma data. The difference can in part be explained by a string of trades in deep in-the-money put contracts expiring in June 2028.
-The bulk of the trades – about 125 puts with strikes from 2,250 to 2,500 – were transacted closer to the ask, suggesting they were bought. By the same logic, 50 trades at the 2,050 strike were likely sold. Micron shares are trading around $1,030.
-Taken at face value, it would be a net $14.5 million bearish spread position with an options delta near -1, meaning the trade functions like a synthetic short position. Traders will buy deep-in-the-money puts instead of shorting a stock if the cost of borrowing the stock is too high or if they want to have a defined risk position. In purchasing options, the most you can lose is what you put in.
-To be sure, interpreting bid-ask spreads can get murky when analyzing far out-of-the-money trades with low open interest and volume.
-"Spreads have difficulty being categorized by midpoint analysis as well, because dealers are willing to take a haircut on one leg while getting a better premium with the other," said Jason DeLorenzo, owner and founder of Volland, an options market-structure analytics platform.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/09/two-massive-trades-just-happened-in-micron-and-nvidia-what-they-could-mean-for-chips.html",
-    publishedAt: "2026-10-09T18:50:21+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "burnham-promises-to-curb-non-compete-rul-1e7e408d",
-    title: "Burnham promises to curb non-compete rules in job contracts",
-    titleJa: "Burnham promises to curb non-compete rules in job contracts",
-    summaryJa: "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
-    bodyOriginal: `Burnham promises to curb non-compete rules in job contracts
-- Published
-Andy Burnham has promised to curb companies' ability to restrict what their workers can do after leaving their job.
-In a speech, the prime minister said the use of non-compete clauses in employment contracts had "gone too far" and was holding innovative UK companies back.
-He added the clauses had forced workers to go without pay after leaving a role, as well as making it harder for growing firms to hire new staff.
-Ahead of the Budget later this month, he also said there was "more to do" on tax to encourage promising firms to stay in the UK.
-Sir Keir Starmer's government had been exploring possible restrictions on non-compete clauses since late last year, including a total ban, banning them above a certain salary threshold, or limiting how long they can last.
-Although commonly associated with the financial services and technology sectors, research cited by the government has estimated around 5 million jobs in Britain are covered by the clauses, typically lasting around six months.
-Speaking at a business summit in Manchester, Burnham confirmed his government would press ahead with new legislation to ensure the clauses can "no longer be a barrier" to hiring new staff.
-He added that their use had stopped workers leaving to join other companies, or founding their own firms instead, adding: "I think that's a drag on innovation."
-Referencing a landmark 1995 court ruling that is credited with revolutionising the football transfer market in Europe, he said he hoped reining in non-compete clauses could prove the "Bosman ruling for the innovation sector".
-Investor confidence concerns
-Burnham did not specify the scope of the restrictions he is planning, but suggested they would apply to the "everyday economy" as well as helping "promising start-ups and scaling firms".
-It is understood that the government is planning to unveil details of the proposed restrictions, which were first reported by Politico, external and The Financial Times, external, alongside the Budget on 28 October.
-Responding to the prime minister's comments, the Recruitment and Employment Confederation warned against "sweeping" changes to non-compete rules, adding they played a "vital role" in protecting commercially sensitive information and client relationships.
-The previous Conservative government had ruled out a total ban, external on non-compete clauses, after hearing from employers that it could reduce investor confidence in the UK or prompt companies to tighten how they share information internally.
-The prime minister sought to frame the announcement on non-compete clauses as part of a wider government pitch to boost innovative sectors of the economy.
-He told the summit that although the UK was home to outstanding research and start-ups, too many companies had gone abroad in search of investment.
-He also signalled that the government would "say more" at the Budget about plans to use public investment as a way to encourage private funding in the economy.
-He added that he wanted all UK regions to have a dedicated fund to do this, modelled on the Good Growth Fund launched in Greater Manchester last year, during his tenure as mayor of the city-region.
-He also hinted that the government was looking at the tax system to ensure the UK can retain high-growth companies.
-He said: "One of our biggest challenges is breaking through our own ceiling. Too often, our best ideas are developed and scaled overseas, and with it the jobs, technology and investment that goes with them."
-"So I know there is more to do to fix that, specifically on tax, to encourage people to stay and scale."
-Related topics
-- Published28 September
-- Published27 September`,
-    bodyJa: `Burnham promises to curb non-compete rules in job contracts
-- Published
-Andy Burnham has promised to curb companies' ability to restrict what their workers can do after leaving their job.
-In a speech, the prime minister said the use of non-compete clauses in employment contracts had "gone too far" and was holding innovative UK companies back.
-He added the clauses had forced workers to go without pay after leaving a role, as well as making it harder for growing firms to hire new staff.
-Ahead of the Budget later this month, he also said there was "more to do" on tax to encourage promising firms to stay in the UK.
-Sir Keir Starmer's government had been exploring possible restrictions on non-compete clauses since late last year, including a total ban, banning them above a certain salary threshold, or limiting how long they can last.
-Although commonly associated with the financial services and technology sectors, research cited by the government has estimated around 5 million jobs in Britain are covered by the clauses, typically lasting around six months.
-Speaking at a business summit in Manchester, Burnham confirmed his government would press ahead with new legislation to ensure the clauses can "no longer be a barrier" to hiring new staff.
-He added that their use had stopped workers leaving to join other companies, or founding their own firms instead, adding: "I think that's a drag on innovation."
-Referencing a landmark 1995 court ruling that is credited with revolutionising the football transfer market in Europe, he said he hoped reining in non-compete clauses could prove the "Bosman ruling for the innovation sector".
-Investor confidence concerns
-Burnham did not specify the scope of the restrictions he is planning, but suggested they would apply to the "everyday economy" as well as helping "promising start-ups and scaling firms".
-It is understood that the government is planning to unveil details of the proposed restrictions, which were first reported by Politico, external and The Financial Times, external, alongside the Budget on 28 October.
-Responding to the prime minister's comments, the Recruitment and Employment Confederation warned against "sweeping" changes to non-compete rules, adding they played a "vital role" in protecting commercially sensitive information and client relationships.
-The previous Conservative government had ruled out a total ban, external on non-compete clauses, after hearing from employers that it could reduce investor confidence in the UK or prompt companies to tighten how they share information internally.
-The prime minister sought to frame the announcement on non-compete clauses as part of a wider government pitch to boost innovative sectors of the economy.
-He told the summit that although the UK was home to outstanding research and start-ups, too many companies had gone abroad in search of investment.
-He also signalled that the government would "say more" at the Budget about plans to use public investment as a way to encourage private funding in the economy.
-He added that he wanted all UK regions to have a dedicated fund to do this, modelled on the Good Growth Fund launched in Greater Manchester last year, during his tenure as mayor of the city-region.
-He also hinted that the government was looking at the tax system to ensure the UK can retain high-growth companies.
-He said: "One of our biggest challenges is breaking through our own ceiling. Too often, our best ideas are developed and scaled overseas, and with it the jobs, technology and investment that goes with them."
-"So I know there is more to do to fix that, specifically on tax, to encourage people to stay and scale."
-Related topics
-- Published28 September
-- Published27 September`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-09T16:15:30+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/887d/live/a06cb1b0-c3de-11f1-95ba-dba767ffba7e.png",
-    readTime: 9,
-  },
-  {
-    id: "ex-deutsche-bank-trader-jailed-for-riggi-41707074",
-    title: "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
-    titleJa: "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
-    summaryJa: "The Court of Appeal quashes the conviction of Christian Bittar, a former Deutsche Bank trader jailed in 2018.",
-    bodyOriginal: `Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned
-- Published
-Another former banker sentenced in one of the biggest scandals of the financial crisis has had his conviction overturned following a long-running legal battle.
-The Court of Appeal has quashed the conviction of Christian Bittar, a former Deutsche Bank trader who went to prison in 2018 for "manipulating" the benchmark interest rate, Euribor.
-It comes after the same UK court overturned five convictions of ex-Barclays bankers in the rate rigging trials earlier this week.
-Bittar, who watched proceedings via video link from Switzerland because he was not granted a visa to attend court, told the BBC: "I have waited a very, very long time for this day."
-The financial crisis began in 2008, sending huge economic shockwaves across the world and triggering recessions in many countries.
-There was a public backlash against bankers, held by many to be responsible for the crisis, while the financial sector was protected by taxpayer-funded bailouts.
-The Libor scandal erupted in 2012, when it was discovered that at the outbreak of the financial crisis, banks had been misrepresenting their positions during the process of setting the lending rate, helping to boost profits and mask difficulties.
-Some 19 City traders were convicted in the US and UK between 2015 and 2019 across nine criminal trials held in London and New York.
-Eighteen of these have now been acquitted.
-Only one former trader in the world now remains convicted: former Barclays trader Peter Johnson, who was also one of the original whistleblowers in the interest rate rigging scandal. He pleaded guilty on advice that he had little chance at winning at trial. The court confirmed that he too has now applied to appeal against his conviction.
-The news has already prompted lawyers and senior politicians to press for the Bank of England and the Treasury to release all their records about their own roles in interest rate 'rigging' during the financial crisis, amid concerns raised of a cover-up of the role of central banks and governments.
-'Finally our injustice has been recognised'
-Speaking after his conviction was quashed, Bittar said: "Finally the injustice of what I and others suffered has been recognised.
-"I am so grateful for those who stood by me through this ordeal and those who worked so tirelessly to correct it."
-His wife, Caroline, who lives in the UK, said their family had lost 15 "valuable years", with their children "growing up with this injustice".
-She added they were looking forward to "enjoying life with our family and friends without this shadow hanging over us".
-On Wednesday, Jay Merchant, Jonathan Mathew, Alex Pabon, Colin Bermingham and Philippe Moryoussef saw their convictions for 'manipulating' the interest rate benchmarks Libor and Euribor quashed after a 10-year struggle for justice.
-They launched fresh appeals against their jail sentences following a Supreme Court ruling last year that acquitted Tom Hayes, the first to be jailed for 'rigging' interest rates in 2015, and Carlo Palombo, jailed in 2019.
-Tom Hayes, who was initially sentenced to 14 years, reduced on appeal to 11, is now seeking damages from his former employer UBS.
-The traders were among 37 City traders and brokers prosecuted for "manipulating" the interest rate benchmarks Libor and Euribor, which track the cost of borrowing cash between the banks and have been used to set the interest rates on millions of mortgages and commercial loans.
-The BBC has uncovered evidence of a much larger, state-led 'rigging' of interest rates, under pressure from central banks and governments across the world. Evidence implicating Downing Street and the Bank of England was suppressed throughout the criminal trials.
-Former Conservative cabinet minister David Davis told the BBC the innocent traders had been the victims of a series of miscarriages of justice.
-He said the people exonerated this week and before were "the victims of a scapegoating exercise which arose as a result of the government's own misbehaviour in lowballing [falsely understating] Libor interest rates themselves, in order to try and rescue the economy after their own self-induced crash in the late 2000s".
-In 2015, during the first trial for interest rate 'rigging', of former UBS trader Hayes, Mr Justice Jeremy Cooke decided as a matter of law that any attempt to influence the rates could not be lawful, and that any rate influenced by commercial interest must automatically be false. Judges in the subsequent eight trials followed suit.
-However, in July 2025, the Supreme Court decided that all the judges had erred, misdirecting juries that it was wrong as a matter of law. Instead, whether the requests were right or wrong was properly a matter of fact for the jury to decide, not the judge.
-All convictions in the United States were overturned in 2022 after an appeal court ruled that there was insufficient evidence that the traders' requests had broken any rules or laws.
-- Published2 days ago`,
-    bodyJa: `Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned
-- Published
-Another former banker sentenced in one of the biggest scandals of the financial crisis has had his conviction overturned following a long-running legal battle.
-The Court of Appeal has quashed the conviction of Christian Bittar, a former Deutsche Bank trader who went to prison in 2018 for "manipulating" the benchmark interest rate, Euribor.
-It comes after the same UK court overturned five convictions of ex-Barclays bankers in the rate rigging trials earlier this week.
-Bittar, who watched proceedings via video link from Switzerland because he was not granted a visa to attend court, told the BBC: "I have waited a very, very long time for this day."
-The financial crisis began in 2008, sending huge economic shockwaves across the world and triggering recessions in many countries.
-There was a public backlash against bankers, held by many to be responsible for the crisis, while the financial sector was protected by taxpayer-funded bailouts.
-The Libor scandal erupted in 2012, when it was discovered that at the outbreak of the financial crisis, banks had been misrepresenting their positions during the process of setting the lending rate, helping to boost profits and mask difficulties.
-Some 19 City traders were convicted in the US and UK between 2015 and 2019 across nine criminal trials held in London and New York.
-Eighteen of these have now been acquitted.
-Only one former trader in the world now remains convicted: former Barclays trader Peter Johnson, who was also one of the original whistleblowers in the interest rate rigging scandal. He pleaded guilty on advice that he had little chance at winning at trial. The court confirmed that he too has now applied to appeal against his conviction.
-The news has already prompted lawyers and senior politicians to press for the Bank of England and the Treasury to release all their records about their own roles in interest rate 'rigging' during the financial crisis, amid concerns raised of a cover-up of the role of central banks and governments.
-'Finally our injustice has been recognised'
-Speaking after his conviction was quashed, Bittar said: "Finally the injustice of what I and others suffered has been recognised.
-"I am so grateful for those who stood by me through this ordeal and those who worked so tirelessly to correct it."
-His wife, Caroline, who lives in the UK, said their family had lost 15 "valuable years", with their children "growing up with this injustice".
-She added they were looking forward to "enjoying life with our family and friends without this shadow hanging over us".
-On Wednesday, Jay Merchant, Jonathan Mathew, Alex Pabon, Colin Bermingham and Philippe Moryoussef saw their convictions for 'manipulating' the interest rate benchmarks Libor and Euribor quashed after a 10-year struggle for justice.
-They launched fresh appeals against their jail sentences following a Supreme Court ruling last year that acquitted Tom Hayes, the first to be jailed for 'rigging' interest rates in 2015, and Carlo Palombo, jailed in 2019.
-Tom Hayes, who was initially sentenced to 14 years, reduced on appeal to 11, is now seeking damages from his former employer UBS.
-The traders were among 37 City traders and brokers prosecuted for "manipulating" the interest rate benchmarks Libor and Euribor, which track the cost of borrowing cash between the banks and have been used to set the interest rates on millions of mortgages and commercial loans.
-The BBC has uncovered evidence of a much larger, state-led 'rigging' of interest rates, under pressure from central banks and governments across the world. Evidence implicating Downing Street and the Bank of England was suppressed throughout the criminal trials.
-Former Conservative cabinet minister David Davis told the BBC the innocent traders had been the victims of a series of miscarriages of justice.
-He said the people exonerated this week and before were "the victims of a scapegoating exercise which arose as a result of the government's own misbehaviour in lowballing [falsely understating] Libor interest rates themselves, in order to try and rescue the economy after their own self-induced crash in the late 2000s".
-In 2015, during the first trial for interest rate 'rigging', of former UBS trader Hayes, Mr Justice Jeremy Cooke decided as a matter of law that any attempt to influence the rates could not be lawful, and that any rate influenced by commercial interest must automatically be false. Judges in the subsequent eight trials followed suit.
-However, in July 2025, the Supreme Court decided that all the judges had erred, misdirecting juries that it was wrong as a matter of law. Instead, whether the requests were right or wrong was properly a matter of fact for the jury to decide, not the judge.
-All convictions in the United States were overturned in 2022 after an appeal court ruled that there was insufficient evidence that the traders' requests had broken any rules or laws.
-- Published2 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-09T14:36:35+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/875d/live/70d424a0-c3ee-11f1-9a39-31b474234113.jpg",
-    readTime: 10,
-  },
-  {
-    id: "treasury-s-bessent-hires-trump-s-controv-366de4cd",
-    title: "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
-    titleJa: "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
-    summaryJa: "Shelton's controversial economic ideas led the Senate to block her nomination to the Fed. Now she's going to be a counselor to the Treasury secretary.",
-    bodyOriginal: `Judy Shelton, whose controversial economic ideas led the Senate to block her nomination to the Federal Reserve, has been appointed a counselor to Treasury Secretary Scott Bessent.
-The Treasury said Shelton will advise Bessent on currency policy, "with a particular focus on evaluating financial conditions in China."
-Shelton is not known as a China expert. She authored "The Coming Soviet Crash" in 1989, followed by "Money Meltdown," about the need for a unified international monetary regime, in 1994. Before joining Treasury, Shelton was a senior fellow at the Independent Institute, a free market think tank, and, before that, at the Hoover Institution at Stanford University. She holds a Ph.D. in business administration from the University of Utah.
-"Throughout her career, she has specialized in analyzing the internal monetary and financial conditions of nations and their impact on exchange rates," The Treasury said in its announcement, which will be released later Friday.
-A bipartisan group of senators, including all Democrats and a handful of Republicans, rejected President Donald Trump's 2019 nomination of Shelton as a Fed governor over her views on Fed independence, her support for the gold standard and her questioning whether the U.S. needed a central bank.
-Her appointment comes at what looks to be a time of turmoil at the Treasury regarding high-level personnel. A recent Wall Street Journal story cataloged seven Senate-confirmed officials who have left the department through the end of August. Only one position has been filled.
-Bessent recently named David Zervos, former chief market strategist at Jefferies, as a counselor — the same job title as Shelton. Neither Shelton nor Zervos require Senate approval.`,
-    bodyJa: `Judy Shelton, whose controversial economic ideas led the Senate to block her nomination to the Federal Reserve, has been appointed a counselor to Treasury Secretary Scott Bessent.
-The Treasury said Shelton will advise Bessent on currency policy, "with a particular focus on evaluating financial conditions in China."
-Shelton is not known as a China expert. She authored "The Coming Soviet Crash" in 1989, followed by "Money Meltdown," about the need for a unified international monetary regime, in 1994. Before joining Treasury, Shelton was a senior fellow at the Independent Institute, a free market think tank, and, before that, at the Hoover Institution at Stanford University. She holds a Ph.D. in business administration from the University of Utah.
-"Throughout her career, she has specialized in analyzing the internal monetary and financial conditions of nations and their impact on exchange rates," The Treasury said in its announcement, which will be released later Friday.
-A bipartisan group of senators, including all Democrats and a handful of Republicans, rejected President Donald Trump's 2019 nomination of Shelton as a Fed governor over her views on Fed independence, her support for the gold standard and her questioning whether the U.S. needed a central bank.
-Her appointment comes at what looks to be a time of turmoil at the Treasury regarding high-level personnel. A recent Wall Street Journal story cataloged seven Senate-confirmed officials who have left the department through the end of August. Only one position has been filled.
-Bessent recently named David Zervos, former chief market strategist at Jefferies, as a counselor — the same job title as Shelton. Neither Shelton nor Zervos require Senate approval.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html",
-    publishedAt: "2026-10-09T12:49:28+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "delta-air-lines-cuts-2026-forecast-on-fu-6d7310e6",
-    title: "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
-    titleJa: "Delta Air Lines cuts 2026 forecast on fuel surge, but CEO says demand is still strong",
-    summaryJa: "Delta Air Lines reported third-quarter earnings and missed Wall Street estimates for the first time in two years.",
-    bodyOriginal: `Delta Air Lines slashed its 2026 profit outlook as high fuel prices persist, but CEO Ed Bastian said higher fares aren't turning off travelers.
-Delta on Friday forecast full-year earnings per share of between $5.10 and $5.60 on an adjusted basis, compared with its outlook in July, when fuel prices were lower, of $6.50 to $7.50 a share. The company's fourth-quarter guidance was below analyst estimates, too.
-Delta cut its free cash flow outlook for the year to $2.5 billion, from as much as $4 billion it expected in July.
-Still, Bastian said in an interview that fares have continued to tick up as the airline passes along much of a $6 billion increase in fuel costs this year, and that travelers keep booking. Jet fuel prices in the U.S. Gulf of Mexico region have almost doubled to $4.34 on Thursday from $2.19 a year earlier, according to FactSet.
-"The consumer response continues to be quite strong. We're seeing it across all channels, all cabins of service, all geographies, business, leisure," he said.
-Delta forecast a 20% increase in revenue for the fourth quarter over the same period last year, more than the 16% rise in the third quarter, when adjusting for the airline's benefit from its refinery in Trainer, Pennsylvania, where it refines crude oil into jet fuel and other products, giving it an advantage over other carriers.
-"Obviously the fuel pricing, the volatility of fuel prices have something to do with that," Bastian said.
-Delta is the country's most profitable airline and the first to report results from the third quarter, which encompasses the busy summer season.
-Costs continued to weigh on the bottom line. The fuel price surge since the Iran war began in February has put a damper on airline profits even as carriers flex pricing power. The latest inflation read in September showed airfare up more than 23% from a year earlier.
-Here's what the company reported for the third quarter compared with what Wall Street was expecting, based on consensus estimates from LSEG:
-- Earnings per share: $1.72 adjusted vs. $1.75 expected
-- Adjusted revenue: $17.59 billion adjusted vs. $17.67 billion expected
-It was the first time in two years that Delta missed estimates.
-Delta reported net income of $756 million, or $1.15 a share, down 47% from $1.42 billion, or $2.17 per share, a year earlier. Adjusting for one-time items, Delta posted earnings of $1.76 per share.
-Adjusting for sales from its refinery, maintenance business and profit-sharing, revenue rose 16% from the previous year to $17.59 billion. Operating revenue jumped 21% in the third quarter to $20.19 billion.
-Delta's premium revenue, which has become a larger portion of its total sales, grew 18% in the third quarter to $6.82 billion, while main cabin sales rose only 12% to $6.8 billion.
-Musk dispute
-Delta, which announced free Wi-Fi across its fleet almost four years ago, recently said it would add Amazon Leo satellite internet to its airplanes as carriers race to improve service on board to living-room-quality speeds.
-SpaceX CEO Elon Musk criticized Bastian on X last week, saying the Delta CEO would "lose his job over this" after the View from the Wing travel blog said Bastian told staff at an internal event "We do not want to be with Elon Musk. Trust me."
-SpaceX's Starlink Wi-Fi has become the main supplier of satellite Wi-Fi, with airline partnerships that include United Airlines, American Airlines, Southwest Airlines and Alaska Airlines, as well as others around the world.
-Delta's Bastian brushed off the idea of a personal spat with Musk on Friday and told CNBC's Phil LeBeau in an interview that "everyone's entitled to their opinion."
-"There's no tit-for-tat as far as I'm concerned," Bastian said. He said Delta had talks with SpaceX six years ago, but they "weren't ready to scale."`,
-    bodyJa: `Delta Air Lines slashed its 2026 profit outlook as high fuel prices persist, but CEO Ed Bastian said higher fares aren't turning off travelers.
-Delta on Friday forecast full-year earnings per share of between $5.10 and $5.60 on an adjusted basis, compared with its outlook in July, when fuel prices were lower, of $6.50 to $7.50 a share. The company's fourth-quarter guidance was below analyst estimates, too.
-Delta cut its free cash flow outlook for the year to $2.5 billion, from as much as $4 billion it expected in July.
-Still, Bastian said in an interview that fares have continued to tick up as the airline passes along much of a $6 billion increase in fuel costs this year, and that travelers keep booking. Jet fuel prices in the U.S. Gulf of Mexico region have almost doubled to $4.34 on Thursday from $2.19 a year earlier, according to FactSet.
-"The consumer response continues to be quite strong. We're seeing it across all channels, all cabins of service, all geographies, business, leisure," he said.
-Delta forecast a 20% increase in revenue for the fourth quarter over the same period last year, more than the 16% rise in the third quarter, when adjusting for the airline's benefit from its refinery in Trainer, Pennsylvania, where it refines crude oil into jet fuel and other products, giving it an advantage over other carriers.
-"Obviously the fuel pricing, the volatility of fuel prices have something to do with that," Bastian said.
-Delta is the country's most profitable airline and the first to report results from the third quarter, which encompasses the busy summer season.
-Costs continued to weigh on the bottom line. The fuel price surge since the Iran war began in February has put a damper on airline profits even as carriers flex pricing power. The latest inflation read in September showed airfare up more than 23% from a year earlier.
-Here's what the company reported for the third quarter compared with what Wall Street was expecting, based on consensus estimates from LSEG:
-- Earnings per share: $1.72 adjusted vs. $1.75 expected
-- Adjusted revenue: $17.59 billion adjusted vs. $17.67 billion expected
-It was the first time in two years that Delta missed estimates.
-Delta reported net income of $756 million, or $1.15 a share, down 47% from $1.42 billion, or $2.17 per share, a year earlier. Adjusting for one-time items, Delta posted earnings of $1.76 per share.
-Adjusting for sales from its refinery, maintenance business and profit-sharing, revenue rose 16% from the previous year to $17.59 billion. Operating revenue jumped 21% in the third quarter to $20.19 billion.
-Delta's premium revenue, which has become a larger portion of its total sales, grew 18% in the third quarter to $6.82 billion, while main cabin sales rose only 12% to $6.8 billion.
-Musk dispute
-Delta, which announced free Wi-Fi across its fleet almost four years ago, recently said it would add Amazon Leo satellite internet to its airplanes as carriers race to improve service on board to living-room-quality speeds.
-SpaceX CEO Elon Musk criticized Bastian on X last week, saying the Delta CEO would "lose his job over this" after the View from the Wing travel blog said Bastian told staff at an internal event "We do not want to be with Elon Musk. Trust me."
-SpaceX's Starlink Wi-Fi has become the main supplier of satellite Wi-Fi, with airline partnerships that include United Airlines, American Airlines, Southwest Airlines and Alaska Airlines, as well as others around the world.
-Delta's Bastian brushed off the idea of a personal spat with Musk on Friday and told CNBC's Phil LeBeau in an interview that "everyone's entitled to their opinion."
-"There's no tit-for-tat as far as I'm concerned," Bastian said. He said Delta had talks with SpaceX six years ago, but they "weren't ready to scale."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/09/delta-air-lines-dal-q3-2026-earnings.html",
-    publishedAt: "2026-10-09T12:20:12+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "how-to-navigate-new-tax-rules-in-year-en-a67b2207",
-    title: "How to navigate new tax rules in year-end planning, according to top-ranked advisors",
-    titleJa: "How to navigate new tax rules in year-end planning, according to top-ranked advisors",
-    summaryJa: "Top-ranked advisors from CNBC's Financial Advisor 100 list for 2026 share tax planning strategies for 2026.",
-    bodyOriginal: `Taxes have grown more complex amid changes from President Donald Trump's "big beautiful bill" and other updates, which top-ranked advisors say could affect year-end tax planning.
-The Republicans' marquee legislation extended Trump's 2017 cuts while adding new tax breaks for tip income, overtime earnings and auto loan interest, as well as a deduction that benefits seniors. The law also boosted the federal deduction limit for state and local taxes, known as SALT, among other shifts.
-Often, planning happens throughout the year, and most strategies must be completed by Dec. 31 to affect tax refunds or balances due for the ensuing tax filing season. As year-end approaches, there are some key tax moves to consider, experts say.
-Manage income for the 'ACA cliff'
-Changes to adjusted gross income, or AGI, can affect a range of tax benefits, including the premium tax credit, which makes Affordable Care Act marketplace health insurance cheaper.
-While Congress boosted the credit during the pandemic, the enhanced benefit expired after 2025, exposing millions of Americans to the so-called "ACA cliff" starting in 2026. That means if they earn even $1 more than a certain income threshold, they lose all eligibility for subsidies and must pay the full premium for health coverage.
-"This is the first year the ACA cliff really matters," said Tommy Lucas, a certified financial planner at Moisand Fitzgerald Tamayo in Orlando, Florida. His firm is ranked No. 44 on CNBC's Financial Advisor 100 list for 2026.
-The cliff affects ACA enrollees once household income exceeds 400% of the federal poverty line threshold, which varies by family size. For 2026, those limits are about $63,000 for a single person or $129,000 for a family of four.
-But there are strategies to avoid "falling off the cliff," such as pairing a high-deduction health plan with health savings account contributions, which reduce your AGI, Lucas said.
-Leverage the charitable deduction
-Starting in 2026, Trump's legislation also added a charitable deduction for filers who don't itemize tax breaks, worth up to $1,000 for single filers and $2,000 for married couples. The deduction applies to cash contributions made to eligible nonprofit organizations.
-A $2,000 deduction reduces your income subject to tax. For example, if a married couple filing jointly in the 22% tax bracket donates $2,000, they could reduce federal income taxes by up to $440.
-If you claim the deduction for 2026, you could have "a little bit more room" to potentially offset moves that add to your taxable income, such as selling profitable investments or making Roth conversions, Lucas said.
-Transfer assets to a donor-advised fund
-If you itemize deductions and give to charity, Trump's legislation added two changes that could reduce your benefit.
-For 2026, there's a charitable deduction "floor" for itemizers, which allows the tax break only once your donations exceed 0.5% of AGI. There wasn't a floor before the 2025 tax law.
-For example, if your AGI is $200,000 and you donate $10,000 in 2026, the 0.5% floor, or the first $1,000, isn't eligible for the charitable deduction.
-Trump's legislation also limits the deduction for top-earning households in the 37% top marginal income tax rate by effectively capping the tax break at 35%.
-With the S&P 500 hovering near a record high, many investors are sitting on profitable assets in taxable brokerage accounts and may consider donating those assets for a possible charitable deduction.
-One way to maximize gifts under the new law is bunching charitable gifts you'd have otherwise donated gradually into a single year, according to CFP Charissa Anderson, an executive vice president at Ferguson Wellman Capital Management in Portland, Oregon. Her firm ranked No. 52 on CNBC's Financial Advisor 100 list for 2026.
-"Bunching becomes even more tax-effective when we pair it with the donor-advised fund and fund it with appreciated stock," she said. Donor-advised funds work like a charitable checkbook, allowing taxpayers to make a large gift at one time but can distribute the funds to eligible nonprofit organizations over time.
-Plus, donating profitable investments "still continues to provide the benefits of avoiding capital gains," Anderson said.
-CNBC receives no compensation from placing financial advisory firms on our Financial Advisor 100 list. Additionally, a firm's or advisor's appearance in our ranking does not constitute an individual endorsement by CNBC of any firm or advisor.`,
-    bodyJa: `Taxes have grown more complex amid changes from President Donald Trump's "big beautiful bill" and other updates, which top-ranked advisors say could affect year-end tax planning.
-The Republicans' marquee legislation extended Trump's 2017 cuts while adding new tax breaks for tip income, overtime earnings and auto loan interest, as well as a deduction that benefits seniors. The law also boosted the federal deduction limit for state and local taxes, known as SALT, among other shifts.
-Often, planning happens throughout the year, and most strategies must be completed by Dec. 31 to affect tax refunds or balances due for the ensuing tax filing season. As year-end approaches, there are some key tax moves to consider, experts say.
-Manage income for the 'ACA cliff'
-Changes to adjusted gross income, or AGI, can affect a range of tax benefits, including the premium tax credit, which makes Affordable Care Act marketplace health insurance cheaper.
-While Congress boosted the credit during the pandemic, the enhanced benefit expired after 2025, exposing millions of Americans to the so-called "ACA cliff" starting in 2026. That means if they earn even $1 more than a certain income threshold, they lose all eligibility for subsidies and must pay the full premium for health coverage.
-"This is the first year the ACA cliff really matters," said Tommy Lucas, a certified financial planner at Moisand Fitzgerald Tamayo in Orlando, Florida. His firm is ranked No. 44 on CNBC's Financial Advisor 100 list for 2026.
-The cliff affects ACA enrollees once household income exceeds 400% of the federal poverty line threshold, which varies by family size. For 2026, those limits are about $63,000 for a single person or $129,000 for a family of four.
-But there are strategies to avoid "falling off the cliff," such as pairing a high-deduction health plan with health savings account contributions, which reduce your AGI, Lucas said.
-Leverage the charitable deduction
-Starting in 2026, Trump's legislation also added a charitable deduction for filers who don't itemize tax breaks, worth up to $1,000 for single filers and $2,000 for married couples. The deduction applies to cash contributions made to eligible nonprofit organizations.
-A $2,000 deduction reduces your income subject to tax. For example, if a married couple filing jointly in the 22% tax bracket donates $2,000, they could reduce federal income taxes by up to $440.
-If you claim the deduction for 2026, you could have "a little bit more room" to potentially offset moves that add to your taxable income, such as selling profitable investments or making Roth conversions, Lucas said.
-Transfer assets to a donor-advised fund
-If you itemize deductions and give to charity, Trump's legislation added two changes that could reduce your benefit.
-For 2026, there's a charitable deduction "floor" for itemizers, which allows the tax break only once your donations exceed 0.5% of AGI. There wasn't a floor before the 2025 tax law.
-For example, if your AGI is $200,000 and you donate $10,000 in 2026, the 0.5% floor, or the first $1,000, isn't eligible for the charitable deduction.
-Trump's legislation also limits the deduction for top-earning households in the 37% top marginal income tax rate by effectively capping the tax break at 35%.
-With the S&P 500 hovering near a record high, many investors are sitting on profitable assets in taxable brokerage accounts and may consider donating those assets for a possible charitable deduction.
-One way to maximize gifts under the new law is bunching charitable gifts you'd have otherwise donated gradually into a single year, according to CFP Charissa Anderson, an executive vice president at Ferguson Wellman Capital Management in Portland, Oregon. Her firm ranked No. 52 on CNBC's Financial Advisor 100 list for 2026.
-"Bunching becomes even more tax-effective when we pair it with the donor-advised fund and fund it with appreciated stock," she said. Donor-advised funds work like a charitable checkbook, allowing taxpayers to make a large gift at one time but can distribute the funds to eligible nonprofit organizations over time.
-Plus, donating profitable investments "still continues to provide the benefits of avoiding capital gains," Anderson said.
-CNBC receives no compensation from placing financial advisory firms on our Financial Advisor 100 list. Additionally, a firm's or advisor's appearance in our ranking does not constitute an individual endorsement by CNBC of any firm or advisor.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/09/year-end-tax-strategies-2026.html",
-    publishedAt: "2026-10-09T12:15:01+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "feel-like-a-pumpkin-spice-burrito-analys-6ae659c1",
-    title: "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
-    titleJa: "Feel like a pumpkin-spice burrito? Analysts try to wrap their heads around a possible Starbucks-Chipotle tie-up.",
-    summaryJa: "Starbucks investors would likely not be happy about the company adding debt to finance a deal to buy Chipotle, given that it already has a high debt load.",
-    bodyOriginal: `Starbucks investors would likely not be happy about the company adding debt to finance a deal to buy Chipotle, given that it already has a high debt load.`,
-    bodyJa: `Starbucks investors would likely not be happy about the company adding debt to finance a deal to buy Chipotle, given that it already has a high debt load.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/feel-like-a-pumpkin-spice-burrito-analysts-try-to-wrap-their-heads-around-a-possible-starbucks-chipotle-tie-up-5b8519fd?mod=mw_rss_topstories",
-    publishedAt: "2026-10-09T12:06:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-31884893",
-    readTime: 2,
   },
 ];
 
