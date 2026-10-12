@@ -15,6 +15,502 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "tiktok-ceo-sees-major-scientific-breakth-32b6fb10",
+    title: "TikTok CEO sees major scientific breakthroughs from AI within three years",
+    titleJa: "TikTok CEO sees major scientific breakthroughs from AI within three years",
+    summaryJa: "Chew cautioned that AI's growing capabilities would require stronger safeguards, particularly as autonomous systems become more widely adopted.",
+    bodyOriginal: `SINGAPORE — TikTok CEO Shou Zi Chew expects artificial intelligence to drive major scientific breakthroughs within the next three years, transforming a broad range of sectors.
+"In the next two to three years, we're going to have a real scientific breakthrough: physics, biotech, chemistry, material science, because of AI. It's very, very, very possible," Chew said at the DBS Asia Future Forward Conference in Singapore on Monday.
+Chew's remarks come as ByteDance, TikTok's Chinese parent, expands its artificial intelligence research beyond consumer applications. In April, the company's Seed research team unveiled Protenix-v2, an AI model focused on biomolecular structure prediction and design, with potential applications in drug discovery.
+Chew said rapid advances in AI were opening up possibilities far beyond the technology's current applications, even as questions remain over how to ensure increasingly powerful systems operate within human ethical boundaries.
+"If that happens, then you know the question would be: how do you align the models? How do you align the machines to be doing things that are obvious to us as human beings?" he said.
+Chew highlighted the accelerating pace of technological development, particularly in scientific research, arguing that the longer-term implications of AI could be far greater than currently anticipated.
+"The trend is very very clear. It's that we are only at the beginning of what artificial intelligence can probably do," he said. "And if you look at where the trend is, [where] the progress is, particularly in areas of science, it's really trending on a very steep curve at this moment in time."
+Chew explained that while the technology's immediate impact could be overstated, its longer-term potential remained underappreciated. "I think in the short term we are probably overestimating it, but in the long term we are probably underestimating it," he said.
+His optimism comes at a time when technology giants have been pouring billions of dollars into AI-powered scientific research. Last week, the U.S. government, Meta and Google announced their participation in a $1.8 billion initiative to develop AI models capable of predicting how cells behave, in an effort to accelerate biological research and drug discovery.
+TikTok's parent company, ByteDance, is also developing its own AI models and exploring opportunities to collaborate with scientists on research.
+"There's an effort to see how we can collaborate with a lot of scientists to make some progress in science as well," Chew added. "There's been some work that we've done in this area, and it is very exciting."
+He described scientific discovery as one of the most promising applications of AI, even as the technology increasingly reshapes TikTok's operations, from content creation and recommendations to search and moderation.
+Chew cautioned that AI's growing capabilities would require stronger safeguards, particularly as autonomous systems become more widely adopted.
+"I think the cybersecurity risks are quite big," he said, warning that users may grant AI agents extensive permissions without fully understanding the potential consequences.
+He pointed to the risks of allowing AI agents to make purchases autonomously, saying the systems could end up buying more than users intended in their eagerness to complete a task.
+Chew also highlighted the growing cybersecurity challenges facing companies, as increasingly sophisticated AI models make it significantly cheaper for malicious actors to carry out fraudulent activities.
+"So you need the right tools to now you know defend against the fast falling cost of creating problems for platforms like us, security problems for us," he emphasized.`,
+    bodyJa: `SINGAPORE — TikTok CEO Shou Zi Chew expects artificial intelligence to drive major scientific breakthroughs within the next three years, transforming a broad range of sectors.
+"In the next two to three years, we're going to have a real scientific breakthrough: physics, biotech, chemistry, material science, because of AI. It's very, very, very possible," Chew said at the DBS Asia Future Forward Conference in Singapore on Monday.
+Chew's remarks come as ByteDance, TikTok's Chinese parent, expands its artificial intelligence research beyond consumer applications. In April, the company's Seed research team unveiled Protenix-v2, an AI model focused on biomolecular structure prediction and design, with potential applications in drug discovery.
+Chew said rapid advances in AI were opening up possibilities far beyond the technology's current applications, even as questions remain over how to ensure increasingly powerful systems operate within human ethical boundaries.
+"If that happens, then you know the question would be: how do you align the models? How do you align the machines to be doing things that are obvious to us as human beings?" he said.
+Chew highlighted the accelerating pace of technological development, particularly in scientific research, arguing that the longer-term implications of AI could be far greater than currently anticipated.
+"The trend is very very clear. It's that we are only at the beginning of what artificial intelligence can probably do," he said. "And if you look at where the trend is, [where] the progress is, particularly in areas of science, it's really trending on a very steep curve at this moment in time."
+Chew explained that while the technology's immediate impact could be overstated, its longer-term potential remained underappreciated. "I think in the short term we are probably overestimating it, but in the long term we are probably underestimating it," he said.
+His optimism comes at a time when technology giants have been pouring billions of dollars into AI-powered scientific research. Last week, the U.S. government, Meta and Google announced their participation in a $1.8 billion initiative to develop AI models capable of predicting how cells behave, in an effort to accelerate biological research and drug discovery.
+TikTok's parent company, ByteDance, is also developing its own AI models and exploring opportunities to collaborate with scientists on research.
+"There's an effort to see how we can collaborate with a lot of scientists to make some progress in science as well," Chew added. "There's been some work that we've done in this area, and it is very exciting."
+He described scientific discovery as one of the most promising applications of AI, even as the technology increasingly reshapes TikTok's operations, from content creation and recommendations to search and moderation.
+Chew cautioned that AI's growing capabilities would require stronger safeguards, particularly as autonomous systems become more widely adopted.
+"I think the cybersecurity risks are quite big," he said, warning that users may grant AI agents extensive permissions without fully understanding the potential consequences.
+He pointed to the risks of allowing AI agents to make purchases autonomously, saying the systems could end up buying more than users intended in their eagerness to complete a task.
+Chew also highlighted the growing cybersecurity challenges facing companies, as increasingly sophisticated AI models make it significantly cheaper for malicious actors to carry out fraudulent activities.
+"So you need the right tools to now you know defend against the fast falling cost of creating problems for platforms like us, security problems for us," he emphasized.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html",
+    publishedAt: "2026-10-12T04:24:33+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "oil-falls-after-trump-declares-energy-ce-59a248d0",
+    title: "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
+    titleJa: "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
+    summaryJa: "Ukrainian President Volodymyr Zelenskyy said in a post on social media that \"Ukraine supports the ceasefire, and it is important that Russia support it as well.\"",
+    bodyOriginal: `Oil fell Monday on optimism of improved supplies after President Donald Trump said that Russia and Ukraine will not be targeting each other's energy facilities, while Iran reached out to Saudi Arabia after Houthi attacks against the kingdom.
+Futures for international benchmark Brent crude for December delivery dropped 1.33% to $103.33 a barrel. U.S. West Texas Intermediate futures for November declined 1.68% to $90.31 per barrel.
+"Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine. Both parties have agreed. Do not break it!" Trump said in a social media statement Sunday stateside.
+Ukrainian President Volodymyr Zelenskyy said in a post on social media that "Ukraine supports the ceasefire, and it is important that Russia support it as well."
+Prospects of more Russian energy hitting markets after a deal with the U.S. have also risen after Trump said Friday that Moscow will supply more than 4 million tons of diesel to the global market under a deal he struck with Putin during a phone call.
+According to the Saudi state news agency, Iran's Minister of Foreign Affairs Abbas Araghchi made a phone call to Saudi Arabia's Minister of Foreign Affairs Faisal bin Farhan bin Abdullah, to discuss about the region's recent escalation of events as well as the efforts to address it.
+Al Jazeera reported Araghchi had said Iran was ready to provide assistance to help with the start of dialogue between Saudi Arabia and Yemen's Houthis.
+Oil prices are expected to remain volatile in the near term as the U.S.-Iran conflict continues, while the impact of Hurricane Isaias on U.S. energy producers could also hurt supplies .
+"The pressure on oil prices could remain on the upside as Hurricane Isaias strengthened to Category 3 with 120mph winds as it approached the US Gulf Coast, forcing energy producers to curtail offshore output," UOB said in a note on Monday.
+"Separately, Houthi missile strikes on Saudi Arabia's Riyadh airport on Sat which killed 12 people and injured over 300, have materially elevated Middle East risk premia," UOB added.`,
+    bodyJa: `Oil fell Monday on optimism of improved supplies after President Donald Trump said that Russia and Ukraine will not be targeting each other's energy facilities, while Iran reached out to Saudi Arabia after Houthi attacks against the kingdom.
+Futures for international benchmark Brent crude for December delivery dropped 1.33% to $103.33 a barrel. U.S. West Texas Intermediate futures for November declined 1.68% to $90.31 per barrel.
+"Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine. Both parties have agreed. Do not break it!" Trump said in a social media statement Sunday stateside.
+Ukrainian President Volodymyr Zelenskyy said in a post on social media that "Ukraine supports the ceasefire, and it is important that Russia support it as well."
+Prospects of more Russian energy hitting markets after a deal with the U.S. have also risen after Trump said Friday that Moscow will supply more than 4 million tons of diesel to the global market under a deal he struck with Putin during a phone call.
+According to the Saudi state news agency, Iran's Minister of Foreign Affairs Abbas Araghchi made a phone call to Saudi Arabia's Minister of Foreign Affairs Faisal bin Farhan bin Abdullah, to discuss about the region's recent escalation of events as well as the efforts to address it.
+Al Jazeera reported Araghchi had said Iran was ready to provide assistance to help with the start of dialogue between Saudi Arabia and Yemen's Houthis.
+Oil prices are expected to remain volatile in the near term as the U.S.-Iran conflict continues, while the impact of Hurricane Isaias on U.S. energy producers could also hurt supplies .
+"The pressure on oil prices could remain on the upside as Hurricane Isaias strengthened to Category 3 with 120mph winds as it approached the US Gulf Coast, forcing energy producers to curtail offshore output," UOB said in a note on Monday.
+"Separately, Houthi missile strikes on Saudi Arabia's Riyadh airport on Sat which killed 12 people and injured over 300, have materially elevated Middle East risk premia," UOB added.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
+    publishedAt: "2026-10-12T04:21:21+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "judge-orders-trump-administration-to-imm-7996a912",
+    title: "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
+    titleJa: "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
+    summaryJa: "The ads featuring President Trump have been criticized as government propaganda and as aimed at influencing the outcome of the midterm election.",
+    bodyOriginal: `A federal judge in New York ordered the Trump administration Sunday night to immediately stop airing controversial government-funded television ads featuring President Donald Trump that critics call political propaganda intended to influence the November midterm election.
+The temporary restraining order by Judge Jennifer Rochon in Manhattan federal court also bars the Department of Homeland Security from spending any more of the $20 million allocated for the ad campaign. About $19 million of that allocation has already been spent on the ads.
+The order came a day after the Manhattan U.S. Attorney's Office, which is defending the Trump administration in a lawsuit challenging the ads, told Rochon that the ads would not continue being aired past Sunday.
+Rochon's order, which lasts 14 days unless extended, directs the Trump administration to cancel all scheduled ads, including those due to air on Sunday evening. The ads have included the caption "Paid for by the U.S. Government" since they began being aired.
+The Manhattan U.S. Attorney's Office declined to comment. The White House didn't immediately respond to a request for comment.
+The money for the ads came from a large appropriation by Congress for immigration enforcement.
+The coalition of plaintiffs that sued to block the ads told Rochon earlier Sunday that she should issue the TRO despite the claim by the U.S. Attorney's Office that the ads would not continue past Sunday.
+"Defendants admit that appropriated funds were used to pay for political ads and do not dispute
+that this use of taxpayer money is unlawful," the plaintiffs said in a court filing Sunday.
+"Instead, much of Defendants' opposition boils down to a single premise: it is too late for the Court to act. That is not because Defendants have stopped airing the ads," the plaintiffs said. "Indeed, Defendants assert — boldly, given their failure to defend the ads on the merits — that ads will continue to air today, including during evening programming that will attract millions of viewers."
+Rochon agreed, saying in her order that the TRO request was not rendered moot by the U.S. Attorney's statement that the ads would stop Sunday. The judge also rejected an argument by the Justice Department that the coalition lacked legal standing to challenge the ads.
+Rochon said the coalition has shown it was likely to win the lawsuit, that it would suffer irreparable harm if the TRO was not granted, and that "an injunction serves the public interest."
+In addition to the other actions, the judge ordered the Trump administration not to enter into any new agreement or expand existing ones for the ads. And she stayed a purchase order for the ads between U.S. Customs and Border Protection and a contractor, Lepugh Inc., doing business as LMD Agency Inc.
+Rochon said she would soon issue a full opinion explaining her ruling.
+The coalition, which filed its lawsuit on Oct. 7, includes the advocacy group Common Cause and the Service Employees International Union Local 32BJ, which is headquartered in New York City.
+A separate lawsuit challenging the ads was filed that same day by the Democratic National Committee.
+The ads, which have been airing for weeks, drew criticism from Democrats who said they appear designed to help Trump's fellow Republicans in November's election, which will determine which political party controls both chambers of Congress.
+In its lawsuit, the coalition described one ad, titled "The Country He Loves," as featuring "rapid cuts of photos and videos of President Trump mixed in with text touting what the President views as his accomplishments in office," which includes "Largest Tax Cuts in History;" "Reigniting American Manufacturing;" and "Defend Law and Order and Police."
+"Between those messages, the screen repeatedly flashes the words "AMERICA WILL NEVER BE A COMMUNIST COUNTRY," the civil complaint noted.
+Sen. Maggie Hassan, D-N.H., wrote White House chief of staff Susie Wiles on Sept. 24, a day after that ad first aired.
+"The advertisement does not have a clear official government purpose and appears to run afoul of federal prohibitions against the use of appropriated funds as part of 'a general propaganda effort designed to aid a political party or candidates,'" Hassan wrote.
+Trump, in the face of that criticism, on Oct. 5 said that going forward he or his super PAC, MAGA Inc., would pay for the ads. The White House later said the president would not reimburse the federal government for the cost of the ads that had already aired.
+In a statement Sunday evening on Rochon's order, the coalition said, "We are pleased the court acted swiftly to prevent more taxpayer dollars from being used for such blatantly unlawful political propaganda."
+"There is no legal justification — and no precedent — for the president to use the machinery of the government and funds set aside by Congress for other uses to influence electoral outcomes that further his own agenda," the coalition said, referring to President Donald Trump.
+"As this case moves forward and voters make their voices heard in this election, we will work to ensure the rule of law continues to be upheld, protecting the rights of voters and our democracy."`,
+    bodyJa: `A federal judge in New York ordered the Trump administration Sunday night to immediately stop airing controversial government-funded television ads featuring President Donald Trump that critics call political propaganda intended to influence the November midterm election.
+The temporary restraining order by Judge Jennifer Rochon in Manhattan federal court also bars the Department of Homeland Security from spending any more of the $20 million allocated for the ad campaign. About $19 million of that allocation has already been spent on the ads.
+The order came a day after the Manhattan U.S. Attorney's Office, which is defending the Trump administration in a lawsuit challenging the ads, told Rochon that the ads would not continue being aired past Sunday.
+Rochon's order, which lasts 14 days unless extended, directs the Trump administration to cancel all scheduled ads, including those due to air on Sunday evening. The ads have included the caption "Paid for by the U.S. Government" since they began being aired.
+The Manhattan U.S. Attorney's Office declined to comment. The White House didn't immediately respond to a request for comment.
+The money for the ads came from a large appropriation by Congress for immigration enforcement.
+The coalition of plaintiffs that sued to block the ads told Rochon earlier Sunday that she should issue the TRO despite the claim by the U.S. Attorney's Office that the ads would not continue past Sunday.
+"Defendants admit that appropriated funds were used to pay for political ads and do not dispute
+that this use of taxpayer money is unlawful," the plaintiffs said in a court filing Sunday.
+"Instead, much of Defendants' opposition boils down to a single premise: it is too late for the Court to act. That is not because Defendants have stopped airing the ads," the plaintiffs said. "Indeed, Defendants assert — boldly, given their failure to defend the ads on the merits — that ads will continue to air today, including during evening programming that will attract millions of viewers."
+Rochon agreed, saying in her order that the TRO request was not rendered moot by the U.S. Attorney's statement that the ads would stop Sunday. The judge also rejected an argument by the Justice Department that the coalition lacked legal standing to challenge the ads.
+Rochon said the coalition has shown it was likely to win the lawsuit, that it would suffer irreparable harm if the TRO was not granted, and that "an injunction serves the public interest."
+In addition to the other actions, the judge ordered the Trump administration not to enter into any new agreement or expand existing ones for the ads. And she stayed a purchase order for the ads between U.S. Customs and Border Protection and a contractor, Lepugh Inc., doing business as LMD Agency Inc.
+Rochon said she would soon issue a full opinion explaining her ruling.
+The coalition, which filed its lawsuit on Oct. 7, includes the advocacy group Common Cause and the Service Employees International Union Local 32BJ, which is headquartered in New York City.
+A separate lawsuit challenging the ads was filed that same day by the Democratic National Committee.
+The ads, which have been airing for weeks, drew criticism from Democrats who said they appear designed to help Trump's fellow Republicans in November's election, which will determine which political party controls both chambers of Congress.
+In its lawsuit, the coalition described one ad, titled "The Country He Loves," as featuring "rapid cuts of photos and videos of President Trump mixed in with text touting what the President views as his accomplishments in office," which includes "Largest Tax Cuts in History;" "Reigniting American Manufacturing;" and "Defend Law and Order and Police."
+"Between those messages, the screen repeatedly flashes the words "AMERICA WILL NEVER BE A COMMUNIST COUNTRY," the civil complaint noted.
+Sen. Maggie Hassan, D-N.H., wrote White House chief of staff Susie Wiles on Sept. 24, a day after that ad first aired.
+"The advertisement does not have a clear official government purpose and appears to run afoul of federal prohibitions against the use of appropriated funds as part of 'a general propaganda effort designed to aid a political party or candidates,'" Hassan wrote.
+Trump, in the face of that criticism, on Oct. 5 said that going forward he or his super PAC, MAGA Inc., would pay for the ads. The White House later said the president would not reimburse the federal government for the cost of the ads that had already aired.
+In a statement Sunday evening on Rochon's order, the coalition said, "We are pleased the court acted swiftly to prevent more taxpayer dollars from being used for such blatantly unlawful political propaganda."
+"There is no legal justification — and no precedent — for the president to use the machinery of the government and funds set aside by Congress for other uses to influence electoral outcomes that further his own agenda," the coalition said, referring to President Donald Trump.
+"As this case moves forward and voters make their voices heard in this election, we will work to ensure the rule of law continues to be upheld, protecting the rights of voters and our democracy."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html",
+    publishedAt: "2026-10-12T02:28:54+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "roofing-scammers-con-homeowners-out-of-t-e5c126d3",
+    title: "Roofing scammers con homeowners out of thousands of pounds",
+    titleJa: "Roofing scammers con homeowners out of thousands of pounds",
+    summaryJa: "One in 10 scams reported to Citizens Advice relate to fraudsters charging for work not done, or done badly.",
+    bodyOriginal: `Roofing scammers con homeowners out of thousands of pounds
+- Published
+Scammers pretending to be legitimate workmen are charging homeowners thousands of pounds for roofing work that is not completed, done badly or not necessary, according to Citizens Advice.
+The consumer advice charity says one in 10 of all the scams it recorded over the past year were related to roofing, making it the most common type of scam brought to them.
+It can leave victims like Crystal, from the Midlands, thousands of pounds out of pocket.
+The 68-year-old was frightened and found it hard to sleep after a rogue builder left her roof with dislodged bricks and blocked gutters.
+She said she felt pressured into agreeing to having her roof re-done and paid a total of £5,500, only for the original contractor to send his son instead, who left work in the eaves incomplete.
+"We had heavy rain a couple of weeks after he did the job, and it ended up like a waterfall coming down the wall," she said.
+Her neighbour's house was also damaged.
+"They took the lead off my neighbour's side of the chimney, which caused bricks to fall into his attic and the rain to go into his house," she told the BBC.
+The experience still haunts her: "I can't sleep. I don't eat properly".
+In the year to August the Citizens Advice Consumer Service received 9,000 complaints about roofing work, including problems with construction, repairs and weatherproofing.
+Of those 2,205, or about one in four complaints, were suspected scams, up from 2,098 the year before.
+Dame Clare Moriarty, chief executive of Citizens Advice, urged consumers to carry out thorough checks on traders before agreeing to hire them.
+"Scammers exploit the fact that roofs are out of sight and reach, knowing most people can't easily inspect the work themselves," she said.
+Victims also reported aggressive and intimidating behaviour, with three quarters of fraudsters using "doorstep" sales tactics.
+Citizens Advice cited the case of Charlotte, 65, who lives alone in north eastern England.
+Tradesmen she found online initially offered to fix her leaking gutter for £250. The two men then said there was further work that needed to be done, that would cost £2,500.
+"An hour later they said it was sorted, but they'd found another problem," she said.
+It was dark and Charlotte felt afraid. "They knew I was alone, I didn't feel like I could deal with anything that might happen after, so I paid £3,500," she said.
+But the next day she could see no sign of any work having been done, she said.
+To avoid falling victim to roofing scams, Citizens Advice suggests:
+Be alert: Always ask for references and for everything to be in writing. Be wary of unsolicited doorknockers and callers
+Gather evidence: If a trader causes problems, be sure to take photos and gather the necessary paperwork and receipts
+Know your rights: Traders must give you the information about your right to cancel in writing. If the job is not done with "reasonable care and skill," the Consumer Rights Act 2015 also entitles you to ask for the problem to be fixed or a refund
+Lord Bichard, chair of National Trading Standards, said rogue traders were "criminals deliberately preying on people in their own homes".
+He described roofing fraud as "particularly cruel", and said Trading Standards would pursue fraudsters through legal routes.
+"Victims can lose life savings in a matter of hours and be left with damaged homes, financial hardship and a profound sense of vulnerability long after the criminals have gone," he said.`,
+    bodyJa: `Roofing scammers con homeowners out of thousands of pounds
+- Published
+Scammers pretending to be legitimate workmen are charging homeowners thousands of pounds for roofing work that is not completed, done badly or not necessary, according to Citizens Advice.
+The consumer advice charity says one in 10 of all the scams it recorded over the past year were related to roofing, making it the most common type of scam brought to them.
+It can leave victims like Crystal, from the Midlands, thousands of pounds out of pocket.
+The 68-year-old was frightened and found it hard to sleep after a rogue builder left her roof with dislodged bricks and blocked gutters.
+She said she felt pressured into agreeing to having her roof re-done and paid a total of £5,500, only for the original contractor to send his son instead, who left work in the eaves incomplete.
+"We had heavy rain a couple of weeks after he did the job, and it ended up like a waterfall coming down the wall," she said.
+Her neighbour's house was also damaged.
+"They took the lead off my neighbour's side of the chimney, which caused bricks to fall into his attic and the rain to go into his house," she told the BBC.
+The experience still haunts her: "I can't sleep. I don't eat properly".
+In the year to August the Citizens Advice Consumer Service received 9,000 complaints about roofing work, including problems with construction, repairs and weatherproofing.
+Of those 2,205, or about one in four complaints, were suspected scams, up from 2,098 the year before.
+Dame Clare Moriarty, chief executive of Citizens Advice, urged consumers to carry out thorough checks on traders before agreeing to hire them.
+"Scammers exploit the fact that roofs are out of sight and reach, knowing most people can't easily inspect the work themselves," she said.
+Victims also reported aggressive and intimidating behaviour, with three quarters of fraudsters using "doorstep" sales tactics.
+Citizens Advice cited the case of Charlotte, 65, who lives alone in north eastern England.
+Tradesmen she found online initially offered to fix her leaking gutter for £250. The two men then said there was further work that needed to be done, that would cost £2,500.
+"An hour later they said it was sorted, but they'd found another problem," she said.
+It was dark and Charlotte felt afraid. "They knew I was alone, I didn't feel like I could deal with anything that might happen after, so I paid £3,500," she said.
+But the next day she could see no sign of any work having been done, she said.
+To avoid falling victim to roofing scams, Citizens Advice suggests:
+Be alert: Always ask for references and for everything to be in writing. Be wary of unsolicited doorknockers and callers
+Gather evidence: If a trader causes problems, be sure to take photos and gather the necessary paperwork and receipts
+Know your rights: Traders must give you the information about your right to cancel in writing. If the job is not done with "reasonable care and skill," the Consumer Rights Act 2015 also entitles you to ask for the problem to be fixed or a refund
+Lord Bichard, chair of National Trading Standards, said rogue traders were "criminals deliberately preying on people in their own homes".
+He described roofing fraud as "particularly cruel", and said Trading Standards would pursue fraudsters through legal routes.
+"Victims can lose life savings in a matter of hours and be left with damaged homes, financial hardship and a profound sense of vulnerability long after the criminals have gone," he said.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-11T23:19:49+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da61/live/bdf1b350-c3ef-11f1-913a-eb4b8e15ad15.jpg",
+    readTime: 9,
+  },
+  {
+    id: "debt-advice-that-may-leave-you-owing-eve-a6423a03",
+    title: "Debt advice that may leave you owing even more money",
+    titleJa: "Debt advice that may leave you owing even more money",
+    summaryJa: "People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
+    bodyOriginal: `Debt advice that may leave you owing even more money
+- Published
+An increasing number of people are missing credit card repayments as finances are stretched by rising bills.
+Lenders have told the Bank of England they expect the number of unpaid credit card debts to keep going up this autumn.
+This could lead to more demand for advice on how to deal with debts – but, if you are struggling and need help, there are some traps to avoid.
+And it is worth remembering that impartial advice is available free of charge from debt charities. So here's what to think about.
+How to find help
+If you find yourself with money troubles, it can be tempting to seize any opportunity to get things back on track.
+Social media and internet search pages are full of supposed quick-fix debt solutions. Cold calls and WhatsApp messages also promise debt help.
+But they may well come with upfront fees, unrealistic claims about writing off debt, and pressure to make a quick decision.
+Suggestions on the best way to find help include:
+Impartial, authorised debt advice comes free. You can find a provider on the government-backed Moneyhelper website, external
+Check whether a firm offering debt help is authorised by the regulator, the Financial Conduct Authority (FCA). You should cross-check the authorisation details they give with the FCA's register, external
+Anyone unhappy with the service from an authorised firm can complain and, if you are still not happy, go to the independent Financial Ombudsman Service.
+Alison Walters, director of consumer finance at the FCA, said: "Anyone struggling with debt deserves advice that puts their interests first.
+"Free, impartial debt advice is available to everyone, and no one should be pressured or misled into paying for a debt solution that may not be right for them."
+The warning signs of being misled
+The FCA says that some unregulated firms collect people's details, through cold calling or online adverts, sometimes impersonating debt advice charities or debt collectors, and pass this information on to firms offering debt solutions that you pay for.
+A quick search online will throw up lots of businesses offering ways to clear your debt, not all of which are trustworthy, according to charities.
+Warning signs of unscrupulous firms include pressure tactics, such as repeated contact, often in messages and on the phone, pushing people to agree to a debt solution, the FCA says.
+Some people have been encouraged to change financial details on lenders' paperwork, or are "coached" in ways to respond.
+Sometimes people are steered towards a fee-charging debt solution, such as Individual Voluntary Arrangements (IVAs) or some debt management plans, without alternative options being properly explained or offered first.
+And, do you know who you are talking to? Ask them who they work for, and check if their details match the firm's official details.
+"Before making any decisions around how to deal with your debts, it's always worth getting full, free and impartial debt advice first, exploring all options to clear your debt in the safest and most sustainable way," said Vikki Brownridge, chief executive at debt charity StepChange.
+Related topics
+- Published15 July
+- Published10 June`,
+    bodyJa: `Debt advice that may leave you owing even more money
+- Published
+An increasing number of people are missing credit card repayments as finances are stretched by rising bills.
+Lenders have told the Bank of England they expect the number of unpaid credit card debts to keep going up this autumn.
+This could lead to more demand for advice on how to deal with debts – but, if you are struggling and need help, there are some traps to avoid.
+And it is worth remembering that impartial advice is available free of charge from debt charities. So here's what to think about.
+How to find help
+If you find yourself with money troubles, it can be tempting to seize any opportunity to get things back on track.
+Social media and internet search pages are full of supposed quick-fix debt solutions. Cold calls and WhatsApp messages also promise debt help.
+But they may well come with upfront fees, unrealistic claims about writing off debt, and pressure to make a quick decision.
+Suggestions on the best way to find help include:
+Impartial, authorised debt advice comes free. You can find a provider on the government-backed Moneyhelper website, external
+Check whether a firm offering debt help is authorised by the regulator, the Financial Conduct Authority (FCA). You should cross-check the authorisation details they give with the FCA's register, external
+Anyone unhappy with the service from an authorised firm can complain and, if you are still not happy, go to the independent Financial Ombudsman Service.
+Alison Walters, director of consumer finance at the FCA, said: "Anyone struggling with debt deserves advice that puts their interests first.
+"Free, impartial debt advice is available to everyone, and no one should be pressured or misled into paying for a debt solution that may not be right for them."
+The warning signs of being misled
+The FCA says that some unregulated firms collect people's details, through cold calling or online adverts, sometimes impersonating debt advice charities or debt collectors, and pass this information on to firms offering debt solutions that you pay for.
+A quick search online will throw up lots of businesses offering ways to clear your debt, not all of which are trustworthy, according to charities.
+Warning signs of unscrupulous firms include pressure tactics, such as repeated contact, often in messages and on the phone, pushing people to agree to a debt solution, the FCA says.
+Some people have been encouraged to change financial details on lenders' paperwork, or are "coached" in ways to respond.
+Sometimes people are steered towards a fee-charging debt solution, such as Individual Voluntary Arrangements (IVAs) or some debt management plans, without alternative options being properly explained or offered first.
+And, do you know who you are talking to? Ask them who they work for, and check if their details match the firm's official details.
+"Before making any decisions around how to deal with your debts, it's always worth getting full, free and impartial debt advice first, exploring all options to clear your debt in the safest and most sustainable way," said Vikki Brownridge, chief executive at debt charity StepChange.
+Related topics
+- Published15 July
+- Published10 June`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-11T23:19:07+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a441/live/c56267d0-c31b-11f1-bd97-fbe5a3482cde.jpg",
+    readTime: 8,
+  },
+  {
+    id: "trump-faces-growing-backlash-over-plans-87036ac9",
+    title: "Trump faces growing backlash over plans to import diesel from Russia",
+    titleJa: "Trump faces growing backlash over plans to import diesel from Russia",
+    summaryJa: "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
+    bodyOriginal: `Trump faces growing backlash over plans to import diesel from Russia
+- Published
+US President Donald Trump is facing a growing backlash over plans to import diesel from Russia as the Iran war continues to impact global energy prices.
+Trump on Friday announced that Russian President Vladimir Putin had agreed to release 300,000 tonnes of diesel immediately "to the American and global marketplace" followed by several other shipments.
+That is despite signing legislation to authorise fresh US sanctions and tariffs on nations that import Russian oil and gas just weeks ago.
+The move has been criticised by some Republican and Democratic lawmakers, who believe the deal violates US laws.
+As well as the initial release of 300,000 tonnes of diesel, Trump said Russia would then supply 500,000 tonnes in November and one million more after that.
+This would be followed by a further three million tonnes, which would be delivered "within a short period" dependent on the condition of its refineries, which have been attacked by Ukraine during the ongoing war between the two countries.
+"Lower prices for Americans, especially our Great Farmers, Ranchers, and Truckers, is my Greatest Priority," Trump wrote in a Truth Social post.
+Russia's Deputy Prime Minister Alexander Novak confirmed these numbers to Tass, the country's state-owned news agency, saying the export volume could reach three million tonnes per month in future.
+Ukrainian President Volodymyr Zelensky has called the deal a gift to Putin that amounts to "an investment in a war that must be ended".
+It is understood the US Treasury is suspending sanctions on Russian diesel exports until 7 April as part of the deal, but other assets like those in American banks are still frozen.
+A group of seven senators - four Republicans and three Democrats – on Sunday said the deal violated US laws, urging Trump to "reverse course".
+"The United States should not provide Putin with a financial lifeline while Russia continues to kill Ukrainian civilians," the lawmakers said.
+They added that Congress had "explicitly banned Russian energy imports in 2022 to prevent American dollars from financing Putin's brutal war against Ukraine".
+The statement was signed by Republicans Susan Collins, Lisa Murkowski, Thom Tillis and John Curtis, as well as Democrats Jeanne Shaheen, Richard Blumenthal and Ron Wyden.
+Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent
+- Published8 hours ago
+Trump wants to reduce the cost of fuel as the midterms loom - will it work?
+- Published2 days ago
+Not everyone is opposed to the deal. Republican Thomas Massie, who has sparred with Trump a number of issues, said the US should lift sanctions on all petroleum products.
+Trump's Treasury Secretary Scott Bessent told Fox News the agreement would work through existing legal channels the US has to help bring prices down and that anyone in Congress who said it would not was wrong.
+Global fuel prices have soared since the US-Israel war with Iran began at the end of February, with the fighting severely disrupting supplies of crude oil - a key ingredient in petrol and diesel.
+The rising prices have become a key issue for Americans ahead of next month's midterms elections, which will determine if Trump's Republican Party maintains control of Congress.
+Polls show a majority of Americans disapprove of his handling of the economy and the war in Iran and he has been searching for ways to ease his party's political pain.
+The toll the war is taking has been acutely felt by US agricultural states, which rely heavily on diesel to operate farming machinery and to transport their products to market.
+The average diesel price in the US is currently $6.28 (£4.74) a gallon, according to the AAA, down from the record high of $6.53 recorded at the end of September.
+Analysts have questioned whether Russia is capable of providing that quantity of diesel and the extent to which doing so will ease prices for American consumers.
+The US uses approximately 3.6 million barrels of diesel a day, so even if Russia delivers its promised 300,000 tons this month, which amounts to approximately half of the US daily consumption.
+It is not only at home that Trump is facing opposition to his diesel deal with Russia. A number of international leaders have criticised it, including Canadian Prime Minister Mark Carney and UK Defence Secretary Wes Streeting, who said the US and other allies of Ukraine should focus on ramping up pressure on Russia to end the war.
+Meanwhile, Trump announced in Sunday that Russia and Ukraine had reached an "energy ceasefire" but did not give more details. Ukrainian President Volodymyr Zelensky welcomed this but there was no response from Moscow.
+Related topics
+- Published18 hours ago`,
+    bodyJa: `Trump faces growing backlash over plans to import diesel from Russia
+- Published
+US President Donald Trump is facing a growing backlash over plans to import diesel from Russia as the Iran war continues to impact global energy prices.
+Trump on Friday announced that Russian President Vladimir Putin had agreed to release 300,000 tonnes of diesel immediately "to the American and global marketplace" followed by several other shipments.
+That is despite signing legislation to authorise fresh US sanctions and tariffs on nations that import Russian oil and gas just weeks ago.
+The move has been criticised by some Republican and Democratic lawmakers, who believe the deal violates US laws.
+As well as the initial release of 300,000 tonnes of diesel, Trump said Russia would then supply 500,000 tonnes in November and one million more after that.
+This would be followed by a further three million tonnes, which would be delivered "within a short period" dependent on the condition of its refineries, which have been attacked by Ukraine during the ongoing war between the two countries.
+"Lower prices for Americans, especially our Great Farmers, Ranchers, and Truckers, is my Greatest Priority," Trump wrote in a Truth Social post.
+Russia's Deputy Prime Minister Alexander Novak confirmed these numbers to Tass, the country's state-owned news agency, saying the export volume could reach three million tonnes per month in future.
+Ukrainian President Volodymyr Zelensky has called the deal a gift to Putin that amounts to "an investment in a war that must be ended".
+It is understood the US Treasury is suspending sanctions on Russian diesel exports until 7 April as part of the deal, but other assets like those in American banks are still frozen.
+A group of seven senators - four Republicans and three Democrats – on Sunday said the deal violated US laws, urging Trump to "reverse course".
+"The United States should not provide Putin with a financial lifeline while Russia continues to kill Ukrainian civilians," the lawmakers said.
+They added that Congress had "explicitly banned Russian energy imports in 2022 to prevent American dollars from financing Putin's brutal war against Ukraine".
+The statement was signed by Republicans Susan Collins, Lisa Murkowski, Thom Tillis and John Curtis, as well as Democrats Jeanne Shaheen, Richard Blumenthal and Ron Wyden.
+Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent
+- Published8 hours ago
+Trump wants to reduce the cost of fuel as the midterms loom - will it work?
+- Published2 days ago
+Not everyone is opposed to the deal. Republican Thomas Massie, who has sparred with Trump a number of issues, said the US should lift sanctions on all petroleum products.
+Trump's Treasury Secretary Scott Bessent told Fox News the agreement would work through existing legal channels the US has to help bring prices down and that anyone in Congress who said it would not was wrong.
+Global fuel prices have soared since the US-Israel war with Iran began at the end of February, with the fighting severely disrupting supplies of crude oil - a key ingredient in petrol and diesel.
+The rising prices have become a key issue for Americans ahead of next month's midterms elections, which will determine if Trump's Republican Party maintains control of Congress.
+Polls show a majority of Americans disapprove of his handling of the economy and the war in Iran and he has been searching for ways to ease his party's political pain.
+The toll the war is taking has been acutely felt by US agricultural states, which rely heavily on diesel to operate farming machinery and to transport their products to market.
+The average diesel price in the US is currently $6.28 (£4.74) a gallon, according to the AAA, down from the record high of $6.53 recorded at the end of September.
+Analysts have questioned whether Russia is capable of providing that quantity of diesel and the extent to which doing so will ease prices for American consumers.
+The US uses approximately 3.6 million barrels of diesel a day, so even if Russia delivers its promised 300,000 tons this month, which amounts to approximately half of the US daily consumption.
+It is not only at home that Trump is facing opposition to his diesel deal with Russia. A number of international leaders have criticised it, including Canadian Prime Minister Mark Carney and UK Defence Secretary Wes Streeting, who said the US and other allies of Ukraine should focus on ramping up pressure on Russia to end the war.
+Meanwhile, Trump announced in Sunday that Russia and Ukraine had reached an "energy ceasefire" but did not give more details. Ukrainian President Volodymyr Zelensky welcomed this but there was no response from Moscow.
+Related topics
+- Published18 hours ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-11T23:18:45+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c44f/live/e68c78a0-c5c9-11f1-9042-5f0794d5e895.jpg",
+    readTime: 10,
+  },
+  {
+    id: "ai-is-less-regulated-than-milk-says-micr-145f3d12",
+    title: "AI is less regulated than milk, says Microsoft president",
+    titleJa: "AI is less regulated than milk, says Microsoft president",
+    summaryJa: "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
+    bodyOriginal: `AI is less regulated than milk, says Microsoft president
+- Published
+Milk and washing machines are currently more regulated than AI, the president of Microsoft has said.
+Brad Smith said there needed to be global safety rules in place, including a legal obligation to tell a "victim" if their system is breached by a rogue AI agent as well as deciding when outside evaluators should sign off on an AI product before it is released.
+His comments put him at odds with President Donald Trump, who said the sector should regulate itself so US firms don't lose out to Chinese rivals.
+But Smith said: "Right now, your washing machine is subject to more safety rules than AI. Every carton of milk that you see in the grocery store is subject to safety rules and inspection."
+Demands for laws and rules to control AI have grown after experts in the sector said they believed the technology its a threat to humanity.
+The bosses of the US-based AI giants such as Anthropic, OpenAI and Google DeepMind have all backed the idea of an AI development slowdown, but Trump has pushed against this.
+Speaking to the BBC's Big Boss Interview, Smith called AI both a "tool and a weapon" that urgently needed to be regulated.
+"Let's get started today," he said.
+He said firms need "emergency brakes" – often known in the industry as 'kill switches' – to pause or slowdown AI if it got out of control in some way.
+He also said there should be a legal requirement for firms to write "incident reports" and tell victims if the technology goes rogue. He also suggested that independent government evaluators should vet new AI technology.
+"We know how to do this for other products," Smith said. "We should build on that knowledge and think about how to apply it to AI."
+Smith said the UK was best placed to drive forward these global rules for AI because of its AI Security Institute, external, launched during former prime minister Rishi Sunak's government as the AI Safety Institute.
+"In the world of technology, in the tech sector, most people that I know would say, if you ask them, name the country that is the leader in having this technical capability, they would say, it's very simple. It's the United Kingdom. They are the best."
+'The moment has arrived'
+Smith's views are very different to those of his president, who believes the US should be going full-steam ahead on AI.
+Trump has repeatedly said that "whoever wins AI, wins".
+However, Smith does not believe the US government would be as opposed to UK-led AI regulations as Trump's comments make it seem, suggesting the US would be more accepting of the UK making standards than the EU.
+"In Washington DC, people don't look at the UK and they don't look at London the way they look at Brussels – that's a strength," he said.
+"When you look at AI agents that have escaped human control, when you look at models that are so powerful that they're putting the world's cybersecurity at risk. I would say: The moment has arrived.
+"Let's speak calmly, maybe even softly, but firmly, and start to bring people together. I hope that's the role we can play as a company. I hope that's the role the UK can play as a country."
+At the end of last month, Trump hosted the leaders of US tech giants OpenAI, Anthropic, Nvidia, SpaceX, Meta, and Google at the White House where the executives signed a "morally binding" document.
+The companies agreed to work with "independent auditors" to assess whether their AI systems are working as intended and make sure they do not "hack or access technical systems in unintended ways".
+Smith said he applauds the statement and Microsoft is "happy to sign it".
+"It's a good step, it's a necessary step... But I don't think it's sufficient any longer."
+He added that the challenge for any "self-regulatory regime" is that "the good companies will do what you want".
+"It's the companies that are not as responsible that you need to worry about."`,
+    bodyJa: `AI is less regulated than milk, says Microsoft president
+- Published
+Milk and washing machines are currently more regulated than AI, the president of Microsoft has said.
+Brad Smith said there needed to be global safety rules in place, including a legal obligation to tell a "victim" if their system is breached by a rogue AI agent as well as deciding when outside evaluators should sign off on an AI product before it is released.
+His comments put him at odds with President Donald Trump, who said the sector should regulate itself so US firms don't lose out to Chinese rivals.
+But Smith said: "Right now, your washing machine is subject to more safety rules than AI. Every carton of milk that you see in the grocery store is subject to safety rules and inspection."
+Demands for laws and rules to control AI have grown after experts in the sector said they believed the technology its a threat to humanity.
+The bosses of the US-based AI giants such as Anthropic, OpenAI and Google DeepMind have all backed the idea of an AI development slowdown, but Trump has pushed against this.
+Speaking to the BBC's Big Boss Interview, Smith called AI both a "tool and a weapon" that urgently needed to be regulated.
+"Let's get started today," he said.
+He said firms need "emergency brakes" – often known in the industry as 'kill switches' – to pause or slowdown AI if it got out of control in some way.
+He also said there should be a legal requirement for firms to write "incident reports" and tell victims if the technology goes rogue. He also suggested that independent government evaluators should vet new AI technology.
+"We know how to do this for other products," Smith said. "We should build on that knowledge and think about how to apply it to AI."
+Smith said the UK was best placed to drive forward these global rules for AI because of its AI Security Institute, external, launched during former prime minister Rishi Sunak's government as the AI Safety Institute.
+"In the world of technology, in the tech sector, most people that I know would say, if you ask them, name the country that is the leader in having this technical capability, they would say, it's very simple. It's the United Kingdom. They are the best."
+'The moment has arrived'
+Smith's views are very different to those of his president, who believes the US should be going full-steam ahead on AI.
+Trump has repeatedly said that "whoever wins AI, wins".
+However, Smith does not believe the US government would be as opposed to UK-led AI regulations as Trump's comments make it seem, suggesting the US would be more accepting of the UK making standards than the EU.
+"In Washington DC, people don't look at the UK and they don't look at London the way they look at Brussels – that's a strength," he said.
+"When you look at AI agents that have escaped human control, when you look at models that are so powerful that they're putting the world's cybersecurity at risk. I would say: The moment has arrived.
+"Let's speak calmly, maybe even softly, but firmly, and start to bring people together. I hope that's the role we can play as a company. I hope that's the role the UK can play as a country."
+At the end of last month, Trump hosted the leaders of US tech giants OpenAI, Anthropic, Nvidia, SpaceX, Meta, and Google at the White House where the executives signed a "morally binding" document.
+The companies agreed to work with "independent auditors" to assess whether their AI systems are working as intended and make sure they do not "hack or access technical systems in unintended ways".
+Smith said he applauds the statement and Microsoft is "happy to sign it".
+"It's a good step, it's a necessary step... But I don't think it's sufficient any longer."
+He added that the challenge for any "self-regulatory regime" is that "the good companies will do what you want".
+"It's the companies that are not as responsible that you need to worry about."`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-11T23:07:35+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc1a/live/a75b5120-c40b-11f1-9a39-31b474234113.jpg",
+    readTime: 10,
+  },
+  {
+    id: "iran-war-threatens-healey-s-budget-plans-eb1ae5d6",
+    title: "Iran war threatens Healey's Budget plans, think tank warns",
+    titleJa: "Iran war threatens Healey's Budget plans, think tank warns",
+    summaryJa: "The impact of the Iran war poses significant risks for the government’s spending plans, the Institute for Fiscal Studies says.",
+    bodyOriginal: `Iran war threatens Healey's Budget plans, think tank warns
+- Published
+The price spike caused by the US-Israel war in Iran poses a major challenge for Chancellor John Healey as he puts together his first Budget, an influential think tank has warned.
+Higher-than-expected inflation could eat into what the government hoped to spend on public services, meaning Healey will have to choose between spending cuts, tax rises, or a mixture of both, the Institute for Fiscal Studies (IFS) said.
+It urged the government to ensure its spending plans are credible, as opposed to proposing unrealistic future cuts to make the Budget add up.
+The Treasury declined to comment on "rumour and speculation".
+However, speaking ahead of the annual International Monetary Fund meeting this week, Healey said: "The consequences of conflict in the Middle East and Europe are hitting countries worldwide, leading to higher prices at the pumps and more expensive mortgages at home.
+"But Britain and our allies can face up to these challenges together."
+He said his Budget "will build on this approach with fiscal discipline helping to deliver economic resilience" and give people "breathing space".
+However, the government is under growing pressure to show financial markets that it has a tight grip on finances as the cost of borrowing rises.
+The IFS cautioned Healey about making any spending announcements in the 28 October Budget speech he has no intention of honouring.
+"A 'steady-as-she-goes' Budget is not an option available to the chancellor," said IFS director Helen Miller said.
+"Choosing to stay the course with the inherited tax and spending plans would mean allowing inflation to blow departments' spending plans off course.
+"Simply pencilling in implicit cuts that he has no intention of delivering would make the Budget a work of fiction," she added.
+The US-Israel war against Iran and Russia's invasion of Ukraine have together helped drive up energy prices around the world.
+These higher costs have been passed to customers via higher prices on shelves and at the pumps.
+The wars have also contributed to a rise in the cost of UK government debt interest payments, adding to the pressure on Healey.
+Although higher inflation will boost tax revenues, it will also eat into the value of departments' cash budgets, the IFS said.
+'Breathing space'
+Like other analysts, the IFS thinks recent turbulence on bond markets and higher inflation will add around £10bn to forecasts for the government's borrowing costs in 2029-30.
+However, it still expects the government to meet its self-imposed fiscal rules - that it will only borrow for investment projects by the financial year 2029-30 and also be reducing debt as a percentage of GDP - not least as inflation pushes up tax revenues.
+But it expects those rules to be met by a smaller buffer - known as "headroom" - of around £20bn. That is less than the £24bn buffer predicted at the time of the Spring Statement by the official forecaster, the Office for Budget Responsibility (OBR).
+Recent indications have been that the markets would be comfortable with that degree of reduced headroom. The IFS also expects any "breathing space" help for households to be temporary and limited in scale.
+However, the IFS warns that in such a volatile environment, its forecasts are exceptionally uncertain. And the official forecast from the OBR - which the chancellor relies on when making his plans - may come to a very different conclusion.
+The IFS reckons that to maintain departments' budgets in the face of higher inflation, the government may need to find an extra £25bn in 2029-30.
+That is before consider considering the ambition to raise defence spending. Raising such an amount would point to significant tax rises.
+The chancellor does not have to address spending totals in this Budget, and may choose to leave such decisions until future events - for example, next year's Spring Statement or Spending Review - by which time the outlook for the economy could look very different.
+But the IFS warned that the spending plans inherited from the previous chancellor, Rachel Reeves, would mean some departments' budgets would not keep pace with inflation in a few years time.
+It said not addressing this would cast doubt on the credibility of the government's plans.
+However, previous chancellors have relied on a similar strategy of pencilling in unrealistic future spending plans to ensure that they meet the fiscal rules on the day - only to change the plans further down the line.
+Related topics
+- Published3 days ago`,
+    bodyJa: `Iran war threatens Healey's Budget plans, think tank warns
+- Published
+The price spike caused by the US-Israel war in Iran poses a major challenge for Chancellor John Healey as he puts together his first Budget, an influential think tank has warned.
+Higher-than-expected inflation could eat into what the government hoped to spend on public services, meaning Healey will have to choose between spending cuts, tax rises, or a mixture of both, the Institute for Fiscal Studies (IFS) said.
+It urged the government to ensure its spending plans are credible, as opposed to proposing unrealistic future cuts to make the Budget add up.
+The Treasury declined to comment on "rumour and speculation".
+However, speaking ahead of the annual International Monetary Fund meeting this week, Healey said: "The consequences of conflict in the Middle East and Europe are hitting countries worldwide, leading to higher prices at the pumps and more expensive mortgages at home.
+"But Britain and our allies can face up to these challenges together."
+He said his Budget "will build on this approach with fiscal discipline helping to deliver economic resilience" and give people "breathing space".
+However, the government is under growing pressure to show financial markets that it has a tight grip on finances as the cost of borrowing rises.
+The IFS cautioned Healey about making any spending announcements in the 28 October Budget speech he has no intention of honouring.
+"A 'steady-as-she-goes' Budget is not an option available to the chancellor," said IFS director Helen Miller said.
+"Choosing to stay the course with the inherited tax and spending plans would mean allowing inflation to blow departments' spending plans off course.
+"Simply pencilling in implicit cuts that he has no intention of delivering would make the Budget a work of fiction," she added.
+The US-Israel war against Iran and Russia's invasion of Ukraine have together helped drive up energy prices around the world.
+These higher costs have been passed to customers via higher prices on shelves and at the pumps.
+The wars have also contributed to a rise in the cost of UK government debt interest payments, adding to the pressure on Healey.
+Although higher inflation will boost tax revenues, it will also eat into the value of departments' cash budgets, the IFS said.
+'Breathing space'
+Like other analysts, the IFS thinks recent turbulence on bond markets and higher inflation will add around £10bn to forecasts for the government's borrowing costs in 2029-30.
+However, it still expects the government to meet its self-imposed fiscal rules - that it will only borrow for investment projects by the financial year 2029-30 and also be reducing debt as a percentage of GDP - not least as inflation pushes up tax revenues.
+But it expects those rules to be met by a smaller buffer - known as "headroom" - of around £20bn. That is less than the £24bn buffer predicted at the time of the Spring Statement by the official forecaster, the Office for Budget Responsibility (OBR).
+Recent indications have been that the markets would be comfortable with that degree of reduced headroom. The IFS also expects any "breathing space" help for households to be temporary and limited in scale.
+However, the IFS warns that in such a volatile environment, its forecasts are exceptionally uncertain. And the official forecast from the OBR - which the chancellor relies on when making his plans - may come to a very different conclusion.
+The IFS reckons that to maintain departments' budgets in the face of higher inflation, the government may need to find an extra £25bn in 2029-30.
+That is before consider considering the ambition to raise defence spending. Raising such an amount would point to significant tax rises.
+The chancellor does not have to address spending totals in this Budget, and may choose to leave such decisions until future events - for example, next year's Spring Statement or Spending Review - by which time the outlook for the economy could look very different.
+But the IFS warned that the spending plans inherited from the previous chancellor, Rachel Reeves, would mean some departments' budgets would not keep pace with inflation in a few years time.
+It said not addressing this would cast doubt on the credibility of the government's plans.
+However, previous chancellors have relied on a similar strategy of pencilling in unrealistic future spending plans to ensure that they meet the fiscal rules on the day - only to change the plans further down the line.
+Related topics
+- Published3 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-11T23:04:07+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48bb/live/aeeccb70-c3e4-11f1-badc-154546719036.jpg",
+    readTime: 10,
+  },
+  {
     id: "trump-s-energy-ceasefire-claim-welcomed-a7255c68",
     title: "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
     titleJa: "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
@@ -1843,388 +2339,6 @@ WATCH: Hightower's Stephanie Link: I like that Nvidia is showing growth and conf
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 10,
-  },
-  {
-    id: "s-p-500-at-10-000-or-bust-new-etf-offers-96e639e4",
-    title: "S&P 500 at 10,000 or bust: New ETF offers investors all-or-nothing bet on the index",
-    titleJa: "S&P 500 at 10,000 or bust: New ETF offers investors all-or-nothing bet on the index",
-    summaryJa: "Wall Street has continued to blur the lines between investing and gambling with one recently launched exchange-traded fund.",
-    bodyOriginal: `Wall Street has continued to blur the lines between investing and gambling with one recently launched exchange-traded fund.`,
-    bodyJa: `Wall Street has continued to blur the lines between investing and gambling with one recently launched exchange-traded fund.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/s-p-500-at-10-000-or-bust-new-etf-offers-investors-all-or-nothing-bet-on-the-index-c7d9269f?mod=mw_rss_topstories",
-    publishedAt: "2026-10-10T11:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-71200494",
-    readTime: 2,
-  },
-  {
-    id: "the-world-needs-ukraine-s-grain-its-farm-a60b6f52",
-    title: "The world needs Ukraine’s grain. Its farmers are running out of reasons to plant",
-    titleJa: "The world needs Ukraine’s grain. Its farmers are running out of reasons to plant",
-    summaryJa: "Cash-strapped farmers have no incentive to sow for 2027 with exports remaining trapped, as analysts say commodity markets could \"flip fast.\"",
-    bodyOriginal: `Ukraine's harvest season is moving from wheat and barley into corn, soybeans and sunflower, and farmer Oleksandr Chumak has had a strong yield so far. That should be good news.
-Instead, after 11 years of growing a range of crops in the Odesa region of southern Ukraine, Chumak has had enough.
-Storage facilities across both Ukraine and Russia are filled with millions of tons of produce that would normally be sent to Europe, the Middle East, Asia and Africa — but are instead trapped in the warring countries.
-Russian drone and missile hits on Black Sea targets intensified over the summer and into fall, making it impossible to insure commercial ships. Kyiv's retaliatory attacks mean Russian exports are now also stuck, further squeezing global supply.
-And with fatal Black Sea attacks continuing into October, prospects of a ceasefire look slim, even as Turkey ramps up efforts to broker a deal due to the risk to global food security.
-Chumak says that around 80% of his grain cannot currently be sold at a profit, and he is out of cash.
-A collapse in domestic prices is giving farmers like him little reason to sow for the 2027 crop in the coming months.
-"For the farmers, it's very difficult because we need to pay taxes, we need to pay rent for land, and now we are not able to do this because we are not able to sell anything," said Andrii Dykun, chairman of the Ukrainian Agri Council.
-"The only crops we are able to sell are rapeseeds and sunflower seeds. But still, the volume is not enough... So why should we plant if today we have no profits at all?"
-"If our stocks will be full, it makes no sense to do any farm operations in the spring because then it's just a waste of time and money."
-PrivatBank, Ukraine's biggest lender, told CNBC that it had disbursed 1.53 billion hryvnia ($34.2 million) in working capital finance to agribusinesses between June and August, more than double the 718 million hryvnia lent in the same period last year. Small and medium-sized producers account for 70% of its agricultural loan book.
-"Funds effectively remain tied up in grain inventories, while farms still need to cover their ongoing operating expenses and secure financing for the autumn and spring sowing campaigns," said Yevhen Zaihraiev, chief corporate and SME business officer at state-owned PrivatBank.
-"We are seeing different strategies among our clients. Some agricultural producers are selling their crops sooner, even at less attractive prices, in order to maintain sufficient operating liquidity. Others, particularly those with access to storage capacity, are postponing sales in anticipation of more favorable market prices," he said by email.
-Ukrainian production of grains and oilseeds is forecast to increase to 85 million tonnes from 80 million tonnes this year, but carry-over stocks from the previous season are pressuring Ukraine's storage infrastructure and logistics, Zaihraiev noted. Those facilities include long plastic silobags snaking across fields and towering metal grain elevators that are themselves increasingly vulnerable to military strikes.
-"We are also seeing agricultural producers gradually revise their planting plans for next year in favor of oilseeds and niche crops, whose prices are less dependent on logistics costs," Zaihraiev added.
-Farmer Oleksandr Chumak said he will follow that strategy, significantly scaling back planting for next year, avoiding corn and barley altogether, and instead opt for crops which require less fertilizer — which is also facing a global squeeze following amid the U.S.-Israeli war with Iran.
-Meanwhile, for Ukrainian farmers — those not currently being drafted to serve — the war with Russia is ever-present. "We are living and working in a place where any time you or your circle can be hit by [a] rocket or drone," Chumak said by phone. "We are sleeping in beds with explosions 300 to 1,000 metres around."
-Stock release would 'flip the market fast'
-Ukraine's agricultural sector has faced farm takeovers, mines and labor shortages ever since Russia's full-scale assault began in early 2022. International bodies have struggled to preserve its export routes through various agreements, including the collapsed Black Sea initiative and the European Union's politically contentious "Solidarity Lanes."
-Now, the situation inside the country and the consequences for global food chains are the most severe they have been since the war began.
-Between them, Ukraine and Russia supplied the world with more than half of its sunflower oil, nearly a fifth of its barley and 14% of its wheat in the years leading up to the war, according to the UN. Ukraine is also one of the world's biggest growers of corn, with China and the European Union among its biggest buyers.
-Around 90% of Ukraine's main agricultural exports typically run via the Black Sea. In August this year, its grain and legume exports totalled 981,000 tonnes, down about 58% year on year.
-The risk is heightened by weakness elsewhere. Europe is expected to have a particularly poor corn harvest and needs larger imports just as its demand for feed remains high. The United States is also facing a weaker corn crop.
-For now, better wheat and barley crops in Canada, Australia and Argentina, along with good harvests in the Middle East and North Africa, are cushioning the blow.
-The continued blockage is supporting commodity prices outside of Russia and Ukraine, but the reopening of Black Sea ports would unleash a wave of cheap supply that would "flip the market fast... with little warning," said Benoit Fayaud, senior manager for grains and oilseeds analysis at Expana.
-A deal which restores Ukrainian and Russian exports could see grains prices in other origins decrease by a few dozen dollars, he told CNBC. "They have such big stocks it will be bearish for the market all over the world," he added.
-Prices for Russian and Ukrainian wheat, barley, oilseeds and other products have become so low within the countries that it has intensified the scramble to find alternative routes via rail, road and river, according to Fayaud.
-But these alternative routes are "difficult and slow from both countries," he said.
-Ukraine's Eastern European neighbors such as Poland and Romania are resisting a push to allow grain to transit through them — even temporarily — due to concerns about a glut destroying demand for their own crops.
-Another option via the Danube river has been hampered by low water levels; and a key bridge out of Ukraine has been damaged. There are options to export via the Baltic states and through Georgia by land into the Middle East and Central Asia, but this can only cover a small portion of typical flows, Fayaud said.
-Andrii Dykun of the Ukrainian Agri Council stressed that there was no alternative to the Black Sea routes when it came to pricing.
-"It would always be cheaper for us, even for the farmers on the western border of Ukraine, to sell the grain to other ports from Black Sea ports because it's much more profitable for the farmers than to sell it via the border to [the] EU," he said.
-"So without Black Sea ports, it will not work for us at all."`,
-    bodyJa: `Ukraine's harvest season is moving from wheat and barley into corn, soybeans and sunflower, and farmer Oleksandr Chumak has had a strong yield so far. That should be good news.
-Instead, after 11 years of growing a range of crops in the Odesa region of southern Ukraine, Chumak has had enough.
-Storage facilities across both Ukraine and Russia are filled with millions of tons of produce that would normally be sent to Europe, the Middle East, Asia and Africa — but are instead trapped in the warring countries.
-Russian drone and missile hits on Black Sea targets intensified over the summer and into fall, making it impossible to insure commercial ships. Kyiv's retaliatory attacks mean Russian exports are now also stuck, further squeezing global supply.
-And with fatal Black Sea attacks continuing into October, prospects of a ceasefire look slim, even as Turkey ramps up efforts to broker a deal due to the risk to global food security.
-Chumak says that around 80% of his grain cannot currently be sold at a profit, and he is out of cash.
-A collapse in domestic prices is giving farmers like him little reason to sow for the 2027 crop in the coming months.
-"For the farmers, it's very difficult because we need to pay taxes, we need to pay rent for land, and now we are not able to do this because we are not able to sell anything," said Andrii Dykun, chairman of the Ukrainian Agri Council.
-"The only crops we are able to sell are rapeseeds and sunflower seeds. But still, the volume is not enough... So why should we plant if today we have no profits at all?"
-"If our stocks will be full, it makes no sense to do any farm operations in the spring because then it's just a waste of time and money."
-PrivatBank, Ukraine's biggest lender, told CNBC that it had disbursed 1.53 billion hryvnia ($34.2 million) in working capital finance to agribusinesses between June and August, more than double the 718 million hryvnia lent in the same period last year. Small and medium-sized producers account for 70% of its agricultural loan book.
-"Funds effectively remain tied up in grain inventories, while farms still need to cover their ongoing operating expenses and secure financing for the autumn and spring sowing campaigns," said Yevhen Zaihraiev, chief corporate and SME business officer at state-owned PrivatBank.
-"We are seeing different strategies among our clients. Some agricultural producers are selling their crops sooner, even at less attractive prices, in order to maintain sufficient operating liquidity. Others, particularly those with access to storage capacity, are postponing sales in anticipation of more favorable market prices," he said by email.
-Ukrainian production of grains and oilseeds is forecast to increase to 85 million tonnes from 80 million tonnes this year, but carry-over stocks from the previous season are pressuring Ukraine's storage infrastructure and logistics, Zaihraiev noted. Those facilities include long plastic silobags snaking across fields and towering metal grain elevators that are themselves increasingly vulnerable to military strikes.
-"We are also seeing agricultural producers gradually revise their planting plans for next year in favor of oilseeds and niche crops, whose prices are less dependent on logistics costs," Zaihraiev added.
-Farmer Oleksandr Chumak said he will follow that strategy, significantly scaling back planting for next year, avoiding corn and barley altogether, and instead opt for crops which require less fertilizer — which is also facing a global squeeze following amid the U.S.-Israeli war with Iran.
-Meanwhile, for Ukrainian farmers — those not currently being drafted to serve — the war with Russia is ever-present. "We are living and working in a place where any time you or your circle can be hit by [a] rocket or drone," Chumak said by phone. "We are sleeping in beds with explosions 300 to 1,000 metres around."
-Stock release would 'flip the market fast'
-Ukraine's agricultural sector has faced farm takeovers, mines and labor shortages ever since Russia's full-scale assault began in early 2022. International bodies have struggled to preserve its export routes through various agreements, including the collapsed Black Sea initiative and the European Union's politically contentious "Solidarity Lanes."
-Now, the situation inside the country and the consequences for global food chains are the most severe they have been since the war began.
-Between them, Ukraine and Russia supplied the world with more than half of its sunflower oil, nearly a fifth of its barley and 14% of its wheat in the years leading up to the war, according to the UN. Ukraine is also one of the world's biggest growers of corn, with China and the European Union among its biggest buyers.
-Around 90% of Ukraine's main agricultural exports typically run via the Black Sea. In August this year, its grain and legume exports totalled 981,000 tonnes, down about 58% year on year.
-The risk is heightened by weakness elsewhere. Europe is expected to have a particularly poor corn harvest and needs larger imports just as its demand for feed remains high. The United States is also facing a weaker corn crop.
-For now, better wheat and barley crops in Canada, Australia and Argentina, along with good harvests in the Middle East and North Africa, are cushioning the blow.
-The continued blockage is supporting commodity prices outside of Russia and Ukraine, but the reopening of Black Sea ports would unleash a wave of cheap supply that would "flip the market fast... with little warning," said Benoit Fayaud, senior manager for grains and oilseeds analysis at Expana.
-A deal which restores Ukrainian and Russian exports could see grains prices in other origins decrease by a few dozen dollars, he told CNBC. "They have such big stocks it will be bearish for the market all over the world," he added.
-Prices for Russian and Ukrainian wheat, barley, oilseeds and other products have become so low within the countries that it has intensified the scramble to find alternative routes via rail, road and river, according to Fayaud.
-But these alternative routes are "difficult and slow from both countries," he said.
-Ukraine's Eastern European neighbors such as Poland and Romania are resisting a push to allow grain to transit through them — even temporarily — due to concerns about a glut destroying demand for their own crops.
-Another option via the Danube river has been hampered by low water levels; and a key bridge out of Ukraine has been damaged. There are options to export via the Baltic states and through Georgia by land into the Middle East and Central Asia, but this can only cover a small portion of typical flows, Fayaud said.
-Andrii Dykun of the Ukrainian Agri Council stressed that there was no alternative to the Black Sea routes when it came to pricing.
-"It would always be cheaper for us, even for the farmers on the western border of Ukraine, to sell the grain to other ports from Black Sea ports because it's much more profitable for the farmers than to sell it via the border to [the] EU," he said.
-"So without Black Sea ports, it will not work for us at all."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/10/ukraine-grain-exports-russia-harvest.html",
-    publishedAt: "2026-10-10T05:00:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "trump-s-diesel-agreement-with-putin-accu-870edfbc",
-    title: "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
-    titleJa: "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
-    summaryJa: "Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
-    bodyOriginal: `President Donald Trump's Friday announcement that Russia will supply diesel fuel to the global market marked an apparent pivot from recent efforts to pressure Moscow to end the Ukraine war by targeting Russian energy exports.
-Trump claimed the move, unveiled with less than a month left in an affordability-focused midterm election, would swiftly bring down record-high diesel prices.
-But commentators and critics were quick to highlight contradictions between the new policy and prior efforts by the U.S. to clamp down on Russian oil sales.
-Those efforts most recently included the enactment of the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, empowering Trump to impose tariffs up to 100% on the top purchasers of Russian crude oil or gas, among other restrictions. Trump signed the bill into law just three weeks ago.
-"Congress just passed a law giving Trump the power to impose new tariffs on major buyers of Russian oil & gas," Scott Lincicome, vice president of the libertarian Cato Institute, said on X after Trump's Friday announcement.
-"Can America tariff America?" he quipped.
-Sen. Richard Blumenthal, D-Conn., a member of the Senate Ukraine Caucus, accused Trump's latest move of being "directly contrary to Congress's intent in our bipartisan sanctions bill."
-Peter Harrell, visiting scholar at Georgetown University Law Center's Institute of International Economic Law, in an X post said that the relaxation of Russian diesel restrictions "pretty much proves the point that the Graham Russia Bill was not going to force the Trump Administration to increase economic pressure on Moscow."
-Some of the criticism crossed party lines.
-"Through the Lindsey O. Graham Sanctioning Russia and Iran Act, we gave the president significant authorities and leverage against China and Russia to bring Putin's war to an end with a negotiated settlement," Rep. Michael McCaul, R-Texas, said in an X post. "Unfortunately, while I understand the desire to bring down diesel prices, I am concerned the lifting of sanctions on Russian oil will only fund the Kremlin's war machine—emboldening more violence and destruction, as we have seen in recent days," McCaul said.
-The White House did not immediately respond to CNBC's questions about the diesel agreement with Russia.
-Less than a year earlier, the Trump administration slapped sanctions on multiple Russian oil companies in response to what it called "Russia's lack of serious commitment to a peace process to end the war in Ukraine."
-Trump also had previously slammed NATO allies for continuing to buy Russian oil. In a September 2025 Truth Social post, he wrote, "the purchase of Russian Oil, by some, has been shocking! It greatly weakens your negotiating position, and bargaining power, over Russia."
-Later that month, Trump again harangued world leaders for doing business with Russia.
-"They're funding the war against themselves. Who the hell ever heard of that one?" he said in a speech at the United Nations General Assembly. "They can't be doing what they're doing. They're buying oil and gas from Russia while they're fighting Russia."
-Trump announced the diesel deal in a Truth Social post Friday afternoon after what he described as a "highly successful discussion" with Russian President Vladimir Putin.
-Under the agreement, Russia will immediately supply more than 300,000 tons of diesel, then another 500,000 tons in November, followed by 1 million tons "immediately thereafter" and 3 million more depending on refinery conditions, Trump wrote.
-The Treasury Department soon after said that Trump directed the Office of Foreign Assets Control to immediately issue a "temporary general license to allow the supply of Russian diesel to the global market." OFAC specified that the sanctioned transactions will be authorized for about six months, until April 7.
-Russia seemed to celebrate the move. "Russia-US cooperation on diesel and energy will benefit the world," an X account associated with Putin's economic envoy Kirill Dmitriev said in response to the announcement.
-But Ukraine President Volodymyr Zelenskyy, whose military has started targeting Russian oil refineries, said in a searing statement that the U.S. easing sanctions on Moscow "plays into Russia's hands."
-"Any easing of sanctions against Russia without a clear and lasting de-escalation agreement with Russia is an obvious weakness," Zelenskyy said. "Allowing Russia to sell petroleum products is an investment in a war that must be ended, not prolonged."
-"We count on America's fair support for our defense of life, for our defense of people in Ukraine – and on the United States having a correspondingly strong conversation with Russia," he said.
-"A strong one, not a weak one," he added.
-Trump thanked Putin later Friday afternoon for enabling "massive amounts of oil" to come to the U.S.
-"We need oil for the world, and this is diesel, which is what we need, so we're very happy to get it," Trump told reporters before heading to Syracuse, New York.
-The Trump administration has previously eased some Russian energy sanctions temporarily, though more narrowly than Friday's announcement.
-Earlier this year, in an attempt to stabilize markets after the start of the Iran war, the Trump administration issued limited, 30-day waivers allowing countries to buy sanctioned Russian oil that was already in transit.
-But some interpreted the latest move as a more significant step.
-"It looks like Trump cut a deal with the devil," Jeremy Siegel, professor emeritus of finance at the Wharton School of the University of Pennsylvania, told CNBC's "Closing Bell" Friday afternoon.
-"It's not a permanent solution at all. It's sort of a short-term Band Aid," Siegel said. "And cutting back on or eliminating sanctions on Russia for the invasion in Ukraine, I think, is a very unfortunate consequence."`,
-    bodyJa: `President Donald Trump's Friday announcement that Russia will supply diesel fuel to the global market marked an apparent pivot from recent efforts to pressure Moscow to end the Ukraine war by targeting Russian energy exports.
-Trump claimed the move, unveiled with less than a month left in an affordability-focused midterm election, would swiftly bring down record-high diesel prices.
-But commentators and critics were quick to highlight contradictions between the new policy and prior efforts by the U.S. to clamp down on Russian oil sales.
-Those efforts most recently included the enactment of the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, empowering Trump to impose tariffs up to 100% on the top purchasers of Russian crude oil or gas, among other restrictions. Trump signed the bill into law just three weeks ago.
-"Congress just passed a law giving Trump the power to impose new tariffs on major buyers of Russian oil & gas," Scott Lincicome, vice president of the libertarian Cato Institute, said on X after Trump's Friday announcement.
-"Can America tariff America?" he quipped.
-Sen. Richard Blumenthal, D-Conn., a member of the Senate Ukraine Caucus, accused Trump's latest move of being "directly contrary to Congress's intent in our bipartisan sanctions bill."
-Peter Harrell, visiting scholar at Georgetown University Law Center's Institute of International Economic Law, in an X post said that the relaxation of Russian diesel restrictions "pretty much proves the point that the Graham Russia Bill was not going to force the Trump Administration to increase economic pressure on Moscow."
-Some of the criticism crossed party lines.
-"Through the Lindsey O. Graham Sanctioning Russia and Iran Act, we gave the president significant authorities and leverage against China and Russia to bring Putin's war to an end with a negotiated settlement," Rep. Michael McCaul, R-Texas, said in an X post. "Unfortunately, while I understand the desire to bring down diesel prices, I am concerned the lifting of sanctions on Russian oil will only fund the Kremlin's war machine—emboldening more violence and destruction, as we have seen in recent days," McCaul said.
-The White House did not immediately respond to CNBC's questions about the diesel agreement with Russia.
-Less than a year earlier, the Trump administration slapped sanctions on multiple Russian oil companies in response to what it called "Russia's lack of serious commitment to a peace process to end the war in Ukraine."
-Trump also had previously slammed NATO allies for continuing to buy Russian oil. In a September 2025 Truth Social post, he wrote, "the purchase of Russian Oil, by some, has been shocking! It greatly weakens your negotiating position, and bargaining power, over Russia."
-Later that month, Trump again harangued world leaders for doing business with Russia.
-"They're funding the war against themselves. Who the hell ever heard of that one?" he said in a speech at the United Nations General Assembly. "They can't be doing what they're doing. They're buying oil and gas from Russia while they're fighting Russia."
-Trump announced the diesel deal in a Truth Social post Friday afternoon after what he described as a "highly successful discussion" with Russian President Vladimir Putin.
-Under the agreement, Russia will immediately supply more than 300,000 tons of diesel, then another 500,000 tons in November, followed by 1 million tons "immediately thereafter" and 3 million more depending on refinery conditions, Trump wrote.
-The Treasury Department soon after said that Trump directed the Office of Foreign Assets Control to immediately issue a "temporary general license to allow the supply of Russian diesel to the global market." OFAC specified that the sanctioned transactions will be authorized for about six months, until April 7.
-Russia seemed to celebrate the move. "Russia-US cooperation on diesel and energy will benefit the world," an X account associated with Putin's economic envoy Kirill Dmitriev said in response to the announcement.
-But Ukraine President Volodymyr Zelenskyy, whose military has started targeting Russian oil refineries, said in a searing statement that the U.S. easing sanctions on Moscow "plays into Russia's hands."
-"Any easing of sanctions against Russia without a clear and lasting de-escalation agreement with Russia is an obvious weakness," Zelenskyy said. "Allowing Russia to sell petroleum products is an investment in a war that must be ended, not prolonged."
-"We count on America's fair support for our defense of life, for our defense of people in Ukraine – and on the United States having a correspondingly strong conversation with Russia," he said.
-"A strong one, not a weak one," he added.
-Trump thanked Putin later Friday afternoon for enabling "massive amounts of oil" to come to the U.S.
-"We need oil for the world, and this is diesel, which is what we need, so we're very happy to get it," Trump told reporters before heading to Syracuse, New York.
-The Trump administration has previously eased some Russian energy sanctions temporarily, though more narrowly than Friday's announcement.
-Earlier this year, in an attempt to stabilize markets after the start of the Iran war, the Trump administration issued limited, 30-day waivers allowing countries to buy sanctioned Russian oil that was already in transit.
-But some interpreted the latest move as a more significant step.
-"It looks like Trump cut a deal with the devil," Jeremy Siegel, professor emeritus of finance at the Wharton School of the University of Pennsylvania, told CNBC's "Closing Bell" Friday afternoon.
-"It's not a permanent solution at all. It's sort of a short-term Band Aid," Siegel said. "And cutting back on or eliminating sanctions on Russia for the invasion in Ukraine, I think, is a very unfortunate consequence."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
-    publishedAt: "2026-10-10T02:09:00+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "i-have-no-children-my-aunt-gave-me-50-0-f24353bc",
-    title: "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-    titleJa: "‘I have no children’: My aunt gave me $50,000 for a down payment. Now she wants me to leave my home to her two children.",
-    summaryJa: "“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”",
-    bodyOriginal: `“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”`,
-    bodyJa: `“The house cost $385,000. With my savings, her $50,000 and a small mortgage, I was able to close.”`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/i-have-no-children-my-aunt-gave-me-50-000-for-a-down-payment-she-wants-me-to-leave-my-home-to-her-two-children-24fad94c?mod=mw_rss_topstories",
-    publishedAt: "2026-10-10T00:15:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-91758975",
-    readTime: 2,
-  },
-  {
-    id: "boots-has-a-new-owner-three-ways-it-coul-76b928e4",
-    title: "Boots has a new owner: Three ways it could affect you",
-    titleJa: "Boots has a new owner: Three ways it could affect you",
-    summaryJa: "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?",
-    bodyOriginal: `Boots has a new owner: Three ways it could affect you
-- Published
-If you have been looking to buy a health or beauty product, the chances are you will have shopped at a Boots somewhere in the UK.
-The pharmacy and retailer is a stalwart of Britain's high streets, where it has served generations of customers for decades.
-But now it is set to enter its 178th year under new ownership after an £7bn deal was agreed this week - here's three ways it could affect your shopping experience.
-Revamped shops
-Upgrading its portfolio of 1,800 stores is high on the list of Boots' new owners, Wittington Investments. This is the holding company of the Westons - a wealthy and retail-steeped Canadian family who used to own Selfridges and currently own several large retailers across the Atlantic.
-The UK branch of the family also controls the owner of Primark, Associated British Foods (ABF).
-What Boots stores might look like in the future has not been disclosed.
-Business has been good for Boots in recent years, and new-look beauty areas in some of its bigger shops have given shoppers more of a department store experience, according to Sofie Willmott, an associate director and analyst at GlobalData Retail.
-Since the opening of its first beauty-only store in 2023 in the Battersea Power Station development, it says it has redesigned over 180 beauty halls, while also opening its first fragrance concept store and an Opticians dedicated to luxury eyewear.
-"They should invest in the rest of the chain because they've got such a big store portfolio that I think some of the smaller stores have really lacked investment over time, and I think that is something that they need to kind of catch up with," Willmott says.
-A more "consistent" look would also be an improvement, Willmott adds. "At the moment there is a bit of a disconnect."
-Jackie Naghten, a retail industry veteran who has worked for the likes of Top Shop, Marks & Spencer and Debenhams, thinks Boots' stores need to be made "more functional" by not having their health hubs "squeezed in the corner".
-But Yasmin Trimble, 22, who buys beauty products from Boots, likes how the easy stores are to navigate.
-"You can get everything you need...it is not confusing. It has got a cleaner aesthetic to it as well."
-Advantage card an 'asset to double down on'
-Boots was an early adopter of the loyalty cards commonly offered today by companies offering points and discounts to customers who sign up.
-Its Advantage card, launched in 1997, is unlikely to go away and remains popular.
-Naghten doesn't think they would get rid of it. "It's the best-value store card in terms of bang for your buck."
-The card offers shoppers three points for every pound they spend. Each point is worth 1p.
-Katie Burrows, 23, is a fan of building up the points to get money off.
-She mainly shops at Boots for skincare, first aid and medicine, but thinks prices for its sanitary products are "ridiculously expensive" - something her friend Yasmin agrees with.
-Lewis Harrison believes the loyalty card is also good value, but finds it "frustrating how the rewards points only cover a full transaction".
-"I wish you could use your points for a partial transaction like you can in Holland and Barrett," the 25-year-old says. "It would be good to use the points towards more expensive transactions."
-Natalie Berg, retail expert and founder of consultancy NBK Retail, suggests the Advantage card gives Boots "a unique understanding of their customers" and is an asset the new owners "will want to double down on".
-"As AI and social media change how people discover and buy products, that direct relationship with customers will only become more important."
-Expanding healthcare services
-The new owners have already signalled they plan to expand Boots' healthcare service, a booming industry at the moment.
-The retailer started out as an apothecary, so health is in its roots. Today, it offers a wide range of health and wellbeing services as well as prescriptions and vaccinations through its in-store pharmacies.
-It also announced earlier this summer it was expanding services for weight loss drugs, which have surged in popularity.
-Naghten points out that the Weston family's purchase of Boots comes at a time when pharmacies are increasingly going to prescribe more medications and health services, in a bid to ease pressure on GP surgeries and hospitals.
-"They didn't buy this thing for no reason. They have got the blueprint," she says.
-While health will remain a core part of its business, Boots has other strengths, Naghten adds, in its No7 make-up and skincare products.
-"When you have all these people coming in for health and wellbeing services, they will also be picking up a lipstick," she says.
-Willmott suggests Boots has an "edge" over its rivals on the health side, given its reputation as an expert.
-But the company is facing tough competition, which Boots acknowledged affected revenues in its latest financial results.
-Shoppers, particularly younger ones, are increasingly seeking products online through influencer ads rather than heading to brick-and-mortar shops.
-There are also other big players, such as Superdrug. And M&S this week announced a new partnership with Sephora, saying it would replace a hundred of its own beauty departments with the brand next year.
-For 18-year-old Schekina Bourne, Boots is not a "go-to shop" for her. "Even though I can go to Boots even in my area....Superdrug is like closest to me. So, I'll prefer the convenience," she says.
-Additional reporting by Ben Sturt and Anuk Weerawardana
-Related topics
-- Published2 days ago`,
-    bodyJa: `Boots has a new owner: Three ways it could affect you
-- Published
-If you have been looking to buy a health or beauty product, the chances are you will have shopped at a Boots somewhere in the UK.
-The pharmacy and retailer is a stalwart of Britain's high streets, where it has served generations of customers for decades.
-But now it is set to enter its 178th year under new ownership after an £7bn deal was agreed this week - here's three ways it could affect your shopping experience.
-Revamped shops
-Upgrading its portfolio of 1,800 stores is high on the list of Boots' new owners, Wittington Investments. This is the holding company of the Westons - a wealthy and retail-steeped Canadian family who used to own Selfridges and currently own several large retailers across the Atlantic.
-The UK branch of the family also controls the owner of Primark, Associated British Foods (ABF).
-What Boots stores might look like in the future has not been disclosed.
-Business has been good for Boots in recent years, and new-look beauty areas in some of its bigger shops have given shoppers more of a department store experience, according to Sofie Willmott, an associate director and analyst at GlobalData Retail.
-Since the opening of its first beauty-only store in 2023 in the Battersea Power Station development, it says it has redesigned over 180 beauty halls, while also opening its first fragrance concept store and an Opticians dedicated to luxury eyewear.
-"They should invest in the rest of the chain because they've got such a big store portfolio that I think some of the smaller stores have really lacked investment over time, and I think that is something that they need to kind of catch up with," Willmott says.
-A more "consistent" look would also be an improvement, Willmott adds. "At the moment there is a bit of a disconnect."
-Jackie Naghten, a retail industry veteran who has worked for the likes of Top Shop, Marks & Spencer and Debenhams, thinks Boots' stores need to be made "more functional" by not having their health hubs "squeezed in the corner".
-But Yasmin Trimble, 22, who buys beauty products from Boots, likes how the easy stores are to navigate.
-"You can get everything you need...it is not confusing. It has got a cleaner aesthetic to it as well."
-Advantage card an 'asset to double down on'
-Boots was an early adopter of the loyalty cards commonly offered today by companies offering points and discounts to customers who sign up.
-Its Advantage card, launched in 1997, is unlikely to go away and remains popular.
-Naghten doesn't think they would get rid of it. "It's the best-value store card in terms of bang for your buck."
-The card offers shoppers three points for every pound they spend. Each point is worth 1p.
-Katie Burrows, 23, is a fan of building up the points to get money off.
-She mainly shops at Boots for skincare, first aid and medicine, but thinks prices for its sanitary products are "ridiculously expensive" - something her friend Yasmin agrees with.
-Lewis Harrison believes the loyalty card is also good value, but finds it "frustrating how the rewards points only cover a full transaction".
-"I wish you could use your points for a partial transaction like you can in Holland and Barrett," the 25-year-old says. "It would be good to use the points towards more expensive transactions."
-Natalie Berg, retail expert and founder of consultancy NBK Retail, suggests the Advantage card gives Boots "a unique understanding of their customers" and is an asset the new owners "will want to double down on".
-"As AI and social media change how people discover and buy products, that direct relationship with customers will only become more important."
-Expanding healthcare services
-The new owners have already signalled they plan to expand Boots' healthcare service, a booming industry at the moment.
-The retailer started out as an apothecary, so health is in its roots. Today, it offers a wide range of health and wellbeing services as well as prescriptions and vaccinations through its in-store pharmacies.
-It also announced earlier this summer it was expanding services for weight loss drugs, which have surged in popularity.
-Naghten points out that the Weston family's purchase of Boots comes at a time when pharmacies are increasingly going to prescribe more medications and health services, in a bid to ease pressure on GP surgeries and hospitals.
-"They didn't buy this thing for no reason. They have got the blueprint," she says.
-While health will remain a core part of its business, Boots has other strengths, Naghten adds, in its No7 make-up and skincare products.
-"When you have all these people coming in for health and wellbeing services, they will also be picking up a lipstick," she says.
-Willmott suggests Boots has an "edge" over its rivals on the health side, given its reputation as an expert.
-But the company is facing tough competition, which Boots acknowledged affected revenues in its latest financial results.
-Shoppers, particularly younger ones, are increasingly seeking products online through influencer ads rather than heading to brick-and-mortar shops.
-There are also other big players, such as Superdrug. And M&S this week announced a new partnership with Sephora, saying it would replace a hundred of its own beauty departments with the brand next year.
-For 18-year-old Schekina Bourne, Boots is not a "go-to shop" for her. "Even though I can go to Boots even in my area....Superdrug is like closest to me. So, I'll prefer the convenience," she says.
-Additional reporting by Ben Sturt and Anuk Weerawardana
-Related topics
-- Published2 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-09T23:01:14+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31cf/live/7e917260-c32a-11f1-9981-cf94ea240e40.jpg",
-    readTime: 10,
-  },
-  {
-    id: "how-to-provide-guaranteed-retirement-inc-627a7110",
-    title: "How to provide guaranteed retirement income while paying no commissions",
-    titleJa: "How to provide guaranteed retirement income while paying no commissions",
-    summaryJa: "Unlike the stock market, whose future returns are anything but assured, a TIPS ladder’s payout is guaranteed.",
-    bodyOriginal: `Unlike the stock market, whose future returns are anything but assured, a TIPS ladder’s payout is guaranteed.`,
-    bodyJa: `Unlike the stock market, whose future returns are anything but assured, a TIPS ladder’s payout is guaranteed.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories",
-    publishedAt: "2026-10-09T22:41:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-27152625",
-    readTime: 2,
-  },
-  {
-    id: "analysis-trump-s-shock-russia-deal-highl-890b99dd",
-    title: "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-    titleJa: "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-    summaryJa: "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
-    bodyOriginal: `Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices
-- Published
-Donald Trump's decision to import Russian fuel to the US represents a remarkable about-face from the president.
-Just three weeks ago, Trump signed legislation to authorise fresh American sanctions and tariffs on nations that import Russian oil and gas.
-Now, Trump says, Russian President Vladimir Putin has agreed to supply hundreds of thousands of tons of diesel fuel to the US and world markets in the coming months.
-The deal comes as Trump is still grappling with the political fallout of the Iran war and its impact on global energy prices, weeks before American voters head to the polls in the midterm elections.
-As the cost of fuel has skyrocketed in America, his standing with the public – stung by the higher prices at the pump and knock-on effects that led to across-the board inflation – has soured.
-The toll the war is taking has been acutely felt by US agricultural states, which rely heavily on diesel to operate farming machinery and to transport their products to market.
-It is these states – places like Iowa, Kansas, Texas and Ohio – that have become unexpected political battlegrounds in the upcoming elections that will determine if Republicans maintain control of Congress.
-Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
-- Published55 minutes ago
-What are the US midterms? A simple guide
-- Published4 days ago
-For months, the American president has been searching for ways to ease his party's political pain.
-He recently pressured European allies to further tap their oil reserves. He deferred federal taxes on the fuel and authorised supplies designated for farm use to be used in interstate trucking.
-He has also promised that he would not renew attacks on Iran until after the midterms – an unusually frank acknowledgement of the political impact the ongoing conflict is having.
-His decision to strike a deal with Russia's Putin is only the latest, most dramatic effort.
-Trump's Truth Social posts often provide incomplete information, of course. The details of exactly how Russia is supplying this fuel to the global market, and what they might get for in return – besides much-needed hard currency – is unclear.
-It opens Trump to criticism from European allies and American politicians that his administration is now helping to fund the Russian war machine.
-Ukrainian President Volodymyr Zelensky called the deal a "gift" to Putin that Russia would "repay" with "terror and perfidy".
-"Allowing Russia to sell petroleum products is an investment in a war that must be ended, not prolonged," he wrote on X.
-It is also uncertain exactly how much Trump's move will help Republicans at the ballot box.
-The promised European diesel release hasn't moved energy prices significantly, and there's no information on the speed with which Russian fuel could enter the market.
-Its diesel refinery capacity has been damaged by repeated Ukrainian strikes – attacks that Trump has encouraged Zelensky to curtail.
-The US uses approximately 3.6 million barrels of diesel a day, so even if Russia delivers its promised 300,000 tons this month, that amounts to approximately half of the US daily consumption.
-Americans may not notice much of an immediate difference.
-With less than a month before November's midterm elections, early voting has already started in many states. The political cake, as the saying goes, is all but baked.
-"Lower prices for Americans, especially our Great Farmers, Ranchers, and Truckers, is my Greatest Priority," Trump wrote in his Truth Social post.
-But over the past seven months, prices on energy, fuel and consumer goods have only gone up - even as Trump and his officials have repeatedly assured an uneasy public a successful resolution to the war, and an easing of its economic impact, is nearly at hand.
-Trump may be left hoping that his latest deal, setting aside its potentially uncomfortable diplomatic issues, will be enough to convince American voters that his promise of impending economic relief is more than just empty words.
-- Published10 hours ago
-- Published2 days ago
-- Published7 days ago`,
-    bodyJa: `Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices
-- Published
-Donald Trump's decision to import Russian fuel to the US represents a remarkable about-face from the president.
-Just three weeks ago, Trump signed legislation to authorise fresh American sanctions and tariffs on nations that import Russian oil and gas.
-Now, Trump says, Russian President Vladimir Putin has agreed to supply hundreds of thousands of tons of diesel fuel to the US and world markets in the coming months.
-The deal comes as Trump is still grappling with the political fallout of the Iran war and its impact on global energy prices, weeks before American voters head to the polls in the midterm elections.
-As the cost of fuel has skyrocketed in America, his standing with the public – stung by the higher prices at the pump and knock-on effects that led to across-the board inflation – has soured.
-The toll the war is taking has been acutely felt by US agricultural states, which rely heavily on diesel to operate farming machinery and to transport their products to market.
-It is these states – places like Iowa, Kansas, Texas and Ohio – that have become unexpected political battlegrounds in the upcoming elections that will determine if Republicans maintain control of Congress.
-Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'
-- Published55 minutes ago
-What are the US midterms? A simple guide
-- Published4 days ago
-For months, the American president has been searching for ways to ease his party's political pain.
-He recently pressured European allies to further tap their oil reserves. He deferred federal taxes on the fuel and authorised supplies designated for farm use to be used in interstate trucking.
-He has also promised that he would not renew attacks on Iran until after the midterms – an unusually frank acknowledgement of the political impact the ongoing conflict is having.
-His decision to strike a deal with Russia's Putin is only the latest, most dramatic effort.
-Trump's Truth Social posts often provide incomplete information, of course. The details of exactly how Russia is supplying this fuel to the global market, and what they might get for in return – besides much-needed hard currency – is unclear.
-It opens Trump to criticism from European allies and American politicians that his administration is now helping to fund the Russian war machine.
-Ukrainian President Volodymyr Zelensky called the deal a "gift" to Putin that Russia would "repay" with "terror and perfidy".
-"Allowing Russia to sell petroleum products is an investment in a war that must be ended, not prolonged," he wrote on X.
-It is also uncertain exactly how much Trump's move will help Republicans at the ballot box.
-The promised European diesel release hasn't moved energy prices significantly, and there's no information on the speed with which Russian fuel could enter the market.
-Its diesel refinery capacity has been damaged by repeated Ukrainian strikes – attacks that Trump has encouraged Zelensky to curtail.
-The US uses approximately 3.6 million barrels of diesel a day, so even if Russia delivers its promised 300,000 tons this month, that amounts to approximately half of the US daily consumption.
-Americans may not notice much of an immediate difference.
-With less than a month before November's midterm elections, early voting has already started in many states. The political cake, as the saying goes, is all but baked.
-"Lower prices for Americans, especially our Great Farmers, Ranchers, and Truckers, is my Greatest Priority," Trump wrote in his Truth Social post.
-But over the past seven months, prices on energy, fuel and consumer goods have only gone up - even as Trump and his officials have repeatedly assured an uneasy public a successful resolution to the war, and an easing of its economic impact, is nearly at hand.
-Trump may be left hoping that his latest deal, setting aside its potentially uncomfortable diplomatic issues, will be enough to convince American voters that his promise of impending economic relief is more than just empty words.
-- Published10 hours ago
-- Published2 days ago
-- Published7 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-09T22:30:22+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9075/live/94a528a0-c422-11f1-9462-0fb8e72a616b.jpg",
-    readTime: 10,
-  },
-  {
-    id: "trump-taps-russia-to-boost-global-diesel-cbf56585",
-    title: "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
-    titleJa: "Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.",
-    summaryJa: "The Trump administration has enlisted Russia to help boost U.S. and global diesel supplies in an effort to lower prices for the fuel ahead of the U.S. midterm elections in November.",
-    bodyOriginal: `The Trump administration has enlisted Russia to help boost U.S. and global diesel supplies in an effort to lower prices for the fuel ahead of the U.S. midterm elections in November.`,
-    bodyJa: `The Trump administration has enlisted Russia to help boost U.S. and global diesel supplies in an effort to lower prices for the fuel ahead of the U.S. midterm elections in November.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories",
-    publishedAt: "2026-10-09T22:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-710971",
-    readTime: 2,
   },
 ];
 
