@@ -15,6 +15,336 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "rep-ilhan-omar-s-home-raided-in-federal-180fe649",
+    title: "Rep. Ilhan Omar’s home raided in federal criminal investigation",
+    titleJa: "Rep. Ilhan Omar’s home raided in federal criminal investigation",
+    summaryJa: "The Minnesota Democrat, a Muslim who was born in Somalia, has been targeted for criticism in the past by President Donald Trump.",
+    bodyOriginal: `Federal authorities on Monday morning raided the Washington, D.C.-area home of Rep. Ilhan Omar, a Minnesota Democrat, as part of a criminal fraud investigation into her immigration paperwork filled out by her father, Fox News reported, citing a person familiar with the situation.
+Homeland Security Investigations, a division of the Department of Homeland Security, conducted the raid, Fox News reported. The Department of Justice later confirmed the raid after being asked about it by CNBC. The Department of Homeland Security declined to comment.
+A person familiar with the situation, who spoke on condition of anonymity to discuss the non-public investigation, told CNBC that the investigation into Omar is complex and has been going on for years.
+Omar, 44, was born in Somalia and brought to the United States as a child. She became a U.S. citizen in 2000 at the age of 17. She was elected to Congress in November 2018 to represent Minnesota's 5th District, which includes all of Minneapolis.
+She and Rep. Rashida Tlaib, D-Mich., became the first two Muslim women elected to Congress.
+Omar has been a target of criticism by President Donald Trump, and heckled Trump during his State of the Union address to Congress on Feb. 24, which came on the heels of aggressive immigration enforcement actions in Minneapolis by federal authorities.
+The Department of Justice, in a statement to CNBC when asked about the raid, said, "Today in the Washington, D.C., area, Homeland Security Investigations executed a judicially authorized search warrant secured by the Department of Justice."
+"This enforcement action is part of an ongoing federal investigation," the statement said.
+The raid comes less than a month before November's midterm elections. Omar is seeking another term as a representative for Minnesota's 5th District.
+CNBC has requested comment from Omar's office.
+The DOJ, for years, has had a policy regarding the announcement and initiation of federal investigations and prosecutions close to elections. The policy discourages beginning an investigation, taking investigative steps, bringing criminal charges, or making public statements for the purpose of affecting an election or to give a candidate an advantage or disadvantage.
+A person familiar with the raid on Omar's home told CNBC on Monday that the DOJ does not consider that action to violate the policy because the raid was not meant to be public.
+Republican John Nagel is running against Omar in a race the Cook Political Report with Amy Walter rates "solid Democrat." The general election is just over three weeks away on Nov. 3.`,
+    bodyJa: `Federal authorities on Monday morning raided the Washington, D.C.-area home of Rep. Ilhan Omar, a Minnesota Democrat, as part of a criminal fraud investigation into her immigration paperwork filled out by her father, Fox News reported, citing a person familiar with the situation.
+Homeland Security Investigations, a division of the Department of Homeland Security, conducted the raid, Fox News reported. The Department of Justice later confirmed the raid after being asked about it by CNBC. The Department of Homeland Security declined to comment.
+A person familiar with the situation, who spoke on condition of anonymity to discuss the non-public investigation, told CNBC that the investigation into Omar is complex and has been going on for years.
+Omar, 44, was born in Somalia and brought to the United States as a child. She became a U.S. citizen in 2000 at the age of 17. She was elected to Congress in November 2018 to represent Minnesota's 5th District, which includes all of Minneapolis.
+She and Rep. Rashida Tlaib, D-Mich., became the first two Muslim women elected to Congress.
+Omar has been a target of criticism by President Donald Trump, and heckled Trump during his State of the Union address to Congress on Feb. 24, which came on the heels of aggressive immigration enforcement actions in Minneapolis by federal authorities.
+The Department of Justice, in a statement to CNBC when asked about the raid, said, "Today in the Washington, D.C., area, Homeland Security Investigations executed a judicially authorized search warrant secured by the Department of Justice."
+"This enforcement action is part of an ongoing federal investigation," the statement said.
+The raid comes less than a month before November's midterm elections. Omar is seeking another term as a representative for Minnesota's 5th District.
+CNBC has requested comment from Omar's office.
+The DOJ, for years, has had a policy regarding the announcement and initiation of federal investigations and prosecutions close to elections. The policy discourages beginning an investigation, taking investigative steps, bringing criminal charges, or making public statements for the purpose of affecting an election or to give a candidate an advantage or disadvantage.
+A person familiar with the raid on Omar's home told CNBC on Monday that the DOJ does not consider that action to violate the policy because the raid was not meant to be public.
+Republican John Nagel is running against Omar in a race the Cook Political Report with Amy Walter rates "solid Democrat." The general election is just over three weeks away on Nov. 3.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/12/ilhan-omar-home-raided-dhs-immigration-investigation.html",
+    publishedAt: "2026-10-12T15:06:35+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "micron-makes-a-statement-with-the-latest-8d354c29",
+    title: "Micron makes a statement with the latest clue about its cash windfall",
+    titleJa: "Micron makes a statement with the latest clue about its cash windfall",
+    summaryJa: "A new disclosure about Micron’s buyback plans appears meant to show shareholders that Micron is more generous with cash than one of its key rivals, an analyst said.",
+    bodyOriginal: `A new disclosure about Micron’s buyback plans appears meant to show shareholders that Micron is more generous with cash than one of its key rivals, an analyst said.`,
+    bodyJa: `A new disclosure about Micron’s buyback plans appears meant to show shareholders that Micron is more generous with cash than one of its key rivals, an analyst said.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/micron-makes-a-statement-with-the-latest-clue-about-its-cash-windfall-c9e33f7d?mod=mw_rss_topstories",
+    publishedAt: "2026-10-12T15:06:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-54177591",
+    readTime: 2,
+  },
+  {
+    id: "ai-minister-warns-likely-uk-s-cyber-defe-23d70b19",
+    title: "AI minister warns 'likely' UK's cyber defences will be breached",
+    titleJa: "AI minister warns 'likely' UK's cyber defences will be breached",
+    summaryJa: "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
+    bodyOriginal: `AI minister warns 'likely' UK's cyber defences will be breached
+- Published
+The UK's AI minister has warned it is "likely, if not inevitable" the country's cyber defences will at some point be breached.
+Speaking at a press conference, Kanishka Narayan pointed to an incident of a rogue OpenAI agent hacking an Australian government website in June.
+He said while no medical records are known to have been accessed in the attack, the incident should still "concern us".
+Narayan said the government plans to put advanced AI to work to combat the threat, as he set out how the government plans to prepare for any serious future incidents.
+The minister said the move would build on two existing pilots which have helped identify and fix over 1,000 vulnerabilities across government systems.
+He said his message to the largest companies behind the world's most powerful AI systems was: "Listen when your scientists warn of serious dangers. Investigate unexpected behaviour. And if you cannot adequately control the risks, do not release the system."
+In his speech, Narayan also confirmed scientists at the UK's AI watchdog, the AI Security Institute (AISI), were conducting "rigorous evaluations" of the latest generation of advanced AI models to "identify risks early" and "to test robust safeguards to help keep people safe".
+AI testing
+AISI began evaluating risks of the latest frontier AI models, prior to their public release, shortly after it was established in November 2023.
+But it was reported in September, external that the White House had asked some leading US labs not to share their models with the research organisation until its own tests were completed.
+The move was viewed at the time as a blow to AISI - which has been championed by the UK government and its partners for advancing open, constructive and collaborative AI testing.
+Microsoft president Brad Smith recently told the BBC the institute had helped cement the UK as the country best-placed to drive forward global regulation.
+On Monday, Narayan said that in the last few weeks, the government had worked with the US "to retain access for Britain's AISI to the most powerful AI models before they are released".
+He also said the UK would also look into creating stronger protections through the Cyber Security and Resilience bill, particularly at how serious AI incidents can be identified and reported.
+Regulation
+The announcement follows a series of incidents involving AI agents across major firms such as OpenAI and Anthropic acting outside human control and hacking into external systems.
+On 9 September, Evan Hubinger, a top safety researcher at Anthropic, warned in a post on X that AI is advancing so quickly he believed there is a greater than 10% chance it "could kill all humans" within the next decade.
+The bosses of the US-based AI giants such as Anthropic, OpenAI and Google DeepMind have all backed the idea of an AI development slowdown.
+However, there are currently no global safety rules in place to regulate the companies and their technology. President Trump has called for the sector to regulate itself so that US firms do not lose out to Chinese rivals.
+Speaking to the BBC following the announcement, Narayan said the UK needed "to be confident... as a country" when questioned as to how the government can make foreign AI firms abide by UK rules.
+"We have the capability, we have the trust, and we have a government that is right on the side of the British public in making sure we don't just have laws but the ability to enforce those laws," he said.
+"What we are focused on is delivering the right outcome for the British public, where the law was the answer."
+On the question of whether the UK should have its own sovereign AI frontier model, the minister said he was "focused" on securing British sovereignty, which meant "placing the right set of investments".
+"It's British chips being made here. It's British models outside of just language, looking at things like drug discovery, materials discovery, computer vision and its areas of adoption, including AI, security and cyber-security," he said.
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
+Related topics
+- Published7 hours ago
+- Published3 days ago
+- Published29 September`,
+    bodyJa: `AI minister warns 'likely' UK's cyber defences will be breached
+- Published
+The UK's AI minister has warned it is "likely, if not inevitable" the country's cyber defences will at some point be breached.
+Speaking at a press conference, Kanishka Narayan pointed to an incident of a rogue OpenAI agent hacking an Australian government website in June.
+He said while no medical records are known to have been accessed in the attack, the incident should still "concern us".
+Narayan said the government plans to put advanced AI to work to combat the threat, as he set out how the government plans to prepare for any serious future incidents.
+The minister said the move would build on two existing pilots which have helped identify and fix over 1,000 vulnerabilities across government systems.
+He said his message to the largest companies behind the world's most powerful AI systems was: "Listen when your scientists warn of serious dangers. Investigate unexpected behaviour. And if you cannot adequately control the risks, do not release the system."
+In his speech, Narayan also confirmed scientists at the UK's AI watchdog, the AI Security Institute (AISI), were conducting "rigorous evaluations" of the latest generation of advanced AI models to "identify risks early" and "to test robust safeguards to help keep people safe".
+AI testing
+AISI began evaluating risks of the latest frontier AI models, prior to their public release, shortly after it was established in November 2023.
+But it was reported in September, external that the White House had asked some leading US labs not to share their models with the research organisation until its own tests were completed.
+The move was viewed at the time as a blow to AISI - which has been championed by the UK government and its partners for advancing open, constructive and collaborative AI testing.
+Microsoft president Brad Smith recently told the BBC the institute had helped cement the UK as the country best-placed to drive forward global regulation.
+On Monday, Narayan said that in the last few weeks, the government had worked with the US "to retain access for Britain's AISI to the most powerful AI models before they are released".
+He also said the UK would also look into creating stronger protections through the Cyber Security and Resilience bill, particularly at how serious AI incidents can be identified and reported.
+Regulation
+The announcement follows a series of incidents involving AI agents across major firms such as OpenAI and Anthropic acting outside human control and hacking into external systems.
+On 9 September, Evan Hubinger, a top safety researcher at Anthropic, warned in a post on X that AI is advancing so quickly he believed there is a greater than 10% chance it "could kill all humans" within the next decade.
+The bosses of the US-based AI giants such as Anthropic, OpenAI and Google DeepMind have all backed the idea of an AI development slowdown.
+However, there are currently no global safety rules in place to regulate the companies and their technology. President Trump has called for the sector to regulate itself so that US firms do not lose out to Chinese rivals.
+Speaking to the BBC following the announcement, Narayan said the UK needed "to be confident... as a country" when questioned as to how the government can make foreign AI firms abide by UK rules.
+"We have the capability, we have the trust, and we have a government that is right on the side of the British public in making sure we don't just have laws but the ability to enforce those laws," he said.
+"What we are focused on is delivering the right outcome for the British public, where the law was the answer."
+On the question of whether the UK should have its own sovereign AI frontier model, the minister said he was "focused" on securing British sovereignty, which meant "placing the right set of investments".
+"It's British chips being made here. It's British models outside of just language, looking at things like drug discovery, materials discovery, computer vision and its areas of adoption, including AI, security and cyber-security," he said.
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
+Related topics
+- Published7 hours ago
+- Published3 days ago
+- Published29 September`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-12T15:03:42+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd68/live/6a2ab470-c646-11f1-bc2e-018d645d8d21.jpg",
+    readTime: 10,
+  },
+  {
+    id: "faa-warns-u-s-airlines-of-safety-risks-o-652f8508",
+    title: "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
+    titleJa: "FAA warns U.S. airlines of safety risks over Saudi Arabia after attacks",
+    summaryJa: "The FAA warned U.S. airlines about flight risks over Saudi Arabia as Riyadh airport attacks disrupt travel and Delta weighs an Oct. 23 launch.",
+    bodyOriginal: `The Federal Aviation Administration told U.S. airlines to exercise caution when flying in or around Saudi Arabia after deadly attacks claimed by Yemen's Iran-backed Houthis, which have shut down the airport in the Saudi capital.
+King Khalid International Airport in Riyadh, Saudi Arabia, remains closed as of Monday after strikes that started last week. The attacks escalated Saturday, when a projectile struck a passenger terminal at the airport, officials said, killing at least 12 people and wounding more than 300.
+Airlines suspended flights to the airport, some for the rest of the week.
+The U.S., Australia and other countries advised citizens against travel to the region.
+The FAA late Sunday said pilots should "exercise caution" in or around Saudi Arabia "due to safety-of-flight risks associated with ongoing military activities" and navigation systems. It said the threats could be a potential risk "to aircraft at all altitudes." The FAA's warning is in effect until Dec. 10.
+Most U.S. airlines don't fly to Saudi Arabia.
+Delta Air Lines had been scheduled to launch its first nonstop flight from Atlanta to Riyadh on Oct. 23. But after the FAA's warning, the carrier on Monday morning said it would delay that service until March.`,
+    bodyJa: `The Federal Aviation Administration told U.S. airlines to exercise caution when flying in or around Saudi Arabia after deadly attacks claimed by Yemen's Iran-backed Houthis, which have shut down the airport in the Saudi capital.
+King Khalid International Airport in Riyadh, Saudi Arabia, remains closed as of Monday after strikes that started last week. The attacks escalated Saturday, when a projectile struck a passenger terminal at the airport, officials said, killing at least 12 people and wounding more than 300.
+Airlines suspended flights to the airport, some for the rest of the week.
+The U.S., Australia and other countries advised citizens against travel to the region.
+The FAA late Sunday said pilots should "exercise caution" in or around Saudi Arabia "due to safety-of-flight risks associated with ongoing military activities" and navigation systems. It said the threats could be a potential risk "to aircraft at all altitudes." The FAA's warning is in effect until Dec. 10.
+Most U.S. airlines don't fly to Saudi Arabia.
+Delta Air Lines had been scheduled to launch its first nonstop flight from Atlanta to Riyadh on Oct. 23. But after the FAA's warning, the carrier on Monday morning said it would delay that service until March.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/12/faa-saudi-arabia-flight-risks.html",
+    publishedAt: "2026-10-12T14:31:32+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "starbucks-says-it-is-not-buying-chipotle-f9061d31",
+    title: "Starbucks says it is not buying Chipotle after takeover speculation",
+    titleJa: "Starbucks says it is not buying Chipotle after takeover speculation",
+    summaryJa: "Starbucks on Monday denied it is considering acquiring Chipotle Mexican Grill in what would be the biggest-ever restaurant takeover.\"Starbucks is not buying Chipotle,\" a Starbucks spokesperson told CNBC's Jim Cramer.",
+    bodyOriginal: `Starbucks on Monday denied it is considering acquiring Chipotle Mexican Grill in what would be the biggest-ever restaurant takeover.
+"Starbucks is not buying Chipotle," a Starbucks spokesperson told CNBC's Jim Cramer.
+Chipotle's stock was down nearly 4% in morning trading Monday following the statement, while Starbucks shares were 1% higher.
+The coffee giant's denial comes after days of rumors about a potential megadeal between the two restaurant companies.
+On Thursday, the Financial Times reported that Starbucks had been working with advisors on a Chipotle takeover proposal in recent months. The newspaper cited people familiar with the matter.
+Earlier in October, Semafor reported that Chipotle had hired advisors to defend against activist investors or an unwanted takeover bid. The fast-casual chain is trying to recover from a rocky 2025, when traffic to its restaurants fell. Chipotle shares are down about 20% over the last year, making it a cheaper target.
+The deal rumors sent shares of Chipotle higher, while Starbucks stock fell on the reports.
+Chipotle investors were looking forward to a potential reunion with Brian Niccol, who previously led Chipotle and is now CEO of Starbucks. But Starbucks shareholders were largely concerned about an expensive distraction while the coffee chain is in the middle of its own turnaround.`,
+    bodyJa: `Starbucks on Monday denied it is considering acquiring Chipotle Mexican Grill in what would be the biggest-ever restaurant takeover.
+"Starbucks is not buying Chipotle," a Starbucks spokesperson told CNBC's Jim Cramer.
+Chipotle's stock was down nearly 4% in morning trading Monday following the statement, while Starbucks shares were 1% higher.
+The coffee giant's denial comes after days of rumors about a potential megadeal between the two restaurant companies.
+On Thursday, the Financial Times reported that Starbucks had been working with advisors on a Chipotle takeover proposal in recent months. The newspaper cited people familiar with the matter.
+Earlier in October, Semafor reported that Chipotle had hired advisors to defend against activist investors or an unwanted takeover bid. The fast-casual chain is trying to recover from a rocky 2025, when traffic to its restaurants fell. Chipotle shares are down about 20% over the last year, making it a cheaper target.
+The deal rumors sent shares of Chipotle higher, while Starbucks stock fell on the reports.
+Chipotle investors were looking forward to a potential reunion with Brian Niccol, who previously led Chipotle and is now CEO of Starbucks. But Starbucks shareholders were largely concerned about an expensive distraction while the coffee chain is in the middle of its own turnaround.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/12/starbucks-denies-chipotle-takeover.html",
+    publishedAt: "2026-10-12T14:22:48+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "zelenskyy-accuses-russia-of-violating-tr-05bb46dd",
+    title: "Zelenskyy accuses Russia of violating Trump’s energy ceasefire as drone attacks continue",
+    titleJa: "Zelenskyy accuses Russia of violating Trump’s energy ceasefire as drone attacks continue",
+    summaryJa: "If Russia doesn't agree to Trump's energy ceasefire, Ukraine will respond, Zelenskyy said Monday morning.",
+    bodyOriginal: `Ukrainian President Volodymyr Zelenskyy welcomed the U.S.-brokered "energy ceasefire" but warned Monday that Kyiv would retaliate if Moscow failed to comply, as fresh Russian drone attacks targeted Ukraine's energy infrastructure just hours after President Donald Trump announced the agreement.
+"It is increasingly evident that Russia is unwilling to accept an energy ceasefire proposed by the United States and intends to continue its terrorist air attacks against our people and communities," Zelenskyy said Monday in a post on X. "Today alone, the Russians have attacked 6 energy facilities in Ukraine."
+Speaking earlier in the day via video link at the Warsaw Security Forum, he said Ukraine was prepared to sign guarantees if the U.S. required them to build trust, stressing the importance of a shared understanding of the situation. "If Russia does not agree to an energy ceasefire, we will respond," he cautioned.
+"All morning today, more and more Russian jet-powered shaheds have continued to enter our skies over Kyiv and other Ukrainian cities. We shoot down many of them, and if we didn't, there would clearly be even more damage to our energy infrastructure," he said.
+"For now, this is Putin's answer to Trump."
+It comes after Zelenskyy lamented Russia's continued drone attacks on Ukrainian energy targets on Sunday, including an attack on a power plant in Kharkiv in Eastern Ukraine close to the Russian border.
+Overnight, Russia attacked state-owned Ukrainian energy company Naftogaz's gas production infrastructure in Kharkiv region, the company said. No one was injured in the strike by the jet-powered drone, which caused a fire at the facility, it added.
+Naftogaz's acting CEO, Sergii Fedorenko, said the attack had damaged critical equipment and that employees were working to repair damage as quickly as possible and prevent any risks to operations of the energy system.
+Earlier on Sunday, Trump announced an "energy ceasefire" to lower fuel costs ahead of the U.S. midterm elections.
+"Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine. Both parties have agreed. Do not break it!" Trump wrote on social media on Sunday.
+The Kremlin said on Monday that contacts are ongoing on an energy ceasefire and that it would provide more information in due course, Reuters reported. It declined to comment on whether any deal would be limited to oil refineries. Russia's presidential office didn't immediately respond to a CNBC request for further information.
+Since Russia's full-scale invasion of Ukraine in 2022, ceasefires have repeatedly proved fragile. Trump has tried several times to broker an end to the war, but none have succeeded so far.
+"We've been here many times before over the last four and a half years, so I don't think we should build our hopes up too much," former IEA head of oil Neil Atkinson told "Squawk Box Europe" on Monday.
+Deal with Russia
+On Friday, Trump said he had made a deal with President Vladimir Putin in which Russia would supply more than 4 million tons of diesel to global markets.
+"The reality of it is that the volumes talked about are very small," said Atkinson, who is also a visiting fellow at the National Center for Energy Analytics. "The deal that's been agreed is not really market moving in any significant way."
+According to Trump, Russia will supply more than 300,000 tons of diesel immediately, followed by 500,000 tons in November, and then another 4 million tons of diesel based on the condition of Russia's refineries.
+EU top diplomat Kaja Kallas welcomed an energy ceasefire but said, "This is not the time to ease pressure on Russia."
+"Suspending sanctions on Russian diesel provides Moscow with more revenues to wage war," she said in a statement Saturday.
+EU's foreign ministers are due to meet in Luxembourg on Monday morning to discuss the Russia-Ukraine war, among other things. The EU will adopt nearly 1,600 new sanctions listings targeting Russia's military-industrial complex, in the single largest expansion of our sanctions list since Russia started its war, Kallas said ahead of the meeting.
+Oil prices turned positive after Zelenskyy's Monday comments, after trading about 1.5% lower earlier in the session.
+Brent crude futures with December delivery were up 2% to $106.82 a barrel at 10:15 a.m. ET, while West Texas Intermediate futures for November ticked 1.9% higher to $93.60 per barrel.`,
+    bodyJa: `Ukrainian President Volodymyr Zelenskyy welcomed the U.S.-brokered "energy ceasefire" but warned Monday that Kyiv would retaliate if Moscow failed to comply, as fresh Russian drone attacks targeted Ukraine's energy infrastructure just hours after President Donald Trump announced the agreement.
+"It is increasingly evident that Russia is unwilling to accept an energy ceasefire proposed by the United States and intends to continue its terrorist air attacks against our people and communities," Zelenskyy said Monday in a post on X. "Today alone, the Russians have attacked 6 energy facilities in Ukraine."
+Speaking earlier in the day via video link at the Warsaw Security Forum, he said Ukraine was prepared to sign guarantees if the U.S. required them to build trust, stressing the importance of a shared understanding of the situation. "If Russia does not agree to an energy ceasefire, we will respond," he cautioned.
+"All morning today, more and more Russian jet-powered shaheds have continued to enter our skies over Kyiv and other Ukrainian cities. We shoot down many of them, and if we didn't, there would clearly be even more damage to our energy infrastructure," he said.
+"For now, this is Putin's answer to Trump."
+It comes after Zelenskyy lamented Russia's continued drone attacks on Ukrainian energy targets on Sunday, including an attack on a power plant in Kharkiv in Eastern Ukraine close to the Russian border.
+Overnight, Russia attacked state-owned Ukrainian energy company Naftogaz's gas production infrastructure in Kharkiv region, the company said. No one was injured in the strike by the jet-powered drone, which caused a fire at the facility, it added.
+Naftogaz's acting CEO, Sergii Fedorenko, said the attack had damaged critical equipment and that employees were working to repair damage as quickly as possible and prevent any risks to operations of the energy system.
+Earlier on Sunday, Trump announced an "energy ceasefire" to lower fuel costs ahead of the U.S. midterm elections.
+"Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine. Both parties have agreed. Do not break it!" Trump wrote on social media on Sunday.
+The Kremlin said on Monday that contacts are ongoing on an energy ceasefire and that it would provide more information in due course, Reuters reported. It declined to comment on whether any deal would be limited to oil refineries. Russia's presidential office didn't immediately respond to a CNBC request for further information.
+Since Russia's full-scale invasion of Ukraine in 2022, ceasefires have repeatedly proved fragile. Trump has tried several times to broker an end to the war, but none have succeeded so far.
+"We've been here many times before over the last four and a half years, so I don't think we should build our hopes up too much," former IEA head of oil Neil Atkinson told "Squawk Box Europe" on Monday.
+Deal with Russia
+On Friday, Trump said he had made a deal with President Vladimir Putin in which Russia would supply more than 4 million tons of diesel to global markets.
+"The reality of it is that the volumes talked about are very small," said Atkinson, who is also a visiting fellow at the National Center for Energy Analytics. "The deal that's been agreed is not really market moving in any significant way."
+According to Trump, Russia will supply more than 300,000 tons of diesel immediately, followed by 500,000 tons in November, and then another 4 million tons of diesel based on the condition of Russia's refineries.
+EU top diplomat Kaja Kallas welcomed an energy ceasefire but said, "This is not the time to ease pressure on Russia."
+"Suspending sanctions on Russian diesel provides Moscow with more revenues to wage war," she said in a statement Saturday.
+EU's foreign ministers are due to meet in Luxembourg on Monday morning to discuss the Russia-Ukraine war, among other things. The EU will adopt nearly 1,600 new sanctions listings targeting Russia's military-industrial complex, in the single largest expansion of our sanctions list since Russia started its war, Kallas said ahead of the meeting.
+Oil prices turned positive after Zelenskyy's Monday comments, after trading about 1.5% lower earlier in the session.
+Brent crude futures with December delivery were up 2% to $106.82 a barrel at 10:15 a.m. ET, while West Texas Intermediate futures for November ticked 1.9% higher to $93.60 per barrel.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/12/russia-ukraine-energy-ceasefire-trump.html",
+    publishedAt: "2026-10-12T14:21:08+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "microsoft-to-rely-more-on-homegrown-ai-c-6791dcf2",
+    title: "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+    titleJa: "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+    summaryJa: "By increasingly counting on its own chips, Microsoft stands to expand margins and bolster its AI stack.",
+    bodyOriginal: `Microsoft will ramp up use of its homegrown artificial intelligence chips after years of reliance on Nvidia's graphics processing units, as the software giant attempts to bolster its AI stack.
+Starting with its third-generation Maia AI accelerator, unveiled on Monday, Microsoft said it will mainly rely on its own silicon to handle incoming requests.
+Microsoft's greatest strength in AI has been its Azure cloud, which runs a series of models for clients. Its Microsoft 365 Copilot and GitHub Copilot offer AI-powered services to software engineers and other office workers. And the company develops in-house models, though they've yet to make a big splash in a market dominated by OpenAI, Anthropic and Google.
+The emerging opportunity in chips stems from unrelenting demand for advanced processors and a desire in the market for choice. Nvidia's GPUs have been the standard for AI workloads and models, and they fill Microsoft's existing data centers, while also serving to train models from OpenAI and Anthropic.
+But as demand keeps growing, the model leaders have embraced a variety of silicon from companies including Amazon, Advanced Micro Devices, Cerebras, Google and, in recent months, Microsoft.
+For general-purpose use, Microsoft already taps its own central processing units as well as silicon from Intel and AMD. Finance chief Amy Hood said at a Goldman Sachs conference last month that use of its own chips has helped with "margin improvement over the course of a decade."
+Microsoft introduced its inaugural AI chip, the Maia 100, in 2023. It touted the Maia 200 this past January, and CEO Satya Nadella told analysts in July that Maia 200 "delivers 30% better performance per dollar than the latest generation hardware in our fleet" and said it was handling OpenAI models.
+Production of the Maia 300 starts in 2027. Microsoft is targeting multi-gigawatt deployments of chips in the Maia family, according to a blog post from Executive Vice President Scott Guthrie. But Alistair Speirs, a general manager, declined to provide a timeline.
+"We reserve a little bit of optionality there, because this is an industry that's changing very fast, and we want to deploy the right silicon for the right models that we're using at the right time as well," Speirs said.
+Microsoft expects to pack 96 Maia 300 chips into each data center rack, double the number for the Maia 200. The new version can run through up to seven times more AI tokens per rack, with 40% more tokens per megawatt when compared with GPUs.
+"We need new architectures that will give us essentially better performance, better use of the power that we have," Speirs said. "You can think of power translating pretty directly into operational cost for something like a data center as well."
+Parts of Microsoft 365 Copilot should speed up with Maia 300, said Jim Kleewein, a technical fellow at the company.
+In a note distributed to clients on Wednesday, Evercore ISI analysts estimated that Maia will represent about 10% of Microsoft's spending on AI chips by the first quarter of 2027. The analysts recommend buying Microsoft shares.
+Nvidia will still be a big part of the equation. CEO Jensen Huang spoke at an event last week where Microsoft announced a Surface laptop containing an Nvidia processor. And when it comes to training models, Microsoft partners with Nvidia and AMD, Speirs said.
+Unlike Google's tensor processing units or Amazon's Inferentia and Trainium, Microsoft's accelerators can't be rented by the hour to other companies.
+"Nobody has tested them outside of Microsoft yet," said Patrick Moorhead, CEO of advisory firm Moor Insights and Strategy.
+WATCH: Melissa Otto: Nvidia is the bellwether of the AI trade`,
+    bodyJa: `Microsoft will ramp up use of its homegrown artificial intelligence chips after years of reliance on Nvidia's graphics processing units, as the software giant attempts to bolster its AI stack.
+Starting with its third-generation Maia AI accelerator, unveiled on Monday, Microsoft said it will mainly rely on its own silicon to handle incoming requests.
+Microsoft's greatest strength in AI has been its Azure cloud, which runs a series of models for clients. Its Microsoft 365 Copilot and GitHub Copilot offer AI-powered services to software engineers and other office workers. And the company develops in-house models, though they've yet to make a big splash in a market dominated by OpenAI, Anthropic and Google.
+The emerging opportunity in chips stems from unrelenting demand for advanced processors and a desire in the market for choice. Nvidia's GPUs have been the standard for AI workloads and models, and they fill Microsoft's existing data centers, while also serving to train models from OpenAI and Anthropic.
+But as demand keeps growing, the model leaders have embraced a variety of silicon from companies including Amazon, Advanced Micro Devices, Cerebras, Google and, in recent months, Microsoft.
+For general-purpose use, Microsoft already taps its own central processing units as well as silicon from Intel and AMD. Finance chief Amy Hood said at a Goldman Sachs conference last month that use of its own chips has helped with "margin improvement over the course of a decade."
+Microsoft introduced its inaugural AI chip, the Maia 100, in 2023. It touted the Maia 200 this past January, and CEO Satya Nadella told analysts in July that Maia 200 "delivers 30% better performance per dollar than the latest generation hardware in our fleet" and said it was handling OpenAI models.
+Production of the Maia 300 starts in 2027. Microsoft is targeting multi-gigawatt deployments of chips in the Maia family, according to a blog post from Executive Vice President Scott Guthrie. But Alistair Speirs, a general manager, declined to provide a timeline.
+"We reserve a little bit of optionality there, because this is an industry that's changing very fast, and we want to deploy the right silicon for the right models that we're using at the right time as well," Speirs said.
+Microsoft expects to pack 96 Maia 300 chips into each data center rack, double the number for the Maia 200. The new version can run through up to seven times more AI tokens per rack, with 40% more tokens per megawatt when compared with GPUs.
+"We need new architectures that will give us essentially better performance, better use of the power that we have," Speirs said. "You can think of power translating pretty directly into operational cost for something like a data center as well."
+Parts of Microsoft 365 Copilot should speed up with Maia 300, said Jim Kleewein, a technical fellow at the company.
+In a note distributed to clients on Wednesday, Evercore ISI analysts estimated that Maia will represent about 10% of Microsoft's spending on AI chips by the first quarter of 2027. The analysts recommend buying Microsoft shares.
+Nvidia will still be a big part of the equation. CEO Jensen Huang spoke at an event last week where Microsoft announced a Surface laptop containing an Nvidia processor. And when it comes to training models, Microsoft partners with Nvidia and AMD, Speirs said.
+Unlike Google's tensor processing units or Amazon's Inferentia and Trainium, Microsoft's accelerators can't be rented by the hour to other companies.
+"Nobody has tested them outside of Microsoft yet," said Patrick Moorhead, CEO of advisory firm Moor Insights and Strategy.
+WATCH: Melissa Otto: Nvidia is the bellwether of the AI trade`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html",
+    publishedAt: "2026-10-12T14:04:16+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "banks-are-set-to-report-this-week-here-s-6ebb1b8a",
+    title: "Banks are set to report this week. Here's what the options market expects",
+    titleJa: "Banks are set to report this week. Here's what the options market expects",
+    summaryJa: "Despite being flat on the year, the options market is pricing in some big financial sector moves as investor weigh the impact of higher rates.",
+    bodyOriginal: `Bank earnings kick off this week with no fewer than seven of the biggest names set to report. With the S&P 500 near all-time highs, the results could provide a significant market catalyst.
+Financials are the third-worst performing S&P 500 sector in 2026. Despite being flat on the year, the options market is pricing in some big moves as investor weigh the impact of higher rates and stretched consumer.
+Here's what the options market sees, according to the latest Cboe LiveVol data.
+Goldman Sachs - Tuesday, Oct. 13
+The options market is pricing in a 2.84% move for Goldman Sachs after it reports earnings. Across the last eight reported quarters, the stock has moved just about 2% on average. Only three of those quarters have seen a negative stock reaction, with the most recent being a 1.87% move lower in April.
+The stock rallied a whopping 9% after July's Q2 report, which is the largest post-earnings move since January, 2019.
+JPMorgan - Tuesday, Oct. 13
+Options are pricing in a move similar to Goldman Sachs for JPMorgan, with a 2.5% implied move inline with its past eight quarter average of 2.22%. Unlike Goldman, JPMorgan's recent reports haven't been met with much positivity. The stock's 2.5% move higher following July's report was its first positive reaction since April, 2025, when it jumped 4% higher.
+Citigroup - Tuesday, Oct. 13
+Citigroup heads into Tuesday's report up 11% on the year, best performance of any of this week's reporting names. Options are pricing in a tame 3% stock reaction in either direction, well below the 3.8% it has averaged across the last eight reported quarters. There is cause for pause, though. Last quarter, the stock surprised to the downside to the tune of 5.3% against a 3.5% implied move.
+Wells Fargo - Tuesday, Oct. 13
+Wells Fargo rounds out Tuesday's big bank earnings as a name with a lot to prove. Not only is the stock down 10% this year, but it has also flunked its last three earnings reports, including a 5% move lower in April. This time around, options are implying a 3.5% move in either direction. That's well below its 5.6% average across the last eight quarters.
+Bank of America - Wednesday, Oct. 14
+The options market thinks Bank of America might be able to sneak into positive territory on the year after Wednesday's report. A move higher would be its third-straight post-earnings win. The current implied stock move is 2.9% in either direction, meaningfully above the 1.8% swing it has averaged across its last eight reported quarters.
+Morgan Stanley - Wednesday, Oct. 14
+This company has rarely put a foot wrong in its recent earnings history. The stock has only moved lower once in its last eight reported quarters, a 1.3% move lower in July, 2025. This time around, options are implying a 3% move in either direction, compared to its eight-quarter average of 4.3%. A move higher on Wednesday would make it five straight for Morgan Stanley.
+BlackRock - Wednesday, Oct. 14
+A move higher would also be five in a row for BlackRock, which jumped nearly 7% following July's report. Its last negative reaction came last July – a 6% tumble, This time, options are implying a 3.3% move in either direction. That's tame compared to its 4.4% average across the last eight quarters.`,
+    bodyJa: `Bank earnings kick off this week with no fewer than seven of the biggest names set to report. With the S&P 500 near all-time highs, the results could provide a significant market catalyst.
+Financials are the third-worst performing S&P 500 sector in 2026. Despite being flat on the year, the options market is pricing in some big moves as investor weigh the impact of higher rates and stretched consumer.
+Here's what the options market sees, according to the latest Cboe LiveVol data.
+Goldman Sachs - Tuesday, Oct. 13
+The options market is pricing in a 2.84% move for Goldman Sachs after it reports earnings. Across the last eight reported quarters, the stock has moved just about 2% on average. Only three of those quarters have seen a negative stock reaction, with the most recent being a 1.87% move lower in April.
+The stock rallied a whopping 9% after July's Q2 report, which is the largest post-earnings move since January, 2019.
+JPMorgan - Tuesday, Oct. 13
+Options are pricing in a move similar to Goldman Sachs for JPMorgan, with a 2.5% implied move inline with its past eight quarter average of 2.22%. Unlike Goldman, JPMorgan's recent reports haven't been met with much positivity. The stock's 2.5% move higher following July's report was its first positive reaction since April, 2025, when it jumped 4% higher.
+Citigroup - Tuesday, Oct. 13
+Citigroup heads into Tuesday's report up 11% on the year, best performance of any of this week's reporting names. Options are pricing in a tame 3% stock reaction in either direction, well below the 3.8% it has averaged across the last eight reported quarters. There is cause for pause, though. Last quarter, the stock surprised to the downside to the tune of 5.3% against a 3.5% implied move.
+Wells Fargo - Tuesday, Oct. 13
+Wells Fargo rounds out Tuesday's big bank earnings as a name with a lot to prove. Not only is the stock down 10% this year, but it has also flunked its last three earnings reports, including a 5% move lower in April. This time around, options are implying a 3.5% move in either direction. That's well below its 5.6% average across the last eight quarters.
+Bank of America - Wednesday, Oct. 14
+The options market thinks Bank of America might be able to sneak into positive territory on the year after Wednesday's report. A move higher would be its third-straight post-earnings win. The current implied stock move is 2.9% in either direction, meaningfully above the 1.8% swing it has averaged across its last eight reported quarters.
+Morgan Stanley - Wednesday, Oct. 14
+This company has rarely put a foot wrong in its recent earnings history. The stock has only moved lower once in its last eight reported quarters, a 1.3% move lower in July, 2025. This time around, options are implying a 3% move in either direction, compared to its eight-quarter average of 4.3%. A move higher on Wednesday would make it five straight for Morgan Stanley.
+BlackRock - Wednesday, Oct. 14
+A move higher would also be five in a row for BlackRock, which jumped nearly 7% following July's report. Its last negative reaction came last July – a 6% tumble, This time, options are implying a 3.3% move in either direction. That's tame compared to its 4.4% average across the last eight quarters.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/12/banks-are-set-to-report-this-week-heres-what-the-options-market-expects.html",
+    publishedAt: "2026-10-12T13:27:20+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 8,
+  },
+  {
     id: "tiktok-ceo-sees-major-scientific-breakth-32b6fb10",
     title: "TikTok CEO sees major scientific breakthroughs from AI within three years",
     titleJa: "TikTok CEO sees major scientific breakthroughs from AI within three years",
@@ -1753,592 +2083,6 @@ The numbers cut both ways. Microsoft did receive more than 6,000 H-1B approvals 
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 5,
-  },
-  {
-    id: "putin-relayed-iran-war-proposal-to-trump-182acae5",
-    title: "Putin relayed Iran war proposal to Trump, Kremlin says",
-    titleJa: "Putin relayed Iran war proposal to Trump, Kremlin says",
-    summaryJa: "Putin's reported call with Trump regarding the Iran war comes on the heels of a deal for the U.S. to buy Russian diesel amid a surge in fuel prices.",
-    bodyOriginal: `Russian President Vladimir Putin conveyed Tehran's vision for a possible end to the war in Iran to U.S. President Donald Trump, Russian state media reported Saturday.
-The report comes a day after Trump said Russia will supply diesel to the global market amid a surge in energy prices caused by the wars in Iran and Ukraine.
-Russia's Interfax news agency quoted Kremlin spokesman Dmitry Peskov as saying Putin sent the message to Trump "in agreement with Iranian President Masoud Pezeshkian," according to a Google translation.
-Other Russian media reports said Putin spoke to Trump by phone after the Russian leader met Pezeshkian on the sidelines of a summit in Turkmenistan.
-Interfax didn't elaborate on the specifics of how Iran sees the war — which began on Feb. 28 with U.S. and Israeli airstrikes on Iranian targets — coming to an end.
-The White House didn't immediately respond to CNBC's emailed request to confirm the reported conversation between Putin and Trump.
-Russia supply deal
-Trump said Friday that Russia will supply more than 4 million tons of diesel to the global market under an arrangement the U.S. president said he agreed with Putin during a phone call.
-Russia will immediately supply more than 300,000 tons of diesel, followed by 500,000 tons in November, and 1 million tons immediately thereafter, Trump said in a post on Truth Social. Moscow will then deliver another 3 million tons of diesel based on the condition of Russia's refineries, Trump said.
-The Treasury Department temporarily waived sanctions on Russian diesel through April 2027 under a general license issued Friday.
-Iran has stepped up its attacks on oil tankers transiting the Strait of Hormuz, with vessels coming under fire almost daily as Tehran tries to choke off a rebound in crude exports.
-A senior Iranian Revolutionary Guard official said Wednesday that Iran will block all "illicit routes" through Hormuz, according to the Fars News Agency, an outlet considered close to the Guard.
-The surge in attacks on tankers comes as crude oil exports from the Middle East rebounded in September to prewar levels, largely because the U.S. military escorted ships through Hormuz along Oman's coast.
-An interim deal signed in June between the U.S. and Iran to pause hostilities to allow for negotiations quickly broke down.
-'Gifts to Putin'
-Ukrainian President Volodymyr Zelenskyy immediately condemned Trump's diesel deal with Putin. Ukraine's leader warned that easing sanctions without a commitment from Russia to de-escalate the war will only prolong it.
-"Gifts to Putin will not bring peace or any benefit to the civilized world," Zelenskyy said in a social media post. "Russia will 'repay' the diesel with further terror and perfidy. Allowing Russia to sell petroleum products is an investment in a war that must be ended, not prolonged."
-Diesel prices have surged worldwide as Ukraine has pounded Russian refineries, forcing Moscow to ban diesel exports to global markets. Iran and its Houthi allies have also attacked refineries in the Middle East, further constraining fuel supplies.
-Trump is under growing political pressure to lower fuel prices ahead of the November midterm elections. Republicans face competitive elections in conservative strongholds like Iowa, where farmers feel the pinch of high diesel prices.`,
-    bodyJa: `Russian President Vladimir Putin conveyed Tehran's vision for a possible end to the war in Iran to U.S. President Donald Trump, Russian state media reported Saturday.
-The report comes a day after Trump said Russia will supply diesel to the global market amid a surge in energy prices caused by the wars in Iran and Ukraine.
-Russia's Interfax news agency quoted Kremlin spokesman Dmitry Peskov as saying Putin sent the message to Trump "in agreement with Iranian President Masoud Pezeshkian," according to a Google translation.
-Other Russian media reports said Putin spoke to Trump by phone after the Russian leader met Pezeshkian on the sidelines of a summit in Turkmenistan.
-Interfax didn't elaborate on the specifics of how Iran sees the war — which began on Feb. 28 with U.S. and Israeli airstrikes on Iranian targets — coming to an end.
-The White House didn't immediately respond to CNBC's emailed request to confirm the reported conversation between Putin and Trump.
-Russia supply deal
-Trump said Friday that Russia will supply more than 4 million tons of diesel to the global market under an arrangement the U.S. president said he agreed with Putin during a phone call.
-Russia will immediately supply more than 300,000 tons of diesel, followed by 500,000 tons in November, and 1 million tons immediately thereafter, Trump said in a post on Truth Social. Moscow will then deliver another 3 million tons of diesel based on the condition of Russia's refineries, Trump said.
-The Treasury Department temporarily waived sanctions on Russian diesel through April 2027 under a general license issued Friday.
-Iran has stepped up its attacks on oil tankers transiting the Strait of Hormuz, with vessels coming under fire almost daily as Tehran tries to choke off a rebound in crude exports.
-A senior Iranian Revolutionary Guard official said Wednesday that Iran will block all "illicit routes" through Hormuz, according to the Fars News Agency, an outlet considered close to the Guard.
-The surge in attacks on tankers comes as crude oil exports from the Middle East rebounded in September to prewar levels, largely because the U.S. military escorted ships through Hormuz along Oman's coast.
-An interim deal signed in June between the U.S. and Iran to pause hostilities to allow for negotiations quickly broke down.
-'Gifts to Putin'
-Ukrainian President Volodymyr Zelenskyy immediately condemned Trump's diesel deal with Putin. Ukraine's leader warned that easing sanctions without a commitment from Russia to de-escalate the war will only prolong it.
-"Gifts to Putin will not bring peace or any benefit to the civilized world," Zelenskyy said in a social media post. "Russia will 'repay' the diesel with further terror and perfidy. Allowing Russia to sell petroleum products is an investment in a war that must be ended, not prolonged."
-Diesel prices have surged worldwide as Ukraine has pounded Russian refineries, forcing Moscow to ban diesel exports to global markets. Iran and its Houthi allies have also attacked refineries in the Middle East, further constraining fuel supplies.
-Trump is under growing political pressure to lower fuel prices ahead of the November midterm elections. Republicans face competitive elections in conservative strongholds like Iowa, where farmers feel the pinch of high diesel prices.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/10/putin-trump-iran-war-russia-diesel.html",
-    publishedAt: "2026-10-10T13:42:36+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 8,
-  },
-  {
-    id: "how-supreme-court-justices-are-leaning-i-b999452a",
-    title: "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance",
-    titleJa: "How Supreme Court justices are leaning in major 401(k) case over private funds and underperformance",
-    summaryJa: "The Supreme Court is weighing an Intel 401(k) case as employers await new Labor Department rules on private investments in retirement plans.",
-    bodyOriginal: `The Supreme Court heard a major case this week concerning an Intel retirement plan which could result in a decision that influences employers' appetite for private investments in 401(k)s.
-Many plan sponsors are in limbo, awaiting the Supreme Court decision and finalized Labor Department rules covering alternative investments before changing their 401(k) menu, even as the asset management industry is gearing up with new products.
-"I think companies want to know what's going to happen with the proposal and what's going to happen with the Supreme Court case before they go rushing in to change their investment strategies," said Elizabeth Hopkins, principal at Hopkins ERISA Law and a former senior trial attorney with the Labor Department, who filed an amicus brief in the Supreme Court case on behalf of former high-ranking DOL officials.
-Here's what employers and employees need to know about forces influencing the market for private investments in 401(k) plans.
-What Justices Thomas, Alito, Gorsuch and Kagan said
-Employers have been whipsawed for the past several years by changing government policies on alternative investments in 401(k) plans and a high-profile lawsuit filed in 2019 by a former Intel employee. That case, Anderson v. Intel Corp. Investment Policy Committee, which the Supreme Court heard oral arguments on Tuesday, Oct. 6, concerns private investments in a defined contribution plan like a 401(k) and the circumstances under which these investments are appropriate.
-The case is not challenging whether alternative assets like hedge funds and private equity can be used in a 401(k) plan alongside stocks and bonds. Rather, the question before the court is whether a retirement plan underperformance claim requires alleging a "meaningful benchmark." The heart of the dispute is how to handle claims by employees that plan sponsors have invested their retirement funds imprudently.
-Employees contend that the relatively low returns on Intel's plans reflect a breach of fiduciary duty. The lower courts disagreed. Their reasoning: claims of underperformance alone are not enough without showing a "meaningful benchmark" for courts to assess performance.
-During the arguments, Supreme Court justices seemed skeptical that plan sponsors' investment choices should provide easy fodder for litigious individuals. Justices frequently turned to a fruit metaphor, with Justice Clarence Thomas summing up his take on the Ninth Circuit's decision as: "you can't compare apples and oranges…if you have a fund…that is designed to produce high returns but riskier returns…you can't compare that to a fund that is to protect against losses."
-Several other justices, including from among the liberal side of the court, seemed to agree with his line of reasoning, Ronald Mann, co-director of the Charles Evans Gerber Transactional Studies Center at Columbia Law School, noted in an analysis on SCOTUSblog. Justice Elena Kagan, for instance, commented, "the thing that you need … is another apple."
-Justice Samuel Alito challenged the employees' attorney, Matthew Wessler, to clarify whether his position was that one could "state a claim by comparing apples and oranges but supplement that with the suggestion that the strategy was flawed."
-Justice Amy Coney Barrett opted for the same metaphor as well.
-Meanwhile, Justice Neil Gorsuch asked Wessler to "agree with the general principle that when we're limited to underperformance claims … a meaningful benchmark of some kind is required, apples, not oranges."
-Wessler did not respond to a request for comment for this article.
-The underlying problem for the court seemed to be the lack of a benchmark. Notably, justices explicitly asked Aimee Brown, assistant to the Solicitor General, how much guidance the court should provide in this case.
-Brown's view was that the court should suggest "some parameters" for what a "meaningful benchmark" needs to be. "Prudence is about process and not about performance," she told the justices.
-Legal experts say SCOTUS seems likely to side with Intel
-Attorneys who attended the arguments in person, listened to the recording or read the transcript took the justices' questions as a sign they were leaning toward siding with Intel and affirming the 9th Circuit. "When the justices are asking opposing counsel to pick and choose among the approaches to use in an opinion, it usually is a safe bet that they are not going to vote for you," Mann wrote.
-On rebuttal, Wessler noted that all of the allegations need to be considered together and holistically. "I think that matters in a case like this, where you have an allegation about an imprudent either strategy or implementation of that strategy that then turns out badly," he told the court.
-Employers are awaiting the court's ruling, in some cases hoping for guidance that helps temper future litigation. "Private funds can be an effective and entirely appropriate component of 401(k) plan investment options," Eugene Scalia, partner at Gibson Dunn & Crutcher, said in an email. "A ruling for Intel by the court would affirm that and lend further support to the Labor Department rulemaking," said the former U.S. Secretary of Labor who submitted an amicus brief on behalf of The American Investment Council and The Managed Funds Association.
-"A positive outcome in this case will go a long way toward getting plan sponsors that have wanted to do this for years, but held off, for fear of being sued, feel more confident that they can do this with less fear of being sued," said Joshua Lichtenstein, partner at Ropes & Gray who heads the firm's ERISA fiduciary practice and was a co-author of an amicus brief to the court on the Investment Company Institute's behalf.
-ERISA doesn't prohibit alternative investments
-The Employee Retirement Income Security Act of 1974, or ERISA, doesn't discuss alternative investments in 401(k)s, but President Trump pushed for their inclusion during his previous administration. Under his watch, the Labor Department issued an Information Letter in June 2020 designed to "help Americans saving for retirement gain access to alternative investments that often provide strong returns," then-Secretary of Labor Scalia said in a statement.
-In December 2021, however, the DOL under the Biden administration issued a supplemental statement, contending that most plan fiduciaries were not suited to evaluate alternative investments, given their complexity and high risk. That had a chilling effect on the market.
-The tide shifted, once again, in Trump's second term. In August 2025, he issued a presidential executive order to democratize access to alternative assets for 401(k) investors. Then, in October 2025, Congressman Troy Downing introduced the Retirement Investment Choice Act to codify the executive order into law. And in March, the Labor Department issued a proposed rule that would ease legal and regulatory barriers against adding alternative investments to retirement plans. Comments were due by June 1.
-"The proposal is the clearest guidance the department has ever given on the types of information and process that a plan sponsor should go through when making investment decisions," Lichtenstein said.
-Big employers may still be slow to add private funds
-Most large companies do not offer private investments within their 401(k) plans, even though there's nothing in ERISA saying they can't, said Kent Mason, partner at Davis & Harman, who filed an amicus brief in the Intel case on behalf of the American Benefits Council and represents major employers, large plans and national vendors of retirement plan services.
-The latest developments in court and in the regulatory landscape might not change this. "The largest companies are going to be the slowest to do this," Mason said, adding that he expects smaller and mid-size companies to start adding private investments to their 401(k) line-up before large companies, who are subject to more litigation risk.
-He expects this even if the Supreme Court sides with Intel and Labor Department rules are adopted. "While the rules provide an excellent and helpful framework, the six-factor analysis is still subjective," he said, referring to recently proposed Labor Department guidance on selecting investment options in plans. "Plaintiffs' attorneys are still likely to file suit alleging large companies failed to meet their safe-harbor fiduciary obligations."
-Alternative investments are already common in defined benefit plans, even as 401(k)s have been slower to adopt them. But that's expected to change over time, as investors push for it, more products become available and more companies become comfortable — even if it's slow out of the gate.
-"There's a clear business case for making sure plans provide employees with a broad base of investment options," said Harvey Bines, partner at law firm Sullivan & Worcester, whose focus includes investment management law. However, employers will have to take extra care to cover all the legal and fiduciary bases. "The more novel and riskier the options you offer, the more care and oversight you need to incorporate to make and continue the offering," Bines said.
-Momentum is rising. During Trump's second term, asset managers and plan providers continue to forge partnerships to offer alternative investments within 401(k)s, with announcements from Empower in May 2025 and Voya Financial in July. OneDigital and Principal Financial Group announced similar partnerships in January and August of this year. In September, Constitution Capital Partners announced the Constitution Capital Horizon CIT, a collective investment trust, that launched with more than $50 million in initial assets across 18 retirement plans and near-term commitments bringing total plan assets to more than $1 billion.
-"We're seeing plan sponsors, together with their advisors and consultants, take a closer look at private market investments and begin incorporating them in thoughtful ways," Amy Vaillancourt, president of retirement at Voya Financial, said in an email. She noted that interest isn't just coming from employers. Voya's research found nearly two-thirds of participants want access to private market investments.
-"Sponsors want to understand where private markets may benefit their participants' long-term retirement outcomes," Brett Fisher, head of investment product strategy at Principal Financial Group, said in an email. At the same time, they "want to make those decisions in a way that aligns with their fiduciary obligations."`,
-    bodyJa: `The Supreme Court heard a major case this week concerning an Intel retirement plan which could result in a decision that influences employers' appetite for private investments in 401(k)s.
-Many plan sponsors are in limbo, awaiting the Supreme Court decision and finalized Labor Department rules covering alternative investments before changing their 401(k) menu, even as the asset management industry is gearing up with new products.
-"I think companies want to know what's going to happen with the proposal and what's going to happen with the Supreme Court case before they go rushing in to change their investment strategies," said Elizabeth Hopkins, principal at Hopkins ERISA Law and a former senior trial attorney with the Labor Department, who filed an amicus brief in the Supreme Court case on behalf of former high-ranking DOL officials.
-Here's what employers and employees need to know about forces influencing the market for private investments in 401(k) plans.
-What Justices Thomas, Alito, Gorsuch and Kagan said
-Employers have been whipsawed for the past several years by changing government policies on alternative investments in 401(k) plans and a high-profile lawsuit filed in 2019 by a former Intel employee. That case, Anderson v. Intel Corp. Investment Policy Committee, which the Supreme Court heard oral arguments on Tuesday, Oct. 6, concerns private investments in a defined contribution plan like a 401(k) and the circumstances under which these investments are appropriate.
-The case is not challenging whether alternative assets like hedge funds and private equity can be used in a 401(k) plan alongside stocks and bonds. Rather, the question before the court is whether a retirement plan underperformance claim requires alleging a "meaningful benchmark." The heart of the dispute is how to handle claims by employees that plan sponsors have invested their retirement funds imprudently.
-Employees contend that the relatively low returns on Intel's plans reflect a breach of fiduciary duty. The lower courts disagreed. Their reasoning: claims of underperformance alone are not enough without showing a "meaningful benchmark" for courts to assess performance.
-During the arguments, Supreme Court justices seemed skeptical that plan sponsors' investment choices should provide easy fodder for litigious individuals. Justices frequently turned to a fruit metaphor, with Justice Clarence Thomas summing up his take on the Ninth Circuit's decision as: "you can't compare apples and oranges…if you have a fund…that is designed to produce high returns but riskier returns…you can't compare that to a fund that is to protect against losses."
-Several other justices, including from among the liberal side of the court, seemed to agree with his line of reasoning, Ronald Mann, co-director of the Charles Evans Gerber Transactional Studies Center at Columbia Law School, noted in an analysis on SCOTUSblog. Justice Elena Kagan, for instance, commented, "the thing that you need … is another apple."
-Justice Samuel Alito challenged the employees' attorney, Matthew Wessler, to clarify whether his position was that one could "state a claim by comparing apples and oranges but supplement that with the suggestion that the strategy was flawed."
-Justice Amy Coney Barrett opted for the same metaphor as well.
-Meanwhile, Justice Neil Gorsuch asked Wessler to "agree with the general principle that when we're limited to underperformance claims … a meaningful benchmark of some kind is required, apples, not oranges."
-Wessler did not respond to a request for comment for this article.
-The underlying problem for the court seemed to be the lack of a benchmark. Notably, justices explicitly asked Aimee Brown, assistant to the Solicitor General, how much guidance the court should provide in this case.
-Brown's view was that the court should suggest "some parameters" for what a "meaningful benchmark" needs to be. "Prudence is about process and not about performance," she told the justices.
-Legal experts say SCOTUS seems likely to side with Intel
-Attorneys who attended the arguments in person, listened to the recording or read the transcript took the justices' questions as a sign they were leaning toward siding with Intel and affirming the 9th Circuit. "When the justices are asking opposing counsel to pick and choose among the approaches to use in an opinion, it usually is a safe bet that they are not going to vote for you," Mann wrote.
-On rebuttal, Wessler noted that all of the allegations need to be considered together and holistically. "I think that matters in a case like this, where you have an allegation about an imprudent either strategy or implementation of that strategy that then turns out badly," he told the court.
-Employers are awaiting the court's ruling, in some cases hoping for guidance that helps temper future litigation. "Private funds can be an effective and entirely appropriate component of 401(k) plan investment options," Eugene Scalia, partner at Gibson Dunn & Crutcher, said in an email. "A ruling for Intel by the court would affirm that and lend further support to the Labor Department rulemaking," said the former U.S. Secretary of Labor who submitted an amicus brief on behalf of The American Investment Council and The Managed Funds Association.
-"A positive outcome in this case will go a long way toward getting plan sponsors that have wanted to do this for years, but held off, for fear of being sued, feel more confident that they can do this with less fear of being sued," said Joshua Lichtenstein, partner at Ropes & Gray who heads the firm's ERISA fiduciary practice and was a co-author of an amicus brief to the court on the Investment Company Institute's behalf.
-ERISA doesn't prohibit alternative investments
-The Employee Retirement Income Security Act of 1974, or ERISA, doesn't discuss alternative investments in 401(k)s, but President Trump pushed for their inclusion during his previous administration. Under his watch, the Labor Department issued an Information Letter in June 2020 designed to "help Americans saving for retirement gain access to alternative investments that often provide strong returns," then-Secretary of Labor Scalia said in a statement.
-In December 2021, however, the DOL under the Biden administration issued a supplemental statement, contending that most plan fiduciaries were not suited to evaluate alternative investments, given their complexity and high risk. That had a chilling effect on the market.
-The tide shifted, once again, in Trump's second term. In August 2025, he issued a presidential executive order to democratize access to alternative assets for 401(k) investors. Then, in October 2025, Congressman Troy Downing introduced the Retirement Investment Choice Act to codify the executive order into law. And in March, the Labor Department issued a proposed rule that would ease legal and regulatory barriers against adding alternative investments to retirement plans. Comments were due by June 1.
-"The proposal is the clearest guidance the department has ever given on the types of information and process that a plan sponsor should go through when making investment decisions," Lichtenstein said.
-Big employers may still be slow to add private funds
-Most large companies do not offer private investments within their 401(k) plans, even though there's nothing in ERISA saying they can't, said Kent Mason, partner at Davis & Harman, who filed an amicus brief in the Intel case on behalf of the American Benefits Council and represents major employers, large plans and national vendors of retirement plan services.
-The latest developments in court and in the regulatory landscape might not change this. "The largest companies are going to be the slowest to do this," Mason said, adding that he expects smaller and mid-size companies to start adding private investments to their 401(k) line-up before large companies, who are subject to more litigation risk.
-He expects this even if the Supreme Court sides with Intel and Labor Department rules are adopted. "While the rules provide an excellent and helpful framework, the six-factor analysis is still subjective," he said, referring to recently proposed Labor Department guidance on selecting investment options in plans. "Plaintiffs' attorneys are still likely to file suit alleging large companies failed to meet their safe-harbor fiduciary obligations."
-Alternative investments are already common in defined benefit plans, even as 401(k)s have been slower to adopt them. But that's expected to change over time, as investors push for it, more products become available and more companies become comfortable — even if it's slow out of the gate.
-"There's a clear business case for making sure plans provide employees with a broad base of investment options," said Harvey Bines, partner at law firm Sullivan & Worcester, whose focus includes investment management law. However, employers will have to take extra care to cover all the legal and fiduciary bases. "The more novel and riskier the options you offer, the more care and oversight you need to incorporate to make and continue the offering," Bines said.
-Momentum is rising. During Trump's second term, asset managers and plan providers continue to forge partnerships to offer alternative investments within 401(k)s, with announcements from Empower in May 2025 and Voya Financial in July. OneDigital and Principal Financial Group announced similar partnerships in January and August of this year. In September, Constitution Capital Partners announced the Constitution Capital Horizon CIT, a collective investment trust, that launched with more than $50 million in initial assets across 18 retirement plans and near-term commitments bringing total plan assets to more than $1 billion.
-"We're seeing plan sponsors, together with their advisors and consultants, take a closer look at private market investments and begin incorporating them in thoughtful ways," Amy Vaillancourt, president of retirement at Voya Financial, said in an email. She noted that interest isn't just coming from employers. Voya's research found nearly two-thirds of participants want access to private market investments.
-"Sponsors want to understand where private markets may benefit their participants' long-term retirement outcomes," Brett Fisher, head of investment product strategy at Principal Financial Group, said in an email. At the same time, they "want to make those decisions in a way that aligns with their fiduciary obligations."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/10/supreme-court-case-401k-private-funds-intel.html",
-    publishedAt: "2026-10-10T13:00:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "buffett-s-trips-down-youtube-rabbit-hole-f6daf310",
-    title: "Buffett's 'trips down YouTube rabbit hole' revealed",
-    titleJa: "Buffett's 'trips down YouTube rabbit hole' revealed",
-    summaryJa: "Warren Buffett watches CNBC in the morning, but nearly every evening he \"can't get enough\" of watching YouTube clips while sitting on a recliner in front of an \"enormous\" television in his Omaha home, reports The Wall Street Journal.",
-    bodyOriginal: `(This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway. You can sign up here to receive it every Friday evening in your inbox.)
-Buffett's 'nightly trips down the YouTube rabbit hole' revealed
-Warren Buffett watches CNBC in the morning, but nearly every evening he "can't get enough" of watching YouTube clips while sitting on a recliner in front of an "enormous" television in his Omaha home.
-A Wall Street Journal article this week quotes friends as saying he's "hardly ever" looking at anything related to investing or finance, although he is a "fan of Berkshire Hathaway's own content" and "proud of how it performs on the video platform."
-Instead, it's things like "Glenn Close clips ... commercials from the 1950s ... Paul Anka videos ... speeches by complete unknowns ... show tunes, railroads, the big-band era, Nebraska and early Frank Sinatra performances from the 1930s."
-He will also go down some "random rabbit holes."
-For example, Buffett might "come into his office, gushing about a moving amateur rendition of 'My Way.'"
-Sharon Osberg, the three-time world bridge champion who has taught Buffett and Bill Gates the finer points of the game, is also Buffett's "frequent viewing companion," says the WSJ.
-She reports "Warren's range is broad. It can be the silliest things," like a "really good documentary on Roy Cohn" or "the Uzbekistan version of America's got talent."
-Osberg says Buffett has also been watching clips featuring his late friend and business partner, Charlie Munger, including a 2017 appearance at the University of Michigan.
-"You feel the bond between the two of them as he watches Charlie. It's really quite something."
-The WSJ knocks down the idea Buffett's YouTube habit had anything to do with Berkshire's big investment in Alphabet, the platform's corporate parent.
-"He just really likes watching the clips, friends say."
-He's not alone.
-The article notes that while Buffett, now 96 years old, is notoriously slow to adopt new technologies, in this instance his move to YouTube is in line with an ongoing shift from streaming to video clips that has made the platform the most-watched video provider on TVs in the U.S.
-Lennar position edges higher
-Berkshire Hathaway added another $192.6 million to its bet on homebuilder Lennar late last week.
-In an SEC filing Monday, Berkshire reports buying 2.4 million shares of Lennar Class A at an average price of $79.65 and 15 thousand shares of Lennar Class B at an average price of $78.33 on Thursday, October 1 and Friday, October 2.
-Since Berkshire's stake topped 10% in mid-September, it's been required by an SEC rule to disclose additional purchases within two business days.
-There's been no filing so far this week, so it appears there wasn't any new buying through at least Tuesday.
-In total, Berkshire has added $595.3 million of Lennar shares on 11 trading days since September 17.
-At today's closing prices, its disclosed 12.2% stake of 29 million shares is valued at $2.2 billion.
-At the end of last year, it owned just 7.2 million shares, then worth $742 million.
-Over that period, LEN has dropped more than 25% as rising interest rates have made homes less affordable.
-BUFFETT & BERKSHIRE AROUND THE INTERNET
-Some links may require a subscription:
-- The Motley Fool: Is a Berkshire Hathaway Class A Stock Split Finally Coming?
-HIGHLIGHTS FROM CNBC'S BUFFETT ARCHIVE
-'It's share of mind that counts' (1997)
-Warren Buffett talks about the importance of how consumers think about a company.
-AUDIENCE MEMBER: Could you explain a little more about what you call the "mind of the consumer" and the "nature of the product?" ...
-WARREN BUFFETT: You know, what you really — when you get into consumer products, you're really interested in finding out — or thinking about — what is in the mind of how many people throughout the world about a product now, and what is likely to be in their mind five or ten or 20 years from now?
-Now, virtually every person on the globe — maybe, well, let's get it down to 75 percent of the people on the globe — have some notion in their mind about Coca-Cola.
-They have — the word "Coca-Cola" means something to them. You know, RC Cola doesn't mean anything to virtually anyone in the world, you know.
-It does to the guy who owns RC, you know, but — and the bottler.
-But everybody has something in their mind about Coca-Cola. And overwhelmingly, it's favorable. It's associated with pleasant experiences.
-Now, part of that is by design. I mean, it is where you are happy. It is at Disneyland, at Disney World. And it's at ballparks. And it's every place that you're likely to have a smile on your face, including the Berkshire Hathaway meeting, I might add. (Laughter)
-And that position in the mind is pretty firmly established. And it's established in close to 200 countries around the world with people.
-A year from now, it will be established in more minds. And it will have a slightly, slightly, slightly different overall position. In ten years from now, the position can move just a little bit more.
-It's share of mind. It's not share of market. It's share of mind that counts.
-Disney, same way. Disney means something to billions of people. And if you're a parent of a couple of young children and you got 50 videos in front of you that you can buy, you're not going to sit down and preview an hour and a half of each video before deciding what one to stick in front of your kids.
-You know, you have got something in your mind about Disney. And you don't have it about the ABC Video Company. Or you don't even have it about other — you don't have it about 20th Century. You know, you don't have it about Paramount.
-So that name, to billions of people, including lots of people outside this country, it has a meaning. And that meaning overwhelmingly is favorable. It's reinforced by the other activities of the company.
-And just think of what somebody would pay if they could actually buy that share of mind, you know, of billions of people around the world. You can't do it.
-You can't do it by a billion-dollar advertising budget or a $3 billion advertising budget or hiring 20,000 super salesmen.
-BERKSHIRE STOCK WATCH
-Four weeks
-Twelve months
-BRK.A stock price: $774,295.00
-BRK.B stock price: $515.62
-BRK.B P/E (TTM): 12.97
-Berkshire market capitalization: $1,104,215,482,465
-Berkshire Cash as of June 30: $365.5 billion (Down 8.0% from March 31)
-Excluding Rail Cash and Subtracting T-Bills Payable: $359.2 billion (Down 3.8% from March 31)
-Berkshire repurchased $4.5 billion of its shares in Q2 2026.
-BERKSHIRE'S TOP EQUITY HOLDINGS - Oct. 9, 2026
-Berkshire's top holdings of disclosed publicly traded stocks in the U.S. and Japan, by market value, based on the latest closing prices.
-Holdings are as of June 30, 2026, as reported in Berkshire Hathaway's 13F filing on August 14, 2026, except for:
-- Mitsubishi, which is as of April 30, 2026
-The full list of holdings and current market values is available from CNBC.com's Berkshire Hathaway Portfolio Tracker.
-QUESTIONS OR COMMENTS
-Please send any questions or comments about the newsletter to me at alex.crippen@cnbc.com. (Sorry, but we don't forward questions or comments to Buffett himself.)
-If you aren't already subscribed to this newsletter, you can sign up here.
-Also, Buffett's annual letters to shareholders are highly recommended reading. There are collected here on Berkshire's website.
--- Alex Crippen, Editor, Warren Buffett Watch`,
-    bodyJa: `(This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway. You can sign up here to receive it every Friday evening in your inbox.)
-Buffett's 'nightly trips down the YouTube rabbit hole' revealed
-Warren Buffett watches CNBC in the morning, but nearly every evening he "can't get enough" of watching YouTube clips while sitting on a recliner in front of an "enormous" television in his Omaha home.
-A Wall Street Journal article this week quotes friends as saying he's "hardly ever" looking at anything related to investing or finance, although he is a "fan of Berkshire Hathaway's own content" and "proud of how it performs on the video platform."
-Instead, it's things like "Glenn Close clips ... commercials from the 1950s ... Paul Anka videos ... speeches by complete unknowns ... show tunes, railroads, the big-band era, Nebraska and early Frank Sinatra performances from the 1930s."
-He will also go down some "random rabbit holes."
-For example, Buffett might "come into his office, gushing about a moving amateur rendition of 'My Way.'"
-Sharon Osberg, the three-time world bridge champion who has taught Buffett and Bill Gates the finer points of the game, is also Buffett's "frequent viewing companion," says the WSJ.
-She reports "Warren's range is broad. It can be the silliest things," like a "really good documentary on Roy Cohn" or "the Uzbekistan version of America's got talent."
-Osberg says Buffett has also been watching clips featuring his late friend and business partner, Charlie Munger, including a 2017 appearance at the University of Michigan.
-"You feel the bond between the two of them as he watches Charlie. It's really quite something."
-The WSJ knocks down the idea Buffett's YouTube habit had anything to do with Berkshire's big investment in Alphabet, the platform's corporate parent.
-"He just really likes watching the clips, friends say."
-He's not alone.
-The article notes that while Buffett, now 96 years old, is notoriously slow to adopt new technologies, in this instance his move to YouTube is in line with an ongoing shift from streaming to video clips that has made the platform the most-watched video provider on TVs in the U.S.
-Lennar position edges higher
-Berkshire Hathaway added another $192.6 million to its bet on homebuilder Lennar late last week.
-In an SEC filing Monday, Berkshire reports buying 2.4 million shares of Lennar Class A at an average price of $79.65 and 15 thousand shares of Lennar Class B at an average price of $78.33 on Thursday, October 1 and Friday, October 2.
-Since Berkshire's stake topped 10% in mid-September, it's been required by an SEC rule to disclose additional purchases within two business days.
-There's been no filing so far this week, so it appears there wasn't any new buying through at least Tuesday.
-In total, Berkshire has added $595.3 million of Lennar shares on 11 trading days since September 17.
-At today's closing prices, its disclosed 12.2% stake of 29 million shares is valued at $2.2 billion.
-At the end of last year, it owned just 7.2 million shares, then worth $742 million.
-Over that period, LEN has dropped more than 25% as rising interest rates have made homes less affordable.
-BUFFETT & BERKSHIRE AROUND THE INTERNET
-Some links may require a subscription:
-- The Motley Fool: Is a Berkshire Hathaway Class A Stock Split Finally Coming?
-HIGHLIGHTS FROM CNBC'S BUFFETT ARCHIVE
-'It's share of mind that counts' (1997)
-Warren Buffett talks about the importance of how consumers think about a company.
-AUDIENCE MEMBER: Could you explain a little more about what you call the "mind of the consumer" and the "nature of the product?" ...
-WARREN BUFFETT: You know, what you really — when you get into consumer products, you're really interested in finding out — or thinking about — what is in the mind of how many people throughout the world about a product now, and what is likely to be in their mind five or ten or 20 years from now?
-Now, virtually every person on the globe — maybe, well, let's get it down to 75 percent of the people on the globe — have some notion in their mind about Coca-Cola.
-They have — the word "Coca-Cola" means something to them. You know, RC Cola doesn't mean anything to virtually anyone in the world, you know.
-It does to the guy who owns RC, you know, but — and the bottler.
-But everybody has something in their mind about Coca-Cola. And overwhelmingly, it's favorable. It's associated with pleasant experiences.
-Now, part of that is by design. I mean, it is where you are happy. It is at Disneyland, at Disney World. And it's at ballparks. And it's every place that you're likely to have a smile on your face, including the Berkshire Hathaway meeting, I might add. (Laughter)
-And that position in the mind is pretty firmly established. And it's established in close to 200 countries around the world with people.
-A year from now, it will be established in more minds. And it will have a slightly, slightly, slightly different overall position. In ten years from now, the position can move just a little bit more.
-It's share of mind. It's not share of market. It's share of mind that counts.
-Disney, same way. Disney means something to billions of people. And if you're a parent of a couple of young children and you got 50 videos in front of you that you can buy, you're not going to sit down and preview an hour and a half of each video before deciding what one to stick in front of your kids.
-You know, you have got something in your mind about Disney. And you don't have it about the ABC Video Company. Or you don't even have it about other — you don't have it about 20th Century. You know, you don't have it about Paramount.
-So that name, to billions of people, including lots of people outside this country, it has a meaning. And that meaning overwhelmingly is favorable. It's reinforced by the other activities of the company.
-And just think of what somebody would pay if they could actually buy that share of mind, you know, of billions of people around the world. You can't do it.
-You can't do it by a billion-dollar advertising budget or a $3 billion advertising budget or hiring 20,000 super salesmen.
-BERKSHIRE STOCK WATCH
-Four weeks
-Twelve months
-BRK.A stock price: $774,295.00
-BRK.B stock price: $515.62
-BRK.B P/E (TTM): 12.97
-Berkshire market capitalization: $1,104,215,482,465
-Berkshire Cash as of June 30: $365.5 billion (Down 8.0% from March 31)
-Excluding Rail Cash and Subtracting T-Bills Payable: $359.2 billion (Down 3.8% from March 31)
-Berkshire repurchased $4.5 billion of its shares in Q2 2026.
-BERKSHIRE'S TOP EQUITY HOLDINGS - Oct. 9, 2026
-Berkshire's top holdings of disclosed publicly traded stocks in the U.S. and Japan, by market value, based on the latest closing prices.
-Holdings are as of June 30, 2026, as reported in Berkshire Hathaway's 13F filing on August 14, 2026, except for:
-- Mitsubishi, which is as of April 30, 2026
-The full list of holdings and current market values is available from CNBC.com's Berkshire Hathaway Portfolio Tracker.
-QUESTIONS OR COMMENTS
-Please send any questions or comments about the newsletter to me at alex.crippen@cnbc.com. (Sorry, but we don't forward questions or comments to Buffett himself.)
-If you aren't already subscribed to this newsletter, you can sign up here.
-Also, Buffett's annual letters to shareholders are highly recommended reading. There are collected here on Berkshire's website.
--- Alex Crippen, Editor, Warren Buffett Watch`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/10/buffetts-trips-down-youtube-rabbit-hole-revealed.html",
-    publishedAt: "2026-10-10T12:01:16+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "from-bj-s-to-lululemon-retailers-are-tri-fdd1c61d",
-    title: "From BJ’s to Lululemon, retailers are trimming assortments to boost business",
-    titleJa: "From BJ’s to Lululemon, retailers are trimming assortments to boost business",
-    summaryJa: "Retail brands are shrinking assortments to get back to healthy growth, while box stores are culling products to better curate offerings and stabilize business.",
-    bodyOriginal: `Retailers are trimming assortments in an effort to clean up their balance sheets.
-As shoppers cut spending in the face of high gas and food prices, businesses have pulled more levers to boost profitability and appease investors. During earnings calls this year, a range of retailers have highlighted efforts to reduce the number of items they sell, commonly tracked as stock keeping units, or SKUs.
-In March, Dollar General said it trimmed 1,500 SKUs. In August, Under Armour said it shrunk SKUs by 25% over the past few years and plans to cut another 25%, while BJ's Wholesale Club said it plans to reduce roughly 20% of SKUs. In September, Lululemon said it cut North America SKUs by 15%.
-Trimming inventory can help a business stabilize its sales or even get back to growth, and can reduce the chances a company gets stuck with unwanted inventory. But the move can also leave consumers with less choice — a trade-off many retailers have been willing to make.
-Shrink to grow
-When a brand struggles to sell certain products, it can lead to discounting, which hurts profitability. Some markdowns are expected when businesses roll the dice on new products that don't end up selling well, but too many promotions can cause problems.
-"If you have zero discounting, you're not taking enough fashion risk," said Guggenheim Securities senior retail analyst Simeon Siegel. "But discounting needs to be fixing mistakes. It needs to be done quickly."
-Under Armour and Lululemon are both facing repercussions from what investors see as too many markdowns.
-Under Armour's operating income, which illustrates its underlying profitability, turned negative in fiscal 2025 and 2026. The company said its problems would not be solved by chasing unhealthy sales volume or short-term revenue.
-"Today, we're managing for quality. Fewer products with greater purpose, tighter execution and a clear reason to buy," said Under Armour CEO Kevin Plank on the company's fiscal first-quarter earnings call in August. "We will sell so much more of so many less products at a much higher full retail price."
-Siegel said that when a retailer acknowledges it wants to shrink revenue, the goal is to regain pricing power.
-Lululemon grew its sales by more than $500 million from fiscal 2024 to 2025. Yet its operating profit fell by about $300 million in the same time span. Shares are down around 65% over the past two years.
-"Selling fewer options is not the same as selling fewer things," said Siegel. "Lulu has a long way to go, and simply cutting SKUs, simply saying we need to have better product is not the answer."
-Siegel said too much of even the best product can dilute the value of a brand.
-Lululemon reported $6.3 billion in U.S. sales in fiscal 2025. Siegel said $3 billion to $4 billion in domestic revenue is where companies typically hit a healthy saturation level.
-"It's a level where they can be large and still cool. Above that, they start cheapening what they stand for, literally cheapening the product, but also cheapening the perception," said Siegel.
-He noted that Nike is an exception to this rule, after posting $20 billion in North American sales in fiscal 2026.
-Still, the apparel and footwear giant, which has seen shares crater around 45% this year, said it is "rebalancing" its portfolio, having reduced revenue from classic footwear franchises by more than $2 billion in fiscal 2026, according to its fiscal 2026 fourth-quarter earnings call in June.
-Inventory management
-For small-box stores such as Dollar General and big-box retailers like BJ's, cutting down the assortment doesn't necessarily give them the ability to raise prices.
-Rather, for those stores carrying thousands of brands, removing certain products can help them better manage inventory and refine their offerings to help stabilize the business.
-"When you shrink a box ... and say, I'm going to focus more on curation, you're getting smaller, but you're trying to reestablish why someone's walking into your box in the first place. And so it does get better, but it doesn't necessarily help your bottom line as much," said Siegel.
-BJ's CEO Robert Eddy said reducing choice, such as cutting the number of scents of body wash, pushes sales into the remaining products on shelves and then makes room for more product categories that weren't previously offered.
-"That is sourcing sales growth as well and sort of giving us the formula where we can cut SKUs, and see sales go up, and see margin dollars go up," Eddy said on the company's fiscal 2026 second-quarter earnings call in August.
-In June 2025, Dollar General said the elimination of 1,000 SKUs from the previous year opened up more shelf space for its best-selling products and added to its top line. By March 2026, the company said, it had reduced up to 1,500 SKUs, providing benefits to the overall supply chain.
-"Being more productive there means getting product to the shelf faster and being there for the consumer with the right amount of items and products that she's looking for as quickly as we possibly can," Dollar General CEO Todd Vasos said in the company's fiscal 2026 second-quarter earnings call in August. "As we go forward, the team is looking at continued SKU rationalization, albeit probably more surgical in nature."
-Getting it right
-Successfully slashing products from shelves is difficult in practice.
-Box stores risk losing customers to competitors that offer the products they scrapped. BJ's, for instance, acknowledged that a previous attempt to cut SKUs was unsuccessful.
-"We just cut SKUs which cut sales, and then we added some SKUs back and so really what we're doing now is removing unnecessary choice," Eddy said on the company's earnings call in August. "Think about in traditional soda, we don't carry cans and one-liters and two-liters of the same product anymore."
-Meanwhile, publicly traded brands that acknowledge sales need to decline in order for the business to grow still have answers to investors in the near term.
-"It's hard for a company ever to say we need to shrink anything, but it's dramatically harder to say we need to shrink revenues," said Siegel. "Frequently we find that brands hit a peak, a healthy peak, extend past the peak by forcing it and then find their way back down pretty harshly."`,
-    bodyJa: `Retailers are trimming assortments in an effort to clean up their balance sheets.
-As shoppers cut spending in the face of high gas and food prices, businesses have pulled more levers to boost profitability and appease investors. During earnings calls this year, a range of retailers have highlighted efforts to reduce the number of items they sell, commonly tracked as stock keeping units, or SKUs.
-In March, Dollar General said it trimmed 1,500 SKUs. In August, Under Armour said it shrunk SKUs by 25% over the past few years and plans to cut another 25%, while BJ's Wholesale Club said it plans to reduce roughly 20% of SKUs. In September, Lululemon said it cut North America SKUs by 15%.
-Trimming inventory can help a business stabilize its sales or even get back to growth, and can reduce the chances a company gets stuck with unwanted inventory. But the move can also leave consumers with less choice — a trade-off many retailers have been willing to make.
-Shrink to grow
-When a brand struggles to sell certain products, it can lead to discounting, which hurts profitability. Some markdowns are expected when businesses roll the dice on new products that don't end up selling well, but too many promotions can cause problems.
-"If you have zero discounting, you're not taking enough fashion risk," said Guggenheim Securities senior retail analyst Simeon Siegel. "But discounting needs to be fixing mistakes. It needs to be done quickly."
-Under Armour and Lululemon are both facing repercussions from what investors see as too many markdowns.
-Under Armour's operating income, which illustrates its underlying profitability, turned negative in fiscal 2025 and 2026. The company said its problems would not be solved by chasing unhealthy sales volume or short-term revenue.
-"Today, we're managing for quality. Fewer products with greater purpose, tighter execution and a clear reason to buy," said Under Armour CEO Kevin Plank on the company's fiscal first-quarter earnings call in August. "We will sell so much more of so many less products at a much higher full retail price."
-Siegel said that when a retailer acknowledges it wants to shrink revenue, the goal is to regain pricing power.
-Lululemon grew its sales by more than $500 million from fiscal 2024 to 2025. Yet its operating profit fell by about $300 million in the same time span. Shares are down around 65% over the past two years.
-"Selling fewer options is not the same as selling fewer things," said Siegel. "Lulu has a long way to go, and simply cutting SKUs, simply saying we need to have better product is not the answer."
-Siegel said too much of even the best product can dilute the value of a brand.
-Lululemon reported $6.3 billion in U.S. sales in fiscal 2025. Siegel said $3 billion to $4 billion in domestic revenue is where companies typically hit a healthy saturation level.
-"It's a level where they can be large and still cool. Above that, they start cheapening what they stand for, literally cheapening the product, but also cheapening the perception," said Siegel.
-He noted that Nike is an exception to this rule, after posting $20 billion in North American sales in fiscal 2026.
-Still, the apparel and footwear giant, which has seen shares crater around 45% this year, said it is "rebalancing" its portfolio, having reduced revenue from classic footwear franchises by more than $2 billion in fiscal 2026, according to its fiscal 2026 fourth-quarter earnings call in June.
-Inventory management
-For small-box stores such as Dollar General and big-box retailers like BJ's, cutting down the assortment doesn't necessarily give them the ability to raise prices.
-Rather, for those stores carrying thousands of brands, removing certain products can help them better manage inventory and refine their offerings to help stabilize the business.
-"When you shrink a box ... and say, I'm going to focus more on curation, you're getting smaller, but you're trying to reestablish why someone's walking into your box in the first place. And so it does get better, but it doesn't necessarily help your bottom line as much," said Siegel.
-BJ's CEO Robert Eddy said reducing choice, such as cutting the number of scents of body wash, pushes sales into the remaining products on shelves and then makes room for more product categories that weren't previously offered.
-"That is sourcing sales growth as well and sort of giving us the formula where we can cut SKUs, and see sales go up, and see margin dollars go up," Eddy said on the company's fiscal 2026 second-quarter earnings call in August.
-In June 2025, Dollar General said the elimination of 1,000 SKUs from the previous year opened up more shelf space for its best-selling products and added to its top line. By March 2026, the company said, it had reduced up to 1,500 SKUs, providing benefits to the overall supply chain.
-"Being more productive there means getting product to the shelf faster and being there for the consumer with the right amount of items and products that she's looking for as quickly as we possibly can," Dollar General CEO Todd Vasos said in the company's fiscal 2026 second-quarter earnings call in August. "As we go forward, the team is looking at continued SKU rationalization, albeit probably more surgical in nature."
-Getting it right
-Successfully slashing products from shelves is difficult in practice.
-Box stores risk losing customers to competitors that offer the products they scrapped. BJ's, for instance, acknowledged that a previous attempt to cut SKUs was unsuccessful.
-"We just cut SKUs which cut sales, and then we added some SKUs back and so really what we're doing now is removing unnecessary choice," Eddy said on the company's earnings call in August. "Think about in traditional soda, we don't carry cans and one-liters and two-liters of the same product anymore."
-Meanwhile, publicly traded brands that acknowledge sales need to decline in order for the business to grow still have answers to investors in the near term.
-"It's hard for a company ever to say we need to shrink anything, but it's dramatically harder to say we need to shrink revenues," said Siegel. "Frequently we find that brands hit a peak, a healthy peak, extend past the peak by forcing it and then find their way back down pretty harshly."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
-    publishedAt: "2026-10-10T12:00:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "hollywood-takes-on-zuckerberg-musk-and-a-82298846",
-    title: "Hollywood takes on Zuckerberg, Musk and Altman amid widespread anxiety over AI",
-    titleJa: "Hollywood takes on Zuckerberg, Musk and Altman amid widespread anxiety over AI",
-    summaryJa: "New films about Zuckerberg, Musk, Altman and AI arrive as public concern about the technology and its leaders rises.",
-    bodyOriginal: `This weekend marks the kickoff of a slew of films centered on some of the biggest figures in technology and artificial intelligence, as public concern about the industry grows.
-Sony Pictures' "The Social Reckoning" is expected to open to around $7 million domestically this weekend. The scripted film is a follow-up to Aaron Sorkin's "The Social Network" from 2010, which went on to win three Academy Awards. While Sorkin's first "Social" film focused on Meta CEO Mark Zuckerberg's founding of the company, "The Social Reckoning" follows the 2021 leak by Facebook whistleblower Frances Haugen, who exposed internal documents from the tech giant.
-"It brought back really warm memories for me," Haugen told CNBC recently about the film. "And so I felt it captured the spirit of that time period."
-The box office this weekend will also see a limited release of Alex Gibney's nearly four-hour Elon Musk documentary, called "Musk." Early showings have drawn critical acclaim, but it's also been criticized by Musk himself on X, saying the film has zero integrity.
-"You Can See Everything," the documentary about disgraced Theranos founder Elizabeth Holmes by Nathan Fielder and Lance Oppenheim via A24 Films, releases on Oct. 16.
-Christmas brings "Artificial" from Neon to theaters. The scripted film depicts OpenAI CEO Sam Altman and his brief firing from the role in 2023.
-"It looks like an awful movie, but I appreciate people's creativity, and I really do support that," Altman recently told CNBC. "I get why people have anxiety. And also if they need to, like, project that anxiety onto someone or have a little bit of relief and poke fun at me, it doesn't bother me."
-Netflix is also joining in. The streamer's latest installment of its "Instadocs" series will premiere on Monday, highlighting the Hugging Face incident, in which a swarm of OpenAI agents escaped a testing environment and autonomously hacked into the company's infrastructure.
-These films come at a critical time as the public has grown increasingly concerned about the dangers of AI and wary of the data centers that power the technology. A recent Quinnipiac poll showed that 73% of Americans are concerned about AI's threat to human survival, while a Pew Research survey showed that 54% think data centers are bad for the environment.
-The question now is whether these films will push that public perception even further toward the brink.
-David Kirby, Cal Poly's director of Science, Technology & Society, said the public attention on these films is only adding fuel to the fire.
-"Movies are incredibly persuasive media," he said. "Stories are incredibly persuasive. We've known this for centuries."
-"I think the people at the top, they're worried about it partially because they don't like to look bad. They don't like people questioning that they know what they're doing or that they're not the people who are going to be saving humanity," he added.
-Hollywood has a history of releasing films that researchers and observers have linked to changes in public opinion. The 2004 blockbuster "The Day After Tomorrow" was recognized for drawing attention to climate change, while the 2013 documentary "Blackfish" was credited with changing perceptions of SeaWorld and marine mammal captivity.
-Kirby credited films like "Deep Impact" and "Armageddon" from 1998 as forcing governments to spend more money and attention on the topic of asteroids hitting the Earth.
-"Was the science right in it? Not really. It's controversial, but in terms of raising awareness … that's what you want," Kirby said. "You need to break into that public attention. You need people to start paying attention to you. Movies, that's a perfect way to do that."`,
-    bodyJa: `This weekend marks the kickoff of a slew of films centered on some of the biggest figures in technology and artificial intelligence, as public concern about the industry grows.
-Sony Pictures' "The Social Reckoning" is expected to open to around $7 million domestically this weekend. The scripted film is a follow-up to Aaron Sorkin's "The Social Network" from 2010, which went on to win three Academy Awards. While Sorkin's first "Social" film focused on Meta CEO Mark Zuckerberg's founding of the company, "The Social Reckoning" follows the 2021 leak by Facebook whistleblower Frances Haugen, who exposed internal documents from the tech giant.
-"It brought back really warm memories for me," Haugen told CNBC recently about the film. "And so I felt it captured the spirit of that time period."
-The box office this weekend will also see a limited release of Alex Gibney's nearly four-hour Elon Musk documentary, called "Musk." Early showings have drawn critical acclaim, but it's also been criticized by Musk himself on X, saying the film has zero integrity.
-"You Can See Everything," the documentary about disgraced Theranos founder Elizabeth Holmes by Nathan Fielder and Lance Oppenheim via A24 Films, releases on Oct. 16.
-Christmas brings "Artificial" from Neon to theaters. The scripted film depicts OpenAI CEO Sam Altman and his brief firing from the role in 2023.
-"It looks like an awful movie, but I appreciate people's creativity, and I really do support that," Altman recently told CNBC. "I get why people have anxiety. And also if they need to, like, project that anxiety onto someone or have a little bit of relief and poke fun at me, it doesn't bother me."
-Netflix is also joining in. The streamer's latest installment of its "Instadocs" series will premiere on Monday, highlighting the Hugging Face incident, in which a swarm of OpenAI agents escaped a testing environment and autonomously hacked into the company's infrastructure.
-These films come at a critical time as the public has grown increasingly concerned about the dangers of AI and wary of the data centers that power the technology. A recent Quinnipiac poll showed that 73% of Americans are concerned about AI's threat to human survival, while a Pew Research survey showed that 54% think data centers are bad for the environment.
-The question now is whether these films will push that public perception even further toward the brink.
-David Kirby, Cal Poly's director of Science, Technology & Society, said the public attention on these films is only adding fuel to the fire.
-"Movies are incredibly persuasive media," he said. "Stories are incredibly persuasive. We've known this for centuries."
-"I think the people at the top, they're worried about it partially because they don't like to look bad. They don't like people questioning that they know what they're doing or that they're not the people who are going to be saving humanity," he added.
-Hollywood has a history of releasing films that researchers and observers have linked to changes in public opinion. The 2004 blockbuster "The Day After Tomorrow" was recognized for drawing attention to climate change, while the 2013 documentary "Blackfish" was credited with changing perceptions of SeaWorld and marine mammal captivity.
-Kirby credited films like "Deep Impact" and "Armageddon" from 1998 as forcing governments to spend more money and attention on the topic of asteroids hitting the Earth.
-"Was the science right in it? Not really. It's controversial, but in terms of raising awareness … that's what you want," Kirby said. "You need to break into that public attention. You need people to start paying attention to you. Movies, that's a perfect way to do that."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/10/ai-movies-tech-ceos-hollywood.html",
-    publishedAt: "2026-10-10T12:00:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "what-you-don-t-know-is-greater-than-any-7dbb0271",
-    title: "‘What you don’t know is greater than anything you do know’: How Ray Dalio would build a portfolio to withstand a popping AI bubble",
-    titleJa: "‘What you don’t know is greater than anything you do know’: How Ray Dalio would build a portfolio to withstand a popping AI bubble",
-    summaryJa: "Look for inflation protection and unappreciated players in artificial intelligence, says the famed hedge-fund founder.",
-    bodyOriginal: `Look for inflation protection and unappreciated players in artificial intelligence, says the famed hedge-fund founder.`,
-    bodyJa: `Look for inflation protection and unappreciated players in artificial intelligence, says the famed hedge-fund founder.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/what-you-dont-know-is-greater-than-anything-you-do-know-how-ray-dalio-would-build-a-portfolio-to-withstand-a-popping-ai-bubble-2491ac6b?mod=mw_rss_topstories",
-    publishedAt: "2026-10-10T12:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-26406399",
-    readTime: 2,
-  },
-  {
-    id: "russian-glide-bomb-attack-on-zaporizhzhi-f378ee2c",
-    title: "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-    titleJa: "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-    summaryJa: "Children are among the victims, authorities say, and more victims could still be buried in the rubble of a large apartment block that was destroyed.",
-    bodyOriginal: `Russian glide bomb attack on Zaporizhzhia kills at least 15 people
-- Published
-Russia has attacked the Ukrainian city of Zaporizhzhia with five glide bombs, killing at least 15 people including three children, President Volodymyr Zelensky and emergency services have said.
-The glide bombs hit residential buildings in the south-eastern city. At least 16 other people were injured in the attack, with more still missing and believed to be under the rubble after the strike on Saturday morning.
-Zelensky said 13 other regions had also been hit overnight, adding: "Our responses to [these] Russian strikes will come".
-The Russian attacks happened just hours after President Donald Trump announced a deal to import Russian diesel into the US.
-Photos and videos from the site of one of the strikes show an apartment block mostly destroyed.
-"The ground floor was hit, and the floors above just collapsed," acting Mayor Regina Kharchenko told Ukrainian television, speaking from the scene.
-She said more than 80 workers were involved in ongoing search and rescue operations which are expected to continue throughout the day.
-The rescuers regularly stop to listen for any noises made by survivors who could be under the rubble.
-Kharchenko said Russia had struck at "our very heart" and "our littlest ones" were among those killed, adding that their deaths were "awful grief for their families. For the city."
-Zelensky has heavily criticised Trump's diesel deal with Russia, calling it a gift to President Vladimir Putin that amounts to "an investment in a war that must be ended, not prolonged".
-More recently, in his response to the overnight strikes, he said "Russia interprets any easing of pressure as a signal that it can supposedly continue the war.
-"Russia must understand that the war needs to be stopped, and for that, it must feel its losses," he wrote on X, external.
-Both Russia and Ukraine have stepped up attacks on infrastructure in recent months, as the war between the two countries drags on.
-Zaporizhzhia is a major regional centre with more than 700,000 residents. It is located less than 10 miles (16 km) from the front line and is frequently attacked by Russian drones and missiles.
-The latest strikes on the city comes amid a sharp increase in the number of Russian attacks that are causing higher numbers of civilian casualties.
-On Thursday, at least 33 people were killed in another Russian glide bomb attack on two civilian buses in Kramatorsk, in the eastern Donetsk region.
-The day before, 22 people including five children died as a Russian missile hit an apartment block in the town of Pryluky, east of Kyiv.
-According to the UN, the number of civilian casualties in Ukraine jumped by 55%, external in the first eight months of this year.
-Russia has also targeted Ukrainian energy infrastructure, ramping up attacks every winter since Putin launched a full-scale invasion in 2022.
-For its part, Ukraine has attacked Russia's infrastructure - with the latest being strikes on data centres owned by tech giant Yandex.
-Related topics
-- Published1 day ago`,
-    bodyJa: `Russian glide bomb attack on Zaporizhzhia kills at least 15 people
-- Published
-Russia has attacked the Ukrainian city of Zaporizhzhia with five glide bombs, killing at least 15 people including three children, President Volodymyr Zelensky and emergency services have said.
-The glide bombs hit residential buildings in the south-eastern city. At least 16 other people were injured in the attack, with more still missing and believed to be under the rubble after the strike on Saturday morning.
-Zelensky said 13 other regions had also been hit overnight, adding: "Our responses to [these] Russian strikes will come".
-The Russian attacks happened just hours after President Donald Trump announced a deal to import Russian diesel into the US.
-Photos and videos from the site of one of the strikes show an apartment block mostly destroyed.
-"The ground floor was hit, and the floors above just collapsed," acting Mayor Regina Kharchenko told Ukrainian television, speaking from the scene.
-She said more than 80 workers were involved in ongoing search and rescue operations which are expected to continue throughout the day.
-The rescuers regularly stop to listen for any noises made by survivors who could be under the rubble.
-Kharchenko said Russia had struck at "our very heart" and "our littlest ones" were among those killed, adding that their deaths were "awful grief for their families. For the city."
-Zelensky has heavily criticised Trump's diesel deal with Russia, calling it a gift to President Vladimir Putin that amounts to "an investment in a war that must be ended, not prolonged".
-More recently, in his response to the overnight strikes, he said "Russia interprets any easing of pressure as a signal that it can supposedly continue the war.
-"Russia must understand that the war needs to be stopped, and for that, it must feel its losses," he wrote on X, external.
-Both Russia and Ukraine have stepped up attacks on infrastructure in recent months, as the war between the two countries drags on.
-Zaporizhzhia is a major regional centre with more than 700,000 residents. It is located less than 10 miles (16 km) from the front line and is frequently attacked by Russian drones and missiles.
-The latest strikes on the city comes amid a sharp increase in the number of Russian attacks that are causing higher numbers of civilian casualties.
-On Thursday, at least 33 people were killed in another Russian glide bomb attack on two civilian buses in Kramatorsk, in the eastern Donetsk region.
-The day before, 22 people including five children died as a Russian missile hit an apartment block in the town of Pryluky, east of Kyiv.
-According to the UN, the number of civilian casualties in Ukraine jumped by 55%, external in the first eight months of this year.
-Russia has also targeted Ukrainian energy infrastructure, ramping up attacks every winter since Putin launched a full-scale invasion in 2022.
-For its part, Ukraine has attacked Russia's infrastructure - with the latest being strikes on data centres owned by tech giant Yandex.
-Related topics
-- Published1 day ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-10T11:17:15+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98ce/live/569e8e50-c49c-11f1-869c-8f95c437952a.jpg",
-    readTime: 8,
-  },
-  {
-    id: "nvidia-gpus-are-everywhere-here-are-the-8801782f",
-    title: "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
-    titleJa: "Nvidia GPUs are everywhere. Here are the ways companies are accessing them",
-    summaryJa: "One industry researcher identified over 300 neoclouds that can provide GPU capacity, up about 55% in less than a year.",
-    bodyOriginal: `Nvidia GPUs are the most sought-after processors in AI, and they're in such demand that the chipmaker's stock climbed to yet another record this week, lifting its market cap close to $6 trillion.
-Customers can now shop around for access to the chips at the giant clouds from Amazon, Microsoft and Google, as well as at so-called neoclouds like CoreWeave. They can also go to various online marketplaces or even buy the costly hardware directly.
-For Nvidia, it all adds up to unrelenting growth, as management anticipates $108 billion in revenue for the October quarter, which would mark an 89% year-over-year jump.
-But the paradox of choice can be a headache for companies needing computing power yesterday.
-While cloud infrastructure providers have ranked at the top of Nvidia's customer list for several years, the business is diversifying. Five clients accounted for at least 10% of Nvidia's accounts receivable in July quarter, up from three in January, according to a filing.
-Industry research firm SemiAnalysis counted 323 Nvidia GPU providers as of September, up from 209 less than 11 months earlier.
-"You're going to see a whole new crop of really, really exciting neoclouds with hundreds of billions of dollars backlog together," Nvidia CEO Jensen Huang said at a Goldman Sachs tech conference in San Francisco last month.
-Here's a rundown of the various options for accessing GPUs, and why each might make sense:
-Hyperscalers
-Many big companies spend tens of millions of dollars per year on a smorgasbord of cloud services from Amazon, Google and Microsoft. Since the 2022 launch of ChatGPT, companies have increasingly turned to the hyperscalers for GPUs so they can run generative AI workloads.
-The top cloud providers come with a reputation advantage. If a software company relies on Amazon and Microsoft for GPUs and other capabilities, it won't need to panic about prospective customers questioning its suppliers.
-"When you're talking to enterprises, your subprocessor had better be Azure," said Bindu Reddy, CEO of AI assistant startup Abacus, referring to Microsoft's cloud infrastructure.
-In the past year, leading AI labs Anthropic and OpenAI have committed to spending over $500 billion between Amazon and Microsoft, which controlled 59% of the cloud infrastructure market in 2025, according to industry researcher Gartner.
-"Hyperscalers are in a good position to show trust to the enterprises because of their 10-plus years of full-stack capabilities," said Gartner analyst Hardeep Singh. But hyperscalers don't always have as many GPUs as enterprises require, he said.
-Andy Jassy, Amazon's CEO, told analysts in July that the retailer and cloud pioneer won't be able to serve all the demand it foresees this year.
-"I believe this dynamic will also be true in 2027," he said.
-Flagship neoclouds
-If the hyperscalers were adequate, neoclouds wouldn't be proliferating.
-Modal, a startup operating virtual sandboxes where AI agents work independent of main IT environments, went from running on the hyperscalers to signing up with the major neoclouds, and now it uses 25 of them, said CEO Erik Bernhardsson.
-"You can get a few hundred GPUs or maybe a thousand, but at our scale, we needed way more GPUs," he said.
-The hyperscalers themselves are also chasing the neoclouds. Google and Microsoft have started tapping CoreWeave, even as they all compete with one another.
-"Some of the hyperscalers have approached us about taking care of customers they're worried about because they don't have the ability to service those customers when they need it," said Marc Boroditsky, chief revenue officer of Nebius, a Netherlands-based neocloud with operations in the U.S.
-Video generation startup Reactor uses GPUs through Nebius and hyperscalers, said CEO Alberto Taiuti. The location of data centers matters, he said, because Reactor wants user-created videos to show up right away. Nebius delivers the specific GPUs Reactor needs, solid customer service and sufficient hardware and software, at a good price, Taiuti said.
-The most visible neoclouds can require some upfront payment, and chips might not come online for months, because providers raise funding based on contracts and set up the data center equipment, Bernhardsson said.
-It would be difficult for CoreWeave to turn over 10,000 GPUs to a new customer with one day's notice, said Chen Goldberg, an executive vice president. CoreWeave's near-term capacity remains essentially sold out, CEO Mike Intrator said on the company's August earnings call.
-Baby neoclouds
-If companies want GPUs immediately, they might have to go beyond the name brands. Some neoclouds aren't household names because they target specific countries, which can be viable in certain cases.
-"Capacity right now is tight, and your relationships with your suppliers is actually one of the most closely guarded secrets for companies like ours," said Zhen Lu, CEO of Runpod.
-Specialist neoclouds can offer more flexibility than the larger GPU clouds, which often require upfront payments and long-term commitments. Some sell so-called bare-metal GPUs, which give customers more control but also require them to manage more of the technical work themselves.
-Companies using these smaller neoclouds share the same concerns: When can they get the GPUs, and at what price? Sunny Smith, co-founder and technology chief at Massed Compute, said customers are often willing to commit to capacity when they expect prices to rise.
-Bring your own
-Oracle, one of the world's largest cloud providers, is letting clients bring in their own GPUs. The software maker has more debt than Amazon or Microsoft, and its credit rating is lower so it has less flexibility to go on a GPU spending spree. But it's happy to operate the technology.
-"As we're generally able to preserve and improve margins in the case of things like bring-your-own-hardware, the ROIC for those types of structures will be even higher," Oracle CFO Hilary Maxson told analysts on a June earnings call, using the acronym for return on invested capital.
-Oracle hasn't disclosed the names of companies that choose this path. John DiFucci, a Guggenheim Securities analyst who recommends buying Oracle shares, said it would make sense for Advanced Micro Devices and Nvidia, the top two producers of GPUs, to bring their own to Oracle.
-Instead of buying thousands of GPUs, early-stage startups with limited capital can borrow them for hours at a time for less through clouds. And for companies with heavy-duty computing needs, Oracle's new route might be more attractive than building whole data centers. OpenAI committed to spending over $300 billion with Oracle over five years, but it hasn't mentioned anything about bringing in GPUs.
-OpenAI declined to comment.
-The method might make sense for companies that have the capital to purchase AI chips but don't have enough power, data center space or skilled labor. Like its hyperscaler peers, Oracle works hard to secure all three in healthy quantities.
-Tactical deals
-Another emerging option is to cut large deals with firms that have truckloads of GPUs for rent.
-SpaceX arranged to turn over excess capacity in separate deals with hyperscaler Google and open-source startup Reflection.
-In April, SpaceX agreed to provide Cursor with GPUs and then bought the AI coding startup outright for $60 billion. And in May, SpaceX landed a deal to rent GPUs to Anthropic for $1.25 billion each month through mid-2029. That's more than what most startups can afford.
-For SpaceX, though, the numbers work out nicely.
-"The current economics have translated into a less than one-year payback on our new capital deployments for compute," Bret Johnsen, the company's finance chief, told analysts in August.
-It's not only SpaceX. In July CNBC reported that Meta was working to form a cloud unit that could sell AI computing power.
-Going old school
-Meanwhile, companies continue to install GPU-filled servers in on-premises data centers the old-school way as CEOs work to balance capability with cost control.
-Revenue nearly doubled in the enterprise and small and medium business parts of hardware maker Lenovo's Infrastructure Solutions Group during the June quarter. "We're seeing more and more enterprises now starting to say, 'How do I bring AI into my four walls?'" said Vlad Rozanovich, a senior vice president.
-The hourly spot price for an Nvidia B200 GPU has more than doubled since March, according to data from Ornn, a startup that maintains indexes.
-Collaboration software maker Dropbox relies on GPUs in its data centers, CEO Ashraf Alkarmi said.
-"If we want to do a lot more, I think our supply chain connections will still be beneficial and a structural advantage," he said.
-Everpure, which sells data center storage hardware and software, has acquired its own GPUs, to run open-weight AI models for the company's software engineers, said CEO Charlie Giancarlo.
-"In a very dynamic pricing environment, it's always good to have multiple sources that you can go to," he said.
-WATCH: Hightower's Stephanie Link: I like that Nvidia is showing growth and confidence`,
-    bodyJa: `Nvidia GPUs are the most sought-after processors in AI, and they're in such demand that the chipmaker's stock climbed to yet another record this week, lifting its market cap close to $6 trillion.
-Customers can now shop around for access to the chips at the giant clouds from Amazon, Microsoft and Google, as well as at so-called neoclouds like CoreWeave. They can also go to various online marketplaces or even buy the costly hardware directly.
-For Nvidia, it all adds up to unrelenting growth, as management anticipates $108 billion in revenue for the October quarter, which would mark an 89% year-over-year jump.
-But the paradox of choice can be a headache for companies needing computing power yesterday.
-While cloud infrastructure providers have ranked at the top of Nvidia's customer list for several years, the business is diversifying. Five clients accounted for at least 10% of Nvidia's accounts receivable in July quarter, up from three in January, according to a filing.
-Industry research firm SemiAnalysis counted 323 Nvidia GPU providers as of September, up from 209 less than 11 months earlier.
-"You're going to see a whole new crop of really, really exciting neoclouds with hundreds of billions of dollars backlog together," Nvidia CEO Jensen Huang said at a Goldman Sachs tech conference in San Francisco last month.
-Here's a rundown of the various options for accessing GPUs, and why each might make sense:
-Hyperscalers
-Many big companies spend tens of millions of dollars per year on a smorgasbord of cloud services from Amazon, Google and Microsoft. Since the 2022 launch of ChatGPT, companies have increasingly turned to the hyperscalers for GPUs so they can run generative AI workloads.
-The top cloud providers come with a reputation advantage. If a software company relies on Amazon and Microsoft for GPUs and other capabilities, it won't need to panic about prospective customers questioning its suppliers.
-"When you're talking to enterprises, your subprocessor had better be Azure," said Bindu Reddy, CEO of AI assistant startup Abacus, referring to Microsoft's cloud infrastructure.
-In the past year, leading AI labs Anthropic and OpenAI have committed to spending over $500 billion between Amazon and Microsoft, which controlled 59% of the cloud infrastructure market in 2025, according to industry researcher Gartner.
-"Hyperscalers are in a good position to show trust to the enterprises because of their 10-plus years of full-stack capabilities," said Gartner analyst Hardeep Singh. But hyperscalers don't always have as many GPUs as enterprises require, he said.
-Andy Jassy, Amazon's CEO, told analysts in July that the retailer and cloud pioneer won't be able to serve all the demand it foresees this year.
-"I believe this dynamic will also be true in 2027," he said.
-Flagship neoclouds
-If the hyperscalers were adequate, neoclouds wouldn't be proliferating.
-Modal, a startup operating virtual sandboxes where AI agents work independent of main IT environments, went from running on the hyperscalers to signing up with the major neoclouds, and now it uses 25 of them, said CEO Erik Bernhardsson.
-"You can get a few hundred GPUs or maybe a thousand, but at our scale, we needed way more GPUs," he said.
-The hyperscalers themselves are also chasing the neoclouds. Google and Microsoft have started tapping CoreWeave, even as they all compete with one another.
-"Some of the hyperscalers have approached us about taking care of customers they're worried about because they don't have the ability to service those customers when they need it," said Marc Boroditsky, chief revenue officer of Nebius, a Netherlands-based neocloud with operations in the U.S.
-Video generation startup Reactor uses GPUs through Nebius and hyperscalers, said CEO Alberto Taiuti. The location of data centers matters, he said, because Reactor wants user-created videos to show up right away. Nebius delivers the specific GPUs Reactor needs, solid customer service and sufficient hardware and software, at a good price, Taiuti said.
-The most visible neoclouds can require some upfront payment, and chips might not come online for months, because providers raise funding based on contracts and set up the data center equipment, Bernhardsson said.
-It would be difficult for CoreWeave to turn over 10,000 GPUs to a new customer with one day's notice, said Chen Goldberg, an executive vice president. CoreWeave's near-term capacity remains essentially sold out, CEO Mike Intrator said on the company's August earnings call.
-Baby neoclouds
-If companies want GPUs immediately, they might have to go beyond the name brands. Some neoclouds aren't household names because they target specific countries, which can be viable in certain cases.
-"Capacity right now is tight, and your relationships with your suppliers is actually one of the most closely guarded secrets for companies like ours," said Zhen Lu, CEO of Runpod.
-Specialist neoclouds can offer more flexibility than the larger GPU clouds, which often require upfront payments and long-term commitments. Some sell so-called bare-metal GPUs, which give customers more control but also require them to manage more of the technical work themselves.
-Companies using these smaller neoclouds share the same concerns: When can they get the GPUs, and at what price? Sunny Smith, co-founder and technology chief at Massed Compute, said customers are often willing to commit to capacity when they expect prices to rise.
-Bring your own
-Oracle, one of the world's largest cloud providers, is letting clients bring in their own GPUs. The software maker has more debt than Amazon or Microsoft, and its credit rating is lower so it has less flexibility to go on a GPU spending spree. But it's happy to operate the technology.
-"As we're generally able to preserve and improve margins in the case of things like bring-your-own-hardware, the ROIC for those types of structures will be even higher," Oracle CFO Hilary Maxson told analysts on a June earnings call, using the acronym for return on invested capital.
-Oracle hasn't disclosed the names of companies that choose this path. John DiFucci, a Guggenheim Securities analyst who recommends buying Oracle shares, said it would make sense for Advanced Micro Devices and Nvidia, the top two producers of GPUs, to bring their own to Oracle.
-Instead of buying thousands of GPUs, early-stage startups with limited capital can borrow them for hours at a time for less through clouds. And for companies with heavy-duty computing needs, Oracle's new route might be more attractive than building whole data centers. OpenAI committed to spending over $300 billion with Oracle over five years, but it hasn't mentioned anything about bringing in GPUs.
-OpenAI declined to comment.
-The method might make sense for companies that have the capital to purchase AI chips but don't have enough power, data center space or skilled labor. Like its hyperscaler peers, Oracle works hard to secure all three in healthy quantities.
-Tactical deals
-Another emerging option is to cut large deals with firms that have truckloads of GPUs for rent.
-SpaceX arranged to turn over excess capacity in separate deals with hyperscaler Google and open-source startup Reflection.
-In April, SpaceX agreed to provide Cursor with GPUs and then bought the AI coding startup outright for $60 billion. And in May, SpaceX landed a deal to rent GPUs to Anthropic for $1.25 billion each month through mid-2029. That's more than what most startups can afford.
-For SpaceX, though, the numbers work out nicely.
-"The current economics have translated into a less than one-year payback on our new capital deployments for compute," Bret Johnsen, the company's finance chief, told analysts in August.
-It's not only SpaceX. In July CNBC reported that Meta was working to form a cloud unit that could sell AI computing power.
-Going old school
-Meanwhile, companies continue to install GPU-filled servers in on-premises data centers the old-school way as CEOs work to balance capability with cost control.
-Revenue nearly doubled in the enterprise and small and medium business parts of hardware maker Lenovo's Infrastructure Solutions Group during the June quarter. "We're seeing more and more enterprises now starting to say, 'How do I bring AI into my four walls?'" said Vlad Rozanovich, a senior vice president.
-The hourly spot price for an Nvidia B200 GPU has more than doubled since March, according to data from Ornn, a startup that maintains indexes.
-Collaboration software maker Dropbox relies on GPUs in its data centers, CEO Ashraf Alkarmi said.
-"If we want to do a lot more, I think our supply chain connections will still be beneficial and a structural advantage," he said.
-Everpure, which sells data center storage hardware and software, has acquired its own GPUs, to run open-weight AI models for the company's software engineers, said CEO Charlie Giancarlo.
-"In a very dynamic pricing environment, it's always good to have multiple sources that you can go to," he said.
-WATCH: Hightower's Stephanie Link: I like that Nvidia is showing growth and confidence`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/10/nvidia-gpus-are-everywhere-heres-how-companies-access-them.html",
-    publishedAt: "2026-10-10T11:00:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
   },
 ];
 
