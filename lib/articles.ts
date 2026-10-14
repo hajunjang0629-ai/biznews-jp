@@ -15,6 +15,494 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "judge-indefinitely-blocks-trump-white-ho-8afde1f9",
+    title: "Judge indefinitely blocks Trump White House ban of three media outlets",
+    titleJa: "Judge indefinitely blocks Trump White House ban of three media outlets",
+    summaryJa: "President Donald Trump had sought to ban media outlets MS NOW, CNN and Politico from reporting from the White House.",
+    bodyOriginal: `A federal judge late Tuesday night indefinitely blocked the White House from enforcing a ban on three media outlets that President Donald Trump announced in mid-September.
+The preliminary injunction by Judge Timothy Kelly extends his existing block on Trump's ban of MS NOW, CNN and Politico from the White House complex.
+"President Trump's own comments suggest that he intended the revocation of Plaintiffs' hard passes to alter their reporting on him," wrote Kelly, who was nominated by Trump for his seat in U.S. District Court in Washington.
+Kelly in his written opinion said the three outlets were likely to succeed on the claim in their pending lawsuit challenging the ban, which argues they were denied due process by Trump summarily barring them without giving them a chance to argue against that action.
+The judge said the outlets were also likely to succeed on two First Amendment claims in their civil suit, which allege retaliation and viewpoint discrimination.
+Kelly brushed aside claims by the Department of Justice that Trump decided to revoke the outlets' access to the White House on national security grounds.
+"There is no evidence in the record that President Trump made the decision to revoke Plaintiffs' hard passes on national security grounds from the get-go, nor at any time has he directly stated that national security was the reason for his decision," Kelly wrote.
+The judge said the DOJ's "national security" argument appears to be "merely a post-hac justfication for the decision" after the outlets sued.
+"Still, no one should interpret the Court's decision to suggest that President Trump's concerns about accuracy and fairness in the media's reporting are unfounded, or that the government is powerless when its true aim is to protect national security when classified information is unlawfully disclosed," Kelly wrote.
+"That said, for the reasons explained below, the Court will extend the relief it already ordered, which will continue to preserve the status quo while this case proceeds," Kelly said, referring to his prior order that restored access by the outlets to the White House.
+The judge said that without the preliminary injunction, the outlets were "likely to suffer irreparable harm."
+His ruling came on the heels of a court hearing last Thursday where the DOJ defended the ban.
+Trump last month said he would appeal any decision by Kelly blocking his ban. CNBC has requested comment from the White House and DOJ.
+Theodore Boutrous, an attorney for the outlets, said in a statement, "We are grateful that the Court ruled in favor of our clients."
+"When the President issued his 'ban on the free press,' he blatantly and explicitly violated due process and the First Amendment," Boutrous said. "Since then, the President has repeatedly, candidly, and consistently admitted in public that he banned our clients from the White House to punish reporting he doesn't like and to try to force journalists to cover him in ways he prefers."
+"The harm this ban did to our clients, the First Amendment, and the public as a whole is profound," the attorney said. "The Court was right to enjoin the White House from enforcing this "unconstitutional ban on the free press" for the foreseeable future."
+Trump on Sept. 18 said that he was banning the three outlets because of how they have covered him.
+In a Truth Social post that day, Trump wrote that the outlets "shouldn't be able to constantly write or report FICTION and LIES when they're covering the President of the United States, the Trump Administration, or the United States of America."
+Trump later said that same day that he had become "sick" of "cumulative stories" by the outlets.
+The ban took effect on the following day, Sept. 19, when journalists from the outlets were denied access to the White House grounds and had their permanent passes confiscated by Secret Service officers.
+The outlets sued Trump on Sept. 21 in a civil complaint that said, "This ban could not be a more direct assault on the First Amendment nor a more blatant violation of our most fundamental constitutional principles."
+Kelly, two days later, issued a restraining order that temporarily reversed the ban for at least 14 days. Journalists from the three outlets on Sept. 24 were allowed to return to the White House, and since then Kelly extended the restraining order to allow him time to consider whether to issue Tuesday's preliminary injunction, which has no set expiration date.`,
+    bodyJa: `A federal judge late Tuesday night indefinitely blocked the White House from enforcing a ban on three media outlets that President Donald Trump announced in mid-September.
+The preliminary injunction by Judge Timothy Kelly extends his existing block on Trump's ban of MS NOW, CNN and Politico from the White House complex.
+"President Trump's own comments suggest that he intended the revocation of Plaintiffs' hard passes to alter their reporting on him," wrote Kelly, who was nominated by Trump for his seat in U.S. District Court in Washington.
+Kelly in his written opinion said the three outlets were likely to succeed on the claim in their pending lawsuit challenging the ban, which argues they were denied due process by Trump summarily barring them without giving them a chance to argue against that action.
+The judge said the outlets were also likely to succeed on two First Amendment claims in their civil suit, which allege retaliation and viewpoint discrimination.
+Kelly brushed aside claims by the Department of Justice that Trump decided to revoke the outlets' access to the White House on national security grounds.
+"There is no evidence in the record that President Trump made the decision to revoke Plaintiffs' hard passes on national security grounds from the get-go, nor at any time has he directly stated that national security was the reason for his decision," Kelly wrote.
+The judge said the DOJ's "national security" argument appears to be "merely a post-hac justfication for the decision" after the outlets sued.
+"Still, no one should interpret the Court's decision to suggest that President Trump's concerns about accuracy and fairness in the media's reporting are unfounded, or that the government is powerless when its true aim is to protect national security when classified information is unlawfully disclosed," Kelly wrote.
+"That said, for the reasons explained below, the Court will extend the relief it already ordered, which will continue to preserve the status quo while this case proceeds," Kelly said, referring to his prior order that restored access by the outlets to the White House.
+The judge said that without the preliminary injunction, the outlets were "likely to suffer irreparable harm."
+His ruling came on the heels of a court hearing last Thursday where the DOJ defended the ban.
+Trump last month said he would appeal any decision by Kelly blocking his ban. CNBC has requested comment from the White House and DOJ.
+Theodore Boutrous, an attorney for the outlets, said in a statement, "We are grateful that the Court ruled in favor of our clients."
+"When the President issued his 'ban on the free press,' he blatantly and explicitly violated due process and the First Amendment," Boutrous said. "Since then, the President has repeatedly, candidly, and consistently admitted in public that he banned our clients from the White House to punish reporting he doesn't like and to try to force journalists to cover him in ways he prefers."
+"The harm this ban did to our clients, the First Amendment, and the public as a whole is profound," the attorney said. "The Court was right to enjoin the White House from enforcing this "unconstitutional ban on the free press" for the foreseeable future."
+Trump on Sept. 18 said that he was banning the three outlets because of how they have covered him.
+In a Truth Social post that day, Trump wrote that the outlets "shouldn't be able to constantly write or report FICTION and LIES when they're covering the President of the United States, the Trump Administration, or the United States of America."
+Trump later said that same day that he had become "sick" of "cumulative stories" by the outlets.
+The ban took effect on the following day, Sept. 19, when journalists from the outlets were denied access to the White House grounds and had their permanent passes confiscated by Secret Service officers.
+The outlets sued Trump on Sept. 21 in a civil complaint that said, "This ban could not be a more direct assault on the First Amendment nor a more blatant violation of our most fundamental constitutional principles."
+Kelly, two days later, issued a restraining order that temporarily reversed the ban for at least 14 days. Journalists from the three outlets on Sept. 24 were allowed to return to the White House, and since then Kelly extended the restraining order to allow him time to consider whether to issue Tuesday's preliminary injunction, which has no set expiration date.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/14/trump-white-house-msnow-cnn-politico-media-ban.html",
+    publishedAt: "2026-10-14T04:30:18+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "godzilla-el-ni-o-is-wreaking-havoc-with-7dde37aa",
+    title: "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
+    titleJa: "'Godzilla El Niño' is wreaking havoc with Philippine central bank's inflation forecasts",
+    summaryJa: "The Philippine central bank is running policy scenarios for a severe El Niño on top of the oil shock, with inflation at a three-year high.",
+    bodyOriginal: `BANGKOK — The Philippine central bank is planning for a "Godzilla" El Niño on top of a prolonged oil shock, as the Southeast Asian nation tries to rein in inflation from three-year highs.
+Governor Eli Remolona said Bangko Sentral ng Pilipinas now sets policy using scenarios that factor in oil prices and the severity of the weather event. "We have the regular, ordinary El Niño, which is bad, and then we have the Godzilla El Niño, which is really, really bad," he said Wednesday on a panel at the IMF and World Bank annual meetings in Bangkok.
+The worst of El Niño's impact on prices is still to come, with the effects expected from November through February, he said, adding that maintaining price stability remains the central bank's priority.
+"We're holding our breath," he said, "but we have to be prepared for the worst."
+The looming weather risk is adding fresh pressure on one of Southeast Asia's most vulnerable economies. Philippine inflation accelerated to 7.2% in September from 6.1% in August, with rice prices up 18%, according to the Philippine Statistics Authority.
+The world's biggest rice importer is also exposed to food supply risk. Agriculture Secretary Francisco Tiu Laurel has warned that a fresh drought could squeeze domestic supply. Larger Philippine purchases could add demand to a global market already jolted by El Niño and export curbs. The UN Food and Agriculture Organization has raised its rice price index for six consecutive months to a 20-month high.
+The central bank lifted its benchmark rate by 25 basis points to 5% in August to keep a lid on the runaway inflation.
+The BSP should deliver another quarter-percentage hike next week to 5.25%, followed by another same-sized hike in December, according to Aris Dacanay, senior ASEAN economist at HSBC Bank, in a note Wednesday.`,
+    bodyJa: `BANGKOK — The Philippine central bank is planning for a "Godzilla" El Niño on top of a prolonged oil shock, as the Southeast Asian nation tries to rein in inflation from three-year highs.
+Governor Eli Remolona said Bangko Sentral ng Pilipinas now sets policy using scenarios that factor in oil prices and the severity of the weather event. "We have the regular, ordinary El Niño, which is bad, and then we have the Godzilla El Niño, which is really, really bad," he said Wednesday on a panel at the IMF and World Bank annual meetings in Bangkok.
+The worst of El Niño's impact on prices is still to come, with the effects expected from November through February, he said, adding that maintaining price stability remains the central bank's priority.
+"We're holding our breath," he said, "but we have to be prepared for the worst."
+The looming weather risk is adding fresh pressure on one of Southeast Asia's most vulnerable economies. Philippine inflation accelerated to 7.2% in September from 6.1% in August, with rice prices up 18%, according to the Philippine Statistics Authority.
+The world's biggest rice importer is also exposed to food supply risk. Agriculture Secretary Francisco Tiu Laurel has warned that a fresh drought could squeeze domestic supply. Larger Philippine purchases could add demand to a global market already jolted by El Niño and export curbs. The UN Food and Agriculture Organization has raised its rice price index for six consecutive months to a 20-month high.
+The central bank lifted its benchmark rate by 25 basis points to 5% in August to keep a lid on the runaway inflation.
+The BSP should deliver another quarter-percentage hike next week to 5.25%, followed by another same-sized hike in December, according to Aris Dacanay, senior ASEAN economist at HSBC Bank, in a note Wednesday.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/14/godzilla-el-nino-asia-inflation-philippines.html",
+    publishedAt: "2026-10-14T04:24:28+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "oil-rises-amid-growing-mideast-tensions-0f0a1ca3",
+    title: "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
+    titleJa: "Oil rises amid growing Mideast tensions between Iran-backed Houthis and Saudi Arabia",
+    summaryJa: "Worries over supply disruptions due to escalating tensions in the Middle East helped to push oil prices higher.",
+    bodyOriginal: `Oil rises Wednesday, amid worries over supply disruptions as tensions continue to escalate in the Middle East with fighting between Iran-backed Houthis and Saudi Arabia.
+Futures for international benchmark Brent crude for December delivery gained 0.61% to $106.33 a barrel. U.S. West Texas Intermediate futures for November advanced 0.63% to $94.73 per barrel.
+Fighting between Saudi Arabia and Iran-backed Houthis continued to escalate, following a deadly attack on Riyadh's main airport by Tehran-backed Houthis in Yemen.
+According to Al Jazeera, Houthi energy terminals and fuel reserves in Yemen were struck by a Saudi-led coalition, though a spokesperson said that precautions were taken to avoid "collateral damage on civilians."
+Meanwhile, tensions also continued to simmer between the U.S. and Iran.
+U.S. Central Command rejected claims by the commander of Iran's Islamic Revolutionary Guard Corps Navy that the Strait of Hormuz is under Iran's control and that any approaching U.S. Navy warships would be "sunk."
+"RGC's navy commander has no navy," CENTCOM said in an X post, adding that "American forces and regional partners clearly control the Strait of Hormuz."
+Oil may rally another $20-$25 due to the Iran conflict, hedge fund manager and noted commodity trader Paul Tudor Jones said on on CNBC's "Squawk Box."
+"I am long oil... bullish oil...I think it can rally another $20 or $25 bucks," said the founder and chief investment officer of Tudor Investment.
+"If something to ameliorate the situation was going to happen, it would have happened already before the midterms," he added.`,
+    bodyJa: `Oil rises Wednesday, amid worries over supply disruptions as tensions continue to escalate in the Middle East with fighting between Iran-backed Houthis and Saudi Arabia.
+Futures for international benchmark Brent crude for December delivery gained 0.61% to $106.33 a barrel. U.S. West Texas Intermediate futures for November advanced 0.63% to $94.73 per barrel.
+Fighting between Saudi Arabia and Iran-backed Houthis continued to escalate, following a deadly attack on Riyadh's main airport by Tehran-backed Houthis in Yemen.
+According to Al Jazeera, Houthi energy terminals and fuel reserves in Yemen were struck by a Saudi-led coalition, though a spokesperson said that precautions were taken to avoid "collateral damage on civilians."
+Meanwhile, tensions also continued to simmer between the U.S. and Iran.
+U.S. Central Command rejected claims by the commander of Iran's Islamic Revolutionary Guard Corps Navy that the Strait of Hormuz is under Iran's control and that any approaching U.S. Navy warships would be "sunk."
+"RGC's navy commander has no navy," CENTCOM said in an X post, adding that "American forces and regional partners clearly control the Strait of Hormuz."
+Oil may rally another $20-$25 due to the Iran conflict, hedge fund manager and noted commodity trader Paul Tudor Jones said on on CNBC's "Squawk Box."
+"I am long oil... bullish oil...I think it can rally another $20 or $25 bucks," said the founder and chief investment officer of Tudor Investment.
+"If something to ameliorate the situation was going to happen, it would have happened already before the midterms," he added.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/14/oil-rises-amid-growing-tensions-between-saudis-and-iran-backed-houthis.html",
+    publishedAt: "2026-10-14T04:07:00+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "china-s-producer-prices-rise-at-fastest-2dc96d2b",
+    title: "China's producer prices rise at fastest pace since June 2022, beating expectations",
+    titleJa: "China's producer prices rise at fastest pace since June 2022, beating expectations",
+    summaryJa: "The increase was higher than the 4.5% expected by economists polled by Reuters, and higher than the 3.8% seen in the previous month.",
+    bodyOriginal: `China's producer price index climbed at its fastest pace in over four years, rising 5% in September as higher fuel prices pushed up costs for businesses.
+The increase was higher than the 4.5% expected by economists polled by Reuters, and sharply up from the 3.8% seen in the previous month.
+China's National Bureau of Statistics said higher prices were also seen in the country's coal sector, due to increased demand for coal for winter heating, temporary tight supply in major coal-producing areas, and expectations of rising international coal prices.
+Consumer prices saw a 0.9% rise, marginally missing expectations of 1%, but up from 0.8% in the month before.
+The increase in the consumer inflation rate was due to gasoline prices, which climbed 16.6% and contributed approximately 0.47 percentage points to the year-on-year CPI increase, according to Dong Lijuan, chief statistician of the Urban Division at the NBS.
+This was partially offset by a wider fall in food prices, which declined 1.7% and pulled down the CPI by 0.29 percentage points, Dong added.
+The core CPI rate, which excludes volatile food and energy prices, climbed 1%.
+The lower-than-expected CPI reading indicates that domestic demand remains "lackluster," according to Zhiwei Zhang, president and chief economist at Pinpoint Asset Management, in a note after the data release.
+However, the higher PPI is pointing to an economy that is gradually moving away from deflationary pressures even if the recovery remains uneven, said Hao Zhou, chief economist at Guotai Junan International Holdings.
+His view was that domestic demand was recovering more gradually than the industrial sector, although the fact that consumer inflation has remained in positive territory indicated at the deflationary environment in 2024 and 2025 "is continuing to fade."
+The higher inflation figures come as China's economy grapples with its lowest growth rate in more than three years. GDP growth for the second quarter of the year missed expectations at 4.3%.
+While economic data for August showed that retail sales expanded more slowly than expected, industrial output beat expectations.
+On Sept 28, a State Council readout signaled that more policy support could be on the way for the Chinese economy, saying that "In response to emerging challenges in the economy's operation, efforts should be made to intensify counter-cyclical adjustment of macro policies."
+Lynn Song, chief economist for Greater China at ING, wrote that "It marks a bit of a shift in tone," adding that more policy support rollouts will be coming so as to reach both short- and long-term growth targets.
+"These include the 4.5%-5.0% GDP growth target for 2026, and the longstanding goal to double GDP from 2020 to 2035."`,
+    bodyJa: `China's producer price index climbed at its fastest pace in over four years, rising 5% in September as higher fuel prices pushed up costs for businesses.
+The increase was higher than the 4.5% expected by economists polled by Reuters, and sharply up from the 3.8% seen in the previous month.
+China's National Bureau of Statistics said higher prices were also seen in the country's coal sector, due to increased demand for coal for winter heating, temporary tight supply in major coal-producing areas, and expectations of rising international coal prices.
+Consumer prices saw a 0.9% rise, marginally missing expectations of 1%, but up from 0.8% in the month before.
+The increase in the consumer inflation rate was due to gasoline prices, which climbed 16.6% and contributed approximately 0.47 percentage points to the year-on-year CPI increase, according to Dong Lijuan, chief statistician of the Urban Division at the NBS.
+This was partially offset by a wider fall in food prices, which declined 1.7% and pulled down the CPI by 0.29 percentage points, Dong added.
+The core CPI rate, which excludes volatile food and energy prices, climbed 1%.
+The lower-than-expected CPI reading indicates that domestic demand remains "lackluster," according to Zhiwei Zhang, president and chief economist at Pinpoint Asset Management, in a note after the data release.
+However, the higher PPI is pointing to an economy that is gradually moving away from deflationary pressures even if the recovery remains uneven, said Hao Zhou, chief economist at Guotai Junan International Holdings.
+His view was that domestic demand was recovering more gradually than the industrial sector, although the fact that consumer inflation has remained in positive territory indicated at the deflationary environment in 2024 and 2025 "is continuing to fade."
+The higher inflation figures come as China's economy grapples with its lowest growth rate in more than three years. GDP growth for the second quarter of the year missed expectations at 4.3%.
+While economic data for August showed that retail sales expanded more slowly than expected, industrial output beat expectations.
+On Sept 28, a State Council readout signaled that more policy support could be on the way for the Chinese economy, saying that "In response to emerging challenges in the economy's operation, efforts should be made to intensify counter-cyclical adjustment of macro policies."
+Lynn Song, chief economist for Greater China at ING, wrote that "It marks a bit of a shift in tone," adding that more policy support rollouts will be coming so as to reach both short- and long-term growth targets.
+"These include the 4.5%-5.0% GDP growth target for 2026, and the longstanding goal to double GDP from 2020 to 2035."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
+    publishedAt: "2026-10-14T03:14:48+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "taiwan-agrees-to-buy-30-of-gas-from-alas-9236c617",
+    title: "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says",
+    titleJa: "Taiwan agrees to buy 30% of gas from Alaska LNG project, Trump says",
+    summaryJa: "U.S. President Donald Trump said Tuesday that Taiwan had agreed to buy 30% of the gas from a pipeline project in Alaska.",
+    bodyOriginal: `U.S. President Donald Trump said Tuesday that Taiwan had agreed to buy 30% of the gas from a proposed liquefied natural gas project in Alaska.
+"Taiwan has just agreed to buy 30% of the gas coming off the pipeline for the next 20 years," Trump said at a rally in Alaska. "That guarantees a success."
+His latest remarks follow repeated claims earlier this month that South Korea had agreed to join the $50 billion Alaska LNG project, even as Seoul maintained that its participation had not been finalized. "We'll also invest $4.4 billion into the project, on top of $50 billion already committed by South Korea to Alaska," Trump said.
+However, the terms of the Taiwan deal cited by Trump were not immediately clear.
+Last year, Taiwan's state-owned energy company CPC Corp reportedly reached an agreement with Alaska Gasline Development Corp to purchase LNG and invest in the pipeline project.
+Taiwan, home to critical semiconductor giant TSMC, has seen energy demand climb due to AI-related growth. However, the island relies on imports for more than 90% of its energy supply and this summer projected its average electricity demand growth rate through 2035 would exceed that of Japan and South Korea.
+Taiwan's economic affairs ministry said that growth rate would climb by about 2.5% a year, the second-highest forecast in its history. The democratically self-ruled island is still waiting on major new arms sales from the U.S.
+Beijing considers Taiwan part of its territory.
+Glenfarne, the developer of the Alaska LNG pipeline, told the U.S. government in a report this month the project aims to deliver its first gas in 2029.
+Trump has also stepped up pressure on South Korea over its participation in the project, warning earlier this month that he would charge the country more and threatened to double the charges if Seoul failed to sign soon, without specifying what would be doubled. That prompted speculation in South Korean media that he was referring to higher tariffs.
+The White House, Taiwan's energy ministry and CPC Corp. did not immediately respond to CNBC's requests for comment.`,
+    bodyJa: `U.S. President Donald Trump said Tuesday that Taiwan had agreed to buy 30% of the gas from a proposed liquefied natural gas project in Alaska.
+"Taiwan has just agreed to buy 30% of the gas coming off the pipeline for the next 20 years," Trump said at a rally in Alaska. "That guarantees a success."
+His latest remarks follow repeated claims earlier this month that South Korea had agreed to join the $50 billion Alaska LNG project, even as Seoul maintained that its participation had not been finalized. "We'll also invest $4.4 billion into the project, on top of $50 billion already committed by South Korea to Alaska," Trump said.
+However, the terms of the Taiwan deal cited by Trump were not immediately clear.
+Last year, Taiwan's state-owned energy company CPC Corp reportedly reached an agreement with Alaska Gasline Development Corp to purchase LNG and invest in the pipeline project.
+Taiwan, home to critical semiconductor giant TSMC, has seen energy demand climb due to AI-related growth. However, the island relies on imports for more than 90% of its energy supply and this summer projected its average electricity demand growth rate through 2035 would exceed that of Japan and South Korea.
+Taiwan's economic affairs ministry said that growth rate would climb by about 2.5% a year, the second-highest forecast in its history. The democratically self-ruled island is still waiting on major new arms sales from the U.S.
+Beijing considers Taiwan part of its territory.
+Glenfarne, the developer of the Alaska LNG pipeline, told the U.S. government in a report this month the project aims to deliver its first gas in 2029.
+Trump has also stepped up pressure on South Korea over its participation in the project, warning earlier this month that he would charge the country more and threatened to double the charges if Seoul failed to sign soon, without specifying what would be doubled. That prompted speculation in South Korean media that he was referring to higher tariffs.
+The White House, Taiwan's energy ministry and CPC Corp. did not immediately respond to CNBC's requests for comment.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/14/taiwan-alaska-lng-project-trump-.html",
+    publishedAt: "2026-10-14T02:09:00+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "how-long-will-humans-be-needed-for-trans-25229a0c",
+    title: "How long will humans be needed for translation?",
+    titleJa: "How long will humans be needed for translation?",
+    summaryJa: "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+    bodyOriginal: `How long will humans be needed for translation?
+- Published
+"Il pleut des cordes," say the French when it's raining hard.
+"It's raining ropes," is the direct translation. It's the kind of idiom which can trip up an AI translator.
+"You can imagine the dilemma this throws AI into," says François Yvon, a research director specialised in automatic translation with the French National Centre for Scientific Research CNRS.
+He says a well-trained system will know that ropes are not literally falling from the sky and use the English phrase "it's raining cats and dogs".
+"But is it going to find the equivalent when it's translating into Indonesian?" asks Yvon.
+A comment on the weather is pretty low-risk, but more and more translation is being done by machines, and on topics with higher stakes than the weather.
+In April, Google said people are now translating, external one trillion words a month with Google Translate.
+That doesn't count the others: DeepL, Microsoft, Claude, ChatCGT and Gemini, not to mention made-to-measure corporate translation systems.
+Direct sales of machine translation, external (i.e. outside general AI subscriptions) were worth an estimated $1.4bn (£1bn) last year.
+"For plenty of use cases, raw AI translation is now the right call: multiplying your costs by 100 to catch the last few percent of errors isn't rational if you're translating internal documents or product listings," says John Zimmerman, founder of OKA (Open Knowledge Association), a Swiss non-profit that translates Wikipedia articles into other languages.
+"For an encyclopedia it's different. Wikipedia runs on trust. A wrong fact can sit there for years and get cited by journalists and AI systems," he says.
+With more than 10,000 published pieces, mostly into Spanish, Portuguese and English, OKA is, Zimmerman says, the single largest contributor of translated articles to the collaborative online encyclopedia.
+Which is something it absolutely could not have become without AI.
+"Translating 10,000 articles the traditional way would cost millions. In our process, the AI produces the draft, then a human translator checks every sentence," he explains.
+But that human input is required less and less.
+"The machine output is now good enough that skipping the human entirely has become a serious option, and a real temptation across the industry. Two or three years ago, with tools like DeepL, our translators still rewrote a good chunk of every draft.
+"Today the prose often doesn't need fixing at all. So, the question is no longer whether AI translation is good, it clearly is, but whether it's good enough to remove the human," says Zimmerman.
+Not yet, translators argue.
+Ariella Baltié is a translator and legal expert specialised in translating court documents from English into French.
+She was contacted recently by someone who'd already translated his documents with AI, asking her to check them.
+"There were two major errors right at the beginning," she said.
+The AI had translated "Le demandeur" (the plaintiff) as "the requester". "Totally awkward for legal papers," says Baltié.
+When the AI saw "Madame X, épouse Y" (Ms X, wife of Y'), it came up with "Ms X marries Y".
+In other words, it mistook a noun for a verb, completely losing the meaning of the phrase.
+The consequences of mistranslation in the legal sphere can be serious. In the US, for example, errors in machine-translated asylum applications have led to delays in the release of detainees.
+Accuracy is a matter of life and death in the medical field.
+"The units for dosages and blood tests often include Greek letters," says Carol Bereuter, who is a specialist in medical translations.
+She came across one automatically-translated text that had translated the greek letter μ as milli (one thousandth) instead of micro (one millionth).
+"That's a serious error. If you give someone a milligram when it's meant to be a microgram, you are giving them a thousand times the dose," points out Bereuter.
+She also makes the point that, as AI translators have got better, catching errors has got more difficult.
+"Whereas in the past, with things like Google Translate, the sentence would jump out at you because there'd be a grammatical error or it would sound clunky, today it sounds perfectly legitimate. It sounds fluid. It sounds natural. So the errors are a lot harder to spot."
+"If it's something that will bear your signature, there's a risk for your reputation. And if decisions are going to be taken on the basis of a translation concerning a medical procedure, a contract you might sign or a major purchase you might make, the risk is even greater," warns François Yvon.
+Even sentences that seem quite clear to a human can trip up an AI service, he says.
+"When you have words with different meanings, it's usually very clear for a human which one applies because they understand the context, but when a machine translator comes across the sentence 'translate into Polish', for example, it is quite capable of deciding it must be all about shoe cream, says Yvon.
+Context is often crucial. If an AI translator hasn't grasped that we're talking about a football match it is liable to mis-translate "taking a corner".
+Last year OKA ran a study, funded by Wikimedia. It studied 119 articles, 10 language pairs and more than 1,000 hours of translator work.
+"27% of the AI-generated text still got corrected before publication. Three quarters of those corrections were errors the AI introduced, and 5 to 6% of errors changed the meaning of the original text," says Zimmerman.
+Eradicating those errors is likely to be challenging.
+"As things stand, I think the fundamental way these systems function makes it quite hard to imagine how they could become 100% reliable," says François Yvon.
+This is because probability is a crucial part of the way AI translates each word rather than another and what is probably correct is not the same as what is correct. Especially in the realm of something as subtle and surprising as language.
+He thinks a new generation of tech will be an improvement.
+"We will see translation systems that are increasingly capable of evaluating what they do and correcting themselves using different AI tools simultaneously: one to do the translation, a second to criticize it and a third to produce a new version, for example."
+But perhaps the big moment will be when AI can show doubt.
+"The real breakthrough won't come until these systems are not merely capable of translating but also of telling us when they're not sure," Yvon says.
+- Published19 August
+- Published12 August
+- Published7 August`,
+    bodyJa: `How long will humans be needed for translation?
+- Published
+"Il pleut des cordes," say the French when it's raining hard.
+"It's raining ropes," is the direct translation. It's the kind of idiom which can trip up an AI translator.
+"You can imagine the dilemma this throws AI into," says François Yvon, a research director specialised in automatic translation with the French National Centre for Scientific Research CNRS.
+He says a well-trained system will know that ropes are not literally falling from the sky and use the English phrase "it's raining cats and dogs".
+"But is it going to find the equivalent when it's translating into Indonesian?" asks Yvon.
+A comment on the weather is pretty low-risk, but more and more translation is being done by machines, and on topics with higher stakes than the weather.
+In April, Google said people are now translating, external one trillion words a month with Google Translate.
+That doesn't count the others: DeepL, Microsoft, Claude, ChatCGT and Gemini, not to mention made-to-measure corporate translation systems.
+Direct sales of machine translation, external (i.e. outside general AI subscriptions) were worth an estimated $1.4bn (£1bn) last year.
+"For plenty of use cases, raw AI translation is now the right call: multiplying your costs by 100 to catch the last few percent of errors isn't rational if you're translating internal documents or product listings," says John Zimmerman, founder of OKA (Open Knowledge Association), a Swiss non-profit that translates Wikipedia articles into other languages.
+"For an encyclopedia it's different. Wikipedia runs on trust. A wrong fact can sit there for years and get cited by journalists and AI systems," he says.
+With more than 10,000 published pieces, mostly into Spanish, Portuguese and English, OKA is, Zimmerman says, the single largest contributor of translated articles to the collaborative online encyclopedia.
+Which is something it absolutely could not have become without AI.
+"Translating 10,000 articles the traditional way would cost millions. In our process, the AI produces the draft, then a human translator checks every sentence," he explains.
+But that human input is required less and less.
+"The machine output is now good enough that skipping the human entirely has become a serious option, and a real temptation across the industry. Two or three years ago, with tools like DeepL, our translators still rewrote a good chunk of every draft.
+"Today the prose often doesn't need fixing at all. So, the question is no longer whether AI translation is good, it clearly is, but whether it's good enough to remove the human," says Zimmerman.
+Not yet, translators argue.
+Ariella Baltié is a translator and legal expert specialised in translating court documents from English into French.
+She was contacted recently by someone who'd already translated his documents with AI, asking her to check them.
+"There were two major errors right at the beginning," she said.
+The AI had translated "Le demandeur" (the plaintiff) as "the requester". "Totally awkward for legal papers," says Baltié.
+When the AI saw "Madame X, épouse Y" (Ms X, wife of Y'), it came up with "Ms X marries Y".
+In other words, it mistook a noun for a verb, completely losing the meaning of the phrase.
+The consequences of mistranslation in the legal sphere can be serious. In the US, for example, errors in machine-translated asylum applications have led to delays in the release of detainees.
+Accuracy is a matter of life and death in the medical field.
+"The units for dosages and blood tests often include Greek letters," says Carol Bereuter, who is a specialist in medical translations.
+She came across one automatically-translated text that had translated the greek letter μ as milli (one thousandth) instead of micro (one millionth).
+"That's a serious error. If you give someone a milligram when it's meant to be a microgram, you are giving them a thousand times the dose," points out Bereuter.
+She also makes the point that, as AI translators have got better, catching errors has got more difficult.
+"Whereas in the past, with things like Google Translate, the sentence would jump out at you because there'd be a grammatical error or it would sound clunky, today it sounds perfectly legitimate. It sounds fluid. It sounds natural. So the errors are a lot harder to spot."
+"If it's something that will bear your signature, there's a risk for your reputation. And if decisions are going to be taken on the basis of a translation concerning a medical procedure, a contract you might sign or a major purchase you might make, the risk is even greater," warns François Yvon.
+Even sentences that seem quite clear to a human can trip up an AI service, he says.
+"When you have words with different meanings, it's usually very clear for a human which one applies because they understand the context, but when a machine translator comes across the sentence 'translate into Polish', for example, it is quite capable of deciding it must be all about shoe cream, says Yvon.
+Context is often crucial. If an AI translator hasn't grasped that we're talking about a football match it is liable to mis-translate "taking a corner".
+Last year OKA ran a study, funded by Wikimedia. It studied 119 articles, 10 language pairs and more than 1,000 hours of translator work.
+"27% of the AI-generated text still got corrected before publication. Three quarters of those corrections were errors the AI introduced, and 5 to 6% of errors changed the meaning of the original text," says Zimmerman.
+Eradicating those errors is likely to be challenging.
+"As things stand, I think the fundamental way these systems function makes it quite hard to imagine how they could become 100% reliable," says François Yvon.
+This is because probability is a crucial part of the way AI translates each word rather than another and what is probably correct is not the same as what is correct. Especially in the realm of something as subtle and surprising as language.
+He thinks a new generation of tech will be an improvement.
+"We will see translation systems that are increasingly capable of evaluating what they do and correcting themselves using different AI tools simultaneously: one to do the translation, a second to criticize it and a third to produce a new version, for example."
+But perhaps the big moment will be when AI can show doubt.
+"The real breakthrough won't come until these systems are not merely capable of translating but also of telling us when they're not sure," Yvon says.
+- Published19 August
+- Published12 August
+- Published7 August`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-13T23:05:29+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a40/live/7b9bd230-b0d8-11f1-b1d1-571ed4d7ff2c.jpg",
+    readTime: 10,
+  },
+  {
+    id: "is-it-ok-for-jobseekers-or-employers-to-504a4abc",
+    title: "Is it OK for jobseekers or employers to use AI?",
+    titleJa: "Is it OK for jobseekers or employers to use AI?",
+    summaryJa: "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+    bodyOriginal: `Is it OK for jobseekers or employers to use AI?
+- Published
+Would you use AI to help you write a CV or cover letter? How about during an online assessment or video interview for a job?
+We are increasingly using the technology to help us with job applications, graduates, external and recruiters say, with many employers happy for us to do so within reason.
+But when does it cross a line from being acceptable to unethical, or even cheating?
+Tom, 22, from Maidstone graduated last year with a geography degree and says he applied for over 200 jobs before finally landing a role last month as a restaurant manager.
+He says the process was "exhausting" and "demoralising", with employers often not even getting back to him, and he wouldn't have got through it without some help from AI.
+"Employers want you to put your absolute best into the application, but if I'm applying for 10 to 20 jobs in a day, the reality is you can't do that."
+While Tom says he never used the technology in an assessment or interview, he did use it to help him with cover letters and CVs or to find the right "buzz words" that early stage screening in a recruitment process will pick up on.
+He also thinks it's "hypocritical" for companies to ask candidates not to use AI when some are using it themselves to screen candidates.
+"That's where it feels like a weird tightrope. You can't use AI too much because otherwise you're not human. But if you don't write like an AI, you may get skipped by the AI screening."
+'More competition for students'
+This summer, the Institute of Student Employers (ISE) surveyed 155 of the UK's biggest graduate employers and found they were becoming "more accepting" of candidates using AI during recruitment "at some stages of the recruitment process".
+According to the trade group, the most commonly accepted use was writing cover letters or CVs, followed by completing online application questions.
+However, it also found some 92% of employers had encountered or suspected AI "misconduct" in the job selection process - up from 85% last year. Most commonly this included using AI as a real-time assistant during online video interviews or to complete online assessments.
+On top of this, the tech is also helping candidates write multiple applications at the same time - something known in the industry as "spray and pray". And Stephen Isherwood, joint chief executive of the ISE, says it is "driving up the competition and pressure on students" in an already competitive graduate recruitment market.
+'It's not a level playing field'
+Hollie Moody, head of early careers recruitment at energy giant EDF, says she doesn't blame graduates for using AI in applications given how "brutal" the jobs market is right now. But she does think it's becoming a problem.
+EDF opened its graduate recruitment scheme three weeks ago, but took the decision to close it early after receiving 12,000 applications - a 10% increase on last year.
+Moody says AI almost certainly contributed to this, adding that the tech is being used "a lot more freely" in the actual selection process.
+"What we don't have is a level playing field, because what you'll find is that some candidates will absolutely use AI throughout the whole process, and other candidates won't."
+Like many firms, EDF now issues guidance on the appropriate use of AI in job applications, and is trying to make its recruitment process as "AI-proof" as possible.
+It only reads CVs in the later stages of the hiring process and uses skills and behaviour-based online assessments and video interviews to better assess candidates' skills.
+But Moody says some applicants still try to bend the rules, particularly in video interviews.
+"A lot of the answers [we hear] are the same. Or people might pause whilst they wait for AI to come back to them with an answer. It's almost like people are reading a script."
+AI job application rise 'risks hiring incapable staff'
+- Published25 March 2025
+AI era 'not all doom and gloom' for graduates, say analysts
+- Published5 March
+Young jobseekers 'discouraged' by ghosting and AI
+- Published21 May
+One recently employed trainee accountant, who didn't want us to use his real name, told the BBC he'd applied for 50 graduate jobs and used AI in every application. But he says it was only for researching roles, tidying up his CV and generating mock practise questions for video interviews.
+While he says he would never use the tech to cheat on assessments he knows people who would.
+"I know people who have applied for 100 jobs and after a while they become desperate. If they see everyone else is using AI, they think how can I compete?"
+According to the ISE, the graduate market has stabilised after a sharp fall last year but remains tough. Graduate roles currently attract an average of 141 applications each, it says.
+And while only 16% of employers it surveyed are using AI to screen candidates, more than half plan to introduce it due to the large volumes of applications they are receiving.
+EDF does not currently use AI screening but Hollie Moody says they may have to in future.
+She says the use of AI in job applications is a "moral dilemma" that employers and employees will continue to grapple with. But she stresses it cannot replace what her firm is looking for in new recruits.
+"It's about authenticity, but also personality. We want diversity of thought in the business."`,
+    bodyJa: `Is it OK for jobseekers or employers to use AI?
+- Published
+Would you use AI to help you write a CV or cover letter? How about during an online assessment or video interview for a job?
+We are increasingly using the technology to help us with job applications, graduates, external and recruiters say, with many employers happy for us to do so within reason.
+But when does it cross a line from being acceptable to unethical, or even cheating?
+Tom, 22, from Maidstone graduated last year with a geography degree and says he applied for over 200 jobs before finally landing a role last month as a restaurant manager.
+He says the process was "exhausting" and "demoralising", with employers often not even getting back to him, and he wouldn't have got through it without some help from AI.
+"Employers want you to put your absolute best into the application, but if I'm applying for 10 to 20 jobs in a day, the reality is you can't do that."
+While Tom says he never used the technology in an assessment or interview, he did use it to help him with cover letters and CVs or to find the right "buzz words" that early stage screening in a recruitment process will pick up on.
+He also thinks it's "hypocritical" for companies to ask candidates not to use AI when some are using it themselves to screen candidates.
+"That's where it feels like a weird tightrope. You can't use AI too much because otherwise you're not human. But if you don't write like an AI, you may get skipped by the AI screening."
+'More competition for students'
+This summer, the Institute of Student Employers (ISE) surveyed 155 of the UK's biggest graduate employers and found they were becoming "more accepting" of candidates using AI during recruitment "at some stages of the recruitment process".
+According to the trade group, the most commonly accepted use was writing cover letters or CVs, followed by completing online application questions.
+However, it also found some 92% of employers had encountered or suspected AI "misconduct" in the job selection process - up from 85% last year. Most commonly this included using AI as a real-time assistant during online video interviews or to complete online assessments.
+On top of this, the tech is also helping candidates write multiple applications at the same time - something known in the industry as "spray and pray". And Stephen Isherwood, joint chief executive of the ISE, says it is "driving up the competition and pressure on students" in an already competitive graduate recruitment market.
+'It's not a level playing field'
+Hollie Moody, head of early careers recruitment at energy giant EDF, says she doesn't blame graduates for using AI in applications given how "brutal" the jobs market is right now. But she does think it's becoming a problem.
+EDF opened its graduate recruitment scheme three weeks ago, but took the decision to close it early after receiving 12,000 applications - a 10% increase on last year.
+Moody says AI almost certainly contributed to this, adding that the tech is being used "a lot more freely" in the actual selection process.
+"What we don't have is a level playing field, because what you'll find is that some candidates will absolutely use AI throughout the whole process, and other candidates won't."
+Like many firms, EDF now issues guidance on the appropriate use of AI in job applications, and is trying to make its recruitment process as "AI-proof" as possible.
+It only reads CVs in the later stages of the hiring process and uses skills and behaviour-based online assessments and video interviews to better assess candidates' skills.
+But Moody says some applicants still try to bend the rules, particularly in video interviews.
+"A lot of the answers [we hear] are the same. Or people might pause whilst they wait for AI to come back to them with an answer. It's almost like people are reading a script."
+AI job application rise 'risks hiring incapable staff'
+- Published25 March 2025
+AI era 'not all doom and gloom' for graduates, say analysts
+- Published5 March
+Young jobseekers 'discouraged' by ghosting and AI
+- Published21 May
+One recently employed trainee accountant, who didn't want us to use his real name, told the BBC he'd applied for 50 graduate jobs and used AI in every application. But he says it was only for researching roles, tidying up his CV and generating mock practise questions for video interviews.
+While he says he would never use the tech to cheat on assessments he knows people who would.
+"I know people who have applied for 100 jobs and after a while they become desperate. If they see everyone else is using AI, they think how can I compete?"
+According to the ISE, the graduate market has stabilised after a sharp fall last year but remains tough. Graduate roles currently attract an average of 141 applications each, it says.
+And while only 16% of employers it surveyed are using AI to screen candidates, more than half plan to introduce it due to the large volumes of applications they are receiving.
+EDF does not currently use AI screening but Hollie Moody says they may have to in future.
+She says the use of AI in job applications is a "moral dilemma" that employers and employees will continue to grapple with. But she stresses it cannot replace what her firm is looking for in new recruits.
+"It's about authenticity, but also personality. We want diversity of thought in the business."`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-13T23:04:39+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38df/live/64af4870-c6e7-11f1-bf38-57dc5cd42af2.jpg",
+    readTime: 10,
+  },
+  {
+    id: "royal-mail-losing-400-postal-workers-a-w-3195d30a",
+    title: "Royal Mail losing 400 postal workers a week, says union",
+    titleJa: "Royal Mail losing 400 postal workers a week, says union",
+    summaryJa: "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
+    bodyOriginal: `Royal Mail losing 400 postal workers a week, says union
+- Published
+About 400 postmen and women are leaving Royal Mail per week, according to the Communication Workers Union (CWU), who claims this number has gone up since the company introduced a new delivery system earlier this year.
+The CWU says the firm had been losing about 330 postal staff a week from a workforce of 83,000 before it rolled out DM26, which reorganised routes to improve delivery performance.
+The union claims the new system is not working in hundreds of offices, and BBC Your Voice has heard from staff warning of a "nightmare" Christmas ahead as the number of parcels increases.
+Royal Mail says the reforms are part of its plan to deliver a more "efficient and financially sustainable" service.
+Over the last year we've been in touch with more than 30 postal staff in all four nations of the UK, as they have switched over to DM26.
+It allows for second class post to only be delivered every other weekday, and is supposed to guarantee first class mail and parcels are delivered every day, by putting workers into groups of three and changing the walking pattern of rounds.
+But posties speaking to us anonymously say parcels are still being prioritised, letters left behind, and time wasted in sorting and dividing mail into first and second class.
+"I didn't take any first class mail out on my last shift because I was on a road that's been behind for weeks," a worker in the West Midlands told me. "But I'm sure a manager would have ticked a box to say all first class mail went out."
+A Royal Mail spokesperson said the company always worked to ensure all mail - both letters and parcels - were delivered on time.
+Royal Mail plans to cut 2,500 jobs
+- Published6 days ago
+Only three-quarters of first class mail delivered on time
+- Published29 May
+Royal Mail letters sit undelivered 'for weeks' as parcels prioritised, staff say
+- Published16 February
+Some postal workers we've spoken to say the new model is also increasing their workload.
+We asked eight workers in different areas to track their average step counts. Since the switchover all their steps increased by a quarter or even a third, often up to around 25,000 steps a day.
+Several fear this Christmas will be a "nightmare".
+"We all think this Christmas will be the worst ever, for us and our customers," said one postman in the East Midlands.
+Bryn Dymott delivered post in the village of Wootton in Bedfordshire for nine years. For the most part he loved the job. But he left the company in July saying he couldn't face another "shambolic" Christmas.
+"People put things in the post for them to be delivered, not for them to be delayed because Royal Mail hasn't got the systems in place and enough people to get them delivered."
+Bryn says he wanted to speak out after leaving the company because he was sick of the fact that posties aren't able to say what's really happening.
+He says the company is "proving it's impossible to have four people's work done by three people. It shouldn't really come as a surprise."
+'A boat taking on water'
+So far DM26 has been introduced in about 1,000 of Royal Mail's 1,200 delivery offices.
+Now the CWU has told its members to pause further roll-out of the new system until a plan can be agreed with Royal Mail to address problems.
+The union says that while it is operating successfully in around 500 offices, it has run into significant problems in hundreds of others.
+"Put simply, if a boat is already taking on water, adding more passengers is unlikely to solve the problem," says Martin Walsh of the CWU.
+The union said most Royal Mail workers leaving the company were believed to be new starters on part-time contracts, but also said there had been an increase in staff on legacy contracts departing.
+Royal Mail, on the other hand, says the new system is on track to be up and running in all offices by Christmas.
+It says the roll-out is 90% complete and that it is now delivering to "95% of addresses every day across the UK, up from 88% before the roll-out. The roll-out continues across our network and we expect quality of service to improve as deployment progresses."
+The company says it is hiring, as usual, an additional 22,000 temporary workers over the Christmas period.
+Royal Mail has battled with increased competition and falling demand for letter deliveries in recent years, and last week announced plans to cut 2,500 head office and other supporting roles by the end of 2027.
+The company has also faced years of criticism from politicians and the public over slow letter deliveries - something which has continued since the new system has been rolled out.
+The regulator Ofcom has fined Royal Mail more than £37m in the last three years for missing delivery targets.
+But some MPs think it is time for a new approach, and a group of them will meet the regulator later on Wednesday.
+"We need to think outside the box," Dave Robertson, Labour MP for Lichfield, Burntwood and the Villages in Staffordshire.
+"We need to bring as many people to the table on this to make sure we come up with a long-term solution because what's been tried up to now clearly isn't working."
+An Ofcom spokesperson said not only has it issued fines to Royal Mail in recent years but it has also demanded an improvement plan and reformed the obligations imposed on the company, adding: "We will continue to hold it to account using the full extent of the powers available to us."
+Postal Services Minister Kate Dearden said Royal Mail's improvement plan was "a step in the right direction, but it must deliver tangible improvements for customers. We will continue to hold them to account on their performance."`,
+    bodyJa: `Royal Mail losing 400 postal workers a week, says union
+- Published
+About 400 postmen and women are leaving Royal Mail per week, according to the Communication Workers Union (CWU), who claims this number has gone up since the company introduced a new delivery system earlier this year.
+The CWU says the firm had been losing about 330 postal staff a week from a workforce of 83,000 before it rolled out DM26, which reorganised routes to improve delivery performance.
+The union claims the new system is not working in hundreds of offices, and BBC Your Voice has heard from staff warning of a "nightmare" Christmas ahead as the number of parcels increases.
+Royal Mail says the reforms are part of its plan to deliver a more "efficient and financially sustainable" service.
+Over the last year we've been in touch with more than 30 postal staff in all four nations of the UK, as they have switched over to DM26.
+It allows for second class post to only be delivered every other weekday, and is supposed to guarantee first class mail and parcels are delivered every day, by putting workers into groups of three and changing the walking pattern of rounds.
+But posties speaking to us anonymously say parcels are still being prioritised, letters left behind, and time wasted in sorting and dividing mail into first and second class.
+"I didn't take any first class mail out on my last shift because I was on a road that's been behind for weeks," a worker in the West Midlands told me. "But I'm sure a manager would have ticked a box to say all first class mail went out."
+A Royal Mail spokesperson said the company always worked to ensure all mail - both letters and parcels - were delivered on time.
+Royal Mail plans to cut 2,500 jobs
+- Published6 days ago
+Only three-quarters of first class mail delivered on time
+- Published29 May
+Royal Mail letters sit undelivered 'for weeks' as parcels prioritised, staff say
+- Published16 February
+Some postal workers we've spoken to say the new model is also increasing their workload.
+We asked eight workers in different areas to track their average step counts. Since the switchover all their steps increased by a quarter or even a third, often up to around 25,000 steps a day.
+Several fear this Christmas will be a "nightmare".
+"We all think this Christmas will be the worst ever, for us and our customers," said one postman in the East Midlands.
+Bryn Dymott delivered post in the village of Wootton in Bedfordshire for nine years. For the most part he loved the job. But he left the company in July saying he couldn't face another "shambolic" Christmas.
+"People put things in the post for them to be delivered, not for them to be delayed because Royal Mail hasn't got the systems in place and enough people to get them delivered."
+Bryn says he wanted to speak out after leaving the company because he was sick of the fact that posties aren't able to say what's really happening.
+He says the company is "proving it's impossible to have four people's work done by three people. It shouldn't really come as a surprise."
+'A boat taking on water'
+So far DM26 has been introduced in about 1,000 of Royal Mail's 1,200 delivery offices.
+Now the CWU has told its members to pause further roll-out of the new system until a plan can be agreed with Royal Mail to address problems.
+The union says that while it is operating successfully in around 500 offices, it has run into significant problems in hundreds of others.
+"Put simply, if a boat is already taking on water, adding more passengers is unlikely to solve the problem," says Martin Walsh of the CWU.
+The union said most Royal Mail workers leaving the company were believed to be new starters on part-time contracts, but also said there had been an increase in staff on legacy contracts departing.
+Royal Mail, on the other hand, says the new system is on track to be up and running in all offices by Christmas.
+It says the roll-out is 90% complete and that it is now delivering to "95% of addresses every day across the UK, up from 88% before the roll-out. The roll-out continues across our network and we expect quality of service to improve as deployment progresses."
+The company says it is hiring, as usual, an additional 22,000 temporary workers over the Christmas period.
+Royal Mail has battled with increased competition and falling demand for letter deliveries in recent years, and last week announced plans to cut 2,500 head office and other supporting roles by the end of 2027.
+The company has also faced years of criticism from politicians and the public over slow letter deliveries - something which has continued since the new system has been rolled out.
+The regulator Ofcom has fined Royal Mail more than £37m in the last three years for missing delivery targets.
+But some MPs think it is time for a new approach, and a group of them will meet the regulator later on Wednesday.
+"We need to think outside the box," Dave Robertson, Labour MP for Lichfield, Burntwood and the Villages in Staffordshire.
+"We need to bring as many people to the table on this to make sure we come up with a long-term solution because what's been tried up to now clearly isn't working."
+An Ofcom spokesperson said not only has it issued fines to Royal Mail in recent years but it has also demanded an improvement plan and reformed the obligations imposed on the company, adding: "We will continue to hold it to account using the full extent of the powers available to us."
+Postal Services Minister Kate Dearden said Royal Mail's improvement plan was "a step in the right direction, but it must deliver tangible improvements for customers. We will continue to hold them to account on their performance."`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-13T23:03:59+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6236/live/4d710eb0-c71d-11f1-a82f-35874a3aae81.jpg",
+    readTime: 10,
+  },
+  {
     id: "fbi-arrests-saudi-openai-employee-who-al-2b97fd8e",
     title: "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
     titleJa: "FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room",
@@ -1739,502 +2227,6 @@ A move higher would also be five in a row for BlackRock, which jumped nearly 7% 
     category: "金融政策",
     imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 8,
-  },
-  {
-    id: "tiktok-ceo-sees-major-scientific-breakth-32b6fb10",
-    title: "TikTok CEO sees major scientific breakthroughs from AI within three years",
-    titleJa: "TikTok CEO sees major scientific breakthroughs from AI within three years",
-    summaryJa: "Chew cautioned that AI's growing capabilities would require stronger safeguards, particularly as autonomous systems become more widely adopted.",
-    bodyOriginal: `SINGAPORE — TikTok CEO Shou Zi Chew expects artificial intelligence to drive major scientific breakthroughs within the next three years, transforming a broad range of sectors.
-"In the next two to three years, we're going to have a real scientific breakthrough: physics, biotech, chemistry, material science, because of AI. It's very, very, very possible," Chew said at the DBS Asia Future Forward Conference in Singapore on Monday.
-Chew's remarks come as ByteDance, TikTok's Chinese parent, expands its artificial intelligence research beyond consumer applications. In April, the company's Seed research team unveiled Protenix-v2, an AI model focused on biomolecular structure prediction and design, with potential applications in drug discovery.
-Chew said rapid advances in AI were opening up possibilities far beyond the technology's current applications, even as questions remain over how to ensure increasingly powerful systems operate within human ethical boundaries.
-"If that happens, then you know the question would be: how do you align the models? How do you align the machines to be doing things that are obvious to us as human beings?" he said.
-Chew highlighted the accelerating pace of technological development, particularly in scientific research, arguing that the longer-term implications of AI could be far greater than currently anticipated.
-"The trend is very very clear. It's that we are only at the beginning of what artificial intelligence can probably do," he said. "And if you look at where the trend is, [where] the progress is, particularly in areas of science, it's really trending on a very steep curve at this moment in time."
-Chew explained that while the technology's immediate impact could be overstated, its longer-term potential remained underappreciated. "I think in the short term we are probably overestimating it, but in the long term we are probably underestimating it," he said.
-His optimism comes at a time when technology giants have been pouring billions of dollars into AI-powered scientific research. Last week, the U.S. government, Meta and Google announced their participation in a $1.8 billion initiative to develop AI models capable of predicting how cells behave, in an effort to accelerate biological research and drug discovery.
-TikTok's parent company, ByteDance, is also developing its own AI models and exploring opportunities to collaborate with scientists on research.
-"There's an effort to see how we can collaborate with a lot of scientists to make some progress in science as well," Chew added. "There's been some work that we've done in this area, and it is very exciting."
-He described scientific discovery as one of the most promising applications of AI, even as the technology increasingly reshapes TikTok's operations, from content creation and recommendations to search and moderation.
-Chew cautioned that AI's growing capabilities would require stronger safeguards, particularly as autonomous systems become more widely adopted.
-"I think the cybersecurity risks are quite big," he said, warning that users may grant AI agents extensive permissions without fully understanding the potential consequences.
-He pointed to the risks of allowing AI agents to make purchases autonomously, saying the systems could end up buying more than users intended in their eagerness to complete a task.
-Chew also highlighted the growing cybersecurity challenges facing companies, as increasingly sophisticated AI models make it significantly cheaper for malicious actors to carry out fraudulent activities.
-"So you need the right tools to now you know defend against the fast falling cost of creating problems for platforms like us, security problems for us," he emphasized.`,
-    bodyJa: `SINGAPORE — TikTok CEO Shou Zi Chew expects artificial intelligence to drive major scientific breakthroughs within the next three years, transforming a broad range of sectors.
-"In the next two to three years, we're going to have a real scientific breakthrough: physics, biotech, chemistry, material science, because of AI. It's very, very, very possible," Chew said at the DBS Asia Future Forward Conference in Singapore on Monday.
-Chew's remarks come as ByteDance, TikTok's Chinese parent, expands its artificial intelligence research beyond consumer applications. In April, the company's Seed research team unveiled Protenix-v2, an AI model focused on biomolecular structure prediction and design, with potential applications in drug discovery.
-Chew said rapid advances in AI were opening up possibilities far beyond the technology's current applications, even as questions remain over how to ensure increasingly powerful systems operate within human ethical boundaries.
-"If that happens, then you know the question would be: how do you align the models? How do you align the machines to be doing things that are obvious to us as human beings?" he said.
-Chew highlighted the accelerating pace of technological development, particularly in scientific research, arguing that the longer-term implications of AI could be far greater than currently anticipated.
-"The trend is very very clear. It's that we are only at the beginning of what artificial intelligence can probably do," he said. "And if you look at where the trend is, [where] the progress is, particularly in areas of science, it's really trending on a very steep curve at this moment in time."
-Chew explained that while the technology's immediate impact could be overstated, its longer-term potential remained underappreciated. "I think in the short term we are probably overestimating it, but in the long term we are probably underestimating it," he said.
-His optimism comes at a time when technology giants have been pouring billions of dollars into AI-powered scientific research. Last week, the U.S. government, Meta and Google announced their participation in a $1.8 billion initiative to develop AI models capable of predicting how cells behave, in an effort to accelerate biological research and drug discovery.
-TikTok's parent company, ByteDance, is also developing its own AI models and exploring opportunities to collaborate with scientists on research.
-"There's an effort to see how we can collaborate with a lot of scientists to make some progress in science as well," Chew added. "There's been some work that we've done in this area, and it is very exciting."
-He described scientific discovery as one of the most promising applications of AI, even as the technology increasingly reshapes TikTok's operations, from content creation and recommendations to search and moderation.
-Chew cautioned that AI's growing capabilities would require stronger safeguards, particularly as autonomous systems become more widely adopted.
-"I think the cybersecurity risks are quite big," he said, warning that users may grant AI agents extensive permissions without fully understanding the potential consequences.
-He pointed to the risks of allowing AI agents to make purchases autonomously, saying the systems could end up buying more than users intended in their eagerness to complete a task.
-Chew also highlighted the growing cybersecurity challenges facing companies, as increasingly sophisticated AI models make it significantly cheaper for malicious actors to carry out fraudulent activities.
-"So you need the right tools to now you know defend against the fast falling cost of creating problems for platforms like us, security problems for us," he emphasized.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/12/tiktok-ceo-bytedance-ai-scientific-breakthroughs.html",
-    publishedAt: "2026-10-12T04:24:33+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "oil-falls-after-trump-declares-energy-ce-59a248d0",
-    title: "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
-    titleJa: "Oil falls after Trump declares 'energy ceasefire' between Russia and Ukraine",
-    summaryJa: "Ukrainian President Volodymyr Zelenskyy said in a post on social media that \"Ukraine supports the ceasefire, and it is important that Russia support it as well.\"",
-    bodyOriginal: `Oil fell Monday on optimism of improved supplies after President Donald Trump said that Russia and Ukraine will not be targeting each other's energy facilities, while Iran reached out to Saudi Arabia after Houthi attacks against the kingdom.
-Futures for international benchmark Brent crude for December delivery dropped 1.33% to $103.33 a barrel. U.S. West Texas Intermediate futures for November declined 1.68% to $90.31 per barrel.
-"Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine. Both parties have agreed. Do not break it!" Trump said in a social media statement Sunday stateside.
-Ukrainian President Volodymyr Zelenskyy said in a post on social media that "Ukraine supports the ceasefire, and it is important that Russia support it as well."
-Prospects of more Russian energy hitting markets after a deal with the U.S. have also risen after Trump said Friday that Moscow will supply more than 4 million tons of diesel to the global market under a deal he struck with Putin during a phone call.
-According to the Saudi state news agency, Iran's Minister of Foreign Affairs Abbas Araghchi made a phone call to Saudi Arabia's Minister of Foreign Affairs Faisal bin Farhan bin Abdullah, to discuss about the region's recent escalation of events as well as the efforts to address it.
-Al Jazeera reported Araghchi had said Iran was ready to provide assistance to help with the start of dialogue between Saudi Arabia and Yemen's Houthis.
-Oil prices are expected to remain volatile in the near term as the U.S.-Iran conflict continues, while the impact of Hurricane Isaias on U.S. energy producers could also hurt supplies .
-"The pressure on oil prices could remain on the upside as Hurricane Isaias strengthened to Category 3 with 120mph winds as it approached the US Gulf Coast, forcing energy producers to curtail offshore output," UOB said in a note on Monday.
-"Separately, Houthi missile strikes on Saudi Arabia's Riyadh airport on Sat which killed 12 people and injured over 300, have materially elevated Middle East risk premia," UOB added.`,
-    bodyJa: `Oil fell Monday on optimism of improved supplies after President Donald Trump said that Russia and Ukraine will not be targeting each other's energy facilities, while Iran reached out to Saudi Arabia after Houthi attacks against the kingdom.
-Futures for international benchmark Brent crude for December delivery dropped 1.33% to $103.33 a barrel. U.S. West Texas Intermediate futures for November declined 1.68% to $90.31 per barrel.
-"Effective immediately, there is an ENERGY CEASEFIRE in the War between Russia and Ukraine. Both parties have agreed. Do not break it!" Trump said in a social media statement Sunday stateside.
-Ukrainian President Volodymyr Zelenskyy said in a post on social media that "Ukraine supports the ceasefire, and it is important that Russia support it as well."
-Prospects of more Russian energy hitting markets after a deal with the U.S. have also risen after Trump said Friday that Moscow will supply more than 4 million tons of diesel to the global market under a deal he struck with Putin during a phone call.
-According to the Saudi state news agency, Iran's Minister of Foreign Affairs Abbas Araghchi made a phone call to Saudi Arabia's Minister of Foreign Affairs Faisal bin Farhan bin Abdullah, to discuss about the region's recent escalation of events as well as the efforts to address it.
-Al Jazeera reported Araghchi had said Iran was ready to provide assistance to help with the start of dialogue between Saudi Arabia and Yemen's Houthis.
-Oil prices are expected to remain volatile in the near term as the U.S.-Iran conflict continues, while the impact of Hurricane Isaias on U.S. energy producers could also hurt supplies .
-"The pressure on oil prices could remain on the upside as Hurricane Isaias strengthened to Category 3 with 120mph winds as it approached the US Gulf Coast, forcing energy producers to curtail offshore output," UOB said in a note on Monday.
-"Separately, Houthi missile strikes on Saudi Arabia's Riyadh airport on Sat which killed 12 people and injured over 300, have materially elevated Middle East risk premia," UOB added.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/12/oil-prics-today-iran-us-saudi-arabia-crude-.html",
-    publishedAt: "2026-10-12T04:21:21+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "judge-orders-trump-administration-to-imm-7996a912",
-    title: "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
-    titleJa: "Judge orders Trump administration to immediately stop taxpayer-funded TV ads",
-    summaryJa: "The ads featuring President Trump have been criticized as government propaganda and as aimed at influencing the outcome of the midterm election.",
-    bodyOriginal: `A federal judge in New York ordered the Trump administration Sunday night to immediately stop airing controversial government-funded television ads featuring President Donald Trump that critics call political propaganda intended to influence the November midterm election.
-The temporary restraining order by Judge Jennifer Rochon in Manhattan federal court also bars the Department of Homeland Security from spending any more of the $20 million allocated for the ad campaign. About $19 million of that allocation has already been spent on the ads.
-The order came a day after the Manhattan U.S. Attorney's Office, which is defending the Trump administration in a lawsuit challenging the ads, told Rochon that the ads would not continue being aired past Sunday.
-Rochon's order, which lasts 14 days unless extended, directs the Trump administration to cancel all scheduled ads, including those due to air on Sunday evening. The ads have included the caption "Paid for by the U.S. Government" since they began being aired.
-The Manhattan U.S. Attorney's Office declined to comment. The White House didn't immediately respond to a request for comment.
-The money for the ads came from a large appropriation by Congress for immigration enforcement.
-The coalition of plaintiffs that sued to block the ads told Rochon earlier Sunday that she should issue the TRO despite the claim by the U.S. Attorney's Office that the ads would not continue past Sunday.
-"Defendants admit that appropriated funds were used to pay for political ads and do not dispute
-that this use of taxpayer money is unlawful," the plaintiffs said in a court filing Sunday.
-"Instead, much of Defendants' opposition boils down to a single premise: it is too late for the Court to act. That is not because Defendants have stopped airing the ads," the plaintiffs said. "Indeed, Defendants assert — boldly, given their failure to defend the ads on the merits — that ads will continue to air today, including during evening programming that will attract millions of viewers."
-Rochon agreed, saying in her order that the TRO request was not rendered moot by the U.S. Attorney's statement that the ads would stop Sunday. The judge also rejected an argument by the Justice Department that the coalition lacked legal standing to challenge the ads.
-Rochon said the coalition has shown it was likely to win the lawsuit, that it would suffer irreparable harm if the TRO was not granted, and that "an injunction serves the public interest."
-In addition to the other actions, the judge ordered the Trump administration not to enter into any new agreement or expand existing ones for the ads. And she stayed a purchase order for the ads between U.S. Customs and Border Protection and a contractor, Lepugh Inc., doing business as LMD Agency Inc.
-Rochon said she would soon issue a full opinion explaining her ruling.
-The coalition, which filed its lawsuit on Oct. 7, includes the advocacy group Common Cause and the Service Employees International Union Local 32BJ, which is headquartered in New York City.
-A separate lawsuit challenging the ads was filed that same day by the Democratic National Committee.
-The ads, which have been airing for weeks, drew criticism from Democrats who said they appear designed to help Trump's fellow Republicans in November's election, which will determine which political party controls both chambers of Congress.
-In its lawsuit, the coalition described one ad, titled "The Country He Loves," as featuring "rapid cuts of photos and videos of President Trump mixed in with text touting what the President views as his accomplishments in office," which includes "Largest Tax Cuts in History;" "Reigniting American Manufacturing;" and "Defend Law and Order and Police."
-"Between those messages, the screen repeatedly flashes the words "AMERICA WILL NEVER BE A COMMUNIST COUNTRY," the civil complaint noted.
-Sen. Maggie Hassan, D-N.H., wrote White House chief of staff Susie Wiles on Sept. 24, a day after that ad first aired.
-"The advertisement does not have a clear official government purpose and appears to run afoul of federal prohibitions against the use of appropriated funds as part of 'a general propaganda effort designed to aid a political party or candidates,'" Hassan wrote.
-Trump, in the face of that criticism, on Oct. 5 said that going forward he or his super PAC, MAGA Inc., would pay for the ads. The White House later said the president would not reimburse the federal government for the cost of the ads that had already aired.
-In a statement Sunday evening on Rochon's order, the coalition said, "We are pleased the court acted swiftly to prevent more taxpayer dollars from being used for such blatantly unlawful political propaganda."
-"There is no legal justification — and no precedent — for the president to use the machinery of the government and funds set aside by Congress for other uses to influence electoral outcomes that further his own agenda," the coalition said, referring to President Donald Trump.
-"As this case moves forward and voters make their voices heard in this election, we will work to ensure the rule of law continues to be upheld, protecting the rights of voters and our democracy."`,
-    bodyJa: `A federal judge in New York ordered the Trump administration Sunday night to immediately stop airing controversial government-funded television ads featuring President Donald Trump that critics call political propaganda intended to influence the November midterm election.
-The temporary restraining order by Judge Jennifer Rochon in Manhattan federal court also bars the Department of Homeland Security from spending any more of the $20 million allocated for the ad campaign. About $19 million of that allocation has already been spent on the ads.
-The order came a day after the Manhattan U.S. Attorney's Office, which is defending the Trump administration in a lawsuit challenging the ads, told Rochon that the ads would not continue being aired past Sunday.
-Rochon's order, which lasts 14 days unless extended, directs the Trump administration to cancel all scheduled ads, including those due to air on Sunday evening. The ads have included the caption "Paid for by the U.S. Government" since they began being aired.
-The Manhattan U.S. Attorney's Office declined to comment. The White House didn't immediately respond to a request for comment.
-The money for the ads came from a large appropriation by Congress for immigration enforcement.
-The coalition of plaintiffs that sued to block the ads told Rochon earlier Sunday that she should issue the TRO despite the claim by the U.S. Attorney's Office that the ads would not continue past Sunday.
-"Defendants admit that appropriated funds were used to pay for political ads and do not dispute
-that this use of taxpayer money is unlawful," the plaintiffs said in a court filing Sunday.
-"Instead, much of Defendants' opposition boils down to a single premise: it is too late for the Court to act. That is not because Defendants have stopped airing the ads," the plaintiffs said. "Indeed, Defendants assert — boldly, given their failure to defend the ads on the merits — that ads will continue to air today, including during evening programming that will attract millions of viewers."
-Rochon agreed, saying in her order that the TRO request was not rendered moot by the U.S. Attorney's statement that the ads would stop Sunday. The judge also rejected an argument by the Justice Department that the coalition lacked legal standing to challenge the ads.
-Rochon said the coalition has shown it was likely to win the lawsuit, that it would suffer irreparable harm if the TRO was not granted, and that "an injunction serves the public interest."
-In addition to the other actions, the judge ordered the Trump administration not to enter into any new agreement or expand existing ones for the ads. And she stayed a purchase order for the ads between U.S. Customs and Border Protection and a contractor, Lepugh Inc., doing business as LMD Agency Inc.
-Rochon said she would soon issue a full opinion explaining her ruling.
-The coalition, which filed its lawsuit on Oct. 7, includes the advocacy group Common Cause and the Service Employees International Union Local 32BJ, which is headquartered in New York City.
-A separate lawsuit challenging the ads was filed that same day by the Democratic National Committee.
-The ads, which have been airing for weeks, drew criticism from Democrats who said they appear designed to help Trump's fellow Republicans in November's election, which will determine which political party controls both chambers of Congress.
-In its lawsuit, the coalition described one ad, titled "The Country He Loves," as featuring "rapid cuts of photos and videos of President Trump mixed in with text touting what the President views as his accomplishments in office," which includes "Largest Tax Cuts in History;" "Reigniting American Manufacturing;" and "Defend Law and Order and Police."
-"Between those messages, the screen repeatedly flashes the words "AMERICA WILL NEVER BE A COMMUNIST COUNTRY," the civil complaint noted.
-Sen. Maggie Hassan, D-N.H., wrote White House chief of staff Susie Wiles on Sept. 24, a day after that ad first aired.
-"The advertisement does not have a clear official government purpose and appears to run afoul of federal prohibitions against the use of appropriated funds as part of 'a general propaganda effort designed to aid a political party or candidates,'" Hassan wrote.
-Trump, in the face of that criticism, on Oct. 5 said that going forward he or his super PAC, MAGA Inc., would pay for the ads. The White House later said the president would not reimburse the federal government for the cost of the ads that had already aired.
-In a statement Sunday evening on Rochon's order, the coalition said, "We are pleased the court acted swiftly to prevent more taxpayer dollars from being used for such blatantly unlawful political propaganda."
-"There is no legal justification — and no precedent — for the president to use the machinery of the government and funds set aside by Congress for other uses to influence electoral outcomes that further his own agenda," the coalition said, referring to President Donald Trump.
-"As this case moves forward and voters make their voices heard in this election, we will work to ensure the rule of law continues to be upheld, protecting the rights of voters and our democracy."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html",
-    publishedAt: "2026-10-12T02:28:54+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "roofing-scammers-con-homeowners-out-of-t-e5c126d3",
-    title: "Roofing scammers con homeowners out of thousands of pounds",
-    titleJa: "Roofing scammers con homeowners out of thousands of pounds",
-    summaryJa: "One in 10 scams reported to Citizens Advice relate to fraudsters charging for work not done, or done badly.",
-    bodyOriginal: `Roofing scammers con homeowners out of thousands of pounds
-- Published
-Scammers pretending to be legitimate workmen are charging homeowners thousands of pounds for roofing work that is not completed, done badly or not necessary, according to Citizens Advice.
-The consumer advice charity says one in 10 of all the scams it recorded over the past year were related to roofing, making it the most common type of scam brought to them.
-It can leave victims like Crystal, from the Midlands, thousands of pounds out of pocket.
-The 68-year-old was frightened and found it hard to sleep after a rogue builder left her roof with dislodged bricks and blocked gutters.
-She said she felt pressured into agreeing to having her roof re-done and paid a total of £5,500, only for the original contractor to send his son instead, who left work in the eaves incomplete.
-"We had heavy rain a couple of weeks after he did the job, and it ended up like a waterfall coming down the wall," she said.
-Her neighbour's house was also damaged.
-"They took the lead off my neighbour's side of the chimney, which caused bricks to fall into his attic and the rain to go into his house," she told the BBC.
-The experience still haunts her: "I can't sleep. I don't eat properly".
-In the year to August the Citizens Advice Consumer Service received 9,000 complaints about roofing work, including problems with construction, repairs and weatherproofing.
-Of those 2,205, or about one in four complaints, were suspected scams, up from 2,098 the year before.
-Dame Clare Moriarty, chief executive of Citizens Advice, urged consumers to carry out thorough checks on traders before agreeing to hire them.
-"Scammers exploit the fact that roofs are out of sight and reach, knowing most people can't easily inspect the work themselves," she said.
-Victims also reported aggressive and intimidating behaviour, with three quarters of fraudsters using "doorstep" sales tactics.
-Citizens Advice cited the case of Charlotte, 65, who lives alone in north eastern England.
-Tradesmen she found online initially offered to fix her leaking gutter for £250. The two men then said there was further work that needed to be done, that would cost £2,500.
-"An hour later they said it was sorted, but they'd found another problem," she said.
-It was dark and Charlotte felt afraid. "They knew I was alone, I didn't feel like I could deal with anything that might happen after, so I paid £3,500," she said.
-But the next day she could see no sign of any work having been done, she said.
-To avoid falling victim to roofing scams, Citizens Advice suggests:
-Be alert: Always ask for references and for everything to be in writing. Be wary of unsolicited doorknockers and callers
-Gather evidence: If a trader causes problems, be sure to take photos and gather the necessary paperwork and receipts
-Know your rights: Traders must give you the information about your right to cancel in writing. If the job is not done with "reasonable care and skill," the Consumer Rights Act 2015 also entitles you to ask for the problem to be fixed or a refund
-Lord Bichard, chair of National Trading Standards, said rogue traders were "criminals deliberately preying on people in their own homes".
-He described roofing fraud as "particularly cruel", and said Trading Standards would pursue fraudsters through legal routes.
-"Victims can lose life savings in a matter of hours and be left with damaged homes, financial hardship and a profound sense of vulnerability long after the criminals have gone," he said.`,
-    bodyJa: `Roofing scammers con homeowners out of thousands of pounds
-- Published
-Scammers pretending to be legitimate workmen are charging homeowners thousands of pounds for roofing work that is not completed, done badly or not necessary, according to Citizens Advice.
-The consumer advice charity says one in 10 of all the scams it recorded over the past year were related to roofing, making it the most common type of scam brought to them.
-It can leave victims like Crystal, from the Midlands, thousands of pounds out of pocket.
-The 68-year-old was frightened and found it hard to sleep after a rogue builder left her roof with dislodged bricks and blocked gutters.
-She said she felt pressured into agreeing to having her roof re-done and paid a total of £5,500, only for the original contractor to send his son instead, who left work in the eaves incomplete.
-"We had heavy rain a couple of weeks after he did the job, and it ended up like a waterfall coming down the wall," she said.
-Her neighbour's house was also damaged.
-"They took the lead off my neighbour's side of the chimney, which caused bricks to fall into his attic and the rain to go into his house," she told the BBC.
-The experience still haunts her: "I can't sleep. I don't eat properly".
-In the year to August the Citizens Advice Consumer Service received 9,000 complaints about roofing work, including problems with construction, repairs and weatherproofing.
-Of those 2,205, or about one in four complaints, were suspected scams, up from 2,098 the year before.
-Dame Clare Moriarty, chief executive of Citizens Advice, urged consumers to carry out thorough checks on traders before agreeing to hire them.
-"Scammers exploit the fact that roofs are out of sight and reach, knowing most people can't easily inspect the work themselves," she said.
-Victims also reported aggressive and intimidating behaviour, with three quarters of fraudsters using "doorstep" sales tactics.
-Citizens Advice cited the case of Charlotte, 65, who lives alone in north eastern England.
-Tradesmen she found online initially offered to fix her leaking gutter for £250. The two men then said there was further work that needed to be done, that would cost £2,500.
-"An hour later they said it was sorted, but they'd found another problem," she said.
-It was dark and Charlotte felt afraid. "They knew I was alone, I didn't feel like I could deal with anything that might happen after, so I paid £3,500," she said.
-But the next day she could see no sign of any work having been done, she said.
-To avoid falling victim to roofing scams, Citizens Advice suggests:
-Be alert: Always ask for references and for everything to be in writing. Be wary of unsolicited doorknockers and callers
-Gather evidence: If a trader causes problems, be sure to take photos and gather the necessary paperwork and receipts
-Know your rights: Traders must give you the information about your right to cancel in writing. If the job is not done with "reasonable care and skill," the Consumer Rights Act 2015 also entitles you to ask for the problem to be fixed or a refund
-Lord Bichard, chair of National Trading Standards, said rogue traders were "criminals deliberately preying on people in their own homes".
-He described roofing fraud as "particularly cruel", and said Trading Standards would pursue fraudsters through legal routes.
-"Victims can lose life savings in a matter of hours and be left with damaged homes, financial hardship and a profound sense of vulnerability long after the criminals have gone," he said.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6x29kydnzv0o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-11T23:19:49+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da61/live/bdf1b350-c3ef-11f1-913a-eb4b8e15ad15.jpg",
-    readTime: 9,
-  },
-  {
-    id: "debt-advice-that-may-leave-you-owing-eve-a6423a03",
-    title: "Debt advice that may leave you owing even more money",
-    titleJa: "Debt advice that may leave you owing even more money",
-    summaryJa: "People are increasingly falling behind on credit card repayments, so here's the best way to get debt advice.",
-    bodyOriginal: `Debt advice that may leave you owing even more money
-- Published
-An increasing number of people are missing credit card repayments as finances are stretched by rising bills.
-Lenders have told the Bank of England they expect the number of unpaid credit card debts to keep going up this autumn.
-This could lead to more demand for advice on how to deal with debts – but, if you are struggling and need help, there are some traps to avoid.
-And it is worth remembering that impartial advice is available free of charge from debt charities. So here's what to think about.
-How to find help
-If you find yourself with money troubles, it can be tempting to seize any opportunity to get things back on track.
-Social media and internet search pages are full of supposed quick-fix debt solutions. Cold calls and WhatsApp messages also promise debt help.
-But they may well come with upfront fees, unrealistic claims about writing off debt, and pressure to make a quick decision.
-Suggestions on the best way to find help include:
-Impartial, authorised debt advice comes free. You can find a provider on the government-backed Moneyhelper website, external
-Check whether a firm offering debt help is authorised by the regulator, the Financial Conduct Authority (FCA). You should cross-check the authorisation details they give with the FCA's register, external
-Anyone unhappy with the service from an authorised firm can complain and, if you are still not happy, go to the independent Financial Ombudsman Service.
-Alison Walters, director of consumer finance at the FCA, said: "Anyone struggling with debt deserves advice that puts their interests first.
-"Free, impartial debt advice is available to everyone, and no one should be pressured or misled into paying for a debt solution that may not be right for them."
-The warning signs of being misled
-The FCA says that some unregulated firms collect people's details, through cold calling or online adverts, sometimes impersonating debt advice charities or debt collectors, and pass this information on to firms offering debt solutions that you pay for.
-A quick search online will throw up lots of businesses offering ways to clear your debt, not all of which are trustworthy, according to charities.
-Warning signs of unscrupulous firms include pressure tactics, such as repeated contact, often in messages and on the phone, pushing people to agree to a debt solution, the FCA says.
-Some people have been encouraged to change financial details on lenders' paperwork, or are "coached" in ways to respond.
-Sometimes people are steered towards a fee-charging debt solution, such as Individual Voluntary Arrangements (IVAs) or some debt management plans, without alternative options being properly explained or offered first.
-And, do you know who you are talking to? Ask them who they work for, and check if their details match the firm's official details.
-"Before making any decisions around how to deal with your debts, it's always worth getting full, free and impartial debt advice first, exploring all options to clear your debt in the safest and most sustainable way," said Vikki Brownridge, chief executive at debt charity StepChange.
-Related topics
-- Published15 July
-- Published10 June`,
-    bodyJa: `Debt advice that may leave you owing even more money
-- Published
-An increasing number of people are missing credit card repayments as finances are stretched by rising bills.
-Lenders have told the Bank of England they expect the number of unpaid credit card debts to keep going up this autumn.
-This could lead to more demand for advice on how to deal with debts – but, if you are struggling and need help, there are some traps to avoid.
-And it is worth remembering that impartial advice is available free of charge from debt charities. So here's what to think about.
-How to find help
-If you find yourself with money troubles, it can be tempting to seize any opportunity to get things back on track.
-Social media and internet search pages are full of supposed quick-fix debt solutions. Cold calls and WhatsApp messages also promise debt help.
-But they may well come with upfront fees, unrealistic claims about writing off debt, and pressure to make a quick decision.
-Suggestions on the best way to find help include:
-Impartial, authorised debt advice comes free. You can find a provider on the government-backed Moneyhelper website, external
-Check whether a firm offering debt help is authorised by the regulator, the Financial Conduct Authority (FCA). You should cross-check the authorisation details they give with the FCA's register, external
-Anyone unhappy with the service from an authorised firm can complain and, if you are still not happy, go to the independent Financial Ombudsman Service.
-Alison Walters, director of consumer finance at the FCA, said: "Anyone struggling with debt deserves advice that puts their interests first.
-"Free, impartial debt advice is available to everyone, and no one should be pressured or misled into paying for a debt solution that may not be right for them."
-The warning signs of being misled
-The FCA says that some unregulated firms collect people's details, through cold calling or online adverts, sometimes impersonating debt advice charities or debt collectors, and pass this information on to firms offering debt solutions that you pay for.
-A quick search online will throw up lots of businesses offering ways to clear your debt, not all of which are trustworthy, according to charities.
-Warning signs of unscrupulous firms include pressure tactics, such as repeated contact, often in messages and on the phone, pushing people to agree to a debt solution, the FCA says.
-Some people have been encouraged to change financial details on lenders' paperwork, or are "coached" in ways to respond.
-Sometimes people are steered towards a fee-charging debt solution, such as Individual Voluntary Arrangements (IVAs) or some debt management plans, without alternative options being properly explained or offered first.
-And, do you know who you are talking to? Ask them who they work for, and check if their details match the firm's official details.
-"Before making any decisions around how to deal with your debts, it's always worth getting full, free and impartial debt advice first, exploring all options to clear your debt in the safest and most sustainable way," said Vikki Brownridge, chief executive at debt charity StepChange.
-Related topics
-- Published15 July
-- Published10 June`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c84g1xz1l9ddo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-11T23:19:07+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a441/live/c56267d0-c31b-11f1-bd97-fbe5a3482cde.jpg",
-    readTime: 8,
-  },
-  {
-    id: "trump-faces-growing-backlash-over-plans-87036ac9",
-    title: "Trump faces growing backlash over plans to import diesel from Russia",
-    titleJa: "Trump faces growing backlash over plans to import diesel from Russia",
-    summaryJa: "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.",
-    bodyOriginal: `Trump faces growing backlash over plans to import diesel from Russia
-- Published
-US President Donald Trump is facing a growing backlash over plans to import diesel from Russia as the Iran war continues to impact global energy prices.
-Trump on Friday announced that Russian President Vladimir Putin had agreed to release 300,000 tonnes of diesel immediately "to the American and global marketplace" followed by several other shipments.
-That is despite signing legislation to authorise fresh US sanctions and tariffs on nations that import Russian oil and gas just weeks ago.
-The move has been criticised by some Republican and Democratic lawmakers, who believe the deal violates US laws.
-As well as the initial release of 300,000 tonnes of diesel, Trump said Russia would then supply 500,000 tonnes in November and one million more after that.
-This would be followed by a further three million tonnes, which would be delivered "within a short period" dependent on the condition of its refineries, which have been attacked by Ukraine during the ongoing war between the two countries.
-"Lower prices for Americans, especially our Great Farmers, Ranchers, and Truckers, is my Greatest Priority," Trump wrote in a Truth Social post.
-Russia's Deputy Prime Minister Alexander Novak confirmed these numbers to Tass, the country's state-owned news agency, saying the export volume could reach three million tonnes per month in future.
-Ukrainian President Volodymyr Zelensky has called the deal a gift to Putin that amounts to "an investment in a war that must be ended".
-It is understood the US Treasury is suspending sanctions on Russian diesel exports until 7 April as part of the deal, but other assets like those in American banks are still frozen.
-A group of seven senators - four Republicans and three Democrats – on Sunday said the deal violated US laws, urging Trump to "reverse course".
-"The United States should not provide Putin with a financial lifeline while Russia continues to kill Ukrainian civilians," the lawmakers said.
-They added that Congress had "explicitly banned Russian energy imports in 2022 to prevent American dollars from financing Putin's brutal war against Ukraine".
-The statement was signed by Republicans Susan Collins, Lisa Murkowski, Thom Tillis and John Curtis, as well as Democrats Jeanne Shaheen, Richard Blumenthal and Ron Wyden.
-Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent
-- Published8 hours ago
-Trump wants to reduce the cost of fuel as the midterms loom - will it work?
-- Published2 days ago
-Not everyone is opposed to the deal. Republican Thomas Massie, who has sparred with Trump a number of issues, said the US should lift sanctions on all petroleum products.
-Trump's Treasury Secretary Scott Bessent told Fox News the agreement would work through existing legal channels the US has to help bring prices down and that anyone in Congress who said it would not was wrong.
-Global fuel prices have soared since the US-Israel war with Iran began at the end of February, with the fighting severely disrupting supplies of crude oil - a key ingredient in petrol and diesel.
-The rising prices have become a key issue for Americans ahead of next month's midterms elections, which will determine if Trump's Republican Party maintains control of Congress.
-Polls show a majority of Americans disapprove of his handling of the economy and the war in Iran and he has been searching for ways to ease his party's political pain.
-The toll the war is taking has been acutely felt by US agricultural states, which rely heavily on diesel to operate farming machinery and to transport their products to market.
-The average diesel price in the US is currently $6.28 (£4.74) a gallon, according to the AAA, down from the record high of $6.53 recorded at the end of September.
-Analysts have questioned whether Russia is capable of providing that quantity of diesel and the extent to which doing so will ease prices for American consumers.
-The US uses approximately 3.6 million barrels of diesel a day, so even if Russia delivers its promised 300,000 tons this month, which amounts to approximately half of the US daily consumption.
-It is not only at home that Trump is facing opposition to his diesel deal with Russia. A number of international leaders have criticised it, including Canadian Prime Minister Mark Carney and UK Defence Secretary Wes Streeting, who said the US and other allies of Ukraine should focus on ramping up pressure on Russia to end the war.
-Meanwhile, Trump announced in Sunday that Russia and Ukraine had reached an "energy ceasefire" but did not give more details. Ukrainian President Volodymyr Zelensky welcomed this but there was no response from Moscow.
-Related topics
-- Published18 hours ago`,
-    bodyJa: `Trump faces growing backlash over plans to import diesel from Russia
-- Published
-US President Donald Trump is facing a growing backlash over plans to import diesel from Russia as the Iran war continues to impact global energy prices.
-Trump on Friday announced that Russian President Vladimir Putin had agreed to release 300,000 tonnes of diesel immediately "to the American and global marketplace" followed by several other shipments.
-That is despite signing legislation to authorise fresh US sanctions and tariffs on nations that import Russian oil and gas just weeks ago.
-The move has been criticised by some Republican and Democratic lawmakers, who believe the deal violates US laws.
-As well as the initial release of 300,000 tonnes of diesel, Trump said Russia would then supply 500,000 tonnes in November and one million more after that.
-This would be followed by a further three million tonnes, which would be delivered "within a short period" dependent on the condition of its refineries, which have been attacked by Ukraine during the ongoing war between the two countries.
-"Lower prices for Americans, especially our Great Farmers, Ranchers, and Truckers, is my Greatest Priority," Trump wrote in a Truth Social post.
-Russia's Deputy Prime Minister Alexander Novak confirmed these numbers to Tass, the country's state-owned news agency, saying the export volume could reach three million tonnes per month in future.
-Ukrainian President Volodymyr Zelensky has called the deal a gift to Putin that amounts to "an investment in a war that must be ended".
-It is understood the US Treasury is suspending sanctions on Russian diesel exports until 7 April as part of the deal, but other assets like those in American banks are still frozen.
-A group of seven senators - four Republicans and three Democrats – on Sunday said the deal violated US laws, urging Trump to "reverse course".
-"The United States should not provide Putin with a financial lifeline while Russia continues to kill Ukrainian civilians," the lawmakers said.
-They added that Congress had "explicitly banned Russian energy imports in 2022 to prevent American dollars from financing Putin's brutal war against Ukraine".
-The statement was signed by Republicans Susan Collins, Lisa Murkowski, Thom Tillis and John Curtis, as well as Democrats Jeanne Shaheen, Richard Blumenthal and Ron Wyden.
-Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent
-- Published8 hours ago
-Trump wants to reduce the cost of fuel as the midterms loom - will it work?
-- Published2 days ago
-Not everyone is opposed to the deal. Republican Thomas Massie, who has sparred with Trump a number of issues, said the US should lift sanctions on all petroleum products.
-Trump's Treasury Secretary Scott Bessent told Fox News the agreement would work through existing legal channels the US has to help bring prices down and that anyone in Congress who said it would not was wrong.
-Global fuel prices have soared since the US-Israel war with Iran began at the end of February, with the fighting severely disrupting supplies of crude oil - a key ingredient in petrol and diesel.
-The rising prices have become a key issue for Americans ahead of next month's midterms elections, which will determine if Trump's Republican Party maintains control of Congress.
-Polls show a majority of Americans disapprove of his handling of the economy and the war in Iran and he has been searching for ways to ease his party's political pain.
-The toll the war is taking has been acutely felt by US agricultural states, which rely heavily on diesel to operate farming machinery and to transport their products to market.
-The average diesel price in the US is currently $6.28 (£4.74) a gallon, according to the AAA, down from the record high of $6.53 recorded at the end of September.
-Analysts have questioned whether Russia is capable of providing that quantity of diesel and the extent to which doing so will ease prices for American consumers.
-The US uses approximately 3.6 million barrels of diesel a day, so even if Russia delivers its promised 300,000 tons this month, which amounts to approximately half of the US daily consumption.
-It is not only at home that Trump is facing opposition to his diesel deal with Russia. A number of international leaders have criticised it, including Canadian Prime Minister Mark Carney and UK Defence Secretary Wes Streeting, who said the US and other allies of Ukraine should focus on ramping up pressure on Russia to end the war.
-Meanwhile, Trump announced in Sunday that Russia and Ukraine had reached an "energy ceasefire" but did not give more details. Ukrainian President Volodymyr Zelensky welcomed this but there was no response from Moscow.
-Related topics
-- Published18 hours ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-11T23:18:45+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c44f/live/e68c78a0-c5c9-11f1-9042-5f0794d5e895.jpg",
-    readTime: 10,
-  },
-  {
-    id: "ai-is-less-regulated-than-milk-says-micr-145f3d12",
-    title: "AI is less regulated than milk, says Microsoft president",
-    titleJa: "AI is less regulated than milk, says Microsoft president",
-    summaryJa: "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
-    bodyOriginal: `AI is less regulated than milk, says Microsoft president
-- Published
-Milk and washing machines are currently more regulated than AI, the president of Microsoft has said.
-Brad Smith said there needed to be global safety rules in place, including a legal obligation to tell a "victim" if their system is breached by a rogue AI agent as well as deciding when outside evaluators should sign off on an AI product before it is released.
-His comments put him at odds with President Donald Trump, who said the sector should regulate itself so US firms don't lose out to Chinese rivals.
-But Smith said: "Right now, your washing machine is subject to more safety rules than AI. Every carton of milk that you see in the grocery store is subject to safety rules and inspection."
-Demands for laws and rules to control AI have grown after experts in the sector said they believed the technology its a threat to humanity.
-The bosses of the US-based AI giants such as Anthropic, OpenAI and Google DeepMind have all backed the idea of an AI development slowdown, but Trump has pushed against this.
-Speaking to the BBC's Big Boss Interview, Smith called AI both a "tool and a weapon" that urgently needed to be regulated.
-"Let's get started today," he said.
-He said firms need "emergency brakes" – often known in the industry as 'kill switches' – to pause or slowdown AI if it got out of control in some way.
-He also said there should be a legal requirement for firms to write "incident reports" and tell victims if the technology goes rogue. He also suggested that independent government evaluators should vet new AI technology.
-"We know how to do this for other products," Smith said. "We should build on that knowledge and think about how to apply it to AI."
-Smith said the UK was best placed to drive forward these global rules for AI because of its AI Security Institute, external, launched during former prime minister Rishi Sunak's government as the AI Safety Institute.
-"In the world of technology, in the tech sector, most people that I know would say, if you ask them, name the country that is the leader in having this technical capability, they would say, it's very simple. It's the United Kingdom. They are the best."
-'The moment has arrived'
-Smith's views are very different to those of his president, who believes the US should be going full-steam ahead on AI.
-Trump has repeatedly said that "whoever wins AI, wins".
-However, Smith does not believe the US government would be as opposed to UK-led AI regulations as Trump's comments make it seem, suggesting the US would be more accepting of the UK making standards than the EU.
-"In Washington DC, people don't look at the UK and they don't look at London the way they look at Brussels – that's a strength," he said.
-"When you look at AI agents that have escaped human control, when you look at models that are so powerful that they're putting the world's cybersecurity at risk. I would say: The moment has arrived.
-"Let's speak calmly, maybe even softly, but firmly, and start to bring people together. I hope that's the role we can play as a company. I hope that's the role the UK can play as a country."
-At the end of last month, Trump hosted the leaders of US tech giants OpenAI, Anthropic, Nvidia, SpaceX, Meta, and Google at the White House where the executives signed a "morally binding" document.
-The companies agreed to work with "independent auditors" to assess whether their AI systems are working as intended and make sure they do not "hack or access technical systems in unintended ways".
-Smith said he applauds the statement and Microsoft is "happy to sign it".
-"It's a good step, it's a necessary step... But I don't think it's sufficient any longer."
-He added that the challenge for any "self-regulatory regime" is that "the good companies will do what you want".
-"It's the companies that are not as responsible that you need to worry about."`,
-    bodyJa: `AI is less regulated than milk, says Microsoft president
-- Published
-Milk and washing machines are currently more regulated than AI, the president of Microsoft has said.
-Brad Smith said there needed to be global safety rules in place, including a legal obligation to tell a "victim" if their system is breached by a rogue AI agent as well as deciding when outside evaluators should sign off on an AI product before it is released.
-His comments put him at odds with President Donald Trump, who said the sector should regulate itself so US firms don't lose out to Chinese rivals.
-But Smith said: "Right now, your washing machine is subject to more safety rules than AI. Every carton of milk that you see in the grocery store is subject to safety rules and inspection."
-Demands for laws and rules to control AI have grown after experts in the sector said they believed the technology its a threat to humanity.
-The bosses of the US-based AI giants such as Anthropic, OpenAI and Google DeepMind have all backed the idea of an AI development slowdown, but Trump has pushed against this.
-Speaking to the BBC's Big Boss Interview, Smith called AI both a "tool and a weapon" that urgently needed to be regulated.
-"Let's get started today," he said.
-He said firms need "emergency brakes" – often known in the industry as 'kill switches' – to pause or slowdown AI if it got out of control in some way.
-He also said there should be a legal requirement for firms to write "incident reports" and tell victims if the technology goes rogue. He also suggested that independent government evaluators should vet new AI technology.
-"We know how to do this for other products," Smith said. "We should build on that knowledge and think about how to apply it to AI."
-Smith said the UK was best placed to drive forward these global rules for AI because of its AI Security Institute, external, launched during former prime minister Rishi Sunak's government as the AI Safety Institute.
-"In the world of technology, in the tech sector, most people that I know would say, if you ask them, name the country that is the leader in having this technical capability, they would say, it's very simple. It's the United Kingdom. They are the best."
-'The moment has arrived'
-Smith's views are very different to those of his president, who believes the US should be going full-steam ahead on AI.
-Trump has repeatedly said that "whoever wins AI, wins".
-However, Smith does not believe the US government would be as opposed to UK-led AI regulations as Trump's comments make it seem, suggesting the US would be more accepting of the UK making standards than the EU.
-"In Washington DC, people don't look at the UK and they don't look at London the way they look at Brussels – that's a strength," he said.
-"When you look at AI agents that have escaped human control, when you look at models that are so powerful that they're putting the world's cybersecurity at risk. I would say: The moment has arrived.
-"Let's speak calmly, maybe even softly, but firmly, and start to bring people together. I hope that's the role we can play as a company. I hope that's the role the UK can play as a country."
-At the end of last month, Trump hosted the leaders of US tech giants OpenAI, Anthropic, Nvidia, SpaceX, Meta, and Google at the White House where the executives signed a "morally binding" document.
-The companies agreed to work with "independent auditors" to assess whether their AI systems are working as intended and make sure they do not "hack or access technical systems in unintended ways".
-Smith said he applauds the statement and Microsoft is "happy to sign it".
-"It's a good step, it's a necessary step... But I don't think it's sufficient any longer."
-He added that the challenge for any "self-regulatory regime" is that "the good companies will do what you want".
-"It's the companies that are not as responsible that you need to worry about."`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-11T23:07:35+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc1a/live/a75b5120-c40b-11f1-9a39-31b474234113.jpg",
-    readTime: 10,
-  },
-  {
-    id: "iran-war-threatens-healey-s-budget-plans-eb1ae5d6",
-    title: "Iran war threatens Healey's Budget plans, think tank warns",
-    titleJa: "Iran war threatens Healey's Budget plans, think tank warns",
-    summaryJa: "The impact of the Iran war poses significant risks for the government’s spending plans, the Institute for Fiscal Studies says.",
-    bodyOriginal: `Iran war threatens Healey's Budget plans, think tank warns
-- Published
-The price spike caused by the US-Israel war in Iran poses a major challenge for Chancellor John Healey as he puts together his first Budget, an influential think tank has warned.
-Higher-than-expected inflation could eat into what the government hoped to spend on public services, meaning Healey will have to choose between spending cuts, tax rises, or a mixture of both, the Institute for Fiscal Studies (IFS) said.
-It urged the government to ensure its spending plans are credible, as opposed to proposing unrealistic future cuts to make the Budget add up.
-The Treasury declined to comment on "rumour and speculation".
-However, speaking ahead of the annual International Monetary Fund meeting this week, Healey said: "The consequences of conflict in the Middle East and Europe are hitting countries worldwide, leading to higher prices at the pumps and more expensive mortgages at home.
-"But Britain and our allies can face up to these challenges together."
-He said his Budget "will build on this approach with fiscal discipline helping to deliver economic resilience" and give people "breathing space".
-However, the government is under growing pressure to show financial markets that it has a tight grip on finances as the cost of borrowing rises.
-The IFS cautioned Healey about making any spending announcements in the 28 October Budget speech he has no intention of honouring.
-"A 'steady-as-she-goes' Budget is not an option available to the chancellor," said IFS director Helen Miller said.
-"Choosing to stay the course with the inherited tax and spending plans would mean allowing inflation to blow departments' spending plans off course.
-"Simply pencilling in implicit cuts that he has no intention of delivering would make the Budget a work of fiction," she added.
-The US-Israel war against Iran and Russia's invasion of Ukraine have together helped drive up energy prices around the world.
-These higher costs have been passed to customers via higher prices on shelves and at the pumps.
-The wars have also contributed to a rise in the cost of UK government debt interest payments, adding to the pressure on Healey.
-Although higher inflation will boost tax revenues, it will also eat into the value of departments' cash budgets, the IFS said.
-'Breathing space'
-Like other analysts, the IFS thinks recent turbulence on bond markets and higher inflation will add around £10bn to forecasts for the government's borrowing costs in 2029-30.
-However, it still expects the government to meet its self-imposed fiscal rules - that it will only borrow for investment projects by the financial year 2029-30 and also be reducing debt as a percentage of GDP - not least as inflation pushes up tax revenues.
-But it expects those rules to be met by a smaller buffer - known as "headroom" - of around £20bn. That is less than the £24bn buffer predicted at the time of the Spring Statement by the official forecaster, the Office for Budget Responsibility (OBR).
-Recent indications have been that the markets would be comfortable with that degree of reduced headroom. The IFS also expects any "breathing space" help for households to be temporary and limited in scale.
-However, the IFS warns that in such a volatile environment, its forecasts are exceptionally uncertain. And the official forecast from the OBR - which the chancellor relies on when making his plans - may come to a very different conclusion.
-The IFS reckons that to maintain departments' budgets in the face of higher inflation, the government may need to find an extra £25bn in 2029-30.
-That is before consider considering the ambition to raise defence spending. Raising such an amount would point to significant tax rises.
-The chancellor does not have to address spending totals in this Budget, and may choose to leave such decisions until future events - for example, next year's Spring Statement or Spending Review - by which time the outlook for the economy could look very different.
-But the IFS warned that the spending plans inherited from the previous chancellor, Rachel Reeves, would mean some departments' budgets would not keep pace with inflation in a few years time.
-It said not addressing this would cast doubt on the credibility of the government's plans.
-However, previous chancellors have relied on a similar strategy of pencilling in unrealistic future spending plans to ensure that they meet the fiscal rules on the day - only to change the plans further down the line.
-Related topics
-- Published3 days ago`,
-    bodyJa: `Iran war threatens Healey's Budget plans, think tank warns
-- Published
-The price spike caused by the US-Israel war in Iran poses a major challenge for Chancellor John Healey as he puts together his first Budget, an influential think tank has warned.
-Higher-than-expected inflation could eat into what the government hoped to spend on public services, meaning Healey will have to choose between spending cuts, tax rises, or a mixture of both, the Institute for Fiscal Studies (IFS) said.
-It urged the government to ensure its spending plans are credible, as opposed to proposing unrealistic future cuts to make the Budget add up.
-The Treasury declined to comment on "rumour and speculation".
-However, speaking ahead of the annual International Monetary Fund meeting this week, Healey said: "The consequences of conflict in the Middle East and Europe are hitting countries worldwide, leading to higher prices at the pumps and more expensive mortgages at home.
-"But Britain and our allies can face up to these challenges together."
-He said his Budget "will build on this approach with fiscal discipline helping to deliver economic resilience" and give people "breathing space".
-However, the government is under growing pressure to show financial markets that it has a tight grip on finances as the cost of borrowing rises.
-The IFS cautioned Healey about making any spending announcements in the 28 October Budget speech he has no intention of honouring.
-"A 'steady-as-she-goes' Budget is not an option available to the chancellor," said IFS director Helen Miller said.
-"Choosing to stay the course with the inherited tax and spending plans would mean allowing inflation to blow departments' spending plans off course.
-"Simply pencilling in implicit cuts that he has no intention of delivering would make the Budget a work of fiction," she added.
-The US-Israel war against Iran and Russia's invasion of Ukraine have together helped drive up energy prices around the world.
-These higher costs have been passed to customers via higher prices on shelves and at the pumps.
-The wars have also contributed to a rise in the cost of UK government debt interest payments, adding to the pressure on Healey.
-Although higher inflation will boost tax revenues, it will also eat into the value of departments' cash budgets, the IFS said.
-'Breathing space'
-Like other analysts, the IFS thinks recent turbulence on bond markets and higher inflation will add around £10bn to forecasts for the government's borrowing costs in 2029-30.
-However, it still expects the government to meet its self-imposed fiscal rules - that it will only borrow for investment projects by the financial year 2029-30 and also be reducing debt as a percentage of GDP - not least as inflation pushes up tax revenues.
-But it expects those rules to be met by a smaller buffer - known as "headroom" - of around £20bn. That is less than the £24bn buffer predicted at the time of the Spring Statement by the official forecaster, the Office for Budget Responsibility (OBR).
-Recent indications have been that the markets would be comfortable with that degree of reduced headroom. The IFS also expects any "breathing space" help for households to be temporary and limited in scale.
-However, the IFS warns that in such a volatile environment, its forecasts are exceptionally uncertain. And the official forecast from the OBR - which the chancellor relies on when making his plans - may come to a very different conclusion.
-The IFS reckons that to maintain departments' budgets in the face of higher inflation, the government may need to find an extra £25bn in 2029-30.
-That is before consider considering the ambition to raise defence spending. Raising such an amount would point to significant tax rises.
-The chancellor does not have to address spending totals in this Budget, and may choose to leave such decisions until future events - for example, next year's Spring Statement or Spending Review - by which time the outlook for the economy could look very different.
-But the IFS warned that the spending plans inherited from the previous chancellor, Rachel Reeves, would mean some departments' budgets would not keep pace with inflation in a few years time.
-It said not addressing this would cast doubt on the credibility of the government's plans.
-However, previous chancellors have relied on a similar strategy of pencilling in unrealistic future spending plans to ensure that they meet the fiscal rules on the day - only to change the plans further down the line.
-Related topics
-- Published3 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-11T23:04:07+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48bb/live/aeeccb70-c3e4-11f1-badc-154546719036.jpg",
-    readTime: 10,
   },
 ];
 
