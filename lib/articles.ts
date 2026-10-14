@@ -15,6 +15,342 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "the-cola-wars-are-coming-for-social-secu-2e187a5e",
+    title: "The COLA wars are coming for Social Security",
+    titleJa: "The COLA wars are coming for Social Security",
+    summaryJa: "The annual cost-of-living adjustment may soon be capped, curtailed, means-tested or scrapped altogether under various proposals being actively considered",
+    bodyOriginal: `The annual cost-of-living adjustment may soon be capped, curtailed, means-tested or scrapped altogether under various proposals being actively considered`,
+    bodyJa: `The annual cost-of-living adjustment may soon be capped, curtailed, means-tested or scrapped altogether under various proposals being actively considered`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories",
+    publishedAt: "2026-10-14T21:19:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-58308834",
+    readTime: 2,
+  },
+  {
+    id: "openai-bugging-suspect-booked-one-way-ti-4d9f0144",
+    title: "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest",
+    titleJa: "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest",
+    summaryJa: "\"Like countless Americans, Mr. Alfozan came to this country years ago as a young person with a dream,\" his criminal defense lawyer said Wednesday.",
+    bodyOriginal: `Abdulrahman Alfozan, the Saudi national charged with secretly installing a recording device in an executive conference room at OpenAI, had booked a one-way ticket from San Francisco to Saudi Arabia with his wife and a third family member before his arrest, federal prosecutors told a judge in a newly unsealed court filing.
+Alfozan "has the means — and will have the incentive — to flee the United States sooner if he learns about this case before he is arrested," the U.S. Attorney's Office in San Francisco said in the Oct. 8 filing, which asked a judge to seal a criminal complaint against him and a warrant for his arrest.
+The filing said the tickets were booked for Oct. 12, from San Francisco to Saudi Arabia via Istanbul.
+The judge granted the sealing request, and Alfozan was arrested Oct. 9, the Department of Justice has said.
+He has been detained since his arrest.
+Alfozan, 35, is a venture partner in a Saudi Arabian venture capital firm that lists a prince from that nation's ruling royal family as a fellow partner.
+The VC firm, Raed Ventures, says on its website that Alfozan, who lives in the San Francisco area, "is a seasoned technology professional with deep experience in startups, entrepreneurship, and scaling tech companies."
+"He currently serves as Engineering Lead at OpenAI, with a focus on AI Agents and the data platform," Alfozan's bio page on Raed's site says.
+Raed, which focuses on investments in the Middle East, announced Alfozan had joined the firm on Feb. 8, 2025, two days after Raed said Prince Khalid Bin Bader Al Saud had joined as a venture partner. A venture partner usually is a consulting or project-based role, not an investing partner or director who is responsible for raising funds or leading deals.
+Alfozan had worked at OpenAI since July 2025, according to the Department of Justice. The company said it terminated him this month.
+The Financial Times reported Wednesday that when Saudi tech influencers visited San Francisco in September, "it was Alfozan who welcomed them to OpenAI offices where he gave them tours."
+A former CIA official with extensive experience in the Middle East, who spoke on condition of anonymity because of the nature of their past work, told CNBC that Raed Ventures is "basically a state organ" of the Saudi government. One of Raed's funds in December 2024 received an investment from Saudi Venture Capital, a subsidiary of SME Bank, which is part of Saudi Arabia's National Development Fund.
+In addition to being a venture partner in Raed, the prince, Khalid Bin Bader Al Saud, is a member of the ruling Al Saud family, and the managing director and vice chairman of his family's private office, according to his bio on Raed's website.
+The former CIA official said that if Alfozan's alleged bugging of OpenAI is part of a state-sponsored espionage effort, it shows that "in the AI and tech boom, even the kingdom of Saudi Arabia has assessed that the risk is worth the gain to engage in economic espionage against a close ally."
+The former official also said this incident is "probably the tip of the iceberg."
+The criminal complaint against Alfozan does not allege that Raed or its other partners were aware of Alfozan allegedly planting a recording device at OpenAI.
+The case is being prosecuted by the National Security, Cyber & Special Prosecutions Section of the United States Attorney's Office for the Northern District of California, according to the Department of Justice.
+Alfozan is charged in U.S. District Court in San Francisco with one count of using or attempting to use an electronic, mechanical or other device to intercept oral communications.
+He is being detained pending an Oct. 19 detention hearing, where his lawyer could argue for his release on bond. If convicted, he faces up to five years in prison and a $250,000 fine, DOJ said.
+Alfozan is not charged with corporate espionage or stealing trade secrets.
+OpenAI earlier this year held discussions with Saudi Arabia's Public Investment Fund, the country's sovereign wealth fund, about investing in the AI company.
+Raed did not immediately respond to requests for comment. CNBC has also requested comment from the Saudi embassy in Washington.
+Alfozan's criminal defense attorney, William Pernik, told CNBC by email, "At this point, the information provided has been extremely limited, as the charging documents have just been unsealed yesterday."
+OpenAI declined to comment on Wednesday about whether it knew about Alfozan's position at the Saudi firm. And the company said it can't share more details about the conference room in question due to operational security concerns.
+The company said in a post on X on Tuesday, "At this time, we have no indications of this individual inappropriately accessing or exfiltrating model weights, source code, or customer data."
+"We take protecting our technology, data and people seriously, and as a matter of national importance,"
+the company said. "Our security program is designed to protect against a wide range of threat actors, from insider risks to cybercriminals to nation states, and this case is an example of how AI can help address these sophisticated security threats."
+Alfozan, in a recent interview with the podcast Identity Capital about his career, noted that in July 2016, he and other Saudi nationals who were working at various tech companies in Silicon Valley met with their nation's now-de facto ruler, Crown Prince Mohammed bin Salman. The prince was visiting Silicon Valley as part of a U.S. tour to promote his "Vision 2030" economic diversification plan.
+"One of the issues we discussed was whether we should move back to [the Kingdom of Saudi Arabia] now and bring our technical skills to improve the economy ... or should we work a few more years before we go back in order to gain more experience," Alfozan said in the interview, which was conducted in Arabic, translated by CNBC and posted online Sept. 24.
+Bin Salman replied that "the country was undergoing major development and did not have the talent to train the next generation who would carry on those development plans," Alfozan said.
+Alfozan added that the group of young workers "decided it was best to continue to learn and develop our skills before taking our knowledge back to [Saudi Arabia] to improve the tech sector."
+Throughout the podcast, Alfozan discusses in detail his trajectory from coding in high school in Dammam, Saudi Arabia, to his career in the U.S. At one point in the interview, he refers to himself as an "introvert," who still pushes himself to help other young professionals find success in Silicon Valley.
+Days after the podcast was posted, on Sept. 30, a federal criminal complaint alleges that OpenAI staff discovered "a surreptitious audio recording device inserted into a USB port on the back of a television in" a conference room.
+The device, which had a detachable camera sensor, digital microphone, and microSD storage, was concealed in toilet paper, according to the complaint.
+Alfozan had no authority to enter the conference room, which is frequently used for "discussions of highly confidential technical, commercial, and strategic information," according to the complaint.
+The conference room can be reserved "only by executives and executive assistants," and is typically used "for internal leadership meetings and technical and product sessions, as well as external briefings with government officials and business counterparts," the complaint said.
+Closed-circuit TV footage at OpenAI showed Alfozan close to the conference room on multiple days in September at various times, according to the complaint.
+The filing also said that in August, and again in September, Alfozan used an AI productivity tool to inquire about OpenAI's building addresses, meeting rooms, meeting-room capacities and calendars, as well as "external partner meetings."
+And a chatbot associated with Alfozan's spouse, which the complaint alleges shared several identifying characteristics with his own account, allegedly submitted detailed prompts about building, customizing, installing and remotely accessing a recording device. Alfozan's spouse, who was not identified in the complaint, has not been charged with any wrongdoing.
+After the recording device was found hidden in the TV in the conference room, OpenAI placed a camera in that room, the complaint says.
+Alfozan was seen on that camera entering the conference room at about 1:20 p.m. on Oct. 5, and "checking behind the television into which Recording Device 1 had been inserted," the complaint alleges.
+That same day, the complaint said, Alfozan left a bag unattended in a printer room at OpenAI.
+Inside that bag, OpenAI security found his wallet, ID and "another recording device" made by the same Chinese manufacturer, Seeed, which made the device found inserted in the conference room's TV, the complaint says.
+The second recording device, like the first one, "had a recording microcontroller," and "had been customized to obfuscate anything stored on the device, such as potentially intercepted audio communications," the complaint said.
+Alfozan reported to OpenAI that he had lost the bag, which was returned to him without the second recording device, according to the complaint. He did not inquire about the device, although he asked about certain other items that he said were missing, the complaint said.
+"Any attempt to illicitly obtain protected information from U.S. super intelligence and technology companies threatens both American innovation and the national security interests those advancements support," Scott Schelble, special agent in charge of the FBI San Francisco Field Office, said in a statement on Tuesday about Alfozan's arrest, using the Trump administration's preferred term for artificial intelligence.
+Before joining OpenAI, Alfozan had a long track record of work experience in the Bay Area.
+On his LinkedIn page, Alfozan describes himself as an "Experienced Engineering Lead with 11 years of building scalable and reliable software systems in the data and AI/ML domains."
+"Proven track record of leading engineering teams, delivering complex projects and enterprise products.
+Driven by strong project management skills and a passion for cultivating a culture of collaboration and engineering excellence," his bio there says.
+Before joining OpenAI, Alfozan was a founding engineer at Nash, an AI firm focused on logistics, according to his LinkedIn page.
+And prior to Nash, he worked as a senior systems engineer at Facebook's parent company, Meta, from 2017 through 2022, according to his LinkedIn page. His internships before that included one at Microsoft in 2014, his bio says.
+Alfozan studied computer science and engineering at the Massachusetts Institute of Technology and data science at the University of California, Berkeley, according to his LinkedIn page.
+MIT's media relations office said he was enrolled there from January 2011 through January 2014, and again from February 2016 through May 2016, without receiving a degree.
+A UC Berkeley spokesperson said Alfozan attended the school from January 2023 through May 2025, and earned a master's degree.
+In 2016, he was a research intern at King Abdullah University of Science and Technology in Saudi Arabia, he said on LinkedIn.
+In 2020, he won a $50,000 second prize in the Saudi Covid-19 Challenge, a hackathon event, according to the profile.
+Alfozan's home, on a hill in Millbrae, California, overlooks San Francisco Bay with views of Mount Diablo. The small San Mateo County suburb, which is popular with tech workers, is located about 30 minutes south of San Francisco and 25 minutes from Stanford University. No one answered the doorbell of the home Wednesday when a CNBC reporter rang.
+The Financial Times reported that Alfozan was "born in the ultraconservative central region of Qassim," but "grew up in Dammam in the kingdom's oil-rich Eastern Province."
+The FT also reported that in a documentary about Alfozan that aired on Saudi television, his father said that as a young student in a government-backed program for gifted children to develop skills in mathematics, physics and engineering, Alfozan "would read the encyclopedia cover to cover."
+"We are waiting to see what evidence the government has against our client, and look forward to presenting all appropriate defenses in court," Pernik, Alfozan's attorney, said.
+"What I can tell you by way of a statement is that, like countless Americans, Mr. Alfozan came to this country years ago as a young person with a dream," the attorney said. "He spent years studying, working and contributing to an American technological sector that leads the world, a sector built in large part by immigrants like him."
+"These allegations appear wholly out of character for him, and we will relentlessly investigate all evidence produced by the government in this case to understand what actually happened, who was responsible, and any possible reasons why," Pernik said.
+The lawyer noted that Alfozan is "charged with violating a federal recording statute, not stealing trade secrets or working as a foreign agent."
+"There is no evidence to suggest otherwise at this time that has been shared with us," Pernik said. "Where someone was born is not evidence of anything and national origins is — and always should be — a protected status under our system of laws."
+— Ashley Capoot, Lora Kolodny and Reem Nasr contributed to this report.`,
+    bodyJa: `Abdulrahman Alfozan, the Saudi national charged with secretly installing a recording device in an executive conference room at OpenAI, had booked a one-way ticket from San Francisco to Saudi Arabia with his wife and a third family member before his arrest, federal prosecutors told a judge in a newly unsealed court filing.
+Alfozan "has the means — and will have the incentive — to flee the United States sooner if he learns about this case before he is arrested," the U.S. Attorney's Office in San Francisco said in the Oct. 8 filing, which asked a judge to seal a criminal complaint against him and a warrant for his arrest.
+The filing said the tickets were booked for Oct. 12, from San Francisco to Saudi Arabia via Istanbul.
+The judge granted the sealing request, and Alfozan was arrested Oct. 9, the Department of Justice has said.
+He has been detained since his arrest.
+Alfozan, 35, is a venture partner in a Saudi Arabian venture capital firm that lists a prince from that nation's ruling royal family as a fellow partner.
+The VC firm, Raed Ventures, says on its website that Alfozan, who lives in the San Francisco area, "is a seasoned technology professional with deep experience in startups, entrepreneurship, and scaling tech companies."
+"He currently serves as Engineering Lead at OpenAI, with a focus on AI Agents and the data platform," Alfozan's bio page on Raed's site says.
+Raed, which focuses on investments in the Middle East, announced Alfozan had joined the firm on Feb. 8, 2025, two days after Raed said Prince Khalid Bin Bader Al Saud had joined as a venture partner. A venture partner usually is a consulting or project-based role, not an investing partner or director who is responsible for raising funds or leading deals.
+Alfozan had worked at OpenAI since July 2025, according to the Department of Justice. The company said it terminated him this month.
+The Financial Times reported Wednesday that when Saudi tech influencers visited San Francisco in September, "it was Alfozan who welcomed them to OpenAI offices where he gave them tours."
+A former CIA official with extensive experience in the Middle East, who spoke on condition of anonymity because of the nature of their past work, told CNBC that Raed Ventures is "basically a state organ" of the Saudi government. One of Raed's funds in December 2024 received an investment from Saudi Venture Capital, a subsidiary of SME Bank, which is part of Saudi Arabia's National Development Fund.
+In addition to being a venture partner in Raed, the prince, Khalid Bin Bader Al Saud, is a member of the ruling Al Saud family, and the managing director and vice chairman of his family's private office, according to his bio on Raed's website.
+The former CIA official said that if Alfozan's alleged bugging of OpenAI is part of a state-sponsored espionage effort, it shows that "in the AI and tech boom, even the kingdom of Saudi Arabia has assessed that the risk is worth the gain to engage in economic espionage against a close ally."
+The former official also said this incident is "probably the tip of the iceberg."
+The criminal complaint against Alfozan does not allege that Raed or its other partners were aware of Alfozan allegedly planting a recording device at OpenAI.
+The case is being prosecuted by the National Security, Cyber & Special Prosecutions Section of the United States Attorney's Office for the Northern District of California, according to the Department of Justice.
+Alfozan is charged in U.S. District Court in San Francisco with one count of using or attempting to use an electronic, mechanical or other device to intercept oral communications.
+He is being detained pending an Oct. 19 detention hearing, where his lawyer could argue for his release on bond. If convicted, he faces up to five years in prison and a $250,000 fine, DOJ said.
+Alfozan is not charged with corporate espionage or stealing trade secrets.
+OpenAI earlier this year held discussions with Saudi Arabia's Public Investment Fund, the country's sovereign wealth fund, about investing in the AI company.
+Raed did not immediately respond to requests for comment. CNBC has also requested comment from the Saudi embassy in Washington.
+Alfozan's criminal defense attorney, William Pernik, told CNBC by email, "At this point, the information provided has been extremely limited, as the charging documents have just been unsealed yesterday."
+OpenAI declined to comment on Wednesday about whether it knew about Alfozan's position at the Saudi firm. And the company said it can't share more details about the conference room in question due to operational security concerns.
+The company said in a post on X on Tuesday, "At this time, we have no indications of this individual inappropriately accessing or exfiltrating model weights, source code, or customer data."
+"We take protecting our technology, data and people seriously, and as a matter of national importance,"
+the company said. "Our security program is designed to protect against a wide range of threat actors, from insider risks to cybercriminals to nation states, and this case is an example of how AI can help address these sophisticated security threats."
+Alfozan, in a recent interview with the podcast Identity Capital about his career, noted that in July 2016, he and other Saudi nationals who were working at various tech companies in Silicon Valley met with their nation's now-de facto ruler, Crown Prince Mohammed bin Salman. The prince was visiting Silicon Valley as part of a U.S. tour to promote his "Vision 2030" economic diversification plan.
+"One of the issues we discussed was whether we should move back to [the Kingdom of Saudi Arabia] now and bring our technical skills to improve the economy ... or should we work a few more years before we go back in order to gain more experience," Alfozan said in the interview, which was conducted in Arabic, translated by CNBC and posted online Sept. 24.
+Bin Salman replied that "the country was undergoing major development and did not have the talent to train the next generation who would carry on those development plans," Alfozan said.
+Alfozan added that the group of young workers "decided it was best to continue to learn and develop our skills before taking our knowledge back to [Saudi Arabia] to improve the tech sector."
+Throughout the podcast, Alfozan discusses in detail his trajectory from coding in high school in Dammam, Saudi Arabia, to his career in the U.S. At one point in the interview, he refers to himself as an "introvert," who still pushes himself to help other young professionals find success in Silicon Valley.
+Days after the podcast was posted, on Sept. 30, a federal criminal complaint alleges that OpenAI staff discovered "a surreptitious audio recording device inserted into a USB port on the back of a television in" a conference room.
+The device, which had a detachable camera sensor, digital microphone, and microSD storage, was concealed in toilet paper, according to the complaint.
+Alfozan had no authority to enter the conference room, which is frequently used for "discussions of highly confidential technical, commercial, and strategic information," according to the complaint.
+The conference room can be reserved "only by executives and executive assistants," and is typically used "for internal leadership meetings and technical and product sessions, as well as external briefings with government officials and business counterparts," the complaint said.
+Closed-circuit TV footage at OpenAI showed Alfozan close to the conference room on multiple days in September at various times, according to the complaint.
+The filing also said that in August, and again in September, Alfozan used an AI productivity tool to inquire about OpenAI's building addresses, meeting rooms, meeting-room capacities and calendars, as well as "external partner meetings."
+And a chatbot associated with Alfozan's spouse, which the complaint alleges shared several identifying characteristics with his own account, allegedly submitted detailed prompts about building, customizing, installing and remotely accessing a recording device. Alfozan's spouse, who was not identified in the complaint, has not been charged with any wrongdoing.
+After the recording device was found hidden in the TV in the conference room, OpenAI placed a camera in that room, the complaint says.
+Alfozan was seen on that camera entering the conference room at about 1:20 p.m. on Oct. 5, and "checking behind the television into which Recording Device 1 had been inserted," the complaint alleges.
+That same day, the complaint said, Alfozan left a bag unattended in a printer room at OpenAI.
+Inside that bag, OpenAI security found his wallet, ID and "another recording device" made by the same Chinese manufacturer, Seeed, which made the device found inserted in the conference room's TV, the complaint says.
+The second recording device, like the first one, "had a recording microcontroller," and "had been customized to obfuscate anything stored on the device, such as potentially intercepted audio communications," the complaint said.
+Alfozan reported to OpenAI that he had lost the bag, which was returned to him without the second recording device, according to the complaint. He did not inquire about the device, although he asked about certain other items that he said were missing, the complaint said.
+"Any attempt to illicitly obtain protected information from U.S. super intelligence and technology companies threatens both American innovation and the national security interests those advancements support," Scott Schelble, special agent in charge of the FBI San Francisco Field Office, said in a statement on Tuesday about Alfozan's arrest, using the Trump administration's preferred term for artificial intelligence.
+Before joining OpenAI, Alfozan had a long track record of work experience in the Bay Area.
+On his LinkedIn page, Alfozan describes himself as an "Experienced Engineering Lead with 11 years of building scalable and reliable software systems in the data and AI/ML domains."
+"Proven track record of leading engineering teams, delivering complex projects and enterprise products.
+Driven by strong project management skills and a passion for cultivating a culture of collaboration and engineering excellence," his bio there says.
+Before joining OpenAI, Alfozan was a founding engineer at Nash, an AI firm focused on logistics, according to his LinkedIn page.
+And prior to Nash, he worked as a senior systems engineer at Facebook's parent company, Meta, from 2017 through 2022, according to his LinkedIn page. His internships before that included one at Microsoft in 2014, his bio says.
+Alfozan studied computer science and engineering at the Massachusetts Institute of Technology and data science at the University of California, Berkeley, according to his LinkedIn page.
+MIT's media relations office said he was enrolled there from January 2011 through January 2014, and again from February 2016 through May 2016, without receiving a degree.
+A UC Berkeley spokesperson said Alfozan attended the school from January 2023 through May 2025, and earned a master's degree.
+In 2016, he was a research intern at King Abdullah University of Science and Technology in Saudi Arabia, he said on LinkedIn.
+In 2020, he won a $50,000 second prize in the Saudi Covid-19 Challenge, a hackathon event, according to the profile.
+Alfozan's home, on a hill in Millbrae, California, overlooks San Francisco Bay with views of Mount Diablo. The small San Mateo County suburb, which is popular with tech workers, is located about 30 minutes south of San Francisco and 25 minutes from Stanford University. No one answered the doorbell of the home Wednesday when a CNBC reporter rang.
+The Financial Times reported that Alfozan was "born in the ultraconservative central region of Qassim," but "grew up in Dammam in the kingdom's oil-rich Eastern Province."
+The FT also reported that in a documentary about Alfozan that aired on Saudi television, his father said that as a young student in a government-backed program for gifted children to develop skills in mathematics, physics and engineering, Alfozan "would read the encyclopedia cover to cover."
+"We are waiting to see what evidence the government has against our client, and look forward to presenting all appropriate defenses in court," Pernik, Alfozan's attorney, said.
+"What I can tell you by way of a statement is that, like countless Americans, Mr. Alfozan came to this country years ago as a young person with a dream," the attorney said. "He spent years studying, working and contributing to an American technological sector that leads the world, a sector built in large part by immigrants like him."
+"These allegations appear wholly out of character for him, and we will relentlessly investigate all evidence produced by the government in this case to understand what actually happened, who was responsible, and any possible reasons why," Pernik said.
+The lawyer noted that Alfozan is "charged with violating a federal recording statute, not stealing trade secrets or working as a foreign agent."
+"There is no evidence to suggest otherwise at this time that has been shared with us," Pernik said. "Where someone was born is not evidence of anything and national origins is — and always should be — a protected status under our system of laws."
+— Ashley Capoot, Lora Kolodny and Reem Nasr contributed to this report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/14/openai-alfozan-recording-raed-ventures.html",
+    publishedAt: "2026-10-14T21:18:13+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "coreweave-s-ai-bonds-tumble-raising-red-75deea45",
+    title: "CoreWeave’s AI bonds tumble, raising red flags for the wider market",
+    titleJa: "CoreWeave’s AI bonds tumble, raising red flags for the wider market",
+    summaryJa: "CoreWeave’s bonds issued six months ago fell to 81 cents on the dollar earlier Wednesday, yielding more than 15%.",
+    bodyOriginal: `CoreWeave’s bonds issued six months ago fell to 81 cents on the dollar earlier Wednesday, yielding more than 15%.`,
+    bodyJa: `CoreWeave’s bonds issued six months ago fell to 81 cents on the dollar earlier Wednesday, yielding more than 15%.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
+    publishedAt: "2026-10-14T21:18:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-31372691",
+    readTime: 2,
+  },
+  {
+    id: "openai-sued-by-8-states-over-chatgpt-saf-acac16d9",
+    title: "OpenAI sued by 8 states over ChatGPT safety concerns",
+    titleJa: "OpenAI sued by 8 states over ChatGPT safety concerns",
+    summaryJa: "OpenAI is facing mounting scrutiny over its safety and security practices, including around how the company is working to protect children.",
+    bodyOriginal: `Eight states filed lawsuits against OpenAI on Wednesday alleging that the artificial intelligence company's ChatGPT chatbot is an unsafe product that's harmed children and deceived parents.
+Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho and Montana have individually sued OpenAI in their own state courts, Iowa Attorney General Brenna Bird said in a release. She said Iowa's lawsuit aims to "vindicate the rights of Iowans affected by OpenAI's willful, dangerous, reckless, and unlawful conduct."
+"OpenAI is hurting kids and they are lying to Iowans," Bird said in a statement. "OpenAI claims ChatGPT is safe while it's giving dangerous medical advice, encouraging people to hurt others, and coaching people to commit suicide — all while pretending to be their fake friend. My lawsuit is about protecting our kids and holding OpenAI accountable under our state law."
+OpenAI spokesperson Drew Pusateri said the company has built age-specific protections into its product that "many other AI products lack." He added that OpenAI is working with states to advance policies that will apply to the entire industry.
+"While no system can be perfect, we'll continue to work with experts to inform our work and build additional safeguards, such as the parental controls, break reminders and age-appropriate model protections that exist today," Pusateri said.
+OpenAI is facing mounting scrutiny over its safety and security practices, including around how the company is working to protect children. In a number of wrongful death lawsuits, ChatGPT is blamed for driving users to experience harmful delusions and, in some cases, to commit suicide. Florida Attorney General James Uthmeier also sued OpenAI in June, alleging the company knowingly released an unsafe product that could harm users.
+OpenAI has taken steps to enhance safety features for parents and children over the last year, and in August it launched a dedicated experience for minors called ChatGPT for Teens. That product includes a range of educational features and age-appropriate safeguards that are intended to reduce exposure to developmentally inappropriate or harmful content.
+"Teens should be able to use AI to learn, create, and explore," OpenAI said in a release at the time. "But that access should come with protections that reflect their developmental stage, reinforce real-world relationships, and support healthy use over time."
+If you are having suicidal thoughts or are in distress, contact the Suicide & Crisis Lifeline at 988 for support and assistance from a trained counselor.
+WATCH: Justice Department says Saudi national arrested for installing audio recording device at OpenAI`,
+    bodyJa: `Eight states filed lawsuits against OpenAI on Wednesday alleging that the artificial intelligence company's ChatGPT chatbot is an unsafe product that's harmed children and deceived parents.
+Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho and Montana have individually sued OpenAI in their own state courts, Iowa Attorney General Brenna Bird said in a release. She said Iowa's lawsuit aims to "vindicate the rights of Iowans affected by OpenAI's willful, dangerous, reckless, and unlawful conduct."
+"OpenAI is hurting kids and they are lying to Iowans," Bird said in a statement. "OpenAI claims ChatGPT is safe while it's giving dangerous medical advice, encouraging people to hurt others, and coaching people to commit suicide — all while pretending to be their fake friend. My lawsuit is about protecting our kids and holding OpenAI accountable under our state law."
+OpenAI spokesperson Drew Pusateri said the company has built age-specific protections into its product that "many other AI products lack." He added that OpenAI is working with states to advance policies that will apply to the entire industry.
+"While no system can be perfect, we'll continue to work with experts to inform our work and build additional safeguards, such as the parental controls, break reminders and age-appropriate model protections that exist today," Pusateri said.
+OpenAI is facing mounting scrutiny over its safety and security practices, including around how the company is working to protect children. In a number of wrongful death lawsuits, ChatGPT is blamed for driving users to experience harmful delusions and, in some cases, to commit suicide. Florida Attorney General James Uthmeier also sued OpenAI in June, alleging the company knowingly released an unsafe product that could harm users.
+OpenAI has taken steps to enhance safety features for parents and children over the last year, and in August it launched a dedicated experience for minors called ChatGPT for Teens. That product includes a range of educational features and age-appropriate safeguards that are intended to reduce exposure to developmentally inappropriate or harmful content.
+"Teens should be able to use AI to learn, create, and explore," OpenAI said in a release at the time. "But that access should come with protections that reflect their developmental stage, reinforce real-world relationships, and support healthy use over time."
+If you are having suicidal thoughts or are in distress, contact the Suicide & Crisis Lifeline at 988 for support and assistance from a trained counselor.
+WATCH: Justice Department says Saudi national arrested for installing audio recording device at OpenAI`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
+    publishedAt: "2026-10-14T21:09:20+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "bank-of-america-adds-a-profit-miss-to-th-3c75ff5a",
+    title: "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
+    titleJa: "Bank of America adds a profit miss to the misery of a $1.2 billion government fine",
+    summaryJa: "Bank of America’s stock falls as investor disappointment over the $1.2 billion government fine added to the bank’s downbeat earnings report.",
+    bodyOriginal: `Bank of America’s stock falls as investor disappointment over the $1.2 billion government fine added to the bank’s downbeat earnings report.`,
+    bodyJa: `Bank of America’s stock falls as investor disappointment over the $1.2 billion government fine added to the bank’s downbeat earnings report.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
+    publishedAt: "2026-10-14T21:03:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-86270203",
+    readTime: 2,
+  },
+  {
+    id: "dell-stock-plunges-11-leading-data-cente-5bdfc572",
+    title: "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
+    titleJa: "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'",
+    summaryJa: "Barclays downgraded Dell, HPE, and NetApp on concerns that enterprise AI adoption is lagging.",
+    bodyOriginal: `Dell shares plummeted 11% on Wednesday and dragged down other data center equipment names on mounting concerns that enterprise spending on artificial intelligence won't justify the AI buildout.
+Hewlett-Packard Enterprise, Oracle and Super Micro all joined in the downward slide.
+In a report to clients on Wednesday, analysts at Barclays downgraded its rating on Dell, HPE and NetApp, "after a significant run and on enterprise AI timing."
+Makers of data center servers and other backend equipment have been favored on Wall Street this year on optimism that they'll be selling huge volumes of gear tied to demand for AI chips and systems for years into the future. Dell has been one of the top performers on the market, up more than 300% this year, while HPE has jumped about 160% and NetApp has doubled.
+However, sentiment toward the AI infrastructure space has shifted of late due in part to concerning revenue figures out of OpenAI and more broadly out of fear that rising interest rates will create a challenging environment as so much of the buildout is reliant on debt. Oracle, a heavy borrower, dropped 9% on Wednesday and is now down 33% for the year while neocloud CoreWeave plunged 15%, wiping out its gains for 2026.
+The Barclays analysts said they haven't seen a "meaningful AI inflection" when it comes to enterprise spending for Dell, HPE and NetApp, lowering the rating on each to the equivalent of a hold from buy. They instead attribute increased revenue to the global memory shortage and noted that infrastructure companies have passed the higher price of memory along to customers.
+"There is growing sentiment about enterprise AI adoption creating a hardware refresh," the Barclays analysts wrote, adding that businesses are typically allocating just 5% of their IT budgets to AI. "We believe the strong enterprise revenues are more of a function of memory costs than a move to enterprise AI at this time."
+The Barclays analysts also found that only about a quarter of total enterprise AI spend is going towards hardware. They said normalizing and eventually declining memory prices could weigh on infrastructure-related revenue.
+Memory is a notoriously cyclical business, and stocks were hit this week after China's ChangXin Memory Technologies, or CXMT, reported progress over the weekend on a new chip structure. Micron is down 11% for the week, while South Korea's SK Hynix has tumbled 13% in U.S. trading and Western Digital has dropped more than 8%.
+WATCH: HPE isn’t Dell, but its lower valuation gives it more upside, says Jim Cramer`,
+    bodyJa: `Dell shares plummeted 11% on Wednesday and dragged down other data center equipment names on mounting concerns that enterprise spending on artificial intelligence won't justify the AI buildout.
+Hewlett-Packard Enterprise, Oracle and Super Micro all joined in the downward slide.
+In a report to clients on Wednesday, analysts at Barclays downgraded its rating on Dell, HPE and NetApp, "after a significant run and on enterprise AI timing."
+Makers of data center servers and other backend equipment have been favored on Wall Street this year on optimism that they'll be selling huge volumes of gear tied to demand for AI chips and systems for years into the future. Dell has been one of the top performers on the market, up more than 300% this year, while HPE has jumped about 160% and NetApp has doubled.
+However, sentiment toward the AI infrastructure space has shifted of late due in part to concerning revenue figures out of OpenAI and more broadly out of fear that rising interest rates will create a challenging environment as so much of the buildout is reliant on debt. Oracle, a heavy borrower, dropped 9% on Wednesday and is now down 33% for the year while neocloud CoreWeave plunged 15%, wiping out its gains for 2026.
+The Barclays analysts said they haven't seen a "meaningful AI inflection" when it comes to enterprise spending for Dell, HPE and NetApp, lowering the rating on each to the equivalent of a hold from buy. They instead attribute increased revenue to the global memory shortage and noted that infrastructure companies have passed the higher price of memory along to customers.
+"There is growing sentiment about enterprise AI adoption creating a hardware refresh," the Barclays analysts wrote, adding that businesses are typically allocating just 5% of their IT budgets to AI. "We believe the strong enterprise revenues are more of a function of memory costs than a move to enterprise AI at this time."
+The Barclays analysts also found that only about a quarter of total enterprise AI spend is going towards hardware. They said normalizing and eventually declining memory prices could weigh on infrastructure-related revenue.
+Memory is a notoriously cyclical business, and stocks were hit this week after China's ChangXin Memory Technologies, or CXMT, reported progress over the weekend on a new chip structure. Micron is down 11% for the week, while South Korea's SK Hynix has tumbled 13% in U.S. trading and Western Digital has dropped more than 8%.
+WATCH: HPE isn’t Dell, but its lower valuation gives it more upside, says Jim Cramer`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html",
+    publishedAt: "2026-10-14T20:19:25+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "drop-off-charges-at-uk-airports-to-be-re-9286fa8a",
+    title: "Drop-off charges at UK airports to be reviewed after sharp increase",
+    titleJa: "Drop-off charges at UK airports to be reviewed after sharp increase",
+    summaryJa: "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
+    bodyOriginal: `Drop-off charges at UK airports to be reviewed after sharp increase
+- Published
+Airport drop-off charges are to be reviewed by the government following sharp price increases in recent years.
+Prices at major UK airports have risen by a third since the summer of 2025 on average, according to one analysis, with Gatwick and Stansted drop-off charges found to be the most expensive, jumping from £7 to £10.
+Such charges at Edinburgh Airport have risen from £6 to £8.50, while fees at Bournemouth increased from £5 to £8, the same price as Leeds Bradford and London City.
+The Department for Transport confirmed it had committed to a review, saying it was "vital to ensure travel remains accessible and that passengers are treated fairly".
+The government added it hoped airports would "exercise restraint on rises, particularly where there are limited public transport alternatives".
+'Rip-off'
+The RAC, which conducted the analysis in July this year, has campaigned against increases in drop-off charges. It said a review of "kiss and fly" fees would be "music to the ears to drivers".
+"We know airport drop-off charges are a growing source of anger and frustration," said Rod Dennis, senior policy officer at the RAC.
+"Four-in-five drivers we've surveyed believe they are a 'rip-off', with just one-in-10 understanding why airports charge what they do."
+The RAC's research found London City Airport, which only introduced charges in 2026, was the most expensive on a per-minute basis.
+Its £8 charge for five minutes works out at £1.60 per minute. Belfast International Airport now charges £5 for 10 minutes in the drop-off zone, up £2 on last year.
+None of the top 10 airports in the European Union charge for drop-offs, according to the RAC.
+It argues that international airports should not charge for dropping off passengers, however, the industry said the charges were a neccesary part of the business model of airports.
+Airport drop-off fees up by a third - here are the priciest
+- Published23 July
+Supporters of such charges also say they encourage travellers to use of more environmentally friendly modes of transport.
+"Airports outside the UK are typically publicly owned and in receipt of state subsidies and tax exemptions, while UK airports are generally privately owned and subject to the full array of commercial rates of taxation," said Karen Dee, chief executive of Airports UK, which represents airports.
+She added airports offered a "range of options for those travelling to terminals, including free drop off points" and that "any review" by the government would find airports make "excellent use of a variety of ways to manage traffic and air pollution".
+The Aviation Environment Federation campaign group has previously defended the fees, arguing they help reduce congestion and air pollution around airports.
+Earlier this month, the government announced extra charges for parents sitting with their children when flying would be scrapped in time for next year's summer holidays.
+Prime Minister Andy Burnham said the changes were part of a series of "everyday fixes" to ease cost of living pressures on households.
+Get in touch
+Have you been affected by issues covered in this story? Share your experiences.`,
+    bodyJa: `Drop-off charges at UK airports to be reviewed after sharp increase
+- Published
+Airport drop-off charges are to be reviewed by the government following sharp price increases in recent years.
+Prices at major UK airports have risen by a third since the summer of 2025 on average, according to one analysis, with Gatwick and Stansted drop-off charges found to be the most expensive, jumping from £7 to £10.
+Such charges at Edinburgh Airport have risen from £6 to £8.50, while fees at Bournemouth increased from £5 to £8, the same price as Leeds Bradford and London City.
+The Department for Transport confirmed it had committed to a review, saying it was "vital to ensure travel remains accessible and that passengers are treated fairly".
+The government added it hoped airports would "exercise restraint on rises, particularly where there are limited public transport alternatives".
+'Rip-off'
+The RAC, which conducted the analysis in July this year, has campaigned against increases in drop-off charges. It said a review of "kiss and fly" fees would be "music to the ears to drivers".
+"We know airport drop-off charges are a growing source of anger and frustration," said Rod Dennis, senior policy officer at the RAC.
+"Four-in-five drivers we've surveyed believe they are a 'rip-off', with just one-in-10 understanding why airports charge what they do."
+The RAC's research found London City Airport, which only introduced charges in 2026, was the most expensive on a per-minute basis.
+Its £8 charge for five minutes works out at £1.60 per minute. Belfast International Airport now charges £5 for 10 minutes in the drop-off zone, up £2 on last year.
+None of the top 10 airports in the European Union charge for drop-offs, according to the RAC.
+It argues that international airports should not charge for dropping off passengers, however, the industry said the charges were a neccesary part of the business model of airports.
+Airport drop-off fees up by a third - here are the priciest
+- Published23 July
+Supporters of such charges also say they encourage travellers to use of more environmentally friendly modes of transport.
+"Airports outside the UK are typically publicly owned and in receipt of state subsidies and tax exemptions, while UK airports are generally privately owned and subject to the full array of commercial rates of taxation," said Karen Dee, chief executive of Airports UK, which represents airports.
+She added airports offered a "range of options for those travelling to terminals, including free drop off points" and that "any review" by the government would find airports make "excellent use of a variety of ways to manage traffic and air pollution".
+The Aviation Environment Federation campaign group has previously defended the fees, arguing they help reduce congestion and air pollution around airports.
+Earlier this month, the government announced extra charges for parents sitting with their children when flying would be scrapped in time for next year's summer holidays.
+Prime Minister Andy Burnham said the changes were part of a series of "everyday fixes" to ease cost of living pressures on households.
+Get in touch
+Have you been affected by issues covered in this story? Share your experiences.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-14T17:46:30+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4555/live/2b5614e0-c7f6-11f1-970c-196b57378f40.jpg",
+    readTime: 8,
+  },
+  {
+    id: "fannie-mae-sharply-raises-mortgage-rate-2cf17b08",
+    title: "Fannie Mae sharply raises mortgage rate forecast for 2027",
+    titleJa: "Fannie Mae sharply raises mortgage rate forecast for 2027",
+    summaryJa: "Fannie Mae just put out its latest forecast for mortgage rates, and they are much higher than previous estimates.",
+    bodyOriginal: `Economists at Fannie Mae are now predicting much higher mortgage rates through the end of 2026 and into 2027. It now puts the average rate on the 30-year fixed at 7.4% for the fourth quarter of this year and 7.5% through all of next year. It previously forecast 6.8% for the fourth quarter and 6.7% for all of next year.
+The average rate on the 30-year fixed stood at 7.46% Tuesday, according to Mortgage News Daily, but will likely move higher today. Bond yields are rising after a hotter-than-expected inflation report.
+Mortgage rates have been rising sharply since the start of September, as inflation remains stubbornly high and bond markets sell off due to several factors. The Federal Reserve also raised its benchmark rate for the first time in more than three years. Mortgage rates do not follow the Fed's rate exactly, but they do react to how the central bank sees inflation going forward.
+Mortgage rates loosely follow the yield on the 10-year Treasury, which has been rising sharply on higher oil prices and growing concerns in the global economy.
+Higher rates have already put the housing market in an early deep freeze this fall. Pending sales, counted by signed contracts on existing homes, were down 8.5% in September year-over-year, according to Zillow. Mortgage demand continues to drop sharply, as buyers face higher prices and weakening affordability. Not only can fewer buyers now afford a home, but fewer can qualify for a mortgage.
+Fannie Mae did not respond to requests for comment on its latest forecast.`,
+    bodyJa: `Economists at Fannie Mae are now predicting much higher mortgage rates through the end of 2026 and into 2027. It now puts the average rate on the 30-year fixed at 7.4% for the fourth quarter of this year and 7.5% through all of next year. It previously forecast 6.8% for the fourth quarter and 6.7% for all of next year.
+The average rate on the 30-year fixed stood at 7.46% Tuesday, according to Mortgage News Daily, but will likely move higher today. Bond yields are rising after a hotter-than-expected inflation report.
+Mortgage rates have been rising sharply since the start of September, as inflation remains stubbornly high and bond markets sell off due to several factors. The Federal Reserve also raised its benchmark rate for the first time in more than three years. Mortgage rates do not follow the Fed's rate exactly, but they do react to how the central bank sees inflation going forward.
+Mortgage rates loosely follow the yield on the 10-year Treasury, which has been rising sharply on higher oil prices and growing concerns in the global economy.
+Higher rates have already put the housing market in an early deep freeze this fall. Pending sales, counted by signed contracts on existing homes, were down 8.5% in September year-over-year, according to Zillow. Mortgage demand continues to drop sharply, as buyers face higher prices and weakening affordability. Not only can fewer buyers now afford a home, but fewer can qualify for a mortgage.
+Fannie Mae did not respond to requests for comment on its latest forecast.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/14/fannie-mae-sharply-raises-mortgage-rate-forecast-for-2027-.html",
+    publishedAt: "2026-10-14T17:08:07+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 4,
+  },
+  {
     id: "treasury-says-largest-u-s-banks-let-poli-ce3fe828",
     title: "Treasury says largest U.S. banks let politics influence who received banking services",
     titleJa: "Treasury says largest U.S. banks let politics influence who received banking services",
@@ -1841,422 +2177,6 @@ Related topics
     category: "テクノロジー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e542/live/77558740-c724-11f1-a64c-550be9e3c66b.jpg",
     readTime: 9,
-  },
-  {
-    id: "micron-seagate-western-digital-sink-as-c-3666b978",
-    title: "Micron, Seagate, Western Digital sink as chip sell-off deepens",
-    titleJa: "Micron, Seagate, Western Digital sink as chip sell-off deepens",
-    summaryJa: "Technology stocks tumbled Tuesday as a sell-off in U.S. semiconductor shares spilled into Asian and European markets.",
-    bodyOriginal: `Chip stocks fell on Tuesday, extending a sell-off sparked by worries over artificial intelligence financing and intensifying competition.
-Memory chip giant Micron slipped about 5% while other memory-related names such as SanDisk, Seagate and Western Digital also sank. SanDisk fell 5% while Seagate and Western Digital both dropped 6%.
-The slide, which followed declines on Wall Street on Monday, comes as investors assessed intensifying competition from China's ChangXin Memory Technologies, or CXMT.
-Over the weekend, CXMT announced significant progress in developing a new chip architecture, designed to increase memory density by packing more data into a smaller space.
-CXMT is China's leading rival to the likes of Micron and South Korean heavyweights SK Hynix and Samsung Electronics. Analysts broadly see CXMT as trailing the U.S. and South Korean memory leaders, which means any advancement from the Chinese firm could add more competition to the market leaders.
-"Investors are jittery and looking for excuses to take profit on AI-related stocks that have outperformed this year, especially memory stocks," said UBP's senior equity advisor Vey-Sern Ling.
-"In reality, while the Chinese memory makers can potentially become a threat to global demand-supply balance over time, in the short run they continue to face technology hurdles, especially for more advanced memory like HBM," Ling told CNBC via email.
-CXMT shares closed 2.8% lower in Shanghai.
-'Vulnerable' AI sentiment?
-Phillip Wool, chief market strategist at Rayliant Global Advisors, said CXMT's breakthrough marked a significant milestone for Chinese chipmakers, demonstrating their ability to overcome technology restrictions and potentially challenge established players sooner than expected.
-But he cautioned that the market reaction appeared disproportionate to the immediate competitive threat, given that CXMT has yet to demonstrate large-scale production and continues to lag Samsung and SK Hynix in market share.
-"More importantly, we're not even talking about HBM here, and the Korean chipmakers are still unquestionably dominating that space, with very little threat at all from the likes of CXMT or anyone else for the foreseeable future," Wool said.
-He said the sharp sell-off reflected broader anxiety over the AI trade rather than a fundamental shift in the competitive landscape.
-"I read that more as a sign of how vulnerable AI sentiment is at this moment," Wool said, warning that volatility could persist as investors reassess chip demand and how long semiconductor manufacturers can sustain their pricing power.
-The chief executives of Intel and Broadcom have warned that access to capital could emerge as a major headwind to the AI boom, even as demand for computing infrastructure continues to outstrip supply.
-Investors are also looking ahead to a busy week of corporate earnings and U.S. inflation data, which could provide fresh clues on the outlook for interest rates that often have an inverse correlation with growth stocks.
-Global tech stocks slump
-Adding fuel to the sell-off was a post by Tesla and SpaceX boss Elon Musk, who said China has the ability to scale production once it figures out how to manufacture something.
-"When China figures out how to manufacture a product, their ability to scale is often greater than the rest of the world combined," Musk said on Monday.
-European chip stocks also sank in early morning trade, with semiconductor equipment maker ASML down 3.3%, and STMicroelectronics and German chip maker Infineon both down 5%. Dutch firms BE Semiconductor and ASM International were both around 4% lower at the open.
-Shares of South Korean chip giant SK Hynix, a leading supplier of high-bandwidth memory chips used in artificial intelligence applications, plunged more than 10%, while rival Samsung Electronics shed 7.4% — both hitting their lowest levels since August. SK Hynix's U.S.-listed stock was down around 5% in premarket trading.
-In Japan, shares of tech-focused investment giant SoftBank Group sank 8.5%. The group, which has significant exposure to the global AI industry through its huge investment in OpenAI, led a broader retreat in Japanese semiconductor and electronics shares.
-Tokyo Electron, a major supplier of chipmaking equipment, dropped 7.2%, while Advantest, which makes semiconductor testing equipment, declined 2.9%. Other Japanese technology stocks also came under pressure. Lasertec fell over 5%, Disco lost 4.7% and Renesas Electronics shed 5.9%.
-The declines followed a weak session for technology stocks on Wall Street, where the Nasdaq Composite dropped 0.44% on Monday. U.S. memory chipmaker Micron Technology slid 3.9% as`,
-    bodyJa: `Chip stocks fell on Tuesday, extending a sell-off sparked by worries over artificial intelligence financing and intensifying competition.
-Memory chip giant Micron slipped about 5% while other memory-related names such as SanDisk, Seagate and Western Digital also sank. SanDisk fell 5% while Seagate and Western Digital both dropped 6%.
-The slide, which followed declines on Wall Street on Monday, comes as investors assessed intensifying competition from China's ChangXin Memory Technologies, or CXMT.
-Over the weekend, CXMT announced significant progress in developing a new chip architecture, designed to increase memory density by packing more data into a smaller space.
-CXMT is China's leading rival to the likes of Micron and South Korean heavyweights SK Hynix and Samsung Electronics. Analysts broadly see CXMT as trailing the U.S. and South Korean memory leaders, which means any advancement from the Chinese firm could add more competition to the market leaders.
-"Investors are jittery and looking for excuses to take profit on AI-related stocks that have outperformed this year, especially memory stocks," said UBP's senior equity advisor Vey-Sern Ling.
-"In reality, while the Chinese memory makers can potentially become a threat to global demand-supply balance over time, in the short run they continue to face technology hurdles, especially for more advanced memory like HBM," Ling told CNBC via email.
-CXMT shares closed 2.8% lower in Shanghai.
-'Vulnerable' AI sentiment?
-Phillip Wool, chief market strategist at Rayliant Global Advisors, said CXMT's breakthrough marked a significant milestone for Chinese chipmakers, demonstrating their ability to overcome technology restrictions and potentially challenge established players sooner than expected.
-But he cautioned that the market reaction appeared disproportionate to the immediate competitive threat, given that CXMT has yet to demonstrate large-scale production and continues to lag Samsung and SK Hynix in market share.
-"More importantly, we're not even talking about HBM here, and the Korean chipmakers are still unquestionably dominating that space, with very little threat at all from the likes of CXMT or anyone else for the foreseeable future," Wool said.
-He said the sharp sell-off reflected broader anxiety over the AI trade rather than a fundamental shift in the competitive landscape.
-"I read that more as a sign of how vulnerable AI sentiment is at this moment," Wool said, warning that volatility could persist as investors reassess chip demand and how long semiconductor manufacturers can sustain their pricing power.
-The chief executives of Intel and Broadcom have warned that access to capital could emerge as a major headwind to the AI boom, even as demand for computing infrastructure continues to outstrip supply.
-Investors are also looking ahead to a busy week of corporate earnings and U.S. inflation data, which could provide fresh clues on the outlook for interest rates that often have an inverse correlation with growth stocks.
-Global tech stocks slump
-Adding fuel to the sell-off was a post by Tesla and SpaceX boss Elon Musk, who said China has the ability to scale production once it figures out how to manufacture something.
-"When China figures out how to manufacture a product, their ability to scale is often greater than the rest of the world combined," Musk said on Monday.
-European chip stocks also sank in early morning trade, with semiconductor equipment maker ASML down 3.3%, and STMicroelectronics and German chip maker Infineon both down 5%. Dutch firms BE Semiconductor and ASM International were both around 4% lower at the open.
-Shares of South Korean chip giant SK Hynix, a leading supplier of high-bandwidth memory chips used in artificial intelligence applications, plunged more than 10%, while rival Samsung Electronics shed 7.4% — both hitting their lowest levels since August. SK Hynix's U.S.-listed stock was down around 5% in premarket trading.
-In Japan, shares of tech-focused investment giant SoftBank Group sank 8.5%. The group, which has significant exposure to the global AI industry through its huge investment in OpenAI, led a broader retreat in Japanese semiconductor and electronics shares.
-Tokyo Electron, a major supplier of chipmaking equipment, dropped 7.2%, while Advantest, which makes semiconductor testing equipment, declined 2.9%. Other Japanese technology stocks also came under pressure. Lasertec fell over 5%, Disco lost 4.7% and Renesas Electronics shed 5.9%.
-The declines followed a weak session for technology stocks on Wall Street, where the Nasdaq Composite dropped 0.44% on Monday. U.S. memory chipmaker Micron Technology slid 3.9% as`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/13/sk-hynix-softbank-samsung-electronics-shares-tech-stocks-fall.html",
-    publishedAt: "2026-10-13T13:51:11+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "martin-shkreli-violated-lifetime-pharma-a09ce3ad",
-    title: "Martin Shkreli violated lifetime pharma industry ban, FTC and states say in contempt claim",
-    titleJa: "Martin Shkreli violated lifetime pharma industry ban, FTC and states say in contempt claim",
-    summaryJa: "Shkreli was banned from the pharmaceutical industry after a trial found that he organized an illegal scheme to perpetuate a monopoly for the drug Daraprim.",
-    bodyOriginal: `The Federal Trade Commission and seven states asked a federal judge on Tuesday to hold notorious "Pharma bro" Martin Shkreli in contempt, alleging he "flagrantly and repeatedly violated" a 2022 civil court order that had banned him for life from the pharmaceutical industry.
-The FTC and the states say Shkreli, since being released from prison in May 2022, violated that court order by publicly trading in at least 60 pharmaceutical industry stocks and "broadcasting his opinions about the business and management of many pharmaceutical industry companies," according to a press release.
-The contempt filing asks a judge to order Shkreli to "divest any pharmaceutical company stocks he currently owns" and "pay a fine equal to his profits from any pharmaceutical company stock trading (plus prejudgment interest) without the ability to account for offsetting losses."
-The filing also asks that a judge make Shkreli "face clear and escalating consequences for any future violations, including financial penalties and potential incarceration."
-FTC Commissioner Mark Meador said in a statement, "A lifetime industry ban is only effective if breaches are met with consequences commensurate with the seriousness of the order."
-The court order stems from a finding that Shkreli organized an anti-competitive scheme to perpetuate his company's monopoly in the anti-parasitic drug Daraprim. Shkreli had hiked the price of Daraprim from $17.50 per tablet to a whopping $750 per pill.
-In addition to banning him from the drug industry for life, a judge ordered Shkreli to disgorge more than $64 million.
-The civil case that led to the order is unrelated to the criminal case that ended with Shkreli's conviction in 2017 on securities fraud charges related to hedge funds he once operated and another drug company he founded. Shkreli was sentenced to seven years in federal prison in 2018, and was released in 2022 with credit for time locked up before he was sentenced and other factors.
-"After a full trial, the court found that Martin Shkreli's conduct drove up prescription drug costs for American patients and blocked the entry of lower-cost generics,"Daniel Guarnera, director of the FTC's Bureau of Competition, said in a statement on Tuesday.
-"When judgment is entered by a court, whether it's a settlement or an order following a trial, defendants must fulfill their obligations," Guarnera said. "Today's action should serve as notice that the FTC will not hesitate to enforce violations of court orders."`,
-    bodyJa: `The Federal Trade Commission and seven states asked a federal judge on Tuesday to hold notorious "Pharma bro" Martin Shkreli in contempt, alleging he "flagrantly and repeatedly violated" a 2022 civil court order that had banned him for life from the pharmaceutical industry.
-The FTC and the states say Shkreli, since being released from prison in May 2022, violated that court order by publicly trading in at least 60 pharmaceutical industry stocks and "broadcasting his opinions about the business and management of many pharmaceutical industry companies," according to a press release.
-The contempt filing asks a judge to order Shkreli to "divest any pharmaceutical company stocks he currently owns" and "pay a fine equal to his profits from any pharmaceutical company stock trading (plus prejudgment interest) without the ability to account for offsetting losses."
-The filing also asks that a judge make Shkreli "face clear and escalating consequences for any future violations, including financial penalties and potential incarceration."
-FTC Commissioner Mark Meador said in a statement, "A lifetime industry ban is only effective if breaches are met with consequences commensurate with the seriousness of the order."
-The court order stems from a finding that Shkreli organized an anti-competitive scheme to perpetuate his company's monopoly in the anti-parasitic drug Daraprim. Shkreli had hiked the price of Daraprim from $17.50 per tablet to a whopping $750 per pill.
-In addition to banning him from the drug industry for life, a judge ordered Shkreli to disgorge more than $64 million.
-The civil case that led to the order is unrelated to the criminal case that ended with Shkreli's conviction in 2017 on securities fraud charges related to hedge funds he once operated and another drug company he founded. Shkreli was sentenced to seven years in federal prison in 2018, and was released in 2022 with credit for time locked up before he was sentenced and other factors.
-"After a full trial, the court found that Martin Shkreli's conduct drove up prescription drug costs for American patients and blocked the entry of lower-cost generics,"Daniel Guarnera, director of the FTC's Bureau of Competition, said in a statement on Tuesday.
-"When judgment is entered by a court, whether it's a settlement or an order following a trial, defendants must fulfill their obligations," Guarnera said. "Today's action should serve as notice that the FTC will not hesitate to enforce violations of court orders."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/13/martin-shkreli-ftc-pharma-contempt.html",
-    publishedAt: "2026-10-13T13:39:37+00:00",
-    category: "貿易",
-    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "paul-tudor-jones-says-2027-could-be-a-re-eefa0875",
-    title: "Paul Tudor Jones says 2027 could be a really challenging year for the stock market",
-    titleJa: "Paul Tudor Jones says 2027 could be a really challenging year for the stock market",
-    summaryJa: "The billionaire investor said that corporate buybacks, along with mergers and acquisitions, that have been a tailwind for the bull market is about to turn.",
-    bodyOriginal: `Legendary hedge fund manager Paul Tudor Jones told CNBC that next year could be a tough one for the stock market because of increased equity supply from big tech IPOs coming down the pipe, as well as a potential reckoning from the ballooning U.S. fiscal deficit.
-"2027 is going to be really, really challenging for the stock market," Jones told "Squawk Box" on Tuesday. "You've probably got the most negative flow picture for the U.S. stock market that we've had, say, since 2002."
-The founder and chief investment officer of Tudor Investment said that corporate buybacks, along with mergers and acquisitions, have been a tailwind for the stock market for most of this four-year bull market as they decreased the equity supply.
-That tide is now turning against the market with major offerings ahead in the AI space from Anthropic and OpenAI, along with one just finished in SpaceX. There will also likely be more secondary offerings from companies in order to raise money for the AI buildout, said Jones. It all adds up to an increased equity supply picture that could weight on prices.
-The billionaire hedge fund manager's comments come as investors worry that a bull market now in its fourth year could start to dwindle and run out of steam as concerns grow around mounting inflation, higher bond yields and a more hawkish Federal Reserve.
-Jones repeated that the current period in the market is akin to 1999, just about a year before the dot-com bubble burst in 2000. He noted the bifurcation in the current market between those companies benefitting from the AI boom and those that aren't.
-Deficit concern
-He also added that a ballooning fiscal deficit are among the dangers for the current stock market, for which he thinks there could be a reckoning.
-"We're never going to fix these deficits until the market makes us to. It's going to be just like 2008 and TARP [Troubled Asset Relief Program]. So that's the reality. No politician is going to voluntarily raise taxes or cut spending. They're going to be forced to," he said.
-"And the only question is, are we now at that tipping point where the market's about to do that? And if you put a gun to my head, I'd say 60-40, we're down that path," he continued.
-Oil, which he is long, is another headwind for the market, according to the hedge fund manager. He argued that prices could rally another $20 to $25 after the midterms, a scenario that the stock market will "hate" if it comes to pass.
-"I'll be short the whole year. There just — there's little value," Jones said. "You had all this issuance, all these IPOs in '98 and '99, and really 2000, 2001, 2002. Those were the easiest years to be short because you kept having these unlocks that just kept adding supply to the market."`,
-    bodyJa: `Legendary hedge fund manager Paul Tudor Jones told CNBC that next year could be a tough one for the stock market because of increased equity supply from big tech IPOs coming down the pipe, as well as a potential reckoning from the ballooning U.S. fiscal deficit.
-"2027 is going to be really, really challenging for the stock market," Jones told "Squawk Box" on Tuesday. "You've probably got the most negative flow picture for the U.S. stock market that we've had, say, since 2002."
-The founder and chief investment officer of Tudor Investment said that corporate buybacks, along with mergers and acquisitions, have been a tailwind for the stock market for most of this four-year bull market as they decreased the equity supply.
-That tide is now turning against the market with major offerings ahead in the AI space from Anthropic and OpenAI, along with one just finished in SpaceX. There will also likely be more secondary offerings from companies in order to raise money for the AI buildout, said Jones. It all adds up to an increased equity supply picture that could weight on prices.
-The billionaire hedge fund manager's comments come as investors worry that a bull market now in its fourth year could start to dwindle and run out of steam as concerns grow around mounting inflation, higher bond yields and a more hawkish Federal Reserve.
-Jones repeated that the current period in the market is akin to 1999, just about a year before the dot-com bubble burst in 2000. He noted the bifurcation in the current market between those companies benefitting from the AI boom and those that aren't.
-Deficit concern
-He also added that a ballooning fiscal deficit are among the dangers for the current stock market, for which he thinks there could be a reckoning.
-"We're never going to fix these deficits until the market makes us to. It's going to be just like 2008 and TARP [Troubled Asset Relief Program]. So that's the reality. No politician is going to voluntarily raise taxes or cut spending. They're going to be forced to," he said.
-"And the only question is, are we now at that tipping point where the market's about to do that? And if you put a gun to my head, I'd say 60-40, we're down that path," he continued.
-Oil, which he is long, is another headwind for the market, according to the hedge fund manager. He argued that prices could rally another $20 to $25 after the midterms, a scenario that the stock market will "hate" if it comes to pass.
-"I'll be short the whole year. There just — there's little value," Jones said. "You had all this issuance, all these IPOs in '98 and '99, and really 2000, 2001, 2002. Those were the easiest years to be short because you kept having these unlocks that just kept adding supply to the market."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/13/paul-tudor-jones-2027-really-challenging-year.html",
-    publishedAt: "2026-10-13T13:33:24+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "poundland-in-rescue-talks-as-owners-seek-ded2f4d9",
-    title: "Poundland in rescue talks as owners seek buyer",
-    titleJa: "Poundland in rescue talks as owners seek buyer",
-    summaryJa: "The leadership team is attempting a buyout, but a union has warned the retailer could fall into administration instead.",
-    bodyOriginal: `Poundland in rescue talks as owners seek buyer
-- Published
-Retail chain Poundland is in talks with potential buyers as it seeks a rescue deal, it has confirmed.
-Executives are working with an Irish property development group on a management buyout, as first reported by Sky News, external.
-But a union representing shopworkers warned that the retailer could fall into administration if that deal falls through, putting thousands of jobs at risk.
-This outcome would be "a disaster for our members", the Usdaw union said.
-Poundland has about 600 stores in the UK and Ireland, and 12,000 employees.
-The chain has been struggling for a number of years due to pressures including rising costs and competition.
-However, it expects sales to have grown more than 3% in 2026 compared with the previous year, which managing director Barry Williams said earlier this month was evidence that its recovery plan "is working".
-The retailer was sold for £1 last summer by previous owner Pepco to US investment firm Gordon Brothers.
-The current owners are in the process of seeking buyers, with the Poundland management attempting a buyout, a spokesman said.
-Mr Williams, along with the firm's leadership team and Andy Bond, a former chairman of Pepco, have been working with Irish real estate firm Martin Property Group on a management buyout.
-Martin Property Group is the management team's "preferred partner", the spokesman said, but the team will "work with whoever can deliver the best result for the business, colleagues and suppliers and build on the successful recovery that's already taking shape," he added.
-However, Bally Auluk, a national officer at Usdaw, said there are "deep concerns that the business could go into administration" should this buyout fail.
-"We are aware that a management buy-out has been attempted and we are told that their offers are being turned down," he added.
-A Poundland source disputed this, however, saying the Martin Property Group is part of the sale process and remains the management team's preferred partner.
-Retail analyst Catherine Shuttleworth said there were "tough times" on the High Street for all retailers.
-She said retailers were struggling with "significantly subdued consumer confidence as prices continue to rise" due to higher fuel costs.
-Poundland itself faces intense competition from rivals including B&M, Aldi, Lidl and from online retailers including Temu and TikTok Shop.
-The business "lost its strong £1 identity leaving shoppers to think it was getting too expensive", Shuttleworth said, and a costly expansion into clothing and frozen food under past management had not been successful.
-However, increased sales this year showed a deal with Mr Williams as boss "would make good sense", she added.`,
-    bodyJa: `Poundland in rescue talks as owners seek buyer
-- Published
-Retail chain Poundland is in talks with potential buyers as it seeks a rescue deal, it has confirmed.
-Executives are working with an Irish property development group on a management buyout, as first reported by Sky News, external.
-But a union representing shopworkers warned that the retailer could fall into administration if that deal falls through, putting thousands of jobs at risk.
-This outcome would be "a disaster for our members", the Usdaw union said.
-Poundland has about 600 stores in the UK and Ireland, and 12,000 employees.
-The chain has been struggling for a number of years due to pressures including rising costs and competition.
-However, it expects sales to have grown more than 3% in 2026 compared with the previous year, which managing director Barry Williams said earlier this month was evidence that its recovery plan "is working".
-The retailer was sold for £1 last summer by previous owner Pepco to US investment firm Gordon Brothers.
-The current owners are in the process of seeking buyers, with the Poundland management attempting a buyout, a spokesman said.
-Mr Williams, along with the firm's leadership team and Andy Bond, a former chairman of Pepco, have been working with Irish real estate firm Martin Property Group on a management buyout.
-Martin Property Group is the management team's "preferred partner", the spokesman said, but the team will "work with whoever can deliver the best result for the business, colleagues and suppliers and build on the successful recovery that's already taking shape," he added.
-However, Bally Auluk, a national officer at Usdaw, said there are "deep concerns that the business could go into administration" should this buyout fail.
-"We are aware that a management buy-out has been attempted and we are told that their offers are being turned down," he added.
-A Poundland source disputed this, however, saying the Martin Property Group is part of the sale process and remains the management team's preferred partner.
-Retail analyst Catherine Shuttleworth said there were "tough times" on the High Street for all retailers.
-She said retailers were struggling with "significantly subdued consumer confidence as prices continue to rise" due to higher fuel costs.
-Poundland itself faces intense competition from rivals including B&M, Aldi, Lidl and from online retailers including Temu and TikTok Shop.
-The business "lost its strong £1 identity leaving shoppers to think it was getting too expensive", Shuttleworth said, and a costly expansion into clothing and frozen food under past management had not been successful.
-However, increased sales this year showed a deal with Mr Williams as boss "would make good sense", she added.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ckr5ydvvln0mo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-13T12:17:17+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9b1/live/c0667080-c6e7-11f1-bf38-57dc5cd42af2.jpg",
-    readTime: 7,
-  },
-  {
-    id: "three-things-we-ve-learnt-about-the-uk-e-4fc84634",
-    title: "Three things we've learnt about the UK economy from the IMF",
-    titleJa: "Three things we've learnt about the UK economy from the IMF",
-    summaryJa: "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
-    bodyOriginal: `Three things we've learnt about the UK economy from the IMF
-- Published
-Countries around the world have had their future economic prospects assessed by influential body, the International Monetary Fund (IMF).
-What the IMF says matters – it aims to keep the global economy stable and its twice-yearly forecasts are one of the most authoritative looks at what is really going on around the world.
-Yet like all forecasts they can also turn out to be incorrect, so they shouldn't be treated as gospel.
-Here are three things we've learnt about the UK from the IMF's latest report.
-1. The UK is weathering the Iran war better than expected
-The global economy has been rocked by the US-Israel war with Iran.
-The transportation and production of energy in the Middle East has been severely disrupted, causing oil prices to jump and inflation to rise.
-To calm the rate of price rises, central banks, including the Bank of England, are expected to hike interest rates in the coming months.
-Despite all this, the IMF said the global economy is doing much better than expected, partly because of the surge of investment into artificial intelligence (AI).
-And this is good news for the UK. The IMF said its economy would expand by 1.3% in 2026, up from the 1% it predicted in July, before slowing in 2027.
-A growing economy means companies are investing more and hiring more people while shoppers have more money to spend. A shrinking economy means the reverse is true.
-2. The UK is doing better than other major economies
-There is increased concern about how much money countries are borrowing, but the IMF said the UK is doing better than all other major economies at this.
-The IMF said the UK "basically stands out, along with India" when it comes to addressing the problem and by 2031 it is projected to have the lowest annual borrowing of the G7 group of countries, which includes Canada, France, Germany, Italy, Japan and the US.
-Sir Howard Davies, former deputy governor of the Bank of England, said this was largely because the UK has a government with a majority which has committed to tackling the situation, which it is expected to achieve either through tax rises, cuts to public services, or a mix of both.
-By contrast, he says the US has said little about reducing its deficit, while France and Germany don't have majority governments.
-"So, we [the UK] are not great students, but we look somewhat better than some of the others we are sharing the class with," he said.
-Meanwhile, the IMF's growth forecasts for the UK mean it is expected to have the second-fastest growing economy in the G7 this year along with Germany.
-Sir Howard believes this should also be seen in context.
-"We're still growing slowly. It's almost like saying we're winning a slow bicycle race here because other people are going backwards a bit more rapidly than we are."
-3. But things could get worse
-While the IMF boosted its projection for the UK's growth in 2026, it slightly downgraded its forecasts for next year.
-While the UK has handled the economic fallout from the Iran war better than expected so far, it says this will change next year as high energy prices and elevated interest rates affect how much people spend in shops and how much companies are willing to invest.
-In addition, the IMF has said households are likely to continue feeling the pinch of rising prices. It forecasts inflation in the UK will average 3.3% this year and it has raised its estimate for next year to 2.8% from its previous prediction of 2.4%.
-"There will be increasing inflationary pressure put on the UK and the Bank of England will have to consider further rate rises," says Tim Armitage, investment strategist at Quilter Cheviot.
-He added that at least one rate rise is predicted this year, with more expected to come next year.
-- Published4 hours ago`,
-    bodyJa: `Three things we've learnt about the UK economy from the IMF
-- Published
-Countries around the world have had their future economic prospects assessed by influential body, the International Monetary Fund (IMF).
-What the IMF says matters – it aims to keep the global economy stable and its twice-yearly forecasts are one of the most authoritative looks at what is really going on around the world.
-Yet like all forecasts they can also turn out to be incorrect, so they shouldn't be treated as gospel.
-Here are three things we've learnt about the UK from the IMF's latest report.
-1. The UK is weathering the Iran war better than expected
-The global economy has been rocked by the US-Israel war with Iran.
-The transportation and production of energy in the Middle East has been severely disrupted, causing oil prices to jump and inflation to rise.
-To calm the rate of price rises, central banks, including the Bank of England, are expected to hike interest rates in the coming months.
-Despite all this, the IMF said the global economy is doing much better than expected, partly because of the surge of investment into artificial intelligence (AI).
-And this is good news for the UK. The IMF said its economy would expand by 1.3% in 2026, up from the 1% it predicted in July, before slowing in 2027.
-A growing economy means companies are investing more and hiring more people while shoppers have more money to spend. A shrinking economy means the reverse is true.
-2. The UK is doing better than other major economies
-There is increased concern about how much money countries are borrowing, but the IMF said the UK is doing better than all other major economies at this.
-The IMF said the UK "basically stands out, along with India" when it comes to addressing the problem and by 2031 it is projected to have the lowest annual borrowing of the G7 group of countries, which includes Canada, France, Germany, Italy, Japan and the US.
-Sir Howard Davies, former deputy governor of the Bank of England, said this was largely because the UK has a government with a majority which has committed to tackling the situation, which it is expected to achieve either through tax rises, cuts to public services, or a mix of both.
-By contrast, he says the US has said little about reducing its deficit, while France and Germany don't have majority governments.
-"So, we [the UK] are not great students, but we look somewhat better than some of the others we are sharing the class with," he said.
-Meanwhile, the IMF's growth forecasts for the UK mean it is expected to have the second-fastest growing economy in the G7 this year along with Germany.
-Sir Howard believes this should also be seen in context.
-"We're still growing slowly. It's almost like saying we're winning a slow bicycle race here because other people are going backwards a bit more rapidly than we are."
-3. But things could get worse
-While the IMF boosted its projection for the UK's growth in 2026, it slightly downgraded its forecasts for next year.
-While the UK has handled the economic fallout from the Iran war better than expected so far, it says this will change next year as high energy prices and elevated interest rates affect how much people spend in shops and how much companies are willing to invest.
-In addition, the IMF has said households are likely to continue feeling the pinch of rising prices. It forecasts inflation in the UK will average 3.3% this year and it has raised its estimate for next year to 2.8% from its previous prediction of 2.4%.
-"There will be increasing inflationary pressure put on the UK and the Bank of England will have to consider further rate rises," says Tim Armitage, investment strategist at Quilter Cheviot.
-He added that at least one rate rise is predicted this year, with more expected to come next year.
-- Published4 hours ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-13T11:58:43+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9039/live/426755d0-c6fd-11f1-b4dd-e786ec6f11b1.jpg",
-    readTime: 10,
-  },
-  {
-    id: "iran-reportedly-fortifies-nuclear-sites-da62fb3a",
-    title: "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
-    titleJa: "Iran reportedly fortifies nuclear sites as it prepares for possible U.S. strikes after midterms",
-    summaryJa: "A Saudi-led coalition fighting the Houthis – a Yemeni militant group backed by Tehran – said it had intercepted another attack on Riyadh.",
-    bodyOriginal: `Iran is reportedly working to bolster its military capabilities in preparation for possible renewed U.S. attacks after the November midterm elections.
-The Wall Street Journal reported Tuesday that the Islamic Republic has been strengthening defenses around sensitive locations like nuclear sites, and telling regional officials that Tehran will respond to any new U.S. strikes with retaliatory measures across the Middle East.
-The WSJ's report also said the Iranian regime is preparing its population for war by holding rallies, sending paramilitaries to read war stories to young children and advertising training in firing defensive missiles.
-U.S. President Donald Trump said Thursday that American forces would not attack Iran before the congressional midterm elections, which will take place on Nov. 3.
-The Iranian and U.S. governments did not immediately respond to requests for comment on the WSJ report.
-Houthi attacks on Riyadh
-Meanwhile, a Saudi-led coalition fighting the Houthis – a Yemeni militant group backed by Tehran – said it had intercepted a ballistic missile shot at Riyadh, the Saudi capital, on Monday, news agency Reuters reported.
-The Houthis have been attacking the Saudi capital since last week, launching multiple strikes on energy facilities and airports. One airport attack resulted in multiple deaths, including a pilot working for Saudi carrier Saudia.
-The closure of King Khalid International Airport in Riyadh has been extended until Saturday.
-On Monday, the U.S. Federal Aviation Administration urged airlines to exercise caution when flying above or near Saudi Arabia.
-Iran-linked U.K. base threat
-U.K. Prime Minister Andy Burnham told British lawmakers on Monday that an attempted attack on an air force base in England was "almost certainly directed by Iran's Islamic Revolutionary Guard."
-Ed Miliband, the U.K.'s foreign minister, said he had summoned the Iranian ambassador to stress that "Britain will not tolerate threats on our soil."
-British police arrested five men on Sept. 27 on suspicion of terrorism offenses over an alleged threat to RAF Fairford in the west of England, a Royal Air Force base that the U.S. Air Force has used to strike Iranian missile sites.
-Trump later said the U.S. had moved all its long-range bombers out of the U.K. in response to "a threat."`,
-    bodyJa: `Iran is reportedly working to bolster its military capabilities in preparation for possible renewed U.S. attacks after the November midterm elections.
-The Wall Street Journal reported Tuesday that the Islamic Republic has been strengthening defenses around sensitive locations like nuclear sites, and telling regional officials that Tehran will respond to any new U.S. strikes with retaliatory measures across the Middle East.
-The WSJ's report also said the Iranian regime is preparing its population for war by holding rallies, sending paramilitaries to read war stories to young children and advertising training in firing defensive missiles.
-U.S. President Donald Trump said Thursday that American forces would not attack Iran before the congressional midterm elections, which will take place on Nov. 3.
-The Iranian and U.S. governments did not immediately respond to requests for comment on the WSJ report.
-Houthi attacks on Riyadh
-Meanwhile, a Saudi-led coalition fighting the Houthis – a Yemeni militant group backed by Tehran – said it had intercepted a ballistic missile shot at Riyadh, the Saudi capital, on Monday, news agency Reuters reported.
-The Houthis have been attacking the Saudi capital since last week, launching multiple strikes on energy facilities and airports. One airport attack resulted in multiple deaths, including a pilot working for Saudi carrier Saudia.
-The closure of King Khalid International Airport in Riyadh has been extended until Saturday.
-On Monday, the U.S. Federal Aviation Administration urged airlines to exercise caution when flying above or near Saudi Arabia.
-Iran-linked U.K. base threat
-U.K. Prime Minister Andy Burnham told British lawmakers on Monday that an attempted attack on an air force base in England was "almost certainly directed by Iran's Islamic Revolutionary Guard."
-Ed Miliband, the U.K.'s foreign minister, said he had summoned the Iranian ambassador to stress that "Britain will not tolerate threats on our soil."
-British police arrested five men on Sept. 27 on suspicion of terrorism offenses over an alleged threat to RAF Fairford in the west of England, a Royal Air Force base that the U.S. Air Force has used to strike Iranian missile sites.
-Trump later said the U.S. had moved all its long-range bombers out of the U.K. in response to "a threat."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/13/iran-us-war-houthis-saudi-arabia-airport.html",
-    publishedAt: "2026-10-13T11:53:45+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "ba-flight-forced-to-turn-back-over-crack-c02a119d",
-    title: "BA flight forced to turn back over cracked window",
-    titleJa: "BA flight forced to turn back over cracked window",
-    summaryJa: "British Airways said the plane landed safely at Gatwick and passengers were due to resume their journey.",
-    bodyOriginal: `BA flight forced to turn back over cracked window
-- Published
-A British Airways flight en route to Portugal was forced to return to Gatwick Airport on Tuesday due to a minor technical issue, reported to be a cracked window.
-Flight BA2660 was heading to Faro in the Algarve but diverted over north-western France in order to return to London Gatwick.
-AirNav Radar, a flight data provider, posted on X that "a passenger window is cracked. Flight deck going through checks before deciding were to divert".
-A spokesperson for British Airways said the plane landed safely at Gatwick due to a "minor technical issue" and passengers were due to resume their journey.
-"We have apologised to customers for the delay to their journey, and our teams are working hard to get their travel plans back on track," they said.
-Airnav Radar reported that the BA Airbus A321 squawked the 7700 emergency code, which is used when there are mechanical or technical problems on board aircraft.
-Last week, a BA flight bound for Chicago spent five hours circling over Ireland, before turning back and landing at London Heathrow, where it had taken off.
-The flight issued an emergency alert and passengers reported oxygen masks dropped in the cabin, as well as turbulence. Tracking data showed it rapidly descended from 37,000 feet to 9,000 feet.
-And in August Serbian national Ljubisa Karović's head and right shoulder were sucked out of the window on a Ryanair flight, leaving him "seriously injured and in shock".
-Ryanair subsequently said the window may have been damaged by a foreign object.
-Additional reporting by Emily Coady-Stemp
-Related topics
-- Published21 July`,
-    bodyJa: `BA flight forced to turn back over cracked window
-- Published
-A British Airways flight en route to Portugal was forced to return to Gatwick Airport on Tuesday due to a minor technical issue, reported to be a cracked window.
-Flight BA2660 was heading to Faro in the Algarve but diverted over north-western France in order to return to London Gatwick.
-AirNav Radar, a flight data provider, posted on X that "a passenger window is cracked. Flight deck going through checks before deciding were to divert".
-A spokesperson for British Airways said the plane landed safely at Gatwick due to a "minor technical issue" and passengers were due to resume their journey.
-"We have apologised to customers for the delay to their journey, and our teams are working hard to get their travel plans back on track," they said.
-Airnav Radar reported that the BA Airbus A321 squawked the 7700 emergency code, which is used when there are mechanical or technical problems on board aircraft.
-Last week, a BA flight bound for Chicago spent five hours circling over Ireland, before turning back and landing at London Heathrow, where it had taken off.
-The flight issued an emergency alert and passengers reported oxygen masks dropped in the cabin, as well as turbulence. Tracking data showed it rapidly descended from 37,000 feet to 9,000 feet.
-And in August Serbian national Ljubisa Karović's head and right shoulder were sucked out of the window on a Ryanair flight, leaving him "seriously injured and in shock".
-Ryanair subsequently said the window may have been damaged by a foreign object.
-Additional reporting by Emily Coady-Stemp
-Related topics
-- Published21 July`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cj1dwrxq1wndo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-13T11:48:07+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d81/live/e303dfe0-c702-11f1-9783-ed95709f9dec.jpg",
-    readTime: 4,
-  },
-  {
-    id: "uk-growth-forecast-upgraded-but-higher-e-4ed04e27",
-    title: "UK growth forecast upgraded but higher energy prices to hit economy next year",
-    titleJa: "UK growth forecast upgraded but higher energy prices to hit economy next year",
-    summaryJa: "The prediction from the IMF comes as final preparations are being made for the first Budget under Prime Minister Andy Burnham.",
-    bodyOriginal: `UK growth forecast upgraded but higher energy prices to hit economy next year
-- Published
-The UK economy is forecast to grow by more than previously expected this year before higher energy prices and interest rates hit the economy in 2027, the International Monetary Fund (IMF) said.
-The organisation's latest report, which is closely watched by the government, said the UK economy would expand by 1.3% in 2026, up from the 1% it predicted in July, before slowing in 2027.
-Economies across the world have proved more resilient to the energy price shock caused by the US-Iran war, the IMF said, but it warned the economic fallout from the conflict remained "highly uncertain".
-Chancellor John Healey said the government would look to "provide some breathing space" for households in the Budget.
-Healey is making the final preparations to Andy Burnham's new-look government's tax and spending plans, which will be announced on 28 October.
-Government borrowing costs have surged, placing pressure on the chancellor to ensure his plans are credible in the eyes of financial markets, which the UK relies on to borrow money.
-But IMF chief economist Silvana Tenreyro told BBC News on Tuesday that the UK's process of managing its debts is now leading the major G7 economies.
-"As you know, the UK has already started the consolidation process and it is the country that basically stands out, along with India", she said.
-The organisation said the UK is one of the only major economies on course to stabilise levels of national debt. The UK is also projected to have the lowest annual borrowing in the G7 in 2031.
-Asked if the UK was one of the countries the IMF was telling to reduce borrowing, Tenreyro said that the country had begun the process already and should "stay the course".
-The head of the IMF has previously called on the world's advanced economies to cut borrowing and reduce debt levels.
-While the IMF's forecasts are closely watched, the figures are only a prediction, a best estimate, of what will happen in the future. Forecasts often turn out to be incorrect due to world events.
-Also, the chancellor's spending decisions at the Budget will be based on predictions from the UK's official forecaster, the Office for Budget Responsibility, not the IMF.
-The predictions in the IMF's latest World Economic Outlook suggest:
-the UK is expected to have the second-fastest growing economy in the G7 this year along with Germany
-UK growth is set to slow next year to 1.2% as higher energy prices and long-term interest rates hit household spending and business investment
-UK inflation is expected to average 3.3% this year, and the IMF has increased its forecast for inflation next year to 2.8%.
-the IMF said the global economy was "proving resilient" despite the ongoing war in the Middle East, helped by the investment surge in AI.
-'Slow bicycle race'
-Healey acknowledged that wars in the Middle East and Europe were "hitting people in the UK and around the world", but added that "Britain's economy is showing strong international resilience".
-When the economy is growing, businesses tend to invest more, more jobs are created and people, on average, tend to feel better off. The opposite can occur if the economy stagnates or shrinks.
-Sir Howard Davies, former deputy governor of the Bank of England, told the BBC the IMF's growth forecast was "better than it might have been", but noted that for 2027 it remained "more pessimistic".
-"We're still growing slowly. It's almost like saying we're winning a slow bicycle race here because other people are going backwards a bit more rapidly than we are," he added.
-Sir Howard said the UK was "a bit of a sideshow" when it comes to the global economy and the IMF was more focused on how much the US is adding to its debt pile.
-"That is what is putting pressure on interest rates all over the world and that is what is affecting us as well. Unless the US does something about its deficit, we can expect interest rates to be higher, which of course increases our debt interest costs," he said.
-He added that the IMF was giving the UK credit in its forecast for tax rises which it might not end up actually putting through.
-Economists have suggested Healey faces having to find £35bn to avoid cuts to public spending while meeting defence promises in his first Budget.
-On Tuesday, the Resolution Foundation called on the chancellor to "make repairs" to the public finances, but said well-targeted support was needed for those "struggling to heat their homes".
-Andrew Griffith, Conservative shadow chancellor, said if Healey "reaches for more tax rises" in his Budget, "he is choosing slower growth and working people will pay for it".
-Get in touch
-How have you been affected by the issues in this story? Share your experience
-Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
-    bodyJa: `UK growth forecast upgraded but higher energy prices to hit economy next year
-- Published
-The UK economy is forecast to grow by more than previously expected this year before higher energy prices and interest rates hit the economy in 2027, the International Monetary Fund (IMF) said.
-The organisation's latest report, which is closely watched by the government, said the UK economy would expand by 1.3% in 2026, up from the 1% it predicted in July, before slowing in 2027.
-Economies across the world have proved more resilient to the energy price shock caused by the US-Iran war, the IMF said, but it warned the economic fallout from the conflict remained "highly uncertain".
-Chancellor John Healey said the government would look to "provide some breathing space" for households in the Budget.
-Healey is making the final preparations to Andy Burnham's new-look government's tax and spending plans, which will be announced on 28 October.
-Government borrowing costs have surged, placing pressure on the chancellor to ensure his plans are credible in the eyes of financial markets, which the UK relies on to borrow money.
-But IMF chief economist Silvana Tenreyro told BBC News on Tuesday that the UK's process of managing its debts is now leading the major G7 economies.
-"As you know, the UK has already started the consolidation process and it is the country that basically stands out, along with India", she said.
-The organisation said the UK is one of the only major economies on course to stabilise levels of national debt. The UK is also projected to have the lowest annual borrowing in the G7 in 2031.
-Asked if the UK was one of the countries the IMF was telling to reduce borrowing, Tenreyro said that the country had begun the process already and should "stay the course".
-The head of the IMF has previously called on the world's advanced economies to cut borrowing and reduce debt levels.
-While the IMF's forecasts are closely watched, the figures are only a prediction, a best estimate, of what will happen in the future. Forecasts often turn out to be incorrect due to world events.
-Also, the chancellor's spending decisions at the Budget will be based on predictions from the UK's official forecaster, the Office for Budget Responsibility, not the IMF.
-The predictions in the IMF's latest World Economic Outlook suggest:
-the UK is expected to have the second-fastest growing economy in the G7 this year along with Germany
-UK growth is set to slow next year to 1.2% as higher energy prices and long-term interest rates hit household spending and business investment
-UK inflation is expected to average 3.3% this year, and the IMF has increased its forecast for inflation next year to 2.8%.
-the IMF said the global economy was "proving resilient" despite the ongoing war in the Middle East, helped by the investment surge in AI.
-'Slow bicycle race'
-Healey acknowledged that wars in the Middle East and Europe were "hitting people in the UK and around the world", but added that "Britain's economy is showing strong international resilience".
-When the economy is growing, businesses tend to invest more, more jobs are created and people, on average, tend to feel better off. The opposite can occur if the economy stagnates or shrinks.
-Sir Howard Davies, former deputy governor of the Bank of England, told the BBC the IMF's growth forecast was "better than it might have been", but noted that for 2027 it remained "more pessimistic".
-"We're still growing slowly. It's almost like saying we're winning a slow bicycle race here because other people are going backwards a bit more rapidly than we are," he added.
-Sir Howard said the UK was "a bit of a sideshow" when it comes to the global economy and the IMF was more focused on how much the US is adding to its debt pile.
-"That is what is putting pressure on interest rates all over the world and that is what is affecting us as well. Unless the US does something about its deficit, we can expect interest rates to be higher, which of course increases our debt interest costs," he said.
-He added that the IMF was giving the UK credit in its forecast for tax rises which it might not end up actually putting through.
-Economists have suggested Healey faces having to find £35bn to avoid cuts to public spending while meeting defence promises in his first Budget.
-On Tuesday, the Resolution Foundation called on the chancellor to "make repairs" to the public finances, but said well-targeted support was needed for those "struggling to heat their homes".
-Andrew Griffith, Conservative shadow chancellor, said if Healey "reaches for more tax rises" in his Budget, "he is choosing slower growth and working people will pay for it".
-Get in touch
-How have you been affected by the issues in this story? Share your experience
-Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-13T09:38:54+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a5e/live/c20b7a80-c6d2-11f1-9a39-31b474234113.jpg",
-    readTime: 10,
   },
 ];
 
