@@ -15,6 +15,330 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "openai-saudi-national-bugging-case-shows-e3c84ba8",
+    title: "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
+    titleJa: "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI: DNI Clayton",
+    summaryJa: "AI \"amplifies\" existing cybersecurity risks toward U.S. digital infrastructure, Clayton said on \"Squawk Box.\"",
+    bodyOriginal: `U.S. companies and the Trump administration both "need to be wary" of foreign espionage attempts as the race for artificial intelligence dominance continues, Director of National Intelligence Jay Clayton told CNBC on Friday.
+AI "amplifies" existing cybersecurity risks toward U.S. digital infrastructure, which is interconnected with critical systems related to everything from public goods to the national defense and global communications, Clayton said on "Squawk Box."
+It's "why we're focused on hardening those systems" and using "our commitment to continue to lead to stay ahead of those nefarious actors," said Clayton, who leads a new White House AI task force.
+Clayton was asked how concerned Americans should be with the threat of foreign spying in light of the recently revealed case charging Saudi national Abdulrahman Alfozan with allegedly installing a recording device in an OpenAI executive conference room. Alfozan has not been charged with espionage; the federal charge involves alleged interception of oral communications.
+Alfozan, who was an OpenAI employee, had booked a one-way plane ticket to Saudi Arabia with his wife and another family member prior to his arrest, according to federal prosecutors.
+"The short answer to your question is espionage, both commercial espionage, and I would say state-sponsored espionage, are realities," Clayton said.
+"It's something that our private sector companies need to be wary of. We, as a government, need to be wary of," he said.
+The OpenAI incident "shows the lengths that people will go to try and supplant our leadership in this, or at least stay close to us in this emerging technology," Clayton said.
+An ex-CIA official, who asked not to be named because they were discussing information that is not public, told CNBC this week that the case is "probably the tip of the iceberg."
+Clayton, who was appointed AI czar earlier this month, said that the task force's "very good" inaugural meeting at the White House on Thursday built on the accord signed by President Donald Trump and a number of AI leaders at the White House last month. Trump had described the agreement, which includes industry pledges to police AI risks itself, as "morally binding."
+The task force also established three subcommittees that are focused on different AI-related issues. One is tasked with reporting and response, another with assessing critical infrastructure and working with the private sector, and a third with law enforcement and responsibility, Clayton said.
+The DNI reiterated to CNBC that the Trump administration is intent on staying ahead in the AI race.
+"We're not the only ones developing it. There are vectors in this technology that are coming from some of our known adversaries and competitors," he said. "The Chinese, the Russians, the Iranians, the North Koreans all have significant technical capability. We need to stay ahead of them."`,
+    bodyJa: `U.S. companies and the Trump administration both "need to be wary" of foreign espionage attempts as the race for artificial intelligence dominance continues, Director of National Intelligence Jay Clayton told CNBC on Friday.
+AI "amplifies" existing cybersecurity risks toward U.S. digital infrastructure, which is interconnected with critical systems related to everything from public goods to the national defense and global communications, Clayton said on "Squawk Box."
+It's "why we're focused on hardening those systems" and using "our commitment to continue to lead to stay ahead of those nefarious actors," said Clayton, who leads a new White House AI task force.
+Clayton was asked how concerned Americans should be with the threat of foreign spying in light of the recently revealed case charging Saudi national Abdulrahman Alfozan with allegedly installing a recording device in an OpenAI executive conference room. Alfozan has not been charged with espionage; the federal charge involves alleged interception of oral communications.
+Alfozan, who was an OpenAI employee, had booked a one-way plane ticket to Saudi Arabia with his wife and another family member prior to his arrest, according to federal prosecutors.
+"The short answer to your question is espionage, both commercial espionage, and I would say state-sponsored espionage, are realities," Clayton said.
+"It's something that our private sector companies need to be wary of. We, as a government, need to be wary of," he said.
+The OpenAI incident "shows the lengths that people will go to try and supplant our leadership in this, or at least stay close to us in this emerging technology," Clayton said.
+An ex-CIA official, who asked not to be named because they were discussing information that is not public, told CNBC this week that the case is "probably the tip of the iceberg."
+Clayton, who was appointed AI czar earlier this month, said that the task force's "very good" inaugural meeting at the White House on Thursday built on the accord signed by President Donald Trump and a number of AI leaders at the White House last month. Trump had described the agreement, which includes industry pledges to police AI risks itself, as "morally binding."
+The task force also established three subcommittees that are focused on different AI-related issues. One is tasked with reporting and response, another with assessing critical infrastructure and working with the private sector, and a third with law enforcement and responsibility, Clayton said.
+The DNI reiterated to CNBC that the Trump administration is intent on staying ahead in the AI race.
+"We're not the only ones developing it. There are vectors in this technology that are coming from some of our known adversaries and competitors," he said. "The Chinese, the Russians, the Iranians, the North Koreans all have significant technical capability. We need to stay ahead of them."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
+    publishedAt: "2026-10-16T16:27:44+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "analysis-everyone-expects-the-fed-to-hol-897304ac",
+    title: "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+    titleJa: "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
+    summaryJa: "Investors expect the Fed to pause rate hikes in October, but Kevin Warsh's rejection of traditional communications practices and continued concern about inflation leave the decision uncertain.",
+    bodyOriginal: `Traders are betting overwhelmingly that the Federal Reserve won't raise interest rates when it meets later this month. But that judgment rests in part on assumptions about how the Fed communicates that may no longer hold under its new chairman. Kevin Warsh has left room to maneuver toward a hike, should he choose to use it.
+To be clear, Warsh said outright at an International Monetary Fund event in Bangkok Friday morning that he wasn't signaling a decision one way or the other. His remarks nonetheless reinforced a judgment in the markets that the Fed would pause its rate increases, with the futures market assigning a 15% probability to an October hike as of Friday morning. That judgment follows remarks by other Fed speakers, including the chair's traditional top lieutenants, who indicated they were comfortable holding.
+There are good reasons for investors to expect the Fed to wait. But there is also a case in the inflation data that Warsh could invoke to push the Federal Open Market Committee toward an increase on Oct. 28. Investors are overlooking that case based on longstanding past experience with the Fed.
+But the chairman has repeatedly rejected the convention of telling markets what he plans to do before the committee meets. That raises the possibility that investors are dangerously complacent about the probability of a rate hike in October.
+That complacency rests on a few bases. One is that the chairman's top lieutenants speak for him, or at least wouldn't contradict him in public. That was true in the past, but may not be so anymore.
+In recent weeks, both Fed Vice Chairman Philip Jefferson and New York Fed President John Williams gave remarks that indicated they see little urgency in raising interest rates. The markets quickly repriced in favor of a hold in October.
+Warsh, Jefferson and Williams make up an informal decision-making team atop the Fed known as the troika. Warsh could arguably coordinate with the troika even if he doesn't believe in communicating his own views. But outsiders can't be certain that traditional conventions surrounding the public statements of the New York Fed president and the Fed vice chair have survived the leadership transition.
+Another assumption is that Warsh broadly accepts the FOMC's view of the economy. "The world has broadly conformed to our expectations," Warsh said in Bangkok of the economy since September.
+That can be read as saying that relatively hot inflation readings from the consumer and producer price indexes in recent days don't disconfirm the view expressed in the Fed's most recent Summary of Economic Projections released at the conclusion of the September meeting. At the time, the median Fed official believed there would be one more rate hike in 2026 — which left room to pause in October and raise again in December.
+But Warsh went out of his way at the September press conference to disclaim the SEP. "Those aren't my forecasts," he told a reporter.
+Warsh set out his own idiosyncratic reading of the economy in detail at a closely watched speech in Jackson Hole, Wyoming, at the end of August. It described the economy as growing strongly, with inflation a greater worry than the jobs market. Warsh's strongly hawkish views then set up the FOMC to unanimously raise interest rates in September. That hawkish position relied heavily on what he sees as loose credit conditions.
+The Chicago Fed's National Financial Conditions Index has risen about 0.05 points since Jackson Hole but remains negative, indicating financial conditions have tightened but remain loose overall.
+Does Warsh believe the market has done his work for him? Is having "removed a dose of accommodation," as he put it Thursday, enough? We can infer these answers, but we won't really know them until the FOMC press conference.
+Then there is the inflation data. The consumer price index rose 3.7% for the year through September, while the producer price index gained 6.3%. The new data implies that the next reading of the Fed's preferred inflation reading, core personal consumption expenditures, will come in at 3.1% year over year. Headline PCE, which will be affected by energy prices, would be higher.
+Warsh has gone out of his way to say that figures at that level are a problem. After economists questioned whether Warsh might tolerate inflation above 2%, he was unequivocal in Jackson Hole: "There should be no misunderstanding," Warsh said. The Fed's 2% PCE goal "is a firm, fixed target."
+Warsh is visibly learning on the job. He may well be coming to understand that the Fed chairman can't operate alone and must rely on the staff and the rest of the FOMC to help him do his job. Likewise, he may discover that markets don't issue a clear signal independently of the Fed.
+Raising rates while the markets strongly expect otherwise is a recipe for volatility. That factor has prompted interventions by officials like Jefferson and Williams in the past. A surprise decision after they were seen to guide the market could dent their credibility and make the Fed's decisions even harder to predict.
+But how Warsh will settle these matters isn't clear yet. Warsh could go into the October meeting primed to muscle up wavering committee members based on booming demand for AI spending and warm readings in the inflation data. Or he could sit back and tack toward the middle of the committee once he assesses its views.
+Warsh still has the potential to surprise us, and it's risky to assume otherwise.`,
+    bodyJa: `Traders are betting overwhelmingly that the Federal Reserve won't raise interest rates when it meets later this month. But that judgment rests in part on assumptions about how the Fed communicates that may no longer hold under its new chairman. Kevin Warsh has left room to maneuver toward a hike, should he choose to use it.
+To be clear, Warsh said outright at an International Monetary Fund event in Bangkok Friday morning that he wasn't signaling a decision one way or the other. His remarks nonetheless reinforced a judgment in the markets that the Fed would pause its rate increases, with the futures market assigning a 15% probability to an October hike as of Friday morning. That judgment follows remarks by other Fed speakers, including the chair's traditional top lieutenants, who indicated they were comfortable holding.
+There are good reasons for investors to expect the Fed to wait. But there is also a case in the inflation data that Warsh could invoke to push the Federal Open Market Committee toward an increase on Oct. 28. Investors are overlooking that case based on longstanding past experience with the Fed.
+But the chairman has repeatedly rejected the convention of telling markets what he plans to do before the committee meets. That raises the possibility that investors are dangerously complacent about the probability of a rate hike in October.
+That complacency rests on a few bases. One is that the chairman's top lieutenants speak for him, or at least wouldn't contradict him in public. That was true in the past, but may not be so anymore.
+In recent weeks, both Fed Vice Chairman Philip Jefferson and New York Fed President John Williams gave remarks that indicated they see little urgency in raising interest rates. The markets quickly repriced in favor of a hold in October.
+Warsh, Jefferson and Williams make up an informal decision-making team atop the Fed known as the troika. Warsh could arguably coordinate with the troika even if he doesn't believe in communicating his own views. But outsiders can't be certain that traditional conventions surrounding the public statements of the New York Fed president and the Fed vice chair have survived the leadership transition.
+Another assumption is that Warsh broadly accepts the FOMC's view of the economy. "The world has broadly conformed to our expectations," Warsh said in Bangkok of the economy since September.
+That can be read as saying that relatively hot inflation readings from the consumer and producer price indexes in recent days don't disconfirm the view expressed in the Fed's most recent Summary of Economic Projections released at the conclusion of the September meeting. At the time, the median Fed official believed there would be one more rate hike in 2026 — which left room to pause in October and raise again in December.
+But Warsh went out of his way at the September press conference to disclaim the SEP. "Those aren't my forecasts," he told a reporter.
+Warsh set out his own idiosyncratic reading of the economy in detail at a closely watched speech in Jackson Hole, Wyoming, at the end of August. It described the economy as growing strongly, with inflation a greater worry than the jobs market. Warsh's strongly hawkish views then set up the FOMC to unanimously raise interest rates in September. That hawkish position relied heavily on what he sees as loose credit conditions.
+The Chicago Fed's National Financial Conditions Index has risen about 0.05 points since Jackson Hole but remains negative, indicating financial conditions have tightened but remain loose overall.
+Does Warsh believe the market has done his work for him? Is having "removed a dose of accommodation," as he put it Thursday, enough? We can infer these answers, but we won't really know them until the FOMC press conference.
+Then there is the inflation data. The consumer price index rose 3.7% for the year through September, while the producer price index gained 6.3%. The new data implies that the next reading of the Fed's preferred inflation reading, core personal consumption expenditures, will come in at 3.1% year over year. Headline PCE, which will be affected by energy prices, would be higher.
+Warsh has gone out of his way to say that figures at that level are a problem. After economists questioned whether Warsh might tolerate inflation above 2%, he was unequivocal in Jackson Hole: "There should be no misunderstanding," Warsh said. The Fed's 2% PCE goal "is a firm, fixed target."
+Warsh is visibly learning on the job. He may well be coming to understand that the Fed chairman can't operate alone and must rely on the staff and the rest of the FOMC to help him do his job. Likewise, he may discover that markets don't issue a clear signal independently of the Fed.
+Raising rates while the markets strongly expect otherwise is a recipe for volatility. That factor has prompted interventions by officials like Jefferson and Williams in the past. A surprise decision after they were seen to guide the market could dent their credibility and make the Fed's decisions even harder to predict.
+But how Warsh will settle these matters isn't clear yet. Warsh could go into the October meeting primed to muscle up wavering committee members based on booming demand for AI spending and warm readings in the inflation data. Or he could sit back and tack toward the middle of the committee once he assesses its views.
+Warsh still has the potential to surprise us, and it's risky to assume otherwise.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
+    publishedAt: "2026-10-16T16:27:31+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "why-trump-and-the-gop-s-billion-dollar-m-6090acda",
+    title: "Why Trump and the GOP's billion-dollar midterm blitz isn’t working",
+    titleJa: "Why Trump and the GOP's billion-dollar midterm blitz isn’t working",
+    summaryJa: "Trump-aligned groups and Elon Musk have poured hundreds of millions into the midterm election, but the GOP spending surge has barely moved polls or the map.",
+    bodyOriginal: `A billion-dollar war chest was meant to be Republicans' great equalizer heading into a bleak midterm election environment defined by economic frustration, President Donald Trump's unpopularity and fallout from the war in Iran.
+So far it hasn't worked.
+From Labor Day through Oct 14., GOP groups injected more than $740 million into congressional races that will determine control of Congress, according to a CNBC analysis of AdImpact data. That includes at least $220 million in spending from Trump-linked groups. Elon Musk has separately given another $276 million to Republican groups since July and helped boost the GOP's Senate Leadership Fund super PAC to a record quarter.
+Yet with less than three weeks until the Nov. 3 Election Day, the spending blitz has barely moved the map. Democrats lead in FiftyPlusOne's polling averages across nine of the Senate's most competitive races – Alaska, Georgia, Iowa, Kansas, Maine, Michigan, Minnesota, New Hampshire, North Carolina, Ohio and Texas – little changed from before the Republican spending spree. Minnesota was expected to be solidly blue, making its tight race a concern for Democrats.
+And Republican political operatives and independent election observers CNBC spoke with say the money hasn't had the effects its magnitude would be expected to in voter sentiment.
+Meanwhile, the broader battlefield continues to deteriorate for Republicans. Democrats are favored to flip the House and remain competitive in the Senate, according to the Cook Political Report with Amy Walter, forcing the GOP to burn millions protecting once-safe seats while abandoning former pickup targets.
+"Money is an amplifier, not a magic wand," said Neil Newhouse, partner at Republican polling firm Public Opinion Strategies. "You can buy all the airtime in the world, but if the political climate is blowing 30 miles an hour in your face, ad volume alone isn't going to turn the weather around."
+Musk flooding the zone
+Republicans entered the final stretch of the midterm election with unusually deep pockets.
+MAGA Inc. had nearly $416 million on hand at the end of August, according to Federal Election Commission filings. Across the broader ecosystem, major Republican organizations had roughly $1 billion available, eclipsing the $579 million available for comparable Democratic groups, according to a CNBC analysis of Federal Election Commission filings.
+Then came Musk — after saying he'd be less involved in this year's election. The Tesla and SpaceX CEO has given more than $276 million to Republican groups since July, including $158 million to the Senate Leadership Fund Republican-boosting super PAC and more than $76 million to his own America PAC, according to figures confirmed to CNBC by an America PAC spokesperson. Musk's known federal political giving this election cycle now totals roughly $366 million, making him the largest known donor of the midterms.
+And Musk is far from alone. Nine of the 10 largest individual and family donor groups this cycle are Republican-aligned, accounting for 86 cents of every dollar contributed by the top 10, according to a CNBC analysis of FEC records.
+"We are watching an unprecedented concentration and scale of political influence and wealth this election cycle," said Hilary Braseth, executive director of OpenSecrets, a nonprofit, nonpartisan group that tracks campaign spending.
+AdImpact projects $11.6 billion in political advertising this 2025-2026 cycle, surpassing both the 2022 midterms and the 2024 presidential election.
+Paying more for less
+However, the size of Republicans’ financial advantage may overstate how much advertising that money can actually buy.
+That's because much of the GOP's money, particularly spending by Trump-aligned groups, has arrived late and via super PACs, which can pay far more for airtime than candidates. Federal law entitles candidates to broadcasters' lowest unit rate during the final 60 days before a general election; outside groups get no such protection.
+It's an edge for Democrats whose candidates have generally outraised their Republican counterparts.
+In Dallas, for example, Democrat James Talarico's campaign spent about $2.4 million on local broadcast ads from Oct. 1 through Oct. 14, enough for the average viewer to see his ads about 48 times, according to a CNBC analysis of AdImpact data. The pro-Ken Paxton Texas PAC spent about $7.8 million for roughly 81 views per viewer – more than three times as much money for only about 70% more exposure, according to the analysis.
+Airtime has become so expensive that Paxton's allies have begun buying ads during national sporting events, calculating that reaching enough Texans through a national broadcast can cost less than buying across the state's local television markets, according to the Associated Press.
+"R money advantage not what it appears to be on [the] surface," Sen. John Cornyn, R-Texas, who lost to Paxton in the primary, posted on X on Oct. 5.
+Across the nine key Senate battlegrounds identified by the Cook Political Report as of Oct. 1, Republicans led broadcast TV spending in seven and outspent Democrats by 26% overall through Sept. 30, yet generated only 7% more airings.
+To be sure, super PACs don't face the same pricing disadvantage on digital ads, where campaigns and outside groups compete on more equal footing. But broadcast TV still dominates political spending, with AdImpact projecting it will account for 48% of the 2026 cycle total.
+Little movement in political polls
+But the payoff from all that spending has been harder to see in political polls.
+Despite more than $113 million spent on negative advertising targeting Talarico since the Texas primary, according to a CNBC analysis of AdImpact data, a Siena College poll released Tuesday showed Talarico leading Paxton 48% to 44%, down only slightly from his six-point lead in September.
+In Michigan, after more than $87 million in attacks targeting Democrat Abdul El-Sayed this year, according to a CNBC analysis of AdImpact data, Fox News polling from late September found El-Sayed's favorable rating among registered voters up five points from its early August survey, while Republican Mike Rogers' fell four points.
+Part of the challenge is diminishing returns on ads as Election Day nears. Political advertising experts tell CNBC that as campaigns repeatedly target the same small pool of persuadable voters, each additional dollar is less likely to reach someone who has not already heard the message.
+"When an undecided voter has already seen 20 negative ads today, the 21st ad doesn't persuade them. It just gets tuned out," said Michael Beckel, money in politics reform director at Issue One. "Their eyes glaze over." Issue One works to reduce the influence of money in politics and has a board that includes former Democratic and Republican elected officials.
+Still, some Republicans counter that topline poll movement is the wrong barometer. They say the September cash influx helped keep vulnerable candidates competitive as the political environment deteriorated.
+In Texas, Republicans spent $121.5 million on the Senate race in September, up from just $5.5 million over the previous three months, according to a CNBC analysis of AdImpact data, while Musk's America PAC added direct mail and canvassing. Republicans involved in the race said the picture could have been far worse without that support.
+"The spending hasn't put Paxton ahead, but it kept a messy race and flawed candidate from becoming an unwinnable one," said a Republican operative involved in the Texas Senate race, who was granted anonymity to speak candidly about the state of the contest.
+Maine offers another test. Republicans have poured more than $50 million into the state to support incumbent Sen. Susan Collins, nearly twice Democratic spending, according to a CNBC analysis of FEC filings. Since early September, FiftyPlusOne's polling average has tightened modestly, from about a three-point advantage for Democrat Troy Jackson in early September to roughly two points now.
+From offense to defense
+The clearest sign that the GOP's cash advantage has stalled, however, is where the money is migrating.
+In April, the Senate Leadership Fund announced a record $342 million advertising program across eight states designed to protect the GOP majority and expand the map. Texas, Kansas and Nebraska were not among the states.
+Since Sept. 1, the SLF and affiliated groups — according to a CNBC analysis of AdImpact data — have spent or committed roughly $180 million across those three states, all of which Trump carried by double digits in 2024.
+"Outside groups are diverting millions into deep-red territory to build defensive moats, leaving pickup opportunities starved for cash in the final stretch," Beckel told CNBC.
+But those emergency defenses have come at a cost, diverting money from races Republicans once hoped to win and forcing national groups to narrow the map elsewhere.
+In North Carolina, the Senate Leadership Fund initially pledged $71 million to back Republican Michael Whatley. On Oct. 2, however, the group pulled most of its remaining ad reservations after spending about $32.8 million, according to a CNBC analysis of AdImpact data, as Democrat Roy Cooper continued to hold a double-digit lead in FiftyPlusOne's polling average.
+It's a striking retreat in a perennial battleground where Republicans have won every presidential and Senate election since 2008.
+The same triage is unfolding in the House.
+The Congressional Leadership Fund cut off spending this week for vulnerable GOP Reps. Thomas Kean Jr. of New Jersey and Mariannette Miller-Meeks of Iowa following grim internal polling. The group also shelved efforts to flip Democratic-held seats represented by Reps. Kristen McDonald Rivet of Michigan and Greg Landsman of Ohio. The spending shifts were first reported by the New York Times.
+Those four races had already absorbed about $13.7 million in Congressional Leadership Fund spending through Oct. 14, according to a CNBC analysis of AdImpact data. CLF is redirecting roughly $10 million from those races across 16 other districts, according to the Times.
+The new spending includes the South Texas seat held by Republican Rep. Monica De La Cruz, a district Trump carried by 18 points in 2024. De La Cruz herself won reelection by about 14 points in 2024.`,
+    bodyJa: `A billion-dollar war chest was meant to be Republicans' great equalizer heading into a bleak midterm election environment defined by economic frustration, President Donald Trump's unpopularity and fallout from the war in Iran.
+So far it hasn't worked.
+From Labor Day through Oct 14., GOP groups injected more than $740 million into congressional races that will determine control of Congress, according to a CNBC analysis of AdImpact data. That includes at least $220 million in spending from Trump-linked groups. Elon Musk has separately given another $276 million to Republican groups since July and helped boost the GOP's Senate Leadership Fund super PAC to a record quarter.
+Yet with less than three weeks until the Nov. 3 Election Day, the spending blitz has barely moved the map. Democrats lead in FiftyPlusOne's polling averages across nine of the Senate's most competitive races – Alaska, Georgia, Iowa, Kansas, Maine, Michigan, Minnesota, New Hampshire, North Carolina, Ohio and Texas – little changed from before the Republican spending spree. Minnesota was expected to be solidly blue, making its tight race a concern for Democrats.
+And Republican political operatives and independent election observers CNBC spoke with say the money hasn't had the effects its magnitude would be expected to in voter sentiment.
+Meanwhile, the broader battlefield continues to deteriorate for Republicans. Democrats are favored to flip the House and remain competitive in the Senate, according to the Cook Political Report with Amy Walter, forcing the GOP to burn millions protecting once-safe seats while abandoning former pickup targets.
+"Money is an amplifier, not a magic wand," said Neil Newhouse, partner at Republican polling firm Public Opinion Strategies. "You can buy all the airtime in the world, but if the political climate is blowing 30 miles an hour in your face, ad volume alone isn't going to turn the weather around."
+Musk flooding the zone
+Republicans entered the final stretch of the midterm election with unusually deep pockets.
+MAGA Inc. had nearly $416 million on hand at the end of August, according to Federal Election Commission filings. Across the broader ecosystem, major Republican organizations had roughly $1 billion available, eclipsing the $579 million available for comparable Democratic groups, according to a CNBC analysis of Federal Election Commission filings.
+Then came Musk — after saying he'd be less involved in this year's election. The Tesla and SpaceX CEO has given more than $276 million to Republican groups since July, including $158 million to the Senate Leadership Fund Republican-boosting super PAC and more than $76 million to his own America PAC, according to figures confirmed to CNBC by an America PAC spokesperson. Musk's known federal political giving this election cycle now totals roughly $366 million, making him the largest known donor of the midterms.
+And Musk is far from alone. Nine of the 10 largest individual and family donor groups this cycle are Republican-aligned, accounting for 86 cents of every dollar contributed by the top 10, according to a CNBC analysis of FEC records.
+"We are watching an unprecedented concentration and scale of political influence and wealth this election cycle," said Hilary Braseth, executive director of OpenSecrets, a nonprofit, nonpartisan group that tracks campaign spending.
+AdImpact projects $11.6 billion in political advertising this 2025-2026 cycle, surpassing both the 2022 midterms and the 2024 presidential election.
+Paying more for less
+However, the size of Republicans’ financial advantage may overstate how much advertising that money can actually buy.
+That's because much of the GOP's money, particularly spending by Trump-aligned groups, has arrived late and via super PACs, which can pay far more for airtime than candidates. Federal law entitles candidates to broadcasters' lowest unit rate during the final 60 days before a general election; outside groups get no such protection.
+It's an edge for Democrats whose candidates have generally outraised their Republican counterparts.
+In Dallas, for example, Democrat James Talarico's campaign spent about $2.4 million on local broadcast ads from Oct. 1 through Oct. 14, enough for the average viewer to see his ads about 48 times, according to a CNBC analysis of AdImpact data. The pro-Ken Paxton Texas PAC spent about $7.8 million for roughly 81 views per viewer – more than three times as much money for only about 70% more exposure, according to the analysis.
+Airtime has become so expensive that Paxton's allies have begun buying ads during national sporting events, calculating that reaching enough Texans through a national broadcast can cost less than buying across the state's local television markets, according to the Associated Press.
+"R money advantage not what it appears to be on [the] surface," Sen. John Cornyn, R-Texas, who lost to Paxton in the primary, posted on X on Oct. 5.
+Across the nine key Senate battlegrounds identified by the Cook Political Report as of Oct. 1, Republicans led broadcast TV spending in seven and outspent Democrats by 26% overall through Sept. 30, yet generated only 7% more airings.
+To be sure, super PACs don't face the same pricing disadvantage on digital ads, where campaigns and outside groups compete on more equal footing. But broadcast TV still dominates political spending, with AdImpact projecting it will account for 48% of the 2026 cycle total.
+Little movement in political polls
+But the payoff from all that spending has been harder to see in political polls.
+Despite more than $113 million spent on negative advertising targeting Talarico since the Texas primary, according to a CNBC analysis of AdImpact data, a Siena College poll released Tuesday showed Talarico leading Paxton 48% to 44%, down only slightly from his six-point lead in September.
+In Michigan, after more than $87 million in attacks targeting Democrat Abdul El-Sayed this year, according to a CNBC analysis of AdImpact data, Fox News polling from late September found El-Sayed's favorable rating among registered voters up five points from its early August survey, while Republican Mike Rogers' fell four points.
+Part of the challenge is diminishing returns on ads as Election Day nears. Political advertising experts tell CNBC that as campaigns repeatedly target the same small pool of persuadable voters, each additional dollar is less likely to reach someone who has not already heard the message.
+"When an undecided voter has already seen 20 negative ads today, the 21st ad doesn't persuade them. It just gets tuned out," said Michael Beckel, money in politics reform director at Issue One. "Their eyes glaze over." Issue One works to reduce the influence of money in politics and has a board that includes former Democratic and Republican elected officials.
+Still, some Republicans counter that topline poll movement is the wrong barometer. They say the September cash influx helped keep vulnerable candidates competitive as the political environment deteriorated.
+In Texas, Republicans spent $121.5 million on the Senate race in September, up from just $5.5 million over the previous three months, according to a CNBC analysis of AdImpact data, while Musk's America PAC added direct mail and canvassing. Republicans involved in the race said the picture could have been far worse without that support.
+"The spending hasn't put Paxton ahead, but it kept a messy race and flawed candidate from becoming an unwinnable one," said a Republican operative involved in the Texas Senate race, who was granted anonymity to speak candidly about the state of the contest.
+Maine offers another test. Republicans have poured more than $50 million into the state to support incumbent Sen. Susan Collins, nearly twice Democratic spending, according to a CNBC analysis of FEC filings. Since early September, FiftyPlusOne's polling average has tightened modestly, from about a three-point advantage for Democrat Troy Jackson in early September to roughly two points now.
+From offense to defense
+The clearest sign that the GOP's cash advantage has stalled, however, is where the money is migrating.
+In April, the Senate Leadership Fund announced a record $342 million advertising program across eight states designed to protect the GOP majority and expand the map. Texas, Kansas and Nebraska were not among the states.
+Since Sept. 1, the SLF and affiliated groups — according to a CNBC analysis of AdImpact data — have spent or committed roughly $180 million across those three states, all of which Trump carried by double digits in 2024.
+"Outside groups are diverting millions into deep-red territory to build defensive moats, leaving pickup opportunities starved for cash in the final stretch," Beckel told CNBC.
+But those emergency defenses have come at a cost, diverting money from races Republicans once hoped to win and forcing national groups to narrow the map elsewhere.
+In North Carolina, the Senate Leadership Fund initially pledged $71 million to back Republican Michael Whatley. On Oct. 2, however, the group pulled most of its remaining ad reservations after spending about $32.8 million, according to a CNBC analysis of AdImpact data, as Democrat Roy Cooper continued to hold a double-digit lead in FiftyPlusOne's polling average.
+It's a striking retreat in a perennial battleground where Republicans have won every presidential and Senate election since 2008.
+The same triage is unfolding in the House.
+The Congressional Leadership Fund cut off spending this week for vulnerable GOP Reps. Thomas Kean Jr. of New Jersey and Mariannette Miller-Meeks of Iowa following grim internal polling. The group also shelved efforts to flip Democratic-held seats represented by Reps. Kristen McDonald Rivet of Michigan and Greg Landsman of Ohio. The spending shifts were first reported by the New York Times.
+Those four races had already absorbed about $13.7 million in Congressional Leadership Fund spending through Oct. 14, according to a CNBC analysis of AdImpact data. CLF is redirecting roughly $10 million from those races across 16 other districts, according to the Times.
+The new spending includes the South Texas seat held by Republican Rep. Monica De La Cruz, a district Trump carried by 18 points in 2024. De La Cruz herself won reelection by about 14 points in 2024.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/16/republicans-midterms-spending-trump-musk-2026.html",
+    publishedAt: "2026-10-16T16:18:13+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "u-s-raises-mastercard-citigroup-china-ma-cf2a3f5f",
+    title: "U.S. raises Mastercard, Citigroup China market access in bilateral Bangkok talks, official says",
+    titleJa: "U.S. raises Mastercard, Citigroup China market access in bilateral Bangkok talks, official says",
+    summaryJa: "The U.S. raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
+    bodyOriginal: `BANGKOK – U.S. officials pressed Beijing on market access issues for Mastercard Inc and Citigroup Inc during at least two bilateral meetings with Chinese counterparts in Bangkok this week, according to a U.S. Treasury official.
+The Treasury delegation, led by Deputy Secretary Francis Brooke, held bilateral meetings with officials from the People's Bank of China and the finance ministry on the sidelines of the Group of 20 finance meetings and the IMF-World Bank annual gathering this week, the official said, speaking on condition of anonymity to discuss the closed-door meetings.
+The talks included market access for U.S. companies, including Mastercard, Visa and Citigroup, the official said, adding that regulatory approval was part of the agreement reached during the meeting between Presidents Donald Trump and Xi Jinping during the latter's state visit in Washington last month.
+The sideline meetings in Bangkok continued discussions on implementing these deals, the official said.
+The PBOC, China's National Financial Regulatory Administration, China Securities Regulatory Commission, Chinese embassies in Singapore and Thailand, the U.S. Treasury Department press office and Visa did not immediately respond to CNBC's request for comment. Citigroup and Mastercard declined to comment.
+The progress follows China's Oct. 13 approval for Visa Inc. to begin preparing a wholly owned domestic card-clearing business. Visa has up to a year to prepare before it applies for an operating license, the PBOC has said.
+China has opened much of its financial sector to foreign firms since 2018, gradually lifting foreign ownership caps on services such as securities, futures and fund management. It still limits cross-border capital flows and has kept state-backed domestic players dominant in payments.
+Mastercard currently operates yuan card payments in China through a local joint venture with NetsUnion Clearing Corp., which began operating in 2024. The pending approval would allow it to operate as an independent entity, the person said.
+Citigroup — which has hired several dozen employees for its China unit — is seeking a wholly owned securities license to conduct A-share brokerage, underwriting, research and principal trading businesses in the onshore market, two people familiar with the industry said, requesting anonymity for discussing private matters.
+One of the two people close to Citigroup said the bank planned to increase its China securities staff to about 100.
+The bank applied in late 2021, and Reuters reported last month that approval could come soon.
+Trump and Xi are expected to meet in person for the third time this year in Shenzhen, China, for the Asia-Pacific Economic Cooperation summit in November.
+"The move suggests the US-China trade environment remains benign, and Beijing is keen to keep up the momentum," said Dan Wang, China director at Eurasia Group.
+Licensing U.S. financial firms is a "limited concession" on market access, she said, though it signals China is continuing to open up, and "this should marginally bolster investor confidence in Chinese assets."`,
+    bodyJa: `BANGKOK – U.S. officials pressed Beijing on market access issues for Mastercard Inc and Citigroup Inc during at least two bilateral meetings with Chinese counterparts in Bangkok this week, according to a U.S. Treasury official.
+The Treasury delegation, led by Deputy Secretary Francis Brooke, held bilateral meetings with officials from the People's Bank of China and the finance ministry on the sidelines of the Group of 20 finance meetings and the IMF-World Bank annual gathering this week, the official said, speaking on condition of anonymity to discuss the closed-door meetings.
+The talks included market access for U.S. companies, including Mastercard, Visa and Citigroup, the official said, adding that regulatory approval was part of the agreement reached during the meeting between Presidents Donald Trump and Xi Jinping during the latter's state visit in Washington last month.
+The sideline meetings in Bangkok continued discussions on implementing these deals, the official said.
+The PBOC, China's National Financial Regulatory Administration, China Securities Regulatory Commission, Chinese embassies in Singapore and Thailand, the U.S. Treasury Department press office and Visa did not immediately respond to CNBC's request for comment. Citigroup and Mastercard declined to comment.
+The progress follows China's Oct. 13 approval for Visa Inc. to begin preparing a wholly owned domestic card-clearing business. Visa has up to a year to prepare before it applies for an operating license, the PBOC has said.
+China has opened much of its financial sector to foreign firms since 2018, gradually lifting foreign ownership caps on services such as securities, futures and fund management. It still limits cross-border capital flows and has kept state-backed domestic players dominant in payments.
+Mastercard currently operates yuan card payments in China through a local joint venture with NetsUnion Clearing Corp., which began operating in 2024. The pending approval would allow it to operate as an independent entity, the person said.
+Citigroup — which has hired several dozen employees for its China unit — is seeking a wholly owned securities license to conduct A-share brokerage, underwriting, research and principal trading businesses in the onshore market, two people familiar with the industry said, requesting anonymity for discussing private matters.
+One of the two people close to Citigroup said the bank planned to increase its China securities staff to about 100.
+The bank applied in late 2021, and Reuters reported last month that approval could come soon.
+Trump and Xi are expected to meet in person for the third time this year in Shenzhen, China, for the Asia-Pacific Economic Cooperation summit in November.
+"The move suggests the US-China trade environment remains benign, and Beijing is keen to keep up the momentum," said Dan Wang, China director at Eurasia Group.
+Licensing U.S. financial firms is a "limited concession" on market access, she said, though it signals China is continuing to open up, and "this should marginally bolster investor confidence in Chinese assets."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
+    publishedAt: "2026-10-16T16:11:09+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 8,
+  },
+  {
+    id: "many-of-2026-s-hottest-stocks-have-seen-11bcb0a8",
+    title: "Many of 2026’s hottest stocks have seen dramatic comedowns this week",
+    titleJa: "Many of 2026’s hottest stocks have seen dramatic comedowns this week",
+    summaryJa: "Many of the best-performing stocks of 2026 fell this week, while this year’s biggest losers also changed course,",
+    bodyOriginal: `Many of the best-performing stocks of 2026 fell this week, while this year’s biggest losers also changed course,`,
+    bodyJa: `Many of the best-performing stocks of 2026 fell this week, while this year’s biggest losers also changed course,`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/many-of-2026s-hottest-stocks-have-seen-dramatic-comedowns-this-week-e5ae5d06?mod=mw_rss_topstories",
+    publishedAt: "2026-10-16T16:09:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-81755167",
+    readTime: 2,
+  },
+  {
+    id: "i-m-64-with-two-sons-but-only-one-works-1e0071d9",
+    title: "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+    titleJa: "I’m 64 with two sons, but only one works in the family firm. Should I leave him 70% of the business?",
+    summaryJa: "“I have some reservations about the long-term stability of my younger son’s marriage.”",
+    bodyOriginal: `“I have some reservations about the long-term stability of my younger son’s marriage.”`,
+    bodyJa: `“I have some reservations about the long-term stability of my younger son’s marriage.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/im-64-years-old-with-two-sons-but-only-one-works-in-the-family-firm-should-i-leave-him-70-of-the-business-2fe6c382?mod=mw_rss_topstories",
+    publishedAt: "2026-10-16T15:00:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-37492094",
+    readTime: 2,
+  },
+  {
+    id: "here-s-how-the-coreweave-sell-off-is-aff-f61f2cc9",
+    title: "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations",
+    titleJa: "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations",
+    summaryJa: "The spread is widening between AI leaders OpenAI and Anthropic as a sell-off in CoreWeave leads neocloud stocks lower.",
+    bodyOriginal: `The spread is widening between AI leaders OpenAI and Anthropic as a sell-off in CoreWeave leads neocloud stocks lower.
+OpenAI's valuation is down more than 4% the past 24 hours after briefly slipping under $1.5 trillion, according to perpetual futures pricing on decentralized exchange Hyperliquid. Meanwhile, Anthropic perps are up 2.4% over the same time period, recovering an overnight dip and indicating a valuation of just over $2 trillion.
+Perpetuals are bets that never expire. They maintained by "deployers" on Hyperliquid's blockchain infrastructure that determine a funding rate for going long or short the futures based on a spot "oracle" price that uses third-party data like private funding rounds and secondary market transactions to estimate private-market prices.
+Open interest, defined by Hyperliquid as the sum of long and short positions on a contract, is more than five times bigger in Anthropic than OpenAI — more than $41 million, compared to less than $7 million in OpenAI.
+Right now the deployer behind these pre-IPO contracts – the developer building the exchange – is Entropy IO. TradeXYZ, the most prominent developer on the platform, typically does not list pre-IPO perps until S-1s are public, according to David Schamis, CEO of Hyperliquid Strategies, the publicly traded treasury company that invests in the HYPE token that powers the exchange.
+"Liquidity will probably be deeper once TradeXYZ lists these companies," Schamis said in a call. "Generally these will trade at a premium to the IPO price but they do a good job predicting where it will be post-IPO."
+The bigger price drop in OpenAI perps reflects the company's closer ties to GPU rent-a-center CoreWeave, whose shares touched a new one-year low Thursday, extending a decline over that period to 54%, as concerns mount over the company's debt-financing strategy.
+In April, CoreWeave announced a deal with Anthropic to power the company's Claude products, but did not disclose the value of the deal. The company's relationship with OpenAI stretches back further, and as of September 2025 was worth at least $22 billion including a 5-year agreement to provide datacenters and technology.
+While OpenAI perps are falling more than Anthropic the past 24 hours, the two are both down about 15% from highs last month, according to Hyperliquid pricing.`,
+    bodyJa: `The spread is widening between AI leaders OpenAI and Anthropic as a sell-off in CoreWeave leads neocloud stocks lower.
+OpenAI's valuation is down more than 4% the past 24 hours after briefly slipping under $1.5 trillion, according to perpetual futures pricing on decentralized exchange Hyperliquid. Meanwhile, Anthropic perps are up 2.4% over the same time period, recovering an overnight dip and indicating a valuation of just over $2 trillion.
+Perpetuals are bets that never expire. They maintained by "deployers" on Hyperliquid's blockchain infrastructure that determine a funding rate for going long or short the futures based on a spot "oracle" price that uses third-party data like private funding rounds and secondary market transactions to estimate private-market prices.
+Open interest, defined by Hyperliquid as the sum of long and short positions on a contract, is more than five times bigger in Anthropic than OpenAI — more than $41 million, compared to less than $7 million in OpenAI.
+Right now the deployer behind these pre-IPO contracts – the developer building the exchange – is Entropy IO. TradeXYZ, the most prominent developer on the platform, typically does not list pre-IPO perps until S-1s are public, according to David Schamis, CEO of Hyperliquid Strategies, the publicly traded treasury company that invests in the HYPE token that powers the exchange.
+"Liquidity will probably be deeper once TradeXYZ lists these companies," Schamis said in a call. "Generally these will trade at a premium to the IPO price but they do a good job predicting where it will be post-IPO."
+The bigger price drop in OpenAI perps reflects the company's closer ties to GPU rent-a-center CoreWeave, whose shares touched a new one-year low Thursday, extending a decline over that period to 54%, as concerns mount over the company's debt-financing strategy.
+In April, CoreWeave announced a deal with Anthropic to power the company's Claude products, but did not disclose the value of the deal. The company's relationship with OpenAI stretches back further, and as of September 2025 was worth at least $22 billion including a 5-year agreement to provide datacenters and technology.
+While OpenAI perps are falling more than Anthropic the past 24 hours, the two are both down about 15% from highs last month, according to Hyperliquid pricing.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/16/coreweave-openai-anthropic-perps.html",
+    publishedAt: "2026-10-16T13:43:53+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "watch-did-tesla-really-just-unveil-a-fly-f77c2d99",
+    title: "Watch: Did Tesla really just unveil a flying car?",
+    titleJa: "Watch: Did Tesla really just unveil a flying car?",
+    summaryJa: "Tesla CEO Elon Musk showcased the vehicle at a facility owned by his SpaceX company, which helped develop the model.",
+    bodyOriginal: `Watch: Did Tesla really just unveil a flying car?
+A new version of Tesla's Roadster electric sports car, equipped with thrusters which apparently allow it to hover and turn in mid-air, has been unveiled in Texas.
+"You're going to see some crazy stuff tonight," the car firm's CEO Elon Musk said as he presented the vehicle at a facility owned by his SpaceX company, which helped develop the model.
+Musk said an audience was needed to prove the car "is not AI", before showing a demonstration of the Roadster driving up and off a steep ramp, spinning in the air, and landing using air jets.
+But there are several reasons we're unlikely to see a flying car on our roads anytime soon, as the BBC's technology editor Zoe Kleinman explains.
+Video editor: Serene Khalifeh
+Related topics
+- Electric carsUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- Car TechnologyUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- TeslaUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- Elon MuskUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- SpaceXUpdates from your News topics will appear in My News and in a collection on the News homepage.`,
+    bodyJa: `Watch: Did Tesla really just unveil a flying car?
+A new version of Tesla's Roadster electric sports car, equipped with thrusters which apparently allow it to hover and turn in mid-air, has been unveiled in Texas.
+"You're going to see some crazy stuff tonight," the car firm's CEO Elon Musk said as he presented the vehicle at a facility owned by his SpaceX company, which helped develop the model.
+Musk said an audience was needed to prove the car "is not AI", before showing a demonstration of the Roadster driving up and off a steep ramp, spinning in the air, and landing using air jets.
+But there are several reasons we're unlikely to see a flying car on our roads anytime soon, as the BBC's technology editor Zoe Kleinman explains.
+Video editor: Serene Khalifeh
+Related topics
+- Electric carsUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- Car TechnologyUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- TeslaUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- Elon MuskUpdates from your News topics will appear in My News and in a collection on the News homepage.
+- SpaceXUpdates from your News topics will appear in My News and in a collection on the News homepage.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/videos/ckly4mj1g3n9o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-16T12:32:31+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b96f/live/01c77470-c963-11f1-bc2e-018d645d8d21.png",
+    readTime: 3,
+  },
+  {
     id: "nike-s-india-campus-is-a-long-term-growt-3e7bd254",
     title: "Nike's India campus is a long-term growth bet amid turnaround",
     titleJa: "Nike's India campus is a long-term growth bet amid turnaround",
@@ -1514,462 +1838,6 @@ United also raised the requirements to reach Premier 1K, its highest frequent fl
     publishedAt: "2026-10-15T14:25:01+00:00",
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "this-30-year-market-veteran-is-alarmed-b-3509f50d",
-    title: "This 30-year market veteran is alarmed by a near-record S&P 500. Here’s where he’s investing instead.",
-    titleJa: "This 30-year market veteran is alarmed by a near-record S&P 500. Here’s where he’s investing instead.",
-    summaryJa: "Steven Jon Kaplan sees a completely irrational stock market right now, and investors ignoring a perfectly safe way to play that.",
-    bodyOriginal: `Steven Jon Kaplan sees a completely irrational stock market right now, and investors ignoring a perfectly safe way to play that.`,
-    bodyJa: `Steven Jon Kaplan sees a completely irrational stock market right now, and investors ignoring a perfectly safe way to play that.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/this-30-year-market-veteran-is-alarmed-by-a-near-record-s-p-500-heres-where-hes-investing-instead-c6611143?mod=mw_rss_topstories",
-    publishedAt: "2026-10-15T11:17:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-13574872",
-    readTime: 2,
-  },
-  {
-    id: "nvidia-must-work-with-chinese-ai-compani-b42ae427",
-    title: "Nvidia must work with Chinese AI companies on safety, Jensen Huang tells CNBC",
-    titleJa: "Nvidia must work with Chinese AI companies on safety, Jensen Huang tells CNBC",
-    summaryJa: "Nvidia CEO Jensen Huang said the chipmaker \"absolutely must\" work with Chinese AI companies on monitoring risks around the \"potentially dangerous\" technology.\"We absolutely should work with each other so that we advance the technology safely,\" he told CNBC during a media briefing on Wednesday evening in London.",
-    bodyOriginal: `Nvidia CEO Jensen Huang said the chipmaker "absolutely must" work with Chinese AI companies on monitoring risks around the "potentially dangerous" technology.
-"We absolutely should work with each other so that we advance the technology safely," he told CNBC during a media briefing on Wednesday evening in London.
-Discussions around AI safety have intensified in recent months, after researchers from AI labs including OpenAI and Anthropic called for a slowdown on developing the tech and warned of existential risks to humanity.
-While OpenAI's Sam Altman and Anthropic's Dario Amodei have called for greater regulation, Huang has emerged as a prominent voice in opposition to that view.
-Huang said that "dialogue" was the way to work with Chinese AI companies, adding that he has "dialogues with many of the researchers in China."
-"We ought to enhance the dialogue," he added. "The United States should do it... I advocated that the U.K. do the same thing."
-U.S.-China AI cooperation
-AI safety has become a key topic between the U.S. and Chinese governments, with both countries weighing how to address the risks posed by the rapidly advancing tech.
-Prior to U.S. President Donald Trump's meeting with Chinese counterpart Xi Jinping, U.S. Treasury Secretary Scott Bessent discussed the prospect of a "U.S.-China AI dialogue" with his Chinese counterpart, He Lifeng, in September, including a channel for incidents "up to a national security level."
-A Chinese readout of the meeting said President Xi pointed out that China and the U.S. "may have competition, but they may cooperate even more" in AI. "The two sides can continue their dialogue on AI, exchange views on its risks and benefits, and jointly prevent the misuse and abuse of AI," Xi said, per the readout.
-Huang said that the U.K. is in a position "in the world to be able to be a convener of many of these dialogues" related to AI, because of the country's "intellectual capital."`,
-    bodyJa: `Nvidia CEO Jensen Huang said the chipmaker "absolutely must" work with Chinese AI companies on monitoring risks around the "potentially dangerous" technology.
-"We absolutely should work with each other so that we advance the technology safely," he told CNBC during a media briefing on Wednesday evening in London.
-Discussions around AI safety have intensified in recent months, after researchers from AI labs including OpenAI and Anthropic called for a slowdown on developing the tech and warned of existential risks to humanity.
-While OpenAI's Sam Altman and Anthropic's Dario Amodei have called for greater regulation, Huang has emerged as a prominent voice in opposition to that view.
-Huang said that "dialogue" was the way to work with Chinese AI companies, adding that he has "dialogues with many of the researchers in China."
-"We ought to enhance the dialogue," he added. "The United States should do it... I advocated that the U.K. do the same thing."
-U.S.-China AI cooperation
-AI safety has become a key topic between the U.S. and Chinese governments, with both countries weighing how to address the risks posed by the rapidly advancing tech.
-Prior to U.S. President Donald Trump's meeting with Chinese counterpart Xi Jinping, U.S. Treasury Secretary Scott Bessent discussed the prospect of a "U.S.-China AI dialogue" with his Chinese counterpart, He Lifeng, in September, including a channel for incidents "up to a national security level."
-A Chinese readout of the meeting said President Xi pointed out that China and the U.S. "may have competition, but they may cooperate even more" in AI. "The two sides can continue their dialogue on AI, exchange views on its risks and benefits, and jointly prevent the misuse and abuse of AI," Xi said, per the readout.
-Huang said that the U.K. is in a position "in the world to be able to be a convener of many of these dialogues" related to AI, because of the country's "intellectual capital."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
-    publishedAt: "2026-10-15T11:12:51+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "analysis-why-a-2-trillion-deficit-and-5-20ae6bd3",
-    title: "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-    titleJa: "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-    summaryJa: "Treasury yields above 5% are raising borrowing costs for households and the federal government, highlighting the challenge of financing $2 trillion deficits.",
-    bodyOriginal: `Long-term bond yields above 5% and a $2 trillion deficit are giving Americans a taste of what a U.S. debt crisis would be like. A true emergency would hurt much more, and isn't baked in. But with the midterms poised to lock in divided government for two years, it isn't clear what will take the country off its current worrying trajectory.
-Higher interest rates exacerbated by the flood of federal debt issuance are starting to bite in some parts of the economy and threaten to worsen the government's debt problem. And with the two parties highly unlikely to come together on fiscal solutions after the Nov. 3 midterms, any fixes are years off in the future.
-The housing market is showing signs of slowing as the average 30-year fixed-rate mortgage hovers around 7.5%. Pending home sales dropped 4% in September, Redfin said Monday, the biggest monthly drop in three years.
-Mortgage rates track the 10-year Treasury yield. The 10-year has climbed 123 basis points, or hundredths of a percentage point, since the end of February through Wednesday's close, when the 10-year traded at 5.19%.
-Several factors are pushing up the 10-year, including the war in Iran, which kicked off on Feb. 28 and precipitated the rise in long-term yields. Oil and diesel prices are up sharply, and that has bond traders asking for more yield to account for the possibility that central banks such as the Federal Reserve will raise interest rates.
-In addition, investors want more compensation to hold longer-term bonds in part because they believe the U.S. government will continue to flood the market with them. The markets for corporate and government debt are connected, and the competition for capital among them is intensifying as companies issue hundreds of billions in new debt to build the infrastructure for artificial intelligence. Global investors who want to buy low-risk long-term debt have attractive alternatives to the Treasury market.
-If the U.S. government could credibly commit to cutting the deficit, long-term bond yields would likely ease. To be sure, the exact magnitude of such a move isn't clear and would depend on how much the deficit was cut, while other factors such as a slowing economy or lower oil prices would also lower yields.
-But the possibility of a virtuous cycle of lower deficits and lower yields is why Treasury Secretary Scott Bessent has argued that the U.S. ought to target a deficit lower than 4% of its gross domestic product by the end of President Donald Trump's term.
-There is almost no way the U.S. will hit that target. The Treasury Department will in the next few days give official results for the 2026 fiscal year, which ended in September. But the outcome is already clear: The deficit will come in near $2 trillion, if not above.
-That is likely to put the deficit in the range of 6.0-6.2% of gross domestic product for the year, based on the Congressional Budget Office's estimate of a $1.993 trillion deficit and a projection of third quarter GDP.
-Higher rates make debt reduction tougher. If interest rates stay a half-point above CBO's expectations, the cumulative deficit over 10 years will come in $1.9 trillion higher, the agency estimates. If rates overshoot by 1.5 points, that adds $6 trillion in deficits.
-CBO expects the 10-year Treasury to average 4.3% over that period, compared to 5.3% today. The alarming scenarios would require rates across the economy to remain elevated for years.
-"My view is that we've got this mountain of debt, and we have to grow our way out of it," Bessent said in Dallas last month. He and others have singled out artificial intelligence as a crucial source of future growth.
-AI could help but can't fix the problem entirely. It would take a decade of 7.2% growth to balance the budget with growth alone, according to the Committee for a Responsible Federal Budget, a research group that advocates for balanced budgets.
-GDP growth was recently revised up for the second quarter from 1.5% to 2.2% at an annualized rate. The acceleration that quickly would get us to 7.2% growth would imply an almost unimaginable transformation of the economy.
-Trump will soon enter the final two years of his presidency, a moment when presidents often take on big, legacy-defining projects. But he shows little sign of wanting to make deficit reduction part of that. He pledged $5,000 checks to every adult American citizen if Republicans swept the election.
-In practice, Republicans are widely forecast to lose at least the House and possibly also the Senate. Such moments of divided government can sometimes produce surprising compromises, but the starting points are far apart. Rep. Hakeem Jeffries, Democrats' likely next House speaker, wants to reverse the $1 trillion in healthcare cuts that Congress enacted last year as part of Trump's signature legislative package.
-And that's leaving aside the deep animosity between the parties.
-The overall U.S. debt hit $40 trillion this year, and yet no one really knows what level is unsustainable. A full-on debt crisis likely remains much farther out in the future. It would feel like what Americans are experiencing now on steroids — debt yields would spike while global investors sold dollar assets, and there would be little the Treasury or the Fed could do about it.
-For now, though higher yields are also attracting investors to U.S. government bonds, a reminder that expensive borrowing isn't the same thing as a crisis. But the bottom line is that economics alone can't solve the problem. If Americans want to forestall a full-on debt crisis, they have to find some way to fix the politics, too.`,
-    bodyJa: `Long-term bond yields above 5% and a $2 trillion deficit are giving Americans a taste of what a U.S. debt crisis would be like. A true emergency would hurt much more, and isn't baked in. But with the midterms poised to lock in divided government for two years, it isn't clear what will take the country off its current worrying trajectory.
-Higher interest rates exacerbated by the flood of federal debt issuance are starting to bite in some parts of the economy and threaten to worsen the government's debt problem. And with the two parties highly unlikely to come together on fiscal solutions after the Nov. 3 midterms, any fixes are years off in the future.
-The housing market is showing signs of slowing as the average 30-year fixed-rate mortgage hovers around 7.5%. Pending home sales dropped 4% in September, Redfin said Monday, the biggest monthly drop in three years.
-Mortgage rates track the 10-year Treasury yield. The 10-year has climbed 123 basis points, or hundredths of a percentage point, since the end of February through Wednesday's close, when the 10-year traded at 5.19%.
-Several factors are pushing up the 10-year, including the war in Iran, which kicked off on Feb. 28 and precipitated the rise in long-term yields. Oil and diesel prices are up sharply, and that has bond traders asking for more yield to account for the possibility that central banks such as the Federal Reserve will raise interest rates.
-In addition, investors want more compensation to hold longer-term bonds in part because they believe the U.S. government will continue to flood the market with them. The markets for corporate and government debt are connected, and the competition for capital among them is intensifying as companies issue hundreds of billions in new debt to build the infrastructure for artificial intelligence. Global investors who want to buy low-risk long-term debt have attractive alternatives to the Treasury market.
-If the U.S. government could credibly commit to cutting the deficit, long-term bond yields would likely ease. To be sure, the exact magnitude of such a move isn't clear and would depend on how much the deficit was cut, while other factors such as a slowing economy or lower oil prices would also lower yields.
-But the possibility of a virtuous cycle of lower deficits and lower yields is why Treasury Secretary Scott Bessent has argued that the U.S. ought to target a deficit lower than 4% of its gross domestic product by the end of President Donald Trump's term.
-There is almost no way the U.S. will hit that target. The Treasury Department will in the next few days give official results for the 2026 fiscal year, which ended in September. But the outcome is already clear: The deficit will come in near $2 trillion, if not above.
-That is likely to put the deficit in the range of 6.0-6.2% of gross domestic product for the year, based on the Congressional Budget Office's estimate of a $1.993 trillion deficit and a projection of third quarter GDP.
-Higher rates make debt reduction tougher. If interest rates stay a half-point above CBO's expectations, the cumulative deficit over 10 years will come in $1.9 trillion higher, the agency estimates. If rates overshoot by 1.5 points, that adds $6 trillion in deficits.
-CBO expects the 10-year Treasury to average 4.3% over that period, compared to 5.3% today. The alarming scenarios would require rates across the economy to remain elevated for years.
-"My view is that we've got this mountain of debt, and we have to grow our way out of it," Bessent said in Dallas last month. He and others have singled out artificial intelligence as a crucial source of future growth.
-AI could help but can't fix the problem entirely. It would take a decade of 7.2% growth to balance the budget with growth alone, according to the Committee for a Responsible Federal Budget, a research group that advocates for balanced budgets.
-GDP growth was recently revised up for the second quarter from 1.5% to 2.2% at an annualized rate. The acceleration that quickly would get us to 7.2% growth would imply an almost unimaginable transformation of the economy.
-Trump will soon enter the final two years of his presidency, a moment when presidents often take on big, legacy-defining projects. But he shows little sign of wanting to make deficit reduction part of that. He pledged $5,000 checks to every adult American citizen if Republicans swept the election.
-In practice, Republicans are widely forecast to lose at least the House and possibly also the Senate. Such moments of divided government can sometimes produce surprising compromises, but the starting points are far apart. Rep. Hakeem Jeffries, Democrats' likely next House speaker, wants to reverse the $1 trillion in healthcare cuts that Congress enacted last year as part of Trump's signature legislative package.
-And that's leaving aside the deep animosity between the parties.
-The overall U.S. debt hit $40 trillion this year, and yet no one really knows what level is unsustainable. A full-on debt crisis likely remains much farther out in the future. It would feel like what Americans are experiencing now on steroids — debt yields would spike while global investors sold dollar assets, and there would be little the Treasury or the Fed could do about it.
-For now, though higher yields are also attracting investors to U.S. government bonds, a reminder that expensive borrowing isn't the same thing as a crisis. But the bottom line is that economics alone can't solve the problem. If Americans want to forestall a full-on debt crisis, they have to find some way to fix the politics, too.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-    publishedAt: "2026-10-15T10:54:20+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "u-s-reportedly-considers-use-of-mother-o-c8661289",
-    title: "U.S. reportedly considers use of 'mother of all bombs' as Iran vows to fight on",
-    titleJa: "U.S. reportedly considers use of 'mother of all bombs' as Iran vows to fight on",
-    summaryJa: "The U.S. military has reportedly drawn up options for strikes on Iran that include the potential use of one of the biggest non-nuclear bombs in its arsenal.",
-    bodyOriginal: `The U.S. military has drawn up options for renewed strikes on Iran that include the potential use of one of the biggest non-nuclear bombs in its arsenal, CNN reported Thursday, as Tehran vowed to continue fighting for its demands.
-The strike plans involve the possible use of the GBU-43/B Massive Ordnance Air Blast Bomb, nicknamed the "mother of all bombs," CNN reported, citing multiple U.S. officials familiar with the matter. CNBC has not independently confirmed the report and has reached out to the Defense Department for comment.
-The 21,600-pound air-burst weapon is designed to affect surface targets over a wide area and has so far not been deployed by the U.S. in previous strikes on targets inside Iran. It was used in Afghanistan in 2017 during the previous Trump administration.
-U.S. President Donald Trump said last week that he would not order a resumption of military strikes before the midterm elections on Nov. 3.
-Tensions in the Middle East are nonetheless elevated amid the sinking of a container ship in the Strait of Hormuz on Wednesday and a string of fatal attacks on Saudi Arabia by the Iran-backed Houthis.
-The White House is under mounting pressure to show progress in its Middle East objectives ahead of the midterms, as the American public increasingly feels the impact at home via soaring energy prices and wider cost pressures.
-Tehran is reportedly strengthening its defenses around sensitive energy and nuclear sites in preparation for a potential resumption of attacks, according to the Wall Street Journal.
-Iranian Parliament Speaker Mohammad Bagher Ghalibaf said in a televised address late Wednesday that Iran must continue to use a combination of military and defensive capabilities, negotiations and regional strategic leverage to push the U.S. to accept its demands.
-Officials in Tehran have previously listed demands including Washington lifting its naval blockade and sanctions and withdrawing U.S. military forces from the region.
-Ghalibaf said Tehran's goal is not to be locked in an endless war, but to prevent the U.S. and its other adversaries from being able to achieve their own objectives through military attacks, Iranian state-affiliated media reported.`,
-    bodyJa: `The U.S. military has drawn up options for renewed strikes on Iran that include the potential use of one of the biggest non-nuclear bombs in its arsenal, CNN reported Thursday, as Tehran vowed to continue fighting for its demands.
-The strike plans involve the possible use of the GBU-43/B Massive Ordnance Air Blast Bomb, nicknamed the "mother of all bombs," CNN reported, citing multiple U.S. officials familiar with the matter. CNBC has not independently confirmed the report and has reached out to the Defense Department for comment.
-The 21,600-pound air-burst weapon is designed to affect surface targets over a wide area and has so far not been deployed by the U.S. in previous strikes on targets inside Iran. It was used in Afghanistan in 2017 during the previous Trump administration.
-U.S. President Donald Trump said last week that he would not order a resumption of military strikes before the midterm elections on Nov. 3.
-Tensions in the Middle East are nonetheless elevated amid the sinking of a container ship in the Strait of Hormuz on Wednesday and a string of fatal attacks on Saudi Arabia by the Iran-backed Houthis.
-The White House is under mounting pressure to show progress in its Middle East objectives ahead of the midterms, as the American public increasingly feels the impact at home via soaring energy prices and wider cost pressures.
-Tehran is reportedly strengthening its defenses around sensitive energy and nuclear sites in preparation for a potential resumption of attacks, according to the Wall Street Journal.
-Iranian Parliament Speaker Mohammad Bagher Ghalibaf said in a televised address late Wednesday that Iran must continue to use a combination of military and defensive capabilities, negotiations and regional strategic leverage to push the U.S. to accept its demands.
-Officials in Tehran have previously listed demands including Washington lifting its naval blockade and sanctions and withdrawing U.S. military forces from the region.
-Ghalibaf said Tehran's goal is not to be locked in an endless war, but to prevent the U.S. and its other adversaries from being able to achieve their own objectives through military attacks, Iranian state-affiliated media reported.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/15/us-iran-war-trump-hormuz.html",
-    publishedAt: "2026-10-15T10:44:57+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "ukraine-to-resume-strikes-on-russian-ref-15d12907",
-    title: "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'",
-    titleJa: "Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'",
-    summaryJa: "Ukraine will now resume attacks on Russian energy targets after Moscow hasn't held up its end of the proposed deal brokered by Trump.",
-    bodyOriginal: `President Volodymyr Zelenskyy has said Ukraine will resume attacks on Russian energy infrastructure after Moscow failed to uphold its end of an "energy ceasefire" deal proposed by President Donald Trump.
-"The block [on attacking refineries] is out. We're done," Zelenskyy told the Financial Times after Ukraine paused strikes on energy targets for three days at the request of Washington.
-On Sunday, Trump announced an "energy ceasefire" between Ukraine and Russia in an effort to put an end to the countries attacking each other's power facilities and thereby lower the price of oil and diesel ahead of the U.S. midterm elections next month.
-Despite Ukraine's pause, officials in Kyiv said the country has been stripped of advance warnings of incoming ballistic missiles, as Starlink connectivity services had been restricted across the country, disrupting military operations. The restrictions apply to the sister service Starshield.
-Serhii Beskrestnov, an adviser to Zelenskyy on defense technology, said Wednesday that SpaceX has implemented a speed limit on Starlink terminals in motion without notifying Ukrainian defense forces.
-"It is clear that this action cannot be a coincidence and is related to the current political situation," Beskrestnov said on Telegram.
-According to SpaceX CEO Elon Musk, the U.S. government is ultimately responsible for any curbs on Ukraine's military-grade Starlink network. "Starshield systems are owned and controlled by the US government," he wrote on X on Wednesday.
-The White House and SpaceX didn't respond to CNBC's request for comment.
-In an interview with Piers Morgan released late Wednesday, Zelenskyy said he felt let down by Trump's recent dealings with Vladimir Putin, Russia's attacks on Ukrainian energy infrastructure and the apparent speed limits imposed on SpaceX's military communications network Starshield.
-Asked whether he felt "betrayed by what has been happening," Zelenskyy answered: "Really, yes," but stressed that Ukraine's survival and its strategic relationship with the U.S. mattered more than his personal emotions.
-Zelenskyy said Ukraine had honored a proposed energy ceasefire for three days, refraining from both attacks and retaliation, while Russia subsequently launched a massive assault on Ukrainian energy infrastructure, including approximately 40 ballistic missiles.
-He said he had warned U.S. officials that Russia would violate the ceasefire and described the reported Starlink shutdown as an "absolutely crazy" move that was not consistent with the behavior expected between partners.`,
-    bodyJa: `President Volodymyr Zelenskyy has said Ukraine will resume attacks on Russian energy infrastructure after Moscow failed to uphold its end of an "energy ceasefire" deal proposed by President Donald Trump.
-"The block [on attacking refineries] is out. We're done," Zelenskyy told the Financial Times after Ukraine paused strikes on energy targets for three days at the request of Washington.
-On Sunday, Trump announced an "energy ceasefire" between Ukraine and Russia in an effort to put an end to the countries attacking each other's power facilities and thereby lower the price of oil and diesel ahead of the U.S. midterm elections next month.
-Despite Ukraine's pause, officials in Kyiv said the country has been stripped of advance warnings of incoming ballistic missiles, as Starlink connectivity services had been restricted across the country, disrupting military operations. The restrictions apply to the sister service Starshield.
-Serhii Beskrestnov, an adviser to Zelenskyy on defense technology, said Wednesday that SpaceX has implemented a speed limit on Starlink terminals in motion without notifying Ukrainian defense forces.
-"It is clear that this action cannot be a coincidence and is related to the current political situation," Beskrestnov said on Telegram.
-According to SpaceX CEO Elon Musk, the U.S. government is ultimately responsible for any curbs on Ukraine's military-grade Starlink network. "Starshield systems are owned and controlled by the US government," he wrote on X on Wednesday.
-The White House and SpaceX didn't respond to CNBC's request for comment.
-In an interview with Piers Morgan released late Wednesday, Zelenskyy said he felt let down by Trump's recent dealings with Vladimir Putin, Russia's attacks on Ukrainian energy infrastructure and the apparent speed limits imposed on SpaceX's military communications network Starshield.
-Asked whether he felt "betrayed by what has been happening," Zelenskyy answered: "Really, yes," but stressed that Ukraine's survival and its strategic relationship with the U.S. mattered more than his personal emotions.
-Zelenskyy said Ukraine had honored a proposed energy ceasefire for three days, refraining from both attacks and retaliation, while Russia subsequently launched a massive assault on Ukrainian energy infrastructure, including approximately 40 ballistic missiles.
-He said he had warned U.S. officials that Russia would violate the ceasefire and described the reported Starlink shutdown as an "absolutely crazy" move that was not consistent with the behavior expected between partners.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html",
-    publishedAt: "2026-10-15T10:13:25+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "healey-says-surprise-uk-growth-is-sign-o-cc69cfa3",
-    title: "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
-    titleJa: "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
-    summaryJa: "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
-    bodyOriginal: `Healey says surprise UK growth is 'sign of resilience' ahead of Budget
-- Published
-The UK economy's stronger than expected performance in August has been called a "sign of resilience" by Chancellor John Healey.
-Healey told the BBC "it's really tough in the face of these economic global shocks" as the latest official figures showed the economy grew by 0.1% for the month, defying analysts' forecasts of a slight contraction.
-It follows an upgrade to this year's forecast for the UK economy from global watchdog the International Monetary Fund (IMF) earlier this week.
-Mr Healey said he wanted "to give people a bit of breathing space from the cost of living and cost of business pressures", promising to do so when he delivers his first Budget in two weeks' time.
-Healey did not elaborate on what measures he will take in the Budget, but promised "where we can take action, we will".
-But, vowing to keep up the government's approach to fiscal discipline, Healey said "where we want to do things we have to make sure we can pay for them within the Budget that we've got and control spending".
-The latest figures from the Office for National Statistics showed the economy grew by 0.7% in the three months to August.
-"It's a sign of resilience in the UK economy that some had not expected," Healey said.
-The chancellor said the growth was "part of the discipline the IMF here in Bangkok this week has endorsed that they see in Britain".
-Britain's economy was boosted in August by an increase in production, which includes manufacturing, oil and gas extraction and energy supply.
-The services industry, which makes up the largest chunk of the UK's economy, was flat during the month, while the construction sector contracted.
-Over the three months to August, the UK's economy grew by 0.7% overall. ONS director of economic statistics Liz McKeown said computer programming had been the biggest contributor to what she described as "robust" growth over the period.
-But she said the production and construction sectors shrank over the three-month period.
-August's surprise expansion follows growth of 0.4% in July. The ONS also upgraded its estimate for June's monthly growth to 0.4% from 0.3%.
-Paul Dales, chief UK economist at Capital Economics, said Britain's economy was "more robust than we thought".
-He warned that an expected increase in inflation would still "dampen growth", but added that the economy was showing "remarkable resilience to higher energy prices and borrowing costs".
-PwC senior economist Jake Finney said the development of AI infrastructure was underpinning Britain's relatively strong performance.
-"The UK still lags the US in both the scale of that investment and the boost it provides to growth, but it is making progress and remains ahead of many of its European peers," he added.
-What's happening to the UK economy and how does it affect you?
-- Published2 hours ago
-What is the Budget and what could be in it?
-- Published2 hours ago
-Healey told the BBC the "impact of AI on the economy, on productivity, is only just beginning to register".
-He said the technology has "huge potential, as well as huge risks", adding that Britain's priority would be to ensure AI can be developed safely while unlocking the opportunities it presents.
-The latest growth figures were released after Healey landed in Bangkok for the annual meeting of the International Monetary Fund (IMF).
-Earlier this week, the global financial watchdog praised the UK's plans to cut debt levels, with global borrowing costs on the rise, with managing director Kristalina Georgieva adding that the country was seeing "a bit of a better growth prospect" than other G7 nations.
-Healey said: "Despite conflicts in the Middle East and Europe hitting people across the world, today's figures offer more proof of Britain's resilience in the face of these global shocks."
-The Conservatives said the economic growth figures "conceal worrying trends in key sectors as we approach a crucial Budget".
-Shadow chancellor Andrew Griffith said: "Construction has now shrunk for four months in a row, with private housebuilding falling fastest. Labour promised to get Britain building, but they are failing."
-He called for Healey to cut taxes and reduce red tape.
-Liberal Democrat Treasury spokesperson, Daisy Cooper, said the growth of 0.1% in August was "nothing to celebrate".
-"The economy is stuck in first gear and barely crawling forward, while families are still struggling to make ends meet."
-Get in touch
-What would you like to see in the Budget?
-Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
-    bodyJa: `Healey says surprise UK growth is 'sign of resilience' ahead of Budget
-- Published
-The UK economy's stronger than expected performance in August has been called a "sign of resilience" by Chancellor John Healey.
-Healey told the BBC "it's really tough in the face of these economic global shocks" as the latest official figures showed the economy grew by 0.1% for the month, defying analysts' forecasts of a slight contraction.
-It follows an upgrade to this year's forecast for the UK economy from global watchdog the International Monetary Fund (IMF) earlier this week.
-Mr Healey said he wanted "to give people a bit of breathing space from the cost of living and cost of business pressures", promising to do so when he delivers his first Budget in two weeks' time.
-Healey did not elaborate on what measures he will take in the Budget, but promised "where we can take action, we will".
-But, vowing to keep up the government's approach to fiscal discipline, Healey said "where we want to do things we have to make sure we can pay for them within the Budget that we've got and control spending".
-The latest figures from the Office for National Statistics showed the economy grew by 0.7% in the three months to August.
-"It's a sign of resilience in the UK economy that some had not expected," Healey said.
-The chancellor said the growth was "part of the discipline the IMF here in Bangkok this week has endorsed that they see in Britain".
-Britain's economy was boosted in August by an increase in production, which includes manufacturing, oil and gas extraction and energy supply.
-The services industry, which makes up the largest chunk of the UK's economy, was flat during the month, while the construction sector contracted.
-Over the three months to August, the UK's economy grew by 0.7% overall. ONS director of economic statistics Liz McKeown said computer programming had been the biggest contributor to what she described as "robust" growth over the period.
-But she said the production and construction sectors shrank over the three-month period.
-August's surprise expansion follows growth of 0.4% in July. The ONS also upgraded its estimate for June's monthly growth to 0.4% from 0.3%.
-Paul Dales, chief UK economist at Capital Economics, said Britain's economy was "more robust than we thought".
-He warned that an expected increase in inflation would still "dampen growth", but added that the economy was showing "remarkable resilience to higher energy prices and borrowing costs".
-PwC senior economist Jake Finney said the development of AI infrastructure was underpinning Britain's relatively strong performance.
-"The UK still lags the US in both the scale of that investment and the boost it provides to growth, but it is making progress and remains ahead of many of its European peers," he added.
-What's happening to the UK economy and how does it affect you?
-- Published2 hours ago
-What is the Budget and what could be in it?
-- Published2 hours ago
-Healey told the BBC the "impact of AI on the economy, on productivity, is only just beginning to register".
-He said the technology has "huge potential, as well as huge risks", adding that Britain's priority would be to ensure AI can be developed safely while unlocking the opportunities it presents.
-The latest growth figures were released after Healey landed in Bangkok for the annual meeting of the International Monetary Fund (IMF).
-Earlier this week, the global financial watchdog praised the UK's plans to cut debt levels, with global borrowing costs on the rise, with managing director Kristalina Georgieva adding that the country was seeing "a bit of a better growth prospect" than other G7 nations.
-Healey said: "Despite conflicts in the Middle East and Europe hitting people across the world, today's figures offer more proof of Britain's resilience in the face of these global shocks."
-The Conservatives said the economic growth figures "conceal worrying trends in key sectors as we approach a crucial Budget".
-Shadow chancellor Andrew Griffith said: "Construction has now shrunk for four months in a row, with private housebuilding falling fastest. Labour promised to get Britain building, but they are failing."
-He called for Healey to cut taxes and reduce red tape.
-Liberal Democrat Treasury spokesperson, Daisy Cooper, said the growth of 0.1% in August was "nothing to celebrate".
-"The economy is stuck in first gear and barely crawling forward, while families are still struggling to make ends meet."
-Get in touch
-What would you like to see in the Budget?
-Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-15T09:29:54+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b1e/live/a9237850-c87c-11f1-bc2e-018d645d8d21.jpg",
-    readTime: 10,
-  },
-  {
-    id: "tsmc-posts-record-profit-for-a-sixth-str-3f947257",
-    title: "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
-    titleJa: "TSMC posts record profit for a sixth straight quarter, beating estimates on AI boom",
-    summaryJa: "Taiwan Semiconductor Manufacturing Co. on Thursday reported a record third-quarter profit that beat estimates, powered by an unrelenting global appetite for AI chips.Here are TSMC's third-quarter results against LSEG SmartEstimates, which are weighted toward forecasts from analysts who are more consistently accurate:",
-    bodyOriginal: `Taiwan Semiconductor Manufacturing Co. on Thursday reported a record third-quarter profit that beat estimates, powered by an unrelenting global appetite for AI chips.
-Here are TSMC's third-quarter results against LSEG SmartEstimates, which are weighted toward forecasts from analysts who are more consistently accurate:
-- Revenue: 1.49 trillion new Taiwan dollars ($46.36 billion) vs. NT$1.47 trillion
-- Net Income: NT$763.1 billion vs. NT$746.34 billion expected
-The world's largest contract chipmaker posted a record net profit for a sixth straight quarter, reporting 68.7% surge in the reported quarter from a year earlier.
-TSMC's third-quarter operating margin came in at 58.7%, exceeding the upper end of its guidance range of 58%, showcasing the pricing power enjoyed by the company as the AI boom fuels demand for semiconductors.
-TSMC forecast fourth-quarter revenue between $52.3 billion and $54.3 billion, representing a 14% sequential increase and a 58% jump from a year earlier at the midpoint of its guidance range, according to the company's earnings call.
-The chipmaker expects its capital expenditure from 2026 to 2028 to be significantly higher than in the previous three years, as it continues to ramp up investments to support growing customer demand.
-TSMC's stronger-than-expected results and upgraded full-year revenue outlook underscore how demand for advanced chips continues to outpace its production capacity, with the company's elevated capital spending reflecting confidence in sustained growth over the coming years, Sravan Kundojjala, an analyst at SemiAnalysis, told CNBC via email.
-TSMC expects its fourth-quarter business to be supported by continued strong demand for its advanced chipmaking technologies, including the ramp-up of its 2-nanometer process.
-Kundojjala also highlighted TSMC's careful approach to capacity expansion, adding that the chipmaker is assessing whether customers have the financing and supporting components needed to deploy AI systems.
-"Even after those checks, TSMC says demand remains well above its supply capacity," he said, adding that it reinforces confidence in the AI buildout while ensuring investment decisions reflect customers' ability to deploy the chips they order.
-Advanced technologies, defined as 7-nanometer and more advanced technologies, made up for 79% of TSMC's total wafer revenue in the reported. The 3-nanometer chips accounted for the largest share of its revenue in the third quarter at 33%, followed by 5- and 7-nanometer chips.
-By platform, high-performance computing accounted for the largest share of revenue at 68%, followed by smartphones at 21%. Meanwhile, automotive was the fastest-growing segment on a quarter-on-quarter basis, with 23% growth rate.
-TSMC said demand for AI chips remains strong, driven by the growing adoption of agentic AI and open-source AI models, which are expected to make AI more accessible and fuel demand for advanced semiconductors.
-The company's free cash flow surged to NT$476.56 billion in the third quarter, from NT$139.38 billion a year ago.
-TSMC also pointed to rising demand for AI accelerators, processors used in agentic AI applications and networking, adding that semiconductors are set to play an increasingly important role in the global AI supply chain.
-TSMC also said it had completed construction of its second fab in Arizona and is installing equipment, with mass production expected to begin in the third quarter of 2027, slightly ahead of its previous schedule.
-TSMC board approved NT$7.00 cash dividend for the second quarter. During its second-quarter earnings announcement in July, TSMC had outlined plans to expand its U.S. manufacturing footprint, including a total planned investment of $265 billion in Arizona.
-The chipmaker is also reportedly considering expanding beyond Arizona, evaluating a potential investment in Texas as it looks to further strengthen its U.S. manufacturing presence.`,
-    bodyJa: `Taiwan Semiconductor Manufacturing Co. on Thursday reported a record third-quarter profit that beat estimates, powered by an unrelenting global appetite for AI chips.
-Here are TSMC's third-quarter results against LSEG SmartEstimates, which are weighted toward forecasts from analysts who are more consistently accurate:
-- Revenue: 1.49 trillion new Taiwan dollars ($46.36 billion) vs. NT$1.47 trillion
-- Net Income: NT$763.1 billion vs. NT$746.34 billion expected
-The world's largest contract chipmaker posted a record net profit for a sixth straight quarter, reporting 68.7% surge in the reported quarter from a year earlier.
-TSMC's third-quarter operating margin came in at 58.7%, exceeding the upper end of its guidance range of 58%, showcasing the pricing power enjoyed by the company as the AI boom fuels demand for semiconductors.
-TSMC forecast fourth-quarter revenue between $52.3 billion and $54.3 billion, representing a 14% sequential increase and a 58% jump from a year earlier at the midpoint of its guidance range, according to the company's earnings call.
-The chipmaker expects its capital expenditure from 2026 to 2028 to be significantly higher than in the previous three years, as it continues to ramp up investments to support growing customer demand.
-TSMC's stronger-than-expected results and upgraded full-year revenue outlook underscore how demand for advanced chips continues to outpace its production capacity, with the company's elevated capital spending reflecting confidence in sustained growth over the coming years, Sravan Kundojjala, an analyst at SemiAnalysis, told CNBC via email.
-TSMC expects its fourth-quarter business to be supported by continued strong demand for its advanced chipmaking technologies, including the ramp-up of its 2-nanometer process.
-Kundojjala also highlighted TSMC's careful approach to capacity expansion, adding that the chipmaker is assessing whether customers have the financing and supporting components needed to deploy AI systems.
-"Even after those checks, TSMC says demand remains well above its supply capacity," he said, adding that it reinforces confidence in the AI buildout while ensuring investment decisions reflect customers' ability to deploy the chips they order.
-Advanced technologies, defined as 7-nanometer and more advanced technologies, made up for 79% of TSMC's total wafer revenue in the reported. The 3-nanometer chips accounted for the largest share of its revenue in the third quarter at 33%, followed by 5- and 7-nanometer chips.
-By platform, high-performance computing accounted for the largest share of revenue at 68%, followed by smartphones at 21%. Meanwhile, automotive was the fastest-growing segment on a quarter-on-quarter basis, with 23% growth rate.
-TSMC said demand for AI chips remains strong, driven by the growing adoption of agentic AI and open-source AI models, which are expected to make AI more accessible and fuel demand for advanced semiconductors.
-The company's free cash flow surged to NT$476.56 billion in the third quarter, from NT$139.38 billion a year ago.
-TSMC also pointed to rising demand for AI accelerators, processors used in agentic AI applications and networking, adding that semiconductors are set to play an increasingly important role in the global AI supply chain.
-TSMC also said it had completed construction of its second fab in Arizona and is installing equipment, with mass production expected to begin in the third quarter of 2027, slightly ahead of its previous schedule.
-TSMC board approved NT$7.00 cash dividend for the second quarter. During its second-quarter earnings announcement in July, TSMC had outlined plans to expand its U.S. manufacturing footprint, including a total planned investment of $265 billion in Arizona.
-The chipmaker is also reportedly considering expanding beyond Arizona, evaluating a potential investment in Texas as it looks to further strengthen its U.S. manufacturing presence.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/15/tsmc-third-quarter-profit-global-ai-.html",
-    publishedAt: "2026-10-15T08:09:37+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "i-paid-thousands-to-a-company-for-jobs-f3574b3d",
-    title: "'I paid thousands to a company for jobs that never came'",
-    titleJa: "'I paid thousands to a company for jobs that never came'",
-    summaryJa: "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
-    bodyOriginal: `'I paid thousands to a company for jobs that never came'
-- Published
-A company has been accused of promising jobs in the healthcare sector which never materialised, leaving people thousands of pounds out of pocket.
-Registered in 2025, Synetal Solutions Ltd says it offers career-focused training programmes in the healthcare and IT sectors.
-But the BBC has spoken to a number of people who claim they were promised training and support to secure sponsored healthcare jobs that never became available to apply for.
-London Citizens Advice says it has seen an increase in recruitment-related scams since the government stopped overseas recruitment for care workers, external. The charity described the firm's practices as "unethical".
-Synetal Solutions says it "takes these concerns seriously and disputes the broad allegation that its services or candidate outcomes are fictitious".
-'Miserable'
-Apurv Patel, who has been in the UK on a Skilled Worker visa since 2023, said he paid Synetal Solutions £3,600 across February and March for healthcare training after he and a friend were verbally promised guaranteed sponsored jobs.
-Eight months later he has received no job offers, interviews or meaningful employment support, he said.
-"I'm frustrated. I paid money, I wasted my time. I did whatever they wanted without any result," he said.
-"It's had a miserable effect on my family and finances."
-Patel said he did receive some training but described it as poor quality and ultimately "worthless".
-Having previously worked for two years as a healthcare assistant, he said he became concerned when a trainer was unable to answer routine questions about care work.
-"She didn't give us any answers and we realised she didn't have any experience of healthcare," he said.
-The company disputes claims that training was ineffective.
-He also alleged communication with the company deteriorated after he made his second payment, with responses sometimes taking several days.
-Patel has since complained to his bank and sought help from Citizens Advice.
-The BBC has seen emails from the company advertising a "three-month recruitment programme" offering "training and placement with sponsorship" for £5,500.
-Home Office guidance, external states agencies may charge for services such as training or CV-writing assistance, but cannot charge fees solely for finding, or attempting to find, employment.
-Responding to questions about its marketing, Synetal Solutions said: "We acknowledge the 'guarantee' wording in the emails supplied and recognise that contractual terms alone do not resolve concerns about those assurances."
-As part of its programme, Synetal Solutions created accounts for trainees on iHasco, a health and social care training platform.
-The BBC contacted iHasco, which confirmed the company was a customer. However, it said its terms did not permit customers to resell its training content to individuals who were not employees.
-The company said it was reviewing Synetal Solutions' account and would take appropriate action if necessary.
-Synetal Solutions said it had acted in accordance with its agreement with iHasco.
-The Care Quality Commission said there was no single qualification that automatically qualified someone to work as a care worker. Instead, providers are responsible for ensuring employees are appropriately trained and competent for their roles.
-The BBC also contacted a number of healthcare organisations whose logos appeared on Synetal Solutions' website as examples of employers where graduates had worked.
-Those organisations that responded said they had no links to the company. Some also said they had not authorised the use of their branding, and some said they would not accept certificates provided through the company's training.
-Daniel Blake, director of London Citizens Advice, described the company's approach as "exploitative".
-"The promises that were made are impossible promises," he said. "They are targeting people with vulnerable immigration status.
-"This company is asking for large sums of money upfront without any reputable standards, without any reputable evidence of success, and yet when it goes wrong they are refusing to take any responsibility.
-"For us, it seems a very unethical way of conducting business."
-He added that no reputable recruitment agency would guarantee a successful outcome without first assessing a candidate and matching them to a suitable role, and urged anybody asked to pay large sums upfront to seek independent advice.
-"If it seems too good to be true, it probably is," he said.
-The company's website states: "Synetal Solutions provides the right support, guidance, and guaranteed job placement to help you succeed."
-Its social media channels also promoted healthcare as "one of the most reliable paths" for people seeking visa-sponsored work in the UK.
-Sarah and Rahul, whose names we have changed, said they paid £3,000 to Synetal Solutions while seeking sponsored employment before the expiry of their student visas.
-Rahul, a former dentist in India, could remain in the UK on a graduate visa for longer, but Sarah's immigration status was close to expiring.
-To pay the fee, the couple said they borrowed money from a family friend and took out a loan.
-Rahul said he was shocked by the quality of the training.
-"The mentor didn't know anything about healthcare," he said.
-The couple said they were also shown the names of established healthcare providers, including Bupa, as examples of potential employers. Bupa told the BBC it had no connection with the company.
-Synetal Solutions says some of their candidates "told us they had secured employment with Bupa" and the reference was "not intended to suggest a formal partnership with Bupa".
-It says it had not verified those outcomes and "cannot attribute the recruitment decisions to our training".
-Rahul said he secured one or two interviews, but prospective employers rejected the certificates he had received through the programme.
-The couple said Synetal Solutions had since stopped responding to their messages.
-"We're desperate," Sarah said. "We don't see any other way out."
-Amisha, whose name has also been changed, said she signed up with Synetal after being told that both a placement and visa sponsorship were guaranteed.
-Her student visa is due to expire soon.
-She said the training consisted of three sessions lasting around 90 minutes each.
-After paying an initial instalment of £1,800, she became reluctant to make a second payment because she felt she had received little in return. She said the company warned her that her contract would be cancelled if she failed to pay, prompting her to transfer a further £1,800.
-"I was waiting for interviews for two or three months. They were ignoring me," she said.
-According to Amisha, the company applied for only a handful of vacancies advertised on job-search website Indeed. She eventually secured an interview for a healthcare assistant role, but said the employer told her the certificates she had received were not recognised.
-The BBC also identified what appeared to be at least a couple of stock photographs or AI-generated images used as testimonials on the company's website.
-The company said it had not authenticated the two reviews identified, and removed them after we contacted them.
-Teni Shahiean, an immigration lawyer at OTS Solicitors, said it was "particularly concerning" where individuals facing visa deadlines were being asked to make substantial payments on the understanding that jobs, sponsorship or immigration outcomes were seemingly guaranteed.
-She urged caution, adding that a job offer alone does not guarantee someone will be able to remain in the UK.
-"The outcome can depend on the role, the sponsor, the individual meeting the relevant immigration requirements and, ultimately, any decision by the Home Office," she said.
-'Go to the police'
-Blake told the BBC: "If it seems good to be true, it probably is. If you are considering handing over money upfront then seek advice."
-He said that "if people have given money and haven't received the service that they were entitled to they should seek redress".
-"First of all, make a complaint directly to the company, then to Trading Standards.
-"If people feel a criminal offence has happened, we would encourage and support them to go to the police."
-A government spokesperson said: "We know how much distress scammers cause to their victims, which is why we will do everything in our power to protect hardworking families and vulnerable customers.
-"Our reforms have provided Companies House with new and improved powers to prevent companies from acting unlawfully and to query, remove and share suspicious information."
-Synetal Solutions said: "We provide training and employment assistance and maintain supporting records. Recruitment, sponsorship and visa decisions depend on employers and the Home Office."
-The company said it had records of genuine candidates who had secured jobs and sponsorship through its services.
-Get in touch
-Have you been affected by issues covered in this story? Share your experiences.`,
-    bodyJa: `'I paid thousands to a company for jobs that never came'
-- Published
-A company has been accused of promising jobs in the healthcare sector which never materialised, leaving people thousands of pounds out of pocket.
-Registered in 2025, Synetal Solutions Ltd says it offers career-focused training programmes in the healthcare and IT sectors.
-But the BBC has spoken to a number of people who claim they were promised training and support to secure sponsored healthcare jobs that never became available to apply for.
-London Citizens Advice says it has seen an increase in recruitment-related scams since the government stopped overseas recruitment for care workers, external. The charity described the firm's practices as "unethical".
-Synetal Solutions says it "takes these concerns seriously and disputes the broad allegation that its services or candidate outcomes are fictitious".
-'Miserable'
-Apurv Patel, who has been in the UK on a Skilled Worker visa since 2023, said he paid Synetal Solutions £3,600 across February and March for healthcare training after he and a friend were verbally promised guaranteed sponsored jobs.
-Eight months later he has received no job offers, interviews or meaningful employment support, he said.
-"I'm frustrated. I paid money, I wasted my time. I did whatever they wanted without any result," he said.
-"It's had a miserable effect on my family and finances."
-Patel said he did receive some training but described it as poor quality and ultimately "worthless".
-Having previously worked for two years as a healthcare assistant, he said he became concerned when a trainer was unable to answer routine questions about care work.
-"She didn't give us any answers and we realised she didn't have any experience of healthcare," he said.
-The company disputes claims that training was ineffective.
-He also alleged communication with the company deteriorated after he made his second payment, with responses sometimes taking several days.
-Patel has since complained to his bank and sought help from Citizens Advice.
-The BBC has seen emails from the company advertising a "three-month recruitment programme" offering "training and placement with sponsorship" for £5,500.
-Home Office guidance, external states agencies may charge for services such as training or CV-writing assistance, but cannot charge fees solely for finding, or attempting to find, employment.
-Responding to questions about its marketing, Synetal Solutions said: "We acknowledge the 'guarantee' wording in the emails supplied and recognise that contractual terms alone do not resolve concerns about those assurances."
-As part of its programme, Synetal Solutions created accounts for trainees on iHasco, a health and social care training platform.
-The BBC contacted iHasco, which confirmed the company was a customer. However, it said its terms did not permit customers to resell its training content to individuals who were not employees.
-The company said it was reviewing Synetal Solutions' account and would take appropriate action if necessary.
-Synetal Solutions said it had acted in accordance with its agreement with iHasco.
-The Care Quality Commission said there was no single qualification that automatically qualified someone to work as a care worker. Instead, providers are responsible for ensuring employees are appropriately trained and competent for their roles.
-The BBC also contacted a number of healthcare organisations whose logos appeared on Synetal Solutions' website as examples of employers where graduates had worked.
-Those organisations that responded said they had no links to the company. Some also said they had not authorised the use of their branding, and some said they would not accept certificates provided through the company's training.
-Daniel Blake, director of London Citizens Advice, described the company's approach as "exploitative".
-"The promises that were made are impossible promises," he said. "They are targeting people with vulnerable immigration status.
-"This company is asking for large sums of money upfront without any reputable standards, without any reputable evidence of success, and yet when it goes wrong they are refusing to take any responsibility.
-"For us, it seems a very unethical way of conducting business."
-He added that no reputable recruitment agency would guarantee a successful outcome without first assessing a candidate and matching them to a suitable role, and urged anybody asked to pay large sums upfront to seek independent advice.
-"If it seems too good to be true, it probably is," he said.
-The company's website states: "Synetal Solutions provides the right support, guidance, and guaranteed job placement to help you succeed."
-Its social media channels also promoted healthcare as "one of the most reliable paths" for people seeking visa-sponsored work in the UK.
-Sarah and Rahul, whose names we have changed, said they paid £3,000 to Synetal Solutions while seeking sponsored employment before the expiry of their student visas.
-Rahul, a former dentist in India, could remain in the UK on a graduate visa for longer, but Sarah's immigration status was close to expiring.
-To pay the fee, the couple said they borrowed money from a family friend and took out a loan.
-Rahul said he was shocked by the quality of the training.
-"The mentor didn't know anything about healthcare," he said.
-The couple said they were also shown the names of established healthcare providers, including Bupa, as examples of potential employers. Bupa told the BBC it had no connection with the company.
-Synetal Solutions says some of their candidates "told us they had secured employment with Bupa" and the reference was "not intended to suggest a formal partnership with Bupa".
-It says it had not verified those outcomes and "cannot attribute the recruitment decisions to our training".
-Rahul said he secured one or two interviews, but prospective employers rejected the certificates he had received through the programme.
-The couple said Synetal Solutions had since stopped responding to their messages.
-"We're desperate," Sarah said. "We don't see any other way out."
-Amisha, whose name has also been changed, said she signed up with Synetal after being told that both a placement and visa sponsorship were guaranteed.
-Her student visa is due to expire soon.
-She said the training consisted of three sessions lasting around 90 minutes each.
-After paying an initial instalment of £1,800, she became reluctant to make a second payment because she felt she had received little in return. She said the company warned her that her contract would be cancelled if she failed to pay, prompting her to transfer a further £1,800.
-"I was waiting for interviews for two or three months. They were ignoring me," she said.
-According to Amisha, the company applied for only a handful of vacancies advertised on job-search website Indeed. She eventually secured an interview for a healthcare assistant role, but said the employer told her the certificates she had received were not recognised.
-The BBC also identified what appeared to be at least a couple of stock photographs or AI-generated images used as testimonials on the company's website.
-The company said it had not authenticated the two reviews identified, and removed them after we contacted them.
-Teni Shahiean, an immigration lawyer at OTS Solicitors, said it was "particularly concerning" where individuals facing visa deadlines were being asked to make substantial payments on the understanding that jobs, sponsorship or immigration outcomes were seemingly guaranteed.
-She urged caution, adding that a job offer alone does not guarantee someone will be able to remain in the UK.
-"The outcome can depend on the role, the sponsor, the individual meeting the relevant immigration requirements and, ultimately, any decision by the Home Office," she said.
-'Go to the police'
-Blake told the BBC: "If it seems good to be true, it probably is. If you are considering handing over money upfront then seek advice."
-He said that "if people have given money and haven't received the service that they were entitled to they should seek redress".
-"First of all, make a complaint directly to the company, then to Trading Standards.
-"If people feel a criminal offence has happened, we would encourage and support them to go to the police."
-A government spokesperson said: "We know how much distress scammers cause to their victims, which is why we will do everything in our power to protect hardworking families and vulnerable customers.
-"Our reforms have provided Companies House with new and improved powers to prevent companies from acting unlawfully and to query, remove and share suspicious information."
-Synetal Solutions said: "We provide training and employment assistance and maintain supporting records. Recruitment, sponsorship and visa decisions depend on employers and the Home Office."
-The company said it had records of genuine candidates who had secured jobs and sponsorship through its services.
-Get in touch
-Have you been affected by issues covered in this story? Share your experiences.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-15T05:02:37+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1df3/live/28665390-c246-11f1-9670-0b564215b759.jpg",
     readTime: 10,
   },
 ];
