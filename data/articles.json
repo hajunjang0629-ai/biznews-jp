@@ -1,5 +1,47 @@
 [
   {
+    "id": "fake-shopping-sprees-and-happiness-insur-3844b853",
+    "title": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
+    "titleJa": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
+    "summaryJa": "Fintech companies are catching on to how Americans are altering their financial habits, and they’ve created new products to try to meet the moment.",
+    "bodyOriginal": "Fintech companies are catching on to how Americans are altering their financial habits, and they’ve created new products to try to meet the moment.",
+    "bodyJa": "Fintech companies are catching on to how Americans are altering their financial habits, and they’ve created new products to try to meet the moment.",
+    "source": "MarketWatch",
+    "sourceUrl": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
+    "publishedAt": "2026-10-17T18:52:00+00:00",
+    "category": "金融政策",
+    "imageUrl": "https://images.mktw.net/im-60506026",
+    "readTime": 2
+  },
+  {
+    "id": "investing-not-homeownership-is-the-no-1-8a158756",
+    "title": "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful",
+    "titleJa": "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful",
+    "summaryJa": "“Instead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.”",
+    "bodyOriginal": "“Instead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.”",
+    "bodyJa": "“Instead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.”",
+    "source": "MarketWatch",
+    "sourceUrl": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
+    "publishedAt": "2026-10-17T18:40:00+00:00",
+    "category": "金融政策",
+    "imageUrl": "https://images.mktw.net/im-31295352",
+    "readTime": 2
+  },
+  {
+    "id": "semiconductor-market-to-remain-solid-at-759df3cf",
+    "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
+    "titleJa": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
+    "summaryJa": "South Korea's finance minister said semiconductor growth can last at least through 2027 as supply remains tight despite a global chip sell-off.",
+    "bodyOriginal": "The semiconductor boom will last at least through 2027, South Korean finance minister Lee Hyoung-Il said on Saturday.\n\"For now, our view is that we can sustain this growth at least through next year,\" Lee told CNBC on the sidelines of the IMF-World Bank annual meetings in Bangkok. \"That's because the gap between demand and supply for semiconductors is still very wide, and supply is still being expanded.\"\nHis comments come after semiconductor stocks fell sharply this week, hurt by investor concerns about interest rate hikes and rising competition from Chinese companies. South Korean chip stocks like SK Hynix and Seoul Semiconductor were part of the sell-off, along with U.S. giants like Nvidia.\nChip stocks have fueled volatility in South Korea's stock market this year, Lee said. He attributed the market's wild swings to the semiconductor industry's larger share of the economy than in other countries. Despite the market swings, South Korea's economy is \"solid,\" Lee said.\nOn Thursday, an opinion column in Maeil Business Newspaper, a prominent South Korean publication, urged the country's government to prepare for the coming slowdown in the artificial intelligence boom. The author said two experts expect a \"flood of new supply\" of semiconductors that will turn the memory market \"into a red ocean\" by 2029, according to a CNBC translation.\nWhile South Korea's semiconductors may be driving volatility in its stock market, the industry has also fueled tax growth. Lee said the country expects to collect more taxes than initially projected this year.\nSouth Korea will ultimately be in a stronger fiscal position because of the chip boom, he added.\nWATCH: Don't overlook opportunity in South Korea, says Verdad Advisers' Rasmussen",
+    "bodyJa": "The semiconductor boom will last at least through 2027, South Korean finance minister Lee Hyoung-Il said on Saturday.\n\"For now, our view is that we can sustain this growth at least through next year,\" Lee told CNBC on the sidelines of the IMF-World Bank annual meetings in Bangkok. \"That's because the gap between demand and supply for semiconductors is still very wide, and supply is still being expanded.\"\nHis comments come after semiconductor stocks fell sharply this week, hurt by investor concerns about interest rate hikes and rising competition from Chinese companies. South Korean chip stocks like SK Hynix and Seoul Semiconductor were part of the sell-off, along with U.S. giants like Nvidia.\nChip stocks have fueled volatility in South Korea's stock market this year, Lee said. He attributed the market's wild swings to the semiconductor industry's larger share of the economy than in other countries. Despite the market swings, South Korea's economy is \"solid,\" Lee said.\nOn Thursday, an opinion column in Maeil Business Newspaper, a prominent South Korean publication, urged the country's government to prepare for the coming slowdown in the artificial intelligence boom. The author said two experts expect a \"flood of new supply\" of semiconductors that will turn the memory market \"into a red ocean\" by 2029, according to a CNBC translation.\nWhile South Korea's semiconductors may be driving volatility in its stock market, the industry has also fueled tax growth. Lee said the country expects to collect more taxes than initially projected this year.\nSouth Korea will ultimately be in a stronger fiscal position because of the chip boom, he added.\nWATCH: Don't overlook opportunity in South Korea, says Verdad Advisers' Rasmussen",
+    "source": "CNBC",
+    "sourceUrl": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
+    "publishedAt": "2026-10-17T16:45:15+00:00",
+    "category": "金融政策",
+    "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    "readTime": 4
+  },
+  {
     "id": "software-s-new-consolidator-gets-big-vot-5d627f04",
     "title": "Software’s new consolidator gets big vote of confidence from Berkshire",
     "titleJa": "Software’s new consolidator gets big vote of confidence from Berkshire",
@@ -516,47 +558,5 @@
     "category": "エネルギー",
     "imageUrl": "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
     "readTime": 10
-  },
-  {
-    "id": "nearly-40-of-the-s-p-500-is-in-a-bear-ma-0ccda704",
-    "title": "Nearly 40% of the S&P 500 is in a bear market. Here are 10 of those stocks that analysts say can gain up to 81%.",
-    "titleJa": "Nearly 40% of the S&P 500 is in a bear market. Here are 10 of those stocks that analysts say can gain up to 81%.",
-    "summaryJa": "The S&amp;P 500’s strong overall performance reflects its heavy weighting at the top. Under the surface, more than a third of the index’s stocks are down at least 20% from their 52-week highs.",
-    "bodyOriginal": "The S&amp;P 500’s strong overall performance reflects its heavy weighting at the top. Under the surface, more than a third of the index’s stocks are down at least 20% from their 52-week highs.",
-    "bodyJa": "The S&amp;P 500’s strong overall performance reflects its heavy weighting at the top. Under the surface, more than a third of the index’s stocks are down at least 20% from their 52-week highs.",
-    "source": "MarketWatch",
-    "sourceUrl": "https://www.marketwatch.com/story/nearly-40-of-the-s-p-500-is-in-a-bear-market-here-are-10-of-those-stocks-that-analysts-say-can-gain-up-to-81-93a51af6?mod=mw_rss_topstories",
-    "publishedAt": "2026-10-16T10:56:00+00:00",
-    "category": "金融政策",
-    "imageUrl": "https://images.mktw.net/im-22920129",
-    "readTime": 2
-  },
-  {
-    "id": "how-a-midterm-sweep-by-democrats-could-t-f1c3cb04",
-    "title": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
-    "titleJa": "How a midterm sweep by Democrats could turn this tech selloff into a tech crash",
-    "summaryJa": "Popular AI names are under pressure again this week — but the pain could worsen after the Nov. 3 election.",
-    "bodyOriginal": "Popular AI names are under pressure again this week — but the pain could worsen after the Nov. 3 election.",
-    "bodyJa": "Popular AI names are under pressure again this week — but the pain could worsen after the Nov. 3 election.",
-    "source": "MarketWatch",
-    "sourceUrl": "https://www.marketwatch.com/story/how-a-midterm-sweep-by-democrats-could-turn-this-tech-selloff-into-a-tech-crash-a1d1a82f?mod=mw_rss_topstories",
-    "publishedAt": "2026-10-16T10:49:00+00:00",
-    "category": "テクノロジー",
-    "imageUrl": "https://images.mktw.net/im-20538464",
-    "readTime": 2
-  },
-  {
-    "id": "jefferies-technical-analyst-finds-an-enc-c5b1c449",
-    "title": "Jefferies technical analyst finds an encouraging development in Thursday rebound, setting stage for rally into year-end",
-    "titleJa": "Jefferies technical analyst finds an encouraging development in Thursday rebound, setting stage for rally into year-end",
-    "summaryJa": "Lower rates are starting to generate a bid for the rest of the market, underneath the top handful of tech stocks.",
-    "bodyOriginal": "Lower rates are starting to generate a bid for the rest of the market, underneath the top handful of tech stocks.",
-    "bodyJa": "Lower rates are starting to generate a bid for the rest of the market, underneath the top handful of tech stocks.",
-    "source": "MarketWatch",
-    "sourceUrl": "https://www.marketwatch.com/story/jefferies-technical-analyst-finds-an-encouraging-development-in-thursday-rebound-setting-stage-for-rally-into-year-end-34ad6e31?mod=mw_rss_topstories",
-    "publishedAt": "2026-10-16T10:38:00+00:00",
-    "category": "テクノロジー",
-    "imageUrl": "https://images.mktw.net/im-63421296",
-    "readTime": 2
   }
 ]
