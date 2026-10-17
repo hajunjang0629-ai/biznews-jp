@@ -15,6 +15,340 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "trump-waives-broad-new-russia-sanctions-ced506a3",
+    title: "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
+    titleJa: "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
+    summaryJa: "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+    bodyOriginal: `President Donald Trump signed an executive order late Friday waiving parts of a recently enacted package of sanctions aimed at curbing Russia's ability to prosecute its war against Ukraine.
+"I have submitted to the Congress a certification that the issuance of such a waiver is in the national interests of the United States," Trump wrote in Friday's order.
+The House passed the Russia sanctions bill on Sept. 16, and Trump signed it into law two days later. The bill was introduced over a year ago, and its primary backer was the late Lindsey Graham, a veteran Republican senator who represented South Carolina.
+Titled the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, the legislation targeted Russia's economy, intending to penalize the country over its continued full-scale invasion of Ukraine.
+The act required the president to increase duties on all Russian goods imported into the U.S. by up to 500% no later than 30 days after enactment. It also required Trump to impose tariffs of up to 100% on countries including China and India that are among the top five purchasers of Russian crude oil or gas.
+Trump's latest order waives these two parts of the Graham Act and comes two days before the law's implementation deadline. However, the order preserves existing sanctions on Russia under earlier executive orders.
+The law could also sanction Russian leaders, officials, and financial institutions, and expand sanctions on Iran.
+Oil sales revenue is critical to funding Russia's war effort.
+The move also comes a week after the Trump administration temporarily waived sanctions on Russian diesel exports through April 2027 to ease a supply crunch caused by the war in Iran.
+High fuel prices are a sensitive issue for voters ahead of midterm elections on Nov. 3. Trump's Republican Party holds a narrow majority in both chambers of Congress.
+A 'historic moment'
+"The suspension of some of the provisions of the Graham Act marks an important and truly historic moment," Kirill Dmitriev, Russian President Vladimir Putin's economy envoy, said in a post on X.
+"The U.S.-Russia economic dialogue and peacemaking efforts will continue," Dmitriev added.
+But Trump's opponents have criticized the move.
+Sen. Richard Blumenthal, a Connecticut Democrat who also drafted the Graham Act, condemned the latest waiver.
+"Donald Trump confirms again that he stands on the side of a bloodthirsty thug & the enablers of Russia's war machine & against the majority of Americans, their representatives in both houses of Congress, & our European allies," Blumenthal said in an X post.
+Speaking to reporters in Brussels on Friday, Ukrainian President Volodymyr Zelenskyy warned that the U.S.-Russia diesel agreement could set a precedent for further sanctions relief, while highlighting Ukraine's continued reliance on U.S. military technology and intelligence despite efforts to develop alternatives.
+"Sanctions will be lifted after gas," Zelenskyy said. "They will be lifted on something else. Then this will come to the banking system, certain individuals, chemical industry."
+Earlier this week, reports emerged that Ukraine has restricted SpaceX's Starlink military application, Starshield. SpaceX CEO Elon Musk said in a post on X that the U.S. government and president were ultimately responsible for any curbs on the network.`,
+    bodyJa: `President Donald Trump signed an executive order late Friday waiving parts of a recently enacted package of sanctions aimed at curbing Russia's ability to prosecute its war against Ukraine.
+"I have submitted to the Congress a certification that the issuance of such a waiver is in the national interests of the United States," Trump wrote in Friday's order.
+The House passed the Russia sanctions bill on Sept. 16, and Trump signed it into law two days later. The bill was introduced over a year ago, and its primary backer was the late Lindsey Graham, a veteran Republican senator who represented South Carolina.
+Titled the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, the legislation targeted Russia's economy, intending to penalize the country over its continued full-scale invasion of Ukraine.
+The act required the president to increase duties on all Russian goods imported into the U.S. by up to 500% no later than 30 days after enactment. It also required Trump to impose tariffs of up to 100% on countries including China and India that are among the top five purchasers of Russian crude oil or gas.
+Trump's latest order waives these two parts of the Graham Act and comes two days before the law's implementation deadline. However, the order preserves existing sanctions on Russia under earlier executive orders.
+The law could also sanction Russian leaders, officials, and financial institutions, and expand sanctions on Iran.
+Oil sales revenue is critical to funding Russia's war effort.
+The move also comes a week after the Trump administration temporarily waived sanctions on Russian diesel exports through April 2027 to ease a supply crunch caused by the war in Iran.
+High fuel prices are a sensitive issue for voters ahead of midterm elections on Nov. 3. Trump's Republican Party holds a narrow majority in both chambers of Congress.
+A 'historic moment'
+"The suspension of some of the provisions of the Graham Act marks an important and truly historic moment," Kirill Dmitriev, Russian President Vladimir Putin's economy envoy, said in a post on X.
+"The U.S.-Russia economic dialogue and peacemaking efforts will continue," Dmitriev added.
+But Trump's opponents have criticized the move.
+Sen. Richard Blumenthal, a Connecticut Democrat who also drafted the Graham Act, condemned the latest waiver.
+"Donald Trump confirms again that he stands on the side of a bloodthirsty thug & the enablers of Russia's war machine & against the majority of Americans, their representatives in both houses of Congress, & our European allies," Blumenthal said in an X post.
+Speaking to reporters in Brussels on Friday, Ukrainian President Volodymyr Zelenskyy warned that the U.S.-Russia diesel agreement could set a precedent for further sanctions relief, while highlighting Ukraine's continued reliance on U.S. military technology and intelligence despite efforts to develop alternatives.
+"Sanctions will be lifted after gas," Zelenskyy said. "They will be lifted on something else. Then this will come to the banking system, certain individuals, chemical industry."
+Earlier this week, reports emerged that Ukraine has restricted SpaceX's Starlink military application, Starshield. SpaceX CEO Elon Musk said in a post on X that the U.S. government and president were ultimately responsible for any curbs on the network.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+    publishedAt: "2026-10-17T10:20:44+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 8,
+  },
+  {
+    id: "oregon-teacher-fought-school-attacker-be-b5023ce6",
+    title: "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+    titleJa: "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+    summaryJa: "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+    bodyOriginal: `Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'
+- Published
+Some readers may find this article distressing.
+A female teacher in the US state of Oregon tackled a teenage shooter who entered her classroom and tried to wrestle the gun from his grasp, police have said.
+The teacher, who has not been named, threw her mobile phone before trying to disarm the 16-year-old on the floor of a classroom at Silver Rail Elementary in the city of Bend.
+The attacker killed three children and a teacher after shooting his way into the building on Thursday.
+He was shot dead by a father with two daughters at the school, who was driving past as the attack started to unfold and, armed with a pistol, ran in to confront the suspect.
+Police said the attacker used to be a student at the school. His motive remains unclear.
+He had been armed with about 44 more rounds of shotgun ammunition when he was stopped, police said. He fired as many as 15 rounds in the class.
+"To the people who showed courage in the face of such violence and intervened to prevent this tragedy from being any worse, we owe you a debt of gratitude," Bend Police Chief Mike Krantz said.
+Police used a news conference on Friday to identify two of the four victims of the school shooting. They were five-year-old Rhoam Summer and 25-year-old teacher Meghan Lambert.
+Lambert's family said in a statement shared by the police that her goal was to be a teacher in the district in which she grew up and that she was "compassionate and had a huge heart".
+"She always fought for the underdog and those with special needs," they said.
+Bryan Jolly, Summer's grandfather, said the family was devastated by his death.
+"The whole thing is senseless, and a shock," he told the New York Times, saying his grandson was "was very bright and very mischievous and very fun-loving, and totally without fear".
+The families of the two other students who were killed, an eight-year-old and 11-year-old, did not wish to have them publicly identified yet, police said.
+Two others were injured in the attack. Another teacher, a 54-year-old, was still being treated at hospital, and a seven-year-old student, who was in serious but stable condition.
+Krantz said the heroic actions of both the teacher and the father who ran inside the school had saved lives.
+He said the teacher who wrestled with the gunman had not been hurt but "almost certainly helped prevent more bloodshed".
+Krantz identified the suspect as 16-year-old Griffin J John II, who had been a special educational needs student at the school.
+A search warrant has been executed at his home and a search is ongoing, the police chief said.
+Police believe the suspect travelled to the elementary school on foot, but they are still investigating his exact movements and how he acquired the gun.
+Officials did not confirm the name of the father who intervened and fatally shot the suspect.
+But Kaylub Giamanco's family has identified him to US media as the person who sprang into action.
+The 36-year-old carpenter had just finished lunch and was on his way home when he passed the school, his brother told NBC News. He saw the suspect open fire on a vehicle outside the school and then shoot through a window to gain entry.
+Police said he had a legally concealed .40 calibre in his vehicle, while his brother said he grabbed the pistol "and decided to go in after" the suspect. Police say he fired at the suspect "multiple times", killing him.
+Giamanco's mother, Kenda Freeman, who lives in Sacramento, California, told a local CBS station that her son had called her moments after the shooting and that he was "traumatised".
+"He said 'a man went into my daughter's school'," Freeman recalled, pausing as she started to tear up. "And, um, shot kids. And he said, 'and I looked at him point blank, and I shot and killed him, mum'."
+She added: "I told him he saved a lot of lives, and he said, 'mum, I couldn't save them all'."
+US President Donald Trump praised the bystander on Friday, calling him a "great hero" and telling reporters that the situation could have become "much worse".
+"It's a terrible thing, but thank goodness for a man that had a gun and knew how to use it," he said.
+Without naming the bystander, Oregon Governor Tina Kotek acknowledged the man's heroic actions as having stopped further loss of life, but noted they "carry a heavy emotional burden and I just want you to know that my thoughts are with you as well".
+Additional reporting by Kayla Epstein
+- Published1 day ago`,
+    bodyJa: `Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'
+- Published
+Some readers may find this article distressing.
+A female teacher in the US state of Oregon tackled a teenage shooter who entered her classroom and tried to wrestle the gun from his grasp, police have said.
+The teacher, who has not been named, threw her mobile phone before trying to disarm the 16-year-old on the floor of a classroom at Silver Rail Elementary in the city of Bend.
+The attacker killed three children and a teacher after shooting his way into the building on Thursday.
+He was shot dead by a father with two daughters at the school, who was driving past as the attack started to unfold and, armed with a pistol, ran in to confront the suspect.
+Police said the attacker used to be a student at the school. His motive remains unclear.
+He had been armed with about 44 more rounds of shotgun ammunition when he was stopped, police said. He fired as many as 15 rounds in the class.
+"To the people who showed courage in the face of such violence and intervened to prevent this tragedy from being any worse, we owe you a debt of gratitude," Bend Police Chief Mike Krantz said.
+Police used a news conference on Friday to identify two of the four victims of the school shooting. They were five-year-old Rhoam Summer and 25-year-old teacher Meghan Lambert.
+Lambert's family said in a statement shared by the police that her goal was to be a teacher in the district in which she grew up and that she was "compassionate and had a huge heart".
+"She always fought for the underdog and those with special needs," they said.
+Bryan Jolly, Summer's grandfather, said the family was devastated by his death.
+"The whole thing is senseless, and a shock," he told the New York Times, saying his grandson was "was very bright and very mischievous and very fun-loving, and totally without fear".
+The families of the two other students who were killed, an eight-year-old and 11-year-old, did not wish to have them publicly identified yet, police said.
+Two others were injured in the attack. Another teacher, a 54-year-old, was still being treated at hospital, and a seven-year-old student, who was in serious but stable condition.
+Krantz said the heroic actions of both the teacher and the father who ran inside the school had saved lives.
+He said the teacher who wrestled with the gunman had not been hurt but "almost certainly helped prevent more bloodshed".
+Krantz identified the suspect as 16-year-old Griffin J John II, who had been a special educational needs student at the school.
+A search warrant has been executed at his home and a search is ongoing, the police chief said.
+Police believe the suspect travelled to the elementary school on foot, but they are still investigating his exact movements and how he acquired the gun.
+Officials did not confirm the name of the father who intervened and fatally shot the suspect.
+But Kaylub Giamanco's family has identified him to US media as the person who sprang into action.
+The 36-year-old carpenter had just finished lunch and was on his way home when he passed the school, his brother told NBC News. He saw the suspect open fire on a vehicle outside the school and then shoot through a window to gain entry.
+Police said he had a legally concealed .40 calibre in his vehicle, while his brother said he grabbed the pistol "and decided to go in after" the suspect. Police say he fired at the suspect "multiple times", killing him.
+Giamanco's mother, Kenda Freeman, who lives in Sacramento, California, told a local CBS station that her son had called her moments after the shooting and that he was "traumatised".
+"He said 'a man went into my daughter's school'," Freeman recalled, pausing as she started to tear up. "And, um, shot kids. And he said, 'and I looked at him point blank, and I shot and killed him, mum'."
+She added: "I told him he saved a lot of lives, and he said, 'mum, I couldn't save them all'."
+US President Donald Trump praised the bystander on Friday, calling him a "great hero" and telling reporters that the situation could have become "much worse".
+"It's a terrible thing, but thank goodness for a man that had a gun and knew how to use it," he said.
+Without naming the bystander, Oregon Governor Tina Kotek acknowledged the man's heroic actions as having stopped further loss of life, but noted they "carry a heavy emotional burden and I just want you to know that my thoughts are with you as well".
+Additional reporting by Kayla Epstein
+- Published1 day ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-17T09:58:17+00:00",
+    category: "自動車",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg",
+    readTime: 10,
+  },
+  {
+    id: "trump-waives-several-russia-sanctions-as-75ef65a0",
+    title: "Trump waives several Russia sanctions as row with Zelensky intensifies",
+    titleJa: "Trump waives several Russia sanctions as row with Zelensky intensifies",
+    summaryJa: "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+    bodyOriginal: `Trump waives several Russia sanctions as row with Zelensky intensifies
+- Published
+Donald Trump has blocked numerous sanctions on Russia two days before they were due to take effect, as a row with his Ukrainian counterpart Volodymyr Zelensky deepens.
+The sanctions were passed by the US Congress and signed into law by Trump in September.
+But the US president issued an executive order on Friday night saying that suspending some was in the US "national interest", prompting a backlash from US lawmakers. Zelensky said it was unfortunate the US has decided to "completely disregard" the sanctions.
+Relations between Washington and Kyiv frayed after the US struck a controversial deal to import Russian diesel. Ukraine then accused the Trump administration of withdrawing key military support.
+Trump and Zelensky have exchanged sharp words about one another. Ukraine's president declared it was nice to be among "real leaders" while addressing an EU summit, after Trump said Zelensky was "more difficult to deal with" than Russian President Vladimir Putin.
+The new US sanctions law took aim at Russia's economy, giving Trump broad powers to levy tariffs of up to 100% on imports from the top five purchasers of Russian oil and gas – most significantly China and India.
+It also included sanctions against senior Russian figures, including Putin, as well as Russian financial institutions and Moscow's so-called "shadow fleet" of vessels used to circumvent existing embargoes.
+Trump denies limiting Ukraine access to Starlink network
+- Published14 hours ago
+Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC
+- Published10 hours ago
+Many of these provisions have now been waived by Trump.
+Russian envoy Kirill Dmitriev called the waiver "an important and truly historic moment".
+Posting on X, he said the sanctions would have inflicted "serious damage" primarily on the US and global market, and that economic cooperation benefits both nations.
+Democrats including the Virginia Congressman Don Beyer have criticised the move, accusing Trump of capitulating to Moscow and turning his back on Kyiv and Zelensky.
+"Trump's latest surrender to Putin again betrays our Ukrainian partners and defies clear congressional intent of legislation designed to punish Russia for its illegal war of aggression," Beyer wrote on X.
+The move is likely to draw further anger from Ukraine, where Zelensky has long stressed the need for stringent sanctions to limit funding Russia can use in its war effort.
+Zelensky said on Saturday morning that the sanctions "could have helped enormously" and that the law was "supposed to impose truly effective pressure on Russia to bring this war to an end".
+He pointed to Russian overnight attacks on 15 Ukrainian energy facilities that had caused power cuts in several regions and said: "Russia is trying to cause a blackout in Ukraine – right before winter."
+Zelensky said was "important that everyone in America also sees what is really happening" on the ground.
+Trump was initially criticised by Zelensky and Ukraine's European allies for temporarily suspending some US sanctions to import Russian diesel in a bid to bring down US energy prices, which have skyrocketed during the Iran war.
+Trump has spent months grappling with the political consequences of the Middle East conflict, which has sent fuel costs soaring ahead of the US midterm elections. Rising inflation has soured Trump's standing with the American public.
+Zelensky suggested the deal was tantamount to the US investing in Russia's war effort.
+A few days later, Trump claimed that both Russia and Ukraine had agreed to an "energy ceasefire" to facilitate the export of Russian diesel.
+Both nations have been intensively striking one another's energy infrastructure. Kyiv says this is to limit revenue for Russia's war machine, while Moscow claims it only targets facilities used by the Ukrainian military.
+Zelensky initially expressed surprise at Trump's announcement, and said Kyiv would stop the strikes if Russia did the same. After three days which saw several fresh attacks from Russia, Kyiv resumed its strikes on Russian oil refineries.
+This prompted scathing condemnation from Trump, who called the strikes a "disgrace". Zelensky replied that he was "only standing up for Ukraine's interests".
+Concerns that Trump is siding with Russia have been heightened by disruption to a US-provided satellite system used by Ukraine.
+Last week Starlink suddenly and unexpectedly restricted the speed at which drones could fly while still maintaining internet connection. This disrupted some battlefield missions, Ukraine said, and hampered Kyiv's ability to protect itself from incoming Russian attacks.
+During the slowdown, Russia launched several deadly strikes on Ukraine, with residents and the government saying these came with no prior warning.
+Zelensky said on Friday that Starlink speeds had still not been fully restored.
+Trump has denied halting intelligence-sharing and deliberately slowing down Ukraine's Starlink network.
+Ukrainian authorities have confirmed that at least nine people have been killed and around 60 injured in Russian strikes across the country over the past 24 hours.
+They said an ambulance driver was killed and 20 others were injured in Russian strikes on the city of Kherson on Saturday morning.
+Russia's defence ministry said it had targeted industries linked to Ukraine's defence industry - including steel works, an electrical sub-station and a cargo vessel in the Black Sea.
+Additional reporting by Helen Sullivan
+Related topics
+- Published5 days ago
+- Published18 September`,
+    bodyJa: `Trump waives several Russia sanctions as row with Zelensky intensifies
+- Published
+Donald Trump has blocked numerous sanctions on Russia two days before they were due to take effect, as a row with his Ukrainian counterpart Volodymyr Zelensky deepens.
+The sanctions were passed by the US Congress and signed into law by Trump in September.
+But the US president issued an executive order on Friday night saying that suspending some was in the US "national interest", prompting a backlash from US lawmakers. Zelensky said it was unfortunate the US has decided to "completely disregard" the sanctions.
+Relations between Washington and Kyiv frayed after the US struck a controversial deal to import Russian diesel. Ukraine then accused the Trump administration of withdrawing key military support.
+Trump and Zelensky have exchanged sharp words about one another. Ukraine's president declared it was nice to be among "real leaders" while addressing an EU summit, after Trump said Zelensky was "more difficult to deal with" than Russian President Vladimir Putin.
+The new US sanctions law took aim at Russia's economy, giving Trump broad powers to levy tariffs of up to 100% on imports from the top five purchasers of Russian oil and gas – most significantly China and India.
+It also included sanctions against senior Russian figures, including Putin, as well as Russian financial institutions and Moscow's so-called "shadow fleet" of vessels used to circumvent existing embargoes.
+Trump denies limiting Ukraine access to Starlink network
+- Published14 hours ago
+Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC
+- Published10 hours ago
+Many of these provisions have now been waived by Trump.
+Russian envoy Kirill Dmitriev called the waiver "an important and truly historic moment".
+Posting on X, he said the sanctions would have inflicted "serious damage" primarily on the US and global market, and that economic cooperation benefits both nations.
+Democrats including the Virginia Congressman Don Beyer have criticised the move, accusing Trump of capitulating to Moscow and turning his back on Kyiv and Zelensky.
+"Trump's latest surrender to Putin again betrays our Ukrainian partners and defies clear congressional intent of legislation designed to punish Russia for its illegal war of aggression," Beyer wrote on X.
+The move is likely to draw further anger from Ukraine, where Zelensky has long stressed the need for stringent sanctions to limit funding Russia can use in its war effort.
+Zelensky said on Saturday morning that the sanctions "could have helped enormously" and that the law was "supposed to impose truly effective pressure on Russia to bring this war to an end".
+He pointed to Russian overnight attacks on 15 Ukrainian energy facilities that had caused power cuts in several regions and said: "Russia is trying to cause a blackout in Ukraine – right before winter."
+Zelensky said was "important that everyone in America also sees what is really happening" on the ground.
+Trump was initially criticised by Zelensky and Ukraine's European allies for temporarily suspending some US sanctions to import Russian diesel in a bid to bring down US energy prices, which have skyrocketed during the Iran war.
+Trump has spent months grappling with the political consequences of the Middle East conflict, which has sent fuel costs soaring ahead of the US midterm elections. Rising inflation has soured Trump's standing with the American public.
+Zelensky suggested the deal was tantamount to the US investing in Russia's war effort.
+A few days later, Trump claimed that both Russia and Ukraine had agreed to an "energy ceasefire" to facilitate the export of Russian diesel.
+Both nations have been intensively striking one another's energy infrastructure. Kyiv says this is to limit revenue for Russia's war machine, while Moscow claims it only targets facilities used by the Ukrainian military.
+Zelensky initially expressed surprise at Trump's announcement, and said Kyiv would stop the strikes if Russia did the same. After three days which saw several fresh attacks from Russia, Kyiv resumed its strikes on Russian oil refineries.
+This prompted scathing condemnation from Trump, who called the strikes a "disgrace". Zelensky replied that he was "only standing up for Ukraine's interests".
+Concerns that Trump is siding with Russia have been heightened by disruption to a US-provided satellite system used by Ukraine.
+Last week Starlink suddenly and unexpectedly restricted the speed at which drones could fly while still maintaining internet connection. This disrupted some battlefield missions, Ukraine said, and hampered Kyiv's ability to protect itself from incoming Russian attacks.
+During the slowdown, Russia launched several deadly strikes on Ukraine, with residents and the government saying these came with no prior warning.
+Zelensky said on Friday that Starlink speeds had still not been fully restored.
+Trump has denied halting intelligence-sharing and deliberately slowing down Ukraine's Starlink network.
+Ukrainian authorities have confirmed that at least nine people have been killed and around 60 injured in Russian strikes across the country over the past 24 hours.
+They said an ambulance driver was killed and 20 others were injured in Russian strikes on the city of Kherson on Saturday morning.
+Russia's defence ministry said it had targeted industries linked to Ukraine's defence industry - including steel works, an electrical sub-station and a cargo vessel in the Black Sea.
+Additional reporting by Helen Sullivan
+Related topics
+- Published5 days ago
+- Published18 September`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-17T09:42:13+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
+    readTime: 10,
+  },
+  {
+    id: "some-companies-give-ai-to-everyone-this-68125cc9",
+    title: "Some companies give AI to everyone. This CEO is doing the opposite",
+    titleJa: "Some companies give AI to everyone. This CEO is doing the opposite",
+    summaryJa: "Paysend CEO Ben Chisell limits AI tools to top performers as other U.K. companies push broader workplace rollouts.",
+    bodyOriginal: `At London-headquartered payments technology company Paysend, access to artificial intelligence tools has to be earned.
+CEO Ben Chisell told CNBC he is a “very cynical man” about the hype around the technology, though he still sees value in it.
+Chisell, who previously worked at Amazon, eBay and Starling Bank, estimates that Paysend can now deliver around 25% more engineering work with the same-sized team, but argues that getting results isn’t as simple as handing everyone the latest tech.
+I know it sounds very unglamorous and unsexy as an approach given the world of tokenmaxxing and AI, but I think it’s really, really importantBen ChisellPaysend
+Instead, he limits AI tools to his highest-performing employees, often only after they’ve proved what they can do with them. In the wrong hands, he said, AI can magnify bad habits such as laziness and poor judgment.
+His broader rule is to resist the “fear of missing out” and focus on customer problems.
+“I know it sounds very unglamorous and unsexy as an approach given the world of tokenmaxxing and AI, but I think it’s really, really important,” Chisell said.
+Companywide AI rollouts
+The pressure to demonstrate AI’s value is growing, from the legal sector to software engineering and finance, and many companies are responding by putting the technology in as many hands as possible.
+London-based Lloyds Banking Group has rolled out 40,000 Microsoft 365 Copilot licenses, with 97% of employees who have one actively using it, the bank said. Newcastle-headquartered software company Sage said its AI coding tools had saved hundreds of thousands of work hours, while London-based professional services firm Grant Thornton UK has encouraged all of its staff to use Anthropic’s Claude as part of a £500 million ($660 million) investment in AI.
+These figures do not necessarily translate into gains on the bottom line, however. U.K. government research published in January found that three-quarters of businesses using AI said it had improved workforce productivity, but 77% said revenue had not changed.
+Read more from CNBC Work
+Like Chisell, Lokdeep Singh, CEO of British enterprise software company Unily, sees AI as a “superpower” best reserved for high-performing employees. He is also wary of companies giving it out to everyone as a way to reduce costs.
+“I personally believe you should use it to expand your ambition rather than make the team smaller,” he told CNBC. “But the reality is that in many industries, again, because of the macro environment, it is being thought as: ‘OK, can I cut costs? Can I cut employees?’ The truth is probably somewhere in between.”
+Measuring AI value
+At Paysend, Chisell wants employees to demonstrate what a tool actually contributes. New hires get a month to experiment with AI tools and explain what they have achieved.
+He recently put that policy to the test with a new search engine optimization lead who requested access to Claude. A month later, the employee told Chisell he no longer needed it. All he found it useful for, he said, was producing briefs more quickly. So instead of a general-purpose AI tool, the employee suggested building a dedicated content-brief agent, which he is now working on.
+At software company CoreView, the approach has been different. London-based CEO Simon Azzopardi told CNBC the company was initially “very gung-ho” on AI, initiating a widespread rollout for its software engineers. They first used AI to investigate problems by correlating logs, events and data, as well as to produce technical documentation and onboard new engineers faster.
+You feel more efficient, but you actually aren’tSimon AzzopardiCoreView
+Now, he said, developers increasingly coordinate teams of AI agents handling tasks including back-end and front-end coding, quality assurance and documentation. Azzopardi said work that previously took weeks could now take days.
+However, AI-generated work isn’t necessarily productive if employees use it to build things outside their expertise, Azzopardi warned. “You feel more efficient, but you actually aren’t,” he said.
+Still, when onboarding a major customer in the U.K.’s National Health Service, CoreView only needed to add one engineer while continuing to deliver its other projects, he said. The company has been hiring rather than cutting staff, using the extra capacity to take on more work.
+Jobs after automation
+As AI takes on more of people’s existing responsibilities, the question is what happens to the employees who used to do these tasks. Chisell believes companies will thrive if they help employees move into new roles, rather than replace them once their work is automated.
+Customer-service workers, for example, have spent years resolving complex issues — a skill that’s valuable across a business, he said. For Chisell, technology should never replace human responsibility.
+“Having a human in the loop shouldn’t mean human CC’d,” he said. “It should mean human ownership.”`,
+    bodyJa: `At London-headquartered payments technology company Paysend, access to artificial intelligence tools has to be earned.
+CEO Ben Chisell told CNBC he is a “very cynical man” about the hype around the technology, though he still sees value in it.
+Chisell, who previously worked at Amazon, eBay and Starling Bank, estimates that Paysend can now deliver around 25% more engineering work with the same-sized team, but argues that getting results isn’t as simple as handing everyone the latest tech.
+I know it sounds very unglamorous and unsexy as an approach given the world of tokenmaxxing and AI, but I think it’s really, really importantBen ChisellPaysend
+Instead, he limits AI tools to his highest-performing employees, often only after they’ve proved what they can do with them. In the wrong hands, he said, AI can magnify bad habits such as laziness and poor judgment.
+His broader rule is to resist the “fear of missing out” and focus on customer problems.
+“I know it sounds very unglamorous and unsexy as an approach given the world of tokenmaxxing and AI, but I think it’s really, really important,” Chisell said.
+Companywide AI rollouts
+The pressure to demonstrate AI’s value is growing, from the legal sector to software engineering and finance, and many companies are responding by putting the technology in as many hands as possible.
+London-based Lloyds Banking Group has rolled out 40,000 Microsoft 365 Copilot licenses, with 97% of employees who have one actively using it, the bank said. Newcastle-headquartered software company Sage said its AI coding tools had saved hundreds of thousands of work hours, while London-based professional services firm Grant Thornton UK has encouraged all of its staff to use Anthropic’s Claude as part of a £500 million ($660 million) investment in AI.
+These figures do not necessarily translate into gains on the bottom line, however. U.K. government research published in January found that three-quarters of businesses using AI said it had improved workforce productivity, but 77% said revenue had not changed.
+Read more from CNBC Work
+Like Chisell, Lokdeep Singh, CEO of British enterprise software company Unily, sees AI as a “superpower” best reserved for high-performing employees. He is also wary of companies giving it out to everyone as a way to reduce costs.
+“I personally believe you should use it to expand your ambition rather than make the team smaller,” he told CNBC. “But the reality is that in many industries, again, because of the macro environment, it is being thought as: ‘OK, can I cut costs? Can I cut employees?’ The truth is probably somewhere in between.”
+Measuring AI value
+At Paysend, Chisell wants employees to demonstrate what a tool actually contributes. New hires get a month to experiment with AI tools and explain what they have achieved.
+He recently put that policy to the test with a new search engine optimization lead who requested access to Claude. A month later, the employee told Chisell he no longer needed it. All he found it useful for, he said, was producing briefs more quickly. So instead of a general-purpose AI tool, the employee suggested building a dedicated content-brief agent, which he is now working on.
+At software company CoreView, the approach has been different. London-based CEO Simon Azzopardi told CNBC the company was initially “very gung-ho” on AI, initiating a widespread rollout for its software engineers. They first used AI to investigate problems by correlating logs, events and data, as well as to produce technical documentation and onboard new engineers faster.
+You feel more efficient, but you actually aren’tSimon AzzopardiCoreView
+Now, he said, developers increasingly coordinate teams of AI agents handling tasks including back-end and front-end coding, quality assurance and documentation. Azzopardi said work that previously took weeks could now take days.
+However, AI-generated work isn’t necessarily productive if employees use it to build things outside their expertise, Azzopardi warned. “You feel more efficient, but you actually aren’t,” he said.
+Still, when onboarding a major customer in the U.K.’s National Health Service, CoreView only needed to add one engineer while continuing to deliver its other projects, he said. The company has been hiring rather than cutting staff, using the extra capacity to take on more work.
+Jobs after automation
+As AI takes on more of people’s existing responsibilities, the question is what happens to the employees who used to do these tasks. Chisell believes companies will thrive if they help employees move into new roles, rather than replace them once their work is automated.
+Customer-service workers, for example, have spent years resolving complex issues — a skill that’s valuable across a business, he said. For Chisell, technology should never replace human responsibility.
+“Having a human in the loop shouldn’t mean human CC’d,” he said. “It should mean human ownership.”`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
+    publishedAt: "2026-10-17T05:00:01+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "three-men-jailed-for-158-years-each-for-58d2130f",
+    title: "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+    titleJa: "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+    summaryJa: "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
+    bodyOriginal: `Three men jailed for 158 years each for murdering Australian and US surfers in Mexico
+- Published
+A Mexican judge has sentenced three men convicted of murdering Australian brothers Jake and Callum Robinson and their US friend Carter Rhoad to 158 years and nine months in jail each.
+The Robinsons and Rhoad were killed in an apparent botched robbery of their truck on a secluded beach in Baja California in 2024 while they were on a surfing trip, the court heard during the trial.
+The murders sent shockwaves around the world, particularly in Australia, as the area is usually safe from the violence seen in other parts of Mexico.
+The guilty verdict was handed down last week. Debra Robinson, the brothers' mother, told the courtroom that her sons' murders had taken "the future we had imagined with them".
+The convicted killers' full names were not given for legal reasons, meaning they were only identified as Jesús Gerardo, Irineo Francisco and Ángel Jesús.
+In November last year, the girlfriend of the alleged ringleader, Jesús Gerardo (alias "El Kekas"), was sentenced in a separate trial to 20 years in prison. She had admitted to involvement in the robbery.
+The court heard that the bodies of the victims were found dumped down a well with gunshot wounds to their heads.
+At the time, the murders shocked locals and tourists in the beach town of Ensenada who were disturbed at the apparent ease and sheer pointlessness of the killings.
+Ensenada has a reputation as a welcoming spot for surfers, but the chilling murders revealed how commonplace such extreme violence remains in Mexico.
+The only explanation the authorities were able to give was that the surfers - all in their early 30s - had ultimately been murdered for being in the wrong place at the wrong time.
+Their killings happened barely 36 hours after they crossed into Mexico from the US. Their bodies, however, were not found for another week, when their families were able to identify them.
+Local surfers also called for greater security for residents and visiting tourists, citing other recent examples of violence in the state. Tourism is a key part of the regional economy in Baja California.
+Related topics
+- Published8 September
+- Published7 May 2024`,
+    bodyJa: `Three men jailed for 158 years each for murdering Australian and US surfers in Mexico
+- Published
+A Mexican judge has sentenced three men convicted of murdering Australian brothers Jake and Callum Robinson and their US friend Carter Rhoad to 158 years and nine months in jail each.
+The Robinsons and Rhoad were killed in an apparent botched robbery of their truck on a secluded beach in Baja California in 2024 while they were on a surfing trip, the court heard during the trial.
+The murders sent shockwaves around the world, particularly in Australia, as the area is usually safe from the violence seen in other parts of Mexico.
+The guilty verdict was handed down last week. Debra Robinson, the brothers' mother, told the courtroom that her sons' murders had taken "the future we had imagined with them".
+The convicted killers' full names were not given for legal reasons, meaning they were only identified as Jesús Gerardo, Irineo Francisco and Ángel Jesús.
+In November last year, the girlfriend of the alleged ringleader, Jesús Gerardo (alias "El Kekas"), was sentenced in a separate trial to 20 years in prison. She had admitted to involvement in the robbery.
+The court heard that the bodies of the victims were found dumped down a well with gunshot wounds to their heads.
+At the time, the murders shocked locals and tourists in the beach town of Ensenada who were disturbed at the apparent ease and sheer pointlessness of the killings.
+Ensenada has a reputation as a welcoming spot for surfers, but the chilling murders revealed how commonplace such extreme violence remains in Mexico.
+The only explanation the authorities were able to give was that the surfers - all in their early 30s - had ultimately been murdered for being in the wrong place at the wrong time.
+Their killings happened barely 36 hours after they crossed into Mexico from the US. Their bodies, however, were not found for another week, when their families were able to identify them.
+Local surfers also called for greater security for residents and visiting tourists, citing other recent examples of violence in the state. Tourism is a key part of the regional economy in Baja California.
+Related topics
+- Published8 September
+- Published7 May 2024`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-17T03:11:10+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ab9/live/138578c0-c453-11f1-bc2e-018d645d8d21.jpg",
+    readTime: 6,
+  },
+  {
     id: "brazil-sees-record-fall-in-amazon-defore-8b2a1b6f",
     title: "Brazil sees record fall in Amazon deforestation as key election looms",
     titleJa: "Brazil sees record fall in Amazon deforestation as key election looms",
@@ -65,6 +399,50 @@ It shows that "with political will, it is possible to curb deforestation and gre
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43ab/live/8511edf0-c9be-11f1-ae9f-bf0ab88aba90.jpg",
     readTime: 7,
+  },
+  {
+    id: "u-s-budget-deficit-swells-to-almost-2-tr-8730cefd",
+    title: "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+    titleJa: "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+    summaryJa: "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
+    bodyOriginal: `The U.S. finished the 2026 fiscal year with a budget deficit of nearly $2 trillion, the latest measurement to underscore the extent of the country's financial stress.
+The $1.992 trillion figure was about 12% higher than the $1.775 trillion deficit in the prior fiscal year, the Treasury Department reported Friday.
+It's the third-highest annual deficit in U.S. history, behind only 2020 and 2021, when the federal government was doling out trillions of dollars in financial stimulus amid the Covid-19 pandemic. The 2026 fiscal year saw record sums for both receipts and outlays, according to a Treasury Department official.
+With Friday's release, the U.S. officially recorded its 25th straight fiscal year operating at a deficit. The government last recorded a surplus — meaning its revenues were larger than debts — in 2001.
+Friday's report offers fresh evidence of how the U.S.'s fast-growing debt pile has dragged on the nation's overall financial health. The rising debt bill has helped exacerbate angst among bond traders, who sent the 10-year and 30-year U.S. Treasury yields to 24-year highs last week.
+Where the debt comes from
+Social Security amounted to the biggest slice of government spending at nearly $1.7 trillion for the full fiscal year, up modestly from the roughly $1.6 trillion spent in 2025.
+Medicare was the second biggest contributor, costing almost $1.1 trillion for the fiscal year. By comparison, the government-run healthcare program required slightly under $1 trillion in fiscal 2025.
+Net interest – a calculation of the Treasury's gross interest minus the interest it receives – also topped $1 trillion for the fiscal year. In the 2025 fiscal year, net interest totaled $970 billion.
+Individual incomes taxes helped lessen the total deficit by bringing in more than $2.8 trillion, an increase of about 7% year over year. Corporate income tax provided $381 billion in receipts during the 2026 fiscal year. That was a decrease of about $70 billion from fiscal 2025 stemming from the tax cuts included in the One Big Beautiful Bill act passed by Congress last year.
+In the 2026 fiscal year, the U.S. shelled out more than $1.3 trillion in interest on the national public debt. The total owed exceeded $40 trillion earlier this year and has more than doubled over the last decade.
+Treasury Secretary Scott Bessent told CNBC in August that the U.S. can "grow our way out of" its increasing debt pile.
+"Our message to our allies, our trading partners, is that global growth is the way to take care of this mountain of debt," Bessent said in August.
+President Donald Trump pitched his plans for broad and steep tariffs as a way to drive up revenue and shrink the government's debt. The White House has pushed forward with its strategy of increasing levies on trading partners despite the Supreme Court ruling earlier this year that many of those instituted by Trump were unconstitutional.
+The Treasury saw a record high for gross customs duties in the 2026 fiscal year, according to a department official. But the total revenue from customs took a hit due to refunds required following the Supreme Court ruling, which sent billions of dollars back to retailers.
+The Treasury also reported Friday that September's monthly deficit came in at $27 billion, a reversal from the prior year, when the department saw a surplus of $198 billion in the month.`,
+    bodyJa: `The U.S. finished the 2026 fiscal year with a budget deficit of nearly $2 trillion, the latest measurement to underscore the extent of the country's financial stress.
+The $1.992 trillion figure was about 12% higher than the $1.775 trillion deficit in the prior fiscal year, the Treasury Department reported Friday.
+It's the third-highest annual deficit in U.S. history, behind only 2020 and 2021, when the federal government was doling out trillions of dollars in financial stimulus amid the Covid-19 pandemic. The 2026 fiscal year saw record sums for both receipts and outlays, according to a Treasury Department official.
+With Friday's release, the U.S. officially recorded its 25th straight fiscal year operating at a deficit. The government last recorded a surplus — meaning its revenues were larger than debts — in 2001.
+Friday's report offers fresh evidence of how the U.S.'s fast-growing debt pile has dragged on the nation's overall financial health. The rising debt bill has helped exacerbate angst among bond traders, who sent the 10-year and 30-year U.S. Treasury yields to 24-year highs last week.
+Where the debt comes from
+Social Security amounted to the biggest slice of government spending at nearly $1.7 trillion for the full fiscal year, up modestly from the roughly $1.6 trillion spent in 2025.
+Medicare was the second biggest contributor, costing almost $1.1 trillion for the fiscal year. By comparison, the government-run healthcare program required slightly under $1 trillion in fiscal 2025.
+Net interest – a calculation of the Treasury's gross interest minus the interest it receives – also topped $1 trillion for the fiscal year. In the 2025 fiscal year, net interest totaled $970 billion.
+Individual incomes taxes helped lessen the total deficit by bringing in more than $2.8 trillion, an increase of about 7% year over year. Corporate income tax provided $381 billion in receipts during the 2026 fiscal year. That was a decrease of about $70 billion from fiscal 2025 stemming from the tax cuts included in the One Big Beautiful Bill act passed by Congress last year.
+In the 2026 fiscal year, the U.S. shelled out more than $1.3 trillion in interest on the national public debt. The total owed exceeded $40 trillion earlier this year and has more than doubled over the last decade.
+Treasury Secretary Scott Bessent told CNBC in August that the U.S. can "grow our way out of" its increasing debt pile.
+"Our message to our allies, our trading partners, is that global growth is the way to take care of this mountain of debt," Bessent said in August.
+President Donald Trump pitched his plans for broad and steep tariffs as a way to drive up revenue and shrink the government's debt. The White House has pushed forward with its strategy of increasing levies on trading partners despite the Supreme Court ruling earlier this year that many of those instituted by Trump were unconstitutional.
+The Treasury saw a record high for gross customs duties in the 2026 fiscal year, according to a department official. But the total revenue from customs took a hit due to refunds required following the Supreme Court ruling, which sent billions of dollars back to retailers.
+The Treasury also reported Friday that September's monthly deficit came in at $27 billion, a reversal from the prior year, when the department saw a surplus of $198 billion in the month.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+    publishedAt: "2026-10-16T22:34:29+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 8,
   },
   {
     id: "nowhere-to-hide-tech-selloff-hits-softwa-9fe495a3",
@@ -989,6 +1367,96 @@ Grete Herlofson, secretary general of the Norwegian Red Cross, said in a stateme
     readTime: 2,
   },
   {
+    id: "banks-expect-to-be-hit-with-higher-taxes-7aa1f494",
+    title: "Banks expect to be hit with higher taxes in Budget",
+    titleJa: "Banks expect to be hit with higher taxes in Budget",
+    summaryJa: "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+    bodyOriginal: `Banks expect to be hit with higher taxes in Budget
+- Published
+Chancellor John Healey is planning to increase taxes on the bank sector, senior banking executives have told the BBC.
+Healey has described banks as part of "the crown jewels" of the UK economy, but leaders in the sector have said it will be "on the menu" at the Budget in two weeks' time.
+The biggest four banks collectively made about £15bn profit in the first six months of this year, and trade unions have called for them to face additional taxes.
+The trade body for the banking sector, UK Finance, warned "further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government's ambition to deliver growth in every postcode".
+Shares in banks including Lloyds and NatWest fell on Friday on expectations that the sector would be hit by tax hikes. The firms were among the biggest fallers on the UK stock market, with both dropping more than 2%.
+Barclays fell only slightly and HSBC actually rose as both have large international businesses and would be less affected by a hike in UK taxes.
+There are a number of ways the chancellor could extract more money from the sector.
+One option is for Healey is to reverse a reduction in the surcharge that banks pay on corporation tax, from 8% to 3%, introduced in 2023, by Conservative chancellor Jeremy Hunt.
+Critics argue this would be unfair noting the cut coincided with a rise in corporation tax from 19% to 25%.
+Healey could also raise the bank levy - a small percentage charged on loans.
+The BBC understands that the Treasury is leaning towards changing the surcharge if they were to go ahead as it is easier to change an existing tax rather than impose a new windfall tax.
+Reversing the 2023 surcharge rate would raise around £2bn. However, the last government was persuaded that adding 8% on top of corporation tax of 25% would leave UK banks struggling to compete with European and US rivals - so it may be that it is raised, but not all the way back to the 8% level.
+Speaking to the press in Bangkok, Healey praised the role banks play in the British economy.
+Adding that he has "decisions to take in the Budget", he said: "My observation on the banks is that people too often see them as big, distant financial institutions, when they are hardwired into the economic fabric of this country and our future prospects."
+In the past banks have successfully argued that higher taxes would risk making the UK uncompetitive with other jurisdictions and would reduce their ability to lend, and therefore be anti-growth.
+Sir Philip Augar, an author and former banker in the City of London, told the BBC's Today programme there was "room for a moderate increase" in taxes on the sector that could raise up to £3bn a year.
+He said lenders were enjoying "booming conditions", benefiting from higher interest rates which boost their profits.
+Rising interest rates have expanded the margin between the rate at which banks lend to customers and the rate they pay savers.
+Sir Philip added that when the banking sector "hits really rocky times it expects the taxpayer to bail them out - when it hits boom times, it expects some kind of special treatment".
+He said banks cannot simultaneously be "too big to fail and too big to tax".
+Paul Nowak, general secretary of the Trades Union Congress, which represents trade unions, said Britain's four biggest banks are making a billion pounds a week, with bonuses at post-financial crash records. "These are bumper profits - driven by high interest rates and households' mortgage misery," he said.
+"Now it's time to make sure banks pay their fair share," he added.
+"But if the chancellor does ask the Banks to pay a fairer share of tax in the Budget, that's 100% the right call," he added.
+Burnham announces scheme to help first-time buyers onto housing ladder
+- Published27 September
+Healey says surprise UK growth is 'sign of resilience' ahead of Budget
+- Published1 day ago
+Faisal Islam: What surprise praise for UK economy tells us about the Budget
+- Published2 days ago
+Banks were pleased to have avoided being targeted at the last Budget, given the large profits they have made in recent years.
+There is another option that has been discussed with Treasury officials. Currently banks can use losses from the past to offset against profits - thereby reducing their tax bill in any given year. Lloyds in particular has been a beneficiary of this policy, as large losses from the financial crisis have been used to lower tax bills ever since.
+Some analysts and bank executives have pushed the idea of a moratorium on this practice for a few years, which would yield an estimated extra £1bn per year for the Treasury. That would provide a windfall while being "a lot more bearable", in the words of one bank executive.
+It would also spare foreign banks from an additional hit, including JP Morgan, whose chief executive Jamie Dimon has warned that the UK already has one of the highest tax burdens on banks in the world. He warned that adding further sector-specific taxes could discourage investment and damage competitiveness.
+However, industry leaders say any form of tax rise that hits UK banks and exempts foreign banks' operations in the UK would be hard to square with the government's push to back British business.
+A Treasury spokesperson said: "As has always been the case, decisions on tax are a matter for the chancellor to set out at fiscal events, rather than routinely commenting on rumour, speculation or proposals."
+Get in touch
+Do you have comments or questions about this story? Get in touch.`,
+    bodyJa: `Banks expect to be hit with higher taxes in Budget
+- Published
+Chancellor John Healey is planning to increase taxes on the bank sector, senior banking executives have told the BBC.
+Healey has described banks as part of "the crown jewels" of the UK economy, but leaders in the sector have said it will be "on the menu" at the Budget in two weeks' time.
+The biggest four banks collectively made about £15bn profit in the first six months of this year, and trade unions have called for them to face additional taxes.
+The trade body for the banking sector, UK Finance, warned "further increases in bank taxes would weaken competitiveness, discourage investment and job creation, and work against the government's ambition to deliver growth in every postcode".
+Shares in banks including Lloyds and NatWest fell on Friday on expectations that the sector would be hit by tax hikes. The firms were among the biggest fallers on the UK stock market, with both dropping more than 2%.
+Barclays fell only slightly and HSBC actually rose as both have large international businesses and would be less affected by a hike in UK taxes.
+There are a number of ways the chancellor could extract more money from the sector.
+One option is for Healey is to reverse a reduction in the surcharge that banks pay on corporation tax, from 8% to 3%, introduced in 2023, by Conservative chancellor Jeremy Hunt.
+Critics argue this would be unfair noting the cut coincided with a rise in corporation tax from 19% to 25%.
+Healey could also raise the bank levy - a small percentage charged on loans.
+The BBC understands that the Treasury is leaning towards changing the surcharge if they were to go ahead as it is easier to change an existing tax rather than impose a new windfall tax.
+Reversing the 2023 surcharge rate would raise around £2bn. However, the last government was persuaded that adding 8% on top of corporation tax of 25% would leave UK banks struggling to compete with European and US rivals - so it may be that it is raised, but not all the way back to the 8% level.
+Speaking to the press in Bangkok, Healey praised the role banks play in the British economy.
+Adding that he has "decisions to take in the Budget", he said: "My observation on the banks is that people too often see them as big, distant financial institutions, when they are hardwired into the economic fabric of this country and our future prospects."
+In the past banks have successfully argued that higher taxes would risk making the UK uncompetitive with other jurisdictions and would reduce their ability to lend, and therefore be anti-growth.
+Sir Philip Augar, an author and former banker in the City of London, told the BBC's Today programme there was "room for a moderate increase" in taxes on the sector that could raise up to £3bn a year.
+He said lenders were enjoying "booming conditions", benefiting from higher interest rates which boost their profits.
+Rising interest rates have expanded the margin between the rate at which banks lend to customers and the rate they pay savers.
+Sir Philip added that when the banking sector "hits really rocky times it expects the taxpayer to bail them out - when it hits boom times, it expects some kind of special treatment".
+He said banks cannot simultaneously be "too big to fail and too big to tax".
+Paul Nowak, general secretary of the Trades Union Congress, which represents trade unions, said Britain's four biggest banks are making a billion pounds a week, with bonuses at post-financial crash records. "These are bumper profits - driven by high interest rates and households' mortgage misery," he said.
+"Now it's time to make sure banks pay their fair share," he added.
+"But if the chancellor does ask the Banks to pay a fairer share of tax in the Budget, that's 100% the right call," he added.
+Burnham announces scheme to help first-time buyers onto housing ladder
+- Published27 September
+Healey says surprise UK growth is 'sign of resilience' ahead of Budget
+- Published1 day ago
+Faisal Islam: What surprise praise for UK economy tells us about the Budget
+- Published2 days ago
+Banks were pleased to have avoided being targeted at the last Budget, given the large profits they have made in recent years.
+There is another option that has been discussed with Treasury officials. Currently banks can use losses from the past to offset against profits - thereby reducing their tax bill in any given year. Lloyds in particular has been a beneficiary of this policy, as large losses from the financial crisis have been used to lower tax bills ever since.
+Some analysts and bank executives have pushed the idea of a moratorium on this practice for a few years, which would yield an estimated extra £1bn per year for the Treasury. That would provide a windfall while being "a lot more bearable", in the words of one bank executive.
+It would also spare foreign banks from an additional hit, including JP Morgan, whose chief executive Jamie Dimon has warned that the UK already has one of the highest tax burdens on banks in the world. He warned that adding further sector-specific taxes could discourage investment and damage competitiveness.
+However, industry leaders say any form of tax rise that hits UK banks and exempts foreign banks' operations in the UK would be hard to square with the government's push to back British business.
+A Treasury spokesperson said: "As has always been the case, decisions on tax are a matter for the chancellor to set out at fiscal events, rather than routinely commenting on rumour, speculation or proposals."
+Get in touch
+Do you have comments or questions about this story? Get in touch.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-16T10:16:27+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da2f/live/cb11db60-c939-11f1-a64c-550be9e3c66b.jpg",
+    readTime: 10,
+  },
+  {
     id: "trump-says-he-won-t-use-nuclear-weapons-68a43284",
     title: "Trump says he won't use nuclear weapons or send ground troops to Iran",
     titleJa: "Trump says he won't use nuclear weapons or send ground troops to Iran",
@@ -1177,298 +1645,6 @@ Cortis is selling around 600,000 albums per month on average, demonstrating stro
     category: "マクロ経済",
     imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
     readTime: 9,
-  },
-  {
-    id: "tesla-finally-delivers-on-its-promise-to-7cb4e341",
-    title: "Tesla finally delivers on its promise to create a flying car",
-    titleJa: "Tesla finally delivers on its promise to create a flying car",
-    summaryJa: "Tesla’s demonstration of a levitating Roadster sports car was “an engineering flex with no commercial value beyond embarrassing traditional car makers.”",
-    bodyOriginal: `Tesla’s demonstration of a levitating Roadster sports car was “an engineering flex with no commercial value beyond embarrassing traditional car makers.”`,
-    bodyJa: `Tesla’s demonstration of a levitating Roadster sports car was “an engineering flex with no commercial value beyond embarrassing traditional car makers.”`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/tesla-may-finally-debut-a-flying-car-today-after-testing-fans-patience-for-nearly-a-decade-9a23c8e8?mod=mw_rss_topstories",
-    publishedAt: "2026-10-16T02:42:00+00:00",
-    category: "自動車",
-    imageUrl: "https://images.mktw.net/im-78219153",
-    readTime: 2,
-  },
-  {
-    id: "russia-returns-to-g20-table-in-bangkok-o-2a9c463e",
-    title: "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
-    titleJa: "Russia returns to G20 table in Bangkok on U.S. invitation that angers Europe",
-    summaryJa: "Russia’s return to the G20 table has tested how far Washington’s outreach to Moscow will strain ties with European allies.",
-    bodyOriginal: `Russia's finance minister attended a Group of 20 meeting in Bangkok on Thursday, his second in-person appearance at the event since the 2022 invasion of Ukraine, testing how far Washington's rapprochement with Moscow will strain ties with Europe.
-Anton Siluanov and Bank of Russia Deputy Governor Elizaveta Danilova were listed as Russia's delegates at the finance ministers and central bank governors' meetings on the sidelines of the IMF-World Bank Annual Meetings in Bangkok, Thailand, according to a seating plan seen by CNBC. Siluanov was in the meeting, according to a person familiar with the matter.
-According to the layout document, Russian delegates were seated between attendees from South Korea and the United Arab Emirates.
-German Finance Minister Lars Klingbeil was also listed as an attendee. At the August G20 finance meeting in Asheville, North Carolina, he told Siluanov that Moscow must end the war and declined to pose in a group photo with him. The traditional group photo was ultimately taken without the Russian delegation after European officials protested.
-Klingbeil has pushed back on the U.S. efforts to bring Russia back on to the international stage, reportedly saying after the Thursday meeting that "there will be no pretending that Russia is now returning as a normal member of the G20 and simply taking its seat at the table again — not with me, and not with the other Europeans."
-Russia's seat at the table tests how far Washington can ease pressure on Moscow without breaking with its European allies. The U.S., which took over the G20 presidency this year, welcomed Russia's finance minister back to the finance talks after years of isolation over the invasion of Ukraine.
-The Trump administration also introduced a deal to temporarily lift sanctions on Russian diesel imports until April, drawing criticism from Ukrainian President Volodymyr Zelenskyy and European allies. Dombrovskis told CNBC on Wednesday that "now it's not a time to ease sanctions on Russia."
-In a statement issued after the Thursday meetings, Australian Treasurer Jim Chalmers said Iran's closure of the Strait of Hormuz and attacks on commercial vessels "must end." Those impacts "are exacerbated by Russia's unprovoked and unjustifiable war in Ukraine," he said, adding that Australia calls for Russia to end the war and respect Ukraine's sovereignty.
-The finance chiefs ended the meeting without a joint communique, underscoring persistent divisions among members over the Middle East conflict, trade imbalances, and Russia's war with Ukraine. U.S. Treasury Secretary Scott Bessent, who would normally chair the talks, skipped the meetings to stay in Washington.
-The Asheville meeting also ended without a communique, after China objected to language on several issues, including efforts to rectify excessive global trade surpluses. The U.S. instead issued a chair's statement backed by every member present except China, with Bessent calling China "the dissenter."
-Delegates started the day with a plated breakfast of baked goat cheese, spinach and egg soufflé with chutney made from locally grown Bijin tomatoes, according to a menu card at the venue. The bread basket came with "Nam Dok Mai" mango jam. Every card carried the U.S. presidency's stars-and-stripes G20 logo and its "Freedom 250" tagline, marking America's 250th anniversary.
-The finance ministers' meeting Thursday could have helped lay the groundwork for improved coordination on a raft of global challenges, including energy problems stemming from the Middle East conflict and concerns about record public debt in advanced economies. Leaders are expected to convene at the next G20 summit in Miami in December.`,
-    bodyJa: `Russia's finance minister attended a Group of 20 meeting in Bangkok on Thursday, his second in-person appearance at the event since the 2022 invasion of Ukraine, testing how far Washington's rapprochement with Moscow will strain ties with Europe.
-Anton Siluanov and Bank of Russia Deputy Governor Elizaveta Danilova were listed as Russia's delegates at the finance ministers and central bank governors' meetings on the sidelines of the IMF-World Bank Annual Meetings in Bangkok, Thailand, according to a seating plan seen by CNBC. Siluanov was in the meeting, according to a person familiar with the matter.
-According to the layout document, Russian delegates were seated between attendees from South Korea and the United Arab Emirates.
-German Finance Minister Lars Klingbeil was also listed as an attendee. At the August G20 finance meeting in Asheville, North Carolina, he told Siluanov that Moscow must end the war and declined to pose in a group photo with him. The traditional group photo was ultimately taken without the Russian delegation after European officials protested.
-Klingbeil has pushed back on the U.S. efforts to bring Russia back on to the international stage, reportedly saying after the Thursday meeting that "there will be no pretending that Russia is now returning as a normal member of the G20 and simply taking its seat at the table again — not with me, and not with the other Europeans."
-Russia's seat at the table tests how far Washington can ease pressure on Moscow without breaking with its European allies. The U.S., which took over the G20 presidency this year, welcomed Russia's finance minister back to the finance talks after years of isolation over the invasion of Ukraine.
-The Trump administration also introduced a deal to temporarily lift sanctions on Russian diesel imports until April, drawing criticism from Ukrainian President Volodymyr Zelenskyy and European allies. Dombrovskis told CNBC on Wednesday that "now it's not a time to ease sanctions on Russia."
-In a statement issued after the Thursday meetings, Australian Treasurer Jim Chalmers said Iran's closure of the Strait of Hormuz and attacks on commercial vessels "must end." Those impacts "are exacerbated by Russia's unprovoked and unjustifiable war in Ukraine," he said, adding that Australia calls for Russia to end the war and respect Ukraine's sovereignty.
-The finance chiefs ended the meeting without a joint communique, underscoring persistent divisions among members over the Middle East conflict, trade imbalances, and Russia's war with Ukraine. U.S. Treasury Secretary Scott Bessent, who would normally chair the talks, skipped the meetings to stay in Washington.
-The Asheville meeting also ended without a communique, after China objected to language on several issues, including efforts to rectify excessive global trade surpluses. The U.S. instead issued a chair's statement backed by every member present except China, with Bessent calling China "the dissenter."
-Delegates started the day with a plated breakfast of baked goat cheese, spinach and egg soufflé with chutney made from locally grown Bijin tomatoes, according to a menu card at the venue. The bread basket came with "Nam Dok Mai" mango jam. Every card carried the U.S. presidency's stars-and-stripes G20 logo and its "Freedom 250" tagline, marking America's 250th anniversary.
-The finance ministers' meeting Thursday could have helped lay the groundwork for improved coordination on a raft of global challenges, including energy problems stemming from the Middle East conflict and concerns about record public debt in advanced economies. Leaders are expected to convene at the next G20 summit in Miami in December.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/16/g20-russia-ukraine-trump-diesel-europe-.html",
-    publishedAt: "2026-10-16T02:25:32+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "living-with-a-stink-technology-might-hel-38711aba",
-    title: "Living with a stink? Technology might help",
-    titleJa: "Living with a stink? Technology might help",
-    summaryJa: "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
-    bodyOriginal: `Living with a stink? Technology might help
-- Published
-Milpitas, an affluent city in California's Silicon Valley tech hub, has an odour problem.
-For decades, residents have had to endure rank smells wafting from industrial sites, among them a 342-acre landfill.
-"When I first moved here, I could not open my window for over 10 years," says Chia-Ling Kong, an engineer for a tech firm who lives around half a mile from the dump.
-While things have got better in recent years, Kong says she and her neighbours must still contend with around "two or three hours of bad smells a day".
-Perhaps befitting Silicon Valley, the community is putting its hopes in technology.
-The operators of Newby Island landfill have been ordered by local authorities to use drones and install monitors to systematically track and measure the chemicals responsible for bad odours. They have also been told to automate the collection of landfill gases responsible for smells.
-Kong is optimistic a data-driven approach will make a difference. "Hopefully with this continuous monitoring, it makes it easier to pinpoint problems at the moment it starts."
-The operators of the landfill say they are committed to operating it safely and protecting air quality.
-Just like in Milpitas, where Kong is part of a citizen's campaign against the odours, communities around the world are raising a stink about bad smells making day-to-day life miserable. Sometimes a rubbish dump is to blame, or it might be a sewage treatment works, or a reeking factory.
-When the complaints start stacking up, resolving them is not always simple. Many countries have no regulations in place dictating how to manage smells.
-In the US, for example, the Environmental Protection Agency does not regulate environmental odours as a pollutant. This leaves states and local governments to take charge of the issue.
-Urban sprawl is often part of the problem, bringing communities closer to stinky facilities that may historically have been kept at a distance.
-This is creating more demand for technologies to monitor and prevent smells. Odour consultant Micheal Bull says people are increasingly concerned about neighbourhood stinks.
-"You're getting developments being built nearer to odorous processes… as land has become more valuable, there is also infilling," Bull says. He is speaking about his experiences in the UK, but it's a similar story in many parts of the world.
-The technologies used to tackle industrial pongs generally fall into three categories: they absorb odours; convert them into something less smelly through a chemical reaction; or burn them away.
-Experts on fixing industrial odours say that the best technologies, when used correctly, can remove 90% or more of the target compounds responsible for smells.
-But this can be expensive and some operators opt for simpler and cheaper solutions. These include masking odours from landfill or sewage processing by spraying giant quantities of deodorisers.
-Odour experts contacted for this article were dubious about the effectiveness of such industrial scale air fresheners. "In my view they're not likely to change the odours," says Bull, who likens them to fabric conditioner.
-Bad smells from waste sites – a common cause of complaints – are among the stinkiest and most difficult to resolve, according to Carlos Diaz, an environmental consultant based in Spain. "Landfill is difficult to treat because you have a very large surface," he says.
-In some places at least, technology is making a real difference. Residents in Des Moines, Iowa, have long complained of the so-called Eastside Funk, a putrid scent that residents report drifts over parts of the city.
-A study commissioned by city authorities showed that a trio of industrial meat companies were among culprits.
-"Within 10 miles, there's about half a million people," says Dalton Jacobus, who works in the Department of Neighborhood Services. "If the winds are out of the wrong direction, 100,000 people can be in the middle of that odour plume."
-The authorities are now paying around $240,000 (£182,000) a year on technology to track the stink, so they can take action. "What we wanted to do was build a ring of odour monitors around the facilities that we suspected of emitting odours," says Jacobus.
-The monitors, which measure levels of chemical compounds in the air, work in combination with a weather station to provide real-time data on the concentrations that are coming from each facility based off the wind patterns.
-This has put an end to finger pointing about who's to blame each time a smell sparks complaints, says Jacobus. "Now we can say with reasonable certainty that 'this odour event did originate from your facility, what was going on'?"
-Meanwhile, some of the sites that have been blamed for causing unpleasant smells in Des Moines have spent millions of dollars to upgrade their own odour control systems.
-Smithfield Foods, which operates a meat processing in Des Moines, says it has invested $2m to install a regenerative thermal oxidiser that destroys the chemicals associated with bad smells. Even so, the company says it does not believe it is the source of odour complaints.
-Before installing the monitors – which some local companies help pay for – officials in Des Moines would drive out to the source of a complaint to sniff the air.
-Relying on the human nose to sniff out industrial smells is still commonplace. Claudia Barrios Obregón from Kunak, the company behind the monitors in Des Moines, says: "Right now, the way that cities control or measure odours is olfactometry: a human panel measures and gives an opinion of what the odour is like. But that's not that realistic."
-The Spanish company's monitors are an example of so-called electronic noses that make it easier to detect smells.
-Whatever technology is used, it can be hard to keep everyone happy, as smells are so subjective. "Unfortunately, the general rule is that the nastier we perceive the odour to be, the more sensitive towards it we are," says Johan Lundström, a professor in the science of smell at the Karolinska Institute in Stockholm, Sweden.
-Technology of Business
-- Published16 September
-- Published9 September
-- Published2 September`,
-    bodyJa: `Living with a stink? Technology might help
-- Published
-Milpitas, an affluent city in California's Silicon Valley tech hub, has an odour problem.
-For decades, residents have had to endure rank smells wafting from industrial sites, among them a 342-acre landfill.
-"When I first moved here, I could not open my window for over 10 years," says Chia-Ling Kong, an engineer for a tech firm who lives around half a mile from the dump.
-While things have got better in recent years, Kong says she and her neighbours must still contend with around "two or three hours of bad smells a day".
-Perhaps befitting Silicon Valley, the community is putting its hopes in technology.
-The operators of Newby Island landfill have been ordered by local authorities to use drones and install monitors to systematically track and measure the chemicals responsible for bad odours. They have also been told to automate the collection of landfill gases responsible for smells.
-Kong is optimistic a data-driven approach will make a difference. "Hopefully with this continuous monitoring, it makes it easier to pinpoint problems at the moment it starts."
-The operators of the landfill say they are committed to operating it safely and protecting air quality.
-Just like in Milpitas, where Kong is part of a citizen's campaign against the odours, communities around the world are raising a stink about bad smells making day-to-day life miserable. Sometimes a rubbish dump is to blame, or it might be a sewage treatment works, or a reeking factory.
-When the complaints start stacking up, resolving them is not always simple. Many countries have no regulations in place dictating how to manage smells.
-In the US, for example, the Environmental Protection Agency does not regulate environmental odours as a pollutant. This leaves states and local governments to take charge of the issue.
-Urban sprawl is often part of the problem, bringing communities closer to stinky facilities that may historically have been kept at a distance.
-This is creating more demand for technologies to monitor and prevent smells. Odour consultant Micheal Bull says people are increasingly concerned about neighbourhood stinks.
-"You're getting developments being built nearer to odorous processes… as land has become more valuable, there is also infilling," Bull says. He is speaking about his experiences in the UK, but it's a similar story in many parts of the world.
-The technologies used to tackle industrial pongs generally fall into three categories: they absorb odours; convert them into something less smelly through a chemical reaction; or burn them away.
-Experts on fixing industrial odours say that the best technologies, when used correctly, can remove 90% or more of the target compounds responsible for smells.
-But this can be expensive and some operators opt for simpler and cheaper solutions. These include masking odours from landfill or sewage processing by spraying giant quantities of deodorisers.
-Odour experts contacted for this article were dubious about the effectiveness of such industrial scale air fresheners. "In my view they're not likely to change the odours," says Bull, who likens them to fabric conditioner.
-Bad smells from waste sites – a common cause of complaints – are among the stinkiest and most difficult to resolve, according to Carlos Diaz, an environmental consultant based in Spain. "Landfill is difficult to treat because you have a very large surface," he says.
-In some places at least, technology is making a real difference. Residents in Des Moines, Iowa, have long complained of the so-called Eastside Funk, a putrid scent that residents report drifts over parts of the city.
-A study commissioned by city authorities showed that a trio of industrial meat companies were among culprits.
-"Within 10 miles, there's about half a million people," says Dalton Jacobus, who works in the Department of Neighborhood Services. "If the winds are out of the wrong direction, 100,000 people can be in the middle of that odour plume."
-The authorities are now paying around $240,000 (£182,000) a year on technology to track the stink, so they can take action. "What we wanted to do was build a ring of odour monitors around the facilities that we suspected of emitting odours," says Jacobus.
-The monitors, which measure levels of chemical compounds in the air, work in combination with a weather station to provide real-time data on the concentrations that are coming from each facility based off the wind patterns.
-This has put an end to finger pointing about who's to blame each time a smell sparks complaints, says Jacobus. "Now we can say with reasonable certainty that 'this odour event did originate from your facility, what was going on'?"
-Meanwhile, some of the sites that have been blamed for causing unpleasant smells in Des Moines have spent millions of dollars to upgrade their own odour control systems.
-Smithfield Foods, which operates a meat processing in Des Moines, says it has invested $2m to install a regenerative thermal oxidiser that destroys the chemicals associated with bad smells. Even so, the company says it does not believe it is the source of odour complaints.
-Before installing the monitors – which some local companies help pay for – officials in Des Moines would drive out to the source of a complaint to sniff the air.
-Relying on the human nose to sniff out industrial smells is still commonplace. Claudia Barrios Obregón from Kunak, the company behind the monitors in Des Moines, says: "Right now, the way that cities control or measure odours is olfactometry: a human panel measures and gives an opinion of what the odour is like. But that's not that realistic."
-The Spanish company's monitors are an example of so-called electronic noses that make it easier to detect smells.
-Whatever technology is used, it can be hard to keep everyone happy, as smells are so subjective. "Unfortunately, the general rule is that the nastier we perceive the odour to be, the more sensitive towards it we are," says Johan Lundström, a professor in the science of smell at the Karolinska Institute in Stockholm, Sweden.
-Technology of Business
-- Published16 September
-- Published9 September
-- Published2 September`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-15T23:18:21+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ac/live/fbba3b20-c652-11f1-9a39-31b474234113.jpg",
-    readTime: 10,
-  },
-  {
-    id: "i-find-it-quite-demoralising-in-store-wh-a01fee1b",
-    title: "I find it quite demoralising in store - why I do all my shopping online",
-    titleJa: "I find it quite demoralising in store - why I do all my shopping online",
-    summaryJa: "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
-    bodyOriginal: `I find it quite demoralising in store - why I do all my shopping online
-- Published
-Jess Bacon does all her clothes shopping online.
-As a plus-size woman, she finds the size ranges available in stores unreliable. "The sizing in store is notoriously bad. I find it quite demoralising in store," she says.
-"The average size woman in the UK is a size 14 or a size 16. I think a lot of people just don't feel seen or represented," says the 29-year-old from Peterborough.
-Jess, a culture journalist and author, finds shopping online "much quicker than going into a store, paying for parking, trying things on".
-And she feels posting back items that don't fit is less hassle than returning in store, while frequent visits to her local post office give her "more of a community connection".
-Jess notes Primark is one of the few High Street retailers where plus-size people can shop. In her experience, Primark stores usually stock up to a size 22.
-But soon she'll have the option of staying home even for this - as, after years of holding out, Primark now plans to launch a home delivery service in Britain.
-Even throughout the Covid-19 pandemic, when shops were closed, Primark didn't offer the ability to shop online. In 2022 it launched a click-and-collect service, but shoppers still had to travel for their purchases.
-The retailer has not said when it expects to launch the service, but has bought a warehouse in Sheffield to enable it to ship products to homes.
-Analysts say the decision shows Primark is facing major challenges from ultra-fast-fashion brands such as Shein.
-Online shopping had been on the rise even before the surge seen during the pandemic.
-Online accounted for 27.3% of all retail sales in August this year, according to the Office for National Statistics, up from 18.1% in August 2019.
-Internet shopping has also been boosted by the decline of the High Street in many parts of the country, something which Jess has noticed in Peterborough. "We don't have John Lewis [anymore]. There's kind of not that much of a reason to go into town."
-'I basically never go into clothes shops'
-Like Jess, Julia Mitchell, who lives near Chichester, doesn't enjoy in-person clothes shopping. She finds it overstimulating and thinks there are better bargains to be had online.
-"I basically never go into them [clothes shops]. It's not really something I enjoy," the 32-year-old says.
-"I guess some people might be able to see stuff and pick it up and look at it, but for me, being able to get the best price is more important."
-Julia, a content creator, tries to shop ethically and most of her purchases are second hand from Vinted.
-The one thing she never shops online for, though, is books. "The thing about bookshops is that they are cultural spaces and community spaces."
-Sandra Davies does all her shopping online. She has had three strokes and finds walking to and around stores too much physically.
-"I've tried it on two occasions but on both times, standing in a queue for over 10 minutes was too much for me and I collapsed."
-The 61-year-old from Sheffield says waiting for deliveries can be taxing as well, as she worries about missing the postie and having to reschedule.
-Returns policy can 'make or break'
-Julie Palmer, a retail analyst, is not surprised that Primark has finally moved into home deliveries as it has evidently recognised that "online sales bring scale".
-However, she says a shop's returns policy for online purchases can "make or break" it. Many brands offer hassle-free returns, which Palmer says Primark must match in order to compete.
-"Shoppers want them to be free, simple and quick. That means a generous window, lots of drop-off options and refunds that land within days, not weeks.
-"When a policy is clunky or slow, customers remember it and shop elsewhere next time."
-But returns are expensive for retailers. Some, like Asos, have started charging a fee if customers make frequent returns.
-This is a balancing act, Palmer says, "because a fee can easily push a customer to a competitor".
-"Most retailers that charge still offer free returns in store, which is a deliberate way to get people through the door and hopefully spending again."
-- Published28 September
-- Published10 September`,
-    bodyJa: `I find it quite demoralising in store - why I do all my shopping online
-- Published
-Jess Bacon does all her clothes shopping online.
-As a plus-size woman, she finds the size ranges available in stores unreliable. "The sizing in store is notoriously bad. I find it quite demoralising in store," she says.
-"The average size woman in the UK is a size 14 or a size 16. I think a lot of people just don't feel seen or represented," says the 29-year-old from Peterborough.
-Jess, a culture journalist and author, finds shopping online "much quicker than going into a store, paying for parking, trying things on".
-And she feels posting back items that don't fit is less hassle than returning in store, while frequent visits to her local post office give her "more of a community connection".
-Jess notes Primark is one of the few High Street retailers where plus-size people can shop. In her experience, Primark stores usually stock up to a size 22.
-But soon she'll have the option of staying home even for this - as, after years of holding out, Primark now plans to launch a home delivery service in Britain.
-Even throughout the Covid-19 pandemic, when shops were closed, Primark didn't offer the ability to shop online. In 2022 it launched a click-and-collect service, but shoppers still had to travel for their purchases.
-The retailer has not said when it expects to launch the service, but has bought a warehouse in Sheffield to enable it to ship products to homes.
-Analysts say the decision shows Primark is facing major challenges from ultra-fast-fashion brands such as Shein.
-Online shopping had been on the rise even before the surge seen during the pandemic.
-Online accounted for 27.3% of all retail sales in August this year, according to the Office for National Statistics, up from 18.1% in August 2019.
-Internet shopping has also been boosted by the decline of the High Street in many parts of the country, something which Jess has noticed in Peterborough. "We don't have John Lewis [anymore]. There's kind of not that much of a reason to go into town."
-'I basically never go into clothes shops'
-Like Jess, Julia Mitchell, who lives near Chichester, doesn't enjoy in-person clothes shopping. She finds it overstimulating and thinks there are better bargains to be had online.
-"I basically never go into them [clothes shops]. It's not really something I enjoy," the 32-year-old says.
-"I guess some people might be able to see stuff and pick it up and look at it, but for me, being able to get the best price is more important."
-Julia, a content creator, tries to shop ethically and most of her purchases are second hand from Vinted.
-The one thing she never shops online for, though, is books. "The thing about bookshops is that they are cultural spaces and community spaces."
-Sandra Davies does all her shopping online. She has had three strokes and finds walking to and around stores too much physically.
-"I've tried it on two occasions but on both times, standing in a queue for over 10 minutes was too much for me and I collapsed."
-The 61-year-old from Sheffield says waiting for deliveries can be taxing as well, as she worries about missing the postie and having to reschedule.
-Returns policy can 'make or break'
-Julie Palmer, a retail analyst, is not surprised that Primark has finally moved into home deliveries as it has evidently recognised that "online sales bring scale".
-However, she says a shop's returns policy for online purchases can "make or break" it. Many brands offer hassle-free returns, which Palmer says Primark must match in order to compete.
-"Shoppers want them to be free, simple and quick. That means a generous window, lots of drop-off options and refunds that land within days, not weeks.
-"When a policy is clunky or slow, customers remember it and shop elsewhere next time."
-But returns are expensive for retailers. Some, like Asos, have started charging a fee if customers make frequent returns.
-This is a balancing act, Palmer says, "because a fee can easily push a customer to a competitor".
-"Most retailers that charge still offer free returns in store, which is a deliberate way to get people through the door and hopefully spending again."
-- Published28 September
-- Published10 September`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-15T23:16:12+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e93/live/d56cced0-b75f-11f1-8e7f-6f99c81f3136.jpg",
-    readTime: 10,
-  },
-  {
-    id: "netflix-chief-content-officer-bela-bajar-0ee90ef8",
-    title: "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
-    titleJa: "Netflix Chief Content Officer Bela Bajaria is leaving, will be replaced by Peter Rice",
-    summaryJa: "Netflix announced Bela Bajaria will be replaced by former Disney exec Peter Rice as the company's chief content officer.",
-    bodyOriginal: `Netflix on Thursday announced Bela Bajaria will be replaced as the company's chief content officer by former Disney exec Peter Rice, effective Oct. 26.
-Rice most recently oversaw Disney's cable channels, news programming and coverage of major sporting events.
-"Peter is one of the most effective at-scale operators in the entertainment industry," co-CEO Ted Sarandos said in a statement. "I'm excited to welcome him to Netflix as Chief Content Officer as we continue to scale and deliver members more of the stories they love."
-Before Rice was at Disney, he held roles at 21st Century Fox and Fox Searchlight Pictures. Netflix in its announcement called him "one of the entertainment industry's most respected creative executives." In his new role, Rice will oversee the company's global content organization, including scripted and unscripted series, film and live events.
-"[Netflix has] shown again and again that they're willing to take chances on distinctive voices and fresh ideas, and I'm excited to work with the team to help bring even more great stories to members everywhere," he said in a statement.
-Bajaria, who is leaving Netflix after nearly 10 years, most recently led the company's global content team. She had been focused on the company's live sports strategy, looking to create events out of buzzy games and tournaments.
-"I'm incredibly grateful for everything she's done to help Netflix entertain the world," Sarandos said in a statement.
-The announcement comes a day after Netflix instituted layoffs across its organization, eliminating approximately 6% of its workforce, or roughly 1,000 jobs. Shares of the company are down more than 20% this year, though the stock remained relatively unchanged in extended trading Thursday.
-The media company will report its next quarterly earnings on Tuesday.`,
-    bodyJa: `Netflix on Thursday announced Bela Bajaria will be replaced as the company's chief content officer by former Disney exec Peter Rice, effective Oct. 26.
-Rice most recently oversaw Disney's cable channels, news programming and coverage of major sporting events.
-"Peter is one of the most effective at-scale operators in the entertainment industry," co-CEO Ted Sarandos said in a statement. "I'm excited to welcome him to Netflix as Chief Content Officer as we continue to scale and deliver members more of the stories they love."
-Before Rice was at Disney, he held roles at 21st Century Fox and Fox Searchlight Pictures. Netflix in its announcement called him "one of the entertainment industry's most respected creative executives." In his new role, Rice will oversee the company's global content organization, including scripted and unscripted series, film and live events.
-"[Netflix has] shown again and again that they're willing to take chances on distinctive voices and fresh ideas, and I'm excited to work with the team to help bring even more great stories to members everywhere," he said in a statement.
-Bajaria, who is leaving Netflix after nearly 10 years, most recently led the company's global content team. She had been focused on the company's live sports strategy, looking to create events out of buzzy games and tournaments.
-"I'm incredibly grateful for everything she's done to help Netflix entertain the world," Sarandos said in a statement.
-The announcement comes a day after Netflix instituted layoffs across its organization, eliminating approximately 6% of its workforce, or roughly 1,000 jobs. Shares of the company are down more than 20% this year, though the stock remained relatively unchanged in extended trading Thursday.
-The media company will report its next quarterly earnings on Tuesday.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/15/netflix-bela-bajaria-peter-rice.html",
-    publishedAt: "2026-10-15T23:08:05+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "kfc-to-switch-to-coca-cola-beverages-in-3aa5375b",
-    title: "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
-    titleJa: "KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades",
-    summaryJa: "KFC is switching from PepsiCo to Coca-Cola as its beverage supplier for U.S. restaurants.",
-    bodyOriginal: `KFC's U.S. restaurants will ditch PepsiCo and switch to Coca-Cola beverages next year, marking the first time in decades that the Yum Brands chain has changed its drink supplier, the restaurant company said Thursday.
-Some of KFC's international markets serve Coke products, but the chain's U.S. restaurants have stuck with PepsiCo drinks ever since Pepsi bought KFC in 1986. At the time of the acquisition, KFC was Coke's second-largest fountain account, trailing only McDonald's. Pepsi later spun off KFC, along with sister chains Pizza Hut and Taco Bell — but even as the combined Yum Brands, the company stayed loyal to its previous owner. Without Pepsi, Taco Bell would not serve its iconic Mountain Dew Baja Blast.
-The change comes as KFC aims to win back U.S. diners, who have ditched the fried chicken chain for rivals such as Chick-fil-A or Popeyes.
-"This decision is a critical step in the Kentucky Fried Comeback," KFC U.S. President Catherine Tan-Gillespie wrote in a memo to franchisees and employees obtained by CNBC. "A new beverage offering, with a new partner in Coca-Cola, gives us a platform to innovate, meet changing tastes and give customers more reasons to choose us."
-For many fast-food chains, beverages have become a critical way to attract consumers. A number of restaurants, including McDonald's and Taco Bell, have broadened their drink offerings with options such as refreshers or "dirty soda." For its part, KFC recently unveiled new drinks, including iced coffees and shakes, at Open House, its innovation restaurant in McKinney, Texas.
-Coke told CNBC earlier this year that the company has helped many of its restaurant partners create new drinks.
-KFC expects to be pouring Coke beverages in all of its U.S. restaurants by the end of the first quarter of 2027, Tan-Gillespie said.
-Tan-Gillespie also said that Pepsi remains an important partner for KFC's parent company and the chain's international markets.
-For decades, Coke and Pepsi have tussled over important restaurant partners, which represent both a sales opportunity and the chance to grow the visibility of their beverage brands.
-It is unusual for large restaurant chains to switch beverage providers, but not unprecedented. In 2024, Pepsi poached Subway, the largest U.S. restaurant chain by number of locations, from Coke. Besides KFC, Coke has wooed away a number of notable Pepsi customers in recent years, including Culver's, Arby's and Panda Express.`,
-    bodyJa: `KFC's U.S. restaurants will ditch PepsiCo and switch to Coca-Cola beverages next year, marking the first time in decades that the Yum Brands chain has changed its drink supplier, the restaurant company said Thursday.
-Some of KFC's international markets serve Coke products, but the chain's U.S. restaurants have stuck with PepsiCo drinks ever since Pepsi bought KFC in 1986. At the time of the acquisition, KFC was Coke's second-largest fountain account, trailing only McDonald's. Pepsi later spun off KFC, along with sister chains Pizza Hut and Taco Bell — but even as the combined Yum Brands, the company stayed loyal to its previous owner. Without Pepsi, Taco Bell would not serve its iconic Mountain Dew Baja Blast.
-The change comes as KFC aims to win back U.S. diners, who have ditched the fried chicken chain for rivals such as Chick-fil-A or Popeyes.
-"This decision is a critical step in the Kentucky Fried Comeback," KFC U.S. President Catherine Tan-Gillespie wrote in a memo to franchisees and employees obtained by CNBC. "A new beverage offering, with a new partner in Coca-Cola, gives us a platform to innovate, meet changing tastes and give customers more reasons to choose us."
-For many fast-food chains, beverages have become a critical way to attract consumers. A number of restaurants, including McDonald's and Taco Bell, have broadened their drink offerings with options such as refreshers or "dirty soda." For its part, KFC recently unveiled new drinks, including iced coffees and shakes, at Open House, its innovation restaurant in McKinney, Texas.
-Coke told CNBC earlier this year that the company has helped many of its restaurant partners create new drinks.
-KFC expects to be pouring Coke beverages in all of its U.S. restaurants by the end of the first quarter of 2027, Tan-Gillespie said.
-Tan-Gillespie also said that Pepsi remains an important partner for KFC's parent company and the chain's international markets.
-For decades, Coke and Pepsi have tussled over important restaurant partners, which represent both a sales opportunity and the chance to grow the visibility of their beverage brands.
-It is unusual for large restaurant chains to switch beverage providers, but not unprecedented. In 2024, Pepsi poached Subway, the largest U.S. restaurant chain by number of locations, from Coke. Besides KFC, Coke has wooed away a number of notable Pepsi customers in recent years, including Culver's, Arby's and Panda Express.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html",
-    publishedAt: "2026-10-15T21:03:50+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "coreweave-s-polarizing-stock-rebounds-as-3ac6c429",
-    title: "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
-    titleJa: "CoreWeave’s polarizing stock rebounds as Wall Street squares off about AI spending",
-    summaryJa: "Wall Street’s views on CoreWeave are starkly divisive as investors pay more attention to the financial details of big artificial-intelligence companies.",
-    bodyOriginal: `Wall Street’s views on CoreWeave are starkly divisive as investors pay more attention to the financial details of big artificial-intelligence companies.`,
-    bodyJa: `Wall Street’s views on CoreWeave are starkly divisive as investors pay more attention to the financial details of big artificial-intelligence companies.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/coreweave-investors-are-feeling-spooked-as-the-companys-stock-and-bonds-see-fresh-pressure-ba39a931?mod=mw_rss_topstories",
-    publishedAt: "2026-10-15T21:03:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-70952254",
-    readTime: 2,
   },
 ];
 
