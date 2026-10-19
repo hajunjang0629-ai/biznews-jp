@@ -15,6 +15,384 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "robot-factories-and-hypersonic-missiles-f3debb3c",
+    title: "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
+    titleJa: "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
+    summaryJa: "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
+    bodyOriginal: `JPMorgan Chase has made $5 billion in startup investments in the first year of its U.S. security and resiliency initiative, the company said Monday, a faster-than-expected pace that indicates the bank is finding plentiful opportunities in emerging defense, manufacturing and supply chain firms.
+The bank, which last year said it would deploy $10 billion into startups over a decade, may expand the program beyond that initial dollar amount, JPMorgan co-President Doug Petno told CNBC in an interview.
+Todd Combs, the former Berkshire Hathaway executive who leads the JPMorgan group in charge of making startup investments, has "hit the ground running," Petno said. "He's done a great job and put us in some really interesting companies," he added.
+Most of those investments have yet to be disclosed, but two known stakes seem emblematic of the project's mission to bolster companies that are needed for a more dangerous and chaotic era of geopolitics. JPMorgan, the biggest U.S. bank by assets, has taken direct stakes in defense-related startups Hadrian and Castelion.
+Wars in Ukraine and the Middle East, as well as trade disputes with China, have threatened the flow of energy and key components needed for U.S. industries and defense, which spurred JPMorgan CEO Jamie Dimon into creating the initiative a year ago.
+He put Petno, widely seen as one of two key possible successors, in charge of the overall investment project. Combs, a former board member of the bank, reports directly to Dimon.
+The scope of the project extends beyond supply chain, defense and manufacturing to include frontier technologies and the pharmaceutical and health-tech industries.
+"There's a lot of really interesting companies that have been working to solve some of these problems," Petno said.
+These "early venture-stage, advanced manufacturing companies have found ways to build these capabilities in the U.S." rather than relying on overseas trading partners, he said.
+In August, the bank helped lead a $1.4 billion funding round for Hadrian, which builds automated factories that make parts for the defense, aerospace and maritime sectors. A California factory run by Hadrian has 10 robots for every human employee, according to the startup's founder.
+That month, JPMorgan was also involved in a $1 billion funding round for Castelion, whose flagship product is a relatively low-cost hypersonic missile called Blackbeard. Castelion was founded in late 2022 by a group of former SpaceX engineers.
+"Our approach is to find generational companies and partner with them for the long term," Combs said in a statement Monday.
+"Putting more than $5 billion to work in our first year shows how many exceptional businesses are building in industries that strengthen critical supply chains," Combs said.
+Risky business?
+JPMorgan making billions of dollars of direct investments in nascent companies is a departure from its usual role as a lender and advisor.
+Before the defense initiative, the bank had moved away from taking startup stakes, which can be relatively risky bets on unproven technologies. JPMorgan spun off its private equity business, One Equity Partners, more than a decade ago.
+In its more traditional role, JPMorgan has also financed and facilitated more than $230 billion for industries that support American national interests, according to the bank.
+That part of its security and resiliency project, meant to hit $1.5 trillion over 10 years, is led by Jay Horine, a former co-head of investment banking.
+JPMorgan built a team for the project of about three dozen bankers, who are aided by hundreds more across the firm, as it expanded the initiative to Europe and Canada.
+Its bankers are mapping distribution lines for key products, from submarines and missiles to aircraft, to identify suppliers that may lack the capital or capacity to meet rising demand, according to Petno.
+JPMorgan is also in regular communication with the U.S. Department of Defense and Department of Commerce about the government's needs, he said.`,
+    bodyJa: `JPMorgan Chase has made $5 billion in startup investments in the first year of its U.S. security and resiliency initiative, the company said Monday, a faster-than-expected pace that indicates the bank is finding plentiful opportunities in emerging defense, manufacturing and supply chain firms.
+The bank, which last year said it would deploy $10 billion into startups over a decade, may expand the program beyond that initial dollar amount, JPMorgan co-President Doug Petno told CNBC in an interview.
+Todd Combs, the former Berkshire Hathaway executive who leads the JPMorgan group in charge of making startup investments, has "hit the ground running," Petno said. "He's done a great job and put us in some really interesting companies," he added.
+Most of those investments have yet to be disclosed, but two known stakes seem emblematic of the project's mission to bolster companies that are needed for a more dangerous and chaotic era of geopolitics. JPMorgan, the biggest U.S. bank by assets, has taken direct stakes in defense-related startups Hadrian and Castelion.
+Wars in Ukraine and the Middle East, as well as trade disputes with China, have threatened the flow of energy and key components needed for U.S. industries and defense, which spurred JPMorgan CEO Jamie Dimon into creating the initiative a year ago.
+He put Petno, widely seen as one of two key possible successors, in charge of the overall investment project. Combs, a former board member of the bank, reports directly to Dimon.
+The scope of the project extends beyond supply chain, defense and manufacturing to include frontier technologies and the pharmaceutical and health-tech industries.
+"There's a lot of really interesting companies that have been working to solve some of these problems," Petno said.
+These "early venture-stage, advanced manufacturing companies have found ways to build these capabilities in the U.S." rather than relying on overseas trading partners, he said.
+In August, the bank helped lead a $1.4 billion funding round for Hadrian, which builds automated factories that make parts for the defense, aerospace and maritime sectors. A California factory run by Hadrian has 10 robots for every human employee, according to the startup's founder.
+That month, JPMorgan was also involved in a $1 billion funding round for Castelion, whose flagship product is a relatively low-cost hypersonic missile called Blackbeard. Castelion was founded in late 2022 by a group of former SpaceX engineers.
+"Our approach is to find generational companies and partner with them for the long term," Combs said in a statement Monday.
+"Putting more than $5 billion to work in our first year shows how many exceptional businesses are building in industries that strengthen critical supply chains," Combs said.
+Risky business?
+JPMorgan making billions of dollars of direct investments in nascent companies is a departure from its usual role as a lender and advisor.
+Before the defense initiative, the bank had moved away from taking startup stakes, which can be relatively risky bets on unproven technologies. JPMorgan spun off its private equity business, One Equity Partners, more than a decade ago.
+In its more traditional role, JPMorgan has also financed and facilitated more than $230 billion for industries that support American national interests, according to the bank.
+That part of its security and resiliency project, meant to hit $1.5 trillion over 10 years, is led by Jay Horine, a former co-head of investment banking.
+JPMorgan built a team for the project of about three dozen bankers, who are aided by hundreds more across the firm, as it expanded the initiative to Europe and Canada.
+Its bankers are mapping distribution lines for key products, from submarines and missiles to aircraft, to identify suppliers that may lack the capital or capacity to meet rising demand, according to Petno.
+JPMorgan is also in regular communication with the U.S. Department of Defense and Department of Commerce about the government's needs, he said.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+    publishedAt: "2026-10-19T12:34:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "colleges-raced-to-build-massive-computer-3b3ac20e",
+    title: "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
+    titleJa: "Colleges raced to build massive computer-science departments. Now the boom is turning to bust.",
+    summaryJa: "“Computer science isn’t the ticket to the American dream like people thought it was.”",
+    bodyOriginal: `“Computer science isn’t the ticket to the American dream like people thought it was.”`,
+    bodyJa: `“Computer science isn’t the ticket to the American dream like people thought it was.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories",
+    publishedAt: "2026-10-19T12:30:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-39955150",
+    readTime: 2,
+  },
+  {
+    id: "i-m-naturally-skeptical-i-receive-10-ca-b3918bf6",
+    title: "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+    titleJa: "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+    summaryJa: "“They insist that the details will be provided after they have carried out a soft credit check.”",
+    bodyOriginal: `“They insist that the details will be provided after they have carried out a soft credit check.”`,
+    bodyJa: `“They insist that the details will be provided after they have carried out a soft credit check.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+    publishedAt: "2026-10-19T12:30:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-04384503",
+    readTime: 2,
+  },
+  {
+    id: "bereaved-families-could-face-unjust-tax-95b171d5",
+    title: "Bereaved families could face 'unjust' tax bill after civil service pension delays",
+    titleJa: "Bereaved families could face 'unjust' tax bill after civil service pension delays",
+    summaryJa: "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own.",
+    bodyOriginal: `Bereaved families could face 'unjust' tax bill after civil service pension delays
+- Published
+Bereaved families affected by severe delays paying out civil service pensions could face an "unjust" tax bill, the government has been warned.
+Under HMRC rules, certain lump sum pension payments must be paid within two years of the pension scheme being notified of a death to remain tax-free.
+Conservative MP Sir Geoffrey Clifton-Brown, who chairs Parliament's Public Accounts Committee, said it was "unconscionable" some families could face a "death tax" through no fault of their own.
+The Cabinet Office said that if delays caused a tax charge there were existing avenues to claim compensation, such as the Pensions Ombudsman.
+However, the ombudsman is currently advising that standard complaints are only likely to be resolved within 18 months, with more complex cases facing a longer wait.
+The Civil Service Pension scheme manages the pensions of 1.7 million public sector workers in the UK.
+Outsourcing firm Capita took over the administration of the scheme from a company called MyCSP in December 2025, saying it inherited a backlog of more than 86,000 cases.
+Despite a two-year transition period to prepare for the takeover, problems have persisted and by February the backlog had grown to 120,000 cases.
+Retired civil servants and bereaved families have been left waiting months for pension payments, with some struggling to pay bills.
+Civil service pension backlog 'overwhelmed' Capita, boss says
+- Published12 February
+Emergency loans offered to civil servants waiting on pensions
+- Published29 January
+Retired civil servants left in pension limbo
+- Published23 January
+According to the latest figures up to 30 September, external, 1,643 outstanding cases of bereavement or death in service are more than 100 days old.
+Of these, only 301 are in scope to be paid within 15 days.
+The PCS union, which represents civil servants, said that while not all these cases would ultimately be affected by the two-year tax rule, there were "serious questions" over how long they would remain unresolved.
+If someone dies before the age of 75, a pension lump sum death benefit is only tax-free if it is paid within two years of the pension scheme first becoming aware of the death, and if the value is below the deceased's Lump Sum and Death Benefit Allowance.
+The payment would be taxed at the same rate as the beneficiary's income tax rate.
+Sir Geoffrey has written to Cabinet Office Minister Louise Haigh to urge the government to confirm the bereaved families affected will not face this "unjust financial penalty".
+His letter came after BBC Radio 4's Money Box Live highlighted the potential tax liability.
+Sir Geoffrey said "the chaos currently engulfing the Civil Service Pension Scheme means that the likelihood of death benefit payments being made within two years is slim".
+He warned "a significant number" of family members "will be watching the clock quickly tick down to a year, as the maladministration of the scheme enters its tenth month".
+He added: "This is an additional stress they should not have to bear."
+Money Box Live: Capita, What Went Wrong?
+Money Box Live looks at what is going on with Capita, which administers millions of people's pensions
+Rob Wassell, 58, has been waiting almost two years for the lump sum from his brother's civil service pension, following his death.
+On 22 October it will be two years since the pension scheme was notified of his death so if he does not receive the payment in just a few days times, it could face being taxed.
+Rob, who contacted the BBC's Money Box programme about his case, said he had been phoning Capita with increasing "desperation" as his situation dragged on.
+"It's a bitter pill to swallow to have to pay tax for something which was not my fault," he said.
+"It creates unnecessary worry and anguish through the process, which is already in itself difficult."
+Rob said he needed the money to cover the estate costs he had to pay for his brother and fill a £20,000 hole in his savings.
+However, he said it was "heartbreaking" to hear of other cases where people needed the money just to survive.
+Rob added that the idea that he might face "another battle" to recoup the tax through compensation made it feel like "you just want to give up".
+Fran Heathcote, head of the PCS union, said it would be "a profound injustice" if families faced a further financial penalty because of Capita's failures.
+"If that does happen, the government should be ashamed that families are being made to pay the price for failures that are entirely outside their control," she said.
+A spokesperson for the Cabinet Office, which has overall responsibility for the Civil Service Pension Scheme, said: "The service levels following the move to Capita have been completely unacceptable and we are committed to ensuring no member is left financially worse off.
+"We are continuing to hold Capita to account, including holding back nearly £10m in payments, and are doing everything in our power to ensure that individuals do not experience delays.
+"If delays cause a tax charge, existing avenues for complaints can provide financial redress or compensation to cover losses."
+A Capita spokesperson said: "We are deeply sorry for the frustration that the administration of the Civil Service Pension Scheme has caused members and their families.
+"Our teams are working tirelessly to resolve outstanding cases as quickly as possible, with particular focus on people who have been waiting the longest and those facing financial hardship or challenging personal circumstances."
+Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
+    bodyJa: `Bereaved families could face 'unjust' tax bill after civil service pension delays
+- Published
+Bereaved families affected by severe delays paying out civil service pensions could face an "unjust" tax bill, the government has been warned.
+Under HMRC rules, certain lump sum pension payments must be paid within two years of the pension scheme being notified of a death to remain tax-free.
+Conservative MP Sir Geoffrey Clifton-Brown, who chairs Parliament's Public Accounts Committee, said it was "unconscionable" some families could face a "death tax" through no fault of their own.
+The Cabinet Office said that if delays caused a tax charge there were existing avenues to claim compensation, such as the Pensions Ombudsman.
+However, the ombudsman is currently advising that standard complaints are only likely to be resolved within 18 months, with more complex cases facing a longer wait.
+The Civil Service Pension scheme manages the pensions of 1.7 million public sector workers in the UK.
+Outsourcing firm Capita took over the administration of the scheme from a company called MyCSP in December 2025, saying it inherited a backlog of more than 86,000 cases.
+Despite a two-year transition period to prepare for the takeover, problems have persisted and by February the backlog had grown to 120,000 cases.
+Retired civil servants and bereaved families have been left waiting months for pension payments, with some struggling to pay bills.
+Civil service pension backlog 'overwhelmed' Capita, boss says
+- Published12 February
+Emergency loans offered to civil servants waiting on pensions
+- Published29 January
+Retired civil servants left in pension limbo
+- Published23 January
+According to the latest figures up to 30 September, external, 1,643 outstanding cases of bereavement or death in service are more than 100 days old.
+Of these, only 301 are in scope to be paid within 15 days.
+The PCS union, which represents civil servants, said that while not all these cases would ultimately be affected by the two-year tax rule, there were "serious questions" over how long they would remain unresolved.
+If someone dies before the age of 75, a pension lump sum death benefit is only tax-free if it is paid within two years of the pension scheme first becoming aware of the death, and if the value is below the deceased's Lump Sum and Death Benefit Allowance.
+The payment would be taxed at the same rate as the beneficiary's income tax rate.
+Sir Geoffrey has written to Cabinet Office Minister Louise Haigh to urge the government to confirm the bereaved families affected will not face this "unjust financial penalty".
+His letter came after BBC Radio 4's Money Box Live highlighted the potential tax liability.
+Sir Geoffrey said "the chaos currently engulfing the Civil Service Pension Scheme means that the likelihood of death benefit payments being made within two years is slim".
+He warned "a significant number" of family members "will be watching the clock quickly tick down to a year, as the maladministration of the scheme enters its tenth month".
+He added: "This is an additional stress they should not have to bear."
+Money Box Live: Capita, What Went Wrong?
+Money Box Live looks at what is going on with Capita, which administers millions of people's pensions
+Rob Wassell, 58, has been waiting almost two years for the lump sum from his brother's civil service pension, following his death.
+On 22 October it will be two years since the pension scheme was notified of his death so if he does not receive the payment in just a few days times, it could face being taxed.
+Rob, who contacted the BBC's Money Box programme about his case, said he had been phoning Capita with increasing "desperation" as his situation dragged on.
+"It's a bitter pill to swallow to have to pay tax for something which was not my fault," he said.
+"It creates unnecessary worry and anguish through the process, which is already in itself difficult."
+Rob said he needed the money to cover the estate costs he had to pay for his brother and fill a £20,000 hole in his savings.
+However, he said it was "heartbreaking" to hear of other cases where people needed the money just to survive.
+Rob added that the idea that he might face "another battle" to recoup the tax through compensation made it feel like "you just want to give up".
+Fran Heathcote, head of the PCS union, said it would be "a profound injustice" if families faced a further financial penalty because of Capita's failures.
+"If that does happen, the government should be ashamed that families are being made to pay the price for failures that are entirely outside their control," she said.
+A spokesperson for the Cabinet Office, which has overall responsibility for the Civil Service Pension Scheme, said: "The service levels following the move to Capita have been completely unacceptable and we are committed to ensuring no member is left financially worse off.
+"We are continuing to hold Capita to account, including holding back nearly £10m in payments, and are doing everything in our power to ensure that individuals do not experience delays.
+"If delays cause a tax charge, existing avenues for complaints can provide financial redress or compensation to cover losses."
+A Capita spokesperson said: "We are deeply sorry for the frustration that the administration of the Civil Service Pension Scheme has caused members and their families.
+"Our teams are working tirelessly to resolve outstanding cases as quickly as possible, with particular focus on people who have been waiting the longest and those facing financial hardship or challenging personal circumstances."
+Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-19T12:16:32+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1735/live/c618ad10-cbae-11f1-821f-c5d07d801cca.jpg",
+    readTime: 10,
+  },
+  {
+    id: "elon-musk-says-he-ll-give-a-spacex-share-0fda9c09",
+    title: "Elon Musk says he'll give a SpaceX share to every child in America next year",
+    titleJa: "Elon Musk says he'll give a SpaceX share to every child in America next year",
+    summaryJa: "The SpaceX boss said Monday that he'll give one of his company shares to every child in the U.S. next year. He didn't say how the share giveaway would happen.",
+    bodyOriginal: `SpaceX CEO Elon Musk said Monday that he'll give every child in the U.S. one of his shares in the company next year.
+Musk currently owns about 4.8 billion SpaceX shares, according to an August SEC filing. That figure rises to 6.4 billion when taking into account unvested awards and stock options, representing a 48.4% beneficial stake in the company.
+There were 72 million children under 18 in the U.S. as of July 1, 2025, according to official census data.
+That would amount to the CEO giving away about $10.5 billion worth of shares, taking into account SpaceX's closing stock price of $146.03 as of Friday.
+"This will be the first of many," Musk said in a post on X, without providing further details on how the share giveaway would happen.
+CNBC has reached out to SpaceX for further comment.
+Musk's financial giving has been in the news in recent weeks primarily for his political contributions.
+The Tesla CEO has spent more than $276 million in donations to Republican groups since July, making him the biggest known donor of the 2026 midterm election.
+The world's richest person poured $158 million into the Senate Leadership Fund, the Republican Party's leading Senate super PAC, in September through an affiliated Texas PAC created to support Republican Ken Paxton. Musk's two contributions of $75 million and $83 million are among the largest political donations ever.
+Musk's post came hot on the heels of Anthropic revealing that it plans to commit 5% of its shares to a new public benefit fund, with the stake potentially increasing as the company's valuation grows.
+In response to an Anthropic post on X about the fund on Sunday, Musk replied, "I recommend giving the shares directly to the public," and added that's what he'd be doing.
+Subject to shareholder approval, Anthropic's fund would immediately commit 5% of Anthropic's shares, with the board adding, at its discretion, an additional 2% for every 50% increase in the company's value above a set baseline that has yet to be disclosed.
+The fund may be used to "explore large donations," including to traditional nonprofits or as direct distributions for specific populations, or for "bolder approaches" to study and address AI's disruption and displacement of jobs, the company said.
+— CNBC's Jennifer Liu contributed to this report.`,
+    bodyJa: `SpaceX CEO Elon Musk said Monday that he'll give every child in the U.S. one of his shares in the company next year.
+Musk currently owns about 4.8 billion SpaceX shares, according to an August SEC filing. That figure rises to 6.4 billion when taking into account unvested awards and stock options, representing a 48.4% beneficial stake in the company.
+There were 72 million children under 18 in the U.S. as of July 1, 2025, according to official census data.
+That would amount to the CEO giving away about $10.5 billion worth of shares, taking into account SpaceX's closing stock price of $146.03 as of Friday.
+"This will be the first of many," Musk said in a post on X, without providing further details on how the share giveaway would happen.
+CNBC has reached out to SpaceX for further comment.
+Musk's financial giving has been in the news in recent weeks primarily for his political contributions.
+The Tesla CEO has spent more than $276 million in donations to Republican groups since July, making him the biggest known donor of the 2026 midterm election.
+The world's richest person poured $158 million into the Senate Leadership Fund, the Republican Party's leading Senate super PAC, in September through an affiliated Texas PAC created to support Republican Ken Paxton. Musk's two contributions of $75 million and $83 million are among the largest political donations ever.
+Musk's post came hot on the heels of Anthropic revealing that it plans to commit 5% of its shares to a new public benefit fund, with the stake potentially increasing as the company's valuation grows.
+In response to an Anthropic post on X about the fund on Sunday, Musk replied, "I recommend giving the shares directly to the public," and added that's what he'd be doing.
+Subject to shareholder approval, Anthropic's fund would immediately commit 5% of Anthropic's shares, with the board adding, at its discretion, an additional 2% for every 50% increase in the company's value above a set baseline that has yet to be disclosed.
+The fund may be used to "explore large donations," including to traditional nonprofits or as direct distributions for specific populations, or for "bolder approaches" to study and address AI's disruption and displacement of jobs, the company said.
+— CNBC's Jennifer Liu contributed to this report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/19/elon-musk-spacex-shares-giveaway-kids.html",
+    publishedAt: "2026-10-19T12:07:51+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "google-says-it-can-build-data-centers-th-5d71ecbe",
+    title: "Google says it can build data centers the right way. Some experts and residents are skeptical",
+    titleJa: "Google says it can build data centers the right way. Some experts and residents are skeptical",
+    summaryJa: "Google says its Minnesota AI data center will add clean energy to the grid and protect ratepayers. Experts question whether grid upgrades are needed.",
+    bodyOriginal: `If there's one thing most Americans can agree on, it's that they don't want a data center in their backyard.
+A Gallup survey conducted in March found that 71% of Americans opposed the construction of a data center in their local area. Chief among their concerns: energy usage. Half of Americans surveyed by Pew Research Center in July and August said data centers would be mostly bad for the environment and for household energy costs.
+Now Google is betting that a massive AI data center can help finance a cleaner, more reliable power grid. Its proposed deal with Xcel Energy would add more wind, solar and battery capacity than the data center is expected to use.
+Under the agreement, Google would help pay for the added capacity and continue paying, even if it doesn't use all of the power.
+Google's bet that AI can finance a cleaner grid
+Pine Island, Minnesota, is a small town of about 4,000 residents an hour southeast of Minneapolis. Google hopes that its new 780-megawatt data center plan will build goodwill with the Pine Island community and keep the company on track to meet its goal of operating on carbon-free energy, 24 hours a day, seven days a week by 2030.
+Google — whose cloud business powers its own Gemini AI and brought in nearly $25 billion in second-quarter revenue, an 82% increase from a year earlier — says it has found a model for doing this the right way. The company plans to finance the addition of 1,400 megawatts of wind, 200 megawatts of solar and 300 megawatts of battery storage to Xcel's grid.
+Those additions amount to more than the capacity of the data center itself, which Google said is because wind and solar do not generate energy at all times. Xcel Energy said the new power will serve all customers in the local area, not just Google. Xcel also said the upgrades will help advance the local grid's carbon-free energy supply.
+The proposed agreement between Google and Xcel includes minimum demand charges and exit fees, which Google says will keep the company on the hook for the infrastructure being built on its behalf, even if the AI boom cools. Google will pay for at least 75% of its contracted capacity, even if it uses less, and would owe up to eight years' worth of those minimum demand charges if it terminates the agreement early.
+"Nobody wants to have a big buildout and then have nowhere for that power to go and nobody to pay for that power," said Amanda Rome, executive vice president and chief customer officer at Xcel Energy. "That's where these protections come in."
+The agreement between Google and Xcel Energy is pending approval by the Minnesota Public Utilities Commission.
+Data centers are driving a historic power buildout
+New data centers will account for "most" of the projected increase in electricity demand over the next decade, according to the North American Electric Reliability Corporation, a nonprofit regulator.
+The Department of Energy under President Joe Biden reported that more than 70% of U.S. transmission lines and power transformers were at least 25 years old and found that the cheapest ways of meeting future demand would require the nation's transmission system to more than double in size by 2050.
+But hyperscalers argue that they can finance badly needed grid upgrades while also making the grid cleaner and more reliable.
+"The timing of this industrial revolution couldn't be more perfect," said Amanda Peterson Corio, Google's global head of energy and power. "It's right at the time when we needed capital to fix aging infrastructure in the United States."
+Could data centers use the grid as is?
+Jigar Shah, a partner at Multiplier, a consulting firm that helps clean energy startups go public, said data center operators could be constructing smaller facilities in places where the grid already has unused capacity. That would minimize the need to build — and pay for — new generation or transmission equipment.
+"If you fit the load growth that the data centers want into the existing grid, everybody's rates go down by a lot," said Shah.
+That's because the existing grid has enormous fixed costs from the infrastructure already in place: power plants, transmission lines, substations. If one new customer comes onto the grid and pays a large slice of that, everyone else's bills go down.
+"And so the question really is, why are people not doing these 25-megawatt data centers? Why are they doing 1,000-megawatt data centers? And it turns out people are just lazy," Shah said. "They're like, well, it's easier for me to contract one data center that's one gigawatt in size than figuring out how to do something on the order of 40 data centers that are 25 megawatts each."
+Industry watchdogs also warn of another reason that utilities often prefer to build new infrastructure, rather than make more use out of their existing grid.
+"When [utilities] build something new, they fund part of that investment with dollars from their investors on Wall Street, and they enjoy incredibly high, exorbitant returns on those investments, typically around 10%," said David Pomerantz, executive director at the Energy and Policy Institute, a utility watchdog agency.
+Building a data center that fits neatly into an existing grid provides little opportunity for a utility to make new money.
+What if a hyperscaler offers to pay for those grid investments?
+"One way to leverage data centers to lower people's bills is for data centers to provide that capital at much cheaper rates than the utility," said Pomerantz. "But that's a big problem for the utility. And this fight is actually already emerging."
+Still, Shah said, the Google/Xcel project in Minnesota is a good example of a data center project acting as a catalyst for newer, greener technology.
+"Google came in and said, well, here's a new way of doing things, using new technologies. How about we do it that way? And then that helps ratepayers. And the utility was like, yeah, that makes a lot of sense."
+Watch the video above for the full story, including an interview with Google's global head of energy and power.
+— CNBC's Jeniece Pettitt and Lora Kolodny contributed to this report.`,
+    bodyJa: `If there's one thing most Americans can agree on, it's that they don't want a data center in their backyard.
+A Gallup survey conducted in March found that 71% of Americans opposed the construction of a data center in their local area. Chief among their concerns: energy usage. Half of Americans surveyed by Pew Research Center in July and August said data centers would be mostly bad for the environment and for household energy costs.
+Now Google is betting that a massive AI data center can help finance a cleaner, more reliable power grid. Its proposed deal with Xcel Energy would add more wind, solar and battery capacity than the data center is expected to use.
+Under the agreement, Google would help pay for the added capacity and continue paying, even if it doesn't use all of the power.
+Google's bet that AI can finance a cleaner grid
+Pine Island, Minnesota, is a small town of about 4,000 residents an hour southeast of Minneapolis. Google hopes that its new 780-megawatt data center plan will build goodwill with the Pine Island community and keep the company on track to meet its goal of operating on carbon-free energy, 24 hours a day, seven days a week by 2030.
+Google — whose cloud business powers its own Gemini AI and brought in nearly $25 billion in second-quarter revenue, an 82% increase from a year earlier — says it has found a model for doing this the right way. The company plans to finance the addition of 1,400 megawatts of wind, 200 megawatts of solar and 300 megawatts of battery storage to Xcel's grid.
+Those additions amount to more than the capacity of the data center itself, which Google said is because wind and solar do not generate energy at all times. Xcel Energy said the new power will serve all customers in the local area, not just Google. Xcel also said the upgrades will help advance the local grid's carbon-free energy supply.
+The proposed agreement between Google and Xcel includes minimum demand charges and exit fees, which Google says will keep the company on the hook for the infrastructure being built on its behalf, even if the AI boom cools. Google will pay for at least 75% of its contracted capacity, even if it uses less, and would owe up to eight years' worth of those minimum demand charges if it terminates the agreement early.
+"Nobody wants to have a big buildout and then have nowhere for that power to go and nobody to pay for that power," said Amanda Rome, executive vice president and chief customer officer at Xcel Energy. "That's where these protections come in."
+The agreement between Google and Xcel Energy is pending approval by the Minnesota Public Utilities Commission.
+Data centers are driving a historic power buildout
+New data centers will account for "most" of the projected increase in electricity demand over the next decade, according to the North American Electric Reliability Corporation, a nonprofit regulator.
+The Department of Energy under President Joe Biden reported that more than 70% of U.S. transmission lines and power transformers were at least 25 years old and found that the cheapest ways of meeting future demand would require the nation's transmission system to more than double in size by 2050.
+But hyperscalers argue that they can finance badly needed grid upgrades while also making the grid cleaner and more reliable.
+"The timing of this industrial revolution couldn't be more perfect," said Amanda Peterson Corio, Google's global head of energy and power. "It's right at the time when we needed capital to fix aging infrastructure in the United States."
+Could data centers use the grid as is?
+Jigar Shah, a partner at Multiplier, a consulting firm that helps clean energy startups go public, said data center operators could be constructing smaller facilities in places where the grid already has unused capacity. That would minimize the need to build — and pay for — new generation or transmission equipment.
+"If you fit the load growth that the data centers want into the existing grid, everybody's rates go down by a lot," said Shah.
+That's because the existing grid has enormous fixed costs from the infrastructure already in place: power plants, transmission lines, substations. If one new customer comes onto the grid and pays a large slice of that, everyone else's bills go down.
+"And so the question really is, why are people not doing these 25-megawatt data centers? Why are they doing 1,000-megawatt data centers? And it turns out people are just lazy," Shah said. "They're like, well, it's easier for me to contract one data center that's one gigawatt in size than figuring out how to do something on the order of 40 data centers that are 25 megawatts each."
+Industry watchdogs also warn of another reason that utilities often prefer to build new infrastructure, rather than make more use out of their existing grid.
+"When [utilities] build something new, they fund part of that investment with dollars from their investors on Wall Street, and they enjoy incredibly high, exorbitant returns on those investments, typically around 10%," said David Pomerantz, executive director at the Energy and Policy Institute, a utility watchdog agency.
+Building a data center that fits neatly into an existing grid provides little opportunity for a utility to make new money.
+What if a hyperscaler offers to pay for those grid investments?
+"One way to leverage data centers to lower people's bills is for data centers to provide that capital at much cheaper rates than the utility," said Pomerantz. "But that's a big problem for the utility. And this fight is actually already emerging."
+Still, Shah said, the Google/Xcel project in Minnesota is a good example of a data center project acting as a catalyst for newer, greener technology.
+"Google came in and said, well, here's a new way of doing things, using new technologies. How about we do it that way? And then that helps ratepayers. And the utility was like, yeah, that makes a lot of sense."
+Watch the video above for the full story, including an interview with Google's global head of energy and power.
+— CNBC's Jeniece Pettitt and Lora Kolodny contributed to this report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html",
+    publishedAt: "2026-10-19T12:00:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "women-may-be-at-greater-risk-of-ai-job-l-0d1f2f8b",
+    title: "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why.",
+    titleJa: "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why.",
+    summaryJa: "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men.",
+    bodyOriginal: `Decades before Siri or Alexa or ChatGPT, there was a real person, almost always a woman, at the center of the information world. She was so vital, most long-distance communication could not happen without her.
+She was the telephone switch operator, and at one time she was part of the single largest occupation for white, U.S.-born women under age 20.
+Today, that job doesn't exist.
+The world is struggling to figure out what the dawn of artificial intelligence means for society, culture and the economy. A lot of ordinary Americans are just wondering what it means for their jobs.
+The history of technological progress — from automated telephone switches to the introduction of the washing machine and the personal computer — can offer some guidance. And that guidance suggests women are likely to be among the most affected by AI.
+"AI is focused on routine tasks and numbers and finding patterns, and those types of jobs are the clerical, administrative jobs that a lot of women hold,'' said Ariane Hegewisch, a senior research fellow at the Institute for Women's Policy Research. "It's still 90% of secretaries and clerical workers who are women."
+New research backs this up. The International Labour Organization in March concluded that nearly one in 10 women in high-income countries works in occupations at the highest risk from AI.
+The invention that made operators obsolete
+In the 1940s, nearly 95% of America's telephone operators were female. It was a relatively well-paying job for women at the time, and a complicated one: It took months of training to be able to handle the several hundred calls an hour that could come in at peak times. Operators were expected to be speedy, precise — and polite.
+These women were hit hard when AT&T introduced the automated telephone switch. It was one of the largest automation investments in history — a close analog to the massive AI investment now underway — and created one of the biggest technological shocks the nation had ever seen.
+In the decades after the automatic switch was popularized, an estimated 75,000 operator jobs vanished.
+Economists James Feigenbaum from Boston University and Daniel P. Gross from Duke University's Fuqua School of Business studied census and paycheck data from the time and followed local employment trends along the path of AT&T's rolling investment in switches across the nation.
+"The effect of this shock on incumbent operators was to dispossess many of their jobs and careers," they wrote in 2020. Many switchboard operators wound up in lower-paying jobs — or dropped out of the workforce entirely, they found.
+Economist David Autor says this outcome reflects the reality that many workers are already in their highest and best-paying occupation. When the job goes away, the next step is often down.
+"Most people are not changing careers very often. They make their career decisions early, and they stick with those careers," he said. "If those careers, if the value of that work … suddenly goes out of fashion, becomes technologically obsolete, they're going to, in general, do something not as good."
+But Feigenbaum and Gross also discovered that the next generation of women fared better.
+"Future workers found work in other fields, often taking up similar-quality jobs," they wrote, as the younger workers were "more adaptive to an evolving labor market … Anxiety over the opportunities available to future generations proved to be somewhat misplaced."
+In other words: One type of job went away, but other work emerged over time that was just as good.
+'Engines of liberation'
+By the 1950s, another technological innovation would come along and have a profound effect on women: the washing machine.
+Dubbed "engines of liberation" in a seminal paper on the topic by University of Pennsylvania economist Jeremy Greenwood and others, washing machines and other appliances dramatically reduced the time women spent on unpaid housework. That meant time could be reallocated to a paycheck outside the home, even as women's responsibility for the home remained.
+From 1950 to 1980, as gender norms changed, the number of employed women in the U.S. grew by more than 25 million. Their participation rate, or share of the female population in the labor force, grew to 52% from 34%. At the same time, 16 million more men found work, though the male participation rate dropped by 5 percentage points.
+The relevant question for the AI boom today: How did the economy suddenly find jobs for these women? If AI creates a vast new pool of available workers, can the economy put them to work?
+First, the very entry of women into the workforce meant demand for tasks once done at home moved into the paid economy, services like childcare and food preparation. Second, as the nation grew wealthier, other employment opportunities for women emerged in the service economy — in retail, restaurants, leisure and hospitality, and even some professional services. And third, as American businesses grew, they needed more people to handle the paperwork — everything from payroll to customer accounts.
+Changes to the economy and businesses were partly related to the entry of women into the workforce, but it was also partly random luck that the U.S. was booming and businesses were changing to need more office workers.
+"Between 1940 and 1980, there was a ton of new work created in the U.S. economy, and it was in office and clerical work that was accessible to people with a high school education,'' Autor said.
+The rise of the PC
+The next big revolution affecting women in the workplace was the personal computer.
+Before PCs arrived on the scene, women were the backbone of office infrastructure. According to the 1980 U.S. census, nearly 4.7 million Americans worked as secretaries, stenographers and typists. More than 98% were women.
+When IBM introduced the personal computer in 1981, followed by the advent of Microsoft Word just two years later, some of the middlemen, or in this case, middlewomen, became obsolete. It didn't eliminate writing, filing or editing. It simply shifted a big chunk of those tasks from dedicated clerical workers to others in the office — executives could type their own reports, book their own travel and print their own papers.
+But the PC wasn't entirely bad news for women in the workforce. Studies show women were already more likely than men to be using a computer at work at the dawn of the PC era. The PC put new tools at their fingertips: spreadsheets and databases and general computing power. While many roles were eliminated, many women adapted and found new ways to use the emerging technology to make themselves indispensable to their employers.
+That's a potential outcome for AI. In some cases, it will eliminate tasks but not entire jobs, enhancing the time and ability of a worker to do the remaining value-added jobs that only humans can do.
+A 2022 paper by Marcus Dillender and Eliza Forsythe found that when companies adopted software to do office and administrative work, it resulted in a 1% decline in employment in the sector but a 3% increase in wages for college graduates.
+Many more women have earned college and advanced degrees, and hold managerial jobs, than when other technologies ripped through the economy, offering some potential protection from automation. But maybe not for long: One of the promises of AI is that it will move up the value chain of the jobs performed by humans.
+Whatever capabilities the new technology may have now, the outlook is unclear because, Hegewisch says, somewhat ominously, "AI can learn."`,
+    bodyJa: `Decades before Siri or Alexa or ChatGPT, there was a real person, almost always a woman, at the center of the information world. She was so vital, most long-distance communication could not happen without her.
+She was the telephone switch operator, and at one time she was part of the single largest occupation for white, U.S.-born women under age 20.
+Today, that job doesn't exist.
+The world is struggling to figure out what the dawn of artificial intelligence means for society, culture and the economy. A lot of ordinary Americans are just wondering what it means for their jobs.
+The history of technological progress — from automated telephone switches to the introduction of the washing machine and the personal computer — can offer some guidance. And that guidance suggests women are likely to be among the most affected by AI.
+"AI is focused on routine tasks and numbers and finding patterns, and those types of jobs are the clerical, administrative jobs that a lot of women hold,'' said Ariane Hegewisch, a senior research fellow at the Institute for Women's Policy Research. "It's still 90% of secretaries and clerical workers who are women."
+New research backs this up. The International Labour Organization in March concluded that nearly one in 10 women in high-income countries works in occupations at the highest risk from AI.
+The invention that made operators obsolete
+In the 1940s, nearly 95% of America's telephone operators were female. It was a relatively well-paying job for women at the time, and a complicated one: It took months of training to be able to handle the several hundred calls an hour that could come in at peak times. Operators were expected to be speedy, precise — and polite.
+These women were hit hard when AT&T introduced the automated telephone switch. It was one of the largest automation investments in history — a close analog to the massive AI investment now underway — and created one of the biggest technological shocks the nation had ever seen.
+In the decades after the automatic switch was popularized, an estimated 75,000 operator jobs vanished.
+Economists James Feigenbaum from Boston University and Daniel P. Gross from Duke University's Fuqua School of Business studied census and paycheck data from the time and followed local employment trends along the path of AT&T's rolling investment in switches across the nation.
+"The effect of this shock on incumbent operators was to dispossess many of their jobs and careers," they wrote in 2020. Many switchboard operators wound up in lower-paying jobs — or dropped out of the workforce entirely, they found.
+Economist David Autor says this outcome reflects the reality that many workers are already in their highest and best-paying occupation. When the job goes away, the next step is often down.
+"Most people are not changing careers very often. They make their career decisions early, and they stick with those careers," he said. "If those careers, if the value of that work … suddenly goes out of fashion, becomes technologically obsolete, they're going to, in general, do something not as good."
+But Feigenbaum and Gross also discovered that the next generation of women fared better.
+"Future workers found work in other fields, often taking up similar-quality jobs," they wrote, as the younger workers were "more adaptive to an evolving labor market … Anxiety over the opportunities available to future generations proved to be somewhat misplaced."
+In other words: One type of job went away, but other work emerged over time that was just as good.
+'Engines of liberation'
+By the 1950s, another technological innovation would come along and have a profound effect on women: the washing machine.
+Dubbed "engines of liberation" in a seminal paper on the topic by University of Pennsylvania economist Jeremy Greenwood and others, washing machines and other appliances dramatically reduced the time women spent on unpaid housework. That meant time could be reallocated to a paycheck outside the home, even as women's responsibility for the home remained.
+From 1950 to 1980, as gender norms changed, the number of employed women in the U.S. grew by more than 25 million. Their participation rate, or share of the female population in the labor force, grew to 52% from 34%. At the same time, 16 million more men found work, though the male participation rate dropped by 5 percentage points.
+The relevant question for the AI boom today: How did the economy suddenly find jobs for these women? If AI creates a vast new pool of available workers, can the economy put them to work?
+First, the very entry of women into the workforce meant demand for tasks once done at home moved into the paid economy, services like childcare and food preparation. Second, as the nation grew wealthier, other employment opportunities for women emerged in the service economy — in retail, restaurants, leisure and hospitality, and even some professional services. And third, as American businesses grew, they needed more people to handle the paperwork — everything from payroll to customer accounts.
+Changes to the economy and businesses were partly related to the entry of women into the workforce, but it was also partly random luck that the U.S. was booming and businesses were changing to need more office workers.
+"Between 1940 and 1980, there was a ton of new work created in the U.S. economy, and it was in office and clerical work that was accessible to people with a high school education,'' Autor said.
+The rise of the PC
+The next big revolution affecting women in the workplace was the personal computer.
+Before PCs arrived on the scene, women were the backbone of office infrastructure. According to the 1980 U.S. census, nearly 4.7 million Americans worked as secretaries, stenographers and typists. More than 98% were women.
+When IBM introduced the personal computer in 1981, followed by the advent of Microsoft Word just two years later, some of the middlemen, or in this case, middlewomen, became obsolete. It didn't eliminate writing, filing or editing. It simply shifted a big chunk of those tasks from dedicated clerical workers to others in the office — executives could type their own reports, book their own travel and print their own papers.
+But the PC wasn't entirely bad news for women in the workforce. Studies show women were already more likely than men to be using a computer at work at the dawn of the PC era. The PC put new tools at their fingertips: spreadsheets and databases and general computing power. While many roles were eliminated, many women adapted and found new ways to use the emerging technology to make themselves indispensable to their employers.
+That's a potential outcome for AI. In some cases, it will eliminate tasks but not entire jobs, enhancing the time and ability of a worker to do the remaining value-added jobs that only humans can do.
+A 2022 paper by Marcus Dillender and Eliza Forsythe found that when companies adopted software to do office and administrative work, it resulted in a 1% decline in employment in the sector but a 3% increase in wages for college graduates.
+Many more women have earned college and advanced degrees, and hold managerial jobs, than when other technologies ripped through the economy, offering some potential protection from automation. But maybe not for long: One of the promises of AI is that it will move up the value chain of the jobs performed by humans.
+Whatever capabilities the new technology may have now, the outlook is unclear because, Hegewisch says, somewhat ominously, "AI can learn."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
+    publishedAt: "2026-10-19T11:20:02+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
     id: "putin-reportedly-suggests-summit-with-tr-8ae6fea4",
     title: "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine",
     titleJa: "Putin reportedly suggests summit with Trump and Xi to decide fate of Ukraine",
@@ -437,6 +815,20 @@ Have you had to reduce the asking price when selling a property?`,
     publishedAt: "2026-10-18T23:00:45+00:00",
     category: "金融政策",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aed/live/7786ae90-c712-11f1-9a5a-91141f7a4b0e.jpg",
+    readTime: 10,
+  },
+  {
+    id: "why-i-am-taking-the-other-side-of-the-tr-c15d8dd3",
+    title: "Why I am taking the other side of the trade that crushed the market Friday",
+    titleJa: "Why I am taking the other side of the trade that crushed the market Friday",
+    summaryJa: "Boy, that was awful; a nightmare. Last week wasn't just a rout; it was an obliteration. We had a lot of streaks and milestones noted — semiconductors, down nine straight days. Egads. CoreWeave back to where it was when it plummeted last time. Oh no. Memory implosion. It can't be. But the simple truth is that this market acted, especially Friday, as if the data center story, the $1.2 trillion or $12 trillion \"super-cycle\" — in itself a kiss-of-death term, like the coal super-cycle or the fracking",
+    bodyOriginal: `Boy, that was awful; a nightmare. Last week wasn't just a rout; it was an obliteration. We had a lot of streaks and milestones noted — semiconductors, down nine straight days. Egads. CoreWeave back to where it was when it plummeted last time. Oh no. Memory implosion. It can't be. But the simple truth is that this market acted, especially Friday, as if the data center story, the $1.2 trillion or $12 trillion "super-cycle" — in itself a kiss-of-death term, like the coal super-cycle or the fracking super-cycle — is over. That the greatest stock story ever told is over; and you better take every penny and buy Colgate-Palmolive , Coca-Cola , Procter & Gamble and, hopefully, Club name Kimberly-Clark . And all of those AI factories we need? "Desolation Row." Bob Dylan, say it isn't so. How did this happen so quickly? Where were the buyers? I have some answers. Wrong reaction? Let's start by figuring out the reaction ahead of the cause because it might be the wrong reaction. When I look at the breakdown, the concentration of what was being sold last week, culminating in Friday's devastation, it lined up rather perfectly with all of the components of the data center/AI thesis that represents about 25% of the market's market cap, albeit not its absolute percentage, which is far smaller than that. Why the reaction and not the cause? Cart before the horse? No, I don't think so. I believe that what happened last week we will find is an unwind of certain firms' positions coupled with the collapse of some hedge fund we have never heard of that borrowed billions that we don't know about from a firm that hasn't disclosed its own losses yet for lending the manager the money. I could argue that, as my great friend and original TheStreet.com hire, Herb Greenberg, is fond of: This is the end of the line for the debt-fueled hyperscale-hoax. The trillion-dollar con, spawned by Nvidia CEO Jensen Huang's induced moxie to give everyone money so they could buy the latest and greatest graphic processing units (GPUs) from Nvidia, led to CoreWeave's spike in corporate bond yields. That the marginal buyer is now being margined out by the cruel bond market. Reserve judgment Don't be so quick to judge Jensen. Which brings me to the two narratives that we live with every day of our investing life. They are worth parsing. They deserve critical analysis. Let's use last week's action as a paradigm. When Jensen first stumbled on the concept of accelerated computing, he realized that it could be the accelerant needed for something that really didn't exist: gigantic, instant recognition of patterns that unlocked the ability for machines to adopt thinking. Instant pattern recognition of everything. His pal, Sam Altman of OpenAI, saw ways to profit from those who need intelligence artificially. You would think that everyone would have recognized that people would pay for that, but only a few did — and do. Most big tech companies just thought of the back end, the cloud, the pipes, the service to those who wanted to charge for outcomes. As it stands now, only OpenAI, Anthropic and, to a lesser extent, portfolio holding Alphabet via Google's Gemini have capitalized on the movement at scale. But boy, oh boy, have they capitalized on it. Right now, though, given that neither OpenAI nor Anthropic has gone public, there is a universe of activity mostly funded by Nvidia, a longtime Club name, that has allowed the artificial and generative artificial, and now agentic artificial intelligence, to flourish. If Nvidia hadn't provided the seed money, maybe it would have happened eventually. Jensen wants to win. He wants Nvidia shareholders to win. He wants the United States to win. So, he opened his vault and helped fund companies the way venture capital funds help start new enterprises. The skeptics, the critics, the people who depend on things falling apart and the center not holding, just view Jensen's activities as one big legacy of Lucent, the telco equipment company from the turn of the century that did the most to mask how weak things really were by financing their one world of clients until it was obvious that there was very little business to be had without it. Or, to put it in a way Greenberg and his acolytes believe, passionately, Jensen is playing a game of Lazy Susan. He puts the money on the table, he spins it, you take it, and then you buy product from him, and everyone's happy. Having been on the other side of the Lazy Susan table, both when my mother served the turkey and the gravy and when I ran TheStreet.com, my first instinct was to blow the whistle on the activity, and so I did. It was so obviously dirty. I didn't need the goods. I didn't want them. I didn't want the bogus investment, either. Now is not like then The difference between back then and now? Back then, circa 2000, it was obvious that what was known as "vendor finance" was simply benefitting the vendor, as we didn't need the end product of what the vendor was providing. That's the actual crux of the indictment, again. Nvidia is no more than the second-coming of Lucent, and Jensen is simply Rich McGinn, the charlatan who always made the quarter with increasingly preposterous new clients that you never dreamed had the money for the purchases. Brazilian Telco. But of course, they didn't, and it was just Lucent with a chimerical bankroll. In the end, you wondered, was anything even purchased, or did the money never even come off the Lazy Susan at all; it was just spun right back. You have to believe the Lucent paradigm if you think that all of this current-day edifice is worthless or worth a lot less. It fits so perfectly, so elegantly that it comes under the short-selling rubric: too good to check out. The beauty of it all: the whole build-out really got going with Michael Intrator, a former bitcoin miner turned CEO of CoreWeave, taking billions of dollars from Nvidia in return for buying a ton of Nvidia chips to put up data centers, first largely for Microsoft, but now for most of the hyperscalers. This whole circular song, according to the bears — to let up on Greenberg, who is simply the most vocal of the negative narrators — only worked if CoreWeave, run by a darned bitcoin miner, was able to con enough public debt customers into giving it money to hold up its side of the Lazy Susan. It's almost poetry in motion. The poetry stopped this week when CoreWeave's debt yields blew up to over 15%, where the rate of return on CoreWeave's spend is too low to justify the build. If there is no new build, then there are no new Nvidia orders. If there are no new Nvidia orders, then it is game over. That was the storyline. It held up throughout the week even as there was a nice bounce from Thursday's bottom. The collapse on Friday that wiped out the Thursday reversal foretold, some would say, what happens Monday morning. Friday's session devolved into a case of "get out now" for all but the owners of Phillip Morris, Merck , and Club name Johnson & Johnson . But, at the risk of being right, let me offer you the alternative narrative. The bounce Thursday came about from something Jensen said when asked what to do about CoreWeave. The answer was simple: Don't need to do anything; in fact, things were better than we thought. The answer was brilliant: any other wording that said Jensen was ready to backstop — like he was the "Federal Reserve of Nvidia" — and we would know the Lazy Susan table was still in play and Jensen was blissfully ignorant of the now all-powerful critics. I covered the Jonestown mass murder when I was a homicide reporter in Los Angeles. I talked to the relatives of the deceased who drank the original Kool-Aid. So call me someone who knows the Kool-Aid, what it looks like, what it does to you. Nvidia does not market Kool-Aid. Jensen has something that neither Jim Jones nor the bears now had and have: credibility. The fact is, while the public debt market, the one CoreWeave needs to get bigger and bigger, may be halted for now, Jensen knows something to be true that is denied repeatedly by the haters: Nvidia's chips hold up. They may hold their value for 10 years. That's a godsend for Intrator because Jensen is lending against them for about five years. When that period is up, he takes them back. If their prices hold up and they have — he can sell them; he can lease them again. There is no doubt that they hold up. There are benchmarks of truth. There will be a two-way market in these things soon, like mortgage-backed and auto loan-backed bonds. The loan market knows that now. Intrator has borrowed against them already at much lower rates than the public markets offer. It is rare to say the public markets are wrong or manipulated or both. But I think that's the case with CoreWeave, as it is the linchpin to the thesis that the buildout isn't at its end. You either believe it, or you don't. If you believe it, you are tempted to buy Monday morning as the group is ridiculously oversold. If you think it is all one big sham, then short away or sell. Bottom line I don't think it's a sham. Let me repeat that: I don't think it's a sham. CoreWeave is not Lucent. Nvidia is not Nortel, the almighty vendor of that era. We can step back and say this is just some skirmish in the giant war for or against the data center. The big battle will come with the midterm election if it turns out that data centers really fall behind in the election to the point that even Texas and Pennsylvania don't want them. Last week made it look like a one-two punch of the market's tapped out and the election is going against the data center. I think that neither is the case. I think the market is taking a well-deserved breather, and there will always be localities that welcome data centers. I think that the ultimate build-out will come to $10 trillion to $12 trillion, like Morgan Stanley CEO Ted Pick threw out in CNBC Leslie Picker's excellent interview . Moreover, I think that both Anthropic and OpenAI will come public, and anyone who needs to get paid will get paid. And, I think that the states that ban the data centers will rue the day they turned down all the money that is now going to flow to the remaining states that haven't voted or voted in favor. The deals the hyperscalers will offer are insane. Full circle: My view has many believers. Too many. Because obviously many of them borrowed money to make, not that investment, but that bet. They may not even understand the sophisticated chain that gets us to where we are now. They are, alas, the problem. Broken hedge funds, not broken paradigms. If I am right, then the morass clears up pretty quickly; the bigger hedge funds that had their positions sold out underneath them will be revealed. The price of CoreWeave's debt goes down, as it was always juiced by credit default swap buying ; and even Oracle's stock goes up. Don't get complacent. The bears need to make their year, too. But be aware of how long Nvidia's chips last. Understand that there will soon be a public market trading compute because BlackRock , the largest repository of assets, has willed it to be. Recognize that generative artificial intelligence, no matter what the threat to mankind, will triumph. And accept that history will be littered with people who thought about the fourth industrial revolution too aggressively or were thinly capitalized or not competitive — like the overused rail analogy from the 1870s — and didn't make it to the promised land. (See here for a full list of the stocks in Jim Cramer's Charitable Trust.) As a subscriber to the CNBC Investing Club with Jim Cramer, you will receive a trade alert before Jim makes a trade. Jim waits 45 minutes after sending a trade alert before buying or selling a stock in his charitable trust's portfolio. If Jim has talked about a stock on CNBC TV, he waits 72 hours after issuing the trade alert before executing the trade. THE ABOVE INVESTING CLUB INFORMATION IS SUBJECT TO OUR TERMS AND CONDITIONS AND PRIVACY POLICY , TOGETHER WITH OUR DISCLAIMER . NO FIDUCIARY OBLIGATION OR DUTY EXISTS, OR IS CREATED, BY VIRTUE OF YOUR RECEIPT OF ANY INFORMATION PROVIDED IN CONNECTION WITH THE INVESTING CLUB. NO SPECIFIC OUTCOME OR PROFIT IS GUARANTEED.`,
+    bodyJa: `Boy, that was awful; a nightmare. Last week wasn't just a rout; it was an obliteration. We had a lot of streaks and milestones noted — semiconductors, down nine straight days. Egads. CoreWeave back to where it was when it plummeted last time. Oh no. Memory implosion. It can't be. But the simple truth is that this market acted, especially Friday, as if the data center story, the $1.2 trillion or $12 trillion "super-cycle" — in itself a kiss-of-death term, like the coal super-cycle or the fracking super-cycle — is over. That the greatest stock story ever told is over; and you better take every penny and buy Colgate-Palmolive , Coca-Cola , Procter & Gamble and, hopefully, Club name Kimberly-Clark . And all of those AI factories we need? "Desolation Row." Bob Dylan, say it isn't so. How did this happen so quickly? Where were the buyers? I have some answers. Wrong reaction? Let's start by figuring out the reaction ahead of the cause because it might be the wrong reaction. When I look at the breakdown, the concentration of what was being sold last week, culminating in Friday's devastation, it lined up rather perfectly with all of the components of the data center/AI thesis that represents about 25% of the market's market cap, albeit not its absolute percentage, which is far smaller than that. Why the reaction and not the cause? Cart before the horse? No, I don't think so. I believe that what happened last week we will find is an unwind of certain firms' positions coupled with the collapse of some hedge fund we have never heard of that borrowed billions that we don't know about from a firm that hasn't disclosed its own losses yet for lending the manager the money. I could argue that, as my great friend and original TheStreet.com hire, Herb Greenberg, is fond of: This is the end of the line for the debt-fueled hyperscale-hoax. The trillion-dollar con, spawned by Nvidia CEO Jensen Huang's induced moxie to give everyone money so they could buy the latest and greatest graphic processing units (GPUs) from Nvidia, led to CoreWeave's spike in corporate bond yields. That the marginal buyer is now being margined out by the cruel bond market. Reserve judgment Don't be so quick to judge Jensen. Which brings me to the two narratives that we live with every day of our investing life. They are worth parsing. They deserve critical analysis. Let's use last week's action as a paradigm. When Jensen first stumbled on the concept of accelerated computing, he realized that it could be the accelerant needed for something that really didn't exist: gigantic, instant recognition of patterns that unlocked the ability for machines to adopt thinking. Instant pattern recognition of everything. His pal, Sam Altman of OpenAI, saw ways to profit from those who need intelligence artificially. You would think that everyone would have recognized that people would pay for that, but only a few did — and do. Most big tech companies just thought of the back end, the cloud, the pipes, the service to those who wanted to charge for outcomes. As it stands now, only OpenAI, Anthropic and, to a lesser extent, portfolio holding Alphabet via Google's Gemini have capitalized on the movement at scale. But boy, oh boy, have they capitalized on it. Right now, though, given that neither OpenAI nor Anthropic has gone public, there is a universe of activity mostly funded by Nvidia, a longtime Club name, that has allowed the artificial and generative artificial, and now agentic artificial intelligence, to flourish. If Nvidia hadn't provided the seed money, maybe it would have happened eventually. Jensen wants to win. He wants Nvidia shareholders to win. He wants the United States to win. So, he opened his vault and helped fund companies the way venture capital funds help start new enterprises. The skeptics, the critics, the people who depend on things falling apart and the center not holding, just view Jensen's activities as one big legacy of Lucent, the telco equipment company from the turn of the century that did the most to mask how weak things really were by financing their one world of clients until it was obvious that there was very little business to be had without it. Or, to put it in a way Greenberg and his acolytes believe, passionately, Jensen is playing a game of Lazy Susan. He puts the money on the table, he spins it, you take it, and then you buy product from him, and everyone's happy. Having been on the other side of the Lazy Susan table, both when my mother served the turkey and the gravy and when I ran TheStreet.com, my first instinct was to blow the whistle on the activity, and so I did. It was so obviously dirty. I didn't need the goods. I didn't want them. I didn't want the bogus investment, either. Now is not like then The difference between back then and now? Back then, circa 2000, it was obvious that what was known as "vendor finance" was simply benefitting the vendor, as we didn't need the end product of what the vendor was providing. That's the actual crux of the indictment, again. Nvidia is no more than the second-coming of Lucent, and Jensen is simply Rich McGinn, the charlatan who always made the quarter with increasingly preposterous new clients that you never dreamed had the money for the purchases. Brazilian Telco. But of course, they didn't, and it was just Lucent with a chimerical bankroll. In the end, you wondered, was anything even purchased, or did the money never even come off the Lazy Susan at all; it was just spun right back. You have to believe the Lucent paradigm if you think that all of this current-day edifice is worthless or worth a lot less. It fits so perfectly, so elegantly that it comes under the short-selling rubric: too good to check out. The beauty of it all: the whole build-out really got going with Michael Intrator, a former bitcoin miner turned CEO of CoreWeave, taking billions of dollars from Nvidia in return for buying a ton of Nvidia chips to put up data centers, first largely for Microsoft, but now for most of the hyperscalers. This whole circular song, according to the bears — to let up on Greenberg, who is simply the most vocal of the negative narrators — only worked if CoreWeave, run by a darned bitcoin miner, was able to con enough public debt customers into giving it money to hold up its side of the Lazy Susan. It's almost poetry in motion. The poetry stopped this week when CoreWeave's debt yields blew up to over 15%, where the rate of return on CoreWeave's spend is too low to justify the build. If there is no new build, then there are no new Nvidia orders. If there are no new Nvidia orders, then it is game over. That was the storyline. It held up throughout the week even as there was a nice bounce from Thursday's bottom. The collapse on Friday that wiped out the Thursday reversal foretold, some would say, what happens Monday morning. Friday's session devolved into a case of "get out now" for all but the owners of Phillip Morris, Merck , and Club name Johnson & Johnson . But, at the risk of being right, let me offer you the alternative narrative. The bounce Thursday came about from something Jensen said when asked what to do about CoreWeave. The answer was simple: Don't need to do anything; in fact, things were better than we thought. The answer was brilliant: any other wording that said Jensen was ready to backstop — like he was the "Federal Reserve of Nvidia" — and we would know the Lazy Susan table was still in play and Jensen was blissfully ignorant of the now all-powerful critics. I covered the Jonestown mass murder when I was a homicide reporter in Los Angeles. I talked to the relatives of the deceased who drank the original Kool-Aid. So call me someone who knows the Kool-Aid, what it looks like, what it does to you. Nvidia does not market Kool-Aid. Jensen has something that neither Jim Jones nor the bears now had and have: credibility. The fact is, while the public debt market, the one CoreWeave needs to get bigger and bigger, may be halted for now, Jensen knows something to be true that is denied repeatedly by the haters: Nvidia's chips hold up. They may hold their value for 10 years. That's a godsend for Intrator because Jensen is lending against them for about five years. When that period is up, he takes them back. If their prices hold up and they have — he can sell them; he can lease them again. There is no doubt that they hold up. There are benchmarks of truth. There will be a two-way market in these things soon, like mortgage-backed and auto loan-backed bonds. The loan market knows that now. Intrator has borrowed against them already at much lower rates than the public markets offer. It is rare to say the public markets are wrong or manipulated or both. But I think that's the case with CoreWeave, as it is the linchpin to the thesis that the buildout isn't at its end. You either believe it, or you don't. If you believe it, you are tempted to buy Monday morning as the group is ridiculously oversold. If you think it is all one big sham, then short away or sell. Bottom line I don't think it's a sham. Let me repeat that: I don't think it's a sham. CoreWeave is not Lucent. Nvidia is not Nortel, the almighty vendor of that era. We can step back and say this is just some skirmish in the giant war for or against the data center. The big battle will come with the midterm election if it turns out that data centers really fall behind in the election to the point that even Texas and Pennsylvania don't want them. Last week made it look like a one-two punch of the market's tapped out and the election is going against the data center. I think that neither is the case. I think the market is taking a well-deserved breather, and there will always be localities that welcome data centers. I think that the ultimate build-out will come to $10 trillion to $12 trillion, like Morgan Stanley CEO Ted Pick threw out in CNBC Leslie Picker's excellent interview . Moreover, I think that both Anthropic and OpenAI will come public, and anyone who needs to get paid will get paid. And, I think that the states that ban the data centers will rue the day they turned down all the money that is now going to flow to the remaining states that haven't voted or voted in favor. The deals the hyperscalers will offer are insane. Full circle: My view has many believers. Too many. Because obviously many of them borrowed money to make, not that investment, but that bet. They may not even understand the sophisticated chain that gets us to where we are now. They are, alas, the problem. Broken hedge funds, not broken paradigms. If I am right, then the morass clears up pretty quickly; the bigger hedge funds that had their positions sold out underneath them will be revealed. The price of CoreWeave's debt goes down, as it was always juiced by credit default swap buying ; and even Oracle's stock goes up. Don't get complacent. The bears need to make their year, too. But be aware of how long Nvidia's chips last. Understand that there will soon be a public market trading compute because BlackRock , the largest repository of assets, has willed it to be. Recognize that generative artificial intelligence, no matter what the threat to mankind, will triumph. And accept that history will be littered with people who thought about the fourth industrial revolution too aggressively or were thinly capitalized or not competitive — like the overused rail analogy from the 1870s — and didn't make it to the promised land. (See here for a full list of the stocks in Jim Cramer's Charitable Trust.) As a subscriber to the CNBC Investing Club with Jim Cramer, you will receive a trade alert before Jim makes a trade. Jim waits 45 minutes after sending a trade alert before buying or selling a stock in his charitable trust's portfolio. If Jim has talked about a stock on CNBC TV, he waits 72 hours after issuing the trade alert before executing the trade. THE ABOVE INVESTING CLUB INFORMATION IS SUBJECT TO OUR TERMS AND CONDITIONS AND PRIVACY POLICY , TOGETHER WITH OUR DISCLAIMER . NO FIDUCIARY OBLIGATION OR DUTY EXISTS, OR IS CREATED, BY VIRTUE OF YOUR RECEIPT OF ANY INFORMATION PROVIDED IN CONNECTION WITH THE INVESTING CLUB. NO SPECIFIC OUTCOME OR PROFIT IS GUARANTEED.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/investingclub/2026/10/18/jim-cramer-why-i-am-taking-the-other-side-of-the-trade-that-crushed-the-market-friday.html",
+    publishedAt: "2026-10-18T22:23:08+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 10,
   },
   {
@@ -2038,620 +2430,6 @@ WATCH: Don't overlook opportunity in South Korea, says Verdad Advisers' Rasmusse
     category: "金融政策",
     imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 4,
-  },
-  {
-    id: "software-s-new-consolidator-gets-big-vot-5d627f04",
-    title: "Software’s new consolidator gets big vote of confidence from Berkshire",
-    titleJa: "Software’s new consolidator gets big vote of confidence from Berkshire",
-    summaryJa: "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
-    bodyOriginal: `At the time of its Nasdaq debut in July, Bending Spoons was a little-known holding company out of Italy that owned older internet names like AOL, Vimeo, Eventbrite and Evernote.
-Less than four months later, the Milan-based firm has emerged as a surprising home for former high-flying software startups that have been thrust aside by the artificial intelligence boom. Its M&A plan got a major boost this week from the most famous holding company on the planet: Berkshire Hathaway.
-Berkshire, which Bending Spoons describes as a "longstanding inspiration" for its strategy, has now invested over $900 million in the company, including a $330 million stake disclosed on Wednesday. Wall Street loved the deal, sending Bending Spoons' stock up 41%, though some of those gains were lost later in the week, leaving the company with a market cap of about $30 billion.
-"Berkshire's decision to add to its position just a few months after the IPO and at these levels provides another vote of confidence in the Bending Spoons model from one of the world's most respected long-term investors," wrote analysts at Mizuho, in a report after the announcement.
-The other big news out of Bending Spoons this week underscores the flipside of the business: job cuts. In August, Bending Spoons announced it was buying workflow software provider Airtable for about $1.3 billion, or almost 90% below the company's peak valuation from late 2021. Bending Spoons said Monday that a "large portion of the pre-acquisition team" from Airtable would be leaving with "substantial separation packages." Layoffs were previously implemented at Evernote, Vimeo, WeTransfer and others in the portfolio.
-For the technology industry, Bending Spoons' moves represent the latest example of how quickly fortunes are turning in the AI era, as new agents powered by large language models displace software developers and the products they built. With Anthropic and OpenAI marching toward trillion-dollar valuations, businesses are putting more valuable work in their hands at the expense of a host of software-as-a-service names, creating a phenomenon that's become known as the "SaaSpocalypse."
-Shares of Intuit, HubSpot and Adobe are all down at least 30% this year, and a long list of private SaaS companies that were once venture darlings are now struggling to find capital, with the public market showing no appetite for IPOs. Last month, Bending Spoons agreed to buy collaboration software vendor Miro, once valued at $17.5 billion, for $1.36 billion.
-"You're either like a hot thing or you're nothing," said Ethan Kurzweil, founder and managing partner at Chemistry VC and a veteran software investor. Kurzweil said he uses Airtable, and said there are plenty of good SaaS products on the market led by solid teams, "but they're not on the frontier anymore."
-An app turned acquirer
-Bending Spoons was launched in 2013 by friends Luca Ferrari, the CEO, Matteo Danieli and Francesco Patarnello. A mobile app they'd created called Evertale failed to take off, and they used the $40,000 they had left to build an operating company instead of "products nobody wanted," according to the IPO prospectus.
-Bending Spoons has announced all of its biggest deals in the last few years, beginning with Evernote in 2022, followed by Brightcove in 2024, and Vimeo, AOL and Eventbrite in 2025.
-The company held its IPO on June 30, raising about $1.7 billion at $29 a share, and hit the Nasdaq the next day. The stock closed Friday at $47.07.
-Prior to Bending Spoons' recent jump into enterprise software, some of the leading acquirers in the space over the past decade were private equity behemoths Thoma Bravo and Vista Equity Partners. Those firms were aiming to buy what they viewed as undervalued SaaS companies and, through a combination of cost cuts, efficiency improvements and rollups, turn them into assets that could be sold or taken public at a higher price.
-Bending Spoons is using a different playbook. The company isn't looking for eventual exits but rather wants to generate profits from the businesses it buys, similar to the Warren Buffett model. But unlike Berkshire, Bending Spoons' focus is technology, and it's taking a hands-on approach with its own software, operations and personnel decisions.
-Nick Mehta, former CEO of cloud software vendor Gainsight, said private equity firms are limited now because "they got their nose bloodied."
-"They paid much higher prices and have so many troubled companies that it's difficult for them to take swings now," said Mehta, who sold Gainsight to Vista in 2020.
-Thoma Bravo and Vista didn't respond to requests for interviews. Bending Spoons told CNBC in a statement that it hadn't been outbid for a target in "several years."
-As the company started jumping into SaaS, Mehta said "Bending Spooned" became a verb in Silicon Valley, referring to companies getting scooped up for pennies on the dollar.
-"Unfortunately, a lot of my friends in that game are stuck," Mehta said. "Investors want out but there are no buyers. Anything pre-ChatGPT is legacy now."
-Lloyd Walmsley, an analyst at Mizuho, said Bending Spoons' model is distinct from the older buyout approach.
-"I think there aren't a lot of people that do what these guys do in terms of the depth of operations and the willingness to make substantial product changes," Walmsley said in an interview. "It's not typical of traditional private equity firms to make anywhere near this level of change."
-For customers of the companies that Bending Spoons buys, sudden price hikes can follow.
-In April 2023, months after the Evernote acquisition, Bending Spoons lifted the annual personal subscription price to $130 from $70. Later, the company changed its offerings, charging $100 for its so-called starter plan and $250 for "Evernote Advanced," compared to the $170 it had been charging for the pro plan.
-"My first reaction was like, Oh man, I guess I have to switch to OneNote," said Walmsley, referring to Microsoft's notetaking app. But he said he stuck with Evernote.
-"They're really savvy at finding these things that they provide a lot of value, and the switching costs are really high," Walmsley said. "The price isn't that high relative to the switching cost."
-Bending Spoons uses the profits from its portfolio companies for future growth, the "overwhelming majority" of which comes from doing more deals, Ferrari told CNBC in an interview on Thursday.
-"There are certain opportunities for improvement we can unlock over the first few years, and then the business will have whatever organic growth is intrinsic in that market," Ferrari said.
-For Berkshire and its fellow Bending Spoons investors, the bet is still unproven.
-The products have to remain desirable enough that customers are willing to pay up at a time when AI is squeezing margins across much of the software sector. In its first earnings report as a public company in August, Bending Spoons said revenue more than doubled from a year earlier to over $700 million, with growth almost entirely driven by acquisitions, while net income climbed 171% to $177 million.
-That was before the Airtable deal had closed and Miro had yet to be announced. In the coming quarters and years, Wall Street will get a clear picture of whether the firm's structure can revive software.
-On the earnings call in August, an analyst asked whether Airtable represents a long-term shift in the M&A strategy towards enterprise.
-Ferrari said that about half of Bending Spoons' revenue already comes from professional businesses, largely through Brightcove and Vimeo, which has an enterprise component. The focus on software of late, he said, has more to do with where he's finding value after a hefty selloff.
-"Most enterprise SaaS businesses were valued at irrationally high levels until somewhat recently," Ferrari said. "We never saw those prices making any sense."
-— CNBC's Ari Levy contributed to this report.`,
-    bodyJa: `At the time of its Nasdaq debut in July, Bending Spoons was a little-known holding company out of Italy that owned older internet names like AOL, Vimeo, Eventbrite and Evernote.
-Less than four months later, the Milan-based firm has emerged as a surprising home for former high-flying software startups that have been thrust aside by the artificial intelligence boom. Its M&A plan got a major boost this week from the most famous holding company on the planet: Berkshire Hathaway.
-Berkshire, which Bending Spoons describes as a "longstanding inspiration" for its strategy, has now invested over $900 million in the company, including a $330 million stake disclosed on Wednesday. Wall Street loved the deal, sending Bending Spoons' stock up 41%, though some of those gains were lost later in the week, leaving the company with a market cap of about $30 billion.
-"Berkshire's decision to add to its position just a few months after the IPO and at these levels provides another vote of confidence in the Bending Spoons model from one of the world's most respected long-term investors," wrote analysts at Mizuho, in a report after the announcement.
-The other big news out of Bending Spoons this week underscores the flipside of the business: job cuts. In August, Bending Spoons announced it was buying workflow software provider Airtable for about $1.3 billion, or almost 90% below the company's peak valuation from late 2021. Bending Spoons said Monday that a "large portion of the pre-acquisition team" from Airtable would be leaving with "substantial separation packages." Layoffs were previously implemented at Evernote, Vimeo, WeTransfer and others in the portfolio.
-For the technology industry, Bending Spoons' moves represent the latest example of how quickly fortunes are turning in the AI era, as new agents powered by large language models displace software developers and the products they built. With Anthropic and OpenAI marching toward trillion-dollar valuations, businesses are putting more valuable work in their hands at the expense of a host of software-as-a-service names, creating a phenomenon that's become known as the "SaaSpocalypse."
-Shares of Intuit, HubSpot and Adobe are all down at least 30% this year, and a long list of private SaaS companies that were once venture darlings are now struggling to find capital, with the public market showing no appetite for IPOs. Last month, Bending Spoons agreed to buy collaboration software vendor Miro, once valued at $17.5 billion, for $1.36 billion.
-"You're either like a hot thing or you're nothing," said Ethan Kurzweil, founder and managing partner at Chemistry VC and a veteran software investor. Kurzweil said he uses Airtable, and said there are plenty of good SaaS products on the market led by solid teams, "but they're not on the frontier anymore."
-An app turned acquirer
-Bending Spoons was launched in 2013 by friends Luca Ferrari, the CEO, Matteo Danieli and Francesco Patarnello. A mobile app they'd created called Evertale failed to take off, and they used the $40,000 they had left to build an operating company instead of "products nobody wanted," according to the IPO prospectus.
-Bending Spoons has announced all of its biggest deals in the last few years, beginning with Evernote in 2022, followed by Brightcove in 2024, and Vimeo, AOL and Eventbrite in 2025.
-The company held its IPO on June 30, raising about $1.7 billion at $29 a share, and hit the Nasdaq the next day. The stock closed Friday at $47.07.
-Prior to Bending Spoons' recent jump into enterprise software, some of the leading acquirers in the space over the past decade were private equity behemoths Thoma Bravo and Vista Equity Partners. Those firms were aiming to buy what they viewed as undervalued SaaS companies and, through a combination of cost cuts, efficiency improvements and rollups, turn them into assets that could be sold or taken public at a higher price.
-Bending Spoons is using a different playbook. The company isn't looking for eventual exits but rather wants to generate profits from the businesses it buys, similar to the Warren Buffett model. But unlike Berkshire, Bending Spoons' focus is technology, and it's taking a hands-on approach with its own software, operations and personnel decisions.
-Nick Mehta, former CEO of cloud software vendor Gainsight, said private equity firms are limited now because "they got their nose bloodied."
-"They paid much higher prices and have so many troubled companies that it's difficult for them to take swings now," said Mehta, who sold Gainsight to Vista in 2020.
-Thoma Bravo and Vista didn't respond to requests for interviews. Bending Spoons told CNBC in a statement that it hadn't been outbid for a target in "several years."
-As the company started jumping into SaaS, Mehta said "Bending Spooned" became a verb in Silicon Valley, referring to companies getting scooped up for pennies on the dollar.
-"Unfortunately, a lot of my friends in that game are stuck," Mehta said. "Investors want out but there are no buyers. Anything pre-ChatGPT is legacy now."
-Lloyd Walmsley, an analyst at Mizuho, said Bending Spoons' model is distinct from the older buyout approach.
-"I think there aren't a lot of people that do what these guys do in terms of the depth of operations and the willingness to make substantial product changes," Walmsley said in an interview. "It's not typical of traditional private equity firms to make anywhere near this level of change."
-For customers of the companies that Bending Spoons buys, sudden price hikes can follow.
-In April 2023, months after the Evernote acquisition, Bending Spoons lifted the annual personal subscription price to $130 from $70. Later, the company changed its offerings, charging $100 for its so-called starter plan and $250 for "Evernote Advanced," compared to the $170 it had been charging for the pro plan.
-"My first reaction was like, Oh man, I guess I have to switch to OneNote," said Walmsley, referring to Microsoft's notetaking app. But he said he stuck with Evernote.
-"They're really savvy at finding these things that they provide a lot of value, and the switching costs are really high," Walmsley said. "The price isn't that high relative to the switching cost."
-Bending Spoons uses the profits from its portfolio companies for future growth, the "overwhelming majority" of which comes from doing more deals, Ferrari told CNBC in an interview on Thursday.
-"There are certain opportunities for improvement we can unlock over the first few years, and then the business will have whatever organic growth is intrinsic in that market," Ferrari said.
-For Berkshire and its fellow Bending Spoons investors, the bet is still unproven.
-The products have to remain desirable enough that customers are willing to pay up at a time when AI is squeezing margins across much of the software sector. In its first earnings report as a public company in August, Bending Spoons said revenue more than doubled from a year earlier to over $700 million, with growth almost entirely driven by acquisitions, while net income climbed 171% to $177 million.
-That was before the Airtable deal had closed and Miro had yet to be announced. In the coming quarters and years, Wall Street will get a clear picture of whether the firm's structure can revive software.
-On the earnings call in August, an analyst asked whether Airtable represents a long-term shift in the M&A strategy towards enterprise.
-Ferrari said that about half of Bending Spoons' revenue already comes from professional businesses, largely through Brightcove and Vimeo, which has an enterprise component. The focus on software of late, he said, has more to do with where he's finding value after a hefty selloff.
-"Most enterprise SaaS businesses were valued at irrationally high levels until somewhat recently," Ferrari said. "We never saw those prices making any sense."
-— CNBC's Ari Levy contributed to this report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
-    publishedAt: "2026-10-17T15:11:30+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "dead-money-for-a-decade-why-this-hedge-125b71d5",
-    title: "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
-    titleJa: "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
-    summaryJa: "Investors may want to rethink their bond allocation and opt for managed futures exposure.",
-    bodyOriginal: `Investors may want to rethink their bond allocation and opt for managed futures exposure.
-DBi's Andrew Beer suggests the popular hedge fund strategy could deliver a modern twist to traditional 60/40 portfolios.
-"[Bonds have] been dead money for the entire decade," the firm's co-founder and managing member told CNBC's "ETF Edge" this week. "I fell in love with a strategy called managed futures because tactical is really good. Be nimble when other people's [portfolios] aren't."
-Beer contends the managed futures strategy, historically only available to hedge funds, could counterbalance stocks better than bonds during periods of volatility, which has been moving higher due to recent worries surrounding debt and the artificial intelligence trade.
-His reason: Managed futures exchange-traded funds can go long and short across global markets to position early against turbulent market events.
-"You want something that has low correlation to both stocks and bonds, and something that will do well in crises," Beer said. "It's very, very hard to find a better hedge fund strategy than managed futures to accomplish that."
-He helps manage the iMGP DBi Managed Futures Strategy ETF (DBMF). The fund replicates the performance of leading managed futures hedge funds inside a low-cost, liquid ETF, according to the firm's website.
-"There's an existential crisis right now in strategic asset allocation and the model portfolio world," Beer said about the 60/40 approach. "I love my bonds … [but] I'm not making it a 40% allocation for something that is not adding to the rest of my portfolio."
-As of Thursday's close, Beer's ETF is up almost 19% so far this year, according to FactSet data.
-However, managed futures may not be a replacement for bonds.
-According to NovaDius Wealth Management's Nate Geraci, bonds still have a place for diversifying a portfolio.
-"I call fixed income the most challenging area in investing right now," the firm's president said in the same interview. "[Alternatives] fit in the sleeve of a well-diversified portfolio that includes stocks and bonds. But I don't think you just give up on the bond side of the equation."
-Geraci added that investors should understand how alternative investment strategies like managed futures ETFs could interact with the rest of a portfolio.
-These funds can outperform during volatile markets, but they may also have periods of underperformance.
-"You have to let that work out over the long-term," said Geraci, who is also an ETF Institute co-founder. "To me it's just a balance. It's all about diversification."`,
-    bodyJa: `Investors may want to rethink their bond allocation and opt for managed futures exposure.
-DBi's Andrew Beer suggests the popular hedge fund strategy could deliver a modern twist to traditional 60/40 portfolios.
-"[Bonds have] been dead money for the entire decade," the firm's co-founder and managing member told CNBC's "ETF Edge" this week. "I fell in love with a strategy called managed futures because tactical is really good. Be nimble when other people's [portfolios] aren't."
-Beer contends the managed futures strategy, historically only available to hedge funds, could counterbalance stocks better than bonds during periods of volatility, which has been moving higher due to recent worries surrounding debt and the artificial intelligence trade.
-His reason: Managed futures exchange-traded funds can go long and short across global markets to position early against turbulent market events.
-"You want something that has low correlation to both stocks and bonds, and something that will do well in crises," Beer said. "It's very, very hard to find a better hedge fund strategy than managed futures to accomplish that."
-He helps manage the iMGP DBi Managed Futures Strategy ETF (DBMF). The fund replicates the performance of leading managed futures hedge funds inside a low-cost, liquid ETF, according to the firm's website.
-"There's an existential crisis right now in strategic asset allocation and the model portfolio world," Beer said about the 60/40 approach. "I love my bonds … [but] I'm not making it a 40% allocation for something that is not adding to the rest of my portfolio."
-As of Thursday's close, Beer's ETF is up almost 19% so far this year, according to FactSet data.
-However, managed futures may not be a replacement for bonds.
-According to NovaDius Wealth Management's Nate Geraci, bonds still have a place for diversifying a portfolio.
-"I call fixed income the most challenging area in investing right now," the firm's president said in the same interview. "[Alternatives] fit in the sleeve of a well-diversified portfolio that includes stocks and bonds. But I don't think you just give up on the bond side of the equation."
-Geraci added that investors should understand how alternative investment strategies like managed futures ETFs could interact with the rest of a portfolio.
-These funds can outperform during volatile markets, but they may also have periods of underperformance.
-"You have to let that work out over the long-term," said Geraci, who is also an ETF Institute co-founder. "To me it's just a balance. It's all about diversification."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
-    publishedAt: "2026-10-17T15:00:01+00:00",
-    category: "貿易",
-    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "trump-s-student-loan-overhaul-could-lead-b56dbef6",
-    title: "Trump's student loan overhaul could lead to more bankruptcy filings, former judge says",
-    titleJa: "Trump's student loan overhaul could lead to more bankruptcy filings, former judge says",
-    summaryJa: "After nearly three decades as a bankruptcy judge, Sarah Sharer Curley writes about the legal process in her new book, \"The Price of Forgiveness.\"",
-    bodyOriginal: `In Judge Sarah Sharer Curley's nearly three decades presiding over bankruptcy cases, some were especially painful to witness, she said — such as the 73-year-old woman who stood before her in 2012 with a student loan balance of more than $584,000.
-The debt dated back to the 1970s and had grown throughout the woman's public sector career, Curley writes in her new book, "The Price of Forgiveness: Debt, Bankruptcy, and the Future of Fairness in America." She had "never made a lot of money," Curley said, and by the time she sought debt relief, the woman was living in poverty, with Social Security as her only income. Even so, strict bankruptcy laws can make it nearly impossible to discharge student loans.
-Curley, the first woman appointed to the U.S. Bankruptcy Court for the District of Arizona, said it was a familiar story.
-"We allow the financial markets to take innumerable risks, yet we refuse to allow an individual to be forgiven for choosing to pursue an advanced degree," Curley wrote.
-Curley retired in 2014. CNBC spoke with her this month about her new book, in which she describes a legal system that often fails to give indebted Americans the second chance it promises. In 2025, more than half a million personal bankruptcy cases were filed — an almost 50% rise from three years prior, according to the Administrative Office of the U.S. Courts.
-The interview has been edited and condensed for clarity.
-'People are subject to many unexpected events'
-Annie Nova: What do people get most wrong about those who file for bankruptcy?
-Sarah Sharer Curley: People assume that individuals who file for bankruptcy are committing fraud, trying to hide assets and cheating creditors. Nothing could be further from the truth.
-AN: And so why did people end up in your court?
-SSC: People are subject to many unexpected events. People can't always plan adequately for the next earthquake, hurricane or natural disaster. But usually, it's someone losing a job. It could also be an illness that becomes chronic with medical costs that increase dramatically over a short period.
-Student loans is another area of concern. Universities are charging more for basic degrees, as well as graduate programs. The cost of medical school over four years can be more than $400,000.
-AN: You write that many people who file for bankruptcy are not unemployed; they're just living paycheck to paycheck. What does this tell us about our economy and labor market?
-SSC: Despite the increase in wages that most economists tout, many people are working as independent contractors. They receive few benefits and have few rights. The company is not responsible to them.
-Other individuals may be working for a company but find the wages or benefits are insufficient. Many people are forced to work for several employers to meet their needs on a weekly basis.
-Although unemployment may be low, the quality of the employment is also low.
-'I found her credible'
-AN: The story in your book about the woman in her 70s with the six-figure federal student loan balance really stood out to me. What happened in her case?
-SSC: The federal government would not agree to any settlement. I was the one who would have to decide whether her debt would be discharged or not. But the case law I had to follow was not in favor of discharging student loan debts. So, I didn't have a lot of flexibility in granting her relief.
-However, I gave her credit for seven years of public service helping out troubled teens in San Diego County, since people who are in certain types of public service only have a 10-year repayment period. That meant that she'd need to repay the debt for just three more years.
-AN: Wow. Why wouldn't the federal government agree to any settlement with her?
-SSC: The federal government retains law firms to represent it in bankruptcy court, allowing the law firms to have a certain amount of discretion as to how to proceed. As a result, some law firms are aggressive in the positions that they take.
-In the case of the woman in her 70s, the law firm attorneys didn't believe her when she said she had no assets and was on Social Security. But the law firm did not do an adequate investigation. I found her credible.
-'Harder to reach a settlement' on student loans
-AN: Under President Joe Biden's administration, it reportedly became easier for federal student loan holders to get their debt discharged in bankruptcy. What's the current situation like?
-SSC: There were attempts by the U.S. Department of Education to work out repayment plans for student loan borrowers who could not repay their debts. There was also the possibility that the Education Department would agree to forgive at least a portion of the student loans.
-However, once the Education Department was gutted in 2025, there were few, if any, employees who could approve the debt modifications through one of the offered programs. As a result, it has become harder to reach a settlement with the Department of Education.
-AN: In your book, you describe President Donald Trump's "big beautiful bill," which passed in July 2025, as an "attack" on student loan borrowers. How so? Do you expect the new law to drive up bankruptcy filings?
-SSC: The bill created unrealistic federal loan caps for students. As a result, if a student takes out a loan from a private financial institution that's not federally guaranteed, that loan will often be provided at a higher interest rate.
-Let's say the student needs a $300,000 loan to go to medical school. If the individual has a lower credit score, their interest rate may jump to 16%, leading to a payment of $5,017 per month over 10 years, or $302,040 in interest.
-These expenses are not sustainable for most individuals. The rate of bankruptcy filings will most likely increase.
-Many bankruptcy filers 'feel they have failed'
-AN: You write that medical debt is another major reason people need to file for bankruptcy. Can you say a little more about this?
-SSC: There were many individuals who appeared before me who had chronic illnesses. Chronic diseases are a problem because the person can only discharge the debt they owe at the beginning of the bankruptcy case. As with any chronic illness, the debt continues to mount day by day for years to come.
-Many individuals are traumatized when they file a bankruptcy case.Sarah Sharer CurleyFormer U.S. Bankruptcy Court judge
-AN: You write that the bankruptcy process is "tortuous" for most individuals. How so?
-SSC: Dramatic changes were made to the bankruptcy law in 2005. People are required to jump through many hoops to get relief now.
-There was no evidence to support certain beliefs that individuals were engaged in fraud or filing bankruptcy cases every few months. But the creditor lobby pushed to make the bankruptcy law more pro-creditor. The many forms that need to be filled out and the hearings that need to be attended usually keep the individual in a perpetual state of stress.
-AN: How does filing for bankruptcy affect people emotionally?
-SSC: Many individuals are traumatized when they file a bankruptcy case. They had believed if they just work harder, they could solve their debt problems. However, when they're about to lose their homes, their cars or their businesses, they turn to bankruptcy.
-Many see their inability to solve their financial problems as a moral failure. They feel they have failed.
-AN: What was it like for you, day after day, seeing people under the pressure of insurmountable debt?
-SSC: At times, at the end of the hearing, after I had rendered my decision, I would let the individual know that under the current law, I couldn't provide them with what they really needed. I told them that the law needed to be changed. We give a break to large financial institutions and corporations, and it's time that we do so for individuals, too.`,
-    bodyJa: `In Judge Sarah Sharer Curley's nearly three decades presiding over bankruptcy cases, some were especially painful to witness, she said — such as the 73-year-old woman who stood before her in 2012 with a student loan balance of more than $584,000.
-The debt dated back to the 1970s and had grown throughout the woman's public sector career, Curley writes in her new book, "The Price of Forgiveness: Debt, Bankruptcy, and the Future of Fairness in America." She had "never made a lot of money," Curley said, and by the time she sought debt relief, the woman was living in poverty, with Social Security as her only income. Even so, strict bankruptcy laws can make it nearly impossible to discharge student loans.
-Curley, the first woman appointed to the U.S. Bankruptcy Court for the District of Arizona, said it was a familiar story.
-"We allow the financial markets to take innumerable risks, yet we refuse to allow an individual to be forgiven for choosing to pursue an advanced degree," Curley wrote.
-Curley retired in 2014. CNBC spoke with her this month about her new book, in which she describes a legal system that often fails to give indebted Americans the second chance it promises. In 2025, more than half a million personal bankruptcy cases were filed — an almost 50% rise from three years prior, according to the Administrative Office of the U.S. Courts.
-The interview has been edited and condensed for clarity.
-'People are subject to many unexpected events'
-Annie Nova: What do people get most wrong about those who file for bankruptcy?
-Sarah Sharer Curley: People assume that individuals who file for bankruptcy are committing fraud, trying to hide assets and cheating creditors. Nothing could be further from the truth.
-AN: And so why did people end up in your court?
-SSC: People are subject to many unexpected events. People can't always plan adequately for the next earthquake, hurricane or natural disaster. But usually, it's someone losing a job. It could also be an illness that becomes chronic with medical costs that increase dramatically over a short period.
-Student loans is another area of concern. Universities are charging more for basic degrees, as well as graduate programs. The cost of medical school over four years can be more than $400,000.
-AN: You write that many people who file for bankruptcy are not unemployed; they're just living paycheck to paycheck. What does this tell us about our economy and labor market?
-SSC: Despite the increase in wages that most economists tout, many people are working as independent contractors. They receive few benefits and have few rights. The company is not responsible to them.
-Other individuals may be working for a company but find the wages or benefits are insufficient. Many people are forced to work for several employers to meet their needs on a weekly basis.
-Although unemployment may be low, the quality of the employment is also low.
-'I found her credible'
-AN: The story in your book about the woman in her 70s with the six-figure federal student loan balance really stood out to me. What happened in her case?
-SSC: The federal government would not agree to any settlement. I was the one who would have to decide whether her debt would be discharged or not. But the case law I had to follow was not in favor of discharging student loan debts. So, I didn't have a lot of flexibility in granting her relief.
-However, I gave her credit for seven years of public service helping out troubled teens in San Diego County, since people who are in certain types of public service only have a 10-year repayment period. That meant that she'd need to repay the debt for just three more years.
-AN: Wow. Why wouldn't the federal government agree to any settlement with her?
-SSC: The federal government retains law firms to represent it in bankruptcy court, allowing the law firms to have a certain amount of discretion as to how to proceed. As a result, some law firms are aggressive in the positions that they take.
-In the case of the woman in her 70s, the law firm attorneys didn't believe her when she said she had no assets and was on Social Security. But the law firm did not do an adequate investigation. I found her credible.
-'Harder to reach a settlement' on student loans
-AN: Under President Joe Biden's administration, it reportedly became easier for federal student loan holders to get their debt discharged in bankruptcy. What's the current situation like?
-SSC: There were attempts by the U.S. Department of Education to work out repayment plans for student loan borrowers who could not repay their debts. There was also the possibility that the Education Department would agree to forgive at least a portion of the student loans.
-However, once the Education Department was gutted in 2025, there were few, if any, employees who could approve the debt modifications through one of the offered programs. As a result, it has become harder to reach a settlement with the Department of Education.
-AN: In your book, you describe President Donald Trump's "big beautiful bill," which passed in July 2025, as an "attack" on student loan borrowers. How so? Do you expect the new law to drive up bankruptcy filings?
-SSC: The bill created unrealistic federal loan caps for students. As a result, if a student takes out a loan from a private financial institution that's not federally guaranteed, that loan will often be provided at a higher interest rate.
-Let's say the student needs a $300,000 loan to go to medical school. If the individual has a lower credit score, their interest rate may jump to 16%, leading to a payment of $5,017 per month over 10 years, or $302,040 in interest.
-These expenses are not sustainable for most individuals. The rate of bankruptcy filings will most likely increase.
-Many bankruptcy filers 'feel they have failed'
-AN: You write that medical debt is another major reason people need to file for bankruptcy. Can you say a little more about this?
-SSC: There were many individuals who appeared before me who had chronic illnesses. Chronic diseases are a problem because the person can only discharge the debt they owe at the beginning of the bankruptcy case. As with any chronic illness, the debt continues to mount day by day for years to come.
-Many individuals are traumatized when they file a bankruptcy case.Sarah Sharer CurleyFormer U.S. Bankruptcy Court judge
-AN: You write that the bankruptcy process is "tortuous" for most individuals. How so?
-SSC: Dramatic changes were made to the bankruptcy law in 2005. People are required to jump through many hoops to get relief now.
-There was no evidence to support certain beliefs that individuals were engaged in fraud or filing bankruptcy cases every few months. But the creditor lobby pushed to make the bankruptcy law more pro-creditor. The many forms that need to be filled out and the hearings that need to be attended usually keep the individual in a perpetual state of stress.
-AN: How does filing for bankruptcy affect people emotionally?
-SSC: Many individuals are traumatized when they file a bankruptcy case. They had believed if they just work harder, they could solve their debt problems. However, when they're about to lose their homes, their cars or their businesses, they turn to bankruptcy.
-Many see their inability to solve their financial problems as a moral failure. They feel they have failed.
-AN: What was it like for you, day after day, seeing people under the pressure of insurmountable debt?
-SSC: At times, at the end of the hearing, after I had rendered my decision, I would let the individual know that under the current law, I couldn't provide them with what they really needed. I told them that the law needed to be changed. We give a break to large financial institutions and corporations, and it's time that we do so for individuals, too.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
-    publishedAt: "2026-10-17T13:30:01+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "meet-the-home-buyers-totally-unfazed-by-55cf2c72",
-    title: "Meet the home buyers totally unfazed by 7% mortgage rates",
-    titleJa: "Meet the home buyers totally unfazed by 7% mortgage rates",
-    summaryJa: "Individual investors and second-home buyers accounted for 1 in 5 home purchases in September — the highest share in a little over a year.",
-    bodyOriginal: `Individual investors and second-home buyers accounted for 1 in 5 home purchases in September — the highest share in a little over a year.`,
-    bodyJa: `Individual investors and second-home buyers accounted for 1 in 5 home purchases in September — the highest share in a little over a year.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
-    publishedAt: "2026-10-17T13:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-54886096",
-    readTime: 2,
-  },
-  {
-    id: "berkshire-shares-buck-market-sell-off-ra-83afbc2d",
-    title: "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
-    titleJa: "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
-    summaryJa: "Berkshire Hathaway shares are at their highest level since Warren Buffett told shareholders at the May 2025 annual meeting he planned to step down as CEO at the end of that year.",
-    bodyOriginal: `(This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway. You can sign up here to receive it every Friday evening in your inbox.)
-Berkshire Hathaway shares closed Friday at their highest level since Warren Buffett told shareholders at the May 2025 annual meeting he planned to step down as CEO at the end of that year.
-The day before that Saturday surprise, both the Class A and Class B shares had closed at all-time highs.
-Over the next three months, they lost more than 14% of their value as investors worried a "Buffett premium" was dissolving.
-It's been more than a year since their post-meeting low in August of 2025, and the recovery has not been a straight line, but BRK.A ended Friday at $798,000, just 1.4% below its all-time closing high of $809,350.
-The B shares finished at $532.02, also 1.4% under their all-time closing high of $539.80.
-A loss Thursday broke a 10-session winning streak that added 5% to Berkshire's stock prices but they rebounded with gains of more than 1% Friday.
-CNBC Pro thinks investors may be happy Berkshire is spending some of its big cash pile under CEO Greg Abel, with $4.5 billion of buybacks in Q2, investments in Alphabet, Taylor Morrison Home, Lennar, (although there haven't been any buys of that stock since October 2), and now, Bending Spoons. (More on that below).
-It also notes Keefe, Bruyette & Woods analyst Meyer Shields believes higher short-term interest rates are helping to lift the shares.
-Berkshire still has roughly $360 billion in cash, "a good symbol of continued patience under the new CEO," and those higher rates mean "they'll be making more money" on that money.
-In addition, its insurance operations have benefited from a quiet hurricane season so far.
-Higher oil prices are good for its $19 billion stake in Chevron, which closed Friday at an all-time high after gaining almost 36% since the start of July. Berkshire's energy-related subsidiaries are also getting a tailwind.
-And recently, Berkshire may be getting a boost as investors shift away from high-flying AI and tech stocks and turn to "old" economy names.
-For example, Coca-Cola, a long-time Buffett favorite and now a $37.6 billion holding, also closed Friday at an all-time high, perhaps with some extra help from KFC's switch from Pepsi to Coke. It's up 34% year-to-date.
-Berkshire's position has gained $2.4 billion since last Friday, overtaking Alphabet to become the third largest stake in its portfolio. (See the full top 10 below.)
-Berkshire's B shares have cut their June 1 deficit of 17.5 percentage points versus the S&P 500 by almost two-thirds.
-They are now 6.0 percentage points behind the benchmark for the year.
-Atypical bet on 'buzzy' Italian tech company is big win ... so far
-Berkshire Hathaway's surprising bet of close to $1 billion on Bending Spoons is paying off big, at least in the short term.
-The Italian company, which began trading on Nasdaq in the U.S. in July, buys cast-off internet names like AOL, Evernote, and Vimeo, uses AI to cut costs, and deploys the savings to make more acquisitions.
-In late July, CNBC Pro said, "Wall Street is buzzing," and "analysts ... see big gains ahead."
-The tech stock is decidedly not a typical Berkshire value play, trading at a large multiple to its earnings.
-But before Wall Street's open Wednesday morning, a Bending Spoons news release revealed Berkshire is investing a "further" $330 million in the company by purchasing 10 million newly issued shares at $33 per share in a private placement.
-That was already an almost 12% discount from Tuesday's closing price of $37.86 and the news sent Bending Spoons shares even higher.
-They hit an intraday high of $58.56 before closing up 41% at $53.46 on Wednesday.
-Bending Spoons shares are up 24.3% over the three trading days since the revelation, after giving up a chunk of their earlier gains in Friday's tech sell-off to end at $47.07.
-That's a solid 42.6% higher than Berkshire's $33 purchase price for a profit, on paper, of nearly $141 million.
-But what's that "further" in Bending Spoon's statement?
-The release also disclosed, apparently for the first time, that Berkshire invested $600 million at Bending Spoon's IPO more than three months ago.
-The release doesn't specify how many shares Berkshire bought in July, and Bending Spoons wouldn't confirm my math, but assuming Berkshire paid the $29 per share IPO price, that initial purchase would have been almost 20.7 million shares.
-That puts Berkshire's holding now at close to 30.7 million shares, which would be worth more than $1.4 billion at Friday's close, a gain of 55.3% for its overall investment of $930 million.
-Bending Spoon's release also says the "new investment brings Berkshire Hathaway's ownership to 4%."
-The company told me in an email it hasn't "specifically disclosed" how many outstanding shares it has now, "but we had 635 million fully diluted weighted average shares outstanding in Q2, we issued 34 million shares as part of the IPO, and we will be issuing an additional 10 million as part of this transaction."
-Using those numbers, Berkshire's presumed 30.7 million shares are a 4.5% stake, and that's what I've put in the Berkshire Portfolio Tracker for now.
-We may learn more next month about exactly how many shares Berkshire bought in the IPO when its portfolio snapshot as of September 30 is due to be disclosed.
-Another unknown: who at Berkshire made the call to take a stake in Bending Spoons.
-Bending Spoons CEO and Co-Founder Luca Ferrari shares Wall Street's enthusiasm about Berkshire's investments, saying in the news release the Omaha company "has been among the finest and most respected capital allocators in the world, and is a longstanding inspiration for Bending Spoons."
-Morningstar's Greggory Warren (who was one of the designated analyst questioners at Berkshire shareholders meetings from 2014 to 2019) writes the Bending Spoons buy, along with Berkshire's now $36 billion stake in Alphabet, show "the firm is finally moving out of its comfort zone to find places to put capital to work, which should be viewed as a positive for long-term investors."
-At Barron's, Andrew Bary says, "Many Berkshire holders would like to see the company invest more heavily in stocks given the company's $350 billion-plus in cash, but Bending Spoons was a surprise" given its high valuation.
-BUFFETT & BERKSHIRE AROUND THE INTERNET
-Some links may require a subscription:
-- Bloomberg on Yahoo Finance: JPMorgan's Combs Directs $5 Billion in Spending Since Joining
-HIGHLIGHTS FROM CNBC'S BUFFETT ARCHIVE
-'I am one-quarter Coca-Cola' (2015)
-Warren Buffett defends Coca-Cola, a big and long-time Berkshire Hathaway holding, against health concerns over sugary beverages.
-WARREN BUFFETT: Yeah well — people have been drinking Coca-Cola since 1886, so I imagine that there's been some —
-I don't know of any study that's been made on the lifetime of heavy users of Coca-Cola versus people who drink nothing but water.
-But speaking for myself, I'm 84, literally one-quarter of all the calories I've consumed in the last 30 years have been Coca-Cola. And I don't see how anybody can feel any better than I feel.
-I am one-quarter Coca-Cola, and I can tell you, I haven't missed a day of work, you know — since I had the prostate cancer — radiation — three years ago. And I don't think the prostate cancer was caused (laughs) by Coca-Cola.
-So — I — and all my friends drink it like crazy.
-So there's 1.9 billion eight-ounce servings of Coca-Cola products sold around the world today, and there will be more than 1.9 billion a year from now, and more than that five years from now, and more than that ten years from now.
-And that's been true. And some people will like other things, and — and if they like broccoli and Brussels sprouts, God bless them, you know, but don't invite me for dinner. (Laughter)
-BERKSHIRE STOCK WATCH
-Four weeks
-Twelve months
-BRK.A stock price: $798,000.00
-BRK.B stock price: $532.02
-BRK.B P/E (TTM): 13.38
-Berkshire market capitalization: $1,138,885,966,355
-Berkshire Cash as of June 30: $365.5 billion (Down 8.0% from March 31)
-Excluding Rail Cash and Subtracting T-Bills Payable: $359.2 billion (Down 3.8% from March 31)
-Berkshire repurchased $4.5 billion of its shares in Q2 2026.
-BERKSHIRE'S TOP EQUITY HOLDINGS - Oct. 16, 2026
-Berkshire's top holdings of disclosed publicly traded stocks in the U.S. and Japan, by market value, based on the latest closing prices.
-Holdings are as of June 30, 2026, as reported in Berkshire Hathaway's 13F filing on August 14, 2026, except for:
-- Mitsubishi, which is as of April 30, 2026
-The full list of holdings and current market values is available from CNBC.com's Berkshire Hathaway Portfolio Tracker.
-QUESTIONS OR COMMENTS
-Please send any questions or comments about the newsletter to me at alex.crippen@cnbc.com. (Sorry, but we don't forward questions or comments to Buffett himself.)
-If you aren't already subscribed to this newsletter, you can sign up here.
-Also, Buffett's annual letters to shareholders are highly recommended reading. There are collected here on Berkshire's website.
--- Alex Crippen, Editor, Warren Buffett Watch`,
-    bodyJa: `(This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway. You can sign up here to receive it every Friday evening in your inbox.)
-Berkshire Hathaway shares closed Friday at their highest level since Warren Buffett told shareholders at the May 2025 annual meeting he planned to step down as CEO at the end of that year.
-The day before that Saturday surprise, both the Class A and Class B shares had closed at all-time highs.
-Over the next three months, they lost more than 14% of their value as investors worried a "Buffett premium" was dissolving.
-It's been more than a year since their post-meeting low in August of 2025, and the recovery has not been a straight line, but BRK.A ended Friday at $798,000, just 1.4% below its all-time closing high of $809,350.
-The B shares finished at $532.02, also 1.4% under their all-time closing high of $539.80.
-A loss Thursday broke a 10-session winning streak that added 5% to Berkshire's stock prices but they rebounded with gains of more than 1% Friday.
-CNBC Pro thinks investors may be happy Berkshire is spending some of its big cash pile under CEO Greg Abel, with $4.5 billion of buybacks in Q2, investments in Alphabet, Taylor Morrison Home, Lennar, (although there haven't been any buys of that stock since October 2), and now, Bending Spoons. (More on that below).
-It also notes Keefe, Bruyette & Woods analyst Meyer Shields believes higher short-term interest rates are helping to lift the shares.
-Berkshire still has roughly $360 billion in cash, "a good symbol of continued patience under the new CEO," and those higher rates mean "they'll be making more money" on that money.
-In addition, its insurance operations have benefited from a quiet hurricane season so far.
-Higher oil prices are good for its $19 billion stake in Chevron, which closed Friday at an all-time high after gaining almost 36% since the start of July. Berkshire's energy-related subsidiaries are also getting a tailwind.
-And recently, Berkshire may be getting a boost as investors shift away from high-flying AI and tech stocks and turn to "old" economy names.
-For example, Coca-Cola, a long-time Buffett favorite and now a $37.6 billion holding, also closed Friday at an all-time high, perhaps with some extra help from KFC's switch from Pepsi to Coke. It's up 34% year-to-date.
-Berkshire's position has gained $2.4 billion since last Friday, overtaking Alphabet to become the third largest stake in its portfolio. (See the full top 10 below.)
-Berkshire's B shares have cut their June 1 deficit of 17.5 percentage points versus the S&P 500 by almost two-thirds.
-They are now 6.0 percentage points behind the benchmark for the year.
-Atypical bet on 'buzzy' Italian tech company is big win ... so far
-Berkshire Hathaway's surprising bet of close to $1 billion on Bending Spoons is paying off big, at least in the short term.
-The Italian company, which began trading on Nasdaq in the U.S. in July, buys cast-off internet names like AOL, Evernote, and Vimeo, uses AI to cut costs, and deploys the savings to make more acquisitions.
-In late July, CNBC Pro said, "Wall Street is buzzing," and "analysts ... see big gains ahead."
-The tech stock is decidedly not a typical Berkshire value play, trading at a large multiple to its earnings.
-But before Wall Street's open Wednesday morning, a Bending Spoons news release revealed Berkshire is investing a "further" $330 million in the company by purchasing 10 million newly issued shares at $33 per share in a private placement.
-That was already an almost 12% discount from Tuesday's closing price of $37.86 and the news sent Bending Spoons shares even higher.
-They hit an intraday high of $58.56 before closing up 41% at $53.46 on Wednesday.
-Bending Spoons shares are up 24.3% over the three trading days since the revelation, after giving up a chunk of their earlier gains in Friday's tech sell-off to end at $47.07.
-That's a solid 42.6% higher than Berkshire's $33 purchase price for a profit, on paper, of nearly $141 million.
-But what's that "further" in Bending Spoon's statement?
-The release also disclosed, apparently for the first time, that Berkshire invested $600 million at Bending Spoon's IPO more than three months ago.
-The release doesn't specify how many shares Berkshire bought in July, and Bending Spoons wouldn't confirm my math, but assuming Berkshire paid the $29 per share IPO price, that initial purchase would have been almost 20.7 million shares.
-That puts Berkshire's holding now at close to 30.7 million shares, which would be worth more than $1.4 billion at Friday's close, a gain of 55.3% for its overall investment of $930 million.
-Bending Spoon's release also says the "new investment brings Berkshire Hathaway's ownership to 4%."
-The company told me in an email it hasn't "specifically disclosed" how many outstanding shares it has now, "but we had 635 million fully diluted weighted average shares outstanding in Q2, we issued 34 million shares as part of the IPO, and we will be issuing an additional 10 million as part of this transaction."
-Using those numbers, Berkshire's presumed 30.7 million shares are a 4.5% stake, and that's what I've put in the Berkshire Portfolio Tracker for now.
-We may learn more next month about exactly how many shares Berkshire bought in the IPO when its portfolio snapshot as of September 30 is due to be disclosed.
-Another unknown: who at Berkshire made the call to take a stake in Bending Spoons.
-Bending Spoons CEO and Co-Founder Luca Ferrari shares Wall Street's enthusiasm about Berkshire's investments, saying in the news release the Omaha company "has been among the finest and most respected capital allocators in the world, and is a longstanding inspiration for Bending Spoons."
-Morningstar's Greggory Warren (who was one of the designated analyst questioners at Berkshire shareholders meetings from 2014 to 2019) writes the Bending Spoons buy, along with Berkshire's now $36 billion stake in Alphabet, show "the firm is finally moving out of its comfort zone to find places to put capital to work, which should be viewed as a positive for long-term investors."
-At Barron's, Andrew Bary says, "Many Berkshire holders would like to see the company invest more heavily in stocks given the company's $350 billion-plus in cash, but Bending Spoons was a surprise" given its high valuation.
-BUFFETT & BERKSHIRE AROUND THE INTERNET
-Some links may require a subscription:
-- Bloomberg on Yahoo Finance: JPMorgan's Combs Directs $5 Billion in Spending Since Joining
-HIGHLIGHTS FROM CNBC'S BUFFETT ARCHIVE
-'I am one-quarter Coca-Cola' (2015)
-Warren Buffett defends Coca-Cola, a big and long-time Berkshire Hathaway holding, against health concerns over sugary beverages.
-WARREN BUFFETT: Yeah well — people have been drinking Coca-Cola since 1886, so I imagine that there's been some —
-I don't know of any study that's been made on the lifetime of heavy users of Coca-Cola versus people who drink nothing but water.
-But speaking for myself, I'm 84, literally one-quarter of all the calories I've consumed in the last 30 years have been Coca-Cola. And I don't see how anybody can feel any better than I feel.
-I am one-quarter Coca-Cola, and I can tell you, I haven't missed a day of work, you know — since I had the prostate cancer — radiation — three years ago. And I don't think the prostate cancer was caused (laughs) by Coca-Cola.
-So — I — and all my friends drink it like crazy.
-So there's 1.9 billion eight-ounce servings of Coca-Cola products sold around the world today, and there will be more than 1.9 billion a year from now, and more than that five years from now, and more than that ten years from now.
-And that's been true. And some people will like other things, and — and if they like broccoli and Brussels sprouts, God bless them, you know, but don't invite me for dinner. (Laughter)
-BERKSHIRE STOCK WATCH
-Four weeks
-Twelve months
-BRK.A stock price: $798,000.00
-BRK.B stock price: $532.02
-BRK.B P/E (TTM): 13.38
-Berkshire market capitalization: $1,138,885,966,355
-Berkshire Cash as of June 30: $365.5 billion (Down 8.0% from March 31)
-Excluding Rail Cash and Subtracting T-Bills Payable: $359.2 billion (Down 3.8% from March 31)
-Berkshire repurchased $4.5 billion of its shares in Q2 2026.
-BERKSHIRE'S TOP EQUITY HOLDINGS - Oct. 16, 2026
-Berkshire's top holdings of disclosed publicly traded stocks in the U.S. and Japan, by market value, based on the latest closing prices.
-Holdings are as of June 30, 2026, as reported in Berkshire Hathaway's 13F filing on August 14, 2026, except for:
-- Mitsubishi, which is as of April 30, 2026
-The full list of holdings and current market values is available from CNBC.com's Berkshire Hathaway Portfolio Tracker.
-QUESTIONS OR COMMENTS
-Please send any questions or comments about the newsletter to me at alex.crippen@cnbc.com. (Sorry, but we don't forward questions or comments to Buffett himself.)
-If you aren't already subscribed to this newsletter, you can sign up here.
-Also, Buffett's annual letters to shareholders are highly recommended reading. There are collected here on Berkshire's website.
--- Alex Crippen, Editor, Warren Buffett Watch`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
-    publishedAt: "2026-10-17T12:46:21+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "trump-waives-broad-new-russia-sanctions-ced506a3",
-    title: "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
-    titleJa: "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
-    summaryJa: "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
-    bodyOriginal: `President Donald Trump signed an executive order late Friday waiving parts of a recently enacted package of sanctions aimed at curbing Russia's ability to prosecute its war against Ukraine.
-"I have submitted to the Congress a certification that the issuance of such a waiver is in the national interests of the United States," Trump wrote in Friday's order.
-The House passed the Russia sanctions bill on Sept. 16, and Trump signed it into law two days later. The bill was introduced over a year ago, and its primary backer was the late Lindsey Graham, a veteran Republican senator who represented South Carolina.
-Titled the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, the legislation targeted Russia's economy, intending to penalize the country over its continued full-scale invasion of Ukraine.
-The act required the president to increase duties on all Russian goods imported into the U.S. by up to 500% no later than 30 days after enactment. It also required Trump to impose tariffs of up to 100% on countries including China and India that are among the top five purchasers of Russian crude oil or gas.
-Trump's latest order waives these two parts of the Graham Act and comes two days before the law's implementation deadline. However, the order preserves existing sanctions on Russia under earlier executive orders.
-The law could also sanction Russian leaders, officials, and financial institutions, and expand sanctions on Iran.
-Oil sales revenue is critical to funding Russia's war effort.
-The move also comes a week after the Trump administration temporarily waived sanctions on Russian diesel exports through April 2027 to ease a supply crunch caused by the war in Iran.
-High fuel prices are a sensitive issue for voters ahead of midterm elections on Nov. 3. Trump's Republican Party holds a narrow majority in both chambers of Congress.
-A 'historic moment'
-"The suspension of some of the provisions of the Graham Act marks an important and truly historic moment," Kirill Dmitriev, Russian President Vladimir Putin's economy envoy, said in a post on X.
-"The U.S.-Russia economic dialogue and peacemaking efforts will continue," Dmitriev added.
-But Trump's opponents have criticized the move.
-Sen. Richard Blumenthal, a Connecticut Democrat who also drafted the Graham Act, condemned the latest waiver.
-"Donald Trump confirms again that he stands on the side of a bloodthirsty thug & the enablers of Russia's war machine & against the majority of Americans, their representatives in both houses of Congress, & our European allies," Blumenthal said in an X post.
-Speaking to reporters in Brussels on Friday, Ukrainian President Volodymyr Zelenskyy warned that the U.S.-Russia diesel agreement could set a precedent for further sanctions relief, while highlighting Ukraine's continued reliance on U.S. military technology and intelligence despite efforts to develop alternatives.
-"Sanctions will be lifted after gas," Zelenskyy said. "They will be lifted on something else. Then this will come to the banking system, certain individuals, chemical industry."
-Earlier this week, reports emerged that Ukraine has restricted SpaceX's Starlink military application, Starshield. SpaceX CEO Elon Musk said in a post on X that the U.S. government and president were ultimately responsible for any curbs on the network.`,
-    bodyJa: `President Donald Trump signed an executive order late Friday waiving parts of a recently enacted package of sanctions aimed at curbing Russia's ability to prosecute its war against Ukraine.
-"I have submitted to the Congress a certification that the issuance of such a waiver is in the national interests of the United States," Trump wrote in Friday's order.
-The House passed the Russia sanctions bill on Sept. 16, and Trump signed it into law two days later. The bill was introduced over a year ago, and its primary backer was the late Lindsey Graham, a veteran Republican senator who represented South Carolina.
-Titled the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026, the legislation targeted Russia's economy, intending to penalize the country over its continued full-scale invasion of Ukraine.
-The act required the president to increase duties on all Russian goods imported into the U.S. by up to 500% no later than 30 days after enactment. It also required Trump to impose tariffs of up to 100% on countries including China and India that are among the top five purchasers of Russian crude oil or gas.
-Trump's latest order waives these two parts of the Graham Act and comes two days before the law's implementation deadline. However, the order preserves existing sanctions on Russia under earlier executive orders.
-The law could also sanction Russian leaders, officials, and financial institutions, and expand sanctions on Iran.
-Oil sales revenue is critical to funding Russia's war effort.
-The move also comes a week after the Trump administration temporarily waived sanctions on Russian diesel exports through April 2027 to ease a supply crunch caused by the war in Iran.
-High fuel prices are a sensitive issue for voters ahead of midterm elections on Nov. 3. Trump's Republican Party holds a narrow majority in both chambers of Congress.
-A 'historic moment'
-"The suspension of some of the provisions of the Graham Act marks an important and truly historic moment," Kirill Dmitriev, Russian President Vladimir Putin's economy envoy, said in a post on X.
-"The U.S.-Russia economic dialogue and peacemaking efforts will continue," Dmitriev added.
-But Trump's opponents have criticized the move.
-Sen. Richard Blumenthal, a Connecticut Democrat who also drafted the Graham Act, condemned the latest waiver.
-"Donald Trump confirms again that he stands on the side of a bloodthirsty thug & the enablers of Russia's war machine & against the majority of Americans, their representatives in both houses of Congress, & our European allies," Blumenthal said in an X post.
-Speaking to reporters in Brussels on Friday, Ukrainian President Volodymyr Zelenskyy warned that the U.S.-Russia diesel agreement could set a precedent for further sanctions relief, while highlighting Ukraine's continued reliance on U.S. military technology and intelligence despite efforts to develop alternatives.
-"Sanctions will be lifted after gas," Zelenskyy said. "They will be lifted on something else. Then this will come to the banking system, certain individuals, chemical industry."
-Earlier this week, reports emerged that Ukraine has restricted SpaceX's Starlink military application, Starshield. SpaceX CEO Elon Musk said in a post on X that the U.S. government and president were ultimately responsible for any curbs on the network.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
-    publishedAt: "2026-10-17T10:20:44+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 8,
-  },
-  {
-    id: "oregon-teacher-fought-school-attacker-be-b5023ce6",
-    title: "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-    titleJa: "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-    summaryJa: "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-    bodyOriginal: `Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'
-- Published
-Some readers may find this article distressing.
-A female teacher in the US state of Oregon tackled a teenage shooter who entered her classroom and tried to wrestle the gun from his grasp, police have said.
-The teacher, who has not been named, threw her mobile phone before trying to disarm the 16-year-old on the floor of a classroom at Silver Rail Elementary in the city of Bend.
-The attacker killed three children and a teacher after shooting his way into the building on Thursday.
-He was shot dead by a father with two daughters at the school, who was driving past as the attack started to unfold and, armed with a pistol, ran in to confront the suspect.
-Police said the attacker used to be a student at the school. His motive remains unclear.
-He had been armed with about 44 more rounds of shotgun ammunition when he was stopped, police said. He fired as many as 15 rounds in the class.
-"To the people who showed courage in the face of such violence and intervened to prevent this tragedy from being any worse, we owe you a debt of gratitude," Bend Police Chief Mike Krantz said.
-Police used a news conference on Friday to identify two of the four victims of the school shooting. They were five-year-old Rhoam Summer and 25-year-old teacher Meghan Lambert.
-Lambert's family said in a statement shared by the police that her goal was to be a teacher in the district in which she grew up and that she was "compassionate and had a huge heart".
-"She always fought for the underdog and those with special needs," they said.
-Bryan Jolly, Summer's grandfather, said the family was devastated by his death.
-"The whole thing is senseless, and a shock," he told the New York Times, saying his grandson was "was very bright and very mischievous and very fun-loving, and totally without fear".
-The families of the two other students who were killed, an eight-year-old and 11-year-old, did not wish to have them publicly identified yet, police said.
-Two others were injured in the attack. Another teacher, a 54-year-old, was still being treated at hospital, and a seven-year-old student, who was in serious but stable condition.
-Krantz said the heroic actions of both the teacher and the father who ran inside the school had saved lives.
-He said the teacher who wrestled with the gunman had not been hurt but "almost certainly helped prevent more bloodshed".
-Krantz identified the suspect as 16-year-old Griffin J John II, who had been a special educational needs student at the school.
-A search warrant has been executed at his home and a search is ongoing, the police chief said.
-Police believe the suspect travelled to the elementary school on foot, but they are still investigating his exact movements and how he acquired the gun.
-Officials did not confirm the name of the father who intervened and fatally shot the suspect.
-But Kaylub Giamanco's family has identified him to US media as the person who sprang into action.
-The 36-year-old carpenter had just finished lunch and was on his way home when he passed the school, his brother told NBC News. He saw the suspect open fire on a vehicle outside the school and then shoot through a window to gain entry.
-Police said he had a legally concealed .40 calibre in his vehicle, while his brother said he grabbed the pistol "and decided to go in after" the suspect. Police say he fired at the suspect "multiple times", killing him.
-Giamanco's mother, Kenda Freeman, who lives in Sacramento, California, told a local CBS station that her son had called her moments after the shooting and that he was "traumatised".
-"He said 'a man went into my daughter's school'," Freeman recalled, pausing as she started to tear up. "And, um, shot kids. And he said, 'and I looked at him point blank, and I shot and killed him, mum'."
-She added: "I told him he saved a lot of lives, and he said, 'mum, I couldn't save them all'."
-US President Donald Trump praised the bystander on Friday, calling him a "great hero" and telling reporters that the situation could have become "much worse".
-"It's a terrible thing, but thank goodness for a man that had a gun and knew how to use it," he said.
-Without naming the bystander, Oregon Governor Tina Kotek acknowledged the man's heroic actions as having stopped further loss of life, but noted they "carry a heavy emotional burden and I just want you to know that my thoughts are with you as well".
-Additional reporting by Kayla Epstein
-- Published1 day ago`,
-    bodyJa: `Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'
-- Published
-Some readers may find this article distressing.
-A female teacher in the US state of Oregon tackled a teenage shooter who entered her classroom and tried to wrestle the gun from his grasp, police have said.
-The teacher, who has not been named, threw her mobile phone before trying to disarm the 16-year-old on the floor of a classroom at Silver Rail Elementary in the city of Bend.
-The attacker killed three children and a teacher after shooting his way into the building on Thursday.
-He was shot dead by a father with two daughters at the school, who was driving past as the attack started to unfold and, armed with a pistol, ran in to confront the suspect.
-Police said the attacker used to be a student at the school. His motive remains unclear.
-He had been armed with about 44 more rounds of shotgun ammunition when he was stopped, police said. He fired as many as 15 rounds in the class.
-"To the people who showed courage in the face of such violence and intervened to prevent this tragedy from being any worse, we owe you a debt of gratitude," Bend Police Chief Mike Krantz said.
-Police used a news conference on Friday to identify two of the four victims of the school shooting. They were five-year-old Rhoam Summer and 25-year-old teacher Meghan Lambert.
-Lambert's family said in a statement shared by the police that her goal was to be a teacher in the district in which she grew up and that she was "compassionate and had a huge heart".
-"She always fought for the underdog and those with special needs," they said.
-Bryan Jolly, Summer's grandfather, said the family was devastated by his death.
-"The whole thing is senseless, and a shock," he told the New York Times, saying his grandson was "was very bright and very mischievous and very fun-loving, and totally without fear".
-The families of the two other students who were killed, an eight-year-old and 11-year-old, did not wish to have them publicly identified yet, police said.
-Two others were injured in the attack. Another teacher, a 54-year-old, was still being treated at hospital, and a seven-year-old student, who was in serious but stable condition.
-Krantz said the heroic actions of both the teacher and the father who ran inside the school had saved lives.
-He said the teacher who wrestled with the gunman had not been hurt but "almost certainly helped prevent more bloodshed".
-Krantz identified the suspect as 16-year-old Griffin J John II, who had been a special educational needs student at the school.
-A search warrant has been executed at his home and a search is ongoing, the police chief said.
-Police believe the suspect travelled to the elementary school on foot, but they are still investigating his exact movements and how he acquired the gun.
-Officials did not confirm the name of the father who intervened and fatally shot the suspect.
-But Kaylub Giamanco's family has identified him to US media as the person who sprang into action.
-The 36-year-old carpenter had just finished lunch and was on his way home when he passed the school, his brother told NBC News. He saw the suspect open fire on a vehicle outside the school and then shoot through a window to gain entry.
-Police said he had a legally concealed .40 calibre in his vehicle, while his brother said he grabbed the pistol "and decided to go in after" the suspect. Police say he fired at the suspect "multiple times", killing him.
-Giamanco's mother, Kenda Freeman, who lives in Sacramento, California, told a local CBS station that her son had called her moments after the shooting and that he was "traumatised".
-"He said 'a man went into my daughter's school'," Freeman recalled, pausing as she started to tear up. "And, um, shot kids. And he said, 'and I looked at him point blank, and I shot and killed him, mum'."
-She added: "I told him he saved a lot of lives, and he said, 'mum, I couldn't save them all'."
-US President Donald Trump praised the bystander on Friday, calling him a "great hero" and telling reporters that the situation could have become "much worse".
-"It's a terrible thing, but thank goodness for a man that had a gun and knew how to use it," he said.
-Without naming the bystander, Oregon Governor Tina Kotek acknowledged the man's heroic actions as having stopped further loss of life, but noted they "carry a heavy emotional burden and I just want you to know that my thoughts are with you as well".
-Additional reporting by Kayla Epstein
-- Published1 day ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-17T09:58:17+00:00",
-    category: "自動車",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg",
-    readTime: 10,
-  },
-  {
-    id: "trump-waives-several-russia-sanctions-as-75ef65a0",
-    title: "Trump waives several Russia sanctions as row with Zelensky intensifies",
-    titleJa: "Trump waives several Russia sanctions as row with Zelensky intensifies",
-    summaryJa: "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
-    bodyOriginal: `Trump waives several Russia sanctions as row with Zelensky intensifies
-- Published
-Donald Trump has blocked numerous sanctions on Russia two days before they were due to take effect, as a row with his Ukrainian counterpart Volodymyr Zelensky deepens.
-The sanctions were passed by the US Congress and signed into law by Trump in September.
-But the US president issued an executive order on Friday night saying that suspending some was in the US "national interest", prompting a backlash from US lawmakers. Zelensky said it was unfortunate the US has decided to "completely disregard" the sanctions.
-Relations between Washington and Kyiv frayed after the US struck a controversial deal to import Russian diesel. Ukraine then accused the Trump administration of withdrawing key military support.
-Trump and Zelensky have exchanged sharp words about one another. Ukraine's president declared it was nice to be among "real leaders" while addressing an EU summit, after Trump said Zelensky was "more difficult to deal with" than Russian President Vladimir Putin.
-The new US sanctions law took aim at Russia's economy, giving Trump broad powers to levy tariffs of up to 100% on imports from the top five purchasers of Russian oil and gas – most significantly China and India.
-It also included sanctions against senior Russian figures, including Putin, as well as Russian financial institutions and Moscow's so-called "shadow fleet" of vessels used to circumvent existing embargoes.
-Trump denies limiting Ukraine access to Starlink network
-- Published14 hours ago
-Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC
-- Published10 hours ago
-Many of these provisions have now been waived by Trump.
-Russian envoy Kirill Dmitriev called the waiver "an important and truly historic moment".
-Posting on X, he said the sanctions would have inflicted "serious damage" primarily on the US and global market, and that economic cooperation benefits both nations.
-Democrats including the Virginia Congressman Don Beyer have criticised the move, accusing Trump of capitulating to Moscow and turning his back on Kyiv and Zelensky.
-"Trump's latest surrender to Putin again betrays our Ukrainian partners and defies clear congressional intent of legislation designed to punish Russia for its illegal war of aggression," Beyer wrote on X.
-The move is likely to draw further anger from Ukraine, where Zelensky has long stressed the need for stringent sanctions to limit funding Russia can use in its war effort.
-Zelensky said on Saturday morning that the sanctions "could have helped enormously" and that the law was "supposed to impose truly effective pressure on Russia to bring this war to an end".
-He pointed to Russian overnight attacks on 15 Ukrainian energy facilities that had caused power cuts in several regions and said: "Russia is trying to cause a blackout in Ukraine – right before winter."
-Zelensky said was "important that everyone in America also sees what is really happening" on the ground.
-Trump was initially criticised by Zelensky and Ukraine's European allies for temporarily suspending some US sanctions to import Russian diesel in a bid to bring down US energy prices, which have skyrocketed during the Iran war.
-Trump has spent months grappling with the political consequences of the Middle East conflict, which has sent fuel costs soaring ahead of the US midterm elections. Rising inflation has soured Trump's standing with the American public.
-Zelensky suggested the deal was tantamount to the US investing in Russia's war effort.
-A few days later, Trump claimed that both Russia and Ukraine had agreed to an "energy ceasefire" to facilitate the export of Russian diesel.
-Both nations have been intensively striking one another's energy infrastructure. Kyiv says this is to limit revenue for Russia's war machine, while Moscow claims it only targets facilities used by the Ukrainian military.
-Zelensky initially expressed surprise at Trump's announcement, and said Kyiv would stop the strikes if Russia did the same. After three days which saw several fresh attacks from Russia, Kyiv resumed its strikes on Russian oil refineries.
-This prompted scathing condemnation from Trump, who called the strikes a "disgrace". Zelensky replied that he was "only standing up for Ukraine's interests".
-Concerns that Trump is siding with Russia have been heightened by disruption to a US-provided satellite system used by Ukraine.
-Last week Starlink suddenly and unexpectedly restricted the speed at which drones could fly while still maintaining internet connection. This disrupted some battlefield missions, Ukraine said, and hampered Kyiv's ability to protect itself from incoming Russian attacks.
-During the slowdown, Russia launched several deadly strikes on Ukraine, with residents and the government saying these came with no prior warning.
-Zelensky said on Friday that Starlink speeds had still not been fully restored.
-Trump has denied halting intelligence-sharing and deliberately slowing down Ukraine's Starlink network.
-Ukrainian authorities have confirmed that at least nine people have been killed and around 60 injured in Russian strikes across the country over the past 24 hours.
-They said an ambulance driver was killed and 20 others were injured in Russian strikes on the city of Kherson on Saturday morning.
-Russia's defence ministry said it had targeted industries linked to Ukraine's defence industry - including steel works, an electrical sub-station and a cargo vessel in the Black Sea.
-Additional reporting by Helen Sullivan
-Related topics
-- Published5 days ago
-- Published18 September`,
-    bodyJa: `Trump waives several Russia sanctions as row with Zelensky intensifies
-- Published
-Donald Trump has blocked numerous sanctions on Russia two days before they were due to take effect, as a row with his Ukrainian counterpart Volodymyr Zelensky deepens.
-The sanctions were passed by the US Congress and signed into law by Trump in September.
-But the US president issued an executive order on Friday night saying that suspending some was in the US "national interest", prompting a backlash from US lawmakers. Zelensky said it was unfortunate the US has decided to "completely disregard" the sanctions.
-Relations between Washington and Kyiv frayed after the US struck a controversial deal to import Russian diesel. Ukraine then accused the Trump administration of withdrawing key military support.
-Trump and Zelensky have exchanged sharp words about one another. Ukraine's president declared it was nice to be among "real leaders" while addressing an EU summit, after Trump said Zelensky was "more difficult to deal with" than Russian President Vladimir Putin.
-The new US sanctions law took aim at Russia's economy, giving Trump broad powers to levy tariffs of up to 100% on imports from the top five purchasers of Russian oil and gas – most significantly China and India.
-It also included sanctions against senior Russian figures, including Putin, as well as Russian financial institutions and Moscow's so-called "shadow fleet" of vessels used to circumvent existing embargoes.
-Trump denies limiting Ukraine access to Starlink network
-- Published14 hours ago
-Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC
-- Published10 hours ago
-Many of these provisions have now been waived by Trump.
-Russian envoy Kirill Dmitriev called the waiver "an important and truly historic moment".
-Posting on X, he said the sanctions would have inflicted "serious damage" primarily on the US and global market, and that economic cooperation benefits both nations.
-Democrats including the Virginia Congressman Don Beyer have criticised the move, accusing Trump of capitulating to Moscow and turning his back on Kyiv and Zelensky.
-"Trump's latest surrender to Putin again betrays our Ukrainian partners and defies clear congressional intent of legislation designed to punish Russia for its illegal war of aggression," Beyer wrote on X.
-The move is likely to draw further anger from Ukraine, where Zelensky has long stressed the need for stringent sanctions to limit funding Russia can use in its war effort.
-Zelensky said on Saturday morning that the sanctions "could have helped enormously" and that the law was "supposed to impose truly effective pressure on Russia to bring this war to an end".
-He pointed to Russian overnight attacks on 15 Ukrainian energy facilities that had caused power cuts in several regions and said: "Russia is trying to cause a blackout in Ukraine – right before winter."
-Zelensky said was "important that everyone in America also sees what is really happening" on the ground.
-Trump was initially criticised by Zelensky and Ukraine's European allies for temporarily suspending some US sanctions to import Russian diesel in a bid to bring down US energy prices, which have skyrocketed during the Iran war.
-Trump has spent months grappling with the political consequences of the Middle East conflict, which has sent fuel costs soaring ahead of the US midterm elections. Rising inflation has soured Trump's standing with the American public.
-Zelensky suggested the deal was tantamount to the US investing in Russia's war effort.
-A few days later, Trump claimed that both Russia and Ukraine had agreed to an "energy ceasefire" to facilitate the export of Russian diesel.
-Both nations have been intensively striking one another's energy infrastructure. Kyiv says this is to limit revenue for Russia's war machine, while Moscow claims it only targets facilities used by the Ukrainian military.
-Zelensky initially expressed surprise at Trump's announcement, and said Kyiv would stop the strikes if Russia did the same. After three days which saw several fresh attacks from Russia, Kyiv resumed its strikes on Russian oil refineries.
-This prompted scathing condemnation from Trump, who called the strikes a "disgrace". Zelensky replied that he was "only standing up for Ukraine's interests".
-Concerns that Trump is siding with Russia have been heightened by disruption to a US-provided satellite system used by Ukraine.
-Last week Starlink suddenly and unexpectedly restricted the speed at which drones could fly while still maintaining internet connection. This disrupted some battlefield missions, Ukraine said, and hampered Kyiv's ability to protect itself from incoming Russian attacks.
-During the slowdown, Russia launched several deadly strikes on Ukraine, with residents and the government saying these came with no prior warning.
-Zelensky said on Friday that Starlink speeds had still not been fully restored.
-Trump has denied halting intelligence-sharing and deliberately slowing down Ukraine's Starlink network.
-Ukrainian authorities have confirmed that at least nine people have been killed and around 60 injured in Russian strikes across the country over the past 24 hours.
-They said an ambulance driver was killed and 20 others were injured in Russian strikes on the city of Kherson on Saturday morning.
-Russia's defence ministry said it had targeted industries linked to Ukraine's defence industry - including steel works, an electrical sub-station and a cargo vessel in the Black Sea.
-Additional reporting by Helen Sullivan
-Related topics
-- Published5 days ago
-- Published18 September`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-17T09:42:13+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
-    readTime: 10,
   },
 ];
 
