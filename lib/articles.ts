@@ -15,6 +15,396 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "no-purchase-no-seats-starbucks-china-rol-2414e059",
+    title: "No purchase, no seats: Starbucks China rolls out new policy",
+    titleJa: "No purchase, no seats: Starbucks China rolls out new policy",
+    summaryJa: "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
+    bodyOriginal: `No purchase, no seats: Starbucks China rolls out new policy
+- Published
+Taking a seat at a Starbucks in China? Just make sure you're also ordering something there.
+A new policy by Starbucks China takes effect across all its 8,000 stores on Thursday, making it mandatory for people to purchase items if they want to sit in its cafes.
+Starbucks China said the move was part of efforts to improve the "in-store experience" for customers. The company is facing stiff competition from homegrown brands such as Luckin Coffee.
+Reports of the new policy circulated this week, along with social media videos of what appear to be "purchase to sit" signs in Starbucks stores.
+Many on Chinese social media welcomed the new policy.
+"Finally, there won't be peak periods where people are just sitting there not ordering anything, drinking Luckin coffee, playing games and yelling on the phone," reads one of the top-liked comment on Weibo. "Every time I walk around, there's nowhere to sit,"
+"There's nothing wrong with it. I'd feel awkward sitting there if I didn't make a purchase. I'd rather leave the seats for those who made purchases and need the seats," another Weibo user commented.
+Starbucks stores around the world have been wrestling with non-paying seat-hoggers and other undesirable behaviour from customers.
+Last month, a Starbucks store in Sichuan province sparked debate after video of its chained-up outdoor seats and tables were circulated on social media. It appeared to be an attempt to block people from sitting there without paying.
+In South Korea, Starbucks has told customers to stop bringing "bulky items" into their stores, after some patrons reportedly hogged seats with printers and desktop computers in tow.
+In North America, Starbucks reversed its open-door policy which for years allowed people to use their seats and toilets without buying anything, saying that it wanted to "prioritise" paying customers.
+Since opening its first store there in 1999, China has become Starbucks' second-largest market. But it has faced stiff competition in recent years from Luckin and other local brands that offer cheaper products.
+Luckin also offers a robust app-based ordering system that prioritises grab-and-go transactions, challenging Starbucks' model of a full cafe experience where people can sit down and enjoy their food and drinks.
+In 2023, Luckin overtook Starbucks as China's largest coffee chain.
+Starbucks said last year it would sell 60% stake of its business in China as part of a $4bn (£3.04bn) deal with investment firm Boyu Capital.
+In another statement on Wednesday, Starbucks China said it was planning to increase staffing and improve digital systems at its stores, among other investments to "ensure customers receive timely and warm service even during peak hours".`,
+    bodyJa: `No purchase, no seats: Starbucks China rolls out new policy
+- Published
+Taking a seat at a Starbucks in China? Just make sure you're also ordering something there.
+A new policy by Starbucks China takes effect across all its 8,000 stores on Thursday, making it mandatory for people to purchase items if they want to sit in its cafes.
+Starbucks China said the move was part of efforts to improve the "in-store experience" for customers. The company is facing stiff competition from homegrown brands such as Luckin Coffee.
+Reports of the new policy circulated this week, along with social media videos of what appear to be "purchase to sit" signs in Starbucks stores.
+Many on Chinese social media welcomed the new policy.
+"Finally, there won't be peak periods where people are just sitting there not ordering anything, drinking Luckin coffee, playing games and yelling on the phone," reads one of the top-liked comment on Weibo. "Every time I walk around, there's nowhere to sit,"
+"There's nothing wrong with it. I'd feel awkward sitting there if I didn't make a purchase. I'd rather leave the seats for those who made purchases and need the seats," another Weibo user commented.
+Starbucks stores around the world have been wrestling with non-paying seat-hoggers and other undesirable behaviour from customers.
+Last month, a Starbucks store in Sichuan province sparked debate after video of its chained-up outdoor seats and tables were circulated on social media. It appeared to be an attempt to block people from sitting there without paying.
+In South Korea, Starbucks has told customers to stop bringing "bulky items" into their stores, after some patrons reportedly hogged seats with printers and desktop computers in tow.
+In North America, Starbucks reversed its open-door policy which for years allowed people to use their seats and toilets without buying anything, saying that it wanted to "prioritise" paying customers.
+Since opening its first store there in 1999, China has become Starbucks' second-largest market. But it has faced stiff competition in recent years from Luckin and other local brands that offer cheaper products.
+Luckin also offers a robust app-based ordering system that prioritises grab-and-go transactions, challenging Starbucks' model of a full cafe experience where people can sit down and enjoy their food and drinks.
+In 2023, Luckin overtook Starbucks as China's largest coffee chain.
+Starbucks said last year it would sell 60% stake of its business in China as part of a $4bn (£3.04bn) deal with investment firm Boyu Capital.
+In another statement on Wednesday, Starbucks China said it was planning to increase staffing and improve digital systems at its stores, among other investments to "ensure customers receive timely and warm service even during peak hours".`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-22T04:02:29+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d52a/live/22a66e60-cdc5-11f1-ae0b-3f5d64e6a869.jpg",
+    readTime: 7,
+  },
+  {
+    id: "china-s-stock-market-sinks-into-bear-ter-e4355094",
+    title: "China's stock market sinks into bear territory as CSI 300 extends 10-week rout",
+    titleJa: "China's stock market sinks into bear territory as CSI 300 extends 10-week rout",
+    summaryJa: "China's benchmark CSI 300 index has entered bear-market territory, falling 20% from its June peak, as a prolonged selloff in mainland equities deepens.",
+    bodyOriginal: `China's benchmark CSI 300 index on Thursday entered bear-market territory, falling 20% from its June peak, as a prolonged sell-off in its equities deepens.
+The index, which tracks 300 of the largest stocks listed in Shanghai and Shenzhen, has declined for 10 consecutive weeks and is down 2.6% so far this week, underscoring sustained pressure on Chinese equities, data from LSEG showed. The index was more than 1% lower Thursday.
+Jordan Cvetanovski, chairman and CIO at Pella Funds, said China's equity market continues to face structural challenges, particularly as the world's second-largest economy grapples with the fallout from years of excess capacity and overinvestment.
+"I think China is really struggling with reining in the problems that they've had in the past from the overbuild of capacity and other things," Cvetanovski told CNBC, pointing to challenges facing companies even in globally competitive industries such as batteries — a sector where he still sees select opportunities in China.
+Chinese firms have been suffering from declining profit growth amid intense competition that has eroded margins and even invited the government to step in. In September, the country posted it's weakest growth in industrial profits this year.
+The world's second-largest economy also posted its slowest growth in over three years in the second quarter, pressured by a multiyear slowdown in the property sector and extended weakness in consumer demand.
+Shaun Rein, managing director at China Market Research Group, expects further selling pressure as geopolitical uncertainty, concerns over an artificial intelligence bubble and deteriorating consumer confidence weigh on investor sentiment.
+China's large base of retail investors could also exacerbate market volatility, Rein said, as individual investors are prone to exiting the market faster during periods of uncertainty.
+Unlike major markets such as the New York Stock Exchange, where retail investors account for about 20%-25% of trade volumes, China's retail investors drive 90% of daily trading, according to data provided by HSBC.
+"For Chinese, it's about wealth preservation," Rein said, noting that investors are increasingly favoring safer assets such as time deposits amid a weakening property market and sluggish labor conditions.
+While Rein expects increased pressure on markets, he said the sell-off has been excessive, pointing to resilient exports and signs of a recovery in property prices in China's largest cities.
+"It's a crisis of confidence right now not a crisis in the economy," he said, predicting a strong rebound in Chinese equities in 2027.
+Daniel Gerard, senior multi-asset strategist at State Street Markets, also struck a more optimistic tone, saying that China's growing capabilities in artificial intelligence could eventually draw global investors back into its equity market, even before corporate earnings recover.`,
+    bodyJa: `China's benchmark CSI 300 index on Thursday entered bear-market territory, falling 20% from its June peak, as a prolonged sell-off in its equities deepens.
+The index, which tracks 300 of the largest stocks listed in Shanghai and Shenzhen, has declined for 10 consecutive weeks and is down 2.6% so far this week, underscoring sustained pressure on Chinese equities, data from LSEG showed. The index was more than 1% lower Thursday.
+Jordan Cvetanovski, chairman and CIO at Pella Funds, said China's equity market continues to face structural challenges, particularly as the world's second-largest economy grapples with the fallout from years of excess capacity and overinvestment.
+"I think China is really struggling with reining in the problems that they've had in the past from the overbuild of capacity and other things," Cvetanovski told CNBC, pointing to challenges facing companies even in globally competitive industries such as batteries — a sector where he still sees select opportunities in China.
+Chinese firms have been suffering from declining profit growth amid intense competition that has eroded margins and even invited the government to step in. In September, the country posted it's weakest growth in industrial profits this year.
+The world's second-largest economy also posted its slowest growth in over three years in the second quarter, pressured by a multiyear slowdown in the property sector and extended weakness in consumer demand.
+Shaun Rein, managing director at China Market Research Group, expects further selling pressure as geopolitical uncertainty, concerns over an artificial intelligence bubble and deteriorating consumer confidence weigh on investor sentiment.
+China's large base of retail investors could also exacerbate market volatility, Rein said, as individual investors are prone to exiting the market faster during periods of uncertainty.
+Unlike major markets such as the New York Stock Exchange, where retail investors account for about 20%-25% of trade volumes, China's retail investors drive 90% of daily trading, according to data provided by HSBC.
+"For Chinese, it's about wealth preservation," Rein said, noting that investors are increasingly favoring safer assets such as time deposits amid a weakening property market and sluggish labor conditions.
+While Rein expects increased pressure on markets, he said the sell-off has been excessive, pointing to resilient exports and signs of a recovery in property prices in China's largest cities.
+"It's a crisis of confidence right now not a crisis in the economy," he said, predicting a strong rebound in Chinese equities in 2027.
+Daniel Gerard, senior multi-asset strategist at State Street Markets, also struck a more optimistic tone, saying that China's growing capabilities in artificial intelligence could eventually draw global investors back into its equity market, even before corporate earnings recover.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/22/chinas-stock-market-csi-300-bear-market.html",
+    publishedAt: "2026-10-22T04:02:18+00:00",
+    category: "貿易",
+    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "what-is-php-and-why-did-it-spark-a-globa-079c4be7",
+    title: "What is PHP and why did it spark a global cyber-security scramble?",
+    titleJa: "What is PHP and why did it spark a global cyber-security scramble?",
+    summaryJa: "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+    bodyOriginal: `What is PHP and why did it spark a global cyber-security scramble?
+- Published
+For more than a decade, serious flaws had gone undetected in technology underpinning much of the internet.
+It took artificial intelligence (AI) to bring them to light and caused a global cyber-security alert.
+The vulnerabilities lie within a programming language called PHP, which has been used internationally since the 2000s to build websites.
+Governments and cyber-security agencies around the world scrambled to contain the fallout of this discovery on Wednesday, and have urged website operators to install a new emergency fix or consider taking their platforms offline.
+Cyber-security firm Wiz - one of the companies whose researchers uncovered the vulnerabilities - described the flaws as the "most severe" ever detected by AI.
+OpenAI, whose technology was used to find the flaws, called the discovery "one of the most impactful security issues in recent memory".
+What is the flaw?
+Most people may not have heard of PHP - short for PHP: Hypertext Preprocessor - but they most certainly interact with it daily.
+PHP powers a vast number of platforms, including online shops, Wikipedia and WordPress – the content management system behind many websites like blogs.
+When you visit a website like Wikipedia, PHP is the code that collects information you need and presents it in a way you can read on the web, Paul Spain, chief executive of Gorilla Cyber Security, told the BBC.
+But due to a flaw that could allow attackers to take control of affected web servers without authentication and steal sensitive data, everything built on PHP was left exposed.
+AI could make such attacks easier and faster, Spain said, estimating that the flaw could affect "millions and millions" of websites.
+It would be "disastrous" if hackers or countries weaponised the flaw and seized private data from websites, said cyber-security researcher Jill Slay from the University of Adelaide.
+What websites have been affected?
+The alert has disrupted services globally, from gaming platforms to government portals and online forums.
+That includes Wikimedia - the organisation behind the online encyclopaedia Wikipedia - which took down a number of its systems as a precautionary measure.
+Sites and pages have been taken offline by the Finnish government, Edinburgh council and the BBC, with the Netherlands' cyber-security agency also pulling its website.
+A number of Scotland's public organisations, including councils and health boards, have also taken their websites offline.
+Some experts warn the vulnerability could leave poorly maintained websites, particularly those belonging to smaller organisations with limited security resources, at greater risk.
+More attempts to exploit these flaws are likely in the coming weeks since the technical details are now being made public, cyber-security researcher Salil Kanhere from UNSW Sydney said.
+What happened after the flaws were exposed?
+Developers of the PHP platform on Wednesday rolled out patches to fix the vulnerabilities that had been lurking in their software for years.
+"All PHP users are strongly encouraged to update immediately," the company said.
+Authorities and security organisations around the world have echoed those warnings to website operators to secure their platforms.
+The US National Security Agency told all organisations that use PHP to take their systems offline if they were unable to patch them immediately, adding that the flaw could provide a "direct path" to exploit a system's database.
+"These risks are serious enough to require immediate patching across United States Government departments and agencies," the agency said.
+The UK's National Cyber Security Centre gave similar advice and told organisations to check for "backdoors installed by an attacker".
+Its counterparts in the EU and Australia have also issued similar alerts.
+Japanese Prime Minister Sanae Takaichi urged people to check if their publicly available websites ran on PHP.
+"We have an urgent request for everyone to take action tonight," Takaichi wrote on X.
+"If it is difficult to apply the fix patch promptly, temporarily suspending websites and similar measures can be considered an effective way to reduce risk," she said.
+How is AI finding weak spots?
+The vulnerabilities were found by researchers at the security firms Calif and Wiz.
+The researchers used advanced AI tools that are able to analyse code and find flaws much faster than humans or older systems can.
+"Modern software is incredibly complex, and some vulnerabilities can remain undetected for years," Kanhere said.
+"The underlying bugs weren't new; what changed was our ability to find them," Kanhere said.
+Details of the discovery leaked online this week, forcing the PHP platform's developers to rush out its announcement of the security flaw and its huge scale.
+The incident "highlights how AI can uncover security flaws" but also how it can "help attackers rapidly develop offensive tools and exploits," OpenAI said in a blog post.
+The ChatGPT-maker said it had released a program to check if the PHP platform is secure.
+"Many of these flaws stem from the way software were built in the past, which were built for functionality and not with security in mind," said Ryan Ko, at the University of Queensland's Cyber Research Centre.
+What can people do to safeguard themselves?
+Website owners are being urged to secure their websites with the latest version of PHP.
+The US National Security Agency has urged "heightened awareness" in the coming weeks and to closely monitor updates from software vendors.
+"Vigilance in applying patches related to those systems is paramount," it said.
+The onus lies mainly on website operators, but users should stay alert for any security advice issued by affected services, such as requests to change passwords, Kanhere said.
+He warned people to be alert to any phishing messages exploiting the publicity around the incident too.
+- Published10 October
+- Published12 October`,
+    bodyJa: `What is PHP and why did it spark a global cyber-security scramble?
+- Published
+For more than a decade, serious flaws had gone undetected in technology underpinning much of the internet.
+It took artificial intelligence (AI) to bring them to light and caused a global cyber-security alert.
+The vulnerabilities lie within a programming language called PHP, which has been used internationally since the 2000s to build websites.
+Governments and cyber-security agencies around the world scrambled to contain the fallout of this discovery on Wednesday, and have urged website operators to install a new emergency fix or consider taking their platforms offline.
+Cyber-security firm Wiz - one of the companies whose researchers uncovered the vulnerabilities - described the flaws as the "most severe" ever detected by AI.
+OpenAI, whose technology was used to find the flaws, called the discovery "one of the most impactful security issues in recent memory".
+What is the flaw?
+Most people may not have heard of PHP - short for PHP: Hypertext Preprocessor - but they most certainly interact with it daily.
+PHP powers a vast number of platforms, including online shops, Wikipedia and WordPress – the content management system behind many websites like blogs.
+When you visit a website like Wikipedia, PHP is the code that collects information you need and presents it in a way you can read on the web, Paul Spain, chief executive of Gorilla Cyber Security, told the BBC.
+But due to a flaw that could allow attackers to take control of affected web servers without authentication and steal sensitive data, everything built on PHP was left exposed.
+AI could make such attacks easier and faster, Spain said, estimating that the flaw could affect "millions and millions" of websites.
+It would be "disastrous" if hackers or countries weaponised the flaw and seized private data from websites, said cyber-security researcher Jill Slay from the University of Adelaide.
+What websites have been affected?
+The alert has disrupted services globally, from gaming platforms to government portals and online forums.
+That includes Wikimedia - the organisation behind the online encyclopaedia Wikipedia - which took down a number of its systems as a precautionary measure.
+Sites and pages have been taken offline by the Finnish government, Edinburgh council and the BBC, with the Netherlands' cyber-security agency also pulling its website.
+A number of Scotland's public organisations, including councils and health boards, have also taken their websites offline.
+Some experts warn the vulnerability could leave poorly maintained websites, particularly those belonging to smaller organisations with limited security resources, at greater risk.
+More attempts to exploit these flaws are likely in the coming weeks since the technical details are now being made public, cyber-security researcher Salil Kanhere from UNSW Sydney said.
+What happened after the flaws were exposed?
+Developers of the PHP platform on Wednesday rolled out patches to fix the vulnerabilities that had been lurking in their software for years.
+"All PHP users are strongly encouraged to update immediately," the company said.
+Authorities and security organisations around the world have echoed those warnings to website operators to secure their platforms.
+The US National Security Agency told all organisations that use PHP to take their systems offline if they were unable to patch them immediately, adding that the flaw could provide a "direct path" to exploit a system's database.
+"These risks are serious enough to require immediate patching across United States Government departments and agencies," the agency said.
+The UK's National Cyber Security Centre gave similar advice and told organisations to check for "backdoors installed by an attacker".
+Its counterparts in the EU and Australia have also issued similar alerts.
+Japanese Prime Minister Sanae Takaichi urged people to check if their publicly available websites ran on PHP.
+"We have an urgent request for everyone to take action tonight," Takaichi wrote on X.
+"If it is difficult to apply the fix patch promptly, temporarily suspending websites and similar measures can be considered an effective way to reduce risk," she said.
+How is AI finding weak spots?
+The vulnerabilities were found by researchers at the security firms Calif and Wiz.
+The researchers used advanced AI tools that are able to analyse code and find flaws much faster than humans or older systems can.
+"Modern software is incredibly complex, and some vulnerabilities can remain undetected for years," Kanhere said.
+"The underlying bugs weren't new; what changed was our ability to find them," Kanhere said.
+Details of the discovery leaked online this week, forcing the PHP platform's developers to rush out its announcement of the security flaw and its huge scale.
+The incident "highlights how AI can uncover security flaws" but also how it can "help attackers rapidly develop offensive tools and exploits," OpenAI said in a blog post.
+The ChatGPT-maker said it had released a program to check if the PHP platform is secure.
+"Many of these flaws stem from the way software were built in the past, which were built for functionality and not with security in mind," said Ryan Ko, at the University of Queensland's Cyber Research Centre.
+What can people do to safeguard themselves?
+Website owners are being urged to secure their websites with the latest version of PHP.
+The US National Security Agency has urged "heightened awareness" in the coming weeks and to closely monitor updates from software vendors.
+"Vigilance in applying patches related to those systems is paramount," it said.
+The onus lies mainly on website operators, but users should stay alert for any security advice issued by affected services, such as requests to change passwords, Kanhere said.
+He warned people to be alert to any phishing messages exploiting the publicity around the incident too.
+- Published10 October
+- Published12 October`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-22T03:48:50+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c55/live/d85b8680-cda9-11f1-a64c-550be9e3c66b.jpg",
+    readTime: 10,
+  },
+  {
+    id: "james-talarico-fires-back-at-elon-musk-i-d9f44d73",
+    title: "James Talarico fires back at Elon Musk in Texas Senate race feud",
+    titleJa: "James Talarico fires back at Elon Musk in Texas Senate race feud",
+    summaryJa: "Musk in September donated $158 million to a Republican Super PAC, which sent that cash to a PAC backing GOP Senate nominee Ken Paxton, Talarico's opponent.",
+    bodyOriginal: `James Talarico, the Democratic nominee seeking a Senate seat from Texas, fired back Wednesday night at Elon Musk for an X post in which the world's richest man hours earlier had said, "There is something deeply wrong with Talarico."
+"There is something deeply wrong with a political system that allows one trillionaire to buy his own personal U.S. Senator," Talarico wrote in reply to Musk's tweet.
+Talarico earlier Wednesday, during a campaign speech at the UH Hilton on the main campus of the University of Houston, called out Musk.
+"In all likelihood, if you've seen an attack ad on your screen, that was Elon. If you've gotten lies in your mailbox, that was Elon," Talarico said, according to a report by Houston Public Media.
+"If you've received a text message saying scary things about me, that was Elon too," Talarico said. "Elon Musk wants our land. He wants our water. He wants our taxpayer dollars. He wants his very own personal United States Senator. He is trying to buy Texas. But on Nov. 3, we are going to send a clear message to the world's first trillionaire: Texas is not for sale."
+The sniping between Musk and Talarico came five days after news broke that Musk donated $158 million to a Republican super PAC, the Senate Leadership Fund, in September.
+That money ended up with Texas PAC, a group that is backing Talarico's opponent, GOP nominee Ken Paxton, the Texas attorney general.
+Musk also sent $10 million to Lone Star Liberty PAC, another group that is backing Paxton.
+Musk, who is CEO of both SpaceX and Tesla, executed the big money dump as polls showed Paxton trailing Talarico in the contest.
+Talarico's campaign last week said he had raised $64 million in the third quarter of this year. That was the largest tally ever reported for a Senate candidate in a third quarter, his campaign said.
+In comparison, Paxton's campaign raised just $18 million for the same quarter.
+Paxton beat incumbent Sen. John Cornyn in the Republican primary earlier this year.
+His campaign didn't immediately respond to a request for comment.`,
+    bodyJa: `James Talarico, the Democratic nominee seeking a Senate seat from Texas, fired back Wednesday night at Elon Musk for an X post in which the world's richest man hours earlier had said, "There is something deeply wrong with Talarico."
+"There is something deeply wrong with a political system that allows one trillionaire to buy his own personal U.S. Senator," Talarico wrote in reply to Musk's tweet.
+Talarico earlier Wednesday, during a campaign speech at the UH Hilton on the main campus of the University of Houston, called out Musk.
+"In all likelihood, if you've seen an attack ad on your screen, that was Elon. If you've gotten lies in your mailbox, that was Elon," Talarico said, according to a report by Houston Public Media.
+"If you've received a text message saying scary things about me, that was Elon too," Talarico said. "Elon Musk wants our land. He wants our water. He wants our taxpayer dollars. He wants his very own personal United States Senator. He is trying to buy Texas. But on Nov. 3, we are going to send a clear message to the world's first trillionaire: Texas is not for sale."
+The sniping between Musk and Talarico came five days after news broke that Musk donated $158 million to a Republican super PAC, the Senate Leadership Fund, in September.
+That money ended up with Texas PAC, a group that is backing Talarico's opponent, GOP nominee Ken Paxton, the Texas attorney general.
+Musk also sent $10 million to Lone Star Liberty PAC, another group that is backing Paxton.
+Musk, who is CEO of both SpaceX and Tesla, executed the big money dump as polls showed Paxton trailing Talarico in the contest.
+Talarico's campaign last week said he had raised $64 million in the third quarter of this year. That was the largest tally ever reported for a Senate candidate in a third quarter, his campaign said.
+In comparison, Paxton's campaign raised just $18 million for the same quarter.
+Paxton beat incumbent Sen. John Cornyn in the Republican primary earlier this year.
+His campaign didn't immediately respond to a request for comment.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/22/james-talarico-elon-musk-ken-paxton-texas-senate-race.html",
+    publishedAt: "2026-10-22T01:21:10+00:00",
+    category: "自動車",
+    imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "critical-web-security-flaws-spark-global-7287b578",
+    title: "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
+    titleJa: "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
+    summaryJa: "Critical PHP security flaws trigger global warnings as Google, OpenAI and Amazon respond to potential cyber threats.",
+    bodyOriginal: `The tech world is racing to implement fixes after the discovery of critical security vulnerabilities in software used to power much of the internet.
+The software, known as PHP, is an open-source programming language widely used to power websites and web applications. The discovery of the flaws prompted urgent warnings from governments worldwide, while tech giants including Google, OpenAI and Amazon have been involved in efforts to uncover the vulnerabilities, detect potential attacks and protect affected systems.
+The two vulnerabilities, collectively known as "PHP2Shell," could allow hackers to remotely execute malicious code on affected servers, potentially exposing sensitive data, according to cybersecurity researchers. While not every website using PHP is necessarily vulnerable, the software's widespread use has raised concerns about the potential scale of attacks.
+The U.S. National Security Agency on Wednesday urged organizations using PHP to prepare security updates addressing the vulnerabilities, warning that the flaws could provide attackers with direct access to server file systems and databases. The agency recommended taking affected systems offline until the vulnerabilities are fully addressed if immediate updates are not possible.
+The Federal Bureau of Investigation also warned that malicious actors could exploit the vulnerabilities to execute code remotely, putting sensitive data and networks at risk.
+Cybersecurity authorities in Singapore, the United Kingdom, Australia, Canada and the European Union have issued similar alerts, underscoring concerns about the potential impact on businesses, government agencies and other organizations that rely on PHP-based systems.
+Amazon said its threat intelligence team had detected attempts to exploit the vulnerabilities before they were publicly disclosed, using its MadPot threat detection system, which monitors suspicious activity across internet-facing infrastructure. It said the findings suggest malicious actors were already attempting to exploit the vulnerabilities. However, Amazon said it remains unclear how the attackers obtained information about the flaws ahead of their disclosure.
+Meanwhile, Google and OpenAI highlighted the growing role of artificial intelligence in identifying and addressing cybersecurity threats. Google said its cybersecurity unit Wiz used AI models to help find and investigate the vulnerabilities, while its Gemini AI contributed to efforts to assess the flaws, test potential attacks and verify security patches.
+OpenAI said researchers working with its AI models had also helped uncover critical vulnerabilities in PHP. The company said it had spent the past two months leading a coalition of software maintainers, cybersecurity researchers and security providers to coordinate fixes and prepare protective measures ahead of public disclosure.
+The ChatGPT maker described the flaws as among the most significant security issues in recent memory, highlighting both the potential of advanced AI systems to identify vulnerabilities in widely used software and the risk that similar capabilities could be exploited by cybercriminals.
+Cloudflare, which provides cybersecurity and website infrastructure services, said it had deployed protections against the PHP2Shell vulnerabilities through its web application firewall. The company said its measures were designed to help block malicious requests targeting affected systems, providing an additional layer of defense as organizations work to install software updates.
+The PHP development team has released security fixes, with authorities urging website operators to identify affected versions and apply the updates as quickly as possible. The episode underscores how vulnerabilities in widely used software can pose risks across industries and borders, even as AI increasingly plays a role in helping security researchers uncover and address those weaknesses.`,
+    bodyJa: `The tech world is racing to implement fixes after the discovery of critical security vulnerabilities in software used to power much of the internet.
+The software, known as PHP, is an open-source programming language widely used to power websites and web applications. The discovery of the flaws prompted urgent warnings from governments worldwide, while tech giants including Google, OpenAI and Amazon have been involved in efforts to uncover the vulnerabilities, detect potential attacks and protect affected systems.
+The two vulnerabilities, collectively known as "PHP2Shell," could allow hackers to remotely execute malicious code on affected servers, potentially exposing sensitive data, according to cybersecurity researchers. While not every website using PHP is necessarily vulnerable, the software's widespread use has raised concerns about the potential scale of attacks.
+The U.S. National Security Agency on Wednesday urged organizations using PHP to prepare security updates addressing the vulnerabilities, warning that the flaws could provide attackers with direct access to server file systems and databases. The agency recommended taking affected systems offline until the vulnerabilities are fully addressed if immediate updates are not possible.
+The Federal Bureau of Investigation also warned that malicious actors could exploit the vulnerabilities to execute code remotely, putting sensitive data and networks at risk.
+Cybersecurity authorities in Singapore, the United Kingdom, Australia, Canada and the European Union have issued similar alerts, underscoring concerns about the potential impact on businesses, government agencies and other organizations that rely on PHP-based systems.
+Amazon said its threat intelligence team had detected attempts to exploit the vulnerabilities before they were publicly disclosed, using its MadPot threat detection system, which monitors suspicious activity across internet-facing infrastructure. It said the findings suggest malicious actors were already attempting to exploit the vulnerabilities. However, Amazon said it remains unclear how the attackers obtained information about the flaws ahead of their disclosure.
+Meanwhile, Google and OpenAI highlighted the growing role of artificial intelligence in identifying and addressing cybersecurity threats. Google said its cybersecurity unit Wiz used AI models to help find and investigate the vulnerabilities, while its Gemini AI contributed to efforts to assess the flaws, test potential attacks and verify security patches.
+OpenAI said researchers working with its AI models had also helped uncover critical vulnerabilities in PHP. The company said it had spent the past two months leading a coalition of software maintainers, cybersecurity researchers and security providers to coordinate fixes and prepare protective measures ahead of public disclosure.
+The ChatGPT maker described the flaws as among the most significant security issues in recent memory, highlighting both the potential of advanced AI systems to identify vulnerabilities in widely used software and the risk that similar capabilities could be exploited by cybercriminals.
+Cloudflare, which provides cybersecurity and website infrastructure services, said it had deployed protections against the PHP2Shell vulnerabilities through its web application firewall. The company said its measures were designed to help block malicious requests targeting affected systems, providing an additional layer of defense as organizations work to install software updates.
+The PHP development team has released security fixes, with authorities urging website operators to identify affected versions and apply the updates as quickly as possible. The episode underscores how vulnerabilities in widely used software can pose risks across industries and borders, even as AI increasingly plays a role in helping security researchers uncover and address those weaknesses.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
+    publishedAt: "2026-10-22T01:05:15+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "the-trillion-pound-oil-fund-the-governme-f46e8788",
+    title: "The 'trillion pound' oil fund the government believes Britain could have built",
+    titleJa: "The 'trillion pound' oil fund the government believes Britain could have built",
+    summaryJa: "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+    bodyOriginal: `The 'trillion pound' oil fund the government believes Britain could have built
+- Published
+After a half-century wait, the United Kingdom now has an oil fund.
+Chancellor John Healey announced the creation of an Energy Wealth Fund at the Jackdaw gas approval announcement on Wednesday, with £2bn of funding diverted from the existing National Wealth Fund.
+A selection of energy exporting countries, mainly in the Gulf, but also including Norway, over the years have amassed multi-trillion funds using oil and gas revenues to create epic national piggy banks.
+It has been a long-standing debate in UK economic policy circles. If neighbouring Norway has amassed a $2.4tn war chest from the same North Sea, where exactly did the UK's sovereign wealth fund go?
+It is an apposite question on the week when the national debt also hit £3tn for the first time.
+"The proceeds of this oil and gas coming ashore now can be invested for the future generations," the chancellor said.
+"If we had done this when North Sea oil was first discovered in the 1980s, we'd have a British Sovereign Wealth Fund now that would be worth probably a trillion pounds."
+On Wednesday, for the first time, Treasury officials actually calculated how much that missing British fund could have been worth.
+The trillion pound number comes from internal Treasury modelling. The assumption was that the UK's historical North Sea receipts of £200bn had been invested, with no withdrawals and grown at a rate comparable to Norway's.
+"Norway demonstrates the power of long-term investment: the government wants to learn from that principle, rather than copy its model wholesale," one insider told me.
+It was a "missed opportunity" which "had we systematically invested those receipts, we could have built a huge national asset for future generations", they said.
+It is a giant "What if?" asked often by economists critical of the Margaret Thatcher era.
+The peak oil revenues were, in their view, frittered away in pre-election tax cuts, which ended up being spent on 1980s garden conservatories.
+Others might argue that the revenues under subsequent governments were squandered on wasteful government spending. It is worth noting that Norway's fund only began in earnest in 1996.
+The idea of a lost oil fund has also featured in arguments from supporters of Scottish independence, and was suggested by some government advisers in the 1970s.
+I have met some of the officials running Norway's fund. They are sometimes lambasted by ordinary Norwegians on the Oslo commuter trains who can all check the live value of the national fund.
+Three percent of its value is drawn down each year to fund a fifth to a quarter of government budgets. The nation drew down on the fund during the coronavirus pandemic.
+It is meant to help fund Norway's post oil economy and society, as indeed are some of the equivalent funds in the Gulf. It is a gift to the future.
+While the UK government promises to divert new revenues into its new fund, it will be run rather differently. Norway's fund is obliged to invest abroad, and has grown hugely off the back off investments in US big tech. The UK plan is to create a fund that can invest domestically in green energy. It may struggle to match the performance.
+UK energy tax revenues are also forecast to dwindle as North Sea production slows. The rate of slowing may now ease, with Jackdaw and extensions to existing fields. Critically Norway's state still controls its oil companies, also giving a share of their profits.
+Two billion Norwegian Kroner was exactly the starting investment in Norway's fund 30 years ago. It is now worth over a thousand times that.
+Nobody expects the Energy Wealth Fund's £2bn to be worth £2tn by 2056. The question is: what might have been, had a similar, far-sighted idea been adopted here in decades past?
+- Published16 hours ago`,
+    bodyJa: `The 'trillion pound' oil fund the government believes Britain could have built
+- Published
+After a half-century wait, the United Kingdom now has an oil fund.
+Chancellor John Healey announced the creation of an Energy Wealth Fund at the Jackdaw gas approval announcement on Wednesday, with £2bn of funding diverted from the existing National Wealth Fund.
+A selection of energy exporting countries, mainly in the Gulf, but also including Norway, over the years have amassed multi-trillion funds using oil and gas revenues to create epic national piggy banks.
+It has been a long-standing debate in UK economic policy circles. If neighbouring Norway has amassed a $2.4tn war chest from the same North Sea, where exactly did the UK's sovereign wealth fund go?
+It is an apposite question on the week when the national debt also hit £3tn for the first time.
+"The proceeds of this oil and gas coming ashore now can be invested for the future generations," the chancellor said.
+"If we had done this when North Sea oil was first discovered in the 1980s, we'd have a British Sovereign Wealth Fund now that would be worth probably a trillion pounds."
+On Wednesday, for the first time, Treasury officials actually calculated how much that missing British fund could have been worth.
+The trillion pound number comes from internal Treasury modelling. The assumption was that the UK's historical North Sea receipts of £200bn had been invested, with no withdrawals and grown at a rate comparable to Norway's.
+"Norway demonstrates the power of long-term investment: the government wants to learn from that principle, rather than copy its model wholesale," one insider told me.
+It was a "missed opportunity" which "had we systematically invested those receipts, we could have built a huge national asset for future generations", they said.
+It is a giant "What if?" asked often by economists critical of the Margaret Thatcher era.
+The peak oil revenues were, in their view, frittered away in pre-election tax cuts, which ended up being spent on 1980s garden conservatories.
+Others might argue that the revenues under subsequent governments were squandered on wasteful government spending. It is worth noting that Norway's fund only began in earnest in 1996.
+The idea of a lost oil fund has also featured in arguments from supporters of Scottish independence, and was suggested by some government advisers in the 1970s.
+I have met some of the officials running Norway's fund. They are sometimes lambasted by ordinary Norwegians on the Oslo commuter trains who can all check the live value of the national fund.
+Three percent of its value is drawn down each year to fund a fifth to a quarter of government budgets. The nation drew down on the fund during the coronavirus pandemic.
+It is meant to help fund Norway's post oil economy and society, as indeed are some of the equivalent funds in the Gulf. It is a gift to the future.
+While the UK government promises to divert new revenues into its new fund, it will be run rather differently. Norway's fund is obliged to invest abroad, and has grown hugely off the back off investments in US big tech. The UK plan is to create a fund that can invest domestically in green energy. It may struggle to match the performance.
+UK energy tax revenues are also forecast to dwindle as North Sea production slows. The rate of slowing may now ease, with Jackdaw and extensions to existing fields. Critically Norway's state still controls its oil companies, also giving a share of their profits.
+Two billion Norwegian Kroner was exactly the starting investment in Norway's fund 30 years ago. It is now worth over a thousand times that.
+Nobody expects the Energy Wealth Fund's £2bn to be worth £2tn by 2056. The question is: what might have been, had a similar, far-sighted idea been adopted here in decades past?
+- Published16 hours ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-21T23:27:05+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/219e/live/8e724170-cda0-11f1-9a39-31b474234113.jpg",
+    readTime: 10,
+  },
+  {
+    id: "airbnb-hosts-can-no-longer-make-guests-s-30c425c7",
+    title: "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+    titleJa: "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+    summaryJa: "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
+    bodyOriginal: `Airbnb hosts can no longer make guests strip beds and wash dishes under new rules
+- Published
+Airbnb has changed its rules to limit what property hosts may ask guests to do - including when it comes to cleaning.
+The updated guidelines state that hosts can now set seven standard house rules and can also add other "reasonable" requests.
+Airbnb states that guests - who are required to pay a cleaning fee - should not be asked to complete tasks normally done by a cleaner, including washing dishes and stripping beds.
+The new rules will apply to all reservations booked on or after 20 November on the accommodation marketplace.
+"House rules help guests understand what hosts expect, but we've heard from our community that they can be confusing, onerous and hard to manage," Airbnb told the BBC.
+"So, we've redesigned them to make them easier to discover and clearer to set, alongside a new policy that keeps requests reasonable, with no surprises."
+According to the new requirements on the Airbnb website, hosts are generally not allowed to ask guests to complete tasks that "require significant effort or time, or would typically be performed by a cleaner, including stripping the bed, taking trash offsite, or washing and putting away dishes".
+The company said it may grant exceptions in some circumstances. For example, guests can be asked to limit shower time if there are local drought-related water restrictions.
+A property's rules will be displayed to guests more prominently moving forward and will appear in the guests' reservation reminders.
+Contracts will only be allowed in limited circumstances, including when required by law or homeowners association rules.
+While a host will not be able to impose fines, they remain in control of their house rules and requests, the company said.
+If a host's request does not follow Airbnb policies, the issue will be flagged and the owner can appeal if they disagree.
+Guests have for years complained about unreasonable tasks they we required to complete before departure, especially as they are required to pay cleaning fees.
+TikTok videos from Airbnb hosts Cassie and Jon that show them closely inspecting their rental property in the US state of Georgia after guests leave have gone viral recently for their attention to detail.
+One video from the couple, for example, accuses guests of "disrespecting the house rules" for leaving a television remote out of place.
+They have been criticised for their strict rules and high standards but said in response that their content had been misinterpreted
+Their videos have inspired other content creators to parody stringent hosts.
+Related topics
+- Published15 September
+- Published15 December 2025`,
+    bodyJa: `Airbnb hosts can no longer make guests strip beds and wash dishes under new rules
+- Published
+Airbnb has changed its rules to limit what property hosts may ask guests to do - including when it comes to cleaning.
+The updated guidelines state that hosts can now set seven standard house rules and can also add other "reasonable" requests.
+Airbnb states that guests - who are required to pay a cleaning fee - should not be asked to complete tasks normally done by a cleaner, including washing dishes and stripping beds.
+The new rules will apply to all reservations booked on or after 20 November on the accommodation marketplace.
+"House rules help guests understand what hosts expect, but we've heard from our community that they can be confusing, onerous and hard to manage," Airbnb told the BBC.
+"So, we've redesigned them to make them easier to discover and clearer to set, alongside a new policy that keeps requests reasonable, with no surprises."
+According to the new requirements on the Airbnb website, hosts are generally not allowed to ask guests to complete tasks that "require significant effort or time, or would typically be performed by a cleaner, including stripping the bed, taking trash offsite, or washing and putting away dishes".
+The company said it may grant exceptions in some circumstances. For example, guests can be asked to limit shower time if there are local drought-related water restrictions.
+A property's rules will be displayed to guests more prominently moving forward and will appear in the guests' reservation reminders.
+Contracts will only be allowed in limited circumstances, including when required by law or homeowners association rules.
+While a host will not be able to impose fines, they remain in control of their house rules and requests, the company said.
+If a host's request does not follow Airbnb policies, the issue will be flagged and the owner can appeal if they disagree.
+Guests have for years complained about unreasonable tasks they we required to complete before departure, especially as they are required to pay cleaning fees.
+TikTok videos from Airbnb hosts Cassie and Jon that show them closely inspecting their rental property in the US state of Georgia after guests leave have gone viral recently for their attention to detail.
+One video from the couple, for example, accuses guests of "disrespecting the house rules" for leaving a television remote out of place.
+They have been criticised for their strict rules and high standards but said in response that their content had been misinterpreted
+Their videos have inspired other content creators to parody stringent hosts.
+Related topics
+- Published15 September
+- Published15 December 2025`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-21T22:54:58+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a8/live/221cd660-cda1-11f1-96a8-11b361e3c25f.jpg",
+    readTime: 7,
+  },
+  {
     id: "trump-says-data-centers-should-generate-1b0e018f",
     title: "Trump says data centers should generate their own electricity — but experts say only states can mandate that",
     titleJa: "Trump says data centers should generate their own electricity — but experts say only states can mandate that",
@@ -217,6 +607,116 @@ Delta Air Lines and United Airlines also cut their profit outlooks for the rest 
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 5,
+  },
+  {
+    id: "websites-taken-down-worldwide-as-critica-e2498d0c",
+    title: "Websites taken down worldwide as critical cyber-security update issued",
+    titleJa: "Websites taken down worldwide as critical cyber-security update issued",
+    summaryJa: "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+    bodyOriginal: `Websites taken down worldwide as critical cyber-security update issued
+- Published
+International governments and agencies have urged websites to address two critical cyber-security flaws in a programming language which powers much of the internet.
+The vulnerabilities were found within the PHP programming language, with a fix issued on Wednesday afternoon.
+Multiple cyber-security agencies have urged organisations unable to apply fixes in time to consider taking their sites down, leaving bodies such as the Finnish government, Edinburgh council and the BBC to take pages offline.
+The flaws were discovered by AI, with cyber-security firm Wiz saying they were the "most severe vulnerabilities ever discovered" by the tech, which is reshaping the cyber landscape.
+Finland has temporarily shut down the government's public web services, while the Netherlands' cyber-security agency said it was taking its own website offline due to the vulnerabilities.
+The US National Security Agency issued similar advice on X, external for organisations to take their systems offline if they were unable to update with the fix.
+"These vulnerabilities often provide a direct path to the server's file system or database," it wrote.
+Meanwhile, the White House said federal agencies were working with leading AI labs to speed up a fix to the issue.
+And in a post on X, external, Japan's Prime Minister Sanae Takaichi urged people to check if their publicly available websites ran on PHP.
+The Wikimedia Foundation, which runs the online encyclopedia Wikipedia, said it was addressing the security vulnerabilities.
+"We have taken down a number of other systems as a precautionary measure until they can be safely patched," it said.
+That led some people to be unable to access parts of Wikipedia on Wednesday.
+Edinburgh council's website has also become inaccessible, as well as the online homes for several BBC programmes including Doctor Who and The Traitors.
+They have not confirmed a link to PHP - BBC News has approached them for comment.
+'Roughly 70%' of internet
+Other websites, including the art platform DeviantArt, have said they are "temporarily down for maintenance, external" without specifying the reason.
+The vulnerabilities were discovered by cyber-security researchers at the firms Calif and Wiz.
+Calif, along with PHP Foundation, were part of a program started by OpenAI called Patch the Planet.
+Through that program, they were given access to the AI company's advanced AI tools in order to find and fix flaws in web development language.
+OpenAI said in a blog post, external that the discovery was "one of the most impactful security issues in recent memory". It added an internal researcher at the company had also discovered the issue around the same time as the other firms.
+The flaws had gone undetected for more than a decade. By August, after a few weeks of using advanced AI tools, they were discovered.
+"Frontier models were critical to making this process practical, enabling us to develop and adapt working exploits across multiple applications in hours," Wiz said in a blog post.
+It has estimated "roughly 70%" of the internet is affected, though the BBC is unable to verify that figure.
+While PHP Foundation intended to release its discovery later this month along with a complete fix for the problem, usually referred to by software developers as a "patch," details of the flaw were leaked on social media on Tuesday.
+It forced PHP Foundation to rush out its announcement of the vulnerability and its huge scale.
+The Netherlands' National Institute for Public Health and the Environment, an agency of the Dutch government, has taken down its website.
+Similarly the website of the Tweede Kamer, the lower house of the nation's parliament, has become inaccessible.
+The UK's National Cyber Security Centre (NCSC), as well as its counterparts in the EU and Australia have urged those who use PHP to apply the fixes.
+"Where immediate remediation is not feasible, organisations should consider taking the system offline until it can be fully mitigated," the NCSC said in a note, external.
+Japan's national cyber-security office and EU cyber-security officials have issued a similar warning, external.
+'Early attacks emerging'
+"PHP is everywhere. It quietly powers WordPress, Drupal, Joomla, and Magento sites, shared hosting platforms, control panels, and an awful lot of software that doesn't even advertise that it runs PHP under the hood," cyber-security company Huntress said.
+Cyber-security expert Don Smith, from the Sophos Counter Threat Unit, told the BBC this would "likely be a priority target" for hackers.
+The immediate challenge was not simply installing a patch to fix the issue, but finding and managing every instance where PHP was running, he said.
+"The use of PHP is pervasive, it can sit beneath public websites, content management systems, hosting platforms and third-party products, sometimes without even being obvious to the organisation using it," he said.
+He said it was crucial that organisations looked out for signs that an attacker "might have already have gained a foothold".
+The European Union Computer Emergency Response Team (CERT-EU) said the risk scores given to the vulnerabilities "indicate the potential for unauthenticated remote code execution".
+Such a cyber-attack could potentially allow hackers to install malware and take down websites.
+Dane Knecht, chief technology officer at internet infrastructure firm Cloudflare, said he was, external "seeing early attacks emerging and are updating mitigations as new vectors show up".
+The NCSC said once organisations have installed the update, they should "continuously monitor for security updates from third-party software vendors, including for appliances and services that may bundle PHP".
+It is not yet clear which versions of the programming language are affected, but CERT-EU said it could affect all versions of it dating back to PHP 5 onwards - which launched in 2004.
+The PHP Foundation has issued the update only for the latest versions however - with people using PHP 8.1 or older being urged to upgrade.
+PHP was created for web development. It is used on servers to implement what you see when you visit websites.
+Not all websites use it, but it nonetheless powers a large portion of the internet.
+King warns malicious online actors are evolving tactics
+- Published10 October
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
+    bodyJa: `Websites taken down worldwide as critical cyber-security update issued
+- Published
+International governments and agencies have urged websites to address two critical cyber-security flaws in a programming language which powers much of the internet.
+The vulnerabilities were found within the PHP programming language, with a fix issued on Wednesday afternoon.
+Multiple cyber-security agencies have urged organisations unable to apply fixes in time to consider taking their sites down, leaving bodies such as the Finnish government, Edinburgh council and the BBC to take pages offline.
+The flaws were discovered by AI, with cyber-security firm Wiz saying they were the "most severe vulnerabilities ever discovered" by the tech, which is reshaping the cyber landscape.
+Finland has temporarily shut down the government's public web services, while the Netherlands' cyber-security agency said it was taking its own website offline due to the vulnerabilities.
+The US National Security Agency issued similar advice on X, external for organisations to take their systems offline if they were unable to update with the fix.
+"These vulnerabilities often provide a direct path to the server's file system or database," it wrote.
+Meanwhile, the White House said federal agencies were working with leading AI labs to speed up a fix to the issue.
+And in a post on X, external, Japan's Prime Minister Sanae Takaichi urged people to check if their publicly available websites ran on PHP.
+The Wikimedia Foundation, which runs the online encyclopedia Wikipedia, said it was addressing the security vulnerabilities.
+"We have taken down a number of other systems as a precautionary measure until they can be safely patched," it said.
+That led some people to be unable to access parts of Wikipedia on Wednesday.
+Edinburgh council's website has also become inaccessible, as well as the online homes for several BBC programmes including Doctor Who and The Traitors.
+They have not confirmed a link to PHP - BBC News has approached them for comment.
+'Roughly 70%' of internet
+Other websites, including the art platform DeviantArt, have said they are "temporarily down for maintenance, external" without specifying the reason.
+The vulnerabilities were discovered by cyber-security researchers at the firms Calif and Wiz.
+Calif, along with PHP Foundation, were part of a program started by OpenAI called Patch the Planet.
+Through that program, they were given access to the AI company's advanced AI tools in order to find and fix flaws in web development language.
+OpenAI said in a blog post, external that the discovery was "one of the most impactful security issues in recent memory". It added an internal researcher at the company had also discovered the issue around the same time as the other firms.
+The flaws had gone undetected for more than a decade. By August, after a few weeks of using advanced AI tools, they were discovered.
+"Frontier models were critical to making this process practical, enabling us to develop and adapt working exploits across multiple applications in hours," Wiz said in a blog post.
+It has estimated "roughly 70%" of the internet is affected, though the BBC is unable to verify that figure.
+While PHP Foundation intended to release its discovery later this month along with a complete fix for the problem, usually referred to by software developers as a "patch," details of the flaw were leaked on social media on Tuesday.
+It forced PHP Foundation to rush out its announcement of the vulnerability and its huge scale.
+The Netherlands' National Institute for Public Health and the Environment, an agency of the Dutch government, has taken down its website.
+Similarly the website of the Tweede Kamer, the lower house of the nation's parliament, has become inaccessible.
+The UK's National Cyber Security Centre (NCSC), as well as its counterparts in the EU and Australia have urged those who use PHP to apply the fixes.
+"Where immediate remediation is not feasible, organisations should consider taking the system offline until it can be fully mitigated," the NCSC said in a note, external.
+Japan's national cyber-security office and EU cyber-security officials have issued a similar warning, external.
+'Early attacks emerging'
+"PHP is everywhere. It quietly powers WordPress, Drupal, Joomla, and Magento sites, shared hosting platforms, control panels, and an awful lot of software that doesn't even advertise that it runs PHP under the hood," cyber-security company Huntress said.
+Cyber-security expert Don Smith, from the Sophos Counter Threat Unit, told the BBC this would "likely be a priority target" for hackers.
+The immediate challenge was not simply installing a patch to fix the issue, but finding and managing every instance where PHP was running, he said.
+"The use of PHP is pervasive, it can sit beneath public websites, content management systems, hosting platforms and third-party products, sometimes without even being obvious to the organisation using it," he said.
+He said it was crucial that organisations looked out for signs that an attacker "might have already have gained a foothold".
+The European Union Computer Emergency Response Team (CERT-EU) said the risk scores given to the vulnerabilities "indicate the potential for unauthenticated remote code execution".
+Such a cyber-attack could potentially allow hackers to install malware and take down websites.
+Dane Knecht, chief technology officer at internet infrastructure firm Cloudflare, said he was, external "seeing early attacks emerging and are updating mitigations as new vectors show up".
+The NCSC said once organisations have installed the update, they should "continuously monitor for security updates from third-party software vendors, including for appliances and services that may bundle PHP".
+It is not yet clear which versions of the programming language are affected, but CERT-EU said it could affect all versions of it dating back to PHP 5 onwards - which launched in 2004.
+The PHP Foundation has issued the update only for the latest versions however - with people using PHP 8.1 or older being urged to upgrade.
+PHP was created for web development. It is used on servers to implement what you see when you visit websites.
+Not all websites use it, but it nonetheless powers a large portion of the internet.
+King warns malicious online actors are evolving tactics
+- Published10 October
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-21T19:54:57+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6136/live/b103d880-cd90-11f1-b1e7-39558e114359.jpg",
+    readTime: 10,
   },
   {
     id: "meta-fined-25bn-for-lies-over-user-data-533d6e9e",
@@ -1589,422 +2089,6 @@ Boeing has been working to ramp up production of its 737 Maxes and 787 Dreamline
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 6,
-  },
-  {
-    id: "it-s-no-secret-what-the-best-financial-a-8e2c26e5",
-    title: "It’s no secret what the best financial advice for retirement is — but most people ignore it anyway",
-    titleJa: "It’s no secret what the best financial advice for retirement is — but most people ignore it anyway",
-    summaryJa: "Research can prove a lot of facts, but that doesn’t mean it changes how people act.",
-    bodyOriginal: `Research can prove a lot of facts, but that doesn’t mean it changes how people act.`,
-    bodyJa: `Research can prove a lot of facts, but that doesn’t mean it changes how people act.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/its-no-secret-what-the-best-financial-advice-for-retirement-is-but-most-people-ignore-it-anyway-7c9075c8?mod=mw_rss_topstories",
-    publishedAt: "2026-10-20T20:57:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-00601261",
-    readTime: 2,
-  },
-  {
-    id: "audit-regulator-looking-into-manchester-b2400f34",
-    title: "Audit regulator looking into Manchester City accounting",
-    titleJa: "Audit regulator looking into Manchester City accounting",
-    summaryJa: "No formal investigation has started, but the regulator is making inquiries into the case.",
-    bodyOriginal: `Audit regulator looking into Manchester City accounting
-- Published
-The UK audit regulator has confirmed it is leading inquiries into accounting irregularities at Manchester City.
-The Financial Reporting Council confirmed in a letter to the House of Commons business select committee it had taken over "regulatory consideration" of the case from the Institute of Chartered Accountants in England and Wales on 30 September.
-No formal investigation has started, but the FRC is making inquiries into the case.
-It comes after Manchester City were found guilty by an independent commission of all charges relating to breaches of the Premier League's financial regulations between the 2009-10 and 2017-18 seasons, including by artificially inflating the club's financial position by more than £900m. City are appealing the verdict.
-The FRC has greater resources, and greater powers, to apply sanctions if it does find evidence of violations. It routinely oversees accounting standards at bigger institutions such as listed public companies, but not football clubs.
-The FRC can look into the conduct of BDO, Manchester City's auditors, to ask whether the audit was in line with the rules.
-It can also apply sanctions to individuals such as directors or employees of the Etihad club, if they are members of professional accountancy bodies.
-BDO is the UK's fifth-biggest accounting firm, but claims to be a market leader in football, advising more Premier League and Championship clubs than any other firm.
-The independent commission which looked into Manchester City found that the club gave a "misleading impression" of the scheme used to disguise the origin of shareholder funds injected into the club to its auditors, who were "unaware" of the scheme.
-Manchester City have said they will appeal against the commission's decision, arguing that it contains "material errors, of law, principle and fact and is unsafe".
-Liam Byrne, chair of the business select committee, called for greater powers for the FRC to look into similar cases.
-He wrote on X: "The regulator's letter exposes gaps in its ability to compel evidence from the club and pursue directors who fall outside its disciplinary rules.
-"This raises serious questions about the powers available to hold companies and directors to account.
-"The government has a responsibility to explain why reforms to close these gaps were abandoned - and what will now be done to strengthen accountability."
-BDO declined to comment.
-- Published2 October`,
-    bodyJa: `Audit regulator looking into Manchester City accounting
-- Published
-The UK audit regulator has confirmed it is leading inquiries into accounting irregularities at Manchester City.
-The Financial Reporting Council confirmed in a letter to the House of Commons business select committee it had taken over "regulatory consideration" of the case from the Institute of Chartered Accountants in England and Wales on 30 September.
-No formal investigation has started, but the FRC is making inquiries into the case.
-It comes after Manchester City were found guilty by an independent commission of all charges relating to breaches of the Premier League's financial regulations between the 2009-10 and 2017-18 seasons, including by artificially inflating the club's financial position by more than £900m. City are appealing the verdict.
-The FRC has greater resources, and greater powers, to apply sanctions if it does find evidence of violations. It routinely oversees accounting standards at bigger institutions such as listed public companies, but not football clubs.
-The FRC can look into the conduct of BDO, Manchester City's auditors, to ask whether the audit was in line with the rules.
-It can also apply sanctions to individuals such as directors or employees of the Etihad club, if they are members of professional accountancy bodies.
-BDO is the UK's fifth-biggest accounting firm, but claims to be a market leader in football, advising more Premier League and Championship clubs than any other firm.
-The independent commission which looked into Manchester City found that the club gave a "misleading impression" of the scheme used to disguise the origin of shareholder funds injected into the club to its auditors, who were "unaware" of the scheme.
-Manchester City have said they will appeal against the commission's decision, arguing that it contains "material errors, of law, principle and fact and is unsafe".
-Liam Byrne, chair of the business select committee, called for greater powers for the FRC to look into similar cases.
-He wrote on X: "The regulator's letter exposes gaps in its ability to compel evidence from the club and pursue directors who fall outside its disciplinary rules.
-"This raises serious questions about the powers available to hold companies and directors to account.
-"The government has a responsibility to explain why reforms to close these gaps were abandoned - and what will now be done to strengthen accountability."
-BDO declined to comment.
-- Published2 October`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-20T20:56:53+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/969d/live/e4786420-ccb8-11f1-b6d1-8953b372d724.jpg",
-    readTime: 6,
-  },
-  {
-    id: "united-airlines-slashes-2026-profit-outl-9fb812f9",
-    title: "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
-    titleJa: "United Airlines slashes 2026 profit outlook on fuel prices, but travelers keep booking despite higher fares",
-    summaryJa: "United Airlines cut its profit outlook for the year as fuel prices continued to climb.",
-    bodyOriginal: `United Airlines is slashing its profit forecast for the year as fuel costs continue to bite, but the carrier said passengers keep booking.
-United said Tuesday that it expects to earn between 50 cents and $1.50 a share on an adjusted basis in the fourth quarter, well below the $1.76 a share Wall Street analysts expected. At the high end of that range, it would bring United's 2026 adjusted earnings to no more than $7.22 per share. In mid-July, United said it was expecting full-year earnings of $9 to $11 a share.
-The carrier expects to pay an average of $4.80 a gallon for fuel in the fourth quarter, up from an average price of $3.90 a gallon in the third.
-A surge in fuel prices this year has added billions of dollars to airlines' costs, eating into profits, despite strong demand, and driving up airfares.
-Here is what United Airlines reported for the quarter that ended Sept. 30 compared with what Wall Street was expecting, based on estimates compiled by LSEG:
-- Earnings per share: $2.54 adjusted vs. $2.57 expected
-- Revenue: $17.88 billion vs. $17.9 billion expected
-United's third-quarter net income rose 8.5% from a year earlier to $1.03 billion, or $3.14 a share. During the same period last year its net income totaled $949 million, or $2.90 a share.
-"Our employees met the challenge of our ever-changing environment and our results prove the resilience of focusing on building a brand-loyal airline for customers," United CEO Scott Kirby said in an earnings release.
-United's fuel bill rose close to 62% in the quarter from a year earlier to $4.84 billion.
-Revenue for the three months ended Sept. 30 rose 17.4% from a year earlier to $17.88 billion, compared with $15.23 billion the year before.
-Domestic passenger unit revenue rose 14.5% from a year earlier, while international unit revenue was up 17.4%, a sign of higher fares. Passengers continue to book, United said, with passenger counts up more than 2% from last year.
-Adjusting for one-time items, United reported net income of $833 million or $2.54 a share.`,
-    bodyJa: `United Airlines is slashing its profit forecast for the year as fuel costs continue to bite, but the carrier said passengers keep booking.
-United said Tuesday that it expects to earn between 50 cents and $1.50 a share on an adjusted basis in the fourth quarter, well below the $1.76 a share Wall Street analysts expected. At the high end of that range, it would bring United's 2026 adjusted earnings to no more than $7.22 per share. In mid-July, United said it was expecting full-year earnings of $9 to $11 a share.
-The carrier expects to pay an average of $4.80 a gallon for fuel in the fourth quarter, up from an average price of $3.90 a gallon in the third.
-A surge in fuel prices this year has added billions of dollars to airlines' costs, eating into profits, despite strong demand, and driving up airfares.
-Here is what United Airlines reported for the quarter that ended Sept. 30 compared with what Wall Street was expecting, based on estimates compiled by LSEG:
-- Earnings per share: $2.54 adjusted vs. $2.57 expected
-- Revenue: $17.88 billion vs. $17.9 billion expected
-United's third-quarter net income rose 8.5% from a year earlier to $1.03 billion, or $3.14 a share. During the same period last year its net income totaled $949 million, or $2.90 a share.
-"Our employees met the challenge of our ever-changing environment and our results prove the resilience of focusing on building a brand-loyal airline for customers," United CEO Scott Kirby said in an earnings release.
-United's fuel bill rose close to 62% in the quarter from a year earlier to $4.84 billion.
-Revenue for the three months ended Sept. 30 rose 17.4% from a year earlier to $17.88 billion, compared with $15.23 billion the year before.
-Domestic passenger unit revenue rose 14.5% from a year earlier, while international unit revenue was up 17.4%, a sign of higher fares. Passengers continue to book, United said, with passenger counts up more than 2% from last year.
-Adjusting for one-time items, United reported net income of $833 million or $2.54 a share.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/20/united-airlines-ual-3q-2026-earnings.html",
-    publishedAt: "2026-10-20T20:23:58+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "trump-sued-over-canadian-tariffs-in-late-c7ed80e0",
-    title: "Trump sued over Canadian tariffs in latest legal challenge",
-    titleJa: "Trump sued over Canadian tariffs in latest legal challenge",
-    summaryJa: "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\".",
-    bodyOriginal: `Trump sued over Canadian tariffs in latest legal challenge
-- Published
-US President Donald Trump is facing another legal challenge on tariffs after the group that successfully sued over his so-called "liberation day" import taxes filed a new lawsuit over the latest Canadian levies.
-The White House imposed a 50% levy on some $20bn of Canadian goods after trade talks between the US and Canada broke down in August.
-The Liberty Justice Center filed a suit on behalf of US food business Gellert Global Group, urging the US Court of International Trade to find the levies unlawful and to order refunds with interest for affected importers.
-The lawsuit argues the White House exceeded its authority in imposing the tariffs and caused "immediate harm to American businesses".
-The White House has been contacted for comment.
-Gellert Global Group is a third-generation family business that is paying 50% tariffs on cheese exported from Canada. The New Jersey-based firm is also facing retaliatory tariffs from Canada on American-made cheese it sells north of the border.
-Co-chief executive Thomas Gellert said the firm had spent generations building relationships with suppliers and customers in the food industry.
-"These tariffs disrupt those relationships overnight and create costs and uncertainty that ripple through the entire supply chain," he said on Tuesday.
-The Liberty Justice Center is challenging the administration's use of Section 338 of the 1930 Tariff Act to hit Canadian goods from wine to dairy products and hockey sticks.
-That section of the nearly 100-year-old Act is aimed at protecting US business against foreign discrimination, but the legal group is arguing that it does not allow the executive branch "to impose sweeping tariffs or import restrictions whenever a trade dispute arises".
-The US-Canada trade war in 5 charts
-- Published31 August
-The lawsuit seeks to challenge the White House's reliance on retaliatory tariffs imposed by Canada to justify its own duties under Section 338.
-Canada has imposed a series of countermeasures against numerous US tariffs. Last month, Canadian Prime Minister Mark Carney matched the Section 338 US tariffs "dollar for dollar" after Trump imposed them for what he called "unequal treatment" of US cars, dairy and alcohol.
-It also points out Section 338 requires a 30-day waiting period before levies can be imposed, but the tariff on products including cheese was added to the list just a week before tariff collection began.
-Sara Albrecht, chief executive of the Liberty Justice Center, said the case was not about Trump himself but about the presidency.
-"No president should have the power to pull a dormant statute off the shelf and use it to impose sweeping tariffs or import bans without the limits Congress required," she said.
-The lawsuit argues that Section 338 of the Tariff Act of 1930 has been superseded by Section 301 of the Trade Act of 1974.
-It also argues that if Section 338 still applies, the White House has not established the legal basis for the sweeping tariffs against Canada.
-"The case is not an objection to tariffs as such. It asks who has the power to impose them and whether the executive branch followed the law Congress wrote," the Liberty Justice Center said.
-The law group has also filed a motion for a preliminary injunction to block their collection.
-It is the fourth case brought by the group against Trump's tariffs, including its successful case against the sweeping tariffs brought in under the International Emergency Economic Powers Act (IEEPA) that were struck down in February this year.
-Albrecht said the group had brought all the cases for the same reason: "the Constitution gives tariff power to Congress. The executive branch cannot keep moving the same policy from one statute to another and pretend the limits disappear".
-- Published9 September
-- Published22 August
-- Published24 August`,
-    bodyJa: `Trump sued over Canadian tariffs in latest legal challenge
-- Published
-US President Donald Trump is facing another legal challenge on tariffs after the group that successfully sued over his so-called "liberation day" import taxes filed a new lawsuit over the latest Canadian levies.
-The White House imposed a 50% levy on some $20bn of Canadian goods after trade talks between the US and Canada broke down in August.
-The Liberty Justice Center filed a suit on behalf of US food business Gellert Global Group, urging the US Court of International Trade to find the levies unlawful and to order refunds with interest for affected importers.
-The lawsuit argues the White House exceeded its authority in imposing the tariffs and caused "immediate harm to American businesses".
-The White House has been contacted for comment.
-Gellert Global Group is a third-generation family business that is paying 50% tariffs on cheese exported from Canada. The New Jersey-based firm is also facing retaliatory tariffs from Canada on American-made cheese it sells north of the border.
-Co-chief executive Thomas Gellert said the firm had spent generations building relationships with suppliers and customers in the food industry.
-"These tariffs disrupt those relationships overnight and create costs and uncertainty that ripple through the entire supply chain," he said on Tuesday.
-The Liberty Justice Center is challenging the administration's use of Section 338 of the 1930 Tariff Act to hit Canadian goods from wine to dairy products and hockey sticks.
-That section of the nearly 100-year-old Act is aimed at protecting US business against foreign discrimination, but the legal group is arguing that it does not allow the executive branch "to impose sweeping tariffs or import restrictions whenever a trade dispute arises".
-The US-Canada trade war in 5 charts
-- Published31 August
-The lawsuit seeks to challenge the White House's reliance on retaliatory tariffs imposed by Canada to justify its own duties under Section 338.
-Canada has imposed a series of countermeasures against numerous US tariffs. Last month, Canadian Prime Minister Mark Carney matched the Section 338 US tariffs "dollar for dollar" after Trump imposed them for what he called "unequal treatment" of US cars, dairy and alcohol.
-It also points out Section 338 requires a 30-day waiting period before levies can be imposed, but the tariff on products including cheese was added to the list just a week before tariff collection began.
-Sara Albrecht, chief executive of the Liberty Justice Center, said the case was not about Trump himself but about the presidency.
-"No president should have the power to pull a dormant statute off the shelf and use it to impose sweeping tariffs or import bans without the limits Congress required," she said.
-The lawsuit argues that Section 338 of the Tariff Act of 1930 has been superseded by Section 301 of the Trade Act of 1974.
-It also argues that if Section 338 still applies, the White House has not established the legal basis for the sweeping tariffs against Canada.
-"The case is not an objection to tariffs as such. It asks who has the power to impose them and whether the executive branch followed the law Congress wrote," the Liberty Justice Center said.
-The law group has also filed a motion for a preliminary injunction to block their collection.
-It is the fourth case brought by the group against Trump's tariffs, including its successful case against the sweeping tariffs brought in under the International Emergency Economic Powers Act (IEEPA) that were struck down in February this year.
-Albrecht said the group had brought all the cases for the same reason: "the Constitution gives tariff power to Congress. The executive branch cannot keep moving the same policy from one statute to another and pretend the limits disappear".
-- Published9 September
-- Published22 August
-- Published24 August`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-20T19:30:05+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18fe/live/5bca92c0-ccb7-11f1-a64c-550be9e3c66b.jpg",
-    readTime: 10,
-  },
-  {
-    id: "housing-is-flashing-warning-signs-just-a-137c5988",
-    title: "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-    titleJa: "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-    summaryJa: "Housing data deteriorated further in September, according to separate reports Tuesday.",
-    bodyOriginal: `The Federal Reserve's inflation fight is running into a growing complication: The housing market is slumping even as broader price pressures persist.
-Housing data deteriorated further in September, according to separate reports Tuesday, adding to an already complicated policy landscape for the central bank as it contemplates its next move on interest rates.
-Things appear poised to get worse before they get better. If the Fed raises short-term rates as expected over the next several months, mortgage rates that are already at 7.43% could push even higher, putting a further damper on affordability. Higher home borrowing costs have coincided with a general rise in inflation and a housing shortage.
-"The housing market is about to go into a deep sleep unless Washington can do a 180 on its policies and make the cost of a new home more affordable," wrote Chris Rupkey, chief economist at Fwdbonds. "It is not winter yet but housing is going into a deep freeze."
-The National Association of Realtors reported that pending sales, a forward-looking index that measures home sales under agreement but not completed, hit an all-time low in records that stretch back to 2001. The index slid 7.3% for the month and was off 11.3% from a year ago. The Wall Street estimate was for a decline of just 0.4%.
-Housing starts, another important metric when evaluating the state of the market, also posted a decline well outside already-muted expectations Tuesday.
-Privately owned housing starts fell at a seasonally adjusted annualized rate of 5.2% on the month, against expectations for a decline of just 0.4%, while building permits were off 0.2%, against the Dow Jones consensus outlook for a 2% gain, according to Commerce Department data.
-Moreover, single-family permits totaled just 845,000, down 4% from August and the lowest number since 2023.
-"Market conditions weakened in September due to fast-rising mortgage rates," said Lawrence Yun, the NAR's chief economist. "Although job growth and income gains can support home purchases, housing affordability is more affected by changes in mortgage rates."
-Rising rates weigh on outlook
-The rate for a 30-year mortgage was above 7% for most of September, ending the month around 7.6%, according to Mortgage News Daily. Five years ago, rates were closer to 3%, feeding into the Covid-era housing boom that saw an explosion in demand and, consequently, prices.
-Outside of the pending sales number, home builder sentiment is at lows not seen in 14 years.
-Under some conditions, Fed officials might respond to the housing weakness with easier monetary policy. Lower rates generally help spur demand by lowering borrowing costs.
-But the Fed has a bigger fight on its hands in its effort to bring inflation under control. Readings last week on consumer and producer prices provided few signs of optimism, with wholesale final demand goods prices rising 2.6%, the fastest pace in a Bureau of Labor Statistics data series going back to December 2009.
-Fed officials have said they are tracking the inflationary effects of the robust investment in artificial intelligence, which is driving up the cost of chips and electronics. At the same time, they believe that benefits from AI investment could offset weaker sectors of the economy such as housing.
-However, conditions generally point to a housing market likely to weaken further before stabilizing, Goldman Sachs economist Ronnie Walker said in a client note Monday.
-"In 2027, we expect the headwind from affordability—reignited by the recent rebound in mortgage rates—to increasingly dominate, weighing further on activity," Walker wrote. "Sustained higher mortgage rates will continue to have their most pronounced impact on housing turnover, and the recent run-up in rates is likely to push existing home sales lower in the coming months."
-More of the same
-Several data points tell the story: More than 95% of mortgage borrowers have rates below the prevailing level, and 65% are 2 percentage points below. Goldman forecasts residential investment to decline 2.5%, 4% and 1%, respectively, over the coming three quarters, with a possibility for a steeper decline if mortgage rates don't fall.
-The firm sees single-family starts of just 875,000 in 2027, little changed from this year, while existing sales are forecast at 3.9 million, also about the same as 2026 but notably 26% below pre-Covid 2019 levels. Walker attributed the middling levels as a product of the "lock-in" effect in which it's too expensive for current homeowners to move and take on higher borrowing costs while deteriorating affordability weighs on new construction.
-"Housing activity has remained rangebound in recent years, capped on the upside by affordability headwinds and buffered on the downside by the longstanding housing shortage," Walker wrote. "In 2027, we expect the headwind from affordability to increasingly dominate, weighing further on activity."
-Markets expect the Fed to hold benchmark rates steady when it meets next week. However, futures pricing implies a strong chance of a quarter-point hike in December and another in March 2027, according to the CME Group's FedWatch tool.
-One point of optimism comes from Yun, the NAR economist, who thinks the trend of mortgage costs running ahead of Fed hikes could mean that rates are topping out.
-"Given that mortgage rates have already risen much more than the Federal Reserve's short-term interest rate hikes, mortgage rates could be topping out," he said. "Buyers and sellers may simply be holding back until mortgage rates move favorably."`,
-    bodyJa: `The Federal Reserve's inflation fight is running into a growing complication: The housing market is slumping even as broader price pressures persist.
-Housing data deteriorated further in September, according to separate reports Tuesday, adding to an already complicated policy landscape for the central bank as it contemplates its next move on interest rates.
-Things appear poised to get worse before they get better. If the Fed raises short-term rates as expected over the next several months, mortgage rates that are already at 7.43% could push even higher, putting a further damper on affordability. Higher home borrowing costs have coincided with a general rise in inflation and a housing shortage.
-"The housing market is about to go into a deep sleep unless Washington can do a 180 on its policies and make the cost of a new home more affordable," wrote Chris Rupkey, chief economist at Fwdbonds. "It is not winter yet but housing is going into a deep freeze."
-The National Association of Realtors reported that pending sales, a forward-looking index that measures home sales under agreement but not completed, hit an all-time low in records that stretch back to 2001. The index slid 7.3% for the month and was off 11.3% from a year ago. The Wall Street estimate was for a decline of just 0.4%.
-Housing starts, another important metric when evaluating the state of the market, also posted a decline well outside already-muted expectations Tuesday.
-Privately owned housing starts fell at a seasonally adjusted annualized rate of 5.2% on the month, against expectations for a decline of just 0.4%, while building permits were off 0.2%, against the Dow Jones consensus outlook for a 2% gain, according to Commerce Department data.
-Moreover, single-family permits totaled just 845,000, down 4% from August and the lowest number since 2023.
-"Market conditions weakened in September due to fast-rising mortgage rates," said Lawrence Yun, the NAR's chief economist. "Although job growth and income gains can support home purchases, housing affordability is more affected by changes in mortgage rates."
-Rising rates weigh on outlook
-The rate for a 30-year mortgage was above 7% for most of September, ending the month around 7.6%, according to Mortgage News Daily. Five years ago, rates were closer to 3%, feeding into the Covid-era housing boom that saw an explosion in demand and, consequently, prices.
-Outside of the pending sales number, home builder sentiment is at lows not seen in 14 years.
-Under some conditions, Fed officials might respond to the housing weakness with easier monetary policy. Lower rates generally help spur demand by lowering borrowing costs.
-But the Fed has a bigger fight on its hands in its effort to bring inflation under control. Readings last week on consumer and producer prices provided few signs of optimism, with wholesale final demand goods prices rising 2.6%, the fastest pace in a Bureau of Labor Statistics data series going back to December 2009.
-Fed officials have said they are tracking the inflationary effects of the robust investment in artificial intelligence, which is driving up the cost of chips and electronics. At the same time, they believe that benefits from AI investment could offset weaker sectors of the economy such as housing.
-However, conditions generally point to a housing market likely to weaken further before stabilizing, Goldman Sachs economist Ronnie Walker said in a client note Monday.
-"In 2027, we expect the headwind from affordability—reignited by the recent rebound in mortgage rates—to increasingly dominate, weighing further on activity," Walker wrote. "Sustained higher mortgage rates will continue to have their most pronounced impact on housing turnover, and the recent run-up in rates is likely to push existing home sales lower in the coming months."
-More of the same
-Several data points tell the story: More than 95% of mortgage borrowers have rates below the prevailing level, and 65% are 2 percentage points below. Goldman forecasts residential investment to decline 2.5%, 4% and 1%, respectively, over the coming three quarters, with a possibility for a steeper decline if mortgage rates don't fall.
-The firm sees single-family starts of just 875,000 in 2027, little changed from this year, while existing sales are forecast at 3.9 million, also about the same as 2026 but notably 26% below pre-Covid 2019 levels. Walker attributed the middling levels as a product of the "lock-in" effect in which it's too expensive for current homeowners to move and take on higher borrowing costs while deteriorating affordability weighs on new construction.
-"Housing activity has remained rangebound in recent years, capped on the upside by affordability headwinds and buffered on the downside by the longstanding housing shortage," Walker wrote. "In 2027, we expect the headwind from affordability to increasingly dominate, weighing further on activity."
-Markets expect the Fed to hold benchmark rates steady when it meets next week. However, futures pricing implies a strong chance of a quarter-point hike in December and another in March 2027, according to the CME Group's FedWatch tool.
-One point of optimism comes from Yun, the NAR economist, who thinks the trend of mortgage costs running ahead of Fed hikes could mean that rates are topping out.
-"Given that mortgage rates have already risen much more than the Federal Reserve's short-term interest rate hikes, mortgage rates could be topping out," he said. "Buyers and sellers may simply be holding back until mortgage rates move favorably."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-    publishedAt: "2026-10-20T19:28:43+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "google-resolves-cloud-outage-affecting-u-5bef8947",
-    title: "Google resolves cloud outage affecting UK banks and websites",
-    titleJa: "Google resolves cloud outage affecting UK banks and websites",
-    summaryJa: "Revolut was one of the hardest hit, with banking services going down for many customers.",
-    bodyOriginal: `Google resolves cloud outage affecting UK banks and websites
-- Published
-Google Cloud says it has resolved disruption at its UK cloud site which caused an outage affecting UK banks, businesses and the courts.
-The company, one of a few large cloud computing firms whose infrastructure and services underpin many online platforms, reported an "issue with multiple services" at its London data centre complex "europe-west2" early on Tuesday.
-Revolut, Lloyds Bank and HSBC were among popular UK services that confirmed disruption on Tuesday morning, after thousands of reports of problems were raised by users online.
-The tech giant apologised to those affected and thanked customers for their patience.
-"We have resolved a disruption to Google Cloud services at a third-party facility in our europe-west2 cloud region due to a power event," a Google Cloud spokesperson said in a statement on Tuesday evening.
-"Services have been restored."
-They added that the company would publish an analysis of the incident on its service health dashboard, external, where it provides customers with updates about the status of its cloud services globally.
-Cloud computing giants like Amazon Web Services (AWS), Microsoft Azure and Google Cloud make their services available to clients in local or regional sites around the world, which they call "regions", containing their data centres.
-In updates to its service dashboard on Tuesday morning, Google Cloud had said a number of its cloud services were "experiencing elevated errors and intermittent network failures in europe-west2 region" - its UK cloud facility in London.
-It later said that the issues had stemmed from a "power event" within one of its smaller data centre zones, europe-west2-b.
-These seemingly affected a host of popular UK platforms and services, with customers flagging issues with sites including Royal Mail, DPD and e-bike service Forest.
-The HM Courts and Tribunals Service also said it was aware of an issue affecting the video platform used for remote hearings.
-Banking services disrupted
-Banks appeared to be among the most badly affected, with customers reporting problems ranging from being unable to access funds abroad to struggling to complete a property purchase.
-Rachael Ellen, 25, a Revolut customer from Glasgow, told BBC News she was left unable to access her money.
-"Today I was unable to pay for my parking at a shopping centre because my Revolut account wasn't working properly," she told the BBC.
-"This left me in a difficult situation as I had no way to access the money I needed at the time."
-She said the outage also meant she could not view a transaction from a relative and was told by the app's help bot that there were no pending incoming transactions.
-"It's frustrating not knowing where the payment is or when I'll receive it," Rachael added.
-More than 1,500 reports of issues affecting Revolut services were flagged to platform outage monitor shortly after 08:00 BST on Tuesday.
-A spokesperson for the company said some Revolut services were disrupted earlier as a result of the Google Cloud outage.
-"We can confirm that services are now fully restored. Our customers' money and data are safe and remained safe throughout.
-"We apologise for any inconvenience caused."
-Customers of Lloyds Bank, Halifax and Bank of Scotland - all owned by the Lloyds Banking Group - also reported issues affecting some online banking services.
-A Lloyds spokesperson did not confirm the cause of issues affecting some of its services, but told the BBC later on Tuesday "we understand the root issues have been resolved, so we expect all our services to be back to normal soon".
-'Incredibly frustrating'
-Guy Baybutt, who works for a family-run business The Veg Box Company also said he was "severely affected" by Tuesday's outage.
-Baybutt, who is from Preston, told the BBC the firm - which supplies fresh fruit, vegetables and other produce to customers across the UK - could not access its website to download and process customer orders amid the technical issues.
-"We were also unable to book parcels onto DPD's system for collection, meaning orders that should have been dispatched today were at risk of being delayed," he said.
-"To make matters worse, customers were unable to access our website to place new orders, meaning we lost valuable sales during the outage."
-He said that such disruptions can have "serious financial consequences" for small businesses like his own.
-"We don't have the resources of larger companies to simply absorb lost revenue, particularly when we're dealing with fresh, perishable produce that needs to reach customers promptly," Baybutt added.
-Dependent on the cloud
-Tuesday's incident came exactly one year after more than 1,000 sites, including UK banks, were knocked offline for hours during an outage at AWS' largest cloud site.
-Experts say this latest outage show how many businesses still rely on core services provided by a few large cloud operators.
-"Google Cloud's outage is a reminder of how deeply our economies depend on just a handful of cloud providers," said Prof Feng Li, associate dean for research & innovation at Bayes Business School.
-He added that it was not yet clear what caused the power problem identified by Google Cloud.
-"Large cloud systems are complex, and failures will happen.
-"What matters is how far they spread, how quickly services recover and whether customers have workable alternatives," he added.
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
-Get in touch
-Have you been affected by issues covered in this story? Share your experiences.
-Related topics
-- Published21 October 2025
-- Published20 April 2024`,
-    bodyJa: `Google resolves cloud outage affecting UK banks and websites
-- Published
-Google Cloud says it has resolved disruption at its UK cloud site which caused an outage affecting UK banks, businesses and the courts.
-The company, one of a few large cloud computing firms whose infrastructure and services underpin many online platforms, reported an "issue with multiple services" at its London data centre complex "europe-west2" early on Tuesday.
-Revolut, Lloyds Bank and HSBC were among popular UK services that confirmed disruption on Tuesday morning, after thousands of reports of problems were raised by users online.
-The tech giant apologised to those affected and thanked customers for their patience.
-"We have resolved a disruption to Google Cloud services at a third-party facility in our europe-west2 cloud region due to a power event," a Google Cloud spokesperson said in a statement on Tuesday evening.
-"Services have been restored."
-They added that the company would publish an analysis of the incident on its service health dashboard, external, where it provides customers with updates about the status of its cloud services globally.
-Cloud computing giants like Amazon Web Services (AWS), Microsoft Azure and Google Cloud make their services available to clients in local or regional sites around the world, which they call "regions", containing their data centres.
-In updates to its service dashboard on Tuesday morning, Google Cloud had said a number of its cloud services were "experiencing elevated errors and intermittent network failures in europe-west2 region" - its UK cloud facility in London.
-It later said that the issues had stemmed from a "power event" within one of its smaller data centre zones, europe-west2-b.
-These seemingly affected a host of popular UK platforms and services, with customers flagging issues with sites including Royal Mail, DPD and e-bike service Forest.
-The HM Courts and Tribunals Service also said it was aware of an issue affecting the video platform used for remote hearings.
-Banking services disrupted
-Banks appeared to be among the most badly affected, with customers reporting problems ranging from being unable to access funds abroad to struggling to complete a property purchase.
-Rachael Ellen, 25, a Revolut customer from Glasgow, told BBC News she was left unable to access her money.
-"Today I was unable to pay for my parking at a shopping centre because my Revolut account wasn't working properly," she told the BBC.
-"This left me in a difficult situation as I had no way to access the money I needed at the time."
-She said the outage also meant she could not view a transaction from a relative and was told by the app's help bot that there were no pending incoming transactions.
-"It's frustrating not knowing where the payment is or when I'll receive it," Rachael added.
-More than 1,500 reports of issues affecting Revolut services were flagged to platform outage monitor shortly after 08:00 BST on Tuesday.
-A spokesperson for the company said some Revolut services were disrupted earlier as a result of the Google Cloud outage.
-"We can confirm that services are now fully restored. Our customers' money and data are safe and remained safe throughout.
-"We apologise for any inconvenience caused."
-Customers of Lloyds Bank, Halifax and Bank of Scotland - all owned by the Lloyds Banking Group - also reported issues affecting some online banking services.
-A Lloyds spokesperson did not confirm the cause of issues affecting some of its services, but told the BBC later on Tuesday "we understand the root issues have been resolved, so we expect all our services to be back to normal soon".
-'Incredibly frustrating'
-Guy Baybutt, who works for a family-run business The Veg Box Company also said he was "severely affected" by Tuesday's outage.
-Baybutt, who is from Preston, told the BBC the firm - which supplies fresh fruit, vegetables and other produce to customers across the UK - could not access its website to download and process customer orders amid the technical issues.
-"We were also unable to book parcels onto DPD's system for collection, meaning orders that should have been dispatched today were at risk of being delayed," he said.
-"To make matters worse, customers were unable to access our website to place new orders, meaning we lost valuable sales during the outage."
-He said that such disruptions can have "serious financial consequences" for small businesses like his own.
-"We don't have the resources of larger companies to simply absorb lost revenue, particularly when we're dealing with fresh, perishable produce that needs to reach customers promptly," Baybutt added.
-Dependent on the cloud
-Tuesday's incident came exactly one year after more than 1,000 sites, including UK banks, were knocked offline for hours during an outage at AWS' largest cloud site.
-Experts say this latest outage show how many businesses still rely on core services provided by a few large cloud operators.
-"Google Cloud's outage is a reminder of how deeply our economies depend on just a handful of cloud providers," said Prof Feng Li, associate dean for research & innovation at Bayes Business School.
-He added that it was not yet clear what caused the power problem identified by Google Cloud.
-"Large cloud systems are complex, and failures will happen.
-"What matters is how far they spread, how quickly services recover and whether customers have workable alternatives," he added.
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
-Get in touch
-Have you been affected by issues covered in this story? Share your experiences.
-Related topics
-- Published21 October 2025
-- Published20 April 2024`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-20T18:03:19+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06fb/live/5e172460-ccc3-11f1-951b-8fbc7a9ea030.jpg",
-    readTime: 10,
-  },
-  {
-    id: "uk-government-to-make-jackdaw-gas-field-9b52601b",
-    title: "UK government to make Jackdaw gas field announcement",
-    titleJa: "UK government to make Jackdaw gas field announcement",
-    summaryJa: "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
-    bodyOriginal: `UK government to make Jackdaw gas field announcement
-- Published
-The UK government is expected to announce a long-awaited decision on whether to approve the Jackdaw gas field in the North Sea.
-It is widely believed in Westminster that Jackdaw will be approved but that a decision on the Rosebank oil field off Shetland will not yet be made.
-The question of whether to approve the two sites has become hugely politically significant and has been delayed for several months.
-Multiple Whitehall sources have told BBC News the government would make an announcement on Jackdaw on Wednesday morning with the Energy Secretary Miatta Fahnbulleh expected to address MPs in the afternoon.
-Prime Minister Andy Burnham has spoken repeatedly of the need for a "flexible" approach to energy and is believed to be in favour of drilling more where licensing already exist in the North Sea.
-Labour's 2024 manifesto pledged not to issue any new oil and gas licences in the North Sea but to honour existing ones such as Jackdaw.
-Jackdaw, about 150 miles (241.4km) east of Aberdeen, is a gas field which its operators say could be connected to the UK network within months.
-Rosebank, about 80 miles (128.7km) north-west of Shetland, is Britain's largest untapped oil field, which would also produce some gas.
-The controversial fields have been the subject of years of debates, legal wrangling and public consultations, with arguments from both industry bodies and environmentalists being weighed up by the UK government.
-Licences for the fields were granted by the Conservative UK government in 2022 and 2023, which sparked legal challenges from environmental groups.
-The Court of Session in Edinburgh ruled last year that Rosebank and Jackdaw had been unlawfully approved because the government had failed to take into account the climate impact of burning extracted oil and gas from the sites.
-Environmentalists insist more drilling would be unconscionable, and hamper efforts to cut planet-warming carbon emissions as deadly heatwaves and extreme weather affect people across the globe.
-They also claim starting production would not protect energy security and transitioning sooner to greener technologies would be better for supporting jobs.
-Industry bodies argue starting production at Rosebank and Jackdaw will provide jobs and improve the UK's energy security as overseas conflicts threaten supply.
-Related topics
-- Published6 days ago
-- Published17 August
-- Published19 July`,
-    bodyJa: `UK government to make Jackdaw gas field announcement
-- Published
-The UK government is expected to announce a long-awaited decision on whether to approve the Jackdaw gas field in the North Sea.
-It is widely believed in Westminster that Jackdaw will be approved but that a decision on the Rosebank oil field off Shetland will not yet be made.
-The question of whether to approve the two sites has become hugely politically significant and has been delayed for several months.
-Multiple Whitehall sources have told BBC News the government would make an announcement on Jackdaw on Wednesday morning with the Energy Secretary Miatta Fahnbulleh expected to address MPs in the afternoon.
-Prime Minister Andy Burnham has spoken repeatedly of the need for a "flexible" approach to energy and is believed to be in favour of drilling more where licensing already exist in the North Sea.
-Labour's 2024 manifesto pledged not to issue any new oil and gas licences in the North Sea but to honour existing ones such as Jackdaw.
-Jackdaw, about 150 miles (241.4km) east of Aberdeen, is a gas field which its operators say could be connected to the UK network within months.
-Rosebank, about 80 miles (128.7km) north-west of Shetland, is Britain's largest untapped oil field, which would also produce some gas.
-The controversial fields have been the subject of years of debates, legal wrangling and public consultations, with arguments from both industry bodies and environmentalists being weighed up by the UK government.
-Licences for the fields were granted by the Conservative UK government in 2022 and 2023, which sparked legal challenges from environmental groups.
-The Court of Session in Edinburgh ruled last year that Rosebank and Jackdaw had been unlawfully approved because the government had failed to take into account the climate impact of burning extracted oil and gas from the sites.
-Environmentalists insist more drilling would be unconscionable, and hamper efforts to cut planet-warming carbon emissions as deadly heatwaves and extreme weather affect people across the globe.
-They also claim starting production would not protect energy security and transitioning sooner to greener technologies would be better for supporting jobs.
-Industry bodies argue starting production at Rosebank and Jackdaw will provide jobs and improve the UK's energy security as overseas conflicts threaten supply.
-Related topics
-- Published6 days ago
-- Published17 August
-- Published19 July`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-20T17:33:42+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f31e/live/85d6bcc0-ccac-11f1-8789-fd6bb060c3f9.jpg",
-    readTime: 6,
-  },
-  {
-    id: "trump-sued-over-50-tariffs-on-canada-in-10207a3b",
-    title: "Trump sued over 50% tariffs on Canada in latest trade challenge",
-    titleJa: "Trump sued over 50% tariffs on Canada in latest trade challenge",
-    summaryJa: "A new lawsuit challenges President Donald Trump's tariffs on a range of Canadian goods using Section 338 of the Tariff Act of 1930.",
-    bodyOriginal: `A new lawsuit filed Tuesday challenges President Donald Trump's invocation of a Depression-era law to impose 50% tariffs on a range of Canadian goods.
-Trump in July used Section 338 of the Tariff Act of 1930 to slap those steep tariffs on Canadian hockey sticks, wine, honey, wigs, and other products in response to alleged trade discrimination by Ottawa. It was the first time the 96-year-old law had ever been used to impose a tariff.
-"Section 338 is a relic of the retaliation-based tariff policy" that has been "impliedly repealed" by subsequent legislation, the civil complaint filed in the U.S. Court of International Trade says.
-The suit was filed by Gellert Global Group, a New Jersey-based food importer that says its cheeses are covered by the tariffs. The complaint asks the court to declare the tariffs unlawful, block their enforcement, and order the Trump administration to issue refunds for duties already paid, with interest.
-Gellert Global is represented by the Liberty Justice Center, the same legal group that dealt a major blow to Trump's trade agenda by successfully contesting his "reciprocal" tariffs.
-The Supreme Court struck those tariffs down in February. The administration is in the process of refunding the estimated $166 billion that the federal government collected from importers through the reciprocal duties.
-The Liberty Justice Center is currently engaged in two other lawsuits against what it says is Trump's misuse of laws to impose sweeping tariffs.
-"This case is not about the president. It is about the presidency," the group's CEO Sara Albrecht said in a statement Tuesday morning announcing Gellert Global's suit. "No president should have the power to pull a dormant statute off the shelf and use it to impose sweeping tariffs or import bans without the limits Congress required."
-The White House did not immediately respond to CNBC's request for comment on the suit.`,
-    bodyJa: `A new lawsuit filed Tuesday challenges President Donald Trump's invocation of a Depression-era law to impose 50% tariffs on a range of Canadian goods.
-Trump in July used Section 338 of the Tariff Act of 1930 to slap those steep tariffs on Canadian hockey sticks, wine, honey, wigs, and other products in response to alleged trade discrimination by Ottawa. It was the first time the 96-year-old law had ever been used to impose a tariff.
-"Section 338 is a relic of the retaliation-based tariff policy" that has been "impliedly repealed" by subsequent legislation, the civil complaint filed in the U.S. Court of International Trade says.
-The suit was filed by Gellert Global Group, a New Jersey-based food importer that says its cheeses are covered by the tariffs. The complaint asks the court to declare the tariffs unlawful, block their enforcement, and order the Trump administration to issue refunds for duties already paid, with interest.
-Gellert Global is represented by the Liberty Justice Center, the same legal group that dealt a major blow to Trump's trade agenda by successfully contesting his "reciprocal" tariffs.
-The Supreme Court struck those tariffs down in February. The administration is in the process of refunding the estimated $166 billion that the federal government collected from importers through the reciprocal duties.
-The Liberty Justice Center is currently engaged in two other lawsuits against what it says is Trump's misuse of laws to impose sweeping tariffs.
-"This case is not about the president. It is about the presidency," the group's CEO Sara Albrecht said in a statement Tuesday morning announcing Gellert Global's suit. "No president should have the power to pull a dormant statute off the shelf and use it to impose sweeping tariffs or import bans without the limits Congress required."
-The White House did not immediately respond to CNBC's request for comment on the suit.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/20/trump-tariffs-canada-section-338-lawsuit.html",
-    publishedAt: "2026-10-20T16:43:42+00:00",
-    category: "貿易",
-    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    readTime: 5,
   },
 ];
 
