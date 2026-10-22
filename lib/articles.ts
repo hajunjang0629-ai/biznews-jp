@@ -15,6 +15,350 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "americans-are-having-fewer-babies-and-pa-36450148",
+    title: "Americans are having fewer babies — and pampering them with luxury diapers",
+    titleJa: "Americans are having fewer babies — and pampering them with luxury diapers",
+    summaryJa: "“Fewer babies in each household means parents spend more per baby,” Procter & Gamble’s CFO says.",
+    bodyOriginal: `“Fewer babies in each household means parents spend more per baby,” Procter & Gamble’s CFO says.`,
+    bodyJa: `“Fewer babies in each household means parents spend more per baby,” Procter & Gamble’s CFO says.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/americans-are-having-fewer-babies-and-pampering-them-with-luxury-diapers-a84222cd?mod=mw_rss_topstories",
+    publishedAt: "2026-10-22T21:28:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-12925124",
+    readTime: 2,
+  },
+  {
+    id: "meta-s-deal-to-keep-zuckerberg-in-califo-568ac15c",
+    title: "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
+    titleJa: "Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election",
+    summaryJa: "With less than two weeks before the midterm elections, Meta made clear that Mark Zuckerberg is staying in California if the wealth tax passes.",
+    bodyOriginal: `In case there were any doubts, Mark Zuckerberg is staying in California.
+Meta was apparently concerned enough that its founder and CEO might depart its home state that the company put in place a new stock plan that could help offset the burden of higher taxes should a billionaires tax, known as Proposition 40, pass on Election Day on Nov. 3.
+The disclosure came in a filing on Wednesday that coincided with Meta's third-quarter earnings report, and represents a first among California's megacap tech companies. Zuckerberg, the sixth-richest person in the world, is one of the few among his peers to still reside in the state, along with Nvidia CEO Jensen Huang.
+Elon Musk and Michael Dell live in Texas, while Amazon founder Jeff Bezos' primary residence has always been elsewhere. Google co-founders Larry Page and Sergey Brin moved out of California ahead of the election and bought luxury homes in Florida, the same state that Oracle founder Larry Ellison officially calls home.
+Prop. 40 would impose a 5% tax on Californians worth over $1 billion. Zuckerberg's net worth is currently about $225 billion.
+"If the California wealth tax is enacted and Mr. Zuckerberg becomes liable for a tax payment, Mr. Zuckerberg would effectively be paying to serve as the Company's chief executive officer while residing in California," the filing said, noting the CEO's "salary of only $1 each year."
+Meta said in the filing that Zuckerberg committed to remaining in California for eight years, "unless there are material unforeseen circumstances that would render it prudent or advisable for Mr. Zuckerberg to reside elsewhere."
+The company created a new class of non-voting Class C common stock to take effect in January. Zuckerberg will essentially be granted a portion of the new stock via a dividend. He will be able to "immediately sell or transfer up to 20%" of the shares he's granted "for any reason, including so that he may pay his potential tax liability under California Proposition 40, if enacted into law, without affecting his majority voting control," the filing said.
+The tech industry, by and large, has been unified in its objection to the ballot measure.
+In addition to the Google co-founders, a number of big-name techies have put spending into opposing Prop. 40. They include former Google CEO Eric Schmidt, Stripe CEO Patrick Collison, venture investor Peter Thiel and DoorDash CEO Tony Xu, according to various media reports based on campaign filings.
+Collison and Xu are members of Meta's board of directors while Thiel left the company's board in 2022, having served since 2005.
+Brin told The New York Times in April he fled the Soviet Union with his family in 1979, and said "I don't want California to end up in the same place."
+Huang, however, recently told CBS Sunday Morning that it would be a "privilege" to pay the tax. Huang is just behind Zuckerberg in Forbes' billionaire ranking, with a net worth of $185 billion.
+Although Prop. 40 advocates, including Sen. Bernie Sanders, I-Vt., have been urging voters to pass the ballot measure, recent polling has suggested that it may fail to garner the majority support required to make it law. A recent Citrin-Politico poll showed 46% are in favor of the measure compared to 43% who oppose it.
+Meta, with the help of a special committee, views Zuckerberg as key to the company's future and its efforts to become a major player in artificial intelligence, according to the filing. In particular, the company said it doesn't want to jeopardize Zuckerberg's close working arrangement with the Meta Superintelligence Labs, which is led by AI chief Alexandr Wang.
+"The Special Committee believes that Mr. Zuckerberg's talent and leadership have been crucial to our growth, strategy, and stability since our inception, and the Special Committee wants that to continue," the filing said.
+Although Meta considered the possibility of issuing Class A common stock to help raise funds, the filing noted that Zuckerberg made clear "that he would not support a significant equity financing that would have the effect of reducing his voting power in the Company."
+Doing so will help Meta receive "critical equity capital without impacting Mr. Zuckerberg's voting power and the unique and creative vision and exceptional management abilities which helped to deliver the long-term value as noted above," the filing said.
+WATCH: 'Fast Money' traders react to Meta's Q3 results as stock climbs in extended trading.`,
+    bodyJa: `In case there were any doubts, Mark Zuckerberg is staying in California.
+Meta was apparently concerned enough that its founder and CEO might depart its home state that the company put in place a new stock plan that could help offset the burden of higher taxes should a billionaires tax, known as Proposition 40, pass on Election Day on Nov. 3.
+The disclosure came in a filing on Wednesday that coincided with Meta's third-quarter earnings report, and represents a first among California's megacap tech companies. Zuckerberg, the sixth-richest person in the world, is one of the few among his peers to still reside in the state, along with Nvidia CEO Jensen Huang.
+Elon Musk and Michael Dell live in Texas, while Amazon founder Jeff Bezos' primary residence has always been elsewhere. Google co-founders Larry Page and Sergey Brin moved out of California ahead of the election and bought luxury homes in Florida, the same state that Oracle founder Larry Ellison officially calls home.
+Prop. 40 would impose a 5% tax on Californians worth over $1 billion. Zuckerberg's net worth is currently about $225 billion.
+"If the California wealth tax is enacted and Mr. Zuckerberg becomes liable for a tax payment, Mr. Zuckerberg would effectively be paying to serve as the Company's chief executive officer while residing in California," the filing said, noting the CEO's "salary of only $1 each year."
+Meta said in the filing that Zuckerberg committed to remaining in California for eight years, "unless there are material unforeseen circumstances that would render it prudent or advisable for Mr. Zuckerberg to reside elsewhere."
+The company created a new class of non-voting Class C common stock to take effect in January. Zuckerberg will essentially be granted a portion of the new stock via a dividend. He will be able to "immediately sell or transfer up to 20%" of the shares he's granted "for any reason, including so that he may pay his potential tax liability under California Proposition 40, if enacted into law, without affecting his majority voting control," the filing said.
+The tech industry, by and large, has been unified in its objection to the ballot measure.
+In addition to the Google co-founders, a number of big-name techies have put spending into opposing Prop. 40. They include former Google CEO Eric Schmidt, Stripe CEO Patrick Collison, venture investor Peter Thiel and DoorDash CEO Tony Xu, according to various media reports based on campaign filings.
+Collison and Xu are members of Meta's board of directors while Thiel left the company's board in 2022, having served since 2005.
+Brin told The New York Times in April he fled the Soviet Union with his family in 1979, and said "I don't want California to end up in the same place."
+Huang, however, recently told CBS Sunday Morning that it would be a "privilege" to pay the tax. Huang is just behind Zuckerberg in Forbes' billionaire ranking, with a net worth of $185 billion.
+Although Prop. 40 advocates, including Sen. Bernie Sanders, I-Vt., have been urging voters to pass the ballot measure, recent polling has suggested that it may fail to garner the majority support required to make it law. A recent Citrin-Politico poll showed 46% are in favor of the measure compared to 43% who oppose it.
+Meta, with the help of a special committee, views Zuckerberg as key to the company's future and its efforts to become a major player in artificial intelligence, according to the filing. In particular, the company said it doesn't want to jeopardize Zuckerberg's close working arrangement with the Meta Superintelligence Labs, which is led by AI chief Alexandr Wang.
+"The Special Committee believes that Mr. Zuckerberg's talent and leadership have been crucial to our growth, strategy, and stability since our inception, and the Special Committee wants that to continue," the filing said.
+Although Meta considered the possibility of issuing Class A common stock to help raise funds, the filing noted that Zuckerberg made clear "that he would not support a significant equity financing that would have the effect of reducing his voting power in the Company."
+Doing so will help Meta receive "critical equity capital without impacting Mr. Zuckerberg's voting power and the unique and creative vision and exceptional management abilities which helped to deliver the long-term value as noted above," the filing said.
+WATCH: 'Fast Money' traders react to Meta's Q3 results as stock climbs in extended trading.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html",
+    publishedAt: "2026-10-22T20:47:59+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "openai-nears-up-to-30-billion-funding-ro-dc960ddc",
+    title: "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
+    titleJa: "OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors",
+    summaryJa: "OpenAI is close to finalizing a new funding round that is meant to be a bridge to its 2027 IPO, sources familiar with the matter tell CNBC.",
+    bodyOriginal: `OpenAI is closing in on a funding round that could value the artificial intelligence giant at more than $1 trillion ahead of a potential initial public offering.
+The San Francisco-based AI company is raising up to $30 billion at a $1.25 trillion valuation, according to people familiar with the deal, who asked not to be named because the details were confidential. That valuation does not include new capital raised.
+Investors from the United Arab Emirates are leading the round alongside Coatue, according to the people. The financing is being positioned as an "opportunistic" bridge ahead of a potential IPO.
+OpenAI kickstarted discussions for a new funding round after investors approached the company with proposals in September, as CNBC previously reported. OpenAI told investors on Thursday that it is aiming to secure signatures by the end of next week, but the final size of the round is still being determined, the people said.
+Alongside the new investment, OpenAI is negotiating a commercial deal that would secure more computing capacity from the UAE, according to one person. OpenAI told investors in February that it's targeting roughly $600 billion in total compute spend by 2030.
+The company confidentially filed its prospectus with the Securities and Exchange Commission in June, but it has not disclosed exactly when it plans to debut.
+OpenAI CFO Sarah Friar told employees in August that the AI lab "will be a public company in 2027." The following month, CEO Sam Altman said that "right now would be an ill-advised moment to go public."
+Anthropic, OpenAI's chief rival, is also gearing up for what is widely expected to be a massive IPO. The company confidentially filed its prospectus with regulators in June and is actively engaging in meetings with prospective investors, as CNBC previously reported.
+The company is reportedly seeking a valuation between $1.5 trillion and $2 trillion in its offering. In May, Anthropic closed a $65 billion funding round at a $965 billion valuation.`,
+    bodyJa: `OpenAI is closing in on a funding round that could value the artificial intelligence giant at more than $1 trillion ahead of a potential initial public offering.
+The San Francisco-based AI company is raising up to $30 billion at a $1.25 trillion valuation, according to people familiar with the deal, who asked not to be named because the details were confidential. That valuation does not include new capital raised.
+Investors from the United Arab Emirates are leading the round alongside Coatue, according to the people. The financing is being positioned as an "opportunistic" bridge ahead of a potential IPO.
+OpenAI kickstarted discussions for a new funding round after investors approached the company with proposals in September, as CNBC previously reported. OpenAI told investors on Thursday that it is aiming to secure signatures by the end of next week, but the final size of the round is still being determined, the people said.
+Alongside the new investment, OpenAI is negotiating a commercial deal that would secure more computing capacity from the UAE, according to one person. OpenAI told investors in February that it's targeting roughly $600 billion in total compute spend by 2030.
+The company confidentially filed its prospectus with the Securities and Exchange Commission in June, but it has not disclosed exactly when it plans to debut.
+OpenAI CFO Sarah Friar told employees in August that the AI lab "will be a public company in 2027." The following month, CEO Sam Altman said that "right now would be an ill-advised moment to go public."
+Anthropic, OpenAI's chief rival, is also gearing up for what is widely expected to be a massive IPO. The company confidentially filed its prospectus with regulators in June and is actively engaging in meetings with prospective investors, as CNBC previously reported.
+The company is reportedly seeking a valuation between $1.5 trillion and $2 trillion in its offering. In May, Anthropic closed a $65 billion funding round at a $965 billion valuation.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
+    publishedAt: "2026-10-22T20:41:37+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "trump-defends-ramaswamy-ad-with-acton-s-7afc7fc0",
+    title: "Trump defends Ramaswamy ad with Acton's estranged mom after bipartisan criticism",
+    titleJa: "Trump defends Ramaswamy ad with Acton's estranged mom after bipartisan criticism",
+    summaryJa: "Ohio Gov. Mike DeWine said GOP gubernatorial nominee Vivek Ramaswamy should remove the ad featuring the mother of Democratic nominee Amy Acton.",
+    bodyOriginal: `President Donald Trump on Thursday defended a controversial ad by the campaign of Vivek Ramaswamy featuring the estranged mother of Amy Acton, his Democratic opponent in the Ohio gubernatorial race, calling Acton a liar.
+Trump's defense of the ad came after widespread bipartisan backlash to it, which focused on the fact that Acton's stepfather, Cledith Arthur, was charged with raping her when she was a child and was married to Acton's mother, Donna Arthur.
+In the ad, Donna Arthur says Acton has "lied her entire life."
+"Don't vote for people who lie," Arthur says in the ad. "Don't let her become your governor. If you think she'll make your life better, you're fooling yourself. It will only get worse."
+Acton has said she has not seen Arthur since she was 12 years old. Cledith Arthur fled after his arrest and remained a fugitive until his death in Pennsylvania in 2004.
+Trump, in a Truth Social post on Thursday, said, "Vivek Ramaswamy put up a very powerful Ad about a mother saying that her daughter, Amy Acton, who is running for Governor of Ohio, is a liar, and much worse."
+"The Press, in a concerted and well coordinated attack, is trying to get Vivek Ramaswamy to 'take down the Ad,' " Trump said. "Frankly, anybody whose mother spoke about a daughter in that way would normally lead to the daughter being precluded from serving in Office, let alone the Office of Governor."
+Trump also criticized Ohio Gov. Mike DeWine for calling for the ad to be taken down, even as DeWine continued to support his fellow Republican Ramaswamy's candidacy to succeed him.
+"The ad, on its face, is deeply, deeply troubling," DeWine said in a press conference earlier Thursday.
+Trump said DeWine "probably wants a Dumocrat to win, and certainly doesn't want someone who will do a much better job than he is capable of doing."
+"I suggested, on the other hand, that Vivek should keep it up, and let everyone listen to the mother of a defective, dishonest, and incapable Candidate, explain how the daughter is a DISASTER who, uncontrollably, lies, cheats, and steals!" Trump said.
+Trump later told reporters that he had "no idea" about Acton's allegation of being raped by her mother's husband, and questioned when Acton had made that claim.
+Trump's comments came a day after his vice president, JD Vance, during a visit to Cincinnati and said it was "not really my concern" whether the ad was appropriate.
+But Vance also said, "I'm a little bit disgusted when I see Republicans across the country who are whining more about that advertisement than they are about what the congressional Democrats and other Democrats want to do to the United States of America."
+"The media and the Democrats in the state of Ohio are obsessed because guess what? Vivek Ramaswamy had the audacity to run a TV commercial which calls it out like it is and calls Amy Acton a liar," Vance said. "Whatever you think about any of the TV advertisements, focus on the substance and focus on the facts."
+Ramaswamy's campaign has spent nearly $95,000 to air the ad so far, according to AdImpact, with more than 100 airings concentrated in Cleveland, Columbus, and Cincinnati — three of Ohio's biggest media markets.
+Ramaswamy's campaign has said it committed $4 million to air the ad.
+Acton on Thursday said of the ad, "It was a horrible and hideous thing to do. A sad thing. And I feel like it was an exploitative thing to do."
+"My mother is not well," Acton said.
+Her brother, Philip Stearns, told The New York Times in a statement earlier this week that he and Acton were removed from their mother's custody after their stepfather was arrested.
+"Our birth mother stayed married to Amy's rapist until he died," Stearns said. "This desperate, disgusting attack reveals exactly who Vivek Ramaswamy is at his core — a pathetic excuse for a man who is willing to hurt anyone as long as it gets him what he wants."
+Former Ohio Sen. Rob Portman, a Republican, told Politico on Thursday that the ad should be taken down.
+"The increasing incivility in the political arena should concern us all," Portman said, according to Politico's Jonathan Martin. "This ad is an unfortunate example of that broader trend. It crosses the line. I hope the ad will be taken down and the final days of the campaign will focus on policy differences."
+— CNBC's Luke Fountain contributed to this article.`,
+    bodyJa: `President Donald Trump on Thursday defended a controversial ad by the campaign of Vivek Ramaswamy featuring the estranged mother of Amy Acton, his Democratic opponent in the Ohio gubernatorial race, calling Acton a liar.
+Trump's defense of the ad came after widespread bipartisan backlash to it, which focused on the fact that Acton's stepfather, Cledith Arthur, was charged with raping her when she was a child and was married to Acton's mother, Donna Arthur.
+In the ad, Donna Arthur says Acton has "lied her entire life."
+"Don't vote for people who lie," Arthur says in the ad. "Don't let her become your governor. If you think she'll make your life better, you're fooling yourself. It will only get worse."
+Acton has said she has not seen Arthur since she was 12 years old. Cledith Arthur fled after his arrest and remained a fugitive until his death in Pennsylvania in 2004.
+Trump, in a Truth Social post on Thursday, said, "Vivek Ramaswamy put up a very powerful Ad about a mother saying that her daughter, Amy Acton, who is running for Governor of Ohio, is a liar, and much worse."
+"The Press, in a concerted and well coordinated attack, is trying to get Vivek Ramaswamy to 'take down the Ad,' " Trump said. "Frankly, anybody whose mother spoke about a daughter in that way would normally lead to the daughter being precluded from serving in Office, let alone the Office of Governor."
+Trump also criticized Ohio Gov. Mike DeWine for calling for the ad to be taken down, even as DeWine continued to support his fellow Republican Ramaswamy's candidacy to succeed him.
+"The ad, on its face, is deeply, deeply troubling," DeWine said in a press conference earlier Thursday.
+Trump said DeWine "probably wants a Dumocrat to win, and certainly doesn't want someone who will do a much better job than he is capable of doing."
+"I suggested, on the other hand, that Vivek should keep it up, and let everyone listen to the mother of a defective, dishonest, and incapable Candidate, explain how the daughter is a DISASTER who, uncontrollably, lies, cheats, and steals!" Trump said.
+Trump later told reporters that he had "no idea" about Acton's allegation of being raped by her mother's husband, and questioned when Acton had made that claim.
+Trump's comments came a day after his vice president, JD Vance, during a visit to Cincinnati and said it was "not really my concern" whether the ad was appropriate.
+But Vance also said, "I'm a little bit disgusted when I see Republicans across the country who are whining more about that advertisement than they are about what the congressional Democrats and other Democrats want to do to the United States of America."
+"The media and the Democrats in the state of Ohio are obsessed because guess what? Vivek Ramaswamy had the audacity to run a TV commercial which calls it out like it is and calls Amy Acton a liar," Vance said. "Whatever you think about any of the TV advertisements, focus on the substance and focus on the facts."
+Ramaswamy's campaign has spent nearly $95,000 to air the ad so far, according to AdImpact, with more than 100 airings concentrated in Cleveland, Columbus, and Cincinnati — three of Ohio's biggest media markets.
+Ramaswamy's campaign has said it committed $4 million to air the ad.
+Acton on Thursday said of the ad, "It was a horrible and hideous thing to do. A sad thing. And I feel like it was an exploitative thing to do."
+"My mother is not well," Acton said.
+Her brother, Philip Stearns, told The New York Times in a statement earlier this week that he and Acton were removed from their mother's custody after their stepfather was arrested.
+"Our birth mother stayed married to Amy's rapist until he died," Stearns said. "This desperate, disgusting attack reveals exactly who Vivek Ramaswamy is at his core — a pathetic excuse for a man who is willing to hurt anyone as long as it gets him what he wants."
+Former Ohio Sen. Rob Portman, a Republican, told Politico on Thursday that the ad should be taken down.
+"The increasing incivility in the political arena should concern us all," Portman said, according to Politico's Jonathan Martin. "This ad is an unfortunate example of that broader trend. It crosses the line. I hope the ad will be taken down and the final days of the campaign will focus on policy differences."
+— CNBC's Luke Fountain contributed to this article.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/22/trump-ramaswamy-ad-acton-mother-ad.html",
+    publishedAt: "2026-10-22T20:26:48+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "elon-musk-invests-about-1-billion-in-sky-d4190cb1",
+    title: "Elon Musk invests about $1 billion in Skydance",
+    titleJa: "Elon Musk invests about $1 billion in Skydance",
+    summaryJa: "David Ellison's father, billionaire and Oracle co-founder Larry Ellison, has a history with Musk.",
+    bodyOriginal: `Elon Musk has made an investment in Skydance of roughly $1 billion, according to a person familiar with the matter who asked not to be named because they were not authorized to speak publicly.
+The financial injection comes as the company looks to cut costs. Paramount closed its acquisition of Warner Bros. Discovery on Oct. 6, naming the combined entity Skydance. Co-CEOs David Ellison and Ynon Kreiz are tasked with merging two major film studios in Paramount and Warner Bros., two popular streaming platforms — Paramount+ and HBO Max — and a host of corporate functions to support a portfolio of TV networks and two news divisions.
+Skydance has said it expects to see $6 billion in cost savings over three years, though it faces a debt burden of nearly $80 billion.
+Musk's commitment is part of a wider effort by Skydance to raise equity investments, according to Semafor, which first reported the news Thursday. Representatives for Musk and Skydance did not immediately respond to CNBC's requests for comment.
+Shares of Skydance were down about 1% Thursday.
+Ellison's father, Larry Ellison, has a history with Musk. The Oracle co-founder invested $1 billion in Musk's 2022 deal to purchase Twitter, now called X. Larry Ellison also invested in Tesla in 2018 and served on the company's board of directors.
+The elder Ellison also personally guaranteed more than $40 billion of equity financing in Paramount's offer to take over WBD.`,
+    bodyJa: `Elon Musk has made an investment in Skydance of roughly $1 billion, according to a person familiar with the matter who asked not to be named because they were not authorized to speak publicly.
+The financial injection comes as the company looks to cut costs. Paramount closed its acquisition of Warner Bros. Discovery on Oct. 6, naming the combined entity Skydance. Co-CEOs David Ellison and Ynon Kreiz are tasked with merging two major film studios in Paramount and Warner Bros., two popular streaming platforms — Paramount+ and HBO Max — and a host of corporate functions to support a portfolio of TV networks and two news divisions.
+Skydance has said it expects to see $6 billion in cost savings over three years, though it faces a debt burden of nearly $80 billion.
+Musk's commitment is part of a wider effort by Skydance to raise equity investments, according to Semafor, which first reported the news Thursday. Representatives for Musk and Skydance did not immediately respond to CNBC's requests for comment.
+Shares of Skydance were down about 1% Thursday.
+Ellison's father, Larry Ellison, has a history with Musk. The Oracle co-founder invested $1 billion in Musk's 2022 deal to purchase Twitter, now called X. Larry Ellison also invested in Tesla in 2018 and served on the company's board of directors.
+The elder Ellison also personally guaranteed more than $40 billion of equity financing in Paramount's offer to take over WBD.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/22/elon-musk-skydance-investment.html",
+    publishedAt: "2026-10-22T19:34:46+00:00",
+    category: "自動車",
+    imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "moderna-shares-plunge-after-leak-of-canc-df42a3a8",
+    title: "Moderna shares plunge after leak of cancer vaccine data despite positive results",
+    titleJa: "Moderna shares plunge after leak of cancer vaccine data despite positive results",
+    summaryJa: "Moderna's stock fell even though the full data, released later Thursday, appeared positive based on Wall Street expectations ahead of the release.",
+    bodyOriginal: `Moderna shares dropped as much as 25% on Thursday following the leak of partial data on its closely watched cancer vaccine developed with Merck.
+Shares of both drugmakers fell even though the full data, released later Thursday following the leak, appeared meaningful for patients and positive relative to Wall Street expectations. The personalized vaccine, known as intismeran autogene, paired with Merck's immunotherapy Keytruda reduced the risk of recurrence or death in certain melanoma patients by 42% compared with Keytruda alone.
+The data also showed the shot along with Keytruda reduced the risk of cancer spreading to distant parts of the body or death by 38%, compared with just the immunotherapy.
+The companies say about 82% of patients who received the personalized cancer vaccine alongside Keytruda were alive without their melanoma returning at two years, compared with 70% of those who received Keytruda alone.
+The detailed phase 3 trial results were set to be presented at the European Society for Medical Oncology conference this weekend.
+Several analysts acknowledged investors' elevated expectations ahead of the release, but noted that the data is overall positive.
+"We assert this relative reduction in recurrence/death is clinically meaningful," BMO Capital Markets analyst Evan Seigerman said in a research note on Thursday. "Such a reaction likely reflects inflated expectations into the full data release, rather than a true indictment on the efficacy of the combo therapy."
+Investors see the targeted vaccine as a possible breakthrough treatment, with the potential to be used in other forms of cancer in the future. It could also offer Moderna a critical additional commercial product in its pipeline, following vaccines for Covid-19, the flu and respiratory syncytial virus.
+In a research note Thursday, UBS analysts said "this is overall a strong data set" and gives more confidence in upcoming studies of the vaccine in kidney and bladder cancers. They added the stock reaction may be due more to massive expectations than disappointing data.
+The high expectations for the product have sent Moderna shares soaring this year. The stock has spiked more than 530% year-to-date as of Thursday afternoon.
+Shares of Merck, a much larger drugmaker, fell by about 1% on Thursday. The company's stock has climbed nearly 41% this year.
+Since the vaccine is personalized, the complicated manufacturing process can take six weeks. But Merck CEO Robert Davis told CNBC last week that the company believes it can shorten that timeline in the future, potentially allowing the shot to reach more patients more quickly.`,
+    bodyJa: `Moderna shares dropped as much as 25% on Thursday following the leak of partial data on its closely watched cancer vaccine developed with Merck.
+Shares of both drugmakers fell even though the full data, released later Thursday following the leak, appeared meaningful for patients and positive relative to Wall Street expectations. The personalized vaccine, known as intismeran autogene, paired with Merck's immunotherapy Keytruda reduced the risk of recurrence or death in certain melanoma patients by 42% compared with Keytruda alone.
+The data also showed the shot along with Keytruda reduced the risk of cancer spreading to distant parts of the body or death by 38%, compared with just the immunotherapy.
+The companies say about 82% of patients who received the personalized cancer vaccine alongside Keytruda were alive without their melanoma returning at two years, compared with 70% of those who received Keytruda alone.
+The detailed phase 3 trial results were set to be presented at the European Society for Medical Oncology conference this weekend.
+Several analysts acknowledged investors' elevated expectations ahead of the release, but noted that the data is overall positive.
+"We assert this relative reduction in recurrence/death is clinically meaningful," BMO Capital Markets analyst Evan Seigerman said in a research note on Thursday. "Such a reaction likely reflects inflated expectations into the full data release, rather than a true indictment on the efficacy of the combo therapy."
+Investors see the targeted vaccine as a possible breakthrough treatment, with the potential to be used in other forms of cancer in the future. It could also offer Moderna a critical additional commercial product in its pipeline, following vaccines for Covid-19, the flu and respiratory syncytial virus.
+In a research note Thursday, UBS analysts said "this is overall a strong data set" and gives more confidence in upcoming studies of the vaccine in kidney and bladder cancers. They added the stock reaction may be due more to massive expectations than disappointing data.
+The high expectations for the product have sent Moderna shares soaring this year. The stock has spiked more than 530% year-to-date as of Thursday afternoon.
+Shares of Merck, a much larger drugmaker, fell by about 1% on Thursday. The company's stock has climbed nearly 41% this year.
+Since the vaccine is personalized, the complicated manufacturing process can take six weeks. But Merck CEO Robert Davis told CNBC last week that the company believes it can shorten that timeline in the future, potentially allowing the shot to reach more patients more quickly.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html",
+    publishedAt: "2026-10-22T19:26:33+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "zuckerberg-wins-meta-deal-to-help-him-fo-f8231b05",
+    title: "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+    titleJa: "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+    summaryJa: "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+    bodyOriginal: `Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax
+- Published
+Meta has agreed to a new deal with chief executive Mark Zuckerberg to prevent him from leaving California over a proposed state tax on billionaires.
+The agreement gives Zuckerberg, whose wealth is estimated to exceed $200bn (£149bn), even more shares in Meta to make up for the fraction of his fortune he may lose if the tax wins voter approval in November.
+The measure would impose a one-time 5% tax on residents with a net worth of more than $1bn. It would likely see the Facebook co-founder pay around $10bn in additional state taxes.
+He secured the deal with a special committee of Meta after "robust" and "at several points, contentious" negotiations, according to a Wednesday financial disclosure.
+California is home to most of the US's technology giants and there are around 225 billionaires who reside in the state, according to the Americans for Tax Fairness campaign group.
+The wealth of such people, including Zuckerberg, has ballooned in recent years. Meanwhile, his estimated effective tax rate in California was less than 1%, external each year.
+Nevertheless, Zuckerberg told Meta's board last month that he was thinking of moving his primary residence out of California, and even selling his property in the state. His main homes in Californa are in Palo Alto and Lake Tahoe.
+Such a move "would be public and inevitably noted and commented upon by company employees", Zuckerberg told the board.
+It would also "raise questions for management of the company going forward", he claimed.
+In response, Meta decided to create more shares of stock in the company in order to give Zuckerberg a way to essentially make up any wealth he may lose through the tax proposal.
+Through what's known as a stock split announced by the company on Wednesday, Meta created an entirely new type of stock and gave one new share to each existing shareholder. Zuckerberg is one of the company's largest shareholders and famously controls the company through the design of his holdings.
+Through the deal, he will receive more stock, more often, and also be able to sell it on a quarterly basis, according to the company's financial filing. The shares will not change his level control over Meta, but they will allow him to cash in more easily on the company's value.
+The deal appears to be effective even if the one-time tax in California does not pass, and will go on for eight years - as long as Zuckerberg remains a resident of California.
+'Critically important'
+Meta called the deal with Zuckerberg its "Founder Alignment Agreement," saying it was "critically important" to keep him leading the company from California given the "dramatic and unprecedented transformation taking place in the tech industry and global economy related to artificial intelligence."
+The company alluded to problems the company experienced during the Covid-19 pandemic, when Zuckerberg began working outside of the office and mostly from his large compound in Kauai, Hawaii.
+After a surge in hiring at Meta during the pandemic, a whistleblower scandal that led to renewed focus on child safety, and a refocus within the company to building out the "metaverse," which included renaming the company Meta from Facebook, the company began mass layoffs and restructuring.
+Layoffs have continued into this year. The company's headcount is down 15% from a year ago, meaning it has shed at least 10,000 workers.
+Today, the company has moved away from the "metaverse," or virtual platforms, and is more focused on artificial intelligence products and related tools.
+With Zuckerberg leading the company's efforts to catch up in the AI race, Meta's board said it sees a future of "tremendous market opportunity" for the company.
+Major tech companies are set to spend an estimated $1 trillion, external this year alone developing AI and the costly infrastructure around it, like data centres.
+Meta said on Wednesday it planned to spend as much as $145bn this year on AI projects. The company has increased the amount it expects to spend on AI each financial quarter so far this year.
+It is spending so much on the technology that it posted negative cash flow for the first time since the company went public 14 years ago. Cash flow represents the money a company retains after paying for operations and investments, meaning Meta is now spending more money than it is bringing in.
+And the company intends to spend even more in the year ahead. Susan Li, Meta's chief financial officer, said on Wednesday that another benefit of the stock split would be to give the company more ways to finance future spending on AI work.
+The degree of the company's spending on AI, without an clear new revenue stream coming from it, appeared to spook investors on Thursday.
+Meta's shares fell more than 7%, wiping more than $100bn off of the company's market capitalisation, a key metric used worldwide to measure the value of a publicly-traded company.
+Related topics
+- Published23 hours ago`,
+    bodyJa: `Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax
+- Published
+Meta has agreed to a new deal with chief executive Mark Zuckerberg to prevent him from leaving California over a proposed state tax on billionaires.
+The agreement gives Zuckerberg, whose wealth is estimated to exceed $200bn (£149bn), even more shares in Meta to make up for the fraction of his fortune he may lose if the tax wins voter approval in November.
+The measure would impose a one-time 5% tax on residents with a net worth of more than $1bn. It would likely see the Facebook co-founder pay around $10bn in additional state taxes.
+He secured the deal with a special committee of Meta after "robust" and "at several points, contentious" negotiations, according to a Wednesday financial disclosure.
+California is home to most of the US's technology giants and there are around 225 billionaires who reside in the state, according to the Americans for Tax Fairness campaign group.
+The wealth of such people, including Zuckerberg, has ballooned in recent years. Meanwhile, his estimated effective tax rate in California was less than 1%, external each year.
+Nevertheless, Zuckerberg told Meta's board last month that he was thinking of moving his primary residence out of California, and even selling his property in the state. His main homes in Californa are in Palo Alto and Lake Tahoe.
+Such a move "would be public and inevitably noted and commented upon by company employees", Zuckerberg told the board.
+It would also "raise questions for management of the company going forward", he claimed.
+In response, Meta decided to create more shares of stock in the company in order to give Zuckerberg a way to essentially make up any wealth he may lose through the tax proposal.
+Through what's known as a stock split announced by the company on Wednesday, Meta created an entirely new type of stock and gave one new share to each existing shareholder. Zuckerberg is one of the company's largest shareholders and famously controls the company through the design of his holdings.
+Through the deal, he will receive more stock, more often, and also be able to sell it on a quarterly basis, according to the company's financial filing. The shares will not change his level control over Meta, but they will allow him to cash in more easily on the company's value.
+The deal appears to be effective even if the one-time tax in California does not pass, and will go on for eight years - as long as Zuckerberg remains a resident of California.
+'Critically important'
+Meta called the deal with Zuckerberg its "Founder Alignment Agreement," saying it was "critically important" to keep him leading the company from California given the "dramatic and unprecedented transformation taking place in the tech industry and global economy related to artificial intelligence."
+The company alluded to problems the company experienced during the Covid-19 pandemic, when Zuckerberg began working outside of the office and mostly from his large compound in Kauai, Hawaii.
+After a surge in hiring at Meta during the pandemic, a whistleblower scandal that led to renewed focus on child safety, and a refocus within the company to building out the "metaverse," which included renaming the company Meta from Facebook, the company began mass layoffs and restructuring.
+Layoffs have continued into this year. The company's headcount is down 15% from a year ago, meaning it has shed at least 10,000 workers.
+Today, the company has moved away from the "metaverse," or virtual platforms, and is more focused on artificial intelligence products and related tools.
+With Zuckerberg leading the company's efforts to catch up in the AI race, Meta's board said it sees a future of "tremendous market opportunity" for the company.
+Major tech companies are set to spend an estimated $1 trillion, external this year alone developing AI and the costly infrastructure around it, like data centres.
+Meta said on Wednesday it planned to spend as much as $145bn this year on AI projects. The company has increased the amount it expects to spend on AI each financial quarter so far this year.
+It is spending so much on the technology that it posted negative cash flow for the first time since the company went public 14 years ago. Cash flow represents the money a company retains after paying for operations and investments, meaning Meta is now spending more money than it is bringing in.
+And the company intends to spend even more in the year ahead. Susan Li, Meta's chief financial officer, said on Wednesday that another benefit of the stock split would be to give the company more ways to finance future spending on AI work.
+The degree of the company's spending on AI, without an clear new revenue stream coming from it, appeared to spook investors on Thursday.
+Meta's shares fell more than 7%, wiping more than $100bn off of the company's market capitalisation, a key metric used worldwide to measure the value of a publicly-traded company.
+Related topics
+- Published23 hours ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-22T18:26:56+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0031/live/77724130-ce2e-11f1-9f18-490cec60aa0f.jpg",
+    readTime: 10,
+  },
+  {
+    id: "bill-ackman-says-2027-will-be-an-amazing-cc892746",
+    title: "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
+    titleJa: "Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease",
+    summaryJa: "Pershing Square CEO Bill Ackman said two geopolitical conflicts — the Ukraine-Russia and Iran wars — along with elevated inflation and interest rates are holding back an otherwise \"booming market environment.\"",
+    bodyOriginal: `Pershing Square CEO Bill Ackman said two geopolitical conflicts — the Ukraine-Russia and Iran wars — along with elevated inflation and interest rates are holding back an otherwise "booming market environment."
+"Once the overhang of the war is done — and it sounds like we're also potentially heading in the right direction with Russia-Ukraine — energy prices could come way down, and obviously that would be very good for inflation and markets," Ackman told CNBC's "Squawk on the Street" on Thursday. "We're going to have an amazing 2027."
+Ackman, who called the Iran conflict an "extremely well-executed war," believes that once there's peace in the Middle East, it will be great for the region and "ultimately great for the United States."
+Higher crude prices have pressured stocks all year, as traders fear elevated energy costs will drive up inflation and force the Federal Reserve to raise rates. U.S. oil is up 72% in 2026, while Brent crude has surged 83%.
+Rising oil appears to have trickled down to consumer prices. Gasoline prices accounted for over half of the increase in the latest consumer price index report. Inflation has been stubborn, moving away from the Federal Reserve's 2% target. Consumer prices rose 3.7% year over year in September.
+Higher prices put the Fed in a bind to keep interest rates elevated to tame inflation.
+Cheap Netflix
+Ackman also discussed individual long-term stock opportunities on his radar.
+The hedge fund manager said he viewed Netflix's earnings favorably. The streaming stock dropped more than 5% on Wednesday after reporting lackluster advertising and revenue guidance. On Thursday, however, they bounced more than 3%.
+Ackman said that any concerns around Netflix's content library are overblown when considering the strength of its management team and its engagement with users. He added that the stock is currently trading at 18 times earnings, "one of the lowest valuations in history," and expected to post earnings growth in the mid to high teens for the foreseeable future.
+"Netflix is a high growth utility," he said.
+Meta undervalued
+The billionaire investor also has Meta Platforms as a core part of Pershing Square's portfolio.
+Shares of the Facebook and Instagram parent are down 6% Thursday despite the company reporting better-than-expected revenue in its third-quarter earnings report on Wednesday, while issuing strong guidance for the current period.
+The stock's drop didn't faze Ackman. "We're in a world in which you cannot look at the day one trading of a stock after earnings because of how levered market participants are and how short-term they are," he said.
+"Meta is extremely well positioned in democratizing the use of agents," citing the company's success with its personal artificial intelligence agent, Muse.
+Meta has "proven that AI is helping them accelerate their business and this remains an incredibly undervalued stock and that's why we own it," Ackman noted.
+He unveiled his position on the tech giant in February. At the time, Ackman cited Meta's "long-term upside potential from AI represents a deeply discounted valuation for one of the world's greatest businesses," during an investor presentation.
+Ackman believes Meta's investments in compute infrastructure are necessary and could eventually generate attractive returns.
+Fannie and Freddie going up tenfold?
+Ackman also reiterated his bullish stance on Fannie Mae and Freddie Mac, of which he is large shareholder in.
+"These stocks will go up tenfold. and that's you know, that's the most asymmetric investment I'm aware of in the stock market," he said. "These entities have fully rebuilt their capital. What's not, I think, well understood is Fannie and Freddie today have five times the capital they had historically."`,
+    bodyJa: `Pershing Square CEO Bill Ackman said two geopolitical conflicts — the Ukraine-Russia and Iran wars — along with elevated inflation and interest rates are holding back an otherwise "booming market environment."
+"Once the overhang of the war is done — and it sounds like we're also potentially heading in the right direction with Russia-Ukraine — energy prices could come way down, and obviously that would be very good for inflation and markets," Ackman told CNBC's "Squawk on the Street" on Thursday. "We're going to have an amazing 2027."
+Ackman, who called the Iran conflict an "extremely well-executed war," believes that once there's peace in the Middle East, it will be great for the region and "ultimately great for the United States."
+Higher crude prices have pressured stocks all year, as traders fear elevated energy costs will drive up inflation and force the Federal Reserve to raise rates. U.S. oil is up 72% in 2026, while Brent crude has surged 83%.
+Rising oil appears to have trickled down to consumer prices. Gasoline prices accounted for over half of the increase in the latest consumer price index report. Inflation has been stubborn, moving away from the Federal Reserve's 2% target. Consumer prices rose 3.7% year over year in September.
+Higher prices put the Fed in a bind to keep interest rates elevated to tame inflation.
+Cheap Netflix
+Ackman also discussed individual long-term stock opportunities on his radar.
+The hedge fund manager said he viewed Netflix's earnings favorably. The streaming stock dropped more than 5% on Wednesday after reporting lackluster advertising and revenue guidance. On Thursday, however, they bounced more than 3%.
+Ackman said that any concerns around Netflix's content library are overblown when considering the strength of its management team and its engagement with users. He added that the stock is currently trading at 18 times earnings, "one of the lowest valuations in history," and expected to post earnings growth in the mid to high teens for the foreseeable future.
+"Netflix is a high growth utility," he said.
+Meta undervalued
+The billionaire investor also has Meta Platforms as a core part of Pershing Square's portfolio.
+Shares of the Facebook and Instagram parent are down 6% Thursday despite the company reporting better-than-expected revenue in its third-quarter earnings report on Wednesday, while issuing strong guidance for the current period.
+The stock's drop didn't faze Ackman. "We're in a world in which you cannot look at the day one trading of a stock after earnings because of how levered market participants are and how short-term they are," he said.
+"Meta is extremely well positioned in democratizing the use of agents," citing the company's success with its personal artificial intelligence agent, Muse.
+Meta has "proven that AI is helping them accelerate their business and this remains an incredibly undervalued stock and that's why we own it," Ackman noted.
+He unveiled his position on the tech giant in February. At the time, Ackman cited Meta's "long-term upside potential from AI represents a deeply discounted valuation for one of the world's greatest businesses," during an investor presentation.
+Ackman believes Meta's investments in compute infrastructure are necessary and could eventually generate attractive returns.
+Fannie and Freddie going up tenfold?
+Ackman also reiterated his bullish stance on Fannie Mae and Freddie Mac, of which he is large shareholder in.
+"These stocks will go up tenfold. and that's you know, that's the most asymmetric investment I'm aware of in the stock market," he said. "These entities have fully rebuilt their capital. What's not, I think, well understood is Fannie and Freddie today have five times the capital they had historically."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html",
+    publishedAt: "2026-10-22T17:53:08+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 9,
+  },
+  {
     id: "musk-s-clash-with-ukraine-accelerates-de-9f304431",
     title: "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
     titleJa: "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
@@ -1869,318 +2213,6 @@ Related topics
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b7c/live/04502cf0-cd5a-11f1-b962-b7ff822cde72.jpg",
     readTime: 9,
-  },
-  {
-    id: "new-mexico-ag-lawsuit-accuses-epstein-s-86cefb1d",
-    title: "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
-    titleJa: "New Mexico AG lawsuit accuses Epstein's attorney and accountant of facilitating sex trafficking",
-    summaryJa: "Darren Indyke and Richard Kahn allegedly helped finance and conceal Epstein's sex trafficking, which included abuse at his Zorro Ranch, a lawsuit says.",
-    bodyOriginal: `New Mexico's attorney general on Wednesday filed a lawsuit accusing Jeffrey Epstein's long-time personal lawyer and accountant of facilitating Epstein's sex trafficking operation.
-The suit alleges that the attorney, Darren Indyke, and the accountant, Richard Kahn, helped finance and conceal Epstein's sex trafficking, which included the abuse of girls and young women at his Zorro Ranch in Santa Fe County, New Mexico.
-Indyke and Kahn are beneficiaries of Epstein's 1953 Trust and are co-executors of Epstein's estate and trust administrators. New Mexico's suit asks a judge to block Indyke and Kahn from receiving payments from the estate as the case proceeds.
-Attorney General Raul Torrez's office said that Epstein's estate is currently valued at more than $107 million, and the suit says Indyke and Kahn are eligible for bequests of $50 million and $25 million, subject to the availability of funds.
-"Jeffrey Epstein did not operate alone, and his death does not end the pursuit of accountability for the people who helped make his crimes possible," Torrez said in a statement.
-"The allegations in this lawsuit describe a network of people and financial arrangements that helped sustain and conceal the abuse of vulnerable girls and young women, including here in New Mexico," Torrez said. "Those who allegedly enabled this exploitation should not be allowed to profit from it while survivors continue to live with its consequences."
-The lawsuit alleges that Indyke and Kahn personally profited from their relationship to Epstein, who killed himself in a federal jail in New York in August 2019, weeks after being arrested on child sex trafficking charges.
-"Between 2011 and 2019, Indyke received more than $16 million from Epstein and related entities, and Kahn received more than $10 million," Kahn's office said in a statement.
-Torrez, at a press conference Wednesday, said that his office is continuing a criminal investigation of Epstein's sex trafficking operation. No criminal charges have been filed in connection with that probe.
-This is breaking news. Please refresh for updates.`,
-    bodyJa: `New Mexico's attorney general on Wednesday filed a lawsuit accusing Jeffrey Epstein's long-time personal lawyer and accountant of facilitating Epstein's sex trafficking operation.
-The suit alleges that the attorney, Darren Indyke, and the accountant, Richard Kahn, helped finance and conceal Epstein's sex trafficking, which included the abuse of girls and young women at his Zorro Ranch in Santa Fe County, New Mexico.
-Indyke and Kahn are beneficiaries of Epstein's 1953 Trust and are co-executors of Epstein's estate and trust administrators. New Mexico's suit asks a judge to block Indyke and Kahn from receiving payments from the estate as the case proceeds.
-Attorney General Raul Torrez's office said that Epstein's estate is currently valued at more than $107 million, and the suit says Indyke and Kahn are eligible for bequests of $50 million and $25 million, subject to the availability of funds.
-"Jeffrey Epstein did not operate alone, and his death does not end the pursuit of accountability for the people who helped make his crimes possible," Torrez said in a statement.
-"The allegations in this lawsuit describe a network of people and financial arrangements that helped sustain and conceal the abuse of vulnerable girls and young women, including here in New Mexico," Torrez said. "Those who allegedly enabled this exploitation should not be allowed to profit from it while survivors continue to live with its consequences."
-The lawsuit alleges that Indyke and Kahn personally profited from their relationship to Epstein, who killed himself in a federal jail in New York in August 2019, weeks after being arrested on child sex trafficking charges.
-"Between 2011 and 2019, Indyke received more than $16 million from Epstein and related entities, and Kahn received more than $10 million," Kahn's office said in a statement.
-Torrez, at a press conference Wednesday, said that his office is continuing a criminal investigation of Epstein's sex trafficking operation. No criminal charges have been filed in connection with that probe.
-This is breaking news. Please refresh for updates.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/21/epstein-new-mexico-lawsuit-sex-trafficking.html",
-    publishedAt: "2026-10-21T17:02:41+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "intel-hits-construction-milestone-at-ohi-f912e045",
-    title: "Intel hits construction milestone at Ohio chip fab that’s at least 5 years behind schedule",
-    titleJa: "Intel hits construction milestone at Ohio chip fab that’s at least 5 years behind schedule",
-    summaryJa: "Intel has installed the first major structural truss at its delayed Ohio chip fab, but the company has yet to announce a major outside customer.",
-    bodyOriginal: `Intel has hit a milestone in the construction of its massive chip fabrication plant in New Albany, Ohio, that's running at least five years behind schedule, a delay that's coincided with soaring demand for advanced chips.
-On Wednesday, Intel announced that crews have installed the first major structural truss in Ohio, which means the next part of the construction has finally begun.
-"This represents another significant step toward expanded U.S. leading-edge semiconductor capacity," Intel Foundry head Naga Chandrasekaran wrote in a post on the company's website on Wednesday.
-Intel still needs customers to make the investment pay off.
-In September, reports surfaced that the world's leading maker of high-bandwidth memory, SK Hynix, could team up with Intel in Ohio to lease some foundry space to make memory chips at the new site. Neither company would confirm any plans.
-When Intel first announced the Ohio factory in 2022, it was expected to start delivering chips in 2025. Intel pushed back that timeline, now aiming to finish construction in 2030. A second Ohio fab is also planned for completion in 2031 at the site, just northeast of Columbus.
-The delay reflects a broader recalibration of Intel's foundry ambitions under CEO Lip-Bu Tan.
-The Ohio factory is only one piece of Intel's ambitious build-out to start making chips for outside customers that began under former CEO Pat Gelsinger. When Tan took the helm in 2025, his turnaround strategy was more cautious, choosing to wait for customer demand before forging ahead with ambitious chip fab plans.
-Still, by late 2025, Intel was in high-volume production at its Arizona chip fab, producing its most advanced 18A chips. On Wednesday, Chandrasekaran also announced that operations at its next fab in Arizona are expected to begin by the end of 2028.
-But Intel has yet to land a major external customer for those 18A chips coming out of Arizona. Instead, Intel is using them to make its own processors for devices.
-Once a dominant force in the chip manufacturing landscape, Intel hit major delays with its 7- and 10-nanometer nodes, triggering the stock's worst year ever in 2024. Customers have been reluctant to commit again since.
-Now, Intel's window of opportunity may have arrived alongside record demand for AI, as leading chip manufacturer Taiwan Semiconductor Manufacturing Co. can't make chips fast enough. Even for the biggest chipmakers like Nvidia, Advanced Micro Devices, Apple and Broadcom, "competition is extremely fierce," to get space on TSMC's factory lines, according to Mizuho Securities analyst Jordan Klein.
-Intel could offer customers an alternative source for chip production, according to TechInsights analyst Dan Hutcheson.
-"People want a second source to be able to twist TSMC's arm and keep them honest on pricing," Hutcheson said. "All the big ones have been testing there."
-WATCH: Inside Intel’s new Arizona fab, where the chipmaker’s fate hangs in the balance`,
-    bodyJa: `Intel has hit a milestone in the construction of its massive chip fabrication plant in New Albany, Ohio, that's running at least five years behind schedule, a delay that's coincided with soaring demand for advanced chips.
-On Wednesday, Intel announced that crews have installed the first major structural truss in Ohio, which means the next part of the construction has finally begun.
-"This represents another significant step toward expanded U.S. leading-edge semiconductor capacity," Intel Foundry head Naga Chandrasekaran wrote in a post on the company's website on Wednesday.
-Intel still needs customers to make the investment pay off.
-In September, reports surfaced that the world's leading maker of high-bandwidth memory, SK Hynix, could team up with Intel in Ohio to lease some foundry space to make memory chips at the new site. Neither company would confirm any plans.
-When Intel first announced the Ohio factory in 2022, it was expected to start delivering chips in 2025. Intel pushed back that timeline, now aiming to finish construction in 2030. A second Ohio fab is also planned for completion in 2031 at the site, just northeast of Columbus.
-The delay reflects a broader recalibration of Intel's foundry ambitions under CEO Lip-Bu Tan.
-The Ohio factory is only one piece of Intel's ambitious build-out to start making chips for outside customers that began under former CEO Pat Gelsinger. When Tan took the helm in 2025, his turnaround strategy was more cautious, choosing to wait for customer demand before forging ahead with ambitious chip fab plans.
-Still, by late 2025, Intel was in high-volume production at its Arizona chip fab, producing its most advanced 18A chips. On Wednesday, Chandrasekaran also announced that operations at its next fab in Arizona are expected to begin by the end of 2028.
-But Intel has yet to land a major external customer for those 18A chips coming out of Arizona. Instead, Intel is using them to make its own processors for devices.
-Once a dominant force in the chip manufacturing landscape, Intel hit major delays with its 7- and 10-nanometer nodes, triggering the stock's worst year ever in 2024. Customers have been reluctant to commit again since.
-Now, Intel's window of opportunity may have arrived alongside record demand for AI, as leading chip manufacturer Taiwan Semiconductor Manufacturing Co. can't make chips fast enough. Even for the biggest chipmakers like Nvidia, Advanced Micro Devices, Apple and Broadcom, "competition is extremely fierce," to get space on TSMC's factory lines, according to Mizuho Securities analyst Jordan Klein.
-Intel could offer customers an alternative source for chip production, according to TechInsights analyst Dan Hutcheson.
-"People want a second source to be able to twist TSMC's arm and keep them honest on pricing," Hutcheson said. "All the big ones have been testing there."
-WATCH: Inside Intel’s new Arizona fab, where the chipmaker’s fate hangs in the balance`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/21/intel-hits-construction-milestone-at-delayed-ohio-chip-fab-.html",
-    publishedAt: "2026-10-21T16:55:51+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "meta-and-tesla-bulls-get-confidence-boos-f39e652d",
-    title: "Meta and Tesla bulls get confidence boost after SpaceX earnings",
-    titleJa: "Meta and Tesla bulls get confidence boost after SpaceX earnings",
-    summaryJa: "A big rally in SpaceX after earnings is giving hope to Meta and Tesla bulls ahead of their reports due Wednesday afternoon.",
-    bodyOriginal: `A big rally in SpaceX after earnings is giving hope to Meta and Tesla bulls ahead of their reports due Wednesday afternoon.
-Options trading in both stocks leaned bullish after the open Wednesday, with Meta options looking particularly one-sided as traders bought more calls than puts and more put trades likely initiated by sellers than buyers. More than 30,000 calls traded at or above the ask, suggesting they were bought, versus under 17,000 puts, Cboe LiveVol data shows.
-Meta options have generally been bullish since the stock's March low, when the put/call ratio of open contracts plunged to 0.5, meaning two calls open for every one put contract, and that hasn't budged much since, Barchart data show. Almost $22 million of trades were done with a bullish intent on Wednesday, compared to $7.5 million looking for downside.
-Market-makers are pricing a 6.5% swing for Meta after earnings, a little under the 9% average the past four quarters. The most popular contract to buy on Wednesday was the 800 strike call expiring Friday that costs $1.40 and needs Meta to rally 14% into the weekend, SpotGamma data shows.
-In Tesla, the flows also lean bullish, but with less conviction. The put/call ratio of open contracts is 0.75, compared to Meta's 0.5, though more calls did trade Wednesday morning than puts.
-Of the 520,000 contracts traded in Tesla, 315,000 were calls, as traders bought 88,000 calls and 65,000 puts, according to Cboe LiveVol data. There was also notable call-selling, with 83,000 call contracts likely sold and seven of the top 10 trades by dollar-amount call sales.
-Still, traders spent more money buying calls than they did puts, with call-buying premiums amounting to over $200 million, compared to $84 million in puts, according to SpotGamma's analysis.
-Market-makers are pricing a 5.5% swing in Tesla after its report, above the four-quarter median of 3.5%. That said, Tesla's last report caused a 14% selloff in the stock that makes the average move in that period 5.5%.
-The most-heavily traded contracts by volume Wednesday were the 385 and 400-strike calls expiring Friday, with buyers favoring the cheaper 400-strike call and sellers leaning into the 385-strikes, SpotGamms data show.`,
-    bodyJa: `A big rally in SpaceX after earnings is giving hope to Meta and Tesla bulls ahead of their reports due Wednesday afternoon.
-Options trading in both stocks leaned bullish after the open Wednesday, with Meta options looking particularly one-sided as traders bought more calls than puts and more put trades likely initiated by sellers than buyers. More than 30,000 calls traded at or above the ask, suggesting they were bought, versus under 17,000 puts, Cboe LiveVol data shows.
-Meta options have generally been bullish since the stock's March low, when the put/call ratio of open contracts plunged to 0.5, meaning two calls open for every one put contract, and that hasn't budged much since, Barchart data show. Almost $22 million of trades were done with a bullish intent on Wednesday, compared to $7.5 million looking for downside.
-Market-makers are pricing a 6.5% swing for Meta after earnings, a little under the 9% average the past four quarters. The most popular contract to buy on Wednesday was the 800 strike call expiring Friday that costs $1.40 and needs Meta to rally 14% into the weekend, SpotGamma data shows.
-In Tesla, the flows also lean bullish, but with less conviction. The put/call ratio of open contracts is 0.75, compared to Meta's 0.5, though more calls did trade Wednesday morning than puts.
-Of the 520,000 contracts traded in Tesla, 315,000 were calls, as traders bought 88,000 calls and 65,000 puts, according to Cboe LiveVol data. There was also notable call-selling, with 83,000 call contracts likely sold and seven of the top 10 trades by dollar-amount call sales.
-Still, traders spent more money buying calls than they did puts, with call-buying premiums amounting to over $200 million, compared to $84 million in puts, according to SpotGamma's analysis.
-Market-makers are pricing a 5.5% swing in Tesla after its report, above the four-quarter median of 3.5%. That said, Tesla's last report caused a 14% selloff in the stock that makes the average move in that period 5.5%.
-The most-heavily traded contracts by volume Wednesday were the 385 and 400-strike calls expiring Friday, with buyers favoring the cheaper 400-strike call and sellers leaning into the 385-strikes, SpotGamms data show.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/21/meta-tesla-options-earnings.html",
-    publishedAt: "2026-10-21T16:35:48+00:00",
-    category: "自動車",
-    imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "how-ukraine-s-drone-strikes-on-russia-cr-205817ac",
-    title: "How Ukraine’s drone strikes on Russia crippled the world’s second largest diesel supplier",
-    titleJa: "How Ukraine’s drone strikes on Russia crippled the world’s second largest diesel supplier",
-    summaryJa: "President Donald Trump has blamed Ukraine for surging diesel prices that are hurting Republicans' election chances with the midterms just two weeks away.",
-    bodyOriginal: `Ukraine launched massive drone assaults against Russia this week, hitting key oil infrastructure and signaling Kyiv intends to block the Kremlin from increasing diesel exports in defiance of President Donald Trump.
-More than 1,000 Ukrainian drones targeted Russia on Sunday alone in one of the largest attacks this year, according to state media reports. The strikes set ablaze an oil export terminal in St. Petersburg, Russia's second-largest city and President Vladimir Putin's hometown.
-Kyiv has ended its brief adherence to an energy ceasefire that Trump declared between Ukraine and Russia on Oct. 11. Moscow ignored that truce from the start and Kyiv vowed to retaliate.
-Ukraine's drone strikes have achieved a scale, range and effectiveness that they have crippled Russia's diesel exports, said Tatiana Mitrova, an expert on the Russian oil industry at Columbia University's Center on Global Energy Policy. Before the attacks, Russia was the second-largest diesel supplier in the world after the U.S.
-As a result, Trump's deal with Putin to boost Russian diesel exports is likely dead in the water, said Matt Smith, director of commodity research at Kpler. "It seems unlikely that they'll be able to bring the volume of diesel back to the market that they are talking about without an energy ceasefire," Smith said.
-Kyiv's strikes on Russian refineries and related oil infrastructure almost tripled to 31 in July compared to 11 in January, according to data from open-source intelligence firm Rochan Consulting in Warsaw, Poland.
-The attacks slashed Russia's diesel exports by more than 75%, to 141,000 barrels per day (bpd) in September, compared to 608,000 bpd in the same period last year, according to Kpler data.
-In response, Moscow banned exports in July to preserve domestic supplies. The Kremlin partially resumed shipments this month to fulfill the Trump-Putin deal.
-Under Trump's diesel deal to relieve pressure on surging fuel prices, the Kremlin agreed to supply the global market with about 75,000 bpd in October and 124,000 bpd in November. But those export volumes are a rounding error compared to total demand, Mitrova said.
-The Ukrainians are regularly launching swarms of drones now that number in the hundreds, compared to dozens earlier in the war, Mitrova said. They are also striking deeper into Russian territory, she said. In July, Kyiv hit Russia's largest refinery at Omsk, deep in Siberia near the Kazakhstan border, more than 1,000 miles from Ukraine.
-And they have learned to target more complex refinery equipment that is harder to repair, Mitrova said. A destroyed fuel tank takes just a couple weeks to fix, she said. But replacing a secondary refining unit, for example, requires supply chains outside Russia, the analyst said.
-"You cannot just order it on Alibaba," Mitrova said. "You need to make your order in advance and therefore securing this equipment quickly is not possible. You need to compensate for the risks of all the parties involved because [counterparties] are violating sanctions."
-"You have to wait at least for several months if the right equipment is destroyed," she said.
-With midterm elections less than two weeks away, Trump has blamed Ukraine for surging diesel prices that are jeopardizing Republicans' election chances.
-Nationally, diesel cost $6.32 per gallon on average Tuesday, nearly 75% above the same period last year, according to AAA.
-But the diesel market was already under pressure due to Trump's decision to go to war with Iran in late February. Tehran's attacks on tankers in the Strait of Hormuz and strikes by its Houthi militant allies on oil infrastructure of U.S. Gulf Arab allies has disrupted fuel exports from the Middle East.
-Diesel exports through Hormuz, for example, are down about 540,000 bpd compared to last year, Kpler's Smith said. Global diesel exports have fallen about 1 million bpd due to lost supplies from Russia and the Middle East, he said.
-Trump's options to reduce fuel prices are limited. The underlying problem is the shortfall of refining capacity due to damage from two wars that don't appear close to ending soon. U.S. refiners are already working at maximum capacity to fill the gap as much as possible.
-The International Energy Agency warned this month that diesel supplies will likely remain constrained well into 2027. "The diesel tightness is likely going to persist in the coming months and prices are going to remain elevated," Smith said.`,
-    bodyJa: `Ukraine launched massive drone assaults against Russia this week, hitting key oil infrastructure and signaling Kyiv intends to block the Kremlin from increasing diesel exports in defiance of President Donald Trump.
-More than 1,000 Ukrainian drones targeted Russia on Sunday alone in one of the largest attacks this year, according to state media reports. The strikes set ablaze an oil export terminal in St. Petersburg, Russia's second-largest city and President Vladimir Putin's hometown.
-Kyiv has ended its brief adherence to an energy ceasefire that Trump declared between Ukraine and Russia on Oct. 11. Moscow ignored that truce from the start and Kyiv vowed to retaliate.
-Ukraine's drone strikes have achieved a scale, range and effectiveness that they have crippled Russia's diesel exports, said Tatiana Mitrova, an expert on the Russian oil industry at Columbia University's Center on Global Energy Policy. Before the attacks, Russia was the second-largest diesel supplier in the world after the U.S.
-As a result, Trump's deal with Putin to boost Russian diesel exports is likely dead in the water, said Matt Smith, director of commodity research at Kpler. "It seems unlikely that they'll be able to bring the volume of diesel back to the market that they are talking about without an energy ceasefire," Smith said.
-Kyiv's strikes on Russian refineries and related oil infrastructure almost tripled to 31 in July compared to 11 in January, according to data from open-source intelligence firm Rochan Consulting in Warsaw, Poland.
-The attacks slashed Russia's diesel exports by more than 75%, to 141,000 barrels per day (bpd) in September, compared to 608,000 bpd in the same period last year, according to Kpler data.
-In response, Moscow banned exports in July to preserve domestic supplies. The Kremlin partially resumed shipments this month to fulfill the Trump-Putin deal.
-Under Trump's diesel deal to relieve pressure on surging fuel prices, the Kremlin agreed to supply the global market with about 75,000 bpd in October and 124,000 bpd in November. But those export volumes are a rounding error compared to total demand, Mitrova said.
-The Ukrainians are regularly launching swarms of drones now that number in the hundreds, compared to dozens earlier in the war, Mitrova said. They are also striking deeper into Russian territory, she said. In July, Kyiv hit Russia's largest refinery at Omsk, deep in Siberia near the Kazakhstan border, more than 1,000 miles from Ukraine.
-And they have learned to target more complex refinery equipment that is harder to repair, Mitrova said. A destroyed fuel tank takes just a couple weeks to fix, she said. But replacing a secondary refining unit, for example, requires supply chains outside Russia, the analyst said.
-"You cannot just order it on Alibaba," Mitrova said. "You need to make your order in advance and therefore securing this equipment quickly is not possible. You need to compensate for the risks of all the parties involved because [counterparties] are violating sanctions."
-"You have to wait at least for several months if the right equipment is destroyed," she said.
-With midterm elections less than two weeks away, Trump has blamed Ukraine for surging diesel prices that are jeopardizing Republicans' election chances.
-Nationally, diesel cost $6.32 per gallon on average Tuesday, nearly 75% above the same period last year, according to AAA.
-But the diesel market was already under pressure due to Trump's decision to go to war with Iran in late February. Tehran's attacks on tankers in the Strait of Hormuz and strikes by its Houthi militant allies on oil infrastructure of U.S. Gulf Arab allies has disrupted fuel exports from the Middle East.
-Diesel exports through Hormuz, for example, are down about 540,000 bpd compared to last year, Kpler's Smith said. Global diesel exports have fallen about 1 million bpd due to lost supplies from Russia and the Middle East, he said.
-Trump's options to reduce fuel prices are limited. The underlying problem is the shortfall of refining capacity due to damage from two wars that don't appear close to ending soon. U.S. refiners are already working at maximum capacity to fill the gap as much as possible.
-The International Energy Agency warned this month that diesel supplies will likely remain constrained well into 2027. "The diesel tightness is likely going to persist in the coming months and prices are going to remain elevated," Smith said.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/21/ukraine-russia-drone-diesel-refinery-trump-putin-zelenskyy.html",
-    publishedAt: "2026-10-21T16:18:27+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "tesla-earnings-loom-after-musk-calls-spa-c3a2d872",
-    title: "Tesla earnings loom after Musk calls SpaceX merger a 'good idea'",
-    titleJa: "Tesla earnings loom after Musk calls SpaceX merger a 'good idea'",
-    summaryJa: "A day after Elon Musk's SpaceX reported third-quarter results, Tesla is scheduled to update investors.",
-    bodyOriginal: `On SpaceX's earnings call late Tuesday, CEO Elon Musk, who also runs Tesla, took a break from talking about financial results to tell investors that it would be a "good idea" to merge his two companies, and said the boards at both have formed special committees to discuss a possible tie-up.
-Musk will be back in public after market close on Wednesday, this time to discuss Tesla earnings.
-Here's what Wall Street is expecting, according to estimates from analysts polled by LSEG:
-- Earnings per share: 43 cents estimated
-- Revenue: $27.9 billion estimated
-Should Tesla fail to top expectations, the company would see a slight decrease in revenue from $28.1 billion a year earlier. Tesla has recorded double-digit growth in each of the two prior quarters, but revenue dropped in three of four quarters in 2025, as Chinese EV makers such as BYD and Xiaomi gained popularity in Asia and Europe with affordable and innovative EVs. Tesla was also hit last year by the end of a federal EV tax credit.
-Earlier this month, Tesla reported vehicle deliveries for the third quarter of 486,532, about 2% below the year-ago number. Deliveries are the closest approximation of sales reported by Tesla but are not precisely defined in its shareholder communications.
-While Tesla still counts on auto sales for the bulk of its revenue, Musk sees the company's future in robotaxis and humanoid robots. That's putting the focus on capital expenditures, which are expected to top $25 billion this year, based on a prior forecast, up from about $8.5 billion in 2025.
-One of Tesla's big investments is in a semiconductor factory that it's building with SpaceX and Intel in Grimes County, Texas. That partnership with SpaceX along with other areas of overlap, including work on Tesla's recently announced Roadster refresh, fueled intensifying speculation that Musk's companies were on the verge of combining in what would be a historic transaction.
-"I feel like I'm tap dancing through a minefield," Musk said on the SpaceX earnings call, responding to a question about a potential merger.
-"Do I think it would be a good idea? Yes," Musk said. "But at the end of the day, the shareholders have to be supportive of this." On the Tesla side, that means needing a 50% vote of all shares, which is "quite a high hurdle," he said.
-Musk pointed to the company's potential to cooperate on AI software, chip design, Terafab and robotics. Tesla is already using Grok AI technology, developed by SpaceX, to power AI assistants in customer cars, and to help control the company's Optimus humanoid robots now in development.
-Tesla's stock price is down 14% this year, after rallying on Wednesday, underperforming all of its megacap tech peers. SpaceX went public in June, and is up from its $150 IPO price after its post-earnings pop.
-Tesla CFO Vaibhav Taneja told investors on the company's last earnings call in July that automotive margins had been challenged this year by rising interest rates and energy costs.
-But he also touted growing revenue from Full Self-Driving (Supervised), sometimes referred to as FSD, the partially automated driving system Tesla sells for $99 per month. FSD doesn't make Tesla vehicles safe to use without a human driver, and the company markets the system as Assisted Driving in Europe. Taneja said Tesla reached close to 1.5 million paid FSD customers globally as of the end of June.
-Investors submitted questions online ahead of Wednesday's call, and one of the top-voted requests was for updates on FSD and when it could become "unsupervised," making customers' vehicles fully automated and safe to use like a robotaxi.
-Shareholders also want to hear an update on Tesla's Cybercab, a bronze two-seater designed for use as a robotaxi, but not yet sold to individuals.
-Tesla is testing the Cybercab, and has deployed driverless vehicles in a limited U.S. fleet. But the company still lags far behind Alphabet's Waymo in the U.S., and Baidu's Apollo Go in China.
-WATCH: Deepwater's Gene Munster on a possible SpaceX-Tesla merger`,
-    bodyJa: `On SpaceX's earnings call late Tuesday, CEO Elon Musk, who also runs Tesla, took a break from talking about financial results to tell investors that it would be a "good idea" to merge his two companies, and said the boards at both have formed special committees to discuss a possible tie-up.
-Musk will be back in public after market close on Wednesday, this time to discuss Tesla earnings.
-Here's what Wall Street is expecting, according to estimates from analysts polled by LSEG:
-- Earnings per share: 43 cents estimated
-- Revenue: $27.9 billion estimated
-Should Tesla fail to top expectations, the company would see a slight decrease in revenue from $28.1 billion a year earlier. Tesla has recorded double-digit growth in each of the two prior quarters, but revenue dropped in three of four quarters in 2025, as Chinese EV makers such as BYD and Xiaomi gained popularity in Asia and Europe with affordable and innovative EVs. Tesla was also hit last year by the end of a federal EV tax credit.
-Earlier this month, Tesla reported vehicle deliveries for the third quarter of 486,532, about 2% below the year-ago number. Deliveries are the closest approximation of sales reported by Tesla but are not precisely defined in its shareholder communications.
-While Tesla still counts on auto sales for the bulk of its revenue, Musk sees the company's future in robotaxis and humanoid robots. That's putting the focus on capital expenditures, which are expected to top $25 billion this year, based on a prior forecast, up from about $8.5 billion in 2025.
-One of Tesla's big investments is in a semiconductor factory that it's building with SpaceX and Intel in Grimes County, Texas. That partnership with SpaceX along with other areas of overlap, including work on Tesla's recently announced Roadster refresh, fueled intensifying speculation that Musk's companies were on the verge of combining in what would be a historic transaction.
-"I feel like I'm tap dancing through a minefield," Musk said on the SpaceX earnings call, responding to a question about a potential merger.
-"Do I think it would be a good idea? Yes," Musk said. "But at the end of the day, the shareholders have to be supportive of this." On the Tesla side, that means needing a 50% vote of all shares, which is "quite a high hurdle," he said.
-Musk pointed to the company's potential to cooperate on AI software, chip design, Terafab and robotics. Tesla is already using Grok AI technology, developed by SpaceX, to power AI assistants in customer cars, and to help control the company's Optimus humanoid robots now in development.
-Tesla's stock price is down 14% this year, after rallying on Wednesday, underperforming all of its megacap tech peers. SpaceX went public in June, and is up from its $150 IPO price after its post-earnings pop.
-Tesla CFO Vaibhav Taneja told investors on the company's last earnings call in July that automotive margins had been challenged this year by rising interest rates and energy costs.
-But he also touted growing revenue from Full Self-Driving (Supervised), sometimes referred to as FSD, the partially automated driving system Tesla sells for $99 per month. FSD doesn't make Tesla vehicles safe to use without a human driver, and the company markets the system as Assisted Driving in Europe. Taneja said Tesla reached close to 1.5 million paid FSD customers globally as of the end of June.
-Investors submitted questions online ahead of Wednesday's call, and one of the top-voted requests was for updates on FSD and when it could become "unsupervised," making customers' vehicles fully automated and safe to use like a robotaxi.
-Shareholders also want to hear an update on Tesla's Cybercab, a bronze two-seater designed for use as a robotaxi, but not yet sold to individuals.
-Tesla is testing the Cybercab, and has deployed driverless vehicles in a limited U.S. fleet. But the company still lags far behind Alphabet's Waymo in the U.S., and Baidu's Apollo Go in China.
-WATCH: Deepwater's Gene Munster on a possible SpaceX-Tesla merger`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/21/tesla-tsla-q3-2026-earnings-report.html",
-    publishedAt: "2026-10-21T16:01:25+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "polymarket-traders-see-a-10-chance-the-a-8dafafbf",
-    title: "Polymarket traders see a 10% chance the AI bubble bursts before New Year’s Day",
-    titleJa: "Polymarket traders see a 10% chance the AI bubble bursts before New Year’s Day",
-    summaryJa: "For investors worried that the runaway artificial-intelligence trade might be about to hit the skids, prediction markets are already starting to reflect that anxiety.",
-    bodyOriginal: `For investors worried that the runaway artificial-intelligence trade might be about to hit the skids, prediction markets are already starting to reflect that anxiety.`,
-    bodyJa: `For investors worried that the runaway artificial-intelligence trade might be about to hit the skids, prediction markets are already starting to reflect that anxiety.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/polymarket-traders-see-a-10-chance-the-ai-bubble-bursts-before-new-years-day-ad33258b?mod=mw_rss_topstories",
-    publishedAt: "2026-10-21T15:59:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-57386204",
-    readTime: 2,
-  },
-  {
-    id: "civil-servant-admits-he-made-mistakes-ju-649c8224",
-    title: "Civil servant admits he 'made mistakes' juggling five government jobs",
-    titleJa: "Civil servant admits he 'made mistakes' juggling five government jobs",
-    summaryJa: "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
-    bodyOriginal: `Civil servant admits he 'made mistakes' juggling five government jobs
-- Published
-The civil servant accused of fraudulently earning more than £284,000 by juggling multiple public-sector jobs admitted making mistakes but said ''I do not believe there was criminal intent".
-Giving evidence at Southwark Crown Court, Kashim Chowdhury told the jury he had made mistakes because he was ''overwhelmed and stressed'' and had felt ''terror and panic'' at the thought of losing his livelihood.
-He told the jury he had been diagnosed with post-traumatic stress disorder in 2015 and that it had been triggered in 2021.
-The 55-year-old, who is from east London, is on trial accused of nine counts of fraud. He denies acting dishonestly or intending to make a dishonest gain.
-The prosecution alleges Chowdhury failed to reveal to his employers that he had other full-time employment. But Chowdhury told the jury some of his managers knew he had other jobs.
-He told the court that staff and managers at the Department for Environment and Rural Affairs (Defra), the London Borough of Tower Hamlets, East London NHS Trust and the Department for Health and Social Care (DHSC) all knew he had jobs elsewhere.
-At the height of the alleged deceit, Chowdhury held five full-time jobs on full-time salaries within the public sector.
-In the spring of 2023, he was employed by the Department for Environment, Food and Rural Affairs, the UK Health Security Agency, the Food Standards Agency, the Department for Business and Trade and the Home Office. The jury was told that throughout this period he was contracted to work 183 hours a week - more than the number of hours that exist in seven days.
-Each job paid a full-time wage, with Chowdhury paid £11,000 for a single month's work in 2023.
-Chowdhury said the jobs were a "lifeline" during a time his mother's health had declined.
-Asked by defence barrister Pieter Briegel what extent stress in his life was due to the number of jobs, he replied: "The jobs at the time were my lifeline at the time, that was what I survived on at that particular moment.
-"And they gave me a link to the outside, they were the only thing I had to the outside world and were a distraction from what was going on in my personal life, looking after my mum at that time," he told the court.
-The prosecution alleges Chowdhury managed to keep his overlapping jobs secret because he worked entirely remotely. He told his employers he was the sole carer for his elderly mother and the prosecution alleges he "exploited this opportunity".
-A succession of Chowdhury's line managers have told the jury that he performed poorly in his roles.
-Abigail Mounde, who was Chowdhury's line manager at the Department for Business and Trade previously told the court: ''Any basic tasks I asked him to do he either did late or not to the standard I would have expected."
-Chowdhury was asked whether he accepted the criticism of his performance, including the allegation he failed to deliver work on time. He replied: "I reject them all."
-The prosecution also alleges Chowdhury used sick notes from his doctor as part of the cover-up.
-But the prosecution said while he was telling some employers he was sick and unfit to work because of "mixed anxiety and depressive disorder" he was not giving sick notes to other employers. The prosecution said this ''underlines the dishonesty involved in the whole affair".
-His line manager at the Health Security Agency, Aleesha Adams, arranged a video call in May 2023, to support him returning to work after a period of absence.
-In previous evidence she told the court she was surprised when he logged on wearing white make-up because his name led her to expect to see an Asian man with darker skin.
-She told the court that as the call went on the make-up started coming off his forehead. ''He was sweating, it was like rubbing off so it was darker underneath and darker on the neck."
-Prosecuting barrister Lucy Organ told the court: ''This almost laughable incident demonstrates quite how far the defendant was willing to go in his deceit.''
-The trial continues.
-Related topics
-- Published7 days ago`,
-    bodyJa: `Civil servant admits he 'made mistakes' juggling five government jobs
-- Published
-The civil servant accused of fraudulently earning more than £284,000 by juggling multiple public-sector jobs admitted making mistakes but said ''I do not believe there was criminal intent".
-Giving evidence at Southwark Crown Court, Kashim Chowdhury told the jury he had made mistakes because he was ''overwhelmed and stressed'' and had felt ''terror and panic'' at the thought of losing his livelihood.
-He told the jury he had been diagnosed with post-traumatic stress disorder in 2015 and that it had been triggered in 2021.
-The 55-year-old, who is from east London, is on trial accused of nine counts of fraud. He denies acting dishonestly or intending to make a dishonest gain.
-The prosecution alleges Chowdhury failed to reveal to his employers that he had other full-time employment. But Chowdhury told the jury some of his managers knew he had other jobs.
-He told the court that staff and managers at the Department for Environment and Rural Affairs (Defra), the London Borough of Tower Hamlets, East London NHS Trust and the Department for Health and Social Care (DHSC) all knew he had jobs elsewhere.
-At the height of the alleged deceit, Chowdhury held five full-time jobs on full-time salaries within the public sector.
-In the spring of 2023, he was employed by the Department for Environment, Food and Rural Affairs, the UK Health Security Agency, the Food Standards Agency, the Department for Business and Trade and the Home Office. The jury was told that throughout this period he was contracted to work 183 hours a week - more than the number of hours that exist in seven days.
-Each job paid a full-time wage, with Chowdhury paid £11,000 for a single month's work in 2023.
-Chowdhury said the jobs were a "lifeline" during a time his mother's health had declined.
-Asked by defence barrister Pieter Briegel what extent stress in his life was due to the number of jobs, he replied: "The jobs at the time were my lifeline at the time, that was what I survived on at that particular moment.
-"And they gave me a link to the outside, they were the only thing I had to the outside world and were a distraction from what was going on in my personal life, looking after my mum at that time," he told the court.
-The prosecution alleges Chowdhury managed to keep his overlapping jobs secret because he worked entirely remotely. He told his employers he was the sole carer for his elderly mother and the prosecution alleges he "exploited this opportunity".
-A succession of Chowdhury's line managers have told the jury that he performed poorly in his roles.
-Abigail Mounde, who was Chowdhury's line manager at the Department for Business and Trade previously told the court: ''Any basic tasks I asked him to do he either did late or not to the standard I would have expected."
-Chowdhury was asked whether he accepted the criticism of his performance, including the allegation he failed to deliver work on time. He replied: "I reject them all."
-The prosecution also alleges Chowdhury used sick notes from his doctor as part of the cover-up.
-But the prosecution said while he was telling some employers he was sick and unfit to work because of "mixed anxiety and depressive disorder" he was not giving sick notes to other employers. The prosecution said this ''underlines the dishonesty involved in the whole affair".
-His line manager at the Health Security Agency, Aleesha Adams, arranged a video call in May 2023, to support him returning to work after a period of absence.
-In previous evidence she told the court she was surprised when he logged on wearing white make-up because his name led her to expect to see an Asian man with darker skin.
-She told the court that as the call went on the make-up started coming off his forehead. ''He was sweating, it was like rubbing off so it was darker underneath and darker on the neck."
-Prosecuting barrister Lucy Organ told the court: ''This almost laughable incident demonstrates quite how far the defendant was willing to go in his deceit.''
-The trial continues.
-Related topics
-- Published7 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-21T15:58:05+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca73/live/aa125910-cd46-11f1-8177-0f8bd59b54c4.jpg",
-    readTime: 10,
-  },
-  {
-    id: "nvidia-announces-plug-and-play-vera-rubi-12d295db",
-    title: "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
-    titleJa: "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck",
-    summaryJa: "Nvidia says its DSX Pod AI Factory, which combines seven Vera Rubin racks in a shipping container, could cut the time to start serving AI tokens to 14 days.",
-    bodyOriginal: `Nvidia announced Wednesday a new product that will put seven of its Vera Rubin AI racks into a shipping container, the company's latest effort to move up the stack and offer complete systems for artificial intelligence computing.
-The DSX Pod AI Factory is roughly the size of a standard shipping container and weighs about 28,000 kilograms, Nvidia said. It's designed to be shipped on a truck on normal roads and all the cabling and liquid cooling for the Pod are assembled at the factory, the company said.
-"The only thing that has to happen when it gets to the site is it's placed in its location, connected to the rest of the other containers, and validated through final burning and testing," Nvidia VP of hyperscale computing Ian Buck said on a call with reporters this week.
-DSX Pod AI factory will reduce the time for a new AI data center to start serving tokens from six months to 14 days, according to the company. Nvidia said the pod is intended for customers worldwide and could help address deployment challenges faced by European customers.
-Nvidia did not announce a price for the system, but analysts say a single Vera Rubin rack can cost over $7 million.
-The DSX Pod is a reference design that will ship from Nvidia's manufacturing partners. Nvidia said it was working with manufacturers including Foxconn, Gigabyte, Lenovo, HPE, Quanta, and Pegatron. Nvidia expects deliveries to start in early 2027.
-Nvidia, once a chip company, now offers networking, storage, and other data center needs to its customers. Its AI systems have evolved from single GPU chips to servers with four or eight GPUs, then to entire racks and now to the DSX Pod, a containerized building block with several racks already integrated.
-"What we offer into one gigawatt went from about $18 billion or so per gigawatt, to $20-something billion per gigawatt, to now $40-plus billion per gigawatt," Nvidia CEO Jensen Huang said recently on a podcast. Gigawatts refer to the size of data center infrastructure by how much power is used. "My sense is that's going to keep going up."`,
-    bodyJa: `Nvidia announced Wednesday a new product that will put seven of its Vera Rubin AI racks into a shipping container, the company's latest effort to move up the stack and offer complete systems for artificial intelligence computing.
-The DSX Pod AI Factory is roughly the size of a standard shipping container and weighs about 28,000 kilograms, Nvidia said. It's designed to be shipped on a truck on normal roads and all the cabling and liquid cooling for the Pod are assembled at the factory, the company said.
-"The only thing that has to happen when it gets to the site is it's placed in its location, connected to the rest of the other containers, and validated through final burning and testing," Nvidia VP of hyperscale computing Ian Buck said on a call with reporters this week.
-DSX Pod AI factory will reduce the time for a new AI data center to start serving tokens from six months to 14 days, according to the company. Nvidia said the pod is intended for customers worldwide and could help address deployment challenges faced by European customers.
-Nvidia did not announce a price for the system, but analysts say a single Vera Rubin rack can cost over $7 million.
-The DSX Pod is a reference design that will ship from Nvidia's manufacturing partners. Nvidia said it was working with manufacturers including Foxconn, Gigabyte, Lenovo, HPE, Quanta, and Pegatron. Nvidia expects deliveries to start in early 2027.
-Nvidia, once a chip company, now offers networking, storage, and other data center needs to its customers. Its AI systems have evolved from single GPU chips to servers with four or eight GPUs, then to entire racks and now to the DSX Pod, a containerized building block with several racks already integrated.
-"What we offer into one gigawatt went from about $18 billion or so per gigawatt, to $20-something billion per gigawatt, to now $40-plus billion per gigawatt," Nvidia CEO Jensen Huang said recently on a podcast. Gigawatts refer to the size of data center infrastructure by how much power is used. "My sense is that's going to keep going up."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
-    publishedAt: "2026-10-21T11:30:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
   },
 ];
 
