@@ -15,6 +15,494 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "musk-s-clash-with-ukraine-accelerates-de-9f304431",
+    title: "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
+    titleJa: "Musk's clash with Ukraine accelerates demand for Starlink alternatives. Few exist",
+    summaryJa: "Governments or companies looking for an alternative to SpaceX's Starlink are faced with few options, as Amazon, Eutelsat and others are far behind.",
+    bodyOriginal: `Elon Musk's latest clash with Ukraine underscores the critical role that his company's Starlink satellite internet service has played in Kyiv's defense against Russia, which invaded unprovoked in 2022.
+It's also laid bare the downsides of depending on a single provider for satellite internet communications, though other options are not yet comparable to SpaceX's Starlink and its military-grade Starshield offering.
+On Oct. 14, Ukrainian officials accused SpaceX of undermining the country's ability to defend itself.
+SpaceX and the U.S., they said, had suddenly and without warning imposed speed limits on Starshield. SpaceX describes Starshield as a "secured satellite network for government entities" that "leverages Starlink technology."
+The changes cut wireless internet connectivity in drones and other aircraft moving at speeds over 100 mph that Ukrainian forces were using in the campaign against Russia. A Ukrainian senior commander told The New York Times the Starlink restrictions cost his unit more than $1 million and delayed missions by three days.
+Musk and President Donald Trump, both critics of Ukrainian President Volodymyr Zelenskyy, have each shirked accountability for the communications disruptions in the war-torn nation.
+On Tuesday, The Wall Street Journal reported that Musk individually ordered the service changes, and had discussed them with Trump before putting them in place. Trump insisted on Wednesday that he "was not involved."
+Robert Weissman, who is co-president of watchdog group Public Citizen, said the situation is an "extreme danger" that raises antitrust and security concerns around Musk's ability to control a "crucial means of communication."
+"People worry about the political, as well as economic, impacts of oligarchy, and this is it," Weissman said in an interview. "It's not just that Musk can drown out other speakers, he can close down communications in a national security context for a country. No person should have that ability or power."
+The disruptions have prompted a bipartisan group of lawmakers in the U.S. to call for an investigation into Musk's actions, including calls for him to potentially testify under oath.
+Sen. John Cornyn, R-Texas, told CNBC on Wednesday that he doesn't believe Musk would have acted "without at least the acquiescence of the White House," and called attempts to throttle Starlink service in Ukraine "frankly shameful."
+"There's a reason why we've had relative peace in Europe since World War II," Cornyn said in a "Squawk on the Street" interview. "And that's because of the alliance between the United States and our European allies. And I think anything we do to undermine that or degrade that is a big mistake."
+Rep. Pramila Jayapal, D-Wash., called for an investigation on the matter and wrote, in a social media post Wednesday, "No billionaire, especially one that gets massive contracts from our government, should have the power to unilaterally decide to shut down communications and weapons during a war of critical importance to the US and Ukraine."
+On SpaceX's earnings call this week, executives didn't address the issue and weren't asked about it by analysts.
+Starlink dominance
+Governments or companies looking for an alternative to Musk, SpaceX and its satellite internet services have few options.
+Amazon's Leo, which also delivers internet connectivity via a low Earth orbit satellite constellation, is seven years in the making and has yet to fully come online, with only 390 satellites in orbit.
+SpaceX, by comparison, boasts a Starlink constellation of more than 11,000 satellites in orbit, according to data tracked by astronomer Jonathan C. McDowell. Starlink connectivity is live in 174 countries, SpaceX COO Gwynne Shotwell said on Tuesday's earnings call.
+Blue Origin, Jeff Bezos' space company, in January unveiled a service called TeraWave for enterprise and government customers. It's targeting deployment of the first batch of satellites in the fourth quarter of 2027.
+France's Eutelsat, also a competitor to Starlink, has more than 600 satellites in orbit. The stock surged 23% on Oct. 14 as reports emerged that Musk had restricted Starlink in Ukraine.
+Several countries are looking into sovereign satellite communications systems. The EU is building IRIS², which is expected to span hundreds of satellites, but the first launches aren't expected until 2029.
+Most of these planned systems are unlikely to "come anywhere close" in terms of capacity, coverage, resilience or cost compared to Starlink, said Christian Freiherr von der Ropp, an independent satellite consultant. The cost, size, weight and power draw of Eutelsat's terminals make them particularly unsuitable in the battlefield, he added.
+While SpaceX's Connectivity business has raced ahead of rivals, the company also has the advantage of overseeing a hugely successful rocket launch business, which has carried satellites to orbit for many of its competitors.
+SpaceX is now phasing out commercial rides on its workhorse Falcon 9 rocket, while it tests and develops its massive Starship rocket.
+Many new constellations "could therefore face substantial delays and materially higher launch costs," von der Ropp said.
+This week, Ukraine and European lawmakers moved to explore alternatives to Starlink, framing the issue as a matter of national security.
+Their concern is that access to a critical communications service could potentially be disrupted "as a consequence of Musk's political agenda," said von der Ropp.
+"The degree of soft power SpaceX has accumulated over companies, governments and militaries is substantial, and that has now become very visible," von der Ropp said. "Inevitably, this is creating mistrust and accelerating demand for alternatives."
+Zelenskyy wrote Wednesday in a post on X that he met with Norwegian officials and Kongsberg, a Norwegian defense company, to discuss air defense systems and "launching work on new satellite communication capabilities for our warriors."
+Musk enjoyed accolades for providing Starlink terminals and satellite internet service during the early days of the war, but relations have soured between the world's richest person and Ukrainian officials over the years.
+Musk previously ordered SpaceX engineers to shut off Starlink's satellite network over Crimea to thwart a Ukrainian attack on Russian warships, according to a chapter in the 2023 Musk biography written by Walter Isaacson. Musk disputed the report. The revelation drew rebuke from Ukrainian officials, including a top Zelenskyy aide, who said it led to Ukrainian civilians being killed.
+"This is the price of a cocktail of ignorance and big ego," Mykhailo Podolyak, a top Zelenskyy advisor, wrote in a post on X, then known as Twitter.
+Musk has also repeatedly argued that Ukraine should strike a "truce" with Russia and cede ownership of Crimea, a strategically important territory, to Putin.
+Musk's treatment of Ukraine played a part in Canada's decision to cut ties with Starlink. Officials in India and Taiwan have also expressed wariness of Starlink, citing national security concerns and preferring to adopt a mass communications service that's not controlled by SpaceX.
+Musk lashed out at Indian "oligarchs" for stalling the Starlink rollout in the country.
+He's also targeted some of Starlink's prospective enterprise customers.
+Starlink has become the dominant provider for airlines' in-flight satellite Wi-Fi service, signing on dozens of carriers, including United Airlines, Alaska Airlines, American Airlines and Southwest Airlines.
+But Delta Air Lines is one of the few carriers to choose Amazon's Leo service.
+Earlier this month, Musk posted on X that Delta CEO Ed Bastian would "lose his job" over not choosing Starlink, following unconfirmed comments posted on X that Bastian told employees, "We do not want to be with Elon Musk. Trust me."
+Bastian denied making the comment, and told CNBC on Oct. 9 that he's a "big fan" of Starlink and even drives a Tesla.
+"All this nonsense about it being personal is not true at all," he said.
+-- CNBC's Elsa Ohlen and Leslie Josephs contributed reporting to this story.
+WATCH: Musk reportedly ordered Starlink slowdown for Ukraine`,
+    bodyJa: `Elon Musk's latest clash with Ukraine underscores the critical role that his company's Starlink satellite internet service has played in Kyiv's defense against Russia, which invaded unprovoked in 2022.
+It's also laid bare the downsides of depending on a single provider for satellite internet communications, though other options are not yet comparable to SpaceX's Starlink and its military-grade Starshield offering.
+On Oct. 14, Ukrainian officials accused SpaceX of undermining the country's ability to defend itself.
+SpaceX and the U.S., they said, had suddenly and without warning imposed speed limits on Starshield. SpaceX describes Starshield as a "secured satellite network for government entities" that "leverages Starlink technology."
+The changes cut wireless internet connectivity in drones and other aircraft moving at speeds over 100 mph that Ukrainian forces were using in the campaign against Russia. A Ukrainian senior commander told The New York Times the Starlink restrictions cost his unit more than $1 million and delayed missions by three days.
+Musk and President Donald Trump, both critics of Ukrainian President Volodymyr Zelenskyy, have each shirked accountability for the communications disruptions in the war-torn nation.
+On Tuesday, The Wall Street Journal reported that Musk individually ordered the service changes, and had discussed them with Trump before putting them in place. Trump insisted on Wednesday that he "was not involved."
+Robert Weissman, who is co-president of watchdog group Public Citizen, said the situation is an "extreme danger" that raises antitrust and security concerns around Musk's ability to control a "crucial means of communication."
+"People worry about the political, as well as economic, impacts of oligarchy, and this is it," Weissman said in an interview. "It's not just that Musk can drown out other speakers, he can close down communications in a national security context for a country. No person should have that ability or power."
+The disruptions have prompted a bipartisan group of lawmakers in the U.S. to call for an investigation into Musk's actions, including calls for him to potentially testify under oath.
+Sen. John Cornyn, R-Texas, told CNBC on Wednesday that he doesn't believe Musk would have acted "without at least the acquiescence of the White House," and called attempts to throttle Starlink service in Ukraine "frankly shameful."
+"There's a reason why we've had relative peace in Europe since World War II," Cornyn said in a "Squawk on the Street" interview. "And that's because of the alliance between the United States and our European allies. And I think anything we do to undermine that or degrade that is a big mistake."
+Rep. Pramila Jayapal, D-Wash., called for an investigation on the matter and wrote, in a social media post Wednesday, "No billionaire, especially one that gets massive contracts from our government, should have the power to unilaterally decide to shut down communications and weapons during a war of critical importance to the US and Ukraine."
+On SpaceX's earnings call this week, executives didn't address the issue and weren't asked about it by analysts.
+Starlink dominance
+Governments or companies looking for an alternative to Musk, SpaceX and its satellite internet services have few options.
+Amazon's Leo, which also delivers internet connectivity via a low Earth orbit satellite constellation, is seven years in the making and has yet to fully come online, with only 390 satellites in orbit.
+SpaceX, by comparison, boasts a Starlink constellation of more than 11,000 satellites in orbit, according to data tracked by astronomer Jonathan C. McDowell. Starlink connectivity is live in 174 countries, SpaceX COO Gwynne Shotwell said on Tuesday's earnings call.
+Blue Origin, Jeff Bezos' space company, in January unveiled a service called TeraWave for enterprise and government customers. It's targeting deployment of the first batch of satellites in the fourth quarter of 2027.
+France's Eutelsat, also a competitor to Starlink, has more than 600 satellites in orbit. The stock surged 23% on Oct. 14 as reports emerged that Musk had restricted Starlink in Ukraine.
+Several countries are looking into sovereign satellite communications systems. The EU is building IRIS², which is expected to span hundreds of satellites, but the first launches aren't expected until 2029.
+Most of these planned systems are unlikely to "come anywhere close" in terms of capacity, coverage, resilience or cost compared to Starlink, said Christian Freiherr von der Ropp, an independent satellite consultant. The cost, size, weight and power draw of Eutelsat's terminals make them particularly unsuitable in the battlefield, he added.
+While SpaceX's Connectivity business has raced ahead of rivals, the company also has the advantage of overseeing a hugely successful rocket launch business, which has carried satellites to orbit for many of its competitors.
+SpaceX is now phasing out commercial rides on its workhorse Falcon 9 rocket, while it tests and develops its massive Starship rocket.
+Many new constellations "could therefore face substantial delays and materially higher launch costs," von der Ropp said.
+This week, Ukraine and European lawmakers moved to explore alternatives to Starlink, framing the issue as a matter of national security.
+Their concern is that access to a critical communications service could potentially be disrupted "as a consequence of Musk's political agenda," said von der Ropp.
+"The degree of soft power SpaceX has accumulated over companies, governments and militaries is substantial, and that has now become very visible," von der Ropp said. "Inevitably, this is creating mistrust and accelerating demand for alternatives."
+Zelenskyy wrote Wednesday in a post on X that he met with Norwegian officials and Kongsberg, a Norwegian defense company, to discuss air defense systems and "launching work on new satellite communication capabilities for our warriors."
+Musk enjoyed accolades for providing Starlink terminals and satellite internet service during the early days of the war, but relations have soured between the world's richest person and Ukrainian officials over the years.
+Musk previously ordered SpaceX engineers to shut off Starlink's satellite network over Crimea to thwart a Ukrainian attack on Russian warships, according to a chapter in the 2023 Musk biography written by Walter Isaacson. Musk disputed the report. The revelation drew rebuke from Ukrainian officials, including a top Zelenskyy aide, who said it led to Ukrainian civilians being killed.
+"This is the price of a cocktail of ignorance and big ego," Mykhailo Podolyak, a top Zelenskyy advisor, wrote in a post on X, then known as Twitter.
+Musk has also repeatedly argued that Ukraine should strike a "truce" with Russia and cede ownership of Crimea, a strategically important territory, to Putin.
+Musk's treatment of Ukraine played a part in Canada's decision to cut ties with Starlink. Officials in India and Taiwan have also expressed wariness of Starlink, citing national security concerns and preferring to adopt a mass communications service that's not controlled by SpaceX.
+Musk lashed out at Indian "oligarchs" for stalling the Starlink rollout in the country.
+He's also targeted some of Starlink's prospective enterprise customers.
+Starlink has become the dominant provider for airlines' in-flight satellite Wi-Fi service, signing on dozens of carriers, including United Airlines, Alaska Airlines, American Airlines and Southwest Airlines.
+But Delta Air Lines is one of the few carriers to choose Amazon's Leo service.
+Earlier this month, Musk posted on X that Delta CEO Ed Bastian would "lose his job" over not choosing Starlink, following unconfirmed comments posted on X that Bastian told employees, "We do not want to be with Elon Musk. Trust me."
+Bastian denied making the comment, and told CNBC on Oct. 9 that he's a "big fan" of Starlink and even drives a Tesla.
+"All this nonsense about it being personal is not true at all," he said.
+-- CNBC's Elsa Ohlen and Leslie Josephs contributed reporting to this story.
+WATCH: Musk reportedly ordered Starlink slowdown for Ukraine`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
+    publishedAt: "2026-10-22T16:54:26+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "lawsuit-accuses-trump-of-illegally-profi-9162dfa4",
+    title: "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
+    titleJa: "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
+    summaryJa: "\"We're suing to stop the corruption and to force President Trump to return the profits to American taxpayers,\" attorney Matt Pelikan told CNBC.",
+    bodyOriginal: `A lawsuit filed Thursday accuses President Donald Trump and his family's crypto company of "corruptly profiting" off more than $2 billion in digital currency-related deals, violating constitutional restrictions on accepting foreign money.
+"No president in American history has profited from his office so brazenly," alleges the federal civil complaint from a shareholder of Circle Internet Group, a publicly traded U.S. crypto company and competitor of the Trump family business, World Liberty Financial.
+The suit filed in U.S. District Court in Washington by shareholder and former Circle employee J. Benjamin Greenberg centers on two allegedly "illegal foreign emoluments" involving World Liberty and Sheikh Tahnoon bin Zayed Al Nahyan, the national security advisor to the United Arab Emirates.
+Days before Trump's inauguration in January 2025, an entity backed by Tahnoon — widely known as the "Spy Sheikh" because of his powerful intelligence role — agreed to buy a 49% stake in World Liberty for $500 million.
+The company told The Wall Street Journal, which revealed the transaction in January 2026, that Trump had no involvement in the deal. But Trump would receive millions of dollars from that purchase after becoming president, according to his financial disclosures.
+The lawsuit also highlights a "scheme" by an Abu Dhabi-based investment fund chaired by Tahnoon to "inflate the value of President Trump's crypto holdings" through last year's purchase of $2 billion in World Liberty's stablecoin, USD1.
+The lawsuit asserts the conduct violates the U.S. Constitution's Foreign Emoluments Clause, which forbids federal officeholders from accepting money or other gifts from foreign officials without the consent of Congress.
+"What President Trump did is brazenly corrupt. He's made millions from these deals by selling out the American people," Matt Pelikan, an attorney at Evergreen Legal, said in a statement to CNBC.
+"We're suing to stop the corruption and to force President Trump to return the profits to American taxpayers," Pelikan said.
+The suit says Greenberg is filing derivatively on behalf of Circle. The company said in a statement to CNBC it was not behind the lawsuit and does not comment on pending litigation.
+"Circle did not initiate, direct, authorize, or participate in the filing," the company said via a spokesperson.
+The suit names Trump, World Liberty and U.S. Middle East Special Envoy Steve Witkoff as defendants, as well as four related limited liability companies.
+"World Liberty Financial is compliant with all U.S. laws and regulations," David Wachsman, a World Liberty spokesperson, told CNBC. "No one at World Liberty Financial works for the U.S. Government. These claims are without merit and we look forward to resolving them in court."
+The White House and a spokesperson for Witkoff did not immediately respond to CNBC's requests for comment on the lawsuit.
+In addition to seeking a court declaration that Trump's profits violate the Constitution, Greenberg wants the president to disclose all other foreign crypto emoluments he's received and return any profits found to be illegal.
+Trump and his family have rapidly expanded their crypto business since he returned to the White House. World Liberty Financial, launched with members of the Trump and Witkoff families in 2024, operates the USD1 stablecoin, and an entity affiliated with Trump and his family owns about 38% of the company.
+The business has been highly lucrative for Trump even as WLFI investors suffered steep losses. Trump reported more than $1.4 billion in crypto income in his 2025 annual financial disclosure, including nearly $800 million tied to World Liberty. WLFI, meanwhile, fell from about 45 cents in August 2025 to about 5 cents by the end of June 2026.
+The venture has drawn particular scrutiny over its ties to the UAE. Months after Tahnoon's 2025 investment, the administration expanded UAE access to advanced U.S. AI chips, including for G42, a UAE state-backed AI company controlled by Tahnoon.
+U.S. lawmakers have sought information about those dealings and signaled that Trump family business transactions could face further investigation if Democrats gain subpoena power in Congress in the 2026 midterm election.`,
+    bodyJa: `A lawsuit filed Thursday accuses President Donald Trump and his family's crypto company of "corruptly profiting" off more than $2 billion in digital currency-related deals, violating constitutional restrictions on accepting foreign money.
+"No president in American history has profited from his office so brazenly," alleges the federal civil complaint from a shareholder of Circle Internet Group, a publicly traded U.S. crypto company and competitor of the Trump family business, World Liberty Financial.
+The suit filed in U.S. District Court in Washington by shareholder and former Circle employee J. Benjamin Greenberg centers on two allegedly "illegal foreign emoluments" involving World Liberty and Sheikh Tahnoon bin Zayed Al Nahyan, the national security advisor to the United Arab Emirates.
+Days before Trump's inauguration in January 2025, an entity backed by Tahnoon — widely known as the "Spy Sheikh" because of his powerful intelligence role — agreed to buy a 49% stake in World Liberty for $500 million.
+The company told The Wall Street Journal, which revealed the transaction in January 2026, that Trump had no involvement in the deal. But Trump would receive millions of dollars from that purchase after becoming president, according to his financial disclosures.
+The lawsuit also highlights a "scheme" by an Abu Dhabi-based investment fund chaired by Tahnoon to "inflate the value of President Trump's crypto holdings" through last year's purchase of $2 billion in World Liberty's stablecoin, USD1.
+The lawsuit asserts the conduct violates the U.S. Constitution's Foreign Emoluments Clause, which forbids federal officeholders from accepting money or other gifts from foreign officials without the consent of Congress.
+"What President Trump did is brazenly corrupt. He's made millions from these deals by selling out the American people," Matt Pelikan, an attorney at Evergreen Legal, said in a statement to CNBC.
+"We're suing to stop the corruption and to force President Trump to return the profits to American taxpayers," Pelikan said.
+The suit says Greenberg is filing derivatively on behalf of Circle. The company said in a statement to CNBC it was not behind the lawsuit and does not comment on pending litigation.
+"Circle did not initiate, direct, authorize, or participate in the filing," the company said via a spokesperson.
+The suit names Trump, World Liberty and U.S. Middle East Special Envoy Steve Witkoff as defendants, as well as four related limited liability companies.
+"World Liberty Financial is compliant with all U.S. laws and regulations," David Wachsman, a World Liberty spokesperson, told CNBC. "No one at World Liberty Financial works for the U.S. Government. These claims are without merit and we look forward to resolving them in court."
+The White House and a spokesperson for Witkoff did not immediately respond to CNBC's requests for comment on the lawsuit.
+In addition to seeking a court declaration that Trump's profits violate the Constitution, Greenberg wants the president to disclose all other foreign crypto emoluments he's received and return any profits found to be illegal.
+Trump and his family have rapidly expanded their crypto business since he returned to the White House. World Liberty Financial, launched with members of the Trump and Witkoff families in 2024, operates the USD1 stablecoin, and an entity affiliated with Trump and his family owns about 38% of the company.
+The business has been highly lucrative for Trump even as WLFI investors suffered steep losses. Trump reported more than $1.4 billion in crypto income in his 2025 annual financial disclosure, including nearly $800 million tied to World Liberty. WLFI, meanwhile, fell from about 45 cents in August 2025 to about 5 cents by the end of June 2026.
+The venture has drawn particular scrutiny over its ties to the UAE. Months after Tahnoon's 2025 investment, the administration expanded UAE access to advanced U.S. AI chips, including for G42, a UAE state-backed AI company controlled by Tahnoon.
+U.S. lawmakers have sought information about those dealings and signaled that Trump family business transactions could face further investigation if Democrats gain subpoena power in Congress in the 2026 midterm election.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
+    publishedAt: "2026-10-22T16:49:56+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "jobless-claims-near-the-lowest-since-the-9ca3f0fe",
+    title: "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+    titleJa: "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+    summaryJa: "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000.",
+    bodyOriginal: `Employers continue to hold onto workers even as hiring remains weak, sending weekly jobless claims to around their lowest levels in records that stretch back nearly six decades.
+Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000 for the week ended Oct. 17, the Labor Department reported Thursday.
+That marked another leg lower in the low-fire trend, with the total just off the 189,000 reported for the week of July 18 that was the lowest since September 1969. Claims have averaged 212,000 over the past year, and the four-week moving average is down to 197,750.
+Those numbers come against an uncertain backdrop for the labor market.
+Nonfarm payrolls rose by just 29,000 in September and have averaged a gain of just 69,000 a month in 2026. The unemployment rate rose to 4.2%, an increase largely due to a sharp spike in labor force participation. Layoffs have remained modest, declining by 61,000 in August, according to Bureau of Labor Statistics data released Sept. 29.
+Over the prior 12 months, the layoff rate measured as a share of the total workforce fell to 1%, down 0.2 percentage point during the period. Job openings were relatively flat during the period.
+"Despite extremely pessimistic views expressed in consumer confidence surveys regarding the economy overall, countless headlines describing job cuts from a variety of businesses, and the phantom job-stealing power of AI, the claims data suggests that labor market conditions are stable," Thomas Simons, chief U.S. economist at Jefferies, said in a client note.
+The data comes during the reference week that the BLS uses to calculate the payrolls growth number. The October jobs report will be released Nov. 6.
+Federal Reserve officials gather next week to issue their latest decision on interest rates. Policymakers in recent days have characterized the labor market as a source of general strength and focused more of their attention on the nettlesome inflation problem that has kept the pace of price increases well above the central bank's 2% target.
+Markets expect the Fed to hold off on a rate hike in October but then to institute another quarter percentage point increase in December.
+Correction: The October jobs report will be released Nov. 6. An earlier version misstated the month and date.`,
+    bodyJa: `Employers continue to hold onto workers even as hiring remains weak, sending weekly jobless claims to around their lowest levels in records that stretch back nearly six decades.
+Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000 for the week ended Oct. 17, the Labor Department reported Thursday.
+That marked another leg lower in the low-fire trend, with the total just off the 189,000 reported for the week of July 18 that was the lowest since September 1969. Claims have averaged 212,000 over the past year, and the four-week moving average is down to 197,750.
+Those numbers come against an uncertain backdrop for the labor market.
+Nonfarm payrolls rose by just 29,000 in September and have averaged a gain of just 69,000 a month in 2026. The unemployment rate rose to 4.2%, an increase largely due to a sharp spike in labor force participation. Layoffs have remained modest, declining by 61,000 in August, according to Bureau of Labor Statistics data released Sept. 29.
+Over the prior 12 months, the layoff rate measured as a share of the total workforce fell to 1%, down 0.2 percentage point during the period. Job openings were relatively flat during the period.
+"Despite extremely pessimistic views expressed in consumer confidence surveys regarding the economy overall, countless headlines describing job cuts from a variety of businesses, and the phantom job-stealing power of AI, the claims data suggests that labor market conditions are stable," Thomas Simons, chief U.S. economist at Jefferies, said in a client note.
+The data comes during the reference week that the BLS uses to calculate the payrolls growth number. The October jobs report will be released Nov. 6.
+Federal Reserve officials gather next week to issue their latest decision on interest rates. Policymakers in recent days have characterized the labor market as a source of general strength and focused more of their attention on the nettlesome inflation problem that has kept the pace of price increases well above the central bank's 2% target.
+Markets expect the Fed to hold off on a rate hike in October but then to institute another quarter percentage point increase in December.
+Correction: The October jobs report will be released Nov. 6. An earlier version misstated the month and date.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
+    publishedAt: "2026-10-22T16:40:09+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "meta-stock-sinks-6-as-ai-spend-pushes-fr-edf5754b",
+    title: "Meta stock sinks 6% as AI spend pushes free cash flow negative",
+    titleJa: "Meta stock sinks 6% as AI spend pushes free cash flow negative",
+    summaryJa: "Prices for the social media giant's 5-year credit default swaps are reaching all-time highs as investors signal growing credit concerns.",
+    bodyOriginal: `Meta shares slumped roughly 6% on Thursday as the social media giant showed negative free cash flow in its third-quarter earnings and raised the floor of its full-year capital expenditures.
+The spread on the social media giant's five-year credit default swaps reached all-time highs on Thursday, a signal of growing credit concerns from investors as the company leans deeper into its artificial intelligence spending plans.
+Meta said it expects its full-year capex to range from $135 billion to $145 billion, raising the bottom of the range from a previous $130 billion to $145 billion.
+Free cash flow came in at a negative $2.12 billion during the quarter.
+The company revealed Wednesday that it would create a new class of nonvoting Class C common stock during its earnings release, meant to maintain its "founder-led structure" and "provide Meta the ability to finance its growth."
+Meta also said CEO Mark Zuckerberg could leave the state if the "California Wealth Tax" were to pass, as he "could become liable for a significant, multi-billion-dollar tax payment based on his ownership of stock in the Company," according to the SEC filing.
+Zuckerberg was convinced to stay in California with the company's new stock plan, the filing noted.
+Revenue for the social media giant jumped 26% in the third quarter from a year ago, coming in at $64.60 billion versus the $63.37 billion analysts expected. Earnings per share were reported at $3.83, though it wasn't clear if it was directly comparable to the $5.75 per share Wall Street was looking for.
+—CNBC's Jonathan Vanian and Seema Mody contributed to this report.`,
+    bodyJa: `Meta shares slumped roughly 6% on Thursday as the social media giant showed negative free cash flow in its third-quarter earnings and raised the floor of its full-year capital expenditures.
+The spread on the social media giant's five-year credit default swaps reached all-time highs on Thursday, a signal of growing credit concerns from investors as the company leans deeper into its artificial intelligence spending plans.
+Meta said it expects its full-year capex to range from $135 billion to $145 billion, raising the bottom of the range from a previous $130 billion to $145 billion.
+Free cash flow came in at a negative $2.12 billion during the quarter.
+The company revealed Wednesday that it would create a new class of nonvoting Class C common stock during its earnings release, meant to maintain its "founder-led structure" and "provide Meta the ability to finance its growth."
+Meta also said CEO Mark Zuckerberg could leave the state if the "California Wealth Tax" were to pass, as he "could become liable for a significant, multi-billion-dollar tax payment based on his ownership of stock in the Company," according to the SEC filing.
+Zuckerberg was convinced to stay in California with the company's new stock plan, the filing noted.
+Revenue for the social media giant jumped 26% in the third quarter from a year ago, coming in at $64.60 billion versus the $63.37 billion analysts expected. Earnings per share were reported at $3.83, though it wasn't clear if it was directly comparable to the $5.75 per share Wall Street was looking for.
+—CNBC's Jonathan Vanian and Seema Mody contributed to this report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
+    publishedAt: "2026-10-22T15:45:57+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "under-the-radar-stocks-to-play-the-next-b29701d1",
+    title: "Under-the-radar stocks to play the next leg of the energy trade with oil prices jumping again",
+    titleJa: "Under-the-radar stocks to play the next leg of the energy trade with oil prices jumping again",
+    summaryJa: "Iran is going to grow more desperate as oil money dries up, which makes the country even more dangerous.",
+    bodyOriginal: `POWER POINT
+What I'm hearing from energy insiders
+So… what now?
+It seems to be the question many in the energy markets are asking. We are about to enter the ninth month of the Iran war. Or Iran "conflict." At this point, it's not very clear what to call it. The only thing right now that's "clear" is that very little is clear.
+What we know… now.
+Oil is moving through the Strait of Hormuz. Most Gulf nation export volumes are well up from their lows. Iran volumes are the exception. Those are down to the point of almost being nonexistent. From the little information that trickles out of the mostly closed country, it seems the Iranian economy is crumbling. Iran's currency is losing value, and people I speak with who have family there tell me they are increasingly worried about more economic pain ahead.
+Iran has one main source of money: oil. Without oil, there is little money. Without money, there is little ability to buy the weapons, drones, and missiles that cause havoc and spread fear in the Gulf. Iran is going to grow more desperate, which makes Iran even more dangerous. In just the last week or so, multiple ships have been attacked. Iran's proxy gang - the Yemeni terror group known as the Houthis - has recently killed civilians in Saudi Arabia with attacks on the airport. They also blew up part of Aramco's headquarters.
+The point is this is not just a grim recap of where we stand, but an attempt to understand where we're going. As I've said and written before… I have no idea. I'm not sure that anyone really does. The best we can do is gather as much information and intelligence as possible and make educated guesses. Sorry to say it, but right now, guessing is what many are doing. The markets remain one good or bad headline away from a $10 move in oil in either direction.
+While we wait, oil markets stay elevated. The paper price of oil is around $100 per barrel. Most companies and countries don't use "paper" oil. As I wrote last week, the price of an actual physical barrel of oil is much, much higher than what you see on your screens. In some cases, it may be double.
+Another of the few things we are clear on is that demand destruction is not here yet. All prices are up, and demand is staying relatively consistent. Sky-high diesel prices across Europe are going to hit demand, but they have not landed a knockout blow yet. $100 oil and $10 diesel are not what they used to be. Inflation has been a huge part of the global economic story since COVID and the lockdowns. Those were self-imposed, and I would argue that this is as well, because the attacks on Iran — whether you believe them to be just, given that regime's cruelty toward its own people — were a human decision. Humans got us into this, and humans are going to have to get us out.
+It doesn't appear that we are any closer to a real resolution than we were a few months ago. Shipping costs continue to soar, and insurance is available but expensive.
+So… what now?
+What now is that we keep as calm as we can and carry on. Every week, I write Power Insider knowing tomorrow could be an entirely different headline. But like it or not, oil is the lifeblood of the global economy. And it will be for decades to come. So the oil must flow. And it is flowing. But at a cost.
+Meantime, global markets wait for any scrap of clarity. What little we have will come from corporate earnings and any guidance management can provide. Energy services firm SLB (SLB) is first out of the gate with numbers on October 23. Baker Hughes (BKR) and natural gas exporter Cheniere Energy (LNG) are next. But the real focus comes on October 30, when both ExxonMobil (XOM) and Chevron (CVX) show off their earnings. It's not rocket science knowing those numbers will be big. Sales will rise with the price of oil. Refining earnings will be even bigger. The biggest piece of news, however, will be whatever glimmer of guidance these companies feel confident enough to provide. My spider sense tells me it won't be much. While mega oil and gas companies pay for some of the greatest intelligence in the world, even the world's greatest intelligence gatherers are subject to the whims of rogues with missile launchers.
+That's what's now… sadly.
+Thanks for reading—and watching—and be safe in these crazy and often scary times.
+—Brian
+THE ACTIONABLE INSIDER
+Global markets may be waiting for earnings, but Goldman Sachs isn't waiting to give clients advice on what to buy now. Neil Mehta and team are out with 10 energy stocks they love now, and I have thoughts.
+Let's dig in.
+Neil has loved the refining stocks for a while — a great call — but is now turning his focus to other names. He hasn't fallen out of love with the refiners; it's just that so much money has been made that he feels there are better opportunities elsewhere. Here are a few.
+On the large-cap side, he loves two companies with new CEOs: ConocoPhillips (COP) and Occidental Petroleum (OXY).
+Conoco's legendary boss, Ryan Lance, has made way for Andrew O'Brien. Neil doesn't see that as a problem, but is watching two things closely: COP's huge new Willow project in Alaska and the status of the damaged natural gas plant at QatarEnergy, in which ConocoPhillips is invested.
+Occidental also has a new CEO, Richard Jackson, and Goldman recently upgraded the stock to Buy from Neutral with a $69 target. More bullishly, Goldman chose to add OXY to its vaunted "America's Conviction List." The company has long been saddled with high debt, but it's pushing through a new plan to improve cash flow. Investors have been rewarded with a solid 53% gain over the last year, but Neil Mehta sees more to come.
+My Take → Energy investors are right to be nervous about oil and gas stocks. The group largely trades with the price of crude, so if we do get a meaningful peace with Iran — a big "if," I know — oil prices are likely to drop, perhaps meaningfully. I look forward to hopefully speaking soon with the CEOs of both ConocoPhillips and Occidental Petroleum about all of this and more.
+Those two are the megacaps. I'd like to now hit on two of the smaller-cap, less-talked-about stocks on Goldman's golden list.
+First, Permian Resources (PR). This is a name you may have heard mentioned a few times recently. Despite the name, Permian operates a big chunk of the Delaware Basin, which is in New Mexico, not Delaware. Get to know oil geography. And get to know free cash flow. Neil and his team see PR's free cash flow growing around 20% for the next couple of years, benefiting from the company's shift to more "oil-focused production." While the analyst team would like to get more "clarity on the company's outlook for organic oil production growth" and regional pricing, it believes that the current macro environment is a tailwind for Permian Resources.
+Also on Goldman's love list is TC Energy (TRP). The Canadian pipeline company has seen a big pullback in its stock, and that's one reason Neil and his team like it. They see TRP announcing more U.S. projects and are "more comfortable" with the company's funding outlook. TC Energy CEO François Poirier has spoken with us on CNBC a few times and expressed frustration about what he calls America's "underinvestment" in certain energy infrastructure.
+My Take → More pipelines are bullish for TRP, but given the upcoming midterm elections in America and a good chance that both houses of Congress shift to Democratic control, the odds of more fossil fuel energy infrastructure being built are likely heading lower, not higher.
+We always like to add value here on Power Insider, so here are nine of those ten stocks, ranked by possible upside versus the median Wall Street price target. TC Energy doesn't have an equivalent price target because it's listed in Canada.
+The last name on that list - H.F. Sinclair - is one to focus on. It's the only one on the list trading at its median target, and maybe one reason Neil and his team are shifting their focus away from refiners. 'DINO' has had an epic run, but after a 138% gain in 12 months, it and other refiners may soon become extinct from new portfolios.
+TAKE A LOOK
+Two key interviews for you to watch this week. First, we spoke with energy legend Dan Yergin about the current state of the Middle East, Russia, diesel and fuel supplies.
+Per The Actionable Insider above, here's our interview with Neil Mehta about his big oil stock call.
+INSIDE LINE
+This week's Inside Line is with Dan Pickering, founder and chief investment officer of Pickering Energy Partners. He has been a friend and great contact of mine for years and is a frequent face on CNBC.
+RANDOM, BUT INTERESTING
+The U.S. Strategic Petroleum Reserve continues to fall, and it's now at its lowest level since being filled. The question now is how low it can go before it becomes more difficult — and slower — to remove the oil. Some have suggested to me that when the SPR falls below 300 million barrels, the physics of pulling out the oil changes.
+RBI→ The "SPR" is not one facility. It is a collection of old caves around Texas and Louisiana.
+THE GRID
+How Ukraine's drone strikes on Russia crippled the world's second-largest diesel supplier
+Russia says it will send first diesel cargo to US on Thursday (Reuters)
+Google says it can build data centers the right way. Some experts and residents are skeptical
+Catch up with more on energy including interviews and video content from CNBC and Power Insider.
+Read the last issue of Power Insider here.`,
+    bodyJa: `POWER POINT
+What I'm hearing from energy insiders
+So… what now?
+It seems to be the question many in the energy markets are asking. We are about to enter the ninth month of the Iran war. Or Iran "conflict." At this point, it's not very clear what to call it. The only thing right now that's "clear" is that very little is clear.
+What we know… now.
+Oil is moving through the Strait of Hormuz. Most Gulf nation export volumes are well up from their lows. Iran volumes are the exception. Those are down to the point of almost being nonexistent. From the little information that trickles out of the mostly closed country, it seems the Iranian economy is crumbling. Iran's currency is losing value, and people I speak with who have family there tell me they are increasingly worried about more economic pain ahead.
+Iran has one main source of money: oil. Without oil, there is little money. Without money, there is little ability to buy the weapons, drones, and missiles that cause havoc and spread fear in the Gulf. Iran is going to grow more desperate, which makes Iran even more dangerous. In just the last week or so, multiple ships have been attacked. Iran's proxy gang - the Yemeni terror group known as the Houthis - has recently killed civilians in Saudi Arabia with attacks on the airport. They also blew up part of Aramco's headquarters.
+The point is this is not just a grim recap of where we stand, but an attempt to understand where we're going. As I've said and written before… I have no idea. I'm not sure that anyone really does. The best we can do is gather as much information and intelligence as possible and make educated guesses. Sorry to say it, but right now, guessing is what many are doing. The markets remain one good or bad headline away from a $10 move in oil in either direction.
+While we wait, oil markets stay elevated. The paper price of oil is around $100 per barrel. Most companies and countries don't use "paper" oil. As I wrote last week, the price of an actual physical barrel of oil is much, much higher than what you see on your screens. In some cases, it may be double.
+Another of the few things we are clear on is that demand destruction is not here yet. All prices are up, and demand is staying relatively consistent. Sky-high diesel prices across Europe are going to hit demand, but they have not landed a knockout blow yet. $100 oil and $10 diesel are not what they used to be. Inflation has been a huge part of the global economic story since COVID and the lockdowns. Those were self-imposed, and I would argue that this is as well, because the attacks on Iran — whether you believe them to be just, given that regime's cruelty toward its own people — were a human decision. Humans got us into this, and humans are going to have to get us out.
+It doesn't appear that we are any closer to a real resolution than we were a few months ago. Shipping costs continue to soar, and insurance is available but expensive.
+So… what now?
+What now is that we keep as calm as we can and carry on. Every week, I write Power Insider knowing tomorrow could be an entirely different headline. But like it or not, oil is the lifeblood of the global economy. And it will be for decades to come. So the oil must flow. And it is flowing. But at a cost.
+Meantime, global markets wait for any scrap of clarity. What little we have will come from corporate earnings and any guidance management can provide. Energy services firm SLB (SLB) is first out of the gate with numbers on October 23. Baker Hughes (BKR) and natural gas exporter Cheniere Energy (LNG) are next. But the real focus comes on October 30, when both ExxonMobil (XOM) and Chevron (CVX) show off their earnings. It's not rocket science knowing those numbers will be big. Sales will rise with the price of oil. Refining earnings will be even bigger. The biggest piece of news, however, will be whatever glimmer of guidance these companies feel confident enough to provide. My spider sense tells me it won't be much. While mega oil and gas companies pay for some of the greatest intelligence in the world, even the world's greatest intelligence gatherers are subject to the whims of rogues with missile launchers.
+That's what's now… sadly.
+Thanks for reading—and watching—and be safe in these crazy and often scary times.
+—Brian
+THE ACTIONABLE INSIDER
+Global markets may be waiting for earnings, but Goldman Sachs isn't waiting to give clients advice on what to buy now. Neil Mehta and team are out with 10 energy stocks they love now, and I have thoughts.
+Let's dig in.
+Neil has loved the refining stocks for a while — a great call — but is now turning his focus to other names. He hasn't fallen out of love with the refiners; it's just that so much money has been made that he feels there are better opportunities elsewhere. Here are a few.
+On the large-cap side, he loves two companies with new CEOs: ConocoPhillips (COP) and Occidental Petroleum (OXY).
+Conoco's legendary boss, Ryan Lance, has made way for Andrew O'Brien. Neil doesn't see that as a problem, but is watching two things closely: COP's huge new Willow project in Alaska and the status of the damaged natural gas plant at QatarEnergy, in which ConocoPhillips is invested.
+Occidental also has a new CEO, Richard Jackson, and Goldman recently upgraded the stock to Buy from Neutral with a $69 target. More bullishly, Goldman chose to add OXY to its vaunted "America's Conviction List." The company has long been saddled with high debt, but it's pushing through a new plan to improve cash flow. Investors have been rewarded with a solid 53% gain over the last year, but Neil Mehta sees more to come.
+My Take → Energy investors are right to be nervous about oil and gas stocks. The group largely trades with the price of crude, so if we do get a meaningful peace with Iran — a big "if," I know — oil prices are likely to drop, perhaps meaningfully. I look forward to hopefully speaking soon with the CEOs of both ConocoPhillips and Occidental Petroleum about all of this and more.
+Those two are the megacaps. I'd like to now hit on two of the smaller-cap, less-talked-about stocks on Goldman's golden list.
+First, Permian Resources (PR). This is a name you may have heard mentioned a few times recently. Despite the name, Permian operates a big chunk of the Delaware Basin, which is in New Mexico, not Delaware. Get to know oil geography. And get to know free cash flow. Neil and his team see PR's free cash flow growing around 20% for the next couple of years, benefiting from the company's shift to more "oil-focused production." While the analyst team would like to get more "clarity on the company's outlook for organic oil production growth" and regional pricing, it believes that the current macro environment is a tailwind for Permian Resources.
+Also on Goldman's love list is TC Energy (TRP). The Canadian pipeline company has seen a big pullback in its stock, and that's one reason Neil and his team like it. They see TRP announcing more U.S. projects and are "more comfortable" with the company's funding outlook. TC Energy CEO François Poirier has spoken with us on CNBC a few times and expressed frustration about what he calls America's "underinvestment" in certain energy infrastructure.
+My Take → More pipelines are bullish for TRP, but given the upcoming midterm elections in America and a good chance that both houses of Congress shift to Democratic control, the odds of more fossil fuel energy infrastructure being built are likely heading lower, not higher.
+We always like to add value here on Power Insider, so here are nine of those ten stocks, ranked by possible upside versus the median Wall Street price target. TC Energy doesn't have an equivalent price target because it's listed in Canada.
+The last name on that list - H.F. Sinclair - is one to focus on. It's the only one on the list trading at its median target, and maybe one reason Neil and his team are shifting their focus away from refiners. 'DINO' has had an epic run, but after a 138% gain in 12 months, it and other refiners may soon become extinct from new portfolios.
+TAKE A LOOK
+Two key interviews for you to watch this week. First, we spoke with energy legend Dan Yergin about the current state of the Middle East, Russia, diesel and fuel supplies.
+Per The Actionable Insider above, here's our interview with Neil Mehta about his big oil stock call.
+INSIDE LINE
+This week's Inside Line is with Dan Pickering, founder and chief investment officer of Pickering Energy Partners. He has been a friend and great contact of mine for years and is a frequent face on CNBC.
+RANDOM, BUT INTERESTING
+The U.S. Strategic Petroleum Reserve continues to fall, and it's now at its lowest level since being filled. The question now is how low it can go before it becomes more difficult — and slower — to remove the oil. Some have suggested to me that when the SPR falls below 300 million barrels, the physics of pulling out the oil changes.
+RBI→ The "SPR" is not one facility. It is a collection of old caves around Texas and Louisiana.
+THE GRID
+How Ukraine's drone strikes on Russia crippled the world's second-largest diesel supplier
+Russia says it will send first diesel cargo to US on Thursday (Reuters)
+Google says it can build data centers the right way. Some experts and residents are skeptical
+Catch up with more on energy including interviews and video content from CNBC and Power Insider.
+Read the last issue of Power Insider here.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/22/under-the-radar-stocks-to-play-the-next-leg-of-the-energy-trade-with-oil-prices-jumping-again.html",
+    publishedAt: "2026-10-22T15:16:05+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "i-wasn-t-thinking-straight-says-five-jo-26345a91",
+    title: "'I wasn't thinking straight' says five jobs civil servant",
+    titleJa: "'I wasn't thinking straight' says five jobs civil servant",
+    summaryJa: "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
+    bodyOriginal: `'I wasn't thinking straight' says five jobs civil servant
+- Published
+A civil servant accused of fraudulently juggling multiple public sector jobs has told the court he "wasn't thinking straight" when he allegedly misled future bosses about his employment status.
+Kashim Chowdhury said he was "in a panic" when he applied for a job at the Department of Health (DHSC), failing to declare he was already working at the Department for the Environment (Defra).
+The prosecution said he already had three full-time jobs at the time, including roles at the London Borough of Tower Hamlets and East London NHS Trust.
+The 55-year-old, who is from east London, is on trial accused of nine counts of fraud. He denies acting dishonestly or intending to make a dishonest gain.
+Chowdhury said he was "in a panic'' because he feared losing his Defra job and was uncertain about his future. He told the jury he was "not paying attention, I was not thinking straight',' when filling out the application.
+The prosecution said Chowdhury held five jobs on full-time salaries at the height of the alleged deceit.
+Civil servant faked illness with make-up to juggle five jobs, court hears
+- Published14 October
+Civil servant admits he 'made mistakes' juggling five government jobs
+- Published1 day ago
+In the spring of 2023, he was employed by the Defra, the UK Health Security Agency, the Food Standards Agency, the Department for Business and Trade and the Home Office.
+The jury was told that throughout this period he was contracted to work 183 hours a week - more than the number of hours that exist in seven days. Each job paid a full-time wage, with Chowdhury paid £11,000 for a single month's work in 2023.
+Prosecutors say Chowdhury "exploited" the work-from-home culture which began during the Covid-19 pandemic to hide his multiple jobs and took sick leave from some employers to manage the workload.
+But Chowdhury told the court he had not wanted the jobs at the DHSC, Department for Business and Trade and the Home Office.
+He told the jury: ''I sent out a flurry of these applications. The offers for these jobs came all at once. I had discussions with my line managers saying that I did not want these jobs and explained my circumstances. These were all short term and probationary and my priority was to look after my mother.''
+He added that around May and June 2022, his mother's health "deteriorated".
+He said: "That overwhelmed me at the time. It just destroyed me."
+Chowdhury described the jobs as his "lifeline at the time".
+"They gave me a link to the outside world and were a distraction from what was going on in my personal life, looking after my mum at that time."
+The prosecution alleges Chowdhury managed to keep his overlapping jobs secret because he worked entirely remotely. He told his employers he was the sole carer for his elderly mother and the prosecution alleges he "exploited this opportunity".
+The trial continues.`,
+    bodyJa: `'I wasn't thinking straight' says five jobs civil servant
+- Published
+A civil servant accused of fraudulently juggling multiple public sector jobs has told the court he "wasn't thinking straight" when he allegedly misled future bosses about his employment status.
+Kashim Chowdhury said he was "in a panic" when he applied for a job at the Department of Health (DHSC), failing to declare he was already working at the Department for the Environment (Defra).
+The prosecution said he already had three full-time jobs at the time, including roles at the London Borough of Tower Hamlets and East London NHS Trust.
+The 55-year-old, who is from east London, is on trial accused of nine counts of fraud. He denies acting dishonestly or intending to make a dishonest gain.
+Chowdhury said he was "in a panic'' because he feared losing his Defra job and was uncertain about his future. He told the jury he was "not paying attention, I was not thinking straight',' when filling out the application.
+The prosecution said Chowdhury held five jobs on full-time salaries at the height of the alleged deceit.
+Civil servant faked illness with make-up to juggle five jobs, court hears
+- Published14 October
+Civil servant admits he 'made mistakes' juggling five government jobs
+- Published1 day ago
+In the spring of 2023, he was employed by the Defra, the UK Health Security Agency, the Food Standards Agency, the Department for Business and Trade and the Home Office.
+The jury was told that throughout this period he was contracted to work 183 hours a week - more than the number of hours that exist in seven days. Each job paid a full-time wage, with Chowdhury paid £11,000 for a single month's work in 2023.
+Prosecutors say Chowdhury "exploited" the work-from-home culture which began during the Covid-19 pandemic to hide his multiple jobs and took sick leave from some employers to manage the workload.
+But Chowdhury told the court he had not wanted the jobs at the DHSC, Department for Business and Trade and the Home Office.
+He told the jury: ''I sent out a flurry of these applications. The offers for these jobs came all at once. I had discussions with my line managers saying that I did not want these jobs and explained my circumstances. These were all short term and probationary and my priority was to look after my mother.''
+He added that around May and June 2022, his mother's health "deteriorated".
+He said: "That overwhelmed me at the time. It just destroyed me."
+Chowdhury described the jobs as his "lifeline at the time".
+"They gave me a link to the outside world and were a distraction from what was going on in my personal life, looking after my mum at that time."
+The prosecution alleges Chowdhury managed to keep his overlapping jobs secret because he worked entirely remotely. He told his employers he was the sole carer for his elderly mother and the prosecution alleges he "exploited this opportunity".
+The trial continues.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-22T15:05:47+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a08/live/66d2ad60-ce29-11f1-9f18-490cec60aa0f.jpg",
+    readTime: 7,
+  },
+  {
+    id: "tank-barrel-production-returns-to-uk-aft-08bce485",
+    title: "Tank barrel production returns to UK after 20 years",
+    titleJa: "Tank barrel production returns to UK after 20 years",
+    summaryJa: "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces.",
+    bodyOriginal: `Tank barrel production returns to UK after 20 years
+- Published
+The production of gun barrels to be used on tanks has returned to the UK for the first time in 20 years with the opening of a new manufacturing facility.
+The UK Gun Hall in Telford, run by German defence firm Rheinmetall, has supported 100 jobs and will make barrels and breaches for large calibre weapons.
+Defence secretary, Wes Streeting, attended the opening ceremony on Thursday and said Britain was "back in the business of making weapons" for its armed forces.
+"From an empty site to full production in eight months, this is rapid reindustrialisation in action," he said.
+"One hundred skilled jobs in world class manufacturing and the return of large calibre weapon production to UK soil for the first time in 20 years - this is what defence as an engine for growth looks like," Streeting added.
+The barrels and breaches will be made for both 120m and 155mm weapon systems, including for the RCH 155 and future artillery platforms, according to Rheinmetall.
+The firm is already involved in the UK's Boxer combat vehicle programme and is upgrading the country's Challenger tanks.
+Specialist workers from Telford have been recruited and the firm said it would expand its workforce as production ramped up.
+Ahead of the factory's opening, staff spent time at a Rheinmetall facility in Germany where they were trained in precision manufacturing, quality assurance and specialist weapon production.
+Armin Papperger, CEO of Rheinmetall, said the gun hall was an "important milestone" that would strengthen the country's industrial base "for decades to come".
+"We are committed to investing in the UK for the long term, expanding our industrial footprint and working together to deliver the capabilities needed for the future," he added.
+'Statement of intent'
+Papperger told BBC Radio Shropshire it was a significant investment in Telford, adding that the firm only had one similar production line in Germany.
+"At the moment, we have a lot of orders and we need the capacity. Telford has very well-educated people, highly-motivated people," he added.
+Papperger said the company currently had 1,300 employees in the UK but was looking to build up that number.
+During his speech at the event, Streeting described Telford as being "synonymous with engineering and manufacturing".
+"Today is a vote of confidence in our country," he continued, "a statement of intent on our mission to reindustrialise Britain and create good, well-paid jobs across our country."
+Get in touch
+Tell us which stories we should cover in Shropshire
+Follow BBC Shropshire on BBC Sounds, Facebook, external, X, external and Instagram, external.
+Related topics
+- Published16 April
+- Published18 February
+- Published19 May 2025`,
+    bodyJa: `Tank barrel production returns to UK after 20 years
+- Published
+The production of gun barrels to be used on tanks has returned to the UK for the first time in 20 years with the opening of a new manufacturing facility.
+The UK Gun Hall in Telford, run by German defence firm Rheinmetall, has supported 100 jobs and will make barrels and breaches for large calibre weapons.
+Defence secretary, Wes Streeting, attended the opening ceremony on Thursday and said Britain was "back in the business of making weapons" for its armed forces.
+"From an empty site to full production in eight months, this is rapid reindustrialisation in action," he said.
+"One hundred skilled jobs in world class manufacturing and the return of large calibre weapon production to UK soil for the first time in 20 years - this is what defence as an engine for growth looks like," Streeting added.
+The barrels and breaches will be made for both 120m and 155mm weapon systems, including for the RCH 155 and future artillery platforms, according to Rheinmetall.
+The firm is already involved in the UK's Boxer combat vehicle programme and is upgrading the country's Challenger tanks.
+Specialist workers from Telford have been recruited and the firm said it would expand its workforce as production ramped up.
+Ahead of the factory's opening, staff spent time at a Rheinmetall facility in Germany where they were trained in precision manufacturing, quality assurance and specialist weapon production.
+Armin Papperger, CEO of Rheinmetall, said the gun hall was an "important milestone" that would strengthen the country's industrial base "for decades to come".
+"We are committed to investing in the UK for the long term, expanding our industrial footprint and working together to deliver the capabilities needed for the future," he added.
+'Statement of intent'
+Papperger told BBC Radio Shropshire it was a significant investment in Telford, adding that the firm only had one similar production line in Germany.
+"At the moment, we have a lot of orders and we need the capacity. Telford has very well-educated people, highly-motivated people," he added.
+Papperger said the company currently had 1,300 employees in the UK but was looking to build up that number.
+During his speech at the event, Streeting described Telford as being "synonymous with engineering and manufacturing".
+"Today is a vote of confidence in our country," he continued, "a statement of intent on our mission to reindustrialise Britain and create good, well-paid jobs across our country."
+Get in touch
+Tell us which stories we should cover in Shropshire
+Follow BBC Shropshire on BBC Sounds, Facebook, external, X, external and Instagram, external.
+Related topics
+- Published16 April
+- Published18 February
+- Published19 May 2025`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-22T13:45:19+00:00",
+    category: "自動車",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57ea/live/ff2243b0-ce05-11f1-8991-296181d7e3de.jpg",
+    readTime: 7,
+  },
+  {
+    id: "trump-s-approval-rating-on-economy-hits-8d6bb954",
+    title: "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+    titleJa: "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+    summaryJa: "Eight out of 10 Americans now rate the economy as fair or poor, one of several findings in a CNBC poll that show why Republican candidates face uphill battles.",
+    bodyOriginal: `With less than two weeks to go before the congressional elections, Americans are nearly as gloomy about the economy as they were when the nation was emerging from the pandemic, and President Donald Trump's economic approval rating is hitting an all-time low, according to the latest CNBC All-America Economic Survey.
+Eight out of 10 Americans rate the economy as fair or poor, the highest number since December 2023 and one of several ominous signs for Republicans in the new polling data released Thursday that show why their candidates are facing an uphill battle in the midterm.
+Downbeat views on the economy are most intense among Democrats and independents, but there's been a strong move toward economic pessimism even among Republicans in recent months. Overall, 63% of the public is pessimistic about the current state of the economy and the outlook, up 1 percentage point from the July survey. But that percentage now includes 35% of Republicans, up 6 points from July and the highest level of Republican pessimism of either of Trump's two terms.
+"We got there not because of independents or Democrats getting more sour — it's because Republicans have," said Micah Roberts, partner at Public Opinion Strategies, the Republican pollster for the survey. "Since Trump has been president, [Republicans] have held on to a small margin saying that the current economy is either excellent or good. And now that has kind of broken and changed."
+The survey of 1,000 registered voters nationwide, with a margin of error of plus or minus 3.1%, found Americans preferring Democratic control of Congress by a 52% to 45% margin. The 7 percentage point Democratic edge represents a 3 percentage point gain for Democrats from the July survey.
+The poll contained other foreboding signs for Republicans as well. It showed 72% of Democrats highly interested in the midterm election on Nov. 3, compared with just 62% of Republicans. Women are 10 percentage points more interested in the election than men, and they prefer Democratic control of Congress by 22 points. Independents prefer Democratic control by a wide 49% to 33% margin. And the majority of survey respondents said Democrats would do a better job than Republicans on many of the issues they singled out as their top concerns, including corruption and the cost of food and gas.
+Read the full survey results here.
+In the eight states with competitive Senate races, respondents prefer Democratic congressional control by 4 percentage points. Trump carried those eight states by a combined 10 points in the 2024 presidential election.
+The survey shows "things moving either away from Republicans or toward Democrats, depending how you want to look at it, in a way that would make me very nervous if I was leading Republican campaigns leading into these last two weeks," said Jay Campbell, partner at Hart Associates, the Democratic pollster for the poll.
+Despite the economic gloom, Trump's overall approval rating has remained stable, though at just 40% approving and 59% disapproving. His current net approval of -19 percentage points compares with -8 a year ago.
+More striking is the sharp 9-point drop in the president's net economic approval rating from just the last survey in July. The president's economic approval fell to 34% from 38% in three months and disapproval rose to 65% from 60%. The net -31 economic approval is the lowest of either of Trump's two terms. The 65% disapproval rating is 1 percentage point higher than former President Joe Biden's worst showing and the highest for any president surveyed by CNBC going back to President Barack Obama.
+Government corruption was identified as the top concern by 36% of respondents, and Democrats hold a 4-point lead on addressing the issue. On the cost of food and groceries, the second-most important issue, the Democratic lead widened to +16 from +7 in the July survey. Democrats also topped Republicans on protecting democracy as well as dealing with the high price of gas.
+Among those most interested in the election are respondents who identify corruption and protecting democracy as top issues, and they prefer Democratic congressional control by wide margins.
+Republicans continued to hold a strong advantage on border security and immigration, but the lead on immigration fell to +9 from +15. Democrats, meanwhile, are seen as better at handling the issues of jobs and unemployment and Iran, which flipped from +2 for Republicans to +5 for Democrats.
+The public continued to be skeptical of the value of the Iran war. The survey found just 46% of the public believe the military action was worth it to disrupt development of Iran's nuclear capabilities, down from a 53% majority in April. And just 35% say the military action was worth it given the rise in the price of gasoline.
+While the survey showed continued deep divisions by party, there was near unity on the corruption issue. Ninety-three percent said elected officials, including the president and members of Congress, should not be allowed to personally own or trade stocks in individual companies that have contracts with the federal government. And 89% said companies owned by or invested in by a sitting president's immediate family members should not be allowed to receive contracts from the federal government.
+While corruption was a top issue, prices are clearly top of mind for registered voters. Taken together, concern about the cost of food, gas and housing is the top concern for 57% of respondents. Eighty percent say prices are rising, up 5 percentage points from a year ago, with 55% saying they are rising faster than usual, also up 5 points. The cost of food actually eclipses gas as a greater concern in the survey 34% to 23%. It's a top worry among most major demographic groups but is most elevated among those making $30,000 or less and supporters of the agenda of Democratic Socialists of America. Yet it's also the top issue for those Republicans who don't count themselves as MAGA supporters.
+Both pollsters were cautious about how extensive Democratic gains could be. Roberts from POS said it's a battle between "the map and momentum."
+"There are several indications nationally that the electorate is tilting more toward Democrats … but the movement is also fairly concentrated, each party's base is consolidating, and a 'big change' is dependent on Democrats flipping a lot of districts and states that Trump won handily just two years ago," he said.
+Campbell doesn't see a "realignment" election like in 1994 and 2008, saying, "This looks like a return to the mean—young voters and voters of color returning to the Democratic fold, bolstered by independents being fed up with Trumpenomics." He adds, "At no point did anyone expect that Democratic candidates would suddenly pull 15% of the Republican vote."`,
+    bodyJa: `With less than two weeks to go before the congressional elections, Americans are nearly as gloomy about the economy as they were when the nation was emerging from the pandemic, and President Donald Trump's economic approval rating is hitting an all-time low, according to the latest CNBC All-America Economic Survey.
+Eight out of 10 Americans rate the economy as fair or poor, the highest number since December 2023 and one of several ominous signs for Republicans in the new polling data released Thursday that show why their candidates are facing an uphill battle in the midterm.
+Downbeat views on the economy are most intense among Democrats and independents, but there's been a strong move toward economic pessimism even among Republicans in recent months. Overall, 63% of the public is pessimistic about the current state of the economy and the outlook, up 1 percentage point from the July survey. But that percentage now includes 35% of Republicans, up 6 points from July and the highest level of Republican pessimism of either of Trump's two terms.
+"We got there not because of independents or Democrats getting more sour — it's because Republicans have," said Micah Roberts, partner at Public Opinion Strategies, the Republican pollster for the survey. "Since Trump has been president, [Republicans] have held on to a small margin saying that the current economy is either excellent or good. And now that has kind of broken and changed."
+The survey of 1,000 registered voters nationwide, with a margin of error of plus or minus 3.1%, found Americans preferring Democratic control of Congress by a 52% to 45% margin. The 7 percentage point Democratic edge represents a 3 percentage point gain for Democrats from the July survey.
+The poll contained other foreboding signs for Republicans as well. It showed 72% of Democrats highly interested in the midterm election on Nov. 3, compared with just 62% of Republicans. Women are 10 percentage points more interested in the election than men, and they prefer Democratic control of Congress by 22 points. Independents prefer Democratic control by a wide 49% to 33% margin. And the majority of survey respondents said Democrats would do a better job than Republicans on many of the issues they singled out as their top concerns, including corruption and the cost of food and gas.
+Read the full survey results here.
+In the eight states with competitive Senate races, respondents prefer Democratic congressional control by 4 percentage points. Trump carried those eight states by a combined 10 points in the 2024 presidential election.
+The survey shows "things moving either away from Republicans or toward Democrats, depending how you want to look at it, in a way that would make me very nervous if I was leading Republican campaigns leading into these last two weeks," said Jay Campbell, partner at Hart Associates, the Democratic pollster for the poll.
+Despite the economic gloom, Trump's overall approval rating has remained stable, though at just 40% approving and 59% disapproving. His current net approval of -19 percentage points compares with -8 a year ago.
+More striking is the sharp 9-point drop in the president's net economic approval rating from just the last survey in July. The president's economic approval fell to 34% from 38% in three months and disapproval rose to 65% from 60%. The net -31 economic approval is the lowest of either of Trump's two terms. The 65% disapproval rating is 1 percentage point higher than former President Joe Biden's worst showing and the highest for any president surveyed by CNBC going back to President Barack Obama.
+Government corruption was identified as the top concern by 36% of respondents, and Democrats hold a 4-point lead on addressing the issue. On the cost of food and groceries, the second-most important issue, the Democratic lead widened to +16 from +7 in the July survey. Democrats also topped Republicans on protecting democracy as well as dealing with the high price of gas.
+Among those most interested in the election are respondents who identify corruption and protecting democracy as top issues, and they prefer Democratic congressional control by wide margins.
+Republicans continued to hold a strong advantage on border security and immigration, but the lead on immigration fell to +9 from +15. Democrats, meanwhile, are seen as better at handling the issues of jobs and unemployment and Iran, which flipped from +2 for Republicans to +5 for Democrats.
+The public continued to be skeptical of the value of the Iran war. The survey found just 46% of the public believe the military action was worth it to disrupt development of Iran's nuclear capabilities, down from a 53% majority in April. And just 35% say the military action was worth it given the rise in the price of gasoline.
+While the survey showed continued deep divisions by party, there was near unity on the corruption issue. Ninety-three percent said elected officials, including the president and members of Congress, should not be allowed to personally own or trade stocks in individual companies that have contracts with the federal government. And 89% said companies owned by or invested in by a sitting president's immediate family members should not be allowed to receive contracts from the federal government.
+While corruption was a top issue, prices are clearly top of mind for registered voters. Taken together, concern about the cost of food, gas and housing is the top concern for 57% of respondents. Eighty percent say prices are rising, up 5 percentage points from a year ago, with 55% saying they are rising faster than usual, also up 5 points. The cost of food actually eclipses gas as a greater concern in the survey 34% to 23%. It's a top worry among most major demographic groups but is most elevated among those making $30,000 or less and supporters of the agenda of Democratic Socialists of America. Yet it's also the top issue for those Republicans who don't count themselves as MAGA supporters.
+Both pollsters were cautious about how extensive Democratic gains could be. Roberts from POS said it's a battle between "the map and momentum."
+"There are several indications nationally that the electorate is tilting more toward Democrats … but the movement is also fairly concentrated, each party's base is consolidating, and a 'big change' is dependent on Democrats flipping a lot of districts and states that Trump won handily just two years ago," he said.
+Campbell doesn't see a "realignment" election like in 1994 and 2008, saying, "This looks like a return to the mean—young voters and voters of color returning to the Democratic fold, bolstered by independents being fed up with Trumpenomics." He adds, "At no point did anyone expect that Democratic candidates would suddenly pull 15% of the Republican vote."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+    publishedAt: "2026-10-22T13:18:36+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
     id: "david-s-bridal-plans-to-spin-off-ai-plat-7015df93",
     title: "David's Bridal plans to spin off AI platform Pearl into publicly traded company",
     titleJa: "David's Bridal plans to spin off AI platform Pearl into publicly traded company",
@@ -1690,566 +2178,6 @@ Nvidia, once a chip company, now offers networking, storage, and other data cent
     source: "CNBC",
     sourceUrl: "https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html",
     publishedAt: "2026-10-21T11:30:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "house-committee-says-webull-messages-poi-787afc34",
-    title: "House committee says Webull messages point to China access to U.S. customer data",
-    titleJa: "House committee says Webull messages point to China access to U.S. customer data",
-    summaryJa: "The House Select Committee on China earlier this month said online investing platform Webull is quietly \"tied in structural ways\" to China's government.",
-    bodyOriginal: `Internal messages between employees of online investing platform Webull suggest a company employee in China had access to information about a U.S. customer, despite the company having said it bars such sharing, according to an analysis of the messages by the House Select Committee on China.
-The analysis comes nearly two weeks after CNBC first detailed the bipartisan select committee's report that concluded that Webull, which counts 28 million users, is quietly "tied in structural ways" to China's government, representing a national security threat to American finance.
-Webull shares slid more than 19% on the heels of that Oct. 7 report.
-At the time of the report, Webull told CNBC in a statement that "U.S. customer data is stored in the U.S. and access to sensitive customer data is controlled by the U.S."
-But the newly released internal messages by the House Select Committee on China, which CNBC exclusively obtained, raise questions about whether that has always been the case.
-The committee has focused on threats posed by China and protecting U.S. industry from Chinese competition.
-One message thread suggests a Webull employee was in China during a discussion about a U.S. customer account.
-The thread also indicates the account was previously approved by a China Webull team member and an American counterpart.
-The messages, dating to 2021, were sent on Microsoft Teams between Brendan Fuller, a manager at Webull's U.S. brokerage, and an employee named Zhenghan Wang, whose nickname is "Rock."
-The select committee says Wang was likely in China at the time.
-In one message, Fuller messaged Wang about concerns involving a particular trading account.
-"We saw these problems ... and approve account," Fuller wrote.
-Wang replied: "Yes,CIP."
-CIP is an acronym for Customer Identification Program, a U.S. regulatory requirement that financial institutions verify the identities of individuals and entities opening accounts.
-"I thought so," Fuller responded.
-Wang asked Fuller: "Who approve the account?"
-Fuller responded: "One China team member and one US team."
-Wang then asked: "I want to know in what situation (CIP), can we approve the account open?"
-Fuller responded: "I think we just approve them all no matter what ..."
-"And then we pay for vendors. And create report and work," Fuller added.
-Wang then replied that "CIP=" followed by Mandarin Chinese characters forming a common phrase that translates as "Exists in name only," or "Useless."
-A spokesperson for the select committee, in a statement to CNBC, said, "All the evidence in these text messages points to Zhenghan Wang, a Webull employee, being located in China with access to U.S. customer data at the time he worked for the company."
-An analysis by the committee concluded that Wang was in China at the time of the exchange because the messages' time stamps indicated that Wang was working daytime hours in Beijing, and because he set his software to translate the messages into simplified Chinese.
-A Webull spokesperson did not directly respond to CNBC's questions about Wang's access to U.S. customer data in 2021 and whether that disproved the company's assertion that its U.S. data does not go to China.
-The Webull spokesperson said, "Protecting customer data is central to Webull's operations."
-"Webull's U.S. customer data is stored only in the U.S. on AWS servers in Virginia and Oregon, with access to sensitive data restricted to U.S.-based employees," the spokesperson said.
-"U.S. broker-dealer operations are directed exclusively by U.S.-based personnel, and no individuals based outside the U.S. have ever exercised operational or decision-making authority over Webull's U.S. broker-dealer business."
-The company spokesperson also criticized the select committee's release of the messages.
-"The Teams messages now being referenced date back to a 2021 routine FINRA matter, which was concluded," the spokesperson said. FINRA, or the Financial Industry Regulatory Authority, is the self-regulatory organization for member broker-dealers.
-The messages' "recent disclosure, alongside the Select Committee's report relying on preliminary and outdated information, raises legitimate questions about the timing and circumstances surrounding their release," Webull's spokesperson said.
-"Webull rejects irresponsible speculation and stands on our well-documented record: Webull's data protection practices are robust, continuously enhanced, and independently verified."
-The select committee's Oct. 7 report argued that Webull's corporate structure means the firm's "software development, data pipelines, and core engineering operations" are dependent on infrastructure subject directly to Beijing's laws. Those Chinese laws can compel firms to cooperate with the government in various ways, including mandating data transfers.
-The select committee on Tuesday issued a press release titled, "The Facts on Webull's Ties to China."
-The release said that since the committee issued its report, Webull "has ... responded with numerous false statements about its business and its interactions with the Select Committee."
-The committee listed five claims by Webull, followed by what the committee labeled "The Truth."
-One section, titled "Webull Claim: 'U.S. customer data is stored in the U.S.,'" was followed by a rebuttal that said, "The Truth: The Select Committee's report does not dispute where the data is stored.
-"Its finding is about who can reach the data and the systems that process it," the committee continued. "The report found that Webull affiliate Webull Technologies Limited previously used Tencent Cloud, a China-based provider, to host certain user data ... Webull has not said what data Tencent hosted or when that ended."
-Webull said Tuesday that it was partnering with Kalshi, the prediction market platform, to offer so-called perpetual futures to U.S. customers.
-The first set of perpetual futures, which do not have an expiration date, as traditional futures do, would be for cryptocurrencies, Webull said.`,
-    bodyJa: `Internal messages between employees of online investing platform Webull suggest a company employee in China had access to information about a U.S. customer, despite the company having said it bars such sharing, according to an analysis of the messages by the House Select Committee on China.
-The analysis comes nearly two weeks after CNBC first detailed the bipartisan select committee's report that concluded that Webull, which counts 28 million users, is quietly "tied in structural ways" to China's government, representing a national security threat to American finance.
-Webull shares slid more than 19% on the heels of that Oct. 7 report.
-At the time of the report, Webull told CNBC in a statement that "U.S. customer data is stored in the U.S. and access to sensitive customer data is controlled by the U.S."
-But the newly released internal messages by the House Select Committee on China, which CNBC exclusively obtained, raise questions about whether that has always been the case.
-The committee has focused on threats posed by China and protecting U.S. industry from Chinese competition.
-One message thread suggests a Webull employee was in China during a discussion about a U.S. customer account.
-The thread also indicates the account was previously approved by a China Webull team member and an American counterpart.
-The messages, dating to 2021, were sent on Microsoft Teams between Brendan Fuller, a manager at Webull's U.S. brokerage, and an employee named Zhenghan Wang, whose nickname is "Rock."
-The select committee says Wang was likely in China at the time.
-In one message, Fuller messaged Wang about concerns involving a particular trading account.
-"We saw these problems ... and approve account," Fuller wrote.
-Wang replied: "Yes,CIP."
-CIP is an acronym for Customer Identification Program, a U.S. regulatory requirement that financial institutions verify the identities of individuals and entities opening accounts.
-"I thought so," Fuller responded.
-Wang asked Fuller: "Who approve the account?"
-Fuller responded: "One China team member and one US team."
-Wang then asked: "I want to know in what situation (CIP), can we approve the account open?"
-Fuller responded: "I think we just approve them all no matter what ..."
-"And then we pay for vendors. And create report and work," Fuller added.
-Wang then replied that "CIP=" followed by Mandarin Chinese characters forming a common phrase that translates as "Exists in name only," or "Useless."
-A spokesperson for the select committee, in a statement to CNBC, said, "All the evidence in these text messages points to Zhenghan Wang, a Webull employee, being located in China with access to U.S. customer data at the time he worked for the company."
-An analysis by the committee concluded that Wang was in China at the time of the exchange because the messages' time stamps indicated that Wang was working daytime hours in Beijing, and because he set his software to translate the messages into simplified Chinese.
-A Webull spokesperson did not directly respond to CNBC's questions about Wang's access to U.S. customer data in 2021 and whether that disproved the company's assertion that its U.S. data does not go to China.
-The Webull spokesperson said, "Protecting customer data is central to Webull's operations."
-"Webull's U.S. customer data is stored only in the U.S. on AWS servers in Virginia and Oregon, with access to sensitive data restricted to U.S.-based employees," the spokesperson said.
-"U.S. broker-dealer operations are directed exclusively by U.S.-based personnel, and no individuals based outside the U.S. have ever exercised operational or decision-making authority over Webull's U.S. broker-dealer business."
-The company spokesperson also criticized the select committee's release of the messages.
-"The Teams messages now being referenced date back to a 2021 routine FINRA matter, which was concluded," the spokesperson said. FINRA, or the Financial Industry Regulatory Authority, is the self-regulatory organization for member broker-dealers.
-The messages' "recent disclosure, alongside the Select Committee's report relying on preliminary and outdated information, raises legitimate questions about the timing and circumstances surrounding their release," Webull's spokesperson said.
-"Webull rejects irresponsible speculation and stands on our well-documented record: Webull's data protection practices are robust, continuously enhanced, and independently verified."
-The select committee's Oct. 7 report argued that Webull's corporate structure means the firm's "software development, data pipelines, and core engineering operations" are dependent on infrastructure subject directly to Beijing's laws. Those Chinese laws can compel firms to cooperate with the government in various ways, including mandating data transfers.
-The select committee on Tuesday issued a press release titled, "The Facts on Webull's Ties to China."
-The release said that since the committee issued its report, Webull "has ... responded with numerous false statements about its business and its interactions with the Select Committee."
-The committee listed five claims by Webull, followed by what the committee labeled "The Truth."
-One section, titled "Webull Claim: 'U.S. customer data is stored in the U.S.,'" was followed by a rebuttal that said, "The Truth: The Select Committee's report does not dispute where the data is stored.
-"Its finding is about who can reach the data and the systems that process it," the committee continued. "The report found that Webull affiliate Webull Technologies Limited previously used Tencent Cloud, a China-based provider, to host certain user data ... Webull has not said what data Tencent hosted or when that ended."
-Webull said Tuesday that it was partnering with Kalshi, the prediction market platform, to offer so-called perpetual futures to U.S. customers.
-The first set of perpetual futures, which do not have an expiration date, as traditional futures do, would be for cryptocurrencies, Webull said.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/21/webull-us-customer-data-china-access.html",
-    publishedAt: "2026-10-21T11:05:18+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "mortgage-rates-drop-for-the-first-time-i-14123ab3",
-    title: "Mortgage rates drop for the first time in 2 months, but demand still falls further",
-    titleJa: "Mortgage rates drop for the first time in 2 months, but demand still falls further",
-    summaryJa: "Mortgage rates finally came down a little, but borrowers are still having trouble getting into the housing market.",
-    bodyOriginal: `Mortgage demand took another leg lower, despite a brief respite from rising interest rates.
-Total mortgage application volume fell 5.3% last week compared with the previous week, according to the Mortgage Bankers Association's seasonally adjusted index.
-The average contract interest rate for 30-year fixed-rate mortgages with conforming loan balances, $832,750 or less, decreased last week to 7.41% from 7.50%, with points decreasing to 0.75 from 0.83 (including the origination fee, for loans with a 20% down payment.
-"Mortgage rates decreased for the first time in over two months," said Joel Kan, an MBA economist in a release. "However, lower rates were not enough to boost application activity, as both purchase and refinance applications continued to decline."
-Applications to refinance a home loan, which are most sensitive to weekly moves, fell just 2% week-to-week, a smaller drop than some previous weeks when rates were moving higher. Refinance demand was still 59% lower than the same week one year ago. With rates now over a full percentage point higher than they were a year ago, there is a very small pool of borrowers who can benefit from a refinance.
-Applications for a mortgage to purchase a home fell a steeper 7% for the week and were 18% lower from the year before. Buyers are reacting less to the weekly move in rates but more to the overall higher level. A report from the National Association of Realtors Wednesday showed a sharp drop in September pending home sales. These are measured by signed contracts, so it showed the real-time impact of rising rates during the month. Rates remained at that higher level in October.
-For those buyers in the market, a continued high share are opting for adjustable-rate loans (ARMs), which offer lower rates but are considered riskier because they will eventually reset to whatever the market rate is at the end of their term.
-"The ARM share held steady at 10.5 percent, as ARM rates remained almost a full percentage point lower than the 30-year fixed rate, giving qualified borrowers a lower rate option to purchase a home," Kan added.
-Mortgage rates haven't done much to start this week, according to a separate survey from Mortgage News Daily. Last week was a particularly volatile week for rates, due to multiple monthly inflation reports. This week the moves have seemed to follow oil prices.
-"But we'd caution against placing too much emphasis on the oil price correlation," wrote Matthew Graham, chief operating officer at Mortgage News Daily. "It's been highly unreliable for more than a month."`,
-    bodyJa: `Mortgage demand took another leg lower, despite a brief respite from rising interest rates.
-Total mortgage application volume fell 5.3% last week compared with the previous week, according to the Mortgage Bankers Association's seasonally adjusted index.
-The average contract interest rate for 30-year fixed-rate mortgages with conforming loan balances, $832,750 or less, decreased last week to 7.41% from 7.50%, with points decreasing to 0.75 from 0.83 (including the origination fee, for loans with a 20% down payment.
-"Mortgage rates decreased for the first time in over two months," said Joel Kan, an MBA economist in a release. "However, lower rates were not enough to boost application activity, as both purchase and refinance applications continued to decline."
-Applications to refinance a home loan, which are most sensitive to weekly moves, fell just 2% week-to-week, a smaller drop than some previous weeks when rates were moving higher. Refinance demand was still 59% lower than the same week one year ago. With rates now over a full percentage point higher than they were a year ago, there is a very small pool of borrowers who can benefit from a refinance.
-Applications for a mortgage to purchase a home fell a steeper 7% for the week and were 18% lower from the year before. Buyers are reacting less to the weekly move in rates but more to the overall higher level. A report from the National Association of Realtors Wednesday showed a sharp drop in September pending home sales. These are measured by signed contracts, so it showed the real-time impact of rising rates during the month. Rates remained at that higher level in October.
-For those buyers in the market, a continued high share are opting for adjustable-rate loans (ARMs), which offer lower rates but are considered riskier because they will eventually reset to whatever the market rate is at the end of their term.
-"The ARM share held steady at 10.5 percent, as ARM rates remained almost a full percentage point lower than the 30-year fixed rate, giving qualified borrowers a lower rate option to purchase a home," Kan added.
-Mortgage rates haven't done much to start this week, according to a separate survey from Mortgage News Daily. Last week was a particularly volatile week for rates, due to multiple monthly inflation reports. This week the moves have seemed to follow oil prices.
-"But we'd caution against placing too much emphasis on the oil price correlation," wrote Matthew Graham, chief operating officer at Mortgage News Daily. "It's been highly unreliable for more than a month."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/21/mortgage-rates-drop-for-the-first-time-in-2-months-but-demand-falls.html",
-    publishedAt: "2026-10-21T11:00:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "spacex-up-over-8-in-premarket-after-earn-4de597c2",
-    title: "SpaceX up over 8% in premarket after earnings beat and Musk hints at Tesla tie-up",
-    titleJa: "SpaceX up over 8% in premarket after earnings beat and Musk hints at Tesla tie-up",
-    summaryJa: "SpaceX shares jumped after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.",
-    bodyOriginal: `SpaceX jumped in premarket trading on Wednesday after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.
-The space company, which made its debut on the Nasdaq in the biggest IPO ever in June, reported third-quarter revenue on Tuesday of $14.6 billion, up 161% from the previous year, and beating LSEG consensus estimates of $12.72 billion.
-Meanwhile, its operating income from operations came in at $2.8 billion, with net income of $4.4 billion, after reporting a net loss of $1.05 billion in the same period a year earlier.
-On the earnings call, Musk said he's considering a combination with Tesla — which would mark the largest merger in history — and that the boards of both companies have created specific committees to discuss a consolidation.
-"I do think there's a lot of merit to combining the companies as we are pretty much in the superintelligence singularity, and there's a lot to be gained from cooperating," Musk said on the call. Tesla is set to report third-quarter earnings after the closing bell on Wednesday.
-SpaceX shares last rose 8.5% before the markets opened on Wednesday. Meanwhile, Tesla shares were up 1.4% in premarket trading.
-Shares of other space stocks, including Rocket Lab, Intuitive Machines, and AST SpaceMobile, were all higher in premarket trading.
-SpaceX forecasts first-quarter 2027 revenue between $33 billion and $37 billion, beating the average analyst estimate of $22.2 billion, per LSEG.
-"We delivered another strong quarter in Q3. Revenue grew an impressive 161% year-over-year, fueled by continued momentum in Connectivity and a clear inflection in our Super Intelligence business," SpaceX's Chief Financial Officer Bret Johnson said in the earnings release.
-Johnson pinned the strong results on recurring revenue from its satellite internet business, Starlink, and significant expansion of its Super Intelligence [SI] infrastructure.
-The company has dived into AI this year, which it's now calling SI. The segment is its largest business unit, with revenue soaring ninefold to $7.56 billion from $813 million in the same quarter last year.
-Bull case for AI cloud providers
-Commentary on computing during the earnings call supported "continued pricing power and shorter payback periods" for AI cloud providers, Truist Securities analysts said in a Tuesday note.
-"Despite market concerns relating to financing for AI cloud providers this past week, we believe SpaceX's third-quarter 2026 represents the first data point during the earnings season to support the bull case for AI cloud providers," they added.
-They explained that demand appears "insatiable," with SpaceX noting that it could rent out its capacity several times over. The analysts said Coreweave and Nebius are set to benefit and capture demand as "pricing power will more than offset higher rates."
-The shares of cloud providers including Nebius, Coreweave, Iren, and Applied Digital also rose in premarket trading on Wednesday following Musk's comments.
-— Lora Kolodny contributed to this report`,
-    bodyJa: `SpaceX jumped in premarket trading on Wednesday after the company reported surging revenue growth in its third quarter, and owner Elon Musk floated a potential SpaceX-Tesla merger.
-The space company, which made its debut on the Nasdaq in the biggest IPO ever in June, reported third-quarter revenue on Tuesday of $14.6 billion, up 161% from the previous year, and beating LSEG consensus estimates of $12.72 billion.
-Meanwhile, its operating income from operations came in at $2.8 billion, with net income of $4.4 billion, after reporting a net loss of $1.05 billion in the same period a year earlier.
-On the earnings call, Musk said he's considering a combination with Tesla — which would mark the largest merger in history — and that the boards of both companies have created specific committees to discuss a consolidation.
-"I do think there's a lot of merit to combining the companies as we are pretty much in the superintelligence singularity, and there's a lot to be gained from cooperating," Musk said on the call. Tesla is set to report third-quarter earnings after the closing bell on Wednesday.
-SpaceX shares last rose 8.5% before the markets opened on Wednesday. Meanwhile, Tesla shares were up 1.4% in premarket trading.
-Shares of other space stocks, including Rocket Lab, Intuitive Machines, and AST SpaceMobile, were all higher in premarket trading.
-SpaceX forecasts first-quarter 2027 revenue between $33 billion and $37 billion, beating the average analyst estimate of $22.2 billion, per LSEG.
-"We delivered another strong quarter in Q3. Revenue grew an impressive 161% year-over-year, fueled by continued momentum in Connectivity and a clear inflection in our Super Intelligence business," SpaceX's Chief Financial Officer Bret Johnson said in the earnings release.
-Johnson pinned the strong results on recurring revenue from its satellite internet business, Starlink, and significant expansion of its Super Intelligence [SI] infrastructure.
-The company has dived into AI this year, which it's now calling SI. The segment is its largest business unit, with revenue soaring ninefold to $7.56 billion from $813 million in the same quarter last year.
-Bull case for AI cloud providers
-Commentary on computing during the earnings call supported "continued pricing power and shorter payback periods" for AI cloud providers, Truist Securities analysts said in a Tuesday note.
-"Despite market concerns relating to financing for AI cloud providers this past week, we believe SpaceX's third-quarter 2026 represents the first data point during the earnings season to support the bull case for AI cloud providers," they added.
-They explained that demand appears "insatiable," with SpaceX noting that it could rent out its capacity several times over. The analysts said Coreweave and Nebius are set to benefit and capture demand as "pricing power will more than offset higher rates."
-The shares of cloud providers including Nebius, Coreweave, Iren, and Applied Digital also rose in premarket trading on Wednesday following Musk's comments.
-— Lora Kolodny contributed to this report`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html",
-    publishedAt: "2026-10-21T10:52:39+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 8,
-  },
-  {
-    id: "faisal-islam-inflation-and-borrowing-fig-8274d11b",
-    title: "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
-    titleJa: "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
-    summaryJa: "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
-    bodyOriginal: `Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge
-- Published
-The Chancellor was on a early flight to North East Scotland on Wednesday to announce new North Sea energy approvals as the last set of major economic figures dropped.
-From a mile high, as well as close up, the figures for inflation and for the public finances set out his Budget balancing act in clear terms.
-The National Debt has topped £3 trillion for the first time in the official figures.
-The headline rate of inflation has hit 3.5% and is surely heading back up to 4% in the coming months.
-Borrowing is running ahead of forecasts, as spending and interest costs increase.
-These show the constraints for John Healey as he puts the finishing touches to his statement next week.
-On the one hand he says he wants to give "breathing space" to consumers yet again feeling the heat from cost of living pressures.
-The public finances remain under pressure, however, from the double whammy of rising inflation and borrowing costs.
-While inflation was of course expected to increase as petrol and diesel prices surged, in some cases, to records, other measures of underlying inflation also increased.
-From airfares to computer game download prices, there are the first signs of stickier forms of price pressure and of higher inflation becoming more embedded, suggesting elevated price rises are not temporary. Capital Economics now expects the main measure of inflation to peak at 4.2% next year.
-The Bank of England carefully watches services inflation and core inflation, and this ups the odds significantly for a rise in interest rates next month.
-The services sector, which includes everything from law and banking to retail, hospitality and tourism, makes up the vast majority of the UK's economic output.
-Cost of living trade off
-The latest inflation figure also applies as the uprating to tens of billions in welfare payments next April.
-By law, benefits such as personal independence payment (PIP) and carer's allowance must rise in line with September's consumer price index (CPI) measure of inflation.
-The figure also confirms that the Triple Lock will see the State Pension increase by 3.9% next April.
-There is one form of relief here - food price inflation remains largely unaffected by the energy shock.
-While higher inflation at a time of frozen tax thresholds will raise more tax in cash terms, it will also increase the cost of public services, including likely union pay demands.
-All the while, UK borrowing costs have risen alongside most of the advanced world as the US-Israel war against Iran has intensified.
-The Jackdaw gas field decision is seen as the start of a run of "pro growth" pre-Budget announcements.
-It sends a directional message, but will not fundamentally change the trade off between cost of living breathing space, and delivering a Budget that convinces the markets and investors.
-The fact the borrowing costs gap has narrowed a bit with other G7 nations, and the IMF praised pencilled-in plans to shrink borrowing, provided a platform for the chancellor's Budget.
-The latest economic numbers amply illustrate the challenge of actually delivering them.`,
-    bodyJa: `Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge
-- Published
-The Chancellor was on a early flight to North East Scotland on Wednesday to announce new North Sea energy approvals as the last set of major economic figures dropped.
-From a mile high, as well as close up, the figures for inflation and for the public finances set out his Budget balancing act in clear terms.
-The National Debt has topped £3 trillion for the first time in the official figures.
-The headline rate of inflation has hit 3.5% and is surely heading back up to 4% in the coming months.
-Borrowing is running ahead of forecasts, as spending and interest costs increase.
-These show the constraints for John Healey as he puts the finishing touches to his statement next week.
-On the one hand he says he wants to give "breathing space" to consumers yet again feeling the heat from cost of living pressures.
-The public finances remain under pressure, however, from the double whammy of rising inflation and borrowing costs.
-While inflation was of course expected to increase as petrol and diesel prices surged, in some cases, to records, other measures of underlying inflation also increased.
-From airfares to computer game download prices, there are the first signs of stickier forms of price pressure and of higher inflation becoming more embedded, suggesting elevated price rises are not temporary. Capital Economics now expects the main measure of inflation to peak at 4.2% next year.
-The Bank of England carefully watches services inflation and core inflation, and this ups the odds significantly for a rise in interest rates next month.
-The services sector, which includes everything from law and banking to retail, hospitality and tourism, makes up the vast majority of the UK's economic output.
-Cost of living trade off
-The latest inflation figure also applies as the uprating to tens of billions in welfare payments next April.
-By law, benefits such as personal independence payment (PIP) and carer's allowance must rise in line with September's consumer price index (CPI) measure of inflation.
-The figure also confirms that the Triple Lock will see the State Pension increase by 3.9% next April.
-There is one form of relief here - food price inflation remains largely unaffected by the energy shock.
-While higher inflation at a time of frozen tax thresholds will raise more tax in cash terms, it will also increase the cost of public services, including likely union pay demands.
-All the while, UK borrowing costs have risen alongside most of the advanced world as the US-Israel war against Iran has intensified.
-The Jackdaw gas field decision is seen as the start of a run of "pro growth" pre-Budget announcements.
-It sends a directional message, but will not fundamentally change the trade off between cost of living breathing space, and delivering a Budget that convinces the markets and investors.
-The fact the borrowing costs gap has narrowed a bit with other G7 nations, and the IMF praised pencilled-in plans to shrink borrowing, provided a platform for the chancellor's Budget.
-The latest economic numbers amply illustrate the challenge of actually delivering them.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-21T10:20:15+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d837/live/21441720-cd34-11f1-935f-b9c228680c6f.jpg",
-    readTime: 8,
-  },
-  {
-    id: "inflation-and-government-borrowing-highe-1e50a91f",
-    title: "Inflation and government borrowing highest for a year ahead of next week's Budget",
-    titleJa: "Inflation and government borrowing highest for a year ahead of next week's Budget",
-    summaryJa: "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
-    bodyOriginal: `Inflation and government borrowing highest for a year ahead of next week's Budget
-- Published
-UK inflation and government borrowing both hit their highest in a year on Wednesday, adding to the pressure on Chancellor John Healey ahead of his first Budget in a week.
-The pace of UK price rises accelerated to 3.5% in the year to September, pushed up by sharp increases in petrol and diesel prices.
-The inflation figures came as UK government borrowing jumped to nearly £25bn in September, which means borrowing for the financial year to date is running £6bn above official forecasts.
-Healey has promised a Budget which will keep to Labour's commitment not to hike the three main taxes - income tax, National Insurance and VAT - while sticking to the party's fiscal rules.
-Inflation, the rate at which prices are rising, jumped from 3.1% in the year to August to 3.5% in the year to September. It is the highest inflation has been since October 2025, according to the Office for National Statistics (ONS).
-The cost of filling up a vehicle has soared in recent months as conflicts in the Middle East and Europe continue to squeeze global oil supplies.
-The effective closure of the Strait of Hormuz by Iran after US and Israeli attacks has severely disrupted a major global supply line for crude oil, while oil refining capacity has been hampered globally by Russian and Ukrainian attacks on each other's infrastructure after Russia's invasion of Ukraine.
-Petrol prices in September were the highest since August 2022, the ONS said, while diesel also rocketed.
-The average price of petrol rose by 8.2p per litre to 169.5p per litre between August and September, while diesel rose to 192.5p per litre.
-Motor fuel prices overall rose by 29.8% in the period covered by the figures.
-ONS chief economist Grant Fitzner said September's "notable" increase meant inflation was at its highest rate in almost a year.
-As well as fuel prices, the increase was driven by rising prices for airfares, computer games and live events, Fitzner said.
-September's inflation figure is also important because it suggests how benefits will increase next April.
-It means the state pension will most likely rise by 3.9%, in line with average wage rises from May to July, due to the triple lock.
-The inflation figure for September also dictates how other benefits will rise in April. By law, benefits such as personal independence payment (PIP) and carer's allowance must rise in line with September's consumer price index (CPI) measure of inflation.
-With a week to go until he delivers the Budget, Healey said: "We know that price rises from conflicts in the Middle East and Europe are hitting Britain and countries worldwide."
-He said the International Monetary Fund last week had praised the UK government for its "fiscal discipline", and that the government has just given the go-ahead for getting more gas from the North Sea's Jackdaw field.
-The Budget on 28 October will "keep up this momentum", he said, by sticking to the government's self-imposed fiscal rules, and by driving "growth in every postcode, while giving businesses and families some breathing space".
-But the inflation figure came as the ONS said the government borrowed £24.5bn in September, £1.8bn higher than a year earlier, as higher inflation helped to push up debt interest costs.
-The overshoot means, cumulatively, the government has borrowed £6bn more this year than the Office for Budget Responsibility (OBR), which scores government spending plans, had forecast.
-Despite overall debt topping £3tn for the first time, debt as a proportion of the UK's economic output - the measure used by the government to judge whether it is in line with its fiscal rules - fell.
-The Conservatives said higher inflation and borrowing showed Labour had "lost control of the economy".
-Shadow Chancellor Andrew Griffith called for Healey to use his Budget to "tackle the deficit, and reduce the red tape and net zero costs that are driving up the cost of living for families".
-He added that the Conservatives would cut taxes, the costs of benefits and "wasteful" spending to "make our country prosperous again".
-Ruth Gregory, deputy chief UK economist at Capital Economics, said the borrowing figures "painted a dismal picture" ahead of Healey's Budget. She said the amount borrowed in September was higher than analyst expectations as well as spending watchdog the Office for Budget Responsibility (OBR)'s forecast.
-"This reinforces our view that the Chancellor will deliver a cautious Budget on 28 October that has little net impact on the economy and leaves the toughest fiscal choices for next year," she said.`,
-    bodyJa: `Inflation and government borrowing highest for a year ahead of next week's Budget
-- Published
-UK inflation and government borrowing both hit their highest in a year on Wednesday, adding to the pressure on Chancellor John Healey ahead of his first Budget in a week.
-The pace of UK price rises accelerated to 3.5% in the year to September, pushed up by sharp increases in petrol and diesel prices.
-The inflation figures came as UK government borrowing jumped to nearly £25bn in September, which means borrowing for the financial year to date is running £6bn above official forecasts.
-Healey has promised a Budget which will keep to Labour's commitment not to hike the three main taxes - income tax, National Insurance and VAT - while sticking to the party's fiscal rules.
-Inflation, the rate at which prices are rising, jumped from 3.1% in the year to August to 3.5% in the year to September. It is the highest inflation has been since October 2025, according to the Office for National Statistics (ONS).
-The cost of filling up a vehicle has soared in recent months as conflicts in the Middle East and Europe continue to squeeze global oil supplies.
-The effective closure of the Strait of Hormuz by Iran after US and Israeli attacks has severely disrupted a major global supply line for crude oil, while oil refining capacity has been hampered globally by Russian and Ukrainian attacks on each other's infrastructure after Russia's invasion of Ukraine.
-Petrol prices in September were the highest since August 2022, the ONS said, while diesel also rocketed.
-The average price of petrol rose by 8.2p per litre to 169.5p per litre between August and September, while diesel rose to 192.5p per litre.
-Motor fuel prices overall rose by 29.8% in the period covered by the figures.
-ONS chief economist Grant Fitzner said September's "notable" increase meant inflation was at its highest rate in almost a year.
-As well as fuel prices, the increase was driven by rising prices for airfares, computer games and live events, Fitzner said.
-September's inflation figure is also important because it suggests how benefits will increase next April.
-It means the state pension will most likely rise by 3.9%, in line with average wage rises from May to July, due to the triple lock.
-The inflation figure for September also dictates how other benefits will rise in April. By law, benefits such as personal independence payment (PIP) and carer's allowance must rise in line with September's consumer price index (CPI) measure of inflation.
-With a week to go until he delivers the Budget, Healey said: "We know that price rises from conflicts in the Middle East and Europe are hitting Britain and countries worldwide."
-He said the International Monetary Fund last week had praised the UK government for its "fiscal discipline", and that the government has just given the go-ahead for getting more gas from the North Sea's Jackdaw field.
-The Budget on 28 October will "keep up this momentum", he said, by sticking to the government's self-imposed fiscal rules, and by driving "growth in every postcode, while giving businesses and families some breathing space".
-But the inflation figure came as the ONS said the government borrowed £24.5bn in September, £1.8bn higher than a year earlier, as higher inflation helped to push up debt interest costs.
-The overshoot means, cumulatively, the government has borrowed £6bn more this year than the Office for Budget Responsibility (OBR), which scores government spending plans, had forecast.
-Despite overall debt topping £3tn for the first time, debt as a proportion of the UK's economic output - the measure used by the government to judge whether it is in line with its fiscal rules - fell.
-The Conservatives said higher inflation and borrowing showed Labour had "lost control of the economy".
-Shadow Chancellor Andrew Griffith called for Healey to use his Budget to "tackle the deficit, and reduce the red tape and net zero costs that are driving up the cost of living for families".
-He added that the Conservatives would cut taxes, the costs of benefits and "wasteful" spending to "make our country prosperous again".
-Ruth Gregory, deputy chief UK economist at Capital Economics, said the borrowing figures "painted a dismal picture" ahead of Healey's Budget. She said the amount borrowed in September was higher than analyst expectations as well as spending watchdog the Office for Budget Responsibility (OBR)'s forecast.
-"This reinforces our view that the Chancellor will deliver a cautious Budget on 28 October that has little net impact on the economy and leaves the toughest fiscal choices for next year," she said.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-21T10:16:17+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/295f/live/2e2e9560-cd3d-11f1-9a39-31b474234113.jpg",
-    readTime: 10,
-  },
-  {
-    id: "what-is-happening-to-uk-prices-cb190e87",
-    title: "What is happening to UK prices?",
-    titleJa: "What is happening to UK prices?",
-    summaryJa: "What is happening to UK prices?- Published",
-    bodyOriginal: `What is happening to UK prices?
-- Published
-Inflation in the UK rose to 3.5% in the year to September, the highest rate in nearly a year and above the Bank of England's 2% target.
-The rise was slightly higher than economists had predicted, driven by higher petrol and diesel prices.
-Inflation is widely expected to rise again in the coming months.
-What is inflation?
-Inflation is the increase in the price of something over time.
-For example, if a bottle of milk costs £1 but is £1.05 a year later, then annual milk inflation is 5%.
-How is the UK's inflation rate measured and what does it mean for UK interest rates?
-The prices of hundreds of everyday items, including food and fuel, are tracked by the Office for National Statistics (ONS).
-This virtual "basket of goods" is regularly updated to reflect shopping trends, with alcohol-free beer, dashboard cameras, and pet grooming equipment among items added in 2026, while premium bottled lager and sheets of wrapping paper were removed.
-The ONS uses price changes in the basket of goods over the previous 12 months to calculate inflation.
-The main inflation measure is called the Consumer Prices Index (CPI), external, and the latest figure is published every month.
-The Bank of England looks closely at the inflation figures when deciding whether to increase, lower or hold its base interest rate, which is currently 3.75%.
-Putting rates up makes borrowing more expensive, giving people and businesses less money to spend, reducing demand for goods and slowing price rises.
-But it is a careful balancing act – increasing borrowing costs also risks harming the economy.
-For example, homeowners face higher mortgage repayments, which can outweigh better savings deals.
-Businesses also borrow less, making them less likely to create jobs. Some may cut staff and reduce investment.
-What is happening to UK inflation?
-Although CPI inflation of 3.5% remains above the Bank of England's 2% target, it is well below the 11.1% figure reached in October 2022 as gas and oil prices soared in the wake of Russia's full-scale invasion of Ukraine.
-That was the highest rate for 40 years.
-While inflation has fallen significantly since then, prices have not. They have just risen less quickly.
-The higher figure for September was mostly caused by higher prices for motor fuel, which rose by 29.8% compared to September last year.
-Food price inflation remained at 1.3%.
-But it can take a year for changes in the cost of food to filter through to the shop floor because of the way supply chains work, so prices could still rise as a result of the widespread disruption caused by the war in Iran.
-How do energy prices affect UK inflation?
-Inflation soared in 2022 because oil and gas were in greater demand after the Covid pandemic, and energy prices surged again when Russia invaded Ukraine.
-Before the war in the Middle East broke out, UK inflation had been expected to be at or around the target level of 2% over the next five years, according to the official forecasts published in March 2026.
-But in April, the Bank of England warned that disruption to global energy markets could push UK inflation as high as 6% in the worst-case scenario.
-When the latest ceasefire took effect, analysts said it could limit further inflation hikes. Oil prices initially fell sharply after the deal was announced, but have risen again since the US and Iran resumed attacks in the Strait of Hormuz in July.
-As a result, UK petrol prices are likely to climb back up. This - coupled with the 4% increase in household energy bills from 1 October when the latest Ofgem price cap took effect - is expected to push UK inflation higher.
-As part of his pledge to provide "breathing space" for households struggling with the cost of living, Prime Minister Andy Burnham scrapped VAT on household electricity bills in October. It is predicted to have a small downward impact on inflation.
-Precisely because food and energy prices can be very volatile, the Bank of England also considers other economic measures such as "core inflation", which excludes these costs.
-Core CPI was 2.8% in the 12 months to September 2026, up from 2.6% in the 12 months to August.
-Why are UK fuel prices rising again?
-- Published2 October
-What will the energy cap changes mean for my bills?
-- Published28 September
-What does an Andy Burnham-led government mean for your money?
-- Published22 July
-What is happening to UK interest rates and will they fall again?
-The Bank cut interest rates six times between August 2024 and June 2026, which brought rates down to 3.75%, the lowest level since early 2023.
-In April, the Bank's Monetary Policy Committee indicated it would act "forcefully" if oil prices did not start to fall, with up to six rate hikes in a worst-case scenario.
-At its September meeting, Bank of England governor Andrew Bailey said energy price volatility made it more likely that interest rates would rise.
-Are wages keeping up with inflation?
-The Bank also looks closely at what is happening to wages and unemployment.
-The latest official figures show that regular pay in the UK grew ahead of inflation in the three months to August.
-Average annual growth in pay, excluding bonuses, during the three-month period was 3.7%.
-After taking inflation into account, it means regular pay grew by 0.8% between June and August.
-The 20-somethings juggling three jobs to make ends meet
-- Published21 April
-What needs to change to get more people working?
-- Published5 November 2025
-What is happening to inflation and interest rates in Europe and the US?
-The US and eurozone countries have also been trying to limit price increases, but also face challenges with inflation.
-The inflation rate for countries using the euro was 3.8% in September, according to EU data, external - up from 3.2% in August.
-The European Central Bank (ECB) has raised interest rates twice in recent months to 2.5%.
-US inflation was in 3.7% in September, up from 3.4% in August, with prices there also affected by higher fuel costs.
-The Federal Reserve cited "too high" inflation when it raised interest rates for the first time in three years in September, to a range of 3.75%-4%.
-The move came despite fierce opposition from President Donald Trump, who had called for rates to be cut.
-Get in touch
-Have you been affected by the issues discussed in this story?`,
-    bodyJa: `What is happening to UK prices?
-- Published
-Inflation in the UK rose to 3.5% in the year to September, the highest rate in nearly a year and above the Bank of England's 2% target.
-The rise was slightly higher than economists had predicted, driven by higher petrol and diesel prices.
-Inflation is widely expected to rise again in the coming months.
-What is inflation?
-Inflation is the increase in the price of something over time.
-For example, if a bottle of milk costs £1 but is £1.05 a year later, then annual milk inflation is 5%.
-How is the UK's inflation rate measured and what does it mean for UK interest rates?
-The prices of hundreds of everyday items, including food and fuel, are tracked by the Office for National Statistics (ONS).
-This virtual "basket of goods" is regularly updated to reflect shopping trends, with alcohol-free beer, dashboard cameras, and pet grooming equipment among items added in 2026, while premium bottled lager and sheets of wrapping paper were removed.
-The ONS uses price changes in the basket of goods over the previous 12 months to calculate inflation.
-The main inflation measure is called the Consumer Prices Index (CPI), external, and the latest figure is published every month.
-The Bank of England looks closely at the inflation figures when deciding whether to increase, lower or hold its base interest rate, which is currently 3.75%.
-Putting rates up makes borrowing more expensive, giving people and businesses less money to spend, reducing demand for goods and slowing price rises.
-But it is a careful balancing act – increasing borrowing costs also risks harming the economy.
-For example, homeowners face higher mortgage repayments, which can outweigh better savings deals.
-Businesses also borrow less, making them less likely to create jobs. Some may cut staff and reduce investment.
-What is happening to UK inflation?
-Although CPI inflation of 3.5% remains above the Bank of England's 2% target, it is well below the 11.1% figure reached in October 2022 as gas and oil prices soared in the wake of Russia's full-scale invasion of Ukraine.
-That was the highest rate for 40 years.
-While inflation has fallen significantly since then, prices have not. They have just risen less quickly.
-The higher figure for September was mostly caused by higher prices for motor fuel, which rose by 29.8% compared to September last year.
-Food price inflation remained at 1.3%.
-But it can take a year for changes in the cost of food to filter through to the shop floor because of the way supply chains work, so prices could still rise as a result of the widespread disruption caused by the war in Iran.
-How do energy prices affect UK inflation?
-Inflation soared in 2022 because oil and gas were in greater demand after the Covid pandemic, and energy prices surged again when Russia invaded Ukraine.
-Before the war in the Middle East broke out, UK inflation had been expected to be at or around the target level of 2% over the next five years, according to the official forecasts published in March 2026.
-But in April, the Bank of England warned that disruption to global energy markets could push UK inflation as high as 6% in the worst-case scenario.
-When the latest ceasefire took effect, analysts said it could limit further inflation hikes. Oil prices initially fell sharply after the deal was announced, but have risen again since the US and Iran resumed attacks in the Strait of Hormuz in July.
-As a result, UK petrol prices are likely to climb back up. This - coupled with the 4% increase in household energy bills from 1 October when the latest Ofgem price cap took effect - is expected to push UK inflation higher.
-As part of his pledge to provide "breathing space" for households struggling with the cost of living, Prime Minister Andy Burnham scrapped VAT on household electricity bills in October. It is predicted to have a small downward impact on inflation.
-Precisely because food and energy prices can be very volatile, the Bank of England also considers other economic measures such as "core inflation", which excludes these costs.
-Core CPI was 2.8% in the 12 months to September 2026, up from 2.6% in the 12 months to August.
-Why are UK fuel prices rising again?
-- Published2 October
-What will the energy cap changes mean for my bills?
-- Published28 September
-What does an Andy Burnham-led government mean for your money?
-- Published22 July
-What is happening to UK interest rates and will they fall again?
-The Bank cut interest rates six times between August 2024 and June 2026, which brought rates down to 3.75%, the lowest level since early 2023.
-In April, the Bank's Monetary Policy Committee indicated it would act "forcefully" if oil prices did not start to fall, with up to six rate hikes in a worst-case scenario.
-At its September meeting, Bank of England governor Andrew Bailey said energy price volatility made it more likely that interest rates would rise.
-Are wages keeping up with inflation?
-The Bank also looks closely at what is happening to wages and unemployment.
-The latest official figures show that regular pay in the UK grew ahead of inflation in the three months to August.
-Average annual growth in pay, excluding bonuses, during the three-month period was 3.7%.
-After taking inflation into account, it means regular pay grew by 0.8% between June and August.
-The 20-somethings juggling three jobs to make ends meet
-- Published21 April
-What needs to change to get more people working?
-- Published5 November 2025
-What is happening to inflation and interest rates in Europe and the US?
-The US and eurozone countries have also been trying to limit price increases, but also face challenges with inflation.
-The inflation rate for countries using the euro was 3.8% in September, according to EU data, external - up from 3.2% in August.
-The European Central Bank (ECB) has raised interest rates twice in recent months to 2.5%.
-US inflation was in 3.7% in September, up from 3.4% in August, with prices there also affected by higher fuel costs.
-The Federal Reserve cited "too high" inflation when it raised interest rates for the first time in three years in September, to a range of 3.75%-4%.
-The move came despite fierce opposition from President Donald Trump, who had called for rates to be cut.
-Get in touch
-Have you been affected by the issues discussed in this story?`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-21T08:35:47+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73aa/live/9eb3d5f0-a8dd-11f0-a522-95977dce8b09.jpg",
-    readTime: 10,
-  },
-  {
-    id: "why-is-elon-musk-plotting-a-mega-merger-dcc1295a",
-    title: "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-    titleJa: "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-    summaryJa: "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
-    bodyOriginal: `Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?
-- Published
-Elon Musk has spent years building Tesla and SpaceX into a pair of trillion-dollar technology empires. Now, he is considering bringing them together.
-Asked on Tuesday whether a merger would be a good idea, Musk was clear: "Yes."
-The prospect is more than hypothetical. Musk said special committees have been formed to assess a potential deal, although he stressed that there is no guarantee a merger will happen and that nothing has been agreed.
-With Tesla valued at roughly $1.5 trillion (£1.1 trillion) and SpaceX at $2 trillion, a combination of the two companies would mark the largest merger ever.
-Any deal would also need shareholder backing. But Musk said he saw "a lot to be gained" in bringing the businesses together.
-How likely is the merger?
-"In my opinion, 100%. It's just a question of when," says David Nicholson, chief technology advisor at market research firm The Futurum Group.
-The unveiling of the Tesla Roadster last week - a futuristic electric car powered by SpaceX rocket thrusters - served as a "symbolic embodiment" hinting at the two Musk companies merging, Nicholson said.
-Musk, chief executive of both SpaceX and Tesla, said bringing the firms together would be beneficial given the work each does around chips, artificial intelligence (AI) and other technology projects.
-Specifically, the deal would combine Tesla's cars, robots and self-driving technology with SpaceX's rockets, data centres, satellites and telecommunications operations.
-The move could be a step towards Musk's mission to build a self-sustaining city on Mars - a vision that has invited sceptics but also plenty of backers.
-Over the past year, Musk has moved to consolidate his businesses, with SpaceX acquiring xAI and X, formerly Twitter, before going public this year.
-But the merger would ultimately be decided by shareholders, with half of Tesla's needed to back the deal, a threshold even Musk described as "quite a high hurdle".
-Musk, as boss of both companies, cannot participate in shareholder discussions.
-Even so, Musk, a key shareholder of Tesla, will likely get his way in the next few years, said investment analyst Dan Sheehan from Telos Wealth Advisors.
-He believes shareholders will back the deal as the technology the companies develop complement each other, Sheehan said.
-But the merger would mean that Tesla shareholders will likely hold a "smaller slice of a much larger and more complex business," he added.
-"There's no real precedent for how a public company like Tesla gets priced in this," Sheehan said.
-SpaceX shares rose 8% in after hours trading while shares of Tesla climbed by 2%.
-What would it mean for customers?
-Experts told the BBC that Tesla drivers are unlikely to see much drastic change in the near term, even if the two companies combine.
-In fact, vehicles seem almost like "an afterthought", overshadowed by the potential to combine the Tesla and SpaceX's tech capabilities, Nicholson said.
-Changes are already underway at Tesla. The carmaker said earlier this year that it would prioritise its best-selling Model Y and Model 3, shifting focus away from less popular models.
-Tesla also started using a manufacturing plant in California to produce humanoid robots, known as Optimus.
-Pairing Tesla's self-driving technology and robotics with SpaceX's AI and satellite network could result in more capable vehicles, Sheehan said.
-"The question is how much priority cars get inside a company increasingly driven by AI infrastructure," he added.
-The recent Roadster showcase suggests SpaceX technology could be pulled into future Tesla products, which could attract more customers, said Tu Le, the founder of advisory firm Sino Auto Insights.
-The Cybertruck-maker faces intense competition from Chinese carmakers like BYD, which overtook Tesla as the world's biggest EV maker in January.
-What does Musk get out of it?
-The biggest winner is probably Musk - the world's richest man who also became the world's first trillionaire earlier this year.
-The merger would give Musk greater voting control over the combined company than he currently has at Tesla, a factor the special committee assessing the deal would have to consider.
-A single company makes it easier for Musk to run his AI strategy the way he wants, Sheehan said.
-"The deal itself doesn't add to Musk's wealth, but it concentrates it further in one stock," he said.
-However, the merger could attract scrutiny over Musk, already a polarising figure in the US, Nicholson said.
-The move could also face more regulatory pressure if Democrats - many of whom have been critical of Musk - win more seats in the US midterm elections next month.
-Shareholders have backed Musk's desires before. Last year, Tesla investors approved an unprecedented compensation package for Musk valued around $1tn.
-"I honestly don't think Musk will be keeping track of what the merger will do for his wealth," Nicholson said.
-The deal also brings Musk closer to what Nicholson says is "his mission in life": colonising Mars.
-- Published6 days ago
-- Published12 June`,
-    bodyJa: `Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?
-- Published
-Elon Musk has spent years building Tesla and SpaceX into a pair of trillion-dollar technology empires. Now, he is considering bringing them together.
-Asked on Tuesday whether a merger would be a good idea, Musk was clear: "Yes."
-The prospect is more than hypothetical. Musk said special committees have been formed to assess a potential deal, although he stressed that there is no guarantee a merger will happen and that nothing has been agreed.
-With Tesla valued at roughly $1.5 trillion (£1.1 trillion) and SpaceX at $2 trillion, a combination of the two companies would mark the largest merger ever.
-Any deal would also need shareholder backing. But Musk said he saw "a lot to be gained" in bringing the businesses together.
-How likely is the merger?
-"In my opinion, 100%. It's just a question of when," says David Nicholson, chief technology advisor at market research firm The Futurum Group.
-The unveiling of the Tesla Roadster last week - a futuristic electric car powered by SpaceX rocket thrusters - served as a "symbolic embodiment" hinting at the two Musk companies merging, Nicholson said.
-Musk, chief executive of both SpaceX and Tesla, said bringing the firms together would be beneficial given the work each does around chips, artificial intelligence (AI) and other technology projects.
-Specifically, the deal would combine Tesla's cars, robots and self-driving technology with SpaceX's rockets, data centres, satellites and telecommunications operations.
-The move could be a step towards Musk's mission to build a self-sustaining city on Mars - a vision that has invited sceptics but also plenty of backers.
-Over the past year, Musk has moved to consolidate his businesses, with SpaceX acquiring xAI and X, formerly Twitter, before going public this year.
-But the merger would ultimately be decided by shareholders, with half of Tesla's needed to back the deal, a threshold even Musk described as "quite a high hurdle".
-Musk, as boss of both companies, cannot participate in shareholder discussions.
-Even so, Musk, a key shareholder of Tesla, will likely get his way in the next few years, said investment analyst Dan Sheehan from Telos Wealth Advisors.
-He believes shareholders will back the deal as the technology the companies develop complement each other, Sheehan said.
-But the merger would mean that Tesla shareholders will likely hold a "smaller slice of a much larger and more complex business," he added.
-"There's no real precedent for how a public company like Tesla gets priced in this," Sheehan said.
-SpaceX shares rose 8% in after hours trading while shares of Tesla climbed by 2%.
-What would it mean for customers?
-Experts told the BBC that Tesla drivers are unlikely to see much drastic change in the near term, even if the two companies combine.
-In fact, vehicles seem almost like "an afterthought", overshadowed by the potential to combine the Tesla and SpaceX's tech capabilities, Nicholson said.
-Changes are already underway at Tesla. The carmaker said earlier this year that it would prioritise its best-selling Model Y and Model 3, shifting focus away from less popular models.
-Tesla also started using a manufacturing plant in California to produce humanoid robots, known as Optimus.
-Pairing Tesla's self-driving technology and robotics with SpaceX's AI and satellite network could result in more capable vehicles, Sheehan said.
-"The question is how much priority cars get inside a company increasingly driven by AI infrastructure," he added.
-The recent Roadster showcase suggests SpaceX technology could be pulled into future Tesla products, which could attract more customers, said Tu Le, the founder of advisory firm Sino Auto Insights.
-The Cybertruck-maker faces intense competition from Chinese carmakers like BYD, which overtook Tesla as the world's biggest EV maker in January.
-What does Musk get out of it?
-The biggest winner is probably Musk - the world's richest man who also became the world's first trillionaire earlier this year.
-The merger would give Musk greater voting control over the combined company than he currently has at Tesla, a factor the special committee assessing the deal would have to consider.
-A single company makes it easier for Musk to run his AI strategy the way he wants, Sheehan said.
-"The deal itself doesn't add to Musk's wealth, but it concentrates it further in one stock," he said.
-However, the merger could attract scrutiny over Musk, already a polarising figure in the US, Nicholson said.
-The move could also face more regulatory pressure if Democrats - many of whom have been critical of Musk - win more seats in the US midterm elections next month.
-Shareholders have backed Musk's desires before. Last year, Tesla investors approved an unprecedented compensation package for Musk valued around $1tn.
-"I honestly don't think Musk will be keeping track of what the merger will do for his wealth," Nicholson said.
-The deal also brings Musk closer to what Nicholson says is "his mission in life": colonising Mars.
-- Published6 days ago
-- Published12 June`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-21T06:36:39+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a691/live/0777e580-cd28-11f1-bc2e-018d645d8d21.png",
-    readTime: 10,
-  },
-  {
-    id: "australian-data-center-operator-nextdc-s-fce62826",
-    title: "Australian data center operator NextDC's shares plunge 40% after it slashes earnings forecast",
-    titleJa: "Australian data center operator NextDC's shares plunge 40% after it slashes earnings forecast",
-    summaryJa: "The company cited power supply delays at its Melbourne facility amid local community and stakeholder opposition for lowering earnings forecast.",
-    bodyOriginal: `Shares of Australia's NextDC plunged 39.5% on Wednesday after the data center operator slashed its annual earnings forecast, citing power supply delays at its Melbourne facility amid local community and stakeholder opposition.
-The company lowered its fiscal 2027 revenue guidance to between $475 million Australian dollars and A$500 million, from A$615 million to A$640 million forecast earlier, while cutting its underlying earnings before interest, taxes, depreciation and amortization, or EBITDA, forecast to A$245 million to A$265 million from A$385 million to A$410 million.
-The delays to power stem from the suspension of infrastructure upgrades at the company's M3 Melbourne data center amid community opposition, with electricity distributor Jemena not expecting to resume work before February 2027, according to NextDC.
-Jemena cited safety concerns and restricted access to work sites due to community opposition, as well as a lack of consent from the local council pending further community consultation.
-Citi said in a note that NextDC's power delays could affect earnings beyond fiscal 2027, citing delays to approvals for the M3 expansion and a longer-than-expected timeline for transformer upgrades.
-As Australia grapples with growing concerns over the impact of data center developments on local communities, Treasurer Jim Chalmers said the government was working to establish national standards for investment.
-Chalmers told CNBC's "Squawk Box Asia" on Wednesday that the government welcomes investment in data centers and AI infrastructure, provided it aligns with the country's national interest, adding that the government was finalizing national investment standards to address concerns surrounding AI deployment.
-Australia is not alone in facing opposition to data center projects, there has been growing push back against data center developments worldwide, amid concerns over their impact on local communities and the environment.
-NextDC shares have declined for seven straight weeks, and are on course to end lower for the eighth week.`,
-    bodyJa: `Shares of Australia's NextDC plunged 39.5% on Wednesday after the data center operator slashed its annual earnings forecast, citing power supply delays at its Melbourne facility amid local community and stakeholder opposition.
-The company lowered its fiscal 2027 revenue guidance to between $475 million Australian dollars and A$500 million, from A$615 million to A$640 million forecast earlier, while cutting its underlying earnings before interest, taxes, depreciation and amortization, or EBITDA, forecast to A$245 million to A$265 million from A$385 million to A$410 million.
-The delays to power stem from the suspension of infrastructure upgrades at the company's M3 Melbourne data center amid community opposition, with electricity distributor Jemena not expecting to resume work before February 2027, according to NextDC.
-Jemena cited safety concerns and restricted access to work sites due to community opposition, as well as a lack of consent from the local council pending further community consultation.
-Citi said in a note that NextDC's power delays could affect earnings beyond fiscal 2027, citing delays to approvals for the M3 expansion and a longer-than-expected timeline for transformer upgrades.
-As Australia grapples with growing concerns over the impact of data center developments on local communities, Treasurer Jim Chalmers said the government was working to establish national standards for investment.
-Chalmers told CNBC's "Squawk Box Asia" on Wednesday that the government welcomes investment in data centers and AI infrastructure, provided it aligns with the country's national interest, adding that the government was finalizing national investment standards to address concerns surrounding AI deployment.
-Australia is not alone in facing opposition to data center projects, there has been growing push back against data center developments worldwide, amid concerns over their impact on local communities and the environment.
-NextDC shares have declined for seven straight weeks, and are on course to end lower for the eighth week.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/21/australia-data-center-operator-nexdc-datacenter.html",
-    publishedAt: "2026-10-21T02:55:38+00:00",
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 5,
