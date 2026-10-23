@@ -15,6 +15,244 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "sk-hynix-shares-rebound-after-initial-dr-77a8fec7",
+    title: "SK Hynix shares rebound after initial drop on scrapped Solidigm IPO plans",
+    titleJa: "SK Hynix shares rebound after initial drop on scrapped Solidigm IPO plans",
+    summaryJa: "SK Hynix shares rebound after an inital drop in early trading, following halted review of Solidigm IPO plans in the U.S.",
+    bodyOriginal: `Shares of South Korean chipmaker SK Hynix rebounded on Friday after falling as much as 3% earlier in the session, following the company's decision to halt a review of a potential U.S. initial public offering for its subsidiary Solidigm.
+The stock reversed earlier losses to trade 3.2% higher.
+"Solidigm will halt its review of potential pre-IPO and IPO options," the company said in the statement after assessing recent capital market conditions and share price trends, while also exploring various funding options to finance a new U.S. semiconductor fabrication plant amid growing demand for AI memory.
+The chip manufacturer said an IPO could have helped fund Solidigm's expansion while providing greater financial flexibility for shareholder returns, including dividends, share buybacks and share cancellations.
+However, financial market volatility had increased and contributed to a broader correction in semiconductor stocks, prompting SK Hynix to reassess whether an IPO would benefit existing shareholders.
+The company also said that Solidigm's existing production facilities had limited capacity to meet rising AI-driven memory demand, underscoring the need for additional manufacturing capacity in the U.S.
+The decision also follows regulatory scrutiny in South Korea.
+The country's financial regulator said Monday that a potential U.S. listing of Solidigm could violate South Korean rules restricting dual listings, according to Reuters.
+Financial Supervisory Service Governor Lee Chan-jin said regulators were examining whether the IPO would require a review under the country's rules designed to protect minority shareholders.
+SK Hynix said Solidigm's investment needs remain unchanged and that it would continue exploring alternative financing options to support the subsidiary's growth and enhance shareholder value.
+The announcement comes as U.S. technology stocks face pressure amid worries over AI spending.The tech-heavy Nasdaq Composite slid 2.6% on Thursday, its worst session since June, while Nvidia fell 4.4% and Advanced Micro Devices dropped 8.1%.
+Amid a sell-off in memory stocks, Nvidia CEO Jensen Huang told CNBC Thursday that he does not expect an oversupply of memory chips by 2029, despite concerns over weakening demand.
+AI data center stocks have also come under pressure amid growing concerns over financing risks and the pace of AI infrastructure expansion. Shares of CoreWeave plunged 10% on Thursday, extending their monthly decline to 36%, while Australia's NextDC tumbled nearly 40% on Wednesday after cutting its earnings forecast.`,
+    bodyJa: `Shares of South Korean chipmaker SK Hynix rebounded on Friday after falling as much as 3% earlier in the session, following the company's decision to halt a review of a potential U.S. initial public offering for its subsidiary Solidigm.
+The stock reversed earlier losses to trade 3.2% higher.
+"Solidigm will halt its review of potential pre-IPO and IPO options," the company said in the statement after assessing recent capital market conditions and share price trends, while also exploring various funding options to finance a new U.S. semiconductor fabrication plant amid growing demand for AI memory.
+The chip manufacturer said an IPO could have helped fund Solidigm's expansion while providing greater financial flexibility for shareholder returns, including dividends, share buybacks and share cancellations.
+However, financial market volatility had increased and contributed to a broader correction in semiconductor stocks, prompting SK Hynix to reassess whether an IPO would benefit existing shareholders.
+The company also said that Solidigm's existing production facilities had limited capacity to meet rising AI-driven memory demand, underscoring the need for additional manufacturing capacity in the U.S.
+The decision also follows regulatory scrutiny in South Korea.
+The country's financial regulator said Monday that a potential U.S. listing of Solidigm could violate South Korean rules restricting dual listings, according to Reuters.
+Financial Supervisory Service Governor Lee Chan-jin said regulators were examining whether the IPO would require a review under the country's rules designed to protect minority shareholders.
+SK Hynix said Solidigm's investment needs remain unchanged and that it would continue exploring alternative financing options to support the subsidiary's growth and enhance shareholder value.
+The announcement comes as U.S. technology stocks face pressure amid worries over AI spending.The tech-heavy Nasdaq Composite slid 2.6% on Thursday, its worst session since June, while Nvidia fell 4.4% and Advanced Micro Devices dropped 8.1%.
+Amid a sell-off in memory stocks, Nvidia CEO Jensen Huang told CNBC Thursday that he does not expect an oversupply of memory chips by 2029, despite concerns over weakening demand.
+AI data center stocks have also come under pressure amid growing concerns over financing risks and the pace of AI infrastructure expansion. Shares of CoreWeave plunged 10% on Thursday, extending their monthly decline to 36%, while Australia's NextDC tumbled nearly 40% on Wednesday after cutting its earnings forecast.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/23/sk-hynix-solidigm-ipo-.html",
+    publishedAt: "2026-10-23T04:05:35+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "wealthy-chinese-move-offshore-money-to-u-8791fb2a",
+    title: "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
+    titleJa: "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
+    summaryJa: "Bankers and lawyers say Chinese clients' demand for U.S. bank accounts has gathered pace as Beijing tightens the screws on Chinese offshore wealth.",
+    bodyOriginal: `SINGAPORE — Wealthy Chinese rattled by Beijing's widening hunt for overseas wealth are turning to a once-familiar refuge for their money: the U.S.
+Private bankers and lawyers who work with Chinese clients say inquiries about opening U.S. bank accounts have grown in the months after Beijing imposed retroactive taxes on offshore wealth in July, moving assets previously stored in Singapore or Hong Kong there to stay further away from Beijing's reach.
+"It has become relatively prevalent," said Keith Tan, CEO of Singapore-based Golden Acacia Capital, who is helping Chinese clients manage their offshore portfolios. His clients began planning exits to the U.S. in July, and some have the accounts set up in less than two months. "The hurdle is not that high for Chinese clients to open American accounts and transfer assets there."
+Wealthy clients tend to choose large private banks while smaller accounts go to regional banks or online brokers, Tan said.
+The rush has gained urgency with China's new tax regime on offshore trusts. Authorities said in July that income and gains from overseas trusts owned by Chinese tax residents would be taxed at 20%, setting off a scramble for cash and alternative structures.
+Lawyers in Singapore and Hong Kong have been working to tally how much tax their clients owe, facilitating trusts' unwinding, sales of shares in listed companies or applying for loans to meet the outsized tax bill.
+Meanwhile, the U.S. sits outside the Common Reporting Standard, or CRS, the OECD framework under which more than 100 jurisdictions automatically share financial account data. While banks in Singapore and Hong Kong are supposed to report China-linked accounts to Beijing, American banks have no such obligation.
+Non-resident clients who open foreign bank accounts in the U.S. can also find investment vehicles with reduced or no tax-filing obligations to the Internal Revenue Service, said James Wang, CEO of Blue Brick Consulting Group, a private-client tax advisor. But China's latest regulations require people classified as Chinese tax residents to self-declare worldwide income to Beijing, Wang said.
+Banks in New York are seizing the opportunity to offer a solution that could shield Chinese customers from their country's tax man. U.S. banks are straining to keep up with the rise in demand, according to a New York-based wealth-planning advisor who works with Chinese family offices.
+"With inquiries surging, some banks have shortened the timeframe for clients to meet required minimum capital commitments" before the accounts are subject to closure, said the advisor, who requested anonymity to speak about bank processes.
+Chinese families with offspring holding U.S. green cards have also used foreign grantor trusts – structures treated as owned by their non-American founder – to shield them from some tax exposure in the U.S., Tan said. Low-tax states such as Nevada and Florida have become popular choices, he added.
+"They are gambling on not being disclosed, because the U.S. does not share information as part of the CRS system; they can dodge tax authorities," said Clifford Ng, a partner at Zhong Lun law firm in Hong Kong. Ng also expects that some with Hong Kong or Singapore residency whose trusts have not yet been flagged to Beijing may unwind those structures and transfer the money out.
+'Hiding is not tax planning'
+Lawyers caution that though the route works for now to avoid disclosure, it may be temporary. Money held offshore has probably already been reported to Beijing through the CRS and would "have shown up in China at some point," Ng said, so a transfer from a Singapore or Hong Kong bank to a U.S. one would be visible on its way out.
+"They may still be in breach of the rules because they have an undisclosed offshore account that's making money and they're not declaring it onshore," Ng said. "Hiding is not tax planning."
+Washington's Foreign Account Tax Compliance Act requires foreign banks to report American clients, but so far there's no matching automatic flow from U.S. banks to Beijing.
+Cris Cao, Beijing-based partner at W&H Law Firm, agreed on the risk of Beijing's ability to tax money moved to the U.S. "Even if they move all the money out of the CRS-reported accounts and into U.S. bank accounts, that doesn't naturally reduce or wipe out the tax authorities' right to tax, or their obligation to pay," he said.
+"There was a record of it being transferred out," Cao said, and "that alone is enough for the tax authorities to levy tax."
+What's more, the window of opportunity may have closed. Moving money that is already offshore around is relatively easy, but getting capital out of mainland China has become increasingly difficult.
+"Nearly no sizeable money onshore will be able to leave the country from now on," said Jingkuan Lin, a private banker at Bank of Singapore, who sees the offshore banking industry being further limited to serving the existing pool of capital outside China.`,
+    bodyJa: `SINGAPORE — Wealthy Chinese rattled by Beijing's widening hunt for overseas wealth are turning to a once-familiar refuge for their money: the U.S.
+Private bankers and lawyers who work with Chinese clients say inquiries about opening U.S. bank accounts have grown in the months after Beijing imposed retroactive taxes on offshore wealth in July, moving assets previously stored in Singapore or Hong Kong there to stay further away from Beijing's reach.
+"It has become relatively prevalent," said Keith Tan, CEO of Singapore-based Golden Acacia Capital, who is helping Chinese clients manage their offshore portfolios. His clients began planning exits to the U.S. in July, and some have the accounts set up in less than two months. "The hurdle is not that high for Chinese clients to open American accounts and transfer assets there."
+Wealthy clients tend to choose large private banks while smaller accounts go to regional banks or online brokers, Tan said.
+The rush has gained urgency with China's new tax regime on offshore trusts. Authorities said in July that income and gains from overseas trusts owned by Chinese tax residents would be taxed at 20%, setting off a scramble for cash and alternative structures.
+Lawyers in Singapore and Hong Kong have been working to tally how much tax their clients owe, facilitating trusts' unwinding, sales of shares in listed companies or applying for loans to meet the outsized tax bill.
+Meanwhile, the U.S. sits outside the Common Reporting Standard, or CRS, the OECD framework under which more than 100 jurisdictions automatically share financial account data. While banks in Singapore and Hong Kong are supposed to report China-linked accounts to Beijing, American banks have no such obligation.
+Non-resident clients who open foreign bank accounts in the U.S. can also find investment vehicles with reduced or no tax-filing obligations to the Internal Revenue Service, said James Wang, CEO of Blue Brick Consulting Group, a private-client tax advisor. But China's latest regulations require people classified as Chinese tax residents to self-declare worldwide income to Beijing, Wang said.
+Banks in New York are seizing the opportunity to offer a solution that could shield Chinese customers from their country's tax man. U.S. banks are straining to keep up with the rise in demand, according to a New York-based wealth-planning advisor who works with Chinese family offices.
+"With inquiries surging, some banks have shortened the timeframe for clients to meet required minimum capital commitments" before the accounts are subject to closure, said the advisor, who requested anonymity to speak about bank processes.
+Chinese families with offspring holding U.S. green cards have also used foreign grantor trusts – structures treated as owned by their non-American founder – to shield them from some tax exposure in the U.S., Tan said. Low-tax states such as Nevada and Florida have become popular choices, he added.
+"They are gambling on not being disclosed, because the U.S. does not share information as part of the CRS system; they can dodge tax authorities," said Clifford Ng, a partner at Zhong Lun law firm in Hong Kong. Ng also expects that some with Hong Kong or Singapore residency whose trusts have not yet been flagged to Beijing may unwind those structures and transfer the money out.
+'Hiding is not tax planning'
+Lawyers caution that though the route works for now to avoid disclosure, it may be temporary. Money held offshore has probably already been reported to Beijing through the CRS and would "have shown up in China at some point," Ng said, so a transfer from a Singapore or Hong Kong bank to a U.S. one would be visible on its way out.
+"They may still be in breach of the rules because they have an undisclosed offshore account that's making money and they're not declaring it onshore," Ng said. "Hiding is not tax planning."
+Washington's Foreign Account Tax Compliance Act requires foreign banks to report American clients, but so far there's no matching automatic flow from U.S. banks to Beijing.
+Cris Cao, Beijing-based partner at W&H Law Firm, agreed on the risk of Beijing's ability to tax money moved to the U.S. "Even if they move all the money out of the CRS-reported accounts and into U.S. bank accounts, that doesn't naturally reduce or wipe out the tax authorities' right to tax, or their obligation to pay," he said.
+"There was a record of it being transferred out," Cao said, and "that alone is enough for the tax authorities to levy tax."
+What's more, the window of opportunity may have closed. Moving money that is already offshore around is relatively easy, but getting capital out of mainland China has become increasingly difficult.
+"Nearly no sizeable money onshore will be able to leave the country from now on," said Jingkuan Lin, a private banker at Bank of Singapore, who sees the offshore banking industry being further limited to serving the existing pool of capital outside China.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html",
+    publishedAt: "2026-10-23T01:23:12+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "spacex-records-561-million-investment-ga-829d2356",
+    title: "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
+    titleJa: "SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.",
+    summaryJa: "SpaceX said on Thursday that its stake in Elon Musk's The Boring Co. netted the company an investment gain of $561 million during the third quarter.The gain accounted for more than half of SpaceX's \"other income\" in the period and boosted its net income, which landed at just over $4 billion, the company said in its quarterly financial filing with the Securities and Exchange Commission.",
+    bodyOriginal: `SpaceX said on Thursday that its stake in Elon Musk's The Boring Co. netted the company an investment gain of $561 million during the third quarter.
+The gain accounted for more than half of SpaceX's "other income" in the period and boosted its net income, which landed at just over $4 billion, the company said in its quarterly financial filing with the Securities and Exchange Commission.
+Created inside SpaceX in 2017 and spun out a year later, Boring Co. says its mission is to "revolutionize transportation" by creating underground tunnels with stations where passengers can board and exit. Last month, Boring Co. raised $3 billion at a $23 billion valuation, with backing from the United Arab Emirates and a roster of other longtime Musk supporters.
+Boring Co. has announced about a dozen city projects, but its only tunnels currently open for public use are in Las Vegas, where passengers can travel in Tesla vehicles between the downtown convention center and various casino resorts using its Las Vegas Convention Center Loop.
+In July of last year, Boring Co. struck a deal to build about 20 miles of tunnels in Nashville, Tennessee. The Music City Loop, as it's known, is being designed to carry paying passengers between downtown and the airport in Tesla vehicles. The fast-tracked project sparked a partisan feud when it was greenlit and has drawn new safety concerns over sinkhole risks this week.
+In the UAE, Boring Co. plans to build over 150 kilometers (93 miles) of tunnels, including a project announced in February of last year, the Dubai Loop.
+SpaceX also said in Thursday's filing that it purchased $151 million worth of Tesla's Megapack energy storage systems during the quarter. Musk said on SpaceX's earnings call on Tuesday that he thinks it would be a "good idea" for the two companies to merge, and said they've both created special committees to discuss a potential transaction.
+WATCH: Analyst sees boost to SpaceX shares in long run if Tesla merger happens`,
+    bodyJa: `SpaceX said on Thursday that its stake in Elon Musk's The Boring Co. netted the company an investment gain of $561 million during the third quarter.
+The gain accounted for more than half of SpaceX's "other income" in the period and boosted its net income, which landed at just over $4 billion, the company said in its quarterly financial filing with the Securities and Exchange Commission.
+Created inside SpaceX in 2017 and spun out a year later, Boring Co. says its mission is to "revolutionize transportation" by creating underground tunnels with stations where passengers can board and exit. Last month, Boring Co. raised $3 billion at a $23 billion valuation, with backing from the United Arab Emirates and a roster of other longtime Musk supporters.
+Boring Co. has announced about a dozen city projects, but its only tunnels currently open for public use are in Las Vegas, where passengers can travel in Tesla vehicles between the downtown convention center and various casino resorts using its Las Vegas Convention Center Loop.
+In July of last year, Boring Co. struck a deal to build about 20 miles of tunnels in Nashville, Tennessee. The Music City Loop, as it's known, is being designed to carry paying passengers between downtown and the airport in Tesla vehicles. The fast-tracked project sparked a partisan feud when it was greenlit and has drawn new safety concerns over sinkhole risks this week.
+In the UAE, Boring Co. plans to build over 150 kilometers (93 miles) of tunnels, including a project announced in February of last year, the Dubai Loop.
+SpaceX also said in Thursday's filing that it purchased $151 million worth of Tesla's Megapack energy storage systems during the quarter. Musk said on SpaceX's earnings call on Tuesday that he thinks it would be a "good idea" for the two companies to merge, and said they've both created special committees to discuss a potential transaction.
+WATCH: Analyst sees boost to SpaceX shares in long run if Tesla merger happens`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html",
+    publishedAt: "2026-10-23T00:46:09+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "my-partner-of-17-years-left-me-his-1-mil-acca692a",
+    title: "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
+    titleJa: "My partner of 17 years left me his $1 million home. His children are crying foul. Am I obliged to split it with them?",
+    summaryJa: "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
+    bodyOriginal: `“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”`,
+    bodyJa: `“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
+    publishedAt: "2026-10-22T23:15:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-96138879",
+    readTime: 2,
+  },
+  {
+    id: "grid-operator-says-lights-will-stay-on-t-18870235",
+    title: "Grid operator says lights will stay on this winter after concerns",
+    titleJa: "Grid operator says lights will stay on this winter after concerns",
+    summaryJa: "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+    bodyOriginal: `Grid operator says lights will stay on this winter after concerns
+- Published
+The body in charge of Britain's electricity network has given assurances that the lights will stay on this winter after concerns were raised by some of its engineers.
+The National Energy System Operator (NESO) said the country's electricity system was prepared and "resilient to the challenges it may face" during the colder months.
+However, its winter outlook report comes after an independent investigation found engineers had "high levels of stress and concern" about their ability to ensure adequate supply due to differences between renewable and gas-fired power generation.
+NESO said supplies were expected to remain secure throughout the winter, though warned there could be "tight days".
+It added that such days would result in it deploying notices to power producers that additional electricity generation may be needed. It said such an announcement was not a warning of power cuts and was routine.
+"While we never take resilience for granted, households and businesses can be confident that Great Britain's electricity system remains secure, reliable and among the most resilient in the world," said Deborah Petterson, director of whole energy system resilience at NESO.
+In a separate report, National Gas, a private company that owns and runs the country's gas network, and is separate from NESO, said it expected to have sufficient supply to meet demand this winter, but forecast gas for power generation to increase at peak demand due to the "intermittent" nature of renewables.
+Supply under scrutiny
+The release of the two reports comes as Britain's energy generation and security falls under increasing scrutiny, given the wars in the Middle East and eastern Europe have pushed prices up and sparked supply fears.
+The country's electricity is generated from a wide range of sources, including renewables such as solar and wind, as well as more traditional gas-fired and nuclear power stations.
+Wind power was the largest generator of electricity in Britain last year, accounting for almost 30% of all power, marginally above gas.
+However, there appear to be challenges in the transition to renewables in ensuring supply keeps up with demand, according to findings from an investigation into practices at NESO, which was commissioned following allegations over operational decision making and record keeping at the grid operator.
+'High levels of stress'
+Law firm Eversheds Sutherland, which carried out the independent investigation, said there were "high levels of stress and concern" within NESO's Electricity National Control Centre over the "current state of the energy industry generally" and the longer-term ability to keep it balanced.
+It said this was, according to evidence gathered from staff, due to the fact that traditional methods of electricity generation such as gas were "easier to manage", compared to renewables, which were "less flexible", and were making the job of ensuring supply meets demand "more difficult".
+The probe also found there to be a "significant disconnect" between those working in the control room and NESO's leadership.
+Multiple witnesses expressed the view that those in senior leadership and executive positions "do not fully appreciate or understand either the way in which the control room works, or the reality of the pressures faced by those on the frontline who are responsible for 'keeping the lights on'", Eversheds' report said.
+The investigation was prompted after Conservative shadow energy secretary Clare Coutinho said in July she had been contacted by a whistle-blower alleging that NESO had been "hiding information about how securely our grid is being run".
+One of the claims was that control room staff were encouraged to conceal or alter records to avoid leaving a paper trail linked to efforts to stabilise the grid during a period of extreme heat in June.
+This was done in order for NESO, which is owned by the government, to avoid public scrutiny or reputational damage, according to the allegation.
+Eversheds said its investigation did not substantiate any of the allegations from whistle-blowers but did identify "cultural, governance and control issues" that it said were "significant findings in their own right".
+Fintan Slye, chief executive of NESO, said the investigation identified "areas where we could improve how colleagues can raise concerns and how we respond to them".
+"I want all colleagues at NESO to feel heard. We will act on the recommendations, working closely with our trade unions, and be open with colleagues about the progress we make," he added.`,
+    bodyJa: `Grid operator says lights will stay on this winter after concerns
+- Published
+The body in charge of Britain's electricity network has given assurances that the lights will stay on this winter after concerns were raised by some of its engineers.
+The National Energy System Operator (NESO) said the country's electricity system was prepared and "resilient to the challenges it may face" during the colder months.
+However, its winter outlook report comes after an independent investigation found engineers had "high levels of stress and concern" about their ability to ensure adequate supply due to differences between renewable and gas-fired power generation.
+NESO said supplies were expected to remain secure throughout the winter, though warned there could be "tight days".
+It added that such days would result in it deploying notices to power producers that additional electricity generation may be needed. It said such an announcement was not a warning of power cuts and was routine.
+"While we never take resilience for granted, households and businesses can be confident that Great Britain's electricity system remains secure, reliable and among the most resilient in the world," said Deborah Petterson, director of whole energy system resilience at NESO.
+In a separate report, National Gas, a private company that owns and runs the country's gas network, and is separate from NESO, said it expected to have sufficient supply to meet demand this winter, but forecast gas for power generation to increase at peak demand due to the "intermittent" nature of renewables.
+Supply under scrutiny
+The release of the two reports comes as Britain's energy generation and security falls under increasing scrutiny, given the wars in the Middle East and eastern Europe have pushed prices up and sparked supply fears.
+The country's electricity is generated from a wide range of sources, including renewables such as solar and wind, as well as more traditional gas-fired and nuclear power stations.
+Wind power was the largest generator of electricity in Britain last year, accounting for almost 30% of all power, marginally above gas.
+However, there appear to be challenges in the transition to renewables in ensuring supply keeps up with demand, according to findings from an investigation into practices at NESO, which was commissioned following allegations over operational decision making and record keeping at the grid operator.
+'High levels of stress'
+Law firm Eversheds Sutherland, which carried out the independent investigation, said there were "high levels of stress and concern" within NESO's Electricity National Control Centre over the "current state of the energy industry generally" and the longer-term ability to keep it balanced.
+It said this was, according to evidence gathered from staff, due to the fact that traditional methods of electricity generation such as gas were "easier to manage", compared to renewables, which were "less flexible", and were making the job of ensuring supply meets demand "more difficult".
+The probe also found there to be a "significant disconnect" between those working in the control room and NESO's leadership.
+Multiple witnesses expressed the view that those in senior leadership and executive positions "do not fully appreciate or understand either the way in which the control room works, or the reality of the pressures faced by those on the frontline who are responsible for 'keeping the lights on'", Eversheds' report said.
+The investigation was prompted after Conservative shadow energy secretary Clare Coutinho said in July she had been contacted by a whistle-blower alleging that NESO had been "hiding information about how securely our grid is being run".
+One of the claims was that control room staff were encouraged to conceal or alter records to avoid leaving a paper trail linked to efforts to stabilise the grid during a period of extreme heat in June.
+This was done in order for NESO, which is owned by the government, to avoid public scrutiny or reputational damage, according to the allegation.
+Eversheds said its investigation did not substantiate any of the allegations from whistle-blowers but did identify "cultural, governance and control issues" that it said were "significant findings in their own right".
+Fintan Slye, chief executive of NESO, said the investigation identified "areas where we could improve how colleagues can raise concerns and how we respond to them".
+"I want all colleagues at NESO to feel heard. We will act on the recommendations, working closely with our trade unions, and be open with colleagues about the progress we make," he added.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-22T23:04:38+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ec/live/bd0928a0-ce22-11f1-9f18-490cec60aa0f.jpg",
+    readTime: 10,
+  },
+  {
+    id: "l-oreal-says-weight-loss-drugs-are-impac-8ed74f2c",
+    title: "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+    titleJa: "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+    summaryJa: "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
+    bodyOriginal: `L'Oreal says weight loss drugs are impacting beauty and skin care sales
+- Published
+Beauty giant L'Oreal says the rise of weight loss drugs has affected beauty and skin care sales, as it designs products to specifically target some side effects of rapid weight loss.
+The company's head Nicolas Hieronimus said the beauty market was proving resilient in a challenging global context, and that the use of GLP-1s was "a very important phenomenon for us".
+He told an investor call that the rise in their use was "having an impact on beauty consumption and skin care consumption in particular".
+L'Oreal, which owns other popular brands including Maybelline and La Roche-Posay, announced on Thursday that sales in the three months to September rose by 7.7%, above analyst expectations.
+The use of GLP-1s has boomed in popularity in recent years, after drugs developed to treat diabetes such as Ozempic, Wegovy and Mounjaro were found to also lead to significant weight loss because they supress the appetite.
+While it is not caused by GLP-1 drugs directly, rapid weight loss can, for some people, come with a side effect of loose skin - including around the face.
+Hieronimus said L'Oreal's brands SkinCeuticals and Kiehl's have products "that have been designed to work alongside and complement GLP-1 and its side effects on skin sagging" and other effects related to rapid weight loss.
+L'Oreal has also moved further into the clinical aesthetic space, increasing its stake in dermatology firm Galderma to 20% last December.
+Both companies have been testing products on GLP-1 users worried about loose skin in separate clinical trials, according to Reuters.
+Galderma owns popular aesthetic products including Sculptra, an injectable aimed at stimulating collagen production, and Restylane, which is an injectable dermal filler.
+Last year the aesthetic firm released a report into the rise of GLP-1 use and related concerns about changes in facial appearance.
+Its own survey of weight loss medication users found the vast majority had noticed changes to their facial appearance after using those drugs.
+Related topics
+- Published16 May`,
+    bodyJa: `L'Oreal says weight loss drugs are impacting beauty and skin care sales
+- Published
+Beauty giant L'Oreal says the rise of weight loss drugs has affected beauty and skin care sales, as it designs products to specifically target some side effects of rapid weight loss.
+The company's head Nicolas Hieronimus said the beauty market was proving resilient in a challenging global context, and that the use of GLP-1s was "a very important phenomenon for us".
+He told an investor call that the rise in their use was "having an impact on beauty consumption and skin care consumption in particular".
+L'Oreal, which owns other popular brands including Maybelline and La Roche-Posay, announced on Thursday that sales in the three months to September rose by 7.7%, above analyst expectations.
+The use of GLP-1s has boomed in popularity in recent years, after drugs developed to treat diabetes such as Ozempic, Wegovy and Mounjaro were found to also lead to significant weight loss because they supress the appetite.
+While it is not caused by GLP-1 drugs directly, rapid weight loss can, for some people, come with a side effect of loose skin - including around the face.
+Hieronimus said L'Oreal's brands SkinCeuticals and Kiehl's have products "that have been designed to work alongside and complement GLP-1 and its side effects on skin sagging" and other effects related to rapid weight loss.
+L'Oreal has also moved further into the clinical aesthetic space, increasing its stake in dermatology firm Galderma to 20% last December.
+Both companies have been testing products on GLP-1 users worried about loose skin in separate clinical trials, according to Reuters.
+Galderma owns popular aesthetic products including Sculptra, an injectable aimed at stimulating collagen production, and Restylane, which is an injectable dermal filler.
+Last year the aesthetic firm released a report into the rise of GLP-1 use and related concerns about changes in facial appearance.
+Its own survey of weight loss medication users found the vast majority had noticed changes to their facial appearance after using those drugs.
+Related topics
+- Published16 May`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-22T22:27:53+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04f7/live/62d395b0-ce5d-11f1-a64c-550be9e3c66b.jpg",
+    readTime: 5,
+  },
+  {
     id: "americans-are-having-fewer-babies-and-pa-36450148",
     title: "Americans are having fewer babies — and pampering them with luxury diapers",
     titleJa: "Americans are having fewer babies — and pampering them with luxury diapers",
@@ -27,6 +265,46 @@ export const articles: Article[] = [
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-12925124",
     readTime: 2,
+  },
+  {
+    id: "trump-asked-musk-to-lift-starlink-slowdo-cc1e06a3",
+    title: "Trump asked Musk to lift Starlink slowdown, WSJ reports",
+    titleJa: "Trump asked Musk to lift Starlink slowdown, WSJ reports",
+    summaryJa: "Elon Musk, a critic of Ukrainian President Volodymyr Zelenskyy, had ordered the slowdown of SpaceX's Starlink, The Wall Street Journal previously reported.",
+    bodyOriginal: `President Donald Trump asked Elon Musk to ease restrictions he had imposed on the military-grade version of SpaceX's Starlink system in Ukraine, The Wall Street Journal reported Thursday, citing U.S. officials.
+The Starshield system, which Ukraine depends on in its war against Russia, was "working more normally Thursday, shortly after" Trump spoke to Musk by phone, U.S. and Ukrainian officials told the Journal.
+Trump said later Thursday he did not "want to comment one way or the other" about whether he made the call to Musk.
+"Whether I called or whether somebody else called, doesn't make any difference," Trump told reporters outside the White House as he departed for a campaign rally in Iowa.
+"The bottom line, he put it back," Trump said of Musk.
+The Journal reported Tuesday that Musk, the founder and CEO of SpaceX and a critic of Ukrainian President Volodymyr Zelenskyy, had ordered the Starlink slowdown.
+Two unnamed sources in that report said Trump and Musk had discussed the decision to throttle Starlink "soon after" the change first became public last week, while one source said Musk had spoken to Trump prior to imposing the speed cap.
+Trump has repeatedly denied involvement in the decision and said he does not know if Musk was behind it.
+"I don't know who did it, but I was not involved," Trump said Wednesday.
+The Starlink controversy, which drew bipartisan concern and criticism from lawmakers, emerged as Trump has ramped up criticism of Zelenskyy for continuing to target Russian energy infrastructure. At the same time, Trump has pursued a deal to ease sanctions on Russia so it can supply some diesel on the global market.
+Sen. John Cornyn, R-Texas, told CNBC's "Squawk Box" on Wednesday that he does not believe Musk would throttle Starlink without "at least the acquiescence of the White House."
+Sen. Richard Blumenthal, D-Conn., the ranking member of the Senate homeland security committee's investigations subcommittee, on Thursday launched an inquiry into how SpaceX's satellite tech was "degraded for Ukraine without notice."
+"This decision to limit critical technology for a key ally not only put Ukrainian forces at risk and their people in peril, but raises serious questions about who controls critical capabilities the U.S. government has spent billions of dollars to procure," Blumenthal said in letters to Musk and Defense Secretary Pete Hegseth.
+The White House and an email associated with Musk did not immediately respond to CNBC's requests for comment on Thursday's report that Trump had asked Musk to lift the restrictions.`,
+    bodyJa: `President Donald Trump asked Elon Musk to ease restrictions he had imposed on the military-grade version of SpaceX's Starlink system in Ukraine, The Wall Street Journal reported Thursday, citing U.S. officials.
+The Starshield system, which Ukraine depends on in its war against Russia, was "working more normally Thursday, shortly after" Trump spoke to Musk by phone, U.S. and Ukrainian officials told the Journal.
+Trump said later Thursday he did not "want to comment one way or the other" about whether he made the call to Musk.
+"Whether I called or whether somebody else called, doesn't make any difference," Trump told reporters outside the White House as he departed for a campaign rally in Iowa.
+"The bottom line, he put it back," Trump said of Musk.
+The Journal reported Tuesday that Musk, the founder and CEO of SpaceX and a critic of Ukrainian President Volodymyr Zelenskyy, had ordered the Starlink slowdown.
+Two unnamed sources in that report said Trump and Musk had discussed the decision to throttle Starlink "soon after" the change first became public last week, while one source said Musk had spoken to Trump prior to imposing the speed cap.
+Trump has repeatedly denied involvement in the decision and said he does not know if Musk was behind it.
+"I don't know who did it, but I was not involved," Trump said Wednesday.
+The Starlink controversy, which drew bipartisan concern and criticism from lawmakers, emerged as Trump has ramped up criticism of Zelenskyy for continuing to target Russian energy infrastructure. At the same time, Trump has pursued a deal to ease sanctions on Russia so it can supply some diesel on the global market.
+Sen. John Cornyn, R-Texas, told CNBC's "Squawk Box" on Wednesday that he does not believe Musk would throttle Starlink without "at least the acquiescence of the White House."
+Sen. Richard Blumenthal, D-Conn., the ranking member of the Senate homeland security committee's investigations subcommittee, on Thursday launched an inquiry into how SpaceX's satellite tech was "degraded for Ukraine without notice."
+"This decision to limit critical technology for a key ally not only put Ukrainian forces at risk and their people in peril, but raises serious questions about who controls critical capabilities the U.S. government has spent billions of dollars to procure," Blumenthal said in letters to Musk and Defense Secretary Pete Hegseth.
+The White House and an email associated with Musk did not immediately respond to CNBC's requests for comment on Thursday's report that Trump had asked Musk to lift the restrictions.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html",
+    publishedAt: "2026-10-22T21:02:07+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 6,
   },
   {
     id: "meta-s-deal-to-keep-zuckerberg-in-califo-568ac15c",
@@ -167,6 +445,50 @@ Former Ohio Sen. Rob Portman, a Republican, told Politico on Thursday that the a
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 10,
+  },
+  {
+    id: "10-year-treasury-yield-tumbles-below-5-t-1b5cf1ac",
+    title: "10-year Treasury yield tumbles below 5% to lowest level in nearly a month",
+    titleJa: "10-year Treasury yield tumbles below 5% to lowest level in nearly a month",
+    summaryJa: "Treasury yields dove dramatically lower on Thursday as investors monitored a slump in stocks and surging oil prices.",
+    bodyOriginal: `Treasury yields fell sharply on Thursday, with investors turning to safe havens amid a steep sell-off in stocks driven by concerns around the artificial intelligence trade and surging oil prices.
+The benchmark 10-year U.S. Treasury yield — used to price mortgages, auto loans and credit card debt — slid more than 17 basis points to 4.972%, the first time below 5% since Sept. 23. The yield saw its biggest one-day decline since March 10, 2023.
+The yield on the 2-year Treasury note, which closely tracks short-term Federal Reserve rate policy, tumbled more than 16 basis points to 4.659%. The yield on longer-dated 30-year U.S. Treasury — most sensitive to geopolitical developments — was more than 14 basis points lower at 5.296%.
+One basis point equals 0.01%, or 1/100th of 1%, and yields and prices move inversely to one another.
+"It is a flight to safety," said Mitch Goldberg, president of ClientFirst Strategy. "People are all of a sudden terrified of the amount of bond issuance by AI-related companies. They see the rates going up and people want to hold on to something that they think will be there at maturity."
+Others on Wall Street also sought to explain the turnaround in bond prices.
+"For the first time in a while, Treasurys are enjoying haven status," said Larry Holzenthaler, senior portfolio manager for fixed income at Catalyst Funds. "You have weakness in tech, an escalation of risk in the Middle East and higher oil. On a relative basis Treasurys start to look like the safe place to hide again in the short term."
+The reversal in bonds this week emerged as questions persisted about the billions being spent to build artificial intelligence networks.
+Nvidia CEO Jensen Huang told CNBC Thursday that while demand for neoclouds is "off the charts," capital was scarce. Neoclouds are a specialized cloud computing providers that focus on high-performance tech infrastructure designed specifically for artificial intelligence.
+This week's rebound in Treasury prices marks a turnaround from earlier this month, when 10- and 30-year yields reached their highest levels in more than two decades amid investor concern over inflation and high energy prices.
+Above 5%, however, attitudes began to shift and yields suddenly starting looking like an attractive entry point, compensating even for the risk of inflation above 3%.
+Tensions in the Middle East added to risk-off behavior Thursday. Oil prices moved sharply higher, with West Texas Intermediate futures closing up 2.39% at $99.47 per barrel. Brent crude futures, the global price benchmark, jumped 4%, rising to $113.17 a barrel.
+Higher energy prices followed a New York Times report, citing unnamed U.S. officials, that the U.S. and Israel are considering resuming strikes on Iran in a "short but intensive" operation following the Nov. 3 midterm elections.
+"You always look for one risk point, and there isn't really just one at the moment, which makes it a little bit more challenging," said Gregory Faranello, head of U.S. macro strategy at South Street Securities. "But if I had to take one of those and say what's most important right now, it has to be what's going on geopolitically."
+"The consumer is clearly getting pinched here in the U.S., so it becomes tricky for central bankers" setting monetary policy going forward, he said. If energy prices "stay elevated, it could force the Fed's hand to do even more, which certainly wouldn't be wouldn't be a good thing for the bond market."
+— CNBC's Michelle Fox contributed reporting.`,
+    bodyJa: `Treasury yields fell sharply on Thursday, with investors turning to safe havens amid a steep sell-off in stocks driven by concerns around the artificial intelligence trade and surging oil prices.
+The benchmark 10-year U.S. Treasury yield — used to price mortgages, auto loans and credit card debt — slid more than 17 basis points to 4.972%, the first time below 5% since Sept. 23. The yield saw its biggest one-day decline since March 10, 2023.
+The yield on the 2-year Treasury note, which closely tracks short-term Federal Reserve rate policy, tumbled more than 16 basis points to 4.659%. The yield on longer-dated 30-year U.S. Treasury — most sensitive to geopolitical developments — was more than 14 basis points lower at 5.296%.
+One basis point equals 0.01%, or 1/100th of 1%, and yields and prices move inversely to one another.
+"It is a flight to safety," said Mitch Goldberg, president of ClientFirst Strategy. "People are all of a sudden terrified of the amount of bond issuance by AI-related companies. They see the rates going up and people want to hold on to something that they think will be there at maturity."
+Others on Wall Street also sought to explain the turnaround in bond prices.
+"For the first time in a while, Treasurys are enjoying haven status," said Larry Holzenthaler, senior portfolio manager for fixed income at Catalyst Funds. "You have weakness in tech, an escalation of risk in the Middle East and higher oil. On a relative basis Treasurys start to look like the safe place to hide again in the short term."
+The reversal in bonds this week emerged as questions persisted about the billions being spent to build artificial intelligence networks.
+Nvidia CEO Jensen Huang told CNBC Thursday that while demand for neoclouds is "off the charts," capital was scarce. Neoclouds are a specialized cloud computing providers that focus on high-performance tech infrastructure designed specifically for artificial intelligence.
+This week's rebound in Treasury prices marks a turnaround from earlier this month, when 10- and 30-year yields reached their highest levels in more than two decades amid investor concern over inflation and high energy prices.
+Above 5%, however, attitudes began to shift and yields suddenly starting looking like an attractive entry point, compensating even for the risk of inflation above 3%.
+Tensions in the Middle East added to risk-off behavior Thursday. Oil prices moved sharply higher, with West Texas Intermediate futures closing up 2.39% at $99.47 per barrel. Brent crude futures, the global price benchmark, jumped 4%, rising to $113.17 a barrel.
+Higher energy prices followed a New York Times report, citing unnamed U.S. officials, that the U.S. and Israel are considering resuming strikes on Iran in a "short but intensive" operation following the Nov. 3 midterm elections.
+"You always look for one risk point, and there isn't really just one at the moment, which makes it a little bit more challenging," said Gregory Faranello, head of U.S. macro strategy at South Street Securities. "But if I had to take one of those and say what's most important right now, it has to be what's going on geopolitically."
+"The consumer is clearly getting pinched here in the U.S., so it becomes tricky for central bankers" setting monetary policy going forward, he said. If energy prices "stay elevated, it could force the Fed's hand to do even more, which certainly wouldn't be wouldn't be a good thing for the bond market."
+— CNBC's Michelle Fox contributed reporting.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/22/treasurys-bonds-ai-yields.html",
+    publishedAt: "2026-10-22T20:05:13+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 9,
   },
   {
     id: "elon-musk-invests-about-1-billion-in-sky-d4190cb1",
@@ -1719,500 +2041,6 @@ Related topics
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-03800189",
     readTime: 2,
-  },
-  {
-    id: "trump-denies-ordering-starlink-slowdown-3eb7d4ad",
-    title: "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
-    titleJa: "Trump denies ordering Starlink slowdown in Ukraine, says he doesn't know who did",
-    summaryJa: "Asked if Elon Musk ordered the slowdown, Trump said, \"I don't know who did it, but I was not involved.\"",
-    bodyOriginal: `President Donald Trump on Wednesday insisted that he had nothing to do with a slowdown of SpaceX's Starlink in Ukraine, and does not know if Elon Musk was responsible for speed-capping the critical satellite service.
-Trump's latest denial came one day after The Wall Street Journal, citing unnamed U.S. officials and people familiar with the matter, reported that Musk ordered the slowdown and discussed it with Trump.
-"I wasn't involved," Trump told a reporter when asked about the decision as he departed the White House for a campaign rally in South Carolina.
-When pressed to answer if Musk, SpaceX's founder and CEO, ordered the slowdown, Trump said, "I don't know who did it, but I was not involved."
-The recent disruption of Starshield, the military-grade version of Starlink, rendered some Ukrainian drones effectively useless, weakening defenses against Russian attacks.
-Ukrainian President Volodymyr Zelenskyy on Monday said his military still faces "speed restrictions on Starlink and Starshield services in different parts of the front."
-"No explanation for either of these issues has been provided to Ukraine by the American side," he said.
-The Journal reported Tuesday that Musk and Trump discussed the move to throttle Starlink "soon after" the change first became public last week, two people told the Journal.
-One of the people who spoke with the news outlet claimed that Musk discussed the matter with multiple senior administration officials, including Trump himself, prior to imposing the Starlink speed cap.
-Trump and Musk have both recently ramped up their criticism of Zelenskyy. But neither of them have yet identified who ordered the Starlink disruption.
-Musk said on X last week that Starshield systems are "owned and controlled by the US government" and that any speed or usage limits are "decided by the US military and ultimately POTUS."
-Earlier Wednesday, Zelesnkyy said he and Norwegian Defense Minister Tore Sandvik "discussed in detail launching work on new satellite communication capabilities for our warriors."
-"We will involve partners who have the capacity to provide support," Zelenskyy said in an X post.
-Sen. John Cornyn, R-Texas, told CNBC's "Squawk Box" on Wednesday morning that he does not believe Musk would throttle Starlink without "at least the acquiescence of the White House."`,
-    bodyJa: `President Donald Trump on Wednesday insisted that he had nothing to do with a slowdown of SpaceX's Starlink in Ukraine, and does not know if Elon Musk was responsible for speed-capping the critical satellite service.
-Trump's latest denial came one day after The Wall Street Journal, citing unnamed U.S. officials and people familiar with the matter, reported that Musk ordered the slowdown and discussed it with Trump.
-"I wasn't involved," Trump told a reporter when asked about the decision as he departed the White House for a campaign rally in South Carolina.
-When pressed to answer if Musk, SpaceX's founder and CEO, ordered the slowdown, Trump said, "I don't know who did it, but I was not involved."
-The recent disruption of Starshield, the military-grade version of Starlink, rendered some Ukrainian drones effectively useless, weakening defenses against Russian attacks.
-Ukrainian President Volodymyr Zelenskyy on Monday said his military still faces "speed restrictions on Starlink and Starshield services in different parts of the front."
-"No explanation for either of these issues has been provided to Ukraine by the American side," he said.
-The Journal reported Tuesday that Musk and Trump discussed the move to throttle Starlink "soon after" the change first became public last week, two people told the Journal.
-One of the people who spoke with the news outlet claimed that Musk discussed the matter with multiple senior administration officials, including Trump himself, prior to imposing the Starlink speed cap.
-Trump and Musk have both recently ramped up their criticism of Zelenskyy. But neither of them have yet identified who ordered the Starlink disruption.
-Musk said on X last week that Starshield systems are "owned and controlled by the US government" and that any speed or usage limits are "decided by the US military and ultimately POTUS."
-Earlier Wednesday, Zelesnkyy said he and Norwegian Defense Minister Tore Sandvik "discussed in detail launching work on new satellite communication capabilities for our warriors."
-"We will involve partners who have the capacity to provide support," Zelenskyy said in an X post.
-Sen. John Cornyn, R-Texas, told CNBC's "Squawk Box" on Wednesday morning that he does not believe Musk would throttle Starlink without "at least the acquiescence of the White House."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/21/trump-starlink-ukraine-elon-musk.html",
-    publishedAt: "2026-10-21T21:29:14+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "ibm-beats-on-top-and-bottom-lines-as-ceo-a7d3c04e",
-    title: "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
-    titleJa: "IBM beats on top and bottom lines as CEO Krishna touts 'Super Intelligence' traction",
-    summaryJa: "CEO Arvind Krishna indicated that IBM is helping clients in artificial intelligence.",
-    bodyOriginal: `IBM shares climbed in extended trading on Wednesday after the technology vendor reported better-than-predicted third-quarter results.
-Here's how the company performed relative to LSEG consensus:
-- Earnings: $2.95 adjusted vs. $2.86 expected
-- Revenue: $17.10 billion vs. $16.82 billion expected
-IBM's revenue grew about 5% from a year ago, according to a statement. Net income, at $2.19 billion, or $2.30 per share, increased from $1.74 billion, or $1.84 per share, a year ago. Adjusted earnings exclude acquisition-related adjustments.
-"Our clients are now deploying 'Super Intelligence' in ways that transform entire operating models, instead of simply addressing narrow or novel problems," IBM CEO Arvind Krishna was quoted as saying in a statement.
-With respect to guidance, IBM called for full-year free cash flow to increase by more than $1 billion. The forecast as of July was a bump of approximately $1 billion. IBM still sees 2026 constant-currency revenue growth between 4% and 5%.
-In the third quarter, IBM generated $7.80 billion in software revenue, growing 8% and topping the $7.66 billion consensus among analysts polled by StreetAccount.
-Consulting revenue, at $5.34 billion, was flat and just below StreetAccount's $5.37 billion consensus.
-"AI is increasingly embedded in broader transformations our clients are undertaking, representing about 30% of our consulting revenue in the quarter and 35% of our backlog," Jim Kavanaugh, IBM's finance chief, said on a conference call with analysts.
-The consulting unit's 27.4% gross margin narrowed from 28.9% in the second quarter.
-"We reinvested productivity gains into digital assets, accelerating our transition towards a services as software model to capture the growing AI opportunity," Kavanaugh said.
-Infrastructure revenue came to $3.70 billion. That was up 4% and higher than the $3.57 billion consensus from StreetAccount.
-The company's adjusted gross margin, at 58.5%, was narrower than the StreetAccount consensus of 59.1%.
-During the quarter, IBM said it agreed to buy Boeing and General Motors' HRL Laboratories, formerly known as Hughes Aircraft's research division, for an undisclosed sum.
-As of Wednesday's close, IBM stock has come down 15%, while the S&P 500 index has gained 13%.
-Executives will discuss the results with analysts on a conference call starting at 5 p.m. ET.
-WATCH: IBM CEO on quantum computing: Will see $1 trillion in value in by end of 2030s`,
-    bodyJa: `IBM shares climbed in extended trading on Wednesday after the technology vendor reported better-than-predicted third-quarter results.
-Here's how the company performed relative to LSEG consensus:
-- Earnings: $2.95 adjusted vs. $2.86 expected
-- Revenue: $17.10 billion vs. $16.82 billion expected
-IBM's revenue grew about 5% from a year ago, according to a statement. Net income, at $2.19 billion, or $2.30 per share, increased from $1.74 billion, or $1.84 per share, a year ago. Adjusted earnings exclude acquisition-related adjustments.
-"Our clients are now deploying 'Super Intelligence' in ways that transform entire operating models, instead of simply addressing narrow or novel problems," IBM CEO Arvind Krishna was quoted as saying in a statement.
-With respect to guidance, IBM called for full-year free cash flow to increase by more than $1 billion. The forecast as of July was a bump of approximately $1 billion. IBM still sees 2026 constant-currency revenue growth between 4% and 5%.
-In the third quarter, IBM generated $7.80 billion in software revenue, growing 8% and topping the $7.66 billion consensus among analysts polled by StreetAccount.
-Consulting revenue, at $5.34 billion, was flat and just below StreetAccount's $5.37 billion consensus.
-"AI is increasingly embedded in broader transformations our clients are undertaking, representing about 30% of our consulting revenue in the quarter and 35% of our backlog," Jim Kavanaugh, IBM's finance chief, said on a conference call with analysts.
-The consulting unit's 27.4% gross margin narrowed from 28.9% in the second quarter.
-"We reinvested productivity gains into digital assets, accelerating our transition towards a services as software model to capture the growing AI opportunity," Kavanaugh said.
-Infrastructure revenue came to $3.70 billion. That was up 4% and higher than the $3.57 billion consensus from StreetAccount.
-The company's adjusted gross margin, at 58.5%, was narrower than the StreetAccount consensus of 59.1%.
-During the quarter, IBM said it agreed to buy Boeing and General Motors' HRL Laboratories, formerly known as Hughes Aircraft's research division, for an undisclosed sum.
-As of Wednesday's close, IBM stock has come down 15%, while the S&P 500 index has gained 13%.
-Executives will discuss the results with analysts on a conference call starting at 5 p.m. ET.
-WATCH: IBM CEO on quantum computing: Will see $1 trillion in value in by end of 2030s`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/21/ibm-q3-earnings-report-2026.html",
-    publishedAt: "2026-10-21T21:21:40+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "coreweave-s-market-confidence-erodes-as-9c0a48b8",
-    title: "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
-    titleJa: "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
-    summaryJa: "CoreWeave shares are down 29% in October, and the spreads in its credit default swaps are widening.",
-    bodyOriginal: `CoreWeave is facing a crisis of confidence on Wall Street that's playing out in real time among equity and bond investors.
-With interest rates spiking and AI buildout concerns mounting, debt-heavy neoclouds like CoreWeave are being viewed by many market participants as the most vulnerable trade in the artificial intelligence space.
-"Sentiment is decidedly negative," Andrew Keches, a credit analyst at Barclays, wrote in a note to clients on Tuesday, referring broadly to corporate debt in tech. Keches highlighted the "speed at which AI vibes are shifting on a day-to-day basis."
-CoreWeave, which went public in March of last year and reached a peak market cap of about $90 billion three months later, is now valued at roughly $34 billion, with its stock down 29% this month. Its unsecured debt, meanwhile, is sporting a yield of about 15%.
-The spread on CoreWeave's five-year credit default swaps, which are insurance against default, is up 164% in the past year and 30% in October. It last stood at nearly 1,067 basis points, or 10.67%.
-CoreWeave declined to comment.
-The story is playing out across the neocloud sector. Shares of Nebius are down 27% this month, while IREN's stock is down 32%. In Australia, shares of data center operator NextDC plunged 40% on Wednesday after the company slashed its annual earnings forecast. Earlier this month, Australian data center company Firmus scrapped its planned IPO, citing market volatility and conditions.
-U.K. neocloud Nscale is now under the microscope as investors wait to see whether the Nvidia-backed company will go through with its IPO. The company filed to go public on the New York Stock Exchange last month.
-A representative from Nscale declined to comment.
-On hold until midterms
-CoreWeave is the biggest of the pack, and is intimately tied to the U.S. AI market. Nvidia is its top institutional investor, with a stake of about 9%, according to FactSet. And more than two-thirds of CoreWeave's revenue last year came from Microsoft.
-That's put a spotlight on CoreWeave's financials and its ability to remain viable. The company has about $20.7 billion in debt coming due through 2030 and another $14.9 billion thereafter, with the prospects of higher interest rates on future financing.
-Sources on credit desks told CNBC that the high-yield debt market is effectively on hold until after the midterm elections in two weeks given ongoing concerns about the political pushback that data centers are facing. One source, who asked not to be named because of the sensitivity of the matter, said fixed income investors "want permitting and regulatory requirements to be substantially resolved" before they commit financing.
-"Given recent turbulence, pausing makes sense," Seth Meyer, global head of client portfolio Management at Janus Henderson, said in an interview.
-CoreWeave CEO Mike Intrator, who co-founded the company in 2017 initially as a crypto mining venture, sent a memo to employees on Thursday, which CNBC obtained, to try and tamp down concern. Intrator stressed that the company maintains a range of funding options.
-"Our financing model combines infrastructure-backed borrowing, corporate debt, equity, and customer prepayments," Intrator wrote. He added that the company has "additional flexibility to raise equity over time as market conditions and our capital needs warrant."
-CoreWeave had $5.5 billion of cash and equivalents at the end of the second quarter. The company is expected to report third-quarter results next month. Analysts expect negative free cash flow in the period to swell to $10.1 billion, the highest since the company started reporting quarterly financials, according to FactSet.
-One issue being debated heading into the report is how much more capital CoreWeave needs to raise. Rob Oliver, a software analyst at Baird, is estimating roughly $30 billion in 2027.
-"Earnings may address financing measures to shore up confidence," Oliver said in an interview. "But they wouldn't need that capital until the first quarter."
-Another question is whether Nvidia step in if necessary?
-Nvidia, which supplies the graphics processing units that CoreWeave rents out, invested $2 billion in January for a 10% stake. The purchase price was $87.20 a share. The stock is now trading at $61.82 even after jumping 6% the day of the announcement.
-While Nvidia CEO Jensen Huang said last week that CoreWeave doesn't need a backstop, some investors say the chip giant's further participation may be necessary if credit conditions continue to worsen.
-Nvidia didn't immediately respond to a request for comment.
-Analysts at Goldman Sachs, JPMorgan Chase and Barclays have put out bullish notes on the company this week, highlighting the company's GPU-backed loans and its solid list of investment grade customers like Microsoft and Meta. Goldman analysts emphasized the company's strength in the market relative to many of its neocloud competitors.
-"Not all neoclouds are created equal," they wrote, in upgrading their rating to buy from hold. "CoreWeave is likely in the top quartile of neoclouds, if not the top decile, when measured on performance and ability to execute."
-—CNBC's Michelle Fox and Jordan Novet contributed to this report.
-WATCH: Market rotation favors quality over AI leverage, says Charles Schwab's Liz Ann Sonders`,
-    bodyJa: `CoreWeave is facing a crisis of confidence on Wall Street that's playing out in real time among equity and bond investors.
-With interest rates spiking and AI buildout concerns mounting, debt-heavy neoclouds like CoreWeave are being viewed by many market participants as the most vulnerable trade in the artificial intelligence space.
-"Sentiment is decidedly negative," Andrew Keches, a credit analyst at Barclays, wrote in a note to clients on Tuesday, referring broadly to corporate debt in tech. Keches highlighted the "speed at which AI vibes are shifting on a day-to-day basis."
-CoreWeave, which went public in March of last year and reached a peak market cap of about $90 billion three months later, is now valued at roughly $34 billion, with its stock down 29% this month. Its unsecured debt, meanwhile, is sporting a yield of about 15%.
-The spread on CoreWeave's five-year credit default swaps, which are insurance against default, is up 164% in the past year and 30% in October. It last stood at nearly 1,067 basis points, or 10.67%.
-CoreWeave declined to comment.
-The story is playing out across the neocloud sector. Shares of Nebius are down 27% this month, while IREN's stock is down 32%. In Australia, shares of data center operator NextDC plunged 40% on Wednesday after the company slashed its annual earnings forecast. Earlier this month, Australian data center company Firmus scrapped its planned IPO, citing market volatility and conditions.
-U.K. neocloud Nscale is now under the microscope as investors wait to see whether the Nvidia-backed company will go through with its IPO. The company filed to go public on the New York Stock Exchange last month.
-A representative from Nscale declined to comment.
-On hold until midterms
-CoreWeave is the biggest of the pack, and is intimately tied to the U.S. AI market. Nvidia is its top institutional investor, with a stake of about 9%, according to FactSet. And more than two-thirds of CoreWeave's revenue last year came from Microsoft.
-That's put a spotlight on CoreWeave's financials and its ability to remain viable. The company has about $20.7 billion in debt coming due through 2030 and another $14.9 billion thereafter, with the prospects of higher interest rates on future financing.
-Sources on credit desks told CNBC that the high-yield debt market is effectively on hold until after the midterm elections in two weeks given ongoing concerns about the political pushback that data centers are facing. One source, who asked not to be named because of the sensitivity of the matter, said fixed income investors "want permitting and regulatory requirements to be substantially resolved" before they commit financing.
-"Given recent turbulence, pausing makes sense," Seth Meyer, global head of client portfolio Management at Janus Henderson, said in an interview.
-CoreWeave CEO Mike Intrator, who co-founded the company in 2017 initially as a crypto mining venture, sent a memo to employees on Thursday, which CNBC obtained, to try and tamp down concern. Intrator stressed that the company maintains a range of funding options.
-"Our financing model combines infrastructure-backed borrowing, corporate debt, equity, and customer prepayments," Intrator wrote. He added that the company has "additional flexibility to raise equity over time as market conditions and our capital needs warrant."
-CoreWeave had $5.5 billion of cash and equivalents at the end of the second quarter. The company is expected to report third-quarter results next month. Analysts expect negative free cash flow in the period to swell to $10.1 billion, the highest since the company started reporting quarterly financials, according to FactSet.
-One issue being debated heading into the report is how much more capital CoreWeave needs to raise. Rob Oliver, a software analyst at Baird, is estimating roughly $30 billion in 2027.
-"Earnings may address financing measures to shore up confidence," Oliver said in an interview. "But they wouldn't need that capital until the first quarter."
-Another question is whether Nvidia step in if necessary?
-Nvidia, which supplies the graphics processing units that CoreWeave rents out, invested $2 billion in January for a 10% stake. The purchase price was $87.20 a share. The stock is now trading at $61.82 even after jumping 6% the day of the announcement.
-While Nvidia CEO Jensen Huang said last week that CoreWeave doesn't need a backstop, some investors say the chip giant's further participation may be necessary if credit conditions continue to worsen.
-Nvidia didn't immediately respond to a request for comment.
-Analysts at Goldman Sachs, JPMorgan Chase and Barclays have put out bullish notes on the company this week, highlighting the company's GPU-backed loans and its solid list of investment grade customers like Microsoft and Meta. Goldman analysts emphasized the company's strength in the market relative to many of its neocloud competitors.
-"Not all neoclouds are created equal," they wrote, in upgrading their rating to buy from hold. "CoreWeave is likely in the top quartile of neoclouds, if not the top decile, when measured on performance and ability to execute."
-—CNBC's Michelle Fox and Jordan Novet contributed to this report.
-WATCH: Market rotation favors quality over AI leverage, says Charles Schwab's Liz Ann Sonders`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html",
-    publishedAt: "2026-10-21T21:12:29+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "southwest-airlines-cuts-2026-profit-fore-5ce2caca",
-    title: "Southwest Airlines cuts 2026 profit forecast on higher fuel",
-    titleJa: "Southwest Airlines cuts 2026 profit forecast on higher fuel",
-    summaryJa: "Southwest Airlines became the third major U.S. airline this month to cut its 2026 profit forecast due to higher fuel prices.",
-    bodyOriginal: `Southwest Airlines became the third major U.S. airline this month to cut its 2026 profit forecast due to higher fuel prices, but CEO Bob Jordan said travelers continue to book despite higher fares.
-The carrier expects to earn between $2.60 and $2.85 a share on an adjusted basis this year, down from its forecast in July of between $3.25 to as much as $4.25 a share.
-Here's what Southwest reported for third quarter compared with Wall Street expectations, according to consensus estimates from LSEG:
-- Earnings per share: 66 cents adjusted vs. 58 cents expected
-- Revenue: $8.42 billion adjusted vs. $8.25 billion expected
-Southwest forecast per-share adjusted earnings of between 55 cents and 80 cents in the fourth quarter and unit revenue, a gauge of airfare, up as much as 21% from a year earlier. It said it expects to grow capacity by up to 4% year over year.
-"Demand remained strong as we lapped last year's bag fee and other commercial initiatives, reinforcing our belief that the earnings power we've built is durable, even with significantly higher fuel costs," Jordan said in an earnings release.
-The airline said its average passenger fare was $231.69 in the third quarter, up almost 27% from the same quarter of 2025. A spokesman said that number does not include add-on fees. The number of revenue passengers carried fell 3.2% to 33.47 million people.
-Under pressure to grow revenue, Southwest has been remaking its longtime business model over the past several years, scrapping its old policies like two free checked bags per passenger and open seating. In its place, Southwest has started charging for many seat assignments and added a bag fee, similar to major competitors.
-For the third quarter, Southwest posted net income of $270 million, or 55 cents a share, up from $54 million or 10 cents a share a year earlier. Revenue rose more than 21% to $8.42 billion.
-Adjusting for one-time items, Southwest reported 66 cents a share.
-Delta Air Lines and United Airlines also cut their profit outlooks for the rest of the year when they reported third-quarter earnings. Both of those airlines reported top- and bottom-line misses for the third quarter.`,
-    bodyJa: `Southwest Airlines became the third major U.S. airline this month to cut its 2026 profit forecast due to higher fuel prices, but CEO Bob Jordan said travelers continue to book despite higher fares.
-The carrier expects to earn between $2.60 and $2.85 a share on an adjusted basis this year, down from its forecast in July of between $3.25 to as much as $4.25 a share.
-Here's what Southwest reported for third quarter compared with Wall Street expectations, according to consensus estimates from LSEG:
-- Earnings per share: 66 cents adjusted vs. 58 cents expected
-- Revenue: $8.42 billion adjusted vs. $8.25 billion expected
-Southwest forecast per-share adjusted earnings of between 55 cents and 80 cents in the fourth quarter and unit revenue, a gauge of airfare, up as much as 21% from a year earlier. It said it expects to grow capacity by up to 4% year over year.
-"Demand remained strong as we lapped last year's bag fee and other commercial initiatives, reinforcing our belief that the earnings power we've built is durable, even with significantly higher fuel costs," Jordan said in an earnings release.
-The airline said its average passenger fare was $231.69 in the third quarter, up almost 27% from the same quarter of 2025. A spokesman said that number does not include add-on fees. The number of revenue passengers carried fell 3.2% to 33.47 million people.
-Under pressure to grow revenue, Southwest has been remaking its longtime business model over the past several years, scrapping its old policies like two free checked bags per passenger and open seating. In its place, Southwest has started charging for many seat assignments and added a bag fee, similar to major competitors.
-For the third quarter, Southwest posted net income of $270 million, or 55 cents a share, up from $54 million or 10 cents a share a year earlier. Revenue rose more than 21% to $8.42 billion.
-Adjusting for one-time items, Southwest reported 66 cents a share.
-Delta Air Lines and United Airlines also cut their profit outlooks for the rest of the year when they reported third-quarter earnings. Both of those airlines reported top- and bottom-line misses for the third quarter.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/21/southwest-airlines-luv-3q-2026-earnings.html",
-    publishedAt: "2026-10-21T21:07:11+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "websites-taken-down-worldwide-as-critica-e2498d0c",
-    title: "Websites taken down worldwide as critical cyber-security update issued",
-    titleJa: "Websites taken down worldwide as critical cyber-security update issued",
-    summaryJa: "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
-    bodyOriginal: `Websites taken down worldwide as critical cyber-security update issued
-- Published
-International governments and agencies have urged websites to address two critical cyber-security flaws in a programming language which powers much of the internet.
-The vulnerabilities were found within the PHP programming language, with a fix issued on Wednesday afternoon.
-Multiple cyber-security agencies have urged organisations unable to apply fixes in time to consider taking their sites down, leaving bodies such as the Finnish government, Edinburgh council and the BBC to take pages offline.
-The flaws were discovered by AI, with cyber-security firm Wiz saying they were the "most severe vulnerabilities ever discovered" by the tech, which is reshaping the cyber landscape.
-Finland has temporarily shut down the government's public web services, while the Netherlands' cyber-security agency said it was taking its own website offline due to the vulnerabilities.
-The US National Security Agency issued similar advice on X, external for organisations to take their systems offline if they were unable to update with the fix.
-"These vulnerabilities often provide a direct path to the server's file system or database," it wrote.
-Meanwhile, the White House said federal agencies were working with leading AI labs to speed up a fix to the issue.
-And in a post on X, external, Japan's Prime Minister Sanae Takaichi urged people to check if their publicly available websites ran on PHP.
-The Wikimedia Foundation, which runs the online encyclopedia Wikipedia, said it was addressing the security vulnerabilities.
-"We have taken down a number of other systems as a precautionary measure until they can be safely patched," it said.
-That led some people to be unable to access parts of Wikipedia on Wednesday.
-Edinburgh council's website has also become inaccessible, as well as the online homes for several BBC programmes including Doctor Who and The Traitors.
-They have not confirmed a link to PHP - BBC News has approached them for comment.
-'Roughly 70%' of internet
-Other websites, including the art platform DeviantArt, have said they are "temporarily down for maintenance, external" without specifying the reason.
-The vulnerabilities were discovered by cyber-security researchers at the firms Calif and Wiz.
-Calif, along with PHP Foundation, were part of a program started by OpenAI called Patch the Planet.
-Through that program, they were given access to the AI company's advanced AI tools in order to find and fix flaws in web development language.
-OpenAI said in a blog post, external that the discovery was "one of the most impactful security issues in recent memory". It added an internal researcher at the company had also discovered the issue around the same time as the other firms.
-The flaws had gone undetected for more than a decade. By August, after a few weeks of using advanced AI tools, they were discovered.
-"Frontier models were critical to making this process practical, enabling us to develop and adapt working exploits across multiple applications in hours," Wiz said in a blog post.
-It has estimated "roughly 70%" of the internet is affected, though the BBC is unable to verify that figure.
-While PHP Foundation intended to release its discovery later this month along with a complete fix for the problem, usually referred to by software developers as a "patch," details of the flaw were leaked on social media on Tuesday.
-It forced PHP Foundation to rush out its announcement of the vulnerability and its huge scale.
-The Netherlands' National Institute for Public Health and the Environment, an agency of the Dutch government, has taken down its website.
-Similarly the website of the Tweede Kamer, the lower house of the nation's parliament, has become inaccessible.
-The UK's National Cyber Security Centre (NCSC), as well as its counterparts in the EU and Australia have urged those who use PHP to apply the fixes.
-"Where immediate remediation is not feasible, organisations should consider taking the system offline until it can be fully mitigated," the NCSC said in a note, external.
-Japan's national cyber-security office and EU cyber-security officials have issued a similar warning, external.
-'Early attacks emerging'
-"PHP is everywhere. It quietly powers WordPress, Drupal, Joomla, and Magento sites, shared hosting platforms, control panels, and an awful lot of software that doesn't even advertise that it runs PHP under the hood," cyber-security company Huntress said.
-Cyber-security expert Don Smith, from the Sophos Counter Threat Unit, told the BBC this would "likely be a priority target" for hackers.
-The immediate challenge was not simply installing a patch to fix the issue, but finding and managing every instance where PHP was running, he said.
-"The use of PHP is pervasive, it can sit beneath public websites, content management systems, hosting platforms and third-party products, sometimes without even being obvious to the organisation using it," he said.
-He said it was crucial that organisations looked out for signs that an attacker "might have already have gained a foothold".
-The European Union Computer Emergency Response Team (CERT-EU) said the risk scores given to the vulnerabilities "indicate the potential for unauthenticated remote code execution".
-Such a cyber-attack could potentially allow hackers to install malware and take down websites.
-Dane Knecht, chief technology officer at internet infrastructure firm Cloudflare, said he was, external "seeing early attacks emerging and are updating mitigations as new vectors show up".
-The NCSC said once organisations have installed the update, they should "continuously monitor for security updates from third-party software vendors, including for appliances and services that may bundle PHP".
-It is not yet clear which versions of the programming language are affected, but CERT-EU said it could affect all versions of it dating back to PHP 5 onwards - which launched in 2004.
-The PHP Foundation has issued the update only for the latest versions however - with people using PHP 8.1 or older being urged to upgrade.
-PHP was created for web development. It is used on servers to implement what you see when you visit websites.
-Not all websites use it, but it nonetheless powers a large portion of the internet.
-King warns malicious online actors are evolving tactics
-- Published10 October
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
-    bodyJa: `Websites taken down worldwide as critical cyber-security update issued
-- Published
-International governments and agencies have urged websites to address two critical cyber-security flaws in a programming language which powers much of the internet.
-The vulnerabilities were found within the PHP programming language, with a fix issued on Wednesday afternoon.
-Multiple cyber-security agencies have urged organisations unable to apply fixes in time to consider taking their sites down, leaving bodies such as the Finnish government, Edinburgh council and the BBC to take pages offline.
-The flaws were discovered by AI, with cyber-security firm Wiz saying they were the "most severe vulnerabilities ever discovered" by the tech, which is reshaping the cyber landscape.
-Finland has temporarily shut down the government's public web services, while the Netherlands' cyber-security agency said it was taking its own website offline due to the vulnerabilities.
-The US National Security Agency issued similar advice on X, external for organisations to take their systems offline if they were unable to update with the fix.
-"These vulnerabilities often provide a direct path to the server's file system or database," it wrote.
-Meanwhile, the White House said federal agencies were working with leading AI labs to speed up a fix to the issue.
-And in a post on X, external, Japan's Prime Minister Sanae Takaichi urged people to check if their publicly available websites ran on PHP.
-The Wikimedia Foundation, which runs the online encyclopedia Wikipedia, said it was addressing the security vulnerabilities.
-"We have taken down a number of other systems as a precautionary measure until they can be safely patched," it said.
-That led some people to be unable to access parts of Wikipedia on Wednesday.
-Edinburgh council's website has also become inaccessible, as well as the online homes for several BBC programmes including Doctor Who and The Traitors.
-They have not confirmed a link to PHP - BBC News has approached them for comment.
-'Roughly 70%' of internet
-Other websites, including the art platform DeviantArt, have said they are "temporarily down for maintenance, external" without specifying the reason.
-The vulnerabilities were discovered by cyber-security researchers at the firms Calif and Wiz.
-Calif, along with PHP Foundation, were part of a program started by OpenAI called Patch the Planet.
-Through that program, they were given access to the AI company's advanced AI tools in order to find and fix flaws in web development language.
-OpenAI said in a blog post, external that the discovery was "one of the most impactful security issues in recent memory". It added an internal researcher at the company had also discovered the issue around the same time as the other firms.
-The flaws had gone undetected for more than a decade. By August, after a few weeks of using advanced AI tools, they were discovered.
-"Frontier models were critical to making this process practical, enabling us to develop and adapt working exploits across multiple applications in hours," Wiz said in a blog post.
-It has estimated "roughly 70%" of the internet is affected, though the BBC is unable to verify that figure.
-While PHP Foundation intended to release its discovery later this month along with a complete fix for the problem, usually referred to by software developers as a "patch," details of the flaw were leaked on social media on Tuesday.
-It forced PHP Foundation to rush out its announcement of the vulnerability and its huge scale.
-The Netherlands' National Institute for Public Health and the Environment, an agency of the Dutch government, has taken down its website.
-Similarly the website of the Tweede Kamer, the lower house of the nation's parliament, has become inaccessible.
-The UK's National Cyber Security Centre (NCSC), as well as its counterparts in the EU and Australia have urged those who use PHP to apply the fixes.
-"Where immediate remediation is not feasible, organisations should consider taking the system offline until it can be fully mitigated," the NCSC said in a note, external.
-Japan's national cyber-security office and EU cyber-security officials have issued a similar warning, external.
-'Early attacks emerging'
-"PHP is everywhere. It quietly powers WordPress, Drupal, Joomla, and Magento sites, shared hosting platforms, control panels, and an awful lot of software that doesn't even advertise that it runs PHP under the hood," cyber-security company Huntress said.
-Cyber-security expert Don Smith, from the Sophos Counter Threat Unit, told the BBC this would "likely be a priority target" for hackers.
-The immediate challenge was not simply installing a patch to fix the issue, but finding and managing every instance where PHP was running, he said.
-"The use of PHP is pervasive, it can sit beneath public websites, content management systems, hosting platforms and third-party products, sometimes without even being obvious to the organisation using it," he said.
-He said it was crucial that organisations looked out for signs that an attacker "might have already have gained a foothold".
-The European Union Computer Emergency Response Team (CERT-EU) said the risk scores given to the vulnerabilities "indicate the potential for unauthenticated remote code execution".
-Such a cyber-attack could potentially allow hackers to install malware and take down websites.
-Dane Knecht, chief technology officer at internet infrastructure firm Cloudflare, said he was, external "seeing early attacks emerging and are updating mitigations as new vectors show up".
-The NCSC said once organisations have installed the update, they should "continuously monitor for security updates from third-party software vendors, including for appliances and services that may bundle PHP".
-It is not yet clear which versions of the programming language are affected, but CERT-EU said it could affect all versions of it dating back to PHP 5 onwards - which launched in 2004.
-The PHP Foundation has issued the update only for the latest versions however - with people using PHP 8.1 or older being urged to upgrade.
-PHP was created for web development. It is used on servers to implement what you see when you visit websites.
-Not all websites use it, but it nonetheless powers a large portion of the internet.
-King warns malicious online actors are evolving tactics
-- Published10 October
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-21T19:54:57+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6136/live/b103d880-cd90-11f1-b1e7-39558e114359.jpg",
-    readTime: 10,
-  },
-  {
-    id: "meta-fined-25bn-for-lies-over-user-data-533d6e9e",
-    title: "Meta fined $25bn for 'lies' over user data privacy",
-    titleJa: "Meta fined $25bn for 'lies' over user data privacy",
-    summaryJa: "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
-    bodyOriginal: `Meta fined $25bn for 'lies' over user data privacy
-- Published
-Meta, the company behind Facebook, Instagram and WhatsApp has been hit with the largest ever fine against it for its business practices.
-A judge in New Mexico on Wednesday ordered the company to pay $25bn (£18.6bn) following a two-week trial earlier this year that found it had spent years lying to the public about how it handled Facebook user data.
-"The lies extend beyond Facebook's data practices as well," the judge said, adding they went to "the heart of Facebook's core business practices".
-Meta's head lawyer CJ Mahoney said the ruling made it "all but impossible to do business in the state of New Mexico". The company intends to appeal, a move Mahoney said will be successful.
-The fine is the largest to date against Meta, which has either been fined or agreed to settle several other lawsuits this year, including an $18bn deal with California over child safety.
-New Mexico's lawsuit stemmed from the role of Meta, then still doing business as Facebook, in what became known as the Cambridge Analytica scandal.
-That firm utilised data and information from millions of Facebook users as part of its work in political consulting, including on work related to the 2016 US Presidential election, which saw Donald Trump elected for the first time.
-New Mexico had also accused Meta of intentionally misleading the public on how it benefitted from content that included hate speech, and how such rules against it were enforced. The jury found the company had intentionally misled the public on those claims, too.
-Meta disputed those accusations. "At its core, this lawsuit seeks to impose a tax on speech to enforce new rules for what people can say online," Mahoney added.
-Lawyers for New Mexico sued the company over many statements Meta executives had made over the years that user data was never shared with or accessed by third parties without a user's permission, when in reality it had been.
-They claimed that the entire population of the state, roughly two million people, was impacted by Meta's dishonesty regarding the way it controlled user data. A jury found that Meta had violated state laws more than 40 million times.
-"For too long, powerful technology companies have operated as though their size and influence put them beyond the reach of the law," New Mexico Attorney General Raúl Torrez said on Wednesday.
-"Today's result makes clear that no corporation is too powerful to be held accountable."
-The state lawyers sought up to $40bn in fines against Meta. Meta had argued anything beyond $3.4bn would be unconstitutional.
-Judge Francis Mathew on Wednesday was direct in his decision to fine Meta an amount roughly equal to its profits each quarter.
-He said Meta's violations of law and misrepresentations to the public about how their Facebook data was used and shared were "willful" and spanned "more than 11 years", stretching from 2010 to 2021.
-Communications between senior executives, including Mark Zuckerberg, were "designed to mislead the public", Judge Mathew wrote in his order.
-While the full amount of the penalty against Meta, based on thousands of violations of state law, was calculated as $219bn, Judge Mathew reduced the penalty to the $25bn fine.
-It follows a $5bn fine levied by the US Federal Trade Commission in 2019 against the company over its data privacy practices.
-New Mexico has been one of Meta's most notable adversaries in court. The state this year also fined Meta almost $1bn for misleading the public about the safety of its social media platforms for children.
-The judge overseeing that lawsuit ultimately compared Meta to an industrial polluter of the air, with its form of pollution being "the psychological harm and sexual exploitation of children".
-California and several other states had collectively sued Meta over similar issues. They reached a mutual settlement deal to end that case only a few days into what was expected to be a multi-week trial.`,
-    bodyJa: `Meta fined $25bn for 'lies' over user data privacy
-- Published
-Meta, the company behind Facebook, Instagram and WhatsApp has been hit with the largest ever fine against it for its business practices.
-A judge in New Mexico on Wednesday ordered the company to pay $25bn (£18.6bn) following a two-week trial earlier this year that found it had spent years lying to the public about how it handled Facebook user data.
-"The lies extend beyond Facebook's data practices as well," the judge said, adding they went to "the heart of Facebook's core business practices".
-Meta's head lawyer CJ Mahoney said the ruling made it "all but impossible to do business in the state of New Mexico". The company intends to appeal, a move Mahoney said will be successful.
-The fine is the largest to date against Meta, which has either been fined or agreed to settle several other lawsuits this year, including an $18bn deal with California over child safety.
-New Mexico's lawsuit stemmed from the role of Meta, then still doing business as Facebook, in what became known as the Cambridge Analytica scandal.
-That firm utilised data and information from millions of Facebook users as part of its work in political consulting, including on work related to the 2016 US Presidential election, which saw Donald Trump elected for the first time.
-New Mexico had also accused Meta of intentionally misleading the public on how it benefitted from content that included hate speech, and how such rules against it were enforced. The jury found the company had intentionally misled the public on those claims, too.
-Meta disputed those accusations. "At its core, this lawsuit seeks to impose a tax on speech to enforce new rules for what people can say online," Mahoney added.
-Lawyers for New Mexico sued the company over many statements Meta executives had made over the years that user data was never shared with or accessed by third parties without a user's permission, when in reality it had been.
-They claimed that the entire population of the state, roughly two million people, was impacted by Meta's dishonesty regarding the way it controlled user data. A jury found that Meta had violated state laws more than 40 million times.
-"For too long, powerful technology companies have operated as though their size and influence put them beyond the reach of the law," New Mexico Attorney General Raúl Torrez said on Wednesday.
-"Today's result makes clear that no corporation is too powerful to be held accountable."
-The state lawyers sought up to $40bn in fines against Meta. Meta had argued anything beyond $3.4bn would be unconstitutional.
-Judge Francis Mathew on Wednesday was direct in his decision to fine Meta an amount roughly equal to its profits each quarter.
-He said Meta's violations of law and misrepresentations to the public about how their Facebook data was used and shared were "willful" and spanned "more than 11 years", stretching from 2010 to 2021.
-Communications between senior executives, including Mark Zuckerberg, were "designed to mislead the public", Judge Mathew wrote in his order.
-While the full amount of the penalty against Meta, based on thousands of violations of state law, was calculated as $219bn, Judge Mathew reduced the penalty to the $25bn fine.
-It follows a $5bn fine levied by the US Federal Trade Commission in 2019 against the company over its data privacy practices.
-New Mexico has been one of Meta's most notable adversaries in court. The state this year also fined Meta almost $1bn for misleading the public about the safety of its social media platforms for children.
-The judge overseeing that lawsuit ultimately compared Meta to an industrial polluter of the air, with its form of pollution being "the psychological harm and sexual exploitation of children".
-California and several other states had collectively sued Meta over similar issues. They reached a mutual settlement deal to end that case only a few days into what was expected to be a multi-week trial.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-21T19:54:16+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6026/live/1fd68c80-cd78-11f1-bc2e-018d645d8d21.jpg",
-    readTime: 10,
-  },
-  {
-    id: "blackrock-s-rick-rieder-sees-historic-op-da9c6b26",
-    title: "BlackRock's Rick Rieder sees 'historic' opportunity in high-quality bonds",
-    titleJa: "BlackRock's Rick Rieder sees 'historic' opportunity in high-quality bonds",
-    summaryJa: "Rick Rieder, BlackRock's CIO of global fixed income, lays out his expectations for the fourth quarter and where he sees the best opportunities.",
-    bodyOriginal: `Investors may be wary of the volatility hitting parts of the bond market right now, but they have an "historic" opportunity to grab attractive yields in high-quality credit, Rick Rieder, BlackRock's chief investment officer for global fixed income, told CNBC in an exclusive interview.
-Hypothetically, it's now possible for investors to build a diversified portfolio that yields more than 7% with less than three years of duration and an average credit quality of A-, he said. Duration is a measurement of a bond's price sensitivity to fluctuations in rates, and issues with shorter maturities tend to have lower duration.
-"Not only is it historic in that these yields are where they are, but the only time these yields are ever here is when there's some problem, like an economic problem or default problem," Rieder said in an interview about his fourth-quarter outlook, released Wednesday.
-That isn't the case now, where the economy remains strong, he said. "So you don't really have to worry about defaults of any significance."
-While Rieder didn't specifically identify the credits in the aforementioned portfolio, the iShares Aaa - A Rated Corporate Bond ETF (QLTA) has a 30-day SEC yield of 5.68% and an effective duration of 6.48 years — higher than Rieder's low duration focus.
-The iShares Flexible Income Active ETF (BINC), which is managed by Rieder, has a 5.66% 30-day SEC yield and three-year effective duration, but its portfolio extends beyond investment-grade credit.
-Best opportunities include hyperscalers
-Rieder sees the best opportunity right now in investment-grade corporate bonds — which he pointed out he hasn't said "in a really long time." Investment grade bonds are rated AAA through BBB- by S&P and Fitch, while Moody's rates them Aaa through Baa3.
-That includes hyperscaler bonds, which have flooded the market with issuance this year as they ramp up their AI infrastructure. Alphabet, Amazon, Meta Platforms and Oracle have issued a total of about $228.4 billion in bonds year to date, as of Oct. 20, according to LSEG.
-"They're very low leverage. They have tremendous amounts of cash flow coming in," Rieder said of the hyperscalers in general. "You're now getting to buy these entities which are higher quality, paying you a very attractive yield to get it."
-Rieder's iShares Flexible Income Active ETF has upped its allocation to investment-grade corporates to 14.3% of its portfolio. In July, that stood at 8.5%.
-That said, investors need to be patient and sit tight since rates could still move higher from here, he advised.
-"Your starting point is by far your best barometer of what your return is going to be," he noted. "So if you get seven and a quarter, maybe you get eight, maybe you get six, but ... if your holding period is a year or longer, you're going to get that yield."
-Caution should also be exercised outside of investment-grade credit, which requires more selectivity and deep research, he warned. That includes AI names.
-"There's parts of the data center supply that's not hyperscaler guaranteed or hyperscaler backed," he said. "That we've been more cautious around, and we'll continue to be."
-The bond market, particularly high-yield credit, has been rocked as investor concern grows over the massive amount of debt some companies are taking out to fund their artificial intelligence build-out.
-Junk-rated CoreWeave has become the poster child, seeing its stock drop, bond yields jump and credit-default spreads widen. Oracle, which is sitting in the lower end of investment grade and is seen as a bellwether on the broader AI market, has also taken some hits.
-Fed watch
-Rieder is also keeping an eye on the Federal Reserve, which is expected to raise its federal funds rate again in December to combat inflation. The market is currently pricing in a nearly 90% probability that the central bank will hike at that time, according to the CME Group FedWatch tool.
-The money manager expects that to happen, although he does not agree with it. Higher rates are hurting parts of the economy, like housing, while not having much of an impact on other areas — such as tech companies' capital expenditures, which have become a big driver of growth, he said.
-"They're not borrowing off the overnight funds rate," Rieder noted. "There's a lot of floating rate finance in housing, credit card, auto loan finance, and you're seeing those areas already under pressure."
-Instead, the market is and will continue to price the AI supply coming into the market, he added.
-Calculating risks ahead
-Rieder sees a number of possible risks ahead, including rising levels of government debt across the globe. In the United States, the budget deficit has grown to $2 trillion for fiscal 2026.
-"The more the central banks raise the rates, the cost of debt to these to already indebted governments is something we've got to be careful about over time," he said.
-Bond supply coming from AI companies should also be watched.
-"With the amount of supply that's coming — data center, hyperscaler — there's some crowding-out effect that's taking place," he said. "With government rates moving higher, that is something that we just got to keep an eye on."
-In the meantime, Rieder would just continue to reap the rewards of high investment-grade yields "and smile a lot," he said.`,
-    bodyJa: `Investors may be wary of the volatility hitting parts of the bond market right now, but they have an "historic" opportunity to grab attractive yields in high-quality credit, Rick Rieder, BlackRock's chief investment officer for global fixed income, told CNBC in an exclusive interview.
-Hypothetically, it's now possible for investors to build a diversified portfolio that yields more than 7% with less than three years of duration and an average credit quality of A-, he said. Duration is a measurement of a bond's price sensitivity to fluctuations in rates, and issues with shorter maturities tend to have lower duration.
-"Not only is it historic in that these yields are where they are, but the only time these yields are ever here is when there's some problem, like an economic problem or default problem," Rieder said in an interview about his fourth-quarter outlook, released Wednesday.
-That isn't the case now, where the economy remains strong, he said. "So you don't really have to worry about defaults of any significance."
-While Rieder didn't specifically identify the credits in the aforementioned portfolio, the iShares Aaa - A Rated Corporate Bond ETF (QLTA) has a 30-day SEC yield of 5.68% and an effective duration of 6.48 years — higher than Rieder's low duration focus.
-The iShares Flexible Income Active ETF (BINC), which is managed by Rieder, has a 5.66% 30-day SEC yield and three-year effective duration, but its portfolio extends beyond investment-grade credit.
-Best opportunities include hyperscalers
-Rieder sees the best opportunity right now in investment-grade corporate bonds — which he pointed out he hasn't said "in a really long time." Investment grade bonds are rated AAA through BBB- by S&P and Fitch, while Moody's rates them Aaa through Baa3.
-That includes hyperscaler bonds, which have flooded the market with issuance this year as they ramp up their AI infrastructure. Alphabet, Amazon, Meta Platforms and Oracle have issued a total of about $228.4 billion in bonds year to date, as of Oct. 20, according to LSEG.
-"They're very low leverage. They have tremendous amounts of cash flow coming in," Rieder said of the hyperscalers in general. "You're now getting to buy these entities which are higher quality, paying you a very attractive yield to get it."
-Rieder's iShares Flexible Income Active ETF has upped its allocation to investment-grade corporates to 14.3% of its portfolio. In July, that stood at 8.5%.
-That said, investors need to be patient and sit tight since rates could still move higher from here, he advised.
-"Your starting point is by far your best barometer of what your return is going to be," he noted. "So if you get seven and a quarter, maybe you get eight, maybe you get six, but ... if your holding period is a year or longer, you're going to get that yield."
-Caution should also be exercised outside of investment-grade credit, which requires more selectivity and deep research, he warned. That includes AI names.
-"There's parts of the data center supply that's not hyperscaler guaranteed or hyperscaler backed," he said. "That we've been more cautious around, and we'll continue to be."
-The bond market, particularly high-yield credit, has been rocked as investor concern grows over the massive amount of debt some companies are taking out to fund their artificial intelligence build-out.
-Junk-rated CoreWeave has become the poster child, seeing its stock drop, bond yields jump and credit-default spreads widen. Oracle, which is sitting in the lower end of investment grade and is seen as a bellwether on the broader AI market, has also taken some hits.
-Fed watch
-Rieder is also keeping an eye on the Federal Reserve, which is expected to raise its federal funds rate again in December to combat inflation. The market is currently pricing in a nearly 90% probability that the central bank will hike at that time, according to the CME Group FedWatch tool.
-The money manager expects that to happen, although he does not agree with it. Higher rates are hurting parts of the economy, like housing, while not having much of an impact on other areas — such as tech companies' capital expenditures, which have become a big driver of growth, he said.
-"They're not borrowing off the overnight funds rate," Rieder noted. "There's a lot of floating rate finance in housing, credit card, auto loan finance, and you're seeing those areas already under pressure."
-Instead, the market is and will continue to price the AI supply coming into the market, he added.
-Calculating risks ahead
-Rieder sees a number of possible risks ahead, including rising levels of government debt across the globe. In the United States, the budget deficit has grown to $2 trillion for fiscal 2026.
-"The more the central banks raise the rates, the cost of debt to these to already indebted governments is something we've got to be careful about over time," he said.
-Bond supply coming from AI companies should also be watched.
-"With the amount of supply that's coming — data center, hyperscaler — there's some crowding-out effect that's taking place," he said. "With government rates moving higher, that is something that we just got to keep an eye on."
-In the meantime, Rieder would just continue to reap the rewards of high investment-grade yields "and smile a lot," he said.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/21/rick-rieder-investment-grade-bonds.html",
-    publishedAt: "2026-10-21T19:54:16+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "burnham-proposes-plan-to-cut-standing-ch-b081b7f7",
-    title: "Burnham proposes plan to cut standing charges from gas bills",
-    titleJa: "Burnham proposes plan to cut standing charges from gas bills",
-    summaryJa: "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
-    bodyOriginal: `Burnham proposes plan to cut standing charges from gas bills
-- Published
-Prime Minister Andy Burnham has asked ministers to develop a plan to remove standing charges from gas bills.
-These are fixed daily fees that cover the costs of connecting to a supply. They vary by region and households must still pay them even when energy is not being used.
-Industry body Energy UK said whether the proposed changes would make a difference to bills would depend on how or where the charges were reallocated on the bill.
-But an influential research foundation argued it would be a progressive move that would help those on low-incomes and knock £27 off a typical annual bill.
-During Prime Minister's Questions, Burnham said the "pragmatic decision" on giving the green light to the Jackdaw gas field in the North Sea would allow the government to increase investment in renewables and "do more to help people with bills".
-He said he had asked the Chancellor John Healey and Energy Secretary Miatta Fahnbulleh "to look at whether we can remove standing charges from gas bills and to report back to this house at the earliest opportunity".
-No details have been given on how removing standing charges would work in practice. But the suggestion has been made by research firm Nesta that they could be moved to the unit rate, external, so people pay for what they use.
-This would probably benefit customers who don't use much gas, but heavy users could end up paying more.
-For nearly two years, regulator Ofgem has run a series of consultations on standing charges, with a massive public response including vociferous opposition from low-energy users who can do nothing to cut standing charges.
-Ofgem is running a pilot scheme on low standing charge tariffs, but is yet to draw any firm conclusions, suggesting there are no easy answers.
-Higher cost of electricity standing charges
-Average standing charges are 54.8p a day for electricity and 29.7p a day for gas.
-When asked why electricity standing charges would not be scrapped as well, the PM's official spokesman said VAT had already been cut on electricity bills.
-Standing charges cover costs such as transporting energy to homes via pipes and wires, and the upkeep of that infrastructure.
-The standing charges also fund schemes to support low-income households.
-Many of these costs will need to be recouped somehow, but Citizens Advice has warned, external about the potential consequences of reform for vulnerable customers.
-Vulnerable people who don't have a high income, but have high energy usage, could be penalised.
-But Madeleine Gabriel, director of sustainable future at Nesta, said: "Abolishing the gas standing charge and moving those costs onto the unit rate would help those worst hit by rising energy prices."
-Pressure remains on the chancellor to offer more fundamental, targeted energy support this winter in his Budget next week, with energy prices forecast to rise by 16% to a four-year high in January.
-In addition to standing charges, Burnham said investing in renewables would also bring household bills down "substantially" by breaking the link between gas and electricity prices "in this parliament".
-Electricity prices in the UK are mainly set by gas prices, and this is often cited as a reason why electricity prices in the UK are higher than many other countries.
-Get in touch
-Do you have any views, comments or questions about this story?
-Related topics
-- Published30 September`,
-    bodyJa: `Burnham proposes plan to cut standing charges from gas bills
-- Published
-Prime Minister Andy Burnham has asked ministers to develop a plan to remove standing charges from gas bills.
-These are fixed daily fees that cover the costs of connecting to a supply. They vary by region and households must still pay them even when energy is not being used.
-Industry body Energy UK said whether the proposed changes would make a difference to bills would depend on how or where the charges were reallocated on the bill.
-But an influential research foundation argued it would be a progressive move that would help those on low-incomes and knock £27 off a typical annual bill.
-During Prime Minister's Questions, Burnham said the "pragmatic decision" on giving the green light to the Jackdaw gas field in the North Sea would allow the government to increase investment in renewables and "do more to help people with bills".
-He said he had asked the Chancellor John Healey and Energy Secretary Miatta Fahnbulleh "to look at whether we can remove standing charges from gas bills and to report back to this house at the earliest opportunity".
-No details have been given on how removing standing charges would work in practice. But the suggestion has been made by research firm Nesta that they could be moved to the unit rate, external, so people pay for what they use.
-This would probably benefit customers who don't use much gas, but heavy users could end up paying more.
-For nearly two years, regulator Ofgem has run a series of consultations on standing charges, with a massive public response including vociferous opposition from low-energy users who can do nothing to cut standing charges.
-Ofgem is running a pilot scheme on low standing charge tariffs, but is yet to draw any firm conclusions, suggesting there are no easy answers.
-Higher cost of electricity standing charges
-Average standing charges are 54.8p a day for electricity and 29.7p a day for gas.
-When asked why electricity standing charges would not be scrapped as well, the PM's official spokesman said VAT had already been cut on electricity bills.
-Standing charges cover costs such as transporting energy to homes via pipes and wires, and the upkeep of that infrastructure.
-The standing charges also fund schemes to support low-income households.
-Many of these costs will need to be recouped somehow, but Citizens Advice has warned, external about the potential consequences of reform for vulnerable customers.
-Vulnerable people who don't have a high income, but have high energy usage, could be penalised.
-But Madeleine Gabriel, director of sustainable future at Nesta, said: "Abolishing the gas standing charge and moving those costs onto the unit rate would help those worst hit by rising energy prices."
-Pressure remains on the chancellor to offer more fundamental, targeted energy support this winter in his Budget next week, with energy prices forecast to rise by 16% to a four-year high in January.
-In addition to standing charges, Burnham said investing in renewables would also bring household bills down "substantially" by breaking the link between gas and electricity prices "in this parliament".
-Electricity prices in the UK are mainly set by gas prices, and this is often cited as a reason why electricity prices in the UK are higher than many other countries.
-Get in touch
-Do you have any views, comments or questions about this story?
-Related topics
-- Published30 September`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-21T17:06:16+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b7c/live/04502cf0-cd5a-11f1-b962-b7ff822cde72.jpg",
-    readTime: 9,
   },
 ];
 
