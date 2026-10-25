@@ -15,6 +15,278 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "in-pictures-initially-peaceful-protests-69276b84",
+    title: "In pictures: Initially peaceful protests across France over inequality again descend into violence",
+    titleJa: "In pictures: Initially peaceful protests across France over inequality again descend into violence",
+    summaryJa: "Protests over inequality and living costs drew an estimated 410,000 people across France, with clashes in several cities for a second straight weekend.",
+    bodyOriginal: `Mostly peaceful protests across France over a worsening cost-of-living crisis and growing inequality descended into violence for a second straight weekend.
+France's Interior Ministry said 410,000 people took part in protests in several major cities, including Paris.
+After rioters set fire to the historic city hall in Limoges and looters smashed supermarkets and luxury boutiques in Lyon last weekend, French authorities greatly stepped up security ahead of Saturday's protests.
+In Paris on Saturday, riot police fired tear gas and water cannon to disperse a group of around 500 hooded youths who hurled stones at officers, Reuters quoted a security official as saying.
+In France's second city, Marseille, youths dragged large metal sheets to block a street, set fire to rubbish bins, and hurled rocks and bottles at riot police. The confrontations continued after sunset, and police said looters raided two jewelry shops, according to a Reuters report.
+Clashes also flared in Lyon, Bordeaux and Grenoble, while police fired volleys of tear gas at demonstrators in Clermont-Ferrand, Lille, Nantes and Nice, according to the agency.
+However, the violence was still less intense than a week ago, when looters and vandals went on the rampage in a number of French cities.
+The demonstrations began last month as a group of high school students in suburban Paris lamented poor school conditions, including teacher shortages and unsatisfactory facilities. The demonstrations have since grown and evolved into nationwide protests.
+France's economic and political woes have sharply raised the cost of government borrowing. The yield on its 10-year bond rose above 5% for the first time since 2002 this week, settling around 5.03% on Friday.
+Some investors fear the country's debt problems could spread to the rest of the euro zone.`,
+    bodyJa: `Mostly peaceful protests across France over a worsening cost-of-living crisis and growing inequality descended into violence for a second straight weekend.
+France's Interior Ministry said 410,000 people took part in protests in several major cities, including Paris.
+After rioters set fire to the historic city hall in Limoges and looters smashed supermarkets and luxury boutiques in Lyon last weekend, French authorities greatly stepped up security ahead of Saturday's protests.
+In Paris on Saturday, riot police fired tear gas and water cannon to disperse a group of around 500 hooded youths who hurled stones at officers, Reuters quoted a security official as saying.
+In France's second city, Marseille, youths dragged large metal sheets to block a street, set fire to rubbish bins, and hurled rocks and bottles at riot police. The confrontations continued after sunset, and police said looters raided two jewelry shops, according to a Reuters report.
+Clashes also flared in Lyon, Bordeaux and Grenoble, while police fired volleys of tear gas at demonstrators in Clermont-Ferrand, Lille, Nantes and Nice, according to the agency.
+However, the violence was still less intense than a week ago, when looters and vandals went on the rampage in a number of French cities.
+The demonstrations began last month as a group of high school students in suburban Paris lamented poor school conditions, including teacher shortages and unsatisfactory facilities. The demonstrations have since grown and evolved into nationwide protests.
+France's economic and political woes have sharply raised the cost of government borrowing. The yield on its 10-year bond rose above 5% for the first time since 2002 this week, settling around 5.03% on Friday.
+Some investors fear the country's debt problems could spread to the rest of the euro zone.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
+    publishedAt: "2026-10-25T14:14:23+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "more-than-a-third-of-s-p-500-companies-a-5ad11261",
+    title: "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
+    titleJa: "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
+    summaryJa: "“With cautious to negative market sentiment, it could be a tricky week,” one strategist says.",
+    bodyOriginal: `“With cautious to negative market sentiment, it could be a tricky week,” one strategist says.`,
+    bodyJa: `“With cautious to negative market sentiment, it could be a tricky week,” one strategist says.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1?mod=mw_rss_topstories",
+    publishedAt: "2026-10-25T14:00:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-16577626",
+    readTime: 2,
+  },
+  {
+    id: "saudi-arabia-says-it-intercepted-missile-8b5df424",
+    title: "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
+    titleJa: "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
+    summaryJa: "Saudi Arabia says it intercepted Houthi missiles and drones, while the Houthis claimed attacks on airports and energy sites amid rising regional supply risks.",
+    bodyOriginal: `Saudi Arabia intercepted drones and missiles headed for several cities, including the capital Riyadh, fired by Iran-aligned Houthis on Sunday, the Saudi-led coalition in Yemen said.
+The ongoing fighting between Saudi Arabia and the Yemen-based Houthis, combined with remarks by President Donald Trump last week suggesting that the U.S. and Israel are planning fresh strikes on Iran after the Nov. 3 midterm elections, drove oil prices to a six-month high Friday.
+The official Saudi Press Agency quoted the spokesperson of the Saudi-led Coalition to Restore Legitimacy in Yemen, Turki Al-Maliki, as saying two drones and a ballistic missile were "intercepted and destroyed" as they headed toward Riyadh.
+The agency quoted Al-Maliki as saying that 10 ballistic missiles launched by the Houthis toward the southern region of Saudi Arabia were also intercepted, as was a cruise missile headed for the city of Khamis Mushait.
+The Houthis said in a Telegram post that they "carried out seven qualitative military operations using a number of ballistic missiles and drones."
+The targets included Riyadh's King Khalid International Airport and oil giant Saudi Aramco's facilities in Yanbu on Saudi Arabia's west coast as well as other airports and energy installations around the country, the Houthis said.
+King Khalid International Airport said in a notice to travelers that it was resuming operations Sunday, using its Terminal 1 for domestic flights and Terminal 2 for overseas routes.
+The airport suspended operations on Oct. 10 following a strike that killed at least 13 people and injured around 300 others, making it the deadliest attack on Saudi Arabia in more than a decade.
+Saudi Aramco did not immediately respond to CNBC's request for comment.
+Resumption of Iran attacks 'fairly soon'?
+While the Houthis and Saudi Arabia have been exchanging strikes in recent weeks, concerns have been mounting among investors that the U.S. could soon resume its attacks on Iran.
+The U.S. ordered non-emergency government employees and their families to leave Saudi Arabia last week amid the Houthi attacks.
+Trump said Wednesday that the U.S. was not negotiating with Iran and something would happen "fairly soon."
+The president's cryptic remarks came as U.S. officials told The New York Times that the U.S. and Israel have plans for fresh strikes on Iran after the midterm elections.
+"I think there's more and more fears of escalation in the Middle East," Amrita Sen, Founder and Director of Energy Aspects, told CNBC's Squawk Box Europe on Friday.
+"We keep getting asked by clients: 'Is it going to be before the midterms? Is it after the midterms?' So it's not a question of 'if.' People are asking if it's a question of 'when.' Our view remains that it's more likely after the midterms than before."
+Rising tensions, worries about supply disruptions and concerns about possible fresh U.S.-Israeli strikes on Iran helped push Brent crude to a six-month high Friday.
+Brent futures gained 3.1% to close at $116.72 a barrel, the highest international benchmark settlement since April 29. U.S. West Texas Intermediate added 3.8% to settle at $103.27 a barrel. Brent added 6.2% for the week, the third consecutive week of gains. WTI advanced 2.3% for the week.`,
+    bodyJa: `Saudi Arabia intercepted drones and missiles headed for several cities, including the capital Riyadh, fired by Iran-aligned Houthis on Sunday, the Saudi-led coalition in Yemen said.
+The ongoing fighting between Saudi Arabia and the Yemen-based Houthis, combined with remarks by President Donald Trump last week suggesting that the U.S. and Israel are planning fresh strikes on Iran after the Nov. 3 midterm elections, drove oil prices to a six-month high Friday.
+The official Saudi Press Agency quoted the spokesperson of the Saudi-led Coalition to Restore Legitimacy in Yemen, Turki Al-Maliki, as saying two drones and a ballistic missile were "intercepted and destroyed" as they headed toward Riyadh.
+The agency quoted Al-Maliki as saying that 10 ballistic missiles launched by the Houthis toward the southern region of Saudi Arabia were also intercepted, as was a cruise missile headed for the city of Khamis Mushait.
+The Houthis said in a Telegram post that they "carried out seven qualitative military operations using a number of ballistic missiles and drones."
+The targets included Riyadh's King Khalid International Airport and oil giant Saudi Aramco's facilities in Yanbu on Saudi Arabia's west coast as well as other airports and energy installations around the country, the Houthis said.
+King Khalid International Airport said in a notice to travelers that it was resuming operations Sunday, using its Terminal 1 for domestic flights and Terminal 2 for overseas routes.
+The airport suspended operations on Oct. 10 following a strike that killed at least 13 people and injured around 300 others, making it the deadliest attack on Saudi Arabia in more than a decade.
+Saudi Aramco did not immediately respond to CNBC's request for comment.
+Resumption of Iran attacks 'fairly soon'?
+While the Houthis and Saudi Arabia have been exchanging strikes in recent weeks, concerns have been mounting among investors that the U.S. could soon resume its attacks on Iran.
+The U.S. ordered non-emergency government employees and their families to leave Saudi Arabia last week amid the Houthi attacks.
+Trump said Wednesday that the U.S. was not negotiating with Iran and something would happen "fairly soon."
+The president's cryptic remarks came as U.S. officials told The New York Times that the U.S. and Israel have plans for fresh strikes on Iran after the midterm elections.
+"I think there's more and more fears of escalation in the Middle East," Amrita Sen, Founder and Director of Energy Aspects, told CNBC's Squawk Box Europe on Friday.
+"We keep getting asked by clients: 'Is it going to be before the midterms? Is it after the midterms?' So it's not a question of 'if.' People are asking if it's a question of 'when.' Our view remains that it's more likely after the midterms than before."
+Rising tensions, worries about supply disruptions and concerns about possible fresh U.S.-Israeli strikes on Iran helped push Brent crude to a six-month high Friday.
+Brent futures gained 3.1% to close at $116.72 a barrel, the highest international benchmark settlement since April 29. U.S. West Texas Intermediate added 3.8% to settle at $103.27 a barrel. Brent added 6.2% for the week, the third consecutive week of gains. WTI advanced 2.3% for the week.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
+    publishedAt: "2026-10-25T13:41:37+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 8,
+  },
+  {
+    id: "worried-about-this-stock-market-selloff-768d0aed",
+    title: "Worried about this stock-market selloff? Relief may be coming after the midterms — no matter who wins.",
+    titleJa: "Worried about this stock-market selloff? Relief may be coming after the midterms — no matter who wins.",
+    summaryJa: "The nine months between Election Day and June 30 have seen the S&amp;P 500 deliver an average return of 15.5% going back to 1950.",
+    bodyOriginal: `The nine months between Election Day and June 30 have seen the S&amp;P 500 deliver an average return of 15.5% going back to 1950.`,
+    bodyJa: `The nine months between Election Day and June 30 have seen the S&amp;P 500 deliver an average return of 15.5% going back to 1950.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories",
+    publishedAt: "2026-10-25T13:00:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-63364096",
+    readTime: 2,
+  },
+  {
+    id: "nonanswers-aren-t-working-this-is-what-1be378bb",
+    title: "‘Nonanswers’ aren’t working. This is what investors really need from the Fed.",
+    titleJa: "‘Nonanswers’ aren’t working. This is what investors really need from the Fed.",
+    summaryJa: "What really matters to investors, economists say, is for Fed Chairman Kevin Warsh to prove he can successfully communicate the central bank’s strategy.",
+    bodyOriginal: `What really matters to investors, economists say, is for Fed Chairman Kevin Warsh to prove he can successfully communicate the central bank’s strategy.`,
+    bodyJa: `What really matters to investors, economists say, is for Fed Chairman Kevin Warsh to prove he can successfully communicate the central bank’s strategy.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
+    publishedAt: "2026-10-25T12:44:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-25605110",
+    readTime: 2,
+  },
+  {
+    id: "what-democrats-and-republicans-fear-most-66e2f110",
+    title: "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
+    titleJa: "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
+    summaryJa: "The economy is still a key issue in the 2026 election, but voters are concerned about Trump testing the bounds of the office and Democratic Socialist polices.",
+    bodyOriginal: `If Democrats take over Congress, Republican voters are worried they'll move too far to the left and enact socialist policies. If Republicans keep control, Democrats fret about President Donald Trump having unchecked power.
+Those are the findings from a new CNBC poll that shows what each side of the political divide fears about the other as the midterm election looms. Republicans in the survey also say they worry about weakened border security and higher taxes under a Democratic Congress. Democrats say they're concerned about continued Immigration and Customs Enforcement deportations and ongoing military efforts in Iran under a Republican one.
+"That totally shows the polarization … and the fear that one side is going to completely undo the agenda of the other," Ron Bonjean, a Republican strategist and co-founder of ROKK Solutions, said of the results. "What Republicans are worried about is that Democrats are going to go back to the way it was during the Biden administration."
+The results of the latest CNBC All-America Economic Survey — conducted between Oct. 14 and 18 and including 1,000 registered voters — could serve as a warning for both parties after the election. Both Democrats and Republicans have struggled with low favorability amid widespread distrust of the government.
+If Democrats lurch too far to the left and adopt Democratic Socialists of America policies, they could squander the gains some forecasts project they could make in many heavily Republican parts of the country, said Lucas Holtz, a senior political advisor at Third Way, a center-left think tank.
+"They should not misread their mandate if they hope to retain the inroads that they're making this cycle with Latino voters, with working-class voters, who they have been hemorrhaging cycle after cycle," Holtz said.
+And Republicans should understand that voters in this moment want to change course, Bonjean said.
+"Voters absolutely want change from the way things are going now, but they also don't want to go back to the way things were when Democrats ran Washington," Bonjean said. "The branding is so bad on the Democratic side, and it's not great on the Republican side."
+Respondents were able to select up to two of their biggest concerns in the event that Democrats or Republicans control Congress, which don't necessarily indicate their top electoral priorities. The CNBC survey by Hart Research Associates and Public Opinion Strategies separately asked people to name the most important issues facing the country. In answering that question, affordability issues ranked highly across the political spectrum, while Democrats and independents also listed government corruption as a top priority, and Republicans listed immigration and border security.
+Still, the concerns expressed by voters about what the opposing party might do in office reflect the messages in the political advertising that is blanketing much of the country in the final days before the midterm election, according to Alex Jacquez, senior vice president of policy, advocacy, and research at Groundwork Collaborative, a progressive think tank. Democrats on the campaign trail have hammered Trump for his alleged corruption and Republicans have attempted to paint Democrats as overly progressive.
+"For Democrats, the main attack ads [targeting them] have ... been about DSA and they've been about the cultural issues that Republicans are trying to hit to tie them to a kind of a far-left or radical movement," Jacquez said. "But the overall vibe of the election is still first and foremost about the economy, people tend to blame the president for prices and Congress for enabling him."
+If Democrats gain control of Congress, 22% of all voters said they are concerned about them failing to bring down prices, including 31% of Democrats, 22% of independents and 15% of Republicans. In the event the GOP retains the gavels in the House and Senate, 24% of voters said they worry whether prices will come down, including 32% of Republicans, 22% of independents and 17% of Democrats.
+But those worries trail fears about checking Trump and policies associated with the DSA, a political organization that has notched recent wins in places like New York City, Washington and Denver and advocates progressive social and populist economic policies.
+Of all voters polled, 44% said they fear Trump would be allowed to operate beyond his constitutional power, including 74% of Democrats and 45% of independents. Twenty-eight percent of respondents said they are concerned with the implementation of DSA policies, including 54% of Republicans and 22% of independents.`,
+    bodyJa: `If Democrats take over Congress, Republican voters are worried they'll move too far to the left and enact socialist policies. If Republicans keep control, Democrats fret about President Donald Trump having unchecked power.
+Those are the findings from a new CNBC poll that shows what each side of the political divide fears about the other as the midterm election looms. Republicans in the survey also say they worry about weakened border security and higher taxes under a Democratic Congress. Democrats say they're concerned about continued Immigration and Customs Enforcement deportations and ongoing military efforts in Iran under a Republican one.
+"That totally shows the polarization … and the fear that one side is going to completely undo the agenda of the other," Ron Bonjean, a Republican strategist and co-founder of ROKK Solutions, said of the results. "What Republicans are worried about is that Democrats are going to go back to the way it was during the Biden administration."
+The results of the latest CNBC All-America Economic Survey — conducted between Oct. 14 and 18 and including 1,000 registered voters — could serve as a warning for both parties after the election. Both Democrats and Republicans have struggled with low favorability amid widespread distrust of the government.
+If Democrats lurch too far to the left and adopt Democratic Socialists of America policies, they could squander the gains some forecasts project they could make in many heavily Republican parts of the country, said Lucas Holtz, a senior political advisor at Third Way, a center-left think tank.
+"They should not misread their mandate if they hope to retain the inroads that they're making this cycle with Latino voters, with working-class voters, who they have been hemorrhaging cycle after cycle," Holtz said.
+And Republicans should understand that voters in this moment want to change course, Bonjean said.
+"Voters absolutely want change from the way things are going now, but they also don't want to go back to the way things were when Democrats ran Washington," Bonjean said. "The branding is so bad on the Democratic side, and it's not great on the Republican side."
+Respondents were able to select up to two of their biggest concerns in the event that Democrats or Republicans control Congress, which don't necessarily indicate their top electoral priorities. The CNBC survey by Hart Research Associates and Public Opinion Strategies separately asked people to name the most important issues facing the country. In answering that question, affordability issues ranked highly across the political spectrum, while Democrats and independents also listed government corruption as a top priority, and Republicans listed immigration and border security.
+Still, the concerns expressed by voters about what the opposing party might do in office reflect the messages in the political advertising that is blanketing much of the country in the final days before the midterm election, according to Alex Jacquez, senior vice president of policy, advocacy, and research at Groundwork Collaborative, a progressive think tank. Democrats on the campaign trail have hammered Trump for his alleged corruption and Republicans have attempted to paint Democrats as overly progressive.
+"For Democrats, the main attack ads [targeting them] have ... been about DSA and they've been about the cultural issues that Republicans are trying to hit to tie them to a kind of a far-left or radical movement," Jacquez said. "But the overall vibe of the election is still first and foremost about the economy, people tend to blame the president for prices and Congress for enabling him."
+If Democrats gain control of Congress, 22% of all voters said they are concerned about them failing to bring down prices, including 31% of Democrats, 22% of independents and 15% of Republicans. In the event the GOP retains the gavels in the House and Senate, 24% of voters said they worry whether prices will come down, including 32% of Republicans, 22% of independents and 17% of Democrats.
+But those worries trail fears about checking Trump and policies associated with the DSA, a political organization that has notched recent wins in places like New York City, Washington and Denver and advocates progressive social and populist economic policies.
+Of all voters polled, 44% said they fear Trump would be allowed to operate beyond his constitutional power, including 74% of Democrats and 45% of independents. Twenty-eight percent of respondents said they are concerned with the implementation of DSA policies, including 54% of Republicans and 22% of independents.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html",
+    publishedAt: "2026-10-25T12:00:01+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "marc-lore-s-wonder-bets-on-texas-automat-7936dd74",
+    title: "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
+    titleJa: "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
+    summaryJa: "Wonder is leaning into automation and user-built restaurants as founder Marc Lore prepares the startup for a potential IPO.",
+    bodyOriginal: `Less than a decade after its founding, food startup Wonder has seen its footprint and valuation soar.
+Still, the company has even more ambitious plans ahead, like a subscription program to let diners run their own "restaurants," an aggressive expansion in Texas and a potential initial public offering.
+Created by serial entrepreneur Marc Lore in 2018, Wonder advertises itself as "the best restaurants from across the country, all in one place." Diners can place takeout or delivery orders from its food hall-style locations on the Wonder-branded app or third-party platforms, including Grubhub, which Wonder now owns.
+As Lore described it to CNBC, "Wonder is a vertically integrated food technology platform to make great food more accessible."
+To achieve its goal, Wonder plans to open locations in urban, suburban and rural areas nationwide and aims to keep prices lower than the cost of delivered groceries. Thanks to its ownership of Grubhub, Wonder customers who order through the startup's app don't have to pay delivery fees, and its menu prices aren't inflated to cover the cost of commission fees to the delivery platform. Plus, Wonder is automating some of its kitchen functions, like assembling salads and bowls and soon sauces and beverages.
+The company aims for food preparation and delivery to be fully autonomous by 2040, Lore said.
+Now, Wonder has to convince diners its platform built on cost savings and choice makes it worth their while in a competitive industry.
+Lore's lofty vision for Wonder has helped the company raise $3.3 billion to date, from investors like DoorDash, Alphabet's venture arm and Gwyneth Paltrow. Its Series D fundraising round earlier this year raised its pre-money valuation to $9 billion — just under sandwich chain Subway's sale price two years ago.
+Wonder's next pitch to investors could be on an IPO road show, assuming that the window for companies across industries to go public reopens in the coming months.
+"[The mission] is really why I want to go public and raise the capital that it'll take to build that kind of generational business, also to have a public currency to be able to do more M&A," Lore said. "But I can't talk about timing."
+Lore's track record
+Lore's expertise lies in e-commerce, not restaurants.
+He helped found the parent company of Diapers.com and sold it in 2010 to Amazon for $545 million. Just six years later, Walmart paid about $3 billion for his follow-up venture, Jet.com. Lore stayed at the retailer until 2021 to accelerate Walmart's e-commerce growth.
+Basketball fans might also recognize Lore as an owner of the Minnesota Timberwolves. In 2021, he and baseball legend Alex Rodriguez agreed to buy the team for $1.5 billion, although the deal was not finalized until 2025. Lore recently struck a deal to shrink his investment to a minority stake "to focus on his business," Rodriguez said in a statement in August, referring to Wonder.
+Lore's latest startup began with the idea of bringing food delivery to consumers' homes through sprinter vans outfitted with mobile kitchens. The trucks lasted roughly two years before Wonder phased them out in favor of brick-and-mortar locations, which could serve more food options and lower costs.
+Lore's successful track record has helped him win over investors for Wonder.
+"I joke around at GV that I do enterprise software investing, AI investing and anything that Marc Lore is running as an active CEO," said Dave Munichiello, managing partner of Alphabet's venture capital arm GV, who has known Lore since his Diapers.com days and invested in Jet.com through GV.
+Lore himself thinks that his vision is the reason for Wonder's billions of dollars of funding.
+"Everybody eats," he said. "It's defensible from AI."
+Wonder has spent more than $1 billion on acquisitions, not including the deals where financial details were not disclosed. Its purchases of Grubhub, delivery and logistics provider Relay, meal-kit provider Blue Apron and buzzy New York restaurant concepts have been expensive.
+But Lore said he sees a "tremendous total addressable market" for Wonder if it's able to sell high-quality food at accessible prices, particularly in exurban and rural areas with few dining options beyond fast food and gas stations.
+Wonder gets bigger in Texas
+From Virginia to Massachusetts, 170 Wonder storefronts have appeared over the last three years. Next year, the company plans to enter Texas for the first time — with a goal of at least 100 locations in the state by the end of 2027.
+Wonder prepares its food at commissary kitchens, then transports it to each individual location, where employees unseal, cook and finish the menu items. Its storefronts are all electric, without gas or venting, so Wonder can quickly move into a new space and cut down on renovations and red tape.
+Its locations serve menu items from more than two dozen "restaurants," including Dabba Indian Kitchen, Tejas Barbecue and Pop Salad. Celebrity chefs including Bobby Flay, Michael Symon and Marcus Samuelsson receive up-front payments and equity in Wonder to let the company use their names for some of those concepts. More recent additions include acquisitions such as Blue Ribbon Fried Chicken and Salt Hank's, brands with established followings.
+With its wide variety of options housed under one roof, Wonder has drawn comparisons to ghost kitchens, the once-buzzy startups without dine-in seating that flamed out as food delivery orders fell after the Covid pandemic. Once considered a potential disruptor to the restaurant industry, ghost kitchen companies such as Kitchen United have sought bankruptcy protection and wound down their operations.
+Lore disagrees with the comparison.
+"You can see there's a front of house [in the] brick and mortar," he said. "You'll see people at lunchtime, sitting there enjoying lunch, so it's not ghost-y in that way. But I think it's also just in the fact that we're vertically integrated."
+Wonder has never marketed itself as a ghost kitchen, instead calling itself "a new kind of food hall" or a "modern food court" before landing on a "vertically integrated food technology platform."
+Starting Nov. 17, the company plans to take the next step with Wonder Create. Influencers, entrepreneurs and brands can pay $10 a month to start their own "restaurant" based out of a Wonder location and earn a portion of the revenue from orders. Artificial intelligence will help them make their brand, including name, logo, pricing and recipes.
+"It could be a restaurant for you and your friends, or you could be an influencer that has a following," Lore said.
+He wants Wonder Create to democratize restaurant ownership — minus the capital, overhead costs or oversight of kitchen operations. The platform will eventually be available to the public, with users deciding menu items based on Wonder's pantry.
+Besides Wonder Create, the company is also using AI for another initiative. MEL, a proprietary AI platform, can use a customer's health information, like data from an Oura ring or Whoop tracker or even blood biomarkers, to prepare breakfast, lunch and dinner for its user.
+MEL is not currently available to Wonder customers, although Lore uses AI to advise his own meals, like the chicken muffin he ate for breakfast on a Tuesday in October.
+The quality question
+While Wonder has won over venture capitalists, the battle for diners' stomachs and wallets is tougher.
+Budget-conscious consumers have been dining out less often and becoming pickier when they do so. And while food delivery is still more popular than it was before the pandemic, consumers have pulled back on delivery orders compared with their Covid-era peak. Fees and high menu prices, which offset eateries' commission fees with apps, make delivery even more expensive than dining at a restaurant.
+Plus, some consumers are skeptical about Wonder more specifically. Posts on social media decry the company's food quality and its funding from venture capital.
+"It's OK, but it's just average," Amir Ings, a 27-year-old living in Philadelphia, said in a TikTok reviewing an order of three tacos from Wonder in late 2025. "My expectations were already in the gutter — it's not as bad as I thought it was going to be, but it's still not great. And I paid like $16 for this, but it should have been no more than $8."
+Lore told CNBC that Wonder receives thousands of reviews every day from customers, rating the taste, temperature and portion size of their orders on a scale from 1 to 10. Wonder starts its board meetings by talking about taste scores, Munichiello said.
+"We're maniacally focused on food quality .... We're constantly iterating on the meals that score lower, and see over time, the last 12 months, our taste scores have improved, our Google reviews have improved," Lore said. "I do expect food quality to improve as we scale, which is not always the case."
+Despite lackluster reviews on social media, Wonder has fans. Based on transaction data from Indagari, Wonder had a higher weighted average retention rate — how likely a diner is to return — and higher lifetime value — how much a customer has spent over time — than Cava and Sweetgreen.
+Plus, Wonder has succeeded with locations in the most competitive markets for restaurants in the country.
+"They made this company work well in the hardest place in the country to stand up this model: New York," Munichiello said. "You have so much choice in New York."
+Ultimately, Wonder wants to win over the rest of the U.S. — and public market investors.
+In March, the company hired Gabrielle Scheibe Rabinovitch, previously at payment processor Worldpay, as its chief financial officer as it prepares to go public.
+Lore declined to comment on the timing of a potential IPO to CNBC, although he has previously told Fortune that the company will be "ready and prepared to go public early next year."
+Since buying Blue Apron and Grubhub, Wonder has been operating at a financial loss, The Information previously reported. It plans to bring down the price of its meals by leaning into automation and drone delivery. In the long term, that plan could cut costs, although laying the groundwork won't be cheap.
+In recent years, investors have grown less tolerant of startups pursuing growth at all costs, according to Avery Marquez, director of investment strategies at Renaissance Capital. To sway investors, unprofitable companies have to show they are taking steps toward profitability — or that the growth will continue long after the IPO.`,
+    bodyJa: `Less than a decade after its founding, food startup Wonder has seen its footprint and valuation soar.
+Still, the company has even more ambitious plans ahead, like a subscription program to let diners run their own "restaurants," an aggressive expansion in Texas and a potential initial public offering.
+Created by serial entrepreneur Marc Lore in 2018, Wonder advertises itself as "the best restaurants from across the country, all in one place." Diners can place takeout or delivery orders from its food hall-style locations on the Wonder-branded app or third-party platforms, including Grubhub, which Wonder now owns.
+As Lore described it to CNBC, "Wonder is a vertically integrated food technology platform to make great food more accessible."
+To achieve its goal, Wonder plans to open locations in urban, suburban and rural areas nationwide and aims to keep prices lower than the cost of delivered groceries. Thanks to its ownership of Grubhub, Wonder customers who order through the startup's app don't have to pay delivery fees, and its menu prices aren't inflated to cover the cost of commission fees to the delivery platform. Plus, Wonder is automating some of its kitchen functions, like assembling salads and bowls and soon sauces and beverages.
+The company aims for food preparation and delivery to be fully autonomous by 2040, Lore said.
+Now, Wonder has to convince diners its platform built on cost savings and choice makes it worth their while in a competitive industry.
+Lore's lofty vision for Wonder has helped the company raise $3.3 billion to date, from investors like DoorDash, Alphabet's venture arm and Gwyneth Paltrow. Its Series D fundraising round earlier this year raised its pre-money valuation to $9 billion — just under sandwich chain Subway's sale price two years ago.
+Wonder's next pitch to investors could be on an IPO road show, assuming that the window for companies across industries to go public reopens in the coming months.
+"[The mission] is really why I want to go public and raise the capital that it'll take to build that kind of generational business, also to have a public currency to be able to do more M&A," Lore said. "But I can't talk about timing."
+Lore's track record
+Lore's expertise lies in e-commerce, not restaurants.
+He helped found the parent company of Diapers.com and sold it in 2010 to Amazon for $545 million. Just six years later, Walmart paid about $3 billion for his follow-up venture, Jet.com. Lore stayed at the retailer until 2021 to accelerate Walmart's e-commerce growth.
+Basketball fans might also recognize Lore as an owner of the Minnesota Timberwolves. In 2021, he and baseball legend Alex Rodriguez agreed to buy the team for $1.5 billion, although the deal was not finalized until 2025. Lore recently struck a deal to shrink his investment to a minority stake "to focus on his business," Rodriguez said in a statement in August, referring to Wonder.
+Lore's latest startup began with the idea of bringing food delivery to consumers' homes through sprinter vans outfitted with mobile kitchens. The trucks lasted roughly two years before Wonder phased them out in favor of brick-and-mortar locations, which could serve more food options and lower costs.
+Lore's successful track record has helped him win over investors for Wonder.
+"I joke around at GV that I do enterprise software investing, AI investing and anything that Marc Lore is running as an active CEO," said Dave Munichiello, managing partner of Alphabet's venture capital arm GV, who has known Lore since his Diapers.com days and invested in Jet.com through GV.
+Lore himself thinks that his vision is the reason for Wonder's billions of dollars of funding.
+"Everybody eats," he said. "It's defensible from AI."
+Wonder has spent more than $1 billion on acquisitions, not including the deals where financial details were not disclosed. Its purchases of Grubhub, delivery and logistics provider Relay, meal-kit provider Blue Apron and buzzy New York restaurant concepts have been expensive.
+But Lore said he sees a "tremendous total addressable market" for Wonder if it's able to sell high-quality food at accessible prices, particularly in exurban and rural areas with few dining options beyond fast food and gas stations.
+Wonder gets bigger in Texas
+From Virginia to Massachusetts, 170 Wonder storefronts have appeared over the last three years. Next year, the company plans to enter Texas for the first time — with a goal of at least 100 locations in the state by the end of 2027.
+Wonder prepares its food at commissary kitchens, then transports it to each individual location, where employees unseal, cook and finish the menu items. Its storefronts are all electric, without gas or venting, so Wonder can quickly move into a new space and cut down on renovations and red tape.
+Its locations serve menu items from more than two dozen "restaurants," including Dabba Indian Kitchen, Tejas Barbecue and Pop Salad. Celebrity chefs including Bobby Flay, Michael Symon and Marcus Samuelsson receive up-front payments and equity in Wonder to let the company use their names for some of those concepts. More recent additions include acquisitions such as Blue Ribbon Fried Chicken and Salt Hank's, brands with established followings.
+With its wide variety of options housed under one roof, Wonder has drawn comparisons to ghost kitchens, the once-buzzy startups without dine-in seating that flamed out as food delivery orders fell after the Covid pandemic. Once considered a potential disruptor to the restaurant industry, ghost kitchen companies such as Kitchen United have sought bankruptcy protection and wound down their operations.
+Lore disagrees with the comparison.
+"You can see there's a front of house [in the] brick and mortar," he said. "You'll see people at lunchtime, sitting there enjoying lunch, so it's not ghost-y in that way. But I think it's also just in the fact that we're vertically integrated."
+Wonder has never marketed itself as a ghost kitchen, instead calling itself "a new kind of food hall" or a "modern food court" before landing on a "vertically integrated food technology platform."
+Starting Nov. 17, the company plans to take the next step with Wonder Create. Influencers, entrepreneurs and brands can pay $10 a month to start their own "restaurant" based out of a Wonder location and earn a portion of the revenue from orders. Artificial intelligence will help them make their brand, including name, logo, pricing and recipes.
+"It could be a restaurant for you and your friends, or you could be an influencer that has a following," Lore said.
+He wants Wonder Create to democratize restaurant ownership — minus the capital, overhead costs or oversight of kitchen operations. The platform will eventually be available to the public, with users deciding menu items based on Wonder's pantry.
+Besides Wonder Create, the company is also using AI for another initiative. MEL, a proprietary AI platform, can use a customer's health information, like data from an Oura ring or Whoop tracker or even blood biomarkers, to prepare breakfast, lunch and dinner for its user.
+MEL is not currently available to Wonder customers, although Lore uses AI to advise his own meals, like the chicken muffin he ate for breakfast on a Tuesday in October.
+The quality question
+While Wonder has won over venture capitalists, the battle for diners' stomachs and wallets is tougher.
+Budget-conscious consumers have been dining out less often and becoming pickier when they do so. And while food delivery is still more popular than it was before the pandemic, consumers have pulled back on delivery orders compared with their Covid-era peak. Fees and high menu prices, which offset eateries' commission fees with apps, make delivery even more expensive than dining at a restaurant.
+Plus, some consumers are skeptical about Wonder more specifically. Posts on social media decry the company's food quality and its funding from venture capital.
+"It's OK, but it's just average," Amir Ings, a 27-year-old living in Philadelphia, said in a TikTok reviewing an order of three tacos from Wonder in late 2025. "My expectations were already in the gutter — it's not as bad as I thought it was going to be, but it's still not great. And I paid like $16 for this, but it should have been no more than $8."
+Lore told CNBC that Wonder receives thousands of reviews every day from customers, rating the taste, temperature and portion size of their orders on a scale from 1 to 10. Wonder starts its board meetings by talking about taste scores, Munichiello said.
+"We're maniacally focused on food quality .... We're constantly iterating on the meals that score lower, and see over time, the last 12 months, our taste scores have improved, our Google reviews have improved," Lore said. "I do expect food quality to improve as we scale, which is not always the case."
+Despite lackluster reviews on social media, Wonder has fans. Based on transaction data from Indagari, Wonder had a higher weighted average retention rate — how likely a diner is to return — and higher lifetime value — how much a customer has spent over time — than Cava and Sweetgreen.
+Plus, Wonder has succeeded with locations in the most competitive markets for restaurants in the country.
+"They made this company work well in the hardest place in the country to stand up this model: New York," Munichiello said. "You have so much choice in New York."
+Ultimately, Wonder wants to win over the rest of the U.S. — and public market investors.
+In March, the company hired Gabrielle Scheibe Rabinovitch, previously at payment processor Worldpay, as its chief financial officer as it prepares to go public.
+Lore declined to comment on the timing of a potential IPO to CNBC, although he has previously told Fortune that the company will be "ready and prepared to go public early next year."
+Since buying Blue Apron and Grubhub, Wonder has been operating at a financial loss, The Information previously reported. It plans to bring down the price of its meals by leaning into automation and drone delivery. In the long term, that plan could cut costs, although laying the groundwork won't be cheap.
+In recent years, investors have grown less tolerant of startups pursuing growth at all costs, according to Avery Marquez, director of investment strategies at Renaissance Capital. To sway investors, unprofitable companies have to show they are taking steps toward profitability — or that the growth will continue long after the IPO.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
+    publishedAt: "2026-10-25T12:00:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
     id: "voters-in-brazil-head-to-polls-as-lula-g-ba81f8de",
     title: "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
     titleJa: "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
@@ -2147,342 +2419,6 @@ Sign up for our Tech Decoded newsletter to follow the world's top tech stories a
     category: "テクノロジー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e7/live/343404d0-cf00-11f1-accf-3309656ad0bb.jpg",
     readTime: 9,
-  },
-  {
-    id: "are-california-voters-about-to-impose-wo-29995eeb",
-    title: "Are California voters about to impose 'world's first' tax on billionaires?",
-    titleJa: "Are California voters about to impose 'world's first' tax on billionaires?",
-    summaryJa: "Voters are about to decide if the mega-rich among them should hand over billions of dollars to pay for improvements to healthcare.",
-    bodyOriginal: `Are California voters about to impose 'world's first' tax on billionaires?
-- Published
-Few places on the planet have as many ultra-wealthy residents as California, a US state known for glamour, coastal mega-mansions, and being home to the rich and famous.
-Now voters are about to decide whether the mega-rich among them - including media mogul Oprah Winfrey, Meta head Mark Zuckerberg, Skims cofounder and reality television star Kim Kardashian, and filmmaker George Lucas - should hand over billions of dollars to pay for improvements to healthcare.
-Proposition 40 is aimed at levying a one-time 5% tax on the net worth of all of California's billionaires.
-There are a little more than 200 such individuals in the state - but that hasn't stopped the measure from dividing leaders and causing some of its ultra-wealthy residents to flee. One billionaire businessman says he's brought jobs to California, but the proposition made him feel "a little bit like I wasn't wanted".
-What are the US midterms? A simple guide
-- Published6 October
-But the vote is also offering regular residents a voice on an issue that has roiled politics for decades.
-"I believe this is the first billionaire tax - meaning a wealth tax that is targeting a very extreme percentile of the wealth distribution," says Francesco Trebbi, a public policy professor at the University of California, Berkeley. He noted the measure's historic nature and how it could help even out California's wealth gap.
-The state has the largest economy in the country and boasts the fourth largest global economy, bigger than India and the UK. And it is home to one of the highest concentrations of billionaires in the world. But it also has the largest share of homeless people in the nation and one of the highest wealth gaps.
-Those who back the measure have argued it helps ensure that the ultra-wealthy are contributing their fair share and will help backfill gaps in the state's budget. The move aims to raise $100bn (£75bn) to make up for federal funding cuts to the state's health-care system.
-Suzanne Jimenez, chief of staff for Service Employees International Union-United Healthcare Workers West, which helped lead the charge for the initiative, says the measure is a "short-term solution" for massive federal funding cuts coming to California as a result of US President Donald Trump's sweeping tax and spending bill.
-"If we do nothing, we're going to see a collapse of our healthcare system, while we figure out a longer-term solution to fund our healthcare," she tells the BBC.
-While the ballot measure has many supporters - including some billionaires like Nvidia CEO Jensen Huang - it has faced fierce opposition from a variety of figures, from billionaires to the state's liberal governor.
-Google co-founder Sergey Brin has given more than $100m to a political organisation funding ballot measures that could block the wealth tax, the Los Angeles Times reports, external.
-California Governor Gavin Newsom, whose tenure is coming to an end, is perhaps the most notable political leader opposing it. He has voiced concerns that the measure could cause the wealthy to leave the state and drive out their crucial income tax revenue.
-A September poll, external from the Berkeley Institute of Governmental Studies and the Los Angeles Times found the proposition has not clearly won over a majority of voters, with 45% of likely voters in favour of the tax, 42% opposed and 13% undecided.
-The statewide ballot measure would need to be approved by a majority of residents.
-California is not the first place to toy with the idea of taxing the rich. Also on the West Coast, voters in US state of Washington are considering whether to accept or reject a "millionaires tax" - a 9.9% tax on income over $1m a year.
-While wealth taxes were once a fairly common form of taxation in Europe, they have rapidly fallen out of favour and now only exist in three European countries – Spain, Norway and Switzerland, says Dr Kristian Niemietz, head of political economy at the Institute of Economic Affairs.
-Niemietz believes wealth taxes are "more trouble than they are worth" because they cause administrative issues, suppress investment, lead to capital flight and, in the end, do not raise much revenue.
-In the case of Norway, a local news organisation found that an increase in the wealth tax led to more super wealthy people leaving the country in 2022, external than in the preceding 13 years combined. A study on Switzerland, external found that a 0.1 percentage point increase in a wealth tax reduced taxable wealth by 3.5%.
-The California measure, if approved, would apply retroactively to those with a net worth of at least $1bn who resided in California as of 1 January 2026. At least six of the state's 200 plus billionaires have reportedly left California ahead of that deadline to avoid the tax.
-They include Google co-founders Larry Page and Sergey Brin, venture capitalist Peter Thiel, former Uber CEO Travis Kalanick and Hankey Group founder Don Hankey.
-Hankey, a Los Angeles billionaire who has lived in California all his life, told Forbes he left for the state of Nevada as a result of the proposed wealth tax.
-"I think we've created a lot of jobs in California. We have a few thousand people working for us and we have a profit sharing plan. And I have to leave the state," he said, adding that the measure made him feel like he wasn't "wanted" in the state.
-Meta chief executive Mark Zuckerberg told the company's board last month that he was thinking of moving his primary residence out of California over the proposed tax.
-To prevent him from leaving the state - where the company is headquartered - Meta agreed to a new stock deal that gives Zuckerberg, whose wealth is estimated to exceed $200bn, even more shares in the company to make up for the billions he would lose if the measure passes in November. Estimates say he could owe as much as $12.5bn.
-DoorDash cofounder Andy Fang, who has an estimated net worth of $1.6bn, has called the measure "stupid" and wrote on X that "proposals like this make it irresponsible for me not to plan leaving the state".
-Meanwhile, businessman Tom Steyer, who ran an unsuccessful bid for California governor earlier this year, is one of the few billionaires who has said, external he would vote in favour of the tax. Steyer said that although he believed the way the measure was written was "problematic", it was necessary to protect vulnerable Californians.
-Huang, too, has expressed support of paying the levy.
-"I don't mind paying taxes. The more you make, the more taxes you pay. I'm okay with that," the Nvidia chief said in an interview with the BBC's US partner CBS. "I am the ultimate American Dream."
-Senator Bernie Sanders of Vermont, a vocal champion against income inequality, has campaigned in support of Prop 40.
-While at a Los Angeles rally, Sanders said billionaires "believe, like the monarchs of the 19th Century, that they have a God-given right to rule".
-"They have all the wealth, they got all the power, and who the hell do you think you are challenging them? Well, I think on November 3 they're going to learn a very powerful lesson."
-Income inequality in the US is at some of its highest levels, external in over three decades, with the top 1% of households owning nearly 32% of all US wealth in the third quarter of 2025. It is also near historic highs in California.
-Economic inequality is a concern among most Californians, with 72% believing that the gap between the rich and poor is widening and a similar share holding that state government should do more to reduce the gap, according to a statewide survey, external from the Public Policy Institute of California.
-Trebbi says it is an "anti-elite, anti-system sentiment" driving the policy.
-"This is really not about Prop 40," he says, but rather about trying to "re-balance the scale a little bit".
-Correction 24 October: An earlier version of this article contained a graphic which incorrectly said median income in California was $288,000. This has been corrected to median household net worth.`,
-    bodyJa: `Are California voters about to impose 'world's first' tax on billionaires?
-- Published
-Few places on the planet have as many ultra-wealthy residents as California, a US state known for glamour, coastal mega-mansions, and being home to the rich and famous.
-Now voters are about to decide whether the mega-rich among them - including media mogul Oprah Winfrey, Meta head Mark Zuckerberg, Skims cofounder and reality television star Kim Kardashian, and filmmaker George Lucas - should hand over billions of dollars to pay for improvements to healthcare.
-Proposition 40 is aimed at levying a one-time 5% tax on the net worth of all of California's billionaires.
-There are a little more than 200 such individuals in the state - but that hasn't stopped the measure from dividing leaders and causing some of its ultra-wealthy residents to flee. One billionaire businessman says he's brought jobs to California, but the proposition made him feel "a little bit like I wasn't wanted".
-What are the US midterms? A simple guide
-- Published6 October
-But the vote is also offering regular residents a voice on an issue that has roiled politics for decades.
-"I believe this is the first billionaire tax - meaning a wealth tax that is targeting a very extreme percentile of the wealth distribution," says Francesco Trebbi, a public policy professor at the University of California, Berkeley. He noted the measure's historic nature and how it could help even out California's wealth gap.
-The state has the largest economy in the country and boasts the fourth largest global economy, bigger than India and the UK. And it is home to one of the highest concentrations of billionaires in the world. But it also has the largest share of homeless people in the nation and one of the highest wealth gaps.
-Those who back the measure have argued it helps ensure that the ultra-wealthy are contributing their fair share and will help backfill gaps in the state's budget. The move aims to raise $100bn (£75bn) to make up for federal funding cuts to the state's health-care system.
-Suzanne Jimenez, chief of staff for Service Employees International Union-United Healthcare Workers West, which helped lead the charge for the initiative, says the measure is a "short-term solution" for massive federal funding cuts coming to California as a result of US President Donald Trump's sweeping tax and spending bill.
-"If we do nothing, we're going to see a collapse of our healthcare system, while we figure out a longer-term solution to fund our healthcare," she tells the BBC.
-While the ballot measure has many supporters - including some billionaires like Nvidia CEO Jensen Huang - it has faced fierce opposition from a variety of figures, from billionaires to the state's liberal governor.
-Google co-founder Sergey Brin has given more than $100m to a political organisation funding ballot measures that could block the wealth tax, the Los Angeles Times reports, external.
-California Governor Gavin Newsom, whose tenure is coming to an end, is perhaps the most notable political leader opposing it. He has voiced concerns that the measure could cause the wealthy to leave the state and drive out their crucial income tax revenue.
-A September poll, external from the Berkeley Institute of Governmental Studies and the Los Angeles Times found the proposition has not clearly won over a majority of voters, with 45% of likely voters in favour of the tax, 42% opposed and 13% undecided.
-The statewide ballot measure would need to be approved by a majority of residents.
-California is not the first place to toy with the idea of taxing the rich. Also on the West Coast, voters in US state of Washington are considering whether to accept or reject a "millionaires tax" - a 9.9% tax on income over $1m a year.
-While wealth taxes were once a fairly common form of taxation in Europe, they have rapidly fallen out of favour and now only exist in three European countries – Spain, Norway and Switzerland, says Dr Kristian Niemietz, head of political economy at the Institute of Economic Affairs.
-Niemietz believes wealth taxes are "more trouble than they are worth" because they cause administrative issues, suppress investment, lead to capital flight and, in the end, do not raise much revenue.
-In the case of Norway, a local news organisation found that an increase in the wealth tax led to more super wealthy people leaving the country in 2022, external than in the preceding 13 years combined. A study on Switzerland, external found that a 0.1 percentage point increase in a wealth tax reduced taxable wealth by 3.5%.
-The California measure, if approved, would apply retroactively to those with a net worth of at least $1bn who resided in California as of 1 January 2026. At least six of the state's 200 plus billionaires have reportedly left California ahead of that deadline to avoid the tax.
-They include Google co-founders Larry Page and Sergey Brin, venture capitalist Peter Thiel, former Uber CEO Travis Kalanick and Hankey Group founder Don Hankey.
-Hankey, a Los Angeles billionaire who has lived in California all his life, told Forbes he left for the state of Nevada as a result of the proposed wealth tax.
-"I think we've created a lot of jobs in California. We have a few thousand people working for us and we have a profit sharing plan. And I have to leave the state," he said, adding that the measure made him feel like he wasn't "wanted" in the state.
-Meta chief executive Mark Zuckerberg told the company's board last month that he was thinking of moving his primary residence out of California over the proposed tax.
-To prevent him from leaving the state - where the company is headquartered - Meta agreed to a new stock deal that gives Zuckerberg, whose wealth is estimated to exceed $200bn, even more shares in the company to make up for the billions he would lose if the measure passes in November. Estimates say he could owe as much as $12.5bn.
-DoorDash cofounder Andy Fang, who has an estimated net worth of $1.6bn, has called the measure "stupid" and wrote on X that "proposals like this make it irresponsible for me not to plan leaving the state".
-Meanwhile, businessman Tom Steyer, who ran an unsuccessful bid for California governor earlier this year, is one of the few billionaires who has said, external he would vote in favour of the tax. Steyer said that although he believed the way the measure was written was "problematic", it was necessary to protect vulnerable Californians.
-Huang, too, has expressed support of paying the levy.
-"I don't mind paying taxes. The more you make, the more taxes you pay. I'm okay with that," the Nvidia chief said in an interview with the BBC's US partner CBS. "I am the ultimate American Dream."
-Senator Bernie Sanders of Vermont, a vocal champion against income inequality, has campaigned in support of Prop 40.
-While at a Los Angeles rally, Sanders said billionaires "believe, like the monarchs of the 19th Century, that they have a God-given right to rule".
-"They have all the wealth, they got all the power, and who the hell do you think you are challenging them? Well, I think on November 3 they're going to learn a very powerful lesson."
-Income inequality in the US is at some of its highest levels, external in over three decades, with the top 1% of households owning nearly 32% of all US wealth in the third quarter of 2025. It is also near historic highs in California.
-Economic inequality is a concern among most Californians, with 72% believing that the gap between the rich and poor is widening and a similar share holding that state government should do more to reduce the gap, according to a statewide survey, external from the Public Policy Institute of California.
-Trebbi says it is an "anti-elite, anti-system sentiment" driving the policy.
-"This is really not about Prop 40," he says, but rather about trying to "re-balance the scale a little bit".
-Correction 24 October: An earlier version of this article contained a graphic which incorrectly said median income in California was $288,000. This has been corrected to median household net worth.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-23T23:11:31+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b0f/live/ff750910-ce7d-11f1-bc2e-018d645d8d21.jpg",
-    readTime: 10,
-  },
-  {
-    id: "student-movement-takes-serbia-s-vu-i-to-764ed8f6",
-    title: "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-    titleJa: "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-    summaryJa: "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
-    bodyOriginal: `Student movement takes Serbia's Vučić to the wire in neck-and-neck election
-- Published
-If Sunday's parliamentary elections really are a battle for the heart of Serbia, then who better than a cardiologist to be one of the leading figures in the race.
-Ilija Srdanović appears an unlikely opponent for Serbia's long-serving leader, Aleksandar Vučić, arriving for an interview by motorbike sporting a fluorescent yellow jacket emblazoned with pro-student slogans.
-He has been selected as top candidate for an opposition movement posing the most serious challenge to Vučić since the Serbian Progressive Party (SNS) entered government in 2012.
-The Student List has emerged from almost two years of anti-corruption protests led by young Serbians, outraged by the deaths of 16 people when a railway station's canopy collapsed in Serbia's second city Novi Sad.
-What you need to know about Serbia's pivotal election
-- Published1 day ago
-Instead of running for office themselves, student-led assemblies at the country's university faculties have chosen 250 candidates to stand in the parliamentary election, with Srdanović, professor at Novi Sad University, heading the list.
-"It is absolutely normal to stand with my students to help them in their fair struggle," Srdanović told the BBC.
-The Student List is up against a Serbian leader who has served successively as deputy prime minister, prime minister and president since 2012. When he called these snap elections last month, he stood down as president to run again for the role of prime minister.
-Whatever Vučić's title, there has never been any doubt that he was the man in charge – an image enthusiastically promoted by Serbia's largely uncritical media.
-He retains strong support among a significant section of Serbia's population. They view him as a strong leader who stands up for the country's interests. He can also point to significant economic growth over the past decade and numerous improvements in infrastructure.
-Vučić has painted the student movement as foreign-backed and seeking to "bring down our state". "Let us always protect and defend it," he told supporters at a final campaign rally.
-Just like the protest movement from which it developed, the Student List has no hierarchy or nominated leader. This makes it a proposition unlike any other in Serbia's relatively short democratic history.
-Reliable polls are thin on the ground, but analysts are predicting an extremely tight vote.
-Ilija Srdanović may head the list of candidates – but he is not the movement's leader and would not necessarily be first choice prime minister if they won.
-Srdanović insists that the Student List has a clear vision: "We offer to our citizens the core values of civilised society, which this previous regime has taken away from our citizens for the last time."
-The other candidates on the Student List range from academics to athletes – and economists to engineers. None of them has a political background. But the students who selected them believe that is a strength, rather than a weakness.
-"We've gathered people who are actually the best in their fields, and we really think that they are competent enough to rule the country," says Aleksandra, a student at Novi Sad University who only wants to give her first name.
-"All of them are gathered around the same vision of a country where the freedom of speech is ruling, where you can walk to your home in the middle of the night and you will not be beaten up by some hooligans," she adds.
-The Student List and its supporters say that Aleksandar Vučić and the SNS dominate state institutions and media coverage.
-At the last parliamentary election in 2023, the International Election Observation Mission noted "overwhelming ruling party advantage" due to "bias in the media" and "misuse of public office and resources".
-The BBC approached leading figures in the SNS for an interview but was not offered a response.
-For the past 18 months, there has also been a full-time, pro-SNS camp in the small park between the National Assembly and the Presidency building in the centre of Belgrade. Its residents have repeatedly attacked journalists and made the park a no-go zone for local people.
-Vučić has called the camp "a symbol of resistance" against those who "cannot stand different opinions".
-But his major challenge remains what happened outside Novi Sad railway station two years ago.
-The station's renovation was a key part of his signature infrastructure project – the high-speed line linking Belgrade and Budapest. So it has been difficult for Vučić to distance himself from the disaster.
-Protests followed, with participants accusing the authorities of corruption and having "blood on their hands".
-"This is a problem for the government," says Magda Anastasijevic, the Eastern Europe analyst for the conflict monitor, ACLED.
-"Vučić has survived this in the past, he was always able to find a scapegoat and blame whatever problems on them. This was not the case for the canopy."
-On the diplomatic front, he has performed a delicate balancing act.
-Membership talks with the EU continue, albeit fitfully, even as Serbia retains close ties with Russia and China – both countries that refuse to recognise Kosovo's unilateral declaration of independence from Serbia.
-Vučić has warned those links could be severed if the Student List took power.
-"When you ask them: will you impose sanctions on Russia? Silence, umming and ah-ing, but no answer," he told the audience at a pre-election rally.
-"You know what the Chinese think, you've heard what Vladimir Putin said. So you decide. Think about who has our best interests at heart."
-The final rallies of the campaign saw the SNS stage an event at Belgrade Arena, with Aleksandar Vučić as the only speaker. But on the other side of the Sava River, the Student List attracted a reported 150,000 people in Slavija Square to listen to a mixture of students and candidates.
-The contrasting visions were clear to see: the strong, sole leader – or a collective approach. Now Serbia's electorate must decide which they prefer.`,
-    bodyJa: `Student movement takes Serbia's Vučić to the wire in neck-and-neck election
-- Published
-If Sunday's parliamentary elections really are a battle for the heart of Serbia, then who better than a cardiologist to be one of the leading figures in the race.
-Ilija Srdanović appears an unlikely opponent for Serbia's long-serving leader, Aleksandar Vučić, arriving for an interview by motorbike sporting a fluorescent yellow jacket emblazoned with pro-student slogans.
-He has been selected as top candidate for an opposition movement posing the most serious challenge to Vučić since the Serbian Progressive Party (SNS) entered government in 2012.
-The Student List has emerged from almost two years of anti-corruption protests led by young Serbians, outraged by the deaths of 16 people when a railway station's canopy collapsed in Serbia's second city Novi Sad.
-What you need to know about Serbia's pivotal election
-- Published1 day ago
-Instead of running for office themselves, student-led assemblies at the country's university faculties have chosen 250 candidates to stand in the parliamentary election, with Srdanović, professor at Novi Sad University, heading the list.
-"It is absolutely normal to stand with my students to help them in their fair struggle," Srdanović told the BBC.
-The Student List is up against a Serbian leader who has served successively as deputy prime minister, prime minister and president since 2012. When he called these snap elections last month, he stood down as president to run again for the role of prime minister.
-Whatever Vučić's title, there has never been any doubt that he was the man in charge – an image enthusiastically promoted by Serbia's largely uncritical media.
-He retains strong support among a significant section of Serbia's population. They view him as a strong leader who stands up for the country's interests. He can also point to significant economic growth over the past decade and numerous improvements in infrastructure.
-Vučić has painted the student movement as foreign-backed and seeking to "bring down our state". "Let us always protect and defend it," he told supporters at a final campaign rally.
-Just like the protest movement from which it developed, the Student List has no hierarchy or nominated leader. This makes it a proposition unlike any other in Serbia's relatively short democratic history.
-Reliable polls are thin on the ground, but analysts are predicting an extremely tight vote.
-Ilija Srdanović may head the list of candidates – but he is not the movement's leader and would not necessarily be first choice prime minister if they won.
-Srdanović insists that the Student List has a clear vision: "We offer to our citizens the core values of civilised society, which this previous regime has taken away from our citizens for the last time."
-The other candidates on the Student List range from academics to athletes – and economists to engineers. None of them has a political background. But the students who selected them believe that is a strength, rather than a weakness.
-"We've gathered people who are actually the best in their fields, and we really think that they are competent enough to rule the country," says Aleksandra, a student at Novi Sad University who only wants to give her first name.
-"All of them are gathered around the same vision of a country where the freedom of speech is ruling, where you can walk to your home in the middle of the night and you will not be beaten up by some hooligans," she adds.
-The Student List and its supporters say that Aleksandar Vučić and the SNS dominate state institutions and media coverage.
-At the last parliamentary election in 2023, the International Election Observation Mission noted "overwhelming ruling party advantage" due to "bias in the media" and "misuse of public office and resources".
-The BBC approached leading figures in the SNS for an interview but was not offered a response.
-For the past 18 months, there has also been a full-time, pro-SNS camp in the small park between the National Assembly and the Presidency building in the centre of Belgrade. Its residents have repeatedly attacked journalists and made the park a no-go zone for local people.
-Vučić has called the camp "a symbol of resistance" against those who "cannot stand different opinions".
-But his major challenge remains what happened outside Novi Sad railway station two years ago.
-The station's renovation was a key part of his signature infrastructure project – the high-speed line linking Belgrade and Budapest. So it has been difficult for Vučić to distance himself from the disaster.
-Protests followed, with participants accusing the authorities of corruption and having "blood on their hands".
-"This is a problem for the government," says Magda Anastasijevic, the Eastern Europe analyst for the conflict monitor, ACLED.
-"Vučić has survived this in the past, he was always able to find a scapegoat and blame whatever problems on them. This was not the case for the canopy."
-On the diplomatic front, he has performed a delicate balancing act.
-Membership talks with the EU continue, albeit fitfully, even as Serbia retains close ties with Russia and China – both countries that refuse to recognise Kosovo's unilateral declaration of independence from Serbia.
-Vučić has warned those links could be severed if the Student List took power.
-"When you ask them: will you impose sanctions on Russia? Silence, umming and ah-ing, but no answer," he told the audience at a pre-election rally.
-"You know what the Chinese think, you've heard what Vladimir Putin said. So you decide. Think about who has our best interests at heart."
-The final rallies of the campaign saw the SNS stage an event at Belgrade Arena, with Aleksandar Vučić as the only speaker. But on the other side of the Sava River, the Student List attracted a reported 150,000 people in Slavija Square to listen to a mixture of students and candidates.
-The contrasting visions were clear to see: the strong, sole leader – or a collective approach. Now Serbia's electorate must decide which they prefer.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-23T23:08:23+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7667/live/b6bb68f0-cef9-11f1-b441-2b33b063138f.jpg",
-    readTime: 10,
-  },
-  {
-    id: "moody-s-holds-steady-on-france-s-credit-35a7a7d0",
-    title: "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
-    titleJa: "Moody's holds steady on France's credit rating as country grapples with turmoil and higher yields",
-    summaryJa: "Moody's left its credit rating on France at Aa3, giving the country some relief in a week of unrest.",
-    bodyOriginal: `Moody's opted to maintain its credit rating on France as the country contended with a week of civil unrest and rising political risk.
-The agency kept France's credit rating at Aa3, a level Moody's still deems "high grade," but it also maintained its negative outlook on the nation.
-"The negative outlook reflects the increased risk that the fragmentation of France's political landscape will continue to impair the functioning of the country's legislative institutions," Moody's said in its report.
-Moody's noted that it could return France's outlook to stable if its institutions can narrow the deficit.
-Investors were anticipating Moody's rating decision as France, the second-largest economy in the euro zone, grappled with protests and a sharp surge in bond yields.
-"This political instability, also visible in the current social tensions, risks hampering the French government's ability to address key policy challenges such as an elevated fiscal deficit, rising debt burden, and durable increase in borrowing costs, thus leading to a more rapid weakening in the sovereign's key credit metrics than we currently expect," Moody's said in its report Friday.
-This week, the nation's 10-year bond yield surpassed 5% for the first time since 2002. The spread against German bunds is also at a 15-year peak.
-Currently, France's deficit-to-GDP ratio is at roughly 5.5% of its GDP, sharply above the 3% limit for member nations in the European Union. The country faces more than $1 trillion of debt that will mature by 2030. Just a month ago, the French finance ministry warned that the nation's debt-to-GDP ratio is expected to hit 121.7% in 2027.
-At the same time, France has been rocked by protests. Last weekend, more than 500,000 people marched to express their frustration against declining public services and high costs of living.
-S&P Global and Fitch cut their ratings on France in 2025.`,
-    bodyJa: `Moody's opted to maintain its credit rating on France as the country contended with a week of civil unrest and rising political risk.
-The agency kept France's credit rating at Aa3, a level Moody's still deems "high grade," but it also maintained its negative outlook on the nation.
-"The negative outlook reflects the increased risk that the fragmentation of France's political landscape will continue to impair the functioning of the country's legislative institutions," Moody's said in its report.
-Moody's noted that it could return France's outlook to stable if its institutions can narrow the deficit.
-Investors were anticipating Moody's rating decision as France, the second-largest economy in the euro zone, grappled with protests and a sharp surge in bond yields.
-"This political instability, also visible in the current social tensions, risks hampering the French government's ability to address key policy challenges such as an elevated fiscal deficit, rising debt burden, and durable increase in borrowing costs, thus leading to a more rapid weakening in the sovereign's key credit metrics than we currently expect," Moody's said in its report Friday.
-This week, the nation's 10-year bond yield surpassed 5% for the first time since 2002. The spread against German bunds is also at a 15-year peak.
-Currently, France's deficit-to-GDP ratio is at roughly 5.5% of its GDP, sharply above the 3% limit for member nations in the European Union. The country faces more than $1 trillion of debt that will mature by 2030. Just a month ago, the French finance ministry warned that the nation's debt-to-GDP ratio is expected to hit 121.7% in 2027.
-At the same time, France has been rocked by protests. Last weekend, more than 500,000 people marched to express their frustration against declining public services and high costs of living.
-S&P Global and Fitch cut their ratings on France in 2025.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/23/moodys-holds-steady-on-frances-credit-rating-as-country-grapples-with-turmoil-and-higher-yields.html",
-    publishedAt: "2026-10-23T22:49:42+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "i-don-t-feel-sorry-for-myself-i-m-64-an-a138ab34",
-    title: "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-    titleJa: "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?",
-    summaryJa: "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
-    bodyOriginal: `“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”`,
-    bodyJa: `“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
-    publishedAt: "2026-10-23T22:49:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-27247005",
-    readTime: 2,
-  },
-  {
-    id: "father-who-killed-oregon-school-gunman-d-47a21698",
-    title: "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-    titleJa: "Father who killed Oregon school gunman describes anguish over children he couldn't save",
-    summaryJa: "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
-    bodyOriginal: `Father who killed Oregon school gunman describes anguish over children he couldn't save
-- Published
-A father who fatally shot a gunman at his daughters' school in the US state of Oregon has described his anguish over being unable to save more pupils after "hearing children pleading for their lives".
-Three students and a teacher were killed by a 16-year-old former student at Silver Rail Elementary School earlier this month. The attacker was then killed by Kaylub Giamanco.
-"I want to apologise for not saving their babies," Giamanco, who has been hailed as a hero, said of his thoughts for the parents of the children killed, in an interview with Oregon Public Broadcasting (OPB) that aired on Friday.
-"The gratitude for saving people's children is awesome, but there were ones that I didn't save."
-Giamanco, 36, said he wanted to meet the victims' families and "cry with them and hold them".
-He credited a teacher who fought the attacker with giving him the chance to intervene without losing his own life.
-"I would love to give her a hug because that's a real true hero," he said.
-The students who were killed were all boys, aged five, eight and 11. They were among six people in total who were shot in a classroom at the school, police said. Alongside the teacher who was killed, another child and a teacher were wounded.
-Giamanco told OPB that the day of the attack began with breakfast and making packed lunches. He and his wife had spent extra time getting their daughters ready because it was school picture day.
-The carpenter had taken lunch to work but decided to go home to eat with his wife instead. That decision brought him past the school as the attack began.
-He initially wondered whether someone carrying a long gun was playing a prank. Then he saw him fire at a pickup truck and head towards the school.
-Giamanco retrieved a handgun from his vehicle and called emergency services.
-"I said, 'I'm sorry, I have to go in. People are going to die'," he told the broadcaster.
-He followed the attacker, who shot through the school's locked glass doors. Hearing children pleading for their lives and more gunfire, Giamanco crawled towards the building.
-"I told myself this is probably the last thing that I'm ever going to do," he said.
-Giamanco crawled through a shattered window and reached the classroom, where a teacher was locked in a struggle with the gunman. He opened the door and fired.
-Giamanco told OPB he fired again when the attacker reached for his weapon. He then placed his own gun on the ground and raised his hands as an officer appeared.
-He described feeling like the "last line of defence" between the children and the gunman, and said he "was supposed to be there" that day.
-Afterwards, he called his wife to say he would not be home for lunch and that she needed to get to the school immediately. He then called his mother to tell her what had happened.
-"Mum, I just had to take the life of what I think is might be a child because he ran into my daughter's school with a gun," he said.
-Police identified the gunman as Griffin J John II - a former pupil who had attended special education classes at the school. His motive remains under investigation.
-Police said the teacher who confronted the attacker had thrown her phone at him, tackled him and fought to take his shotgun. Bend Police Chief Mike Krantz said she "almost certainly helped prevent more bloodshed".
-The youngest victim was Rhoam Summer, aged five. His father said the family was "broken and lost".
-Megan Lambert, 25, the teacher who was killed, was working in what her family described as her "dream job".
-"She always fought for the underdog and those with special needs," they said.
-The other two boys have not been publicly named at their families' request.
-The injured teacher has been named as Becky Drury, 54. She said in a statement shared with US media that the gunman shot her as she tried to shut her classroom door.
-Giamanco's name became public less than a day after the shooting. His mother, Kenda Freeman, read a family statement saying he was not seeking recognition and asking for privacy.
-Shortly after the attack, Oregon Governor Tina Kotek praised his intervention while acknowledging its emotional cost.
-"Your actions carry a heavy emotional burden, and I just want you to know that my thoughts are with you as well," she said.
-Giamanco told OPB he now lies awake after his family goes to bed, replaying the attack.
-"I relive, I see faces, I hear voices, I hear screams."`,
-    bodyJa: `Father who killed Oregon school gunman describes anguish over children he couldn't save
-- Published
-A father who fatally shot a gunman at his daughters' school in the US state of Oregon has described his anguish over being unable to save more pupils after "hearing children pleading for their lives".
-Three students and a teacher were killed by a 16-year-old former student at Silver Rail Elementary School earlier this month. The attacker was then killed by Kaylub Giamanco.
-"I want to apologise for not saving their babies," Giamanco, who has been hailed as a hero, said of his thoughts for the parents of the children killed, in an interview with Oregon Public Broadcasting (OPB) that aired on Friday.
-"The gratitude for saving people's children is awesome, but there were ones that I didn't save."
-Giamanco, 36, said he wanted to meet the victims' families and "cry with them and hold them".
-He credited a teacher who fought the attacker with giving him the chance to intervene without losing his own life.
-"I would love to give her a hug because that's a real true hero," he said.
-The students who were killed were all boys, aged five, eight and 11. They were among six people in total who were shot in a classroom at the school, police said. Alongside the teacher who was killed, another child and a teacher were wounded.
-Giamanco told OPB that the day of the attack began with breakfast and making packed lunches. He and his wife had spent extra time getting their daughters ready because it was school picture day.
-The carpenter had taken lunch to work but decided to go home to eat with his wife instead. That decision brought him past the school as the attack began.
-He initially wondered whether someone carrying a long gun was playing a prank. Then he saw him fire at a pickup truck and head towards the school.
-Giamanco retrieved a handgun from his vehicle and called emergency services.
-"I said, 'I'm sorry, I have to go in. People are going to die'," he told the broadcaster.
-He followed the attacker, who shot through the school's locked glass doors. Hearing children pleading for their lives and more gunfire, Giamanco crawled towards the building.
-"I told myself this is probably the last thing that I'm ever going to do," he said.
-Giamanco crawled through a shattered window and reached the classroom, where a teacher was locked in a struggle with the gunman. He opened the door and fired.
-Giamanco told OPB he fired again when the attacker reached for his weapon. He then placed his own gun on the ground and raised his hands as an officer appeared.
-He described feeling like the "last line of defence" between the children and the gunman, and said he "was supposed to be there" that day.
-Afterwards, he called his wife to say he would not be home for lunch and that she needed to get to the school immediately. He then called his mother to tell her what had happened.
-"Mum, I just had to take the life of what I think is might be a child because he ran into my daughter's school with a gun," he said.
-Police identified the gunman as Griffin J John II - a former pupil who had attended special education classes at the school. His motive remains under investigation.
-Police said the teacher who confronted the attacker had thrown her phone at him, tackled him and fought to take his shotgun. Bend Police Chief Mike Krantz said she "almost certainly helped prevent more bloodshed".
-The youngest victim was Rhoam Summer, aged five. His father said the family was "broken and lost".
-Megan Lambert, 25, the teacher who was killed, was working in what her family described as her "dream job".
-"She always fought for the underdog and those with special needs," they said.
-The other two boys have not been publicly named at their families' request.
-The injured teacher has been named as Becky Drury, 54. She said in a statement shared with US media that the gunman shot her as she tried to shut her classroom door.
-Giamanco's name became public less than a day after the shooting. His mother, Kenda Freeman, read a family statement saying he was not seeking recognition and asking for privacy.
-Shortly after the attack, Oregon Governor Tina Kotek praised his intervention while acknowledging its emotional cost.
-"Your actions carry a heavy emotional burden, and I just want you to know that my thoughts are with you as well," she said.
-Giamanco told OPB he now lies awake after his family goes to bed, replaying the attack.
-"I relive, I see faces, I hear voices, I hear screams."`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-23T22:47:07+00:00",
-    category: "自動車",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2348/live/e4a29f10-cf42-11f1-93e1-3b657b665bcf.jpg",
-    readTime: 10,
-  },
-  {
-    id: "will-anthropic-pull-off-a-november-ipo-t-4e68d176",
-    title: "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
-    titleJa: "Will Anthropic pull off a November IPO? Time is running out to file key paperwork.",
-    summaryJa: "If market pressures keep building, Anthropic “could reasonably decide it is better to stay private and wait for a better opportunity,” one portfolio manager says.",
-    bodyOriginal: `If market pressures keep building, Anthropic “could reasonably decide it is better to stay private and wait for a better opportunity,” one portfolio manager says.`,
-    bodyJa: `If market pressures keep building, Anthropic “could reasonably decide it is better to stay private and wait for a better opportunity,” one portfolio manager says.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
-    publishedAt: "2026-10-23T22:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-31670167",
-    readTime: 2,
-  },
-  {
-    id: "investors-piled-a-record-sum-into-a-leve-4137b6ad",
-    title: "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
-    titleJa: "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
-    summaryJa: "Traders making bullish bets on chip stocks are getting walloped this month, as renewed fears emerged about investment returns on the buildout of artificial intelligence.",
-    bodyOriginal: `Traders making bullish bets on chip stocks are getting walloped this month, as renewed fears emerged about investment returns on the buildout of artificial intelligence.`,
-    bodyJa: `Traders making bullish bets on chip stocks are getting walloped this month, as renewed fears emerged about investment returns on the buildout of artificial intelligence.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
-    publishedAt: "2026-10-23T21:46:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-51837852",
-    readTime: 2,
   },
 ];
 
