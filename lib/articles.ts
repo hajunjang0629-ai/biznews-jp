@@ -15,6 +15,388 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "brazil-s-lula-wins-historic-presidential-7191eef2",
+    title: "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
+    titleJa: "Brazil's Lula wins historic presidential election; Bolsonaro reportedly refuses to concede",
+    summaryJa: "It's the first time since Brazil returned to direct elections in 1989 that a candidate has won the final runoff after losing in the first round.",
+    bodyOriginal: `Luiz Inácio Lula da Silva has won an unprecedented fourth term as Brazil's president, overturning a first-round deficit to beat Senator Flávio Bolsonaro in a runoff that split the country almost evenly.
+Lula took 51.8% of valid votes to Bolsonaro's 48.2%, according to the Superior Electoral Court, with nearly all ballots counted on Sunday.
+The results are also historic as it's the first time since Brazil returned to direct elections in 1989 that a candidate has won the final runoff after losing in the first round.
+Bolsonaro refused to concede defeat, saying he would seek the annulment of the outcome, Reuters reported. He also said a ruling by the Supreme Court Justice Cristiano Zanin to extend voting for two hours was "unacceptable," according to the report.
+The election process was marred by allegations of voter suppression, with Lula's campaign reporting suspended public transportation in some key areas, prompting the court to extend voting by two hours. Bolsonaro's campaign had also requested an extension, citing heavy rains that shut polling stations in the south, a right-wing stronghold.
+The victory of the 80-year-old leftist, who had trailed in the first round, blocks a rightward shift in Latin America that U.S. President Donald Trump has backed.
+Trump, who had labeled Bolsonaro's lead in the first round as "a very, very big victory," would have preferred a Brazilian in closer alignment to U.S. foreign policy as Washington makes efforts to project U.S. power across the Americas, according to Daniela Portella Sampaio, senior research fellow for Latin American Security at the U.K. think tank Royal United Services Institute.
+Lula, who has publicly sparred with Trump, is set to govern from 2027 to 2030, facing a Congress where Bolsonaro's Liberal Party holds the largest bench in decades, and with a substantial public debt that he would need to stabilize.
+Brazil, under Lula's leadership, has grappled with worsening fiscal health and mounting public debt driven by double-digit interest rates, elevated cost of servicing the debt, and rigid mandatory spending. Gross debt reached 82.9% of the country's GDP in August, the highest since March 2021, according to the Central Bank of Brazil.
+Markets bracing for rout?
+Investors are bracing for heightened volatility across Brazilian markets on Monday following Lula's victory as the right-wing Bolsonaro was seen as more likely to push for fiscal austerity and deregulation.
+The iShares MSCI Brazil ETF (EWZ) plunged nearly 20% in overnight trading following election results.
+Analysts had expected a rally in Brazilian assets before Sunday's election results, with Bolsonaro holding a narrow lead earlier this month. Chris Turner, Global Head of Markets and Regional Head of Research for UK & CEE at ING, had forecast both the currency and bond markets to rally if Bolsonaro won.
+The new president will need to convince investors that Brazil can stabilize its debt trajectory, said Alejo Czerwonko, a fellow at the Atlantic Council. Lula's administration will likely extend the more "gradual approach," building on the existing fiscal framework while seeking to preserve public investment and social spending, Czerwonko said.
+Goldman Sachs analysts expect "modest measures" to contain the government's spending growth, alongside further increases in an already high tax burden, while major structural reforms remain unlikely.
+Leaders from across Latin America largely congratulated Lula's historic win.
+Peruvian President Keiko Fujimori, in a post on X late Sunday, hailed Lula's victory, calling it a "democratic day" for the Brazilian people. Uruguay President Orsi Yamandu congratulated Lula over a call, calling the Brazilian president a "friend."
+Lula's victory came the same day as Serbia's long-serving strongman leader, Aleksandar Vucic, conceded defeat in a parliamentary election to the student-led opposition movement, ending 14 years of leadership.
+— CNBC's Matthew Tan contributed to this report.`,
+    bodyJa: `Luiz Inácio Lula da Silva has won an unprecedented fourth term as Brazil's president, overturning a first-round deficit to beat Senator Flávio Bolsonaro in a runoff that split the country almost evenly.
+Lula took 51.8% of valid votes to Bolsonaro's 48.2%, according to the Superior Electoral Court, with nearly all ballots counted on Sunday.
+The results are also historic as it's the first time since Brazil returned to direct elections in 1989 that a candidate has won the final runoff after losing in the first round.
+Bolsonaro refused to concede defeat, saying he would seek the annulment of the outcome, Reuters reported. He also said a ruling by the Supreme Court Justice Cristiano Zanin to extend voting for two hours was "unacceptable," according to the report.
+The election process was marred by allegations of voter suppression, with Lula's campaign reporting suspended public transportation in some key areas, prompting the court to extend voting by two hours. Bolsonaro's campaign had also requested an extension, citing heavy rains that shut polling stations in the south, a right-wing stronghold.
+The victory of the 80-year-old leftist, who had trailed in the first round, blocks a rightward shift in Latin America that U.S. President Donald Trump has backed.
+Trump, who had labeled Bolsonaro's lead in the first round as "a very, very big victory," would have preferred a Brazilian in closer alignment to U.S. foreign policy as Washington makes efforts to project U.S. power across the Americas, according to Daniela Portella Sampaio, senior research fellow for Latin American Security at the U.K. think tank Royal United Services Institute.
+Lula, who has publicly sparred with Trump, is set to govern from 2027 to 2030, facing a Congress where Bolsonaro's Liberal Party holds the largest bench in decades, and with a substantial public debt that he would need to stabilize.
+Brazil, under Lula's leadership, has grappled with worsening fiscal health and mounting public debt driven by double-digit interest rates, elevated cost of servicing the debt, and rigid mandatory spending. Gross debt reached 82.9% of the country's GDP in August, the highest since March 2021, according to the Central Bank of Brazil.
+Markets bracing for rout?
+Investors are bracing for heightened volatility across Brazilian markets on Monday following Lula's victory as the right-wing Bolsonaro was seen as more likely to push for fiscal austerity and deregulation.
+The iShares MSCI Brazil ETF (EWZ) plunged nearly 20% in overnight trading following election results.
+Analysts had expected a rally in Brazilian assets before Sunday's election results, with Bolsonaro holding a narrow lead earlier this month. Chris Turner, Global Head of Markets and Regional Head of Research for UK & CEE at ING, had forecast both the currency and bond markets to rally if Bolsonaro won.
+The new president will need to convince investors that Brazil can stabilize its debt trajectory, said Alejo Czerwonko, a fellow at the Atlantic Council. Lula's administration will likely extend the more "gradual approach," building on the existing fiscal framework while seeking to preserve public investment and social spending, Czerwonko said.
+Goldman Sachs analysts expect "modest measures" to contain the government's spending growth, alongside further increases in an already high tax burden, while major structural reforms remain unlikely.
+Leaders from across Latin America largely congratulated Lula's historic win.
+Peruvian President Keiko Fujimori, in a post on X late Sunday, hailed Lula's victory, calling it a "democratic day" for the Brazilian people. Uruguay President Orsi Yamandu congratulated Lula over a call, calling the Brazilian president a "friend."
+Lula's victory came the same day as Serbia's long-serving strongman leader, Aleksandar Vucic, conceded defeat in a parliamentary election to the student-led opposition movement, ending 14 years of leadership.
+— CNBC's Matthew Tan contributed to this report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html",
+    publishedAt: "2026-10-26T04:09:41+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "musk-says-spacex-landed-a-40-billion-deb-2443bc3c",
+    title: "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
+    titleJa: "Musk says SpaceX landed a $40 billion debt deal — and forecasts doom for some AI rivals",
+    summaryJa: "SpaceX is rapidly growing an AI business that rents out access to advanced chips.",
+    bodyOriginal: `SpaceX is rapidly growing an AI business that rents out access to advanced chips.`,
+    bodyJa: `SpaceX is rapidly growing an AI business that rents out access to advanced chips.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
+    publishedAt: "2026-10-26T01:50:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-46961561",
+    readTime: 2,
+  },
+  {
+    id: "spacex-closes-40-billion-debt-deal-for-a-1d863b40",
+    title: "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+    titleJa: "SpaceX closes $40 billion debt deal for AI chips, Elon Musk says",
+    summaryJa: "Elon Musk said in an X post that SpaceX has closed $40 billion in debt financing to purchase GPUs.",
+    bodyOriginal: `Elon Musk said SpaceX has closed $40 billion in debt financing to purchase graphics processing units, or GPUs, used to power artificial intelligence systems.
+In a post on X on Sunday, Musk said SpaceX had closed the financing, adding that the company was investment grade and generated revenue from its Starlink satellite internet and rocket launch businesses.
+In a follow-up post, he added that the financing, primarily consisted of callable debt for graphics processing units, is expected to arrive in the first and second quarters of 2027.
+Bloomberg reported earlier, citing people familiar with the matter, that SpaceX was in talks with banks and investors to raise $40 billion to purchase Nvidia chips.
+The proposed financing would use a special purpose vehicle to keep the debt off SpaceX's balance sheet and preserve its investment-grade credit ratings, according to Bloomberg.
+Goldman Sachs was leading talks with investors, including Apollo Global Management, over the financing structure, according to Bloomberg.
+The financing underscores the enormous capital requirements of the AI boom, as technology companies pour billions of dollars into advanced chips and data centers to support increasingly powerful AI models.
+SpaceX has expanded aggressively into artificial intelligence this year, referring to the business as "Super Intelligence," or SI.
+The segment has become the company's largest business unit, with third-quarter revenue surging ninefold to $7.56 billion from $813 million a year earlier, according to its latest earnings release.
+Musk also said that debt markets have largely shut off access to financing for companies without substantial revenue outside AI data centers.
+He predicted that more than 200 so-called neocloud companies, which provide cloud computing infrastructure specifically designed for artificial intelligence and machine learning workloads, would face widespread failures and consolidation, with only a small number surviving.`,
+    bodyJa: `Elon Musk said SpaceX has closed $40 billion in debt financing to purchase graphics processing units, or GPUs, used to power artificial intelligence systems.
+In a post on X on Sunday, Musk said SpaceX had closed the financing, adding that the company was investment grade and generated revenue from its Starlink satellite internet and rocket launch businesses.
+In a follow-up post, he added that the financing, primarily consisted of callable debt for graphics processing units, is expected to arrive in the first and second quarters of 2027.
+Bloomberg reported earlier, citing people familiar with the matter, that SpaceX was in talks with banks and investors to raise $40 billion to purchase Nvidia chips.
+The proposed financing would use a special purpose vehicle to keep the debt off SpaceX's balance sheet and preserve its investment-grade credit ratings, according to Bloomberg.
+Goldman Sachs was leading talks with investors, including Apollo Global Management, over the financing structure, according to Bloomberg.
+The financing underscores the enormous capital requirements of the AI boom, as technology companies pour billions of dollars into advanced chips and data centers to support increasingly powerful AI models.
+SpaceX has expanded aggressively into artificial intelligence this year, referring to the business as "Super Intelligence," or SI.
+The segment has become the company's largest business unit, with third-quarter revenue surging ninefold to $7.56 billion from $813 million a year earlier, according to its latest earnings release.
+Musk also said that debt markets have largely shut off access to financing for companies without substantial revenue outside AI data centers.
+He predicted that more than 200 so-called neocloud companies, which provide cloud computing infrastructure specifically designed for artificial intelligence and machine learning workloads, would face widespread failures and consolidation, with only a small number surviving.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+    publishedAt: "2026-10-26T00:37:51+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "healey-s-budget-needs-to-sustain-the-str-eefb69b5",
+    title: "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+    titleJa: "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+    summaryJa: "The economic is positive now but come January things could become trickier for the Labour government",
+    bodyOriginal: `There have been almost no Budget leaks.
+The chancellor's aides are using intelligence-style security measures to guard its secrets: the Budget has been split into "compartments" with very few given access to all of them. There are codenames. The IT has been locked down and ministers viewing the plans have to sign a digital promise not to brief media.
+Such security is a response to the feeling that speculation around the last Budget, sometimes informed by insiders, was economically destabilising.
+As a recent former defence secretary, Chancellor John Healey has embraced such strict procedures, and has approached most of his public engagements and interviews with a sturdy refusal to break the Budget omertà, akin to his fellow Yorkshireman Geoffrey Boycott's at times ultra-defensive stance on a cricket pitch.
+The economic news has been good - growth has been better than expected and the International Monetary Fund has endorsed the UK for "standing out" among the G7 countries for at least planning to cut borrowing.
+The bond market's reverse beauty contest, in which investors single out the countries they distrust most, has moved on from Britain. Traders I occasionally hear from who were once focused on UK borrowing costs are now more preoccupied with "le spread" - the widening gap between French and German borrowing costs (the former being higher than the latter) - and with America's long-term debt outlook.
+And yet there are clouds on the horizon. The inflation rate rose more than forecast to 3.5% in September, and borrowing numbers were also higher than forecast. This means an imminent Bank of England rate rise is very much on the cards, with the resultant rise in mortgage repayments for some.
+Credibility with investors requires not just that Budget maths add up on Wednesday, but also belief that growth plans are realistic, and the perception that Downing Street can actually convince MPs to pass its Budget.
+The question for John Healey is whether he can deliver a Budget that can sustain the revival in growth and offer the help with the cost of living that his backbenchers demand. At the same time he needs to reassure the markets that his budget will keep a check on borrowing.
+The curious case of the UK economy
+"Is it resilient, or is it actually strong?" has been the tone of the debate among economists about the curious case of the UK economy ahead what is a vital Budget.
+The UK is the fastest growing G7 country so far this year, at 0.6% in Q1 and 0.5% in Q2. The widespread assumption of stagnation in the second half is being defied with Q3 heading for 0.6 to 0.8%.
+Each quarter has seen growth twice as fast as predicted by the Office for Budget Responsibility (OBR) in March and independent forecasters. This is the fastest growth in the first eight months of a year since 2017, ignoring the post-lockdown re-opening.
+It's more resilient than it was in 2022. Back then, the Ukraine war, massive energy bailouts, and Liz Truss' mini budget all culminated in the UK facing the highest borrowing costs in the G7, in what was derided in financial markets as a "moron premium".
+Then last year, with constant policy u-turns, UK borrowing costs rose the most of the G7.
+This year the gap has narrowed, as uncertainty about the US and France takes centre stage, but all advanced economies are feeling the heat from the Iran war energy shock.
+Inflation has risen, but not just in Britain. Reforms to the electricity market have weakened the link between gas and electricity prices, meaning spikes in gas prices have less impact on electricity bills than they used to and helping to keep inflation lower than it otherwise might have been.
+The fact that up until now the Iran war has been more of an oil shock than a gas shock (where the UK is more exposed) has been another saving grace. Meanwhile, the significant amount of AI and tech investment in the UK is another boost to the economic numbers.
+The net result is that doom-mongering predictions of recession, of being hit worst by the Iran war, and, in some quarters, of imminent national bankruptcy, have been defied.
+That economic defiance of the early part of 2026 has persisted in the first three months of the Burnham-Healey tenure in Downing Street, buoyed by a lull in the Iran war and the energy price shock.
+Burnham was advised upon entry to Downing Street that if consumers could at least feel more confident, they might save less and spend more and therefore help boost growth.
+So far Burnham and Healey appear to be relying on a series of relatively inexpensive "feel-better" policies - such as capped bus fares and a temporary VAT cut on household energy bills - that have improved confidence without significantly increasing spending.
+But there isn't a lot of spare money, which limits just how much can be offered for "temporary and targeted" measures. And come January, the clouds on the horizon could be overhead, with typical energy bills predicted to rise by 16%, interest rates potentially up and an enduring fear that the AI bubble could burst.
+Healey's essential judgement
+At a gleaming hi-tech robotics research facility in Coventry last month, John Healey sought to set out the broad contours of his approach to the economy. On a walkabout at the Manufacturing Technology Centre, I asked him if there had been too much doom-mongery.
+"I know the global conditions mean that it is hard… we have huge latent potential in this country. Great talent, and deep capital markets.
+"The challenge now is to make sure that we balance the books, we manage and control public spending, and the prime minister and I are in lockstep in our determination to meet the fiscal rules with a buffer," he said.
+The giant orange robot arms whizzing around were being trained by AI to use lasers to carve the most intricate metal shapes for prototype parts for the jet engines of the future. The Budget manoeuvres required by Healey may require even more precision.
+The essential question is whether he has chosen to impress the markets and explain himself to his MPs, or impress his MPs and explain himself to the markets. Judging by my three interviews with him in recent weeks, it is more the former than the latter.
+The answer may not be found in his speech at all, but in the borrowing tables that will reveal how much money the government expects to borrow over the coming years, published in the OBR's forecast released - assuming no repeat of last year's disaster - when Healey sits down in the House of Commons around 13.00.
+Just after that, as Conservative leader Kemi Badenoch is delivering the Opposition's response, the real reaction the chancellor's team will be looking for is whether the markets move, particularly when the Debt Management Office publishes the "gilt remit" - the detail of any changes to its plan to sell UK government bonds to investors.
+My sense is that every effort is being made to minimise this number, and help guide down medium and long-term borrowing rates for the government and for mortgages. (It was at this moment in 2022 that markets vomited at the prospect of how much extra they thought the government would need to borrow after Liz Truss' mini budget.)
+From Healey's first day in office, the prudence message was practically tattooed to his head. He has spent more time working in the Treasury than any recent chancellor. He spent five years from 2002 to 2007 as a junior minister when Gordon Brown was chancellor - five finance bills, five Budgets, pre-Budget reports and two Spending Reviews.
+For his Labour Party conference speech, Healey sported Brown's old conference tie. But the Treasury he returned to this year is a changed place in important ways. When his predecessor wore the tie, the Treasury was running an annual surplus, not a £120bn deficit adding to a £3 trillion total national debt.
+I asked him just afterwards, and just before he was whisked off to a meeting of the government's emergency COBR committee on RAF Fairford, if he was going to have another go at some of the things that proved so difficult for his predecessor, former Chancellor Rachel Reeves.
+He replied: "100%. I was very clear to the conference today and the public beyond. There isn't the money that there was in the 1990s. People understand that. The public aren't daft.
+"Running through the Budget I deliver must be fiscal discipline and the maintenance of control on the public finances, because otherwise we won't get on top of the debt costs."
+One intriguing element of what we may see on Wednesday is that this theoretically more left-leaning Labour government appears to believe they have the political capital to save money on welfare payments.
+The aim is to get some of the 1.35 million people currently off work with mental health issues back into jobs.
+Some reporting suggests some affected younger people may see benefits payments cut, with the government instead investing more in getting them into jobs and keeping them in them through the offer, for example, of in-work therapy.
+A constrained Chancellor
+Back in Healey's time under Gordon Brown, there was no OBR. Back then it was not unknown for late budget maths problems to be settled with an optimistic tweak of a forecast, a date change to the economic cycle, or choosing a stronger rate of long term growth.
+The OBR's verdict is crucial now - to what extent it agrees with projected welfare savings or even the importance it places on stronger GDP figures matters now.
+The bigger point here is that the chancellor must be shocked by the contrast between the sheer power of the Brown Treasury to do what it wanted, and the reality of what he currently faces: the constraints of the OBR, manifesto red lines, bond markets, significant debts and an energy shock.
+There are reasons to postpone some of the toughest decisions beyond this Budget, such as how to fund desired increases in spending on defence and social care. The economic outlook could improve were the Iran war to settle at some point in the next few months, and after revised statistics the OBR may also have cause to rethink last year's downgrade to long term economic growth.
+There is an imaginable pathway to a forecast next year with higher growth, lower inflation and lower debt interest costs, plausibly improving the public finance projections by tens of billions.
+This would be a much more agreeable basis upon which to decide the pace of those big ticket spending rises. It also may be a tempting option for anyone thinking about an election. Former Treasury officials lament: "There is always a reason for procrastination."
+Expect the Chancellor to laud the resilience and strength of the UK economy and seek to sustain it, and spread growth geographically. His key judgement, however, will be a balance between extra financial and economic support and the peril of still elevated borrowing costs.
+He will try to offer breathing space. It may be needed not just for households and families, but for the Exchequer itself.
+Top image credit: Reuters/Getty Images
+BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
+Get in touch
+Are you personally affected by the issues raised in this story?`,
+    bodyJa: `There have been almost no Budget leaks.
+The chancellor's aides are using intelligence-style security measures to guard its secrets: the Budget has been split into "compartments" with very few given access to all of them. There are codenames. The IT has been locked down and ministers viewing the plans have to sign a digital promise not to brief media.
+Such security is a response to the feeling that speculation around the last Budget, sometimes informed by insiders, was economically destabilising.
+As a recent former defence secretary, Chancellor John Healey has embraced such strict procedures, and has approached most of his public engagements and interviews with a sturdy refusal to break the Budget omertà, akin to his fellow Yorkshireman Geoffrey Boycott's at times ultra-defensive stance on a cricket pitch.
+The economic news has been good - growth has been better than expected and the International Monetary Fund has endorsed the UK for "standing out" among the G7 countries for at least planning to cut borrowing.
+The bond market's reverse beauty contest, in which investors single out the countries they distrust most, has moved on from Britain. Traders I occasionally hear from who were once focused on UK borrowing costs are now more preoccupied with "le spread" - the widening gap between French and German borrowing costs (the former being higher than the latter) - and with America's long-term debt outlook.
+And yet there are clouds on the horizon. The inflation rate rose more than forecast to 3.5% in September, and borrowing numbers were also higher than forecast. This means an imminent Bank of England rate rise is very much on the cards, with the resultant rise in mortgage repayments for some.
+Credibility with investors requires not just that Budget maths add up on Wednesday, but also belief that growth plans are realistic, and the perception that Downing Street can actually convince MPs to pass its Budget.
+The question for John Healey is whether he can deliver a Budget that can sustain the revival in growth and offer the help with the cost of living that his backbenchers demand. At the same time he needs to reassure the markets that his budget will keep a check on borrowing.
+The curious case of the UK economy
+"Is it resilient, or is it actually strong?" has been the tone of the debate among economists about the curious case of the UK economy ahead what is a vital Budget.
+The UK is the fastest growing G7 country so far this year, at 0.6% in Q1 and 0.5% in Q2. The widespread assumption of stagnation in the second half is being defied with Q3 heading for 0.6 to 0.8%.
+Each quarter has seen growth twice as fast as predicted by the Office for Budget Responsibility (OBR) in March and independent forecasters. This is the fastest growth in the first eight months of a year since 2017, ignoring the post-lockdown re-opening.
+It's more resilient than it was in 2022. Back then, the Ukraine war, massive energy bailouts, and Liz Truss' mini budget all culminated in the UK facing the highest borrowing costs in the G7, in what was derided in financial markets as a "moron premium".
+Then last year, with constant policy u-turns, UK borrowing costs rose the most of the G7.
+This year the gap has narrowed, as uncertainty about the US and France takes centre stage, but all advanced economies are feeling the heat from the Iran war energy shock.
+Inflation has risen, but not just in Britain. Reforms to the electricity market have weakened the link between gas and electricity prices, meaning spikes in gas prices have less impact on electricity bills than they used to and helping to keep inflation lower than it otherwise might have been.
+The fact that up until now the Iran war has been more of an oil shock than a gas shock (where the UK is more exposed) has been another saving grace. Meanwhile, the significant amount of AI and tech investment in the UK is another boost to the economic numbers.
+The net result is that doom-mongering predictions of recession, of being hit worst by the Iran war, and, in some quarters, of imminent national bankruptcy, have been defied.
+That economic defiance of the early part of 2026 has persisted in the first three months of the Burnham-Healey tenure in Downing Street, buoyed by a lull in the Iran war and the energy price shock.
+Burnham was advised upon entry to Downing Street that if consumers could at least feel more confident, they might save less and spend more and therefore help boost growth.
+So far Burnham and Healey appear to be relying on a series of relatively inexpensive "feel-better" policies - such as capped bus fares and a temporary VAT cut on household energy bills - that have improved confidence without significantly increasing spending.
+But there isn't a lot of spare money, which limits just how much can be offered for "temporary and targeted" measures. And come January, the clouds on the horizon could be overhead, with typical energy bills predicted to rise by 16%, interest rates potentially up and an enduring fear that the AI bubble could burst.
+Healey's essential judgement
+At a gleaming hi-tech robotics research facility in Coventry last month, John Healey sought to set out the broad contours of his approach to the economy. On a walkabout at the Manufacturing Technology Centre, I asked him if there had been too much doom-mongery.
+"I know the global conditions mean that it is hard… we have huge latent potential in this country. Great talent, and deep capital markets.
+"The challenge now is to make sure that we balance the books, we manage and control public spending, and the prime minister and I are in lockstep in our determination to meet the fiscal rules with a buffer," he said.
+The giant orange robot arms whizzing around were being trained by AI to use lasers to carve the most intricate metal shapes for prototype parts for the jet engines of the future. The Budget manoeuvres required by Healey may require even more precision.
+The essential question is whether he has chosen to impress the markets and explain himself to his MPs, or impress his MPs and explain himself to the markets. Judging by my three interviews with him in recent weeks, it is more the former than the latter.
+The answer may not be found in his speech at all, but in the borrowing tables that will reveal how much money the government expects to borrow over the coming years, published in the OBR's forecast released - assuming no repeat of last year's disaster - when Healey sits down in the House of Commons around 13.00.
+Just after that, as Conservative leader Kemi Badenoch is delivering the Opposition's response, the real reaction the chancellor's team will be looking for is whether the markets move, particularly when the Debt Management Office publishes the "gilt remit" - the detail of any changes to its plan to sell UK government bonds to investors.
+My sense is that every effort is being made to minimise this number, and help guide down medium and long-term borrowing rates for the government and for mortgages. (It was at this moment in 2022 that markets vomited at the prospect of how much extra they thought the government would need to borrow after Liz Truss' mini budget.)
+From Healey's first day in office, the prudence message was practically tattooed to his head. He has spent more time working in the Treasury than any recent chancellor. He spent five years from 2002 to 2007 as a junior minister when Gordon Brown was chancellor - five finance bills, five Budgets, pre-Budget reports and two Spending Reviews.
+For his Labour Party conference speech, Healey sported Brown's old conference tie. But the Treasury he returned to this year is a changed place in important ways. When his predecessor wore the tie, the Treasury was running an annual surplus, not a £120bn deficit adding to a £3 trillion total national debt.
+I asked him just afterwards, and just before he was whisked off to a meeting of the government's emergency COBR committee on RAF Fairford, if he was going to have another go at some of the things that proved so difficult for his predecessor, former Chancellor Rachel Reeves.
+He replied: "100%. I was very clear to the conference today and the public beyond. There isn't the money that there was in the 1990s. People understand that. The public aren't daft.
+"Running through the Budget I deliver must be fiscal discipline and the maintenance of control on the public finances, because otherwise we won't get on top of the debt costs."
+One intriguing element of what we may see on Wednesday is that this theoretically more left-leaning Labour government appears to believe they have the political capital to save money on welfare payments.
+The aim is to get some of the 1.35 million people currently off work with mental health issues back into jobs.
+Some reporting suggests some affected younger people may see benefits payments cut, with the government instead investing more in getting them into jobs and keeping them in them through the offer, for example, of in-work therapy.
+A constrained Chancellor
+Back in Healey's time under Gordon Brown, there was no OBR. Back then it was not unknown for late budget maths problems to be settled with an optimistic tweak of a forecast, a date change to the economic cycle, or choosing a stronger rate of long term growth.
+The OBR's verdict is crucial now - to what extent it agrees with projected welfare savings or even the importance it places on stronger GDP figures matters now.
+The bigger point here is that the chancellor must be shocked by the contrast between the sheer power of the Brown Treasury to do what it wanted, and the reality of what he currently faces: the constraints of the OBR, manifesto red lines, bond markets, significant debts and an energy shock.
+There are reasons to postpone some of the toughest decisions beyond this Budget, such as how to fund desired increases in spending on defence and social care. The economic outlook could improve were the Iran war to settle at some point in the next few months, and after revised statistics the OBR may also have cause to rethink last year's downgrade to long term economic growth.
+There is an imaginable pathway to a forecast next year with higher growth, lower inflation and lower debt interest costs, plausibly improving the public finance projections by tens of billions.
+This would be a much more agreeable basis upon which to decide the pace of those big ticket spending rises. It also may be a tempting option for anyone thinking about an election. Former Treasury officials lament: "There is always a reason for procrastination."
+Expect the Chancellor to laud the resilience and strength of the UK economy and seek to sustain it, and spread growth geographically. His key judgement, however, will be a balance between extra financial and economic support and the peril of still elevated borrowing costs.
+He will try to offer breathing space. It may be needed not just for households and families, but for the Exchequer itself.
+Top image credit: Reuters/Getty Images
+BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
+Get in touch
+Are you personally affected by the issues raised in this story?`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-26T00:26:49+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d426/live/74bc9710-ce2e-11f1-a64c-550be9e3c66b.jpg",
+    readTime: 10,
+  },
+  {
+    id: "ticking-time-bomb-the-world-s-pension-f-92ab2d5b",
+    title: "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
+    titleJa: "‘Ticking time bomb’: The world's pension funds face an ageing crisis",
+    summaryJa: "The world's pension systems are confronting a demographic crisis as longer lifespans and dwindling birth rates threaten to stretch retirement finances.",
+    bodyOriginal: `The world's pension systems are confronting a demographic crisis as longer lifespans and dwindling birth rates threaten to stretch retirement finances, raising questions about their ability to sustain payouts for future generations.
+Pension offerings generally fall into two categories: defined-benefit plans, which promise retirees a predetermined income, and defined-contribution plans, where payouts depend on accumulated savings and investment returns.
+Ageing poses different challenges for the two systems: defined-benefit schemes face mounting liabilities as retirees live longer, while defined-contribution members risk outliving their savings, placing greater pressure on funds' investment performance.
+The problem is "huge, and it's gotten more pronounced over time,” said Sebastien Betermier, executive director at the International Centre for Pension Management, noting that some pension funds have members who have been retired for nearly half a century, aged aged 107 or 108.
+"The higher the longevity, the more years the pension funds have to cover, and so that immediately comes in as an additional liability," he said. "Think about the cost that it imposes actually on the next generation … it is a ticking time bomb," Betermier told CNBC.
+The scale of the challenge is laid bare in the 2026 Marsh CFA Institute Global Pension Index, or MCGPI, report published Tuesday last week. Of the 55 pension systems covered by the index, 43 have fertility rates below the replacement level of 2.1 children per woman, while 23 have rates below 1.5.
+Meanwhile, life expectancy at age 65 in more developed regions has increased by 50.9% since 1950 to about 20 additional years, meaning retirement benefits must now last considerably longer. The number of potential workers supporting older people is also set to decline sharply.
+“The funding of future pensions and aged care both become more critical as the ratio of workers to retirees continues to decline,” the MCGPI report stated. “Very few systems, as they currently operate, are secure.”
+The problem is particularly acute for pay-as-you-go pension systems in which contributions from today's workers largely fund benefits for current retirees, leaving them especially vulnerable to a shrinking workforce.
+The pressures are already evident in the U.S., where the Old-Age and Survivors Insurance Trust Fund, which finances retirement and survivor benefits for tens of millions of Americans, is projected to exhaust its reserves in the fourth quarter of 2032, according to its latest trustees' report.
+Everybody is shifting a little more risk where they can. The costs are going up with this demographic shift.Jean-Pierre AubryCenter for Retirement Research at Boston College
+Fully funded pension schemes, which invest contributions from workers and employers to finance future retirement benefits are not immune either.
+As their members retire and begin drawing down benefits, some funds could find themselves paying out more than they receive in fresh contributions, forcing them to rethink their investment strategies and liquidity needs, MCGPI cautioned.
+“Future benefit outflows will exceed the level of contributions or premiums ... this financial strain will inevitably grow in the future,” the report highlighted.
+Rethinking risk
+The demographic crunch is reshaping how pension funds invest, with some taking on greater risks to generate the returns needed to meet growing retirement obligations.
+Many mature funds are already paying out more in benefits than they receive in contributions, forcing them to rely increasingly on investment returns and accumulated assets.
+In Australia, about a third of superannuation funds recorded negative natural cash flows from assets over a three-year period, meaning benefit payments exceeded contributions, according to a 2025 report by the Australian Prudential Regulation Authority.
+Industry watchers say the pressure to generate higher returns has pushed some funds toward riskier and more complex investments, including private equity, infrastructure and private credit.
+"You can try to earn higher returns on your investments, but that's going to require taking on greater levels of risk," said Betermier.
+Jean-Pierre Aubry, associate director of state and local research at the Center for Retirement Research at Boston College, said pension funds were increasingly shifting toward riskier investments, although the extent varied considerably across markets.
+"I think everybody is shifting a little more risk where they can. The costs are going up with this demographic shift," Aubry said.
+He pointed to U.S. state and local government pension funds, which hold only about 20% of their assets in bonds, with much of the remainder invested in equities and private assets.
+Such allocations make U.S. public pension funds considerably more exposed to investment risk than their counterparts in Europe and Canada, he said.
+Not every pension manager sees ageing as a reason to take bigger bets.
+David Elias, CEO of Australian pension fund Hostplus said demographic changes were only one of many factors shaping investment decisions.
+He stressed the importance of maintaining a diversified portfolio across asset classes, geographies and industries, while ensuring that potential returns adequately compensate for the risks involved.
+Elias also said that governments could find ways to mitigate the pressures of ageing populations, including through immigration policies and technological advances, while demographic shifts themselves could create new investment opportunities.
+"I don't underestimate governments being incredibly creative in terms of dealing with these types of issues," he said. "You know, but they're going to have to address it, no doubt about that."`,
+    bodyJa: `The world's pension systems are confronting a demographic crisis as longer lifespans and dwindling birth rates threaten to stretch retirement finances, raising questions about their ability to sustain payouts for future generations.
+Pension offerings generally fall into two categories: defined-benefit plans, which promise retirees a predetermined income, and defined-contribution plans, where payouts depend on accumulated savings and investment returns.
+Ageing poses different challenges for the two systems: defined-benefit schemes face mounting liabilities as retirees live longer, while defined-contribution members risk outliving their savings, placing greater pressure on funds' investment performance.
+The problem is "huge, and it's gotten more pronounced over time,” said Sebastien Betermier, executive director at the International Centre for Pension Management, noting that some pension funds have members who have been retired for nearly half a century, aged aged 107 or 108.
+"The higher the longevity, the more years the pension funds have to cover, and so that immediately comes in as an additional liability," he said. "Think about the cost that it imposes actually on the next generation … it is a ticking time bomb," Betermier told CNBC.
+The scale of the challenge is laid bare in the 2026 Marsh CFA Institute Global Pension Index, or MCGPI, report published Tuesday last week. Of the 55 pension systems covered by the index, 43 have fertility rates below the replacement level of 2.1 children per woman, while 23 have rates below 1.5.
+Meanwhile, life expectancy at age 65 in more developed regions has increased by 50.9% since 1950 to about 20 additional years, meaning retirement benefits must now last considerably longer. The number of potential workers supporting older people is also set to decline sharply.
+“The funding of future pensions and aged care both become more critical as the ratio of workers to retirees continues to decline,” the MCGPI report stated. “Very few systems, as they currently operate, are secure.”
+The problem is particularly acute for pay-as-you-go pension systems in which contributions from today's workers largely fund benefits for current retirees, leaving them especially vulnerable to a shrinking workforce.
+The pressures are already evident in the U.S., where the Old-Age and Survivors Insurance Trust Fund, which finances retirement and survivor benefits for tens of millions of Americans, is projected to exhaust its reserves in the fourth quarter of 2032, according to its latest trustees' report.
+Everybody is shifting a little more risk where they can. The costs are going up with this demographic shift.Jean-Pierre AubryCenter for Retirement Research at Boston College
+Fully funded pension schemes, which invest contributions from workers and employers to finance future retirement benefits are not immune either.
+As their members retire and begin drawing down benefits, some funds could find themselves paying out more than they receive in fresh contributions, forcing them to rethink their investment strategies and liquidity needs, MCGPI cautioned.
+“Future benefit outflows will exceed the level of contributions or premiums ... this financial strain will inevitably grow in the future,” the report highlighted.
+Rethinking risk
+The demographic crunch is reshaping how pension funds invest, with some taking on greater risks to generate the returns needed to meet growing retirement obligations.
+Many mature funds are already paying out more in benefits than they receive in contributions, forcing them to rely increasingly on investment returns and accumulated assets.
+In Australia, about a third of superannuation funds recorded negative natural cash flows from assets over a three-year period, meaning benefit payments exceeded contributions, according to a 2025 report by the Australian Prudential Regulation Authority.
+Industry watchers say the pressure to generate higher returns has pushed some funds toward riskier and more complex investments, including private equity, infrastructure and private credit.
+"You can try to earn higher returns on your investments, but that's going to require taking on greater levels of risk," said Betermier.
+Jean-Pierre Aubry, associate director of state and local research at the Center for Retirement Research at Boston College, said pension funds were increasingly shifting toward riskier investments, although the extent varied considerably across markets.
+"I think everybody is shifting a little more risk where they can. The costs are going up with this demographic shift," Aubry said.
+He pointed to U.S. state and local government pension funds, which hold only about 20% of their assets in bonds, with much of the remainder invested in equities and private assets.
+Such allocations make U.S. public pension funds considerably more exposed to investment risk than their counterparts in Europe and Canada, he said.
+Not every pension manager sees ageing as a reason to take bigger bets.
+David Elias, CEO of Australian pension fund Hostplus said demographic changes were only one of many factors shaping investment decisions.
+He stressed the importance of maintaining a diversified portfolio across asset classes, geographies and industries, while ensuring that potential returns adequately compensate for the risks involved.
+Elias also said that governments could find ways to mitigate the pressures of ageing populations, including through immigration policies and technological advances, while demographic shifts themselves could create new investment opportunities.
+"I don't underestimate governments being incredibly creative in terms of dealing with these types of issues," he said. "You know, but they're going to have to address it, no doubt about that."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/26/pension-funds-ageing-crisis-risk-investment.html",
+    publishedAt: "2026-10-26T00:03:20+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "data-centre-debate-heats-up-ahead-of-us-02743508",
+    title: "Data centre debate heats up ahead of US midterms - here's what you need to know",
+    titleJa: "Data centre debate heats up ahead of US midterms - here's what you need to know",
+    summaryJa: "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+    bodyOriginal: `Data centre debate heats up ahead of US midterms - here's what you need to know
+- Published
+Until a few years ago many of us may have been blissfully unaware of what a data centre was.
+These giant, warehouse-like buildings power virtually all our internet activity, from our web searches and emails to movie downloads and online banking.
+They are at the heart of the AI boom, housing the advanced computer chips and servers needed to run services like ChatGPT and Claude.
+But the speed at which they're growing, the enormous amount of electricity they consume and concerns about their environmental impact are fuelling a public backlash around the world.
+In the US, they've become a huge issue ahead of the midterm elections on 3 November, with both Republicans and opposition Democrats coming out against their development.
+It's putting opponents of data centre expansion on a collision course with US President Donald Trump, who has dismissed the pushback as a "sick conspiracy", even as public anger grows.
+Here's what you need to know about the data centre boom, and why opposition is growing.
+They are growing rapidly
+There are about 12,250 data centres around the world, according to Data Center Map, external, a company that tracks both operational and pre-operational sites.
+That's up sharply from 2021, when there were around 8,000, external operational sites.
+As the chart below shows, data centres are most densely clustered in the US which has 4,767 sites. It is followed by Europe, where the UK and Germany lead.
+Data centres have typically been located near to cities where it's easier to access high voltage power lines or water resources for cooling. But as they get bigger, more are being built in rural areas.
+But when it comes to actual capacity, the US is ahead by a much larger margin, with China in second place and Europe lagging far behind.
+This gap is set to widen in the coming years, leading some to warn Europe risks missing out on the potential economic benefits of the AI boom, external.
+They are getting bigger
+Data centres vary wildly in size, ranging from ones that fit inside a garden shed to others covering vast expanses of land.
+The world's largest operational data centre is widely reported to be one run by China Telecom in Hohhot, Inner Mongolia, covering an area of approximately one million square metres (10.7 million sq ft). That is equivalent to about 140 Fifa football pitches.
+However, much larger sites are under construction as the graphic below shows.
+All these sites are being built exclusively to provide the immense computing power needed to run AI services.
+For instance, Colossus 2, which is part of the wider Colossus campus, will house hundreds of thousands of advanced AI chips made by tech giant Nvidia.
+It will also be used to train xAI's chatbot Grok. Elon Musk's company will use 41 methane gas turbines to help power the site, which activists say could "significantly increase" local air pollution, external. Local regulators say the turbines will meet air quality standards.
+They use more electricity than France
+The pressure data centres put on local resources has sparked increasing concern. These facilities can use significant amounts of water to cool their systems, which could lead to water shortages, some experts say.
+Data centres worldwide are also thought to consume more electricity than the whole of France, as the chart below shows.
+This growing hunger for power is driving up carbon emissions, analysis shows, while putting pressure on local grids, which some fear could push up energy prices.
+With others worried about the noise data centres make and the space they take up, a public backlash is gathering steam.
+Some 16 US states have proposed laws to ban or temporarily block new facilities, and it could be a key issue in November's midterm elections.
+Outside the US, opposition to data centres has emerged in countries like Mexico, France, Indonesia and the UK.
+But they can boost jobs
+But supporters say data centres are critical to national security, and the development of AI.
+They also say they are good for the economy, external, attracting investment, generating tax revenue and creating jobs in areas like construction.
+A recent report by the Brookings Center, external suggests data centres do create local jobs, although fewer than industry advocates claim.
+The type of data centre matters too. So-called hyperscale facilities - massive sites owned and run by tech giants like Amazon and Microsoft - have a bigger positive effect on jobs, it found.
+But "colocation" facilities, which lease space to remote tenants without a local presence, brought fewer benefits.
+As the debate over their merits intensifies, the data centre rollout continues.
+This year, the tech industry is expected to spend a combined $765bn, external ($544bn) on AI infrastructure in 2026, with this topping $1tn next year.
+But as concerns about the environmental impact grow, the tech industry is exploring alternatives.
+One idea is to put data centres in space, external or on the Moon, where they could harness abundant solar energy.
+Others predict that more AI processing could eventually be carried out by the hardware already inside our computers and smartphones, reducing the need for vast data centres altogether.
+Additional reporting and design by Erwan Rivault, Matt Faraci and Dominic Bailey.`,
+    bodyJa: `Data centre debate heats up ahead of US midterms - here's what you need to know
+- Published
+Until a few years ago many of us may have been blissfully unaware of what a data centre was.
+These giant, warehouse-like buildings power virtually all our internet activity, from our web searches and emails to movie downloads and online banking.
+They are at the heart of the AI boom, housing the advanced computer chips and servers needed to run services like ChatGPT and Claude.
+But the speed at which they're growing, the enormous amount of electricity they consume and concerns about their environmental impact are fuelling a public backlash around the world.
+In the US, they've become a huge issue ahead of the midterm elections on 3 November, with both Republicans and opposition Democrats coming out against their development.
+It's putting opponents of data centre expansion on a collision course with US President Donald Trump, who has dismissed the pushback as a "sick conspiracy", even as public anger grows.
+Here's what you need to know about the data centre boom, and why opposition is growing.
+They are growing rapidly
+There are about 12,250 data centres around the world, according to Data Center Map, external, a company that tracks both operational and pre-operational sites.
+That's up sharply from 2021, when there were around 8,000, external operational sites.
+As the chart below shows, data centres are most densely clustered in the US which has 4,767 sites. It is followed by Europe, where the UK and Germany lead.
+Data centres have typically been located near to cities where it's easier to access high voltage power lines or water resources for cooling. But as they get bigger, more are being built in rural areas.
+But when it comes to actual capacity, the US is ahead by a much larger margin, with China in second place and Europe lagging far behind.
+This gap is set to widen in the coming years, leading some to warn Europe risks missing out on the potential economic benefits of the AI boom, external.
+They are getting bigger
+Data centres vary wildly in size, ranging from ones that fit inside a garden shed to others covering vast expanses of land.
+The world's largest operational data centre is widely reported to be one run by China Telecom in Hohhot, Inner Mongolia, covering an area of approximately one million square metres (10.7 million sq ft). That is equivalent to about 140 Fifa football pitches.
+However, much larger sites are under construction as the graphic below shows.
+All these sites are being built exclusively to provide the immense computing power needed to run AI services.
+For instance, Colossus 2, which is part of the wider Colossus campus, will house hundreds of thousands of advanced AI chips made by tech giant Nvidia.
+It will also be used to train xAI's chatbot Grok. Elon Musk's company will use 41 methane gas turbines to help power the site, which activists say could "significantly increase" local air pollution, external. Local regulators say the turbines will meet air quality standards.
+They use more electricity than France
+The pressure data centres put on local resources has sparked increasing concern. These facilities can use significant amounts of water to cool their systems, which could lead to water shortages, some experts say.
+Data centres worldwide are also thought to consume more electricity than the whole of France, as the chart below shows.
+This growing hunger for power is driving up carbon emissions, analysis shows, while putting pressure on local grids, which some fear could push up energy prices.
+With others worried about the noise data centres make and the space they take up, a public backlash is gathering steam.
+Some 16 US states have proposed laws to ban or temporarily block new facilities, and it could be a key issue in November's midterm elections.
+Outside the US, opposition to data centres has emerged in countries like Mexico, France, Indonesia and the UK.
+But they can boost jobs
+But supporters say data centres are critical to national security, and the development of AI.
+They also say they are good for the economy, external, attracting investment, generating tax revenue and creating jobs in areas like construction.
+A recent report by the Brookings Center, external suggests data centres do create local jobs, although fewer than industry advocates claim.
+The type of data centre matters too. So-called hyperscale facilities - massive sites owned and run by tech giants like Amazon and Microsoft - have a bigger positive effect on jobs, it found.
+But "colocation" facilities, which lease space to remote tenants without a local presence, brought fewer benefits.
+As the debate over their merits intensifies, the data centre rollout continues.
+This year, the tech industry is expected to spend a combined $765bn, external ($544bn) on AI infrastructure in 2026, with this topping $1tn next year.
+But as concerns about the environmental impact grow, the tech industry is exploring alternatives.
+One idea is to put data centres in space, external or on the Moon, where they could harness abundant solar energy.
+Others predict that more AI processing could eventually be carried out by the hardware already inside our computers and smartphones, reducing the need for vast data centres altogether.
+Additional reporting and design by Erwan Rivault, Matt Faraci and Dominic Bailey.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-25T23:44:34+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b2/live/52453c80-cc82-11f1-bc2e-018d645d8d21.png",
+    readTime: 10,
+  },
+  {
     id: "blanche-defends-trump-ordered-lawsuit-ov-34b438a6",
     title: "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
     titleJa: "Blanche defends Trump-ordered lawsuit over Alaska Senate election certification",
@@ -1817,370 +2199,6 @@ In September 2024, she started Imdelltra and has had no evidence of disease ever
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 10,
-  },
-  {
-    id: "everyone-s-talking-about-roth-conversion-70783d12",
-    title: "Everyone’s talking about Roth conversions, but here’s how few people really do them — and why you shouldn’t have FOMO about it",
-    titleJa: "Everyone’s talking about Roth conversions, but here’s how few people really do them — and why you shouldn’t have FOMO about it",
-    summaryJa: "You have to do the math to figure out your best tax strategy in retirement, and converting might not be for you.",
-    bodyOriginal: `You have to do the math to figure out your best tax strategy in retirement, and converting might not be for you.`,
-    bodyJa: `You have to do the math to figure out your best tax strategy in retirement, and converting might not be for you.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/everyones-talking-about-roth-conversions-but-heres-how-few-people-really-do-them-and-why-you-shouldnt-have-fomo-about-it-1b50db07?mod=mw_rss_topstories",
-    publishedAt: "2026-10-24T14:24:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-02166585",
-    readTime: 2,
-  },
-  {
-    id: "ukraine-says-starlink-connection-now-sta-fbfc9c6b",
-    title: "Ukraine says Starlink connection 'now stable' after network limits",
-    titleJa: "Ukraine says Starlink connection 'now stable' after network limits",
-    summaryJa: "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
-    bodyOriginal: `Ukraine says Starlink connection 'now stable' after network limits
-- Published
-Ukraine now has a "stable connection" to Starlink, its defence minister has said, after its military suffered days of restricted connectivity on the satellite internet network.
-Kyiv relies on the Starlink and its military-grade counterpart Starshield for piloting drones and operations within Ukraine, but last week accused US President Donald Trump of telling owner Elon Musk to place limits on it.
-This meant drones would lose connection when travelling at 161km/h (100mph) or more, it said. Trump denied doing so before saying Musk had "put it back".
-Defence Minister Yevhenii Khmara said that speeds of more than 400km/h were now possible on the network, indicating that full capability had been restored.
-"This result is above all important for our front, for our soldiers, for the operation of drones, for logistics and for communications," he said in a statement on Saturday.
-Ukraine's military uses the network of 10,000 low Earth orbit satellites extensively for military operations, particularly in remote areas on the battlefield.
-Ukraine uses both the civilian service Starlink and the more secure Starshield, which Musk said was controlled by the US military when he suggested the Pentagon could be behind the recent issues.
-Russia is not authorised to use Starlink, so when Ukraine sends long-range missiles or drones deep into Russia to hit oil refineries, the network does not work.
-The debacle over Starlink began last week, and emerged during a broader diplomatic row between Trump and his Ukrainian counterpart Volodymyr Zelensky over Ukrainian strikes on Russian oil infrastructure.
-Faced with midterm elections next month, Trump has waived some sanctions on Russia and agreed a deal to import Russian diesel for the US market - a move criticised by Ukraine and its European allies.
-Trump said the strikes on Russian oil refineries, which Kyiv says are crucial to stemming the main revenue source for Moscow's war effort, have pushed global prices higher.
-While the attacks have had an impact on global fuel prices, rises seen this year have primarily been due to the Iran war.
-Zelensky said that, as well as seemingly limiting Starlink capability in Ukraine, the US had also threatened to withdraw intelligence sharing if the strikes did not stop, something Trump also denied.
-Meanwhile, fighting on the ground continues.
-Russia's ministry of defence wrote on Telegram on Saturday that their air defences shot down 616 Ukrainian fixed-wing drones, striking a number of regions across the country, including Russian-annexed Crimea.
-Sergey Aksyonov, the region's Moscow-backed governor, said restrictions on electricity and water had been put in place because of power cuts caused by the drone strike.
-Meanwhile, Ukrainian authorities said they struck a missile component manufacturer, a chemical plant and an aircraft at a military airfield inside Russia in the past 24 hours.
-They also said that Russia carried out 88 air strikes using 309 glide bombs and 10,270 kamikaze drones on Friday.
-Related topics
-- Published15 October`,
-    bodyJa: `Ukraine says Starlink connection 'now stable' after network limits
-- Published
-Ukraine now has a "stable connection" to Starlink, its defence minister has said, after its military suffered days of restricted connectivity on the satellite internet network.
-Kyiv relies on the Starlink and its military-grade counterpart Starshield for piloting drones and operations within Ukraine, but last week accused US President Donald Trump of telling owner Elon Musk to place limits on it.
-This meant drones would lose connection when travelling at 161km/h (100mph) or more, it said. Trump denied doing so before saying Musk had "put it back".
-Defence Minister Yevhenii Khmara said that speeds of more than 400km/h were now possible on the network, indicating that full capability had been restored.
-"This result is above all important for our front, for our soldiers, for the operation of drones, for logistics and for communications," he said in a statement on Saturday.
-Ukraine's military uses the network of 10,000 low Earth orbit satellites extensively for military operations, particularly in remote areas on the battlefield.
-Ukraine uses both the civilian service Starlink and the more secure Starshield, which Musk said was controlled by the US military when he suggested the Pentagon could be behind the recent issues.
-Russia is not authorised to use Starlink, so when Ukraine sends long-range missiles or drones deep into Russia to hit oil refineries, the network does not work.
-The debacle over Starlink began last week, and emerged during a broader diplomatic row between Trump and his Ukrainian counterpart Volodymyr Zelensky over Ukrainian strikes on Russian oil infrastructure.
-Faced with midterm elections next month, Trump has waived some sanctions on Russia and agreed a deal to import Russian diesel for the US market - a move criticised by Ukraine and its European allies.
-Trump said the strikes on Russian oil refineries, which Kyiv says are crucial to stemming the main revenue source for Moscow's war effort, have pushed global prices higher.
-While the attacks have had an impact on global fuel prices, rises seen this year have primarily been due to the Iran war.
-Zelensky said that, as well as seemingly limiting Starlink capability in Ukraine, the US had also threatened to withdraw intelligence sharing if the strikes did not stop, something Trump also denied.
-Meanwhile, fighting on the ground continues.
-Russia's ministry of defence wrote on Telegram on Saturday that their air defences shot down 616 Ukrainian fixed-wing drones, striking a number of regions across the country, including Russian-annexed Crimea.
-Sergey Aksyonov, the region's Moscow-backed governor, said restrictions on electricity and water had been put in place because of power cuts caused by the drone strike.
-Meanwhile, Ukrainian authorities said they struck a missile component manufacturer, a chemical plant and an aircraft at a military airfield inside Russia in the past 24 hours.
-They also said that Russia carried out 88 air strikes using 309 glide bombs and 10,270 kamikaze drones on Friday.
-Related topics
-- Published15 October`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-24T12:12:40+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6049/live/9c0d0c10-cf9a-11f1-b441-2b33b063138f.jpg",
-    readTime: 8,
-  },
-  {
-    id: "nvidia-s-role-as-ai-financier-faces-firs-91705237",
-    title: "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
-    titleJa: "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
-    summaryJa: "As Nvidia has gone from chipmaker to industry financier, some investors see the company taking on outsized risk tied to the AI buildout.",
-    bodyOriginal: `Nvidia's emergence as financier for the global AI buildout is facing its first major stress test as credit markets tighten for key partners.
-After creating the chips that powered the early stages of the generative artificial intelligence era, Nvidia turned to using its financial prowess to fund AI model developers, data center companies and a host of so-called neoclouds. CEO Jensen Huang's strategy has been to not only build the most advanced technology but to provide customers with investment as well as help them take out loans so his systems can reach many more hands.
-That's meant taking full advantage of Nvidia's investment grade credit rating and providing backstop guarantees on mega-projects for OpenAI so that buildouts can get funded at lower interest rates.
-As of its last quarterly financial filing in July, Nvidia had $36 billion in off-balance-sheet AI cloud agreements, or backstops, for neoclouds, in addition to its guarantee on up to $105 billion for chips, land and power at a proposed 10 gigawatt OpenAI data center in Ohio. The company signed as a tenant for $20 billion in future data center leases, which will later be assigned to third parties.
-For the vast majority of these deals, Nvidia won't have to pay up unless participants in the project default.
-"If the demand for compute doesn't meet these really super lofty expectations, we're going to have a problem," said David Trainer, founder and CEO of financial research firm New Constructs, in an interview.
-Nvidia declined to comment for this story.
-Market conditions may soon test Nvidia's mettle. Shares of neoclouds CoreWeave, Nebius and IREN, all cash-burning companies in Nvidia's portfolio, are down at least 30% this month. CoreWeave, the biggest of the group, has seen the spread on its credit default swaps soar past 11%, as investors are forced to pay up for insurance against default.
-Nvidia has backed other neoclouds that have run into challenges.
-The company is an investor in Australian AI cloud provider Firmus, which abruptly withdrew its IPO plans this month, as well as Nscale out of the U.K. and SoftBank-backed SB Energy. Both of those companies filed to go public in the U.S. in September but haven't provided updates on their plans in weeks.
-Nvidia wrapped up a third straight down week on Wall Street on Friday, with its stock now off 7.6% in October, on pace for its worst month since November of last year.
-Huang reiterated his confidence in the market this week, telling CNBC on Thursday that demand for neoclouds is "off the charts."
-"What is missing in the middle is the working capital to fuel that growth," Huang told CNBC's Arjun Kharpal on the sidelines of the company's GTC conference in Berlin. "Because there's just so much demand across so many sectors of AI, there's a scarcity of capital."
-Nvidia has taken equity stakes in dozens of companies, including big investments in OpenAI and Anthropic. Its portfolio is worth $99 billion as of the second quarter.
-Building the ecosystem
-Investors told CNBC that a big question surrounding Nvidia is how the company can use its cash and $5 trillion market cap to get more chips into customers' hands, and how much risk it will assume in the process.
-Nvidia graphics processing units are critical for training and deploying AI models. Revenue in the latest fiscal year hit $216 billion, up roughly eightfold since OpenAI launched ChatGPT in late 2022.
-Before the AI boom, Nvidia sold graphics cards that could fit into a standard server rack or PC. Its newest systems are much larger and more expensive. Nvidia's flagship Vera Rubin product is a seven-foot rack containing 72 GPUs and weighing as much as a pickup truck. It costs more than $7 million, according to a Morgan Stanley estimate.
-While Nvidia still dominates the AI chip market, competition is emerging from the likes of Google, which rents out tensor processing units (TPUs) inside its massive cloud offering, and Advanced Micro Devices, which launched its first AI rack called Helios in July.
-Cash is Nvidia's other great advantage. The company generated $70 billion in free cash flow in the first half of this year, while AMD totaled just over $4 billion and Google parent Alphabet went cash flow negative in the second quarter to fund its buildout.
-That's a big edge for Nvidia in building out its ecosystem. The company is now offering a full-service platform complete with software, services, integrated hardware and, for many customers, financing assistance.
-Nvidia's most recent quarterly financial filing in August outlined over $500 billion in off-balance-sheet commitments over the coming years, with a majority maturing through fiscal 2029. That same month, Huang announced a partnership with six large asset managers on a $500 billion financing push designed to treat compute infrastructure as an asset class.
-That agreement, which promised financial firms up to $125 billion in residual value guarantees on GPU financings, was in addition to the stakes Nvidia has taken as a limited partner in private equity funds. The company seeded $2 billion in Brookfield's inaugural AI Infrastructure Partners Fund, which aims to raise $10 billion in total capital, as well as other unconfirmed sums in KKR's Helix Digital Infrastructure (an $11 billion vehicle) and Valor Equity Partners' $5.4 billion dedicated compute fund.
-"We used to build chips that we sell, and these are technology components that people buy and use," Huang told CNBC, in announcing the agreement in August. "But now, Nvidia's AI factory platform is really an investable asset."
-Huang has adopted a marketing mantra to reinforce the unique value of its equipment.
-"We're the most rentable. We're fungible, and we're durable," he said on a podcast with investor Brad Gerstner published last week.
-20 years of hardware in Ohio
-While Nvidia waits for Wall Street firms to pull in investors to expand the GPU loan pool, the chipmaker is already actively fostering record-sized deals in the AI infrastructure space.
-Nvidia's biggest single guarantee is for OpenAI's forthcoming facility in Pike County, Ohio, which could be the largest data center in the world. That deal requires use of Nvidia hardware for at least 20 years.
-The shift from chips to capital carries significant risks should OpenAI run into trouble.
-If OpenAI misses payments or faces insolvency, Nvidia can take over the lease, find a new tenant, or ask the landlord, SB Energy, to sell the facility, guaranteeing to pay the difference for the latter two arrangements up to $105 billion if the release or sale falls below a minimum price. Nvidia could also pay SB Energy a lump sum. On the other side, if OpenAI posts its own collateral, or achieves a high enough credit rating, Nvidia's guarantee ends.
-At CoreWeave, Nvidia's investment includes equity and a commitment to buy up to $6.3 billion of its compute if it can't find another taker.
-Nvidia's backstops can take many forms, such as guaranteeing a minimum resale price or a minimum hourly offtake price for the chips in the event the lender has to recoup the assets. With Sharon AI and other neoclouds, Nvidia's deals have come with revenue-sharing agreements.
-"We believe these AI cloud partners have strong customer demand and robust sales pipelines but are constrained by the large-scale infrastructure that is required to meet that demand," Nvidia said in its quarterly filing.
-Huang said this week that CoreWeave doesn't need Nvidia's backstop and that the neocloud's cost of capital is decreasing. CoreWeave has roughly $51.6 billion in total debt, including about $35 billion in notes, bonds and loans. Yields on its bonds maturing in 2031 and 2032 topped 15%.
-Brian Stutland, portfolio manager at Equity Armor Investments, said the market jitters reflect concerns about the stability of the business.
-CoreWeave and other neoclouds "will sign contracts into the future, and that all looks fine and dandy in their earnings reports, but is that contract going to be stable?" Stutland said. "Is it going to break at some point?"
-Nvidia says its financial support can help customers build the infrastructure needed to meet strong demand for its chips. More computing capacity could also help AI labs develop new models and services, creating further demand for Nvidia products.
-"They'll do $700 billion in revenue next year," Deepwater Asset Management founder Gene Munster told CNBC last month. "That affords them the ability to finance some of their customers."
-Nvidia's credit backstops have mostly kicked in over the past six to 12 months. Its last annual filing, published in February, makes no mention of AI cloud agreements.
-Warren Hosseinion, co-founder of AI infrastructure startup Compute Labs, said Nvidia doesn't want to be in the position of insurer, "but they're willing to play that role while the market and the industry catches up."
-"They kind of control how things move," said Hosseinion, whose company tokenizes GPUs in order to open up pools of capital for neocloud operators. "They have to be very careful about how they release their technology at what pace, because a lot of that will dictate how the market moves around it."
-Not a 'complete panacea'
-Nvidia is actively looking for insurers to bear some of the risk associated with the potential loss in value of GPUs.
-"Insurers are not yet a complete panacea to this problem," said Tom Hoad, executive director of product innovation at global insurance group Howden. "But they are probably going to turn up and be helpful in the right situations, and therefore open up some commercial transactions."
-According to research from New Constructs, Nvidia's net present value of off-balance-sheet liabilities in fiscal 2026 totals over $153 billion, an increase of over $100 billion from last year.
-Such liabilities have been growing across the entire AI trade, mainly in the form of lease obligations. Ratings agencies like Moody's have been sounding the alarm. In 2026, guarantees are the fastest-growing type of off-balance-sheet financing arrangements, the agency said.
-Moody's doesn't count guarantees as debt when rating corporate buyers, but it's "something we're constantly monitoring," said David Gonzales, a vice president at the agency.
-"These things are advanced structures that are unique, and so there is no blanket real approach you can take," he said. Gonzales said it's likely that chips will retain "values in excess of contractual residual value amounts" in the near future, which would mitigate risk in many of Nvidia's financing structures.
-Still, how much exposure investment grade AI players can handle is "the question we're evaluating at all times every day," Gonzales said.
-"It's the center of all of our discussions right now," he said.
-— CNBC's Seema Mody contributed to this report.`,
-    bodyJa: `Nvidia's emergence as financier for the global AI buildout is facing its first major stress test as credit markets tighten for key partners.
-After creating the chips that powered the early stages of the generative artificial intelligence era, Nvidia turned to using its financial prowess to fund AI model developers, data center companies and a host of so-called neoclouds. CEO Jensen Huang's strategy has been to not only build the most advanced technology but to provide customers with investment as well as help them take out loans so his systems can reach many more hands.
-That's meant taking full advantage of Nvidia's investment grade credit rating and providing backstop guarantees on mega-projects for OpenAI so that buildouts can get funded at lower interest rates.
-As of its last quarterly financial filing in July, Nvidia had $36 billion in off-balance-sheet AI cloud agreements, or backstops, for neoclouds, in addition to its guarantee on up to $105 billion for chips, land and power at a proposed 10 gigawatt OpenAI data center in Ohio. The company signed as a tenant for $20 billion in future data center leases, which will later be assigned to third parties.
-For the vast majority of these deals, Nvidia won't have to pay up unless participants in the project default.
-"If the demand for compute doesn't meet these really super lofty expectations, we're going to have a problem," said David Trainer, founder and CEO of financial research firm New Constructs, in an interview.
-Nvidia declined to comment for this story.
-Market conditions may soon test Nvidia's mettle. Shares of neoclouds CoreWeave, Nebius and IREN, all cash-burning companies in Nvidia's portfolio, are down at least 30% this month. CoreWeave, the biggest of the group, has seen the spread on its credit default swaps soar past 11%, as investors are forced to pay up for insurance against default.
-Nvidia has backed other neoclouds that have run into challenges.
-The company is an investor in Australian AI cloud provider Firmus, which abruptly withdrew its IPO plans this month, as well as Nscale out of the U.K. and SoftBank-backed SB Energy. Both of those companies filed to go public in the U.S. in September but haven't provided updates on their plans in weeks.
-Nvidia wrapped up a third straight down week on Wall Street on Friday, with its stock now off 7.6% in October, on pace for its worst month since November of last year.
-Huang reiterated his confidence in the market this week, telling CNBC on Thursday that demand for neoclouds is "off the charts."
-"What is missing in the middle is the working capital to fuel that growth," Huang told CNBC's Arjun Kharpal on the sidelines of the company's GTC conference in Berlin. "Because there's just so much demand across so many sectors of AI, there's a scarcity of capital."
-Nvidia has taken equity stakes in dozens of companies, including big investments in OpenAI and Anthropic. Its portfolio is worth $99 billion as of the second quarter.
-Building the ecosystem
-Investors told CNBC that a big question surrounding Nvidia is how the company can use its cash and $5 trillion market cap to get more chips into customers' hands, and how much risk it will assume in the process.
-Nvidia graphics processing units are critical for training and deploying AI models. Revenue in the latest fiscal year hit $216 billion, up roughly eightfold since OpenAI launched ChatGPT in late 2022.
-Before the AI boom, Nvidia sold graphics cards that could fit into a standard server rack or PC. Its newest systems are much larger and more expensive. Nvidia's flagship Vera Rubin product is a seven-foot rack containing 72 GPUs and weighing as much as a pickup truck. It costs more than $7 million, according to a Morgan Stanley estimate.
-While Nvidia still dominates the AI chip market, competition is emerging from the likes of Google, which rents out tensor processing units (TPUs) inside its massive cloud offering, and Advanced Micro Devices, which launched its first AI rack called Helios in July.
-Cash is Nvidia's other great advantage. The company generated $70 billion in free cash flow in the first half of this year, while AMD totaled just over $4 billion and Google parent Alphabet went cash flow negative in the second quarter to fund its buildout.
-That's a big edge for Nvidia in building out its ecosystem. The company is now offering a full-service platform complete with software, services, integrated hardware and, for many customers, financing assistance.
-Nvidia's most recent quarterly financial filing in August outlined over $500 billion in off-balance-sheet commitments over the coming years, with a majority maturing through fiscal 2029. That same month, Huang announced a partnership with six large asset managers on a $500 billion financing push designed to treat compute infrastructure as an asset class.
-That agreement, which promised financial firms up to $125 billion in residual value guarantees on GPU financings, was in addition to the stakes Nvidia has taken as a limited partner in private equity funds. The company seeded $2 billion in Brookfield's inaugural AI Infrastructure Partners Fund, which aims to raise $10 billion in total capital, as well as other unconfirmed sums in KKR's Helix Digital Infrastructure (an $11 billion vehicle) and Valor Equity Partners' $5.4 billion dedicated compute fund.
-"We used to build chips that we sell, and these are technology components that people buy and use," Huang told CNBC, in announcing the agreement in August. "But now, Nvidia's AI factory platform is really an investable asset."
-Huang has adopted a marketing mantra to reinforce the unique value of its equipment.
-"We're the most rentable. We're fungible, and we're durable," he said on a podcast with investor Brad Gerstner published last week.
-20 years of hardware in Ohio
-While Nvidia waits for Wall Street firms to pull in investors to expand the GPU loan pool, the chipmaker is already actively fostering record-sized deals in the AI infrastructure space.
-Nvidia's biggest single guarantee is for OpenAI's forthcoming facility in Pike County, Ohio, which could be the largest data center in the world. That deal requires use of Nvidia hardware for at least 20 years.
-The shift from chips to capital carries significant risks should OpenAI run into trouble.
-If OpenAI misses payments or faces insolvency, Nvidia can take over the lease, find a new tenant, or ask the landlord, SB Energy, to sell the facility, guaranteeing to pay the difference for the latter two arrangements up to $105 billion if the release or sale falls below a minimum price. Nvidia could also pay SB Energy a lump sum. On the other side, if OpenAI posts its own collateral, or achieves a high enough credit rating, Nvidia's guarantee ends.
-At CoreWeave, Nvidia's investment includes equity and a commitment to buy up to $6.3 billion of its compute if it can't find another taker.
-Nvidia's backstops can take many forms, such as guaranteeing a minimum resale price or a minimum hourly offtake price for the chips in the event the lender has to recoup the assets. With Sharon AI and other neoclouds, Nvidia's deals have come with revenue-sharing agreements.
-"We believe these AI cloud partners have strong customer demand and robust sales pipelines but are constrained by the large-scale infrastructure that is required to meet that demand," Nvidia said in its quarterly filing.
-Huang said this week that CoreWeave doesn't need Nvidia's backstop and that the neocloud's cost of capital is decreasing. CoreWeave has roughly $51.6 billion in total debt, including about $35 billion in notes, bonds and loans. Yields on its bonds maturing in 2031 and 2032 topped 15%.
-Brian Stutland, portfolio manager at Equity Armor Investments, said the market jitters reflect concerns about the stability of the business.
-CoreWeave and other neoclouds "will sign contracts into the future, and that all looks fine and dandy in their earnings reports, but is that contract going to be stable?" Stutland said. "Is it going to break at some point?"
-Nvidia says its financial support can help customers build the infrastructure needed to meet strong demand for its chips. More computing capacity could also help AI labs develop new models and services, creating further demand for Nvidia products.
-"They'll do $700 billion in revenue next year," Deepwater Asset Management founder Gene Munster told CNBC last month. "That affords them the ability to finance some of their customers."
-Nvidia's credit backstops have mostly kicked in over the past six to 12 months. Its last annual filing, published in February, makes no mention of AI cloud agreements.
-Warren Hosseinion, co-founder of AI infrastructure startup Compute Labs, said Nvidia doesn't want to be in the position of insurer, "but they're willing to play that role while the market and the industry catches up."
-"They kind of control how things move," said Hosseinion, whose company tokenizes GPUs in order to open up pools of capital for neocloud operators. "They have to be very careful about how they release their technology at what pace, because a lot of that will dictate how the market moves around it."
-Not a 'complete panacea'
-Nvidia is actively looking for insurers to bear some of the risk associated with the potential loss in value of GPUs.
-"Insurers are not yet a complete panacea to this problem," said Tom Hoad, executive director of product innovation at global insurance group Howden. "But they are probably going to turn up and be helpful in the right situations, and therefore open up some commercial transactions."
-According to research from New Constructs, Nvidia's net present value of off-balance-sheet liabilities in fiscal 2026 totals over $153 billion, an increase of over $100 billion from last year.
-Such liabilities have been growing across the entire AI trade, mainly in the form of lease obligations. Ratings agencies like Moody's have been sounding the alarm. In 2026, guarantees are the fastest-growing type of off-balance-sheet financing arrangements, the agency said.
-Moody's doesn't count guarantees as debt when rating corporate buyers, but it's "something we're constantly monitoring," said David Gonzales, a vice president at the agency.
-"These things are advanced structures that are unique, and so there is no blanket real approach you can take," he said. Gonzales said it's likely that chips will retain "values in excess of contractual residual value amounts" in the near future, which would mitigate risk in many of Nvidia's financing structures.
-Still, how much exposure investment grade AI players can handle is "the question we're evaluating at all times every day," Gonzales said.
-"It's the center of all of our discussions right now," he said.
-— CNBC's Seema Mody contributed to this report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
-    publishedAt: "2026-10-24T11:00:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "arrest-made-after-fire-at-hitler-s-mount-8ae991c1",
-    title: "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-    titleJa: "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
-    summaryJa: "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
-    bodyOriginal: `Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat
-- Published
-Police in the southern German state of Bavaria have detained a suspect during a fire at Adolf Hitler's Alpine mountain retreat, the Kehlsteinhaus, also known as the Eagle's Nest.
-Dispatchers in Traunstein received a fire alarm from the building at 21:15 local time (19:15 GMT) on Friday and firefighters found it engulfed in flames.
-Difficult terrain was hindering efforts to extinguish the blaze and it was still burning early on Saturday, police said, with some 200 emergency personnel deployed. There were no reports of injuries.
-The retreat, above the town of Berchtesgaden, was one of several buildings in the area used by the Nazi dictator and his entourage during World War Two.
-Hitler and top Nazi officials used his nearby Berghof residence to plan the invasion of the USSR in 1941 and the whole complex was considered one of his headquarters.
-He also used the area as a backdrop for propaganda films portraying him as a lover of animals and nature.
-A criminal investigation is under way to determine whether the suspect is connected to the fire.
-Completed by the Nazis in 1938, the Eagle's Nest escaped destruction after their defeat in 1945.
-Since then, it has become a popular tourist destination and houses a mountain inn.
-It serves as "a cautionary reminder of the abysses of the inhumane Nazi dictatorship", according to its official website, external.
-During WW2, Hitler and his followers were responsible for the deaths of tens of millions of people, including the mass murder of European Jews. Homosexuals, gypsies, the disabled and ethnic minorities were sent to concentration camps and put to death.
-There has been a wider debate in Germany and Vienna over whether to preserve, repurpose or demolish buildings connected to Hitler.
-While some say these buildings should be preserved for historical reasons, others have raised concerns that they could be used as monuments or places of pilgrimage for neo-Nazis and far-right extremists.
-In June, Berlin authorities announced they would tear down one of Hitler's bunkers - described at the time as "the power centre of Nazi Germany" - to build flats and offices on the site.
-Those critical of the plans said the bunker had "significant historical value" and that it should have been turned into a museum and memorial site with an exhibit about the end of the war.
-And in July, after years of controversy, Austrian authorities refurbished the house in the town of Braunau am Inn in which Hitler was born and turned it into a police station.
-Related topics
-- Published15 November 2025`,
-    bodyJa: `Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat
-- Published
-Police in the southern German state of Bavaria have detained a suspect during a fire at Adolf Hitler's Alpine mountain retreat, the Kehlsteinhaus, also known as the Eagle's Nest.
-Dispatchers in Traunstein received a fire alarm from the building at 21:15 local time (19:15 GMT) on Friday and firefighters found it engulfed in flames.
-Difficult terrain was hindering efforts to extinguish the blaze and it was still burning early on Saturday, police said, with some 200 emergency personnel deployed. There were no reports of injuries.
-The retreat, above the town of Berchtesgaden, was one of several buildings in the area used by the Nazi dictator and his entourage during World War Two.
-Hitler and top Nazi officials used his nearby Berghof residence to plan the invasion of the USSR in 1941 and the whole complex was considered one of his headquarters.
-He also used the area as a backdrop for propaganda films portraying him as a lover of animals and nature.
-A criminal investigation is under way to determine whether the suspect is connected to the fire.
-Completed by the Nazis in 1938, the Eagle's Nest escaped destruction after their defeat in 1945.
-Since then, it has become a popular tourist destination and houses a mountain inn.
-It serves as "a cautionary reminder of the abysses of the inhumane Nazi dictatorship", according to its official website, external.
-During WW2, Hitler and his followers were responsible for the deaths of tens of millions of people, including the mass murder of European Jews. Homosexuals, gypsies, the disabled and ethnic minorities were sent to concentration camps and put to death.
-There has been a wider debate in Germany and Vienna over whether to preserve, repurpose or demolish buildings connected to Hitler.
-While some say these buildings should be preserved for historical reasons, others have raised concerns that they could be used as monuments or places of pilgrimage for neo-Nazis and far-right extremists.
-In June, Berlin authorities announced they would tear down one of Hitler's bunkers - described at the time as "the power centre of Nazi Germany" - to build flats and offices on the site.
-Those critical of the plans said the bunker had "significant historical value" and that it should have been turned into a museum and memorial site with an exhibit about the end of the war.
-And in July, after years of controversy, Austrian authorities refurbished the house in the town of Braunau am Inn in which Hitler was born and turned it into a police station.
-Related topics
-- Published15 November 2025`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-24T10:22:34+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/b8fe52a0-cf7e-11f1-ae2e-3fbb7ae6bffe.jpg",
-    readTime: 7,
-  },
-  {
-    id: "trump-is-pushing-a-massive-ai-buildout-h-50dea24f",
-    title: "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
-    titleJa: "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
-    summaryJa: "A new CNBC survey finds broad voter opposition to nearby AI data centers, creating a political challenge for Trump and Republicans ahead of the midterm election.",
-    bodyOriginal: `President Donald Trump has cast America's artificial intelligence race with China as a national-security imperative, pushing faster development of the technology and an immense buildout of the data centers and power infrastructure needed to fuel it.
-But the new CNBC All-America Economic Survey reveals a growing political tension beneath that agenda: Republican voters broadly support the push for AI development, but many oppose building the sprawling infrastructure needed to power it in their own backyards.
-Nearly 55% of MAGA supporters want companies to keep developing advanced AI while Congress works on regulations, versus 27% who favor a pause. But only 29% would support a data center within 10 miles of their home, while 40% oppose one. Among all Republicans and Republican-leaning voters — not just those who identify themselves with the MAGA movement — those who say they would support a data center near their home falls to 24%.
-Across the electorate, 63% don't want a nearby AI data center and just 13% support one. Democrats lead the opposition: 80% oppose nearby facilities while just 4% support them.
-That resistance is increasingly forcing Trump and vulnerable Republicans who once championed data centers to recalibrate as they head into a bleak midterm election environment for the party.
-"Many people are annoyed by these data centers," said Brad Carson, a former Democratic congressman from Oklahoma and co-founder of Public First Action PAC, an AI-industry-backed political group pushing for stronger regulation and safeguards. "People are also strongly insistent upon reasonable guardrails of AI, and that's going to be hard to beat."
-The CNBC survey of 1,000 registered voters nationwide was conducted Oct. 14-18 by Hart Research Associates and Public Opinion Strategies and has a margin of error of plus or minus 3.1 percentage points. The data-center proximity question was asked of a half-sample of roughly 500 voters, with a margin of error of plus or minus 4.38 percentage points.
-Read the full survey results here.
-The politics have shifted from the early AI boom, when Washington and Silicon Valley sold the technology as an avenue for investment, growth and American dominance.
-But as the buildout accelerates, its physical costs are becoming harder to ignore. Communities are fighting data centers over spiking electric bills, soaring electricity and water demand, noise, land use and taxpayer subsidies. Coupled with job-displacement fears from AI, opponents now point to the facilities as a physical symbol of who benefits from the boom and who gets stuck with the bill.
-The industry rejects that framing.
-“The data center industry provides significant, tangible benefits,” said Dan Diorio of the Data Center Coalition, pointing to jobs, investment and tax revenue while adding that operators are committed to “paying for the energy we use."
-But when asked their top concerns if Republicans retain Congress, 18% of voters in the survey cited a failure to regulate AI and data centers. That tied continued military efforts in Iran and outranked continued Immigration and Customs Enforcement deportations at 15%, cuts to health insurance subsidies at 10% and an extension of Trump's tariffs at 5%.
-Even among voters who want Republicans to retain control, 17% cited weak AI and data center oversight — second only to a failure to bring down prices.
-GOP strategists have taken note.
-In August, the National Republican Senatorial Committee warned AI companies that data center backlash was threatening Sen. Jon Husted's reelection in Ohio, calling the issue a midterm "sleeper" that could sour politicians nationwide on future projects, Axios reported.
-As Ohio lieutenant governor in 2024, Husted helped announce a $10 billion Amazon Web Services expansion, calling AI facilities "crucial to America's economic superiority." Now, in a tight Senate race against Democrat Sherrod Brown, who has made data-center opposition a campaign issue, Husted is promoting stalled legislation to make large facilities cover their own grid and generation costs rather than pass them on to residential ratepayers.
-Texas tells a similar story. Less than a year after Gov. Greg Abbott hailed the state as an "epicenter of AI development," he halted data center permits pending grid- and water-impact reviews and called for ending state tax incentives.
-Trump himself is showing signs of the political pressure. In a Truth Social post Wednesday, he said data center developers should pay host communities a financial "dividend" and generate their own power, arguing that local payouts can turn unpopular projects into popular ones.
-For now, Democrats hold a modest edge on managing the issue: 32% of voters trust them to handle data center expansion, versus 24% for the Republicans. But 27% said neither party would do a better job than the other.
-And the CNBC survey indicates this skepticism runs deeper than local zoning. Overall, 52% of registered voters want advanced AI development paused until Congress passes safety regulations, compared to 32% who favor moving ahead to keep pace with China. Democrats remain far more cautious: 70% favor a pause, while just 18% support pushing forward.
-"The debate has shifted dramatically," Carson told CNBC. "A year ago, there were many people who said, 'Let it cook, no regulation at all, exempt the companies from normal rules.'" Carson said sentiment toward AI has "deteriorated a lot over the last six months."`,
-    bodyJa: `President Donald Trump has cast America's artificial intelligence race with China as a national-security imperative, pushing faster development of the technology and an immense buildout of the data centers and power infrastructure needed to fuel it.
-But the new CNBC All-America Economic Survey reveals a growing political tension beneath that agenda: Republican voters broadly support the push for AI development, but many oppose building the sprawling infrastructure needed to power it in their own backyards.
-Nearly 55% of MAGA supporters want companies to keep developing advanced AI while Congress works on regulations, versus 27% who favor a pause. But only 29% would support a data center within 10 miles of their home, while 40% oppose one. Among all Republicans and Republican-leaning voters — not just those who identify themselves with the MAGA movement — those who say they would support a data center near their home falls to 24%.
-Across the electorate, 63% don't want a nearby AI data center and just 13% support one. Democrats lead the opposition: 80% oppose nearby facilities while just 4% support them.
-That resistance is increasingly forcing Trump and vulnerable Republicans who once championed data centers to recalibrate as they head into a bleak midterm election environment for the party.
-"Many people are annoyed by these data centers," said Brad Carson, a former Democratic congressman from Oklahoma and co-founder of Public First Action PAC, an AI-industry-backed political group pushing for stronger regulation and safeguards. "People are also strongly insistent upon reasonable guardrails of AI, and that's going to be hard to beat."
-The CNBC survey of 1,000 registered voters nationwide was conducted Oct. 14-18 by Hart Research Associates and Public Opinion Strategies and has a margin of error of plus or minus 3.1 percentage points. The data-center proximity question was asked of a half-sample of roughly 500 voters, with a margin of error of plus or minus 4.38 percentage points.
-Read the full survey results here.
-The politics have shifted from the early AI boom, when Washington and Silicon Valley sold the technology as an avenue for investment, growth and American dominance.
-But as the buildout accelerates, its physical costs are becoming harder to ignore. Communities are fighting data centers over spiking electric bills, soaring electricity and water demand, noise, land use and taxpayer subsidies. Coupled with job-displacement fears from AI, opponents now point to the facilities as a physical symbol of who benefits from the boom and who gets stuck with the bill.
-The industry rejects that framing.
-“The data center industry provides significant, tangible benefits,” said Dan Diorio of the Data Center Coalition, pointing to jobs, investment and tax revenue while adding that operators are committed to “paying for the energy we use."
-But when asked their top concerns if Republicans retain Congress, 18% of voters in the survey cited a failure to regulate AI and data centers. That tied continued military efforts in Iran and outranked continued Immigration and Customs Enforcement deportations at 15%, cuts to health insurance subsidies at 10% and an extension of Trump's tariffs at 5%.
-Even among voters who want Republicans to retain control, 17% cited weak AI and data center oversight — second only to a failure to bring down prices.
-GOP strategists have taken note.
-In August, the National Republican Senatorial Committee warned AI companies that data center backlash was threatening Sen. Jon Husted's reelection in Ohio, calling the issue a midterm "sleeper" that could sour politicians nationwide on future projects, Axios reported.
-As Ohio lieutenant governor in 2024, Husted helped announce a $10 billion Amazon Web Services expansion, calling AI facilities "crucial to America's economic superiority." Now, in a tight Senate race against Democrat Sherrod Brown, who has made data-center opposition a campaign issue, Husted is promoting stalled legislation to make large facilities cover their own grid and generation costs rather than pass them on to residential ratepayers.
-Texas tells a similar story. Less than a year after Gov. Greg Abbott hailed the state as an "epicenter of AI development," he halted data center permits pending grid- and water-impact reviews and called for ending state tax incentives.
-Trump himself is showing signs of the political pressure. In a Truth Social post Wednesday, he said data center developers should pay host communities a financial "dividend" and generate their own power, arguing that local payouts can turn unpopular projects into popular ones.
-For now, Democrats hold a modest edge on managing the issue: 32% of voters trust them to handle data center expansion, versus 24% for the Republicans. But 27% said neither party would do a better job than the other.
-And the CNBC survey indicates this skepticism runs deeper than local zoning. Overall, 52% of registered voters want advanced AI development paused until Congress passes safety regulations, compared to 32% who favor moving ahead to keep pace with China. Democrats remain far more cautious: 70% favor a pause, while just 18% support pushing forward.
-"The debate has shifted dramatically," Carson told CNBC. "A year ago, there were many people who said, 'Let it cook, no regulation at all, exempt the companies from normal rules.'" Carson said sentiment toward AI has "deteriorated a lot over the last six months."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
-    publishedAt: "2026-10-24T10:00:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "woman-65-becomes-second-patient-to-die-o-6d5aa251",
-    title: "Woman, 65, becomes second patient to die of Ebola in Kenya",
-    titleJa: "Woman, 65, becomes second patient to die of Ebola in Kenya",
-    summaryJa: "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
-    bodyOriginal: `Woman, 65, becomes second patient to die of Ebola in Kenya
-- Published
-Kenya has recorded its second death from Ebola as it handles its first ever outbreak of the disease.
-A woman, aged 65, who was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo, died after being placed in quarantine, the health ministry said.
-Seven other Ebola patients were receiving treatment at two isolation facilities, it added.
-All the cases were within "one cluster, with no evidence of community spread", the ministry said.
-More than 4,000 people have died in Africa since Ebola was confirmed in DR Congo in May, making it the second most deadly outbreak of the disease.
-Kenya's latest victim had been under quarantine when she developed symptoms on 13 October, the health ministry said.
-The first death, on 5 October, was that of a man who fell ill in September and was treated in several hospitals in DR Congo before arriving in the Kenyan capital, Nairobi, where he died a few days later.
-Those still being treated are three other relatives of the first victim, three health workers and a hospital cleaner.
-The US has warned its citizens against travelling to Kenya, while neighbouring countries such as Uganda, Ethiopia and Somalia are also on alert.
-Ebola is a rare but deadly disease, external caused by a virus. As the disease progresses, vomiting and diarrhoea develop and it can lead to organ failure. Some, but not all, patients develop internal and external bleeding.
-The disease spreads from one person to another by contact with infected bodily fluids such as blood or vomit.
-The Bundibugyo species of Ebola is relatively rare, with no approved vaccine or treatment - though trials are under way.
-With more than 9,500 cases in DR Congo, Kenya faces a steady risk of new cases arriving across borders, according to the International Rescue Committee, which has been working alongside both governments to contain the spread.
-Kenya has introduced enhanced screening for travellers arriving from DR Congo and nine other countries it considers to be at high risk: Uganda, Tanzania, Rwanda, Burundi, Angola, Zambia, Ethiopia, South Sudan and the Central African Republic.
-Travellers arriving from those countries are required to complete a digital surveillance form before boarding their flights and present a QR code to port health officials on arrival.
-Kenya also ordered enhanced public health screening of aircraft arriving from those countries, as authorities seek to prevent further imported cases.
-Within the country, the government has been sharing public messages to create awareness about Ebola, including encouraging people to promptly report any suspected cases and seek care at a hospital.
-Is Ebola under control in Kenya after nine cases confirmed?
-- Published3 days ago
-Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat
-- Published1 day ago
-Nigeria's health minister said its sole confirmed case of Ebola appeared to be genetically related to a strain identified earlier in Kenya.
-Prof Ali Pate said there was no evidence so far that the Kenyan patient had travelled to Nigeria, but that further testing was under way.
-Health officials have been investigating whether Nigeria's first case crossed paths with Kenya's first patient. Both are believed to have travelled through Uganda's Entebbe airport earlier this month.
-Uganda's health ministry announced on Friday that people who had travelled to DR Congo would no longer be able to transit via Uganda as part of its prevention measures.
-Go to BBCAfrica.com, external for more news from the African continent.
-Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external`,
-    bodyJa: `Woman, 65, becomes second patient to die of Ebola in Kenya
-- Published
-Kenya has recorded its second death from Ebola as it handles its first ever outbreak of the disease.
-A woman, aged 65, who was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo, died after being placed in quarantine, the health ministry said.
-Seven other Ebola patients were receiving treatment at two isolation facilities, it added.
-All the cases were within "one cluster, with no evidence of community spread", the ministry said.
-More than 4,000 people have died in Africa since Ebola was confirmed in DR Congo in May, making it the second most deadly outbreak of the disease.
-Kenya's latest victim had been under quarantine when she developed symptoms on 13 October, the health ministry said.
-The first death, on 5 October, was that of a man who fell ill in September and was treated in several hospitals in DR Congo before arriving in the Kenyan capital, Nairobi, where he died a few days later.
-Those still being treated are three other relatives of the first victim, three health workers and a hospital cleaner.
-The US has warned its citizens against travelling to Kenya, while neighbouring countries such as Uganda, Ethiopia and Somalia are also on alert.
-Ebola is a rare but deadly disease, external caused by a virus. As the disease progresses, vomiting and diarrhoea develop and it can lead to organ failure. Some, but not all, patients develop internal and external bleeding.
-The disease spreads from one person to another by contact with infected bodily fluids such as blood or vomit.
-The Bundibugyo species of Ebola is relatively rare, with no approved vaccine or treatment - though trials are under way.
-With more than 9,500 cases in DR Congo, Kenya faces a steady risk of new cases arriving across borders, according to the International Rescue Committee, which has been working alongside both governments to contain the spread.
-Kenya has introduced enhanced screening for travellers arriving from DR Congo and nine other countries it considers to be at high risk: Uganda, Tanzania, Rwanda, Burundi, Angola, Zambia, Ethiopia, South Sudan and the Central African Republic.
-Travellers arriving from those countries are required to complete a digital surveillance form before boarding their flights and present a QR code to port health officials on arrival.
-Kenya also ordered enhanced public health screening of aircraft arriving from those countries, as authorities seek to prevent further imported cases.
-Within the country, the government has been sharing public messages to create awareness about Ebola, including encouraging people to promptly report any suspected cases and seek care at a hospital.
-Is Ebola under control in Kenya after nine cases confirmed?
-- Published3 days ago
-Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat
-- Published1 day ago
-Nigeria's health minister said its sole confirmed case of Ebola appeared to be genetically related to a strain identified earlier in Kenya.
-Prof Ali Pate said there was no evidence so far that the Kenyan patient had travelled to Nigeria, but that further testing was under way.
-Health officials have been investigating whether Nigeria's first case crossed paths with Kenya's first patient. Both are believed to have travelled through Uganda's Entebbe airport earlier this month.
-Uganda's health ministry announced on Friday that people who had travelled to DR Congo would no longer be able to transit via Uganda as part of its prevention measures.
-Go to BBCAfrica.com, external for more news from the African continent.
-Follow us on Twitter @BBCAfrica, external, on Facebook at BBC Africa, external or on Instagram at bbcafrica, external`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-24T09:46:53+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d0b/live/15946bd0-cf39-11f1-a003-d5e5a8cb108b.jpg",
-    readTime: 9,
   },
 ];
 
