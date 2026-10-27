@@ -15,6 +15,428 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "hsbc-announces-share-buyback-of-up-to-1-fcd0b412",
+    title: "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
+    titleJa: "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
+    summaryJa: "Europe's largest bank HSBC on Tuesday reported third-quarter pretax profit that largely met analysts' estimates complied by the lender, and announced a share buyback of up to $1 billion by the end of this year.",
+    bodyOriginal: `Europe's largest bank HSBC on Tuesday reported third-quarter pretax profit that largely met analysts' estimates complied by the lender, and announced a share buyback of up to $1 billion by the end of this year.
+Revenue at HSBC rose to $18.6 billion from $17.8 billion in the same period last year, while banking net interest income rose 6%, alongside the bank clocking higher fee income form its corporate and institutional banking and wealth business.
+Here are HSBC's third -quarter results compared with the consensus estimates compiled by the bank.
+- Pre-tax profit: $9.63 billion vs. $9.69 billion expected
+- Revenue: $18.6 billion vs. $18.93 billion expected
+The bank's third-quarter profit before tax increased 32% from a year earlier to $9.6 billion, also reflecting the absence of $1.4 billion in legal provisions recorded in the same period last year. Higher revenue and lower credit losses also supported earnings.
+HSBC approved a third interim divided of 10 cents per share.
+The bank's net interest income rose to $9.3 billion in the third quarter, supported by deposit growth and higher yields from reinvestments in the bank's structural portfolio.
+Meanwhile, operating expenses decreased 12% year on year to $8.8 billion, largely due to non-recurrence of legal provisions recorded a year earlier. Excluding notable items, expenses rose amid inflation and higher spending on technology.
+The earnings come as HSBC is reportedly considering significant job cuts in its U.K. wealth management business, as part of a broader push to adopt artificial intelligence.`,
+    bodyJa: `Europe's largest bank HSBC on Tuesday reported third-quarter pretax profit that largely met analysts' estimates complied by the lender, and announced a share buyback of up to $1 billion by the end of this year.
+Revenue at HSBC rose to $18.6 billion from $17.8 billion in the same period last year, while banking net interest income rose 6%, alongside the bank clocking higher fee income form its corporate and institutional banking and wealth business.
+Here are HSBC's third -quarter results compared with the consensus estimates compiled by the bank.
+- Pre-tax profit: $9.63 billion vs. $9.69 billion expected
+- Revenue: $18.6 billion vs. $18.93 billion expected
+The bank's third-quarter profit before tax increased 32% from a year earlier to $9.6 billion, also reflecting the absence of $1.4 billion in legal provisions recorded in the same period last year. Higher revenue and lower credit losses also supported earnings.
+HSBC approved a third interim divided of 10 cents per share.
+The bank's net interest income rose to $9.3 billion in the third quarter, supported by deposit growth and higher yields from reinvestments in the bank's structural portfolio.
+Meanwhile, operating expenses decreased 12% year on year to $8.8 billion, largely due to non-recurrence of legal provisions recorded a year earlier. Excluding notable items, expenses rose amid inflation and higher spending on technology.
+The earnings come as HSBC is reportedly considering significant job cuts in its U.K. wealth management business, as part of a broader push to adopt artificial intelligence.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
+    publishedAt: "2026-10-27T04:42:31+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "judge-fast-tracks-doj-s-alaska-senate-la-9de3dee4",
+    title: "Judge fast-tracks DOJ's Alaska Senate lawsuit as Peltola seeks dismissal before Election Day",
+    titleJa: "Judge fast-tracks DOJ's Alaska Senate lawsuit as Peltola seeks dismissal before Election Day",
+    summaryJa: "The winner of the Alaska Senate election could determine whether Republicans or Democrats have a majority in the Senate in the next Congress.",
+    bodyOriginal: `A federal judge Monday night fast-tracked the Department of Justice's lawsuit seeking to block prompt certification of Alaska's Senate election if Republican incumbent Sen. Dan Sullivan loses the race because of potential voter confusion from another candidate who shares his name.
+Judge Sharon Gleason's order sets the stage for her to potentially rule on a request by the campaign of Democratic nominee Mary Peltola to dismiss the suit before Election Day, Nov. 3.
+The winner of the race could determine which party holds a majority in the Senate starting in January.
+Gleason granted a motion by Peltola's campaign and the Democratic Senatorial Campaign Committee to expedite consideration of the case in U.S. District Court in Alaska.
+The judge ordered the DOJ to respond by 5 p.m. Alaska Time on Tuesday to motions to intervene in the case by Peltola's campaign, the DSCC, the League of Women Voters and the advocacy group Common Cause. Gleason said she intends to rule on the motions to intervene by late Wednesday afternoon.
+If she grants the motions to intervene, Gleason said the DOJ should be prepared to respond to the motion to dismiss the case by Peltola's campaign and the DSCC by 5 p.m. Thursday.
+Shortly after Gleason issued her order, Alaska election officials filed a motion asking the judge to dismiss the lawsuit "immediately, with prejudice, because the complaint has no legal basis." The filing was the first by state officials in the case.
+The motion, which seeks a decision by Nov. 2 — the day before the election — says Alaska's Division of Elections "has taken significant steps to distinguish" between the two Sullivans on the ballot, "so that voters can easily determine which candidate is which."
+The motion said that "the United States lacks authority to intervene in state elections at all, much less in support of a favored candidate."
+"This lawsuit and this requested relief cast a cloud over Alaska's election that is contrary to the public interest and that the Court should not allow to linger," lawyers for the officials said in a court filing.
+A lawyer for Peltola's campaign and the DSCC in a court filing Sunday said they are "seriously concerned" President Donald Trump, a Republican, and Attorney General Todd Blanche will use the lawsuit to "lay the groundwork for unlawful efforts to challenge a potential Peltola victory" if the complaint remains pending as of Nov. 3.
+The Department of Justice filed the suit Thursday. Trump later that day said he ordered it.
+The DOJ's suit asks a judge to bar Alaska from certifying the Senate race results if incumbent Sen. Sullivan loses by a margin that could be attributable to voters mistakenly casting their ballots for Daniel J. Sullivan.
+The DOJ, in that case, would want an investigation to determine whether enough voters were confused by the men's names to swing the vote to another candidate, presumably the former Rep. Peltola.
+The DOJ claims that Daniel J. Sullivan's "sole purpose" of running "is to benefit the Peltola campaign by reducing the number of votes for Senator Sullivan."
+Daniel J. Sullivan, in an email to the Alaska Beacon on Monday, said, "This experience has been beyond anything I could have ever imagined."
+"To say that it has now become overwhelming and intimidating is an understatement. It is unending stress, at times paralyzing and I am looking forward to it being over," Sullivan said, according to the news outlet.
+"I ran because I was unhappy with the status quo and wanted to be a voice for common sense, Alaska values and change," Sullivan said. "With the litigation and threats, I was never really able to get up and running like I wanted, but I did the best I could under the circumstances."
+"As for the DOJ lawsuit against the state, it seems a gross misuse of the Justice Department for a situation that has already been litigated and resolved by the Alaska Supreme Court," he said, referencing a court action that put his name on the primary ballot after election officials initially rejected it.
+"I think the Division of Elections did a notable job of differentiating two candidates on the ballot with similar names and the primary showed there was little if any confusion," he said. "Alaskan voters are smart and I have faith in their ability to make an informed decision on their ballots."
+In their motion to expedite the case, Peltola's campaign and the DSCC said, "DOJ filed this lawsuit in the midst of the ongoing general election, less than two weeks before election day, raising issues governed exclusively by state law that were definitively resolved by the Alaska Supreme Court months ago."
+"DOJ seeks an unprecedented order precluding certification of the U.S. Senate election if the candidate the President favors loses narrowly," the filing said.
+"As the proposed Motion to Dismiss reflects, DOJ's claims are utterly without legal basis," the filing said.
+"The Court should not allow this lawsuit to hang like the Sword of Damocles over the ongoing election, lending false legitimacy to the President's and the Attorney General's ongoing efforts to spread false narratives about Alaska's elections as voting continues and as results begin to be tabulated next week."
+The DOJ declined to comment Monday on the motions, but pointed to an X post by Blanche on Sunday.
+"The Department of Justice does not seek to stop any ballot from being cast or to stop the certification of Alaska's election," Blanche had said. "This litigation seeks to ensure that after Alaskans cast their ballots, they are preserved in a manner so that only Alaska's governing officials have the information necessary to make a determination as to whether Alaskan voters were confused or mislead."
+"The lawsuit was written by Justice Department attorneys and the Department did not coordinate with any campaign or candidate, but rather relied solely on federal law," Blanche said.
+The department has not said how any investigation before certification of the election could determine whether a voter was confused about which Sullivan they were voting for. The ballot for the election notes that Sen. Sullivan — whose name is listed as Dan S. Sullivan — is an incumbent and a Republican. There are no words next to the name of the other Sullivan, whose name is spelled out Daniel J. Sullivan.
+Peltola on Friday night told MS NOW's Nicolle Wallace that the DOJ's suit "is exactly the kind of corruption that Alaskans are sick and tired of."
+"This is clearly a very desperate attempt to cling to power, using his allies in Washington, D.C., to rig the system even further," Peltola said.
+Peltola's campaign on Sunday said that on Saturday night she and her family "sustained minor injuries" that required medical attention after a vehicle transporting them en route to the Alaska Federation of Natives Annual Banquet was struck by another driver.
+As a result, Peltola posted events in Fairbanks and Bethel on Sunday and Monday. The campaign said that those events would be rescheduled.`,
+    bodyJa: `A federal judge Monday night fast-tracked the Department of Justice's lawsuit seeking to block prompt certification of Alaska's Senate election if Republican incumbent Sen. Dan Sullivan loses the race because of potential voter confusion from another candidate who shares his name.
+Judge Sharon Gleason's order sets the stage for her to potentially rule on a request by the campaign of Democratic nominee Mary Peltola to dismiss the suit before Election Day, Nov. 3.
+The winner of the race could determine which party holds a majority in the Senate starting in January.
+Gleason granted a motion by Peltola's campaign and the Democratic Senatorial Campaign Committee to expedite consideration of the case in U.S. District Court in Alaska.
+The judge ordered the DOJ to respond by 5 p.m. Alaska Time on Tuesday to motions to intervene in the case by Peltola's campaign, the DSCC, the League of Women Voters and the advocacy group Common Cause. Gleason said she intends to rule on the motions to intervene by late Wednesday afternoon.
+If she grants the motions to intervene, Gleason said the DOJ should be prepared to respond to the motion to dismiss the case by Peltola's campaign and the DSCC by 5 p.m. Thursday.
+Shortly after Gleason issued her order, Alaska election officials filed a motion asking the judge to dismiss the lawsuit "immediately, with prejudice, because the complaint has no legal basis." The filing was the first by state officials in the case.
+The motion, which seeks a decision by Nov. 2 — the day before the election — says Alaska's Division of Elections "has taken significant steps to distinguish" between the two Sullivans on the ballot, "so that voters can easily determine which candidate is which."
+The motion said that "the United States lacks authority to intervene in state elections at all, much less in support of a favored candidate."
+"This lawsuit and this requested relief cast a cloud over Alaska's election that is contrary to the public interest and that the Court should not allow to linger," lawyers for the officials said in a court filing.
+A lawyer for Peltola's campaign and the DSCC in a court filing Sunday said they are "seriously concerned" President Donald Trump, a Republican, and Attorney General Todd Blanche will use the lawsuit to "lay the groundwork for unlawful efforts to challenge a potential Peltola victory" if the complaint remains pending as of Nov. 3.
+The Department of Justice filed the suit Thursday. Trump later that day said he ordered it.
+The DOJ's suit asks a judge to bar Alaska from certifying the Senate race results if incumbent Sen. Sullivan loses by a margin that could be attributable to voters mistakenly casting their ballots for Daniel J. Sullivan.
+The DOJ, in that case, would want an investigation to determine whether enough voters were confused by the men's names to swing the vote to another candidate, presumably the former Rep. Peltola.
+The DOJ claims that Daniel J. Sullivan's "sole purpose" of running "is to benefit the Peltola campaign by reducing the number of votes for Senator Sullivan."
+Daniel J. Sullivan, in an email to the Alaska Beacon on Monday, said, "This experience has been beyond anything I could have ever imagined."
+"To say that it has now become overwhelming and intimidating is an understatement. It is unending stress, at times paralyzing and I am looking forward to it being over," Sullivan said, according to the news outlet.
+"I ran because I was unhappy with the status quo and wanted to be a voice for common sense, Alaska values and change," Sullivan said. "With the litigation and threats, I was never really able to get up and running like I wanted, but I did the best I could under the circumstances."
+"As for the DOJ lawsuit against the state, it seems a gross misuse of the Justice Department for a situation that has already been litigated and resolved by the Alaska Supreme Court," he said, referencing a court action that put his name on the primary ballot after election officials initially rejected it.
+"I think the Division of Elections did a notable job of differentiating two candidates on the ballot with similar names and the primary showed there was little if any confusion," he said. "Alaskan voters are smart and I have faith in their ability to make an informed decision on their ballots."
+In their motion to expedite the case, Peltola's campaign and the DSCC said, "DOJ filed this lawsuit in the midst of the ongoing general election, less than two weeks before election day, raising issues governed exclusively by state law that were definitively resolved by the Alaska Supreme Court months ago."
+"DOJ seeks an unprecedented order precluding certification of the U.S. Senate election if the candidate the President favors loses narrowly," the filing said.
+"As the proposed Motion to Dismiss reflects, DOJ's claims are utterly without legal basis," the filing said.
+"The Court should not allow this lawsuit to hang like the Sword of Damocles over the ongoing election, lending false legitimacy to the President's and the Attorney General's ongoing efforts to spread false narratives about Alaska's elections as voting continues and as results begin to be tabulated next week."
+The DOJ declined to comment Monday on the motions, but pointed to an X post by Blanche on Sunday.
+"The Department of Justice does not seek to stop any ballot from being cast or to stop the certification of Alaska's election," Blanche had said. "This litigation seeks to ensure that after Alaskans cast their ballots, they are preserved in a manner so that only Alaska's governing officials have the information necessary to make a determination as to whether Alaskan voters were confused or mislead."
+"The lawsuit was written by Justice Department attorneys and the Department did not coordinate with any campaign or candidate, but rather relied solely on federal law," Blanche said.
+The department has not said how any investigation before certification of the election could determine whether a voter was confused about which Sullivan they were voting for. The ballot for the election notes that Sen. Sullivan — whose name is listed as Dan S. Sullivan — is an incumbent and a Republican. There are no words next to the name of the other Sullivan, whose name is spelled out Daniel J. Sullivan.
+Peltola on Friday night told MS NOW's Nicolle Wallace that the DOJ's suit "is exactly the kind of corruption that Alaskans are sick and tired of."
+"This is clearly a very desperate attempt to cling to power, using his allies in Washington, D.C., to rig the system even further," Peltola said.
+Peltola's campaign on Sunday said that on Saturday night she and her family "sustained minor injuries" that required medical attention after a vehicle transporting them en route to the Alaska Federation of Natives Annual Banquet was struck by another driver.
+As a result, Peltola posted events in Fairbanks and Bethel on Sunday and Monday. The campaign said that those events would be rescheduled.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
+    publishedAt: "2026-10-27T04:40:30+00:00",
+    category: "自動車",
+    imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "what-gave-this-city-its-best-place-to-re-e034d767",
+    title: "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
+    titleJa: "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
+    summaryJa: "Low cost of living, high quality of life and favorable taxes for retirees, for the win.",
+    bodyOriginal: `Low cost of living, high quality of life and favorable taxes for retirees, for the win.`,
+    bodyJa: `Low cost of living, high quality of life and favorable taxes for retirees, for the win.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+    publishedAt: "2026-10-27T04:01:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-51699751",
+    readTime: 2,
+  },
+  {
+    id: "china-industrial-profits-post-strongest-b1bbff3c",
+    title: "China industrial profits post strongest growth in three months as tech boom widens economic divide",
+    titleJa: "China industrial profits post strongest growth in three months as tech boom widens economic divide",
+    summaryJa: "The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings at miners, chipmakers and raw-material suppliers.",
+    bodyOriginal: `China's industrial profits grew at their strongest pace last month since June, as a boom in manufacturing tied to artificial intelligence offset drag from persistently weak domestic demand.
+Profits at large industrial firms rose 14.4% in September from a year earlier, according to data released Tuesday by the National Bureau of Statistics. For the first nine months of this year, industrial profits climbed 15.5%, slightly below the 15.7% rise in the January-September period.
+The strength comes as industrial earnings swung to double-digit growth earlier this year, following a modest gain in 2025 after three straight years of declines, helped by Beijing's efforts to curb rampant price wars across sectors and surging demand for AI-related equipment.
+The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings for miners, chipmakers and raw-material suppliers this year, even as downstream manufacturers face rising input costs and weak domestic demand.
+The uptick in earnings came as factory-gate prices rose at their fastest pace since mid-2022, driven by higher energy and raw material prices amid the Middle East conflict.
+AI boom vs consumer bust
+Earnings growth in high-tech sectors, such as AI and robotics, has been outperforming profits in consumer-related industries, including clothing, autos and furniture, underscoring the increasingly bifurcated momentum in the economy.
+NBS Chief Statistician Yu Weining attributed earnings growth mostly to surging profits in electronics and advanced-technology manufacturing sectors. Electronic special materials manufacturers saw profits more than triple, while they jumped 51.7% for semiconductor device equipment makers, as demand for AI computing power and storage over the nine months remained robust.
+The buildout of AI computing power and data centers sent profits at optical fiber manufacturers more than sixfold higher, while those at cable makers more than doubled in the January-to-September period from a year earlier, according to Yu.
+Raw material producers for copper and aluminum also benefited from rising demand from AI-related and renewable industries, with profits rising nearly 45% over the nine months.
+High-tech manufacturing investment and electronics capacity utilization remain resilient, supported by the global AI cycle and domestic policy priorities, said Shena Yue, senior economist at Oxford Economics. Overall investment and industrial utilization are still subdued, she said.
+Household demand is the weak link as the property downturn continues to weigh on housing purchases and related durables, Yue said. "China's export strength isn't able to fully offset its domestic weakness," she said.
+Consumption remains soft, with retail sales growing 1.1% in September, beating forecasts but only marginally above August's weak reading.
+China's economy expanded 4.5% in the third quarter from a year earlier, slightly faster than the previous quarter, taking growth in the first nine months to 4.6%, within the government's full-year target range of 4.5% to 5%.
+Muted stimulus
+Beijing has so far held back from major new stimulus for domestic demand, with concerns mounting over local government debt and the benefits of consumer trade-in subsidies fading.
+Policymakers see no urgency to act, said Dan Wang, China director at Eurasia Group. Falling prices have raised purchasing power even as deflationary pressure builds, and officials are betting on tech exports to hit this year's growth target, she said.
+But the strains are mounting among businesses and consumers. Most manufacturers make "very thin" profits, some even running at a loss, Wang said, while consumers continue to save up instead of spending, at a time when China faces its most severe employment crisis in decades.
+Local governments across the country, saddled with debts, are also wary of spending as Beijing works to rein in local debt and excess capacity, Wang said. "A lot of money they should have spent is not spent because the officials are so afraid of being held accountable for new projects that they have approved."
+Pessimism over the breadth of businesses' profitability has also gripped Chinese stocks, driving the benchmark CSI 300 Index into a bear market late last week, as a prolonged consumption slump and intense competition have taken a toll on earnings.`,
+    bodyJa: `China's industrial profits grew at their strongest pace last month since June, as a boom in manufacturing tied to artificial intelligence offset drag from persistently weak domestic demand.
+Profits at large industrial firms rose 14.4% in September from a year earlier, according to data released Tuesday by the National Bureau of Statistics. For the first nine months of this year, industrial profits climbed 15.5%, slightly below the 15.7% rise in the January-September period.
+The strength comes as industrial earnings swung to double-digit growth earlier this year, following a modest gain in 2025 after three straight years of declines, helped by Beijing's efforts to curb rampant price wars across sectors and surging demand for AI-related equipment.
+The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings for miners, chipmakers and raw-material suppliers this year, even as downstream manufacturers face rising input costs and weak domestic demand.
+The uptick in earnings came as factory-gate prices rose at their fastest pace since mid-2022, driven by higher energy and raw material prices amid the Middle East conflict.
+AI boom vs consumer bust
+Earnings growth in high-tech sectors, such as AI and robotics, has been outperforming profits in consumer-related industries, including clothing, autos and furniture, underscoring the increasingly bifurcated momentum in the economy.
+NBS Chief Statistician Yu Weining attributed earnings growth mostly to surging profits in electronics and advanced-technology manufacturing sectors. Electronic special materials manufacturers saw profits more than triple, while they jumped 51.7% for semiconductor device equipment makers, as demand for AI computing power and storage over the nine months remained robust.
+The buildout of AI computing power and data centers sent profits at optical fiber manufacturers more than sixfold higher, while those at cable makers more than doubled in the January-to-September period from a year earlier, according to Yu.
+Raw material producers for copper and aluminum also benefited from rising demand from AI-related and renewable industries, with profits rising nearly 45% over the nine months.
+High-tech manufacturing investment and electronics capacity utilization remain resilient, supported by the global AI cycle and domestic policy priorities, said Shena Yue, senior economist at Oxford Economics. Overall investment and industrial utilization are still subdued, she said.
+Household demand is the weak link as the property downturn continues to weigh on housing purchases and related durables, Yue said. "China's export strength isn't able to fully offset its domestic weakness," she said.
+Consumption remains soft, with retail sales growing 1.1% in September, beating forecasts but only marginally above August's weak reading.
+China's economy expanded 4.5% in the third quarter from a year earlier, slightly faster than the previous quarter, taking growth in the first nine months to 4.6%, within the government's full-year target range of 4.5% to 5%.
+Muted stimulus
+Beijing has so far held back from major new stimulus for domestic demand, with concerns mounting over local government debt and the benefits of consumer trade-in subsidies fading.
+Policymakers see no urgency to act, said Dan Wang, China director at Eurasia Group. Falling prices have raised purchasing power even as deflationary pressure builds, and officials are betting on tech exports to hit this year's growth target, she said.
+But the strains are mounting among businesses and consumers. Most manufacturers make "very thin" profits, some even running at a loss, Wang said, while consumers continue to save up instead of spending, at a time when China faces its most severe employment crisis in decades.
+Local governments across the country, saddled with debts, are also wary of spending as Beijing works to rein in local debt and excess capacity, Wang said. "A lot of money they should have spent is not spent because the officials are so afraid of being held accountable for new projects that they have approved."
+Pessimism over the breadth of businesses' profitability has also gripped Chinese stocks, driving the benchmark CSI 300 Index into a bear market late last week, as a prolonged consumption slump and intense competition have taken a toll on earnings.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
+    publishedAt: "2026-10-27T03:34:08+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "apple-says-it-will-replace-iphone-duo-ha-7642f476",
+    title: "Apple says it will replace iPhone Duo handsets with screen problems",
+    titleJa: "Apple says it will replace iPhone Duo handsets with screen problems",
+    summaryJa: "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+    bodyOriginal: `Apple says it will replace iPhone Duo handsets with screen problems
+- Published
+Apple says it will replace iPhone Duo handsets that have developed problems with their screens just days after the highly-anticipated smartphone went on sale.
+Photos posted on social media show lines that appeared on the screens of the technology giant's first ever foldable device, which has a starting price of £1,999 ($2,668) in the UK.
+Apple said it is aware of "an issue impacting the inner display on a small number" of the phones and urged affected users to contact the company for a replacement.
+The Duo's launch, which attracted crowds at Apple stores around the world last week, comes as the brand tries to reinvigorate its range of devices and challenge the foldable phones made by rivals.
+Some Duo owners also posted photos online showing cracks along the screen's centre crease, while others reported a crunching noise when opening the device.
+An iPhone Duo user, Justin Lokos, posted an image of a device with lines across the right side of the display and later uploaded a picture of a new handset alongside the broken one, thanking an Apple store in New York for its help.
+The extent of the issue remains unclear. Apple did not say how many devices were affected, while some images showing faulty devices may have been created using artificial intelligence.
+The Duo's 7.6-inch (19.3cm) inner display is held together by a central hinge - a complex piece of engineering that has resulted in similar flaws in folding devices made by some of Apple's competitors.
+Samsung's first foldable phone, the Galaxy Fold, suffered an early setback in 2019 when reviewers reported broken screens on the devices.
+Android users already have a broad selection of foldable phones to choose from, technology that Apple spent years developing before the Duo's release.
+It is Apple's most expensive iPhone ever, costing up to £3,199 for the most well-equipped models.
+The Duo marks Apple's first major iPhone redesign in almost two decades and was unveiled by new chief executive John Ternus, who took over from Tim Cook in September.
+When closed, the Duo looks like a wider version of an iPhone, then opens up to a device resembling a small tablet computer.
+"Others have created foldables that just feel like two phones awkwardly stuck together", Ternus told an audience at Apple's California headquarters last month.
+The Duo, he said, would "redefine the experience of using a foldable phone".
+Related topics
+- Published10 September
+- Published3 September 2022`,
+    bodyJa: `Apple says it will replace iPhone Duo handsets with screen problems
+- Published
+Apple says it will replace iPhone Duo handsets that have developed problems with their screens just days after the highly-anticipated smartphone went on sale.
+Photos posted on social media show lines that appeared on the screens of the technology giant's first ever foldable device, which has a starting price of £1,999 ($2,668) in the UK.
+Apple said it is aware of "an issue impacting the inner display on a small number" of the phones and urged affected users to contact the company for a replacement.
+The Duo's launch, which attracted crowds at Apple stores around the world last week, comes as the brand tries to reinvigorate its range of devices and challenge the foldable phones made by rivals.
+Some Duo owners also posted photos online showing cracks along the screen's centre crease, while others reported a crunching noise when opening the device.
+An iPhone Duo user, Justin Lokos, posted an image of a device with lines across the right side of the display and later uploaded a picture of a new handset alongside the broken one, thanking an Apple store in New York for its help.
+The extent of the issue remains unclear. Apple did not say how many devices were affected, while some images showing faulty devices may have been created using artificial intelligence.
+The Duo's 7.6-inch (19.3cm) inner display is held together by a central hinge - a complex piece of engineering that has resulted in similar flaws in folding devices made by some of Apple's competitors.
+Samsung's first foldable phone, the Galaxy Fold, suffered an early setback in 2019 when reviewers reported broken screens on the devices.
+Android users already have a broad selection of foldable phones to choose from, technology that Apple spent years developing before the Duo's release.
+It is Apple's most expensive iPhone ever, costing up to £3,199 for the most well-equipped models.
+The Duo marks Apple's first major iPhone redesign in almost two decades and was unveiled by new chief executive John Ternus, who took over from Tim Cook in September.
+When closed, the Duo looks like a wider version of an iPhone, then opens up to a device resembling a small tablet computer.
+"Others have created foldables that just feel like two phones awkwardly stuck together", Ternus told an audience at Apple's California headquarters last month.
+The Duo, he said, would "redefine the experience of using a foldable phone".
+Related topics
+- Published10 September
+- Published3 September 2022`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-27T01:48:04+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/896f/live/1944e2f0-d1a5-11f1-a611-7ff246f4f9f3.jpg",
+    readTime: 6,
+  },
+  {
+    id: "i-m-a-single-mum-on-41-000-and-limit-my-364f404f",
+    title: "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+    titleJa: "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+    summaryJa: "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+    bodyOriginal: `'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?
+- Published
+Chancellor John Healey is set to unveil his first Budget on Wednesday.
+Unlike in previous years there have been very few leaks about what will be in it, though Healey's tax and spending plans will be under close scrutiny at a time when government borrowing costs are at "historic highs".
+BBC News has been speaking to people on a range of incomes on how they feel about their finances and what they would like to see in the Budget.
+If there are issues you would like to see covered, you can get in touch via BBC Your Voice.
+Chloe's biggest worry is the cost of living. Her husband passed away four years ago and she's bringing up their 16-year-old son alone.
+She's very grateful the rent for her south London maisonette is subsidised through a housing association, but says life was easier when she shared the bills. "Two incomes make a massive difference."
+Her energy bill has risen sharply over the past year and she now pays about £200 a month on gas and electricity.
+"We try to be more aware, we think more about how long we run the hot water when we do the dishes."
+Chloe, 40, and her son have cut back on luxuries like going to M&S and the cinema, and she now tries to limit the weekly food shop to £40.
+But she can't do anything to reduce her £200 council tax bill, or the amount she spends on medicines for her various health conditions, including rheumatoid arthritis.
+Chloe wants to see more help for single-parent families.
+"I don't access benefits but I work full-time and it's hard. Can the government do anything else to help? Something on our tax bill perhaps."
+'I earn £22,000. Saving for a house is impossible'
+Robert Portlock, 29, has always lived with his parents in Gateshead and would love to move out. But he doesn't think he can afford to.
+Rent would be his biggest concern, he says, explaining that a small flat in his area would cost him about two-thirds of his monthly wage.
+"Council tax and energy bills would add to it. Food too. I'd need a TV licence, broadband, my car and some money to socialise. By that point I'd be in the minus."
+Robert's biggest expense currently is his car, which he says he needs for his 32-mile round trip to work at Newcastle Airport. But he's paying £750 a month in car finance, insurance, fuel and tax.
+He wants the chancellor to cut fuel duty and income tax, or increase the personal allowance - the amount of income you do not have to pay tax on - to about £16,000, up from £12,570 currently.
+He would like to get on the housing ladder but for now it feels a distant prospect. The government has announced a scheme to help first-time buyers in England who have a deposit of 2.5%, but Robert says: "Saving for a house is impossible at the moment."
+What is the Budget and what could be in it?
+- Published1 day ago
+'I get £338 UC per month. I'm trying my best'
+Emily Nelson completed her A-levels last year and like thousands of her peers has been unable to find a job since leaving college.
+The 19-year-old from Swindon wants to be an animator but in the meantime is applying for retail and sales roles and apprenticeships. Most of the time, she doesn't hear back from potential employers.
+"I'm trying my best, it's all you really can do. It's kind of suffocating in a way. You see everyone else managing, and you feel like you're not."
+She wants the government to provide more funding to businesses so they can take on more young employees. She'd also like to see more money for training and the government's Jobs Guarantee, external scheme extended.
+The scheme, being rolled out across England, Scotland and Wales, guarantees fully funded, six-month paid jobs for 18 to 24-year-olds who have been on universal credit and looking for work for 18 months. But Emily thinks people should be eligible after a year.
+She is living with her parents but wants to move out eventually. "My parents want me to get a job first. They are not putting pressure on me to go yet."
+'I earn £30,000 and dread filling up my car'
+Dave Herbert, a professional driver who moves cars between showrooms and does deliveries, says fuel prices have been "crazy" this year.
+He spends around £350 a month on petrol for work and personal use. That's 40% to 50% more than at the start of the year, he says.
+He has to commute into Cardiff, a 62-mile round trip from his home in Ynysddu. "I'd love to have a hybrid car but even an entry-level used car is too expensive."
+The 48-year-old, who is married with a 12-year-old daughter, says he has to find the extra money for fuel "from an already tight budget" and "dreads" filling up at the pump.
+"The best thing they could do at the Budget is drastically remove or reduce fuel duty for a period of time."
+The main fuel duty rate has been frozen at 57.95p per litre since March 2011, but Dave says: "It sounds like they're giving us something by keeping it frozen but they're actually still taking it off us."
+'I earn £150,000 and would be happy to pay more tax'
+Jonathan Whitwam, who recently joined the Labour Party, works in finance and says, in addition to his mortgage, his biggest outgoing is supporting his two daughters through university. He and his wife, who live in Essex, pay their rent, which is around £18,000 per year.
+His daughters will start their working lives with between £45,000 to £60,000 of debt each, plus interest, which will be compounding at £5,000 to £8,000 per year.
+"I have no objection to paying for degrees as I think they are a great way of broadening horizons and having great life experience. But I think the interest should be waived or capped below 1%, otherwise it's a noose around their neck for a substantial part of their lifetime."
+More generally, Jonathan, 52, would welcome taxes being put up for higher earners like himself in the name of "redistribution". He would also like to see a one-off wealth tax for people with assets worth over £10m and new taxes on the oil and gas and banking sectors.
+"If we want better roads, hospitals, schools we need to raise more tax."
+'I have a £15,000 pension. I'm spending more of my savings'
+Christine Morris, from Worksop, has been retired for eight years and lives on a state pension combined with a small private pension her late husband left her.
+"It is very difficult to balance the books," the 78-year-old says. "I do go on holiday, but I'm spending more of my savings to live."
+Although the prime minister has asked ministers to look at removing standing charges from gas bills, Christine thinks there should be some relief for people who live alone when it comes to standing charges on electricity bills, which are typically higher.
+She would also like the government to extend access to pension credit, external, a means-tested benefit for people who have reached state pension age and are receiving £238 or less per week. Christine currently receives £241 and so just misses out.
+She was unconvinced by Andy Burnham's pledge to end the triple lock so that from 2030 the state pension will rise at least by inflation or 2.5%, with the money saved used to create a free-at-the-point of use national care service for England sometime "in the next parliament".
+Christine thinks the new service will take time to come in. In the meantime, she fears she will "get less pension and still have to pay out the same for any care I need".
+Get in touch
+What are you hoping for from the Budget? What questions do you have?
+- Published18 hours ago
+- Published3 days ago`,
+    bodyJa: `'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?
+- Published
+Chancellor John Healey is set to unveil his first Budget on Wednesday.
+Unlike in previous years there have been very few leaks about what will be in it, though Healey's tax and spending plans will be under close scrutiny at a time when government borrowing costs are at "historic highs".
+BBC News has been speaking to people on a range of incomes on how they feel about their finances and what they would like to see in the Budget.
+If there are issues you would like to see covered, you can get in touch via BBC Your Voice.
+Chloe's biggest worry is the cost of living. Her husband passed away four years ago and she's bringing up their 16-year-old son alone.
+She's very grateful the rent for her south London maisonette is subsidised through a housing association, but says life was easier when she shared the bills. "Two incomes make a massive difference."
+Her energy bill has risen sharply over the past year and she now pays about £200 a month on gas and electricity.
+"We try to be more aware, we think more about how long we run the hot water when we do the dishes."
+Chloe, 40, and her son have cut back on luxuries like going to M&S and the cinema, and she now tries to limit the weekly food shop to £40.
+But she can't do anything to reduce her £200 council tax bill, or the amount she spends on medicines for her various health conditions, including rheumatoid arthritis.
+Chloe wants to see more help for single-parent families.
+"I don't access benefits but I work full-time and it's hard. Can the government do anything else to help? Something on our tax bill perhaps."
+'I earn £22,000. Saving for a house is impossible'
+Robert Portlock, 29, has always lived with his parents in Gateshead and would love to move out. But he doesn't think he can afford to.
+Rent would be his biggest concern, he says, explaining that a small flat in his area would cost him about two-thirds of his monthly wage.
+"Council tax and energy bills would add to it. Food too. I'd need a TV licence, broadband, my car and some money to socialise. By that point I'd be in the minus."
+Robert's biggest expense currently is his car, which he says he needs for his 32-mile round trip to work at Newcastle Airport. But he's paying £750 a month in car finance, insurance, fuel and tax.
+He wants the chancellor to cut fuel duty and income tax, or increase the personal allowance - the amount of income you do not have to pay tax on - to about £16,000, up from £12,570 currently.
+He would like to get on the housing ladder but for now it feels a distant prospect. The government has announced a scheme to help first-time buyers in England who have a deposit of 2.5%, but Robert says: "Saving for a house is impossible at the moment."
+What is the Budget and what could be in it?
+- Published1 day ago
+'I get £338 UC per month. I'm trying my best'
+Emily Nelson completed her A-levels last year and like thousands of her peers has been unable to find a job since leaving college.
+The 19-year-old from Swindon wants to be an animator but in the meantime is applying for retail and sales roles and apprenticeships. Most of the time, she doesn't hear back from potential employers.
+"I'm trying my best, it's all you really can do. It's kind of suffocating in a way. You see everyone else managing, and you feel like you're not."
+She wants the government to provide more funding to businesses so they can take on more young employees. She'd also like to see more money for training and the government's Jobs Guarantee, external scheme extended.
+The scheme, being rolled out across England, Scotland and Wales, guarantees fully funded, six-month paid jobs for 18 to 24-year-olds who have been on universal credit and looking for work for 18 months. But Emily thinks people should be eligible after a year.
+She is living with her parents but wants to move out eventually. "My parents want me to get a job first. They are not putting pressure on me to go yet."
+'I earn £30,000 and dread filling up my car'
+Dave Herbert, a professional driver who moves cars between showrooms and does deliveries, says fuel prices have been "crazy" this year.
+He spends around £350 a month on petrol for work and personal use. That's 40% to 50% more than at the start of the year, he says.
+He has to commute into Cardiff, a 62-mile round trip from his home in Ynysddu. "I'd love to have a hybrid car but even an entry-level used car is too expensive."
+The 48-year-old, who is married with a 12-year-old daughter, says he has to find the extra money for fuel "from an already tight budget" and "dreads" filling up at the pump.
+"The best thing they could do at the Budget is drastically remove or reduce fuel duty for a period of time."
+The main fuel duty rate has been frozen at 57.95p per litre since March 2011, but Dave says: "It sounds like they're giving us something by keeping it frozen but they're actually still taking it off us."
+'I earn £150,000 and would be happy to pay more tax'
+Jonathan Whitwam, who recently joined the Labour Party, works in finance and says, in addition to his mortgage, his biggest outgoing is supporting his two daughters through university. He and his wife, who live in Essex, pay their rent, which is around £18,000 per year.
+His daughters will start their working lives with between £45,000 to £60,000 of debt each, plus interest, which will be compounding at £5,000 to £8,000 per year.
+"I have no objection to paying for degrees as I think they are a great way of broadening horizons and having great life experience. But I think the interest should be waived or capped below 1%, otherwise it's a noose around their neck for a substantial part of their lifetime."
+More generally, Jonathan, 52, would welcome taxes being put up for higher earners like himself in the name of "redistribution". He would also like to see a one-off wealth tax for people with assets worth over £10m and new taxes on the oil and gas and banking sectors.
+"If we want better roads, hospitals, schools we need to raise more tax."
+'I have a £15,000 pension. I'm spending more of my savings'
+Christine Morris, from Worksop, has been retired for eight years and lives on a state pension combined with a small private pension her late husband left her.
+"It is very difficult to balance the books," the 78-year-old says. "I do go on holiday, but I'm spending more of my savings to live."
+Although the prime minister has asked ministers to look at removing standing charges from gas bills, Christine thinks there should be some relief for people who live alone when it comes to standing charges on electricity bills, which are typically higher.
+She would also like the government to extend access to pension credit, external, a means-tested benefit for people who have reached state pension age and are receiving £238 or less per week. Christine currently receives £241 and so just misses out.
+She was unconvinced by Andy Burnham's pledge to end the triple lock so that from 2030 the state pension will rise at least by inflation or 2.5%, with the money saved used to create a free-at-the-point of use national care service for England sometime "in the next parliament".
+Christine thinks the new service will take time to come in. In the meantime, she fears she will "get less pension and still have to pay out the same for any care I need".
+Get in touch
+What are you hoping for from the Budget? What questions do you have?
+- Published18 hours ago
+- Published3 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-27T00:01:00+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2823/live/2221ede0-d16f-11f1-93e1-3b657b665bcf.jpg",
+    readTime: 10,
+  },
+  {
+    id: "from-wall-street-to-silicon-valley-anthr-23b4c253",
+    title: "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+    titleJa: "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
+    summaryJa: "With the AI trade sputtering of late and interest rates on the rise, Anthropic's IPO is taking on outsized importance.",
+    bodyOriginal: `The tech industry needs this to go well. So does Wall Street.
+Anthropic's IPO filing on Monday puts the Claude creator in position to pursue what could be the largest initial stock offering in history. Investors are already measuring the 5-year-old company's potential market cap in the trillions, putting it in a category with the world's most valuable companies.
+It's a critical moment for the whole tech sector, as the artificial intelligence boom has been largely driven by two companies: Anthropic and OpenAI. The latter has confidentially filed to go public, but has said a debut likely won't take place until 2027.
+Meanwhile, the stock market is showing signs of jitters on the AI trade. Neoclouds and data center companies have been getting pummeled, prompting Australia's Firmus to withdraw its IPO plans and for SK Hynix's U.S.-based Solidigm unit to do the same.
+Now, all eyes turn to Anthropic, which is betting that investors will look past over $80 billion in losses in the first half of the year, and see the 14-fold increase in revenue as a reflection of seemingly insatiable demand for the company's leading models and services.
+"If it underperforms expectations, it'll be a little bit of a house of cards," said Jai Das, co-founder of Sapphire Ventures whose career in tech investing dates to the 1990s.
+Anthropic's business is deeply entwined with tech megacaps. Close to half its revenue comes from Claude being sold through cloud divisions at Microsoft, Amazon and Alphabet, which all hold investments in the company. In the IPO, some $77 billion in notes can be issued to Amazon, Broadcom and Google, while Microsoft and Nvidia agreed to invest $15 billion as the company builds up its computing capacity. Chips from Nvidia, Advanced Micro Devices, Amazon and Google are powering Anthropic's development.
+Cloud providers are ratcheting up capital expenditures to meet demand, and memory manufacturers are fighting shortages to prioritize AI chips. And there's the debt factor. Alphabet, with its investment-grade credit rating, committed to backstopping Anthropic for a data center in Texas. Broadcom, which helps Google develop chips for AI labs, is creating financing pools to help Anthropic and OpenAI deploy high-performance models, CEO Hock Tan told analysts earlier this year.
+For public market investors, more than one-third of the value of the S&P 500 comes from tech's trillion-dollar companies, which are all, to varying degrees, going deep in AI. Beyond that, there are software giants like Adobe and Salesforce that have integrated with Anthropic's Claude assistant.
+Market reset?
+And in the private markets, check sizes have ballooned but IPOs are few and far between. Bessemer Venture Partners and Menlo Ventures both told CNBC that Anthropic is their biggest investment ever.
+"If they don't perform well, they will become the bellwether for AI," said Brad Bernstein, a managing partner at growth equity firm FTV Capital. "Their valuation will reflect that performance variation, and then it'll just be a trickle-down effect to all the stuff going on with the excess capital that's getting poured into the venture AI world. Everything is going to have to sort of be reset."
+Anthropic will be the third company to go public with a valuation above $1 trillion, after Saudi Aramco and Elon Musk's SpaceX, which debuted in June. OpenAI could be the fourth.
+Revenue at Anthropic has been multiplying at a staggering pace as businesses adopt the company's coding and productivity tools. Second-quarter revenue soared to $11.56 billion from $787 million a year earlier.
+The company held almost $132 billion in cash, equivalents and short-term investments at the end of June. And after five quarters of operating losses, Anthropic reported $974 million in operating income for the second quarter.
+"It is, I think, better than feared," said Rohit Kulkarni, partner and chief AI officer at Burnham Park Capital Markets, referring to the financials. "There could have been more negative tidbits."
+One source of concern in some corners of the investing universe is the emergence of so-called open-weight models, which are cheaper for businesses to access and allow for customization and flexibility in terms of where users access the models.
+In the prospectus, the only two competitors Anthropic named were OpenAI and Google, though the company said it faces competition from a "broader set of model providers," including open-weight or open-source models.
+Anthropic says it's all very early, with Fortune 500 companies committing less than 0.1% of their total expenses to its models and services in the latest quarter. Michael Monaghan, portfolio manager at Founder ETFs, says that's part of the investment thesis.
+"I think there's going to be room for frontier models like Anthropic and OpenAI and SpaceX, and I think there will be room for open-weight models," Monaghan said. "It's way too soon to say that one is going to disintermediate the other."
+With hyperscaler spending on AI infrastructure set to reach into the trillions of dollars, Sapphire's Das said there's understandable concern about a market glut. But he compares it to the telecommunications and dot-com bubble of the late 1990s, when companies flooded the market with fiber-optic equipment. Eventually, the infrastructure got used, although plenty of companies went belly up in the interim.
+"Long term, I don't think there is a lack of demand," Das said.
+Downside risks
+A lackluster debut could push out OpenAI's offering even further and cause investors to rethink its lofty valuation. At the same time, rising interest rates mean it's getting costlier for companies to raise debt.
+David Trainer, CEO of financial research firm New Constructs, wrote in a report last month that the AI boom has been built on the view that cheap credit and access to the capital markets will be "readily available."
+"If AI liquidity dries up, and there are clear signs it is, we see large, 20%, downside risk in the S&P 500, with most of that concentrated in the valuation of AI-related stocks," Trainer wrote.
+Industry experts take a different approach, focusing on the power and rapid proliferation of the technology. Claude Opus 5.5 Max performs better than any other model on the Artificial Analysis Intelligence Index, an industry benchmark.
+Snowflake CEO Sridhar Ramaswamy said the technology is only becoming more essential.
+"Anthropic and OpenAI have by now demonstrated their ability to stay at the frontier of AI and keep pushing innovation," Ramaswamy said. "They're incredible companies that are doing a big service to humanity by expanding the frontier of what is possible, and we are very much rooting for them to be public and very successful companies."
+Still, Snowflake is experimenting with low-cost open-weight models from China's Moonshot AI, DeepSeek and Zhipu.
+"We spend a lot on internal AI because we want to get as much efficiency as we can," Ramaswamy said.
+WATCH: Seems like Anthropic will beat OpenAI to IPO, says FirstMark's Rick Heitzmann`,
+    bodyJa: `The tech industry needs this to go well. So does Wall Street.
+Anthropic's IPO filing on Monday puts the Claude creator in position to pursue what could be the largest initial stock offering in history. Investors are already measuring the 5-year-old company's potential market cap in the trillions, putting it in a category with the world's most valuable companies.
+It's a critical moment for the whole tech sector, as the artificial intelligence boom has been largely driven by two companies: Anthropic and OpenAI. The latter has confidentially filed to go public, but has said a debut likely won't take place until 2027.
+Meanwhile, the stock market is showing signs of jitters on the AI trade. Neoclouds and data center companies have been getting pummeled, prompting Australia's Firmus to withdraw its IPO plans and for SK Hynix's U.S.-based Solidigm unit to do the same.
+Now, all eyes turn to Anthropic, which is betting that investors will look past over $80 billion in losses in the first half of the year, and see the 14-fold increase in revenue as a reflection of seemingly insatiable demand for the company's leading models and services.
+"If it underperforms expectations, it'll be a little bit of a house of cards," said Jai Das, co-founder of Sapphire Ventures whose career in tech investing dates to the 1990s.
+Anthropic's business is deeply entwined with tech megacaps. Close to half its revenue comes from Claude being sold through cloud divisions at Microsoft, Amazon and Alphabet, which all hold investments in the company. In the IPO, some $77 billion in notes can be issued to Amazon, Broadcom and Google, while Microsoft and Nvidia agreed to invest $15 billion as the company builds up its computing capacity. Chips from Nvidia, Advanced Micro Devices, Amazon and Google are powering Anthropic's development.
+Cloud providers are ratcheting up capital expenditures to meet demand, and memory manufacturers are fighting shortages to prioritize AI chips. And there's the debt factor. Alphabet, with its investment-grade credit rating, committed to backstopping Anthropic for a data center in Texas. Broadcom, which helps Google develop chips for AI labs, is creating financing pools to help Anthropic and OpenAI deploy high-performance models, CEO Hock Tan told analysts earlier this year.
+For public market investors, more than one-third of the value of the S&P 500 comes from tech's trillion-dollar companies, which are all, to varying degrees, going deep in AI. Beyond that, there are software giants like Adobe and Salesforce that have integrated with Anthropic's Claude assistant.
+Market reset?
+And in the private markets, check sizes have ballooned but IPOs are few and far between. Bessemer Venture Partners and Menlo Ventures both told CNBC that Anthropic is their biggest investment ever.
+"If they don't perform well, they will become the bellwether for AI," said Brad Bernstein, a managing partner at growth equity firm FTV Capital. "Their valuation will reflect that performance variation, and then it'll just be a trickle-down effect to all the stuff going on with the excess capital that's getting poured into the venture AI world. Everything is going to have to sort of be reset."
+Anthropic will be the third company to go public with a valuation above $1 trillion, after Saudi Aramco and Elon Musk's SpaceX, which debuted in June. OpenAI could be the fourth.
+Revenue at Anthropic has been multiplying at a staggering pace as businesses adopt the company's coding and productivity tools. Second-quarter revenue soared to $11.56 billion from $787 million a year earlier.
+The company held almost $132 billion in cash, equivalents and short-term investments at the end of June. And after five quarters of operating losses, Anthropic reported $974 million in operating income for the second quarter.
+"It is, I think, better than feared," said Rohit Kulkarni, partner and chief AI officer at Burnham Park Capital Markets, referring to the financials. "There could have been more negative tidbits."
+One source of concern in some corners of the investing universe is the emergence of so-called open-weight models, which are cheaper for businesses to access and allow for customization and flexibility in terms of where users access the models.
+In the prospectus, the only two competitors Anthropic named were OpenAI and Google, though the company said it faces competition from a "broader set of model providers," including open-weight or open-source models.
+Anthropic says it's all very early, with Fortune 500 companies committing less than 0.1% of their total expenses to its models and services in the latest quarter. Michael Monaghan, portfolio manager at Founder ETFs, says that's part of the investment thesis.
+"I think there's going to be room for frontier models like Anthropic and OpenAI and SpaceX, and I think there will be room for open-weight models," Monaghan said. "It's way too soon to say that one is going to disintermediate the other."
+With hyperscaler spending on AI infrastructure set to reach into the trillions of dollars, Sapphire's Das said there's understandable concern about a market glut. But he compares it to the telecommunications and dot-com bubble of the late 1990s, when companies flooded the market with fiber-optic equipment. Eventually, the infrastructure got used, although plenty of companies went belly up in the interim.
+"Long term, I don't think there is a lack of demand," Das said.
+Downside risks
+A lackluster debut could push out OpenAI's offering even further and cause investors to rethink its lofty valuation. At the same time, rising interest rates mean it's getting costlier for companies to raise debt.
+David Trainer, CEO of financial research firm New Constructs, wrote in a report last month that the AI boom has been built on the view that cheap credit and access to the capital markets will be "readily available."
+"If AI liquidity dries up, and there are clear signs it is, we see large, 20%, downside risk in the S&P 500, with most of that concentrated in the valuation of AI-related stocks," Trainer wrote.
+Industry experts take a different approach, focusing on the power and rapid proliferation of the technology. Claude Opus 5.5 Max performs better than any other model on the Artificial Analysis Intelligence Index, an industry benchmark.
+Snowflake CEO Sridhar Ramaswamy said the technology is only becoming more essential.
+"Anthropic and OpenAI have by now demonstrated their ability to stay at the frontier of AI and keep pushing innovation," Ramaswamy said. "They're incredible companies that are doing a big service to humanity by expanding the frontier of what is possible, and we are very much rooting for them to be public and very successful companies."
+Still, Snowflake is experimenting with low-cost open-weight models from China's Moonshot AI, DeepSeek and Zhipu.
+"We spend a lot on internal AI because we want to get as much efficiency as we can," Ramaswamy said.
+WATCH: Seems like Anthropic will beat OpenAI to IPO, says FirstMark's Rick Heitzmann`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+    publishedAt: "2026-10-26T22:50:07+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
     id: "healey-vows-cheaper-marmalade-and-gherki-274e1f81",
     title: "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
     titleJa: "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
@@ -69,6 +491,20 @@ Shadow Chancellor Andrew Griffith said: "Shoppers face rising costs at the till 
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c2c/live/35815a70-d173-11f1-9d71-6d5ae0660afe.jpg",
     readTime: 7,
+  },
+  {
+    id: "you-need-only-watch-episodes-of-judge-j-d189837d",
+    title: "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+    titleJa: "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
+    summaryJa: "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
+    bodyOriginal: `“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”`,
+    bodyJa: `“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
+    publishedAt: "2026-10-26T22:30:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-19205579",
+    readTime: 2,
   },
   {
     id: "doj-charges-ex-fbi-director-james-comey-84b89591",
@@ -1705,678 +2141,6 @@ Brent futures gained 3.1% to close at $116.72 a barrel, the highest internationa
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-63364096",
     readTime: 2,
-  },
-  {
-    id: "nonanswers-aren-t-working-this-is-what-1be378bb",
-    title: "‘Nonanswers’ aren’t working. This is what investors really need from the Fed.",
-    titleJa: "‘Nonanswers’ aren’t working. This is what investors really need from the Fed.",
-    summaryJa: "What really matters to investors, economists say, is for Fed Chairman Kevin Warsh to prove he can successfully communicate the central bank’s strategy.",
-    bodyOriginal: `What really matters to investors, economists say, is for Fed Chairman Kevin Warsh to prove he can successfully communicate the central bank’s strategy.`,
-    bodyJa: `What really matters to investors, economists say, is for Fed Chairman Kevin Warsh to prove he can successfully communicate the central bank’s strategy.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
-    publishedAt: "2026-10-25T12:44:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-25605110",
-    readTime: 2,
-  },
-  {
-    id: "what-democrats-and-republicans-fear-most-66e2f110",
-    title: "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
-    titleJa: "What Democrats and Republicans fear most about each other: CNBC survey has the answers",
-    summaryJa: "The economy is still a key issue in the 2026 election, but voters are concerned about Trump testing the bounds of the office and Democratic Socialist polices.",
-    bodyOriginal: `If Democrats take over Congress, Republican voters are worried they'll move too far to the left and enact socialist policies. If Republicans keep control, Democrats fret about President Donald Trump having unchecked power.
-Those are the findings from a new CNBC poll that shows what each side of the political divide fears about the other as the midterm election looms. Republicans in the survey also say they worry about weakened border security and higher taxes under a Democratic Congress. Democrats say they're concerned about continued Immigration and Customs Enforcement deportations and ongoing military efforts in Iran under a Republican one.
-"That totally shows the polarization … and the fear that one side is going to completely undo the agenda of the other," Ron Bonjean, a Republican strategist and co-founder of ROKK Solutions, said of the results. "What Republicans are worried about is that Democrats are going to go back to the way it was during the Biden administration."
-The results of the latest CNBC All-America Economic Survey — conducted between Oct. 14 and 18 and including 1,000 registered voters — could serve as a warning for both parties after the election. Both Democrats and Republicans have struggled with low favorability amid widespread distrust of the government.
-If Democrats lurch too far to the left and adopt Democratic Socialists of America policies, they could squander the gains some forecasts project they could make in many heavily Republican parts of the country, said Lucas Holtz, a senior political advisor at Third Way, a center-left think tank.
-"They should not misread their mandate if they hope to retain the inroads that they're making this cycle with Latino voters, with working-class voters, who they have been hemorrhaging cycle after cycle," Holtz said.
-And Republicans should understand that voters in this moment want to change course, Bonjean said.
-"Voters absolutely want change from the way things are going now, but they also don't want to go back to the way things were when Democrats ran Washington," Bonjean said. "The branding is so bad on the Democratic side, and it's not great on the Republican side."
-Respondents were able to select up to two of their biggest concerns in the event that Democrats or Republicans control Congress, which don't necessarily indicate their top electoral priorities. The CNBC survey by Hart Research Associates and Public Opinion Strategies separately asked people to name the most important issues facing the country. In answering that question, affordability issues ranked highly across the political spectrum, while Democrats and independents also listed government corruption as a top priority, and Republicans listed immigration and border security.
-Still, the concerns expressed by voters about what the opposing party might do in office reflect the messages in the political advertising that is blanketing much of the country in the final days before the midterm election, according to Alex Jacquez, senior vice president of policy, advocacy, and research at Groundwork Collaborative, a progressive think tank. Democrats on the campaign trail have hammered Trump for his alleged corruption and Republicans have attempted to paint Democrats as overly progressive.
-"For Democrats, the main attack ads [targeting them] have ... been about DSA and they've been about the cultural issues that Republicans are trying to hit to tie them to a kind of a far-left or radical movement," Jacquez said. "But the overall vibe of the election is still first and foremost about the economy, people tend to blame the president for prices and Congress for enabling him."
-If Democrats gain control of Congress, 22% of all voters said they are concerned about them failing to bring down prices, including 31% of Democrats, 22% of independents and 15% of Republicans. In the event the GOP retains the gavels in the House and Senate, 24% of voters said they worry whether prices will come down, including 32% of Republicans, 22% of independents and 17% of Democrats.
-But those worries trail fears about checking Trump and policies associated with the DSA, a political organization that has notched recent wins in places like New York City, Washington and Denver and advocates progressive social and populist economic policies.
-Of all voters polled, 44% said they fear Trump would be allowed to operate beyond his constitutional power, including 74% of Democrats and 45% of independents. Twenty-eight percent of respondents said they are concerned with the implementation of DSA policies, including 54% of Republicans and 22% of independents.`,
-    bodyJa: `If Democrats take over Congress, Republican voters are worried they'll move too far to the left and enact socialist policies. If Republicans keep control, Democrats fret about President Donald Trump having unchecked power.
-Those are the findings from a new CNBC poll that shows what each side of the political divide fears about the other as the midterm election looms. Republicans in the survey also say they worry about weakened border security and higher taxes under a Democratic Congress. Democrats say they're concerned about continued Immigration and Customs Enforcement deportations and ongoing military efforts in Iran under a Republican one.
-"That totally shows the polarization … and the fear that one side is going to completely undo the agenda of the other," Ron Bonjean, a Republican strategist and co-founder of ROKK Solutions, said of the results. "What Republicans are worried about is that Democrats are going to go back to the way it was during the Biden administration."
-The results of the latest CNBC All-America Economic Survey — conducted between Oct. 14 and 18 and including 1,000 registered voters — could serve as a warning for both parties after the election. Both Democrats and Republicans have struggled with low favorability amid widespread distrust of the government.
-If Democrats lurch too far to the left and adopt Democratic Socialists of America policies, they could squander the gains some forecasts project they could make in many heavily Republican parts of the country, said Lucas Holtz, a senior political advisor at Third Way, a center-left think tank.
-"They should not misread their mandate if they hope to retain the inroads that they're making this cycle with Latino voters, with working-class voters, who they have been hemorrhaging cycle after cycle," Holtz said.
-And Republicans should understand that voters in this moment want to change course, Bonjean said.
-"Voters absolutely want change from the way things are going now, but they also don't want to go back to the way things were when Democrats ran Washington," Bonjean said. "The branding is so bad on the Democratic side, and it's not great on the Republican side."
-Respondents were able to select up to two of their biggest concerns in the event that Democrats or Republicans control Congress, which don't necessarily indicate their top electoral priorities. The CNBC survey by Hart Research Associates and Public Opinion Strategies separately asked people to name the most important issues facing the country. In answering that question, affordability issues ranked highly across the political spectrum, while Democrats and independents also listed government corruption as a top priority, and Republicans listed immigration and border security.
-Still, the concerns expressed by voters about what the opposing party might do in office reflect the messages in the political advertising that is blanketing much of the country in the final days before the midterm election, according to Alex Jacquez, senior vice president of policy, advocacy, and research at Groundwork Collaborative, a progressive think tank. Democrats on the campaign trail have hammered Trump for his alleged corruption and Republicans have attempted to paint Democrats as overly progressive.
-"For Democrats, the main attack ads [targeting them] have ... been about DSA and they've been about the cultural issues that Republicans are trying to hit to tie them to a kind of a far-left or radical movement," Jacquez said. "But the overall vibe of the election is still first and foremost about the economy, people tend to blame the president for prices and Congress for enabling him."
-If Democrats gain control of Congress, 22% of all voters said they are concerned about them failing to bring down prices, including 31% of Democrats, 22% of independents and 15% of Republicans. In the event the GOP retains the gavels in the House and Senate, 24% of voters said they worry whether prices will come down, including 32% of Republicans, 22% of independents and 17% of Democrats.
-But those worries trail fears about checking Trump and policies associated with the DSA, a political organization that has notched recent wins in places like New York City, Washington and Denver and advocates progressive social and populist economic policies.
-Of all voters polled, 44% said they fear Trump would be allowed to operate beyond his constitutional power, including 74% of Democrats and 45% of independents. Twenty-eight percent of respondents said they are concerned with the implementation of DSA policies, including 54% of Republicans and 22% of independents.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/25/cnbc-survey-midterm-election-voter-fears.html",
-    publishedAt: "2026-10-25T12:00:01+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "marc-lore-s-wonder-bets-on-texas-automat-7936dd74",
-    title: "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
-    titleJa: "Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO",
-    summaryJa: "Wonder is leaning into automation and user-built restaurants as founder Marc Lore prepares the startup for a potential IPO.",
-    bodyOriginal: `Less than a decade after its founding, food startup Wonder has seen its footprint and valuation soar.
-Still, the company has even more ambitious plans ahead, like a subscription program to let diners run their own "restaurants," an aggressive expansion in Texas and a potential initial public offering.
-Created by serial entrepreneur Marc Lore in 2018, Wonder advertises itself as "the best restaurants from across the country, all in one place." Diners can place takeout or delivery orders from its food hall-style locations on the Wonder-branded app or third-party platforms, including Grubhub, which Wonder now owns.
-As Lore described it to CNBC, "Wonder is a vertically integrated food technology platform to make great food more accessible."
-To achieve its goal, Wonder plans to open locations in urban, suburban and rural areas nationwide and aims to keep prices lower than the cost of delivered groceries. Thanks to its ownership of Grubhub, Wonder customers who order through the startup's app don't have to pay delivery fees, and its menu prices aren't inflated to cover the cost of commission fees to the delivery platform. Plus, Wonder is automating some of its kitchen functions, like assembling salads and bowls and soon sauces and beverages.
-The company aims for food preparation and delivery to be fully autonomous by 2040, Lore said.
-Now, Wonder has to convince diners its platform built on cost savings and choice makes it worth their while in a competitive industry.
-Lore's lofty vision for Wonder has helped the company raise $3.3 billion to date, from investors like DoorDash, Alphabet's venture arm and Gwyneth Paltrow. Its Series D fundraising round earlier this year raised its pre-money valuation to $9 billion — just under sandwich chain Subway's sale price two years ago.
-Wonder's next pitch to investors could be on an IPO road show, assuming that the window for companies across industries to go public reopens in the coming months.
-"[The mission] is really why I want to go public and raise the capital that it'll take to build that kind of generational business, also to have a public currency to be able to do more M&A," Lore said. "But I can't talk about timing."
-Lore's track record
-Lore's expertise lies in e-commerce, not restaurants.
-He helped found the parent company of Diapers.com and sold it in 2010 to Amazon for $545 million. Just six years later, Walmart paid about $3 billion for his follow-up venture, Jet.com. Lore stayed at the retailer until 2021 to accelerate Walmart's e-commerce growth.
-Basketball fans might also recognize Lore as an owner of the Minnesota Timberwolves. In 2021, he and baseball legend Alex Rodriguez agreed to buy the team for $1.5 billion, although the deal was not finalized until 2025. Lore recently struck a deal to shrink his investment to a minority stake "to focus on his business," Rodriguez said in a statement in August, referring to Wonder.
-Lore's latest startup began with the idea of bringing food delivery to consumers' homes through sprinter vans outfitted with mobile kitchens. The trucks lasted roughly two years before Wonder phased them out in favor of brick-and-mortar locations, which could serve more food options and lower costs.
-Lore's successful track record has helped him win over investors for Wonder.
-"I joke around at GV that I do enterprise software investing, AI investing and anything that Marc Lore is running as an active CEO," said Dave Munichiello, managing partner of Alphabet's venture capital arm GV, who has known Lore since his Diapers.com days and invested in Jet.com through GV.
-Lore himself thinks that his vision is the reason for Wonder's billions of dollars of funding.
-"Everybody eats," he said. "It's defensible from AI."
-Wonder has spent more than $1 billion on acquisitions, not including the deals where financial details were not disclosed. Its purchases of Grubhub, delivery and logistics provider Relay, meal-kit provider Blue Apron and buzzy New York restaurant concepts have been expensive.
-But Lore said he sees a "tremendous total addressable market" for Wonder if it's able to sell high-quality food at accessible prices, particularly in exurban and rural areas with few dining options beyond fast food and gas stations.
-Wonder gets bigger in Texas
-From Virginia to Massachusetts, 170 Wonder storefronts have appeared over the last three years. Next year, the company plans to enter Texas for the first time — with a goal of at least 100 locations in the state by the end of 2027.
-Wonder prepares its food at commissary kitchens, then transports it to each individual location, where employees unseal, cook and finish the menu items. Its storefronts are all electric, without gas or venting, so Wonder can quickly move into a new space and cut down on renovations and red tape.
-Its locations serve menu items from more than two dozen "restaurants," including Dabba Indian Kitchen, Tejas Barbecue and Pop Salad. Celebrity chefs including Bobby Flay, Michael Symon and Marcus Samuelsson receive up-front payments and equity in Wonder to let the company use their names for some of those concepts. More recent additions include acquisitions such as Blue Ribbon Fried Chicken and Salt Hank's, brands with established followings.
-With its wide variety of options housed under one roof, Wonder has drawn comparisons to ghost kitchens, the once-buzzy startups without dine-in seating that flamed out as food delivery orders fell after the Covid pandemic. Once considered a potential disruptor to the restaurant industry, ghost kitchen companies such as Kitchen United have sought bankruptcy protection and wound down their operations.
-Lore disagrees with the comparison.
-"You can see there's a front of house [in the] brick and mortar," he said. "You'll see people at lunchtime, sitting there enjoying lunch, so it's not ghost-y in that way. But I think it's also just in the fact that we're vertically integrated."
-Wonder has never marketed itself as a ghost kitchen, instead calling itself "a new kind of food hall" or a "modern food court" before landing on a "vertically integrated food technology platform."
-Starting Nov. 17, the company plans to take the next step with Wonder Create. Influencers, entrepreneurs and brands can pay $10 a month to start their own "restaurant" based out of a Wonder location and earn a portion of the revenue from orders. Artificial intelligence will help them make their brand, including name, logo, pricing and recipes.
-"It could be a restaurant for you and your friends, or you could be an influencer that has a following," Lore said.
-He wants Wonder Create to democratize restaurant ownership — minus the capital, overhead costs or oversight of kitchen operations. The platform will eventually be available to the public, with users deciding menu items based on Wonder's pantry.
-Besides Wonder Create, the company is also using AI for another initiative. MEL, a proprietary AI platform, can use a customer's health information, like data from an Oura ring or Whoop tracker or even blood biomarkers, to prepare breakfast, lunch and dinner for its user.
-MEL is not currently available to Wonder customers, although Lore uses AI to advise his own meals, like the chicken muffin he ate for breakfast on a Tuesday in October.
-The quality question
-While Wonder has won over venture capitalists, the battle for diners' stomachs and wallets is tougher.
-Budget-conscious consumers have been dining out less often and becoming pickier when they do so. And while food delivery is still more popular than it was before the pandemic, consumers have pulled back on delivery orders compared with their Covid-era peak. Fees and high menu prices, which offset eateries' commission fees with apps, make delivery even more expensive than dining at a restaurant.
-Plus, some consumers are skeptical about Wonder more specifically. Posts on social media decry the company's food quality and its funding from venture capital.
-"It's OK, but it's just average," Amir Ings, a 27-year-old living in Philadelphia, said in a TikTok reviewing an order of three tacos from Wonder in late 2025. "My expectations were already in the gutter — it's not as bad as I thought it was going to be, but it's still not great. And I paid like $16 for this, but it should have been no more than $8."
-Lore told CNBC that Wonder receives thousands of reviews every day from customers, rating the taste, temperature and portion size of their orders on a scale from 1 to 10. Wonder starts its board meetings by talking about taste scores, Munichiello said.
-"We're maniacally focused on food quality .... We're constantly iterating on the meals that score lower, and see over time, the last 12 months, our taste scores have improved, our Google reviews have improved," Lore said. "I do expect food quality to improve as we scale, which is not always the case."
-Despite lackluster reviews on social media, Wonder has fans. Based on transaction data from Indagari, Wonder had a higher weighted average retention rate — how likely a diner is to return — and higher lifetime value — how much a customer has spent over time — than Cava and Sweetgreen.
-Plus, Wonder has succeeded with locations in the most competitive markets for restaurants in the country.
-"They made this company work well in the hardest place in the country to stand up this model: New York," Munichiello said. "You have so much choice in New York."
-Ultimately, Wonder wants to win over the rest of the U.S. — and public market investors.
-In March, the company hired Gabrielle Scheibe Rabinovitch, previously at payment processor Worldpay, as its chief financial officer as it prepares to go public.
-Lore declined to comment on the timing of a potential IPO to CNBC, although he has previously told Fortune that the company will be "ready and prepared to go public early next year."
-Since buying Blue Apron and Grubhub, Wonder has been operating at a financial loss, The Information previously reported. It plans to bring down the price of its meals by leaning into automation and drone delivery. In the long term, that plan could cut costs, although laying the groundwork won't be cheap.
-In recent years, investors have grown less tolerant of startups pursuing growth at all costs, according to Avery Marquez, director of investment strategies at Renaissance Capital. To sway investors, unprofitable companies have to show they are taking steps toward profitability — or that the growth will continue long after the IPO.`,
-    bodyJa: `Less than a decade after its founding, food startup Wonder has seen its footprint and valuation soar.
-Still, the company has even more ambitious plans ahead, like a subscription program to let diners run their own "restaurants," an aggressive expansion in Texas and a potential initial public offering.
-Created by serial entrepreneur Marc Lore in 2018, Wonder advertises itself as "the best restaurants from across the country, all in one place." Diners can place takeout or delivery orders from its food hall-style locations on the Wonder-branded app or third-party platforms, including Grubhub, which Wonder now owns.
-As Lore described it to CNBC, "Wonder is a vertically integrated food technology platform to make great food more accessible."
-To achieve its goal, Wonder plans to open locations in urban, suburban and rural areas nationwide and aims to keep prices lower than the cost of delivered groceries. Thanks to its ownership of Grubhub, Wonder customers who order through the startup's app don't have to pay delivery fees, and its menu prices aren't inflated to cover the cost of commission fees to the delivery platform. Plus, Wonder is automating some of its kitchen functions, like assembling salads and bowls and soon sauces and beverages.
-The company aims for food preparation and delivery to be fully autonomous by 2040, Lore said.
-Now, Wonder has to convince diners its platform built on cost savings and choice makes it worth their while in a competitive industry.
-Lore's lofty vision for Wonder has helped the company raise $3.3 billion to date, from investors like DoorDash, Alphabet's venture arm and Gwyneth Paltrow. Its Series D fundraising round earlier this year raised its pre-money valuation to $9 billion — just under sandwich chain Subway's sale price two years ago.
-Wonder's next pitch to investors could be on an IPO road show, assuming that the window for companies across industries to go public reopens in the coming months.
-"[The mission] is really why I want to go public and raise the capital that it'll take to build that kind of generational business, also to have a public currency to be able to do more M&A," Lore said. "But I can't talk about timing."
-Lore's track record
-Lore's expertise lies in e-commerce, not restaurants.
-He helped found the parent company of Diapers.com and sold it in 2010 to Amazon for $545 million. Just six years later, Walmart paid about $3 billion for his follow-up venture, Jet.com. Lore stayed at the retailer until 2021 to accelerate Walmart's e-commerce growth.
-Basketball fans might also recognize Lore as an owner of the Minnesota Timberwolves. In 2021, he and baseball legend Alex Rodriguez agreed to buy the team for $1.5 billion, although the deal was not finalized until 2025. Lore recently struck a deal to shrink his investment to a minority stake "to focus on his business," Rodriguez said in a statement in August, referring to Wonder.
-Lore's latest startup began with the idea of bringing food delivery to consumers' homes through sprinter vans outfitted with mobile kitchens. The trucks lasted roughly two years before Wonder phased them out in favor of brick-and-mortar locations, which could serve more food options and lower costs.
-Lore's successful track record has helped him win over investors for Wonder.
-"I joke around at GV that I do enterprise software investing, AI investing and anything that Marc Lore is running as an active CEO," said Dave Munichiello, managing partner of Alphabet's venture capital arm GV, who has known Lore since his Diapers.com days and invested in Jet.com through GV.
-Lore himself thinks that his vision is the reason for Wonder's billions of dollars of funding.
-"Everybody eats," he said. "It's defensible from AI."
-Wonder has spent more than $1 billion on acquisitions, not including the deals where financial details were not disclosed. Its purchases of Grubhub, delivery and logistics provider Relay, meal-kit provider Blue Apron and buzzy New York restaurant concepts have been expensive.
-But Lore said he sees a "tremendous total addressable market" for Wonder if it's able to sell high-quality food at accessible prices, particularly in exurban and rural areas with few dining options beyond fast food and gas stations.
-Wonder gets bigger in Texas
-From Virginia to Massachusetts, 170 Wonder storefronts have appeared over the last three years. Next year, the company plans to enter Texas for the first time — with a goal of at least 100 locations in the state by the end of 2027.
-Wonder prepares its food at commissary kitchens, then transports it to each individual location, where employees unseal, cook and finish the menu items. Its storefronts are all electric, without gas or venting, so Wonder can quickly move into a new space and cut down on renovations and red tape.
-Its locations serve menu items from more than two dozen "restaurants," including Dabba Indian Kitchen, Tejas Barbecue and Pop Salad. Celebrity chefs including Bobby Flay, Michael Symon and Marcus Samuelsson receive up-front payments and equity in Wonder to let the company use their names for some of those concepts. More recent additions include acquisitions such as Blue Ribbon Fried Chicken and Salt Hank's, brands with established followings.
-With its wide variety of options housed under one roof, Wonder has drawn comparisons to ghost kitchens, the once-buzzy startups without dine-in seating that flamed out as food delivery orders fell after the Covid pandemic. Once considered a potential disruptor to the restaurant industry, ghost kitchen companies such as Kitchen United have sought bankruptcy protection and wound down their operations.
-Lore disagrees with the comparison.
-"You can see there's a front of house [in the] brick and mortar," he said. "You'll see people at lunchtime, sitting there enjoying lunch, so it's not ghost-y in that way. But I think it's also just in the fact that we're vertically integrated."
-Wonder has never marketed itself as a ghost kitchen, instead calling itself "a new kind of food hall" or a "modern food court" before landing on a "vertically integrated food technology platform."
-Starting Nov. 17, the company plans to take the next step with Wonder Create. Influencers, entrepreneurs and brands can pay $10 a month to start their own "restaurant" based out of a Wonder location and earn a portion of the revenue from orders. Artificial intelligence will help them make their brand, including name, logo, pricing and recipes.
-"It could be a restaurant for you and your friends, or you could be an influencer that has a following," Lore said.
-He wants Wonder Create to democratize restaurant ownership — minus the capital, overhead costs or oversight of kitchen operations. The platform will eventually be available to the public, with users deciding menu items based on Wonder's pantry.
-Besides Wonder Create, the company is also using AI for another initiative. MEL, a proprietary AI platform, can use a customer's health information, like data from an Oura ring or Whoop tracker or even blood biomarkers, to prepare breakfast, lunch and dinner for its user.
-MEL is not currently available to Wonder customers, although Lore uses AI to advise his own meals, like the chicken muffin he ate for breakfast on a Tuesday in October.
-The quality question
-While Wonder has won over venture capitalists, the battle for diners' stomachs and wallets is tougher.
-Budget-conscious consumers have been dining out less often and becoming pickier when they do so. And while food delivery is still more popular than it was before the pandemic, consumers have pulled back on delivery orders compared with their Covid-era peak. Fees and high menu prices, which offset eateries' commission fees with apps, make delivery even more expensive than dining at a restaurant.
-Plus, some consumers are skeptical about Wonder more specifically. Posts on social media decry the company's food quality and its funding from venture capital.
-"It's OK, but it's just average," Amir Ings, a 27-year-old living in Philadelphia, said in a TikTok reviewing an order of three tacos from Wonder in late 2025. "My expectations were already in the gutter — it's not as bad as I thought it was going to be, but it's still not great. And I paid like $16 for this, but it should have been no more than $8."
-Lore told CNBC that Wonder receives thousands of reviews every day from customers, rating the taste, temperature and portion size of their orders on a scale from 1 to 10. Wonder starts its board meetings by talking about taste scores, Munichiello said.
-"We're maniacally focused on food quality .... We're constantly iterating on the meals that score lower, and see over time, the last 12 months, our taste scores have improved, our Google reviews have improved," Lore said. "I do expect food quality to improve as we scale, which is not always the case."
-Despite lackluster reviews on social media, Wonder has fans. Based on transaction data from Indagari, Wonder had a higher weighted average retention rate — how likely a diner is to return — and higher lifetime value — how much a customer has spent over time — than Cava and Sweetgreen.
-Plus, Wonder has succeeded with locations in the most competitive markets for restaurants in the country.
-"They made this company work well in the hardest place in the country to stand up this model: New York," Munichiello said. "You have so much choice in New York."
-Ultimately, Wonder wants to win over the rest of the U.S. — and public market investors.
-In March, the company hired Gabrielle Scheibe Rabinovitch, previously at payment processor Worldpay, as its chief financial officer as it prepares to go public.
-Lore declined to comment on the timing of a potential IPO to CNBC, although he has previously told Fortune that the company will be "ready and prepared to go public early next year."
-Since buying Blue Apron and Grubhub, Wonder has been operating at a financial loss, The Information previously reported. It plans to bring down the price of its meals by leaning into automation and drone delivery. In the long term, that plan could cut costs, although laying the groundwork won't be cheap.
-In recent years, investors have grown less tolerant of startups pursuing growth at all costs, according to Avery Marquez, director of investment strategies at Renaissance Capital. To sway investors, unprofitable companies have to show they are taking steps toward profitability — or that the growth will continue long after the IPO.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html",
-    publishedAt: "2026-10-25T12:00:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "voters-in-brazil-head-to-polls-as-lula-g-ba81f8de",
-    title: "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-    titleJa: "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-    summaryJa: "Flávio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office.",
-    bodyOriginal: `Voters in Brazil head to polls as Lula goes up against Bolsonaro's son
-- Published
-Polls have opened in Brazil as people choose their new president in a closely fought run-off election.
-The choice is between the 80-year-old incumbent, left-winger Luiz Inácio Lula da Silva, who is seeking a fourth non-consecutive term in office, and right-wing senator Flávio Bolsonaro, 45.
-Bolsonaro is the son of former right-wing president Jair Bolsonaro, who is serving a 27-year prison sentence for plotting a coup after losing the last election in 2022.
-This is Bolsonaro's election to lose after he came top in the first round of voting on 4 October, which US President Donald Trump called a "very big" victory.
-Never before has a candidate who trailed after the first round managed to overturn the deficit and win in the second round.
-Bolsonaro's supporters were jubilant at his final campaign rallies, confident that he would bring change to Brazil through his promised tough crackdown on organised crime, as well as tax and public spending cuts.
-He campaigned on the eve of polls in Belo Horizonte, the capital of Minas Gerais, which has been a must-win state for any presidential hopeful since the 1980s.
-"The time is almost here," Bolsonaro told supporters in a social media video.
-"There are only a few hours left before we shape the future of our nation for the next 30 or 40 years."
-He has also pledged to release his father, who is currently serving his sentence under house arrest due to ill health.
-In Barra de Tijuca, Rio de Janeiro, where Jair Bolsonaro has a home, Bolsonaro supporters rallied in support of him dressed in the national colours.
-"Brazil needs change, and Flávio is the person that represents that today, after so many years of the Left destroying the economy and the country," one told BBC News.
-Another said that what she most liked about Flávio Bolsonaro was his promise to "end violence in Brazil, end terrorism, narco-trafficking, and to reduce interest rates".
-Since Bolsonaro's first-round victory, supporters of Lula have arranged huge rallies in support of him to try to boost turnout after 33 million people did not cast a vote earlier this month.
-On Saturday, Lula told a huge crowd on Rio de Janeiro's Copacabana beach that this election was a matter of "sovereignty" and people would choose between the one who kissed the Brazilian flag or the American flag.
-Lula's administration has accused the US of interfering in Brazil's election, an allegation Washington has called "baseless".
-"We're going to win the election for one simple reason: it's true that the people want change [but] they want to move forward," he said. "They don't want to go backward."
-A supporter called Roberta told BBC News: "This movement is to show we have strength. We've woken up, we're coming to the street to make a difference and turn the vote around."
-A man wearing Brazil's national yellow and green football shirt said Bolsonaro supporters had "appropriated" the jersey but Lula supporters were taking it back.
-How Brazil's changing working class is reshaping the presidential race
-- Published1 day ago
-What to know about Brazil's run-off as Lula and Flávio Bolsonaro face off
-- Published3 days ago
-Personal attacks fire up debate before Brazil's run-off vote
-- Published5 days ago
-Lula and his Workers' Party have cast this election as a "battle for democracy", arguing that Jair Bolsonaro's conviction for coup-plotting is evidence that "Bolsonarismo" constitutes a threat to Brazil's democratic institutions.
-During Lula's latest term in office, relations with Trump have been rocky.
-Lula has insisted that Brazil "does not fit into anyone's backyard", an apparent reference to what Trump has dubbed the "Donroe Doctrine" - his administration's national security strategy which asserts that US dominance in the Western hemisphere should not be interfered with.
-Bolsonaro, on the other hand, argues that working with Washington to combat powerful criminal gangs - which wield immense power in parts of Brazil - will restore the state's sovereignty to gang-controlled areas.
-He has also been labelling the Workers' Party as corrupt, reminding voters of the massive financial scandals which plagued the party for years and which have turned many voters against it.
-Lula plans to be in São Paulo to watch the results on Sunday evening while Bolsonaro is set to be in the capital Brasília - which is also where his father is under house arrest.`,
-    bodyJa: `Voters in Brazil head to polls as Lula goes up against Bolsonaro's son
-- Published
-Polls have opened in Brazil as people choose their new president in a closely fought run-off election.
-The choice is between the 80-year-old incumbent, left-winger Luiz Inácio Lula da Silva, who is seeking a fourth non-consecutive term in office, and right-wing senator Flávio Bolsonaro, 45.
-Bolsonaro is the son of former right-wing president Jair Bolsonaro, who is serving a 27-year prison sentence for plotting a coup after losing the last election in 2022.
-This is Bolsonaro's election to lose after he came top in the first round of voting on 4 October, which US President Donald Trump called a "very big" victory.
-Never before has a candidate who trailed after the first round managed to overturn the deficit and win in the second round.
-Bolsonaro's supporters were jubilant at his final campaign rallies, confident that he would bring change to Brazil through his promised tough crackdown on organised crime, as well as tax and public spending cuts.
-He campaigned on the eve of polls in Belo Horizonte, the capital of Minas Gerais, which has been a must-win state for any presidential hopeful since the 1980s.
-"The time is almost here," Bolsonaro told supporters in a social media video.
-"There are only a few hours left before we shape the future of our nation for the next 30 or 40 years."
-He has also pledged to release his father, who is currently serving his sentence under house arrest due to ill health.
-In Barra de Tijuca, Rio de Janeiro, where Jair Bolsonaro has a home, Bolsonaro supporters rallied in support of him dressed in the national colours.
-"Brazil needs change, and Flávio is the person that represents that today, after so many years of the Left destroying the economy and the country," one told BBC News.
-Another said that what she most liked about Flávio Bolsonaro was his promise to "end violence in Brazil, end terrorism, narco-trafficking, and to reduce interest rates".
-Since Bolsonaro's first-round victory, supporters of Lula have arranged huge rallies in support of him to try to boost turnout after 33 million people did not cast a vote earlier this month.
-On Saturday, Lula told a huge crowd on Rio de Janeiro's Copacabana beach that this election was a matter of "sovereignty" and people would choose between the one who kissed the Brazilian flag or the American flag.
-Lula's administration has accused the US of interfering in Brazil's election, an allegation Washington has called "baseless".
-"We're going to win the election for one simple reason: it's true that the people want change [but] they want to move forward," he said. "They don't want to go backward."
-A supporter called Roberta told BBC News: "This movement is to show we have strength. We've woken up, we're coming to the street to make a difference and turn the vote around."
-A man wearing Brazil's national yellow and green football shirt said Bolsonaro supporters had "appropriated" the jersey but Lula supporters were taking it back.
-How Brazil's changing working class is reshaping the presidential race
-- Published1 day ago
-What to know about Brazil's run-off as Lula and Flávio Bolsonaro face off
-- Published3 days ago
-Personal attacks fire up debate before Brazil's run-off vote
-- Published5 days ago
-Lula and his Workers' Party have cast this election as a "battle for democracy", arguing that Jair Bolsonaro's conviction for coup-plotting is evidence that "Bolsonarismo" constitutes a threat to Brazil's democratic institutions.
-During Lula's latest term in office, relations with Trump have been rocky.
-Lula has insisted that Brazil "does not fit into anyone's backyard", an apparent reference to what Trump has dubbed the "Donroe Doctrine" - his administration's national security strategy which asserts that US dominance in the Western hemisphere should not be interfered with.
-Bolsonaro, on the other hand, argues that working with Washington to combat powerful criminal gangs - which wield immense power in parts of Brazil - will restore the state's sovereignty to gang-controlled areas.
-He has also been labelling the Workers' Party as corrupt, reminding voters of the massive financial scandals which plagued the party for years and which have turned many voters against it.
-Lula plans to be in São Paulo to watch the results on Sunday evening while Bolsonaro is set to be in the capital Brasília - which is also where his father is under house arrest.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-25T11:00:26+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c93/live/6c2dbd80-d064-11f1-bbf5-99ed69f0d81f.jpg",
-    readTime: 10,
-  },
-  {
-    id: "budget-to-include-1bn-for-social-and-aff-d11a92cd",
-    title: "Budget to include £1bn for social and affordable housing",
-    titleJa: "Budget to include £1bn for social and affordable housing",
-    summaryJa: "Budget to include £1bn for social and affordable housing- Published",
-    bodyOriginal: `Budget to include £1bn for social and affordable housing
-- Published
-More than £1bn for social and affordable housing in England will be provided in the Budget, taking funding for the government's 10-year homes programme past £40bn.
-Mayors and regional leaders across England are also expected to get greater powers and funding in Wednesday's announcement - with councils helped to borrow money from the government to invest in house-building through preferential interest rates.
-It is hoped the plans will give regional leaders more flexibility and authority over investment decisions.
-Chancellor John Healey said English cities and regions would get the "right to decide their own future", while Prime Minister Andy Burnham said the plans were about shifting power to those "who know their communities best".
-The chancellor will also announce more support for small breweries, with the Treasury saying he wants "to turn the tide for our pint producers".
-Fresh support for breweries follows the news that 310 jobs are at risk at Marston's Brewery in Burton-upon-Trent.
-The issue was raised again at Prime Minister's Questions earlier this week, after owners Carlsberg Britvic revealed plans to shut down operations at the historic brewing site.
-Shadow chancellor Andrew Griffith has called for Healey to resign if he fails to set out how the UK will spend 3% of the UK's GDP on defence by 2030.
-What is the Budget and what could be in it?
-- Published2 days ago
-Between quick wins and big dreams lies Burnham's biggest test
-- Published23 hours ago
-Under the plans for the regions, an initial £285m in transitional seed funding will be allocated by the government next year to support mayors and local leaders - and reduce reliance on "fragmented bidding pots" in Whitehall, the Treasury said.
-The government will also confirm that it will work with mayors to design a new £1.5bn borrowing facility from 2028, which would allow them to access capital needed to support local priorities.
-The Treasury said this could be put towards new homes, bringing High Streets back to life, or improving transport links.
-Healey said: "Mayors and local leaders know what their communities need to grow, which is why we are giving them more money, more power and more capacity to get projects moving, build homes and make the right decisions for their areas."
-Areas across the country which are not yet strategic authorities will be able to access a share of the £285m to "unlock projects which will contribute to growth in their areas".
-The prime minister said: "I'm calling time on local leaders going cap in hand to Westminster. That is no way to run a country."
-Claire Ward, chairwoman of the UK Mayors Network and Labour's East Midlands mayor, said that having the "right powers and resources through increased devolution" would help turn "ambitious plans into reality and deliver real, lasting change" for communities.
-Lord Sadiq Khan, Labour's mayor of London, said greater ability to invest could "help unlock transformational infrastructure projects" including the West London Orbital route, the extension of the Bakerloo Underground line and Docklands Light Railway, and the development of Stratford International station.
-Departing Treasury entrepreneurship adviser, Alex Depledge, has criticised the government's treatment of start-ups ahead of her last day on Thursday - the day after the Budget.
-She told the Sunday Times, external, that start-ups were being treated as a "sideshow" and should not be pushed to the "margins of economic policy".
-"Keeping scale-ups on the fringes underestimates the contribution of our greatest companies, and we need to support and develop them on British shores at all costs," she said.
-Leading up to the Budget, defence has also remained a key talking point. Healey resigned in June from his role as defence secretary in the previous government over the defence investment plan, which he claimed fell "well short" of what was needed to fund the armed forces.
-He had called for defence spending to rise to 3% of the country's GDP by 2030, on the way to reaching a Nato target of 3.5% in 2035.
-But urging him to commit to setting out plans to spend 3% of GDP on defence, the shadow chancellor said: "We are living in an era of extraordinary threats, and yet the chancellor is dithering over finding the money to pay the country's insurance premium... you cannot have a strong economy without a strong defence".
-Responding to Andrew Griffith's comments, Defence Secretary Wes Streeting said the Conservatives were to blame for failing to invest in the military while in office.
-Streeting said the prime minister had made it clear that his government was "determined to give our armed forces the investment needed to keep us safe".
-Get in touch
-What are you hoping for from the Budget? What questions do you have?`,
-    bodyJa: `Budget to include £1bn for social and affordable housing
-- Published
-More than £1bn for social and affordable housing in England will be provided in the Budget, taking funding for the government's 10-year homes programme past £40bn.
-Mayors and regional leaders across England are also expected to get greater powers and funding in Wednesday's announcement - with councils helped to borrow money from the government to invest in house-building through preferential interest rates.
-It is hoped the plans will give regional leaders more flexibility and authority over investment decisions.
-Chancellor John Healey said English cities and regions would get the "right to decide their own future", while Prime Minister Andy Burnham said the plans were about shifting power to those "who know their communities best".
-The chancellor will also announce more support for small breweries, with the Treasury saying he wants "to turn the tide for our pint producers".
-Fresh support for breweries follows the news that 310 jobs are at risk at Marston's Brewery in Burton-upon-Trent.
-The issue was raised again at Prime Minister's Questions earlier this week, after owners Carlsberg Britvic revealed plans to shut down operations at the historic brewing site.
-Shadow chancellor Andrew Griffith has called for Healey to resign if he fails to set out how the UK will spend 3% of the UK's GDP on defence by 2030.
-What is the Budget and what could be in it?
-- Published2 days ago
-Between quick wins and big dreams lies Burnham's biggest test
-- Published23 hours ago
-Under the plans for the regions, an initial £285m in transitional seed funding will be allocated by the government next year to support mayors and local leaders - and reduce reliance on "fragmented bidding pots" in Whitehall, the Treasury said.
-The government will also confirm that it will work with mayors to design a new £1.5bn borrowing facility from 2028, which would allow them to access capital needed to support local priorities.
-The Treasury said this could be put towards new homes, bringing High Streets back to life, or improving transport links.
-Healey said: "Mayors and local leaders know what their communities need to grow, which is why we are giving them more money, more power and more capacity to get projects moving, build homes and make the right decisions for their areas."
-Areas across the country which are not yet strategic authorities will be able to access a share of the £285m to "unlock projects which will contribute to growth in their areas".
-The prime minister said: "I'm calling time on local leaders going cap in hand to Westminster. That is no way to run a country."
-Claire Ward, chairwoman of the UK Mayors Network and Labour's East Midlands mayor, said that having the "right powers and resources through increased devolution" would help turn "ambitious plans into reality and deliver real, lasting change" for communities.
-Lord Sadiq Khan, Labour's mayor of London, said greater ability to invest could "help unlock transformational infrastructure projects" including the West London Orbital route, the extension of the Bakerloo Underground line and Docklands Light Railway, and the development of Stratford International station.
-Departing Treasury entrepreneurship adviser, Alex Depledge, has criticised the government's treatment of start-ups ahead of her last day on Thursday - the day after the Budget.
-She told the Sunday Times, external, that start-ups were being treated as a "sideshow" and should not be pushed to the "margins of economic policy".
-"Keeping scale-ups on the fringes underestimates the contribution of our greatest companies, and we need to support and develop them on British shores at all costs," she said.
-Leading up to the Budget, defence has also remained a key talking point. Healey resigned in June from his role as defence secretary in the previous government over the defence investment plan, which he claimed fell "well short" of what was needed to fund the armed forces.
-He had called for defence spending to rise to 3% of the country's GDP by 2030, on the way to reaching a Nato target of 3.5% in 2035.
-But urging him to commit to setting out plans to spend 3% of GDP on defence, the shadow chancellor said: "We are living in an era of extraordinary threats, and yet the chancellor is dithering over finding the money to pay the country's insurance premium... you cannot have a strong economy without a strong defence".
-Responding to Andrew Griffith's comments, Defence Secretary Wes Streeting said the Conservatives were to blame for failing to invest in the military while in office.
-Streeting said the prime minister had made it clear that his government was "determined to give our armed forces the investment needed to keep us safe".
-Get in touch
-What are you hoping for from the Budget? What questions do you have?`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-25T10:03:17+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ec8/live/67f00de0-cfe2-11f1-aa62-a1cf89c34605.jpg",
-    readTime: 10,
-  },
-  {
-    id: "musk-says-spacex-restricted-ukraine-s-st-cf65eabe",
-    title: "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-    titleJa: "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-    summaryJa: "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
-    bodyOriginal: `Musk says SpaceX restricted Ukraine's Starlink connection as service restored
-- Published
-Elon Musk has said his company SpaceX restricted Ukraine's Starlink internet service, after Ukrainian officials said connectivity issues appeared to have been resolved.
-The tech billionaire accused Ukraine of violating its terms of service by using it for military activity - but denied being responsible for a simultaneous issue with its US-run, military-grade counterpart Starshield.
-Kyiv has not officially commented on Musk's latest claim but Ukrainian presidential adviser Serhii Beskrestnov said his post was "very strange".
-Musk had earlier denied deliberately throttling Ukraine's connection, which it says hampered its ability to conduct defensive operations for more than a week.
-The issue first emerged last week during a broader row between Washington and Kyiv over Ukrainian strikes on Russian oil infrastructure.
-Musk's latest comments, and the seeming restoration of the service, came after US President Donald Trump said he had told the Tesla and X owner to "put it back", having repeatedly denied instructing him to limit the service.
-"Using Starlink, a civilian commercial service, for offensive drone strikes to kill people has never been allowed, nor should it be," Musk wrote on X on Saturday.
-"Ukraine['s] military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week."
-He went on to say that SpaceX had "done more to defend Ukraine than any private company on Earth" and reiterated his stipulation that Starshield was a different system and controlled by the US government, adding: "What they decide to do is up to them."
-He added in a later post: "[Starlink] can be used for infrastructure that is military, but it cannot be used for unequivocally offensive strikes that make it fair game to be struck back."
-Reacting to Musk's post, Beskrestnov wrote on Telegram that Starlink terminals operating in Ukraine have a speed restriction of 70-90km/h and do not work on Russian territory.
-"Therefore, we physically cannot use commercial Starlink for deep strikes and medium-range strikes," he said.
-"It is very strange that Elon Musk is not aware of Starlink restrictions in Ukraine."
-There was no immediate comment from Ukraine's defence ministry.
-Ukraine uses both the civilian service Starlink and the more secure Starshield, depending on what communications are needed, both of which run on networks of low Earth orbit satellites launched by SpaceX.
-Starlink allows military units to co-ordinate, particularly in remote areas on the battlefield, while Starshield allows Ukrainian drone operators to see targets in real time, as well as operate interceptor drones.
-Russia is not authorised to use Starlink, so when Ukraine sends long-range missiles or drones deep into Russia to hit oil refineries, the network does not work.
-Ukraine's Defence Minister Yevhenii Khmara said earlier on Saturday that the military was now recording a "stable connection", with drones now able to reach speeds in excess of 400km/h (249mph). Kyiv previously said the connection would cut out above 161km/h.
-"The speeds are now where they need to be," Ukrainian President Volodymyr Zelensky wrote on Telegram.
-Musk did not disclose in his post why SpaceX had chosen to make the change to its service last week, when Ukraine's extensive use of Starlink had been known for several years.
-The connection issues coincided with a tense diplomatic standoff between Zelensky and Trump over Ukrainian strikes on oil infrastructure within Russia.
-Trump said the strikes on Russian oil refineries, which Kyiv says are crucial to stemming the main revenue source for Moscow's war effort, have pushed global prices higher.
-While the attacks have had an impact on global fuel prices, rises seen this year have primarily been due to the Iran war.
-Faced with midterm elections next month and domestic displeasure with rising fuel prices, Trump has waived some sanctions on Russia and agreed a deal with Moscow - criticised by European allies as funding Russia's war machine - to supply Russian diesel to the US and the global market.
-Zelensky initially agreed to cease strikes targeting Russian oil facilities on the proviso that Moscow cease striking Ukraine's energy infrastructure, before restarting the strikes after several instances of Russia disregarding this.
-The Ukrainian leader said that, as well as seemingly limiting Starlink capability in Ukraine, the US had also threatened to withdraw intelligence sharing if the strikes did not stop, something Trump also denied.
-Why is Ukraine so reliant on Starlink and can Europe plug the gap?
-- Published5 hours ago
-Fighting and aerial attacks continue to be exchanged between Russia and Ukraine overnight.
-Ukraine's emergency services said three people were killed and 15 others injured, including an 11-year-old girl, in attacks on the Dnipropetrovsk region, in the south east.
-Another six people were injured when a Russian drone struck an apartment block in the central city of Vinnytsia, it said.
-The Russian defence ministry said on Sunday that it had struck a cargo vessel it claimed was being used to supply the Ukrainian army while it was en route to the Black Sea port of Chornomorsk overnight.
-It also said Russian forces hit a logistics centre, a distribution centre and a logistics terminal in the Ukrainian city of Kharkiv.
-Ukraine's defence ministry earlier said it struck a facility in the Russian city of Oryol run by a sanctioned heavy machinery manufacturer. Russian authorities said three people were killed in the strike.
-Related topics
-- Published15 October`,
-    bodyJa: `Musk says SpaceX restricted Ukraine's Starlink connection as service restored
-- Published
-Elon Musk has said his company SpaceX restricted Ukraine's Starlink internet service, after Ukrainian officials said connectivity issues appeared to have been resolved.
-The tech billionaire accused Ukraine of violating its terms of service by using it for military activity - but denied being responsible for a simultaneous issue with its US-run, military-grade counterpart Starshield.
-Kyiv has not officially commented on Musk's latest claim but Ukrainian presidential adviser Serhii Beskrestnov said his post was "very strange".
-Musk had earlier denied deliberately throttling Ukraine's connection, which it says hampered its ability to conduct defensive operations for more than a week.
-The issue first emerged last week during a broader row between Washington and Kyiv over Ukrainian strikes on Russian oil infrastructure.
-Musk's latest comments, and the seeming restoration of the service, came after US President Donald Trump said he had told the Tesla and X owner to "put it back", having repeatedly denied instructing him to limit the service.
-"Using Starlink, a civilian commercial service, for offensive drone strikes to kill people has never been allowed, nor should it be," Musk wrote on X on Saturday.
-"Ukraine['s] military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week."
-He went on to say that SpaceX had "done more to defend Ukraine than any private company on Earth" and reiterated his stipulation that Starshield was a different system and controlled by the US government, adding: "What they decide to do is up to them."
-He added in a later post: "[Starlink] can be used for infrastructure that is military, but it cannot be used for unequivocally offensive strikes that make it fair game to be struck back."
-Reacting to Musk's post, Beskrestnov wrote on Telegram that Starlink terminals operating in Ukraine have a speed restriction of 70-90km/h and do not work on Russian territory.
-"Therefore, we physically cannot use commercial Starlink for deep strikes and medium-range strikes," he said.
-"It is very strange that Elon Musk is not aware of Starlink restrictions in Ukraine."
-There was no immediate comment from Ukraine's defence ministry.
-Ukraine uses both the civilian service Starlink and the more secure Starshield, depending on what communications are needed, both of which run on networks of low Earth orbit satellites launched by SpaceX.
-Starlink allows military units to co-ordinate, particularly in remote areas on the battlefield, while Starshield allows Ukrainian drone operators to see targets in real time, as well as operate interceptor drones.
-Russia is not authorised to use Starlink, so when Ukraine sends long-range missiles or drones deep into Russia to hit oil refineries, the network does not work.
-Ukraine's Defence Minister Yevhenii Khmara said earlier on Saturday that the military was now recording a "stable connection", with drones now able to reach speeds in excess of 400km/h (249mph). Kyiv previously said the connection would cut out above 161km/h.
-"The speeds are now where they need to be," Ukrainian President Volodymyr Zelensky wrote on Telegram.
-Musk did not disclose in his post why SpaceX had chosen to make the change to its service last week, when Ukraine's extensive use of Starlink had been known for several years.
-The connection issues coincided with a tense diplomatic standoff between Zelensky and Trump over Ukrainian strikes on oil infrastructure within Russia.
-Trump said the strikes on Russian oil refineries, which Kyiv says are crucial to stemming the main revenue source for Moscow's war effort, have pushed global prices higher.
-While the attacks have had an impact on global fuel prices, rises seen this year have primarily been due to the Iran war.
-Faced with midterm elections next month and domestic displeasure with rising fuel prices, Trump has waived some sanctions on Russia and agreed a deal with Moscow - criticised by European allies as funding Russia's war machine - to supply Russian diesel to the US and the global market.
-Zelensky initially agreed to cease strikes targeting Russian oil facilities on the proviso that Moscow cease striking Ukraine's energy infrastructure, before restarting the strikes after several instances of Russia disregarding this.
-The Ukrainian leader said that, as well as seemingly limiting Starlink capability in Ukraine, the US had also threatened to withdraw intelligence sharing if the strikes did not stop, something Trump also denied.
-Why is Ukraine so reliant on Starlink and can Europe plug the gap?
-- Published5 hours ago
-Fighting and aerial attacks continue to be exchanged between Russia and Ukraine overnight.
-Ukraine's emergency services said three people were killed and 15 others injured, including an 11-year-old girl, in attacks on the Dnipropetrovsk region, in the south east.
-Another six people were injured when a Russian drone struck an apartment block in the central city of Vinnytsia, it said.
-The Russian defence ministry said on Sunday that it had struck a cargo vessel it claimed was being used to supply the Ukrainian army while it was en route to the Black Sea port of Chornomorsk overnight.
-It also said Russian forces hit a logistics centre, a distribution centre and a logistics terminal in the Ukrainian city of Kharkiv.
-Ukraine's defence ministry earlier said it struck a facility in the Russian city of Oryol run by a sanctioned heavy machinery manufacturer. Russian authorities said three people were killed in the strike.
-Related topics
-- Published15 October`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-25T09:00:00+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b53/live/c94ca0d0-d041-11f1-950a-2dcbf5245e34.jpg",
-    readTime: 10,
-  },
-  {
-    id: "will-a-new-code-end-rip-off-parking-char-65f84f05",
-    title: "Will a new code end 'rip-off parking charges'?",
-    titleJa: "Will a new code end 'rip-off parking charges'?",
-    summaryJa: "The prime minister says a new code will end \"rip-off parking charges\" - but will it work?",
-    bodyOriginal: `Will a new code end 'rip-off parking charges'?
-- Published
-"I was completely on edge, every single day," said Rosey Greenwood. "I had letters coming through - I had debt collectors after me."
-Two years ago, Rosey was being told to pay £1,906 because she had taken too long to pay for parking.
-Rosey had paid every single time she parked at the Copeland Street car park in Derby, and had bank records to prove it. But Rosey had unknowingly broken the car park's terms and conditions, which stipulated that drivers must pay within five minutes of entering.
-Rosey could not afford to pay £1,906 - she was due to get married and also saving up to buy her first home.
-As she prepared to fight the case in court, her fiance emailed the BBC and asked us to "shed some light" on what was happening.
-The case was then raised in Parliament, external by Derby North MP Catherine Atkinson, who described the charges - which had caught out countless other motorists - as a "five-minute rip-off charge".
-The parking sector subsequently banned the five-minute payment rule by updating its code of practice, external, but the government is going further by bringing in a statutory Private Parking Code of Practice.
-"These charges leave people feeling ripped off and out of pocket, so I'm putting a stop to them," Prime Minister Andy Burnham said, external on Monday.
-But will the new code actually put the brakes on "rip-off" parking charges?
-What is happening?
-The government's new Private Parking Code of Practice was laid out in Parliament on Tuesday.
-It sets out standards that parking operators must follow.
-Housing and communities minister Florence Eshalomi said, external the new code "will give drivers a range of rights and protections to make these unfair practices a thing of the past".
-The code is now subject to a 40-day period of parliamentary scrutiny, during which MPs and peers can object before it is formally issued.
-The code will then come into force 21 calendar days from the point of issue.
-What is in the code?
-In places, the code appears to be very similar to the private parking sector's existing code of practice, external.
-For example, Eshalomi said drivers would "now have a guaranteed minimum five minutes to decide whether to park", known as the consideration period.
-However, the sector's code already gives drivers a minimum consideration period of five minutes, so this does not appear to be new.
-The government's code also gives drivers a 10-minute grace period, external in which to leave a car park following the end of their permitted stay.
-However, the sector's code already gives drivers a 10-minute grace period, so this does not appear to be new either.
-The government's code sets the maximum parking charge at £100, or £60 if paid within a fortnight. This is also the same as in the sector's code.
-The government's code states charges should be reduced to £20 on appeal, external under four circumstances: not displaying a parking permit despite having a valid one, entering the wrong vehicle registration into a parking machine, not entering a registration at all, and not displaying a Blue Badge despite having one.
-The sector's code already said charges should be reduced to £20 under those circumstances.
-Parking operators will also still be allowed to add a £70 debt recovery fee, external to each parking charge if drivers do not pay, as well as court fees and legal costs.
-So what is new?
-The government code states parking charges should be cancelled on appeal where the driver or a passenger in the vehicle suffers the onset of illness, where the driver or a passenger is delayed by an overrunning medical appointment, where the driver suffers delays due to childcare arrangements, and where a vehicle is broken down.
-In contrast, the sector's code said these charges should be reduced to £20.
-The government's code says parking operators who do not comply will lose access to DVLA vehicle keeper data, meaning they will no longer be able to issue parking charges.
-This is meant to happen already, because parking operators need to be members of one of two trade associations in order to access DVLA data, and they can theoretically lose their membership if they break the rules.
-Campaigners claim this has not happened in practice, but the government insists it will happen in future.
-There will also be what the government describes as a "fully independent Scrutiny and Oversight Board".
-Jack Cousens, head of roads policy at the AA, said the benefit of the new code was that it was backed by the government, rather than the parking sector itself.
-"That means, if there are any changes to be made, it will come via the government and indeed via the independent scrutiny panel," he added.
-"Up until now, the private industry have held the pen on changing the code of practice. Now the pen is firmly in the hand of the government."
-What do campaigners want?
-Both the AA and RAC have welcomed the statutory code of practice - which they campaigned for - but believe it does not go far enough.
-For example, the AA believes there needs to be a single and independent appeals process.
-"Drivers need to have confidence that when they are making their representations, it's being heard by an independent body, as opposed to the private parking operators and their trade bodies marking their own homework," Cousens said.
-The AA also believes the government needs to find an alternative to debt recovery fees and charges, which often "spiral" into the threat of court action and County Court Judgments.
-This was how Rosey was asked to pay a total of £1,906 for 10 parking charges, and also how Hannah Robinson was asked to pay £11,390.
-The RAC shares the same concerns.
-"We've long called for the banning of debt recovery fees being added on top of parking charge notices, and a single independent appeals body to replace the two industry-run ones, but neither have been included [in the code] which is disappointing," head of policy Simon Williams said.
-The government said it was "consulting as soon as possible next year on private parking debt recovery fees, including on whether to cut an existing £70 cap or scrap the fees altogether".
-Parking campaigner Lynda Eagan, who helped Rosey, is sceptical about how much has changed.
-"I've been screaming at the TV every time I see someone saying 'we've got these new things'," she said.
-"They've tweaked a few things here and there, but it's not actually going to make an awful lot of difference to people.
-"How, when not much has really changed, is that going to reduce the number of PCNs [parking charge notices]?"
-In response, a Ministry of Housing, Communities and Local Government spokesperson said: "We don't accept these claims. We've introduced a new Private Parking Code of Practice that will have statutory force and independent oversight.
-"We've introduced significant changes to make life fairer for drivers, including cancelling the £20 charge for circumstances outside a someone's control like an overrunning medical appointment, and helping motorists get a fairer outcome with strengthened requirements for appeals."
-One thing Eagan is looking forward to is the new oversight board, external, although she is concerned it will not be truly independent.
-The AA is more optimistic.
-"We are hopeful that it could make some difference to some drivers, and we hope that it stops some of the more spurious claims being stopped at source, but we will be watching," Cousens said.
-What has the parking sector said?
-The two trade associations for parking operators, which wrote the sector's existing code, are reading and reviewing the government's changes.
-Alison Tooze, chief policy officer at the British Parking Association, said: "Overall, the code strikes the right balance between stronger protections for motorists and effective parking management, helping keep communities, businesses and local economies moving."
-She said retaining a £100 parking charge was important.
-"Evidence shows that meaningful deterrents support compliance and good behaviours, helping ensure parking remains available for those who need it and enabling parking to be managed effectively," she added.
-A spokesperson for the International Parking Community (IPC) said: "The IPC has long supported a code that raises standards, and we are now reviewing it in detail to understand what it means for motorists, landowners and operators alike.
-"Any changes must remain fair to motorists while staying workable, so that compliant motorists are not disadvantaged by those who choose to ignore the rules."
-How is Rosey now?
-The £1,906 court claim against Rosey was dropped following publicity about the case. She has since married her fiance and they have bought a house together.
-She is hopeful the new code will prevent other people going through what she did.
-"I feel like our voices have been heard; fellow motorists like myself have been listened to," she said.
-"I hope that in the future people won't be so worried or fearful of going into car parks like the one I went to."
-Get in touch
-Tell us which stories we should cover in Derby
-Listen to BBC Radio Derby on Sounds and follow BBC Derby on Facebook, external, on X, external, or on Instagram, external. Send your story ideas to eastmidsnews@bbc.co.uk, external or via WhatsApp, external on 0808 100 2210.
-- Published5 days ago
-- Published6 October
-- Published30 November 2024`,
-    bodyJa: `Will a new code end 'rip-off parking charges'?
-- Published
-"I was completely on edge, every single day," said Rosey Greenwood. "I had letters coming through - I had debt collectors after me."
-Two years ago, Rosey was being told to pay £1,906 because she had taken too long to pay for parking.
-Rosey had paid every single time she parked at the Copeland Street car park in Derby, and had bank records to prove it. But Rosey had unknowingly broken the car park's terms and conditions, which stipulated that drivers must pay within five minutes of entering.
-Rosey could not afford to pay £1,906 - she was due to get married and also saving up to buy her first home.
-As she prepared to fight the case in court, her fiance emailed the BBC and asked us to "shed some light" on what was happening.
-The case was then raised in Parliament, external by Derby North MP Catherine Atkinson, who described the charges - which had caught out countless other motorists - as a "five-minute rip-off charge".
-The parking sector subsequently banned the five-minute payment rule by updating its code of practice, external, but the government is going further by bringing in a statutory Private Parking Code of Practice.
-"These charges leave people feeling ripped off and out of pocket, so I'm putting a stop to them," Prime Minister Andy Burnham said, external on Monday.
-But will the new code actually put the brakes on "rip-off" parking charges?
-What is happening?
-The government's new Private Parking Code of Practice was laid out in Parliament on Tuesday.
-It sets out standards that parking operators must follow.
-Housing and communities minister Florence Eshalomi said, external the new code "will give drivers a range of rights and protections to make these unfair practices a thing of the past".
-The code is now subject to a 40-day period of parliamentary scrutiny, during which MPs and peers can object before it is formally issued.
-The code will then come into force 21 calendar days from the point of issue.
-What is in the code?
-In places, the code appears to be very similar to the private parking sector's existing code of practice, external.
-For example, Eshalomi said drivers would "now have a guaranteed minimum five minutes to decide whether to park", known as the consideration period.
-However, the sector's code already gives drivers a minimum consideration period of five minutes, so this does not appear to be new.
-The government's code also gives drivers a 10-minute grace period, external in which to leave a car park following the end of their permitted stay.
-However, the sector's code already gives drivers a 10-minute grace period, so this does not appear to be new either.
-The government's code sets the maximum parking charge at £100, or £60 if paid within a fortnight. This is also the same as in the sector's code.
-The government's code states charges should be reduced to £20 on appeal, external under four circumstances: not displaying a parking permit despite having a valid one, entering the wrong vehicle registration into a parking machine, not entering a registration at all, and not displaying a Blue Badge despite having one.
-The sector's code already said charges should be reduced to £20 under those circumstances.
-Parking operators will also still be allowed to add a £70 debt recovery fee, external to each parking charge if drivers do not pay, as well as court fees and legal costs.
-So what is new?
-The government code states parking charges should be cancelled on appeal where the driver or a passenger in the vehicle suffers the onset of illness, where the driver or a passenger is delayed by an overrunning medical appointment, where the driver suffers delays due to childcare arrangements, and where a vehicle is broken down.
-In contrast, the sector's code said these charges should be reduced to £20.
-The government's code says parking operators who do not comply will lose access to DVLA vehicle keeper data, meaning they will no longer be able to issue parking charges.
-This is meant to happen already, because parking operators need to be members of one of two trade associations in order to access DVLA data, and they can theoretically lose their membership if they break the rules.
-Campaigners claim this has not happened in practice, but the government insists it will happen in future.
-There will also be what the government describes as a "fully independent Scrutiny and Oversight Board".
-Jack Cousens, head of roads policy at the AA, said the benefit of the new code was that it was backed by the government, rather than the parking sector itself.
-"That means, if there are any changes to be made, it will come via the government and indeed via the independent scrutiny panel," he added.
-"Up until now, the private industry have held the pen on changing the code of practice. Now the pen is firmly in the hand of the government."
-What do campaigners want?
-Both the AA and RAC have welcomed the statutory code of practice - which they campaigned for - but believe it does not go far enough.
-For example, the AA believes there needs to be a single and independent appeals process.
-"Drivers need to have confidence that when they are making their representations, it's being heard by an independent body, as opposed to the private parking operators and their trade bodies marking their own homework," Cousens said.
-The AA also believes the government needs to find an alternative to debt recovery fees and charges, which often "spiral" into the threat of court action and County Court Judgments.
-This was how Rosey was asked to pay a total of £1,906 for 10 parking charges, and also how Hannah Robinson was asked to pay £11,390.
-The RAC shares the same concerns.
-"We've long called for the banning of debt recovery fees being added on top of parking charge notices, and a single independent appeals body to replace the two industry-run ones, but neither have been included [in the code] which is disappointing," head of policy Simon Williams said.
-The government said it was "consulting as soon as possible next year on private parking debt recovery fees, including on whether to cut an existing £70 cap or scrap the fees altogether".
-Parking campaigner Lynda Eagan, who helped Rosey, is sceptical about how much has changed.
-"I've been screaming at the TV every time I see someone saying 'we've got these new things'," she said.
-"They've tweaked a few things here and there, but it's not actually going to make an awful lot of difference to people.
-"How, when not much has really changed, is that going to reduce the number of PCNs [parking charge notices]?"
-In response, a Ministry of Housing, Communities and Local Government spokesperson said: "We don't accept these claims. We've introduced a new Private Parking Code of Practice that will have statutory force and independent oversight.
-"We've introduced significant changes to make life fairer for drivers, including cancelling the £20 charge for circumstances outside a someone's control like an overrunning medical appointment, and helping motorists get a fairer outcome with strengthened requirements for appeals."
-One thing Eagan is looking forward to is the new oversight board, external, although she is concerned it will not be truly independent.
-The AA is more optimistic.
-"We are hopeful that it could make some difference to some drivers, and we hope that it stops some of the more spurious claims being stopped at source, but we will be watching," Cousens said.
-What has the parking sector said?
-The two trade associations for parking operators, which wrote the sector's existing code, are reading and reviewing the government's changes.
-Alison Tooze, chief policy officer at the British Parking Association, said: "Overall, the code strikes the right balance between stronger protections for motorists and effective parking management, helping keep communities, businesses and local economies moving."
-She said retaining a £100 parking charge was important.
-"Evidence shows that meaningful deterrents support compliance and good behaviours, helping ensure parking remains available for those who need it and enabling parking to be managed effectively," she added.
-A spokesperson for the International Parking Community (IPC) said: "The IPC has long supported a code that raises standards, and we are now reviewing it in detail to understand what it means for motorists, landowners and operators alike.
-"Any changes must remain fair to motorists while staying workable, so that compliant motorists are not disadvantaged by those who choose to ignore the rules."
-How is Rosey now?
-The £1,906 court claim against Rosey was dropped following publicity about the case. She has since married her fiance and they have bought a house together.
-She is hopeful the new code will prevent other people going through what she did.
-"I feel like our voices have been heard; fellow motorists like myself have been listened to," she said.
-"I hope that in the future people won't be so worried or fearful of going into car parks like the one I went to."
-Get in touch
-Tell us which stories we should cover in Derby
-Listen to BBC Radio Derby on Sounds and follow BBC Derby on Facebook, external, on X, external, or on Instagram, external. Send your story ideas to eastmidsnews@bbc.co.uk, external or via WhatsApp, external on 0808 100 2210.
-- Published5 days ago
-- Published6 October
-- Published30 November 2024`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-25T07:05:30+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e375/live/494eded0-cec9-11f1-bed9-e3a2c35dfdd6.jpg",
-    readTime: 10,
-  },
-  {
-    id: "four-ways-labour-could-raise-money-in-th-c855880e",
-    title: "Four ways Labour could raise money in the Budget without hiking income tax",
-    titleJa: "Four ways Labour could raise money in the Budget without hiking income tax",
-    summaryJa: "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
-    bodyOriginal: `Four ways Labour could raise money in the Budget without hiking income tax
-- Published
-We're likely to hear a lot about the chancellor's "headroom" in this Budget.
-That is the cash buffer the government has to help meet its own fiscal rules and reduce borrowing.
-Economists think the buffer might have halved in the last six months from around £24bn to as low as £11bn, in part because of rising interest rates the government has been paying to borrow money from private investors.
-The Chancellor, John Healey, might need to raise money to restore it, which would show the government's plan to reduce borrowing by the end of this Parliament is still on track.
-At the same time, he is under pressure to find money to help people with the rising cost of living and to fund spending on defence. However, Labour's 2024 election manifesto pledged not to raise the rates of income tax, VAT or National Insurance.
-Increasing taxes on capital gains or extending the mansion tax had been raised as possible options but have since been ruled out by government sources.
-BBC Verify has looked at what other options could be on the table for the chancellor to raise some more money, external on Wednesday.
-1. Increase taxes on banks
-Banks in the UK have seen profits rise in recent years because they have been able to charge people higher interest rates when borrowing money.
-And there is widespread belief among bank bosses that the chancellor is preparing to raise taxes on banks in this week's Budget.
-Think tank Tax Policy Associates estimates, external that increasing the surcharge that banks pay on corporation tax from 3% to 5.5% could potentially raise an additional £1bn to £2bn a year for the Treasury.
-A higher tax would initially reduce the profits that banks have to distribute to their shareholders.
-Some shareholders will be wealthy investors. The banks have warned that additional taxes could deter them from investing in the UK, external, which could reduce jobs.
-And ordinary savers could be indirectly affected too, if their pension investments include bank shares, external.
-Banks could also pass some of the tax burden on to their customers by offering lower savings rates or higher borrowing costs, research suggests., external
-2. Higher taxes on gambling machines
-Former Prime Minister Gordon Brown has called on Healey to hike the tax on electronic gaming machines - such as those found in betting shops and adult gaming centres which can offer payouts of £500 per game - citing the social harm imposed by problem gambling.
-The Social Market Foundation (SMF) think tank has estimated, external that doubling tax on these machines from 20% to 40% could raise could raise between £275m and £460m - depending on how gamblers reacted to it.
-People who use gambling machines could also end up having the tax passed on to them through worse odds on games, though anti-gambling groups argue this could help discourage more people from using them.
-Research from the SMF found that gambling machines are increasingly clustered on some of the UK's most deprived high streets, and that one in four people who play casino games on these machines gamble at risky or harmful levels.
-The gambling industry has argued, external such a tax hike could cause betting shops, which own and operate the machines, to close down, by making them less profitable.
-It has also argued that betting shop closures could reduce the money bookmakers contribute to horse racing, external, potentially putting jobs in that industry at risk too.
-3. Get online marketplaces to collect VAT
-Reports suggest the chancellor is preparing to announce that big online marketplaces such as Amazon, Ebay and Temu will be made responsible for collecting tax owed by retailers selling on their platforms.
-The Treasury estimates it is missing out on around £12bn a year, external in VAT revenues that should be paid by companies, which it calls the "VAT tax gap".
-Tax experts say that part of the problem - although not accounting for the full £12bn of the VAT gap - is that some online sellers fail to comply with VAT rules, either by not charging VAT when they should or by failing to pass on VAT collected from customers to the government.
-Enforcement can be difficult because some firms that use platforms like Amazon to sell their products are based overseas and falsely present themselves as UK-established businesses.
-Others close down and reopen under different company names to escape their tax liabilities.
-Reports suggest that this move to make big online marketplaces responsible for collecting the tax - rather than the individual retailers - would clamp down on this form of tax evasion and could raise around £1bn in extra VAT a year.
-Amazon, which supports the move, has estimated it could raise £700m, external a year in VAT for the government.
-Some sellers could respond by raising prices or leaving the platform, which could have an impact on some shoppers.
-However, it would also level the playing field for online sellers, ensuring those businesses who charge VAT are not illegally undercut by those who break the rules and do not.
-4. Cut welfare spending
-The above three tax measures together would raise a maximum of only around £3.5bn a year.
-That would be small relative to the sums of money the chancellor might well need to restore his headroom and pay for any new spending.
-Prime Minister Andy Burnham said in the summer he wanted a "fair and lasting" reduction to the UK's welfare bill, while the government is under pressure from opposition parties to find savings from working-age benefits.
-The Conservatives claim they could make savings of £36bn a year by restricting people's access to welfare payments.
-Reform say they would save £50bn a year in this way, although independent analysts say there are questions about how realistic it is to make such large savings.
-Working health and sickness benefits have risen sharply since the Covid pandemic and the overall cost is projected by the Office for Budget Responsibility to increase from £68bn this year to £81bn in 2031.
-Keir Starmer and Rachel Reeves attempted to reduce spending on these benefits , externalby £5bn a year by 2030, but were forced to reverse course after a revolt by backbench Labour MPs.
-Independent welfare experts and economists say savings from the working age welfare budget are possible but would likely require upfront spending to help people into work, which could cancel out any near-term savings for the Treasury.
-Cuts to health and disability welfare would reduce the incomes of people who currently receive those payments, external and/or those who would otherwise receive them in future - and campaigners warn of the risk of people being pushed into poverty.
-However, if more welfare claimants were also supported into work, their overall incomes could be maintained or even rise.
-Graphics by Callum Thomson and Lewis McBlane.
-Get in touch
-What are you hoping for from the Budget? What questions do you have?`,
-    bodyJa: `Four ways Labour could raise money in the Budget without hiking income tax
-- Published
-We're likely to hear a lot about the chancellor's "headroom" in this Budget.
-That is the cash buffer the government has to help meet its own fiscal rules and reduce borrowing.
-Economists think the buffer might have halved in the last six months from around £24bn to as low as £11bn, in part because of rising interest rates the government has been paying to borrow money from private investors.
-The Chancellor, John Healey, might need to raise money to restore it, which would show the government's plan to reduce borrowing by the end of this Parliament is still on track.
-At the same time, he is under pressure to find money to help people with the rising cost of living and to fund spending on defence. However, Labour's 2024 election manifesto pledged not to raise the rates of income tax, VAT or National Insurance.
-Increasing taxes on capital gains or extending the mansion tax had been raised as possible options but have since been ruled out by government sources.
-BBC Verify has looked at what other options could be on the table for the chancellor to raise some more money, external on Wednesday.
-1. Increase taxes on banks
-Banks in the UK have seen profits rise in recent years because they have been able to charge people higher interest rates when borrowing money.
-And there is widespread belief among bank bosses that the chancellor is preparing to raise taxes on banks in this week's Budget.
-Think tank Tax Policy Associates estimates, external that increasing the surcharge that banks pay on corporation tax from 3% to 5.5% could potentially raise an additional £1bn to £2bn a year for the Treasury.
-A higher tax would initially reduce the profits that banks have to distribute to their shareholders.
-Some shareholders will be wealthy investors. The banks have warned that additional taxes could deter them from investing in the UK, external, which could reduce jobs.
-And ordinary savers could be indirectly affected too, if their pension investments include bank shares, external.
-Banks could also pass some of the tax burden on to their customers by offering lower savings rates or higher borrowing costs, research suggests., external
-2. Higher taxes on gambling machines
-Former Prime Minister Gordon Brown has called on Healey to hike the tax on electronic gaming machines - such as those found in betting shops and adult gaming centres which can offer payouts of £500 per game - citing the social harm imposed by problem gambling.
-The Social Market Foundation (SMF) think tank has estimated, external that doubling tax on these machines from 20% to 40% could raise could raise between £275m and £460m - depending on how gamblers reacted to it.
-People who use gambling machines could also end up having the tax passed on to them through worse odds on games, though anti-gambling groups argue this could help discourage more people from using them.
-Research from the SMF found that gambling machines are increasingly clustered on some of the UK's most deprived high streets, and that one in four people who play casino games on these machines gamble at risky or harmful levels.
-The gambling industry has argued, external such a tax hike could cause betting shops, which own and operate the machines, to close down, by making them less profitable.
-It has also argued that betting shop closures could reduce the money bookmakers contribute to horse racing, external, potentially putting jobs in that industry at risk too.
-3. Get online marketplaces to collect VAT
-Reports suggest the chancellor is preparing to announce that big online marketplaces such as Amazon, Ebay and Temu will be made responsible for collecting tax owed by retailers selling on their platforms.
-The Treasury estimates it is missing out on around £12bn a year, external in VAT revenues that should be paid by companies, which it calls the "VAT tax gap".
-Tax experts say that part of the problem - although not accounting for the full £12bn of the VAT gap - is that some online sellers fail to comply with VAT rules, either by not charging VAT when they should or by failing to pass on VAT collected from customers to the government.
-Enforcement can be difficult because some firms that use platforms like Amazon to sell their products are based overseas and falsely present themselves as UK-established businesses.
-Others close down and reopen under different company names to escape their tax liabilities.
-Reports suggest that this move to make big online marketplaces responsible for collecting the tax - rather than the individual retailers - would clamp down on this form of tax evasion and could raise around £1bn in extra VAT a year.
-Amazon, which supports the move, has estimated it could raise £700m, external a year in VAT for the government.
-Some sellers could respond by raising prices or leaving the platform, which could have an impact on some shoppers.
-However, it would also level the playing field for online sellers, ensuring those businesses who charge VAT are not illegally undercut by those who break the rules and do not.
-4. Cut welfare spending
-The above three tax measures together would raise a maximum of only around £3.5bn a year.
-That would be small relative to the sums of money the chancellor might well need to restore his headroom and pay for any new spending.
-Prime Minister Andy Burnham said in the summer he wanted a "fair and lasting" reduction to the UK's welfare bill, while the government is under pressure from opposition parties to find savings from working-age benefits.
-The Conservatives claim they could make savings of £36bn a year by restricting people's access to welfare payments.
-Reform say they would save £50bn a year in this way, although independent analysts say there are questions about how realistic it is to make such large savings.
-Working health and sickness benefits have risen sharply since the Covid pandemic and the overall cost is projected by the Office for Budget Responsibility to increase from £68bn this year to £81bn in 2031.
-Keir Starmer and Rachel Reeves attempted to reduce spending on these benefits , externalby £5bn a year by 2030, but were forced to reverse course after a revolt by backbench Labour MPs.
-Independent welfare experts and economists say savings from the working age welfare budget are possible but would likely require upfront spending to help people into work, which could cancel out any near-term savings for the Treasury.
-Cuts to health and disability welfare would reduce the incomes of people who currently receive those payments, external and/or those who would otherwise receive them in future - and campaigners warn of the risk of people being pushed into poverty.
-However, if more welfare claimants were also supported into work, their overall incomes could be maintained or even rise.
-Graphics by Callum Thomson and Lewis McBlane.
-Get in touch
-What are you hoping for from the Budget? What questions do you have?`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-25T06:00:15+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4709/live/59ef3fb0-ceff-11f1-a701-fddedf244c16.jpg",
-    readTime: 10,
   },
 ];
 
