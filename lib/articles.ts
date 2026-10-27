@@ -15,6 +15,580 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "boeing-narrows-third-quarter-loss-as-def-c08ccc9a",
+    title: "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production",
+    titleJa: "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production",
+    summaryJa: "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
+    bodyOriginal: `Boeing narrowed its loss in the third quarter after defense sales rose, but CEO Kelly Ortberg told staff that the manufacturer has "more work to do."
+Here's what Boeing reported for the third quarter compared with what Wall Street analysts are expected, according to consensus estimates from LSEG:
+- Loss per share: 34 cents adjusted vs. a loss of 21 cents expected
+- Revenue: $24.19 billion expected vs $23.84 billion expected.
+For the three months ended Sept. 30, Boeing reported a net loss of $116 million, or 26 cents a share, compared with a $5.34 billion loss, or $7.14 per share, a year earlier. Adjusting for one-time items, the company reported a loss of 34 cents a share. A year earlier, Boeing had taken a nearly $5 billion charge on its long-delayed 777X aircraft program.
+Revenue climbed 4% on the year to $24.19 billion. Free cash flow rose to $464 million from $238 million in the third quarter of 2025.
+The company's defense unit revenue rose 15% in the third quarter from a year earlier to $7.94 billion.
+Boeing delivered 161 commercial airplanes in the third quarter, one more jet than a year earlier.
+Revenue in the all-important commercial aircraft business fell 3% to $10.72 billion. The unit had a negative operating margin of 6.5% because of a "less favorable delivery mix, higher projected costs associated with future production rate adjustments and higher estimated supply chain costs," Boeing said.
+The plane manufacturer's executives are set to update investors on how quickly it can increase aircraft production in the coming months when it holds a quarterly earnings call on Tuesday at 10:30 a.m. ET.
+Boeing has been producing about 47 of its 737 Max planes a month, but is aiming for more. CEO Kelly Ortberg told investors last month that production is taking "a little bit longer" than expected to stabilize, and the company expects to increase its output of the planes next year.
+"Looking ahead, expectations are rising, and they should," Ortberg said in a note to staff on Tuesday. "That means elevating our performance through lean, productivity and efficiency improvements in our day-to-day work while upholding our high levels of safety and quality."
+Aircraft production and deliveries are key to Boeing's recovery since the bulk of an aircraft's price is paid when the customer receives it.
+But the manufacturer had some wins lately. The U.S. Navy tapped Boeing to develop its next-generation fighter jet.
+And the Federal Aviation Administration last week signed off on the 737 Max 10, the largest in the Max family. That followed the approval of the 737 Max 7 in August and marked the final certifications for the aircraft line.`,
+    bodyJa: `Boeing narrowed its loss in the third quarter after defense sales rose, but CEO Kelly Ortberg told staff that the manufacturer has "more work to do."
+Here's what Boeing reported for the third quarter compared with what Wall Street analysts are expected, according to consensus estimates from LSEG:
+- Loss per share: 34 cents adjusted vs. a loss of 21 cents expected
+- Revenue: $24.19 billion expected vs $23.84 billion expected.
+For the three months ended Sept. 30, Boeing reported a net loss of $116 million, or 26 cents a share, compared with a $5.34 billion loss, or $7.14 per share, a year earlier. Adjusting for one-time items, the company reported a loss of 34 cents a share. A year earlier, Boeing had taken a nearly $5 billion charge on its long-delayed 777X aircraft program.
+Revenue climbed 4% on the year to $24.19 billion. Free cash flow rose to $464 million from $238 million in the third quarter of 2025.
+The company's defense unit revenue rose 15% in the third quarter from a year earlier to $7.94 billion.
+Boeing delivered 161 commercial airplanes in the third quarter, one more jet than a year earlier.
+Revenue in the all-important commercial aircraft business fell 3% to $10.72 billion. The unit had a negative operating margin of 6.5% because of a "less favorable delivery mix, higher projected costs associated with future production rate adjustments and higher estimated supply chain costs," Boeing said.
+The plane manufacturer's executives are set to update investors on how quickly it can increase aircraft production in the coming months when it holds a quarterly earnings call on Tuesday at 10:30 a.m. ET.
+Boeing has been producing about 47 of its 737 Max planes a month, but is aiming for more. CEO Kelly Ortberg told investors last month that production is taking "a little bit longer" than expected to stabilize, and the company expects to increase its output of the planes next year.
+"Looking ahead, expectations are rising, and they should," Ortberg said in a note to staff on Tuesday. "That means elevating our performance through lean, productivity and efficiency improvements in our day-to-day work while upholding our high levels of safety and quality."
+Aircraft production and deliveries are key to Boeing's recovery since the bulk of an aircraft's price is paid when the customer receives it.
+But the manufacturer had some wins lately. The U.S. Navy tapped Boeing to develop its next-generation fighter jet.
+And the Federal Aviation Administration last week signed off on the 737 Max 10, the largest in the Max family. That followed the approval of the 737 Max 7 in August and marked the final certifications for the aircraft line.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
+    publishedAt: "2026-10-27T11:44:43+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "coca-cola-hikes-earnings-outlook-even-as-3f8487df",
+    title: "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
+    titleJa: "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
+    summaryJa: "Coca-Cola stock has climbed about 32% so far this year, raising the beverage company's market cap to roughly $398 billion.",
+    bodyOriginal: `Coca-Cola on Tuesday raised its full-year outlook for the third straight quarter, despite lackluster demand in its home market.
+For the full year, Coke now expects comparable earnings per share to grow at least 11%, up from its prior forecast of an increase in the range of 9% to 10%. The beverage giant also anticipates that its organic revenue will climb at least 5%, a slight increase from its previous outlook of approximately 5% growth.
+Shares of the company rose about 1% in premarket trading.
+Here's what the company reported compared with what Wall Street analysts surveyed by LSEG were expecting:
+- Earnings per share: 91 cents adjusted vs. 88 cents expected
+- Revenue: $13.4 billion vs. $12.92 billion expected
+Coke reported third-quarter net income attributable to shareholders of $4.01 billion, or 93 cents per share, up from $3.7 billion, or 86 cents per share, a year earlier.
+Excluding transaction gains and other items, Coke earned 91 cents per share.
+Net sales rose 7% to $13.4 billion. Coke's organic revenue, which strips out acquisitions, divestitures and foreign currency, also rose 7% in the quarter.
+The company's unit case volume increased 5%, helped by higher demand outside of North America. Coke's home market reported flat volume.
+In recent quarters, Coke executives have said North American shoppers are under pressure, stretched thin by inflation and economic uncertainty. But the beverage giant has also said consumers are still buying its drinks, from premium brands like Fairlife to its namesake soda.
+Globally, Coke's sparkling soft drinks business saw volume increase 5% during the quarter, lifted by growth of Coke, Coke Zero Sugar and Diet Coke.
+Coke's water, sports, coffee and tea division also saw volume climb by 5%. Increased demand for its water, which includes its premium Smartwater brand, fueled the growth. Demand for its tea and coffee was flat, while sports drinks declined.
+The company's juice, value-added dairy and plant-based beverages business reported flat volume, despite growth in brands like Fairlife and Minute Maid.`,
+    bodyJa: `Coca-Cola on Tuesday raised its full-year outlook for the third straight quarter, despite lackluster demand in its home market.
+For the full year, Coke now expects comparable earnings per share to grow at least 11%, up from its prior forecast of an increase in the range of 9% to 10%. The beverage giant also anticipates that its organic revenue will climb at least 5%, a slight increase from its previous outlook of approximately 5% growth.
+Shares of the company rose about 1% in premarket trading.
+Here's what the company reported compared with what Wall Street analysts surveyed by LSEG were expecting:
+- Earnings per share: 91 cents adjusted vs. 88 cents expected
+- Revenue: $13.4 billion vs. $12.92 billion expected
+Coke reported third-quarter net income attributable to shareholders of $4.01 billion, or 93 cents per share, up from $3.7 billion, or 86 cents per share, a year earlier.
+Excluding transaction gains and other items, Coke earned 91 cents per share.
+Net sales rose 7% to $13.4 billion. Coke's organic revenue, which strips out acquisitions, divestitures and foreign currency, also rose 7% in the quarter.
+The company's unit case volume increased 5%, helped by higher demand outside of North America. Coke's home market reported flat volume.
+In recent quarters, Coke executives have said North American shoppers are under pressure, stretched thin by inflation and economic uncertainty. But the beverage giant has also said consumers are still buying its drinks, from premium brands like Fairlife to its namesake soda.
+Globally, Coke's sparkling soft drinks business saw volume increase 5% during the quarter, lifted by growth of Coke, Coke Zero Sugar and Diet Coke.
+Coke's water, sports, coffee and tea division also saw volume climb by 5%. Increased demand for its water, which includes its premium Smartwater brand, fueled the growth. Demand for its tea and coffee was flat, while sports drinks declined.
+The company's juice, value-added dairy and plant-based beverages business reported flat volume, despite growth in brands like Fairlife and Minute Maid.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
+    publishedAt: "2026-10-27T11:20:18+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "fed-expected-to-hold-rates-steady-but-wa-0fe99684",
+    title: "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+    titleJa: "Fed expected to hold rates steady, but Warsh may point way to more hikes",
+    summaryJa: "Markets overwhelmingly expect no change in benchmark interest rates following September's  increase.",
+    bodyOriginal: `Federal Reserve officials enter this week's policy meeting amid a critical debate over what the centraL bank can, should and will do to address an inflation problem that shows no immediate sign of going away.
+When the rate-setting Federal Open Market Committee does release its decision Wednesday, markets overwhelmingly expect no change in benchmark interest rates following September's quarter percentage point rate increase.
+Investors will be looking closely, though, for clues about future moves from policymakers, and Chairman Kevin Warsh in particular.
+Brett Ryan, senior U.S. economist at Deutsche Bank, said he'll be watching what Warsh will signal about future policy moves — something the Fed chairman has said he is highly reluctant to do as he seeks to move the Fed away from the "forward guidance" practice of most of the 21st century.
+The chairman "is likely to signal that recent inflation data reinforce expectations from the September meeting that further tightening will likely be needed over time," Ryan wrote in a note to clients. "However, skipping October allows officials more time to assess trends in the data."
+Inflation heats up
+Recent inflation data has offered little respite from the price pressures that intensified earlier this year.
+The consumer price index, a widely cited inflation barometer, showed the annual rate at 3.7% in September, driven largely by soaring energy prices. Even stripping out volatile gas and groceries costs, core CPI pointed to a 2.6% rate — still well above the Fed's 2% mandate and heading in the wrong direction after climbing 0.3 percentage points from August.
+At the same time, recent economic data has shown the housing market struggling further under the pressure of mortgage rates above 7%. The labor market, meanwhile, has settled into a low-fire low-hire pattern where layoffs are around their lowest levels since the late 1960s while people out of work struggle to find jobs.
+Calibrating policy under current conditions is complicated by Warsh's push for a more mercurial Fed that avoids signaling where policy is heading, preferring for markets to take their own signals from incoming data.
+A pause this month could give the Fed more time to assess what impact the prior rate hike had on the economy and financial conditions. However, signaling tighter policy could put more strain on the housing and labor markets. Warsh and his colleagues must show they are prepared to contain inflation while avoiding a premature commitment to how far or how fast rates will rise.
+Essentially, the Fed can use its interest rate to influence inflation. It almost certainly will hold off doing so as it evaluates current conditions. Markets and economists, though, are at odds over what it should do.
+'Material execution risk'
+The chance of a mistake under those circumstances is significant, according to Krishna Guha, head of economics and central bank strategy at Evercore ISI.
+"It ought to be possible for Warsh – who is alert to market risks even though he professes not to like mollycoddling investors – to show a calming steady hand," Guha said Monday in a note. "But there is material execution risk."
+For instance, the Fed's lack of detail on how it sees the risks to its dual mandate of low inflation and full employment as well as how it views both the pace and tightening of monetary policy poses substantial challenges.
+While inflation data has been hot, the unemployment rate has been fairly steady.
+The Fed also weighs financial conditions when figuring policy. The Chicago Fed's index of financial conditions has shown a slight tightening since the September hike, a product of stock market volatility, among other factors.
+Recent chatter out of key Fed officials, such as Vice Chair Philip Jefferson and New York Fed President John Williams, points to the likelihood of hikes at every other meeting. But how far the Fed will need to go remains a mystery.
+Guha interprets remarks Warsh gave to the World Bank and International Monetary Foundation in Bangkok recently as aligning "with the central view" on the FOMC. In practice, that's a Fed moving "at a deliberative and methodical baseline pace of once per quarter without prejudice to what it learns along the way and how far it might ultimately have to go and whether at some point later down the line it might need to speed up."
+"If inflation continues to disappoint and/or growth momentum fails to moderate, the Fed will add more hikes," he added.
+Uncertainty ahead
+Trading in the fed funds futures market points to about a 10% chance that the FOMC will raise rates this week, but a better than 80% probability of an increase in December, according to the CME Group's FedWatch tool. The market sees the likelihood of another hike in March 2027, then about a 50-50 chance of a final move before the end of next year.
+To be sure, there's considerable debate among economists on whether the Fed should be tightening policy at all. Citigroup economists, for instance, think easing inflation data in the months ahead will give the Fed reason to stay on hold and perhaps begin cutting next year, though the firm is forecasting a hike this December.
+Mohamed El-Erian, chief economic advisor at Allianz, said he expects further increases but believes that's a mistake as they will hurt vulnerable areas such as housing and worsen economic disparities.
+"My sense is that the market is right in saying that they'll do nothing. [Warsh] will have to package it in quite a hawkish language because the [inflation] data all [have] come hotter than expected," El-Erian said Monday on CNBC's "Squawk Box." "My problem is that it's the wrong policy measure right now."
+The solution to worries about inflation and higher Treasury yields should be "fiscal containment, not monetary tightening," he added.
+"But we're going to get monetary tightening, and it's going to be what I call the one minus 'X' problem. 'X' is tech; it won't be impacted that much," El-Erian said. "It's going to be the rest of the economy: housing, consumer car loans, consumer loans. That's what's going to be hit."`,
+    bodyJa: `Federal Reserve officials enter this week's policy meeting amid a critical debate over what the centraL bank can, should and will do to address an inflation problem that shows no immediate sign of going away.
+When the rate-setting Federal Open Market Committee does release its decision Wednesday, markets overwhelmingly expect no change in benchmark interest rates following September's quarter percentage point rate increase.
+Investors will be looking closely, though, for clues about future moves from policymakers, and Chairman Kevin Warsh in particular.
+Brett Ryan, senior U.S. economist at Deutsche Bank, said he'll be watching what Warsh will signal about future policy moves — something the Fed chairman has said he is highly reluctant to do as he seeks to move the Fed away from the "forward guidance" practice of most of the 21st century.
+The chairman "is likely to signal that recent inflation data reinforce expectations from the September meeting that further tightening will likely be needed over time," Ryan wrote in a note to clients. "However, skipping October allows officials more time to assess trends in the data."
+Inflation heats up
+Recent inflation data has offered little respite from the price pressures that intensified earlier this year.
+The consumer price index, a widely cited inflation barometer, showed the annual rate at 3.7% in September, driven largely by soaring energy prices. Even stripping out volatile gas and groceries costs, core CPI pointed to a 2.6% rate — still well above the Fed's 2% mandate and heading in the wrong direction after climbing 0.3 percentage points from August.
+At the same time, recent economic data has shown the housing market struggling further under the pressure of mortgage rates above 7%. The labor market, meanwhile, has settled into a low-fire low-hire pattern where layoffs are around their lowest levels since the late 1960s while people out of work struggle to find jobs.
+Calibrating policy under current conditions is complicated by Warsh's push for a more mercurial Fed that avoids signaling where policy is heading, preferring for markets to take their own signals from incoming data.
+A pause this month could give the Fed more time to assess what impact the prior rate hike had on the economy and financial conditions. However, signaling tighter policy could put more strain on the housing and labor markets. Warsh and his colleagues must show they are prepared to contain inflation while avoiding a premature commitment to how far or how fast rates will rise.
+Essentially, the Fed can use its interest rate to influence inflation. It almost certainly will hold off doing so as it evaluates current conditions. Markets and economists, though, are at odds over what it should do.
+'Material execution risk'
+The chance of a mistake under those circumstances is significant, according to Krishna Guha, head of economics and central bank strategy at Evercore ISI.
+"It ought to be possible for Warsh – who is alert to market risks even though he professes not to like mollycoddling investors – to show a calming steady hand," Guha said Monday in a note. "But there is material execution risk."
+For instance, the Fed's lack of detail on how it sees the risks to its dual mandate of low inflation and full employment as well as how it views both the pace and tightening of monetary policy poses substantial challenges.
+While inflation data has been hot, the unemployment rate has been fairly steady.
+The Fed also weighs financial conditions when figuring policy. The Chicago Fed's index of financial conditions has shown a slight tightening since the September hike, a product of stock market volatility, among other factors.
+Recent chatter out of key Fed officials, such as Vice Chair Philip Jefferson and New York Fed President John Williams, points to the likelihood of hikes at every other meeting. But how far the Fed will need to go remains a mystery.
+Guha interprets remarks Warsh gave to the World Bank and International Monetary Foundation in Bangkok recently as aligning "with the central view" on the FOMC. In practice, that's a Fed moving "at a deliberative and methodical baseline pace of once per quarter without prejudice to what it learns along the way and how far it might ultimately have to go and whether at some point later down the line it might need to speed up."
+"If inflation continues to disappoint and/or growth momentum fails to moderate, the Fed will add more hikes," he added.
+Uncertainty ahead
+Trading in the fed funds futures market points to about a 10% chance that the FOMC will raise rates this week, but a better than 80% probability of an increase in December, according to the CME Group's FedWatch tool. The market sees the likelihood of another hike in March 2027, then about a 50-50 chance of a final move before the end of next year.
+To be sure, there's considerable debate among economists on whether the Fed should be tightening policy at all. Citigroup economists, for instance, think easing inflation data in the months ahead will give the Fed reason to stay on hold and perhaps begin cutting next year, though the firm is forecasting a hike this December.
+Mohamed El-Erian, chief economic advisor at Allianz, said he expects further increases but believes that's a mistake as they will hurt vulnerable areas such as housing and worsen economic disparities.
+"My sense is that the market is right in saying that they'll do nothing. [Warsh] will have to package it in quite a hawkish language because the [inflation] data all [have] come hotter than expected," El-Erian said Monday on CNBC's "Squawk Box." "My problem is that it's the wrong policy measure right now."
+The solution to worries about inflation and higher Treasury yields should be "fiscal containment, not monetary tightening," he added.
+"But we're going to get monetary tightening, and it's going to be what I call the one minus 'X' problem. 'X' is tech; it won't be impacted that much," El-Erian said. "It's going to be the rest of the economy: housing, consumer car loans, consumer loans. That's what's going to be hit."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
+    publishedAt: "2026-10-27T11:06:22+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "anthropic-s-ipo-is-risky-business-4d33ff38",
+    title: "Anthropic's IPO is risky business",
+    titleJa: "Anthropic's IPO is risky business",
+    summaryJa: "Anthropic's much-anticipated IPO is giving potential investors some perspective on the risky business of artificial intelligence.",
+    bodyOriginal: `Anthropic's much-anticipated initial public offering is giving potential investors some perspective on the risky business of artificial intelligence.
+More than 90 pages of Anthropic's IPO prospectus, revealed Monday, center on the AI lab's multitude of corporate risk factors, many of which go beyond the kinds of boilerplate scenarios typically found in corporate filings.
+From the end of humanity to the company's current clash with the Trump administration, Anthropic's IPO document underscores how one of the most well-capitalized startups in history foresees the future of its operations.
+Anthropic's IPO gets existential
+The Claude maker's risks include a laundry list of ways its models can cause harm, including potentially "catastrophic or existential risks to humanity."
+It's imperative for Anthropic to emphasize AI safety because failure to do so could adversely affect its "brand, business, financial condition, and results of operations," the filing said. But fierce competition, market pressure and stakeholder expectations make the task of safely developing and implementing bleeding-edge foundation models particularly challenging.
+Anthropic can't guarantee that its AI safety efforts will be adequate, as the technology's inherent complexity makes it difficult for the company to plan for and predict every potential scenario.
+Feeling the data center heat
+The public's souring position on data centers poses a major risk for Anthropic, which relies on an ever-expanding portfolio of state-of-the-art computing facilities to train and maintain its prized foundation models.
+And with the midterm elections approaching, the tech industry's massive data center buildout has turned political, with lawmakers in 16 states considering moratoriums, according to the National Conference of State Legislatures.
+"Opposition to data center development has also become more organized and coordinated across jurisdictions and our public profile may draw particular attention to projects associated with us," the filing said.
+Power problems
+Anthropic's future success depends not only on building giant data centers, but also on the electrical and related power infrastructure needed to juice those computing facilities.
+The lack of "sufficient electrical power" across the nation and world poses big risks to Anthropic and its rivals, the filing notes. Even if energy becomes more readily available through "on-site natural gas-fired generation," that power could become more expensive with so much demand, the filing said.
+The kids are not alright
+Rivals like OpenAI and Meta have come under fire from lawmakers and plaintiffs' attorneys over allegations that the design and implementation of their AI models and apps have fostered certain child-safety-related harms. Meta recently agreed to pay roughly $17 billion in a settlement with multiple state AGs in litigation involving child mental health and technology addiction.
+Thus far, Anthropic has largely avoided scrutiny, but the filing noted that the company could potentially face its own legal headaches. Based on its terms of service, minors aren't allowed to access Claude and related products.
+Anthropic knows it has work to do protecting children "as adoption of our models grows, including by minors and other vulnerable users, notwithstanding our efforts to restrict such access."
+No slowpokes
+The company calling to pace the frontier also says it's a risk to move too slowly.
+Anthropic needs to keep racing and needs the rest of the business world to keep up. If companies curb their AI spending, Anthropic could feel the burn.
+"If the market for our models, platform, and applications develops more slowly than we expect or declines, our growth may slow or stall, and our business, financial condition, and results of operations could be adversely affected," the filing says.
+The prospectus also cites reduced demand for frontier models as a risk. Customers might find that lower-cost models work fine for them and that "incremental performance gains at the frontier do not justify the additional cost," instead choosing cheaper, or open-source alternatives.
+WATCH: Anthropic IPO filing shows what's happening on demand side of AI trade.`,
+    bodyJa: `Anthropic's much-anticipated initial public offering is giving potential investors some perspective on the risky business of artificial intelligence.
+More than 90 pages of Anthropic's IPO prospectus, revealed Monday, center on the AI lab's multitude of corporate risk factors, many of which go beyond the kinds of boilerplate scenarios typically found in corporate filings.
+From the end of humanity to the company's current clash with the Trump administration, Anthropic's IPO document underscores how one of the most well-capitalized startups in history foresees the future of its operations.
+Anthropic's IPO gets existential
+The Claude maker's risks include a laundry list of ways its models can cause harm, including potentially "catastrophic or existential risks to humanity."
+It's imperative for Anthropic to emphasize AI safety because failure to do so could adversely affect its "brand, business, financial condition, and results of operations," the filing said. But fierce competition, market pressure and stakeholder expectations make the task of safely developing and implementing bleeding-edge foundation models particularly challenging.
+Anthropic can't guarantee that its AI safety efforts will be adequate, as the technology's inherent complexity makes it difficult for the company to plan for and predict every potential scenario.
+Feeling the data center heat
+The public's souring position on data centers poses a major risk for Anthropic, which relies on an ever-expanding portfolio of state-of-the-art computing facilities to train and maintain its prized foundation models.
+And with the midterm elections approaching, the tech industry's massive data center buildout has turned political, with lawmakers in 16 states considering moratoriums, according to the National Conference of State Legislatures.
+"Opposition to data center development has also become more organized and coordinated across jurisdictions and our public profile may draw particular attention to projects associated with us," the filing said.
+Power problems
+Anthropic's future success depends not only on building giant data centers, but also on the electrical and related power infrastructure needed to juice those computing facilities.
+The lack of "sufficient electrical power" across the nation and world poses big risks to Anthropic and its rivals, the filing notes. Even if energy becomes more readily available through "on-site natural gas-fired generation," that power could become more expensive with so much demand, the filing said.
+The kids are not alright
+Rivals like OpenAI and Meta have come under fire from lawmakers and plaintiffs' attorneys over allegations that the design and implementation of their AI models and apps have fostered certain child-safety-related harms. Meta recently agreed to pay roughly $17 billion in a settlement with multiple state AGs in litigation involving child mental health and technology addiction.
+Thus far, Anthropic has largely avoided scrutiny, but the filing noted that the company could potentially face its own legal headaches. Based on its terms of service, minors aren't allowed to access Claude and related products.
+Anthropic knows it has work to do protecting children "as adoption of our models grows, including by minors and other vulnerable users, notwithstanding our efforts to restrict such access."
+No slowpokes
+The company calling to pace the frontier also says it's a risk to move too slowly.
+Anthropic needs to keep racing and needs the rest of the business world to keep up. If companies curb their AI spending, Anthropic could feel the burn.
+"If the market for our models, platform, and applications develops more slowly than we expect or declines, our growth may slow or stall, and our business, financial condition, and results of operations could be adversely affected," the filing says.
+The prospectus also cites reduced demand for frontier models as a risk. Customers might find that lower-cost models work fine for them and that "incremental performance gains at the frontier do not justify the additional cost," instead choosing cheaper, or open-source alternatives.
+WATCH: Anthropic IPO filing shows what's happening on demand side of AI trade.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
+    publishedAt: "2026-10-27T11:00:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "a-canary-in-the-coal-mine-measles-resurg-2a7f1f86",
+    title: "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
+    titleJa: "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
+    summaryJa: "The measles resurgence exposes the U.S.' public health weaknesses, such as declining vaccination rates and waning trust in health institutions, experts say.",
+    bodyOriginal: `For nearly two years, the U.S. has had to swallow an uncomfortable reality: A highly infectious disease it once eliminated is spreading again.
+More than 4,400 measles cases and at least three deaths have been reported nationwide this year, marking the country's worst outbreak in more than three decades. The spike followed nearly 2,300 cases in 2025. But many public health experts argue that the return of measles isn't the only concerning development — it's also what the resurgence signals about America that's causing alarm.
+Measles is often described as one of the most contagious viruses, and it is uniquely unforgiving of weaknesses in public health defenses. A safe and highly effective vaccine has existed for decades.
+But the virus's spread exposes declining vaccination rates, eroding trust in health institutions and growing challenges in persuading people to protect themselves, their children and their communities, experts said.
+Together, those vulnerabilities have made measles a revealing test of the country's public health defenses. For some experts, the resurgence of a disease the U.S. eliminated more than two decades ago is a warning sign of its ability to contain future threats, from other vaccine-preventable diseases to emerging pathogens.
+"Measles is the canary in the coal mine for so many different reasons," said Jennifer Nuzzo, an epidemiology professor and director of the Pandemic Center at Brown University School of Public Health. "It's the canary in the coal mine for other vaccine-preventable illnesses, where we could see a return of things that used to harm kids, but also for very acute, no-notice dangerous infectious disease emergencies."
+The U.S. is on track to lose its official measles elimination status during an upcoming review by the Pan American Health Organization, which will meet in Washington, D.C., in mid-November.
+"It says a lot about a country if it is unable to control measles," said Nuzzo, who is one of 10 experts CNBC spoke with about the ongoing outbreak and its implications.
+Pockets of vulnerability
+The U.S. has the tools to prevent measles from spreading. But pockets of low vaccination coverage are leaving the country vulnerable.
+The measles, mumps and rubella, or MMR, vaccine is about 97% effective against measles after two doses, while a single dose is 93% effective, according to the Centers for Disease Control and Prevention. Yet data aggregated by the CDC shows that vaccination coverage for that shot among U.S. kindergarteners fell to 92.4% in the 2025-2026 school year, which is below the 95% threshold public health officials generally recommend to prevent sustained transmission.
+That translates to 280,000 kindergarteners who did not complete their MMR vaccination series, according to the CDC. Childhood vaccination exemptions in the U.S. also reached a record high 4.2% for incoming kindergartners during the 2025-2026 school year, up from 3.6% the previous year, the agency says.
+"The bottom line is that not enough people are vaccinating their kids," said Brown's Nuzzo.
+While some cases stem from international travel, much of the recent spread has been driven by local transmission in "too many" communities where vaccination coverage falls below 95%, she added.
+Among states across the U.S. collecting MMR vaccine data, 67% of counties and jurisdictions now have immunization rates below 95%, according to a September investigation by NBC News.
+Recent U.S. outbreaks have often occurred in "closely knit communities" where people have frequent contact and low vaccination coverage, said Dr. William Moss, an epidemiology professor at Johns Hopkins Bloomberg School of Public Health.
+But declining vaccination rates do not mean most Americans have turned against immunization. Polling suggests broad support for childhood vaccines. A July KFF survey found that many Americans sit in a more uncertain middle ground about the shots, leaving room for conflicting information to influence their decisions.
+"This is not an edge-case issue," Nuzzo said, adding that the vast majority of parents still vaccinate their children.
+Even if outbreaks are concentrated in a minority of communities, it can create a "dangerous situation" far from those areas, she said. Infants too young to be vaccinated and people who cannot receive immunizations for medical reasons can be particularly vulnerable when the virus spreads into communities with high vaccination rates.
+Those risks come as the Trump administration reshapes federal vaccine policy.
+President Donald Trump signed an executive order in August suggesting that the combined MMR vaccine be split into separate shots, while repeating false claims about its safety. Health and Human Services Secretary Robert F. Kennedy Jr. has also overhauled a key federal advisory committee responsible for recommending childhood immunizations, though the changes are frozen amid ongoing litigation.
+Several experts told CNBC that such moves risk further eroding confidence in vaccines and weakening efforts to protect children.
+Public health infrastructure was also "really decimated by Covid," and the CDC in particular lost many experienced scientists and physicians "who had spent their lives working on vaccine-preventable diseases," said Scott Weaver, a virologist who is the research director of Galveston National Laboratory.
+He added that the CDC, as of September, is also no longer immediately incorporating state-reported "measles-associated" deaths into its national published tally, making it harder to track outbreaks in real time. The agency lists three measles-related deaths in 2026, but Pennsylvania has reported at least five deaths.
+"We have folks in federal health leadership right now that are throwing gasoline on the fire, and that is not helping the situation," said Jess Steier, a public health scientist and founder and CEO of Unbiased Science, an organization that aims to make complex scientific concepts understandable.
+Consequences beyond current outbreaks
+If the U.S. fails to materially improve vaccination rates, the measles resurgence could extend beyond ongoing outbreaks.
+At "current" state-level vaccination rates, measles could become endemic again in the U.S., resulting in an estimated 851,300 cases over 25 years, according to a large-scale epidemiological model published in JAMA in April 2025 by researchers at Stanford and other institutions. Under that scenario, the model predicts the measles cases could lead to 170,200 hospitalizations and 2,550 deaths over that period.
+The model, which simulated infectious disease spread in the U.S. at various childhood vaccination levels, relies on immunization data from 2004 to 2023 for that baseline scenario.
+Michael Osterholm, an epidemiologist and the director of the Center for Infectious Disease Research and Policy at the University of Minnesota, said he views the measles situation in Canada as a direct warning for the U.S.
+Canada lost its official measles elimination status in November after a multi-province outbreak that generated more than 5,400 cases across 10 jurisdictions in 2025. Canada has a population of more than 40 million people.
+"We have a population of 350 million. If you extrapolate, if we had the very same experience that Canada had over the next year or two, that would be up to 50,000 cases of measles in the U.S.," Osterholm said. "I think that's a potential future we have to be mindful of."
+Other vaccine-preventable diseases
+An even larger measles outbreak isn't the only potential problem.
+Vaccination coverage for other childhood diseases has similarly declined. The share of U.S. kindergartners vaccinated against polio fell to 92.4% in the 2025-2026 school year, while coverage for diphtheria, tetanus and acellular pertussis, or DTaP, dropped to 92%, according to CDC data.
+The U.S. has already seen a sharp rise in pertussis, or whooping cough. U.S. reported cases reached roughly 43,300 in 2024 and nearly 28,000 in 2025, up substantially from pandemic-era levels, according to the CDC. Brown's Nuzzo said the resurgence reflects, in part, fewer people getting vaccinated and the fact that protection from the pertussis vaccine wanes over time.
+The simulation model published in JAMA also examined how falling childhood immunization rates could affect the future spread of several diseases previously eliminated from the U.S. through vaccines. Under current vaccination levels, the researchers found that diseases including rubella and polio were unlikely to become endemic in the U.S.
+But in a hypothetical scenario in which childhood vaccination rates fell by 50%, the model projected 9.9 million cases of rubella, 4.3 million cases of polio and 197 cases of diphtheria over 25 years.
+Rubella can cause devastating complications when an infection during pregnancy passes to a developing fetus, while polio can cause paralysis and death, said Dr. Nathan Lo, assistant professor of infectious diseases at Stanford Medicine.
+The projections are not predictions that these outbreaks will occur, but they illustrate how much risks could grow if vaccination coverage deteriorates.
+"What vaccines often buy you is not just the protection, but also less uncertainty," said Mathew Kiang, an assistant professor of epidemiology and population health at Stanford Medicine who also worked on the simulation model. "I think even more frightening is just the really wide uncertainty that we just wouldn't be sure of what could happen."
+Preparing for the next threat
+The measles resurgence is also raising questions about how effective the U.S. can be at detecting and responding to emerging public health threats before they spread.
+"Public health is all about prevention," said Dr. Manisha Juthani, president of the Association of State and Territorial Health Officials and commissioner of the Connecticut Department of Public Health. She said the country must maintain its ability to detect threats, invest in surveillance, and recognize that infectious diseases do not respect national borders.
+Those capabilities are crucial for curbing emerging pathogens, especially when scientists initially know little about how a new disease spreads, how severe it is or how to treat it. A pathogen could spread before vaccines or treatments are available, making early detection, clear public communication and coordination especially important.
+Other experts argue that weaknesses in those capabilities could also have implications for the country's defenses against deliberate biological attacks.
+In an April 2025 op-ed, Steph Batalis, a research fellow at Georgetown University's Center for Security and Emerging Technology, argued that the measles outbreak exposed a broader vulnerability in the U.S.' biodefense strategy and, specifically, a weakened ability to deter potential biological attacks.
+She argued that the country's struggle to contain a known, vaccine-preventable disease "might only embolden those who see our public health vulnerabilities as an opportunity."
+But Osterholm, who works extensively on bioterrorism, said low MMR immunization rates and rising measles cases do not necessarily indicate that Americans would refuse a vaccine or antibiotic during a biological emergency. The shots and drugs used to counter biological threats can differ from those routinely administered to the public, he said, and the prospect of a severe outbreak could prompt urgency among the public to seek protection.
+That point highlights an important limitation: The measles resurgence by itself does not establish whether the U.S. could withstand entirely different or novel public health threats.
+But as a disease the U.S. knows how to prevent spreads, experts say the stakes of addressing those vulnerabilities extend to whatever might come next.`,
+    bodyJa: `For nearly two years, the U.S. has had to swallow an uncomfortable reality: A highly infectious disease it once eliminated is spreading again.
+More than 4,400 measles cases and at least three deaths have been reported nationwide this year, marking the country's worst outbreak in more than three decades. The spike followed nearly 2,300 cases in 2025. But many public health experts argue that the return of measles isn't the only concerning development — it's also what the resurgence signals about America that's causing alarm.
+Measles is often described as one of the most contagious viruses, and it is uniquely unforgiving of weaknesses in public health defenses. A safe and highly effective vaccine has existed for decades.
+But the virus's spread exposes declining vaccination rates, eroding trust in health institutions and growing challenges in persuading people to protect themselves, their children and their communities, experts said.
+Together, those vulnerabilities have made measles a revealing test of the country's public health defenses. For some experts, the resurgence of a disease the U.S. eliminated more than two decades ago is a warning sign of its ability to contain future threats, from other vaccine-preventable diseases to emerging pathogens.
+"Measles is the canary in the coal mine for so many different reasons," said Jennifer Nuzzo, an epidemiology professor and director of the Pandemic Center at Brown University School of Public Health. "It's the canary in the coal mine for other vaccine-preventable illnesses, where we could see a return of things that used to harm kids, but also for very acute, no-notice dangerous infectious disease emergencies."
+The U.S. is on track to lose its official measles elimination status during an upcoming review by the Pan American Health Organization, which will meet in Washington, D.C., in mid-November.
+"It says a lot about a country if it is unable to control measles," said Nuzzo, who is one of 10 experts CNBC spoke with about the ongoing outbreak and its implications.
+Pockets of vulnerability
+The U.S. has the tools to prevent measles from spreading. But pockets of low vaccination coverage are leaving the country vulnerable.
+The measles, mumps and rubella, or MMR, vaccine is about 97% effective against measles after two doses, while a single dose is 93% effective, according to the Centers for Disease Control and Prevention. Yet data aggregated by the CDC shows that vaccination coverage for that shot among U.S. kindergarteners fell to 92.4% in the 2025-2026 school year, which is below the 95% threshold public health officials generally recommend to prevent sustained transmission.
+That translates to 280,000 kindergarteners who did not complete their MMR vaccination series, according to the CDC. Childhood vaccination exemptions in the U.S. also reached a record high 4.2% for incoming kindergartners during the 2025-2026 school year, up from 3.6% the previous year, the agency says.
+"The bottom line is that not enough people are vaccinating their kids," said Brown's Nuzzo.
+While some cases stem from international travel, much of the recent spread has been driven by local transmission in "too many" communities where vaccination coverage falls below 95%, she added.
+Among states across the U.S. collecting MMR vaccine data, 67% of counties and jurisdictions now have immunization rates below 95%, according to a September investigation by NBC News.
+Recent U.S. outbreaks have often occurred in "closely knit communities" where people have frequent contact and low vaccination coverage, said Dr. William Moss, an epidemiology professor at Johns Hopkins Bloomberg School of Public Health.
+But declining vaccination rates do not mean most Americans have turned against immunization. Polling suggests broad support for childhood vaccines. A July KFF survey found that many Americans sit in a more uncertain middle ground about the shots, leaving room for conflicting information to influence their decisions.
+"This is not an edge-case issue," Nuzzo said, adding that the vast majority of parents still vaccinate their children.
+Even if outbreaks are concentrated in a minority of communities, it can create a "dangerous situation" far from those areas, she said. Infants too young to be vaccinated and people who cannot receive immunizations for medical reasons can be particularly vulnerable when the virus spreads into communities with high vaccination rates.
+Those risks come as the Trump administration reshapes federal vaccine policy.
+President Donald Trump signed an executive order in August suggesting that the combined MMR vaccine be split into separate shots, while repeating false claims about its safety. Health and Human Services Secretary Robert F. Kennedy Jr. has also overhauled a key federal advisory committee responsible for recommending childhood immunizations, though the changes are frozen amid ongoing litigation.
+Several experts told CNBC that such moves risk further eroding confidence in vaccines and weakening efforts to protect children.
+Public health infrastructure was also "really decimated by Covid," and the CDC in particular lost many experienced scientists and physicians "who had spent their lives working on vaccine-preventable diseases," said Scott Weaver, a virologist who is the research director of Galveston National Laboratory.
+He added that the CDC, as of September, is also no longer immediately incorporating state-reported "measles-associated" deaths into its national published tally, making it harder to track outbreaks in real time. The agency lists three measles-related deaths in 2026, but Pennsylvania has reported at least five deaths.
+"We have folks in federal health leadership right now that are throwing gasoline on the fire, and that is not helping the situation," said Jess Steier, a public health scientist and founder and CEO of Unbiased Science, an organization that aims to make complex scientific concepts understandable.
+Consequences beyond current outbreaks
+If the U.S. fails to materially improve vaccination rates, the measles resurgence could extend beyond ongoing outbreaks.
+At "current" state-level vaccination rates, measles could become endemic again in the U.S., resulting in an estimated 851,300 cases over 25 years, according to a large-scale epidemiological model published in JAMA in April 2025 by researchers at Stanford and other institutions. Under that scenario, the model predicts the measles cases could lead to 170,200 hospitalizations and 2,550 deaths over that period.
+The model, which simulated infectious disease spread in the U.S. at various childhood vaccination levels, relies on immunization data from 2004 to 2023 for that baseline scenario.
+Michael Osterholm, an epidemiologist and the director of the Center for Infectious Disease Research and Policy at the University of Minnesota, said he views the measles situation in Canada as a direct warning for the U.S.
+Canada lost its official measles elimination status in November after a multi-province outbreak that generated more than 5,400 cases across 10 jurisdictions in 2025. Canada has a population of more than 40 million people.
+"We have a population of 350 million. If you extrapolate, if we had the very same experience that Canada had over the next year or two, that would be up to 50,000 cases of measles in the U.S.," Osterholm said. "I think that's a potential future we have to be mindful of."
+Other vaccine-preventable diseases
+An even larger measles outbreak isn't the only potential problem.
+Vaccination coverage for other childhood diseases has similarly declined. The share of U.S. kindergartners vaccinated against polio fell to 92.4% in the 2025-2026 school year, while coverage for diphtheria, tetanus and acellular pertussis, or DTaP, dropped to 92%, according to CDC data.
+The U.S. has already seen a sharp rise in pertussis, or whooping cough. U.S. reported cases reached roughly 43,300 in 2024 and nearly 28,000 in 2025, up substantially from pandemic-era levels, according to the CDC. Brown's Nuzzo said the resurgence reflects, in part, fewer people getting vaccinated and the fact that protection from the pertussis vaccine wanes over time.
+The simulation model published in JAMA also examined how falling childhood immunization rates could affect the future spread of several diseases previously eliminated from the U.S. through vaccines. Under current vaccination levels, the researchers found that diseases including rubella and polio were unlikely to become endemic in the U.S.
+But in a hypothetical scenario in which childhood vaccination rates fell by 50%, the model projected 9.9 million cases of rubella, 4.3 million cases of polio and 197 cases of diphtheria over 25 years.
+Rubella can cause devastating complications when an infection during pregnancy passes to a developing fetus, while polio can cause paralysis and death, said Dr. Nathan Lo, assistant professor of infectious diseases at Stanford Medicine.
+The projections are not predictions that these outbreaks will occur, but they illustrate how much risks could grow if vaccination coverage deteriorates.
+"What vaccines often buy you is not just the protection, but also less uncertainty," said Mathew Kiang, an assistant professor of epidemiology and population health at Stanford Medicine who also worked on the simulation model. "I think even more frightening is just the really wide uncertainty that we just wouldn't be sure of what could happen."
+Preparing for the next threat
+The measles resurgence is also raising questions about how effective the U.S. can be at detecting and responding to emerging public health threats before they spread.
+"Public health is all about prevention," said Dr. Manisha Juthani, president of the Association of State and Territorial Health Officials and commissioner of the Connecticut Department of Public Health. She said the country must maintain its ability to detect threats, invest in surveillance, and recognize that infectious diseases do not respect national borders.
+Those capabilities are crucial for curbing emerging pathogens, especially when scientists initially know little about how a new disease spreads, how severe it is or how to treat it. A pathogen could spread before vaccines or treatments are available, making early detection, clear public communication and coordination especially important.
+Other experts argue that weaknesses in those capabilities could also have implications for the country's defenses against deliberate biological attacks.
+In an April 2025 op-ed, Steph Batalis, a research fellow at Georgetown University's Center for Security and Emerging Technology, argued that the measles outbreak exposed a broader vulnerability in the U.S.' biodefense strategy and, specifically, a weakened ability to deter potential biological attacks.
+She argued that the country's struggle to contain a known, vaccine-preventable disease "might only embolden those who see our public health vulnerabilities as an opportunity."
+But Osterholm, who works extensively on bioterrorism, said low MMR immunization rates and rising measles cases do not necessarily indicate that Americans would refuse a vaccine or antibiotic during a biological emergency. The shots and drugs used to counter biological threats can differ from those routinely administered to the public, he said, and the prospect of a severe outbreak could prompt urgency among the public to seek protection.
+That point highlights an important limitation: The measles resurgence by itself does not establish whether the U.S. could withstand entirely different or novel public health threats.
+But as a disease the U.S. knows how to prevent spreads, experts say the stakes of addressing those vulnerabilities extend to whatever might come next.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/27/us-measles-public-health.html",
+    publishedAt: "2026-10-27T11:00:01+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "mbapp-dropped-by-major-chinese-brands-as-e65ddd22",
+    title: "Mbappé dropped by major Chinese brands as backlash grows over Mao joke",
+    titleJa: "Mbappé dropped by major Chinese brands as backlash grows over Mao joke",
+    summaryJa: "He allegedly said the funniest \"meme\" about him is the one where they put his face on \"a Chinese dictator\".",
+    bodyOriginal: `Mbappé dropped by major Chinese brands as backlash grows over Mao joke
+- Published
+Several Chinese brands have dropped French footballer Kylian Mbappé following a backlash over alleged comments referring to the late Chinese leader Mao Zedong.
+Mbappé reportedly told a French talk show The Bridge the meme "that makes me laugh the most, it's the one where there's a video of a guy, I think it's a Chinese dictator...they put my....", he laughs, as they cut to a meme of his face superimposed on an image resembling Mao.
+The meme is part of a running joke about the Real Madrid forward's nickname - "the dictator" - because of his huge influence in football. It has led to many such memes involving Mbappé.
+But the joke did not go down well in China, where Mao is revered by the Communist Party, despite his chaotic and often violent rule that left millions dead.
+There have been a few people who have come out in support of Mbappé on Chinese social media. But theirs is a rare response given China's tightly controlled internet, where people are expected to toe the party and government line on sensitive topics.
+And few topics are as sensitive as Mao, which may explain why brands have been so quick to terminate partnerships with a global sports star like Mbappé.
+The BBC has reached out to Mbappe and Real Madrid for comment. The Bridge is hosted by Mbappé's Real Madrid teammate Aurélien Tchouaméni.
+The original video is not available on the show's YouTube channel, and it's unclear when the interview first aired. In the unverified clips that have been circulating online, Mbappé does not identify Mao by name. He says he "uses [the meme] with friends all the time".
+The furore appeared to kick off on Monday night after Chinese football forum Dongqiudi drew attention to the comments in a statement, saying they were "inappropriate" and "hurt the feelings of Chinese people".
+Screengrabs of the clip and meme have since spread quickly on Chinese social media, with people echoing this sentiment and even calling for a boycott of both the French striker and his club, Real Madrid.
+But some have blurred the meme itself as well as the part of the comment they found offensive, when Mbappe refers to "a Chinese dictator".
+Dongqiudi said in its statement that it was "unable to translate" his comments because they were "offensive to China and the Chinese people".
+So, many people are also wondering what exactly Mbappe said and have responded to the angry posts and comments with questions, wanting to know more.
+What is the reaction in China?
+Chinese fans are criticising Mbappé – who is popular in China and has huge brand endorsements – of "profiting from the Chinese market yet making remarks that offend the Chinese public".
+"International public figures, in particular, should show greater respect and sensitivity, as national sentiment must never be taken lightly," reads another comment on Weibo.
+As the anger online grew louder, Chinese brands began to cut ties, although they did not explicitly refer to the video.
+The country's largest dairy producer, Mengniu, said it "firmly opposes and has a zero-tolerance policy towards any words or actions that hurt the feelings of the Chinese people".
+Drinks giant Dongpeng issued a similar statement: "Our company firmly opposes and has a zero-tolerance policy towards any behaviour that offends national sentiments."
+According to state-owned newspaper The Global Times, state broadcaster CCTV's news apps will not feature content related to the French striker. CCTV will also stop showing La Liga matches, Chinese media reported on Tuesday. Real Madrid is one of 20 clubs that play in the Spanish football league and is the most decorated team with 36 league titles.
+China's foreign ministry has also weighed in, with spokesperson Lin Jian saying: "We have noted the relevant reports. Words and deeds that hurt the feelings of the Chinese people will naturally be met with opposition from all sectors of Chinese society."
+China is a major market for international sports stars and homegrown brands have signed multimillion-dollar endorsement contracts with Mbappé, Norwegian striker Erling Haaland, and NBA player Stephen Curry.
+By 14:00 local time on Tuesday, five of the top 10 trending topics on Weibo centered on Mbappé, with the hashtag "multiple brands terminate partnerships with Mbappé" topping the list.
+"Don't ever come to China," read one of the top comments on Weibo.
+Why is Mao a sensitive topic?
+Mao founded the People's Republic of China in 1949 and ruled through tumultuous decades in the 1960s and 1970s.
+His attempt at rapid industrialisation, which he called the Great Leap Forward, led to a famine that killed tens of millions. Then came the Cultural Revolution: a violent purge of anyone seen as a threat to Communism, which included Chinese intellectuals, landowners, artists and often rivals within the Party.
+His death in 1976 brought a new era for China, which began to open its doors to the global economy. Even as the country moved away from Mao's rule, he continued to be hailed by the party as a national icon whose legacy was beyond reproach.
+So jokes or memes about Mao are seen not just as an insult to the party but also its closely-guarded narrative about the country's past.
+It's unclear when the Mbappé meme involving Mao began but his nickname, "the dictator", has made the striker the subject of many memes and jokes online.
+In 2024, he sued a French influencer and kebab shop owner for using his name in the description of one of the shop's sandwiches, leading to more jokes about the nickname.
+France teammate Ousmane Dembele jumped on the trend during the 2026 World Cup, calling Mbappé Mobut – a reference to Mobutu Sese Seko, the dictator who ruled the Democratic Republic of Congo, formerly Zaire, for three decades.
+In an interview with France Football in September, Mbappé acknowledged the light-heartedness behind many of these memes, but said they "sometimes reveal a lack of political and human awareness among people".
+"There's a side that's a bit less funny, because we know the damage people like that have caused throughout history," he said.
+"Being compared to people who murder others, or who have made millions upon millions of people miserable... I don't think I've done that in my life."
+Additional reporting by Fan Wang and Osmond Chia`,
+    bodyJa: `Mbappé dropped by major Chinese brands as backlash grows over Mao joke
+- Published
+Several Chinese brands have dropped French footballer Kylian Mbappé following a backlash over alleged comments referring to the late Chinese leader Mao Zedong.
+Mbappé reportedly told a French talk show The Bridge the meme "that makes me laugh the most, it's the one where there's a video of a guy, I think it's a Chinese dictator...they put my....", he laughs, as they cut to a meme of his face superimposed on an image resembling Mao.
+The meme is part of a running joke about the Real Madrid forward's nickname - "the dictator" - because of his huge influence in football. It has led to many such memes involving Mbappé.
+But the joke did not go down well in China, where Mao is revered by the Communist Party, despite his chaotic and often violent rule that left millions dead.
+There have been a few people who have come out in support of Mbappé on Chinese social media. But theirs is a rare response given China's tightly controlled internet, where people are expected to toe the party and government line on sensitive topics.
+And few topics are as sensitive as Mao, which may explain why brands have been so quick to terminate partnerships with a global sports star like Mbappé.
+The BBC has reached out to Mbappe and Real Madrid for comment. The Bridge is hosted by Mbappé's Real Madrid teammate Aurélien Tchouaméni.
+The original video is not available on the show's YouTube channel, and it's unclear when the interview first aired. In the unverified clips that have been circulating online, Mbappé does not identify Mao by name. He says he "uses [the meme] with friends all the time".
+The furore appeared to kick off on Monday night after Chinese football forum Dongqiudi drew attention to the comments in a statement, saying they were "inappropriate" and "hurt the feelings of Chinese people".
+Screengrabs of the clip and meme have since spread quickly on Chinese social media, with people echoing this sentiment and even calling for a boycott of both the French striker and his club, Real Madrid.
+But some have blurred the meme itself as well as the part of the comment they found offensive, when Mbappe refers to "a Chinese dictator".
+Dongqiudi said in its statement that it was "unable to translate" his comments because they were "offensive to China and the Chinese people".
+So, many people are also wondering what exactly Mbappe said and have responded to the angry posts and comments with questions, wanting to know more.
+What is the reaction in China?
+Chinese fans are criticising Mbappé – who is popular in China and has huge brand endorsements – of "profiting from the Chinese market yet making remarks that offend the Chinese public".
+"International public figures, in particular, should show greater respect and sensitivity, as national sentiment must never be taken lightly," reads another comment on Weibo.
+As the anger online grew louder, Chinese brands began to cut ties, although they did not explicitly refer to the video.
+The country's largest dairy producer, Mengniu, said it "firmly opposes and has a zero-tolerance policy towards any words or actions that hurt the feelings of the Chinese people".
+Drinks giant Dongpeng issued a similar statement: "Our company firmly opposes and has a zero-tolerance policy towards any behaviour that offends national sentiments."
+According to state-owned newspaper The Global Times, state broadcaster CCTV's news apps will not feature content related to the French striker. CCTV will also stop showing La Liga matches, Chinese media reported on Tuesday. Real Madrid is one of 20 clubs that play in the Spanish football league and is the most decorated team with 36 league titles.
+China's foreign ministry has also weighed in, with spokesperson Lin Jian saying: "We have noted the relevant reports. Words and deeds that hurt the feelings of the Chinese people will naturally be met with opposition from all sectors of Chinese society."
+China is a major market for international sports stars and homegrown brands have signed multimillion-dollar endorsement contracts with Mbappé, Norwegian striker Erling Haaland, and NBA player Stephen Curry.
+By 14:00 local time on Tuesday, five of the top 10 trending topics on Weibo centered on Mbappé, with the hashtag "multiple brands terminate partnerships with Mbappé" topping the list.
+"Don't ever come to China," read one of the top comments on Weibo.
+Why is Mao a sensitive topic?
+Mao founded the People's Republic of China in 1949 and ruled through tumultuous decades in the 1960s and 1970s.
+His attempt at rapid industrialisation, which he called the Great Leap Forward, led to a famine that killed tens of millions. Then came the Cultural Revolution: a violent purge of anyone seen as a threat to Communism, which included Chinese intellectuals, landowners, artists and often rivals within the Party.
+His death in 1976 brought a new era for China, which began to open its doors to the global economy. Even as the country moved away from Mao's rule, he continued to be hailed by the party as a national icon whose legacy was beyond reproach.
+So jokes or memes about Mao are seen not just as an insult to the party but also its closely-guarded narrative about the country's past.
+It's unclear when the Mbappé meme involving Mao began but his nickname, "the dictator", has made the striker the subject of many memes and jokes online.
+In 2024, he sued a French influencer and kebab shop owner for using his name in the description of one of the shop's sandwiches, leading to more jokes about the nickname.
+France teammate Ousmane Dembele jumped on the trend during the 2026 World Cup, calling Mbappé Mobut – a reference to Mobutu Sese Seko, the dictator who ruled the Democratic Republic of Congo, formerly Zaire, for three decades.
+In an interview with France Football in September, Mbappé acknowledged the light-heartedness behind many of these memes, but said they "sometimes reveal a lack of political and human awareness among people".
+"There's a side that's a bit less funny, because we know the damage people like that have caused throughout history," he said.
+"Being compared to people who murder others, or who have made millions upon millions of people miserable... I don't think I've done that in my life."
+Additional reporting by Fan Wang and Osmond Chia`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-27T10:19:13+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg",
+    readTime: 10,
+  },
+  {
+    id: "rise-in-sales-of-radios-and-tinned-foods-9e0a7211",
+    title: "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
+    titleJa: "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
+    summaryJa: "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
+    bodyOriginal: `Rise in sales of radios and tinned foods, say retailers, after call to stock up
+- Published
+Some retailers have seen a dramatic increase in sales of essential goods after the government called for people to stock up in case of a crisis, according to figures obtained by Newsnight.
+The Iceland supermarket chain said it was "clear" consumers had listened to warnings after it saw a 40% increase in sales of tinned products over the weekend.
+The rise in sales came after Defence Secretary Wes Streeting said that people should stockpile goods to prepare for an emergency such as a cyber attack or an extreme weather event.
+Robert Dyas reported a 160% increase in sales of radios compared with last week, while Maplin said sales had increased by 92% in radios, 284% in torches and 106% in power banks.
+The Maplin figures cover the period since the government's announcement last week compared with the same period last month.
+"Within hours of the Be Ready announcement we saw people reach for the basics - a torch, a wind-up radio, a power bank. Torch sales nearly quadrupled and radio sales almost doubled in three days," said Ollie Marshall, managing director at Maplin.
+"These are simple, affordable products that keep a household connected and informed when the power goes out, and it's encouraging to see people taking the advice seriously."
+On 22 October, Streeting said that people should ensure they have three litres of water per person per day; tinned goods in the cupboard; baby food; battery powered torches and mobile phone charging packs.
+Many of the items cited by Streeting appeared in the list of goods gathered by Newsnight whose sales have shot up.
+In response to the increase in retail sales of certain items, the defence secretary told Newsnight: "It's encouraging that people are taking practical steps to be ready. Having a few everyday essentials at home, from tinned food to torches, helps households prepare for disruption, whether that's flooding, power cuts or burst pipes. We can all play our part in making Britain more resilient."
+An Iceland spokesperson told the BBC programme: "It's clear consumers have listened to the government's message as we have seen a 40% increase in sales of tinned products over the weekend and strong sales of bottled water too. Our supplies of these products remain healthy."
+Newsnight also spoke to independent retailers who reported a spike in sales of goods highlighted by the defence secretary.
+Josh Pringle, from Sgt Prepper's online store, said his sales had increased tenfold: "We were a small outfit on Wednesday. And then the government launched the Be Ready campaign and we couldn't believe what we were seeing – order after order after order. Most of them were for a wind-up radio."
+Lincoln Miles, founder of Preppers Shop UK, told Newsnight of a 650% increase in sales after the government announcement. "Everything about off grid seems to be the key of what people are buying for the minute."
+Get our flagship newsletter with all the headlines you need to start the day. Sign up here.
+Related topics
+- Published3 days ago
+- Published3 days ago`,
+    bodyJa: `Rise in sales of radios and tinned foods, say retailers, after call to stock up
+- Published
+Some retailers have seen a dramatic increase in sales of essential goods after the government called for people to stock up in case of a crisis, according to figures obtained by Newsnight.
+The Iceland supermarket chain said it was "clear" consumers had listened to warnings after it saw a 40% increase in sales of tinned products over the weekend.
+The rise in sales came after Defence Secretary Wes Streeting said that people should stockpile goods to prepare for an emergency such as a cyber attack or an extreme weather event.
+Robert Dyas reported a 160% increase in sales of radios compared with last week, while Maplin said sales had increased by 92% in radios, 284% in torches and 106% in power banks.
+The Maplin figures cover the period since the government's announcement last week compared with the same period last month.
+"Within hours of the Be Ready announcement we saw people reach for the basics - a torch, a wind-up radio, a power bank. Torch sales nearly quadrupled and radio sales almost doubled in three days," said Ollie Marshall, managing director at Maplin.
+"These are simple, affordable products that keep a household connected and informed when the power goes out, and it's encouraging to see people taking the advice seriously."
+On 22 October, Streeting said that people should ensure they have three litres of water per person per day; tinned goods in the cupboard; baby food; battery powered torches and mobile phone charging packs.
+Many of the items cited by Streeting appeared in the list of goods gathered by Newsnight whose sales have shot up.
+In response to the increase in retail sales of certain items, the defence secretary told Newsnight: "It's encouraging that people are taking practical steps to be ready. Having a few everyday essentials at home, from tinned food to torches, helps households prepare for disruption, whether that's flooding, power cuts or burst pipes. We can all play our part in making Britain more resilient."
+An Iceland spokesperson told the BBC programme: "It's clear consumers have listened to the government's message as we have seen a 40% increase in sales of tinned products over the weekend and strong sales of bottled water too. Our supplies of these products remain healthy."
+Newsnight also spoke to independent retailers who reported a spike in sales of goods highlighted by the defence secretary.
+Josh Pringle, from Sgt Prepper's online store, said his sales had increased tenfold: "We were a small outfit on Wednesday. And then the government launched the Be Ready campaign and we couldn't believe what we were seeing – order after order after order. Most of them were for a wind-up radio."
+Lincoln Miles, founder of Preppers Shop UK, told Newsnight of a 650% increase in sales after the government announcement. "Everything about off grid seems to be the key of what people are buying for the minute."
+Get our flagship newsletter with all the headlines you need to start the day. Sign up here.
+Related topics
+- Published3 days ago
+- Published3 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-27T06:33:11+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b0/live/8d5e0a00-d1cc-11f1-837e-832a94a7445c.jpg",
+    readTime: 8,
+  },
+  {
+    id: "donald-trump-s-biggest-economic-problem-c4ce06bf",
+    title: "Donald Trump's biggest economic problem looks strangely familiar",
+    titleJa: "Donald Trump's biggest economic problem looks strangely familiar",
+    summaryJa: "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
+    bodyOriginal: `Donald Trump's biggest economic problem looks strangely familiar
+- Published
+The White House is confronting a familiar dilemma. The economic numbers aren't necessarily bad - but the public mood is.
+It's a disconnect that haunted Joe Biden in 2024, when solid headline data failed to convince many voters that the economy was working for them.
+Now, Donald Trump faces a version of the same challenge.
+During the 2024 campaign, Trump promised voters swift relief from rising prices.
+"When I win, I will immediately bring prices down," he said.
+Delivering on that promise has proved harder than expected.
+Economic growth is holding up, unemployment remains low and the stock market is near record highs.
+Yet the final inflation report ahead of the midterm elections confirms what voters already know: prices remain high.
+The causes are different. Biden was grappling with the aftermath of the Covid pandemic. Trump faces higher energy prices linked to the US-Israel conflict with Iran and the fallout from some of his own trade and immigration policies.
+The political reality, however, is much the same. Voters are not judging the economy by GDP figures or record highs on the stock market. They are judging it by what they pay at the supermarket, petrol prices and whether they can keep up with the bills.
+Numbers only tell part of the story
+US economic growth of 2.2% would be respectable by the standards of many wealthy economies. Germany, for example, has struggled to generate comparable momentum. And a stable US unemployment rate of 4.2% hardly suggests an economy in freefall.
+Trump argues that he inherited an economic mess from Biden, and points to strong growth, investment and stock market performance as evidence that his policies are working.
+Following the most recent inflation report, White House spokesman Matthew Middleton said the administration's "aggressive, pro-growth economic agenda" had blunted "Biden's inflation crisis".
+Larry Kudlow, a Trump ally and economic commentator, has described the current expansion as "the greatest story never told", external, arguing that "nobody is getting fired".
+US inflation rises more than expected - here's what is happening with prices
+- Published14 October
+But voters appear to be reading a different story - one in which Trump won the presidency promising to tackle the cost of living, only for prices to keep rising.
+Part of the problem is that wage increases have not kept pace with prices. Average hourly earnings have risen 3% over the last year, while consumer prices have increased 3.7%.
+That helps explain why polls continue to show voters giving Trump poor marks for his handling of the economy.
+Same language, different meanings
+For Democrats, the dynamic feels familiar.
+Celinda Lake, a veteran Democratic pollster, says the problem begins with the way economists and voters use the same language to mean different things.
+"When economists say inflation comes down, they mean the rate of increase has come down," she says.
+"When voters say inflation has come down, they mean the price has returned to what it was. Well, of course, it never returns to what it was."
+The Biden administration spent much of 2024 highlighting low unemployment, solid growth and falling inflation. However, many voters remained focused on the higher prices they faced every day.
+Lake, who advised Biden's 2020 campaign but was not involved in the 2024 race, says voters judge the economy through personal experience, not economic indicators.
+"You can't argue with people about their own lived reality," she says.
+That may help explain why Trump's challenge looks so similar to Biden's.
+The Trump effect
+Biden's critics blamed him for inflation. But he could point to forces largely outside his control, including the pandemic and its supply chain aftershocks.
+Trump has less room to do that.
+Some economists argue that today's higher prices are at least partly the result of his own policies, including tariffs, as well as the economic fallout from the US-Israel war with Iran.
+"The inflation is clearly traceable to Donald Trump," says Peter Morici, a University of Maryland economist who aligns with Republicans.
+"It's his tariffs and the war. People know that. They see it."
+Trump's "Liberation Day" tariffs, announced in April 2025, have added to costs for consumers.
+A study by the Federal Reserve Bank of New York found the tariffs increased consumer goods prices by about 2.9%.
+The impact might have been larger if Trump hadn't later paused some tariffs, struck new trade deals and been blocked by the Supreme Court from using emergency powers to impose many others.
+Then came another shock. Conflict with Iran pushed oil prices higher, lifting the cost of petrol and putting fresh pressure on household budgets.
+The White House points to tax cuts, job growth and lower prescription drug costs as evidence that the administration is delivering for American families. And it is increasingly embracing policies aimed at easing pressures.
+Trump has called for a cap on credit card interest rates and floated the idea of a $5,000 payment to American adults if Republicans retain control of Congress.
+The measures reflect a political reality familiar to both parties: when voters are anxious about prices, arguments about solid growth and low unemployment are rarely enough.
+Biden never found a way to bridge the gap between economic performance and economic sentiment. The question heading into the midterms is whether Trump can.
+If recent political history is any guide, perceptions of the economy may matter more than the economic data itself.
+- Published16 October
+- Published12 October
+- Published15 October`,
+    bodyJa: `Donald Trump's biggest economic problem looks strangely familiar
+- Published
+The White House is confronting a familiar dilemma. The economic numbers aren't necessarily bad - but the public mood is.
+It's a disconnect that haunted Joe Biden in 2024, when solid headline data failed to convince many voters that the economy was working for them.
+Now, Donald Trump faces a version of the same challenge.
+During the 2024 campaign, Trump promised voters swift relief from rising prices.
+"When I win, I will immediately bring prices down," he said.
+Delivering on that promise has proved harder than expected.
+Economic growth is holding up, unemployment remains low and the stock market is near record highs.
+Yet the final inflation report ahead of the midterm elections confirms what voters already know: prices remain high.
+The causes are different. Biden was grappling with the aftermath of the Covid pandemic. Trump faces higher energy prices linked to the US-Israel conflict with Iran and the fallout from some of his own trade and immigration policies.
+The political reality, however, is much the same. Voters are not judging the economy by GDP figures or record highs on the stock market. They are judging it by what they pay at the supermarket, petrol prices and whether they can keep up with the bills.
+Numbers only tell part of the story
+US economic growth of 2.2% would be respectable by the standards of many wealthy economies. Germany, for example, has struggled to generate comparable momentum. And a stable US unemployment rate of 4.2% hardly suggests an economy in freefall.
+Trump argues that he inherited an economic mess from Biden, and points to strong growth, investment and stock market performance as evidence that his policies are working.
+Following the most recent inflation report, White House spokesman Matthew Middleton said the administration's "aggressive, pro-growth economic agenda" had blunted "Biden's inflation crisis".
+Larry Kudlow, a Trump ally and economic commentator, has described the current expansion as "the greatest story never told", external, arguing that "nobody is getting fired".
+US inflation rises more than expected - here's what is happening with prices
+- Published14 October
+But voters appear to be reading a different story - one in which Trump won the presidency promising to tackle the cost of living, only for prices to keep rising.
+Part of the problem is that wage increases have not kept pace with prices. Average hourly earnings have risen 3% over the last year, while consumer prices have increased 3.7%.
+That helps explain why polls continue to show voters giving Trump poor marks for his handling of the economy.
+Same language, different meanings
+For Democrats, the dynamic feels familiar.
+Celinda Lake, a veteran Democratic pollster, says the problem begins with the way economists and voters use the same language to mean different things.
+"When economists say inflation comes down, they mean the rate of increase has come down," she says.
+"When voters say inflation has come down, they mean the price has returned to what it was. Well, of course, it never returns to what it was."
+The Biden administration spent much of 2024 highlighting low unemployment, solid growth and falling inflation. However, many voters remained focused on the higher prices they faced every day.
+Lake, who advised Biden's 2020 campaign but was not involved in the 2024 race, says voters judge the economy through personal experience, not economic indicators.
+"You can't argue with people about their own lived reality," she says.
+That may help explain why Trump's challenge looks so similar to Biden's.
+The Trump effect
+Biden's critics blamed him for inflation. But he could point to forces largely outside his control, including the pandemic and its supply chain aftershocks.
+Trump has less room to do that.
+Some economists argue that today's higher prices are at least partly the result of his own policies, including tariffs, as well as the economic fallout from the US-Israel war with Iran.
+"The inflation is clearly traceable to Donald Trump," says Peter Morici, a University of Maryland economist who aligns with Republicans.
+"It's his tariffs and the war. People know that. They see it."
+Trump's "Liberation Day" tariffs, announced in April 2025, have added to costs for consumers.
+A study by the Federal Reserve Bank of New York found the tariffs increased consumer goods prices by about 2.9%.
+The impact might have been larger if Trump hadn't later paused some tariffs, struck new trade deals and been blocked by the Supreme Court from using emergency powers to impose many others.
+Then came another shock. Conflict with Iran pushed oil prices higher, lifting the cost of petrol and putting fresh pressure on household budgets.
+The White House points to tax cuts, job growth and lower prescription drug costs as evidence that the administration is delivering for American families. And it is increasingly embracing policies aimed at easing pressures.
+Trump has called for a cap on credit card interest rates and floated the idea of a $5,000 payment to American adults if Republicans retain control of Congress.
+The measures reflect a political reality familiar to both parties: when voters are anxious about prices, arguments about solid growth and low unemployment are rarely enough.
+Biden never found a way to bridge the gap between economic performance and economic sentiment. The question heading into the midterms is whether Trump can.
+If recent political history is any guide, perceptions of the economy may matter more than the economic data itself.
+- Published16 October
+- Published12 October
+- Published15 October`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-27T06:01:11+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8781/live/0baf72c0-cc7a-11f1-a64c-550be9e3c66b.png",
+    readTime: 10,
+  },
+  {
     id: "hsbc-announces-share-buyback-of-up-to-1-fcd0b412",
     title: "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
     titleJa: "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
@@ -1916,230 +2490,6 @@ Blanche bristled on Sunday when asked whether the lawsuit aimed to sway the elec
     publishedAt: "2026-10-25T20:00:00+00:00",
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-27247005",
-    readTime: 2,
-  },
-  {
-    id: "we-stopped-helping-our-neighbors-with-fr-80b686ef",
-    title: "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-    titleJa: "We stopped helping our neighbors with free home repairs and our friendship cooled. Who’s to blame?",
-    summaryJa: "“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”",
-    bodyOriginal: `“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”`,
-    bodyJa: `“Last summer, they complained about needing to replace their roof. A few months later, they bought a new SUV.”`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/we-stopped-helping-our-neighbors-with-free-home-repairs-and-our-friendship-cooled-whos-to-blame-d20b0720?mod=mw_rss_topstories",
-    publishedAt: "2026-10-25T19:30:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-13210750",
-    readTime: 2,
-  },
-  {
-    id: "ukraine-disputes-elon-musk-s-claim-that-216224cb",
-    title: "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
-    titleJa: "Ukraine disputes Elon Musk’s claim that its military violated Starlink terms during drone operations",
-    summaryJa: "Ukraine challenged Musk’s claim that its military violated Starlink terms, arguing that commercial Starlink limits prevented medium- and long-range strike use.",
-    bodyOriginal: `A Ukrainian official disputed SpaceX CEO Elon Musk's claim that Ukraine's military violated Starlink's terms of service, prompting the company to restrict Ukraine's access to the high-speed satellite technology.
-Serhii Beskrestnov, a defense technology advisor to Ukrainian President Volodymyr Zelenskyy, wrote an online post on Sunday contesting Musk's reason for temporarily throttling Ukraine's access to high-speed service from SpaceX's Starlink satellite communication systems.
-Ukrainian officials previously said the restrictions disrupted the country's military drone services and left the country vulnerable to Russian attacks.
-Musk on Saturday claimed in a post on X that the "Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people."
-Beskrestnov pushed back on Musk's allegation, arguing that pre-existing restrictions on the systems would have made it "physically impossible" for Ukraine to use Starlink in the types of strikes the SpaceX CEO described.
-"It is very strange that Elon Musk is unaware of the operational limitations of Starlink in Ukraine," Beskrestnov wrote in a post on Telegram, noting that Starlink's civilian system in Ukraine "does not function over the territory of Russia" and that Ukrainian drones operating with Starlink have had a speed restriction of 70 to 90 km/h (roughly 43 to 56 miles per hour) for months.
-"Consequently, it is PHYSICALLY IMPOSSIBLE for us to use commercial Starlink for deep-strike or medium-range strike operations," Beskrestnov wrote.
-Ukraine officials acknowledged on Saturday that high-speed service for SpaceX's Starlink and Starshield satellite communications systems had been restored. The country has blamed that restricted service for disrupting its drone air defense capabilities during frequent Russian air attacks.
-Starshield is SpaceX's military-focused satellite network for government and national security use, built on technology developed for Starlink, the company's broader commercial satellite internet network.
-Before Musk acknowledged that he had restricted the systems, confusion and speculation abounded over who ordered the high-speed service changes.
-At one point, Musk wrote in a social media post that the U.S. government was behind the decision, though President Donald Trump claimed he had no knowledge of the decision. Ukrainian officials have also said Starlink or the U.S. had imposed the restrictions without warning, leaving the country blindsided.
-Musk has not explained the reported lack of notification to Ukraine before his company implemented the restrictions.
-Musk and SpaceX did not respond to CNBC's requests for comment.
-The restrictions on Starlink and Starshield in war-torn Ukraine have driven Ukraine and its allies to seek or build alternative, "sovereign" satellite communication systems.
-Poland's Deputy Minister of National Defense, Cezary Tomczyk, discussed his country's plans on a podcast called Influence Zone (Strefa Influenceów) earlier this month. Ukraine also announced partnerships with Norway and Finland's mobile giant Nokia, as well as satellite maker ICEYE, to develop alternatives.
-Beyond Ukraine, several countries are also exploring sovereign systems. The European Union is building IRIS², a constellation of hundreds of satellites, but it doesn't expect its first launches until 2029.
-SpaceX's Starlink generated $5.25 billion in revenue in the third quarter of 2026, up from $3.1 billion a year earlier. Revenue from consumer Starlink subscribers totaled $3.12 billion, while the company generated $2.13 billion from government and enterprise customers during the quarter.
-A wide array of customers, including non-government entities, the governments of Poland and France, and the Pentagon, have paid SpaceX to provide its Starlink and Starshield hardware and wireless internet services to Ukraine.`,
-    bodyJa: `A Ukrainian official disputed SpaceX CEO Elon Musk's claim that Ukraine's military violated Starlink's terms of service, prompting the company to restrict Ukraine's access to the high-speed satellite technology.
-Serhii Beskrestnov, a defense technology advisor to Ukrainian President Volodymyr Zelenskyy, wrote an online post on Sunday contesting Musk's reason for temporarily throttling Ukraine's access to high-speed service from SpaceX's Starlink satellite communication systems.
-Ukrainian officials previously said the restrictions disrupted the country's military drone services and left the country vulnerable to Russian attacks.
-Musk on Saturday claimed in a post on X that the "Ukraine military violated Starlink terms of service and used it for offensive drone strikes to kill people."
-Beskrestnov pushed back on Musk's allegation, arguing that pre-existing restrictions on the systems would have made it "physically impossible" for Ukraine to use Starlink in the types of strikes the SpaceX CEO described.
-"It is very strange that Elon Musk is unaware of the operational limitations of Starlink in Ukraine," Beskrestnov wrote in a post on Telegram, noting that Starlink's civilian system in Ukraine "does not function over the territory of Russia" and that Ukrainian drones operating with Starlink have had a speed restriction of 70 to 90 km/h (roughly 43 to 56 miles per hour) for months.
-"Consequently, it is PHYSICALLY IMPOSSIBLE for us to use commercial Starlink for deep-strike or medium-range strike operations," Beskrestnov wrote.
-Ukraine officials acknowledged on Saturday that high-speed service for SpaceX's Starlink and Starshield satellite communications systems had been restored. The country has blamed that restricted service for disrupting its drone air defense capabilities during frequent Russian air attacks.
-Starshield is SpaceX's military-focused satellite network for government and national security use, built on technology developed for Starlink, the company's broader commercial satellite internet network.
-Before Musk acknowledged that he had restricted the systems, confusion and speculation abounded over who ordered the high-speed service changes.
-At one point, Musk wrote in a social media post that the U.S. government was behind the decision, though President Donald Trump claimed he had no knowledge of the decision. Ukrainian officials have also said Starlink or the U.S. had imposed the restrictions without warning, leaving the country blindsided.
-Musk has not explained the reported lack of notification to Ukraine before his company implemented the restrictions.
-Musk and SpaceX did not respond to CNBC's requests for comment.
-The restrictions on Starlink and Starshield in war-torn Ukraine have driven Ukraine and its allies to seek or build alternative, "sovereign" satellite communication systems.
-Poland's Deputy Minister of National Defense, Cezary Tomczyk, discussed his country's plans on a podcast called Influence Zone (Strefa Influenceów) earlier this month. Ukraine also announced partnerships with Norway and Finland's mobile giant Nokia, as well as satellite maker ICEYE, to develop alternatives.
-Beyond Ukraine, several countries are also exploring sovereign systems. The European Union is building IRIS², a constellation of hundreds of satellites, but it doesn't expect its first launches until 2029.
-SpaceX's Starlink generated $5.25 billion in revenue in the third quarter of 2026, up from $3.1 billion a year earlier. Revenue from consumer Starlink subscribers totaled $3.12 billion, while the company generated $2.13 billion from government and enterprise customers during the quarter.
-A wide array of customers, including non-government entities, the governments of Poland and France, and the Pentagon, have paid SpaceX to provide its Starlink and Starshield hardware and wireless internet services to Ukraine.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html",
-    publishedAt: "2026-10-25T18:18:49+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "my-partner-of-17-years-left-me-his-1-mil-acca692a",
-    title: "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
-    titleJa: "My partner of 17 years left me his $1 million home. His children are livid. Am I obliged to split it with them?",
-    summaryJa: "“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”",
-    bodyOriginal: `“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”`,
-    bodyJa: `“I never paid rent, although I put about $45,000 toward a new kitchen and a roof.”`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/my-unmarried-partner-of-17-years-left-me-his-1-1-million-home-his-three-children-are-livid-should-i-share-my-inheritance-a11d593d?mod=mw_rss_topstories",
-    publishedAt: "2026-10-25T17:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-96138879",
-    readTime: 2,
-  },
-  {
-    id: "audi-defends-plans-for-a-4-billion-georg-0b4620c3",
-    title: "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
-    titleJa: "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
-    summaryJa: "Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S. tariffs.",
-    bodyOriginal: `DETROIT — Audi's CEO defended the carmaker's plans for a new $4 billion plant in Georgia on Sunday, calling it a business decision aimed at growing sales and reducing exposure to U.S. tariffs.
-The plant, set to be Audi's first in the U.S., was announced Saturday by President Donald Trump during a rally in Georgia, near where the Volkswagen-owned luxury brand plans to build the new SUV-producing facility.
-"We have significantly greater ambitions for Audi in America," Audi CEO Gernot Dollner said during a media roundtable Sunday. "The United States is the second largest premium market in the world, and today we are not fully exploiting this potential. We are changing that."
-The announcement comes amid an intense restructuring of its VW parent company, including plans to cut 50,000 jobs and close four German plants, including an Audi facility, between 2031 and 2034.
-Dollner, who joined Trump at the rally, said the decision for a plant in the U.S. was years in the making, with more than 70 locations evaluated over "many months" and "intense" negotiations with public officials.
-"This is not a decision against Germany. Germany remains the backbone of Audi," Dollner said. "We develop our cars here. Our technologies are created here, and Georgia does not take any task away from us in Germany."
-Dollner said localized production is the best decision for the brand, which has struggled in sales this decade amid rising operational costs and Trump's tariffs on vehicles from Germany and other countries into the U.S. Current tariffs on vehicles from Germany are 15%, down from 25%.
-Last year, U.S. tariffs cost Audi 1.2 billion euros ($1.4 billion), as it imports all its vehicles for the U.S. market from Europe or Mexico.
-Dollner said the Trump administration asked Audi to announce the new plant at the Georgia rally promoting Republicans ahead of Nov. 3 midterm elections.
-"It was … a three-year project that, at the end, by coincidence, led to that moment yesterday," he said Sunday. "With respect of the office and country, we joined the invitation."
-Dollner noted Audi is the last major German luxury brand to establish U.S. production after Mercedes-Benz and BMW.
-The company said the Georgia plant is expected to begin production of Audi's Q7, Q8 and Q9 in the early 2030s. The plant would have the capacity to produce up to 200,000 vehicles annually, roughly half of which the automaker said will be exported outside the U.S.
-"This is to make Audi obviously a significant player here in the U.S. market," said Audi of America President Vito Paladino during the roundtable. He also said additional details on U.S. investments and production are forthcoming.
-Audi's U.S. deliveries were roughly flat through the third quarter of this year, following a 16% decline from 2024 to 2025.`,
-    bodyJa: `DETROIT — Audi's CEO defended the carmaker's plans for a new $4 billion plant in Georgia on Sunday, calling it a business decision aimed at growing sales and reducing exposure to U.S. tariffs.
-The plant, set to be Audi's first in the U.S., was announced Saturday by President Donald Trump during a rally in Georgia, near where the Volkswagen-owned luxury brand plans to build the new SUV-producing facility.
-"We have significantly greater ambitions for Audi in America," Audi CEO Gernot Dollner said during a media roundtable Sunday. "The United States is the second largest premium market in the world, and today we are not fully exploiting this potential. We are changing that."
-The announcement comes amid an intense restructuring of its VW parent company, including plans to cut 50,000 jobs and close four German plants, including an Audi facility, between 2031 and 2034.
-Dollner, who joined Trump at the rally, said the decision for a plant in the U.S. was years in the making, with more than 70 locations evaluated over "many months" and "intense" negotiations with public officials.
-"This is not a decision against Germany. Germany remains the backbone of Audi," Dollner said. "We develop our cars here. Our technologies are created here, and Georgia does not take any task away from us in Germany."
-Dollner said localized production is the best decision for the brand, which has struggled in sales this decade amid rising operational costs and Trump's tariffs on vehicles from Germany and other countries into the U.S. Current tariffs on vehicles from Germany are 15%, down from 25%.
-Last year, U.S. tariffs cost Audi 1.2 billion euros ($1.4 billion), as it imports all its vehicles for the U.S. market from Europe or Mexico.
-Dollner said the Trump administration asked Audi to announce the new plant at the Georgia rally promoting Republicans ahead of Nov. 3 midterm elections.
-"It was … a three-year project that, at the end, by coincidence, led to that moment yesterday," he said Sunday. "With respect of the office and country, we joined the invitation."
-Dollner noted Audi is the last major German luxury brand to establish U.S. production after Mercedes-Benz and BMW.
-The company said the Georgia plant is expected to begin production of Audi's Q7, Q8 and Q9 in the early 2030s. The plant would have the capacity to produce up to 200,000 vehicles annually, roughly half of which the automaker said will be exported outside the U.S.
-"This is to make Audi obviously a significant player here in the U.S. market," said Audi of America President Vito Paladino during the roundtable. He also said additional details on U.S. investments and production are forthcoming.
-Audi's U.S. deliveries were roughly flat through the third quarter of this year, following a 16% decline from 2024 to 2025.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
-    publishedAt: "2026-10-25T16:42:42+00:00",
-    category: "自動車",
-    imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "in-pictures-initially-peaceful-protests-69276b84",
-    title: "In pictures: Initially peaceful protests across France over inequality again descend into violence",
-    titleJa: "In pictures: Initially peaceful protests across France over inequality again descend into violence",
-    summaryJa: "Protests over inequality and living costs drew an estimated 410,000 people across France, with clashes in several cities for a second straight weekend.",
-    bodyOriginal: `Mostly peaceful protests across France over a worsening cost-of-living crisis and growing inequality descended into violence for a second straight weekend.
-France's Interior Ministry said 410,000 people took part in protests in several major cities, including Paris.
-After rioters set fire to the historic city hall in Limoges and looters smashed supermarkets and luxury boutiques in Lyon last weekend, French authorities greatly stepped up security ahead of Saturday's protests.
-In Paris on Saturday, riot police fired tear gas and water cannon to disperse a group of around 500 hooded youths who hurled stones at officers, Reuters quoted a security official as saying.
-In France's second city, Marseille, youths dragged large metal sheets to block a street, set fire to rubbish bins, and hurled rocks and bottles at riot police. The confrontations continued after sunset, and police said looters raided two jewelry shops, according to a Reuters report.
-Clashes also flared in Lyon, Bordeaux and Grenoble, while police fired volleys of tear gas at demonstrators in Clermont-Ferrand, Lille, Nantes and Nice, according to the agency.
-However, the violence was still less intense than a week ago, when looters and vandals went on the rampage in a number of French cities.
-The demonstrations began last month as a group of high school students in suburban Paris lamented poor school conditions, including teacher shortages and unsatisfactory facilities. The demonstrations have since grown and evolved into nationwide protests.
-France's economic and political woes have sharply raised the cost of government borrowing. The yield on its 10-year bond rose above 5% for the first time since 2002 this week, settling around 5.03% on Friday.
-Some investors fear the country's debt problems could spread to the rest of the euro zone.`,
-    bodyJa: `Mostly peaceful protests across France over a worsening cost-of-living crisis and growing inequality descended into violence for a second straight weekend.
-France's Interior Ministry said 410,000 people took part in protests in several major cities, including Paris.
-After rioters set fire to the historic city hall in Limoges and looters smashed supermarkets and luxury boutiques in Lyon last weekend, French authorities greatly stepped up security ahead of Saturday's protests.
-In Paris on Saturday, riot police fired tear gas and water cannon to disperse a group of around 500 hooded youths who hurled stones at officers, Reuters quoted a security official as saying.
-In France's second city, Marseille, youths dragged large metal sheets to block a street, set fire to rubbish bins, and hurled rocks and bottles at riot police. The confrontations continued after sunset, and police said looters raided two jewelry shops, according to a Reuters report.
-Clashes also flared in Lyon, Bordeaux and Grenoble, while police fired volleys of tear gas at demonstrators in Clermont-Ferrand, Lille, Nantes and Nice, according to the agency.
-However, the violence was still less intense than a week ago, when looters and vandals went on the rampage in a number of French cities.
-The demonstrations began last month as a group of high school students in suburban Paris lamented poor school conditions, including teacher shortages and unsatisfactory facilities. The demonstrations have since grown and evolved into nationwide protests.
-France's economic and political woes have sharply raised the cost of government borrowing. The yield on its 10-year bond rose above 5% for the first time since 2002 this week, settling around 5.03% on Friday.
-Some investors fear the country's debt problems could spread to the rest of the euro zone.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/25/france-protests-paris-cost-of-living-inequality.html",
-    publishedAt: "2026-10-25T14:14:23+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "more-than-a-third-of-s-p-500-companies-a-5ad11261",
-    title: "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
-    titleJa: "More than a third of S&P 500 companies are about to report earnings as market confidence cracks",
-    summaryJa: "“With cautious to negative market sentiment, it could be a tricky week,” one strategist says.",
-    bodyOriginal: `“With cautious to negative market sentiment, it could be a tricky week,” one strategist says.`,
-    bodyJa: `“With cautious to negative market sentiment, it could be a tricky week,” one strategist says.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/more-than-a-third-of-s-p-500-companies-are-about-to-report-earnings-as-market-confidence-cracks-03b7a8f1?mod=mw_rss_topstories",
-    publishedAt: "2026-10-25T14:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-16577626",
-    readTime: 2,
-  },
-  {
-    id: "saudi-arabia-says-it-intercepted-missile-8b5df424",
-    title: "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
-    titleJa: "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
-    summaryJa: "Saudi Arabia says it intercepted Houthi missiles and drones, while the Houthis claimed attacks on airports and energy sites amid rising regional supply risks.",
-    bodyOriginal: `Saudi Arabia intercepted drones and missiles headed for several cities, including the capital Riyadh, fired by Iran-aligned Houthis on Sunday, the Saudi-led coalition in Yemen said.
-The ongoing fighting between Saudi Arabia and the Yemen-based Houthis, combined with remarks by President Donald Trump last week suggesting that the U.S. and Israel are planning fresh strikes on Iran after the Nov. 3 midterm elections, drove oil prices to a six-month high Friday.
-The official Saudi Press Agency quoted the spokesperson of the Saudi-led Coalition to Restore Legitimacy in Yemen, Turki Al-Maliki, as saying two drones and a ballistic missile were "intercepted and destroyed" as they headed toward Riyadh.
-The agency quoted Al-Maliki as saying that 10 ballistic missiles launched by the Houthis toward the southern region of Saudi Arabia were also intercepted, as was a cruise missile headed for the city of Khamis Mushait.
-The Houthis said in a Telegram post that they "carried out seven qualitative military operations using a number of ballistic missiles and drones."
-The targets included Riyadh's King Khalid International Airport and oil giant Saudi Aramco's facilities in Yanbu on Saudi Arabia's west coast as well as other airports and energy installations around the country, the Houthis said.
-King Khalid International Airport said in a notice to travelers that it was resuming operations Sunday, using its Terminal 1 for domestic flights and Terminal 2 for overseas routes.
-The airport suspended operations on Oct. 10 following a strike that killed at least 13 people and injured around 300 others, making it the deadliest attack on Saudi Arabia in more than a decade.
-Saudi Aramco did not immediately respond to CNBC's request for comment.
-Resumption of Iran attacks 'fairly soon'?
-While the Houthis and Saudi Arabia have been exchanging strikes in recent weeks, concerns have been mounting among investors that the U.S. could soon resume its attacks on Iran.
-The U.S. ordered non-emergency government employees and their families to leave Saudi Arabia last week amid the Houthi attacks.
-Trump said Wednesday that the U.S. was not negotiating with Iran and something would happen "fairly soon."
-The president's cryptic remarks came as U.S. officials told The New York Times that the U.S. and Israel have plans for fresh strikes on Iran after the midterm elections.
-"I think there's more and more fears of escalation in the Middle East," Amrita Sen, Founder and Director of Energy Aspects, told CNBC's Squawk Box Europe on Friday.
-"We keep getting asked by clients: 'Is it going to be before the midterms? Is it after the midterms?' So it's not a question of 'if.' People are asking if it's a question of 'when.' Our view remains that it's more likely after the midterms than before."
-Rising tensions, worries about supply disruptions and concerns about possible fresh U.S.-Israeli strikes on Iran helped push Brent crude to a six-month high Friday.
-Brent futures gained 3.1% to close at $116.72 a barrel, the highest international benchmark settlement since April 29. U.S. West Texas Intermediate added 3.8% to settle at $103.27 a barrel. Brent added 6.2% for the week, the third consecutive week of gains. WTI advanced 2.3% for the week.`,
-    bodyJa: `Saudi Arabia intercepted drones and missiles headed for several cities, including the capital Riyadh, fired by Iran-aligned Houthis on Sunday, the Saudi-led coalition in Yemen said.
-The ongoing fighting between Saudi Arabia and the Yemen-based Houthis, combined with remarks by President Donald Trump last week suggesting that the U.S. and Israel are planning fresh strikes on Iran after the Nov. 3 midterm elections, drove oil prices to a six-month high Friday.
-The official Saudi Press Agency quoted the spokesperson of the Saudi-led Coalition to Restore Legitimacy in Yemen, Turki Al-Maliki, as saying two drones and a ballistic missile were "intercepted and destroyed" as they headed toward Riyadh.
-The agency quoted Al-Maliki as saying that 10 ballistic missiles launched by the Houthis toward the southern region of Saudi Arabia were also intercepted, as was a cruise missile headed for the city of Khamis Mushait.
-The Houthis said in a Telegram post that they "carried out seven qualitative military operations using a number of ballistic missiles and drones."
-The targets included Riyadh's King Khalid International Airport and oil giant Saudi Aramco's facilities in Yanbu on Saudi Arabia's west coast as well as other airports and energy installations around the country, the Houthis said.
-King Khalid International Airport said in a notice to travelers that it was resuming operations Sunday, using its Terminal 1 for domestic flights and Terminal 2 for overseas routes.
-The airport suspended operations on Oct. 10 following a strike that killed at least 13 people and injured around 300 others, making it the deadliest attack on Saudi Arabia in more than a decade.
-Saudi Aramco did not immediately respond to CNBC's request for comment.
-Resumption of Iran attacks 'fairly soon'?
-While the Houthis and Saudi Arabia have been exchanging strikes in recent weeks, concerns have been mounting among investors that the U.S. could soon resume its attacks on Iran.
-The U.S. ordered non-emergency government employees and their families to leave Saudi Arabia last week amid the Houthi attacks.
-Trump said Wednesday that the U.S. was not negotiating with Iran and something would happen "fairly soon."
-The president's cryptic remarks came as U.S. officials told The New York Times that the U.S. and Israel have plans for fresh strikes on Iran after the midterm elections.
-"I think there's more and more fears of escalation in the Middle East," Amrita Sen, Founder and Director of Energy Aspects, told CNBC's Squawk Box Europe on Friday.
-"We keep getting asked by clients: 'Is it going to be before the midterms? Is it after the midterms?' So it's not a question of 'if.' People are asking if it's a question of 'when.' Our view remains that it's more likely after the midterms than before."
-Rising tensions, worries about supply disruptions and concerns about possible fresh U.S.-Israeli strikes on Iran helped push Brent crude to a six-month high Friday.
-Brent futures gained 3.1% to close at $116.72 a barrel, the highest international benchmark settlement since April 29. U.S. West Texas Intermediate added 3.8% to settle at $103.27 a barrel. Brent added 6.2% for the week, the third consecutive week of gains. WTI advanced 2.3% for the week.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html",
-    publishedAt: "2026-10-25T13:41:37+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 8,
-  },
-  {
-    id: "worried-about-this-stock-market-selloff-768d0aed",
-    title: "Worried about this stock-market selloff? Relief may be coming after the midterms — no matter who wins.",
-    titleJa: "Worried about this stock-market selloff? Relief may be coming after the midterms — no matter who wins.",
-    summaryJa: "The nine months between Election Day and June 30 have seen the S&amp;P 500 deliver an average return of 15.5% going back to 1950.",
-    bodyOriginal: `The nine months between Election Day and June 30 have seen the S&amp;P 500 deliver an average return of 15.5% going back to 1950.`,
-    bodyJa: `The nine months between Election Day and June 30 have seen the S&amp;P 500 deliver an average return of 15.5% going back to 1950.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/worried-about-this-stock-market-selloff-relief-may-be-coming-after-the-midterms-no-matter-who-wins-39322c07?mod=mw_rss_topstories",
-    publishedAt: "2026-10-25T13:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-63364096",
     readTime: 2,
   },
 ];
