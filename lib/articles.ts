@@ -15,6 +15,730 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "microsoft-stock-jumps-4-as-cloud-growth-aedecf50",
+    title: "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+    titleJa: "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
+    summaryJa: "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
+    bodyOriginal: `Microsoft shares rose 4% in extended trading on Wednesday after the company reported better-than-expected quarterly results, driven by 48% growth in its Azure cloud infrastructure business.
+Here's how the company fared relative to LSEG consensus:
+- Earnings per share: $4.89 adjusted vs. $4.73 expected
+- Revenue: $92.28 billion vs. $90.69 billion expected
+Microsoft's revenue grew 19% year over year in the quarter, which ended on Sept. 30, according to a statement, with Azure now its biggest single business.
+The software giant has been rapidly building out data center infrastructure to meet artificial intelligence demand, while also maintaining positive free cash flow unlike its fellow hyperscalers. Microsoft reported $45.2 billion worth of capital expenditures and finance leases during the quarter, up about 30% from a year earlier. Analysts surveyed by StreetAccount had projected $50.67 billion.
+With respect to guidance, Microsoft called for $96 billion to $97.1 billion in fiscal second-quarter revenue, which works out to 18.8% growth at the middle of the range. Analysts polled by LSEG had predicted $95.60 billion in revenue.
+For Azure, Hood said she anticipates 49% to 50% growth at constant currency for the fiscal second quarter, compared with the 45.1% StreetAccount consensus.
+"We still have demand that exceeds supply," she said.
+During the fiscal first quarter, Microsoft flagged a higher growth rate for cash paid for property and equipment than overall capital expenditures, which include finance leases. "Some third-party capacity deliveries we expected in Q1 were delayed," the company's finance chief, Amy Hood, said on a conference call with analysts.
+Around 75% of capital expenditures are now tied to short-lived assets such as Intel chips and Nvidia graphics processing units, up from about 66% in the past three quarters and half in the year-ago quarter. The shift indicates Microsoft's prioritization of infrastructure it can can quickly turn into revenue.
+Hood said the company is aiming at over $50 billion in fiscal second-quarter capital expenditures and finance leases, above the StreetAccount consensus of $53.10 billion, with $170 billion for all of calendar 2027 because of the capacity issues.
+"In the second half of the fiscal year, we currently expect capex spend to accelerate primarily from CPUs, inclusive of higher memory and storage costs, and GPUs, as well as the 3P capacity deliveries that shifted to H2," she said.
+Free cash flow for the fiscal first quarter declined 27% to $18.63 billion. Cloud rival Alphabet reported more than $9 billion in negative free cash flow in the quarter after Meta said last week its cash flow turned negative for the first time.
+Microsoft will continue to generate free cash flow through the 2027 fiscal year, but the company will access additional sources of funding when it's attractive to do so, Hood said.
+"We're fortunate to have access in the debt markets, given where our rates ratings are, and sort of we haven't been able to — we haven't yet, I would say, tapped that," she said. "And then, of course, there's other options."
+Microsoft's net income increased to $36.63 billion, or $4.92 per share, from $27.75 billion, or $3.72 per share, a year ago. Adjusted earnings exclude a roughly $200 million loss on its investment in OpenAI.
+For the first time, Microsoft disclosed revenue from its Azure cloud in dollars, at $33.17 billion in the quarter, despite the delays from third-party providers.
+Analysts polled by StreetAccount expected $32.32 billion. The growth rate in the June quarter was 42%.
+Microsoft reported results under two operating segments — Agents and Infra, and Devices and Consumer. For the past 11 years, the company had three segments that divided up its Azure, Office and Windows businesses.
+In Agents and Infra, revenue rose almost 25% to $76.8 billion, more than the $75.63 billion consensus among analysts polled by StreetAccount. The segment contains Azure, along with Microsoft 365 cloud products, productivity and server licensing, industry solutions and frontier and support services.
+The number of people using the Microsoft 365 Copilot AI assistant is up 50% from last quarter, CEO Satya Nadella said on the call. The company did not disclose the number of paid seats. The recently announced high-end Microsoft 365 E7 productivity bundle now has millions of seats, Hood said.
+Revenue in the Devices and Consumer business slipped 3% to $15.48 billion, beating the StreetAccount consensus of $15.05 billion. The unit includes search and advertising, Xbox, devices and Windows operating system licenses sold to device makers.
+Sales of devices and Windows licenses declined 22%, as higher memory and storage costs elevated prices. The company pointed to the end of support for Windows 10 last year and weak PC demand.
+As of Wednesday's close, Microsoft shares were up about 10% year to date, trailing the S&P 500 index, which has gained 13% over the same period.
+During the fiscal first quarter, Microsoft said it would cut 4,800 jobs, and followed up by announcing on Monday that it's offering buyouts to up to 60,000 employees, as it strives to balance a costly AI build-out with capital efficiency. Microsoft also established, during the quarter, an AI implementation unit and revealed a Copilot AI "super app" with coding abilities.
+Executives will discuss the results with analysts and issue guidance on a conference call starting at 5:30 p.m. ET.
+This story is developing. Please check back for updates.`,
+    bodyJa: `Microsoft shares rose 4% in extended trading on Wednesday after the company reported better-than-expected quarterly results, driven by 48% growth in its Azure cloud infrastructure business.
+Here's how the company fared relative to LSEG consensus:
+- Earnings per share: $4.89 adjusted vs. $4.73 expected
+- Revenue: $92.28 billion vs. $90.69 billion expected
+Microsoft's revenue grew 19% year over year in the quarter, which ended on Sept. 30, according to a statement, with Azure now its biggest single business.
+The software giant has been rapidly building out data center infrastructure to meet artificial intelligence demand, while also maintaining positive free cash flow unlike its fellow hyperscalers. Microsoft reported $45.2 billion worth of capital expenditures and finance leases during the quarter, up about 30% from a year earlier. Analysts surveyed by StreetAccount had projected $50.67 billion.
+With respect to guidance, Microsoft called for $96 billion to $97.1 billion in fiscal second-quarter revenue, which works out to 18.8% growth at the middle of the range. Analysts polled by LSEG had predicted $95.60 billion in revenue.
+For Azure, Hood said she anticipates 49% to 50% growth at constant currency for the fiscal second quarter, compared with the 45.1% StreetAccount consensus.
+"We still have demand that exceeds supply," she said.
+During the fiscal first quarter, Microsoft flagged a higher growth rate for cash paid for property and equipment than overall capital expenditures, which include finance leases. "Some third-party capacity deliveries we expected in Q1 were delayed," the company's finance chief, Amy Hood, said on a conference call with analysts.
+Around 75% of capital expenditures are now tied to short-lived assets such as Intel chips and Nvidia graphics processing units, up from about 66% in the past three quarters and half in the year-ago quarter. The shift indicates Microsoft's prioritization of infrastructure it can can quickly turn into revenue.
+Hood said the company is aiming at over $50 billion in fiscal second-quarter capital expenditures and finance leases, above the StreetAccount consensus of $53.10 billion, with $170 billion for all of calendar 2027 because of the capacity issues.
+"In the second half of the fiscal year, we currently expect capex spend to accelerate primarily from CPUs, inclusive of higher memory and storage costs, and GPUs, as well as the 3P capacity deliveries that shifted to H2," she said.
+Free cash flow for the fiscal first quarter declined 27% to $18.63 billion. Cloud rival Alphabet reported more than $9 billion in negative free cash flow in the quarter after Meta said last week its cash flow turned negative for the first time.
+Microsoft will continue to generate free cash flow through the 2027 fiscal year, but the company will access additional sources of funding when it's attractive to do so, Hood said.
+"We're fortunate to have access in the debt markets, given where our rates ratings are, and sort of we haven't been able to — we haven't yet, I would say, tapped that," she said. "And then, of course, there's other options."
+Microsoft's net income increased to $36.63 billion, or $4.92 per share, from $27.75 billion, or $3.72 per share, a year ago. Adjusted earnings exclude a roughly $200 million loss on its investment in OpenAI.
+For the first time, Microsoft disclosed revenue from its Azure cloud in dollars, at $33.17 billion in the quarter, despite the delays from third-party providers.
+Analysts polled by StreetAccount expected $32.32 billion. The growth rate in the June quarter was 42%.
+Microsoft reported results under two operating segments — Agents and Infra, and Devices and Consumer. For the past 11 years, the company had three segments that divided up its Azure, Office and Windows businesses.
+In Agents and Infra, revenue rose almost 25% to $76.8 billion, more than the $75.63 billion consensus among analysts polled by StreetAccount. The segment contains Azure, along with Microsoft 365 cloud products, productivity and server licensing, industry solutions and frontier and support services.
+The number of people using the Microsoft 365 Copilot AI assistant is up 50% from last quarter, CEO Satya Nadella said on the call. The company did not disclose the number of paid seats. The recently announced high-end Microsoft 365 E7 productivity bundle now has millions of seats, Hood said.
+Revenue in the Devices and Consumer business slipped 3% to $15.48 billion, beating the StreetAccount consensus of $15.05 billion. The unit includes search and advertising, Xbox, devices and Windows operating system licenses sold to device makers.
+Sales of devices and Windows licenses declined 22%, as higher memory and storage costs elevated prices. The company pointed to the end of support for Windows 10 last year and weak PC demand.
+As of Wednesday's close, Microsoft shares were up about 10% year to date, trailing the S&P 500 index, which has gained 13% over the same period.
+During the fiscal first quarter, Microsoft said it would cut 4,800 jobs, and followed up by announcing on Monday that it's offering buyouts to up to 60,000 employees, as it strives to balance a costly AI build-out with capital efficiency. Microsoft also established, during the quarter, an AI implementation unit and revealed a Copilot AI "super app" with coding abilities.
+Executives will discuss the results with analysts and issue guidance on a conference call starting at 5:30 p.m. ET.
+This story is developing. Please check back for updates.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
+    publishedAt: "2026-10-28T22:29:23+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "alphabet-sinks-10-as-it-holds-2026-capex-0bf5537f",
+    title: "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
+    titleJa: "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
+    summaryJa: "Alphabet missed Q3 expectations on earnings and revenue, its first top-and-bottom-line miss in nearly four years.",
+    bodyOriginal: `Alphabet shares slumped more than 10% after the search giant reported a drop in free cash flow during the third quarter, in a worrying sign for the artificial intelligence trade.
+Here's how the company did, compared with estimates from analysts polled by LSEG:
+- Earnings per share: $2.67 adjusted vs. $3.02 expected
+- Revenue: $127.58 billion vs. $128.22 billion
+Revenue grew 25% from a year ago, but the company posted its first top-and-bottom-line miss in nearly four years.
+Net income fell to $26.17 billion, or $2.12 per share, down from $34.98 billion, or $2.87 per share, a year ago.
+The Google parent reported negative free cash flow of $9.07 billion, which fell much further than the $2.70 billion expected by analysts.
+As questions mount over heightened spending on the AI buildout, Alphabet's capital expenditures totaled $51.36 billion in Q3, falling short of the $55.09 billion expected by analysts. Investors are looking for a substantial return on investment to warrant the big spending plans from the hyperscalers.
+Alphabet maintained its full-year capital expenditures forecast after lifting guidance to between $195 billion and $205 billion during the second quarter from $190 billion. Annual capex is expected to top $200 billion before exceeding $300 billion in 2027.
+"We continue to expect our capex to increase significantly in 2027, and will provide further details on our Q4 call," finance chief Anat Ashkenazi told analysts during an earnings call.
+The company's borrowing rose sharply during the quarter, with long-term debt climbing to $125.1 billion, up from $21.6 billion a year earlier — an increase of about 479%.
+Operating income totaled $40.58 billion, missing a $43.19 billion forecast from FactSet.
+Alphabet saw a $99.03 billion windfall in revenue from equity holdings in the second quarter, fueled by stakes in SpaceX and Anthropic. However, the category weighed on results in the third quarter, resulting in a loss of $8.66 billion.
+The company continues to open its wallet to fuel the AI expansion, and that has contributed to strong revenue growth in its cloud division, home to its suite of AI offerings.
+"We are seeing extraordinary demand and strong growth from both AI labs, capital markets, financial service institutions, and enterprises," said Google Cloud CEO Thomas Kurian in his first public earnings call remarks.
+Cloud revenue more than doubled to $30.7 billion, surpassing the $28.7 billion expected by analysts. The company has continued taking market share from larger rivals Amazon Web Services and Microsoft Azure.
+The strong cloud results did little to shake off Google's largely negative print.
+"The cloud business was the only business that beat at 103% growth," said Jefferies analyst Brent Thill on CNBC's Closing Bell: Overtime. "The Street wanted 100%, so it didn't beat by much, and it missed some of the high-end targets. Everything else missed."
+The company's aggressive push on AI models did show signs of consumer adoption. Google said its Gemini app reached 1 billion users, making it the fastest-growing product in its history, the company said.
+CEO Sundar Pichai told analysts that the company is already seeing strong demand for its recently launched Argon Gemini model. Its Carbon iteration announced on Wednesday outperforms Argon "on almost every domain," he added.
+Alphabet's search revenue grew 12% to $63.35 billion. That fell short of a $64.96 billion estimate. Pichai said the company's AI investments powered the highest query growth rate over the last five years.`,
+    bodyJa: `Alphabet shares slumped more than 10% after the search giant reported a drop in free cash flow during the third quarter, in a worrying sign for the artificial intelligence trade.
+Here's how the company did, compared with estimates from analysts polled by LSEG:
+- Earnings per share: $2.67 adjusted vs. $3.02 expected
+- Revenue: $127.58 billion vs. $128.22 billion
+Revenue grew 25% from a year ago, but the company posted its first top-and-bottom-line miss in nearly four years.
+Net income fell to $26.17 billion, or $2.12 per share, down from $34.98 billion, or $2.87 per share, a year ago.
+The Google parent reported negative free cash flow of $9.07 billion, which fell much further than the $2.70 billion expected by analysts.
+As questions mount over heightened spending on the AI buildout, Alphabet's capital expenditures totaled $51.36 billion in Q3, falling short of the $55.09 billion expected by analysts. Investors are looking for a substantial return on investment to warrant the big spending plans from the hyperscalers.
+Alphabet maintained its full-year capital expenditures forecast after lifting guidance to between $195 billion and $205 billion during the second quarter from $190 billion. Annual capex is expected to top $200 billion before exceeding $300 billion in 2027.
+"We continue to expect our capex to increase significantly in 2027, and will provide further details on our Q4 call," finance chief Anat Ashkenazi told analysts during an earnings call.
+The company's borrowing rose sharply during the quarter, with long-term debt climbing to $125.1 billion, up from $21.6 billion a year earlier — an increase of about 479%.
+Operating income totaled $40.58 billion, missing a $43.19 billion forecast from FactSet.
+Alphabet saw a $99.03 billion windfall in revenue from equity holdings in the second quarter, fueled by stakes in SpaceX and Anthropic. However, the category weighed on results in the third quarter, resulting in a loss of $8.66 billion.
+The company continues to open its wallet to fuel the AI expansion, and that has contributed to strong revenue growth in its cloud division, home to its suite of AI offerings.
+"We are seeing extraordinary demand and strong growth from both AI labs, capital markets, financial service institutions, and enterprises," said Google Cloud CEO Thomas Kurian in his first public earnings call remarks.
+Cloud revenue more than doubled to $30.7 billion, surpassing the $28.7 billion expected by analysts. The company has continued taking market share from larger rivals Amazon Web Services and Microsoft Azure.
+The strong cloud results did little to shake off Google's largely negative print.
+"The cloud business was the only business that beat at 103% growth," said Jefferies analyst Brent Thill on CNBC's Closing Bell: Overtime. "The Street wanted 100%, so it didn't beat by much, and it missed some of the high-end targets. Everything else missed."
+The company's aggressive push on AI models did show signs of consumer adoption. Google said its Gemini app reached 1 billion users, making it the fastest-growing product in its history, the company said.
+CEO Sundar Pichai told analysts that the company is already seeing strong demand for its recently launched Argon Gemini model. Its Carbon iteration announced on Wednesday outperforms Argon "on almost every domain," he added.
+Alphabet's search revenue grew 12% to $63.35 billion. That fell short of a $64.96 billion estimate. Pichai said the company's AI investments powered the highest query growth rate over the last five years.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+    publishedAt: "2026-10-28T22:07:17+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "what-we-now-know-about-the-uk-economy-in-be5b1d23",
+    title: "What we now know about the UK economy in four charts",
+    titleJa: "What we now know about the UK economy in four charts",
+    summaryJa: "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+    bodyOriginal: `What we now know about the UK economy in four charts
+- Published
+The UK may have no involvement in the US-Iran war, but the country is feeling the full force of the conflict on its economy.
+Soaring energy prices are set to dent growth in the short term, push up inflation and leave living standards in a "grim" place, according to the latest official forecast from the Office for Budget Responsibility (OBR).
+Interest rates are also predicted to rise, making borrowing more expensive, along with government debt repayments.
+Chancellor John Healey warned the nation faces "real challenges ahead" as he announced policies that he said would offer "breathing space" for households in the coming months.
+Your pay, energy bills and savings: How the Budget affects you
+- Published5 hours ago
+"What we face today are global economic storms," he said. "We can't wish them away. We must choose the course we steer through them."
+In its first assessment of the UK economy since the Middle East conflict started, the OBR said rising energy prices were the biggest risk to the economy in the near future.
+Despite raising its growth forecast for this year, it sharply cut its prediction for next year from 1.6% to 1%.
+Growth is then set to rebound in the following years.
+When an economy grows, businesses tend to invest more, create more jobs and give pay rises to workers, which leaves people feeling better off on average, though it can take time and not everyone necessarily benefits.
+Companies making higher profits also pay more in tax, which can enable the government to spend more on public services. When there is slow economic growth, or the economy shrinks, the opposite can occur.
+Inflation can weigh on growth and the OBR has forecast that prices are set to rise at a faster pace as higher energy bills filter through supply chains and to consumers, especially in 2027.
+High global oil prices have already hit drivers at the pumps, with petrol priced at almost £1.73 per litre on average, while diesel is near £1.99.
+Elevated oil prices over time can lead to prices edging upwards across a host of goods, such as food, as companies pass on the higher expenses they face to consumers.
+Goods are typically transported to destinations by lorries and vans, so high fuel prices can have far-reaching consequences.
+The OBR now thinks inflation will stay higher for longer than previously forecast, peaking at 3.8% in 2027.
+Despite the cost-of-living support announced by the government, economists at Pantheon Macroeconomics said the measures were "small beer given the surge in inflation we expect over the winter".
+High inflation paints a bleak picture when it comes to living standards and the OBR has forecast a dip next year as energy bills hit the spending power of households.
+Those on lower incomes are set to be hit harder, however, because energy costs eat up a bigger share of their monthly budget and disposable income.
+Real household disposable income, a measure of living standards, is forecast to grow from 2027, but not by as much as previously thought.
+"It's a pretty grim picture," according to the OBR's David Miles, who says there has been "virtually no growth" for individuals since before the Covid pandemic.
+"It's been a dismal period in British economic history."
+What the Budget offers for under 25s - and what it leaves out
+- Published2 hours ago
+Inflation is expected to average 3.4% next year, before falling to the Bank of England's 2% target towards the end of the decade.
+The Bank is widely expected to raise interest rates next week due to higher inflation in recent months. Rates are currently at 3.75%, but the OBR now forecasts they could rise to as high as 4.5% in the coming years.
+It had previously forecast two interest rate cuts this year.
+Higher rates makes borrowing money more expensive but can boost returns on savings.
+Inflation also raises the cost of borrowing for the government, with spending on debt interest set to rise.
+Such repayments are also predicted to increase the overall amount the government borrows, which is set to increase every year by more than had been previously forecast by the OBR.
+Higher spending on welfare and pensions due to inflation is also expected to increase borrowing, though it is forecast to fall as a share of the economy over the next five years.
+However, forecasts are only a best guess at what might happen in the future. Given the way the conflict in the Middle East has upended previous predictions, the future of the war could alter inflation expectations.
+US President Donald Trump has suggested the war will end after the mid-term elections next month.
+The OBR admitted there remained "significant uncertainty" around its predictions due to the changing situation in the Middle East.
+- Published4 hours ago`,
+    bodyJa: `What we now know about the UK economy in four charts
+- Published
+The UK may have no involvement in the US-Iran war, but the country is feeling the full force of the conflict on its economy.
+Soaring energy prices are set to dent growth in the short term, push up inflation and leave living standards in a "grim" place, according to the latest official forecast from the Office for Budget Responsibility (OBR).
+Interest rates are also predicted to rise, making borrowing more expensive, along with government debt repayments.
+Chancellor John Healey warned the nation faces "real challenges ahead" as he announced policies that he said would offer "breathing space" for households in the coming months.
+Your pay, energy bills and savings: How the Budget affects you
+- Published5 hours ago
+"What we face today are global economic storms," he said. "We can't wish them away. We must choose the course we steer through them."
+In its first assessment of the UK economy since the Middle East conflict started, the OBR said rising energy prices were the biggest risk to the economy in the near future.
+Despite raising its growth forecast for this year, it sharply cut its prediction for next year from 1.6% to 1%.
+Growth is then set to rebound in the following years.
+When an economy grows, businesses tend to invest more, create more jobs and give pay rises to workers, which leaves people feeling better off on average, though it can take time and not everyone necessarily benefits.
+Companies making higher profits also pay more in tax, which can enable the government to spend more on public services. When there is slow economic growth, or the economy shrinks, the opposite can occur.
+Inflation can weigh on growth and the OBR has forecast that prices are set to rise at a faster pace as higher energy bills filter through supply chains and to consumers, especially in 2027.
+High global oil prices have already hit drivers at the pumps, with petrol priced at almost £1.73 per litre on average, while diesel is near £1.99.
+Elevated oil prices over time can lead to prices edging upwards across a host of goods, such as food, as companies pass on the higher expenses they face to consumers.
+Goods are typically transported to destinations by lorries and vans, so high fuel prices can have far-reaching consequences.
+The OBR now thinks inflation will stay higher for longer than previously forecast, peaking at 3.8% in 2027.
+Despite the cost-of-living support announced by the government, economists at Pantheon Macroeconomics said the measures were "small beer given the surge in inflation we expect over the winter".
+High inflation paints a bleak picture when it comes to living standards and the OBR has forecast a dip next year as energy bills hit the spending power of households.
+Those on lower incomes are set to be hit harder, however, because energy costs eat up a bigger share of their monthly budget and disposable income.
+Real household disposable income, a measure of living standards, is forecast to grow from 2027, but not by as much as previously thought.
+"It's a pretty grim picture," according to the OBR's David Miles, who says there has been "virtually no growth" for individuals since before the Covid pandemic.
+"It's been a dismal period in British economic history."
+What the Budget offers for under 25s - and what it leaves out
+- Published2 hours ago
+Inflation is expected to average 3.4% next year, before falling to the Bank of England's 2% target towards the end of the decade.
+The Bank is widely expected to raise interest rates next week due to higher inflation in recent months. Rates are currently at 3.75%, but the OBR now forecasts they could rise to as high as 4.5% in the coming years.
+It had previously forecast two interest rate cuts this year.
+Higher rates makes borrowing money more expensive but can boost returns on savings.
+Inflation also raises the cost of borrowing for the government, with spending on debt interest set to rise.
+Such repayments are also predicted to increase the overall amount the government borrows, which is set to increase every year by more than had been previously forecast by the OBR.
+Higher spending on welfare and pensions due to inflation is also expected to increase borrowing, though it is forecast to fall as a share of the economy over the next five years.
+However, forecasts are only a best guess at what might happen in the future. Given the way the conflict in the Middle East has upended previous predictions, the future of the war could alter inflation expectations.
+US President Donald Trump has suggested the war will end after the mid-term elections next month.
+The OBR admitted there remained "significant uncertainty" around its predictions due to the changing situation in the Middle East.
+- Published4 hours ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-28T20:08:45+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/302d/live/da4a7910-d2ea-11f1-8d86-83eebc838351.jpg",
+    readTime: 10,
+  },
+  {
+    id: "what-the-budget-offers-for-under-25s-and-610c12f9",
+    title: "What the Budget offers for under 25s - and what it leaves out",
+    titleJa: "What the Budget offers for under 25s - and what it leaves out",
+    summaryJa: "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
+    bodyOriginal: `What the Budget offers for under 25s - and what it leaves out
+- Published
+Chancellor John Healey has announced his Budget, which includes changes to minimum wage and help for people trying to get onto the housing ladder.
+Here is how the Budget could affect you if you are under-25.
+Minimum wage rise
+If you are an 18-to-20 year-old earning the minimum wage, your pay will go up by 3.9% from next April.
+However, the increase may be lower than you had expected. That is because Healey reversed course on how his Labour predecessor, Rachel Reeves, had been increasing the minimum wage for young people.
+Labour had promised to do away with "discriminatory age bands", with all adults entitled to the same minimum wage. This year, 18-20 year-olds will see the same increase as older workers, meaning the disparity will remain. So, for 18-to-20 year-olds, your pay will rise to £11.27, while over-20s will be paid a minimum of £13.21 an hour.
+The increase also means a 21-year-old, who is working full time on the minimum wage and took out a student loan after 2023, will now earn enough to meet the £25,000 repayment threshold, over which they will start paying back 9% of their earnings.
+First-time buyer boost
+The Budget contained plans to help people get onto the housing ladder, including the introduction of a "First Time Buyer Isa". This is an account in which savers can build up a deposit, with the government topping up contributions of up to £4,000 each year with a 25% bonus.
+The new savings account will be introduced in 2029, replacing the existing Lifetime Isa, which has been criticised by some for imposing harsh penalties on those buying homes for more than the £450,000 cap.
+The cap will remain, but the new "First Time Buyer Isa" will ensure savers are not penalised by losing their own money when making withdrawals. Savers will only lose contributions made by the government when making withdrawals which are not eligible for the account.
+The penalty for withdrawals from existing Lifetime Isas will be lowered, too, to address concerns about savers being punished.
+The government had already revealed a £4.7bn scheme for first-time buyers in England dubbed Your First Home. It is aiming to help 70,000 individuals and couples get on the housing ladder
+The scheme will allow people to buy a new-build home with a deposit of 2.5%. It will provide them with a loan worth 20% of their property's value to help pay for the purchase.
+Capped at £110,000 outside London and £140,000 in the capital, it is aimed at those hoping to get on the housing ladder without help from "the bank of mum and dad".
+Young Entrepreneurs Allowance
+If you are a young person hoping to start a business in England, the Budget contained good news for you.
+The chancellor wants to level the playing field for young entrepreneurs who have bright ideas, but who might not have the same family financial backing as others.
+In an attempt to encourage more young people to start their own businesses, the government will pilot a "Young Entrepreneurs Allowance" in England.
+The allowance will see your living costs partly covered by the government for the first year your business is operating. Healey hopes it will encourage more young people to take the plunge and become entrepreneurs.
+Details of the scheme are thin at the moment, however, only that it will be rolled out "shortly".
+Chris Mason: Budget felt cautious despite its range of small measures
+- Published5 hours ago
+Your pay, energy bills and savings: How the Budget affects you
+- Published5 hours ago
+No help yet on jobs
+If you are one of more than a million 18-to-24 year-olds not in employment, education or training (Neet), Wednesday's Budget may have been a frustrating watch.
+The chancellor acknowledged the scale of the crisis facing young people, but said solutions would not come yet. Ministers are waiting on a series of recommendations from Alan Milburn, who has been looking into why so many young people are Neet in the UK.
+Milburn has warned Britain is "at risk of a lost generation" due to the crisis, saying a "round of ammunition" is needed rather than a silver bullet. He will make recommendations to the government later this year.
+Healey said he refused to write off young people during his Budget speech and the government was looking forward to Milburn's final report.
+Student loans 'under review'
+Another group left hanging were those with outstanding student loans, particularly the controversial Plan 2 loans taken out between 2012 and 2023 - which many fear they will never be able to pay off.
+If you have student loans, the government has said it is looking at ways to reform the repayment system. But action was not forthcoming at the Budget, despite expectations in the run up that the issue might be addressed.
+After the statement, Chief Secretary to the Treasury Emma Reynolds said the loan repayment system is "under review".
+"We inherited a system that is difficult and unfair on young people, but we weren't able to move on that today," she told the BBC.
+Budget 2026: Key points at a glance
+- Published5 hours ago
+Healey tells departments to make 1% cuts to fund defence
+- Published3 hours ago
+Charts by Tommy Lumby and Rob England.`,
+    bodyJa: `What the Budget offers for under 25s - and what it leaves out
+- Published
+Chancellor John Healey has announced his Budget, which includes changes to minimum wage and help for people trying to get onto the housing ladder.
+Here is how the Budget could affect you if you are under-25.
+Minimum wage rise
+If you are an 18-to-20 year-old earning the minimum wage, your pay will go up by 3.9% from next April.
+However, the increase may be lower than you had expected. That is because Healey reversed course on how his Labour predecessor, Rachel Reeves, had been increasing the minimum wage for young people.
+Labour had promised to do away with "discriminatory age bands", with all adults entitled to the same minimum wage. This year, 18-20 year-olds will see the same increase as older workers, meaning the disparity will remain. So, for 18-to-20 year-olds, your pay will rise to £11.27, while over-20s will be paid a minimum of £13.21 an hour.
+The increase also means a 21-year-old, who is working full time on the minimum wage and took out a student loan after 2023, will now earn enough to meet the £25,000 repayment threshold, over which they will start paying back 9% of their earnings.
+First-time buyer boost
+The Budget contained plans to help people get onto the housing ladder, including the introduction of a "First Time Buyer Isa". This is an account in which savers can build up a deposit, with the government topping up contributions of up to £4,000 each year with a 25% bonus.
+The new savings account will be introduced in 2029, replacing the existing Lifetime Isa, which has been criticised by some for imposing harsh penalties on those buying homes for more than the £450,000 cap.
+The cap will remain, but the new "First Time Buyer Isa" will ensure savers are not penalised by losing their own money when making withdrawals. Savers will only lose contributions made by the government when making withdrawals which are not eligible for the account.
+The penalty for withdrawals from existing Lifetime Isas will be lowered, too, to address concerns about savers being punished.
+The government had already revealed a £4.7bn scheme for first-time buyers in England dubbed Your First Home. It is aiming to help 70,000 individuals and couples get on the housing ladder
+The scheme will allow people to buy a new-build home with a deposit of 2.5%. It will provide them with a loan worth 20% of their property's value to help pay for the purchase.
+Capped at £110,000 outside London and £140,000 in the capital, it is aimed at those hoping to get on the housing ladder without help from "the bank of mum and dad".
+Young Entrepreneurs Allowance
+If you are a young person hoping to start a business in England, the Budget contained good news for you.
+The chancellor wants to level the playing field for young entrepreneurs who have bright ideas, but who might not have the same family financial backing as others.
+In an attempt to encourage more young people to start their own businesses, the government will pilot a "Young Entrepreneurs Allowance" in England.
+The allowance will see your living costs partly covered by the government for the first year your business is operating. Healey hopes it will encourage more young people to take the plunge and become entrepreneurs.
+Details of the scheme are thin at the moment, however, only that it will be rolled out "shortly".
+Chris Mason: Budget felt cautious despite its range of small measures
+- Published5 hours ago
+Your pay, energy bills and savings: How the Budget affects you
+- Published5 hours ago
+No help yet on jobs
+If you are one of more than a million 18-to-24 year-olds not in employment, education or training (Neet), Wednesday's Budget may have been a frustrating watch.
+The chancellor acknowledged the scale of the crisis facing young people, but said solutions would not come yet. Ministers are waiting on a series of recommendations from Alan Milburn, who has been looking into why so many young people are Neet in the UK.
+Milburn has warned Britain is "at risk of a lost generation" due to the crisis, saying a "round of ammunition" is needed rather than a silver bullet. He will make recommendations to the government later this year.
+Healey said he refused to write off young people during his Budget speech and the government was looking forward to Milburn's final report.
+Student loans 'under review'
+Another group left hanging were those with outstanding student loans, particularly the controversial Plan 2 loans taken out between 2012 and 2023 - which many fear they will never be able to pay off.
+If you have student loans, the government has said it is looking at ways to reform the repayment system. But action was not forthcoming at the Budget, despite expectations in the run up that the issue might be addressed.
+After the statement, Chief Secretary to the Treasury Emma Reynolds said the loan repayment system is "under review".
+"We inherited a system that is difficult and unfair on young people, but we weren't able to move on that today," she told the BBC.
+Budget 2026: Key points at a glance
+- Published5 hours ago
+Healey tells departments to make 1% cuts to fund defence
+- Published3 hours ago
+Charts by Tommy Lumby and Rob England.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-28T20:02:38+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f96e/live/0a45b830-d2de-11f1-93e1-3b657b665bcf.jpg",
+    readTime: 10,
+  },
+  {
+    id: "dharshini-david-healey-buys-himself-some-c2320242",
+    title: "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+    titleJa: "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+    summaryJa: "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
+    bodyOriginal: `Dharshini David: Healey buys himself some time, but big questions still unanswered
+- Published
+John Healey talked of charting a new course for Britain, but this Budget was more about course-correcting than charging down a new path.
+It was abundantly clear that the financial fallout from that conflict in the Middle East has hampered the finances of households and businesses – and the government's ability to help.
+While the government targeted those impacted by higher energy and fuel bills, the "breathing space" it aimed to provide was limited; it is a pill that doesn't fully alleviate the pain.
+The most telling evidence was that official forecasters predict that while earnings will rise, that is not compensating for higher prices and taxes.
+Even after the extra help is taken into account, households' incomes after inflation and tax are set to be typically lower across the next two years than the start of the parliament. On that basis, it could be the second worse parliament for living standards, after the last one, since the 1950s - a sign of how far the war has blown prosperity off course.
+But it can't be all be blamed on the war. Taxes haven't helped. Although there were few major measures aimed at households, the policy of previous chancellors of freezing the thresholds at which different rates of tax on income apply - fiscal drag - has been maintained in the background, scooping more money out of pay packets.
+Overall, this Budget has the tax burden - the proportion of the nation's income going to the tax office - rising to a new historic high of 38.6%
+However, a more generous package of help would have been hard to pull off. The impact of higher inflation and debt have increased borrowing costs by £14bn in the past year alone.
+The Chancellor had to prove to the markets which lend the government money that he has a plan to bring down future debt to avoid those costs climbing further.
+As it stands, debt interest repayments are due to be £160bn in 2032, more than double the amount spent on schools in England.
+And the plans Healey has unveiled already eat into wiggle room he has within the public finances. He says he was right to do so - that's what such safety margins are there for - in times of strife. But the great uncertainty that remains made going further very risky. Energy prices remaining high, for example, could easily chew up all the spare cash.
+So the result was what some have termed a beige, safe Budget. As Healey strove to prove his fiscally sound credentials, there wasn't even the customary rabbit pulled out of the hat, the end-of-speech sweetener.
+The markets seem reassured – even if some of his tax raising plans involve clamping down on loopholes and those not paying the right tax, which is always highly uncertain.
+Budget 2026: Key points at a glance
+- Published5 hours ago
+Your pay, energy bills and savings: How the Budget affects you
+- Published5 hours ago
+So the chancellor appears to have bought himself some breathing space. But that means some big questions have been postponed until another day, not least on public services.
+Higher-than-expected inflation may mean that if areas such as health and defence are prioritised, budgets for some other "unprotected" areas – justice and higher education for example – are set to lag behind inflation after 2028.
+There was a hint too from John Healey that he'd tap into some of those budgets to help out defence spending. To maintain those budgets in 2030 would means finding tens of billions of pounds.
+And issues around the other big area of spending – welfare – remain unresolved. Between 2025 and 2032, spending there is set to increase by £100bn.
+The official forecasters also noted the rapid rise in sickness and disability caseloads since the start of the pandemic. They warn if that trend continued, spending on such benefits would rise by a further £13bn.
+Any suggestion of welfare reform has been postponed until the forthcoming review into the plight of workless young people.
+Then there's the issue of boosting growth. There was a bit more detail on the plans for devolution – but there is much to be fleshed out.
+And on another key part of the growth strategy, housebuilding, there was disappointing news. Even though first-time buyers are set to get more help, their first home may be more elusive.
+Between regulation and higher costs – in part, related to the war - the OBR estimates that 190,000 fewer homes will be built by 2032 compared to what it thought in March, a significant setback.
+So the chancellor may have unveiled 98 (relatively small) measures but the to-do list gets longer.
+With his official forecasters warning that, in a very uncertain world, his finances face exceptional risks, playing a wait-and-see game feels like a prudent move.
+The risks go both ways: the OBR points out that a swift resolution to the war and an improvement in the economy could spell a significant boost to the public finances.
+So the chancellor has more reason than most to keep his fingers crossed that happens rapidly.
+For as it stands, the official forecasters say incomes after inflation, living standards, are set to be only 1% higher at the end of the decade than at the start.
+A series of economic shocks outside out control could thwart plans to turbo-boost prosperity . And as today shows, breathing space only extends so far.`,
+    bodyJa: `Dharshini David: Healey buys himself some time, but big questions still unanswered
+- Published
+John Healey talked of charting a new course for Britain, but this Budget was more about course-correcting than charging down a new path.
+It was abundantly clear that the financial fallout from that conflict in the Middle East has hampered the finances of households and businesses – and the government's ability to help.
+While the government targeted those impacted by higher energy and fuel bills, the "breathing space" it aimed to provide was limited; it is a pill that doesn't fully alleviate the pain.
+The most telling evidence was that official forecasters predict that while earnings will rise, that is not compensating for higher prices and taxes.
+Even after the extra help is taken into account, households' incomes after inflation and tax are set to be typically lower across the next two years than the start of the parliament. On that basis, it could be the second worse parliament for living standards, after the last one, since the 1950s - a sign of how far the war has blown prosperity off course.
+But it can't be all be blamed on the war. Taxes haven't helped. Although there were few major measures aimed at households, the policy of previous chancellors of freezing the thresholds at which different rates of tax on income apply - fiscal drag - has been maintained in the background, scooping more money out of pay packets.
+Overall, this Budget has the tax burden - the proportion of the nation's income going to the tax office - rising to a new historic high of 38.6%
+However, a more generous package of help would have been hard to pull off. The impact of higher inflation and debt have increased borrowing costs by £14bn in the past year alone.
+The Chancellor had to prove to the markets which lend the government money that he has a plan to bring down future debt to avoid those costs climbing further.
+As it stands, debt interest repayments are due to be £160bn in 2032, more than double the amount spent on schools in England.
+And the plans Healey has unveiled already eat into wiggle room he has within the public finances. He says he was right to do so - that's what such safety margins are there for - in times of strife. But the great uncertainty that remains made going further very risky. Energy prices remaining high, for example, could easily chew up all the spare cash.
+So the result was what some have termed a beige, safe Budget. As Healey strove to prove his fiscally sound credentials, there wasn't even the customary rabbit pulled out of the hat, the end-of-speech sweetener.
+The markets seem reassured – even if some of his tax raising plans involve clamping down on loopholes and those not paying the right tax, which is always highly uncertain.
+Budget 2026: Key points at a glance
+- Published5 hours ago
+Your pay, energy bills and savings: How the Budget affects you
+- Published5 hours ago
+So the chancellor appears to have bought himself some breathing space. But that means some big questions have been postponed until another day, not least on public services.
+Higher-than-expected inflation may mean that if areas such as health and defence are prioritised, budgets for some other "unprotected" areas – justice and higher education for example – are set to lag behind inflation after 2028.
+There was a hint too from John Healey that he'd tap into some of those budgets to help out defence spending. To maintain those budgets in 2030 would means finding tens of billions of pounds.
+And issues around the other big area of spending – welfare – remain unresolved. Between 2025 and 2032, spending there is set to increase by £100bn.
+The official forecasters also noted the rapid rise in sickness and disability caseloads since the start of the pandemic. They warn if that trend continued, spending on such benefits would rise by a further £13bn.
+Any suggestion of welfare reform has been postponed until the forthcoming review into the plight of workless young people.
+Then there's the issue of boosting growth. There was a bit more detail on the plans for devolution – but there is much to be fleshed out.
+And on another key part of the growth strategy, housebuilding, there was disappointing news. Even though first-time buyers are set to get more help, their first home may be more elusive.
+Between regulation and higher costs – in part, related to the war - the OBR estimates that 190,000 fewer homes will be built by 2032 compared to what it thought in March, a significant setback.
+So the chancellor may have unveiled 98 (relatively small) measures but the to-do list gets longer.
+With his official forecasters warning that, in a very uncertain world, his finances face exceptional risks, playing a wait-and-see game feels like a prudent move.
+The risks go both ways: the OBR points out that a swift resolution to the war and an improvement in the economy could spell a significant boost to the public finances.
+So the chancellor has more reason than most to keep his fingers crossed that happens rapidly.
+For as it stands, the official forecasters say incomes after inflation, living standards, are set to be only 1% higher at the end of the decade than at the start.
+A series of economic shocks outside out control could thwart plans to turbo-boost prosperity . And as today shows, breathing space only extends so far.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-28T19:51:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/426f/live/d5d2d7e0-d21f-11f1-b8e4-17c9744a7f8e.jpg",
+    readTime: 10,
+  },
+  {
+    id: "healey-unveils-100-for-energy-bills-and-a80a6dfc",
+    title: "Healey unveils £100 for energy bills and bank tax in first Budget",
+    titleJa: "Healey unveils £100 for energy bills and bank tax in first Budget",
+    summaryJa: "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+    bodyOriginal: `Healey unveils £100 for energy bills and bank tax in first Budget
+- Published
+Millions of households will get £100 to help with soaring energy bills to be paid for by a tax on bank profits, John Healey has announced in his first Budget.
+The chancellor said he wanted to give hard-pressed families "breathing space now" and "hope for the future" as the UK economy is battered by "global economic storms".
+He also unveiled tax breaks to boost high street businesses - but confirmed that many big decisions, including on defence spending and welfare, will not be made until next year.
+Conservative leader Kemi Badenoch said Healey's plans were "not bold enough" and the government was "overspent, overborrowed, overtaxed and drowning in an out-of-control welfare system".
+In an hour-long speech to a packed House of Commons, with Prime Minister Andy Burnham and other frontbench colleagues cheering him on, the chancellor unveiled a string of measures aimed at cutting the cost of living.
+These include:
+One-off £100 energy payment for people living in council tax bands A to D in England, with Wales saying it will match the payment and the Scottish government planning to "replicate" it
+Gas standing charges in England, Scotland and Wales, to be scrapped during 2027 "or as soon as possible after". These fixed daily fees will be shifted onto the price of each unit of energy, meaning heavy gas users will face higher bills
+Extending the 5p "temporary" cut in fuel duty on petrol and diesel to July
+Increasing minimum wage rates by 3.9% in April, although there will be no progress on narrowing the gap between rates for older and younger workers
+Healey increased the tax on the profits of big banks from 3% to 6%, which will last from January next year to April 2028, and increased taxes on high-stakes gambling machines.
+Budget 2026: Key points at a glance
+- Published5 hours ago
+Your pay, energy bills and savings: How the Budget affects you
+- Published5 hours ago
+Chris Mason: Budget felt cautious despite its range of small measures
+- Published5 hours ago
+As part of a package to help business, Healey increased the point at which High Street shops in England start paying business rates from £12,000 to £18,000, with vape shops and adult gaming centres excluded from the relief.
+But he had little scope for big giveaways as the public finances remain stretched, with the UK set to spend £14bn more on debt interest payments this year.
+Income tax thresholds will remain frozen and the tax on income from savings and property rental will rise to 24% for basic rate taxpayers from April 2027, after it had been scheduled to go up to 22%.
+But a cut to the cash ISA allowance from £20,000 a year to £12,000, announced last year by Healey's predecessor Rachel Reeves, will be axed.
+The Office for Budget Responsibility (OBR) downgraded its growth forecast for next year to 1%, with slightly higher increases predicted for subsequent years.
+In its latest assessment, the OBR said British households were set to be little better off than before the Covid pandemic even a decade after Covid-19 hit, a situation the watchdog's boss David Miles described as "pretty grim".
+In his Budget speech, Healey repeatedly stressed that the UK economy was being battered by "global uncertainties" and soaring oil prices caused by conflict in the Middle East.
+"Those are the storms we face. We can't wish them away. We must choose the course we steer through them," he told MPs.
+Healey also used his speech to announce plans to allow regional mayors to keep 20% of business rates and a share of income tax to spend on local priorities.
+The aim was to allow mayors to retain 100% of business rates raised in their areas by the end of the decade, he added, in "the most radical act of devolution in a generation".
+And he sought to address opposition claims the Labour government is unwilling to cut benefits, insisting that both he and Burnham were committed to bringing down the welfare bill in a "Labour way".
+But he said no decisions would be taken until reviews by Alan Milburn, into young people not in work or training, and Stephen Timms, on Personal Independence Payments, had been published, with legislation to follow next year.
+The £4.7bn black hole in the defence investment plan will be funded, the chancellor revealed, in part through taking money from capital budgets across Whitehall.
+Healey said he will set out how the government plans to meet its commitment to spend 3% of the national income on defence by 2030, and 3.5% by 2035, at next year's spending review.
+But Badenoch said he "should have set out a plan for 3% today," highlighting his claim when he resigned as Sir Keir Starmer's defence secretary in June that UK forces were at risk due to a lack of cash.
+"So now he is the man who is increasing risk to personnel on operations, he is the man who is making our country less safe, he has failed his own test," the Conservative leader said.
+"This is on him and no-one will ever forget. If he had any decency he would resign again today."
+The Tory leader said that with the UK heading for a record tax burden and "spending more on debt interest than on the army and schools combined", Healey's Budget was "not good enough, not strong enough, not bold enough".
+Helen Miller, director of the Institute for Fiscal Studies, said the Budget "has a raft of fiddly measures but very little that will move the dial on growth".
+Lib Dem leader Sir Ed Davey said that until the government has "the courage" to fix the UK's trading relationship with the EU any Budget will just be "tinkering around the edges" and will not provide the growth the country needs.
+Reform UK leader Nigel Farage said the Budget was full of "little giveaways" but "doesn't overall do very much" and did not offer "anything of any value on defence whatsoever".
+Healey also faced criticism from the left, with the general secretary of the Unite union, Sharon Graham describing the cost of living measures in the Budget as "baby steps".
+"Scrapping standing charges on gas and a £100 energy payment for households in council tax bands, A to D, whilst welcome, will not touch the sides, when many forecasts show bills set to jump over £400 in January," she added.
+Green Party leader Zack Polanski said it was a Budget "that betrays the future for young people and the planet they inherit".
+He added: "The chancellor didn't mention climate once but praised bankers repeatedly."
+Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
+    bodyJa: `Healey unveils £100 for energy bills and bank tax in first Budget
+- Published
+Millions of households will get £100 to help with soaring energy bills to be paid for by a tax on bank profits, John Healey has announced in his first Budget.
+The chancellor said he wanted to give hard-pressed families "breathing space now" and "hope for the future" as the UK economy is battered by "global economic storms".
+He also unveiled tax breaks to boost high street businesses - but confirmed that many big decisions, including on defence spending and welfare, will not be made until next year.
+Conservative leader Kemi Badenoch said Healey's plans were "not bold enough" and the government was "overspent, overborrowed, overtaxed and drowning in an out-of-control welfare system".
+In an hour-long speech to a packed House of Commons, with Prime Minister Andy Burnham and other frontbench colleagues cheering him on, the chancellor unveiled a string of measures aimed at cutting the cost of living.
+These include:
+One-off £100 energy payment for people living in council tax bands A to D in England, with Wales saying it will match the payment and the Scottish government planning to "replicate" it
+Gas standing charges in England, Scotland and Wales, to be scrapped during 2027 "or as soon as possible after". These fixed daily fees will be shifted onto the price of each unit of energy, meaning heavy gas users will face higher bills
+Extending the 5p "temporary" cut in fuel duty on petrol and diesel to July
+Increasing minimum wage rates by 3.9% in April, although there will be no progress on narrowing the gap between rates for older and younger workers
+Healey increased the tax on the profits of big banks from 3% to 6%, which will last from January next year to April 2028, and increased taxes on high-stakes gambling machines.
+Budget 2026: Key points at a glance
+- Published5 hours ago
+Your pay, energy bills and savings: How the Budget affects you
+- Published5 hours ago
+Chris Mason: Budget felt cautious despite its range of small measures
+- Published5 hours ago
+As part of a package to help business, Healey increased the point at which High Street shops in England start paying business rates from £12,000 to £18,000, with vape shops and adult gaming centres excluded from the relief.
+But he had little scope for big giveaways as the public finances remain stretched, with the UK set to spend £14bn more on debt interest payments this year.
+Income tax thresholds will remain frozen and the tax on income from savings and property rental will rise to 24% for basic rate taxpayers from April 2027, after it had been scheduled to go up to 22%.
+But a cut to the cash ISA allowance from £20,000 a year to £12,000, announced last year by Healey's predecessor Rachel Reeves, will be axed.
+The Office for Budget Responsibility (OBR) downgraded its growth forecast for next year to 1%, with slightly higher increases predicted for subsequent years.
+In its latest assessment, the OBR said British households were set to be little better off than before the Covid pandemic even a decade after Covid-19 hit, a situation the watchdog's boss David Miles described as "pretty grim".
+In his Budget speech, Healey repeatedly stressed that the UK economy was being battered by "global uncertainties" and soaring oil prices caused by conflict in the Middle East.
+"Those are the storms we face. We can't wish them away. We must choose the course we steer through them," he told MPs.
+Healey also used his speech to announce plans to allow regional mayors to keep 20% of business rates and a share of income tax to spend on local priorities.
+The aim was to allow mayors to retain 100% of business rates raised in their areas by the end of the decade, he added, in "the most radical act of devolution in a generation".
+And he sought to address opposition claims the Labour government is unwilling to cut benefits, insisting that both he and Burnham were committed to bringing down the welfare bill in a "Labour way".
+But he said no decisions would be taken until reviews by Alan Milburn, into young people not in work or training, and Stephen Timms, on Personal Independence Payments, had been published, with legislation to follow next year.
+The £4.7bn black hole in the defence investment plan will be funded, the chancellor revealed, in part through taking money from capital budgets across Whitehall.
+Healey said he will set out how the government plans to meet its commitment to spend 3% of the national income on defence by 2030, and 3.5% by 2035, at next year's spending review.
+But Badenoch said he "should have set out a plan for 3% today," highlighting his claim when he resigned as Sir Keir Starmer's defence secretary in June that UK forces were at risk due to a lack of cash.
+"So now he is the man who is increasing risk to personnel on operations, he is the man who is making our country less safe, he has failed his own test," the Conservative leader said.
+"This is on him and no-one will ever forget. If he had any decency he would resign again today."
+The Tory leader said that with the UK heading for a record tax burden and "spending more on debt interest than on the army and schools combined", Healey's Budget was "not good enough, not strong enough, not bold enough".
+Helen Miller, director of the Institute for Fiscal Studies, said the Budget "has a raft of fiddly measures but very little that will move the dial on growth".
+Lib Dem leader Sir Ed Davey said that until the government has "the courage" to fix the UK's trading relationship with the EU any Budget will just be "tinkering around the edges" and will not provide the growth the country needs.
+Reform UK leader Nigel Farage said the Budget was full of "little giveaways" but "doesn't overall do very much" and did not offer "anything of any value on defence whatsoever".
+Healey also faced criticism from the left, with the general secretary of the Unite union, Sharon Graham describing the cost of living measures in the Budget as "baby steps".
+"Scrapping standing charges on gas and a £100 energy payment for households in council tax bands, A to D, whilst welcome, will not touch the sides, when many forecasts show bills set to jump over £400 in January," she added.
+Green Party leader Zack Polanski said it was a Budget "that betrays the future for young people and the planet they inherit".
+He added: "The chancellor didn't mention climate once but praised bankers repeatedly."
+Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-28T18:45:09+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab01/live/ce128db0-d2fc-11f1-a701-fddedf244c16.jpg",
+    readTime: 10,
+  },
+  {
+    id: "will-i-get-the-100-energy-payment-and-wh-e2c0cb64",
+    title: "Will I get the £100 energy payment and when will I receive it?",
+    titleJa: "Will I get the £100 energy payment and when will I receive it?",
+    summaryJa: "Here is what you need to know about the payment that millions will receive from January.",
+    bodyOriginal: `Will I get the £100 energy payment and when will I receive it?
+- Published
+Up to 20 million households in England will get a £100 payment to help with their energy bills this winter, Chancellor John Healey has announced in his Budget.
+Here's what you need to know about the payment.
+How much is it?
+For many people, the £100 on offer is a lot of money, but it's worth considering the context.
+A typical yearly energy bill is forecast to jump by £276 in January, according to consultants Cornwall Insight.
+And some more recent forecasts suggest a typical annual bill could rise by £400 or so to £2,100 in January.
+Therefore many people will still feel worse off despite the payment.
+Will I get the payment? And how can I check?
+Those living in properties which are in council tax bands A to D in England will get the payment, the government has said.
+As such, it's worth checking which council tax band your home is in, external. If you live in England, you can use the search function by typing your postcode into the box.
+If you get a paper council tax bill, your band will also be printed on there.
+Will I get it if I live in Scotland, Wales or Northern Ireland?
+The chancellor said the policy was for England but that funding would be given to Scotland, Wales and Northern Ireland to make the payment as well.
+He urged the devolved governments to follow suit to "give people of all nations in the UK breathing space on their energy bills this winter".
+The Welsh government has said that it will also make a £100 cost-of-living payment to all households in council tax bands A to D.
+The Scottish government said it would "seek to replicate" the £100 energy payment.
+Meanwhile, the Northern Irish government does not have the legal authority to make the £100 payments unless it agrees its budget, which it has failed to do since the start of this financial year.
+Your pay, energy bills and savings: How the Budget affects you
+- Published5 hours ago
+How do I get the money? Will I get it if I'm a student or don't pay council tax?
+If you pay your council tax by direct debit, the money will be paid directly into the bank account that you use to pay it, from the start of January.
+Students living in halls will not get the payment because student halls are not in council tax bands A to D.
+However, if you're a student living in a property that is in council tax bands A to D, as in a private home or flat let out by a landlord, then you will get the payment.
+Students do not pay council tax so the local authority will be responsible for finding a way of giving them the payments.
+This is also the case for those who do not pay council tax because of another kind of exemption, or if you do pay council tax but you do it by cash or some other way.
+The government said it would give councils guidance on how local authorities should do this in due course.
+Do I have to spend the money on my energy bill?
+The government has said the support is to help households with the cost of energy.
+But the money will appear directly in people's bank accounts. As such, people could choose to spend it on something else.
+How is the government funding this payment?
+The chancellor said the money for the £100 cash payments is coming from a tax rise on banks.
+The surcharge on banks' corporation tax will rise from 3% to 6% for 15 months from 1 January 2027 to 31 March 2028.
+- Published5 hours ago`,
+    bodyJa: `Will I get the £100 energy payment and when will I receive it?
+- Published
+Up to 20 million households in England will get a £100 payment to help with their energy bills this winter, Chancellor John Healey has announced in his Budget.
+Here's what you need to know about the payment.
+How much is it?
+For many people, the £100 on offer is a lot of money, but it's worth considering the context.
+A typical yearly energy bill is forecast to jump by £276 in January, according to consultants Cornwall Insight.
+And some more recent forecasts suggest a typical annual bill could rise by £400 or so to £2,100 in January.
+Therefore many people will still feel worse off despite the payment.
+Will I get the payment? And how can I check?
+Those living in properties which are in council tax bands A to D in England will get the payment, the government has said.
+As such, it's worth checking which council tax band your home is in, external. If you live in England, you can use the search function by typing your postcode into the box.
+If you get a paper council tax bill, your band will also be printed on there.
+Will I get it if I live in Scotland, Wales or Northern Ireland?
+The chancellor said the policy was for England but that funding would be given to Scotland, Wales and Northern Ireland to make the payment as well.
+He urged the devolved governments to follow suit to "give people of all nations in the UK breathing space on their energy bills this winter".
+The Welsh government has said that it will also make a £100 cost-of-living payment to all households in council tax bands A to D.
+The Scottish government said it would "seek to replicate" the £100 energy payment.
+Meanwhile, the Northern Irish government does not have the legal authority to make the £100 payments unless it agrees its budget, which it has failed to do since the start of this financial year.
+Your pay, energy bills and savings: How the Budget affects you
+- Published5 hours ago
+How do I get the money? Will I get it if I'm a student or don't pay council tax?
+If you pay your council tax by direct debit, the money will be paid directly into the bank account that you use to pay it, from the start of January.
+Students living in halls will not get the payment because student halls are not in council tax bands A to D.
+However, if you're a student living in a property that is in council tax bands A to D, as in a private home or flat let out by a landlord, then you will get the payment.
+Students do not pay council tax so the local authority will be responsible for finding a way of giving them the payments.
+This is also the case for those who do not pay council tax because of another kind of exemption, or if you do pay council tax but you do it by cash or some other way.
+The government said it would give councils guidance on how local authorities should do this in due course.
+Do I have to spend the money on my energy bill?
+The government has said the support is to help households with the cost of energy.
+But the money will appear directly in people's bank accounts. As such, people could choose to spend it on something else.
+How is the government funding this payment?
+The chancellor said the money for the £100 cash payments is coming from a tax rise on banks.
+The surcharge on banks' corporation tax will rise from 3% to 6% for 15 months from 1 January 2027 to 31 March 2028.
+- Published5 hours ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-28T17:47:37+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06e/live/66b0c920-d2ed-11f1-8d86-83eebc838351.jpg",
+    readTime: 8,
+  },
+  {
+    id: "your-pay-energy-bills-and-savings-how-th-d2638f43",
+    title: "Your pay, energy bills and savings: How the Budget affects you",
+    titleJa: "Your pay, energy bills and savings: How the Budget affects you",
+    summaryJa: "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
+    bodyOriginal: `Your pay, energy bills and savings: How the Budget affects you
+- Published
+Families facing cost-of-living pressures are being offered some help, or "breathing space" as Chancellor John Healey is calling it.
+The help comes as prices are rising faster than expected with annual energy bills in particular likely to increase by hundreds of pounds in January.
+Here's how the key announcements in the Budget affect you and your money.
+Energy bills
+If you are living in a home in council tax bands A to D in England, you will receive a one-off £100 "Household Energy Payment" from January, funded by extra tax on banks.
+It will be paid directly into your bank account.
+Council tax bands are listed below - you can check which one you are in by looking at your annual bill or checking the government's website, external, although that was struggling to cope with traffic after the announcement.
+Administrations in Scotland, Wales and Northern Ireland will receive the equivalent funding, and they will decide whether to introduce the same payment.
+This is designed to help with soaring energy bills, with some forecasts suggesting a typical annual bill could rise by £400 or so to £2,100 in January the saving will be only a portion of that. Although it's designated for energy bills, you can spend the money on anything you wish.
+The VAT cut on electricity bills, which was introduced in October, will also be extended to July. It was due to end in April.
+Budget 2026: Key points at a glance
+- Published5 hours ago
+Gas standing charges
+The fee for connecting to your gas supply so called standing charges will be scrapped in England, Scotland and Wales, next year "or as soon as possible after", the chancellor said.
+These fixed daily charges will then be shifted onto the price you pay for each unit of energy.
+The Treasury calculates that 60% of households will save an average of £45 a year, with lower users gaining the most. But the saving will come after the projected big rise in bills in January.
+Higher users - in the biggest houses but also large, low-income families - will pay more than they currently do.
+The government wants to extend reforms to electricity standing charges later.
+Fuel duty
+The 5p "temporary" cut in fuel duty on petrol and diesel, introduced by Rishi Sunak in 2022, will be extended to July. It was scheduled to be phased out from January.
+It means drivers will still pay the levy at 52.95p per litre.
+Motor fuel prices have risen sharply owing to the continued impact of the Iran war on drivers, with diesel having recently hit new records when it moved above £2 per litre.
+The cost of filling a typical family car with diesel has gone up by around £30 since late February. A tankful of petrol costs about £23 more.
+Changes to cash Isa scrapped
+The chancellor has scrapped his predecessor's plans to reduce the annual amount people can save tax-free in cash in Individual Savings Accounts (Isas).
+Rachel Reeves had wanted the policy to encourage personal investment in stocks and shares.
+It meant, from April 2027, if you're under 65, you would only be able to save £12,000 a year in cash in an Isa, rather than £20,000.
+But that plan has now been ditched.
+Instead, the government plans to create a new "Starter Isa" for first-time investors.
+More tax for some savers and landlords
+If you have a large amount in savings, or if you fail to use the tax-free Isa allowance, then you will pay more tax from April.
+You do not pay tax on all savings. There is the annual £20,000 Isa allowance, and an annual savings income allowance (in other words, the interest received on a savings pot) of £1,000 for basic rate taxpayers and £500 for higher-rate taxpayers.
+But beyond that savings tax rates will rise by four percentage points to 24% and 44% respectively from April.
+Landlords could also pay more in tax. In analysis published on Wednesday, the Office for Budget Responsibility (OBR) said these steps along with measures over the past decade that have reduced private landlord returns "collectively risk leading to a steady rise in rents".
+Minimum wage rise but you'll pay more tax
+Minimum wage rates will rise by 3.9% in April. It means:
+Eligible workers aged 21 and over on the National Living Wage will receive £13.21 an hour, up from £12.71
+If you are aged 18, 19 or 20, the National Minimum Wage will increase to £11.27 an hour, up from £10.85
+For those aged 16 or 17, the minimum wage will rise to £8.31 an hour, up from £8
+The separate apprentice rate which applies to eligible people under 19 - or those over 19 in the first year of an apprenticeship – will also increase to £8.31 an hour, from £8
+However, these figures mean, this time around, there's no progress on Labour's manifesto promise to narrow the gap in minimum wages between older and younger workers.
+For all workers, the ongoing freeze in the income bands, or thresholds, at which income tax is paid went unmentioned in the Budget.
+But it means any kind of pay rise could drag you into a higher tax bracket, or see a greater proportion of your income taxed than would otherwise be expected. Scotland has its own income tax bands.
+How much is the minimum wage going up by?
+- Published7 hours ago
+State pension changes
+The triple lock policy means that the state pension will go up in line with average wage increases, at 3.9%.
+It means:
+the flat-rate state pension for those who reached state pension age after April 2016 will be £250.70 a week, or £13,036.40 a year, up £488 on now
+the old basic state pension for those who reached state pension age before April 2016 will be £192.10 a week, or £9,989.20 a year, up £374.40 on now
+The government had already committed to not taxing people who only get an income from the state pension.
+The chancellor said this would be the case until at least 2030, as there will be a new Pension Tax Allowance, so pensioners with an income up to the value of the full new state pension will not pay income tax.
+First-time buyers
+The First Time Buyer Isa has been in the planning stages with the government for a while.
+Healey has confirmed that it is intended to replace the often-criticised Lifetime Isa.
+The penalty for withdrawing savings from a Lifetime Isa if you are buying a home above the £450,000 threshold will be scrapped.
+Separately, he confirmed the Your First Home equity scheme to allow first-time buyers in England to buy a new-build home with a deposit of 2.5%. It would provide them with a loan worth 20% of their property's value to help pay for the purchase.
+Student loans
+The government has made no changes to student loan rates - saying only that it is being "kept under review".
+There has been some backlash after the previous chancellor froze the repayment threshold for Plan 2 student loans, which were given out for just over a decade in England from 2012.
+It means the salary at which borrowers start paying back their loans is due to stay at £29,385 in April and remain there for three years – so graduates start repaying sooner and repay more each month than they would otherwise have done.
+What else will affect your money?
+Some announcements affecting your finances have already been made by the government.
+They include:
+Tariffs removed from 100 food items such as baked beans and garlic, which the government calculates could save households up to £21 per year - or 40p a week - when combined with existing tariff suspensions that were introduced in June
+Allowing carers to earn more than an existing earnings limit without losing their entire allowance, replacing it with a taper mechanism instead. However, this will not come in until 2030
+Giving two weeks of paternity pay to self-employed fathers, who have previously missed out on payments of up to £194 a week for the period
+Making permanent a 55p per mile tax-free mileage rate for those driving up to 10,000 miles for work, with the rate rising from 25p per mile to 35p above that
+The prime minister's plan to reinstate the £2 cap on bus fares in England from January to be in effect throughout 2027. Some cities already have caps, and funding is being given to the devolved nations`,
+    bodyJa: `Your pay, energy bills and savings: How the Budget affects you
+- Published
+Families facing cost-of-living pressures are being offered some help, or "breathing space" as Chancellor John Healey is calling it.
+The help comes as prices are rising faster than expected with annual energy bills in particular likely to increase by hundreds of pounds in January.
+Here's how the key announcements in the Budget affect you and your money.
+Energy bills
+If you are living in a home in council tax bands A to D in England, you will receive a one-off £100 "Household Energy Payment" from January, funded by extra tax on banks.
+It will be paid directly into your bank account.
+Council tax bands are listed below - you can check which one you are in by looking at your annual bill or checking the government's website, external, although that was struggling to cope with traffic after the announcement.
+Administrations in Scotland, Wales and Northern Ireland will receive the equivalent funding, and they will decide whether to introduce the same payment.
+This is designed to help with soaring energy bills, with some forecasts suggesting a typical annual bill could rise by £400 or so to £2,100 in January the saving will be only a portion of that. Although it's designated for energy bills, you can spend the money on anything you wish.
+The VAT cut on electricity bills, which was introduced in October, will also be extended to July. It was due to end in April.
+Budget 2026: Key points at a glance
+- Published5 hours ago
+Gas standing charges
+The fee for connecting to your gas supply so called standing charges will be scrapped in England, Scotland and Wales, next year "or as soon as possible after", the chancellor said.
+These fixed daily charges will then be shifted onto the price you pay for each unit of energy.
+The Treasury calculates that 60% of households will save an average of £45 a year, with lower users gaining the most. But the saving will come after the projected big rise in bills in January.
+Higher users - in the biggest houses but also large, low-income families - will pay more than they currently do.
+The government wants to extend reforms to electricity standing charges later.
+Fuel duty
+The 5p "temporary" cut in fuel duty on petrol and diesel, introduced by Rishi Sunak in 2022, will be extended to July. It was scheduled to be phased out from January.
+It means drivers will still pay the levy at 52.95p per litre.
+Motor fuel prices have risen sharply owing to the continued impact of the Iran war on drivers, with diesel having recently hit new records when it moved above £2 per litre.
+The cost of filling a typical family car with diesel has gone up by around £30 since late February. A tankful of petrol costs about £23 more.
+Changes to cash Isa scrapped
+The chancellor has scrapped his predecessor's plans to reduce the annual amount people can save tax-free in cash in Individual Savings Accounts (Isas).
+Rachel Reeves had wanted the policy to encourage personal investment in stocks and shares.
+It meant, from April 2027, if you're under 65, you would only be able to save £12,000 a year in cash in an Isa, rather than £20,000.
+But that plan has now been ditched.
+Instead, the government plans to create a new "Starter Isa" for first-time investors.
+More tax for some savers and landlords
+If you have a large amount in savings, or if you fail to use the tax-free Isa allowance, then you will pay more tax from April.
+You do not pay tax on all savings. There is the annual £20,000 Isa allowance, and an annual savings income allowance (in other words, the interest received on a savings pot) of £1,000 for basic rate taxpayers and £500 for higher-rate taxpayers.
+But beyond that savings tax rates will rise by four percentage points to 24% and 44% respectively from April.
+Landlords could also pay more in tax. In analysis published on Wednesday, the Office for Budget Responsibility (OBR) said these steps along with measures over the past decade that have reduced private landlord returns "collectively risk leading to a steady rise in rents".
+Minimum wage rise but you'll pay more tax
+Minimum wage rates will rise by 3.9% in April. It means:
+Eligible workers aged 21 and over on the National Living Wage will receive £13.21 an hour, up from £12.71
+If you are aged 18, 19 or 20, the National Minimum Wage will increase to £11.27 an hour, up from £10.85
+For those aged 16 or 17, the minimum wage will rise to £8.31 an hour, up from £8
+The separate apprentice rate which applies to eligible people under 19 - or those over 19 in the first year of an apprenticeship – will also increase to £8.31 an hour, from £8
+However, these figures mean, this time around, there's no progress on Labour's manifesto promise to narrow the gap in minimum wages between older and younger workers.
+For all workers, the ongoing freeze in the income bands, or thresholds, at which income tax is paid went unmentioned in the Budget.
+But it means any kind of pay rise could drag you into a higher tax bracket, or see a greater proportion of your income taxed than would otherwise be expected. Scotland has its own income tax bands.
+How much is the minimum wage going up by?
+- Published7 hours ago
+State pension changes
+The triple lock policy means that the state pension will go up in line with average wage increases, at 3.9%.
+It means:
+the flat-rate state pension for those who reached state pension age after April 2016 will be £250.70 a week, or £13,036.40 a year, up £488 on now
+the old basic state pension for those who reached state pension age before April 2016 will be £192.10 a week, or £9,989.20 a year, up £374.40 on now
+The government had already committed to not taxing people who only get an income from the state pension.
+The chancellor said this would be the case until at least 2030, as there will be a new Pension Tax Allowance, so pensioners with an income up to the value of the full new state pension will not pay income tax.
+First-time buyers
+The First Time Buyer Isa has been in the planning stages with the government for a while.
+Healey has confirmed that it is intended to replace the often-criticised Lifetime Isa.
+The penalty for withdrawing savings from a Lifetime Isa if you are buying a home above the £450,000 threshold will be scrapped.
+Separately, he confirmed the Your First Home equity scheme to allow first-time buyers in England to buy a new-build home with a deposit of 2.5%. It would provide them with a loan worth 20% of their property's value to help pay for the purchase.
+Student loans
+The government has made no changes to student loan rates - saying only that it is being "kept under review".
+There has been some backlash after the previous chancellor froze the repayment threshold for Plan 2 student loans, which were given out for just over a decade in England from 2012.
+It means the salary at which borrowers start paying back their loans is due to stay at £29,385 in April and remain there for three years – so graduates start repaying sooner and repay more each month than they would otherwise have done.
+What else will affect your money?
+Some announcements affecting your finances have already been made by the government.
+They include:
+Tariffs removed from 100 food items such as baked beans and garlic, which the government calculates could save households up to £21 per year - or 40p a week - when combined with existing tariff suspensions that were introduced in June
+Allowing carers to earn more than an existing earnings limit without losing their entire allowance, replacing it with a taper mechanism instead. However, this will not come in until 2030
+Giving two weeks of paternity pay to self-employed fathers, who have previously missed out on payments of up to £194 a week for the period
+Making permanent a 55p per mile tax-free mileage rate for those driving up to 10,000 miles for work, with the rate rising from 25p per mile to 35p above that
+The prime minister's plan to reinstate the £2 cap on bus fares in England from January to be in effect throughout 2027. Some cities already have caps, and funding is being given to the devolved nations`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-28T16:43:35+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5846/live/65892820-d2e4-11f1-8d3a-ef62f316044e.jpg",
+    readTime: 10,
+  },
+  {
     id: "google-alters-its-cloud-playbook-enlisti-832c99b5",
     title: "Google alters its cloud playbook, enlisting partners to sell more AI chips",
     titleJa: "Google alters its cloud playbook, enlisting partners to sell more AI chips",
@@ -1383,580 +2107,6 @@ WATCH: Tenacity’s Ben Narasin: Anthropic could price IPO near $2 trillion`,
     category: "テクノロジー",
     imageUrl: "https://images.mktw.net/im-89277748",
     readTime: 2,
-  },
-  {
-    id: "boeing-narrows-third-quarter-loss-as-def-c08ccc9a",
-    title: "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production",
-    titleJa: "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production",
-    summaryJa: "Boeing is set to brief investors on its aircraft production outlook when it reports quarterly results before the market opens Tuesday.",
-    bodyOriginal: `Boeing narrowed its loss in the third quarter after defense sales rose, but CEO Kelly Ortberg told staff that the manufacturer has "more work to do."
-Here's what Boeing reported for the third quarter compared with what Wall Street analysts are expected, according to consensus estimates from LSEG:
-- Loss per share: 34 cents adjusted vs. a loss of 21 cents expected
-- Revenue: $24.19 billion expected vs $23.84 billion expected.
-For the three months ended Sept. 30, Boeing reported a net loss of $116 million, or 26 cents a share, compared with a $5.34 billion loss, or $7.14 per share, a year earlier. Adjusting for one-time items, the company reported a loss of 34 cents a share. A year earlier, Boeing had taken a nearly $5 billion charge on its long-delayed 777X aircraft program.
-Revenue climbed 4% on the year to $24.19 billion. Free cash flow rose to $464 million from $238 million in the third quarter of 2025.
-The company's defense unit revenue rose 15% in the third quarter from a year earlier to $7.94 billion.
-Boeing delivered 161 commercial airplanes in the third quarter, one more jet than a year earlier.
-Revenue in the all-important commercial aircraft business fell 3% to $10.72 billion. The unit had a negative operating margin of 6.5% because of a "less favorable delivery mix, higher projected costs associated with future production rate adjustments and higher estimated supply chain costs," Boeing said.
-The plane manufacturer's executives are set to update investors on how quickly it can increase aircraft production in the coming months when it holds a quarterly earnings call on Tuesday at 10:30 a.m. ET.
-Boeing has been producing about 47 of its 737 Max planes a month, but is aiming for more. CEO Kelly Ortberg told investors last month that production is taking "a little bit longer" than expected to stabilize, and the company expects to increase its output of the planes next year.
-"Looking ahead, expectations are rising, and they should," Ortberg said in a note to staff on Tuesday. "That means elevating our performance through lean, productivity and efficiency improvements in our day-to-day work while upholding our high levels of safety and quality."
-Aircraft production and deliveries are key to Boeing's recovery since the bulk of an aircraft's price is paid when the customer receives it.
-But the manufacturer had some wins lately. The U.S. Navy tapped Boeing to develop its next-generation fighter jet.
-And the Federal Aviation Administration last week signed off on the 737 Max 10, the largest in the Max family. That followed the approval of the 737 Max 7 in August and marked the final certifications for the aircraft line.`,
-    bodyJa: `Boeing narrowed its loss in the third quarter after defense sales rose, but CEO Kelly Ortberg told staff that the manufacturer has "more work to do."
-Here's what Boeing reported for the third quarter compared with what Wall Street analysts are expected, according to consensus estimates from LSEG:
-- Loss per share: 34 cents adjusted vs. a loss of 21 cents expected
-- Revenue: $24.19 billion expected vs $23.84 billion expected.
-For the three months ended Sept. 30, Boeing reported a net loss of $116 million, or 26 cents a share, compared with a $5.34 billion loss, or $7.14 per share, a year earlier. Adjusting for one-time items, the company reported a loss of 34 cents a share. A year earlier, Boeing had taken a nearly $5 billion charge on its long-delayed 777X aircraft program.
-Revenue climbed 4% on the year to $24.19 billion. Free cash flow rose to $464 million from $238 million in the third quarter of 2025.
-The company's defense unit revenue rose 15% in the third quarter from a year earlier to $7.94 billion.
-Boeing delivered 161 commercial airplanes in the third quarter, one more jet than a year earlier.
-Revenue in the all-important commercial aircraft business fell 3% to $10.72 billion. The unit had a negative operating margin of 6.5% because of a "less favorable delivery mix, higher projected costs associated with future production rate adjustments and higher estimated supply chain costs," Boeing said.
-The plane manufacturer's executives are set to update investors on how quickly it can increase aircraft production in the coming months when it holds a quarterly earnings call on Tuesday at 10:30 a.m. ET.
-Boeing has been producing about 47 of its 737 Max planes a month, but is aiming for more. CEO Kelly Ortberg told investors last month that production is taking "a little bit longer" than expected to stabilize, and the company expects to increase its output of the planes next year.
-"Looking ahead, expectations are rising, and they should," Ortberg said in a note to staff on Tuesday. "That means elevating our performance through lean, productivity and efficiency improvements in our day-to-day work while upholding our high levels of safety and quality."
-Aircraft production and deliveries are key to Boeing's recovery since the bulk of an aircraft's price is paid when the customer receives it.
-But the manufacturer had some wins lately. The U.S. Navy tapped Boeing to develop its next-generation fighter jet.
-And the Federal Aviation Administration last week signed off on the 737 Max 10, the largest in the Max family. That followed the approval of the 737 Max 7 in August and marked the final certifications for the aircraft line.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html",
-    publishedAt: "2026-10-27T11:44:43+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "coca-cola-hikes-earnings-outlook-even-as-3f8487df",
-    title: "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
-    titleJa: "Coca-Cola hikes earnings outlook, even as it sees lackluster demand in North America",
-    summaryJa: "Coca-Cola stock has climbed about 32% so far this year, raising the beverage company's market cap to roughly $398 billion.",
-    bodyOriginal: `Coca-Cola on Tuesday raised its full-year outlook for the third straight quarter, despite lackluster demand in its home market.
-For the full year, Coke now expects comparable earnings per share to grow at least 11%, up from its prior forecast of an increase in the range of 9% to 10%. The beverage giant also anticipates that its organic revenue will climb at least 5%, a slight increase from its previous outlook of approximately 5% growth.
-Shares of the company rose about 1% in premarket trading.
-Here's what the company reported compared with what Wall Street analysts surveyed by LSEG were expecting:
-- Earnings per share: 91 cents adjusted vs. 88 cents expected
-- Revenue: $13.4 billion vs. $12.92 billion expected
-Coke reported third-quarter net income attributable to shareholders of $4.01 billion, or 93 cents per share, up from $3.7 billion, or 86 cents per share, a year earlier.
-Excluding transaction gains and other items, Coke earned 91 cents per share.
-Net sales rose 7% to $13.4 billion. Coke's organic revenue, which strips out acquisitions, divestitures and foreign currency, also rose 7% in the quarter.
-The company's unit case volume increased 5%, helped by higher demand outside of North America. Coke's home market reported flat volume.
-In recent quarters, Coke executives have said North American shoppers are under pressure, stretched thin by inflation and economic uncertainty. But the beverage giant has also said consumers are still buying its drinks, from premium brands like Fairlife to its namesake soda.
-Globally, Coke's sparkling soft drinks business saw volume increase 5% during the quarter, lifted by growth of Coke, Coke Zero Sugar and Diet Coke.
-Coke's water, sports, coffee and tea division also saw volume climb by 5%. Increased demand for its water, which includes its premium Smartwater brand, fueled the growth. Demand for its tea and coffee was flat, while sports drinks declined.
-The company's juice, value-added dairy and plant-based beverages business reported flat volume, despite growth in brands like Fairlife and Minute Maid.`,
-    bodyJa: `Coca-Cola on Tuesday raised its full-year outlook for the third straight quarter, despite lackluster demand in its home market.
-For the full year, Coke now expects comparable earnings per share to grow at least 11%, up from its prior forecast of an increase in the range of 9% to 10%. The beverage giant also anticipates that its organic revenue will climb at least 5%, a slight increase from its previous outlook of approximately 5% growth.
-Shares of the company rose about 1% in premarket trading.
-Here's what the company reported compared with what Wall Street analysts surveyed by LSEG were expecting:
-- Earnings per share: 91 cents adjusted vs. 88 cents expected
-- Revenue: $13.4 billion vs. $12.92 billion expected
-Coke reported third-quarter net income attributable to shareholders of $4.01 billion, or 93 cents per share, up from $3.7 billion, or 86 cents per share, a year earlier.
-Excluding transaction gains and other items, Coke earned 91 cents per share.
-Net sales rose 7% to $13.4 billion. Coke's organic revenue, which strips out acquisitions, divestitures and foreign currency, also rose 7% in the quarter.
-The company's unit case volume increased 5%, helped by higher demand outside of North America. Coke's home market reported flat volume.
-In recent quarters, Coke executives have said North American shoppers are under pressure, stretched thin by inflation and economic uncertainty. But the beverage giant has also said consumers are still buying its drinks, from premium brands like Fairlife to its namesake soda.
-Globally, Coke's sparkling soft drinks business saw volume increase 5% during the quarter, lifted by growth of Coke, Coke Zero Sugar and Diet Coke.
-Coke's water, sports, coffee and tea division also saw volume climb by 5%. Increased demand for its water, which includes its premium Smartwater brand, fueled the growth. Demand for its tea and coffee was flat, while sports drinks declined.
-The company's juice, value-added dairy and plant-based beverages business reported flat volume, despite growth in brands like Fairlife and Minute Maid.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/27/coca-cola-ko-q3-2026-earnings.html",
-    publishedAt: "2026-10-27T11:20:18+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "fed-expected-to-hold-rates-steady-but-wa-0fe99684",
-    title: "Fed expected to hold rates steady, but Warsh may point way to more hikes",
-    titleJa: "Fed expected to hold rates steady, but Warsh may point way to more hikes",
-    summaryJa: "Markets overwhelmingly expect no change in benchmark interest rates following September's  increase.",
-    bodyOriginal: `Federal Reserve officials enter this week's policy meeting amid a critical debate over what the centraL bank can, should and will do to address an inflation problem that shows no immediate sign of going away.
-When the rate-setting Federal Open Market Committee does release its decision Wednesday, markets overwhelmingly expect no change in benchmark interest rates following September's quarter percentage point rate increase.
-Investors will be looking closely, though, for clues about future moves from policymakers, and Chairman Kevin Warsh in particular.
-Brett Ryan, senior U.S. economist at Deutsche Bank, said he'll be watching what Warsh will signal about future policy moves — something the Fed chairman has said he is highly reluctant to do as he seeks to move the Fed away from the "forward guidance" practice of most of the 21st century.
-The chairman "is likely to signal that recent inflation data reinforce expectations from the September meeting that further tightening will likely be needed over time," Ryan wrote in a note to clients. "However, skipping October allows officials more time to assess trends in the data."
-Inflation heats up
-Recent inflation data has offered little respite from the price pressures that intensified earlier this year.
-The consumer price index, a widely cited inflation barometer, showed the annual rate at 3.7% in September, driven largely by soaring energy prices. Even stripping out volatile gas and groceries costs, core CPI pointed to a 2.6% rate — still well above the Fed's 2% mandate and heading in the wrong direction after climbing 0.3 percentage points from August.
-At the same time, recent economic data has shown the housing market struggling further under the pressure of mortgage rates above 7%. The labor market, meanwhile, has settled into a low-fire low-hire pattern where layoffs are around their lowest levels since the late 1960s while people out of work struggle to find jobs.
-Calibrating policy under current conditions is complicated by Warsh's push for a more mercurial Fed that avoids signaling where policy is heading, preferring for markets to take their own signals from incoming data.
-A pause this month could give the Fed more time to assess what impact the prior rate hike had on the economy and financial conditions. However, signaling tighter policy could put more strain on the housing and labor markets. Warsh and his colleagues must show they are prepared to contain inflation while avoiding a premature commitment to how far or how fast rates will rise.
-Essentially, the Fed can use its interest rate to influence inflation. It almost certainly will hold off doing so as it evaluates current conditions. Markets and economists, though, are at odds over what it should do.
-'Material execution risk'
-The chance of a mistake under those circumstances is significant, according to Krishna Guha, head of economics and central bank strategy at Evercore ISI.
-"It ought to be possible for Warsh – who is alert to market risks even though he professes not to like mollycoddling investors – to show a calming steady hand," Guha said Monday in a note. "But there is material execution risk."
-For instance, the Fed's lack of detail on how it sees the risks to its dual mandate of low inflation and full employment as well as how it views both the pace and tightening of monetary policy poses substantial challenges.
-While inflation data has been hot, the unemployment rate has been fairly steady.
-The Fed also weighs financial conditions when figuring policy. The Chicago Fed's index of financial conditions has shown a slight tightening since the September hike, a product of stock market volatility, among other factors.
-Recent chatter out of key Fed officials, such as Vice Chair Philip Jefferson and New York Fed President John Williams, points to the likelihood of hikes at every other meeting. But how far the Fed will need to go remains a mystery.
-Guha interprets remarks Warsh gave to the World Bank and International Monetary Foundation in Bangkok recently as aligning "with the central view" on the FOMC. In practice, that's a Fed moving "at a deliberative and methodical baseline pace of once per quarter without prejudice to what it learns along the way and how far it might ultimately have to go and whether at some point later down the line it might need to speed up."
-"If inflation continues to disappoint and/or growth momentum fails to moderate, the Fed will add more hikes," he added.
-Uncertainty ahead
-Trading in the fed funds futures market points to about a 10% chance that the FOMC will raise rates this week, but a better than 80% probability of an increase in December, according to the CME Group's FedWatch tool. The market sees the likelihood of another hike in March 2027, then about a 50-50 chance of a final move before the end of next year.
-To be sure, there's considerable debate among economists on whether the Fed should be tightening policy at all. Citigroup economists, for instance, think easing inflation data in the months ahead will give the Fed reason to stay on hold and perhaps begin cutting next year, though the firm is forecasting a hike this December.
-Mohamed El-Erian, chief economic advisor at Allianz, said he expects further increases but believes that's a mistake as they will hurt vulnerable areas such as housing and worsen economic disparities.
-"My sense is that the market is right in saying that they'll do nothing. [Warsh] will have to package it in quite a hawkish language because the [inflation] data all [have] come hotter than expected," El-Erian said Monday on CNBC's "Squawk Box." "My problem is that it's the wrong policy measure right now."
-The solution to worries about inflation and higher Treasury yields should be "fiscal containment, not monetary tightening," he added.
-"But we're going to get monetary tightening, and it's going to be what I call the one minus 'X' problem. 'X' is tech; it won't be impacted that much," El-Erian said. "It's going to be the rest of the economy: housing, consumer car loans, consumer loans. That's what's going to be hit."`,
-    bodyJa: `Federal Reserve officials enter this week's policy meeting amid a critical debate over what the centraL bank can, should and will do to address an inflation problem that shows no immediate sign of going away.
-When the rate-setting Federal Open Market Committee does release its decision Wednesday, markets overwhelmingly expect no change in benchmark interest rates following September's quarter percentage point rate increase.
-Investors will be looking closely, though, for clues about future moves from policymakers, and Chairman Kevin Warsh in particular.
-Brett Ryan, senior U.S. economist at Deutsche Bank, said he'll be watching what Warsh will signal about future policy moves — something the Fed chairman has said he is highly reluctant to do as he seeks to move the Fed away from the "forward guidance" practice of most of the 21st century.
-The chairman "is likely to signal that recent inflation data reinforce expectations from the September meeting that further tightening will likely be needed over time," Ryan wrote in a note to clients. "However, skipping October allows officials more time to assess trends in the data."
-Inflation heats up
-Recent inflation data has offered little respite from the price pressures that intensified earlier this year.
-The consumer price index, a widely cited inflation barometer, showed the annual rate at 3.7% in September, driven largely by soaring energy prices. Even stripping out volatile gas and groceries costs, core CPI pointed to a 2.6% rate — still well above the Fed's 2% mandate and heading in the wrong direction after climbing 0.3 percentage points from August.
-At the same time, recent economic data has shown the housing market struggling further under the pressure of mortgage rates above 7%. The labor market, meanwhile, has settled into a low-fire low-hire pattern where layoffs are around their lowest levels since the late 1960s while people out of work struggle to find jobs.
-Calibrating policy under current conditions is complicated by Warsh's push for a more mercurial Fed that avoids signaling where policy is heading, preferring for markets to take their own signals from incoming data.
-A pause this month could give the Fed more time to assess what impact the prior rate hike had on the economy and financial conditions. However, signaling tighter policy could put more strain on the housing and labor markets. Warsh and his colleagues must show they are prepared to contain inflation while avoiding a premature commitment to how far or how fast rates will rise.
-Essentially, the Fed can use its interest rate to influence inflation. It almost certainly will hold off doing so as it evaluates current conditions. Markets and economists, though, are at odds over what it should do.
-'Material execution risk'
-The chance of a mistake under those circumstances is significant, according to Krishna Guha, head of economics and central bank strategy at Evercore ISI.
-"It ought to be possible for Warsh – who is alert to market risks even though he professes not to like mollycoddling investors – to show a calming steady hand," Guha said Monday in a note. "But there is material execution risk."
-For instance, the Fed's lack of detail on how it sees the risks to its dual mandate of low inflation and full employment as well as how it views both the pace and tightening of monetary policy poses substantial challenges.
-While inflation data has been hot, the unemployment rate has been fairly steady.
-The Fed also weighs financial conditions when figuring policy. The Chicago Fed's index of financial conditions has shown a slight tightening since the September hike, a product of stock market volatility, among other factors.
-Recent chatter out of key Fed officials, such as Vice Chair Philip Jefferson and New York Fed President John Williams, points to the likelihood of hikes at every other meeting. But how far the Fed will need to go remains a mystery.
-Guha interprets remarks Warsh gave to the World Bank and International Monetary Foundation in Bangkok recently as aligning "with the central view" on the FOMC. In practice, that's a Fed moving "at a deliberative and methodical baseline pace of once per quarter without prejudice to what it learns along the way and how far it might ultimately have to go and whether at some point later down the line it might need to speed up."
-"If inflation continues to disappoint and/or growth momentum fails to moderate, the Fed will add more hikes," he added.
-Uncertainty ahead
-Trading in the fed funds futures market points to about a 10% chance that the FOMC will raise rates this week, but a better than 80% probability of an increase in December, according to the CME Group's FedWatch tool. The market sees the likelihood of another hike in March 2027, then about a 50-50 chance of a final move before the end of next year.
-To be sure, there's considerable debate among economists on whether the Fed should be tightening policy at all. Citigroup economists, for instance, think easing inflation data in the months ahead will give the Fed reason to stay on hold and perhaps begin cutting next year, though the firm is forecasting a hike this December.
-Mohamed El-Erian, chief economic advisor at Allianz, said he expects further increases but believes that's a mistake as they will hurt vulnerable areas such as housing and worsen economic disparities.
-"My sense is that the market is right in saying that they'll do nothing. [Warsh] will have to package it in quite a hawkish language because the [inflation] data all [have] come hotter than expected," El-Erian said Monday on CNBC's "Squawk Box." "My problem is that it's the wrong policy measure right now."
-The solution to worries about inflation and higher Treasury yields should be "fiscal containment, not monetary tightening," he added.
-"But we're going to get monetary tightening, and it's going to be what I call the one minus 'X' problem. 'X' is tech; it won't be impacted that much," El-Erian said. "It's going to be the rest of the economy: housing, consumer car loans, consumer loans. That's what's going to be hit."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html",
-    publishedAt: "2026-10-27T11:06:22+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "anthropic-s-ipo-is-risky-business-4d33ff38",
-    title: "Anthropic's IPO is risky business",
-    titleJa: "Anthropic's IPO is risky business",
-    summaryJa: "Anthropic's much-anticipated IPO is giving potential investors some perspective on the risky business of artificial intelligence.",
-    bodyOriginal: `Anthropic's much-anticipated initial public offering is giving potential investors some perspective on the risky business of artificial intelligence.
-More than 90 pages of Anthropic's IPO prospectus, revealed Monday, center on the AI lab's multitude of corporate risk factors, many of which go beyond the kinds of boilerplate scenarios typically found in corporate filings.
-From the end of humanity to the company's current clash with the Trump administration, Anthropic's IPO document underscores how one of the most well-capitalized startups in history foresees the future of its operations.
-Anthropic's IPO gets existential
-The Claude maker's risks include a laundry list of ways its models can cause harm, including potentially "catastrophic or existential risks to humanity."
-It's imperative for Anthropic to emphasize AI safety because failure to do so could adversely affect its "brand, business, financial condition, and results of operations," the filing said. But fierce competition, market pressure and stakeholder expectations make the task of safely developing and implementing bleeding-edge foundation models particularly challenging.
-Anthropic can't guarantee that its AI safety efforts will be adequate, as the technology's inherent complexity makes it difficult for the company to plan for and predict every potential scenario.
-Feeling the data center heat
-The public's souring position on data centers poses a major risk for Anthropic, which relies on an ever-expanding portfolio of state-of-the-art computing facilities to train and maintain its prized foundation models.
-And with the midterm elections approaching, the tech industry's massive data center buildout has turned political, with lawmakers in 16 states considering moratoriums, according to the National Conference of State Legislatures.
-"Opposition to data center development has also become more organized and coordinated across jurisdictions and our public profile may draw particular attention to projects associated with us," the filing said.
-Power problems
-Anthropic's future success depends not only on building giant data centers, but also on the electrical and related power infrastructure needed to juice those computing facilities.
-The lack of "sufficient electrical power" across the nation and world poses big risks to Anthropic and its rivals, the filing notes. Even if energy becomes more readily available through "on-site natural gas-fired generation," that power could become more expensive with so much demand, the filing said.
-The kids are not alright
-Rivals like OpenAI and Meta have come under fire from lawmakers and plaintiffs' attorneys over allegations that the design and implementation of their AI models and apps have fostered certain child-safety-related harms. Meta recently agreed to pay roughly $17 billion in a settlement with multiple state AGs in litigation involving child mental health and technology addiction.
-Thus far, Anthropic has largely avoided scrutiny, but the filing noted that the company could potentially face its own legal headaches. Based on its terms of service, minors aren't allowed to access Claude and related products.
-Anthropic knows it has work to do protecting children "as adoption of our models grows, including by minors and other vulnerable users, notwithstanding our efforts to restrict such access."
-No slowpokes
-The company calling to pace the frontier also says it's a risk to move too slowly.
-Anthropic needs to keep racing and needs the rest of the business world to keep up. If companies curb their AI spending, Anthropic could feel the burn.
-"If the market for our models, platform, and applications develops more slowly than we expect or declines, our growth may slow or stall, and our business, financial condition, and results of operations could be adversely affected," the filing says.
-The prospectus also cites reduced demand for frontier models as a risk. Customers might find that lower-cost models work fine for them and that "incremental performance gains at the frontier do not justify the additional cost," instead choosing cheaper, or open-source alternatives.
-WATCH: Anthropic IPO filing shows what's happening on demand side of AI trade.`,
-    bodyJa: `Anthropic's much-anticipated initial public offering is giving potential investors some perspective on the risky business of artificial intelligence.
-More than 90 pages of Anthropic's IPO prospectus, revealed Monday, center on the AI lab's multitude of corporate risk factors, many of which go beyond the kinds of boilerplate scenarios typically found in corporate filings.
-From the end of humanity to the company's current clash with the Trump administration, Anthropic's IPO document underscores how one of the most well-capitalized startups in history foresees the future of its operations.
-Anthropic's IPO gets existential
-The Claude maker's risks include a laundry list of ways its models can cause harm, including potentially "catastrophic or existential risks to humanity."
-It's imperative for Anthropic to emphasize AI safety because failure to do so could adversely affect its "brand, business, financial condition, and results of operations," the filing said. But fierce competition, market pressure and stakeholder expectations make the task of safely developing and implementing bleeding-edge foundation models particularly challenging.
-Anthropic can't guarantee that its AI safety efforts will be adequate, as the technology's inherent complexity makes it difficult for the company to plan for and predict every potential scenario.
-Feeling the data center heat
-The public's souring position on data centers poses a major risk for Anthropic, which relies on an ever-expanding portfolio of state-of-the-art computing facilities to train and maintain its prized foundation models.
-And with the midterm elections approaching, the tech industry's massive data center buildout has turned political, with lawmakers in 16 states considering moratoriums, according to the National Conference of State Legislatures.
-"Opposition to data center development has also become more organized and coordinated across jurisdictions and our public profile may draw particular attention to projects associated with us," the filing said.
-Power problems
-Anthropic's future success depends not only on building giant data centers, but also on the electrical and related power infrastructure needed to juice those computing facilities.
-The lack of "sufficient electrical power" across the nation and world poses big risks to Anthropic and its rivals, the filing notes. Even if energy becomes more readily available through "on-site natural gas-fired generation," that power could become more expensive with so much demand, the filing said.
-The kids are not alright
-Rivals like OpenAI and Meta have come under fire from lawmakers and plaintiffs' attorneys over allegations that the design and implementation of their AI models and apps have fostered certain child-safety-related harms. Meta recently agreed to pay roughly $17 billion in a settlement with multiple state AGs in litigation involving child mental health and technology addiction.
-Thus far, Anthropic has largely avoided scrutiny, but the filing noted that the company could potentially face its own legal headaches. Based on its terms of service, minors aren't allowed to access Claude and related products.
-Anthropic knows it has work to do protecting children "as adoption of our models grows, including by minors and other vulnerable users, notwithstanding our efforts to restrict such access."
-No slowpokes
-The company calling to pace the frontier also says it's a risk to move too slowly.
-Anthropic needs to keep racing and needs the rest of the business world to keep up. If companies curb their AI spending, Anthropic could feel the burn.
-"If the market for our models, platform, and applications develops more slowly than we expect or declines, our growth may slow or stall, and our business, financial condition, and results of operations could be adversely affected," the filing says.
-The prospectus also cites reduced demand for frontier models as a risk. Customers might find that lower-cost models work fine for them and that "incremental performance gains at the frontier do not justify the additional cost," instead choosing cheaper, or open-source alternatives.
-WATCH: Anthropic IPO filing shows what's happening on demand side of AI trade.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html",
-    publishedAt: "2026-10-27T11:00:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "a-canary-in-the-coal-mine-measles-resurg-2a7f1f86",
-    title: "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
-    titleJa: "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
-    summaryJa: "The measles resurgence exposes the U.S.' public health weaknesses, such as declining vaccination rates and waning trust in health institutions, experts say.",
-    bodyOriginal: `For nearly two years, the U.S. has had to swallow an uncomfortable reality: A highly infectious disease it once eliminated is spreading again.
-More than 4,400 measles cases and at least three deaths have been reported nationwide this year, marking the country's worst outbreak in more than three decades. The spike followed nearly 2,300 cases in 2025. But many public health experts argue that the return of measles isn't the only concerning development — it's also what the resurgence signals about America that's causing alarm.
-Measles is often described as one of the most contagious viruses, and it is uniquely unforgiving of weaknesses in public health defenses. A safe and highly effective vaccine has existed for decades.
-But the virus's spread exposes declining vaccination rates, eroding trust in health institutions and growing challenges in persuading people to protect themselves, their children and their communities, experts said.
-Together, those vulnerabilities have made measles a revealing test of the country's public health defenses. For some experts, the resurgence of a disease the U.S. eliminated more than two decades ago is a warning sign of its ability to contain future threats, from other vaccine-preventable diseases to emerging pathogens.
-"Measles is the canary in the coal mine for so many different reasons," said Jennifer Nuzzo, an epidemiology professor and director of the Pandemic Center at Brown University School of Public Health. "It's the canary in the coal mine for other vaccine-preventable illnesses, where we could see a return of things that used to harm kids, but also for very acute, no-notice dangerous infectious disease emergencies."
-The U.S. is on track to lose its official measles elimination status during an upcoming review by the Pan American Health Organization, which will meet in Washington, D.C., in mid-November.
-"It says a lot about a country if it is unable to control measles," said Nuzzo, who is one of 10 experts CNBC spoke with about the ongoing outbreak and its implications.
-Pockets of vulnerability
-The U.S. has the tools to prevent measles from spreading. But pockets of low vaccination coverage are leaving the country vulnerable.
-The measles, mumps and rubella, or MMR, vaccine is about 97% effective against measles after two doses, while a single dose is 93% effective, according to the Centers for Disease Control and Prevention. Yet data aggregated by the CDC shows that vaccination coverage for that shot among U.S. kindergarteners fell to 92.4% in the 2025-2026 school year, which is below the 95% threshold public health officials generally recommend to prevent sustained transmission.
-That translates to 280,000 kindergarteners who did not complete their MMR vaccination series, according to the CDC. Childhood vaccination exemptions in the U.S. also reached a record high 4.2% for incoming kindergartners during the 2025-2026 school year, up from 3.6% the previous year, the agency says.
-"The bottom line is that not enough people are vaccinating their kids," said Brown's Nuzzo.
-While some cases stem from international travel, much of the recent spread has been driven by local transmission in "too many" communities where vaccination coverage falls below 95%, she added.
-Among states across the U.S. collecting MMR vaccine data, 67% of counties and jurisdictions now have immunization rates below 95%, according to a September investigation by NBC News.
-Recent U.S. outbreaks have often occurred in "closely knit communities" where people have frequent contact and low vaccination coverage, said Dr. William Moss, an epidemiology professor at Johns Hopkins Bloomberg School of Public Health.
-But declining vaccination rates do not mean most Americans have turned against immunization. Polling suggests broad support for childhood vaccines. A July KFF survey found that many Americans sit in a more uncertain middle ground about the shots, leaving room for conflicting information to influence their decisions.
-"This is not an edge-case issue," Nuzzo said, adding that the vast majority of parents still vaccinate their children.
-Even if outbreaks are concentrated in a minority of communities, it can create a "dangerous situation" far from those areas, she said. Infants too young to be vaccinated and people who cannot receive immunizations for medical reasons can be particularly vulnerable when the virus spreads into communities with high vaccination rates.
-Those risks come as the Trump administration reshapes federal vaccine policy.
-President Donald Trump signed an executive order in August suggesting that the combined MMR vaccine be split into separate shots, while repeating false claims about its safety. Health and Human Services Secretary Robert F. Kennedy Jr. has also overhauled a key federal advisory committee responsible for recommending childhood immunizations, though the changes are frozen amid ongoing litigation.
-Several experts told CNBC that such moves risk further eroding confidence in vaccines and weakening efforts to protect children.
-Public health infrastructure was also "really decimated by Covid," and the CDC in particular lost many experienced scientists and physicians "who had spent their lives working on vaccine-preventable diseases," said Scott Weaver, a virologist who is the research director of Galveston National Laboratory.
-He added that the CDC, as of September, is also no longer immediately incorporating state-reported "measles-associated" deaths into its national published tally, making it harder to track outbreaks in real time. The agency lists three measles-related deaths in 2026, but Pennsylvania has reported at least five deaths.
-"We have folks in federal health leadership right now that are throwing gasoline on the fire, and that is not helping the situation," said Jess Steier, a public health scientist and founder and CEO of Unbiased Science, an organization that aims to make complex scientific concepts understandable.
-Consequences beyond current outbreaks
-If the U.S. fails to materially improve vaccination rates, the measles resurgence could extend beyond ongoing outbreaks.
-At "current" state-level vaccination rates, measles could become endemic again in the U.S., resulting in an estimated 851,300 cases over 25 years, according to a large-scale epidemiological model published in JAMA in April 2025 by researchers at Stanford and other institutions. Under that scenario, the model predicts the measles cases could lead to 170,200 hospitalizations and 2,550 deaths over that period.
-The model, which simulated infectious disease spread in the U.S. at various childhood vaccination levels, relies on immunization data from 2004 to 2023 for that baseline scenario.
-Michael Osterholm, an epidemiologist and the director of the Center for Infectious Disease Research and Policy at the University of Minnesota, said he views the measles situation in Canada as a direct warning for the U.S.
-Canada lost its official measles elimination status in November after a multi-province outbreak that generated more than 5,400 cases across 10 jurisdictions in 2025. Canada has a population of more than 40 million people.
-"We have a population of 350 million. If you extrapolate, if we had the very same experience that Canada had over the next year or two, that would be up to 50,000 cases of measles in the U.S.," Osterholm said. "I think that's a potential future we have to be mindful of."
-Other vaccine-preventable diseases
-An even larger measles outbreak isn't the only potential problem.
-Vaccination coverage for other childhood diseases has similarly declined. The share of U.S. kindergartners vaccinated against polio fell to 92.4% in the 2025-2026 school year, while coverage for diphtheria, tetanus and acellular pertussis, or DTaP, dropped to 92%, according to CDC data.
-The U.S. has already seen a sharp rise in pertussis, or whooping cough. U.S. reported cases reached roughly 43,300 in 2024 and nearly 28,000 in 2025, up substantially from pandemic-era levels, according to the CDC. Brown's Nuzzo said the resurgence reflects, in part, fewer people getting vaccinated and the fact that protection from the pertussis vaccine wanes over time.
-The simulation model published in JAMA also examined how falling childhood immunization rates could affect the future spread of several diseases previously eliminated from the U.S. through vaccines. Under current vaccination levels, the researchers found that diseases including rubella and polio were unlikely to become endemic in the U.S.
-But in a hypothetical scenario in which childhood vaccination rates fell by 50%, the model projected 9.9 million cases of rubella, 4.3 million cases of polio and 197 cases of diphtheria over 25 years.
-Rubella can cause devastating complications when an infection during pregnancy passes to a developing fetus, while polio can cause paralysis and death, said Dr. Nathan Lo, assistant professor of infectious diseases at Stanford Medicine.
-The projections are not predictions that these outbreaks will occur, but they illustrate how much risks could grow if vaccination coverage deteriorates.
-"What vaccines often buy you is not just the protection, but also less uncertainty," said Mathew Kiang, an assistant professor of epidemiology and population health at Stanford Medicine who also worked on the simulation model. "I think even more frightening is just the really wide uncertainty that we just wouldn't be sure of what could happen."
-Preparing for the next threat
-The measles resurgence is also raising questions about how effective the U.S. can be at detecting and responding to emerging public health threats before they spread.
-"Public health is all about prevention," said Dr. Manisha Juthani, president of the Association of State and Territorial Health Officials and commissioner of the Connecticut Department of Public Health. She said the country must maintain its ability to detect threats, invest in surveillance, and recognize that infectious diseases do not respect national borders.
-Those capabilities are crucial for curbing emerging pathogens, especially when scientists initially know little about how a new disease spreads, how severe it is or how to treat it. A pathogen could spread before vaccines or treatments are available, making early detection, clear public communication and coordination especially important.
-Other experts argue that weaknesses in those capabilities could also have implications for the country's defenses against deliberate biological attacks.
-In an April 2025 op-ed, Steph Batalis, a research fellow at Georgetown University's Center for Security and Emerging Technology, argued that the measles outbreak exposed a broader vulnerability in the U.S.' biodefense strategy and, specifically, a weakened ability to deter potential biological attacks.
-She argued that the country's struggle to contain a known, vaccine-preventable disease "might only embolden those who see our public health vulnerabilities as an opportunity."
-But Osterholm, who works extensively on bioterrorism, said low MMR immunization rates and rising measles cases do not necessarily indicate that Americans would refuse a vaccine or antibiotic during a biological emergency. The shots and drugs used to counter biological threats can differ from those routinely administered to the public, he said, and the prospect of a severe outbreak could prompt urgency among the public to seek protection.
-That point highlights an important limitation: The measles resurgence by itself does not establish whether the U.S. could withstand entirely different or novel public health threats.
-But as a disease the U.S. knows how to prevent spreads, experts say the stakes of addressing those vulnerabilities extend to whatever might come next.`,
-    bodyJa: `For nearly two years, the U.S. has had to swallow an uncomfortable reality: A highly infectious disease it once eliminated is spreading again.
-More than 4,400 measles cases and at least three deaths have been reported nationwide this year, marking the country's worst outbreak in more than three decades. The spike followed nearly 2,300 cases in 2025. But many public health experts argue that the return of measles isn't the only concerning development — it's also what the resurgence signals about America that's causing alarm.
-Measles is often described as one of the most contagious viruses, and it is uniquely unforgiving of weaknesses in public health defenses. A safe and highly effective vaccine has existed for decades.
-But the virus's spread exposes declining vaccination rates, eroding trust in health institutions and growing challenges in persuading people to protect themselves, their children and their communities, experts said.
-Together, those vulnerabilities have made measles a revealing test of the country's public health defenses. For some experts, the resurgence of a disease the U.S. eliminated more than two decades ago is a warning sign of its ability to contain future threats, from other vaccine-preventable diseases to emerging pathogens.
-"Measles is the canary in the coal mine for so many different reasons," said Jennifer Nuzzo, an epidemiology professor and director of the Pandemic Center at Brown University School of Public Health. "It's the canary in the coal mine for other vaccine-preventable illnesses, where we could see a return of things that used to harm kids, but also for very acute, no-notice dangerous infectious disease emergencies."
-The U.S. is on track to lose its official measles elimination status during an upcoming review by the Pan American Health Organization, which will meet in Washington, D.C., in mid-November.
-"It says a lot about a country if it is unable to control measles," said Nuzzo, who is one of 10 experts CNBC spoke with about the ongoing outbreak and its implications.
-Pockets of vulnerability
-The U.S. has the tools to prevent measles from spreading. But pockets of low vaccination coverage are leaving the country vulnerable.
-The measles, mumps and rubella, or MMR, vaccine is about 97% effective against measles after two doses, while a single dose is 93% effective, according to the Centers for Disease Control and Prevention. Yet data aggregated by the CDC shows that vaccination coverage for that shot among U.S. kindergarteners fell to 92.4% in the 2025-2026 school year, which is below the 95% threshold public health officials generally recommend to prevent sustained transmission.
-That translates to 280,000 kindergarteners who did not complete their MMR vaccination series, according to the CDC. Childhood vaccination exemptions in the U.S. also reached a record high 4.2% for incoming kindergartners during the 2025-2026 school year, up from 3.6% the previous year, the agency says.
-"The bottom line is that not enough people are vaccinating their kids," said Brown's Nuzzo.
-While some cases stem from international travel, much of the recent spread has been driven by local transmission in "too many" communities where vaccination coverage falls below 95%, she added.
-Among states across the U.S. collecting MMR vaccine data, 67% of counties and jurisdictions now have immunization rates below 95%, according to a September investigation by NBC News.
-Recent U.S. outbreaks have often occurred in "closely knit communities" where people have frequent contact and low vaccination coverage, said Dr. William Moss, an epidemiology professor at Johns Hopkins Bloomberg School of Public Health.
-But declining vaccination rates do not mean most Americans have turned against immunization. Polling suggests broad support for childhood vaccines. A July KFF survey found that many Americans sit in a more uncertain middle ground about the shots, leaving room for conflicting information to influence their decisions.
-"This is not an edge-case issue," Nuzzo said, adding that the vast majority of parents still vaccinate their children.
-Even if outbreaks are concentrated in a minority of communities, it can create a "dangerous situation" far from those areas, she said. Infants too young to be vaccinated and people who cannot receive immunizations for medical reasons can be particularly vulnerable when the virus spreads into communities with high vaccination rates.
-Those risks come as the Trump administration reshapes federal vaccine policy.
-President Donald Trump signed an executive order in August suggesting that the combined MMR vaccine be split into separate shots, while repeating false claims about its safety. Health and Human Services Secretary Robert F. Kennedy Jr. has also overhauled a key federal advisory committee responsible for recommending childhood immunizations, though the changes are frozen amid ongoing litigation.
-Several experts told CNBC that such moves risk further eroding confidence in vaccines and weakening efforts to protect children.
-Public health infrastructure was also "really decimated by Covid," and the CDC in particular lost many experienced scientists and physicians "who had spent their lives working on vaccine-preventable diseases," said Scott Weaver, a virologist who is the research director of Galveston National Laboratory.
-He added that the CDC, as of September, is also no longer immediately incorporating state-reported "measles-associated" deaths into its national published tally, making it harder to track outbreaks in real time. The agency lists three measles-related deaths in 2026, but Pennsylvania has reported at least five deaths.
-"We have folks in federal health leadership right now that are throwing gasoline on the fire, and that is not helping the situation," said Jess Steier, a public health scientist and founder and CEO of Unbiased Science, an organization that aims to make complex scientific concepts understandable.
-Consequences beyond current outbreaks
-If the U.S. fails to materially improve vaccination rates, the measles resurgence could extend beyond ongoing outbreaks.
-At "current" state-level vaccination rates, measles could become endemic again in the U.S., resulting in an estimated 851,300 cases over 25 years, according to a large-scale epidemiological model published in JAMA in April 2025 by researchers at Stanford and other institutions. Under that scenario, the model predicts the measles cases could lead to 170,200 hospitalizations and 2,550 deaths over that period.
-The model, which simulated infectious disease spread in the U.S. at various childhood vaccination levels, relies on immunization data from 2004 to 2023 for that baseline scenario.
-Michael Osterholm, an epidemiologist and the director of the Center for Infectious Disease Research and Policy at the University of Minnesota, said he views the measles situation in Canada as a direct warning for the U.S.
-Canada lost its official measles elimination status in November after a multi-province outbreak that generated more than 5,400 cases across 10 jurisdictions in 2025. Canada has a population of more than 40 million people.
-"We have a population of 350 million. If you extrapolate, if we had the very same experience that Canada had over the next year or two, that would be up to 50,000 cases of measles in the U.S.," Osterholm said. "I think that's a potential future we have to be mindful of."
-Other vaccine-preventable diseases
-An even larger measles outbreak isn't the only potential problem.
-Vaccination coverage for other childhood diseases has similarly declined. The share of U.S. kindergartners vaccinated against polio fell to 92.4% in the 2025-2026 school year, while coverage for diphtheria, tetanus and acellular pertussis, or DTaP, dropped to 92%, according to CDC data.
-The U.S. has already seen a sharp rise in pertussis, or whooping cough. U.S. reported cases reached roughly 43,300 in 2024 and nearly 28,000 in 2025, up substantially from pandemic-era levels, according to the CDC. Brown's Nuzzo said the resurgence reflects, in part, fewer people getting vaccinated and the fact that protection from the pertussis vaccine wanes over time.
-The simulation model published in JAMA also examined how falling childhood immunization rates could affect the future spread of several diseases previously eliminated from the U.S. through vaccines. Under current vaccination levels, the researchers found that diseases including rubella and polio were unlikely to become endemic in the U.S.
-But in a hypothetical scenario in which childhood vaccination rates fell by 50%, the model projected 9.9 million cases of rubella, 4.3 million cases of polio and 197 cases of diphtheria over 25 years.
-Rubella can cause devastating complications when an infection during pregnancy passes to a developing fetus, while polio can cause paralysis and death, said Dr. Nathan Lo, assistant professor of infectious diseases at Stanford Medicine.
-The projections are not predictions that these outbreaks will occur, but they illustrate how much risks could grow if vaccination coverage deteriorates.
-"What vaccines often buy you is not just the protection, but also less uncertainty," said Mathew Kiang, an assistant professor of epidemiology and population health at Stanford Medicine who also worked on the simulation model. "I think even more frightening is just the really wide uncertainty that we just wouldn't be sure of what could happen."
-Preparing for the next threat
-The measles resurgence is also raising questions about how effective the U.S. can be at detecting and responding to emerging public health threats before they spread.
-"Public health is all about prevention," said Dr. Manisha Juthani, president of the Association of State and Territorial Health Officials and commissioner of the Connecticut Department of Public Health. She said the country must maintain its ability to detect threats, invest in surveillance, and recognize that infectious diseases do not respect national borders.
-Those capabilities are crucial for curbing emerging pathogens, especially when scientists initially know little about how a new disease spreads, how severe it is or how to treat it. A pathogen could spread before vaccines or treatments are available, making early detection, clear public communication and coordination especially important.
-Other experts argue that weaknesses in those capabilities could also have implications for the country's defenses against deliberate biological attacks.
-In an April 2025 op-ed, Steph Batalis, a research fellow at Georgetown University's Center for Security and Emerging Technology, argued that the measles outbreak exposed a broader vulnerability in the U.S.' biodefense strategy and, specifically, a weakened ability to deter potential biological attacks.
-She argued that the country's struggle to contain a known, vaccine-preventable disease "might only embolden those who see our public health vulnerabilities as an opportunity."
-But Osterholm, who works extensively on bioterrorism, said low MMR immunization rates and rising measles cases do not necessarily indicate that Americans would refuse a vaccine or antibiotic during a biological emergency. The shots and drugs used to counter biological threats can differ from those routinely administered to the public, he said, and the prospect of a severe outbreak could prompt urgency among the public to seek protection.
-That point highlights an important limitation: The measles resurgence by itself does not establish whether the U.S. could withstand entirely different or novel public health threats.
-But as a disease the U.S. knows how to prevent spreads, experts say the stakes of addressing those vulnerabilities extend to whatever might come next.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/27/us-measles-public-health.html",
-    publishedAt: "2026-10-27T11:00:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "mbapp-dropped-by-major-chinese-brands-as-e65ddd22",
-    title: "Mbappé dropped by major Chinese brands as backlash grows over Mao joke",
-    titleJa: "Mbappé dropped by major Chinese brands as backlash grows over Mao joke",
-    summaryJa: "He allegedly said the funniest \"meme\" about him is the one where they put his face on \"a Chinese dictator\".",
-    bodyOriginal: `Mbappé dropped by major Chinese brands as backlash grows over Mao joke
-- Published
-Several Chinese brands have dropped French footballer Kylian Mbappé following a backlash over alleged comments referring to the late Chinese leader Mao Zedong.
-Mbappé reportedly told a French talk show The Bridge the meme "that makes me laugh the most, it's the one where there's a video of a guy, I think it's a Chinese dictator...they put my....", he laughs, as they cut to a meme of his face superimposed on an image resembling Mao.
-The meme is part of a running joke about the Real Madrid forward's nickname - "the dictator" - because of his huge influence in football. It has led to many such memes involving Mbappé.
-But the joke did not go down well in China, where Mao is revered by the Communist Party, despite his chaotic and often violent rule that left millions dead.
-There have been a few people who have come out in support of Mbappé on Chinese social media. But theirs is a rare response given China's tightly controlled internet, where people are expected to toe the party and government line on sensitive topics.
-And few topics are as sensitive as Mao, which may explain why brands have been so quick to terminate partnerships with a global sports star like Mbappé.
-The BBC has reached out to Mbappe and Real Madrid for comment. The Bridge is hosted by Mbappé's Real Madrid teammate Aurélien Tchouaméni.
-The original video is not available on the show's YouTube channel, and it's unclear when the interview first aired. In the unverified clips that have been circulating online, Mbappé does not identify Mao by name. He says he "uses [the meme] with friends all the time".
-The furore appeared to kick off on Monday night after Chinese football forum Dongqiudi drew attention to the comments in a statement, saying they were "inappropriate" and "hurt the feelings of Chinese people".
-Screengrabs of the clip and meme have since spread quickly on Chinese social media, with people echoing this sentiment and even calling for a boycott of both the French striker and his club, Real Madrid.
-But some have blurred the meme itself as well as the part of the comment they found offensive, when Mbappe refers to "a Chinese dictator".
-Dongqiudi said in its statement that it was "unable to translate" his comments because they were "offensive to China and the Chinese people".
-So, many people are also wondering what exactly Mbappe said and have responded to the angry posts and comments with questions, wanting to know more.
-What is the reaction in China?
-Chinese fans are criticising Mbappé – who is popular in China and has huge brand endorsements – of "profiting from the Chinese market yet making remarks that offend the Chinese public".
-"International public figures, in particular, should show greater respect and sensitivity, as national sentiment must never be taken lightly," reads another comment on Weibo.
-As the anger online grew louder, Chinese brands began to cut ties, although they did not explicitly refer to the video.
-The country's largest dairy producer, Mengniu, said it "firmly opposes and has a zero-tolerance policy towards any words or actions that hurt the feelings of the Chinese people".
-Drinks giant Dongpeng issued a similar statement: "Our company firmly opposes and has a zero-tolerance policy towards any behaviour that offends national sentiments."
-According to state-owned newspaper The Global Times, state broadcaster CCTV's news apps will not feature content related to the French striker. CCTV will also stop showing La Liga matches, Chinese media reported on Tuesday. Real Madrid is one of 20 clubs that play in the Spanish football league and is the most decorated team with 36 league titles.
-China's foreign ministry has also weighed in, with spokesperson Lin Jian saying: "We have noted the relevant reports. Words and deeds that hurt the feelings of the Chinese people will naturally be met with opposition from all sectors of Chinese society."
-China is a major market for international sports stars and homegrown brands have signed multimillion-dollar endorsement contracts with Mbappé, Norwegian striker Erling Haaland, and NBA player Stephen Curry.
-By 14:00 local time on Tuesday, five of the top 10 trending topics on Weibo centered on Mbappé, with the hashtag "multiple brands terminate partnerships with Mbappé" topping the list.
-"Don't ever come to China," read one of the top comments on Weibo.
-Why is Mao a sensitive topic?
-Mao founded the People's Republic of China in 1949 and ruled through tumultuous decades in the 1960s and 1970s.
-His attempt at rapid industrialisation, which he called the Great Leap Forward, led to a famine that killed tens of millions. Then came the Cultural Revolution: a violent purge of anyone seen as a threat to Communism, which included Chinese intellectuals, landowners, artists and often rivals within the Party.
-His death in 1976 brought a new era for China, which began to open its doors to the global economy. Even as the country moved away from Mao's rule, he continued to be hailed by the party as a national icon whose legacy was beyond reproach.
-So jokes or memes about Mao are seen not just as an insult to the party but also its closely-guarded narrative about the country's past.
-It's unclear when the Mbappé meme involving Mao began but his nickname, "the dictator", has made the striker the subject of many memes and jokes online.
-In 2024, he sued a French influencer and kebab shop owner for using his name in the description of one of the shop's sandwiches, leading to more jokes about the nickname.
-France teammate Ousmane Dembele jumped on the trend during the 2026 World Cup, calling Mbappé Mobut – a reference to Mobutu Sese Seko, the dictator who ruled the Democratic Republic of Congo, formerly Zaire, for three decades.
-In an interview with France Football in September, Mbappé acknowledged the light-heartedness behind many of these memes, but said they "sometimes reveal a lack of political and human awareness among people".
-"There's a side that's a bit less funny, because we know the damage people like that have caused throughout history," he said.
-"Being compared to people who murder others, or who have made millions upon millions of people miserable... I don't think I've done that in my life."
-Additional reporting by Fan Wang and Osmond Chia`,
-    bodyJa: `Mbappé dropped by major Chinese brands as backlash grows over Mao joke
-- Published
-Several Chinese brands have dropped French footballer Kylian Mbappé following a backlash over alleged comments referring to the late Chinese leader Mao Zedong.
-Mbappé reportedly told a French talk show The Bridge the meme "that makes me laugh the most, it's the one where there's a video of a guy, I think it's a Chinese dictator...they put my....", he laughs, as they cut to a meme of his face superimposed on an image resembling Mao.
-The meme is part of a running joke about the Real Madrid forward's nickname - "the dictator" - because of his huge influence in football. It has led to many such memes involving Mbappé.
-But the joke did not go down well in China, where Mao is revered by the Communist Party, despite his chaotic and often violent rule that left millions dead.
-There have been a few people who have come out in support of Mbappé on Chinese social media. But theirs is a rare response given China's tightly controlled internet, where people are expected to toe the party and government line on sensitive topics.
-And few topics are as sensitive as Mao, which may explain why brands have been so quick to terminate partnerships with a global sports star like Mbappé.
-The BBC has reached out to Mbappe and Real Madrid for comment. The Bridge is hosted by Mbappé's Real Madrid teammate Aurélien Tchouaméni.
-The original video is not available on the show's YouTube channel, and it's unclear when the interview first aired. In the unverified clips that have been circulating online, Mbappé does not identify Mao by name. He says he "uses [the meme] with friends all the time".
-The furore appeared to kick off on Monday night after Chinese football forum Dongqiudi drew attention to the comments in a statement, saying they were "inappropriate" and "hurt the feelings of Chinese people".
-Screengrabs of the clip and meme have since spread quickly on Chinese social media, with people echoing this sentiment and even calling for a boycott of both the French striker and his club, Real Madrid.
-But some have blurred the meme itself as well as the part of the comment they found offensive, when Mbappe refers to "a Chinese dictator".
-Dongqiudi said in its statement that it was "unable to translate" his comments because they were "offensive to China and the Chinese people".
-So, many people are also wondering what exactly Mbappe said and have responded to the angry posts and comments with questions, wanting to know more.
-What is the reaction in China?
-Chinese fans are criticising Mbappé – who is popular in China and has huge brand endorsements – of "profiting from the Chinese market yet making remarks that offend the Chinese public".
-"International public figures, in particular, should show greater respect and sensitivity, as national sentiment must never be taken lightly," reads another comment on Weibo.
-As the anger online grew louder, Chinese brands began to cut ties, although they did not explicitly refer to the video.
-The country's largest dairy producer, Mengniu, said it "firmly opposes and has a zero-tolerance policy towards any words or actions that hurt the feelings of the Chinese people".
-Drinks giant Dongpeng issued a similar statement: "Our company firmly opposes and has a zero-tolerance policy towards any behaviour that offends national sentiments."
-According to state-owned newspaper The Global Times, state broadcaster CCTV's news apps will not feature content related to the French striker. CCTV will also stop showing La Liga matches, Chinese media reported on Tuesday. Real Madrid is one of 20 clubs that play in the Spanish football league and is the most decorated team with 36 league titles.
-China's foreign ministry has also weighed in, with spokesperson Lin Jian saying: "We have noted the relevant reports. Words and deeds that hurt the feelings of the Chinese people will naturally be met with opposition from all sectors of Chinese society."
-China is a major market for international sports stars and homegrown brands have signed multimillion-dollar endorsement contracts with Mbappé, Norwegian striker Erling Haaland, and NBA player Stephen Curry.
-By 14:00 local time on Tuesday, five of the top 10 trending topics on Weibo centered on Mbappé, with the hashtag "multiple brands terminate partnerships with Mbappé" topping the list.
-"Don't ever come to China," read one of the top comments on Weibo.
-Why is Mao a sensitive topic?
-Mao founded the People's Republic of China in 1949 and ruled through tumultuous decades in the 1960s and 1970s.
-His attempt at rapid industrialisation, which he called the Great Leap Forward, led to a famine that killed tens of millions. Then came the Cultural Revolution: a violent purge of anyone seen as a threat to Communism, which included Chinese intellectuals, landowners, artists and often rivals within the Party.
-His death in 1976 brought a new era for China, which began to open its doors to the global economy. Even as the country moved away from Mao's rule, he continued to be hailed by the party as a national icon whose legacy was beyond reproach.
-So jokes or memes about Mao are seen not just as an insult to the party but also its closely-guarded narrative about the country's past.
-It's unclear when the Mbappé meme involving Mao began but his nickname, "the dictator", has made the striker the subject of many memes and jokes online.
-In 2024, he sued a French influencer and kebab shop owner for using his name in the description of one of the shop's sandwiches, leading to more jokes about the nickname.
-France teammate Ousmane Dembele jumped on the trend during the 2026 World Cup, calling Mbappé Mobut – a reference to Mobutu Sese Seko, the dictator who ruled the Democratic Republic of Congo, formerly Zaire, for three decades.
-In an interview with France Football in September, Mbappé acknowledged the light-heartedness behind many of these memes, but said they "sometimes reveal a lack of political and human awareness among people".
-"There's a side that's a bit less funny, because we know the damage people like that have caused throughout history," he said.
-"Being compared to people who murder others, or who have made millions upon millions of people miserable... I don't think I've done that in my life."
-Additional reporting by Fan Wang and Osmond Chia`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-27T10:19:13+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg",
-    readTime: 10,
-  },
-  {
-    id: "rise-in-sales-of-radios-and-tinned-foods-9e0a7211",
-    title: "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
-    titleJa: "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
-    summaryJa: "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
-    bodyOriginal: `Rise in sales of radios and tinned foods, say retailers, after call to stock up
-- Published
-Some retailers have seen a dramatic increase in sales of essential goods after the government called for people to stock up in case of a crisis, according to figures obtained by Newsnight.
-The Iceland supermarket chain said it was "clear" consumers had listened to warnings after it saw a 40% increase in sales of tinned products over the weekend.
-The rise in sales came after Defence Secretary Wes Streeting said that people should stockpile goods to prepare for an emergency such as a cyber attack or an extreme weather event.
-Robert Dyas reported a 160% increase in sales of radios compared with last week, while Maplin said sales had increased by 92% in radios, 284% in torches and 106% in power banks.
-The Maplin figures cover the period since the government's announcement last week compared with the same period last month.
-"Within hours of the Be Ready announcement we saw people reach for the basics - a torch, a wind-up radio, a power bank. Torch sales nearly quadrupled and radio sales almost doubled in three days," said Ollie Marshall, managing director at Maplin.
-"These are simple, affordable products that keep a household connected and informed when the power goes out, and it's encouraging to see people taking the advice seriously."
-On 22 October, Streeting said that people should ensure they have three litres of water per person per day; tinned goods in the cupboard; baby food; battery powered torches and mobile phone charging packs.
-Many of the items cited by Streeting appeared in the list of goods gathered by Newsnight whose sales have shot up.
-In response to the increase in retail sales of certain items, the defence secretary told Newsnight: "It's encouraging that people are taking practical steps to be ready. Having a few everyday essentials at home, from tinned food to torches, helps households prepare for disruption, whether that's flooding, power cuts or burst pipes. We can all play our part in making Britain more resilient."
-An Iceland spokesperson told the BBC programme: "It's clear consumers have listened to the government's message as we have seen a 40% increase in sales of tinned products over the weekend and strong sales of bottled water too. Our supplies of these products remain healthy."
-Newsnight also spoke to independent retailers who reported a spike in sales of goods highlighted by the defence secretary.
-Josh Pringle, from Sgt Prepper's online store, said his sales had increased tenfold: "We were a small outfit on Wednesday. And then the government launched the Be Ready campaign and we couldn't believe what we were seeing – order after order after order. Most of them were for a wind-up radio."
-Lincoln Miles, founder of Preppers Shop UK, told Newsnight of a 650% increase in sales after the government announcement. "Everything about off grid seems to be the key of what people are buying for the minute."
-Get our flagship newsletter with all the headlines you need to start the day. Sign up here.
-Related topics
-- Published3 days ago
-- Published3 days ago`,
-    bodyJa: `Rise in sales of radios and tinned foods, say retailers, after call to stock up
-- Published
-Some retailers have seen a dramatic increase in sales of essential goods after the government called for people to stock up in case of a crisis, according to figures obtained by Newsnight.
-The Iceland supermarket chain said it was "clear" consumers had listened to warnings after it saw a 40% increase in sales of tinned products over the weekend.
-The rise in sales came after Defence Secretary Wes Streeting said that people should stockpile goods to prepare for an emergency such as a cyber attack or an extreme weather event.
-Robert Dyas reported a 160% increase in sales of radios compared with last week, while Maplin said sales had increased by 92% in radios, 284% in torches and 106% in power banks.
-The Maplin figures cover the period since the government's announcement last week compared with the same period last month.
-"Within hours of the Be Ready announcement we saw people reach for the basics - a torch, a wind-up radio, a power bank. Torch sales nearly quadrupled and radio sales almost doubled in three days," said Ollie Marshall, managing director at Maplin.
-"These are simple, affordable products that keep a household connected and informed when the power goes out, and it's encouraging to see people taking the advice seriously."
-On 22 October, Streeting said that people should ensure they have three litres of water per person per day; tinned goods in the cupboard; baby food; battery powered torches and mobile phone charging packs.
-Many of the items cited by Streeting appeared in the list of goods gathered by Newsnight whose sales have shot up.
-In response to the increase in retail sales of certain items, the defence secretary told Newsnight: "It's encouraging that people are taking practical steps to be ready. Having a few everyday essentials at home, from tinned food to torches, helps households prepare for disruption, whether that's flooding, power cuts or burst pipes. We can all play our part in making Britain more resilient."
-An Iceland spokesperson told the BBC programme: "It's clear consumers have listened to the government's message as we have seen a 40% increase in sales of tinned products over the weekend and strong sales of bottled water too. Our supplies of these products remain healthy."
-Newsnight also spoke to independent retailers who reported a spike in sales of goods highlighted by the defence secretary.
-Josh Pringle, from Sgt Prepper's online store, said his sales had increased tenfold: "We were a small outfit on Wednesday. And then the government launched the Be Ready campaign and we couldn't believe what we were seeing – order after order after order. Most of them were for a wind-up radio."
-Lincoln Miles, founder of Preppers Shop UK, told Newsnight of a 650% increase in sales after the government announcement. "Everything about off grid seems to be the key of what people are buying for the minute."
-Get our flagship newsletter with all the headlines you need to start the day. Sign up here.
-Related topics
-- Published3 days ago
-- Published3 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-27T06:33:11+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b0/live/8d5e0a00-d1cc-11f1-837e-832a94a7445c.jpg",
-    readTime: 8,
-  },
-  {
-    id: "donald-trump-s-biggest-economic-problem-c4ce06bf",
-    title: "Donald Trump's biggest economic problem looks strangely familiar",
-    titleJa: "Donald Trump's biggest economic problem looks strangely familiar",
-    summaryJa: "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden.",
-    bodyOriginal: `Donald Trump's biggest economic problem looks strangely familiar
-- Published
-The White House is confronting a familiar dilemma. The economic numbers aren't necessarily bad - but the public mood is.
-It's a disconnect that haunted Joe Biden in 2024, when solid headline data failed to convince many voters that the economy was working for them.
-Now, Donald Trump faces a version of the same challenge.
-During the 2024 campaign, Trump promised voters swift relief from rising prices.
-"When I win, I will immediately bring prices down," he said.
-Delivering on that promise has proved harder than expected.
-Economic growth is holding up, unemployment remains low and the stock market is near record highs.
-Yet the final inflation report ahead of the midterm elections confirms what voters already know: prices remain high.
-The causes are different. Biden was grappling with the aftermath of the Covid pandemic. Trump faces higher energy prices linked to the US-Israel conflict with Iran and the fallout from some of his own trade and immigration policies.
-The political reality, however, is much the same. Voters are not judging the economy by GDP figures or record highs on the stock market. They are judging it by what they pay at the supermarket, petrol prices and whether they can keep up with the bills.
-Numbers only tell part of the story
-US economic growth of 2.2% would be respectable by the standards of many wealthy economies. Germany, for example, has struggled to generate comparable momentum. And a stable US unemployment rate of 4.2% hardly suggests an economy in freefall.
-Trump argues that he inherited an economic mess from Biden, and points to strong growth, investment and stock market performance as evidence that his policies are working.
-Following the most recent inflation report, White House spokesman Matthew Middleton said the administration's "aggressive, pro-growth economic agenda" had blunted "Biden's inflation crisis".
-Larry Kudlow, a Trump ally and economic commentator, has described the current expansion as "the greatest story never told", external, arguing that "nobody is getting fired".
-US inflation rises more than expected - here's what is happening with prices
-- Published14 October
-But voters appear to be reading a different story - one in which Trump won the presidency promising to tackle the cost of living, only for prices to keep rising.
-Part of the problem is that wage increases have not kept pace with prices. Average hourly earnings have risen 3% over the last year, while consumer prices have increased 3.7%.
-That helps explain why polls continue to show voters giving Trump poor marks for his handling of the economy.
-Same language, different meanings
-For Democrats, the dynamic feels familiar.
-Celinda Lake, a veteran Democratic pollster, says the problem begins with the way economists and voters use the same language to mean different things.
-"When economists say inflation comes down, they mean the rate of increase has come down," she says.
-"When voters say inflation has come down, they mean the price has returned to what it was. Well, of course, it never returns to what it was."
-The Biden administration spent much of 2024 highlighting low unemployment, solid growth and falling inflation. However, many voters remained focused on the higher prices they faced every day.
-Lake, who advised Biden's 2020 campaign but was not involved in the 2024 race, says voters judge the economy through personal experience, not economic indicators.
-"You can't argue with people about their own lived reality," she says.
-That may help explain why Trump's challenge looks so similar to Biden's.
-The Trump effect
-Biden's critics blamed him for inflation. But he could point to forces largely outside his control, including the pandemic and its supply chain aftershocks.
-Trump has less room to do that.
-Some economists argue that today's higher prices are at least partly the result of his own policies, including tariffs, as well as the economic fallout from the US-Israel war with Iran.
-"The inflation is clearly traceable to Donald Trump," says Peter Morici, a University of Maryland economist who aligns with Republicans.
-"It's his tariffs and the war. People know that. They see it."
-Trump's "Liberation Day" tariffs, announced in April 2025, have added to costs for consumers.
-A study by the Federal Reserve Bank of New York found the tariffs increased consumer goods prices by about 2.9%.
-The impact might have been larger if Trump hadn't later paused some tariffs, struck new trade deals and been blocked by the Supreme Court from using emergency powers to impose many others.
-Then came another shock. Conflict with Iran pushed oil prices higher, lifting the cost of petrol and putting fresh pressure on household budgets.
-The White House points to tax cuts, job growth and lower prescription drug costs as evidence that the administration is delivering for American families. And it is increasingly embracing policies aimed at easing pressures.
-Trump has called for a cap on credit card interest rates and floated the idea of a $5,000 payment to American adults if Republicans retain control of Congress.
-The measures reflect a political reality familiar to both parties: when voters are anxious about prices, arguments about solid growth and low unemployment are rarely enough.
-Biden never found a way to bridge the gap between economic performance and economic sentiment. The question heading into the midterms is whether Trump can.
-If recent political history is any guide, perceptions of the economy may matter more than the economic data itself.
-- Published16 October
-- Published12 October
-- Published15 October`,
-    bodyJa: `Donald Trump's biggest economic problem looks strangely familiar
-- Published
-The White House is confronting a familiar dilemma. The economic numbers aren't necessarily bad - but the public mood is.
-It's a disconnect that haunted Joe Biden in 2024, when solid headline data failed to convince many voters that the economy was working for them.
-Now, Donald Trump faces a version of the same challenge.
-During the 2024 campaign, Trump promised voters swift relief from rising prices.
-"When I win, I will immediately bring prices down," he said.
-Delivering on that promise has proved harder than expected.
-Economic growth is holding up, unemployment remains low and the stock market is near record highs.
-Yet the final inflation report ahead of the midterm elections confirms what voters already know: prices remain high.
-The causes are different. Biden was grappling with the aftermath of the Covid pandemic. Trump faces higher energy prices linked to the US-Israel conflict with Iran and the fallout from some of his own trade and immigration policies.
-The political reality, however, is much the same. Voters are not judging the economy by GDP figures or record highs on the stock market. They are judging it by what they pay at the supermarket, petrol prices and whether they can keep up with the bills.
-Numbers only tell part of the story
-US economic growth of 2.2% would be respectable by the standards of many wealthy economies. Germany, for example, has struggled to generate comparable momentum. And a stable US unemployment rate of 4.2% hardly suggests an economy in freefall.
-Trump argues that he inherited an economic mess from Biden, and points to strong growth, investment and stock market performance as evidence that his policies are working.
-Following the most recent inflation report, White House spokesman Matthew Middleton said the administration's "aggressive, pro-growth economic agenda" had blunted "Biden's inflation crisis".
-Larry Kudlow, a Trump ally and economic commentator, has described the current expansion as "the greatest story never told", external, arguing that "nobody is getting fired".
-US inflation rises more than expected - here's what is happening with prices
-- Published14 October
-But voters appear to be reading a different story - one in which Trump won the presidency promising to tackle the cost of living, only for prices to keep rising.
-Part of the problem is that wage increases have not kept pace with prices. Average hourly earnings have risen 3% over the last year, while consumer prices have increased 3.7%.
-That helps explain why polls continue to show voters giving Trump poor marks for his handling of the economy.
-Same language, different meanings
-For Democrats, the dynamic feels familiar.
-Celinda Lake, a veteran Democratic pollster, says the problem begins with the way economists and voters use the same language to mean different things.
-"When economists say inflation comes down, they mean the rate of increase has come down," she says.
-"When voters say inflation has come down, they mean the price has returned to what it was. Well, of course, it never returns to what it was."
-The Biden administration spent much of 2024 highlighting low unemployment, solid growth and falling inflation. However, many voters remained focused on the higher prices they faced every day.
-Lake, who advised Biden's 2020 campaign but was not involved in the 2024 race, says voters judge the economy through personal experience, not economic indicators.
-"You can't argue with people about their own lived reality," she says.
-That may help explain why Trump's challenge looks so similar to Biden's.
-The Trump effect
-Biden's critics blamed him for inflation. But he could point to forces largely outside his control, including the pandemic and its supply chain aftershocks.
-Trump has less room to do that.
-Some economists argue that today's higher prices are at least partly the result of his own policies, including tariffs, as well as the economic fallout from the US-Israel war with Iran.
-"The inflation is clearly traceable to Donald Trump," says Peter Morici, a University of Maryland economist who aligns with Republicans.
-"It's his tariffs and the war. People know that. They see it."
-Trump's "Liberation Day" tariffs, announced in April 2025, have added to costs for consumers.
-A study by the Federal Reserve Bank of New York found the tariffs increased consumer goods prices by about 2.9%.
-The impact might have been larger if Trump hadn't later paused some tariffs, struck new trade deals and been blocked by the Supreme Court from using emergency powers to impose many others.
-Then came another shock. Conflict with Iran pushed oil prices higher, lifting the cost of petrol and putting fresh pressure on household budgets.
-The White House points to tax cuts, job growth and lower prescription drug costs as evidence that the administration is delivering for American families. And it is increasingly embracing policies aimed at easing pressures.
-Trump has called for a cap on credit card interest rates and floated the idea of a $5,000 payment to American adults if Republicans retain control of Congress.
-The measures reflect a political reality familiar to both parties: when voters are anxious about prices, arguments about solid growth and low unemployment are rarely enough.
-Biden never found a way to bridge the gap between economic performance and economic sentiment. The question heading into the midterms is whether Trump can.
-If recent political history is any guide, perceptions of the economy may matter more than the economic data itself.
-- Published16 October
-- Published12 October
-- Published15 October`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-27T06:01:11+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8781/live/0baf72c0-cc7a-11f1-a64c-550be9e3c66b.png",
-    readTime: 10,
   },
 ];
 
