@@ -15,6 +15,380 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "google-alters-its-cloud-playbook-enlisti-832c99b5",
+    title: "Google alters its cloud playbook, enlisting partners to sell more AI chips",
+    titleJa: "Google alters its cloud playbook, enlisting partners to sell more AI chips",
+    summaryJa: "Google is opening its TPU business beyond its own cloud as custom chips become a bigger engine for growth.",
+    bodyOriginal: `Google has spent years pitching customers on the advantage of buying its chips, models and cloud services in one place, offering a full stack that rivals Amazon and Microsoft have tried to replicate.
+Now, the company is pushing its equipment outside of its own walls to reach more customers and build a bigger business around artificial intelligence chips, a market that Nvidia has dominated.
+A day ahead of its third-quarter earnings report, Alphabet said on Tuesday that Oracle will offer Google's tensor processing units, or TPUs, the custom chips the internet giant has been developing since 2013. It's the first time customers will be able to access TPUs outside of Google's infrastructure, and shows that cloud boss Thomas Kurian, who previously spent more than 20 years at Oracle, is looking elsewhere for growth.
+"They're a very strong competitor, and it's very possible that they could eventually take market share from Nvidia," said Chris Ballard, managing director of Check Capital Management, referring to Google's position in chips.
+Kurian, who joined Google in late 2018, is operating from a position of strength. Analysts expect Google Cloud revenue to jump about 90% from a year earlier, after growing 82% in the second quarter, with TPUs contributing to its momentum.
+"Google was great at doing its own thing, but it was never able to serve customers," said Uday Cheruvu, a portfolio manager at Harding Loevner, which owns Alphabet shares. "That mindset has changed."
+Google opened up TPUs to outside data centers in the second quarter, before this week's announcement with Oracle.
+Estimates for the TPU business vary widely, but they all point to significant growth. TD Cowen models $9.4 billion in TPU sales for the second half of this year and $62.5 billion for 2027. Wells Fargo expects about $9 billion in third-quarter sales and $99 billion next year.
+CFO Anat Ashkenazi said on the last earnings call in July that only a small portion of TPU revenue from existing agreements will be recognized this year, with the "vast majority" coming in 2027. She also said Google planned to use more outside capacity in the third quarter while the company builds out its own infrastructure.
+With $25 billion in second-quarter cloud revenue, Google trailed Amazon Web Services at $42 billion and Microsoft Azure at $29 billion.
+But Google is growing the fastest.
+"It's almost like the bigger the pie is getting, the faster they're accelerating into it," said Ballard, whose firm owned about $236 million in Alphabet stock as of June 30.
+'Optimize the whole stack'
+While Kurian aims to get more TPUs into the market by turning to outside partners, he has to balance the benefits of building the customer base with his company's own technology needs.
+At a Goldman Sachs conference in September, Kurian said Google's AI servers pay for themselves in under two years, and servers running its own silicon reach payback in roughly half that time.
+"It's because we can optimize that whole stack," Kurian said.
+Industry research SemiAnalysis estimates that Google's latest Ironwood TPU costs about 44% less to own and operate than an Nvidia GB200 server.
+There's also the margin hit that comes with external TPU sales. TD Cowen estimates a 20% operating margin on TPU sales, compared with an overall cloud margin of about 35% last quarter. Cheruvu said he doesn't think Google's cloud operating margin could widen much beyond the mid-30s.
+Google declined comment.
+Google's biggest TPU customer is one of its top AI competitors.
+Anthropic, whose Claude models compete with Gemini, agreed last October to use up to 1 million TPUs in a deal worth tens of billions of dollars. Mizuho says that agreement brings nearly a gigawatt of capacity online this year and describes the relationship as Google "arming its closest model competitor."
+OpenAI is also planning to buy TPUs from Google, CNBC confirmed after The Information first reported on the ChatGPT maker's intentions on Tuesday.
+Anthropic is getting outside help to finance its Google silicon. This week, Broadcom, which works with Google on TPUs, detailed a $63 billion vehicle backed by Blackstone and three big banks that will buy TPUs and networking gear from Broadcom and lease them to Anthropic for five years. According to analysts from William Blair, the financing plan covers about half of Anthropic's 2027 needs, which suggests more financing is coming.
+In its IPO filing on Monday, Anthropic said it uses silicon from Google, Amazon, Nvidia and Advanced Micro Devices, allowing the company to "select chips based on the best price-performance and efficiency characteristics for each workload."
+Regarding Google and Broadcom, Anthropic said the partnerships "provide us with access to compute capacity powered by Google TPUs across multiple generations of the TPU platform."
+WATCH: Gemini product chief details weeks of company-wide testing ahead of Gemini 4 Argon launch`,
+    bodyJa: `Google has spent years pitching customers on the advantage of buying its chips, models and cloud services in one place, offering a full stack that rivals Amazon and Microsoft have tried to replicate.
+Now, the company is pushing its equipment outside of its own walls to reach more customers and build a bigger business around artificial intelligence chips, a market that Nvidia has dominated.
+A day ahead of its third-quarter earnings report, Alphabet said on Tuesday that Oracle will offer Google's tensor processing units, or TPUs, the custom chips the internet giant has been developing since 2013. It's the first time customers will be able to access TPUs outside of Google's infrastructure, and shows that cloud boss Thomas Kurian, who previously spent more than 20 years at Oracle, is looking elsewhere for growth.
+"They're a very strong competitor, and it's very possible that they could eventually take market share from Nvidia," said Chris Ballard, managing director of Check Capital Management, referring to Google's position in chips.
+Kurian, who joined Google in late 2018, is operating from a position of strength. Analysts expect Google Cloud revenue to jump about 90% from a year earlier, after growing 82% in the second quarter, with TPUs contributing to its momentum.
+"Google was great at doing its own thing, but it was never able to serve customers," said Uday Cheruvu, a portfolio manager at Harding Loevner, which owns Alphabet shares. "That mindset has changed."
+Google opened up TPUs to outside data centers in the second quarter, before this week's announcement with Oracle.
+Estimates for the TPU business vary widely, but they all point to significant growth. TD Cowen models $9.4 billion in TPU sales for the second half of this year and $62.5 billion for 2027. Wells Fargo expects about $9 billion in third-quarter sales and $99 billion next year.
+CFO Anat Ashkenazi said on the last earnings call in July that only a small portion of TPU revenue from existing agreements will be recognized this year, with the "vast majority" coming in 2027. She also said Google planned to use more outside capacity in the third quarter while the company builds out its own infrastructure.
+With $25 billion in second-quarter cloud revenue, Google trailed Amazon Web Services at $42 billion and Microsoft Azure at $29 billion.
+But Google is growing the fastest.
+"It's almost like the bigger the pie is getting, the faster they're accelerating into it," said Ballard, whose firm owned about $236 million in Alphabet stock as of June 30.
+'Optimize the whole stack'
+While Kurian aims to get more TPUs into the market by turning to outside partners, he has to balance the benefits of building the customer base with his company's own technology needs.
+At a Goldman Sachs conference in September, Kurian said Google's AI servers pay for themselves in under two years, and servers running its own silicon reach payback in roughly half that time.
+"It's because we can optimize that whole stack," Kurian said.
+Industry research SemiAnalysis estimates that Google's latest Ironwood TPU costs about 44% less to own and operate than an Nvidia GB200 server.
+There's also the margin hit that comes with external TPU sales. TD Cowen estimates a 20% operating margin on TPU sales, compared with an overall cloud margin of about 35% last quarter. Cheruvu said he doesn't think Google's cloud operating margin could widen much beyond the mid-30s.
+Google declined comment.
+Google's biggest TPU customer is one of its top AI competitors.
+Anthropic, whose Claude models compete with Gemini, agreed last October to use up to 1 million TPUs in a deal worth tens of billions of dollars. Mizuho says that agreement brings nearly a gigawatt of capacity online this year and describes the relationship as Google "arming its closest model competitor."
+OpenAI is also planning to buy TPUs from Google, CNBC confirmed after The Information first reported on the ChatGPT maker's intentions on Tuesday.
+Anthropic is getting outside help to finance its Google silicon. This week, Broadcom, which works with Google on TPUs, detailed a $63 billion vehicle backed by Blackstone and three big banks that will buy TPUs and networking gear from Broadcom and lease them to Anthropic for five years. According to analysts from William Blair, the financing plan covers about half of Anthropic's 2027 needs, which suggests more financing is coming.
+In its IPO filing on Monday, Anthropic said it uses silicon from Google, Amazon, Nvidia and Advanced Micro Devices, allowing the company to "select chips based on the best price-performance and efficiency characteristics for each workload."
+Regarding Google and Broadcom, Anthropic said the partnerships "provide us with access to compute capacity powered by Google TPUs across multiple generations of the TPU platform."
+WATCH: Gemini product chief details weeks of company-wide testing ahead of Gemini 4 Argon launch`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
+    publishedAt: "2026-10-28T12:37:51+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "my-wife-cried-when-i-found-out-she-had-o-7376d159",
+    title: "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+    titleJa: "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+    summaryJa: "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
+    bodyOriginal: `“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”`,
+    bodyJa: `“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+    publishedAt: "2026-10-28T12:30:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-19916000",
+    readTime: 2,
+  },
+  {
+    id: "my-abusive-ex-husband-promised-20-000-fo-5f9214bf",
+    title: "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+    titleJa: "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+    summaryJa: "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
+    bodyOriginal: `“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”`,
+    bodyJa: `“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+    publishedAt: "2026-10-28T12:30:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-95596293",
+    readTime: 2,
+  },
+  {
+    id: "stellantis-reports-4-5-billion-cash-drai-95ff06cd",
+    title: "Stellantis reports $4.5 billion cash drain as massive turnaround plan continues",
+    titleJa: "Stellantis reports $4.5 billion cash drain as massive turnaround plan continues",
+    summaryJa: "European car giant Stellantis said Wednesday that it recorded a 4 billion euro ($4.5 billion) cash shortfall in the third quarter.",
+    bodyOriginal: `European car giant Stellantis reported a 4 billion euro ($4.5 billion) cash shortfall in the third quarter as it ploughed ahead with a $70 billion turnaround strategy to restore profitability.
+Third-quarter revenues rose 1% to 37.6 billion euros from a year ago, the Chrysler and Jeep owner said on Wednesday, while adjusted operating income rose 184% to 256 million euros from 90 million euros a year earlier.
+As the company made progress on its turnaround plan, its industrial free cash flow improved to negative 4 billion euros, up from negative 4.3 billion the year prior.
+"During the quarter, we continued to make progress in the early execution of our FaSTLAne 2030 plan, launching new products, accelerating partnerships as planned, and delivering meaningful improvements in manufacturing and quality," Stellantis CEO Antonio Filosa said in a press release.
+Wall Street reacted positively to the results as well as the company's ability to maintain its 2026 guidance as other European automakers struggle. Stellantis shares Wednesday were up roughly 6% in Milan as well as premarket trading in New York, but remain sharply down since the beginning of the year.
+Stellantis also reconfirmed its target to achieve positive free cash flow next year, which is a main focus for investors.
+"Q3 was soft, but consensus expectations were far lower. Key here is that '26 Guidance was maintained while other auto OEMs and suppliers are cutting on elevated costs," RBC Capital Markets analyst Tom Narayan said Wednesday in an investor note.
+Stellantis' 2026 guidance includes a mid-single-digit percentage increase in net revenue and a low-single-digit adjusted operating margin.
+The third-quarter results came as the transatlantic company continues to implement a 60 billion euro turnaround strategy after years of sales declines, especially in North America.
+The plan includes investing 36 billion euros in its portfolio of automotive brands, with 60% of the cash to go towards its struggling North America sector. It also plans to introduce new vehicles, refresh models, and incorporate new technologies in its products.
+China competition
+European carmakers, including Stellantis, have been struggling in China as domestic brands like Xiaomi, BYD and Geely gain ground and intensify competition.
+Just this week, German luxury carmaker Porsche said it would reduce its exposure to China as car sales decline in the region. Meanwhile, Mercedes-Benz said its third-quarter car sales slumped due to a "challenging market environment," in the country.
+Earlier this month, Filosa told CNBC that European regulators need to do more to incentivize carmakers to manufacture vehicles in the region to fend off Chinese rivals.
+Filosa called for regulation that "incentivizes, rewards, and protects the ones that are able to demonstrate that they design cars, engineer cars."`,
+    bodyJa: `European car giant Stellantis reported a 4 billion euro ($4.5 billion) cash shortfall in the third quarter as it ploughed ahead with a $70 billion turnaround strategy to restore profitability.
+Third-quarter revenues rose 1% to 37.6 billion euros from a year ago, the Chrysler and Jeep owner said on Wednesday, while adjusted operating income rose 184% to 256 million euros from 90 million euros a year earlier.
+As the company made progress on its turnaround plan, its industrial free cash flow improved to negative 4 billion euros, up from negative 4.3 billion the year prior.
+"During the quarter, we continued to make progress in the early execution of our FaSTLAne 2030 plan, launching new products, accelerating partnerships as planned, and delivering meaningful improvements in manufacturing and quality," Stellantis CEO Antonio Filosa said in a press release.
+Wall Street reacted positively to the results as well as the company's ability to maintain its 2026 guidance as other European automakers struggle. Stellantis shares Wednesday were up roughly 6% in Milan as well as premarket trading in New York, but remain sharply down since the beginning of the year.
+Stellantis also reconfirmed its target to achieve positive free cash flow next year, which is a main focus for investors.
+"Q3 was soft, but consensus expectations were far lower. Key here is that '26 Guidance was maintained while other auto OEMs and suppliers are cutting on elevated costs," RBC Capital Markets analyst Tom Narayan said Wednesday in an investor note.
+Stellantis' 2026 guidance includes a mid-single-digit percentage increase in net revenue and a low-single-digit adjusted operating margin.
+The third-quarter results came as the transatlantic company continues to implement a 60 billion euro turnaround strategy after years of sales declines, especially in North America.
+The plan includes investing 36 billion euros in its portfolio of automotive brands, with 60% of the cash to go towards its struggling North America sector. It also plans to introduce new vehicles, refresh models, and incorporate new technologies in its products.
+China competition
+European carmakers, including Stellantis, have been struggling in China as domestic brands like Xiaomi, BYD and Geely gain ground and intensify competition.
+Just this week, German luxury carmaker Porsche said it would reduce its exposure to China as car sales decline in the region. Meanwhile, Mercedes-Benz said its third-quarter car sales slumped due to a "challenging market environment," in the country.
+Earlier this month, Filosa told CNBC that European regulators need to do more to incentivize carmakers to manufacture vehicles in the region to fend off Chinese rivals.
+Filosa called for regulation that "incentivizes, rewards, and protects the ones that are able to demonstrate that they design cars, engineer cars."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
+    publishedAt: "2026-10-28T11:45:16+00:00",
+    category: "自動車",
+    imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "at-least-30-people-reported-dead-in-high-a7a338df",
+    title: "At least 30 people reported dead in high-speed Spain train crash",
+    titleJa: "At least 30 people reported dead in high-speed Spain train crash",
+    summaryJa: "At least 30 people are reported to have been killed in a collision between two trains in the Spanish province of Toledo.The high-speed trains collided shortly before 9:15 a.m. local time (4:15 a.m. ET), when emergency services were deployed to the scene. It occurred on the Madrid to Seville line, with a stationary vehicle reportedly being hit by the other at a speed of over 100 kilometers per hour (62 miles per hour).",
+    bodyOriginal: `At least 30 people are reported to have been killed in a collision between two trains in the Spanish province of Toledo.
+The high-speed trains collided shortly before 9:15 a.m. local time (4:15 a.m. ET), when emergency services were deployed to the scene. It occurred on the Madrid to Seville line, with a stationary vehicle reportedly being hit by the other at a speed of over 100 kilometers per hour (62 miles per hour).
+Authorities said they would open a local sports hall to provide assistance to those affected, with an Advanced Medical Post being set up at the site of the crash to triage the injured, provide medical care and transfer those requiring further treatment to hospitals. It is currently unclear how many people suffered injuries.
+Railway infrastructure manager Adif is investigating the sequence of events surrounding the accident, Spanish news agency EFE reported on Wednesday.
+Adif said in a post on X on Wednesday morning that traffic on the Madrid to Andalucía high-speed line had been interrupted.
+Newspaper El Pais reported that officials fear the number of confirmed fatalities may rise, with sources telling the outlet that the collision could have a worse outcome than a high-speed crash in southern Spain that killed 45 people earlier this year.
+"We don't have a figure, but it's going to be a major tragedy," Spain's Health Minister Mónica García told a television news station, according to El Pais.
+Officials currently do not know for certain what caused the collision, but local reports said initial analyses pointed to human error. Government sources told El Pais that it appeared an Adif operator made a mistake when railway signaling systems failed. The systems are automated, but they rely on manual operation when signals fail.
+The trains were operated by AVE and Iryo, according to local media, with at least two carriages said to have fallen down an embankment after the crash. More than 500 passengers were on board the two trains, El Pais said.
+Spanish Prime Minister Pedro Sanchez said in a post on X that he was "shocked" by the accident.
+"Emergency services are working on the ground to assist those affected and ensure their safety, in coordination with all the involved administrations," he said, according to a translation. "My affection, solidarity, and support to all the victims and their families."
+Sanchez's political future will be tested in a snap election next month, which he called following widespread unrest over Spain's housing crisis.
+Santiago Abascal, leader of the far-right Vox party — which is expected to make gains when Spain goes to the polls — pointed the finger at Sanchez's government over the train accident on Wednesday.
+"Tragedy again. Rage again over the neglect, the ruin, and the betrayal suffered by the Spanish people," he said in a post on X.
+— CNBC's Charlotte Reed contributed to this article.`,
+    bodyJa: `At least 30 people are reported to have been killed in a collision between two trains in the Spanish province of Toledo.
+The high-speed trains collided shortly before 9:15 a.m. local time (4:15 a.m. ET), when emergency services were deployed to the scene. It occurred on the Madrid to Seville line, with a stationary vehicle reportedly being hit by the other at a speed of over 100 kilometers per hour (62 miles per hour).
+Authorities said they would open a local sports hall to provide assistance to those affected, with an Advanced Medical Post being set up at the site of the crash to triage the injured, provide medical care and transfer those requiring further treatment to hospitals. It is currently unclear how many people suffered injuries.
+Railway infrastructure manager Adif is investigating the sequence of events surrounding the accident, Spanish news agency EFE reported on Wednesday.
+Adif said in a post on X on Wednesday morning that traffic on the Madrid to Andalucía high-speed line had been interrupted.
+Newspaper El Pais reported that officials fear the number of confirmed fatalities may rise, with sources telling the outlet that the collision could have a worse outcome than a high-speed crash in southern Spain that killed 45 people earlier this year.
+"We don't have a figure, but it's going to be a major tragedy," Spain's Health Minister Mónica García told a television news station, according to El Pais.
+Officials currently do not know for certain what caused the collision, but local reports said initial analyses pointed to human error. Government sources told El Pais that it appeared an Adif operator made a mistake when railway signaling systems failed. The systems are automated, but they rely on manual operation when signals fail.
+The trains were operated by AVE and Iryo, according to local media, with at least two carriages said to have fallen down an embankment after the crash. More than 500 passengers were on board the two trains, El Pais said.
+Spanish Prime Minister Pedro Sanchez said in a post on X that he was "shocked" by the accident.
+"Emergency services are working on the ground to assist those affected and ensure their safety, in coordination with all the involved administrations," he said, according to a translation. "My affection, solidarity, and support to all the victims and their families."
+Sanchez's political future will be tested in a snap election next month, which he called following widespread unrest over Spain's housing crisis.
+Santiago Abascal, leader of the far-right Vox party — which is expected to make gains when Spain goes to the polls — pointed the finger at Sanchez's government over the train accident on Wednesday.
+"Tragedy again. Rage again over the neglect, the ruin, and the betrayal suffered by the Spanish people," he said in a post on X.
+— CNBC's Charlotte Reed contributed to this article.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
+    publishedAt: "2026-10-28T11:43:12+00:00",
+    category: "自動車",
+    imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "mortgage-rates-fell-for-the-second-strai-cf559242",
+    title: "Mortgage rates fell for the second straight week, but more borrowers still sought savings in riskier loans",
+    titleJa: "Mortgage rates fell for the second straight week, but more borrowers still sought savings in riskier loans",
+    summaryJa: "Mortgage rates have fallen over the past two weeks, but demand is only slightly higher, and more borrowers are looking for savings in riskier loans.",
+    bodyOriginal: `Mortgage rates fell for the second straight week, and that finally brought consumers back to their brokers. A growing share, however, applied for riskier loans at even lower rates.
+Total mortgage application volume rose 3.4% last week compared with the previous week, according to the Mortgage Bankers Association's seasonally adjusted index.
+The average contract interest rate for 30-year fixed-rate mortgages with conforming loan balances, $832,750 or less, decreased to 7.37% from 7.41%, with points increasing to 0.76 from 0.75, including the origination fee, for loans with a 20% down payment.
+"The decline in rates gave borrowers some relief, with applications rebounding slightly, particularly conventional applications," said Joel Kan, vice president and deputy chief economist at the MBA, in a release. "Mortgage rates are still more than a percentage point higher than the same week last year and most homeowners still have rates much lower than prevailing market rates."
+And that is why refinance is still running well behind where it was last year. Applications to refinance a home loan climbed 3% for the week but were 61% lower than the same week one year ago. About half of all borrowers today have a mortgage rate below 4%, according to data from the Federal Housing Finance Agency's National Mortgage Database.
+Applications for a mortgage to purchase a home rose 4% for the week but were still 18% lower than the same week one year ago. While mortgage rates have pulled back some in the last few weeks, they are still much higher than they were just a few months ago, and home prices are still rising. Potential homebuyers are also worried about the broader economy, and, anecdotally, some agents say buyers are waiting to see the results of the midterm elections.
+As borrowers search for savings, more are opting for adjustable-rate mortgages. The ARM share of applications increased to 11.3% last week, the highest level in more than a year. The average contract interest rate for 5/1 ARMs decreased to 6.41% from 6.46%. ARMs are considered riskier because they adjust to whatever the current market rate is at the end of their fixed term.
+Mortgage rates haven't moved at all to start this week, according to a separate survey from Mortgage News Daily. That is because there has not been much economic data for the bond market to react to. While the Federal Reserve is not expected to announce any change in its interest rate at Wednesday's meeting, markets could move on any commentary from Fed Chairman Kevin Warsh.`,
+    bodyJa: `Mortgage rates fell for the second straight week, and that finally brought consumers back to their brokers. A growing share, however, applied for riskier loans at even lower rates.
+Total mortgage application volume rose 3.4% last week compared with the previous week, according to the Mortgage Bankers Association's seasonally adjusted index.
+The average contract interest rate for 30-year fixed-rate mortgages with conforming loan balances, $832,750 or less, decreased to 7.37% from 7.41%, with points increasing to 0.76 from 0.75, including the origination fee, for loans with a 20% down payment.
+"The decline in rates gave borrowers some relief, with applications rebounding slightly, particularly conventional applications," said Joel Kan, vice president and deputy chief economist at the MBA, in a release. "Mortgage rates are still more than a percentage point higher than the same week last year and most homeowners still have rates much lower than prevailing market rates."
+And that is why refinance is still running well behind where it was last year. Applications to refinance a home loan climbed 3% for the week but were 61% lower than the same week one year ago. About half of all borrowers today have a mortgage rate below 4%, according to data from the Federal Housing Finance Agency's National Mortgage Database.
+Applications for a mortgage to purchase a home rose 4% for the week but were still 18% lower than the same week one year ago. While mortgage rates have pulled back some in the last few weeks, they are still much higher than they were just a few months ago, and home prices are still rising. Potential homebuyers are also worried about the broader economy, and, anecdotally, some agents say buyers are waiting to see the results of the midterm elections.
+As borrowers search for savings, more are opting for adjustable-rate mortgages. The ARM share of applications increased to 11.3% last week, the highest level in more than a year. The average contract interest rate for 5/1 ARMs decreased to 6.41% from 6.46%. ARMs are considered riskier because they adjust to whatever the current market rate is at the end of their fixed term.
+Mortgage rates haven't moved at all to start this week, according to a separate survey from Mortgage News Daily. That is because there has not been much economic data for the bond market to react to. While the Federal Reserve is not expected to announce any change in its interest rate at Wednesday's meeting, markets could move on any commentary from Fed Chairman Kevin Warsh.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/28/mortgage-rates-fell-for-the-second-straight-week.html",
+    publishedAt: "2026-10-28T11:33:43+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "you-may-get-the-right-to-find-out-what-y-cd629619",
+    title: "You may get the right to find out what your colleagues earn - here's why",
+    titleJa: "You may get the right to find out what your colleagues earn - here's why",
+    summaryJa: "Employees should legally be able to find out what their co-workers are earning, the UK's equality watchdog says",
+    bodyOriginal: `You may get the right to find out what your colleagues earn - here's why
+- Published
+Employees should legally be able to find out what their colleagues are earning, the UK's equality watchdog has said.
+Bosses should be required to respond to questionaires about colleagues' pay to cut pay discrimination, the Equality and Human Rights Commission (EHRC) has proposed, external.
+In addition, employers should be prevented from asking about current salary when offering a job to stop a history of discrimination from carrying on, it said.
+Employers in the UK are currently allowed to ask you how much you get paid in your current role, but applicants are under no obligation to tell them.
+At present, employers do not have to respond to employee requests for salary information about colleagues.
+The EHRC urged lawmakers to make it compulsory for employers to provide information including colleagues' basic pay and hours worked, how employees' pay compares with each other, and information about bonuses, overtime, shift-premiums and performance-related pay, within a specific timeframe.
+The rights watchdog argued that this would help cut pay discrimination, especially against women.
+Women would also benefit from employers publishing salary details in job adverts, the EHRC has said previously, external.
+The job interview question you don't have to answer
+- Published5 October
+John Kirkpatrick, the EHRC chief executive, told the BBC that employers should not be able to ask about salary history when setting pay.
+"When they do, what tends to happen is that can embed a history of disadvantage or discrimination in future salaries," he said.
+While employers should be able to offer a competitive salary, this should not "create a pattern that discriminates," he said.
+The Fawcett Society, which campaigns for women and gender equality, has previously said that asking the question risked maintaining historic unfair differences in pay due to gender, race and disability inequality.
+Rather than offering a salary based on skills, experience and performance, it meant employers rewarded an individual's perceived worth and negotiating skills instead, the society said.
+Get in touch
+Would you be comfortable with colleagues knowing your pay? How useful would it be?`,
+    bodyJa: `You may get the right to find out what your colleagues earn - here's why
+- Published
+Employees should legally be able to find out what their colleagues are earning, the UK's equality watchdog has said.
+Bosses should be required to respond to questionaires about colleagues' pay to cut pay discrimination, the Equality and Human Rights Commission (EHRC) has proposed, external.
+In addition, employers should be prevented from asking about current salary when offering a job to stop a history of discrimination from carrying on, it said.
+Employers in the UK are currently allowed to ask you how much you get paid in your current role, but applicants are under no obligation to tell them.
+At present, employers do not have to respond to employee requests for salary information about colleagues.
+The EHRC urged lawmakers to make it compulsory for employers to provide information including colleagues' basic pay and hours worked, how employees' pay compares with each other, and information about bonuses, overtime, shift-premiums and performance-related pay, within a specific timeframe.
+The rights watchdog argued that this would help cut pay discrimination, especially against women.
+Women would also benefit from employers publishing salary details in job adverts, the EHRC has said previously, external.
+The job interview question you don't have to answer
+- Published5 October
+John Kirkpatrick, the EHRC chief executive, told the BBC that employers should not be able to ask about salary history when setting pay.
+"When they do, what tends to happen is that can embed a history of disadvantage or discrimination in future salaries," he said.
+While employers should be able to offer a competitive salary, this should not "create a pattern that discriminates," he said.
+The Fawcett Society, which campaigns for women and gender equality, has previously said that asking the question risked maintaining historic unfair differences in pay due to gender, race and disability inequality.
+Rather than offering a salary based on skills, experience and performance, it meant employers rewarded an individual's perceived worth and negotiating skills instead, the society said.
+Get in touch
+Would you be comfortable with colleagues knowing your pay? How useful would it be?`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-28T10:42:39+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f46a/live/ff9b0180-d2b8-11f1-8cf0-c5d120932f9f.jpg",
+    readTime: 6,
+  },
+  {
+    id: "energy-bill-help-minimum-wage-rise-and-b-0be38d30",
+    title: "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
+    titleJa: "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
+    summaryJa: "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?- Published",
+    bodyOriginal: `Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?
+- Published
+Chancellor John Healey will set out Labour's tax and spending plans when he delivers his first Budget at around 12:30 on Wednesday.
+The speech, which usually lasts about an hour, will be broadcast live on BBC iPlayer and on the BBC News website.
+He and Prime Minister Andy Burnham are hoping to give households "breathing space" amid the ongoing high cost of living and they have already announced measures to change gas bills.
+But Healey has also refused to rule out some tax increases to potentially pay for support he could distribute elsewhere.
+The government has run an unusually tight ship, preventing policies leaking out ahead of time, but here are the key measures expected.
+Household energy bills are set to see their biggest rise in four years in January, with a typical annual bill forecast to jump by £276.
+Healey has announced that standing charges for household gas bills will be removed for about 23 million homes. These charges are fixed daily fees that are paid by households no matter how much gas they use, and average £108 a year.
+The government says energy regulator Ofgem will aim to deliver the removal of these charges in 2027 or "as soon as possible after".
+However, this will be offset by higher unit costs for gas. Overall the Treasury estimates that three-fifths of households will see an average saving of £45 a year. Lower gas users will save more but higher users will end up with bigger bills than they have now.
+The government also plans to remove tariffs from 100 food items, which it calculates could save households up to £21 per year - or 40p a week - when combined with existing tariff suspensions that were introduced in June.
+The BBC understands the chancellor will keep fuel duty frozen at the Budget and keep in place the 5p fuel duty cut introduced by Rishi Sunak in 2022, as first reported by The Sun, external.
+Household energy bills forecast to see biggest rise in four years
+- Published30 September
+The Budget will contain more details on Burnham's planned Your First Home scheme, aimed at helping first-time buyers in England to purchase a property.
+The scheme will allow people to buy a new-build home with a deposit of 2.5%. It would provide them with a loan worth 20% of their property's value to help pay for the purchase.
+The threshold for eligible buyers will be those with combined incomes of £110,000 outside London, and £140,000 in the capital.
+Burnham announces scheme to help first-time buyers onto housing ladder
+- Published27 September
+A minimum wage increase will be announced in the Budget, but 18- to 20-year-olds are set to see lower increases than in previous years, the BBC understands.
+Pay for younger workers will rise in line with the increase in minimum pay for employees aged 21 years and over.
+However, the increase for younger workers is lower than that seen in the previous two years, when Labour raised the rate to meet a manifesto promise that it would remove "discriminatory age bands" with all adults entitled to the same minimum wage.
+Minimum wage set to rise but 18-20 year-olds will not get bigger increase
+- Published21 hours ago
+Pensioners who only get an income from the state pension are expected to be shielded from paying income tax through a new personal allowance.
+But the full state pension is set to rise above the current £12,570 threshold, to £13,036.40 - which would force one million people to pay tax on it.
+In his Budget, Healey will explain how these pensioners will be exempted.
+State pension likely to top £13,000 a year as UK wage growth slows to 3.9%
+- Published15 September
+An easy target for a Labour chancellor, bank bosses are expecting Healey to raise the amount of tax they pay in order to offer support with energy bills and costs affecting households elsewhere.
+Top executives told the BBC they believe the chancellor could reverse a Conservative cut to the surcharge banks pay on their profits, which lowered it from 8% to 3%. Healey could also raise the levy banks pay on the size of their balance sheets.
+Banks expect to be hit with higher taxes in Budget
+- Published16 October
+Online retail giants such as Amazon and eBay are expected to be made responsible for collecting tax owed by traders using their platforms, according to The Times, external.
+The money raised is expected to be used by the government to cut business rates for High Street shops, by raising the threshold at which small companies start paying rates from £12,000 to £18,000.
+He is also planning support for small breweries.
+Healey has also said the government plans to slash "form-filling and pointless paperwork" to save UK businesses up to £800m. Ministers believe changes in regulations will reduce unnecessary bureaucracy for businesses.
+How is the economy doing?
+Healey has repeatedly praised the UK's resilience. The UK is the fastest growing G7 country so far this year, and performing better than expected in the face of energy price shocks caused by the US-Israel war with Iran.
+But UK growth is expected to slow in the months ahead as those costs continue to weigh on households and businesses.
+Prices for goods and services are still rising faster than wanted. Inflation hit 3.5% in the year to September, the highest rate since October 2025 and above the Bank of England's 2% target, driven by higher petrol and diesel prices.
+Healey's aim in the Budget is to give people "breathing space" to help them cope with the challenges ahead.
+What happens afterwards?
+When the chancellor sits down, the Office for Budget Responsibility (OBR) will publish economic forecasts for the next five years.
+It will set out whether the government is likely to meet the rules it has set for managing the public finances, and how the economy is expected to perform.
+Its judgement on the government's plans is keenly watched by financial markets and can have a significant impact on confidence, in turn affecting government borrowing costs.
+Leader of the Opposition Kemi Badenoch will respond to the speech in the House of Commons.
+MPs then debate the measures for three days before voting on them.
+If approved by MPs, tax changes can come into effect immediately.
+However, the government must pass a finance bill to make them permanent.
+Get in touch
+Do you have any views, comments or questions about this story?
+Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
+    bodyJa: `Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?
+- Published
+Chancellor John Healey will set out Labour's tax and spending plans when he delivers his first Budget at around 12:30 on Wednesday.
+The speech, which usually lasts about an hour, will be broadcast live on BBC iPlayer and on the BBC News website.
+He and Prime Minister Andy Burnham are hoping to give households "breathing space" amid the ongoing high cost of living and they have already announced measures to change gas bills.
+But Healey has also refused to rule out some tax increases to potentially pay for support he could distribute elsewhere.
+The government has run an unusually tight ship, preventing policies leaking out ahead of time, but here are the key measures expected.
+Household energy bills are set to see their biggest rise in four years in January, with a typical annual bill forecast to jump by £276.
+Healey has announced that standing charges for household gas bills will be removed for about 23 million homes. These charges are fixed daily fees that are paid by households no matter how much gas they use, and average £108 a year.
+The government says energy regulator Ofgem will aim to deliver the removal of these charges in 2027 or "as soon as possible after".
+However, this will be offset by higher unit costs for gas. Overall the Treasury estimates that three-fifths of households will see an average saving of £45 a year. Lower gas users will save more but higher users will end up with bigger bills than they have now.
+The government also plans to remove tariffs from 100 food items, which it calculates could save households up to £21 per year - or 40p a week - when combined with existing tariff suspensions that were introduced in June.
+The BBC understands the chancellor will keep fuel duty frozen at the Budget and keep in place the 5p fuel duty cut introduced by Rishi Sunak in 2022, as first reported by The Sun, external.
+Household energy bills forecast to see biggest rise in four years
+- Published30 September
+The Budget will contain more details on Burnham's planned Your First Home scheme, aimed at helping first-time buyers in England to purchase a property.
+The scheme will allow people to buy a new-build home with a deposit of 2.5%. It would provide them with a loan worth 20% of their property's value to help pay for the purchase.
+The threshold for eligible buyers will be those with combined incomes of £110,000 outside London, and £140,000 in the capital.
+Burnham announces scheme to help first-time buyers onto housing ladder
+- Published27 September
+A minimum wage increase will be announced in the Budget, but 18- to 20-year-olds are set to see lower increases than in previous years, the BBC understands.
+Pay for younger workers will rise in line with the increase in minimum pay for employees aged 21 years and over.
+However, the increase for younger workers is lower than that seen in the previous two years, when Labour raised the rate to meet a manifesto promise that it would remove "discriminatory age bands" with all adults entitled to the same minimum wage.
+Minimum wage set to rise but 18-20 year-olds will not get bigger increase
+- Published21 hours ago
+Pensioners who only get an income from the state pension are expected to be shielded from paying income tax through a new personal allowance.
+But the full state pension is set to rise above the current £12,570 threshold, to £13,036.40 - which would force one million people to pay tax on it.
+In his Budget, Healey will explain how these pensioners will be exempted.
+State pension likely to top £13,000 a year as UK wage growth slows to 3.9%
+- Published15 September
+An easy target for a Labour chancellor, bank bosses are expecting Healey to raise the amount of tax they pay in order to offer support with energy bills and costs affecting households elsewhere.
+Top executives told the BBC they believe the chancellor could reverse a Conservative cut to the surcharge banks pay on their profits, which lowered it from 8% to 3%. Healey could also raise the levy banks pay on the size of their balance sheets.
+Banks expect to be hit with higher taxes in Budget
+- Published16 October
+Online retail giants such as Amazon and eBay are expected to be made responsible for collecting tax owed by traders using their platforms, according to The Times, external.
+The money raised is expected to be used by the government to cut business rates for High Street shops, by raising the threshold at which small companies start paying rates from £12,000 to £18,000.
+He is also planning support for small breweries.
+Healey has also said the government plans to slash "form-filling and pointless paperwork" to save UK businesses up to £800m. Ministers believe changes in regulations will reduce unnecessary bureaucracy for businesses.
+How is the economy doing?
+Healey has repeatedly praised the UK's resilience. The UK is the fastest growing G7 country so far this year, and performing better than expected in the face of energy price shocks caused by the US-Israel war with Iran.
+But UK growth is expected to slow in the months ahead as those costs continue to weigh on households and businesses.
+Prices for goods and services are still rising faster than wanted. Inflation hit 3.5% in the year to September, the highest rate since October 2025 and above the Bank of England's 2% target, driven by higher petrol and diesel prices.
+Healey's aim in the Budget is to give people "breathing space" to help them cope with the challenges ahead.
+What happens afterwards?
+When the chancellor sits down, the Office for Budget Responsibility (OBR) will publish economic forecasts for the next five years.
+It will set out whether the government is likely to meet the rules it has set for managing the public finances, and how the economy is expected to perform.
+Its judgement on the government's plans is keenly watched by financial markets and can have a significant impact on confidence, in turn affecting government borrowing costs.
+Leader of the Opposition Kemi Badenoch will respond to the speech in the House of Commons.
+MPs then debate the measures for three days before voting on them.
+If approved by MPs, tax changes can come into effect immediately.
+However, the government must pass a finance bill to make them permanent.
+Get in touch
+Do you have any views, comments or questions about this story?
+Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-28T09:25:19+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c529/live/61181430-d2a9-11f1-b441-2b33b063138f.jpg",
+    readTime: 10,
+  },
+  {
     id: "meta-and-google-backed-jio-platforms-sha-eaf5095f",
     title: "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
     titleJa: "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
@@ -1583,484 +1957,6 @@ If recent political history is any guide, perceptions of the economy may matter 
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8781/live/0baf72c0-cc7a-11f1-a64c-550be9e3c66b.png",
     readTime: 10,
-  },
-  {
-    id: "hsbc-announces-share-buyback-of-up-to-1-fcd0b412",
-    title: "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
-    titleJa: "HSBC announces share buyback of up to $1 billion as third-quarter profit meets estimates",
-    summaryJa: "Europe's largest bank HSBC on Tuesday reported third-quarter pretax profit that largely met analysts' estimates complied by the lender, and announced a share buyback of up to $1 billion by the end of this year.",
-    bodyOriginal: `Europe's largest bank HSBC on Tuesday reported third-quarter pretax profit that largely met analysts' estimates complied by the lender, and announced a share buyback of up to $1 billion by the end of this year.
-Revenue at HSBC rose to $18.6 billion from $17.8 billion in the same period last year, while banking net interest income rose 6%, alongside the bank clocking higher fee income form its corporate and institutional banking and wealth business.
-Here are HSBC's third -quarter results compared with the consensus estimates compiled by the bank.
-- Pre-tax profit: $9.63 billion vs. $9.69 billion expected
-- Revenue: $18.6 billion vs. $18.93 billion expected
-The bank's third-quarter profit before tax increased 32% from a year earlier to $9.6 billion, also reflecting the absence of $1.4 billion in legal provisions recorded in the same period last year. Higher revenue and lower credit losses also supported earnings.
-HSBC approved a third interim divided of 10 cents per share.
-The bank's net interest income rose to $9.3 billion in the third quarter, supported by deposit growth and higher yields from reinvestments in the bank's structural portfolio.
-Meanwhile, operating expenses decreased 12% year on year to $8.8 billion, largely due to non-recurrence of legal provisions recorded a year earlier. Excluding notable items, expenses rose amid inflation and higher spending on technology.
-The earnings come as HSBC is reportedly considering significant job cuts in its U.K. wealth management business, as part of a broader push to adopt artificial intelligence.`,
-    bodyJa: `Europe's largest bank HSBC on Tuesday reported third-quarter pretax profit that largely met analysts' estimates complied by the lender, and announced a share buyback of up to $1 billion by the end of this year.
-Revenue at HSBC rose to $18.6 billion from $17.8 billion in the same period last year, while banking net interest income rose 6%, alongside the bank clocking higher fee income form its corporate and institutional banking and wealth business.
-Here are HSBC's third -quarter results compared with the consensus estimates compiled by the bank.
-- Pre-tax profit: $9.63 billion vs. $9.69 billion expected
-- Revenue: $18.6 billion vs. $18.93 billion expected
-The bank's third-quarter profit before tax increased 32% from a year earlier to $9.6 billion, also reflecting the absence of $1.4 billion in legal provisions recorded in the same period last year. Higher revenue and lower credit losses also supported earnings.
-HSBC approved a third interim divided of 10 cents per share.
-The bank's net interest income rose to $9.3 billion in the third quarter, supported by deposit growth and higher yields from reinvestments in the bank's structural portfolio.
-Meanwhile, operating expenses decreased 12% year on year to $8.8 billion, largely due to non-recurrence of legal provisions recorded a year earlier. Excluding notable items, expenses rose amid inflation and higher spending on technology.
-The earnings come as HSBC is reportedly considering significant job cuts in its U.K. wealth management business, as part of a broader push to adopt artificial intelligence.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
-    publishedAt: "2026-10-27T04:42:31+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "judge-fast-tracks-doj-s-alaska-senate-la-9de3dee4",
-    title: "Judge fast-tracks DOJ's Alaska Senate lawsuit as Peltola seeks dismissal before Election Day",
-    titleJa: "Judge fast-tracks DOJ's Alaska Senate lawsuit as Peltola seeks dismissal before Election Day",
-    summaryJa: "The winner of the Alaska Senate election could determine whether Republicans or Democrats have a majority in the Senate in the next Congress.",
-    bodyOriginal: `A federal judge Monday night fast-tracked the Department of Justice's lawsuit seeking to block prompt certification of Alaska's Senate election if Republican incumbent Sen. Dan Sullivan loses the race because of potential voter confusion from another candidate who shares his name.
-Judge Sharon Gleason's order sets the stage for her to potentially rule on a request by the campaign of Democratic nominee Mary Peltola to dismiss the suit before Election Day, Nov. 3.
-The winner of the race could determine which party holds a majority in the Senate starting in January.
-Gleason granted a motion by Peltola's campaign and the Democratic Senatorial Campaign Committee to expedite consideration of the case in U.S. District Court in Alaska.
-The judge ordered the DOJ to respond by 5 p.m. Alaska Time on Tuesday to motions to intervene in the case by Peltola's campaign, the DSCC, the League of Women Voters and the advocacy group Common Cause. Gleason said she intends to rule on the motions to intervene by late Wednesday afternoon.
-If she grants the motions to intervene, Gleason said the DOJ should be prepared to respond to the motion to dismiss the case by Peltola's campaign and the DSCC by 5 p.m. Thursday.
-Shortly after Gleason issued her order, Alaska election officials filed a motion asking the judge to dismiss the lawsuit "immediately, with prejudice, because the complaint has no legal basis." The filing was the first by state officials in the case.
-The motion, which seeks a decision by Nov. 2 — the day before the election — says Alaska's Division of Elections "has taken significant steps to distinguish" between the two Sullivans on the ballot, "so that voters can easily determine which candidate is which."
-The motion said that "the United States lacks authority to intervene in state elections at all, much less in support of a favored candidate."
-"This lawsuit and this requested relief cast a cloud over Alaska's election that is contrary to the public interest and that the Court should not allow to linger," lawyers for the officials said in a court filing.
-A lawyer for Peltola's campaign and the DSCC in a court filing Sunday said they are "seriously concerned" President Donald Trump, a Republican, and Attorney General Todd Blanche will use the lawsuit to "lay the groundwork for unlawful efforts to challenge a potential Peltola victory" if the complaint remains pending as of Nov. 3.
-The Department of Justice filed the suit Thursday. Trump later that day said he ordered it.
-The DOJ's suit asks a judge to bar Alaska from certifying the Senate race results if incumbent Sen. Sullivan loses by a margin that could be attributable to voters mistakenly casting their ballots for Daniel J. Sullivan.
-The DOJ, in that case, would want an investigation to determine whether enough voters were confused by the men's names to swing the vote to another candidate, presumably the former Rep. Peltola.
-The DOJ claims that Daniel J. Sullivan's "sole purpose" of running "is to benefit the Peltola campaign by reducing the number of votes for Senator Sullivan."
-Daniel J. Sullivan, in an email to the Alaska Beacon on Monday, said, "This experience has been beyond anything I could have ever imagined."
-"To say that it has now become overwhelming and intimidating is an understatement. It is unending stress, at times paralyzing and I am looking forward to it being over," Sullivan said, according to the news outlet.
-"I ran because I was unhappy with the status quo and wanted to be a voice for common sense, Alaska values and change," Sullivan said. "With the litigation and threats, I was never really able to get up and running like I wanted, but I did the best I could under the circumstances."
-"As for the DOJ lawsuit against the state, it seems a gross misuse of the Justice Department for a situation that has already been litigated and resolved by the Alaska Supreme Court," he said, referencing a court action that put his name on the primary ballot after election officials initially rejected it.
-"I think the Division of Elections did a notable job of differentiating two candidates on the ballot with similar names and the primary showed there was little if any confusion," he said. "Alaskan voters are smart and I have faith in their ability to make an informed decision on their ballots."
-In their motion to expedite the case, Peltola's campaign and the DSCC said, "DOJ filed this lawsuit in the midst of the ongoing general election, less than two weeks before election day, raising issues governed exclusively by state law that were definitively resolved by the Alaska Supreme Court months ago."
-"DOJ seeks an unprecedented order precluding certification of the U.S. Senate election if the candidate the President favors loses narrowly," the filing said.
-"As the proposed Motion to Dismiss reflects, DOJ's claims are utterly without legal basis," the filing said.
-"The Court should not allow this lawsuit to hang like the Sword of Damocles over the ongoing election, lending false legitimacy to the President's and the Attorney General's ongoing efforts to spread false narratives about Alaska's elections as voting continues and as results begin to be tabulated next week."
-The DOJ declined to comment Monday on the motions, but pointed to an X post by Blanche on Sunday.
-"The Department of Justice does not seek to stop any ballot from being cast or to stop the certification of Alaska's election," Blanche had said. "This litigation seeks to ensure that after Alaskans cast their ballots, they are preserved in a manner so that only Alaska's governing officials have the information necessary to make a determination as to whether Alaskan voters were confused or mislead."
-"The lawsuit was written by Justice Department attorneys and the Department did not coordinate with any campaign or candidate, but rather relied solely on federal law," Blanche said.
-The department has not said how any investigation before certification of the election could determine whether a voter was confused about which Sullivan they were voting for. The ballot for the election notes that Sen. Sullivan — whose name is listed as Dan S. Sullivan — is an incumbent and a Republican. There are no words next to the name of the other Sullivan, whose name is spelled out Daniel J. Sullivan.
-Peltola on Friday night told MS NOW's Nicolle Wallace that the DOJ's suit "is exactly the kind of corruption that Alaskans are sick and tired of."
-"This is clearly a very desperate attempt to cling to power, using his allies in Washington, D.C., to rig the system even further," Peltola said.
-Peltola's campaign on Sunday said that on Saturday night she and her family "sustained minor injuries" that required medical attention after a vehicle transporting them en route to the Alaska Federation of Natives Annual Banquet was struck by another driver.
-As a result, Peltola posted events in Fairbanks and Bethel on Sunday and Monday. The campaign said that those events would be rescheduled.`,
-    bodyJa: `A federal judge Monday night fast-tracked the Department of Justice's lawsuit seeking to block prompt certification of Alaska's Senate election if Republican incumbent Sen. Dan Sullivan loses the race because of potential voter confusion from another candidate who shares his name.
-Judge Sharon Gleason's order sets the stage for her to potentially rule on a request by the campaign of Democratic nominee Mary Peltola to dismiss the suit before Election Day, Nov. 3.
-The winner of the race could determine which party holds a majority in the Senate starting in January.
-Gleason granted a motion by Peltola's campaign and the Democratic Senatorial Campaign Committee to expedite consideration of the case in U.S. District Court in Alaska.
-The judge ordered the DOJ to respond by 5 p.m. Alaska Time on Tuesday to motions to intervene in the case by Peltola's campaign, the DSCC, the League of Women Voters and the advocacy group Common Cause. Gleason said she intends to rule on the motions to intervene by late Wednesday afternoon.
-If she grants the motions to intervene, Gleason said the DOJ should be prepared to respond to the motion to dismiss the case by Peltola's campaign and the DSCC by 5 p.m. Thursday.
-Shortly after Gleason issued her order, Alaska election officials filed a motion asking the judge to dismiss the lawsuit "immediately, with prejudice, because the complaint has no legal basis." The filing was the first by state officials in the case.
-The motion, which seeks a decision by Nov. 2 — the day before the election — says Alaska's Division of Elections "has taken significant steps to distinguish" between the two Sullivans on the ballot, "so that voters can easily determine which candidate is which."
-The motion said that "the United States lacks authority to intervene in state elections at all, much less in support of a favored candidate."
-"This lawsuit and this requested relief cast a cloud over Alaska's election that is contrary to the public interest and that the Court should not allow to linger," lawyers for the officials said in a court filing.
-A lawyer for Peltola's campaign and the DSCC in a court filing Sunday said they are "seriously concerned" President Donald Trump, a Republican, and Attorney General Todd Blanche will use the lawsuit to "lay the groundwork for unlawful efforts to challenge a potential Peltola victory" if the complaint remains pending as of Nov. 3.
-The Department of Justice filed the suit Thursday. Trump later that day said he ordered it.
-The DOJ's suit asks a judge to bar Alaska from certifying the Senate race results if incumbent Sen. Sullivan loses by a margin that could be attributable to voters mistakenly casting their ballots for Daniel J. Sullivan.
-The DOJ, in that case, would want an investigation to determine whether enough voters were confused by the men's names to swing the vote to another candidate, presumably the former Rep. Peltola.
-The DOJ claims that Daniel J. Sullivan's "sole purpose" of running "is to benefit the Peltola campaign by reducing the number of votes for Senator Sullivan."
-Daniel J. Sullivan, in an email to the Alaska Beacon on Monday, said, "This experience has been beyond anything I could have ever imagined."
-"To say that it has now become overwhelming and intimidating is an understatement. It is unending stress, at times paralyzing and I am looking forward to it being over," Sullivan said, according to the news outlet.
-"I ran because I was unhappy with the status quo and wanted to be a voice for common sense, Alaska values and change," Sullivan said. "With the litigation and threats, I was never really able to get up and running like I wanted, but I did the best I could under the circumstances."
-"As for the DOJ lawsuit against the state, it seems a gross misuse of the Justice Department for a situation that has already been litigated and resolved by the Alaska Supreme Court," he said, referencing a court action that put his name on the primary ballot after election officials initially rejected it.
-"I think the Division of Elections did a notable job of differentiating two candidates on the ballot with similar names and the primary showed there was little if any confusion," he said. "Alaskan voters are smart and I have faith in their ability to make an informed decision on their ballots."
-In their motion to expedite the case, Peltola's campaign and the DSCC said, "DOJ filed this lawsuit in the midst of the ongoing general election, less than two weeks before election day, raising issues governed exclusively by state law that were definitively resolved by the Alaska Supreme Court months ago."
-"DOJ seeks an unprecedented order precluding certification of the U.S. Senate election if the candidate the President favors loses narrowly," the filing said.
-"As the proposed Motion to Dismiss reflects, DOJ's claims are utterly without legal basis," the filing said.
-"The Court should not allow this lawsuit to hang like the Sword of Damocles over the ongoing election, lending false legitimacy to the President's and the Attorney General's ongoing efforts to spread false narratives about Alaska's elections as voting continues and as results begin to be tabulated next week."
-The DOJ declined to comment Monday on the motions, but pointed to an X post by Blanche on Sunday.
-"The Department of Justice does not seek to stop any ballot from being cast or to stop the certification of Alaska's election," Blanche had said. "This litigation seeks to ensure that after Alaskans cast their ballots, they are preserved in a manner so that only Alaska's governing officials have the information necessary to make a determination as to whether Alaskan voters were confused or mislead."
-"The lawsuit was written by Justice Department attorneys and the Department did not coordinate with any campaign or candidate, but rather relied solely on federal law," Blanche said.
-The department has not said how any investigation before certification of the election could determine whether a voter was confused about which Sullivan they were voting for. The ballot for the election notes that Sen. Sullivan — whose name is listed as Dan S. Sullivan — is an incumbent and a Republican. There are no words next to the name of the other Sullivan, whose name is spelled out Daniel J. Sullivan.
-Peltola on Friday night told MS NOW's Nicolle Wallace that the DOJ's suit "is exactly the kind of corruption that Alaskans are sick and tired of."
-"This is clearly a very desperate attempt to cling to power, using his allies in Washington, D.C., to rig the system even further," Peltola said.
-Peltola's campaign on Sunday said that on Saturday night she and her family "sustained minor injuries" that required medical attention after a vehicle transporting them en route to the Alaska Federation of Natives Annual Banquet was struck by another driver.
-As a result, Peltola posted events in Fairbanks and Bethel on Sunday and Monday. The campaign said that those events would be rescheduled.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/26/alaska-senate-peltola-doj-lawsuit-election-sullivan.html",
-    publishedAt: "2026-10-27T04:40:30+00:00",
-    category: "自動車",
-    imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "what-gave-this-city-its-best-place-to-re-e034d767",
-    title: "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
-    titleJa: "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
-    summaryJa: "Low cost of living, high quality of life and favorable taxes for retirees, for the win.",
-    bodyOriginal: `Low cost of living, high quality of life and favorable taxes for retirees, for the win.`,
-    bodyJa: `Low cost of living, high quality of life and favorable taxes for retirees, for the win.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
-    publishedAt: "2026-10-27T04:01:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-51699751",
-    readTime: 2,
-  },
-  {
-    id: "china-industrial-profits-post-strongest-b1bbff3c",
-    title: "China industrial profits post strongest growth in three months as tech boom widens economic divide",
-    titleJa: "China industrial profits post strongest growth in three months as tech boom widens economic divide",
-    summaryJa: "The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings at miners, chipmakers and raw-material suppliers.",
-    bodyOriginal: `China's industrial profits grew at their strongest pace last month since June, as a boom in manufacturing tied to artificial intelligence offset drag from persistently weak domestic demand.
-Profits at large industrial firms rose 14.4% in September from a year earlier, according to data released Tuesday by the National Bureau of Statistics. For the first nine months of this year, industrial profits climbed 15.5%, slightly below the 15.7% rise in the January-September period.
-The strength comes as industrial earnings swung to double-digit growth earlier this year, following a modest gain in 2025 after three straight years of declines, helped by Beijing's efforts to curb rampant price wars across sectors and surging demand for AI-related equipment.
-The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings for miners, chipmakers and raw-material suppliers this year, even as downstream manufacturers face rising input costs and weak domestic demand.
-The uptick in earnings came as factory-gate prices rose at their fastest pace since mid-2022, driven by higher energy and raw material prices amid the Middle East conflict.
-AI boom vs consumer bust
-Earnings growth in high-tech sectors, such as AI and robotics, has been outperforming profits in consumer-related industries, including clothing, autos and furniture, underscoring the increasingly bifurcated momentum in the economy.
-NBS Chief Statistician Yu Weining attributed earnings growth mostly to surging profits in electronics and advanced-technology manufacturing sectors. Electronic special materials manufacturers saw profits more than triple, while they jumped 51.7% for semiconductor device equipment makers, as demand for AI computing power and storage over the nine months remained robust.
-The buildout of AI computing power and data centers sent profits at optical fiber manufacturers more than sixfold higher, while those at cable makers more than doubled in the January-to-September period from a year earlier, according to Yu.
-Raw material producers for copper and aluminum also benefited from rising demand from AI-related and renewable industries, with profits rising nearly 45% over the nine months.
-High-tech manufacturing investment and electronics capacity utilization remain resilient, supported by the global AI cycle and domestic policy priorities, said Shena Yue, senior economist at Oxford Economics. Overall investment and industrial utilization are still subdued, she said.
-Household demand is the weak link as the property downturn continues to weigh on housing purchases and related durables, Yue said. "China's export strength isn't able to fully offset its domestic weakness," she said.
-Consumption remains soft, with retail sales growing 1.1% in September, beating forecasts but only marginally above August's weak reading.
-China's economy expanded 4.5% in the third quarter from a year earlier, slightly faster than the previous quarter, taking growth in the first nine months to 4.6%, within the government's full-year target range of 4.5% to 5%.
-Muted stimulus
-Beijing has so far held back from major new stimulus for domestic demand, with concerns mounting over local government debt and the benefits of consumer trade-in subsidies fading.
-Policymakers see no urgency to act, said Dan Wang, China director at Eurasia Group. Falling prices have raised purchasing power even as deflationary pressure builds, and officials are betting on tech exports to hit this year's growth target, she said.
-But the strains are mounting among businesses and consumers. Most manufacturers make "very thin" profits, some even running at a loss, Wang said, while consumers continue to save up instead of spending, at a time when China faces its most severe employment crisis in decades.
-Local governments across the country, saddled with debts, are also wary of spending as Beijing works to rein in local debt and excess capacity, Wang said. "A lot of money they should have spent is not spent because the officials are so afraid of being held accountable for new projects that they have approved."
-Pessimism over the breadth of businesses' profitability has also gripped Chinese stocks, driving the benchmark CSI 300 Index into a bear market late last week, as a prolonged consumption slump and intense competition have taken a toll on earnings.`,
-    bodyJa: `China's industrial profits grew at their strongest pace last month since June, as a boom in manufacturing tied to artificial intelligence offset drag from persistently weak domestic demand.
-Profits at large industrial firms rose 14.4% in September from a year earlier, according to data released Tuesday by the National Bureau of Statistics. For the first nine months of this year, industrial profits climbed 15.5%, slightly below the 15.7% rise in the January-September period.
-The strength comes as industrial earnings swung to double-digit growth earlier this year, following a modest gain in 2025 after three straight years of declines, helped by Beijing's efforts to curb rampant price wars across sectors and surging demand for AI-related equipment.
-The global AI boom and higher commodity prices stemming from the war in Iran have lifted earnings for miners, chipmakers and raw-material suppliers this year, even as downstream manufacturers face rising input costs and weak domestic demand.
-The uptick in earnings came as factory-gate prices rose at their fastest pace since mid-2022, driven by higher energy and raw material prices amid the Middle East conflict.
-AI boom vs consumer bust
-Earnings growth in high-tech sectors, such as AI and robotics, has been outperforming profits in consumer-related industries, including clothing, autos and furniture, underscoring the increasingly bifurcated momentum in the economy.
-NBS Chief Statistician Yu Weining attributed earnings growth mostly to surging profits in electronics and advanced-technology manufacturing sectors. Electronic special materials manufacturers saw profits more than triple, while they jumped 51.7% for semiconductor device equipment makers, as demand for AI computing power and storage over the nine months remained robust.
-The buildout of AI computing power and data centers sent profits at optical fiber manufacturers more than sixfold higher, while those at cable makers more than doubled in the January-to-September period from a year earlier, according to Yu.
-Raw material producers for copper and aluminum also benefited from rising demand from AI-related and renewable industries, with profits rising nearly 45% over the nine months.
-High-tech manufacturing investment and electronics capacity utilization remain resilient, supported by the global AI cycle and domestic policy priorities, said Shena Yue, senior economist at Oxford Economics. Overall investment and industrial utilization are still subdued, she said.
-Household demand is the weak link as the property downturn continues to weigh on housing purchases and related durables, Yue said. "China's export strength isn't able to fully offset its domestic weakness," she said.
-Consumption remains soft, with retail sales growing 1.1% in September, beating forecasts but only marginally above August's weak reading.
-China's economy expanded 4.5% in the third quarter from a year earlier, slightly faster than the previous quarter, taking growth in the first nine months to 4.6%, within the government's full-year target range of 4.5% to 5%.
-Muted stimulus
-Beijing has so far held back from major new stimulus for domestic demand, with concerns mounting over local government debt and the benefits of consumer trade-in subsidies fading.
-Policymakers see no urgency to act, said Dan Wang, China director at Eurasia Group. Falling prices have raised purchasing power even as deflationary pressure builds, and officials are betting on tech exports to hit this year's growth target, she said.
-But the strains are mounting among businesses and consumers. Most manufacturers make "very thin" profits, some even running at a loss, Wang said, while consumers continue to save up instead of spending, at a time when China faces its most severe employment crisis in decades.
-Local governments across the country, saddled with debts, are also wary of spending as Beijing works to rein in local debt and excess capacity, Wang said. "A lot of money they should have spent is not spent because the officials are so afraid of being held accountable for new projects that they have approved."
-Pessimism over the breadth of businesses' profitability has also gripped Chinese stocks, driving the benchmark CSI 300 Index into a bear market late last week, as a prolonged consumption slump and intense competition have taken a toll on earnings.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/27/china-industrial-profits-september-ai-tech-exports-.html",
-    publishedAt: "2026-10-27T03:34:08+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "apple-says-it-will-replace-iphone-duo-ha-7642f476",
-    title: "Apple says it will replace iPhone Duo handsets with screen problems",
-    titleJa: "Apple says it will replace iPhone Duo handsets with screen problems",
-    summaryJa: "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
-    bodyOriginal: `Apple says it will replace iPhone Duo handsets with screen problems
-- Published
-Apple says it will replace iPhone Duo handsets that have developed problems with their screens just days after the highly-anticipated smartphone went on sale.
-Photos posted on social media show lines that appeared on the screens of the technology giant's first ever foldable device, which has a starting price of £1,999 ($2,668) in the UK.
-Apple said it is aware of "an issue impacting the inner display on a small number" of the phones and urged affected users to contact the company for a replacement.
-The Duo's launch, which attracted crowds at Apple stores around the world last week, comes as the brand tries to reinvigorate its range of devices and challenge the foldable phones made by rivals.
-Some Duo owners also posted photos online showing cracks along the screen's centre crease, while others reported a crunching noise when opening the device.
-An iPhone Duo user, Justin Lokos, posted an image of a device with lines across the right side of the display and later uploaded a picture of a new handset alongside the broken one, thanking an Apple store in New York for its help.
-The extent of the issue remains unclear. Apple did not say how many devices were affected, while some images showing faulty devices may have been created using artificial intelligence.
-The Duo's 7.6-inch (19.3cm) inner display is held together by a central hinge - a complex piece of engineering that has resulted in similar flaws in folding devices made by some of Apple's competitors.
-Samsung's first foldable phone, the Galaxy Fold, suffered an early setback in 2019 when reviewers reported broken screens on the devices.
-Android users already have a broad selection of foldable phones to choose from, technology that Apple spent years developing before the Duo's release.
-It is Apple's most expensive iPhone ever, costing up to £3,199 for the most well-equipped models.
-The Duo marks Apple's first major iPhone redesign in almost two decades and was unveiled by new chief executive John Ternus, who took over from Tim Cook in September.
-When closed, the Duo looks like a wider version of an iPhone, then opens up to a device resembling a small tablet computer.
-"Others have created foldables that just feel like two phones awkwardly stuck together", Ternus told an audience at Apple's California headquarters last month.
-The Duo, he said, would "redefine the experience of using a foldable phone".
-Related topics
-- Published10 September
-- Published3 September 2022`,
-    bodyJa: `Apple says it will replace iPhone Duo handsets with screen problems
-- Published
-Apple says it will replace iPhone Duo handsets that have developed problems with their screens just days after the highly-anticipated smartphone went on sale.
-Photos posted on social media show lines that appeared on the screens of the technology giant's first ever foldable device, which has a starting price of £1,999 ($2,668) in the UK.
-Apple said it is aware of "an issue impacting the inner display on a small number" of the phones and urged affected users to contact the company for a replacement.
-The Duo's launch, which attracted crowds at Apple stores around the world last week, comes as the brand tries to reinvigorate its range of devices and challenge the foldable phones made by rivals.
-Some Duo owners also posted photos online showing cracks along the screen's centre crease, while others reported a crunching noise when opening the device.
-An iPhone Duo user, Justin Lokos, posted an image of a device with lines across the right side of the display and later uploaded a picture of a new handset alongside the broken one, thanking an Apple store in New York for its help.
-The extent of the issue remains unclear. Apple did not say how many devices were affected, while some images showing faulty devices may have been created using artificial intelligence.
-The Duo's 7.6-inch (19.3cm) inner display is held together by a central hinge - a complex piece of engineering that has resulted in similar flaws in folding devices made by some of Apple's competitors.
-Samsung's first foldable phone, the Galaxy Fold, suffered an early setback in 2019 when reviewers reported broken screens on the devices.
-Android users already have a broad selection of foldable phones to choose from, technology that Apple spent years developing before the Duo's release.
-It is Apple's most expensive iPhone ever, costing up to £3,199 for the most well-equipped models.
-The Duo marks Apple's first major iPhone redesign in almost two decades and was unveiled by new chief executive John Ternus, who took over from Tim Cook in September.
-When closed, the Duo looks like a wider version of an iPhone, then opens up to a device resembling a small tablet computer.
-"Others have created foldables that just feel like two phones awkwardly stuck together", Ternus told an audience at Apple's California headquarters last month.
-The Duo, he said, would "redefine the experience of using a foldable phone".
-Related topics
-- Published10 September
-- Published3 September 2022`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-27T01:48:04+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/896f/live/1944e2f0-d1a5-11f1-a611-7ff246f4f9f3.jpg",
-    readTime: 6,
-  },
-  {
-    id: "i-m-a-single-mum-on-41-000-and-limit-my-364f404f",
-    title: "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
-    titleJa: "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
-    summaryJa: "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
-    bodyOriginal: `'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?
-- Published
-Chancellor John Healey is set to unveil his first Budget on Wednesday.
-Unlike in previous years there have been very few leaks about what will be in it, though Healey's tax and spending plans will be under close scrutiny at a time when government borrowing costs are at "historic highs".
-BBC News has been speaking to people on a range of incomes on how they feel about their finances and what they would like to see in the Budget.
-If there are issues you would like to see covered, you can get in touch via BBC Your Voice.
-Chloe's biggest worry is the cost of living. Her husband passed away four years ago and she's bringing up their 16-year-old son alone.
-She's very grateful the rent for her south London maisonette is subsidised through a housing association, but says life was easier when she shared the bills. "Two incomes make a massive difference."
-Her energy bill has risen sharply over the past year and she now pays about £200 a month on gas and electricity.
-"We try to be more aware, we think more about how long we run the hot water when we do the dishes."
-Chloe, 40, and her son have cut back on luxuries like going to M&S and the cinema, and she now tries to limit the weekly food shop to £40.
-But she can't do anything to reduce her £200 council tax bill, or the amount she spends on medicines for her various health conditions, including rheumatoid arthritis.
-Chloe wants to see more help for single-parent families.
-"I don't access benefits but I work full-time and it's hard. Can the government do anything else to help? Something on our tax bill perhaps."
-'I earn £22,000. Saving for a house is impossible'
-Robert Portlock, 29, has always lived with his parents in Gateshead and would love to move out. But he doesn't think he can afford to.
-Rent would be his biggest concern, he says, explaining that a small flat in his area would cost him about two-thirds of his monthly wage.
-"Council tax and energy bills would add to it. Food too. I'd need a TV licence, broadband, my car and some money to socialise. By that point I'd be in the minus."
-Robert's biggest expense currently is his car, which he says he needs for his 32-mile round trip to work at Newcastle Airport. But he's paying £750 a month in car finance, insurance, fuel and tax.
-He wants the chancellor to cut fuel duty and income tax, or increase the personal allowance - the amount of income you do not have to pay tax on - to about £16,000, up from £12,570 currently.
-He would like to get on the housing ladder but for now it feels a distant prospect. The government has announced a scheme to help first-time buyers in England who have a deposit of 2.5%, but Robert says: "Saving for a house is impossible at the moment."
-What is the Budget and what could be in it?
-- Published1 day ago
-'I get £338 UC per month. I'm trying my best'
-Emily Nelson completed her A-levels last year and like thousands of her peers has been unable to find a job since leaving college.
-The 19-year-old from Swindon wants to be an animator but in the meantime is applying for retail and sales roles and apprenticeships. Most of the time, she doesn't hear back from potential employers.
-"I'm trying my best, it's all you really can do. It's kind of suffocating in a way. You see everyone else managing, and you feel like you're not."
-She wants the government to provide more funding to businesses so they can take on more young employees. She'd also like to see more money for training and the government's Jobs Guarantee, external scheme extended.
-The scheme, being rolled out across England, Scotland and Wales, guarantees fully funded, six-month paid jobs for 18 to 24-year-olds who have been on universal credit and looking for work for 18 months. But Emily thinks people should be eligible after a year.
-She is living with her parents but wants to move out eventually. "My parents want me to get a job first. They are not putting pressure on me to go yet."
-'I earn £30,000 and dread filling up my car'
-Dave Herbert, a professional driver who moves cars between showrooms and does deliveries, says fuel prices have been "crazy" this year.
-He spends around £350 a month on petrol for work and personal use. That's 40% to 50% more than at the start of the year, he says.
-He has to commute into Cardiff, a 62-mile round trip from his home in Ynysddu. "I'd love to have a hybrid car but even an entry-level used car is too expensive."
-The 48-year-old, who is married with a 12-year-old daughter, says he has to find the extra money for fuel "from an already tight budget" and "dreads" filling up at the pump.
-"The best thing they could do at the Budget is drastically remove or reduce fuel duty for a period of time."
-The main fuel duty rate has been frozen at 57.95p per litre since March 2011, but Dave says: "It sounds like they're giving us something by keeping it frozen but they're actually still taking it off us."
-'I earn £150,000 and would be happy to pay more tax'
-Jonathan Whitwam, who recently joined the Labour Party, works in finance and says, in addition to his mortgage, his biggest outgoing is supporting his two daughters through university. He and his wife, who live in Essex, pay their rent, which is around £18,000 per year.
-His daughters will start their working lives with between £45,000 to £60,000 of debt each, plus interest, which will be compounding at £5,000 to £8,000 per year.
-"I have no objection to paying for degrees as I think they are a great way of broadening horizons and having great life experience. But I think the interest should be waived or capped below 1%, otherwise it's a noose around their neck for a substantial part of their lifetime."
-More generally, Jonathan, 52, would welcome taxes being put up for higher earners like himself in the name of "redistribution". He would also like to see a one-off wealth tax for people with assets worth over £10m and new taxes on the oil and gas and banking sectors.
-"If we want better roads, hospitals, schools we need to raise more tax."
-'I have a £15,000 pension. I'm spending more of my savings'
-Christine Morris, from Worksop, has been retired for eight years and lives on a state pension combined with a small private pension her late husband left her.
-"It is very difficult to balance the books," the 78-year-old says. "I do go on holiday, but I'm spending more of my savings to live."
-Although the prime minister has asked ministers to look at removing standing charges from gas bills, Christine thinks there should be some relief for people who live alone when it comes to standing charges on electricity bills, which are typically higher.
-She would also like the government to extend access to pension credit, external, a means-tested benefit for people who have reached state pension age and are receiving £238 or less per week. Christine currently receives £241 and so just misses out.
-She was unconvinced by Andy Burnham's pledge to end the triple lock so that from 2030 the state pension will rise at least by inflation or 2.5%, with the money saved used to create a free-at-the-point of use national care service for England sometime "in the next parliament".
-Christine thinks the new service will take time to come in. In the meantime, she fears she will "get less pension and still have to pay out the same for any care I need".
-Get in touch
-What are you hoping for from the Budget? What questions do you have?
-- Published18 hours ago
-- Published3 days ago`,
-    bodyJa: `'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?
-- Published
-Chancellor John Healey is set to unveil his first Budget on Wednesday.
-Unlike in previous years there have been very few leaks about what will be in it, though Healey's tax and spending plans will be under close scrutiny at a time when government borrowing costs are at "historic highs".
-BBC News has been speaking to people on a range of incomes on how they feel about their finances and what they would like to see in the Budget.
-If there are issues you would like to see covered, you can get in touch via BBC Your Voice.
-Chloe's biggest worry is the cost of living. Her husband passed away four years ago and she's bringing up their 16-year-old son alone.
-She's very grateful the rent for her south London maisonette is subsidised through a housing association, but says life was easier when she shared the bills. "Two incomes make a massive difference."
-Her energy bill has risen sharply over the past year and she now pays about £200 a month on gas and electricity.
-"We try to be more aware, we think more about how long we run the hot water when we do the dishes."
-Chloe, 40, and her son have cut back on luxuries like going to M&S and the cinema, and she now tries to limit the weekly food shop to £40.
-But she can't do anything to reduce her £200 council tax bill, or the amount she spends on medicines for her various health conditions, including rheumatoid arthritis.
-Chloe wants to see more help for single-parent families.
-"I don't access benefits but I work full-time and it's hard. Can the government do anything else to help? Something on our tax bill perhaps."
-'I earn £22,000. Saving for a house is impossible'
-Robert Portlock, 29, has always lived with his parents in Gateshead and would love to move out. But he doesn't think he can afford to.
-Rent would be his biggest concern, he says, explaining that a small flat in his area would cost him about two-thirds of his monthly wage.
-"Council tax and energy bills would add to it. Food too. I'd need a TV licence, broadband, my car and some money to socialise. By that point I'd be in the minus."
-Robert's biggest expense currently is his car, which he says he needs for his 32-mile round trip to work at Newcastle Airport. But he's paying £750 a month in car finance, insurance, fuel and tax.
-He wants the chancellor to cut fuel duty and income tax, or increase the personal allowance - the amount of income you do not have to pay tax on - to about £16,000, up from £12,570 currently.
-He would like to get on the housing ladder but for now it feels a distant prospect. The government has announced a scheme to help first-time buyers in England who have a deposit of 2.5%, but Robert says: "Saving for a house is impossible at the moment."
-What is the Budget and what could be in it?
-- Published1 day ago
-'I get £338 UC per month. I'm trying my best'
-Emily Nelson completed her A-levels last year and like thousands of her peers has been unable to find a job since leaving college.
-The 19-year-old from Swindon wants to be an animator but in the meantime is applying for retail and sales roles and apprenticeships. Most of the time, she doesn't hear back from potential employers.
-"I'm trying my best, it's all you really can do. It's kind of suffocating in a way. You see everyone else managing, and you feel like you're not."
-She wants the government to provide more funding to businesses so they can take on more young employees. She'd also like to see more money for training and the government's Jobs Guarantee, external scheme extended.
-The scheme, being rolled out across England, Scotland and Wales, guarantees fully funded, six-month paid jobs for 18 to 24-year-olds who have been on universal credit and looking for work for 18 months. But Emily thinks people should be eligible after a year.
-She is living with her parents but wants to move out eventually. "My parents want me to get a job first. They are not putting pressure on me to go yet."
-'I earn £30,000 and dread filling up my car'
-Dave Herbert, a professional driver who moves cars between showrooms and does deliveries, says fuel prices have been "crazy" this year.
-He spends around £350 a month on petrol for work and personal use. That's 40% to 50% more than at the start of the year, he says.
-He has to commute into Cardiff, a 62-mile round trip from his home in Ynysddu. "I'd love to have a hybrid car but even an entry-level used car is too expensive."
-The 48-year-old, who is married with a 12-year-old daughter, says he has to find the extra money for fuel "from an already tight budget" and "dreads" filling up at the pump.
-"The best thing they could do at the Budget is drastically remove or reduce fuel duty for a period of time."
-The main fuel duty rate has been frozen at 57.95p per litre since March 2011, but Dave says: "It sounds like they're giving us something by keeping it frozen but they're actually still taking it off us."
-'I earn £150,000 and would be happy to pay more tax'
-Jonathan Whitwam, who recently joined the Labour Party, works in finance and says, in addition to his mortgage, his biggest outgoing is supporting his two daughters through university. He and his wife, who live in Essex, pay their rent, which is around £18,000 per year.
-His daughters will start their working lives with between £45,000 to £60,000 of debt each, plus interest, which will be compounding at £5,000 to £8,000 per year.
-"I have no objection to paying for degrees as I think they are a great way of broadening horizons and having great life experience. But I think the interest should be waived or capped below 1%, otherwise it's a noose around their neck for a substantial part of their lifetime."
-More generally, Jonathan, 52, would welcome taxes being put up for higher earners like himself in the name of "redistribution". He would also like to see a one-off wealth tax for people with assets worth over £10m and new taxes on the oil and gas and banking sectors.
-"If we want better roads, hospitals, schools we need to raise more tax."
-'I have a £15,000 pension. I'm spending more of my savings'
-Christine Morris, from Worksop, has been retired for eight years and lives on a state pension combined with a small private pension her late husband left her.
-"It is very difficult to balance the books," the 78-year-old says. "I do go on holiday, but I'm spending more of my savings to live."
-Although the prime minister has asked ministers to look at removing standing charges from gas bills, Christine thinks there should be some relief for people who live alone when it comes to standing charges on electricity bills, which are typically higher.
-She would also like the government to extend access to pension credit, external, a means-tested benefit for people who have reached state pension age and are receiving £238 or less per week. Christine currently receives £241 and so just misses out.
-She was unconvinced by Andy Burnham's pledge to end the triple lock so that from 2030 the state pension will rise at least by inflation or 2.5%, with the money saved used to create a free-at-the-point of use national care service for England sometime "in the next parliament".
-Christine thinks the new service will take time to come in. In the meantime, she fears she will "get less pension and still have to pay out the same for any care I need".
-Get in touch
-What are you hoping for from the Budget? What questions do you have?
-- Published18 hours ago
-- Published3 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-27T00:01:00+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2823/live/2221ede0-d16f-11f1-93e1-3b657b665bcf.jpg",
-    readTime: 10,
-  },
-  {
-    id: "from-wall-street-to-silicon-valley-anthr-23b4c253",
-    title: "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
-    titleJa: "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
-    summaryJa: "With the AI trade sputtering of late and interest rates on the rise, Anthropic's IPO is taking on outsized importance.",
-    bodyOriginal: `The tech industry needs this to go well. So does Wall Street.
-Anthropic's IPO filing on Monday puts the Claude creator in position to pursue what could be the largest initial stock offering in history. Investors are already measuring the 5-year-old company's potential market cap in the trillions, putting it in a category with the world's most valuable companies.
-It's a critical moment for the whole tech sector, as the artificial intelligence boom has been largely driven by two companies: Anthropic and OpenAI. The latter has confidentially filed to go public, but has said a debut likely won't take place until 2027.
-Meanwhile, the stock market is showing signs of jitters on the AI trade. Neoclouds and data center companies have been getting pummeled, prompting Australia's Firmus to withdraw its IPO plans and for SK Hynix's U.S.-based Solidigm unit to do the same.
-Now, all eyes turn to Anthropic, which is betting that investors will look past over $80 billion in losses in the first half of the year, and see the 14-fold increase in revenue as a reflection of seemingly insatiable demand for the company's leading models and services.
-"If it underperforms expectations, it'll be a little bit of a house of cards," said Jai Das, co-founder of Sapphire Ventures whose career in tech investing dates to the 1990s.
-Anthropic's business is deeply entwined with tech megacaps. Close to half its revenue comes from Claude being sold through cloud divisions at Microsoft, Amazon and Alphabet, which all hold investments in the company. In the IPO, some $77 billion in notes can be issued to Amazon, Broadcom and Google, while Microsoft and Nvidia agreed to invest $15 billion as the company builds up its computing capacity. Chips from Nvidia, Advanced Micro Devices, Amazon and Google are powering Anthropic's development.
-Cloud providers are ratcheting up capital expenditures to meet demand, and memory manufacturers are fighting shortages to prioritize AI chips. And there's the debt factor. Alphabet, with its investment-grade credit rating, committed to backstopping Anthropic for a data center in Texas. Broadcom, which helps Google develop chips for AI labs, is creating financing pools to help Anthropic and OpenAI deploy high-performance models, CEO Hock Tan told analysts earlier this year.
-For public market investors, more than one-third of the value of the S&P 500 comes from tech's trillion-dollar companies, which are all, to varying degrees, going deep in AI. Beyond that, there are software giants like Adobe and Salesforce that have integrated with Anthropic's Claude assistant.
-Market reset?
-And in the private markets, check sizes have ballooned but IPOs are few and far between. Bessemer Venture Partners and Menlo Ventures both told CNBC that Anthropic is their biggest investment ever.
-"If they don't perform well, they will become the bellwether for AI," said Brad Bernstein, a managing partner at growth equity firm FTV Capital. "Their valuation will reflect that performance variation, and then it'll just be a trickle-down effect to all the stuff going on with the excess capital that's getting poured into the venture AI world. Everything is going to have to sort of be reset."
-Anthropic will be the third company to go public with a valuation above $1 trillion, after Saudi Aramco and Elon Musk's SpaceX, which debuted in June. OpenAI could be the fourth.
-Revenue at Anthropic has been multiplying at a staggering pace as businesses adopt the company's coding and productivity tools. Second-quarter revenue soared to $11.56 billion from $787 million a year earlier.
-The company held almost $132 billion in cash, equivalents and short-term investments at the end of June. And after five quarters of operating losses, Anthropic reported $974 million in operating income for the second quarter.
-"It is, I think, better than feared," said Rohit Kulkarni, partner and chief AI officer at Burnham Park Capital Markets, referring to the financials. "There could have been more negative tidbits."
-One source of concern in some corners of the investing universe is the emergence of so-called open-weight models, which are cheaper for businesses to access and allow for customization and flexibility in terms of where users access the models.
-In the prospectus, the only two competitors Anthropic named were OpenAI and Google, though the company said it faces competition from a "broader set of model providers," including open-weight or open-source models.
-Anthropic says it's all very early, with Fortune 500 companies committing less than 0.1% of their total expenses to its models and services in the latest quarter. Michael Monaghan, portfolio manager at Founder ETFs, says that's part of the investment thesis.
-"I think there's going to be room for frontier models like Anthropic and OpenAI and SpaceX, and I think there will be room for open-weight models," Monaghan said. "It's way too soon to say that one is going to disintermediate the other."
-With hyperscaler spending on AI infrastructure set to reach into the trillions of dollars, Sapphire's Das said there's understandable concern about a market glut. But he compares it to the telecommunications and dot-com bubble of the late 1990s, when companies flooded the market with fiber-optic equipment. Eventually, the infrastructure got used, although plenty of companies went belly up in the interim.
-"Long term, I don't think there is a lack of demand," Das said.
-Downside risks
-A lackluster debut could push out OpenAI's offering even further and cause investors to rethink its lofty valuation. At the same time, rising interest rates mean it's getting costlier for companies to raise debt.
-David Trainer, CEO of financial research firm New Constructs, wrote in a report last month that the AI boom has been built on the view that cheap credit and access to the capital markets will be "readily available."
-"If AI liquidity dries up, and there are clear signs it is, we see large, 20%, downside risk in the S&P 500, with most of that concentrated in the valuation of AI-related stocks," Trainer wrote.
-Industry experts take a different approach, focusing on the power and rapid proliferation of the technology. Claude Opus 5.5 Max performs better than any other model on the Artificial Analysis Intelligence Index, an industry benchmark.
-Snowflake CEO Sridhar Ramaswamy said the technology is only becoming more essential.
-"Anthropic and OpenAI have by now demonstrated their ability to stay at the frontier of AI and keep pushing innovation," Ramaswamy said. "They're incredible companies that are doing a big service to humanity by expanding the frontier of what is possible, and we are very much rooting for them to be public and very successful companies."
-Still, Snowflake is experimenting with low-cost open-weight models from China's Moonshot AI, DeepSeek and Zhipu.
-"We spend a lot on internal AI because we want to get as much efficiency as we can," Ramaswamy said.
-WATCH: Seems like Anthropic will beat OpenAI to IPO, says FirstMark's Rick Heitzmann`,
-    bodyJa: `The tech industry needs this to go well. So does Wall Street.
-Anthropic's IPO filing on Monday puts the Claude creator in position to pursue what could be the largest initial stock offering in history. Investors are already measuring the 5-year-old company's potential market cap in the trillions, putting it in a category with the world's most valuable companies.
-It's a critical moment for the whole tech sector, as the artificial intelligence boom has been largely driven by two companies: Anthropic and OpenAI. The latter has confidentially filed to go public, but has said a debut likely won't take place until 2027.
-Meanwhile, the stock market is showing signs of jitters on the AI trade. Neoclouds and data center companies have been getting pummeled, prompting Australia's Firmus to withdraw its IPO plans and for SK Hynix's U.S.-based Solidigm unit to do the same.
-Now, all eyes turn to Anthropic, which is betting that investors will look past over $80 billion in losses in the first half of the year, and see the 14-fold increase in revenue as a reflection of seemingly insatiable demand for the company's leading models and services.
-"If it underperforms expectations, it'll be a little bit of a house of cards," said Jai Das, co-founder of Sapphire Ventures whose career in tech investing dates to the 1990s.
-Anthropic's business is deeply entwined with tech megacaps. Close to half its revenue comes from Claude being sold through cloud divisions at Microsoft, Amazon and Alphabet, which all hold investments in the company. In the IPO, some $77 billion in notes can be issued to Amazon, Broadcom and Google, while Microsoft and Nvidia agreed to invest $15 billion as the company builds up its computing capacity. Chips from Nvidia, Advanced Micro Devices, Amazon and Google are powering Anthropic's development.
-Cloud providers are ratcheting up capital expenditures to meet demand, and memory manufacturers are fighting shortages to prioritize AI chips. And there's the debt factor. Alphabet, with its investment-grade credit rating, committed to backstopping Anthropic for a data center in Texas. Broadcom, which helps Google develop chips for AI labs, is creating financing pools to help Anthropic and OpenAI deploy high-performance models, CEO Hock Tan told analysts earlier this year.
-For public market investors, more than one-third of the value of the S&P 500 comes from tech's trillion-dollar companies, which are all, to varying degrees, going deep in AI. Beyond that, there are software giants like Adobe and Salesforce that have integrated with Anthropic's Claude assistant.
-Market reset?
-And in the private markets, check sizes have ballooned but IPOs are few and far between. Bessemer Venture Partners and Menlo Ventures both told CNBC that Anthropic is their biggest investment ever.
-"If they don't perform well, they will become the bellwether for AI," said Brad Bernstein, a managing partner at growth equity firm FTV Capital. "Their valuation will reflect that performance variation, and then it'll just be a trickle-down effect to all the stuff going on with the excess capital that's getting poured into the venture AI world. Everything is going to have to sort of be reset."
-Anthropic will be the third company to go public with a valuation above $1 trillion, after Saudi Aramco and Elon Musk's SpaceX, which debuted in June. OpenAI could be the fourth.
-Revenue at Anthropic has been multiplying at a staggering pace as businesses adopt the company's coding and productivity tools. Second-quarter revenue soared to $11.56 billion from $787 million a year earlier.
-The company held almost $132 billion in cash, equivalents and short-term investments at the end of June. And after five quarters of operating losses, Anthropic reported $974 million in operating income for the second quarter.
-"It is, I think, better than feared," said Rohit Kulkarni, partner and chief AI officer at Burnham Park Capital Markets, referring to the financials. "There could have been more negative tidbits."
-One source of concern in some corners of the investing universe is the emergence of so-called open-weight models, which are cheaper for businesses to access and allow for customization and flexibility in terms of where users access the models.
-In the prospectus, the only two competitors Anthropic named were OpenAI and Google, though the company said it faces competition from a "broader set of model providers," including open-weight or open-source models.
-Anthropic says it's all very early, with Fortune 500 companies committing less than 0.1% of their total expenses to its models and services in the latest quarter. Michael Monaghan, portfolio manager at Founder ETFs, says that's part of the investment thesis.
-"I think there's going to be room for frontier models like Anthropic and OpenAI and SpaceX, and I think there will be room for open-weight models," Monaghan said. "It's way too soon to say that one is going to disintermediate the other."
-With hyperscaler spending on AI infrastructure set to reach into the trillions of dollars, Sapphire's Das said there's understandable concern about a market glut. But he compares it to the telecommunications and dot-com bubble of the late 1990s, when companies flooded the market with fiber-optic equipment. Eventually, the infrastructure got used, although plenty of companies went belly up in the interim.
-"Long term, I don't think there is a lack of demand," Das said.
-Downside risks
-A lackluster debut could push out OpenAI's offering even further and cause investors to rethink its lofty valuation. At the same time, rising interest rates mean it's getting costlier for companies to raise debt.
-David Trainer, CEO of financial research firm New Constructs, wrote in a report last month that the AI boom has been built on the view that cheap credit and access to the capital markets will be "readily available."
-"If AI liquidity dries up, and there are clear signs it is, we see large, 20%, downside risk in the S&P 500, with most of that concentrated in the valuation of AI-related stocks," Trainer wrote.
-Industry experts take a different approach, focusing on the power and rapid proliferation of the technology. Claude Opus 5.5 Max performs better than any other model on the Artificial Analysis Intelligence Index, an industry benchmark.
-Snowflake CEO Sridhar Ramaswamy said the technology is only becoming more essential.
-"Anthropic and OpenAI have by now demonstrated their ability to stay at the frontier of AI and keep pushing innovation," Ramaswamy said. "They're incredible companies that are doing a big service to humanity by expanding the frontier of what is possible, and we are very much rooting for them to be public and very successful companies."
-Still, Snowflake is experimenting with low-cost open-weight models from China's Moonshot AI, DeepSeek and Zhipu.
-"We spend a lot on internal AI because we want to get as much efficiency as we can," Ramaswamy said.
-WATCH: Seems like Anthropic will beat OpenAI to IPO, says FirstMark's Rick Heitzmann`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
-    publishedAt: "2026-10-26T22:50:07+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "healey-vows-cheaper-marmalade-and-gherki-274e1f81",
-    title: "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
-    titleJa: "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
-    summaryJa: "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
-    bodyOriginal: `Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'
-- Published
-John Healey will remove import taxes on marmalade, gherkins and more than 100 products in a bid to give families "breathing space" with the cost of living at the Budget.
-The chancellor on Wednesday will promise a fresh series of "everyday fixes" to ease the pressure on households.
-The measures will also include an end to the so-called cliff-edge for those receiving carer's allowance payments and higher tax-free mileage rates being made permanent.
-But the Conservatives said the offer of "cheaper gherkins" was "an insult to families hammered by Labour's tax rises".
-Ahead of the Budget, the government said it is removing tariffs on more than 100 "family favourite" products, while supporting farmers facing higher fertiliser costs and households reliant on heating oil.
-The government says the changes could save households up to £21 per year when combined with existing tariff suspensions on products including pasta, fruit juice and tuna.
-Healey's Budget needs to sustain the stronger economy through gathering clouds
-- Published22 hours ago
-Marmalade, for example, will see a 20% tariff, plus an additional £19 charge per 100kg imported, suspended.
-Healey said the ongoing wars in Iran and Ukraine had "hit families here at home through higher everyday costs".
-"We can't control global events, but we can act where we can make a difference," he added.
-Other measures the government announced include:
-Making permanent a 55p per mile tax-free mileage rate for those driving up to 10,000 miles for work, with the rate rising from 25p per mile to 35p above that
-Allowing carers to earn more than an existing earnings limit without losing their entire allowance, replacing it with a taper mechanism instead
-Giving two weeks of paternity pay to self-employed fathers, who have previously missed out on payments of up to £194 a week for the period
-And rolling out hundreds of additional Post Office drop boxes to make sending parcels easier
-Prime Minister Andy Burnham said: "We are taking on the big challenges facing the country. But that doesn't mean losing sight of the everyday problems that cost people money or simply aren't fair.
-"If you're a nurse driving for work, a parent spending those precious first weeks with your new baby, or an unpaid carer picking up an extra shift, these changes will make life a little easier and put more money back in your pocket."
-But the Conservatives said Burnham's "everyday fixes" have already been wiped out by higher borrowing costs, taxes and inflation.
-Shadow Chancellor Andrew Griffith said: "Shoppers face rising costs at the till and families are struggling to make ends meet, but Burnham's plan is cheaper gherkins. This is an insult to families hammered by Labour's tax rises."`,
-    bodyJa: `Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'
-- Published
-John Healey will remove import taxes on marmalade, gherkins and more than 100 products in a bid to give families "breathing space" with the cost of living at the Budget.
-The chancellor on Wednesday will promise a fresh series of "everyday fixes" to ease the pressure on households.
-The measures will also include an end to the so-called cliff-edge for those receiving carer's allowance payments and higher tax-free mileage rates being made permanent.
-But the Conservatives said the offer of "cheaper gherkins" was "an insult to families hammered by Labour's tax rises".
-Ahead of the Budget, the government said it is removing tariffs on more than 100 "family favourite" products, while supporting farmers facing higher fertiliser costs and households reliant on heating oil.
-The government says the changes could save households up to £21 per year when combined with existing tariff suspensions on products including pasta, fruit juice and tuna.
-Healey's Budget needs to sustain the stronger economy through gathering clouds
-- Published22 hours ago
-Marmalade, for example, will see a 20% tariff, plus an additional £19 charge per 100kg imported, suspended.
-Healey said the ongoing wars in Iran and Ukraine had "hit families here at home through higher everyday costs".
-"We can't control global events, but we can act where we can make a difference," he added.
-Other measures the government announced include:
-Making permanent a 55p per mile tax-free mileage rate for those driving up to 10,000 miles for work, with the rate rising from 25p per mile to 35p above that
-Allowing carers to earn more than an existing earnings limit without losing their entire allowance, replacing it with a taper mechanism instead
-Giving two weeks of paternity pay to self-employed fathers, who have previously missed out on payments of up to £194 a week for the period
-And rolling out hundreds of additional Post Office drop boxes to make sending parcels easier
-Prime Minister Andy Burnham said: "We are taking on the big challenges facing the country. But that doesn't mean losing sight of the everyday problems that cost people money or simply aren't fair.
-"If you're a nurse driving for work, a parent spending those precious first weeks with your new baby, or an unpaid carer picking up an extra shift, these changes will make life a little easier and put more money back in your pocket."
-But the Conservatives said Burnham's "everyday fixes" have already been wiped out by higher borrowing costs, taxes and inflation.
-Shadow Chancellor Andrew Griffith said: "Shoppers face rising costs at the till and families are struggling to make ends meet, but Burnham's plan is cheaper gherkins. This is an insult to families hammered by Labour's tax rises."`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-26T22:30:02+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c2c/live/35815a70-d173-11f1-9d71-6d5ae0660afe.jpg",
-    readTime: 7,
   },
 ];
 
