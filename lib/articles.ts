@@ -15,6 +15,432 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "meta-and-google-backed-jio-platforms-sha-eaf5095f",
+    title: "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
+    titleJa: "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
+    summaryJa: "Jio had offered 270 million shares in the IPO priced at 1,119 rupees apiece, raising 302 billion rupees ($3.2 billion) in the country's largest-ever IPO.",
+    bodyOriginal: `Jio Platforms' shares rose 21.4% on their trading debut Wednesday after a record initial public offering that was lapped up by retail as well as institutional investors.
+India's largest telecom and digital services player had offered 270 million shares in the IPO priced at 1,119 rupees apiece, raising 302 billion rupees ($3.2 billion) in the country's largest-ever IPO.
+The public issue was subscribed more than 22 times, with institutional investors leading the demand, according to data from the BSE. The qualified institutional portion was subscribed 70.55 times, while retail investors subscribed 2.72 times.
+The IPO was fully subscribed within 95 minutes of its opening on Oct. 21, Akash Ambani, managing director of Jio Platforms and heir of the Indian billionaire Mukesh Ambani, said ahead of the listing.
+Global brokerage Nomura on Wednesday gave Jio Platforms a buy rating, setting a target price of 1,340 rupees, implying an upside of 19.7% to its IPO price. The brokerage said in a report that Jio's capex cycle is largely over and there is expected to be a sharp improvement in the company's free cash flow.
+Shares were last trading at 1,357 rupees.
+Indian billionaire Mukesh Ambani's flagship company, Reliance Industries, owns more than a 66% stake in Jio Platforms, followed by Meta Platforms' affiliate Jaadhu Holdings that owns nearly 10% and Google International, which owns 7.7%, as per LSEG data.
+Leading global funds such as BlackRock, Capital Group and GIC participated in Jio's anchor book portion of the total fundraise, which is set aside for large institutional investors before the IPO opens for public bidding. Including anchor investors, the share offering garnered demand of $78 billion.`,
+    bodyJa: `Jio Platforms' shares rose 21.4% on their trading debut Wednesday after a record initial public offering that was lapped up by retail as well as institutional investors.
+India's largest telecom and digital services player had offered 270 million shares in the IPO priced at 1,119 rupees apiece, raising 302 billion rupees ($3.2 billion) in the country's largest-ever IPO.
+The public issue was subscribed more than 22 times, with institutional investors leading the demand, according to data from the BSE. The qualified institutional portion was subscribed 70.55 times, while retail investors subscribed 2.72 times.
+The IPO was fully subscribed within 95 minutes of its opening on Oct. 21, Akash Ambani, managing director of Jio Platforms and heir of the Indian billionaire Mukesh Ambani, said ahead of the listing.
+Global brokerage Nomura on Wednesday gave Jio Platforms a buy rating, setting a target price of 1,340 rupees, implying an upside of 19.7% to its IPO price. The brokerage said in a report that Jio's capex cycle is largely over and there is expected to be a sharp improvement in the company's free cash flow.
+Shares were last trading at 1,357 rupees.
+Indian billionaire Mukesh Ambani's flagship company, Reliance Industries, owns more than a 66% stake in Jio Platforms, followed by Meta Platforms' affiliate Jaadhu Holdings that owns nearly 10% and Google International, which owns 7.7%, as per LSEG data.
+Leading global funds such as BlackRock, Capital Group and GIC participated in Jio's anchor book portion of the total fundraise, which is set aside for large institutional investors before the IPO opens for public bidding. Including anchor investors, the share offering garnered demand of $78 billion.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
+    publishedAt: "2026-10-28T05:16:41+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "luxury-cruise-passengers-stranded-in-cam-80819365",
+    title: "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+    titleJa: "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+    summaryJa: "The Villa Vie Odyssey suspends its voyage and is working with passengers on \"temporary living arrangements\".",
+    bodyOriginal: `Luxury cruise passengers stranded in Cambodia due to soaring fuel costs
+- Published
+A luxury cruise ship on a years-long voyage around the world said it suspended operations due to extraordinarily high fuel costs, leaving passengers stranded in Cambodia.
+The US-based operator of Villa Vie Odyssey said it was working with passengers on disembarkation plans and "temporary living arrangements".
+It is unclear how many were on board but the nearly 200m (656ft) vessel can carry up to 650 passengers. It departed Belfast in October 2024 for a "continuous voyage around the world".
+Global fuel prices have soared since the Iran war started earlier this year. The ship's operator said the monthly fuel cost per cabin in parts of Asia has risen to as much as $8,000 (£6,000) from $1,800.
+The company said it had taken "significant steps to reduce fuel consumption, including slowing the itinerary and spending more time in port". But those measures turned out to be insufficient to "offset the extraordinary increase in fuel costs".
+"Passing the full increase on to residents is not a realistic solution," it said.
+The company would spend the next 60 days on "restructuring and recapitalisation", though "no outcome is assured", it said.
+The Villa Vie Odyssey's voyage was expected to span 3.5 years and cover nearly 150 countries, according to its website.
+Its departure had faced delays as the ship underwent repairs, leaving passengers stranded in Belfast for months and costing the company millions of pounds.
+The ship was more than 750 days into its circumnavigation before announcing its suspension of its journey on Tuesday - which means its passengers would now be stranded in Cambodia.
+There were around 200 passengers on board when they were ordered to disembark in Cambodia, Bloomberg reported, citing the cruise operator's founder.
+The Villa Vie Odyssey is equipped with several bars and restaurants, a pool deck and a pickleball court, according to its website.
+Permanent residencies in its cabins range from $120,000 to $440,000. These cabins are also also available for rent from $3,500 a month.
+Last year, the company launched a lifetime residence programme for people to spend their retirement years at sea.
+In 2024, days after US President Donald Trump won his second term, Villa Vie Residences announced a four-year "Skip Forward" package. Its CEO told Fox Business at the time that it was the "perfect product for those who said they'd leave the country if 'XYZ' wins the election".
+Related topics
+- Published4 October 2025
+- Published18 May
+- Published1 October 2024`,
+    bodyJa: `Luxury cruise passengers stranded in Cambodia due to soaring fuel costs
+- Published
+A luxury cruise ship on a years-long voyage around the world said it suspended operations due to extraordinarily high fuel costs, leaving passengers stranded in Cambodia.
+The US-based operator of Villa Vie Odyssey said it was working with passengers on disembarkation plans and "temporary living arrangements".
+It is unclear how many were on board but the nearly 200m (656ft) vessel can carry up to 650 passengers. It departed Belfast in October 2024 for a "continuous voyage around the world".
+Global fuel prices have soared since the Iran war started earlier this year. The ship's operator said the monthly fuel cost per cabin in parts of Asia has risen to as much as $8,000 (£6,000) from $1,800.
+The company said it had taken "significant steps to reduce fuel consumption, including slowing the itinerary and spending more time in port". But those measures turned out to be insufficient to "offset the extraordinary increase in fuel costs".
+"Passing the full increase on to residents is not a realistic solution," it said.
+The company would spend the next 60 days on "restructuring and recapitalisation", though "no outcome is assured", it said.
+The Villa Vie Odyssey's voyage was expected to span 3.5 years and cover nearly 150 countries, according to its website.
+Its departure had faced delays as the ship underwent repairs, leaving passengers stranded in Belfast for months and costing the company millions of pounds.
+The ship was more than 750 days into its circumnavigation before announcing its suspension of its journey on Tuesday - which means its passengers would now be stranded in Cambodia.
+There were around 200 passengers on board when they were ordered to disembark in Cambodia, Bloomberg reported, citing the cruise operator's founder.
+The Villa Vie Odyssey is equipped with several bars and restaurants, a pool deck and a pickleball court, according to its website.
+Permanent residencies in its cabins range from $120,000 to $440,000. These cabins are also also available for rent from $3,500 a month.
+Last year, the company launched a lifetime residence programme for people to spend their retirement years at sea.
+In 2024, days after US President Donald Trump won his second term, Villa Vie Residences announced a four-year "Skip Forward" package. Its CEO told Fox Business at the time that it was the "perfect product for those who said they'd leave the country if 'XYZ' wins the election".
+Related topics
+- Published4 October 2025
+- Published18 May
+- Published1 October 2024`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-28T03:43:38+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg",
+    readTime: 6,
+  },
+  {
+    id: "trump-says-iran-war-will-end-when-i-want-94569040",
+    title: "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
+    titleJa: "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
+    summaryJa: "Trump's statement comes as a report from The Hill revealed that the costs of the Iran conflict has ballooned to $47 billion.",
+    bodyOriginal: `U.S. President Donald Trump has reiterated his claim that the Iran war will end "whenever I want it to," but insists that Tehran cannot have a nuclear weapon.
+Speaking at a rally in Lubbock, Texas, Trump said "Somebody asked me before, 'When will the war in Iran end?' I said, 'Whenever I want it to end.'"
+Trump said it "would be very quick, but we have to have an end properly," with a "total statement" that Iran would never have a nuclear weapon.
+His statement comes as the President grapples with poll numbers that are near a record low due to rising energy costs and affordability issues as the U.S. heads into the midterm elections on Nov. 3.
+Currently, Trump's approval ratings stand at 32%, according to a Reuters/Ipsos poll on Monday.
+Mark Zandi, Moody's Analytics' Chief Economist said on Oct. 12 that the war was costing American families an average of $2,000 so far, where $1,100 comes from higher energy costs, $540 from higher interest rate costs, and $360 due to increased military spending.
+The Iran conflict shows no sign of winding down, with Trump saying that he will soon decide whether to "make a deal" with Iran or "finish it off."
+Earlier in the month, the U.S. had evacuated diplomats from Saudi Arabia, as the New York Times reported that U.S. and Israeli militaries have drawn up specific plans for a "short but intensive" operation for strikes on Iran after the midterm elections.
+An estimate by U.S. Central Command on Oct. 16, according to a report by The Hill, also revealed that the cost of the Iran war has ballooned to $47 billion, about $3 billion more than the previous numbers.
+The bulk of the costs was reportedly for munitions replacements at $29 million. Washington's conflict with Iran has caused "shortfalls" in U.S. munitions, despite Trump claiming on Sept. 3 that the U.S. had "virtually unlimited" amounts of ammunition.
+The massive price tag on the war does not include the costs of damaged military bases in the Middle East, which is estimated at $184 million as of June 29, according to a lead inspector general report to Congress.
+This figure counts damage to U.S. diplomatic facilities in four countries — Iraq, Kuwait, Saudi Arabia and the United Arab Emirates — from Iranian strikes.`,
+    bodyJa: `U.S. President Donald Trump has reiterated his claim that the Iran war will end "whenever I want it to," but insists that Tehran cannot have a nuclear weapon.
+Speaking at a rally in Lubbock, Texas, Trump said "Somebody asked me before, 'When will the war in Iran end?' I said, 'Whenever I want it to end.'"
+Trump said it "would be very quick, but we have to have an end properly," with a "total statement" that Iran would never have a nuclear weapon.
+His statement comes as the President grapples with poll numbers that are near a record low due to rising energy costs and affordability issues as the U.S. heads into the midterm elections on Nov. 3.
+Currently, Trump's approval ratings stand at 32%, according to a Reuters/Ipsos poll on Monday.
+Mark Zandi, Moody's Analytics' Chief Economist said on Oct. 12 that the war was costing American families an average of $2,000 so far, where $1,100 comes from higher energy costs, $540 from higher interest rate costs, and $360 due to increased military spending.
+The Iran conflict shows no sign of winding down, with Trump saying that he will soon decide whether to "make a deal" with Iran or "finish it off."
+Earlier in the month, the U.S. had evacuated diplomats from Saudi Arabia, as the New York Times reported that U.S. and Israeli militaries have drawn up specific plans for a "short but intensive" operation for strikes on Iran after the midterm elections.
+An estimate by U.S. Central Command on Oct. 16, according to a report by The Hill, also revealed that the cost of the Iran war has ballooned to $47 billion, about $3 billion more than the previous numbers.
+The bulk of the costs was reportedly for munitions replacements at $29 million. Washington's conflict with Iran has caused "shortfalls" in U.S. munitions, despite Trump claiming on Sept. 3 that the U.S. had "virtually unlimited" amounts of ammunition.
+The massive price tag on the war does not include the costs of damaged military bases in the Middle East, which is estimated at $184 million as of June 29, according to a lead inspector general report to Congress.
+This figure counts damage to U.S. diplomatic facilities in four countries — Iraq, Kuwait, Saudi Arabia and the United Arab Emirates — from Iranian strikes.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
+    publishedAt: "2026-10-28T03:02:44+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "israel-election-appears-to-have-no-clear-ee25b2f2",
+    title: "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
+    titleJa: "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
+    summaryJa: "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
+    bodyOriginal: `The outcome of Israel's election hung in the balance as of Wednesday, with both Prime Minister Benjamin Netanyahu and challenger Gadi Eisenkot appearing to be well off the numbers needed to form a governing coalition.
+An updated Channel 13 poll early Wednesday put both blocs at 51 seats in the 120-seat Knesset, the Times of Israel reported. A coalition needs 61 to be able to govern. Channel 12 and Kan 11 showed Eisenkot's bloc slightly ahead at 52-50. Arab-led parties, which belong to neither camp, were projected at 17 to 18 seats, their strongest showing ever.
+Eisenkot, a former military chief of staff, declared victory and said the preliminary results should give him the first right to try to form a government. "The initial exit poll results indicate a complete lack of confidence in Netanyahu and his October 7 government," he said in a statement on X.
+Exit polls are not the official results, which are formally published a week after the election, on Nov. 4. Around 77.7% of eligible voters turned out to cast their ballots, the highest in a Knesset election in 27 years, according to the Central Elections Committee.
+The vote came as Israel's first national election since Hamas's Oct. 7, 2023 attack and the subsequent wars in Gaza, Lebanon and Iran, and was widely seen as a referendum on Netanyahu's dominance of Israeli politics since 2009.
+Netanyahu's supporters credit him with steering Israel through the war and standing up to international pressure, while critics point to his long-running corruption trial, controversial judicial overhaul efforts, and handling of the Gaza war as evidence that he is unfit for office. Netanyahu faces an International Criminal Court arrest warrant over the Gaza campaign, which he has rejected.
+Arab party result
+The historic Arab-party result is a factor to watch in coalition talks. Ra'am leader Mansour Abbas said that "our vote will change the government." Joint List faction chairman Ahmad Tibi had previously outlined a plan to prevent Netanyahu from remaining in power after the elections, according to the Jerusalem Post.
+The pro-Palestinian stance of Arab-led parties aligns them more closely with Eisenkot than with Netanyahu, said Amin Saikal, an adjunct senior fellow at Singapore's S. Rajaratnam School of International Studies, though neither man has said he would embrace them.
+"Even if Eisenkot's alliance wins more seats, it's less likely to be able to form a governing majority without including Arab and left-wing parties," said Michael Feller, chief strategist at Geopolitical Strategy. "The next government's policies on Iran, Palestine and security may otherwise stay the same."
+However, Yisrael Beytenu leader Avigdor Liberman, whose party is projected at seven to nine seats and is currently in the opposition bloc with Eisenkot, refused during the campaign to rely on Arab parties.
+Earlier on Tuesday, Netanyahu and his far-right coalition partners warned of strong Arab participation in the vote, drawing accusations of racism from opponents.
+"If we don't wake up now, we'll find ourselves with a government of Mansour Abbas and Ahmed Tibi," he said, after a series of posts highlighting long queues at polling stations in Arab communities.
+Even if Eisenkot ends up with more seats, Netanyahu may use the upcoming weeks or months to his advantage by seeking to stall the formation of the new government, said Amin Saikal, an adjunct senior fellow at Singapore's S. Rajaratnam School of International Studies.
+The prime minister will "fight for his political survival," Saikal said.`,
+    bodyJa: `The outcome of Israel's election hung in the balance as of Wednesday, with both Prime Minister Benjamin Netanyahu and challenger Gadi Eisenkot appearing to be well off the numbers needed to form a governing coalition.
+An updated Channel 13 poll early Wednesday put both blocs at 51 seats in the 120-seat Knesset, the Times of Israel reported. A coalition needs 61 to be able to govern. Channel 12 and Kan 11 showed Eisenkot's bloc slightly ahead at 52-50. Arab-led parties, which belong to neither camp, were projected at 17 to 18 seats, their strongest showing ever.
+Eisenkot, a former military chief of staff, declared victory and said the preliminary results should give him the first right to try to form a government. "The initial exit poll results indicate a complete lack of confidence in Netanyahu and his October 7 government," he said in a statement on X.
+Exit polls are not the official results, which are formally published a week after the election, on Nov. 4. Around 77.7% of eligible voters turned out to cast their ballots, the highest in a Knesset election in 27 years, according to the Central Elections Committee.
+The vote came as Israel's first national election since Hamas's Oct. 7, 2023 attack and the subsequent wars in Gaza, Lebanon and Iran, and was widely seen as a referendum on Netanyahu's dominance of Israeli politics since 2009.
+Netanyahu's supporters credit him with steering Israel through the war and standing up to international pressure, while critics point to his long-running corruption trial, controversial judicial overhaul efforts, and handling of the Gaza war as evidence that he is unfit for office. Netanyahu faces an International Criminal Court arrest warrant over the Gaza campaign, which he has rejected.
+Arab party result
+The historic Arab-party result is a factor to watch in coalition talks. Ra'am leader Mansour Abbas said that "our vote will change the government." Joint List faction chairman Ahmad Tibi had previously outlined a plan to prevent Netanyahu from remaining in power after the elections, according to the Jerusalem Post.
+The pro-Palestinian stance of Arab-led parties aligns them more closely with Eisenkot than with Netanyahu, said Amin Saikal, an adjunct senior fellow at Singapore's S. Rajaratnam School of International Studies, though neither man has said he would embrace them.
+"Even if Eisenkot's alliance wins more seats, it's less likely to be able to form a governing majority without including Arab and left-wing parties," said Michael Feller, chief strategist at Geopolitical Strategy. "The next government's policies on Iran, Palestine and security may otherwise stay the same."
+However, Yisrael Beytenu leader Avigdor Liberman, whose party is projected at seven to nine seats and is currently in the opposition bloc with Eisenkot, refused during the campaign to rely on Arab parties.
+Earlier on Tuesday, Netanyahu and his far-right coalition partners warned of strong Arab participation in the vote, drawing accusations of racism from opponents.
+"If we don't wake up now, we'll find ourselves with a government of Mansour Abbas and Ahmed Tibi," he said, after a series of posts highlighting long queues at polling stations in Arab communities.
+Even if Eisenkot ends up with more seats, Netanyahu may use the upcoming weeks or months to his advantage by seeking to stall the formation of the new government, said Amin Saikal, an adjunct senior fellow at Singapore's S. Rajaratnam School of International Studies.
+The prime minister will "fight for his political survival," Saikal said.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
+    publishedAt: "2026-10-28T02:15:55+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "sk-hynix-shares-soar-over-8-as-profit-be-da7d098c",
+    title: "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors",
+    titleJa: "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors",
+    summaryJa: "Shares of South Korean chipmaker SK Hynix soared over 8% on Wednesday as third-quarter profit sharply beats estimates.",
+    bodyOriginal: `South Korean chipmaker SK Hynix on Wednesday posted a record high quarterly profit, sharply beating estimates, and announced over $25 billion in dividends and buybacks, sending shares more than 8% higher.
+Here are SK Hynix's third-quarter results compared with LSEG SmartEstimates, which are weighted toward forecasts from analysts who are more consistently accurate:
+- Revenue: 104.62 trillion won ($78.86 billion) vs. 98.34 trillion won expected
+- Operating profit: 83.33 trillion won vs. 76.72 trillion won expected
+Revenue rose 327.9% from a year earlier, while operating profit climbed 632.1% year on year.
+Compared with the previous quarter, revenue climbed 31.9%, while operating profit surged 37.6%.
+SK Hynix shares rose more than 8%, outperforming the Kospi's 6.25% gain.
+The company posted record quarterly revenue and operating profit, with sales exceeding 100 trillion won for the first time, as it announced plans to return about 100 trillion won to shareholders — including at least 30 trillion won in cash dividends and 60 trillion won in share buybacks and cancellations.
+In the earnings call, SK Hynix CEO Kwak Noh-Jung cited financial market volatility and a correction in semiconductor stocks as the main reasons to halt its review of potential pre-IPO fundraising and IPO options for its U.S. subsidiary Solidigm.
+Solidigm has concluded that an IPO would not fully deliver the anticipated benefits at this time.Kwak Noh-JungCEO, SK Hynix
+The company had said it would continue to assess investment timing, scale and financing options to support Solidigm's growth and enhance shareholder value.
+Kwak also outlined plans to return gains from its investment in Japanese chipmaker Kioxia to shareholders, saying that, "We intend to return the gains realized from our investment in Kioxia this year to our shareholders through a special dividend."
+The chipmaker approved a third-quarter dividend of 14 trillion won, including a special dividend funded by gains from its investment in Kioxia.
+SK Hynix will also buyback 20 trillion won in shares, half of which will be cancelled this year, after completing its previously announced 40 trillion won shares buyback last week — which will be cancelled shortly — as mentioned in the earnings call.
+The company also plans to raise its shareholder return target to more than 50% of cumulative free cash flow generated between 2025 and 2027, as it expects AI investment momentum to continue due to greater adoption of AI services and a more diverse investor base.
+The company added that it expects the structural supply-demand imbalance in the memory market, where demand outpaces supply, to continue for the time being.
+Memory production boost
+SK Hynix expects HBM4 to surpass HBM3E in both shipments and revenue in the fourth quarter, as it ramps up production at its M15X facility in Cheongju, South Korea.
+HBM, or high-bandwidth memory, is a type of advanced memory used alongside AI processors to handle large amounts of data. HBM4 is the sixth generation of the technology, which started mass productions and shipments in the third quarter.
+Average selling prices for DRAM rose by a high-20s percentage from the previous quarter, driven by higher conventional DRAM prices and a growing share of higher-priced HBM4 sales.
+Meanwhile, shipments of server DDR5 memory chips — a type of memory used in data center servers — rose more than 40% from the previous quarter, as said in the call.
+The company has secured long-term agreements with 14 major customers covering more than 50% of its production capacity for 2027 and 2028, expecting memory demand to outpace supply through 2030 and plans to significantly increase investment next year.`,
+    bodyJa: `South Korean chipmaker SK Hynix on Wednesday posted a record high quarterly profit, sharply beating estimates, and announced over $25 billion in dividends and buybacks, sending shares more than 8% higher.
+Here are SK Hynix's third-quarter results compared with LSEG SmartEstimates, which are weighted toward forecasts from analysts who are more consistently accurate:
+- Revenue: 104.62 trillion won ($78.86 billion) vs. 98.34 trillion won expected
+- Operating profit: 83.33 trillion won vs. 76.72 trillion won expected
+Revenue rose 327.9% from a year earlier, while operating profit climbed 632.1% year on year.
+Compared with the previous quarter, revenue climbed 31.9%, while operating profit surged 37.6%.
+SK Hynix shares rose more than 8%, outperforming the Kospi's 6.25% gain.
+The company posted record quarterly revenue and operating profit, with sales exceeding 100 trillion won for the first time, as it announced plans to return about 100 trillion won to shareholders — including at least 30 trillion won in cash dividends and 60 trillion won in share buybacks and cancellations.
+In the earnings call, SK Hynix CEO Kwak Noh-Jung cited financial market volatility and a correction in semiconductor stocks as the main reasons to halt its review of potential pre-IPO fundraising and IPO options for its U.S. subsidiary Solidigm.
+Solidigm has concluded that an IPO would not fully deliver the anticipated benefits at this time.Kwak Noh-JungCEO, SK Hynix
+The company had said it would continue to assess investment timing, scale and financing options to support Solidigm's growth and enhance shareholder value.
+Kwak also outlined plans to return gains from its investment in Japanese chipmaker Kioxia to shareholders, saying that, "We intend to return the gains realized from our investment in Kioxia this year to our shareholders through a special dividend."
+The chipmaker approved a third-quarter dividend of 14 trillion won, including a special dividend funded by gains from its investment in Kioxia.
+SK Hynix will also buyback 20 trillion won in shares, half of which will be cancelled this year, after completing its previously announced 40 trillion won shares buyback last week — which will be cancelled shortly — as mentioned in the earnings call.
+The company also plans to raise its shareholder return target to more than 50% of cumulative free cash flow generated between 2025 and 2027, as it expects AI investment momentum to continue due to greater adoption of AI services and a more diverse investor base.
+The company added that it expects the structural supply-demand imbalance in the memory market, where demand outpaces supply, to continue for the time being.
+Memory production boost
+SK Hynix expects HBM4 to surpass HBM3E in both shipments and revenue in the fourth quarter, as it ramps up production at its M15X facility in Cheongju, South Korea.
+HBM, or high-bandwidth memory, is a type of advanced memory used alongside AI processors to handle large amounts of data. HBM4 is the sixth generation of the technology, which started mass productions and shipments in the third quarter.
+Average selling prices for DRAM rose by a high-20s percentage from the previous quarter, driven by higher conventional DRAM prices and a growing share of higher-priced HBM4 sales.
+Meanwhile, shipments of server DDR5 memory chips — a type of memory used in data center servers — rose more than 40% from the previous quarter, as said in the call.
+The company has secured long-term agreements with 14 major customers covering more than 50% of its production capacity for 2027 and 2028, expecting memory demand to outpace supply through 2030 and plans to significantly increase investment next year.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+    publishedAt: "2026-10-28T01:56:59+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "indian-investors-rush-to-nvidia-spacex-a-529a9cf2",
+    title: "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
+    titleJa: "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
+    summaryJa: "Major Indian brokerages are providing retail investors access to U.S. stocks at a time when the local market has been battered.",
+    bodyOriginal: `Major Indian online investment platforms are unlocking access to U.S. stocks for millions of retail investors eager to diversify into global assets as the country's markets continue to underperform.
+Earlier, access to U.S. markets and exchange-traded funds was limited to wealthier Indians, via global banks and wealth management firms.
+Groww, an Indian investment platform that accounts for more than 29% of the country's 46 million active investors across stock brokerages, rolled out the U.S. equity trading feature earlier this month, Harsh Jain, chief operating officer and co-founder of the company, told CNBC.
+NVIDIA, SpaceX, Apple, Alphabet, Amazon, Micron and Meta are the most popular companies among early users, Jain said, whose firm has provided access to more than 10,000 U.S. stocks, exchange-traded funds and fractional share ownership.
+Zerodha, the second-largest trading platform with a 15% share of active clients as per NSE data, has also started beta testing access to U.S. stocks and plans to launch in a few weeks, the company told CNBC.
+Another popular brokerage with 6.7 million active retail clients, Angel One, is also reportedly planning to launch U.S. stock trading on its platform.
+There is a "big interest" among Indians to invest in U.S. stocks, especially in tech companies, Nitin Jain, chief executive and director at Kotak Mahindra Asset Management Singapore, told CNBC. He added that "retail investors like whatever goes up," pointing to the frenzy among Indian investors for investing in crypto a few years back.
+U.S. stocks in demand
+"There has always been latent demand in India for investing in global companies," Somnath Mukherjee, vice president of corporate development at Zerodha, told CNBC.
+He said that the underperformance of the Indian stock market over the past few years and the lack of local artificial intelligence champions is driving the demand for U.S offerings. The depreciation of the Indian rupee against the dollar is also pushing investors "to keep a part of their portfolio in another currency," Mukherjee said.
+India's benchmark stock index, the Nifty 50, has dropped nearly 13% since the start of the year while the S&P 500 has gained over 12%. Foreign investors are fleeing the country's markets, with a record $32.5 billion in outflows in direct equities since January, as per data from Indian depository NSDL, pressuring the stock market.
+With the absence of any major AI company and relatively expensive valuations, investors have picked markets such as South Korea and Taiwan over India, experts said.
+In August, resident Indians sent over $321 million overseas for investing in equity and debt, up 111% from a year ago, according to the Indian central bank's data. In the financial year ended March 2026, outward remittances for investments in equity and debt stood at $2.6 billion.
+While the retail outflows are a small fraction of India's currency reserves, the worry is that they rise exactly when the rupee is weak, and US markets look strong, and thereby "amplify pressure at the worst moment," Tanvi Kanchan, associate director, head of international business and strategy, Anand Rathi Shares & Stock Brokers said.
+Investment now accounts for about 11.7% of total outward remittances, up from 5.8% a year ago, so Indians are shifting from spending abroad to investing abroad, Kanchan said.
+The exit of foreign investors and rising energy bills due to the Iran war have already hit the Indian currency, warranting the central bank to step in. Kotak's Jain cautioned that as participation increases, the Indian regulator could have "second thoughts" around allowing retail access to U.S. markets.`,
+    bodyJa: `Major Indian online investment platforms are unlocking access to U.S. stocks for millions of retail investors eager to diversify into global assets as the country's markets continue to underperform.
+Earlier, access to U.S. markets and exchange-traded funds was limited to wealthier Indians, via global banks and wealth management firms.
+Groww, an Indian investment platform that accounts for more than 29% of the country's 46 million active investors across stock brokerages, rolled out the U.S. equity trading feature earlier this month, Harsh Jain, chief operating officer and co-founder of the company, told CNBC.
+NVIDIA, SpaceX, Apple, Alphabet, Amazon, Micron and Meta are the most popular companies among early users, Jain said, whose firm has provided access to more than 10,000 U.S. stocks, exchange-traded funds and fractional share ownership.
+Zerodha, the second-largest trading platform with a 15% share of active clients as per NSE data, has also started beta testing access to U.S. stocks and plans to launch in a few weeks, the company told CNBC.
+Another popular brokerage with 6.7 million active retail clients, Angel One, is also reportedly planning to launch U.S. stock trading on its platform.
+There is a "big interest" among Indians to invest in U.S. stocks, especially in tech companies, Nitin Jain, chief executive and director at Kotak Mahindra Asset Management Singapore, told CNBC. He added that "retail investors like whatever goes up," pointing to the frenzy among Indian investors for investing in crypto a few years back.
+U.S. stocks in demand
+"There has always been latent demand in India for investing in global companies," Somnath Mukherjee, vice president of corporate development at Zerodha, told CNBC.
+He said that the underperformance of the Indian stock market over the past few years and the lack of local artificial intelligence champions is driving the demand for U.S offerings. The depreciation of the Indian rupee against the dollar is also pushing investors "to keep a part of their portfolio in another currency," Mukherjee said.
+India's benchmark stock index, the Nifty 50, has dropped nearly 13% since the start of the year while the S&P 500 has gained over 12%. Foreign investors are fleeing the country's markets, with a record $32.5 billion in outflows in direct equities since January, as per data from Indian depository NSDL, pressuring the stock market.
+With the absence of any major AI company and relatively expensive valuations, investors have picked markets such as South Korea and Taiwan over India, experts said.
+In August, resident Indians sent over $321 million overseas for investing in equity and debt, up 111% from a year ago, according to the Indian central bank's data. In the financial year ended March 2026, outward remittances for investments in equity and debt stood at $2.6 billion.
+While the retail outflows are a small fraction of India's currency reserves, the worry is that they rise exactly when the rupee is weak, and US markets look strong, and thereby "amplify pressure at the worst moment," Tanvi Kanchan, associate director, head of international business and strategy, Anand Rathi Shares & Stock Brokers said.
+Investment now accounts for about 11.7% of total outward remittances, up from 5.8% a year ago, so Indians are shifting from spending abroad to investing abroad, Kanchan said.
+The exit of foreign investors and rising energy bills due to the Iran war have already hit the Indian currency, warranting the central bank to step in. Kotak's Jain cautioned that as participation increases, the Indian regulator could have "second thoughts" around allowing retail access to U.S. markets.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
+    publishedAt: "2026-10-28T00:14:24+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "an-annoying-buzz-the-search-for-stealth-6d7255a2",
+    title: "'An annoying buzz': The search for stealthier drones",
+    titleJa: "'An annoying buzz': The search for stealthier drones",
+    summaryJa: "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+    bodyOriginal: `'An annoying buzz': The search for stealthier drones
+- Published
+Nature lover Ashley Schmidt no longer spends much time in her garden, in the Dallas suburb of North Garland.
+She's also given up on cycling to the local parks where she previously enjoyed taking close-up photos of the bugs, lizards and toads.
+It's all because she can't stand the sound of the delivery drones that fly overhead, depositing her neighbours' online orders.
+"They emit this very annoying buzz. It triggers my fight or flight response," says the 44-year-old administrative assistant.
+"You can hear the drones on approach and you can hear them inside your home when they pass directly overhead and then you hear them as they leave," she says.
+Schmidt is one of a growing number of people living with the noise of drones dispatched by companies including Amazon and Walmart as they seek to speed up home deliveries.
+Delivery drone services, not long ago a novelty, are becoming part of everyday life for many people in the US.
+Among them, Amazon Prime Air is in the process of expanding deliveries to nearly 500 cities and towns, delivering items that fit into a space the size of a shoe box. It has also launched to customers in and around Darlington in the north of England.
+Smaller drone delivery services are popping up too: in some US cities, customers can order flying treats from their local pizza joint or ice cream parlour.
+Even in cities where noise is already a steady part of life, the sound of drones seems to irk in a particular way.
+While the steady passing of traffic might blend into the background, the sudden whine of a drone's rotors can pierce the everyday hum.
+The sound tends to be "particularly noticeable, even when overall sound levels are relatively low," says Antonio Torija Martinez, professor in acoustic engineering and psychoacoustics at the University of Salford.
+Unlike planes, drones operate at low altitudes and may fly directly over residential areas.
+"They can expose communities that have not previously experienced significant aircraft noise, and who may therefore be more sensitive to changes in their local soundscape," says Torija Martinez.
+He points to research showing that people respond strongly to a noise when they consider the source to be "novel, intrusive or frequent". People who benefit from a drone delivery service, for example, may be less bothered by the noise.
+However, complaints about the sound of drones are likely to grow, he warns: "At the moment we are seeing some of these problems localised in some areas, but… as the drone sector expands, more and more of these complaints will happen."
+In the US, the Federal Aviation Administration (FAA) regulates commercial drones, but it has come under fire for allowing noisy drone delivery operations. The FAA says operators and local community leaders have primary responsibility for addressing any community concerns.
+Might better technology muffle the irritating buzz?
+One startup, Greenjets, set out to tackle both "noise level and the frequency of that noise," as Darren James, future technologies lead at the company, puts it.
+The London-based business has designed a propulsion system it claims can reduce drone noise by at least two thirds.
+While standard drones use spinning propellers that slice through open air, creating that high-pitched buzz, Greenjets encloses spinning blades inside a pod, to muffle the sound and direct the noise away from the ground.
+Its system also quietens things down through slower rotor speed and by using materials that reduce vibration noise.
+Making quieter drones isn't just about keeping the noise down for neighbours who are already sick of airborne deliveries.
+Greenjets' low-noise tech has been used by police and harbour security teams in Germany. It has also helped conservationists in Africa, who are seeking to track poachers from above without being detected.
+Battlefield drone operators also have good reason to keep the noise down, to avoid alerting the enemy of the approach of their unmanned vehicles.
+"There are some efforts to reduce the sound of drones. The US Special Forces are interested, at an experimental stage," says Robert Tollast, a research fellow at Whitehall think tank The Royal United Services Institute (RUSI).
+But he stresses that drone speed, rather than stealthiness, tends to come first for larger drones used in the war between Russia and Ukraine. "Make it faster, not less quiet, seems to be the approach," says Tollast.
+For Detroit-based entrepreneur, Greg Sharrow, it was the challenge of broadcasting a classical music performance back in 2012 that set him on the path to quieter drone design.
+He needed to film a violinist from a tricky angle and a drone seemed the only solution – expect that it would be far too noisy.
+As a starting point, "I knew that most of the noise from the drone was coming from the propeller, not the motor," he says. Specifically, it was the tips of the blades that he realised were creating the noise as they swiped through the air.
+"I asked myself a very simple question, what would a tipless propeller look like and how would it function?"
+The result was to create a propeller with twisted loop-shaped blades with no points.
+It turned out it was easier to test his propeller in water than it was to repeatedly fly a drone, which led Sharrow to initially develop a less noisy boat propeller. Now, however, his company, Sharrow Engineering, is focusing on developing "ultra-quiet" drone rotors.
+"We have validated that the technology works in drone applications and that it is dramatically quieter," says Sharrow.
+Companies at the forefront of drone deliveries say they are also working to reduce the noise of their fleets. A spokesperson for Amazon says it has made "measurable sound improvements" to its drones and its latest designs use custom-designed propellers "that produce almost half the perceived sound of the prior generation, with a milder tone".
+Drone maker Wing, which provides its vehicles for Walmart deliveries, says its propellers are designed to minimise noise. It also varies its flight paths to prevent repeated overflights over any single home or neighbourhood.
+For Schmidt, fed up with the noise of drones, the only truly satisfactory solution would be to halt drone deliveries in her area. "I would like them to completely stop until they figure out how their services stop being a nuisance," she says.
+Technology of Business
+- Published25 September
+- Published30 September
+- Published9 October`,
+    bodyJa: `'An annoying buzz': The search for stealthier drones
+- Published
+Nature lover Ashley Schmidt no longer spends much time in her garden, in the Dallas suburb of North Garland.
+She's also given up on cycling to the local parks where she previously enjoyed taking close-up photos of the bugs, lizards and toads.
+It's all because she can't stand the sound of the delivery drones that fly overhead, depositing her neighbours' online orders.
+"They emit this very annoying buzz. It triggers my fight or flight response," says the 44-year-old administrative assistant.
+"You can hear the drones on approach and you can hear them inside your home when they pass directly overhead and then you hear them as they leave," she says.
+Schmidt is one of a growing number of people living with the noise of drones dispatched by companies including Amazon and Walmart as they seek to speed up home deliveries.
+Delivery drone services, not long ago a novelty, are becoming part of everyday life for many people in the US.
+Among them, Amazon Prime Air is in the process of expanding deliveries to nearly 500 cities and towns, delivering items that fit into a space the size of a shoe box. It has also launched to customers in and around Darlington in the north of England.
+Smaller drone delivery services are popping up too: in some US cities, customers can order flying treats from their local pizza joint or ice cream parlour.
+Even in cities where noise is already a steady part of life, the sound of drones seems to irk in a particular way.
+While the steady passing of traffic might blend into the background, the sudden whine of a drone's rotors can pierce the everyday hum.
+The sound tends to be "particularly noticeable, even when overall sound levels are relatively low," says Antonio Torija Martinez, professor in acoustic engineering and psychoacoustics at the University of Salford.
+Unlike planes, drones operate at low altitudes and may fly directly over residential areas.
+"They can expose communities that have not previously experienced significant aircraft noise, and who may therefore be more sensitive to changes in their local soundscape," says Torija Martinez.
+He points to research showing that people respond strongly to a noise when they consider the source to be "novel, intrusive or frequent". People who benefit from a drone delivery service, for example, may be less bothered by the noise.
+However, complaints about the sound of drones are likely to grow, he warns: "At the moment we are seeing some of these problems localised in some areas, but… as the drone sector expands, more and more of these complaints will happen."
+In the US, the Federal Aviation Administration (FAA) regulates commercial drones, but it has come under fire for allowing noisy drone delivery operations. The FAA says operators and local community leaders have primary responsibility for addressing any community concerns.
+Might better technology muffle the irritating buzz?
+One startup, Greenjets, set out to tackle both "noise level and the frequency of that noise," as Darren James, future technologies lead at the company, puts it.
+The London-based business has designed a propulsion system it claims can reduce drone noise by at least two thirds.
+While standard drones use spinning propellers that slice through open air, creating that high-pitched buzz, Greenjets encloses spinning blades inside a pod, to muffle the sound and direct the noise away from the ground.
+Its system also quietens things down through slower rotor speed and by using materials that reduce vibration noise.
+Making quieter drones isn't just about keeping the noise down for neighbours who are already sick of airborne deliveries.
+Greenjets' low-noise tech has been used by police and harbour security teams in Germany. It has also helped conservationists in Africa, who are seeking to track poachers from above without being detected.
+Battlefield drone operators also have good reason to keep the noise down, to avoid alerting the enemy of the approach of their unmanned vehicles.
+"There are some efforts to reduce the sound of drones. The US Special Forces are interested, at an experimental stage," says Robert Tollast, a research fellow at Whitehall think tank The Royal United Services Institute (RUSI).
+But he stresses that drone speed, rather than stealthiness, tends to come first for larger drones used in the war between Russia and Ukraine. "Make it faster, not less quiet, seems to be the approach," says Tollast.
+For Detroit-based entrepreneur, Greg Sharrow, it was the challenge of broadcasting a classical music performance back in 2012 that set him on the path to quieter drone design.
+He needed to film a violinist from a tricky angle and a drone seemed the only solution – expect that it would be far too noisy.
+As a starting point, "I knew that most of the noise from the drone was coming from the propeller, not the motor," he says. Specifically, it was the tips of the blades that he realised were creating the noise as they swiped through the air.
+"I asked myself a very simple question, what would a tipless propeller look like and how would it function?"
+The result was to create a propeller with twisted loop-shaped blades with no points.
+It turned out it was easier to test his propeller in water than it was to repeatedly fly a drone, which led Sharrow to initially develop a less noisy boat propeller. Now, however, his company, Sharrow Engineering, is focusing on developing "ultra-quiet" drone rotors.
+"We have validated that the technology works in drone applications and that it is dramatically quieter," says Sharrow.
+Companies at the forefront of drone deliveries say they are also working to reduce the noise of their fleets. A spokesperson for Amazon says it has made "measurable sound improvements" to its drones and its latest designs use custom-designed propellers "that produce almost half the perceived sound of the prior generation, with a milder tone".
+Drone maker Wing, which provides its vehicles for Walmart deliveries, says its propellers are designed to minimise noise. It also varies its flight paths to prevent repeated overflights over any single home or neighbourhood.
+For Schmidt, fed up with the noise of drones, the only truly satisfactory solution would be to halt drone deliveries in her area. "I would like them to completely stop until they figure out how their services stop being a nuisance," she says.
+Technology of Business
+- Published25 September
+- Published30 September
+- Published9 October`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-28T00:01:10+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5b2/live/ad407780-c7b4-11f1-a64c-550be9e3c66b.jpg",
+    readTime: 10,
+  },
+  {
+    id: "china-s-families-are-now-supporting-more-06de503d",
+    title: "China's families are now supporting more old people than kids",
+    titleJa: "China's families are now supporting more old people than kids",
+    summaryJa: "The latest figures mark a major milestone as Beijing grapples with an ageing population.",
+    bodyOriginal: `China's families are now supporting more old people than kids
+- Published
+Families in China are for the first time supporting more elderly people than children, the country's government has said.
+Official data released in the last week, external show the ratio of China's dependent elderly people compared to the working age population rose to 23% last year, overtaking the figure for children, which stood at 22%.
+The numbers are closely watched for signs of how China's shrinking workforce will impact both the world's second largest economy and global growth as a whole.
+The latest figures mark a significant milestone as China grapples with an ageing population that could have implications for families, pensions and healthcare spending, analysts say.
+China has been preparing for a growing proportion of elderly people in recent years, while urging younger generations to get married and for couples to have more children.
+The latest data from China's National Bureau of Statistics show there are now more than 223 million people in China aged 65 and above, accounting for nearly 16% of the country's total population.
+At the same time there are about 213 million children aged 14 and under.
+No official commentary was published with the statistics. But Chinese state-controlled news outlet Global Times wrote that the nation's "entry into a moderately ageing society" is the result of a mix of factors, including the "size of past birth cohorts" and longer life expectancy.
+The shift could place added strain on pension, healthcare and long-term care systems, while also creating opportunities in the so-called silver economy that caters to older consumers, the newspaper said.
+"It reflects a historical trend in demographic development rather than a short-term phenomenon," Global Times quoted one researcher as saying.
+The demographic shift is "symbolic" and could suggest more public spending will move from families and schools to pensions and healthcare, said Professor Stuart Gietel-Basten from The Hong Kong University of Science and Technology.
+It may also pose a challenge to the country's ambitions, as it could limit its economic growth as well as people's spending power, said National University of Singapore sociology lecturer Mu Zheng.
+China's ageing population has been driven by a mix of factors, including rapid urbanisation and the effects of the controversial one-child policy, which was in place from 1980 to the end of 2015.
+The strategy, designed to keep China's rapid population growth under control, is estimated by the country's government to have prevented about 400 million births since it began, though this number has been contested.
+The policy played a key role in shrinking the population and means there are fewer younger people to support a growing number of elderly relatives, Mu said.
+But despite easing restrictions on the size of families, Beijing has struggled to persuade couples to have more children, with birth rates hitting historic lows.
+Other contributing factors include changing gender roles, rising living costs and higher education levels that have put pressure on fertility rates, Mu said.
+Beijing made further support for older people a part of the measures in its five-year economic blueprint that was announced earlier this year.
+Financial help for pensioners has been a growing part of Chinese government spending. More than 53 million elderly people were receiving senior citizen allowances and subsidies by the end of 2025, according to official figures.
+The Global Times noted that many people entering old age who were born between the 1950s and the 1970s have generally higher incomes compared to previous generations, stronger purchasing power and are healthier.
+The dependency ratio is widely-used to measure ageing populations but it has also been questioned by some experts who argue that its scope is too limited.
+Gietel-Basten said the use of the statistics risks "taking agency away" from older people - many of whom he says have been misrepresented as dependants.
+It also does not take into account improvements to healthcare, he added.
+Related topics
+- Published19 January
+- Published31 December 2025`,
+    bodyJa: `China's families are now supporting more old people than kids
+- Published
+Families in China are for the first time supporting more elderly people than children, the country's government has said.
+Official data released in the last week, external show the ratio of China's dependent elderly people compared to the working age population rose to 23% last year, overtaking the figure for children, which stood at 22%.
+The numbers are closely watched for signs of how China's shrinking workforce will impact both the world's second largest economy and global growth as a whole.
+The latest figures mark a significant milestone as China grapples with an ageing population that could have implications for families, pensions and healthcare spending, analysts say.
+China has been preparing for a growing proportion of elderly people in recent years, while urging younger generations to get married and for couples to have more children.
+The latest data from China's National Bureau of Statistics show there are now more than 223 million people in China aged 65 and above, accounting for nearly 16% of the country's total population.
+At the same time there are about 213 million children aged 14 and under.
+No official commentary was published with the statistics. But Chinese state-controlled news outlet Global Times wrote that the nation's "entry into a moderately ageing society" is the result of a mix of factors, including the "size of past birth cohorts" and longer life expectancy.
+The shift could place added strain on pension, healthcare and long-term care systems, while also creating opportunities in the so-called silver economy that caters to older consumers, the newspaper said.
+"It reflects a historical trend in demographic development rather than a short-term phenomenon," Global Times quoted one researcher as saying.
+The demographic shift is "symbolic" and could suggest more public spending will move from families and schools to pensions and healthcare, said Professor Stuart Gietel-Basten from The Hong Kong University of Science and Technology.
+It may also pose a challenge to the country's ambitions, as it could limit its economic growth as well as people's spending power, said National University of Singapore sociology lecturer Mu Zheng.
+China's ageing population has been driven by a mix of factors, including rapid urbanisation and the effects of the controversial one-child policy, which was in place from 1980 to the end of 2015.
+The strategy, designed to keep China's rapid population growth under control, is estimated by the country's government to have prevented about 400 million births since it began, though this number has been contested.
+The policy played a key role in shrinking the population and means there are fewer younger people to support a growing number of elderly relatives, Mu said.
+But despite easing restrictions on the size of families, Beijing has struggled to persuade couples to have more children, with birth rates hitting historic lows.
+Other contributing factors include changing gender roles, rising living costs and higher education levels that have put pressure on fertility rates, Mu said.
+Beijing made further support for older people a part of the measures in its five-year economic blueprint that was announced earlier this year.
+Financial help for pensioners has been a growing part of Chinese government spending. More than 53 million elderly people were receiving senior citizen allowances and subsidies by the end of 2025, according to official figures.
+The Global Times noted that many people entering old age who were born between the 1950s and the 1970s have generally higher incomes compared to previous generations, stronger purchasing power and are healthier.
+The dependency ratio is widely-used to measure ageing populations but it has also been questioned by some experts who argue that its scope is too limited.
+Gietel-Basten said the use of the statistics risks "taking agency away" from older people - many of whom he says have been misrepresented as dependants.
+It also does not take into account improvements to healthcare, he added.
+Related topics
+- Published19 January
+- Published31 December 2025`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-27T23:16:08+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39b9/live/b1569840-d105-11f1-8441-f1b8954c52d9.jpg",
+    readTime: 10,
+  },
+  {
     id: "grand-jury-rejects-doj-bid-to-indict-ex-34f79190",
     title: "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
     titleJa: "Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports",
@@ -1635,460 +2061,6 @@ Shadow Chancellor Andrew Griffith said: "Shoppers face rising costs at the till 
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c2c/live/35815a70-d173-11f1-9d71-6d5ae0660afe.jpg",
     readTime: 7,
-  },
-  {
-    id: "you-need-only-watch-episodes-of-judge-j-d189837d",
-    title: "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-    titleJa: "‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-    summaryJa: "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
-    bodyOriginal: `“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”`,
-    bodyJa: `“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-    publishedAt: "2026-10-26T22:30:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-19205579",
-    readTime: 2,
-  },
-  {
-    id: "doj-charges-ex-fbi-director-james-comey-84b89591",
-    title: "DOJ charges ex-FBI Director James Comey in new case",
-    titleJa: "DOJ charges ex-FBI Director James Comey in new case",
-    summaryJa: "Comey for years has been targeted by President Donald Trump, who fired him as FBI director in 2017.",
-    bodyOriginal: `Former FBI Director James Comey has been charged for the third time with federal crimes, according to a court filing unsealed Monday in U.S. District Court in Washington, D.C., at Comey's request.
-Comey is accused in the new case with knowingly communicating information related to national defense to a person not entitled to receive it.
-He is also charged with conspiring with others to violate the law against sharing such information.
-The charging document, known as an information, says Comey, "through one or more co-conspirators," directed an unnamed individual "to disclose national defense information to a reporter for a national news publication."
-According to a court filing by Comey, who is seeking to dismiss the new case, the information relates to the "alleged disclosure of classified information" to The New York Times on Oct. 5, 2016.
-Comey's lawyers told a judge in that filing that the alleged disclosure "was investigated by two separate U.S. Attorneys over the past ten years. Both declined to prosecute."
-Comey has been repeatedly targeted by the Department of Justice under the administration of President Donald Trump, who fired him as FBI director in 2017. Both men have been fierce critics of one another since then.
-The DOJ filed the information against Comey on Oct. 5 and asked a judge to seal it, citing the risk that an ongoing criminal investigation would be compromised by the charges becoming public. Judge Trevor McFadden granted that request that day.
-Attorneys for Comey, whom the DOJ agreed should be notified of the information, filed a motion to dismiss the case on Oct. 9, arguing that the 10-year statute of limitations to file a grand jury indictment relating to events of Oct. 5, 2016, had expired.
-Comey's lawyers accused the DOJ of filing "a faulty information under seal" in an effort to put the statute of limitations on hold.
-The attorneys on Monday asked McFadden to unseal the information, and the judge agreed to do so.
-Comey separately is currently seeking the dismissal of an indictment obtained by the DOJ in North Carolina federal court on charges of threatening Trump's life by posting a photo of seashells on a beach on social media. He previously successfully won dismissal of another indictment accusing him of falsely testifying to Congress.
-The new criminal complaint came to light hours after a federal judge in New York ruled that the Department of Justice had unlawfully fired Comey's daughter, Maurene Comey, last year as an assistant U.S. attorney for the Southern District of New York.
-"Well, they're back — again," James Comey said in a video message on Substack addressing the new case.
-"It would almost be funny if it weren't such an appalling abuse of the Department of Justice, one that we cannot become numb to," he said. "Nothing's changed with me. I'm still innocent. I'm still not afraid of these people, and I still believe in the independent federal judiciary."
-"And I'm still lucky to have an amazing family and an incredible group of lawyers that will stand up in court and fight the latest and whatever comes after this," Comey said. "The next couple of years are going to be hard for all of us. It's really important that we stand straight and keep the faith in America."
-In the pending indictment in North Carolina, Comey in late April was charged with threatening Trump's life by posting on Instagram a photo of seashells on a beach arranged to form the numbers "86 47."
-Prosecutors claim that the number "86" — which is often used in restaurants to indicate a menu item is no longer available — was code for suggesting someone kill Trump, who is the 47th U.S. president.
-Comey has denied any wrongdoing in that case and is seeking to have the indictment tossed out by a judge.
-Comey was first indicted in September 2025 by a federal grand jury in Virginia on charges of making a false statement and obstruction, in connection with testimony he gave before the Senate Judiciary Committee on Sept. 30, 2020.
-Comey, in that testimony, denied authorizing another person at the FBI to serve as an anonymous source in news reports regarding an investigation of Hillary Clinton and her emails when she was the Democratic presidential nominee in 2016.
-That first indictment was dismissed by a judge on Nov. 24, 2025, after the judge ruled that Lindsey Halligan, a then-interim U.S. attorney who obtained the indictments, had been invalidly appointed.
-On the same day the judge tossed Comey's case for that reason, the same judge dismissed an unrelated indictment obtained by Halligan against New York Attorney General Letitia James, who had been accused of bank fraud and making false statements to a financial institution in connection with a home mortgage she obtained in 2020.
-James, like Comey, has been a staunch critic of Trump, and a target of the president's ire.`,
-    bodyJa: `Former FBI Director James Comey has been charged for the third time with federal crimes, according to a court filing unsealed Monday in U.S. District Court in Washington, D.C., at Comey's request.
-Comey is accused in the new case with knowingly communicating information related to national defense to a person not entitled to receive it.
-He is also charged with conspiring with others to violate the law against sharing such information.
-The charging document, known as an information, says Comey, "through one or more co-conspirators," directed an unnamed individual "to disclose national defense information to a reporter for a national news publication."
-According to a court filing by Comey, who is seeking to dismiss the new case, the information relates to the "alleged disclosure of classified information" to The New York Times on Oct. 5, 2016.
-Comey's lawyers told a judge in that filing that the alleged disclosure "was investigated by two separate U.S. Attorneys over the past ten years. Both declined to prosecute."
-Comey has been repeatedly targeted by the Department of Justice under the administration of President Donald Trump, who fired him as FBI director in 2017. Both men have been fierce critics of one another since then.
-The DOJ filed the information against Comey on Oct. 5 and asked a judge to seal it, citing the risk that an ongoing criminal investigation would be compromised by the charges becoming public. Judge Trevor McFadden granted that request that day.
-Attorneys for Comey, whom the DOJ agreed should be notified of the information, filed a motion to dismiss the case on Oct. 9, arguing that the 10-year statute of limitations to file a grand jury indictment relating to events of Oct. 5, 2016, had expired.
-Comey's lawyers accused the DOJ of filing "a faulty information under seal" in an effort to put the statute of limitations on hold.
-The attorneys on Monday asked McFadden to unseal the information, and the judge agreed to do so.
-Comey separately is currently seeking the dismissal of an indictment obtained by the DOJ in North Carolina federal court on charges of threatening Trump's life by posting a photo of seashells on a beach on social media. He previously successfully won dismissal of another indictment accusing him of falsely testifying to Congress.
-The new criminal complaint came to light hours after a federal judge in New York ruled that the Department of Justice had unlawfully fired Comey's daughter, Maurene Comey, last year as an assistant U.S. attorney for the Southern District of New York.
-"Well, they're back — again," James Comey said in a video message on Substack addressing the new case.
-"It would almost be funny if it weren't such an appalling abuse of the Department of Justice, one that we cannot become numb to," he said. "Nothing's changed with me. I'm still innocent. I'm still not afraid of these people, and I still believe in the independent federal judiciary."
-"And I'm still lucky to have an amazing family and an incredible group of lawyers that will stand up in court and fight the latest and whatever comes after this," Comey said. "The next couple of years are going to be hard for all of us. It's really important that we stand straight and keep the faith in America."
-In the pending indictment in North Carolina, Comey in late April was charged with threatening Trump's life by posting on Instagram a photo of seashells on a beach arranged to form the numbers "86 47."
-Prosecutors claim that the number "86" — which is often used in restaurants to indicate a menu item is no longer available — was code for suggesting someone kill Trump, who is the 47th U.S. president.
-Comey has denied any wrongdoing in that case and is seeking to have the indictment tossed out by a judge.
-Comey was first indicted in September 2025 by a federal grand jury in Virginia on charges of making a false statement and obstruction, in connection with testimony he gave before the Senate Judiciary Committee on Sept. 30, 2020.
-Comey, in that testimony, denied authorizing another person at the FBI to serve as an anonymous source in news reports regarding an investigation of Hillary Clinton and her emails when she was the Democratic presidential nominee in 2016.
-That first indictment was dismissed by a judge on Nov. 24, 2025, after the judge ruled that Lindsey Halligan, a then-interim U.S. attorney who obtained the indictments, had been invalidly appointed.
-On the same day the judge tossed Comey's case for that reason, the same judge dismissed an unrelated indictment obtained by Halligan against New York Attorney General Letitia James, who had been accused of bank fraud and making false statements to a financial institution in connection with a home mortgage she obtained in 2020.
-James, like Comey, has been a staunch critic of Trump, and a target of the president's ire.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
-    publishedAt: "2026-10-26T22:24:36+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "jetblue-posts-bigger-loss-on-fuel-costs-3e65b38f",
-    title: "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
-    titleJa: "JetBlue posts bigger loss on fuel costs, but CEO says margins improving",
-    summaryJa: "JetBlue Airways is in the middle of a plan that aims to cut costs and increase premium revenue.",
-    bodyOriginal: `JetBlue Airways reported a bigger loss in the third quarter compared with last year, but the New York carrier said strong travel demand is helping to offset higher fuel prices as it seeks to calm investors after shares fell to a new low Monday.
-JetBlue stock soared roughly 11% in after-hours trading Monday.
-JetBlue on Monday posted a net loss of $257 million for the three months ended Sept. 30, compared with a loss of $143 million a year earlier. The carrier's fuel bill rose 61% to $868 million.
-"Resilient demand and strong yields drove revenue well ahead of our initial expectations, allowing us to recapture more of the increase in fuel costs than we initially expected," CEO Joanna Geraghty said in an earnings release. "That momentum has carried into the fourth quarter, and Fort Lauderdale continues to deliver exceptional results even as we significantly grow capacity."
-JetBlue's average fares rose more than 19% to $245.11 in the third quarter from $205.67 in the year-earlier period.
-JetBlue executives are set to hold an earnings call on Tuesday at 10 a.m. ET, where they will face questions from analysts about the company's long-term health amid sustained losses. A group of the airline's senior creditors is reportedly working with restructuring adviser PJT Partners, the Wall Street Journal reported Friday.
-The carrier said it ended the quarter with $2.2 billion in liquidity and that its unencumbered asset base is now $7 billion, including $2.8 billion in aircraft and engines.
-JetBlue had total debt of $8.4 billion as of Sept. 30, the carrier said in its earnings filing Monday.
-"Importantly, we believe we have the liquidity and financing options to create a strong bridge to at least $1 EPS and positive free cash flow in 2028," CFO Ursula Hurley said in a statement. "We remain focused on disciplined cost execution and capital management as we work toward sustained profitability and positive free cash flow."
-Here is what JetBlue reported in the third quarter compared with Wall Street estimates compiled by LSEG:
-- Loss per share: 60 cents adjusted vs. a loss of 55 cents expected
-- Revenue: $2.81 billion vs. $2.82 billion expected
-JetBlue last posted an annual profit in 2019. The airline is in the middle of a multiyear turnaround plan that includes cutting cuts and boosting revenue by investing in premium seats, like a new domestic first class section that recently went on sale.
-Fuel costs have eaten into airline profits across the board. JetBlue said travel demand has remained strong despite higher fares, which are up more than 20% this year.
-JetBlue has struggled not just with higher costs but also with competition from larger rivals.
-It sought to acquire now-defunct carrier Spirit Airlines, but that deal was upended by a federal judge who ruled it was anticompetitive. A judge also blocked a regional partnership between JetBlue and American Airlines, which the airlines argued would help them compete better against carriers in the congested Northeast U.S. JetBlue now has a partnership with United Airlines.`,
-    bodyJa: `JetBlue Airways reported a bigger loss in the third quarter compared with last year, but the New York carrier said strong travel demand is helping to offset higher fuel prices as it seeks to calm investors after shares fell to a new low Monday.
-JetBlue stock soared roughly 11% in after-hours trading Monday.
-JetBlue on Monday posted a net loss of $257 million for the three months ended Sept. 30, compared with a loss of $143 million a year earlier. The carrier's fuel bill rose 61% to $868 million.
-"Resilient demand and strong yields drove revenue well ahead of our initial expectations, allowing us to recapture more of the increase in fuel costs than we initially expected," CEO Joanna Geraghty said in an earnings release. "That momentum has carried into the fourth quarter, and Fort Lauderdale continues to deliver exceptional results even as we significantly grow capacity."
-JetBlue's average fares rose more than 19% to $245.11 in the third quarter from $205.67 in the year-earlier period.
-JetBlue executives are set to hold an earnings call on Tuesday at 10 a.m. ET, where they will face questions from analysts about the company's long-term health amid sustained losses. A group of the airline's senior creditors is reportedly working with restructuring adviser PJT Partners, the Wall Street Journal reported Friday.
-The carrier said it ended the quarter with $2.2 billion in liquidity and that its unencumbered asset base is now $7 billion, including $2.8 billion in aircraft and engines.
-JetBlue had total debt of $8.4 billion as of Sept. 30, the carrier said in its earnings filing Monday.
-"Importantly, we believe we have the liquidity and financing options to create a strong bridge to at least $1 EPS and positive free cash flow in 2028," CFO Ursula Hurley said in a statement. "We remain focused on disciplined cost execution and capital management as we work toward sustained profitability and positive free cash flow."
-Here is what JetBlue reported in the third quarter compared with Wall Street estimates compiled by LSEG:
-- Loss per share: 60 cents adjusted vs. a loss of 55 cents expected
-- Revenue: $2.81 billion vs. $2.82 billion expected
-JetBlue last posted an annual profit in 2019. The airline is in the middle of a multiyear turnaround plan that includes cutting cuts and boosting revenue by investing in premium seats, like a new domestic first class section that recently went on sale.
-Fuel costs have eaten into airline profits across the board. JetBlue said travel demand has remained strong despite higher fares, which are up more than 20% this year.
-JetBlue has struggled not just with higher costs but also with competition from larger rivals.
-It sought to acquire now-defunct carrier Spirit Airlines, but that deal was upended by a federal judge who ruled it was anticompetitive. A judge also blocked a regional partnership between JetBlue and American Airlines, which the airlines argued would help them compete better against carriers in the congested Northeast U.S. JetBlue now has a partnership with United Airlines.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/26/jetblue-jblu-3q-2026-earnings.html",
-    publishedAt: "2026-10-26T21:18:07+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 8,
-  },
-  {
-    id: "microsoft-offers-voluntary-buyouts-to-60-3912b107",
-    title: "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-    titleJa: "Microsoft offers voluntary buyouts to 60,000 employees as AI leads to efficiency push",
-    summaryJa: "Microsoft is trying to balance a rapid AI infrastructure build-out with capital efficiency.",
-    bodyOriginal: `Microsoft said Monday that it's offering buyouts to a wide swath of employees as it strives to balance a costly artificial intelligence infrastructure build-out with capital efficiency.
-The software maker announced a new voluntary exit offer for certain workers in the U.S., Canada, India and the United Kingdom at its experience level of 70 or below.
-Around 60,000 people are eligible, according to a person familiar with the matter, who asked not to be named while discussing an internal matter. The effort affects about 27% of Microsoft's total workforce of 223,000 people.
-Microsoft has been ramping up spending on data centers to accommodate high AI computing demand, supplying cloud services to Anthropic, OpenAI and a slew of other companies. Capital expenditures for the September quarter should exceed $50 billion, Microsoft said in July. In the same quarter a year ago, capital spending and finance leases came to $34.9 billion.
-That's put a strain on Microsoft's finances. In April, it announced a first-ever voluntary retirement program that around 7% of U.S. employees were eligible for. Then, in July, Microsoft announced plans to lay off 4,800 employees.
-"The Voluntary Exit Offer reflects an important part of how we're evolving our approach to change: creating greater flexibility and, where possible, more ways for employees to shape their next chapter," Amy Coleman, Microsoft's executive vice president and chief people officer, wrote in a memo to employees. "This builds on what we learned earlier this year through the Voluntary Retirement Program."
-Microsoft is in the midst of a business model transformation, increasingly trying to charge clients based on how much AI they actually use. It has armed programmers, sellers and supply chain workers with AI tools and observed noticeable results. At the same time, the 51-year-old maker of Windows and Office wants to ensure that it has the right talent to go after its most compelling new growth opportunities.
-The idea is to make the shift without weakening Microsoft's financial profile. In the second quarter, cloud rivals Alphabet and Amazon both reported negative free cash flow, but Microsoft showed $19.64 billion in positive free cash flow for the period, down 23% year over year.
-Some marketing, sales and engineering teams have decided not to participate in the new buyout, the person said. Employees must decide whether to take the offer in early December, and those participating will leave on Dec. 31, the person added.
-More than 30% of those who could join the voluntary retirement program went ahead with it, Microsoft said in July. But that was open to those at the senior director level and below, while the new initiative goes higher, to the vice president level, said the person briefed on the new plan. The person said Microsoft does not have a target in mind this time around.
-On Wednesday, Microsoft is scheduled to report third-quarter results.
-WATCH: Amazon, Microsoft earnings key to gauging AI investment returns: CIO`,
-    bodyJa: `Microsoft said Monday that it's offering buyouts to a wide swath of employees as it strives to balance a costly artificial intelligence infrastructure build-out with capital efficiency.
-The software maker announced a new voluntary exit offer for certain workers in the U.S., Canada, India and the United Kingdom at its experience level of 70 or below.
-Around 60,000 people are eligible, according to a person familiar with the matter, who asked not to be named while discussing an internal matter. The effort affects about 27% of Microsoft's total workforce of 223,000 people.
-Microsoft has been ramping up spending on data centers to accommodate high AI computing demand, supplying cloud services to Anthropic, OpenAI and a slew of other companies. Capital expenditures for the September quarter should exceed $50 billion, Microsoft said in July. In the same quarter a year ago, capital spending and finance leases came to $34.9 billion.
-That's put a strain on Microsoft's finances. In April, it announced a first-ever voluntary retirement program that around 7% of U.S. employees were eligible for. Then, in July, Microsoft announced plans to lay off 4,800 employees.
-"The Voluntary Exit Offer reflects an important part of how we're evolving our approach to change: creating greater flexibility and, where possible, more ways for employees to shape their next chapter," Amy Coleman, Microsoft's executive vice president and chief people officer, wrote in a memo to employees. "This builds on what we learned earlier this year through the Voluntary Retirement Program."
-Microsoft is in the midst of a business model transformation, increasingly trying to charge clients based on how much AI they actually use. It has armed programmers, sellers and supply chain workers with AI tools and observed noticeable results. At the same time, the 51-year-old maker of Windows and Office wants to ensure that it has the right talent to go after its most compelling new growth opportunities.
-The idea is to make the shift without weakening Microsoft's financial profile. In the second quarter, cloud rivals Alphabet and Amazon both reported negative free cash flow, but Microsoft showed $19.64 billion in positive free cash flow for the period, down 23% year over year.
-Some marketing, sales and engineering teams have decided not to participate in the new buyout, the person said. Employees must decide whether to take the offer in early December, and those participating will leave on Dec. 31, the person added.
-More than 30% of those who could join the voluntary retirement program went ahead with it, Microsoft said in July. But that was open to those at the senior director level and below, while the new initiative goes higher, to the vice president level, said the person briefed on the new plan. The person said Microsoft does not have a target in mind this time around.
-On Wednesday, Microsoft is scheduled to report third-quarter results.
-WATCH: Amazon, Microsoft earnings key to gauging AI investment returns: CIO`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
-    publishedAt: "2026-10-26T20:44:50+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 8,
-  },
-  {
-    id: "anthropic-s-blockbuster-share-listing-5-c14c5f2f",
-    title: "Anthropic's blockbuster share listing - 5 surprising things we now know",
-    titleJa: "Anthropic's blockbuster share listing - 5 surprising things we now know",
-    summaryJa: "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
-    bodyOriginal: `Anthropic's blockbuster share listing - 5 surprising things we now know
-- Published
-Artificial intelligence (AI) firm Anthropic just released the required paperwork ahead of its long-anticipated debut on the US stock market.
-The 335-page document included fresh details of how the Claude chatbot owner makes money, what it spends that money on and who it is controlled by.
-Anthropic also detailed some of the the risks it claimed AI technology poses, including how it could take human lives. That information sat alongside the many purported benefits of the technology.
-Here are five key points worth highlighting from the filing.
-1. Armageddon is an occupational hazard
-Every public company has to tell potential investors how things could go wrong.
-Anthropic's "risk factors" were unique, also disclosing how the AI technology it is developing could doom humanity as a whole.
-"Sufficiently advanced AI systems could, if not developed, deployed, and operated with appropriate safeguards, oversight, and security measures, pose catastrophic or existential risks to humanity," Anthropic said.
-It noted that less than a year ago, a hacking group Anthropic believed to be sponsored by China "manipulated" Claude to successfully intrude on a number of institutions, including large technology companies, financial institutions, chemical manufacturing companies and government agencies.
-But Anthropic said its success is dependent on its ability to constantly "develop, improve, and deploy the most advanced, capable, and useful AI models".
-One of the most significant risks to that ability is Anthropic's access to infrastructure it needs, including computer chips and data centres, to build, train and operate the models that underpin its technology.
-2. The company is haemorrhaging cash
-Anthropic has yet to disclose a target share price for its stock listing.
-The company is widely expected to debut with a market valuation of $2 trillion or more, making it the largest stock listing in history. But the figure will be heavily influenced by its financial performance.
-Anthropic lost $80.7bn (£60bn) in the first half of this year, double what it lost across 2025 altogether.
-The company's overall revenue was $16.2bn billion for the six-month period. Revenues are rising rapidly, but the firm has a long way to go before it breaks even.
-Troy Hooper, co-head of equity capital markets at Mergermarket, said Anthropic's revenue growth is "exceptional". But investors are "less forgiving" of tech companies promising huge future returns than they were even months ago, he added.
-Anthropic's debt picture is also unclear given it has a huge amount of accounting charges related to certain forms of investment.
-"As a result, investors do not yet have a clear view of Anthropic's underlying profitability or whether its rate of cash generation is sufficient to support the business as it scales," Hooper added.
-3. But luckily it has plenty of cash on hand
-Despite losing money, Anthropic has heaps of cash lying about.
-At $131.6bn, almost all of its cash in hand is defined as "working capital", meaning it can use the money to fund its operations day-to-day.
-Currently, Anthropic has more cash on hand than Meta and Google combined.
-Anthropic's costs could rise as it faces fierce competition for top staff and computing power from other AI giants.
-The leasing of data centres alone is costing the company $321.4bn so far this year.
-Hooper said such large costs are expected to grow. Even with this kind of cash, it won't be enough to maintain its business growth.
-Any investors in Anthropic "will be paying for future dominance, not present-day economics", he said.
-4. Anthropic relies on a few big customers
-Anthropic sees boundless ways it can sell its technology to customers.
-A large portion of its current business comes from just 250 major enterprise customers, which it says have paid it at least $10mn in the past year.
-An even smaller number, just five enterprise customers, make up a quarter of its current business.
-Michael Monaghan, portfolio manager of Founder ETF, pointed out that "many top Anthropic customers have no long-term contract".
-The company's level of business concentration leaves Anthropic dependent on a small fraction of its paying customers to support its growth, with no guarantee it will continue.
-Anthropic also has enterprise relationships with the likes of Google and Amazon, both of which are also investors in the company "and competitors", creating potential business conflicts in the future, Monaghan noted.
-Anthropic said its overall enterprise customer base has grown rapidly, going from roughly 1,500 customers last year to almost 12,000 this year.
-Part of its growth strategy is offering Claude tools for free before working to "convert these users into paying customers over time".
-The strategy has led to Claude seeing "the fastest enterprise adoption of any technology in history", the company claimed.
-5. AI promises 'extraordinary' benefits to the world
-For all of the risks Anthropic has said AI poses, it also reiterated its claim AI will produce an "extraordinary" amount of good.
-"Achieving our mission means the world gains the enormous benefits of frontier AI while mitigating the most significant risks," the company said.
-That mission is defined as: "The responsible development and maintenance of advanced AI for the long-term benefit of humanity."
-"We do not pursue projects based on commercial opportunity or research novelty alone; our efforts must advance our mission. "
-Such hypothetical benefits include progress in healthcare, like the development of bespoke treatments for illnesses and improved disease detection, tailored education and legal advice and making more efficient power grids and batteries.
-Decades of scientific progress could be condensed into years, accelerating drug discovery, disease detection, and the delivery of personalized therapy.
-Anthropic said AI could provide individually tailored education and expert financial and legal advice, advance power grids and battery design for greater efficiency and reliability and help the "developing world" build more technological capabilities.
-"Ultimately, we believe frontier AI will help drive global economic growth," the company said.`,
-    bodyJa: `Anthropic's blockbuster share listing - 5 surprising things we now know
-- Published
-Artificial intelligence (AI) firm Anthropic just released the required paperwork ahead of its long-anticipated debut on the US stock market.
-The 335-page document included fresh details of how the Claude chatbot owner makes money, what it spends that money on and who it is controlled by.
-Anthropic also detailed some of the the risks it claimed AI technology poses, including how it could take human lives. That information sat alongside the many purported benefits of the technology.
-Here are five key points worth highlighting from the filing.
-1. Armageddon is an occupational hazard
-Every public company has to tell potential investors how things could go wrong.
-Anthropic's "risk factors" were unique, also disclosing how the AI technology it is developing could doom humanity as a whole.
-"Sufficiently advanced AI systems could, if not developed, deployed, and operated with appropriate safeguards, oversight, and security measures, pose catastrophic or existential risks to humanity," Anthropic said.
-It noted that less than a year ago, a hacking group Anthropic believed to be sponsored by China "manipulated" Claude to successfully intrude on a number of institutions, including large technology companies, financial institutions, chemical manufacturing companies and government agencies.
-But Anthropic said its success is dependent on its ability to constantly "develop, improve, and deploy the most advanced, capable, and useful AI models".
-One of the most significant risks to that ability is Anthropic's access to infrastructure it needs, including computer chips and data centres, to build, train and operate the models that underpin its technology.
-2. The company is haemorrhaging cash
-Anthropic has yet to disclose a target share price for its stock listing.
-The company is widely expected to debut with a market valuation of $2 trillion or more, making it the largest stock listing in history. But the figure will be heavily influenced by its financial performance.
-Anthropic lost $80.7bn (£60bn) in the first half of this year, double what it lost across 2025 altogether.
-The company's overall revenue was $16.2bn billion for the six-month period. Revenues are rising rapidly, but the firm has a long way to go before it breaks even.
-Troy Hooper, co-head of equity capital markets at Mergermarket, said Anthropic's revenue growth is "exceptional". But investors are "less forgiving" of tech companies promising huge future returns than they were even months ago, he added.
-Anthropic's debt picture is also unclear given it has a huge amount of accounting charges related to certain forms of investment.
-"As a result, investors do not yet have a clear view of Anthropic's underlying profitability or whether its rate of cash generation is sufficient to support the business as it scales," Hooper added.
-3. But luckily it has plenty of cash on hand
-Despite losing money, Anthropic has heaps of cash lying about.
-At $131.6bn, almost all of its cash in hand is defined as "working capital", meaning it can use the money to fund its operations day-to-day.
-Currently, Anthropic has more cash on hand than Meta and Google combined.
-Anthropic's costs could rise as it faces fierce competition for top staff and computing power from other AI giants.
-The leasing of data centres alone is costing the company $321.4bn so far this year.
-Hooper said such large costs are expected to grow. Even with this kind of cash, it won't be enough to maintain its business growth.
-Any investors in Anthropic "will be paying for future dominance, not present-day economics", he said.
-4. Anthropic relies on a few big customers
-Anthropic sees boundless ways it can sell its technology to customers.
-A large portion of its current business comes from just 250 major enterprise customers, which it says have paid it at least $10mn in the past year.
-An even smaller number, just five enterprise customers, make up a quarter of its current business.
-Michael Monaghan, portfolio manager of Founder ETF, pointed out that "many top Anthropic customers have no long-term contract".
-The company's level of business concentration leaves Anthropic dependent on a small fraction of its paying customers to support its growth, with no guarantee it will continue.
-Anthropic also has enterprise relationships with the likes of Google and Amazon, both of which are also investors in the company "and competitors", creating potential business conflicts in the future, Monaghan noted.
-Anthropic said its overall enterprise customer base has grown rapidly, going from roughly 1,500 customers last year to almost 12,000 this year.
-Part of its growth strategy is offering Claude tools for free before working to "convert these users into paying customers over time".
-The strategy has led to Claude seeing "the fastest enterprise adoption of any technology in history", the company claimed.
-5. AI promises 'extraordinary' benefits to the world
-For all of the risks Anthropic has said AI poses, it also reiterated its claim AI will produce an "extraordinary" amount of good.
-"Achieving our mission means the world gains the enormous benefits of frontier AI while mitigating the most significant risks," the company said.
-That mission is defined as: "The responsible development and maintenance of advanced AI for the long-term benefit of humanity."
-"We do not pursue projects based on commercial opportunity or research novelty alone; our efforts must advance our mission. "
-Such hypothetical benefits include progress in healthcare, like the development of bespoke treatments for illnesses and improved disease detection, tailored education and legal advice and making more efficient power grids and batteries.
-Decades of scientific progress could be condensed into years, accelerating drug discovery, disease detection, and the delivery of personalized therapy.
-Anthropic said AI could provide individually tailored education and expert financial and legal advice, advance power grids and battery design for greater efficiency and reliability and help the "developing world" build more technological capabilities.
-"Ultimately, we believe frontier AI will help drive global economic growth," the company said.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-26T19:57:23+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a4/live/4c5ea950-d15a-11f1-9f24-99bf1cc18b1d.jpg",
-    readTime: 10,
-  },
-  {
-    id: "the-arc-of-trump-how-the-president-lost-706f4dc1",
-    title: "The arc of Trump: How the president lost the coalition that put him in the White House",
-    titleJa: "The arc of Trump: How the president lost the coalition that put him in the White House",
-    summaryJa: "President Trump forged an extraordinary coalition to win office in 2024. A new CNBC survey shows that coalition is now seriously weakened.",
-    bodyOriginal: `President Donald Trump forged an extraordinary coalition to win office in 2024, stitching together his base with unusual support from some traditional Democratic groups like Hispanics and young people. It was enough to sweep the battleground states and catapult him into office for a second term.
-The latest CNBC All-America Economic Survey shows that coalition is now seriously weakened.
-Since the beginning of his second term, the president's net approval rating among Latino voters has dropped from -22 to -38, and declined from -28 to -53 among 18- to 34-year olds. Black respondents have moved from -55 to -67.
-Among all registered voters, his approval has fallen from -7 at the start of his term to -19 in the most recent survey.
-The decline in the president's approval carries over into the Republican base. Approval from self-described Trump voters has fallen from a net +85 in 2025 to a net of +65. Net approval has even turned negative in the South, from +2 in 2025 to -20 in the latest survey.
-The results of the latest poll show why Republicans are facing an uphill battle in the midterm elections next week. Trump is not on the ballot — but his presence will be felt.
-Read the full survey results here.
-To be sure, Republicans in the survey still give the president an 82% approval rating, and those who say they identify with the MAGA movement are at 90%. But interest in the election is 10 points lower among Republicans than it is for Democrats, and in tight races, the party that better turns out its voters will have an advantage.
-The survey of 1,000 registered voters nationwide found 44% of respondents say their biggest worry if Republicans control Congress is allowing President Trump to operate beyond his constitutional power. By contrast, 28% say their biggest worry for Democratic control is passing policies of Democratic Socialists. For either party's control, registered voters worry that Congress won't do enough to bring down prices.
-The survey was conducted Oct. 14-18, and was co-led by Democratic pollster Hart Research Associates and Republican pollster Public Opinion Strategies. It carries a margin of error of plus or minus 3.1 percentage points.
-As a second-term president who had skipped four years between terms, Trump's arc of approval has followed an unusual path. The president left office above water on the economy, with 48% approving and 41% disapproving — high numbers for a president whose last year was overwhelmed by the Covid pandemic.
-But there was no second-term honeymoon. Trump was immediately underwater in his economic approval rating in the April 2025 CNBC survey. That could have reflected immediate public discontent with the tariff regime and resulting market turmoil. The president's economic approval rating remained negative through most of his first year.
-The bottom dropped out, however, with the launch of the Iran war. By April 2026, the president's net economic approval rating was plying depths last seen under President Joe Biden amid the aftermath of the pandemic, when the country was facing high inflation and elevated unemployment.
-In the first quarter of this year, Trump's net economic approval dropped 10 points to -21. It has plunged to -31 in the latest survey. Economic disapproval rose to 65%, the highest for any president CNBC has measured back to President Barack Obama, and one point higher than Biden's worst showing. The survey shows increasing disapproval of Trump's handling of inflation. Over the same time, shooting of Americans by Immigration and Customs Enforcement officers began to dominate headlines, eroding support for one of the president's major policy initiatives.
-The survey this quarter appeared to pick up growing frustration with a host of issues, from immigration to the economy, among those demographic groups that had supported the president in unusual numbers in 2024, with sharp declines in economic and overall approval among Latinos, young people and those in the $50,000 to $75,000 income group.
-Most ominously for the president, views on the economic outlook fell 22 points for Republicans. Though still net positive, it was the lowest level of economic optimism for Republicans since Biden.
-These downbeat views on the economy do not automatically translate to votes for Democrats. The survey showed a 7-point preference for Democratic control of Congress, a 3-point gain from the July survey. While Republican economic pessimism grew, so did their preference for a Republican-controlled Congress, from 85% in July to 87% in October.
-Blue-collar workers show how the president has maintained his base amid growing concern about the economy. Their net economic approval of the president has plunged 22 points to -15 from the beginning of Trump's term to now. But their overall presidential approval remains +6, just a four-point drop. They still prefer a Republican-controlled Congress by 21 points, though that is down from 33 points in July.
-The days and weeks leading up to the election have seen the president barnstorming through red states, a sign of concern with the base's enthusiasm. But it also creates the possibility that he could fire up his base and bring them out to stanch potential Democratic gains.
-The survey shows that the extra votes from the coalition that put Trump in the White House in 2024 would be a reach for Republican congressional candidates in 2026.`,
-    bodyJa: `President Donald Trump forged an extraordinary coalition to win office in 2024, stitching together his base with unusual support from some traditional Democratic groups like Hispanics and young people. It was enough to sweep the battleground states and catapult him into office for a second term.
-The latest CNBC All-America Economic Survey shows that coalition is now seriously weakened.
-Since the beginning of his second term, the president's net approval rating among Latino voters has dropped from -22 to -38, and declined from -28 to -53 among 18- to 34-year olds. Black respondents have moved from -55 to -67.
-Among all registered voters, his approval has fallen from -7 at the start of his term to -19 in the most recent survey.
-The decline in the president's approval carries over into the Republican base. Approval from self-described Trump voters has fallen from a net +85 in 2025 to a net of +65. Net approval has even turned negative in the South, from +2 in 2025 to -20 in the latest survey.
-The results of the latest poll show why Republicans are facing an uphill battle in the midterm elections next week. Trump is not on the ballot — but his presence will be felt.
-Read the full survey results here.
-To be sure, Republicans in the survey still give the president an 82% approval rating, and those who say they identify with the MAGA movement are at 90%. But interest in the election is 10 points lower among Republicans than it is for Democrats, and in tight races, the party that better turns out its voters will have an advantage.
-The survey of 1,000 registered voters nationwide found 44% of respondents say their biggest worry if Republicans control Congress is allowing President Trump to operate beyond his constitutional power. By contrast, 28% say their biggest worry for Democratic control is passing policies of Democratic Socialists. For either party's control, registered voters worry that Congress won't do enough to bring down prices.
-The survey was conducted Oct. 14-18, and was co-led by Democratic pollster Hart Research Associates and Republican pollster Public Opinion Strategies. It carries a margin of error of plus or minus 3.1 percentage points.
-As a second-term president who had skipped four years between terms, Trump's arc of approval has followed an unusual path. The president left office above water on the economy, with 48% approving and 41% disapproving — high numbers for a president whose last year was overwhelmed by the Covid pandemic.
-But there was no second-term honeymoon. Trump was immediately underwater in his economic approval rating in the April 2025 CNBC survey. That could have reflected immediate public discontent with the tariff regime and resulting market turmoil. The president's economic approval rating remained negative through most of his first year.
-The bottom dropped out, however, with the launch of the Iran war. By April 2026, the president's net economic approval rating was plying depths last seen under President Joe Biden amid the aftermath of the pandemic, when the country was facing high inflation and elevated unemployment.
-In the first quarter of this year, Trump's net economic approval dropped 10 points to -21. It has plunged to -31 in the latest survey. Economic disapproval rose to 65%, the highest for any president CNBC has measured back to President Barack Obama, and one point higher than Biden's worst showing. The survey shows increasing disapproval of Trump's handling of inflation. Over the same time, shooting of Americans by Immigration and Customs Enforcement officers began to dominate headlines, eroding support for one of the president's major policy initiatives.
-The survey this quarter appeared to pick up growing frustration with a host of issues, from immigration to the economy, among those demographic groups that had supported the president in unusual numbers in 2024, with sharp declines in economic and overall approval among Latinos, young people and those in the $50,000 to $75,000 income group.
-Most ominously for the president, views on the economic outlook fell 22 points for Republicans. Though still net positive, it was the lowest level of economic optimism for Republicans since Biden.
-These downbeat views on the economy do not automatically translate to votes for Democrats. The survey showed a 7-point preference for Democratic control of Congress, a 3-point gain from the July survey. While Republican economic pessimism grew, so did their preference for a Republican-controlled Congress, from 85% in July to 87% in October.
-Blue-collar workers show how the president has maintained his base amid growing concern about the economy. Their net economic approval of the president has plunged 22 points to -15 from the beginning of Trump's term to now. But their overall presidential approval remains +6, just a four-point drop. They still prefer a Republican-controlled Congress by 21 points, though that is down from 33 points in July.
-The days and weeks leading up to the election have seen the president barnstorming through red states, a sign of concern with the base's enthusiasm. But it also creates the possibility that he could fire up his base and bring them out to stanch potential Democratic gains.
-The survey shows that the extra votes from the coalition that put Trump in the White House in 2024 would be a reach for Republican congressional candidates in 2026.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/26/trump-approval-midterms-cnbc-survey.html",
-    publishedAt: "2026-10-26T17:36:55+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "anthropic-warns-of-catastrophic-risk-to-9a600a34",
-    title: "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-    titleJa: "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-    summaryJa: "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
-    bodyOriginal: `Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing
-- Published
-Anthropic has warned artificial intelligence (AI) could pose "catastrophic or existential risks to humanity" as it unveiled details of its planned blockbuster stock market listing in the US.
-The firm's valuation is expected to exceed that of SpaceX, which was the biggest-ever listing at an initial valuation of about $1.8 trillion in the summer.
-Anthropic has not yet disclosed the number of shares to be released, their price range, or a date for the listing.
-The Claude chatbot developer reported $16.3bn (£12.2bn) of revenue in the first half of the year, with losses of more than $80.7bn.
-Anthropic, which said it will list on the Nasdaq under the symbol ANT, will be the first fully AI-focused company to go public, making it a test case for the future of the technology.
-In a filing ahead of its listing, Anthropic said concerns had been raised by policymakers, regulators and researchers as well as by people within its organisation that AI systems posed a significant risk to humanity.
-It said advanced AI systems "could, if not developed, deployed, and operated with appropriate safeguards, oversight, and security measures, pose catastrophic or existential risks to humanity, particularly if such systems were misused, replicated, weaponised, or allowed to operate with a high degree of autonomy".
-Anthropic was founded five years ago by chief executive Dario Amodei, his sister Daniela Amodei and five others, and announced its intention to go public in June.
-Its main rival, OpenAI, quickly followed suit. That listing is now expected to occur early next year, according to a person familiar with OpenAI's plans.
-Those announcements were followed by a wave of cyber-security and other technological breaches involving their AI agents - bots designed to operate somewhat autonomously.
-Current and former staff of both companies also warned AI technology was being developed without the ability to protect humanity from possible future harms enacted by AI tools.
-As Anthropic revealed its stock debut plans on Monday, the owners of the rights to Elvis Presley's music sued the AI firm accusing it of using hundreds of the rock-and-roll star's songs to train its chatbot Claude.
-Anthropic's blockbuster share listing - 5 surprising things we now know
-- Published2 hours ago
-'Bold but sane'
-In Anthropic's new documents, it reiterated promises it has made in the past to develop AI in a way that is beneficial to people, while at the same time warning investors of its dangers.
-Anthropic detailed losses in its financial filings that exceeded its revenue for the first half of the year, but said it would often make forward investments "that may seem irresponsibly large at first glance".
-"In general, we will aim to be bold but sane, and to win trust with a track record of successful bets," the tech giant said.
-Its success depends largely on its ability to develop the most advanced AI models, Anthropic said, adding, "any failure to do so could adversely affect our business".
-Across about 90 pages detailing possible risk factors, Anthropic set out the potential threats to its ability to safely and competitively develop AI.
-Anthropic warned it relies on a cluster of cloud computing providers, Taiwanese chipmakers already facing huge demand and data centres concentrated in the US.
-It also warned of "regulatory action arising from harms associated with our AI models" - citing concerns over AI being used by children or individuals at risk of suicide - and uncertainty about where and how it might be held liable for actions taken by its systems.
-However, Anthropic also used the filing to laud the potential benefits of the tech itself, envisioning it unlocking "millions of virtual agents with the ability to revolutionise every area of human endeavour" across a range of fields.
-"We believe that AI is one of the most consequential technologies in human history," the firm said.
-Anthropic said AI would also "profoundly accelerate the rate of progress in biology and medicine", potentially finding cures to diseases including cancer and Alzheimer's.
-The firm added it could also establish "sustained acceleration in economic growth" by boosting productivity.
-'Significant milestone'
-Matt Orton, chief market strategist at investment management firm Raymond James Investment, said investors expected to see rapid growth as well as rapid financial losses in Anthropic's finances, so Monday's filing would not come as a surprise.
-"Getting the details from this filing, I think will help provide the market with more visibility, because we need to know where its revenue growth is coming from," he told the BBC.
-Peter Andersen, founder of Andersen Capital Management, told Reuters that Anthropic's plans to list was "a significant milestone in the development of artificial intelligence".
-He added that the outcome of its stock market debut would be "fairly indicative of the sentiment" among investors to continue ploughing cash into AI development.
-Why are there concerns AI could threaten humanity, and how real are they?
-- Published17 September
-Owners of Elvis music rights sue Anthropic for copyright violations
-- Published7 hours ago
-Musk and Anthropic pledge public share giveaways
-- Published7 days ago
-AI giant Anthropic woos potential investors ahead of stock market debut
-- Published15 October
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
-    bodyJa: `Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing
-- Published
-Anthropic has warned artificial intelligence (AI) could pose "catastrophic or existential risks to humanity" as it unveiled details of its planned blockbuster stock market listing in the US.
-The firm's valuation is expected to exceed that of SpaceX, which was the biggest-ever listing at an initial valuation of about $1.8 trillion in the summer.
-Anthropic has not yet disclosed the number of shares to be released, their price range, or a date for the listing.
-The Claude chatbot developer reported $16.3bn (£12.2bn) of revenue in the first half of the year, with losses of more than $80.7bn.
-Anthropic, which said it will list on the Nasdaq under the symbol ANT, will be the first fully AI-focused company to go public, making it a test case for the future of the technology.
-In a filing ahead of its listing, Anthropic said concerns had been raised by policymakers, regulators and researchers as well as by people within its organisation that AI systems posed a significant risk to humanity.
-It said advanced AI systems "could, if not developed, deployed, and operated with appropriate safeguards, oversight, and security measures, pose catastrophic or existential risks to humanity, particularly if such systems were misused, replicated, weaponised, or allowed to operate with a high degree of autonomy".
-Anthropic was founded five years ago by chief executive Dario Amodei, his sister Daniela Amodei and five others, and announced its intention to go public in June.
-Its main rival, OpenAI, quickly followed suit. That listing is now expected to occur early next year, according to a person familiar with OpenAI's plans.
-Those announcements were followed by a wave of cyber-security and other technological breaches involving their AI agents - bots designed to operate somewhat autonomously.
-Current and former staff of both companies also warned AI technology was being developed without the ability to protect humanity from possible future harms enacted by AI tools.
-As Anthropic revealed its stock debut plans on Monday, the owners of the rights to Elvis Presley's music sued the AI firm accusing it of using hundreds of the rock-and-roll star's songs to train its chatbot Claude.
-Anthropic's blockbuster share listing - 5 surprising things we now know
-- Published2 hours ago
-'Bold but sane'
-In Anthropic's new documents, it reiterated promises it has made in the past to develop AI in a way that is beneficial to people, while at the same time warning investors of its dangers.
-Anthropic detailed losses in its financial filings that exceeded its revenue for the first half of the year, but said it would often make forward investments "that may seem irresponsibly large at first glance".
-"In general, we will aim to be bold but sane, and to win trust with a track record of successful bets," the tech giant said.
-Its success depends largely on its ability to develop the most advanced AI models, Anthropic said, adding, "any failure to do so could adversely affect our business".
-Across about 90 pages detailing possible risk factors, Anthropic set out the potential threats to its ability to safely and competitively develop AI.
-Anthropic warned it relies on a cluster of cloud computing providers, Taiwanese chipmakers already facing huge demand and data centres concentrated in the US.
-It also warned of "regulatory action arising from harms associated with our AI models" - citing concerns over AI being used by children or individuals at risk of suicide - and uncertainty about where and how it might be held liable for actions taken by its systems.
-However, Anthropic also used the filing to laud the potential benefits of the tech itself, envisioning it unlocking "millions of virtual agents with the ability to revolutionise every area of human endeavour" across a range of fields.
-"We believe that AI is one of the most consequential technologies in human history," the firm said.
-Anthropic said AI would also "profoundly accelerate the rate of progress in biology and medicine", potentially finding cures to diseases including cancer and Alzheimer's.
-The firm added it could also establish "sustained acceleration in economic growth" by boosting productivity.
-'Significant milestone'
-Matt Orton, chief market strategist at investment management firm Raymond James Investment, said investors expected to see rapid growth as well as rapid financial losses in Anthropic's finances, so Monday's filing would not come as a surprise.
-"Getting the details from this filing, I think will help provide the market with more visibility, because we need to know where its revenue growth is coming from," he told the BBC.
-Peter Andersen, founder of Andersen Capital Management, told Reuters that Anthropic's plans to list was "a significant milestone in the development of artificial intelligence".
-He added that the outcome of its stock market debut would be "fairly indicative of the sentiment" among investors to continue ploughing cash into AI development.
-Why are there concerns AI could threaten humanity, and how real are they?
-- Published17 September
-Owners of Elvis music rights sue Anthropic for copyright violations
-- Published7 hours ago
-Musk and Anthropic pledge public share giveaways
-- Published7 days ago
-AI giant Anthropic woos potential investors ahead of stock market debut
-- Published15 October
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-26T16:27:17+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e394/live/7affbe60-d147-11f1-93e1-3b657b665bcf.jpg",
-    readTime: 10,
-  },
-  {
-    id: "investors-are-doing-just-as-well-this-ye-06088095",
-    title: "Investors are doing just as well this year by shunning AI. How to invest if the tech trade keeps fizzling",
-    titleJa: "Investors are doing just as well this year by shunning AI. How to invest if the tech trade keeps fizzling",
-    summaryJa: "An S&amp;P 500 index without AI stocks is beating the traditional index. These sectors and stocks could be winners if the AI trade keeps fraying.",
-    bodyOriginal: `A version of the S&P 500 without AI briefly pulled ahead of the traditional index this year and is now neck-and-neck as investors rotate into other areas of the market.
-A proprietary Goldman Sachs index tracking the S&P 500 without stocks classified as "AI enablers" was up 12.4% through Oct. 22, edging ahead of the standard S&P 500's 12% gain. The Goldman index is now neck-and-neck with the S&P 500 as tech rallied in Monday trading.
-Tech and AI-related companies make up about 45% of the S&P 500. That heavy weighting has helped power the index for years, but it's turned into a liability lately; the S&P 500 tech sector is down about 7% this month while other sectors have held up.
-Investors have soured on debt and equity issued by companies like CoreWeave and Oracle. Shares of Meta Platforms sank almost 7% Thursday after it outlined more plans to spend heavily on capex and issue additional shares.
-Companies supplying power and equipment for the buildout have been hit hard — names like GE Vernova, Bloom Energy, Vistra and Quanta Services all suffered steep declines during the recent selloff.
-Goldman, which launched the measure earlier this year with S&P, uses the S&P 500 as its starting universe and excludes companies perceived to be enablers of AI before applying S&P 500 Index weighting methodology to the remaining universe of companies.
-AI trade loses steam
-The ex-AI index lagged the S&P 500 for most of the year as investors continued to favor chipmakers, cloud-computing companies and other firms benefiting from heavy AI spending. However, that advantage has been narrowing and it disappeared last week.
-Meanwhile, investors are rotating into defensive areas. ETFs like State Street Consumer Staples Select Sector SPDR ETF, State Street Health Select SPDR ETF and State Street Utilities Select Sector SPDR ETF are up 7% to 10% this month. Energy is ahead 10% too, though that's more related to the war in Iran.
-Some analysts recommend sticking with non-AI companies for diversification and protection against more pain in tech. The "AI pendulum has swung back in favor of non-AI exposure over the last two weeks," Oppenheimer technical analyst Ari Wald said in a note on Oct. 24.
-Two industries that Oppenheimer favors now are commercial services and insurance. The firm upgraded those industries to overweight last week, recommending Republic Services, Cintas, Verisk Analytics, Broadridge Financial Solutions, MetLife and Arthur J. Gallagher.
-Berkshire Hathaway is also capitalizing on the rotation out of tech. Its Class B shares are up 8% this month, though it's still lagging behind the S&P 500 this year.
-Berkshire owns a wide swath of operating companies, including insurance giant Geico and Burlington Northern Santa Fe railroad. It also has a $364 billion stock portfolio including companies like Apple, Coca-Cola, Alphabet and Bank of America. That diversification may help Berkshire continue to outperform if the tech sector drags down the S&P 500.
-Trivector Research sees potential in "non-tech compounders." Healthcare giant Eli Lilly is one idea. The stock is up 22% on the strength of Lilly's weight-loss drugs. The company has more in the pipeline, including a next-generation obesity drug that Lilly plans to file for FDA approval early in 2027.
-Viking Holdings, a cruise operator, is also proving durable. The company said on its August earnings call that 40% of its river capacity and 60% of its ocean capacity was already booked for 2027. "Based on recent events, we've seen our guests have proved to be resilient and are continuing to book 2027 and future seasons," the company told investors.
-Viking stock is up 15% this year but it may still have upside. The average Wall Street target is $109, above recent prices around $82. Barclays recently upgraded the cruise operator to overweight with a $102 target, citing the company's "compelling risk/reward."`,
-    bodyJa: `A version of the S&P 500 without AI briefly pulled ahead of the traditional index this year and is now neck-and-neck as investors rotate into other areas of the market.
-A proprietary Goldman Sachs index tracking the S&P 500 without stocks classified as "AI enablers" was up 12.4% through Oct. 22, edging ahead of the standard S&P 500's 12% gain. The Goldman index is now neck-and-neck with the S&P 500 as tech rallied in Monday trading.
-Tech and AI-related companies make up about 45% of the S&P 500. That heavy weighting has helped power the index for years, but it's turned into a liability lately; the S&P 500 tech sector is down about 7% this month while other sectors have held up.
-Investors have soured on debt and equity issued by companies like CoreWeave and Oracle. Shares of Meta Platforms sank almost 7% Thursday after it outlined more plans to spend heavily on capex and issue additional shares.
-Companies supplying power and equipment for the buildout have been hit hard — names like GE Vernova, Bloom Energy, Vistra and Quanta Services all suffered steep declines during the recent selloff.
-Goldman, which launched the measure earlier this year with S&P, uses the S&P 500 as its starting universe and excludes companies perceived to be enablers of AI before applying S&P 500 Index weighting methodology to the remaining universe of companies.
-AI trade loses steam
-The ex-AI index lagged the S&P 500 for most of the year as investors continued to favor chipmakers, cloud-computing companies and other firms benefiting from heavy AI spending. However, that advantage has been narrowing and it disappeared last week.
-Meanwhile, investors are rotating into defensive areas. ETFs like State Street Consumer Staples Select Sector SPDR ETF, State Street Health Select SPDR ETF and State Street Utilities Select Sector SPDR ETF are up 7% to 10% this month. Energy is ahead 10% too, though that's more related to the war in Iran.
-Some analysts recommend sticking with non-AI companies for diversification and protection against more pain in tech. The "AI pendulum has swung back in favor of non-AI exposure over the last two weeks," Oppenheimer technical analyst Ari Wald said in a note on Oct. 24.
-Two industries that Oppenheimer favors now are commercial services and insurance. The firm upgraded those industries to overweight last week, recommending Republic Services, Cintas, Verisk Analytics, Broadridge Financial Solutions, MetLife and Arthur J. Gallagher.
-Berkshire Hathaway is also capitalizing on the rotation out of tech. Its Class B shares are up 8% this month, though it's still lagging behind the S&P 500 this year.
-Berkshire owns a wide swath of operating companies, including insurance giant Geico and Burlington Northern Santa Fe railroad. It also has a $364 billion stock portfolio including companies like Apple, Coca-Cola, Alphabet and Bank of America. That diversification may help Berkshire continue to outperform if the tech sector drags down the S&P 500.
-Trivector Research sees potential in "non-tech compounders." Healthcare giant Eli Lilly is one idea. The stock is up 22% on the strength of Lilly's weight-loss drugs. The company has more in the pipeline, including a next-generation obesity drug that Lilly plans to file for FDA approval early in 2027.
-Viking Holdings, a cruise operator, is also proving durable. The company said on its August earnings call that 40% of its river capacity and 60% of its ocean capacity was already booked for 2027. "Based on recent events, we've seen our guests have proved to be resilient and are continuing to book 2027 and future seasons," the company told investors.
-Viking stock is up 15% this year but it may still have upside. The average Wall Street target is $109, above recent prices around $82. Barclays recently upgraded the cruise operator to overweight with a $102 target, citing the company's "compelling risk/reward."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/26/sp-500-ex-ai-index-tech-selloff.html",
-    publishedAt: "2026-10-26T15:39:55+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
   },
 ];
 
