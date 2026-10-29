@@ -15,6 +15,538 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "circle-tether-freeze-funds-impacted-by-p-e76b98b9",
+    title: "Circle, Tether freeze funds impacted by potential Binance 'security issue'",
+    titleJa: "Circle, Tether freeze funds impacted by potential Binance 'security issue'",
+    summaryJa: "Binance, the world's largest crypto exchange, said it was actively investigating the matter and that funds are \"completley safe.\"",
+    bodyOriginal: `Several crypto firms, including Circle Internet Group and Tether, on Thursday froze roughly $1.8 billion worth of funds tied to a potential hack on cryptocurrency exchange Binance.
+The world's largest crypto exchange by daily trading volumes has not explicitly confirmed that it has suffered an exploit as of writing time. In a social media post, the company said it was investigating "a potential security issue" on its trading platform.
+"Our teams are aware of reports of a potential security issue and are actively investigating," a Binance spokesperson said. "Rest assured that user funds are completely safe. Our security teams are reviewing all relevant information with urgency, and we will provide updates through official Binance channels as soon as we have verified information."
+Circle CEO Jeremy Allaire said Thursday evening in a social media post that the company had frozen more than 800 million in USD Coin associated with the incident. USDT stablecoin issuer Tether CEO Paolo Ardoino also said in on X that his firm had frozen more than 1.5 billion of its stablecoin that may have been related to a potential breach.
+Later, Binance co-founder Yi He said in a statement that the XRP and RLUSD-tied firm Ripple helped halt the movement of $200 million worth of funds linked to the possible attack.
+But those frozen funds could represent only a fraction of those that were potentially stolen off of Binance. Crypto data provider Arkham Intelligence linked nearly $6 billion in digital assets — including bitcoin, ether, solana and various stablecoins — to 55 wallet addresses it has linked to the potential exploit.
+Arkham identifies, tracks and flags crypto wallets by analyzing publicly available blockchain data. It also solicits tips from its community members.
+Bitcoin — the most widely followed cryptocurrency in the world — slid more than 3% following the executives' statements, breaking below $80,000. Ether fell nearly 4%, while solana shed about 3%.
+Shares of Circle also tumbled about 5% in off-hours trading on Thursday.`,
+    bodyJa: `Several crypto firms, including Circle Internet Group and Tether, on Thursday froze roughly $1.8 billion worth of funds tied to a potential hack on cryptocurrency exchange Binance.
+The world's largest crypto exchange by daily trading volumes has not explicitly confirmed that it has suffered an exploit as of writing time. In a social media post, the company said it was investigating "a potential security issue" on its trading platform.
+"Our teams are aware of reports of a potential security issue and are actively investigating," a Binance spokesperson said. "Rest assured that user funds are completely safe. Our security teams are reviewing all relevant information with urgency, and we will provide updates through official Binance channels as soon as we have verified information."
+Circle CEO Jeremy Allaire said Thursday evening in a social media post that the company had frozen more than 800 million in USD Coin associated with the incident. USDT stablecoin issuer Tether CEO Paolo Ardoino also said in on X that his firm had frozen more than 1.5 billion of its stablecoin that may have been related to a potential breach.
+Later, Binance co-founder Yi He said in a statement that the XRP and RLUSD-tied firm Ripple helped halt the movement of $200 million worth of funds linked to the possible attack.
+But those frozen funds could represent only a fraction of those that were potentially stolen off of Binance. Crypto data provider Arkham Intelligence linked nearly $6 billion in digital assets — including bitcoin, ether, solana and various stablecoins — to 55 wallet addresses it has linked to the potential exploit.
+Arkham identifies, tracks and flags crypto wallets by analyzing publicly available blockchain data. It also solicits tips from its community members.
+Bitcoin — the most widely followed cryptocurrency in the world — slid more than 3% following the executives' statements, breaking below $80,000. Ether fell nearly 4%, while solana shed about 3%.
+Shares of Circle also tumbled about 5% in off-hours trading on Thursday.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+    publishedAt: "2026-10-29T22:42:41+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "intel-stock-plunges-21-as-chipmaker-blam-b5ed9695",
+    title: "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
+    titleJa: "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
+    summaryJa: "Intel has been a Wall Street darling this year due to its emergence as a player in AI, but the company is being weighed down by a struggling PC market.",
+    bodyOriginal: `Intel shares plummeted more than 20% in extended trading on Thursday after the chipmaker issued a weak fourth-quarter forecast, citing continued softness in the global PC market.
+Here's how the company did in the third quarter, compared with estimates from analysts polled by LSEG:
+- Earnings per share: 52 cents adjusted vs. 40 cents expected
+- Revenue: $16.51 billion vs. $16.5 billion expected
+Revenue climbed 21% from $13.7 billion a year earlier, the company said in a press release.
+However, revenue in Intel's client computing and physical AI group fell 5% from the same quarter a year ago to $8.1 billion, missing estimates, even as data center and AI revenue jumped 78% to $7.3 billion.
+Global PC shipments declined 4% in the second quarter from a year earlier due to soaring costs for memory and other components, according to Counterpoint Research.
+For the current quarter, Intel said it expects adjusted earnings per share of 25 cents on revenue between $15 billion and $16 billion. Analysts were expecting revenue of $17.1 billion and EPS of 43 cents, according to LSEG.
+"We see the PC slowdown continuing at least through the first half of next year," Intel finance chief David Zinsner, said in the release. "We will continue making disciplined investments in capacity and working capital to increase supply and support future growth."
+Intel's forecast reflects the effects of an explosion at a fab in Israel that killed two workers and seriously injured a third earlier this month. The incident will cost the company about $600 million in lost revenue over two quarters, Zinsner said on Thursday's earnings. CEO Lip-Bu Tan said the explosion, which he called an "unfortunate and tragic accident," caused an "extended shutdown" at the plant, impacting shipments of 10-nanometer chips.
+Intel's stock has been on an upward tear, up about 150% so far this year prior to the earnings report, although it's down roughly 23% in October over growing concern over the size of the artificial intelligence buildout.
+"We will remain disciplined as we invest, and we will not spend $1 of capital unless we have confidence in the health of our products and process technologies, and clear evidence of customer demand," Zinsner said on the call.
+Nvidia, which has become the world's most valuable company thanks to its dominance in graphics processing units, or GPUs, is scheduled to report results in mid-November. Advanced Micro Devices, a maker of GPUs and central processing units, or CPUs, reports next week.
+Known best for its industry-leading CPUs, Intel has been a beneficiary of the rise in agentic AI. While chatbots and large models rely heavily on graphics processors from Nvidia and AMD, agentic applications such as Meta's Muse and OpenAI's Dots lean on CPUs to help orchestrate tasks and data from a computer operating in the cloud.
+"Despite near term headwinds affecting the broader PC industry, we continue to see robust demand for CPUs and more broadly, for all our computing platforms in the long term," Tan said in the press release.
+Intel's foundry business, meanwhile, has struggled to find its footing.
+Intel is the only U.S.-based manufacturer of advanced logic chips, and is now in high-volume production of its most advanced 18A chip out of its new fab in Arizona, providing an alternative to Taiwan Semiconductor Manufacturing Co. Its next fab in Arizona is expected to begin operations by the end of 2028.
+For now, Intel has no major external customers for its new chips.
+"We're going to have a couple of customers ready to announce the next two quarters," Tan said on the call, adding that Intel is making "tremendous progress" on its coming 14A chips.
+The Trump administration took a 10% stake in Intel last year after the company had fallen behind on its 7- and 10-nanometer technologies. Nvidia and Softbank also invested billions in Intel last year.
+Tan has taken a more cautious approach to foundry spending than his predecessor, Pat Gelsinger, who launched an ambitious revival of the foundry business.
+Last week, Intel said crews have installed the first structural truss at its huge Ohio fab that was originally expected to deliver chips in 2025.
+In September, reports surfaced that the world's leading maker of high-bandwidth memory, SK Hynix may team up with Intel in Ohio to lease some foundry space to make memory chips at the new site. Neither company would confirm any plans.
+"We continue to evaluate unique and highly differentiated opportunities to accelerate our Ohio build out, and I hope to share more on this in the near future" Tan said on the call.
+Intel completed a $23 billion equity offering in August. Tech giants have spent trillions of dollars in recent years to meet insatiable demand for AI and the infrastructure needed to support it.
+Tan said he's "disappointed that we were not able to meet strong customer demand in this quarter."
+WATCH: Can Intel's New Arizona Chip Fab Bring It Back From The Brink?`,
+    bodyJa: `Intel shares plummeted more than 20% in extended trading on Thursday after the chipmaker issued a weak fourth-quarter forecast, citing continued softness in the global PC market.
+Here's how the company did in the third quarter, compared with estimates from analysts polled by LSEG:
+- Earnings per share: 52 cents adjusted vs. 40 cents expected
+- Revenue: $16.51 billion vs. $16.5 billion expected
+Revenue climbed 21% from $13.7 billion a year earlier, the company said in a press release.
+However, revenue in Intel's client computing and physical AI group fell 5% from the same quarter a year ago to $8.1 billion, missing estimates, even as data center and AI revenue jumped 78% to $7.3 billion.
+Global PC shipments declined 4% in the second quarter from a year earlier due to soaring costs for memory and other components, according to Counterpoint Research.
+For the current quarter, Intel said it expects adjusted earnings per share of 25 cents on revenue between $15 billion and $16 billion. Analysts were expecting revenue of $17.1 billion and EPS of 43 cents, according to LSEG.
+"We see the PC slowdown continuing at least through the first half of next year," Intel finance chief David Zinsner, said in the release. "We will continue making disciplined investments in capacity and working capital to increase supply and support future growth."
+Intel's forecast reflects the effects of an explosion at a fab in Israel that killed two workers and seriously injured a third earlier this month. The incident will cost the company about $600 million in lost revenue over two quarters, Zinsner said on Thursday's earnings. CEO Lip-Bu Tan said the explosion, which he called an "unfortunate and tragic accident," caused an "extended shutdown" at the plant, impacting shipments of 10-nanometer chips.
+Intel's stock has been on an upward tear, up about 150% so far this year prior to the earnings report, although it's down roughly 23% in October over growing concern over the size of the artificial intelligence buildout.
+"We will remain disciplined as we invest, and we will not spend $1 of capital unless we have confidence in the health of our products and process technologies, and clear evidence of customer demand," Zinsner said on the call.
+Nvidia, which has become the world's most valuable company thanks to its dominance in graphics processing units, or GPUs, is scheduled to report results in mid-November. Advanced Micro Devices, a maker of GPUs and central processing units, or CPUs, reports next week.
+Known best for its industry-leading CPUs, Intel has been a beneficiary of the rise in agentic AI. While chatbots and large models rely heavily on graphics processors from Nvidia and AMD, agentic applications such as Meta's Muse and OpenAI's Dots lean on CPUs to help orchestrate tasks and data from a computer operating in the cloud.
+"Despite near term headwinds affecting the broader PC industry, we continue to see robust demand for CPUs and more broadly, for all our computing platforms in the long term," Tan said in the press release.
+Intel's foundry business, meanwhile, has struggled to find its footing.
+Intel is the only U.S.-based manufacturer of advanced logic chips, and is now in high-volume production of its most advanced 18A chip out of its new fab in Arizona, providing an alternative to Taiwan Semiconductor Manufacturing Co. Its next fab in Arizona is expected to begin operations by the end of 2028.
+For now, Intel has no major external customers for its new chips.
+"We're going to have a couple of customers ready to announce the next two quarters," Tan said on the call, adding that Intel is making "tremendous progress" on its coming 14A chips.
+The Trump administration took a 10% stake in Intel last year after the company had fallen behind on its 7- and 10-nanometer technologies. Nvidia and Softbank also invested billions in Intel last year.
+Tan has taken a more cautious approach to foundry spending than his predecessor, Pat Gelsinger, who launched an ambitious revival of the foundry business.
+Last week, Intel said crews have installed the first structural truss at its huge Ohio fab that was originally expected to deliver chips in 2025.
+In September, reports surfaced that the world's leading maker of high-bandwidth memory, SK Hynix may team up with Intel in Ohio to lease some foundry space to make memory chips at the new site. Neither company would confirm any plans.
+"We continue to evaluate unique and highly differentiated opportunities to accelerate our Ohio build out, and I hope to share more on this in the near future" Tan said on the call.
+Intel completed a $23 billion equity offering in August. Tech giants have spent trillions of dollars in recent years to meet insatiable demand for AI and the infrastructure needed to support it.
+Tan said he's "disappointed that we were not able to meet strong customer demand in this quarter."
+WATCH: Can Intel's New Arizona Chip Fab Bring It Back From The Brink?`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+    publishedAt: "2026-10-29T22:37:54+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "amazon-posts-negative-free-cash-flow-of-df49b3ac",
+    title: "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
+    titleJa: "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
+    summaryJa: "Amazon's negative free cash flow ballooned during the third quarter, while its earnings and revenue fell short of Wall Street's expectations.",
+    bodyOriginal: `Amazon shares plunged more than 6% in extended trading Thursday after the company reported disappointing third-quarter results and ballooning negative free cash flow, reflecting its swelling AI investments.
+Here's how the company did, compared with estimates from analysts polled by LSEG:
+- Earnings per share: $1.89 vs. $1.96 estimated
+- Revenue: $201.94 billion vs. $202.31 billion estimated
+Wall Street was also looking at other key revenue numbers:
+- Amazon Web Services: $45.98 billion vs. $45.29 billion, according to StreetAccount
+- Advertising: $19.64 billion vs. $20.82 billion, according to StreetAccount
+The company held steady on its capital expenditure forecast for 2026, saying it continues to expect spending will reach $220 billion this year.
+Tech's hyperscalers have been on a blistering spending run to meet the surge in demand for artificial intelligence infrastructure, but signs have begun to emerge that the capex splurge is moderating. Earlier this week, Microsoft lowered its capex forecast for the year to $170 billion from $175 billion, while Alphabet maintained its guidance at $195 billion to $205 billion.
+CEO Andy Jassy said on a conference call with investors that the company expects to "spend meaningfully more in 2027," and that Amazon has a "clear line of sight to attractive financial returns."
+The aggressive AI spending has eaten into Amazon's cash flow. The company posted negative free cash flow for the second consecutive quarter, recording an outflow of $42.4 billion for the trailing twelve month period, a swing of 386% year over year. In the prior quarter, the company reported negative free cash flow of $7.6 billion.
+The company said the shortfall was primarily due to an increase in purchases of property and equipment as a result of AI investments.
+Capital expenditures reached $77.3 billion during the quarter, ticking up from $35.1 billion one year earlier, and coming in well above analysts' estimated $58.7 billion, according to FactSet.
+Amazon said it expects fourth-quarter revenue to be in the range of $240 billion and $247 billion. The midpoint of its guidance was below Wall Street's expectations of $244.5 billion, according to LSEG. The fourth quarter is typically one of Amazon's biggest by revenue, due to the peak holiday shopping season.
+Sales in Amazon's cloud segment soared 39% year over year to $45.98 billion. That topped the consensus forecast for $45.29 billion and growth of 38%, according to StreetAccount.
+Jassy highlighted AWS acceleration in the earnings release, saying the company expects revenue growth rates of "over 40%" next year and in 2028. He added, "Our AWS investment in functionality and infrastructure is working."
+Jassy told investors on the call that he expects AWS will be a $1 trillion revenue business in the next five to 10 years.
+Amazon is facing pressure from Wall Street to show that its AI investments are lifting its revenues. The company pointed to growing traction for Bedrock, its AI model marketplace, along with its Trainium and Graviton AI chips.
+Jassy said Amazon's chips business "continues to grow triple-digit percentages year over year." He added that the company plans to make its Trainium chips available externally "late in 2027," assigning a timeframe to comments Jassy made earlier this year suggesting such a move.
+Third-quarter net income came in at $20.69 billion, or $1.89 per share, vs. $21.19 billion, or $1.95 per share, a year ago. The company said the decrease was driven primarily by a $9.5 billion pre-tax gain from its investment in the AI startup Anthropic, which was recorded in the 2025 third quarter.
+While the AWS segment continues to hum along, results weren't as bright in Amazon's retail business, which remains its largest unit by revenue, or its advertising segment.
+Online sales gained 2% year over year to $68.47 billion, which fell short of analysts' projected $69.68 billion, according to StreetAccount. It marked a slowdown from one year ago, when sales increased nearly 10%.
+Advertising revenue rose 11% year over year to $19.64 billion. That missed StreetAccount consensus estimates of $20.82 billion.
+Both units were impacted in part by Amazon's decision to pull its annual Prime Day sale forward in several countries from its typical third quarter timeframe into the second quarter so as to not conflict with the FIFA World Cup in July.`,
+    bodyJa: `Amazon shares plunged more than 6% in extended trading Thursday after the company reported disappointing third-quarter results and ballooning negative free cash flow, reflecting its swelling AI investments.
+Here's how the company did, compared with estimates from analysts polled by LSEG:
+- Earnings per share: $1.89 vs. $1.96 estimated
+- Revenue: $201.94 billion vs. $202.31 billion estimated
+Wall Street was also looking at other key revenue numbers:
+- Amazon Web Services: $45.98 billion vs. $45.29 billion, according to StreetAccount
+- Advertising: $19.64 billion vs. $20.82 billion, according to StreetAccount
+The company held steady on its capital expenditure forecast for 2026, saying it continues to expect spending will reach $220 billion this year.
+Tech's hyperscalers have been on a blistering spending run to meet the surge in demand for artificial intelligence infrastructure, but signs have begun to emerge that the capex splurge is moderating. Earlier this week, Microsoft lowered its capex forecast for the year to $170 billion from $175 billion, while Alphabet maintained its guidance at $195 billion to $205 billion.
+CEO Andy Jassy said on a conference call with investors that the company expects to "spend meaningfully more in 2027," and that Amazon has a "clear line of sight to attractive financial returns."
+The aggressive AI spending has eaten into Amazon's cash flow. The company posted negative free cash flow for the second consecutive quarter, recording an outflow of $42.4 billion for the trailing twelve month period, a swing of 386% year over year. In the prior quarter, the company reported negative free cash flow of $7.6 billion.
+The company said the shortfall was primarily due to an increase in purchases of property and equipment as a result of AI investments.
+Capital expenditures reached $77.3 billion during the quarter, ticking up from $35.1 billion one year earlier, and coming in well above analysts' estimated $58.7 billion, according to FactSet.
+Amazon said it expects fourth-quarter revenue to be in the range of $240 billion and $247 billion. The midpoint of its guidance was below Wall Street's expectations of $244.5 billion, according to LSEG. The fourth quarter is typically one of Amazon's biggest by revenue, due to the peak holiday shopping season.
+Sales in Amazon's cloud segment soared 39% year over year to $45.98 billion. That topped the consensus forecast for $45.29 billion and growth of 38%, according to StreetAccount.
+Jassy highlighted AWS acceleration in the earnings release, saying the company expects revenue growth rates of "over 40%" next year and in 2028. He added, "Our AWS investment in functionality and infrastructure is working."
+Jassy told investors on the call that he expects AWS will be a $1 trillion revenue business in the next five to 10 years.
+Amazon is facing pressure from Wall Street to show that its AI investments are lifting its revenues. The company pointed to growing traction for Bedrock, its AI model marketplace, along with its Trainium and Graviton AI chips.
+Jassy said Amazon's chips business "continues to grow triple-digit percentages year over year." He added that the company plans to make its Trainium chips available externally "late in 2027," assigning a timeframe to comments Jassy made earlier this year suggesting such a move.
+Third-quarter net income came in at $20.69 billion, or $1.89 per share, vs. $21.19 billion, or $1.95 per share, a year ago. The company said the decrease was driven primarily by a $9.5 billion pre-tax gain from its investment in the AI startup Anthropic, which was recorded in the 2025 third quarter.
+While the AWS segment continues to hum along, results weren't as bright in Amazon's retail business, which remains its largest unit by revenue, or its advertising segment.
+Online sales gained 2% year over year to $68.47 billion, which fell short of analysts' projected $69.68 billion, according to StreetAccount. It marked a slowdown from one year ago, when sales increased nearly 10%.
+Advertising revenue rose 11% year over year to $19.64 billion. That missed StreetAccount consensus estimates of $20.82 billion.
+Both units were impacted in part by Amazon's decision to pull its annual Prime Day sale forward in several countries from its typical third quarter timeframe into the second quarter so as to not conflict with the FIFA World Cup in July.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+    publishedAt: "2026-10-29T22:24:49+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "google-value-plunges-by-500bn-as-ai-fear-370caab0",
+    title: "Google value plunges by $500bn as AI fears rattle Wall Street",
+    titleJa: "Google value plunges by $500bn as AI fears rattle Wall Street",
+    summaryJa: "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
+    bodyOriginal: `Google value plunges by $500bn as AI fears rattle Wall Street
+- Published
+Google parent Alphabet lost just over $500bn (£374bn) in value on Thursday after it rattled Wall Street with its last update of the year on its business operations.
+Google spooked investors so badly that its stock hit a six-month low, after it revealed its artificial intelligence (AI) summaries on search were affecting ad revenue.
+Microsoft and Amazon also updated investors this week, and joined Google in plans to keep spending astronomical sums of cash in an ongoing AI race.
+But investors appeared dismayed at the impacts these plans are having on the ability of each to keep growing their core lines of business.
+Google AI is eating its core business - search
+At first glance, the quarterly results of Alphabet, the parent company of Google, were not at all bad.
+Total revenue grew 25% compared to last year, hitting $127.6bn. It was buoyed by the ongoing success of Google Cloud, where revenue grew by 103% to almost $31bn.
+However, profits at the company fell by a considerable 25% during the quarter. And for the second time in its history as a public company, it showed negative free cash flow, this time in excess of $9bn. That's almost twice the loss of cash Alphabet showed just three months ago.
+Cash flow represents the money a company retains after paying for operations and investments, meaning Alphabet is now spending more money than it is bringing in. That new level of spending is almost entirely dedicated to Google's AI investments.
+By the end of Thursday, the company's total stock market value had fallen to $3.46 trillion from $3.97 trillion the day before.
+Google's omnipresent search engine now defaults to AI summaries of a person's query, and that hit the number of advertisements it was able to sell during the quarter.
+The sale of ads that appear alongside Google Search results is the vast majority of Alphabet's business.
+Tracy Woo, a principal analyst at Forrester, said Alphabet's disappointing search business results "highlights the challenge of funding massive AI investments while maintaining the strength of established businesses."
+Although Phillip Schindler, Google's chief business officer, said on Wednesday that he felt "very good about our trajectory" with an AI-focused version of the search engine, the company's stock fell by almost 13% on Thursday, its second lowest showing this year.
+Investors not buying Amazon's trillion-dollar business hopes
+Amazon's stock also took a hit on Thursday after it shared results that disappointed investors. Shares of the company fell 6% in after hours stock trading.
+Alongside quarterly sales growth of 11%, hitting $201bn, the company shared a staggering cash flow figure of negative $42bn.
+That number shows that Amazon is not only spending more money than it makes, but that spending has increased six-fold over the span of three months.
+Chief executive Andy Jassy claimed the business was spending in part because it had the chance at, not one, but two businesses that could end up bringing in $1 trillion for Amazon the future.
+Jassy did not specify what two Amazon businesses those may be. But during a call with financial analysts he repeatedly mentioned the financial opportunity presented by Amazon making and selling its own computer chips, as well as its AI developer platform Bedrock, which offers paying users access to most major AI models and tools.
+"One of the lessons we've learned over 20-plus years is that there is not one tool to rule the world," Jassy said. "People always assume whatever is in the lead early on will be the only thing that people use - it's never true."
+As Jassy was asked several times to explain the company's spending, he admitted it "would be more convenient" if it were spread over the next 25 years. "That's not the world we live in," he added.
+"We can fund this plan, and I think it will forever change the size, the revenue, the free cash flow of Amazon."
+Microsoft begs the question of AI's real value
+Wall Street reacted less enthusiastically to Microsoft's update, with shares falling by less than 1% on Thursday.
+The company, which is also one of OpenAI's largest investors, spent around $5bn less on investments dedicated to AI. It also revealed earlier this week plans to cut thousands of workers, which will further reduce the company's costs.
+Meanwhile, its revenue grew 19% from a year earlier, hitting $92.3bn for the quarter. Its crucial cloud business grew by 30% to $63bn.
+Chief executive Satya Nadella said the use of Copilot, Microsoft's AI chatbot and tool, has seen "automated tasks nearly double since July" as daily users grew by 500% from a year ago.
+Usually lower spending and growing sales earns a positive reaction from investors.
+But Woo said Wall Street is trying to look farther into the future when it comes to which businesses will truly make good on their big promises around AI.
+"Microsoft's results reinforce that enterprise demand for AI remains strong, but they also highlight a much bigger question facing the technology industry, where AI value will ultimately be captured," Woo said.`,
+    bodyJa: `Google value plunges by $500bn as AI fears rattle Wall Street
+- Published
+Google parent Alphabet lost just over $500bn (£374bn) in value on Thursday after it rattled Wall Street with its last update of the year on its business operations.
+Google spooked investors so badly that its stock hit a six-month low, after it revealed its artificial intelligence (AI) summaries on search were affecting ad revenue.
+Microsoft and Amazon also updated investors this week, and joined Google in plans to keep spending astronomical sums of cash in an ongoing AI race.
+But investors appeared dismayed at the impacts these plans are having on the ability of each to keep growing their core lines of business.
+Google AI is eating its core business - search
+At first glance, the quarterly results of Alphabet, the parent company of Google, were not at all bad.
+Total revenue grew 25% compared to last year, hitting $127.6bn. It was buoyed by the ongoing success of Google Cloud, where revenue grew by 103% to almost $31bn.
+However, profits at the company fell by a considerable 25% during the quarter. And for the second time in its history as a public company, it showed negative free cash flow, this time in excess of $9bn. That's almost twice the loss of cash Alphabet showed just three months ago.
+Cash flow represents the money a company retains after paying for operations and investments, meaning Alphabet is now spending more money than it is bringing in. That new level of spending is almost entirely dedicated to Google's AI investments.
+By the end of Thursday, the company's total stock market value had fallen to $3.46 trillion from $3.97 trillion the day before.
+Google's omnipresent search engine now defaults to AI summaries of a person's query, and that hit the number of advertisements it was able to sell during the quarter.
+The sale of ads that appear alongside Google Search results is the vast majority of Alphabet's business.
+Tracy Woo, a principal analyst at Forrester, said Alphabet's disappointing search business results "highlights the challenge of funding massive AI investments while maintaining the strength of established businesses."
+Although Phillip Schindler, Google's chief business officer, said on Wednesday that he felt "very good about our trajectory" with an AI-focused version of the search engine, the company's stock fell by almost 13% on Thursday, its second lowest showing this year.
+Investors not buying Amazon's trillion-dollar business hopes
+Amazon's stock also took a hit on Thursday after it shared results that disappointed investors. Shares of the company fell 6% in after hours stock trading.
+Alongside quarterly sales growth of 11%, hitting $201bn, the company shared a staggering cash flow figure of negative $42bn.
+That number shows that Amazon is not only spending more money than it makes, but that spending has increased six-fold over the span of three months.
+Chief executive Andy Jassy claimed the business was spending in part because it had the chance at, not one, but two businesses that could end up bringing in $1 trillion for Amazon the future.
+Jassy did not specify what two Amazon businesses those may be. But during a call with financial analysts he repeatedly mentioned the financial opportunity presented by Amazon making and selling its own computer chips, as well as its AI developer platform Bedrock, which offers paying users access to most major AI models and tools.
+"One of the lessons we've learned over 20-plus years is that there is not one tool to rule the world," Jassy said. "People always assume whatever is in the lead early on will be the only thing that people use - it's never true."
+As Jassy was asked several times to explain the company's spending, he admitted it "would be more convenient" if it were spread over the next 25 years. "That's not the world we live in," he added.
+"We can fund this plan, and I think it will forever change the size, the revenue, the free cash flow of Amazon."
+Microsoft begs the question of AI's real value
+Wall Street reacted less enthusiastically to Microsoft's update, with shares falling by less than 1% on Thursday.
+The company, which is also one of OpenAI's largest investors, spent around $5bn less on investments dedicated to AI. It also revealed earlier this week plans to cut thousands of workers, which will further reduce the company's costs.
+Meanwhile, its revenue grew 19% from a year earlier, hitting $92.3bn for the quarter. Its crucial cloud business grew by 30% to $63bn.
+Chief executive Satya Nadella said the use of Copilot, Microsoft's AI chatbot and tool, has seen "automated tasks nearly double since July" as daily users grew by 500% from a year ago.
+Usually lower spending and growing sales earns a positive reaction from investors.
+But Woo said Wall Street is trying to look farther into the future when it comes to which businesses will truly make good on their big promises around AI.
+"Microsoft's results reinforce that enterprise demand for AI remains strong, but they also highlight a much bigger question facing the technology industry, where AI value will ultimately be captured," Woo said.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-29T22:17:52+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
+    readTime: 10,
+  },
+  {
+    id: "servicenow-shares-plunge-27-to-worst-day-033a4973",
+    title: "ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears",
+    titleJa: "ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears",
+    summaryJa: "ServiceNow's stock recorded its worst day ever on underwhelming third-quarter results.",
+    bodyOriginal: `ServiceNow shares sank 27% on Thursday and recorded their worst day on record after the enterprise software company's third-quarter results underwhelmed, reigniting artificial intelligence disruption concerns.
+"This was a little bit uncharacteristic for ServiceNow standards, just in terms of the lack of upside," Citi's Tyler Radke told CNBC on Thursday.
+Revenue grew more than 20% during the period to $4.11 billion, which was roughly in line with a $4.10 billion estimate from analysts polled by LSEG. Adjusted earnings came up short at $1.00 per share, compared to a forecast of $1.02.
+The results did little to overturn recent "SaaSpocalypse" fears, or concerns that new AI capabilities will upend traditional software business models.
+The stock drop came even after the company slightly lifted its full-year 2026 subscription revenue outlook to between $15.78 billion and $15.79 billion. Net new AI average contract value jumped 65%.
+One factor spooking investors is the lack of immediate payoff for the company's investments in its newly formed forward-deployed engineering team that embeds in enterprises to build AI solutions, Radke said.
+"It's just going to be a little bit longer of a waiting game, and so I think the market, you know, wanted to see something a little bit sooner," he said. "I think you got to wait until next year to really see that inflection."
+WATCH: ServiceNow shares plummet in extended trading on mixed Q3 results`,
+    bodyJa: `ServiceNow shares sank 27% on Thursday and recorded their worst day on record after the enterprise software company's third-quarter results underwhelmed, reigniting artificial intelligence disruption concerns.
+"This was a little bit uncharacteristic for ServiceNow standards, just in terms of the lack of upside," Citi's Tyler Radke told CNBC on Thursday.
+Revenue grew more than 20% during the period to $4.11 billion, which was roughly in line with a $4.10 billion estimate from analysts polled by LSEG. Adjusted earnings came up short at $1.00 per share, compared to a forecast of $1.02.
+The results did little to overturn recent "SaaSpocalypse" fears, or concerns that new AI capabilities will upend traditional software business models.
+The stock drop came even after the company slightly lifted its full-year 2026 subscription revenue outlook to between $15.78 billion and $15.79 billion. Net new AI average contract value jumped 65%.
+One factor spooking investors is the lack of immediate payoff for the company's investments in its newly formed forward-deployed engineering team that embeds in enterprises to build AI solutions, Radke said.
+"It's just going to be a little bit longer of a waiting game, and so I think the market, you know, wanted to see something a little bit sooner," he said. "I think you got to wait until next year to really see that inflection."
+WATCH: ServiceNow shares plummet in extended trading on mixed Q3 results`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html",
+    publishedAt: "2026-10-29T20:02:32+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "us-interest-rates-held-steady-and-econom-04f12f4f",
+    title: "US interest rates held steady and economy grows - what it means for you",
+    titleJa: "US interest rates held steady and economy grows - what it means for you",
+    summaryJa: "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans",
+    bodyOriginal: `US interest rates held steady and economy grows - what it means for you
+- Published
+The US Federal Reserve has held interest rates steady at 3.75% - 4%.
+The decision comes within a week of the midterm elections and after the central bank raised interest rates for the first time in three years at its September meeting.
+"The overwhelming consensus, the overwhelming judgement, is that what we've done in this monetary medicine is starting to work some," Fed Chair Kevin Warsh said, referring to September's interest rate rise.
+Figures published after the Fed's announcement showed the US economy growing at a stronger pace than expected, with inflation running above the Fed's target.
+What is the Federal Reserve rate?
+An interest rate tells people and businesses how much it costs to borrow money – such as with credit cards, mortgages, or business loans – but also what return they get for saving cash.
+The Fed influences interest rates in the US through its target range for the federal funds rate, which is the interest rate used by commercial banks for overnight borrowing.
+What's happening with US interest rates?
+In its decision to hold rates steady this month, the Fed said that while inflation remains high, it wanted to gather more information before making another decision to change rates.
+The Fed also noted that while there was uncertainty, the US economy remained resilient.
+Warsh acknowledged that inflation remained too high, but noted that there were other signs - such as tightening credit conditions - that the economy was moving in the right direction.
+There is plenty more economic data to come between now and the committee's next meeting, the Fed chair added, which should paint a more detailed picture of the state of the economy.
+At that point, Warsh said, "we'll be, I think, better positioned to determine the right policy decision and the stance of policy."
+While last month the committee signalled there could be one more rate rise this year, Warsh would not be drawn out on where he thinks they will go in six weeks' time.
+"A lot of things can happen, so I'm not going to be able to share with you my musings."
+The decision to hold rates steady was not unanimous.
+While 10 of the 12 committee members voted to keep rates unchanged, Governor Lisa Cook and Cleveland Fed President Beth Hammack voted to increase rates to 4%-4.25%, from its current 3.75%-4%.
+The bank's next meeting will be held over 8-9 December.
+What is happening in the US economy?
+Warsh said things are moving in the right direction, while the US economy is performing very strongly.
+The US economy grew by 3.4% on an annualised basis in the three months to September, stronger than analysts had expected.
+That strong growth was driven by an acceleration in investment, and strong consumer spending.
+While there was an annualised increase in personal spending of 3.8%, the annualised increase in private investment was a huge 19.4% which analysts say was largely due to investment in artificial intelligence.
+Inflation is also above the Fed's target range.
+Prices increased by 3.7% in the year to September, driven higher by fuel and energy prices which have surged off the back of the war in Iran.
+How does the Fed rate affect mortgages, credit cards, and savings?
+The Fed uses interest rate changes to try to keep inflation – the rate at which prices change – at 2% a year and keep the job market stable.
+When inflation is too high, the Fed tends to raise interest rates.
+This tends to mean higher rates from banks and other lenders, which in turn affects spending and saving decisions.
+For example, someone refinancing their mortgage or buying a property for the first time could face higher mortgage rates. It could also mean higher interest rates on credit cards or car loans. However, it means higher interest rates on savings as well.
+This encourages people and businesses to save more, spend less money, and make less investments. It also encourages companies to hire less people or slow the pace of pay rises.
+All of this tends to reduce demand and slow inflation.
+When inflation is low or if the Fed believes the economy needs a boost, it cut rates.
+The idea is that this will have the opposite affect, with banks dropping rates leading to more spending and less saving from people and businesses.
+Leaving the rates unchanged means rates on things like new mortgages or business loans are also less likely to change. It also means interest rates on cash savings are unlikely to rise.
+How much have US interest rates changed?
+US interest rates have historically moved around quite a bit.
+The last time Fed rates were as high as they have been recently was in the lead up to and during the start of the 2008 global financial crisis.
+The Fed then dropped rates to historic lows to encourage spending and job creation during the economic slump and kept them at those lows for several years.
+They picked up again ahead of the pandemic before dropping to as low as 0%-0.25% during the pandemic. They then rose to highs of 5.25%-5% from the middle of 2023 to August 2024 as inflation jumped.
+They had been falling steadily since then, until rates were raised last month.
+Related topics
+- Published14 October
+- Published2 days ago`,
+    bodyJa: `US interest rates held steady and economy grows - what it means for you
+- Published
+The US Federal Reserve has held interest rates steady at 3.75% - 4%.
+The decision comes within a week of the midterm elections and after the central bank raised interest rates for the first time in three years at its September meeting.
+"The overwhelming consensus, the overwhelming judgement, is that what we've done in this monetary medicine is starting to work some," Fed Chair Kevin Warsh said, referring to September's interest rate rise.
+Figures published after the Fed's announcement showed the US economy growing at a stronger pace than expected, with inflation running above the Fed's target.
+What is the Federal Reserve rate?
+An interest rate tells people and businesses how much it costs to borrow money – such as with credit cards, mortgages, or business loans – but also what return they get for saving cash.
+The Fed influences interest rates in the US through its target range for the federal funds rate, which is the interest rate used by commercial banks for overnight borrowing.
+What's happening with US interest rates?
+In its decision to hold rates steady this month, the Fed said that while inflation remains high, it wanted to gather more information before making another decision to change rates.
+The Fed also noted that while there was uncertainty, the US economy remained resilient.
+Warsh acknowledged that inflation remained too high, but noted that there were other signs - such as tightening credit conditions - that the economy was moving in the right direction.
+There is plenty more economic data to come between now and the committee's next meeting, the Fed chair added, which should paint a more detailed picture of the state of the economy.
+At that point, Warsh said, "we'll be, I think, better positioned to determine the right policy decision and the stance of policy."
+While last month the committee signalled there could be one more rate rise this year, Warsh would not be drawn out on where he thinks they will go in six weeks' time.
+"A lot of things can happen, so I'm not going to be able to share with you my musings."
+The decision to hold rates steady was not unanimous.
+While 10 of the 12 committee members voted to keep rates unchanged, Governor Lisa Cook and Cleveland Fed President Beth Hammack voted to increase rates to 4%-4.25%, from its current 3.75%-4%.
+The bank's next meeting will be held over 8-9 December.
+What is happening in the US economy?
+Warsh said things are moving in the right direction, while the US economy is performing very strongly.
+The US economy grew by 3.4% on an annualised basis in the three months to September, stronger than analysts had expected.
+That strong growth was driven by an acceleration in investment, and strong consumer spending.
+While there was an annualised increase in personal spending of 3.8%, the annualised increase in private investment was a huge 19.4% which analysts say was largely due to investment in artificial intelligence.
+Inflation is also above the Fed's target range.
+Prices increased by 3.7% in the year to September, driven higher by fuel and energy prices which have surged off the back of the war in Iran.
+How does the Fed rate affect mortgages, credit cards, and savings?
+The Fed uses interest rate changes to try to keep inflation – the rate at which prices change – at 2% a year and keep the job market stable.
+When inflation is too high, the Fed tends to raise interest rates.
+This tends to mean higher rates from banks and other lenders, which in turn affects spending and saving decisions.
+For example, someone refinancing their mortgage or buying a property for the first time could face higher mortgage rates. It could also mean higher interest rates on credit cards or car loans. However, it means higher interest rates on savings as well.
+This encourages people and businesses to save more, spend less money, and make less investments. It also encourages companies to hire less people or slow the pace of pay rises.
+All of this tends to reduce demand and slow inflation.
+When inflation is low or if the Fed believes the economy needs a boost, it cut rates.
+The idea is that this will have the opposite affect, with banks dropping rates leading to more spending and less saving from people and businesses.
+Leaving the rates unchanged means rates on things like new mortgages or business loans are also less likely to change. It also means interest rates on cash savings are unlikely to rise.
+How much have US interest rates changed?
+US interest rates have historically moved around quite a bit.
+The last time Fed rates were as high as they have been recently was in the lead up to and during the start of the 2008 global financial crisis.
+The Fed then dropped rates to historic lows to encourage spending and job creation during the economic slump and kept them at those lows for several years.
+They picked up again ahead of the pandemic before dropping to as low as 0%-0.25% during the pandemic. They then rose to highs of 5.25%-5% from the middle of 2023 to August 2024 as inflation jumped.
+They had been falling steadily since then, until rates were raised last month.
+Related topics
+- Published14 October
+- Published2 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-29T17:15:05+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47d7/live/753fb120-d30d-11f1-ad4f-5d2bbacf0caf.jpg",
+    readTime: 10,
+  },
+  {
+    id: "faisal-islam-this-budget-was-micro-and-t-4ef56156",
+    title: "Faisal Islam: This Budget was micro and that was deliberate",
+    titleJa: "Faisal Islam: This Budget was micro and that was deliberate",
+    summaryJa: "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
+    bodyOriginal: `Faisal Islam: This Budget was micro and that was deliberate
+- Published
+It was not a mini Budget, but it was rather small. It might be called the "micro Budget".
+Small does not necessarily mean bad, but it clearly falls short of radical action to create a promised new economic model.
+A new "theory of growth" was not unveiled as promised by the prime minister Andy Burnham.
+It was preamble, roadmap, consultation, perhaps the starter to the main course, which appears to be the PM's 10-year plan next month.
+It went unsaid, but the clear stategic aim of Healey's statement was to be the "anti-mini Budget".
+This "steady as she goes" predictable fiscal event set out to avoid the aftermath seen following Liz Truss's mini-budget, in which unexpected and unfunded tax cuts spooked the bond and currency markets.
+The markets didn't even flicker on Healey's announcement of £65bn of extra borrowing over the next five years - government interest costs have actually fallen since Wednesday, against the backdrop of market turmoil due to the US-Iran war.
+The core of the Budget was to get Downing Street through the impacts of the Middle East conflict shock on energy and borrowing costs.
+If these pressures prove enduring there are some unpalatable decisions that will have to be grasped within the next year. The can will have to be picked up rather than kicked down the road again.
+It buys more time, more "breathing space", as it were, for the government and the prime minister's long-term strategic plans.
+The detail may come more quickly than feared. On welfare, the Milburn Review process is clearly heading for some sort of welfare-to-work scheme, even a separate system for younger workers.
+It will cost money up front to subsidise work opportunities and hope to save more from welfare bills in the future. The chancellor saw at close quarters Gordon Brown do this twice two decades ago.
+The Office for Budget Responsbility's (OBR) economic forecast showed the sheer rise in the welfare bill, which is set to jump to £431bn in 2031, if pensioner support is included.
+There are two further areas where the chancellor laid down markers, with little fiscal cost, in terms of the long term plan.
+On energy, there is some significance to the "cheaper power" mission announced, reshaping what had previously been a focus on clean power.
+While still committed to Net Zero, a series of technical changes to powers over levies and renewable auctions, will seek to turn the tide on additional pressures on energy costs.
+On devolution, the plan to allow local mayors to keep some extra business rate and income tax revenues, are more radical than expected.
+There are trade offs here, but it essentially provides incentives for regional leaders to grow their economies, workforce and tax base, that are normal elsewhere, but have not existed in the UK's very centralised tax system.
+How the PM will square other aspects of his "theory of growth" with the chancellor's spending constraints is the other significant challenge.
+Can he announce a 10-year plan without detailing the Liverpool to Manchester high speed train line, or a rebirth of some cancelled HS2 lines he championed a year ago?
+Away from the long term, the OBR forecast point to a very tricky economic backdrop until the spring, and a trickier spending review, given the need to accommodate the new defence target of 3% of national income by 2030.
+The PM's insistence he will not call an election for a year are eminently believable given the risk of 5% inflation and declining household income.
+A "focused" Budget at an uncertain time achieved its narrow aim of a bit of "breathing space" for households and also for the government itself.
+But the evident gaps in the Budget will need filling in come the PM's upcoming 10-year plan.`,
+    bodyJa: `Faisal Islam: This Budget was micro and that was deliberate
+- Published
+It was not a mini Budget, but it was rather small. It might be called the "micro Budget".
+Small does not necessarily mean bad, but it clearly falls short of radical action to create a promised new economic model.
+A new "theory of growth" was not unveiled as promised by the prime minister Andy Burnham.
+It was preamble, roadmap, consultation, perhaps the starter to the main course, which appears to be the PM's 10-year plan next month.
+It went unsaid, but the clear stategic aim of Healey's statement was to be the "anti-mini Budget".
+This "steady as she goes" predictable fiscal event set out to avoid the aftermath seen following Liz Truss's mini-budget, in which unexpected and unfunded tax cuts spooked the bond and currency markets.
+The markets didn't even flicker on Healey's announcement of £65bn of extra borrowing over the next five years - government interest costs have actually fallen since Wednesday, against the backdrop of market turmoil due to the US-Iran war.
+The core of the Budget was to get Downing Street through the impacts of the Middle East conflict shock on energy and borrowing costs.
+If these pressures prove enduring there are some unpalatable decisions that will have to be grasped within the next year. The can will have to be picked up rather than kicked down the road again.
+It buys more time, more "breathing space", as it were, for the government and the prime minister's long-term strategic plans.
+The detail may come more quickly than feared. On welfare, the Milburn Review process is clearly heading for some sort of welfare-to-work scheme, even a separate system for younger workers.
+It will cost money up front to subsidise work opportunities and hope to save more from welfare bills in the future. The chancellor saw at close quarters Gordon Brown do this twice two decades ago.
+The Office for Budget Responsbility's (OBR) economic forecast showed the sheer rise in the welfare bill, which is set to jump to £431bn in 2031, if pensioner support is included.
+There are two further areas where the chancellor laid down markers, with little fiscal cost, in terms of the long term plan.
+On energy, there is some significance to the "cheaper power" mission announced, reshaping what had previously been a focus on clean power.
+While still committed to Net Zero, a series of technical changes to powers over levies and renewable auctions, will seek to turn the tide on additional pressures on energy costs.
+On devolution, the plan to allow local mayors to keep some extra business rate and income tax revenues, are more radical than expected.
+There are trade offs here, but it essentially provides incentives for regional leaders to grow their economies, workforce and tax base, that are normal elsewhere, but have not existed in the UK's very centralised tax system.
+How the PM will square other aspects of his "theory of growth" with the chancellor's spending constraints is the other significant challenge.
+Can he announce a 10-year plan without detailing the Liverpool to Manchester high speed train line, or a rebirth of some cancelled HS2 lines he championed a year ago?
+Away from the long term, the OBR forecast point to a very tricky economic backdrop until the spring, and a trickier spending review, given the need to accommodate the new defence target of 3% of national income by 2030.
+The PM's insistence he will not call an election for a year are eminently believable given the risk of 5% inflation and declining household income.
+A "focused" Budget at an uncertain time achieved its narrow aim of a bit of "breathing space" for households and also for the government itself.
+But the evident gaps in the Budget will need filling in come the PM's upcoming 10-year plan.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-29T15:48:44+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ec0/live/8d883540-d3a3-11f1-a5cd-49637fcbd4e4.jpg",
+    readTime: 9,
+  },
+  {
+    id: "painful-years-ahead-think-tanks-warn-as-7646b406",
+    title: "'Painful' years ahead, think tanks warn, as living standards set to fall",
+    titleJa: "'Painful' years ahead, think tanks warn, as living standards set to fall",
+    summaryJa: "'Painful' years ahead, think tanks warn, as living standards set to fall- Published",
+    bodyOriginal: `'Painful' years ahead, think tanks warn, as living standards set to fall
+- Published
+People are facing a "painful" and "depressing" few years ahead, economic think tanks have warned, after forecasts showed growth in living standards grinding almost to a halt.
+Typical working-age households would see their disposable income fall by £1,050, or 3%, between now and 2029, according to the Resolution Foundation, while the Institute for Fiscal Studies (IFS) said the current decade would be the worst for household income growth on record.
+Chancellor John Healey said his Budget offered "breathing space", but said the government could "never remove completely" cost of living pressures.
+The UK's official forecaster said its latest economic forecast painted a "pretty grim picture".
+The Office for Budget Responsibility (OBR), blamed the difficult financial situation facing the UK on higher borrowing costs and inflation caused by the US-Iran war.
+In response to rising energy prices, Healey has announced measures, including a £100 support payment, aimed at easing pressure on household finances.
+But that would not be enough to offset the impact of higher energy bills, the Resolution Foundation said.
+"This parliament is increasingly looking like one of two halves," said the think tank's chief executive, Ruth Curtice.
+"The first half has been marked by rising living standards, solid economic growth and extra funding for public services," she said.
+However, the second half of the parliament would be "tough going", she said.
+Treasury will not commit to reducing welfare bill before next election
+- Published11 hours ago
+What we now know about the UK economy in four charts
+- Published1 day ago
+Your pay, energy bills and savings: How the Budget affects you
+- Published7 hours ago
+In response to this "painful" situation the government had provided a "scattergun" Budget that did not do enough to address the challenges facing the country, Curtice said.
+Over the course of this parliament, incomes for non-pensioner households, after taxes, benefits, and housing costs are taken into account, will have risen by "a paltry" £600, the Resolution Foundation said, with the gains "already behind us".
+Even after the extra support provided by the government, households will be left paying higher energy bills than during the last energy crisis in 2022, according to its analysis.
+The Resolution Foundation said the support should have been more targeted at the poorest households.
+Lost decade
+Alongside the Budget the OBR issued its economic forecast indicating a slowdown in GDP growth from 1.2% in 2026 to 1% in 2027.
+The forecast for next year is sharply lower than what was predicted at their last assessment in March.
+The OBR also put its forecast for inflation for 2027 up from 2% to 3.4%.
+Frozen tax thresholds are also eating into people's take-home pay.
+However, the OBR also emphasised the difficulties in economic forecasting, highlighting uncertainty over the future path of inflation, in particular, which could turn out to be either significantly higher or lower than their predictions.
+While the Resolution Foundation focused its forecast for living standards on working age households, the OBR looks at all households, including pensioners and reflects a 10-year rolling average growth to take into account short-term fluctuations.
+The OBR found that by the end of the decade living standards for all households would have barely grown, by less than 0.1% per year.
+Helen Miller, director of the influential think tank, the Institute for Fiscal Studies (IFS) said the outlook was "depressing".
+"This decade looks set to be the worst decade for growth in household incomes on record," she said.
+"No amount of temporary cost of living packages will fix that. We need a stronger economy."
+'Fragile' finances
+There would also be growing pressure on the government's spending plans over the parliament, Miller added.
+"Spending plans look extremely tight. They don't look to me like plans that this government would want to deliver," she said.
+"Whether or not they are delivered matters because the spending plans underpin the plan to bring down borrowing," she added.
+Miller said she was left with the impression that Healey was hoping the economy would improve to take the pressure off those spending decisions.
+Healey, speaking on the BBC's Today Programme, said "economic storms", including the Iran war and Russia's invasion of Ukraine, were affecting countries around the world and the government was seeking to help where it could.
+He said energy bill help would create "breathing space" for most households.
+Around 20 million households are set to receive the £100 payment based on which council tax band they are in.
+But Conservative shadow chancellor Andrew Griffith said the Budget had left the public finances "more fragile" as Healey had reduced the "headroom" or the buffer that the country has between what it takes in revenues and what it spends.
+Liberal Democrat leader Ed Davey said the £100 energy payment would be identified as the best item in the Budget for many people, but said that it was "not good enough" when you considered the "stealth tax rises" that were taking money out of people's pay packets.
+Get in touch
+Are you affected by issues covered in this story? Share your experiences.`,
+    bodyJa: `'Painful' years ahead, think tanks warn, as living standards set to fall
+- Published
+People are facing a "painful" and "depressing" few years ahead, economic think tanks have warned, after forecasts showed growth in living standards grinding almost to a halt.
+Typical working-age households would see their disposable income fall by £1,050, or 3%, between now and 2029, according to the Resolution Foundation, while the Institute for Fiscal Studies (IFS) said the current decade would be the worst for household income growth on record.
+Chancellor John Healey said his Budget offered "breathing space", but said the government could "never remove completely" cost of living pressures.
+The UK's official forecaster said its latest economic forecast painted a "pretty grim picture".
+The Office for Budget Responsibility (OBR), blamed the difficult financial situation facing the UK on higher borrowing costs and inflation caused by the US-Iran war.
+In response to rising energy prices, Healey has announced measures, including a £100 support payment, aimed at easing pressure on household finances.
+But that would not be enough to offset the impact of higher energy bills, the Resolution Foundation said.
+"This parliament is increasingly looking like one of two halves," said the think tank's chief executive, Ruth Curtice.
+"The first half has been marked by rising living standards, solid economic growth and extra funding for public services," she said.
+However, the second half of the parliament would be "tough going", she said.
+Treasury will not commit to reducing welfare bill before next election
+- Published11 hours ago
+What we now know about the UK economy in four charts
+- Published1 day ago
+Your pay, energy bills and savings: How the Budget affects you
+- Published7 hours ago
+In response to this "painful" situation the government had provided a "scattergun" Budget that did not do enough to address the challenges facing the country, Curtice said.
+Over the course of this parliament, incomes for non-pensioner households, after taxes, benefits, and housing costs are taken into account, will have risen by "a paltry" £600, the Resolution Foundation said, with the gains "already behind us".
+Even after the extra support provided by the government, households will be left paying higher energy bills than during the last energy crisis in 2022, according to its analysis.
+The Resolution Foundation said the support should have been more targeted at the poorest households.
+Lost decade
+Alongside the Budget the OBR issued its economic forecast indicating a slowdown in GDP growth from 1.2% in 2026 to 1% in 2027.
+The forecast for next year is sharply lower than what was predicted at their last assessment in March.
+The OBR also put its forecast for inflation for 2027 up from 2% to 3.4%.
+Frozen tax thresholds are also eating into people's take-home pay.
+However, the OBR also emphasised the difficulties in economic forecasting, highlighting uncertainty over the future path of inflation, in particular, which could turn out to be either significantly higher or lower than their predictions.
+While the Resolution Foundation focused its forecast for living standards on working age households, the OBR looks at all households, including pensioners and reflects a 10-year rolling average growth to take into account short-term fluctuations.
+The OBR found that by the end of the decade living standards for all households would have barely grown, by less than 0.1% per year.
+Helen Miller, director of the influential think tank, the Institute for Fiscal Studies (IFS) said the outlook was "depressing".
+"This decade looks set to be the worst decade for growth in household incomes on record," she said.
+"No amount of temporary cost of living packages will fix that. We need a stronger economy."
+'Fragile' finances
+There would also be growing pressure on the government's spending plans over the parliament, Miller added.
+"Spending plans look extremely tight. They don't look to me like plans that this government would want to deliver," she said.
+"Whether or not they are delivered matters because the spending plans underpin the plan to bring down borrowing," she added.
+Miller said she was left with the impression that Healey was hoping the economy would improve to take the pressure off those spending decisions.
+Healey, speaking on the BBC's Today Programme, said "economic storms", including the Iran war and Russia's invasion of Ukraine, were affecting countries around the world and the government was seeking to help where it could.
+He said energy bill help would create "breathing space" for most households.
+Around 20 million households are set to receive the £100 payment based on which council tax band they are in.
+But Conservative shadow chancellor Andrew Griffith said the Budget had left the public finances "more fragile" as Healey had reduced the "headroom" or the buffer that the country has between what it takes in revenues and what it spends.
+Liberal Democrat leader Ed Davey said the £100 energy payment would be identified as the best item in the Budget for many people, but said that it was "not good enough" when you considered the "stealth tax rises" that were taking money out of people's pay packets.
+Get in touch
+Are you affected by issues covered in this story? Share your experiences.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-29T13:19:24+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7565/live/8d520610-d3cf-11f1-b441-2b33b063138f.jpg",
+    readTime: 10,
+  },
+  {
     id: "fancy-cars-hold-no-appeal-we-have-a-99-8eb15447",
     title: "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
     titleJa: "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend, spend, spend?",
@@ -1906,432 +2438,6 @@ Sign up for our Politics Essential newsletter to keep up with the inner workings
     publishedAt: "2026-10-28T09:25:19+00:00",
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c529/live/61181430-d2a9-11f1-b441-2b33b063138f.jpg",
-    readTime: 10,
-  },
-  {
-    id: "meta-and-google-backed-jio-platforms-sha-eaf5095f",
-    title: "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
-    titleJa: "Meta- and Google-backed Jio Platforms’ shares soar over 21% on trading debut after record IPO",
-    summaryJa: "Jio had offered 270 million shares in the IPO priced at 1,119 rupees apiece, raising 302 billion rupees ($3.2 billion) in the country's largest-ever IPO.",
-    bodyOriginal: `Jio Platforms' shares rose 21.4% on their trading debut Wednesday after a record initial public offering that was lapped up by retail as well as institutional investors.
-India's largest telecom and digital services player had offered 270 million shares in the IPO priced at 1,119 rupees apiece, raising 302 billion rupees ($3.2 billion) in the country's largest-ever IPO.
-The public issue was subscribed more than 22 times, with institutional investors leading the demand, according to data from the BSE. The qualified institutional portion was subscribed 70.55 times, while retail investors subscribed 2.72 times.
-The IPO was fully subscribed within 95 minutes of its opening on Oct. 21, Akash Ambani, managing director of Jio Platforms and heir of the Indian billionaire Mukesh Ambani, said ahead of the listing.
-Global brokerage Nomura on Wednesday gave Jio Platforms a buy rating, setting a target price of 1,340 rupees, implying an upside of 19.7% to its IPO price. The brokerage said in a report that Jio's capex cycle is largely over and there is expected to be a sharp improvement in the company's free cash flow.
-Shares were last trading at 1,357 rupees.
-Indian billionaire Mukesh Ambani's flagship company, Reliance Industries, owns more than a 66% stake in Jio Platforms, followed by Meta Platforms' affiliate Jaadhu Holdings that owns nearly 10% and Google International, which owns 7.7%, as per LSEG data.
-Leading global funds such as BlackRock, Capital Group and GIC participated in Jio's anchor book portion of the total fundraise, which is set aside for large institutional investors before the IPO opens for public bidding. Including anchor investors, the share offering garnered demand of $78 billion.`,
-    bodyJa: `Jio Platforms' shares rose 21.4% on their trading debut Wednesday after a record initial public offering that was lapped up by retail as well as institutional investors.
-India's largest telecom and digital services player had offered 270 million shares in the IPO priced at 1,119 rupees apiece, raising 302 billion rupees ($3.2 billion) in the country's largest-ever IPO.
-The public issue was subscribed more than 22 times, with institutional investors leading the demand, according to data from the BSE. The qualified institutional portion was subscribed 70.55 times, while retail investors subscribed 2.72 times.
-The IPO was fully subscribed within 95 minutes of its opening on Oct. 21, Akash Ambani, managing director of Jio Platforms and heir of the Indian billionaire Mukesh Ambani, said ahead of the listing.
-Global brokerage Nomura on Wednesday gave Jio Platforms a buy rating, setting a target price of 1,340 rupees, implying an upside of 19.7% to its IPO price. The brokerage said in a report that Jio's capex cycle is largely over and there is expected to be a sharp improvement in the company's free cash flow.
-Shares were last trading at 1,357 rupees.
-Indian billionaire Mukesh Ambani's flagship company, Reliance Industries, owns more than a 66% stake in Jio Platforms, followed by Meta Platforms' affiliate Jaadhu Holdings that owns nearly 10% and Google International, which owns 7.7%, as per LSEG data.
-Leading global funds such as BlackRock, Capital Group and GIC participated in Jio's anchor book portion of the total fundraise, which is set aside for large institutional investors before the IPO opens for public bidding. Including anchor investors, the share offering garnered demand of $78 billion.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/28/jio-ipo-india-listing-.html",
-    publishedAt: "2026-10-28T05:16:41+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "luxury-cruise-passengers-stranded-in-cam-80819365",
-    title: "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-    titleJa: "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-    summaryJa: "The Villa Vie Odyssey suspends its voyage and is working with passengers on \"temporary living arrangements\".",
-    bodyOriginal: `Luxury cruise passengers stranded in Cambodia due to soaring fuel costs
-- Published
-A luxury cruise ship on a years-long voyage around the world said it suspended operations due to extraordinarily high fuel costs, leaving passengers stranded in Cambodia.
-The US-based operator of Villa Vie Odyssey said it was working with passengers on disembarkation plans and "temporary living arrangements".
-It is unclear how many were on board but the nearly 200m (656ft) vessel can carry up to 650 passengers. It departed Belfast in October 2024 for a "continuous voyage around the world".
-Global fuel prices have soared since the Iran war started earlier this year. The ship's operator said the monthly fuel cost per cabin in parts of Asia has risen to as much as $8,000 (£6,000) from $1,800.
-The company said it had taken "significant steps to reduce fuel consumption, including slowing the itinerary and spending more time in port". But those measures turned out to be insufficient to "offset the extraordinary increase in fuel costs".
-"Passing the full increase on to residents is not a realistic solution," it said.
-The company would spend the next 60 days on "restructuring and recapitalisation", though "no outcome is assured", it said.
-The Villa Vie Odyssey's voyage was expected to span 3.5 years and cover nearly 150 countries, according to its website.
-Its departure had faced delays as the ship underwent repairs, leaving passengers stranded in Belfast for months and costing the company millions of pounds.
-The ship was more than 750 days into its circumnavigation before announcing its suspension of its journey on Tuesday - which means its passengers would now be stranded in Cambodia.
-There were around 200 passengers on board when they were ordered to disembark in Cambodia, Bloomberg reported, citing the cruise operator's founder.
-The Villa Vie Odyssey is equipped with several bars and restaurants, a pool deck and a pickleball court, according to its website.
-Permanent residencies in its cabins range from $120,000 to $440,000. These cabins are also also available for rent from $3,500 a month.
-Last year, the company launched a lifetime residence programme for people to spend their retirement years at sea.
-In 2024, days after US President Donald Trump won his second term, Villa Vie Residences announced a four-year "Skip Forward" package. Its CEO told Fox Business at the time that it was the "perfect product for those who said they'd leave the country if 'XYZ' wins the election".
-Related topics
-- Published4 October 2025
-- Published18 May
-- Published1 October 2024`,
-    bodyJa: `Luxury cruise passengers stranded in Cambodia due to soaring fuel costs
-- Published
-A luxury cruise ship on a years-long voyage around the world said it suspended operations due to extraordinarily high fuel costs, leaving passengers stranded in Cambodia.
-The US-based operator of Villa Vie Odyssey said it was working with passengers on disembarkation plans and "temporary living arrangements".
-It is unclear how many were on board but the nearly 200m (656ft) vessel can carry up to 650 passengers. It departed Belfast in October 2024 for a "continuous voyage around the world".
-Global fuel prices have soared since the Iran war started earlier this year. The ship's operator said the monthly fuel cost per cabin in parts of Asia has risen to as much as $8,000 (£6,000) from $1,800.
-The company said it had taken "significant steps to reduce fuel consumption, including slowing the itinerary and spending more time in port". But those measures turned out to be insufficient to "offset the extraordinary increase in fuel costs".
-"Passing the full increase on to residents is not a realistic solution," it said.
-The company would spend the next 60 days on "restructuring and recapitalisation", though "no outcome is assured", it said.
-The Villa Vie Odyssey's voyage was expected to span 3.5 years and cover nearly 150 countries, according to its website.
-Its departure had faced delays as the ship underwent repairs, leaving passengers stranded in Belfast for months and costing the company millions of pounds.
-The ship was more than 750 days into its circumnavigation before announcing its suspension of its journey on Tuesday - which means its passengers would now be stranded in Cambodia.
-There were around 200 passengers on board when they were ordered to disembark in Cambodia, Bloomberg reported, citing the cruise operator's founder.
-The Villa Vie Odyssey is equipped with several bars and restaurants, a pool deck and a pickleball court, according to its website.
-Permanent residencies in its cabins range from $120,000 to $440,000. These cabins are also also available for rent from $3,500 a month.
-Last year, the company launched a lifetime residence programme for people to spend their retirement years at sea.
-In 2024, days after US President Donald Trump won his second term, Villa Vie Residences announced a four-year "Skip Forward" package. Its CEO told Fox Business at the time that it was the "perfect product for those who said they'd leave the country if 'XYZ' wins the election".
-Related topics
-- Published4 October 2025
-- Published18 May
-- Published1 October 2024`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-28T03:43:38+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg",
-    readTime: 6,
-  },
-  {
-    id: "trump-says-iran-war-will-end-when-i-want-94569040",
-    title: "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
-    titleJa: "Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion",
-    summaryJa: "Trump's statement comes as a report from The Hill revealed that the costs of the Iran conflict has ballooned to $47 billion.",
-    bodyOriginal: `U.S. President Donald Trump has reiterated his claim that the Iran war will end "whenever I want it to," but insists that Tehran cannot have a nuclear weapon.
-Speaking at a rally in Lubbock, Texas, Trump said "Somebody asked me before, 'When will the war in Iran end?' I said, 'Whenever I want it to end.'"
-Trump said it "would be very quick, but we have to have an end properly," with a "total statement" that Iran would never have a nuclear weapon.
-His statement comes as the President grapples with poll numbers that are near a record low due to rising energy costs and affordability issues as the U.S. heads into the midterm elections on Nov. 3.
-Currently, Trump's approval ratings stand at 32%, according to a Reuters/Ipsos poll on Monday.
-Mark Zandi, Moody's Analytics' Chief Economist said on Oct. 12 that the war was costing American families an average of $2,000 so far, where $1,100 comes from higher energy costs, $540 from higher interest rate costs, and $360 due to increased military spending.
-The Iran conflict shows no sign of winding down, with Trump saying that he will soon decide whether to "make a deal" with Iran or "finish it off."
-Earlier in the month, the U.S. had evacuated diplomats from Saudi Arabia, as the New York Times reported that U.S. and Israeli militaries have drawn up specific plans for a "short but intensive" operation for strikes on Iran after the midterm elections.
-An estimate by U.S. Central Command on Oct. 16, according to a report by The Hill, also revealed that the cost of the Iran war has ballooned to $47 billion, about $3 billion more than the previous numbers.
-The bulk of the costs was reportedly for munitions replacements at $29 million. Washington's conflict with Iran has caused "shortfalls" in U.S. munitions, despite Trump claiming on Sept. 3 that the U.S. had "virtually unlimited" amounts of ammunition.
-The massive price tag on the war does not include the costs of damaged military bases in the Middle East, which is estimated at $184 million as of June 29, according to a lead inspector general report to Congress.
-This figure counts damage to U.S. diplomatic facilities in four countries — Iraq, Kuwait, Saudi Arabia and the United Arab Emirates — from Iranian strikes.`,
-    bodyJa: `U.S. President Donald Trump has reiterated his claim that the Iran war will end "whenever I want it to," but insists that Tehran cannot have a nuclear weapon.
-Speaking at a rally in Lubbock, Texas, Trump said "Somebody asked me before, 'When will the war in Iran end?' I said, 'Whenever I want it to end.'"
-Trump said it "would be very quick, but we have to have an end properly," with a "total statement" that Iran would never have a nuclear weapon.
-His statement comes as the President grapples with poll numbers that are near a record low due to rising energy costs and affordability issues as the U.S. heads into the midterm elections on Nov. 3.
-Currently, Trump's approval ratings stand at 32%, according to a Reuters/Ipsos poll on Monday.
-Mark Zandi, Moody's Analytics' Chief Economist said on Oct. 12 that the war was costing American families an average of $2,000 so far, where $1,100 comes from higher energy costs, $540 from higher interest rate costs, and $360 due to increased military spending.
-The Iran conflict shows no sign of winding down, with Trump saying that he will soon decide whether to "make a deal" with Iran or "finish it off."
-Earlier in the month, the U.S. had evacuated diplomats from Saudi Arabia, as the New York Times reported that U.S. and Israeli militaries have drawn up specific plans for a "short but intensive" operation for strikes on Iran after the midterm elections.
-An estimate by U.S. Central Command on Oct. 16, according to a report by The Hill, also revealed that the cost of the Iran war has ballooned to $47 billion, about $3 billion more than the previous numbers.
-The bulk of the costs was reportedly for munitions replacements at $29 million. Washington's conflict with Iran has caused "shortfalls" in U.S. munitions, despite Trump claiming on Sept. 3 that the U.S. had "virtually unlimited" amounts of ammunition.
-The massive price tag on the war does not include the costs of damaged military bases in the Middle East, which is estimated at $184 million as of June 29, according to a lead inspector general report to Congress.
-This figure counts damage to U.S. diplomatic facilities in four countries — Iraq, Kuwait, Saudi Arabia and the United Arab Emirates — from Iranian strikes.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html",
-    publishedAt: "2026-10-28T03:02:44+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "israel-election-appears-to-have-no-clear-ee25b2f2",
-    title: "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
-    titleJa: "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
-    summaryJa: "Exit polls show Prime Minister Benjamin Netanyahu's alliance and Gadi Eisenkot's opposition bloc both well off the numbers needed to form a governing majority.",
-    bodyOriginal: `The outcome of Israel's election hung in the balance as of Wednesday, with both Prime Minister Benjamin Netanyahu and challenger Gadi Eisenkot appearing to be well off the numbers needed to form a governing coalition.
-An updated Channel 13 poll early Wednesday put both blocs at 51 seats in the 120-seat Knesset, the Times of Israel reported. A coalition needs 61 to be able to govern. Channel 12 and Kan 11 showed Eisenkot's bloc slightly ahead at 52-50. Arab-led parties, which belong to neither camp, were projected at 17 to 18 seats, their strongest showing ever.
-Eisenkot, a former military chief of staff, declared victory and said the preliminary results should give him the first right to try to form a government. "The initial exit poll results indicate a complete lack of confidence in Netanyahu and his October 7 government," he said in a statement on X.
-Exit polls are not the official results, which are formally published a week after the election, on Nov. 4. Around 77.7% of eligible voters turned out to cast their ballots, the highest in a Knesset election in 27 years, according to the Central Elections Committee.
-The vote came as Israel's first national election since Hamas's Oct. 7, 2023 attack and the subsequent wars in Gaza, Lebanon and Iran, and was widely seen as a referendum on Netanyahu's dominance of Israeli politics since 2009.
-Netanyahu's supporters credit him with steering Israel through the war and standing up to international pressure, while critics point to his long-running corruption trial, controversial judicial overhaul efforts, and handling of the Gaza war as evidence that he is unfit for office. Netanyahu faces an International Criminal Court arrest warrant over the Gaza campaign, which he has rejected.
-Arab party result
-The historic Arab-party result is a factor to watch in coalition talks. Ra'am leader Mansour Abbas said that "our vote will change the government." Joint List faction chairman Ahmad Tibi had previously outlined a plan to prevent Netanyahu from remaining in power after the elections, according to the Jerusalem Post.
-The pro-Palestinian stance of Arab-led parties aligns them more closely with Eisenkot than with Netanyahu, said Amin Saikal, an adjunct senior fellow at Singapore's S. Rajaratnam School of International Studies, though neither man has said he would embrace them.
-"Even if Eisenkot's alliance wins more seats, it's less likely to be able to form a governing majority without including Arab and left-wing parties," said Michael Feller, chief strategist at Geopolitical Strategy. "The next government's policies on Iran, Palestine and security may otherwise stay the same."
-However, Yisrael Beytenu leader Avigdor Liberman, whose party is projected at seven to nine seats and is currently in the opposition bloc with Eisenkot, refused during the campaign to rely on Arab parties.
-Earlier on Tuesday, Netanyahu and his far-right coalition partners warned of strong Arab participation in the vote, drawing accusations of racism from opponents.
-"If we don't wake up now, we'll find ourselves with a government of Mansour Abbas and Ahmed Tibi," he said, after a series of posts highlighting long queues at polling stations in Arab communities.
-Even if Eisenkot ends up with more seats, Netanyahu may use the upcoming weeks or months to his advantage by seeking to stall the formation of the new government, said Amin Saikal, an adjunct senior fellow at Singapore's S. Rajaratnam School of International Studies.
-The prime minister will "fight for his political survival," Saikal said.`,
-    bodyJa: `The outcome of Israel's election hung in the balance as of Wednesday, with both Prime Minister Benjamin Netanyahu and challenger Gadi Eisenkot appearing to be well off the numbers needed to form a governing coalition.
-An updated Channel 13 poll early Wednesday put both blocs at 51 seats in the 120-seat Knesset, the Times of Israel reported. A coalition needs 61 to be able to govern. Channel 12 and Kan 11 showed Eisenkot's bloc slightly ahead at 52-50. Arab-led parties, which belong to neither camp, were projected at 17 to 18 seats, their strongest showing ever.
-Eisenkot, a former military chief of staff, declared victory and said the preliminary results should give him the first right to try to form a government. "The initial exit poll results indicate a complete lack of confidence in Netanyahu and his October 7 government," he said in a statement on X.
-Exit polls are not the official results, which are formally published a week after the election, on Nov. 4. Around 77.7% of eligible voters turned out to cast their ballots, the highest in a Knesset election in 27 years, according to the Central Elections Committee.
-The vote came as Israel's first national election since Hamas's Oct. 7, 2023 attack and the subsequent wars in Gaza, Lebanon and Iran, and was widely seen as a referendum on Netanyahu's dominance of Israeli politics since 2009.
-Netanyahu's supporters credit him with steering Israel through the war and standing up to international pressure, while critics point to his long-running corruption trial, controversial judicial overhaul efforts, and handling of the Gaza war as evidence that he is unfit for office. Netanyahu faces an International Criminal Court arrest warrant over the Gaza campaign, which he has rejected.
-Arab party result
-The historic Arab-party result is a factor to watch in coalition talks. Ra'am leader Mansour Abbas said that "our vote will change the government." Joint List faction chairman Ahmad Tibi had previously outlined a plan to prevent Netanyahu from remaining in power after the elections, according to the Jerusalem Post.
-The pro-Palestinian stance of Arab-led parties aligns them more closely with Eisenkot than with Netanyahu, said Amin Saikal, an adjunct senior fellow at Singapore's S. Rajaratnam School of International Studies, though neither man has said he would embrace them.
-"Even if Eisenkot's alliance wins more seats, it's less likely to be able to form a governing majority without including Arab and left-wing parties," said Michael Feller, chief strategist at Geopolitical Strategy. "The next government's policies on Iran, Palestine and security may otherwise stay the same."
-However, Yisrael Beytenu leader Avigdor Liberman, whose party is projected at seven to nine seats and is currently in the opposition bloc with Eisenkot, refused during the campaign to rely on Arab parties.
-Earlier on Tuesday, Netanyahu and his far-right coalition partners warned of strong Arab participation in the vote, drawing accusations of racism from opponents.
-"If we don't wake up now, we'll find ourselves with a government of Mansour Abbas and Ahmed Tibi," he said, after a series of posts highlighting long queues at polling stations in Arab communities.
-Even if Eisenkot ends up with more seats, Netanyahu may use the upcoming weeks or months to his advantage by seeking to stall the formation of the new government, said Amin Saikal, an adjunct senior fellow at Singapore's S. Rajaratnam School of International Studies.
-The prime minister will "fight for his political survival," Saikal said.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/28/israel-election-netanyahu-trump-gaza-.html",
-    publishedAt: "2026-10-28T02:15:55+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "sk-hynix-shares-soar-over-8-as-profit-be-da7d098c",
-    title: "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors",
-    titleJa: "SK Hynix shares soar over 8% as profit beats, chipmaker to return $25 billion to investors",
-    summaryJa: "Shares of South Korean chipmaker SK Hynix soared over 8% on Wednesday as third-quarter profit sharply beats estimates.",
-    bodyOriginal: `South Korean chipmaker SK Hynix on Wednesday posted a record high quarterly profit, sharply beating estimates, and announced over $25 billion in dividends and buybacks, sending shares more than 8% higher.
-Here are SK Hynix's third-quarter results compared with LSEG SmartEstimates, which are weighted toward forecasts from analysts who are more consistently accurate:
-- Revenue: 104.62 trillion won ($78.86 billion) vs. 98.34 trillion won expected
-- Operating profit: 83.33 trillion won vs. 76.72 trillion won expected
-Revenue rose 327.9% from a year earlier, while operating profit climbed 632.1% year on year.
-Compared with the previous quarter, revenue climbed 31.9%, while operating profit surged 37.6%.
-SK Hynix shares rose more than 8%, outperforming the Kospi's 6.25% gain.
-The company posted record quarterly revenue and operating profit, with sales exceeding 100 trillion won for the first time, as it announced plans to return about 100 trillion won to shareholders — including at least 30 trillion won in cash dividends and 60 trillion won in share buybacks and cancellations.
-In the earnings call, SK Hynix CEO Kwak Noh-Jung cited financial market volatility and a correction in semiconductor stocks as the main reasons to halt its review of potential pre-IPO fundraising and IPO options for its U.S. subsidiary Solidigm.
-Solidigm has concluded that an IPO would not fully deliver the anticipated benefits at this time.Kwak Noh-JungCEO, SK Hynix
-The company had said it would continue to assess investment timing, scale and financing options to support Solidigm's growth and enhance shareholder value.
-Kwak also outlined plans to return gains from its investment in Japanese chipmaker Kioxia to shareholders, saying that, "We intend to return the gains realized from our investment in Kioxia this year to our shareholders through a special dividend."
-The chipmaker approved a third-quarter dividend of 14 trillion won, including a special dividend funded by gains from its investment in Kioxia.
-SK Hynix will also buyback 20 trillion won in shares, half of which will be cancelled this year, after completing its previously announced 40 trillion won shares buyback last week — which will be cancelled shortly — as mentioned in the earnings call.
-The company also plans to raise its shareholder return target to more than 50% of cumulative free cash flow generated between 2025 and 2027, as it expects AI investment momentum to continue due to greater adoption of AI services and a more diverse investor base.
-The company added that it expects the structural supply-demand imbalance in the memory market, where demand outpaces supply, to continue for the time being.
-Memory production boost
-SK Hynix expects HBM4 to surpass HBM3E in both shipments and revenue in the fourth quarter, as it ramps up production at its M15X facility in Cheongju, South Korea.
-HBM, or high-bandwidth memory, is a type of advanced memory used alongside AI processors to handle large amounts of data. HBM4 is the sixth generation of the technology, which started mass productions and shipments in the third quarter.
-Average selling prices for DRAM rose by a high-20s percentage from the previous quarter, driven by higher conventional DRAM prices and a growing share of higher-priced HBM4 sales.
-Meanwhile, shipments of server DDR5 memory chips — a type of memory used in data center servers — rose more than 40% from the previous quarter, as said in the call.
-The company has secured long-term agreements with 14 major customers covering more than 50% of its production capacity for 2027 and 2028, expecting memory demand to outpace supply through 2030 and plans to significantly increase investment next year.`,
-    bodyJa: `South Korean chipmaker SK Hynix on Wednesday posted a record high quarterly profit, sharply beating estimates, and announced over $25 billion in dividends and buybacks, sending shares more than 8% higher.
-Here are SK Hynix's third-quarter results compared with LSEG SmartEstimates, which are weighted toward forecasts from analysts who are more consistently accurate:
-- Revenue: 104.62 trillion won ($78.86 billion) vs. 98.34 trillion won expected
-- Operating profit: 83.33 trillion won vs. 76.72 trillion won expected
-Revenue rose 327.9% from a year earlier, while operating profit climbed 632.1% year on year.
-Compared with the previous quarter, revenue climbed 31.9%, while operating profit surged 37.6%.
-SK Hynix shares rose more than 8%, outperforming the Kospi's 6.25% gain.
-The company posted record quarterly revenue and operating profit, with sales exceeding 100 trillion won for the first time, as it announced plans to return about 100 trillion won to shareholders — including at least 30 trillion won in cash dividends and 60 trillion won in share buybacks and cancellations.
-In the earnings call, SK Hynix CEO Kwak Noh-Jung cited financial market volatility and a correction in semiconductor stocks as the main reasons to halt its review of potential pre-IPO fundraising and IPO options for its U.S. subsidiary Solidigm.
-Solidigm has concluded that an IPO would not fully deliver the anticipated benefits at this time.Kwak Noh-JungCEO, SK Hynix
-The company had said it would continue to assess investment timing, scale and financing options to support Solidigm's growth and enhance shareholder value.
-Kwak also outlined plans to return gains from its investment in Japanese chipmaker Kioxia to shareholders, saying that, "We intend to return the gains realized from our investment in Kioxia this year to our shareholders through a special dividend."
-The chipmaker approved a third-quarter dividend of 14 trillion won, including a special dividend funded by gains from its investment in Kioxia.
-SK Hynix will also buyback 20 trillion won in shares, half of which will be cancelled this year, after completing its previously announced 40 trillion won shares buyback last week — which will be cancelled shortly — as mentioned in the earnings call.
-The company also plans to raise its shareholder return target to more than 50% of cumulative free cash flow generated between 2025 and 2027, as it expects AI investment momentum to continue due to greater adoption of AI services and a more diverse investor base.
-The company added that it expects the structural supply-demand imbalance in the memory market, where demand outpaces supply, to continue for the time being.
-Memory production boost
-SK Hynix expects HBM4 to surpass HBM3E in both shipments and revenue in the fourth quarter, as it ramps up production at its M15X facility in Cheongju, South Korea.
-HBM, or high-bandwidth memory, is a type of advanced memory used alongside AI processors to handle large amounts of data. HBM4 is the sixth generation of the technology, which started mass productions and shipments in the third quarter.
-Average selling prices for DRAM rose by a high-20s percentage from the previous quarter, driven by higher conventional DRAM prices and a growing share of higher-priced HBM4 sales.
-Meanwhile, shipments of server DDR5 memory chips — a type of memory used in data center servers — rose more than 40% from the previous quarter, as said in the call.
-The company has secured long-term agreements with 14 major customers covering more than 50% of its production capacity for 2027 and 2028, expecting memory demand to outpace supply through 2030 and plans to significantly increase investment next year.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
-    publishedAt: "2026-10-28T01:56:59+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "indian-investors-rush-to-nvidia-spacex-a-529a9cf2",
-    title: "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
-    titleJa: "Indian investors rush to Nvidia, SpaceX, Apple as local trading apps roll out access to U.S. stocks",
-    summaryJa: "Major Indian brokerages are providing retail investors access to U.S. stocks at a time when the local market has been battered.",
-    bodyOriginal: `Major Indian online investment platforms are unlocking access to U.S. stocks for millions of retail investors eager to diversify into global assets as the country's markets continue to underperform.
-Earlier, access to U.S. markets and exchange-traded funds was limited to wealthier Indians, via global banks and wealth management firms.
-Groww, an Indian investment platform that accounts for more than 29% of the country's 46 million active investors across stock brokerages, rolled out the U.S. equity trading feature earlier this month, Harsh Jain, chief operating officer and co-founder of the company, told CNBC.
-NVIDIA, SpaceX, Apple, Alphabet, Amazon, Micron and Meta are the most popular companies among early users, Jain said, whose firm has provided access to more than 10,000 U.S. stocks, exchange-traded funds and fractional share ownership.
-Zerodha, the second-largest trading platform with a 15% share of active clients as per NSE data, has also started beta testing access to U.S. stocks and plans to launch in a few weeks, the company told CNBC.
-Another popular brokerage with 6.7 million active retail clients, Angel One, is also reportedly planning to launch U.S. stock trading on its platform.
-There is a "big interest" among Indians to invest in U.S. stocks, especially in tech companies, Nitin Jain, chief executive and director at Kotak Mahindra Asset Management Singapore, told CNBC. He added that "retail investors like whatever goes up," pointing to the frenzy among Indian investors for investing in crypto a few years back.
-U.S. stocks in demand
-"There has always been latent demand in India for investing in global companies," Somnath Mukherjee, vice president of corporate development at Zerodha, told CNBC.
-He said that the underperformance of the Indian stock market over the past few years and the lack of local artificial intelligence champions is driving the demand for U.S offerings. The depreciation of the Indian rupee against the dollar is also pushing investors "to keep a part of their portfolio in another currency," Mukherjee said.
-India's benchmark stock index, the Nifty 50, has dropped nearly 13% since the start of the year while the S&P 500 has gained over 12%. Foreign investors are fleeing the country's markets, with a record $32.5 billion in outflows in direct equities since January, as per data from Indian depository NSDL, pressuring the stock market.
-With the absence of any major AI company and relatively expensive valuations, investors have picked markets such as South Korea and Taiwan over India, experts said.
-In August, resident Indians sent over $321 million overseas for investing in equity and debt, up 111% from a year ago, according to the Indian central bank's data. In the financial year ended March 2026, outward remittances for investments in equity and debt stood at $2.6 billion.
-While the retail outflows are a small fraction of India's currency reserves, the worry is that they rise exactly when the rupee is weak, and US markets look strong, and thereby "amplify pressure at the worst moment," Tanvi Kanchan, associate director, head of international business and strategy, Anand Rathi Shares & Stock Brokers said.
-Investment now accounts for about 11.7% of total outward remittances, up from 5.8% a year ago, so Indians are shifting from spending abroad to investing abroad, Kanchan said.
-The exit of foreign investors and rising energy bills due to the Iran war have already hit the Indian currency, warranting the central bank to step in. Kotak's Jain cautioned that as participation increases, the Indian regulator could have "second thoughts" around allowing retail access to U.S. markets.`,
-    bodyJa: `Major Indian online investment platforms are unlocking access to U.S. stocks for millions of retail investors eager to diversify into global assets as the country's markets continue to underperform.
-Earlier, access to U.S. markets and exchange-traded funds was limited to wealthier Indians, via global banks and wealth management firms.
-Groww, an Indian investment platform that accounts for more than 29% of the country's 46 million active investors across stock brokerages, rolled out the U.S. equity trading feature earlier this month, Harsh Jain, chief operating officer and co-founder of the company, told CNBC.
-NVIDIA, SpaceX, Apple, Alphabet, Amazon, Micron and Meta are the most popular companies among early users, Jain said, whose firm has provided access to more than 10,000 U.S. stocks, exchange-traded funds and fractional share ownership.
-Zerodha, the second-largest trading platform with a 15% share of active clients as per NSE data, has also started beta testing access to U.S. stocks and plans to launch in a few weeks, the company told CNBC.
-Another popular brokerage with 6.7 million active retail clients, Angel One, is also reportedly planning to launch U.S. stock trading on its platform.
-There is a "big interest" among Indians to invest in U.S. stocks, especially in tech companies, Nitin Jain, chief executive and director at Kotak Mahindra Asset Management Singapore, told CNBC. He added that "retail investors like whatever goes up," pointing to the frenzy among Indian investors for investing in crypto a few years back.
-U.S. stocks in demand
-"There has always been latent demand in India for investing in global companies," Somnath Mukherjee, vice president of corporate development at Zerodha, told CNBC.
-He said that the underperformance of the Indian stock market over the past few years and the lack of local artificial intelligence champions is driving the demand for U.S offerings. The depreciation of the Indian rupee against the dollar is also pushing investors "to keep a part of their portfolio in another currency," Mukherjee said.
-India's benchmark stock index, the Nifty 50, has dropped nearly 13% since the start of the year while the S&P 500 has gained over 12%. Foreign investors are fleeing the country's markets, with a record $32.5 billion in outflows in direct equities since January, as per data from Indian depository NSDL, pressuring the stock market.
-With the absence of any major AI company and relatively expensive valuations, investors have picked markets such as South Korea and Taiwan over India, experts said.
-In August, resident Indians sent over $321 million overseas for investing in equity and debt, up 111% from a year ago, according to the Indian central bank's data. In the financial year ended March 2026, outward remittances for investments in equity and debt stood at $2.6 billion.
-While the retail outflows are a small fraction of India's currency reserves, the worry is that they rise exactly when the rupee is weak, and US markets look strong, and thereby "amplify pressure at the worst moment," Tanvi Kanchan, associate director, head of international business and strategy, Anand Rathi Shares & Stock Brokers said.
-Investment now accounts for about 11.7% of total outward remittances, up from 5.8% a year ago, so Indians are shifting from spending abroad to investing abroad, Kanchan said.
-The exit of foreign investors and rising energy bills due to the Iran war have already hit the Indian currency, warranting the central bank to step in. Kotak's Jain cautioned that as participation increases, the Indian regulator could have "second thoughts" around allowing retail access to U.S. markets.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/28/india-us-stocks-retail-access.html",
-    publishedAt: "2026-10-28T00:14:24+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "an-annoying-buzz-the-search-for-stealth-6d7255a2",
-    title: "'An annoying buzz': The search for stealthier drones",
-    titleJa: "'An annoying buzz': The search for stealthier drones",
-    summaryJa: "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
-    bodyOriginal: `'An annoying buzz': The search for stealthier drones
-- Published
-Nature lover Ashley Schmidt no longer spends much time in her garden, in the Dallas suburb of North Garland.
-She's also given up on cycling to the local parks where she previously enjoyed taking close-up photos of the bugs, lizards and toads.
-It's all because she can't stand the sound of the delivery drones that fly overhead, depositing her neighbours' online orders.
-"They emit this very annoying buzz. It triggers my fight or flight response," says the 44-year-old administrative assistant.
-"You can hear the drones on approach and you can hear them inside your home when they pass directly overhead and then you hear them as they leave," she says.
-Schmidt is one of a growing number of people living with the noise of drones dispatched by companies including Amazon and Walmart as they seek to speed up home deliveries.
-Delivery drone services, not long ago a novelty, are becoming part of everyday life for many people in the US.
-Among them, Amazon Prime Air is in the process of expanding deliveries to nearly 500 cities and towns, delivering items that fit into a space the size of a shoe box. It has also launched to customers in and around Darlington in the north of England.
-Smaller drone delivery services are popping up too: in some US cities, customers can order flying treats from their local pizza joint or ice cream parlour.
-Even in cities where noise is already a steady part of life, the sound of drones seems to irk in a particular way.
-While the steady passing of traffic might blend into the background, the sudden whine of a drone's rotors can pierce the everyday hum.
-The sound tends to be "particularly noticeable, even when overall sound levels are relatively low," says Antonio Torija Martinez, professor in acoustic engineering and psychoacoustics at the University of Salford.
-Unlike planes, drones operate at low altitudes and may fly directly over residential areas.
-"They can expose communities that have not previously experienced significant aircraft noise, and who may therefore be more sensitive to changes in their local soundscape," says Torija Martinez.
-He points to research showing that people respond strongly to a noise when they consider the source to be "novel, intrusive or frequent". People who benefit from a drone delivery service, for example, may be less bothered by the noise.
-However, complaints about the sound of drones are likely to grow, he warns: "At the moment we are seeing some of these problems localised in some areas, but… as the drone sector expands, more and more of these complaints will happen."
-In the US, the Federal Aviation Administration (FAA) regulates commercial drones, but it has come under fire for allowing noisy drone delivery operations. The FAA says operators and local community leaders have primary responsibility for addressing any community concerns.
-Might better technology muffle the irritating buzz?
-One startup, Greenjets, set out to tackle both "noise level and the frequency of that noise," as Darren James, future technologies lead at the company, puts it.
-The London-based business has designed a propulsion system it claims can reduce drone noise by at least two thirds.
-While standard drones use spinning propellers that slice through open air, creating that high-pitched buzz, Greenjets encloses spinning blades inside a pod, to muffle the sound and direct the noise away from the ground.
-Its system also quietens things down through slower rotor speed and by using materials that reduce vibration noise.
-Making quieter drones isn't just about keeping the noise down for neighbours who are already sick of airborne deliveries.
-Greenjets' low-noise tech has been used by police and harbour security teams in Germany. It has also helped conservationists in Africa, who are seeking to track poachers from above without being detected.
-Battlefield drone operators also have good reason to keep the noise down, to avoid alerting the enemy of the approach of their unmanned vehicles.
-"There are some efforts to reduce the sound of drones. The US Special Forces are interested, at an experimental stage," says Robert Tollast, a research fellow at Whitehall think tank The Royal United Services Institute (RUSI).
-But he stresses that drone speed, rather than stealthiness, tends to come first for larger drones used in the war between Russia and Ukraine. "Make it faster, not less quiet, seems to be the approach," says Tollast.
-For Detroit-based entrepreneur, Greg Sharrow, it was the challenge of broadcasting a classical music performance back in 2012 that set him on the path to quieter drone design.
-He needed to film a violinist from a tricky angle and a drone seemed the only solution – expect that it would be far too noisy.
-As a starting point, "I knew that most of the noise from the drone was coming from the propeller, not the motor," he says. Specifically, it was the tips of the blades that he realised were creating the noise as they swiped through the air.
-"I asked myself a very simple question, what would a tipless propeller look like and how would it function?"
-The result was to create a propeller with twisted loop-shaped blades with no points.
-It turned out it was easier to test his propeller in water than it was to repeatedly fly a drone, which led Sharrow to initially develop a less noisy boat propeller. Now, however, his company, Sharrow Engineering, is focusing on developing "ultra-quiet" drone rotors.
-"We have validated that the technology works in drone applications and that it is dramatically quieter," says Sharrow.
-Companies at the forefront of drone deliveries say they are also working to reduce the noise of their fleets. A spokesperson for Amazon says it has made "measurable sound improvements" to its drones and its latest designs use custom-designed propellers "that produce almost half the perceived sound of the prior generation, with a milder tone".
-Drone maker Wing, which provides its vehicles for Walmart deliveries, says its propellers are designed to minimise noise. It also varies its flight paths to prevent repeated overflights over any single home or neighbourhood.
-For Schmidt, fed up with the noise of drones, the only truly satisfactory solution would be to halt drone deliveries in her area. "I would like them to completely stop until they figure out how their services stop being a nuisance," she says.
-Technology of Business
-- Published25 September
-- Published30 September
-- Published9 October`,
-    bodyJa: `'An annoying buzz': The search for stealthier drones
-- Published
-Nature lover Ashley Schmidt no longer spends much time in her garden, in the Dallas suburb of North Garland.
-She's also given up on cycling to the local parks where she previously enjoyed taking close-up photos of the bugs, lizards and toads.
-It's all because she can't stand the sound of the delivery drones that fly overhead, depositing her neighbours' online orders.
-"They emit this very annoying buzz. It triggers my fight or flight response," says the 44-year-old administrative assistant.
-"You can hear the drones on approach and you can hear them inside your home when they pass directly overhead and then you hear them as they leave," she says.
-Schmidt is one of a growing number of people living with the noise of drones dispatched by companies including Amazon and Walmart as they seek to speed up home deliveries.
-Delivery drone services, not long ago a novelty, are becoming part of everyday life for many people in the US.
-Among them, Amazon Prime Air is in the process of expanding deliveries to nearly 500 cities and towns, delivering items that fit into a space the size of a shoe box. It has also launched to customers in and around Darlington in the north of England.
-Smaller drone delivery services are popping up too: in some US cities, customers can order flying treats from their local pizza joint or ice cream parlour.
-Even in cities where noise is already a steady part of life, the sound of drones seems to irk in a particular way.
-While the steady passing of traffic might blend into the background, the sudden whine of a drone's rotors can pierce the everyday hum.
-The sound tends to be "particularly noticeable, even when overall sound levels are relatively low," says Antonio Torija Martinez, professor in acoustic engineering and psychoacoustics at the University of Salford.
-Unlike planes, drones operate at low altitudes and may fly directly over residential areas.
-"They can expose communities that have not previously experienced significant aircraft noise, and who may therefore be more sensitive to changes in their local soundscape," says Torija Martinez.
-He points to research showing that people respond strongly to a noise when they consider the source to be "novel, intrusive or frequent". People who benefit from a drone delivery service, for example, may be less bothered by the noise.
-However, complaints about the sound of drones are likely to grow, he warns: "At the moment we are seeing some of these problems localised in some areas, but… as the drone sector expands, more and more of these complaints will happen."
-In the US, the Federal Aviation Administration (FAA) regulates commercial drones, but it has come under fire for allowing noisy drone delivery operations. The FAA says operators and local community leaders have primary responsibility for addressing any community concerns.
-Might better technology muffle the irritating buzz?
-One startup, Greenjets, set out to tackle both "noise level and the frequency of that noise," as Darren James, future technologies lead at the company, puts it.
-The London-based business has designed a propulsion system it claims can reduce drone noise by at least two thirds.
-While standard drones use spinning propellers that slice through open air, creating that high-pitched buzz, Greenjets encloses spinning blades inside a pod, to muffle the sound and direct the noise away from the ground.
-Its system also quietens things down through slower rotor speed and by using materials that reduce vibration noise.
-Making quieter drones isn't just about keeping the noise down for neighbours who are already sick of airborne deliveries.
-Greenjets' low-noise tech has been used by police and harbour security teams in Germany. It has also helped conservationists in Africa, who are seeking to track poachers from above without being detected.
-Battlefield drone operators also have good reason to keep the noise down, to avoid alerting the enemy of the approach of their unmanned vehicles.
-"There are some efforts to reduce the sound of drones. The US Special Forces are interested, at an experimental stage," says Robert Tollast, a research fellow at Whitehall think tank The Royal United Services Institute (RUSI).
-But he stresses that drone speed, rather than stealthiness, tends to come first for larger drones used in the war between Russia and Ukraine. "Make it faster, not less quiet, seems to be the approach," says Tollast.
-For Detroit-based entrepreneur, Greg Sharrow, it was the challenge of broadcasting a classical music performance back in 2012 that set him on the path to quieter drone design.
-He needed to film a violinist from a tricky angle and a drone seemed the only solution – expect that it would be far too noisy.
-As a starting point, "I knew that most of the noise from the drone was coming from the propeller, not the motor," he says. Specifically, it was the tips of the blades that he realised were creating the noise as they swiped through the air.
-"I asked myself a very simple question, what would a tipless propeller look like and how would it function?"
-The result was to create a propeller with twisted loop-shaped blades with no points.
-It turned out it was easier to test his propeller in water than it was to repeatedly fly a drone, which led Sharrow to initially develop a less noisy boat propeller. Now, however, his company, Sharrow Engineering, is focusing on developing "ultra-quiet" drone rotors.
-"We have validated that the technology works in drone applications and that it is dramatically quieter," says Sharrow.
-Companies at the forefront of drone deliveries say they are also working to reduce the noise of their fleets. A spokesperson for Amazon says it has made "measurable sound improvements" to its drones and its latest designs use custom-designed propellers "that produce almost half the perceived sound of the prior generation, with a milder tone".
-Drone maker Wing, which provides its vehicles for Walmart deliveries, says its propellers are designed to minimise noise. It also varies its flight paths to prevent repeated overflights over any single home or neighbourhood.
-For Schmidt, fed up with the noise of drones, the only truly satisfactory solution would be to halt drone deliveries in her area. "I would like them to completely stop until they figure out how their services stop being a nuisance," she says.
-Technology of Business
-- Published25 September
-- Published30 September
-- Published9 October`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-28T00:01:10+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5b2/live/ad407780-c7b4-11f1-a64c-550be9e3c66b.jpg",
-    readTime: 10,
-  },
-  {
-    id: "china-s-families-are-now-supporting-more-06de503d",
-    title: "China's families are now supporting more old people than kids",
-    titleJa: "China's families are now supporting more old people than kids",
-    summaryJa: "The latest figures mark a major milestone as Beijing grapples with an ageing population.",
-    bodyOriginal: `China's families are now supporting more old people than kids
-- Published
-Families in China are for the first time supporting more elderly people than children, the country's government has said.
-Official data released in the last week, external show the ratio of China's dependent elderly people compared to the working age population rose to 23% last year, overtaking the figure for children, which stood at 22%.
-The numbers are closely watched for signs of how China's shrinking workforce will impact both the world's second largest economy and global growth as a whole.
-The latest figures mark a significant milestone as China grapples with an ageing population that could have implications for families, pensions and healthcare spending, analysts say.
-China has been preparing for a growing proportion of elderly people in recent years, while urging younger generations to get married and for couples to have more children.
-The latest data from China's National Bureau of Statistics show there are now more than 223 million people in China aged 65 and above, accounting for nearly 16% of the country's total population.
-At the same time there are about 213 million children aged 14 and under.
-No official commentary was published with the statistics. But Chinese state-controlled news outlet Global Times wrote that the nation's "entry into a moderately ageing society" is the result of a mix of factors, including the "size of past birth cohorts" and longer life expectancy.
-The shift could place added strain on pension, healthcare and long-term care systems, while also creating opportunities in the so-called silver economy that caters to older consumers, the newspaper said.
-"It reflects a historical trend in demographic development rather than a short-term phenomenon," Global Times quoted one researcher as saying.
-The demographic shift is "symbolic" and could suggest more public spending will move from families and schools to pensions and healthcare, said Professor Stuart Gietel-Basten from The Hong Kong University of Science and Technology.
-It may also pose a challenge to the country's ambitions, as it could limit its economic growth as well as people's spending power, said National University of Singapore sociology lecturer Mu Zheng.
-China's ageing population has been driven by a mix of factors, including rapid urbanisation and the effects of the controversial one-child policy, which was in place from 1980 to the end of 2015.
-The strategy, designed to keep China's rapid population growth under control, is estimated by the country's government to have prevented about 400 million births since it began, though this number has been contested.
-The policy played a key role in shrinking the population and means there are fewer younger people to support a growing number of elderly relatives, Mu said.
-But despite easing restrictions on the size of families, Beijing has struggled to persuade couples to have more children, with birth rates hitting historic lows.
-Other contributing factors include changing gender roles, rising living costs and higher education levels that have put pressure on fertility rates, Mu said.
-Beijing made further support for older people a part of the measures in its five-year economic blueprint that was announced earlier this year.
-Financial help for pensioners has been a growing part of Chinese government spending. More than 53 million elderly people were receiving senior citizen allowances and subsidies by the end of 2025, according to official figures.
-The Global Times noted that many people entering old age who were born between the 1950s and the 1970s have generally higher incomes compared to previous generations, stronger purchasing power and are healthier.
-The dependency ratio is widely-used to measure ageing populations but it has also been questioned by some experts who argue that its scope is too limited.
-Gietel-Basten said the use of the statistics risks "taking agency away" from older people - many of whom he says have been misrepresented as dependants.
-It also does not take into account improvements to healthcare, he added.
-Related topics
-- Published19 January
-- Published31 December 2025`,
-    bodyJa: `China's families are now supporting more old people than kids
-- Published
-Families in China are for the first time supporting more elderly people than children, the country's government has said.
-Official data released in the last week, external show the ratio of China's dependent elderly people compared to the working age population rose to 23% last year, overtaking the figure for children, which stood at 22%.
-The numbers are closely watched for signs of how China's shrinking workforce will impact both the world's second largest economy and global growth as a whole.
-The latest figures mark a significant milestone as China grapples with an ageing population that could have implications for families, pensions and healthcare spending, analysts say.
-China has been preparing for a growing proportion of elderly people in recent years, while urging younger generations to get married and for couples to have more children.
-The latest data from China's National Bureau of Statistics show there are now more than 223 million people in China aged 65 and above, accounting for nearly 16% of the country's total population.
-At the same time there are about 213 million children aged 14 and under.
-No official commentary was published with the statistics. But Chinese state-controlled news outlet Global Times wrote that the nation's "entry into a moderately ageing society" is the result of a mix of factors, including the "size of past birth cohorts" and longer life expectancy.
-The shift could place added strain on pension, healthcare and long-term care systems, while also creating opportunities in the so-called silver economy that caters to older consumers, the newspaper said.
-"It reflects a historical trend in demographic development rather than a short-term phenomenon," Global Times quoted one researcher as saying.
-The demographic shift is "symbolic" and could suggest more public spending will move from families and schools to pensions and healthcare, said Professor Stuart Gietel-Basten from The Hong Kong University of Science and Technology.
-It may also pose a challenge to the country's ambitions, as it could limit its economic growth as well as people's spending power, said National University of Singapore sociology lecturer Mu Zheng.
-China's ageing population has been driven by a mix of factors, including rapid urbanisation and the effects of the controversial one-child policy, which was in place from 1980 to the end of 2015.
-The strategy, designed to keep China's rapid population growth under control, is estimated by the country's government to have prevented about 400 million births since it began, though this number has been contested.
-The policy played a key role in shrinking the population and means there are fewer younger people to support a growing number of elderly relatives, Mu said.
-But despite easing restrictions on the size of families, Beijing has struggled to persuade couples to have more children, with birth rates hitting historic lows.
-Other contributing factors include changing gender roles, rising living costs and higher education levels that have put pressure on fertility rates, Mu said.
-Beijing made further support for older people a part of the measures in its five-year economic blueprint that was announced earlier this year.
-Financial help for pensioners has been a growing part of Chinese government spending. More than 53 million elderly people were receiving senior citizen allowances and subsidies by the end of 2025, according to official figures.
-The Global Times noted that many people entering old age who were born between the 1950s and the 1970s have generally higher incomes compared to previous generations, stronger purchasing power and are healthier.
-The dependency ratio is widely-used to measure ageing populations but it has also been questioned by some experts who argue that its scope is too limited.
-Gietel-Basten said the use of the statistics risks "taking agency away" from older people - many of whom he says have been misrepresented as dependants.
-It also does not take into account improvements to healthcare, he added.
-Related topics
-- Published19 January
-- Published31 December 2025`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-27T23:16:08+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39b9/live/b1569840-d105-11f1-8441-f1b8954c52d9.jpg",
     readTime: 10,
   },
 ];
