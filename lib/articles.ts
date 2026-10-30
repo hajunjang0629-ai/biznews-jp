@@ -15,6 +15,362 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "crypto-giant-binance-hit-by-largest-hack-4ea100d2",
+    title: "Crypto giant Binance hit by 'largest hack in history'",
+    titleJa: "Crypto giant Binance hit by 'largest hack in history'",
+    summaryJa: "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+    bodyOriginal: `Crypto giant Binance hit by 'largest hack in history'
+- Published
+Cryptocurrency giant Binance said on Thursday that $6.3bn (£4.7bn) of digital assets have been impacted by what has been described as the "largest hack in history".
+The world's biggest crypto exchange said about half of those assets have been frozen with the help of other platforms, adding that it will "cover all losses".
+Early checks show the incident may have involved an engineer's laptop that had been compromised, which allowed an attacker to make unauthorised withdrawals, Binance said.
+Two analytics firms have attributed the incident, which eclipses a record-setting $1.5bn hack on the Bybit exchange in 2025, to a North Korean hacking unit called TraderTraitor.
+AI-powered investigations company TRM Labs said in a report that several elements of the Binance attack resemble earlier North Korean-linked incidents, including the Bybit hack.
+The lab's global head of policy Ari Redbord told the BBC the Binance hack is a "watershed moment" that is unlike anything the industry has seen.
+The attacker still holds an enormous sum of stolen assets, meaning efforts to trace and recover the funds are far from over, Redbord added.
+Chainalysis, another crypto analytics firm, also said it has "high confidence" that the North Korean group are linked to the hack.
+Eric Jardine, Chainalysis' Head of Research, urged every exchange to remain vigilant as the platforms are attractive targets for hackers due to the sheer value of assets.
+Binance did not directly respond to BBC queries about the incident's potential links to North Korea but said: "We are working closely with our law enforcement partners to confirm the identity of these criminals and bring them to justice."
+The incident concerns Binance.com - while much smaller crypto platform Binance.US, which provides trading services specifically for American residents - said its platform is not affected by the issue.
+In a series of posts, Yi He, Binance's co-chief executive, thanked various cryptocurrency issuers for freezing the assets.
+"Safety first: withdrawals are currently disabled until the environment is confirmed to be secure," she said.
+Two other major crypto platforms, Tether and Circle, said they have frozen a total of about $2.4bn of assets in response to the potential Binance hack.
+Circle chief executive Jeremy Allaire said his firm is "closely tracking reports of a potential exploit involving Binance" and that his company has frozen more than $800m in assets linked to the incident.
+Circle is the issuer and co-creator of the USDC, one of the world's largest US dollar-backed cryptocurrencies.
+Tether CEO Paolo Ardoino said his firm has frozen around $1.6bn "related to a potential Binance exchange hack."
+"Protecting the industry and our partners is our main priority," said Ardoino, whose company issues a cryptocurrency known as USDT.
+World Liberty Financial, a crypto company linked to US President Donald Trump and his family, said it has worked with its partners to freeze stolen funds.
+Crypto exchange Coinbase said it was unaffected by the incident and was monitoring the situation.
+Several crypto industry observers had flagged concerns about a potential hack on Binance hours before the exchange confirmed the security issue.
+Binance, which was founded in China in 2017, allows users to trade digital assets and is estimated to have more than 300 million registered users worldwide.
+The exchange has been subject of regulatory scrutiny around the world.
+The company said in 2024 that it has more than $160bn in assets under custody.
+Bitcoin dropped by more than 4% following the alerts. The price of other major cryptocurrencies including Ethereum and Solana also fell sharply.
+Related topics
+- Published26 August`,
+    bodyJa: `Crypto giant Binance hit by 'largest hack in history'
+- Published
+Cryptocurrency giant Binance said on Thursday that $6.3bn (£4.7bn) of digital assets have been impacted by what has been described as the "largest hack in history".
+The world's biggest crypto exchange said about half of those assets have been frozen with the help of other platforms, adding that it will "cover all losses".
+Early checks show the incident may have involved an engineer's laptop that had been compromised, which allowed an attacker to make unauthorised withdrawals, Binance said.
+Two analytics firms have attributed the incident, which eclipses a record-setting $1.5bn hack on the Bybit exchange in 2025, to a North Korean hacking unit called TraderTraitor.
+AI-powered investigations company TRM Labs said in a report that several elements of the Binance attack resemble earlier North Korean-linked incidents, including the Bybit hack.
+The lab's global head of policy Ari Redbord told the BBC the Binance hack is a "watershed moment" that is unlike anything the industry has seen.
+The attacker still holds an enormous sum of stolen assets, meaning efforts to trace and recover the funds are far from over, Redbord added.
+Chainalysis, another crypto analytics firm, also said it has "high confidence" that the North Korean group are linked to the hack.
+Eric Jardine, Chainalysis' Head of Research, urged every exchange to remain vigilant as the platforms are attractive targets for hackers due to the sheer value of assets.
+Binance did not directly respond to BBC queries about the incident's potential links to North Korea but said: "We are working closely with our law enforcement partners to confirm the identity of these criminals and bring them to justice."
+The incident concerns Binance.com - while much smaller crypto platform Binance.US, which provides trading services specifically for American residents - said its platform is not affected by the issue.
+In a series of posts, Yi He, Binance's co-chief executive, thanked various cryptocurrency issuers for freezing the assets.
+"Safety first: withdrawals are currently disabled until the environment is confirmed to be secure," she said.
+Two other major crypto platforms, Tether and Circle, said they have frozen a total of about $2.4bn of assets in response to the potential Binance hack.
+Circle chief executive Jeremy Allaire said his firm is "closely tracking reports of a potential exploit involving Binance" and that his company has frozen more than $800m in assets linked to the incident.
+Circle is the issuer and co-creator of the USDC, one of the world's largest US dollar-backed cryptocurrencies.
+Tether CEO Paolo Ardoino said his firm has frozen around $1.6bn "related to a potential Binance exchange hack."
+"Protecting the industry and our partners is our main priority," said Ardoino, whose company issues a cryptocurrency known as USDT.
+World Liberty Financial, a crypto company linked to US President Donald Trump and his family, said it has worked with its partners to freeze stolen funds.
+Crypto exchange Coinbase said it was unaffected by the incident and was monitoring the situation.
+Several crypto industry observers had flagged concerns about a potential hack on Binance hours before the exchange confirmed the security issue.
+Binance, which was founded in China in 2017, allows users to trade digital assets and is estimated to have more than 300 million registered users worldwide.
+The exchange has been subject of regulatory scrutiny around the world.
+The company said in 2024 that it has more than $160bn in assets under custody.
+Bitcoin dropped by more than 4% following the alerts. The price of other major cryptocurrencies including Ethereum and Solana also fell sharply.
+Related topics
+- Published26 August`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-30T05:15:16+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a4c/live/ee32b970-d406-11f1-b5d5-035446124886.jpg",
+    readTime: 9,
+  },
+  {
+    id: "boj-holds-rates-as-underlying-inflation-55c73de1",
+    title: "BOJ holds rates as underlying inflation aligns with 2% target for first time since 2013",
+    titleJa: "BOJ holds rates as underlying inflation aligns with 2% target for first time since 2013",
+    summaryJa: "The BOJ declared that its underlying inflation target of 2% has been met, the first time the central bank has done so since it set the target in 2013.",
+    bodyOriginal: `The Bank of Japan declared that underlying inflation in the country was "generally consistent" with its target of 2%, the first time it has made that assessment since adopting the target in 2013.
+Before this, the BOJ used to say that underlying inflation has been "approaching 2 percent."
+This comes as the central bank expectedly held rates at 1.25%, still at its highest level since 1995.
+The decision was split 8-1, with board member Hajime Takata dissenting. Takata had wanted the bank to hike its policy rate to 1.5%.
+The BOJ also upgraded its inflation forecast for its fiscal year 2027 to 2.6% from 2.4%, with the so-called "core-core" inflation forecast also raised to 2.7% from 2.6%. The "core-core" inflation strips out prices of fresh food and energy.
+It also flagged a risk that underlying inflation will deviate upward beyond 2%, saying that "firms' behavior has been shifting more toward raising wages and prices and there are various factors that could drive up prices."
+Describing this as a "hawkish hold," Krishna Bhimavarapu, APAC economist at State Street Investment Management said that the BOJ sees more hikes ahead and is increasingly confident that the target is being achieved through a "self-sustaining wage-price-consumption cycle."
+However, he also added that growth in the country does not justify rushing the next move.
+Bhimavarapu forecasts that Japan's third quarter GDP growth is likely to lose momentum, with consumption still the weakest link in the cycle.
+A CNBC survey of 16 economists before the decision revealed that all surveyed expect the BOJ to set the stage for a rate hike in December or January next year, as domestic inflation and wages continue to rise.
+Thirteen respondents said they expect a terminal rate, or the level at which the BOJ is expected to stop its tightening cycle, of 1.75% to 2% by around mid-2027.
+Japan has been grappling with a weak yen and high energy prices that have pushed up inflation.
+However, experts have told CNBC that CPI numbers are being held down by energy subsidies from the Takaichi administration.
+The most recent inflation numbers for September revealed core inflation hit their highest level in 2026, coming in at 2.1% and overshooting expectations.
+Earlier this month, Finance Minister Satsuki Katayama reportedly told parliament that Japan was "on the cusp of shifting to a period of sustained inflation driven by rising wages."
+Japan's inflation-adjusted wages rose for the eighth month in a row in August, climbing 1.5% from a year earlier, according to the most recent government data, signaling potential wage-growth-driven inflation as well.
+— CNBC's Lisa Kim contributed to this report.`,
+    bodyJa: `The Bank of Japan declared that underlying inflation in the country was "generally consistent" with its target of 2%, the first time it has made that assessment since adopting the target in 2013.
+Before this, the BOJ used to say that underlying inflation has been "approaching 2 percent."
+This comes as the central bank expectedly held rates at 1.25%, still at its highest level since 1995.
+The decision was split 8-1, with board member Hajime Takata dissenting. Takata had wanted the bank to hike its policy rate to 1.5%.
+The BOJ also upgraded its inflation forecast for its fiscal year 2027 to 2.6% from 2.4%, with the so-called "core-core" inflation forecast also raised to 2.7% from 2.6%. The "core-core" inflation strips out prices of fresh food and energy.
+It also flagged a risk that underlying inflation will deviate upward beyond 2%, saying that "firms' behavior has been shifting more toward raising wages and prices and there are various factors that could drive up prices."
+Describing this as a "hawkish hold," Krishna Bhimavarapu, APAC economist at State Street Investment Management said that the BOJ sees more hikes ahead and is increasingly confident that the target is being achieved through a "self-sustaining wage-price-consumption cycle."
+However, he also added that growth in the country does not justify rushing the next move.
+Bhimavarapu forecasts that Japan's third quarter GDP growth is likely to lose momentum, with consumption still the weakest link in the cycle.
+A CNBC survey of 16 economists before the decision revealed that all surveyed expect the BOJ to set the stage for a rate hike in December or January next year, as domestic inflation and wages continue to rise.
+Thirteen respondents said they expect a terminal rate, or the level at which the BOJ is expected to stop its tightening cycle, of 1.75% to 2% by around mid-2027.
+Japan has been grappling with a weak yen and high energy prices that have pushed up inflation.
+However, experts have told CNBC that CPI numbers are being held down by energy subsidies from the Takaichi administration.
+The most recent inflation numbers for September revealed core inflation hit their highest level in 2026, coming in at 2.1% and overshooting expectations.
+Earlier this month, Finance Minister Satsuki Katayama reportedly told parliament that Japan was "on the cusp of shifting to a period of sustained inflation driven by rising wages."
+Japan's inflation-adjusted wages rose for the eighth month in a row in August, climbing 1.5% from a year earlier, according to the most recent government data, signaling potential wage-growth-driven inflation as well.
+— CNBC's Lisa Kim contributed to this report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html",
+    publishedAt: "2026-10-30T04:19:38+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "israel-faces-weeks-of-coalition-haggling-feb799ed",
+    title: "Israel faces weeks of coalition haggling as Netanyahu’s party claims election 'stolen'",
+    titleJa: "Israel faces weeks of coalition haggling as Netanyahu’s party claims election 'stolen'",
+    summaryJa: "Israel's election leaves the country facing weeks of coalition bargaining and an uphill battle for the opposition party to form a majority government.",
+    bodyOriginal: `Israel’s final election count left both Prime Minister Benjamin Netanyahu’s right-wing bloc and the opposition led by former military chief Gadi Eisenkot short of the 61 seats needed to form a government.
+The outcome sets up weeks of coalition bargaining and political uncertainty, with the opposition alliance facing an uphill battle to assemble a majority government in the 120-seat Knesset.
+Netanyahu’s Likud party and its hard-right allies won 53 seats in the Knesset, according to the Central Elections Committee, short of the 61 needed for a majority and down from 64 seats in the 2022 election.
+The main opposition bloc, led by Eisenkot, won 48 seats, falling short of the 61 needed for a majority.
+Eisenkot now faces a difficult coalition path. Most parties in his bloc have rejected relying on the Arab-led parties, while Eisenkot has said neither meets his conditions for a partnership. The Joint List and Ra’am won a combined 19 seats, an all-time high for Arab-led parties.
+Netanyahu's party has intensified claims that the Arab-led parties "stole" the election, amplifying an allegation that spread after exit polls showed the prime minister's bloc had suffered a setback.
+Likud asserted Thursday, without evidence, that foreign interference was "aimed at facilitating a foreign takeover of the Knesset, the Islamization of Israel and toppling of the right wing government."
+The statement came a day after Supreme Court Justice Noam Sohlberg, who chairs the Central Elections Committee, asked the Shin Bet security agency to investigate "serious suspicions" of improper influence through funding from foreign entities.
+Sohlberg said he couldn't attest to the substance of the suspicions and directed agencies to verify the claims.
+Qatar, accused of trying to mobilize Arab voters, has denied interfering in the elections, calling the allegations “ridiculous and dangerous in equal measure.”
+Opposition leaders also called for a full investigation, while warning against using the allegations to cast doubt on or otherwise influence the election results.
+Although the vote count is complete, the results remain subject to possible “minor corrections” before they are certified and submitted to President Isaac Herzog next Wednesday, according to the Central Elections Committee.
+The new Knesset is due to be sworn in Nov. 10, while parties have until Nov. 18 to challenge the results.
+'Comeback kid'
+A prolonged political stalemate could leave Netanyahu in office as caretaker prime minister through another round of coalition negotiations or potentially another election. A return to war with Iran also remains a key risk.
+"Bibi [Netanyahu] is known as a 'comeback kid.' He did not become the longest-serving prime minister by accident," said P R Kumaraswamy, emeritus professor at Jawaharlal Nehru University, adding that he expected Netanyahu to maintain his current approach on Iran and Gaza for now.
+Israeli assets have come under pressure this week with the shekel sustaining the worst intraday decline since 2023 on Wednesday before regaining ground. Tel Aviv's key benchmark stock index dropped 4.1% for the week as of Friday morning, according to LSEG data.
+"We expect some near-term volatility for Israeli assets until a new government is formed and decides on fiscal consolidation and war-related spending," said Eirini Tsekeridou, a fixed-income analyst at Julius Baer. She added that Israel's economic fundamentals and monetary policy should provide support.
+What happens next?
+President Herzog will begin consulting with the competing parties next week and name the leader he believes has the best chance of forming a majority government.
+Netanyahu may get the first call to kick off the 28-day process to build a coalition that can be extended by up to 14 day.
+If those efforts fail, new elections will be called with Netanyahu remaining in office in the interim. The previous government-formation efforts have taken between 20 and 100 days, according to the Israel Democracy Institute.
+Netanyahu could also push for a national unity government, arguing that the country should come together as it faces conflict on several fronts, though many of his opponents have ruled out such an arrangement.`,
+    bodyJa: `Israel’s final election count left both Prime Minister Benjamin Netanyahu’s right-wing bloc and the opposition led by former military chief Gadi Eisenkot short of the 61 seats needed to form a government.
+The outcome sets up weeks of coalition bargaining and political uncertainty, with the opposition alliance facing an uphill battle to assemble a majority government in the 120-seat Knesset.
+Netanyahu’s Likud party and its hard-right allies won 53 seats in the Knesset, according to the Central Elections Committee, short of the 61 needed for a majority and down from 64 seats in the 2022 election.
+The main opposition bloc, led by Eisenkot, won 48 seats, falling short of the 61 needed for a majority.
+Eisenkot now faces a difficult coalition path. Most parties in his bloc have rejected relying on the Arab-led parties, while Eisenkot has said neither meets his conditions for a partnership. The Joint List and Ra’am won a combined 19 seats, an all-time high for Arab-led parties.
+Netanyahu's party has intensified claims that the Arab-led parties "stole" the election, amplifying an allegation that spread after exit polls showed the prime minister's bloc had suffered a setback.
+Likud asserted Thursday, without evidence, that foreign interference was "aimed at facilitating a foreign takeover of the Knesset, the Islamization of Israel and toppling of the right wing government."
+The statement came a day after Supreme Court Justice Noam Sohlberg, who chairs the Central Elections Committee, asked the Shin Bet security agency to investigate "serious suspicions" of improper influence through funding from foreign entities.
+Sohlberg said he couldn't attest to the substance of the suspicions and directed agencies to verify the claims.
+Qatar, accused of trying to mobilize Arab voters, has denied interfering in the elections, calling the allegations “ridiculous and dangerous in equal measure.”
+Opposition leaders also called for a full investigation, while warning against using the allegations to cast doubt on or otherwise influence the election results.
+Although the vote count is complete, the results remain subject to possible “minor corrections” before they are certified and submitted to President Isaac Herzog next Wednesday, according to the Central Elections Committee.
+The new Knesset is due to be sworn in Nov. 10, while parties have until Nov. 18 to challenge the results.
+'Comeback kid'
+A prolonged political stalemate could leave Netanyahu in office as caretaker prime minister through another round of coalition negotiations or potentially another election. A return to war with Iran also remains a key risk.
+"Bibi [Netanyahu] is known as a 'comeback kid.' He did not become the longest-serving prime minister by accident," said P R Kumaraswamy, emeritus professor at Jawaharlal Nehru University, adding that he expected Netanyahu to maintain his current approach on Iran and Gaza for now.
+Israeli assets have come under pressure this week with the shekel sustaining the worst intraday decline since 2023 on Wednesday before regaining ground. Tel Aviv's key benchmark stock index dropped 4.1% for the week as of Friday morning, according to LSEG data.
+"We expect some near-term volatility for Israeli assets until a new government is formed and decides on fiscal consolidation and war-related spending," said Eirini Tsekeridou, a fixed-income analyst at Julius Baer. She added that Israel's economic fundamentals and monetary policy should provide support.
+What happens next?
+President Herzog will begin consulting with the competing parties next week and name the leader he believes has the best chance of forming a majority government.
+Netanyahu may get the first call to kick off the 28-day process to build a coalition that can be extended by up to 14 day.
+If those efforts fail, new elections will be called with Netanyahu remaining in office in the interim. The previous government-formation efforts have taken between 20 and 100 days, according to the Israel Democracy Institute.
+Netanyahu could also push for a national unity government, arguing that the country should come together as it faces conflict on several fronts, though many of his opponents have ruled out such an arrangement.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html",
+    publishedAt: "2026-10-30T03:28:10+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "what-gave-this-city-its-best-place-to-re-e034d767",
+    title: "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
+    titleJa: "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
+    summaryJa: "Low cost of living, high quality of life and favorable taxes for retirees, for the win.",
+    bodyOriginal: `Low cost of living, high quality of life and favorable taxes for retirees, for the win.`,
+    bodyJa: `Low cost of living, high quality of life and favorable taxes for retirees, for the win.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+    publishedAt: "2026-10-30T03:16:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-51699751",
+    readTime: 2,
+  },
+  {
+    id: "amazon-s-stock-drops-even-in-the-face-of-5935702c",
+    title: "Amazon’s stock drops — even in the face of a bold new cloud forecast",
+    titleJa: "Amazon’s stock drops — even in the face of a bold new cloud forecast",
+    summaryJa: "Modest AWS results and weak advertising growth left Wall Street disappointed in Amazon’s third-quarter earnings",
+    bodyOriginal: `Modest AWS results and weak advertising growth left Wall Street disappointed in Amazon’s third-quarter earnings`,
+    bodyJa: `Modest AWS results and weak advertising growth left Wall Street disappointed in Amazon’s third-quarter earnings`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
+    publishedAt: "2026-10-30T00:15:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-49250014",
+    readTime: 2,
+  },
+  {
+    id: "a-starbucks-turnaround-is-brewing-but-pe-2d6176f3",
+    title: "A Starbucks turnaround is brewing — but perhaps not quickly enough for investors",
+    titleJa: "A Starbucks turnaround is brewing — but perhaps not quickly enough for investors",
+    summaryJa: "The coffee chain beat expectations on a key sales metric, but its stock was still moving lower.",
+    bodyOriginal: `The coffee chain beat expectations on a key sales metric, but its stock was still moving lower.`,
+    bodyJa: `The coffee chain beat expectations on a key sales metric, but its stock was still moving lower.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
+    publishedAt: "2026-10-30T00:14:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-01171452",
+    readTime: 2,
+  },
+  {
+    id: "how-elections-worldwide-are-testing-trum-cd9b4cad",
+    title: "How elections worldwide are testing Trump’s influence abroad",
+    titleJa: "How elections worldwide are testing Trump’s influence abroad",
+    summaryJa: "Recent election losses by leaders linked to Trump have prompted questions about whether his influence over the global right is weakening.",
+    bodyOriginal: `In August, President Donald Trump claimed that 97% of Republican candidates he backed had won their primary races.
+And it's true that Trump has shown an ability to influence races particularly in Republican primaries, picking off politicians he didn't like such as Sen. John Cornyn, R-Texas, and Rep. Thomas Massie, R-Ky.
+But while he hasn't shied away from expressing his opinions on foreign leaders, his influence over other countries' elections is proving less strong.
+Brazilian President Luiz Inácio Lula da Silva won reelection on Sunday, defeating Trump-aligned Flávio Bolsonaro, whose father Jair had also been a Trump ally.
+Also last weekend, a student-led movement in Serbia defeated the ruling party of Aleksandar Vucic, a populist leader who had cultivated ties with Trump and his circle. Vucic had served as Serbia's president from 2017, and as prime minister from 2014 to 2017.
+During his concession speech, Vucic said that the loss was due to a "legitimization of a revolution carried out by the people with direct support from various European countries and the American deep state, the one that opposes President Trump."
+Earlier this year, Vice President JD Vance had visited Hungary for two days and publicly backed then-Prime Minister Viktor Orban. However, Orban, who is also a staunch ally and endorsed by Trump, lost that election and was ejected from office after 16 years.
+In October, Trump also endorsed Israeli Prime Minister Benjamin Netanyahu for reelection. While the results of the Oct. 27 election are not finalized yet, the Associated Press said that Netanhayu's Likud party had appeared to lose its majority in the country's parliament.
+Still, Trump's influence on any one global election remains variable, experts said.
+"Elections are always national first and regional or global a very distant second," Cas Mudde, professor of international affairs at the University of Georgia, told CNBC.
+Furthermore, it is also not clear that Trump ever had a great influence over far-right actors elsewhere, said Stijn van Kessel, professor of comparative politics at Queen Mary University of London.
+"Far-right parties and politicians like to celebrate each others' victories as it allows them to portray themselves as part of a successful global movement," he said, adding that those relationships can sour quickly when national interests collide and the foreign partner turns toxic in the eyes of the domestic electorate.
+Van Kessel pointed to the fallout between Trump and Italian Prime Minister Giorgia Meloni earlier this year, which stemmed from Italy's refusal to allow U.S. aircraft to use one of the NATO airbases for its war on Iran.
+Trump later claimed that Meloni "begged" him for a photo at the G7 summit, a claim that sparked a denial from Meloni.
+Right wing strength
+Still, right-wing movements remain strong in numerous places globally. In France, Marine Le Pen is currently the frontrunner to succeed President Emmanuel Macron, according to a compilation of polls by Politico. However, historically she has often started out leading a crowded field of hopefuls before support consolidates around a more moderate candidate.
+In Germany, the far-right Alternative fur Deutschland, or AfD party won 20.8% of the vote in the country's February 2025 federal election, making it the country's largest opposition party. Trump ally Javier Milei leads Argentina, and Colombia's new President Abelardo de la Espriella was elected on a far-right platform.
+Still, Mudde noted that most far-right leaders disassociate themselves from Trump when he becomes more unpopular in their country. Trump's poll numbers remain near a record low even in the U.S. over issues including the Iran war and the cost of living as energy prices soar.
+"Voters are willing to give anyone a shot when they are economically frustrated, but when those experiments fail, they move on to something else," said David Barker, a professor of government at American University in Washington, D.C. At this point, Trump "undermines his allies' ability to maintain support."`,
+    bodyJa: `In August, President Donald Trump claimed that 97% of Republican candidates he backed had won their primary races.
+And it's true that Trump has shown an ability to influence races particularly in Republican primaries, picking off politicians he didn't like such as Sen. John Cornyn, R-Texas, and Rep. Thomas Massie, R-Ky.
+But while he hasn't shied away from expressing his opinions on foreign leaders, his influence over other countries' elections is proving less strong.
+Brazilian President Luiz Inácio Lula da Silva won reelection on Sunday, defeating Trump-aligned Flávio Bolsonaro, whose father Jair had also been a Trump ally.
+Also last weekend, a student-led movement in Serbia defeated the ruling party of Aleksandar Vucic, a populist leader who had cultivated ties with Trump and his circle. Vucic had served as Serbia's president from 2017, and as prime minister from 2014 to 2017.
+During his concession speech, Vucic said that the loss was due to a "legitimization of a revolution carried out by the people with direct support from various European countries and the American deep state, the one that opposes President Trump."
+Earlier this year, Vice President JD Vance had visited Hungary for two days and publicly backed then-Prime Minister Viktor Orban. However, Orban, who is also a staunch ally and endorsed by Trump, lost that election and was ejected from office after 16 years.
+In October, Trump also endorsed Israeli Prime Minister Benjamin Netanyahu for reelection. While the results of the Oct. 27 election are not finalized yet, the Associated Press said that Netanhayu's Likud party had appeared to lose its majority in the country's parliament.
+Still, Trump's influence on any one global election remains variable, experts said.
+"Elections are always national first and regional or global a very distant second," Cas Mudde, professor of international affairs at the University of Georgia, told CNBC.
+Furthermore, it is also not clear that Trump ever had a great influence over far-right actors elsewhere, said Stijn van Kessel, professor of comparative politics at Queen Mary University of London.
+"Far-right parties and politicians like to celebrate each others' victories as it allows them to portray themselves as part of a successful global movement," he said, adding that those relationships can sour quickly when national interests collide and the foreign partner turns toxic in the eyes of the domestic electorate.
+Van Kessel pointed to the fallout between Trump and Italian Prime Minister Giorgia Meloni earlier this year, which stemmed from Italy's refusal to allow U.S. aircraft to use one of the NATO airbases for its war on Iran.
+Trump later claimed that Meloni "begged" him for a photo at the G7 summit, a claim that sparked a denial from Meloni.
+Right wing strength
+Still, right-wing movements remain strong in numerous places globally. In France, Marine Le Pen is currently the frontrunner to succeed President Emmanuel Macron, according to a compilation of polls by Politico. However, historically she has often started out leading a crowded field of hopefuls before support consolidates around a more moderate candidate.
+In Germany, the far-right Alternative fur Deutschland, or AfD party won 20.8% of the vote in the country's February 2025 federal election, making it the country's largest opposition party. Trump ally Javier Milei leads Argentina, and Colombia's new President Abelardo de la Espriella was elected on a far-right platform.
+Still, Mudde noted that most far-right leaders disassociate themselves from Trump when he becomes more unpopular in their country. Trump's poll numbers remain near a record low even in the U.S. over issues including the Iran war and the cost of living as energy prices soar.
+"Voters are willing to give anyone a shot when they are economically frustrated, but when those experiments fail, they move on to something else," said David Barker, a professor of government at American University in Washington, D.C. At this point, Trump "undermines his allies' ability to maintain support."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/30/election-trump-brazil-serbia-hungary.html",
+    publishedAt: "2026-10-30T00:13:22+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "from-workshops-to-the-catwalk-why-mended-c1508bc8",
+    title: "From workshops to the catwalk - why mended clothes are going mainstream",
+    titleJa: "From workshops to the catwalk - why mended clothes are going mainstream",
+    summaryJa: "From workshops to the catwalk - why mended clothes are going mainstream- Published",
+    bodyOriginal: `From workshops to the catwalk - why mended clothes are going mainstream
+- Published
+If Alice Brown is browsing in second-hand shops and finds a jumper with a hole, that won't stop her buying it.
+"I see it as challenge," says the 27-year-old forest ranger from Lincolnshire.
+She is a champion of the growing fashion for eye-catching repairs.
+Over the last year she has developed her own unique style, needle-felting cute animals and insects to cover moth holes, stains and other imperfections, winning her a huge following online.
+"The natural place for decoration is in the centre at the front. If the hole is under the arm or on the shoulder, it forces you to think about the design," she says.
+Often dubbed "visible mending" the trend is spreading from hobby crafters and community workshops, even drawing in fast-fashion brands and reaching the designer catwalks this year.
+At one Saturday morning workshop in Brighton, Jayne Eagle shows her students how to attach a patch of fabric behind a tear so the cat-face design peeps through.
+Then she instructs them in stitching techniques inspired by the traditional Japanese methods Boro and Sashiko. Instead of matching the thread colour to the garment, they make the mend highly decorative using geometric patterns in large white stitching.
+She also offers classes in darning using contrasting vibrant colours that celebrate, rather than disguise, the repair.
+One student, Nicola, has already used her newfound skills to stitch over sunscreen marks on a T-shirt "making a feature of it" and is now delighted that people "stop seeing the stains and just see the decoration".
+Another student, Lisa, says her mother's generation would never have wanted the mends to show. "Now part of it is being proud of what you've done," she says.
+Lisa bought a second-hand jacket online, but snipped the fabric with the scissors when she was opening the package. She managed to patch it in a way that "looks intentional".
+"I was actually pointing it out to people," she laughs.
+In the past mending was primarily about saving money, by wearing clothes for longer, rather than buying new. But visible mending is about celebrating that choice.
+The trend took off about six years ago, Jayne says, and has boomed since.
+An era of "throwaway" fast fashion from the 1980s onwards undermined the tradition of looking after and mending your clothes and people lost the skills, she says.
+The revival of interest feels to her like a backlash against overproduction in the fashion industry and the damage it causes: the pollution, carbon emissions, water use, and poor labour conditions.
+So perhaps it is surprising just how popular mended style is proving among retailers, with brands from Ralph Lauren to ultra-fast-fashion firm Shein currently selling stitched and patched garments, albeit in both of those cases brand new off the peg.
+Other High Street chains are adopting a more authentic approach, offering in-house repairs and workshops.
+"We want to give customers practical ways to extend the life of the clothes they already love, rather than simply replacing them," says Uniqlo's head of sustainability, Maria Ledous.
+Primark, often seen as a fast-fashion retailer due to its lower prices, has also joined the trend.
+"We don't think that affordability and durability should be opposites," says Vicki Swain, the brand's longevity lead.
+Outdoor brand Finisterre says around a fifth of the mends it provides for customers are designed to be eye-catching, while premium artisan clothing store Toast says around a third of customers go for that option.
+Part of the "magic" is that customers can bring in a garment and "choose what they'd like it to become next", says Toast chief executive Suzie de Rohan Willner.
+Toast's repair services are free, but off-the-peg "renewed" pieces fetch higher prices than the originals to reflect their unique character.
+Levi's, which boasts probably the longest tradition of being fixed up by its fans using anything from rhinestones to fringed cuffs, is rolling out a workshop programme this year.
+The firm says its research shows younger customers in particular want to repair more but don't know how.
+For now, Levi's' workshops focus on traditional mending skills, such as sewing on a button and hemming, rather than visible mends, and at a recent launch event in London, that seemed to be what its Gen Z participants were looking for.
+"I'm from East London. If you have holes in your clothes people are like 'Ha ha! You're poor!'," says 16-year-old school student Bianca.
+Theo, 19, says he'd rather learn how to mend without it showing.
+"I would want [the jeans] to look how I originally bought them," he says.
+He has a side hustle selling clothes at car boot sales and thinks traditional repair skills would make it more lucrative.
+His friend Nicholas, also 19, says most people want to look "fresh".
+"No-one wants to look like they came out of a dumpster," he says.
+Still, Paul Dillinger, Levi's head of global design innovation, thinks more creative repairs will win them over as they pick up more skills.
+"No-one has time for that perfect 'straight from the shop' thing. That's not cool.
+"People crave agency," he says. "Mending is a demonstration of humanity: it's not a mustard stain, it's a memory of a great day in the ballpark."`,
+    bodyJa: `From workshops to the catwalk - why mended clothes are going mainstream
+- Published
+If Alice Brown is browsing in second-hand shops and finds a jumper with a hole, that won't stop her buying it.
+"I see it as challenge," says the 27-year-old forest ranger from Lincolnshire.
+She is a champion of the growing fashion for eye-catching repairs.
+Over the last year she has developed her own unique style, needle-felting cute animals and insects to cover moth holes, stains and other imperfections, winning her a huge following online.
+"The natural place for decoration is in the centre at the front. If the hole is under the arm or on the shoulder, it forces you to think about the design," she says.
+Often dubbed "visible mending" the trend is spreading from hobby crafters and community workshops, even drawing in fast-fashion brands and reaching the designer catwalks this year.
+At one Saturday morning workshop in Brighton, Jayne Eagle shows her students how to attach a patch of fabric behind a tear so the cat-face design peeps through.
+Then she instructs them in stitching techniques inspired by the traditional Japanese methods Boro and Sashiko. Instead of matching the thread colour to the garment, they make the mend highly decorative using geometric patterns in large white stitching.
+She also offers classes in darning using contrasting vibrant colours that celebrate, rather than disguise, the repair.
+One student, Nicola, has already used her newfound skills to stitch over sunscreen marks on a T-shirt "making a feature of it" and is now delighted that people "stop seeing the stains and just see the decoration".
+Another student, Lisa, says her mother's generation would never have wanted the mends to show. "Now part of it is being proud of what you've done," she says.
+Lisa bought a second-hand jacket online, but snipped the fabric with the scissors when she was opening the package. She managed to patch it in a way that "looks intentional".
+"I was actually pointing it out to people," she laughs.
+In the past mending was primarily about saving money, by wearing clothes for longer, rather than buying new. But visible mending is about celebrating that choice.
+The trend took off about six years ago, Jayne says, and has boomed since.
+An era of "throwaway" fast fashion from the 1980s onwards undermined the tradition of looking after and mending your clothes and people lost the skills, she says.
+The revival of interest feels to her like a backlash against overproduction in the fashion industry and the damage it causes: the pollution, carbon emissions, water use, and poor labour conditions.
+So perhaps it is surprising just how popular mended style is proving among retailers, with brands from Ralph Lauren to ultra-fast-fashion firm Shein currently selling stitched and patched garments, albeit in both of those cases brand new off the peg.
+Other High Street chains are adopting a more authentic approach, offering in-house repairs and workshops.
+"We want to give customers practical ways to extend the life of the clothes they already love, rather than simply replacing them," says Uniqlo's head of sustainability, Maria Ledous.
+Primark, often seen as a fast-fashion retailer due to its lower prices, has also joined the trend.
+"We don't think that affordability and durability should be opposites," says Vicki Swain, the brand's longevity lead.
+Outdoor brand Finisterre says around a fifth of the mends it provides for customers are designed to be eye-catching, while premium artisan clothing store Toast says around a third of customers go for that option.
+Part of the "magic" is that customers can bring in a garment and "choose what they'd like it to become next", says Toast chief executive Suzie de Rohan Willner.
+Toast's repair services are free, but off-the-peg "renewed" pieces fetch higher prices than the originals to reflect their unique character.
+Levi's, which boasts probably the longest tradition of being fixed up by its fans using anything from rhinestones to fringed cuffs, is rolling out a workshop programme this year.
+The firm says its research shows younger customers in particular want to repair more but don't know how.
+For now, Levi's' workshops focus on traditional mending skills, such as sewing on a button and hemming, rather than visible mends, and at a recent launch event in London, that seemed to be what its Gen Z participants were looking for.
+"I'm from East London. If you have holes in your clothes people are like 'Ha ha! You're poor!'," says 16-year-old school student Bianca.
+Theo, 19, says he'd rather learn how to mend without it showing.
+"I would want [the jeans] to look how I originally bought them," he says.
+He has a side hustle selling clothes at car boot sales and thinks traditional repair skills would make it more lucrative.
+His friend Nicholas, also 19, says most people want to look "fresh".
+"No-one wants to look like they came out of a dumpster," he says.
+Still, Paul Dillinger, Levi's head of global design innovation, thinks more creative repairs will win them over as they pick up more skills.
+"No-one has time for that perfect 'straight from the shop' thing. That's not cool.
+"People crave agency," he says. "Mending is a demonstration of humanity: it's not a mustard stain, it's a memory of a great day in the ballpark."`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-30T00:00:35+00:00",
+    category: "自動車",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04bf/live/f3978b70-d08c-11f1-a701-fddedf244c16.jpg",
+    readTime: 10,
+  },
+  {
     id: "circle-tether-freeze-funds-impacted-by-p-e76b98b9",
     title: "Circle, Tether freeze funds impacted by potential Binance 'security issue'",
     titleJa: "Circle, Tether freeze funds impacted by potential Binance 'security issue'",
@@ -2064,380 +2420,6 @@ The prime minister's plan to reinstate the £2 cap on bus fares in England from 
     publishedAt: "2026-10-28T16:43:35+00:00",
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5846/live/65892820-d2e4-11f1-8d3a-ef62f316044e.jpg",
-    readTime: 10,
-  },
-  {
-    id: "google-alters-its-cloud-playbook-enlisti-832c99b5",
-    title: "Google alters its cloud playbook, enlisting partners to sell more AI chips",
-    titleJa: "Google alters its cloud playbook, enlisting partners to sell more AI chips",
-    summaryJa: "Google is opening its TPU business beyond its own cloud as custom chips become a bigger engine for growth.",
-    bodyOriginal: `Google has spent years pitching customers on the advantage of buying its chips, models and cloud services in one place, offering a full stack that rivals Amazon and Microsoft have tried to replicate.
-Now, the company is pushing its equipment outside of its own walls to reach more customers and build a bigger business around artificial intelligence chips, a market that Nvidia has dominated.
-A day ahead of its third-quarter earnings report, Alphabet said on Tuesday that Oracle will offer Google's tensor processing units, or TPUs, the custom chips the internet giant has been developing since 2013. It's the first time customers will be able to access TPUs outside of Google's infrastructure, and shows that cloud boss Thomas Kurian, who previously spent more than 20 years at Oracle, is looking elsewhere for growth.
-"They're a very strong competitor, and it's very possible that they could eventually take market share from Nvidia," said Chris Ballard, managing director of Check Capital Management, referring to Google's position in chips.
-Kurian, who joined Google in late 2018, is operating from a position of strength. Analysts expect Google Cloud revenue to jump about 90% from a year earlier, after growing 82% in the second quarter, with TPUs contributing to its momentum.
-"Google was great at doing its own thing, but it was never able to serve customers," said Uday Cheruvu, a portfolio manager at Harding Loevner, which owns Alphabet shares. "That mindset has changed."
-Google opened up TPUs to outside data centers in the second quarter, before this week's announcement with Oracle.
-Estimates for the TPU business vary widely, but they all point to significant growth. TD Cowen models $9.4 billion in TPU sales for the second half of this year and $62.5 billion for 2027. Wells Fargo expects about $9 billion in third-quarter sales and $99 billion next year.
-CFO Anat Ashkenazi said on the last earnings call in July that only a small portion of TPU revenue from existing agreements will be recognized this year, with the "vast majority" coming in 2027. She also said Google planned to use more outside capacity in the third quarter while the company builds out its own infrastructure.
-With $25 billion in second-quarter cloud revenue, Google trailed Amazon Web Services at $42 billion and Microsoft Azure at $29 billion.
-But Google is growing the fastest.
-"It's almost like the bigger the pie is getting, the faster they're accelerating into it," said Ballard, whose firm owned about $236 million in Alphabet stock as of June 30.
-'Optimize the whole stack'
-While Kurian aims to get more TPUs into the market by turning to outside partners, he has to balance the benefits of building the customer base with his company's own technology needs.
-At a Goldman Sachs conference in September, Kurian said Google's AI servers pay for themselves in under two years, and servers running its own silicon reach payback in roughly half that time.
-"It's because we can optimize that whole stack," Kurian said.
-Industry research SemiAnalysis estimates that Google's latest Ironwood TPU costs about 44% less to own and operate than an Nvidia GB200 server.
-There's also the margin hit that comes with external TPU sales. TD Cowen estimates a 20% operating margin on TPU sales, compared with an overall cloud margin of about 35% last quarter. Cheruvu said he doesn't think Google's cloud operating margin could widen much beyond the mid-30s.
-Google declined comment.
-Google's biggest TPU customer is one of its top AI competitors.
-Anthropic, whose Claude models compete with Gemini, agreed last October to use up to 1 million TPUs in a deal worth tens of billions of dollars. Mizuho says that agreement brings nearly a gigawatt of capacity online this year and describes the relationship as Google "arming its closest model competitor."
-OpenAI is also planning to buy TPUs from Google, CNBC confirmed after The Information first reported on the ChatGPT maker's intentions on Tuesday.
-Anthropic is getting outside help to finance its Google silicon. This week, Broadcom, which works with Google on TPUs, detailed a $63 billion vehicle backed by Blackstone and three big banks that will buy TPUs and networking gear from Broadcom and lease them to Anthropic for five years. According to analysts from William Blair, the financing plan covers about half of Anthropic's 2027 needs, which suggests more financing is coming.
-In its IPO filing on Monday, Anthropic said it uses silicon from Google, Amazon, Nvidia and Advanced Micro Devices, allowing the company to "select chips based on the best price-performance and efficiency characteristics for each workload."
-Regarding Google and Broadcom, Anthropic said the partnerships "provide us with access to compute capacity powered by Google TPUs across multiple generations of the TPU platform."
-WATCH: Gemini product chief details weeks of company-wide testing ahead of Gemini 4 Argon launch`,
-    bodyJa: `Google has spent years pitching customers on the advantage of buying its chips, models and cloud services in one place, offering a full stack that rivals Amazon and Microsoft have tried to replicate.
-Now, the company is pushing its equipment outside of its own walls to reach more customers and build a bigger business around artificial intelligence chips, a market that Nvidia has dominated.
-A day ahead of its third-quarter earnings report, Alphabet said on Tuesday that Oracle will offer Google's tensor processing units, or TPUs, the custom chips the internet giant has been developing since 2013. It's the first time customers will be able to access TPUs outside of Google's infrastructure, and shows that cloud boss Thomas Kurian, who previously spent more than 20 years at Oracle, is looking elsewhere for growth.
-"They're a very strong competitor, and it's very possible that they could eventually take market share from Nvidia," said Chris Ballard, managing director of Check Capital Management, referring to Google's position in chips.
-Kurian, who joined Google in late 2018, is operating from a position of strength. Analysts expect Google Cloud revenue to jump about 90% from a year earlier, after growing 82% in the second quarter, with TPUs contributing to its momentum.
-"Google was great at doing its own thing, but it was never able to serve customers," said Uday Cheruvu, a portfolio manager at Harding Loevner, which owns Alphabet shares. "That mindset has changed."
-Google opened up TPUs to outside data centers in the second quarter, before this week's announcement with Oracle.
-Estimates for the TPU business vary widely, but they all point to significant growth. TD Cowen models $9.4 billion in TPU sales for the second half of this year and $62.5 billion for 2027. Wells Fargo expects about $9 billion in third-quarter sales and $99 billion next year.
-CFO Anat Ashkenazi said on the last earnings call in July that only a small portion of TPU revenue from existing agreements will be recognized this year, with the "vast majority" coming in 2027. She also said Google planned to use more outside capacity in the third quarter while the company builds out its own infrastructure.
-With $25 billion in second-quarter cloud revenue, Google trailed Amazon Web Services at $42 billion and Microsoft Azure at $29 billion.
-But Google is growing the fastest.
-"It's almost like the bigger the pie is getting, the faster they're accelerating into it," said Ballard, whose firm owned about $236 million in Alphabet stock as of June 30.
-'Optimize the whole stack'
-While Kurian aims to get more TPUs into the market by turning to outside partners, he has to balance the benefits of building the customer base with his company's own technology needs.
-At a Goldman Sachs conference in September, Kurian said Google's AI servers pay for themselves in under two years, and servers running its own silicon reach payback in roughly half that time.
-"It's because we can optimize that whole stack," Kurian said.
-Industry research SemiAnalysis estimates that Google's latest Ironwood TPU costs about 44% less to own and operate than an Nvidia GB200 server.
-There's also the margin hit that comes with external TPU sales. TD Cowen estimates a 20% operating margin on TPU sales, compared with an overall cloud margin of about 35% last quarter. Cheruvu said he doesn't think Google's cloud operating margin could widen much beyond the mid-30s.
-Google declined comment.
-Google's biggest TPU customer is one of its top AI competitors.
-Anthropic, whose Claude models compete with Gemini, agreed last October to use up to 1 million TPUs in a deal worth tens of billions of dollars. Mizuho says that agreement brings nearly a gigawatt of capacity online this year and describes the relationship as Google "arming its closest model competitor."
-OpenAI is also planning to buy TPUs from Google, CNBC confirmed after The Information first reported on the ChatGPT maker's intentions on Tuesday.
-Anthropic is getting outside help to finance its Google silicon. This week, Broadcom, which works with Google on TPUs, detailed a $63 billion vehicle backed by Blackstone and three big banks that will buy TPUs and networking gear from Broadcom and lease them to Anthropic for five years. According to analysts from William Blair, the financing plan covers about half of Anthropic's 2027 needs, which suggests more financing is coming.
-In its IPO filing on Monday, Anthropic said it uses silicon from Google, Amazon, Nvidia and Advanced Micro Devices, allowing the company to "select chips based on the best price-performance and efficiency characteristics for each workload."
-Regarding Google and Broadcom, Anthropic said the partnerships "provide us with access to compute capacity powered by Google TPUs across multiple generations of the TPU platform."
-WATCH: Gemini product chief details weeks of company-wide testing ahead of Gemini 4 Argon launch`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html",
-    publishedAt: "2026-10-28T12:37:51+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "my-wife-cried-when-i-found-out-she-had-o-7376d159",
-    title: "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-    titleJa: "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-    summaryJa: "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
-    bodyOriginal: `“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”`,
-    bodyJa: `“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-    publishedAt: "2026-10-28T12:30:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-19916000",
-    readTime: 2,
-  },
-  {
-    id: "my-abusive-ex-husband-promised-20-000-fo-5f9214bf",
-    title: "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-    titleJa: "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-    summaryJa: "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
-    bodyOriginal: `“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”`,
-    bodyJa: `“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-    publishedAt: "2026-10-28T12:30:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-95596293",
-    readTime: 2,
-  },
-  {
-    id: "stellantis-reports-4-5-billion-cash-drai-95ff06cd",
-    title: "Stellantis reports $4.5 billion cash drain as massive turnaround plan continues",
-    titleJa: "Stellantis reports $4.5 billion cash drain as massive turnaround plan continues",
-    summaryJa: "European car giant Stellantis said Wednesday that it recorded a 4 billion euro ($4.5 billion) cash shortfall in the third quarter.",
-    bodyOriginal: `European car giant Stellantis reported a 4 billion euro ($4.5 billion) cash shortfall in the third quarter as it ploughed ahead with a $70 billion turnaround strategy to restore profitability.
-Third-quarter revenues rose 1% to 37.6 billion euros from a year ago, the Chrysler and Jeep owner said on Wednesday, while adjusted operating income rose 184% to 256 million euros from 90 million euros a year earlier.
-As the company made progress on its turnaround plan, its industrial free cash flow improved to negative 4 billion euros, up from negative 4.3 billion the year prior.
-"During the quarter, we continued to make progress in the early execution of our FaSTLAne 2030 plan, launching new products, accelerating partnerships as planned, and delivering meaningful improvements in manufacturing and quality," Stellantis CEO Antonio Filosa said in a press release.
-Wall Street reacted positively to the results as well as the company's ability to maintain its 2026 guidance as other European automakers struggle. Stellantis shares Wednesday were up roughly 6% in Milan as well as premarket trading in New York, but remain sharply down since the beginning of the year.
-Stellantis also reconfirmed its target to achieve positive free cash flow next year, which is a main focus for investors.
-"Q3 was soft, but consensus expectations were far lower. Key here is that '26 Guidance was maintained while other auto OEMs and suppliers are cutting on elevated costs," RBC Capital Markets analyst Tom Narayan said Wednesday in an investor note.
-Stellantis' 2026 guidance includes a mid-single-digit percentage increase in net revenue and a low-single-digit adjusted operating margin.
-The third-quarter results came as the transatlantic company continues to implement a 60 billion euro turnaround strategy after years of sales declines, especially in North America.
-The plan includes investing 36 billion euros in its portfolio of automotive brands, with 60% of the cash to go towards its struggling North America sector. It also plans to introduce new vehicles, refresh models, and incorporate new technologies in its products.
-China competition
-European carmakers, including Stellantis, have been struggling in China as domestic brands like Xiaomi, BYD and Geely gain ground and intensify competition.
-Just this week, German luxury carmaker Porsche said it would reduce its exposure to China as car sales decline in the region. Meanwhile, Mercedes-Benz said its third-quarter car sales slumped due to a "challenging market environment," in the country.
-Earlier this month, Filosa told CNBC that European regulators need to do more to incentivize carmakers to manufacture vehicles in the region to fend off Chinese rivals.
-Filosa called for regulation that "incentivizes, rewards, and protects the ones that are able to demonstrate that they design cars, engineer cars."`,
-    bodyJa: `European car giant Stellantis reported a 4 billion euro ($4.5 billion) cash shortfall in the third quarter as it ploughed ahead with a $70 billion turnaround strategy to restore profitability.
-Third-quarter revenues rose 1% to 37.6 billion euros from a year ago, the Chrysler and Jeep owner said on Wednesday, while adjusted operating income rose 184% to 256 million euros from 90 million euros a year earlier.
-As the company made progress on its turnaround plan, its industrial free cash flow improved to negative 4 billion euros, up from negative 4.3 billion the year prior.
-"During the quarter, we continued to make progress in the early execution of our FaSTLAne 2030 plan, launching new products, accelerating partnerships as planned, and delivering meaningful improvements in manufacturing and quality," Stellantis CEO Antonio Filosa said in a press release.
-Wall Street reacted positively to the results as well as the company's ability to maintain its 2026 guidance as other European automakers struggle. Stellantis shares Wednesday were up roughly 6% in Milan as well as premarket trading in New York, but remain sharply down since the beginning of the year.
-Stellantis also reconfirmed its target to achieve positive free cash flow next year, which is a main focus for investors.
-"Q3 was soft, but consensus expectations were far lower. Key here is that '26 Guidance was maintained while other auto OEMs and suppliers are cutting on elevated costs," RBC Capital Markets analyst Tom Narayan said Wednesday in an investor note.
-Stellantis' 2026 guidance includes a mid-single-digit percentage increase in net revenue and a low-single-digit adjusted operating margin.
-The third-quarter results came as the transatlantic company continues to implement a 60 billion euro turnaround strategy after years of sales declines, especially in North America.
-The plan includes investing 36 billion euros in its portfolio of automotive brands, with 60% of the cash to go towards its struggling North America sector. It also plans to introduce new vehicles, refresh models, and incorporate new technologies in its products.
-China competition
-European carmakers, including Stellantis, have been struggling in China as domestic brands like Xiaomi, BYD and Geely gain ground and intensify competition.
-Just this week, German luxury carmaker Porsche said it would reduce its exposure to China as car sales decline in the region. Meanwhile, Mercedes-Benz said its third-quarter car sales slumped due to a "challenging market environment," in the country.
-Earlier this month, Filosa told CNBC that European regulators need to do more to incentivize carmakers to manufacture vehicles in the region to fend off Chinese rivals.
-Filosa called for regulation that "incentivizes, rewards, and protects the ones that are able to demonstrate that they design cars, engineer cars."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html",
-    publishedAt: "2026-10-28T11:45:16+00:00",
-    category: "自動車",
-    imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "at-least-30-people-reported-dead-in-high-a7a338df",
-    title: "At least 30 people reported dead in high-speed Spain train crash",
-    titleJa: "At least 30 people reported dead in high-speed Spain train crash",
-    summaryJa: "At least 30 people are reported to have been killed in a collision between two trains in the Spanish province of Toledo.The high-speed trains collided shortly before 9:15 a.m. local time (4:15 a.m. ET), when emergency services were deployed to the scene. It occurred on the Madrid to Seville line, with a stationary vehicle reportedly being hit by the other at a speed of over 100 kilometers per hour (62 miles per hour).",
-    bodyOriginal: `At least 30 people are reported to have been killed in a collision between two trains in the Spanish province of Toledo.
-The high-speed trains collided shortly before 9:15 a.m. local time (4:15 a.m. ET), when emergency services were deployed to the scene. It occurred on the Madrid to Seville line, with a stationary vehicle reportedly being hit by the other at a speed of over 100 kilometers per hour (62 miles per hour).
-Authorities said they would open a local sports hall to provide assistance to those affected, with an Advanced Medical Post being set up at the site of the crash to triage the injured, provide medical care and transfer those requiring further treatment to hospitals. It is currently unclear how many people suffered injuries.
-Railway infrastructure manager Adif is investigating the sequence of events surrounding the accident, Spanish news agency EFE reported on Wednesday.
-Adif said in a post on X on Wednesday morning that traffic on the Madrid to Andalucía high-speed line had been interrupted.
-Newspaper El Pais reported that officials fear the number of confirmed fatalities may rise, with sources telling the outlet that the collision could have a worse outcome than a high-speed crash in southern Spain that killed 45 people earlier this year.
-"We don't have a figure, but it's going to be a major tragedy," Spain's Health Minister Mónica García told a television news station, according to El Pais.
-Officials currently do not know for certain what caused the collision, but local reports said initial analyses pointed to human error. Government sources told El Pais that it appeared an Adif operator made a mistake when railway signaling systems failed. The systems are automated, but they rely on manual operation when signals fail.
-The trains were operated by AVE and Iryo, according to local media, with at least two carriages said to have fallen down an embankment after the crash. More than 500 passengers were on board the two trains, El Pais said.
-Spanish Prime Minister Pedro Sanchez said in a post on X that he was "shocked" by the accident.
-"Emergency services are working on the ground to assist those affected and ensure their safety, in coordination with all the involved administrations," he said, according to a translation. "My affection, solidarity, and support to all the victims and their families."
-Sanchez's political future will be tested in a snap election next month, which he called following widespread unrest over Spain's housing crisis.
-Santiago Abascal, leader of the far-right Vox party — which is expected to make gains when Spain goes to the polls — pointed the finger at Sanchez's government over the train accident on Wednesday.
-"Tragedy again. Rage again over the neglect, the ruin, and the betrayal suffered by the Spanish people," he said in a post on X.
-— CNBC's Charlotte Reed contributed to this article.`,
-    bodyJa: `At least 30 people are reported to have been killed in a collision between two trains in the Spanish province of Toledo.
-The high-speed trains collided shortly before 9:15 a.m. local time (4:15 a.m. ET), when emergency services were deployed to the scene. It occurred on the Madrid to Seville line, with a stationary vehicle reportedly being hit by the other at a speed of over 100 kilometers per hour (62 miles per hour).
-Authorities said they would open a local sports hall to provide assistance to those affected, with an Advanced Medical Post being set up at the site of the crash to triage the injured, provide medical care and transfer those requiring further treatment to hospitals. It is currently unclear how many people suffered injuries.
-Railway infrastructure manager Adif is investigating the sequence of events surrounding the accident, Spanish news agency EFE reported on Wednesday.
-Adif said in a post on X on Wednesday morning that traffic on the Madrid to Andalucía high-speed line had been interrupted.
-Newspaper El Pais reported that officials fear the number of confirmed fatalities may rise, with sources telling the outlet that the collision could have a worse outcome than a high-speed crash in southern Spain that killed 45 people earlier this year.
-"We don't have a figure, but it's going to be a major tragedy," Spain's Health Minister Mónica García told a television news station, according to El Pais.
-Officials currently do not know for certain what caused the collision, but local reports said initial analyses pointed to human error. Government sources told El Pais that it appeared an Adif operator made a mistake when railway signaling systems failed. The systems are automated, but they rely on manual operation when signals fail.
-The trains were operated by AVE and Iryo, according to local media, with at least two carriages said to have fallen down an embankment after the crash. More than 500 passengers were on board the two trains, El Pais said.
-Spanish Prime Minister Pedro Sanchez said in a post on X that he was "shocked" by the accident.
-"Emergency services are working on the ground to assist those affected and ensure their safety, in coordination with all the involved administrations," he said, according to a translation. "My affection, solidarity, and support to all the victims and their families."
-Sanchez's political future will be tested in a snap election next month, which he called following widespread unrest over Spain's housing crisis.
-Santiago Abascal, leader of the far-right Vox party — which is expected to make gains when Spain goes to the polls — pointed the finger at Sanchez's government over the train accident on Wednesday.
-"Tragedy again. Rage again over the neglect, the ruin, and the betrayal suffered by the Spanish people," he said in a post on X.
-— CNBC's Charlotte Reed contributed to this article.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/28/spain-high-speed-train-crash.html",
-    publishedAt: "2026-10-28T11:43:12+00:00",
-    category: "自動車",
-    imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "mortgage-rates-fell-for-the-second-strai-cf559242",
-    title: "Mortgage rates fell for the second straight week, but more borrowers still sought savings in riskier loans",
-    titleJa: "Mortgage rates fell for the second straight week, but more borrowers still sought savings in riskier loans",
-    summaryJa: "Mortgage rates have fallen over the past two weeks, but demand is only slightly higher, and more borrowers are looking for savings in riskier loans.",
-    bodyOriginal: `Mortgage rates fell for the second straight week, and that finally brought consumers back to their brokers. A growing share, however, applied for riskier loans at even lower rates.
-Total mortgage application volume rose 3.4% last week compared with the previous week, according to the Mortgage Bankers Association's seasonally adjusted index.
-The average contract interest rate for 30-year fixed-rate mortgages with conforming loan balances, $832,750 or less, decreased to 7.37% from 7.41%, with points increasing to 0.76 from 0.75, including the origination fee, for loans with a 20% down payment.
-"The decline in rates gave borrowers some relief, with applications rebounding slightly, particularly conventional applications," said Joel Kan, vice president and deputy chief economist at the MBA, in a release. "Mortgage rates are still more than a percentage point higher than the same week last year and most homeowners still have rates much lower than prevailing market rates."
-And that is why refinance is still running well behind where it was last year. Applications to refinance a home loan climbed 3% for the week but were 61% lower than the same week one year ago. About half of all borrowers today have a mortgage rate below 4%, according to data from the Federal Housing Finance Agency's National Mortgage Database.
-Applications for a mortgage to purchase a home rose 4% for the week but were still 18% lower than the same week one year ago. While mortgage rates have pulled back some in the last few weeks, they are still much higher than they were just a few months ago, and home prices are still rising. Potential homebuyers are also worried about the broader economy, and, anecdotally, some agents say buyers are waiting to see the results of the midterm elections.
-As borrowers search for savings, more are opting for adjustable-rate mortgages. The ARM share of applications increased to 11.3% last week, the highest level in more than a year. The average contract interest rate for 5/1 ARMs decreased to 6.41% from 6.46%. ARMs are considered riskier because they adjust to whatever the current market rate is at the end of their fixed term.
-Mortgage rates haven't moved at all to start this week, according to a separate survey from Mortgage News Daily. That is because there has not been much economic data for the bond market to react to. While the Federal Reserve is not expected to announce any change in its interest rate at Wednesday's meeting, markets could move on any commentary from Fed Chairman Kevin Warsh.`,
-    bodyJa: `Mortgage rates fell for the second straight week, and that finally brought consumers back to their brokers. A growing share, however, applied for riskier loans at even lower rates.
-Total mortgage application volume rose 3.4% last week compared with the previous week, according to the Mortgage Bankers Association's seasonally adjusted index.
-The average contract interest rate for 30-year fixed-rate mortgages with conforming loan balances, $832,750 or less, decreased to 7.37% from 7.41%, with points increasing to 0.76 from 0.75, including the origination fee, for loans with a 20% down payment.
-"The decline in rates gave borrowers some relief, with applications rebounding slightly, particularly conventional applications," said Joel Kan, vice president and deputy chief economist at the MBA, in a release. "Mortgage rates are still more than a percentage point higher than the same week last year and most homeowners still have rates much lower than prevailing market rates."
-And that is why refinance is still running well behind where it was last year. Applications to refinance a home loan climbed 3% for the week but were 61% lower than the same week one year ago. About half of all borrowers today have a mortgage rate below 4%, according to data from the Federal Housing Finance Agency's National Mortgage Database.
-Applications for a mortgage to purchase a home rose 4% for the week but were still 18% lower than the same week one year ago. While mortgage rates have pulled back some in the last few weeks, they are still much higher than they were just a few months ago, and home prices are still rising. Potential homebuyers are also worried about the broader economy, and, anecdotally, some agents say buyers are waiting to see the results of the midterm elections.
-As borrowers search for savings, more are opting for adjustable-rate mortgages. The ARM share of applications increased to 11.3% last week, the highest level in more than a year. The average contract interest rate for 5/1 ARMs decreased to 6.41% from 6.46%. ARMs are considered riskier because they adjust to whatever the current market rate is at the end of their fixed term.
-Mortgage rates haven't moved at all to start this week, according to a separate survey from Mortgage News Daily. That is because there has not been much economic data for the bond market to react to. While the Federal Reserve is not expected to announce any change in its interest rate at Wednesday's meeting, markets could move on any commentary from Fed Chairman Kevin Warsh.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/28/mortgage-rates-fell-for-the-second-straight-week.html",
-    publishedAt: "2026-10-28T11:33:43+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "you-may-get-the-right-to-find-out-what-y-cd629619",
-    title: "You may get the right to find out what your colleagues earn - here's why",
-    titleJa: "You may get the right to find out what your colleagues earn - here's why",
-    summaryJa: "Employees should legally be able to find out what their co-workers are earning, the UK's equality watchdog says",
-    bodyOriginal: `You may get the right to find out what your colleagues earn - here's why
-- Published
-Employees should legally be able to find out what their colleagues are earning, the UK's equality watchdog has said.
-Bosses should be required to respond to questionaires about colleagues' pay to cut pay discrimination, the Equality and Human Rights Commission (EHRC) has proposed, external.
-In addition, employers should be prevented from asking about current salary when offering a job to stop a history of discrimination from carrying on, it said.
-Employers in the UK are currently allowed to ask you how much you get paid in your current role, but applicants are under no obligation to tell them.
-At present, employers do not have to respond to employee requests for salary information about colleagues.
-The EHRC urged lawmakers to make it compulsory for employers to provide information including colleagues' basic pay and hours worked, how employees' pay compares with each other, and information about bonuses, overtime, shift-premiums and performance-related pay, within a specific timeframe.
-The rights watchdog argued that this would help cut pay discrimination, especially against women.
-Women would also benefit from employers publishing salary details in job adverts, the EHRC has said previously, external.
-The job interview question you don't have to answer
-- Published5 October
-John Kirkpatrick, the EHRC chief executive, told the BBC that employers should not be able to ask about salary history when setting pay.
-"When they do, what tends to happen is that can embed a history of disadvantage or discrimination in future salaries," he said.
-While employers should be able to offer a competitive salary, this should not "create a pattern that discriminates," he said.
-The Fawcett Society, which campaigns for women and gender equality, has previously said that asking the question risked maintaining historic unfair differences in pay due to gender, race and disability inequality.
-Rather than offering a salary based on skills, experience and performance, it meant employers rewarded an individual's perceived worth and negotiating skills instead, the society said.
-Get in touch
-Would you be comfortable with colleagues knowing your pay? How useful would it be?`,
-    bodyJa: `You may get the right to find out what your colleagues earn - here's why
-- Published
-Employees should legally be able to find out what their colleagues are earning, the UK's equality watchdog has said.
-Bosses should be required to respond to questionaires about colleagues' pay to cut pay discrimination, the Equality and Human Rights Commission (EHRC) has proposed, external.
-In addition, employers should be prevented from asking about current salary when offering a job to stop a history of discrimination from carrying on, it said.
-Employers in the UK are currently allowed to ask you how much you get paid in your current role, but applicants are under no obligation to tell them.
-At present, employers do not have to respond to employee requests for salary information about colleagues.
-The EHRC urged lawmakers to make it compulsory for employers to provide information including colleagues' basic pay and hours worked, how employees' pay compares with each other, and information about bonuses, overtime, shift-premiums and performance-related pay, within a specific timeframe.
-The rights watchdog argued that this would help cut pay discrimination, especially against women.
-Women would also benefit from employers publishing salary details in job adverts, the EHRC has said previously, external.
-The job interview question you don't have to answer
-- Published5 October
-John Kirkpatrick, the EHRC chief executive, told the BBC that employers should not be able to ask about salary history when setting pay.
-"When they do, what tends to happen is that can embed a history of disadvantage or discrimination in future salaries," he said.
-While employers should be able to offer a competitive salary, this should not "create a pattern that discriminates," he said.
-The Fawcett Society, which campaigns for women and gender equality, has previously said that asking the question risked maintaining historic unfair differences in pay due to gender, race and disability inequality.
-Rather than offering a salary based on skills, experience and performance, it meant employers rewarded an individual's perceived worth and negotiating skills instead, the society said.
-Get in touch
-Would you be comfortable with colleagues knowing your pay? How useful would it be?`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-28T10:42:39+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f46a/live/ff9b0180-d2b8-11f1-8cf0-c5d120932f9f.jpg",
-    readTime: 6,
-  },
-  {
-    id: "energy-bill-help-minimum-wage-rise-and-b-0be38d30",
-    title: "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
-    titleJa: "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
-    summaryJa: "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?- Published",
-    bodyOriginal: `Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?
-- Published
-Chancellor John Healey will set out Labour's tax and spending plans when he delivers his first Budget at around 12:30 on Wednesday.
-The speech, which usually lasts about an hour, will be broadcast live on BBC iPlayer and on the BBC News website.
-He and Prime Minister Andy Burnham are hoping to give households "breathing space" amid the ongoing high cost of living and they have already announced measures to change gas bills.
-But Healey has also refused to rule out some tax increases to potentially pay for support he could distribute elsewhere.
-The government has run an unusually tight ship, preventing policies leaking out ahead of time, but here are the key measures expected.
-Household energy bills are set to see their biggest rise in four years in January, with a typical annual bill forecast to jump by £276.
-Healey has announced that standing charges for household gas bills will be removed for about 23 million homes. These charges are fixed daily fees that are paid by households no matter how much gas they use, and average £108 a year.
-The government says energy regulator Ofgem will aim to deliver the removal of these charges in 2027 or "as soon as possible after".
-However, this will be offset by higher unit costs for gas. Overall the Treasury estimates that three-fifths of households will see an average saving of £45 a year. Lower gas users will save more but higher users will end up with bigger bills than they have now.
-The government also plans to remove tariffs from 100 food items, which it calculates could save households up to £21 per year - or 40p a week - when combined with existing tariff suspensions that were introduced in June.
-The BBC understands the chancellor will keep fuel duty frozen at the Budget and keep in place the 5p fuel duty cut introduced by Rishi Sunak in 2022, as first reported by The Sun, external.
-Household energy bills forecast to see biggest rise in four years
-- Published30 September
-The Budget will contain more details on Burnham's planned Your First Home scheme, aimed at helping first-time buyers in England to purchase a property.
-The scheme will allow people to buy a new-build home with a deposit of 2.5%. It would provide them with a loan worth 20% of their property's value to help pay for the purchase.
-The threshold for eligible buyers will be those with combined incomes of £110,000 outside London, and £140,000 in the capital.
-Burnham announces scheme to help first-time buyers onto housing ladder
-- Published27 September
-A minimum wage increase will be announced in the Budget, but 18- to 20-year-olds are set to see lower increases than in previous years, the BBC understands.
-Pay for younger workers will rise in line with the increase in minimum pay for employees aged 21 years and over.
-However, the increase for younger workers is lower than that seen in the previous two years, when Labour raised the rate to meet a manifesto promise that it would remove "discriminatory age bands" with all adults entitled to the same minimum wage.
-Minimum wage set to rise but 18-20 year-olds will not get bigger increase
-- Published21 hours ago
-Pensioners who only get an income from the state pension are expected to be shielded from paying income tax through a new personal allowance.
-But the full state pension is set to rise above the current £12,570 threshold, to £13,036.40 - which would force one million people to pay tax on it.
-In his Budget, Healey will explain how these pensioners will be exempted.
-State pension likely to top £13,000 a year as UK wage growth slows to 3.9%
-- Published15 September
-An easy target for a Labour chancellor, bank bosses are expecting Healey to raise the amount of tax they pay in order to offer support with energy bills and costs affecting households elsewhere.
-Top executives told the BBC they believe the chancellor could reverse a Conservative cut to the surcharge banks pay on their profits, which lowered it from 8% to 3%. Healey could also raise the levy banks pay on the size of their balance sheets.
-Banks expect to be hit with higher taxes in Budget
-- Published16 October
-Online retail giants such as Amazon and eBay are expected to be made responsible for collecting tax owed by traders using their platforms, according to The Times, external.
-The money raised is expected to be used by the government to cut business rates for High Street shops, by raising the threshold at which small companies start paying rates from £12,000 to £18,000.
-He is also planning support for small breweries.
-Healey has also said the government plans to slash "form-filling and pointless paperwork" to save UK businesses up to £800m. Ministers believe changes in regulations will reduce unnecessary bureaucracy for businesses.
-How is the economy doing?
-Healey has repeatedly praised the UK's resilience. The UK is the fastest growing G7 country so far this year, and performing better than expected in the face of energy price shocks caused by the US-Israel war with Iran.
-But UK growth is expected to slow in the months ahead as those costs continue to weigh on households and businesses.
-Prices for goods and services are still rising faster than wanted. Inflation hit 3.5% in the year to September, the highest rate since October 2025 and above the Bank of England's 2% target, driven by higher petrol and diesel prices.
-Healey's aim in the Budget is to give people "breathing space" to help them cope with the challenges ahead.
-What happens afterwards?
-When the chancellor sits down, the Office for Budget Responsibility (OBR) will publish economic forecasts for the next five years.
-It will set out whether the government is likely to meet the rules it has set for managing the public finances, and how the economy is expected to perform.
-Its judgement on the government's plans is keenly watched by financial markets and can have a significant impact on confidence, in turn affecting government borrowing costs.
-Leader of the Opposition Kemi Badenoch will respond to the speech in the House of Commons.
-MPs then debate the measures for three days before voting on them.
-If approved by MPs, tax changes can come into effect immediately.
-However, the government must pass a finance bill to make them permanent.
-Get in touch
-Do you have any views, comments or questions about this story?
-Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
-    bodyJa: `Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?
-- Published
-Chancellor John Healey will set out Labour's tax and spending plans when he delivers his first Budget at around 12:30 on Wednesday.
-The speech, which usually lasts about an hour, will be broadcast live on BBC iPlayer and on the BBC News website.
-He and Prime Minister Andy Burnham are hoping to give households "breathing space" amid the ongoing high cost of living and they have already announced measures to change gas bills.
-But Healey has also refused to rule out some tax increases to potentially pay for support he could distribute elsewhere.
-The government has run an unusually tight ship, preventing policies leaking out ahead of time, but here are the key measures expected.
-Household energy bills are set to see their biggest rise in four years in January, with a typical annual bill forecast to jump by £276.
-Healey has announced that standing charges for household gas bills will be removed for about 23 million homes. These charges are fixed daily fees that are paid by households no matter how much gas they use, and average £108 a year.
-The government says energy regulator Ofgem will aim to deliver the removal of these charges in 2027 or "as soon as possible after".
-However, this will be offset by higher unit costs for gas. Overall the Treasury estimates that three-fifths of households will see an average saving of £45 a year. Lower gas users will save more but higher users will end up with bigger bills than they have now.
-The government also plans to remove tariffs from 100 food items, which it calculates could save households up to £21 per year - or 40p a week - when combined with existing tariff suspensions that were introduced in June.
-The BBC understands the chancellor will keep fuel duty frozen at the Budget and keep in place the 5p fuel duty cut introduced by Rishi Sunak in 2022, as first reported by The Sun, external.
-Household energy bills forecast to see biggest rise in four years
-- Published30 September
-The Budget will contain more details on Burnham's planned Your First Home scheme, aimed at helping first-time buyers in England to purchase a property.
-The scheme will allow people to buy a new-build home with a deposit of 2.5%. It would provide them with a loan worth 20% of their property's value to help pay for the purchase.
-The threshold for eligible buyers will be those with combined incomes of £110,000 outside London, and £140,000 in the capital.
-Burnham announces scheme to help first-time buyers onto housing ladder
-- Published27 September
-A minimum wage increase will be announced in the Budget, but 18- to 20-year-olds are set to see lower increases than in previous years, the BBC understands.
-Pay for younger workers will rise in line with the increase in minimum pay for employees aged 21 years and over.
-However, the increase for younger workers is lower than that seen in the previous two years, when Labour raised the rate to meet a manifesto promise that it would remove "discriminatory age bands" with all adults entitled to the same minimum wage.
-Minimum wage set to rise but 18-20 year-olds will not get bigger increase
-- Published21 hours ago
-Pensioners who only get an income from the state pension are expected to be shielded from paying income tax through a new personal allowance.
-But the full state pension is set to rise above the current £12,570 threshold, to £13,036.40 - which would force one million people to pay tax on it.
-In his Budget, Healey will explain how these pensioners will be exempted.
-State pension likely to top £13,000 a year as UK wage growth slows to 3.9%
-- Published15 September
-An easy target for a Labour chancellor, bank bosses are expecting Healey to raise the amount of tax they pay in order to offer support with energy bills and costs affecting households elsewhere.
-Top executives told the BBC they believe the chancellor could reverse a Conservative cut to the surcharge banks pay on their profits, which lowered it from 8% to 3%. Healey could also raise the levy banks pay on the size of their balance sheets.
-Banks expect to be hit with higher taxes in Budget
-- Published16 October
-Online retail giants such as Amazon and eBay are expected to be made responsible for collecting tax owed by traders using their platforms, according to The Times, external.
-The money raised is expected to be used by the government to cut business rates for High Street shops, by raising the threshold at which small companies start paying rates from £12,000 to £18,000.
-He is also planning support for small breweries.
-Healey has also said the government plans to slash "form-filling and pointless paperwork" to save UK businesses up to £800m. Ministers believe changes in regulations will reduce unnecessary bureaucracy for businesses.
-How is the economy doing?
-Healey has repeatedly praised the UK's resilience. The UK is the fastest growing G7 country so far this year, and performing better than expected in the face of energy price shocks caused by the US-Israel war with Iran.
-But UK growth is expected to slow in the months ahead as those costs continue to weigh on households and businesses.
-Prices for goods and services are still rising faster than wanted. Inflation hit 3.5% in the year to September, the highest rate since October 2025 and above the Bank of England's 2% target, driven by higher petrol and diesel prices.
-Healey's aim in the Budget is to give people "breathing space" to help them cope with the challenges ahead.
-What happens afterwards?
-When the chancellor sits down, the Office for Budget Responsibility (OBR) will publish economic forecasts for the next five years.
-It will set out whether the government is likely to meet the rules it has set for managing the public finances, and how the economy is expected to perform.
-Its judgement on the government's plans is keenly watched by financial markets and can have a significant impact on confidence, in turn affecting government borrowing costs.
-Leader of the Opposition Kemi Badenoch will respond to the speech in the House of Commons.
-MPs then debate the measures for three days before voting on them.
-If approved by MPs, tax changes can come into effect immediately.
-However, the government must pass a finance bill to make them permanent.
-Get in touch
-Do you have any views, comments or questions about this story?
-Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-28T09:25:19+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c529/live/61181430-d2a9-11f1-b441-2b33b063138f.jpg",
     readTime: 10,
   },
 ];
