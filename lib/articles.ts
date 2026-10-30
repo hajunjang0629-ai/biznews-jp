@@ -15,6 +15,514 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "swiss-central-bank-posts-bumper-23bn-pro-4f309980",
+    title: "Swiss central bank posts bumper $23bn profit as gold, foreign assets soar",
+    titleJa: "Swiss central bank posts bumper $23bn profit as gold, foreign assets soar",
+    summaryJa: "Unlike other major central banks, the Swiss National Bank has a significant equity portfolio.",
+    bodyOriginal: `The Swiss National Bank said Friday that it made a profit of 19.1 billion Swiss francs ($23.3 billion) on its investments in the third quarter, driven by its gold and foreign currency holdings.
+It brought the central bank's year-to-date profit up to 44.2 billion francs, the equivalent of around $53.8 billion, raising the prospect of a payout to Swiss federal and local governments at the end of the year.
+But the overall profit in the third quarter of 2026 marked a year-on-year decline of almost 32%.
+Profit and loss recorded in the SNB's quarterly accounting updates consists of interest income, dividends, and valuation adjustments resulting from exchange rate movements and market price changes.
+The Swiss franc rose around 12% against the U.S. dollar in 2025, having been lifted by investors flocking to the safe-haven currency in the wake of U.S. President Donald Trump's tariff announcements.
+So far this year, it has lost around 3.6% versus the greenback.
+Profit drivers
+In the third quarter of 2025, the SNB saw a 14.3-billion-franc net gain on gold, compared to a net gain on gold of 7.6 billion francs in the three months to September.
+The yellow metal saw a record-smashing rally in 2025, with its value surging by around 66% over the course of 2025. But its trajectory has been far more volatile in 2026, and the metal has fallen in value by more than 7% since the start of the year.
+Profit on the SNB's foreign currency positions, which include investments in international equities, reached 11.6 billion francs, marking a year-on-year decline of around 15%.
+Most of the SNB's foreign currency reserves are held in financial assets denominated in foreign currencies, as opposed to hard currency holdings. It also has a smaller Swiss franc bond portfolio.
+At the end of the third quarter, 61% of its foreign currency reserves were allocated to government bonds, including deposits with central banks and the Bank for International Settlements, while 28% were invested in equities and 11% in other bonds.
+In terms of currency exposure, 39% of the portfolio was denominated in euros and 37% in U.S. dollars. Japanese yen and British pound exposure accounted for 7% and 6%, respectively.
+The SNB's stocks portfolio
+The SNB's large equity portfolio makes it unusual compared to other major central banks like the U.S. Federal Reserve and the Bank of England, which do not typically invest directly in equity markets.
+However, the SNB is a passive investor, and therefore does not engage in equity selection. Its stock holdings are based on a benchmark index composed of international stock indexes, with its portfolio mostly made up of shares of mid- and large-cap companies in developed markets.
+Its profits are mostly distributed to Switzerland's federal and local governments, with shareholders receiving a dividend if its equity capital is large enough. If the investments generate a loss, the SNB may be unable to make payouts.
+Despite the country benefiting from a strong investment performance, however, the SNB's investments are not focused on achieving the highest possible return.
+"For a conventional company, profits are an important prerequisite for long-term success. The SNB's goal, by contrast, is not to generate profit," it says on its website. "It has another mandate: It must ensure price stability in Switzerland, while taking due account of economic developments."
+"The monetary policy mandate always has highest priority. The SNB can thus find itself having to take monetary policy decisions that may have a negative impact on its annual result."
+Unlike many other major central banks, the SNB's monetary policy mandate allows it to use interest rates and exchange rates to achieve price stability, and it will use measures to influence the exchange rate if deemed necessary.
+The SNB's inflation target also makes it an outlier among its international peers, with its target range for inflation being 0% to 2%.`,
+    bodyJa: `The Swiss National Bank said Friday that it made a profit of 19.1 billion Swiss francs ($23.3 billion) on its investments in the third quarter, driven by its gold and foreign currency holdings.
+It brought the central bank's year-to-date profit up to 44.2 billion francs, the equivalent of around $53.8 billion, raising the prospect of a payout to Swiss federal and local governments at the end of the year.
+But the overall profit in the third quarter of 2026 marked a year-on-year decline of almost 32%.
+Profit and loss recorded in the SNB's quarterly accounting updates consists of interest income, dividends, and valuation adjustments resulting from exchange rate movements and market price changes.
+The Swiss franc rose around 12% against the U.S. dollar in 2025, having been lifted by investors flocking to the safe-haven currency in the wake of U.S. President Donald Trump's tariff announcements.
+So far this year, it has lost around 3.6% versus the greenback.
+Profit drivers
+In the third quarter of 2025, the SNB saw a 14.3-billion-franc net gain on gold, compared to a net gain on gold of 7.6 billion francs in the three months to September.
+The yellow metal saw a record-smashing rally in 2025, with its value surging by around 66% over the course of 2025. But its trajectory has been far more volatile in 2026, and the metal has fallen in value by more than 7% since the start of the year.
+Profit on the SNB's foreign currency positions, which include investments in international equities, reached 11.6 billion francs, marking a year-on-year decline of around 15%.
+Most of the SNB's foreign currency reserves are held in financial assets denominated in foreign currencies, as opposed to hard currency holdings. It also has a smaller Swiss franc bond portfolio.
+At the end of the third quarter, 61% of its foreign currency reserves were allocated to government bonds, including deposits with central banks and the Bank for International Settlements, while 28% were invested in equities and 11% in other bonds.
+In terms of currency exposure, 39% of the portfolio was denominated in euros and 37% in U.S. dollars. Japanese yen and British pound exposure accounted for 7% and 6%, respectively.
+The SNB's stocks portfolio
+The SNB's large equity portfolio makes it unusual compared to other major central banks like the U.S. Federal Reserve and the Bank of England, which do not typically invest directly in equity markets.
+However, the SNB is a passive investor, and therefore does not engage in equity selection. Its stock holdings are based on a benchmark index composed of international stock indexes, with its portfolio mostly made up of shares of mid- and large-cap companies in developed markets.
+Its profits are mostly distributed to Switzerland's federal and local governments, with shareholders receiving a dividend if its equity capital is large enough. If the investments generate a loss, the SNB may be unable to make payouts.
+Despite the country benefiting from a strong investment performance, however, the SNB's investments are not focused on achieving the highest possible return.
+"For a conventional company, profits are an important prerequisite for long-term success. The SNB's goal, by contrast, is not to generate profit," it says on its website. "It has another mandate: It must ensure price stability in Switzerland, while taking due account of economic developments."
+"The monetary policy mandate always has highest priority. The SNB can thus find itself having to take monetary policy decisions that may have a negative impact on its annual result."
+Unlike many other major central banks, the SNB's monetary policy mandate allows it to use interest rates and exchange rates to achieve price stability, and it will use measures to influence the exchange rate if deemed necessary.
+The SNB's inflation target also makes it an outlier among its international peers, with its target range for inflation being 0% to 2%.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
+    publishedAt: "2026-10-30T12:31:40+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "the-big-questions-remaining-after-anthro-25e33201",
+    title: "The big questions remaining after Anthropic’s blockbuster IPO prospectus",
+    titleJa: "The big questions remaining after Anthropic’s blockbuster IPO prospectus",
+    summaryJa: "Uncertainties remain ahead of one of the most hotly anticipated IPOs in history.",
+    bodyOriginal: `This report is from this week's The Tech Download newsletter. Like what you see? You can subscribe here.
+Anthropic's over 300 page S-1 filing earlier this week contained a lot of information. It was the most comprehensive public statement to date about how a pure-play AI lab makes its money.
+After the prospectus went live on Monday, my U.S.-based colleagues and I went through it with a fine-tooth comb, detailing everything from revenue and risks to competitors and computing costs.
+The filing also revealed that CEO Dario Amodei and his six co-founders each own over 200 million shares, which could be worth billions if Anthropic hits the over $1 trillion valuation it's expected to.
+But despite all the nuggets, a few big questions remain.
+Revenue
+Anthropic reported its cost of revenue as $2.38 billion in the first half of 2026, booking $16.29 billion in revenue during the same period and implying a gross margin of 85%.
+Violeta Todorova, senior research analyst at Leverage Shares, told CNBC that the first-half revenue compared with just $1.16 billion in the first half of 2025, and asked whether it could grow to "keep pace with expectations."
+"It is unclear how much it costs to generate each additional dollar of revenue as computing demand increases," she said.
+But Anthropic's meteoric revenue growth slowed in the third quarter. It grew approximately 144% in the second quarter compared to the first quarter, followed by roughly 47% in the third quarter.
+"What the prospectus didn't tell us is management's expectations around the sequential slowdown in the growth rate," said Michael Field, chief equity strategist at Morningstar.
+Compute
+"Substantially all of cost of revenue" is associated with compute and infrastructure costs, the filing states. It also says that operating margin and adjusted operating margin are expected to "fluctuate over time, particularly in periods when substantial incremental compute is delivered to us and we incur the associated expenses."
+"Investors can see compute falling as a share of revenue, but not how much of the forward commitment is earmarked for training the next generation of models versus serving customers," Nick Patience, AI lead at the Futurum Group, told CNBC. "That split dictates future margins."
+Questions also remain around whether compute costs can keep falling faster than commitments grow and if Anthropic can secure enough capacity to serve customers, he added.
+Regarding demand across the AI and hyperscaler sector outstripping supply, the prospectus says that it had previously sought "quantities of compute from [cloud service providers] in excess of what those partners were willing to provide."
+Later it says: "We have historically operated in a compute-constrained environment in which demand for compute has exceeded the supply available to us."
+Pricing and control
+Anthropic's structure as a public benefit corporation raises questions, too. Seven co-founders, including CEO Dario Amodei, have special voting power through a single Class F share equal to 50.1% of total voting power over matters brought to a shareholder vote.
+Anthropic describes its capital and corporate governance structure as having "no direct public company precedent," in the filing.
+"We also know now that management plans a series of different class share issues," said Morningstar's Field. "But what we don't know is whether investors will be fine with the lack of control implied, or will this impact the share price. Something we won't know until the shares start trading."
+And finally the trillion-dollar question: the IPO valuation that Anthropic targets. The AI lab is keeping schtum about that, for now. It says simply it will be "determined by negotiations among us, the selling stockholders, and the representatives."
+Given analyst estimates range between $1 trillion and $2 trillion, it will be a huge market event. If it's at the higher end of the range, it could bring back some of the swagger the AI sector has lost in recent weeks. If on the lower end, things could get ugly.
+News edit
+Apple on Wednesday announced its first laptop with a touchscreen, which it's calling MacBook Pro with ProLED XDR Display.
+SK Hynix's shares rose after the company reported record quarterly profit that sharply beat estimates, and announced over $25 billion in dividends and buybacks.
+Nvidia and Advanced Micro Devices said they will invest a total of $4 billion in Meta after the social media giant announced plans to raise $95 billion to support its investments in AI infrastructure.
+Microsoft said Monday that it's offering buyouts to a wide swath of employees as it strives to balance a costly AI infrastructure build-out with capital efficiency.
+SpaceX has closed $40 billion in debt financing to buy graphics processing units, or GPUs, used to power AI systems, Elon Musk said on Sunday.
+One more thing
+Anthropic's S-1 was a trove of company intel, but one figure really caught my eye. The AI lab has more cash than almost every company in the U.S. And, as my colleague Leslie Picker writes, never before has a company gone public with anywhere near that much.`,
+    bodyJa: `This report is from this week's The Tech Download newsletter. Like what you see? You can subscribe here.
+Anthropic's over 300 page S-1 filing earlier this week contained a lot of information. It was the most comprehensive public statement to date about how a pure-play AI lab makes its money.
+After the prospectus went live on Monday, my U.S.-based colleagues and I went through it with a fine-tooth comb, detailing everything from revenue and risks to competitors and computing costs.
+The filing also revealed that CEO Dario Amodei and his six co-founders each own over 200 million shares, which could be worth billions if Anthropic hits the over $1 trillion valuation it's expected to.
+But despite all the nuggets, a few big questions remain.
+Revenue
+Anthropic reported its cost of revenue as $2.38 billion in the first half of 2026, booking $16.29 billion in revenue during the same period and implying a gross margin of 85%.
+Violeta Todorova, senior research analyst at Leverage Shares, told CNBC that the first-half revenue compared with just $1.16 billion in the first half of 2025, and asked whether it could grow to "keep pace with expectations."
+"It is unclear how much it costs to generate each additional dollar of revenue as computing demand increases," she said.
+But Anthropic's meteoric revenue growth slowed in the third quarter. It grew approximately 144% in the second quarter compared to the first quarter, followed by roughly 47% in the third quarter.
+"What the prospectus didn't tell us is management's expectations around the sequential slowdown in the growth rate," said Michael Field, chief equity strategist at Morningstar.
+Compute
+"Substantially all of cost of revenue" is associated with compute and infrastructure costs, the filing states. It also says that operating margin and adjusted operating margin are expected to "fluctuate over time, particularly in periods when substantial incremental compute is delivered to us and we incur the associated expenses."
+"Investors can see compute falling as a share of revenue, but not how much of the forward commitment is earmarked for training the next generation of models versus serving customers," Nick Patience, AI lead at the Futurum Group, told CNBC. "That split dictates future margins."
+Questions also remain around whether compute costs can keep falling faster than commitments grow and if Anthropic can secure enough capacity to serve customers, he added.
+Regarding demand across the AI and hyperscaler sector outstripping supply, the prospectus says that it had previously sought "quantities of compute from [cloud service providers] in excess of what those partners were willing to provide."
+Later it says: "We have historically operated in a compute-constrained environment in which demand for compute has exceeded the supply available to us."
+Pricing and control
+Anthropic's structure as a public benefit corporation raises questions, too. Seven co-founders, including CEO Dario Amodei, have special voting power through a single Class F share equal to 50.1% of total voting power over matters brought to a shareholder vote.
+Anthropic describes its capital and corporate governance structure as having "no direct public company precedent," in the filing.
+"We also know now that management plans a series of different class share issues," said Morningstar's Field. "But what we don't know is whether investors will be fine with the lack of control implied, or will this impact the share price. Something we won't know until the shares start trading."
+And finally the trillion-dollar question: the IPO valuation that Anthropic targets. The AI lab is keeping schtum about that, for now. It says simply it will be "determined by negotiations among us, the selling stockholders, and the representatives."
+Given analyst estimates range between $1 trillion and $2 trillion, it will be a huge market event. If it's at the higher end of the range, it could bring back some of the swagger the AI sector has lost in recent weeks. If on the lower end, things could get ugly.
+News edit
+Apple on Wednesday announced its first laptop with a touchscreen, which it's calling MacBook Pro with ProLED XDR Display.
+SK Hynix's shares rose after the company reported record quarterly profit that sharply beat estimates, and announced over $25 billion in dividends and buybacks.
+Nvidia and Advanced Micro Devices said they will invest a total of $4 billion in Meta after the social media giant announced plans to raise $95 billion to support its investments in AI infrastructure.
+Microsoft said Monday that it's offering buyouts to a wide swath of employees as it strives to balance a costly AI infrastructure build-out with capital efficiency.
+SpaceX has closed $40 billion in debt financing to buy graphics processing units, or GPUs, used to power AI systems, Elon Musk said on Sunday.
+One more thing
+Anthropic's S-1 was a trove of company intel, but one figure really caught my eye. The AI lab has more cash than almost every company in the U.S. And, as my colleague Leslie Picker writes, never before has a company gone public with anywhere near that much.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html",
+    publishedAt: "2026-10-30T12:27:36+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "chevron-and-exxon-beat-earnings-expectat-5c8963fa",
+    title: "Chevron and Exxon beat earnings expectations as refining profits soar on high diesel fuel prices",
+    titleJa: "Chevron and Exxon beat earnings expectations as refining profits soar on high diesel fuel prices",
+    summaryJa: "Diesel prices have surged globally as Ukraine and Iran have bombed refineries in Russia and the Middle East.",
+    bodyOriginal: `Chevron and ExxonMobil on Friday reported profits that surged in the third quarter, as their U.S. refineries ran at full capacity to take advantage of high diesel fuel prices.
+Chevron's net income surged nearly 200% to $9.9 billion, or $5.06 a share, compared to $3.5 billion, or $1.82 a share, in the same period last year. When adjusted for one-time items, it reported earnings of $5.28 per share, soundly beating Wall Street's expectations of $4.89.
+Diesel prices have surged globally as Ukraine and Iran have bombed refineries in Russia and the Middle East. U.S. refiners have ramped up production to fill the supply gap.
+ExxonMobil's profits doubled to $15.4 billion, or $3.72 a share, compared to $7.5 billion, or $1.76 a share, in the same period in 2025. When adjusted for one-time items, it posted earnings of $4.23 a share, beating the Street's expectations.
+Chevron shares are up about 2% in premarket trading, while Exxon is trading about 1.5% higher.
+Here's how Chevron and Exxon did, compared with estimates from analysts polled by LSEG:
+- Chevron's earnings per share: $5.28 adjusted, vs. $4.89 expected
+- Chevron's revenue: $67.8 billion, vs. $61.6 billion expected
+- Exxon's earnings per share: $4.23 adjusted, vs. $4.08 expected
+- Exxon's revenue: $113.2 billion, vs. $103.1 billion expected
+Chevron's U.S. refineries processed record amounts of crude oil at just above 1 million barrels per day, as the facilities ran at 98% capacity. Diesel and jet fuel yields rose more than 10%, the company said.
+Exxon's Gulf Coast refineries operated at 100% utilization with the second-highest diesel production on record at those facilities, the company said.
+Profits from Chevron's refining division surged more than 300% to $4.9 billion compared to $1.1 billion in the same period in 2025. Its oil and gas production generated earnings of $5.7 billion, up 70% from $3.3 billion in the year-ago period.
+Exxon's refining division generated profits of about $7.2 billion in the quarter, outpacing its production business' earnings of about $7.1 billion. Its refining profits have surged nearly 200% to $11.4 billion so far this year compared to $4 billion during the first nine months of 2025.
+Chevron's output actually declined slightly to 3.9 million barrels per day compared to about 4 million bpd in the same period last year. The decline was in its international segment due in part to the conflict in the Middle East, while output was largely flat in the U.S. year over year.
+Exxon has produced about 4.5 million bpd this year, a more than 2% decline from nearly 4.7 million during the first nine months of 2025.`,
+    bodyJa: `Chevron and ExxonMobil on Friday reported profits that surged in the third quarter, as their U.S. refineries ran at full capacity to take advantage of high diesel fuel prices.
+Chevron's net income surged nearly 200% to $9.9 billion, or $5.06 a share, compared to $3.5 billion, or $1.82 a share, in the same period last year. When adjusted for one-time items, it reported earnings of $5.28 per share, soundly beating Wall Street's expectations of $4.89.
+Diesel prices have surged globally as Ukraine and Iran have bombed refineries in Russia and the Middle East. U.S. refiners have ramped up production to fill the supply gap.
+ExxonMobil's profits doubled to $15.4 billion, or $3.72 a share, compared to $7.5 billion, or $1.76 a share, in the same period in 2025. When adjusted for one-time items, it posted earnings of $4.23 a share, beating the Street's expectations.
+Chevron shares are up about 2% in premarket trading, while Exxon is trading about 1.5% higher.
+Here's how Chevron and Exxon did, compared with estimates from analysts polled by LSEG:
+- Chevron's earnings per share: $5.28 adjusted, vs. $4.89 expected
+- Chevron's revenue: $67.8 billion, vs. $61.6 billion expected
+- Exxon's earnings per share: $4.23 adjusted, vs. $4.08 expected
+- Exxon's revenue: $113.2 billion, vs. $103.1 billion expected
+Chevron's U.S. refineries processed record amounts of crude oil at just above 1 million barrels per day, as the facilities ran at 98% capacity. Diesel and jet fuel yields rose more than 10%, the company said.
+Exxon's Gulf Coast refineries operated at 100% utilization with the second-highest diesel production on record at those facilities, the company said.
+Profits from Chevron's refining division surged more than 300% to $4.9 billion compared to $1.1 billion in the same period in 2025. Its oil and gas production generated earnings of $5.7 billion, up 70% from $3.3 billion in the year-ago period.
+Exxon's refining division generated profits of about $7.2 billion in the quarter, outpacing its production business' earnings of about $7.1 billion. Its refining profits have surged nearly 200% to $11.4 billion so far this year compared to $4 billion during the first nine months of 2025.
+Chevron's output actually declined slightly to 3.9 million barrels per day compared to about 4 million bpd in the same period last year. The decline was in its international segment due in part to the conflict in the Middle East, while output was largely flat in the U.S. year over year.
+Exxon has produced about 4.5 million bpd this year, a more than 2% decline from nearly 4.7 million during the first nine months of 2025.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
+    publishedAt: "2026-10-30T11:35:51+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "musk-and-zuckerberg-echo-trump-s-push-to-687ece35",
+    title: "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others did not",
+    titleJa: "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings calls. Others did not",
+    summaryJa: "Meta's Mark Zuckerberg and Elon Musk of Tesla and SpaceX adopted President Trump's preferred \"super intelligence\" term on their third-quarter earnings calls.",
+    bodyOriginal: `A month after President Donald Trump ordered that the term "super intelligence" replace artificial intelligence within executive branch departments and agencies, his leading tech allies — Elon Musk and Mark Zuckerberg — followed suit on earnings calls. Their fellow tech CEOs were less eager to do the same.
+Trump's declaration took place on Sept. 29, while he was hosting an AI luncheon at the White House for industry leaders. At the time, he was working to ensure the growth of AI in the U.S. with limited regulations. The president this week announced on Truth Social that he's banning the use of AI or artificial intelligence in "all relevant documents" and "everything else."
+SpaceX and Tesla adhered to Trump's wishes on earnings calls last week after Musk, earlier in October, changed the name of his rocket company's AI division to SpaceXSI. Speaking on Tesla's call about his work on humanoid robots, Musk said, "Some of them look very impressive, but they're not really using any kind of advanced AI or SI."
+Zuckerberg was equally compliant on Meta's earnings call on Oct. 21, emphasizing his company's "goal of delivering personal superintelligence to everyone." However, Meta was already using the term, having created a unit called Meta Superintelligence Labs last year.
+While Musk and Zuckerberg have been perhaps the fiercest supporters of the Trump administration among tech's CEOs, they're by no means outliers. Leaders of all the tech giants have contributed to Trump's inauguration festivities or his plan for the White House ballroom, and some have been intentional about getting rid of diversity, equity and inclusion (DEI) programs that the president opposed.
+But for now at least, they're holding out when it comes to eliminating the term AI.
+Amazon CEO Andy Jassy peppered his call with use of AI on Thursday, uttering the acronym well over a dozen times in his introductory remarks. A day earlier, Microsoft CEO Satya Nadella said one of the company's three points of focus is "designing AI to empower people." And Alphabet CEO Sundar Pichai was seconds into his quarterly earnings commentary when he said the search giant's "AI investments are driving increased usage and overall user growth."
+Trump's attempted rebrand comes just ahead of the midterm elections next week, with the Republican Party in jeopardy of losing control of both the House and Senate. Trump's job approval has been dropping and his economic approval rating just hit an all-time low, according to the latest CNBC All-America Economic Survey released last week.
+'Real-world outcomes'
+That's not to suggest tech execs sticking with "AI" on this week's earnings calls are openly defying the president. Trump's preferred term is seeping into other correspondence and documents. Microsoft's annual report filed last week included eight mentions of super intelligence, starting at the top of the letter to shareholders.
+"For Microsoft, the central question as we enter this Super Intelligence era is not just how big the opportunity becomes, but how we deliver the real-world outcomes that every country, community, and company demands and deserves," Nadella wrote.
+IBM CEO Arvind Krishna, who didn't attend Trump's September lunch, used SI alongside AI during his company's earnings call last week. Krishna said, "technology innovation in both hybrid infrastructure and super intelligence is leading to better business performance," adding that IBM is advancing as a "software-led hybrid cloud and AI platform company."
+Lip-Bu Tan, CEO of chipmaker Intel, said on Thursday the supply shortage the chip industry is navigating has been "driven by the unprecedented demand for super intelligence."
+Some in the tech industry have been explicit in their support of Trump's terminology ahead of their forthcoming earnings reports next month.
+Palo Alto Networks CEO Nikesh Arora repeatedly referred to SI on CNBC, and posted on X on Sept. 30, "The meeting at the WH on SI was an epic moment."
+Then there's Nvidia's Jensen Huang, who runs the world's most valuable company and the chipmaker that's powered much of the AI boom. Along with Musk and Zuckerberg, Huang has been one of Trump's most vocal supporters in tech and the president's top ally on the AI safety debate.
+Like Arora, Huang took to X after last month's AI meeting to praise the "White House Accord on Super Intelligence."
+"Super Intelligence offers an extraordinary opportunity to advance discovery, productivity, security, health, and prosperity," Huang wrote. "The future of Super Intelligence will be shaped not only by what it can do, but by the confidence it earns."`,
+    bodyJa: `A month after President Donald Trump ordered that the term "super intelligence" replace artificial intelligence within executive branch departments and agencies, his leading tech allies — Elon Musk and Mark Zuckerberg — followed suit on earnings calls. Their fellow tech CEOs were less eager to do the same.
+Trump's declaration took place on Sept. 29, while he was hosting an AI luncheon at the White House for industry leaders. At the time, he was working to ensure the growth of AI in the U.S. with limited regulations. The president this week announced on Truth Social that he's banning the use of AI or artificial intelligence in "all relevant documents" and "everything else."
+SpaceX and Tesla adhered to Trump's wishes on earnings calls last week after Musk, earlier in October, changed the name of his rocket company's AI division to SpaceXSI. Speaking on Tesla's call about his work on humanoid robots, Musk said, "Some of them look very impressive, but they're not really using any kind of advanced AI or SI."
+Zuckerberg was equally compliant on Meta's earnings call on Oct. 21, emphasizing his company's "goal of delivering personal superintelligence to everyone." However, Meta was already using the term, having created a unit called Meta Superintelligence Labs last year.
+While Musk and Zuckerberg have been perhaps the fiercest supporters of the Trump administration among tech's CEOs, they're by no means outliers. Leaders of all the tech giants have contributed to Trump's inauguration festivities or his plan for the White House ballroom, and some have been intentional about getting rid of diversity, equity and inclusion (DEI) programs that the president opposed.
+But for now at least, they're holding out when it comes to eliminating the term AI.
+Amazon CEO Andy Jassy peppered his call with use of AI on Thursday, uttering the acronym well over a dozen times in his introductory remarks. A day earlier, Microsoft CEO Satya Nadella said one of the company's three points of focus is "designing AI to empower people." And Alphabet CEO Sundar Pichai was seconds into his quarterly earnings commentary when he said the search giant's "AI investments are driving increased usage and overall user growth."
+Trump's attempted rebrand comes just ahead of the midterm elections next week, with the Republican Party in jeopardy of losing control of both the House and Senate. Trump's job approval has been dropping and his economic approval rating just hit an all-time low, according to the latest CNBC All-America Economic Survey released last week.
+'Real-world outcomes'
+That's not to suggest tech execs sticking with "AI" on this week's earnings calls are openly defying the president. Trump's preferred term is seeping into other correspondence and documents. Microsoft's annual report filed last week included eight mentions of super intelligence, starting at the top of the letter to shareholders.
+"For Microsoft, the central question as we enter this Super Intelligence era is not just how big the opportunity becomes, but how we deliver the real-world outcomes that every country, community, and company demands and deserves," Nadella wrote.
+IBM CEO Arvind Krishna, who didn't attend Trump's September lunch, used SI alongside AI during his company's earnings call last week. Krishna said, "technology innovation in both hybrid infrastructure and super intelligence is leading to better business performance," adding that IBM is advancing as a "software-led hybrid cloud and AI platform company."
+Lip-Bu Tan, CEO of chipmaker Intel, said on Thursday the supply shortage the chip industry is navigating has been "driven by the unprecedented demand for super intelligence."
+Some in the tech industry have been explicit in their support of Trump's terminology ahead of their forthcoming earnings reports next month.
+Palo Alto Networks CEO Nikesh Arora repeatedly referred to SI on CNBC, and posted on X on Sept. 30, "The meeting at the WH on SI was an epic moment."
+Then there's Nvidia's Jensen Huang, who runs the world's most valuable company and the chipmaker that's powered much of the AI boom. Along with Musk and Zuckerberg, Huang has been one of Trump's most vocal supporters in tech and the president's top ally on the AI safety debate.
+Like Arora, Huang took to X after last month's AI meeting to praise the "White House Accord on Super Intelligence."
+"Super Intelligence offers an extraordinary opportunity to advance discovery, productivity, security, health, and prosperity," Huang wrote. "The future of Super Intelligence will be shaped not only by what it can do, but by the confidence it earns."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
+    publishedAt: "2026-10-30T11:30:01+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "streeting-denies-kicking-can-down-the-ro-c6757a5e",
+    title: "Streeting denies 'kicking can down the road' in defence spending row",
+    titleJa: "Streeting denies 'kicking can down the road' in defence spending row",
+    summaryJa: "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms.",
+    bodyOriginal: `Streeting denies 'kicking can down the road' in defence spending row
+- Published
+Defence Secretary Wes Streeting has denied "kicking the can down the road" over how much the UK spends on defence.
+The government has faced criticism for not setting out a pathway at Wednesday's Budget to hit its target of spending 3% of GDP on defence by 2030.
+Streeting is at odds with MPs on the Commons defence committee over the issue.
+It comes as Chancellor John Healey and Streeting announce that foreign firms which are awarded defence contracts of more than £50m will need to invest an equal value back into the UK.
+Under the new investment rules, described as an "offset strategy", these companies will need to spend an equivalent amount on British factories, jobs and training.
+The Ministry of Defence will apply the rules on a "case-by-case" basis from April 2027, the government said. Healey and Streeting will unveil the policy on a visit to UK defence contractor BAE's shipbuilding site in Glasgow later.
+Countries including Poland, Norway and the Netherlands have mandated similar rules to "boost the economic benefit from defence procurement", the government said.
+While ministers hope the rules increase investment in Britain's defence industry, they appear designed to do so in a politically palatable way rather than committing to spending cuts.
+Tan Dhesi, Labour chair of the cross-party Commons defence committee, said on Wednesday that decisions had been "kicked into the long grass" to next year's government spending review, rather than announced in the Budget.
+He warned that without building capabilities now, "we risk leaving ourselves seriously vulnerable in the event of a major conflict".
+Streeting hit back at these comments as "unfair" and "unfounded".
+Speaking on Thursday, Dhesi said the committee stands by its criticism.
+"We had hoped to see that the chancellor would set out a precise pathway to spend 3% of GDP on defence by 2030," Dhesi told BBC Radio 4's Today programme.
+"But instead some of those key decisions on defence have lamentably been delayed until next year's spending review."
+He praised the government for plugging a £4.7bn hole in the Defence Investment Plan in the Budget, through asking government departments to cut their capital budgets by 1%.
+Responding on Thursday, Streeting told Today: "I like Tan very much, he's a friend and I respect him, but I strongly disagree with him.
+"And I don't think the charge he makes of delaying or kicking the can down the road stacks up against the extra money that is already going into defence and the capability we're funding right now."
+Streeting told BBC Breakfast the new rules, aiming to create "bang for the British buck", would help achieve this target given increasing defence spending "does come at a cost to the country and other things we'd like to spend money on".
+He said waiting for the spending review, which does not have a fixed date and could come in the second half of 2027, was "the right thing to do" so ministers can look at "spending in the round".
+He added that the UK was ready to deal with hostile threats, but "we're not where we'd want to be".
+"There's no sugarcoating the fact that our Armed Forces were under-invested in for more than a decade," he told Breakfast.
+Defence analysts have questioned the government's ability to deliver on its 2030 target and the Nato-wide target of 3.5% by 2035. UK defence spending is at an estimated 2.6% of GDP this year.
+Some estimates have suggested the government will need to spend an additional £10bn annually to reach its targets.
+Tory leader Kemi Badenoch said on Wednesday that Healey "failed his own test" by not setting out a "plan for 3%".
+Healey resigned as then-Prime Minister Sir Keir Starmer's defence secretary in June over not spending enough on defence.
+In the Budget, Healey said the UK was negotiating with Finland, Poland and the Netherlands to set up an international bank - the Multilateral Defence Mechanism - to boost defence investment and joint procurement.
+But Conservative shadow defence secretary James Cartlidge said this amounted to "turning to borrowing at a time when the national debt is over £3 trillion".
+"The answer is not more borrowing – it's to cut welfare to fund defence," he said.
+Related topics
+- Published1 day ago
+- Published20 hours ago
+- Published11 June`,
+    bodyJa: `Streeting denies 'kicking can down the road' in defence spending row
+- Published
+Defence Secretary Wes Streeting has denied "kicking the can down the road" over how much the UK spends on defence.
+The government has faced criticism for not setting out a pathway at Wednesday's Budget to hit its target of spending 3% of GDP on defence by 2030.
+Streeting is at odds with MPs on the Commons defence committee over the issue.
+It comes as Chancellor John Healey and Streeting announce that foreign firms which are awarded defence contracts of more than £50m will need to invest an equal value back into the UK.
+Under the new investment rules, described as an "offset strategy", these companies will need to spend an equivalent amount on British factories, jobs and training.
+The Ministry of Defence will apply the rules on a "case-by-case" basis from April 2027, the government said. Healey and Streeting will unveil the policy on a visit to UK defence contractor BAE's shipbuilding site in Glasgow later.
+Countries including Poland, Norway and the Netherlands have mandated similar rules to "boost the economic benefit from defence procurement", the government said.
+While ministers hope the rules increase investment in Britain's defence industry, they appear designed to do so in a politically palatable way rather than committing to spending cuts.
+Tan Dhesi, Labour chair of the cross-party Commons defence committee, said on Wednesday that decisions had been "kicked into the long grass" to next year's government spending review, rather than announced in the Budget.
+He warned that without building capabilities now, "we risk leaving ourselves seriously vulnerable in the event of a major conflict".
+Streeting hit back at these comments as "unfair" and "unfounded".
+Speaking on Thursday, Dhesi said the committee stands by its criticism.
+"We had hoped to see that the chancellor would set out a precise pathway to spend 3% of GDP on defence by 2030," Dhesi told BBC Radio 4's Today programme.
+"But instead some of those key decisions on defence have lamentably been delayed until next year's spending review."
+He praised the government for plugging a £4.7bn hole in the Defence Investment Plan in the Budget, through asking government departments to cut their capital budgets by 1%.
+Responding on Thursday, Streeting told Today: "I like Tan very much, he's a friend and I respect him, but I strongly disagree with him.
+"And I don't think the charge he makes of delaying or kicking the can down the road stacks up against the extra money that is already going into defence and the capability we're funding right now."
+Streeting told BBC Breakfast the new rules, aiming to create "bang for the British buck", would help achieve this target given increasing defence spending "does come at a cost to the country and other things we'd like to spend money on".
+He said waiting for the spending review, which does not have a fixed date and could come in the second half of 2027, was "the right thing to do" so ministers can look at "spending in the round".
+He added that the UK was ready to deal with hostile threats, but "we're not where we'd want to be".
+"There's no sugarcoating the fact that our Armed Forces were under-invested in for more than a decade," he told Breakfast.
+Defence analysts have questioned the government's ability to deliver on its 2030 target and the Nato-wide target of 3.5% by 2035. UK defence spending is at an estimated 2.6% of GDP this year.
+Some estimates have suggested the government will need to spend an additional £10bn annually to reach its targets.
+Tory leader Kemi Badenoch said on Wednesday that Healey "failed his own test" by not setting out a "plan for 3%".
+Healey resigned as then-Prime Minister Sir Keir Starmer's defence secretary in June over not spending enough on defence.
+In the Budget, Healey said the UK was negotiating with Finland, Poland and the Netherlands to set up an international bank - the Multilateral Defence Mechanism - to boost defence investment and joint procurement.
+But Conservative shadow defence secretary James Cartlidge said this amounted to "turning to borrowing at a time when the national debt is over £3 trillion".
+"The answer is not more borrowing – it's to cut welfare to fund defence," he said.
+Related topics
+- Published1 day ago
+- Published20 hours ago
+- Published11 June`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-30T11:23:38+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e71/live/d6dac2e0-d44c-11f1-93e1-3b657b665bcf.jpg",
+    readTime: 10,
+  },
+  {
+    id: "wall-street-braces-for-democratic-gains-55f5d18f",
+    title: "Wall Street braces for Democratic gains as 2026 midterm election nears",
+    titleJa: "Wall Street braces for Democratic gains as 2026 midterm election nears",
+    summaryJa: "Investors are preparing for a blue wave in the midterm election on Tuesday that will determine who controls Congress for the remainder of President Trump's term.",
+    bodyOriginal: `Investors expect a blue wave in next week's midterm election, as Democrats surge in polls and President Donald Trump's approval rating remains low.
+Public polling suggests Democrats are likely to take control of the House of Representatives, and analysts who parse what politics means for investors are in overdrive to tell their clients how to prepare for what Congress will look like after the Tuesday election.
+Concern about the spending plans and priorities of a Democratic-controlled Congress permeates analyst reports reviewed by CNBC. But because Trump has another two years of his presidency, a divided government would likely create gridlock that would prevent congressional leadership in opposition to the president from getting much done, analysts are advising their clients.
+Most analysts believe Democrats are also within striking distance of a Senate majority, though that outcome is significantly less likely than a House flip according to the polls. Next Tuesday's elections will determine which party controls both chambers of Congress for the remainder of Trump's presidency, after two years of full Republican control.
+Divided government typically makes must-pass legislation, like government funding and raising the debt ceiling, harder to enact. A debt ceiling standoff — or first-ever default on federal debt — could be particularly damaging.
+Wall Street watchers are also expecting Democrats to try to advance an ambitious and expensive agenda should they gain control of Congress. An Oct. 29 report from Piper Sandler analyzing Congressional Budget Office data projected that policy proposals from Democrats "would add $5 trillion to the deficit over the coming decade." The analysis assumes repeals of Trump's tariffs and reversing cuts to Medicaid, nutrition programs and Affordable Care Act subsidies.
+Major policy swings — and big spending packages — become less likely as a divided government is unlikely to agree on issues. That's a dynamic the market typically enjoys. Trump's veto power would effectively block major Democratic policies from becoming law.
+"A blue House is the obvious consensus base case," Wolfe Research said in an Oct. 27 report. The firm surveyed 138 investors and found 96% of those polled believed Democrats would prevail in House control.
+"The scale of polling error that would be required for Republicans to retain House control would be unprecedented in modern history, well above the polling error in the famously bad 2020 cycle," Wolfe wrote.
+Wolfe is less bullish on a Democratic Senate, though investors clearly see a possibility that Democrats regain control of both chambers of Congress.
+Fifty-eight percent of investors the firm surveyed believed Democrats would gain control of the Senate, while 42% believed Republicans would retain control of the chamber. The investors surveyed were more bullish than Wolfe itself, which puts the chances of a Democratic Senate at 49%.
+Other analysts are largely coalescing around the potential for a good night for Democrats.
+"A blue wave scenario has become our base case," an Oct. 20 report from TD Securities reads. An Oct. 23 Raymond James report says "Democrats are in a solid position to win a majority in the House of Representatives and are increasingly likely to win enough seats to capture a Senate majority."
+Even if Democrats sweep both chambers, protracted battles could still play out as Republicans maintain the White House and the Senate must still surpass the 60-vote filibuster threshold.
+Democrats winning control of the Senate could allay concerns about the Federal Reserve's independence from Trump, TD predicted.
+That's because any new Fed members would need to be confirmed by the Senate, which would be unlikely to support a nominee who wouldn't support the central bank charting its own course.
+Democrats are also expected to investigate companies that have done business with the Trump administration should they win control of a chamber. The majority party in Congress holds subpoena power on committees. Some Democrats have already telegraphed their investigative priorities ahead of the election.
+The debt ceiling is likely the most critical sticking point for the economy that lawmakers will need to address during the next Congress, unless Republicans raise it during the lame-duck session between the election and the start of the next Congress in January. The Bipartisan Policy Center expects the U.S. will reach the so-called X-date — the point at which Treasury runs out of cash under the debt ceiling — between late-winter and mid-summer 2027.
+"While negotiations around the debt ceiling may come down to the wire, a Democratic Congress would make it slightly more likely that a bill is passed than a divided Congress," TD said.
+If Congress does not raise the debt ceiling by the X-date, the U.S. could default on its debt, causing catastrophic economic consequences.
+Democrats, should they control one slice of government, are expected to demand concessions from Republicans in exchange for their votes to raise the debt ceiling. That sets up a potential standoff, which analysts note Republicans could avoid if they lose next week and raise the debt ceiling during the lame duck.
+"[R]aising the debt limit before January could substantially reduce leverage Democrats have over healthcare, Medicaid, SNAP, and broader domestic spending priorities in the next Congress," Raymond James told its clients.`,
+    bodyJa: `Investors expect a blue wave in next week's midterm election, as Democrats surge in polls and President Donald Trump's approval rating remains low.
+Public polling suggests Democrats are likely to take control of the House of Representatives, and analysts who parse what politics means for investors are in overdrive to tell their clients how to prepare for what Congress will look like after the Tuesday election.
+Concern about the spending plans and priorities of a Democratic-controlled Congress permeates analyst reports reviewed by CNBC. But because Trump has another two years of his presidency, a divided government would likely create gridlock that would prevent congressional leadership in opposition to the president from getting much done, analysts are advising their clients.
+Most analysts believe Democrats are also within striking distance of a Senate majority, though that outcome is significantly less likely than a House flip according to the polls. Next Tuesday's elections will determine which party controls both chambers of Congress for the remainder of Trump's presidency, after two years of full Republican control.
+Divided government typically makes must-pass legislation, like government funding and raising the debt ceiling, harder to enact. A debt ceiling standoff — or first-ever default on federal debt — could be particularly damaging.
+Wall Street watchers are also expecting Democrats to try to advance an ambitious and expensive agenda should they gain control of Congress. An Oct. 29 report from Piper Sandler analyzing Congressional Budget Office data projected that policy proposals from Democrats "would add $5 trillion to the deficit over the coming decade." The analysis assumes repeals of Trump's tariffs and reversing cuts to Medicaid, nutrition programs and Affordable Care Act subsidies.
+Major policy swings — and big spending packages — become less likely as a divided government is unlikely to agree on issues. That's a dynamic the market typically enjoys. Trump's veto power would effectively block major Democratic policies from becoming law.
+"A blue House is the obvious consensus base case," Wolfe Research said in an Oct. 27 report. The firm surveyed 138 investors and found 96% of those polled believed Democrats would prevail in House control.
+"The scale of polling error that would be required for Republicans to retain House control would be unprecedented in modern history, well above the polling error in the famously bad 2020 cycle," Wolfe wrote.
+Wolfe is less bullish on a Democratic Senate, though investors clearly see a possibility that Democrats regain control of both chambers of Congress.
+Fifty-eight percent of investors the firm surveyed believed Democrats would gain control of the Senate, while 42% believed Republicans would retain control of the chamber. The investors surveyed were more bullish than Wolfe itself, which puts the chances of a Democratic Senate at 49%.
+Other analysts are largely coalescing around the potential for a good night for Democrats.
+"A blue wave scenario has become our base case," an Oct. 20 report from TD Securities reads. An Oct. 23 Raymond James report says "Democrats are in a solid position to win a majority in the House of Representatives and are increasingly likely to win enough seats to capture a Senate majority."
+Even if Democrats sweep both chambers, protracted battles could still play out as Republicans maintain the White House and the Senate must still surpass the 60-vote filibuster threshold.
+Democrats winning control of the Senate could allay concerns about the Federal Reserve's independence from Trump, TD predicted.
+That's because any new Fed members would need to be confirmed by the Senate, which would be unlikely to support a nominee who wouldn't support the central bank charting its own course.
+Democrats are also expected to investigate companies that have done business with the Trump administration should they win control of a chamber. The majority party in Congress holds subpoena power on committees. Some Democrats have already telegraphed their investigative priorities ahead of the election.
+The debt ceiling is likely the most critical sticking point for the economy that lawmakers will need to address during the next Congress, unless Republicans raise it during the lame-duck session between the election and the start of the next Congress in January. The Bipartisan Policy Center expects the U.S. will reach the so-called X-date — the point at which Treasury runs out of cash under the debt ceiling — between late-winter and mid-summer 2027.
+"While negotiations around the debt ceiling may come down to the wire, a Democratic Congress would make it slightly more likely that a bill is passed than a divided Congress," TD said.
+If Congress does not raise the debt ceiling by the X-date, the U.S. could default on its debt, causing catastrophic economic consequences.
+Democrats, should they control one slice of government, are expected to demand concessions from Republicans in exchange for their votes to raise the debt ceiling. That sets up a potential standoff, which analysts note Republicans could avoid if they lose next week and raise the debt ceiling during the lame duck.
+"[R]aising the debt limit before January could substantially reduce leverage Democrats have over healthcare, Medicaid, SNAP, and broader domestic spending priorities in the next Congress," Raymond James told its clients.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html",
+    publishedAt: "2026-10-30T11:12:17+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "yorkshire-water-boss-resigns-after-firm-5c89c499",
+    title: "Yorkshire Water boss resigns after firm downgraded",
+    titleJa: "Yorkshire Water boss resigns after firm downgraded",
+    summaryJa: "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
+    bodyOriginal: `Yorkshire Water boss resigns after firm downgraded
+- Published
+Yorkshire Water's chief executive has announced she is to step down, just 24 hours after the company was given the lowest possible environmental rating by the Environment Agency
+Nicola Shaw, who has led the firm since 2022, will leave the role on 1 January to be replaced by Nicola Medalova, a chartered environmental health officer who previously worked for the National Grid.
+In a statement on Friday, Shaw said it had been a "privilege" to lead the company but that it was "the right time" to leave her post.
+Shaw has faced criticism in recent years, including for taking £1.9m in undisclosed payments between 2023 and 2026, while the company has come under scrutiny for its performance.
+The payments were made by Yorkshire Water's parent company, Kelda Holdings, for what the firm said was for "investor engagement" and "financial oversight".
+On Thursday, the Environment Agency gave the firm one star out of four - its lowest possible rating - meaning Yorkshire Water was classed as a "poorly performing company".
+The EA said Yorkshire Water was responsible for 260 pollution incidents in 2025, which was its highest total since 2011.
+In 2024, Ofwat announced it was fining the company £47m for historic sewage leaks.
+'Extremely proud'
+In her statement, Shaw said: "It has been a privilege to lead Yorkshire Water and serve the people of Yorkshire.
+"Although there remains a huge amount of work to do, I am extremely proud of what our colleagues have achieved, putting the business on a stronger footing for delivery across all aspects of its work."
+Yorkshire Water said Medalova would join the company on Monday as part of a transition period before assuming the chief executive officer role full time in the new year.
+She said: "I am delighted to be joining Yorkshire Water and grateful to the Board for the opportunity to lead the business through its next chapter.
+"Yorkshire Water faces huge challenges but also great opportunities for continued improvement and I look forward to working with Nicola Shaw, the leadership team and colleagues across the business as I get up to speed."
+In December last year Shaw said "not being transparent" about receiving £1.3m in shareholder-funded payments across two instalments had been a "mistake", but had insisted those amounts were "not for me to decide".
+She received a further £660,000 earlier this year. Ofwat said the payments were not performance-related.
+The previously undisclosed payments had come to light the previous August when the government banned Yorkshire Water and five other water companies from paying "unfair" bonuses to bosses.
+Listen to highlights from West Yorkshire on BBC Sounds, catch up with the latest episode of Look North.
+Related topics
+- Published1 day ago
+- Published18 December 2025
+- Published6 August 2024
+- Published24 February`,
+    bodyJa: `Yorkshire Water boss resigns after firm downgraded
+- Published
+Yorkshire Water's chief executive has announced she is to step down, just 24 hours after the company was given the lowest possible environmental rating by the Environment Agency
+Nicola Shaw, who has led the firm since 2022, will leave the role on 1 January to be replaced by Nicola Medalova, a chartered environmental health officer who previously worked for the National Grid.
+In a statement on Friday, Shaw said it had been a "privilege" to lead the company but that it was "the right time" to leave her post.
+Shaw has faced criticism in recent years, including for taking £1.9m in undisclosed payments between 2023 and 2026, while the company has come under scrutiny for its performance.
+The payments were made by Yorkshire Water's parent company, Kelda Holdings, for what the firm said was for "investor engagement" and "financial oversight".
+On Thursday, the Environment Agency gave the firm one star out of four - its lowest possible rating - meaning Yorkshire Water was classed as a "poorly performing company".
+The EA said Yorkshire Water was responsible for 260 pollution incidents in 2025, which was its highest total since 2011.
+In 2024, Ofwat announced it was fining the company £47m for historic sewage leaks.
+'Extremely proud'
+In her statement, Shaw said: "It has been a privilege to lead Yorkshire Water and serve the people of Yorkshire.
+"Although there remains a huge amount of work to do, I am extremely proud of what our colleagues have achieved, putting the business on a stronger footing for delivery across all aspects of its work."
+Yorkshire Water said Medalova would join the company on Monday as part of a transition period before assuming the chief executive officer role full time in the new year.
+She said: "I am delighted to be joining Yorkshire Water and grateful to the Board for the opportunity to lead the business through its next chapter.
+"Yorkshire Water faces huge challenges but also great opportunities for continued improvement and I look forward to working with Nicola Shaw, the leadership team and colleagues across the business as I get up to speed."
+In December last year Shaw said "not being transparent" about receiving £1.3m in shareholder-funded payments across two instalments had been a "mistake", but had insisted those amounts were "not for me to decide".
+She received a further £660,000 earlier this year. Ofwat said the payments were not performance-related.
+The previously undisclosed payments had come to light the previous August when the government banned Yorkshire Water and five other water companies from paying "unfair" bonuses to bosses.
+Listen to highlights from West Yorkshire on BBC Sounds, catch up with the latest episode of Look North.
+Related topics
+- Published1 day ago
+- Published18 December 2025
+- Published6 August 2024
+- Published24 February`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-30T07:54:08+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dbf/live/d8f7e870-d44a-11f1-b441-2b33b063138f.jpg",
+    readTime: 7,
+  },
+  {
+    id: "how-video-game-remakes-tap-the-power-of-2d937aff",
+    title: "How video game remakes tap the power of nostalgia",
+    titleJa: "How video game remakes tap the power of nostalgia",
+    summaryJa: "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.",
+    bodyOriginal: `How video game remakes tap the power of nostalgia
+- Published
+The moment she saw footage from the remake of The Legend of Zelda: Ocarina of Time, Kacey Doran picked up her phone. She had to tell her sister.
+"Have you seen this?" messaged Doran, excitedly.
+Nearly 30 years ago, a 10-year-old Doran had sat in front of her family's TV, reading out the dialogue on screen to her sister, a year younger, as they inched their way through the original Nintendo 64 game's sprawling, puzzle-filled dungeons. Ocarina's fantasy-like story, and beautiful music, enthralled them both.
+It was also the first game Doran ever completed. Now, countless memories rushed back to her as she devoured clips of the fully redesigned version, due to arrive on the Switch 2 later this year.
+Doran's sister messaged back: "I'm not tearing up… YOU'RE tearing up."
+This is the power of nostalgia – and a perfect example of how video games can trigger it. Doran now teaches an esports course at Rowan University in New Jersey. She says the original Ocarina of Time, released in 1998, had a "magical" quality that she hopes to rediscover, and also share with her sister's children.
+The video games industry has long leaned on remakes. From Mario Kart to the Final Fantasy series, or even Pac-Man, some games just keep coming back in updated forms, as new generations of gamers emerge and as computer hardware improves, enabling more detailed graphics and increasingly expansive game worlds.
+While the emotional hook may be the most significant draw, putting out a remake can be a double-edged sword. Some gamers are very protective of their favourite titles and new versions don't always meet certain fans' astronomically high expectations.
+Nostalgia is an important but mixed emotion, says Tim Wulf, at the Centre for Advanced Internet Studies in Bochum, Germany. It has positive aspects but also a kind of sadness, too. Happiness in remembering things that were important to us, and also an awareness that that time is now gone.
+"It's a social emotion because memories that induce nostalgia for us are connected to other people," he explains, adding that nostalgia can boost our self-esteem while highlighting key social bonds.
+Video games, says Wulf, are notoriously good at triggering nostalgia because gamers can "jump into the same environment". In other words, games are like time machines for our emotions, and returning to fondly remembered places can feel stabilising or reassuring in an ever-changing world.
+Doran, for one, notes that when you return to a favourite old game, there's something satisfying about deploying previously learned skills. You know what to do here, you're winning again. Just like the old days.
+Putting out remasters and remakes has been a "really successful" strategy for the games industry, says Piers Harding-Rolls, head of games research at Ampere Analysis.
+"Tying in with established audiences and building on existing content is quite a safe route for a lot of companies," he adds. In many cases, it is cheaper to update an existing game rather than create a new title from scratch.
+Among other remakes that have found big audiences recently are those of Resident Evil 4 and Assassin's Creed Black Flag.
+But Ocarina of Time perhaps stands out because, ever since its original release, it has been considered by many as one of the greatest games ever made. "The interest from all the Gen Zs that I work with is really high," says Harding-Rolls. The legend of The Legend of Zelda, as it were.
+Clearly, nostalgia is not the only driver of interest in the remake, and today's audiences will expect a game that plays to today's standards.
+Games companies must keep innovating when linking contemporary audiences to the past, says Wulf, in order satisfy their desire for fresh experiences. And although Wulf himself was a big fan of the original, he has no personal interest in the Ocarina of Time remake. "I want a new game – I don't want to play an old game," he says. Nostalgia isn't always enough for some.
+Plus, critics often highlight a tension between originals and remakes. Which is the definitive version? In 2021, Square Enix released the bizarrely titled Nier Replicant ver.1.22474487139... – a remaster of a game first published in 2010. One reviewer wrote, external, "What we're left with is two nearly identical Niers each vying to be the true Nier."
+Fans may react badly should a remaster or remake fail to do justice to the source material. And, in the gaming world, angry fan reactions can be serious.
+"There's always going to be that fan base or group of people that are going to nit-pick," says Stephanie Ijoma, chief executive and founder of NNESAGA, a consultancy and creative agency.
+Ultimately, games developers working on remakes have to "find the right balance" between appealing to fans and allowing themselves to be creative with the material, she adds. "You can't make art in fear, you can't create in fear."
+Ijoma gives the example of Final Fantasy VII. First released in 1997, it got a highly anticipated remake in 2020.
+This was a game Ijoma played back in the late 1990s and she was thrilled to be able to share it with younger players today.
+Remakes enable this sharing of experiences because getting old computer hardware or video games consoles to work, while a pastime loved by some, is not possible for everyone.
+"I've tried multiple times to play Silent Hill 2 because I'm interested in older games but it's such a difficult game to come into nowadays," says Niklas Hallin, a solo indie game developer who runs the studio Neckbolt. "They made a remake and it's so smooth, it just works. It works on your modern hardware."
+Hallin did not play many games as a child so he says nostalgia isn't much of a motivator for him. However, in his own games, he likes to include subtle stylistic references to classic games because he knows that this appeals to gamers.
+Indie developers often lean on retro games aesthetics not just because people respond well to them – but also because they are easier to achieve. "You can't compete with billion dollar budgets, super high-fidelity, Triple A graphics," he says.
+One question remains. The visual difference, today, between games released years apart is, arguably, negligible. So will there be any point in remaking a game from 2026 in, say, 2038? Will technology have moved on so much by then that it's actually worth it?
+Harding-Rolls predicts that games companies will still seek to connect new audiences with classic titles by offering updates.
+Remakes might become less about graphical improvements and more about editorial adjustments. "Reinterpretations," he says. "Or versions with additional content."
+It's never really "game over", is it?
+Technology of Business
+- Published25 September
+- Published1 October
+- Published30 September`,
+    bodyJa: `How video game remakes tap the power of nostalgia
+- Published
+The moment she saw footage from the remake of The Legend of Zelda: Ocarina of Time, Kacey Doran picked up her phone. She had to tell her sister.
+"Have you seen this?" messaged Doran, excitedly.
+Nearly 30 years ago, a 10-year-old Doran had sat in front of her family's TV, reading out the dialogue on screen to her sister, a year younger, as they inched their way through the original Nintendo 64 game's sprawling, puzzle-filled dungeons. Ocarina's fantasy-like story, and beautiful music, enthralled them both.
+It was also the first game Doran ever completed. Now, countless memories rushed back to her as she devoured clips of the fully redesigned version, due to arrive on the Switch 2 later this year.
+Doran's sister messaged back: "I'm not tearing up… YOU'RE tearing up."
+This is the power of nostalgia – and a perfect example of how video games can trigger it. Doran now teaches an esports course at Rowan University in New Jersey. She says the original Ocarina of Time, released in 1998, had a "magical" quality that she hopes to rediscover, and also share with her sister's children.
+The video games industry has long leaned on remakes. From Mario Kart to the Final Fantasy series, or even Pac-Man, some games just keep coming back in updated forms, as new generations of gamers emerge and as computer hardware improves, enabling more detailed graphics and increasingly expansive game worlds.
+While the emotional hook may be the most significant draw, putting out a remake can be a double-edged sword. Some gamers are very protective of their favourite titles and new versions don't always meet certain fans' astronomically high expectations.
+Nostalgia is an important but mixed emotion, says Tim Wulf, at the Centre for Advanced Internet Studies in Bochum, Germany. It has positive aspects but also a kind of sadness, too. Happiness in remembering things that were important to us, and also an awareness that that time is now gone.
+"It's a social emotion because memories that induce nostalgia for us are connected to other people," he explains, adding that nostalgia can boost our self-esteem while highlighting key social bonds.
+Video games, says Wulf, are notoriously good at triggering nostalgia because gamers can "jump into the same environment". In other words, games are like time machines for our emotions, and returning to fondly remembered places can feel stabilising or reassuring in an ever-changing world.
+Doran, for one, notes that when you return to a favourite old game, there's something satisfying about deploying previously learned skills. You know what to do here, you're winning again. Just like the old days.
+Putting out remasters and remakes has been a "really successful" strategy for the games industry, says Piers Harding-Rolls, head of games research at Ampere Analysis.
+"Tying in with established audiences and building on existing content is quite a safe route for a lot of companies," he adds. In many cases, it is cheaper to update an existing game rather than create a new title from scratch.
+Among other remakes that have found big audiences recently are those of Resident Evil 4 and Assassin's Creed Black Flag.
+But Ocarina of Time perhaps stands out because, ever since its original release, it has been considered by many as one of the greatest games ever made. "The interest from all the Gen Zs that I work with is really high," says Harding-Rolls. The legend of The Legend of Zelda, as it were.
+Clearly, nostalgia is not the only driver of interest in the remake, and today's audiences will expect a game that plays to today's standards.
+Games companies must keep innovating when linking contemporary audiences to the past, says Wulf, in order satisfy their desire for fresh experiences. And although Wulf himself was a big fan of the original, he has no personal interest in the Ocarina of Time remake. "I want a new game – I don't want to play an old game," he says. Nostalgia isn't always enough for some.
+Plus, critics often highlight a tension between originals and remakes. Which is the definitive version? In 2021, Square Enix released the bizarrely titled Nier Replicant ver.1.22474487139... – a remaster of a game first published in 2010. One reviewer wrote, external, "What we're left with is two nearly identical Niers each vying to be the true Nier."
+Fans may react badly should a remaster or remake fail to do justice to the source material. And, in the gaming world, angry fan reactions can be serious.
+"There's always going to be that fan base or group of people that are going to nit-pick," says Stephanie Ijoma, chief executive and founder of NNESAGA, a consultancy and creative agency.
+Ultimately, games developers working on remakes have to "find the right balance" between appealing to fans and allowing themselves to be creative with the material, she adds. "You can't make art in fear, you can't create in fear."
+Ijoma gives the example of Final Fantasy VII. First released in 1997, it got a highly anticipated remake in 2020.
+This was a game Ijoma played back in the late 1990s and she was thrilled to be able to share it with younger players today.
+Remakes enable this sharing of experiences because getting old computer hardware or video games consoles to work, while a pastime loved by some, is not possible for everyone.
+"I've tried multiple times to play Silent Hill 2 because I'm interested in older games but it's such a difficult game to come into nowadays," says Niklas Hallin, a solo indie game developer who runs the studio Neckbolt. "They made a remake and it's so smooth, it just works. It works on your modern hardware."
+Hallin did not play many games as a child so he says nostalgia isn't much of a motivator for him. However, in his own games, he likes to include subtle stylistic references to classic games because he knows that this appeals to gamers.
+Indie developers often lean on retro games aesthetics not just because people respond well to them – but also because they are easier to achieve. "You can't compete with billion dollar budgets, super high-fidelity, Triple A graphics," he says.
+One question remains. The visual difference, today, between games released years apart is, arguably, negligible. So will there be any point in remaking a game from 2026 in, say, 2038? Will technology have moved on so much by then that it's actually worth it?
+Harding-Rolls predicts that games companies will still seek to connect new audiences with classic titles by offering updates.
+Remakes might become less about graphical improvements and more about editorial adjustments. "Reinterpretations," he says. "Or versions with additional content."
+It's never really "game over", is it?
+Technology of Business
+- Published25 September
+- Published1 October
+- Published30 September`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-30T07:45:00+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f80/live/10dfbd10-c949-11f1-bc2e-018d645d8d21.jpg",
+    readTime: 10,
+  },
+  {
     id: "crypto-giant-binance-hit-by-largest-hack-4ea100d2",
     title: "Crypto giant Binance hit by 'largest hack in history'",
     titleJa: "Crypto giant Binance hit by 'largest hack in history'",
@@ -1730,696 +2238,6 @@ This story is developing. Please check back for updates.`,
     publishedAt: "2026-10-28T22:29:23+00:00",
     category: "金融政策",
     imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "alphabet-sinks-10-as-it-holds-2026-capex-0bf5537f",
-    title: "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
-    titleJa: "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
-    summaryJa: "Alphabet missed Q3 expectations on earnings and revenue, its first top-and-bottom-line miss in nearly four years.",
-    bodyOriginal: `Alphabet shares slumped more than 10% after the search giant reported a drop in free cash flow during the third quarter, in a worrying sign for the artificial intelligence trade.
-Here's how the company did, compared with estimates from analysts polled by LSEG:
-- Earnings per share: $2.67 adjusted vs. $3.02 expected
-- Revenue: $127.58 billion vs. $128.22 billion
-Revenue grew 25% from a year ago, but the company posted its first top-and-bottom-line miss in nearly four years.
-Net income fell to $26.17 billion, or $2.12 per share, down from $34.98 billion, or $2.87 per share, a year ago.
-The Google parent reported negative free cash flow of $9.07 billion, which fell much further than the $2.70 billion expected by analysts.
-As questions mount over heightened spending on the AI buildout, Alphabet's capital expenditures totaled $51.36 billion in Q3, falling short of the $55.09 billion expected by analysts. Investors are looking for a substantial return on investment to warrant the big spending plans from the hyperscalers.
-Alphabet maintained its full-year capital expenditures forecast after lifting guidance to between $195 billion and $205 billion during the second quarter from $190 billion. Annual capex is expected to top $200 billion before exceeding $300 billion in 2027.
-"We continue to expect our capex to increase significantly in 2027, and will provide further details on our Q4 call," finance chief Anat Ashkenazi told analysts during an earnings call.
-The company's borrowing rose sharply during the quarter, with long-term debt climbing to $125.1 billion, up from $21.6 billion a year earlier — an increase of about 479%.
-Operating income totaled $40.58 billion, missing a $43.19 billion forecast from FactSet.
-Alphabet saw a $99.03 billion windfall in revenue from equity holdings in the second quarter, fueled by stakes in SpaceX and Anthropic. However, the category weighed on results in the third quarter, resulting in a loss of $8.66 billion.
-The company continues to open its wallet to fuel the AI expansion, and that has contributed to strong revenue growth in its cloud division, home to its suite of AI offerings.
-"We are seeing extraordinary demand and strong growth from both AI labs, capital markets, financial service institutions, and enterprises," said Google Cloud CEO Thomas Kurian in his first public earnings call remarks.
-Cloud revenue more than doubled to $30.7 billion, surpassing the $28.7 billion expected by analysts. The company has continued taking market share from larger rivals Amazon Web Services and Microsoft Azure.
-The strong cloud results did little to shake off Google's largely negative print.
-"The cloud business was the only business that beat at 103% growth," said Jefferies analyst Brent Thill on CNBC's Closing Bell: Overtime. "The Street wanted 100%, so it didn't beat by much, and it missed some of the high-end targets. Everything else missed."
-The company's aggressive push on AI models did show signs of consumer adoption. Google said its Gemini app reached 1 billion users, making it the fastest-growing product in its history, the company said.
-CEO Sundar Pichai told analysts that the company is already seeing strong demand for its recently launched Argon Gemini model. Its Carbon iteration announced on Wednesday outperforms Argon "on almost every domain," he added.
-Alphabet's search revenue grew 12% to $63.35 billion. That fell short of a $64.96 billion estimate. Pichai said the company's AI investments powered the highest query growth rate over the last five years.`,
-    bodyJa: `Alphabet shares slumped more than 10% after the search giant reported a drop in free cash flow during the third quarter, in a worrying sign for the artificial intelligence trade.
-Here's how the company did, compared with estimates from analysts polled by LSEG:
-- Earnings per share: $2.67 adjusted vs. $3.02 expected
-- Revenue: $127.58 billion vs. $128.22 billion
-Revenue grew 25% from a year ago, but the company posted its first top-and-bottom-line miss in nearly four years.
-Net income fell to $26.17 billion, or $2.12 per share, down from $34.98 billion, or $2.87 per share, a year ago.
-The Google parent reported negative free cash flow of $9.07 billion, which fell much further than the $2.70 billion expected by analysts.
-As questions mount over heightened spending on the AI buildout, Alphabet's capital expenditures totaled $51.36 billion in Q3, falling short of the $55.09 billion expected by analysts. Investors are looking for a substantial return on investment to warrant the big spending plans from the hyperscalers.
-Alphabet maintained its full-year capital expenditures forecast after lifting guidance to between $195 billion and $205 billion during the second quarter from $190 billion. Annual capex is expected to top $200 billion before exceeding $300 billion in 2027.
-"We continue to expect our capex to increase significantly in 2027, and will provide further details on our Q4 call," finance chief Anat Ashkenazi told analysts during an earnings call.
-The company's borrowing rose sharply during the quarter, with long-term debt climbing to $125.1 billion, up from $21.6 billion a year earlier — an increase of about 479%.
-Operating income totaled $40.58 billion, missing a $43.19 billion forecast from FactSet.
-Alphabet saw a $99.03 billion windfall in revenue from equity holdings in the second quarter, fueled by stakes in SpaceX and Anthropic. However, the category weighed on results in the third quarter, resulting in a loss of $8.66 billion.
-The company continues to open its wallet to fuel the AI expansion, and that has contributed to strong revenue growth in its cloud division, home to its suite of AI offerings.
-"We are seeing extraordinary demand and strong growth from both AI labs, capital markets, financial service institutions, and enterprises," said Google Cloud CEO Thomas Kurian in his first public earnings call remarks.
-Cloud revenue more than doubled to $30.7 billion, surpassing the $28.7 billion expected by analysts. The company has continued taking market share from larger rivals Amazon Web Services and Microsoft Azure.
-The strong cloud results did little to shake off Google's largely negative print.
-"The cloud business was the only business that beat at 103% growth," said Jefferies analyst Brent Thill on CNBC's Closing Bell: Overtime. "The Street wanted 100%, so it didn't beat by much, and it missed some of the high-end targets. Everything else missed."
-The company's aggressive push on AI models did show signs of consumer adoption. Google said its Gemini app reached 1 billion users, making it the fastest-growing product in its history, the company said.
-CEO Sundar Pichai told analysts that the company is already seeing strong demand for its recently launched Argon Gemini model. Its Carbon iteration announced on Wednesday outperforms Argon "on almost every domain," he added.
-Alphabet's search revenue grew 12% to $63.35 billion. That fell short of a $64.96 billion estimate. Pichai said the company's AI investments powered the highest query growth rate over the last five years.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
-    publishedAt: "2026-10-28T22:07:17+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "here-are-five-key-takeaways-from-the-fed-e70d093a",
-    title: "Here are five key takeaways from the Fed rate decision and Warsh news conference",
-    titleJa: "Here are five key takeaways from the Fed rate decision and Warsh news conference",
-    summaryJa: "Even though the interest-rate vote went as expected, there were a few surprises out of this week's Federal Open Market Committee meeting.",
-    bodyOriginal: `The Federal Reserve voted Wednesday to hold its benchmark interest rate steady. At the press conference that followed, Fed Chairman Kevin Warsh disclosed some of his thinking about where the U.S. economy stands, and how that affects monetary policy. But for Fed wonks, the big news may have been Warsh's disclosure of some procedural changes ahead.
-Here are five key takeaways:
-- No surprises: Markets had been widely expecting the Fed to hold, and it did just that. In explaining its decision, the Federal Open Market Committee emphasized a patient approach, saying, "The accumulation of more information will help the Committee determine the policy stance appropriate to ensure a timely return of inflation to the Committee's 2 percent goal."
-- Well, one surprise: If there was one eyebrow-raising moment from the afternoon, it was Warsh's disclosure of changes in how the FOMC will meet. In 2027, the committee will still meet eight times, but one of the meetings will not entail a vote on interest rates, or include a post-meeting statement. The "strategy" meetings will increase to two the next year, leaving just six opportunities to adjust rates — outside of emergency meetings.
-- OK, two surprises: The FOMC vote to hold policy where it stands was widely expected. Dissent from multiple members also came as no shock. But one of the "no" votes coming from Governor Lisa Cook was a stunner. Governors rarely dissent from rate votes, and Cook hasn't done so at all since taking her seat in 2022. Cleveland Fed President Beth Hammack also opposed the decision. Both likely will provide statements explaining their votes before the end of the week.
-- The AI impact: Warsh took the opportunity to talk about the impact artificial intelligence is having on economic growth, essentially saying that it was just one of several factors driving an expansion that he said was running strong.
-- More musical chairs: The September meeting featured a shortened post-meeting news conference — cut from the usual 45 minutes or so down to half an hour, about the time of Wednesday's event. Moreover, reporters have been limited to a single question, a switch from prior practices when media members would take a two-for-one approach. Finally, Warsh has changed the seating in the room, going from a largely arbitrary approach — with representatives of larger outfits up front — to alphabetical order last month. This month featured reverse alphabetical order, keeping the bearers of the microphone on their toes.
-What they're saying:
-"The Fed is leaning into patience. It seems they prefer to wait for more information on the appropriate level of rates, as uncertainty reigns supreme in light of recent geopolitical developments." —Phil Camporeale, chief investment strategist, JPMorgan Wealth Management.
-"The Fed has time on its side ... But the direction of travel remains clear. The Fed is still taking back some of last year's rate cuts, and the two dissents underline that tightening bias. We expect a hike in December and another in early 2027." — Seema Shah, chief global strategist, Principal Asset Management.
-"We hesitate to characterize his communication as particularly dovish or hawkish ... The bottom line is that the Fed policy reaction is not a black-and-white, binary thing ... The market has adjusted to Warsh's communication style, but there might be a ways to go before they are fully on the same page." — Thomas Simons, chief U.S. economist, Jefferies.`,
-    bodyJa: `The Federal Reserve voted Wednesday to hold its benchmark interest rate steady. At the press conference that followed, Fed Chairman Kevin Warsh disclosed some of his thinking about where the U.S. economy stands, and how that affects monetary policy. But for Fed wonks, the big news may have been Warsh's disclosure of some procedural changes ahead.
-Here are five key takeaways:
-- No surprises: Markets had been widely expecting the Fed to hold, and it did just that. In explaining its decision, the Federal Open Market Committee emphasized a patient approach, saying, "The accumulation of more information will help the Committee determine the policy stance appropriate to ensure a timely return of inflation to the Committee's 2 percent goal."
-- Well, one surprise: If there was one eyebrow-raising moment from the afternoon, it was Warsh's disclosure of changes in how the FOMC will meet. In 2027, the committee will still meet eight times, but one of the meetings will not entail a vote on interest rates, or include a post-meeting statement. The "strategy" meetings will increase to two the next year, leaving just six opportunities to adjust rates — outside of emergency meetings.
-- OK, two surprises: The FOMC vote to hold policy where it stands was widely expected. Dissent from multiple members also came as no shock. But one of the "no" votes coming from Governor Lisa Cook was a stunner. Governors rarely dissent from rate votes, and Cook hasn't done so at all since taking her seat in 2022. Cleveland Fed President Beth Hammack also opposed the decision. Both likely will provide statements explaining their votes before the end of the week.
-- The AI impact: Warsh took the opportunity to talk about the impact artificial intelligence is having on economic growth, essentially saying that it was just one of several factors driving an expansion that he said was running strong.
-- More musical chairs: The September meeting featured a shortened post-meeting news conference — cut from the usual 45 minutes or so down to half an hour, about the time of Wednesday's event. Moreover, reporters have been limited to a single question, a switch from prior practices when media members would take a two-for-one approach. Finally, Warsh has changed the seating in the room, going from a largely arbitrary approach — with representatives of larger outfits up front — to alphabetical order last month. This month featured reverse alphabetical order, keeping the bearers of the microphone on their toes.
-What they're saying:
-"The Fed is leaning into patience. It seems they prefer to wait for more information on the appropriate level of rates, as uncertainty reigns supreme in light of recent geopolitical developments." —Phil Camporeale, chief investment strategist, JPMorgan Wealth Management.
-"The Fed has time on its side ... But the direction of travel remains clear. The Fed is still taking back some of last year's rate cuts, and the two dissents underline that tightening bias. We expect a hike in December and another in early 2027." — Seema Shah, chief global strategist, Principal Asset Management.
-"We hesitate to characterize his communication as particularly dovish or hawkish ... The bottom line is that the Fed policy reaction is not a black-and-white, binary thing ... The market has adjusted to Warsh's communication style, but there might be a ways to go before they are fully on the same page." — Thomas Simons, chief U.S. economist, Jefferies.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
-    publishedAt: "2026-10-28T21:31:46+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "what-we-now-know-about-the-uk-economy-in-be5b1d23",
-    title: "What we now know about the UK economy in four charts",
-    titleJa: "What we now know about the UK economy in four charts",
-    summaryJa: "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
-    bodyOriginal: `What we now know about the UK economy in four charts
-- Published
-The UK may have no involvement in the US-Iran war, but the country is feeling the full force of the conflict on its economy.
-Soaring energy prices are set to dent growth in the short term, push up inflation and leave living standards in a "grim" place, according to the latest official forecast from the Office for Budget Responsibility (OBR).
-Interest rates are also predicted to rise, making borrowing more expensive, along with government debt repayments.
-Chancellor John Healey warned the nation faces "real challenges ahead" as he announced policies that he said would offer "breathing space" for households in the coming months.
-Your pay, energy bills and savings: How the Budget affects you
-- Published5 hours ago
-"What we face today are global economic storms," he said. "We can't wish them away. We must choose the course we steer through them."
-In its first assessment of the UK economy since the Middle East conflict started, the OBR said rising energy prices were the biggest risk to the economy in the near future.
-Despite raising its growth forecast for this year, it sharply cut its prediction for next year from 1.6% to 1%.
-Growth is then set to rebound in the following years.
-When an economy grows, businesses tend to invest more, create more jobs and give pay rises to workers, which leaves people feeling better off on average, though it can take time and not everyone necessarily benefits.
-Companies making higher profits also pay more in tax, which can enable the government to spend more on public services. When there is slow economic growth, or the economy shrinks, the opposite can occur.
-Inflation can weigh on growth and the OBR has forecast that prices are set to rise at a faster pace as higher energy bills filter through supply chains and to consumers, especially in 2027.
-High global oil prices have already hit drivers at the pumps, with petrol priced at almost £1.73 per litre on average, while diesel is near £1.99.
-Elevated oil prices over time can lead to prices edging upwards across a host of goods, such as food, as companies pass on the higher expenses they face to consumers.
-Goods are typically transported to destinations by lorries and vans, so high fuel prices can have far-reaching consequences.
-The OBR now thinks inflation will stay higher for longer than previously forecast, peaking at 3.8% in 2027.
-Despite the cost-of-living support announced by the government, economists at Pantheon Macroeconomics said the measures were "small beer given the surge in inflation we expect over the winter".
-High inflation paints a bleak picture when it comes to living standards and the OBR has forecast a dip next year as energy bills hit the spending power of households.
-Those on lower incomes are set to be hit harder, however, because energy costs eat up a bigger share of their monthly budget and disposable income.
-Real household disposable income, a measure of living standards, is forecast to grow from 2027, but not by as much as previously thought.
-"It's a pretty grim picture," according to the OBR's David Miles, who says there has been "virtually no growth" for individuals since before the Covid pandemic.
-"It's been a dismal period in British economic history."
-What the Budget offers for under 25s - and what it leaves out
-- Published2 hours ago
-Inflation is expected to average 3.4% next year, before falling to the Bank of England's 2% target towards the end of the decade.
-The Bank is widely expected to raise interest rates next week due to higher inflation in recent months. Rates are currently at 3.75%, but the OBR now forecasts they could rise to as high as 4.5% in the coming years.
-It had previously forecast two interest rate cuts this year.
-Higher rates makes borrowing money more expensive but can boost returns on savings.
-Inflation also raises the cost of borrowing for the government, with spending on debt interest set to rise.
-Such repayments are also predicted to increase the overall amount the government borrows, which is set to increase every year by more than had been previously forecast by the OBR.
-Higher spending on welfare and pensions due to inflation is also expected to increase borrowing, though it is forecast to fall as a share of the economy over the next five years.
-However, forecasts are only a best guess at what might happen in the future. Given the way the conflict in the Middle East has upended previous predictions, the future of the war could alter inflation expectations.
-US President Donald Trump has suggested the war will end after the mid-term elections next month.
-The OBR admitted there remained "significant uncertainty" around its predictions due to the changing situation in the Middle East.
-- Published4 hours ago`,
-    bodyJa: `What we now know about the UK economy in four charts
-- Published
-The UK may have no involvement in the US-Iran war, but the country is feeling the full force of the conflict on its economy.
-Soaring energy prices are set to dent growth in the short term, push up inflation and leave living standards in a "grim" place, according to the latest official forecast from the Office for Budget Responsibility (OBR).
-Interest rates are also predicted to rise, making borrowing more expensive, along with government debt repayments.
-Chancellor John Healey warned the nation faces "real challenges ahead" as he announced policies that he said would offer "breathing space" for households in the coming months.
-Your pay, energy bills and savings: How the Budget affects you
-- Published5 hours ago
-"What we face today are global economic storms," he said. "We can't wish them away. We must choose the course we steer through them."
-In its first assessment of the UK economy since the Middle East conflict started, the OBR said rising energy prices were the biggest risk to the economy in the near future.
-Despite raising its growth forecast for this year, it sharply cut its prediction for next year from 1.6% to 1%.
-Growth is then set to rebound in the following years.
-When an economy grows, businesses tend to invest more, create more jobs and give pay rises to workers, which leaves people feeling better off on average, though it can take time and not everyone necessarily benefits.
-Companies making higher profits also pay more in tax, which can enable the government to spend more on public services. When there is slow economic growth, or the economy shrinks, the opposite can occur.
-Inflation can weigh on growth and the OBR has forecast that prices are set to rise at a faster pace as higher energy bills filter through supply chains and to consumers, especially in 2027.
-High global oil prices have already hit drivers at the pumps, with petrol priced at almost £1.73 per litre on average, while diesel is near £1.99.
-Elevated oil prices over time can lead to prices edging upwards across a host of goods, such as food, as companies pass on the higher expenses they face to consumers.
-Goods are typically transported to destinations by lorries and vans, so high fuel prices can have far-reaching consequences.
-The OBR now thinks inflation will stay higher for longer than previously forecast, peaking at 3.8% in 2027.
-Despite the cost-of-living support announced by the government, economists at Pantheon Macroeconomics said the measures were "small beer given the surge in inflation we expect over the winter".
-High inflation paints a bleak picture when it comes to living standards and the OBR has forecast a dip next year as energy bills hit the spending power of households.
-Those on lower incomes are set to be hit harder, however, because energy costs eat up a bigger share of their monthly budget and disposable income.
-Real household disposable income, a measure of living standards, is forecast to grow from 2027, but not by as much as previously thought.
-"It's a pretty grim picture," according to the OBR's David Miles, who says there has been "virtually no growth" for individuals since before the Covid pandemic.
-"It's been a dismal period in British economic history."
-What the Budget offers for under 25s - and what it leaves out
-- Published2 hours ago
-Inflation is expected to average 3.4% next year, before falling to the Bank of England's 2% target towards the end of the decade.
-The Bank is widely expected to raise interest rates next week due to higher inflation in recent months. Rates are currently at 3.75%, but the OBR now forecasts they could rise to as high as 4.5% in the coming years.
-It had previously forecast two interest rate cuts this year.
-Higher rates makes borrowing money more expensive but can boost returns on savings.
-Inflation also raises the cost of borrowing for the government, with spending on debt interest set to rise.
-Such repayments are also predicted to increase the overall amount the government borrows, which is set to increase every year by more than had been previously forecast by the OBR.
-Higher spending on welfare and pensions due to inflation is also expected to increase borrowing, though it is forecast to fall as a share of the economy over the next five years.
-However, forecasts are only a best guess at what might happen in the future. Given the way the conflict in the Middle East has upended previous predictions, the future of the war could alter inflation expectations.
-US President Donald Trump has suggested the war will end after the mid-term elections next month.
-The OBR admitted there remained "significant uncertainty" around its predictions due to the changing situation in the Middle East.
-- Published4 hours ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-28T20:08:45+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/302d/live/da4a7910-d2ea-11f1-8d86-83eebc838351.jpg",
-    readTime: 10,
-  },
-  {
-    id: "what-the-budget-offers-for-under-25s-and-610c12f9",
-    title: "What the Budget offers for under 25s - and what it leaves out",
-    titleJa: "What the Budget offers for under 25s - and what it leaves out",
-    summaryJa: "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
-    bodyOriginal: `What the Budget offers for under 25s - and what it leaves out
-- Published
-Chancellor John Healey has announced his Budget, which includes changes to minimum wage and help for people trying to get onto the housing ladder.
-Here is how the Budget could affect you if you are under-25.
-Minimum wage rise
-If you are an 18-to-20 year-old earning the minimum wage, your pay will go up by 3.9% from next April.
-However, the increase may be lower than you had expected. That is because Healey reversed course on how his Labour predecessor, Rachel Reeves, had been increasing the minimum wage for young people.
-Labour had promised to do away with "discriminatory age bands", with all adults entitled to the same minimum wage. This year, 18-20 year-olds will see the same increase as older workers, meaning the disparity will remain. So, for 18-to-20 year-olds, your pay will rise to £11.27, while over-20s will be paid a minimum of £13.21 an hour.
-The increase also means a 21-year-old, who is working full time on the minimum wage and took out a student loan after 2023, will now earn enough to meet the £25,000 repayment threshold, over which they will start paying back 9% of their earnings.
-First-time buyer boost
-The Budget contained plans to help people get onto the housing ladder, including the introduction of a "First Time Buyer Isa". This is an account in which savers can build up a deposit, with the government topping up contributions of up to £4,000 each year with a 25% bonus.
-The new savings account will be introduced in 2029, replacing the existing Lifetime Isa, which has been criticised by some for imposing harsh penalties on those buying homes for more than the £450,000 cap.
-The cap will remain, but the new "First Time Buyer Isa" will ensure savers are not penalised by losing their own money when making withdrawals. Savers will only lose contributions made by the government when making withdrawals which are not eligible for the account.
-The penalty for withdrawals from existing Lifetime Isas will be lowered, too, to address concerns about savers being punished.
-The government had already revealed a £4.7bn scheme for first-time buyers in England dubbed Your First Home. It is aiming to help 70,000 individuals and couples get on the housing ladder
-The scheme will allow people to buy a new-build home with a deposit of 2.5%. It will provide them with a loan worth 20% of their property's value to help pay for the purchase.
-Capped at £110,000 outside London and £140,000 in the capital, it is aimed at those hoping to get on the housing ladder without help from "the bank of mum and dad".
-Young Entrepreneurs Allowance
-If you are a young person hoping to start a business in England, the Budget contained good news for you.
-The chancellor wants to level the playing field for young entrepreneurs who have bright ideas, but who might not have the same family financial backing as others.
-In an attempt to encourage more young people to start their own businesses, the government will pilot a "Young Entrepreneurs Allowance" in England.
-The allowance will see your living costs partly covered by the government for the first year your business is operating. Healey hopes it will encourage more young people to take the plunge and become entrepreneurs.
-Details of the scheme are thin at the moment, however, only that it will be rolled out "shortly".
-Chris Mason: Budget felt cautious despite its range of small measures
-- Published5 hours ago
-Your pay, energy bills and savings: How the Budget affects you
-- Published5 hours ago
-No help yet on jobs
-If you are one of more than a million 18-to-24 year-olds not in employment, education or training (Neet), Wednesday's Budget may have been a frustrating watch.
-The chancellor acknowledged the scale of the crisis facing young people, but said solutions would not come yet. Ministers are waiting on a series of recommendations from Alan Milburn, who has been looking into why so many young people are Neet in the UK.
-Milburn has warned Britain is "at risk of a lost generation" due to the crisis, saying a "round of ammunition" is needed rather than a silver bullet. He will make recommendations to the government later this year.
-Healey said he refused to write off young people during his Budget speech and the government was looking forward to Milburn's final report.
-Student loans 'under review'
-Another group left hanging were those with outstanding student loans, particularly the controversial Plan 2 loans taken out between 2012 and 2023 - which many fear they will never be able to pay off.
-If you have student loans, the government has said it is looking at ways to reform the repayment system. But action was not forthcoming at the Budget, despite expectations in the run up that the issue might be addressed.
-After the statement, Chief Secretary to the Treasury Emma Reynolds said the loan repayment system is "under review".
-"We inherited a system that is difficult and unfair on young people, but we weren't able to move on that today," she told the BBC.
-Budget 2026: Key points at a glance
-- Published5 hours ago
-Healey tells departments to make 1% cuts to fund defence
-- Published3 hours ago
-Charts by Tommy Lumby and Rob England.`,
-    bodyJa: `What the Budget offers for under 25s - and what it leaves out
-- Published
-Chancellor John Healey has announced his Budget, which includes changes to minimum wage and help for people trying to get onto the housing ladder.
-Here is how the Budget could affect you if you are under-25.
-Minimum wage rise
-If you are an 18-to-20 year-old earning the minimum wage, your pay will go up by 3.9% from next April.
-However, the increase may be lower than you had expected. That is because Healey reversed course on how his Labour predecessor, Rachel Reeves, had been increasing the minimum wage for young people.
-Labour had promised to do away with "discriminatory age bands", with all adults entitled to the same minimum wage. This year, 18-20 year-olds will see the same increase as older workers, meaning the disparity will remain. So, for 18-to-20 year-olds, your pay will rise to £11.27, while over-20s will be paid a minimum of £13.21 an hour.
-The increase also means a 21-year-old, who is working full time on the minimum wage and took out a student loan after 2023, will now earn enough to meet the £25,000 repayment threshold, over which they will start paying back 9% of their earnings.
-First-time buyer boost
-The Budget contained plans to help people get onto the housing ladder, including the introduction of a "First Time Buyer Isa". This is an account in which savers can build up a deposit, with the government topping up contributions of up to £4,000 each year with a 25% bonus.
-The new savings account will be introduced in 2029, replacing the existing Lifetime Isa, which has been criticised by some for imposing harsh penalties on those buying homes for more than the £450,000 cap.
-The cap will remain, but the new "First Time Buyer Isa" will ensure savers are not penalised by losing their own money when making withdrawals. Savers will only lose contributions made by the government when making withdrawals which are not eligible for the account.
-The penalty for withdrawals from existing Lifetime Isas will be lowered, too, to address concerns about savers being punished.
-The government had already revealed a £4.7bn scheme for first-time buyers in England dubbed Your First Home. It is aiming to help 70,000 individuals and couples get on the housing ladder
-The scheme will allow people to buy a new-build home with a deposit of 2.5%. It will provide them with a loan worth 20% of their property's value to help pay for the purchase.
-Capped at £110,000 outside London and £140,000 in the capital, it is aimed at those hoping to get on the housing ladder without help from "the bank of mum and dad".
-Young Entrepreneurs Allowance
-If you are a young person hoping to start a business in England, the Budget contained good news for you.
-The chancellor wants to level the playing field for young entrepreneurs who have bright ideas, but who might not have the same family financial backing as others.
-In an attempt to encourage more young people to start their own businesses, the government will pilot a "Young Entrepreneurs Allowance" in England.
-The allowance will see your living costs partly covered by the government for the first year your business is operating. Healey hopes it will encourage more young people to take the plunge and become entrepreneurs.
-Details of the scheme are thin at the moment, however, only that it will be rolled out "shortly".
-Chris Mason: Budget felt cautious despite its range of small measures
-- Published5 hours ago
-Your pay, energy bills and savings: How the Budget affects you
-- Published5 hours ago
-No help yet on jobs
-If you are one of more than a million 18-to-24 year-olds not in employment, education or training (Neet), Wednesday's Budget may have been a frustrating watch.
-The chancellor acknowledged the scale of the crisis facing young people, but said solutions would not come yet. Ministers are waiting on a series of recommendations from Alan Milburn, who has been looking into why so many young people are Neet in the UK.
-Milburn has warned Britain is "at risk of a lost generation" due to the crisis, saying a "round of ammunition" is needed rather than a silver bullet. He will make recommendations to the government later this year.
-Healey said he refused to write off young people during his Budget speech and the government was looking forward to Milburn's final report.
-Student loans 'under review'
-Another group left hanging were those with outstanding student loans, particularly the controversial Plan 2 loans taken out between 2012 and 2023 - which many fear they will never be able to pay off.
-If you have student loans, the government has said it is looking at ways to reform the repayment system. But action was not forthcoming at the Budget, despite expectations in the run up that the issue might be addressed.
-After the statement, Chief Secretary to the Treasury Emma Reynolds said the loan repayment system is "under review".
-"We inherited a system that is difficult and unfair on young people, but we weren't able to move on that today," she told the BBC.
-Budget 2026: Key points at a glance
-- Published5 hours ago
-Healey tells departments to make 1% cuts to fund defence
-- Published3 hours ago
-Charts by Tommy Lumby and Rob England.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-28T20:02:38+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f96e/live/0a45b830-d2de-11f1-93e1-3b657b665bcf.jpg",
-    readTime: 10,
-  },
-  {
-    id: "dharshini-david-healey-buys-himself-some-c2320242",
-    title: "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-    titleJa: "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-    summaryJa: "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
-    bodyOriginal: `Dharshini David: Healey buys himself some time, but big questions still unanswered
-- Published
-John Healey talked of charting a new course for Britain, but this Budget was more about course-correcting than charging down a new path.
-It was abundantly clear that the financial fallout from that conflict in the Middle East has hampered the finances of households and businesses – and the government's ability to help.
-While the government targeted those impacted by higher energy and fuel bills, the "breathing space" it aimed to provide was limited; it is a pill that doesn't fully alleviate the pain.
-The most telling evidence was that official forecasters predict that while earnings will rise, that is not compensating for higher prices and taxes.
-Even after the extra help is taken into account, households' incomes after inflation and tax are set to be typically lower across the next two years than the start of the parliament. On that basis, it could be the second worse parliament for living standards, after the last one, since the 1950s - a sign of how far the war has blown prosperity off course.
-But it can't be all be blamed on the war. Taxes haven't helped. Although there were few major measures aimed at households, the policy of previous chancellors of freezing the thresholds at which different rates of tax on income apply - fiscal drag - has been maintained in the background, scooping more money out of pay packets.
-Overall, this Budget has the tax burden - the proportion of the nation's income going to the tax office - rising to a new historic high of 38.6%
-However, a more generous package of help would have been hard to pull off. The impact of higher inflation and debt have increased borrowing costs by £14bn in the past year alone.
-The Chancellor had to prove to the markets which lend the government money that he has a plan to bring down future debt to avoid those costs climbing further.
-As it stands, debt interest repayments are due to be £160bn in 2032, more than double the amount spent on schools in England.
-And the plans Healey has unveiled already eat into wiggle room he has within the public finances. He says he was right to do so - that's what such safety margins are there for - in times of strife. But the great uncertainty that remains made going further very risky. Energy prices remaining high, for example, could easily chew up all the spare cash.
-So the result was what some have termed a beige, safe Budget. As Healey strove to prove his fiscally sound credentials, there wasn't even the customary rabbit pulled out of the hat, the end-of-speech sweetener.
-The markets seem reassured – even if some of his tax raising plans involve clamping down on loopholes and those not paying the right tax, which is always highly uncertain.
-Budget 2026: Key points at a glance
-- Published5 hours ago
-Your pay, energy bills and savings: How the Budget affects you
-- Published5 hours ago
-So the chancellor appears to have bought himself some breathing space. But that means some big questions have been postponed until another day, not least on public services.
-Higher-than-expected inflation may mean that if areas such as health and defence are prioritised, budgets for some other "unprotected" areas – justice and higher education for example – are set to lag behind inflation after 2028.
-There was a hint too from John Healey that he'd tap into some of those budgets to help out defence spending. To maintain those budgets in 2030 would means finding tens of billions of pounds.
-And issues around the other big area of spending – welfare – remain unresolved. Between 2025 and 2032, spending there is set to increase by £100bn.
-The official forecasters also noted the rapid rise in sickness and disability caseloads since the start of the pandemic. They warn if that trend continued, spending on such benefits would rise by a further £13bn.
-Any suggestion of welfare reform has been postponed until the forthcoming review into the plight of workless young people.
-Then there's the issue of boosting growth. There was a bit more detail on the plans for devolution – but there is much to be fleshed out.
-And on another key part of the growth strategy, housebuilding, there was disappointing news. Even though first-time buyers are set to get more help, their first home may be more elusive.
-Between regulation and higher costs – in part, related to the war - the OBR estimates that 190,000 fewer homes will be built by 2032 compared to what it thought in March, a significant setback.
-So the chancellor may have unveiled 98 (relatively small) measures but the to-do list gets longer.
-With his official forecasters warning that, in a very uncertain world, his finances face exceptional risks, playing a wait-and-see game feels like a prudent move.
-The risks go both ways: the OBR points out that a swift resolution to the war and an improvement in the economy could spell a significant boost to the public finances.
-So the chancellor has more reason than most to keep his fingers crossed that happens rapidly.
-For as it stands, the official forecasters say incomes after inflation, living standards, are set to be only 1% higher at the end of the decade than at the start.
-A series of economic shocks outside out control could thwart plans to turbo-boost prosperity . And as today shows, breathing space only extends so far.`,
-    bodyJa: `Dharshini David: Healey buys himself some time, but big questions still unanswered
-- Published
-John Healey talked of charting a new course for Britain, but this Budget was more about course-correcting than charging down a new path.
-It was abundantly clear that the financial fallout from that conflict in the Middle East has hampered the finances of households and businesses – and the government's ability to help.
-While the government targeted those impacted by higher energy and fuel bills, the "breathing space" it aimed to provide was limited; it is a pill that doesn't fully alleviate the pain.
-The most telling evidence was that official forecasters predict that while earnings will rise, that is not compensating for higher prices and taxes.
-Even after the extra help is taken into account, households' incomes after inflation and tax are set to be typically lower across the next two years than the start of the parliament. On that basis, it could be the second worse parliament for living standards, after the last one, since the 1950s - a sign of how far the war has blown prosperity off course.
-But it can't be all be blamed on the war. Taxes haven't helped. Although there were few major measures aimed at households, the policy of previous chancellors of freezing the thresholds at which different rates of tax on income apply - fiscal drag - has been maintained in the background, scooping more money out of pay packets.
-Overall, this Budget has the tax burden - the proportion of the nation's income going to the tax office - rising to a new historic high of 38.6%
-However, a more generous package of help would have been hard to pull off. The impact of higher inflation and debt have increased borrowing costs by £14bn in the past year alone.
-The Chancellor had to prove to the markets which lend the government money that he has a plan to bring down future debt to avoid those costs climbing further.
-As it stands, debt interest repayments are due to be £160bn in 2032, more than double the amount spent on schools in England.
-And the plans Healey has unveiled already eat into wiggle room he has within the public finances. He says he was right to do so - that's what such safety margins are there for - in times of strife. But the great uncertainty that remains made going further very risky. Energy prices remaining high, for example, could easily chew up all the spare cash.
-So the result was what some have termed a beige, safe Budget. As Healey strove to prove his fiscally sound credentials, there wasn't even the customary rabbit pulled out of the hat, the end-of-speech sweetener.
-The markets seem reassured – even if some of his tax raising plans involve clamping down on loopholes and those not paying the right tax, which is always highly uncertain.
-Budget 2026: Key points at a glance
-- Published5 hours ago
-Your pay, energy bills and savings: How the Budget affects you
-- Published5 hours ago
-So the chancellor appears to have bought himself some breathing space. But that means some big questions have been postponed until another day, not least on public services.
-Higher-than-expected inflation may mean that if areas such as health and defence are prioritised, budgets for some other "unprotected" areas – justice and higher education for example – are set to lag behind inflation after 2028.
-There was a hint too from John Healey that he'd tap into some of those budgets to help out defence spending. To maintain those budgets in 2030 would means finding tens of billions of pounds.
-And issues around the other big area of spending – welfare – remain unresolved. Between 2025 and 2032, spending there is set to increase by £100bn.
-The official forecasters also noted the rapid rise in sickness and disability caseloads since the start of the pandemic. They warn if that trend continued, spending on such benefits would rise by a further £13bn.
-Any suggestion of welfare reform has been postponed until the forthcoming review into the plight of workless young people.
-Then there's the issue of boosting growth. There was a bit more detail on the plans for devolution – but there is much to be fleshed out.
-And on another key part of the growth strategy, housebuilding, there was disappointing news. Even though first-time buyers are set to get more help, their first home may be more elusive.
-Between regulation and higher costs – in part, related to the war - the OBR estimates that 190,000 fewer homes will be built by 2032 compared to what it thought in March, a significant setback.
-So the chancellor may have unveiled 98 (relatively small) measures but the to-do list gets longer.
-With his official forecasters warning that, in a very uncertain world, his finances face exceptional risks, playing a wait-and-see game feels like a prudent move.
-The risks go both ways: the OBR points out that a swift resolution to the war and an improvement in the economy could spell a significant boost to the public finances.
-So the chancellor has more reason than most to keep his fingers crossed that happens rapidly.
-For as it stands, the official forecasters say incomes after inflation, living standards, are set to be only 1% higher at the end of the decade than at the start.
-A series of economic shocks outside out control could thwart plans to turbo-boost prosperity . And as today shows, breathing space only extends so far.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-28T19:51:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/426f/live/d5d2d7e0-d21f-11f1-b8e4-17c9744a7f8e.jpg",
-    readTime: 10,
-  },
-  {
-    id: "healey-unveils-100-for-energy-bills-and-a80a6dfc",
-    title: "Healey unveils £100 for energy bills and bank tax in first Budget",
-    titleJa: "Healey unveils £100 for energy bills and bank tax in first Budget",
-    summaryJa: "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
-    bodyOriginal: `Healey unveils £100 for energy bills and bank tax in first Budget
-- Published
-Millions of households will get £100 to help with soaring energy bills to be paid for by a tax on bank profits, John Healey has announced in his first Budget.
-The chancellor said he wanted to give hard-pressed families "breathing space now" and "hope for the future" as the UK economy is battered by "global economic storms".
-He also unveiled tax breaks to boost high street businesses - but confirmed that many big decisions, including on defence spending and welfare, will not be made until next year.
-Conservative leader Kemi Badenoch said Healey's plans were "not bold enough" and the government was "overspent, overborrowed, overtaxed and drowning in an out-of-control welfare system".
-In an hour-long speech to a packed House of Commons, with Prime Minister Andy Burnham and other frontbench colleagues cheering him on, the chancellor unveiled a string of measures aimed at cutting the cost of living.
-These include:
-One-off £100 energy payment for people living in council tax bands A to D in England, with Wales saying it will match the payment and the Scottish government planning to "replicate" it
-Gas standing charges in England, Scotland and Wales, to be scrapped during 2027 "or as soon as possible after". These fixed daily fees will be shifted onto the price of each unit of energy, meaning heavy gas users will face higher bills
-Extending the 5p "temporary" cut in fuel duty on petrol and diesel to July
-Increasing minimum wage rates by 3.9% in April, although there will be no progress on narrowing the gap between rates for older and younger workers
-Healey increased the tax on the profits of big banks from 3% to 6%, which will last from January next year to April 2028, and increased taxes on high-stakes gambling machines.
-Budget 2026: Key points at a glance
-- Published5 hours ago
-Your pay, energy bills and savings: How the Budget affects you
-- Published5 hours ago
-Chris Mason: Budget felt cautious despite its range of small measures
-- Published5 hours ago
-As part of a package to help business, Healey increased the point at which High Street shops in England start paying business rates from £12,000 to £18,000, with vape shops and adult gaming centres excluded from the relief.
-But he had little scope for big giveaways as the public finances remain stretched, with the UK set to spend £14bn more on debt interest payments this year.
-Income tax thresholds will remain frozen and the tax on income from savings and property rental will rise to 24% for basic rate taxpayers from April 2027, after it had been scheduled to go up to 22%.
-But a cut to the cash ISA allowance from £20,000 a year to £12,000, announced last year by Healey's predecessor Rachel Reeves, will be axed.
-The Office for Budget Responsibility (OBR) downgraded its growth forecast for next year to 1%, with slightly higher increases predicted for subsequent years.
-In its latest assessment, the OBR said British households were set to be little better off than before the Covid pandemic even a decade after Covid-19 hit, a situation the watchdog's boss David Miles described as "pretty grim".
-In his Budget speech, Healey repeatedly stressed that the UK economy was being battered by "global uncertainties" and soaring oil prices caused by conflict in the Middle East.
-"Those are the storms we face. We can't wish them away. We must choose the course we steer through them," he told MPs.
-Healey also used his speech to announce plans to allow regional mayors to keep 20% of business rates and a share of income tax to spend on local priorities.
-The aim was to allow mayors to retain 100% of business rates raised in their areas by the end of the decade, he added, in "the most radical act of devolution in a generation".
-And he sought to address opposition claims the Labour government is unwilling to cut benefits, insisting that both he and Burnham were committed to bringing down the welfare bill in a "Labour way".
-But he said no decisions would be taken until reviews by Alan Milburn, into young people not in work or training, and Stephen Timms, on Personal Independence Payments, had been published, with legislation to follow next year.
-The £4.7bn black hole in the defence investment plan will be funded, the chancellor revealed, in part through taking money from capital budgets across Whitehall.
-Healey said he will set out how the government plans to meet its commitment to spend 3% of the national income on defence by 2030, and 3.5% by 2035, at next year's spending review.
-But Badenoch said he "should have set out a plan for 3% today," highlighting his claim when he resigned as Sir Keir Starmer's defence secretary in June that UK forces were at risk due to a lack of cash.
-"So now he is the man who is increasing risk to personnel on operations, he is the man who is making our country less safe, he has failed his own test," the Conservative leader said.
-"This is on him and no-one will ever forget. If he had any decency he would resign again today."
-The Tory leader said that with the UK heading for a record tax burden and "spending more on debt interest than on the army and schools combined", Healey's Budget was "not good enough, not strong enough, not bold enough".
-Helen Miller, director of the Institute for Fiscal Studies, said the Budget "has a raft of fiddly measures but very little that will move the dial on growth".
-Lib Dem leader Sir Ed Davey said that until the government has "the courage" to fix the UK's trading relationship with the EU any Budget will just be "tinkering around the edges" and will not provide the growth the country needs.
-Reform UK leader Nigel Farage said the Budget was full of "little giveaways" but "doesn't overall do very much" and did not offer "anything of any value on defence whatsoever".
-Healey also faced criticism from the left, with the general secretary of the Unite union, Sharon Graham describing the cost of living measures in the Budget as "baby steps".
-"Scrapping standing charges on gas and a £100 energy payment for households in council tax bands, A to D, whilst welcome, will not touch the sides, when many forecasts show bills set to jump over £400 in January," she added.
-Green Party leader Zack Polanski said it was a Budget "that betrays the future for young people and the planet they inherit".
-He added: "The chancellor didn't mention climate once but praised bankers repeatedly."
-Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
-    bodyJa: `Healey unveils £100 for energy bills and bank tax in first Budget
-- Published
-Millions of households will get £100 to help with soaring energy bills to be paid for by a tax on bank profits, John Healey has announced in his first Budget.
-The chancellor said he wanted to give hard-pressed families "breathing space now" and "hope for the future" as the UK economy is battered by "global economic storms".
-He also unveiled tax breaks to boost high street businesses - but confirmed that many big decisions, including on defence spending and welfare, will not be made until next year.
-Conservative leader Kemi Badenoch said Healey's plans were "not bold enough" and the government was "overspent, overborrowed, overtaxed and drowning in an out-of-control welfare system".
-In an hour-long speech to a packed House of Commons, with Prime Minister Andy Burnham and other frontbench colleagues cheering him on, the chancellor unveiled a string of measures aimed at cutting the cost of living.
-These include:
-One-off £100 energy payment for people living in council tax bands A to D in England, with Wales saying it will match the payment and the Scottish government planning to "replicate" it
-Gas standing charges in England, Scotland and Wales, to be scrapped during 2027 "or as soon as possible after". These fixed daily fees will be shifted onto the price of each unit of energy, meaning heavy gas users will face higher bills
-Extending the 5p "temporary" cut in fuel duty on petrol and diesel to July
-Increasing minimum wage rates by 3.9% in April, although there will be no progress on narrowing the gap between rates for older and younger workers
-Healey increased the tax on the profits of big banks from 3% to 6%, which will last from January next year to April 2028, and increased taxes on high-stakes gambling machines.
-Budget 2026: Key points at a glance
-- Published5 hours ago
-Your pay, energy bills and savings: How the Budget affects you
-- Published5 hours ago
-Chris Mason: Budget felt cautious despite its range of small measures
-- Published5 hours ago
-As part of a package to help business, Healey increased the point at which High Street shops in England start paying business rates from £12,000 to £18,000, with vape shops and adult gaming centres excluded from the relief.
-But he had little scope for big giveaways as the public finances remain stretched, with the UK set to spend £14bn more on debt interest payments this year.
-Income tax thresholds will remain frozen and the tax on income from savings and property rental will rise to 24% for basic rate taxpayers from April 2027, after it had been scheduled to go up to 22%.
-But a cut to the cash ISA allowance from £20,000 a year to £12,000, announced last year by Healey's predecessor Rachel Reeves, will be axed.
-The Office for Budget Responsibility (OBR) downgraded its growth forecast for next year to 1%, with slightly higher increases predicted for subsequent years.
-In its latest assessment, the OBR said British households were set to be little better off than before the Covid pandemic even a decade after Covid-19 hit, a situation the watchdog's boss David Miles described as "pretty grim".
-In his Budget speech, Healey repeatedly stressed that the UK economy was being battered by "global uncertainties" and soaring oil prices caused by conflict in the Middle East.
-"Those are the storms we face. We can't wish them away. We must choose the course we steer through them," he told MPs.
-Healey also used his speech to announce plans to allow regional mayors to keep 20% of business rates and a share of income tax to spend on local priorities.
-The aim was to allow mayors to retain 100% of business rates raised in their areas by the end of the decade, he added, in "the most radical act of devolution in a generation".
-And he sought to address opposition claims the Labour government is unwilling to cut benefits, insisting that both he and Burnham were committed to bringing down the welfare bill in a "Labour way".
-But he said no decisions would be taken until reviews by Alan Milburn, into young people not in work or training, and Stephen Timms, on Personal Independence Payments, had been published, with legislation to follow next year.
-The £4.7bn black hole in the defence investment plan will be funded, the chancellor revealed, in part through taking money from capital budgets across Whitehall.
-Healey said he will set out how the government plans to meet its commitment to spend 3% of the national income on defence by 2030, and 3.5% by 2035, at next year's spending review.
-But Badenoch said he "should have set out a plan for 3% today," highlighting his claim when he resigned as Sir Keir Starmer's defence secretary in June that UK forces were at risk due to a lack of cash.
-"So now he is the man who is increasing risk to personnel on operations, he is the man who is making our country less safe, he has failed his own test," the Conservative leader said.
-"This is on him and no-one will ever forget. If he had any decency he would resign again today."
-The Tory leader said that with the UK heading for a record tax burden and "spending more on debt interest than on the army and schools combined", Healey's Budget was "not good enough, not strong enough, not bold enough".
-Helen Miller, director of the Institute for Fiscal Studies, said the Budget "has a raft of fiddly measures but very little that will move the dial on growth".
-Lib Dem leader Sir Ed Davey said that until the government has "the courage" to fix the UK's trading relationship with the EU any Budget will just be "tinkering around the edges" and will not provide the growth the country needs.
-Reform UK leader Nigel Farage said the Budget was full of "little giveaways" but "doesn't overall do very much" and did not offer "anything of any value on defence whatsoever".
-Healey also faced criticism from the left, with the general secretary of the Unite union, Sharon Graham describing the cost of living measures in the Budget as "baby steps".
-"Scrapping standing charges on gas and a £100 energy payment for households in council tax bands, A to D, whilst welcome, will not touch the sides, when many forecasts show bills set to jump over £400 in January," she added.
-Green Party leader Zack Polanski said it was a Budget "that betrays the future for young people and the planet they inherit".
-He added: "The chancellor didn't mention climate once but praised bankers repeatedly."
-Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-28T18:45:09+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab01/live/ce128db0-d2fc-11f1-a701-fddedf244c16.jpg",
-    readTime: 10,
-  },
-  {
-    id: "will-i-get-the-100-energy-payment-and-wh-e2c0cb64",
-    title: "Will I get the £100 energy payment and when will I receive it?",
-    titleJa: "Will I get the £100 energy payment and when will I receive it?",
-    summaryJa: "Here is what you need to know about the payment that millions will receive from January.",
-    bodyOriginal: `Will I get the £100 energy payment and when will I receive it?
-- Published
-Up to 20 million households in England will get a £100 payment to help with their energy bills this winter, Chancellor John Healey has announced in his Budget.
-Here's what you need to know about the payment.
-How much is it?
-For many people, the £100 on offer is a lot of money, but it's worth considering the context.
-A typical yearly energy bill is forecast to jump by £276 in January, according to consultants Cornwall Insight.
-And some more recent forecasts suggest a typical annual bill could rise by £400 or so to £2,100 in January.
-Therefore many people will still feel worse off despite the payment.
-Will I get the payment? And how can I check?
-Those living in properties which are in council tax bands A to D in England will get the payment, the government has said.
-As such, it's worth checking which council tax band your home is in, external. If you live in England, you can use the search function by typing your postcode into the box.
-If you get a paper council tax bill, your band will also be printed on there.
-Will I get it if I live in Scotland, Wales or Northern Ireland?
-The chancellor said the policy was for England but that funding would be given to Scotland, Wales and Northern Ireland to make the payment as well.
-He urged the devolved governments to follow suit to "give people of all nations in the UK breathing space on their energy bills this winter".
-The Welsh government has said that it will also make a £100 cost-of-living payment to all households in council tax bands A to D.
-The Scottish government said it would "seek to replicate" the £100 energy payment.
-Meanwhile, the Northern Irish government does not have the legal authority to make the £100 payments unless it agrees its budget, which it has failed to do since the start of this financial year.
-Your pay, energy bills and savings: How the Budget affects you
-- Published5 hours ago
-How do I get the money? Will I get it if I'm a student or don't pay council tax?
-If you pay your council tax by direct debit, the money will be paid directly into the bank account that you use to pay it, from the start of January.
-Students living in halls will not get the payment because student halls are not in council tax bands A to D.
-However, if you're a student living in a property that is in council tax bands A to D, as in a private home or flat let out by a landlord, then you will get the payment.
-Students do not pay council tax so the local authority will be responsible for finding a way of giving them the payments.
-This is also the case for those who do not pay council tax because of another kind of exemption, or if you do pay council tax but you do it by cash or some other way.
-The government said it would give councils guidance on how local authorities should do this in due course.
-Do I have to spend the money on my energy bill?
-The government has said the support is to help households with the cost of energy.
-But the money will appear directly in people's bank accounts. As such, people could choose to spend it on something else.
-How is the government funding this payment?
-The chancellor said the money for the £100 cash payments is coming from a tax rise on banks.
-The surcharge on banks' corporation tax will rise from 3% to 6% for 15 months from 1 January 2027 to 31 March 2028.
-- Published5 hours ago`,
-    bodyJa: `Will I get the £100 energy payment and when will I receive it?
-- Published
-Up to 20 million households in England will get a £100 payment to help with their energy bills this winter, Chancellor John Healey has announced in his Budget.
-Here's what you need to know about the payment.
-How much is it?
-For many people, the £100 on offer is a lot of money, but it's worth considering the context.
-A typical yearly energy bill is forecast to jump by £276 in January, according to consultants Cornwall Insight.
-And some more recent forecasts suggest a typical annual bill could rise by £400 or so to £2,100 in January.
-Therefore many people will still feel worse off despite the payment.
-Will I get the payment? And how can I check?
-Those living in properties which are in council tax bands A to D in England will get the payment, the government has said.
-As such, it's worth checking which council tax band your home is in, external. If you live in England, you can use the search function by typing your postcode into the box.
-If you get a paper council tax bill, your band will also be printed on there.
-Will I get it if I live in Scotland, Wales or Northern Ireland?
-The chancellor said the policy was for England but that funding would be given to Scotland, Wales and Northern Ireland to make the payment as well.
-He urged the devolved governments to follow suit to "give people of all nations in the UK breathing space on their energy bills this winter".
-The Welsh government has said that it will also make a £100 cost-of-living payment to all households in council tax bands A to D.
-The Scottish government said it would "seek to replicate" the £100 energy payment.
-Meanwhile, the Northern Irish government does not have the legal authority to make the £100 payments unless it agrees its budget, which it has failed to do since the start of this financial year.
-Your pay, energy bills and savings: How the Budget affects you
-- Published5 hours ago
-How do I get the money? Will I get it if I'm a student or don't pay council tax?
-If you pay your council tax by direct debit, the money will be paid directly into the bank account that you use to pay it, from the start of January.
-Students living in halls will not get the payment because student halls are not in council tax bands A to D.
-However, if you're a student living in a property that is in council tax bands A to D, as in a private home or flat let out by a landlord, then you will get the payment.
-Students do not pay council tax so the local authority will be responsible for finding a way of giving them the payments.
-This is also the case for those who do not pay council tax because of another kind of exemption, or if you do pay council tax but you do it by cash or some other way.
-The government said it would give councils guidance on how local authorities should do this in due course.
-Do I have to spend the money on my energy bill?
-The government has said the support is to help households with the cost of energy.
-But the money will appear directly in people's bank accounts. As such, people could choose to spend it on something else.
-How is the government funding this payment?
-The chancellor said the money for the £100 cash payments is coming from a tax rise on banks.
-The surcharge on banks' corporation tax will rise from 3% to 6% for 15 months from 1 January 2027 to 31 March 2028.
-- Published5 hours ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-28T17:47:37+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06e/live/66b0c920-d2ed-11f1-8d86-83eebc838351.jpg",
-    readTime: 8,
-  },
-  {
-    id: "your-pay-energy-bills-and-savings-how-th-d2638f43",
-    title: "Your pay, energy bills and savings: How the Budget affects you",
-    titleJa: "Your pay, energy bills and savings: How the Budget affects you",
-    summaryJa: "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
-    bodyOriginal: `Your pay, energy bills and savings: How the Budget affects you
-- Published
-Families facing cost-of-living pressures are being offered some help, or "breathing space" as Chancellor John Healey is calling it.
-The help comes as prices are rising faster than expected with annual energy bills in particular likely to increase by hundreds of pounds in January.
-Here's how the key announcements in the Budget affect you and your money.
-Energy bills
-If you are living in a home in council tax bands A to D in England, you will receive a one-off £100 "Household Energy Payment" from January, funded by extra tax on banks.
-It will be paid directly into your bank account.
-Council tax bands are listed below - you can check which one you are in by looking at your annual bill or checking the government's website, external, although that was struggling to cope with traffic after the announcement.
-Administrations in Scotland, Wales and Northern Ireland will receive the equivalent funding, and they will decide whether to introduce the same payment.
-This is designed to help with soaring energy bills, with some forecasts suggesting a typical annual bill could rise by £400 or so to £2,100 in January the saving will be only a portion of that. Although it's designated for energy bills, you can spend the money on anything you wish.
-The VAT cut on electricity bills, which was introduced in October, will also be extended to July. It was due to end in April.
-Budget 2026: Key points at a glance
-- Published5 hours ago
-Gas standing charges
-The fee for connecting to your gas supply so called standing charges will be scrapped in England, Scotland and Wales, next year "or as soon as possible after", the chancellor said.
-These fixed daily charges will then be shifted onto the price you pay for each unit of energy.
-The Treasury calculates that 60% of households will save an average of £45 a year, with lower users gaining the most. But the saving will come after the projected big rise in bills in January.
-Higher users - in the biggest houses but also large, low-income families - will pay more than they currently do.
-The government wants to extend reforms to electricity standing charges later.
-Fuel duty
-The 5p "temporary" cut in fuel duty on petrol and diesel, introduced by Rishi Sunak in 2022, will be extended to July. It was scheduled to be phased out from January.
-It means drivers will still pay the levy at 52.95p per litre.
-Motor fuel prices have risen sharply owing to the continued impact of the Iran war on drivers, with diesel having recently hit new records when it moved above £2 per litre.
-The cost of filling a typical family car with diesel has gone up by around £30 since late February. A tankful of petrol costs about £23 more.
-Changes to cash Isa scrapped
-The chancellor has scrapped his predecessor's plans to reduce the annual amount people can save tax-free in cash in Individual Savings Accounts (Isas).
-Rachel Reeves had wanted the policy to encourage personal investment in stocks and shares.
-It meant, from April 2027, if you're under 65, you would only be able to save £12,000 a year in cash in an Isa, rather than £20,000.
-But that plan has now been ditched.
-Instead, the government plans to create a new "Starter Isa" for first-time investors.
-More tax for some savers and landlords
-If you have a large amount in savings, or if you fail to use the tax-free Isa allowance, then you will pay more tax from April.
-You do not pay tax on all savings. There is the annual £20,000 Isa allowance, and an annual savings income allowance (in other words, the interest received on a savings pot) of £1,000 for basic rate taxpayers and £500 for higher-rate taxpayers.
-But beyond that savings tax rates will rise by four percentage points to 24% and 44% respectively from April.
-Landlords could also pay more in tax. In analysis published on Wednesday, the Office for Budget Responsibility (OBR) said these steps along with measures over the past decade that have reduced private landlord returns "collectively risk leading to a steady rise in rents".
-Minimum wage rise but you'll pay more tax
-Minimum wage rates will rise by 3.9% in April. It means:
-Eligible workers aged 21 and over on the National Living Wage will receive £13.21 an hour, up from £12.71
-If you are aged 18, 19 or 20, the National Minimum Wage will increase to £11.27 an hour, up from £10.85
-For those aged 16 or 17, the minimum wage will rise to £8.31 an hour, up from £8
-The separate apprentice rate which applies to eligible people under 19 - or those over 19 in the first year of an apprenticeship – will also increase to £8.31 an hour, from £8
-However, these figures mean, this time around, there's no progress on Labour's manifesto promise to narrow the gap in minimum wages between older and younger workers.
-For all workers, the ongoing freeze in the income bands, or thresholds, at which income tax is paid went unmentioned in the Budget.
-But it means any kind of pay rise could drag you into a higher tax bracket, or see a greater proportion of your income taxed than would otherwise be expected. Scotland has its own income tax bands.
-How much is the minimum wage going up by?
-- Published7 hours ago
-State pension changes
-The triple lock policy means that the state pension will go up in line with average wage increases, at 3.9%.
-It means:
-the flat-rate state pension for those who reached state pension age after April 2016 will be £250.70 a week, or £13,036.40 a year, up £488 on now
-the old basic state pension for those who reached state pension age before April 2016 will be £192.10 a week, or £9,989.20 a year, up £374.40 on now
-The government had already committed to not taxing people who only get an income from the state pension.
-The chancellor said this would be the case until at least 2030, as there will be a new Pension Tax Allowance, so pensioners with an income up to the value of the full new state pension will not pay income tax.
-First-time buyers
-The First Time Buyer Isa has been in the planning stages with the government for a while.
-Healey has confirmed that it is intended to replace the often-criticised Lifetime Isa.
-The penalty for withdrawing savings from a Lifetime Isa if you are buying a home above the £450,000 threshold will be scrapped.
-Separately, he confirmed the Your First Home equity scheme to allow first-time buyers in England to buy a new-build home with a deposit of 2.5%. It would provide them with a loan worth 20% of their property's value to help pay for the purchase.
-Student loans
-The government has made no changes to student loan rates - saying only that it is being "kept under review".
-There has been some backlash after the previous chancellor froze the repayment threshold for Plan 2 student loans, which were given out for just over a decade in England from 2012.
-It means the salary at which borrowers start paying back their loans is due to stay at £29,385 in April and remain there for three years – so graduates start repaying sooner and repay more each month than they would otherwise have done.
-What else will affect your money?
-Some announcements affecting your finances have already been made by the government.
-They include:
-Tariffs removed from 100 food items such as baked beans and garlic, which the government calculates could save households up to £21 per year - or 40p a week - when combined with existing tariff suspensions that were introduced in June
-Allowing carers to earn more than an existing earnings limit without losing their entire allowance, replacing it with a taper mechanism instead. However, this will not come in until 2030
-Giving two weeks of paternity pay to self-employed fathers, who have previously missed out on payments of up to £194 a week for the period
-Making permanent a 55p per mile tax-free mileage rate for those driving up to 10,000 miles for work, with the rate rising from 25p per mile to 35p above that
-The prime minister's plan to reinstate the £2 cap on bus fares in England from January to be in effect throughout 2027. Some cities already have caps, and funding is being given to the devolved nations`,
-    bodyJa: `Your pay, energy bills and savings: How the Budget affects you
-- Published
-Families facing cost-of-living pressures are being offered some help, or "breathing space" as Chancellor John Healey is calling it.
-The help comes as prices are rising faster than expected with annual energy bills in particular likely to increase by hundreds of pounds in January.
-Here's how the key announcements in the Budget affect you and your money.
-Energy bills
-If you are living in a home in council tax bands A to D in England, you will receive a one-off £100 "Household Energy Payment" from January, funded by extra tax on banks.
-It will be paid directly into your bank account.
-Council tax bands are listed below - you can check which one you are in by looking at your annual bill or checking the government's website, external, although that was struggling to cope with traffic after the announcement.
-Administrations in Scotland, Wales and Northern Ireland will receive the equivalent funding, and they will decide whether to introduce the same payment.
-This is designed to help with soaring energy bills, with some forecasts suggesting a typical annual bill could rise by £400 or so to £2,100 in January the saving will be only a portion of that. Although it's designated for energy bills, you can spend the money on anything you wish.
-The VAT cut on electricity bills, which was introduced in October, will also be extended to July. It was due to end in April.
-Budget 2026: Key points at a glance
-- Published5 hours ago
-Gas standing charges
-The fee for connecting to your gas supply so called standing charges will be scrapped in England, Scotland and Wales, next year "or as soon as possible after", the chancellor said.
-These fixed daily charges will then be shifted onto the price you pay for each unit of energy.
-The Treasury calculates that 60% of households will save an average of £45 a year, with lower users gaining the most. But the saving will come after the projected big rise in bills in January.
-Higher users - in the biggest houses but also large, low-income families - will pay more than they currently do.
-The government wants to extend reforms to electricity standing charges later.
-Fuel duty
-The 5p "temporary" cut in fuel duty on petrol and diesel, introduced by Rishi Sunak in 2022, will be extended to July. It was scheduled to be phased out from January.
-It means drivers will still pay the levy at 52.95p per litre.
-Motor fuel prices have risen sharply owing to the continued impact of the Iran war on drivers, with diesel having recently hit new records when it moved above £2 per litre.
-The cost of filling a typical family car with diesel has gone up by around £30 since late February. A tankful of petrol costs about £23 more.
-Changes to cash Isa scrapped
-The chancellor has scrapped his predecessor's plans to reduce the annual amount people can save tax-free in cash in Individual Savings Accounts (Isas).
-Rachel Reeves had wanted the policy to encourage personal investment in stocks and shares.
-It meant, from April 2027, if you're under 65, you would only be able to save £12,000 a year in cash in an Isa, rather than £20,000.
-But that plan has now been ditched.
-Instead, the government plans to create a new "Starter Isa" for first-time investors.
-More tax for some savers and landlords
-If you have a large amount in savings, or if you fail to use the tax-free Isa allowance, then you will pay more tax from April.
-You do not pay tax on all savings. There is the annual £20,000 Isa allowance, and an annual savings income allowance (in other words, the interest received on a savings pot) of £1,000 for basic rate taxpayers and £500 for higher-rate taxpayers.
-But beyond that savings tax rates will rise by four percentage points to 24% and 44% respectively from April.
-Landlords could also pay more in tax. In analysis published on Wednesday, the Office for Budget Responsibility (OBR) said these steps along with measures over the past decade that have reduced private landlord returns "collectively risk leading to a steady rise in rents".
-Minimum wage rise but you'll pay more tax
-Minimum wage rates will rise by 3.9% in April. It means:
-Eligible workers aged 21 and over on the National Living Wage will receive £13.21 an hour, up from £12.71
-If you are aged 18, 19 or 20, the National Minimum Wage will increase to £11.27 an hour, up from £10.85
-For those aged 16 or 17, the minimum wage will rise to £8.31 an hour, up from £8
-The separate apprentice rate which applies to eligible people under 19 - or those over 19 in the first year of an apprenticeship – will also increase to £8.31 an hour, from £8
-However, these figures mean, this time around, there's no progress on Labour's manifesto promise to narrow the gap in minimum wages between older and younger workers.
-For all workers, the ongoing freeze in the income bands, or thresholds, at which income tax is paid went unmentioned in the Budget.
-But it means any kind of pay rise could drag you into a higher tax bracket, or see a greater proportion of your income taxed than would otherwise be expected. Scotland has its own income tax bands.
-How much is the minimum wage going up by?
-- Published7 hours ago
-State pension changes
-The triple lock policy means that the state pension will go up in line with average wage increases, at 3.9%.
-It means:
-the flat-rate state pension for those who reached state pension age after April 2016 will be £250.70 a week, or £13,036.40 a year, up £488 on now
-the old basic state pension for those who reached state pension age before April 2016 will be £192.10 a week, or £9,989.20 a year, up £374.40 on now
-The government had already committed to not taxing people who only get an income from the state pension.
-The chancellor said this would be the case until at least 2030, as there will be a new Pension Tax Allowance, so pensioners with an income up to the value of the full new state pension will not pay income tax.
-First-time buyers
-The First Time Buyer Isa has been in the planning stages with the government for a while.
-Healey has confirmed that it is intended to replace the often-criticised Lifetime Isa.
-The penalty for withdrawing savings from a Lifetime Isa if you are buying a home above the £450,000 threshold will be scrapped.
-Separately, he confirmed the Your First Home equity scheme to allow first-time buyers in England to buy a new-build home with a deposit of 2.5%. It would provide them with a loan worth 20% of their property's value to help pay for the purchase.
-Student loans
-The government has made no changes to student loan rates - saying only that it is being "kept under review".
-There has been some backlash after the previous chancellor froze the repayment threshold for Plan 2 student loans, which were given out for just over a decade in England from 2012.
-It means the salary at which borrowers start paying back their loans is due to stay at £29,385 in April and remain there for three years – so graduates start repaying sooner and repay more each month than they would otherwise have done.
-What else will affect your money?
-Some announcements affecting your finances have already been made by the government.
-They include:
-Tariffs removed from 100 food items such as baked beans and garlic, which the government calculates could save households up to £21 per year - or 40p a week - when combined with existing tariff suspensions that were introduced in June
-Allowing carers to earn more than an existing earnings limit without losing their entire allowance, replacing it with a taper mechanism instead. However, this will not come in until 2030
-Giving two weeks of paternity pay to self-employed fathers, who have previously missed out on payments of up to £194 a week for the period
-Making permanent a 55p per mile tax-free mileage rate for those driving up to 10,000 miles for work, with the rate rising from 25p per mile to 35p above that
-The prime minister's plan to reinstate the £2 cap on bus fares in England from January to be in effect throughout 2027. Some cities already have caps, and funding is being given to the devolved nations`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-28T16:43:35+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5846/live/65892820-d2e4-11f1-8d3a-ef62f316044e.jpg",
     readTime: 10,
   },
 ];
