@@ -15,6 +15,392 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "crypto-giant-binance-attempting-to-recov-db231a97",
+    title: "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+    titleJa: "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+    summaryJa: "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+    bodyOriginal: `Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
+- Published
+Binance, the world's largest cryptocurrency exchange, says it has frozen around half of the funds stolen in a "complex" hack, after $6.3bn (£4.7bn) was accessed in what is believed to be a record heist.
+The firm said $3bn of its stolen digital assets had been secured - but many were still in the hands of unidentified hackers. It initially thought an engineer's laptop had been compromised, allowing unauthorised withdrawals, but later said the attack was wider.
+Several analytics firms have linked the hack, which eclipses a $1.5bn (£1.12bn) heist on the Bybit exchange in 2025, to a North Korean hacking unit.
+The US Secret Service said it was "working around the clock" "to identify, freeze, trace, and recover" stolen funds.
+America's lead federal agency for investigating financial crimes added that it would "identify the cyber criminals responsible and bring them to justice", while Binance also said it was working with the FBI.
+While Binance said its US-facing exchange was unaffected, the US would still have jurisdiction to investigate the hack and help track down stolen funds - an effort which generally involves a global law enforcement effort.
+The hack also involved some US-linked assets, such as stablecoins Tether and Circle – cryptocurrencies pegged to the dollar.
+Binance told its users "your money is safe, and we're covering every loss".
+It had initially suspended all deposits and withdrawals - but then said in an update that "deposits remain unaffected".
+Who could be behind the Binance hack and what we know so far
+- Published10 hours ago
+Binance's co-CEO Richard Teng said: "This was not carried out by one person. Our initial investigation suggested that the security incident may have involved a compromised laptop, however our subsequent investigation has uncovered additional points of breach."
+Teng also describes how the hackers used "a self-destruct mechanism that destroyed tooling and traces as they went, making it more difficult for us to trace and investigate".
+Initially, the company had indicated the breach "may have started with a compromised DevOps engineer's laptop" but later statements have pointed to a broader breach.
+In a later update, the firm set it had "set aside" more than $6.34B in company funds to cover the stolen assets and was "actively buying" a range of crypto tokens.
+The Binance hack spooked cryptocurrency markets on Friday. The price of Bitcoin was down 5% to $76,800 in Friday afternoon trading in New York.
+Cryptocurrency exchange Coinbase was down 12% as investors also reacted to earnings results in which the firm reported revenue slightly below expectations. Robinhood, a financial services company that trades in cryptocurrency, was down 7.8%.
+Binance, which was founded in China in 2017, allows users to trade digital assets and is estimated to have more than 300 million registered users worldwide.
+The company said in 2024 that it had more than $160bn in assets under its custody.
+A lot of the fear right now from Binance users - and the crypto industry at large - is whether or not Binance will actually be capable of covering this enormous financial loss.
+The company has said repeatedly that customer funds will be covered and that the firm is strong enough to weather the storm.
+But crypto history watchers have been pointing out online that this is exactly the kind of message that FTX CEO Sam Bankman-Fried gave before his crypto exchange collapsed in 2022, leading to huge losses for customers and the industry.
+Several experts have warned customers not to regard Binance's promise to cover losses as legally binding and said they may need to pursue litigation to recover them.
+Daniel Tunkel, of the London-based Edwin Coe law firm, said that would "come down to what [customers] have been promised in their contracts", and "where Binance can be sued for non-performance, if it comes to it".
+Binance has been subject of regulatory scrutiny around the world.
+Meanwhile, AI-powered investigations company TRM Labs said that several elements of the attack resembled earlier North Korean-linked incidents, including the Bybit hack.
+In the last five years the crypto industry has been beset by enormous losses from hackers.
+In nearly all cases investigators have blamed hackers from North Korea, pointing to the infamous Lazarus Group - also know as TraderTraitor. The names refer to clusters of cyber criminals accused of working directly for the regime.
+Chainalysis, a crypto analytics firm, said it had "high confidence" that a North Korean is linked to the hack.
+North Korea is an impoverished country with very little industry and heavy international sanctions and experts say the regime uses cyber crime as a way to bring money in.
+North Korea has always denied this, but the wealth of evidence from cryptocurrency flow analysis and insider interviews from defectors is compelling.
+It makes North Korea likely to be the only nation that uses hacking as a way to raise public funds.
+Related topics
+- Published26 August`,
+    bodyJa: `Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
+- Published
+Binance, the world's largest cryptocurrency exchange, says it has frozen around half of the funds stolen in a "complex" hack, after $6.3bn (£4.7bn) was accessed in what is believed to be a record heist.
+The firm said $3bn of its stolen digital assets had been secured - but many were still in the hands of unidentified hackers. It initially thought an engineer's laptop had been compromised, allowing unauthorised withdrawals, but later said the attack was wider.
+Several analytics firms have linked the hack, which eclipses a $1.5bn (£1.12bn) heist on the Bybit exchange in 2025, to a North Korean hacking unit.
+The US Secret Service said it was "working around the clock" "to identify, freeze, trace, and recover" stolen funds.
+America's lead federal agency for investigating financial crimes added that it would "identify the cyber criminals responsible and bring them to justice", while Binance also said it was working with the FBI.
+While Binance said its US-facing exchange was unaffected, the US would still have jurisdiction to investigate the hack and help track down stolen funds - an effort which generally involves a global law enforcement effort.
+The hack also involved some US-linked assets, such as stablecoins Tether and Circle – cryptocurrencies pegged to the dollar.
+Binance told its users "your money is safe, and we're covering every loss".
+It had initially suspended all deposits and withdrawals - but then said in an update that "deposits remain unaffected".
+Who could be behind the Binance hack and what we know so far
+- Published10 hours ago
+Binance's co-CEO Richard Teng said: "This was not carried out by one person. Our initial investigation suggested that the security incident may have involved a compromised laptop, however our subsequent investigation has uncovered additional points of breach."
+Teng also describes how the hackers used "a self-destruct mechanism that destroyed tooling and traces as they went, making it more difficult for us to trace and investigate".
+Initially, the company had indicated the breach "may have started with a compromised DevOps engineer's laptop" but later statements have pointed to a broader breach.
+In a later update, the firm set it had "set aside" more than $6.34B in company funds to cover the stolen assets and was "actively buying" a range of crypto tokens.
+The Binance hack spooked cryptocurrency markets on Friday. The price of Bitcoin was down 5% to $76,800 in Friday afternoon trading in New York.
+Cryptocurrency exchange Coinbase was down 12% as investors also reacted to earnings results in which the firm reported revenue slightly below expectations. Robinhood, a financial services company that trades in cryptocurrency, was down 7.8%.
+Binance, which was founded in China in 2017, allows users to trade digital assets and is estimated to have more than 300 million registered users worldwide.
+The company said in 2024 that it had more than $160bn in assets under its custody.
+A lot of the fear right now from Binance users - and the crypto industry at large - is whether or not Binance will actually be capable of covering this enormous financial loss.
+The company has said repeatedly that customer funds will be covered and that the firm is strong enough to weather the storm.
+But crypto history watchers have been pointing out online that this is exactly the kind of message that FTX CEO Sam Bankman-Fried gave before his crypto exchange collapsed in 2022, leading to huge losses for customers and the industry.
+Several experts have warned customers not to regard Binance's promise to cover losses as legally binding and said they may need to pursue litigation to recover them.
+Daniel Tunkel, of the London-based Edwin Coe law firm, said that would "come down to what [customers] have been promised in their contracts", and "where Binance can be sued for non-performance, if it comes to it".
+Binance has been subject of regulatory scrutiny around the world.
+Meanwhile, AI-powered investigations company TRM Labs said that several elements of the attack resembled earlier North Korean-linked incidents, including the Bybit hack.
+In the last five years the crypto industry has been beset by enormous losses from hackers.
+In nearly all cases investigators have blamed hackers from North Korea, pointing to the infamous Lazarus Group - also know as TraderTraitor. The names refer to clusters of cyber criminals accused of working directly for the regime.
+Chainalysis, a crypto analytics firm, said it had "high confidence" that a North Korean is linked to the hack.
+North Korea is an impoverished country with very little industry and heavy international sanctions and experts say the regime uses cyber crime as a way to bring money in.
+North Korea has always denied this, but the wealth of evidence from cryptocurrency flow analysis and insider interviews from defectors is compelling.
+It makes North Korea likely to be the only nation that uses hacking as a way to raise public funds.
+Related topics
+- Published26 August`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-30T21:13:14+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg",
+    readTime: 10,
+  },
+  {
+    id: "us-tech-stocks-see-sharp-falls-as-ai-spe-dd4041fd",
+    title: "US tech stocks see sharp falls as AI spending nears $1tn",
+    titleJa: "US tech stocks see sharp falls as AI spending nears $1tn",
+    summaryJa: "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+    bodyOriginal: `US tech stocks see sharp falls as AI spending nears $1tn
+- Published
+Tech stocks tumbled for the second day in a row as concerns rise over the hundreds of billions of dollars firms are investing in artificial intelligence (AI).
+Shares in Intel plummeted by 28% on Friday, while Google owner Alphabet saw its stock price continue to fall another 1.4% after a 12% plunge on Thursday.
+Other tech stocks, including Reddit and Amazon also fell, while the Nasdaq index of the largest tech firms listed in the US, ended October with its worst monthly slide since March 2025.
+While tech firms are spending big on AI, their earnings are not always meeting analysts' expectations, spooking investors and creating fears of an AI bubble.
+Major tech companies have ramped up artificial intelligence spending, with Meta, Alphabet, Oracle, Amazon, and Microsoft committing to spending $800bn between them in 2026.
+Alphabet's stock market value fell sharply on Thursday, taking more than $500bn (£374bn) off its market value after it revealed the AI summaries it now provides as the top answer to search queries were affecting its core search advertising revenue.
+At the same time, Alphabet expects to spend up to $205bn this year on investments, almost entirely related to AI.
+The bigger losses on Friday were elsewhere however, with Intel shedding more than $130bn in value.
+The chip maker said it planned to increase spending on AI despite weaker demand for computers, a major source of demand for its micro-processors.
+On Thursday, Intel's finance chief David Zinsner said the firm did not expect to bring in more cash than it spent this year and forecast lower-than-expected revenue for its fourth quarter.
+"Looking ahead, we see the PC slowdown continuing at least through the first half of next year," he said in the chip maker's third quarter earnings report.
+In the earnings call, he said the firm had significantly ramped up investment in equipment in the third quarter and expected that to be "even more significant" in the following three months.
+Amazon and Reddit down
+Amazon on Thursday revealed it had also spent more cash than it was making, and that spending had increased six-fold over the span of three months.
+The company has committed to spending $220bn this year, putting the money towards investments such as AI data centres, network equipment, and servers.
+Amazon shares recovered some overnight losses, but were still down by 1.4% at the end of Friday trading.
+Reddit stock plunged by 29%, after the social media platform revealed weaker-than-expected daily user figures and warned that Google's growing AI-driven search was hurting referral traffic.
+Stock in online game platform Roblox also fell, down by 18%, as its daily active user numbers dropped.
+Several major tech firms have reported earnings this week, including Microsoft, and analysts said there were questions about the payout from the huge investments in AI.
+Chris Low, from investment management firm FHN Financial, said the bulk of what was happening in the stock market was in reaction to some of the biggest tech players such as Amazon and Google.
+He told Reuters the companies were "showing some pretty significant growing pains as they aggressively pursue the AI build-out".
+"The thinking is that these signs suggest that the entire sector is going to slow down."
+'Investors have turned ruthless'
+Many analysts have been debating the possibility of an AI bubble in the stock market.
+The worry is that some tech firms will not be able to justify their sky-high valuations because the cost of building AI data centres and developing the software will end up being greater than the money they can make from it.
+Kathleen Brookes, research director at trading firm XTB, said there have been many ups and downs in AI trade in recent months.
+"Investors have turned ruthless, punishing any signs of disappointment in [third quarter] earnings," she said.
+"The AI trade has had a good run in recent years, but now investors want payback, and companies like Alphabet and Intel are in the crosshairs."
+However, stock market values for many of these companies remain well above where they were a year ago.
+While the Nasdaq closed 2.8% lower, it is up 7.8% over the last year. Similarly Amazon is up nearly 8% over the past 12 months, while Alphabet is down 1.3%.
+Brookes noted that November is typically a strong month for stocks.
+"If we see AI stocks continue to struggle in the coming days, it could suggest the AI trade is past its peak, and investors will be looking for a new theme to drive markets," she said.
+Related topics
+- Published10 hours ago`,
+    bodyJa: `US tech stocks see sharp falls as AI spending nears $1tn
+- Published
+Tech stocks tumbled for the second day in a row as concerns rise over the hundreds of billions of dollars firms are investing in artificial intelligence (AI).
+Shares in Intel plummeted by 28% on Friday, while Google owner Alphabet saw its stock price continue to fall another 1.4% after a 12% plunge on Thursday.
+Other tech stocks, including Reddit and Amazon also fell, while the Nasdaq index of the largest tech firms listed in the US, ended October with its worst monthly slide since March 2025.
+While tech firms are spending big on AI, their earnings are not always meeting analysts' expectations, spooking investors and creating fears of an AI bubble.
+Major tech companies have ramped up artificial intelligence spending, with Meta, Alphabet, Oracle, Amazon, and Microsoft committing to spending $800bn between them in 2026.
+Alphabet's stock market value fell sharply on Thursday, taking more than $500bn (£374bn) off its market value after it revealed the AI summaries it now provides as the top answer to search queries were affecting its core search advertising revenue.
+At the same time, Alphabet expects to spend up to $205bn this year on investments, almost entirely related to AI.
+The bigger losses on Friday were elsewhere however, with Intel shedding more than $130bn in value.
+The chip maker said it planned to increase spending on AI despite weaker demand for computers, a major source of demand for its micro-processors.
+On Thursday, Intel's finance chief David Zinsner said the firm did not expect to bring in more cash than it spent this year and forecast lower-than-expected revenue for its fourth quarter.
+"Looking ahead, we see the PC slowdown continuing at least through the first half of next year," he said in the chip maker's third quarter earnings report.
+In the earnings call, he said the firm had significantly ramped up investment in equipment in the third quarter and expected that to be "even more significant" in the following three months.
+Amazon and Reddit down
+Amazon on Thursday revealed it had also spent more cash than it was making, and that spending had increased six-fold over the span of three months.
+The company has committed to spending $220bn this year, putting the money towards investments such as AI data centres, network equipment, and servers.
+Amazon shares recovered some overnight losses, but were still down by 1.4% at the end of Friday trading.
+Reddit stock plunged by 29%, after the social media platform revealed weaker-than-expected daily user figures and warned that Google's growing AI-driven search was hurting referral traffic.
+Stock in online game platform Roblox also fell, down by 18%, as its daily active user numbers dropped.
+Several major tech firms have reported earnings this week, including Microsoft, and analysts said there were questions about the payout from the huge investments in AI.
+Chris Low, from investment management firm FHN Financial, said the bulk of what was happening in the stock market was in reaction to some of the biggest tech players such as Amazon and Google.
+He told Reuters the companies were "showing some pretty significant growing pains as they aggressively pursue the AI build-out".
+"The thinking is that these signs suggest that the entire sector is going to slow down."
+'Investors have turned ruthless'
+Many analysts have been debating the possibility of an AI bubble in the stock market.
+The worry is that some tech firms will not be able to justify their sky-high valuations because the cost of building AI data centres and developing the software will end up being greater than the money they can make from it.
+Kathleen Brookes, research director at trading firm XTB, said there have been many ups and downs in AI trade in recent months.
+"Investors have turned ruthless, punishing any signs of disappointment in [third quarter] earnings," she said.
+"The AI trade has had a good run in recent years, but now investors want payback, and companies like Alphabet and Intel are in the crosshairs."
+However, stock market values for many of these companies remain well above where they were a year ago.
+While the Nasdaq closed 2.8% lower, it is up 7.8% over the last year. Similarly Amazon is up nearly 8% over the past 12 months, while Alphabet is down 1.3%.
+Brookes noted that November is typically a strong month for stocks.
+"If we see AI stocks continue to struggle in the coming days, it could suggest the AI trade is past its peak, and investors will be looking for a new theme to drive markets," she said.
+Related topics
+- Published10 hours ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-30T20:34:46+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
+    readTime: 10,
+  },
+  {
+    id: "intel-stock-has-worst-day-since-1970s-wi-40b3caec",
+    title: "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
+    titleJa: "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
+    summaryJa: "Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.",
+    bodyOriginal: `Intel shares plummeted 29% on Friday, their worst day since the 1970s, after the chipmaker issued weaker-than-expected guidance due to a plant shutdown in Israel and ongoing softness in the PC market.
+It's a major setback for CEO Lip-Bu Tan, who was hired in March 2025, and has since been on a campaign to revive the company after it missed out on the early years of the artificial intelligence boom.
+Intel's plunge is also a big hit to the Trump administration, which led the U.S. government into taking a 10% stake in the company over a year ago. While it's still a profitable investment, the value of those holdings dropped by about $12 billion on Friday. Nvidia also took a big stake in Intel, and its stock dropped by about $6 billion in value.
+Heading into Thursday's earnings report, Intel shares were up about 150% this year, buoyed by demand for central processors, which are becoming critical to agentic AI workloads. Analysts at D.A. Davidson downgraded the stock to neutral from buy on Friday in a report titled, "Not fixed yet."
+"We understand the PC market is being impacted at the industry level," the analysts wrote. "However it is hard to justify the current multiple when weakness is so significant."
+Amazon shares also sold off on Friday, slipping 1.4%, after the company reported a third-quarter miss on the top and bottom line while maintaining its capital expenditure forecast for 2026 of $220 billion. Amazon also reported negative free cash flow for the second consecutive quarter, and a big increase from the previous period.
+The Nasdaq Composite slid 2.9%, capping off a week of rough tech earnings. Alphabet on Thursday suffered its worst day on record, plunging more than 12%. The stock fell again on Friday.
+Other semiconductor names also notched declines. Chip giant Nvidia fell 4%, while Broadcom dropped more than 5% and mobile chipmaker Qualcomm tumbled 11%.
+Not a 'moment of reckoning'
+Investors are growing nervous about the massive AI spending from the tech giants and whether their investments will pay off.
+"I don't think this is a moment of reckoning but I think it's a moment where investors should take a long thought about how positioning across the space still remains crowded even though the fundamentals are strong," Matt Orton, chief market strategist at Raymond James, told CNBC's "Squawk Box Europe" on Friday.
+For Intel, the disappointing forecast reflects a PC market that's getting hammered due to soaring costs for memory and other components. Global PC shipments declined 4% in the second quarter from a year earlier, according to Counterpoint Research.
+Intel said it expects adjusted earnings per share of 25 cents this quarter on revenue between $15 billion and $16 billion. Analysts were expecting revenue of $17.1 billion and EPS of 43 cents, according to LSEG.
+"We see the PC slowdown continuing at least through the first half of next year," Intel finance chief David Zinsner, said in the release. "We will continue making disciplined investments in capacity and working capital to increase supply and support future growth."
+The guidance also accounts for the effects of an explosion at a fab in Israel that killed two workers and seriously injured a third earlier this month. The incident will cost the company about $600 million in lost revenue over two quarters, Zinsner said.
+Tan said the explosion, which he called an "unfortunate and tragic accident," caused an "extended shutdown" at the plant, impacting shipments of 10-nanometer chips.
+Key to Tan's turnaround effort is Intel's foundry business, which has struggled to find its footing.
+Intel is the only U.S.-based manufacturer of advanced logic chips, and is now in high-volume production of its most advanced 18A chip out of its new fab in Arizona, providing an alternative to Taiwan Semiconductor Manufacturing Co. Its next Arizona fab is expected to begin operations by the end of 2028.
+Intel still has no external customers for its new chips.
+"We're going to have a couple of customers ready to announce the next two quarters," Tan said on the call, adding that Intel is making "tremendous progress" on its coming 14A chips.`,
+    bodyJa: `Intel shares plummeted 29% on Friday, their worst day since the 1970s, after the chipmaker issued weaker-than-expected guidance due to a plant shutdown in Israel and ongoing softness in the PC market.
+It's a major setback for CEO Lip-Bu Tan, who was hired in March 2025, and has since been on a campaign to revive the company after it missed out on the early years of the artificial intelligence boom.
+Intel's plunge is also a big hit to the Trump administration, which led the U.S. government into taking a 10% stake in the company over a year ago. While it's still a profitable investment, the value of those holdings dropped by about $12 billion on Friday. Nvidia also took a big stake in Intel, and its stock dropped by about $6 billion in value.
+Heading into Thursday's earnings report, Intel shares were up about 150% this year, buoyed by demand for central processors, which are becoming critical to agentic AI workloads. Analysts at D.A. Davidson downgraded the stock to neutral from buy on Friday in a report titled, "Not fixed yet."
+"We understand the PC market is being impacted at the industry level," the analysts wrote. "However it is hard to justify the current multiple when weakness is so significant."
+Amazon shares also sold off on Friday, slipping 1.4%, after the company reported a third-quarter miss on the top and bottom line while maintaining its capital expenditure forecast for 2026 of $220 billion. Amazon also reported negative free cash flow for the second consecutive quarter, and a big increase from the previous period.
+The Nasdaq Composite slid 2.9%, capping off a week of rough tech earnings. Alphabet on Thursday suffered its worst day on record, plunging more than 12%. The stock fell again on Friday.
+Other semiconductor names also notched declines. Chip giant Nvidia fell 4%, while Broadcom dropped more than 5% and mobile chipmaker Qualcomm tumbled 11%.
+Not a 'moment of reckoning'
+Investors are growing nervous about the massive AI spending from the tech giants and whether their investments will pay off.
+"I don't think this is a moment of reckoning but I think it's a moment where investors should take a long thought about how positioning across the space still remains crowded even though the fundamentals are strong," Matt Orton, chief market strategist at Raymond James, told CNBC's "Squawk Box Europe" on Friday.
+For Intel, the disappointing forecast reflects a PC market that's getting hammered due to soaring costs for memory and other components. Global PC shipments declined 4% in the second quarter from a year earlier, according to Counterpoint Research.
+Intel said it expects adjusted earnings per share of 25 cents this quarter on revenue between $15 billion and $16 billion. Analysts were expecting revenue of $17.1 billion and EPS of 43 cents, according to LSEG.
+"We see the PC slowdown continuing at least through the first half of next year," Intel finance chief David Zinsner, said in the release. "We will continue making disciplined investments in capacity and working capital to increase supply and support future growth."
+The guidance also accounts for the effects of an explosion at a fab in Israel that killed two workers and seriously injured a third earlier this month. The incident will cost the company about $600 million in lost revenue over two quarters, Zinsner said.
+Tan said the explosion, which he called an "unfortunate and tragic accident," caused an "extended shutdown" at the plant, impacting shipments of 10-nanometer chips.
+Key to Tan's turnaround effort is Intel's foundry business, which has struggled to find its footing.
+Intel is the only U.S.-based manufacturer of advanced logic chips, and is now in high-volume production of its most advanced 18A chip out of its new fab in Arizona, providing an alternative to Taiwan Semiconductor Manufacturing Co. Its next Arizona fab is expected to begin operations by the end of 2028.
+Intel still has no external customers for its new chips.
+"We're going to have a couple of customers ready to announce the next two quarters," Tan said on the call, adding that Intel is making "tremendous progress" on its coming 14A chips.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+    publishedAt: "2026-10-30T20:30:57+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "reid-hoffman-gives-millions-to-dems-in-l-fda59fb1",
+    title: "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
+    titleJa: "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
+    summaryJa: "Reid Hoffman has given $8 million to Wisconsin Democrats backing David Crowley as Tom Tiffany attacks Hoffman's past ties to Jeffrey Epstein.",
+    bodyOriginal: `Billionaire venture capitalist Reid Hoffman has put $8 million into the Democratic Party of Wisconsin over the past five weeks to help the party's gubernatorial nominee David Crowley in his race against Republican Tom Tiffany.
+The LinkedIn co-founder gave $2 million on Sept. 24, $1 million on Oct. 2 and another $5 million in two installments on Oct. 5 and Oct. 20, according to Wisconsin campaign finance records. The rapid-fire checks are part of a last-minute spending spree by some of America's richest donors before Election Day.
+In just the past week and a half, former New York City Mayor Michael Bloomberg gave Democratic Texas gubernatorial nominee Gina Hinojosa $750,000, while Y Combinator co-founder Jessica Livingston chipped in another $150,000, state records show.
+Bloomberg had already committed roughly $80 million to help Democrats this fall, much of it aimed at winning control of the House.
+Meanwhile, PayPal co-founder Luke Nosek gave $500,000 on Tuesday to Judicial Fairness PAC, which supports conservative judicial candidates in Texas, according to Texas campaign finance records. The group had already received $2 million from Tesla and SpaceX CEO Elon Musk, according to state records. Musk's roughly $475 million in disclosed political giving through late October makes him the cycle's biggest known individual donor.
+The checks are landing in the middle of a final-week ad frenzy, with more than $1 billion now booked to air before Election Day, according to AdImpact. The 2026 cycle has already broken the record for political ad spending, with more than $11.2 billion spent or reserved, according to AdImpact. That's more than any previous presidential election cycle as well.
+Hoffman has framed his own spending as a reluctant necessity.
+"We should get money out of politics," Hoffman wrote Friday on X. "And while others spend outrageous amounts to keep authoritarian clowns in power, those of us who believe in the ideals of America cannot yield."
+The House Majority PAC, the main super PAC working to elect House Democrats, has received $8.5 million from Hoffman this cycle, according to Federal Election Commission records.
+In the past two weeks, the group has rolled out 13 ads related to disgraced financier and sex offender Jeffrey Epstein. They total about $8.4 million in spending and nearly 719.4 million impressions, according to AdImpact. Until this month, it had not run a single Epstein-focused ad.
+The spots have pushed Epstein into at least six battleground House races, accusing Republicans of helping block the release of government records related to Epstein or highlighting their ties to people in his orbit.
+In Arizona's Second District, an ad called "Justice" attacked Republican Rep. Eli Crane over votes related to releasing the Epstein files and contributions from alleged Epstein associates. In Pennsylvania's Eighth District, ads called "Predators" and "Teacher" targeted Republican Rep. Rob Bresnahan. And this week, an ad called "Exposed" went after Republican Rep. Mike Turner in Ohio's Tenth District over a contribution from an Epstein confidant and his record on releasing the files. All three races are tightly contested and could help determine control of the House in the next Congress.
+There is no way to trace Hoffman's money to any particular ad because super PACs pool contributions from their donors. But the blitz comes with an obvious complication for Democrats: Hoffman's continued association with Epstein after the financier pleaded guilty in 2008 to sex offenses involving a minor.
+Hoffman has acknowledged visiting Epstein's private island and meeting with him after the conviction. He has said the relationship grew out of fundraising for the MIT Media Lab and has repeatedly said he regrets continuing to meet with Epstein.
+"My last interaction with Epstein was in 2015," Hoffman told Axios in 2019. "Still, by agreeing to participate in any fundraising activity where Epstein was present, I helped to repair his reputation and perpetuate injustice. For this, I am deeply regretful."
+There is no allegation that Hoffman participated in Epstein's sex-trafficking crimes, but Republicans have nevertheless seized on the relationship. The Republican National Committee this week accused Democrats of hypocrisy for accepting Hoffman's money while using Epstein against GOP candidates.
+"Democrats have no problem with money in politics so long as it benefits their own campaign," RNC spokesperson Natalie Baldassarre told Fox News earlier this week.
+And the attack has followed Hoffman's money into Wisconsin. In a new 15-second ad, Tiffany's campaign splices together clips of Crowley saying "Epstein" and "billionaires" before a narrator says they "are bankrolling David Crowley's campaign."`,
+    bodyJa: `Billionaire venture capitalist Reid Hoffman has put $8 million into the Democratic Party of Wisconsin over the past five weeks to help the party's gubernatorial nominee David Crowley in his race against Republican Tom Tiffany.
+The LinkedIn co-founder gave $2 million on Sept. 24, $1 million on Oct. 2 and another $5 million in two installments on Oct. 5 and Oct. 20, according to Wisconsin campaign finance records. The rapid-fire checks are part of a last-minute spending spree by some of America's richest donors before Election Day.
+In just the past week and a half, former New York City Mayor Michael Bloomberg gave Democratic Texas gubernatorial nominee Gina Hinojosa $750,000, while Y Combinator co-founder Jessica Livingston chipped in another $150,000, state records show.
+Bloomberg had already committed roughly $80 million to help Democrats this fall, much of it aimed at winning control of the House.
+Meanwhile, PayPal co-founder Luke Nosek gave $500,000 on Tuesday to Judicial Fairness PAC, which supports conservative judicial candidates in Texas, according to Texas campaign finance records. The group had already received $2 million from Tesla and SpaceX CEO Elon Musk, according to state records. Musk's roughly $475 million in disclosed political giving through late October makes him the cycle's biggest known individual donor.
+The checks are landing in the middle of a final-week ad frenzy, with more than $1 billion now booked to air before Election Day, according to AdImpact. The 2026 cycle has already broken the record for political ad spending, with more than $11.2 billion spent or reserved, according to AdImpact. That's more than any previous presidential election cycle as well.
+Hoffman has framed his own spending as a reluctant necessity.
+"We should get money out of politics," Hoffman wrote Friday on X. "And while others spend outrageous amounts to keep authoritarian clowns in power, those of us who believe in the ideals of America cannot yield."
+The House Majority PAC, the main super PAC working to elect House Democrats, has received $8.5 million from Hoffman this cycle, according to Federal Election Commission records.
+In the past two weeks, the group has rolled out 13 ads related to disgraced financier and sex offender Jeffrey Epstein. They total about $8.4 million in spending and nearly 719.4 million impressions, according to AdImpact. Until this month, it had not run a single Epstein-focused ad.
+The spots have pushed Epstein into at least six battleground House races, accusing Republicans of helping block the release of government records related to Epstein or highlighting their ties to people in his orbit.
+In Arizona's Second District, an ad called "Justice" attacked Republican Rep. Eli Crane over votes related to releasing the Epstein files and contributions from alleged Epstein associates. In Pennsylvania's Eighth District, ads called "Predators" and "Teacher" targeted Republican Rep. Rob Bresnahan. And this week, an ad called "Exposed" went after Republican Rep. Mike Turner in Ohio's Tenth District over a contribution from an Epstein confidant and his record on releasing the files. All three races are tightly contested and could help determine control of the House in the next Congress.
+There is no way to trace Hoffman's money to any particular ad because super PACs pool contributions from their donors. But the blitz comes with an obvious complication for Democrats: Hoffman's continued association with Epstein after the financier pleaded guilty in 2008 to sex offenses involving a minor.
+Hoffman has acknowledged visiting Epstein's private island and meeting with him after the conviction. He has said the relationship grew out of fundraising for the MIT Media Lab and has repeatedly said he regrets continuing to meet with Epstein.
+"My last interaction with Epstein was in 2015," Hoffman told Axios in 2019. "Still, by agreeing to participate in any fundraising activity where Epstein was present, I helped to repair his reputation and perpetuate injustice. For this, I am deeply regretful."
+There is no allegation that Hoffman participated in Epstein's sex-trafficking crimes, but Republicans have nevertheless seized on the relationship. The Republican National Committee this week accused Democrats of hypocrisy for accepting Hoffman's money while using Epstein against GOP candidates.
+"Democrats have no problem with money in politics so long as it benefits their own campaign," RNC spokesperson Natalie Baldassarre told Fox News earlier this week.
+And the attack has followed Hoffman's money into Wisconsin. In a new 15-second ad, Tiffany's campaign splices together clips of Crowley saying "Epstein" and "billionaires" before a narrator says they "are bankrolling David Crowley's campaign."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html",
+    publishedAt: "2026-10-30T18:32:17+00:00",
+    category: "自動車",
+    imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "city-of-london-chief-tops-uk-black-power-5d44c0c5",
+    title: "City of London chief tops UK Black Powerlist",
+    titleJa: "City of London chief tops UK Black Powerlist",
+    summaryJa: "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
+    bodyOriginal: `City of London chief tops UK Black Powerlist
+- Published
+Ian Thomas, chief executive of the City of London Corporation, has been named the UK's most influential Black Briton in this year's Black Powerlist awards.
+The 57-year old is the first Black person to oversee the Square Mile's governing body in its more than 900-year history.
+The City of London Corporation is an administrative body with responsibility for London's central financial district, headed by its own Lord Mayor.
+Thomas tops the 2027 Black Powerlist, which recognises the most powerful people of African and Caribbean heritage in the UK.
+The award body said he was "a respected public-service leader with over 30 years' experience in local government".
+Other influential names in this year's top ten include entrepreneurs Emma Grede and Steven Bartlett, as well as actor and filmmaker Sir Idris Elba.
+Comedian Sir Lenny Henry has also been recognised, with a Lifetime Achievement award, for co-founding Comic Relief, which has raised over £1.6bn since 1985.
+Now in its 21st year, the Black Powerlist celebrates people who have broken through barriers to reach leadership roles, thereby inspiring future generations.
+"It exists to show young people of African and Caribbean heritage what is possible, in fields they might never have considered," said Michael Eboda, the list's publisher.
+Thomas said he secured the role at the head of the City of London Corporation in 2022 only following seven interviews and an election.
+'When I started my journey in public service, I never, ever thought, [not] in a million years, that I'd be recognised in this way," he told the BBC.
+'Discipline and respect'
+As chief executive, he oversees around 5,000 staff with responsibilities including the City of London Police, 11,000 acres of open spaces such as Epping Forest and Hampstead Heath, and advocacy for the UK's financial and professional services sector.
+Thomas was born in Sheffield to parents who made the city their home after leaving Jamaica as part of the Windrush generation.
+"They worked incredibly hard and instilled that sense of discipline and respect, and that's the core of how I do business," he said of his upbringing.
+Growing up, Thomas aspired to be a footballer and took part in trials alongside Alan Shearer.
+Reflecting on his own change of direction, Thomas joked it was about "following dreams and if they don't come true… there's always something else".
+Before joining the City of London Corporation, Thomas served as chief executive of the Royal Borough of Kingston upon Thames where he oversaw public services and a £1.2bn regeneration programme.
+He was appointed a CBE in the 2019 New Year Honours in the wake of the Rotherham Abuse scandal for transforming children's services during his time as strategic director for children and young people at Rotherham Metropolitan Borough Council.
+Thomas replaces last year's incumbent, Afua Kyei, the Bank of England's chief financial officer and executive director, and is joined on this year's list by Comfort Ero, the President and chief executive of the International Crisis Group, who takes second place.
+Related topics
+- Published24 October 2025
+- Published19 October`,
+    bodyJa: `City of London chief tops UK Black Powerlist
+- Published
+Ian Thomas, chief executive of the City of London Corporation, has been named the UK's most influential Black Briton in this year's Black Powerlist awards.
+The 57-year old is the first Black person to oversee the Square Mile's governing body in its more than 900-year history.
+The City of London Corporation is an administrative body with responsibility for London's central financial district, headed by its own Lord Mayor.
+Thomas tops the 2027 Black Powerlist, which recognises the most powerful people of African and Caribbean heritage in the UK.
+The award body said he was "a respected public-service leader with over 30 years' experience in local government".
+Other influential names in this year's top ten include entrepreneurs Emma Grede and Steven Bartlett, as well as actor and filmmaker Sir Idris Elba.
+Comedian Sir Lenny Henry has also been recognised, with a Lifetime Achievement award, for co-founding Comic Relief, which has raised over £1.6bn since 1985.
+Now in its 21st year, the Black Powerlist celebrates people who have broken through barriers to reach leadership roles, thereby inspiring future generations.
+"It exists to show young people of African and Caribbean heritage what is possible, in fields they might never have considered," said Michael Eboda, the list's publisher.
+Thomas said he secured the role at the head of the City of London Corporation in 2022 only following seven interviews and an election.
+'When I started my journey in public service, I never, ever thought, [not] in a million years, that I'd be recognised in this way," he told the BBC.
+'Discipline and respect'
+As chief executive, he oversees around 5,000 staff with responsibilities including the City of London Police, 11,000 acres of open spaces such as Epping Forest and Hampstead Heath, and advocacy for the UK's financial and professional services sector.
+Thomas was born in Sheffield to parents who made the city their home after leaving Jamaica as part of the Windrush generation.
+"They worked incredibly hard and instilled that sense of discipline and respect, and that's the core of how I do business," he said of his upbringing.
+Growing up, Thomas aspired to be a footballer and took part in trials alongside Alan Shearer.
+Reflecting on his own change of direction, Thomas joked it was about "following dreams and if they don't come true… there's always something else".
+Before joining the City of London Corporation, Thomas served as chief executive of the Royal Borough of Kingston upon Thames where he oversaw public services and a £1.2bn regeneration programme.
+He was appointed a CBE in the 2019 New Year Honours in the wake of the Rotherham Abuse scandal for transforming children's services during his time as strategic director for children and young people at Rotherham Metropolitan Borough Council.
+Thomas replaces last year's incumbent, Afua Kyei, the Bank of England's chief financial officer and executive director, and is joined on this year's list by Comfort Ero, the President and chief executive of the International Crisis Group, who takes second place.
+Related topics
+- Published24 October 2025
+- Published19 October`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-30T18:00:24+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d4/live/4a441ff0-d48a-11f1-9a20-f717db279e3e.jpg",
+    readTime: 8,
+  },
+  {
+    id: "treasury-department-announces-new-series-249afc7e",
+    title: "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
+    titleJa: "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
+    summaryJa: "The U.S. Department of the Treasury has announced new Series I bond rates through April 2027.",
+    bodyOriginal: `The U.S. Department of the Treasury has announced new rates for Series I bonds.
+Newly purchased I bonds will pay 5.51% annual interest from Nov. 1 through April 30, which is up from the 4.26% yield offered on purchases made through Oct. 31.
+The new rate includes a variable portion of 4.08% based on inflation data, and a fixed portion of 1.40%. The fixed rate is up from 0.90% announced in April, and the highest since 2006.
+Combined, the composite I bond rate is 5.51% after rounding, according to the Treasury.
+Amid the post-pandemic inflation peak, the I bond rate hit a record high of 9.62% in May 2022, and investors poured millions into the government-backed, nearly risk-free asset.
+As inflation cooled and I bond rates fell, many short-term investors redeemed I bonds. But investors could return as inflation pushes I bond rates back up, experts say.
+"I bonds are a lot more attractive at this point," said David Enna, founder of Tipswatch.com, a website that tracks Treasury inflation-protected securities, or TIPS, and I bond rates.
+I bonds are a lot more attractive at this point.David EnnaFounder of Tipswatch.com
+The consumer price index rose 3.7% in September 2026 from one year earlier, up from an annual pace of 3.4% in August, the Bureau of Labor Statistics reported in October.
+In September, some higher inflation came from the Iran war, which pushed up gasoline and energy costs. President Donald Trump's tariffs, new artificial intelligence data centers and demand for travel have also added to rising prices, economists say.
+Consumers expect rising inflation to continue. In September, the one-year inflation outlook jumped to 3.9%, the highest in more than three years, according to a New York Fed survey released in early October.
+How I bond rates work
+I bond rates have a variable and fixed rate portion, which the Treasury adjusts every six months, in May and November.
+The variable rate is tied to inflation — using the consumer price index percentage change over six months — and stays the same for six months after you purchase, regardless of the Treasury's next update.
+Your fixed rate doesn't change after purchasing I bonds. The Treasury doesn't disclose how it calculates fixed-rate adjustments, making it harder to predict.
+Some experts believe the I bond fixed rate could be driven by real, or inflation-adjusted, yields from five-year TIPS, according to Ken Tumin, founder of DepositQuest.com, a blog that tracks I bond rates, among other deposit accounts.
+"There's some uncertainty there," Tumin said.
+How the change affects current I bond investors
+If you currently own I bonds, rate updates follow a six-month timeline based on your original purchase date.
+After you own I bonds for six months, the variable yield changes to the next announced rate. But the fixed rate stays the same for the entire time you own the asset.
+For example, let's say you purchased I bonds in March when the variable rate was still 3.12% and the fixed rate was 0.9%. After six months, the variable portion would shift to 3.34%, announced in April 2026, but your fixed rate would remain 0.9%.
+You can earn I bond interest for up to 30 years, or less if you redeem the assets before that. However, you can't cash in I bonds for at least one year after you buy them. If you redeem within five years, you lose your last three months of interest.`,
+    bodyJa: `The U.S. Department of the Treasury has announced new rates for Series I bonds.
+Newly purchased I bonds will pay 5.51% annual interest from Nov. 1 through April 30, which is up from the 4.26% yield offered on purchases made through Oct. 31.
+The new rate includes a variable portion of 4.08% based on inflation data, and a fixed portion of 1.40%. The fixed rate is up from 0.90% announced in April, and the highest since 2006.
+Combined, the composite I bond rate is 5.51% after rounding, according to the Treasury.
+Amid the post-pandemic inflation peak, the I bond rate hit a record high of 9.62% in May 2022, and investors poured millions into the government-backed, nearly risk-free asset.
+As inflation cooled and I bond rates fell, many short-term investors redeemed I bonds. But investors could return as inflation pushes I bond rates back up, experts say.
+"I bonds are a lot more attractive at this point," said David Enna, founder of Tipswatch.com, a website that tracks Treasury inflation-protected securities, or TIPS, and I bond rates.
+I bonds are a lot more attractive at this point.David EnnaFounder of Tipswatch.com
+The consumer price index rose 3.7% in September 2026 from one year earlier, up from an annual pace of 3.4% in August, the Bureau of Labor Statistics reported in October.
+In September, some higher inflation came from the Iran war, which pushed up gasoline and energy costs. President Donald Trump's tariffs, new artificial intelligence data centers and demand for travel have also added to rising prices, economists say.
+Consumers expect rising inflation to continue. In September, the one-year inflation outlook jumped to 3.9%, the highest in more than three years, according to a New York Fed survey released in early October.
+How I bond rates work
+I bond rates have a variable and fixed rate portion, which the Treasury adjusts every six months, in May and November.
+The variable rate is tied to inflation — using the consumer price index percentage change over six months — and stays the same for six months after you purchase, regardless of the Treasury's next update.
+Your fixed rate doesn't change after purchasing I bonds. The Treasury doesn't disclose how it calculates fixed-rate adjustments, making it harder to predict.
+Some experts believe the I bond fixed rate could be driven by real, or inflation-adjusted, yields from five-year TIPS, according to Ken Tumin, founder of DepositQuest.com, a blog that tracks I bond rates, among other deposit accounts.
+"There's some uncertainty there," Tumin said.
+How the change affects current I bond investors
+If you currently own I bonds, rate updates follow a six-month timeline based on your original purchase date.
+After you own I bonds for six months, the variable yield changes to the next announced rate. But the fixed rate stays the same for the entire time you own the asset.
+For example, let's say you purchased I bonds in March when the variable rate was still 3.12% and the fixed rate was 0.9%. After six months, the variable portion would shift to 3.34%, announced in April 2026, but your fixed rate would remain 0.9%.
+You can earn I bond interest for up to 30 years, or less if you redeem the assets before that. However, you can't cash in I bonds for at least one year after you buy them. If you redeem within five years, you lose your last three months of interest.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
+    publishedAt: "2026-10-30T17:15:53+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 8,
+  },
+  {
     id: "swiss-central-bank-posts-bumper-23bn-pro-4f309980",
     title: "Swiss central bank posts bumper $23bn profit as gold, foreign assets soar",
     titleJa: "Swiss central bank posts bumper $23bn profit as gold, foreign assets soar",
@@ -143,6 +529,28 @@ Anthropic's S-1 was a trove of company intel, but one figure really caught my ey
     category: "金融政策",
     imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 10,
+  },
+  {
+    id: "what-we-know-about-binance-s-6-3bn-hack-6e444c47",
+    title: "What we know about Binance's $6.3bn hack",
+    titleJa: "What we know about Binance's $6.3bn hack",
+    summaryJa: "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+    bodyOriginal: `What we know about Binance's $6.3bn hack
+Binance, the world's biggest crypto exchange, has been hit by a $6.3bn (£4.7bn) hack - thought to be the biggest in history.
+Half of the assets have been frozen but many remain in the hands of the hackers, the cryptocurrency giant said. It later added that it has "begun recovering" some funds.
+Two analytics firms have attributed the incident to a North Korean hacking unit, though no one has claimed responsibility. Binance did not directly respond to questions about the incident's potential links to North Korea.
+BBC cyber correspondent Joe Tidy explains more about the hack and what to do if you are affected.`,
+    bodyJa: `What we know about Binance's $6.3bn hack
+Binance, the world's biggest crypto exchange, has been hit by a $6.3bn (£4.7bn) hack - thought to be the biggest in history.
+Half of the assets have been frozen but many remain in the hands of the hackers, the cryptocurrency giant said. It later added that it has "begun recovering" some funds.
+Two analytics firms have attributed the incident to a North Korean hacking unit, though no one has claimed responsibility. Binance did not directly respond to questions about the incident's potential links to North Korea.
+BBC cyber correspondent Joe Tidy explains more about the hack and what to do if you are affected.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-30T12:27:28+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ae1/live/ab354520-d460-11f1-b441-2b33b063138f.jpg",
+    readTime: 2,
   },
   {
     id: "chevron-and-exxon-beat-earnings-expectat-5c8963fa",
@@ -520,6 +928,90 @@ Technology of Business
     publishedAt: "2026-10-30T07:45:00+00:00",
     category: "マクロ経済",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f80/live/10dfbd10-c949-11f1-bc2e-018d645d8d21.jpg",
+    readTime: 10,
+  },
+  {
+    id: "how-poundland-grew-from-a-market-stall-t-c216336b",
+    title: "How Poundland grew from a market stall to a high street giant",
+    titleJa: "How Poundland grew from a market stall to a high street giant",
+    summaryJa: "The retail giant - which started life at a Wolverhampton market - is now at threat of collapse.",
+    bodyOriginal: `How Poundland grew from a market stall to a high street giant
+- Published
+"When I told people what I wanted to do, open shops on the high street selling things for one pound, they said, 'how will you find products to sell for a pound, what about inflation, it will never work.'"
+That is how Steve Smith, the founder of Poundland, describes the genesis of the budget giant - which went on to employ thousands of people and see over a million customers a week - on his own website, external.
+But now the West Midlands-based retailer is teetering on the edge, after its US-based owners Gordon Brothers cut off a vital funding supply and rejected a takeover offer from Irish firm Martin Property Group.
+Poundland staff protest after chain approach administrators
+- Published1 day ago
+Burnham 'ready to support' Poundland staff as retailer faces collapse
+- Published1 day ago
+The curious case of why Poundland is struggling during a cost-of-living crisis
+- Published21 November 2025
+Having spent time on his parents stall since the age of two Wolverhampton-born businessman Smith started out in the very same place - selling items for £1 from his own stall.
+After a £50,000 loan from his parents he opened the first Poundland shop, in The Octagon Shopping Centre in Burton-upon-Trent, Staffordshire, on 13 December 1990.
+That first day, with a range of 624 products, the store took more than £13,000 - "and Poundland was born," Smith said.
+Smith and his wife, Tracy, now based in Shropshire, owned the company for 16 years.
+In 2006, he decided the time had come and he sold his final shares in the business for £250m, but later said the sale felt it was "as though somebody had died".
+But by 2025, the Walsall-based company was itself sold for just £1.
+Its owner, Polish firm Pepco, confirmed it had sold the brand for a "nominal" sum to US investment firm Gordon Brothers.
+At the time Poundland had more than 800 stores across the UK and Ireland and employed around 16,000 staff.
+"I did pick up the phone when I heard it was for sale but I was a bit too late," Smith said after the sale.
+Now, the retailer's bosses have filed a notice of intention to appoint administrators, which will give the business 10 days to find a rescue deal.
+A protest was held outside the Poundland HQ on Thursday, Claire Sutcliffe - who has been at the company for nearly a decade - among those demonstrating.
+Questioned about how she felt, the 49-year-old replied she was "very sad", adding: "Nine years is a lot working for Poundland and they've been really good to me as a Poundland family, really supportive."
+Sutcliffe added that some had worked for the business for 20 years and "it's just very sad for us all".
+Asked what her message was to owners Gordon Brothers, she replied: "Please just sell.
+"Save our jobs, we've all got families to feed and it's... near Christmas."
+Professor Sarah Montano, a retail expert from the University of Birmingham, said: "The real problem for Poundland is, when they first started it was really great because everything was £1, that was a really unique selling point for them.
+"[Today] there's competitors which are offering very similar prices and for quite a lot of products they're offering them cheaper."
+She added that some competitors had "really got their finger on the key trends".
+In a statement, the board of Poundland Limited said it had been "working on a formal sale process for Poundland" and despite "enormous efforts it has not been possible to identify an acceptable offer for the business as a whole".
+"The process has however attracted several established retail operators who have made formal offers, collectively these cover a significant part of the business, and we believe offer the best available prospects for shareholders, creditors and to preserve jobs," they said.
+"We recognise any sale process creates uncertainty and particularly when set against a challenging UK economic environment."
+They also thanked "staff, suppliers and customers for their continued support".
+Get in touch
+Tell us which stories we should cover in Birmingham and the Black Country
+Follow BBC Birmingham on BBC Sounds, Facebook, external, X, external and Instagram, external.`,
+    bodyJa: `How Poundland grew from a market stall to a high street giant
+- Published
+"When I told people what I wanted to do, open shops on the high street selling things for one pound, they said, 'how will you find products to sell for a pound, what about inflation, it will never work.'"
+That is how Steve Smith, the founder of Poundland, describes the genesis of the budget giant - which went on to employ thousands of people and see over a million customers a week - on his own website, external.
+But now the West Midlands-based retailer is teetering on the edge, after its US-based owners Gordon Brothers cut off a vital funding supply and rejected a takeover offer from Irish firm Martin Property Group.
+Poundland staff protest after chain approach administrators
+- Published1 day ago
+Burnham 'ready to support' Poundland staff as retailer faces collapse
+- Published1 day ago
+The curious case of why Poundland is struggling during a cost-of-living crisis
+- Published21 November 2025
+Having spent time on his parents stall since the age of two Wolverhampton-born businessman Smith started out in the very same place - selling items for £1 from his own stall.
+After a £50,000 loan from his parents he opened the first Poundland shop, in The Octagon Shopping Centre in Burton-upon-Trent, Staffordshire, on 13 December 1990.
+That first day, with a range of 624 products, the store took more than £13,000 - "and Poundland was born," Smith said.
+Smith and his wife, Tracy, now based in Shropshire, owned the company for 16 years.
+In 2006, he decided the time had come and he sold his final shares in the business for £250m, but later said the sale felt it was "as though somebody had died".
+But by 2025, the Walsall-based company was itself sold for just £1.
+Its owner, Polish firm Pepco, confirmed it had sold the brand for a "nominal" sum to US investment firm Gordon Brothers.
+At the time Poundland had more than 800 stores across the UK and Ireland and employed around 16,000 staff.
+"I did pick up the phone when I heard it was for sale but I was a bit too late," Smith said after the sale.
+Now, the retailer's bosses have filed a notice of intention to appoint administrators, which will give the business 10 days to find a rescue deal.
+A protest was held outside the Poundland HQ on Thursday, Claire Sutcliffe - who has been at the company for nearly a decade - among those demonstrating.
+Questioned about how she felt, the 49-year-old replied she was "very sad", adding: "Nine years is a lot working for Poundland and they've been really good to me as a Poundland family, really supportive."
+Sutcliffe added that some had worked for the business for 20 years and "it's just very sad for us all".
+Asked what her message was to owners Gordon Brothers, she replied: "Please just sell.
+"Save our jobs, we've all got families to feed and it's... near Christmas."
+Professor Sarah Montano, a retail expert from the University of Birmingham, said: "The real problem for Poundland is, when they first started it was really great because everything was £1, that was a really unique selling point for them.
+"[Today] there's competitors which are offering very similar prices and for quite a lot of products they're offering them cheaper."
+She added that some competitors had "really got their finger on the key trends".
+In a statement, the board of Poundland Limited said it had been "working on a formal sale process for Poundland" and despite "enormous efforts it has not been possible to identify an acceptable offer for the business as a whole".
+"The process has however attracted several established retail operators who have made formal offers, collectively these cover a significant part of the business, and we believe offer the best available prospects for shareholders, creditors and to preserve jobs," they said.
+"We recognise any sale process creates uncertainty and particularly when set against a challenging UK economic environment."
+They also thanked "staff, suppliers and customers for their continued support".
+Get in touch
+Tell us which stories we should cover in Birmingham and the Black Country
+Follow BBC Birmingham on BBC Sounds, Facebook, external, X, external and Instagram, external.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-30T06:08:22+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8062/live/2dd0c130-d3d0-11f1-9c32-1532a6164171.jpg",
     readTime: 10,
   },
   {
@@ -1778,466 +2270,6 @@ Excluding one-time items associated with the value of intangible assets and othe
     publishedAt: "2026-10-29T11:44:57+00:00",
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "over-41-000-u-s-homeland-security-offici-bb6a4ca7",
-    title: "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
-    titleJa: "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
-    summaryJa: "CNBC was able to access the database on the website, and saw it contained names alleged to be of officials, titles, agencies, and offices in cities and states.",
-    bodyOriginal: `The identities of over 41,000 officials from the Department of Homeland Security have allegedly been exposed in a massive data breach by a hacktivist group calling itself the Department of Peace.
-Late Wednesday stateside, the database was posted on Distributed Denial of Secrets, a nonprofit dedicated to news leaks, with claims that it was obtained from an Okta single sign-on service used by the DHS.
-It appears to reveal employee names, offices, contact information and assignments, and is searchable.
-Okta didn't immediately respond to a request for comment.
-DDoS said that "this is not a comprehensive list of all DHS employees," quoting cofounder Emma Best saying, "Rather than an indiscriminate directory of every DHS employee, Icepick identifies many of the architects and drivers of DHS policy and operations."
-DHS didn't immediately respond to a request for comment. The agency told the Washington Post that it was "aware of a potential breach" and was "working to address the situation swiftly and effectively."
-The searchable database appears to include employees from Immigration and Customs Enforcement, U.S. Citizenship and Immigration Services, Customs and Border Protection and the DHS headquarters.
-The hacker group said the leak was carried out in response to DHS Secretary Markwayne Mullin reportedly saying on July 17 that ICE will be "turning up the heat on the streets" by intensifying immigration arrests and traffic stops.
-In U.S. President Donald Trump's second term, the backlash to his efforts to intensify arrests and deportations of suspected illegal immigrants has increased as ICE agents have been documented using physical force during operations.
-DHS completed 980,000 deportations in the first 18 months of his term, according to the Migration Policy Institute.`,
-    bodyJa: `The identities of over 41,000 officials from the Department of Homeland Security have allegedly been exposed in a massive data breach by a hacktivist group calling itself the Department of Peace.
-Late Wednesday stateside, the database was posted on Distributed Denial of Secrets, a nonprofit dedicated to news leaks, with claims that it was obtained from an Okta single sign-on service used by the DHS.
-It appears to reveal employee names, offices, contact information and assignments, and is searchable.
-Okta didn't immediately respond to a request for comment.
-DDoS said that "this is not a comprehensive list of all DHS employees," quoting cofounder Emma Best saying, "Rather than an indiscriminate directory of every DHS employee, Icepick identifies many of the architects and drivers of DHS policy and operations."
-DHS didn't immediately respond to a request for comment. The agency told the Washington Post that it was "aware of a potential breach" and was "working to address the situation swiftly and effectively."
-The searchable database appears to include employees from Immigration and Customs Enforcement, U.S. Citizenship and Immigration Services, Customs and Border Protection and the DHS headquarters.
-The hacker group said the leak was carried out in response to DHS Secretary Markwayne Mullin reportedly saying on July 17 that ICE will be "turning up the heat on the streets" by intensifying immigration arrests and traffic stops.
-In U.S. President Donald Trump's second term, the backlash to his efforts to intensify arrests and deportations of suspected illegal immigrants has increased as ICE agents have been documented using physical force during operations.
-DHS completed 980,000 deportations in the first 18 months of his term, according to the Migration Policy Institute.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/29/dhs-data-breach-ice-cdp-deportations.html",
-    publishedAt: "2026-10-29T04:29:32+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "trump-methane-policy-rollback-may-have-m-89bcdfc9",
-    title: "Trump methane policy rollback may have minimal impact on crude prices, EPA says",
-    titleJa: "Trump methane policy rollback may have minimal impact on crude prices, EPA says",
-    summaryJa: "The EPA projects Trump’s methane rollback would only lower 2027 U.S. crude prices 11 cents a barrel, while lifting domestic oil output 0.09%.",
-    bodyOriginal: `U.S. President Donald Trump's proposed rollback of methane emissions rules would do little to lower oil and natural gas prices, according to the Environmental Protection Agency’s own economic modeling.
-Trump and EPA Administrator Lee Zeldin announced the proposal Tuesday in Lubbock, Texas, in a bid to lower regulatory costs and support domestic energy production.
-“When owners and operators can produce, America benefits with lower prices,” Zeldin said in EPA’s announcement.
-The EPA projects that the changes would lower U.S. crude prices by 11 cents a barrel in 2027, or 0.14%, while increasing domestic oil production by 0.09%. That amounts to roughly one extra barrel for every 1,000 the U.S. would otherwise produce, according to CNBC's calculations.
-CLSA energy research analyst Baden Moore said uncertainty over implementation and the policy’s durability across administrations could constrain producers’ investment decisions.
-That “limits the upside to current production rates in the near term,” including in 2027, he told CNBC.
-He added that the changes could instead slow declines in existing production by allowing some wells to remain operational when environmental compliance costs would otherwise make them uneconomic.
-Moore anticipates that the policy would affect only a small proportion of the U.S. shale market.
-With CLSA expecting oil prices to remain above $80 a barrel, many wells would already be commercially viable, limiting the number whose continued operation would depend on regulatory relief.
-The proposal could help many well operators while having a limited effect on overall supply.
-Marginal wells — wells that produce small amounts of oil and gas — account for around 80% of active U.S. wells, but less than 10% of production, according to the International Energy Agency.
-EPA proposal rollback
-The EPA is considering lighter methane requirements based either on a well site’s production levels or whether it uses conventional or unconventional extraction methods.
-The agency would also scrap its Super Emitter Program, which relies on approved third-party monitors to identify major methane releases. Separately, operators could manage gas produced alongside oil through flaring that destroys 95% of the methane.
-The EPA projects the proposal would result in an additional 60 million short tons of methane emissions from 2027 through 2050.
-The agency told CNBC it estimates the changes would save the U.S. economy about $45 billion over that period, including roughly $42 billion in lower compliance costs.
-The EPA also expects operators to capture less gas for sale or use, resulting in about $4.2 billion in lost revenue. That figure is already reflected in its estimate of $42 billion in compliance savings.
-This proposal remains subject to the rulemaking process, including a public-comment period and further EPA review, before any changes can be finalized.
-It comes as the Trump administration has also moved to ease sanctions on Russian diesel exports as part of efforts to address fuel prices. Energy Secretary Chris Wright told CNBC Tuesday that additional shipments could be permitted depending on Moscow’s actions.`,
-    bodyJa: `U.S. President Donald Trump's proposed rollback of methane emissions rules would do little to lower oil and natural gas prices, according to the Environmental Protection Agency’s own economic modeling.
-Trump and EPA Administrator Lee Zeldin announced the proposal Tuesday in Lubbock, Texas, in a bid to lower regulatory costs and support domestic energy production.
-“When owners and operators can produce, America benefits with lower prices,” Zeldin said in EPA’s announcement.
-The EPA projects that the changes would lower U.S. crude prices by 11 cents a barrel in 2027, or 0.14%, while increasing domestic oil production by 0.09%. That amounts to roughly one extra barrel for every 1,000 the U.S. would otherwise produce, according to CNBC's calculations.
-CLSA energy research analyst Baden Moore said uncertainty over implementation and the policy’s durability across administrations could constrain producers’ investment decisions.
-That “limits the upside to current production rates in the near term,” including in 2027, he told CNBC.
-He added that the changes could instead slow declines in existing production by allowing some wells to remain operational when environmental compliance costs would otherwise make them uneconomic.
-Moore anticipates that the policy would affect only a small proportion of the U.S. shale market.
-With CLSA expecting oil prices to remain above $80 a barrel, many wells would already be commercially viable, limiting the number whose continued operation would depend on regulatory relief.
-The proposal could help many well operators while having a limited effect on overall supply.
-Marginal wells — wells that produce small amounts of oil and gas — account for around 80% of active U.S. wells, but less than 10% of production, according to the International Energy Agency.
-EPA proposal rollback
-The EPA is considering lighter methane requirements based either on a well site’s production levels or whether it uses conventional or unconventional extraction methods.
-The agency would also scrap its Super Emitter Program, which relies on approved third-party monitors to identify major methane releases. Separately, operators could manage gas produced alongside oil through flaring that destroys 95% of the methane.
-The EPA projects the proposal would result in an additional 60 million short tons of methane emissions from 2027 through 2050.
-The agency told CNBC it estimates the changes would save the U.S. economy about $45 billion over that period, including roughly $42 billion in lower compliance costs.
-The EPA also expects operators to capture less gas for sale or use, resulting in about $4.2 billion in lost revenue. That figure is already reflected in its estimate of $42 billion in compliance savings.
-This proposal remains subject to the rulemaking process, including a public-comment period and further EPA review, before any changes can be finalized.
-It comes as the Trump administration has also moved to ease sanctions on Russian diesel exports as part of efforts to address fuel prices. Energy Secretary Chris Wright told CNBC Tuesday that additional shipments could be permitted depending on Moscow’s actions.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/29/trump-methane-rollback-oil-prices-epa.html",
-    publishedAt: "2026-10-29T04:00:51+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 8,
-  },
-  {
-    id: "samsung-electronics-shares-slid-despite-532a9afe",
-    title: "Samsung Electronics shares slid despite record profit in the third-quarter",
-    titleJa: "Samsung Electronics shares slid despite record profit in the third-quarter",
-    summaryJa: "South Korean tech giant Samsung Electronics on Thursday reported third-quarter operating profit that is broadly in line with analysts' expectations, as demand for advanced memory chips used in artificial intelligence applications continued to grow.",
-    bodyOriginal: `South Korean tech giant Samsung Electronics on Thursday reported third-quarter operating profit that is broadly in line with analysts' expectations, as demand for advanced memory chips used in artificial intelligence applications continued to grow.
-Following the announcement, Samsung shares were trading 5% lower.
-The company plans to increase sales of advanced memory chips used in AI applications and secure long-term contracts to meet growing demand.
-Here are Samsung's third-quarter results compared with LSEG SmartEstimates, which are weighted toward forecasts from analysts who are more consistently accurate:
-- Revenue: 195.25 trillion won ($124 billion) vs. 195.79 trillion won expected
-- Operating profit: 107.44 trillion won vs. 107.66 trillion won expected
-Samsung's revenue rose 126.88% year-on-year and 13.85% from the previous quarter, while operating profit rose 783.11% from a year earlier.
-The company also announced 30 trillion won in cash dividends for the third quarter, equivalent to 4,601 won per common and preferred share.
-The company plans to return another 55 trillion to 75 trillion won to shareholders this year through dividends and share buybacks, as the board will finalize the total shareholder returns and specific execution plans at a meeting scheduled for late January 2027.
-Samsung said it became the first global technology company to top 100 trillion won in quarterly operating profit, while posting record revenue and profit for a fourth straight quarter.
-Its semiconductor business reported 147.1 trillion won in revenue and 106.5 trillion won in operating profit, driven by strong demand for AI-related memory chips.
-Furthermore, its memory business also achieved record quarterly revenue and operating profit, supported by a significant ramp-up in HBM4 sales and growing demand for server solid-state drives.
-However, Josh Gilbert, lead analyst for APAC at investment platform eToro, appeared unaroused by the numbers, as the results failing to generate much enthusiasm in the market.
-The market still was not impressed.Josh GilbertAPAC Lead Analyst, eToro
-"Investors have been so spoilt by the AI trade that a record result is now treated as the bare minimum rather than a reason to celebrate," Gilbert said, adding that Samsung's chip business accounted for nearly all of its operating profit in the third quarter, highlighting its growing reliance on memory chips.
-"For all the talk of Samsung being a diversified giant, anyone holding the stock today is really holding a memory maker with a phone business attached," he said, stating that the company's fortunes now depend heavily on memory prices.
-Looking ahead, the company expects AI infrastructure investment to accelerate in 2027, with rising demand likely to further tighten memory supply.
-Samsung also plans to increase sales of HBM, a type of high-performance memory used in AI chips, along with other memory products used in servers and data storage.
-In the third quarter, Samsung Electronics and five of its affiliates had announced a combined $1 billion investment in KKR-backed Helix Digital Infrastructure. Samsung Electronics will invest $500 million, with the remaining amount coming from its affiliates.
-The tech giant had also announced a partnership with French AI startup Mistral AI to use AI technologies in its semiconductor operations, including chip design and manufacturing. The company also led Mistral's Series D funding round.`,
-    bodyJa: `South Korean tech giant Samsung Electronics on Thursday reported third-quarter operating profit that is broadly in line with analysts' expectations, as demand for advanced memory chips used in artificial intelligence applications continued to grow.
-Following the announcement, Samsung shares were trading 5% lower.
-The company plans to increase sales of advanced memory chips used in AI applications and secure long-term contracts to meet growing demand.
-Here are Samsung's third-quarter results compared with LSEG SmartEstimates, which are weighted toward forecasts from analysts who are more consistently accurate:
-- Revenue: 195.25 trillion won ($124 billion) vs. 195.79 trillion won expected
-- Operating profit: 107.44 trillion won vs. 107.66 trillion won expected
-Samsung's revenue rose 126.88% year-on-year and 13.85% from the previous quarter, while operating profit rose 783.11% from a year earlier.
-The company also announced 30 trillion won in cash dividends for the third quarter, equivalent to 4,601 won per common and preferred share.
-The company plans to return another 55 trillion to 75 trillion won to shareholders this year through dividends and share buybacks, as the board will finalize the total shareholder returns and specific execution plans at a meeting scheduled for late January 2027.
-Samsung said it became the first global technology company to top 100 trillion won in quarterly operating profit, while posting record revenue and profit for a fourth straight quarter.
-Its semiconductor business reported 147.1 trillion won in revenue and 106.5 trillion won in operating profit, driven by strong demand for AI-related memory chips.
-Furthermore, its memory business also achieved record quarterly revenue and operating profit, supported by a significant ramp-up in HBM4 sales and growing demand for server solid-state drives.
-However, Josh Gilbert, lead analyst for APAC at investment platform eToro, appeared unaroused by the numbers, as the results failing to generate much enthusiasm in the market.
-The market still was not impressed.Josh GilbertAPAC Lead Analyst, eToro
-"Investors have been so spoilt by the AI trade that a record result is now treated as the bare minimum rather than a reason to celebrate," Gilbert said, adding that Samsung's chip business accounted for nearly all of its operating profit in the third quarter, highlighting its growing reliance on memory chips.
-"For all the talk of Samsung being a diversified giant, anyone holding the stock today is really holding a memory maker with a phone business attached," he said, stating that the company's fortunes now depend heavily on memory prices.
-Looking ahead, the company expects AI infrastructure investment to accelerate in 2027, with rising demand likely to further tighten memory supply.
-Samsung also plans to increase sales of HBM, a type of high-performance memory used in AI chips, along with other memory products used in servers and data storage.
-In the third quarter, Samsung Electronics and five of its affiliates had announced a combined $1 billion investment in KKR-backed Helix Digital Infrastructure. Samsung Electronics will invest $500 million, with the remaining amount coming from its affiliates.
-The tech giant had also announced a partnership with French AI startup Mistral AI to use AI technologies in its semiconductor operations, including chip design and manufacturing. The company also led Mistral's Series D funding round.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
-    publishedAt: "2026-10-29T02:49:39+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "why-alphabet-s-stock-could-see-its-worst-9e813071",
-    title: "Why Alphabet’s stock could see its worst drop in years after the latest results",
-    titleJa: "Why Alphabet’s stock could see its worst drop in years after the latest results",
-    summaryJa: "A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries.",
-    bodyOriginal: `A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries.`,
-    bodyJa: `A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
-    publishedAt: "2026-10-29T01:58:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-69922963",
-    readTime: 2,
-  },
-  {
-    id: "i-earn-30-000-i-m-angry-there-was-no-fue-364f404f",
-    title: "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
-    titleJa: "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
-    summaryJa: "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
-    bodyOriginal: `I earn £30,000. I'm angry there was no fuel duty cut in the Budget
-- Published
-Chancellor John Healey has unveiled his first Budget.
-He announced £100 energy payment for millions and a tax rise on banks, among other measures.
-BBC News has been speaking to people on a range of incomes on how they feel about their finances and how the Budget affects them.
-Dave Herbert, a professional driver who moves cars between showrooms and does deliveries, says fuel prices have been "crazy" this year.
-He spends around £350 a month on petrol for work and personal use. That's 40% to 50% more than at the start of the year, he says.
-He has to commute into Cardiff, a 62-mile round trip from his home in Ynysddu. "I'd love to have a hybrid car but even an entry-level used car is too expensive."
-The 48-year-old, who is married with a 12-year-old daughter, says he has to find the extra money for fuel "from an already tight budget" and "dreads" filling up at the pump.
-The only measure Dave wanted to see was a cut to fuel duty, and he was disappointed this didn't happen.
-"I'm pretty angry, really. Nothing has been thrown my way," he says.
-The main fuel duty rate has been frozen at 57.95p per litre since March 2011, and it will be frozen again, but Dave says: "It sounds like they're giving us something by keeping it frozen but they're actually still taking it off us."
-'I get £4,062 a year. I'm frustrated there's no action on NEETs yet'
-Emily Nelson completed her A-levels last year and like thousands of her peers has been unable to find a job since leaving college.
-The 19-year-old from Swindon wants to be an animator but in the meantime is applying for retail and sales roles and apprenticeships. Most of the time, she doesn't hear back from potential employers.
-"I'm trying my best, it's all you really can do. It's kind of suffocating in a way. You see everyone else managing, and you feel like you're not."
-Emily was initially disappointed with the Budget, and then frustrated that the government is waiting for the outcome of a review into youth unemployment before legislating next year.
-"I'm glad the government is aware, and that they have a plan," she said. "But it's a bit frustrating that we have to wait a little longer to find out what it is."
-However, she adds: "It's not happened today, but it will happen."
-She wants to see more funding to businesses so they can take on more young employees. She'd also like to see more money for training and the government's Jobs Guarantee, external scheme extended.
-The scheme, being rolled out across England, Scotland and Wales, guarantees fully funded, six-month paid jobs for 18 to 24-year-olds who have been on universal credit and looking for work for 18 months. But Emily thinks people should be eligible after a year.
-'I earn £22,000. Cost-of-living help doesn't go far enough'
-Robert Portlock, 29, has always lived with his parents in Gateshead and would love to move out. But he doesn't think he can afford to.
-Rent would be his biggest concern, he says, explaining that a small flat in his area would cost him about two-thirds of his monthly wage.
-"Council tax and energy bills would add to it. Food too. I'd need a TV licence, broadband, my car and some money to socialise. By that point I'd be in the minus."
-Robert's biggest expense currently is his car, which he says he needs for his 32-mile round trip to work at Newcastle Airport. But he's paying £750 a month in car finance, insurance, fuel and tax.
-The Budget "doesn't go far enough", he says, adding he would have liked to have seen more help with the cost of living, including a cut in fuel duty.
-The £100 household energy allowance over a year is less than £10 a month, he says, while action on tariffs on food items will save only £21 a year, or £1.75 per month.
-"What am I going to buy with that - a Freddo?"
-He would like to get on the housing ladder but for now it feels a distant prospect. The government has announced a scheme to help first-time buyers in England who have a deposit of 2.5%, but Robert says: "Saving for a house is impossible at the moment."
-'I earn £41,000. Energy support will definitely help'
-Chloe Chin-Saad's husband passed away four years ago and her biggest worry is the cost of living.
-She's very grateful that the rent she pays on her south London maisonette is set below the market rate as it is housing association accommodation, but says life was easier when she shared the bills. "Two incomes make a massive difference."
-She lives with her 16-year-old son, and says her energy bill has risen sharply over the past year and she now pays about £200 a month on gas and electricity.
-"We try to be more aware, we think more about how long we run the hot water when we do the dishes."
-Chloe, 40, and her son have cut back on luxuries like going to M&S and the cinema, and she now tries to limit the weekly food shop to £40.
-But she can't do anything to reduce her £200 council tax bill, the £250 a month she pays on car finance, or the amount she spends on medicines for her various health conditions, including rheumatoid arthritis.
-Two mobile phone bills, and food and pet insurance for her dog also add to her costs. She says the amount she has left over at the end of each month varies, and sometimes she is left with as little as £50.
-Chloe says she is "pretty happy" with the Budget, and that "small changes give me hope".
-Cutting standing charges on gas, and the £100 household energy payment for households in council tax bands A to D this winter are "definitely going to help", she says.
-"It was quite a thoughtful Budget," she adds. "I can see, in years to come, light at the end of the tunnel."
-'I earn £150,000. Higher earners like me should've been taxed more'
-Jonathan Whitwam, who recently joined the Labour Party, works in finance and says, in addition to his mortgage, his biggest outgoing is supporting his two daughters through university. He and his wife, who live in Essex, pay their rent, which is around £18,000 per year.
-His daughters will start their working lives with between £45,000 to £60,000 of debt each, plus interest, which will be compounding at £5,000 to £8,000 per year.
-"I have no objection to paying for degrees as I think they are a great way of broadening horizons and having great life experience. But I think the interest should be waived or capped below 1%, otherwise it's a noose around their neck for a substantial part of their lifetime."
-Jonathan, 52, says the Budget was "very safe", reducing energy costs for his household by getting rid of standing charges, while cutting bills for many people this winter.
-However, he wanted taxes to be put up for higher earners like himself in the name of "redistribution" and says there was "nothing" in the Budget on that.
-"If we want better roads, hospitals, schools we need to raise more tax," he adds.
-'I have a £15,000 pension. I'm even Stevens after the Budget'
-Christine Morris, from Worksop, has been retired for eight years and lives on a state pension combined with a small private pension her late husband left her.
-"It is very difficult to balance the books," the 78-year-old says. "I do go on holiday, but I'm spending more of my savings to live."
-The chancellor said standing charges would be removed from gas bills, but Christine, who has a gas boiler, says it's not clear yet whether she will benefit, because those costs will be added on to the unit rate.
-However, she says the £100 household energy payment will help over the winter
-"I'm not sure I'll be better off," she says. Instead she thinks she will be "even Stevens".
-She was unconvinced by Andy Burnham's pledge to end the triple lock so that from 2030 the state pension will rise at least by inflation or 2.5%, with the money saved used to create a free-at-the-point of use national care service for England sometime "in the next parliament".
-Christine thinks the new service will take time to come in. In the meantime, she fears she will "get less pension and still have to pay out the same for any care I need".
-Get in touch
-What are you hoping for from the Budget? What questions do you have?
-- Published2 days ago
-- Published5 days ago`,
-    bodyJa: `I earn £30,000. I'm angry there was no fuel duty cut in the Budget
-- Published
-Chancellor John Healey has unveiled his first Budget.
-He announced £100 energy payment for millions and a tax rise on banks, among other measures.
-BBC News has been speaking to people on a range of incomes on how they feel about their finances and how the Budget affects them.
-Dave Herbert, a professional driver who moves cars between showrooms and does deliveries, says fuel prices have been "crazy" this year.
-He spends around £350 a month on petrol for work and personal use. That's 40% to 50% more than at the start of the year, he says.
-He has to commute into Cardiff, a 62-mile round trip from his home in Ynysddu. "I'd love to have a hybrid car but even an entry-level used car is too expensive."
-The 48-year-old, who is married with a 12-year-old daughter, says he has to find the extra money for fuel "from an already tight budget" and "dreads" filling up at the pump.
-The only measure Dave wanted to see was a cut to fuel duty, and he was disappointed this didn't happen.
-"I'm pretty angry, really. Nothing has been thrown my way," he says.
-The main fuel duty rate has been frozen at 57.95p per litre since March 2011, and it will be frozen again, but Dave says: "It sounds like they're giving us something by keeping it frozen but they're actually still taking it off us."
-'I get £4,062 a year. I'm frustrated there's no action on NEETs yet'
-Emily Nelson completed her A-levels last year and like thousands of her peers has been unable to find a job since leaving college.
-The 19-year-old from Swindon wants to be an animator but in the meantime is applying for retail and sales roles and apprenticeships. Most of the time, she doesn't hear back from potential employers.
-"I'm trying my best, it's all you really can do. It's kind of suffocating in a way. You see everyone else managing, and you feel like you're not."
-Emily was initially disappointed with the Budget, and then frustrated that the government is waiting for the outcome of a review into youth unemployment before legislating next year.
-"I'm glad the government is aware, and that they have a plan," she said. "But it's a bit frustrating that we have to wait a little longer to find out what it is."
-However, she adds: "It's not happened today, but it will happen."
-She wants to see more funding to businesses so they can take on more young employees. She'd also like to see more money for training and the government's Jobs Guarantee, external scheme extended.
-The scheme, being rolled out across England, Scotland and Wales, guarantees fully funded, six-month paid jobs for 18 to 24-year-olds who have been on universal credit and looking for work for 18 months. But Emily thinks people should be eligible after a year.
-'I earn £22,000. Cost-of-living help doesn't go far enough'
-Robert Portlock, 29, has always lived with his parents in Gateshead and would love to move out. But he doesn't think he can afford to.
-Rent would be his biggest concern, he says, explaining that a small flat in his area would cost him about two-thirds of his monthly wage.
-"Council tax and energy bills would add to it. Food too. I'd need a TV licence, broadband, my car and some money to socialise. By that point I'd be in the minus."
-Robert's biggest expense currently is his car, which he says he needs for his 32-mile round trip to work at Newcastle Airport. But he's paying £750 a month in car finance, insurance, fuel and tax.
-The Budget "doesn't go far enough", he says, adding he would have liked to have seen more help with the cost of living, including a cut in fuel duty.
-The £100 household energy allowance over a year is less than £10 a month, he says, while action on tariffs on food items will save only £21 a year, or £1.75 per month.
-"What am I going to buy with that - a Freddo?"
-He would like to get on the housing ladder but for now it feels a distant prospect. The government has announced a scheme to help first-time buyers in England who have a deposit of 2.5%, but Robert says: "Saving for a house is impossible at the moment."
-'I earn £41,000. Energy support will definitely help'
-Chloe Chin-Saad's husband passed away four years ago and her biggest worry is the cost of living.
-She's very grateful that the rent she pays on her south London maisonette is set below the market rate as it is housing association accommodation, but says life was easier when she shared the bills. "Two incomes make a massive difference."
-She lives with her 16-year-old son, and says her energy bill has risen sharply over the past year and she now pays about £200 a month on gas and electricity.
-"We try to be more aware, we think more about how long we run the hot water when we do the dishes."
-Chloe, 40, and her son have cut back on luxuries like going to M&S and the cinema, and she now tries to limit the weekly food shop to £40.
-But she can't do anything to reduce her £200 council tax bill, the £250 a month she pays on car finance, or the amount she spends on medicines for her various health conditions, including rheumatoid arthritis.
-Two mobile phone bills, and food and pet insurance for her dog also add to her costs. She says the amount she has left over at the end of each month varies, and sometimes she is left with as little as £50.
-Chloe says she is "pretty happy" with the Budget, and that "small changes give me hope".
-Cutting standing charges on gas, and the £100 household energy payment for households in council tax bands A to D this winter are "definitely going to help", she says.
-"It was quite a thoughtful Budget," she adds. "I can see, in years to come, light at the end of the tunnel."
-'I earn £150,000. Higher earners like me should've been taxed more'
-Jonathan Whitwam, who recently joined the Labour Party, works in finance and says, in addition to his mortgage, his biggest outgoing is supporting his two daughters through university. He and his wife, who live in Essex, pay their rent, which is around £18,000 per year.
-His daughters will start their working lives with between £45,000 to £60,000 of debt each, plus interest, which will be compounding at £5,000 to £8,000 per year.
-"I have no objection to paying for degrees as I think they are a great way of broadening horizons and having great life experience. But I think the interest should be waived or capped below 1%, otherwise it's a noose around their neck for a substantial part of their lifetime."
-Jonathan, 52, says the Budget was "very safe", reducing energy costs for his household by getting rid of standing charges, while cutting bills for many people this winter.
-However, he wanted taxes to be put up for higher earners like himself in the name of "redistribution" and says there was "nothing" in the Budget on that.
-"If we want better roads, hospitals, schools we need to raise more tax," he adds.
-'I have a £15,000 pension. I'm even Stevens after the Budget'
-Christine Morris, from Worksop, has been retired for eight years and lives on a state pension combined with a small private pension her late husband left her.
-"It is very difficult to balance the books," the 78-year-old says. "I do go on holiday, but I'm spending more of my savings to live."
-The chancellor said standing charges would be removed from gas bills, but Christine, who has a gas boiler, says it's not clear yet whether she will benefit, because those costs will be added on to the unit rate.
-However, she says the £100 household energy payment will help over the winter
-"I'm not sure I'll be better off," she says. Instead she thinks she will be "even Stevens".
-She was unconvinced by Andy Burnham's pledge to end the triple lock so that from 2030 the state pension will rise at least by inflation or 2.5%, with the money saved used to create a free-at-the-point of use national care service for England sometime "in the next parliament".
-Christine thinks the new service will take time to come in. In the meantime, she fears she will "get less pension and still have to pay out the same for any care I need".
-Get in touch
-What are you hoping for from the Budget? What questions do you have?
-- Published2 days ago
-- Published5 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-29T00:00:25+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5570/live/b5261da0-d304-11f1-a9bf-3316693f55f0.jpg",
-    readTime: 10,
-  },
-  {
-    id: "i-live-with-a-ghost-japan-s-haunted-hom-4d30f1e3",
-    title: "'I live with a ghost': Japan's haunted homes attract bargain hunters",
-    titleJa: "'I live with a ghost': Japan's haunted homes attract bargain hunters",
-    summaryJa: "Properties where someone has died in tragic circumstances can have big reductions in price.",
-    bodyOriginal: `'I live with a ghost': Japan's haunted homes attract bargain hunters
-- Published
-From the moment Ryua first walked into her rental apartment in Tokyo she believed it to be haunted.
-"When I visited the place for a viewing there was a man standing there, glaring at me," she says.
-"Since the estate agent couldn't see him, I realised he must be a ghost."
-While someone more squeamish would probably have quickly left the flat never to return, Ryua chose to go ahead and move in.
-"I'm a bit of a contrarian, so I decided I wanted to become friends with this glaring male ghost," adds Ryua, who works as an aidoru, a young entertainer, and who doesn't wish to share her surname.
-Four years later, and still in the same apartment, she says she continues to experience paranormal activity on a daily basis. She says she hears endless footsteps and the ghost talking.
-Although Japan has increasingly marked Halloween, external in recent years, many Japanese people take ghosts seriously all year round. The country has a word, "yuurei", which means a lingering, troubled spirit.
-These are the ghosts of people who died in violent or tragic circumstances - those who were murdered, killed themselves, or simply were lonely and died alone. If they died at home, then the belief is that their yuurei won't go away.
-For house hunters who are not superstitious or squeamish it means there are big bargains to be found. There is a whole category of dwellings called jiko bukken, which means "stigmatised" or "incident" properties.
-Under guidelines issued by the government in 2021, Japanese estate agents must disclose suicide, murder, death by fire, and any death where the body was not discovered for an extended period of time.
-For rental properties this information must be disclosed for three years, and it must be revealed indefinitely for any property offered for sale.
-By contrast, in the UK there is no legal requirement, external to reveal that a person died in a property. And in the US, it differs from state to state., external For example, in California you have to reveal if a person has died in the property in the past three years, while in Arizona and Oregon you do not.
-Ryua was told that a man had killed himself in her apartment. It meant that she gets an almost 30% discount on her rent on her tiny, 25 sq m bedsit in the fashionable ward of Setagaya. She says she pays 45,000 yen ($285; £213) a month, instead of what should have been 62,000 yen.
-While a house where there had been a murder or suicide would probably be harder to sell or rent out anywhere in the world, Tokyo estate agent Erik Oskamp says that Japanese people are particularly superstitious and averse to stigmatised properties.
-"[Even] an apartment next to a cemetery will be difficult to rent out, especially if you can see the tombs from the kitchen," explains Oskamp. "The worst thing is if a suicide has happened in the apartment. Even if somebody has jumped from the roof, many renters will move out. Other issues are a serious crime or a lonely death."
-The latter issue, that of a person dying alone, would not generally affect the price of a property in, say, the UK or the US.
-But in rural Kagoshima, in Japan's southwest, it enabled Diane Tincher to buy a large three-bedroom house for about half of what would have otherwise been the asking price.
-'If there is a ghost I'm thankful to her'
-The 79-year-old American has lived in Japan for nearly 40 years, working as a tour guide. She says that the estate agent had been straight with her – there was a heavy discount as an elderly lady had died alone, thereby stigmatising the property.
-Tincher paid 20m yen for the house, in a location where similar properties usually sell for up to 45m yen.
-"I don't believe in ghosts. But I know that the Japanese are very superstitious," she says. "If there is a ghost I'm thankful to her every day... to live in such a splendid and affordable home."
-Researching the house, Tincher had found it on a website called Oshimaland, which lists jiko bukken properties, giving details of the events that occurred. It was launched in 2005 covering Tokyo, before expanding across Japan and then internationally in 2011.
-It is crowdsourced, meaning that members of the public add the homes and their details.
-Teru Oshima, the founder of Oshimaland, says that in the past such properties were "not very attractive options" in Japan.
-Yet as house prices have surged in the country in recent years, as well as a big increase in the wider cost of living, one 2025 survey found that more than half of Japanese people would now rent a jiko bukken if it was cheap., external
-Back in Setagaya, Ryua says she is happy living with her ghostly flatmate. "I believe that ghosts were once living human beings, so they deserve our respect," she says.
-For support and more information on any of the topics raised in this article, help is available on the BBC Action Line.
-- Published13 October
-- Published29 September
-- Published7 days ago`,
-    bodyJa: `'I live with a ghost': Japan's haunted homes attract bargain hunters
-- Published
-From the moment Ryua first walked into her rental apartment in Tokyo she believed it to be haunted.
-"When I visited the place for a viewing there was a man standing there, glaring at me," she says.
-"Since the estate agent couldn't see him, I realised he must be a ghost."
-While someone more squeamish would probably have quickly left the flat never to return, Ryua chose to go ahead and move in.
-"I'm a bit of a contrarian, so I decided I wanted to become friends with this glaring male ghost," adds Ryua, who works as an aidoru, a young entertainer, and who doesn't wish to share her surname.
-Four years later, and still in the same apartment, she says she continues to experience paranormal activity on a daily basis. She says she hears endless footsteps and the ghost talking.
-Although Japan has increasingly marked Halloween, external in recent years, many Japanese people take ghosts seriously all year round. The country has a word, "yuurei", which means a lingering, troubled spirit.
-These are the ghosts of people who died in violent or tragic circumstances - those who were murdered, killed themselves, or simply were lonely and died alone. If they died at home, then the belief is that their yuurei won't go away.
-For house hunters who are not superstitious or squeamish it means there are big bargains to be found. There is a whole category of dwellings called jiko bukken, which means "stigmatised" or "incident" properties.
-Under guidelines issued by the government in 2021, Japanese estate agents must disclose suicide, murder, death by fire, and any death where the body was not discovered for an extended period of time.
-For rental properties this information must be disclosed for three years, and it must be revealed indefinitely for any property offered for sale.
-By contrast, in the UK there is no legal requirement, external to reveal that a person died in a property. And in the US, it differs from state to state., external For example, in California you have to reveal if a person has died in the property in the past three years, while in Arizona and Oregon you do not.
-Ryua was told that a man had killed himself in her apartment. It meant that she gets an almost 30% discount on her rent on her tiny, 25 sq m bedsit in the fashionable ward of Setagaya. She says she pays 45,000 yen ($285; £213) a month, instead of what should have been 62,000 yen.
-While a house where there had been a murder or suicide would probably be harder to sell or rent out anywhere in the world, Tokyo estate agent Erik Oskamp says that Japanese people are particularly superstitious and averse to stigmatised properties.
-"[Even] an apartment next to a cemetery will be difficult to rent out, especially if you can see the tombs from the kitchen," explains Oskamp. "The worst thing is if a suicide has happened in the apartment. Even if somebody has jumped from the roof, many renters will move out. Other issues are a serious crime or a lonely death."
-The latter issue, that of a person dying alone, would not generally affect the price of a property in, say, the UK or the US.
-But in rural Kagoshima, in Japan's southwest, it enabled Diane Tincher to buy a large three-bedroom house for about half of what would have otherwise been the asking price.
-'If there is a ghost I'm thankful to her'
-The 79-year-old American has lived in Japan for nearly 40 years, working as a tour guide. She says that the estate agent had been straight with her – there was a heavy discount as an elderly lady had died alone, thereby stigmatising the property.
-Tincher paid 20m yen for the house, in a location where similar properties usually sell for up to 45m yen.
-"I don't believe in ghosts. But I know that the Japanese are very superstitious," she says. "If there is a ghost I'm thankful to her every day... to live in such a splendid and affordable home."
-Researching the house, Tincher had found it on a website called Oshimaland, which lists jiko bukken properties, giving details of the events that occurred. It was launched in 2005 covering Tokyo, before expanding across Japan and then internationally in 2011.
-It is crowdsourced, meaning that members of the public add the homes and their details.
-Teru Oshima, the founder of Oshimaland, says that in the past such properties were "not very attractive options" in Japan.
-Yet as house prices have surged in the country in recent years, as well as a big increase in the wider cost of living, one 2025 survey found that more than half of Japanese people would now rent a jiko bukken if it was cheap., external
-Back in Setagaya, Ryua says she is happy living with her ghostly flatmate. "I believe that ghosts were once living human beings, so they deserve our respect," she says.
-For support and more information on any of the topics raised in this article, help is available on the BBC Action Line.
-- Published13 October
-- Published29 September
-- Published7 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-29T00:00:15+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c40/live/5436ab40-cc8d-11f1-bed8-c51b95c602ec.jpg",
-    readTime: 10,
-  },
-  {
-    id: "as-waymo-expands-overseas-it-remains-a-n-b0d30a01",
-    title: "As Waymo expands overseas, it remains a niche cash-burning business",
-    titleJa: "As Waymo expands overseas, it remains a niche cash-burning business",
-    summaryJa: "Alphabet's Other Bets segment, which includes Waymo, accounted for 0.3% of total revenue in the quarter.",
-    bodyOriginal: `Waymo is dominant in the U.S. and expanding overseas, but it remains immaterial in terms of revenue to parent Alphabet, which is pouring cash into its growth.
-In Alphabet's third-quarter earnings report on Wednesday, the company said its Other Bets segment, which includes Waymo, generated $372 million in revenue, up 8% from a year earlier, and accounting for just 0.3% of total sales.
-That revenue comes at a steep price. Operating loss in the Other Bets segment widened to $2.05 billion during the quarter from $1.43 billion a year ago. The unit also houses drug design research business Isomorphic, which is using Google's Gemini 4 Argon AI models.
-CEO Sundar Pichai touted Waymo's expansion toward the end of his introductory remarks on the earnings call. The company has a commanding lead in the U.S. robotaxi market, where it faces emerging competition from Amazon's Zoox and Tesla. Waymo said in August that it plans to roll out robotaxi rides in Germany in 2027, marking its third international market and first in the EU.
-"Waymo now operates in 15 major U.S. cities and just recently opened up service to the public in San Antonio, San Diego and Tampa with planned expansions into Canada, Germany, Singapore and Spain," Pichai said on the call.
-Waymo's steepest competition on the global stage comes from Baidu's Apollo Go, which is based in China.
-For years, Alphabet was able to operate Waymo as a side project while its core online ads business racked up tens of billions of dollars in annual profit and threw off mounds of cash. But with the company now investing heavily in artificial intelligence, free cash flow has turned negative and Wall Street has shown signs of concern.
-Alphabet reported an earnings and revenue miss on Wednesday, sending the stock down almost 10% in extended trading. The company maintained its full-year capital expenditures forecast at between $195 billion and $205 billion, largely for AI infrastructure, and reported negative free cash flow of over $9 billion for the quarter.
-Earlier this month, Waymo announced that it had closed a $5 billion term loan, its first debt financing. In February, the robotaxi business announced that it had raised $16 billion at a $126 billion valuation in a funding round led by Alphabet that included support from Andreessen Horowitz, Fidelity, T. Rowe Price, Sequoia Capital, Kleiner Perkins and others.
-Last week Waymo started offering driverless rides to and from the Las Vegas airport, after previously announcing airport service in five other cities, including San Francisco and Phoenix.
-"Waymo is on a great trajectory," Pichai said on Wednesday. "We have now driven more than 300 million fully autonomous miles."
-Tesla says on its website that driverless vehicles in its Robotaxi network have completed about 3.8 million miles "unsupervised," or without a human driver at the wheel. CEO Elon Musk said on the company's earnings call last week that the Robotaxi business should become a "meaningful" revenue contributor by the second half of 2027.`,
-    bodyJa: `Waymo is dominant in the U.S. and expanding overseas, but it remains immaterial in terms of revenue to parent Alphabet, which is pouring cash into its growth.
-In Alphabet's third-quarter earnings report on Wednesday, the company said its Other Bets segment, which includes Waymo, generated $372 million in revenue, up 8% from a year earlier, and accounting for just 0.3% of total sales.
-That revenue comes at a steep price. Operating loss in the Other Bets segment widened to $2.05 billion during the quarter from $1.43 billion a year ago. The unit also houses drug design research business Isomorphic, which is using Google's Gemini 4 Argon AI models.
-CEO Sundar Pichai touted Waymo's expansion toward the end of his introductory remarks on the earnings call. The company has a commanding lead in the U.S. robotaxi market, where it faces emerging competition from Amazon's Zoox and Tesla. Waymo said in August that it plans to roll out robotaxi rides in Germany in 2027, marking its third international market and first in the EU.
-"Waymo now operates in 15 major U.S. cities and just recently opened up service to the public in San Antonio, San Diego and Tampa with planned expansions into Canada, Germany, Singapore and Spain," Pichai said on the call.
-Waymo's steepest competition on the global stage comes from Baidu's Apollo Go, which is based in China.
-For years, Alphabet was able to operate Waymo as a side project while its core online ads business racked up tens of billions of dollars in annual profit and threw off mounds of cash. But with the company now investing heavily in artificial intelligence, free cash flow has turned negative and Wall Street has shown signs of concern.
-Alphabet reported an earnings and revenue miss on Wednesday, sending the stock down almost 10% in extended trading. The company maintained its full-year capital expenditures forecast at between $195 billion and $205 billion, largely for AI infrastructure, and reported negative free cash flow of over $9 billion for the quarter.
-Earlier this month, Waymo announced that it had closed a $5 billion term loan, its first debt financing. In February, the robotaxi business announced that it had raised $16 billion at a $126 billion valuation in a funding round led by Alphabet that included support from Andreessen Horowitz, Fidelity, T. Rowe Price, Sequoia Capital, Kleiner Perkins and others.
-Last week Waymo started offering driverless rides to and from the Las Vegas airport, after previously announcing airport service in five other cities, including San Francisco and Phoenix.
-"Waymo is on a great trajectory," Pichai said on Wednesday. "We have now driven more than 300 million fully autonomous miles."
-Tesla says on its website that driverless vehicles in its Robotaxi network have completed about 3.8 million miles "unsupervised," or without a human driver at the wheel. CEO Elon Musk said on the company's earnings call last week that the Robotaxi business should become a "meaningful" revenue contributor by the second half of 2027.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/28/as-waymo-expands-overseas-it-remains-a-niche-cash-burning-business.html",
-    publishedAt: "2026-10-28T23:53:58+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 8,
-  },
-  {
-    id: "microsoft-stock-jumps-4-as-cloud-growth-aedecf50",
-    title: "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
-    titleJa: "Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat",
-    summaryJa: "Microsoft reported better-than-expected results driven by 48% growth in Azure revenue.",
-    bodyOriginal: `Microsoft shares rose 4% in extended trading on Wednesday after the company reported better-than-expected quarterly results, driven by 48% growth in its Azure cloud infrastructure business.
-Here's how the company fared relative to LSEG consensus:
-- Earnings per share: $4.89 adjusted vs. $4.73 expected
-- Revenue: $92.28 billion vs. $90.69 billion expected
-Microsoft's revenue grew 19% year over year in the quarter, which ended on Sept. 30, according to a statement, with Azure now its biggest single business.
-The software giant has been rapidly building out data center infrastructure to meet artificial intelligence demand, while also maintaining positive free cash flow unlike its fellow hyperscalers. Microsoft reported $45.2 billion worth of capital expenditures and finance leases during the quarter, up about 30% from a year earlier. Analysts surveyed by StreetAccount had projected $50.67 billion.
-With respect to guidance, Microsoft called for $96 billion to $97.1 billion in fiscal second-quarter revenue, which works out to 18.8% growth at the middle of the range. Analysts polled by LSEG had predicted $95.60 billion in revenue.
-For Azure, Hood said she anticipates 49% to 50% growth at constant currency for the fiscal second quarter, compared with the 45.1% StreetAccount consensus.
-"We still have demand that exceeds supply," she said.
-During the fiscal first quarter, Microsoft flagged a higher growth rate for cash paid for property and equipment than overall capital expenditures, which include finance leases. "Some third-party capacity deliveries we expected in Q1 were delayed," the company's finance chief, Amy Hood, said on a conference call with analysts.
-Around 75% of capital expenditures are now tied to short-lived assets such as Intel chips and Nvidia graphics processing units, up from about 66% in the past three quarters and half in the year-ago quarter. The shift indicates Microsoft's prioritization of infrastructure it can can quickly turn into revenue.
-Hood said the company is aiming at over $50 billion in fiscal second-quarter capital expenditures and finance leases, above the StreetAccount consensus of $53.10 billion, with $170 billion for all of calendar 2027 because of the capacity issues.
-"In the second half of the fiscal year, we currently expect capex spend to accelerate primarily from CPUs, inclusive of higher memory and storage costs, and GPUs, as well as the 3P capacity deliveries that shifted to H2," she said.
-Free cash flow for the fiscal first quarter declined 27% to $18.63 billion. Cloud rival Alphabet reported more than $9 billion in negative free cash flow in the quarter after Meta said last week its cash flow turned negative for the first time.
-Microsoft will continue to generate free cash flow through the 2027 fiscal year, but the company will access additional sources of funding when it's attractive to do so, Hood said.
-"We're fortunate to have access in the debt markets, given where our rates ratings are, and sort of we haven't been able to — we haven't yet, I would say, tapped that," she said. "And then, of course, there's other options."
-Microsoft's net income increased to $36.63 billion, or $4.92 per share, from $27.75 billion, or $3.72 per share, a year ago. Adjusted earnings exclude a roughly $200 million loss on its investment in OpenAI.
-For the first time, Microsoft disclosed revenue from its Azure cloud in dollars, at $33.17 billion in the quarter, despite the delays from third-party providers.
-Analysts polled by StreetAccount expected $32.32 billion. The growth rate in the June quarter was 42%.
-Microsoft reported results under two operating segments — Agents and Infra, and Devices and Consumer. For the past 11 years, the company had three segments that divided up its Azure, Office and Windows businesses.
-In Agents and Infra, revenue rose almost 25% to $76.8 billion, more than the $75.63 billion consensus among analysts polled by StreetAccount. The segment contains Azure, along with Microsoft 365 cloud products, productivity and server licensing, industry solutions and frontier and support services.
-The number of people using the Microsoft 365 Copilot AI assistant is up 50% from last quarter, CEO Satya Nadella said on the call. The company did not disclose the number of paid seats. The recently announced high-end Microsoft 365 E7 productivity bundle now has millions of seats, Hood said.
-Revenue in the Devices and Consumer business slipped 3% to $15.48 billion, beating the StreetAccount consensus of $15.05 billion. The unit includes search and advertising, Xbox, devices and Windows operating system licenses sold to device makers.
-Sales of devices and Windows licenses declined 22%, as higher memory and storage costs elevated prices. The company pointed to the end of support for Windows 10 last year and weak PC demand.
-As of Wednesday's close, Microsoft shares were up about 10% year to date, trailing the S&P 500 index, which has gained 13% over the same period.
-During the fiscal first quarter, Microsoft said it would cut 4,800 jobs, and followed up by announcing on Monday that it's offering buyouts to up to 60,000 employees, as it strives to balance a costly AI build-out with capital efficiency. Microsoft also established, during the quarter, an AI implementation unit and revealed a Copilot AI "super app" with coding abilities.
-Executives will discuss the results with analysts and issue guidance on a conference call starting at 5:30 p.m. ET.
-This story is developing. Please check back for updates.`,
-    bodyJa: `Microsoft shares rose 4% in extended trading on Wednesday after the company reported better-than-expected quarterly results, driven by 48% growth in its Azure cloud infrastructure business.
-Here's how the company fared relative to LSEG consensus:
-- Earnings per share: $4.89 adjusted vs. $4.73 expected
-- Revenue: $92.28 billion vs. $90.69 billion expected
-Microsoft's revenue grew 19% year over year in the quarter, which ended on Sept. 30, according to a statement, with Azure now its biggest single business.
-The software giant has been rapidly building out data center infrastructure to meet artificial intelligence demand, while also maintaining positive free cash flow unlike its fellow hyperscalers. Microsoft reported $45.2 billion worth of capital expenditures and finance leases during the quarter, up about 30% from a year earlier. Analysts surveyed by StreetAccount had projected $50.67 billion.
-With respect to guidance, Microsoft called for $96 billion to $97.1 billion in fiscal second-quarter revenue, which works out to 18.8% growth at the middle of the range. Analysts polled by LSEG had predicted $95.60 billion in revenue.
-For Azure, Hood said she anticipates 49% to 50% growth at constant currency for the fiscal second quarter, compared with the 45.1% StreetAccount consensus.
-"We still have demand that exceeds supply," she said.
-During the fiscal first quarter, Microsoft flagged a higher growth rate for cash paid for property and equipment than overall capital expenditures, which include finance leases. "Some third-party capacity deliveries we expected in Q1 were delayed," the company's finance chief, Amy Hood, said on a conference call with analysts.
-Around 75% of capital expenditures are now tied to short-lived assets such as Intel chips and Nvidia graphics processing units, up from about 66% in the past three quarters and half in the year-ago quarter. The shift indicates Microsoft's prioritization of infrastructure it can can quickly turn into revenue.
-Hood said the company is aiming at over $50 billion in fiscal second-quarter capital expenditures and finance leases, above the StreetAccount consensus of $53.10 billion, with $170 billion for all of calendar 2027 because of the capacity issues.
-"In the second half of the fiscal year, we currently expect capex spend to accelerate primarily from CPUs, inclusive of higher memory and storage costs, and GPUs, as well as the 3P capacity deliveries that shifted to H2," she said.
-Free cash flow for the fiscal first quarter declined 27% to $18.63 billion. Cloud rival Alphabet reported more than $9 billion in negative free cash flow in the quarter after Meta said last week its cash flow turned negative for the first time.
-Microsoft will continue to generate free cash flow through the 2027 fiscal year, but the company will access additional sources of funding when it's attractive to do so, Hood said.
-"We're fortunate to have access in the debt markets, given where our rates ratings are, and sort of we haven't been able to — we haven't yet, I would say, tapped that," she said. "And then, of course, there's other options."
-Microsoft's net income increased to $36.63 billion, or $4.92 per share, from $27.75 billion, or $3.72 per share, a year ago. Adjusted earnings exclude a roughly $200 million loss on its investment in OpenAI.
-For the first time, Microsoft disclosed revenue from its Azure cloud in dollars, at $33.17 billion in the quarter, despite the delays from third-party providers.
-Analysts polled by StreetAccount expected $32.32 billion. The growth rate in the June quarter was 42%.
-Microsoft reported results under two operating segments — Agents and Infra, and Devices and Consumer. For the past 11 years, the company had three segments that divided up its Azure, Office and Windows businesses.
-In Agents and Infra, revenue rose almost 25% to $76.8 billion, more than the $75.63 billion consensus among analysts polled by StreetAccount. The segment contains Azure, along with Microsoft 365 cloud products, productivity and server licensing, industry solutions and frontier and support services.
-The number of people using the Microsoft 365 Copilot AI assistant is up 50% from last quarter, CEO Satya Nadella said on the call. The company did not disclose the number of paid seats. The recently announced high-end Microsoft 365 E7 productivity bundle now has millions of seats, Hood said.
-Revenue in the Devices and Consumer business slipped 3% to $15.48 billion, beating the StreetAccount consensus of $15.05 billion. The unit includes search and advertising, Xbox, devices and Windows operating system licenses sold to device makers.
-Sales of devices and Windows licenses declined 22%, as higher memory and storage costs elevated prices. The company pointed to the end of support for Windows 10 last year and weak PC demand.
-As of Wednesday's close, Microsoft shares were up about 10% year to date, trailing the S&P 500 index, which has gained 13% over the same period.
-During the fiscal first quarter, Microsoft said it would cut 4,800 jobs, and followed up by announcing on Monday that it's offering buyouts to up to 60,000 employees, as it strives to balance a costly AI build-out with capital efficiency. Microsoft also established, during the quarter, an AI implementation unit and revealed a Copilot AI "super app" with coding abilities.
-Executives will discuss the results with analysts and issue guidance on a conference call starting at 5:30 p.m. ET.
-This story is developing. Please check back for updates.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html",
-    publishedAt: "2026-10-28T22:29:23+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 10,
   },
 ];
