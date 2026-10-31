@@ -15,6 +15,302 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "evacuees-from-russia-occupied-city-where-ee04dd62",
+    title: "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
+    titleJa: "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
+    summaryJa: "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
+    bodyOriginal: `Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine
+- Published
+People evacuated from the devastated Russian-occupied city of Oleshky have arrived in Belarus and are expected back in Ukraine later on Saturday, authorities have said.
+Residents of the frontline city had been trapped without food, water and electricity, with many resorting to cooking garden weeds to survive.
+The evacuees were taken out of Oleshky on Friday during a local ceasefire brokered by US First Lady Melania Trump.
+Planes carrying the residents landed in the city of Gomel on Saturday morning, according to Belarusian state media and a senior Ukrainian official.
+"The last, fourth plane landed in Gomel (Belarus). In a few hours, all Ukrainian citizens evacuated from Oleshky, together with the Ukrainian delegation, will be on Ukrainian territory," said David Arakhamia, a key Ukrainian official.
+The state-owned Belarusian news agency Belta reported a bus convoy of Oleshky residents had left Gomel airport and was heading towards the Ukrainian border.
+A humanitarian ceasefire took effect across the frontline region of Kherson on Tuesday, providing the first few days of peace in the area in four years, following Russia's invasion of Ukraine in February 2022.
+Conditions had become so desperate in Oleshky that getting supplies into the city had been extremely difficult. Mines and drone attacks made it highly dangerous for residents to try and escape.
+One resident who fled the city three weeks earlier told the BBC he had walked through 24km (15 miles) of minefields to get to safety.
+The city has been without electricity, gas and water for three years.
+The ceasefire allowed the road out of the city to be cleared of mines and will remain in place until the end of Sunday 1 November.
+Residents had a four-hour window to leave before a convoy of 25 buses, with space for 750 people, left the town on Friday afternoon - along with ambulances for people with limited mobility.
+Several hundred people are understood to have decided to stay in the war-torn city, despite widespread devastation and the lack of gas, electricity and running water.
+Before the war, Oleshky was home to 24,000 people, but it was seized by Russia during the first days of its full-scale invasion.
+Ukraine's human rights ombudsman Dmytro Lubinets said on Friday morning that those who decided to stay "will receive all the necessary humanitarian assistance".
+Ukrainian military positions lie just 5km (3.1 miles) from Oleshky but evacuees first had to travel into Russian-occupied territory and then to the southern Russian city of Anapa, where they flew to Gomel.
+Bridges across the nearby River Dnipro have been destroyed and sources say the riverbank has been mined and is dangerous.
+Lubinets and his Russian counterpart Yana Lantratova travelled to Oleshky together on Friday, setting off from Armiansk, in the Russian-occupied Crimean peninsula.
+Lubinets is the first Ukrainian official since the start of the war to visit Russian-occupied parts of Ukraine.
+The Oleshky ceasefire has required close cooperation with Lantratova, which Lubinets said he carried out in the interests of saving lives.
+But some in Ukraine have recoiled at the sight of him standing beside a representative of the Russian occupying power which has killed so many of the city's residents and made life unbearable for the rest.
+Russia said on Thursday that it had prepared "dozens of tonnes" of aid for the residents who do not wish to leave, including food, medicine, hygiene products and fuel for generators.
+Related topics
+- Published11 hours ago
+- Published3 days ago`,
+    bodyJa: `Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine
+- Published
+People evacuated from the devastated Russian-occupied city of Oleshky have arrived in Belarus and are expected back in Ukraine later on Saturday, authorities have said.
+Residents of the frontline city had been trapped without food, water and electricity, with many resorting to cooking garden weeds to survive.
+The evacuees were taken out of Oleshky on Friday during a local ceasefire brokered by US First Lady Melania Trump.
+Planes carrying the residents landed in the city of Gomel on Saturday morning, according to Belarusian state media and a senior Ukrainian official.
+"The last, fourth plane landed in Gomel (Belarus). In a few hours, all Ukrainian citizens evacuated from Oleshky, together with the Ukrainian delegation, will be on Ukrainian territory," said David Arakhamia, a key Ukrainian official.
+The state-owned Belarusian news agency Belta reported a bus convoy of Oleshky residents had left Gomel airport and was heading towards the Ukrainian border.
+A humanitarian ceasefire took effect across the frontline region of Kherson on Tuesday, providing the first few days of peace in the area in four years, following Russia's invasion of Ukraine in February 2022.
+Conditions had become so desperate in Oleshky that getting supplies into the city had been extremely difficult. Mines and drone attacks made it highly dangerous for residents to try and escape.
+One resident who fled the city three weeks earlier told the BBC he had walked through 24km (15 miles) of minefields to get to safety.
+The city has been without electricity, gas and water for three years.
+The ceasefire allowed the road out of the city to be cleared of mines and will remain in place until the end of Sunday 1 November.
+Residents had a four-hour window to leave before a convoy of 25 buses, with space for 750 people, left the town on Friday afternoon - along with ambulances for people with limited mobility.
+Several hundred people are understood to have decided to stay in the war-torn city, despite widespread devastation and the lack of gas, electricity and running water.
+Before the war, Oleshky was home to 24,000 people, but it was seized by Russia during the first days of its full-scale invasion.
+Ukraine's human rights ombudsman Dmytro Lubinets said on Friday morning that those who decided to stay "will receive all the necessary humanitarian assistance".
+Ukrainian military positions lie just 5km (3.1 miles) from Oleshky but evacuees first had to travel into Russian-occupied territory and then to the southern Russian city of Anapa, where they flew to Gomel.
+Bridges across the nearby River Dnipro have been destroyed and sources say the riverbank has been mined and is dangerous.
+Lubinets and his Russian counterpart Yana Lantratova travelled to Oleshky together on Friday, setting off from Armiansk, in the Russian-occupied Crimean peninsula.
+Lubinets is the first Ukrainian official since the start of the war to visit Russian-occupied parts of Ukraine.
+The Oleshky ceasefire has required close cooperation with Lantratova, which Lubinets said he carried out in the interests of saving lives.
+But some in Ukraine have recoiled at the sight of him standing beside a representative of the Russian occupying power which has killed so many of the city's residents and made life unbearable for the rest.
+Russia said on Thursday that it had prepared "dozens of tonnes" of aid for the residents who do not wish to leave, including food, medicine, hygiene products and fuel for generators.
+Related topics
+- Published11 hours ago
+- Published3 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-31T12:05:04+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ec/live/4e7bd090-d516-11f1-93e1-3b657b665bcf.jpg",
+    readTime: 9,
+  },
+  {
+    id: "these-10-megadonors-have-spent-a-total-o-7ff5f617",
+    title: "These 10 megadonors have spent a total of $1 billion on the midterm elections",
+    titleJa: "These 10 megadonors have spent a total of $1 billion on the midterm elections",
+    summaryJa: "They’ve helped turn this year’s midterms into “the most expensive election cycle on record.”",
+    bodyOriginal: `They’ve helped turn this year’s midterms into “the most expensive election cycle on record.”`,
+    bodyJa: `They’ve helped turn this year’s midterms into “the most expensive election cycle on record.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/these-10-megadonors-have-spent-a-total-of-1-billion-on-the-midterm-elections-0dc279cf?mod=mw_rss_topstories",
+    publishedAt: "2026-10-31T12:00:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-27816959",
+    readTime: 2,
+  },
+  {
+    id: "anthropic-s-path-to-the-nasdaq-just-got-9c0943f4",
+    title: "Anthropic's path to the Nasdaq just got a lot bumpier",
+    titleJa: "Anthropic's path to the Nasdaq just got a lot bumpier",
+    summaryJa: "Concerning projections from hyperscalers this week punished tech stocks and pushed the Nasdaq to its first three-week losing streak since March.",
+    bodyOriginal: `Anthropic picked a tough week to unveil its IPO prospectus.
+Within days of its release, several of the company's key partners, including Microsoft, Google and Amazon, reported quarterly results that added fuel to existing market jitters around the artificial intelligence buildout.
+"Everybody's still full steam ahead on AI, but all the things around it took an interesting turn this week," Daniel Newman, CEO at Futurum Group, told CNBC in an interview on Friday. The hyperscalers' results have "raised eyebrows" and created a new headwind in the market, which is "more doubt on capital structure," he said.
+No matter the current state of the market, Anthropic was going to have to address a skeptical investor base as it pursues a potentially record-setting initial public offering in the coming weeks. In its prospectus on Monday, the AI company disclosed a net loss for the first half of the year of $80 billion, alongside hundreds of billions of dollars' worth of compute commitments and more than 90 pages of risk factors. Investors are still waiting to see Anthropic's third-quarter financials.
+Heading into this week, fears were mounting about the financial health of neoclouds like CoreWeave and Nebius, which are facing rising borrowing costs and a dearth of lenders as they pursue aggressive AI buildouts. Anthropic gets much of its capacity from Amazon, Google and SpaceX, but it also relies on neoclouds for some compute as it races to expand as quickly as possible.
+Now investors are growing increasingly worried about the whole AI trade.
+"It's a great technology, seems to do things that we never would have imagined, but how does that then translate into a viable business?" David Hsu, a professor at the University of Pennsylvania Wharton School, said in an interview.
+The Nasdaq Composite notched its first three-week losing streak since March after plunging 2.9% on Friday. Nvidia, whose graphics processing units have powered the AI boom, traded lower, along with the whole semiconductor sector, after Intel issued a weak forecast, sending its stock to its steepest drop since the 1970s.
+Microsoft, Google and Amazon all had notes of concern this week in their reports. The companies have been on a spending blitz in recent years to meet the surge in demand for AI infrastructure, but all three issued capex figures or forecasts that came in below analysts' estimates. Microsoft lowered its capex forecast for the year to $170 billion from $175 billion, while Alphabet maintained its guidance for up to $205 billion and Amazon reiterated its roughly $220 billion forecast.
+"It's been an ugly reporting season for tech thus far," Jonathan Krinsky, managing director at BTIG, wrote in a Thursday note. He described the fallout as "The Techsas Chainsaw Massacre," adding that there's too much weakness in the sector for the market to ignore.
+Cash is becoming an issue. Amazon reported negative free cash flow for the second consecutive quarter, recording an outflow of $42.4 billion for the trailing 12-month period. Google reported negative free cash flow of $9.1 billion, one reason the stock tanked almost 13% on Thursday, its worst day ever.
+Microsoft maintained positive free cash flow of $18.6 billion, but it's down significantly for a second straight quarter. The company announced plans on Thursday to raise $25 billion in bonds, as it seeks additional sources of funding to help finance its infrastructure expansion.
+"Suddenly, they're like, 'We can't keep funding this on free cash flow,'" Newman said. "The worry is that basically now there's no company that's able to do this using their own business capabilities to create cash flow. It's becoming increasingly alarming."
+Cloud growth remains strong
+Anthropic's hyperscaler partners are also among its biggest investors. The companies all need each other to keep the flywheel turning, a topic that's sure to be a major point of discussion in Anthropic's upcoming roadshow.
+Anthropic didn't immediately respond to a request for comment.
+A big tail wind for Anthropic remains AI demand.
+Microsoft, Google and Amazon all reported cloud growth that topped analysts' estimates, with revenue in Google's business more than doubling from a year earlier. And Oracle, one of the biggest spenders on AI data centers, said at its investor day on Wednesday that it will limit additional fundraising in the coming years to $20 billion, and will turn cash flow positive in the second half of next fiscal year.
+Analysts at Citizens wrote in a Thursday report that the announcement "put the biggest investor fear to rest — that funding its enormous AI infrastructure buildout would require an open-ended increase in debt and equity issuance."
+Attention will now turn back from hyperscaler earnings to Anthropic, as investors assess how much risk they're willing to assume and at what price.
+The IPO market has largely been frozen since SpaceX's record offering in June. Biometric ring maker Oura, Australian AI data center operator Firmus and SK Hynix's U.S.-based Solidigm subsidiary have all recently postponed or abandoned plans to IPO. Nscale, a neocloud that filed to go public in September, hasn't updated its prospectus in weeks, nor has SoftBank's SB Energy.
+With Anthropic, Newman said the FOMO — fear of missing out — on a potentially "generational" company is real, and that the prospectus was "very impressive," showing 1,300% annual sales growth, 900% net revenue retention and an implied gross margin of 85%.
+"Anthropic is the IPO market at this point," Newman said. "I think companies would have to be extremely cautious, if not just foolish, to actually want to come out in this period."
+— CNBC's Jordan Novet, Annie Palmer and Samantha Subin contributed to this report.
+WATCH: Anthropic’s heavy AI spending could hold the key to its profitability: Ark Invest`,
+    bodyJa: `Anthropic picked a tough week to unveil its IPO prospectus.
+Within days of its release, several of the company's key partners, including Microsoft, Google and Amazon, reported quarterly results that added fuel to existing market jitters around the artificial intelligence buildout.
+"Everybody's still full steam ahead on AI, but all the things around it took an interesting turn this week," Daniel Newman, CEO at Futurum Group, told CNBC in an interview on Friday. The hyperscalers' results have "raised eyebrows" and created a new headwind in the market, which is "more doubt on capital structure," he said.
+No matter the current state of the market, Anthropic was going to have to address a skeptical investor base as it pursues a potentially record-setting initial public offering in the coming weeks. In its prospectus on Monday, the AI company disclosed a net loss for the first half of the year of $80 billion, alongside hundreds of billions of dollars' worth of compute commitments and more than 90 pages of risk factors. Investors are still waiting to see Anthropic's third-quarter financials.
+Heading into this week, fears were mounting about the financial health of neoclouds like CoreWeave and Nebius, which are facing rising borrowing costs and a dearth of lenders as they pursue aggressive AI buildouts. Anthropic gets much of its capacity from Amazon, Google and SpaceX, but it also relies on neoclouds for some compute as it races to expand as quickly as possible.
+Now investors are growing increasingly worried about the whole AI trade.
+"It's a great technology, seems to do things that we never would have imagined, but how does that then translate into a viable business?" David Hsu, a professor at the University of Pennsylvania Wharton School, said in an interview.
+The Nasdaq Composite notched its first three-week losing streak since March after plunging 2.9% on Friday. Nvidia, whose graphics processing units have powered the AI boom, traded lower, along with the whole semiconductor sector, after Intel issued a weak forecast, sending its stock to its steepest drop since the 1970s.
+Microsoft, Google and Amazon all had notes of concern this week in their reports. The companies have been on a spending blitz in recent years to meet the surge in demand for AI infrastructure, but all three issued capex figures or forecasts that came in below analysts' estimates. Microsoft lowered its capex forecast for the year to $170 billion from $175 billion, while Alphabet maintained its guidance for up to $205 billion and Amazon reiterated its roughly $220 billion forecast.
+"It's been an ugly reporting season for tech thus far," Jonathan Krinsky, managing director at BTIG, wrote in a Thursday note. He described the fallout as "The Techsas Chainsaw Massacre," adding that there's too much weakness in the sector for the market to ignore.
+Cash is becoming an issue. Amazon reported negative free cash flow for the second consecutive quarter, recording an outflow of $42.4 billion for the trailing 12-month period. Google reported negative free cash flow of $9.1 billion, one reason the stock tanked almost 13% on Thursday, its worst day ever.
+Microsoft maintained positive free cash flow of $18.6 billion, but it's down significantly for a second straight quarter. The company announced plans on Thursday to raise $25 billion in bonds, as it seeks additional sources of funding to help finance its infrastructure expansion.
+"Suddenly, they're like, 'We can't keep funding this on free cash flow,'" Newman said. "The worry is that basically now there's no company that's able to do this using their own business capabilities to create cash flow. It's becoming increasingly alarming."
+Cloud growth remains strong
+Anthropic's hyperscaler partners are also among its biggest investors. The companies all need each other to keep the flywheel turning, a topic that's sure to be a major point of discussion in Anthropic's upcoming roadshow.
+Anthropic didn't immediately respond to a request for comment.
+A big tail wind for Anthropic remains AI demand.
+Microsoft, Google and Amazon all reported cloud growth that topped analysts' estimates, with revenue in Google's business more than doubling from a year earlier. And Oracle, one of the biggest spenders on AI data centers, said at its investor day on Wednesday that it will limit additional fundraising in the coming years to $20 billion, and will turn cash flow positive in the second half of next fiscal year.
+Analysts at Citizens wrote in a Thursday report that the announcement "put the biggest investor fear to rest — that funding its enormous AI infrastructure buildout would require an open-ended increase in debt and equity issuance."
+Attention will now turn back from hyperscaler earnings to Anthropic, as investors assess how much risk they're willing to assume and at what price.
+The IPO market has largely been frozen since SpaceX's record offering in June. Biometric ring maker Oura, Australian AI data center operator Firmus and SK Hynix's U.S.-based Solidigm subsidiary have all recently postponed or abandoned plans to IPO. Nscale, a neocloud that filed to go public in September, hasn't updated its prospectus in weeks, nor has SoftBank's SB Energy.
+With Anthropic, Newman said the FOMO — fear of missing out — on a potentially "generational" company is real, and that the prospectus was "very impressive," showing 1,300% annual sales growth, 900% net revenue retention and an implied gross margin of 85%.
+"Anthropic is the IPO market at this point," Newman said. "I think companies would have to be extremely cautious, if not just foolish, to actually want to come out in this period."
+— CNBC's Jordan Novet, Annie Palmer and Samantha Subin contributed to this report.
+WATCH: Anthropic’s heavy AI spending could hold the key to its profitability: Ark Invest`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
+    publishedAt: "2026-10-31T11:00:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "trump-called-out-big-oil-profits-here-s-2b4316df",
+    title: "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
+    titleJa: "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
+    summaryJa: "Trump criticized Big Oil for making “too much money,” but oil majors have since reported surging refining earnings as fuel supplies tightened.",
+    bodyOriginal: `President Donald Trump scolded Big Oil in August, saying ExxonMobil and Chevron were making "too much money based on a shortage," as profits surged in the wake of the U.S.-Israeli war with Iran.
+Corporate results published this week laid out the windfall oil majors are continuing to get from tight fuel supplies and elevated refining margins amid global conflict.
+Shell, BP, TotalEnergies and Exxon reported sharply higher margins in their refined-products businesses, a gauge of the amount they earn from processing crude oil into gasoline, diesel and jet fuel.
+Chevron does not report a comparable, standalone refining-margin figure, but it reported Friday that its downstream earnings more than quadrupled from a year earlier to $4.9 billion, with the company citing higher margins on refined-product sales.
+That's amid tight supplies of refined fuels and pressure on refinery output globally, despite oil firms reporting this week that they are running their facilities near capacity to try to meet demand.
+Why supply is tight
+Key issues include ongoing Ukrainian drone strikes on Russian refineries and disruptions to Middle East energy infrastructure and supply chains linked to the Iran war and Houthi attacks on Saudi Arabia.
+Those factors have compounded refinery closures in Europe and North America, even as new refining capacity has been added elsewhere.
+Around a quarter of refineries in the European Union have shut over the past two decades, European Commissioner for Energy and Housing Dan Jørgensen said this week, as he warned of a "crisis" of energy security.
+Along with soaring refined product margins, higher crude oil prices have also supported earnings at some integrated oil majors, which operate both upstream oil-and-gas businesses and downstream refining operations.
+Their profits have climbed back toward levels last seen during the energy shock of 2022, following Russia's full-scale invasion of Ukraine.
+The earnings spikes are in sharp contrast to consumers facing higher energy prices.
+Some analysts say political efforts to tackle prices — release of emergency diesel stockpiles and a U.S. deal with Russia to supply more diesel to the global market — may have only a limited impact unless they materially increase available supply, demand weakens or global tensions ease.
+Raphael Portela, director for corporate strategy and analytics at energy consultancy Wood Mackenzie, told CNBC that crude oil barrels were still "getting out of the Gulf" amid the war, but "at a steep freight premium," while "the diesel and jet fuel those barrels would have become largely aren't."
+"Russia's refinery outages and export ban have taken a second slug out of the global pool," he added.
+He listed what would have to happen for the crunch to end: "Product supply coming back, based on greater crude availability to the global refining sector: Gulf refineries restarting and Russian exports returning.
+"A Hormuz settlement would hit margins quickly on sentiment, but with inventories this depleted, the physical tightness carries well into 2027."`,
+    bodyJa: `President Donald Trump scolded Big Oil in August, saying ExxonMobil and Chevron were making "too much money based on a shortage," as profits surged in the wake of the U.S.-Israeli war with Iran.
+Corporate results published this week laid out the windfall oil majors are continuing to get from tight fuel supplies and elevated refining margins amid global conflict.
+Shell, BP, TotalEnergies and Exxon reported sharply higher margins in their refined-products businesses, a gauge of the amount they earn from processing crude oil into gasoline, diesel and jet fuel.
+Chevron does not report a comparable, standalone refining-margin figure, but it reported Friday that its downstream earnings more than quadrupled from a year earlier to $4.9 billion, with the company citing higher margins on refined-product sales.
+That's amid tight supplies of refined fuels and pressure on refinery output globally, despite oil firms reporting this week that they are running their facilities near capacity to try to meet demand.
+Why supply is tight
+Key issues include ongoing Ukrainian drone strikes on Russian refineries and disruptions to Middle East energy infrastructure and supply chains linked to the Iran war and Houthi attacks on Saudi Arabia.
+Those factors have compounded refinery closures in Europe and North America, even as new refining capacity has been added elsewhere.
+Around a quarter of refineries in the European Union have shut over the past two decades, European Commissioner for Energy and Housing Dan Jørgensen said this week, as he warned of a "crisis" of energy security.
+Along with soaring refined product margins, higher crude oil prices have also supported earnings at some integrated oil majors, which operate both upstream oil-and-gas businesses and downstream refining operations.
+Their profits have climbed back toward levels last seen during the energy shock of 2022, following Russia's full-scale invasion of Ukraine.
+The earnings spikes are in sharp contrast to consumers facing higher energy prices.
+Some analysts say political efforts to tackle prices — release of emergency diesel stockpiles and a U.S. deal with Russia to supply more diesel to the global market — may have only a limited impact unless they materially increase available supply, demand weakens or global tensions ease.
+Raphael Portela, director for corporate strategy and analytics at energy consultancy Wood Mackenzie, told CNBC that crude oil barrels were still "getting out of the Gulf" amid the war, but "at a steep freight premium," while "the diesel and jet fuel those barrels would have become largely aren't."
+"Russia's refinery outages and export ban have taken a second slug out of the global pool," he added.
+He listed what would have to happen for the crunch to end: "Product supply coming back, based on greater crude availability to the global refining sector: Gulf refineries restarting and Russian exports returning.
+"A Hormuz settlement would hit margins quickly on sentiment, but with inventories this depleted, the physical tightness carries well into 2027."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
+    publishedAt: "2026-10-31T06:00:02+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 8,
+  },
+  {
+    id: "spain-train-disaster-clouds-s-nchez-chan-58876a32",
+    title: "Spain train disaster clouds Sánchez chances of re-election",
+    titleJa: "Spain train disaster clouds Sánchez chances of re-election",
+    summaryJa: "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
+    bodyOriginal: `Spain train disaster clouds Sánchez chances of re-election
+- Published
+The breaking news from Spain this week was shocking but also shockingly familiar: another collision on the high-speed rail line south from Madrid, with reports of dozens killed.
+It is just nine months since two trains crashed near Cordoba, killing 46 people. Now 69 bodies have been recovered here in central Spain, from wreckage strewn over the tracks and down an embankment.
+For the victims' families it is devastating; a personal tragedy.
+But it is also a national disaster that has shattered confidence in the country's rail network and the Socialist-led government of Pedro Sánchez. It is playing out just weeks before the snap general election he called.
+The formal investigation into the Toledo train disaster has only just been launched but the government has been quick to take control of the narrative.
+From the first hours after the collision, Transport Minister Oscar Puente began suggesting "human error" was to blame, batting responsibility as far as possible from the cabinet.
+On Friday, he appeared before the press for a second time to set out what he called the "objective facts" of the crash and counter a surge of criticism against the government.
+The opposition People's Party (PP) is among those calling for his resignation as a "moral" and "ethical" move.
+Instead after expressing "huge pain and sadness" for the victims, Puente went on the offensive.
+He rejected talk of chronic underinvestment in infrastructure and insisted that Spain's high-speed signalling safety system, the LZB, was neither old nor inadequate: Germany and Austria use the same.
+In Spain, it has already failed 170 times so far this year, he revealed, but called that "normal" and around the EU average.
+The problem surrounds what happens next - when the system fails and control of the line shifts to manual.
+In this case, the minister highlighted a series of human errors that proved catastrophic.
+Crucially, at one point a controller instructed a stalled train to restart, clearing it to advance at up to 160km/h (100 mph) even though a second train was stuck on the line up ahead.
+The impending collision was clear from audio calls and on big screens in the control centre in Madrid.
+"They worked. We checked. They could see what was happening," Puente confirmed. But the advancing train was never ordered to stop.
+"I'm no judge... But these are the facts."
+So would he take personal and political responsibility anyway, and resign? Puente called it his "duty", rather, to remain as minister.
+"I'll face up to things, explain, elucidate," he countered. "I'll think how to improve the system, and give confidence to those who want to travel by train and feel calm and safe."
+But Spaniards will take a lot of persuading.
+"This is not only a very serious accident, but the second in a very short time," Paco Camas of the pollster Ipsos points out.
+An investigation into January's crash in Adamuz, near Cordoba, is still open, with initial reports suggesting there was a crack in the rails - very different to the latest collision.
+But there is a similar impact.
+"It destroys people's confidence not only in the railways but institutions in general," Camas warns. "And in Spain when such things happen, we know that people blame their government."
+For Team Sánchez it is the latest in a spiral of crises.
+Allegations of corruption against the prime minister's close relatives still persist, all denied.
+Then there was a sudden influx of migrants from Morocco this summer to the Spanish exclave of Ceuta. That got right-wing opponents shouting about incompetence and underfunding.
+Later, a video of a pensioner being forcibly evicted from her home went viral and sparked street protests.
+That's when Sánchez called an early election.
+His chances of winning the vote looked slim even before the train crash. Now they have plummeted.
+Most recent polls showed the centre-right PP coming first and forming a coalition with the far-right Vox.
+"They have this majority in almost 95% of the simulations we have done," Prof Pablo Simon of Madrid's Carlos III University explains.
+But Sánchez had been running a positive campaign, trying to lure apathetic voters to the polls to vote socialist.
+Suddenly, the tone has changed.
+"They've totally lost control of the agenda and the emotion of this campaign," Simon says. "It's going to be extremely difficult now. There is this general mood of decay, of a country that's not working properly. A depression."
+There is also anger.
+There have already been small protests over the train crash led by far-right groups in Madrid and large numbers of police are on stand-by this weekend ahead of further potential clashes, organised online.
+Here in Toledo, the mood is nervous.
+"We all travelled in silence and really sad," Paloma told me at the city station, where she had just pulled in on a half empty train.
+She admitted she's scared of the high-speed network now and angry at the government.
+"This crash will change all of our votes, completely," Paloma said. "We'll shift from the left wing to the right. Because of everything that's happened."
+Lucia takes the high-speed AVE into Madrid each day, and is scared too.
+"This was human error. But there's been two accidents now with more than 100 dead," she says. "Things here are really bad. They have to change."
+Producer Davide Ghiglione contributed to this report
+Related topics
+- Published21 hours ago`,
+    bodyJa: `Spain train disaster clouds Sánchez chances of re-election
+- Published
+The breaking news from Spain this week was shocking but also shockingly familiar: another collision on the high-speed rail line south from Madrid, with reports of dozens killed.
+It is just nine months since two trains crashed near Cordoba, killing 46 people. Now 69 bodies have been recovered here in central Spain, from wreckage strewn over the tracks and down an embankment.
+For the victims' families it is devastating; a personal tragedy.
+But it is also a national disaster that has shattered confidence in the country's rail network and the Socialist-led government of Pedro Sánchez. It is playing out just weeks before the snap general election he called.
+The formal investigation into the Toledo train disaster has only just been launched but the government has been quick to take control of the narrative.
+From the first hours after the collision, Transport Minister Oscar Puente began suggesting "human error" was to blame, batting responsibility as far as possible from the cabinet.
+On Friday, he appeared before the press for a second time to set out what he called the "objective facts" of the crash and counter a surge of criticism against the government.
+The opposition People's Party (PP) is among those calling for his resignation as a "moral" and "ethical" move.
+Instead after expressing "huge pain and sadness" for the victims, Puente went on the offensive.
+He rejected talk of chronic underinvestment in infrastructure and insisted that Spain's high-speed signalling safety system, the LZB, was neither old nor inadequate: Germany and Austria use the same.
+In Spain, it has already failed 170 times so far this year, he revealed, but called that "normal" and around the EU average.
+The problem surrounds what happens next - when the system fails and control of the line shifts to manual.
+In this case, the minister highlighted a series of human errors that proved catastrophic.
+Crucially, at one point a controller instructed a stalled train to restart, clearing it to advance at up to 160km/h (100 mph) even though a second train was stuck on the line up ahead.
+The impending collision was clear from audio calls and on big screens in the control centre in Madrid.
+"They worked. We checked. They could see what was happening," Puente confirmed. But the advancing train was never ordered to stop.
+"I'm no judge... But these are the facts."
+So would he take personal and political responsibility anyway, and resign? Puente called it his "duty", rather, to remain as minister.
+"I'll face up to things, explain, elucidate," he countered. "I'll think how to improve the system, and give confidence to those who want to travel by train and feel calm and safe."
+But Spaniards will take a lot of persuading.
+"This is not only a very serious accident, but the second in a very short time," Paco Camas of the pollster Ipsos points out.
+An investigation into January's crash in Adamuz, near Cordoba, is still open, with initial reports suggesting there was a crack in the rails - very different to the latest collision.
+But there is a similar impact.
+"It destroys people's confidence not only in the railways but institutions in general," Camas warns. "And in Spain when such things happen, we know that people blame their government."
+For Team Sánchez it is the latest in a spiral of crises.
+Allegations of corruption against the prime minister's close relatives still persist, all denied.
+Then there was a sudden influx of migrants from Morocco this summer to the Spanish exclave of Ceuta. That got right-wing opponents shouting about incompetence and underfunding.
+Later, a video of a pensioner being forcibly evicted from her home went viral and sparked street protests.
+That's when Sánchez called an early election.
+His chances of winning the vote looked slim even before the train crash. Now they have plummeted.
+Most recent polls showed the centre-right PP coming first and forming a coalition with the far-right Vox.
+"They have this majority in almost 95% of the simulations we have done," Prof Pablo Simon of Madrid's Carlos III University explains.
+But Sánchez had been running a positive campaign, trying to lure apathetic voters to the polls to vote socialist.
+Suddenly, the tone has changed.
+"They've totally lost control of the agenda and the emotion of this campaign," Simon says. "It's going to be extremely difficult now. There is this general mood of decay, of a country that's not working properly. A depression."
+There is also anger.
+There have already been small protests over the train crash led by far-right groups in Madrid and large numbers of police are on stand-by this weekend ahead of further potential clashes, organised online.
+Here in Toledo, the mood is nervous.
+"We all travelled in silence and really sad," Paloma told me at the city station, where she had just pulled in on a half empty train.
+She admitted she's scared of the high-speed network now and angry at the government.
+"This crash will change all of our votes, completely," Paloma said. "We'll shift from the left wing to the right. Because of everything that's happened."
+Lucia takes the high-speed AVE into Madrid each day, and is scared too.
+"This was human error. But there's been two accidents now with more than 100 dead," she says. "Things here are really bad. They have to change."
+Producer Davide Ghiglione contributed to this report
+Related topics
+- Published21 hours ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-31T05:44:21+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a970/live/20e78ee0-d4ed-11f1-93e1-3b657b665bcf.jpg",
+    readTime: 10,
+  },
+  {
     id: "grand-theft-callout-gta-6-fans-are-missi-46bc7da7",
     title: "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
     titleJa: "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day because they ‘don’t want to wait’ anymore",
@@ -27,6 +323,142 @@ export const articles: Article[] = [
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-40951496",
     readTime: 2,
+  },
+  {
+    id: "why-north-korea-s-elite-hackers-are-the-a632ab5d",
+    title: "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+    titleJa: "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+    summaryJa: "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+    bodyOriginal: `Why North Korea's 'elite' hackers are the prime suspect in major Binance hack
+- Published
+Two major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6.3bn (£4.7bn) hack of Binance, the world's largest cryptocurrency exchange.
+The Lazarus Group, a North Korean hacking unit also known as TraderTraitor, was identified "with high confidence" by TRM Labs, as well as Chainalysis.
+This incident is just the latest linked to the country, one of the poorest in the world and where access to the internet is severely restricted.
+Experts accuse the government of North Korean leader Kim Jong Un of relying on cybercrime to finance itself, something Pyongyang has long denied.
+Though not financial, the nation's most spectacular suspected hack took place in 2014. The target: Sony Pictures, which had made the Hollywood film The Interview. The film involves a plot to assassinate Kim.
+The resulting hack exposed thousands of embarrassing emails exchanged among the studio's top executives.
+Who could be behind the Binance hack and what we know so far
+- Published1 day ago
+Last year, the Federal Bureau of Investigation (FBI) said North Korea was responsible for the theft of $1.5bn on the Bybit exchange.
+In the aftermath of that incident, the agency said TraderTraitor had moved to quickly launder and disperse the stolen assets, converting them to Bitcoin and other digital assets with a goal of eventually turning them into hard currency.
+The FBI has broadly accused North Korea of "illicit cybercrime and virtual asset theft activities".
+The nation has systematically developed its cyber operations, recruiting the most promising students from universities and channeling them into hacker groups overseen by North Korea's intelligence agency, according to reports.
+Some of the cyberwarfare conducted takes place just over the nation's border in China, according to analysis from tech groups.
+Much of its hacking activity has centred on monetary gain.
+North Korean hackers are also suspected in the theft of $620m worth of cryptocurrency in 2022.
+In this most recent heist, North Korean agents are accused of using a special authorisation to turn a Binance hot wallet, which is connected to the internet, into one that moved funds automatically to the attacker.
+TRM said it's likely the attacker gained access to Binance's hot wallet signing system as part of the scheme.
+Binance has not directly responded to the BBC's queries about the incident's potential links to the area.
+The company had initially said it thought an engineer's laptop had been compromised, allowing unauthorised withdrawals, but later said the attack was wider.
+"Our subsequent investigation has uncovered additional points of breach," Binance's co-CEO Richard Teng said.
+Some 80% of stolen assets have been secured, a Binance spokesperson said on Friday, but the rest remains unaccounted for.
+If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become – a sign that the tools of the hacking trade have grown sharper.
+Experts say the rise of artificial intelligence has also given threat actors new ways to carry out crime, through automation and other means.
+In this case, it's plausible that AI was used to infiltrate Binance's systems.
+As Chainalysis put it, the attacker used laundering patterns "we have not seen before".
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
+    bodyJa: `Why North Korea's 'elite' hackers are the prime suspect in major Binance hack
+- Published
+Two major blockchain analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprits in the $6.3bn (£4.7bn) hack of Binance, the world's largest cryptocurrency exchange.
+The Lazarus Group, a North Korean hacking unit also known as TraderTraitor, was identified "with high confidence" by TRM Labs, as well as Chainalysis.
+This incident is just the latest linked to the country, one of the poorest in the world and where access to the internet is severely restricted.
+Experts accuse the government of North Korean leader Kim Jong Un of relying on cybercrime to finance itself, something Pyongyang has long denied.
+Though not financial, the nation's most spectacular suspected hack took place in 2014. The target: Sony Pictures, which had made the Hollywood film The Interview. The film involves a plot to assassinate Kim.
+The resulting hack exposed thousands of embarrassing emails exchanged among the studio's top executives.
+Who could be behind the Binance hack and what we know so far
+- Published1 day ago
+Last year, the Federal Bureau of Investigation (FBI) said North Korea was responsible for the theft of $1.5bn on the Bybit exchange.
+In the aftermath of that incident, the agency said TraderTraitor had moved to quickly launder and disperse the stolen assets, converting them to Bitcoin and other digital assets with a goal of eventually turning them into hard currency.
+The FBI has broadly accused North Korea of "illicit cybercrime and virtual asset theft activities".
+The nation has systematically developed its cyber operations, recruiting the most promising students from universities and channeling them into hacker groups overseen by North Korea's intelligence agency, according to reports.
+Some of the cyberwarfare conducted takes place just over the nation's border in China, according to analysis from tech groups.
+Much of its hacking activity has centred on monetary gain.
+North Korean hackers are also suspected in the theft of $620m worth of cryptocurrency in 2022.
+In this most recent heist, North Korean agents are accused of using a special authorisation to turn a Binance hot wallet, which is connected to the internet, into one that moved funds automatically to the attacker.
+TRM said it's likely the attacker gained access to Binance's hot wallet signing system as part of the scheme.
+Binance has not directly responded to the BBC's queries about the incident's potential links to the area.
+The company had initially said it thought an engineer's laptop had been compromised, allowing unauthorised withdrawals, but later said the attack was wider.
+"Our subsequent investigation has uncovered additional points of breach," Binance's co-CEO Richard Teng said.
+Some 80% of stolen assets have been secured, a Binance spokesperson said on Friday, but the rest remains unaccounted for.
+If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become – a sign that the tools of the hacking trade have grown sharper.
+Experts say the rise of artificial intelligence has also given threat actors new ways to carry out crime, through automation and other means.
+In this case, it's plausible that AI was used to infiltrate Binance's systems.
+As Chainalysis put it, the attacker used laundering patterns "we have not seen before".
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-31T02:12:19+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b98/live/c9241530-d4aa-11f1-b441-2b33b063138f.jpg",
+    readTime: 9,
+  },
+  {
+    id: "police-deployed-during-stand-off-over-co-f012ae2c",
+    title: "Police deployed during stand-off over control of top Poland court",
+    titleJa: "Police deployed during stand-off over control of top Poland court",
+    summaryJa: "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+    bodyOriginal: `Police deployed during stand-off over control of top Poland court
+- Published
+Riot police have been deployed at Poland's Constitutional Court amid an escalating stand-off between the government and the court's top judges.
+The row pits the government of Prime Minister Donald Tusk against his predecessors from the right-wing Law and Justice (PiS).
+The police intervention came after Justice Minister Waldemar Żurek said he had requested stripping the court's President Bogdan Święczkowski and Vice-President Bartłomiej Sochański of their immunity from prosecution to bring criminal charges against them.
+Tusk has vowed to depoliticise the judiciary, and on Friday defended the move as PiS supporters gathered outside the court premises in Warsaw in protest.
+President Karol Nawrocki, who is backed by PiS, has now entered the constitutional court, according to his chief of staff.
+Nawrocki cancelled a trip to Senegal mid-air in order to attend to the confrontation in Warsaw. He had been on his way to the Summer Youth Olympic Games in Dakar.
+Riot police were deployed to prevent any demonstrators from entering the court building.
+In a social media post, the Constitutional Court wrote that the two judges the government wants to prosecute were still the legally appointed senior justices of the court.
+"All persons participating in these actions are committing the crime of a coup d'etat," it said.
+In a social media post, Tusk wrote: "Restoring the rule of law is our duty. After years of Law and Justice's lawlessness, this is a difficult, sometimes painful process that requires decisive action. There is no other way."
+The PiS-led government took office in 2015 and moved swiftly to appoint judges to the court to gain a majority there because the court has the power to decide on the legality of legislation.
+Leading European courts - the European Court of Human Rights and the Court of Justice of the European Union - subsequently ruled the PiS majority had elected three of the judges improperly because they were duplicating positions that had been validly filled by the previous parliament.
+The European courts ruled Poland's Constitutional Court was no longer an "independent and impartial tribunal", and Tusk's government has used those rulings as a basis to stop publishing the tribunal's rulings.
+Tusk has failed to undo the PiS-era changes, partially because Nawrocki and his PiS-backed predecessor Andrzej Duda used their presidential vetoes to block his attempts.
+Nawrocki has also refused to swear in five Constitutional Court judges elected by parliament since March on the grounds of alleged flaws in their selection procedure.
+One of those judges, Anna Korwin-Piotrowska, has now been placed in temporary charge of the court.
+Earlier this month, the Council of Europe's advisory body on constitutional matters, the Venice Commission, said Nawrocki should swear-in the judges to allow them to sit on the court's bench.
+Justice Minister Żurek said Święczkowski and his vice-president should face criminal charges for not allowing the judges to adjudicate.
+Some of Tusk's supporters have accused him of failing to act decisively to reverse the PiS-era reforms.
+Parliamentary elections are scheduled next year, and some see his move as an attempt to boost Tusk's popularity among those voters.
+But his actions have been criticised. In September, Tusk put forward a politician, Maciej Berek, a lawyer who served as a minister in his cabinet, as a judge candidate to the court.
+Lawyer Marcin Matczak, a critic of the PiS-era judicial reform who has stated he considers Święczkowski to be the court's worst president, said his suspension had no legal basis "for a million reasons".
+"Today's action at the Constitutional Court, in my opinion, buries this body and the issue of the rule of law for two decades," Prof Matczak wrote on social media.
+"Images of armed police and legal interpretations according to which the minister of justice can remove the president of the Constitutional Court by decree will have a powerful, anti-rule of law backlash for years to come," he added.
+- Published2 June 2025
+- Published5 June 2023`,
+    bodyJa: `Police deployed during stand-off over control of top Poland court
+- Published
+Riot police have been deployed at Poland's Constitutional Court amid an escalating stand-off between the government and the court's top judges.
+The row pits the government of Prime Minister Donald Tusk against his predecessors from the right-wing Law and Justice (PiS).
+The police intervention came after Justice Minister Waldemar Żurek said he had requested stripping the court's President Bogdan Święczkowski and Vice-President Bartłomiej Sochański of their immunity from prosecution to bring criminal charges against them.
+Tusk has vowed to depoliticise the judiciary, and on Friday defended the move as PiS supporters gathered outside the court premises in Warsaw in protest.
+President Karol Nawrocki, who is backed by PiS, has now entered the constitutional court, according to his chief of staff.
+Nawrocki cancelled a trip to Senegal mid-air in order to attend to the confrontation in Warsaw. He had been on his way to the Summer Youth Olympic Games in Dakar.
+Riot police were deployed to prevent any demonstrators from entering the court building.
+In a social media post, the Constitutional Court wrote that the two judges the government wants to prosecute were still the legally appointed senior justices of the court.
+"All persons participating in these actions are committing the crime of a coup d'etat," it said.
+In a social media post, Tusk wrote: "Restoring the rule of law is our duty. After years of Law and Justice's lawlessness, this is a difficult, sometimes painful process that requires decisive action. There is no other way."
+The PiS-led government took office in 2015 and moved swiftly to appoint judges to the court to gain a majority there because the court has the power to decide on the legality of legislation.
+Leading European courts - the European Court of Human Rights and the Court of Justice of the European Union - subsequently ruled the PiS majority had elected three of the judges improperly because they were duplicating positions that had been validly filled by the previous parliament.
+The European courts ruled Poland's Constitutional Court was no longer an "independent and impartial tribunal", and Tusk's government has used those rulings as a basis to stop publishing the tribunal's rulings.
+Tusk has failed to undo the PiS-era changes, partially because Nawrocki and his PiS-backed predecessor Andrzej Duda used their presidential vetoes to block his attempts.
+Nawrocki has also refused to swear in five Constitutional Court judges elected by parliament since March on the grounds of alleged flaws in their selection procedure.
+One of those judges, Anna Korwin-Piotrowska, has now been placed in temporary charge of the court.
+Earlier this month, the Council of Europe's advisory body on constitutional matters, the Venice Commission, said Nawrocki should swear-in the judges to allow them to sit on the court's bench.
+Justice Minister Żurek said Święczkowski and his vice-president should face criminal charges for not allowing the judges to adjudicate.
+Some of Tusk's supporters have accused him of failing to act decisively to reverse the PiS-era reforms.
+Parliamentary elections are scheduled next year, and some see his move as an attempt to boost Tusk's popularity among those voters.
+But his actions have been criticised. In September, Tusk put forward a politician, Maciej Berek, a lawyer who served as a minister in his cabinet, as a judge candidate to the court.
+Lawyer Marcin Matczak, a critic of the PiS-era judicial reform who has stated he considers Święczkowski to be the court's worst president, said his suspension had no legal basis "for a million reasons".
+"Today's action at the Constitutional Court, in my opinion, buries this body and the issue of the rule of law for two decades," Prof Matczak wrote on social media.
+"Images of armed police and legal interpretations according to which the minister of justice can remove the president of the Constitutional Court by decree will have a powerful, anti-rule of law backlash for years to come," he added.
+- Published2 June 2025
+- Published5 June 2023`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-31T01:11:43+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/308f/live/f44b1080-d50c-11f1-9db5-95ff6e967be3.jpg",
+    readTime: 10,
   },
   {
     id: "us-approves-sale-of-500-patriot-missiles-252e660d",
@@ -215,6 +647,68 @@ WATCH: Mike Khouw likes this options strategy for Meta post-earnings.`,
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 5,
+  },
+  {
+    id: "g20-family-photo-cancelled-after-protest-11db944d",
+    title: "G20 'family photo' cancelled after protests over presence of Russian minister",
+    titleJa: "G20 'family photo' cancelled after protests over presence of Russian minister",
+    summaryJa: "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+    bodyOriginal: `G20 'family photo' cancelled after protests over presence of Russian minister
+- Published
+European diplomats have refused to stand for an official photo with Russia's Foreign Minister Sergei Lavrov at the G20 Foreign Ministers' Meeting, leading to the American hosts cancelling the planned picture.
+Two officials confirmed to BBC the cancellation of the "family photo" scheduled for Friday, which usually include representatives from all nations attending.
+"Let me say this directly to the Russian Foreign Minister: We all know who the aggressor in this war is," UK Foreign Secretary Ed Miliband later told his Russian counterpart at the summit, accusing his government of killing innocent civilians in Ukraine.
+The meeting is being hosted in Atlanta by US Secretary of State Marco Rubio.
+Speaking with G20 foreign ministers on Friday, Miliband said that member countries must "work harder to secure just and lasting peace in Ukraine".
+"Russia's war continues to cause colossal global harm - including the deaths of thousands of innocent civilians and disruption that hits energy and supplies and worsens food insecurity," he said.
+"This war is not simply a test for Europe or for Nato - it requires all of us to apply economic and diplomatic pressure to deprive Putin of the revenues that perpetuate this barbaric war."
+Ukraine is not a G20 member but has been invited to similar meetings in recent years. However, Ukraine was not invited to this meeting.
+One British official told the BBC: "The UK has a longstanding policy not to have direct, bilateral engagement with Russian ministers since the invasion of Ukraine and we are not about to change that".
+Relations between Ukraine and the US have been particularly tense this month, with a diplomatic standoff between Ukrainian President Volodymyr Zelensky and US President Donald Trump over Kyiv's strikes on oil infrastructure within Russia.
+A US official said the photo was cancelled "after it became clear some of the delegations were unwilling to participate in a joint photo".
+"Rather than allow a ceremonial photo opportunity to become a diplomatic distraction, the US decided to forgo the photo and keep the focus on the substantive discussions," the official said.
+In contrast to Ukraine, relations between the US and Russia appear to have partially thawed in recent weeks, as Trump waived some sanctions and agreed a deal to import Russian diesel for the American market.
+The move comes as Trump attempts to lower fuel prices in the US ahead of midterm elections on Tuesday, after months spent grappling with the political consequences of the Iran war.
+Ukraine and its European allies have heavily criticised Trump's deal with Russian President Vladimir Putin.
+Zelensky called it "a gift" to Putin that amounts to "an investment in a war that must be ended, not prolonged".
+Trump said his decision to suspend several Russian sanctions is an effort to keep Moscow at the negotiating table in the war between Russia and Ukraine.
+Putin has said Russia, which introduced a ban on diesel exports earlier this year, is willing to supply both the US and global markets with oil and petroleum products.
+Still, the US State Department this week said it had approved the sale of more than $2bn worth of Patriot missiles to Ukraine, a critically needed munition for the country's air defences to protect itself from Russian attacks.
+Russia launched its full-scale invasion of Ukraine in 2022 and currently controls approximately a fifth of Ukrainian territory.
+Moscow has in recent weeks intensified its deadly missile and drone attacks on Kyiv and other Ukrainian cities.
+Related topics
+- Published11 hours ago`,
+    bodyJa: `G20 'family photo' cancelled after protests over presence of Russian minister
+- Published
+European diplomats have refused to stand for an official photo with Russia's Foreign Minister Sergei Lavrov at the G20 Foreign Ministers' Meeting, leading to the American hosts cancelling the planned picture.
+Two officials confirmed to BBC the cancellation of the "family photo" scheduled for Friday, which usually include representatives from all nations attending.
+"Let me say this directly to the Russian Foreign Minister: We all know who the aggressor in this war is," UK Foreign Secretary Ed Miliband later told his Russian counterpart at the summit, accusing his government of killing innocent civilians in Ukraine.
+The meeting is being hosted in Atlanta by US Secretary of State Marco Rubio.
+Speaking with G20 foreign ministers on Friday, Miliband said that member countries must "work harder to secure just and lasting peace in Ukraine".
+"Russia's war continues to cause colossal global harm - including the deaths of thousands of innocent civilians and disruption that hits energy and supplies and worsens food insecurity," he said.
+"This war is not simply a test for Europe or for Nato - it requires all of us to apply economic and diplomatic pressure to deprive Putin of the revenues that perpetuate this barbaric war."
+Ukraine is not a G20 member but has been invited to similar meetings in recent years. However, Ukraine was not invited to this meeting.
+One British official told the BBC: "The UK has a longstanding policy not to have direct, bilateral engagement with Russian ministers since the invasion of Ukraine and we are not about to change that".
+Relations between Ukraine and the US have been particularly tense this month, with a diplomatic standoff between Ukrainian President Volodymyr Zelensky and US President Donald Trump over Kyiv's strikes on oil infrastructure within Russia.
+A US official said the photo was cancelled "after it became clear some of the delegations were unwilling to participate in a joint photo".
+"Rather than allow a ceremonial photo opportunity to become a diplomatic distraction, the US decided to forgo the photo and keep the focus on the substantive discussions," the official said.
+In contrast to Ukraine, relations between the US and Russia appear to have partially thawed in recent weeks, as Trump waived some sanctions and agreed a deal to import Russian diesel for the American market.
+The move comes as Trump attempts to lower fuel prices in the US ahead of midterm elections on Tuesday, after months spent grappling with the political consequences of the Iran war.
+Ukraine and its European allies have heavily criticised Trump's deal with Russian President Vladimir Putin.
+Zelensky called it "a gift" to Putin that amounts to "an investment in a war that must be ended, not prolonged".
+Trump said his decision to suspend several Russian sanctions is an effort to keep Moscow at the negotiating table in the war between Russia and Ukraine.
+Putin has said Russia, which introduced a ban on diesel exports earlier this year, is willing to supply both the US and global markets with oil and petroleum products.
+Still, the US State Department this week said it had approved the sale of more than $2bn worth of Patriot missiles to Ukraine, a critically needed munition for the country's air defences to protect itself from Russian attacks.
+Russia launched its full-scale invasion of Ukraine in 2022 and currently controls approximately a fifth of Ukrainian territory.
+Moscow has in recent weeks intensified its deadly missile and drone attacks on Kyiv and other Ukrainian cities.
+Related topics
+- Published11 hours ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-10-30T22:11:52+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa3e/live/bc4ea460-d487-11f1-80bc-6d398902272f.jpg",
+    readTime: 9,
   },
   {
     id: "why-gold-plunged-to-its-lowest-price-in-e9027e79",
@@ -1664,538 +2158,6 @@ Still, Paul Dillinger, Levi's head of global design innovation, thinks more crea
     publishedAt: "2026-10-30T00:00:35+00:00",
     category: "自動車",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04bf/live/f3978b70-d08c-11f1-a701-fddedf244c16.jpg",
-    readTime: 10,
-  },
-  {
-    id: "circle-tether-freeze-funds-impacted-by-p-e76b98b9",
-    title: "Circle, Tether freeze funds impacted by potential Binance 'security issue'",
-    titleJa: "Circle, Tether freeze funds impacted by potential Binance 'security issue'",
-    summaryJa: "Binance, the world's largest crypto exchange, said it was actively investigating the matter and that funds are \"completley safe.\"",
-    bodyOriginal: `Several crypto firms, including Circle Internet Group and Tether, on Thursday froze roughly $1.8 billion worth of funds tied to a potential hack on cryptocurrency exchange Binance.
-The world's largest crypto exchange by daily trading volumes has not explicitly confirmed that it has suffered an exploit as of writing time. In a social media post, the company said it was investigating "a potential security issue" on its trading platform.
-"Our teams are aware of reports of a potential security issue and are actively investigating," a Binance spokesperson said. "Rest assured that user funds are completely safe. Our security teams are reviewing all relevant information with urgency, and we will provide updates through official Binance channels as soon as we have verified information."
-Circle CEO Jeremy Allaire said Thursday evening in a social media post that the company had frozen more than 800 million in USD Coin associated with the incident. USDT stablecoin issuer Tether CEO Paolo Ardoino also said in on X that his firm had frozen more than 1.5 billion of its stablecoin that may have been related to a potential breach.
-Later, Binance co-founder Yi He said in a statement that the XRP and RLUSD-tied firm Ripple helped halt the movement of $200 million worth of funds linked to the possible attack.
-But those frozen funds could represent only a fraction of those that were potentially stolen off of Binance. Crypto data provider Arkham Intelligence linked nearly $6 billion in digital assets — including bitcoin, ether, solana and various stablecoins — to 55 wallet addresses it has linked to the potential exploit.
-Arkham identifies, tracks and flags crypto wallets by analyzing publicly available blockchain data. It also solicits tips from its community members.
-Bitcoin — the most widely followed cryptocurrency in the world — slid more than 3% following the executives' statements, breaking below $80,000. Ether fell nearly 4%, while solana shed about 3%.
-Shares of Circle also tumbled about 5% in off-hours trading on Thursday.`,
-    bodyJa: `Several crypto firms, including Circle Internet Group and Tether, on Thursday froze roughly $1.8 billion worth of funds tied to a potential hack on cryptocurrency exchange Binance.
-The world's largest crypto exchange by daily trading volumes has not explicitly confirmed that it has suffered an exploit as of writing time. In a social media post, the company said it was investigating "a potential security issue" on its trading platform.
-"Our teams are aware of reports of a potential security issue and are actively investigating," a Binance spokesperson said. "Rest assured that user funds are completely safe. Our security teams are reviewing all relevant information with urgency, and we will provide updates through official Binance channels as soon as we have verified information."
-Circle CEO Jeremy Allaire said Thursday evening in a social media post that the company had frozen more than 800 million in USD Coin associated with the incident. USDT stablecoin issuer Tether CEO Paolo Ardoino also said in on X that his firm had frozen more than 1.5 billion of its stablecoin that may have been related to a potential breach.
-Later, Binance co-founder Yi He said in a statement that the XRP and RLUSD-tied firm Ripple helped halt the movement of $200 million worth of funds linked to the possible attack.
-But those frozen funds could represent only a fraction of those that were potentially stolen off of Binance. Crypto data provider Arkham Intelligence linked nearly $6 billion in digital assets — including bitcoin, ether, solana and various stablecoins — to 55 wallet addresses it has linked to the potential exploit.
-Arkham identifies, tracks and flags crypto wallets by analyzing publicly available blockchain data. It also solicits tips from its community members.
-Bitcoin — the most widely followed cryptocurrency in the world — slid more than 3% following the executives' statements, breaking below $80,000. Ether fell nearly 4%, while solana shed about 3%.
-Shares of Circle also tumbled about 5% in off-hours trading on Thursday.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
-    publishedAt: "2026-10-29T22:42:41+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "intel-stock-plunges-21-as-chipmaker-blam-b5ed9695",
-    title: "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
-    titleJa: "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
-    summaryJa: "Intel has been a Wall Street darling this year due to its emergence as a player in AI, but the company is being weighed down by a struggling PC market.",
-    bodyOriginal: `Intel shares plummeted more than 20% in extended trading on Thursday after the chipmaker issued a weak fourth-quarter forecast, citing continued softness in the global PC market.
-Here's how the company did in the third quarter, compared with estimates from analysts polled by LSEG:
-- Earnings per share: 52 cents adjusted vs. 40 cents expected
-- Revenue: $16.51 billion vs. $16.5 billion expected
-Revenue climbed 21% from $13.7 billion a year earlier, the company said in a press release.
-However, revenue in Intel's client computing and physical AI group fell 5% from the same quarter a year ago to $8.1 billion, missing estimates, even as data center and AI revenue jumped 78% to $7.3 billion.
-Global PC shipments declined 4% in the second quarter from a year earlier due to soaring costs for memory and other components, according to Counterpoint Research.
-For the current quarter, Intel said it expects adjusted earnings per share of 25 cents on revenue between $15 billion and $16 billion. Analysts were expecting revenue of $17.1 billion and EPS of 43 cents, according to LSEG.
-"We see the PC slowdown continuing at least through the first half of next year," Intel finance chief David Zinsner, said in the release. "We will continue making disciplined investments in capacity and working capital to increase supply and support future growth."
-Intel's forecast reflects the effects of an explosion at a fab in Israel that killed two workers and seriously injured a third earlier this month. The incident will cost the company about $600 million in lost revenue over two quarters, Zinsner said on Thursday's earnings. CEO Lip-Bu Tan said the explosion, which he called an "unfortunate and tragic accident," caused an "extended shutdown" at the plant, impacting shipments of 10-nanometer chips.
-Intel's stock has been on an upward tear, up about 150% so far this year prior to the earnings report, although it's down roughly 23% in October over growing concern over the size of the artificial intelligence buildout.
-"We will remain disciplined as we invest, and we will not spend $1 of capital unless we have confidence in the health of our products and process technologies, and clear evidence of customer demand," Zinsner said on the call.
-Nvidia, which has become the world's most valuable company thanks to its dominance in graphics processing units, or GPUs, is scheduled to report results in mid-November. Advanced Micro Devices, a maker of GPUs and central processing units, or CPUs, reports next week.
-Known best for its industry-leading CPUs, Intel has been a beneficiary of the rise in agentic AI. While chatbots and large models rely heavily on graphics processors from Nvidia and AMD, agentic applications such as Meta's Muse and OpenAI's Dots lean on CPUs to help orchestrate tasks and data from a computer operating in the cloud.
-"Despite near term headwinds affecting the broader PC industry, we continue to see robust demand for CPUs and more broadly, for all our computing platforms in the long term," Tan said in the press release.
-Intel's foundry business, meanwhile, has struggled to find its footing.
-Intel is the only U.S.-based manufacturer of advanced logic chips, and is now in high-volume production of its most advanced 18A chip out of its new fab in Arizona, providing an alternative to Taiwan Semiconductor Manufacturing Co. Its next fab in Arizona is expected to begin operations by the end of 2028.
-For now, Intel has no major external customers for its new chips.
-"We're going to have a couple of customers ready to announce the next two quarters," Tan said on the call, adding that Intel is making "tremendous progress" on its coming 14A chips.
-The Trump administration took a 10% stake in Intel last year after the company had fallen behind on its 7- and 10-nanometer technologies. Nvidia and Softbank also invested billions in Intel last year.
-Tan has taken a more cautious approach to foundry spending than his predecessor, Pat Gelsinger, who launched an ambitious revival of the foundry business.
-Last week, Intel said crews have installed the first structural truss at its huge Ohio fab that was originally expected to deliver chips in 2025.
-In September, reports surfaced that the world's leading maker of high-bandwidth memory, SK Hynix may team up with Intel in Ohio to lease some foundry space to make memory chips at the new site. Neither company would confirm any plans.
-"We continue to evaluate unique and highly differentiated opportunities to accelerate our Ohio build out, and I hope to share more on this in the near future" Tan said on the call.
-Intel completed a $23 billion equity offering in August. Tech giants have spent trillions of dollars in recent years to meet insatiable demand for AI and the infrastructure needed to support it.
-Tan said he's "disappointed that we were not able to meet strong customer demand in this quarter."
-WATCH: Can Intel's New Arizona Chip Fab Bring It Back From The Brink?`,
-    bodyJa: `Intel shares plummeted more than 20% in extended trading on Thursday after the chipmaker issued a weak fourth-quarter forecast, citing continued softness in the global PC market.
-Here's how the company did in the third quarter, compared with estimates from analysts polled by LSEG:
-- Earnings per share: 52 cents adjusted vs. 40 cents expected
-- Revenue: $16.51 billion vs. $16.5 billion expected
-Revenue climbed 21% from $13.7 billion a year earlier, the company said in a press release.
-However, revenue in Intel's client computing and physical AI group fell 5% from the same quarter a year ago to $8.1 billion, missing estimates, even as data center and AI revenue jumped 78% to $7.3 billion.
-Global PC shipments declined 4% in the second quarter from a year earlier due to soaring costs for memory and other components, according to Counterpoint Research.
-For the current quarter, Intel said it expects adjusted earnings per share of 25 cents on revenue between $15 billion and $16 billion. Analysts were expecting revenue of $17.1 billion and EPS of 43 cents, according to LSEG.
-"We see the PC slowdown continuing at least through the first half of next year," Intel finance chief David Zinsner, said in the release. "We will continue making disciplined investments in capacity and working capital to increase supply and support future growth."
-Intel's forecast reflects the effects of an explosion at a fab in Israel that killed two workers and seriously injured a third earlier this month. The incident will cost the company about $600 million in lost revenue over two quarters, Zinsner said on Thursday's earnings. CEO Lip-Bu Tan said the explosion, which he called an "unfortunate and tragic accident," caused an "extended shutdown" at the plant, impacting shipments of 10-nanometer chips.
-Intel's stock has been on an upward tear, up about 150% so far this year prior to the earnings report, although it's down roughly 23% in October over growing concern over the size of the artificial intelligence buildout.
-"We will remain disciplined as we invest, and we will not spend $1 of capital unless we have confidence in the health of our products and process technologies, and clear evidence of customer demand," Zinsner said on the call.
-Nvidia, which has become the world's most valuable company thanks to its dominance in graphics processing units, or GPUs, is scheduled to report results in mid-November. Advanced Micro Devices, a maker of GPUs and central processing units, or CPUs, reports next week.
-Known best for its industry-leading CPUs, Intel has been a beneficiary of the rise in agentic AI. While chatbots and large models rely heavily on graphics processors from Nvidia and AMD, agentic applications such as Meta's Muse and OpenAI's Dots lean on CPUs to help orchestrate tasks and data from a computer operating in the cloud.
-"Despite near term headwinds affecting the broader PC industry, we continue to see robust demand for CPUs and more broadly, for all our computing platforms in the long term," Tan said in the press release.
-Intel's foundry business, meanwhile, has struggled to find its footing.
-Intel is the only U.S.-based manufacturer of advanced logic chips, and is now in high-volume production of its most advanced 18A chip out of its new fab in Arizona, providing an alternative to Taiwan Semiconductor Manufacturing Co. Its next fab in Arizona is expected to begin operations by the end of 2028.
-For now, Intel has no major external customers for its new chips.
-"We're going to have a couple of customers ready to announce the next two quarters," Tan said on the call, adding that Intel is making "tremendous progress" on its coming 14A chips.
-The Trump administration took a 10% stake in Intel last year after the company had fallen behind on its 7- and 10-nanometer technologies. Nvidia and Softbank also invested billions in Intel last year.
-Tan has taken a more cautious approach to foundry spending than his predecessor, Pat Gelsinger, who launched an ambitious revival of the foundry business.
-Last week, Intel said crews have installed the first structural truss at its huge Ohio fab that was originally expected to deliver chips in 2025.
-In September, reports surfaced that the world's leading maker of high-bandwidth memory, SK Hynix may team up with Intel in Ohio to lease some foundry space to make memory chips at the new site. Neither company would confirm any plans.
-"We continue to evaluate unique and highly differentiated opportunities to accelerate our Ohio build out, and I hope to share more on this in the near future" Tan said on the call.
-Intel completed a $23 billion equity offering in August. Tech giants have spent trillions of dollars in recent years to meet insatiable demand for AI and the infrastructure needed to support it.
-Tan said he's "disappointed that we were not able to meet strong customer demand in this quarter."
-WATCH: Can Intel's New Arizona Chip Fab Bring It Back From The Brink?`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
-    publishedAt: "2026-10-29T22:37:54+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "amazon-posts-negative-free-cash-flow-of-df49b3ac",
-    title: "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
-    titleJa: "Amazon posts negative free cash flow of $42.4 billion, holds 2026 capex unchanged",
-    summaryJa: "Amazon's negative free cash flow ballooned during the third quarter, while its earnings and revenue fell short of Wall Street's expectations.",
-    bodyOriginal: `Amazon shares plunged more than 6% in extended trading Thursday after the company reported disappointing third-quarter results and ballooning negative free cash flow, reflecting its swelling AI investments.
-Here's how the company did, compared with estimates from analysts polled by LSEG:
-- Earnings per share: $1.89 vs. $1.96 estimated
-- Revenue: $201.94 billion vs. $202.31 billion estimated
-Wall Street was also looking at other key revenue numbers:
-- Amazon Web Services: $45.98 billion vs. $45.29 billion, according to StreetAccount
-- Advertising: $19.64 billion vs. $20.82 billion, according to StreetAccount
-The company held steady on its capital expenditure forecast for 2026, saying it continues to expect spending will reach $220 billion this year.
-Tech's hyperscalers have been on a blistering spending run to meet the surge in demand for artificial intelligence infrastructure, but signs have begun to emerge that the capex splurge is moderating. Earlier this week, Microsoft lowered its capex forecast for the year to $170 billion from $175 billion, while Alphabet maintained its guidance at $195 billion to $205 billion.
-CEO Andy Jassy said on a conference call with investors that the company expects to "spend meaningfully more in 2027," and that Amazon has a "clear line of sight to attractive financial returns."
-The aggressive AI spending has eaten into Amazon's cash flow. The company posted negative free cash flow for the second consecutive quarter, recording an outflow of $42.4 billion for the trailing twelve month period, a swing of 386% year over year. In the prior quarter, the company reported negative free cash flow of $7.6 billion.
-The company said the shortfall was primarily due to an increase in purchases of property and equipment as a result of AI investments.
-Capital expenditures reached $77.3 billion during the quarter, ticking up from $35.1 billion one year earlier, and coming in well above analysts' estimated $58.7 billion, according to FactSet.
-Amazon said it expects fourth-quarter revenue to be in the range of $240 billion and $247 billion. The midpoint of its guidance was below Wall Street's expectations of $244.5 billion, according to LSEG. The fourth quarter is typically one of Amazon's biggest by revenue, due to the peak holiday shopping season.
-Sales in Amazon's cloud segment soared 39% year over year to $45.98 billion. That topped the consensus forecast for $45.29 billion and growth of 38%, according to StreetAccount.
-Jassy highlighted AWS acceleration in the earnings release, saying the company expects revenue growth rates of "over 40%" next year and in 2028. He added, "Our AWS investment in functionality and infrastructure is working."
-Jassy told investors on the call that he expects AWS will be a $1 trillion revenue business in the next five to 10 years.
-Amazon is facing pressure from Wall Street to show that its AI investments are lifting its revenues. The company pointed to growing traction for Bedrock, its AI model marketplace, along with its Trainium and Graviton AI chips.
-Jassy said Amazon's chips business "continues to grow triple-digit percentages year over year." He added that the company plans to make its Trainium chips available externally "late in 2027," assigning a timeframe to comments Jassy made earlier this year suggesting such a move.
-Third-quarter net income came in at $20.69 billion, or $1.89 per share, vs. $21.19 billion, or $1.95 per share, a year ago. The company said the decrease was driven primarily by a $9.5 billion pre-tax gain from its investment in the AI startup Anthropic, which was recorded in the 2025 third quarter.
-While the AWS segment continues to hum along, results weren't as bright in Amazon's retail business, which remains its largest unit by revenue, or its advertising segment.
-Online sales gained 2% year over year to $68.47 billion, which fell short of analysts' projected $69.68 billion, according to StreetAccount. It marked a slowdown from one year ago, when sales increased nearly 10%.
-Advertising revenue rose 11% year over year to $19.64 billion. That missed StreetAccount consensus estimates of $20.82 billion.
-Both units were impacted in part by Amazon's decision to pull its annual Prime Day sale forward in several countries from its typical third quarter timeframe into the second quarter so as to not conflict with the FIFA World Cup in July.`,
-    bodyJa: `Amazon shares plunged more than 6% in extended trading Thursday after the company reported disappointing third-quarter results and ballooning negative free cash flow, reflecting its swelling AI investments.
-Here's how the company did, compared with estimates from analysts polled by LSEG:
-- Earnings per share: $1.89 vs. $1.96 estimated
-- Revenue: $201.94 billion vs. $202.31 billion estimated
-Wall Street was also looking at other key revenue numbers:
-- Amazon Web Services: $45.98 billion vs. $45.29 billion, according to StreetAccount
-- Advertising: $19.64 billion vs. $20.82 billion, according to StreetAccount
-The company held steady on its capital expenditure forecast for 2026, saying it continues to expect spending will reach $220 billion this year.
-Tech's hyperscalers have been on a blistering spending run to meet the surge in demand for artificial intelligence infrastructure, but signs have begun to emerge that the capex splurge is moderating. Earlier this week, Microsoft lowered its capex forecast for the year to $170 billion from $175 billion, while Alphabet maintained its guidance at $195 billion to $205 billion.
-CEO Andy Jassy said on a conference call with investors that the company expects to "spend meaningfully more in 2027," and that Amazon has a "clear line of sight to attractive financial returns."
-The aggressive AI spending has eaten into Amazon's cash flow. The company posted negative free cash flow for the second consecutive quarter, recording an outflow of $42.4 billion for the trailing twelve month period, a swing of 386% year over year. In the prior quarter, the company reported negative free cash flow of $7.6 billion.
-The company said the shortfall was primarily due to an increase in purchases of property and equipment as a result of AI investments.
-Capital expenditures reached $77.3 billion during the quarter, ticking up from $35.1 billion one year earlier, and coming in well above analysts' estimated $58.7 billion, according to FactSet.
-Amazon said it expects fourth-quarter revenue to be in the range of $240 billion and $247 billion. The midpoint of its guidance was below Wall Street's expectations of $244.5 billion, according to LSEG. The fourth quarter is typically one of Amazon's biggest by revenue, due to the peak holiday shopping season.
-Sales in Amazon's cloud segment soared 39% year over year to $45.98 billion. That topped the consensus forecast for $45.29 billion and growth of 38%, according to StreetAccount.
-Jassy highlighted AWS acceleration in the earnings release, saying the company expects revenue growth rates of "over 40%" next year and in 2028. He added, "Our AWS investment in functionality and infrastructure is working."
-Jassy told investors on the call that he expects AWS will be a $1 trillion revenue business in the next five to 10 years.
-Amazon is facing pressure from Wall Street to show that its AI investments are lifting its revenues. The company pointed to growing traction for Bedrock, its AI model marketplace, along with its Trainium and Graviton AI chips.
-Jassy said Amazon's chips business "continues to grow triple-digit percentages year over year." He added that the company plans to make its Trainium chips available externally "late in 2027," assigning a timeframe to comments Jassy made earlier this year suggesting such a move.
-Third-quarter net income came in at $20.69 billion, or $1.89 per share, vs. $21.19 billion, or $1.95 per share, a year ago. The company said the decrease was driven primarily by a $9.5 billion pre-tax gain from its investment in the AI startup Anthropic, which was recorded in the 2025 third quarter.
-While the AWS segment continues to hum along, results weren't as bright in Amazon's retail business, which remains its largest unit by revenue, or its advertising segment.
-Online sales gained 2% year over year to $68.47 billion, which fell short of analysts' projected $69.68 billion, according to StreetAccount. It marked a slowdown from one year ago, when sales increased nearly 10%.
-Advertising revenue rose 11% year over year to $19.64 billion. That missed StreetAccount consensus estimates of $20.82 billion.
-Both units were impacted in part by Amazon's decision to pull its annual Prime Day sale forward in several countries from its typical third quarter timeframe into the second quarter so as to not conflict with the FIFA World Cup in July.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
-    publishedAt: "2026-10-29T22:24:49+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "google-value-plunges-by-500bn-as-ai-fear-370caab0",
-    title: "Google value plunges by $500bn as AI fears rattle Wall Street",
-    titleJa: "Google value plunges by $500bn as AI fears rattle Wall Street",
-    summaryJa: "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue.",
-    bodyOriginal: `Google value plunges by $500bn as AI fears rattle Wall Street
-- Published
-Google parent Alphabet lost just over $500bn (£374bn) in value on Thursday after it rattled Wall Street with its last update of the year on its business operations.
-Google spooked investors so badly that its stock hit a six-month low, after it revealed its artificial intelligence (AI) summaries on search were affecting ad revenue.
-Microsoft and Amazon also updated investors this week, and joined Google in plans to keep spending astronomical sums of cash in an ongoing AI race.
-But investors appeared dismayed at the impacts these plans are having on the ability of each to keep growing their core lines of business.
-Google AI is eating its core business - search
-At first glance, the quarterly results of Alphabet, the parent company of Google, were not at all bad.
-Total revenue grew 25% compared to last year, hitting $127.6bn. It was buoyed by the ongoing success of Google Cloud, where revenue grew by 103% to almost $31bn.
-However, profits at the company fell by a considerable 25% during the quarter. And for the second time in its history as a public company, it showed negative free cash flow, this time in excess of $9bn. That's almost twice the loss of cash Alphabet showed just three months ago.
-Cash flow represents the money a company retains after paying for operations and investments, meaning Alphabet is now spending more money than it is bringing in. That new level of spending is almost entirely dedicated to Google's AI investments.
-By the end of Thursday, the company's total stock market value had fallen to $3.46 trillion from $3.97 trillion the day before.
-Google's omnipresent search engine now defaults to AI summaries of a person's query, and that hit the number of advertisements it was able to sell during the quarter.
-The sale of ads that appear alongside Google Search results is the vast majority of Alphabet's business.
-Tracy Woo, a principal analyst at Forrester, said Alphabet's disappointing search business results "highlights the challenge of funding massive AI investments while maintaining the strength of established businesses."
-Although Phillip Schindler, Google's chief business officer, said on Wednesday that he felt "very good about our trajectory" with an AI-focused version of the search engine, the company's stock fell by almost 13% on Thursday, its second lowest showing this year.
-Investors not buying Amazon's trillion-dollar business hopes
-Amazon's stock also took a hit on Thursday after it shared results that disappointed investors. Shares of the company fell 6% in after hours stock trading.
-Alongside quarterly sales growth of 11%, hitting $201bn, the company shared a staggering cash flow figure of negative $42bn.
-That number shows that Amazon is not only spending more money than it makes, but that spending has increased six-fold over the span of three months.
-Chief executive Andy Jassy claimed the business was spending in part because it had the chance at, not one, but two businesses that could end up bringing in $1 trillion for Amazon the future.
-Jassy did not specify what two Amazon businesses those may be. But during a call with financial analysts he repeatedly mentioned the financial opportunity presented by Amazon making and selling its own computer chips, as well as its AI developer platform Bedrock, which offers paying users access to most major AI models and tools.
-"One of the lessons we've learned over 20-plus years is that there is not one tool to rule the world," Jassy said. "People always assume whatever is in the lead early on will be the only thing that people use - it's never true."
-As Jassy was asked several times to explain the company's spending, he admitted it "would be more convenient" if it were spread over the next 25 years. "That's not the world we live in," he added.
-"We can fund this plan, and I think it will forever change the size, the revenue, the free cash flow of Amazon."
-Microsoft begs the question of AI's real value
-Wall Street reacted less enthusiastically to Microsoft's update, with shares falling by less than 1% on Thursday.
-The company, which is also one of OpenAI's largest investors, spent around $5bn less on investments dedicated to AI. It also revealed earlier this week plans to cut thousands of workers, which will further reduce the company's costs.
-Meanwhile, its revenue grew 19% from a year earlier, hitting $92.3bn for the quarter. Its crucial cloud business grew by 30% to $63bn.
-Chief executive Satya Nadella said the use of Copilot, Microsoft's AI chatbot and tool, has seen "automated tasks nearly double since July" as daily users grew by 500% from a year ago.
-Usually lower spending and growing sales earns a positive reaction from investors.
-But Woo said Wall Street is trying to look farther into the future when it comes to which businesses will truly make good on their big promises around AI.
-"Microsoft's results reinforce that enterprise demand for AI remains strong, but they also highlight a much bigger question facing the technology industry, where AI value will ultimately be captured," Woo said.`,
-    bodyJa: `Google value plunges by $500bn as AI fears rattle Wall Street
-- Published
-Google parent Alphabet lost just over $500bn (£374bn) in value on Thursday after it rattled Wall Street with its last update of the year on its business operations.
-Google spooked investors so badly that its stock hit a six-month low, after it revealed its artificial intelligence (AI) summaries on search were affecting ad revenue.
-Microsoft and Amazon also updated investors this week, and joined Google in plans to keep spending astronomical sums of cash in an ongoing AI race.
-But investors appeared dismayed at the impacts these plans are having on the ability of each to keep growing their core lines of business.
-Google AI is eating its core business - search
-At first glance, the quarterly results of Alphabet, the parent company of Google, were not at all bad.
-Total revenue grew 25% compared to last year, hitting $127.6bn. It was buoyed by the ongoing success of Google Cloud, where revenue grew by 103% to almost $31bn.
-However, profits at the company fell by a considerable 25% during the quarter. And for the second time in its history as a public company, it showed negative free cash flow, this time in excess of $9bn. That's almost twice the loss of cash Alphabet showed just three months ago.
-Cash flow represents the money a company retains after paying for operations and investments, meaning Alphabet is now spending more money than it is bringing in. That new level of spending is almost entirely dedicated to Google's AI investments.
-By the end of Thursday, the company's total stock market value had fallen to $3.46 trillion from $3.97 trillion the day before.
-Google's omnipresent search engine now defaults to AI summaries of a person's query, and that hit the number of advertisements it was able to sell during the quarter.
-The sale of ads that appear alongside Google Search results is the vast majority of Alphabet's business.
-Tracy Woo, a principal analyst at Forrester, said Alphabet's disappointing search business results "highlights the challenge of funding massive AI investments while maintaining the strength of established businesses."
-Although Phillip Schindler, Google's chief business officer, said on Wednesday that he felt "very good about our trajectory" with an AI-focused version of the search engine, the company's stock fell by almost 13% on Thursday, its second lowest showing this year.
-Investors not buying Amazon's trillion-dollar business hopes
-Amazon's stock also took a hit on Thursday after it shared results that disappointed investors. Shares of the company fell 6% in after hours stock trading.
-Alongside quarterly sales growth of 11%, hitting $201bn, the company shared a staggering cash flow figure of negative $42bn.
-That number shows that Amazon is not only spending more money than it makes, but that spending has increased six-fold over the span of three months.
-Chief executive Andy Jassy claimed the business was spending in part because it had the chance at, not one, but two businesses that could end up bringing in $1 trillion for Amazon the future.
-Jassy did not specify what two Amazon businesses those may be. But during a call with financial analysts he repeatedly mentioned the financial opportunity presented by Amazon making and selling its own computer chips, as well as its AI developer platform Bedrock, which offers paying users access to most major AI models and tools.
-"One of the lessons we've learned over 20-plus years is that there is not one tool to rule the world," Jassy said. "People always assume whatever is in the lead early on will be the only thing that people use - it's never true."
-As Jassy was asked several times to explain the company's spending, he admitted it "would be more convenient" if it were spread over the next 25 years. "That's not the world we live in," he added.
-"We can fund this plan, and I think it will forever change the size, the revenue, the free cash flow of Amazon."
-Microsoft begs the question of AI's real value
-Wall Street reacted less enthusiastically to Microsoft's update, with shares falling by less than 1% on Thursday.
-The company, which is also one of OpenAI's largest investors, spent around $5bn less on investments dedicated to AI. It also revealed earlier this week plans to cut thousands of workers, which will further reduce the company's costs.
-Meanwhile, its revenue grew 19% from a year earlier, hitting $92.3bn for the quarter. Its crucial cloud business grew by 30% to $63bn.
-Chief executive Satya Nadella said the use of Copilot, Microsoft's AI chatbot and tool, has seen "automated tasks nearly double since July" as daily users grew by 500% from a year ago.
-Usually lower spending and growing sales earns a positive reaction from investors.
-But Woo said Wall Street is trying to look farther into the future when it comes to which businesses will truly make good on their big promises around AI.
-"Microsoft's results reinforce that enterprise demand for AI remains strong, but they also highlight a much bigger question facing the technology industry, where AI value will ultimately be captured," Woo said.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-29T22:17:52+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
-    readTime: 10,
-  },
-  {
-    id: "servicenow-shares-plunge-27-to-worst-day-033a4973",
-    title: "ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears",
-    titleJa: "ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears",
-    summaryJa: "ServiceNow's stock recorded its worst day ever on underwhelming third-quarter results.",
-    bodyOriginal: `ServiceNow shares sank 27% on Thursday and recorded their worst day on record after the enterprise software company's third-quarter results underwhelmed, reigniting artificial intelligence disruption concerns.
-"This was a little bit uncharacteristic for ServiceNow standards, just in terms of the lack of upside," Citi's Tyler Radke told CNBC on Thursday.
-Revenue grew more than 20% during the period to $4.11 billion, which was roughly in line with a $4.10 billion estimate from analysts polled by LSEG. Adjusted earnings came up short at $1.00 per share, compared to a forecast of $1.02.
-The results did little to overturn recent "SaaSpocalypse" fears, or concerns that new AI capabilities will upend traditional software business models.
-The stock drop came even after the company slightly lifted its full-year 2026 subscription revenue outlook to between $15.78 billion and $15.79 billion. Net new AI average contract value jumped 65%.
-One factor spooking investors is the lack of immediate payoff for the company's investments in its newly formed forward-deployed engineering team that embeds in enterprises to build AI solutions, Radke said.
-"It's just going to be a little bit longer of a waiting game, and so I think the market, you know, wanted to see something a little bit sooner," he said. "I think you got to wait until next year to really see that inflection."
-WATCH: ServiceNow shares plummet in extended trading on mixed Q3 results`,
-    bodyJa: `ServiceNow shares sank 27% on Thursday and recorded their worst day on record after the enterprise software company's third-quarter results underwhelmed, reigniting artificial intelligence disruption concerns.
-"This was a little bit uncharacteristic for ServiceNow standards, just in terms of the lack of upside," Citi's Tyler Radke told CNBC on Thursday.
-Revenue grew more than 20% during the period to $4.11 billion, which was roughly in line with a $4.10 billion estimate from analysts polled by LSEG. Adjusted earnings came up short at $1.00 per share, compared to a forecast of $1.02.
-The results did little to overturn recent "SaaSpocalypse" fears, or concerns that new AI capabilities will upend traditional software business models.
-The stock drop came even after the company slightly lifted its full-year 2026 subscription revenue outlook to between $15.78 billion and $15.79 billion. Net new AI average contract value jumped 65%.
-One factor spooking investors is the lack of immediate payoff for the company's investments in its newly formed forward-deployed engineering team that embeds in enterprises to build AI solutions, Radke said.
-"It's just going to be a little bit longer of a waiting game, and so I think the market, you know, wanted to see something a little bit sooner," he said. "I think you got to wait until next year to really see that inflection."
-WATCH: ServiceNow shares plummet in extended trading on mixed Q3 results`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/29/servicenow-now-earnings-q3-2026.html",
-    publishedAt: "2026-10-29T20:02:32+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "us-interest-rates-held-steady-and-econom-04f12f4f",
-    title: "US interest rates held steady and economy grows - what it means for you",
-    titleJa: "US interest rates held steady and economy grows - what it means for you",
-    summaryJa: "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans",
-    bodyOriginal: `US interest rates held steady and economy grows - what it means for you
-- Published
-The US Federal Reserve has held interest rates steady at 3.75% - 4%.
-The decision comes within a week of the midterm elections and after the central bank raised interest rates for the first time in three years at its September meeting.
-"The overwhelming consensus, the overwhelming judgement, is that what we've done in this monetary medicine is starting to work some," Fed Chair Kevin Warsh said, referring to September's interest rate rise.
-Figures published after the Fed's announcement showed the US economy growing at a stronger pace than expected, with inflation running above the Fed's target.
-What is the Federal Reserve rate?
-An interest rate tells people and businesses how much it costs to borrow money – such as with credit cards, mortgages, or business loans – but also what return they get for saving cash.
-The Fed influences interest rates in the US through its target range for the federal funds rate, which is the interest rate used by commercial banks for overnight borrowing.
-What's happening with US interest rates?
-In its decision to hold rates steady this month, the Fed said that while inflation remains high, it wanted to gather more information before making another decision to change rates.
-The Fed also noted that while there was uncertainty, the US economy remained resilient.
-Warsh acknowledged that inflation remained too high, but noted that there were other signs - such as tightening credit conditions - that the economy was moving in the right direction.
-There is plenty more economic data to come between now and the committee's next meeting, the Fed chair added, which should paint a more detailed picture of the state of the economy.
-At that point, Warsh said, "we'll be, I think, better positioned to determine the right policy decision and the stance of policy."
-While last month the committee signalled there could be one more rate rise this year, Warsh would not be drawn out on where he thinks they will go in six weeks' time.
-"A lot of things can happen, so I'm not going to be able to share with you my musings."
-The decision to hold rates steady was not unanimous.
-While 10 of the 12 committee members voted to keep rates unchanged, Governor Lisa Cook and Cleveland Fed President Beth Hammack voted to increase rates to 4%-4.25%, from its current 3.75%-4%.
-The bank's next meeting will be held over 8-9 December.
-What is happening in the US economy?
-Warsh said things are moving in the right direction, while the US economy is performing very strongly.
-The US economy grew by 3.4% on an annualised basis in the three months to September, stronger than analysts had expected.
-That strong growth was driven by an acceleration in investment, and strong consumer spending.
-While there was an annualised increase in personal spending of 3.8%, the annualised increase in private investment was a huge 19.4% which analysts say was largely due to investment in artificial intelligence.
-Inflation is also above the Fed's target range.
-Prices increased by 3.7% in the year to September, driven higher by fuel and energy prices which have surged off the back of the war in Iran.
-How does the Fed rate affect mortgages, credit cards, and savings?
-The Fed uses interest rate changes to try to keep inflation – the rate at which prices change – at 2% a year and keep the job market stable.
-When inflation is too high, the Fed tends to raise interest rates.
-This tends to mean higher rates from banks and other lenders, which in turn affects spending and saving decisions.
-For example, someone refinancing their mortgage or buying a property for the first time could face higher mortgage rates. It could also mean higher interest rates on credit cards or car loans. However, it means higher interest rates on savings as well.
-This encourages people and businesses to save more, spend less money, and make less investments. It also encourages companies to hire less people or slow the pace of pay rises.
-All of this tends to reduce demand and slow inflation.
-When inflation is low or if the Fed believes the economy needs a boost, it cut rates.
-The idea is that this will have the opposite affect, with banks dropping rates leading to more spending and less saving from people and businesses.
-Leaving the rates unchanged means rates on things like new mortgages or business loans are also less likely to change. It also means interest rates on cash savings are unlikely to rise.
-How much have US interest rates changed?
-US interest rates have historically moved around quite a bit.
-The last time Fed rates were as high as they have been recently was in the lead up to and during the start of the 2008 global financial crisis.
-The Fed then dropped rates to historic lows to encourage spending and job creation during the economic slump and kept them at those lows for several years.
-They picked up again ahead of the pandemic before dropping to as low as 0%-0.25% during the pandemic. They then rose to highs of 5.25%-5% from the middle of 2023 to August 2024 as inflation jumped.
-They had been falling steadily since then, until rates were raised last month.
-Related topics
-- Published14 October
-- Published2 days ago`,
-    bodyJa: `US interest rates held steady and economy grows - what it means for you
-- Published
-The US Federal Reserve has held interest rates steady at 3.75% - 4%.
-The decision comes within a week of the midterm elections and after the central bank raised interest rates for the first time in three years at its September meeting.
-"The overwhelming consensus, the overwhelming judgement, is that what we've done in this monetary medicine is starting to work some," Fed Chair Kevin Warsh said, referring to September's interest rate rise.
-Figures published after the Fed's announcement showed the US economy growing at a stronger pace than expected, with inflation running above the Fed's target.
-What is the Federal Reserve rate?
-An interest rate tells people and businesses how much it costs to borrow money – such as with credit cards, mortgages, or business loans – but also what return they get for saving cash.
-The Fed influences interest rates in the US through its target range for the federal funds rate, which is the interest rate used by commercial banks for overnight borrowing.
-What's happening with US interest rates?
-In its decision to hold rates steady this month, the Fed said that while inflation remains high, it wanted to gather more information before making another decision to change rates.
-The Fed also noted that while there was uncertainty, the US economy remained resilient.
-Warsh acknowledged that inflation remained too high, but noted that there were other signs - such as tightening credit conditions - that the economy was moving in the right direction.
-There is plenty more economic data to come between now and the committee's next meeting, the Fed chair added, which should paint a more detailed picture of the state of the economy.
-At that point, Warsh said, "we'll be, I think, better positioned to determine the right policy decision and the stance of policy."
-While last month the committee signalled there could be one more rate rise this year, Warsh would not be drawn out on where he thinks they will go in six weeks' time.
-"A lot of things can happen, so I'm not going to be able to share with you my musings."
-The decision to hold rates steady was not unanimous.
-While 10 of the 12 committee members voted to keep rates unchanged, Governor Lisa Cook and Cleveland Fed President Beth Hammack voted to increase rates to 4%-4.25%, from its current 3.75%-4%.
-The bank's next meeting will be held over 8-9 December.
-What is happening in the US economy?
-Warsh said things are moving in the right direction, while the US economy is performing very strongly.
-The US economy grew by 3.4% on an annualised basis in the three months to September, stronger than analysts had expected.
-That strong growth was driven by an acceleration in investment, and strong consumer spending.
-While there was an annualised increase in personal spending of 3.8%, the annualised increase in private investment was a huge 19.4% which analysts say was largely due to investment in artificial intelligence.
-Inflation is also above the Fed's target range.
-Prices increased by 3.7% in the year to September, driven higher by fuel and energy prices which have surged off the back of the war in Iran.
-How does the Fed rate affect mortgages, credit cards, and savings?
-The Fed uses interest rate changes to try to keep inflation – the rate at which prices change – at 2% a year and keep the job market stable.
-When inflation is too high, the Fed tends to raise interest rates.
-This tends to mean higher rates from banks and other lenders, which in turn affects spending and saving decisions.
-For example, someone refinancing their mortgage or buying a property for the first time could face higher mortgage rates. It could also mean higher interest rates on credit cards or car loans. However, it means higher interest rates on savings as well.
-This encourages people and businesses to save more, spend less money, and make less investments. It also encourages companies to hire less people or slow the pace of pay rises.
-All of this tends to reduce demand and slow inflation.
-When inflation is low or if the Fed believes the economy needs a boost, it cut rates.
-The idea is that this will have the opposite affect, with banks dropping rates leading to more spending and less saving from people and businesses.
-Leaving the rates unchanged means rates on things like new mortgages or business loans are also less likely to change. It also means interest rates on cash savings are unlikely to rise.
-How much have US interest rates changed?
-US interest rates have historically moved around quite a bit.
-The last time Fed rates were as high as they have been recently was in the lead up to and during the start of the 2008 global financial crisis.
-The Fed then dropped rates to historic lows to encourage spending and job creation during the economic slump and kept them at those lows for several years.
-They picked up again ahead of the pandemic before dropping to as low as 0%-0.25% during the pandemic. They then rose to highs of 5.25%-5% from the middle of 2023 to August 2024 as inflation jumped.
-They had been falling steadily since then, until rates were raised last month.
-Related topics
-- Published14 October
-- Published2 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-29T17:15:05+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47d7/live/753fb120-d30d-11f1-ad4f-5d2bbacf0caf.jpg",
-    readTime: 10,
-  },
-  {
-    id: "faisal-islam-this-budget-was-micro-and-t-4ef56156",
-    title: "Faisal Islam: This Budget was micro and that was deliberate",
-    titleJa: "Faisal Islam: This Budget was micro and that was deliberate",
-    summaryJa: "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
-    bodyOriginal: `Faisal Islam: This Budget was micro and that was deliberate
-- Published
-It was not a mini Budget, but it was rather small. It might be called the "micro Budget".
-Small does not necessarily mean bad, but it clearly falls short of radical action to create a promised new economic model.
-A new "theory of growth" was not unveiled as promised by the prime minister Andy Burnham.
-It was preamble, roadmap, consultation, perhaps the starter to the main course, which appears to be the PM's 10-year plan next month.
-It went unsaid, but the clear stategic aim of Healey's statement was to be the "anti-mini Budget".
-This "steady as she goes" predictable fiscal event set out to avoid the aftermath seen following Liz Truss's mini-budget, in which unexpected and unfunded tax cuts spooked the bond and currency markets.
-The markets didn't even flicker on Healey's announcement of £65bn of extra borrowing over the next five years - government interest costs have actually fallen since Wednesday, against the backdrop of market turmoil due to the US-Iran war.
-The core of the Budget was to get Downing Street through the impacts of the Middle East conflict shock on energy and borrowing costs.
-If these pressures prove enduring there are some unpalatable decisions that will have to be grasped within the next year. The can will have to be picked up rather than kicked down the road again.
-It buys more time, more "breathing space", as it were, for the government and the prime minister's long-term strategic plans.
-The detail may come more quickly than feared. On welfare, the Milburn Review process is clearly heading for some sort of welfare-to-work scheme, even a separate system for younger workers.
-It will cost money up front to subsidise work opportunities and hope to save more from welfare bills in the future. The chancellor saw at close quarters Gordon Brown do this twice two decades ago.
-The Office for Budget Responsbility's (OBR) economic forecast showed the sheer rise in the welfare bill, which is set to jump to £431bn in 2031, if pensioner support is included.
-There are two further areas where the chancellor laid down markers, with little fiscal cost, in terms of the long term plan.
-On energy, there is some significance to the "cheaper power" mission announced, reshaping what had previously been a focus on clean power.
-While still committed to Net Zero, a series of technical changes to powers over levies and renewable auctions, will seek to turn the tide on additional pressures on energy costs.
-On devolution, the plan to allow local mayors to keep some extra business rate and income tax revenues, are more radical than expected.
-There are trade offs here, but it essentially provides incentives for regional leaders to grow their economies, workforce and tax base, that are normal elsewhere, but have not existed in the UK's very centralised tax system.
-How the PM will square other aspects of his "theory of growth" with the chancellor's spending constraints is the other significant challenge.
-Can he announce a 10-year plan without detailing the Liverpool to Manchester high speed train line, or a rebirth of some cancelled HS2 lines he championed a year ago?
-Away from the long term, the OBR forecast point to a very tricky economic backdrop until the spring, and a trickier spending review, given the need to accommodate the new defence target of 3% of national income by 2030.
-The PM's insistence he will not call an election for a year are eminently believable given the risk of 5% inflation and declining household income.
-A "focused" Budget at an uncertain time achieved its narrow aim of a bit of "breathing space" for households and also for the government itself.
-But the evident gaps in the Budget will need filling in come the PM's upcoming 10-year plan.`,
-    bodyJa: `Faisal Islam: This Budget was micro and that was deliberate
-- Published
-It was not a mini Budget, but it was rather small. It might be called the "micro Budget".
-Small does not necessarily mean bad, but it clearly falls short of radical action to create a promised new economic model.
-A new "theory of growth" was not unveiled as promised by the prime minister Andy Burnham.
-It was preamble, roadmap, consultation, perhaps the starter to the main course, which appears to be the PM's 10-year plan next month.
-It went unsaid, but the clear stategic aim of Healey's statement was to be the "anti-mini Budget".
-This "steady as she goes" predictable fiscal event set out to avoid the aftermath seen following Liz Truss's mini-budget, in which unexpected and unfunded tax cuts spooked the bond and currency markets.
-The markets didn't even flicker on Healey's announcement of £65bn of extra borrowing over the next five years - government interest costs have actually fallen since Wednesday, against the backdrop of market turmoil due to the US-Iran war.
-The core of the Budget was to get Downing Street through the impacts of the Middle East conflict shock on energy and borrowing costs.
-If these pressures prove enduring there are some unpalatable decisions that will have to be grasped within the next year. The can will have to be picked up rather than kicked down the road again.
-It buys more time, more "breathing space", as it were, for the government and the prime minister's long-term strategic plans.
-The detail may come more quickly than feared. On welfare, the Milburn Review process is clearly heading for some sort of welfare-to-work scheme, even a separate system for younger workers.
-It will cost money up front to subsidise work opportunities and hope to save more from welfare bills in the future. The chancellor saw at close quarters Gordon Brown do this twice two decades ago.
-The Office for Budget Responsbility's (OBR) economic forecast showed the sheer rise in the welfare bill, which is set to jump to £431bn in 2031, if pensioner support is included.
-There are two further areas where the chancellor laid down markers, with little fiscal cost, in terms of the long term plan.
-On energy, there is some significance to the "cheaper power" mission announced, reshaping what had previously been a focus on clean power.
-While still committed to Net Zero, a series of technical changes to powers over levies and renewable auctions, will seek to turn the tide on additional pressures on energy costs.
-On devolution, the plan to allow local mayors to keep some extra business rate and income tax revenues, are more radical than expected.
-There are trade offs here, but it essentially provides incentives for regional leaders to grow their economies, workforce and tax base, that are normal elsewhere, but have not existed in the UK's very centralised tax system.
-How the PM will square other aspects of his "theory of growth" with the chancellor's spending constraints is the other significant challenge.
-Can he announce a 10-year plan without detailing the Liverpool to Manchester high speed train line, or a rebirth of some cancelled HS2 lines he championed a year ago?
-Away from the long term, the OBR forecast point to a very tricky economic backdrop until the spring, and a trickier spending review, given the need to accommodate the new defence target of 3% of national income by 2030.
-The PM's insistence he will not call an election for a year are eminently believable given the risk of 5% inflation and declining household income.
-A "focused" Budget at an uncertain time achieved its narrow aim of a bit of "breathing space" for households and also for the government itself.
-But the evident gaps in the Budget will need filling in come the PM's upcoming 10-year plan.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-29T15:48:44+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ec0/live/8d883540-d3a3-11f1-a5cd-49637fcbd4e4.jpg",
-    readTime: 9,
-  },
-  {
-    id: "painful-years-ahead-think-tanks-warn-as-7646b406",
-    title: "'Painful' years ahead, think tanks warn, as living standards set to fall",
-    titleJa: "'Painful' years ahead, think tanks warn, as living standards set to fall",
-    summaryJa: "'Painful' years ahead, think tanks warn, as living standards set to fall- Published",
-    bodyOriginal: `'Painful' years ahead, think tanks warn, as living standards set to fall
-- Published
-People are facing a "painful" and "depressing" few years ahead, economic think tanks have warned, after forecasts showed growth in living standards grinding almost to a halt.
-Typical working-age households would see their disposable income fall by £1,050, or 3%, between now and 2029, according to the Resolution Foundation, while the Institute for Fiscal Studies (IFS) said the current decade would be the worst for household income growth on record.
-Chancellor John Healey said his Budget offered "breathing space", but said the government could "never remove completely" cost of living pressures.
-The UK's official forecaster said its latest economic forecast painted a "pretty grim picture".
-The Office for Budget Responsibility (OBR), blamed the difficult financial situation facing the UK on higher borrowing costs and inflation caused by the US-Iran war.
-In response to rising energy prices, Healey has announced measures, including a £100 support payment, aimed at easing pressure on household finances.
-But that would not be enough to offset the impact of higher energy bills, the Resolution Foundation said.
-"This parliament is increasingly looking like one of two halves," said the think tank's chief executive, Ruth Curtice.
-"The first half has been marked by rising living standards, solid economic growth and extra funding for public services," she said.
-However, the second half of the parliament would be "tough going", she said.
-Treasury will not commit to reducing welfare bill before next election
-- Published11 hours ago
-What we now know about the UK economy in four charts
-- Published1 day ago
-Your pay, energy bills and savings: How the Budget affects you
-- Published7 hours ago
-In response to this "painful" situation the government had provided a "scattergun" Budget that did not do enough to address the challenges facing the country, Curtice said.
-Over the course of this parliament, incomes for non-pensioner households, after taxes, benefits, and housing costs are taken into account, will have risen by "a paltry" £600, the Resolution Foundation said, with the gains "already behind us".
-Even after the extra support provided by the government, households will be left paying higher energy bills than during the last energy crisis in 2022, according to its analysis.
-The Resolution Foundation said the support should have been more targeted at the poorest households.
-Lost decade
-Alongside the Budget the OBR issued its economic forecast indicating a slowdown in GDP growth from 1.2% in 2026 to 1% in 2027.
-The forecast for next year is sharply lower than what was predicted at their last assessment in March.
-The OBR also put its forecast for inflation for 2027 up from 2% to 3.4%.
-Frozen tax thresholds are also eating into people's take-home pay.
-However, the OBR also emphasised the difficulties in economic forecasting, highlighting uncertainty over the future path of inflation, in particular, which could turn out to be either significantly higher or lower than their predictions.
-While the Resolution Foundation focused its forecast for living standards on working age households, the OBR looks at all households, including pensioners and reflects a 10-year rolling average growth to take into account short-term fluctuations.
-The OBR found that by the end of the decade living standards for all households would have barely grown, by less than 0.1% per year.
-Helen Miller, director of the influential think tank, the Institute for Fiscal Studies (IFS) said the outlook was "depressing".
-"This decade looks set to be the worst decade for growth in household incomes on record," she said.
-"No amount of temporary cost of living packages will fix that. We need a stronger economy."
-'Fragile' finances
-There would also be growing pressure on the government's spending plans over the parliament, Miller added.
-"Spending plans look extremely tight. They don't look to me like plans that this government would want to deliver," she said.
-"Whether or not they are delivered matters because the spending plans underpin the plan to bring down borrowing," she added.
-Miller said she was left with the impression that Healey was hoping the economy would improve to take the pressure off those spending decisions.
-Healey, speaking on the BBC's Today Programme, said "economic storms", including the Iran war and Russia's invasion of Ukraine, were affecting countries around the world and the government was seeking to help where it could.
-He said energy bill help would create "breathing space" for most households.
-Around 20 million households are set to receive the £100 payment based on which council tax band they are in.
-But Conservative shadow chancellor Andrew Griffith said the Budget had left the public finances "more fragile" as Healey had reduced the "headroom" or the buffer that the country has between what it takes in revenues and what it spends.
-Liberal Democrat leader Ed Davey said the £100 energy payment would be identified as the best item in the Budget for many people, but said that it was "not good enough" when you considered the "stealth tax rises" that were taking money out of people's pay packets.
-Get in touch
-Are you affected by issues covered in this story? Share your experiences.`,
-    bodyJa: `'Painful' years ahead, think tanks warn, as living standards set to fall
-- Published
-People are facing a "painful" and "depressing" few years ahead, economic think tanks have warned, after forecasts showed growth in living standards grinding almost to a halt.
-Typical working-age households would see their disposable income fall by £1,050, or 3%, between now and 2029, according to the Resolution Foundation, while the Institute for Fiscal Studies (IFS) said the current decade would be the worst for household income growth on record.
-Chancellor John Healey said his Budget offered "breathing space", but said the government could "never remove completely" cost of living pressures.
-The UK's official forecaster said its latest economic forecast painted a "pretty grim picture".
-The Office for Budget Responsibility (OBR), blamed the difficult financial situation facing the UK on higher borrowing costs and inflation caused by the US-Iran war.
-In response to rising energy prices, Healey has announced measures, including a £100 support payment, aimed at easing pressure on household finances.
-But that would not be enough to offset the impact of higher energy bills, the Resolution Foundation said.
-"This parliament is increasingly looking like one of two halves," said the think tank's chief executive, Ruth Curtice.
-"The first half has been marked by rising living standards, solid economic growth and extra funding for public services," she said.
-However, the second half of the parliament would be "tough going", she said.
-Treasury will not commit to reducing welfare bill before next election
-- Published11 hours ago
-What we now know about the UK economy in four charts
-- Published1 day ago
-Your pay, energy bills and savings: How the Budget affects you
-- Published7 hours ago
-In response to this "painful" situation the government had provided a "scattergun" Budget that did not do enough to address the challenges facing the country, Curtice said.
-Over the course of this parliament, incomes for non-pensioner households, after taxes, benefits, and housing costs are taken into account, will have risen by "a paltry" £600, the Resolution Foundation said, with the gains "already behind us".
-Even after the extra support provided by the government, households will be left paying higher energy bills than during the last energy crisis in 2022, according to its analysis.
-The Resolution Foundation said the support should have been more targeted at the poorest households.
-Lost decade
-Alongside the Budget the OBR issued its economic forecast indicating a slowdown in GDP growth from 1.2% in 2026 to 1% in 2027.
-The forecast for next year is sharply lower than what was predicted at their last assessment in March.
-The OBR also put its forecast for inflation for 2027 up from 2% to 3.4%.
-Frozen tax thresholds are also eating into people's take-home pay.
-However, the OBR also emphasised the difficulties in economic forecasting, highlighting uncertainty over the future path of inflation, in particular, which could turn out to be either significantly higher or lower than their predictions.
-While the Resolution Foundation focused its forecast for living standards on working age households, the OBR looks at all households, including pensioners and reflects a 10-year rolling average growth to take into account short-term fluctuations.
-The OBR found that by the end of the decade living standards for all households would have barely grown, by less than 0.1% per year.
-Helen Miller, director of the influential think tank, the Institute for Fiscal Studies (IFS) said the outlook was "depressing".
-"This decade looks set to be the worst decade for growth in household incomes on record," she said.
-"No amount of temporary cost of living packages will fix that. We need a stronger economy."
-'Fragile' finances
-There would also be growing pressure on the government's spending plans over the parliament, Miller added.
-"Spending plans look extremely tight. They don't look to me like plans that this government would want to deliver," she said.
-"Whether or not they are delivered matters because the spending plans underpin the plan to bring down borrowing," she added.
-Miller said she was left with the impression that Healey was hoping the economy would improve to take the pressure off those spending decisions.
-Healey, speaking on the BBC's Today Programme, said "economic storms", including the Iran war and Russia's invasion of Ukraine, were affecting countries around the world and the government was seeking to help where it could.
-He said energy bill help would create "breathing space" for most households.
-Around 20 million households are set to receive the £100 payment based on which council tax band they are in.
-But Conservative shadow chancellor Andrew Griffith said the Budget had left the public finances "more fragile" as Healey had reduced the "headroom" or the buffer that the country has between what it takes in revenues and what it spends.
-Liberal Democrat leader Ed Davey said the £100 energy payment would be identified as the best item in the Budget for many people, but said that it was "not good enough" when you considered the "stealth tax rises" that were taking money out of people's pay packets.
-Get in touch
-Are you affected by issues covered in this story? Share your experiences.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-29T13:19:24+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7565/live/8d520610-d3cf-11f1-b441-2b33b063138f.jpg",
     readTime: 10,
   },
 ];
