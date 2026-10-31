@@ -15,6 +15,192 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "trump-defamation-suit-against-murdoch-ws-db615d43",
+    title: "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+    titleJa: "Trump defamation suit against Murdoch, WSJ over Epstein letter dismissed with prejudice",
+    summaryJa: "By dismissing the suit with prejudice, Trump can't file another amended version in district court. Trump's legal team said the president plans to appeal.",
+    bodyOriginal: `A federal judge on Saturday dismissed President Donald Trump's defamation lawsuit against media baron Rupert Murdoch and The Wall Street Journal over the newspaper's reporting on a purported 50th birthday letter to notorious sex offender Jeffrey Epstein.
+U.S. District Judge Darrin Gayles in Miami ruled that Trump again failed to plausibly allege that the newspaper and other defendants acted with actual malice when they published the story in July 2025.
+"Grasping at straws, the Amended Complaint attempts to manufacture flaws with the investigation," Gayles wrote in the 20-page ruling, which dismissed the lawsuit with prejudice.
+The judge said the Journal had conducted a "thoughtful and detailed investigation" and rejected Trump's argument that the newspaper should not have published the story after he denied writing the letter.
+Gayles did not determine whether Trump actually authored the disputed letter.
+The ruling comes roughly six months after the court first dismissed the $10 billion lawsuit against Murdoch and the newspaper, which he owns.
+By dismissing the suit with prejudice, Trump cannot file another amended version of the lawsuit in the district court. However, a spokesman for Trump's legal team told CNBC on Saturday that the president plans to appeal the ruling.
+"President Trump will continue to press forward in his powerhouse lawsuit against the Wall Street Journal and all of the other defendants. The President will continue to hold those who mislead the American People with Fake News and smears accountable for their actions," the spokesman said in a statement.
+Spokespeople or legal representatives for the Journal and Murdoch did not immediately respond to a request for comment.
+Judge Gayles, as he did when dismissing the suit for the first time, noted Trump, who has adamantly denied sending the letter to his then-friend Epstein in 2003, had "not plausibly alleged that the Defendants published the Article with actual malice."
+"As with his first attempt, he has failed," Gayles' Saturday ruling reads. "Grasping at straws, the Amended Complaint attempts to manufacture flaws with the investigation."
+Plaintiffs who are public figures like Trump must show that a defendant acted with actual malice when making allegedly defamatory statements, according to legal precedent.
+The amended lawsuit contained new details and claims, including that Murdoch told Trump "I will handle it" on a phone call about an article describing a birthday letter to Epstein that allegedly bore Trump's signature, Newsweek previously reported.
+Gayles rejected each of Trump's arguments in the amended complaint, including that the Journal did not adequately investigate the letter, omitted relevant details, and published the letter after the president and his representatives denied it was authentic.
+Gayles said the last argument would effectively allow public figures to block unfavorable reporting, which "runs afoul of the First Amendment" that protects freedom of speech and the press.
+The Saturday ruling is the latest setback in litigation between Trump and the media. A different federal judge on Oct. 22 ordered Trump to sit for a deposition in his $10 billion defamation lawsuit against the BBC by Dec. 11.
+The Journal published an article on July 17, 2025, saying a letter bearing Trump's signature was included in an album of letters Epstein was giving for his 50th birthday. The article said Trump sent the letter at the request of Epstein's close friend, Ghislaine Maxwell, who two decades later was convicted of procuring underage girls to be sexually abused by Epstein.
+The Journal noted that the letter "contains several lines of typewritten text framed by the outline of a naked woman, which appears to be hand-drawn with a heavy marker."
+"A pair of small arcs denotes the woman's breasts, and the future president's signature is a squiggly 'Donald' below her waist, mimicking pubic hair," Journal reporters Khadeeja Safdar and Joe Palazzolo said in the article.
+"The letter concludes: 'Happy Birthday — and may every day be another wonderful secret,'" they wrote.
+Trump angrily denied writing the letter, saying, "This is not me. This is a fake thing."'
+"I never wrote a picture in my life. I don't draw pictures of women," the president said at the time.`,
+    bodyJa: `A federal judge on Saturday dismissed President Donald Trump's defamation lawsuit against media baron Rupert Murdoch and The Wall Street Journal over the newspaper's reporting on a purported 50th birthday letter to notorious sex offender Jeffrey Epstein.
+U.S. District Judge Darrin Gayles in Miami ruled that Trump again failed to plausibly allege that the newspaper and other defendants acted with actual malice when they published the story in July 2025.
+"Grasping at straws, the Amended Complaint attempts to manufacture flaws with the investigation," Gayles wrote in the 20-page ruling, which dismissed the lawsuit with prejudice.
+The judge said the Journal had conducted a "thoughtful and detailed investigation" and rejected Trump's argument that the newspaper should not have published the story after he denied writing the letter.
+Gayles did not determine whether Trump actually authored the disputed letter.
+The ruling comes roughly six months after the court first dismissed the $10 billion lawsuit against Murdoch and the newspaper, which he owns.
+By dismissing the suit with prejudice, Trump cannot file another amended version of the lawsuit in the district court. However, a spokesman for Trump's legal team told CNBC on Saturday that the president plans to appeal the ruling.
+"President Trump will continue to press forward in his powerhouse lawsuit against the Wall Street Journal and all of the other defendants. The President will continue to hold those who mislead the American People with Fake News and smears accountable for their actions," the spokesman said in a statement.
+Spokespeople or legal representatives for the Journal and Murdoch did not immediately respond to a request for comment.
+Judge Gayles, as he did when dismissing the suit for the first time, noted Trump, who has adamantly denied sending the letter to his then-friend Epstein in 2003, had "not plausibly alleged that the Defendants published the Article with actual malice."
+"As with his first attempt, he has failed," Gayles' Saturday ruling reads. "Grasping at straws, the Amended Complaint attempts to manufacture flaws with the investigation."
+Plaintiffs who are public figures like Trump must show that a defendant acted with actual malice when making allegedly defamatory statements, according to legal precedent.
+The amended lawsuit contained new details and claims, including that Murdoch told Trump "I will handle it" on a phone call about an article describing a birthday letter to Epstein that allegedly bore Trump's signature, Newsweek previously reported.
+Gayles rejected each of Trump's arguments in the amended complaint, including that the Journal did not adequately investigate the letter, omitted relevant details, and published the letter after the president and his representatives denied it was authentic.
+Gayles said the last argument would effectively allow public figures to block unfavorable reporting, which "runs afoul of the First Amendment" that protects freedom of speech and the press.
+The Saturday ruling is the latest setback in litigation between Trump and the media. A different federal judge on Oct. 22 ordered Trump to sit for a deposition in his $10 billion defamation lawsuit against the BBC by Dec. 11.
+The Journal published an article on July 17, 2025, saying a letter bearing Trump's signature was included in an album of letters Epstein was giving for his 50th birthday. The article said Trump sent the letter at the request of Epstein's close friend, Ghislaine Maxwell, who two decades later was convicted of procuring underage girls to be sexually abused by Epstein.
+The Journal noted that the letter "contains several lines of typewritten text framed by the outline of a naked woman, which appears to be hand-drawn with a heavy marker."
+"A pair of small arcs denotes the woman's breasts, and the future president's signature is a squiggly 'Donald' below her waist, mimicking pubic hair," Journal reporters Khadeeja Safdar and Joe Palazzolo said in the article.
+"The letter concludes: 'Happy Birthday — and may every day be another wonderful secret,'" they wrote.
+Trump angrily denied writing the letter, saying, "This is not me. This is a fake thing."'
+"I never wrote a picture in my life. I don't draw pictures of women," the president said at the time.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/31/trump-murdoch-wsj-epstein-defamation-lawsuit-dismissed.html",
+    publishedAt: "2026-10-31T21:05:53+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "my-abusive-ex-husband-promised-20-000-fo-5f9214bf",
+    title: "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+    titleJa: "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+    summaryJa: "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
+    bodyOriginal: `“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”`,
+    bodyJa: `“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+    publishedAt: "2026-10-31T20:15:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-95596293",
+    readTime: 2,
+  },
+  {
+    id: "spacex-loses-bid-to-toss-naacp-lawsuit-o-43b980dc",
+    title: "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+    titleJa: "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
+    summaryJa: "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.",
+    bodyOriginal: `SpaceX's AI division, SpaceXAI, lost its bid to dismiss an NAACP lawsuit, which is proceeding in federal court in Mississippi, according to a judge's opinion released late Friday.
+The lawsuit claims that the AI division of CEO Elon Musk's aerospace and defense tech conglomerate violated the Clean Air Act with its use of gas-fired combustion turbines to power its massive AI data centers in Greater Memphis.
+The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.
+The Southern Environmental Law Center and Earthjustice filed the suit on behalf of the NAACP in the U.S. District Court for the Northern District of Mississippi in April 2026.
+The suit alleges that between August and December 2025, xAI and its subsidiary MZX Tech, installed and operated 27 gas turbines in Southaven, Mississippi, "without an air permit or regard for the health and safety of people living nearby."
+(SpaceXAI is owned and operated by SpaceX, which has rebranded it as SpaceXAI or SpaceXSI.)
+The turbines emit smog-forming pollutants and particulate matter that can increase health risks and cause an unpleasant odor, among other unwanted impacts, according to the suit.
+Lawyers for SpaceXAI argued in their motion to dismiss, filed in June, that the NAACP suit should be tossed because the company's use of the turbines, which it characterized as "mobile," was exempt from permitting requirements. They also argued that NAACP didn't have a right to sue under the federal Clean Air Act, and suits by such community groups were unconstitutional.
+The judge presiding over the case rejected those arguments, writing: "Because the plaintiffs have statutory standing under the Clean Air Act, because the combustion turbines are not 'mobile sources' under Mississippi's SIP, and because the citizen suit provision does not violate Article II of the Constitution or the private nondelegation doctrine, the plaintiffs' claims will proceed."
+The decision comes about two weeks after the same court rejected a Department of Justice's request to end the case against Musk's company.
+SpaceX did not immediately respond to a request for comment.`,
+    bodyJa: `SpaceX's AI division, SpaceXAI, lost its bid to dismiss an NAACP lawsuit, which is proceeding in federal court in Mississippi, according to a judge's opinion released late Friday.
+The lawsuit claims that the AI division of CEO Elon Musk's aerospace and defense tech conglomerate violated the Clean Air Act with its use of gas-fired combustion turbines to power its massive AI data centers in Greater Memphis.
+The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.
+The Southern Environmental Law Center and Earthjustice filed the suit on behalf of the NAACP in the U.S. District Court for the Northern District of Mississippi in April 2026.
+The suit alleges that between August and December 2025, xAI and its subsidiary MZX Tech, installed and operated 27 gas turbines in Southaven, Mississippi, "without an air permit or regard for the health and safety of people living nearby."
+(SpaceXAI is owned and operated by SpaceX, which has rebranded it as SpaceXAI or SpaceXSI.)
+The turbines emit smog-forming pollutants and particulate matter that can increase health risks and cause an unpleasant odor, among other unwanted impacts, according to the suit.
+Lawyers for SpaceXAI argued in their motion to dismiss, filed in June, that the NAACP suit should be tossed because the company's use of the turbines, which it characterized as "mobile," was exempt from permitting requirements. They also argued that NAACP didn't have a right to sue under the federal Clean Air Act, and suits by such community groups were unconstitutional.
+The judge presiding over the case rejected those arguments, writing: "Because the plaintiffs have statutory standing under the Clean Air Act, because the combustion turbines are not 'mobile sources' under Mississippi's SIP, and because the citizen suit provision does not violate Article II of the Constitution or the private nondelegation doctrine, the plaintiffs' claims will proceed."
+The decision comes about two weeks after the same court rejected a Department of Justice's request to end the case against Musk's company.
+SpaceX did not immediately respond to a request for comment.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
+    publishedAt: "2026-10-31T20:12:37+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "openai-pares-fundraising-goal-now-seekin-74bd2494",
+    title: "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+    titleJa: "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+    summaryJa: "The funding round is still in progress and has not closed, so the figures are subject to change, a person directly familiar with the deal told CNBC.",
+    bodyOriginal: `OpenAI is seeking to raise up to $20 billion in a new funding round, CNBC confirmed on Saturday, paring back its earlier target of up to $30 billion.
+The funding round is still in progress and has not closed, so the figures are subject to change, a person directly familiar with the deal told CNBC, asking to remain unnamed as they were not authorized to discuss the details publicly.
+OpenAI did not immediately respond to a request for comment.
+The Financial Times first reported that OpenAI had reduced its target for the round by $10 billion, and said the company would seek a post-money valuation of $1.25 trillion. According to FT, the ChatGPT developer set a Friday deadline for investors to commit to the newest round, with some investors opting to reduce their allocations.
+Investors from the United Arab Emirates are leading the round alongside Coatue, as CNBC previously reported.
+News that the ChatGPT developer slashed its funding round follows a week when investors asked whether big tech firms' spending on AI, especially to build out data centers and snap up GPUs, will deliver adequate returns.
+AI-linked stocks sank on Friday, with chip maker Intel down 25% on lackluster revenue guidance, Micron down 5.5%, and Nvidia falling 4%.
+Microsoft, Alphabet's Google and Amazon have been on a spending blitz in recent years to meet the surge in demand for AI infrastructure, but all three issued capex figures or forecasts last week that came in below analysts' estimates.
+Alphabet saw its worst trading day ever on Thursday after its search revenue fell short of expectations. Philipp Schindler, the company's chief business officer, said the impact on search was partly because of lower monetization within the company's AI Mode.`,
+    bodyJa: `OpenAI is seeking to raise up to $20 billion in a new funding round, CNBC confirmed on Saturday, paring back its earlier target of up to $30 billion.
+The funding round is still in progress and has not closed, so the figures are subject to change, a person directly familiar with the deal told CNBC, asking to remain unnamed as they were not authorized to discuss the details publicly.
+OpenAI did not immediately respond to a request for comment.
+The Financial Times first reported that OpenAI had reduced its target for the round by $10 billion, and said the company would seek a post-money valuation of $1.25 trillion. According to FT, the ChatGPT developer set a Friday deadline for investors to commit to the newest round, with some investors opting to reduce their allocations.
+Investors from the United Arab Emirates are leading the round alongside Coatue, as CNBC previously reported.
+News that the ChatGPT developer slashed its funding round follows a week when investors asked whether big tech firms' spending on AI, especially to build out data centers and snap up GPUs, will deliver adequate returns.
+AI-linked stocks sank on Friday, with chip maker Intel down 25% on lackluster revenue guidance, Micron down 5.5%, and Nvidia falling 4%.
+Microsoft, Alphabet's Google and Amazon have been on a spending blitz in recent years to meet the surge in demand for AI infrastructure, but all three issued capex figures or forecasts last week that came in below analysts' estimates.
+Alphabet saw its worst trading day ever on Thursday after its search revenue fell short of expectations. Philipp Schindler, the company's chief business officer, said the impact on search was partly because of lower monetization within the company's AI Mode.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+    publishedAt: "2026-10-31T19:56:23+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "showy-jewelry-and-fancy-cars-hold-no-ap-8eb15447",
+    title: "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
+    titleJa: "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
+    summaryJa: "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
+    bodyOriginal: `“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”`,
+    bodyJa: `“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+    publishedAt: "2026-10-31T19:30:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-21005604",
+    readTime: 2,
+  },
+  {
+    id: "binance-says-90-of-6-3-billion-hack-loss-0543d2ae",
+    title: "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+    titleJa: "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
+    summaryJa: "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and is planning to resume withdrawals, subject to security checks.",
+    bodyOriginal: `Binance said Saturday that it has covered up to 90% of the roughly $6.3 billion in token assets stolen from its hot wallets in a record crypto theft announced Thursday.
+Binance said it will continue to buy the remaining relevant token assets through market and over-the-counter channels until the covered amount reaches 100% for all tokens.
+"All BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, and ZEC are fully backed 100%," Binance said in a statement. "Binance will absorb the financial impact of these stolen funds, not our users."
+The exchange said the outstanding 10% consists of tokens outside its top 10 that are "less liquid, which means they may take longer to source in the required amounts."
+Binance said it is tapping its Secure Asset Fund for Users (SAFU), a portion of its Futures insurance fund, and its corporate treasury to replenish the assets.
+"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident. We will continue to demonstrate this commitment through measurable progress, transparent reporting, and concrete actions," Binance said.
+Its "next milestone" will be resuming withdrawal services for users by Sunday, subject to security checks, while the exchange continues its investigation into the attack, it said.
+Binance declined to discuss additional details or updates on its investigation to CNBC, referring questions to its latest statement.
+It still isn't clear how the attack — the largest crypto theft on record — took place.
+The world's largest crypto exchange initially said the hack may involve "a compromised DevOps engineer's laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions." However, Co-CEO Richard Teng later said the attack involved a more complex process rather than the misuse of a single engineer's permissions.
+It also wasn't clear who was responsible for the breach. But TRM Labs, a blockchain intelligence and AI investigations company, pointed to North Korean hackers as the potential culprits.
+"Several features of this attack match earlier North Korea-linked heists, including the Bybit hack and the KelpDAO hack in April 2026: small Tornado Cash withdrawals funding an operator wallet, staging that began well before the theft, and signatures obtained in advance then executed in one burst," the company said.
+— CNBC's Jenny Lee, Liz Napolitano and Davis Giangiulio contributed to this report.`,
+    bodyJa: `Binance said Saturday that it has covered up to 90% of the roughly $6.3 billion in token assets stolen from its hot wallets in a record crypto theft announced Thursday.
+Binance said it will continue to buy the remaining relevant token assets through market and over-the-counter channels until the covered amount reaches 100% for all tokens.
+"All BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, and ZEC are fully backed 100%," Binance said in a statement. "Binance will absorb the financial impact of these stolen funds, not our users."
+The exchange said the outstanding 10% consists of tokens outside its top 10 that are "less liquid, which means they may take longer to source in the required amounts."
+Binance said it is tapping its Secure Asset Fund for Users (SAFU), a portion of its Futures insurance fund, and its corporate treasury to replenish the assets.
+"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident. We will continue to demonstrate this commitment through measurable progress, transparent reporting, and concrete actions," Binance said.
+Its "next milestone" will be resuming withdrawal services for users by Sunday, subject to security checks, while the exchange continues its investigation into the attack, it said.
+Binance declined to discuss additional details or updates on its investigation to CNBC, referring questions to its latest statement.
+It still isn't clear how the attack — the largest crypto theft on record — took place.
+The world's largest crypto exchange initially said the hack may involve "a compromised DevOps engineer's laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions." However, Co-CEO Richard Teng later said the attack involved a more complex process rather than the misuse of a single engineer's permissions.
+It also wasn't clear who was responsible for the breach. But TRM Labs, a blockchain intelligence and AI investigations company, pointed to North Korean hackers as the potential culprits.
+"Several features of this attack match earlier North Korea-linked heists, including the Bybit hack and the KelpDAO hack in April 2026: small Tornado Cash withdrawals funding an operator wallet, staging that began well before the theft, and signatures obtained in advance then executed in one burst," the company said.
+— CNBC's Jenny Lee, Liz Napolitano and Davis Giangiulio contributed to this report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
+    publishedAt: "2026-10-31T19:16:25+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 6,
+  },
+  {
     id: "evacuees-from-russia-occupied-city-where-ee04dd62",
     title: "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
     titleJa: "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
@@ -79,6 +265,160 @@ Related topics
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ec/live/4e7bd090-d516-11f1-93e1-3b657b665bcf.jpg",
     readTime: 9,
+  },
+  {
+    id: "pop-up-super-pacs-pour-637-million-into-40b41976",
+    title: "‘Pop-up’ super PACs pour $637 million into 2026 midterm races",
+    titleJa: "‘Pop-up’ super PACs pour $637 million into 2026 midterm races",
+    summaryJa: "Twenty-two late-forming super PACs spent about $637 million in 2026 congressional races, sometimes before voters could see their donors.",
+    bodyOriginal: `A super PAC called Our Heritage Matters registered with the Federal Election Commission on Oct. 15.
+Five days later, it began spending to boost third-party candidates and attack Republicans. By Oct. 29, the group had spent about $1.2 million across 10 House and Senate races, according to a CNBC analysis of FEC filings.
+What voters still cannot see is who supplied the money.
+Because Our Heritage Matters formed after a key campaign finance reporting deadline on Oct. 15, its first regular report identifying its donors is not due until Dec. 3, a month after Election Day.
+The group is an extreme example of a broader surge reshaping the midterm election: late-forming super PACs, including the latest-forming "pop-up PACs," pouring money into races before voters know where it came from.
+Federal law requires super PACs and political committees to report large independent expenditures within 24 or 48 hours depending on how close to Election Day the spending occurs, showing how much they spent and which candidates they supported or opposed. Their donors, however, are disclosed less frequently through periodic campaign finance reports.
+And in 2026, the practice of creating new, last-minute PACs has exploded. Both parties are using the tactic, with Republican-linked PACs spending about twice what those connected with Democrats have disbursed.
+Twenty-two super PACs that registered with the FEC during the final 10 weeks before Election Day have each spent at least $1 million on congressional races, according to CNBC's analysis. Together, they had reported roughly $637 million in independent expenditures by Oct. 29 — about one-sixth of all independent spending reported in House and Senate races this election cycle.
+The number of million-dollar late-forming super PACs has more than quadrupled since 2022, while their spending has grown nearly 35-fold.
+At the same point in the 2022 midterms, just five comparable groups had spent about $18 million combined, according to CNBC's analysis. In 2018, three had spent about $12 million. The total has even eclipsed the past two presidential elections, when comparable late-forming super PACs spent less than $50 million combined on congressional races in both 2020 and 2024, according to CNBC's analysis.
+"The reason for this is almost entirely to avoid disclosure, even if just temporarily," said Michael Kang, a Northwestern Pritzker School of Law professor who studies campaign finance. "Many times, if the donors were known, then it would undercut their cause."
+CNBC's analysis includes super PACs formed in the final 10 weeks before Election Day that spent at least $1 million on House or Senate races by Oct. 29. Spending includes regular FEC filings and 24- and 48-hour reports, with duplicates removed.
+From zero to millions in late-forming PAC spending
+One of the defining features of late-forming super PACs is speed.
+Among the 22 groups in CNBC's analysis, 18 began spending within 30 days of launching, and almost all started spending before filing their first regular campaign finance report showing where their money came from.
+“It’s happening more often, and they’re spending more money doing it because it works, and they’re getting away with it,” said Saurav Ghosh, director of federal campaign finance reform at the Campaign Legal Center. The group is a nonpartisan nonprofit founded by a former Republican FEC chairman.
+Despite their late start, the groups accounted for more than 22% of independent expenditures in congressional races during CNBC's 2026 window, up from less than 2% at the same point in each of the previous two midterms.
+Many are new only on paper. CNBC found financial or organizational ties between nine of the 22 groups and established political networks.
+Lower Costs Now, for example, formed on Sept. 10 and disclosed an affiliation with the Future Forward PAC, the main outside group that backed former Vice President Kamala Harris' 2024 presidential campaign. Nineteen days later, Lower Costs Now began spending in Senate races.
+But voters did not get a fuller picture of its financing until Oct. 15, when its first regular financial report showed that Senate Majority PAC, the main super PAC working to elect Senate Democrats, had given the group $23 million, according to FEC filings.
+By Thursday, Lower Costs Now had reported about $75.5 million in independent expenditures across eight Senate contests, including Iowa, Texas, Kansas and Ohio, according to CNBC's analysis.
+Republicans have used the same playbook.
+No Going Back PAC formed Sept. 1 and began spending three days later. Public reporting soon linked it to MAGA Inc., President Donald Trump's marquee super PAC. But its formal financial report did not arrive until Oct. 20 — more than six weeks after the spending began.
+By then, No Going Back had already spent roughly $187.8 million, according to FEC filings, which revealed that MAGA Inc. had supplied the group with $200 million. By Thursday, the super PAC had spent roughly $242.2 million, according to FEC filings.
+“They are a vehicle designed to emerge from nowhere and spend a bunch of money on an election” before voters can learn “who’s supplying that money and what their motivations might be,” Ghosh said.
+PACs built for one race
+Many of the new groups are also narrowly targeted.
+Fourteen of the 22 million-dollar super PACs identified by CNBC spent all of their money in a single congressional contest.
+Take The Maine Standard. It formed Sept. 11 and began spending five days later. Since then, it has spent $8.2 million, all of it opposing Democrat Troy Jackson in Maine's Senate race, according to FEC filings.
+The Cornhusker Majority followed almost the same pattern. It formed Sept. 10, began spending Sept. 16 and has spent about $7.1 million in Nebraska's Senate race, almost all of it opposing independent Dan Osborn, according to FEC filings. Osborn is running against Republican incumbent Sen. Pete Ricketts in a tight race.
+The connection between the two groups did not appear in their regular financial reports until Oct. 15: Both were financed by Senate Leadership Fund, the GOP's main Senate super PAC.
+On the Democratic side, Texas Forever launched Sept. 24 and began spending five days later, according to FEC filings. By Thursday, it had spent about $27.5 million to help Democratic Texas Senate nominee James Talarico, according to the FEC. Unlike some other pop-up groups, however, its initial FEC filing identified the Senate Majority PAC as an affiliate.
+"A locally branded PAC doesn't necessarily hide where the money comes from, but it fragments the picture. Instead of seeing one national organization spending tens of millions of dollars across the country, voters see a series of different groups operating race by race," said Hilary Braseth, executive director of OpenSecrets, a nonpartisan nonprofit that tracks such spending.
+But even identifying the national group behind a pop-up PAC can still leave another layer of the money trail hidden.
+Texas PAC formed Aug. 28 and soon began spending to help Republican Ken Paxton in Texas' Senate race. The money flowed through the SLF, but Elon Musk's role was not public until Oct. 12, more than a month after the spending began.
+On Oct. 15, FEC filings showed Musk had given the SLF $158 million in two contributions, with the group transferring matching amounts to Texas PAC the day after each donation.
+By Oct. 29, Texas PAC had spent about $181.6 million in the race, according to FEC filings, making it one of the largest late-forming super PACs CNBC identified.
+Together, Texas PAC and No Going Back accounted for roughly two-thirds of all spending by the 22 million-dollar groups. But the surge was much broader than those two giants: Even excluding them, the remaining groups spent nearly 12 times as much as comparable late-forming super PACs did at the same point in 2022.
+"The growth is huge this year," Kang said. "Maybe you don’t want to be known this election, or want to hide away for a period while you might be unpopular, like AI is right now, but you kind of want to build a reputation for the players inside the system."`,
+    bodyJa: `A super PAC called Our Heritage Matters registered with the Federal Election Commission on Oct. 15.
+Five days later, it began spending to boost third-party candidates and attack Republicans. By Oct. 29, the group had spent about $1.2 million across 10 House and Senate races, according to a CNBC analysis of FEC filings.
+What voters still cannot see is who supplied the money.
+Because Our Heritage Matters formed after a key campaign finance reporting deadline on Oct. 15, its first regular report identifying its donors is not due until Dec. 3, a month after Election Day.
+The group is an extreme example of a broader surge reshaping the midterm election: late-forming super PACs, including the latest-forming "pop-up PACs," pouring money into races before voters know where it came from.
+Federal law requires super PACs and political committees to report large independent expenditures within 24 or 48 hours depending on how close to Election Day the spending occurs, showing how much they spent and which candidates they supported or opposed. Their donors, however, are disclosed less frequently through periodic campaign finance reports.
+And in 2026, the practice of creating new, last-minute PACs has exploded. Both parties are using the tactic, with Republican-linked PACs spending about twice what those connected with Democrats have disbursed.
+Twenty-two super PACs that registered with the FEC during the final 10 weeks before Election Day have each spent at least $1 million on congressional races, according to CNBC's analysis. Together, they had reported roughly $637 million in independent expenditures by Oct. 29 — about one-sixth of all independent spending reported in House and Senate races this election cycle.
+The number of million-dollar late-forming super PACs has more than quadrupled since 2022, while their spending has grown nearly 35-fold.
+At the same point in the 2022 midterms, just five comparable groups had spent about $18 million combined, according to CNBC's analysis. In 2018, three had spent about $12 million. The total has even eclipsed the past two presidential elections, when comparable late-forming super PACs spent less than $50 million combined on congressional races in both 2020 and 2024, according to CNBC's analysis.
+"The reason for this is almost entirely to avoid disclosure, even if just temporarily," said Michael Kang, a Northwestern Pritzker School of Law professor who studies campaign finance. "Many times, if the donors were known, then it would undercut their cause."
+CNBC's analysis includes super PACs formed in the final 10 weeks before Election Day that spent at least $1 million on House or Senate races by Oct. 29. Spending includes regular FEC filings and 24- and 48-hour reports, with duplicates removed.
+From zero to millions in late-forming PAC spending
+One of the defining features of late-forming super PACs is speed.
+Among the 22 groups in CNBC's analysis, 18 began spending within 30 days of launching, and almost all started spending before filing their first regular campaign finance report showing where their money came from.
+“It’s happening more often, and they’re spending more money doing it because it works, and they’re getting away with it,” said Saurav Ghosh, director of federal campaign finance reform at the Campaign Legal Center. The group is a nonpartisan nonprofit founded by a former Republican FEC chairman.
+Despite their late start, the groups accounted for more than 22% of independent expenditures in congressional races during CNBC's 2026 window, up from less than 2% at the same point in each of the previous two midterms.
+Many are new only on paper. CNBC found financial or organizational ties between nine of the 22 groups and established political networks.
+Lower Costs Now, for example, formed on Sept. 10 and disclosed an affiliation with the Future Forward PAC, the main outside group that backed former Vice President Kamala Harris' 2024 presidential campaign. Nineteen days later, Lower Costs Now began spending in Senate races.
+But voters did not get a fuller picture of its financing until Oct. 15, when its first regular financial report showed that Senate Majority PAC, the main super PAC working to elect Senate Democrats, had given the group $23 million, according to FEC filings.
+By Thursday, Lower Costs Now had reported about $75.5 million in independent expenditures across eight Senate contests, including Iowa, Texas, Kansas and Ohio, according to CNBC's analysis.
+Republicans have used the same playbook.
+No Going Back PAC formed Sept. 1 and began spending three days later. Public reporting soon linked it to MAGA Inc., President Donald Trump's marquee super PAC. But its formal financial report did not arrive until Oct. 20 — more than six weeks after the spending began.
+By then, No Going Back had already spent roughly $187.8 million, according to FEC filings, which revealed that MAGA Inc. had supplied the group with $200 million. By Thursday, the super PAC had spent roughly $242.2 million, according to FEC filings.
+“They are a vehicle designed to emerge from nowhere and spend a bunch of money on an election” before voters can learn “who’s supplying that money and what their motivations might be,” Ghosh said.
+PACs built for one race
+Many of the new groups are also narrowly targeted.
+Fourteen of the 22 million-dollar super PACs identified by CNBC spent all of their money in a single congressional contest.
+Take The Maine Standard. It formed Sept. 11 and began spending five days later. Since then, it has spent $8.2 million, all of it opposing Democrat Troy Jackson in Maine's Senate race, according to FEC filings.
+The Cornhusker Majority followed almost the same pattern. It formed Sept. 10, began spending Sept. 16 and has spent about $7.1 million in Nebraska's Senate race, almost all of it opposing independent Dan Osborn, according to FEC filings. Osborn is running against Republican incumbent Sen. Pete Ricketts in a tight race.
+The connection between the two groups did not appear in their regular financial reports until Oct. 15: Both were financed by Senate Leadership Fund, the GOP's main Senate super PAC.
+On the Democratic side, Texas Forever launched Sept. 24 and began spending five days later, according to FEC filings. By Thursday, it had spent about $27.5 million to help Democratic Texas Senate nominee James Talarico, according to the FEC. Unlike some other pop-up groups, however, its initial FEC filing identified the Senate Majority PAC as an affiliate.
+"A locally branded PAC doesn't necessarily hide where the money comes from, but it fragments the picture. Instead of seeing one national organization spending tens of millions of dollars across the country, voters see a series of different groups operating race by race," said Hilary Braseth, executive director of OpenSecrets, a nonpartisan nonprofit that tracks such spending.
+But even identifying the national group behind a pop-up PAC can still leave another layer of the money trail hidden.
+Texas PAC formed Aug. 28 and soon began spending to help Republican Ken Paxton in Texas' Senate race. The money flowed through the SLF, but Elon Musk's role was not public until Oct. 12, more than a month after the spending began.
+On Oct. 15, FEC filings showed Musk had given the SLF $158 million in two contributions, with the group transferring matching amounts to Texas PAC the day after each donation.
+By Oct. 29, Texas PAC had spent about $181.6 million in the race, according to FEC filings, making it one of the largest late-forming super PACs CNBC identified.
+Together, Texas PAC and No Going Back accounted for roughly two-thirds of all spending by the 22 million-dollar groups. But the surge was much broader than those two giants: Even excluding them, the remaining groups spent nearly 12 times as much as comparable late-forming super PACs did at the same point in 2022.
+"The growth is huge this year," Kang said. "Maybe you don’t want to be known this election, or want to hide away for a period while you might be unpopular, like AI is right now, but you kind of want to build a reputation for the players inside the system."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html",
+    publishedAt: "2026-10-31T12:00:01+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "automakers-like-rivian-and-ford-are-demo-1c7b0632",
+    title: "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
+    titleJa: "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
+    summaryJa: "Automakers including Ford, Rivian and GM are expanding 3D printing to make prototypes, factory tools and low-volume parts faster and at lower cost.",
+    bodyOriginal: `DETROIT — Automakers including Ford Motor and Rivian Automotive are leaning into a new type of manufacturing line: 3D printing.
+Manufacturers say it's helping them reduce costs and increase speed. The technology has been around for decades, but it's becoming more commoditized in the automotive industry, with 3D printers used to create everything from vehicle parts and accessories to tools for assembly plants and testing units for research and development labs.
+"At this point, we don't have a choice but to scale up and begin using it through all factions of Rivian," Jared Beck, head of Rivian's additive manufacturing, told CNBC during a tour of the automaker's expansive 3D-printing operations in suburban Detroit. "We're going to be democratizing 3D printing for the entire company."
+The benefits of 3D printing
+Also known as additive manufacturing, 3D printing can create three-dimensional objects from digital designs by dispensing material layer by layer, much like a traditional printer does with ink on paper. Instead of ink, the machines use a wide variety of materials such as plastics, composites, ceramics and even metals.
+Printers can range from hundreds of dollars for hobby-like devices to hundreds of thousands of dollars for specialty equipment, depending on how big the product being produced is and the material it needs. They can produce individual pieces or hundreds of smaller parts in a batch using powders and resins.
+Rivian said it has spent more than $5 million on 3D-printing machines, with the cost of materials for the operations growing to about $1.7 million annually.
+Beck said despite the costs, the machines typically pay for themselves within a year. He said the technology helps lower supplier tooling costs, streamline logistics expenses and cut production times for parts from weeks to days, if not hours.
+"It's well in the millions [for savings], but the main thing is speed for Rivian," Beck said.
+The all-electric vehicle company's latest expansion of 3D printing includes adding new machines that can build flexible silicone parts as well as installing a bay of machines at its plant in Normal, Illinois, for employees to print parts on demand.
+"3D prints should be readily available for every engineer so that they can make a part and get it in their hands as soon as possible," Beck said.
+Rivian has also used the technology for electric-motor models for fluid testing, creating screw guides for tooling and stamping press inserts and some production parts, including trim pieces to fill gaps in some early builds.
+GM, Ford
+There's a similar push underway at larger, more-established automakers like Ford and its crosstown rival General Motors, which have used 3D printing for many years, including in their massive assembly plants.
+Instead of having a bay of 3D-printing machines like at Rivian, Ford has departments for additive manufacturing at many of its plants to produce and distribute needed parts. That includes a new vending machine for 3D-printed parts for production of F-150 pickup trucks near its Dearborn, Michigan, headquarters.
+"By putting the vending machine up, all the team leaders have access," said Gregory Foresi, a Ford mechanical engineer who ran Ford's 3D-printing lab at the plant from 2024 until last month. "We're able to keep that thing stocked rather than have a bunch of parts laying around in the lab. So that's been pretty huge."
+Foresi used roughly two dozen machines to print off thousands of tools, some of which have been designed by employees, such as torque bit sockets, hood jackers and hand tools for smoothing adhesive.
+Employees can use an app to request that specific auto parts or tools be printed. Ford's 3D-printing teams help develop them or determine what to produce next, as the machining time to build different parts can range from hours to days, if not weeks.
+Foresi said creating the tools with 3D printing has allowed the automaker to uniquely design them when needed, get them faster and, in many cases, receive them at a lower cost.
+Ford also has used 3D-printed parts to help keep production running. For example, Foresi said a large machining wheel was needed to maintain assembly line production and the company was able to 3D print the part until a permanent replacement from a supplier was available.
+"They didn't perform as well, and it's not really a replacement for the ones that we were purchasing, but they kept the plant running," Foresi said.
+Ford said it expects to have 3D labs deployed at more than 23 plants by the end of this year. Its current 3D-printing program has more than 200 machines, and there are additional printers outside the official program, the company said.
+GM has used 3D-printed parts for some of its low-volume products in addition to research and development and inside plants, including recently expanding its use of industrial Stratasys printers that can cost hundreds of thousands of dollars based on use case, training and certification.
+The Detroit automaker uses 135 components that are 3D-printed for its bespoke Cadillac Celestiq as well as other components for its performance Cadillac Blackwing sedans, including a unique medallion on the manual shifter knob.
+Fadi Abro, senior global director of automotive and mobility at 3D-printing company Stratasys, said GM has been a great example of how companies can "standardize and then scale" 3D printing.
+"The material properties improved so significantly that the use cases improved," he said, noting the company works with virtually every major automaker. "From a product perspective, we have to get the technology to become faster and more accessible, in an economic sense."`,
+    bodyJa: `DETROIT — Automakers including Ford Motor and Rivian Automotive are leaning into a new type of manufacturing line: 3D printing.
+Manufacturers say it's helping them reduce costs and increase speed. The technology has been around for decades, but it's becoming more commoditized in the automotive industry, with 3D printers used to create everything from vehicle parts and accessories to tools for assembly plants and testing units for research and development labs.
+"At this point, we don't have a choice but to scale up and begin using it through all factions of Rivian," Jared Beck, head of Rivian's additive manufacturing, told CNBC during a tour of the automaker's expansive 3D-printing operations in suburban Detroit. "We're going to be democratizing 3D printing for the entire company."
+The benefits of 3D printing
+Also known as additive manufacturing, 3D printing can create three-dimensional objects from digital designs by dispensing material layer by layer, much like a traditional printer does with ink on paper. Instead of ink, the machines use a wide variety of materials such as plastics, composites, ceramics and even metals.
+Printers can range from hundreds of dollars for hobby-like devices to hundreds of thousands of dollars for specialty equipment, depending on how big the product being produced is and the material it needs. They can produce individual pieces or hundreds of smaller parts in a batch using powders and resins.
+Rivian said it has spent more than $5 million on 3D-printing machines, with the cost of materials for the operations growing to about $1.7 million annually.
+Beck said despite the costs, the machines typically pay for themselves within a year. He said the technology helps lower supplier tooling costs, streamline logistics expenses and cut production times for parts from weeks to days, if not hours.
+"It's well in the millions [for savings], but the main thing is speed for Rivian," Beck said.
+The all-electric vehicle company's latest expansion of 3D printing includes adding new machines that can build flexible silicone parts as well as installing a bay of machines at its plant in Normal, Illinois, for employees to print parts on demand.
+"3D prints should be readily available for every engineer so that they can make a part and get it in their hands as soon as possible," Beck said.
+Rivian has also used the technology for electric-motor models for fluid testing, creating screw guides for tooling and stamping press inserts and some production parts, including trim pieces to fill gaps in some early builds.
+GM, Ford
+There's a similar push underway at larger, more-established automakers like Ford and its crosstown rival General Motors, which have used 3D printing for many years, including in their massive assembly plants.
+Instead of having a bay of 3D-printing machines like at Rivian, Ford has departments for additive manufacturing at many of its plants to produce and distribute needed parts. That includes a new vending machine for 3D-printed parts for production of F-150 pickup trucks near its Dearborn, Michigan, headquarters.
+"By putting the vending machine up, all the team leaders have access," said Gregory Foresi, a Ford mechanical engineer who ran Ford's 3D-printing lab at the plant from 2024 until last month. "We're able to keep that thing stocked rather than have a bunch of parts laying around in the lab. So that's been pretty huge."
+Foresi used roughly two dozen machines to print off thousands of tools, some of which have been designed by employees, such as torque bit sockets, hood jackers and hand tools for smoothing adhesive.
+Employees can use an app to request that specific auto parts or tools be printed. Ford's 3D-printing teams help develop them or determine what to produce next, as the machining time to build different parts can range from hours to days, if not weeks.
+Foresi said creating the tools with 3D printing has allowed the automaker to uniquely design them when needed, get them faster and, in many cases, receive them at a lower cost.
+Ford also has used 3D-printed parts to help keep production running. For example, Foresi said a large machining wheel was needed to maintain assembly line production and the company was able to 3D print the part until a permanent replacement from a supplier was available.
+"They didn't perform as well, and it's not really a replacement for the ones that we were purchasing, but they kept the plant running," Foresi said.
+Ford said it expects to have 3D labs deployed at more than 23 plants by the end of this year. Its current 3D-printing program has more than 200 machines, and there are additional printers outside the official program, the company said.
+GM has used 3D-printed parts for some of its low-volume products in addition to research and development and inside plants, including recently expanding its use of industrial Stratasys printers that can cost hundreds of thousands of dollars based on use case, training and certification.
+The Detroit automaker uses 135 components that are 3D-printed for its bespoke Cadillac Celestiq as well as other components for its performance Cadillac Blackwing sedans, including a unique medallion on the manual shifter knob.
+Fadi Abro, senior global director of automotive and mobility at 3D-printing company Stratasys, said GM has been a great example of how companies can "standardize and then scale" 3D printing.
+"The material properties improved so significantly that the use cases improved," he said, noting the company works with virtually every major automaker. "From a product perspective, we have to get the technology to become faster and more accessible, in an economic sense."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
+    publishedAt: "2026-10-31T12:00:01+00:00",
+    category: "自動車",
+    imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
+    readTime: 10,
   },
   {
     id: "these-10-megadonors-have-spent-a-total-o-7ff5f617",
@@ -1802,362 +2142,6 @@ Follow BBC Birmingham on BBC Sounds, Facebook, external, X, external and Instagr
     publishedAt: "2026-10-30T06:08:22+00:00",
     category: "金融政策",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8062/live/2dd0c130-d3d0-11f1-9c32-1532a6164171.jpg",
-    readTime: 10,
-  },
-  {
-    id: "crypto-giant-binance-hit-by-largest-hack-4ea100d2",
-    title: "Crypto giant Binance hit by 'largest hack in history'",
-    titleJa: "Crypto giant Binance hit by 'largest hack in history'",
-    summaryJa: "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
-    bodyOriginal: `Crypto giant Binance hit by 'largest hack in history'
-- Published
-Cryptocurrency giant Binance said on Thursday that $6.3bn (£4.7bn) of digital assets have been impacted by what has been described as the "largest hack in history".
-The world's biggest crypto exchange said about half of those assets have been frozen with the help of other platforms, adding that it will "cover all losses".
-Early checks show the incident may have involved an engineer's laptop that had been compromised, which allowed an attacker to make unauthorised withdrawals, Binance said.
-Two analytics firms have attributed the incident, which eclipses a record-setting $1.5bn hack on the Bybit exchange in 2025, to a North Korean hacking unit called TraderTraitor.
-AI-powered investigations company TRM Labs said in a report that several elements of the Binance attack resemble earlier North Korean-linked incidents, including the Bybit hack.
-The lab's global head of policy Ari Redbord told the BBC the Binance hack is a "watershed moment" that is unlike anything the industry has seen.
-The attacker still holds an enormous sum of stolen assets, meaning efforts to trace and recover the funds are far from over, Redbord added.
-Chainalysis, another crypto analytics firm, also said it has "high confidence" that the North Korean group are linked to the hack.
-Eric Jardine, Chainalysis' Head of Research, urged every exchange to remain vigilant as the platforms are attractive targets for hackers due to the sheer value of assets.
-Binance did not directly respond to BBC queries about the incident's potential links to North Korea but said: "We are working closely with our law enforcement partners to confirm the identity of these criminals and bring them to justice."
-The incident concerns Binance.com - while much smaller crypto platform Binance.US, which provides trading services specifically for American residents - said its platform is not affected by the issue.
-In a series of posts, Yi He, Binance's co-chief executive, thanked various cryptocurrency issuers for freezing the assets.
-"Safety first: withdrawals are currently disabled until the environment is confirmed to be secure," she said.
-Two other major crypto platforms, Tether and Circle, said they have frozen a total of about $2.4bn of assets in response to the potential Binance hack.
-Circle chief executive Jeremy Allaire said his firm is "closely tracking reports of a potential exploit involving Binance" and that his company has frozen more than $800m in assets linked to the incident.
-Circle is the issuer and co-creator of the USDC, one of the world's largest US dollar-backed cryptocurrencies.
-Tether CEO Paolo Ardoino said his firm has frozen around $1.6bn "related to a potential Binance exchange hack."
-"Protecting the industry and our partners is our main priority," said Ardoino, whose company issues a cryptocurrency known as USDT.
-World Liberty Financial, a crypto company linked to US President Donald Trump and his family, said it has worked with its partners to freeze stolen funds.
-Crypto exchange Coinbase said it was unaffected by the incident and was monitoring the situation.
-Several crypto industry observers had flagged concerns about a potential hack on Binance hours before the exchange confirmed the security issue.
-Binance, which was founded in China in 2017, allows users to trade digital assets and is estimated to have more than 300 million registered users worldwide.
-The exchange has been subject of regulatory scrutiny around the world.
-The company said in 2024 that it has more than $160bn in assets under custody.
-Bitcoin dropped by more than 4% following the alerts. The price of other major cryptocurrencies including Ethereum and Solana also fell sharply.
-Related topics
-- Published26 August`,
-    bodyJa: `Crypto giant Binance hit by 'largest hack in history'
-- Published
-Cryptocurrency giant Binance said on Thursday that $6.3bn (£4.7bn) of digital assets have been impacted by what has been described as the "largest hack in history".
-The world's biggest crypto exchange said about half of those assets have been frozen with the help of other platforms, adding that it will "cover all losses".
-Early checks show the incident may have involved an engineer's laptop that had been compromised, which allowed an attacker to make unauthorised withdrawals, Binance said.
-Two analytics firms have attributed the incident, which eclipses a record-setting $1.5bn hack on the Bybit exchange in 2025, to a North Korean hacking unit called TraderTraitor.
-AI-powered investigations company TRM Labs said in a report that several elements of the Binance attack resemble earlier North Korean-linked incidents, including the Bybit hack.
-The lab's global head of policy Ari Redbord told the BBC the Binance hack is a "watershed moment" that is unlike anything the industry has seen.
-The attacker still holds an enormous sum of stolen assets, meaning efforts to trace and recover the funds are far from over, Redbord added.
-Chainalysis, another crypto analytics firm, also said it has "high confidence" that the North Korean group are linked to the hack.
-Eric Jardine, Chainalysis' Head of Research, urged every exchange to remain vigilant as the platforms are attractive targets for hackers due to the sheer value of assets.
-Binance did not directly respond to BBC queries about the incident's potential links to North Korea but said: "We are working closely with our law enforcement partners to confirm the identity of these criminals and bring them to justice."
-The incident concerns Binance.com - while much smaller crypto platform Binance.US, which provides trading services specifically for American residents - said its platform is not affected by the issue.
-In a series of posts, Yi He, Binance's co-chief executive, thanked various cryptocurrency issuers for freezing the assets.
-"Safety first: withdrawals are currently disabled until the environment is confirmed to be secure," she said.
-Two other major crypto platforms, Tether and Circle, said they have frozen a total of about $2.4bn of assets in response to the potential Binance hack.
-Circle chief executive Jeremy Allaire said his firm is "closely tracking reports of a potential exploit involving Binance" and that his company has frozen more than $800m in assets linked to the incident.
-Circle is the issuer and co-creator of the USDC, one of the world's largest US dollar-backed cryptocurrencies.
-Tether CEO Paolo Ardoino said his firm has frozen around $1.6bn "related to a potential Binance exchange hack."
-"Protecting the industry and our partners is our main priority," said Ardoino, whose company issues a cryptocurrency known as USDT.
-World Liberty Financial, a crypto company linked to US President Donald Trump and his family, said it has worked with its partners to freeze stolen funds.
-Crypto exchange Coinbase said it was unaffected by the incident and was monitoring the situation.
-Several crypto industry observers had flagged concerns about a potential hack on Binance hours before the exchange confirmed the security issue.
-Binance, which was founded in China in 2017, allows users to trade digital assets and is estimated to have more than 300 million registered users worldwide.
-The exchange has been subject of regulatory scrutiny around the world.
-The company said in 2024 that it has more than $160bn in assets under custody.
-Bitcoin dropped by more than 4% following the alerts. The price of other major cryptocurrencies including Ethereum and Solana also fell sharply.
-Related topics
-- Published26 August`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-30T05:15:16+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a4c/live/ee32b970-d406-11f1-b5d5-035446124886.jpg",
-    readTime: 9,
-  },
-  {
-    id: "boj-holds-rates-as-underlying-inflation-55c73de1",
-    title: "BOJ holds rates as underlying inflation aligns with 2% target for first time since 2013",
-    titleJa: "BOJ holds rates as underlying inflation aligns with 2% target for first time since 2013",
-    summaryJa: "The BOJ declared that its underlying inflation target of 2% has been met, the first time the central bank has done so since it set the target in 2013.",
-    bodyOriginal: `The Bank of Japan declared that underlying inflation in the country was "generally consistent" with its target of 2%, the first time it has made that assessment since adopting the target in 2013.
-Before this, the BOJ used to say that underlying inflation has been "approaching 2 percent."
-This comes as the central bank expectedly held rates at 1.25%, still at its highest level since 1995.
-The decision was split 8-1, with board member Hajime Takata dissenting. Takata had wanted the bank to hike its policy rate to 1.5%.
-The BOJ also upgraded its inflation forecast for its fiscal year 2027 to 2.6% from 2.4%, with the so-called "core-core" inflation forecast also raised to 2.7% from 2.6%. The "core-core" inflation strips out prices of fresh food and energy.
-It also flagged a risk that underlying inflation will deviate upward beyond 2%, saying that "firms' behavior has been shifting more toward raising wages and prices and there are various factors that could drive up prices."
-Describing this as a "hawkish hold," Krishna Bhimavarapu, APAC economist at State Street Investment Management said that the BOJ sees more hikes ahead and is increasingly confident that the target is being achieved through a "self-sustaining wage-price-consumption cycle."
-However, he also added that growth in the country does not justify rushing the next move.
-Bhimavarapu forecasts that Japan's third quarter GDP growth is likely to lose momentum, with consumption still the weakest link in the cycle.
-A CNBC survey of 16 economists before the decision revealed that all surveyed expect the BOJ to set the stage for a rate hike in December or January next year, as domestic inflation and wages continue to rise.
-Thirteen respondents said they expect a terminal rate, or the level at which the BOJ is expected to stop its tightening cycle, of 1.75% to 2% by around mid-2027.
-Japan has been grappling with a weak yen and high energy prices that have pushed up inflation.
-However, experts have told CNBC that CPI numbers are being held down by energy subsidies from the Takaichi administration.
-The most recent inflation numbers for September revealed core inflation hit their highest level in 2026, coming in at 2.1% and overshooting expectations.
-Earlier this month, Finance Minister Satsuki Katayama reportedly told parliament that Japan was "on the cusp of shifting to a period of sustained inflation driven by rising wages."
-Japan's inflation-adjusted wages rose for the eighth month in a row in August, climbing 1.5% from a year earlier, according to the most recent government data, signaling potential wage-growth-driven inflation as well.
-— CNBC's Lisa Kim contributed to this report.`,
-    bodyJa: `The Bank of Japan declared that underlying inflation in the country was "generally consistent" with its target of 2%, the first time it has made that assessment since adopting the target in 2013.
-Before this, the BOJ used to say that underlying inflation has been "approaching 2 percent."
-This comes as the central bank expectedly held rates at 1.25%, still at its highest level since 1995.
-The decision was split 8-1, with board member Hajime Takata dissenting. Takata had wanted the bank to hike its policy rate to 1.5%.
-The BOJ also upgraded its inflation forecast for its fiscal year 2027 to 2.6% from 2.4%, with the so-called "core-core" inflation forecast also raised to 2.7% from 2.6%. The "core-core" inflation strips out prices of fresh food and energy.
-It also flagged a risk that underlying inflation will deviate upward beyond 2%, saying that "firms' behavior has been shifting more toward raising wages and prices and there are various factors that could drive up prices."
-Describing this as a "hawkish hold," Krishna Bhimavarapu, APAC economist at State Street Investment Management said that the BOJ sees more hikes ahead and is increasingly confident that the target is being achieved through a "self-sustaining wage-price-consumption cycle."
-However, he also added that growth in the country does not justify rushing the next move.
-Bhimavarapu forecasts that Japan's third quarter GDP growth is likely to lose momentum, with consumption still the weakest link in the cycle.
-A CNBC survey of 16 economists before the decision revealed that all surveyed expect the BOJ to set the stage for a rate hike in December or January next year, as domestic inflation and wages continue to rise.
-Thirteen respondents said they expect a terminal rate, or the level at which the BOJ is expected to stop its tightening cycle, of 1.75% to 2% by around mid-2027.
-Japan has been grappling with a weak yen and high energy prices that have pushed up inflation.
-However, experts have told CNBC that CPI numbers are being held down by energy subsidies from the Takaichi administration.
-The most recent inflation numbers for September revealed core inflation hit their highest level in 2026, coming in at 2.1% and overshooting expectations.
-Earlier this month, Finance Minister Satsuki Katayama reportedly told parliament that Japan was "on the cusp of shifting to a period of sustained inflation driven by rising wages."
-Japan's inflation-adjusted wages rose for the eighth month in a row in August, climbing 1.5% from a year earlier, according to the most recent government data, signaling potential wage-growth-driven inflation as well.
-— CNBC's Lisa Kim contributed to this report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html",
-    publishedAt: "2026-10-30T04:19:38+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "israel-faces-weeks-of-coalition-haggling-feb799ed",
-    title: "Israel faces weeks of coalition haggling as Netanyahu’s party claims election 'stolen'",
-    titleJa: "Israel faces weeks of coalition haggling as Netanyahu’s party claims election 'stolen'",
-    summaryJa: "Israel's election leaves the country facing weeks of coalition bargaining and an uphill battle for the opposition party to form a majority government.",
-    bodyOriginal: `Israel’s final election count left both Prime Minister Benjamin Netanyahu’s right-wing bloc and the opposition led by former military chief Gadi Eisenkot short of the 61 seats needed to form a government.
-The outcome sets up weeks of coalition bargaining and political uncertainty, with the opposition alliance facing an uphill battle to assemble a majority government in the 120-seat Knesset.
-Netanyahu’s Likud party and its hard-right allies won 53 seats in the Knesset, according to the Central Elections Committee, short of the 61 needed for a majority and down from 64 seats in the 2022 election.
-The main opposition bloc, led by Eisenkot, won 48 seats, falling short of the 61 needed for a majority.
-Eisenkot now faces a difficult coalition path. Most parties in his bloc have rejected relying on the Arab-led parties, while Eisenkot has said neither meets his conditions for a partnership. The Joint List and Ra’am won a combined 19 seats, an all-time high for Arab-led parties.
-Netanyahu's party has intensified claims that the Arab-led parties "stole" the election, amplifying an allegation that spread after exit polls showed the prime minister's bloc had suffered a setback.
-Likud asserted Thursday, without evidence, that foreign interference was "aimed at facilitating a foreign takeover of the Knesset, the Islamization of Israel and toppling of the right wing government."
-The statement came a day after Supreme Court Justice Noam Sohlberg, who chairs the Central Elections Committee, asked the Shin Bet security agency to investigate "serious suspicions" of improper influence through funding from foreign entities.
-Sohlberg said he couldn't attest to the substance of the suspicions and directed agencies to verify the claims.
-Qatar, accused of trying to mobilize Arab voters, has denied interfering in the elections, calling the allegations “ridiculous and dangerous in equal measure.”
-Opposition leaders also called for a full investigation, while warning against using the allegations to cast doubt on or otherwise influence the election results.
-Although the vote count is complete, the results remain subject to possible “minor corrections” before they are certified and submitted to President Isaac Herzog next Wednesday, according to the Central Elections Committee.
-The new Knesset is due to be sworn in Nov. 10, while parties have until Nov. 18 to challenge the results.
-'Comeback kid'
-A prolonged political stalemate could leave Netanyahu in office as caretaker prime minister through another round of coalition negotiations or potentially another election. A return to war with Iran also remains a key risk.
-"Bibi [Netanyahu] is known as a 'comeback kid.' He did not become the longest-serving prime minister by accident," said P R Kumaraswamy, emeritus professor at Jawaharlal Nehru University, adding that he expected Netanyahu to maintain his current approach on Iran and Gaza for now.
-Israeli assets have come under pressure this week with the shekel sustaining the worst intraday decline since 2023 on Wednesday before regaining ground. Tel Aviv's key benchmark stock index dropped 4.1% for the week as of Friday morning, according to LSEG data.
-"We expect some near-term volatility for Israeli assets until a new government is formed and decides on fiscal consolidation and war-related spending," said Eirini Tsekeridou, a fixed-income analyst at Julius Baer. She added that Israel's economic fundamentals and monetary policy should provide support.
-What happens next?
-President Herzog will begin consulting with the competing parties next week and name the leader he believes has the best chance of forming a majority government.
-Netanyahu may get the first call to kick off the 28-day process to build a coalition that can be extended by up to 14 day.
-If those efforts fail, new elections will be called with Netanyahu remaining in office in the interim. The previous government-formation efforts have taken between 20 and 100 days, according to the Israel Democracy Institute.
-Netanyahu could also push for a national unity government, arguing that the country should come together as it faces conflict on several fronts, though many of his opponents have ruled out such an arrangement.`,
-    bodyJa: `Israel’s final election count left both Prime Minister Benjamin Netanyahu’s right-wing bloc and the opposition led by former military chief Gadi Eisenkot short of the 61 seats needed to form a government.
-The outcome sets up weeks of coalition bargaining and political uncertainty, with the opposition alliance facing an uphill battle to assemble a majority government in the 120-seat Knesset.
-Netanyahu’s Likud party and its hard-right allies won 53 seats in the Knesset, according to the Central Elections Committee, short of the 61 needed for a majority and down from 64 seats in the 2022 election.
-The main opposition bloc, led by Eisenkot, won 48 seats, falling short of the 61 needed for a majority.
-Eisenkot now faces a difficult coalition path. Most parties in his bloc have rejected relying on the Arab-led parties, while Eisenkot has said neither meets his conditions for a partnership. The Joint List and Ra’am won a combined 19 seats, an all-time high for Arab-led parties.
-Netanyahu's party has intensified claims that the Arab-led parties "stole" the election, amplifying an allegation that spread after exit polls showed the prime minister's bloc had suffered a setback.
-Likud asserted Thursday, without evidence, that foreign interference was "aimed at facilitating a foreign takeover of the Knesset, the Islamization of Israel and toppling of the right wing government."
-The statement came a day after Supreme Court Justice Noam Sohlberg, who chairs the Central Elections Committee, asked the Shin Bet security agency to investigate "serious suspicions" of improper influence through funding from foreign entities.
-Sohlberg said he couldn't attest to the substance of the suspicions and directed agencies to verify the claims.
-Qatar, accused of trying to mobilize Arab voters, has denied interfering in the elections, calling the allegations “ridiculous and dangerous in equal measure.”
-Opposition leaders also called for a full investigation, while warning against using the allegations to cast doubt on or otherwise influence the election results.
-Although the vote count is complete, the results remain subject to possible “minor corrections” before they are certified and submitted to President Isaac Herzog next Wednesday, according to the Central Elections Committee.
-The new Knesset is due to be sworn in Nov. 10, while parties have until Nov. 18 to challenge the results.
-'Comeback kid'
-A prolonged political stalemate could leave Netanyahu in office as caretaker prime minister through another round of coalition negotiations or potentially another election. A return to war with Iran also remains a key risk.
-"Bibi [Netanyahu] is known as a 'comeback kid.' He did not become the longest-serving prime minister by accident," said P R Kumaraswamy, emeritus professor at Jawaharlal Nehru University, adding that he expected Netanyahu to maintain his current approach on Iran and Gaza for now.
-Israeli assets have come under pressure this week with the shekel sustaining the worst intraday decline since 2023 on Wednesday before regaining ground. Tel Aviv's key benchmark stock index dropped 4.1% for the week as of Friday morning, according to LSEG data.
-"We expect some near-term volatility for Israeli assets until a new government is formed and decides on fiscal consolidation and war-related spending," said Eirini Tsekeridou, a fixed-income analyst at Julius Baer. She added that Israel's economic fundamentals and monetary policy should provide support.
-What happens next?
-President Herzog will begin consulting with the competing parties next week and name the leader he believes has the best chance of forming a majority government.
-Netanyahu may get the first call to kick off the 28-day process to build a coalition that can be extended by up to 14 day.
-If those efforts fail, new elections will be called with Netanyahu remaining in office in the interim. The previous government-formation efforts have taken between 20 and 100 days, according to the Israel Democracy Institute.
-Netanyahu could also push for a national unity government, arguing that the country should come together as it faces conflict on several fronts, though many of his opponents have ruled out such an arrangement.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html",
-    publishedAt: "2026-10-30T03:28:10+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "what-gave-this-city-its-best-place-to-re-e034d767",
-    title: "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
-    titleJa: "What gave this city its ‘best place to retire’ crown? You can actually afford to live there.",
-    summaryJa: "Low cost of living, high quality of life and favorable taxes for retirees, for the win.",
-    bodyOriginal: `Low cost of living, high quality of life and favorable taxes for retirees, for the win.`,
-    bodyJa: `Low cost of living, high quality of life and favorable taxes for retirees, for the win.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
-    publishedAt: "2026-10-30T03:16:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-51699751",
-    readTime: 2,
-  },
-  {
-    id: "amazon-s-stock-drops-even-in-the-face-of-5935702c",
-    title: "Amazon’s stock drops — even in the face of a bold new cloud forecast",
-    titleJa: "Amazon’s stock drops — even in the face of a bold new cloud forecast",
-    summaryJa: "Modest AWS results and weak advertising growth left Wall Street disappointed in Amazon’s third-quarter earnings",
-    bodyOriginal: `Modest AWS results and weak advertising growth left Wall Street disappointed in Amazon’s third-quarter earnings`,
-    bodyJa: `Modest AWS results and weak advertising growth left Wall Street disappointed in Amazon’s third-quarter earnings`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
-    publishedAt: "2026-10-30T00:15:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-49250014",
-    readTime: 2,
-  },
-  {
-    id: "a-starbucks-turnaround-is-brewing-but-pe-2d6176f3",
-    title: "A Starbucks turnaround is brewing — but perhaps not quickly enough for investors",
-    titleJa: "A Starbucks turnaround is brewing — but perhaps not quickly enough for investors",
-    summaryJa: "The coffee chain beat expectations on a key sales metric, but its stock was still moving lower.",
-    bodyOriginal: `The coffee chain beat expectations on a key sales metric, but its stock was still moving lower.`,
-    bodyJa: `The coffee chain beat expectations on a key sales metric, but its stock was still moving lower.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
-    publishedAt: "2026-10-30T00:14:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-01171452",
-    readTime: 2,
-  },
-  {
-    id: "how-elections-worldwide-are-testing-trum-cd9b4cad",
-    title: "How elections worldwide are testing Trump’s influence abroad",
-    titleJa: "How elections worldwide are testing Trump’s influence abroad",
-    summaryJa: "Recent election losses by leaders linked to Trump have prompted questions about whether his influence over the global right is weakening.",
-    bodyOriginal: `In August, President Donald Trump claimed that 97% of Republican candidates he backed had won their primary races.
-And it's true that Trump has shown an ability to influence races particularly in Republican primaries, picking off politicians he didn't like such as Sen. John Cornyn, R-Texas, and Rep. Thomas Massie, R-Ky.
-But while he hasn't shied away from expressing his opinions on foreign leaders, his influence over other countries' elections is proving less strong.
-Brazilian President Luiz Inácio Lula da Silva won reelection on Sunday, defeating Trump-aligned Flávio Bolsonaro, whose father Jair had also been a Trump ally.
-Also last weekend, a student-led movement in Serbia defeated the ruling party of Aleksandar Vucic, a populist leader who had cultivated ties with Trump and his circle. Vucic had served as Serbia's president from 2017, and as prime minister from 2014 to 2017.
-During his concession speech, Vucic said that the loss was due to a "legitimization of a revolution carried out by the people with direct support from various European countries and the American deep state, the one that opposes President Trump."
-Earlier this year, Vice President JD Vance had visited Hungary for two days and publicly backed then-Prime Minister Viktor Orban. However, Orban, who is also a staunch ally and endorsed by Trump, lost that election and was ejected from office after 16 years.
-In October, Trump also endorsed Israeli Prime Minister Benjamin Netanyahu for reelection. While the results of the Oct. 27 election are not finalized yet, the Associated Press said that Netanhayu's Likud party had appeared to lose its majority in the country's parliament.
-Still, Trump's influence on any one global election remains variable, experts said.
-"Elections are always national first and regional or global a very distant second," Cas Mudde, professor of international affairs at the University of Georgia, told CNBC.
-Furthermore, it is also not clear that Trump ever had a great influence over far-right actors elsewhere, said Stijn van Kessel, professor of comparative politics at Queen Mary University of London.
-"Far-right parties and politicians like to celebrate each others' victories as it allows them to portray themselves as part of a successful global movement," he said, adding that those relationships can sour quickly when national interests collide and the foreign partner turns toxic in the eyes of the domestic electorate.
-Van Kessel pointed to the fallout between Trump and Italian Prime Minister Giorgia Meloni earlier this year, which stemmed from Italy's refusal to allow U.S. aircraft to use one of the NATO airbases for its war on Iran.
-Trump later claimed that Meloni "begged" him for a photo at the G7 summit, a claim that sparked a denial from Meloni.
-Right wing strength
-Still, right-wing movements remain strong in numerous places globally. In France, Marine Le Pen is currently the frontrunner to succeed President Emmanuel Macron, according to a compilation of polls by Politico. However, historically she has often started out leading a crowded field of hopefuls before support consolidates around a more moderate candidate.
-In Germany, the far-right Alternative fur Deutschland, or AfD party won 20.8% of the vote in the country's February 2025 federal election, making it the country's largest opposition party. Trump ally Javier Milei leads Argentina, and Colombia's new President Abelardo de la Espriella was elected on a far-right platform.
-Still, Mudde noted that most far-right leaders disassociate themselves from Trump when he becomes more unpopular in their country. Trump's poll numbers remain near a record low even in the U.S. over issues including the Iran war and the cost of living as energy prices soar.
-"Voters are willing to give anyone a shot when they are economically frustrated, but when those experiments fail, they move on to something else," said David Barker, a professor of government at American University in Washington, D.C. At this point, Trump "undermines his allies' ability to maintain support."`,
-    bodyJa: `In August, President Donald Trump claimed that 97% of Republican candidates he backed had won their primary races.
-And it's true that Trump has shown an ability to influence races particularly in Republican primaries, picking off politicians he didn't like such as Sen. John Cornyn, R-Texas, and Rep. Thomas Massie, R-Ky.
-But while he hasn't shied away from expressing his opinions on foreign leaders, his influence over other countries' elections is proving less strong.
-Brazilian President Luiz Inácio Lula da Silva won reelection on Sunday, defeating Trump-aligned Flávio Bolsonaro, whose father Jair had also been a Trump ally.
-Also last weekend, a student-led movement in Serbia defeated the ruling party of Aleksandar Vucic, a populist leader who had cultivated ties with Trump and his circle. Vucic had served as Serbia's president from 2017, and as prime minister from 2014 to 2017.
-During his concession speech, Vucic said that the loss was due to a "legitimization of a revolution carried out by the people with direct support from various European countries and the American deep state, the one that opposes President Trump."
-Earlier this year, Vice President JD Vance had visited Hungary for two days and publicly backed then-Prime Minister Viktor Orban. However, Orban, who is also a staunch ally and endorsed by Trump, lost that election and was ejected from office after 16 years.
-In October, Trump also endorsed Israeli Prime Minister Benjamin Netanyahu for reelection. While the results of the Oct. 27 election are not finalized yet, the Associated Press said that Netanhayu's Likud party had appeared to lose its majority in the country's parliament.
-Still, Trump's influence on any one global election remains variable, experts said.
-"Elections are always national first and regional or global a very distant second," Cas Mudde, professor of international affairs at the University of Georgia, told CNBC.
-Furthermore, it is also not clear that Trump ever had a great influence over far-right actors elsewhere, said Stijn van Kessel, professor of comparative politics at Queen Mary University of London.
-"Far-right parties and politicians like to celebrate each others' victories as it allows them to portray themselves as part of a successful global movement," he said, adding that those relationships can sour quickly when national interests collide and the foreign partner turns toxic in the eyes of the domestic electorate.
-Van Kessel pointed to the fallout between Trump and Italian Prime Minister Giorgia Meloni earlier this year, which stemmed from Italy's refusal to allow U.S. aircraft to use one of the NATO airbases for its war on Iran.
-Trump later claimed that Meloni "begged" him for a photo at the G7 summit, a claim that sparked a denial from Meloni.
-Right wing strength
-Still, right-wing movements remain strong in numerous places globally. In France, Marine Le Pen is currently the frontrunner to succeed President Emmanuel Macron, according to a compilation of polls by Politico. However, historically she has often started out leading a crowded field of hopefuls before support consolidates around a more moderate candidate.
-In Germany, the far-right Alternative fur Deutschland, or AfD party won 20.8% of the vote in the country's February 2025 federal election, making it the country's largest opposition party. Trump ally Javier Milei leads Argentina, and Colombia's new President Abelardo de la Espriella was elected on a far-right platform.
-Still, Mudde noted that most far-right leaders disassociate themselves from Trump when he becomes more unpopular in their country. Trump's poll numbers remain near a record low even in the U.S. over issues including the Iran war and the cost of living as energy prices soar.
-"Voters are willing to give anyone a shot when they are economically frustrated, but when those experiments fail, they move on to something else," said David Barker, a professor of government at American University in Washington, D.C. At this point, Trump "undermines his allies' ability to maintain support."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/30/election-trump-brazil-serbia-hungary.html",
-    publishedAt: "2026-10-30T00:13:22+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "from-workshops-to-the-catwalk-why-mended-c1508bc8",
-    title: "From workshops to the catwalk - why mended clothes are going mainstream",
-    titleJa: "From workshops to the catwalk - why mended clothes are going mainstream",
-    summaryJa: "From workshops to the catwalk - why mended clothes are going mainstream- Published",
-    bodyOriginal: `From workshops to the catwalk - why mended clothes are going mainstream
-- Published
-If Alice Brown is browsing in second-hand shops and finds a jumper with a hole, that won't stop her buying it.
-"I see it as challenge," says the 27-year-old forest ranger from Lincolnshire.
-She is a champion of the growing fashion for eye-catching repairs.
-Over the last year she has developed her own unique style, needle-felting cute animals and insects to cover moth holes, stains and other imperfections, winning her a huge following online.
-"The natural place for decoration is in the centre at the front. If the hole is under the arm or on the shoulder, it forces you to think about the design," she says.
-Often dubbed "visible mending" the trend is spreading from hobby crafters and community workshops, even drawing in fast-fashion brands and reaching the designer catwalks this year.
-At one Saturday morning workshop in Brighton, Jayne Eagle shows her students how to attach a patch of fabric behind a tear so the cat-face design peeps through.
-Then she instructs them in stitching techniques inspired by the traditional Japanese methods Boro and Sashiko. Instead of matching the thread colour to the garment, they make the mend highly decorative using geometric patterns in large white stitching.
-She also offers classes in darning using contrasting vibrant colours that celebrate, rather than disguise, the repair.
-One student, Nicola, has already used her newfound skills to stitch over sunscreen marks on a T-shirt "making a feature of it" and is now delighted that people "stop seeing the stains and just see the decoration".
-Another student, Lisa, says her mother's generation would never have wanted the mends to show. "Now part of it is being proud of what you've done," she says.
-Lisa bought a second-hand jacket online, but snipped the fabric with the scissors when she was opening the package. She managed to patch it in a way that "looks intentional".
-"I was actually pointing it out to people," she laughs.
-In the past mending was primarily about saving money, by wearing clothes for longer, rather than buying new. But visible mending is about celebrating that choice.
-The trend took off about six years ago, Jayne says, and has boomed since.
-An era of "throwaway" fast fashion from the 1980s onwards undermined the tradition of looking after and mending your clothes and people lost the skills, she says.
-The revival of interest feels to her like a backlash against overproduction in the fashion industry and the damage it causes: the pollution, carbon emissions, water use, and poor labour conditions.
-So perhaps it is surprising just how popular mended style is proving among retailers, with brands from Ralph Lauren to ultra-fast-fashion firm Shein currently selling stitched and patched garments, albeit in both of those cases brand new off the peg.
-Other High Street chains are adopting a more authentic approach, offering in-house repairs and workshops.
-"We want to give customers practical ways to extend the life of the clothes they already love, rather than simply replacing them," says Uniqlo's head of sustainability, Maria Ledous.
-Primark, often seen as a fast-fashion retailer due to its lower prices, has also joined the trend.
-"We don't think that affordability and durability should be opposites," says Vicki Swain, the brand's longevity lead.
-Outdoor brand Finisterre says around a fifth of the mends it provides for customers are designed to be eye-catching, while premium artisan clothing store Toast says around a third of customers go for that option.
-Part of the "magic" is that customers can bring in a garment and "choose what they'd like it to become next", says Toast chief executive Suzie de Rohan Willner.
-Toast's repair services are free, but off-the-peg "renewed" pieces fetch higher prices than the originals to reflect their unique character.
-Levi's, which boasts probably the longest tradition of being fixed up by its fans using anything from rhinestones to fringed cuffs, is rolling out a workshop programme this year.
-The firm says its research shows younger customers in particular want to repair more but don't know how.
-For now, Levi's' workshops focus on traditional mending skills, such as sewing on a button and hemming, rather than visible mends, and at a recent launch event in London, that seemed to be what its Gen Z participants were looking for.
-"I'm from East London. If you have holes in your clothes people are like 'Ha ha! You're poor!'," says 16-year-old school student Bianca.
-Theo, 19, says he'd rather learn how to mend without it showing.
-"I would want [the jeans] to look how I originally bought them," he says.
-He has a side hustle selling clothes at car boot sales and thinks traditional repair skills would make it more lucrative.
-His friend Nicholas, also 19, says most people want to look "fresh".
-"No-one wants to look like they came out of a dumpster," he says.
-Still, Paul Dillinger, Levi's head of global design innovation, thinks more creative repairs will win them over as they pick up more skills.
-"No-one has time for that perfect 'straight from the shop' thing. That's not cool.
-"People crave agency," he says. "Mending is a demonstration of humanity: it's not a mustard stain, it's a memory of a great day in the ballpark."`,
-    bodyJa: `From workshops to the catwalk - why mended clothes are going mainstream
-- Published
-If Alice Brown is browsing in second-hand shops and finds a jumper with a hole, that won't stop her buying it.
-"I see it as challenge," says the 27-year-old forest ranger from Lincolnshire.
-She is a champion of the growing fashion for eye-catching repairs.
-Over the last year she has developed her own unique style, needle-felting cute animals and insects to cover moth holes, stains and other imperfections, winning her a huge following online.
-"The natural place for decoration is in the centre at the front. If the hole is under the arm or on the shoulder, it forces you to think about the design," she says.
-Often dubbed "visible mending" the trend is spreading from hobby crafters and community workshops, even drawing in fast-fashion brands and reaching the designer catwalks this year.
-At one Saturday morning workshop in Brighton, Jayne Eagle shows her students how to attach a patch of fabric behind a tear so the cat-face design peeps through.
-Then she instructs them in stitching techniques inspired by the traditional Japanese methods Boro and Sashiko. Instead of matching the thread colour to the garment, they make the mend highly decorative using geometric patterns in large white stitching.
-She also offers classes in darning using contrasting vibrant colours that celebrate, rather than disguise, the repair.
-One student, Nicola, has already used her newfound skills to stitch over sunscreen marks on a T-shirt "making a feature of it" and is now delighted that people "stop seeing the stains and just see the decoration".
-Another student, Lisa, says her mother's generation would never have wanted the mends to show. "Now part of it is being proud of what you've done," she says.
-Lisa bought a second-hand jacket online, but snipped the fabric with the scissors when she was opening the package. She managed to patch it in a way that "looks intentional".
-"I was actually pointing it out to people," she laughs.
-In the past mending was primarily about saving money, by wearing clothes for longer, rather than buying new. But visible mending is about celebrating that choice.
-The trend took off about six years ago, Jayne says, and has boomed since.
-An era of "throwaway" fast fashion from the 1980s onwards undermined the tradition of looking after and mending your clothes and people lost the skills, she says.
-The revival of interest feels to her like a backlash against overproduction in the fashion industry and the damage it causes: the pollution, carbon emissions, water use, and poor labour conditions.
-So perhaps it is surprising just how popular mended style is proving among retailers, with brands from Ralph Lauren to ultra-fast-fashion firm Shein currently selling stitched and patched garments, albeit in both of those cases brand new off the peg.
-Other High Street chains are adopting a more authentic approach, offering in-house repairs and workshops.
-"We want to give customers practical ways to extend the life of the clothes they already love, rather than simply replacing them," says Uniqlo's head of sustainability, Maria Ledous.
-Primark, often seen as a fast-fashion retailer due to its lower prices, has also joined the trend.
-"We don't think that affordability and durability should be opposites," says Vicki Swain, the brand's longevity lead.
-Outdoor brand Finisterre says around a fifth of the mends it provides for customers are designed to be eye-catching, while premium artisan clothing store Toast says around a third of customers go for that option.
-Part of the "magic" is that customers can bring in a garment and "choose what they'd like it to become next", says Toast chief executive Suzie de Rohan Willner.
-Toast's repair services are free, but off-the-peg "renewed" pieces fetch higher prices than the originals to reflect their unique character.
-Levi's, which boasts probably the longest tradition of being fixed up by its fans using anything from rhinestones to fringed cuffs, is rolling out a workshop programme this year.
-The firm says its research shows younger customers in particular want to repair more but don't know how.
-For now, Levi's' workshops focus on traditional mending skills, such as sewing on a button and hemming, rather than visible mends, and at a recent launch event in London, that seemed to be what its Gen Z participants were looking for.
-"I'm from East London. If you have holes in your clothes people are like 'Ha ha! You're poor!'," says 16-year-old school student Bianca.
-Theo, 19, says he'd rather learn how to mend without it showing.
-"I would want [the jeans] to look how I originally bought them," he says.
-He has a side hustle selling clothes at car boot sales and thinks traditional repair skills would make it more lucrative.
-His friend Nicholas, also 19, says most people want to look "fresh".
-"No-one wants to look like they came out of a dumpster," he says.
-Still, Paul Dillinger, Levi's head of global design innovation, thinks more creative repairs will win them over as they pick up more skills.
-"No-one has time for that perfect 'straight from the shop' thing. That's not cool.
-"People crave agency," he says. "Mending is a demonstration of humanity: it's not a mustard stain, it's a memory of a great day in the ballpark."`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-30T00:00:35+00:00",
-    category: "自動車",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04bf/live/f3978b70-d08c-11f1-a701-fddedf244c16.jpg",
     readTime: 10,
   },
 ];
