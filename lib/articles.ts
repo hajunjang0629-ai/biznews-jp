@@ -15,6 +15,366 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "judge-dismisses-alaska-senate-election-l-52f2d094",
+    title: "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
+    titleJa: "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
+    summaryJa: "Democratic nominee Mary Peltola is facing two candidates named Dan Sullivan in the Alaska Senate election, one of whom is the Republican incumbent.",
+    bodyOriginal: `A federal judge on Sunday dismissed the Department of Justice's extraordinary lawsuit seeking to delay certification of the Alaska Senate election if incumbent Republican Dan Sullivan loses, citing possible voter confusion from another candidate with his name on the ballot.
+The ruling came two days before Election Day and two days after the U.S. Attorney for Alaska said ongoing criminal and civil investigations into non-incumbent Dan J. Sullivan's decision to run for the Senate.
+The campaign of Democratic nominee Mary Peltola, state election officials and outside advocacy groups had asked Judge Sharon Gleason to dismiss the DOJ's lawsuit in U.S. District Court in Anchorage.
+The Department of Justice quickly filed a notice of its intention to appeal the decision to the 9th Circuit U.S. Court of Appeals.
+Peltola is locked in a tight contest with Sen. Dan Sullivan, whose winner will be determined by a ranked-choice system.
+The outcome of the race is one of several contests that determine which party has a Senate majority, where Republicans currently hold a narrow lead.
+Neither the other Sullivan nor the fourth candidate on the ballot, Gerald Heikes, is considered a contender.
+But voters who rank them as a first choice could swing the outcome by ranking Peltola or Sen. Sullivan second.
+Peltola's campaign has been accused of encouraging retired schoolteacher Dan Sullivan to run for the Senate against the incumbent Sen. Dan S. Sullivan and Peltola.
+Her campaign has denied those claims.
+"No sham investigation or baseless lawsuit from a weaponized Department of Justice is going to stop Alaskans from electing Mary on November 3rd so she can lower costs for Alaska's working families," Peltola's campaign said in a statement after Sunday's ruling.
+"Alaskans will choose their next U.S. Senator – not Dan Sullivan or his DC allies," the campaign said.
+In her 20-page decision, Gleason did not resolve whether another Sullivan had been recruited to confuse voters.
+Instead, she said the federal government had failed to establish that it had legal standing to file a civil complaint to postpone certification of the election if Sen. Sullivan lost.
+In that event, the DOJ wanted an investigation into voter intent and possible confusion from having two Dan Sullivans on the ballot.
+"The absence of any explanation from the United States as to how its requested relief could redress its alleged injury while simultaneously maintaining the secrecy of the ballot is telling," Gleason said in her ruling.
+She noted that early voting in the state was already underway, and that ballots already cast have been commingled in a way that would prevent officials from linking individual ballots to voters.
+"More fundamentally, the United States provides no workable plan as to how it proposes to segregate ballots cast for Daniel J. Sullivan on Election Day and then conduct a court-ordered unspecified 'investigation' of those ballots in a manner that would preserve voter secrecy," Gleason wrote.
+The judge also cited a Supreme Court decision that established the so-called Purcell principle, which "strongly cautions" against courts altering election rules on the eve of election.
+She noted that DOJ claimed it was not seeking to alter the "time, place or manner of Alaska's election."
+But at the same time, Gleason said, the DOJ was asking her for an order "preventing the State
+from certifying the election if certain circumstances occur; a court order requiring the State to segregate and preserve certain ballots; and a court order permitting the United States to conduct an investigation into the intent of those voters who cast ballots for Daniel J. Sullivan."
+"These requests certainly involve the time, place, and manner of Alaska's election, which are the responsibilities of the State, not the executive branch of the federal government," Gleason said.
+The judge said she would not allow the DOJ to amend the lawsuit, which was revised last week to add a new legal claim under the Supremacy Clause of the U.S. Constitution to the first claim under the National Voter Registration Act. The amended complaint also added details of a New York Times article about the alleged recruitment of the second Sullivan.
+"The Court finds that further amendment would be futile because this Court lacks the authority to order that certain ballots cast by Alaskans be segregated so that federal law enforcement officials can conduct an unspecified investigation of the voters who cast them," Gleason said.
+A DOJ spokesperson said in a statement, "The court dismissed the case on procedural grounds but did not dispute the argument of the United States that Daniel J. Sullivan (a/k/a Decoy Dan) entered the race as a frivolous candidate to confuse voters."
+"DOJ plans to file a notice of appeal," the spokesperson said. "Alaskan voters deserve a fair election, not to be misled in an attempt to rig outcomes."
+The White House, when asked for comment, referred CNBC to the DOJ's statement.
+President Donald Trump has said he ordered the lawsuit, which was filed Oct. 22.
+Trump argued that Peltola and other Democrats had recruited the former school teacher to run in hopes of confusing voters who wanted to cast their ballots for Sen. Sullivan.
+The New York Times on Wednesday reported that Peltola campaign aides and DSCC aides had been involved in efforts to recruit the retiree for the race.
+Peltola's campaign and the Democratic Senatorial Campaign Committee have denied having any involvement in his campaign.
+DSCC Executive Director Devan Barber said in a statement, "Today's ruling is a victory for democracy and a clear message to Donald Trump and Senate Republicans: No one, no matter how powerful, can toss out free and fair elections just because they don't like the result."
+"We will never stop fighting back against the shameful, brazen efforts from the Trump administration and their weaponized Department of Justice to subvert the U.S. Senate race in Alaska, or any other election as voters reject Republicans at ballot boxes across the country – and we are confident Alaska voters will elect Mary Peltola to the Senate," Barber said.
+Sen. Sullivan, in an interview on CNN before Gleason issued her ruling, said he would accept the election results if he lost.
+But he also blasted Peltola's campaign and the DSCC.
+"Recognizing they couldn't run on their record, so they had to cheat," Sullivan said. "I think a lot of Alaskans, even Democrats, are thinking she is not fit for office; she's continually lying to the Alaskan people, and I guarantee you she's lying right now."
+Alaska election officials have pointed to steps they took to avoid voter confusion on the ballots for the race.
+The ballots list Sen. Sullivan as "Dan S. Sullivan," with the words "incumbent" and "registered Republican" next to his name.
+The other Sullivan is listed as "Daniel J. Sullivan," with no other words next to his name.
+Election officials originally had blocked the retired teacher from the primary ballot. But a state judge allowed him on the ballot. Alaska's Supreme Court upheld that ruling.`,
+    bodyJa: `A federal judge on Sunday dismissed the Department of Justice's extraordinary lawsuit seeking to delay certification of the Alaska Senate election if incumbent Republican Dan Sullivan loses, citing possible voter confusion from another candidate with his name on the ballot.
+The ruling came two days before Election Day and two days after the U.S. Attorney for Alaska said ongoing criminal and civil investigations into non-incumbent Dan J. Sullivan's decision to run for the Senate.
+The campaign of Democratic nominee Mary Peltola, state election officials and outside advocacy groups had asked Judge Sharon Gleason to dismiss the DOJ's lawsuit in U.S. District Court in Anchorage.
+The Department of Justice quickly filed a notice of its intention to appeal the decision to the 9th Circuit U.S. Court of Appeals.
+Peltola is locked in a tight contest with Sen. Dan Sullivan, whose winner will be determined by a ranked-choice system.
+The outcome of the race is one of several contests that determine which party has a Senate majority, where Republicans currently hold a narrow lead.
+Neither the other Sullivan nor the fourth candidate on the ballot, Gerald Heikes, is considered a contender.
+But voters who rank them as a first choice could swing the outcome by ranking Peltola or Sen. Sullivan second.
+Peltola's campaign has been accused of encouraging retired schoolteacher Dan Sullivan to run for the Senate against the incumbent Sen. Dan S. Sullivan and Peltola.
+Her campaign has denied those claims.
+"No sham investigation or baseless lawsuit from a weaponized Department of Justice is going to stop Alaskans from electing Mary on November 3rd so she can lower costs for Alaska's working families," Peltola's campaign said in a statement after Sunday's ruling.
+"Alaskans will choose their next U.S. Senator – not Dan Sullivan or his DC allies," the campaign said.
+In her 20-page decision, Gleason did not resolve whether another Sullivan had been recruited to confuse voters.
+Instead, she said the federal government had failed to establish that it had legal standing to file a civil complaint to postpone certification of the election if Sen. Sullivan lost.
+In that event, the DOJ wanted an investigation into voter intent and possible confusion from having two Dan Sullivans on the ballot.
+"The absence of any explanation from the United States as to how its requested relief could redress its alleged injury while simultaneously maintaining the secrecy of the ballot is telling," Gleason said in her ruling.
+She noted that early voting in the state was already underway, and that ballots already cast have been commingled in a way that would prevent officials from linking individual ballots to voters.
+"More fundamentally, the United States provides no workable plan as to how it proposes to segregate ballots cast for Daniel J. Sullivan on Election Day and then conduct a court-ordered unspecified 'investigation' of those ballots in a manner that would preserve voter secrecy," Gleason wrote.
+The judge also cited a Supreme Court decision that established the so-called Purcell principle, which "strongly cautions" against courts altering election rules on the eve of election.
+She noted that DOJ claimed it was not seeking to alter the "time, place or manner of Alaska's election."
+But at the same time, Gleason said, the DOJ was asking her for an order "preventing the State
+from certifying the election if certain circumstances occur; a court order requiring the State to segregate and preserve certain ballots; and a court order permitting the United States to conduct an investigation into the intent of those voters who cast ballots for Daniel J. Sullivan."
+"These requests certainly involve the time, place, and manner of Alaska's election, which are the responsibilities of the State, not the executive branch of the federal government," Gleason said.
+The judge said she would not allow the DOJ to amend the lawsuit, which was revised last week to add a new legal claim under the Supremacy Clause of the U.S. Constitution to the first claim under the National Voter Registration Act. The amended complaint also added details of a New York Times article about the alleged recruitment of the second Sullivan.
+"The Court finds that further amendment would be futile because this Court lacks the authority to order that certain ballots cast by Alaskans be segregated so that federal law enforcement officials can conduct an unspecified investigation of the voters who cast them," Gleason said.
+A DOJ spokesperson said in a statement, "The court dismissed the case on procedural grounds but did not dispute the argument of the United States that Daniel J. Sullivan (a/k/a Decoy Dan) entered the race as a frivolous candidate to confuse voters."
+"DOJ plans to file a notice of appeal," the spokesperson said. "Alaskan voters deserve a fair election, not to be misled in an attempt to rig outcomes."
+The White House, when asked for comment, referred CNBC to the DOJ's statement.
+President Donald Trump has said he ordered the lawsuit, which was filed Oct. 22.
+Trump argued that Peltola and other Democrats had recruited the former school teacher to run in hopes of confusing voters who wanted to cast their ballots for Sen. Sullivan.
+The New York Times on Wednesday reported that Peltola campaign aides and DSCC aides had been involved in efforts to recruit the retiree for the race.
+Peltola's campaign and the Democratic Senatorial Campaign Committee have denied having any involvement in his campaign.
+DSCC Executive Director Devan Barber said in a statement, "Today's ruling is a victory for democracy and a clear message to Donald Trump and Senate Republicans: No one, no matter how powerful, can toss out free and fair elections just because they don't like the result."
+"We will never stop fighting back against the shameful, brazen efforts from the Trump administration and their weaponized Department of Justice to subvert the U.S. Senate race in Alaska, or any other election as voters reject Republicans at ballot boxes across the country – and we are confident Alaska voters will elect Mary Peltola to the Senate," Barber said.
+Sen. Sullivan, in an interview on CNN before Gleason issued her ruling, said he would accept the election results if he lost.
+But he also blasted Peltola's campaign and the DSCC.
+"Recognizing they couldn't run on their record, so they had to cheat," Sullivan said. "I think a lot of Alaskans, even Democrats, are thinking she is not fit for office; she's continually lying to the Alaskan people, and I guarantee you she's lying right now."
+Alaska election officials have pointed to steps they took to avoid voter confusion on the ballots for the race.
+The ballots list Sen. Sullivan as "Dan S. Sullivan," with the words "incumbent" and "registered Republican" next to his name.
+The other Sullivan is listed as "Daniel J. Sullivan," with no other words next to his name.
+Election officials originally had blocked the retired teacher from the primary ballot. But a state judge allowed him on the ballot. Alaska's Supreme Court upheld that ruling.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
+    publishedAt: "2026-11-01T21:25:03+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "democratic-rep-stevens-endorses-republic-d24fcaa3",
+    title: "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
+    titleJa: "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
+    summaryJa: "Haley Stevens had lost the Democratic nomination for Senate in Michigan to Abdul El-Sayed earlier this year.",
+    bodyOriginal: `Michigan Democratic Rep. Haley Stevens, in a stunning move, endorsed Republican Senate nominee Mike Rogers over Democratic nominee Abdul El-Sayed on Sunday.
+Stevens lost the Democratic primary to El-Sayed earlier this year, but since then had backed his candidacy.
+Her endorsement of Rogers came after days of rising tension with El-Sayed and his campaign over an inflammatory ad by a political action committee, Rebellion PAC, which depicted a couple debating whether they could afford groceries due to U.S. support for Israel.
+El-Sayed's campaign has said it was not involved or affiliated with the ad.
+The stunning endorsement was announced two days before Election Day, when voters will decide which party will control Congress for President Donald Trump's final two years in the White House. The outcome of the Michigan Senate race could determine which party holds a majority in the Senate, where Republicans currently hold a slim majority.
+"Hey Michigan, as you may have seen, our Democratic nominee for U.S. Senate, Abdul, said I'm no longer welcome in his campaign, and I should stay away, and he's right," Stevens said in a video statement on X.
+"And that's why I am endorsing Mike Rogers for the United States Senate today," she said.
+"I don't belong in Abdul's campaign. I do not stand with Hasan Piker, who gets trafficked on our college campuses," said Stevens.
+Piker is a controversial political commentator who has campaigned with El-Sayed.
+El-Sayed, standing with Rep. Jim Clyburn, D-S.C., and Sen. Angela Alsobrooks, D-Md., outside a church on Sunday, dismissed Stevens endorsement of his opponent.
+"I actually don't think about Haley Stevens," El-Sayed said. "There are families that are preparing to send their kids to schools tomorrow that look like they did 50 years ago. They're worried about what they're going to feed their kids for lunch. They're worried that if one of their kids gets sick, they're not going to be able to pay the bills. Those are the things that matter."
+Rogers and El-Sayed are vying for a seat set to become vacant after Democratic Sen. Gary Peters decided not to seek re-election.
+In recent weeks, a deepening rift has worsened between El-Sayed and Stevens. At the center of it is U.S. support for Israel, which was a major issue in the primary contest.
+Stevens is a staunch supporter of Israel; El-Sayed has called the country's conduct in Gaza after the Oct. 7, 2023, terror attacks by the radical group Hamas a genocide.
+Stevens' fiancé, Jason Turkish, endorsed Rogers before Stevens' flip-flop, citing what he said was rising antisemitism.
+"I'm sorry people are upset," Stevens told reporters at a press conference in Detroit, standing with Rogers, whom she had attended church with Sunday morning.
+"I understand that," she said.
+Staffers in Stevens congressional office quit following her endorsement.
+"As of this morning, many members of our team have resigned, including myself," Justin German, Stevens' chief of staff for eight years, said in a statement obtained by MS NOW.
+"We are shocked and heartbroken by Congresswoman Stevens' decision to support Mike Rogers," German said, adding that he was speaking on behalf of the team "in wholeheartedly supporting Abdul El-Sayed for Senate," German said.
+Stevens had the endorsement of much of the Democratic establishment during the bruising primary, making her endorsement of Rogers even more stunning.
+She was the preferred candidate of Senate Minority Leader Chuck Schumer of New York, who on Sunday reiterated his support for El-Sayed and accused Republicans of Islamophobia.
+"Senate Democrats are united in our support for Abdul El-Sayed, because we know he will fight for the economic interests of working families in Michigan, unlike Mike Rogers, who is a tool of Donald Trump and billionaire donors," Schumer said. "We Democrats [are] equally united in our total revulsion at the racist, Islamophobic, and over-the-top false attacks on Abdul by Republicans."
+In a later post to X, Schumer called her endorsement of Rogers "a despicable betrayal from Rep. Stevens."
+Peters and Michigan Democratic Sen. Elissa Slotkin both disavowed Stevens for her endorsement.
+"[A]nyone who makes an election this important about themselves, and not Michiganders and our democracy, should think hard about whether they are serving the greater good," Slotkin said in a post to X.
+Curtis Hertel, the chair of the Michigan Democratic Party, appeared to suggest that Stevens had been kicked out of the party.
+"Congresswoman Stevens is not a current member of the Michigan Democratic Party, nor will she be in the future," he said in an X post.
+In a Truth Social post, Trump praised Stevens' endorsement.
+"Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the Primary to Abdul Mohamed El-Sayed, and who has been breathlessly wined and dined by the Dumocrats to help in their Michigan Campaign for the United States Senate against Mike Rogers, has just ENDORSED Mike Rogers for Senate!" the president said.
+"Her following is huge, and the level of respect from the People of Michigan, especially our African American and Jewish populations, is virtually unparalleled," he said.`,
+    bodyJa: `Michigan Democratic Rep. Haley Stevens, in a stunning move, endorsed Republican Senate nominee Mike Rogers over Democratic nominee Abdul El-Sayed on Sunday.
+Stevens lost the Democratic primary to El-Sayed earlier this year, but since then had backed his candidacy.
+Her endorsement of Rogers came after days of rising tension with El-Sayed and his campaign over an inflammatory ad by a political action committee, Rebellion PAC, which depicted a couple debating whether they could afford groceries due to U.S. support for Israel.
+El-Sayed's campaign has said it was not involved or affiliated with the ad.
+The stunning endorsement was announced two days before Election Day, when voters will decide which party will control Congress for President Donald Trump's final two years in the White House. The outcome of the Michigan Senate race could determine which party holds a majority in the Senate, where Republicans currently hold a slim majority.
+"Hey Michigan, as you may have seen, our Democratic nominee for U.S. Senate, Abdul, said I'm no longer welcome in his campaign, and I should stay away, and he's right," Stevens said in a video statement on X.
+"And that's why I am endorsing Mike Rogers for the United States Senate today," she said.
+"I don't belong in Abdul's campaign. I do not stand with Hasan Piker, who gets trafficked on our college campuses," said Stevens.
+Piker is a controversial political commentator who has campaigned with El-Sayed.
+El-Sayed, standing with Rep. Jim Clyburn, D-S.C., and Sen. Angela Alsobrooks, D-Md., outside a church on Sunday, dismissed Stevens endorsement of his opponent.
+"I actually don't think about Haley Stevens," El-Sayed said. "There are families that are preparing to send their kids to schools tomorrow that look like they did 50 years ago. They're worried about what they're going to feed their kids for lunch. They're worried that if one of their kids gets sick, they're not going to be able to pay the bills. Those are the things that matter."
+Rogers and El-Sayed are vying for a seat set to become vacant after Democratic Sen. Gary Peters decided not to seek re-election.
+In recent weeks, a deepening rift has worsened between El-Sayed and Stevens. At the center of it is U.S. support for Israel, which was a major issue in the primary contest.
+Stevens is a staunch supporter of Israel; El-Sayed has called the country's conduct in Gaza after the Oct. 7, 2023, terror attacks by the radical group Hamas a genocide.
+Stevens' fiancé, Jason Turkish, endorsed Rogers before Stevens' flip-flop, citing what he said was rising antisemitism.
+"I'm sorry people are upset," Stevens told reporters at a press conference in Detroit, standing with Rogers, whom she had attended church with Sunday morning.
+"I understand that," she said.
+Staffers in Stevens congressional office quit following her endorsement.
+"As of this morning, many members of our team have resigned, including myself," Justin German, Stevens' chief of staff for eight years, said in a statement obtained by MS NOW.
+"We are shocked and heartbroken by Congresswoman Stevens' decision to support Mike Rogers," German said, adding that he was speaking on behalf of the team "in wholeheartedly supporting Abdul El-Sayed for Senate," German said.
+Stevens had the endorsement of much of the Democratic establishment during the bruising primary, making her endorsement of Rogers even more stunning.
+She was the preferred candidate of Senate Minority Leader Chuck Schumer of New York, who on Sunday reiterated his support for El-Sayed and accused Republicans of Islamophobia.
+"Senate Democrats are united in our support for Abdul El-Sayed, because we know he will fight for the economic interests of working families in Michigan, unlike Mike Rogers, who is a tool of Donald Trump and billionaire donors," Schumer said. "We Democrats [are] equally united in our total revulsion at the racist, Islamophobic, and over-the-top false attacks on Abdul by Republicans."
+In a later post to X, Schumer called her endorsement of Rogers "a despicable betrayal from Rep. Stevens."
+Peters and Michigan Democratic Sen. Elissa Slotkin both disavowed Stevens for her endorsement.
+"[A]nyone who makes an election this important about themselves, and not Michiganders and our democracy, should think hard about whether they are serving the greater good," Slotkin said in a post to X.
+Curtis Hertel, the chair of the Michigan Democratic Party, appeared to suggest that Stevens had been kicked out of the party.
+"Congresswoman Stevens is not a current member of the Michigan Democratic Party, nor will she be in the future," he said in an X post.
+In a Truth Social post, Trump praised Stevens' endorsement.
+"Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the Primary to Abdul Mohamed El-Sayed, and who has been breathlessly wined and dined by the Dumocrats to help in their Michigan Campaign for the United States Senate against Mike Rogers, has just ENDORSED Mike Rogers for Senate!" the president said.
+"Her following is huge, and the level of respect from the People of Michigan, especially our African American and Jewish populations, is virtually unparalleled," he said.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
+    publishedAt: "2026-11-01T21:06:42+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "my-wife-cried-when-i-found-out-she-had-o-7376d159",
+    title: "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+    titleJa: "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
+    summaryJa: "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
+    bodyOriginal: `“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”`,
+    bodyJa: `“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
+    publishedAt: "2026-11-01T20:00:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-19916000",
+    readTime: 2,
+  },
+  {
+    id: "thousands-of-jobs-at-virgin-media-o2-to-694b6645",
+    title: "Thousands of jobs at Virgin Media O2 to be cut",
+    titleJa: "Thousands of jobs at Virgin Media O2 to be cut",
+    summaryJa: "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
+    bodyOriginal: `Thousands of jobs at Virgin Media O2 to be cut
+- Published
+Thousands of Virgin Media O2 staff face redundancy risk as the telecoms firm looks to save money in the face of billions of pounds of debt and tougher competition.
+The broadband provider has not finalised the number of roles to be cut but it is likely be a sizeable chunk of its 16,000 workforce, the BBC understands.
+VMO2 has billions of debt on its balance sheet and is tackling competition from both smaller providers as well as giants like BT, which has agreed a deal to acquire rival TalkTalk, a move which VMO2 has firmly opposed.
+VMO2 declined to comment. The Prospect union, which represents VMO2 staff, said the cuts were "disappointing and very unsettling".
+Deputy general secretary Noel McClean said it is "committed to supporting our members through what is a difficult time, as well as also working with employers to explore ways to mitigate the number of redundancies and ensure retraining and redeployment of staff affected".
+The majority of the affected staff will be in non-customer facing roles and a number of senior leadership changes are already under way, the BBC has been told.
+VMO2 is also expected to review its use of contractors and suppliers in conjunction with the job cuts that were first reported by Sky News.
+As of 30 June, VMO2's total debt stands at £27.2bn while it holds assets worth £45.9bn, according to the firm's latest accounts.
+Meanwhile, the company is dealing with fierce competition from cheaper "altnets" like Hyperoptic, Community Fibre, Gigaclear, and YouFibre.
+VMO2's had attempted to respond to this growing threat by buying altnet competitor Netomnia for £2bn via nexfibre, a joint venture owned by VMO2's owners.
+However, the Competition Markets Authority (CMA) has provisionally found competition concerns in the deal, external, with a final decision to come in December, sparking anger from VMO2.
+BT share price jump
+At the time, VMO2 called the BT takeover a "stitch-up", which allowed its rival "tighten its grip" over the market.
+BT said its deal provided "a safety net" for TalkTalk customers as their broadband provider faced collapse without the takeover.
+On Friday, BT's share price jumped 7% after the Financial Times reported VMO2 was close to agreeing a deal , external to use its rival's fibre broadband network.
+VMO2 was minded to go ahead with the plans after halting upgrades and expansion of its own infrastructure to ease concerns over its debt pile, the paper reported.
+The BBC has been told the deal is very close and that VMO2 is highly likely to announce it will stop all investment in fibre in its results on Tuesday.
+Additional reporting by Ben King
+- Published5 October`,
+    bodyJa: `Thousands of jobs at Virgin Media O2 to be cut
+- Published
+Thousands of Virgin Media O2 staff face redundancy risk as the telecoms firm looks to save money in the face of billions of pounds of debt and tougher competition.
+The broadband provider has not finalised the number of roles to be cut but it is likely be a sizeable chunk of its 16,000 workforce, the BBC understands.
+VMO2 has billions of debt on its balance sheet and is tackling competition from both smaller providers as well as giants like BT, which has agreed a deal to acquire rival TalkTalk, a move which VMO2 has firmly opposed.
+VMO2 declined to comment. The Prospect union, which represents VMO2 staff, said the cuts were "disappointing and very unsettling".
+Deputy general secretary Noel McClean said it is "committed to supporting our members through what is a difficult time, as well as also working with employers to explore ways to mitigate the number of redundancies and ensure retraining and redeployment of staff affected".
+The majority of the affected staff will be in non-customer facing roles and a number of senior leadership changes are already under way, the BBC has been told.
+VMO2 is also expected to review its use of contractors and suppliers in conjunction with the job cuts that were first reported by Sky News.
+As of 30 June, VMO2's total debt stands at £27.2bn while it holds assets worth £45.9bn, according to the firm's latest accounts.
+Meanwhile, the company is dealing with fierce competition from cheaper "altnets" like Hyperoptic, Community Fibre, Gigaclear, and YouFibre.
+VMO2's had attempted to respond to this growing threat by buying altnet competitor Netomnia for £2bn via nexfibre, a joint venture owned by VMO2's owners.
+However, the Competition Markets Authority (CMA) has provisionally found competition concerns in the deal, external, with a final decision to come in December, sparking anger from VMO2.
+BT share price jump
+At the time, VMO2 called the BT takeover a "stitch-up", which allowed its rival "tighten its grip" over the market.
+BT said its deal provided "a safety net" for TalkTalk customers as their broadband provider faced collapse without the takeover.
+On Friday, BT's share price jumped 7% after the Financial Times reported VMO2 was close to agreeing a deal , external to use its rival's fibre broadband network.
+VMO2 was minded to go ahead with the plans after halting upgrades and expansion of its own infrastructure to ease concerns over its debt pile, the paper reported.
+The BBC has been told the deal is very close and that VMO2 is highly likely to announce it will stop all investment in fibre in its results on Tuesday.
+Additional reporting by Ben King
+- Published5 October`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-01T16:57:14+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac17/live/9ec7c8b0-d610-11f1-bdc5-33a5057f63d4.jpg",
+    readTime: 7,
+  },
+  {
+    id: "for-jpmorgan-amazon-fighting-ai-bots-lik-c9ab2806",
+    title: "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
+    titleJa: "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
+    summaryJa: "As companies from Amazon to JPMorgan block AI personal agents like Meta's Muse, retail experts warn that technology that removes customer friction usually wins.",
+    bodyOriginal: `The biggest names in banking and retail are starting to fight the tech titans, and one another, over a new kind of customer: the AI personal agent.
+JPMorgan Chase, Charles Schwab, Amazon, Neiman Marcus and Kohl's have moved to block personal agents like Meta Muse just as consumers start sending them out to find better savings rates, shop for deals and cancel subscriptions.
+The era of agentic AI has arrived, but there is uncertainty about what the landscape will look like when virtual storefronts become flooded with AI agents or when a business tries to block them.
+Reports last week of AI agents going rogue in customer accounts — and prominent politicians including Sen. Mark Warner and Sen. Bernie Sanders calling for bot legislation in response to the headlines — come on the heels of JPMorgan Chase CEO Jamie Dimon saying the bank currently blocks external AI agents from operating on behalf of retail customers, citing security risks.
+Some other retailers are leaning in. Walmart announced last week it is opening the virtual doors to AI agents that customers prefer to use. "We price products, not people, so the prices that an AI agent sees are the same prices that a human would see on Walmart.com, with applicable offers and fees shown before purchase," the company said in a blog post announcing the decision.
+A recent audit of 51 large U.S. retailers' published access rules by identity-verification company Billions Network and affiliated company AmanTrue, found only 11 have taken a deliberate position on AI agents. Five, including Amazon, Kohl's and Neiman Marcus, explicitly restrict them, while 37 block shopping agents largely by accident, through older bot rules written for scrapers. None has a way for a verified agent to complete a purchase.
+Based on Billions Network's analysis, blocking an agent can occur in multiple ways: blocking a specific bot from a third-party by its rules (e.g. as Chewy does with an Amazon bot), and employing more general blocks on any third-party bots attempting to access login, registration and checkout functions. Its analysis of published access rules comes with the caveat that those rules are not proof of technical enforcement.
+Evin McMullen, Billions Network and AmanTrue co-founder and CEO, said at this point, "Most of the retailers in our audit have not made a decision about AI agents at all."
+Michael Abbott, global banking lead at the consulting firm Accenture, thinks that businesses blocking AI agents will find it difficult to win with that approach over the long term.
+"If customers explicitly authorize an AI agent to act on their behalf, that's ultimately an extension of customer choice. The more important question isn't whether institutions can block agents, but whether they can create a secure and trusted way for them to engage," Abbott said.
+Abbott said that Accenture research found that 65% of consumers are open to using a GPT-like financial assistant through a Gen AI platform or digital wallet, and 71% would welcome an AI assistant embedded within their primary bank's mobile app.
+"We've seen this movie before … online banking, mobile banking and digital wallets. Customers tend to gravitate toward experiences that reduce friction and save time. The institutions that win are usually the ones that find a way to participate safely rather than resist the change," Abbott said.
+The real opportunity for banks is to become the trusted provider of the data, intelligence and execution that those agents rely on.
+"As interactions increasingly happen beyond bank-owned channels, banks still need to be present at those critical decision moments, even if they don't own the interface," Abbott said.
+Giving customers control over AI agents
+When it comes to distinguishing legitimate security concerns from companies protecting profits by making it harder to move money or comparison-shop, Abbott said both things can be true at the same time.
+"There are very real concerns around fraud, identity verification, liability and consumer protection. And customers expect their banks to safeguard their assets and data — those responsibilities don't disappear simply because an AI agent is involved," Abbott said, adding that at the same time, consumers have historically benefited from technologies that increase transparency and make it easier to compare options.
+"Our research found that 82% want to approve every AI action and 79% want the ability to immediately pause or stop AI activity. That tells us consumers are looking for convenience, but not at the expense of control," Abbott said.
+Mike Danford, owner and chief revenue officer of Adverio, which runs Amazon, Walmart and Target marketplace operations for e-commerce brands, said that some of the security fears businesses, including banks, cite are less about security and more about whose sandbox a customer plays in.
+"Amazon blocked Muse and other outside agents, but its own Buy for Me feature uses Amazon's agent on other brands' sites. Amazon doesn't appear worried about the agent. It's worried about who holds the data," Danford said. "Amazon now lets shoppers set rules that auto-purchase when a price threshold is met, and that's the version of agent buying consumers seem to accept, because the shopper still approves the decision within predefined parameters," he added.
+"We think it's fairly straightforward that third-party applications that offer to make purchases on behalf of customers from other businesses should operate openly and respect service provider decisions about whether or not to participate," an Amazon spokesperson said. "Agentic third-party applications such as Muse have the same obligations, and we've requested that Meta remove Amazon from the experience," the spokesperson added.
+Danford says banks are similar, just with a fee instead of a wall.
+"JPMorgan now charges aggregators like Plaid for pulling account data, so the toll lands on the apps a consumer uses and may trickle down in subscription fees," he said.
+JPMorgan declined to comment.
+Plaid said at the time of the September 2025 deal that it would not impact any of its existing pricing agreements with customers. Plaid does not charge consumers, though apps and services that use Plaid determine their own customer fees and subscription prices.
+Michael Jabbara, head of payment ecosystem risk and control at the payments network Visa, declined to speak to any single bank's motives for blocking agentic AI, but he said the fraud risks from agents are "very real and very tangible."
+Consumers can be fooled by fake agents built by fraudsters to steal their credentials and payment details, he said, and a legitimate agent can act in ways the customer never intended, like buying a sofa the shopper had only asked it to find.
+Agents can also behave unpredictably: Jabbara described a user who asked his agent to book a gym slot, and when the slot was taken, the agent hacked the gym's scheduling software, deleted the existing appointment and put the user's name in its place. The concerns, he said, come down to knowing "who the agent is, who the agent is acting on behalf of," and whether it has "the appropriate permissions."
+"Agents are not just exchanging data. Agents can also take an action on behalf of a user," he said.
+Like other experts, Jabbara says past shifts from online to mobile shopping are instructive, but for another reason: "None of those innovations really scaled until people were able to build that foundational security layer that enabled trust for that scale to happen."
+'Agentic flooding'
+Another worry is volume. Millions of agents doing legitimate work for customers could swamp websites and customer-service systems, a phenomenon some call "agentic flooding."
+Amid the sudden rise of personal agents like Muse, Wharton School AI expert Ethan Mollick posted, "We will soon see what will be, in effect, a perfectly legal distributed denial of service attack on customer service departments authorized by millions of consumers when it becomes widely known that Muse/Dot/etc can make unlimited requests for old refunds, negotiate deals, etc."
+Abbott calls it a possibility, not a crisis. "I see it more as an infrastructure challenge than an existential threat," he said. "Most digital systems today were designed for human interactions. Agent-driven interactions could occur at a completely different scale and frequency. One person might have multiple agents continuously monitoring rates, researching products or evaluating alternatives."
+Nevertheless, he says the answer isn't to block them. "It's to build the next generation of infrastructure that can authenticate trusted agents, verify permissions, manage identity and support machine-to-machine interactions efficiently," he said.
+Which, he added, is nothing new for banks.
+"Customers used to interact with their banks a couple of times a month and now with mobile it is nearly daily. AI agents are just the next evolution. The organizations that prepare for that reality will be better positioned than those that try to prevent it," he said.
+While many financial sites already have defenses against overuse, to protect against the types of mechanized denial-of-service attacks that have long been possible, agents "never sleep and never lose focus," said Ed Felten, a Princeton professor emeritus of computer science who served as chief technologist at the Federal Trade Commission and deputy U.S. chief technology officer in the Obama administration. And the more agents use a site, the more the costs could rise for companies like banks.
+But Felten doubts the blocking will last. "When a button is clicked in the user's browser, it will be hard for a remote site to tell whether this was done by a human hand or directed by an AI agent on the user's computer," he said. "If there is a battle over AI access, it will slow the adoption of AI agents. But in the end, agents will win out because they will be so useful to users, so that sites that are too effective in blocking agents will lose business," he added.
+How long can incumbents keep 'the gates' closed?
+As the market forces sites to accept their customers' agents, common expectations will emerge about what is reasonable behavior by agents, experts said.
+But Joseph Chalom, CEO of SharpLink, one of the largest corporate holders of the cryptocurrency ether, and a former BlackRock executive, expects the gates to stay shut for a while.
+"These large incumbents effectively control the access points and will seek to keep their gates closed to fend off this innovative threat. Disruptors have fought the same battle for access for decades across travel, telephony, and financial data consolidators," Chalom said, adding that in each case, the incumbent has cited security concerns, but in fact they also face significant business model interruption.
+"For example, an AI agent working for users can easily rebook flight tickets at a lower cost, eating into the margins of airlines. And more significantly, an AI agent can move idle cash from checking and savings accounts earning little interest to a money market account earning 10x the interest rate," Chalom said, noting that these types of "switching costs" are being reduced to near zero as agents have full financial literacy and attention span.
+"For this reason, I don't expect any of them to be in a hurry to lower the drawbridge," Chalom said.
+In the near term, Abbott says, some institutions will welcome agents while others stay restrictive as they sort out authentication, liability and governance. Longer term, he says, the data shows that companies should expect people to hand the administrative work of financial decisions to their agents. "Defense can prevent you from losing in the short term but to win banks will need an offensive strategy," Abbott said.
+Proprietary bots will need to be good enough to not only keep customers but keep them from wanting to use other agents, and that is how CEOs like Amazon's Andy Jassy are talking about it. "We believe Alexa for Shopping is going to be the primary shopping agent customers use to shop Amazon. Having a shopping assistant constantly by your side as you browse, get inspired, have questions on product detail pages, and that you can simply ask to buy something based on your prior purchases that already have your history, your shipping address, and payment info, is uniquely helpful and convenient for customers," he said during last week's latest quarterly earnings call.
+Ultimately, brands are about to be tested in ways that haven't been possible before. Human customers become attached to brands for reasons beyond price: a nostalgic cereal that evokes warm fuzzy childhood memories, an airline soaked in the nostalgia of family vacations, or a bank with a favorite teller. An AI agent doesn't care about any of that.
+"Brand loyalty and customer relationships are getting tested. An AI agent has no feeling about a logo or a ten-year relationship. It has a mandate and cares purely about outcomes," said Nikhil Behl, president of software at FICO, the analytics company best known for credit scores. "The levers that used to create stickiness get replaced by levers an agent can actually read, such as consistent approvals, transparent pricing, fast resolution, and terms that hold up through comparison," Behl said.`,
+    bodyJa: `The biggest names in banking and retail are starting to fight the tech titans, and one another, over a new kind of customer: the AI personal agent.
+JPMorgan Chase, Charles Schwab, Amazon, Neiman Marcus and Kohl's have moved to block personal agents like Meta Muse just as consumers start sending them out to find better savings rates, shop for deals and cancel subscriptions.
+The era of agentic AI has arrived, but there is uncertainty about what the landscape will look like when virtual storefronts become flooded with AI agents or when a business tries to block them.
+Reports last week of AI agents going rogue in customer accounts — and prominent politicians including Sen. Mark Warner and Sen. Bernie Sanders calling for bot legislation in response to the headlines — come on the heels of JPMorgan Chase CEO Jamie Dimon saying the bank currently blocks external AI agents from operating on behalf of retail customers, citing security risks.
+Some other retailers are leaning in. Walmart announced last week it is opening the virtual doors to AI agents that customers prefer to use. "We price products, not people, so the prices that an AI agent sees are the same prices that a human would see on Walmart.com, with applicable offers and fees shown before purchase," the company said in a blog post announcing the decision.
+A recent audit of 51 large U.S. retailers' published access rules by identity-verification company Billions Network and affiliated company AmanTrue, found only 11 have taken a deliberate position on AI agents. Five, including Amazon, Kohl's and Neiman Marcus, explicitly restrict them, while 37 block shopping agents largely by accident, through older bot rules written for scrapers. None has a way for a verified agent to complete a purchase.
+Based on Billions Network's analysis, blocking an agent can occur in multiple ways: blocking a specific bot from a third-party by its rules (e.g. as Chewy does with an Amazon bot), and employing more general blocks on any third-party bots attempting to access login, registration and checkout functions. Its analysis of published access rules comes with the caveat that those rules are not proof of technical enforcement.
+Evin McMullen, Billions Network and AmanTrue co-founder and CEO, said at this point, "Most of the retailers in our audit have not made a decision about AI agents at all."
+Michael Abbott, global banking lead at the consulting firm Accenture, thinks that businesses blocking AI agents will find it difficult to win with that approach over the long term.
+"If customers explicitly authorize an AI agent to act on their behalf, that's ultimately an extension of customer choice. The more important question isn't whether institutions can block agents, but whether they can create a secure and trusted way for them to engage," Abbott said.
+Abbott said that Accenture research found that 65% of consumers are open to using a GPT-like financial assistant through a Gen AI platform or digital wallet, and 71% would welcome an AI assistant embedded within their primary bank's mobile app.
+"We've seen this movie before … online banking, mobile banking and digital wallets. Customers tend to gravitate toward experiences that reduce friction and save time. The institutions that win are usually the ones that find a way to participate safely rather than resist the change," Abbott said.
+The real opportunity for banks is to become the trusted provider of the data, intelligence and execution that those agents rely on.
+"As interactions increasingly happen beyond bank-owned channels, banks still need to be present at those critical decision moments, even if they don't own the interface," Abbott said.
+Giving customers control over AI agents
+When it comes to distinguishing legitimate security concerns from companies protecting profits by making it harder to move money or comparison-shop, Abbott said both things can be true at the same time.
+"There are very real concerns around fraud, identity verification, liability and consumer protection. And customers expect their banks to safeguard their assets and data — those responsibilities don't disappear simply because an AI agent is involved," Abbott said, adding that at the same time, consumers have historically benefited from technologies that increase transparency and make it easier to compare options.
+"Our research found that 82% want to approve every AI action and 79% want the ability to immediately pause or stop AI activity. That tells us consumers are looking for convenience, but not at the expense of control," Abbott said.
+Mike Danford, owner and chief revenue officer of Adverio, which runs Amazon, Walmart and Target marketplace operations for e-commerce brands, said that some of the security fears businesses, including banks, cite are less about security and more about whose sandbox a customer plays in.
+"Amazon blocked Muse and other outside agents, but its own Buy for Me feature uses Amazon's agent on other brands' sites. Amazon doesn't appear worried about the agent. It's worried about who holds the data," Danford said. "Amazon now lets shoppers set rules that auto-purchase when a price threshold is met, and that's the version of agent buying consumers seem to accept, because the shopper still approves the decision within predefined parameters," he added.
+"We think it's fairly straightforward that third-party applications that offer to make purchases on behalf of customers from other businesses should operate openly and respect service provider decisions about whether or not to participate," an Amazon spokesperson said. "Agentic third-party applications such as Muse have the same obligations, and we've requested that Meta remove Amazon from the experience," the spokesperson added.
+Danford says banks are similar, just with a fee instead of a wall.
+"JPMorgan now charges aggregators like Plaid for pulling account data, so the toll lands on the apps a consumer uses and may trickle down in subscription fees," he said.
+JPMorgan declined to comment.
+Plaid said at the time of the September 2025 deal that it would not impact any of its existing pricing agreements with customers. Plaid does not charge consumers, though apps and services that use Plaid determine their own customer fees and subscription prices.
+Michael Jabbara, head of payment ecosystem risk and control at the payments network Visa, declined to speak to any single bank's motives for blocking agentic AI, but he said the fraud risks from agents are "very real and very tangible."
+Consumers can be fooled by fake agents built by fraudsters to steal their credentials and payment details, he said, and a legitimate agent can act in ways the customer never intended, like buying a sofa the shopper had only asked it to find.
+Agents can also behave unpredictably: Jabbara described a user who asked his agent to book a gym slot, and when the slot was taken, the agent hacked the gym's scheduling software, deleted the existing appointment and put the user's name in its place. The concerns, he said, come down to knowing "who the agent is, who the agent is acting on behalf of," and whether it has "the appropriate permissions."
+"Agents are not just exchanging data. Agents can also take an action on behalf of a user," he said.
+Like other experts, Jabbara says past shifts from online to mobile shopping are instructive, but for another reason: "None of those innovations really scaled until people were able to build that foundational security layer that enabled trust for that scale to happen."
+'Agentic flooding'
+Another worry is volume. Millions of agents doing legitimate work for customers could swamp websites and customer-service systems, a phenomenon some call "agentic flooding."
+Amid the sudden rise of personal agents like Muse, Wharton School AI expert Ethan Mollick posted, "We will soon see what will be, in effect, a perfectly legal distributed denial of service attack on customer service departments authorized by millions of consumers when it becomes widely known that Muse/Dot/etc can make unlimited requests for old refunds, negotiate deals, etc."
+Abbott calls it a possibility, not a crisis. "I see it more as an infrastructure challenge than an existential threat," he said. "Most digital systems today were designed for human interactions. Agent-driven interactions could occur at a completely different scale and frequency. One person might have multiple agents continuously monitoring rates, researching products or evaluating alternatives."
+Nevertheless, he says the answer isn't to block them. "It's to build the next generation of infrastructure that can authenticate trusted agents, verify permissions, manage identity and support machine-to-machine interactions efficiently," he said.
+Which, he added, is nothing new for banks.
+"Customers used to interact with their banks a couple of times a month and now with mobile it is nearly daily. AI agents are just the next evolution. The organizations that prepare for that reality will be better positioned than those that try to prevent it," he said.
+While many financial sites already have defenses against overuse, to protect against the types of mechanized denial-of-service attacks that have long been possible, agents "never sleep and never lose focus," said Ed Felten, a Princeton professor emeritus of computer science who served as chief technologist at the Federal Trade Commission and deputy U.S. chief technology officer in the Obama administration. And the more agents use a site, the more the costs could rise for companies like banks.
+But Felten doubts the blocking will last. "When a button is clicked in the user's browser, it will be hard for a remote site to tell whether this was done by a human hand or directed by an AI agent on the user's computer," he said. "If there is a battle over AI access, it will slow the adoption of AI agents. But in the end, agents will win out because they will be so useful to users, so that sites that are too effective in blocking agents will lose business," he added.
+How long can incumbents keep 'the gates' closed?
+As the market forces sites to accept their customers' agents, common expectations will emerge about what is reasonable behavior by agents, experts said.
+But Joseph Chalom, CEO of SharpLink, one of the largest corporate holders of the cryptocurrency ether, and a former BlackRock executive, expects the gates to stay shut for a while.
+"These large incumbents effectively control the access points and will seek to keep their gates closed to fend off this innovative threat. Disruptors have fought the same battle for access for decades across travel, telephony, and financial data consolidators," Chalom said, adding that in each case, the incumbent has cited security concerns, but in fact they also face significant business model interruption.
+"For example, an AI agent working for users can easily rebook flight tickets at a lower cost, eating into the margins of airlines. And more significantly, an AI agent can move idle cash from checking and savings accounts earning little interest to a money market account earning 10x the interest rate," Chalom said, noting that these types of "switching costs" are being reduced to near zero as agents have full financial literacy and attention span.
+"For this reason, I don't expect any of them to be in a hurry to lower the drawbridge," Chalom said.
+In the near term, Abbott says, some institutions will welcome agents while others stay restrictive as they sort out authentication, liability and governance. Longer term, he says, the data shows that companies should expect people to hand the administrative work of financial decisions to their agents. "Defense can prevent you from losing in the short term but to win banks will need an offensive strategy," Abbott said.
+Proprietary bots will need to be good enough to not only keep customers but keep them from wanting to use other agents, and that is how CEOs like Amazon's Andy Jassy are talking about it. "We believe Alexa for Shopping is going to be the primary shopping agent customers use to shop Amazon. Having a shopping assistant constantly by your side as you browse, get inspired, have questions on product detail pages, and that you can simply ask to buy something based on your prior purchases that already have your history, your shipping address, and payment info, is uniquely helpful and convenient for customers," he said during last week's latest quarterly earnings call.
+Ultimately, brands are about to be tested in ways that haven't been possible before. Human customers become attached to brands for reasons beyond price: a nostalgic cereal that evokes warm fuzzy childhood memories, an airline soaked in the nostalgia of family vacations, or a bank with a favorite teller. An AI agent doesn't care about any of that.
+"Brand loyalty and customer relationships are getting tested. An AI agent has no feeling about a logo or a ten-year relationship. It has a mandate and cares purely about outcomes," said Nikhil Behl, president of software at FICO, the analytics company best known for credit scores. "The levers that used to create stickiness get replaced by levers an agent can actually read, such as consistent approvals, transparent pricing, fast resolution, and terms that hold up through comparison," Behl said.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
+    publishedAt: "2026-11-01T16:34:43+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "apple-s-new-earnings-era-begins-at-a-cri-dec941a9",
+    title: "Apple’s new earnings era begins at a critical time for Big Tech",
+    titleJa: "Apple’s new earnings era begins at a critical time for Big Tech",
+    summaryJa: "A rare Monday earnings report for Apple will give investors a glimpse into how new CEO John Ternus is managing inflated memory prices and a tougher backdrop for consumer spending.",
+    bodyOriginal: `A rare Monday earnings report for Apple will give investors a glimpse into how new CEO John Ternus is managing inflated memory prices and a tougher backdrop for consumer spending.`,
+    bodyJa: `A rare Monday earnings report for Apple will give investors a glimpse into how new CEO John Ternus is managing inflated memory prices and a tougher backdrop for consumer spending.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
+    publishedAt: "2026-11-01T15:00:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-47165214",
+    readTime: 2,
+  },
+  {
     id: "america-is-doing-better-than-you-think-y-9525b51b",
     title: "America is doing better than you think. Your algorithm is just hiding it.",
     titleJa: "America is doing better than you think. Your algorithm is just hiding it.",
@@ -1697,316 +2057,6 @@ WATCH: Mike Khouw likes this options strategy for Meta post-earnings.`,
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 5,
-  },
-  {
-    id: "g20-family-photo-cancelled-after-protest-11db944d",
-    title: "G20 'family photo' cancelled after protests over presence of Russian minister",
-    titleJa: "G20 'family photo' cancelled after protests over presence of Russian minister",
-    summaryJa: "UK Foreign Secretary Ed Miliband  confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
-    bodyOriginal: `G20 'family photo' cancelled after protests over presence of Russian minister
-- Published
-European diplomats have refused to stand for an official photo with Russia's Foreign Minister Sergei Lavrov at the G20 Foreign Ministers' Meeting, leading to the American hosts cancelling the planned picture.
-Two officials confirmed to BBC the cancellation of the "family photo" scheduled for Friday, which usually include representatives from all nations attending.
-"Let me say this directly to the Russian Foreign Minister: We all know who the aggressor in this war is," UK Foreign Secretary Ed Miliband later told his Russian counterpart at the summit, accusing his government of killing innocent civilians in Ukraine.
-The meeting is being hosted in Atlanta by US Secretary of State Marco Rubio.
-Speaking with G20 foreign ministers on Friday, Miliband said that member countries must "work harder to secure just and lasting peace in Ukraine".
-"Russia's war continues to cause colossal global harm - including the deaths of thousands of innocent civilians and disruption that hits energy and supplies and worsens food insecurity," he said.
-"This war is not simply a test for Europe or for Nato - it requires all of us to apply economic and diplomatic pressure to deprive Putin of the revenues that perpetuate this barbaric war."
-Ukraine is not a G20 member but has been invited to similar meetings in recent years. However, Ukraine was not invited to this meeting.
-One British official told the BBC: "The UK has a longstanding policy not to have direct, bilateral engagement with Russian ministers since the invasion of Ukraine and we are not about to change that".
-Relations between Ukraine and the US have been particularly tense this month, with a diplomatic standoff between Ukrainian President Volodymyr Zelensky and US President Donald Trump over Kyiv's strikes on oil infrastructure within Russia.
-A US official said the photo was cancelled "after it became clear some of the delegations were unwilling to participate in a joint photo".
-"Rather than allow a ceremonial photo opportunity to become a diplomatic distraction, the US decided to forgo the photo and keep the focus on the substantive discussions," the official said.
-In contrast to Ukraine, relations between the US and Russia appear to have partially thawed in recent weeks, as Trump waived some sanctions and agreed a deal to import Russian diesel for the American market.
-The move comes as Trump attempts to lower fuel prices in the US ahead of midterm elections on Tuesday, after months spent grappling with the political consequences of the Iran war.
-Ukraine and its European allies have heavily criticised Trump's deal with Russian President Vladimir Putin.
-Zelensky called it "a gift" to Putin that amounts to "an investment in a war that must be ended, not prolonged".
-Trump said his decision to suspend several Russian sanctions is an effort to keep Moscow at the negotiating table in the war between Russia and Ukraine.
-Putin has said Russia, which introduced a ban on diesel exports earlier this year, is willing to supply both the US and global markets with oil and petroleum products.
-Still, the US State Department this week said it had approved the sale of more than $2bn worth of Patriot missiles to Ukraine, a critically needed munition for the country's air defences to protect itself from Russian attacks.
-Russia launched its full-scale invasion of Ukraine in 2022 and currently controls approximately a fifth of Ukrainian territory.
-Moscow has in recent weeks intensified its deadly missile and drone attacks on Kyiv and other Ukrainian cities.
-Related topics
-- Published11 hours ago`,
-    bodyJa: `G20 'family photo' cancelled after protests over presence of Russian minister
-- Published
-European diplomats have refused to stand for an official photo with Russia's Foreign Minister Sergei Lavrov at the G20 Foreign Ministers' Meeting, leading to the American hosts cancelling the planned picture.
-Two officials confirmed to BBC the cancellation of the "family photo" scheduled for Friday, which usually include representatives from all nations attending.
-"Let me say this directly to the Russian Foreign Minister: We all know who the aggressor in this war is," UK Foreign Secretary Ed Miliband later told his Russian counterpart at the summit, accusing his government of killing innocent civilians in Ukraine.
-The meeting is being hosted in Atlanta by US Secretary of State Marco Rubio.
-Speaking with G20 foreign ministers on Friday, Miliband said that member countries must "work harder to secure just and lasting peace in Ukraine".
-"Russia's war continues to cause colossal global harm - including the deaths of thousands of innocent civilians and disruption that hits energy and supplies and worsens food insecurity," he said.
-"This war is not simply a test for Europe or for Nato - it requires all of us to apply economic and diplomatic pressure to deprive Putin of the revenues that perpetuate this barbaric war."
-Ukraine is not a G20 member but has been invited to similar meetings in recent years. However, Ukraine was not invited to this meeting.
-One British official told the BBC: "The UK has a longstanding policy not to have direct, bilateral engagement with Russian ministers since the invasion of Ukraine and we are not about to change that".
-Relations between Ukraine and the US have been particularly tense this month, with a diplomatic standoff between Ukrainian President Volodymyr Zelensky and US President Donald Trump over Kyiv's strikes on oil infrastructure within Russia.
-A US official said the photo was cancelled "after it became clear some of the delegations were unwilling to participate in a joint photo".
-"Rather than allow a ceremonial photo opportunity to become a diplomatic distraction, the US decided to forgo the photo and keep the focus on the substantive discussions," the official said.
-In contrast to Ukraine, relations between the US and Russia appear to have partially thawed in recent weeks, as Trump waived some sanctions and agreed a deal to import Russian diesel for the American market.
-The move comes as Trump attempts to lower fuel prices in the US ahead of midterm elections on Tuesday, after months spent grappling with the political consequences of the Iran war.
-Ukraine and its European allies have heavily criticised Trump's deal with Russian President Vladimir Putin.
-Zelensky called it "a gift" to Putin that amounts to "an investment in a war that must be ended, not prolonged".
-Trump said his decision to suspend several Russian sanctions is an effort to keep Moscow at the negotiating table in the war between Russia and Ukraine.
-Putin has said Russia, which introduced a ban on diesel exports earlier this year, is willing to supply both the US and global markets with oil and petroleum products.
-Still, the US State Department this week said it had approved the sale of more than $2bn worth of Patriot missiles to Ukraine, a critically needed munition for the country's air defences to protect itself from Russian attacks.
-Russia launched its full-scale invasion of Ukraine in 2022 and currently controls approximately a fifth of Ukrainian territory.
-Moscow has in recent weeks intensified its deadly missile and drone attacks on Kyiv and other Ukrainian cities.
-Related topics
-- Published11 hours ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-30T22:11:52+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa3e/live/bc4ea460-d487-11f1-80bc-6d398902272f.jpg",
-    readTime: 9,
-  },
-  {
-    id: "why-gold-plunged-to-its-lowest-price-in-e9027e79",
-    title: "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
-    titleJa: "Why gold plunged to its lowest price in a year despite renewed Iran jitters",
-    summaryJa: "Safe-haven gold fell to its lowest price in a year, despite jitters around the potential for fresh Middle East attacks following the U.S. midterm elections on Tuesday",
-    bodyOriginal: `Safe-haven gold fell to its lowest price in a year, despite jitters around the potential for fresh Middle East attacks following the U.S. midterm elections on Tuesday`,
-    bodyJa: `Safe-haven gold fell to its lowest price in a year, despite jitters around the potential for fresh Middle East attacks following the U.S. midterm elections on Tuesday`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories",
-    publishedAt: "2026-10-30T21:30:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-86036110",
-    readTime: 2,
-  },
-  {
-    id: "crypto-giant-binance-attempting-to-recov-db231a97",
-    title: "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-    titleJa: "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-    summaryJa: "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-    bodyOriginal: `Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
-- Published
-Binance, the world's largest cryptocurrency exchange, says it has frozen around half of the funds stolen in a "complex" hack, after $6.3bn (£4.7bn) was accessed in what is believed to be a record heist.
-The firm said $3bn of its stolen digital assets had been secured - but many were still in the hands of unidentified hackers. It initially thought an engineer's laptop had been compromised, allowing unauthorised withdrawals, but later said the attack was wider.
-Several analytics firms have linked the hack, which eclipses a $1.5bn (£1.12bn) heist on the Bybit exchange in 2025, to a North Korean hacking unit.
-The US Secret Service said it was "working around the clock" "to identify, freeze, trace, and recover" stolen funds.
-America's lead federal agency for investigating financial crimes added that it would "identify the cyber criminals responsible and bring them to justice", while Binance also said it was working with the FBI.
-While Binance said its US-facing exchange was unaffected, the US would still have jurisdiction to investigate the hack and help track down stolen funds - an effort which generally involves a global law enforcement effort.
-The hack also involved some US-linked assets, such as stablecoins Tether and Circle – cryptocurrencies pegged to the dollar.
-Binance told its users "your money is safe, and we're covering every loss".
-It had initially suspended all deposits and withdrawals - but then said in an update that "deposits remain unaffected".
-Who could be behind the Binance hack and what we know so far
-- Published10 hours ago
-Binance's co-CEO Richard Teng said: "This was not carried out by one person. Our initial investigation suggested that the security incident may have involved a compromised laptop, however our subsequent investigation has uncovered additional points of breach."
-Teng also describes how the hackers used "a self-destruct mechanism that destroyed tooling and traces as they went, making it more difficult for us to trace and investigate".
-Initially, the company had indicated the breach "may have started with a compromised DevOps engineer's laptop" but later statements have pointed to a broader breach.
-In a later update, the firm set it had "set aside" more than $6.34B in company funds to cover the stolen assets and was "actively buying" a range of crypto tokens.
-The Binance hack spooked cryptocurrency markets on Friday. The price of Bitcoin was down 5% to $76,800 in Friday afternoon trading in New York.
-Cryptocurrency exchange Coinbase was down 12% as investors also reacted to earnings results in which the firm reported revenue slightly below expectations. Robinhood, a financial services company that trades in cryptocurrency, was down 7.8%.
-Binance, which was founded in China in 2017, allows users to trade digital assets and is estimated to have more than 300 million registered users worldwide.
-The company said in 2024 that it had more than $160bn in assets under its custody.
-A lot of the fear right now from Binance users - and the crypto industry at large - is whether or not Binance will actually be capable of covering this enormous financial loss.
-The company has said repeatedly that customer funds will be covered and that the firm is strong enough to weather the storm.
-But crypto history watchers have been pointing out online that this is exactly the kind of message that FTX CEO Sam Bankman-Fried gave before his crypto exchange collapsed in 2022, leading to huge losses for customers and the industry.
-Several experts have warned customers not to regard Binance's promise to cover losses as legally binding and said they may need to pursue litigation to recover them.
-Daniel Tunkel, of the London-based Edwin Coe law firm, said that would "come down to what [customers] have been promised in their contracts", and "where Binance can be sued for non-performance, if it comes to it".
-Binance has been subject of regulatory scrutiny around the world.
-Meanwhile, AI-powered investigations company TRM Labs said that several elements of the attack resembled earlier North Korean-linked incidents, including the Bybit hack.
-In the last five years the crypto industry has been beset by enormous losses from hackers.
-In nearly all cases investigators have blamed hackers from North Korea, pointing to the infamous Lazarus Group - also know as TraderTraitor. The names refer to clusters of cyber criminals accused of working directly for the regime.
-Chainalysis, a crypto analytics firm, said it had "high confidence" that a North Korean is linked to the hack.
-North Korea is an impoverished country with very little industry and heavy international sanctions and experts say the regime uses cyber crime as a way to bring money in.
-North Korea has always denied this, but the wealth of evidence from cryptocurrency flow analysis and insider interviews from defectors is compelling.
-It makes North Korea likely to be the only nation that uses hacking as a way to raise public funds.
-Related topics
-- Published26 August`,
-    bodyJa: `Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
-- Published
-Binance, the world's largest cryptocurrency exchange, says it has frozen around half of the funds stolen in a "complex" hack, after $6.3bn (£4.7bn) was accessed in what is believed to be a record heist.
-The firm said $3bn of its stolen digital assets had been secured - but many were still in the hands of unidentified hackers. It initially thought an engineer's laptop had been compromised, allowing unauthorised withdrawals, but later said the attack was wider.
-Several analytics firms have linked the hack, which eclipses a $1.5bn (£1.12bn) heist on the Bybit exchange in 2025, to a North Korean hacking unit.
-The US Secret Service said it was "working around the clock" "to identify, freeze, trace, and recover" stolen funds.
-America's lead federal agency for investigating financial crimes added that it would "identify the cyber criminals responsible and bring them to justice", while Binance also said it was working with the FBI.
-While Binance said its US-facing exchange was unaffected, the US would still have jurisdiction to investigate the hack and help track down stolen funds - an effort which generally involves a global law enforcement effort.
-The hack also involved some US-linked assets, such as stablecoins Tether and Circle – cryptocurrencies pegged to the dollar.
-Binance told its users "your money is safe, and we're covering every loss".
-It had initially suspended all deposits and withdrawals - but then said in an update that "deposits remain unaffected".
-Who could be behind the Binance hack and what we know so far
-- Published10 hours ago
-Binance's co-CEO Richard Teng said: "This was not carried out by one person. Our initial investigation suggested that the security incident may have involved a compromised laptop, however our subsequent investigation has uncovered additional points of breach."
-Teng also describes how the hackers used "a self-destruct mechanism that destroyed tooling and traces as they went, making it more difficult for us to trace and investigate".
-Initially, the company had indicated the breach "may have started with a compromised DevOps engineer's laptop" but later statements have pointed to a broader breach.
-In a later update, the firm set it had "set aside" more than $6.34B in company funds to cover the stolen assets and was "actively buying" a range of crypto tokens.
-The Binance hack spooked cryptocurrency markets on Friday. The price of Bitcoin was down 5% to $76,800 in Friday afternoon trading in New York.
-Cryptocurrency exchange Coinbase was down 12% as investors also reacted to earnings results in which the firm reported revenue slightly below expectations. Robinhood, a financial services company that trades in cryptocurrency, was down 7.8%.
-Binance, which was founded in China in 2017, allows users to trade digital assets and is estimated to have more than 300 million registered users worldwide.
-The company said in 2024 that it had more than $160bn in assets under its custody.
-A lot of the fear right now from Binance users - and the crypto industry at large - is whether or not Binance will actually be capable of covering this enormous financial loss.
-The company has said repeatedly that customer funds will be covered and that the firm is strong enough to weather the storm.
-But crypto history watchers have been pointing out online that this is exactly the kind of message that FTX CEO Sam Bankman-Fried gave before his crypto exchange collapsed in 2022, leading to huge losses for customers and the industry.
-Several experts have warned customers not to regard Binance's promise to cover losses as legally binding and said they may need to pursue litigation to recover them.
-Daniel Tunkel, of the London-based Edwin Coe law firm, said that would "come down to what [customers] have been promised in their contracts", and "where Binance can be sued for non-performance, if it comes to it".
-Binance has been subject of regulatory scrutiny around the world.
-Meanwhile, AI-powered investigations company TRM Labs said that several elements of the attack resembled earlier North Korean-linked incidents, including the Bybit hack.
-In the last five years the crypto industry has been beset by enormous losses from hackers.
-In nearly all cases investigators have blamed hackers from North Korea, pointing to the infamous Lazarus Group - also know as TraderTraitor. The names refer to clusters of cyber criminals accused of working directly for the regime.
-Chainalysis, a crypto analytics firm, said it had "high confidence" that a North Korean is linked to the hack.
-North Korea is an impoverished country with very little industry and heavy international sanctions and experts say the regime uses cyber crime as a way to bring money in.
-North Korea has always denied this, but the wealth of evidence from cryptocurrency flow analysis and insider interviews from defectors is compelling.
-It makes North Korea likely to be the only nation that uses hacking as a way to raise public funds.
-Related topics
-- Published26 August`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-30T21:13:14+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg",
-    readTime: 10,
-  },
-  {
-    id: "in-a-wild-october-for-markets-these-stoc-a198cf31",
-    title: "In a wild October for markets, these stocks were the biggest winners and losers",
-    titleJa: "In a wild October for markets, these stocks were the biggest winners and losers",
-    summaryJa: "Many Big Tech stocks were hit hard but the S&amp;P 500 showed strength under the surface, with a majority of stocks showing gains for the month.",
-    bodyOriginal: `Many Big Tech stocks were hit hard but the S&amp;P 500 showed strength under the surface, with a majority of stocks showing gains for the month.`,
-    bodyJa: `Many Big Tech stocks were hit hard but the S&amp;P 500 showed strength under the surface, with a majority of stocks showing gains for the month.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories",
-    publishedAt: "2026-10-30T20:52:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-70367621",
-    readTime: 2,
-  },
-  {
-    id: "us-tech-stocks-see-sharp-falls-as-ai-spe-dd4041fd",
-    title: "US tech stocks see sharp falls as AI spending nears $1tn",
-    titleJa: "US tech stocks see sharp falls as AI spending nears $1tn",
-    summaryJa: "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-    bodyOriginal: `US tech stocks see sharp falls as AI spending nears $1tn
-- Published
-Tech stocks tumbled for the second day in a row as concerns rise over the hundreds of billions of dollars firms are investing in artificial intelligence (AI).
-Shares in Intel plummeted by 28% on Friday, while Google owner Alphabet saw its stock price continue to fall another 1.4% after a 12% plunge on Thursday.
-Other tech stocks, including Reddit and Amazon also fell, while the Nasdaq index of the largest tech firms listed in the US, ended October with its worst monthly slide since March 2025.
-While tech firms are spending big on AI, their earnings are not always meeting analysts' expectations, spooking investors and creating fears of an AI bubble.
-Major tech companies have ramped up artificial intelligence spending, with Meta, Alphabet, Oracle, Amazon, and Microsoft committing to spending $800bn between them in 2026.
-Alphabet's stock market value fell sharply on Thursday, taking more than $500bn (£374bn) off its market value after it revealed the AI summaries it now provides as the top answer to search queries were affecting its core search advertising revenue.
-At the same time, Alphabet expects to spend up to $205bn this year on investments, almost entirely related to AI.
-The bigger losses on Friday were elsewhere however, with Intel shedding more than $130bn in value.
-The chip maker said it planned to increase spending on AI despite weaker demand for computers, a major source of demand for its micro-processors.
-On Thursday, Intel's finance chief David Zinsner said the firm did not expect to bring in more cash than it spent this year and forecast lower-than-expected revenue for its fourth quarter.
-"Looking ahead, we see the PC slowdown continuing at least through the first half of next year," he said in the chip maker's third quarter earnings report.
-In the earnings call, he said the firm had significantly ramped up investment in equipment in the third quarter and expected that to be "even more significant" in the following three months.
-Amazon and Reddit down
-Amazon on Thursday revealed it had also spent more cash than it was making, and that spending had increased six-fold over the span of three months.
-The company has committed to spending $220bn this year, putting the money towards investments such as AI data centres, network equipment, and servers.
-Amazon shares recovered some overnight losses, but were still down by 1.4% at the end of Friday trading.
-Reddit stock plunged by 29%, after the social media platform revealed weaker-than-expected daily user figures and warned that Google's growing AI-driven search was hurting referral traffic.
-Stock in online game platform Roblox also fell, down by 18%, as its daily active user numbers dropped.
-Several major tech firms have reported earnings this week, including Microsoft, and analysts said there were questions about the payout from the huge investments in AI.
-Chris Low, from investment management firm FHN Financial, said the bulk of what was happening in the stock market was in reaction to some of the biggest tech players such as Amazon and Google.
-He told Reuters the companies were "showing some pretty significant growing pains as they aggressively pursue the AI build-out".
-"The thinking is that these signs suggest that the entire sector is going to slow down."
-'Investors have turned ruthless'
-Many analysts have been debating the possibility of an AI bubble in the stock market.
-The worry is that some tech firms will not be able to justify their sky-high valuations because the cost of building AI data centres and developing the software will end up being greater than the money they can make from it.
-Kathleen Brookes, research director at trading firm XTB, said there have been many ups and downs in AI trade in recent months.
-"Investors have turned ruthless, punishing any signs of disappointment in [third quarter] earnings," she said.
-"The AI trade has had a good run in recent years, but now investors want payback, and companies like Alphabet and Intel are in the crosshairs."
-However, stock market values for many of these companies remain well above where they were a year ago.
-While the Nasdaq closed 2.8% lower, it is up 7.8% over the last year. Similarly Amazon is up nearly 8% over the past 12 months, while Alphabet is down 1.3%.
-Brookes noted that November is typically a strong month for stocks.
-"If we see AI stocks continue to struggle in the coming days, it could suggest the AI trade is past its peak, and investors will be looking for a new theme to drive markets," she said.
-Related topics
-- Published10 hours ago`,
-    bodyJa: `US tech stocks see sharp falls as AI spending nears $1tn
-- Published
-Tech stocks tumbled for the second day in a row as concerns rise over the hundreds of billions of dollars firms are investing in artificial intelligence (AI).
-Shares in Intel plummeted by 28% on Friday, while Google owner Alphabet saw its stock price continue to fall another 1.4% after a 12% plunge on Thursday.
-Other tech stocks, including Reddit and Amazon also fell, while the Nasdaq index of the largest tech firms listed in the US, ended October with its worst monthly slide since March 2025.
-While tech firms are spending big on AI, their earnings are not always meeting analysts' expectations, spooking investors and creating fears of an AI bubble.
-Major tech companies have ramped up artificial intelligence spending, with Meta, Alphabet, Oracle, Amazon, and Microsoft committing to spending $800bn between them in 2026.
-Alphabet's stock market value fell sharply on Thursday, taking more than $500bn (£374bn) off its market value after it revealed the AI summaries it now provides as the top answer to search queries were affecting its core search advertising revenue.
-At the same time, Alphabet expects to spend up to $205bn this year on investments, almost entirely related to AI.
-The bigger losses on Friday were elsewhere however, with Intel shedding more than $130bn in value.
-The chip maker said it planned to increase spending on AI despite weaker demand for computers, a major source of demand for its micro-processors.
-On Thursday, Intel's finance chief David Zinsner said the firm did not expect to bring in more cash than it spent this year and forecast lower-than-expected revenue for its fourth quarter.
-"Looking ahead, we see the PC slowdown continuing at least through the first half of next year," he said in the chip maker's third quarter earnings report.
-In the earnings call, he said the firm had significantly ramped up investment in equipment in the third quarter and expected that to be "even more significant" in the following three months.
-Amazon and Reddit down
-Amazon on Thursday revealed it had also spent more cash than it was making, and that spending had increased six-fold over the span of three months.
-The company has committed to spending $220bn this year, putting the money towards investments such as AI data centres, network equipment, and servers.
-Amazon shares recovered some overnight losses, but were still down by 1.4% at the end of Friday trading.
-Reddit stock plunged by 29%, after the social media platform revealed weaker-than-expected daily user figures and warned that Google's growing AI-driven search was hurting referral traffic.
-Stock in online game platform Roblox also fell, down by 18%, as its daily active user numbers dropped.
-Several major tech firms have reported earnings this week, including Microsoft, and analysts said there were questions about the payout from the huge investments in AI.
-Chris Low, from investment management firm FHN Financial, said the bulk of what was happening in the stock market was in reaction to some of the biggest tech players such as Amazon and Google.
-He told Reuters the companies were "showing some pretty significant growing pains as they aggressively pursue the AI build-out".
-"The thinking is that these signs suggest that the entire sector is going to slow down."
-'Investors have turned ruthless'
-Many analysts have been debating the possibility of an AI bubble in the stock market.
-The worry is that some tech firms will not be able to justify their sky-high valuations because the cost of building AI data centres and developing the software will end up being greater than the money they can make from it.
-Kathleen Brookes, research director at trading firm XTB, said there have been many ups and downs in AI trade in recent months.
-"Investors have turned ruthless, punishing any signs of disappointment in [third quarter] earnings," she said.
-"The AI trade has had a good run in recent years, but now investors want payback, and companies like Alphabet and Intel are in the crosshairs."
-However, stock market values for many of these companies remain well above where they were a year ago.
-While the Nasdaq closed 2.8% lower, it is up 7.8% over the last year. Similarly Amazon is up nearly 8% over the past 12 months, while Alphabet is down 1.3%.
-Brookes noted that November is typically a strong month for stocks.
-"If we see AI stocks continue to struggle in the coming days, it could suggest the AI trade is past its peak, and investors will be looking for a new theme to drive markets," she said.
-Related topics
-- Published10 hours ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-30T20:34:46+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
-    readTime: 10,
-  },
-  {
-    id: "intel-stock-has-worst-day-since-1970s-wi-40b3caec",
-    title: "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
-    titleJa: "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
-    summaryJa: "Investors are nervous about the massive AI spending from the tech giants and whether that will pay off.",
-    bodyOriginal: `Intel shares plummeted 29% on Friday, their worst day since the 1970s, after the chipmaker issued weaker-than-expected guidance due to a plant shutdown in Israel and ongoing softness in the PC market.
-It's a major setback for CEO Lip-Bu Tan, who was hired in March 2025, and has since been on a campaign to revive the company after it missed out on the early years of the artificial intelligence boom.
-Intel's plunge is also a big hit to the Trump administration, which led the U.S. government into taking a 10% stake in the company over a year ago. While it's still a profitable investment, the value of those holdings dropped by about $12 billion on Friday. Nvidia also took a big stake in Intel, and its stock dropped by about $6 billion in value.
-Heading into Thursday's earnings report, Intel shares were up about 150% this year, buoyed by demand for central processors, which are becoming critical to agentic AI workloads. Analysts at D.A. Davidson downgraded the stock to neutral from buy on Friday in a report titled, "Not fixed yet."
-"We understand the PC market is being impacted at the industry level," the analysts wrote. "However it is hard to justify the current multiple when weakness is so significant."
-Amazon shares also sold off on Friday, slipping 1.4%, after the company reported a third-quarter miss on the top and bottom line while maintaining its capital expenditure forecast for 2026 of $220 billion. Amazon also reported negative free cash flow for the second consecutive quarter, and a big increase from the previous period.
-The Nasdaq Composite slid 2.9%, capping off a week of rough tech earnings. Alphabet on Thursday suffered its worst day on record, plunging more than 12%. The stock fell again on Friday.
-Other semiconductor names also notched declines. Chip giant Nvidia fell 4%, while Broadcom dropped more than 5% and mobile chipmaker Qualcomm tumbled 11%.
-Not a 'moment of reckoning'
-Investors are growing nervous about the massive AI spending from the tech giants and whether their investments will pay off.
-"I don't think this is a moment of reckoning but I think it's a moment where investors should take a long thought about how positioning across the space still remains crowded even though the fundamentals are strong," Matt Orton, chief market strategist at Raymond James, told CNBC's "Squawk Box Europe" on Friday.
-For Intel, the disappointing forecast reflects a PC market that's getting hammered due to soaring costs for memory and other components. Global PC shipments declined 4% in the second quarter from a year earlier, according to Counterpoint Research.
-Intel said it expects adjusted earnings per share of 25 cents this quarter on revenue between $15 billion and $16 billion. Analysts were expecting revenue of $17.1 billion and EPS of 43 cents, according to LSEG.
-"We see the PC slowdown continuing at least through the first half of next year," Intel finance chief David Zinsner, said in the release. "We will continue making disciplined investments in capacity and working capital to increase supply and support future growth."
-The guidance also accounts for the effects of an explosion at a fab in Israel that killed two workers and seriously injured a third earlier this month. The incident will cost the company about $600 million in lost revenue over two quarters, Zinsner said.
-Tan said the explosion, which he called an "unfortunate and tragic accident," caused an "extended shutdown" at the plant, impacting shipments of 10-nanometer chips.
-Key to Tan's turnaround effort is Intel's foundry business, which has struggled to find its footing.
-Intel is the only U.S.-based manufacturer of advanced logic chips, and is now in high-volume production of its most advanced 18A chip out of its new fab in Arizona, providing an alternative to Taiwan Semiconductor Manufacturing Co. Its next Arizona fab is expected to begin operations by the end of 2028.
-Intel still has no external customers for its new chips.
-"We're going to have a couple of customers ready to announce the next two quarters," Tan said on the call, adding that Intel is making "tremendous progress" on its coming 14A chips.`,
-    bodyJa: `Intel shares plummeted 29% on Friday, their worst day since the 1970s, after the chipmaker issued weaker-than-expected guidance due to a plant shutdown in Israel and ongoing softness in the PC market.
-It's a major setback for CEO Lip-Bu Tan, who was hired in March 2025, and has since been on a campaign to revive the company after it missed out on the early years of the artificial intelligence boom.
-Intel's plunge is also a big hit to the Trump administration, which led the U.S. government into taking a 10% stake in the company over a year ago. While it's still a profitable investment, the value of those holdings dropped by about $12 billion on Friday. Nvidia also took a big stake in Intel, and its stock dropped by about $6 billion in value.
-Heading into Thursday's earnings report, Intel shares were up about 150% this year, buoyed by demand for central processors, which are becoming critical to agentic AI workloads. Analysts at D.A. Davidson downgraded the stock to neutral from buy on Friday in a report titled, "Not fixed yet."
-"We understand the PC market is being impacted at the industry level," the analysts wrote. "However it is hard to justify the current multiple when weakness is so significant."
-Amazon shares also sold off on Friday, slipping 1.4%, after the company reported a third-quarter miss on the top and bottom line while maintaining its capital expenditure forecast for 2026 of $220 billion. Amazon also reported negative free cash flow for the second consecutive quarter, and a big increase from the previous period.
-The Nasdaq Composite slid 2.9%, capping off a week of rough tech earnings. Alphabet on Thursday suffered its worst day on record, plunging more than 12%. The stock fell again on Friday.
-Other semiconductor names also notched declines. Chip giant Nvidia fell 4%, while Broadcom dropped more than 5% and mobile chipmaker Qualcomm tumbled 11%.
-Not a 'moment of reckoning'
-Investors are growing nervous about the massive AI spending from the tech giants and whether their investments will pay off.
-"I don't think this is a moment of reckoning but I think it's a moment where investors should take a long thought about how positioning across the space still remains crowded even though the fundamentals are strong," Matt Orton, chief market strategist at Raymond James, told CNBC's "Squawk Box Europe" on Friday.
-For Intel, the disappointing forecast reflects a PC market that's getting hammered due to soaring costs for memory and other components. Global PC shipments declined 4% in the second quarter from a year earlier, according to Counterpoint Research.
-Intel said it expects adjusted earnings per share of 25 cents this quarter on revenue between $15 billion and $16 billion. Analysts were expecting revenue of $17.1 billion and EPS of 43 cents, according to LSEG.
-"We see the PC slowdown continuing at least through the first half of next year," Intel finance chief David Zinsner, said in the release. "We will continue making disciplined investments in capacity and working capital to increase supply and support future growth."
-The guidance also accounts for the effects of an explosion at a fab in Israel that killed two workers and seriously injured a third earlier this month. The incident will cost the company about $600 million in lost revenue over two quarters, Zinsner said.
-Tan said the explosion, which he called an "unfortunate and tragic accident," caused an "extended shutdown" at the plant, impacting shipments of 10-nanometer chips.
-Key to Tan's turnaround effort is Intel's foundry business, which has struggled to find its footing.
-Intel is the only U.S.-based manufacturer of advanced logic chips, and is now in high-volume production of its most advanced 18A chip out of its new fab in Arizona, providing an alternative to Taiwan Semiconductor Manufacturing Co. Its next Arizona fab is expected to begin operations by the end of 2028.
-Intel still has no external customers for its new chips.
-"We're going to have a couple of customers ready to announce the next two quarters," Tan said on the call, adding that Intel is making "tremendous progress" on its coming 14A chips.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
-    publishedAt: "2026-10-30T20:30:57+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
   },
 ];
 
