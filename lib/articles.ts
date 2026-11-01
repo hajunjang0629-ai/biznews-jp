@@ -15,6 +15,208 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "america-is-doing-better-than-you-think-y-9525b51b",
+    title: "America is doing better than you think. Your algorithm is just hiding it.",
+    titleJa: "America is doing better than you think. Your algorithm is just hiding it.",
+    summaryJa: "The bottom half of Americans has more than doubled its net worth since 2019. You wouldn’t know it from scrolling social media.",
+    bodyOriginal: `The bottom half of Americans has more than doubled its net worth since 2019. You wouldn’t know it from scrolling social media.`,
+    bodyJa: `The bottom half of Americans has more than doubled its net worth since 2019. You wouldn’t know it from scrolling social media.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
+    publishedAt: "2026-11-01T13:00:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-77447870",
+    readTime: 2,
+  },
+  {
+    id: "top-wall-street-analysts-are-bullish-on-cd261770",
+    title: "Top Wall Street analysts are bullish on these 3 stocks for the long haul",
+    titleJa: "Top Wall Street analysts are bullish on these 3 stocks for the long haul",
+    summaryJa: "Investors looking beyond short-term noise and focusing on long-term returns can track top analysts to pick the right stocks, backed by strong research.",
+    bodyOriginal: `The ongoing earnings season, Middle East tensions and buzz ahead of the U.S. midterm elections have been keeping investors busy. Further, worries about elevated artificial intelligence spending are weighing on investor sentiment.
+Investors looking beyond the short-term noise and focusing on long-term returns can track top Wall Street analysts to pick the right stocks, backed by strong research.
+Here are three stocks favored by some of Wall Street's top pros, according to TipRanks, a platform that ranks analysts based on their past performance.
+Datadog
+This week's first stock pick is Datadog, an AI-powered observability and security platform. The company will announce its results for the third quarter on Nov. 4. Datadog is seeing strong demand for its offerings, thanks to cloud migration and rapid AI adoption. TipRanks' KPIs tool for DDOG shows the growth in its customer base over the past few years amid increasing market penetration and growing adoption of its products.
+Heading into Q3 FY26 earnings, Bank of America analyst Koji Ikeda reiterated a buy rating on Datadog stock and raised his price target to $335 from $305. The analyst noted that industry checks and data indicate that infrastructure software demand is strengthening, with AI increasingly driving usage and growth.
+Ikeda called Datadog and Atlassian his top picks, saying that companies that can show that AI is a tailwind to growth could see their valuation rerate, even at premium multiples. He added that the total addressable market for observability is growing faster than anticipated, driven by accelerated growth of enterprise AI and the rapid ramp of consumer AI agents.
+The five-star analyst believes that focus will be on revenue growth, which he estimates to be 28.7% for Q3 FY26 versus the Street's consensus of 29.1%. Ikeda thinks that the market is underestimating the growth prospects of DDOG's security products. Meanwhile, he cautioned investors about concentration risk related to large customers.
+"We think results will be supportive of our long-term thesis that Datadog is a strong share gainer in the rapidly expanding observability opportunity," said Ikeda.
+Ikeda ranks No. 673 among more than 12,500 analysts tracked by TipRanks. His ratings have been successful 55% of the time, delivering an average return of 10.9%. See Datadog Statistics on TipRanks.
+Nvidia
+The next pick, semiconductor giant Nvidia, is also benefiting from AI-driven demand for its products. After attending Nvidia's GTC Berlin conference, Morgan Stanley analyst Joseph Moore reaffirmed a buy rating on NVDA stock with a price target of $300, calling it a top pick in the semiconductor space.
+The five-star analyst said that the conference supported his thesis that Nvidia continues to effectively navigate bottlenecks in the supply chain, land/power/shell, and funding. In fact, Moore is "convinced that all 3 aspects are opportunities for NVDA."
+While Nvidia's GTC Berlin offered no major updates, Moore noted the conference reflected that the company continues to add to its significant advantages heading into 2027. The analyst said that Vera Rubin is gaining momentum, though details on next year's Rubin Ultra were lighter than expected.
+With demand outpacing supply, Moore said that focus is on closing the gap. In this regard, he highlighted the supply chain deals on substrate, packaging and testing. While the analyst continues to view TSMC 3 nm wafer supply as the biggest challenge, he expects it to ease over time.
+Moore ranks No. 142 among more than 12,500 analysts tracked by TipRanks. His ratings have been profitable 59% of the time, delivering an average return of 23.4%. See Nvidia Ownership Structure on TipRanks.
+SpaceX
+Aerospace company SpaceX recently announced solid third-quarter results, with its AI revenue surging to $7.56 billion from $813 million in the prior-year quarter.
+Impressed by the results, Needham analyst Ryan Koontz reiterated a buy rating on SPCX stock with a price target of $250. Koontz highlighted that SpaceX's Q3 results significantly exceeded expectations, proving that the company's vertically integrated business model is driving massive scale.
+Specifically, the five-star analyst noted the 161% year-over-year jump in SpaceX's Q3 2026 revenue, with the Connectivity segment's revenue rising 69.5%. Koontz added that the Connectivity segment generated solid operating income of $2.37 billion, as subscribers increased to 13.6 million.
+Furthermore, Koontz emphasized the 195.2% sequential growth in SpaceX's AI revenue, fueled by wholesale spot compute deals. He noted management's increasing focus on its AI strategy, given that it is optimistic about adding 10 gigawatts of incremental capacity during 2027.
+"With increasing confidence on Starship re-use, we meaningfully increase our estimates," said Koontz.
+Koontz ranks No. 357 among more than 12,500 analysts tracked by TipRanks. His ratings have been profitable 42% of the time, delivering an average return of 23.7%. See SpaceX Technical Analysis on TipRanks.`,
+    bodyJa: `The ongoing earnings season, Middle East tensions and buzz ahead of the U.S. midterm elections have been keeping investors busy. Further, worries about elevated artificial intelligence spending are weighing on investor sentiment.
+Investors looking beyond the short-term noise and focusing on long-term returns can track top Wall Street analysts to pick the right stocks, backed by strong research.
+Here are three stocks favored by some of Wall Street's top pros, according to TipRanks, a platform that ranks analysts based on their past performance.
+Datadog
+This week's first stock pick is Datadog, an AI-powered observability and security platform. The company will announce its results for the third quarter on Nov. 4. Datadog is seeing strong demand for its offerings, thanks to cloud migration and rapid AI adoption. TipRanks' KPIs tool for DDOG shows the growth in its customer base over the past few years amid increasing market penetration and growing adoption of its products.
+Heading into Q3 FY26 earnings, Bank of America analyst Koji Ikeda reiterated a buy rating on Datadog stock and raised his price target to $335 from $305. The analyst noted that industry checks and data indicate that infrastructure software demand is strengthening, with AI increasingly driving usage and growth.
+Ikeda called Datadog and Atlassian his top picks, saying that companies that can show that AI is a tailwind to growth could see their valuation rerate, even at premium multiples. He added that the total addressable market for observability is growing faster than anticipated, driven by accelerated growth of enterprise AI and the rapid ramp of consumer AI agents.
+The five-star analyst believes that focus will be on revenue growth, which he estimates to be 28.7% for Q3 FY26 versus the Street's consensus of 29.1%. Ikeda thinks that the market is underestimating the growth prospects of DDOG's security products. Meanwhile, he cautioned investors about concentration risk related to large customers.
+"We think results will be supportive of our long-term thesis that Datadog is a strong share gainer in the rapidly expanding observability opportunity," said Ikeda.
+Ikeda ranks No. 673 among more than 12,500 analysts tracked by TipRanks. His ratings have been successful 55% of the time, delivering an average return of 10.9%. See Datadog Statistics on TipRanks.
+Nvidia
+The next pick, semiconductor giant Nvidia, is also benefiting from AI-driven demand for its products. After attending Nvidia's GTC Berlin conference, Morgan Stanley analyst Joseph Moore reaffirmed a buy rating on NVDA stock with a price target of $300, calling it a top pick in the semiconductor space.
+The five-star analyst said that the conference supported his thesis that Nvidia continues to effectively navigate bottlenecks in the supply chain, land/power/shell, and funding. In fact, Moore is "convinced that all 3 aspects are opportunities for NVDA."
+While Nvidia's GTC Berlin offered no major updates, Moore noted the conference reflected that the company continues to add to its significant advantages heading into 2027. The analyst said that Vera Rubin is gaining momentum, though details on next year's Rubin Ultra were lighter than expected.
+With demand outpacing supply, Moore said that focus is on closing the gap. In this regard, he highlighted the supply chain deals on substrate, packaging and testing. While the analyst continues to view TSMC 3 nm wafer supply as the biggest challenge, he expects it to ease over time.
+Moore ranks No. 142 among more than 12,500 analysts tracked by TipRanks. His ratings have been profitable 59% of the time, delivering an average return of 23.4%. See Nvidia Ownership Structure on TipRanks.
+SpaceX
+Aerospace company SpaceX recently announced solid third-quarter results, with its AI revenue surging to $7.56 billion from $813 million in the prior-year quarter.
+Impressed by the results, Needham analyst Ryan Koontz reiterated a buy rating on SPCX stock with a price target of $250. Koontz highlighted that SpaceX's Q3 results significantly exceeded expectations, proving that the company's vertically integrated business model is driving massive scale.
+Specifically, the five-star analyst noted the 161% year-over-year jump in SpaceX's Q3 2026 revenue, with the Connectivity segment's revenue rising 69.5%. Koontz added that the Connectivity segment generated solid operating income of $2.37 billion, as subscribers increased to 13.6 million.
+Furthermore, Koontz emphasized the 195.2% sequential growth in SpaceX's AI revenue, fueled by wholesale spot compute deals. He noted management's increasing focus on its AI strategy, given that it is optimistic about adding 10 gigawatts of incremental capacity during 2027.
+"With increasing confidence on Starship re-use, we meaningfully increase our estimates," said Koontz.
+Koontz ranks No. 357 among more than 12,500 analysts tracked by TipRanks. His ratings have been profitable 42% of the time, delivering an average return of 23.7%. See SpaceX Technical Analysis on TipRanks.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/01/top-analysts-are-bullish-on-these-3-stocks-for-the-long-haul.html",
+    publishedAt: "2026-11-01T12:33:53+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "the-midterm-election-could-reshape-the-m-0bd007bf",
+    title: "The midterm election could reshape the muni bond market. Here’s what investors need to know",
+    titleJa: "The midterm election could reshape the muni bond market. Here’s what investors need to know",
+    summaryJa: "The 2026 election could affect municipal bonds through state tax measures, new bond supply and the makeup of Congress.",
+    bodyOriginal: `The outcome of Tuesday's election is expected to have broad implications across the market, including municipal bonds.
+The spotlight has been on the battle for congressional control and whether Democrats will wrest the House of Representatives, the Senate or both from Republicans. But for the muni market, what happens at the state level could have bigger repercussions — at least in the near term.
+There is an array of initiatives on ballots around the nation that could change tax laws and add to bond supply. Taxes matter to muni investors since the income received is free of federal tax, as well as state tax if the holder lives in the state where the bond is issued.
+Red vs. blue taxes
+Depending on the location, ballot measures are up for approval that would either provide tax breaks, or raise taxes on the wealthy.
+"It's a complete bifurcation between red and blue states," said Dan Close, head of municipals at Nuveen. "Blue states are trying to put in place graduated income tax structures, trying to capture more revenue from high-income earners. Red states are promoting affordability by trying to cut property taxes."
+Red states are those that predominantly vote Republican, while blue states swing toward Democrats.
+For instance, California has a proposition known as the "billionaire tax," which would impose a one-time levy equal to 5% of the wealth of certain taxpayers with at least $1 billion in assets. The state also has a measure on the ballot that would make a temporary tax hike permanent on individuals earning over $371,000, adjusted annually for inflation. The tax is currently set to expire in 2031.
+"The impact to the muni bond market will be to make the exemption more valuable," Close said of the possible passage of tax increases. Investors will likely seek shelter in the muni market, which would send bond prices higher, he noted.
+It is a different story in Florida, where voters are set to decide whether to increase the Sunshine State's homestead exemption for non-school district property taxes. Qualified homeowners currently have a $25,000 property tax exemption, as well as another for $25,000 that doesn't apply to school property taxes. The new proposal raises the latter exemption to $150,000 in 2027 and $250,000 by 2028. New residents have a five-year waiting period before receiving the benefit.
+If passed, some local governments will have to find other revenue sources or increase the overall tax rate to replace what they've lost, said Tom Kozlik, head of public policy and municipal strategy at HilltopSecurities.
+"It's not necessarily going to result in downgrades for sure, but there would have to be some balancing with regard to overall revenues," he said.
+Not all municipalities will be hurt equally, which means credit research is important, said Close.
+"Like everything in municipal finance, it is really on a case-by-case basis that you could have some credit deterioration from [a] rollback of property taxes," he said.
+Increased supply
+Other voters on Tuesday will be asked to approve more state or local government debt. That could weigh on a market that has already seen heightened supply.
+Some $473.8 billion has already been issued year to date, through September, according to the Securities Industry and Financial Markets Association. That's a 7.8% increase over the same period a year ago. In 2025, total muni issuance reached $587.3 billion, 14.3% higher than 2024, Sifma said.
+Cooper Howard, director of fixed income research and strategy at the Schwab Center for Financial Research, believes supply is the biggest issue coming out of the election.
+"That amount of issuance has been one of the reasons why you have to see that strong amount of demand continue to keep pace with it for total returns to keep up," Howard said.
+Fortunately, new supply doesn't necessarily come quickly into the market. "There's a window over a couple years that they can issue," he noted.
+The ultimate makeup of the next Congress could also have consequences for muni investors as lawmakers sort out their priorities. Most notable is what lawmakers will do to tackle the country's affordability problem, Kozlik at Hilltop said.
+"There could be some tax policy initiatives and even affordability-related initiatives that manifest themselves in the first quarter of next year," he said. "That could impact housing. It could impact higher education. It could impact public power financing."
+Opportunities now
+Investors considering moves before the election may want to look at those states with tax increases on the ballot, said Close at Nuveen.
+For instance, Nuveen recently began offering a separately managed account dedicated to Washington after getting an enormous number of inquiries from financial advisors. The state recently enacted a 9.9% tax on individuals with taxable annual income above $1 million, set to go into effect in 2028. But the issue is now being put to voters, who can decide whether to repeal the new law.
+"At the margin, if you do think that some of these measures are going to pass, knowing that bonds usually move up with an increase in taxes, there might be some opportunities to buy ahead of the election for blue states," Close said.
+Howard believes munis are attractive right now, particularly for those who are in a tax bracket of 24% or above. Fundamentals are good and the bonds largely have good credit quality, he said. "About 70% of the broad muni index is either triple-A or double-A rated."
+Kozlik is also bullish, calling yields "really attractive." He suggests investors concentrate on AA-rated or higher bonds.
+"The muni space is part of the portfolio that most investors want," he said. "It helps them sleep well at night."`,
+    bodyJa: `The outcome of Tuesday's election is expected to have broad implications across the market, including municipal bonds.
+The spotlight has been on the battle for congressional control and whether Democrats will wrest the House of Representatives, the Senate or both from Republicans. But for the muni market, what happens at the state level could have bigger repercussions — at least in the near term.
+There is an array of initiatives on ballots around the nation that could change tax laws and add to bond supply. Taxes matter to muni investors since the income received is free of federal tax, as well as state tax if the holder lives in the state where the bond is issued.
+Red vs. blue taxes
+Depending on the location, ballot measures are up for approval that would either provide tax breaks, or raise taxes on the wealthy.
+"It's a complete bifurcation between red and blue states," said Dan Close, head of municipals at Nuveen. "Blue states are trying to put in place graduated income tax structures, trying to capture more revenue from high-income earners. Red states are promoting affordability by trying to cut property taxes."
+Red states are those that predominantly vote Republican, while blue states swing toward Democrats.
+For instance, California has a proposition known as the "billionaire tax," which would impose a one-time levy equal to 5% of the wealth of certain taxpayers with at least $1 billion in assets. The state also has a measure on the ballot that would make a temporary tax hike permanent on individuals earning over $371,000, adjusted annually for inflation. The tax is currently set to expire in 2031.
+"The impact to the muni bond market will be to make the exemption more valuable," Close said of the possible passage of tax increases. Investors will likely seek shelter in the muni market, which would send bond prices higher, he noted.
+It is a different story in Florida, where voters are set to decide whether to increase the Sunshine State's homestead exemption for non-school district property taxes. Qualified homeowners currently have a $25,000 property tax exemption, as well as another for $25,000 that doesn't apply to school property taxes. The new proposal raises the latter exemption to $150,000 in 2027 and $250,000 by 2028. New residents have a five-year waiting period before receiving the benefit.
+If passed, some local governments will have to find other revenue sources or increase the overall tax rate to replace what they've lost, said Tom Kozlik, head of public policy and municipal strategy at HilltopSecurities.
+"It's not necessarily going to result in downgrades for sure, but there would have to be some balancing with regard to overall revenues," he said.
+Not all municipalities will be hurt equally, which means credit research is important, said Close.
+"Like everything in municipal finance, it is really on a case-by-case basis that you could have some credit deterioration from [a] rollback of property taxes," he said.
+Increased supply
+Other voters on Tuesday will be asked to approve more state or local government debt. That could weigh on a market that has already seen heightened supply.
+Some $473.8 billion has already been issued year to date, through September, according to the Securities Industry and Financial Markets Association. That's a 7.8% increase over the same period a year ago. In 2025, total muni issuance reached $587.3 billion, 14.3% higher than 2024, Sifma said.
+Cooper Howard, director of fixed income research and strategy at the Schwab Center for Financial Research, believes supply is the biggest issue coming out of the election.
+"That amount of issuance has been one of the reasons why you have to see that strong amount of demand continue to keep pace with it for total returns to keep up," Howard said.
+Fortunately, new supply doesn't necessarily come quickly into the market. "There's a window over a couple years that they can issue," he noted.
+The ultimate makeup of the next Congress could also have consequences for muni investors as lawmakers sort out their priorities. Most notable is what lawmakers will do to tackle the country's affordability problem, Kozlik at Hilltop said.
+"There could be some tax policy initiatives and even affordability-related initiatives that manifest themselves in the first quarter of next year," he said. "That could impact housing. It could impact higher education. It could impact public power financing."
+Opportunities now
+Investors considering moves before the election may want to look at those states with tax increases on the ballot, said Close at Nuveen.
+For instance, Nuveen recently began offering a separately managed account dedicated to Washington after getting an enormous number of inquiries from financial advisors. The state recently enacted a 9.9% tax on individuals with taxable annual income above $1 million, set to go into effect in 2028. But the issue is now being put to voters, who can decide whether to repeal the new law.
+"At the margin, if you do think that some of these measures are going to pass, knowing that bonds usually move up with an increase in taxes, there might be some opportunities to buy ahead of the election for blue states," Close said.
+Howard believes munis are attractive right now, particularly for those who are in a tax bracket of 24% or above. Fundamentals are good and the bonds largely have good credit quality, he said. "About 70% of the broad muni index is either triple-A or double-A rated."
+Kozlik is also bullish, calling yields "really attractive." He suggests investors concentrate on AA-rated or higher bonds.
+"The muni space is part of the portfolio that most investors want," he said. "It helps them sleep well at night."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/01/election-municipal-bonds.html",
+    publishedAt: "2026-11-01T12:30:48+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "why-ai-is-boosting-meta-s-ad-business-wh-26ccc0af",
+    title: "Why AI is boosting Meta's ad business while hurting Google search",
+    titleJa: "Why AI is boosting Meta's ad business while hurting Google search",
+    summaryJa: "The gap between Meta's ad revenue growth and Google's search expansion was the widest it's been since 2021 in the latest quarter.",
+    bodyOriginal: `Google and Facebook have been dominant internet brands for the past two decades, turning billions of eyeballs into trillions in advertising dollars over that stretch. But with the ChatGPT era altering how consumers engage online, the companies are diverging.
+In the third quarter, Meta's ad business grew more than twice as quickly as Google's Search and other unit, backing up Mark Zuckerberg's claim that his company's investments in artificial intelligence are leading to better targeting tools for brands to promote goods and services across Facebook and Instagram.
+Google's problem is that chatbots are becoming an alternative to search, leading consumers to do a lot less clicking on blue links, and thus hurting Google's ad revenue. Anthropic's Claude chatbot and Meta's recently launched Muse assistant are adding to the mix of options. Meanwhile, users are spending more time scrolling on Instagram, giving Meta more advertising opportunities.
+"It's a double-edged sword, because as AI revolutionizes discovery, people might come across tools they like better than Google," Nate Elliott, an analyst covering AI at Emarketer, told CNBC in an email. "If ChatGPT or Claude or Muse is better at helping them find what they're looking for, people's search habits might change for the first time in a generation. That's potentially catastrophic for Google's ad business."
+Meta's ad revenue increased 26% in the quarter from a year earlier to $63.1 billion, compared to 12% growth for Google's search division, which brought in $63.4 billion. That 14-point growth gap is the widest in Meta's favor since 2021, and it puts the two businesses neck and neck by size, though Google got an additional $11 billion in third-quarter revenue from YouTube.
+Following its disappointing third-quarter earnings report on Wednesday, Alphabet had its worst day ever on the stock market, plunging more than 12% and wiping out about $500 billion in market cap. Meta isn't exactly a Wall Street darling at the moment either, as the stock fell 14% in October for its worst month since October 2022. That followed a 27% surge in September, which was its best month since November of that year.
+Investors' reactions reflected market jitters surrounding the companies' AI buildouts, which have pushed both businesses into negative free cash flow territory. Questions are swirling about whether their historic levels of spending on AI infrastructure will result in sufficient revenue.
+In the meantime, both Meta and Google are aggressively trying to diversify their revenue streams. Meta, which still counts on ads for nearly all of its revenue, is pouring money into AI models and agents with an aim to start building a subscription business. Google already has a large and rapidly expanding cloud computing division that just reported over 100% growth to $31 billion in quarterly revenue, driven by demand for its infrastructure and its custom AI chips called tensor processing units, or TPUs.
+Post-Apple revival
+The boon in online advertising, and the hefty margins that come along with it, catapulted the two companies into leadership positions and brought their market caps into the trillions.
+Meta needed AI to breathe life into its ad business after Apple's iOS privacy change in 2021 severely limited the company's ability to target users on iPhones. The following year, revenue at Meta fell for the first and only time in the company's history.
+Late 2022 brought the launch of OpenAI's ChatGPT and ushered in a new era of generative AI technology. While Meta struggled initially to find a consistent AI strategy, falling far behind OpenAI and Anthropic in developing frontier models, the company has successfully infused AI into its ad products, giving brands advanced tools for efficiently reaching users.
+A year ago, the company unveiled the Meta AI business assistant, which advertisers can plug into the Ads Manager system to help build campaigns and improve performance. Meta CFO Susan Li said on the earnings call last week that advertisers adopting the system's recommendations "drove almost 5% more conversions" and "increased their advertising investment by 9% compared with similar non-adopters."
+Li gave the example of syrup producer Simply Organic Maple, and said the company, in using the assistant, saw a 57% increase in purchases and 36% decrease in cost per purchase. She added that in the third quarter, almost 10 million advertisers used at least one of its AI tools.
+Google has a similar opportunity with AI in ad products across its properties, including YouTube.
+Philipp Schindler, Google's chief business officer, said on the earnings call that the company is deploying its Gemini models "across our entire ads infrastructure," adding tools for advertisers and improving ad quality.
+However, Google's search engine is competing directly with ChatGPT and Claude by surfacing more results through AI Overviews and AI Mode, where users primarily get summaries rather than links to other sites. Search queries increased to a record in the quarter, Google said, but revenue growth is slowing.
+"That's going to bring Search cannibalization fears right back to the forefront, made worse by META's ad strength this quarter and the lingering Muse/agent threat," analysts at UBS wrote in a note after Google's results.
+Both companies are so bullish on the potential of AI that they're pumping hundreds of billions of dollars into the infrastructure needed to build new models and services. Google is projecting up to $205 billion this year in capital expenditures, while Meta expects to spend up to $145 billion.
+Advertising remains key, but they're both investing for a future that could look very different. Google is much further along when it comes to diversifying, as ads now account for less than two-thirds of its revenue, while Meta still counts on ads for 98% of sales.
+Still, analysts at Wedbush see search monetization at Google as critical to the investment thesis.
+"GOOGL shares are unlikely to work until the search narrative changes," the analysts wrote in a report on Thursday. "And it will likely require new ad products and proof points that it can monetize in the evolving AI era as it did in the past."
+—CNBC's Jonathan Vanian and MacKenzie Sigalos contributed to this report.
+WATCH: Alphabet earnings miss reflects first real sign AI is taking a bite out of search`,
+    bodyJa: `Google and Facebook have been dominant internet brands for the past two decades, turning billions of eyeballs into trillions in advertising dollars over that stretch. But with the ChatGPT era altering how consumers engage online, the companies are diverging.
+In the third quarter, Meta's ad business grew more than twice as quickly as Google's Search and other unit, backing up Mark Zuckerberg's claim that his company's investments in artificial intelligence are leading to better targeting tools for brands to promote goods and services across Facebook and Instagram.
+Google's problem is that chatbots are becoming an alternative to search, leading consumers to do a lot less clicking on blue links, and thus hurting Google's ad revenue. Anthropic's Claude chatbot and Meta's recently launched Muse assistant are adding to the mix of options. Meanwhile, users are spending more time scrolling on Instagram, giving Meta more advertising opportunities.
+"It's a double-edged sword, because as AI revolutionizes discovery, people might come across tools they like better than Google," Nate Elliott, an analyst covering AI at Emarketer, told CNBC in an email. "If ChatGPT or Claude or Muse is better at helping them find what they're looking for, people's search habits might change for the first time in a generation. That's potentially catastrophic for Google's ad business."
+Meta's ad revenue increased 26% in the quarter from a year earlier to $63.1 billion, compared to 12% growth for Google's search division, which brought in $63.4 billion. That 14-point growth gap is the widest in Meta's favor since 2021, and it puts the two businesses neck and neck by size, though Google got an additional $11 billion in third-quarter revenue from YouTube.
+Following its disappointing third-quarter earnings report on Wednesday, Alphabet had its worst day ever on the stock market, plunging more than 12% and wiping out about $500 billion in market cap. Meta isn't exactly a Wall Street darling at the moment either, as the stock fell 14% in October for its worst month since October 2022. That followed a 27% surge in September, which was its best month since November of that year.
+Investors' reactions reflected market jitters surrounding the companies' AI buildouts, which have pushed both businesses into negative free cash flow territory. Questions are swirling about whether their historic levels of spending on AI infrastructure will result in sufficient revenue.
+In the meantime, both Meta and Google are aggressively trying to diversify their revenue streams. Meta, which still counts on ads for nearly all of its revenue, is pouring money into AI models and agents with an aim to start building a subscription business. Google already has a large and rapidly expanding cloud computing division that just reported over 100% growth to $31 billion in quarterly revenue, driven by demand for its infrastructure and its custom AI chips called tensor processing units, or TPUs.
+Post-Apple revival
+The boon in online advertising, and the hefty margins that come along with it, catapulted the two companies into leadership positions and brought their market caps into the trillions.
+Meta needed AI to breathe life into its ad business after Apple's iOS privacy change in 2021 severely limited the company's ability to target users on iPhones. The following year, revenue at Meta fell for the first and only time in the company's history.
+Late 2022 brought the launch of OpenAI's ChatGPT and ushered in a new era of generative AI technology. While Meta struggled initially to find a consistent AI strategy, falling far behind OpenAI and Anthropic in developing frontier models, the company has successfully infused AI into its ad products, giving brands advanced tools for efficiently reaching users.
+A year ago, the company unveiled the Meta AI business assistant, which advertisers can plug into the Ads Manager system to help build campaigns and improve performance. Meta CFO Susan Li said on the earnings call last week that advertisers adopting the system's recommendations "drove almost 5% more conversions" and "increased their advertising investment by 9% compared with similar non-adopters."
+Li gave the example of syrup producer Simply Organic Maple, and said the company, in using the assistant, saw a 57% increase in purchases and 36% decrease in cost per purchase. She added that in the third quarter, almost 10 million advertisers used at least one of its AI tools.
+Google has a similar opportunity with AI in ad products across its properties, including YouTube.
+Philipp Schindler, Google's chief business officer, said on the earnings call that the company is deploying its Gemini models "across our entire ads infrastructure," adding tools for advertisers and improving ad quality.
+However, Google's search engine is competing directly with ChatGPT and Claude by surfacing more results through AI Overviews and AI Mode, where users primarily get summaries rather than links to other sites. Search queries increased to a record in the quarter, Google said, but revenue growth is slowing.
+"That's going to bring Search cannibalization fears right back to the forefront, made worse by META's ad strength this quarter and the lingering Muse/agent threat," analysts at UBS wrote in a note after Google's results.
+Both companies are so bullish on the potential of AI that they're pumping hundreds of billions of dollars into the infrastructure needed to build new models and services. Google is projecting up to $205 billion this year in capital expenditures, while Meta expects to spend up to $145 billion.
+Advertising remains key, but they're both investing for a future that could look very different. Google is much further along when it comes to diversifying, as ads now account for less than two-thirds of its revenue, while Meta still counts on ads for 98% of sales.
+Still, analysts at Wedbush see search monetization at Google as critical to the investment thesis.
+"GOOGL shares are unlikely to work until the search narrative changes," the analysts wrote in a report on Thursday. "And it will likely require new ad products and proof points that it can monetize in the evolving AI era as it did in the past."
+—CNBC's Jonathan Vanian and MacKenzie Sigalos contributed to this report.
+WATCH: Alphabet earnings miss reflects first real sign AI is taking a bite out of search`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/01/ai-meta-ads-google-search.html",
+    publishedAt: "2026-11-01T12:00:01+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
     id: "shops-looted-as-german-cost-of-living-pr-9970edb1",
     title: "Shops looted as German cost of living protests turn violent",
     titleJa: "Shops looted as German cost of living protests turn violent",
@@ -136,6 +338,144 @@ Hungarian companies close to Orbán were also involved in the Novi Sad railway s
     publishedAt: "2026-11-01T00:55:06+00:00",
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b724/live/db1d9120-d456-11f1-906a-add2117fe3e6.jpg",
+    readTime: 10,
+  },
+  {
+    id: "judge-dismisses-trump-s-lawsuit-against-52940507",
+    title: "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+    titleJa: "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+    summaryJa: "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+    bodyOriginal: `Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book
+- Published
+A US judge has thrown out President Donald Trump's $10bn (£7.4bn) lawsuit against The Wall Street Journal, ruling the suit was "grasping at straws".
+Trump had sued the media outlet's parent company Dow Jones and its leader Rupert Murdoch last year after it reported on a letter allegedly written by Trump to disgraced financier and sex offender Jeffrey Epstein as part of a birthday book in 2003, before Epstein was charged with sex crimes.
+Trump has denied writing or signing the letter, which included suggestive language and a drawing of the outline of a woman's body.
+Judge Darrin Gayles threw out the case, finding the suit runs counter to the First Amendment, which protects freedom of the press.
+Gayles had already once dismissed the defamation lawsuit, which sought $20 billion in damages. Trump's team refiled the suit seeking $10 billion, and this time, the judge threw out the case "with prejudice," meaning the suit cannot be filed again.
+The news outlet's story about Epstein's 50th birthday book, external - and the letter with Trump's name - came as the Trump administration battled intense bipartisan criticism over the summer for its handling of Epstein documents.
+Trump had said the newspaper had slandered him and violated libel laws in publishing the article.
+In his 20-page ruling, Gayles noted the paper's "thoughtful and detailed investigation" that led to the story and said the lawsuit was "grasping at straws" to "manufacture flaws" in their work.
+The judge wrote that Trump's legal team did not prove that the defendants made defamatory statements with "actual malice", which the law requires be proven.
+Actual malice is high bar to meet, as it requires proof that the defendant knew the defamatory statement was false or acted with reckless disregard for whether it was true or not.
+Trump alleged that the letter obtained and released by the Journal, which features his signature at the bottom, was "fake" and that the defendants devised the story in order to defame him.
+Trump's legal team had argued that because Trump denied writing the letter when contacted by the Journal, the paper should have "disregarded everything else they learned in their investigation and not published the story", Gayles wrote.
+"But that is not what the actual malice standard requires and runs afoul of the First Amendment," Gayles wrote.
+If that were the law, he wrote, then "any time a public figure or his team denies an accusation, journalists would be immediately blocked from publishing negative or contradictory press—a result that flies in the face of the 'American privilege to speak one's mind'".
+According to the Wall Street Journal story, a letter bearing Trump's name "contained several lines of typewritten text framed by the outline of a naked woman, which appears to be hand-drawn with a heavy marker".
+It reportedly contained a joking reference that "enigmas never age" and allegedly ended with the words: "A pal is a wonderful thing. Happy Birthday - and may every day be another wonderful secret".`,
+    bodyJa: `Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book
+- Published
+A US judge has thrown out President Donald Trump's $10bn (£7.4bn) lawsuit against The Wall Street Journal, ruling the suit was "grasping at straws".
+Trump had sued the media outlet's parent company Dow Jones and its leader Rupert Murdoch last year after it reported on a letter allegedly written by Trump to disgraced financier and sex offender Jeffrey Epstein as part of a birthday book in 2003, before Epstein was charged with sex crimes.
+Trump has denied writing or signing the letter, which included suggestive language and a drawing of the outline of a woman's body.
+Judge Darrin Gayles threw out the case, finding the suit runs counter to the First Amendment, which protects freedom of the press.
+Gayles had already once dismissed the defamation lawsuit, which sought $20 billion in damages. Trump's team refiled the suit seeking $10 billion, and this time, the judge threw out the case "with prejudice," meaning the suit cannot be filed again.
+The news outlet's story about Epstein's 50th birthday book, external - and the letter with Trump's name - came as the Trump administration battled intense bipartisan criticism over the summer for its handling of Epstein documents.
+Trump had said the newspaper had slandered him and violated libel laws in publishing the article.
+In his 20-page ruling, Gayles noted the paper's "thoughtful and detailed investigation" that led to the story and said the lawsuit was "grasping at straws" to "manufacture flaws" in their work.
+The judge wrote that Trump's legal team did not prove that the defendants made defamatory statements with "actual malice", which the law requires be proven.
+Actual malice is high bar to meet, as it requires proof that the defendant knew the defamatory statement was false or acted with reckless disregard for whether it was true or not.
+Trump alleged that the letter obtained and released by the Journal, which features his signature at the bottom, was "fake" and that the defendants devised the story in order to defame him.
+Trump's legal team had argued that because Trump denied writing the letter when contacted by the Journal, the paper should have "disregarded everything else they learned in their investigation and not published the story", Gayles wrote.
+"But that is not what the actual malice standard requires and runs afoul of the First Amendment," Gayles wrote.
+If that were the law, he wrote, then "any time a public figure or his team denies an accusation, journalists would be immediately blocked from publishing negative or contradictory press—a result that flies in the face of the 'American privilege to speak one's mind'".
+According to the Wall Street Journal story, a letter bearing Trump's name "contained several lines of typewritten text framed by the outline of a naked woman, which appears to be hand-drawn with a heavy marker".
+It reportedly contained a joking reference that "enigmas never age" and allegedly ended with the words: "A pal is a wonderful thing. Happy Birthday - and may every day be another wonderful secret".`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-01T00:41:24+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cde/live/f5e426a0-d586-11f1-a6a4-9b195a139571.jpg",
+    readTime: 8,
+  },
+  {
+    id: "no-more-washing-up-how-airbnb-s-new-hous-872993d8",
+    title: "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+    titleJa: "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+    summaryJa: "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
+    bodyOriginal: `No more washing up: How Airbnb's new house rules have divided hosts and guests
+- Published
+When Lisa Clewes returned to her Welsh holiday let after a group of guests checked out, she was horrified by the mess.
+Just days earlier, she had met the group in person and helped with their luggage.
+But after a dinner party, the house was left "in a complete mess" with broken glasses, drinks cans on the floor, pans full of food on the table and fish guts left in the garden.
+"It was really unbelievable. Had I had another booking the same day, I would have had to cancel or delay check-in," says Clewes.
+She charges a cleaning fee that covers around 75% of the cost of a cleaner and asks guests to empty the fridge, put rubbish in the bins and load the dishwasher.
+But Airbnb's new rules mean hosts can no longer ask guests to do jobs normally carried out by cleaners, including washing and putting away dishes, stripping beds and taking rubbish off site.
+The updated guidelines, which apply to bookings made globally from 20 November, state that hosts can now set seven standard house rules and add other "reasonable" requests.
+Clewes says it typically takes cleaners four hours to turn around her three-bedroom property. She fears guests leaving more mess could mean hiring extra cleaners and increasing costs – expenses that may ultimately be passed on to her guests.
+The changes have come as a relief to guests like Jessica Newhook, who says she has been faced with lengthy checkout lists, often on top of hefty cleaning fees.
+She booked an Airbnb in Florida for a family reunion of 11 guests and says they had to "leave the property move-in ready for the cleaners", despite paying a $250 (£187) cleaning fee.
+Newhook says the host told them to wash and fold towels, clean the bedding and kitchen, and sweep and mop the floors. She was also warned by the host that their behaviour needed to improve or they could be told to leave, because they had left chairs blocking bins.
+"We had rules about everything and it was not relaxing at all."
+While Newhook likes the home comforts of staying in an Airbnb, she says the combination of relentless rules and rising cleaning fees has taken away much of its appeal.
+"It is getting to the point where a hotel is cheaper and I know what to expect."
+Krissi Foskett, 46, from Glasgow, runs a national cleaning company and regularly stays in Airbnb properties so "can see the issue from both sides".
+During a recent stay in Stafford, she paid a £35 cleaning fee but was still asked to strip the beds, put on a wash, empty bins and carry rubbish down a long track to a recycling area.
+"I don't particularly mind doing those things, but it did make me question what exactly I was paying the additional cleaning fee for," she says.
+For Foskett, there is a difference between being a considerate guest – "putting your dirty dishes in the dishwasher" – and being "expected to prepare the property for the next guests".
+Through her cleaning business, she has also seen the other extreme, with teams arriving to find broken furniture, vomit and pet urine.
+While she sympathises with hosts facing tight turnarounds and rising cleaning costs, these should not be passed on to guests, she says.
+"If you're running an Airbnb as a business, professional cleaning is a cost of doing business."
+Anthony Marsh, who co-owns a cabin retreat in North Yorkshire with his husband, used to list five of their 12 properties on Airbnb, but says the new rules have prompted him to reduce this number to just two.
+His concern with the changes is that "Airbnb has effectively given guests permission to come and leave properties a tip, and a host can't do anything about it".
+He believes asking guests to wash their pots and put out the bins is hardly unreasonable and, with a small cleaning team and tight turnaround times, he worries extra mess could leave properties unready for the next arrivals.
+"It's common sense and common decency," he says.
+His company does not charge a cleaning fee, and Marsh says most guests are respectful. But fees are more common than not. Some 63.2% of Airbnb listings charge a cleaning fee, with an average cost of £55 according to data from AirROI, external.
+Laura Lewis runs a directory that helps holiday-let owners market their properties and connect with potential guests.
+Many of her clients also list on Airbnb and she says most are unhappy with the new rules, arguing that asking guests to wash up is a matter of basic respect.
+"Some people say it's factored into the cleaning fee, but I wouldn't leave a holiday let with all the washing-up to do. It's not the right thing," she says.
+The announcement has added to growing frustration among owners following increases in Airbnb's commission rates last year. Many are investing in their own websites and social media to attract direct bookings and avoid platform fees.
+Lewis has taken the same approach with the three treehouses on her farm – most of her bookings are already direct and she now plans to remove her listings from Airbnb altogether.
+Not all hosts are concerned about the changes, however. Matt Prosz, who hosts and manages other Airbnb properties full-time, believes the update will improve the guest experience without changing how most people behave.
+Guests at his property in south-west London are asked only to lock up and return the keys. "People sometimes strip the beds or do things without me asking, and that's nice for my cleaners, but I don't expect it."
+Prosz doubts the changes will lead to guests leaving properties in a worse state, pointing to Airbnb's mutual review system.
+"If I put a big chore list, I wouldn't expect a five-star review and vice versa – if a guest leaves the place in a state, you're not going to give them a good review."
+He believes the system encourages both sides to behave reasonably, and that most guests will continue to treat properties with respect.
+"Airbnb is trying to cut out the silly stuff because it's not a good guest experience."`,
+    bodyJa: `No more washing up: How Airbnb's new house rules have divided hosts and guests
+- Published
+When Lisa Clewes returned to her Welsh holiday let after a group of guests checked out, she was horrified by the mess.
+Just days earlier, she had met the group in person and helped with their luggage.
+But after a dinner party, the house was left "in a complete mess" with broken glasses, drinks cans on the floor, pans full of food on the table and fish guts left in the garden.
+"It was really unbelievable. Had I had another booking the same day, I would have had to cancel or delay check-in," says Clewes.
+She charges a cleaning fee that covers around 75% of the cost of a cleaner and asks guests to empty the fridge, put rubbish in the bins and load the dishwasher.
+But Airbnb's new rules mean hosts can no longer ask guests to do jobs normally carried out by cleaners, including washing and putting away dishes, stripping beds and taking rubbish off site.
+The updated guidelines, which apply to bookings made globally from 20 November, state that hosts can now set seven standard house rules and add other "reasonable" requests.
+Clewes says it typically takes cleaners four hours to turn around her three-bedroom property. She fears guests leaving more mess could mean hiring extra cleaners and increasing costs – expenses that may ultimately be passed on to her guests.
+The changes have come as a relief to guests like Jessica Newhook, who says she has been faced with lengthy checkout lists, often on top of hefty cleaning fees.
+She booked an Airbnb in Florida for a family reunion of 11 guests and says they had to "leave the property move-in ready for the cleaners", despite paying a $250 (£187) cleaning fee.
+Newhook says the host told them to wash and fold towels, clean the bedding and kitchen, and sweep and mop the floors. She was also warned by the host that their behaviour needed to improve or they could be told to leave, because they had left chairs blocking bins.
+"We had rules about everything and it was not relaxing at all."
+While Newhook likes the home comforts of staying in an Airbnb, she says the combination of relentless rules and rising cleaning fees has taken away much of its appeal.
+"It is getting to the point where a hotel is cheaper and I know what to expect."
+Krissi Foskett, 46, from Glasgow, runs a national cleaning company and regularly stays in Airbnb properties so "can see the issue from both sides".
+During a recent stay in Stafford, she paid a £35 cleaning fee but was still asked to strip the beds, put on a wash, empty bins and carry rubbish down a long track to a recycling area.
+"I don't particularly mind doing those things, but it did make me question what exactly I was paying the additional cleaning fee for," she says.
+For Foskett, there is a difference between being a considerate guest – "putting your dirty dishes in the dishwasher" – and being "expected to prepare the property for the next guests".
+Through her cleaning business, she has also seen the other extreme, with teams arriving to find broken furniture, vomit and pet urine.
+While she sympathises with hosts facing tight turnarounds and rising cleaning costs, these should not be passed on to guests, she says.
+"If you're running an Airbnb as a business, professional cleaning is a cost of doing business."
+Anthony Marsh, who co-owns a cabin retreat in North Yorkshire with his husband, used to list five of their 12 properties on Airbnb, but says the new rules have prompted him to reduce this number to just two.
+His concern with the changes is that "Airbnb has effectively given guests permission to come and leave properties a tip, and a host can't do anything about it".
+He believes asking guests to wash their pots and put out the bins is hardly unreasonable and, with a small cleaning team and tight turnaround times, he worries extra mess could leave properties unready for the next arrivals.
+"It's common sense and common decency," he says.
+His company does not charge a cleaning fee, and Marsh says most guests are respectful. But fees are more common than not. Some 63.2% of Airbnb listings charge a cleaning fee, with an average cost of £55 according to data from AirROI, external.
+Laura Lewis runs a directory that helps holiday-let owners market their properties and connect with potential guests.
+Many of her clients also list on Airbnb and she says most are unhappy with the new rules, arguing that asking guests to wash up is a matter of basic respect.
+"Some people say it's factored into the cleaning fee, but I wouldn't leave a holiday let with all the washing-up to do. It's not the right thing," she says.
+The announcement has added to growing frustration among owners following increases in Airbnb's commission rates last year. Many are investing in their own websites and social media to attract direct bookings and avoid platform fees.
+Lewis has taken the same approach with the three treehouses on her farm – most of her bookings are already direct and she now plans to remove her listings from Airbnb altogether.
+Not all hosts are concerned about the changes, however. Matt Prosz, who hosts and manages other Airbnb properties full-time, believes the update will improve the guest experience without changing how most people behave.
+Guests at his property in south-west London are asked only to lock up and return the keys. "People sometimes strip the beds or do things without me asking, and that's nice for my cleaners, but I don't expect it."
+Prosz doubts the changes will lead to guests leaving properties in a worse state, pointing to Airbnb's mutual review system.
+"If I put a big chore list, I wouldn't expect a five-star review and vice versa – if a guest leaves the place in a state, you're not going to give them a good review."
+He believes the system encourages both sides to behave reasonably, and that most guests will continue to treat properties with respect.
+"Airbnb is trying to cut out the silly stuff because it's not a good guest experience."`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-01T00:17:05+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52bf/live/c3b77ec0-d3b5-11f1-a340-478c8f3b9e55.jpg",
     readTime: 10,
   },
   {
@@ -1666,368 +2006,6 @@ Intel still has no external customers for its new chips.
     publishedAt: "2026-10-30T20:30:57+00:00",
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "reid-hoffman-gives-millions-to-dems-in-l-fda59fb1",
-    title: "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
-    titleJa: "Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election",
-    summaryJa: "Reid Hoffman has given $8 million to Wisconsin Democrats backing David Crowley as Tom Tiffany attacks Hoffman's past ties to Jeffrey Epstein.",
-    bodyOriginal: `Billionaire venture capitalist Reid Hoffman has put $8 million into the Democratic Party of Wisconsin over the past five weeks to help the party's gubernatorial nominee David Crowley in his race against Republican Tom Tiffany.
-The LinkedIn co-founder gave $2 million on Sept. 24, $1 million on Oct. 2 and another $5 million in two installments on Oct. 5 and Oct. 20, according to Wisconsin campaign finance records. The rapid-fire checks are part of a last-minute spending spree by some of America's richest donors before Election Day.
-In just the past week and a half, former New York City Mayor Michael Bloomberg gave Democratic Texas gubernatorial nominee Gina Hinojosa $750,000, while Y Combinator co-founder Jessica Livingston chipped in another $150,000, state records show.
-Bloomberg had already committed roughly $80 million to help Democrats this fall, much of it aimed at winning control of the House.
-Meanwhile, PayPal co-founder Luke Nosek gave $500,000 on Tuesday to Judicial Fairness PAC, which supports conservative judicial candidates in Texas, according to Texas campaign finance records. The group had already received $2 million from Tesla and SpaceX CEO Elon Musk, according to state records. Musk's roughly $475 million in disclosed political giving through late October makes him the cycle's biggest known individual donor.
-The checks are landing in the middle of a final-week ad frenzy, with more than $1 billion now booked to air before Election Day, according to AdImpact. The 2026 cycle has already broken the record for political ad spending, with more than $11.2 billion spent or reserved, according to AdImpact. That's more than any previous presidential election cycle as well.
-Hoffman has framed his own spending as a reluctant necessity.
-"We should get money out of politics," Hoffman wrote Friday on X. "And while others spend outrageous amounts to keep authoritarian clowns in power, those of us who believe in the ideals of America cannot yield."
-The House Majority PAC, the main super PAC working to elect House Democrats, has received $8.5 million from Hoffman this cycle, according to Federal Election Commission records.
-In the past two weeks, the group has rolled out 13 ads related to disgraced financier and sex offender Jeffrey Epstein. They total about $8.4 million in spending and nearly 719.4 million impressions, according to AdImpact. Until this month, it had not run a single Epstein-focused ad.
-The spots have pushed Epstein into at least six battleground House races, accusing Republicans of helping block the release of government records related to Epstein or highlighting their ties to people in his orbit.
-In Arizona's Second District, an ad called "Justice" attacked Republican Rep. Eli Crane over votes related to releasing the Epstein files and contributions from alleged Epstein associates. In Pennsylvania's Eighth District, ads called "Predators" and "Teacher" targeted Republican Rep. Rob Bresnahan. And this week, an ad called "Exposed" went after Republican Rep. Mike Turner in Ohio's Tenth District over a contribution from an Epstein confidant and his record on releasing the files. All three races are tightly contested and could help determine control of the House in the next Congress.
-There is no way to trace Hoffman's money to any particular ad because super PACs pool contributions from their donors. But the blitz comes with an obvious complication for Democrats: Hoffman's continued association with Epstein after the financier pleaded guilty in 2008 to sex offenses involving a minor.
-Hoffman has acknowledged visiting Epstein's private island and meeting with him after the conviction. He has said the relationship grew out of fundraising for the MIT Media Lab and has repeatedly said he regrets continuing to meet with Epstein.
-"My last interaction with Epstein was in 2015," Hoffman told Axios in 2019. "Still, by agreeing to participate in any fundraising activity where Epstein was present, I helped to repair his reputation and perpetuate injustice. For this, I am deeply regretful."
-There is no allegation that Hoffman participated in Epstein's sex-trafficking crimes, but Republicans have nevertheless seized on the relationship. The Republican National Committee this week accused Democrats of hypocrisy for accepting Hoffman's money while using Epstein against GOP candidates.
-"Democrats have no problem with money in politics so long as it benefits their own campaign," RNC spokesperson Natalie Baldassarre told Fox News earlier this week.
-And the attack has followed Hoffman's money into Wisconsin. In a new 15-second ad, Tiffany's campaign splices together clips of Crowley saying "Epstein" and "billionaires" before a narrator says they "are bankrolling David Crowley's campaign."`,
-    bodyJa: `Billionaire venture capitalist Reid Hoffman has put $8 million into the Democratic Party of Wisconsin over the past five weeks to help the party's gubernatorial nominee David Crowley in his race against Republican Tom Tiffany.
-The LinkedIn co-founder gave $2 million on Sept. 24, $1 million on Oct. 2 and another $5 million in two installments on Oct. 5 and Oct. 20, according to Wisconsin campaign finance records. The rapid-fire checks are part of a last-minute spending spree by some of America's richest donors before Election Day.
-In just the past week and a half, former New York City Mayor Michael Bloomberg gave Democratic Texas gubernatorial nominee Gina Hinojosa $750,000, while Y Combinator co-founder Jessica Livingston chipped in another $150,000, state records show.
-Bloomberg had already committed roughly $80 million to help Democrats this fall, much of it aimed at winning control of the House.
-Meanwhile, PayPal co-founder Luke Nosek gave $500,000 on Tuesday to Judicial Fairness PAC, which supports conservative judicial candidates in Texas, according to Texas campaign finance records. The group had already received $2 million from Tesla and SpaceX CEO Elon Musk, according to state records. Musk's roughly $475 million in disclosed political giving through late October makes him the cycle's biggest known individual donor.
-The checks are landing in the middle of a final-week ad frenzy, with more than $1 billion now booked to air before Election Day, according to AdImpact. The 2026 cycle has already broken the record for political ad spending, with more than $11.2 billion spent or reserved, according to AdImpact. That's more than any previous presidential election cycle as well.
-Hoffman has framed his own spending as a reluctant necessity.
-"We should get money out of politics," Hoffman wrote Friday on X. "And while others spend outrageous amounts to keep authoritarian clowns in power, those of us who believe in the ideals of America cannot yield."
-The House Majority PAC, the main super PAC working to elect House Democrats, has received $8.5 million from Hoffman this cycle, according to Federal Election Commission records.
-In the past two weeks, the group has rolled out 13 ads related to disgraced financier and sex offender Jeffrey Epstein. They total about $8.4 million in spending and nearly 719.4 million impressions, according to AdImpact. Until this month, it had not run a single Epstein-focused ad.
-The spots have pushed Epstein into at least six battleground House races, accusing Republicans of helping block the release of government records related to Epstein or highlighting their ties to people in his orbit.
-In Arizona's Second District, an ad called "Justice" attacked Republican Rep. Eli Crane over votes related to releasing the Epstein files and contributions from alleged Epstein associates. In Pennsylvania's Eighth District, ads called "Predators" and "Teacher" targeted Republican Rep. Rob Bresnahan. And this week, an ad called "Exposed" went after Republican Rep. Mike Turner in Ohio's Tenth District over a contribution from an Epstein confidant and his record on releasing the files. All three races are tightly contested and could help determine control of the House in the next Congress.
-There is no way to trace Hoffman's money to any particular ad because super PACs pool contributions from their donors. But the blitz comes with an obvious complication for Democrats: Hoffman's continued association with Epstein after the financier pleaded guilty in 2008 to sex offenses involving a minor.
-Hoffman has acknowledged visiting Epstein's private island and meeting with him after the conviction. He has said the relationship grew out of fundraising for the MIT Media Lab and has repeatedly said he regrets continuing to meet with Epstein.
-"My last interaction with Epstein was in 2015," Hoffman told Axios in 2019. "Still, by agreeing to participate in any fundraising activity where Epstein was present, I helped to repair his reputation and perpetuate injustice. For this, I am deeply regretful."
-There is no allegation that Hoffman participated in Epstein's sex-trafficking crimes, but Republicans have nevertheless seized on the relationship. The Republican National Committee this week accused Democrats of hypocrisy for accepting Hoffman's money while using Epstein against GOP candidates.
-"Democrats have no problem with money in politics so long as it benefits their own campaign," RNC spokesperson Natalie Baldassarre told Fox News earlier this week.
-And the attack has followed Hoffman's money into Wisconsin. In a new 15-second ad, Tiffany's campaign splices together clips of Crowley saying "Epstein" and "billionaires" before a narrator says they "are bankrolling David Crowley's campaign."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html",
-    publishedAt: "2026-10-30T18:32:17+00:00",
-    category: "自動車",
-    imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "city-of-london-chief-tops-uk-black-power-5d44c0c5",
-    title: "City of London chief tops UK Black Powerlist",
-    titleJa: "City of London chief tops UK Black Powerlist",
-    summaryJa: "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
-    bodyOriginal: `City of London chief tops UK Black Powerlist
-- Published
-Ian Thomas, chief executive of the City of London Corporation, has been named the UK's most influential Black Briton in this year's Black Powerlist awards.
-The 57-year old is the first Black person to oversee the Square Mile's governing body in its more than 900-year history.
-The City of London Corporation is an administrative body with responsibility for London's central financial district, headed by its own Lord Mayor.
-Thomas tops the 2027 Black Powerlist, which recognises the most powerful people of African and Caribbean heritage in the UK.
-The award body said he was "a respected public-service leader with over 30 years' experience in local government".
-Other influential names in this year's top ten include entrepreneurs Emma Grede and Steven Bartlett, as well as actor and filmmaker Sir Idris Elba.
-Comedian Sir Lenny Henry has also been recognised, with a Lifetime Achievement award, for co-founding Comic Relief, which has raised over £1.6bn since 1985.
-Now in its 21st year, the Black Powerlist celebrates people who have broken through barriers to reach leadership roles, thereby inspiring future generations.
-"It exists to show young people of African and Caribbean heritage what is possible, in fields they might never have considered," said Michael Eboda, the list's publisher.
-Thomas said he secured the role at the head of the City of London Corporation in 2022 only following seven interviews and an election.
-'When I started my journey in public service, I never, ever thought, [not] in a million years, that I'd be recognised in this way," he told the BBC.
-'Discipline and respect'
-As chief executive, he oversees around 5,000 staff with responsibilities including the City of London Police, 11,000 acres of open spaces such as Epping Forest and Hampstead Heath, and advocacy for the UK's financial and professional services sector.
-Thomas was born in Sheffield to parents who made the city their home after leaving Jamaica as part of the Windrush generation.
-"They worked incredibly hard and instilled that sense of discipline and respect, and that's the core of how I do business," he said of his upbringing.
-Growing up, Thomas aspired to be a footballer and took part in trials alongside Alan Shearer.
-Reflecting on his own change of direction, Thomas joked it was about "following dreams and if they don't come true… there's always something else".
-Before joining the City of London Corporation, Thomas served as chief executive of the Royal Borough of Kingston upon Thames where he oversaw public services and a £1.2bn regeneration programme.
-He was appointed a CBE in the 2019 New Year Honours in the wake of the Rotherham Abuse scandal for transforming children's services during his time as strategic director for children and young people at Rotherham Metropolitan Borough Council.
-Thomas replaces last year's incumbent, Afua Kyei, the Bank of England's chief financial officer and executive director, and is joined on this year's list by Comfort Ero, the President and chief executive of the International Crisis Group, who takes second place.
-Related topics
-- Published24 October 2025
-- Published19 October`,
-    bodyJa: `City of London chief tops UK Black Powerlist
-- Published
-Ian Thomas, chief executive of the City of London Corporation, has been named the UK's most influential Black Briton in this year's Black Powerlist awards.
-The 57-year old is the first Black person to oversee the Square Mile's governing body in its more than 900-year history.
-The City of London Corporation is an administrative body with responsibility for London's central financial district, headed by its own Lord Mayor.
-Thomas tops the 2027 Black Powerlist, which recognises the most powerful people of African and Caribbean heritage in the UK.
-The award body said he was "a respected public-service leader with over 30 years' experience in local government".
-Other influential names in this year's top ten include entrepreneurs Emma Grede and Steven Bartlett, as well as actor and filmmaker Sir Idris Elba.
-Comedian Sir Lenny Henry has also been recognised, with a Lifetime Achievement award, for co-founding Comic Relief, which has raised over £1.6bn since 1985.
-Now in its 21st year, the Black Powerlist celebrates people who have broken through barriers to reach leadership roles, thereby inspiring future generations.
-"It exists to show young people of African and Caribbean heritage what is possible, in fields they might never have considered," said Michael Eboda, the list's publisher.
-Thomas said he secured the role at the head of the City of London Corporation in 2022 only following seven interviews and an election.
-'When I started my journey in public service, I never, ever thought, [not] in a million years, that I'd be recognised in this way," he told the BBC.
-'Discipline and respect'
-As chief executive, he oversees around 5,000 staff with responsibilities including the City of London Police, 11,000 acres of open spaces such as Epping Forest and Hampstead Heath, and advocacy for the UK's financial and professional services sector.
-Thomas was born in Sheffield to parents who made the city their home after leaving Jamaica as part of the Windrush generation.
-"They worked incredibly hard and instilled that sense of discipline and respect, and that's the core of how I do business," he said of his upbringing.
-Growing up, Thomas aspired to be a footballer and took part in trials alongside Alan Shearer.
-Reflecting on his own change of direction, Thomas joked it was about "following dreams and if they don't come true… there's always something else".
-Before joining the City of London Corporation, Thomas served as chief executive of the Royal Borough of Kingston upon Thames where he oversaw public services and a £1.2bn regeneration programme.
-He was appointed a CBE in the 2019 New Year Honours in the wake of the Rotherham Abuse scandal for transforming children's services during his time as strategic director for children and young people at Rotherham Metropolitan Borough Council.
-Thomas replaces last year's incumbent, Afua Kyei, the Bank of England's chief financial officer and executive director, and is joined on this year's list by Comfort Ero, the President and chief executive of the International Crisis Group, who takes second place.
-Related topics
-- Published24 October 2025
-- Published19 October`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-30T18:00:24+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d4/live/4a441ff0-d48a-11f1-9a20-f717db279e3e.jpg",
-    readTime: 8,
-  },
-  {
-    id: "treasury-department-announces-new-series-249afc7e",
-    title: "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
-    titleJa: "Treasury Department announces new Series I bond rate of 5.51% for the next six months",
-    summaryJa: "The U.S. Department of the Treasury has announced new Series I bond rates through April 2027.",
-    bodyOriginal: `The U.S. Department of the Treasury has announced new rates for Series I bonds.
-Newly purchased I bonds will pay 5.51% annual interest from Nov. 1 through April 30, which is up from the 4.26% yield offered on purchases made through Oct. 31.
-The new rate includes a variable portion of 4.08% based on inflation data, and a fixed portion of 1.40%. The fixed rate is up from 0.90% announced in April, and the highest since 2006.
-Combined, the composite I bond rate is 5.51% after rounding, according to the Treasury.
-Amid the post-pandemic inflation peak, the I bond rate hit a record high of 9.62% in May 2022, and investors poured millions into the government-backed, nearly risk-free asset.
-As inflation cooled and I bond rates fell, many short-term investors redeemed I bonds. But investors could return as inflation pushes I bond rates back up, experts say.
-"I bonds are a lot more attractive at this point," said David Enna, founder of Tipswatch.com, a website that tracks Treasury inflation-protected securities, or TIPS, and I bond rates.
-I bonds are a lot more attractive at this point.David EnnaFounder of Tipswatch.com
-The consumer price index rose 3.7% in September 2026 from one year earlier, up from an annual pace of 3.4% in August, the Bureau of Labor Statistics reported in October.
-In September, some higher inflation came from the Iran war, which pushed up gasoline and energy costs. President Donald Trump's tariffs, new artificial intelligence data centers and demand for travel have also added to rising prices, economists say.
-Consumers expect rising inflation to continue. In September, the one-year inflation outlook jumped to 3.9%, the highest in more than three years, according to a New York Fed survey released in early October.
-How I bond rates work
-I bond rates have a variable and fixed rate portion, which the Treasury adjusts every six months, in May and November.
-The variable rate is tied to inflation — using the consumer price index percentage change over six months — and stays the same for six months after you purchase, regardless of the Treasury's next update.
-Your fixed rate doesn't change after purchasing I bonds. The Treasury doesn't disclose how it calculates fixed-rate adjustments, making it harder to predict.
-Some experts believe the I bond fixed rate could be driven by real, or inflation-adjusted, yields from five-year TIPS, according to Ken Tumin, founder of DepositQuest.com, a blog that tracks I bond rates, among other deposit accounts.
-"There's some uncertainty there," Tumin said.
-How the change affects current I bond investors
-If you currently own I bonds, rate updates follow a six-month timeline based on your original purchase date.
-After you own I bonds for six months, the variable yield changes to the next announced rate. But the fixed rate stays the same for the entire time you own the asset.
-For example, let's say you purchased I bonds in March when the variable rate was still 3.12% and the fixed rate was 0.9%. After six months, the variable portion would shift to 3.34%, announced in April 2026, but your fixed rate would remain 0.9%.
-You can earn I bond interest for up to 30 years, or less if you redeem the assets before that. However, you can't cash in I bonds for at least one year after you buy them. If you redeem within five years, you lose your last three months of interest.`,
-    bodyJa: `The U.S. Department of the Treasury has announced new rates for Series I bonds.
-Newly purchased I bonds will pay 5.51% annual interest from Nov. 1 through April 30, which is up from the 4.26% yield offered on purchases made through Oct. 31.
-The new rate includes a variable portion of 4.08% based on inflation data, and a fixed portion of 1.40%. The fixed rate is up from 0.90% announced in April, and the highest since 2006.
-Combined, the composite I bond rate is 5.51% after rounding, according to the Treasury.
-Amid the post-pandemic inflation peak, the I bond rate hit a record high of 9.62% in May 2022, and investors poured millions into the government-backed, nearly risk-free asset.
-As inflation cooled and I bond rates fell, many short-term investors redeemed I bonds. But investors could return as inflation pushes I bond rates back up, experts say.
-"I bonds are a lot more attractive at this point," said David Enna, founder of Tipswatch.com, a website that tracks Treasury inflation-protected securities, or TIPS, and I bond rates.
-I bonds are a lot more attractive at this point.David EnnaFounder of Tipswatch.com
-The consumer price index rose 3.7% in September 2026 from one year earlier, up from an annual pace of 3.4% in August, the Bureau of Labor Statistics reported in October.
-In September, some higher inflation came from the Iran war, which pushed up gasoline and energy costs. President Donald Trump's tariffs, new artificial intelligence data centers and demand for travel have also added to rising prices, economists say.
-Consumers expect rising inflation to continue. In September, the one-year inflation outlook jumped to 3.9%, the highest in more than three years, according to a New York Fed survey released in early October.
-How I bond rates work
-I bond rates have a variable and fixed rate portion, which the Treasury adjusts every six months, in May and November.
-The variable rate is tied to inflation — using the consumer price index percentage change over six months — and stays the same for six months after you purchase, regardless of the Treasury's next update.
-Your fixed rate doesn't change after purchasing I bonds. The Treasury doesn't disclose how it calculates fixed-rate adjustments, making it harder to predict.
-Some experts believe the I bond fixed rate could be driven by real, or inflation-adjusted, yields from five-year TIPS, according to Ken Tumin, founder of DepositQuest.com, a blog that tracks I bond rates, among other deposit accounts.
-"There's some uncertainty there," Tumin said.
-How the change affects current I bond investors
-If you currently own I bonds, rate updates follow a six-month timeline based on your original purchase date.
-After you own I bonds for six months, the variable yield changes to the next announced rate. But the fixed rate stays the same for the entire time you own the asset.
-For example, let's say you purchased I bonds in March when the variable rate was still 3.12% and the fixed rate was 0.9%. After six months, the variable portion would shift to 3.34%, announced in April 2026, but your fixed rate would remain 0.9%.
-You can earn I bond interest for up to 30 years, or less if you redeem the assets before that. However, you can't cash in I bonds for at least one year after you buy them. If you redeem within five years, you lose your last three months of interest.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/30/treasury-i-bond-rate-through-april-2027.html",
-    publishedAt: "2026-10-30T17:15:53+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 8,
-  },
-  {
-    id: "halloween-gets-pricier-as-chocolate-cost-ac9b486e",
-    title: "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
-    titleJa: "Halloween gets pricier as chocolate costs climb — Hershey may feel the pinch",
-    summaryJa: "Higher cocoa and sugar prices are fueling above-average cost inflation for candy",
-    bodyOriginal: `Halloween shopping got costlier this year as higher prices hit everything from the candy bowl to the pumpkin on your front porch.
-It's not only rough on consumers, but may also hit companies like Hershey.
-Americans are expected to spend $13.5 billion on Halloween, up from last year's record $13.1 billion, according to the National Retail Federation.
-"Consumers continue to make Halloween a spending priority, but they are also approaching the season with affordability in mind," said Allison Zeller, NRF vice president of industry and consumer insights.
-Inflation is rippling through everything from candy to costumes. Pumpkins are costlier too. The average retail price reached $5.36 this year, up 11% from September 2020, according to the U.S. Department of Agriculture. Drought reduced yields by roughly 30% to 40% in parts of Texas, a major pumpkin-growing state.
-Candy and chocolate
-Candy remains one of the biggest expenses this Halloween and prices increases are running ahead of broader food inflation, though the rate of increase has slowed.
-Candy and chewing gum prices were up 7.7% in September from a year earlier, according to the latest Consumer Price Index data. The sugar-and-sweets category increased 5.5% over the same period. Adverse weather, including the impact of El Niño, tightened the outlook for sugar supply. Unusually wet conditions disrupted Brazil's sugarcane harvest, while drought and other weather extremes affected production in other major growing regions.
-"As Halloween swiftly approaches, candy stands out in the grocery store as one of the more expensive categories, relative to prices last year," food economist Richard Volpe wrote on LinkedIn. "In past years, this has left me swimming with candy," he added. "As I write this, Halloween is days away and I have a paltry three bags of candy sitting on my desk."
-Nielsen IQ Early Market data showed Halloween candy sales down 11.7% through September 19. Four weeks later, the decline narrowed to 6.7%, with chocolate at -7.2% and confection at -5.3%, according to the report.
-Chocolate so far has been the most vulnerable, especially after a disruption in cocoa supply in West Africa, which was hit by poor growing conditions in Côte d'Ivoire and Ghana. A potential El Niño and dry Harmattan trade winds could put pressure on the 2026-27 West African cocoa crop.
-There was some relief in commodity markets after cocoa prices fell sharply from its historic highs, according to David Branch, sector manager at the Wells Fargo Agri-Food Institute.
-But that drop has yet to translate into cheaper chocolates.
-Wells Fargo Agri-Food estimates chocolate prices will be about 8% higher than last Halloween, with effective transaction prices rising roughly 5% to 8% after promotions. Much of the chocolate on shelves this Halloween was produced using cocoa bought six to 12 months earlier.
-"The worst of the cocoa crisis has passed, but price relief hasn't reached store shelves yet," Branch told CNBC. "For chocolate manufacturers, the principal 2026 issue is no longer simply cocoa availability. It is the timing mismatch between falling futures, high-cost inventories, retailer negotiations, and consumer elasticity."
-Halloween chocolate dollar sales were down 7.2% from a year earlier through the nine weeks ended Oct. 17, according to NIQ, with weakness in milk chocolate leading the decline.
-NIQ estimates Halloween chocolate sales to be down $33.1 million from last year, with milk chocolate accounting for a $34.4 million decline. Dark chocolate, meanwhile, gained $2.3 million. Overall Halloween candy, gum and mint sales were down 6.7%.
-To help juice sales, retailers are offering discounts — Walmart and Target have flash deals and heavy discounts on items from candy to Halloween costumes.
-Candy shoppers, meanwhile, appear to be moving toward smaller packages. Small candy packs of nine ounces or less are up 24% in dollar terms and 14% in units, while every larger package size is declining, according to NIQ.
-Wells Fargo expects shoppers to increasingly favor value packs and alternatives that use less cocoa, including gummies, sour candy, wafers and caramel.
-"Consumers will continue buying candy, but shopping baskets are likely to contain fewer chocolate pieces, more value packs, and a greater share of gummies, sour products, wafers, caramel, and other lower-cocoa alternatives," Branch said.
-Hershey stock was rising on Friday as consumers ditched AI stocks for safer consumer staples. But analysts see trouble brewing for the candy maker.
-The company, which reported third quarter results on Thursday, lowered its 2026 organic sales growth forecast to 3% (from 3%-3.5%). That implies "flattish" organic growth in the fourth quarter, according to Jefferies analyst Scott Marks
-Hershey's commentary was "incrementally cautious," he added in a note, saying "consumer and cost pressures" are weighing on the near-term outlook.
-"We're looking at areas like in convenience as you see a consumer that's under pressure to give more value and drive pricing through bespoke promotions versus overall price decreases," Hershey CEO Kirk Tanner told analysts on an earnings call.
-Marks cut his price target on the stock to $170, joining cuts at brokerages such as DA Davidson, BNP Paribas, Bernstein and Deutsche Bank. Consensus estimates for 2027 earnings fell 3.7% to $9.49 a share, according to FactSet.
-CNBC's Alex Harring contributed to the reporting.`,
-    bodyJa: `Halloween shopping got costlier this year as higher prices hit everything from the candy bowl to the pumpkin on your front porch.
-It's not only rough on consumers, but may also hit companies like Hershey.
-Americans are expected to spend $13.5 billion on Halloween, up from last year's record $13.1 billion, according to the National Retail Federation.
-"Consumers continue to make Halloween a spending priority, but they are also approaching the season with affordability in mind," said Allison Zeller, NRF vice president of industry and consumer insights.
-Inflation is rippling through everything from candy to costumes. Pumpkins are costlier too. The average retail price reached $5.36 this year, up 11% from September 2020, according to the U.S. Department of Agriculture. Drought reduced yields by roughly 30% to 40% in parts of Texas, a major pumpkin-growing state.
-Candy and chocolate
-Candy remains one of the biggest expenses this Halloween and prices increases are running ahead of broader food inflation, though the rate of increase has slowed.
-Candy and chewing gum prices were up 7.7% in September from a year earlier, according to the latest Consumer Price Index data. The sugar-and-sweets category increased 5.5% over the same period. Adverse weather, including the impact of El Niño, tightened the outlook for sugar supply. Unusually wet conditions disrupted Brazil's sugarcane harvest, while drought and other weather extremes affected production in other major growing regions.
-"As Halloween swiftly approaches, candy stands out in the grocery store as one of the more expensive categories, relative to prices last year," food economist Richard Volpe wrote on LinkedIn. "In past years, this has left me swimming with candy," he added. "As I write this, Halloween is days away and I have a paltry three bags of candy sitting on my desk."
-Nielsen IQ Early Market data showed Halloween candy sales down 11.7% through September 19. Four weeks later, the decline narrowed to 6.7%, with chocolate at -7.2% and confection at -5.3%, according to the report.
-Chocolate so far has been the most vulnerable, especially after a disruption in cocoa supply in West Africa, which was hit by poor growing conditions in Côte d'Ivoire and Ghana. A potential El Niño and dry Harmattan trade winds could put pressure on the 2026-27 West African cocoa crop.
-There was some relief in commodity markets after cocoa prices fell sharply from its historic highs, according to David Branch, sector manager at the Wells Fargo Agri-Food Institute.
-But that drop has yet to translate into cheaper chocolates.
-Wells Fargo Agri-Food estimates chocolate prices will be about 8% higher than last Halloween, with effective transaction prices rising roughly 5% to 8% after promotions. Much of the chocolate on shelves this Halloween was produced using cocoa bought six to 12 months earlier.
-"The worst of the cocoa crisis has passed, but price relief hasn't reached store shelves yet," Branch told CNBC. "For chocolate manufacturers, the principal 2026 issue is no longer simply cocoa availability. It is the timing mismatch between falling futures, high-cost inventories, retailer negotiations, and consumer elasticity."
-Halloween chocolate dollar sales were down 7.2% from a year earlier through the nine weeks ended Oct. 17, according to NIQ, with weakness in milk chocolate leading the decline.
-NIQ estimates Halloween chocolate sales to be down $33.1 million from last year, with milk chocolate accounting for a $34.4 million decline. Dark chocolate, meanwhile, gained $2.3 million. Overall Halloween candy, gum and mint sales were down 6.7%.
-To help juice sales, retailers are offering discounts — Walmart and Target have flash deals and heavy discounts on items from candy to Halloween costumes.
-Candy shoppers, meanwhile, appear to be moving toward smaller packages. Small candy packs of nine ounces or less are up 24% in dollar terms and 14% in units, while every larger package size is declining, according to NIQ.
-Wells Fargo expects shoppers to increasingly favor value packs and alternatives that use less cocoa, including gummies, sour candy, wafers and caramel.
-"Consumers will continue buying candy, but shopping baskets are likely to contain fewer chocolate pieces, more value packs, and a greater share of gummies, sour products, wafers, caramel, and other lower-cocoa alternatives," Branch said.
-Hershey stock was rising on Friday as consumers ditched AI stocks for safer consumer staples. But analysts see trouble brewing for the candy maker.
-The company, which reported third quarter results on Thursday, lowered its 2026 organic sales growth forecast to 3% (from 3%-3.5%). That implies "flattish" organic growth in the fourth quarter, according to Jefferies analyst Scott Marks
-Hershey's commentary was "incrementally cautious," he added in a note, saying "consumer and cost pressures" are weighing on the near-term outlook.
-"We're looking at areas like in convenience as you see a consumer that's under pressure to give more value and drive pricing through bespoke promotions versus overall price decreases," Hershey CEO Kirk Tanner told analysts on an earnings call.
-Marks cut his price target on the stock to $170, joining cuts at brokerages such as DA Davidson, BNP Paribas, Bernstein and Deutsche Bank. Consensus estimates for 2027 earnings fell 3.7% to $9.49 a share, according to FactSet.
-CNBC's Alex Harring contributed to the reporting.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/30/halloween-gets-pricier-as-chocolate-costs-rise-hershey-could-feel-it.html",
-    publishedAt: "2026-10-30T16:55:41+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "swiss-central-bank-posts-bumper-23bn-pro-4f309980",
-    title: "Swiss central bank posts bumper $23bn profit as gold, foreign assets soar",
-    titleJa: "Swiss central bank posts bumper $23bn profit as gold, foreign assets soar",
-    summaryJa: "Unlike other major central banks, the Swiss National Bank has a significant equity portfolio.",
-    bodyOriginal: `The Swiss National Bank said Friday that it made a profit of 19.1 billion Swiss francs ($23.3 billion) on its investments in the third quarter, driven by its gold and foreign currency holdings.
-It brought the central bank's year-to-date profit up to 44.2 billion francs, the equivalent of around $53.8 billion, raising the prospect of a payout to Swiss federal and local governments at the end of the year.
-But the overall profit in the third quarter of 2026 marked a year-on-year decline of almost 32%.
-Profit and loss recorded in the SNB's quarterly accounting updates consists of interest income, dividends, and valuation adjustments resulting from exchange rate movements and market price changes.
-The Swiss franc rose around 12% against the U.S. dollar in 2025, having been lifted by investors flocking to the safe-haven currency in the wake of U.S. President Donald Trump's tariff announcements.
-So far this year, it has lost around 3.6% versus the greenback.
-Profit drivers
-In the third quarter of 2025, the SNB saw a 14.3-billion-franc net gain on gold, compared to a net gain on gold of 7.6 billion francs in the three months to September.
-The yellow metal saw a record-smashing rally in 2025, with its value surging by around 66% over the course of 2025. But its trajectory has been far more volatile in 2026, and the metal has fallen in value by more than 7% since the start of the year.
-Profit on the SNB's foreign currency positions, which include investments in international equities, reached 11.6 billion francs, marking a year-on-year decline of around 15%.
-Most of the SNB's foreign currency reserves are held in financial assets denominated in foreign currencies, as opposed to hard currency holdings. It also has a smaller Swiss franc bond portfolio.
-At the end of the third quarter, 61% of its foreign currency reserves were allocated to government bonds, including deposits with central banks and the Bank for International Settlements, while 28% were invested in equities and 11% in other bonds.
-In terms of currency exposure, 39% of the portfolio was denominated in euros and 37% in U.S. dollars. Japanese yen and British pound exposure accounted for 7% and 6%, respectively.
-The SNB's stocks portfolio
-The SNB's large equity portfolio makes it unusual compared to other major central banks like the U.S. Federal Reserve and the Bank of England, which do not typically invest directly in equity markets.
-However, the SNB is a passive investor, and therefore does not engage in equity selection. Its stock holdings are based on a benchmark index composed of international stock indexes, with its portfolio mostly made up of shares of mid- and large-cap companies in developed markets.
-Its profits are mostly distributed to Switzerland's federal and local governments, with shareholders receiving a dividend if its equity capital is large enough. If the investments generate a loss, the SNB may be unable to make payouts.
-Despite the country benefiting from a strong investment performance, however, the SNB's investments are not focused on achieving the highest possible return.
-"For a conventional company, profits are an important prerequisite for long-term success. The SNB's goal, by contrast, is not to generate profit," it says on its website. "It has another mandate: It must ensure price stability in Switzerland, while taking due account of economic developments."
-"The monetary policy mandate always has highest priority. The SNB can thus find itself having to take monetary policy decisions that may have a negative impact on its annual result."
-Unlike many other major central banks, the SNB's monetary policy mandate allows it to use interest rates and exchange rates to achieve price stability, and it will use measures to influence the exchange rate if deemed necessary.
-The SNB's inflation target also makes it an outlier among its international peers, with its target range for inflation being 0% to 2%.`,
-    bodyJa: `The Swiss National Bank said Friday that it made a profit of 19.1 billion Swiss francs ($23.3 billion) on its investments in the third quarter, driven by its gold and foreign currency holdings.
-It brought the central bank's year-to-date profit up to 44.2 billion francs, the equivalent of around $53.8 billion, raising the prospect of a payout to Swiss federal and local governments at the end of the year.
-But the overall profit in the third quarter of 2026 marked a year-on-year decline of almost 32%.
-Profit and loss recorded in the SNB's quarterly accounting updates consists of interest income, dividends, and valuation adjustments resulting from exchange rate movements and market price changes.
-The Swiss franc rose around 12% against the U.S. dollar in 2025, having been lifted by investors flocking to the safe-haven currency in the wake of U.S. President Donald Trump's tariff announcements.
-So far this year, it has lost around 3.6% versus the greenback.
-Profit drivers
-In the third quarter of 2025, the SNB saw a 14.3-billion-franc net gain on gold, compared to a net gain on gold of 7.6 billion francs in the three months to September.
-The yellow metal saw a record-smashing rally in 2025, with its value surging by around 66% over the course of 2025. But its trajectory has been far more volatile in 2026, and the metal has fallen in value by more than 7% since the start of the year.
-Profit on the SNB's foreign currency positions, which include investments in international equities, reached 11.6 billion francs, marking a year-on-year decline of around 15%.
-Most of the SNB's foreign currency reserves are held in financial assets denominated in foreign currencies, as opposed to hard currency holdings. It also has a smaller Swiss franc bond portfolio.
-At the end of the third quarter, 61% of its foreign currency reserves were allocated to government bonds, including deposits with central banks and the Bank for International Settlements, while 28% were invested in equities and 11% in other bonds.
-In terms of currency exposure, 39% of the portfolio was denominated in euros and 37% in U.S. dollars. Japanese yen and British pound exposure accounted for 7% and 6%, respectively.
-The SNB's stocks portfolio
-The SNB's large equity portfolio makes it unusual compared to other major central banks like the U.S. Federal Reserve and the Bank of England, which do not typically invest directly in equity markets.
-However, the SNB is a passive investor, and therefore does not engage in equity selection. Its stock holdings are based on a benchmark index composed of international stock indexes, with its portfolio mostly made up of shares of mid- and large-cap companies in developed markets.
-Its profits are mostly distributed to Switzerland's federal and local governments, with shareholders receiving a dividend if its equity capital is large enough. If the investments generate a loss, the SNB may be unable to make payouts.
-Despite the country benefiting from a strong investment performance, however, the SNB's investments are not focused on achieving the highest possible return.
-"For a conventional company, profits are an important prerequisite for long-term success. The SNB's goal, by contrast, is not to generate profit," it says on its website. "It has another mandate: It must ensure price stability in Switzerland, while taking due account of economic developments."
-"The monetary policy mandate always has highest priority. The SNB can thus find itself having to take monetary policy decisions that may have a negative impact on its annual result."
-Unlike many other major central banks, the SNB's monetary policy mandate allows it to use interest rates and exchange rates to achieve price stability, and it will use measures to influence the exchange rate if deemed necessary.
-The SNB's inflation target also makes it an outlier among its international peers, with its target range for inflation being 0% to 2%.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/30/swiss-national-bank-q3-profit-gold-foreign-asset.html",
-    publishedAt: "2026-10-30T12:31:40+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "the-big-questions-remaining-after-anthro-25e33201",
-    title: "The big questions remaining after Anthropic’s blockbuster IPO prospectus",
-    titleJa: "The big questions remaining after Anthropic’s blockbuster IPO prospectus",
-    summaryJa: "Uncertainties remain ahead of one of the most hotly anticipated IPOs in history.",
-    bodyOriginal: `This report is from this week's The Tech Download newsletter. Like what you see? You can subscribe here.
-Anthropic's over 300 page S-1 filing earlier this week contained a lot of information. It was the most comprehensive public statement to date about how a pure-play AI lab makes its money.
-After the prospectus went live on Monday, my U.S.-based colleagues and I went through it with a fine-tooth comb, detailing everything from revenue and risks to competitors and computing costs.
-The filing also revealed that CEO Dario Amodei and his six co-founders each own over 200 million shares, which could be worth billions if Anthropic hits the over $1 trillion valuation it's expected to.
-But despite all the nuggets, a few big questions remain.
-Revenue
-Anthropic reported its cost of revenue as $2.38 billion in the first half of 2026, booking $16.29 billion in revenue during the same period and implying a gross margin of 85%.
-Violeta Todorova, senior research analyst at Leverage Shares, told CNBC that the first-half revenue compared with just $1.16 billion in the first half of 2025, and asked whether it could grow to "keep pace with expectations."
-"It is unclear how much it costs to generate each additional dollar of revenue as computing demand increases," she said.
-But Anthropic's meteoric revenue growth slowed in the third quarter. It grew approximately 144% in the second quarter compared to the first quarter, followed by roughly 47% in the third quarter.
-"What the prospectus didn't tell us is management's expectations around the sequential slowdown in the growth rate," said Michael Field, chief equity strategist at Morningstar.
-Compute
-"Substantially all of cost of revenue" is associated with compute and infrastructure costs, the filing states. It also says that operating margin and adjusted operating margin are expected to "fluctuate over time, particularly in periods when substantial incremental compute is delivered to us and we incur the associated expenses."
-"Investors can see compute falling as a share of revenue, but not how much of the forward commitment is earmarked for training the next generation of models versus serving customers," Nick Patience, AI lead at the Futurum Group, told CNBC. "That split dictates future margins."
-Questions also remain around whether compute costs can keep falling faster than commitments grow and if Anthropic can secure enough capacity to serve customers, he added.
-Regarding demand across the AI and hyperscaler sector outstripping supply, the prospectus says that it had previously sought "quantities of compute from [cloud service providers] in excess of what those partners were willing to provide."
-Later it says: "We have historically operated in a compute-constrained environment in which demand for compute has exceeded the supply available to us."
-Pricing and control
-Anthropic's structure as a public benefit corporation raises questions, too. Seven co-founders, including CEO Dario Amodei, have special voting power through a single Class F share equal to 50.1% of total voting power over matters brought to a shareholder vote.
-Anthropic describes its capital and corporate governance structure as having "no direct public company precedent," in the filing.
-"We also know now that management plans a series of different class share issues," said Morningstar's Field. "But what we don't know is whether investors will be fine with the lack of control implied, or will this impact the share price. Something we won't know until the shares start trading."
-And finally the trillion-dollar question: the IPO valuation that Anthropic targets. The AI lab is keeping schtum about that, for now. It says simply it will be "determined by negotiations among us, the selling stockholders, and the representatives."
-Given analyst estimates range between $1 trillion and $2 trillion, it will be a huge market event. If it's at the higher end of the range, it could bring back some of the swagger the AI sector has lost in recent weeks. If on the lower end, things could get ugly.
-News edit
-Apple on Wednesday announced its first laptop with a touchscreen, which it's calling MacBook Pro with ProLED XDR Display.
-SK Hynix's shares rose after the company reported record quarterly profit that sharply beat estimates, and announced over $25 billion in dividends and buybacks.
-Nvidia and Advanced Micro Devices said they will invest a total of $4 billion in Meta after the social media giant announced plans to raise $95 billion to support its investments in AI infrastructure.
-Microsoft said Monday that it's offering buyouts to a wide swath of employees as it strives to balance a costly AI infrastructure build-out with capital efficiency.
-SpaceX has closed $40 billion in debt financing to buy graphics processing units, or GPUs, used to power AI systems, Elon Musk said on Sunday.
-One more thing
-Anthropic's S-1 was a trove of company intel, but one figure really caught my eye. The AI lab has more cash than almost every company in the U.S. And, as my colleague Leslie Picker writes, never before has a company gone public with anywhere near that much.`,
-    bodyJa: `This report is from this week's The Tech Download newsletter. Like what you see? You can subscribe here.
-Anthropic's over 300 page S-1 filing earlier this week contained a lot of information. It was the most comprehensive public statement to date about how a pure-play AI lab makes its money.
-After the prospectus went live on Monday, my U.S.-based colleagues and I went through it with a fine-tooth comb, detailing everything from revenue and risks to competitors and computing costs.
-The filing also revealed that CEO Dario Amodei and his six co-founders each own over 200 million shares, which could be worth billions if Anthropic hits the over $1 trillion valuation it's expected to.
-But despite all the nuggets, a few big questions remain.
-Revenue
-Anthropic reported its cost of revenue as $2.38 billion in the first half of 2026, booking $16.29 billion in revenue during the same period and implying a gross margin of 85%.
-Violeta Todorova, senior research analyst at Leverage Shares, told CNBC that the first-half revenue compared with just $1.16 billion in the first half of 2025, and asked whether it could grow to "keep pace with expectations."
-"It is unclear how much it costs to generate each additional dollar of revenue as computing demand increases," she said.
-But Anthropic's meteoric revenue growth slowed in the third quarter. It grew approximately 144% in the second quarter compared to the first quarter, followed by roughly 47% in the third quarter.
-"What the prospectus didn't tell us is management's expectations around the sequential slowdown in the growth rate," said Michael Field, chief equity strategist at Morningstar.
-Compute
-"Substantially all of cost of revenue" is associated with compute and infrastructure costs, the filing states. It also says that operating margin and adjusted operating margin are expected to "fluctuate over time, particularly in periods when substantial incremental compute is delivered to us and we incur the associated expenses."
-"Investors can see compute falling as a share of revenue, but not how much of the forward commitment is earmarked for training the next generation of models versus serving customers," Nick Patience, AI lead at the Futurum Group, told CNBC. "That split dictates future margins."
-Questions also remain around whether compute costs can keep falling faster than commitments grow and if Anthropic can secure enough capacity to serve customers, he added.
-Regarding demand across the AI and hyperscaler sector outstripping supply, the prospectus says that it had previously sought "quantities of compute from [cloud service providers] in excess of what those partners were willing to provide."
-Later it says: "We have historically operated in a compute-constrained environment in which demand for compute has exceeded the supply available to us."
-Pricing and control
-Anthropic's structure as a public benefit corporation raises questions, too. Seven co-founders, including CEO Dario Amodei, have special voting power through a single Class F share equal to 50.1% of total voting power over matters brought to a shareholder vote.
-Anthropic describes its capital and corporate governance structure as having "no direct public company precedent," in the filing.
-"We also know now that management plans a series of different class share issues," said Morningstar's Field. "But what we don't know is whether investors will be fine with the lack of control implied, or will this impact the share price. Something we won't know until the shares start trading."
-And finally the trillion-dollar question: the IPO valuation that Anthropic targets. The AI lab is keeping schtum about that, for now. It says simply it will be "determined by negotiations among us, the selling stockholders, and the representatives."
-Given analyst estimates range between $1 trillion and $2 trillion, it will be a huge market event. If it's at the higher end of the range, it could bring back some of the swagger the AI sector has lost in recent weeks. If on the lower end, things could get ugly.
-News edit
-Apple on Wednesday announced its first laptop with a touchscreen, which it's calling MacBook Pro with ProLED XDR Display.
-SK Hynix's shares rose after the company reported record quarterly profit that sharply beat estimates, and announced over $25 billion in dividends and buybacks.
-Nvidia and Advanced Micro Devices said they will invest a total of $4 billion in Meta after the social media giant announced plans to raise $95 billion to support its investments in AI infrastructure.
-Microsoft said Monday that it's offering buyouts to a wide swath of employees as it strives to balance a costly AI infrastructure build-out with capital efficiency.
-SpaceX has closed $40 billion in debt financing to buy graphics processing units, or GPUs, used to power AI systems, Elon Musk said on Sunday.
-One more thing
-Anthropic's S-1 was a trove of company intel, but one figure really caught my eye. The AI lab has more cash than almost every company in the U.S. And, as my colleague Leslie Picker writes, never before has a company gone public with anywhere near that much.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html",
-    publishedAt: "2026-10-30T12:27:36+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 10,
   },
 ];
