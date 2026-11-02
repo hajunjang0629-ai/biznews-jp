@@ -15,6 +15,472 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "wall-street-s-fear-index-is-doing-someth-27a9fc84",
+    title: "Wall Street's Fear Index is doing something strange. Here's what it means for stocks",
+    titleJa: "Wall Street's Fear Index is doing something strange. Here's what it means for stocks",
+    summaryJa: "Stocks wrapped their worst week since June on Friday, but a group of the most sophisticated options analysts agree the reaction in the options market was oddly calm.While the Cboe Volatility Index (VIX), often referred to as a so-called fear index, did touch its highest intraday level since April on Friday, it quickly retreated and closed at 19.4. Its rollover came even as the S&P 500 finished the day down nearly 2%. For that size of a decline in stocks, the 2.2-point move in VIX was \"relatively",
+    bodyOriginal: `Stocks wrapped their worst week since June on Friday, but a group of the most sophisticated options analysts agree the reaction in the options market was oddly calm.
+While the Cboe Volatility Index (VIX), often referred to as a so-called fear index, did touch its highest intraday level since April on Friday, it quickly retreated and closed at 19.4. Its rollover came even as the S&P 500 finished the day down nearly 2%. For that size of a decline in stocks, the 2.2-point move in VIX was "relatively muted," according to SpotGamma's Brent Kochuba, whose analysis suggests VIX should have jumped closer to 2.6 points, based on a study of 126 selloffs since 2018.
+Even in the Nasdaq 100 Index, where implied volatility increased for most options contracts, there were key exceptions. Prices on put contracts that are between 20% and 50% out-of-the-money were higher on a volatility basis after the sell-off on Oct. 16, according to data shared by Nasdaq's Kevin Davitt.
+So not only did traders not pile into S&P 500 Index options on Friday, they were also especially choosy with which Nasdaq hedges they bought. For example, in the Nasdaq, puts were more expensive two weeks ago, according to Nations Indexes data. And out-of-the-money S&P 500 Index puts "just aren't being chased-into at this moment," writes Nomura managing director Charlie McElligott, indicating investor calm in the face of falling stocks.
+"Index options skew hasn't been particularly reactive to the few days of spot equities selloff this week, and even where it has, it's partially a function of call vol getting mushed," McElligot said in a note to clients on Friday.
+One explanation for the lack of hedging could be that asset managers are quickly selling stocks instead of using options to protect those stocks from further decline.
+One popular chart making the rounds over the weekend came from Morgan Stanley's prime brokerage. According to the firm's data on long-short active managers, total global gross equity exposure is down 8% from its most recent peak, the biggest drawdown in at least ten years.
+"Long/short has experienced a massive de-levering event," said Zed Francis, CIO of Chicago-based Convexitas. "Buy the shorts, sell the longs. If you were closer to cash than you were before, no need to hedge. I believe this is the main reason implied volatility has remained quiet during an increased-stress month."`,
+    bodyJa: `Stocks wrapped their worst week since June on Friday, but a group of the most sophisticated options analysts agree the reaction in the options market was oddly calm.
+While the Cboe Volatility Index (VIX), often referred to as a so-called fear index, did touch its highest intraday level since April on Friday, it quickly retreated and closed at 19.4. Its rollover came even as the S&P 500 finished the day down nearly 2%. For that size of a decline in stocks, the 2.2-point move in VIX was "relatively muted," according to SpotGamma's Brent Kochuba, whose analysis suggests VIX should have jumped closer to 2.6 points, based on a study of 126 selloffs since 2018.
+Even in the Nasdaq 100 Index, where implied volatility increased for most options contracts, there were key exceptions. Prices on put contracts that are between 20% and 50% out-of-the-money were higher on a volatility basis after the sell-off on Oct. 16, according to data shared by Nasdaq's Kevin Davitt.
+So not only did traders not pile into S&P 500 Index options on Friday, they were also especially choosy with which Nasdaq hedges they bought. For example, in the Nasdaq, puts were more expensive two weeks ago, according to Nations Indexes data. And out-of-the-money S&P 500 Index puts "just aren't being chased-into at this moment," writes Nomura managing director Charlie McElligott, indicating investor calm in the face of falling stocks.
+"Index options skew hasn't been particularly reactive to the few days of spot equities selloff this week, and even where it has, it's partially a function of call vol getting mushed," McElligot said in a note to clients on Friday.
+One explanation for the lack of hedging could be that asset managers are quickly selling stocks instead of using options to protect those stocks from further decline.
+One popular chart making the rounds over the weekend came from Morgan Stanley's prime brokerage. According to the firm's data on long-short active managers, total global gross equity exposure is down 8% from its most recent peak, the biggest drawdown in at least ten years.
+"Long/short has experienced a massive de-levering event," said Zed Francis, CIO of Chicago-based Convexitas. "Buy the shorts, sell the longs. If you were closer to cash than you were before, no need to hedge. I believe this is the main reason implied volatility has remained quiet during an increased-stress month."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/02/wall-streets-fear-index-is-doing-something-strange-heres-what-it-means-for-stocks.html",
+    publishedAt: "2026-11-02T15:30:41+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "crude-oil-dives-to-session-low-on-iran-p-1866e0e5",
+    title: "Crude oil dives to session low on Iran peace talk hopes ahead of midterms",
+    titleJa: "Crude oil dives to session low on Iran peace talk hopes ahead of midterms",
+    summaryJa: "Oil fell Monday, amid news that both the U.S. and Iran are pursuing diplomacy amid ongoing Mideast tensions",
+    bodyOriginal: `Crude oil prices fell sharply Monday as senior U.S. and Iranian officials signal they are open to a diplomatic solution to the conflict that has disrupted energy markets for eight months.
+Brent crude futures, the international benchmark, fell 6.4% to $106.20 a barrel as of 9:50 a.m. ET. U.S. West Texas Intermediate declined 6.5% to $97.35 per barrel.
+U.S. Secretary of State Marco Rubio said President Donald Trump prefers not to use military force against Iran and would like to resolve the conflict diplomatically.
+Trump has previously said that he will not attack Iran before the U.S. midterms. But the oil market had priced in the risk of a major military escalation after the elections.
+The president "hasn't made a decision," Rubio told reporters over the weekend.
+"What the president expresses to you is incredible confidence that if we needed to do something militarily, we would have the ability to do it," the secretary of state said. "But we would prefer to do it peacefully."
+Meanwhile, Iran's Foreign Minister Abbas Araghchi said an agreement with the U.S. is possible if Washington "demonstrates goodwill" and is "truly seeking a peaceful solution," according to the state-owned Islamic Republic News Agency.
+Araghchi said mediators are discussing the proposal Iran made during the United Nations General Assembly in September. Tehran expects the U.S. to lift sanctions, reduce its military presence in the region to previous levels and lift the blockade, the foreign minister said.
+But Iranian Supreme Leader Mojtaba Khamenei on Saturday called for Tehran's armed forces to meet "any level or type of threat" with "an immediate, impactful, and geographically unrestricted response."
+Concerns over the Middle East and Ukraine conflicts will likely linger in the near term.
+"Attacks on ships and refineries in the Middle East and on civilians in Ukraine continue, doing little to inspire confidence in the prospects for lasting ceasefires in the foreseeable future," said Tamas Varga, analyst at PVM Oil Associates.
+"Nonetheless, hope springs eternal," Varga added.
+—CNBC's Lim Hui Jie contributed to this report.`,
+    bodyJa: `Crude oil prices fell sharply Monday as senior U.S. and Iranian officials signal they are open to a diplomatic solution to the conflict that has disrupted energy markets for eight months.
+Brent crude futures, the international benchmark, fell 6.4% to $106.20 a barrel as of 9:50 a.m. ET. U.S. West Texas Intermediate declined 6.5% to $97.35 per barrel.
+U.S. Secretary of State Marco Rubio said President Donald Trump prefers not to use military force against Iran and would like to resolve the conflict diplomatically.
+Trump has previously said that he will not attack Iran before the U.S. midterms. But the oil market had priced in the risk of a major military escalation after the elections.
+The president "hasn't made a decision," Rubio told reporters over the weekend.
+"What the president expresses to you is incredible confidence that if we needed to do something militarily, we would have the ability to do it," the secretary of state said. "But we would prefer to do it peacefully."
+Meanwhile, Iran's Foreign Minister Abbas Araghchi said an agreement with the U.S. is possible if Washington "demonstrates goodwill" and is "truly seeking a peaceful solution," according to the state-owned Islamic Republic News Agency.
+Araghchi said mediators are discussing the proposal Iran made during the United Nations General Assembly in September. Tehran expects the U.S. to lift sanctions, reduce its military presence in the region to previous levels and lift the blockade, the foreign minister said.
+But Iranian Supreme Leader Mojtaba Khamenei on Saturday called for Tehran's armed forces to meet "any level or type of threat" with "an immediate, impactful, and geographically unrestricted response."
+Concerns over the Middle East and Ukraine conflicts will likely linger in the near term.
+"Attacks on ships and refineries in the Middle East and on civilians in Ukraine continue, doing little to inspire confidence in the prospects for lasting ceasefires in the foreseeable future," said Tamas Varga, analyst at PVM Oil Associates.
+"Nonetheless, hope springs eternal," Varga added.
+—CNBC's Lim Hui Jie contributed to this report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+    publishedAt: "2026-11-02T15:29:50+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "anthropic-reports-17-billion-in-q3-reven-ef14e7af",
+    title: "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
+    titleJa: "Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1",
+    summaryJa: "Anthropic unveiled its S-1 prospectus last week, but the initial filing only included the company's financials through the first half of the year.",
+    bodyOriginal: `Anthropic reported updated financials as part of an amended Form S-1 filing with the Securities and Exchange Commission on Monday, giving investors a more comprehensive look into the state of its business.
+The artificial intelligence company said it generated $33.24 billion in revenue for the nine months ended Sept. 30, up roughly 1,200% from the same period last year. It reported a $104 billion net loss during the period, though most of that was due to the change in fair value of convertible notes and derivative liabilities. Anthropic lost $25.1 billion over the same stretch in 2025.
+Anthropic unveiled its highly anticipated prospectus last week, bringing the company one step closer to a potentially historic IPO. The initial filing only included the company's financials through the first half of the year.
+During its third quarter, Anthropic generated roughly $17 billion in revenue. The company reported a net loss of $23.29 billion for the period.
+As the five-year-old company prepares to kick off its road show, it will have to reckon with growing market jitters around the AI buildout. Wall Street has been worried that rising interest rates will make debt unaffordable for many data center developers and neoclouds, and quarterly reports from Microsoft, Google and Amazon last week added fuel to those concerns.
+The hyperscalers' aggressive AI spending is eating into their cash flows, causing some investors to worry that compute capacity may not come online quickly enough to meet Anthropic's demands. Anthropic gets much of its capacity from Amazon, Google and SpaceX, but it also relies on neoclouds for some compute as it races to expand as quickly as possible.
+In the amended S-1, Anthropic said it has entered into purchase commitments and lease agreements with an aggregate committed spend of about $895.4 billion, "substantially all of which is related to compute and infrastructure."
+Anthropic said its compute and infrastructure expenses increased by $14.4 billion for the nine months ended Sept. 30, up 329% compared to the same period last year.
+"As our compute and infrastructure capacity grows, the associated compute and infrastructure expenses have increased," Anthropic said in the filing.
+The company's CEO Dario Amodei co-founded Anthropic alongside a handful of other researchers who defected from OpenAI, now its chief rival. OpenAI confidentially filed its prospectus with the SEC in June, but its executives have signaled that it's aiming for a 2027 debut.
+Anthropic has worked to position itself as more safety-conscious than its competitors, and its S-1 includes more than 90 pages of risk factors. The company highlights risks including potential political headwinds, its complex infrastructure needs as well as the difficulties that can come from balancing safety and commercial objectives.
+This is breaking news. Please refresh for updates.`,
+    bodyJa: `Anthropic reported updated financials as part of an amended Form S-1 filing with the Securities and Exchange Commission on Monday, giving investors a more comprehensive look into the state of its business.
+The artificial intelligence company said it generated $33.24 billion in revenue for the nine months ended Sept. 30, up roughly 1,200% from the same period last year. It reported a $104 billion net loss during the period, though most of that was due to the change in fair value of convertible notes and derivative liabilities. Anthropic lost $25.1 billion over the same stretch in 2025.
+Anthropic unveiled its highly anticipated prospectus last week, bringing the company one step closer to a potentially historic IPO. The initial filing only included the company's financials through the first half of the year.
+During its third quarter, Anthropic generated roughly $17 billion in revenue. The company reported a net loss of $23.29 billion for the period.
+As the five-year-old company prepares to kick off its road show, it will have to reckon with growing market jitters around the AI buildout. Wall Street has been worried that rising interest rates will make debt unaffordable for many data center developers and neoclouds, and quarterly reports from Microsoft, Google and Amazon last week added fuel to those concerns.
+The hyperscalers' aggressive AI spending is eating into their cash flows, causing some investors to worry that compute capacity may not come online quickly enough to meet Anthropic's demands. Anthropic gets much of its capacity from Amazon, Google and SpaceX, but it also relies on neoclouds for some compute as it races to expand as quickly as possible.
+In the amended S-1, Anthropic said it has entered into purchase commitments and lease agreements with an aggregate committed spend of about $895.4 billion, "substantially all of which is related to compute and infrastructure."
+Anthropic said its compute and infrastructure expenses increased by $14.4 billion for the nine months ended Sept. 30, up 329% compared to the same period last year.
+"As our compute and infrastructure capacity grows, the associated compute and infrastructure expenses have increased," Anthropic said in the filing.
+The company's CEO Dario Amodei co-founded Anthropic alongside a handful of other researchers who defected from OpenAI, now its chief rival. OpenAI confidentially filed its prospectus with the SEC in June, but its executives have signaled that it's aiming for a 2027 debut.
+Anthropic has worked to position itself as more safety-conscious than its competitors, and its S-1 includes more than 90 pages of risk factors. The company highlights risks including potential political headwinds, its complex infrastructure needs as well as the difficulties that can come from balancing safety and commercial objectives.
+This is breaking news. Please refresh for updates.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+    publishedAt: "2026-11-02T15:23:34+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "shop-freezers-in-seven-european-countrie-ab6109d9",
+    title: "Shop freezers in seven European countries hit by cyber-attack",
+    titleJa: "Shop freezers in seven European countries hit by cyber-attack",
+    summaryJa: "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+    bodyOriginal: `Shop freezers in seven European countries hit by cyber-attack
+- Published
+Dozens of supermarkets across seven European countries have been hit by a cyber-attack affecting their refrigerators and freezers.
+Around 40 Delhaize supermarkets in Belgium and Luxembourg were affected, while a smaller number of shops were hit in Sweden, Ireland, the Netherlands, Estonia and Finland.
+Sabcobel, a Belgian company that manufactures some of the affected refrigerators, said the units' evaporators were switched to defrost mode, causing them to warm up, in what is believed to be the same method used in last month's incident that hit hundreds of French supermarkets.
+Millions of euros worth of food had to be thrown away in October, local media reported at the time.
+Stephan Moelans, the CEO of Sabcobel, which operates Delhaize's systems, on Monday told the Belga news agency that the incident was a cyber-attack and that the company had been "working all night and morning to disconnect the affected units from the network".
+He said since the French attack in early October, the company had been working to "protect our customers fridges against this vulnerability" but that the units needed physical modifications, not just software updates.
+Most supermarkets across Europe are linked to the internet, and maintenance and troubleshooting can be done remotely.
+"The simplest solution is to manage the fridges over a secure internet connection. Most of our customers switched to that after the attack in France," Moelans added.
+The temperature of freezers in several shops across Europe reportedly rose to as high as 50C (122F).
+It is unclear who is behind the latest apparent attack.
+In the US, authorities are investigating what caused refrigeration malfunctions at a number of American military bases in August and working together with French officials to examine whether the incidents could be linked.
+Both Belgium and Sweden's national cyber-security agencies said they were monitoring the incident.
+The UK's National Cyber Security Centre said it was working with international partners and industry to "fully understand details of an incident". No incidents have been reported in the UK.
+In Flanders, northern Belgium, a Delhaize branch in Hoeilaart told news website Het Laatste Nieuws it had lost €100,000 (£83,500) worth of produce.
+The manager said that estimate did not even take into account further losses that would result from closing the shop.
+Carrefour, a French-owned supermarket, said the incident had only affected 15 of its Belgian stores, adding that measures had been taken immediately to ensure all shops remained open.
+A spokesperson for Colruyt Group, which operates Spar stores in Belgium under a franchise system, told Reuters news agency five shops had their fridge systems attacked.
+Sweden's budget furniture retailer Ikea said refrigeration systems of its store in the western Belgian city of Mons were affected, with a spokesman quoted by Reuters as saying "we cannot rule out that additional locations may be affected".
+In Sweden, several ICA and Coop shops were hit.
+A spokesperson for ICA confirmed the incident had affected a "small number of ICA stores operating outside ICA's central network".
+"ICA is currently supporting the affected stores in managing the situation," they said.
+One of the ICA branches located in Sjöbo, southern Sweden, wrote on social media: "Our refrigerators and freezers have been hacked overnight and they have set the temperature to 50 degrees."
+The store was closed earlier but has now reopened to customers.
+Seven out of the 800 Coop stores in Sweden were also affected but the "situation is currently contained and under control", the company told the BBC.
+In neighbouring Finland, refrigerator malfunctions were detected in some K-stores.
+The owner of the supermarket chain Kesko was quoted by Finland's Helsingin Sanomat newspaper as saying its security experts were investigating what caused the problem.
+The attack is also affecting shops in Ireland, the Netherlands and Estonia.
+In Ireland, it impacted 13 SuperValu supermarkets. A spokesman for the owner of the chain, Musgrave Group, confirmed to The Irish Times that a "cyber incident" affected its refrigeration systems, but added that the impact was limited to a "specific model" of refrigerator.
+A spokesperson for Danish manufacturer Danfoss told Dutch public radio channel NOS that the freezing and cooling systems of at least 17 companies in the Netherlands were attacked overnight, affecting butcher shops and small neighbourhood stores.
+A Selver supermarket in Estonia was also affected and there are reports of other affected companies in the country, according to ERR.
+Additional reporting by Shiona McCallum
+Have you been affected by the issues raised in this story? Click here or use the form below.
+Get in touch
+Are you affected by the issues raised in this story?`,
+    bodyJa: `Shop freezers in seven European countries hit by cyber-attack
+- Published
+Dozens of supermarkets across seven European countries have been hit by a cyber-attack affecting their refrigerators and freezers.
+Around 40 Delhaize supermarkets in Belgium and Luxembourg were affected, while a smaller number of shops were hit in Sweden, Ireland, the Netherlands, Estonia and Finland.
+Sabcobel, a Belgian company that manufactures some of the affected refrigerators, said the units' evaporators were switched to defrost mode, causing them to warm up, in what is believed to be the same method used in last month's incident that hit hundreds of French supermarkets.
+Millions of euros worth of food had to be thrown away in October, local media reported at the time.
+Stephan Moelans, the CEO of Sabcobel, which operates Delhaize's systems, on Monday told the Belga news agency that the incident was a cyber-attack and that the company had been "working all night and morning to disconnect the affected units from the network".
+He said since the French attack in early October, the company had been working to "protect our customers fridges against this vulnerability" but that the units needed physical modifications, not just software updates.
+Most supermarkets across Europe are linked to the internet, and maintenance and troubleshooting can be done remotely.
+"The simplest solution is to manage the fridges over a secure internet connection. Most of our customers switched to that after the attack in France," Moelans added.
+The temperature of freezers in several shops across Europe reportedly rose to as high as 50C (122F).
+It is unclear who is behind the latest apparent attack.
+In the US, authorities are investigating what caused refrigeration malfunctions at a number of American military bases in August and working together with French officials to examine whether the incidents could be linked.
+Both Belgium and Sweden's national cyber-security agencies said they were monitoring the incident.
+The UK's National Cyber Security Centre said it was working with international partners and industry to "fully understand details of an incident". No incidents have been reported in the UK.
+In Flanders, northern Belgium, a Delhaize branch in Hoeilaart told news website Het Laatste Nieuws it had lost €100,000 (£83,500) worth of produce.
+The manager said that estimate did not even take into account further losses that would result from closing the shop.
+Carrefour, a French-owned supermarket, said the incident had only affected 15 of its Belgian stores, adding that measures had been taken immediately to ensure all shops remained open.
+A spokesperson for Colruyt Group, which operates Spar stores in Belgium under a franchise system, told Reuters news agency five shops had their fridge systems attacked.
+Sweden's budget furniture retailer Ikea said refrigeration systems of its store in the western Belgian city of Mons were affected, with a spokesman quoted by Reuters as saying "we cannot rule out that additional locations may be affected".
+In Sweden, several ICA and Coop shops were hit.
+A spokesperson for ICA confirmed the incident had affected a "small number of ICA stores operating outside ICA's central network".
+"ICA is currently supporting the affected stores in managing the situation," they said.
+One of the ICA branches located in Sjöbo, southern Sweden, wrote on social media: "Our refrigerators and freezers have been hacked overnight and they have set the temperature to 50 degrees."
+The store was closed earlier but has now reopened to customers.
+Seven out of the 800 Coop stores in Sweden were also affected but the "situation is currently contained and under control", the company told the BBC.
+In neighbouring Finland, refrigerator malfunctions were detected in some K-stores.
+The owner of the supermarket chain Kesko was quoted by Finland's Helsingin Sanomat newspaper as saying its security experts were investigating what caused the problem.
+The attack is also affecting shops in Ireland, the Netherlands and Estonia.
+In Ireland, it impacted 13 SuperValu supermarkets. A spokesman for the owner of the chain, Musgrave Group, confirmed to The Irish Times that a "cyber incident" affected its refrigeration systems, but added that the impact was limited to a "specific model" of refrigerator.
+A spokesperson for Danish manufacturer Danfoss told Dutch public radio channel NOS that the freezing and cooling systems of at least 17 companies in the Netherlands were attacked overnight, affecting butcher shops and small neighbourhood stores.
+A Selver supermarket in Estonia was also affected and there are reports of other affected companies in the country, according to ERR.
+Additional reporting by Shiona McCallum
+Have you been affected by the issues raised in this story? Click here or use the form below.
+Get in touch
+Are you affected by the issues raised in this story?`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-02T15:12:22+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg",
+    readTime: 10,
+  },
+  {
+    id: "marvell-to-buy-lumentum-in-all-stock-dea-67db38a1",
+    title: "Marvell to buy Lumentum in all-stock deal, a massive bet on AI connectivity",
+    titleJa: "Marvell to buy Lumentum in all-stock deal, a massive bet on AI connectivity",
+    summaryJa: "Marvell Technology on Monday said it will buy optical components maker Lumentum to address growing connectivity demands from the artificial intelligence infrastructure buildout.\"AI infrastructure is undergoing a fundamental architectural shift toward optical connectivity, creating an opportunity that comes along once in a generation,\" said Marvell Chairman and CEO Matt Murphy in a release. \"The companies that move first and help define this transition will set the standard for decades to come.\"",
+    bodyOriginal: `Marvell Technology on Monday said it will buy optical components maker Lumentum to address growing connectivity demands from the artificial intelligence infrastructure buildout.
+"AI infrastructure is undergoing a fundamental architectural shift toward optical connectivity, creating an opportunity that comes along once in a generation," said Marvell Chairman and CEO Matt Murphy in a release. "The companies that move first and help define this transition will set the standard for decades to come."
+Since the tie-up is a fixed ratio deal with no cash, the value will depend on the price of Marvell shares. The company said the transaction has an implied enterprise value of $115 billion for Lumentum, in a release.
+Through the acquisition, Marvell said it can combine electrical and optical technologies to meet accelerating and shifting AI connectivity demands across regions and systems. Companies are increasingly relying on optical connections to piece together chips used to run and train large language models.
+Lumentum shareholders will receive 4.5 Marvell shares for each Lumentum share under the agreement. The deal is expected to close during the first half of 2028.
+Marvell's takeover marks one of the most significant bets on AI in 2026 and comes despite recent concerns over the long-term sustainability of infrastructure spending.
+This isn't the company's first bet on AI growth. This year, the company closed a multibillion-dollar deal for Celestial AI, a startup focused on optical interconnectivity technology.
+Marvell has seen its market value more than triple over the last three years, buoyed by unrelenting AI enthusiasm. Lumentum's stock has more than doubled in 2026 alone.
+Marvell shares slumped 3%, while Lumentum's stock declined about 4% before the bell.`,
+    bodyJa: `Marvell Technology on Monday said it will buy optical components maker Lumentum to address growing connectivity demands from the artificial intelligence infrastructure buildout.
+"AI infrastructure is undergoing a fundamental architectural shift toward optical connectivity, creating an opportunity that comes along once in a generation," said Marvell Chairman and CEO Matt Murphy in a release. "The companies that move first and help define this transition will set the standard for decades to come."
+Since the tie-up is a fixed ratio deal with no cash, the value will depend on the price of Marvell shares. The company said the transaction has an implied enterprise value of $115 billion for Lumentum, in a release.
+Through the acquisition, Marvell said it can combine electrical and optical technologies to meet accelerating and shifting AI connectivity demands across regions and systems. Companies are increasingly relying on optical connections to piece together chips used to run and train large language models.
+Lumentum shareholders will receive 4.5 Marvell shares for each Lumentum share under the agreement. The deal is expected to close during the first half of 2028.
+Marvell's takeover marks one of the most significant bets on AI in 2026 and comes despite recent concerns over the long-term sustainability of infrastructure spending.
+This isn't the company's first bet on AI growth. This year, the company closed a multibillion-dollar deal for Celestial AI, a startup focused on optical interconnectivity technology.
+Marvell has seen its market value more than triple over the last three years, buoyed by unrelenting AI enthusiasm. Lumentum's stock has more than doubled in 2026 alone.
+Marvell shares slumped 3%, while Lumentum's stock declined about 4% before the bell.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
+    publishedAt: "2026-11-02T14:23:40+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "poundland-s-former-owner-offers-to-inves-9a8820b6",
+    title: "Poundland's former owner offers to invest as minister prepares to meet board",
+    titleJa: "Poundland's former owner offers to invest as minister prepares to meet board",
+    summaryJa: "Wolverhampton's Steve Smith says he attempted to contact Gordon Brothers but did not get a reply.",
+    bodyOriginal: `Poundland's former owner offers to invest in firm
+- Published
+Poundland's former owner has said he would invest in the firm as a government minister said she would meet the firm's board.
+Steve Smith, who left the Walsall-based business in 2006, said he had attempted to contact owners Gordon Brothers having been "really surprised" to learn about them filing for administration when sales were up 11% on last year.
+The BBC understands that Business Minister Kate Dearden will meet with senior Poundland executives later this week to discuss the company's threatened insolvency.
+US-based Gordon Brothers said it was evaluating interest for the whole business and formal and indicative offers for significant viable parts of it.
+Gordon Brothers, who bought the firm from Polish retail group Pepco last year for £1, has stopped funding the business and rejected a takeover offer from Irish firm Martin Property Group (MPG).
+The retailer has given the business until Thursday to find a rescue deal, putting up to 12,000 staff at risk.
+It's understood the meeting with Deardon will be predominantly a "fact finding" meeting with government sources conceding there is limited scope for the government to intervene in a commercial transaction albeit one that puts over 10,000 jobs and hundreds of stores at risk.
+The meeting was first reported by Sky News.
+There is no current meeting planned between the government and executives from current owners, US private equity group Gordon Brothers.
+Concerns have been raised that Gordon Brothers have declined an offer from another buyer to keep Poundland afloat in order to ensure repayment of £30 million loan it inherited after buying the company for £1.
+More on Poundland
+'Poundland closure would leave a void in our town'
+- Published2 days ago
+How Poundland grew from a market stall to a high street giant
+- Published3 days ago
+Poundland staff protest after chain approach administrators
+- Published3 days ago
+Prime Minister Andy Burnham has said the government was "ready to support" staff as he also called for answers over why an offer to buy the business had been rejected.
+Smith, from Wolverhampton and who set up the firm in 1990 with a store in Burton-upon-Trent, Staffordshire, said he contacted the owners over the last three months but had no reply. He had thought that was good news as he assumed the firm must have had offers on the table.
+"And maybe I was a bit too late, but I'd certainly... with talking to the staff and how Poundland's performing at the moment, I'd certainly, if there's an opportunity, I definitely want to put some money back in there."
+He said he was still in touch with staff there at levels within the business and "even last week" sales were 11.2 % upon last year.
+"Although Poundland made a loss last year, they're going to make a good profit this year, so it's just crazy."
+He warned that the two or three thousand suppliers to the firm only worked for Poundland so they would be directly affected by its collapse.
+"This is not just about 12, 000 jobs. I'm estimating more like 20 or 30,000 jobs," he added.
+The company has 600 stores in the UK and Ireland, and Smith said it had between four and five million customers a week, so with Poundland not being present on high streets would "cause a lot of other retailers to fall as well".
+Liam Byrne, chair of the Business, Innovation, Science and Trade Committee and Labour MP for Birmingham Hodge Hill and Solihull North, said he felt the company could be saved and "the whole deal stinks to high heaven right now".
+"Because I think the issue that we've got is, you've got an owner that could well be trying to cut and run, to sell a business that is in fact a going concern in order to maximize their own profits and put in jeopardy 12,000 British jobs on the high street."
+'Get on the case now'
+"Our message today to government and to ministers is, do not leave this to the last minute, which is Thursday... please get on the case now to get everybody around the table to maximize every option to save as much of the business as possible," he added.
+In a statement, the board of Poundland Limited said it had been "working on a formal sale process for Poundland" and despite "enormous efforts it had not been possible to identify an acceptable offer for the business as a whole".
+"We recognise any sale process creates uncertainty and particularly when set against a challenging UK economic environment."
+Gordon Brothers said: "While Martin Property Group had been identified as the preferred bidder by Poundland's management team, attention must now turn to other active bids."
+The interest, formal and indicative offers were being evaluated "with a view to minimising uncertainty for Poundland's people and all relevant stakeholders."
+Get in touch
+Tell us which stories we should cover in Wolverhampton
+Follow BBC Wolverhampton & Black Country on BBC Sounds, Facebook, external, X, external and Instagram, external.
+Related internet links
+- Published3 days ago
+- Published13 October
+- Published21 November 2025`,
+    bodyJa: `Poundland's former owner offers to invest in firm
+- Published
+Poundland's former owner has said he would invest in the firm as a government minister said she would meet the firm's board.
+Steve Smith, who left the Walsall-based business in 2006, said he had attempted to contact owners Gordon Brothers having been "really surprised" to learn about them filing for administration when sales were up 11% on last year.
+The BBC understands that Business Minister Kate Dearden will meet with senior Poundland executives later this week to discuss the company's threatened insolvency.
+US-based Gordon Brothers said it was evaluating interest for the whole business and formal and indicative offers for significant viable parts of it.
+Gordon Brothers, who bought the firm from Polish retail group Pepco last year for £1, has stopped funding the business and rejected a takeover offer from Irish firm Martin Property Group (MPG).
+The retailer has given the business until Thursday to find a rescue deal, putting up to 12,000 staff at risk.
+It's understood the meeting with Deardon will be predominantly a "fact finding" meeting with government sources conceding there is limited scope for the government to intervene in a commercial transaction albeit one that puts over 10,000 jobs and hundreds of stores at risk.
+The meeting was first reported by Sky News.
+There is no current meeting planned between the government and executives from current owners, US private equity group Gordon Brothers.
+Concerns have been raised that Gordon Brothers have declined an offer from another buyer to keep Poundland afloat in order to ensure repayment of £30 million loan it inherited after buying the company for £1.
+More on Poundland
+'Poundland closure would leave a void in our town'
+- Published2 days ago
+How Poundland grew from a market stall to a high street giant
+- Published3 days ago
+Poundland staff protest after chain approach administrators
+- Published3 days ago
+Prime Minister Andy Burnham has said the government was "ready to support" staff as he also called for answers over why an offer to buy the business had been rejected.
+Smith, from Wolverhampton and who set up the firm in 1990 with a store in Burton-upon-Trent, Staffordshire, said he contacted the owners over the last three months but had no reply. He had thought that was good news as he assumed the firm must have had offers on the table.
+"And maybe I was a bit too late, but I'd certainly... with talking to the staff and how Poundland's performing at the moment, I'd certainly, if there's an opportunity, I definitely want to put some money back in there."
+He said he was still in touch with staff there at levels within the business and "even last week" sales were 11.2 % upon last year.
+"Although Poundland made a loss last year, they're going to make a good profit this year, so it's just crazy."
+He warned that the two or three thousand suppliers to the firm only worked for Poundland so they would be directly affected by its collapse.
+"This is not just about 12, 000 jobs. I'm estimating more like 20 or 30,000 jobs," he added.
+The company has 600 stores in the UK and Ireland, and Smith said it had between four and five million customers a week, so with Poundland not being present on high streets would "cause a lot of other retailers to fall as well".
+Liam Byrne, chair of the Business, Innovation, Science and Trade Committee and Labour MP for Birmingham Hodge Hill and Solihull North, said he felt the company could be saved and "the whole deal stinks to high heaven right now".
+"Because I think the issue that we've got is, you've got an owner that could well be trying to cut and run, to sell a business that is in fact a going concern in order to maximize their own profits and put in jeopardy 12,000 British jobs on the high street."
+'Get on the case now'
+"Our message today to government and to ministers is, do not leave this to the last minute, which is Thursday... please get on the case now to get everybody around the table to maximize every option to save as much of the business as possible," he added.
+In a statement, the board of Poundland Limited said it had been "working on a formal sale process for Poundland" and despite "enormous efforts it had not been possible to identify an acceptable offer for the business as a whole".
+"We recognise any sale process creates uncertainty and particularly when set against a challenging UK economic environment."
+Gordon Brothers said: "While Martin Property Group had been identified as the preferred bidder by Poundland's management team, attention must now turn to other active bids."
+The interest, formal and indicative offers were being evaluated "with a view to minimising uncertainty for Poundland's people and all relevant stakeholders."
+Get in touch
+Tell us which stories we should cover in Wolverhampton
+Follow BBC Wolverhampton & Black Country on BBC Sounds, Facebook, external, X, external and Instagram, external.
+Related internet links
+- Published3 days ago
+- Published13 October
+- Published21 November 2025`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-02T13:40:36+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e116/live/dde58360-d6ca-11f1-ac20-7783925c811f.jpg",
+    readTime: 10,
+  },
+  {
+    id: "defense-healthcare-crypto-and-ai-how-the-c35c7e06",
+    title: "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
+    titleJa: "Defense, healthcare, crypto and AI: How the midterm election could affect stocks",
+    summaryJa: "Democratic gains in Congress could bring tougher oversight of major companies and shift billions of dollars in federal spending and regulatory policy.",
+    bodyOriginal: `Lockheed Martin gets about 70% of its sales from the U.S. government. Medicaid accounts for three-quarters of Molina Healthcare's premium revenue. Coinbase is waiting on Congress to finish writing the rules for cryptocurrency.
+For some of the biggest U.S. companies, Washington is part of the business model. Now, the midterm election could change who holds the leverage.
+A Democratic victory in either or both chambers of Congress would grant the party new leverage to investigate companies, challenge federal spending and demand legislative concessions. But their reach would have limits: President Donald Trump would retain his veto and broad authority over tariffs, immigration and federal regulation.
+Historically, stocks have performed well under divided government. Under Republican presidents, the S&P 500 has gained an average of 23% in the year after midterms when Congress was split, compared with 16% when Democrats controlled both chambers, according to a Morgan Stanley analysis published Thursday. Analysts often attribute the pattern in part to congressional gridlock limiting sweeping policy changes.
+Still, some analysts caution against assuming that pattern will repeat.
+"We don't think that blueprint holds up this time around, and we still see plenty of reasons to be constructive on the U.S. equity market," said Ariana Salvatore, head of U.S. public policy research at Morgan Stanley.
+For investors, the midterm election could reshape which businesses preserve their advantages in Washington, particularly in industries such as defense, healthcare, banking and artificial intelligence.
+"There are some policy changes that might be market moving, at least for certain segments," said Jeff Buchbinder, chief equity strategist at LPL Financial.
+Congressional oversight and investigations
+Control of either the House or Senate would give Democrats committee gavels and subpoena power, allowing them to demand documents, compel testimony and haul executives before public hearings.
+Companies are already getting a preview.
+On Oct. 21, Sen. Richard Blumenthal, D-Conn., the top Democrat on the Senate Homeland Security and Governmental Affairs Permanent Subcommittee on Investigations, sought records tied to Trump's White House ballroom from donors including Cisco, Salesforce, ServiceNow and Kraken. Apple and Nvidia each committed $25 million to the project, according to records obtained by The Washington Post.
+Rep. Jamie Raskin, D-Md., has separately sought records involving tariff exclusions, including communications involving Apple's former CEO, Tim Cook, as Democrats investigate whether Trump used trade policy to reward political allies and donors.
+While donations do not prove wrongdoing or favorable treatment, congressional probes still carry risks: subpoenas consume executive bandwidth, reveal internal communications and generate unpredictable news coverage. Few CEOs relish the idea of sitting at a witness table before lawmakers and television cameras.
+"It creates volatility because you get a negative headline," said Monica Guerra, Morgan Stanley's head of policy and geopolitical strategy, who expects Democrats to cast a wide net for their probes.
+Democrats have signaled interest in Trump family businesses, government contractors, firms tied to Donald Trump Jr.'s 1789 Capital, and companies associated with Elon Musk and the so-called Department of Government Efficiency.
+Federal spending
+Then there is the most basic power Congress has: deciding where the money goes.
+Trump's 2025 tax cuts and spending law, known as One Big Beautiful Bill, is projected to reduce federal Medicaid spending by $911 billion through 2034, according to a KFF analysis of Congressional Budget Office estimates. KFF is a nonpartisan nonprofit that provides health policy information. Meanwhile, new work requirements for Medicaid enrollees are scheduled to take effect Jan. 1, or earlier in some states, while tighter state budgets could mean fewer people are covered and greater pressure on provider payments.
+Molina Healthcare generated $32.2 billion, or 75% of its 2025 premium revenue, from Medicaid, according to the company's annual Securities and Exchange Commission filing. In the same filing, Molina warned that losing government contracts or failing to renew them on favorable terms could materially reduce premium revenue.
+A Democratic-controlled chamber could not repeal the 2025 law on its own but could use must-pass budget negotiations to seek funding changes or delays to some cuts.
+"They're probably going to push back on those Medicaid cuts," Buchbinder told CNBC, noting that preserving coverage could help stabilize enrollment for Medicaid insurers and patient volumes for hospitals.
+Hospitals face their own squeeze: fewer insured patients can mean more uncompensated care, while state budget pressure can reduce reimbursement rates, according to KFF. Congress created a $50 billion rural health fund over five years to cushion some of the blow, but KFF and medical providers have said the money would not fully offset the broader Medicaid reductions.
+Democratic gains could still cut both ways for healthcare. The same lawmakers seeking to protect Medicaid funding could also intensify scrutiny of insurers, hospitals and drugmakers over prices, coverage and profits.
+Defense contractors face a fight over which weapons and programs Congress keeps funding. The White House has requested $1.5 trillion for national defense in fiscal 2027, with a focus on replenishing weapons, bolstering readiness and covering other needs, some tied to the Iran war.
+The White House has requested $1.5 trillion for national defense in fiscal 2027, while separately seeking an $87.6 billion supplemental appropriation from Congress for fiscal 2026, driven primarily by military operations related to Iran.
+A Democratic Congress could challenge some Iran- and Israel-related spending while pushing for more aid to Ukraine. However, bipartisan consensus on China deterrence, nuclear modernization and missile defense could protect other major programs, according to multiple analysts.
+For contractors, the difference could mean billions of dollars in orders.
+Lockheed Martin, for example, recently reached a framework agreement with the Pentagon covering 850 F-35 fighter jets over a decade. But the agreement is not yet a finalized contract: Congress must authorize the multiyear purchase and provide the funding.
+"You want to be a stock picker and not just ride the whole sector," Guerra told CNBC, pointing to areas such as shipbuilding, autonomous systems and missile defense as likely winners.
+Rules and regulations
+For crypto companies, the midterms could determine whether Trump's regulatory shift becomes durable law or remains vulnerable to the next administration. The industry's push for permanence stalled in September, when the Senate failed to advance the Trump-backed Clarity Act, a sweeping market structure bill.
+Shares of Coinbase and stablecoin issuer Circle fell as much as 11% when the measure failed.
+Getting a bill through the next Congress could come at a price. Democratic gains would give the party more leverage to demand stricter consumer safeguards, limits on yield-bearing stablecoins and tighter scrutiny of Trump's crypto businesses.
+"In some ways, the industry doesn't really care who got elected," said Sam Stovall, chief investment strategist at CFRA Research. "They just want to know what the rules are going to be for the coming year."
+Banks are looking for durability, too.
+Federal regulators estimate their proposed capital overhaul would cut requirements for the largest banks by roughly 4.8%, potentially freeing billions for lending and shareholder payouts. The Federal Reserve writes the rules, but Senate control shapes who fills future vacancies, and congressional committees can pressure regulators through hearings and investigations.
+"It's at the regulatory level where stuff can happen that matters," Buchbinder said.
+AI may be the messiest political trade of all.
+Trump has made rapid data center construction an economic and national security priority. Morgan Stanley expects hyperscalers including Microsoft, Amazon, Alphabet and Meta to spend more than $1 trillion on capital projects in 2027, even as the buildout faces growing backlash over electricity bills, water use and infrastructure costs.
+CNBC's All-America Economic Survey from October found that 63% of registered voters oppose having a data center within 10 miles of their home, compared with just 13% who support one. The level of opposition is higher from Democrats than Republicans.
+That friction has already reached Congress. In September, the House voted 417-3 to require state regulators to consider making large data centers cover the additional electricity infrastructure costs needed to serve them. The measure stalled in the Senate, 57-43 on a procedural vote, after Democrats argued it was too weak and pushed for mandatory protections instead of trusting the industry to police itself.
+The midterms therefore could decide who gets the power. Democratic gains could put more grid-upgrade costs on tech developers, raising project costs just as access to power is constraining new construction.
+But Congress is only part of the equation. State regulators, utilities and local governments will still decide where projects connect to the grid and which facilities get built.
+"We think the election can have meaningful consequences, but on a highly localized basis," Salvatore said.`,
+    bodyJa: `Lockheed Martin gets about 70% of its sales from the U.S. government. Medicaid accounts for three-quarters of Molina Healthcare's premium revenue. Coinbase is waiting on Congress to finish writing the rules for cryptocurrency.
+For some of the biggest U.S. companies, Washington is part of the business model. Now, the midterm election could change who holds the leverage.
+A Democratic victory in either or both chambers of Congress would grant the party new leverage to investigate companies, challenge federal spending and demand legislative concessions. But their reach would have limits: President Donald Trump would retain his veto and broad authority over tariffs, immigration and federal regulation.
+Historically, stocks have performed well under divided government. Under Republican presidents, the S&P 500 has gained an average of 23% in the year after midterms when Congress was split, compared with 16% when Democrats controlled both chambers, according to a Morgan Stanley analysis published Thursday. Analysts often attribute the pattern in part to congressional gridlock limiting sweeping policy changes.
+Still, some analysts caution against assuming that pattern will repeat.
+"We don't think that blueprint holds up this time around, and we still see plenty of reasons to be constructive on the U.S. equity market," said Ariana Salvatore, head of U.S. public policy research at Morgan Stanley.
+For investors, the midterm election could reshape which businesses preserve their advantages in Washington, particularly in industries such as defense, healthcare, banking and artificial intelligence.
+"There are some policy changes that might be market moving, at least for certain segments," said Jeff Buchbinder, chief equity strategist at LPL Financial.
+Congressional oversight and investigations
+Control of either the House or Senate would give Democrats committee gavels and subpoena power, allowing them to demand documents, compel testimony and haul executives before public hearings.
+Companies are already getting a preview.
+On Oct. 21, Sen. Richard Blumenthal, D-Conn., the top Democrat on the Senate Homeland Security and Governmental Affairs Permanent Subcommittee on Investigations, sought records tied to Trump's White House ballroom from donors including Cisco, Salesforce, ServiceNow and Kraken. Apple and Nvidia each committed $25 million to the project, according to records obtained by The Washington Post.
+Rep. Jamie Raskin, D-Md., has separately sought records involving tariff exclusions, including communications involving Apple's former CEO, Tim Cook, as Democrats investigate whether Trump used trade policy to reward political allies and donors.
+While donations do not prove wrongdoing or favorable treatment, congressional probes still carry risks: subpoenas consume executive bandwidth, reveal internal communications and generate unpredictable news coverage. Few CEOs relish the idea of sitting at a witness table before lawmakers and television cameras.
+"It creates volatility because you get a negative headline," said Monica Guerra, Morgan Stanley's head of policy and geopolitical strategy, who expects Democrats to cast a wide net for their probes.
+Democrats have signaled interest in Trump family businesses, government contractors, firms tied to Donald Trump Jr.'s 1789 Capital, and companies associated with Elon Musk and the so-called Department of Government Efficiency.
+Federal spending
+Then there is the most basic power Congress has: deciding where the money goes.
+Trump's 2025 tax cuts and spending law, known as One Big Beautiful Bill, is projected to reduce federal Medicaid spending by $911 billion through 2034, according to a KFF analysis of Congressional Budget Office estimates. KFF is a nonpartisan nonprofit that provides health policy information. Meanwhile, new work requirements for Medicaid enrollees are scheduled to take effect Jan. 1, or earlier in some states, while tighter state budgets could mean fewer people are covered and greater pressure on provider payments.
+Molina Healthcare generated $32.2 billion, or 75% of its 2025 premium revenue, from Medicaid, according to the company's annual Securities and Exchange Commission filing. In the same filing, Molina warned that losing government contracts or failing to renew them on favorable terms could materially reduce premium revenue.
+A Democratic-controlled chamber could not repeal the 2025 law on its own but could use must-pass budget negotiations to seek funding changes or delays to some cuts.
+"They're probably going to push back on those Medicaid cuts," Buchbinder told CNBC, noting that preserving coverage could help stabilize enrollment for Medicaid insurers and patient volumes for hospitals.
+Hospitals face their own squeeze: fewer insured patients can mean more uncompensated care, while state budget pressure can reduce reimbursement rates, according to KFF. Congress created a $50 billion rural health fund over five years to cushion some of the blow, but KFF and medical providers have said the money would not fully offset the broader Medicaid reductions.
+Democratic gains could still cut both ways for healthcare. The same lawmakers seeking to protect Medicaid funding could also intensify scrutiny of insurers, hospitals and drugmakers over prices, coverage and profits.
+Defense contractors face a fight over which weapons and programs Congress keeps funding. The White House has requested $1.5 trillion for national defense in fiscal 2027, with a focus on replenishing weapons, bolstering readiness and covering other needs, some tied to the Iran war.
+The White House has requested $1.5 trillion for national defense in fiscal 2027, while separately seeking an $87.6 billion supplemental appropriation from Congress for fiscal 2026, driven primarily by military operations related to Iran.
+A Democratic Congress could challenge some Iran- and Israel-related spending while pushing for more aid to Ukraine. However, bipartisan consensus on China deterrence, nuclear modernization and missile defense could protect other major programs, according to multiple analysts.
+For contractors, the difference could mean billions of dollars in orders.
+Lockheed Martin, for example, recently reached a framework agreement with the Pentagon covering 850 F-35 fighter jets over a decade. But the agreement is not yet a finalized contract: Congress must authorize the multiyear purchase and provide the funding.
+"You want to be a stock picker and not just ride the whole sector," Guerra told CNBC, pointing to areas such as shipbuilding, autonomous systems and missile defense as likely winners.
+Rules and regulations
+For crypto companies, the midterms could determine whether Trump's regulatory shift becomes durable law or remains vulnerable to the next administration. The industry's push for permanence stalled in September, when the Senate failed to advance the Trump-backed Clarity Act, a sweeping market structure bill.
+Shares of Coinbase and stablecoin issuer Circle fell as much as 11% when the measure failed.
+Getting a bill through the next Congress could come at a price. Democratic gains would give the party more leverage to demand stricter consumer safeguards, limits on yield-bearing stablecoins and tighter scrutiny of Trump's crypto businesses.
+"In some ways, the industry doesn't really care who got elected," said Sam Stovall, chief investment strategist at CFRA Research. "They just want to know what the rules are going to be for the coming year."
+Banks are looking for durability, too.
+Federal regulators estimate their proposed capital overhaul would cut requirements for the largest banks by roughly 4.8%, potentially freeing billions for lending and shareholder payouts. The Federal Reserve writes the rules, but Senate control shapes who fills future vacancies, and congressional committees can pressure regulators through hearings and investigations.
+"It's at the regulatory level where stuff can happen that matters," Buchbinder said.
+AI may be the messiest political trade of all.
+Trump has made rapid data center construction an economic and national security priority. Morgan Stanley expects hyperscalers including Microsoft, Amazon, Alphabet and Meta to spend more than $1 trillion on capital projects in 2027, even as the buildout faces growing backlash over electricity bills, water use and infrastructure costs.
+CNBC's All-America Economic Survey from October found that 63% of registered voters oppose having a data center within 10 miles of their home, compared with just 13% who support one. The level of opposition is higher from Democrats than Republicans.
+That friction has already reached Congress. In September, the House voted 417-3 to require state regulators to consider making large data centers cover the additional electricity infrastructure costs needed to serve them. The measure stalled in the Senate, 57-43 on a procedural vote, after Democrats argued it was too weak and pushed for mandatory protections instead of trusting the industry to police itself.
+The midterms therefore could decide who gets the power. Democratic gains could put more grid-upgrade costs on tech developers, raising project costs just as access to power is constraining new construction.
+But Congress is only part of the equation. State regulators, utilities and local governments will still decide where projects connect to the grid and which facilities get built.
+"We think the election can have meaningful consequences, but on a highly localized basis," Salvatore said.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/02/midterm-election-stocks-defense-healthcare-crypto-ai.html",
+    publishedAt: "2026-11-02T13:23:58+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "ryanair-says-it-may-freeze-workers-pay-a-4596c5a0",
+    title: "Ryanair says it may freeze workers' pay and raise airfares",
+    titleJa: "Ryanair says it may freeze workers' pay and raise airfares",
+    summaryJa: "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+    bodyOriginal: `Ryanair says it may freeze workers' pay and raise airfares
+- Published
+Ryanair is considering a temporary wage freeze for staff and confirmed airfares will be "materially higher" next summer because of a sharp rise in fuel costs following the US-Israel war with Iran.
+The airline said it expects fuel prices to remain high "well into 2027" unless there is a "swift resolution" to the conflict.
+Ryanair said its fuel bill is forecast to be €2bn (£1.6bn) higher in the short-term and its boss, Michael O'Leary, said airfares would have to rise by "double-digits" to help cover the cost.
+But the firm said that was unlikely to be enough and it is looking into pay freezes. Unite, the union representing Ryanair staff, said it had not been told of "any such proposals".
+O'Leary also said the company would slow down hiring as airline's costs rise.
+The airline said its pre-tax profits fell by 16% to €2.4bn during the six months to the end of September, largely due to fuel costs jumping by 15%.
+The company said that although 80% of its fuel bill had been "hedged" – in effect, bought in advance at fixed prices – the cost of the remainder was elevated.
+O'Leary reiterated forecasts from earlier this year Ryanair would "need a 20% fare increase" to cover the cost of jet fuel.
+"I'm not sure we'll get to 20%," he said. "But we're certainly looking at double-digit fare increases across Europe from all airlines in 2027."
+Aviation fuel prices have surged this year as a result of the US-Israel war with Iran, which has dramatically reduced the supply of refined products coming from the Gulf and increased competition for those produced elsewhere.
+Ryanair also said it was weighing up freezing pay as "maturing labour agreements" – multi-year wage deals with unions – come to to an end and the policy could be implemented from April next year.
+Oliver Richardson, national officer at Unite, said the union "hasn't been advised of any such proposals and we have a multi-year pay deal in place which covers next year. A number of Unions across Europe have the same".
+He said: "Our pay agreement was not attached to, nor dependent on company performance. This was something that the Ryanair was at pains to emphasise. As such we would expect it to be honoured."
+Ryanair also said it would increase its use of artificial intelligence within its back office and support functions.
+Meanwhile, Ryanair has cut back on winter flights and said on Monday there would be more to come. It said this was happening across the airline industry, particularly with short-haul carriers.
+O'Leary said: "We believe those cuts will continue into the summer of 2027. Over the medium term, we expect short-haul capacity will remain constrained out to the early 2030s."
+- Published11 September
+- Published21 July`,
+    bodyJa: `Ryanair says it may freeze workers' pay and raise airfares
+- Published
+Ryanair is considering a temporary wage freeze for staff and confirmed airfares will be "materially higher" next summer because of a sharp rise in fuel costs following the US-Israel war with Iran.
+The airline said it expects fuel prices to remain high "well into 2027" unless there is a "swift resolution" to the conflict.
+Ryanair said its fuel bill is forecast to be €2bn (£1.6bn) higher in the short-term and its boss, Michael O'Leary, said airfares would have to rise by "double-digits" to help cover the cost.
+But the firm said that was unlikely to be enough and it is looking into pay freezes. Unite, the union representing Ryanair staff, said it had not been told of "any such proposals".
+O'Leary also said the company would slow down hiring as airline's costs rise.
+The airline said its pre-tax profits fell by 16% to €2.4bn during the six months to the end of September, largely due to fuel costs jumping by 15%.
+The company said that although 80% of its fuel bill had been "hedged" – in effect, bought in advance at fixed prices – the cost of the remainder was elevated.
+O'Leary reiterated forecasts from earlier this year Ryanair would "need a 20% fare increase" to cover the cost of jet fuel.
+"I'm not sure we'll get to 20%," he said. "But we're certainly looking at double-digit fare increases across Europe from all airlines in 2027."
+Aviation fuel prices have surged this year as a result of the US-Israel war with Iran, which has dramatically reduced the supply of refined products coming from the Gulf and increased competition for those produced elsewhere.
+Ryanair also said it was weighing up freezing pay as "maturing labour agreements" – multi-year wage deals with unions – come to to an end and the policy could be implemented from April next year.
+Oliver Richardson, national officer at Unite, said the union "hasn't been advised of any such proposals and we have a multi-year pay deal in place which covers next year. A number of Unions across Europe have the same".
+He said: "Our pay agreement was not attached to, nor dependent on company performance. This was something that the Ryanair was at pains to emphasise. As such we would expect it to be honoured."
+Ryanair also said it would increase its use of artificial intelligence within its back office and support functions.
+Meanwhile, Ryanair has cut back on winter flights and said on Monday there would be more to come. It said this was happening across the airline industry, particularly with short-haul carriers.
+O'Leary said: "We believe those cuts will continue into the summer of 2027. Over the medium term, we expect short-haul capacity will remain constrained out to the early 2030s."
+- Published11 September
+- Published21 July`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-02T12:22:10+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/895b/live/a85523b0-d691-11f1-8f56-0b6ab08f384e.jpg",
+    readTime: 7,
+  },
+  {
     id: "binance-sees-3-64-billion-in-net-outflow-b271cc3a",
     title: "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
     titleJa: "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
@@ -1531,470 +1997,6 @@ It also wasn't clear who was responsible for the breach. But TRM Labs, a blockch
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-56448073",
     readTime: 2,
-  },
-  {
-    id: "is-it-curtains-for-cola-saving-social-se-fd2421ab",
-    title: "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-    titleJa: "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
-    summaryJa: "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.",
-    bodyOriginal: `Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.`,
-    bodyJa: `Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-    publishedAt: "2026-10-31T18:33:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-24279758",
-    readTime: 2,
-  },
-  {
-    id: "evacuees-from-russia-occupied-city-where-ee04dd62",
-    title: "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
-    titleJa: "Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine",
-    summaryJa: "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
-    bodyOriginal: `Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine
-- Published
-People evacuated from the devastated Russian-occupied city of Oleshky have arrived in Belarus and are expected back in Ukraine later on Saturday, authorities have said.
-Residents of the frontline city had been trapped without food, water and electricity, with many resorting to cooking garden weeds to survive.
-The evacuees were taken out of Oleshky on Friday during a local ceasefire brokered by US First Lady Melania Trump.
-Planes carrying the residents landed in the city of Gomel on Saturday morning, according to Belarusian state media and a senior Ukrainian official.
-"The last, fourth plane landed in Gomel (Belarus). In a few hours, all Ukrainian citizens evacuated from Oleshky, together with the Ukrainian delegation, will be on Ukrainian territory," said David Arakhamia, a key Ukrainian official.
-The state-owned Belarusian news agency Belta reported a bus convoy of Oleshky residents had left Gomel airport and was heading towards the Ukrainian border.
-A humanitarian ceasefire took effect across the frontline region of Kherson on Tuesday, providing the first few days of peace in the area in four years, following Russia's invasion of Ukraine in February 2022.
-Conditions had become so desperate in Oleshky that getting supplies into the city had been extremely difficult. Mines and drone attacks made it highly dangerous for residents to try and escape.
-One resident who fled the city three weeks earlier told the BBC he had walked through 24km (15 miles) of minefields to get to safety.
-The city has been without electricity, gas and water for three years.
-The ceasefire allowed the road out of the city to be cleared of mines and will remain in place until the end of Sunday 1 November.
-Residents had a four-hour window to leave before a convoy of 25 buses, with space for 750 people, left the town on Friday afternoon - along with ambulances for people with limited mobility.
-Several hundred people are understood to have decided to stay in the war-torn city, despite widespread devastation and the lack of gas, electricity and running water.
-Before the war, Oleshky was home to 24,000 people, but it was seized by Russia during the first days of its full-scale invasion.
-Ukraine's human rights ombudsman Dmytro Lubinets said on Friday morning that those who decided to stay "will receive all the necessary humanitarian assistance".
-Ukrainian military positions lie just 5km (3.1 miles) from Oleshky but evacuees first had to travel into Russian-occupied territory and then to the southern Russian city of Anapa, where they flew to Gomel.
-Bridges across the nearby River Dnipro have been destroyed and sources say the riverbank has been mined and is dangerous.
-Lubinets and his Russian counterpart Yana Lantratova travelled to Oleshky together on Friday, setting off from Armiansk, in the Russian-occupied Crimean peninsula.
-Lubinets is the first Ukrainian official since the start of the war to visit Russian-occupied parts of Ukraine.
-The Oleshky ceasefire has required close cooperation with Lantratova, which Lubinets said he carried out in the interests of saving lives.
-But some in Ukraine have recoiled at the sight of him standing beside a representative of the Russian occupying power which has killed so many of the city's residents and made life unbearable for the rest.
-Russia said on Thursday that it had prepared "dozens of tonnes" of aid for the residents who do not wish to leave, including food, medicine, hygiene products and fuel for generators.
-Related topics
-- Published11 hours ago
-- Published3 days ago`,
-    bodyJa: `Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine
-- Published
-People evacuated from the devastated Russian-occupied city of Oleshky have arrived in Belarus and are expected back in Ukraine later on Saturday, authorities have said.
-Residents of the frontline city had been trapped without food, water and electricity, with many resorting to cooking garden weeds to survive.
-The evacuees were taken out of Oleshky on Friday during a local ceasefire brokered by US First Lady Melania Trump.
-Planes carrying the residents landed in the city of Gomel on Saturday morning, according to Belarusian state media and a senior Ukrainian official.
-"The last, fourth plane landed in Gomel (Belarus). In a few hours, all Ukrainian citizens evacuated from Oleshky, together with the Ukrainian delegation, will be on Ukrainian territory," said David Arakhamia, a key Ukrainian official.
-The state-owned Belarusian news agency Belta reported a bus convoy of Oleshky residents had left Gomel airport and was heading towards the Ukrainian border.
-A humanitarian ceasefire took effect across the frontline region of Kherson on Tuesday, providing the first few days of peace in the area in four years, following Russia's invasion of Ukraine in February 2022.
-Conditions had become so desperate in Oleshky that getting supplies into the city had been extremely difficult. Mines and drone attacks made it highly dangerous for residents to try and escape.
-One resident who fled the city three weeks earlier told the BBC he had walked through 24km (15 miles) of minefields to get to safety.
-The city has been without electricity, gas and water for three years.
-The ceasefire allowed the road out of the city to be cleared of mines and will remain in place until the end of Sunday 1 November.
-Residents had a four-hour window to leave before a convoy of 25 buses, with space for 750 people, left the town on Friday afternoon - along with ambulances for people with limited mobility.
-Several hundred people are understood to have decided to stay in the war-torn city, despite widespread devastation and the lack of gas, electricity and running water.
-Before the war, Oleshky was home to 24,000 people, but it was seized by Russia during the first days of its full-scale invasion.
-Ukraine's human rights ombudsman Dmytro Lubinets said on Friday morning that those who decided to stay "will receive all the necessary humanitarian assistance".
-Ukrainian military positions lie just 5km (3.1 miles) from Oleshky but evacuees first had to travel into Russian-occupied territory and then to the southern Russian city of Anapa, where they flew to Gomel.
-Bridges across the nearby River Dnipro have been destroyed and sources say the riverbank has been mined and is dangerous.
-Lubinets and his Russian counterpart Yana Lantratova travelled to Oleshky together on Friday, setting off from Armiansk, in the Russian-occupied Crimean peninsula.
-Lubinets is the first Ukrainian official since the start of the war to visit Russian-occupied parts of Ukraine.
-The Oleshky ceasefire has required close cooperation with Lantratova, which Lubinets said he carried out in the interests of saving lives.
-But some in Ukraine have recoiled at the sight of him standing beside a representative of the Russian occupying power which has killed so many of the city's residents and made life unbearable for the rest.
-Russia said on Thursday that it had prepared "dozens of tonnes" of aid for the residents who do not wish to leave, including food, medicine, hygiene products and fuel for generators.
-Related topics
-- Published11 hours ago
-- Published3 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-31T12:05:04+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ec/live/4e7bd090-d516-11f1-93e1-3b657b665bcf.jpg",
-    readTime: 9,
-  },
-  {
-    id: "pop-up-super-pacs-pour-637-million-into-40b41976",
-    title: "‘Pop-up’ super PACs pour $637 million into 2026 midterm races",
-    titleJa: "‘Pop-up’ super PACs pour $637 million into 2026 midterm races",
-    summaryJa: "Twenty-two late-forming super PACs spent about $637 million in 2026 congressional races, sometimes before voters could see their donors.",
-    bodyOriginal: `A super PAC called Our Heritage Matters registered with the Federal Election Commission on Oct. 15.
-Five days later, it began spending to boost third-party candidates and attack Republicans. By Oct. 29, the group had spent about $1.2 million across 10 House and Senate races, according to a CNBC analysis of FEC filings.
-What voters still cannot see is who supplied the money.
-Because Our Heritage Matters formed after a key campaign finance reporting deadline on Oct. 15, its first regular report identifying its donors is not due until Dec. 3, a month after Election Day.
-The group is an extreme example of a broader surge reshaping the midterm election: late-forming super PACs, including the latest-forming "pop-up PACs," pouring money into races before voters know where it came from.
-Federal law requires super PACs and political committees to report large independent expenditures within 24 or 48 hours depending on how close to Election Day the spending occurs, showing how much they spent and which candidates they supported or opposed. Their donors, however, are disclosed less frequently through periodic campaign finance reports.
-And in 2026, the practice of creating new, last-minute PACs has exploded. Both parties are using the tactic, with Republican-linked PACs spending about twice what those connected with Democrats have disbursed.
-Twenty-two super PACs that registered with the FEC during the final 10 weeks before Election Day have each spent at least $1 million on congressional races, according to CNBC's analysis. Together, they had reported roughly $637 million in independent expenditures by Oct. 29 — about one-sixth of all independent spending reported in House and Senate races this election cycle.
-The number of million-dollar late-forming super PACs has more than quadrupled since 2022, while their spending has grown nearly 35-fold.
-At the same point in the 2022 midterms, just five comparable groups had spent about $18 million combined, according to CNBC's analysis. In 2018, three had spent about $12 million. The total has even eclipsed the past two presidential elections, when comparable late-forming super PACs spent less than $50 million combined on congressional races in both 2020 and 2024, according to CNBC's analysis.
-"The reason for this is almost entirely to avoid disclosure, even if just temporarily," said Michael Kang, a Northwestern Pritzker School of Law professor who studies campaign finance. "Many times, if the donors were known, then it would undercut their cause."
-CNBC's analysis includes super PACs formed in the final 10 weeks before Election Day that spent at least $1 million on House or Senate races by Oct. 29. Spending includes regular FEC filings and 24- and 48-hour reports, with duplicates removed.
-From zero to millions in late-forming PAC spending
-One of the defining features of late-forming super PACs is speed.
-Among the 22 groups in CNBC's analysis, 18 began spending within 30 days of launching, and almost all started spending before filing their first regular campaign finance report showing where their money came from.
-“It’s happening more often, and they’re spending more money doing it because it works, and they’re getting away with it,” said Saurav Ghosh, director of federal campaign finance reform at the Campaign Legal Center. The group is a nonpartisan nonprofit founded by a former Republican FEC chairman.
-Despite their late start, the groups accounted for more than 22% of independent expenditures in congressional races during CNBC's 2026 window, up from less than 2% at the same point in each of the previous two midterms.
-Many are new only on paper. CNBC found financial or organizational ties between nine of the 22 groups and established political networks.
-Lower Costs Now, for example, formed on Sept. 10 and disclosed an affiliation with the Future Forward PAC, the main outside group that backed former Vice President Kamala Harris' 2024 presidential campaign. Nineteen days later, Lower Costs Now began spending in Senate races.
-But voters did not get a fuller picture of its financing until Oct. 15, when its first regular financial report showed that Senate Majority PAC, the main super PAC working to elect Senate Democrats, had given the group $23 million, according to FEC filings.
-By Thursday, Lower Costs Now had reported about $75.5 million in independent expenditures across eight Senate contests, including Iowa, Texas, Kansas and Ohio, according to CNBC's analysis.
-Republicans have used the same playbook.
-No Going Back PAC formed Sept. 1 and began spending three days later. Public reporting soon linked it to MAGA Inc., President Donald Trump's marquee super PAC. But its formal financial report did not arrive until Oct. 20 — more than six weeks after the spending began.
-By then, No Going Back had already spent roughly $187.8 million, according to FEC filings, which revealed that MAGA Inc. had supplied the group with $200 million. By Thursday, the super PAC had spent roughly $242.2 million, according to FEC filings.
-“They are a vehicle designed to emerge from nowhere and spend a bunch of money on an election” before voters can learn “who’s supplying that money and what their motivations might be,” Ghosh said.
-PACs built for one race
-Many of the new groups are also narrowly targeted.
-Fourteen of the 22 million-dollar super PACs identified by CNBC spent all of their money in a single congressional contest.
-Take The Maine Standard. It formed Sept. 11 and began spending five days later. Since then, it has spent $8.2 million, all of it opposing Democrat Troy Jackson in Maine's Senate race, according to FEC filings.
-The Cornhusker Majority followed almost the same pattern. It formed Sept. 10, began spending Sept. 16 and has spent about $7.1 million in Nebraska's Senate race, almost all of it opposing independent Dan Osborn, according to FEC filings. Osborn is running against Republican incumbent Sen. Pete Ricketts in a tight race.
-The connection between the two groups did not appear in their regular financial reports until Oct. 15: Both were financed by Senate Leadership Fund, the GOP's main Senate super PAC.
-On the Democratic side, Texas Forever launched Sept. 24 and began spending five days later, according to FEC filings. By Thursday, it had spent about $27.5 million to help Democratic Texas Senate nominee James Talarico, according to the FEC. Unlike some other pop-up groups, however, its initial FEC filing identified the Senate Majority PAC as an affiliate.
-"A locally branded PAC doesn't necessarily hide where the money comes from, but it fragments the picture. Instead of seeing one national organization spending tens of millions of dollars across the country, voters see a series of different groups operating race by race," said Hilary Braseth, executive director of OpenSecrets, a nonpartisan nonprofit that tracks such spending.
-But even identifying the national group behind a pop-up PAC can still leave another layer of the money trail hidden.
-Texas PAC formed Aug. 28 and soon began spending to help Republican Ken Paxton in Texas' Senate race. The money flowed through the SLF, but Elon Musk's role was not public until Oct. 12, more than a month after the spending began.
-On Oct. 15, FEC filings showed Musk had given the SLF $158 million in two contributions, with the group transferring matching amounts to Texas PAC the day after each donation.
-By Oct. 29, Texas PAC had spent about $181.6 million in the race, according to FEC filings, making it one of the largest late-forming super PACs CNBC identified.
-Together, Texas PAC and No Going Back accounted for roughly two-thirds of all spending by the 22 million-dollar groups. But the surge was much broader than those two giants: Even excluding them, the remaining groups spent nearly 12 times as much as comparable late-forming super PACs did at the same point in 2022.
-"The growth is huge this year," Kang said. "Maybe you don’t want to be known this election, or want to hide away for a period while you might be unpopular, like AI is right now, but you kind of want to build a reputation for the players inside the system."`,
-    bodyJa: `A super PAC called Our Heritage Matters registered with the Federal Election Commission on Oct. 15.
-Five days later, it began spending to boost third-party candidates and attack Republicans. By Oct. 29, the group had spent about $1.2 million across 10 House and Senate races, according to a CNBC analysis of FEC filings.
-What voters still cannot see is who supplied the money.
-Because Our Heritage Matters formed after a key campaign finance reporting deadline on Oct. 15, its first regular report identifying its donors is not due until Dec. 3, a month after Election Day.
-The group is an extreme example of a broader surge reshaping the midterm election: late-forming super PACs, including the latest-forming "pop-up PACs," pouring money into races before voters know where it came from.
-Federal law requires super PACs and political committees to report large independent expenditures within 24 or 48 hours depending on how close to Election Day the spending occurs, showing how much they spent and which candidates they supported or opposed. Their donors, however, are disclosed less frequently through periodic campaign finance reports.
-And in 2026, the practice of creating new, last-minute PACs has exploded. Both parties are using the tactic, with Republican-linked PACs spending about twice what those connected with Democrats have disbursed.
-Twenty-two super PACs that registered with the FEC during the final 10 weeks before Election Day have each spent at least $1 million on congressional races, according to CNBC's analysis. Together, they had reported roughly $637 million in independent expenditures by Oct. 29 — about one-sixth of all independent spending reported in House and Senate races this election cycle.
-The number of million-dollar late-forming super PACs has more than quadrupled since 2022, while their spending has grown nearly 35-fold.
-At the same point in the 2022 midterms, just five comparable groups had spent about $18 million combined, according to CNBC's analysis. In 2018, three had spent about $12 million. The total has even eclipsed the past two presidential elections, when comparable late-forming super PACs spent less than $50 million combined on congressional races in both 2020 and 2024, according to CNBC's analysis.
-"The reason for this is almost entirely to avoid disclosure, even if just temporarily," said Michael Kang, a Northwestern Pritzker School of Law professor who studies campaign finance. "Many times, if the donors were known, then it would undercut their cause."
-CNBC's analysis includes super PACs formed in the final 10 weeks before Election Day that spent at least $1 million on House or Senate races by Oct. 29. Spending includes regular FEC filings and 24- and 48-hour reports, with duplicates removed.
-From zero to millions in late-forming PAC spending
-One of the defining features of late-forming super PACs is speed.
-Among the 22 groups in CNBC's analysis, 18 began spending within 30 days of launching, and almost all started spending before filing their first regular campaign finance report showing where their money came from.
-“It’s happening more often, and they’re spending more money doing it because it works, and they’re getting away with it,” said Saurav Ghosh, director of federal campaign finance reform at the Campaign Legal Center. The group is a nonpartisan nonprofit founded by a former Republican FEC chairman.
-Despite their late start, the groups accounted for more than 22% of independent expenditures in congressional races during CNBC's 2026 window, up from less than 2% at the same point in each of the previous two midterms.
-Many are new only on paper. CNBC found financial or organizational ties between nine of the 22 groups and established political networks.
-Lower Costs Now, for example, formed on Sept. 10 and disclosed an affiliation with the Future Forward PAC, the main outside group that backed former Vice President Kamala Harris' 2024 presidential campaign. Nineteen days later, Lower Costs Now began spending in Senate races.
-But voters did not get a fuller picture of its financing until Oct. 15, when its first regular financial report showed that Senate Majority PAC, the main super PAC working to elect Senate Democrats, had given the group $23 million, according to FEC filings.
-By Thursday, Lower Costs Now had reported about $75.5 million in independent expenditures across eight Senate contests, including Iowa, Texas, Kansas and Ohio, according to CNBC's analysis.
-Republicans have used the same playbook.
-No Going Back PAC formed Sept. 1 and began spending three days later. Public reporting soon linked it to MAGA Inc., President Donald Trump's marquee super PAC. But its formal financial report did not arrive until Oct. 20 — more than six weeks after the spending began.
-By then, No Going Back had already spent roughly $187.8 million, according to FEC filings, which revealed that MAGA Inc. had supplied the group with $200 million. By Thursday, the super PAC had spent roughly $242.2 million, according to FEC filings.
-“They are a vehicle designed to emerge from nowhere and spend a bunch of money on an election” before voters can learn “who’s supplying that money and what their motivations might be,” Ghosh said.
-PACs built for one race
-Many of the new groups are also narrowly targeted.
-Fourteen of the 22 million-dollar super PACs identified by CNBC spent all of their money in a single congressional contest.
-Take The Maine Standard. It formed Sept. 11 and began spending five days later. Since then, it has spent $8.2 million, all of it opposing Democrat Troy Jackson in Maine's Senate race, according to FEC filings.
-The Cornhusker Majority followed almost the same pattern. It formed Sept. 10, began spending Sept. 16 and has spent about $7.1 million in Nebraska's Senate race, almost all of it opposing independent Dan Osborn, according to FEC filings. Osborn is running against Republican incumbent Sen. Pete Ricketts in a tight race.
-The connection between the two groups did not appear in their regular financial reports until Oct. 15: Both were financed by Senate Leadership Fund, the GOP's main Senate super PAC.
-On the Democratic side, Texas Forever launched Sept. 24 and began spending five days later, according to FEC filings. By Thursday, it had spent about $27.5 million to help Democratic Texas Senate nominee James Talarico, according to the FEC. Unlike some other pop-up groups, however, its initial FEC filing identified the Senate Majority PAC as an affiliate.
-"A locally branded PAC doesn't necessarily hide where the money comes from, but it fragments the picture. Instead of seeing one national organization spending tens of millions of dollars across the country, voters see a series of different groups operating race by race," said Hilary Braseth, executive director of OpenSecrets, a nonpartisan nonprofit that tracks such spending.
-But even identifying the national group behind a pop-up PAC can still leave another layer of the money trail hidden.
-Texas PAC formed Aug. 28 and soon began spending to help Republican Ken Paxton in Texas' Senate race. The money flowed through the SLF, but Elon Musk's role was not public until Oct. 12, more than a month after the spending began.
-On Oct. 15, FEC filings showed Musk had given the SLF $158 million in two contributions, with the group transferring matching amounts to Texas PAC the day after each donation.
-By Oct. 29, Texas PAC had spent about $181.6 million in the race, according to FEC filings, making it one of the largest late-forming super PACs CNBC identified.
-Together, Texas PAC and No Going Back accounted for roughly two-thirds of all spending by the 22 million-dollar groups. But the surge was much broader than those two giants: Even excluding them, the remaining groups spent nearly 12 times as much as comparable late-forming super PACs did at the same point in 2022.
-"The growth is huge this year," Kang said. "Maybe you don’t want to be known this election, or want to hide away for a period while you might be unpopular, like AI is right now, but you kind of want to build a reputation for the players inside the system."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/31/2026-midterm-election-super-pacs-donor-disclosure.html",
-    publishedAt: "2026-10-31T12:00:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "automakers-like-rivian-and-ford-are-demo-1c7b0632",
-    title: "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
-    titleJa: "Automakers like Rivian and Ford are ‘democratizing 3D printing’ to reduce costs and increase speed",
-    summaryJa: "Automakers including Ford, Rivian and GM are expanding 3D printing to make prototypes, factory tools and low-volume parts faster and at lower cost.",
-    bodyOriginal: `DETROIT — Automakers including Ford Motor and Rivian Automotive are leaning into a new type of manufacturing line: 3D printing.
-Manufacturers say it's helping them reduce costs and increase speed. The technology has been around for decades, but it's becoming more commoditized in the automotive industry, with 3D printers used to create everything from vehicle parts and accessories to tools for assembly plants and testing units for research and development labs.
-"At this point, we don't have a choice but to scale up and begin using it through all factions of Rivian," Jared Beck, head of Rivian's additive manufacturing, told CNBC during a tour of the automaker's expansive 3D-printing operations in suburban Detroit. "We're going to be democratizing 3D printing for the entire company."
-The benefits of 3D printing
-Also known as additive manufacturing, 3D printing can create three-dimensional objects from digital designs by dispensing material layer by layer, much like a traditional printer does with ink on paper. Instead of ink, the machines use a wide variety of materials such as plastics, composites, ceramics and even metals.
-Printers can range from hundreds of dollars for hobby-like devices to hundreds of thousands of dollars for specialty equipment, depending on how big the product being produced is and the material it needs. They can produce individual pieces or hundreds of smaller parts in a batch using powders and resins.
-Rivian said it has spent more than $5 million on 3D-printing machines, with the cost of materials for the operations growing to about $1.7 million annually.
-Beck said despite the costs, the machines typically pay for themselves within a year. He said the technology helps lower supplier tooling costs, streamline logistics expenses and cut production times for parts from weeks to days, if not hours.
-"It's well in the millions [for savings], but the main thing is speed for Rivian," Beck said.
-The all-electric vehicle company's latest expansion of 3D printing includes adding new machines that can build flexible silicone parts as well as installing a bay of machines at its plant in Normal, Illinois, for employees to print parts on demand.
-"3D prints should be readily available for every engineer so that they can make a part and get it in their hands as soon as possible," Beck said.
-Rivian has also used the technology for electric-motor models for fluid testing, creating screw guides for tooling and stamping press inserts and some production parts, including trim pieces to fill gaps in some early builds.
-GM, Ford
-There's a similar push underway at larger, more-established automakers like Ford and its crosstown rival General Motors, which have used 3D printing for many years, including in their massive assembly plants.
-Instead of having a bay of 3D-printing machines like at Rivian, Ford has departments for additive manufacturing at many of its plants to produce and distribute needed parts. That includes a new vending machine for 3D-printed parts for production of F-150 pickup trucks near its Dearborn, Michigan, headquarters.
-"By putting the vending machine up, all the team leaders have access," said Gregory Foresi, a Ford mechanical engineer who ran Ford's 3D-printing lab at the plant from 2024 until last month. "We're able to keep that thing stocked rather than have a bunch of parts laying around in the lab. So that's been pretty huge."
-Foresi used roughly two dozen machines to print off thousands of tools, some of which have been designed by employees, such as torque bit sockets, hood jackers and hand tools for smoothing adhesive.
-Employees can use an app to request that specific auto parts or tools be printed. Ford's 3D-printing teams help develop them or determine what to produce next, as the machining time to build different parts can range from hours to days, if not weeks.
-Foresi said creating the tools with 3D printing has allowed the automaker to uniquely design them when needed, get them faster and, in many cases, receive them at a lower cost.
-Ford also has used 3D-printed parts to help keep production running. For example, Foresi said a large machining wheel was needed to maintain assembly line production and the company was able to 3D print the part until a permanent replacement from a supplier was available.
-"They didn't perform as well, and it's not really a replacement for the ones that we were purchasing, but they kept the plant running," Foresi said.
-Ford said it expects to have 3D labs deployed at more than 23 plants by the end of this year. Its current 3D-printing program has more than 200 machines, and there are additional printers outside the official program, the company said.
-GM has used 3D-printed parts for some of its low-volume products in addition to research and development and inside plants, including recently expanding its use of industrial Stratasys printers that can cost hundreds of thousands of dollars based on use case, training and certification.
-The Detroit automaker uses 135 components that are 3D-printed for its bespoke Cadillac Celestiq as well as other components for its performance Cadillac Blackwing sedans, including a unique medallion on the manual shifter knob.
-Fadi Abro, senior global director of automotive and mobility at 3D-printing company Stratasys, said GM has been a great example of how companies can "standardize and then scale" 3D printing.
-"The material properties improved so significantly that the use cases improved," he said, noting the company works with virtually every major automaker. "From a product perspective, we have to get the technology to become faster and more accessible, in an economic sense."`,
-    bodyJa: `DETROIT — Automakers including Ford Motor and Rivian Automotive are leaning into a new type of manufacturing line: 3D printing.
-Manufacturers say it's helping them reduce costs and increase speed. The technology has been around for decades, but it's becoming more commoditized in the automotive industry, with 3D printers used to create everything from vehicle parts and accessories to tools for assembly plants and testing units for research and development labs.
-"At this point, we don't have a choice but to scale up and begin using it through all factions of Rivian," Jared Beck, head of Rivian's additive manufacturing, told CNBC during a tour of the automaker's expansive 3D-printing operations in suburban Detroit. "We're going to be democratizing 3D printing for the entire company."
-The benefits of 3D printing
-Also known as additive manufacturing, 3D printing can create three-dimensional objects from digital designs by dispensing material layer by layer, much like a traditional printer does with ink on paper. Instead of ink, the machines use a wide variety of materials such as plastics, composites, ceramics and even metals.
-Printers can range from hundreds of dollars for hobby-like devices to hundreds of thousands of dollars for specialty equipment, depending on how big the product being produced is and the material it needs. They can produce individual pieces or hundreds of smaller parts in a batch using powders and resins.
-Rivian said it has spent more than $5 million on 3D-printing machines, with the cost of materials for the operations growing to about $1.7 million annually.
-Beck said despite the costs, the machines typically pay for themselves within a year. He said the technology helps lower supplier tooling costs, streamline logistics expenses and cut production times for parts from weeks to days, if not hours.
-"It's well in the millions [for savings], but the main thing is speed for Rivian," Beck said.
-The all-electric vehicle company's latest expansion of 3D printing includes adding new machines that can build flexible silicone parts as well as installing a bay of machines at its plant in Normal, Illinois, for employees to print parts on demand.
-"3D prints should be readily available for every engineer so that they can make a part and get it in their hands as soon as possible," Beck said.
-Rivian has also used the technology for electric-motor models for fluid testing, creating screw guides for tooling and stamping press inserts and some production parts, including trim pieces to fill gaps in some early builds.
-GM, Ford
-There's a similar push underway at larger, more-established automakers like Ford and its crosstown rival General Motors, which have used 3D printing for many years, including in their massive assembly plants.
-Instead of having a bay of 3D-printing machines like at Rivian, Ford has departments for additive manufacturing at many of its plants to produce and distribute needed parts. That includes a new vending machine for 3D-printed parts for production of F-150 pickup trucks near its Dearborn, Michigan, headquarters.
-"By putting the vending machine up, all the team leaders have access," said Gregory Foresi, a Ford mechanical engineer who ran Ford's 3D-printing lab at the plant from 2024 until last month. "We're able to keep that thing stocked rather than have a bunch of parts laying around in the lab. So that's been pretty huge."
-Foresi used roughly two dozen machines to print off thousands of tools, some of which have been designed by employees, such as torque bit sockets, hood jackers and hand tools for smoothing adhesive.
-Employees can use an app to request that specific auto parts or tools be printed. Ford's 3D-printing teams help develop them or determine what to produce next, as the machining time to build different parts can range from hours to days, if not weeks.
-Foresi said creating the tools with 3D printing has allowed the automaker to uniquely design them when needed, get them faster and, in many cases, receive them at a lower cost.
-Ford also has used 3D-printed parts to help keep production running. For example, Foresi said a large machining wheel was needed to maintain assembly line production and the company was able to 3D print the part until a permanent replacement from a supplier was available.
-"They didn't perform as well, and it's not really a replacement for the ones that we were purchasing, but they kept the plant running," Foresi said.
-Ford said it expects to have 3D labs deployed at more than 23 plants by the end of this year. Its current 3D-printing program has more than 200 machines, and there are additional printers outside the official program, the company said.
-GM has used 3D-printed parts for some of its low-volume products in addition to research and development and inside plants, including recently expanding its use of industrial Stratasys printers that can cost hundreds of thousands of dollars based on use case, training and certification.
-The Detroit automaker uses 135 components that are 3D-printed for its bespoke Cadillac Celestiq as well as other components for its performance Cadillac Blackwing sedans, including a unique medallion on the manual shifter knob.
-Fadi Abro, senior global director of automotive and mobility at 3D-printing company Stratasys, said GM has been a great example of how companies can "standardize and then scale" 3D printing.
-"The material properties improved so significantly that the use cases improved," he said, noting the company works with virtually every major automaker. "From a product perspective, we have to get the technology to become faster and more accessible, in an economic sense."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/31/automakers-3d-printing-ford-rivian-gm.html",
-    publishedAt: "2026-10-31T12:00:01+00:00",
-    category: "自動車",
-    imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "these-10-megadonors-have-spent-a-total-o-7ff5f617",
-    title: "These 10 megadonors have spent a total of $1 billion on the midterm elections",
-    titleJa: "These 10 megadonors have spent a total of $1 billion on the midterm elections",
-    summaryJa: "They’ve helped turn this year’s midterms into “the most expensive election cycle on record.”",
-    bodyOriginal: `They’ve helped turn this year’s midterms into “the most expensive election cycle on record.”`,
-    bodyJa: `They’ve helped turn this year’s midterms into “the most expensive election cycle on record.”`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/these-10-megadonors-have-spent-a-total-of-1-billion-on-the-midterm-elections-0dc279cf?mod=mw_rss_topstories",
-    publishedAt: "2026-10-31T12:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-27816959",
-    readTime: 2,
-  },
-  {
-    id: "anthropic-s-path-to-the-nasdaq-just-got-9c0943f4",
-    title: "Anthropic's path to the Nasdaq just got a lot bumpier",
-    titleJa: "Anthropic's path to the Nasdaq just got a lot bumpier",
-    summaryJa: "Concerning projections from hyperscalers this week punished tech stocks and pushed the Nasdaq to its first three-week losing streak since March.",
-    bodyOriginal: `Anthropic picked a tough week to unveil its IPO prospectus.
-Within days of its release, several of the company's key partners, including Microsoft, Google and Amazon, reported quarterly results that added fuel to existing market jitters around the artificial intelligence buildout.
-"Everybody's still full steam ahead on AI, but all the things around it took an interesting turn this week," Daniel Newman, CEO at Futurum Group, told CNBC in an interview on Friday. The hyperscalers' results have "raised eyebrows" and created a new headwind in the market, which is "more doubt on capital structure," he said.
-No matter the current state of the market, Anthropic was going to have to address a skeptical investor base as it pursues a potentially record-setting initial public offering in the coming weeks. In its prospectus on Monday, the AI company disclosed a net loss for the first half of the year of $80 billion, alongside hundreds of billions of dollars' worth of compute commitments and more than 90 pages of risk factors. Investors are still waiting to see Anthropic's third-quarter financials.
-Heading into this week, fears were mounting about the financial health of neoclouds like CoreWeave and Nebius, which are facing rising borrowing costs and a dearth of lenders as they pursue aggressive AI buildouts. Anthropic gets much of its capacity from Amazon, Google and SpaceX, but it also relies on neoclouds for some compute as it races to expand as quickly as possible.
-Now investors are growing increasingly worried about the whole AI trade.
-"It's a great technology, seems to do things that we never would have imagined, but how does that then translate into a viable business?" David Hsu, a professor at the University of Pennsylvania Wharton School, said in an interview.
-The Nasdaq Composite notched its first three-week losing streak since March after plunging 2.9% on Friday. Nvidia, whose graphics processing units have powered the AI boom, traded lower, along with the whole semiconductor sector, after Intel issued a weak forecast, sending its stock to its steepest drop since the 1970s.
-Microsoft, Google and Amazon all had notes of concern this week in their reports. The companies have been on a spending blitz in recent years to meet the surge in demand for AI infrastructure, but all three issued capex figures or forecasts that came in below analysts' estimates. Microsoft lowered its capex forecast for the year to $170 billion from $175 billion, while Alphabet maintained its guidance for up to $205 billion and Amazon reiterated its roughly $220 billion forecast.
-"It's been an ugly reporting season for tech thus far," Jonathan Krinsky, managing director at BTIG, wrote in a Thursday note. He described the fallout as "The Techsas Chainsaw Massacre," adding that there's too much weakness in the sector for the market to ignore.
-Cash is becoming an issue. Amazon reported negative free cash flow for the second consecutive quarter, recording an outflow of $42.4 billion for the trailing 12-month period. Google reported negative free cash flow of $9.1 billion, one reason the stock tanked almost 13% on Thursday, its worst day ever.
-Microsoft maintained positive free cash flow of $18.6 billion, but it's down significantly for a second straight quarter. The company announced plans on Thursday to raise $25 billion in bonds, as it seeks additional sources of funding to help finance its infrastructure expansion.
-"Suddenly, they're like, 'We can't keep funding this on free cash flow,'" Newman said. "The worry is that basically now there's no company that's able to do this using their own business capabilities to create cash flow. It's becoming increasingly alarming."
-Cloud growth remains strong
-Anthropic's hyperscaler partners are also among its biggest investors. The companies all need each other to keep the flywheel turning, a topic that's sure to be a major point of discussion in Anthropic's upcoming roadshow.
-Anthropic didn't immediately respond to a request for comment.
-A big tail wind for Anthropic remains AI demand.
-Microsoft, Google and Amazon all reported cloud growth that topped analysts' estimates, with revenue in Google's business more than doubling from a year earlier. And Oracle, one of the biggest spenders on AI data centers, said at its investor day on Wednesday that it will limit additional fundraising in the coming years to $20 billion, and will turn cash flow positive in the second half of next fiscal year.
-Analysts at Citizens wrote in a Thursday report that the announcement "put the biggest investor fear to rest — that funding its enormous AI infrastructure buildout would require an open-ended increase in debt and equity issuance."
-Attention will now turn back from hyperscaler earnings to Anthropic, as investors assess how much risk they're willing to assume and at what price.
-The IPO market has largely been frozen since SpaceX's record offering in June. Biometric ring maker Oura, Australian AI data center operator Firmus and SK Hynix's U.S.-based Solidigm subsidiary have all recently postponed or abandoned plans to IPO. Nscale, a neocloud that filed to go public in September, hasn't updated its prospectus in weeks, nor has SoftBank's SB Energy.
-With Anthropic, Newman said the FOMO — fear of missing out — on a potentially "generational" company is real, and that the prospectus was "very impressive," showing 1,300% annual sales growth, 900% net revenue retention and an implied gross margin of 85%.
-"Anthropic is the IPO market at this point," Newman said. "I think companies would have to be extremely cautious, if not just foolish, to actually want to come out in this period."
-— CNBC's Jordan Novet, Annie Palmer and Samantha Subin contributed to this report.
-WATCH: Anthropic’s heavy AI spending could hold the key to its profitability: Ark Invest`,
-    bodyJa: `Anthropic picked a tough week to unveil its IPO prospectus.
-Within days of its release, several of the company's key partners, including Microsoft, Google and Amazon, reported quarterly results that added fuel to existing market jitters around the artificial intelligence buildout.
-"Everybody's still full steam ahead on AI, but all the things around it took an interesting turn this week," Daniel Newman, CEO at Futurum Group, told CNBC in an interview on Friday. The hyperscalers' results have "raised eyebrows" and created a new headwind in the market, which is "more doubt on capital structure," he said.
-No matter the current state of the market, Anthropic was going to have to address a skeptical investor base as it pursues a potentially record-setting initial public offering in the coming weeks. In its prospectus on Monday, the AI company disclosed a net loss for the first half of the year of $80 billion, alongside hundreds of billions of dollars' worth of compute commitments and more than 90 pages of risk factors. Investors are still waiting to see Anthropic's third-quarter financials.
-Heading into this week, fears were mounting about the financial health of neoclouds like CoreWeave and Nebius, which are facing rising borrowing costs and a dearth of lenders as they pursue aggressive AI buildouts. Anthropic gets much of its capacity from Amazon, Google and SpaceX, but it also relies on neoclouds for some compute as it races to expand as quickly as possible.
-Now investors are growing increasingly worried about the whole AI trade.
-"It's a great technology, seems to do things that we never would have imagined, but how does that then translate into a viable business?" David Hsu, a professor at the University of Pennsylvania Wharton School, said in an interview.
-The Nasdaq Composite notched its first three-week losing streak since March after plunging 2.9% on Friday. Nvidia, whose graphics processing units have powered the AI boom, traded lower, along with the whole semiconductor sector, after Intel issued a weak forecast, sending its stock to its steepest drop since the 1970s.
-Microsoft, Google and Amazon all had notes of concern this week in their reports. The companies have been on a spending blitz in recent years to meet the surge in demand for AI infrastructure, but all three issued capex figures or forecasts that came in below analysts' estimates. Microsoft lowered its capex forecast for the year to $170 billion from $175 billion, while Alphabet maintained its guidance for up to $205 billion and Amazon reiterated its roughly $220 billion forecast.
-"It's been an ugly reporting season for tech thus far," Jonathan Krinsky, managing director at BTIG, wrote in a Thursday note. He described the fallout as "The Techsas Chainsaw Massacre," adding that there's too much weakness in the sector for the market to ignore.
-Cash is becoming an issue. Amazon reported negative free cash flow for the second consecutive quarter, recording an outflow of $42.4 billion for the trailing 12-month period. Google reported negative free cash flow of $9.1 billion, one reason the stock tanked almost 13% on Thursday, its worst day ever.
-Microsoft maintained positive free cash flow of $18.6 billion, but it's down significantly for a second straight quarter. The company announced plans on Thursday to raise $25 billion in bonds, as it seeks additional sources of funding to help finance its infrastructure expansion.
-"Suddenly, they're like, 'We can't keep funding this on free cash flow,'" Newman said. "The worry is that basically now there's no company that's able to do this using their own business capabilities to create cash flow. It's becoming increasingly alarming."
-Cloud growth remains strong
-Anthropic's hyperscaler partners are also among its biggest investors. The companies all need each other to keep the flywheel turning, a topic that's sure to be a major point of discussion in Anthropic's upcoming roadshow.
-Anthropic didn't immediately respond to a request for comment.
-A big tail wind for Anthropic remains AI demand.
-Microsoft, Google and Amazon all reported cloud growth that topped analysts' estimates, with revenue in Google's business more than doubling from a year earlier. And Oracle, one of the biggest spenders on AI data centers, said at its investor day on Wednesday that it will limit additional fundraising in the coming years to $20 billion, and will turn cash flow positive in the second half of next fiscal year.
-Analysts at Citizens wrote in a Thursday report that the announcement "put the biggest investor fear to rest — that funding its enormous AI infrastructure buildout would require an open-ended increase in debt and equity issuance."
-Attention will now turn back from hyperscaler earnings to Anthropic, as investors assess how much risk they're willing to assume and at what price.
-The IPO market has largely been frozen since SpaceX's record offering in June. Biometric ring maker Oura, Australian AI data center operator Firmus and SK Hynix's U.S.-based Solidigm subsidiary have all recently postponed or abandoned plans to IPO. Nscale, a neocloud that filed to go public in September, hasn't updated its prospectus in weeks, nor has SoftBank's SB Energy.
-With Anthropic, Newman said the FOMO — fear of missing out — on a potentially "generational" company is real, and that the prospectus was "very impressive," showing 1,300% annual sales growth, 900% net revenue retention and an implied gross margin of 85%.
-"Anthropic is the IPO market at this point," Newman said. "I think companies would have to be extremely cautious, if not just foolish, to actually want to come out in this period."
-— CNBC's Jordan Novet, Annie Palmer and Samantha Subin contributed to this report.
-WATCH: Anthropic’s heavy AI spending could hold the key to its profitability: Ark Invest`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
-    publishedAt: "2026-10-31T11:00:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "trump-called-out-big-oil-profits-here-s-2b4316df",
-    title: "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
-    titleJa: "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
-    summaryJa: "Trump criticized Big Oil for making “too much money,” but oil majors have since reported surging refining earnings as fuel supplies tightened.",
-    bodyOriginal: `President Donald Trump scolded Big Oil in August, saying ExxonMobil and Chevron were making "too much money based on a shortage," as profits surged in the wake of the U.S.-Israeli war with Iran.
-Corporate results published this week laid out the windfall oil majors are continuing to get from tight fuel supplies and elevated refining margins amid global conflict.
-Shell, BP, TotalEnergies and Exxon reported sharply higher margins in their refined-products businesses, a gauge of the amount they earn from processing crude oil into gasoline, diesel and jet fuel.
-Chevron does not report a comparable, standalone refining-margin figure, but it reported Friday that its downstream earnings more than quadrupled from a year earlier to $4.9 billion, with the company citing higher margins on refined-product sales.
-That's amid tight supplies of refined fuels and pressure on refinery output globally, despite oil firms reporting this week that they are running their facilities near capacity to try to meet demand.
-Why supply is tight
-Key issues include ongoing Ukrainian drone strikes on Russian refineries and disruptions to Middle East energy infrastructure and supply chains linked to the Iran war and Houthi attacks on Saudi Arabia.
-Those factors have compounded refinery closures in Europe and North America, even as new refining capacity has been added elsewhere.
-Around a quarter of refineries in the European Union have shut over the past two decades, European Commissioner for Energy and Housing Dan Jørgensen said this week, as he warned of a "crisis" of energy security.
-Along with soaring refined product margins, higher crude oil prices have also supported earnings at some integrated oil majors, which operate both upstream oil-and-gas businesses and downstream refining operations.
-Their profits have climbed back toward levels last seen during the energy shock of 2022, following Russia's full-scale invasion of Ukraine.
-The earnings spikes are in sharp contrast to consumers facing higher energy prices.
-Some analysts say political efforts to tackle prices — release of emergency diesel stockpiles and a U.S. deal with Russia to supply more diesel to the global market — may have only a limited impact unless they materially increase available supply, demand weakens or global tensions ease.
-Raphael Portela, director for corporate strategy and analytics at energy consultancy Wood Mackenzie, told CNBC that crude oil barrels were still "getting out of the Gulf" amid the war, but "at a steep freight premium," while "the diesel and jet fuel those barrels would have become largely aren't."
-"Russia's refinery outages and export ban have taken a second slug out of the global pool," he added.
-He listed what would have to happen for the crunch to end: "Product supply coming back, based on greater crude availability to the global refining sector: Gulf refineries restarting and Russian exports returning.
-"A Hormuz settlement would hit margins quickly on sentiment, but with inventories this depleted, the physical tightness carries well into 2027."`,
-    bodyJa: `President Donald Trump scolded Big Oil in August, saying ExxonMobil and Chevron were making "too much money based on a shortage," as profits surged in the wake of the U.S.-Israeli war with Iran.
-Corporate results published this week laid out the windfall oil majors are continuing to get from tight fuel supplies and elevated refining margins amid global conflict.
-Shell, BP, TotalEnergies and Exxon reported sharply higher margins in their refined-products businesses, a gauge of the amount they earn from processing crude oil into gasoline, diesel and jet fuel.
-Chevron does not report a comparable, standalone refining-margin figure, but it reported Friday that its downstream earnings more than quadrupled from a year earlier to $4.9 billion, with the company citing higher margins on refined-product sales.
-That's amid tight supplies of refined fuels and pressure on refinery output globally, despite oil firms reporting this week that they are running their facilities near capacity to try to meet demand.
-Why supply is tight
-Key issues include ongoing Ukrainian drone strikes on Russian refineries and disruptions to Middle East energy infrastructure and supply chains linked to the Iran war and Houthi attacks on Saudi Arabia.
-Those factors have compounded refinery closures in Europe and North America, even as new refining capacity has been added elsewhere.
-Around a quarter of refineries in the European Union have shut over the past two decades, European Commissioner for Energy and Housing Dan Jørgensen said this week, as he warned of a "crisis" of energy security.
-Along with soaring refined product margins, higher crude oil prices have also supported earnings at some integrated oil majors, which operate both upstream oil-and-gas businesses and downstream refining operations.
-Their profits have climbed back toward levels last seen during the energy shock of 2022, following Russia's full-scale invasion of Ukraine.
-The earnings spikes are in sharp contrast to consumers facing higher energy prices.
-Some analysts say political efforts to tackle prices — release of emergency diesel stockpiles and a U.S. deal with Russia to supply more diesel to the global market — may have only a limited impact unless they materially increase available supply, demand weakens or global tensions ease.
-Raphael Portela, director for corporate strategy and analytics at energy consultancy Wood Mackenzie, told CNBC that crude oil barrels were still "getting out of the Gulf" amid the war, but "at a steep freight premium," while "the diesel and jet fuel those barrels would have become largely aren't."
-"Russia's refinery outages and export ban have taken a second slug out of the global pool," he added.
-He listed what would have to happen for the crunch to end: "Product supply coming back, based on greater crude availability to the global refining sector: Gulf refineries restarting and Russian exports returning.
-"A Hormuz settlement would hit margins quickly on sentiment, but with inventories this depleted, the physical tightness carries well into 2027."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
-    publishedAt: "2026-10-31T06:00:02+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 8,
-  },
-  {
-    id: "spain-train-disaster-clouds-s-nchez-chan-58876a32",
-    title: "Spain train disaster clouds Sánchez chances of re-election",
-    titleJa: "Spain train disaster clouds Sánchez chances of re-election",
-    summaryJa: "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
-    bodyOriginal: `Spain train disaster clouds Sánchez chances of re-election
-- Published
-The breaking news from Spain this week was shocking but also shockingly familiar: another collision on the high-speed rail line south from Madrid, with reports of dozens killed.
-It is just nine months since two trains crashed near Cordoba, killing 46 people. Now 69 bodies have been recovered here in central Spain, from wreckage strewn over the tracks and down an embankment.
-For the victims' families it is devastating; a personal tragedy.
-But it is also a national disaster that has shattered confidence in the country's rail network and the Socialist-led government of Pedro Sánchez. It is playing out just weeks before the snap general election he called.
-The formal investigation into the Toledo train disaster has only just been launched but the government has been quick to take control of the narrative.
-From the first hours after the collision, Transport Minister Oscar Puente began suggesting "human error" was to blame, batting responsibility as far as possible from the cabinet.
-On Friday, he appeared before the press for a second time to set out what he called the "objective facts" of the crash and counter a surge of criticism against the government.
-The opposition People's Party (PP) is among those calling for his resignation as a "moral" and "ethical" move.
-Instead after expressing "huge pain and sadness" for the victims, Puente went on the offensive.
-He rejected talk of chronic underinvestment in infrastructure and insisted that Spain's high-speed signalling safety system, the LZB, was neither old nor inadequate: Germany and Austria use the same.
-In Spain, it has already failed 170 times so far this year, he revealed, but called that "normal" and around the EU average.
-The problem surrounds what happens next - when the system fails and control of the line shifts to manual.
-In this case, the minister highlighted a series of human errors that proved catastrophic.
-Crucially, at one point a controller instructed a stalled train to restart, clearing it to advance at up to 160km/h (100 mph) even though a second train was stuck on the line up ahead.
-The impending collision was clear from audio calls and on big screens in the control centre in Madrid.
-"They worked. We checked. They could see what was happening," Puente confirmed. But the advancing train was never ordered to stop.
-"I'm no judge... But these are the facts."
-So would he take personal and political responsibility anyway, and resign? Puente called it his "duty", rather, to remain as minister.
-"I'll face up to things, explain, elucidate," he countered. "I'll think how to improve the system, and give confidence to those who want to travel by train and feel calm and safe."
-But Spaniards will take a lot of persuading.
-"This is not only a very serious accident, but the second in a very short time," Paco Camas of the pollster Ipsos points out.
-An investigation into January's crash in Adamuz, near Cordoba, is still open, with initial reports suggesting there was a crack in the rails - very different to the latest collision.
-But there is a similar impact.
-"It destroys people's confidence not only in the railways but institutions in general," Camas warns. "And in Spain when such things happen, we know that people blame their government."
-For Team Sánchez it is the latest in a spiral of crises.
-Allegations of corruption against the prime minister's close relatives still persist, all denied.
-Then there was a sudden influx of migrants from Morocco this summer to the Spanish exclave of Ceuta. That got right-wing opponents shouting about incompetence and underfunding.
-Later, a video of a pensioner being forcibly evicted from her home went viral and sparked street protests.
-That's when Sánchez called an early election.
-His chances of winning the vote looked slim even before the train crash. Now they have plummeted.
-Most recent polls showed the centre-right PP coming first and forming a coalition with the far-right Vox.
-"They have this majority in almost 95% of the simulations we have done," Prof Pablo Simon of Madrid's Carlos III University explains.
-But Sánchez had been running a positive campaign, trying to lure apathetic voters to the polls to vote socialist.
-Suddenly, the tone has changed.
-"They've totally lost control of the agenda and the emotion of this campaign," Simon says. "It's going to be extremely difficult now. There is this general mood of decay, of a country that's not working properly. A depression."
-There is also anger.
-There have already been small protests over the train crash led by far-right groups in Madrid and large numbers of police are on stand-by this weekend ahead of further potential clashes, organised online.
-Here in Toledo, the mood is nervous.
-"We all travelled in silence and really sad," Paloma told me at the city station, where she had just pulled in on a half empty train.
-She admitted she's scared of the high-speed network now and angry at the government.
-"This crash will change all of our votes, completely," Paloma said. "We'll shift from the left wing to the right. Because of everything that's happened."
-Lucia takes the high-speed AVE into Madrid each day, and is scared too.
-"This was human error. But there's been two accidents now with more than 100 dead," she says. "Things here are really bad. They have to change."
-Producer Davide Ghiglione contributed to this report
-Related topics
-- Published21 hours ago`,
-    bodyJa: `Spain train disaster clouds Sánchez chances of re-election
-- Published
-The breaking news from Spain this week was shocking but also shockingly familiar: another collision on the high-speed rail line south from Madrid, with reports of dozens killed.
-It is just nine months since two trains crashed near Cordoba, killing 46 people. Now 69 bodies have been recovered here in central Spain, from wreckage strewn over the tracks and down an embankment.
-For the victims' families it is devastating; a personal tragedy.
-But it is also a national disaster that has shattered confidence in the country's rail network and the Socialist-led government of Pedro Sánchez. It is playing out just weeks before the snap general election he called.
-The formal investigation into the Toledo train disaster has only just been launched but the government has been quick to take control of the narrative.
-From the first hours after the collision, Transport Minister Oscar Puente began suggesting "human error" was to blame, batting responsibility as far as possible from the cabinet.
-On Friday, he appeared before the press for a second time to set out what he called the "objective facts" of the crash and counter a surge of criticism against the government.
-The opposition People's Party (PP) is among those calling for his resignation as a "moral" and "ethical" move.
-Instead after expressing "huge pain and sadness" for the victims, Puente went on the offensive.
-He rejected talk of chronic underinvestment in infrastructure and insisted that Spain's high-speed signalling safety system, the LZB, was neither old nor inadequate: Germany and Austria use the same.
-In Spain, it has already failed 170 times so far this year, he revealed, but called that "normal" and around the EU average.
-The problem surrounds what happens next - when the system fails and control of the line shifts to manual.
-In this case, the minister highlighted a series of human errors that proved catastrophic.
-Crucially, at one point a controller instructed a stalled train to restart, clearing it to advance at up to 160km/h (100 mph) even though a second train was stuck on the line up ahead.
-The impending collision was clear from audio calls and on big screens in the control centre in Madrid.
-"They worked. We checked. They could see what was happening," Puente confirmed. But the advancing train was never ordered to stop.
-"I'm no judge... But these are the facts."
-So would he take personal and political responsibility anyway, and resign? Puente called it his "duty", rather, to remain as minister.
-"I'll face up to things, explain, elucidate," he countered. "I'll think how to improve the system, and give confidence to those who want to travel by train and feel calm and safe."
-But Spaniards will take a lot of persuading.
-"This is not only a very serious accident, but the second in a very short time," Paco Camas of the pollster Ipsos points out.
-An investigation into January's crash in Adamuz, near Cordoba, is still open, with initial reports suggesting there was a crack in the rails - very different to the latest collision.
-But there is a similar impact.
-"It destroys people's confidence not only in the railways but institutions in general," Camas warns. "And in Spain when such things happen, we know that people blame their government."
-For Team Sánchez it is the latest in a spiral of crises.
-Allegations of corruption against the prime minister's close relatives still persist, all denied.
-Then there was a sudden influx of migrants from Morocco this summer to the Spanish exclave of Ceuta. That got right-wing opponents shouting about incompetence and underfunding.
-Later, a video of a pensioner being forcibly evicted from her home went viral and sparked street protests.
-That's when Sánchez called an early election.
-His chances of winning the vote looked slim even before the train crash. Now they have plummeted.
-Most recent polls showed the centre-right PP coming first and forming a coalition with the far-right Vox.
-"They have this majority in almost 95% of the simulations we have done," Prof Pablo Simon of Madrid's Carlos III University explains.
-But Sánchez had been running a positive campaign, trying to lure apathetic voters to the polls to vote socialist.
-Suddenly, the tone has changed.
-"They've totally lost control of the agenda and the emotion of this campaign," Simon says. "It's going to be extremely difficult now. There is this general mood of decay, of a country that's not working properly. A depression."
-There is also anger.
-There have already been small protests over the train crash led by far-right groups in Madrid and large numbers of police are on stand-by this weekend ahead of further potential clashes, organised online.
-Here in Toledo, the mood is nervous.
-"We all travelled in silence and really sad," Paloma told me at the city station, where she had just pulled in on a half empty train.
-She admitted she's scared of the high-speed network now and angry at the government.
-"This crash will change all of our votes, completely," Paloma said. "We'll shift from the left wing to the right. Because of everything that's happened."
-Lucia takes the high-speed AVE into Madrid each day, and is scared too.
-"This was human error. But there's been two accidents now with more than 100 dead," she says. "Things here are really bad. They have to change."
-Producer Davide Ghiglione contributed to this report
-Related topics
-- Published21 hours ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-31T05:44:21+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a970/live/20e78ee0-d4ed-11f1-93e1-3b657b665bcf.jpg",
-    readTime: 10,
   },
 ];
 
