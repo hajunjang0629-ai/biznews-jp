@@ -15,6 +15,364 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "apple-s-iphone-business-is-booming-here-c5adf90a",
+    title: "Apple’s iPhone business is booming. Here’s why the stock is falling anyway.",
+    titleJa: "Apple’s iPhone business is booming. Here’s why the stock is falling anyway.",
+    summaryJa: "Although iPhone demand remains strong, Apple faces a worsening memory crunch and a slowing services business.",
+    bodyOriginal: `Although iPhone demand remains strong, Apple faces a worsening memory crunch and a slowing services business.`,
+    bodyJa: `Although iPhone demand remains strong, Apple faces a worsening memory crunch and a slowing services business.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/apples-iphone-business-is-booming-heres-why-the-stock-is-falling-anyway-07de9fff?mod=mw_rss_topstories",
+    publishedAt: "2026-11-03T00:52:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-87586292",
+    readTime: 2,
+  },
+  {
+    id: "from-scooters-to-shampoo-the-people-savi-c8bd78b9",
+    title: "From scooters to shampoo - the people saving hundreds from dumpster diving",
+    titleJa: "From scooters to shampoo - the people saving hundreds from dumpster diving",
+    summaryJa: "The men and women who rummage through commercial bins to take clothes and other items.",
+    bodyOriginal: `From scooters to shampoo - the people saving hundreds from dumpster diving
+- Published
+Darryl Baker was shocked to see piles of clothes dumped beside the recycling bins outside her local supermarket.
+On several trips to the dumpsters she has also found a host of other items, such as "a perfectly decent" Ikea picture frame and children's scooters.
+Always on the lookout for ways to save money and appalled by the waste, the thrifty mother-of-two from north London asked supermarket staff if she could take some of it.
+Permission granted, "I got my children entire new wardrobes," says Darryl, 39, adding that she's stuff put away for years to come.
+During a six-month stint this year, "I have probably saved hundreds of pounds," says the freelance journalist.
+Darryl reels off the names of brands she has salvaged - Ralph Lauren, Nike and The North Face, among others. "My mind was blown," she says. "This stuff is just strewn all over the floor."
+In addition to finding clothing for her children and her nephews and nieces, she keeps some for herself. Others she donates or sells, including recently getting £30 for a men's Barbour jacket.
+Darryl has joined the ranks of so-called dumpster divers – people who rummage through commercial bins for treasures. Motivations include saving money, giving items to charity and disgust at how often perfectly usable items are being consigned to waste - or a combination of all three.
+'I'm a bit of a Robin Hood'
+Texan Jeff Ferrell has been rooting around in trash for more than 50 years.
+"I still dumpster dive every day by bicycle," says the 72-year old, who lives in Fort Worth, and has written books on the topic. "I still enjoy it as much, or more, than ever."
+Jeff considers himself a "bit of Robin Hood mixed with anarchist direct action", only scrounging in more affluent neighbourhoods and giving away many of his finds.
+"Almost everything in our home is scrounged, and I never buy, for example, soap or toiletries or medical supplies, or shoes and clothes and tools and garden supplies," he says.
+Jeff looks for discarded metal to sell at a scrapyard which, he says, earns him around $150 (£110) every two weeks. His wife sells his other finds, such as "an antique or piece of jewellery", on eBay.
+Through savings and selling the more valuable items, he estimates his finds are worth "tens of thousands of dollars a year".
+'If something catches my eye, I'll grab it'
+While dumpster diving may have been considered taboo in the past, it's now something many people are proud to do and post about online.
+Millie Diamond, a London-based stylist, posts videos on TikTok of her rummaging through bins. But she has a very specific aim - to unearth fabrics and clothing that she can salvage and refashion into new items, some of which she then sells.
+She estimates that one dress she found was worth £600.
+"I'm a bit of a magpie. I like collecting things off the street or anywhere that there's a freebie. If I see something that catches my eye, then I'll grab it."
+Millie, 36, began bin diving after spotting some fabrics discarded by a business that had shut down. "I literally clambered into the bin. It turned out it was loads of vintage clothes."
+'I haven't bought shampoo for years'
+For Charlotte Bayford in Essex it's all about timing. Her best finds come when students at Essex University head home for the summer and ditch anything they don't want to take with them.
+This includes half-filled toiletries. "I haven't bought shampoo for eight years," says the 44-year-old sales assistant. "I'd say that has saved me some money."
+Like other dumpster divers, Charlotte gives a lot of her finds to charity. But she has also filled her house with salvaged objects, and sells on some valuable items.
+Food, as long as it remains sealed, is fair game too. "I've found tins of Heinz baked beans, perfectly fine. I'm quite happy to eat those," Charlotte says.
+But is taking things out of bins and keeping them acceptable in the eyes of the law?
+Jeff, who is professor emeritus of sociology at Texas Christian University, says many US cities have made the practice illegal, including New York, Cleveland and Wichita.
+"Dumpster diving is considered illegal [in such places] because that which is thrown away now belongs to the city... or to the private company that provided trash services," he explains. Any dumpster diver also risks trespass charges.
+In Fort Worth, where Jeff lives, items can only be removed from bins if they are on public land, external.
+In the UK, Sunjay Versani of Duncan Lewis Solicitors says it depends on the circumstances.
+"In many cases involving genuinely discarded goods, prosecution is unlikely," he says.
+"But there is no general rule that something is free to take simply because it has been put in a skip or bin. If in doubt, the safest approach is to ask the owner or business for permission."
+- Published4 days ago
+- Published13 October
+- Published29 September`,
+    bodyJa: `From scooters to shampoo - the people saving hundreds from dumpster diving
+- Published
+Darryl Baker was shocked to see piles of clothes dumped beside the recycling bins outside her local supermarket.
+On several trips to the dumpsters she has also found a host of other items, such as "a perfectly decent" Ikea picture frame and children's scooters.
+Always on the lookout for ways to save money and appalled by the waste, the thrifty mother-of-two from north London asked supermarket staff if she could take some of it.
+Permission granted, "I got my children entire new wardrobes," says Darryl, 39, adding that she's stuff put away for years to come.
+During a six-month stint this year, "I have probably saved hundreds of pounds," says the freelance journalist.
+Darryl reels off the names of brands she has salvaged - Ralph Lauren, Nike and The North Face, among others. "My mind was blown," she says. "This stuff is just strewn all over the floor."
+In addition to finding clothing for her children and her nephews and nieces, she keeps some for herself. Others she donates or sells, including recently getting £30 for a men's Barbour jacket.
+Darryl has joined the ranks of so-called dumpster divers – people who rummage through commercial bins for treasures. Motivations include saving money, giving items to charity and disgust at how often perfectly usable items are being consigned to waste - or a combination of all three.
+'I'm a bit of a Robin Hood'
+Texan Jeff Ferrell has been rooting around in trash for more than 50 years.
+"I still dumpster dive every day by bicycle," says the 72-year old, who lives in Fort Worth, and has written books on the topic. "I still enjoy it as much, or more, than ever."
+Jeff considers himself a "bit of Robin Hood mixed with anarchist direct action", only scrounging in more affluent neighbourhoods and giving away many of his finds.
+"Almost everything in our home is scrounged, and I never buy, for example, soap or toiletries or medical supplies, or shoes and clothes and tools and garden supplies," he says.
+Jeff looks for discarded metal to sell at a scrapyard which, he says, earns him around $150 (£110) every two weeks. His wife sells his other finds, such as "an antique or piece of jewellery", on eBay.
+Through savings and selling the more valuable items, he estimates his finds are worth "tens of thousands of dollars a year".
+'If something catches my eye, I'll grab it'
+While dumpster diving may have been considered taboo in the past, it's now something many people are proud to do and post about online.
+Millie Diamond, a London-based stylist, posts videos on TikTok of her rummaging through bins. But she has a very specific aim - to unearth fabrics and clothing that she can salvage and refashion into new items, some of which she then sells.
+She estimates that one dress she found was worth £600.
+"I'm a bit of a magpie. I like collecting things off the street or anywhere that there's a freebie. If I see something that catches my eye, then I'll grab it."
+Millie, 36, began bin diving after spotting some fabrics discarded by a business that had shut down. "I literally clambered into the bin. It turned out it was loads of vintage clothes."
+'I haven't bought shampoo for years'
+For Charlotte Bayford in Essex it's all about timing. Her best finds come when students at Essex University head home for the summer and ditch anything they don't want to take with them.
+This includes half-filled toiletries. "I haven't bought shampoo for eight years," says the 44-year-old sales assistant. "I'd say that has saved me some money."
+Like other dumpster divers, Charlotte gives a lot of her finds to charity. But she has also filled her house with salvaged objects, and sells on some valuable items.
+Food, as long as it remains sealed, is fair game too. "I've found tins of Heinz baked beans, perfectly fine. I'm quite happy to eat those," Charlotte says.
+But is taking things out of bins and keeping them acceptable in the eyes of the law?
+Jeff, who is professor emeritus of sociology at Texas Christian University, says many US cities have made the practice illegal, including New York, Cleveland and Wichita.
+"Dumpster diving is considered illegal [in such places] because that which is thrown away now belongs to the city... or to the private company that provided trash services," he explains. Any dumpster diver also risks trespass charges.
+In Fort Worth, where Jeff lives, items can only be removed from bins if they are on public land, external.
+In the UK, Sunjay Versani of Duncan Lewis Solicitors says it depends on the circumstances.
+"In many cases involving genuinely discarded goods, prosecution is unlikely," he says.
+"But there is no general rule that something is free to take simply because it has been put in a skip or bin. If in doubt, the safest approach is to ask the owner or business for permission."
+- Published4 days ago
+- Published13 October
+- Published29 September`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-03T00:41:36+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fcb/live/1bb38aa0-d6d7-11f1-b441-2b33b063138f.jpg",
+    readTime: 10,
+  },
+  {
+    id: "apple-unsure-when-more-foldable-iphones-e63da366",
+    title: "Apple unsure when more foldable iPhones will be available after selling out",
+    titleJa: "Apple unsure when more foldable iPhones will be available after selling out",
+    summaryJa: "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
+    bodyOriginal: `Apple unsure when more foldable iPhones will be available after selling out
+- Published
+The new head of Apple says the company is working to get its new foldable iPhones available to more people after the $1,999 smartphone quickly sold out when it was released just over a week ago.
+John Ternus, who in September took over the role as Apple's chief executive from Tim Cook, said on Monday that he was "thrilled" at the early reaction to the iPhone Duo.
+While the costly phone, which sells for £1,999 in the UK, immediately sold out, some buyers have seen their screens crack.
+The phones are still in high demand and Sabhi Kahn, Apple's new chief operating officer, said the technology giant did not know when more Duos would be available.
+"At this time, it's really hard to predict when supply and demand will be in balance," Kahn said during a call with financial analysts to discuss Apple's latest financial results.
+Apple executives did not mention during the call any issues with the iPhone Duo. But last week, the company said it would replace any phones that were impacted by an issue that caused a "small number" of the new phones to crack along the inside fold.
+Nevertheless, Apple said on Monday that over the last year it sold more iPhones globally than it ever has before.
+During the three months to 26 September, which did not include sales of the iPhone Duo that went on sale toward the end of October, Apple saw iPhone sales rise 17% to $57bn.
+Apple has boasted throughout the year that iPhone sales have been surging, despite the company's warnings that crucial components for the device, along with Mac computers and iPads, were constrained to the point of weighing down sales.
+Sales of Mac computers also grew during the quarter by 27%, hitting $10.7bn, another record for Apple.
+Overall sales at the company rose by 15% for the year, to $479bn.
+However, sales for both the iPad and Apple's wearable products, including its headphones and Watch fell by 10% and 7%, respectively.
+Kahn noted during the call that most Apple devices are still seeing supply constraints driven in part by difficulty in getting enough microprocessors with "advanced nodes."
+Those components are essentially computer chip technology that allows Apple's devices to operate more quickly, most of which Apple has manufactured through TSMC, which is based in Taiwan.
+Khan said that such supply constraints are expected to continue into next year, particularly impacting iPads and Macs. The situation has been made worse by what the company has repeatedly insisted is "unexpected demand" for its products.
+Ternus noted, too, that Apple is still seeing "unprecedented" cost increases for memory, or the ability of Apple devices to store data like apps, photos, and text messages.
+Much of that memory storage runs through data centres which have seen a huge boom in demand for space as artificial intelligence (AI) chatbots and platforms, including those developed by OpenAI and Anthropic, have become popular.
+As demand for memory has grown, storage prices have gone up for tech companies like Apple.
+Cook had earlier this year referred to the sudden increase in data centre costs that Apple was seeing as a "thousand year flood."
+It has led to the company raising prices on essentially all of its hardware products by around 20%.`,
+    bodyJa: `Apple unsure when more foldable iPhones will be available after selling out
+- Published
+The new head of Apple says the company is working to get its new foldable iPhones available to more people after the $1,999 smartphone quickly sold out when it was released just over a week ago.
+John Ternus, who in September took over the role as Apple's chief executive from Tim Cook, said on Monday that he was "thrilled" at the early reaction to the iPhone Duo.
+While the costly phone, which sells for £1,999 in the UK, immediately sold out, some buyers have seen their screens crack.
+The phones are still in high demand and Sabhi Kahn, Apple's new chief operating officer, said the technology giant did not know when more Duos would be available.
+"At this time, it's really hard to predict when supply and demand will be in balance," Kahn said during a call with financial analysts to discuss Apple's latest financial results.
+Apple executives did not mention during the call any issues with the iPhone Duo. But last week, the company said it would replace any phones that were impacted by an issue that caused a "small number" of the new phones to crack along the inside fold.
+Nevertheless, Apple said on Monday that over the last year it sold more iPhones globally than it ever has before.
+During the three months to 26 September, which did not include sales of the iPhone Duo that went on sale toward the end of October, Apple saw iPhone sales rise 17% to $57bn.
+Apple has boasted throughout the year that iPhone sales have been surging, despite the company's warnings that crucial components for the device, along with Mac computers and iPads, were constrained to the point of weighing down sales.
+Sales of Mac computers also grew during the quarter by 27%, hitting $10.7bn, another record for Apple.
+Overall sales at the company rose by 15% for the year, to $479bn.
+However, sales for both the iPad and Apple's wearable products, including its headphones and Watch fell by 10% and 7%, respectively.
+Kahn noted during the call that most Apple devices are still seeing supply constraints driven in part by difficulty in getting enough microprocessors with "advanced nodes."
+Those components are essentially computer chip technology that allows Apple's devices to operate more quickly, most of which Apple has manufactured through TSMC, which is based in Taiwan.
+Khan said that such supply constraints are expected to continue into next year, particularly impacting iPads and Macs. The situation has been made worse by what the company has repeatedly insisted is "unexpected demand" for its products.
+Ternus noted, too, that Apple is still seeing "unprecedented" cost increases for memory, or the ability of Apple devices to store data like apps, photos, and text messages.
+Much of that memory storage runs through data centres which have seen a huge boom in demand for space as artificial intelligence (AI) chatbots and platforms, including those developed by OpenAI and Anthropic, have become popular.
+As demand for memory has grown, storage prices have gone up for tech companies like Apple.
+Cook had earlier this year referred to the sudden increase in data centre costs that Apple was seeing as a "thousand year flood."
+It has led to the company raising prices on essentially all of its hardware products by around 20%.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-03T00:29:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b2b/live/05d33ff0-d71d-11f1-b723-458a2ded4fa2.jpg",
+    readTime: 8,
+  },
+  {
+    id: "supreme-court-rejects-doj-s-bid-to-block-f5dc1c23",
+    title: "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
+    titleJa: "Supreme Court rejects DOJ's bid to block California from counting disputed ballots",
+    summaryJa: "The Department of Justice's request to the Supreme Court in the California case came as it appeals dismissal of a lawsuit over Alaska's Senate election.",
+    bodyOriginal: `The Supreme Court, in an order Monday evening, denied the Department of Justice's last-minute request to temporarily block California from counting mail-in ballots from about 20,000 voters who it suggested may not be U.S. citizens.
+The one-sentence order came hours after the DOJ sought the injunction, and on the eve of Election Day.
+The Supreme Court did not explain its reason for the denial, which had no noted dissents. The order came after Justice Elena Kagan presented the DOJ's request to the full court, which did not seek a response from California officials before issuing the decision.
+The swift ruling is yet another courtroom blow to the Trump administration, which is engaged in multiple other legal fights related to the midterm elections.
+Those contests will determine which political party holds majorities in the House and Senate. Pollsters and analysts widely predict Democrats will make significant gains.
+The DOJ's application to the Supreme Court came three days after the 9th Circuit U.S. Court of Appeals rejected the department's attempt to overturn a federal district court judge's ruling that allowed the California ballots to be counted.
+That same day, another federal district judge in a separate case in California barred DOJ from threatening election workers with criminal prosecution for refusing to stop processing ballots or resisting other demands.
+During a hearing Monday in that second case, a DOJ lawyer admitted to Judge Trina Thompson that the lists of purported noncitizens on California's voter rolls had a "high error rate," MS NOW reported. But that lawyer also argued the errors are evidence of why election officials need to examine those rolls and make sure that everyone on them is a U.S. citizen.
+Solicitor General D. John Sauer, in his application to the Supreme Court on Monday morning, said, "In this case, this Office has been informed that the United States has identified more than 20,000 individuals who appear to be registered to vote in California based on publicly available information at the time that information was received, but who, in the United States' view, are likely not U.S. citizens."
+Sauer said "the United States is likely to succeed on the merits of its appeal" of the lower court ruling denying the DOJ's request.
+"The district court concluded that the United States lacks Article III standing to bring this suit, but the United States suffers a judicially cognizable 'injury to its sovereignty' from the 'violation of its laws,'" Sauer said in the petition. "Once California commingles the challenged ballots with lawful ones, there is no way to get the challenged ballots back."
+The DOJ sued California on Oct. 15 in U.S. District Court in Los Angeles. The complaint sought to prevent state election officials from tabulating mail-in ballots "from likely non-citizens in the upcoming federal election until the voter's citizenship status can be determined."
+The DOJ previously gave Los Angeles County officials a thumb drive containing names of voters the department suggested could be noncitizens, who by law are barred from voting in federal elections.
+Last Wednesday, Judge David Carter denied the DOJ's request that he order California officials to set aside mail ballots from alleged noncitizens named on a list prepared by the Department of Homeland Security, and not count their votes until their citizenship is confirmed.
+"This case is about the right of every American citizen to vote in a free and fair election," Carter said in his ruling.
+"Never before in American history has the federal government, on the eve of an election, sought to coerce a state and local government to abandon their own Constitutional elections procedures and bend to the will of the Executive Branch," Carter wrote.
+"In bringing this lawsuit, the Executive would have this Court believe that it reigns as a sole sovereign. But California and its people are sovereign, too."
+The DOJ then appealed that ruling to the 9th Circuit. A three-judge panel on that court denied the appeal in a 2-1 ruling on Friday
+"There is a material risk that granting the United States its requested relief would result in disenfranchisement," said the ruling by the majority, Circuit Judges Mark Bennett and Gabriel Sanchez. Bennett was appointed by President Donald Trump, and Sanchez was appointed by former President Joe Biden.
+On Sunday, a federal judge dismissed a DOJ lawsuit that sought to block Alaska election officials from immediately certifying the result of the U.S. Senate election there if incumbent Republican Sen. Dan Sullivan loses that race by a margin that could be attributable to voter confusion about another candidate with his name.
+The DOJ is appealing that ruling.`,
+    bodyJa: `The Supreme Court, in an order Monday evening, denied the Department of Justice's last-minute request to temporarily block California from counting mail-in ballots from about 20,000 voters who it suggested may not be U.S. citizens.
+The one-sentence order came hours after the DOJ sought the injunction, and on the eve of Election Day.
+The Supreme Court did not explain its reason for the denial, which had no noted dissents. The order came after Justice Elena Kagan presented the DOJ's request to the full court, which did not seek a response from California officials before issuing the decision.
+The swift ruling is yet another courtroom blow to the Trump administration, which is engaged in multiple other legal fights related to the midterm elections.
+Those contests will determine which political party holds majorities in the House and Senate. Pollsters and analysts widely predict Democrats will make significant gains.
+The DOJ's application to the Supreme Court came three days after the 9th Circuit U.S. Court of Appeals rejected the department's attempt to overturn a federal district court judge's ruling that allowed the California ballots to be counted.
+That same day, another federal district judge in a separate case in California barred DOJ from threatening election workers with criminal prosecution for refusing to stop processing ballots or resisting other demands.
+During a hearing Monday in that second case, a DOJ lawyer admitted to Judge Trina Thompson that the lists of purported noncitizens on California's voter rolls had a "high error rate," MS NOW reported. But that lawyer also argued the errors are evidence of why election officials need to examine those rolls and make sure that everyone on them is a U.S. citizen.
+Solicitor General D. John Sauer, in his application to the Supreme Court on Monday morning, said, "In this case, this Office has been informed that the United States has identified more than 20,000 individuals who appear to be registered to vote in California based on publicly available information at the time that information was received, but who, in the United States' view, are likely not U.S. citizens."
+Sauer said "the United States is likely to succeed on the merits of its appeal" of the lower court ruling denying the DOJ's request.
+"The district court concluded that the United States lacks Article III standing to bring this suit, but the United States suffers a judicially cognizable 'injury to its sovereignty' from the 'violation of its laws,'" Sauer said in the petition. "Once California commingles the challenged ballots with lawful ones, there is no way to get the challenged ballots back."
+The DOJ sued California on Oct. 15 in U.S. District Court in Los Angeles. The complaint sought to prevent state election officials from tabulating mail-in ballots "from likely non-citizens in the upcoming federal election until the voter's citizenship status can be determined."
+The DOJ previously gave Los Angeles County officials a thumb drive containing names of voters the department suggested could be noncitizens, who by law are barred from voting in federal elections.
+Last Wednesday, Judge David Carter denied the DOJ's request that he order California officials to set aside mail ballots from alleged noncitizens named on a list prepared by the Department of Homeland Security, and not count their votes until their citizenship is confirmed.
+"This case is about the right of every American citizen to vote in a free and fair election," Carter said in his ruling.
+"Never before in American history has the federal government, on the eve of an election, sought to coerce a state and local government to abandon their own Constitutional elections procedures and bend to the will of the Executive Branch," Carter wrote.
+"In bringing this lawsuit, the Executive would have this Court believe that it reigns as a sole sovereign. But California and its people are sovereign, too."
+The DOJ then appealed that ruling to the 9th Circuit. A three-judge panel on that court denied the appeal in a 2-1 ruling on Friday
+"There is a material risk that granting the United States its requested relief would result in disenfranchisement," said the ruling by the majority, Circuit Judges Mark Bennett and Gabriel Sanchez. Bennett was appointed by President Donald Trump, and Sanchez was appointed by former President Joe Biden.
+On Sunday, a federal judge dismissed a DOJ lawsuit that sought to block Alaska election officials from immediately certifying the result of the U.S. Senate election there if incumbent Republican Sen. Dan Sullivan loses that race by a margin that could be attributable to voter confusion about another candidate with his name.
+The DOJ is appealing that ruling.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/02/supreme-court-california-mail-ballots-election.html",
+    publishedAt: "2026-11-02T23:48:28+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "marvell-and-lumentum-shareholders-unite-41d1bb09",
+    title: "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’",
+    titleJa: "Marvell and Lumentum shareholders unite in panning merger deal: ‘It’s a trash offer’",
+    summaryJa: "Shares of both companies fell Monday after Marvell said it reached an all-stock agreement to buy Lumentum.",
+    bodyOriginal: `Shares of both companies fell Monday after Marvell said it reached an all-stock agreement to buy Lumentum.`,
+    bodyJa: `Shares of both companies fell Monday after Marvell said it reached an all-stock agreement to buy Lumentum.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/marvell-and-lumentum-shareholders-unite-in-panning-merger-deal-its-a-trash-offer-53a9f307?mod=mw_rss_topstories",
+    publishedAt: "2026-11-02T23:39:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-759206",
+    readTime: 2,
+  },
+  {
+    id: "stock-market-after-midterm-elections-wha-1dcf07dd",
+    title: "Stock market after midterm elections: What S&P 500 history shows",
+    titleJa: "Stock market after midterm elections: What S&P 500 history shows",
+    summaryJa: "Midterms historically precede a strong year for the S&amp;P 500. What to know if Democrats win back Congress",
+    bodyOriginal: `Markets are sweating it out ahead of the midterm elections, but the event historically heralds strong performance for stocks — regardless of whether it's a red or blue wave, split decision, or status quo in Washington.
+The S&P 500 tends to perform well after both midterm and presidential elections. According to a CNBC analysis of S&P 500 returns after elections from 1980 through 2024, the index rose an average of 0.2% after one day and one week, and 1.1% after one month across both presidential and midterm elections.
+A year later, the index gained an average of 13.7% after midterms and 13.8% after presidential elections. Returns were positive in 91% of cases. And the S&P 500 was up after all 11 midterms from 1982 through 2022.
+Short-term returns were less reliable, particularly after presidential contests, which produced slightly negative average returns after one day and one week.
+"There's some anxiousness before these elections," Ryan Detrick, CNBC contributor and chief market strategist at Carson Group, told CNBC. "Once you are through it, it's a big relief and markets tend to do pretty well."
+Markets prefer gridlock
+Still, the market usually prefers divided government: one party in charge of the White House and the other holding at least one house of Congress.
+Across 10 midterm and five presidential elections that left no single party in charge, the S&P 500 rose an average 15% after one year. One-year returns were positive in 14 out of 15 cases. By comparison, the index gained an average of 11.5% over the year after elections that resulted in single-party control.
+"If you have a huge red wave or a big blue wave, markets actually kind of don't like that as much because you have too much spending one way and too much power," Detrick said.
+Leaving Democrats in control of Congress with a Republican in the White House — a scenario that may emerge from the elections on Tuesday — was also positive. A CNBC analysis found that after the three midterms (1986, 1990 and 2006) when Democrats controlled both houses and a Republican held the presidency, the S&P 500 averaged a 0.5% decline on the reaction day but was up 3.4% a month later and 10.9% after a year.
+Granted, elections may be coincident events to factors that matter far more for market performance.
+The S&P 500 plunged 22.1% in the year after the 2000 elections due to the dotcom bust, marking the worst post-election performance since 1980. Conversely, the S&P 500's best post-election year was a 38.3% gain after the 2020 elections, when markets mounted a massive comeback from the COVID-induced selloff.
+Investors should bear in mind that Federal Reserve policy and the corporate earnings cycle ultimately matter more than elections, according to Société Générale.
+Stocks declined in the aftermath of the 2018 midterms, for instance, when Democrats wrested control of the House during President Donald Trump's first term. More importantly, the Fed tightened monetary policy that year, raising interest rates four times, and the S&P 500 ended the year down 6.2%, though the market was up 11.7% a year after the election.
+The big swing factor now is AI and whether declines in tech will continue. As long as the AI wave is still moving and the economy keeps growing, "this bull market is probably still alive and well," Detrick says.
+But a Democratic sweep of the House and Senate would almost certainly pressure the AI infrastructure buildout and could lead to more retrenchment.
+The bond market is also skittish with yields rising globally and a mini debt crisis in France. And the war with Iran could get worse post-election if President Trump follows through on threats of more strikes or Iran escalates.
+"Seasonality isn't destiny, and worries around Iran, AI and France won't mysteriously vanish," said Jim Reid, Deutsche Bank's global head of macro and thematic research, in a note.
+If history is any guide, we could see a Santa rally and S&P 500 gains after the midterms. But this is still an AI-driven market, with geopolitics, the Fed, and bond market very much in charge.
+— CNBC's Chris Hayes contributed reporting.`,
+    bodyJa: `Markets are sweating it out ahead of the midterm elections, but the event historically heralds strong performance for stocks — regardless of whether it's a red or blue wave, split decision, or status quo in Washington.
+The S&P 500 tends to perform well after both midterm and presidential elections. According to a CNBC analysis of S&P 500 returns after elections from 1980 through 2024, the index rose an average of 0.2% after one day and one week, and 1.1% after one month across both presidential and midterm elections.
+A year later, the index gained an average of 13.7% after midterms and 13.8% after presidential elections. Returns were positive in 91% of cases. And the S&P 500 was up after all 11 midterms from 1982 through 2022.
+Short-term returns were less reliable, particularly after presidential contests, which produced slightly negative average returns after one day and one week.
+"There's some anxiousness before these elections," Ryan Detrick, CNBC contributor and chief market strategist at Carson Group, told CNBC. "Once you are through it, it's a big relief and markets tend to do pretty well."
+Markets prefer gridlock
+Still, the market usually prefers divided government: one party in charge of the White House and the other holding at least one house of Congress.
+Across 10 midterm and five presidential elections that left no single party in charge, the S&P 500 rose an average 15% after one year. One-year returns were positive in 14 out of 15 cases. By comparison, the index gained an average of 11.5% over the year after elections that resulted in single-party control.
+"If you have a huge red wave or a big blue wave, markets actually kind of don't like that as much because you have too much spending one way and too much power," Detrick said.
+Leaving Democrats in control of Congress with a Republican in the White House — a scenario that may emerge from the elections on Tuesday — was also positive. A CNBC analysis found that after the three midterms (1986, 1990 and 2006) when Democrats controlled both houses and a Republican held the presidency, the S&P 500 averaged a 0.5% decline on the reaction day but was up 3.4% a month later and 10.9% after a year.
+Granted, elections may be coincident events to factors that matter far more for market performance.
+The S&P 500 plunged 22.1% in the year after the 2000 elections due to the dotcom bust, marking the worst post-election performance since 1980. Conversely, the S&P 500's best post-election year was a 38.3% gain after the 2020 elections, when markets mounted a massive comeback from the COVID-induced selloff.
+Investors should bear in mind that Federal Reserve policy and the corporate earnings cycle ultimately matter more than elections, according to Société Générale.
+Stocks declined in the aftermath of the 2018 midterms, for instance, when Democrats wrested control of the House during President Donald Trump's first term. More importantly, the Fed tightened monetary policy that year, raising interest rates four times, and the S&P 500 ended the year down 6.2%, though the market was up 11.7% a year after the election.
+The big swing factor now is AI and whether declines in tech will continue. As long as the AI wave is still moving and the economy keeps growing, "this bull market is probably still alive and well," Detrick says.
+But a Democratic sweep of the House and Senate would almost certainly pressure the AI infrastructure buildout and could lead to more retrenchment.
+The bond market is also skittish with yields rising globally and a mini debt crisis in France. And the war with Iran could get worse post-election if President Trump follows through on threats of more strikes or Iran escalates.
+"Seasonality isn't destiny, and worries around Iran, AI and France won't mysteriously vanish," said Jim Reid, Deutsche Bank's global head of macro and thematic research, in a note.
+If history is any guide, we could see a Santa rally and S&P 500 gains after the midterms. But this is still an AI-driven market, with geopolitics, the Fed, and bond market very much in charge.
+— CNBC's Chris Hayes contributed reporting.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+    publishedAt: "2026-11-02T23:13:34+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "palantir-reports-booming-u-s-commercial-3f1dcb56",
+    title: "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
+    titleJa: "Palantir reports booming U.S. commercial revenue growth, topping government for first time",
+    summaryJa: "Palantir's commercial revenue jumped 148% to $984 million, surpassing government revenue of $953 million.",
+    bodyOriginal: `Palantir beat Wall Street's third-quarter estimates after the bell on Monday, with U.S. commercial revenue topping government for the first time as businesses adopt more of the company's artificial intelligence tools.
+Shares dipped about 3% in extended trading.
+Here's how the company did compared to LSEG estimates:
+- Earnings per share: 44 cents adjusted vs. 41 cents expected
+- Revenue: $2.31 billion vs. $2.18 billion expected
+Revenue nearly doubled from a year ago and blew past $2 billion for the first time ever, Palantir said. Net income more than doubled to $1.13 billion, or 44 cents per share, from about $476 million, or 18 cents per share.
+"I don't believe anyone's had consistent results like this in the history of software AI, ever," CEO Alex Karp told CNBC's Seema Mody in an interview, adding that the business is succeeding without salespeople.
+Palantir has long been known for its strength in the government sector, but its commercial segment caught up in Q3.
+U.S. commercial revenue jumped 148% to $984 million, surpassing U.S. government revenue of $953 million, which was up 96%. The company's U.S. commercial revenue has more than quintupled over the last two years.
+Palantir lifted its guidance, saying it now expects U.S. commercial revenue "in excess of" $3.56 billion for the full year. Last quarter, the company boosted its forecast to $3.42 billion. The company projects about $2.65 billion in revenue for the fourth quarter and about $8.53 billion for full-year 2026.
+Karp has openly supported the use of open-weight models and criticized leading AI labs, which he told CNBC earlier this year are forcing businesses to sell their data sovereignty. Karp, on Monday, also reiterated recent calls to nationalize AI labs, calling it the "only realistic way" to manage liability.
+In September, Karp joined major tech CEOs at the White House as calls for regulation mounted following claims from AI researchers that the technology has a more than 10% of killing humanity.
+"My message to everybody is: Beware of thinking you can delay the future in AI," he told CNBC. "The future is here. The political ramifications of it are here."`,
+    bodyJa: `Palantir beat Wall Street's third-quarter estimates after the bell on Monday, with U.S. commercial revenue topping government for the first time as businesses adopt more of the company's artificial intelligence tools.
+Shares dipped about 3% in extended trading.
+Here's how the company did compared to LSEG estimates:
+- Earnings per share: 44 cents adjusted vs. 41 cents expected
+- Revenue: $2.31 billion vs. $2.18 billion expected
+Revenue nearly doubled from a year ago and blew past $2 billion for the first time ever, Palantir said. Net income more than doubled to $1.13 billion, or 44 cents per share, from about $476 million, or 18 cents per share.
+"I don't believe anyone's had consistent results like this in the history of software AI, ever," CEO Alex Karp told CNBC's Seema Mody in an interview, adding that the business is succeeding without salespeople.
+Palantir has long been known for its strength in the government sector, but its commercial segment caught up in Q3.
+U.S. commercial revenue jumped 148% to $984 million, surpassing U.S. government revenue of $953 million, which was up 96%. The company's U.S. commercial revenue has more than quintupled over the last two years.
+Palantir lifted its guidance, saying it now expects U.S. commercial revenue "in excess of" $3.56 billion for the full year. Last quarter, the company boosted its forecast to $3.42 billion. The company projects about $2.65 billion in revenue for the fourth quarter and about $8.53 billion for full-year 2026.
+Karp has openly supported the use of open-weight models and criticized leading AI labs, which he told CNBC earlier this year are forcing businesses to sell their data sovereignty. Karp, on Monday, also reiterated recent calls to nationalize AI labs, calling it the "only realistic way" to manage liability.
+In September, Karp joined major tech CEOs at the White House as calls for regulation mounted following claims from AI researchers that the technology has a more than 10% of killing humanity.
+"My message to everybody is: Beware of thinking you can delay the future in AI," he told CNBC. "The future is here. The political ramifications of it are here."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html",
+    publishedAt: "2026-11-02T22:53:20+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "trump-focuses-on-reflecting-pool-in-fina-b67c8a74",
+    title: "Trump focuses on Reflecting Pool in final public speech before midterms",
+    titleJa: "Trump focuses on Reflecting Pool in final public speech before midterms",
+    summaryJa: "Trump seemed to acknowledge that Democrats had an advantage heading into Election Day. \"But we gave this a very strong shot,\" he said.",
+    bodyOriginal: `President Donald Trump began his final scheduled in-person speech before Tuesday's Election Day with a lengthy disquisition about his efforts to renovate the Lincoln Memorial Reflecting Pool and other sites in Washington.
+"Today I'm thrilled to announce the official opening of the Lincoln Memorial Reflecting Pool," Trump said Monday afternoon in front of the water feature, which was fenced off for months amid a problem-plagued renovation the president had ordered.
+The speech, which lasted nearly an hour, was expected to serve as Trump's "closing argument" on the midterms before millions of voters head to the polls to determine which party will control the House and Senate in the next Congress.
+But Trump kicked off his remarks with more than 20 minutes of commentary that focused largely on the Reflecting Pool, along with his administration's work on refurbishing other Washington-area monuments and cracking down on crime in the nation's capital.
+"The pool is now better and more beautiful than it's ever been before, and we're very proud of it," Trump said, before repeating unfounded claims that vandals were responsible for damaging the pool and delaying repairs.
+U.S. Attorney for the District of Columbia Jeanine Pirro told a court July 31 that the damage was caused by a contractor's botched installation. Trump lashed out at Pirro over the admission and has continued to claim vandals were to blame.
+Trump's first explicit reference to the midterms came around the 23-minute mark.
+"As you know, this is the last day before the midterm elections, the most important midterm, I believe, in our lifetime," Trump said.
+"The Democrat Party has nominated the most extreme and dangerous slate of candidates in American history," he said.
+He touted his administration's record and lashed out at some Democratic candidates by name, including Michigan Senate nominee Abdul El-Sayed. He also repeated his controversial claim that if Republicans win, "everybody is going to get $5,000."
+"We have to keep our Congress strong, free," Trump said. "America is ready to go. They're ready to vote. I hope they're ready to do the right thing."
+But Trump, as he has done in other recent remarks, seemed to acknowledge that Democrats had an advantage — at least when looking to historical trends that show the president's party tends to underperform in midterm elections.
+"For some reason, the sitting president doesn't win the midterms. But we gave this a very strong shot," he said.
+Later in the speech, Trump continued discussing the pool, as well as his push to erect a massive triumphal arch in Washington and his plans to build a promenade along the Potomac River.
+He also said the government planned to build a "National Garden of American Heroes," comprising "250 to 500 great American heroes in statue form." And he talked about ongoing efforts to renovate a public golf course in Washington that is subject to legal challenges.`,
+    bodyJa: `President Donald Trump began his final scheduled in-person speech before Tuesday's Election Day with a lengthy disquisition about his efforts to renovate the Lincoln Memorial Reflecting Pool and other sites in Washington.
+"Today I'm thrilled to announce the official opening of the Lincoln Memorial Reflecting Pool," Trump said Monday afternoon in front of the water feature, which was fenced off for months amid a problem-plagued renovation the president had ordered.
+The speech, which lasted nearly an hour, was expected to serve as Trump's "closing argument" on the midterms before millions of voters head to the polls to determine which party will control the House and Senate in the next Congress.
+But Trump kicked off his remarks with more than 20 minutes of commentary that focused largely on the Reflecting Pool, along with his administration's work on refurbishing other Washington-area monuments and cracking down on crime in the nation's capital.
+"The pool is now better and more beautiful than it's ever been before, and we're very proud of it," Trump said, before repeating unfounded claims that vandals were responsible for damaging the pool and delaying repairs.
+U.S. Attorney for the District of Columbia Jeanine Pirro told a court July 31 that the damage was caused by a contractor's botched installation. Trump lashed out at Pirro over the admission and has continued to claim vandals were to blame.
+Trump's first explicit reference to the midterms came around the 23-minute mark.
+"As you know, this is the last day before the midterm elections, the most important midterm, I believe, in our lifetime," Trump said.
+"The Democrat Party has nominated the most extreme and dangerous slate of candidates in American history," he said.
+He touted his administration's record and lashed out at some Democratic candidates by name, including Michigan Senate nominee Abdul El-Sayed. He also repeated his controversial claim that if Republicans win, "everybody is going to get $5,000."
+"We have to keep our Congress strong, free," Trump said. "America is ready to go. They're ready to vote. I hope they're ready to do the right thing."
+But Trump, as he has done in other recent remarks, seemed to acknowledge that Democrats had an advantage — at least when looking to historical trends that show the president's party tends to underperform in midterm elections.
+"For some reason, the sitting president doesn't win the midterms. But we gave this a very strong shot," he said.
+Later in the speech, Trump continued discussing the pool, as well as his push to erect a massive triumphal arch in Washington and his plans to build a promenade along the Potomac River.
+He also said the government planned to build a "National Garden of American Heroes," comprising "250 to 500 great American heroes in statue form." And he talked about ongoing efforts to renovate a public golf course in Washington that is subject to legal challenges.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html",
+    publishedAt: "2026-11-02T21:15:13+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 7,
+  },
+  {
     id: "wall-street-s-fear-index-is-doing-someth-27a9fc84",
     title: "Wall Street's Fear Index is doing something strange. Here's what it means for stocks",
     titleJa: "Wall Street's Fear Index is doing something strange. Here's what it means for stocks",
@@ -1765,238 +2123,6 @@ Trump angrily denied writing the letter, saying, "This is not me. This is a fake
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 10,
-  },
-  {
-    id: "my-abusive-ex-husband-promised-20-000-fo-5f9214bf",
-    title: "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-    titleJa: "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
-    summaryJa: "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”",
-    bodyOriginal: `“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”`,
-    bodyJa: `“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
-    publishedAt: "2026-10-31T20:15:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-95596293",
-    readTime: 2,
-  },
-  {
-    id: "spacex-loses-bid-to-toss-naacp-lawsuit-o-43b980dc",
-    title: "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
-    titleJa: "SpaceX loses bid to toss NAACP lawsuit over Memphis data center air pollution",
-    summaryJa: "The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.",
-    bodyOriginal: `SpaceX's AI division, SpaceXAI, lost its bid to dismiss an NAACP lawsuit, which is proceeding in federal court in Mississippi, according to a judge's opinion released late Friday.
-The lawsuit claims that the AI division of CEO Elon Musk's aerospace and defense tech conglomerate violated the Clean Air Act with its use of gas-fired combustion turbines to power its massive AI data centers in Greater Memphis.
-The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.
-The Southern Environmental Law Center and Earthjustice filed the suit on behalf of the NAACP in the U.S. District Court for the Northern District of Mississippi in April 2026.
-The suit alleges that between August and December 2025, xAI and its subsidiary MZX Tech, installed and operated 27 gas turbines in Southaven, Mississippi, "without an air permit or regard for the health and safety of people living nearby."
-(SpaceXAI is owned and operated by SpaceX, which has rebranded it as SpaceXAI or SpaceXSI.)
-The turbines emit smog-forming pollutants and particulate matter that can increase health risks and cause an unpleasant odor, among other unwanted impacts, according to the suit.
-Lawyers for SpaceXAI argued in their motion to dismiss, filed in June, that the NAACP suit should be tossed because the company's use of the turbines, which it characterized as "mobile," was exempt from permitting requirements. They also argued that NAACP didn't have a right to sue under the federal Clean Air Act, and suits by such community groups were unconstitutional.
-The judge presiding over the case rejected those arguments, writing: "Because the plaintiffs have statutory standing under the Clean Air Act, because the combustion turbines are not 'mobile sources' under Mississippi's SIP, and because the citizen suit provision does not violate Article II of the Constitution or the private nondelegation doctrine, the plaintiffs' claims will proceed."
-The decision comes about two weeks after the same court rejected a Department of Justice's request to end the case against Musk's company.
-SpaceX did not immediately respond to a request for comment.`,
-    bodyJa: `SpaceX's AI division, SpaceXAI, lost its bid to dismiss an NAACP lawsuit, which is proceeding in federal court in Mississippi, according to a judge's opinion released late Friday.
-The lawsuit claims that the AI division of CEO Elon Musk's aerospace and defense tech conglomerate violated the Clean Air Act with its use of gas-fired combustion turbines to power its massive AI data centers in Greater Memphis.
-The Colossus data centers and a power plant that SpaceXAI is also building in Southaven, Mississippi, have faced community backlash for years.
-The Southern Environmental Law Center and Earthjustice filed the suit on behalf of the NAACP in the U.S. District Court for the Northern District of Mississippi in April 2026.
-The suit alleges that between August and December 2025, xAI and its subsidiary MZX Tech, installed and operated 27 gas turbines in Southaven, Mississippi, "without an air permit or regard for the health and safety of people living nearby."
-(SpaceXAI is owned and operated by SpaceX, which has rebranded it as SpaceXAI or SpaceXSI.)
-The turbines emit smog-forming pollutants and particulate matter that can increase health risks and cause an unpleasant odor, among other unwanted impacts, according to the suit.
-Lawyers for SpaceXAI argued in their motion to dismiss, filed in June, that the NAACP suit should be tossed because the company's use of the turbines, which it characterized as "mobile," was exempt from permitting requirements. They also argued that NAACP didn't have a right to sue under the federal Clean Air Act, and suits by such community groups were unconstitutional.
-The judge presiding over the case rejected those arguments, writing: "Because the plaintiffs have statutory standing under the Clean Air Act, because the combustion turbines are not 'mobile sources' under Mississippi's SIP, and because the citizen suit provision does not violate Article II of the Constitution or the private nondelegation doctrine, the plaintiffs' claims will proceed."
-The decision comes about two weeks after the same court rejected a Department of Justice's request to end the case against Musk's company.
-SpaceX did not immediately respond to a request for comment.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/31/xai-naacp-clean-air-act-lawsuit-dismissal.html",
-    publishedAt: "2026-10-31T20:12:37+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "openai-pares-fundraising-goal-now-seekin-74bd2494",
-    title: "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
-    titleJa: "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
-    summaryJa: "The funding round is still in progress and has not closed, so the figures are subject to change, a person directly familiar with the deal told CNBC.",
-    bodyOriginal: `OpenAI is seeking to raise up to $20 billion in a new funding round, CNBC confirmed on Saturday, paring back its earlier target of up to $30 billion.
-The funding round is still in progress and has not closed, so the figures are subject to change, a person directly familiar with the deal told CNBC, asking to remain unnamed as they were not authorized to discuss the details publicly.
-OpenAI did not immediately respond to a request for comment.
-The Financial Times first reported that OpenAI had reduced its target for the round by $10 billion, and said the company would seek a post-money valuation of $1.25 trillion. According to FT, the ChatGPT developer set a Friday deadline for investors to commit to the newest round, with some investors opting to reduce their allocations.
-Investors from the United Arab Emirates are leading the round alongside Coatue, as CNBC previously reported.
-News that the ChatGPT developer slashed its funding round follows a week when investors asked whether big tech firms' spending on AI, especially to build out data centers and snap up GPUs, will deliver adequate returns.
-AI-linked stocks sank on Friday, with chip maker Intel down 25% on lackluster revenue guidance, Micron down 5.5%, and Nvidia falling 4%.
-Microsoft, Alphabet's Google and Amazon have been on a spending blitz in recent years to meet the surge in demand for AI infrastructure, but all three issued capex figures or forecasts last week that came in below analysts' estimates.
-Alphabet saw its worst trading day ever on Thursday after its search revenue fell short of expectations. Philipp Schindler, the company's chief business officer, said the impact on search was partly because of lower monetization within the company's AI Mode.`,
-    bodyJa: `OpenAI is seeking to raise up to $20 billion in a new funding round, CNBC confirmed on Saturday, paring back its earlier target of up to $30 billion.
-The funding round is still in progress and has not closed, so the figures are subject to change, a person directly familiar with the deal told CNBC, asking to remain unnamed as they were not authorized to discuss the details publicly.
-OpenAI did not immediately respond to a request for comment.
-The Financial Times first reported that OpenAI had reduced its target for the round by $10 billion, and said the company would seek a post-money valuation of $1.25 trillion. According to FT, the ChatGPT developer set a Friday deadline for investors to commit to the newest round, with some investors opting to reduce their allocations.
-Investors from the United Arab Emirates are leading the round alongside Coatue, as CNBC previously reported.
-News that the ChatGPT developer slashed its funding round follows a week when investors asked whether big tech firms' spending on AI, especially to build out data centers and snap up GPUs, will deliver adequate returns.
-AI-linked stocks sank on Friday, with chip maker Intel down 25% on lackluster revenue guidance, Micron down 5.5%, and Nvidia falling 4%.
-Microsoft, Alphabet's Google and Amazon have been on a spending blitz in recent years to meet the surge in demand for AI infrastructure, but all three issued capex figures or forecasts last week that came in below analysts' estimates.
-Alphabet saw its worst trading day ever on Thursday after its search revenue fell short of expectations. Philipp Schindler, the company's chief business officer, said the impact on search was partly because of lower monetization within the company's AI Mode.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
-    publishedAt: "2026-10-31T19:56:23+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "showy-jewelry-and-fancy-cars-hold-no-ap-8eb15447",
-    title: "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
-    titleJa: "‘Showy jewelry and fancy cars hold no appeal’: We have a 99% chance of outliving our life savings. Why not spend it all?",
-    summaryJa: "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
-    bodyOriginal: `“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”`,
-    bodyJa: `“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
-    publishedAt: "2026-10-31T19:30:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-21005604",
-    readTime: 2,
-  },
-  {
-    id: "we-came-back-from-hell-say-ukrainians-a-003ada5e",
-    title: "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-    titleJa: "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-    summaryJa: "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city- Published",
-    bodyOriginal: `'We came back from hell', say Ukrainians after years in Russia-occupied front-line city
-- Published
-Warning: This story contains graphic content.
-Olha has one word to describe what life has been like in the front-line city of Oleshky over the past few years: "Horror".
-Disembarking alongside her from a coach in the Ukrainian region of Chernihiv with their immediate family and dog, her husband Viacheslav put it this way: "We came back from hell."
-The couple were among hundreds of residents evacuated from the Russian-occupied city who crossed into northern Ukraine via Belarus on Saturday, many reuniting with loved ones they had not seen for years.
-Oleshky, seized by Russia during the first few days of its full-scale invasion in February 2022, is trapped on one side by the Dnipro River and on the other side by Russian forces.
-Olha and Viacheslav had lived there with their son and daughter, both in their 30s. Even as the shelling around them intensified, they feared that trying to escape could be even more dangerous, with routes mined and subject to drone attack.
-As supplies dwindled, the couple said they made an attempt to find food by crossing through minefields earlier this month. "People were stepping on mines, dying and being maimed, all just to survive," Olha told the BBC.
-Those who were too afraid to go out in the city had resorted to cooking garden weeds to survive.
-"We saw that the situation wasn't getting any better, so we realised we had to get out," Olha said.
-That opportunity came earlier this week when a humanitarian ceasefire, brokered by US First Lady Melania Trump, took effect in the Kherson region, providing the first few days of peace in the area for four years and allowing Oleshky residents to evacuate.
-Up to 6,000 people, including 200 children, were believed to still be living in Oleshky and its surrounding areas, with 1,700 in the city itself.
-Residents had a four-hour window on Friday to leave, with a convoy of 25 buses brought in for up to 750 evacuees, along with ambulances for people with limited mobility.
-After travelling through Russian-occupied territory to southern Russia, then flying to Belarus, evacuees arrived on buses to a military facility in Chernihiv on Saturday.
-On the tarmac, where evacuees were processed before travelling onwards, some elderly residents were so weak they had to be carried on stretchers.
-For many, there were emotional reunions.
-As Mykhailo Palii arrived, his daughters Dasha and Anya, who thought they might never see him again, sprinted across the tarmac screaming and crying.
-After an emotional embrace, Palii described a glimpse of life in Oleshky, although he said he had, until then, kept many of the details from his family.
-"A hole was blown into the bathroom," he said. "There were drone attacks and missile strikes. It happened, but I didn't tell them about it because I knew they would worry."
-Tetiana and Volodymyr, a couple carrying a cat when they arrived in Chernihiv, said their entire home was burned down three years ago, and they had been living in the abandoned house of a neighbour since.
-For them, leaving as soon as it was safe to do so was an easy decision. "There's nothing for us to regret leaving. We don't have relatives there. Our children are married and don't live with us in the city," said Tetiana.
-But those who managed to escape also worry about those left behind. "There are still a lot of people left there, living under those conditions," said Olha.
-Now that the evacuees have left Oleshky, they will also face a new challenge - working out where to go next and how to rebuild their lives.
-Palii said he would look for a job so he can provide for his family: "There's no job I can't handle. Digging, hoeing, planting, building. I can even do demolition work."
-Olha said she and her family have no relatives elsewhere in Ukraine, and they will stay with some acquaintances for an extended period while they get back on their feet.
-"If we managed to survive in hell, we'll survive here too."
-Related topics
-- Published11 hours ago
-- Published20 hours ago
-- Published4 days ago`,
-    bodyJa: `'We came back from hell', say Ukrainians after years in Russia-occupied front-line city
-- Published
-Warning: This story contains graphic content.
-Olha has one word to describe what life has been like in the front-line city of Oleshky over the past few years: "Horror".
-Disembarking alongside her from a coach in the Ukrainian region of Chernihiv with their immediate family and dog, her husband Viacheslav put it this way: "We came back from hell."
-The couple were among hundreds of residents evacuated from the Russian-occupied city who crossed into northern Ukraine via Belarus on Saturday, many reuniting with loved ones they had not seen for years.
-Oleshky, seized by Russia during the first few days of its full-scale invasion in February 2022, is trapped on one side by the Dnipro River and on the other side by Russian forces.
-Olha and Viacheslav had lived there with their son and daughter, both in their 30s. Even as the shelling around them intensified, they feared that trying to escape could be even more dangerous, with routes mined and subject to drone attack.
-As supplies dwindled, the couple said they made an attempt to find food by crossing through minefields earlier this month. "People were stepping on mines, dying and being maimed, all just to survive," Olha told the BBC.
-Those who were too afraid to go out in the city had resorted to cooking garden weeds to survive.
-"We saw that the situation wasn't getting any better, so we realised we had to get out," Olha said.
-That opportunity came earlier this week when a humanitarian ceasefire, brokered by US First Lady Melania Trump, took effect in the Kherson region, providing the first few days of peace in the area for four years and allowing Oleshky residents to evacuate.
-Up to 6,000 people, including 200 children, were believed to still be living in Oleshky and its surrounding areas, with 1,700 in the city itself.
-Residents had a four-hour window on Friday to leave, with a convoy of 25 buses brought in for up to 750 evacuees, along with ambulances for people with limited mobility.
-After travelling through Russian-occupied territory to southern Russia, then flying to Belarus, evacuees arrived on buses to a military facility in Chernihiv on Saturday.
-On the tarmac, where evacuees were processed before travelling onwards, some elderly residents were so weak they had to be carried on stretchers.
-For many, there were emotional reunions.
-As Mykhailo Palii arrived, his daughters Dasha and Anya, who thought they might never see him again, sprinted across the tarmac screaming and crying.
-After an emotional embrace, Palii described a glimpse of life in Oleshky, although he said he had, until then, kept many of the details from his family.
-"A hole was blown into the bathroom," he said. "There were drone attacks and missile strikes. It happened, but I didn't tell them about it because I knew they would worry."
-Tetiana and Volodymyr, a couple carrying a cat when they arrived in Chernihiv, said their entire home was burned down three years ago, and they had been living in the abandoned house of a neighbour since.
-For them, leaving as soon as it was safe to do so was an easy decision. "There's nothing for us to regret leaving. We don't have relatives there. Our children are married and don't live with us in the city," said Tetiana.
-But those who managed to escape also worry about those left behind. "There are still a lot of people left there, living under those conditions," said Olha.
-Now that the evacuees have left Oleshky, they will also face a new challenge - working out where to go next and how to rebuild their lives.
-Palii said he would look for a job so he can provide for his family: "There's no job I can't handle. Digging, hoeing, planting, building. I can even do demolition work."
-Olha said she and her family have no relatives elsewhere in Ukraine, and they will stay with some acquaintances for an extended period while they get back on their feet.
-"If we managed to survive in hell, we'll survive here too."
-Related topics
-- Published11 hours ago
-- Published20 hours ago
-- Published4 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-10-31T19:22:26+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/053a/live/d1a9e840-d54c-11f1-bcb7-8f812b44c2e5.jpg",
-    readTime: 10,
-  },
-  {
-    id: "binance-says-90-of-6-3-billion-hack-loss-0543d2ae",
-    title: "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-    titleJa: "Binance says 90% of $6.3 billion hack losses are now covered, plans to resume withdrawals Sunday",
-    summaryJa: "Binance says it has restored backing for 90% of assets affected by its $6.3 billion hack and is planning to resume withdrawals, subject to security checks.",
-    bodyOriginal: `Binance said Saturday that it has covered up to 90% of the roughly $6.3 billion in token assets stolen from its hot wallets in a record crypto theft announced Thursday.
-Binance said it will continue to buy the remaining relevant token assets through market and over-the-counter channels until the covered amount reaches 100% for all tokens.
-"All BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, and ZEC are fully backed 100%," Binance said in a statement. "Binance will absorb the financial impact of these stolen funds, not our users."
-The exchange said the outstanding 10% consists of tokens outside its top 10 that are "less liquid, which means they may take longer to source in the required amounts."
-Binance said it is tapping its Secure Asset Fund for Users (SAFU), a portion of its Futures insurance fund, and its corporate treasury to replenish the assets.
-"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident. We will continue to demonstrate this commitment through measurable progress, transparent reporting, and concrete actions," Binance said.
-Its "next milestone" will be resuming withdrawal services for users by Sunday, subject to security checks, while the exchange continues its investigation into the attack, it said.
-Binance declined to discuss additional details or updates on its investigation to CNBC, referring questions to its latest statement.
-It still isn't clear how the attack — the largest crypto theft on record — took place.
-The world's largest crypto exchange initially said the hack may involve "a compromised DevOps engineer's laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions." However, Co-CEO Richard Teng later said the attack involved a more complex process rather than the misuse of a single engineer's permissions.
-It also wasn't clear who was responsible for the breach. But TRM Labs, a blockchain intelligence and AI investigations company, pointed to North Korean hackers as the potential culprits.
-"Several features of this attack match earlier North Korea-linked heists, including the Bybit hack and the KelpDAO hack in April 2026: small Tornado Cash withdrawals funding an operator wallet, staging that began well before the theft, and signatures obtained in advance then executed in one burst," the company said.
-— CNBC's Jenny Lee, Liz Napolitano and Davis Giangiulio contributed to this report.`,
-    bodyJa: `Binance said Saturday that it has covered up to 90% of the roughly $6.3 billion in token assets stolen from its hot wallets in a record crypto theft announced Thursday.
-Binance said it will continue to buy the remaining relevant token assets through market and over-the-counter channels until the covered amount reaches 100% for all tokens.
-"All BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, and ZEC are fully backed 100%," Binance said in a statement. "Binance will absorb the financial impact of these stolen funds, not our users."
-The exchange said the outstanding 10% consists of tokens outside its top 10 that are "less liquid, which means they may take longer to source in the required amounts."
-Binance said it is tapping its Secure Asset Fund for Users (SAFU), a portion of its Futures insurance fund, and its corporate treasury to replenish the assets.
-"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident. We will continue to demonstrate this commitment through measurable progress, transparent reporting, and concrete actions," Binance said.
-Its "next milestone" will be resuming withdrawal services for users by Sunday, subject to security checks, while the exchange continues its investigation into the attack, it said.
-Binance declined to discuss additional details or updates on its investigation to CNBC, referring questions to its latest statement.
-It still isn't clear how the attack — the largest crypto theft on record — took place.
-The world's largest crypto exchange initially said the hack may involve "a compromised DevOps engineer's laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions." However, Co-CEO Richard Teng later said the attack involved a more complex process rather than the misuse of a single engineer's permissions.
-It also wasn't clear who was responsible for the breach. But TRM Labs, a blockchain intelligence and AI investigations company, pointed to North Korean hackers as the potential culprits.
-"Several features of this attack match earlier North Korea-linked heists, including the Bybit hack and the KelpDAO hack in April 2026: small Tornado Cash withdrawals funding an operator wallet, staging that began well before the theft, and signatures obtained in advance then executed in one burst," the company said.
-— CNBC's Jenny Lee, Liz Napolitano and Davis Giangiulio contributed to this report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html",
-    publishedAt: "2026-10-31T19:16:25+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "we-re-in-our-70s-should-we-pay-off-our-2-c9cfacd1",
-    title: "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
-    titleJa: "We’re in our 70s. Should we pay off our 2.5% mortgage — or put the money in a high-yield savings account?",
-    summaryJa: "“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”",
-    bodyOriginal: `“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”`,
-    bodyJa: `“Let’s say 10 years from now, when I’m 84, we need a substantial amount of cash.”`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/we-are-in-our-70s-should-we-pay-off-our-2-5-mortgage-or-build-up-our-savings-5a35e9c1?mod=mw_rss_topstories",
-    publishedAt: "2026-10-31T19:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-65126339",
-    readTime: 2,
-  },
-  {
-    id: "he-was-heartbroken-my-husband-s-kids-ab-4a99c514",
-    title: "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
-    titleJa: "‘He was heartbroken’: My husband’s kids abandoned him when he was dying. Was he right to leave everything to me?",
-    summaryJa: "“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”",
-    bodyOriginal: `“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”`,
-    bodyJa: `“In the end, he left them a few sentimental mementos, some collectibles and old photographs.”`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/he-was-heartbroken-my-husbands-kids-never-helped-when-he-was-gravely-ill-was-he-right-to-leave-everything-to-me-1ad0616b?mod=mw_rss_topstories",
-    publishedAt: "2026-10-31T18:50:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-56448073",
-    readTime: 2,
   },
 ];
 
