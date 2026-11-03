@@ -15,6 +15,418 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "amd-stock-jumps-8-on-earnings-as-data-ce-1f897f29",
+    title: "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
+    titleJa: "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
+    summaryJa: "AMD reported better-than-expected third-quarter results, driven by booming sales of AI chips",
+    bodyOriginal: `Advanced Micro Devices reported third-quarter earnings on Tuesday that beat Wall Street's expectations, with revenue jumping 45% and data center sales nearly doubling from a year earlier. The stock was up 8% in extended trading.
+Here's how the chipmaker did versus LSEG consensus estimates for the quarter:
+- Earnings per share: $2.09 adjusted vs. $1.95 expected
+- Revenue: $13.38 billion vs. $13.09 billion expected
+Revenue increased from $9.25 billion a year earlier, AMD said in a statement. Neoclouds like CoreWeave and Nebius rallied earlier Tuesday and remained higher after AMD reported results.
+CEO Lisa Su said on the earnings call that she expects server revenue to double year over year in 2027 and data center AI growth to accelerate even faster than the company had projected 90 days ago. The company expects data center to drive the majority of its revenue and earnings growth.
+"We have worked across our supply chain to secure the wafers, substrates, advanced packaging, memory, and other key components needed to support much higher growth next year," Su said on the earnings call.
+AMD's report comes days after Intel disclosed similar data center growth, with revenue in that segment up 78% in the third quarter. But Intel's stock plummeted 29% on Friday over concerns about weak guidance and Intel's ability to meet demand.
+The data center unit makes up the majority of AMD's business, accounting for 64% of overall revenue, up from 47% a year ago.
+After years spent chasing Nvidia in the market for artificial intelligence graphics processing units, or GPUs, AMD's central processing units, or CPUs, are experiencing a major resurgence with the rise of agentic AI apps like Meta's Muse. AMD's server CPUs are key for agentic apps because they power virtual machines and can run for hours on their own. Demand from agentic AI boosted AMD shares to a record in October.
+"Adoption is just starting, and we expect demand to grow sharply as agents are deployed more broadly and take on more complex work," Su said on the earnings call with analysts.
+PC market struggles
+AMD's stock is up about 125% this year, but it saw three consecutive days of losses before rallying on Tuesday amid an industrywide sell-off tied to fears about overspending on AI.
+AMD is also a major player in the weakening PC market, which Intel blamed for its poor outlook last week. AMD and Intel are the largest makers of traditional x86 processors that power many laptops and desktops, while other laptops rely on Arm-based processors from the likes of Qualcomm and Apple.
+Global PC shipments declined 4% in the second quarter from a year earlier due to soaring costs for memory and other components, according to Counterpoint Research.
+AMD reports PC chip sales in a segment combined with gaming chips. Revenue in that business fell 8% from a year earlier to $3.7 billion. Gaming revenue was down 40% from a year ago.
+For the fourth quarter, AMD said it expects about $17 billion in revenue, beating the $16.2 billion average analyst estimate, according to LSEG. AMD sees its gross margin for the quarter coming in at 55%, slightly below the average estimate of 55.3%, according to StreetAccount.
+AMD also sells data center GPUs and full rack-scale systems called Helios that compete directly with Nvidia's Grace Blackwell and Vera Rubin systems. Meta, Microsoft, Anthropic, OpenAI, and Oracle are all beginning to use AMD Helios in their data centers. Meta said last week that its Helios racks are up and running, and AMD agreed to invest $1 billion in Meta's equity offering.
+AMD has also committed to investing up to $5 billion in Anthropic, which unveiled its highly anticipated prospectus last week as it inches closer to a potentially historic initial public offering.
+During a visit to Taiwan in October, Su said she plans to "substantially increase our supply in 2027." Su and Nvidia CEO Jensen Huang have both made multiple trips to Taiwan and South Korea this year, holding meetings with key suppliers like Taiwan Semiconductor Manufacturing Company and memory leaders SK Hynix and Samsung.
+In September, AMD said it would acquire World Labs for $8.2 billion in an all-stock deal. The San Francisco-based AI lab, founded by industry pioneer Fei-Fei Li, is developing a so-called world model that simulates 3D environments to aid in developing robots and other physically grounded AI applications.
+WATCH: Helios is AMD’s first AI system to rival Nvidia Vera Rubin — we got an exclusive, first look`,
+    bodyJa: `Advanced Micro Devices reported third-quarter earnings on Tuesday that beat Wall Street's expectations, with revenue jumping 45% and data center sales nearly doubling from a year earlier. The stock was up 8% in extended trading.
+Here's how the chipmaker did versus LSEG consensus estimates for the quarter:
+- Earnings per share: $2.09 adjusted vs. $1.95 expected
+- Revenue: $13.38 billion vs. $13.09 billion expected
+Revenue increased from $9.25 billion a year earlier, AMD said in a statement. Neoclouds like CoreWeave and Nebius rallied earlier Tuesday and remained higher after AMD reported results.
+CEO Lisa Su said on the earnings call that she expects server revenue to double year over year in 2027 and data center AI growth to accelerate even faster than the company had projected 90 days ago. The company expects data center to drive the majority of its revenue and earnings growth.
+"We have worked across our supply chain to secure the wafers, substrates, advanced packaging, memory, and other key components needed to support much higher growth next year," Su said on the earnings call.
+AMD's report comes days after Intel disclosed similar data center growth, with revenue in that segment up 78% in the third quarter. But Intel's stock plummeted 29% on Friday over concerns about weak guidance and Intel's ability to meet demand.
+The data center unit makes up the majority of AMD's business, accounting for 64% of overall revenue, up from 47% a year ago.
+After years spent chasing Nvidia in the market for artificial intelligence graphics processing units, or GPUs, AMD's central processing units, or CPUs, are experiencing a major resurgence with the rise of agentic AI apps like Meta's Muse. AMD's server CPUs are key for agentic apps because they power virtual machines and can run for hours on their own. Demand from agentic AI boosted AMD shares to a record in October.
+"Adoption is just starting, and we expect demand to grow sharply as agents are deployed more broadly and take on more complex work," Su said on the earnings call with analysts.
+PC market struggles
+AMD's stock is up about 125% this year, but it saw three consecutive days of losses before rallying on Tuesday amid an industrywide sell-off tied to fears about overspending on AI.
+AMD is also a major player in the weakening PC market, which Intel blamed for its poor outlook last week. AMD and Intel are the largest makers of traditional x86 processors that power many laptops and desktops, while other laptops rely on Arm-based processors from the likes of Qualcomm and Apple.
+Global PC shipments declined 4% in the second quarter from a year earlier due to soaring costs for memory and other components, according to Counterpoint Research.
+AMD reports PC chip sales in a segment combined with gaming chips. Revenue in that business fell 8% from a year earlier to $3.7 billion. Gaming revenue was down 40% from a year ago.
+For the fourth quarter, AMD said it expects about $17 billion in revenue, beating the $16.2 billion average analyst estimate, according to LSEG. AMD sees its gross margin for the quarter coming in at 55%, slightly below the average estimate of 55.3%, according to StreetAccount.
+AMD also sells data center GPUs and full rack-scale systems called Helios that compete directly with Nvidia's Grace Blackwell and Vera Rubin systems. Meta, Microsoft, Anthropic, OpenAI, and Oracle are all beginning to use AMD Helios in their data centers. Meta said last week that its Helios racks are up and running, and AMD agreed to invest $1 billion in Meta's equity offering.
+AMD has also committed to investing up to $5 billion in Anthropic, which unveiled its highly anticipated prospectus last week as it inches closer to a potentially historic initial public offering.
+During a visit to Taiwan in October, Su said she plans to "substantially increase our supply in 2027." Su and Nvidia CEO Jensen Huang have both made multiple trips to Taiwan and South Korea this year, holding meetings with key suppliers like Taiwan Semiconductor Manufacturing Company and memory leaders SK Hynix and Samsung.
+In September, AMD said it would acquire World Labs for $8.2 billion in an all-stock deal. The San Francisco-based AI lab, founded by industry pioneer Fei-Fei Li, is developing a so-called world model that simulates 3D environments to aid in developing robots and other physically grounded AI applications.
+WATCH: Helios is AMD’s first AI system to rival Nvidia Vera Rubin — we got an exclusive, first look`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html",
+    publishedAt: "2026-11-03T23:04:37+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "what-analysts-are-telling-us-while-apple-15f24a2b",
+    title: "What analysts are telling us while Apple’s stock falls after earnings report",
+    titleJa: "What analysts are telling us while Apple’s stock falls after earnings report",
+    summaryJa: "Shares in Apple declined nearly 2% on Tuesday after investors were left feeling disappointed about the company’s gross margin outlook and slowing services revenue  growth.",
+    bodyOriginal: `Shares in Apple declined nearly 2% on Tuesday after investors were left feeling disappointed about the company’s gross margin outlook and slowing services revenue  growth.`,
+    bodyJa: `Shares in Apple declined nearly 2% on Tuesday after investors were left feeling disappointed about the company’s gross margin outlook and slowing services revenue  growth.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/what-analysts-are-saying-as-apples-stock-falls-after-earnings-report-f0afa357?mod=mw_rss_topstories",
+    publishedAt: "2026-11-03T22:48:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-04195586",
+    readTime: 2,
+  },
+  {
+    id: "strand-bookstore-to-pay-nearly-1-5-milli-48f88544",
+    title: "Strand bookstore to pay nearly $1.5 million over Covid loan tied to Sen. Wyden's wife",
+    titleJa: "Strand bookstore to pay nearly $1.5 million over Covid loan tied to Sen. Wyden's wife",
+    summaryJa: "Nancy Bass Wyden, whose grandfather founded the New York City bookstore, had signed off on the PPP, which was off-limits because she is a senator's wife.",
+    bodyOriginal: `The Strand, the iconic New York City bookstore, agreed to pay nearly $1.5 million in a civil settlement for accepting a Covid government loan that was off-limits because the store is owned by the wife of Oregon Democratic Sen. Ron Wyden, according to the U.S. Attorney's Office in Washington, D.C.
+The Strand applied for the $932,350 loan in February 2021 from the Paycheck Protection Program administered by the Small Business Administration, U.S. Attorney Jeanine Pirro's office said Tuesday.
+Store owner Nancy Bass Wyden certified on the loan application that "the spouse of a Member of Congress does not directly or indirectly hold a controlling interest in the applicant," Pirro's office said.
+"Ms. Wyden's certification was knowingly and materially false and Strand was not eligible for the second draw loan it received," the office said.
+The Strand will pay $1,482,560 to settle the case. There was no determination of liability by the store, Pirro's office said.
+The Strand, in a statement, said the store made an "unintentional" mistake in applying for the loan, and said it was unaware at the time the funds were barred to businesses owned by the spouse of a member of Congress.
+Bass Wyden's husband, who has served in the Senate for more than 30 years, is a staunch critic of President Donald Trump, who appointed Pirro to the post of top prosecutor in the District of Columbia.
+Bass Wyden is the granddaughter of Ben Bass, founder of the Strand, whose flagship store is in Greenwich Village.
+Congress authorized the forgivable PPP loans when it passed the Coronavirus Aid, Relief, and Economic Security Act in March 2020.
+In December 2020, Congress provided additional funding for the PPP loan program with separate legislation, which "included a prohibition against businesses obtaining second draw PPP funds if a member of Congress or their spouse directly or indirectly held a controlling interest in the PPP loan applicant," Pirro's office said.
+In a statement Tuesday, Pirro said, "The Paycheck Protection Program was created to save American jobs, not to enrich those who aren't eligible for taxpayer-funded relief, especially the wife of a U.S. Senator."
+Her office noted that the False Claims Act, which the Strand was alleged to have violated, "allows the government to establish liability based on reckless disregard and permits the government to recover more than its actual losses," which is what occurred in this case.
+The civil settlement resolved claims brought under a so-called qui tam lawsuit, which allows private whistleblowers to sue on behalf of the U.S. government and receive a portion of any recovery.
+The qui tam action in this case was filed by a corporate entity, Blockquote Inc., in U.S. District Court in Washington. Blockquote, whose owners were not disclosed by Pirro's office, will receive a total share of about $148,256 in connection with the settlement.
+The docket for Blockquote's lawsuit is sealed from public view.
+The Strand, in a statement after CNBC requested comment from the store and Bass Wyden, said the restriction that the store violated was passed by Congress between the first and second rounds of the PPP.
+"Unfortunately, the bookstore's accountant and the bank administering the loan were not aware of this change when the second-draw application was processed," the Strand said.
+"We stand by the facts: the circumstances arose during an unprecedented and rapidly changing public health emergency, the mistake was unintentional," the store said. "We hope this matter will be viewed objectively and in its proper context, with the understanding that the application of justice should always be fair, impartial, and free from political considerations," the store said.
+Sen. Wyden's office did not immediately respond to requests for comment.`,
+    bodyJa: `The Strand, the iconic New York City bookstore, agreed to pay nearly $1.5 million in a civil settlement for accepting a Covid government loan that was off-limits because the store is owned by the wife of Oregon Democratic Sen. Ron Wyden, according to the U.S. Attorney's Office in Washington, D.C.
+The Strand applied for the $932,350 loan in February 2021 from the Paycheck Protection Program administered by the Small Business Administration, U.S. Attorney Jeanine Pirro's office said Tuesday.
+Store owner Nancy Bass Wyden certified on the loan application that "the spouse of a Member of Congress does not directly or indirectly hold a controlling interest in the applicant," Pirro's office said.
+"Ms. Wyden's certification was knowingly and materially false and Strand was not eligible for the second draw loan it received," the office said.
+The Strand will pay $1,482,560 to settle the case. There was no determination of liability by the store, Pirro's office said.
+The Strand, in a statement, said the store made an "unintentional" mistake in applying for the loan, and said it was unaware at the time the funds were barred to businesses owned by the spouse of a member of Congress.
+Bass Wyden's husband, who has served in the Senate for more than 30 years, is a staunch critic of President Donald Trump, who appointed Pirro to the post of top prosecutor in the District of Columbia.
+Bass Wyden is the granddaughter of Ben Bass, founder of the Strand, whose flagship store is in Greenwich Village.
+Congress authorized the forgivable PPP loans when it passed the Coronavirus Aid, Relief, and Economic Security Act in March 2020.
+In December 2020, Congress provided additional funding for the PPP loan program with separate legislation, which "included a prohibition against businesses obtaining second draw PPP funds if a member of Congress or their spouse directly or indirectly held a controlling interest in the PPP loan applicant," Pirro's office said.
+In a statement Tuesday, Pirro said, "The Paycheck Protection Program was created to save American jobs, not to enrich those who aren't eligible for taxpayer-funded relief, especially the wife of a U.S. Senator."
+Her office noted that the False Claims Act, which the Strand was alleged to have violated, "allows the government to establish liability based on reckless disregard and permits the government to recover more than its actual losses," which is what occurred in this case.
+The civil settlement resolved claims brought under a so-called qui tam lawsuit, which allows private whistleblowers to sue on behalf of the U.S. government and receive a portion of any recovery.
+The qui tam action in this case was filed by a corporate entity, Blockquote Inc., in U.S. District Court in Washington. Blockquote, whose owners were not disclosed by Pirro's office, will receive a total share of about $148,256 in connection with the settlement.
+The docket for Blockquote's lawsuit is sealed from public view.
+The Strand, in a statement after CNBC requested comment from the store and Bass Wyden, said the restriction that the store violated was passed by Congress between the first and second rounds of the PPP.
+"Unfortunately, the bookstore's accountant and the bank administering the loan were not aware of this change when the second-draw application was processed," the Strand said.
+"We stand by the facts: the circumstances arose during an unprecedented and rapidly changing public health emergency, the mistake was unintentional," the store said. "We hope this matter will be viewed objectively and in its proper context, with the understanding that the application of justice should always be fair, impartial, and free from political considerations," the store said.
+Sen. Wyden's office did not immediately respond to requests for comment.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/03/strand-bookstore-ppp-loan-ron-wyden-wife-settlement.html",
+    publishedAt: "2026-11-03T22:38:38+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "trump-doj-sends-target-letters-to-democr-21b0003e",
+    title: "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports",
+    titleJa: "Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports",
+    summaryJa: "\"There's no doubt that the threats are threats to our democracy,\" said John Cusick, assistant counsel at the Legal Defense Fund.",
+    bodyOriginal: `The Trump administration's months-long campaign to challenge how states conduct elections and pushback against those efforts came to a head on Election Day on Tuesday.
+Those efforts have included lawsuits, an attempt to implement a new U.S. Postal Service rule for mail-in ballots this year, threatening letters to state election officials and a plan to increase the number of poll monitors.
+On Tuesday afternoon, The New York Times reported that the Department of Justice had sent letters to about 20 Democrats, among them prominent election lawyer Marc Elias, informing them that they might be targets in a criminal investigation of how a candidate with the same name as incumbent Republican Sen. Dan Sullivan ended up on the ballot of the Alaska Senate race.
+NBC News reported that the tally of letters includes both target letters "and preservation requests to third parties to retain records."
+Elias has represented Mary Peltola, the Democratic nominee in the Alaska election. In addition to him, at least one official at the Democratic Senatorial Campaign Committee was sent a target letter, The Times reported.
+"The department is investigating possible donor fraud and conspiracy charges," according to The Times, citing a person familiar with the investigation.
+Receiving a target letter does not mean a person has been charged with a crime, and does not necessarily mean that they will be charged.
+In a statement, Elias said, "No one should be surprised that President Trump's Department of Justice is targeting me and my law firm on Election Day."
+President Donald Trump, during an interview earlier Tuesday on Fox News' "Fox and Friends," blasted Elias.
+"You had the Democrat Party headed up by Elias, their lawyer, who was a bad guy, very bad guy — should go to jail, in my opinion, " Trump said. "But you had the Democrat Party look all over Alaska for somebody named Sullivan."
+A federal judge on Sunday dismissed the DOJ lawsuit that sought to delay certification of Alaska's Senate election if incumbent Sen. Sullivan loses by a margin that could be attributable to voter confusion from having another Dan Sullivan on the ballot. The DOJ is appealing that ruling.
+That case, and the reported letters to Elias and other Democrats, underscore the likelihood that the Trump administration's election-targeting efforts will continue beyond Election Day.
+Democratic lawmakers, attorneys general and advocacy groups are poised for battle if the administration tries to interfere with voting sites or challenge ballot counts, particularly in the states that could determine whether Trump's fellow Republicans lose their narrow Senate majority.
+Senate Minority Leader Chuck Schumer, D-N.Y., on Sunday night convened the entire Senate Democratic Caucus for a briefing by him and Elias about what a Democratic aide said was the "current landscape of election threats from Trump and his allies." The aide spoke on condition of anonymity to discuss the private briefing.
+"We've been, you know, blocking and tackling and protecting and defending our elections for months and through the last few weeks of the voting window, and it'll all culminate tomorrow," California Attorney General Rob Bonta told CNBC on Monday evening. "And each of Trump's attempts has failed."
+"I'm not sure what he has up his sleeves," Bonta said of Trump.
+Bonta said he and other California officials, along with the 23 other Democratic state attorneys general for months have been preparing for Election Day and potential actions by the Trump administration "to disenfranchise and suppress votes and voters."
+"We game-planned, and ... war-gamed and tabletop- and scenario planned all the possibilities," Bonta said.
+Bonta said that if extreme events happened, California officials would quickly seek relief from the court system.
+He noted, "We have laws in place right now where it is a criminal offense" to remove ballots from the custody and control of an election official.
+On Monday, multiple federal courts dealt with urgent motions in election-related lawsuits and appeals by and against the Trump administration.
+The DOJ on Monday asked the Supreme Court to block California from counting about 20,000 mail-in ballots from voters whom the DOJ suggests might not be U.S. citizens. Hours later, the Supreme Court rejected that request without any noted dissents.
+In U.S. District Court in Washington, a DOJ lawyer told Judge Reggie Walton on Monday that the department expected to deploy 900 people to monitor polling places at sites in all 50 states.
+"In 2024, there were about 100 monitors," the lawyer, Kathryn Barragan, said.
+The DOJ on Tuesday said it was deploying approximately 1,000 election monitors and observers across the country. The areas it is focusing on are primarily in urban areas that vote Democratic.
+Barragan's statement came at a hearing where Walton was considering an emergency request by the NAACP to bar the DOJ from using election monitors who are federal law enforcement personnel.
+John Cusick, assistant counsel at the Legal Defense Fund, a civil rights group, said the administration has used the DOJ, Department of Homeland Security and other federal agencies to target election procedures this election cycle for three main reasons.
+"First and foremost, it's an attempt to intimidate voters and election officials," Cusick said in an interview.
+"The second component is confusion" about election rules, he said. "And the third, the unfortunate part, is trying to lay the groundwork for challenging the post-election counting and certification of ballots."
+He said there has been a "constant barrage" by the administration to target election workers and election officials with unlawful actions.
+"That has created such a chilling effect," Cusick said. "There's no doubt that the threats are threats to our democracy."
+The DOJ, which did not respond to a request for comment by CNBC for this article, has previously defended its election-related efforts.
+"Voting by noncitizens and other ineligible voters is a federal crime, and the department will enforce the law whether a case involves one illegal ballot or hundreds," the DOJ's rapid response account on X said on Oct. 12.
+Attorney General Todd Blanche, when asked on Oct. 22 if there was any scenario in which the DOJ would try to block states from certifying their election results, conceded that was possible.
+"I mean, is there any scenario?" Blanche told reporters in Virginia. "Yes, of course. There's scenarios that we could all come up with, hypothetically, you know, some doomsday scenario, for example."
+"It is not DOJ's intention to, and it's never our intention to improperly interfere with elections and the state confirmation process or certification process," the attorney general said.
+"But, you know, to say that there's no circumstances that we would ever do that? Of course I'm not going to say that."
+Cusick and other experts note the president and executive branch of the federal government have no official role in administering elections, which are handled by the states as designated under the Constitution.
+In her ruling Sunday dismissing the DOJ's Alaska Senate lawsuit, District Court Judge Sharon Gleason said the Trump administration was making requests that involve "the time, place, and manner of Alaska's election, which are the responsibilities of the State, not the executive branch of the federal government."
+On Monday, a bipartisan group of former election officials in a filing told the 9th Circuit U.S. Court of Appeals that "increased federal pressure and threats on election officials ... are part of a pattern by the administration of attempting to assert authority over elections and questioning the integrity of state and local officials."
+The filing came in a case where the DOJ is appealing an order issued Friday by a federal judge in California barring the Trump administration "from carrying out a series of efforts to actually or attempting to intimidate, threaten, or coerce election workers who aid others in exercising their right to vote."
+The judge cited threats by the DOJ to prosecute state and local election officials if they process and count ballots using procedures that are legally required.
+Bonta, California's attorney general, said he expected Trump and the DOJ To continue targeting states over their election procedures through the next cycle in 2028, when voters will choose a new president.
+"We can't be naive about it. We have to expect it to get worse, prepared for it to get worse. I don't want to be alarmist," Bonta said. "I am a realist though, and I see the way he thinks and acts and what he's done, and maybe we'll be prepared for the worst, and it'll never happen."
+"But we can't not be prepared for it. And I expect him to escalate as he gets more desperate."`,
+    bodyJa: `The Trump administration's months-long campaign to challenge how states conduct elections and pushback against those efforts came to a head on Election Day on Tuesday.
+Those efforts have included lawsuits, an attempt to implement a new U.S. Postal Service rule for mail-in ballots this year, threatening letters to state election officials and a plan to increase the number of poll monitors.
+On Tuesday afternoon, The New York Times reported that the Department of Justice had sent letters to about 20 Democrats, among them prominent election lawyer Marc Elias, informing them that they might be targets in a criminal investigation of how a candidate with the same name as incumbent Republican Sen. Dan Sullivan ended up on the ballot of the Alaska Senate race.
+NBC News reported that the tally of letters includes both target letters "and preservation requests to third parties to retain records."
+Elias has represented Mary Peltola, the Democratic nominee in the Alaska election. In addition to him, at least one official at the Democratic Senatorial Campaign Committee was sent a target letter, The Times reported.
+"The department is investigating possible donor fraud and conspiracy charges," according to The Times, citing a person familiar with the investigation.
+Receiving a target letter does not mean a person has been charged with a crime, and does not necessarily mean that they will be charged.
+In a statement, Elias said, "No one should be surprised that President Trump's Department of Justice is targeting me and my law firm on Election Day."
+President Donald Trump, during an interview earlier Tuesday on Fox News' "Fox and Friends," blasted Elias.
+"You had the Democrat Party headed up by Elias, their lawyer, who was a bad guy, very bad guy — should go to jail, in my opinion, " Trump said. "But you had the Democrat Party look all over Alaska for somebody named Sullivan."
+A federal judge on Sunday dismissed the DOJ lawsuit that sought to delay certification of Alaska's Senate election if incumbent Sen. Sullivan loses by a margin that could be attributable to voter confusion from having another Dan Sullivan on the ballot. The DOJ is appealing that ruling.
+That case, and the reported letters to Elias and other Democrats, underscore the likelihood that the Trump administration's election-targeting efforts will continue beyond Election Day.
+Democratic lawmakers, attorneys general and advocacy groups are poised for battle if the administration tries to interfere with voting sites or challenge ballot counts, particularly in the states that could determine whether Trump's fellow Republicans lose their narrow Senate majority.
+Senate Minority Leader Chuck Schumer, D-N.Y., on Sunday night convened the entire Senate Democratic Caucus for a briefing by him and Elias about what a Democratic aide said was the "current landscape of election threats from Trump and his allies." The aide spoke on condition of anonymity to discuss the private briefing.
+"We've been, you know, blocking and tackling and protecting and defending our elections for months and through the last few weeks of the voting window, and it'll all culminate tomorrow," California Attorney General Rob Bonta told CNBC on Monday evening. "And each of Trump's attempts has failed."
+"I'm not sure what he has up his sleeves," Bonta said of Trump.
+Bonta said he and other California officials, along with the 23 other Democratic state attorneys general for months have been preparing for Election Day and potential actions by the Trump administration "to disenfranchise and suppress votes and voters."
+"We game-planned, and ... war-gamed and tabletop- and scenario planned all the possibilities," Bonta said.
+Bonta said that if extreme events happened, California officials would quickly seek relief from the court system.
+He noted, "We have laws in place right now where it is a criminal offense" to remove ballots from the custody and control of an election official.
+On Monday, multiple federal courts dealt with urgent motions in election-related lawsuits and appeals by and against the Trump administration.
+The DOJ on Monday asked the Supreme Court to block California from counting about 20,000 mail-in ballots from voters whom the DOJ suggests might not be U.S. citizens. Hours later, the Supreme Court rejected that request without any noted dissents.
+In U.S. District Court in Washington, a DOJ lawyer told Judge Reggie Walton on Monday that the department expected to deploy 900 people to monitor polling places at sites in all 50 states.
+"In 2024, there were about 100 monitors," the lawyer, Kathryn Barragan, said.
+The DOJ on Tuesday said it was deploying approximately 1,000 election monitors and observers across the country. The areas it is focusing on are primarily in urban areas that vote Democratic.
+Barragan's statement came at a hearing where Walton was considering an emergency request by the NAACP to bar the DOJ from using election monitors who are federal law enforcement personnel.
+John Cusick, assistant counsel at the Legal Defense Fund, a civil rights group, said the administration has used the DOJ, Department of Homeland Security and other federal agencies to target election procedures this election cycle for three main reasons.
+"First and foremost, it's an attempt to intimidate voters and election officials," Cusick said in an interview.
+"The second component is confusion" about election rules, he said. "And the third, the unfortunate part, is trying to lay the groundwork for challenging the post-election counting and certification of ballots."
+He said there has been a "constant barrage" by the administration to target election workers and election officials with unlawful actions.
+"That has created such a chilling effect," Cusick said. "There's no doubt that the threats are threats to our democracy."
+The DOJ, which did not respond to a request for comment by CNBC for this article, has previously defended its election-related efforts.
+"Voting by noncitizens and other ineligible voters is a federal crime, and the department will enforce the law whether a case involves one illegal ballot or hundreds," the DOJ's rapid response account on X said on Oct. 12.
+Attorney General Todd Blanche, when asked on Oct. 22 if there was any scenario in which the DOJ would try to block states from certifying their election results, conceded that was possible.
+"I mean, is there any scenario?" Blanche told reporters in Virginia. "Yes, of course. There's scenarios that we could all come up with, hypothetically, you know, some doomsday scenario, for example."
+"It is not DOJ's intention to, and it's never our intention to improperly interfere with elections and the state confirmation process or certification process," the attorney general said.
+"But, you know, to say that there's no circumstances that we would ever do that? Of course I'm not going to say that."
+Cusick and other experts note the president and executive branch of the federal government have no official role in administering elections, which are handled by the states as designated under the Constitution.
+In her ruling Sunday dismissing the DOJ's Alaska Senate lawsuit, District Court Judge Sharon Gleason said the Trump administration was making requests that involve "the time, place, and manner of Alaska's election, which are the responsibilities of the State, not the executive branch of the federal government."
+On Monday, a bipartisan group of former election officials in a filing told the 9th Circuit U.S. Court of Appeals that "increased federal pressure and threats on election officials ... are part of a pattern by the administration of attempting to assert authority over elections and questioning the integrity of state and local officials."
+The filing came in a case where the DOJ is appealing an order issued Friday by a federal judge in California barring the Trump administration "from carrying out a series of efforts to actually or attempting to intimidate, threaten, or coerce election workers who aid others in exercising their right to vote."
+The judge cited threats by the DOJ to prosecute state and local election officials if they process and count ballots using procedures that are legally required.
+Bonta, California's attorney general, said he expected Trump and the DOJ To continue targeting states over their election procedures through the next cycle in 2028, when voters will choose a new president.
+"We can't be naive about it. We have to expect it to get worse, prepared for it to get worse. I don't want to be alarmist," Bonta said. "I am a realist though, and I see the way he thinks and acts and what he's done, and maybe we'll be prepared for the worst, and it'll never happen."
+"But we can't not be prepared for it. And I expect him to escalate as he gets more desperate."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html",
+    publishedAt: "2026-11-03T20:33:31+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "apple-warns-of-risks-related-to-ai-agent-baffd296",
+    title: "Apple warns of risks related to AI agents behaving in 'unintended or unpredictable' ways",
+    titleJa: "Apple warns of risks related to AI agents behaving in 'unintended or unpredictable' ways",
+    summaryJa: "Apple’s annual filing warns that AI agents could exceed permissions, resist instructions or take actions that are difficult to reverse.",
+    bodyOriginal: `Apple said in its annual financial filing on Tuesday that AI agents that can act in "unintended or unpredictable ways" could represent a threat to its business by opening the company up to lawsuits or hurting its reputation.
+The new risk factors in Apple's filing show the disruptive potential of AI agents, which have rapidly become top of mind for Silicon Valley's most important companies.
+"In particular, artificial intelligence agents and other technologies can take actions autonomously, including interacting with internal or external systems that in some cases they may not be authorized to access, executing or altering code, sending communications, and completing transactions," Apple wrote in the filing.
+The company added that agents "may behave in unintended or unpredictable ways, including by taking actions that were not directed, instructed or authorized."
+Earlier this year, OpenAI released Dots, and Meta introduced Muse. Both AI agents use advanced AI models to work autonomously for tasks. They can even email or remind users when new messages arrive.
+Apple's disclosure comes after several episodes that involved rogue AI agents breaking out of their sandboxes to hack third-party websites, like the Hugging Face incident, which has drawn renewed attention from policymakers in Washington, D.C., and around the world.
+Separately, the ability of agents to use a computer in human ways is forcing big companies like Amazon and JPMorgan Chase to come up with policies around agentic access to services for strategic or security reasons.
+Last month, Apple announced changes to full disk access on Macs to reduce "risks related to this level of access" for AI agents installed on PCs.
+"The Company's ability to oversee and control third-party artificial intelligence agents and other technologies may be limited," Apple warned in its filing.
+Apple doesn't currently have an agentic AI. But when new CEO John Ternus was asked on Monday's earnings call about AI agents, he said that the company had "real room" to expand Siri's capabilities.
+"As far as agentic capabilities, we think these are promising tools for users," Ternus said. "We just want to make sure that users are aware of what they are giving access to. We want to make sure this is done in a way that protects security and privacy."
+This fall, Apple released Siri AI, a new assistant that uses the iPhone's local data storage to access data like calendars and emails, but Apple's Siri can't work autonomously for long stretches like Dots or Muse.
+Ternus said Apple can't access private data on its devices, calling it a "core differentiator."
+"If you think about it, so much of your personal data is on your iPhone, whether it's your contacts, your communications, health data, financial data, all of that," Ternus said. "Siri can tap into that and help you access it in a way that's very secure and private and that nobody else has access to."
+Commercial AI agents like those from OpenAI and Meta ask for high-level access to the user's accounts like email in order to be more useful.
+Apple indicated that the current regulations around AI and "super intelligence" are changing, unpredictable and that it could cost a lot of money to adapt to new laws governing AI.
+"In addition, the Company is subject to the risks posed by ethical concerns and negative consumer perceptions related to automation, artificial intelligence and super intelligence, including perceived threats to safety or other societal harms or complications," according to the filing.`,
+    bodyJa: `Apple said in its annual financial filing on Tuesday that AI agents that can act in "unintended or unpredictable ways" could represent a threat to its business by opening the company up to lawsuits or hurting its reputation.
+The new risk factors in Apple's filing show the disruptive potential of AI agents, which have rapidly become top of mind for Silicon Valley's most important companies.
+"In particular, artificial intelligence agents and other technologies can take actions autonomously, including interacting with internal or external systems that in some cases they may not be authorized to access, executing or altering code, sending communications, and completing transactions," Apple wrote in the filing.
+The company added that agents "may behave in unintended or unpredictable ways, including by taking actions that were not directed, instructed or authorized."
+Earlier this year, OpenAI released Dots, and Meta introduced Muse. Both AI agents use advanced AI models to work autonomously for tasks. They can even email or remind users when new messages arrive.
+Apple's disclosure comes after several episodes that involved rogue AI agents breaking out of their sandboxes to hack third-party websites, like the Hugging Face incident, which has drawn renewed attention from policymakers in Washington, D.C., and around the world.
+Separately, the ability of agents to use a computer in human ways is forcing big companies like Amazon and JPMorgan Chase to come up with policies around agentic access to services for strategic or security reasons.
+Last month, Apple announced changes to full disk access on Macs to reduce "risks related to this level of access" for AI agents installed on PCs.
+"The Company's ability to oversee and control third-party artificial intelligence agents and other technologies may be limited," Apple warned in its filing.
+Apple doesn't currently have an agentic AI. But when new CEO John Ternus was asked on Monday's earnings call about AI agents, he said that the company had "real room" to expand Siri's capabilities.
+"As far as agentic capabilities, we think these are promising tools for users," Ternus said. "We just want to make sure that users are aware of what they are giving access to. We want to make sure this is done in a way that protects security and privacy."
+This fall, Apple released Siri AI, a new assistant that uses the iPhone's local data storage to access data like calendars and emails, but Apple's Siri can't work autonomously for long stretches like Dots or Muse.
+Ternus said Apple can't access private data on its devices, calling it a "core differentiator."
+"If you think about it, so much of your personal data is on your iPhone, whether it's your contacts, your communications, health data, financial data, all of that," Ternus said. "Siri can tap into that and help you access it in a way that's very secure and private and that nobody else has access to."
+Commercial AI agents like those from OpenAI and Meta ask for high-level access to the user's accounts like email in order to be more useful.
+Apple indicated that the current regulations around AI and "super intelligence" are changing, unpredictable and that it could cost a lot of money to adapt to new laws governing AI.
+"In addition, the Company is subject to the risks posed by ethical concerns and negative consumer perceptions related to automation, artificial intelligence and super intelligence, including perceived threats to safety or other societal harms or complications," according to the filing.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html",
+    publishedAt: "2026-11-03T20:10:41+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "what-the-2026-midterm-elections-could-me-5990e347",
+    title: "What the 2026 midterm elections could mean for Trump's final two years",
+    titleJa: "What the 2026 midterm elections could mean for Trump's final two years",
+    summaryJa: "Oddsmakers and public polls place Democrats in a favorable position ahead of Election Day.",
+    bodyOriginal: `Tuesday's midterm elections will at their heart determine control of Congress for the remainder of Donald Trump's presidency. U.S. voters will decide whether Trump will maintain his Republican iron grip on Washington or recede into lame-duck status after a Democratic triumph.
+If Republicans win, Trump could spend another two years facing little congressional resistance and pushing through major policy packages. If Democrats win one or both chambers, the president's remaining legislative priorities would be severely kneecapped, and even the basic functions of government could become gridlocked.
+Oddsmakers and public polls placed Democrats in a favorable position ahead of Election Day, especially for flipping control of the Republican-held House. Still, the balance of power will not be decided until ballots are counted — a process that could take days or, in some cases, weeks to complete. The Senate is expected to be particularly close, and if the balance of power comes down to Alaska, the nation may have to wait while the state counts.
+"The election results could trigger an immediate market reaction, particularly as the Senate outcome becomes clearer," the Washington Policy Strategy Group of Stifel wrote Sunday in an analyst report, where it predicted Democrats will win the House while the Senate remains too close to call. "However, the market's knee-jerk trade could reverse as investors recognize that gridlock remains the most likely policy outcome in either case."
+Republicans also control the Senate and with a larger majority than in the House.
+If Democrats capture one chamber of Congress, Washington policymaking would become significantly more gridlocked. Single-party budget reconciliation bills, the procedural vehicle for most major spending and policy changes in the current status quo of tight congressional margins, would become impossible. Bipartisanship would be required to advance legislation, making must-pass bills such as government funding packages, defense spending and the looming debt ceiling hike more important — and more contentious.
+In a divided Congress, the party that doesn't control the White House typically uses moments including government funding and debt-ceiling hikes to extract concessions from the majority party, a practice that can lead to brinksmanship.
+"If Republicans defy the conventional wisdom and maintain their Senate majority, then we would expect a relief rally in the sectors that might react negatively to a Democratic victory," Stifel wrote. "Democrats would still govern the House and gridlock would prevail. In this scenario, Senate Republicans would act as a check on both the Democrats and many of Trump's populist impulses."
+Democrats are also widely expected to use any majority in Congress to launch investigations into the White House and businesses that have worked with the Trump administration. The majority party gains subpoena power in congressional committees.
+Polling indicates a Democratic sweep of the House and Senate is possible. In that case, Democrats may more aggressively pursue party-line reconciliation measures that wouldn't become law but would give the party a megaphone ahead of the 2028 presidential election. Trump would still have the ability to veto legislation that Congress passed, severely limiting Democratic bills' prospects of becoming law.
+Must-pass legislation would be slightly easier to get through Congress if Democrats controlled both chambers. But deals would still need to be brokered with the White House, and the Senate's 60-vote filibuster threshold could still prove a hurdle that requires bipartisanship. Whichever party gains Senate control is highly unlikely to have at least 60 seats.
+Democratic lawmakers in both the House and Senate would jump at the chance to lead investigations of the White House and business if given the opportunity.
+In either a divided Congress or unified Democratic Congress, analysts expect Trump's use of executive orders will increase due to congressional gridlock.
+There is a possibility Republicans maintain control of both chambers of Congress. In that case, Trump's remaining legislative agenda could continue to be enacted, and the status quo would be maintained.
+Democrats would still hold some leverage, largely due to the Senate's 60-vote filibuster threshold, but would be limited in investigating the White House and business.`,
+    bodyJa: `Tuesday's midterm elections will at their heart determine control of Congress for the remainder of Donald Trump's presidency. U.S. voters will decide whether Trump will maintain his Republican iron grip on Washington or recede into lame-duck status after a Democratic triumph.
+If Republicans win, Trump could spend another two years facing little congressional resistance and pushing through major policy packages. If Democrats win one or both chambers, the president's remaining legislative priorities would be severely kneecapped, and even the basic functions of government could become gridlocked.
+Oddsmakers and public polls placed Democrats in a favorable position ahead of Election Day, especially for flipping control of the Republican-held House. Still, the balance of power will not be decided until ballots are counted — a process that could take days or, in some cases, weeks to complete. The Senate is expected to be particularly close, and if the balance of power comes down to Alaska, the nation may have to wait while the state counts.
+"The election results could trigger an immediate market reaction, particularly as the Senate outcome becomes clearer," the Washington Policy Strategy Group of Stifel wrote Sunday in an analyst report, where it predicted Democrats will win the House while the Senate remains too close to call. "However, the market's knee-jerk trade could reverse as investors recognize that gridlock remains the most likely policy outcome in either case."
+Republicans also control the Senate and with a larger majority than in the House.
+If Democrats capture one chamber of Congress, Washington policymaking would become significantly more gridlocked. Single-party budget reconciliation bills, the procedural vehicle for most major spending and policy changes in the current status quo of tight congressional margins, would become impossible. Bipartisanship would be required to advance legislation, making must-pass bills such as government funding packages, defense spending and the looming debt ceiling hike more important — and more contentious.
+In a divided Congress, the party that doesn't control the White House typically uses moments including government funding and debt-ceiling hikes to extract concessions from the majority party, a practice that can lead to brinksmanship.
+"If Republicans defy the conventional wisdom and maintain their Senate majority, then we would expect a relief rally in the sectors that might react negatively to a Democratic victory," Stifel wrote. "Democrats would still govern the House and gridlock would prevail. In this scenario, Senate Republicans would act as a check on both the Democrats and many of Trump's populist impulses."
+Democrats are also widely expected to use any majority in Congress to launch investigations into the White House and businesses that have worked with the Trump administration. The majority party gains subpoena power in congressional committees.
+Polling indicates a Democratic sweep of the House and Senate is possible. In that case, Democrats may more aggressively pursue party-line reconciliation measures that wouldn't become law but would give the party a megaphone ahead of the 2028 presidential election. Trump would still have the ability to veto legislation that Congress passed, severely limiting Democratic bills' prospects of becoming law.
+Must-pass legislation would be slightly easier to get through Congress if Democrats controlled both chambers. But deals would still need to be brokered with the White House, and the Senate's 60-vote filibuster threshold could still prove a hurdle that requires bipartisanship. Whichever party gains Senate control is highly unlikely to have at least 60 seats.
+Democratic lawmakers in both the House and Senate would jump at the chance to lead investigations of the White House and business if given the opportunity.
+In either a divided Congress or unified Democratic Congress, analysts expect Trump's use of executive orders will increase due to congressional gridlock.
+There is a possibility Republicans maintain control of both chambers of Congress. In that case, Trump's remaining legislative agenda could continue to be enacted, and the status quo would be maintained.
+Democrats would still hold some leverage, largely due to the Senate's 60-vote filibuster threshold, but would be limited in investigating the White House and business.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/03/midterm-elections-congress-trump-democrats-republicans.html",
+    publishedAt: "2026-11-03T18:29:24+00:00",
+    category: "自動車",
+    imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "asda-hires-ex-morrisons-boss-in-bid-to-g-ceb9773e",
+    title: "Asda hires ex-Morrisons boss in bid to grow firm",
+    titleJa: "Asda hires ex-Morrisons boss in bid to grow firm",
+    summaryJa: "David Potts takes charge of Asda, which is based in Leeds, with immediate effect.",
+    bodyOriginal: `Asda hires ex-Morrisons boss in bid to grow firm
+- Published
+Asda has appointed a former Morrisons boss as chief executive to help lead revival efforts at the supermarket chain.
+Asda, which is based in Leeds, said David Potts would take on the role with immediate effect, while current boss Allan Leighton would become non-executive chairman, two years after returning to lead the supermarket chain.
+Potts led Morrisons from its Bradford headquarters for eight years until 2023, overseeing a turnaround during which the supermarket chain was bought by US private equity firm Clayton, Dubilier & Rice.
+Potts said Asda had "made good progress but significant opportunities remain" to reinvigorate sales, with a focus on keeping prices low for shoppers.
+"By making improvements to the shopping trip every week, which customers can experience and feel in their pockets, we will revitalise the business and bring benefits for all our stakeholders, including our 116,296 very hard-working colleagues," he said.
+Before joining Morrisons, Potts was chief executive of Tesco's Irish business, its UK arm and its Asian operation.
+According to Asda, Leighton had planned to step aside from the day-to-day running of the group, after he returned in 2024, more than two decades after serving as chief executive.
+"Over the last two years, we have stabilised the business and returned it to some growth," said Leighton.
+"David has an outstanding record in our industry, his experience is exactly what we now require for the next stage of our transformation and beyond and it will be great to work with him."
+Last year, issues with an IT upgrade hit product availability at the supermarket and dented sales, impacting its bottom line.
+But in August, it reported sales had returned to growth for the current quarter for the first time in two years.
+Get in touch
+Your Voice
+Listen to highlights from West Yorkshire on BBC Sounds, catch up with the latest episode of Look North.
+More stories like this
+- Published22 May
+- Published25 August
+- Published18 June`,
+    bodyJa: `Asda hires ex-Morrisons boss in bid to grow firm
+- Published
+Asda has appointed a former Morrisons boss as chief executive to help lead revival efforts at the supermarket chain.
+Asda, which is based in Leeds, said David Potts would take on the role with immediate effect, while current boss Allan Leighton would become non-executive chairman, two years after returning to lead the supermarket chain.
+Potts led Morrisons from its Bradford headquarters for eight years until 2023, overseeing a turnaround during which the supermarket chain was bought by US private equity firm Clayton, Dubilier & Rice.
+Potts said Asda had "made good progress but significant opportunities remain" to reinvigorate sales, with a focus on keeping prices low for shoppers.
+"By making improvements to the shopping trip every week, which customers can experience and feel in their pockets, we will revitalise the business and bring benefits for all our stakeholders, including our 116,296 very hard-working colleagues," he said.
+Before joining Morrisons, Potts was chief executive of Tesco's Irish business, its UK arm and its Asian operation.
+According to Asda, Leighton had planned to step aside from the day-to-day running of the group, after he returned in 2024, more than two decades after serving as chief executive.
+"Over the last two years, we have stabilised the business and returned it to some growth," said Leighton.
+"David has an outstanding record in our industry, his experience is exactly what we now require for the next stage of our transformation and beyond and it will be great to work with him."
+Last year, issues with an IT upgrade hit product availability at the supermarket and dented sales, impacting its bottom line.
+But in August, it reported sales had returned to growth for the current quarter for the first time in two years.
+Get in touch
+Your Voice
+Listen to highlights from West Yorkshire on BBC Sounds, catch up with the latest episode of Look North.
+More stories like this
+- Published22 May
+- Published25 August
+- Published18 June`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-03T15:12:35+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bba/live/70863010-d794-11f1-801d-cf196dc7232c.jpg",
+    readTime: 5,
+  },
+  {
+    id: "mining-giant-joins-fight-to-stop-killer-48b8d503",
+    title: "Mining giant joins fight to stop killer toad march across Australia",
+    titleJa: "Mining giant joins fight to stop killer toad march across Australia",
+    summaryJa: "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
+    bodyOriginal: `Mining giant joins fight to stop killer toad march across Australia
+- Published
+Rio Tinto is ploughing millions of dollars into stopping the poisonous cane toad reaching the Pilbara region of western Australia, where the mining giant has a vast iron ore operation.
+The firm, alongside Curtin University in Perth and others, will spend A$28m (£14.5m) building a "toad containment zone" to prevent the pest travelling south.
+While the cane toad is not a direct threat to Rio Tinto's business, it produces toxins lethal to native wildlife and poses a threat to Pilbara's ecosystem.
+Rio Tinto has previously faced criticism for destroying two sacred Aboriginal rock shelters in Pilbara which sat above tonnes of iron ore.
+The decision cost the former chief executive his job, provoked a widespread backlash and saw Rio Tinto commit to rebuilding trust with Indigenous communities.
+Commenting on the proposed containment zone, Roberta Hunter, a ranger in Australia's Nyangumarta Warrarn Indigenous Protected Area, said: "Cane toads destroy the water and animals.
+"When toads come close to our country, we want to be there to stop them because we don't want the country to be destroyed."
+The plan is to cut off the toad's water supply by building a barrier across 7,500 sq km (2,895 sq m) of land between the Great Sandy Desert and the Indian Ocean.
+In drier months, the cane toad needs water every few days to survive.
+If there are no natural water sources, the toad relies on artificial water points normally used for cattle and irrigation.
+The funding will be used to stop the toad accessing dams, storage tanks or other ground-level water sources. The five-year project will begin in 2027.
+A number of native species are at risk if the toad gets into Pilbara. These include the northern quoll, whose numbers have been decreasing, the goanna lizard and the ghost bat.
+The toads were introduced into Australia in 1935 to control beetles within the sugar cane industry.
+Since then, they have been on a slow march west across the country's northern landscape, according to the Australian government, travelling between 40 km and 60 km a year.
+There are no predators or diseases that control the toads, which defend themselves using poison.
+Ben Phillips, a professor at Curtin University, said the toads would reach Pilbara within two decades without action.
+He said: "The toad containment zone is a once in a lifetime opportunity to stop one of the world's worst invasive species in its tracks and protect the region's unique wildlife."`,
+    bodyJa: `Mining giant joins fight to stop killer toad march across Australia
+- Published
+Rio Tinto is ploughing millions of dollars into stopping the poisonous cane toad reaching the Pilbara region of western Australia, where the mining giant has a vast iron ore operation.
+The firm, alongside Curtin University in Perth and others, will spend A$28m (£14.5m) building a "toad containment zone" to prevent the pest travelling south.
+While the cane toad is not a direct threat to Rio Tinto's business, it produces toxins lethal to native wildlife and poses a threat to Pilbara's ecosystem.
+Rio Tinto has previously faced criticism for destroying two sacred Aboriginal rock shelters in Pilbara which sat above tonnes of iron ore.
+The decision cost the former chief executive his job, provoked a widespread backlash and saw Rio Tinto commit to rebuilding trust with Indigenous communities.
+Commenting on the proposed containment zone, Roberta Hunter, a ranger in Australia's Nyangumarta Warrarn Indigenous Protected Area, said: "Cane toads destroy the water and animals.
+"When toads come close to our country, we want to be there to stop them because we don't want the country to be destroyed."
+The plan is to cut off the toad's water supply by building a barrier across 7,500 sq km (2,895 sq m) of land between the Great Sandy Desert and the Indian Ocean.
+In drier months, the cane toad needs water every few days to survive.
+If there are no natural water sources, the toad relies on artificial water points normally used for cattle and irrigation.
+The funding will be used to stop the toad accessing dams, storage tanks or other ground-level water sources. The five-year project will begin in 2027.
+A number of native species are at risk if the toad gets into Pilbara. These include the northern quoll, whose numbers have been decreasing, the goanna lizard and the ghost bat.
+The toads were introduced into Australia in 1935 to control beetles within the sugar cane industry.
+Since then, they have been on a slow march west across the country's northern landscape, according to the Australian government, travelling between 40 km and 60 km a year.
+There are no predators or diseases that control the toads, which defend themselves using poison.
+Ben Phillips, a professor at Curtin University, said the toads would reach Pilbara within two decades without action.
+He said: "The toad containment zone is a once in a lifetime opportunity to stop one of the world's worst invasive species in its tracks and protect the region's unique wildlife."`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-03T15:05:01+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1be5/live/c655d960-d770-11f1-a956-ff083523ef77.jpg",
+    readTime: 6,
+  },
+  {
     id: "u-s-crude-oil-falls-below-95-per-barrel-47867581",
     title: "U.S. crude oil falls below $95 per barrel as market hopes for diplomatic resolution to Iran war",
     titleJa: "U.S. crude oil falls below $95 per barrel as market hopes for diplomatic resolution to Iran war",
@@ -1744,414 +2156,6 @@ Election officials originally had blocked the retired teacher from the primary b
     publishedAt: "2026-11-01T21:25:03+00:00",
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "democratic-rep-stevens-endorses-republic-d24fcaa3",
-    title: "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
-    titleJa: "Democratic Rep. Stevens endorses Republican Rogers over rival El-Sayed in Michigan Senate election",
-    summaryJa: "Haley Stevens had lost the Democratic nomination for Senate in Michigan to Abdul El-Sayed earlier this year.",
-    bodyOriginal: `Michigan Democratic Rep. Haley Stevens, in a stunning move, endorsed Republican Senate nominee Mike Rogers over Democratic nominee Abdul El-Sayed on Sunday.
-Stevens lost the Democratic primary to El-Sayed earlier this year, but since then had backed his candidacy.
-Her endorsement of Rogers came after days of rising tension with El-Sayed and his campaign over an inflammatory ad by a political action committee, Rebellion PAC, which depicted a couple debating whether they could afford groceries due to U.S. support for Israel.
-El-Sayed's campaign has said it was not involved or affiliated with the ad.
-The stunning endorsement was announced two days before Election Day, when voters will decide which party will control Congress for President Donald Trump's final two years in the White House. The outcome of the Michigan Senate race could determine which party holds a majority in the Senate, where Republicans currently hold a slim majority.
-"Hey Michigan, as you may have seen, our Democratic nominee for U.S. Senate, Abdul, said I'm no longer welcome in his campaign, and I should stay away, and he's right," Stevens said in a video statement on X.
-"And that's why I am endorsing Mike Rogers for the United States Senate today," she said.
-"I don't belong in Abdul's campaign. I do not stand with Hasan Piker, who gets trafficked on our college campuses," said Stevens.
-Piker is a controversial political commentator who has campaigned with El-Sayed.
-El-Sayed, standing with Rep. Jim Clyburn, D-S.C., and Sen. Angela Alsobrooks, D-Md., outside a church on Sunday, dismissed Stevens endorsement of his opponent.
-"I actually don't think about Haley Stevens," El-Sayed said. "There are families that are preparing to send their kids to schools tomorrow that look like they did 50 years ago. They're worried about what they're going to feed their kids for lunch. They're worried that if one of their kids gets sick, they're not going to be able to pay the bills. Those are the things that matter."
-Rogers and El-Sayed are vying for a seat set to become vacant after Democratic Sen. Gary Peters decided not to seek re-election.
-In recent weeks, a deepening rift has worsened between El-Sayed and Stevens. At the center of it is U.S. support for Israel, which was a major issue in the primary contest.
-Stevens is a staunch supporter of Israel; El-Sayed has called the country's conduct in Gaza after the Oct. 7, 2023, terror attacks by the radical group Hamas a genocide.
-Stevens' fiancé, Jason Turkish, endorsed Rogers before Stevens' flip-flop, citing what he said was rising antisemitism.
-"I'm sorry people are upset," Stevens told reporters at a press conference in Detroit, standing with Rogers, whom she had attended church with Sunday morning.
-"I understand that," she said.
-Staffers in Stevens congressional office quit following her endorsement.
-"As of this morning, many members of our team have resigned, including myself," Justin German, Stevens' chief of staff for eight years, said in a statement obtained by MS NOW.
-"We are shocked and heartbroken by Congresswoman Stevens' decision to support Mike Rogers," German said, adding that he was speaking on behalf of the team "in wholeheartedly supporting Abdul El-Sayed for Senate," German said.
-Stevens had the endorsement of much of the Democratic establishment during the bruising primary, making her endorsement of Rogers even more stunning.
-She was the preferred candidate of Senate Minority Leader Chuck Schumer of New York, who on Sunday reiterated his support for El-Sayed and accused Republicans of Islamophobia.
-"Senate Democrats are united in our support for Abdul El-Sayed, because we know he will fight for the economic interests of working families in Michigan, unlike Mike Rogers, who is a tool of Donald Trump and billionaire donors," Schumer said. "We Democrats [are] equally united in our total revulsion at the racist, Islamophobic, and over-the-top false attacks on Abdul by Republicans."
-In a later post to X, Schumer called her endorsement of Rogers "a despicable betrayal from Rep. Stevens."
-Peters and Michigan Democratic Sen. Elissa Slotkin both disavowed Stevens for her endorsement.
-"[A]nyone who makes an election this important about themselves, and not Michiganders and our democracy, should think hard about whether they are serving the greater good," Slotkin said in a post to X.
-Curtis Hertel, the chair of the Michigan Democratic Party, appeared to suggest that Stevens had been kicked out of the party.
-"Congresswoman Stevens is not a current member of the Michigan Democratic Party, nor will she be in the future," he said in an X post.
-In a Truth Social post, Trump praised Stevens' endorsement.
-"Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the Primary to Abdul Mohamed El-Sayed, and who has been breathlessly wined and dined by the Dumocrats to help in their Michigan Campaign for the United States Senate against Mike Rogers, has just ENDORSED Mike Rogers for Senate!" the president said.
-"Her following is huge, and the level of respect from the People of Michigan, especially our African American and Jewish populations, is virtually unparalleled," he said.`,
-    bodyJa: `Michigan Democratic Rep. Haley Stevens, in a stunning move, endorsed Republican Senate nominee Mike Rogers over Democratic nominee Abdul El-Sayed on Sunday.
-Stevens lost the Democratic primary to El-Sayed earlier this year, but since then had backed his candidacy.
-Her endorsement of Rogers came after days of rising tension with El-Sayed and his campaign over an inflammatory ad by a political action committee, Rebellion PAC, which depicted a couple debating whether they could afford groceries due to U.S. support for Israel.
-El-Sayed's campaign has said it was not involved or affiliated with the ad.
-The stunning endorsement was announced two days before Election Day, when voters will decide which party will control Congress for President Donald Trump's final two years in the White House. The outcome of the Michigan Senate race could determine which party holds a majority in the Senate, where Republicans currently hold a slim majority.
-"Hey Michigan, as you may have seen, our Democratic nominee for U.S. Senate, Abdul, said I'm no longer welcome in his campaign, and I should stay away, and he's right," Stevens said in a video statement on X.
-"And that's why I am endorsing Mike Rogers for the United States Senate today," she said.
-"I don't belong in Abdul's campaign. I do not stand with Hasan Piker, who gets trafficked on our college campuses," said Stevens.
-Piker is a controversial political commentator who has campaigned with El-Sayed.
-El-Sayed, standing with Rep. Jim Clyburn, D-S.C., and Sen. Angela Alsobrooks, D-Md., outside a church on Sunday, dismissed Stevens endorsement of his opponent.
-"I actually don't think about Haley Stevens," El-Sayed said. "There are families that are preparing to send their kids to schools tomorrow that look like they did 50 years ago. They're worried about what they're going to feed their kids for lunch. They're worried that if one of their kids gets sick, they're not going to be able to pay the bills. Those are the things that matter."
-Rogers and El-Sayed are vying for a seat set to become vacant after Democratic Sen. Gary Peters decided not to seek re-election.
-In recent weeks, a deepening rift has worsened between El-Sayed and Stevens. At the center of it is U.S. support for Israel, which was a major issue in the primary contest.
-Stevens is a staunch supporter of Israel; El-Sayed has called the country's conduct in Gaza after the Oct. 7, 2023, terror attacks by the radical group Hamas a genocide.
-Stevens' fiancé, Jason Turkish, endorsed Rogers before Stevens' flip-flop, citing what he said was rising antisemitism.
-"I'm sorry people are upset," Stevens told reporters at a press conference in Detroit, standing with Rogers, whom she had attended church with Sunday morning.
-"I understand that," she said.
-Staffers in Stevens congressional office quit following her endorsement.
-"As of this morning, many members of our team have resigned, including myself," Justin German, Stevens' chief of staff for eight years, said in a statement obtained by MS NOW.
-"We are shocked and heartbroken by Congresswoman Stevens' decision to support Mike Rogers," German said, adding that he was speaking on behalf of the team "in wholeheartedly supporting Abdul El-Sayed for Senate," German said.
-Stevens had the endorsement of much of the Democratic establishment during the bruising primary, making her endorsement of Rogers even more stunning.
-She was the preferred candidate of Senate Minority Leader Chuck Schumer of New York, who on Sunday reiterated his support for El-Sayed and accused Republicans of Islamophobia.
-"Senate Democrats are united in our support for Abdul El-Sayed, because we know he will fight for the economic interests of working families in Michigan, unlike Mike Rogers, who is a tool of Donald Trump and billionaire donors," Schumer said. "We Democrats [are] equally united in our total revulsion at the racist, Islamophobic, and over-the-top false attacks on Abdul by Republicans."
-In a later post to X, Schumer called her endorsement of Rogers "a despicable betrayal from Rep. Stevens."
-Peters and Michigan Democratic Sen. Elissa Slotkin both disavowed Stevens for her endorsement.
-"[A]nyone who makes an election this important about themselves, and not Michiganders and our democracy, should think hard about whether they are serving the greater good," Slotkin said in a post to X.
-Curtis Hertel, the chair of the Michigan Democratic Party, appeared to suggest that Stevens had been kicked out of the party.
-"Congresswoman Stevens is not a current member of the Michigan Democratic Party, nor will she be in the future," he said in an X post.
-In a Truth Social post, Trump praised Stevens' endorsement.
-"Congresswoman Haley Stevens, a Highly Respected Democrat, who narrowly lost in the Primary to Abdul Mohamed El-Sayed, and who has been breathlessly wined and dined by the Dumocrats to help in their Michigan Campaign for the United States Senate against Mike Rogers, has just ENDORSED Mike Rogers for Senate!" the president said.
-"Her following is huge, and the level of respect from the People of Michigan, especially our African American and Jewish populations, is virtually unparalleled," he said.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
-    publishedAt: "2026-11-01T21:06:42+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "my-wife-cried-when-i-found-out-she-had-o-7376d159",
-    title: "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-    titleJa: "My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?",
-    summaryJa: "“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”",
-    bodyOriginal: `“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”`,
-    bodyJa: `“When I brought up retiring last spring, she said she was ready whenever I was, and I took that to mean we were in good shape.”`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories",
-    publishedAt: "2026-11-01T20:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-19916000",
-    readTime: 2,
-  },
-  {
-    id: "thousands-of-jobs-at-virgin-media-o2-to-694b6645",
-    title: "Thousands of jobs at Virgin Media O2 to be cut",
-    titleJa: "Thousands of jobs at Virgin Media O2 to be cut",
-    summaryJa: "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
-    bodyOriginal: `Thousands of jobs at Virgin Media O2 to be cut
-- Published
-Thousands of Virgin Media O2 staff face redundancy risk as the telecoms firm looks to save money in the face of billions of pounds of debt and tougher competition.
-The broadband provider has not finalised the number of roles to be cut but it is likely be a sizeable chunk of its 16,000 workforce, the BBC understands.
-VMO2 has billions of debt on its balance sheet and is tackling competition from both smaller providers as well as giants like BT, which has agreed a deal to acquire rival TalkTalk, a move which VMO2 has firmly opposed.
-VMO2 declined to comment. The Prospect union, which represents VMO2 staff, said the cuts were "disappointing and very unsettling".
-Deputy general secretary Noel McClean said it is "committed to supporting our members through what is a difficult time, as well as also working with employers to explore ways to mitigate the number of redundancies and ensure retraining and redeployment of staff affected".
-The majority of the affected staff will be in non-customer facing roles and a number of senior leadership changes are already under way, the BBC has been told.
-VMO2 is also expected to review its use of contractors and suppliers in conjunction with the job cuts that were first reported by Sky News.
-As of 30 June, VMO2's total debt stands at £27.2bn while it holds assets worth £45.9bn, according to the firm's latest accounts.
-Meanwhile, the company is dealing with fierce competition from cheaper "altnets" like Hyperoptic, Community Fibre, Gigaclear, and YouFibre.
-VMO2's had attempted to respond to this growing threat by buying altnet competitor Netomnia for £2bn via nexfibre, a joint venture owned by VMO2's owners.
-However, the Competition Markets Authority (CMA) has provisionally found competition concerns in the deal, external, with a final decision to come in December, sparking anger from VMO2.
-BT share price jump
-At the time, VMO2 called the BT takeover a "stitch-up", which allowed its rival "tighten its grip" over the market.
-BT said its deal provided "a safety net" for TalkTalk customers as their broadband provider faced collapse without the takeover.
-On Friday, BT's share price jumped 7% after the Financial Times reported VMO2 was close to agreeing a deal , external to use its rival's fibre broadband network.
-VMO2 was minded to go ahead with the plans after halting upgrades and expansion of its own infrastructure to ease concerns over its debt pile, the paper reported.
-The BBC has been told the deal is very close and that VMO2 is highly likely to announce it will stop all investment in fibre in its results on Tuesday.
-Additional reporting by Ben King
-- Published5 October`,
-    bodyJa: `Thousands of jobs at Virgin Media O2 to be cut
-- Published
-Thousands of Virgin Media O2 staff face redundancy risk as the telecoms firm looks to save money in the face of billions of pounds of debt and tougher competition.
-The broadband provider has not finalised the number of roles to be cut but it is likely be a sizeable chunk of its 16,000 workforce, the BBC understands.
-VMO2 has billions of debt on its balance sheet and is tackling competition from both smaller providers as well as giants like BT, which has agreed a deal to acquire rival TalkTalk, a move which VMO2 has firmly opposed.
-VMO2 declined to comment. The Prospect union, which represents VMO2 staff, said the cuts were "disappointing and very unsettling".
-Deputy general secretary Noel McClean said it is "committed to supporting our members through what is a difficult time, as well as also working with employers to explore ways to mitigate the number of redundancies and ensure retraining and redeployment of staff affected".
-The majority of the affected staff will be in non-customer facing roles and a number of senior leadership changes are already under way, the BBC has been told.
-VMO2 is also expected to review its use of contractors and suppliers in conjunction with the job cuts that were first reported by Sky News.
-As of 30 June, VMO2's total debt stands at £27.2bn while it holds assets worth £45.9bn, according to the firm's latest accounts.
-Meanwhile, the company is dealing with fierce competition from cheaper "altnets" like Hyperoptic, Community Fibre, Gigaclear, and YouFibre.
-VMO2's had attempted to respond to this growing threat by buying altnet competitor Netomnia for £2bn via nexfibre, a joint venture owned by VMO2's owners.
-However, the Competition Markets Authority (CMA) has provisionally found competition concerns in the deal, external, with a final decision to come in December, sparking anger from VMO2.
-BT share price jump
-At the time, VMO2 called the BT takeover a "stitch-up", which allowed its rival "tighten its grip" over the market.
-BT said its deal provided "a safety net" for TalkTalk customers as their broadband provider faced collapse without the takeover.
-On Friday, BT's share price jumped 7% after the Financial Times reported VMO2 was close to agreeing a deal , external to use its rival's fibre broadband network.
-VMO2 was minded to go ahead with the plans after halting upgrades and expansion of its own infrastructure to ease concerns over its debt pile, the paper reported.
-The BBC has been told the deal is very close and that VMO2 is highly likely to announce it will stop all investment in fibre in its results on Tuesday.
-Additional reporting by Ben King
-- Published5 October`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-01T16:57:14+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac17/live/9ec7c8b0-d610-11f1-bdc5-33a5057f63d4.jpg",
-    readTime: 7,
-  },
-  {
-    id: "for-jpmorgan-amazon-fighting-ai-bots-lik-c9ab2806",
-    title: "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
-    titleJa: "For JPMorgan, Amazon, fighting AI bots like Meta Muse may not be a winning long-term strategy",
-    summaryJa: "As companies from Amazon to JPMorgan block AI personal agents like Meta's Muse, retail experts warn that technology that removes customer friction usually wins.",
-    bodyOriginal: `The biggest names in banking and retail are starting to fight the tech titans, and one another, over a new kind of customer: the AI personal agent.
-JPMorgan Chase, Charles Schwab, Amazon, Neiman Marcus and Kohl's have moved to block personal agents like Meta Muse just as consumers start sending them out to find better savings rates, shop for deals and cancel subscriptions.
-The era of agentic AI has arrived, but there is uncertainty about what the landscape will look like when virtual storefronts become flooded with AI agents or when a business tries to block them.
-Reports last week of AI agents going rogue in customer accounts — and prominent politicians including Sen. Mark Warner and Sen. Bernie Sanders calling for bot legislation in response to the headlines — come on the heels of JPMorgan Chase CEO Jamie Dimon saying the bank currently blocks external AI agents from operating on behalf of retail customers, citing security risks.
-Some other retailers are leaning in. Walmart announced last week it is opening the virtual doors to AI agents that customers prefer to use. "We price products, not people, so the prices that an AI agent sees are the same prices that a human would see on Walmart.com, with applicable offers and fees shown before purchase," the company said in a blog post announcing the decision.
-A recent audit of 51 large U.S. retailers' published access rules by identity-verification company Billions Network and affiliated company AmanTrue, found only 11 have taken a deliberate position on AI agents. Five, including Amazon, Kohl's and Neiman Marcus, explicitly restrict them, while 37 block shopping agents largely by accident, through older bot rules written for scrapers. None has a way for a verified agent to complete a purchase.
-Based on Billions Network's analysis, blocking an agent can occur in multiple ways: blocking a specific bot from a third-party by its rules (e.g. as Chewy does with an Amazon bot), and employing more general blocks on any third-party bots attempting to access login, registration and checkout functions. Its analysis of published access rules comes with the caveat that those rules are not proof of technical enforcement.
-Evin McMullen, Billions Network and AmanTrue co-founder and CEO, said at this point, "Most of the retailers in our audit have not made a decision about AI agents at all."
-Michael Abbott, global banking lead at the consulting firm Accenture, thinks that businesses blocking AI agents will find it difficult to win with that approach over the long term.
-"If customers explicitly authorize an AI agent to act on their behalf, that's ultimately an extension of customer choice. The more important question isn't whether institutions can block agents, but whether they can create a secure and trusted way for them to engage," Abbott said.
-Abbott said that Accenture research found that 65% of consumers are open to using a GPT-like financial assistant through a Gen AI platform or digital wallet, and 71% would welcome an AI assistant embedded within their primary bank's mobile app.
-"We've seen this movie before … online banking, mobile banking and digital wallets. Customers tend to gravitate toward experiences that reduce friction and save time. The institutions that win are usually the ones that find a way to participate safely rather than resist the change," Abbott said.
-The real opportunity for banks is to become the trusted provider of the data, intelligence and execution that those agents rely on.
-"As interactions increasingly happen beyond bank-owned channels, banks still need to be present at those critical decision moments, even if they don't own the interface," Abbott said.
-Giving customers control over AI agents
-When it comes to distinguishing legitimate security concerns from companies protecting profits by making it harder to move money or comparison-shop, Abbott said both things can be true at the same time.
-"There are very real concerns around fraud, identity verification, liability and consumer protection. And customers expect their banks to safeguard their assets and data — those responsibilities don't disappear simply because an AI agent is involved," Abbott said, adding that at the same time, consumers have historically benefited from technologies that increase transparency and make it easier to compare options.
-"Our research found that 82% want to approve every AI action and 79% want the ability to immediately pause or stop AI activity. That tells us consumers are looking for convenience, but not at the expense of control," Abbott said.
-Mike Danford, owner and chief revenue officer of Adverio, which runs Amazon, Walmart and Target marketplace operations for e-commerce brands, said that some of the security fears businesses, including banks, cite are less about security and more about whose sandbox a customer plays in.
-"Amazon blocked Muse and other outside agents, but its own Buy for Me feature uses Amazon's agent on other brands' sites. Amazon doesn't appear worried about the agent. It's worried about who holds the data," Danford said. "Amazon now lets shoppers set rules that auto-purchase when a price threshold is met, and that's the version of agent buying consumers seem to accept, because the shopper still approves the decision within predefined parameters," he added.
-"We think it's fairly straightforward that third-party applications that offer to make purchases on behalf of customers from other businesses should operate openly and respect service provider decisions about whether or not to participate," an Amazon spokesperson said. "Agentic third-party applications such as Muse have the same obligations, and we've requested that Meta remove Amazon from the experience," the spokesperson added.
-Danford says banks are similar, just with a fee instead of a wall.
-"JPMorgan now charges aggregators like Plaid for pulling account data, so the toll lands on the apps a consumer uses and may trickle down in subscription fees," he said.
-JPMorgan declined to comment.
-Plaid said at the time of the September 2025 deal that it would not impact any of its existing pricing agreements with customers. Plaid does not charge consumers, though apps and services that use Plaid determine their own customer fees and subscription prices.
-Michael Jabbara, head of payment ecosystem risk and control at the payments network Visa, declined to speak to any single bank's motives for blocking agentic AI, but he said the fraud risks from agents are "very real and very tangible."
-Consumers can be fooled by fake agents built by fraudsters to steal their credentials and payment details, he said, and a legitimate agent can act in ways the customer never intended, like buying a sofa the shopper had only asked it to find.
-Agents can also behave unpredictably: Jabbara described a user who asked his agent to book a gym slot, and when the slot was taken, the agent hacked the gym's scheduling software, deleted the existing appointment and put the user's name in its place. The concerns, he said, come down to knowing "who the agent is, who the agent is acting on behalf of," and whether it has "the appropriate permissions."
-"Agents are not just exchanging data. Agents can also take an action on behalf of a user," he said.
-Like other experts, Jabbara says past shifts from online to mobile shopping are instructive, but for another reason: "None of those innovations really scaled until people were able to build that foundational security layer that enabled trust for that scale to happen."
-'Agentic flooding'
-Another worry is volume. Millions of agents doing legitimate work for customers could swamp websites and customer-service systems, a phenomenon some call "agentic flooding."
-Amid the sudden rise of personal agents like Muse, Wharton School AI expert Ethan Mollick posted, "We will soon see what will be, in effect, a perfectly legal distributed denial of service attack on customer service departments authorized by millions of consumers when it becomes widely known that Muse/Dot/etc can make unlimited requests for old refunds, negotiate deals, etc."
-Abbott calls it a possibility, not a crisis. "I see it more as an infrastructure challenge than an existential threat," he said. "Most digital systems today were designed for human interactions. Agent-driven interactions could occur at a completely different scale and frequency. One person might have multiple agents continuously monitoring rates, researching products or evaluating alternatives."
-Nevertheless, he says the answer isn't to block them. "It's to build the next generation of infrastructure that can authenticate trusted agents, verify permissions, manage identity and support machine-to-machine interactions efficiently," he said.
-Which, he added, is nothing new for banks.
-"Customers used to interact with their banks a couple of times a month and now with mobile it is nearly daily. AI agents are just the next evolution. The organizations that prepare for that reality will be better positioned than those that try to prevent it," he said.
-While many financial sites already have defenses against overuse, to protect against the types of mechanized denial-of-service attacks that have long been possible, agents "never sleep and never lose focus," said Ed Felten, a Princeton professor emeritus of computer science who served as chief technologist at the Federal Trade Commission and deputy U.S. chief technology officer in the Obama administration. And the more agents use a site, the more the costs could rise for companies like banks.
-But Felten doubts the blocking will last. "When a button is clicked in the user's browser, it will be hard for a remote site to tell whether this was done by a human hand or directed by an AI agent on the user's computer," he said. "If there is a battle over AI access, it will slow the adoption of AI agents. But in the end, agents will win out because they will be so useful to users, so that sites that are too effective in blocking agents will lose business," he added.
-How long can incumbents keep 'the gates' closed?
-As the market forces sites to accept their customers' agents, common expectations will emerge about what is reasonable behavior by agents, experts said.
-But Joseph Chalom, CEO of SharpLink, one of the largest corporate holders of the cryptocurrency ether, and a former BlackRock executive, expects the gates to stay shut for a while.
-"These large incumbents effectively control the access points and will seek to keep their gates closed to fend off this innovative threat. Disruptors have fought the same battle for access for decades across travel, telephony, and financial data consolidators," Chalom said, adding that in each case, the incumbent has cited security concerns, but in fact they also face significant business model interruption.
-"For example, an AI agent working for users can easily rebook flight tickets at a lower cost, eating into the margins of airlines. And more significantly, an AI agent can move idle cash from checking and savings accounts earning little interest to a money market account earning 10x the interest rate," Chalom said, noting that these types of "switching costs" are being reduced to near zero as agents have full financial literacy and attention span.
-"For this reason, I don't expect any of them to be in a hurry to lower the drawbridge," Chalom said.
-In the near term, Abbott says, some institutions will welcome agents while others stay restrictive as they sort out authentication, liability and governance. Longer term, he says, the data shows that companies should expect people to hand the administrative work of financial decisions to their agents. "Defense can prevent you from losing in the short term but to win banks will need an offensive strategy," Abbott said.
-Proprietary bots will need to be good enough to not only keep customers but keep them from wanting to use other agents, and that is how CEOs like Amazon's Andy Jassy are talking about it. "We believe Alexa for Shopping is going to be the primary shopping agent customers use to shop Amazon. Having a shopping assistant constantly by your side as you browse, get inspired, have questions on product detail pages, and that you can simply ask to buy something based on your prior purchases that already have your history, your shipping address, and payment info, is uniquely helpful and convenient for customers," he said during last week's latest quarterly earnings call.
-Ultimately, brands are about to be tested in ways that haven't been possible before. Human customers become attached to brands for reasons beyond price: a nostalgic cereal that evokes warm fuzzy childhood memories, an airline soaked in the nostalgia of family vacations, or a bank with a favorite teller. An AI agent doesn't care about any of that.
-"Brand loyalty and customer relationships are getting tested. An AI agent has no feeling about a logo or a ten-year relationship. It has a mandate and cares purely about outcomes," said Nikhil Behl, president of software at FICO, the analytics company best known for credit scores. "The levers that used to create stickiness get replaced by levers an agent can actually read, such as consistent approvals, transparent pricing, fast resolution, and terms that hold up through comparison," Behl said.`,
-    bodyJa: `The biggest names in banking and retail are starting to fight the tech titans, and one another, over a new kind of customer: the AI personal agent.
-JPMorgan Chase, Charles Schwab, Amazon, Neiman Marcus and Kohl's have moved to block personal agents like Meta Muse just as consumers start sending them out to find better savings rates, shop for deals and cancel subscriptions.
-The era of agentic AI has arrived, but there is uncertainty about what the landscape will look like when virtual storefronts become flooded with AI agents or when a business tries to block them.
-Reports last week of AI agents going rogue in customer accounts — and prominent politicians including Sen. Mark Warner and Sen. Bernie Sanders calling for bot legislation in response to the headlines — come on the heels of JPMorgan Chase CEO Jamie Dimon saying the bank currently blocks external AI agents from operating on behalf of retail customers, citing security risks.
-Some other retailers are leaning in. Walmart announced last week it is opening the virtual doors to AI agents that customers prefer to use. "We price products, not people, so the prices that an AI agent sees are the same prices that a human would see on Walmart.com, with applicable offers and fees shown before purchase," the company said in a blog post announcing the decision.
-A recent audit of 51 large U.S. retailers' published access rules by identity-verification company Billions Network and affiliated company AmanTrue, found only 11 have taken a deliberate position on AI agents. Five, including Amazon, Kohl's and Neiman Marcus, explicitly restrict them, while 37 block shopping agents largely by accident, through older bot rules written for scrapers. None has a way for a verified agent to complete a purchase.
-Based on Billions Network's analysis, blocking an agent can occur in multiple ways: blocking a specific bot from a third-party by its rules (e.g. as Chewy does with an Amazon bot), and employing more general blocks on any third-party bots attempting to access login, registration and checkout functions. Its analysis of published access rules comes with the caveat that those rules are not proof of technical enforcement.
-Evin McMullen, Billions Network and AmanTrue co-founder and CEO, said at this point, "Most of the retailers in our audit have not made a decision about AI agents at all."
-Michael Abbott, global banking lead at the consulting firm Accenture, thinks that businesses blocking AI agents will find it difficult to win with that approach over the long term.
-"If customers explicitly authorize an AI agent to act on their behalf, that's ultimately an extension of customer choice. The more important question isn't whether institutions can block agents, but whether they can create a secure and trusted way for them to engage," Abbott said.
-Abbott said that Accenture research found that 65% of consumers are open to using a GPT-like financial assistant through a Gen AI platform or digital wallet, and 71% would welcome an AI assistant embedded within their primary bank's mobile app.
-"We've seen this movie before … online banking, mobile banking and digital wallets. Customers tend to gravitate toward experiences that reduce friction and save time. The institutions that win are usually the ones that find a way to participate safely rather than resist the change," Abbott said.
-The real opportunity for banks is to become the trusted provider of the data, intelligence and execution that those agents rely on.
-"As interactions increasingly happen beyond bank-owned channels, banks still need to be present at those critical decision moments, even if they don't own the interface," Abbott said.
-Giving customers control over AI agents
-When it comes to distinguishing legitimate security concerns from companies protecting profits by making it harder to move money or comparison-shop, Abbott said both things can be true at the same time.
-"There are very real concerns around fraud, identity verification, liability and consumer protection. And customers expect their banks to safeguard their assets and data — those responsibilities don't disappear simply because an AI agent is involved," Abbott said, adding that at the same time, consumers have historically benefited from technologies that increase transparency and make it easier to compare options.
-"Our research found that 82% want to approve every AI action and 79% want the ability to immediately pause or stop AI activity. That tells us consumers are looking for convenience, but not at the expense of control," Abbott said.
-Mike Danford, owner and chief revenue officer of Adverio, which runs Amazon, Walmart and Target marketplace operations for e-commerce brands, said that some of the security fears businesses, including banks, cite are less about security and more about whose sandbox a customer plays in.
-"Amazon blocked Muse and other outside agents, but its own Buy for Me feature uses Amazon's agent on other brands' sites. Amazon doesn't appear worried about the agent. It's worried about who holds the data," Danford said. "Amazon now lets shoppers set rules that auto-purchase when a price threshold is met, and that's the version of agent buying consumers seem to accept, because the shopper still approves the decision within predefined parameters," he added.
-"We think it's fairly straightforward that third-party applications that offer to make purchases on behalf of customers from other businesses should operate openly and respect service provider decisions about whether or not to participate," an Amazon spokesperson said. "Agentic third-party applications such as Muse have the same obligations, and we've requested that Meta remove Amazon from the experience," the spokesperson added.
-Danford says banks are similar, just with a fee instead of a wall.
-"JPMorgan now charges aggregators like Plaid for pulling account data, so the toll lands on the apps a consumer uses and may trickle down in subscription fees," he said.
-JPMorgan declined to comment.
-Plaid said at the time of the September 2025 deal that it would not impact any of its existing pricing agreements with customers. Plaid does not charge consumers, though apps and services that use Plaid determine their own customer fees and subscription prices.
-Michael Jabbara, head of payment ecosystem risk and control at the payments network Visa, declined to speak to any single bank's motives for blocking agentic AI, but he said the fraud risks from agents are "very real and very tangible."
-Consumers can be fooled by fake agents built by fraudsters to steal their credentials and payment details, he said, and a legitimate agent can act in ways the customer never intended, like buying a sofa the shopper had only asked it to find.
-Agents can also behave unpredictably: Jabbara described a user who asked his agent to book a gym slot, and when the slot was taken, the agent hacked the gym's scheduling software, deleted the existing appointment and put the user's name in its place. The concerns, he said, come down to knowing "who the agent is, who the agent is acting on behalf of," and whether it has "the appropriate permissions."
-"Agents are not just exchanging data. Agents can also take an action on behalf of a user," he said.
-Like other experts, Jabbara says past shifts from online to mobile shopping are instructive, but for another reason: "None of those innovations really scaled until people were able to build that foundational security layer that enabled trust for that scale to happen."
-'Agentic flooding'
-Another worry is volume. Millions of agents doing legitimate work for customers could swamp websites and customer-service systems, a phenomenon some call "agentic flooding."
-Amid the sudden rise of personal agents like Muse, Wharton School AI expert Ethan Mollick posted, "We will soon see what will be, in effect, a perfectly legal distributed denial of service attack on customer service departments authorized by millions of consumers when it becomes widely known that Muse/Dot/etc can make unlimited requests for old refunds, negotiate deals, etc."
-Abbott calls it a possibility, not a crisis. "I see it more as an infrastructure challenge than an existential threat," he said. "Most digital systems today were designed for human interactions. Agent-driven interactions could occur at a completely different scale and frequency. One person might have multiple agents continuously monitoring rates, researching products or evaluating alternatives."
-Nevertheless, he says the answer isn't to block them. "It's to build the next generation of infrastructure that can authenticate trusted agents, verify permissions, manage identity and support machine-to-machine interactions efficiently," he said.
-Which, he added, is nothing new for banks.
-"Customers used to interact with their banks a couple of times a month and now with mobile it is nearly daily. AI agents are just the next evolution. The organizations that prepare for that reality will be better positioned than those that try to prevent it," he said.
-While many financial sites already have defenses against overuse, to protect against the types of mechanized denial-of-service attacks that have long been possible, agents "never sleep and never lose focus," said Ed Felten, a Princeton professor emeritus of computer science who served as chief technologist at the Federal Trade Commission and deputy U.S. chief technology officer in the Obama administration. And the more agents use a site, the more the costs could rise for companies like banks.
-But Felten doubts the blocking will last. "When a button is clicked in the user's browser, it will be hard for a remote site to tell whether this was done by a human hand or directed by an AI agent on the user's computer," he said. "If there is a battle over AI access, it will slow the adoption of AI agents. But in the end, agents will win out because they will be so useful to users, so that sites that are too effective in blocking agents will lose business," he added.
-How long can incumbents keep 'the gates' closed?
-As the market forces sites to accept their customers' agents, common expectations will emerge about what is reasonable behavior by agents, experts said.
-But Joseph Chalom, CEO of SharpLink, one of the largest corporate holders of the cryptocurrency ether, and a former BlackRock executive, expects the gates to stay shut for a while.
-"These large incumbents effectively control the access points and will seek to keep their gates closed to fend off this innovative threat. Disruptors have fought the same battle for access for decades across travel, telephony, and financial data consolidators," Chalom said, adding that in each case, the incumbent has cited security concerns, but in fact they also face significant business model interruption.
-"For example, an AI agent working for users can easily rebook flight tickets at a lower cost, eating into the margins of airlines. And more significantly, an AI agent can move idle cash from checking and savings accounts earning little interest to a money market account earning 10x the interest rate," Chalom said, noting that these types of "switching costs" are being reduced to near zero as agents have full financial literacy and attention span.
-"For this reason, I don't expect any of them to be in a hurry to lower the drawbridge," Chalom said.
-In the near term, Abbott says, some institutions will welcome agents while others stay restrictive as they sort out authentication, liability and governance. Longer term, he says, the data shows that companies should expect people to hand the administrative work of financial decisions to their agents. "Defense can prevent you from losing in the short term but to win banks will need an offensive strategy," Abbott said.
-Proprietary bots will need to be good enough to not only keep customers but keep them from wanting to use other agents, and that is how CEOs like Amazon's Andy Jassy are talking about it. "We believe Alexa for Shopping is going to be the primary shopping agent customers use to shop Amazon. Having a shopping assistant constantly by your side as you browse, get inspired, have questions on product detail pages, and that you can simply ask to buy something based on your prior purchases that already have your history, your shipping address, and payment info, is uniquely helpful and convenient for customers," he said during last week's latest quarterly earnings call.
-Ultimately, brands are about to be tested in ways that haven't been possible before. Human customers become attached to brands for reasons beyond price: a nostalgic cereal that evokes warm fuzzy childhood memories, an airline soaked in the nostalgia of family vacations, or a bank with a favorite teller. An AI agent doesn't care about any of that.
-"Brand loyalty and customer relationships are getting tested. An AI agent has no feeling about a logo or a ten-year relationship. It has a mandate and cares purely about outcomes," said Nikhil Behl, president of software at FICO, the analytics company best known for credit scores. "The levers that used to create stickiness get replaced by levers an agent can actually read, such as consistent approvals, transparent pricing, fast resolution, and terms that hold up through comparison," Behl said.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/01/jpmorgan-amazon-ai-agents-meta-muse.html",
-    publishedAt: "2026-11-01T16:34:43+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "apple-s-new-earnings-era-begins-at-a-cri-dec941a9",
-    title: "Apple’s new earnings era begins at a critical time for Big Tech",
-    titleJa: "Apple’s new earnings era begins at a critical time for Big Tech",
-    summaryJa: "A rare Monday earnings report for Apple will give investors a glimpse into how new CEO John Ternus is managing inflated memory prices and a tougher backdrop for consumer spending.",
-    bodyOriginal: `A rare Monday earnings report for Apple will give investors a glimpse into how new CEO John Ternus is managing inflated memory prices and a tougher backdrop for consumer spending.`,
-    bodyJa: `A rare Monday earnings report for Apple will give investors a glimpse into how new CEO John Ternus is managing inflated memory prices and a tougher backdrop for consumer spending.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/apples-new-earnings-era-begins-at-a-critical-time-for-big-tech-2236a44e?mod=mw_rss_topstories",
-    publishedAt: "2026-11-01T15:00:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-47165214",
-    readTime: 2,
-  },
-  {
-    id: "america-is-doing-better-than-you-think-y-9525b51b",
-    title: "America is doing better than you think. Your algorithm is just hiding it.",
-    titleJa: "America is doing better than you think. Your algorithm is just hiding it.",
-    summaryJa: "The bottom half of Americans has more than doubled its net worth since 2019. You wouldn’t know it from scrolling social media.",
-    bodyOriginal: `The bottom half of Americans has more than doubled its net worth since 2019. You wouldn’t know it from scrolling social media.`,
-    bodyJa: `The bottom half of Americans has more than doubled its net worth since 2019. You wouldn’t know it from scrolling social media.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/america-is-doing-better-than-you-think-your-algorithm-is-just-hiding-it-7dbdecff?mod=mw_rss_topstories",
-    publishedAt: "2026-11-01T13:00:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-77447870",
-    readTime: 2,
-  },
-  {
-    id: "top-wall-street-analysts-are-bullish-on-cd261770",
-    title: "Top Wall Street analysts are bullish on these 3 stocks for the long haul",
-    titleJa: "Top Wall Street analysts are bullish on these 3 stocks for the long haul",
-    summaryJa: "Investors looking beyond short-term noise and focusing on long-term returns can track top analysts to pick the right stocks, backed by strong research.",
-    bodyOriginal: `The ongoing earnings season, Middle East tensions and buzz ahead of the U.S. midterm elections have been keeping investors busy. Further, worries about elevated artificial intelligence spending are weighing on investor sentiment.
-Investors looking beyond the short-term noise and focusing on long-term returns can track top Wall Street analysts to pick the right stocks, backed by strong research.
-Here are three stocks favored by some of Wall Street's top pros, according to TipRanks, a platform that ranks analysts based on their past performance.
-Datadog
-This week's first stock pick is Datadog, an AI-powered observability and security platform. The company will announce its results for the third quarter on Nov. 4. Datadog is seeing strong demand for its offerings, thanks to cloud migration and rapid AI adoption. TipRanks' KPIs tool for DDOG shows the growth in its customer base over the past few years amid increasing market penetration and growing adoption of its products.
-Heading into Q3 FY26 earnings, Bank of America analyst Koji Ikeda reiterated a buy rating on Datadog stock and raised his price target to $335 from $305. The analyst noted that industry checks and data indicate that infrastructure software demand is strengthening, with AI increasingly driving usage and growth.
-Ikeda called Datadog and Atlassian his top picks, saying that companies that can show that AI is a tailwind to growth could see their valuation rerate, even at premium multiples. He added that the total addressable market for observability is growing faster than anticipated, driven by accelerated growth of enterprise AI and the rapid ramp of consumer AI agents.
-The five-star analyst believes that focus will be on revenue growth, which he estimates to be 28.7% for Q3 FY26 versus the Street's consensus of 29.1%. Ikeda thinks that the market is underestimating the growth prospects of DDOG's security products. Meanwhile, he cautioned investors about concentration risk related to large customers.
-"We think results will be supportive of our long-term thesis that Datadog is a strong share gainer in the rapidly expanding observability opportunity," said Ikeda.
-Ikeda ranks No. 673 among more than 12,500 analysts tracked by TipRanks. His ratings have been successful 55% of the time, delivering an average return of 10.9%. See Datadog Statistics on TipRanks.
-Nvidia
-The next pick, semiconductor giant Nvidia, is also benefiting from AI-driven demand for its products. After attending Nvidia's GTC Berlin conference, Morgan Stanley analyst Joseph Moore reaffirmed a buy rating on NVDA stock with a price target of $300, calling it a top pick in the semiconductor space.
-The five-star analyst said that the conference supported his thesis that Nvidia continues to effectively navigate bottlenecks in the supply chain, land/power/shell, and funding. In fact, Moore is "convinced that all 3 aspects are opportunities for NVDA."
-While Nvidia's GTC Berlin offered no major updates, Moore noted the conference reflected that the company continues to add to its significant advantages heading into 2027. The analyst said that Vera Rubin is gaining momentum, though details on next year's Rubin Ultra were lighter than expected.
-With demand outpacing supply, Moore said that focus is on closing the gap. In this regard, he highlighted the supply chain deals on substrate, packaging and testing. While the analyst continues to view TSMC 3 nm wafer supply as the biggest challenge, he expects it to ease over time.
-Moore ranks No. 142 among more than 12,500 analysts tracked by TipRanks. His ratings have been profitable 59% of the time, delivering an average return of 23.4%. See Nvidia Ownership Structure on TipRanks.
-SpaceX
-Aerospace company SpaceX recently announced solid third-quarter results, with its AI revenue surging to $7.56 billion from $813 million in the prior-year quarter.
-Impressed by the results, Needham analyst Ryan Koontz reiterated a buy rating on SPCX stock with a price target of $250. Koontz highlighted that SpaceX's Q3 results significantly exceeded expectations, proving that the company's vertically integrated business model is driving massive scale.
-Specifically, the five-star analyst noted the 161% year-over-year jump in SpaceX's Q3 2026 revenue, with the Connectivity segment's revenue rising 69.5%. Koontz added that the Connectivity segment generated solid operating income of $2.37 billion, as subscribers increased to 13.6 million.
-Furthermore, Koontz emphasized the 195.2% sequential growth in SpaceX's AI revenue, fueled by wholesale spot compute deals. He noted management's increasing focus on its AI strategy, given that it is optimistic about adding 10 gigawatts of incremental capacity during 2027.
-"With increasing confidence on Starship re-use, we meaningfully increase our estimates," said Koontz.
-Koontz ranks No. 357 among more than 12,500 analysts tracked by TipRanks. His ratings have been profitable 42% of the time, delivering an average return of 23.7%. See SpaceX Technical Analysis on TipRanks.`,
-    bodyJa: `The ongoing earnings season, Middle East tensions and buzz ahead of the U.S. midterm elections have been keeping investors busy. Further, worries about elevated artificial intelligence spending are weighing on investor sentiment.
-Investors looking beyond the short-term noise and focusing on long-term returns can track top Wall Street analysts to pick the right stocks, backed by strong research.
-Here are three stocks favored by some of Wall Street's top pros, according to TipRanks, a platform that ranks analysts based on their past performance.
-Datadog
-This week's first stock pick is Datadog, an AI-powered observability and security platform. The company will announce its results for the third quarter on Nov. 4. Datadog is seeing strong demand for its offerings, thanks to cloud migration and rapid AI adoption. TipRanks' KPIs tool for DDOG shows the growth in its customer base over the past few years amid increasing market penetration and growing adoption of its products.
-Heading into Q3 FY26 earnings, Bank of America analyst Koji Ikeda reiterated a buy rating on Datadog stock and raised his price target to $335 from $305. The analyst noted that industry checks and data indicate that infrastructure software demand is strengthening, with AI increasingly driving usage and growth.
-Ikeda called Datadog and Atlassian his top picks, saying that companies that can show that AI is a tailwind to growth could see their valuation rerate, even at premium multiples. He added that the total addressable market for observability is growing faster than anticipated, driven by accelerated growth of enterprise AI and the rapid ramp of consumer AI agents.
-The five-star analyst believes that focus will be on revenue growth, which he estimates to be 28.7% for Q3 FY26 versus the Street's consensus of 29.1%. Ikeda thinks that the market is underestimating the growth prospects of DDOG's security products. Meanwhile, he cautioned investors about concentration risk related to large customers.
-"We think results will be supportive of our long-term thesis that Datadog is a strong share gainer in the rapidly expanding observability opportunity," said Ikeda.
-Ikeda ranks No. 673 among more than 12,500 analysts tracked by TipRanks. His ratings have been successful 55% of the time, delivering an average return of 10.9%. See Datadog Statistics on TipRanks.
-Nvidia
-The next pick, semiconductor giant Nvidia, is also benefiting from AI-driven demand for its products. After attending Nvidia's GTC Berlin conference, Morgan Stanley analyst Joseph Moore reaffirmed a buy rating on NVDA stock with a price target of $300, calling it a top pick in the semiconductor space.
-The five-star analyst said that the conference supported his thesis that Nvidia continues to effectively navigate bottlenecks in the supply chain, land/power/shell, and funding. In fact, Moore is "convinced that all 3 aspects are opportunities for NVDA."
-While Nvidia's GTC Berlin offered no major updates, Moore noted the conference reflected that the company continues to add to its significant advantages heading into 2027. The analyst said that Vera Rubin is gaining momentum, though details on next year's Rubin Ultra were lighter than expected.
-With demand outpacing supply, Moore said that focus is on closing the gap. In this regard, he highlighted the supply chain deals on substrate, packaging and testing. While the analyst continues to view TSMC 3 nm wafer supply as the biggest challenge, he expects it to ease over time.
-Moore ranks No. 142 among more than 12,500 analysts tracked by TipRanks. His ratings have been profitable 59% of the time, delivering an average return of 23.4%. See Nvidia Ownership Structure on TipRanks.
-SpaceX
-Aerospace company SpaceX recently announced solid third-quarter results, with its AI revenue surging to $7.56 billion from $813 million in the prior-year quarter.
-Impressed by the results, Needham analyst Ryan Koontz reiterated a buy rating on SPCX stock with a price target of $250. Koontz highlighted that SpaceX's Q3 results significantly exceeded expectations, proving that the company's vertically integrated business model is driving massive scale.
-Specifically, the five-star analyst noted the 161% year-over-year jump in SpaceX's Q3 2026 revenue, with the Connectivity segment's revenue rising 69.5%. Koontz added that the Connectivity segment generated solid operating income of $2.37 billion, as subscribers increased to 13.6 million.
-Furthermore, Koontz emphasized the 195.2% sequential growth in SpaceX's AI revenue, fueled by wholesale spot compute deals. He noted management's increasing focus on its AI strategy, given that it is optimistic about adding 10 gigawatts of incremental capacity during 2027.
-"With increasing confidence on Starship re-use, we meaningfully increase our estimates," said Koontz.
-Koontz ranks No. 357 among more than 12,500 analysts tracked by TipRanks. His ratings have been profitable 42% of the time, delivering an average return of 23.7%. See SpaceX Technical Analysis on TipRanks.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/01/top-analysts-are-bullish-on-these-3-stocks-for-the-long-haul.html",
-    publishedAt: "2026-11-01T12:33:53+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "the-midterm-election-could-reshape-the-m-0bd007bf",
-    title: "The midterm election could reshape the muni bond market. Here’s what investors need to know",
-    titleJa: "The midterm election could reshape the muni bond market. Here’s what investors need to know",
-    summaryJa: "The 2026 election could affect municipal bonds through state tax measures, new bond supply and the makeup of Congress.",
-    bodyOriginal: `The outcome of Tuesday's election is expected to have broad implications across the market, including municipal bonds.
-The spotlight has been on the battle for congressional control and whether Democrats will wrest the House of Representatives, the Senate or both from Republicans. But for the muni market, what happens at the state level could have bigger repercussions — at least in the near term.
-There is an array of initiatives on ballots around the nation that could change tax laws and add to bond supply. Taxes matter to muni investors since the income received is free of federal tax, as well as state tax if the holder lives in the state where the bond is issued.
-Red vs. blue taxes
-Depending on the location, ballot measures are up for approval that would either provide tax breaks, or raise taxes on the wealthy.
-"It's a complete bifurcation between red and blue states," said Dan Close, head of municipals at Nuveen. "Blue states are trying to put in place graduated income tax structures, trying to capture more revenue from high-income earners. Red states are promoting affordability by trying to cut property taxes."
-Red states are those that predominantly vote Republican, while blue states swing toward Democrats.
-For instance, California has a proposition known as the "billionaire tax," which would impose a one-time levy equal to 5% of the wealth of certain taxpayers with at least $1 billion in assets. The state also has a measure on the ballot that would make a temporary tax hike permanent on individuals earning over $371,000, adjusted annually for inflation. The tax is currently set to expire in 2031.
-"The impact to the muni bond market will be to make the exemption more valuable," Close said of the possible passage of tax increases. Investors will likely seek shelter in the muni market, which would send bond prices higher, he noted.
-It is a different story in Florida, where voters are set to decide whether to increase the Sunshine State's homestead exemption for non-school district property taxes. Qualified homeowners currently have a $25,000 property tax exemption, as well as another for $25,000 that doesn't apply to school property taxes. The new proposal raises the latter exemption to $150,000 in 2027 and $250,000 by 2028. New residents have a five-year waiting period before receiving the benefit.
-If passed, some local governments will have to find other revenue sources or increase the overall tax rate to replace what they've lost, said Tom Kozlik, head of public policy and municipal strategy at HilltopSecurities.
-"It's not necessarily going to result in downgrades for sure, but there would have to be some balancing with regard to overall revenues," he said.
-Not all municipalities will be hurt equally, which means credit research is important, said Close.
-"Like everything in municipal finance, it is really on a case-by-case basis that you could have some credit deterioration from [a] rollback of property taxes," he said.
-Increased supply
-Other voters on Tuesday will be asked to approve more state or local government debt. That could weigh on a market that has already seen heightened supply.
-Some $473.8 billion has already been issued year to date, through September, according to the Securities Industry and Financial Markets Association. That's a 7.8% increase over the same period a year ago. In 2025, total muni issuance reached $587.3 billion, 14.3% higher than 2024, Sifma said.
-Cooper Howard, director of fixed income research and strategy at the Schwab Center for Financial Research, believes supply is the biggest issue coming out of the election.
-"That amount of issuance has been one of the reasons why you have to see that strong amount of demand continue to keep pace with it for total returns to keep up," Howard said.
-Fortunately, new supply doesn't necessarily come quickly into the market. "There's a window over a couple years that they can issue," he noted.
-The ultimate makeup of the next Congress could also have consequences for muni investors as lawmakers sort out their priorities. Most notable is what lawmakers will do to tackle the country's affordability problem, Kozlik at Hilltop said.
-"There could be some tax policy initiatives and even affordability-related initiatives that manifest themselves in the first quarter of next year," he said. "That could impact housing. It could impact higher education. It could impact public power financing."
-Opportunities now
-Investors considering moves before the election may want to look at those states with tax increases on the ballot, said Close at Nuveen.
-For instance, Nuveen recently began offering a separately managed account dedicated to Washington after getting an enormous number of inquiries from financial advisors. The state recently enacted a 9.9% tax on individuals with taxable annual income above $1 million, set to go into effect in 2028. But the issue is now being put to voters, who can decide whether to repeal the new law.
-"At the margin, if you do think that some of these measures are going to pass, knowing that bonds usually move up with an increase in taxes, there might be some opportunities to buy ahead of the election for blue states," Close said.
-Howard believes munis are attractive right now, particularly for those who are in a tax bracket of 24% or above. Fundamentals are good and the bonds largely have good credit quality, he said. "About 70% of the broad muni index is either triple-A or double-A rated."
-Kozlik is also bullish, calling yields "really attractive." He suggests investors concentrate on AA-rated or higher bonds.
-"The muni space is part of the portfolio that most investors want," he said. "It helps them sleep well at night."`,
-    bodyJa: `The outcome of Tuesday's election is expected to have broad implications across the market, including municipal bonds.
-The spotlight has been on the battle for congressional control and whether Democrats will wrest the House of Representatives, the Senate or both from Republicans. But for the muni market, what happens at the state level could have bigger repercussions — at least in the near term.
-There is an array of initiatives on ballots around the nation that could change tax laws and add to bond supply. Taxes matter to muni investors since the income received is free of federal tax, as well as state tax if the holder lives in the state where the bond is issued.
-Red vs. blue taxes
-Depending on the location, ballot measures are up for approval that would either provide tax breaks, or raise taxes on the wealthy.
-"It's a complete bifurcation between red and blue states," said Dan Close, head of municipals at Nuveen. "Blue states are trying to put in place graduated income tax structures, trying to capture more revenue from high-income earners. Red states are promoting affordability by trying to cut property taxes."
-Red states are those that predominantly vote Republican, while blue states swing toward Democrats.
-For instance, California has a proposition known as the "billionaire tax," which would impose a one-time levy equal to 5% of the wealth of certain taxpayers with at least $1 billion in assets. The state also has a measure on the ballot that would make a temporary tax hike permanent on individuals earning over $371,000, adjusted annually for inflation. The tax is currently set to expire in 2031.
-"The impact to the muni bond market will be to make the exemption more valuable," Close said of the possible passage of tax increases. Investors will likely seek shelter in the muni market, which would send bond prices higher, he noted.
-It is a different story in Florida, where voters are set to decide whether to increase the Sunshine State's homestead exemption for non-school district property taxes. Qualified homeowners currently have a $25,000 property tax exemption, as well as another for $25,000 that doesn't apply to school property taxes. The new proposal raises the latter exemption to $150,000 in 2027 and $250,000 by 2028. New residents have a five-year waiting period before receiving the benefit.
-If passed, some local governments will have to find other revenue sources or increase the overall tax rate to replace what they've lost, said Tom Kozlik, head of public policy and municipal strategy at HilltopSecurities.
-"It's not necessarily going to result in downgrades for sure, but there would have to be some balancing with regard to overall revenues," he said.
-Not all municipalities will be hurt equally, which means credit research is important, said Close.
-"Like everything in municipal finance, it is really on a case-by-case basis that you could have some credit deterioration from [a] rollback of property taxes," he said.
-Increased supply
-Other voters on Tuesday will be asked to approve more state or local government debt. That could weigh on a market that has already seen heightened supply.
-Some $473.8 billion has already been issued year to date, through September, according to the Securities Industry and Financial Markets Association. That's a 7.8% increase over the same period a year ago. In 2025, total muni issuance reached $587.3 billion, 14.3% higher than 2024, Sifma said.
-Cooper Howard, director of fixed income research and strategy at the Schwab Center for Financial Research, believes supply is the biggest issue coming out of the election.
-"That amount of issuance has been one of the reasons why you have to see that strong amount of demand continue to keep pace with it for total returns to keep up," Howard said.
-Fortunately, new supply doesn't necessarily come quickly into the market. "There's a window over a couple years that they can issue," he noted.
-The ultimate makeup of the next Congress could also have consequences for muni investors as lawmakers sort out their priorities. Most notable is what lawmakers will do to tackle the country's affordability problem, Kozlik at Hilltop said.
-"There could be some tax policy initiatives and even affordability-related initiatives that manifest themselves in the first quarter of next year," he said. "That could impact housing. It could impact higher education. It could impact public power financing."
-Opportunities now
-Investors considering moves before the election may want to look at those states with tax increases on the ballot, said Close at Nuveen.
-For instance, Nuveen recently began offering a separately managed account dedicated to Washington after getting an enormous number of inquiries from financial advisors. The state recently enacted a 9.9% tax on individuals with taxable annual income above $1 million, set to go into effect in 2028. But the issue is now being put to voters, who can decide whether to repeal the new law.
-"At the margin, if you do think that some of these measures are going to pass, knowing that bonds usually move up with an increase in taxes, there might be some opportunities to buy ahead of the election for blue states," Close said.
-Howard believes munis are attractive right now, particularly for those who are in a tax bracket of 24% or above. Fundamentals are good and the bonds largely have good credit quality, he said. "About 70% of the broad muni index is either triple-A or double-A rated."
-Kozlik is also bullish, calling yields "really attractive." He suggests investors concentrate on AA-rated or higher bonds.
-"The muni space is part of the portfolio that most investors want," he said. "It helps them sleep well at night."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/01/election-municipal-bonds.html",
-    publishedAt: "2026-11-01T12:30:48+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 10,
   },
 ];
