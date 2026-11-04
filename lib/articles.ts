@@ -15,6 +15,358 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "democrats-win-the-senate-but-control-of-58a4dcc8",
+    title: "Democrats win the Senate but control of the House is still up in the air. Here’s what it means for your finances.",
+    titleJa: "Democrats win the Senate but control of the House is still up in the air. Here’s what it means for your finances.",
+    summaryJa: "The results from the U.S. midterm elections are getting tabulated and look likely to have effects on Americans’ investments and their wallets.",
+    bodyOriginal: `The results from the U.S. midterm elections are getting tabulated and look likely to have effects on Americans’ investments and their wallets.`,
+    bodyJa: `The results from the U.S. midterm elections are getting tabulated and look likely to have effects on Americans’ investments and their wallets.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/democrats-win-the-senate-but-control-of-the-house-is-still-up-in-the-air-heres-what-it-means-for-your-finances-ed78cd6e?mod=mw_rss_topstories",
+    publishedAt: "2026-11-04T04:46:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-51783021",
+    readTime: 2,
+  },
+  {
+    id: "no-more-rice-grains-in-kellogg-s-rice-kr-fde29da0",
+    title: "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+    titleJa: "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+    summaryJa: "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning.",
+    bodyOriginal: `No more rice grains in Kellogg's Rice Krispies due to changing weather
+- Published
+Breakfast cereal giant Kellogg's has stopped using rice grains in Rice Krispies and Coco Pops in the UK due to "changing weather conditions" that have disrupted supplies.
+Corn flour and rice flour are being used instead, a Kellogg's spokesperson said on Tuesday, adding that the updated recipes have been "carefully assessed" and the firm has taken customer feedback into consideration.
+Those ingredients are replacing rice grains as crops have been hit by dry weather in key producing countries in Asia, reducing harvests and driving up prices.
+The new recipes mean cereal packaging will now include a "contains wheat gluten" warning.
+Rice Krispies products in the US and Canada will continue to be made with real rice with no changes to their recipes expected, a spokesperson for Kellogg's North American business told the BBC.
+The recipe change in the UK will help "maintain consistent quality at a time when changing weather conditions are affecting the quality and availability of some of the rice and grains used in our cereals," a Kellogg's spokesperson told the BBC.
+"We appreciate that even small changes to a much-loved product can feel noticeable and that's why we have approached this with a lot of care and consideration."
+The company also said that Rice Krispies and Coco Pops will continue to meet UK food standards on levels of fat, salt and sugar in food.
+The cereals also contain no artificial colours, flavours or sweeteners and the nutritional benefits in each bowl, such as fibre, Vitamin D and iron are staying the same, the spokesperson added.
+Watch: How does El Niño affect world weather?
+- Published21 August
+The Kellogg company separated into two distinct firms in 2023.
+The largest is Kellanova, which focuses on snacks, cereals, noodles and other food products like Eggo, Pringles and Pop-Tarts sold globally. It is now owned by Mars, which makes confectionery and pet food.
+The other business, WK Kellogg's, operates in North America and has since been taken over by Italian chocolate giant Ferrero.
+Most of the world's rice comes from Asia, many parts of which has been impacted by droughts, floods and heatwaves due to the El Niño weather phenomenon.
+The weather event is expected to severely impact crop production from South East Asia in particular. The region produces more than a quarter of the world's rice.
+The World Meteorological Agency expects the record-breaking El Niño will last until at least 2027.
+Related topics
+- Published20 October`,
+    bodyJa: `No more rice grains in Kellogg's Rice Krispies due to changing weather
+- Published
+Breakfast cereal giant Kellogg's has stopped using rice grains in Rice Krispies and Coco Pops in the UK due to "changing weather conditions" that have disrupted supplies.
+Corn flour and rice flour are being used instead, a Kellogg's spokesperson said on Tuesday, adding that the updated recipes have been "carefully assessed" and the firm has taken customer feedback into consideration.
+Those ingredients are replacing rice grains as crops have been hit by dry weather in key producing countries in Asia, reducing harvests and driving up prices.
+The new recipes mean cereal packaging will now include a "contains wheat gluten" warning.
+Rice Krispies products in the US and Canada will continue to be made with real rice with no changes to their recipes expected, a spokesperson for Kellogg's North American business told the BBC.
+The recipe change in the UK will help "maintain consistent quality at a time when changing weather conditions are affecting the quality and availability of some of the rice and grains used in our cereals," a Kellogg's spokesperson told the BBC.
+"We appreciate that even small changes to a much-loved product can feel noticeable and that's why we have approached this with a lot of care and consideration."
+The company also said that Rice Krispies and Coco Pops will continue to meet UK food standards on levels of fat, salt and sugar in food.
+The cereals also contain no artificial colours, flavours or sweeteners and the nutritional benefits in each bowl, such as fibre, Vitamin D and iron are staying the same, the spokesperson added.
+Watch: How does El Niño affect world weather?
+- Published21 August
+The Kellogg company separated into two distinct firms in 2023.
+The largest is Kellanova, which focuses on snacks, cereals, noodles and other food products like Eggo, Pringles and Pop-Tarts sold globally. It is now owned by Mars, which makes confectionery and pet food.
+The other business, WK Kellogg's, operates in North America and has since been taken over by Italian chocolate giant Ferrero.
+Most of the world's rice comes from Asia, many parts of which has been impacted by droughts, floods and heatwaves due to the El Niño weather phenomenon.
+The weather event is expected to severely impact crop production from South East Asia in particular. The region produces more than a quarter of the world's rice.
+The World Meteorological Agency expects the record-breaking El Niño will last until at least 2027.
+Related topics
+- Published20 October`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-04T01:36:06+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfad/live/fe845730-d7e3-11f1-8a01-8d54cbcf7487.jpg",
+    readTime: 6,
+  },
+  {
+    id: "here-s-why-amd-s-stock-is-rising-and-sen-642699a3",
+    title: "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
+    titleJa: "Here’s why AMD’s stock is rising — and sending a confident message about the AI trade",
+    summaryJa: "The chip maker is showing “real” revenue from AI, shrugging off sustainability concerns and leading to an upbeat forecast.",
+    bodyOriginal: `The chip maker is showing “real” revenue from AI, shrugging off sustainability concerns and leading to an upbeat forecast.`,
+    bodyJa: `The chip maker is showing “real” revenue from AI, shrugging off sustainability concerns and leading to an upbeat forecast.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/heres-why-amds-stock-is-rising-and-sending-a-confident-message-about-the-ai-trade-11cb4d8a?mod=mw_rss_topstories",
+    publishedAt: "2026-11-04T01:16:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-73944145",
+    readTime: 2,
+  },
+  {
+    id: "google-responds-to-political-backlash-ov-8bbb1441",
+    title: "Google responds to political backlash over removing search from schools that ban AI",
+    titleJa: "Google responds to political backlash over removing search from schools that ban AI",
+    summaryJa: "After elected officials voiced outrage over Google turning off search at schools that ban AI, the company said search can be turned back on with AI Overviews.",
+    bodyOriginal: `Google is playing defense on Tuesday after a political backlash to its new policy surrounding use of artificial intelligence in schools.
+In a blog post titled "Designing responsible AI for learning," Google said it's bringing AI into its Classroom offering with a product called Guided Learning. The New York Times published a story saying that the company will turn off search for schools that reject AI entirely.
+Following the Times' story, prominent left-leaning politicians, including Sen. Bernie Sanders from Vermont and New York Mayor Zohran Mamdani voiced their outrage on social media.
+"Google is trying to use its monopoly power to force AI into our public schools," Mamdani wrote on X. Sanders wrote that "Google is threatening schools," referring to the policy as "extortion."
+Google responded later in the day. In a post on X, the company said its new policy was meant to give schools more choice over how students interact with AI. Google said its Gemini chatbot, Gemini Notebook and search are turned off by default, and that "schools are in control," with the ability to turn them as they see fit.
+"We are also updating Search for schools to make it better for learning," Google wrote. "Specifically, AI Mode and AI Overviews will offer step-by-step guided learning through problems, so that students don't get quick answers to schoolwork."
+The company's post didn't explicitly respond to the claim that access to search requires use of AI. However, Chris Phillips, vice president for education at Google, told the Times that "Search and AI are deeply integrated."
+A Google spokesperson referred CNBC to the X post when asked for comment.
+Google's broader practices have come under fire in recent years, with the company losing antitrust cases over its search and advertising businesses. Former Federal Trade Commission Chair Lina Khan aggressively pursued Google and other tech giants, including Meta and Amazon.
+Khan said in a post on X on Tuesday that Google's new AI for learning policy highlights "the danger of allowing an unregulated monopolist to control an essential service."
+It's the latest controversy related to the impact of technology on children and the role leading internet companies are playing in delivering information.
+In August, Meta reached a landmark $16.7 billion settlement in its child safety trial after a number of state attorneys general accused the company of misrepresenting the extent of child mental health harms caused by apps like Facebook and Instagram.
+The same month, OpenAI launched ChatGPT for Teens after state attorneys general launched an investigation into the company's safety practices, with Florida Attorney General James Uthmeier, a Republican, filing a lawsuit in June.
+The nonprofit Common Sense Media recently gave Google's AI overviews an "unacceptable risk" rating. Last month, Sens. Richard Blumenthal, D-Conn., and Josh Hawley, R-Mo., launched an inquiry over Google's push of AI into classrooms.
+Google introduced AI overviews as a search function in May 2024.
+— CNBC's MacKenzie Sigalos contributed to this report.
+WATCH: Meta settled its child safety lawsuit. Now comes the hard part.`,
+    bodyJa: `Google is playing defense on Tuesday after a political backlash to its new policy surrounding use of artificial intelligence in schools.
+In a blog post titled "Designing responsible AI for learning," Google said it's bringing AI into its Classroom offering with a product called Guided Learning. The New York Times published a story saying that the company will turn off search for schools that reject AI entirely.
+Following the Times' story, prominent left-leaning politicians, including Sen. Bernie Sanders from Vermont and New York Mayor Zohran Mamdani voiced their outrage on social media.
+"Google is trying to use its monopoly power to force AI into our public schools," Mamdani wrote on X. Sanders wrote that "Google is threatening schools," referring to the policy as "extortion."
+Google responded later in the day. In a post on X, the company said its new policy was meant to give schools more choice over how students interact with AI. Google said its Gemini chatbot, Gemini Notebook and search are turned off by default, and that "schools are in control," with the ability to turn them as they see fit.
+"We are also updating Search for schools to make it better for learning," Google wrote. "Specifically, AI Mode and AI Overviews will offer step-by-step guided learning through problems, so that students don't get quick answers to schoolwork."
+The company's post didn't explicitly respond to the claim that access to search requires use of AI. However, Chris Phillips, vice president for education at Google, told the Times that "Search and AI are deeply integrated."
+A Google spokesperson referred CNBC to the X post when asked for comment.
+Google's broader practices have come under fire in recent years, with the company losing antitrust cases over its search and advertising businesses. Former Federal Trade Commission Chair Lina Khan aggressively pursued Google and other tech giants, including Meta and Amazon.
+Khan said in a post on X on Tuesday that Google's new AI for learning policy highlights "the danger of allowing an unregulated monopolist to control an essential service."
+It's the latest controversy related to the impact of technology on children and the role leading internet companies are playing in delivering information.
+In August, Meta reached a landmark $16.7 billion settlement in its child safety trial after a number of state attorneys general accused the company of misrepresenting the extent of child mental health harms caused by apps like Facebook and Instagram.
+The same month, OpenAI launched ChatGPT for Teens after state attorneys general launched an investigation into the company's safety practices, with Florida Attorney General James Uthmeier, a Republican, filing a lawsuit in June.
+The nonprofit Common Sense Media recently gave Google's AI overviews an "unacceptable risk" rating. Last month, Sens. Richard Blumenthal, D-Conn., and Josh Hawley, R-Mo., launched an inquiry over Google's push of AI into classrooms.
+Google introduced AI overviews as a search function in May 2024.
+— CNBC's MacKenzie Sigalos contributed to this report.
+WATCH: Meta settled its child safety lawsuit. Now comes the hard part.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/03/google-responds-to-outrage-over-removing-search-in-schools-that-ban-ai.html",
+    publishedAt: "2026-11-04T01:07:01+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 8,
+  },
+  {
+    id: "canva-announces-major-job-cuts-after-our-cd40382e",
+    title: "Canva announces major job cuts after 'our hardest year yet'",
+    titleJa: "Canva announces major job cuts after 'our hardest year yet'",
+    summaryJa: "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
+    bodyOriginal: `Canva announces major job cuts after 'our hardest year yet'
+- Published
+Canva, one of Australia's best known start-ups, has announced a shake up of the business that will affect 22% of its workers, including job cuts.
+In what was "without doubt the hardest moment in our thirteen-year history" co-founder and CEO Melanie Perkins said 1,271 people would either lose their jobs, be asked to relocate or change roles.
+The firm's value has reportedly dropped in the past year over concerns about the impact of artificial intelligence (AI) on its business as well as the cost of incorporating the technology into its platforms.
+It had been "our hardest year yet, and as we shared earlier this year, our growth has slowed for the first time in a decade," Perkins wrote to staff.
+The "incredibly hard decision" meant "significant changes," Perkins said.
+"For some people, this will mean changes to their roles or being asked to relocate to centralised hubs. Sadly, it will also mean saying goodbye to teammates and friends who have helped build Canva into what it is today."
+The company, which has staff in 37 countries, said Sydney would become the "primary home" for more of its product teams and that as of next year hybrid workers would be expected to spend two to three days in the office.
+Earlier this year two of its backers, Blackbird Ventures and Airtree, reportedly downgraded its valuation from A$60bn ($41.8bn; £31.1bn) at the end of last year to about A$49bn.
+Canva also reportedly cut its own internal valuation amid soaring AI expenses related to the roll out of new products.
+"New technology is transforming what people can create, how they create it, and what they expect from the products they use," Perkins said in her note on Wednesday.
+Perkins, who left university at 19 to found her first venture, launched Canva in 2013.
+The company offers a variety of templates and tools to help users without technical skills or a design background to create a range of professional-looking graphics and presentations, from wedding invitations to business pitch decks.`,
+    bodyJa: `Canva announces major job cuts after 'our hardest year yet'
+- Published
+Canva, one of Australia's best known start-ups, has announced a shake up of the business that will affect 22% of its workers, including job cuts.
+In what was "without doubt the hardest moment in our thirteen-year history" co-founder and CEO Melanie Perkins said 1,271 people would either lose their jobs, be asked to relocate or change roles.
+The firm's value has reportedly dropped in the past year over concerns about the impact of artificial intelligence (AI) on its business as well as the cost of incorporating the technology into its platforms.
+It had been "our hardest year yet, and as we shared earlier this year, our growth has slowed for the first time in a decade," Perkins wrote to staff.
+The "incredibly hard decision" meant "significant changes," Perkins said.
+"For some people, this will mean changes to their roles or being asked to relocate to centralised hubs. Sadly, it will also mean saying goodbye to teammates and friends who have helped build Canva into what it is today."
+The company, which has staff in 37 countries, said Sydney would become the "primary home" for more of its product teams and that as of next year hybrid workers would be expected to spend two to three days in the office.
+Earlier this year two of its backers, Blackbird Ventures and Airtree, reportedly downgraded its valuation from A$60bn ($41.8bn; £31.1bn) at the end of last year to about A$49bn.
+Canva also reportedly cut its own internal valuation amid soaring AI expenses related to the roll out of new products.
+"New technology is transforming what people can create, how they create it, and what they expect from the products they use," Perkins said in her note on Wednesday.
+Perkins, who left university at 19 to found her first venture, launched Canva in 2013.
+The company offers a variety of templates and tools to help users without technical skills or a design background to create a range of professional-looking graphics and presentations, from wedding invitations to business pitch decks.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-04T00:09:35+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d51/live/dae95de0-d7dc-11f1-ac18-75727aac8238.jpg",
+    readTime: 5,
+  },
+  {
+    id: "graduates-are-managing-ai-but-are-they-l-d3b7916d",
+    title: "Graduates are managing AI - but are they learning much else?",
+    titleJa: "Graduates are managing AI - but are they learning much else?",
+    summaryJa: "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+    bodyOriginal: `Graduates are managing AI - but are they learning much else?
+- Published
+Recent university graduate Lotte Underwood is a public relations executive with a twist - she spends more time using AI than actually doing PR.
+Underwood, 25, joined London-based PR agency Fight or Flight in November last year, in the new role of "AI associate" after completing a degree and then a masters in marketing.
+She's part of a recently established, dedicated AI team that has built around 30 AI agents. Specific tasks include industry research, client reporting, media interview preparation, helping clients create clearer briefs, and image generation.
+A big part of Underwood's job is to manage those agents, check their outputs and feed those to the team members who are dealing directly with clients and the media.
+Another key responsibility of hers is to monitor how clients appear in the responses from AI tools like ChatGPT, Claude, Gemini and others.
+"A huge part is being in client meetings and calls to work out what is actually going to be most helpful from these agents," says Underwood.
+AI is seen as one of the main factors behind graduate job cuts, but companies are also creating dedicated AI-specific graduate roles like Underwood's.
+Dillan Patel, for example, joined engineering software company Stride 18 months ago as an intern. A business management graduate, he was put to work developing an internal chatbot designed to capture the knowledge of a senior staff member transitioning into retirement.
+Patel, 24, is now an AI automation analyst, tasked with developing further internal agents to provide specific information to individual teams, while also identifying which manual or repetitive tasks across the company could be done by AI.
+"My role focuses on finding practical ways to use technology, automation, data and AI to improve how we operate," says Coventry-based Patel.
+Such AI savvy graduates are also in demand from companies like ArvatoConnect, an outsourced contact centre company.
+CEO Debra Maxwell says the company's usual graduate intake is on hold this year, but she plans to resume it next year with a bigger focus on AI.
+"We would be looking for more AI-disruptor type roles, where you can challenge us as an organisation to think more holistically about where AI can be applied and where we could grow our business from," says London-based Maxwell.
+"We see our graduates as not filling administrative roles, but actually adding value to the organisation in a different way."
+Maxwell adds: "For example, one of our recent graduates is using AI to do deep dives on specific markets, and provide more information for when we're bidding [for new contracts]. It's basically giving him a more rounded role."
+If AI can make a graduate job bigger and more integral to the organisation, Maxwell argues that companies can create a more loyal, engaged workforce that is able to contribute more meaningfully, much earlier.
+Research from consultancy PwC found that some graduate roles are assuming more responsibilities because of AI, as it allows companies to demand more senior abilities from junior hires.
+For the consultancy's 2026 AI Jobs Barometer, external, it analysed 2.4 million entry-level jobs in the US. It found that the entry-level roles most influenced by AI are now seven times more likely to require traditionally senior-level skills. These include motivational leadership, strategic decision making and team building.
+Those entry-level roles with higher expectations have in fact grown 35% since 2019, PwC found, while other entry-level roles actually shrank by 10%.
+Cian Clinton, who joined consultancy Valliance last September after graduating from a Bachelor of Science in 2024, says the incorporation of AI into his role makes him feel less like a graduate, and more like an equal team member. He uses around 10 AI agents daily for different tasks.
+"Your ideas and your creativity are a lot more valued because you actually get to implement those firsthand, and the responsibility you take on is a lot greater because of that," says London-based Clinton, 23.
+"I am now taking on responsibilities which would usually take me four or five years to get to."
+His career progression, he believes, will now be faster as a result.
+"AI is killing the 'pyramid' approach…progression is no longer based on your knowledge bank. Now it's more based on your critical thinking and understanding of the processes," says Clinton.
+'Learning the trade'
+There's no doubt Underwood, Patel and Clinton are developing valuable AI knowledge which can help them across their careers.
+But with their time at work so focused on AI, does it matter how much - or how little - time they're spending learning about the professional field they're supposed to be operating in?
+Underwood says she'd like to still pick up the traditional PR skills her role isn't currently focused on, but is confident of her future in the agency's growing AI team.
+"There's certain things that I haven't had the chance to do yet, like directly pitching to the media. I absolutely plan to do this," she says.
+Graduates becoming too AI-centric is an issue for Simon Pratt, chief operating officer at Portman Finance Group. He says being able to use AI effectively is important, but the company's two-year graduate programme is fully centred on "learning the trade".
+"Our graduates rotate across four areas at six-month intervals, working directly alongside senior relationship managers to learn their trade," Northampton-based Pratt explains.
+"They'll learn all of our financial products, how to draft credit papers for submission to lenders, and how to build meaningful relationships with our customers. They'll progress to running transactions from start to finish."
+Claire Reed, PwC UK's chief technology and innovation officer, believes graduate roles that are too AI heavy won't necessarily provide graduates long-term career progression.
+"There will be no graduate job now that doesn't require a baseline of AI literacy," says Glasgow-based Reed.
+"But AI skills on their own are not going to help you in your career. You've got to couple that with that sector knowledge of what that client actually wants."
+Back in Coventry, Dillan Patel is confident his AI work will continue to be valuable, and he wants to keep building on it.
+"I don't think I'd want to explore different positions within the business. Through my involvement in AI-related projects, I already work closely with different areas of the business and I'm gaining valuable knowledge and experience along the way," he says.
+Technology of Business
+- Published9 October
+- Published25 September
+- Published18 September`,
+    bodyJa: `Graduates are managing AI - but are they learning much else?
+- Published
+Recent university graduate Lotte Underwood is a public relations executive with a twist - she spends more time using AI than actually doing PR.
+Underwood, 25, joined London-based PR agency Fight or Flight in November last year, in the new role of "AI associate" after completing a degree and then a masters in marketing.
+She's part of a recently established, dedicated AI team that has built around 30 AI agents. Specific tasks include industry research, client reporting, media interview preparation, helping clients create clearer briefs, and image generation.
+A big part of Underwood's job is to manage those agents, check their outputs and feed those to the team members who are dealing directly with clients and the media.
+Another key responsibility of hers is to monitor how clients appear in the responses from AI tools like ChatGPT, Claude, Gemini and others.
+"A huge part is being in client meetings and calls to work out what is actually going to be most helpful from these agents," says Underwood.
+AI is seen as one of the main factors behind graduate job cuts, but companies are also creating dedicated AI-specific graduate roles like Underwood's.
+Dillan Patel, for example, joined engineering software company Stride 18 months ago as an intern. A business management graduate, he was put to work developing an internal chatbot designed to capture the knowledge of a senior staff member transitioning into retirement.
+Patel, 24, is now an AI automation analyst, tasked with developing further internal agents to provide specific information to individual teams, while also identifying which manual or repetitive tasks across the company could be done by AI.
+"My role focuses on finding practical ways to use technology, automation, data and AI to improve how we operate," says Coventry-based Patel.
+Such AI savvy graduates are also in demand from companies like ArvatoConnect, an outsourced contact centre company.
+CEO Debra Maxwell says the company's usual graduate intake is on hold this year, but she plans to resume it next year with a bigger focus on AI.
+"We would be looking for more AI-disruptor type roles, where you can challenge us as an organisation to think more holistically about where AI can be applied and where we could grow our business from," says London-based Maxwell.
+"We see our graduates as not filling administrative roles, but actually adding value to the organisation in a different way."
+Maxwell adds: "For example, one of our recent graduates is using AI to do deep dives on specific markets, and provide more information for when we're bidding [for new contracts]. It's basically giving him a more rounded role."
+If AI can make a graduate job bigger and more integral to the organisation, Maxwell argues that companies can create a more loyal, engaged workforce that is able to contribute more meaningfully, much earlier.
+Research from consultancy PwC found that some graduate roles are assuming more responsibilities because of AI, as it allows companies to demand more senior abilities from junior hires.
+For the consultancy's 2026 AI Jobs Barometer, external, it analysed 2.4 million entry-level jobs in the US. It found that the entry-level roles most influenced by AI are now seven times more likely to require traditionally senior-level skills. These include motivational leadership, strategic decision making and team building.
+Those entry-level roles with higher expectations have in fact grown 35% since 2019, PwC found, while other entry-level roles actually shrank by 10%.
+Cian Clinton, who joined consultancy Valliance last September after graduating from a Bachelor of Science in 2024, says the incorporation of AI into his role makes him feel less like a graduate, and more like an equal team member. He uses around 10 AI agents daily for different tasks.
+"Your ideas and your creativity are a lot more valued because you actually get to implement those firsthand, and the responsibility you take on is a lot greater because of that," says London-based Clinton, 23.
+"I am now taking on responsibilities which would usually take me four or five years to get to."
+His career progression, he believes, will now be faster as a result.
+"AI is killing the 'pyramid' approach…progression is no longer based on your knowledge bank. Now it's more based on your critical thinking and understanding of the processes," says Clinton.
+'Learning the trade'
+There's no doubt Underwood, Patel and Clinton are developing valuable AI knowledge which can help them across their careers.
+But with their time at work so focused on AI, does it matter how much - or how little - time they're spending learning about the professional field they're supposed to be operating in?
+Underwood says she'd like to still pick up the traditional PR skills her role isn't currently focused on, but is confident of her future in the agency's growing AI team.
+"There's certain things that I haven't had the chance to do yet, like directly pitching to the media. I absolutely plan to do this," she says.
+Graduates becoming too AI-centric is an issue for Simon Pratt, chief operating officer at Portman Finance Group. He says being able to use AI effectively is important, but the company's two-year graduate programme is fully centred on "learning the trade".
+"Our graduates rotate across four areas at six-month intervals, working directly alongside senior relationship managers to learn their trade," Northampton-based Pratt explains.
+"They'll learn all of our financial products, how to draft credit papers for submission to lenders, and how to build meaningful relationships with our customers. They'll progress to running transactions from start to finish."
+Claire Reed, PwC UK's chief technology and innovation officer, believes graduate roles that are too AI heavy won't necessarily provide graduates long-term career progression.
+"There will be no graduate job now that doesn't require a baseline of AI literacy," says Glasgow-based Reed.
+"But AI skills on their own are not going to help you in your career. You've got to couple that with that sector knowledge of what that client actually wants."
+Back in Coventry, Dillan Patel is confident his AI work will continue to be valuable, and he wants to keep building on it.
+"I don't think I'd want to explore different positions within the business. Through my involvement in AI-related projects, I already work closely with different areas of the business and I'm gaining valuable knowledge and experience along the way," he says.
+Technology of Business
+- Published9 October
+- Published25 September
+- Published18 September`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-04T00:04:35+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d9/live/cc0124d0-cd54-11f1-a64c-550be9e3c66b.jpg",
+    readTime: 10,
+  },
+  {
+    id: "poundland-supplier-will-lose-millions-if-f45af605",
+    title: "Poundland supplier 'will lose millions' if retailer collapses",
+    titleJa: "Poundland supplier 'will lose millions' if retailer collapses",
+    summaryJa: "One of Poundland's suppliers will lose millions if it collapses, while other suppliers have said they would go under.",
+    bodyOriginal: `Poundland supplier 'will lose millions' if retailer collapses
+- Published
+One of Poundland's suppliers has said it will lose millions if the firm collapses.
+While that supplier will stay afloat, it is feared that some small and medium-sized suppliers could go under.
+This is in addition to potentially thousands of job losses among staff.
+Politicians have been putting questions to representatives of Poundland owners Gordon Brothers this week seeking "clarity" on plans for the retailer.
+Adam Turner, sales director at Highcrest Retail Brands - a family owned Bradford business - told the BBC that Poundland was one of Highcrest's biggest customers, and that the firms have had a relationship for decades.
+Highcrest mainly sells confectionary to Poundland, and turns over about £50m.
+It will "lose a few million" if Poundland becomes insolvent, so it will have a gap in its balance sheet next year, he said.
+Highcrest was a "longstanding business that can stomach this", but other medium and small suppliers have told him that "if Poundland goes under, so do they", Mr Turner said.
+This echoes a warning from Poundland founder Steve Smith on Monday that two or three thousand suppliers to the firm, which only work for Poundland, would be directly affected by its collapse.
+Not only 12,000 Poundland staff would be affected, but also potentially tens of thousands more, he said.
+If Poundland's stores are sold to new buyers, some of the employees may get new jobs on the same premises. However, it is understood that buyers are only interested in about half the stores at present - meaning roughly 6,000 employees would not be re-employed.
+Poundland's founder offers to invest in firm
+- Published1 day ago
+High stock levels
+Mr Turner said that the last three months of the year is the "golden quarter" for retailers. In terms of sweets, Poundland will get its Halloween stock in from July, and Christmas stock in from September.
+These three months will be the time of year when suppliers will be owed the most by Poundland.
+If Poundland goes under, suppliers will be getting "pennies in the pound" back from the administration, he said, which is "very upsetting" - although he still hopes a deal can be done so Poundland can remain solvent.
+Poundland owners Gordon Brothers will be a secured creditor, which means they are first in line to get their money back, and suppliers "who have done nothing wrong" will take the financial hit.
+"It's sad. It's a nightmare for us all to be honest with you. It's not just the suppliers, it's the staff at Poundland, some of these guys have been there for many years.
+"It's from the warehouse staff all the way to the shop staff to everybody within head office. It's a massive ripple effect through the supply chain," he added.
+Mr Turner said he had no knowledge of whether Gordon Brothers had deliberately timed the process of Poundland going into administration so it could take advantage of having high stock levels, which it can then sell.
+One of the ways Gordon Brothers makes money is through stock liquidations - selling off stock from collapsed businesses.
+One insider familiar with the situation told the BBC that the timing of Poundland facing collapse was "odd" - most retailers don't fall over in the run-up to Christmas.
+Gordon Brothers was approached for comment.
+Ministers' questions
+Meanwhile, business secretary Jonathan Reynolds will meet with Gordon Brothers later this week after he and Prime Minister Andy Burnham questioned why a solvent deal had not been made.
+Business minster Kate Dearden told MPs that government officials had also met with representatives from Gordon Brothers on Monday.
+"I am deeply concerned about the uncertainty surrounding Poundland's future and the impact it could have on its staff and their families who are at the forefront of my mind," Dearden told the House of Commons.
+"Poundland is not currently in administration and the business continues to trade, but this is a worrying time for employees, suppliers and communities", she added.
+The minister confirmed she would also be meeting with Poundland executives on Wednesday.
+She said the government doesn't want to interfere with "current ongoing commercial negotiations", but said ministers would be seeking "clarity" on the plans for the retailer.
+"It's absolutely legitimate for this government to ask the business if they're doing everything they can to protect employees and suppliers up and down the country," she added.
+Dearden told MPs that the government would be ready to help the company's employees, should the current situation end in administration.
+"We stand ready to support them if they need to move into new employment, however... our priority is always in protecting jobs and the Secretary of State and I will continue to engage with the company to secure the best possible outcome," she added.
+The head of Gordon Brothers' European operations reportedly told the government that the firm stood by its stewardship and had given Poundland £85m in additional financing since its purchase in 2025.`,
+    bodyJa: `Poundland supplier 'will lose millions' if retailer collapses
+- Published
+One of Poundland's suppliers has said it will lose millions if the firm collapses.
+While that supplier will stay afloat, it is feared that some small and medium-sized suppliers could go under.
+This is in addition to potentially thousands of job losses among staff.
+Politicians have been putting questions to representatives of Poundland owners Gordon Brothers this week seeking "clarity" on plans for the retailer.
+Adam Turner, sales director at Highcrest Retail Brands - a family owned Bradford business - told the BBC that Poundland was one of Highcrest's biggest customers, and that the firms have had a relationship for decades.
+Highcrest mainly sells confectionary to Poundland, and turns over about £50m.
+It will "lose a few million" if Poundland becomes insolvent, so it will have a gap in its balance sheet next year, he said.
+Highcrest was a "longstanding business that can stomach this", but other medium and small suppliers have told him that "if Poundland goes under, so do they", Mr Turner said.
+This echoes a warning from Poundland founder Steve Smith on Monday that two or three thousand suppliers to the firm, which only work for Poundland, would be directly affected by its collapse.
+Not only 12,000 Poundland staff would be affected, but also potentially tens of thousands more, he said.
+If Poundland's stores are sold to new buyers, some of the employees may get new jobs on the same premises. However, it is understood that buyers are only interested in about half the stores at present - meaning roughly 6,000 employees would not be re-employed.
+Poundland's founder offers to invest in firm
+- Published1 day ago
+High stock levels
+Mr Turner said that the last three months of the year is the "golden quarter" for retailers. In terms of sweets, Poundland will get its Halloween stock in from July, and Christmas stock in from September.
+These three months will be the time of year when suppliers will be owed the most by Poundland.
+If Poundland goes under, suppliers will be getting "pennies in the pound" back from the administration, he said, which is "very upsetting" - although he still hopes a deal can be done so Poundland can remain solvent.
+Poundland owners Gordon Brothers will be a secured creditor, which means they are first in line to get their money back, and suppliers "who have done nothing wrong" will take the financial hit.
+"It's sad. It's a nightmare for us all to be honest with you. It's not just the suppliers, it's the staff at Poundland, some of these guys have been there for many years.
+"It's from the warehouse staff all the way to the shop staff to everybody within head office. It's a massive ripple effect through the supply chain," he added.
+Mr Turner said he had no knowledge of whether Gordon Brothers had deliberately timed the process of Poundland going into administration so it could take advantage of having high stock levels, which it can then sell.
+One of the ways Gordon Brothers makes money is through stock liquidations - selling off stock from collapsed businesses.
+One insider familiar with the situation told the BBC that the timing of Poundland facing collapse was "odd" - most retailers don't fall over in the run-up to Christmas.
+Gordon Brothers was approached for comment.
+Ministers' questions
+Meanwhile, business secretary Jonathan Reynolds will meet with Gordon Brothers later this week after he and Prime Minister Andy Burnham questioned why a solvent deal had not been made.
+Business minster Kate Dearden told MPs that government officials had also met with representatives from Gordon Brothers on Monday.
+"I am deeply concerned about the uncertainty surrounding Poundland's future and the impact it could have on its staff and their families who are at the forefront of my mind," Dearden told the House of Commons.
+"Poundland is not currently in administration and the business continues to trade, but this is a worrying time for employees, suppliers and communities", she added.
+The minister confirmed she would also be meeting with Poundland executives on Wednesday.
+She said the government doesn't want to interfere with "current ongoing commercial negotiations", but said ministers would be seeking "clarity" on the plans for the retailer.
+"It's absolutely legitimate for this government to ask the business if they're doing everything they can to protect employees and suppliers up and down the country," she added.
+Dearden told MPs that the government would be ready to help the company's employees, should the current situation end in administration.
+"We stand ready to support them if they need to move into new employment, however... our priority is always in protecting jobs and the Secretary of State and I will continue to engage with the company to secure the best possible outcome," she added.
+The head of Gordon Brothers' European operations reportedly told the government that the firm stood by its stewardship and had given Poundland £85m in additional financing since its purchase in 2025.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-04T00:03:17+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222a/live/3804e900-d7be-11f1-8a3d-5320e3fab176.jpg",
+    readTime: 10,
+  },
+  {
     id: "amd-stock-jumps-8-on-earnings-as-data-ce-1f897f29",
     title: "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
     titleJa: "AMD stock jumps 8% on earnings as data center revenue nearly doubles",
@@ -322,6 +674,86 @@ Democrats would still hold some leverage, largely due to the Senate's 60-vote fi
     publishedAt: "2026-11-03T18:29:24+00:00",
     category: "自動車",
     imageUrl: "https://images.unsplash.com/photo-1560958089-b8a1929cea89?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "binance-says-fake-job-interviews-used-as-347d9604",
+    title: "Binance says fake job interviews used as part of $6.3bn crypto hack",
+    titleJa: "Binance says fake job interviews used as part of $6.3bn crypto hack",
+    summaryJa: "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+    bodyOriginal: `Binance says fake job interviews used as part of $6.3bn crypto hack
+- Published
+Hackers who stole a record $6.3bn (£4.7bn) from Binance used fake job interviews and a compromised internal AI tool, the firm has revealed.
+Initial findings published by the company, which operates the world's largest cryptocurrency exchange, said hackers gained access to its systems through "sophisticated, multi-stage campaign".
+It said they used a range of techniques such as malicious software downloads to compromise the computers of Binance engineers and gain control over tools to drain its wallet of billions of dollars worth of crypto.
+Binance called it a "serious and highly sophisticated security incident" and apologised, saying "this should not have happened".
+In a post on X, external, Binance said hackers targeted its engineers using social engineering techniques.
+These see hackers use approaches such as phishing to trick people into parting with sensitive or personal details, that can then be used to try and access their accounts.
+Binance said as part of the hack, one of its engineers was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives.
+It said the perpetrators used "more advanced and deceptive" methods to build trust with him, such as sharing social media accounts that contained personal images.
+The engineer in question was instructed to download malware masquerading as an "assignment" during a second interview, that deployed malicious code with "obfuscation techniques" evading detection.
+Binance said hackers then leveraged the engineer's compromised computer and a compromised internal AI tool in October to gain control over two other engineers' laptops, and execute the next steps of the attack.
+The incident led Binance to suspend withdrawals for customers globally, meaning users could not get their cryptocurrency out of the platform until the service was restored on Sunday.
+Customers withdrew billions of dollars worth of assets after it reopened.
+"We apologise for the concern, disruption and uncertainty it caused our users, partners and the wider industry," it said.
+The company added it had taken a range of steps following the incident, including working with law enforcement to trace and freeze affected assets.
+It said it had also set aside more than 100% of the funds needed to cover the loss, noting 98% of the token assets impacted had been "replenished" as of Saturday.
+The record $6.3bn (£4.7bn) attack is thought to be the largest crypto hack to date.
+North Korea involvement
+US crime agencies, including the Federal Bureau of Investigation (FBI) and Secret Service, have been assisting Binance in tracing the crypto taken from the platform's own wallets.
+The agencies, along with a range of cyber analysts, said that the hack - like similar breaches before it - bore the signs of having been orchestrated by North Korea.
+Pyongyang hit back at the claims on Tuesday, denying it was behind the hack.
+Kim Yo Jong, a top Democratic People's Republic of Korea official and the sister of leader Kim Jong Un, said on the accusations were another "sinister attempt" by the US to damage North Korea's public image.
+The country has consistently denied being behind a number of major cyber attacks it has been blamed for in recent years.
+The TraderTraitor unit, which is also known as the Lazarus Group, was blamed for a then-record $1.5bn hack of crypto exchange Bybit in 2025.
+Binance had previously not responded to the BBC's queries about North Korea's alleged involvement in the hack.
+But on Tuesday, the company wrote in its post on X, external: "The latest information released by the Federal Bureau of Investigation indicates that the Democratic People's Republic of Korea is responsible for this incident."
+As part of its security efforts following the attack, Binance said it would also increase investment in AI tools that can detect security threats, as well as engage third-party cyber experts to carry out a full-scale review of the incident.
+It also said that it would seek to stablish a security research fund and work with leading AI and security firms on targeted initiatives.
+From Bitcoin to Binance: Crypto terms and what they mean
+- Published4 days ago
+Who could be behind the Binance hack and what we know so far
+- Published4 days ago
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
+    bodyJa: `Binance says fake job interviews used as part of $6.3bn crypto hack
+- Published
+Hackers who stole a record $6.3bn (£4.7bn) from Binance used fake job interviews and a compromised internal AI tool, the firm has revealed.
+Initial findings published by the company, which operates the world's largest cryptocurrency exchange, said hackers gained access to its systems through "sophisticated, multi-stage campaign".
+It said they used a range of techniques such as malicious software downloads to compromise the computers of Binance engineers and gain control over tools to drain its wallet of billions of dollars worth of crypto.
+Binance called it a "serious and highly sophisticated security incident" and apologised, saying "this should not have happened".
+In a post on X, external, Binance said hackers targeted its engineers using social engineering techniques.
+These see hackers use approaches such as phishing to trick people into parting with sensitive or personal details, that can then be used to try and access their accounts.
+Binance said as part of the hack, one of its engineers was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives.
+It said the perpetrators used "more advanced and deceptive" methods to build trust with him, such as sharing social media accounts that contained personal images.
+The engineer in question was instructed to download malware masquerading as an "assignment" during a second interview, that deployed malicious code with "obfuscation techniques" evading detection.
+Binance said hackers then leveraged the engineer's compromised computer and a compromised internal AI tool in October to gain control over two other engineers' laptops, and execute the next steps of the attack.
+The incident led Binance to suspend withdrawals for customers globally, meaning users could not get their cryptocurrency out of the platform until the service was restored on Sunday.
+Customers withdrew billions of dollars worth of assets after it reopened.
+"We apologise for the concern, disruption and uncertainty it caused our users, partners and the wider industry," it said.
+The company added it had taken a range of steps following the incident, including working with law enforcement to trace and freeze affected assets.
+It said it had also set aside more than 100% of the funds needed to cover the loss, noting 98% of the token assets impacted had been "replenished" as of Saturday.
+The record $6.3bn (£4.7bn) attack is thought to be the largest crypto hack to date.
+North Korea involvement
+US crime agencies, including the Federal Bureau of Investigation (FBI) and Secret Service, have been assisting Binance in tracing the crypto taken from the platform's own wallets.
+The agencies, along with a range of cyber analysts, said that the hack - like similar breaches before it - bore the signs of having been orchestrated by North Korea.
+Pyongyang hit back at the claims on Tuesday, denying it was behind the hack.
+Kim Yo Jong, a top Democratic People's Republic of Korea official and the sister of leader Kim Jong Un, said on the accusations were another "sinister attempt" by the US to damage North Korea's public image.
+The country has consistently denied being behind a number of major cyber attacks it has been blamed for in recent years.
+The TraderTraitor unit, which is also known as the Lazarus Group, was blamed for a then-record $1.5bn hack of crypto exchange Bybit in 2025.
+Binance had previously not responded to the BBC's queries about North Korea's alleged involvement in the hack.
+But on Tuesday, the company wrote in its post on X, external: "The latest information released by the Federal Bureau of Investigation indicates that the Democratic People's Republic of Korea is responsible for this incident."
+As part of its security efforts following the attack, Binance said it would also increase investment in AI tools that can detect security threats, as well as engage third-party cyber experts to carry out a full-scale review of the incident.
+It also said that it would seek to stablish a security research fund and work with leading AI and security firms on targeted initiatives.
+From Bitcoin to Binance: Crypto terms and what they mean
+- Published4 days ago
+Who could be behind the Binance hack and what we know so far
+- Published4 days ago
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-03T16:19:29+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b517/live/8d68c970-d7a0-11f1-84dd-e55f4bec0ecd.jpg",
     readTime: 10,
   },
   {
@@ -1787,376 +2219,6 @@ O'Leary said: "We believe those cuts will continue into the summer of 2027. Over
     category: "マクロ経済",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/895b/live/a85523b0-d691-11f1-8f56-0b6ab08f384e.jpg",
     readTime: 7,
-  },
-  {
-    id: "binance-sees-3-64-billion-in-net-outflow-b271cc3a",
-    title: "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
-    titleJa: "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
-    summaryJa: "Binance recorded $3.64 billion in net outflows after resuming withdrawals following a $6.3 billion hack, representing 2.1% of its total assets.",
-    bodyOriginal: `Binance said it recorded $3.64 billion in net outflows after reopening withdrawals on Sunday following a $6.3 billion hack, as customers rushed to move funds off the platform.
-The exchange processed $4.65 billion in withdrawals and $1.01 billion in deposits between 6 a.m. and 3:30 p.m. UTC on Nov. 1, Binance said in a post on X.
-The resulting net outflows represented 2.1% of Binance's $171 billion in total assets, based on its latest available proof-of-reserves data as of Oct. 28.
-Binance said withdrawal volumes had declined and were stabilizing following an initial spike, while deposit volumes remained substantial.
-The exchange began restoring withdrawals in phases at 6 a.m. UTC on Sunday, with services resuming across all 15 networks and assets included in the initial phase by 12:36 p.m. UTC. It said testing was continuing for the remaining networks and assets.
-"Circle activated its incident response procedures and coordinated with law enforcement to freeze more than $1.1 billion in USDC associated with the incident," a spokesperson for the stablecoin issuer told CNBC in an email. The company said the investigation is ongoing.
-The updated figure follows a Friday post from Circle CEO Jeremy Allaire, who said at the time that more than $800 million in USDC linked to the incident had been frozen.
-Binance founder and former CEO Changpeng Zhao sought to reassure users following the breach, writing on X that "98% choose to stay!" He said most of the net outflows occurred within the first couple of hours after withdrawals resumed. "Trust isn't earned by what you say in good times. It's earned by what you do in hard times," Zhao added.
-The withdrawals followed a record $6.3 billion hack of Binance last week. The FBI attributed the attack to North Korean hackers, identifying the operation as TraderTraitor.
-The exchange has said it would absorb the financial impact of the stolen funds rather than pass the losses on to users.
-Binance said it had covered around 95% of the impacted amount, up from 90% in its previous update. The exchange said the remaining 5% consisted of less liquid tokens that would take longer to source in the quantities required.`,
-    bodyJa: `Binance said it recorded $3.64 billion in net outflows after reopening withdrawals on Sunday following a $6.3 billion hack, as customers rushed to move funds off the platform.
-The exchange processed $4.65 billion in withdrawals and $1.01 billion in deposits between 6 a.m. and 3:30 p.m. UTC on Nov. 1, Binance said in a post on X.
-The resulting net outflows represented 2.1% of Binance's $171 billion in total assets, based on its latest available proof-of-reserves data as of Oct. 28.
-Binance said withdrawal volumes had declined and were stabilizing following an initial spike, while deposit volumes remained substantial.
-The exchange began restoring withdrawals in phases at 6 a.m. UTC on Sunday, with services resuming across all 15 networks and assets included in the initial phase by 12:36 p.m. UTC. It said testing was continuing for the remaining networks and assets.
-"Circle activated its incident response procedures and coordinated with law enforcement to freeze more than $1.1 billion in USDC associated with the incident," a spokesperson for the stablecoin issuer told CNBC in an email. The company said the investigation is ongoing.
-The updated figure follows a Friday post from Circle CEO Jeremy Allaire, who said at the time that more than $800 million in USDC linked to the incident had been frozen.
-Binance founder and former CEO Changpeng Zhao sought to reassure users following the breach, writing on X that "98% choose to stay!" He said most of the net outflows occurred within the first couple of hours after withdrawals resumed. "Trust isn't earned by what you say in good times. It's earned by what you do in hard times," Zhao added.
-The withdrawals followed a record $6.3 billion hack of Binance last week. The FBI attributed the attack to North Korean hackers, identifying the operation as TraderTraitor.
-The exchange has said it would absorb the financial impact of the stolen funds rather than pass the losses on to users.
-Binance said it had covered around 95% of the impacted amount, up from 90% in its previous update. The exchange said the remaining 5% consisted of less liquid tokens that would take longer to source in the quantities required.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html",
-    publishedAt: "2026-11-02T05:09:45+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "canada-india-5-5-billion-bank-takeover-a-e589f905",
-    title: "Canada-India $5.5 billion bank takeover attracts opposition from workers, politicians",
-    titleJa: "Canada-India $5.5 billion bank takeover attracts opposition from workers, politicians",
-    summaryJa: "IDBI workers demand the government \"cancel the privatization process\" and work to strengthen the bank while protecting public investment and staff interests.",
-    bodyOriginal: `Canadian firm Fairfax Financial Holdings' proposed $5.5 billion takeover of IDBI Bank is facing pushback from employees of the Indian state-owned lender and political parties in the country.
-On Sunday, the United Forum of IDBI Officers and Employees called for a two-day "nationwide" strike against the sale of the bank to Fairfax. The workers' union also expressed "grave concerns" about the transparency of the sale and valuation process, according to a post on X.
-It is demanding that the government "cancel the privatization process" and instead focus on strengthening the bank while protecting public investment and employees' interests.
-Last week, Rahul Gandhi, India's leader of the opposition, extended support to the IDBI Bank employee unions opposing the takeover by Fairfax. "Public banks are not assets to be sold off, they are tools to build the nation," Gandhi said in a statement on Thursday.
-He added that the sale of over 60% stake in IDBI Bank to Fairfax goes against the commitment of previous governments to hold a 51% stake in the state-owned lender.
-Nirmala Sitharaman, India's finance minister, in her response said the public sector bank was handed to the government in "poor shape" and was revived through "professionalism, prudence" and recapitalization of more than 250 billion rupees ($2.6 billion).
-"The IDBI Bank is now poised for its next phase of growth," the finance minister said. The government has previously said that the next phase of growth will be driven by a strategic investor.
-The Indian government on Oct.14 said the sale of over 60% of the share in IDBI will mark the largest foreign direct investment transaction in India's financial sector. Fairfax made a bid to pay 81 rupees per share for IDBI against the average fair value set at 75.99 rupees apiece.
-On Monday, shares of IDBI opened at around 79 rupees per share.
-However, Indian media outlet Businessworld on Thursday reported that government officials had suppressed the valuation of IDBI to make Fairfax's offer seem attractive. The Ministry of Finance has defended its procedure, adding that the bidding process was a "double blind" as the bidder did not know the valuation and the valuators did not see the bids.
-The Indian government has been divesting stakes this year as it pushes to keep the country's growth engine running amid deepening fiscal pressures. It sold shares in several companies, including Cochin Shipyard, Indian Railways Finance Corp, NHPC and Coal India. In August, it got $3.3 billion for a 6.5% stake in the country's top life insurer, Life Insurance Corporation of India.`,
-    bodyJa: `Canadian firm Fairfax Financial Holdings' proposed $5.5 billion takeover of IDBI Bank is facing pushback from employees of the Indian state-owned lender and political parties in the country.
-On Sunday, the United Forum of IDBI Officers and Employees called for a two-day "nationwide" strike against the sale of the bank to Fairfax. The workers' union also expressed "grave concerns" about the transparency of the sale and valuation process, according to a post on X.
-It is demanding that the government "cancel the privatization process" and instead focus on strengthening the bank while protecting public investment and employees' interests.
-Last week, Rahul Gandhi, India's leader of the opposition, extended support to the IDBI Bank employee unions opposing the takeover by Fairfax. "Public banks are not assets to be sold off, they are tools to build the nation," Gandhi said in a statement on Thursday.
-He added that the sale of over 60% stake in IDBI Bank to Fairfax goes against the commitment of previous governments to hold a 51% stake in the state-owned lender.
-Nirmala Sitharaman, India's finance minister, in her response said the public sector bank was handed to the government in "poor shape" and was revived through "professionalism, prudence" and recapitalization of more than 250 billion rupees ($2.6 billion).
-"The IDBI Bank is now poised for its next phase of growth," the finance minister said. The government has previously said that the next phase of growth will be driven by a strategic investor.
-The Indian government on Oct.14 said the sale of over 60% of the share in IDBI will mark the largest foreign direct investment transaction in India's financial sector. Fairfax made a bid to pay 81 rupees per share for IDBI against the average fair value set at 75.99 rupees apiece.
-On Monday, shares of IDBI opened at around 79 rupees per share.
-However, Indian media outlet Businessworld on Thursday reported that government officials had suppressed the valuation of IDBI to make Fairfax's offer seem attractive. The Ministry of Finance has defended its procedure, adding that the bidding process was a "double blind" as the bidder did not know the valuation and the valuators did not see the bids.
-The Indian government has been divesting stakes this year as it pushes to keep the country's growth engine running amid deepening fiscal pressures. It sold shares in several companies, including Cochin Shipyard, Indian Railways Finance Corp, NHPC and Coal India. In August, it got $3.3 billion for a 6.5% stake in the country's top life insurer, Life Insurance Corporation of India.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/02/canada-india-bank-takeover-protest-workers.html",
-    publishedAt: "2026-11-02T04:09:34+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "binance-users-withdraw-3-6bn-after-recor-c7bed4c4",
-    title: "Binance users withdraw $3.6bn after record crypto hack",
-    titleJa: "Binance users withdraw $3.6bn after record crypto hack",
-    summaryJa: "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
-    bodyOriginal: `Binance users withdraw $3.6bn after record crypto hack
-- Published
-Binance customers withdrew $3.64bn (£2.72bn) of assets from the world's largest cryptocurrency exchange as it reopened on Sunday following a record hack last week.
-The firm suspended all transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.
-Major organisations, including the US Federal Bureau of Investigation (FBI), have accused North Korea of being responsible for the cyber-attack, which is said to be the largest hack in history.
-The company said it has covered around 95% of the assets stolen in the breach, but that the remaining amount may take longer to source. Binance has repeatedly said it would cover all of the losses linked to the attack.
-"Between 06:00 and 15:30 [GMT] on November 1, we processed $4.649 billion in withdrawals and $1.01 billion in deposits, resulting in a net outflow of approximately $3.64 billion," Binance posted on X.
-There was an "initial spike" in withdrawals, which later declined and "are stabilising as expected", it added.
-Sunday's net withdrawals account for just over 2% of the $171bn of assets under its management, said Binance.
-The firm said last week that it has reserved more than $6.34bn in funds, to deal with the fallout of the attack.
-Binance also said withdrawals of more than two dozen major cryptocurrencies like Bitcoin and Ethereum have resumed and that more services will resume in phases once security checks are completed.
-AI discovered a massive cyber-security flaw - here's what happened
-- Published22 October
-The attack on Binance has been attributed to TraderTraitor, a North Korean cybercrime group also known as the Lazarus Group, which stole a then-record $1.5bn from crypto exchange Bybit in 2025.
-The FBI on Saturday published a list of cryptocurrency wallet addresses linked to the group and urged partners in the industry to help by blocking transactions involving them.
-The exchange scrambled to urge cryptocurrency issuers to freeze affected assets.
-Binance said last week that early checks suggest the incident may have started with a compromised laptop that belonged to an engineer, allowing hackers to find a way to make unauthorised transactions.
-The hack hit Binance's global centralised exchange, Binance.com, while its US-facing platform has said it was not affected by the issue.
-Binance said it had replaced customers' assets using a combination of sources, including its corporate treasury as well as its futures insurance and emergency reserve funds.
-"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident," the firm said.
-Cryptocurrencies are digital assets traded on exchanges such as Binance. Unlike cash, they do not exist in physical form and are managed on computers, smartphones and other digital devices.
-Binance was founded in China and has hundreds of millions of registered users globally.`,
-    bodyJa: `Binance users withdraw $3.6bn after record crypto hack
-- Published
-Binance customers withdrew $3.64bn (£2.72bn) of assets from the world's largest cryptocurrency exchange as it reopened on Sunday following a record hack last week.
-The firm suspended all transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.
-Major organisations, including the US Federal Bureau of Investigation (FBI), have accused North Korea of being responsible for the cyber-attack, which is said to be the largest hack in history.
-The company said it has covered around 95% of the assets stolen in the breach, but that the remaining amount may take longer to source. Binance has repeatedly said it would cover all of the losses linked to the attack.
-"Between 06:00 and 15:30 [GMT] on November 1, we processed $4.649 billion in withdrawals and $1.01 billion in deposits, resulting in a net outflow of approximately $3.64 billion," Binance posted on X.
-There was an "initial spike" in withdrawals, which later declined and "are stabilising as expected", it added.
-Sunday's net withdrawals account for just over 2% of the $171bn of assets under its management, said Binance.
-The firm said last week that it has reserved more than $6.34bn in funds, to deal with the fallout of the attack.
-Binance also said withdrawals of more than two dozen major cryptocurrencies like Bitcoin and Ethereum have resumed and that more services will resume in phases once security checks are completed.
-AI discovered a massive cyber-security flaw - here's what happened
-- Published22 October
-The attack on Binance has been attributed to TraderTraitor, a North Korean cybercrime group also known as the Lazarus Group, which stole a then-record $1.5bn from crypto exchange Bybit in 2025.
-The FBI on Saturday published a list of cryptocurrency wallet addresses linked to the group and urged partners in the industry to help by blocking transactions involving them.
-The exchange scrambled to urge cryptocurrency issuers to freeze affected assets.
-Binance said last week that early checks suggest the incident may have started with a compromised laptop that belonged to an engineer, allowing hackers to find a way to make unauthorised transactions.
-The hack hit Binance's global centralised exchange, Binance.com, while its US-facing platform has said it was not affected by the issue.
-Binance said it had replaced customers' assets using a combination of sources, including its corporate treasury as well as its futures insurance and emergency reserve funds.
-"Our commitment remains the same: Binance will fully cover the financial impact of the funds stolen in this incident," the firm said.
-Cryptocurrencies are digital assets traded on exchanges such as Binance. Unlike cash, they do not exist in physical form and are managed on computers, smartphones and other digital devices.
-Binance was founded in China and has hundreds of millions of registered users globally.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-02T03:32:14+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg",
-    readTime: 7,
-  },
-  {
-    id: "sam-altman-makes-surprise-south-korea-vi-98d2eaaa",
-    title: "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
-    titleJa: "Sam Altman makes surprise South Korea visit as OpenAI builds on chip partnerships",
-    summaryJa: "OpenAI CEO Sam Altman made an unannounced visit to South Korea over the weekend, meeting with Samsung executives and reportedly SK Group executives.",
-    bodyOriginal: `OpenAI CEO Sam Altman made an unannounced visit to South Korea over the weekend, meeting with Samsung executives and reportedly holding talks with SK Group Chairman Chey Tae-won, building on existing partnerships with the country's leading chipmakers.
-Samsung said Saturday that Altman met with around 50 executives from its affiliates spanning electronics, finance and biotechnology in Yongin, south of Seoul.
-The discussions covered AI developments, potential business opportunities and the technology's impact on corporate decision-making and operations, Samsung said.
-Altman also met with SK Group Chairman Chey Tae-won over lunch Saturday, with senior executives from SK Hynix and SK Telecom in attendance, according to South Korean media reports.
-The two sides may have discussed cooperation on AI chips and data centers, including existing plans for high-bandwidth memory supplies and AI data center development, according to local media reports. The participants didn't provide details of the discussions.
-SK Hynix told CNBC it was unable to confirm the reported meeting.
-Altman also visited South Korea in October 2025, when he met with President Lee Jae Myung, Samsung Electronics Executive Chairman Jay Y. Lee and SK Group Chairman Chey Tae-won, and announced partnerships with Samsung and SK Group as part of OpenAI's Stargate initiative.
-OpenAI's Stargate initiative aims to expand AI infrastructure globally, with South Korea playing a role through partnerships focused on advanced memory chip supplies and AI data center development.
-Under the agreements, Samsung Electronics and SK Hynix outlined plans to ramp up production of advanced memory chips, while OpenAI and its South Korean partners agreed to explore developing AI data centers in the country.
-OpenAI cited South Korea's ranking among global leaders in AI readiness and significant public-private funding to strengthen competitiveness as reasons for expanding its presence in the country.
-Altman's latest visit also follows a July meeting with Samsung Electronics Executive Chairman Jay Y. Lee at OpenAI's headquarters in San Francisco, according to Samsung.
-Altman left South Korea on Saturday, according to local media reports.`,
-    bodyJa: `OpenAI CEO Sam Altman made an unannounced visit to South Korea over the weekend, meeting with Samsung executives and reportedly holding talks with SK Group Chairman Chey Tae-won, building on existing partnerships with the country's leading chipmakers.
-Samsung said Saturday that Altman met with around 50 executives from its affiliates spanning electronics, finance and biotechnology in Yongin, south of Seoul.
-The discussions covered AI developments, potential business opportunities and the technology's impact on corporate decision-making and operations, Samsung said.
-Altman also met with SK Group Chairman Chey Tae-won over lunch Saturday, with senior executives from SK Hynix and SK Telecom in attendance, according to South Korean media reports.
-The two sides may have discussed cooperation on AI chips and data centers, including existing plans for high-bandwidth memory supplies and AI data center development, according to local media reports. The participants didn't provide details of the discussions.
-SK Hynix told CNBC it was unable to confirm the reported meeting.
-Altman also visited South Korea in October 2025, when he met with President Lee Jae Myung, Samsung Electronics Executive Chairman Jay Y. Lee and SK Group Chairman Chey Tae-won, and announced partnerships with Samsung and SK Group as part of OpenAI's Stargate initiative.
-OpenAI's Stargate initiative aims to expand AI infrastructure globally, with South Korea playing a role through partnerships focused on advanced memory chip supplies and AI data center development.
-Under the agreements, Samsung Electronics and SK Hynix outlined plans to ramp up production of advanced memory chips, while OpenAI and its South Korean partners agreed to explore developing AI data centers in the country.
-OpenAI cited South Korea's ranking among global leaders in AI readiness and significant public-private funding to strengthen competitiveness as reasons for expanding its presence in the country.
-Altman's latest visit also follows a July meeting with Samsung Electronics Executive Chairman Jay Y. Lee at OpenAI's headquarters in San Francisco, according to Samsung.
-Altman left South Korea on Saturday, according to local media reports.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/02/openai-sam-altman-samsung-sk-south-korea.html",
-    publishedAt: "2026-11-02T02:58:53+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "rubio-says-trump-wants-to-end-iran-war-p-83270d8e",
-    title: "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes",
-    titleJa: "Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes",
-    summaryJa: "The remarks come as reports suggest that both sides are gearing up for additional military strikes after the U.S. midterm elections.",
-    bodyOriginal: `U.S. Secretary of State Marco Rubio said President Donald Trump would like to resolve the Iranian war "diplomatically," and prefers not to use military force.
-Speaking over the weekend, Rubio told reporters that "He [Trump] hasn't made a decision...what the president expresses to you is incredible confidence that if we needed to do something militarily, we would have the ability to do it, and we really we have everything we need to be successful. But we would prefer to do it peacefully."
-The remarks come as reports suggest both sides are gearing up for additional military strikes after the midterm elections.
-On Saturday, Iranian Supreme Leader Mojtaba Khamenei called for Tehran's armed forces to meet "any level or type of threat" with "an immediate, impactful, and geographically unrestricted response."
-He also ordered that its military database be updated so that "all kinds of physical and non-physical assets of the U.S.-Zionist enemy are brought within the reach of the Armed Forces," referring to U.S. and Israeli forces.
-Washington has not explicitly stated it plans to resume attacks on Iran, but reports from The Wall Street Journal and The New York Times indicate the U.S. is preparing for possible renewed military actions after the Nov. 3 midterm elections.
-On Sunday, Trump told the Right Side Broadcasting Network. "We've had such a victory, and we'll put it away very soon, one way or the other."
-"Either they'll make a deal, or we'll just end it," he added.
-Iran targets U.K. intelligence
-On Sunday, Iran's foreign ministry designated the U.K.'s Military Intelligence Services as a "hostile group" and accused the Royal Navy and Air Force of supporting "terrorist organizations."
-In a Telegram post, the ministry said that the move was a response to what it called London's "malicious" actions, including the designation of the Islamic Revolutionary Guard Corps as a "terrorist organization."
-Tehran has separately accused the U.K. of participating in the U.S.-Iran war by allowing American forces access to British military and logistical bases.
-The U.K. had allowed U.S. forces to use RAF Fairford and Diego Garcia for what were described as "defensive" strikes on Iran, according to the BBC.`,
-    bodyJa: `U.S. Secretary of State Marco Rubio said President Donald Trump would like to resolve the Iranian war "diplomatically," and prefers not to use military force.
-Speaking over the weekend, Rubio told reporters that "He [Trump] hasn't made a decision...what the president expresses to you is incredible confidence that if we needed to do something militarily, we would have the ability to do it, and we really we have everything we need to be successful. But we would prefer to do it peacefully."
-The remarks come as reports suggest both sides are gearing up for additional military strikes after the midterm elections.
-On Saturday, Iranian Supreme Leader Mojtaba Khamenei called for Tehran's armed forces to meet "any level or type of threat" with "an immediate, impactful, and geographically unrestricted response."
-He also ordered that its military database be updated so that "all kinds of physical and non-physical assets of the U.S.-Zionist enemy are brought within the reach of the Armed Forces," referring to U.S. and Israeli forces.
-Washington has not explicitly stated it plans to resume attacks on Iran, but reports from The Wall Street Journal and The New York Times indicate the U.S. is preparing for possible renewed military actions after the Nov. 3 midterm elections.
-On Sunday, Trump told the Right Side Broadcasting Network. "We've had such a victory, and we'll put it away very soon, one way or the other."
-"Either they'll make a deal, or we'll just end it," he added.
-Iran targets U.K. intelligence
-On Sunday, Iran's foreign ministry designated the U.K.'s Military Intelligence Services as a "hostile group" and accused the Royal Navy and Air Force of supporting "terrorist organizations."
-In a Telegram post, the ministry said that the move was a response to what it called London's "malicious" actions, including the designation of the Islamic Revolutionary Guard Corps as a "terrorist organization."
-Tehran has separately accused the U.K. of participating in the U.S.-Iran war by allowing American forces access to British military and logistical bases.
-The U.K. had allowed U.S. forces to use RAF Fairford and Diego Garcia for what were described as "defensive" strikes on Iran, according to the BBC.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html",
-    publishedAt: "2026-11-02T02:39:35+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "this-is-the-biggest-threat-to-the-ai-pow-da1011a6",
-    title: "This is the biggest threat to the AI-powered bull market",
-    titleJa: "This is the biggest threat to the AI-powered bull market",
-    summaryJa: "Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.",
-    bodyOriginal: `Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.`,
-    bodyJa: `Blockbuster earnings growth has helped to power the stock market higher in 2026. In 2027, that engine might stall.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/this-is-the-biggest-threat-to-the-ai-powered-bull-market-e757ca37?mod=mw_rss_topstories",
-    publishedAt: "2026-11-02T00:22:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-72130104",
-    readTime: 2,
-  },
-  {
-    id: "don-t-get-caught-out-by-new-buy-now-pay-ce8a0e05",
-    title: "Don't get caught out by new Buy Now Pay Later rules",
-    titleJa: "Don't get caught out by new Buy Now Pay Later rules",
-    summaryJa: "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
-    bodyOriginal: `Don't get caught out by new Buy Now Pay Later rules
-- Published
-If you've bought something via Buy Now Pay Later (BNPL) since the summer, then you'll have been tested to see if you can afford it.
-BNPL has always been a type of loan, usually paid back in instalments, but it's only been officially regulated since July.
-This means stricter background checks on your ability to repay.
-If you fail, then your purchase via BNPL will be blocked. If there's a chance of this happening to you, here are some ways to approach the situation.
-What are the new rules?
-BNPL lenders - such as Klarna, Clearpay and others - must now have regulator approval to operate, giving shoppers more access to refunds and independent rulings on complaints if things go wrong.
-But new affordability checks on each BNPL transaction could also leave you blocked from services for the first time.
-There are different affordability checks for different purchases, partially based on how much is borrowed.
-But, with the expensive festive season approaching, here's how to avoid being blocked when time and finances are tight.
-How do I avoid being blocked?
-Here are four things to consider if you find your account is closed or your borrowing limit has been massively reduced, from Sara Williams, a former volunteer debt adviser at Citizens Advice who posts tips as Debt Camel on social media.
-Slow down your purchases: is what you are buying essential or can you postpone it?
-Be more careful about what you buy to avoid needing a high credit limit to, for example, buy lots of clothes in different sizes
-Cancel subscriptions to escape the trap of having to use BNPL to make up for the cost of previous payments
-Talk to debt charities for help and access to food bank vouchers if you are using BNPL for essentials
-Avoid getting into debt
-If you are struggling to make repayments on any type of loan - BNPL or otherwise - you should seek help before things spiral out of control.
-The government-backed, independent, MoneyHelper website, external has a guide to finding free debt advice near you, external.
-It also suggests writing down exactly what you owe, to help plan how you will repay the money.
-There are also tools to work out if you are receiving all the benefits and grants you are entitled to, and a bill prioritiser, external to show which payments to make first and what to do if you miss a payment.
-You should also be sceptical of supposed debt solutions you might see on your social feeds.
-Related topics
-- Published12 October
-- Published19 October`,
-    bodyJa: `Don't get caught out by new Buy Now Pay Later rules
-- Published
-If you've bought something via Buy Now Pay Later (BNPL) since the summer, then you'll have been tested to see if you can afford it.
-BNPL has always been a type of loan, usually paid back in instalments, but it's only been officially regulated since July.
-This means stricter background checks on your ability to repay.
-If you fail, then your purchase via BNPL will be blocked. If there's a chance of this happening to you, here are some ways to approach the situation.
-What are the new rules?
-BNPL lenders - such as Klarna, Clearpay and others - must now have regulator approval to operate, giving shoppers more access to refunds and independent rulings on complaints if things go wrong.
-But new affordability checks on each BNPL transaction could also leave you blocked from services for the first time.
-There are different affordability checks for different purchases, partially based on how much is borrowed.
-But, with the expensive festive season approaching, here's how to avoid being blocked when time and finances are tight.
-How do I avoid being blocked?
-Here are four things to consider if you find your account is closed or your borrowing limit has been massively reduced, from Sara Williams, a former volunteer debt adviser at Citizens Advice who posts tips as Debt Camel on social media.
-Slow down your purchases: is what you are buying essential or can you postpone it?
-Be more careful about what you buy to avoid needing a high credit limit to, for example, buy lots of clothes in different sizes
-Cancel subscriptions to escape the trap of having to use BNPL to make up for the cost of previous payments
-Talk to debt charities for help and access to food bank vouchers if you are using BNPL for essentials
-Avoid getting into debt
-If you are struggling to make repayments on any type of loan - BNPL or otherwise - you should seek help before things spiral out of control.
-The government-backed, independent, MoneyHelper website, external has a guide to finding free debt advice near you, external.
-It also suggests writing down exactly what you owe, to help plan how you will repay the money.
-There are also tools to work out if you are receiving all the benefits and grants you are entitled to, and a bill prioritiser, external to show which payments to make first and what to do if you miss a payment.
-You should also be sceptical of supposed debt solutions you might see on your social feeds.
-Related topics
-- Published12 October
-- Published19 October`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-01T23:34:49+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3c9/live/8607fcf0-d462-11f1-ab12-eb0c94f5b382.jpg",
-    readTime: 6,
-  },
-  {
-    id: "judge-dismisses-alaska-senate-election-l-52f2d094",
-    title: "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
-    titleJa: "Judge dismisses Alaska Senate election lawsuit; DOJ vows appeal",
-    summaryJa: "Democratic nominee Mary Peltola is facing two candidates named Dan Sullivan in the Alaska Senate election, one of whom is the Republican incumbent.",
-    bodyOriginal: `A federal judge on Sunday dismissed the Department of Justice's extraordinary lawsuit seeking to delay certification of the Alaska Senate election if incumbent Republican Dan Sullivan loses, citing possible voter confusion from another candidate with his name on the ballot.
-The ruling came two days before Election Day and two days after the U.S. Attorney for Alaska said ongoing criminal and civil investigations into non-incumbent Dan J. Sullivan's decision to run for the Senate.
-The campaign of Democratic nominee Mary Peltola, state election officials and outside advocacy groups had asked Judge Sharon Gleason to dismiss the DOJ's lawsuit in U.S. District Court in Anchorage.
-The Department of Justice quickly filed a notice of its intention to appeal the decision to the 9th Circuit U.S. Court of Appeals.
-Peltola is locked in a tight contest with Sen. Dan Sullivan, whose winner will be determined by a ranked-choice system.
-The outcome of the race is one of several contests that determine which party has a Senate majority, where Republicans currently hold a narrow lead.
-Neither the other Sullivan nor the fourth candidate on the ballot, Gerald Heikes, is considered a contender.
-But voters who rank them as a first choice could swing the outcome by ranking Peltola or Sen. Sullivan second.
-Peltola's campaign has been accused of encouraging retired schoolteacher Dan Sullivan to run for the Senate against the incumbent Sen. Dan S. Sullivan and Peltola.
-Her campaign has denied those claims.
-"No sham investigation or baseless lawsuit from a weaponized Department of Justice is going to stop Alaskans from electing Mary on November 3rd so she can lower costs for Alaska's working families," Peltola's campaign said in a statement after Sunday's ruling.
-"Alaskans will choose their next U.S. Senator – not Dan Sullivan or his DC allies," the campaign said.
-In her 20-page decision, Gleason did not resolve whether another Sullivan had been recruited to confuse voters.
-Instead, she said the federal government had failed to establish that it had legal standing to file a civil complaint to postpone certification of the election if Sen. Sullivan lost.
-In that event, the DOJ wanted an investigation into voter intent and possible confusion from having two Dan Sullivans on the ballot.
-"The absence of any explanation from the United States as to how its requested relief could redress its alleged injury while simultaneously maintaining the secrecy of the ballot is telling," Gleason said in her ruling.
-She noted that early voting in the state was already underway, and that ballots already cast have been commingled in a way that would prevent officials from linking individual ballots to voters.
-"More fundamentally, the United States provides no workable plan as to how it proposes to segregate ballots cast for Daniel J. Sullivan on Election Day and then conduct a court-ordered unspecified 'investigation' of those ballots in a manner that would preserve voter secrecy," Gleason wrote.
-The judge also cited a Supreme Court decision that established the so-called Purcell principle, which "strongly cautions" against courts altering election rules on the eve of election.
-She noted that DOJ claimed it was not seeking to alter the "time, place or manner of Alaska's election."
-But at the same time, Gleason said, the DOJ was asking her for an order "preventing the State
-from certifying the election if certain circumstances occur; a court order requiring the State to segregate and preserve certain ballots; and a court order permitting the United States to conduct an investigation into the intent of those voters who cast ballots for Daniel J. Sullivan."
-"These requests certainly involve the time, place, and manner of Alaska's election, which are the responsibilities of the State, not the executive branch of the federal government," Gleason said.
-The judge said she would not allow the DOJ to amend the lawsuit, which was revised last week to add a new legal claim under the Supremacy Clause of the U.S. Constitution to the first claim under the National Voter Registration Act. The amended complaint also added details of a New York Times article about the alleged recruitment of the second Sullivan.
-"The Court finds that further amendment would be futile because this Court lacks the authority to order that certain ballots cast by Alaskans be segregated so that federal law enforcement officials can conduct an unspecified investigation of the voters who cast them," Gleason said.
-A DOJ spokesperson said in a statement, "The court dismissed the case on procedural grounds but did not dispute the argument of the United States that Daniel J. Sullivan (a/k/a Decoy Dan) entered the race as a frivolous candidate to confuse voters."
-"DOJ plans to file a notice of appeal," the spokesperson said. "Alaskan voters deserve a fair election, not to be misled in an attempt to rig outcomes."
-The White House, when asked for comment, referred CNBC to the DOJ's statement.
-President Donald Trump has said he ordered the lawsuit, which was filed Oct. 22.
-Trump argued that Peltola and other Democrats had recruited the former school teacher to run in hopes of confusing voters who wanted to cast their ballots for Sen. Sullivan.
-The New York Times on Wednesday reported that Peltola campaign aides and DSCC aides had been involved in efforts to recruit the retiree for the race.
-Peltola's campaign and the Democratic Senatorial Campaign Committee have denied having any involvement in his campaign.
-DSCC Executive Director Devan Barber said in a statement, "Today's ruling is a victory for democracy and a clear message to Donald Trump and Senate Republicans: No one, no matter how powerful, can toss out free and fair elections just because they don't like the result."
-"We will never stop fighting back against the shameful, brazen efforts from the Trump administration and their weaponized Department of Justice to subvert the U.S. Senate race in Alaska, or any other election as voters reject Republicans at ballot boxes across the country – and we are confident Alaska voters will elect Mary Peltola to the Senate," Barber said.
-Sen. Sullivan, in an interview on CNN before Gleason issued her ruling, said he would accept the election results if he lost.
-But he also blasted Peltola's campaign and the DSCC.
-"Recognizing they couldn't run on their record, so they had to cheat," Sullivan said. "I think a lot of Alaskans, even Democrats, are thinking she is not fit for office; she's continually lying to the Alaskan people, and I guarantee you she's lying right now."
-Alaska election officials have pointed to steps they took to avoid voter confusion on the ballots for the race.
-The ballots list Sen. Sullivan as "Dan S. Sullivan," with the words "incumbent" and "registered Republican" next to his name.
-The other Sullivan is listed as "Daniel J. Sullivan," with no other words next to his name.
-Election officials originally had blocked the retired teacher from the primary ballot. But a state judge allowed him on the ballot. Alaska's Supreme Court upheld that ruling.`,
-    bodyJa: `A federal judge on Sunday dismissed the Department of Justice's extraordinary lawsuit seeking to delay certification of the Alaska Senate election if incumbent Republican Dan Sullivan loses, citing possible voter confusion from another candidate with his name on the ballot.
-The ruling came two days before Election Day and two days after the U.S. Attorney for Alaska said ongoing criminal and civil investigations into non-incumbent Dan J. Sullivan's decision to run for the Senate.
-The campaign of Democratic nominee Mary Peltola, state election officials and outside advocacy groups had asked Judge Sharon Gleason to dismiss the DOJ's lawsuit in U.S. District Court in Anchorage.
-The Department of Justice quickly filed a notice of its intention to appeal the decision to the 9th Circuit U.S. Court of Appeals.
-Peltola is locked in a tight contest with Sen. Dan Sullivan, whose winner will be determined by a ranked-choice system.
-The outcome of the race is one of several contests that determine which party has a Senate majority, where Republicans currently hold a narrow lead.
-Neither the other Sullivan nor the fourth candidate on the ballot, Gerald Heikes, is considered a contender.
-But voters who rank them as a first choice could swing the outcome by ranking Peltola or Sen. Sullivan second.
-Peltola's campaign has been accused of encouraging retired schoolteacher Dan Sullivan to run for the Senate against the incumbent Sen. Dan S. Sullivan and Peltola.
-Her campaign has denied those claims.
-"No sham investigation or baseless lawsuit from a weaponized Department of Justice is going to stop Alaskans from electing Mary on November 3rd so she can lower costs for Alaska's working families," Peltola's campaign said in a statement after Sunday's ruling.
-"Alaskans will choose their next U.S. Senator – not Dan Sullivan or his DC allies," the campaign said.
-In her 20-page decision, Gleason did not resolve whether another Sullivan had been recruited to confuse voters.
-Instead, she said the federal government had failed to establish that it had legal standing to file a civil complaint to postpone certification of the election if Sen. Sullivan lost.
-In that event, the DOJ wanted an investigation into voter intent and possible confusion from having two Dan Sullivans on the ballot.
-"The absence of any explanation from the United States as to how its requested relief could redress its alleged injury while simultaneously maintaining the secrecy of the ballot is telling," Gleason said in her ruling.
-She noted that early voting in the state was already underway, and that ballots already cast have been commingled in a way that would prevent officials from linking individual ballots to voters.
-"More fundamentally, the United States provides no workable plan as to how it proposes to segregate ballots cast for Daniel J. Sullivan on Election Day and then conduct a court-ordered unspecified 'investigation' of those ballots in a manner that would preserve voter secrecy," Gleason wrote.
-The judge also cited a Supreme Court decision that established the so-called Purcell principle, which "strongly cautions" against courts altering election rules on the eve of election.
-She noted that DOJ claimed it was not seeking to alter the "time, place or manner of Alaska's election."
-But at the same time, Gleason said, the DOJ was asking her for an order "preventing the State
-from certifying the election if certain circumstances occur; a court order requiring the State to segregate and preserve certain ballots; and a court order permitting the United States to conduct an investigation into the intent of those voters who cast ballots for Daniel J. Sullivan."
-"These requests certainly involve the time, place, and manner of Alaska's election, which are the responsibilities of the State, not the executive branch of the federal government," Gleason said.
-The judge said she would not allow the DOJ to amend the lawsuit, which was revised last week to add a new legal claim under the Supremacy Clause of the U.S. Constitution to the first claim under the National Voter Registration Act. The amended complaint also added details of a New York Times article about the alleged recruitment of the second Sullivan.
-"The Court finds that further amendment would be futile because this Court lacks the authority to order that certain ballots cast by Alaskans be segregated so that federal law enforcement officials can conduct an unspecified investigation of the voters who cast them," Gleason said.
-A DOJ spokesperson said in a statement, "The court dismissed the case on procedural grounds but did not dispute the argument of the United States that Daniel J. Sullivan (a/k/a Decoy Dan) entered the race as a frivolous candidate to confuse voters."
-"DOJ plans to file a notice of appeal," the spokesperson said. "Alaskan voters deserve a fair election, not to be misled in an attempt to rig outcomes."
-The White House, when asked for comment, referred CNBC to the DOJ's statement.
-President Donald Trump has said he ordered the lawsuit, which was filed Oct. 22.
-Trump argued that Peltola and other Democrats had recruited the former school teacher to run in hopes of confusing voters who wanted to cast their ballots for Sen. Sullivan.
-The New York Times on Wednesday reported that Peltola campaign aides and DSCC aides had been involved in efforts to recruit the retiree for the race.
-Peltola's campaign and the Democratic Senatorial Campaign Committee have denied having any involvement in his campaign.
-DSCC Executive Director Devan Barber said in a statement, "Today's ruling is a victory for democracy and a clear message to Donald Trump and Senate Republicans: No one, no matter how powerful, can toss out free and fair elections just because they don't like the result."
-"We will never stop fighting back against the shameful, brazen efforts from the Trump administration and their weaponized Department of Justice to subvert the U.S. Senate race in Alaska, or any other election as voters reject Republicans at ballot boxes across the country – and we are confident Alaska voters will elect Mary Peltola to the Senate," Barber said.
-Sen. Sullivan, in an interview on CNN before Gleason issued her ruling, said he would accept the election results if he lost.
-But he also blasted Peltola's campaign and the DSCC.
-"Recognizing they couldn't run on their record, so they had to cheat," Sullivan said. "I think a lot of Alaskans, even Democrats, are thinking she is not fit for office; she's continually lying to the Alaskan people, and I guarantee you she's lying right now."
-Alaska election officials have pointed to steps they took to avoid voter confusion on the ballots for the race.
-The ballots list Sen. Sullivan as "Dan S. Sullivan," with the words "incumbent" and "registered Republican" next to his name.
-The other Sullivan is listed as "Daniel J. Sullivan," with no other words next to his name.
-Election officials originally had blocked the retired teacher from the primary ballot. But a state judge allowed him on the ballot. Alaska's Supreme Court upheld that ruling.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
-    publishedAt: "2026-11-01T21:25:03+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
   },
 ];
 
