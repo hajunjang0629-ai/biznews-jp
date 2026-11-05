@@ -15,6 +15,422 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "democrats-won-on-affordability-can-they-85b1ee44",
+    title: "Democrats won on affordability. Can they deliver it?",
+    titleJa: "Democrats won on affordability. Can they deliver it?",
+    summaryJa: "Democrats will hold Congress but President Donald Trump still has the power to block their plans.",
+    bodyOriginal: `Democrats won on affordability. Can they deliver it?
+- Published
+Two business owners, half a country apart, want the same thing for different reasons.
+In Texas, Kim Hanks, who owns Tillies, a hotel, restaurant and spa business near Austin, says rising grocery and fuel costs are forcing her to raise wages for her 300 staff.
+"It's been such a moving target for us on affordability," she told the BBC World Service.
+In Indiana, Danny Reynolds, who runs Stephenson's of Elkhart, a clothing and bridalwear store, simply wants Washington to get its act together.
+"My hope is that we can just find some consistency, some working together," he said.
+Democrats say they heard both messages.
+"We ran on affordability, we won on affordability, and now it's our job to govern on affordability," said House Democratic leader Hakeem Jeffries on MS Now's Morning Joe.
+But here comes the difficult part. Democrats will hold Congress. Donald Trump still has the power to block their plans.
+A message that cut through
+The scale of the win was bigger than most forecasters expected, with at least seven Republican-held Senate seats changing hands.
+Behind the result was a striking mood: just 21% of Americans are satisfied with the direction of the country, even though the economy looks healthy on paper.
+Voters weren't looking at the statistics. They were looking at their grocery bills, electricity bills and the price at the petrol pump.
+In rural Texas, rising costs were even hurting Republicans in their own backyard. Sid Miller, the outgoing Republican agriculture commissioner, told me ranchers are getting $300 to $500 less for each head of cattle, while also facing record fertiliser costs.
+"They felt betrayed," he said.
+This was more than a blue wave. It was a vote about the cost of living. So what can Democrats actually do about it?
+The affordability plan
+Under the banner "Fighting for an Affordable America," Democrats say healthcare is their first priority.
+They want to bring back the extra financial help that made health insurance cheaper under the Affordable Care Act and reverse the cuts to Medicaid signed by President Trump in 2025.
+Next come tariffs and energy. Democrats want to scrap the president's import taxes, which they say add thousands of dollars a year to the cost of groceries, fertiliser and building materials.
+They also want to end the war in Iran, which they link to petrol prices averaging $4.18 a gallon, marking an increase of nearly 40%.
+Housing is next. Some Democrats want to build four million new homes over the next decade.
+On tax, they want to make billionaires pay more and increase tax credits for families with children.
+It's a long list. But how much of it can they actually deliver?
+What can they actually pass?
+Investor Ken Fisher, founder of Fisher Investments, puts it bluntly:
+"Congress can't get anything past a presidential veto. President Trump can't get anything he wants."
+The result, he says, is likely to be two years of relative quiet on the legislative and regulatory front.
+In other words, winning in Congress does not give Democrats a free hand. President Trump can still block legislation, and getting around a presidential veto requires a two-thirds majority in both the House and Senate.
+What Democrats can and can't do with their new power after taking Congress
+- Published12 hours ago
+For voters hoping for lower bills, that may be a disappointing result. They didn't vote for political deadlock.
+Take tariffs. Trump is unlikely to abandon a trade policy that is central to his agenda. Democrats will need Republican support if they want to change it.
+Bernard Yaros, deputy chief US economist at Oxford Economics, expects the average tariff rate on imports to stay around 10% for the rest of Trump's term.
+And there's another complication.
+Tariffs are bringing in more money for the government. Import taxes accounted for just over 1% of federal revenue in 2024. This year, they account for more than 5%.
+That growing contribution to government income, Yaros argues, will make tariffs "tough for a future administration to fully dismantle."
+Still, there are bargains to be struck.
+Where the deals might be
+President Trump told CNBC he could work with Democrats on "many more things than people understand".
+Healthcare might be one of them.
+Yaros sees the possibility of a big political trade-off: Democrats agree to extend Republican tax cuts in return for restoring health insurance subsidies. But he doesn't expect a deal until late 2027, with the economic benefits arriving in 2028. That's a long time to wait for anyone struggling with bills today.
+Democrats could also turn up the pressure on businesses.
+Henrietta Treyz of consultants Veda Partners says Democrats will question companies that passed on the cost of tariffs to customers.
+After the Supreme Court ruling in February, she says, the question will be: "Did you turn around, take that tariff rebate, and then lower prices for consumers?"
+Companies will also be asked: "What did you get in exchange?"
+Democrats, she adds, will "pick and choose very carefully."
+In the Senate, Ron Wyden, the Oregon Democrat set to chair the Finance Committee, has summed up his approach in five words: "affordability for us, accountability for them."
+He says he will use the committee to "reassert congressional authority" over trade policy. Insurers, drugmakers and banks should expect to be called to explain themselves.
+And some of the biggest changes may happen closer to home. State governors and regulators have a say in electricity prices, while local authorities decide where new homes can be built.
+Democrats have won governorships in Texas, Ohio and Georgia, where the rising cost of electricity for data centres is already a concern.
+The part they can't control
+The hardest test may be something Democrats cannot fix with a new law.
+The price of petrol, diesel and fertiliser will depend heavily on what happens in the war with Iran. And forecasters disagree about what comes next.
+Oxford Economics warns that with the election over, further escalation "appears more likely," because petrol prices will no longer be as much of a political concern for the president.
+And here's the awkward part. If prices come down, Democrats may struggle to claim the credit. If they go up, they may share the blame.
+There is an immediate test, too. Government funding runs out after 11 December, and the chances of another shutdown look uncomfortably high.
+Democrats won the argument. Now they have to show they can make life cheaper.`,
+    bodyJa: `Democrats won on affordability. Can they deliver it?
+- Published
+Two business owners, half a country apart, want the same thing for different reasons.
+In Texas, Kim Hanks, who owns Tillies, a hotel, restaurant and spa business near Austin, says rising grocery and fuel costs are forcing her to raise wages for her 300 staff.
+"It's been such a moving target for us on affordability," she told the BBC World Service.
+In Indiana, Danny Reynolds, who runs Stephenson's of Elkhart, a clothing and bridalwear store, simply wants Washington to get its act together.
+"My hope is that we can just find some consistency, some working together," he said.
+Democrats say they heard both messages.
+"We ran on affordability, we won on affordability, and now it's our job to govern on affordability," said House Democratic leader Hakeem Jeffries on MS Now's Morning Joe.
+But here comes the difficult part. Democrats will hold Congress. Donald Trump still has the power to block their plans.
+A message that cut through
+The scale of the win was bigger than most forecasters expected, with at least seven Republican-held Senate seats changing hands.
+Behind the result was a striking mood: just 21% of Americans are satisfied with the direction of the country, even though the economy looks healthy on paper.
+Voters weren't looking at the statistics. They were looking at their grocery bills, electricity bills and the price at the petrol pump.
+In rural Texas, rising costs were even hurting Republicans in their own backyard. Sid Miller, the outgoing Republican agriculture commissioner, told me ranchers are getting $300 to $500 less for each head of cattle, while also facing record fertiliser costs.
+"They felt betrayed," he said.
+This was more than a blue wave. It was a vote about the cost of living. So what can Democrats actually do about it?
+The affordability plan
+Under the banner "Fighting for an Affordable America," Democrats say healthcare is their first priority.
+They want to bring back the extra financial help that made health insurance cheaper under the Affordable Care Act and reverse the cuts to Medicaid signed by President Trump in 2025.
+Next come tariffs and energy. Democrats want to scrap the president's import taxes, which they say add thousands of dollars a year to the cost of groceries, fertiliser and building materials.
+They also want to end the war in Iran, which they link to petrol prices averaging $4.18 a gallon, marking an increase of nearly 40%.
+Housing is next. Some Democrats want to build four million new homes over the next decade.
+On tax, they want to make billionaires pay more and increase tax credits for families with children.
+It's a long list. But how much of it can they actually deliver?
+What can they actually pass?
+Investor Ken Fisher, founder of Fisher Investments, puts it bluntly:
+"Congress can't get anything past a presidential veto. President Trump can't get anything he wants."
+The result, he says, is likely to be two years of relative quiet on the legislative and regulatory front.
+In other words, winning in Congress does not give Democrats a free hand. President Trump can still block legislation, and getting around a presidential veto requires a two-thirds majority in both the House and Senate.
+What Democrats can and can't do with their new power after taking Congress
+- Published12 hours ago
+For voters hoping for lower bills, that may be a disappointing result. They didn't vote for political deadlock.
+Take tariffs. Trump is unlikely to abandon a trade policy that is central to his agenda. Democrats will need Republican support if they want to change it.
+Bernard Yaros, deputy chief US economist at Oxford Economics, expects the average tariff rate on imports to stay around 10% for the rest of Trump's term.
+And there's another complication.
+Tariffs are bringing in more money for the government. Import taxes accounted for just over 1% of federal revenue in 2024. This year, they account for more than 5%.
+That growing contribution to government income, Yaros argues, will make tariffs "tough for a future administration to fully dismantle."
+Still, there are bargains to be struck.
+Where the deals might be
+President Trump told CNBC he could work with Democrats on "many more things than people understand".
+Healthcare might be one of them.
+Yaros sees the possibility of a big political trade-off: Democrats agree to extend Republican tax cuts in return for restoring health insurance subsidies. But he doesn't expect a deal until late 2027, with the economic benefits arriving in 2028. That's a long time to wait for anyone struggling with bills today.
+Democrats could also turn up the pressure on businesses.
+Henrietta Treyz of consultants Veda Partners says Democrats will question companies that passed on the cost of tariffs to customers.
+After the Supreme Court ruling in February, she says, the question will be: "Did you turn around, take that tariff rebate, and then lower prices for consumers?"
+Companies will also be asked: "What did you get in exchange?"
+Democrats, she adds, will "pick and choose very carefully."
+In the Senate, Ron Wyden, the Oregon Democrat set to chair the Finance Committee, has summed up his approach in five words: "affordability for us, accountability for them."
+He says he will use the committee to "reassert congressional authority" over trade policy. Insurers, drugmakers and banks should expect to be called to explain themselves.
+And some of the biggest changes may happen closer to home. State governors and regulators have a say in electricity prices, while local authorities decide where new homes can be built.
+Democrats have won governorships in Texas, Ohio and Georgia, where the rising cost of electricity for data centres is already a concern.
+The part they can't control
+The hardest test may be something Democrats cannot fix with a new law.
+The price of petrol, diesel and fertiliser will depend heavily on what happens in the war with Iran. And forecasters disagree about what comes next.
+Oxford Economics warns that with the election over, further escalation "appears more likely," because petrol prices will no longer be as much of a political concern for the president.
+And here's the awkward part. If prices come down, Democrats may struggle to claim the credit. If they go up, they may share the blame.
+There is an immediate test, too. Government funding runs out after 11 December, and the chances of another shutdown look uncomfortably high.
+Democrats won the argument. Now they have to show they can make life cheaper.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-05T06:01:05+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8753/live/9c318140-d8e0-11f1-a29a-a9d0e73b6c24.jpg",
+    readTime: 10,
+  },
+  {
+    id: "russia-china-may-be-more-aggressive-if-t-cab74c8c",
+    title: "Russia, China may be more aggressive if they feel Trump is on 'his way out': Brookings",
+    titleJa: "Russia, China may be more aggressive if they feel Trump is on 'his way out': Brookings",
+    summaryJa: "Russia and China may be more aggressive if they feel that U.S. President Donald Trump is on \"his way out\" after the Democratic Party flipped the midterms.",
+    bodyOriginal: `Russia and China could become more aggressive over the next two years if they conclude that President Donald Trump is politically weakened and on "his way out" after Democrats won control of both chambers of Congress, Brookings Institution senior fellow Robert Kagan told CNBC.
+Speaking on "Squawk Box Asia," Kagan said the war with Iran had also exposed how Washington has "proved itself rather incapable militarily" in terms of capacity, which would be critical in Asia.
+"Everybody can see how much our stocks are depleted in terms of interceptors and missiles, which are of vital interest in the Asian theater," he said.
+Congressional Budget Office reports have estimated that the conflict depleted as much as two-thirds of U.S. missile-defense interceptors since June 2025, largely because of efforts to defend Israel against Iranian attacks. This could leave the U.S. with constrained inventories for several years.
+Kagan said the deployment of three U.S. aircraft carriers to the Middle East had reduced the U.S. naval presence available in Asia, potentially giving China more room to act assertively in the region.
+"I think Trump's only interest right now is in cutting economic deals with China. I don't think he has any real interest in confronting China, but that is going to lead China to be even more aggressive," he said.
+In December, Trump approved an $11 billion arms package for Taiwan, but later held back on a second package worth about $14 billion, calling it a "bargaining chip" in talks with China.
+China claims self-governing Taiwan as its territory. While Washington does not have a mutual defense treaty with the island, U.S. law requires it to provide Taiwan with the means to defend itself.
+Former CIA Director William Burns said in 2023 that Chinese President Xi Jinping had instructed the military to be ready to invade Taiwan by 2027, while stressing that this did not mean Xi had decided to launch an invasion that year or at all.
+Kagan's comments come as U.S., China and Russia discuss a possible trilateral summit between Trump, Xi and President Vladimir Putin at the APEC Leaders' meeting in Shenzhen later this month.
+Chinese Foreign Ministry spokesperson Mao Ning said Wednesday that Beijing was "in communication with relevant parties regarding a meeting between the three heads of state," although no agenda has been announced.
+Putin had reportedly floated the idea of a three-way summit with Trump and Xi in October to discuss ending the war in Ukraine, without Ukrainian President Volodymyr Zelenskyy at the table.
+"If it's clear that Donald Trump is on his way out, and the United States may be returning to something like normal, I don't want to overstate that, but they may feel both of them, both Russia and China, may feel that the time to move is in the next two years," Kagan said.`,
+    bodyJa: `Russia and China could become more aggressive over the next two years if they conclude that President Donald Trump is politically weakened and on "his way out" after Democrats won control of both chambers of Congress, Brookings Institution senior fellow Robert Kagan told CNBC.
+Speaking on "Squawk Box Asia," Kagan said the war with Iran had also exposed how Washington has "proved itself rather incapable militarily" in terms of capacity, which would be critical in Asia.
+"Everybody can see how much our stocks are depleted in terms of interceptors and missiles, which are of vital interest in the Asian theater," he said.
+Congressional Budget Office reports have estimated that the conflict depleted as much as two-thirds of U.S. missile-defense interceptors since June 2025, largely because of efforts to defend Israel against Iranian attacks. This could leave the U.S. with constrained inventories for several years.
+Kagan said the deployment of three U.S. aircraft carriers to the Middle East had reduced the U.S. naval presence available in Asia, potentially giving China more room to act assertively in the region.
+"I think Trump's only interest right now is in cutting economic deals with China. I don't think he has any real interest in confronting China, but that is going to lead China to be even more aggressive," he said.
+In December, Trump approved an $11 billion arms package for Taiwan, but later held back on a second package worth about $14 billion, calling it a "bargaining chip" in talks with China.
+China claims self-governing Taiwan as its territory. While Washington does not have a mutual defense treaty with the island, U.S. law requires it to provide Taiwan with the means to defend itself.
+Former CIA Director William Burns said in 2023 that Chinese President Xi Jinping had instructed the military to be ready to invade Taiwan by 2027, while stressing that this did not mean Xi had decided to launch an invasion that year or at all.
+Kagan's comments come as U.S., China and Russia discuss a possible trilateral summit between Trump, Xi and President Vladimir Putin at the APEC Leaders' meeting in Shenzhen later this month.
+Chinese Foreign Ministry spokesperson Mao Ning said Wednesday that Beijing was "in communication with relevant parties regarding a meeting between the three heads of state," although no agenda has been announced.
+Putin had reportedly floated the idea of a three-way summit with Trump and Xi in October to discuss ending the war in Ukraine, without Ukrainian President Volodymyr Zelenskyy at the table.
+"If it's clear that Donald Trump is on his way out, and the United States may be returning to something like normal, I don't want to overstate that, but they may feel both of them, both Russia and China, may feel that the time to move is in the next two years," Kagan said.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/05/trump-russia-china-summit-apec-midterms.html",
+    publishedAt: "2026-11-05T05:58:33+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "inside-the-chip-talent-war-trade-secrets-fb4339a5",
+    title: "Inside the chip talent war: Trade secrets and rising Chinese rivals",
+    titleJa: "Inside the chip talent war: Trade secrets and rising Chinese rivals",
+    summaryJa: "Growing competition for semiconductor talent is fueling a battle over trade secrets as Chinese chipmakers gain ground.",
+    bodyOriginal: `A former Samsung Electronics employee who later joined Chinese memory chipmaker ChangXin Memory Technologies, or CXMT, was reportedly sentenced by the Seoul High Court on Oct. 22 to five years in prison for leaking Samsung's technology.
+The sentence was reduced from seven years at his first trial in April. The former employee had joined CXMT in 2016.
+The case highlights an intensifying battle over semiconductor know-how as Chinese chipmakers narrow the gap with established rivals, putting the race for top engineering talent increasingly at odds with efforts to protect trade secrets.
+In 2023, a South Korean court granted Samsung's request to block a former DRAM researcher from joining U.S. rival Micron. It ruled that the two-year non-compete was not excessive and was necessary to protect Samsung's technology and business information, JoongAng Ilbo reported.
+Closing the gap
+A decade ago, Chinese memory chipmakers were not Samsung's biggest concern when it came to losing experienced engineers.
+Instead, the South Korean company was more focused on employees leaving for established rivals such as SK Hynix and Micron, according to a former employee who asked not to be identified because the information was private.
+Samsung has been monitoring where certain departing employees went — to signal to remaining staff that moving to competitors would be difficult — according to a former employee.
+The company also used non-compete agreements restricting employees from joining rivals for two years, as part of their employment contracts, with senior employees holding valuable technical expertise likely facing closer scrutiny.
+But Samsung's concern extended beyond individual departures.
+"It wasn't just about one employee leaving. The company wanted to send a message to those who stayed that moving to a competitor wouldn't be easy," the former employee said.
+Meanwhile, Chinese semiconductor companies have sought to close the technology gap by recruiting experienced overseas engineers with high salaries, stock options, housing and family support, according to Jeongku Choi, a senior analyst at Counterpoint Research.
+Their expertise has helped Chinese chipmakers overcome technical bottlenecks, particularly as U.S. export restrictions have limited China's access to advanced chipmaking equipment, Choi said.
+Once viewed as unlikely to catch up with established players, Chinese manufacturers are now seen as "meaningful competitors," she added.
+Counterpoint's Memory Tracker for the second quarter of 2026 projected CXMT's share of global DRAM revenue would reach 10%.
+Established chipmakers are strengthening legal protections and internal security measures while adjusting compensation packages to retain key engineers, according to Choi.
+South Korea has also designated certain semiconductor manufacturing technologies as "National Core Technologies," raising the penalties for unauthorized leaks of those technologies, Choi said.
+The legal battle could intensify as Chinese memory companies expand beyond their home market.
+"I believe that this management of trade secrets will expand its scope even further to IP and legal areas once Chinese memory companies move beyond the Chinese market and begin to expand their exports," Choi said.
+Protecting trade secrets
+The growing competition is putting greater focus on how semiconductor companies protect the knowledge accumulated by engineers working on complex manufacturing processes.
+In Taiwan, home to the world's largest contract chipmaker TSMC, protections for trade secrets have evolved alongside the semiconductor industry’s growing strategic importance.
+Jamie J. Yang, a partner specializing in antitrust and intellectual property at Innovatus Law, said Taiwan limits post-employment non-compete agreements to two years and requires employers to compensate former employees at least half their average monthly salary during the restricted period.
+Yang added that the complexity of semiconductor manufacturing makes it difficult for any single engineer to possess enough knowledge to replicate an entire production line elsewhere.
+"There is just very little chance that one person ... will know enough to replicate that line in any of the other companies," Yang said.
+Moves by engineers between rival semiconductor companies could increase modestly as competition for top talent intensifies, while trade secret litigation is also likely to rise as firms seek to protect their technological edge, she added.
+But the challenges extend beyond Taiwan.
+In Singapore, Zechariah Chan, a partner at law firm Lee & Lee, said protecting trade secrets can be particularly difficult in the semiconductor industry, where proprietary knowledge often involves intangible manufacturing techniques and methods.
+You cannot 'take' the information back after the engineer has become aware of it.Zechariah ChanPartner, Lee & Lee Law Firm
+Proving that a competitor has used proprietary manufacturing techniques can also be difficult, as outsiders generally see only the final product, according to Chan.
+"There is no bright line between an engineer's expertise and proprietary information," he said. General skills and knowledge stay with the engineer, while trade secrets remain with the company.
+In Singapore, non-compete clauses are enforceable only if they protect legitimate business interests and are reasonable in scope, geographical area and duration.
+In Hong Kong, courts generally take a restrictive approach to non-compete clauses, enforcing them only when they protect legitimate business interests and go no further than necessary, according to Jezamine Fewins, head of litigation at Lewis Silkin in Hong Kong.
+Courts are more willing to protect trade secrets through court injunctions, Fewins said.
+"The difficulty is that often the trade secret is carried in the employee's head," she added. Information is more likely to qualify as a trade secret if its disclosure to a competitor could cause significant harm to the former employer and the company has taken steps to restrict access.
+For chipmakers, Fewins said the key is to clearly define what constitutes a trade secret, make employees aware of that information and put safeguards in place to limit access.
+Samsung and CXMT did not respond to CNBC's request for comment.`,
+    bodyJa: `A former Samsung Electronics employee who later joined Chinese memory chipmaker ChangXin Memory Technologies, or CXMT, was reportedly sentenced by the Seoul High Court on Oct. 22 to five years in prison for leaking Samsung's technology.
+The sentence was reduced from seven years at his first trial in April. The former employee had joined CXMT in 2016.
+The case highlights an intensifying battle over semiconductor know-how as Chinese chipmakers narrow the gap with established rivals, putting the race for top engineering talent increasingly at odds with efforts to protect trade secrets.
+In 2023, a South Korean court granted Samsung's request to block a former DRAM researcher from joining U.S. rival Micron. It ruled that the two-year non-compete was not excessive and was necessary to protect Samsung's technology and business information, JoongAng Ilbo reported.
+Closing the gap
+A decade ago, Chinese memory chipmakers were not Samsung's biggest concern when it came to losing experienced engineers.
+Instead, the South Korean company was more focused on employees leaving for established rivals such as SK Hynix and Micron, according to a former employee who asked not to be identified because the information was private.
+Samsung has been monitoring where certain departing employees went — to signal to remaining staff that moving to competitors would be difficult — according to a former employee.
+The company also used non-compete agreements restricting employees from joining rivals for two years, as part of their employment contracts, with senior employees holding valuable technical expertise likely facing closer scrutiny.
+But Samsung's concern extended beyond individual departures.
+"It wasn't just about one employee leaving. The company wanted to send a message to those who stayed that moving to a competitor wouldn't be easy," the former employee said.
+Meanwhile, Chinese semiconductor companies have sought to close the technology gap by recruiting experienced overseas engineers with high salaries, stock options, housing and family support, according to Jeongku Choi, a senior analyst at Counterpoint Research.
+Their expertise has helped Chinese chipmakers overcome technical bottlenecks, particularly as U.S. export restrictions have limited China's access to advanced chipmaking equipment, Choi said.
+Once viewed as unlikely to catch up with established players, Chinese manufacturers are now seen as "meaningful competitors," she added.
+Counterpoint's Memory Tracker for the second quarter of 2026 projected CXMT's share of global DRAM revenue would reach 10%.
+Established chipmakers are strengthening legal protections and internal security measures while adjusting compensation packages to retain key engineers, according to Choi.
+South Korea has also designated certain semiconductor manufacturing technologies as "National Core Technologies," raising the penalties for unauthorized leaks of those technologies, Choi said.
+The legal battle could intensify as Chinese memory companies expand beyond their home market.
+"I believe that this management of trade secrets will expand its scope even further to IP and legal areas once Chinese memory companies move beyond the Chinese market and begin to expand their exports," Choi said.
+Protecting trade secrets
+The growing competition is putting greater focus on how semiconductor companies protect the knowledge accumulated by engineers working on complex manufacturing processes.
+In Taiwan, home to the world's largest contract chipmaker TSMC, protections for trade secrets have evolved alongside the semiconductor industry’s growing strategic importance.
+Jamie J. Yang, a partner specializing in antitrust and intellectual property at Innovatus Law, said Taiwan limits post-employment non-compete agreements to two years and requires employers to compensate former employees at least half their average monthly salary during the restricted period.
+Yang added that the complexity of semiconductor manufacturing makes it difficult for any single engineer to possess enough knowledge to replicate an entire production line elsewhere.
+"There is just very little chance that one person ... will know enough to replicate that line in any of the other companies," Yang said.
+Moves by engineers between rival semiconductor companies could increase modestly as competition for top talent intensifies, while trade secret litigation is also likely to rise as firms seek to protect their technological edge, she added.
+But the challenges extend beyond Taiwan.
+In Singapore, Zechariah Chan, a partner at law firm Lee & Lee, said protecting trade secrets can be particularly difficult in the semiconductor industry, where proprietary knowledge often involves intangible manufacturing techniques and methods.
+You cannot 'take' the information back after the engineer has become aware of it.Zechariah ChanPartner, Lee & Lee Law Firm
+Proving that a competitor has used proprietary manufacturing techniques can also be difficult, as outsiders generally see only the final product, according to Chan.
+"There is no bright line between an engineer's expertise and proprietary information," he said. General skills and knowledge stay with the engineer, while trade secrets remain with the company.
+In Singapore, non-compete clauses are enforceable only if they protect legitimate business interests and are reasonable in scope, geographical area and duration.
+In Hong Kong, courts generally take a restrictive approach to non-compete clauses, enforcing them only when they protect legitimate business interests and go no further than necessary, according to Jezamine Fewins, head of litigation at Lewis Silkin in Hong Kong.
+Courts are more willing to protect trade secrets through court injunctions, Fewins said.
+"The difficulty is that often the trade secret is carried in the employee's head," she added. Information is more likely to qualify as a trade secret if its disclosure to a competitor could cause significant harm to the former employer and the company has taken steps to restrict access.
+For chipmakers, Fewins said the key is to clearly define what constitutes a trade secret, make employees aware of that information and put safeguards in place to limit access.
+Samsung and CXMT did not respond to CNBC's request for comment.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html",
+    publishedAt: "2026-11-05T03:53:18+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "liv-golf-faces-liquidation-after-bc-part-97bfbdc5",
+    title: "LIV Golf faces liquidation after BC Partners scraps rescue plan",
+    titleJa: "LIV Golf faces liquidation after BC Partners scraps rescue plan",
+    summaryJa: "LIV Golf faces liquidation after BC Partners dropped a proposed $300 million rescue plan amid insufficient player commitments.",
+    bodyOriginal: `LIV Golf could be headed for liquidation after BC Partners Credit reportedly dropped plans to finance a relaunch of the breakaway league.
+The investment firm had pledged up to $300 million for a revamped version of LIV, known as LIV 2.0, but withdrew the plan after LIV Golf failed to secure enough player commitments, according to the Associated Press.
+LIV is scheduled to appear in U.S. bankruptcy court Thursday, with the hearing now expected to focus on liquidation of its assets. The league's ultimate fate remains unclear.
+LIV Golf and BC Partners did not immediately respond to CNBC's requests for comment.
+LIV filed for Chapter 11 bankruptcy protection in September after Saudi Arabia's Public Investment Fund said it would stop funding the league after the 2026 season.
+PIF had invested more than $5 billion since LIV launched in 2022, according to its Chapter 11 filing.
+BC Partners' proposed relaunch would have made players majority owners of the reorganized league and featured a scaled-back schedule.
+But LIV has lost several prominent players, including Jon Rahm and Sergio Garcia, as it sought commitments for the new venture.
+Rahm said Tuesday that uncertainty over the league's future and proposed changes to its format influenced his decision to leave.
+"There were too many unknowns at the time, and there's still quite a few," he told reporters ahead of the Abu Dhabi Championship. Rahm added that the revamped competition appeared to be moving away from the team format that initially attracted him.
+Garcia, who secured a release from his LIV contract in October, has outlined plans to return to the DP World Tour and explore a possible return to the PGA Tour.
+Only four players had publicly committed to LIV 2.0: Richard Bland, Cameron Tringale, Brendan Steele and Ben Campbell, according to Golf Digest.
+LIV launched in 2022 as a challenger to the PGA Tour, recruiting prominent players including Phil Mickelson, Dustin Johnson and Bryson DeChambeau with lucrative contracts.
+Its arrival split men's professional golf, with the PGA Tour suspending members who competed in LIV events. The disputes later spilled into the courts, with players challenging suspensions and the rival organizations pursuing competing legal claims.
+The PGA Tour denied the allegations, while LIV dismissed the counterclaims.
+A June 2023 framework agreement between the PGA Tour, DP World Tour and PIF ended their litigation and proposed combining their commercial businesses, although the deal was never completed.`,
+    bodyJa: `LIV Golf could be headed for liquidation after BC Partners Credit reportedly dropped plans to finance a relaunch of the breakaway league.
+The investment firm had pledged up to $300 million for a revamped version of LIV, known as LIV 2.0, but withdrew the plan after LIV Golf failed to secure enough player commitments, according to the Associated Press.
+LIV is scheduled to appear in U.S. bankruptcy court Thursday, with the hearing now expected to focus on liquidation of its assets. The league's ultimate fate remains unclear.
+LIV Golf and BC Partners did not immediately respond to CNBC's requests for comment.
+LIV filed for Chapter 11 bankruptcy protection in September after Saudi Arabia's Public Investment Fund said it would stop funding the league after the 2026 season.
+PIF had invested more than $5 billion since LIV launched in 2022, according to its Chapter 11 filing.
+BC Partners' proposed relaunch would have made players majority owners of the reorganized league and featured a scaled-back schedule.
+But LIV has lost several prominent players, including Jon Rahm and Sergio Garcia, as it sought commitments for the new venture.
+Rahm said Tuesday that uncertainty over the league's future and proposed changes to its format influenced his decision to leave.
+"There were too many unknowns at the time, and there's still quite a few," he told reporters ahead of the Abu Dhabi Championship. Rahm added that the revamped competition appeared to be moving away from the team format that initially attracted him.
+Garcia, who secured a release from his LIV contract in October, has outlined plans to return to the DP World Tour and explore a possible return to the PGA Tour.
+Only four players had publicly committed to LIV 2.0: Richard Bland, Cameron Tringale, Brendan Steele and Ben Campbell, according to Golf Digest.
+LIV launched in 2022 as a challenger to the PGA Tour, recruiting prominent players including Phil Mickelson, Dustin Johnson and Bryson DeChambeau with lucrative contracts.
+Its arrival split men's professional golf, with the PGA Tour suspending members who competed in LIV events. The disputes later spilled into the courts, with players challenging suspensions and the rival organizations pursuing competing legal claims.
+The PGA Tour denied the allegations, while LIV dismissed the counterclaims.
+A June 2023 framework agreement between the PGA Tour, DP World Tour and PIF ended their litigation and proposed combining their commercial businesses, although the deal was never completed.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html",
+    publishedAt: "2026-11-05T03:11:58+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "qualcomm-s-stock-falls-as-twin-forces-pr-6fc3e931",
+    title: "Qualcomm’s stock falls as twin forces pressure sales",
+    titleJa: "Qualcomm’s stock falls as twin forces pressure sales",
+    summaryJa: "Qualcomm faces the loss of Apple’s business and the negative impact of high memory costs on overall smartphone demand.",
+    bodyOriginal: `Qualcomm faces the loss of Apple’s business and the negative impact of high memory costs on overall smartphone demand.`,
+    bodyJa: `Qualcomm faces the loss of Apple’s business and the negative impact of high memory costs on overall smartphone demand.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories",
+    publishedAt: "2026-11-05T01:06:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-775631",
+    readTime: 2,
+  },
+  {
+    id: "figma-s-stock-dips-as-investors-worry-th-1c4a1efc",
+    title: "Figma’s stock dips as investors worry that AI momentum is coming at a high price",
+    titleJa: "Figma’s stock dips as investors worry that AI momentum is coming at a high price",
+    summaryJa: "Figma’s investments in AI models and agents are driving usage, but the cost of delivering these features is proving to be expensive",
+    bodyOriginal: `Figma’s investments in AI models and agents are driving usage, but the cost of delivering these features is proving to be expensive`,
+    bodyJa: `Figma’s investments in AI models and agents are driving usage, but the cost of delivering these features is proving to be expensive`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories",
+    publishedAt: "2026-11-05T01:03:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-97979674",
+    readTime: 2,
+  },
+  {
+    id: "mcdonald-s-tests-new-value-menu-as-fast-f33d6270",
+    title: "McDonald’s tests new value menu as fast-food discount wars heat up",
+    titleJa: "McDonald’s tests new value menu as fast-food discount wars heat up",
+    summaryJa: "The burger chain is overhauling its menu and seeking to deliver a “clear and compelling value proposition.”",
+    bodyOriginal: `The burger chain is overhauling its menu and seeking to deliver a “clear and compelling value proposition.”`,
+    bodyJa: `The burger chain is overhauling its menu and seeking to deliver a “clear and compelling value proposition.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/mcdonalds-tests-new-value-menu-as-fast-food-discount-wars-heat-up-bfc57caf?mod=mw_rss_topstories",
+    publishedAt: "2026-11-05T01:01:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-43181481",
+    readTime: 2,
+  },
+  {
+    id: "interest-rates-expected-to-rise-for-firs-e633662f",
+    title: "Interest rates expected to rise for first time in over three years",
+    titleJa: "Interest rates expected to rise for first time in over three years",
+    summaryJa: "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
+    bodyOriginal: `Interest rates expected to rise for first time in over three years
+- Published
+Policymakers at the Bank of England are expected to raise interest rates on Thursday in what would be the first increase to the benchmark rate for more than three years.
+Most analysts are predicting an rise from 3.75% to 4% in a move that would increase the cost of borrowing for individuals and businesses, but boost savers.
+The Bank rate has fallen from its 2023-24 peak of 5.25%, although the Bank's Monetary Policy Committee (MPC) has left the rate unchanged at its last six meetings.
+Rising inflation, driven primarily by the cost of petrol and diesel, will push policymakers into an interest rate hike, analysts suggest.
+The announcement will be made by the Bank at 12:00 GMT on Thursday.
+Close attention will also be paid to any hints from the MPC on the future direction of interest rates.
+"The decision is increasingly less about whether rates reach 4% and more about what follows after that," said Chris Cheverall, head of UK at trading platform CMC Markets.
+"A quarter-point rise is already widely expected, but the Bank now has to balance inflation that is still too high against an economy where the growth outlook has weakened sharply."
+The Consumer Prices Index (CPI) measure of inflation is well below its peak of a few years ago but has been heading back up and is expected to go higher.
+It was 3.5% in the year to September 2026, up from 3.1% the previous month and well above the central bank's 2% target.
+The ongoing impact of the Iran war, primarily on the cost of energy and fuel, has filtered through to the UK inflation rate. Millions of domestic energy customers are braced for a hefty rise in prices in January.
+How borrowers and savers are affected
+The Bank of England last raised rates in August 2023.
+Its base rate is what it charges other banks and building societies to borrow money, which influences what they charge their own customers for mortgages as well as the interest rate they pay on savings.
+Were the Bank rate to rise, there would be an immediate impact on the 510,000 tracker mortgage-holders.
+A 0.25 percentage point rise would mean a £31 increase in monthly repayments for someone with a typical tracker home loan, according to calculations by banking trade body UK Finance.
+The 470,000 mortgage-holders on variable deals would need to wait for their lender's reaction to any Bank rate rise. Typically, a 0.25 percentage point rise would mean a £14 increase per month in repayments.
+The picture for those on fixed deals is more nuanced.
+While their monthly payments are not immediately affected by a rate change, their future deals are, and lenders have already "priced in" the expected rate rise when quoting new deals.
+As of 4 November, the average two-year fixed residential mortgage rate was 5.96%, while the average five-year rate stood at 5.99%, according to financial information service Moneyfacts.
+It means anyone rolling off a five-year deal faces a much bigger mortgage bill.
+Broker L&C said that average mortgage rates offered by the 10 biggest lenders suggested some borrowers now faced paying almost £5,000 more each year in repayments on a £200,000 mortgage over 25 years than those who secured a remortgage deal in 2021.
+Five years ago, the average five-year fixed remortgage rate among the 10 biggest lenders was 1.30%.
+Relatively high fixed rates have prompted some people to consider choosing trackers, in the hope that the rate would be lower, even if the Bank rate rises in the coming months.
+"The right choice ultimately depends on borrowers being confident they can stomach future rises. The devil is in the detail," said Rachel Springall from Moneyfacts.
+The cost of some other new loans could be influenced by the Bank rate.
+Savers, on the flipside, could see the interest rates offered to them improve in light of any rise in the Bank rate.
+Ultimately, lenders - as well as policymakers at the Bank of England - are having to judge what may happen to the UK's economic outlook which is highly connected to changes in international events.
+- Published19 hours ago
+- Published6 days ago`,
+    bodyJa: `Interest rates expected to rise for first time in over three years
+- Published
+Policymakers at the Bank of England are expected to raise interest rates on Thursday in what would be the first increase to the benchmark rate for more than three years.
+Most analysts are predicting an rise from 3.75% to 4% in a move that would increase the cost of borrowing for individuals and businesses, but boost savers.
+The Bank rate has fallen from its 2023-24 peak of 5.25%, although the Bank's Monetary Policy Committee (MPC) has left the rate unchanged at its last six meetings.
+Rising inflation, driven primarily by the cost of petrol and diesel, will push policymakers into an interest rate hike, analysts suggest.
+The announcement will be made by the Bank at 12:00 GMT on Thursday.
+Close attention will also be paid to any hints from the MPC on the future direction of interest rates.
+"The decision is increasingly less about whether rates reach 4% and more about what follows after that," said Chris Cheverall, head of UK at trading platform CMC Markets.
+"A quarter-point rise is already widely expected, but the Bank now has to balance inflation that is still too high against an economy where the growth outlook has weakened sharply."
+The Consumer Prices Index (CPI) measure of inflation is well below its peak of a few years ago but has been heading back up and is expected to go higher.
+It was 3.5% in the year to September 2026, up from 3.1% the previous month and well above the central bank's 2% target.
+The ongoing impact of the Iran war, primarily on the cost of energy and fuel, has filtered through to the UK inflation rate. Millions of domestic energy customers are braced for a hefty rise in prices in January.
+How borrowers and savers are affected
+The Bank of England last raised rates in August 2023.
+Its base rate is what it charges other banks and building societies to borrow money, which influences what they charge their own customers for mortgages as well as the interest rate they pay on savings.
+Were the Bank rate to rise, there would be an immediate impact on the 510,000 tracker mortgage-holders.
+A 0.25 percentage point rise would mean a £31 increase in monthly repayments for someone with a typical tracker home loan, according to calculations by banking trade body UK Finance.
+The 470,000 mortgage-holders on variable deals would need to wait for their lender's reaction to any Bank rate rise. Typically, a 0.25 percentage point rise would mean a £14 increase per month in repayments.
+The picture for those on fixed deals is more nuanced.
+While their monthly payments are not immediately affected by a rate change, their future deals are, and lenders have already "priced in" the expected rate rise when quoting new deals.
+As of 4 November, the average two-year fixed residential mortgage rate was 5.96%, while the average five-year rate stood at 5.99%, according to financial information service Moneyfacts.
+It means anyone rolling off a five-year deal faces a much bigger mortgage bill.
+Broker L&C said that average mortgage rates offered by the 10 biggest lenders suggested some borrowers now faced paying almost £5,000 more each year in repayments on a £200,000 mortgage over 25 years than those who secured a remortgage deal in 2021.
+Five years ago, the average five-year fixed remortgage rate among the 10 biggest lenders was 1.30%.
+Relatively high fixed rates have prompted some people to consider choosing trackers, in the hope that the rate would be lower, even if the Bank rate rises in the coming months.
+"The right choice ultimately depends on borrowers being confident they can stomach future rises. The devil is in the detail," said Rachel Springall from Moneyfacts.
+The cost of some other new loans could be influenced by the Bank rate.
+Savers, on the flipside, could see the interest rates offered to them improve in light of any rise in the Bank rate.
+Ultimately, lenders - as well as policymakers at the Bank of England - are having to judge what may happen to the UK's economic outlook which is highly connected to changes in international events.
+- Published19 hours ago
+- Published6 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-05T00:00:09+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg",
+    readTime: 10,
+  },
+  {
     id: "what-wall-street-billionaires-are-saying-e1b9ccd0",
     title: "What Wall Street billionaires are saying about Democrats' midterm sweep",
     titleJa: "What Wall Street billionaires are saying about Democrats' midterm sweep",
@@ -1631,544 +2047,6 @@ He said: "The toad containment zone is a once in a lifetime opportunity to stop 
     category: "マクロ経済",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1be5/live/c655d960-d770-11f1-a956-ff083523ef77.jpg",
     readTime: 6,
-  },
-  {
-    id: "u-s-crude-oil-falls-below-95-per-barrel-47867581",
-    title: "U.S. crude oil falls below $95 per barrel as market hopes for diplomatic resolution to Iran war",
-    titleJa: "U.S. crude oil falls below $95 per barrel as market hopes for diplomatic resolution to Iran war",
-    summaryJa: "The rebound in oil prices come a day after the U.S. and Iranian presidents signalled they are open to a diplomatic solution to Iran war.",
-    bodyOriginal: `Crude oil prices fell Tuesday for a second consecutive session, as the market hopes the U.S. and Iran will reach a diplomatic settlement to the eight-month-long conflict that has disrupted global energy supplies.
-Brent crude was down 3% at $101.54 per barrel, while West Texas Intermediate was 2.3% lower to $94.23. The move lower came after rumors circulated the U.S. and Iran were making progress toward a deal.
-Oil prices sold off more than 7% on Monday after Washington and Tehran signaled they were both open to discussions to reach a settlement. The market had been pricing in the risk of escalation after the U.S. midterm elections, with oil gaining more than 10% in October.
-The situation in the Middle East remains volatile and there's still a risk that renewed fighting could break out. Washington attacked Iran's Qeshm Island on Monday, U.S. officials told The Wall Street Journal, adding that the U.S. has been carrying out "limited strikes" against the country in recent weeks.
-The military campaign against Iran has been kept deliberately low-profile to avoid signaling plans for a major escalation in fighting, the report said, quoting an unnamed official.
-But despite these strikes, the Trump administration has also been touting a possible diplomatic solution to the conflict, with Vice President JD Vance telling CNN, "The president and I both feel really good about the prospect of potentially coming to a negotiated settlement."
-On Sunday, U.S. Secretary of State Marco Rubio said President Donald Trump would like to resolve the Iranian war "diplomatically," and prefers not to use military force.
-High oil prices have contributed substantially to inflation and high gasoline prices in the U.S., which have become a cause of concern for Trump ahead of the midterm elections.
-Last week, two Federal Reserve presidents said interest rates will need to move higher to rein in inflation. Higher rates generally crimp growth and raise costs for consumers, but help to bring down inflation.
-— CNBC's Priyanka Salve contributed to this report.`,
-    bodyJa: `Crude oil prices fell Tuesday for a second consecutive session, as the market hopes the U.S. and Iran will reach a diplomatic settlement to the eight-month-long conflict that has disrupted global energy supplies.
-Brent crude was down 3% at $101.54 per barrel, while West Texas Intermediate was 2.3% lower to $94.23. The move lower came after rumors circulated the U.S. and Iran were making progress toward a deal.
-Oil prices sold off more than 7% on Monday after Washington and Tehran signaled they were both open to discussions to reach a settlement. The market had been pricing in the risk of escalation after the U.S. midterm elections, with oil gaining more than 10% in October.
-The situation in the Middle East remains volatile and there's still a risk that renewed fighting could break out. Washington attacked Iran's Qeshm Island on Monday, U.S. officials told The Wall Street Journal, adding that the U.S. has been carrying out "limited strikes" against the country in recent weeks.
-The military campaign against Iran has been kept deliberately low-profile to avoid signaling plans for a major escalation in fighting, the report said, quoting an unnamed official.
-But despite these strikes, the Trump administration has also been touting a possible diplomatic solution to the conflict, with Vice President JD Vance telling CNN, "The president and I both feel really good about the prospect of potentially coming to a negotiated settlement."
-On Sunday, U.S. Secretary of State Marco Rubio said President Donald Trump would like to resolve the Iranian war "diplomatically," and prefers not to use military force.
-High oil prices have contributed substantially to inflation and high gasoline prices in the U.S., which have become a cause of concern for Trump ahead of the midterm elections.
-Last week, two Federal Reserve presidents said interest rates will need to move higher to rein in inflation. Higher rates generally crimp growth and raise costs for consumers, but help to bring down inflation.
-— CNBC's Priyanka Salve contributed to this report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
-    publishedAt: "2026-11-03T13:58:32+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "apple-stock-sinks-as-global-memory-crisi-a0d4eda4",
-    title: "Apple stock sinks as global memory crisis hurts profits, giving Ternus his first big test",
-    titleJa: "Apple stock sinks as global memory crisis hurts profits, giving Ternus his first big test",
-    summaryJa: "In John Ternus' first earnings report as CEO, Apple issued a gross margin forecast that disappointed Wall Street.",
-    bodyOriginal: `John Ternus' first earnings report as Apple CEO was going fine until it was time to issue a forecast for the company's gross margin, one of the key metrics followed by investors.
-Apple reported better-than-expected earnings and revenue on Monday, including in the company's core iPhone unit, and even projected sales in the current period that topped estimates. But just before Ternus opened the earnings call up to analysts' questions, CFO Kevan Parekh came forward with the first real piece of bad news.
-Parekh said that for the December quarter, which goes through the holiday season, Apple's gross margin will be between 45% and 46%, trailing the 46.3% average analyst estimate, according to LSEG.
-"This includes primarily the impact of higher memory costs, as well as some costs related to the ramp of Siri AI," Parekh said.
-Apple shares slid 4% in premarket trading on Tuesday.
-It's part of an ongoing trend for Apple, which is absorbing some of the soaring costs from the global memory shortage. A margin drop in the fiscal first quarter would be a third straight decline for Apple, following a gross margin of 50.1% in the June period and 47.9% in the September quarter, boosted by 1 percentage point of tariff refunds.
-At the midpoint of the forecasted range, it would be Apple's lowest gross margin since the fiscal fourth quarter of 2023.
-"What we're seeing with memory pricing right now is unprecedented," Ternus said on the call, adding that the company is paying more than it did earlier this year. "Looking beyond the December quarter, we see the pricing for memory purchases continuing to increase."
-Ternus, who took the reins from Tim Cook on Sept. 1, is grappling with a problem that his predecessor spent his final months addressing. Cook told The Wall Street Journal in June that the memory situation was a "hundred-year flood." Apple followed by raising prices across the board on Macs, iPads, and accessories.
-In September, Apple increased the prices of its iPhones by $100, which Ternus said the company did "reluctantly."
-'Less flexibility in the supply chain'
-Computer and smartphone makers everywhere are suffering. On Friday, Intel had its worst day on the market since the 1970s due to a weak forecast tied to the softening PC market. It's all because of insatiable artificial intelligence demand.
-AI server giants like Nvidia and hyperscalers are buying up all the RAM they can find, and they're willing to pay a premium for it, leaving little supply for companies that make smartphones and tablets.
-Despite its size and global clout, Apple said it expects supply constraints on iPhones and Macs in the holiday quarter, primarily driven by memory.
-On the call, Ternus had some top lieutenants field component-related questions. Sabih Khan, chief operating officer, became the first Apple COO to appear on an earnings call since Cook in 2010, when Steve Jobs was CEO.
-"As we have said before, we're seeing less flexibility in the supply chain than normal," Khan told analysts on the call.
-In response, Apple has drastically increased its purchase obligations to secure supply, Khan said. Those obligations rose by $33 billion from the June quarter to the September period, Khan said, though he declined to answer questions about whether Apple had signed "long-term agreements" with memory makers.
-"We're always working hard to improve supply," Khan said.
-Even with the recent margin slide, Apple's gross margins are still well above where they sat earlier in the Cook era, when the number would predictably come in between 38% and 39%. As Apple's profitable services business grew, its gross margin expanded, hitting 40% in 2021 and growing from there.
-Analysts see a potential silver lining for Apple in the current market turmoil. Because Apple is more capable of eating a portion of the increased costs, some experts predict the company will take market share from makers of Windows PC and Android phones that don't have such a cushion.
-Citing data from a third-party researcher, Ternus said gains are already happening.
-"According to IDC, we gained share globally for the quarter and for the full fiscal year," Ternus said. "And we have never sold more Macs in a fiscal year than we did this time, which is a truly remarkable testament to these incredible products."
-WATCH: Apple beats estimates even as rising component costs squeeze margins`,
-    bodyJa: `John Ternus' first earnings report as Apple CEO was going fine until it was time to issue a forecast for the company's gross margin, one of the key metrics followed by investors.
-Apple reported better-than-expected earnings and revenue on Monday, including in the company's core iPhone unit, and even projected sales in the current period that topped estimates. But just before Ternus opened the earnings call up to analysts' questions, CFO Kevan Parekh came forward with the first real piece of bad news.
-Parekh said that for the December quarter, which goes through the holiday season, Apple's gross margin will be between 45% and 46%, trailing the 46.3% average analyst estimate, according to LSEG.
-"This includes primarily the impact of higher memory costs, as well as some costs related to the ramp of Siri AI," Parekh said.
-Apple shares slid 4% in premarket trading on Tuesday.
-It's part of an ongoing trend for Apple, which is absorbing some of the soaring costs from the global memory shortage. A margin drop in the fiscal first quarter would be a third straight decline for Apple, following a gross margin of 50.1% in the June period and 47.9% in the September quarter, boosted by 1 percentage point of tariff refunds.
-At the midpoint of the forecasted range, it would be Apple's lowest gross margin since the fiscal fourth quarter of 2023.
-"What we're seeing with memory pricing right now is unprecedented," Ternus said on the call, adding that the company is paying more than it did earlier this year. "Looking beyond the December quarter, we see the pricing for memory purchases continuing to increase."
-Ternus, who took the reins from Tim Cook on Sept. 1, is grappling with a problem that his predecessor spent his final months addressing. Cook told The Wall Street Journal in June that the memory situation was a "hundred-year flood." Apple followed by raising prices across the board on Macs, iPads, and accessories.
-In September, Apple increased the prices of its iPhones by $100, which Ternus said the company did "reluctantly."
-'Less flexibility in the supply chain'
-Computer and smartphone makers everywhere are suffering. On Friday, Intel had its worst day on the market since the 1970s due to a weak forecast tied to the softening PC market. It's all because of insatiable artificial intelligence demand.
-AI server giants like Nvidia and hyperscalers are buying up all the RAM they can find, and they're willing to pay a premium for it, leaving little supply for companies that make smartphones and tablets.
-Despite its size and global clout, Apple said it expects supply constraints on iPhones and Macs in the holiday quarter, primarily driven by memory.
-On the call, Ternus had some top lieutenants field component-related questions. Sabih Khan, chief operating officer, became the first Apple COO to appear on an earnings call since Cook in 2010, when Steve Jobs was CEO.
-"As we have said before, we're seeing less flexibility in the supply chain than normal," Khan told analysts on the call.
-In response, Apple has drastically increased its purchase obligations to secure supply, Khan said. Those obligations rose by $33 billion from the June quarter to the September period, Khan said, though he declined to answer questions about whether Apple had signed "long-term agreements" with memory makers.
-"We're always working hard to improve supply," Khan said.
-Even with the recent margin slide, Apple's gross margins are still well above where they sat earlier in the Cook era, when the number would predictably come in between 38% and 39%. As Apple's profitable services business grew, its gross margin expanded, hitting 40% in 2021 and growing from there.
-Analysts see a potential silver lining for Apple in the current market turmoil. Because Apple is more capable of eating a portion of the increased costs, some experts predict the company will take market share from makers of Windows PC and Android phones that don't have such a cushion.
-Citing data from a third-party researcher, Ternus said gains are already happening.
-"According to IDC, we gained share globally for the quarter and for the full fiscal year," Ternus said. "And we have never sold more Macs in a fiscal year than we did this time, which is a truly remarkable testament to these incredible products."
-WATCH: Apple beats estimates even as rising component costs squeeze margins`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/03/apple-earnings-john-ternus-faces-first-test-amid-high-memory-costs.html",
-    publishedAt: "2026-11-03T13:55:52+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "midterm-elections-could-jolt-stocks-if-d-60e33bc8",
-    title: "Midterm elections could jolt stocks if Democrats sweep Congress",
-    titleJa: "Midterm elections could jolt stocks if Democrats sweep Congress",
-    summaryJa: "Wall Street weighs how the 2026 midterms could affect stocks, Treasury yields, artificial intelligence, energy prices, banks, defense and healthcare.",
-    bodyOriginal: `The stock market is not yet pricing in a Democratic sweep of Congress — despite some polls and most prediction markets pointing that way — so that scenario could weigh on share prices Wednesday, according to investors and analysts.
-Republicans managing to keep control could cause a short-term relief rally, they said.
-Short-term moves aside, the typical post-midterm pattern in the months ahead is bullish. But some wonder if the market could buck the positive historical trend this time because the S&P 500 is already up so much this year going into the election.
-As far as certain stocks to watch, a big Democratic win on Tuesday night — especially in the Texas governor race — could add fuel to an AI stock sell-off on the notion that more data center restrictions would gain momentum nationally. Defense stocks could come under pressure on fears of limits on spending.
-Expected stock market reaction
-Polls are pointing to a Democratic victory in the House and a toss-up in the Senate. Prediction markets have been more favorable to Democrats, calling for a blue sweep.
-While investors are signaling "begrudging acceptance" to a base case scenario that there will indeed be a Democratic sweep, that's not how they're positioning, said Tobin Marcus, head of U.S. policy and politics at Wolfe Research. The firm's recent survey data among more than 100 institutional investors suggests they are not strongly positioned for any particular result.
-"Investors seem to have a significant dose of skepticism about whether the final outcome is going to be quite as favorable to Democrats as the polling suggests," Marcus told CNBC, noting that the firm shares the view that the "polling is likely overstating Democratic strength."
-JPMorgan sees a blue wave knocking the S&P 500 by about a half percent on Wednesday.
-On the other hand, if Republicans end up retaining both chambers of Congress, that could spur a rally, said Sameer Samana, head of global equities and real assets at Wells Fargo Investment Institute.
-"From a certainty standpoint, the market knows what to do with Republicans holding both chambers," he said.
-Citigroup strategists said Monday that Republicans losing the House but managing to keep the Senate could be "a tailwind for equities into year-end." JPMorgan traders predict up to a 1% pop on Wednesday if Republicans hold on to that chamber.
-Looking past any short-term move, stocks tend to rally after the midterms have concluded. In fact, the S&P 500 was up one year out after all midterm elections going back to the early 1980s.
-But the S&P 500 has already recorded double-digit gains so far in 2026, so some on Wall Street worry that investors are being overly complacent heading into this year's elections.
-During midterm election years, the S&P 500 has typically averaged a 14% drawdown at some point in the second half of the year found Jonathan Krinsky, chief market technician at BTIG.
-"The reason stocks often perform well in November during midterms is because [the S&P 500] typically is weak INTO the elections. We have the opposite setup this year," Krinsky wrote last week. "Therefore, while consensus is that we see a post midterm rally, we think the opposite is actually more likely."
-AI jitters meet the ballot box
-It's not helping that the broader market has recently come under significant pressure due to turbulence in the AI trade, which led the Nasdaq Composite to post its worst day since June on Friday. AI shares led the market lower again on Monday.
-A strong showing from Democrats in Tuesday's midterm elections could pressure the trade even more.
-At the state level, increased Democratic control is probably a headwind for stocks associated with data centers and technological capital equipment, analysts said.
-"It [would solidify] the early kind of cautionary signs in different states around the advancement of AI infrastructure," Rob Rains at Washington Analysis told CNBC.
-Goldman Sachs strategists said this week that a Democratic Congress "might limit data center tax incentives, but a national moratorium looks unlikely in any election outcome."
-One example would be Texas — a key hub of the data-center buildout. A surprise loss there by Republican Gov. Greg Abbott has the "potential to spook" the market in the short term, Wolfe's Marcus said.
-Defense and healthcare stocks
-A blue wave might pressure defense shares, while boosting health care stocks, analysts and investors said.
-"A substantial Democratic sweep could limit real spending growth unless a broader agreement increases both defense and health-care funding," said Alex Sagal, global equity analyst at Wells Fargo Investment Institute. However, he noted that the earnings outlook for the defense industry looks "stable to modestly positive."
-Wolfe Research's Marcus said that healthcare is going to be "the biggest focus," as Democrats will push for restoring expired Affordable Care Act enhanced premium subsidies or unwinding some of the Medicaid reforms in the One Big Beautiful Bill Act.
-"Healthcare stocks have been doing really well lately," Jed Ellerbroek, portfolio manager at Argent Capital Management, said to CNBC. "I think part of that is the anti-AI trade, but I also think part of it is just optimism that Democrats are taking over."
-Ellerbroek is keeping his eye on hospital-related stocks such as HCA Healthcare and Tenet Healthcare as well as health insurers like UnitedHealth and Centene.
-Bank pressure incoming?
-Financials was the worst S&P 500 sector in early 2026 on the heels of President Donald Trump calling on Congress to pass a law that would cap credit card interest rates at 10%. While the sector has been able to notch gains since, with its year-to-date rise now at around 3%, things could get more unstable for the group under Democratic control.
-"Democrats will come in wanting to show tangible progress on the affordability issue, and that means targeting sectors that are front and center in consumer budgets," said Evercore ISI's Matthew Aks. "We know Trump has populist instincts, populist leanings, and could he pick a couple of issues and decide to team up with the Democrats on those issues and target those industries in a populist way? Absolutely."
-Given that Democratic control is often associated with increased regulation, while Republican control is thought to promote deregulation, Democrats could be interested in passing credit card rate caps if they come out victorious.
-"I think if Democrats have control of one or both chambers, they would try to pass it and see if they could get Trump to either sign it or force him to veto it, and that would let Democrats kind of score a political point," Aks said.
-Iran wildcard
-Trump could restart the war against Iran after holding off any major strikes leading up to the midterms, a move that could upend the overall market and cause energy stocks to outperform. Crude oil prices jumped more than 10% in October, though they gave a lot of that gain back on Monday.
-Gasoline prices stood at $4.17 a gallon on average nationwide Sunday, a nearly 40% increase compared to the same period last year, per AAA.
-"If there are escalations, that could obviously put upward pressure on prices just ahead of Thanksgiving," said Patrick De Haan, head of petroleum analysts at Gas Buddy, "which is also when Americans have really staunch traditions in terms of driving to friends and family."
-If Trump decides to take forceful action, it could snuff out hope for a typical post-midterm year-end rally.
-Evercore ISI said the S&P 500 could retreat by double-digits to end the year at 6,800 as oil spikes if the president "moves to kinetic escalation in Iran ahead of seating the new Congress in January" and Democrats take Congress.
-— With reporting by Sarah Min, Tobias Burns and Spencer Kimball`,
-    bodyJa: `The stock market is not yet pricing in a Democratic sweep of Congress — despite some polls and most prediction markets pointing that way — so that scenario could weigh on share prices Wednesday, according to investors and analysts.
-Republicans managing to keep control could cause a short-term relief rally, they said.
-Short-term moves aside, the typical post-midterm pattern in the months ahead is bullish. But some wonder if the market could buck the positive historical trend this time because the S&P 500 is already up so much this year going into the election.
-As far as certain stocks to watch, a big Democratic win on Tuesday night — especially in the Texas governor race — could add fuel to an AI stock sell-off on the notion that more data center restrictions would gain momentum nationally. Defense stocks could come under pressure on fears of limits on spending.
-Expected stock market reaction
-Polls are pointing to a Democratic victory in the House and a toss-up in the Senate. Prediction markets have been more favorable to Democrats, calling for a blue sweep.
-While investors are signaling "begrudging acceptance" to a base case scenario that there will indeed be a Democratic sweep, that's not how they're positioning, said Tobin Marcus, head of U.S. policy and politics at Wolfe Research. The firm's recent survey data among more than 100 institutional investors suggests they are not strongly positioned for any particular result.
-"Investors seem to have a significant dose of skepticism about whether the final outcome is going to be quite as favorable to Democrats as the polling suggests," Marcus told CNBC, noting that the firm shares the view that the "polling is likely overstating Democratic strength."
-JPMorgan sees a blue wave knocking the S&P 500 by about a half percent on Wednesday.
-On the other hand, if Republicans end up retaining both chambers of Congress, that could spur a rally, said Sameer Samana, head of global equities and real assets at Wells Fargo Investment Institute.
-"From a certainty standpoint, the market knows what to do with Republicans holding both chambers," he said.
-Citigroup strategists said Monday that Republicans losing the House but managing to keep the Senate could be "a tailwind for equities into year-end." JPMorgan traders predict up to a 1% pop on Wednesday if Republicans hold on to that chamber.
-Looking past any short-term move, stocks tend to rally after the midterms have concluded. In fact, the S&P 500 was up one year out after all midterm elections going back to the early 1980s.
-But the S&P 500 has already recorded double-digit gains so far in 2026, so some on Wall Street worry that investors are being overly complacent heading into this year's elections.
-During midterm election years, the S&P 500 has typically averaged a 14% drawdown at some point in the second half of the year found Jonathan Krinsky, chief market technician at BTIG.
-"The reason stocks often perform well in November during midterms is because [the S&P 500] typically is weak INTO the elections. We have the opposite setup this year," Krinsky wrote last week. "Therefore, while consensus is that we see a post midterm rally, we think the opposite is actually more likely."
-AI jitters meet the ballot box
-It's not helping that the broader market has recently come under significant pressure due to turbulence in the AI trade, which led the Nasdaq Composite to post its worst day since June on Friday. AI shares led the market lower again on Monday.
-A strong showing from Democrats in Tuesday's midterm elections could pressure the trade even more.
-At the state level, increased Democratic control is probably a headwind for stocks associated with data centers and technological capital equipment, analysts said.
-"It [would solidify] the early kind of cautionary signs in different states around the advancement of AI infrastructure," Rob Rains at Washington Analysis told CNBC.
-Goldman Sachs strategists said this week that a Democratic Congress "might limit data center tax incentives, but a national moratorium looks unlikely in any election outcome."
-One example would be Texas — a key hub of the data-center buildout. A surprise loss there by Republican Gov. Greg Abbott has the "potential to spook" the market in the short term, Wolfe's Marcus said.
-Defense and healthcare stocks
-A blue wave might pressure defense shares, while boosting health care stocks, analysts and investors said.
-"A substantial Democratic sweep could limit real spending growth unless a broader agreement increases both defense and health-care funding," said Alex Sagal, global equity analyst at Wells Fargo Investment Institute. However, he noted that the earnings outlook for the defense industry looks "stable to modestly positive."
-Wolfe Research's Marcus said that healthcare is going to be "the biggest focus," as Democrats will push for restoring expired Affordable Care Act enhanced premium subsidies or unwinding some of the Medicaid reforms in the One Big Beautiful Bill Act.
-"Healthcare stocks have been doing really well lately," Jed Ellerbroek, portfolio manager at Argent Capital Management, said to CNBC. "I think part of that is the anti-AI trade, but I also think part of it is just optimism that Democrats are taking over."
-Ellerbroek is keeping his eye on hospital-related stocks such as HCA Healthcare and Tenet Healthcare as well as health insurers like UnitedHealth and Centene.
-Bank pressure incoming?
-Financials was the worst S&P 500 sector in early 2026 on the heels of President Donald Trump calling on Congress to pass a law that would cap credit card interest rates at 10%. While the sector has been able to notch gains since, with its year-to-date rise now at around 3%, things could get more unstable for the group under Democratic control.
-"Democrats will come in wanting to show tangible progress on the affordability issue, and that means targeting sectors that are front and center in consumer budgets," said Evercore ISI's Matthew Aks. "We know Trump has populist instincts, populist leanings, and could he pick a couple of issues and decide to team up with the Democrats on those issues and target those industries in a populist way? Absolutely."
-Given that Democratic control is often associated with increased regulation, while Republican control is thought to promote deregulation, Democrats could be interested in passing credit card rate caps if they come out victorious.
-"I think if Democrats have control of one or both chambers, they would try to pass it and see if they could get Trump to either sign it or force him to veto it, and that would let Democrats kind of score a political point," Aks said.
-Iran wildcard
-Trump could restart the war against Iran after holding off any major strikes leading up to the midterms, a move that could upend the overall market and cause energy stocks to outperform. Crude oil prices jumped more than 10% in October, though they gave a lot of that gain back on Monday.
-Gasoline prices stood at $4.17 a gallon on average nationwide Sunday, a nearly 40% increase compared to the same period last year, per AAA.
-"If there are escalations, that could obviously put upward pressure on prices just ahead of Thanksgiving," said Patrick De Haan, head of petroleum analysts at Gas Buddy, "which is also when Americans have really staunch traditions in terms of driving to friends and family."
-If Trump decides to take forceful action, it could snuff out hope for a typical post-midterm year-end rally.
-Evercore ISI said the S&P 500 could retreat by double-digits to end the year at 6,800 as oil spikes if the president "moves to kinetic escalation in Iran ahead of seating the new Congress in January" and Democrats take Congress.
-— With reporting by Sarah Min, Tobias Burns and Spencer Kimball`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/03/midterm-election-stock-market.html",
-    publishedAt: "2026-11-03T13:28:36+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "russia-confirms-new-ukraine-peace-talks-eb646760",
-    title: "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting",
-    titleJa: "Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting",
-    summaryJa: "Russia confirmed Ukraine peace talks in Abu Dhabi next week and signaled a possible Trump-Putin-Xi summit, raising questions over Kyiv's role in negotiations.",
-    bodyOriginal: `Russia on Tuesday confirmed that peace talks with Ukraine and the U.S. will go ahead next week in Abu Dhabi, while also signaling that a meeting between Presidents Vladimir Putin, Donald Trump and Xi Jinping to end the conflict was on the table.
-Putin aide Vladimir Medinsky will serve as Moscow's chief negotiator at the talks in Abu Dhabi on Nov. 10-11, Kremlin spokesman Dmitry Peskov told reporters on a conference call, according to Reuters.
-Separately, First Lady Melania Trump will bring Russian and Ukrainian representatives to the White House to discuss the local ceasefire in Kherson, the White House said Tuesday.
-Monday saw the end of a six-day ceasefire in the Russian-occupied city of Oleshky and surrounding areas in the Kherson region to allow for evacuation of residents, in a pause of hostilities that the White House said was brokered by the first lady.
-Ukraine on Monday accused Russia of using the ceasefire to reinforce its military positions in the city.
-The first lady's summit on Thursday will be "an extraordinary moment in American history," the White House said, but did not name the representatives who will attend. Melania Trump will deliver remarks on the Oleshky ceasefire at 11 a.m. ET Thursday, it added.
-Peskov also said Tuesday the Kremlin hopes to finalize plans for a trilateral meeting between the leaders of Russia, the U.S., and China in the coming days. The comments follow earlier reports that these countries were planning to negotiate an end to the war in Ukraine, without Ukrainian President Volodymyr Zelenskyy at the table.
-Zelenskyy has said that any negotiations over Ukraine's future must include Kyiv.
-"It can be acceptable only when we are at the table of negotiations," he said on Oct. 20, adding that he had discussed the proposal of a three-way meeting between the U.S., China, and Russia to negotiate an end to the nearly five-year full-scale war. "Nothing about Ukraine without Ukraine," he said.
-Tensions between the U.S. and Ukraine have mounted over recent weeks amid continued strikes between Moscow and Kyiv, including on civilian and energy targets.
-A series of moves by the Trump administration in October raised questions about Washington's reliability as Kyiv's most important military partner.
-Tuesday's announcement follows U.S. special envoy Steve Witkoff saying late Monday that Washington will mediate Ukraine-Russia peace talks in Abu Dhabi on Nov. 10-11, focusing on security arrangements, de-escalation and humanitarian issues.
-Witkoff also said that U.S. negotiators will meet European and NATO officials in Brussels this week to discuss post-war security guarantees and Ukraine's reconstruction.`,
-    bodyJa: `Russia on Tuesday confirmed that peace talks with Ukraine and the U.S. will go ahead next week in Abu Dhabi, while also signaling that a meeting between Presidents Vladimir Putin, Donald Trump and Xi Jinping to end the conflict was on the table.
-Putin aide Vladimir Medinsky will serve as Moscow's chief negotiator at the talks in Abu Dhabi on Nov. 10-11, Kremlin spokesman Dmitry Peskov told reporters on a conference call, according to Reuters.
-Separately, First Lady Melania Trump will bring Russian and Ukrainian representatives to the White House to discuss the local ceasefire in Kherson, the White House said Tuesday.
-Monday saw the end of a six-day ceasefire in the Russian-occupied city of Oleshky and surrounding areas in the Kherson region to allow for evacuation of residents, in a pause of hostilities that the White House said was brokered by the first lady.
-Ukraine on Monday accused Russia of using the ceasefire to reinforce its military positions in the city.
-The first lady's summit on Thursday will be "an extraordinary moment in American history," the White House said, but did not name the representatives who will attend. Melania Trump will deliver remarks on the Oleshky ceasefire at 11 a.m. ET Thursday, it added.
-Peskov also said Tuesday the Kremlin hopes to finalize plans for a trilateral meeting between the leaders of Russia, the U.S., and China in the coming days. The comments follow earlier reports that these countries were planning to negotiate an end to the war in Ukraine, without Ukrainian President Volodymyr Zelenskyy at the table.
-Zelenskyy has said that any negotiations over Ukraine's future must include Kyiv.
-"It can be acceptable only when we are at the table of negotiations," he said on Oct. 20, adding that he had discussed the proposal of a three-way meeting between the U.S., China, and Russia to negotiate an end to the nearly five-year full-scale war. "Nothing about Ukraine without Ukraine," he said.
-Tensions between the U.S. and Ukraine have mounted over recent weeks amid continued strikes between Moscow and Kyiv, including on civilian and energy targets.
-A series of moves by the Trump administration in October raised questions about Washington's reliability as Kyiv's most important military partner.
-Tuesday's announcement follows U.S. special envoy Steve Witkoff saying late Monday that Washington will mediate Ukraine-Russia peace talks in Abu Dhabi on Nov. 10-11, focusing on security arrangements, de-escalation and humanitarian issues.
-Witkoff also said that U.S. negotiators will meet European and NATO officials in Brussels this week to discuss post-war security guarantees and Ukraine's reconstruction.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html",
-    publishedAt: "2026-11-03T13:22:25+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "uk-and-eu-agree-draft-deal-to-scrap-brex-25637153",
-    title: "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-    titleJa: "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-    summaryJa: "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
-    bodyOriginal: `UK and EU agree draft deal to scrap Brexit red tape over food exports
-- Published
-The UK and EU have agreed a draft deal on removing post-Brexit checks from food and agriculture exports, ahead of the UK-EU summit later this month.
-The BBC understands the 200-page draft text for this so called "SPS" [sanitary and phytosanitary] agreement has been circulated to EU nations in Brussels for consideration at a meeting on Wednesday.
-Similar texts for deals on emissions trading and a youth travel and work scheme have also been circulated alongside a 15-page draft joint statement for UK and EU top leaders.
-The food deal is the most significant part of the so-called Brexit reset agreed so far, removing checks and red tape that hit exporters after the UK exited the EU's single market.
-As a result of the agreement, the government claims the UK economy will eventually see £5.1bn worth of annual benefits.
-The deal could have the following impact:
-Exports to the EU of fresh sausages, burgers, shellfish from domestic waters and seed potatoes would be able to resume
-It should remove the need for £200 Export Health Certificates, which confirm the product meets the health requirements of the country it is heading to
-It should also end the need for £25 Phytosanitary certificates, which show that plants or plant products are free from pests and diseases
-Inspector fees, organic certificates, some port fees and other checks for exports and imports to and from the EU could be removed
-It will bring back passports for British pets being taken into the EU
-In return, the UK is expected to commit to observing and adapting to existing EU regulations on plant, animal and food trade standards - a process called "dynamic alignment".
-Each of the elements on the table was up for discussion under Sir Keir Starmer, and the summit would have taken place by now had Labour not replaced its leader in July.
-Under Andy Burnham, Britain's approach to post-Brexit relations with the EU have shifted significantly. Sir Keir said the UK would not rejoin the bloc in his lifetime, while Burnham has said he would like to see Britain back in the EU in his.
-Jon Walsh, the chief executive and co-founder of Bio&Me, which makes granolas, mueslis and yoghurts, told BBC 5 Live the draft deal sounded like "really good news".
-"We're just a small company but when we were trying to export our yoghurts before, every time we'd send a pallet we had to pay a vet to inspect it and that was £140, and that meant that you'd lose money... so we had to stop."
-The company also had problems exporting granola and overnight oats, with some shipments being returned.
-"It was so frustrating because it was the same person filling out the same form and yet half would make it through and half wouldn't," Walsh said.
-"You just kind of give up because you're losing money."
-In an interview with ITV, Burnham said "public opinion has changed nationally" since the 2016 Brexit vote, but added he would "not run ahead of public opinion" on the issue.
-"The public need to be the boss when it comes to whatever happens with Brexit," he added.
-Burnham also said he had not proposed the return of freedom of movement between the UK and EU.
-Asked by the BBC about the UK's relationship with the EU, Tory Leader Kemi Badenoch said that while we should "work closely", "dynamic alignment" with the EU would be a red line and "actually take us backwards".
-Liberal Democrat Europe spokesperson Al Pinkerton said the draft deal was a "patch, not a fix".
-"The real solution is to rejoin the single market and to establish a customs union with the EU," he added.
-Reform UK's business spokesman Richard Tice said: "One of the key benefits of Brexit was that Britain no longer had to adhere to ridiculous EU rules.
-"Returning to any form of alignment with Europe would crush Britain's competitiveness and force us to surrender sovereignty over trade policy, putting trade deals worth hundreds of billions of pounds at risk."
-While UK rules remain mostly aligned with EU ones, there are some areas where England has diverged from the EU rule book, for example on "precision breeding" of plants, previously known as gene editing. In recent weeks, agreement has been struck on transition arrangements while the EU's new regulations come in to force.
-The government has already announced a European Partnerships Bill which will provide a legal mechanism for the application of new EU rules and regulations. This will also allow for the necessary alignments for the linking of the UK emissions trading scheme with the EU's, and save the need for UK exporters to pay the EU's new carbon border tax.
-The draft agreements will be discussed at a meeting of EU ambassadors called Coreper on Wednesday, with some key details on the planned numbers in a Youth Experience Scheme to be finalised at a political level in the coming days. A discount on full foreign student fees for EU students is likely to be pushed to next year alongside a plan to reconnect electricity markets.
-The BBC understands the draft agreements will also include some references to UK involvement in defence co-operation schemes, access to law enforcement databases and some reassurances over the EU's "Made in Europe" plans.
-A food deal will have particular significance for Northern Ireland, radically reducing the impact of the post-Brexit Irish Sea border.
-Northern Ireland's Brexit deal kept it inside the EU's single market for goods. That means food products from elsewhere in the UK require paperwork and some physical checks when arriving at NI's ports. A deal will ultimately end those requirements.
-While the food trade plans have been backed by supermarkets and farmers representatives, some pro-Brexit campaigners have criticised the reapplication of EU rules. The post-Brexit trade deal signed by Boris Johnson's government prioritised regulatory freedoms for the UK over avoiding new regulatory red tape, checks and delays.
-But William Bain, the British Chamber of Commerce's (BCC) head of trade policy, told the BBC's Today programme that business overall thought it was a "price is worth paying" to follow common rules, as companies would benefit from "lower costs, reduced delays [and] increased market access".
-At the moment, he said, the requirement for Export Health Certificates can add thousands of pounds of costs to each truck carrying goods, in addition "to the delays that people find at the ports or at the borders".
-"So we get lower exports because of the delays and the massive increases in costs that have come into the supply chain."
-The BCC has released a new analysis of its members' views suggesting options for a closer relationship.
-The business lobby group says the current trade relationship is "failing to deliver", leaving firms "struggling with a thicket of Brexit red tape" nearly six years after the UK's exit from the bloc.
-Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.
-- Published24 June
-- Published2 days ago
-- Published6 days ago`,
-    bodyJa: `UK and EU agree draft deal to scrap Brexit red tape over food exports
-- Published
-The UK and EU have agreed a draft deal on removing post-Brexit checks from food and agriculture exports, ahead of the UK-EU summit later this month.
-The BBC understands the 200-page draft text for this so called "SPS" [sanitary and phytosanitary] agreement has been circulated to EU nations in Brussels for consideration at a meeting on Wednesday.
-Similar texts for deals on emissions trading and a youth travel and work scheme have also been circulated alongside a 15-page draft joint statement for UK and EU top leaders.
-The food deal is the most significant part of the so-called Brexit reset agreed so far, removing checks and red tape that hit exporters after the UK exited the EU's single market.
-As a result of the agreement, the government claims the UK economy will eventually see £5.1bn worth of annual benefits.
-The deal could have the following impact:
-Exports to the EU of fresh sausages, burgers, shellfish from domestic waters and seed potatoes would be able to resume
-It should remove the need for £200 Export Health Certificates, which confirm the product meets the health requirements of the country it is heading to
-It should also end the need for £25 Phytosanitary certificates, which show that plants or plant products are free from pests and diseases
-Inspector fees, organic certificates, some port fees and other checks for exports and imports to and from the EU could be removed
-It will bring back passports for British pets being taken into the EU
-In return, the UK is expected to commit to observing and adapting to existing EU regulations on plant, animal and food trade standards - a process called "dynamic alignment".
-Each of the elements on the table was up for discussion under Sir Keir Starmer, and the summit would have taken place by now had Labour not replaced its leader in July.
-Under Andy Burnham, Britain's approach to post-Brexit relations with the EU have shifted significantly. Sir Keir said the UK would not rejoin the bloc in his lifetime, while Burnham has said he would like to see Britain back in the EU in his.
-Jon Walsh, the chief executive and co-founder of Bio&Me, which makes granolas, mueslis and yoghurts, told BBC 5 Live the draft deal sounded like "really good news".
-"We're just a small company but when we were trying to export our yoghurts before, every time we'd send a pallet we had to pay a vet to inspect it and that was £140, and that meant that you'd lose money... so we had to stop."
-The company also had problems exporting granola and overnight oats, with some shipments being returned.
-"It was so frustrating because it was the same person filling out the same form and yet half would make it through and half wouldn't," Walsh said.
-"You just kind of give up because you're losing money."
-In an interview with ITV, Burnham said "public opinion has changed nationally" since the 2016 Brexit vote, but added he would "not run ahead of public opinion" on the issue.
-"The public need to be the boss when it comes to whatever happens with Brexit," he added.
-Burnham also said he had not proposed the return of freedom of movement between the UK and EU.
-Asked by the BBC about the UK's relationship with the EU, Tory Leader Kemi Badenoch said that while we should "work closely", "dynamic alignment" with the EU would be a red line and "actually take us backwards".
-Liberal Democrat Europe spokesperson Al Pinkerton said the draft deal was a "patch, not a fix".
-"The real solution is to rejoin the single market and to establish a customs union with the EU," he added.
-Reform UK's business spokesman Richard Tice said: "One of the key benefits of Brexit was that Britain no longer had to adhere to ridiculous EU rules.
-"Returning to any form of alignment with Europe would crush Britain's competitiveness and force us to surrender sovereignty over trade policy, putting trade deals worth hundreds of billions of pounds at risk."
-While UK rules remain mostly aligned with EU ones, there are some areas where England has diverged from the EU rule book, for example on "precision breeding" of plants, previously known as gene editing. In recent weeks, agreement has been struck on transition arrangements while the EU's new regulations come in to force.
-The government has already announced a European Partnerships Bill which will provide a legal mechanism for the application of new EU rules and regulations. This will also allow for the necessary alignments for the linking of the UK emissions trading scheme with the EU's, and save the need for UK exporters to pay the EU's new carbon border tax.
-The draft agreements will be discussed at a meeting of EU ambassadors called Coreper on Wednesday, with some key details on the planned numbers in a Youth Experience Scheme to be finalised at a political level in the coming days. A discount on full foreign student fees for EU students is likely to be pushed to next year alongside a plan to reconnect electricity markets.
-The BBC understands the draft agreements will also include some references to UK involvement in defence co-operation schemes, access to law enforcement databases and some reassurances over the EU's "Made in Europe" plans.
-A food deal will have particular significance for Northern Ireland, radically reducing the impact of the post-Brexit Irish Sea border.
-Northern Ireland's Brexit deal kept it inside the EU's single market for goods. That means food products from elsewhere in the UK require paperwork and some physical checks when arriving at NI's ports. A deal will ultimately end those requirements.
-While the food trade plans have been backed by supermarkets and farmers representatives, some pro-Brexit campaigners have criticised the reapplication of EU rules. The post-Brexit trade deal signed by Boris Johnson's government prioritised regulatory freedoms for the UK over avoiding new regulatory red tape, checks and delays.
-But William Bain, the British Chamber of Commerce's (BCC) head of trade policy, told the BBC's Today programme that business overall thought it was a "price is worth paying" to follow common rules, as companies would benefit from "lower costs, reduced delays [and] increased market access".
-At the moment, he said, the requirement for Export Health Certificates can add thousands of pounds of costs to each truck carrying goods, in addition "to the delays that people find at the ports or at the borders".
-"So we get lower exports because of the delays and the massive increases in costs that have come into the supply chain."
-The BCC has released a new analysis of its members' views suggesting options for a closer relationship.
-The business lobby group says the current trade relationship is "failing to deliver", leaving firms "struggling with a thicket of Brexit red tape" nearly six years after the UK's exit from the bloc.
-Sign up for our Politics Essential newsletter to keep up with the inner workings of Westminster and beyond.
-- Published24 June
-- Published2 days ago
-- Published6 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-03T12:07:59+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a94/live/6d035ba0-d778-11f1-a701-fddedf244c16.jpg",
-    readTime: 10,
-  },
-  {
-    id: "drivers-may-get-compensation-offers-befo-fa9b19a2",
-    title: "Drivers may get compensation offers before car finance saga ends",
-    titleJa: "Drivers may get compensation offers before car finance saga ends",
-    summaryJa: "The regulator says it supports lenders offering early compensation offers, as long as they are fair.",
-    bodyOriginal: `Drivers may get compensation offers before car finance saga ends
-- Published
-Drivers may be offered compensation from lenders ahead of the next legal battle in the car finance mis-selling saga.
-Regulator the Financial Conduct Authority (FCA) said it would welcome lenders making settlement offers as long as customers were not given a worse deal than under its proposed central scheme.
-That scheme is facing a legal challenge, to be heard in February, with resulting compensation unlikely to be paid until late next year.
-But Barclays has confirmed it will make early compensation offers from now, with others expected to follow suit.
-The FCA said it would still only expect a minority of claimants to be made early offers, with most having to wait for the outcome of next year's court case.
-Stephen Braviner Roman, the FCA's general counsel and co-lead on the motor finance project, said: "Fair settlement offers could result in some people getting money sooner. It's clear they want the choice.
-"Anyone who wants to wait can, and there's no obligation to agree to the offer. We'll closely monitor firms making offers and expect them to be clear what accepting an offer means."
-Why drivers will receive payouts
-The vast majority of new cars, and many second-hand ones, are bought with finance agreements. Customers pay an initial deposit to secure the vehicle, then a monthly fee with interest.
-But millions of drivers who took out a car loan between April 2007 and November 2024 will be entitled to compensation after the loans were mis-sold.
-They mostly related to when car dealers received commission from lenders, based on the interest rate charged to the customer. These were known as discretionary commission arrangements (DCAs) and customers were often not told about them.
-Average compensation payouts of about £829 are expected to be made related to about 12 million car loans - about 37% of the total number during the period.
-Car finance compensation payments delayed until next year
-- Published1 hour ago
-Compensation will cost the industry up to £9.1bn, including administrative costs. Individual payouts will vary, depending on the degree of harm each driver faced.
-With huge compensation payouts inevitable, some lenders have already set aside millions of pounds to cover the cost.
-Barclays has decided to start making compensation payments early, potentially to start clearing the cost off its balance sheet. It pointed out that claimants had already faced "a considerable wait".
-"By making these early settlement offers, we are giving some customers the option of receiving redress sooner, rather than waiting for the legal challenges and any subsequent FCA action to conclude," said a Barclays Partner Finance spokesperson.
-"Each offer will be calculated using the FCA's redress scheme methodology. We will clearly explain how it has been calculated and what accepting a full and final settlement means, so customers can decide whether accepting the offer is right for them."
-The lender said claimants would start to be contacted directly "in the coming weeks".
-But it stressed not all customers whose complaints were acknowledged on or before 1 October 2026 would receive an early settlement offer.
-Guidelines on whether to accept an offer
-The FCA has published a factsheet to help drivers, external work out whether they should accept early settlements from lenders.
-It will include a list of lenders who are making early offers, to ensure claimants with other lenders are not scammed.
-The regulator said lenders will need to be clear with people about what accepting any offer means. This includes:
-Being able to keep any payment, even if the final settlement under the central scheme after the legal challenges proved to be smaller
-Claimants would not be able to claim more later if the outcome of the legal challenge meant they would have been paid more
-Accepting an offer takes you out of the scheme and stops any further input from the financial ombudsman
-The Finance and Leasing Association, which represents lenders, said: "We want to see consumers receive the fairest outcome in as timely a way as possible and recognise that, in some cases, that may point to early settlement, while in others it may be appropriate to await greater legal certainty."
-But Kevin Durkin, solicitor advocate and director at HD Law, who represented Marcus Johnson who won his case in the Supreme Court, said he had "real reservations" that fair compensation would be offered.
-"These are only heightened by reports that just a small number of claimants will receive what could be lowball offers. I fear this is crumbs from the table, for some customers who are highly likely to be owed more, while the vast majority will receive no offer at all," he said.
-The main proposed FCA scheme remains partially suspended, pending legal challenges in February.
-Consumer group Consumer Voice said the proposed compensation scheme left "too many people short-changed". Three lenders - Volkswagen Financial Services, Mercedes Benz Financial Services, and Credit Agricole Auto Finance - are also challenging the scheme.
-The UK's Upper Tribunal has agreed to hear legal challenges to the scheme, with a hearing scheduled from 16 February to 3 March.
-Anyone who is concerned about their car finance deal and has not yet complained can still complain directly to their lender. There is information on the FCA website on how to complain for free, external.`,
-    bodyJa: `Drivers may get compensation offers before car finance saga ends
-- Published
-Drivers may be offered compensation from lenders ahead of the next legal battle in the car finance mis-selling saga.
-Regulator the Financial Conduct Authority (FCA) said it would welcome lenders making settlement offers as long as customers were not given a worse deal than under its proposed central scheme.
-That scheme is facing a legal challenge, to be heard in February, with resulting compensation unlikely to be paid until late next year.
-But Barclays has confirmed it will make early compensation offers from now, with others expected to follow suit.
-The FCA said it would still only expect a minority of claimants to be made early offers, with most having to wait for the outcome of next year's court case.
-Stephen Braviner Roman, the FCA's general counsel and co-lead on the motor finance project, said: "Fair settlement offers could result in some people getting money sooner. It's clear they want the choice.
-"Anyone who wants to wait can, and there's no obligation to agree to the offer. We'll closely monitor firms making offers and expect them to be clear what accepting an offer means."
-Why drivers will receive payouts
-The vast majority of new cars, and many second-hand ones, are bought with finance agreements. Customers pay an initial deposit to secure the vehicle, then a monthly fee with interest.
-But millions of drivers who took out a car loan between April 2007 and November 2024 will be entitled to compensation after the loans were mis-sold.
-They mostly related to when car dealers received commission from lenders, based on the interest rate charged to the customer. These were known as discretionary commission arrangements (DCAs) and customers were often not told about them.
-Average compensation payouts of about £829 are expected to be made related to about 12 million car loans - about 37% of the total number during the period.
-Car finance compensation payments delayed until next year
-- Published1 hour ago
-Compensation will cost the industry up to £9.1bn, including administrative costs. Individual payouts will vary, depending on the degree of harm each driver faced.
-With huge compensation payouts inevitable, some lenders have already set aside millions of pounds to cover the cost.
-Barclays has decided to start making compensation payments early, potentially to start clearing the cost off its balance sheet. It pointed out that claimants had already faced "a considerable wait".
-"By making these early settlement offers, we are giving some customers the option of receiving redress sooner, rather than waiting for the legal challenges and any subsequent FCA action to conclude," said a Barclays Partner Finance spokesperson.
-"Each offer will be calculated using the FCA's redress scheme methodology. We will clearly explain how it has been calculated and what accepting a full and final settlement means, so customers can decide whether accepting the offer is right for them."
-The lender said claimants would start to be contacted directly "in the coming weeks".
-But it stressed not all customers whose complaints were acknowledged on or before 1 October 2026 would receive an early settlement offer.
-Guidelines on whether to accept an offer
-The FCA has published a factsheet to help drivers, external work out whether they should accept early settlements from lenders.
-It will include a list of lenders who are making early offers, to ensure claimants with other lenders are not scammed.
-The regulator said lenders will need to be clear with people about what accepting any offer means. This includes:
-Being able to keep any payment, even if the final settlement under the central scheme after the legal challenges proved to be smaller
-Claimants would not be able to claim more later if the outcome of the legal challenge meant they would have been paid more
-Accepting an offer takes you out of the scheme and stops any further input from the financial ombudsman
-The Finance and Leasing Association, which represents lenders, said: "We want to see consumers receive the fairest outcome in as timely a way as possible and recognise that, in some cases, that may point to early settlement, while in others it may be appropriate to await greater legal certainty."
-But Kevin Durkin, solicitor advocate and director at HD Law, who represented Marcus Johnson who won his case in the Supreme Court, said he had "real reservations" that fair compensation would be offered.
-"These are only heightened by reports that just a small number of claimants will receive what could be lowball offers. I fear this is crumbs from the table, for some customers who are highly likely to be owed more, while the vast majority will receive no offer at all," he said.
-The main proposed FCA scheme remains partially suspended, pending legal challenges in February.
-Consumer group Consumer Voice said the proposed compensation scheme left "too many people short-changed". Three lenders - Volkswagen Financial Services, Mercedes Benz Financial Services, and Credit Agricole Auto Finance - are also challenging the scheme.
-The UK's Upper Tribunal has agreed to hear legal challenges to the scheme, with a hearing scheduled from 16 February to 3 March.
-Anyone who is concerned about their car finance deal and has not yet complained can still complain directly to their lender. There is information on the FCA website on how to complain for free, external.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-03T11:56:31+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe5c/live/9c202ea0-d6dc-11f1-b2be-0146bf989691.jpg",
-    readTime: 10,
-  },
-  {
-    id: "quiet-quitting-could-be-hitting-the-eco-356e86ad",
-    title: "'Quiet quitting' could be hitting the economy - here's why",
-    titleJa: "'Quiet quitting' could be hitting the economy - here's why",
-    summaryJa: "Britons have become less engaged with the jobs they do and are less willing to put in extra effort, a report has found.",
-    bodyOriginal: `'Quiet quitting' could be hitting the economy - here's why
-- Published
-The so-called "quiet quitting" trend where workers do the basic requirements of a job but refuse to do anything more might be hitting the economy, analysis has found.
-Over the last decade, Britons have become less engaged with the jobs they do and are less willing to put in extra effort, according to a Resolution Foundation report.
-The thinktank said this could partly help explain the slump in productivity since the pandemic.
-"This is self-evidently bad for workers, but it also doesn't bode well for productivity and labour supply, both of which are vital for lifting living standards in the years ahead," said Hannah Slaughter, principal economist at the Resolution Foundation.
-Quiet quitting was popularised on social media shortly after the pandemic.
-Frustrated by high demands, low pay, and a squeeze in living standards, many online posts said workers should only do what their bosses asked and nothing more.
-So you still show up for work, but no more helping out with additional tasks or checking emails outside work hours, instead focusing on work-life balance and "acting your wage".
-Yet, far from being just a talking point on TikTok, the Resolution Foundation said the findings in its report were "consistent" with the idea of quiet quitting.
-'I was working 60 hours a week so I quiet quit'
-- Published31 August 2022
-The percentage of those surveyed willing to go the extra mile to help their employer has sunk from 69% in 2015 to 55% in 2025, according to their survey of 4,656 adults.
-Meanwhile, those who were not even "fairly" satisfied with their roles has sank to one-in-four, the lowest level on record.
-In addition, workers are less likely than 10 years ago to say they have an interesting job, with 63% of those surveyed saying so, down from 74%.
-"Workers today are indeed a little less committed to their employers, and a little less intrinsically drawn to work in general, than workers were a decade ago," the report added.
-This shift over the last decade "may have contributed to weak productivity growth", which has slowed since the financial crisis and weakened again after the pandemic, the Resolution Foundation found.
-Workers were also more focused on pay than in the past, which it said was "perhaps unsurprising... given the flatlining living standards of the past decade".
-Sir John Curtice, politics professor and co-editor of the report, said the analysis does not mean that young people have "become more 'work-shy', nor have workers in general become more reluctant to change jobs".
-"But if workers are to be fully engaged in their work, it has seemingly become more important for employers to provide jobs that are both financially rewarding and have flexible work hours," he added.
-Get in touch
-Are you quiet quitting? Tell us how and why.`,
-    bodyJa: `'Quiet quitting' could be hitting the economy - here's why
-- Published
-The so-called "quiet quitting" trend where workers do the basic requirements of a job but refuse to do anything more might be hitting the economy, analysis has found.
-Over the last decade, Britons have become less engaged with the jobs they do and are less willing to put in extra effort, according to a Resolution Foundation report.
-The thinktank said this could partly help explain the slump in productivity since the pandemic.
-"This is self-evidently bad for workers, but it also doesn't bode well for productivity and labour supply, both of which are vital for lifting living standards in the years ahead," said Hannah Slaughter, principal economist at the Resolution Foundation.
-Quiet quitting was popularised on social media shortly after the pandemic.
-Frustrated by high demands, low pay, and a squeeze in living standards, many online posts said workers should only do what their bosses asked and nothing more.
-So you still show up for work, but no more helping out with additional tasks or checking emails outside work hours, instead focusing on work-life balance and "acting your wage".
-Yet, far from being just a talking point on TikTok, the Resolution Foundation said the findings in its report were "consistent" with the idea of quiet quitting.
-'I was working 60 hours a week so I quiet quit'
-- Published31 August 2022
-The percentage of those surveyed willing to go the extra mile to help their employer has sunk from 69% in 2015 to 55% in 2025, according to their survey of 4,656 adults.
-Meanwhile, those who were not even "fairly" satisfied with their roles has sank to one-in-four, the lowest level on record.
-In addition, workers are less likely than 10 years ago to say they have an interesting job, with 63% of those surveyed saying so, down from 74%.
-"Workers today are indeed a little less committed to their employers, and a little less intrinsically drawn to work in general, than workers were a decade ago," the report added.
-This shift over the last decade "may have contributed to weak productivity growth", which has slowed since the financial crisis and weakened again after the pandemic, the Resolution Foundation found.
-Workers were also more focused on pay than in the past, which it said was "perhaps unsurprising... given the flatlining living standards of the past decade".
-Sir John Curtice, politics professor and co-editor of the report, said the analysis does not mean that young people have "become more 'work-shy', nor have workers in general become more reluctant to change jobs".
-"But if workers are to be fully engaged in their work, it has seemingly become more important for employers to provide jobs that are both financially rewarding and have flexible work hours," he added.
-Get in touch
-Are you quiet quitting? Tell us how and why.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-03T11:15:51+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd90/live/95d1b5d0-d76a-11f1-a956-ff083523ef77.jpg",
-    readTime: 7,
-  },
-  {
-    id: "north-korea-denies-being-behind-record-6-6b261816",
-    title: "North Korea denies being behind record $6.3bn Binance hack",
-    titleJa: "North Korea denies being behind record $6.3bn Binance hack",
-    summaryJa: "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
-    bodyOriginal: `North Korea denies being behind record $6.3bn Binance hack
-- Published
-North Korea has denied claims that it was behind the record $6.3bn (£4.7bn) hack of cryptocurrency exchange Binance, calling the allegations "absurd rhetoric".
-Kim Yo Jong, a top Democratic People's Republic of Korea official and the sister of leader Kim Jong Un, said on Tuesday that the accusations are another "sinister attempt" by the US to damage Pyongyang's public image.
-The US Federal Bureau of Investigation (FBI), the Secret Service and cyber analysts have said North Korea orchestrated the hack, which has been described as the largest in history.
-This is the latest hack to be linked to North Korea, which has been accused of relying on cyber-crime to help finance its sanctioned economy.
-Blockchain analysts and the FBI have said the attack was led by state-backed hacking group TraderTraitor.
-The FBI has called on industry partners to help block transactions involving cryptocurrency accounts linked to the group.
-"The US has made a trite provocation of linking it with the Democratic People's Republic of Korea again," Kim Yo-jong, the director of North Korea's General Affairs Department, said in a statement.
-"It is a grave political provocation against the DPRK that the US misleads the international public opinion as if all the cyber crimes in different parts of the world are our deeds," she said.
-Who could be behind the Binance hack and what we know so far
-- Published4 days ago
-But Pyongyang has been blamed for a number of major cyber attacks in recent years - accusations that it has denied.
-The TraderTraitor unit, which is also known as the Lazarus Group, was blamed for a then-record $1.5bn hack of crypto exchange Bybit in 2025.
-Pyongyang has systematically built its cyber operations, recruiting promising students from universities and sending them to hacker units overseen by North Korea's intelligence agency, research groups like the S Rajaratnam School of International Studies think tank have said.
-The country has consistently denied such claims.
-Kim Yo Jong said "it is the consistent policy stand of the DPRK government to resolutely oppose all sorts of malicious acts in cyberspace".
-Kim Yo-jong: North Korea's heir apparent?
-- Published16 June 2020
-Who is Kim Yo-jong? Video, 00:02:32
-- Published16 June 2020
-Binance did not respond to the BBC's queries about North Korea's alleged involvement in the hack.
-Since the incident, the crypto giant has largely focused its public statements on the technical nature of the breach and its response to protect users.
-The company's spokesperson said that a net $4.72bn has been withdrawn from the exchange since transactions resumed on Sunday.
-The net outflow represents a "relatively limited portion" of Binance's total assets, which stand at approximately $157bn, the spokesperson told the BBC on Tuesday.
-That figure reflects the impact of the hack, subsequent withdrawals and market price changes.
-"Withdrawal levels are stabilising to what we would consider normal and expected on-chain activity," she added.
-The company said last week that initial checks indicated that an engineer's laptop had been compromised, enabling an attacker to make unauthorised withdrawals.
-Trading in major cryptocurrencies on Binance has since resumed after the exchange worked with issuers to freeze assets impacted by the hack.
-The company has repeatedly said it would cover all of the losses linked to the attack and that it has so far covered around 95% of the assets stolen in the breach.`,
-    bodyJa: `North Korea denies being behind record $6.3bn Binance hack
-- Published
-North Korea has denied claims that it was behind the record $6.3bn (£4.7bn) hack of cryptocurrency exchange Binance, calling the allegations "absurd rhetoric".
-Kim Yo Jong, a top Democratic People's Republic of Korea official and the sister of leader Kim Jong Un, said on Tuesday that the accusations are another "sinister attempt" by the US to damage Pyongyang's public image.
-The US Federal Bureau of Investigation (FBI), the Secret Service and cyber analysts have said North Korea orchestrated the hack, which has been described as the largest in history.
-This is the latest hack to be linked to North Korea, which has been accused of relying on cyber-crime to help finance its sanctioned economy.
-Blockchain analysts and the FBI have said the attack was led by state-backed hacking group TraderTraitor.
-The FBI has called on industry partners to help block transactions involving cryptocurrency accounts linked to the group.
-"The US has made a trite provocation of linking it with the Democratic People's Republic of Korea again," Kim Yo-jong, the director of North Korea's General Affairs Department, said in a statement.
-"It is a grave political provocation against the DPRK that the US misleads the international public opinion as if all the cyber crimes in different parts of the world are our deeds," she said.
-Who could be behind the Binance hack and what we know so far
-- Published4 days ago
-But Pyongyang has been blamed for a number of major cyber attacks in recent years - accusations that it has denied.
-The TraderTraitor unit, which is also known as the Lazarus Group, was blamed for a then-record $1.5bn hack of crypto exchange Bybit in 2025.
-Pyongyang has systematically built its cyber operations, recruiting promising students from universities and sending them to hacker units overseen by North Korea's intelligence agency, research groups like the S Rajaratnam School of International Studies think tank have said.
-The country has consistently denied such claims.
-Kim Yo Jong said "it is the consistent policy stand of the DPRK government to resolutely oppose all sorts of malicious acts in cyberspace".
-Kim Yo-jong: North Korea's heir apparent?
-- Published16 June 2020
-Who is Kim Yo-jong? Video, 00:02:32
-- Published16 June 2020
-Binance did not respond to the BBC's queries about North Korea's alleged involvement in the hack.
-Since the incident, the crypto giant has largely focused its public statements on the technical nature of the breach and its response to protect users.
-The company's spokesperson said that a net $4.72bn has been withdrawn from the exchange since transactions resumed on Sunday.
-The net outflow represents a "relatively limited portion" of Binance's total assets, which stand at approximately $157bn, the spokesperson told the BBC on Tuesday.
-That figure reflects the impact of the hack, subsequent withdrawals and market price changes.
-"Withdrawal levels are stabilising to what we would consider normal and expected on-chain activity," she added.
-The company said last week that initial checks indicated that an engineer's laptop had been compromised, enabling an attacker to make unauthorised withdrawals.
-Trading in major cryptocurrencies on Binance has since resumed after the exchange worked with issuers to freeze assets impacted by the hack.
-The company has repeatedly said it would cover all of the losses linked to the attack and that it has so far covered around 95% of the assets stolen in the breach.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-03T08:33:20+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a90/live/75145840-d727-11f1-b237-93d5595d4291.jpg",
-    readTime: 9,
   },
 ];
 
