@@ -15,6 +15,508 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "trump-says-stephen-miller-to-replace-sus-2cf9e624",
+    title: "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
+    titleJa: "Trump says Stephen Miller to replace Susie Wiles as White House chief of staff",
+    summaryJa: "Trump revealed the shake-up three days after Democrats' landslide victory in the midterm elections, winning majority control of the House and Senate.",
+    bodyOriginal: `President Donald Trump on Friday announced White House deputy chief of staff Stephen Miller will be promoted to chief of staff, replacing Susie Wiles.
+Miller will take over starting Monday, Trump said in a Truth Social post, praising his longtime aide as "one of my most trusted advisors."
+Wiles, "who has done an outstanding job, will be moving over to the Trump Political Operation," the president wrote.
+Trump revealed the stunning shake-up just three days after Democrats' landslide victory in the midterm elections, winning majority control of the House and Senate and scrambling the trajectory of Trump's last two years in office.
+The decision to elevate Miller, who has played a key role in crafting and advocating for Trump's controversial mass-deportation efforts, is bound to raise the hackles of the incoming class of congressional Democrats, who have already vowed to investigate the government's immigration policies.
+This is breaking news. Please refresh for updates.`,
+    bodyJa: `President Donald Trump on Friday announced White House deputy chief of staff Stephen Miller will be promoted to chief of staff, replacing Susie Wiles.
+Miller will take over starting Monday, Trump said in a Truth Social post, praising his longtime aide as "one of my most trusted advisors."
+Wiles, "who has done an outstanding job, will be moving over to the Trump Political Operation," the president wrote.
+Trump revealed the stunning shake-up just three days after Democrats' landslide victory in the midterm elections, winning majority control of the House and Senate and scrambling the trajectory of Trump's last two years in office.
+The decision to elevate Miller, who has played a key role in crafting and advocating for Trump's controversial mass-deportation efforts, is bound to raise the hackles of the incoming class of congressional Democrats, who have already vowed to investigate the government's immigration policies.
+This is breaking news. Please refresh for updates.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/06/trump-stephen-miller-wiles-chief-of-staff.html",
+    publishedAt: "2026-11-06T19:09:49+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 2,
+  },
+  {
+    id: "data-center-double-down-hassett-says-blu-925f3b21",
+    title: "Data center double-down: Hassett says blue wave won't stop AI build-out",
+    titleJa: "Data center double-down: Hassett says blue wave won't stop AI build-out",
+    summaryJa: "Data centers are a crucial part of President Donald Trump's push to win the global artificial intelligence race, which he continues despite the midterm results.",
+    bodyOriginal: `National Economic Council Director Kevin Hassett said Friday he expects data center growth to continue as projected, despite the blue-wave election that saw voters overwhelmingly favor limiting the tech infrastructure buildout.
+Hassett, on CNBC's "Squawk on the Street," acknowledged the dozens of measures on states' midterm ballots seeking to constrain data centers, a crucial part of President Donald Trump's push to win the global artificial intelligence race.
+In at least 46 of the roughly 50 such initiatives on ballots in 2026, majorities voted to restrict development of the facilities, according to Ballotpedia's tally.
+"We respect the localities that decide that's what they want to do," Hassett said. "But America is a big place, and right now, the data centers scheduled over the next couple of years aren't affected by these ballot initiatives."
+"And the stuff after that, you know, there's plenty of room in the U.S. for data center growth to continue, as it was projected ahead of the election," he said.
+Hassett said he expects data centers will continue to expand in states with more welcoming governors, and he suggested that even hostile states will eventually come around.
+"That's exactly what's going to happen," he said. "That, or what'll happen will be that the benefits of the data centers will be so obvious that people decide to change their minds about the way they regulate them."
+Hassett also blamed Thursday's tech-driven market plunge on "uncertainty about what the political change is going to mean for data centers going forward."
+"We've now got a ... new majority that maybe is going to go in there and muddle around in there, and I think that markets are anxious about that," he said.
+"But I think that the economic strength that we see everywhere else is so strong, and of course, in the end, you could take something that's growing as fast as the data centers and make it grow a little bit slower, and you still have a blockbuster economy."
+"And so, I think we're still very, very optimistic about what's going to happen going forward," he said.
+The CNBC Voter Poll found 56% of midterm voters identified data centers as either a crucial or major issue — and of those who considered it crucial, 62% favored the generic Democratic candidate.
+Trump has strongly embraced AI and data centers and has even tried to reverse their seeming unpopularity by rebranding the tech as "super intelligence," or SI.
+In a Truth Social post Friday, Trump made clear that despite the midterm losses, his support for the nascent industry has not faltered.
+"As President, I am 100% in favor of Super Intelligence (SI), and will work with the many States in the U.S. that want to become RICH by having them," Trump wrote. "They are GOLD, and only foolish leadership will say 'NO' to the riches they bring!"`,
+    bodyJa: `National Economic Council Director Kevin Hassett said Friday he expects data center growth to continue as projected, despite the blue-wave election that saw voters overwhelmingly favor limiting the tech infrastructure buildout.
+Hassett, on CNBC's "Squawk on the Street," acknowledged the dozens of measures on states' midterm ballots seeking to constrain data centers, a crucial part of President Donald Trump's push to win the global artificial intelligence race.
+In at least 46 of the roughly 50 such initiatives on ballots in 2026, majorities voted to restrict development of the facilities, according to Ballotpedia's tally.
+"We respect the localities that decide that's what they want to do," Hassett said. "But America is a big place, and right now, the data centers scheduled over the next couple of years aren't affected by these ballot initiatives."
+"And the stuff after that, you know, there's plenty of room in the U.S. for data center growth to continue, as it was projected ahead of the election," he said.
+Hassett said he expects data centers will continue to expand in states with more welcoming governors, and he suggested that even hostile states will eventually come around.
+"That's exactly what's going to happen," he said. "That, or what'll happen will be that the benefits of the data centers will be so obvious that people decide to change their minds about the way they regulate them."
+Hassett also blamed Thursday's tech-driven market plunge on "uncertainty about what the political change is going to mean for data centers going forward."
+"We've now got a ... new majority that maybe is going to go in there and muddle around in there, and I think that markets are anxious about that," he said.
+"But I think that the economic strength that we see everywhere else is so strong, and of course, in the end, you could take something that's growing as fast as the data centers and make it grow a little bit slower, and you still have a blockbuster economy."
+"And so, I think we're still very, very optimistic about what's going to happen going forward," he said.
+The CNBC Voter Poll found 56% of midterm voters identified data centers as either a crucial or major issue — and of those who considered it crucial, 62% favored the generic Democratic candidate.
+Trump has strongly embraced AI and data centers and has even tried to reverse their seeming unpopularity by rebranding the tech as "super intelligence," or SI.
+In a Truth Social post Friday, Trump made clear that despite the midterm losses, his support for the nascent industry has not faltered.
+"As President, I am 100% in favor of Super Intelligence (SI), and will work with the many States in the U.S. that want to become RICH by having them," Trump wrote. "They are GOLD, and only foolish leadership will say 'NO' to the riches they bring!"`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
+    publishedAt: "2026-11-06T18:54:22+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "microsoft-plans-to-use-fewer-neoclouds-a-6907f1ea",
+    title: "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
+    titleJa: "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
+    summaryJa: "Microsoft is winding down the number of neoclouds it counts as partners, picking key suppliers and focusing on its own data centers.",
+    bodyOriginal: `Microsoft is shrinking its roster of neocloud partners as it focuses on work with a few key suppliers and builds out its own data centers, according to people familiar with the matter.
+The software giant's plans pose another potential challenge for a corner of the artificial intelligence market that's showing signs of strain due to rising borrowing costs, hefty debt loads and concerns about whether the buildout will slow down.
+Microsoft has forged relationships in recent years with a number of neoclouds, including CoreWeave, Nebius, Chronoscale, IREN, Lambda and Nscale, as well as with Oracle, which is pouring money into building out AI infrastructure.
+Microsoft is now in the evaluation stage and hasn't decided which neoclouds it will stop using, said two sources, who asked not to be named because the talks are confidential. One of the people said Microsoft wants to prioritize its own data center footprint. Bloomberg reported on the plans earlier. Two people said that Microsoft opted not to renew a deal with Oracle.
+A Microsoft spokesperson said in an emailed statement that its infrastructure strategy is "built on flexibility and choice."
+"We combine Microsoft-owned datacenters, leased facilities and strategic partnerships with third-party providers to deliver the capacity our customers need, where and when they need it," the spokesperson said. "We regularly review these investments against customer demand. That includes tracking delivery and adjusting plans as circumstances change."
+The neoclouds have been a turbulent trade on Wall Street in recent weeks as rising interest rates added to fears that many companies have become overly reliant on debt in rushing to build capacity. Shares of CoreWeave, Nebius and IREN are all down by roughly half over the past month even after rallying on Friday.
+A recent industry review counted 323 neoclouds, and experts have predicted that many of them won't survive.
+In its earnings report on Thursday, IREN said it handed over data center capacity to Microsoft in August, but Microsoft requested a networking equipment upgrade that will result in the infrastructure coming online in January or February instead of this year.
+Microsoft finance chief Amy Hood said on the software company's fiscal first-quarter earnings call in October that some cloud contracts involving graphics processing units were delayed until the first half of 2027, affecting Azure cloud growth. Microsoft reported $45.2 billion worth of capital expenditures and finance leases during the latest quarter, and said capex spending will accelerate in the second half of the fiscal year.
+Capital markets 'more selective'
+CoreWeave and Nebius are both scheduled to report quarterly results next week. IREN shares popped 16% on Friday after the company said AI revenue more than doubled from the prior quarter to $200 million. IREN co-CEO Daniel Roberts told CNBC that there's a "disconnect between what we're seeing in public market and what we're seeing at the customer level."
+However, he acknowledged the challenge that market conditions present.
+"Capital markets have become more selective in the last few weeks, and the questions have undoubtedly moved from how big the contract is to whether it can be delivered, financed, and run at a profit," Roberts said on the earnings call.
+Microsoft has already slashed its work with U.K.-based neocloud Nscale, walking away from a site that it had intended to use in England. Darren Hardman, Microsoft's CEO for the U.K and Ireland, told CNBC in October that the decision had to do with Nscale's ability to get access to electricity.
+The Financial Times reported this week that Microsoft decided against renewing a contract with Nscale in Texas. Nscale filed to go public in mid-September but hasn't updated its prospectus since then. The company said in its IPO filing that it expects Microsoft to be a "significant customer in future periods."
+Microsoft's big turn to neoclouds came after the launch of ChatGPT in 2022, which led to a surge in demand for GPUs. In looking elsewhere, Microsoft signed up CoreWeave, which was a privately held startup at the time with roots in cryptocurrency mining. When CoreWeave went public last year, it said 62% of its 2024 revenue came from Microsoft.
+At the time of ChatGPT's release, OpenAI only used Azure. Now the company's cloud suppliers also include Amazon, Cerebras, CoreWeave, Google and Oracle.
+Microsoft's spokesperson said that its approach to reviewing neocloud investments is "a normal and responsible way to manage large, complex infrastructure projects," and that "the pace of our new agreements reflects what we need today."
+—CNBC's Kif Leswing contributed to this report.
+WATCH: IREN co-CEO: AI demand remains strong despite investor scrutiny`,
+    bodyJa: `Microsoft is shrinking its roster of neocloud partners as it focuses on work with a few key suppliers and builds out its own data centers, according to people familiar with the matter.
+The software giant's plans pose another potential challenge for a corner of the artificial intelligence market that's showing signs of strain due to rising borrowing costs, hefty debt loads and concerns about whether the buildout will slow down.
+Microsoft has forged relationships in recent years with a number of neoclouds, including CoreWeave, Nebius, Chronoscale, IREN, Lambda and Nscale, as well as with Oracle, which is pouring money into building out AI infrastructure.
+Microsoft is now in the evaluation stage and hasn't decided which neoclouds it will stop using, said two sources, who asked not to be named because the talks are confidential. One of the people said Microsoft wants to prioritize its own data center footprint. Bloomberg reported on the plans earlier. Two people said that Microsoft opted not to renew a deal with Oracle.
+A Microsoft spokesperson said in an emailed statement that its infrastructure strategy is "built on flexibility and choice."
+"We combine Microsoft-owned datacenters, leased facilities and strategic partnerships with third-party providers to deliver the capacity our customers need, where and when they need it," the spokesperson said. "We regularly review these investments against customer demand. That includes tracking delivery and adjusting plans as circumstances change."
+The neoclouds have been a turbulent trade on Wall Street in recent weeks as rising interest rates added to fears that many companies have become overly reliant on debt in rushing to build capacity. Shares of CoreWeave, Nebius and IREN are all down by roughly half over the past month even after rallying on Friday.
+A recent industry review counted 323 neoclouds, and experts have predicted that many of them won't survive.
+In its earnings report on Thursday, IREN said it handed over data center capacity to Microsoft in August, but Microsoft requested a networking equipment upgrade that will result in the infrastructure coming online in January or February instead of this year.
+Microsoft finance chief Amy Hood said on the software company's fiscal first-quarter earnings call in October that some cloud contracts involving graphics processing units were delayed until the first half of 2027, affecting Azure cloud growth. Microsoft reported $45.2 billion worth of capital expenditures and finance leases during the latest quarter, and said capex spending will accelerate in the second half of the fiscal year.
+Capital markets 'more selective'
+CoreWeave and Nebius are both scheduled to report quarterly results next week. IREN shares popped 16% on Friday after the company said AI revenue more than doubled from the prior quarter to $200 million. IREN co-CEO Daniel Roberts told CNBC that there's a "disconnect between what we're seeing in public market and what we're seeing at the customer level."
+However, he acknowledged the challenge that market conditions present.
+"Capital markets have become more selective in the last few weeks, and the questions have undoubtedly moved from how big the contract is to whether it can be delivered, financed, and run at a profit," Roberts said on the earnings call.
+Microsoft has already slashed its work with U.K.-based neocloud Nscale, walking away from a site that it had intended to use in England. Darren Hardman, Microsoft's CEO for the U.K and Ireland, told CNBC in October that the decision had to do with Nscale's ability to get access to electricity.
+The Financial Times reported this week that Microsoft decided against renewing a contract with Nscale in Texas. Nscale filed to go public in mid-September but hasn't updated its prospectus since then. The company said in its IPO filing that it expects Microsoft to be a "significant customer in future periods."
+Microsoft's big turn to neoclouds came after the launch of ChatGPT in 2022, which led to a surge in demand for GPUs. In looking elsewhere, Microsoft signed up CoreWeave, which was a privately held startup at the time with roots in cryptocurrency mining. When CoreWeave went public last year, it said 62% of its 2024 revenue came from Microsoft.
+At the time of ChatGPT's release, OpenAI only used Azure. Now the company's cloud suppliers also include Amazon, Cerebras, CoreWeave, Google and Oracle.
+Microsoft's spokesperson said that its approach to reviewing neocloud investments is "a normal and responsible way to manage large, complex infrastructure projects," and that "the pace of our new agreements reflects what we need today."
+—CNBC's Kif Leswing contributed to this report.
+WATCH: IREN co-CEO: AI demand remains strong despite investor scrutiny`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
+    publishedAt: "2026-11-06T18:40:58+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "why-the-us-midterms-sparked-an-ai-stock-d7026303",
+    title: "Why the US midterms sparked an AI stock selloff",
+    titleJa: "Why the US midterms sparked an AI stock selloff",
+    summaryJa: "Fears of more AI regulation appear to have sparked fear among investors, but  concerns about the industry have been growing for some time.",
+    bodyOriginal: `Why the US midterms sparked an AI stock selloff
+- Published
+Is the artificial intelligence (AI) gold rush coming to an end, or is this simply a reality check?
+That's the question which is hanging over investors, and which has prompted steep falls on the world's stock markets.
+The sell-off in the US on Thursday was most dramatic on the Nasdaq, home to tech industry titans such as Alphabet, Nvidia, Meta and Apple.
+It followed sweeping gains by the Democrats in this week's midterm elections in the US, which have given the party full control of Congress.
+A number of leading Democrats campaigned against the unhindered expansion of data centres, which have underpinned the growth of artificial intelligence.
+Fears this will lead to more regulation of AI appear to have concerned investors. But worries about the industry's prospects have been growing for some time.
+AI boom
+The release of Chat GPT by Open AI in late 2022 is widely seen as having generated massive public and corporate interest in the practical uses of AI. It also sparked a modern-day gold rush.
+Investors flocked to put their money into companies producing computer chips and networking infrastructure, building data centres and providing the energy to power them, as well as developing the AI itself. The value of tech companies soared.
+The boom continued into this year. Investments in AI are expected to reach $1trillion in 2026 alone according to research by Goldman Sachs. The sector has scooped up so much available cash that other industries have seen their own borrowing costs increase as a result.
+But investors want returns, and in recent months concerns have been growing about whether the AI boom can produce the expected riches.
+Those worries have emerged at a time when public comments from AI researchers casting doubt over the safety of artificial intelligence - even suggesting it could represent an existential threat to humanity - have been grabbing headlines and fuelling speculation that a clampdown could lie ahead.
+Democrat opposition
+While the Trump administration has been all-in on AI, or "super intelligence" as the president likes to call it, many leading Democrats tapped into grassroots concerns about the expansion of data centres and their impact on local communities.
+These were largely focused on the facilities' high consumption of water and electricity, which many feared would push up their household bills – as well as the noise, use of land, and general disruption associated with them.
+A Gallup poll published in May showed 71% of Americans would oppose the building of a data centre in their community. The figure for a nuclear power station was 53%.
+James Talarico, who won the Senate race in once staunchly Republican Texas, was one of those to respond to this scepticism.
+"While we want to protect America's leadership in artificial intelligence, we are still grappling with how it will affect everything from how we work to how our children learn," he said.
+"We must protect Americans and establish clear, consistent laws for businesses."
+With control of both houses of Congress, Democrats are now expected to challenge the president's technology agenda more vigorously, while introducing legislation which could curb the expansion of the industry.
+Texas' Democratic governor-elect Gina Hinojosa campaigned against data centres, pledging a moratorium on the construction of new facilities.
+Hinojosa's win could present opposition to tech multi-billionaire Elon Musk, who has moved large parts of SpaceX and Tesla's operations to the state, for years a Republican stronghold.
+The Tesla boss had spent nearly $450m to back Republican campaigns in the midterms.
+Where next for stocks?
+As the co-founder of the British-based technology firm Arm Holdings, Tudor Brown, points out, "stock values are based on future earnings not present earnings". If the rewards are not likely to be as great as expected, some investors will choose to sell up.
+The falls seen on stock markets over the past 24 hours would appear to have been triggered by the midterm results. But concerns that tech firms have become overvalued were being expressed long before the elections.
+The question now is whether this is simply the removal of froth from an over-exuberant market, or a sign that the AI rush is a bubble about to burst, with much wider consequences.
+Nandini Roy Choudhury of Future Market Insights thinks investors will assess whether the political shift could result in restrictions on data centre construction, energy consumption and the deployment of AI technology.
+She adds there is unlikely to be an immediate widespread recovery in tech stocks as traders are likely to be more selective, favouring firms with stronger balance sheets.
+Brown thinks the impact will be limited. Share valuations, he thinks, were inflated by expectations of "almost infinite AI growth", which have been followed by "a bit of a panic".
+"There is a natural floor to this", he says. "After that it will reflect I think that actually there's still a lot of money being made in these companies".`,
+    bodyJa: `Why the US midterms sparked an AI stock selloff
+- Published
+Is the artificial intelligence (AI) gold rush coming to an end, or is this simply a reality check?
+That's the question which is hanging over investors, and which has prompted steep falls on the world's stock markets.
+The sell-off in the US on Thursday was most dramatic on the Nasdaq, home to tech industry titans such as Alphabet, Nvidia, Meta and Apple.
+It followed sweeping gains by the Democrats in this week's midterm elections in the US, which have given the party full control of Congress.
+A number of leading Democrats campaigned against the unhindered expansion of data centres, which have underpinned the growth of artificial intelligence.
+Fears this will lead to more regulation of AI appear to have concerned investors. But worries about the industry's prospects have been growing for some time.
+AI boom
+The release of Chat GPT by Open AI in late 2022 is widely seen as having generated massive public and corporate interest in the practical uses of AI. It also sparked a modern-day gold rush.
+Investors flocked to put their money into companies producing computer chips and networking infrastructure, building data centres and providing the energy to power them, as well as developing the AI itself. The value of tech companies soared.
+The boom continued into this year. Investments in AI are expected to reach $1trillion in 2026 alone according to research by Goldman Sachs. The sector has scooped up so much available cash that other industries have seen their own borrowing costs increase as a result.
+But investors want returns, and in recent months concerns have been growing about whether the AI boom can produce the expected riches.
+Those worries have emerged at a time when public comments from AI researchers casting doubt over the safety of artificial intelligence - even suggesting it could represent an existential threat to humanity - have been grabbing headlines and fuelling speculation that a clampdown could lie ahead.
+Democrat opposition
+While the Trump administration has been all-in on AI, or "super intelligence" as the president likes to call it, many leading Democrats tapped into grassroots concerns about the expansion of data centres and their impact on local communities.
+These were largely focused on the facilities' high consumption of water and electricity, which many feared would push up their household bills – as well as the noise, use of land, and general disruption associated with them.
+A Gallup poll published in May showed 71% of Americans would oppose the building of a data centre in their community. The figure for a nuclear power station was 53%.
+James Talarico, who won the Senate race in once staunchly Republican Texas, was one of those to respond to this scepticism.
+"While we want to protect America's leadership in artificial intelligence, we are still grappling with how it will affect everything from how we work to how our children learn," he said.
+"We must protect Americans and establish clear, consistent laws for businesses."
+With control of both houses of Congress, Democrats are now expected to challenge the president's technology agenda more vigorously, while introducing legislation which could curb the expansion of the industry.
+Texas' Democratic governor-elect Gina Hinojosa campaigned against data centres, pledging a moratorium on the construction of new facilities.
+Hinojosa's win could present opposition to tech multi-billionaire Elon Musk, who has moved large parts of SpaceX and Tesla's operations to the state, for years a Republican stronghold.
+The Tesla boss had spent nearly $450m to back Republican campaigns in the midterms.
+Where next for stocks?
+As the co-founder of the British-based technology firm Arm Holdings, Tudor Brown, points out, "stock values are based on future earnings not present earnings". If the rewards are not likely to be as great as expected, some investors will choose to sell up.
+The falls seen on stock markets over the past 24 hours would appear to have been triggered by the midterm results. But concerns that tech firms have become overvalued were being expressed long before the elections.
+The question now is whether this is simply the removal of froth from an over-exuberant market, or a sign that the AI rush is a bubble about to burst, with much wider consequences.
+Nandini Roy Choudhury of Future Market Insights thinks investors will assess whether the political shift could result in restrictions on data centre construction, energy consumption and the deployment of AI technology.
+She adds there is unlikely to be an immediate widespread recovery in tech stocks as traders are likely to be more selective, favouring firms with stronger balance sheets.
+Brown thinks the impact will be limited. Share valuations, he thinks, were inflated by expectations of "almost infinite AI growth", which have been followed by "a bit of a panic".
+"There is a natural floor to this", he says. "After that it will reflect I think that actually there's still a lot of money being made in these companies".`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-06T18:32:16+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f055/live/19529fe0-d9fb-11f1-93e1-3b657b665bcf.jpg",
+    readTime: 10,
+  },
+  {
+    id: "ai-stocks-climb-after-trillions-wiped-fr-17b36b9c",
+    title: "AI stocks climb after trillions wiped from market values",
+    titleJa: "AI stocks climb after trillions wiped from market values",
+    summaryJa: "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+    bodyOriginal: `AI stocks climb after trillions wiped from market values
+- Published
+Shares in artificial intelligence and technology firms have been climbing following an enormous sell-off that wiped trillions of dollars off stock values.
+The tech-heavy Nasdaq stock index opened higher following a market rout that began in the US on Thursday before spilling over to Asian and European markets into Friday.
+Investors had been selling off tech shares in part due to concerns the Democrat victory in the midterm elections would mean slower artificial intelligence development.
+However the latest US employment figures added to a mixed picture for American markets on Friday morning, with an unexpectedly strong 165,000 jobs added to the economy in September.
+On Thursday, businesses closely linked to artificial intelligence development took a hammering on stock markets, particularly chip and semiconductor makers.
+But the Nasdaq Composite opened up on Friday and flattened out around 1.7% higher by lunchtime, reversing some of its 5.5% fall.
+The S&P 500, which tracks the share prices of the largest publicly-traded US companies, was around 0.9% higher by lunchtime. The Dow Jones Industrial Average opened a little down before nudging into positive territory.
+Nvidia, which shed hundreds of billions in market value on Thursday after shares slid more than 9%, began Friday up more than 6% but settled around 4% higher as trading continued.
+SpaceX and Tesla shares, which were also hammered on Thursday, saw more mixed gains, up more than 6% and nearly 5% respectively.
+Chipmakers AMD and Micron both dropped by more than 17% on Thursday, but AMD shares had risen by about 12% on Friday while Micron was up more than 8%.
+However, stock markets in Asia and Europe fared worse on Friday.
+The Kospi in South Korea closed down 6% on Friday, with shares in chipmaker SK Hynix plunging more than 10%. European markets also fell, with the main indexes in Germany, France and Spain ending the day down.
+In the UK, the FTSE 100, which tracks the largest companies on the London Stock Exchange, declined 1.01%.
+In addition to the recent market volatility, UK traders were also digesting the latest Bank of England decision to raise interest rates and the signal that another rate rise could be on the cards to curb rising prices.
+Dan Coatsworth, head of markets at AJ Bell, said it had been a brutal week for markets, and the key question was whether the jump in the S&P 500 and Nasdaq would be sustained.
+"While no-one knows what happens next, it's clear that we've just seen a significant shift in market sentiment," he said.
+"Once investors have had the weekend to catch their breath, next week could give a clearer indication of whether the tech trade is going down the pan or fighting back."
+Could the US midterms put a pin in the AI bubble?
+- Published42 minutes ago
+Elon Musk appears to signal the end of the road for Cybertruck
+- Published9 hours ago
+The market fluctuations come after the sweeping Democrat victory in the midterm elections.
+A number of Democrats campaigned for new rules and regulations for artificial intelligence (AI) and data centres, and the party has since won control of both houses of congress as well as key contests in states that have been part of the AI data centre race.
+US President Donald Trump on Friday reiterated his supported for what he calls "super intelligence", saying only "foolish leadership" would "say no to the riches they bring".
+However, there have also been concerns over whether the enormous amounts of money being spent on AI will pay off.
+Russ Shaw, founder of global tech advocacy firm Tech London Advocates, said the election result was sending a message that a rethink was needed on AI.
+"The incoming Congress is going to really focus on AI in a very dramatic way," he told the BBC's Business Today.
+"I'm a big fan of AI, but I'm watching what these companies are doing, and they're not communicating effectively at all, particularly in the US, about what the benefits of AI are all about."
+He said people were watching firms come into their communities and build data centres while their own energy costs were going up, and those companies "have to be better neighbours".
+Strong jobs figures could ease market fears
+As well as the fallout of the midterms and the plunge in artificial intelligence stocks, US traders will also be digesting the latest jobs figures.
+And those numbers were better than expected: US employers added 165,000 new jobs in October, well above the average monthly increase and more than double what analysts had expected.
+Overall the unemployment rate, which counts the number of people who are out of work but actively looking for a job, eased slightly to 4.1% from 4.2% in September.
+The Bureau of Labor Statistics (BLS) said the unemployment rate has remained in the narrow range of 4.1% to 4.3% since March.
+Neil Birrell, chief investment officer at investment firm Premier Miton, said while the jobs figures may feel like second billing to the market movements they were still important.
+"The US economy is running hard which may mean the risks the markets are worrying about at the moment are not such a risk to the real economy as is being feared," he said.`,
+    bodyJa: `AI stocks climb after trillions wiped from market values
+- Published
+Shares in artificial intelligence and technology firms have been climbing following an enormous sell-off that wiped trillions of dollars off stock values.
+The tech-heavy Nasdaq stock index opened higher following a market rout that began in the US on Thursday before spilling over to Asian and European markets into Friday.
+Investors had been selling off tech shares in part due to concerns the Democrat victory in the midterm elections would mean slower artificial intelligence development.
+However the latest US employment figures added to a mixed picture for American markets on Friday morning, with an unexpectedly strong 165,000 jobs added to the economy in September.
+On Thursday, businesses closely linked to artificial intelligence development took a hammering on stock markets, particularly chip and semiconductor makers.
+But the Nasdaq Composite opened up on Friday and flattened out around 1.7% higher by lunchtime, reversing some of its 5.5% fall.
+The S&P 500, which tracks the share prices of the largest publicly-traded US companies, was around 0.9% higher by lunchtime. The Dow Jones Industrial Average opened a little down before nudging into positive territory.
+Nvidia, which shed hundreds of billions in market value on Thursday after shares slid more than 9%, began Friday up more than 6% but settled around 4% higher as trading continued.
+SpaceX and Tesla shares, which were also hammered on Thursday, saw more mixed gains, up more than 6% and nearly 5% respectively.
+Chipmakers AMD and Micron both dropped by more than 17% on Thursday, but AMD shares had risen by about 12% on Friday while Micron was up more than 8%.
+However, stock markets in Asia and Europe fared worse on Friday.
+The Kospi in South Korea closed down 6% on Friday, with shares in chipmaker SK Hynix plunging more than 10%. European markets also fell, with the main indexes in Germany, France and Spain ending the day down.
+In the UK, the FTSE 100, which tracks the largest companies on the London Stock Exchange, declined 1.01%.
+In addition to the recent market volatility, UK traders were also digesting the latest Bank of England decision to raise interest rates and the signal that another rate rise could be on the cards to curb rising prices.
+Dan Coatsworth, head of markets at AJ Bell, said it had been a brutal week for markets, and the key question was whether the jump in the S&P 500 and Nasdaq would be sustained.
+"While no-one knows what happens next, it's clear that we've just seen a significant shift in market sentiment," he said.
+"Once investors have had the weekend to catch their breath, next week could give a clearer indication of whether the tech trade is going down the pan or fighting back."
+Could the US midterms put a pin in the AI bubble?
+- Published42 minutes ago
+Elon Musk appears to signal the end of the road for Cybertruck
+- Published9 hours ago
+The market fluctuations come after the sweeping Democrat victory in the midterm elections.
+A number of Democrats campaigned for new rules and regulations for artificial intelligence (AI) and data centres, and the party has since won control of both houses of congress as well as key contests in states that have been part of the AI data centre race.
+US President Donald Trump on Friday reiterated his supported for what he calls "super intelligence", saying only "foolish leadership" would "say no to the riches they bring".
+However, there have also been concerns over whether the enormous amounts of money being spent on AI will pay off.
+Russ Shaw, founder of global tech advocacy firm Tech London Advocates, said the election result was sending a message that a rethink was needed on AI.
+"The incoming Congress is going to really focus on AI in a very dramatic way," he told the BBC's Business Today.
+"I'm a big fan of AI, but I'm watching what these companies are doing, and they're not communicating effectively at all, particularly in the US, about what the benefits of AI are all about."
+He said people were watching firms come into their communities and build data centres while their own energy costs were going up, and those companies "have to be better neighbours".
+Strong jobs figures could ease market fears
+As well as the fallout of the midterms and the plunge in artificial intelligence stocks, US traders will also be digesting the latest jobs figures.
+And those numbers were better than expected: US employers added 165,000 new jobs in October, well above the average monthly increase and more than double what analysts had expected.
+Overall the unemployment rate, which counts the number of people who are out of work but actively looking for a job, eased slightly to 4.1% from 4.2% in September.
+The Bureau of Labor Statistics (BLS) said the unemployment rate has remained in the narrow range of 4.1% to 4.3% since March.
+Neil Birrell, chief investment officer at investment firm Premier Miton, said while the jobs figures may feel like second billing to the market movements they were still important.
+"The US economy is running hard which may mean the risks the markets are worrying about at the moment are not such a risk to the real economy as is being feared," he said.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-06T17:03:02+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
+    readTime: 10,
+  },
+  {
+    id: "u-s-economy-added-165-000-jobs-in-octobe-3a8fd45f",
+    title: "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+    titleJa: "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+    summaryJa: "Nonfarm payrolls were expected to increase by 59,000 in October as the unemployment rate was expected to hold steady at 4.2%.",
+    bodyOriginal: `The U.S. economy added jobs at a much stronger-than-expected pace in October, while the unemployment rate moved lower as the labor market showed surprising strength.
+Nonfarm payrolls increased by a seasonally adjusted 165,000 for the month, compared with the Dow Jones estimate for 59,000, the Bureau of Labor Statistics reported Friday.
+The unemployment rate nudged down to 4.1%, compared with the forecast for 4.2%. A more encompassing measure that includes discouraged workers and those holding part-time jobs for economic reasons rose to 7.9%, up 0.3 percentage point, amid an increase of 421,000 in the civilian labor force.
+In addition to the strong payroll gains for October, prior months were revised up substantially: The August figure moved to 186,000, an upward revision of 53,000, while the September count shifted to 60,000 following an upward revision of 31,000.
+"You have to look pretty hard to find something to dislike in there," Dan North, senior economist at Allianz Trade North America. "It's a really, really good report, and all around I think you'd say it's stronger than expected and the best one in a while, and it kind of fits with what I call the stable but perhaps unexciting labor market."
+Payroll gains also came in better than forecast. Average hourly earnings increased 0.4% on the month and 3.1% annually, compared with respective estimates for 0.3% and 2.9%. The average workweek was unchanged at 34.4 hours.
+"Today's jobs report is a strong rebuttal to fears that the economy is heading into a meaningful slowdown," said Seema Shah, chief global strategist at Principal Asset Management. "Payrolls growth surprised firmly to the upside, unemployment fell back to 4.1%, and job creation remains broad-based, pointing to an economy that is still absorbing labor comfortably rather than one beginning to buckle under tighter financial conditions."
+The breadth of job growth also was strong, contrary to a trend in which healthcare had accounted for the bulk of gains.
+Professional and business services saw an increase of 70,000 to lead all sectors, while healthcare was next at 42,000. Other areas seeing notable growth included transportation and warehousing (25,000) and manufacturing (19,000).
+"The overall picture is a labor market that is on much better footing than a year ago," said Heather Long, chief economist at Navy Federal Credit Union. "In 2025, the economy added barely 10,000 jobs a month and basically all were in healthcare. ... There's a much more broad based range of opportunities."
+The report comes the same week as an election in which the economy and in particular inflation were the center of attention. Democrats staged a nationwide rout that will give the party control of both chambers of Congress after campaigning heavily on addressing affordability issues.
+For the Federal Reserve, the report also comes at a pivotal time. Central bankers are weighing whether to resume raising interest rates in December as inflation remains stubbornly above the central bank's 2% target.
+Traders increased the probability of another quarter percentage point hike when the Federal Open Market Committee meets Dec. 8-9. Odds rose to 76.8%, according to the CME Group's FedWatch tool, though the indicator pointed to only one more increase after. The odds of further hikes in 2027 have fallen somewhat in recent days, after the midterm election rout and Thursday's sell-off in tech stocks.
+Market reaction otherwise was muted, with a mixed picture on stock market futures heading into the open. Treasury yields were higher across the board.
+The share of workers either looking for a job or already working as a share of the workforce, known as the labor force participation rate, edged higher to 61.9%. The labor force had been shrinking, the result of demographic changes and immigration reductions, but expanded by 421,000 in October.
+At the same time, the household report, which is used to calculate the unemployment rate, showed 463,000 more people at work.
+Long-term unemployment, though, rose sharply.
+The average duration of unemployment jumped to 27.1 weeks, up 2.3 weeks from the prior month to the highest since September 2021. Those unemployed for more than 27 weeks increased to 1.96 million, the most since December 2021.`,
+    bodyJa: `The U.S. economy added jobs at a much stronger-than-expected pace in October, while the unemployment rate moved lower as the labor market showed surprising strength.
+Nonfarm payrolls increased by a seasonally adjusted 165,000 for the month, compared with the Dow Jones estimate for 59,000, the Bureau of Labor Statistics reported Friday.
+The unemployment rate nudged down to 4.1%, compared with the forecast for 4.2%. A more encompassing measure that includes discouraged workers and those holding part-time jobs for economic reasons rose to 7.9%, up 0.3 percentage point, amid an increase of 421,000 in the civilian labor force.
+In addition to the strong payroll gains for October, prior months were revised up substantially: The August figure moved to 186,000, an upward revision of 53,000, while the September count shifted to 60,000 following an upward revision of 31,000.
+"You have to look pretty hard to find something to dislike in there," Dan North, senior economist at Allianz Trade North America. "It's a really, really good report, and all around I think you'd say it's stronger than expected and the best one in a while, and it kind of fits with what I call the stable but perhaps unexciting labor market."
+Payroll gains also came in better than forecast. Average hourly earnings increased 0.4% on the month and 3.1% annually, compared with respective estimates for 0.3% and 2.9%. The average workweek was unchanged at 34.4 hours.
+"Today's jobs report is a strong rebuttal to fears that the economy is heading into a meaningful slowdown," said Seema Shah, chief global strategist at Principal Asset Management. "Payrolls growth surprised firmly to the upside, unemployment fell back to 4.1%, and job creation remains broad-based, pointing to an economy that is still absorbing labor comfortably rather than one beginning to buckle under tighter financial conditions."
+The breadth of job growth also was strong, contrary to a trend in which healthcare had accounted for the bulk of gains.
+Professional and business services saw an increase of 70,000 to lead all sectors, while healthcare was next at 42,000. Other areas seeing notable growth included transportation and warehousing (25,000) and manufacturing (19,000).
+"The overall picture is a labor market that is on much better footing than a year ago," said Heather Long, chief economist at Navy Federal Credit Union. "In 2025, the economy added barely 10,000 jobs a month and basically all were in healthcare. ... There's a much more broad based range of opportunities."
+The report comes the same week as an election in which the economy and in particular inflation were the center of attention. Democrats staged a nationwide rout that will give the party control of both chambers of Congress after campaigning heavily on addressing affordability issues.
+For the Federal Reserve, the report also comes at a pivotal time. Central bankers are weighing whether to resume raising interest rates in December as inflation remains stubbornly above the central bank's 2% target.
+Traders increased the probability of another quarter percentage point hike when the Federal Open Market Committee meets Dec. 8-9. Odds rose to 76.8%, according to the CME Group's FedWatch tool, though the indicator pointed to only one more increase after. The odds of further hikes in 2027 have fallen somewhat in recent days, after the midterm election rout and Thursday's sell-off in tech stocks.
+Market reaction otherwise was muted, with a mixed picture on stock market futures heading into the open. Treasury yields were higher across the board.
+The share of workers either looking for a job or already working as a share of the workforce, known as the labor force participation rate, edged higher to 61.9%. The labor force had been shrinking, the result of demographic changes and immigration reductions, but expanded by 421,000 in October.
+At the same time, the household report, which is used to calculate the unemployment rate, showed 463,000 more people at work.
+Long-term unemployment, though, rose sharply.
+The average duration of unemployment jumped to 27.1 weeks, up 2.3 weeks from the prior month to the highest since September 2021. Those unemployed for more than 27 weeks increased to 1.96 million, the most since December 2021.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+    publishedAt: "2026-11-06T16:06:59+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "elon-musk-appears-to-signal-the-end-of-t-0db495f2",
+    title: "Elon Musk appears to signal the end of the road for Cybertruck",
+    titleJa: "Elon Musk appears to signal the end of the road for Cybertruck",
+    summaryJa: "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+    bodyOriginal: `Elon Musk appears to signal the end of the road for Cybertruck
+- Published
+Tesla will wind down production of its Cybertruck vehicles at its Texas factory next year, Elon Musk says.
+He did not spell out whether it plans to stop making them entirely or shift production elsewhere, but did say the decision was to "make room" for building more of its self-driving Cybercab cars.
+But the project's lead engineer, Wes Morrill, appeared to suggest the vehicle was being discontinued, writing on X: "Cybertruck was an incredible technology development platform and lives on through Cybercab."
+With its distinctive angular looks, the Cybertruck attracted diehard fans, but was beset by delays before being launched in 2023 and has had disappointing sales numbers since.
+Tesla fans have been mourning the news online, with one person calling it "the best vehicle Tesla has ever made, external" as he lamented it being "discontinued next year".
+Musk responded to the user, external with the word "true", adding: "But the Cybertruck fleet will be around for a long time."
+The vehicle has always been a passion project for Musk. He said it was "way more awesome than people realise, external" in March, and called it the "best product Tesla has ever made to date, external" in April.
+But there have always been big questions about whether consumers shared that view and whether the Cybertruck could cut through and earn a spot in the US' lucrative truck market.
+It was not helped by inauspicious introduction to the public in 2019 when Musk attempted to show off the Cybertruck's apparently unbreakable glass, only for it to shatter during a live demonstration.
+Despite the gaffe, the Cybertruck ended up receiving a 146,000 orders, Musk said in 2019, while it was still in development.
+In the end, the vehicle launched in 2023, keeping its novel design - an angular shape with a body made of stainless steel.
+Tesla fans praised its retro-futuristic look, which some said looked like something "straight out of Blade Runner, external".
+But critics were far less kind, joking about its appearance and labelling it "ugly as sin, external".
+Several recalls - including in 2025 affecting more than 46,000 Cybertrucks over concerns part of its trim could fall off - would not have helped.
+And then there's the price.
+"We need to make it at a price that people can afford," Musk told Wall Street analysts that year - which ended up being $61,000 (then £48,000) for all the "bells and whistles".
+In 2026, the so-called "Cyberbeast" model comes in at $102,000.
+Will Tesla's cybertruck recover from its shattering start?
+- Published30 November 2023
+Tesla truck has 150,000 orders despite launch gaffe
+- Published24 November 2019
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
+    bodyJa: `Elon Musk appears to signal the end of the road for Cybertruck
+- Published
+Tesla will wind down production of its Cybertruck vehicles at its Texas factory next year, Elon Musk says.
+He did not spell out whether it plans to stop making them entirely or shift production elsewhere, but did say the decision was to "make room" for building more of its self-driving Cybercab cars.
+But the project's lead engineer, Wes Morrill, appeared to suggest the vehicle was being discontinued, writing on X: "Cybertruck was an incredible technology development platform and lives on through Cybercab."
+With its distinctive angular looks, the Cybertruck attracted diehard fans, but was beset by delays before being launched in 2023 and has had disappointing sales numbers since.
+Tesla fans have been mourning the news online, with one person calling it "the best vehicle Tesla has ever made, external" as he lamented it being "discontinued next year".
+Musk responded to the user, external with the word "true", adding: "But the Cybertruck fleet will be around for a long time."
+The vehicle has always been a passion project for Musk. He said it was "way more awesome than people realise, external" in March, and called it the "best product Tesla has ever made to date, external" in April.
+But there have always been big questions about whether consumers shared that view and whether the Cybertruck could cut through and earn a spot in the US' lucrative truck market.
+It was not helped by inauspicious introduction to the public in 2019 when Musk attempted to show off the Cybertruck's apparently unbreakable glass, only for it to shatter during a live demonstration.
+Despite the gaffe, the Cybertruck ended up receiving a 146,000 orders, Musk said in 2019, while it was still in development.
+In the end, the vehicle launched in 2023, keeping its novel design - an angular shape with a body made of stainless steel.
+Tesla fans praised its retro-futuristic look, which some said looked like something "straight out of Blade Runner, external".
+But critics were far less kind, joking about its appearance and labelling it "ugly as sin, external".
+Several recalls - including in 2025 affecting more than 46,000 Cybertrucks over concerns part of its trim could fall off - would not have helped.
+And then there's the price.
+"We need to make it at a price that people can afford," Musk told Wall Street analysts that year - which ended up being $61,000 (then £48,000) for all the "bells and whistles".
+In 2026, the so-called "Cyberbeast" model comes in at $102,000.
+Will Tesla's cybertruck recover from its shattering start?
+- Published30 November 2023
+Tesla truck has 150,000 orders despite launch gaffe
+- Published24 November 2019
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-06T09:57:04+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg",
+    readTime: 7,
+  },
+  {
+    id: "how-does-it-affect-me-if-share-prices-fa-540c33db",
+    title: "How does it affect me if share prices fall?",
+    titleJa: "How does it affect me if share prices fall?",
+    summaryJa: "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
+    bodyOriginal: `How does it affect me if share prices fall?
+- Published
+Major tech firms have seen their stock values fall after a sell-off by investors following the US midterm elections.
+The fall in the value of their shares across the world has been blamed on an expectation of a slowdown in AI development, although it comes after sharp rises over recent years.
+As companies grow, they may issue shares. Many of the largest companies in the UK have shares which are bought and sold on the London Stock Exchange.
+Their collective performance is often quoted amid a blizzard of numbers that may feel confusing and irrelevant.
+Booms or falls in the stock market make the news, but rarely does anyone mention the FTSE 100 during a coffee with friends.
+Yet, there are good reasons why this performance affects your life and finances.
+'I don't invest' - actually, you probably do
+Many people's initial reaction to "the markets" is that they are not directly affected, because they do not invest money.
+Yet there are millions of people with a pension - either private or through work - who will see their savings (in what is known as a defined contribution pension) invested by pension schemes. The value of their savings pot is influenced by the performance of these investments.
+Pension savers mostly let experts choose where to invest this money to help it grow. Widespread falls in share prices are likely to be bad news for pension savers.
+Hundreds of billions of pounds are held in defined contribution pensions at the moment.
+So big rises or falls can affect your pension, but the advice is to remember that pension savings, like any investments, are usually a long-term bet.
+Experts say that investors have always had to ride economic shocks. Investments, by definition, require a long-term outlook and strategy. So, they are urging people not to panic in such circumstances or make knee-jerk decisions.
+Is my specific pension affected?
+Some people have a pension which promises a specific value, depending on their salary. Others have no pension at all.
+Millions of people have been automatically enrolled into a pension and may have not really noticed. Those schemes see employers divert wages into a pension and contribute some money themselves. The government adds a little in tax relief.
+In every case, the value of these pension savings is affected by investment performance. So "the markets" matter - maybe not as much as everyday wages, but for future pensions.
+What happens if I'm just about to retire?
+Timing is more critical for those at retirement age, as this may be when a retiree uses their pension pot to buy a retirement income, or annuity. The bigger the pot, the more income they will get in retirement.
+As you approach retirement age, pension pots tend to be moved to less risky investments, such as government bonds. When stock markets fall, these bonds can do better.
+Anyone who has a pension pot invested and is taking an income from it will again see their investment go up and down with the stock markets.
+That could mean getting less than you expected if you cash in too much after stock markets have fallen, making it important to plan how to make up any of this shortfall, experts say.
+However, higher interest rates tend to mean better rates offered on annuities, and there is a chance of more rate rises in the UK by the Bank of England.
+Is my job at risk?
+If share prices fall for an extended period then that could have an effect on jobs.
+That's because investors in the company expect a return on that investment.
+When it falls for a while, then they would expect the business to address issues, for example by cutting costs, and therefore jobs.
+There is a huge element of the unknown here though. Companies have to consider lots of factors when making decisions on investment and employment.
+Are stock market falls always bad?
+In purely investment terms, lower share prices can offer an opportunity to buy, in the hope that over the long term, they recover and rise. Many people will do this initially through a stocks and shares Individual Savings Account (Isa).
+However, it is worth noting that the sell-off in tech stocks in particular came after big rises, so long-term investors are still likely to have seen gains.
+Experts and regulators are at pains to point out that investments can go down as well as up, and urge people not to put everything into one investment, but to diversify.
+Some people invest money in what are known as tracker funds. These go up and down in line with the performance of a certain index, such as the FTSE 100.
+So if the index falls, so does the value of their investments and vice versa. One advantage of these funds is that they often cost relatively little to sign up to.
+Can anyone invest their money?
+Yes, and millions of people do, but experts stress that a long-term strategy is required to ride out short-term falls. It is also important to ensure cash savings are held too, so unexpected expenses - like the need for a replacement boiler - can be covered.
+The government is keen to get people in the UK to invest more, partly because it says that will help UK economic growth and partly because it is much more popular among individuals in the US and some parts of Europe.
+It backed an advertising campaign to encourage people to invest, funded by some of the UK's biggest financial services firms.
+But the choice of "Savvy the Squirrel" to front the campaign has raised some eyebrows. Some question whether the push could get anywhere close to the success of the Tell Sid adverts of the 1980s, which encouraged people to invest in the newly privatised British Gas.
+Will things get more expensive?
+When we see big shifts in the stock markets there can also be fluctuations in the value of currencies and exchange rates.
+As a result, prices could go up, but could also go down.
+Upheaval to economies across the world, to oil prices and so on, have a big impact on what we pay at home for goods and services, so there are lots of factors in play.
+Get in touch
+Are you concerned about the impact of tariffs on your business or personal finances? Do you have any questions regarding tariffs?
+Clarification 19 December: This article was amended to provide more context around how companies issue shares.`,
+    bodyJa: `How does it affect me if share prices fall?
+- Published
+Major tech firms have seen their stock values fall after a sell-off by investors following the US midterm elections.
+The fall in the value of their shares across the world has been blamed on an expectation of a slowdown in AI development, although it comes after sharp rises over recent years.
+As companies grow, they may issue shares. Many of the largest companies in the UK have shares which are bought and sold on the London Stock Exchange.
+Their collective performance is often quoted amid a blizzard of numbers that may feel confusing and irrelevant.
+Booms or falls in the stock market make the news, but rarely does anyone mention the FTSE 100 during a coffee with friends.
+Yet, there are good reasons why this performance affects your life and finances.
+'I don't invest' - actually, you probably do
+Many people's initial reaction to "the markets" is that they are not directly affected, because they do not invest money.
+Yet there are millions of people with a pension - either private or through work - who will see their savings (in what is known as a defined contribution pension) invested by pension schemes. The value of their savings pot is influenced by the performance of these investments.
+Pension savers mostly let experts choose where to invest this money to help it grow. Widespread falls in share prices are likely to be bad news for pension savers.
+Hundreds of billions of pounds are held in defined contribution pensions at the moment.
+So big rises or falls can affect your pension, but the advice is to remember that pension savings, like any investments, are usually a long-term bet.
+Experts say that investors have always had to ride economic shocks. Investments, by definition, require a long-term outlook and strategy. So, they are urging people not to panic in such circumstances or make knee-jerk decisions.
+Is my specific pension affected?
+Some people have a pension which promises a specific value, depending on their salary. Others have no pension at all.
+Millions of people have been automatically enrolled into a pension and may have not really noticed. Those schemes see employers divert wages into a pension and contribute some money themselves. The government adds a little in tax relief.
+In every case, the value of these pension savings is affected by investment performance. So "the markets" matter - maybe not as much as everyday wages, but for future pensions.
+What happens if I'm just about to retire?
+Timing is more critical for those at retirement age, as this may be when a retiree uses their pension pot to buy a retirement income, or annuity. The bigger the pot, the more income they will get in retirement.
+As you approach retirement age, pension pots tend to be moved to less risky investments, such as government bonds. When stock markets fall, these bonds can do better.
+Anyone who has a pension pot invested and is taking an income from it will again see their investment go up and down with the stock markets.
+That could mean getting less than you expected if you cash in too much after stock markets have fallen, making it important to plan how to make up any of this shortfall, experts say.
+However, higher interest rates tend to mean better rates offered on annuities, and there is a chance of more rate rises in the UK by the Bank of England.
+Is my job at risk?
+If share prices fall for an extended period then that could have an effect on jobs.
+That's because investors in the company expect a return on that investment.
+When it falls for a while, then they would expect the business to address issues, for example by cutting costs, and therefore jobs.
+There is a huge element of the unknown here though. Companies have to consider lots of factors when making decisions on investment and employment.
+Are stock market falls always bad?
+In purely investment terms, lower share prices can offer an opportunity to buy, in the hope that over the long term, they recover and rise. Many people will do this initially through a stocks and shares Individual Savings Account (Isa).
+However, it is worth noting that the sell-off in tech stocks in particular came after big rises, so long-term investors are still likely to have seen gains.
+Experts and regulators are at pains to point out that investments can go down as well as up, and urge people not to put everything into one investment, but to diversify.
+Some people invest money in what are known as tracker funds. These go up and down in line with the performance of a certain index, such as the FTSE 100.
+So if the index falls, so does the value of their investments and vice versa. One advantage of these funds is that they often cost relatively little to sign up to.
+Can anyone invest their money?
+Yes, and millions of people do, but experts stress that a long-term strategy is required to ride out short-term falls. It is also important to ensure cash savings are held too, so unexpected expenses - like the need for a replacement boiler - can be covered.
+The government is keen to get people in the UK to invest more, partly because it says that will help UK economic growth and partly because it is much more popular among individuals in the US and some parts of Europe.
+It backed an advertising campaign to encourage people to invest, funded by some of the UK's biggest financial services firms.
+But the choice of "Savvy the Squirrel" to front the campaign has raised some eyebrows. Some question whether the push could get anywhere close to the success of the Tell Sid adverts of the 1980s, which encouraged people to invest in the newly privatised British Gas.
+Will things get more expensive?
+When we see big shifts in the stock markets there can also be fluctuations in the value of currencies and exchange rates.
+As a result, prices could go up, but could also go down.
+Upheaval to economies across the world, to oil prices and so on, have a big impact on what we pay at home for goods and services, so there are lots of factors in play.
+Get in touch
+Are you concerned about the impact of tariffs on your business or personal finances? Do you have any questions regarding tariffs?
+Clarification 19 December: This article was amended to provide more context around how companies issue shares.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-06T09:21:50+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c320/live/25775960-3fc2-11f1-b61b-1d0ccf7b6022.jpg",
+    readTime: 10,
+  },
+  {
     id: "india-as-an-ai-hedge-the-country-s-stock-3a7f20c5",
     title: "India as an AI hedge? The country's stocks could see robust inflows as markets globally tank",
     titleJa: "India as an AI hedge? The country's stocks could see robust inflows as markets globally tank",
@@ -1797,384 +2299,6 @@ But the odds still favor military escalation in the region, warned Bob McNally, 
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
     readTime: 6,
-  },
-  {
-    id: "the-internet-is-dying-ai-is-eating-it-an-f228bf9b",
-    title: "The internet is ‘dying’: AI is eating it and obliterating these business models",
-    titleJa: "The internet is ‘dying’: AI is eating it and obliterating these business models",
-    summaryJa: "“The internet as we’ve known it for the past 20-plus years is going away, and it’s going to completely change,” one CEO says.",
-    bodyOriginal: `“The internet as we’ve known it for the past 20-plus years is going away, and it’s going to completely change,” one CEO says.`,
-    bodyJa: `“The internet as we’ve known it for the past 20-plus years is going away, and it’s going to completely change,” one CEO says.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/the-internet-is-dying-ai-is-eating-it-and-obliterating-these-business-models-435ae2b0?mod=mw_rss_topstories",
-    publishedAt: "2026-11-04T14:05:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-83678457",
-    readTime: 2,
-  },
-  {
-    id: "cvs-to-split-off-drugstore-business-in-m-b8f7c10a",
-    title: "CVS to split off drugstore business in major breakup of healthcare giant",
-    titleJa: "CVS to split off drugstore business in major breakup of healthcare giant",
-    summaryJa: "The move would reverse the company's $78 billion acquisition of Aetna and dismantle the vertically integrated healthcare conglomerate it created in 2018.",
-    bodyOriginal: `CVS Health plans to split into two separate public companies by the first half 2028 in what would be one of the largest corporate splits in history, the company announced Wednesday.
-The move would reverse the company's massive $78 billion acquisition of its insurer, Aetna, and dismantle the vertically integrated healthcare conglomerate it created in 2018. The plan would specifically separate CVS' roughly 9,000 retail pharmacies from its major insurance business and pharmacy benefit manager, Caremark, one of the nation's three largest PBMs.
-The decision follows a "comprehensive strategic review" by the company's board of directors, according to a news release.
-It's a stunning reversal for the healthcare powerhouse, which has spent the last two decades working to turn itself into a one-stop health destination. The move also comes as CVS' aggressive turnaround plan under CEO David Joyner shows substantial progress, with the company pursuing $2 billion in cost cuts, store closures, leadership shakeups and efforts to rein in Medicare Advantage costs.
-"From a position of strength, and a focus on the long term, we plan to create two focused companies to improve consumer engagement, affordability, and care coordination," Joyner said in the release.
-CVS shares have jumped roughly 70% since Joyner took the helm in October 2024, bringing the company's market value to $117 billion.
-The two new companies would both be publicly traded.
-The insurance and PBM company will retain the CVS Health name and be run by Joyner, while the other company will be called CVS Pharmacy and be led by Prem Shah, who is currently group president of CVS Health. Additional leadership positions and board members will be announced at a later date, CVS said.
-Existing CVS shareholders will own shares in both companies after the split. The Financial Times on Tuesday first reported the breakup plans.
-The company's pharmacy business raked in $37.66 billion in 2025 sales, while its insurance unit booked $36.29 billion in revenue and healthcare services segment generated $51.24 billion.
-CVS on Wednesday also posted third-quarter earnings and revenue that topped Wall Street expectations. Total sales climbed to $108.40 billion, from $102.87 billion in the prior-year period.
-Sales were boosted by year-over-year growth in the company's health care benefits and health services segments. Meanwhile, revenue in its pharmacy services business slid from the previous year.
-How the CVS split would work
-On Wednesday, CVS said it will lump its insurer and PBM with its primary care business Oak Street Health, home-visit provider Signify Health and the company's specialty drug business.
-CVS also said the split will allow the two companies to experience a "focused strategic agenda" and greater ability to "innovate, adopt technology, increase efficiency," among other benefits.
-It's not the first time CVS has weighed splitting the company. In October 2024, CVS engaged advisors in a strategic review of its business and considered breaking up its retail pharmacy and insurance units.
-Even so, Leerink Partners analyst Michael Cherny said the split "feels like a complete shock" in a Tuesday note. But he said that the retail pharmacy business has been performing well, winning market share from competitors and seeing stabilizing gross margins thanks to CostVantage, a new pharmacy reimbursement model introduced by CVS last year.
-"In this context, perhaps the outlook for a standalone retail pharmacy (still with meaningful scale and leverage on its own) is stronger now than before," Cherny wrote.
-He added that "the rationale could also be to avoid what has been relentless state legislative scrutiny over the company's level of vertical integration."
-The potential breakup also comes as pharmacy benefit managers face mounting bipartisan scrutiny in Washington, D.C., and across states.
-PBMs, which negotiate drug prices and manage prescription drug benefits on behalf of insurers and employers, have been criticized for opaque pricing practices, their growing market power and potential conflicts of interest when they are owned by companies that also operate insurers and pharmacies.
-Congress enacted PBM reforms in February, including provisions to change how PBMs are compensated under Medicare Part D. Meanwhile, states have increasingly moved to restrict PBMs' ownership of pharmacies.`,
-    bodyJa: `CVS Health plans to split into two separate public companies by the first half 2028 in what would be one of the largest corporate splits in history, the company announced Wednesday.
-The move would reverse the company's massive $78 billion acquisition of its insurer, Aetna, and dismantle the vertically integrated healthcare conglomerate it created in 2018. The plan would specifically separate CVS' roughly 9,000 retail pharmacies from its major insurance business and pharmacy benefit manager, Caremark, one of the nation's three largest PBMs.
-The decision follows a "comprehensive strategic review" by the company's board of directors, according to a news release.
-It's a stunning reversal for the healthcare powerhouse, which has spent the last two decades working to turn itself into a one-stop health destination. The move also comes as CVS' aggressive turnaround plan under CEO David Joyner shows substantial progress, with the company pursuing $2 billion in cost cuts, store closures, leadership shakeups and efforts to rein in Medicare Advantage costs.
-"From a position of strength, and a focus on the long term, we plan to create two focused companies to improve consumer engagement, affordability, and care coordination," Joyner said in the release.
-CVS shares have jumped roughly 70% since Joyner took the helm in October 2024, bringing the company's market value to $117 billion.
-The two new companies would both be publicly traded.
-The insurance and PBM company will retain the CVS Health name and be run by Joyner, while the other company will be called CVS Pharmacy and be led by Prem Shah, who is currently group president of CVS Health. Additional leadership positions and board members will be announced at a later date, CVS said.
-Existing CVS shareholders will own shares in both companies after the split. The Financial Times on Tuesday first reported the breakup plans.
-The company's pharmacy business raked in $37.66 billion in 2025 sales, while its insurance unit booked $36.29 billion in revenue and healthcare services segment generated $51.24 billion.
-CVS on Wednesday also posted third-quarter earnings and revenue that topped Wall Street expectations. Total sales climbed to $108.40 billion, from $102.87 billion in the prior-year period.
-Sales were boosted by year-over-year growth in the company's health care benefits and health services segments. Meanwhile, revenue in its pharmacy services business slid from the previous year.
-How the CVS split would work
-On Wednesday, CVS said it will lump its insurer and PBM with its primary care business Oak Street Health, home-visit provider Signify Health and the company's specialty drug business.
-CVS also said the split will allow the two companies to experience a "focused strategic agenda" and greater ability to "innovate, adopt technology, increase efficiency," among other benefits.
-It's not the first time CVS has weighed splitting the company. In October 2024, CVS engaged advisors in a strategic review of its business and considered breaking up its retail pharmacy and insurance units.
-Even so, Leerink Partners analyst Michael Cherny said the split "feels like a complete shock" in a Tuesday note. But he said that the retail pharmacy business has been performing well, winning market share from competitors and seeing stabilizing gross margins thanks to CostVantage, a new pharmacy reimbursement model introduced by CVS last year.
-"In this context, perhaps the outlook for a standalone retail pharmacy (still with meaningful scale and leverage on its own) is stronger now than before," Cherny wrote.
-He added that "the rationale could also be to avoid what has been relentless state legislative scrutiny over the company's level of vertical integration."
-The potential breakup also comes as pharmacy benefit managers face mounting bipartisan scrutiny in Washington, D.C., and across states.
-PBMs, which negotiate drug prices and manage prescription drug benefits on behalf of insurers and employers, have been criticized for opaque pricing practices, their growing market power and potential conflicts of interest when they are owned by companies that also operate insurers and pharmacies.
-Congress enacted PBM reforms in February, including provisions to change how PBMs are compensated under Medicare Part D. Meanwhile, states have increasingly moved to restrict PBMs' ownership of pharmacies.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/04/cvs-to-split-off-drugstore-business.html",
-    publishedAt: "2026-11-04T13:54:29+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "spacex-signs-deal-with-qualcomm-to-provi-ebcf77a0",
-    title: "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service",
-    titleJa: "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service",
-    summaryJa: "SpaceX struck a multiyear deal with Qualcomm to build out base stations for its Starlink Mobile cellular network.",
-    bodyOriginal: `SpaceX announced a deal with chipmaker Qualcomm to provide key network technology for Elon Musk's Starlink Mobile service, a challenger to Verizon, AT&T and T-Mobile.
-Qualcomm said on Wednesday that the terrestrial network it will help SpaceX build will "complement Starlink's satellite capabilities," with a planned rollout to begin next year. Financial terms of the multiyear deal weren't disclosed.
-"Together with SpaceX, we are building world-leading cellular infrastructure in the United States, advancing 5G today, with an opportunity to lay the foundation for AI-native 6G in the years ahead," Durga Malladi, an executive vice president at Qualcomm, said in the statement.
-Starlink is a critical piece of SpaceX's business, accounting for 36% of the company's revenue in the third quarter and 85% of its operating profit. But to date, the company's consumer business has been limited when it comes to mobile direct-to-device services as its satellite network can't provide all the voice, video and data coverage that competitors offer on popular smartphones.
-Now SpaceX is snapping up spectrum and forging partnerships to take on the major mobile carriers. Last month, the company announced an agreement to purchase a nationwide spectrum portfolio in the 800 MHz band. The news sent shares of U.S. carriers reeling. Earlier this week, the Washington Post reported that SpaceX is in talks to acquire EchoStar's Boost Mobile.
-SpaceX went public in June in the largest IPO on record and is now valued at close to $2 trillion.
-With Qualcomm, SpaceX will be using the chipmaker's Dragonwing cellular infrastructure hardware and software in base stations to enable high-capacity coverage for Starlink Mobile.
-Qualcomm has a long history of making chips for cellular networks, but is best known for making the modems and radios that go inside devices, not base stations for running a wireless network. The company has targeted carriers and other infrastructure companies since it made a bigger push into the 5G infrastructure market in 2020.
-SpaceX represents one of Qualcomm's highest-profile customers or partners in 5G infrastructure, following earlier deals with Verizon, Dish, and Europe's Vodafone.
-While SpaceX plans to use Qualcomm's technology to establish tens of thousands of new cell sites, it hasn't announced partners among cell tower companies or said how many new towers may be required.
-Mobile carriers generally lease space from companies such as American Tower and Crown Castle, which commonly host multiple carriers from one site.
-SpaceX did not respond to CNBC's request for additional information.
--- CNBC's Kif Leswing contributed reporting.`,
-    bodyJa: `SpaceX announced a deal with chipmaker Qualcomm to provide key network technology for Elon Musk's Starlink Mobile service, a challenger to Verizon, AT&T and T-Mobile.
-Qualcomm said on Wednesday that the terrestrial network it will help SpaceX build will "complement Starlink's satellite capabilities," with a planned rollout to begin next year. Financial terms of the multiyear deal weren't disclosed.
-"Together with SpaceX, we are building world-leading cellular infrastructure in the United States, advancing 5G today, with an opportunity to lay the foundation for AI-native 6G in the years ahead," Durga Malladi, an executive vice president at Qualcomm, said in the statement.
-Starlink is a critical piece of SpaceX's business, accounting for 36% of the company's revenue in the third quarter and 85% of its operating profit. But to date, the company's consumer business has been limited when it comes to mobile direct-to-device services as its satellite network can't provide all the voice, video and data coverage that competitors offer on popular smartphones.
-Now SpaceX is snapping up spectrum and forging partnerships to take on the major mobile carriers. Last month, the company announced an agreement to purchase a nationwide spectrum portfolio in the 800 MHz band. The news sent shares of U.S. carriers reeling. Earlier this week, the Washington Post reported that SpaceX is in talks to acquire EchoStar's Boost Mobile.
-SpaceX went public in June in the largest IPO on record and is now valued at close to $2 trillion.
-With Qualcomm, SpaceX will be using the chipmaker's Dragonwing cellular infrastructure hardware and software in base stations to enable high-capacity coverage for Starlink Mobile.
-Qualcomm has a long history of making chips for cellular networks, but is best known for making the modems and radios that go inside devices, not base stations for running a wireless network. The company has targeted carriers and other infrastructure companies since it made a bigger push into the 5G infrastructure market in 2020.
-SpaceX represents one of Qualcomm's highest-profile customers or partners in 5G infrastructure, following earlier deals with Verizon, Dish, and Europe's Vodafone.
-While SpaceX plans to use Qualcomm's technology to establish tens of thousands of new cell sites, it hasn't announced partners among cell tower companies or said how many new towers may be required.
-Mobile carriers generally lease space from companies such as American Tower and Crown Castle, which commonly host multiple carriers from one site.
-SpaceX did not respond to CNBC's request for additional information.
--- CNBC's Kif Leswing contributed reporting.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html",
-    publishedAt: "2026-11-04T13:53:54+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "private-companies-added-86-000-jobs-in-o-8c505493",
-    title: "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
-    titleJa: "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
-    summaryJa: "Private-sector job growth held steady in October, with gains spread across sectors",
-    bodyOriginal: `Private sector job growth held steady in October, with gains spread across sectors, as the labor market showed fresh signs of stabilization, ADP reported Wednesday.
-The payrolls processing firm said companies added 86,000 jobs during the month, the same as the downwardly revised total for September and slightly ahead of the Dow Jones estimate for 75,000.
-Employment gains came mainly in the service sector.
-Trade, transportation and utilities led with 39,000 new jobs, while education and health services added 28,000, and leisure and hospitality contributed 19,000. Other sectors showing gains included financial activities (15,000), construction (13,000) and other services (10,000).
-However, some of the gains were offset by a decline of 27,000 in professional and business services and a loss of 8,000 in natural resources and mining. Information services, a sector potentially impacted by the artificial intelligence buildout, lost 2,000 jobs.
-Salaries continued to show gains, particularly for those changing jobs — those workers saw a 4.8% annual gain. A report Tuesday from the Bureau of Labor Statistics showed that the number of people quitting their job, a sign of labor market mobility, hit its highest level since March 2025.
-Workers overall saw a 3.2% base pay gain, while gross pay increased 4.7% annually. Pay for those staying in their jobs rose 3%.
-"Employers of all sizes were hiring last month, and our data suggests that job-changers were lured by a
-combination of bonuses, overtime, and more hours in addition to higher base pay," said ADP's chief economist, Nela Richardson. "Taken together, earnings growth for these workers hit its fastest pace since March 2024."
-Companies with between 50 and 499 workers added 33,000 jobs. Large businesses added 24,000, while small firms increased rolls by 28,000.
-The ADP report serves as a precursor to the BLS nonfarm payrolls count to be released Friday.
-Economists surveyed by Dow Jones are looking for the BLS report for October to show a gain of 59,000 after September's modest growth of 29,000.`,
-    bodyJa: `Private sector job growth held steady in October, with gains spread across sectors, as the labor market showed fresh signs of stabilization, ADP reported Wednesday.
-The payrolls processing firm said companies added 86,000 jobs during the month, the same as the downwardly revised total for September and slightly ahead of the Dow Jones estimate for 75,000.
-Employment gains came mainly in the service sector.
-Trade, transportation and utilities led with 39,000 new jobs, while education and health services added 28,000, and leisure and hospitality contributed 19,000. Other sectors showing gains included financial activities (15,000), construction (13,000) and other services (10,000).
-However, some of the gains were offset by a decline of 27,000 in professional and business services and a loss of 8,000 in natural resources and mining. Information services, a sector potentially impacted by the artificial intelligence buildout, lost 2,000 jobs.
-Salaries continued to show gains, particularly for those changing jobs — those workers saw a 4.8% annual gain. A report Tuesday from the Bureau of Labor Statistics showed that the number of people quitting their job, a sign of labor market mobility, hit its highest level since March 2025.
-Workers overall saw a 3.2% base pay gain, while gross pay increased 4.7% annually. Pay for those staying in their jobs rose 3%.
-"Employers of all sizes were hiring last month, and our data suggests that job-changers were lured by a
-combination of bonuses, overtime, and more hours in addition to higher base pay," said ADP's chief economist, Nela Richardson. "Taken together, earnings growth for these workers hit its fastest pace since March 2024."
-Companies with between 50 and 499 workers added 33,000 jobs. Large businesses added 24,000, while small firms increased rolls by 28,000.
-The ADP report serves as a precursor to the BLS nonfarm payrolls count to be released Friday.
-Economists surveyed by Dow Jones are looking for the BLS report for October to show a gain of 59,000 after September's modest growth of 29,000.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html",
-    publishedAt: "2026-11-04T13:49:48+00:00",
-    category: "貿易",
-    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "uber-beats-on-revenue-even-as-mobility-a-2af2422d",
-    title: "Uber beats on revenue even as mobility and delivery units miss estimates",
-    titleJa: "Uber beats on revenue even as mobility and delivery units miss estimates",
-    summaryJa: "Uber reported better-than-expected revenue but its mobility unit faced higher fuel costs overseas and tighter driver supply.",
-    bodyOriginal: `Uber reported revenue for the third quarter that topped analysts' estimates, but the company missed expectations in its two key businesses.
-Here's how the company did versus analysts' estimates compiled by LSEG:
-- Earnings per share: 25 cents vs. 96 cents expected
-- Revenue: $14.77 billion vs. $14.69 billion expected
-Revenue increased 10% from $13.47 billion a year earlier. The company reported net income of $512 million, down 92% from a year earlier, when the company had a $4.9 billion benefit from a tax valuation release.
-Uber's core mobility unit, which is its ride-hailing service, saw a 2% decline in revenue to $7.52 billion, missing the average estimate of $7.71 billion, according to StreetAccount. Revenue in the food delivery business increased 23% to $5.49 billion, trailing the $5.51 billion average estimate.
-Total bookings of $59.82 billion were about in line with the $59.83 billion average analyst estimate, according to StreetAccount.
-Uber's revenue beat was due to growth in its freight division. Sales jumped 34% to $1.76 billion, topping the StreetAccount consensus of $1.49 billion,
-Uber CEO Dara Khosrowshahi said, in prepared remarks ahead of a scheduled call, that the company's core mobility segment performed slightly below expectations overseas.
-"Elevated fuel prices and tighter driver availability weighed on supply growth in several international markets," he said, adding that Uber is making "targeted investments to strengthen driver supply."
-The company plans to have over 2,000 automated vehicles available on its platform by the end of 2027, half operating in the U.S. and half internationally. It expects to have around 700 available on its platform by the end of the year, adding Amazon's Zoox and Motional robotaxis to its platform in Las Vegas this quarter.
-Uber is also growing its delivery business through acquisitions of Delivery Hero in Germany and ezCater in the U.S.
-In its Uber Eats business, a recently expanded partnership with Costco in the U.S. is "tracking ahead of expectations," Khosrowshahi said. The company said Costco is now one of its top merchants in terms of gross bookings.
-For the fourth quarter, Uber sees overall bookings of $64.5 billion at the mid-point of its forecast, in line with the average StreetAccount estimate of $64.26 billion.
-WATCH: Ross Gerber on autonomous driving: On a whole, 'I think Uber is cooked'`,
-    bodyJa: `Uber reported revenue for the third quarter that topped analysts' estimates, but the company missed expectations in its two key businesses.
-Here's how the company did versus analysts' estimates compiled by LSEG:
-- Earnings per share: 25 cents vs. 96 cents expected
-- Revenue: $14.77 billion vs. $14.69 billion expected
-Revenue increased 10% from $13.47 billion a year earlier. The company reported net income of $512 million, down 92% from a year earlier, when the company had a $4.9 billion benefit from a tax valuation release.
-Uber's core mobility unit, which is its ride-hailing service, saw a 2% decline in revenue to $7.52 billion, missing the average estimate of $7.71 billion, according to StreetAccount. Revenue in the food delivery business increased 23% to $5.49 billion, trailing the $5.51 billion average estimate.
-Total bookings of $59.82 billion were about in line with the $59.83 billion average analyst estimate, according to StreetAccount.
-Uber's revenue beat was due to growth in its freight division. Sales jumped 34% to $1.76 billion, topping the StreetAccount consensus of $1.49 billion,
-Uber CEO Dara Khosrowshahi said, in prepared remarks ahead of a scheduled call, that the company's core mobility segment performed slightly below expectations overseas.
-"Elevated fuel prices and tighter driver availability weighed on supply growth in several international markets," he said, adding that Uber is making "targeted investments to strengthen driver supply."
-The company plans to have over 2,000 automated vehicles available on its platform by the end of 2027, half operating in the U.S. and half internationally. It expects to have around 700 available on its platform by the end of the year, adding Amazon's Zoox and Motional robotaxis to its platform in Las Vegas this quarter.
-Uber is also growing its delivery business through acquisitions of Delivery Hero in Germany and ezCater in the U.S.
-In its Uber Eats business, a recently expanded partnership with Costco in the U.S. is "tracking ahead of expectations," Khosrowshahi said. The company said Costco is now one of its top merchants in terms of gross bookings.
-For the fourth quarter, Uber sees overall bookings of $64.5 billion at the mid-point of its forecast, in line with the average StreetAccount estimate of $64.26 billion.
-WATCH: Ross Gerber on autonomous driving: On a whole, 'I think Uber is cooked'`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/04/uber-stock-q3-2026-earnings.html",
-    publishedAt: "2026-11-04T13:46:24+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "elon-musk-s-millions-fail-to-deliver-tex-e38596b3",
-    title: "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
-    titleJa: "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
-    summaryJa: "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign.",
-    bodyOriginal: `Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms
-- Published
-Democrat James Talarico's resounding victory in the Texas Senate race caused a major upset in the midterms for Republicans - and for Elon Musk.
-According to the Financial Times, external, the billionaire's political action committee (Pac) contributed $47m (£35m) to Republican candidate Ken Paxton's campaign, on top of the $158m he gave the Senate Leadership Fund in September.
-The money was not enough to stop the seat from turning Democrat for the first time since 1988. In his acceptance speech, Talarico said: "We just proved that all the money in the world is no match for the people of Texas."
-"Guess my election-interfering space lasers didn't work this time," Musk jokingly wrote on X, external.
-Talarico's victory marked a key turning point in the midterms, helping solidify the Democrats' control of the US Congress in a wave of wins across the US.
-Musk has increasingly made Texas the hub of his companies, from Tesla's Austin headquarters to SpaceX's Starbase launch site.
-As well as backing Paxton through outside groups, the X owner took to his own platform to spread conspiracy theories about the Democrat, posting: "There is something deeply wrong with Talarico" after he briefly disappeared from the campaign trail in October.
-"There is something deeply wrong with a political system that allows one trillionaire to buy his own personal US Senator," Talarico posted in response.
-On top of contributing to one of the most expensive Senate races ever, the SpaceX owner also became the top individual donor in this year's midterms overall, contributing an estimated $446m in backing Republican candidates.
-Musk's money went through Super Pacs, groups which can raise unlimited sums but can't give directly to candidates or coordinate with their campaigns.
-Individuals, parties and traditional groups face legal limits on direct donations.
-Super Pacs get around this by spending independently, such as on ads backing a candidate.
-Musk became one of the Republican Party's biggest donors in 2024, pouring hundreds of millions of dollars into Donald Trump's winning presidential campaign.
-A similarly eye-watering amount was not enough to do the same for Paxton this time around.
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
-- Published4 hours ago
-- Published1 day ago
-- Published13 minutes ago`,
-    bodyJa: `Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms
-- Published
-Democrat James Talarico's resounding victory in the Texas Senate race caused a major upset in the midterms for Republicans - and for Elon Musk.
-According to the Financial Times, external, the billionaire's political action committee (Pac) contributed $47m (£35m) to Republican candidate Ken Paxton's campaign, on top of the $158m he gave the Senate Leadership Fund in September.
-The money was not enough to stop the seat from turning Democrat for the first time since 1988. In his acceptance speech, Talarico said: "We just proved that all the money in the world is no match for the people of Texas."
-"Guess my election-interfering space lasers didn't work this time," Musk jokingly wrote on X, external.
-Talarico's victory marked a key turning point in the midterms, helping solidify the Democrats' control of the US Congress in a wave of wins across the US.
-Musk has increasingly made Texas the hub of his companies, from Tesla's Austin headquarters to SpaceX's Starbase launch site.
-As well as backing Paxton through outside groups, the X owner took to his own platform to spread conspiracy theories about the Democrat, posting: "There is something deeply wrong with Talarico" after he briefly disappeared from the campaign trail in October.
-"There is something deeply wrong with a political system that allows one trillionaire to buy his own personal US Senator," Talarico posted in response.
-On top of contributing to one of the most expensive Senate races ever, the SpaceX owner also became the top individual donor in this year's midterms overall, contributing an estimated $446m in backing Republican candidates.
-Musk's money went through Super Pacs, groups which can raise unlimited sums but can't give directly to candidates or coordinate with their campaigns.
-Individuals, parties and traditional groups face legal limits on direct donations.
-Super Pacs get around this by spending independently, such as on ads backing a candidate.
-Musk became one of the Republican Party's biggest donors in 2024, pouring hundreds of millions of dollars into Donald Trump's winning presidential campaign.
-A similarly eye-watering amount was not enough to do the same for Paxton this time around.
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.
-- Published4 hours ago
-- Published1 day ago
-- Published13 minutes ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-04T13:43:16+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae2/live/ce22be10-d851-11f1-b710-b15e87d8ef65.jpg",
-    readTime: 6,
-  },
-  {
-    id: "mcdonald-s-earnings-beat-but-traffic-to-af69bf58",
-    title: "McDonald's earnings beat, but traffic to its U.S. restaurants falls",
-    titleJa: "McDonald's earnings beat, but traffic to its U.S. restaurants falls",
-    summaryJa: "McDonald's has leaned into discounts to attract budget-conscious diners over the last two years.",
-    bodyOriginal: `McDonald's on Wednesday reported mixed quarterly results as traffic to its U.S. restaurants fell, leading to a slight decline in domestic same-store sales.
-The fast-food giant reported a 0.2% decrease in sales at its U.S. restaurants that have been open at least 13 months. Even so, the segment performed better than the 0.5% decline that Wall Street anticipated, according to a survey of analysts by StreetAccount.
-At the company's investor day in September, executives said that same-store sales in July and August were slightly negative but they expected September to return to same-store sales growth.
-"In the U.S., we're encouraged by improvement as the quarter progressed following our intervention on value," McDonald's CEO Chris Kempczinski said in a statement.
-Kempczinski said in August that the company's U.S. business was falling short on execution, particularly on the implementation of its value offerings. Like many restaurants, McDonald's has leaned into discounts to attract budget-conscious diners over the last two years.
-Shares of the company rose more than 2% in premarket trading.
-Here's what the company reported compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: $3.57 adjusted vs. $3.38 expected
-- Revenue: $7.16 billion vs. $7.29 billion expected
-The company reported third-quarter net income of $2.49 billion, or $3.51 per share, up from $2.28 billion, or $3.18 per share, a year earlier.
-Excluding restructuring charges and other items, McDonald's earned $3.57 per share.
-Net revenue rose 1% to $7.16 billion.
-The company's same-store sales rose 1.5%, lifted by its international segments. That topped analysts' expectations of a 1.3% increase, according to StreetAccount.
-McDonald's international developmental licensed markets business, which includes Japan and China, reported same-store sales growth of 4.2%. Wall Street was forecasting same-store sales to rise 2.1% for the division, based on StreetAccount estimates.
-The company's international operated division, which includes top markets like Australia and Germany, saw same-store sales growth of 1.4%. Still, the business underperformed Wall Street's expectations. Analysts were projecting same-store sales would rise 2.1%, according to StreetAccount. France was a weak spot, McDonald's said.`,
-    bodyJa: `McDonald's on Wednesday reported mixed quarterly results as traffic to its U.S. restaurants fell, leading to a slight decline in domestic same-store sales.
-The fast-food giant reported a 0.2% decrease in sales at its U.S. restaurants that have been open at least 13 months. Even so, the segment performed better than the 0.5% decline that Wall Street anticipated, according to a survey of analysts by StreetAccount.
-At the company's investor day in September, executives said that same-store sales in July and August were slightly negative but they expected September to return to same-store sales growth.
-"In the U.S., we're encouraged by improvement as the quarter progressed following our intervention on value," McDonald's CEO Chris Kempczinski said in a statement.
-Kempczinski said in August that the company's U.S. business was falling short on execution, particularly on the implementation of its value offerings. Like many restaurants, McDonald's has leaned into discounts to attract budget-conscious diners over the last two years.
-Shares of the company rose more than 2% in premarket trading.
-Here's what the company reported compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: $3.57 adjusted vs. $3.38 expected
-- Revenue: $7.16 billion vs. $7.29 billion expected
-The company reported third-quarter net income of $2.49 billion, or $3.51 per share, up from $2.28 billion, or $3.18 per share, a year earlier.
-Excluding restructuring charges and other items, McDonald's earned $3.57 per share.
-Net revenue rose 1% to $7.16 billion.
-The company's same-store sales rose 1.5%, lifted by its international segments. That topped analysts' expectations of a 1.3% increase, according to StreetAccount.
-McDonald's international developmental licensed markets business, which includes Japan and China, reported same-store sales growth of 4.2%. Wall Street was forecasting same-store sales to rise 2.1% for the division, based on StreetAccount estimates.
-The company's international operated division, which includes top markets like Australia and Germany, saw same-store sales growth of 1.4%. Still, the business underperformed Wall Street's expectations. Analysts were projecting same-store sales would rise 2.1%, according to StreetAccount. France was a weak spot, McDonald's said.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/04/mcdonalds-is-about-to-report-earnings-heres-what-to-expect.html",
-    publishedAt: "2026-11-04T13:24:47+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "5-midterm-election-takeaways-tech-billio-bd6216b4",
-    title: "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
-    titleJa: "5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans",
-    summaryJa: "Elon Musk's spending may have become a liability as voters in exit polls raised concerns about government corruption and the growing influence of billionaires.",
-    bodyOriginal: `Democrats decisively took control of Congress Tuesday night, delivering a stinging rebuke to President Donald Trump and his economic record as voters voiced deep frustration with rising prices, government corruption and the AI data center build-out.
-The party scored an extraordinary pair of victories in traditionally Republican Texas. James Talarico defeated Ken Paxton, becoming the first Democrat elected to the U.S. Senate from the state in nearly four decades. Gina Hinojosa defeated three-term Gov. Greg Abbott, making her the first Democratic governor of Texas since Ann Richards left office in 1995. Texas became the clearest measure of how far the blue wave reached: Democrats swept the state's marquee races in a Republican stronghold long considered beyond their grasp.
-The victories were part of a broader wave of Democratic gains. In South Carolina, Democrat Annie Andrews upset Darline Graham in a race Republicans had expected to win. In Ohio, Sherrod Brown defeated Republican Sen. Jon Husted. Democrats also flipped Senate seats in Iowa and North Carolina and won key races in Georgia and New Hampshire.
-The results marked a striking collapse for Trump's candidates. Paxton, Graham and Husted were among the president's prominent picks who lost after he made dozens of endorsements.
-The election also sharpened the political fight over data centers and artificial intelligence infrastructure. Texas is a major center of planned data-center construction, and Hinojosa campaigned for a pause on new projects until the state adopts tougher rules. Her victory gives Democrats more influence over Texas' approach to the build-out, though the state Legislature remains in Republican hands.
-The results also delivered a blow to the tech billionaires and corporate interest groups that poured hundreds of millions of dollars into backing Republican candidates who might be friendly to the massive AI data center projects they hope to build around the country. Elon Musk, the world's richest man and the cycle's largest individual political donor, spent record sums in a failed effort to help Republicans retain power, including in Texas.
-Musk's spending may have become a liability as voters raised concerns about government corruption and the growing influence of billionaires in exit polls. Talarico repeatedly attacked Musk on the campaign trail, accusing him of trying to buy "his very own personal United States Senator."
-"Tonight's results are a wake-up call for corporate special interests and billionaires who have been rigging the economy," said Rep. Chris Pappas, who defeated former Republican Sen. John Sununu to win an open Senate seat in New Hampshire.
-The outcome is poised to reshape the technology sector's relationship with Washington. A more adversarial Congress is likely to intensify scrutiny of tech companies and the AI data center build-out. Markets reacted as the scale of Democratic gains became clear: Dow futures fell and S&P 500 futures slipped Tuesday evening.
-Economic frustration was also central to Democratic gains. Many voters blamed Trump's tariffs and the war with Iran for worsening their economic situation, while the cost of living remained a persistent strain.
-Democratic control of both chambers gives the party a powerful check on Trump in the final two years of his term, including the ability to block parts of his agenda and intensify congressional oversight. The results sent a clear warning: promises to bring down costs did not overcome voters' frustration with prices, corruption and the country's direction.
-1. Big tech loses as Democrats trounce after record-breaking spend
-Silicon Valley spent record sums trying to shape the election. Instead, it got a Democratic House promising to haul its CEOs before congressional investigators.
-Many of the winners ran against not just Trump, but the billionaire donors who helped bankroll Republicans. In North Carolina, Cooper told supporters that North Carolinians "will always matter more than the billionaires and the insiders."
-In Texas, Talarico defeated Paxton despite more than $200 million from SpaceX CEO Musk to stop him. On the same ballot, Hinojosa defeated Abbott after blaming him for the rapid buildout of data centers across Texas, saying the governor for putting Big Tech interests ahead of local communities.
-The GOP had a commanding advantage among the election's biggest donors. According to a CNBC analysis of Federal Election Commission records, 14 of the 20 largest donor groups backed Republicans exclusively or nearly so. Crypto, AI, and online gambling interests poured more than $377 million into races.
-Not all of Silicon Valley's money ended up on the losing side. LinkedIn co-founder Reid Hoffman, one of Democrats' biggest donors, cast the results as "an overwhelming wave against Trump and his cronies" and took a direct shot at Musk.
-"We should get money out of politics," Hoffman wrote on X late Tuesday. "And while people like Elon are spending outrageous amounts to keep authoritarian clowns in power, those of us who believe in the ideals of America cannot yield."
-2. Business — especially tech — is going to have to adjust their Washington strategy
-With control of the House comes the power to launch investigations, issue subpoenas and examine the Trump administration and its allies. That's going to be a challenge for tech companies to navigate as they find themselves in Democratic crosshairs.
-Democrats are already calling for AI executives to testify under oath.
-Among the first to seize on the results was Rep. Greg Casar, the Texas Democrat who chairs the Congressional Progressive Caucus.
-"The House Democratic majority must make it a top priority to protect Americans' jobs, freedom, and lives from AI billionaires," Casar said in a statement after Democrats were projected to win the House. "AI company CEOs should be called to testify under oath."
-Rep. Robert Garcia, D-Calif., the presumptive next chair of the oversight committee, put it more simply: "Lawyer up," he said in a statement.
-The results also present headwinds for the infrastructure undergirding AI.
-The Texas results appear to be a warning sign for the AI industry in a state projected to overtake Virginia as the world's biggest data center market by 2030, according to JLL. Abbott had long courted data center development before shifting his position this year as the backlash grew. Talarico and Hinojosa both seized on that anger, winning over Republican voters fed up with data centers going up in their communities. Hinojosa has promised to force lawmakers to regulate the industry.
-In a CNBC Voter Poll, 56% of voters said data centers were a crucial or major factor in their decision, with Democrats ranking the issue higher than Republicans.
-3. Redistricting flopped
-Trump personally pushed states to redistrict their congressional seats mid-decade to cement a Republican majority in the House. The effort largely flopped.
-Many of the GOP's redrawn districts ended up falling to Democrats, despite the unprecedented effort to defend or flip them by redrawing boundaries mid-decade.
-That includes seats in Texas, Florida and North Carolina, which Democrats won despite Republicans making them safer. In Texas, where Republicans began their redistricting war that then spread to other states, Democrats ended up winning most of the gerrymandered seats.
-The redistricting push was always risky because no recent census was available when the maps were drawn.
-4. Trump's vengeance tour came back to bite him
-Trump rolled out the red carpet for Paxton, only for Republicans to lose a Senate seat in Texas for the first time in over three decades.
-Talarico's victory in Texas came after Trump endorsed Paxton over the incumbent Sen. John Cornyn, R-Texas, who held the seat for decades. In endorsing Paxton, Trump said Cornyn had not been sufficiently loyal.
-Paxton prevailed in a bitter primary, and Trump's move to tip the scales spurned Senate Republicans, who saw Cornyn as a better and less expensive candidate than Paxton — who had a laundry list of scandals that plagued his campaign.
-Sen. Darline Graham, R-S.C., who Trump handpicked to replace her late brother Lindsey Graham, fell to Democrat Annie Andrews. And Republican Michael Whatley lost to former Gov. Roy Cooper in North Carolina.
-5. Democrats effectively tied corruption to affordability
-Democrats linked voter concerns over the cost of living to corruption in government in the lead-up to their colossal victory. The mix of the two helped propel corruption to be a top voter issue rather than a downballot concern.
-Public polling indicated before Tuesday night that the issue of corruption was landing with voters. CNBC's All-America Survey conducted in mid-October found corruption was voters' top concern. Exit polls on Tuesday also tied the two issues: 69% said benefits flow to the wealthy in CNBC's Voter Poll.
-The issue of corruption has exploded into public view during the second Trump term, as reports of Trump family business deals and the president's own ballooning wealth while in office dominate headlines.
-In victory speeches across the country, Democrats made clear they are committed to battling a "rigged" system — a line reminiscent of once-radical Bernie Sanders presidential campaigns.
-"We must get big money out of our politics, so no billionaire or trillionaire can buy our elections. We must unrig this economic system that only benefits the top one percent," Talarico said. "The real fight in this country is not left versus right. It is top versus bottom."`,
-    bodyJa: `Democrats decisively took control of Congress Tuesday night, delivering a stinging rebuke to President Donald Trump and his economic record as voters voiced deep frustration with rising prices, government corruption and the AI data center build-out.
-The party scored an extraordinary pair of victories in traditionally Republican Texas. James Talarico defeated Ken Paxton, becoming the first Democrat elected to the U.S. Senate from the state in nearly four decades. Gina Hinojosa defeated three-term Gov. Greg Abbott, making her the first Democratic governor of Texas since Ann Richards left office in 1995. Texas became the clearest measure of how far the blue wave reached: Democrats swept the state's marquee races in a Republican stronghold long considered beyond their grasp.
-The victories were part of a broader wave of Democratic gains. In South Carolina, Democrat Annie Andrews upset Darline Graham in a race Republicans had expected to win. In Ohio, Sherrod Brown defeated Republican Sen. Jon Husted. Democrats also flipped Senate seats in Iowa and North Carolina and won key races in Georgia and New Hampshire.
-The results marked a striking collapse for Trump's candidates. Paxton, Graham and Husted were among the president's prominent picks who lost after he made dozens of endorsements.
-The election also sharpened the political fight over data centers and artificial intelligence infrastructure. Texas is a major center of planned data-center construction, and Hinojosa campaigned for a pause on new projects until the state adopts tougher rules. Her victory gives Democrats more influence over Texas' approach to the build-out, though the state Legislature remains in Republican hands.
-The results also delivered a blow to the tech billionaires and corporate interest groups that poured hundreds of millions of dollars into backing Republican candidates who might be friendly to the massive AI data center projects they hope to build around the country. Elon Musk, the world's richest man and the cycle's largest individual political donor, spent record sums in a failed effort to help Republicans retain power, including in Texas.
-Musk's spending may have become a liability as voters raised concerns about government corruption and the growing influence of billionaires in exit polls. Talarico repeatedly attacked Musk on the campaign trail, accusing him of trying to buy "his very own personal United States Senator."
-"Tonight's results are a wake-up call for corporate special interests and billionaires who have been rigging the economy," said Rep. Chris Pappas, who defeated former Republican Sen. John Sununu to win an open Senate seat in New Hampshire.
-The outcome is poised to reshape the technology sector's relationship with Washington. A more adversarial Congress is likely to intensify scrutiny of tech companies and the AI data center build-out. Markets reacted as the scale of Democratic gains became clear: Dow futures fell and S&P 500 futures slipped Tuesday evening.
-Economic frustration was also central to Democratic gains. Many voters blamed Trump's tariffs and the war with Iran for worsening their economic situation, while the cost of living remained a persistent strain.
-Democratic control of both chambers gives the party a powerful check on Trump in the final two years of his term, including the ability to block parts of his agenda and intensify congressional oversight. The results sent a clear warning: promises to bring down costs did not overcome voters' frustration with prices, corruption and the country's direction.
-1. Big tech loses as Democrats trounce after record-breaking spend
-Silicon Valley spent record sums trying to shape the election. Instead, it got a Democratic House promising to haul its CEOs before congressional investigators.
-Many of the winners ran against not just Trump, but the billionaire donors who helped bankroll Republicans. In North Carolina, Cooper told supporters that North Carolinians "will always matter more than the billionaires and the insiders."
-In Texas, Talarico defeated Paxton despite more than $200 million from SpaceX CEO Musk to stop him. On the same ballot, Hinojosa defeated Abbott after blaming him for the rapid buildout of data centers across Texas, saying the governor for putting Big Tech interests ahead of local communities.
-The GOP had a commanding advantage among the election's biggest donors. According to a CNBC analysis of Federal Election Commission records, 14 of the 20 largest donor groups backed Republicans exclusively or nearly so. Crypto, AI, and online gambling interests poured more than $377 million into races.
-Not all of Silicon Valley's money ended up on the losing side. LinkedIn co-founder Reid Hoffman, one of Democrats' biggest donors, cast the results as "an overwhelming wave against Trump and his cronies" and took a direct shot at Musk.
-"We should get money out of politics," Hoffman wrote on X late Tuesday. "And while people like Elon are spending outrageous amounts to keep authoritarian clowns in power, those of us who believe in the ideals of America cannot yield."
-2. Business — especially tech — is going to have to adjust their Washington strategy
-With control of the House comes the power to launch investigations, issue subpoenas and examine the Trump administration and its allies. That's going to be a challenge for tech companies to navigate as they find themselves in Democratic crosshairs.
-Democrats are already calling for AI executives to testify under oath.
-Among the first to seize on the results was Rep. Greg Casar, the Texas Democrat who chairs the Congressional Progressive Caucus.
-"The House Democratic majority must make it a top priority to protect Americans' jobs, freedom, and lives from AI billionaires," Casar said in a statement after Democrats were projected to win the House. "AI company CEOs should be called to testify under oath."
-Rep. Robert Garcia, D-Calif., the presumptive next chair of the oversight committee, put it more simply: "Lawyer up," he said in a statement.
-The results also present headwinds for the infrastructure undergirding AI.
-The Texas results appear to be a warning sign for the AI industry in a state projected to overtake Virginia as the world's biggest data center market by 2030, according to JLL. Abbott had long courted data center development before shifting his position this year as the backlash grew. Talarico and Hinojosa both seized on that anger, winning over Republican voters fed up with data centers going up in their communities. Hinojosa has promised to force lawmakers to regulate the industry.
-In a CNBC Voter Poll, 56% of voters said data centers were a crucial or major factor in their decision, with Democrats ranking the issue higher than Republicans.
-3. Redistricting flopped
-Trump personally pushed states to redistrict their congressional seats mid-decade to cement a Republican majority in the House. The effort largely flopped.
-Many of the GOP's redrawn districts ended up falling to Democrats, despite the unprecedented effort to defend or flip them by redrawing boundaries mid-decade.
-That includes seats in Texas, Florida and North Carolina, which Democrats won despite Republicans making them safer. In Texas, where Republicans began their redistricting war that then spread to other states, Democrats ended up winning most of the gerrymandered seats.
-The redistricting push was always risky because no recent census was available when the maps were drawn.
-4. Trump's vengeance tour came back to bite him
-Trump rolled out the red carpet for Paxton, only for Republicans to lose a Senate seat in Texas for the first time in over three decades.
-Talarico's victory in Texas came after Trump endorsed Paxton over the incumbent Sen. John Cornyn, R-Texas, who held the seat for decades. In endorsing Paxton, Trump said Cornyn had not been sufficiently loyal.
-Paxton prevailed in a bitter primary, and Trump's move to tip the scales spurned Senate Republicans, who saw Cornyn as a better and less expensive candidate than Paxton — who had a laundry list of scandals that plagued his campaign.
-Sen. Darline Graham, R-S.C., who Trump handpicked to replace her late brother Lindsey Graham, fell to Democrat Annie Andrews. And Republican Michael Whatley lost to former Gov. Roy Cooper in North Carolina.
-5. Democrats effectively tied corruption to affordability
-Democrats linked voter concerns over the cost of living to corruption in government in the lead-up to their colossal victory. The mix of the two helped propel corruption to be a top voter issue rather than a downballot concern.
-Public polling indicated before Tuesday night that the issue of corruption was landing with voters. CNBC's All-America Survey conducted in mid-October found corruption was voters' top concern. Exit polls on Tuesday also tied the two issues: 69% said benefits flow to the wealthy in CNBC's Voter Poll.
-The issue of corruption has exploded into public view during the second Trump term, as reports of Trump family business deals and the president's own ballooning wealth while in office dominate headlines.
-In victory speeches across the country, Democrats made clear they are committed to battling a "rigged" system — a line reminiscent of once-radical Bernie Sanders presidential campaigns.
-"We must get big money out of our politics, so no billionaire or trillionaire can buy our elections. We must unrig this economic system that only benefits the top one percent," Talarico said. "The real fight in this country is not left versus right. It is top versus bottom."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html",
-    publishedAt: "2026-11-04T12:51:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
   },
 ];
 
