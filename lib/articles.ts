@@ -15,6 +15,396 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "how-democrats-will-try-to-end-trump-s-ta-1128c143",
+    title: "How Democrats will try to end Trump's tariffs",
+    titleJa: "How Democrats will try to end Trump's tariffs",
+    summaryJa: "Rep. Hakeem Jeffries, D-N.Y., who is likely the next House speaker, has made clear that ending President Trump's tariffs is one of Democrats' top priorities.",
+    bodyOriginal: `The battle for Congress is over. The war over President Donald Trump's tariffs is about to heat up.
+The knotted web of tariffs that Trump spent the last two years weaving could soon face its biggest threat, as Democrats prepare to unload their new legislative firepower against the Republican president's signature policy.
+Democrats have made no secret of their plans to bombard Trump and his associates with investigations as soon as the next Congress is sworn in. They are also preparing a first-100-hours legislative blitz, putting forward a series of bills that would unwind much of Trump's agenda.
+Both prongs of attack will take aim at Trump's unprecedented use of tariffs, which Democrats have quickly identified as a main target following their landslide victory in Tuesday's midterm elections.
+Ending Trump's tariff regime, and especially his trade war against Canada, is something Democrats "absolutely have to do immediately," Sen.-elect Abdul El-Sayed, D-Mich., told MS NOW's "Morning Joe" Thursday.
+Rep. Hakeem Jeffries of New York, the Democratic minority leader who could be elected House speaker in the next Congress, has made clear that ending Trump's tariffs is a top priority.
+"We should restore congressional authority as it relates to tariffs, because the Trump tariffs are making life more expensive for the American people," he said at a press conference in late August.
+If picked as speaker, Jeffries would speed legislation to the House floor that reasserts congressional authority over trade.
+Democrats are also laying the groundwork for investigations into Trump's tariffs, which the party folded into its winning campaign message linking high costs with alleged Trumpworld corruption.
+Rep. Jamie Raskin of Maryland, the top Democrat on the House Judiciary Committee, on Oct. 28 asked Trump to hand over records related to tariff exemptions. Trump, Raskin alleges, has wielded the exemption power to cut "sweetheart deals" for industries whose leaders have plied the president with gifts.
+The plans are likely to ratchet up the pressure, both legally and politically, that Trump's tariffs were already facing.
+The administration is already embroiled in multiple lawsuits challenging different parts of the government's tariff policy.
+The most recent suit, filed Oct. 20, targets Trump's use of a Great Depression-era law to impose 50% tariffs on a range of Canadian goods.
+Another court case accuses Trump of trying to recreate the near-global "liberation day" tariffs that the Supreme Court struck down as illegal in late February. The administration has since been ordered to refund $166 billion in tariff revenue it had collected under the scrapped policy.
+Congress, not the president, holds the power to levy taxes under the U.S. Constitution. Over decades, the legislative branch has ceded some of those powers to the executive. But Trump has asserted virtually unchecked tariff powers – which Democrats say they are intent on clawing back.
+"Every day Trump insists on his indiscriminate taxes on so many of the products Americans need, he digs a deeper hole for Republicans enabling his tariff spree," said Sen. Ron Wyden of Oregon, who is poised to lead the Senate Finance Committee when Democrats take it over.
+"If Democrats somehow had a veto-proof majority, or if voters shame Republicans into doing the right thing, there would be no shortage of trade policies to address," Wyden said in a statement to CNBC before Election Day.
+"One of the most obvious priorities would be repealing Trump's tariffs on Canada, which are raising prices and harming communities on both sides of the border," he said. "I'll also continue to work to ensure Congress has the final say on tariffs, so future presidents can't reenact Trump's economically disastrous trade taxes."
+The Wall Street Journal, citing Wyden, reported Thursday that Democrats are eyeing the Canada trade war as the "first target" in their efforts against his tariff agenda.
+Tariff headwinds
+As Wyden's statement suggested, the Senate's rules will hamper Democrats' anti-tariff efforts.
+Despite their blowout victory Tuesday night, the party will still lack a 60-vote filibuster-proof majority in the Senate, giving Republicans a crucial tool to block legislation even in their diminished state.
+Trump is also poised to lean heavily on his veto pen in the next Congress, presenting a major obstacle for Democrats' legislative priorities.
+Overriding a presidential veto requires two-thirds majorities in both the House and Senate, meaning that even with their historic electoral gains, Democrats would need significant Republican help to force a bill into law over Trump's objection.
+Democrats may consider it worthwhile to pass legislation even if Trump vetoes it, as doing so could help them build political narratives in the 2028 election cycle. But they may have other options available.
+"Absent the brute force of a veto-proof coalition, Congress might consider other political solutions, such as adding riders on 'must-pass' bills or negotiation with the administration," Kit Johnson, a senior tax manager for BDO's customs and international trade group, told CNBC in an email.
+How Trump might respond
+Trump has said he plans to use the veto power to force Democrats to the negotiating table. But when it comes to tariffs, it's hard to imagine what deal Trump might accept.
+Trump has tried to reshape U.S. trade, foreign and economic policy around his asserted power to slap steep duties on imported goods. He describes tariffs as a win-win, praising them as both a powerful negotiating tool and a major revenue generator.
+After Tuesday's election, Trump seemed to suggest tariffs were non-negotiable.
+"If I took tariffs off — we have 3,000 plants under construction right now. Every single plant would stop building," Trump told CNBC's Eamon Javers in a phone call Wednesday.
+Since taking office in January 2025, Trump has hiked tariffs on nearly every country on the planet, leading to multiple protracted trade wars, most notably against Canada and China. He insists Americans do not share the burden of the duties, even though tariffs by definition are taxes on foreign goods paid by those importing them. The nonprofit Tax Foundation estimates Trump's tariffs have raised the average U.S. household's tax burden by $820 in 2026.
+Trump has also consistently overstated the amount of revenue the government has amassed through his tariffs. He claimed before Election Day that tariffs enabled him to offer every U.S. adult $5,000 "dividend" checks if Republicans were to win both chambers of Congress – a plan that would cost roughly $1.2 trillion. But the duties – which are collected from U.S. importers – have only brought in around $300 billion in total between January 2025 and July 2026, according to the Penn Wharton Budget Model.
+What's more, about $138 billion of that total has been refunded since the Supreme Court ruling in February. Nearly $20 billion in tariff collections are still set to be refunded.
+Most voters do not share Trump's rosy view of tariffs. Sixty-five percent of respondents to the CNBC Voter Poll on Nov. 3 said the duties have hurt the U.S. economy, while just 22% say they helped.
+What remains to be seen is how hard Republicans in Congress will push back on Democrats' efforts.
+A number of GOP lawmakers came out against the duties during the campaign, as their opponents gained ground blaming inflation on Trump's tariffs and the Iran war.
+As they try to regroup and look forward to the 2028 election cycle, some Republicans – who largely supported free trade prior to Trump's political rise – may be less willing to continue aligning themselves with Trump's aggressive protectionism.`,
+    bodyJa: `The battle for Congress is over. The war over President Donald Trump's tariffs is about to heat up.
+The knotted web of tariffs that Trump spent the last two years weaving could soon face its biggest threat, as Democrats prepare to unload their new legislative firepower against the Republican president's signature policy.
+Democrats have made no secret of their plans to bombard Trump and his associates with investigations as soon as the next Congress is sworn in. They are also preparing a first-100-hours legislative blitz, putting forward a series of bills that would unwind much of Trump's agenda.
+Both prongs of attack will take aim at Trump's unprecedented use of tariffs, which Democrats have quickly identified as a main target following their landslide victory in Tuesday's midterm elections.
+Ending Trump's tariff regime, and especially his trade war against Canada, is something Democrats "absolutely have to do immediately," Sen.-elect Abdul El-Sayed, D-Mich., told MS NOW's "Morning Joe" Thursday.
+Rep. Hakeem Jeffries of New York, the Democratic minority leader who could be elected House speaker in the next Congress, has made clear that ending Trump's tariffs is a top priority.
+"We should restore congressional authority as it relates to tariffs, because the Trump tariffs are making life more expensive for the American people," he said at a press conference in late August.
+If picked as speaker, Jeffries would speed legislation to the House floor that reasserts congressional authority over trade.
+Democrats are also laying the groundwork for investigations into Trump's tariffs, which the party folded into its winning campaign message linking high costs with alleged Trumpworld corruption.
+Rep. Jamie Raskin of Maryland, the top Democrat on the House Judiciary Committee, on Oct. 28 asked Trump to hand over records related to tariff exemptions. Trump, Raskin alleges, has wielded the exemption power to cut "sweetheart deals" for industries whose leaders have plied the president with gifts.
+The plans are likely to ratchet up the pressure, both legally and politically, that Trump's tariffs were already facing.
+The administration is already embroiled in multiple lawsuits challenging different parts of the government's tariff policy.
+The most recent suit, filed Oct. 20, targets Trump's use of a Great Depression-era law to impose 50% tariffs on a range of Canadian goods.
+Another court case accuses Trump of trying to recreate the near-global "liberation day" tariffs that the Supreme Court struck down as illegal in late February. The administration has since been ordered to refund $166 billion in tariff revenue it had collected under the scrapped policy.
+Congress, not the president, holds the power to levy taxes under the U.S. Constitution. Over decades, the legislative branch has ceded some of those powers to the executive. But Trump has asserted virtually unchecked tariff powers – which Democrats say they are intent on clawing back.
+"Every day Trump insists on his indiscriminate taxes on so many of the products Americans need, he digs a deeper hole for Republicans enabling his tariff spree," said Sen. Ron Wyden of Oregon, who is poised to lead the Senate Finance Committee when Democrats take it over.
+"If Democrats somehow had a veto-proof majority, or if voters shame Republicans into doing the right thing, there would be no shortage of trade policies to address," Wyden said in a statement to CNBC before Election Day.
+"One of the most obvious priorities would be repealing Trump's tariffs on Canada, which are raising prices and harming communities on both sides of the border," he said. "I'll also continue to work to ensure Congress has the final say on tariffs, so future presidents can't reenact Trump's economically disastrous trade taxes."
+The Wall Street Journal, citing Wyden, reported Thursday that Democrats are eyeing the Canada trade war as the "first target" in their efforts against his tariff agenda.
+Tariff headwinds
+As Wyden's statement suggested, the Senate's rules will hamper Democrats' anti-tariff efforts.
+Despite their blowout victory Tuesday night, the party will still lack a 60-vote filibuster-proof majority in the Senate, giving Republicans a crucial tool to block legislation even in their diminished state.
+Trump is also poised to lean heavily on his veto pen in the next Congress, presenting a major obstacle for Democrats' legislative priorities.
+Overriding a presidential veto requires two-thirds majorities in both the House and Senate, meaning that even with their historic electoral gains, Democrats would need significant Republican help to force a bill into law over Trump's objection.
+Democrats may consider it worthwhile to pass legislation even if Trump vetoes it, as doing so could help them build political narratives in the 2028 election cycle. But they may have other options available.
+"Absent the brute force of a veto-proof coalition, Congress might consider other political solutions, such as adding riders on 'must-pass' bills or negotiation with the administration," Kit Johnson, a senior tax manager for BDO's customs and international trade group, told CNBC in an email.
+How Trump might respond
+Trump has said he plans to use the veto power to force Democrats to the negotiating table. But when it comes to tariffs, it's hard to imagine what deal Trump might accept.
+Trump has tried to reshape U.S. trade, foreign and economic policy around his asserted power to slap steep duties on imported goods. He describes tariffs as a win-win, praising them as both a powerful negotiating tool and a major revenue generator.
+After Tuesday's election, Trump seemed to suggest tariffs were non-negotiable.
+"If I took tariffs off — we have 3,000 plants under construction right now. Every single plant would stop building," Trump told CNBC's Eamon Javers in a phone call Wednesday.
+Since taking office in January 2025, Trump has hiked tariffs on nearly every country on the planet, leading to multiple protracted trade wars, most notably against Canada and China. He insists Americans do not share the burden of the duties, even though tariffs by definition are taxes on foreign goods paid by those importing them. The nonprofit Tax Foundation estimates Trump's tariffs have raised the average U.S. household's tax burden by $820 in 2026.
+Trump has also consistently overstated the amount of revenue the government has amassed through his tariffs. He claimed before Election Day that tariffs enabled him to offer every U.S. adult $5,000 "dividend" checks if Republicans were to win both chambers of Congress – a plan that would cost roughly $1.2 trillion. But the duties – which are collected from U.S. importers – have only brought in around $300 billion in total between January 2025 and July 2026, according to the Penn Wharton Budget Model.
+What's more, about $138 billion of that total has been refunded since the Supreme Court ruling in February. Nearly $20 billion in tariff collections are still set to be refunded.
+Most voters do not share Trump's rosy view of tariffs. Sixty-five percent of respondents to the CNBC Voter Poll on Nov. 3 said the duties have hurt the U.S. economy, while just 22% say they helped.
+What remains to be seen is how hard Republicans in Congress will push back on Democrats' efforts.
+A number of GOP lawmakers came out against the duties during the campaign, as their opponents gained ground blaming inflation on Trump's tariffs and the Iran war.
+As they try to regroup and look forward to the 2028 election cycle, some Republicans – who largely supported free trade prior to Trump's political rise – may be less willing to continue aligning themselves with Trump's aggressive protectionism.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
+    publishedAt: "2026-11-08T13:00:01+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "using-miles-to-fly-for-thanksgiving-thes-44420f65",
+    title: "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
+    titleJa: "Using miles to fly for Thanksgiving? These are the most expensive and cheapest routes",
+    summaryJa: "Thanksgiving airfare will cost more than last year as fares rise and strong demand continues.",
+    bodyOriginal: `Airline ticket prices have surged this year, especially for travel over the holidays. Don't expect many bargains if you're booking flights with miles, either.
+Tickets bought with frequent flyer miles for flights between large U.S. airports over the Thanksgiving travel period will cost 32% more than last year's holiday, according to data from Seats.aero, a miles and points redemption search site. While fares have skyrocketed this year, airline executives last month said demand remains strong.
+Airlines have largely gotten rid of static mileage redemption charts in favor of dynamic pricing, making budgeting for an award ticket more difficult. Dynamic pricing means redemption costs change depending on demand, routes and other factors.
+Many of the most expensive routes this Thanksgiving are understandably longer, including from Hawaii, but the list also includes a nonstop from New York to Houston.
+Here's how mileage redemptions for the holiday are stacking up, based on one-way flights on average as of early November and compared with last year:
+Jet fuel prices have surged since the U.S. and Israel attacked Iran on Feb. 28, which has eaten into airline profits. Carriers have sought to pass costs along to consumers as much as possible.
+Even some of the cheapest routes for award tickets are more expensive than last year, including for short routes like Tulsa, Oklahoma, to Dallas Fort Worth International Airport.
+Here are the routes where award trips are cheapest on average and how they compare with the Thanksgiving holiday last year:`,
+    bodyJa: `Airline ticket prices have surged this year, especially for travel over the holidays. Don't expect many bargains if you're booking flights with miles, either.
+Tickets bought with frequent flyer miles for flights between large U.S. airports over the Thanksgiving travel period will cost 32% more than last year's holiday, according to data from Seats.aero, a miles and points redemption search site. While fares have skyrocketed this year, airline executives last month said demand remains strong.
+Airlines have largely gotten rid of static mileage redemption charts in favor of dynamic pricing, making budgeting for an award ticket more difficult. Dynamic pricing means redemption costs change depending on demand, routes and other factors.
+Many of the most expensive routes this Thanksgiving are understandably longer, including from Hawaii, but the list also includes a nonstop from New York to Houston.
+Here's how mileage redemptions for the holiday are stacking up, based on one-way flights on average as of early November and compared with last year:
+Jet fuel prices have surged since the U.S. and Israel attacked Iran on Feb. 28, which has eaten into airline profits. Carriers have sought to pass costs along to consumers as much as possible.
+Even some of the cheapest routes for award tickets are more expensive than last year, including for short routes like Tulsa, Oklahoma, to Dallas Fort Worth International Airport.
+Here are the routes where award trips are cheapest on average and how they compare with the Thanksgiving holiday last year:`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/08/frequent-flyer-miles-points-thanksgiving.html",
+    publishedAt: "2026-11-08T13:00:01+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "amazon-s-astro-home-robot-has-fans-but-l-1ef7b30a",
+    title: "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
+    titleJa: "Amazon's Astro home robot has fans but looks destined for the 'trash heap.' Why it's trying again",
+    summaryJa: "Amazon has formed a new home robotics team and is hiring for a “new-to-world robot product,” according to CNBC’s analysis of job posts.",
+    bodyOriginal: `Jeff Bezos made a bold bet in 2017. A sci-fi and robotics enthusiast, Bezos was convinced that consumers would have a robot in their home in the not-too-distant future.
+The Amazon founder and then-CEO told a group of the company's top device executives to get to work on building one, and within a few years, the team came up with the $1,450 Astro.
+The public got its first look at Astro, essentially an Alexa-equipped tablet on wheels that can autonomously navigate a home, recognize faces and act as a roving security monitor, when it rolled on stage at Amazon's fall 2021 event.
+But it never evolved beyond an invite-only product. Astro shipped to just a few thousand customers, some of whom now believe the robot's days are numbered. The company also released an Astro for businesses in 2023, before sunsetting it less than a year later.
+Amazon isn't giving up on Bezos' dream of a household robot just yet, despite its stumbles with Astro.
+Over the past several months, the company has assembled a new team that's working on a "new-to-world robot product," according to a CNBC analysis of job posts.
+"Robots are about to step out of the movies and into our homes," a recent job listing for an engineer, which has since been removed, stated. The post details a product capable of navigating "dynamic home environments" and "autonomous operation alongside family members."
+Amazon is known for making long-term bets at the risk of "being misunderstood" in the short term if it gives the company an early advantage in new markets, like it did with the Alexa voice assistant or Kindle e-reader.
+CEO Andy Jassy reminded investors of this approach in his latest annual letter, where he said artificial intelligence and robotics were among the "biggest inflections of our lifetime."
+"We try to anticipate what will make customers' lives easier and better every day, and invent the next inflection," Jassy wrote.
+Analysts also expect the humanoid market to surge in the coming years. Barclays forecast in a January report that the global market, which it currently values at $2 billion to $3 billion, could reach roughly $40 billion by 2035, or as high as $200 billion "under the most optimistic scenarios."
+Earlier this year, Amazon redeployed much of the team behind Astro and brought in an MIT roboticist to work on the home robot project, LinkedIn profiles show.
+It also made a splashy acquisition to supercharge the effort.
+In March, Amazon scooped up New York-based Fauna Robotics, which has built a 3.5-foot-tall humanoid called Sprout. At the time, the company said Fauna would become part of a new division dubbed the Personal Robotics Group.
+Some Personal Robotics Group staffers previously worked in Amazon's Lab126 R&D unit, which has been behind many of Amazon's most successful consumer hardware products, like the Kindle e-reader, Echo smart speakers, Fire TV and Fire Tablet. Lab126 was also behind one of Amazon's biggest flops, the Fire Phone.
+It's unclear what kind of home robot the group is developing, or the types of tasks it could handle, but a June job posting hinted at an effort to "create robots that are not just functional, but delightful."
+Amazon could be looking to adapt Fauna's robots for homes or businesses. The Sprout humanoid, which was designed to be "friendly and capable" with expressive yellow eyebrows, has primarily been used by developers, as well as commercial and academic researchers.
+An Amazon job posting published online in October describes a "Field Support Engineer" who can assist with customer support and on-site repair, while another listing seeks a user experience designer to "define what it feels like to live with a Fauna robot."
+"Our goal is simple: make robots people actually want to live and interact with in everyday human spaces," the listing states.
+Amazon spokesperson Brad Glasser told CNBC in a statement that the company acquired Fauna because it's "committed to tackling the challenges that can unlock the personal robotics category."
+"We're optimistic about a future where personal robots are helping people in meaningful ways in everyday life, and we intend to play an important role in making that future a reality," Glasser said.
+Glasser noted that there remains a substantial gap between what's possible in a controlled lab and what's possible in settings like the living room or a lobby. Amazon is working with the robotics community to solve these challenges, he said.
+Emily Lugo Velez has been living with the Astro in her North Carolina home since 2023. Lugo Velez, who worked in IT and now runs an AI advisory business, said she and her husband weren't fazed by the robot's $1,000-plus price tag and quickly joined the waitlist.
+"We spent so much money on this thing," Lugo Velez, 52, said in an interview. "I feel like we're just stuck with it, and we'll let it run around the house until it eventually dies, then send it to the trash heap."
+She said she still uses the device to check on her pets and appliances when she's out of the house. But beyond that, Astro has primarily become a party trick and a "trip hazard."
+Most days, she tells Astro to go back to its charging dock.
+Executives who worked on Astro had discussed making it more capable by attaching an arm to pick up and inspect items without breaking them, said Ken Washington, who served as Amazon's VP of consumer robotics until 2023.
+He told CNBC that he pushed for a bipedal robot, but leadership disagreed.
+"We had Jeff [Bezos] in for show and tells and reviews, and I watched his body language pretty closely," Washington said. "I think he was disappointed with the lack of functionality, but I think he was impressed with its ability to map and navigate an undefined space under all lighting conditions."
+For all the struggles with Astro, Amazon has a rich history in robotics.
+The company acquired Kiva Systems for $775 million in 2012, which introduced mobile robots to its vast fulfillment network. Since then, Amazon's warehouse automation efforts have ballooned to over one million robots across its facilities that can pick, sort and ferry items to workers.
+But homes offer unique obstacles for robots to navigate.
+"The home is a completely different space," said Jeff Burnstein, president of the trade group Association for Advancing Automation, who has been in the robotics industry for 45 years. "Children, pets, grandparents, stairways. Nobody's home is set up exactly the same, so it's a much more challenging environment for a robot, certainly a robot that's walking."
+Amazon may have more luck its second time around because the tools for building robots have advanced by "leaps and bounds" over the past few years, said Colin Angle, a co-founder and former CEO of Roomba maker iRobot.
+Amazon attempted to acquire iRobot in 2022 before walking away from the deal two years later amid growing regulatory pushback.
+"The toolkit that the Astro team had when they did it was clubs with nails in them, just incredibly primitive," Angle said. "It's difficult to understate just how much the robot industry has changed in the last two years."
+Advances in AI models, sensors, battery systems and key mechanical components like actuators have spurred a new wave of development around robots for industrial and consumer use.
+Elon Musk's Tesla has been developing its bipedal Optimus robots since 2021. Startups including Apptronik, Boston Dynamics, China's Unitree, Figure and 1X are also building humanoids. Agility Robotics, the company behind the bipedal Digit robot that counts Amazon as one of its backers, went public via a SPAC on Thursday.
+Venture capital firms poured $33.4 billion into robotics and physical AI companies in the first half of the year, compared with $28.7 billion for all of 2025, according to PitchBook data.
+Most humanoids are being developed with the manufacturing, logistics and healthcare industries in mind, but a growing group of companies are attempting to build robots for the home.
+Apple is reportedly working on several home robot projects, including a tabletop device that resembles the Pixar lamp. Hugging Face, which Nvidia agreed to acquire for almost $13 billion in September, released the $399 Microduck in August. Angle, in May, launched a startup building fuzzy companion robots called Familiar Machines & Magic. Companies including Sunday, Tau and Nori claim their robots can help with household chores like folding laundry and clearing the table, but they remain mostly prototype or niche devices.
+"[Astro] was so ahead of its time," Washington said. "It was such a big, massive leap that I felt like we had the right to own the home."
+The robot's limited functionality and its $1,000-plus price tag likely made it a tough sell for many consumers, said a former Amazon employee who worked on Astro, who asked not to be named in order to speak frankly about the project.
+"Our poor little Astro was around $2,000 when it came out, and that's a lot," the ex-employee said. "That's a lot for a consumer, and they want a robot that does a lot."
+Amazon takes a long term view on new markets like personal robotics, and values what can be gained by being an early entrant, Glasser said.
+Astro was designed to help Amazon build competencies and focus its ambition, he added. The company has applied many of the learnings, talent and experience from Astro into its other robotics efforts, Glasser said.
+In Facebook groups for Astro owners, users have complained of diminished customer service and griped that Amazon's AIexa+ AI assistant isn't supported on Astro.
+Some users have interpreted this to mean Astro could be discontinued. Others have tried to dump their units at a discount on eBay and Facebook Marketplace.
+Glasser said Amazon continues to support Astro customers.
+Joe Martin, an Astro owner who lives near Tucson, Arizona, said he feels he's gotten his money's worth out of the device over the past four years. He'd welcome another robot into his home if it could do more, like helping out around the house.
+"Astro was $1,000 and it was pretty limited, but if it could bring a drink to me or dust furniture, I'd be intrigued by that," Martin, 65, said. "I think that's right around the corner."`,
+    bodyJa: `Jeff Bezos made a bold bet in 2017. A sci-fi and robotics enthusiast, Bezos was convinced that consumers would have a robot in their home in the not-too-distant future.
+The Amazon founder and then-CEO told a group of the company's top device executives to get to work on building one, and within a few years, the team came up with the $1,450 Astro.
+The public got its first look at Astro, essentially an Alexa-equipped tablet on wheels that can autonomously navigate a home, recognize faces and act as a roving security monitor, when it rolled on stage at Amazon's fall 2021 event.
+But it never evolved beyond an invite-only product. Astro shipped to just a few thousand customers, some of whom now believe the robot's days are numbered. The company also released an Astro for businesses in 2023, before sunsetting it less than a year later.
+Amazon isn't giving up on Bezos' dream of a household robot just yet, despite its stumbles with Astro.
+Over the past several months, the company has assembled a new team that's working on a "new-to-world robot product," according to a CNBC analysis of job posts.
+"Robots are about to step out of the movies and into our homes," a recent job listing for an engineer, which has since been removed, stated. The post details a product capable of navigating "dynamic home environments" and "autonomous operation alongside family members."
+Amazon is known for making long-term bets at the risk of "being misunderstood" in the short term if it gives the company an early advantage in new markets, like it did with the Alexa voice assistant or Kindle e-reader.
+CEO Andy Jassy reminded investors of this approach in his latest annual letter, where he said artificial intelligence and robotics were among the "biggest inflections of our lifetime."
+"We try to anticipate what will make customers' lives easier and better every day, and invent the next inflection," Jassy wrote.
+Analysts also expect the humanoid market to surge in the coming years. Barclays forecast in a January report that the global market, which it currently values at $2 billion to $3 billion, could reach roughly $40 billion by 2035, or as high as $200 billion "under the most optimistic scenarios."
+Earlier this year, Amazon redeployed much of the team behind Astro and brought in an MIT roboticist to work on the home robot project, LinkedIn profiles show.
+It also made a splashy acquisition to supercharge the effort.
+In March, Amazon scooped up New York-based Fauna Robotics, which has built a 3.5-foot-tall humanoid called Sprout. At the time, the company said Fauna would become part of a new division dubbed the Personal Robotics Group.
+Some Personal Robotics Group staffers previously worked in Amazon's Lab126 R&D unit, which has been behind many of Amazon's most successful consumer hardware products, like the Kindle e-reader, Echo smart speakers, Fire TV and Fire Tablet. Lab126 was also behind one of Amazon's biggest flops, the Fire Phone.
+It's unclear what kind of home robot the group is developing, or the types of tasks it could handle, but a June job posting hinted at an effort to "create robots that are not just functional, but delightful."
+Amazon could be looking to adapt Fauna's robots for homes or businesses. The Sprout humanoid, which was designed to be "friendly and capable" with expressive yellow eyebrows, has primarily been used by developers, as well as commercial and academic researchers.
+An Amazon job posting published online in October describes a "Field Support Engineer" who can assist with customer support and on-site repair, while another listing seeks a user experience designer to "define what it feels like to live with a Fauna robot."
+"Our goal is simple: make robots people actually want to live and interact with in everyday human spaces," the listing states.
+Amazon spokesperson Brad Glasser told CNBC in a statement that the company acquired Fauna because it's "committed to tackling the challenges that can unlock the personal robotics category."
+"We're optimistic about a future where personal robots are helping people in meaningful ways in everyday life, and we intend to play an important role in making that future a reality," Glasser said.
+Glasser noted that there remains a substantial gap between what's possible in a controlled lab and what's possible in settings like the living room or a lobby. Amazon is working with the robotics community to solve these challenges, he said.
+Emily Lugo Velez has been living with the Astro in her North Carolina home since 2023. Lugo Velez, who worked in IT and now runs an AI advisory business, said she and her husband weren't fazed by the robot's $1,000-plus price tag and quickly joined the waitlist.
+"We spent so much money on this thing," Lugo Velez, 52, said in an interview. "I feel like we're just stuck with it, and we'll let it run around the house until it eventually dies, then send it to the trash heap."
+She said she still uses the device to check on her pets and appliances when she's out of the house. But beyond that, Astro has primarily become a party trick and a "trip hazard."
+Most days, she tells Astro to go back to its charging dock.
+Executives who worked on Astro had discussed making it more capable by attaching an arm to pick up and inspect items without breaking them, said Ken Washington, who served as Amazon's VP of consumer robotics until 2023.
+He told CNBC that he pushed for a bipedal robot, but leadership disagreed.
+"We had Jeff [Bezos] in for show and tells and reviews, and I watched his body language pretty closely," Washington said. "I think he was disappointed with the lack of functionality, but I think he was impressed with its ability to map and navigate an undefined space under all lighting conditions."
+For all the struggles with Astro, Amazon has a rich history in robotics.
+The company acquired Kiva Systems for $775 million in 2012, which introduced mobile robots to its vast fulfillment network. Since then, Amazon's warehouse automation efforts have ballooned to over one million robots across its facilities that can pick, sort and ferry items to workers.
+But homes offer unique obstacles for robots to navigate.
+"The home is a completely different space," said Jeff Burnstein, president of the trade group Association for Advancing Automation, who has been in the robotics industry for 45 years. "Children, pets, grandparents, stairways. Nobody's home is set up exactly the same, so it's a much more challenging environment for a robot, certainly a robot that's walking."
+Amazon may have more luck its second time around because the tools for building robots have advanced by "leaps and bounds" over the past few years, said Colin Angle, a co-founder and former CEO of Roomba maker iRobot.
+Amazon attempted to acquire iRobot in 2022 before walking away from the deal two years later amid growing regulatory pushback.
+"The toolkit that the Astro team had when they did it was clubs with nails in them, just incredibly primitive," Angle said. "It's difficult to understate just how much the robot industry has changed in the last two years."
+Advances in AI models, sensors, battery systems and key mechanical components like actuators have spurred a new wave of development around robots for industrial and consumer use.
+Elon Musk's Tesla has been developing its bipedal Optimus robots since 2021. Startups including Apptronik, Boston Dynamics, China's Unitree, Figure and 1X are also building humanoids. Agility Robotics, the company behind the bipedal Digit robot that counts Amazon as one of its backers, went public via a SPAC on Thursday.
+Venture capital firms poured $33.4 billion into robotics and physical AI companies in the first half of the year, compared with $28.7 billion for all of 2025, according to PitchBook data.
+Most humanoids are being developed with the manufacturing, logistics and healthcare industries in mind, but a growing group of companies are attempting to build robots for the home.
+Apple is reportedly working on several home robot projects, including a tabletop device that resembles the Pixar lamp. Hugging Face, which Nvidia agreed to acquire for almost $13 billion in September, released the $399 Microduck in August. Angle, in May, launched a startup building fuzzy companion robots called Familiar Machines & Magic. Companies including Sunday, Tau and Nori claim their robots can help with household chores like folding laundry and clearing the table, but they remain mostly prototype or niche devices.
+"[Astro] was so ahead of its time," Washington said. "It was such a big, massive leap that I felt like we had the right to own the home."
+The robot's limited functionality and its $1,000-plus price tag likely made it a tough sell for many consumers, said a former Amazon employee who worked on Astro, who asked not to be named in order to speak frankly about the project.
+"Our poor little Astro was around $2,000 when it came out, and that's a lot," the ex-employee said. "That's a lot for a consumer, and they want a robot that does a lot."
+Amazon takes a long term view on new markets like personal robotics, and values what can be gained by being an early entrant, Glasser said.
+Astro was designed to help Amazon build competencies and focus its ambition, he added. The company has applied many of the learnings, talent and experience from Astro into its other robotics efforts, Glasser said.
+In Facebook groups for Astro owners, users have complained of diminished customer service and griped that Amazon's AIexa+ AI assistant isn't supported on Astro.
+Some users have interpreted this to mean Astro could be discontinued. Others have tried to dump their units at a discount on eBay and Facebook Marketplace.
+Glasser said Amazon continues to support Astro customers.
+Joe Martin, an Astro owner who lives near Tucson, Arizona, said he feels he's gotten his money's worth out of the device over the past four years. He'd welcome another robot into his home if it could do more, like helping out around the house.
+"Astro was $1,000 and it was pretty limited, but if it could bring a drink to me or dust furniture, I'd be intrigued by that," Martin, 65, said. "I think that's right around the corner."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/08/amazon-home-robot-fauna-sprout.html",
+    publishedAt: "2026-11-08T13:00:01+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "this-market-signal-called-the-tech-sello-031f99a2",
+    title: "This market signal called the tech selloff. Now it’s sending another warning.",
+    titleJa: "This market signal called the tech selloff. Now it’s sending another warning.",
+    summaryJa: "Correlations between individual stocks recently hit a record low, and a reversion to the mean may not be a good thing for the market.",
+    bodyOriginal: `Correlations between individual stocks recently hit a record low, and a reversion to the mean may not be a good thing for the market.`,
+    bodyJa: `Correlations between individual stocks recently hit a record low, and a reversion to the mean may not be a good thing for the market.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/this-market-signal-called-the-tech-selloff-now-its-sending-another-warning-f7f8eb9b?mod=mw_rss_topstories",
+    publishedAt: "2026-11-08T12:00:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-68677954",
+    readTime: 2,
+  },
+  {
+    id: "government-looking-seriously-at-banning-1fc8f37b",
+    title: "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+    titleJa: "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+    summaryJa: "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+    bodyOriginal: `Government 'looking seriously' at banning under-16s from Vinted and eBay
+- Published
+Vinted and eBay could be included in the list of platforms set to be banned for under-16s, the culture secretary has said.
+Lisa Nandy said the government was "looking seriously" at including the retailing websites in the social media ban "in order to keep children safe".
+The UK's social media ban for those under the age of 16 is set to come into force in March next year, with children barred from accessing platforms such as Instagram, TikTok and Snapchat.
+In response, eBay said it was looking forward to "understanding more and continuing to work constructively with the government". Vinted has not responded to requests for comment.
+Asked on the BBC's Sunday with Laura Kuenssberg if the government was looking to ban under-16s from Vinted and eBay, Nandy said: "We are looking seriously at doing so in order to keep children safe."
+It came after the Sunday Times reported, external that the UK's social media ban was being expanded to include the platforms, which are popular for selling second-hand goods.
+The newspaper said the move was over fears that messaging functions allowed strangers to groom children. It suggested similar reselling platforms, Depop and Facebook Marketplace, would also be included in the list of banned sites.
+Businesses and individuals sell a host of goods on eBay, which has been a major global player in the online reselling market for years. The platform states on its website that it currently requires all of its members to be over 18 years old because listings involve "entering into a contract".
+Vinted also says its users need to be at least 18 years old. The site, which mostly sees users buy and sell unwanted clothes and other fashion items, has grown rapidly in recent times to reach 17 million UK users.
+An eBay spokesperson said the company was "focused on providing a trusted and safe marketplace experience for our millions of customers".
+"While the details of the proposed legislation are not yet clear, we look forward to understanding more and continuing to work constructively with the government," they added in a statement.
+The government announced it would ban under-16s accessing social media in June this year, with children prevented from accessing 10 of the biggest platforms.
+YouTube will also be banned for under-16s, but YouTube Kids - a version of the video-sharing app designed to be safe for children - will not be included.
+A complete list of affected platforms has not yet been released, but the government said it would cover those "whose purpose is to enable social interaction and which allow users to post material".
+That means platforms which have livestreaming or features that enable the potential for strangers to contact children will also be restricted, which includes gaming sites.
+It does not mean that Roblox, the biggest gaming site in the UK for eight to 12-year-olds for example, will be banned for under-16s. However, certain features such as its chat function will be restricted.
+The UK's ban comes after a similar one was introduced in Australia last year.
+Many children there have found ways to get round it, but the UK has said it intends to take a tougher approach.
+In recent weeks, attention has turned to how such a ban would be enforced.
+Last month, the communications regulator Ofcom set out its recommendations for the most effective ways to identify which of the UK's millions of social media users are aged over 16.`,
+    bodyJa: `Government 'looking seriously' at banning under-16s from Vinted and eBay
+- Published
+Vinted and eBay could be included in the list of platforms set to be banned for under-16s, the culture secretary has said.
+Lisa Nandy said the government was "looking seriously" at including the retailing websites in the social media ban "in order to keep children safe".
+The UK's social media ban for those under the age of 16 is set to come into force in March next year, with children barred from accessing platforms such as Instagram, TikTok and Snapchat.
+In response, eBay said it was looking forward to "understanding more and continuing to work constructively with the government". Vinted has not responded to requests for comment.
+Asked on the BBC's Sunday with Laura Kuenssberg if the government was looking to ban under-16s from Vinted and eBay, Nandy said: "We are looking seriously at doing so in order to keep children safe."
+It came after the Sunday Times reported, external that the UK's social media ban was being expanded to include the platforms, which are popular for selling second-hand goods.
+The newspaper said the move was over fears that messaging functions allowed strangers to groom children. It suggested similar reselling platforms, Depop and Facebook Marketplace, would also be included in the list of banned sites.
+Businesses and individuals sell a host of goods on eBay, which has been a major global player in the online reselling market for years. The platform states on its website that it currently requires all of its members to be over 18 years old because listings involve "entering into a contract".
+Vinted also says its users need to be at least 18 years old. The site, which mostly sees users buy and sell unwanted clothes and other fashion items, has grown rapidly in recent times to reach 17 million UK users.
+An eBay spokesperson said the company was "focused on providing a trusted and safe marketplace experience for our millions of customers".
+"While the details of the proposed legislation are not yet clear, we look forward to understanding more and continuing to work constructively with the government," they added in a statement.
+The government announced it would ban under-16s accessing social media in June this year, with children prevented from accessing 10 of the biggest platforms.
+YouTube will also be banned for under-16s, but YouTube Kids - a version of the video-sharing app designed to be safe for children - will not be included.
+A complete list of affected platforms has not yet been released, but the government said it would cover those "whose purpose is to enable social interaction and which allow users to post material".
+That means platforms which have livestreaming or features that enable the potential for strangers to contact children will also be restricted, which includes gaming sites.
+It does not mean that Roblox, the biggest gaming site in the UK for eight to 12-year-olds for example, will be banned for under-16s. However, certain features such as its chat function will be restricted.
+The UK's ban comes after a similar one was introduced in Australia last year.
+Many children there have found ways to get round it, but the UK has said it intends to take a tougher approach.
+In recent weeks, attention has turned to how such a ban would be enforced.
+Last month, the communications regulator Ofcom set out its recommendations for the most effective ways to identify which of the UK's millions of social media users are aged over 16.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-08T11:25:32+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1427/live/5d17fd80-db61-11f1-adda-c54f54e3ce6a.jpg",
+    readTime: 9,
+  },
+  {
+    id: "in-pictures-france-protests-draw-146-000-90b0804b",
+    title: "In pictures: France protests draw 146,000 as clashes erupt for fourth straight weekend",
+    titleJa: "In pictures: France protests draw 146,000 as clashes erupt for fourth straight weekend",
+    summaryJa: "France's Interior Ministry counted 146,000 protesters Saturday as demonstrations over living costs public services entered a fourth consecutive weekend.",
+    bodyOriginal: `Protesters clashed with police in France on Saturday as demonstrations over living costs and public services entered a fourth consecutive weekend and drew students, trade unions and members of the revived "Yellow Vest" movement onto the streets.
+The country's Interior Ministry counted 146,000 demonstrators nationwide, including 46,000 in Paris. A youth union alliance put attendance at 250,000 nationally and 75,000 in the capital. At least 360 people were arrested across the country, AFP reported, citing a ministry tally.
+Police used tear gas against people throwing projectiles as the main Paris march ended at Place de la Nation, per AFP. Garbage cans were set alight as protesters and police clashed in several cities, according to Le Monde.
+Police blocked a separate, banned Yellow Vest gathering at Place de la Concorde and arrested two movement leaders, Le Monde reported.
+The Yellow Vests emerged in 2018 in opposition to fuel-tax increases, before broadening into a movement protesting high living costs and the policies of President Emmanuel Macron.
+The turnout was lower than on the previous three weekends. It was also below union-led demonstrations on Nov. 5, when the Interior Ministry counted 575,000 people nationwide.
+The protests began in late September with high-school students demanding better conditions, before university students and unions joined.
+This weekend's protests come after French lawmakers rejected the revenue section of the 2027 budget, as the government wrestles with addressing public anger while trying to rein in its finances.
+The government's original proposal now goes to the Senate, which is scheduled to begin debating it Nov. 20.
+Prime Minister Sébastien Lecornu is due to meet labor and employer representatives Monday to discuss wages and purchasing power.`,
+    bodyJa: `Protesters clashed with police in France on Saturday as demonstrations over living costs and public services entered a fourth consecutive weekend and drew students, trade unions and members of the revived "Yellow Vest" movement onto the streets.
+The country's Interior Ministry counted 146,000 demonstrators nationwide, including 46,000 in Paris. A youth union alliance put attendance at 250,000 nationally and 75,000 in the capital. At least 360 people were arrested across the country, AFP reported, citing a ministry tally.
+Police used tear gas against people throwing projectiles as the main Paris march ended at Place de la Nation, per AFP. Garbage cans were set alight as protesters and police clashed in several cities, according to Le Monde.
+Police blocked a separate, banned Yellow Vest gathering at Place de la Concorde and arrested two movement leaders, Le Monde reported.
+The Yellow Vests emerged in 2018 in opposition to fuel-tax increases, before broadening into a movement protesting high living costs and the policies of President Emmanuel Macron.
+The turnout was lower than on the previous three weekends. It was also below union-led demonstrations on Nov. 5, when the Interior Ministry counted 575,000 people nationwide.
+The protests began in late September with high-school students demanding better conditions, before university students and unions joined.
+This weekend's protests come after French lawmakers rejected the revenue section of the 2027 budget, as the government wrestles with addressing public anger while trying to rein in its finances.
+The government's original proposal now goes to the Senate, which is scheduled to begin debating it Nov. 20.
+Prime Minister Sébastien Lecornu is due to meet labor and employer representatives Monday to discuss wages and purchasing power.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/08/france-protests-clashes-arrests.html",
+    publishedAt: "2026-11-08T09:29:04+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "cathie-wood-always-feels-better-when-the-3ee3e751",
+    title: "Cathie Wood 'always feels better when the market is worried' — here's why",
+    titleJa: "Cathie Wood 'always feels better when the market is worried' — here's why",
+    summaryJa: "Ark Invest CEO Cathie Wood is shrugging off this week's market jitters, telling CNBC on Friday that concerns among investors actually reinforce her optimism that further gains lie ahead.U.S. equities sold off sharply on Thursday, reversing the initial rally seen in the wake of the midterm elections. AI-related stocks led the rout, sending the tech-heavy Nasdaq Composite into correction territory. On Friday, tech stocks staged a tentative recovery.",
+    bodyOriginal: `Ark Invest CEO Cathie Wood is shrugging off this week's market jitters, telling CNBC on Friday that concerns among investors actually reinforce her optimism that further gains lie ahead.
+U.S. equities sold off sharply on Thursday, reversing the initial rally seen in the wake of the midterm elections. AI-related stocks led the rout, sending the tech-heavy Nasdaq Composite into correction territory. On Friday, tech stocks staged a tentative recovery.
+Much of the sell-off on Thursday was driven by concerns that a Democrat-led Congress would lead to a slowdown in data center construction. But concerns about artificial intelligence – particularly when it comes to capital expenditure, cash flow, debt and circular financing – have sparked multiple bouts of volatility over the course of this year.
+Wood, whose firm manages various funds focused on tech and innovation, told CNBC there was a "wall of worry" pervading financial markets right now. But her decades of experience as an investor give her a somewhat unconventional view of the state of play.
+"I experienced the tech and telecom bubble, and you know there really wasn't much worry about it," she said. "It was the 80s and the 90s, and it was a bull market, and people were just assuming this would go to the moon, that is not how this [the AI trade] has evolved."
+She explained that "from the beginning," many investors have been concerned about how much firms are spending on AI development, how rapidly the spending is taking place, and how the hyperscalers have moved from extreme levels of positive free cash flow to negative free cash flow.
+"So it's been unsettling the markets for quite some time," she said. "I always feel better when the market is worried, because that tends to suggest a more durable bull market, and I don't think we've derailed this bull market."
+Markets face 'wall of worry'
+In 2025, her flagship Ark Innovation ETF gained more than 35%, far outperforming the S&P 500's 16.4% rise and the Nasdaq Composite's 20.5% rally.
+Asked on Friday whether markets were anywhere near the end of the current bull run, Wood replied: "I don't think so."
+"I think we're in the middle of a technology revolution," she said, pointing to the development of technologies like robotaxis and AI agents.
+One thing that did risk becoming a "showstopper," Wood noted, was the rising cost of capital.
+Interest rates and bond yields have risen sharply this year as the U.S.-Iran war pushes inflation higher across the globe. Yields on corporate bonds have been rising too, with creditors demanding greater compensation for lending to companies.
+"This correction is partly caused by what's going on in the bond markets," Wood said on Friday.
+"I had been saying for quite some time that the wall of worry has been built by senior leaders in the financial world who were young during the bubble," she said.
+"It's the elder statesmen and women of the industry who are keeping this wall of worry in place, and that's not bad. Now you can add the bond investor to that. Bond investors in the old days weren't necessary for technology. It was software. It was low fixed cost. It was viral apps, very high margins. [AI] is high fixed cost, so bond investors are experiencing or taking a journey into the technology world, really that they haven't very much before."
+But she noted that AI hyperscalers were somewhat insulated by opportunities for growth.
+"If a company thinks that taking on debt is going to accelerate its momentum, meaning its growth rate, it hardly matters what happens to interest rates for those companies," Wood explained.
+Wood said her advice to investors in the current volatile environment was to identify their high-conviction positions and double down on them as the market shifts.
+"When you see a rally in a volatile environment, take some profits. When you see a sell-off, you'll have the psychological wherewithal if you have taken profits to move back in," she said.
+"That's what we do. So what we do during periods like this is concentrate towards our highest conviction names. So that's what we've been doing in the last week or so. Our SpaceX position has gone up. If anything, the controversy around data centers on Earth is giving data centers in space a bigger opportunity."
+In 2027, Wood said she expects the equity rally to continue.
+"This is two steps forward, one step back," she said of the post-election turbulence. "The revolution will become clearer and clearer next year, and I think the market will do well."`,
+    bodyJa: `Ark Invest CEO Cathie Wood is shrugging off this week's market jitters, telling CNBC on Friday that concerns among investors actually reinforce her optimism that further gains lie ahead.
+U.S. equities sold off sharply on Thursday, reversing the initial rally seen in the wake of the midterm elections. AI-related stocks led the rout, sending the tech-heavy Nasdaq Composite into correction territory. On Friday, tech stocks staged a tentative recovery.
+Much of the sell-off on Thursday was driven by concerns that a Democrat-led Congress would lead to a slowdown in data center construction. But concerns about artificial intelligence – particularly when it comes to capital expenditure, cash flow, debt and circular financing – have sparked multiple bouts of volatility over the course of this year.
+Wood, whose firm manages various funds focused on tech and innovation, told CNBC there was a "wall of worry" pervading financial markets right now. But her decades of experience as an investor give her a somewhat unconventional view of the state of play.
+"I experienced the tech and telecom bubble, and you know there really wasn't much worry about it," she said. "It was the 80s and the 90s, and it was a bull market, and people were just assuming this would go to the moon, that is not how this [the AI trade] has evolved."
+She explained that "from the beginning," many investors have been concerned about how much firms are spending on AI development, how rapidly the spending is taking place, and how the hyperscalers have moved from extreme levels of positive free cash flow to negative free cash flow.
+"So it's been unsettling the markets for quite some time," she said. "I always feel better when the market is worried, because that tends to suggest a more durable bull market, and I don't think we've derailed this bull market."
+Markets face 'wall of worry'
+In 2025, her flagship Ark Innovation ETF gained more than 35%, far outperforming the S&P 500's 16.4% rise and the Nasdaq Composite's 20.5% rally.
+Asked on Friday whether markets were anywhere near the end of the current bull run, Wood replied: "I don't think so."
+"I think we're in the middle of a technology revolution," she said, pointing to the development of technologies like robotaxis and AI agents.
+One thing that did risk becoming a "showstopper," Wood noted, was the rising cost of capital.
+Interest rates and bond yields have risen sharply this year as the U.S.-Iran war pushes inflation higher across the globe. Yields on corporate bonds have been rising too, with creditors demanding greater compensation for lending to companies.
+"This correction is partly caused by what's going on in the bond markets," Wood said on Friday.
+"I had been saying for quite some time that the wall of worry has been built by senior leaders in the financial world who were young during the bubble," she said.
+"It's the elder statesmen and women of the industry who are keeping this wall of worry in place, and that's not bad. Now you can add the bond investor to that. Bond investors in the old days weren't necessary for technology. It was software. It was low fixed cost. It was viral apps, very high margins. [AI] is high fixed cost, so bond investors are experiencing or taking a journey into the technology world, really that they haven't very much before."
+But she noted that AI hyperscalers were somewhat insulated by opportunities for growth.
+"If a company thinks that taking on debt is going to accelerate its momentum, meaning its growth rate, it hardly matters what happens to interest rates for those companies," Wood explained.
+Wood said her advice to investors in the current volatile environment was to identify their high-conviction positions and double down on them as the market shifts.
+"When you see a rally in a volatile environment, take some profits. When you see a sell-off, you'll have the psychological wherewithal if you have taken profits to move back in," she said.
+"That's what we do. So what we do during periods like this is concentrate towards our highest conviction names. So that's what we've been doing in the last week or so. Our SpaceX position has gone up. If anything, the controversy around data centers on Earth is giving data centers in space a bigger opportunity."
+In 2027, Wood said she expects the equity rally to continue.
+"This is two steps forward, one step back," she said of the post-election turbulence. "The revolution will become clearer and clearer next year, and I think the market will do well."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
+    publishedAt: "2026-11-08T06:00:01+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
     id: "houthis-say-at-least-33-killed-in-saudi-d281ebb0",
     title: "Houthis say at least 33 killed in Saudi air strike",
     titleJa: "Houthis say at least 33 killed in Saudi air strike",
@@ -1193,6 +1583,100 @@ For Wilson, broader acceptance in the resale market is key to shifting that bala
     readTime: 10,
   },
   {
+    id: "my-mortgage-is-going-up-200-a-month-how-4016238b",
+    title: "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
+    titleJa: "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
+    summaryJa: "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+    bodyOriginal: `'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets
+- Published
+On Thursday, the Bank of England increased interest rates for the first time in over three years as it tries to get a grip on rising inflation linked to the Iran war.
+Experts say there could be more hikes over the next 18 months, as the conflict continues to push up food, fuel and energy prices across the UK and worldwide.
+Higher interest rates affect borrowing costs, however, which means mortgages, credit cards and personal loans could get more expensive for millions, even as savings rates improve.
+For some, it could mean extra financial pressure at a time when they are already struggling with the cost of living. The BBC spoke to three people about how they could be affected.
+'Our tracker mortgage will go up'
+Peter Gill, 48, is one of the around 1.3 million Britons on a variable rate mortgage.
+These loans track the Bank of England base rate, with a margin on top determined by the lender, so any rise in interest rates can push up repayments.
+Peter, who runs a small tiling business in Halifax, says his monthly repayments will go up by roughly £45 following Thursday's quarter-percentage point increase and he's worried they could climb higher.
+But he still thinks it'd be more expensive to move onto a fixed-rate deal - which is when you pay a set amount of monthly interest for a period - and is prepared to stay put for now.
+His higher mortgage costs come as the "cost of everything is going up", he says.
+The father of two, who has a combined household income of £45,000 with his wife Faye, is having to pay his staff more because of increases in the national minimum wage. Raw material costs have also risen due to the war in Iran.
+At home, the family's food, gas and electricity bills have gone up and he says he's working "about six and a half days a week" to shield them from the worst of it.
+"From my point of view, inflation goes up which costs you, then interest rates go up and you have even less money."
+'My mortgage is going up by £200 a month'
+Most UK mortgage holders are on fixed-rate deals, but that doesn't necessarily protect them when the Bank of England puts up rates.
+David Hollingworth, from brokers L&C Mortgages, says many people will be shocked at how much higher fixed-rate deals are than they were five years ago following recent increases.
+"Fixed rates have already risen due to market anticipation that interest rates would need to rise to combat higher inflation," he says.
+Dawn Fazackerley-King is a Pilates instructor who lives near Ipswich and has previously spoken to the BBC about her struggles with the cost of living.
+She was on a five-year fixed deal at 1.4%, which she took out in January 2022. But the mother of two is about to refix for two years and the best deal she can find is a 5.69% loan. That will push her costs up by about £200 a month.
+"I don't know where that money is going to come from, it's something we are going to have to figure out as a family. It's stressful."
+She and her husband, who have a joint income of about £70,000, have already gone through their direct debits and there's "no more obvious fat to trim".
+There is also no scope for them to take on additional work, as they both work full time.
+"We're still living in the same property, our household costs are remaining the same," Dawn says. "It's an additional cost of several hundred pounds but we're not getting anything extra for that."
+'My credit card repayments could rise'
+When the Bank of England increases its base rate, credit card borrowing costs also tend to increase, although the impact is not always immediate.
+It may affect people with outstanding debts, as providers can increase the interest rates they charge with 30 days' notice.
+Ben Thomas, 41, from Shropshire, ditched his career as a chartered accountant during the Covid pandemic after a mental health crisis and retrained as a paramedic.
+But the drop in income left him reliant on credit cards and personal loans for everyday living expenses and he is now £52,000 in debt.
+Faisal Islam: How high will interest rates go?
+- Published2 days ago
+Three ways the interest rate rise could affect you
+- Published3 days ago
+Ben says he's reached an agreement to pause the interest on most of it, but he is still incurring charges on around £2,000 of credit card debt and is worried about his repayments going up.
+"With all that's going on, rising interest rates is another cost to deal with," he tells the BBC.
+As well as overall debt repayments of around £300 a month, he and his wife pay £760 on their mortgage. They have also struggled with higher food and energy bills.
+Simon Trevethick is head of communications at StepChange, which has been helping Ben manage his debt. He says the debt charity has seen a 20% increase in people asking for support this year and warned of tougher times ahead.
+"If higher borrowing costs feed through into household budgets over the coming months, we could see further pressure on people seeking support."
+Get in touch
+Do you have a mortgage, a credit card, a car finance agreement? How are interest rates affecting you?`,
+    bodyJa: `'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets
+- Published
+On Thursday, the Bank of England increased interest rates for the first time in over three years as it tries to get a grip on rising inflation linked to the Iran war.
+Experts say there could be more hikes over the next 18 months, as the conflict continues to push up food, fuel and energy prices across the UK and worldwide.
+Higher interest rates affect borrowing costs, however, which means mortgages, credit cards and personal loans could get more expensive for millions, even as savings rates improve.
+For some, it could mean extra financial pressure at a time when they are already struggling with the cost of living. The BBC spoke to three people about how they could be affected.
+'Our tracker mortgage will go up'
+Peter Gill, 48, is one of the around 1.3 million Britons on a variable rate mortgage.
+These loans track the Bank of England base rate, with a margin on top determined by the lender, so any rise in interest rates can push up repayments.
+Peter, who runs a small tiling business in Halifax, says his monthly repayments will go up by roughly £45 following Thursday's quarter-percentage point increase and he's worried they could climb higher.
+But he still thinks it'd be more expensive to move onto a fixed-rate deal - which is when you pay a set amount of monthly interest for a period - and is prepared to stay put for now.
+His higher mortgage costs come as the "cost of everything is going up", he says.
+The father of two, who has a combined household income of £45,000 with his wife Faye, is having to pay his staff more because of increases in the national minimum wage. Raw material costs have also risen due to the war in Iran.
+At home, the family's food, gas and electricity bills have gone up and he says he's working "about six and a half days a week" to shield them from the worst of it.
+"From my point of view, inflation goes up which costs you, then interest rates go up and you have even less money."
+'My mortgage is going up by £200 a month'
+Most UK mortgage holders are on fixed-rate deals, but that doesn't necessarily protect them when the Bank of England puts up rates.
+David Hollingworth, from brokers L&C Mortgages, says many people will be shocked at how much higher fixed-rate deals are than they were five years ago following recent increases.
+"Fixed rates have already risen due to market anticipation that interest rates would need to rise to combat higher inflation," he says.
+Dawn Fazackerley-King is a Pilates instructor who lives near Ipswich and has previously spoken to the BBC about her struggles with the cost of living.
+She was on a five-year fixed deal at 1.4%, which she took out in January 2022. But the mother of two is about to refix for two years and the best deal she can find is a 5.69% loan. That will push her costs up by about £200 a month.
+"I don't know where that money is going to come from, it's something we are going to have to figure out as a family. It's stressful."
+She and her husband, who have a joint income of about £70,000, have already gone through their direct debits and there's "no more obvious fat to trim".
+There is also no scope for them to take on additional work, as they both work full time.
+"We're still living in the same property, our household costs are remaining the same," Dawn says. "It's an additional cost of several hundred pounds but we're not getting anything extra for that."
+'My credit card repayments could rise'
+When the Bank of England increases its base rate, credit card borrowing costs also tend to increase, although the impact is not always immediate.
+It may affect people with outstanding debts, as providers can increase the interest rates they charge with 30 days' notice.
+Ben Thomas, 41, from Shropshire, ditched his career as a chartered accountant during the Covid pandemic after a mental health crisis and retrained as a paramedic.
+But the drop in income left him reliant on credit cards and personal loans for everyday living expenses and he is now £52,000 in debt.
+Faisal Islam: How high will interest rates go?
+- Published2 days ago
+Three ways the interest rate rise could affect you
+- Published3 days ago
+Ben says he's reached an agreement to pause the interest on most of it, but he is still incurring charges on around £2,000 of credit card debt and is worried about his repayments going up.
+"With all that's going on, rising interest rates is another cost to deal with," he tells the BBC.
+As well as overall debt repayments of around £300 a month, he and his wife pay £760 on their mortgage. They have also struggled with higher food and energy bills.
+Simon Trevethick is head of communications at StepChange, which has been helping Ben manage his debt. He says the debt charity has seen a 20% increase in people asking for support this year and warned of tougher times ahead.
+"If higher borrowing costs feed through into household budgets over the coming months, we could see further pressure on people seeking support."
+Get in touch
+Do you have a mortgage, a credit card, a car finance agreement? How are interest rates affecting you?`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-07T01:41:36+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e6b/live/b1102500-d9fb-11f1-b441-2b33b063138f.png",
+    readTime: 10,
+  },
+  {
     id: "i-have-no-financial-safety-net-i-m-66-r-6d21ec3d",
     title: "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
     titleJa: "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
@@ -1511,558 +1995,6 @@ This is breaking news. Please refresh for updates.`,
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 2,
-  },
-  {
-    id: "data-center-double-down-hassett-says-blu-925f3b21",
-    title: "Data center double-down: Hassett says blue wave won't stop AI build-out",
-    titleJa: "Data center double-down: Hassett says blue wave won't stop AI build-out",
-    summaryJa: "Data centers are a crucial part of President Donald Trump's push to win the global artificial intelligence race, which he continues despite the midterm results.",
-    bodyOriginal: `National Economic Council Director Kevin Hassett said Friday he expects data center growth to continue as projected, despite the blue-wave election that saw voters overwhelmingly favor limiting the tech infrastructure buildout.
-Hassett, on CNBC's "Squawk on the Street," acknowledged the dozens of measures on states' midterm ballots seeking to constrain data centers, a crucial part of President Donald Trump's push to win the global artificial intelligence race.
-In at least 46 of the roughly 50 such initiatives on ballots in 2026, majorities voted to restrict development of the facilities, according to Ballotpedia's tally.
-"We respect the localities that decide that's what they want to do," Hassett said. "But America is a big place, and right now, the data centers scheduled over the next couple of years aren't affected by these ballot initiatives."
-"And the stuff after that, you know, there's plenty of room in the U.S. for data center growth to continue, as it was projected ahead of the election," he said.
-Hassett said he expects data centers will continue to expand in states with more welcoming governors, and he suggested that even hostile states will eventually come around.
-"That's exactly what's going to happen," he said. "That, or what'll happen will be that the benefits of the data centers will be so obvious that people decide to change their minds about the way they regulate them."
-Hassett also blamed Thursday's tech-driven market plunge on "uncertainty about what the political change is going to mean for data centers going forward."
-"We've now got a ... new majority that maybe is going to go in there and muddle around in there, and I think that markets are anxious about that," he said.
-"But I think that the economic strength that we see everywhere else is so strong, and of course, in the end, you could take something that's growing as fast as the data centers and make it grow a little bit slower, and you still have a blockbuster economy."
-"And so, I think we're still very, very optimistic about what's going to happen going forward," he said.
-The CNBC Voter Poll found 56% of midterm voters identified data centers as either a crucial or major issue — and of those who considered it crucial, 62% favored the generic Democratic candidate.
-Trump has strongly embraced AI and data centers and has even tried to reverse their seeming unpopularity by rebranding the tech as "super intelligence," or SI.
-In a Truth Social post Friday, Trump made clear that despite the midterm losses, his support for the nascent industry has not faltered.
-"As President, I am 100% in favor of Super Intelligence (SI), and will work with the many States in the U.S. that want to become RICH by having them," Trump wrote. "They are GOLD, and only foolish leadership will say 'NO' to the riches they bring!"`,
-    bodyJa: `National Economic Council Director Kevin Hassett said Friday he expects data center growth to continue as projected, despite the blue-wave election that saw voters overwhelmingly favor limiting the tech infrastructure buildout.
-Hassett, on CNBC's "Squawk on the Street," acknowledged the dozens of measures on states' midterm ballots seeking to constrain data centers, a crucial part of President Donald Trump's push to win the global artificial intelligence race.
-In at least 46 of the roughly 50 such initiatives on ballots in 2026, majorities voted to restrict development of the facilities, according to Ballotpedia's tally.
-"We respect the localities that decide that's what they want to do," Hassett said. "But America is a big place, and right now, the data centers scheduled over the next couple of years aren't affected by these ballot initiatives."
-"And the stuff after that, you know, there's plenty of room in the U.S. for data center growth to continue, as it was projected ahead of the election," he said.
-Hassett said he expects data centers will continue to expand in states with more welcoming governors, and he suggested that even hostile states will eventually come around.
-"That's exactly what's going to happen," he said. "That, or what'll happen will be that the benefits of the data centers will be so obvious that people decide to change their minds about the way they regulate them."
-Hassett also blamed Thursday's tech-driven market plunge on "uncertainty about what the political change is going to mean for data centers going forward."
-"We've now got a ... new majority that maybe is going to go in there and muddle around in there, and I think that markets are anxious about that," he said.
-"But I think that the economic strength that we see everywhere else is so strong, and of course, in the end, you could take something that's growing as fast as the data centers and make it grow a little bit slower, and you still have a blockbuster economy."
-"And so, I think we're still very, very optimistic about what's going to happen going forward," he said.
-The CNBC Voter Poll found 56% of midterm voters identified data centers as either a crucial or major issue — and of those who considered it crucial, 62% favored the generic Democratic candidate.
-Trump has strongly embraced AI and data centers and has even tried to reverse their seeming unpopularity by rebranding the tech as "super intelligence," or SI.
-In a Truth Social post Friday, Trump made clear that despite the midterm losses, his support for the nascent industry has not faltered.
-"As President, I am 100% in favor of Super Intelligence (SI), and will work with the many States in the U.S. that want to become RICH by having them," Trump wrote. "They are GOLD, and only foolish leadership will say 'NO' to the riches they bring!"`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/06/data-centers-ai-elections-hassett.html",
-    publishedAt: "2026-11-06T18:54:22+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "microsoft-plans-to-use-fewer-neoclouds-a-6907f1ea",
-    title: "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
-    titleJa: "Microsoft plans to use fewer neoclouds as AI buildout shows signs of strain",
-    summaryJa: "Microsoft is winding down the number of neoclouds it counts as partners, picking key suppliers and focusing on its own data centers.",
-    bodyOriginal: `Microsoft is shrinking its roster of neocloud partners as it focuses on work with a few key suppliers and builds out its own data centers, according to people familiar with the matter.
-The software giant's plans pose another potential challenge for a corner of the artificial intelligence market that's showing signs of strain due to rising borrowing costs, hefty debt loads and concerns about whether the buildout will slow down.
-Microsoft has forged relationships in recent years with a number of neoclouds, including CoreWeave, Nebius, Chronoscale, IREN, Lambda and Nscale, as well as with Oracle, which is pouring money into building out AI infrastructure.
-Microsoft is now in the evaluation stage and hasn't decided which neoclouds it will stop using, said two sources, who asked not to be named because the talks are confidential. One of the people said Microsoft wants to prioritize its own data center footprint. Bloomberg reported on the plans earlier. Two people said that Microsoft opted not to renew a deal with Oracle.
-A Microsoft spokesperson said in an emailed statement that its infrastructure strategy is "built on flexibility and choice."
-"We combine Microsoft-owned datacenters, leased facilities and strategic partnerships with third-party providers to deliver the capacity our customers need, where and when they need it," the spokesperson said. "We regularly review these investments against customer demand. That includes tracking delivery and adjusting plans as circumstances change."
-The neoclouds have been a turbulent trade on Wall Street in recent weeks as rising interest rates added to fears that many companies have become overly reliant on debt in rushing to build capacity. Shares of CoreWeave, Nebius and IREN are all down by roughly half over the past month even after rallying on Friday.
-A recent industry review counted 323 neoclouds, and experts have predicted that many of them won't survive.
-In its earnings report on Thursday, IREN said it handed over data center capacity to Microsoft in August, but Microsoft requested a networking equipment upgrade that will result in the infrastructure coming online in January or February instead of this year.
-Microsoft finance chief Amy Hood said on the software company's fiscal first-quarter earnings call in October that some cloud contracts involving graphics processing units were delayed until the first half of 2027, affecting Azure cloud growth. Microsoft reported $45.2 billion worth of capital expenditures and finance leases during the latest quarter, and said capex spending will accelerate in the second half of the fiscal year.
-Capital markets 'more selective'
-CoreWeave and Nebius are both scheduled to report quarterly results next week. IREN shares popped 16% on Friday after the company said AI revenue more than doubled from the prior quarter to $200 million. IREN co-CEO Daniel Roberts told CNBC that there's a "disconnect between what we're seeing in public market and what we're seeing at the customer level."
-However, he acknowledged the challenge that market conditions present.
-"Capital markets have become more selective in the last few weeks, and the questions have undoubtedly moved from how big the contract is to whether it can be delivered, financed, and run at a profit," Roberts said on the earnings call.
-Microsoft has already slashed its work with U.K.-based neocloud Nscale, walking away from a site that it had intended to use in England. Darren Hardman, Microsoft's CEO for the U.K and Ireland, told CNBC in October that the decision had to do with Nscale's ability to get access to electricity.
-The Financial Times reported this week that Microsoft decided against renewing a contract with Nscale in Texas. Nscale filed to go public in mid-September but hasn't updated its prospectus since then. The company said in its IPO filing that it expects Microsoft to be a "significant customer in future periods."
-Microsoft's big turn to neoclouds came after the launch of ChatGPT in 2022, which led to a surge in demand for GPUs. In looking elsewhere, Microsoft signed up CoreWeave, which was a privately held startup at the time with roots in cryptocurrency mining. When CoreWeave went public last year, it said 62% of its 2024 revenue came from Microsoft.
-At the time of ChatGPT's release, OpenAI only used Azure. Now the company's cloud suppliers also include Amazon, Cerebras, CoreWeave, Google and Oracle.
-Microsoft's spokesperson said that its approach to reviewing neocloud investments is "a normal and responsible way to manage large, complex infrastructure projects," and that "the pace of our new agreements reflects what we need today."
-—CNBC's Kif Leswing contributed to this report.
-WATCH: IREN co-CEO: AI demand remains strong despite investor scrutiny`,
-    bodyJa: `Microsoft is shrinking its roster of neocloud partners as it focuses on work with a few key suppliers and builds out its own data centers, according to people familiar with the matter.
-The software giant's plans pose another potential challenge for a corner of the artificial intelligence market that's showing signs of strain due to rising borrowing costs, hefty debt loads and concerns about whether the buildout will slow down.
-Microsoft has forged relationships in recent years with a number of neoclouds, including CoreWeave, Nebius, Chronoscale, IREN, Lambda and Nscale, as well as with Oracle, which is pouring money into building out AI infrastructure.
-Microsoft is now in the evaluation stage and hasn't decided which neoclouds it will stop using, said two sources, who asked not to be named because the talks are confidential. One of the people said Microsoft wants to prioritize its own data center footprint. Bloomberg reported on the plans earlier. Two people said that Microsoft opted not to renew a deal with Oracle.
-A Microsoft spokesperson said in an emailed statement that its infrastructure strategy is "built on flexibility and choice."
-"We combine Microsoft-owned datacenters, leased facilities and strategic partnerships with third-party providers to deliver the capacity our customers need, where and when they need it," the spokesperson said. "We regularly review these investments against customer demand. That includes tracking delivery and adjusting plans as circumstances change."
-The neoclouds have been a turbulent trade on Wall Street in recent weeks as rising interest rates added to fears that many companies have become overly reliant on debt in rushing to build capacity. Shares of CoreWeave, Nebius and IREN are all down by roughly half over the past month even after rallying on Friday.
-A recent industry review counted 323 neoclouds, and experts have predicted that many of them won't survive.
-In its earnings report on Thursday, IREN said it handed over data center capacity to Microsoft in August, but Microsoft requested a networking equipment upgrade that will result in the infrastructure coming online in January or February instead of this year.
-Microsoft finance chief Amy Hood said on the software company's fiscal first-quarter earnings call in October that some cloud contracts involving graphics processing units were delayed until the first half of 2027, affecting Azure cloud growth. Microsoft reported $45.2 billion worth of capital expenditures and finance leases during the latest quarter, and said capex spending will accelerate in the second half of the fiscal year.
-Capital markets 'more selective'
-CoreWeave and Nebius are both scheduled to report quarterly results next week. IREN shares popped 16% on Friday after the company said AI revenue more than doubled from the prior quarter to $200 million. IREN co-CEO Daniel Roberts told CNBC that there's a "disconnect between what we're seeing in public market and what we're seeing at the customer level."
-However, he acknowledged the challenge that market conditions present.
-"Capital markets have become more selective in the last few weeks, and the questions have undoubtedly moved from how big the contract is to whether it can be delivered, financed, and run at a profit," Roberts said on the earnings call.
-Microsoft has already slashed its work with U.K.-based neocloud Nscale, walking away from a site that it had intended to use in England. Darren Hardman, Microsoft's CEO for the U.K and Ireland, told CNBC in October that the decision had to do with Nscale's ability to get access to electricity.
-The Financial Times reported this week that Microsoft decided against renewing a contract with Nscale in Texas. Nscale filed to go public in mid-September but hasn't updated its prospectus since then. The company said in its IPO filing that it expects Microsoft to be a "significant customer in future periods."
-Microsoft's big turn to neoclouds came after the launch of ChatGPT in 2022, which led to a surge in demand for GPUs. In looking elsewhere, Microsoft signed up CoreWeave, which was a privately held startup at the time with roots in cryptocurrency mining. When CoreWeave went public last year, it said 62% of its 2024 revenue came from Microsoft.
-At the time of ChatGPT's release, OpenAI only used Azure. Now the company's cloud suppliers also include Amazon, Cerebras, CoreWeave, Google and Oracle.
-Microsoft's spokesperson said that its approach to reviewing neocloud investments is "a normal and responsible way to manage large, complex infrastructure projects," and that "the pace of our new agreements reflects what we need today."
-—CNBC's Kif Leswing contributed to this report.
-WATCH: IREN co-CEO: AI demand remains strong despite investor scrutiny`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/06/microsoft-moves-to-consolidate-its-relationships-with-neoclouds-in-ai.html",
-    publishedAt: "2026-11-06T18:40:58+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "why-the-us-midterms-sparked-an-ai-stock-d7026303",
-    title: "Why the US midterms sparked an AI stock selloff",
-    titleJa: "Why the US midterms sparked an AI stock selloff",
-    summaryJa: "Fears of more AI regulation appear to have sparked fear among investors, but  concerns about the industry have been growing for some time.",
-    bodyOriginal: `Why the US midterms sparked an AI stock selloff
-- Published
-Is the artificial intelligence (AI) gold rush coming to an end, or is this simply a reality check?
-That's the question which is hanging over investors, and which has prompted steep falls on the world's stock markets.
-The sell-off in the US on Thursday was most dramatic on the Nasdaq, home to tech industry titans such as Alphabet, Nvidia, Meta and Apple.
-It followed sweeping gains by the Democrats in this week's midterm elections in the US, which have given the party full control of Congress.
-A number of leading Democrats campaigned against the unhindered expansion of data centres, which have underpinned the growth of artificial intelligence.
-Fears this will lead to more regulation of AI appear to have concerned investors. But worries about the industry's prospects have been growing for some time.
-AI boom
-The release of Chat GPT by Open AI in late 2022 is widely seen as having generated massive public and corporate interest in the practical uses of AI. It also sparked a modern-day gold rush.
-Investors flocked to put their money into companies producing computer chips and networking infrastructure, building data centres and providing the energy to power them, as well as developing the AI itself. The value of tech companies soared.
-The boom continued into this year. Investments in AI are expected to reach $1trillion in 2026 alone according to research by Goldman Sachs. The sector has scooped up so much available cash that other industries have seen their own borrowing costs increase as a result.
-But investors want returns, and in recent months concerns have been growing about whether the AI boom can produce the expected riches.
-Those worries have emerged at a time when public comments from AI researchers casting doubt over the safety of artificial intelligence - even suggesting it could represent an existential threat to humanity - have been grabbing headlines and fuelling speculation that a clampdown could lie ahead.
-Democrat opposition
-While the Trump administration has been all-in on AI, or "super intelligence" as the president likes to call it, many leading Democrats tapped into grassroots concerns about the expansion of data centres and their impact on local communities.
-These were largely focused on the facilities' high consumption of water and electricity, which many feared would push up their household bills – as well as the noise, use of land, and general disruption associated with them.
-A Gallup poll published in May showed 71% of Americans would oppose the building of a data centre in their community. The figure for a nuclear power station was 53%.
-James Talarico, who won the Senate race in once staunchly Republican Texas, was one of those to respond to this scepticism.
-"While we want to protect America's leadership in artificial intelligence, we are still grappling with how it will affect everything from how we work to how our children learn," he said.
-"We must protect Americans and establish clear, consistent laws for businesses."
-With control of both houses of Congress, Democrats are now expected to challenge the president's technology agenda more vigorously, while introducing legislation which could curb the expansion of the industry.
-Texas' Democratic governor-elect Gina Hinojosa campaigned against data centres, pledging a moratorium on the construction of new facilities.
-Hinojosa's win could present opposition to tech multi-billionaire Elon Musk, who has moved large parts of SpaceX and Tesla's operations to the state, for years a Republican stronghold.
-The Tesla boss had spent nearly $450m to back Republican campaigns in the midterms.
-Where next for stocks?
-As the co-founder of the British-based technology firm Arm Holdings, Tudor Brown, points out, "stock values are based on future earnings not present earnings". If the rewards are not likely to be as great as expected, some investors will choose to sell up.
-The falls seen on stock markets over the past 24 hours would appear to have been triggered by the midterm results. But concerns that tech firms have become overvalued were being expressed long before the elections.
-The question now is whether this is simply the removal of froth from an over-exuberant market, or a sign that the AI rush is a bubble about to burst, with much wider consequences.
-Nandini Roy Choudhury of Future Market Insights thinks investors will assess whether the political shift could result in restrictions on data centre construction, energy consumption and the deployment of AI technology.
-She adds there is unlikely to be an immediate widespread recovery in tech stocks as traders are likely to be more selective, favouring firms with stronger balance sheets.
-Brown thinks the impact will be limited. Share valuations, he thinks, were inflated by expectations of "almost infinite AI growth", which have been followed by "a bit of a panic".
-"There is a natural floor to this", he says. "After that it will reflect I think that actually there's still a lot of money being made in these companies".`,
-    bodyJa: `Why the US midterms sparked an AI stock selloff
-- Published
-Is the artificial intelligence (AI) gold rush coming to an end, or is this simply a reality check?
-That's the question which is hanging over investors, and which has prompted steep falls on the world's stock markets.
-The sell-off in the US on Thursday was most dramatic on the Nasdaq, home to tech industry titans such as Alphabet, Nvidia, Meta and Apple.
-It followed sweeping gains by the Democrats in this week's midterm elections in the US, which have given the party full control of Congress.
-A number of leading Democrats campaigned against the unhindered expansion of data centres, which have underpinned the growth of artificial intelligence.
-Fears this will lead to more regulation of AI appear to have concerned investors. But worries about the industry's prospects have been growing for some time.
-AI boom
-The release of Chat GPT by Open AI in late 2022 is widely seen as having generated massive public and corporate interest in the practical uses of AI. It also sparked a modern-day gold rush.
-Investors flocked to put their money into companies producing computer chips and networking infrastructure, building data centres and providing the energy to power them, as well as developing the AI itself. The value of tech companies soared.
-The boom continued into this year. Investments in AI are expected to reach $1trillion in 2026 alone according to research by Goldman Sachs. The sector has scooped up so much available cash that other industries have seen their own borrowing costs increase as a result.
-But investors want returns, and in recent months concerns have been growing about whether the AI boom can produce the expected riches.
-Those worries have emerged at a time when public comments from AI researchers casting doubt over the safety of artificial intelligence - even suggesting it could represent an existential threat to humanity - have been grabbing headlines and fuelling speculation that a clampdown could lie ahead.
-Democrat opposition
-While the Trump administration has been all-in on AI, or "super intelligence" as the president likes to call it, many leading Democrats tapped into grassroots concerns about the expansion of data centres and their impact on local communities.
-These were largely focused on the facilities' high consumption of water and electricity, which many feared would push up their household bills – as well as the noise, use of land, and general disruption associated with them.
-A Gallup poll published in May showed 71% of Americans would oppose the building of a data centre in their community. The figure for a nuclear power station was 53%.
-James Talarico, who won the Senate race in once staunchly Republican Texas, was one of those to respond to this scepticism.
-"While we want to protect America's leadership in artificial intelligence, we are still grappling with how it will affect everything from how we work to how our children learn," he said.
-"We must protect Americans and establish clear, consistent laws for businesses."
-With control of both houses of Congress, Democrats are now expected to challenge the president's technology agenda more vigorously, while introducing legislation which could curb the expansion of the industry.
-Texas' Democratic governor-elect Gina Hinojosa campaigned against data centres, pledging a moratorium on the construction of new facilities.
-Hinojosa's win could present opposition to tech multi-billionaire Elon Musk, who has moved large parts of SpaceX and Tesla's operations to the state, for years a Republican stronghold.
-The Tesla boss had spent nearly $450m to back Republican campaigns in the midterms.
-Where next for stocks?
-As the co-founder of the British-based technology firm Arm Holdings, Tudor Brown, points out, "stock values are based on future earnings not present earnings". If the rewards are not likely to be as great as expected, some investors will choose to sell up.
-The falls seen on stock markets over the past 24 hours would appear to have been triggered by the midterm results. But concerns that tech firms have become overvalued were being expressed long before the elections.
-The question now is whether this is simply the removal of froth from an over-exuberant market, or a sign that the AI rush is a bubble about to burst, with much wider consequences.
-Nandini Roy Choudhury of Future Market Insights thinks investors will assess whether the political shift could result in restrictions on data centre construction, energy consumption and the deployment of AI technology.
-She adds there is unlikely to be an immediate widespread recovery in tech stocks as traders are likely to be more selective, favouring firms with stronger balance sheets.
-Brown thinks the impact will be limited. Share valuations, he thinks, were inflated by expectations of "almost infinite AI growth", which have been followed by "a bit of a panic".
-"There is a natural floor to this", he says. "After that it will reflect I think that actually there's still a lot of money being made in these companies".`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-06T18:32:16+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f055/live/19529fe0-d9fb-11f1-93e1-3b657b665bcf.jpg",
-    readTime: 10,
-  },
-  {
-    id: "why-smoky-bacon-crisps-threaten-to-reign-bc309e8f",
-    title: "Why smoky bacon crisps threaten to reignite rows over EU rules",
-    titleJa: "Why smoky bacon crisps threaten to reignite rows over EU rules",
-    summaryJa: "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
-    bodyOriginal: `Why smoky bacon crisps threaten to reignite rows over EU rules
-- Published
-The naming of smoky bacon-flavoured crisps has become the latest political headache to emerge from the government's bid for closer ties with the EU.
-The government is negotiating a deal on food standards in a bid to cut costs for British companies trading with Europe.
-Labour ministers have been keen to talk up the potential economic benefits of the agreement, which could be announced at a summit later this month.
-But the deal's requirement for Britain to adopt EU food rules in a wide range of areas has threatened to reignite sovereignty debates from the Brexit era.
-Labour ministers have been keen to sidestep talking about the impact of alignment in particular sectors, instead stressing the overall economic boost it expects the food deal to bring.
-On Thursday, Environment Secretary Angela Eagle told a radio presenter he should "get a life" when he asked about the potential impact of the new rules on snacks, such as smoky bacon crisps.
-But it highlights the political dangers for the government of realigning with regulations that British politicians have not been able to shape, with the Conservatives and Reform UK keen to pounce on cases showing Britain to be a "rule taker" from Brussels.
-It is not the first regulatory skirmish over smoky bacon crisps - following previous headlines over how the well-loved British flavour could be affected by an EU decision in 2024 to phase out a number of artificial smoke flavourings.
-Now, the flavour name itself has been called into question by a separate EU attempt to restrict how descriptions of meat are used to market food.
-Under rules adopted this summer, the EU plans to restrict the use of 31 terms, including bacon, drumstick and steak, to products that contain meat, claiming consumers could be confused by plant-based alternatives using the same names.
-The European snack industry is seeking clarity on how the rules, which will also cover terms such as pork, chicken and beef, would apply to meat-flavoured crisps, including those flavoured without the use of any meat extracts.
-The UK government has said it expects the new regulations to be in scope of its proposed food standards deal.
-This means they would also apply to companies marketing their products in Britain, which is among the biggest consumers of crisps in Europe, according to analysts Euromonitor., external
-Uncertainty over rules
-It has raised the prospect that crisps with names such as smoky bacon and roast chicken could have to be relabelled to be sold in British shops, although much remains unclear about how the rules will apply in practice.
-The new EU rules, which will not come into force until after August 2029, will allow the European Commission to create exemptions for meaty names with an established long-term use to describe other types of food product.
-The Brussels-based body is yet to set out how it plans to use this power, or what it means for snacks.
-A group of conservative German MEPs are also seeking a specific carve-out for meat names in snacks and sauces in separate legislation, external currently making its way through the European Parliament.
-The Food and Drink Federation, which represents British crispmakers including Walkers and KP Snacks, has been supportive of the government's bid to reach a food deal due to its potential to reduce trade barriers with Europe.
-But it has highlighted the new rules as an example of where it wants the government to work with industry to ensure UK interests are reflected in EU decision making.
-"Meat protections are an example of a new EU rule that UK businesses will need to comply with, but which the UK was not involved in developing," added the body's chief scientific officer Kate Halliwell.
-'Unintended consequences'
-The Potato Processors' Association, which also represents a number of major snackmakers, said it was monitoring the situation closely and wanted to see clarification of how the rules could affect its members.
-Vanessa Richardson, its deputy director general, said her association supported moves to reduce "unnecessary barriers" in the trade of food products.
-But she added it was important that the government's deal is implemented in a way that "avoids unintended consequences for established product descriptions which consumers clearly understand as referring to a flavour".
-The Department for Environment, Food & Rural Affairs (Defra) says it stands ready to help British snack businesses prepare for the impact of the new EU rules.
-It is not yet clear what a British version of the rules would look like, or whether they would need to apply from 2029 alongside the new European regulations.
-- Published3 days ago
-- Published8 October 2025`,
-    bodyJa: `Why smoky bacon crisps threaten to reignite rows over EU rules
-- Published
-The naming of smoky bacon-flavoured crisps has become the latest political headache to emerge from the government's bid for closer ties with the EU.
-The government is negotiating a deal on food standards in a bid to cut costs for British companies trading with Europe.
-Labour ministers have been keen to talk up the potential economic benefits of the agreement, which could be announced at a summit later this month.
-But the deal's requirement for Britain to adopt EU food rules in a wide range of areas has threatened to reignite sovereignty debates from the Brexit era.
-Labour ministers have been keen to sidestep talking about the impact of alignment in particular sectors, instead stressing the overall economic boost it expects the food deal to bring.
-On Thursday, Environment Secretary Angela Eagle told a radio presenter he should "get a life" when he asked about the potential impact of the new rules on snacks, such as smoky bacon crisps.
-But it highlights the political dangers for the government of realigning with regulations that British politicians have not been able to shape, with the Conservatives and Reform UK keen to pounce on cases showing Britain to be a "rule taker" from Brussels.
-It is not the first regulatory skirmish over smoky bacon crisps - following previous headlines over how the well-loved British flavour could be affected by an EU decision in 2024 to phase out a number of artificial smoke flavourings.
-Now, the flavour name itself has been called into question by a separate EU attempt to restrict how descriptions of meat are used to market food.
-Under rules adopted this summer, the EU plans to restrict the use of 31 terms, including bacon, drumstick and steak, to products that contain meat, claiming consumers could be confused by plant-based alternatives using the same names.
-The European snack industry is seeking clarity on how the rules, which will also cover terms such as pork, chicken and beef, would apply to meat-flavoured crisps, including those flavoured without the use of any meat extracts.
-The UK government has said it expects the new regulations to be in scope of its proposed food standards deal.
-This means they would also apply to companies marketing their products in Britain, which is among the biggest consumers of crisps in Europe, according to analysts Euromonitor., external
-Uncertainty over rules
-It has raised the prospect that crisps with names such as smoky bacon and roast chicken could have to be relabelled to be sold in British shops, although much remains unclear about how the rules will apply in practice.
-The new EU rules, which will not come into force until after August 2029, will allow the European Commission to create exemptions for meaty names with an established long-term use to describe other types of food product.
-The Brussels-based body is yet to set out how it plans to use this power, or what it means for snacks.
-A group of conservative German MEPs are also seeking a specific carve-out for meat names in snacks and sauces in separate legislation, external currently making its way through the European Parliament.
-The Food and Drink Federation, which represents British crispmakers including Walkers and KP Snacks, has been supportive of the government's bid to reach a food deal due to its potential to reduce trade barriers with Europe.
-But it has highlighted the new rules as an example of where it wants the government to work with industry to ensure UK interests are reflected in EU decision making.
-"Meat protections are an example of a new EU rule that UK businesses will need to comply with, but which the UK was not involved in developing," added the body's chief scientific officer Kate Halliwell.
-'Unintended consequences'
-The Potato Processors' Association, which also represents a number of major snackmakers, said it was monitoring the situation closely and wanted to see clarification of how the rules could affect its members.
-Vanessa Richardson, its deputy director general, said her association supported moves to reduce "unnecessary barriers" in the trade of food products.
-But she added it was important that the government's deal is implemented in a way that "avoids unintended consequences for established product descriptions which consumers clearly understand as referring to a flavour".
-The Department for Environment, Food & Rural Affairs (Defra) says it stands ready to help British snack businesses prepare for the impact of the new EU rules.
-It is not yet clear what a British version of the rules would look like, or whether they would need to apply from 2029 alongside the new European regulations.
-- Published3 days ago
-- Published8 October 2025`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-06T17:19:38+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67af/live/52b739e0-da04-11f1-84c1-dbcae60402d7.jpg",
-    readTime: 10,
-  },
-  {
-    id: "ai-stocks-climb-after-trillions-wiped-fr-17b36b9c",
-    title: "AI stocks climb after trillions wiped from market values",
-    titleJa: "AI stocks climb after trillions wiped from market values",
-    summaryJa: "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-    bodyOriginal: `AI stocks climb after trillions wiped from market values
-- Published
-Shares in artificial intelligence and technology firms have been climbing following an enormous sell-off that wiped trillions of dollars off stock values.
-The tech-heavy Nasdaq stock index opened higher following a market rout that began in the US on Thursday before spilling over to Asian and European markets into Friday.
-Investors had been selling off tech shares in part due to concerns the Democrat victory in the midterm elections would mean slower artificial intelligence development.
-However the latest US employment figures added to a mixed picture for American markets on Friday morning, with an unexpectedly strong 165,000 jobs added to the economy in September.
-On Thursday, businesses closely linked to artificial intelligence development took a hammering on stock markets, particularly chip and semiconductor makers.
-But the Nasdaq Composite opened up on Friday and flattened out around 1.7% higher by lunchtime, reversing some of its 5.5% fall.
-The S&P 500, which tracks the share prices of the largest publicly-traded US companies, was around 0.9% higher by lunchtime. The Dow Jones Industrial Average opened a little down before nudging into positive territory.
-Nvidia, which shed hundreds of billions in market value on Thursday after shares slid more than 9%, began Friday up more than 6% but settled around 4% higher as trading continued.
-SpaceX and Tesla shares, which were also hammered on Thursday, saw more mixed gains, up more than 6% and nearly 5% respectively.
-Chipmakers AMD and Micron both dropped by more than 17% on Thursday, but AMD shares had risen by about 12% on Friday while Micron was up more than 8%.
-However, stock markets in Asia and Europe fared worse on Friday.
-The Kospi in South Korea closed down 6% on Friday, with shares in chipmaker SK Hynix plunging more than 10%. European markets also fell, with the main indexes in Germany, France and Spain ending the day down.
-In the UK, the FTSE 100, which tracks the largest companies on the London Stock Exchange, declined 1.01%.
-In addition to the recent market volatility, UK traders were also digesting the latest Bank of England decision to raise interest rates and the signal that another rate rise could be on the cards to curb rising prices.
-Dan Coatsworth, head of markets at AJ Bell, said it had been a brutal week for markets, and the key question was whether the jump in the S&P 500 and Nasdaq would be sustained.
-"While no-one knows what happens next, it's clear that we've just seen a significant shift in market sentiment," he said.
-"Once investors have had the weekend to catch their breath, next week could give a clearer indication of whether the tech trade is going down the pan or fighting back."
-Could the US midterms put a pin in the AI bubble?
-- Published42 minutes ago
-Elon Musk appears to signal the end of the road for Cybertruck
-- Published9 hours ago
-The market fluctuations come after the sweeping Democrat victory in the midterm elections.
-A number of Democrats campaigned for new rules and regulations for artificial intelligence (AI) and data centres, and the party has since won control of both houses of congress as well as key contests in states that have been part of the AI data centre race.
-US President Donald Trump on Friday reiterated his supported for what he calls "super intelligence", saying only "foolish leadership" would "say no to the riches they bring".
-However, there have also been concerns over whether the enormous amounts of money being spent on AI will pay off.
-Russ Shaw, founder of global tech advocacy firm Tech London Advocates, said the election result was sending a message that a rethink was needed on AI.
-"The incoming Congress is going to really focus on AI in a very dramatic way," he told the BBC's Business Today.
-"I'm a big fan of AI, but I'm watching what these companies are doing, and they're not communicating effectively at all, particularly in the US, about what the benefits of AI are all about."
-He said people were watching firms come into their communities and build data centres while their own energy costs were going up, and those companies "have to be better neighbours".
-Strong jobs figures could ease market fears
-As well as the fallout of the midterms and the plunge in artificial intelligence stocks, US traders will also be digesting the latest jobs figures.
-And those numbers were better than expected: US employers added 165,000 new jobs in October, well above the average monthly increase and more than double what analysts had expected.
-Overall the unemployment rate, which counts the number of people who are out of work but actively looking for a job, eased slightly to 4.1% from 4.2% in September.
-The Bureau of Labor Statistics (BLS) said the unemployment rate has remained in the narrow range of 4.1% to 4.3% since March.
-Neil Birrell, chief investment officer at investment firm Premier Miton, said while the jobs figures may feel like second billing to the market movements they were still important.
-"The US economy is running hard which may mean the risks the markets are worrying about at the moment are not such a risk to the real economy as is being feared," he said.`,
-    bodyJa: `AI stocks climb after trillions wiped from market values
-- Published
-Shares in artificial intelligence and technology firms have been climbing following an enormous sell-off that wiped trillions of dollars off stock values.
-The tech-heavy Nasdaq stock index opened higher following a market rout that began in the US on Thursday before spilling over to Asian and European markets into Friday.
-Investors had been selling off tech shares in part due to concerns the Democrat victory in the midterm elections would mean slower artificial intelligence development.
-However the latest US employment figures added to a mixed picture for American markets on Friday morning, with an unexpectedly strong 165,000 jobs added to the economy in September.
-On Thursday, businesses closely linked to artificial intelligence development took a hammering on stock markets, particularly chip and semiconductor makers.
-But the Nasdaq Composite opened up on Friday and flattened out around 1.7% higher by lunchtime, reversing some of its 5.5% fall.
-The S&P 500, which tracks the share prices of the largest publicly-traded US companies, was around 0.9% higher by lunchtime. The Dow Jones Industrial Average opened a little down before nudging into positive territory.
-Nvidia, which shed hundreds of billions in market value on Thursday after shares slid more than 9%, began Friday up more than 6% but settled around 4% higher as trading continued.
-SpaceX and Tesla shares, which were also hammered on Thursday, saw more mixed gains, up more than 6% and nearly 5% respectively.
-Chipmakers AMD and Micron both dropped by more than 17% on Thursday, but AMD shares had risen by about 12% on Friday while Micron was up more than 8%.
-However, stock markets in Asia and Europe fared worse on Friday.
-The Kospi in South Korea closed down 6% on Friday, with shares in chipmaker SK Hynix plunging more than 10%. European markets also fell, with the main indexes in Germany, France and Spain ending the day down.
-In the UK, the FTSE 100, which tracks the largest companies on the London Stock Exchange, declined 1.01%.
-In addition to the recent market volatility, UK traders were also digesting the latest Bank of England decision to raise interest rates and the signal that another rate rise could be on the cards to curb rising prices.
-Dan Coatsworth, head of markets at AJ Bell, said it had been a brutal week for markets, and the key question was whether the jump in the S&P 500 and Nasdaq would be sustained.
-"While no-one knows what happens next, it's clear that we've just seen a significant shift in market sentiment," he said.
-"Once investors have had the weekend to catch their breath, next week could give a clearer indication of whether the tech trade is going down the pan or fighting back."
-Could the US midterms put a pin in the AI bubble?
-- Published42 minutes ago
-Elon Musk appears to signal the end of the road for Cybertruck
-- Published9 hours ago
-The market fluctuations come after the sweeping Democrat victory in the midterm elections.
-A number of Democrats campaigned for new rules and regulations for artificial intelligence (AI) and data centres, and the party has since won control of both houses of congress as well as key contests in states that have been part of the AI data centre race.
-US President Donald Trump on Friday reiterated his supported for what he calls "super intelligence", saying only "foolish leadership" would "say no to the riches they bring".
-However, there have also been concerns over whether the enormous amounts of money being spent on AI will pay off.
-Russ Shaw, founder of global tech advocacy firm Tech London Advocates, said the election result was sending a message that a rethink was needed on AI.
-"The incoming Congress is going to really focus on AI in a very dramatic way," he told the BBC's Business Today.
-"I'm a big fan of AI, but I'm watching what these companies are doing, and they're not communicating effectively at all, particularly in the US, about what the benefits of AI are all about."
-He said people were watching firms come into their communities and build data centres while their own energy costs were going up, and those companies "have to be better neighbours".
-Strong jobs figures could ease market fears
-As well as the fallout of the midterms and the plunge in artificial intelligence stocks, US traders will also be digesting the latest jobs figures.
-And those numbers were better than expected: US employers added 165,000 new jobs in October, well above the average monthly increase and more than double what analysts had expected.
-Overall the unemployment rate, which counts the number of people who are out of work but actively looking for a job, eased slightly to 4.1% from 4.2% in September.
-The Bureau of Labor Statistics (BLS) said the unemployment rate has remained in the narrow range of 4.1% to 4.3% since March.
-Neil Birrell, chief investment officer at investment firm Premier Miton, said while the jobs figures may feel like second billing to the market movements they were still important.
-"The US economy is running hard which may mean the risks the markets are worrying about at the moment are not such a risk to the real economy as is being feared," he said.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-06T17:03:02+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
-    readTime: 10,
-  },
-  {
-    id: "u-s-economy-added-165-000-jobs-in-octobe-3a8fd45f",
-    title: "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
-    titleJa: "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
-    summaryJa: "Nonfarm payrolls were expected to increase by 59,000 in October as the unemployment rate was expected to hold steady at 4.2%.",
-    bodyOriginal: `The U.S. economy added jobs at a much stronger-than-expected pace in October, while the unemployment rate moved lower as the labor market showed surprising strength.
-Nonfarm payrolls increased by a seasonally adjusted 165,000 for the month, compared with the Dow Jones estimate for 59,000, the Bureau of Labor Statistics reported Friday.
-The unemployment rate nudged down to 4.1%, compared with the forecast for 4.2%. A more encompassing measure that includes discouraged workers and those holding part-time jobs for economic reasons rose to 7.9%, up 0.3 percentage point, amid an increase of 421,000 in the civilian labor force.
-In addition to the strong payroll gains for October, prior months were revised up substantially: The August figure moved to 186,000, an upward revision of 53,000, while the September count shifted to 60,000 following an upward revision of 31,000.
-"You have to look pretty hard to find something to dislike in there," Dan North, senior economist at Allianz Trade North America. "It's a really, really good report, and all around I think you'd say it's stronger than expected and the best one in a while, and it kind of fits with what I call the stable but perhaps unexciting labor market."
-Payroll gains also came in better than forecast. Average hourly earnings increased 0.4% on the month and 3.1% annually, compared with respective estimates for 0.3% and 2.9%. The average workweek was unchanged at 34.4 hours.
-"Today's jobs report is a strong rebuttal to fears that the economy is heading into a meaningful slowdown," said Seema Shah, chief global strategist at Principal Asset Management. "Payrolls growth surprised firmly to the upside, unemployment fell back to 4.1%, and job creation remains broad-based, pointing to an economy that is still absorbing labor comfortably rather than one beginning to buckle under tighter financial conditions."
-The breadth of job growth also was strong, contrary to a trend in which healthcare had accounted for the bulk of gains.
-Professional and business services saw an increase of 70,000 to lead all sectors, while healthcare was next at 42,000. Other areas seeing notable growth included transportation and warehousing (25,000) and manufacturing (19,000).
-"The overall picture is a labor market that is on much better footing than a year ago," said Heather Long, chief economist at Navy Federal Credit Union. "In 2025, the economy added barely 10,000 jobs a month and basically all were in healthcare. ... There's a much more broad based range of opportunities."
-The report comes the same week as an election in which the economy and in particular inflation were the center of attention. Democrats staged a nationwide rout that will give the party control of both chambers of Congress after campaigning heavily on addressing affordability issues.
-For the Federal Reserve, the report also comes at a pivotal time. Central bankers are weighing whether to resume raising interest rates in December as inflation remains stubbornly above the central bank's 2% target.
-Traders increased the probability of another quarter percentage point hike when the Federal Open Market Committee meets Dec. 8-9. Odds rose to 76.8%, according to the CME Group's FedWatch tool, though the indicator pointed to only one more increase after. The odds of further hikes in 2027 have fallen somewhat in recent days, after the midterm election rout and Thursday's sell-off in tech stocks.
-Market reaction otherwise was muted, with a mixed picture on stock market futures heading into the open. Treasury yields were higher across the board.
-The share of workers either looking for a job or already working as a share of the workforce, known as the labor force participation rate, edged higher to 61.9%. The labor force had been shrinking, the result of demographic changes and immigration reductions, but expanded by 421,000 in October.
-At the same time, the household report, which is used to calculate the unemployment rate, showed 463,000 more people at work.
-Long-term unemployment, though, rose sharply.
-The average duration of unemployment jumped to 27.1 weeks, up 2.3 weeks from the prior month to the highest since September 2021. Those unemployed for more than 27 weeks increased to 1.96 million, the most since December 2021.`,
-    bodyJa: `The U.S. economy added jobs at a much stronger-than-expected pace in October, while the unemployment rate moved lower as the labor market showed surprising strength.
-Nonfarm payrolls increased by a seasonally adjusted 165,000 for the month, compared with the Dow Jones estimate for 59,000, the Bureau of Labor Statistics reported Friday.
-The unemployment rate nudged down to 4.1%, compared with the forecast for 4.2%. A more encompassing measure that includes discouraged workers and those holding part-time jobs for economic reasons rose to 7.9%, up 0.3 percentage point, amid an increase of 421,000 in the civilian labor force.
-In addition to the strong payroll gains for October, prior months were revised up substantially: The August figure moved to 186,000, an upward revision of 53,000, while the September count shifted to 60,000 following an upward revision of 31,000.
-"You have to look pretty hard to find something to dislike in there," Dan North, senior economist at Allianz Trade North America. "It's a really, really good report, and all around I think you'd say it's stronger than expected and the best one in a while, and it kind of fits with what I call the stable but perhaps unexciting labor market."
-Payroll gains also came in better than forecast. Average hourly earnings increased 0.4% on the month and 3.1% annually, compared with respective estimates for 0.3% and 2.9%. The average workweek was unchanged at 34.4 hours.
-"Today's jobs report is a strong rebuttal to fears that the economy is heading into a meaningful slowdown," said Seema Shah, chief global strategist at Principal Asset Management. "Payrolls growth surprised firmly to the upside, unemployment fell back to 4.1%, and job creation remains broad-based, pointing to an economy that is still absorbing labor comfortably rather than one beginning to buckle under tighter financial conditions."
-The breadth of job growth also was strong, contrary to a trend in which healthcare had accounted for the bulk of gains.
-Professional and business services saw an increase of 70,000 to lead all sectors, while healthcare was next at 42,000. Other areas seeing notable growth included transportation and warehousing (25,000) and manufacturing (19,000).
-"The overall picture is a labor market that is on much better footing than a year ago," said Heather Long, chief economist at Navy Federal Credit Union. "In 2025, the economy added barely 10,000 jobs a month and basically all were in healthcare. ... There's a much more broad based range of opportunities."
-The report comes the same week as an election in which the economy and in particular inflation were the center of attention. Democrats staged a nationwide rout that will give the party control of both chambers of Congress after campaigning heavily on addressing affordability issues.
-For the Federal Reserve, the report also comes at a pivotal time. Central bankers are weighing whether to resume raising interest rates in December as inflation remains stubbornly above the central bank's 2% target.
-Traders increased the probability of another quarter percentage point hike when the Federal Open Market Committee meets Dec. 8-9. Odds rose to 76.8%, according to the CME Group's FedWatch tool, though the indicator pointed to only one more increase after. The odds of further hikes in 2027 have fallen somewhat in recent days, after the midterm election rout and Thursday's sell-off in tech stocks.
-Market reaction otherwise was muted, with a mixed picture on stock market futures heading into the open. Treasury yields were higher across the board.
-The share of workers either looking for a job or already working as a share of the workforce, known as the labor force participation rate, edged higher to 61.9%. The labor force had been shrinking, the result of demographic changes and immigration reductions, but expanded by 421,000 in October.
-At the same time, the household report, which is used to calculate the unemployment rate, showed 463,000 more people at work.
-Long-term unemployment, though, rose sharply.
-The average duration of unemployment jumped to 27.1 weeks, up 2.3 weeks from the prior month to the highest since September 2021. Those unemployed for more than 27 weeks increased to 1.96 million, the most since December 2021.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
-    publishedAt: "2026-11-06T16:06:59+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "elon-musk-appears-to-signal-the-end-of-t-0db495f2",
-    title: "Elon Musk appears to signal the end of the road for Cybertruck",
-    titleJa: "Elon Musk appears to signal the end of the road for Cybertruck",
-    summaryJa: "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-    bodyOriginal: `Elon Musk appears to signal the end of the road for Cybertruck
-- Published
-Tesla will wind down production of its Cybertruck vehicles at its Texas factory next year, Elon Musk says.
-He did not spell out whether it plans to stop making them entirely or shift production elsewhere, but did say the decision was to "make room" for building more of its self-driving Cybercab cars.
-But the project's lead engineer, Wes Morrill, appeared to suggest the vehicle was being discontinued, writing on X: "Cybertruck was an incredible technology development platform and lives on through Cybercab."
-With its distinctive angular looks, the Cybertruck attracted diehard fans, but was beset by delays before being launched in 2023 and has had disappointing sales numbers since.
-Tesla fans have been mourning the news online, with one person calling it "the best vehicle Tesla has ever made, external" as he lamented it being "discontinued next year".
-Musk responded to the user, external with the word "true", adding: "But the Cybertruck fleet will be around for a long time."
-The vehicle has always been a passion project for Musk. He said it was "way more awesome than people realise, external" in March, and called it the "best product Tesla has ever made to date, external" in April.
-But there have always been big questions about whether consumers shared that view and whether the Cybertruck could cut through and earn a spot in the US' lucrative truck market.
-It was not helped by inauspicious introduction to the public in 2019 when Musk attempted to show off the Cybertruck's apparently unbreakable glass, only for it to shatter during a live demonstration.
-Despite the gaffe, the Cybertruck ended up receiving a 146,000 orders, Musk said in 2019, while it was still in development.
-In the end, the vehicle launched in 2023, keeping its novel design - an angular shape with a body made of stainless steel.
-Tesla fans praised its retro-futuristic look, which some said looked like something "straight out of Blade Runner, external".
-But critics were far less kind, joking about its appearance and labelling it "ugly as sin, external".
-Several recalls - including in 2025 affecting more than 46,000 Cybertrucks over concerns part of its trim could fall off - would not have helped.
-And then there's the price.
-"We need to make it at a price that people can afford," Musk told Wall Street analysts that year - which ended up being $61,000 (then £48,000) for all the "bells and whistles".
-In 2026, the so-called "Cyberbeast" model comes in at $102,000.
-Will Tesla's cybertruck recover from its shattering start?
-- Published30 November 2023
-Tesla truck has 150,000 orders despite launch gaffe
-- Published24 November 2019
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
-    bodyJa: `Elon Musk appears to signal the end of the road for Cybertruck
-- Published
-Tesla will wind down production of its Cybertruck vehicles at its Texas factory next year, Elon Musk says.
-He did not spell out whether it plans to stop making them entirely or shift production elsewhere, but did say the decision was to "make room" for building more of its self-driving Cybercab cars.
-But the project's lead engineer, Wes Morrill, appeared to suggest the vehicle was being discontinued, writing on X: "Cybertruck was an incredible technology development platform and lives on through Cybercab."
-With its distinctive angular looks, the Cybertruck attracted diehard fans, but was beset by delays before being launched in 2023 and has had disappointing sales numbers since.
-Tesla fans have been mourning the news online, with one person calling it "the best vehicle Tesla has ever made, external" as he lamented it being "discontinued next year".
-Musk responded to the user, external with the word "true", adding: "But the Cybertruck fleet will be around for a long time."
-The vehicle has always been a passion project for Musk. He said it was "way more awesome than people realise, external" in March, and called it the "best product Tesla has ever made to date, external" in April.
-But there have always been big questions about whether consumers shared that view and whether the Cybertruck could cut through and earn a spot in the US' lucrative truck market.
-It was not helped by inauspicious introduction to the public in 2019 when Musk attempted to show off the Cybertruck's apparently unbreakable glass, only for it to shatter during a live demonstration.
-Despite the gaffe, the Cybertruck ended up receiving a 146,000 orders, Musk said in 2019, while it was still in development.
-In the end, the vehicle launched in 2023, keeping its novel design - an angular shape with a body made of stainless steel.
-Tesla fans praised its retro-futuristic look, which some said looked like something "straight out of Blade Runner, external".
-But critics were far less kind, joking about its appearance and labelling it "ugly as sin, external".
-Several recalls - including in 2025 affecting more than 46,000 Cybertrucks over concerns part of its trim could fall off - would not have helped.
-And then there's the price.
-"We need to make it at a price that people can afford," Musk told Wall Street analysts that year - which ended up being $61,000 (then £48,000) for all the "bells and whistles".
-In 2026, the so-called "Cyberbeast" model comes in at $102,000.
-Will Tesla's cybertruck recover from its shattering start?
-- Published30 November 2023
-Tesla truck has 150,000 orders despite launch gaffe
-- Published24 November 2019
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-06T09:57:04+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg",
-    readTime: 7,
-  },
-  {
-    id: "how-does-it-affect-me-if-share-prices-fa-540c33db",
-    title: "How does it affect me if share prices fall?",
-    titleJa: "How does it affect me if share prices fall?",
-    summaryJa: "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
-    bodyOriginal: `How does it affect me if share prices fall?
-- Published
-Major tech firms have seen their stock values fall after a sell-off by investors following the US midterm elections.
-The fall in the value of their shares across the world has been blamed on an expectation of a slowdown in AI development, although it comes after sharp rises over recent years.
-As companies grow, they may issue shares. Many of the largest companies in the UK have shares which are bought and sold on the London Stock Exchange.
-Their collective performance is often quoted amid a blizzard of numbers that may feel confusing and irrelevant.
-Booms or falls in the stock market make the news, but rarely does anyone mention the FTSE 100 during a coffee with friends.
-Yet, there are good reasons why this performance affects your life and finances.
-'I don't invest' - actually, you probably do
-Many people's initial reaction to "the markets" is that they are not directly affected, because they do not invest money.
-Yet there are millions of people with a pension - either private or through work - who will see their savings (in what is known as a defined contribution pension) invested by pension schemes. The value of their savings pot is influenced by the performance of these investments.
-Pension savers mostly let experts choose where to invest this money to help it grow. Widespread falls in share prices are likely to be bad news for pension savers.
-Hundreds of billions of pounds are held in defined contribution pensions at the moment.
-So big rises or falls can affect your pension, but the advice is to remember that pension savings, like any investments, are usually a long-term bet.
-Experts say that investors have always had to ride economic shocks. Investments, by definition, require a long-term outlook and strategy. So, they are urging people not to panic in such circumstances or make knee-jerk decisions.
-Is my specific pension affected?
-Some people have a pension which promises a specific value, depending on their salary. Others have no pension at all.
-Millions of people have been automatically enrolled into a pension and may have not really noticed. Those schemes see employers divert wages into a pension and contribute some money themselves. The government adds a little in tax relief.
-In every case, the value of these pension savings is affected by investment performance. So "the markets" matter - maybe not as much as everyday wages, but for future pensions.
-What happens if I'm just about to retire?
-Timing is more critical for those at retirement age, as this may be when a retiree uses their pension pot to buy a retirement income, or annuity. The bigger the pot, the more income they will get in retirement.
-As you approach retirement age, pension pots tend to be moved to less risky investments, such as government bonds. When stock markets fall, these bonds can do better.
-Anyone who has a pension pot invested and is taking an income from it will again see their investment go up and down with the stock markets.
-That could mean getting less than you expected if you cash in too much after stock markets have fallen, making it important to plan how to make up any of this shortfall, experts say.
-However, higher interest rates tend to mean better rates offered on annuities, and there is a chance of more rate rises in the UK by the Bank of England.
-Is my job at risk?
-If share prices fall for an extended period then that could have an effect on jobs.
-That's because investors in the company expect a return on that investment.
-When it falls for a while, then they would expect the business to address issues, for example by cutting costs, and therefore jobs.
-There is a huge element of the unknown here though. Companies have to consider lots of factors when making decisions on investment and employment.
-Are stock market falls always bad?
-In purely investment terms, lower share prices can offer an opportunity to buy, in the hope that over the long term, they recover and rise. Many people will do this initially through a stocks and shares Individual Savings Account (Isa).
-However, it is worth noting that the sell-off in tech stocks in particular came after big rises, so long-term investors are still likely to have seen gains.
-Experts and regulators are at pains to point out that investments can go down as well as up, and urge people not to put everything into one investment, but to diversify.
-Some people invest money in what are known as tracker funds. These go up and down in line with the performance of a certain index, such as the FTSE 100.
-So if the index falls, so does the value of their investments and vice versa. One advantage of these funds is that they often cost relatively little to sign up to.
-Can anyone invest their money?
-Yes, and millions of people do, but experts stress that a long-term strategy is required to ride out short-term falls. It is also important to ensure cash savings are held too, so unexpected expenses - like the need for a replacement boiler - can be covered.
-The government is keen to get people in the UK to invest more, partly because it says that will help UK economic growth and partly because it is much more popular among individuals in the US and some parts of Europe.
-It backed an advertising campaign to encourage people to invest, funded by some of the UK's biggest financial services firms.
-But the choice of "Savvy the Squirrel" to front the campaign has raised some eyebrows. Some question whether the push could get anywhere close to the success of the Tell Sid adverts of the 1980s, which encouraged people to invest in the newly privatised British Gas.
-Will things get more expensive?
-When we see big shifts in the stock markets there can also be fluctuations in the value of currencies and exchange rates.
-As a result, prices could go up, but could also go down.
-Upheaval to economies across the world, to oil prices and so on, have a big impact on what we pay at home for goods and services, so there are lots of factors in play.
-Get in touch
-Are you concerned about the impact of tariffs on your business or personal finances? Do you have any questions regarding tariffs?
-Clarification 19 December: This article was amended to provide more context around how companies issue shares.`,
-    bodyJa: `How does it affect me if share prices fall?
-- Published
-Major tech firms have seen their stock values fall after a sell-off by investors following the US midterm elections.
-The fall in the value of their shares across the world has been blamed on an expectation of a slowdown in AI development, although it comes after sharp rises over recent years.
-As companies grow, they may issue shares. Many of the largest companies in the UK have shares which are bought and sold on the London Stock Exchange.
-Their collective performance is often quoted amid a blizzard of numbers that may feel confusing and irrelevant.
-Booms or falls in the stock market make the news, but rarely does anyone mention the FTSE 100 during a coffee with friends.
-Yet, there are good reasons why this performance affects your life and finances.
-'I don't invest' - actually, you probably do
-Many people's initial reaction to "the markets" is that they are not directly affected, because they do not invest money.
-Yet there are millions of people with a pension - either private or through work - who will see their savings (in what is known as a defined contribution pension) invested by pension schemes. The value of their savings pot is influenced by the performance of these investments.
-Pension savers mostly let experts choose where to invest this money to help it grow. Widespread falls in share prices are likely to be bad news for pension savers.
-Hundreds of billions of pounds are held in defined contribution pensions at the moment.
-So big rises or falls can affect your pension, but the advice is to remember that pension savings, like any investments, are usually a long-term bet.
-Experts say that investors have always had to ride economic shocks. Investments, by definition, require a long-term outlook and strategy. So, they are urging people not to panic in such circumstances or make knee-jerk decisions.
-Is my specific pension affected?
-Some people have a pension which promises a specific value, depending on their salary. Others have no pension at all.
-Millions of people have been automatically enrolled into a pension and may have not really noticed. Those schemes see employers divert wages into a pension and contribute some money themselves. The government adds a little in tax relief.
-In every case, the value of these pension savings is affected by investment performance. So "the markets" matter - maybe not as much as everyday wages, but for future pensions.
-What happens if I'm just about to retire?
-Timing is more critical for those at retirement age, as this may be when a retiree uses their pension pot to buy a retirement income, or annuity. The bigger the pot, the more income they will get in retirement.
-As you approach retirement age, pension pots tend to be moved to less risky investments, such as government bonds. When stock markets fall, these bonds can do better.
-Anyone who has a pension pot invested and is taking an income from it will again see their investment go up and down with the stock markets.
-That could mean getting less than you expected if you cash in too much after stock markets have fallen, making it important to plan how to make up any of this shortfall, experts say.
-However, higher interest rates tend to mean better rates offered on annuities, and there is a chance of more rate rises in the UK by the Bank of England.
-Is my job at risk?
-If share prices fall for an extended period then that could have an effect on jobs.
-That's because investors in the company expect a return on that investment.
-When it falls for a while, then they would expect the business to address issues, for example by cutting costs, and therefore jobs.
-There is a huge element of the unknown here though. Companies have to consider lots of factors when making decisions on investment and employment.
-Are stock market falls always bad?
-In purely investment terms, lower share prices can offer an opportunity to buy, in the hope that over the long term, they recover and rise. Many people will do this initially through a stocks and shares Individual Savings Account (Isa).
-However, it is worth noting that the sell-off in tech stocks in particular came after big rises, so long-term investors are still likely to have seen gains.
-Experts and regulators are at pains to point out that investments can go down as well as up, and urge people not to put everything into one investment, but to diversify.
-Some people invest money in what are known as tracker funds. These go up and down in line with the performance of a certain index, such as the FTSE 100.
-So if the index falls, so does the value of their investments and vice versa. One advantage of these funds is that they often cost relatively little to sign up to.
-Can anyone invest their money?
-Yes, and millions of people do, but experts stress that a long-term strategy is required to ride out short-term falls. It is also important to ensure cash savings are held too, so unexpected expenses - like the need for a replacement boiler - can be covered.
-The government is keen to get people in the UK to invest more, partly because it says that will help UK economic growth and partly because it is much more popular among individuals in the US and some parts of Europe.
-It backed an advertising campaign to encourage people to invest, funded by some of the UK's biggest financial services firms.
-But the choice of "Savvy the Squirrel" to front the campaign has raised some eyebrows. Some question whether the push could get anywhere close to the success of the Tell Sid adverts of the 1980s, which encouraged people to invest in the newly privatised British Gas.
-Will things get more expensive?
-When we see big shifts in the stock markets there can also be fluctuations in the value of currencies and exchange rates.
-As a result, prices could go up, but could also go down.
-Upheaval to economies across the world, to oil prices and so on, have a big impact on what we pay at home for goods and services, so there are lots of factors in play.
-Get in touch
-Are you concerned about the impact of tariffs on your business or personal finances? Do you have any questions regarding tariffs?
-Clarification 19 December: This article was amended to provide more context around how companies issue shares.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-06T09:21:50+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c320/live/25775960-3fc2-11f1-b61b-1d0ccf7b6022.jpg",
-    readTime: 10,
   },
 ];
 
