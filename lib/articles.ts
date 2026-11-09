@@ -15,6 +15,348 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "from-supermarket-fridges-to-passenger-fl-8694ab5e",
+    title: "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses",
+    titleJa: "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses",
+    summaryJa: "Cyberattacks on fridges in supermarkets and a wave of bomb threats are testing Europe’s ability to withstand disruption to crucial infrastructure.",
+    bodyOriginal: `Cyberattacks, bomb threats against passenger flights, civil unrest and suspected acts of sabotage across Europe have raised questions about the continent's resilience — and how prepared it is to defend itself against modern security threats.
+Hackers remotely manipulated refrigeration systems at supermarkets across Europe last week, forcing retailers to discard spoiled food and exposing vulnerabilities in everyday infrastructure.
+French blood-bank refrigeration systems were subsequently targeted in what appeared to be a similar incident, while a wave of suspected hoax bomb threats disrupted dozens of flights across the continent, forcing diversions and, in some cases, fighter jet escorts.
+The week culminated with bomb threats targeting European news outlets, including the U.K.'s Sky News and Irish public broadcaster RTÉ.
+The incidents come against a backdrop of heightened geopolitical tensions and domestic unrest across parts of Europe, with civilian infrastructure potentially becoming an increasingly attractive target for hostile actors.
+While authorities have not established who was behind the attacks or whether they were connected, defense and security experts warn that disruption to everyday services can have consequences far beyond the immediate economic damage.
+If Russia were responsible, such attacks could be intended to demonstrate the costs of Europe's continued support for Ukraine, said Sidharth Kaushal, a research fellow at the Royal United Services Institute, or RUSI.
+"I think it's more about cost imposition," Kaushal told CNBC. "Convincing the European political leadership that the costs of a war can come home to them."
+Russia didn't immediately respond to a CNBC request for comment.
+Cyberattacks
+On Monday, supermarkets in Belgium, Luxembourg, Sweden and the Netherlands found that refrigeration systems had been set to as much as 50 degrees Celsius, or 122 degrees Fahrenheit, affecting retailers including Ahold Delhaize, IKEA, Colruyt Group and Carrefour.
+It followed an October cyberattack that targeted hundreds of French supermarkets, causing fires, fridges to overheat and food to spoil. The incidents highlighted vulnerabilities in food-supply infrastructure.
+They also highlight the role of private companies in national resilience, as internet-connected equipment can be exploited to cause physical disruption.
+Fredrik Blix, cybersecurity expert at Visente and associate professor at Stockholm University, told CNBC that the supermarket attacks required very little technical sophistication since vulnerable refrigeration control systems were connected directly to the public internet, allowing potential attackers to find and exploit them.
+"These attacks, they don't really require any specific advanced knowledge to carry out," he said, adding that some systems were protected only by default passwords or easily guessed credentials.
+"This is why this is so cheap to do," Blix said, warning that the publicity surrounding the incidents could encourage copycat attacks. "Anyone can do it, and it does not require any resources from a country or anything like that."
+Cyberattacks have become more common over the past decade as societies have become more digital and vulnerable systems have become easier to access, Blix said. However, he noted that mounting geopolitical tensions have also made European countries more alert to potential hybrid warfare threats, leading to scrutiny by both governments and media.
+While Blix acknowledged the possibility of a state or state-backed actor being behind the attacks, he said the more likely scenario is someone testing the boundaries and "having some fun."
+Kaushal said the incidents should be viewed within the larger context of suspected sabotage and hybrid threats across Europe, including damage to undersea cables in the Baltic Sea.
+"If this was an event in isolation, one might say 'okay, we should view it on its own merits,' but when you view it in the backdrop of all of that, it becomes less clear," he said, also citing death threats against European defense executives and a bomb placed on a DHL aircraft in 2024.
+Can Europe defend itself?
+European governments are contending with greater uncertainty over U.S. security guarantees after decades of underinvestment in defense, while facing a rise in unconventional but potentially devastating threats.
+Hybrid warfare combines tactics such as cyberattacks, sabotage and disinformation to destabilize adversaries without triggering open military conflict.
+Countries' abilities to withstand hybrid threats vary substantially across the continent, according to Kaushal. While Finland and Sweden have well-developed civilian defense programs reflecting their Cold War experience, much of Europe's infrastructure was built around economic efficiency rather than defense needs.
+"As one goes further west in Europe, the level of preparation, both against hybrid attacks, but also just simple missile attacks of the kind that we've seen in Ukraine, is far less great," he said.
+"Every attack generates a bit of resilience," he said, citing NATO's increased focus on threats to underwater cables and gas pipelines after the 2022 Nord Stream sabotage.
+We've been slow in adjusting to a new reality...We still tend to conceptually divide between peace and wartime, and that is no longer the case because we're not at war, but we're also not in peacetime.Oana Popescu-ZamfirRUSI senior research fellow
+Oana Popescu-Zamfir, a senior research fellow specializing in European security at RUSI, said the recent incidents showed Europe had lagged in "preparing for something that we have known would be coming."
+"We've been slow in adjusting to a new reality," she said. "We still tend to conceptually divide between peace and wartime, and that is no longer the case because we're not at war, but we're also not in peace time."
+She said Europe was likely to face sustained hybrid attacks designed to achieve military objectives without conventional military force.
+Popescu-Zamfir said Russia could draw on networks of proxies in Europe, some directly controlled and others more loosely coordinated, making responsibility difficult to trace directly to the Kremlin.
+She told CNBC that "the damage that can be done is huge" in targeted attacks on internet-connected systems, citing the potential disruption of blood reserves.
+The attacks are not a "piece of cake for Russia to carry out, but they're also not rocket science," she said, adding that they "can do tremendous damage in concrete terms and in terms of the psychological impact on our societies and the feeling that we are unprotected."
+Blix said companies can take relatively straightforward steps to reduce their exposure.
+"These are basic cyber hygiene things... You should not be allowed to connect industrial control systems and this kind of operational technology directly online without any proper security around it," he said.
+Responsibility is split among product manufacturers, maintenance providers and grocery chains, making accountability unclear as each points to the others.
+Blix said maintenance companies sometimes prioritize convenience by enabling remote access despite manufacturers' security guidance, while retailers may fail to enforce adequate cybersecurity standards among suppliers.
+"What worries me is that we don't really do anything," Blix said, adding that "we are shuffling a lot of papers" and "doing a lot of risk assessments" but failing to take meaningful action.
+Economic pressure
+Europe has also seen widespread unrest in recent months, adding political pressure as households grapple with high living costs.
+Domestic political and economic tensions can also give foreign adversaries opportunities to deepen divisions, said Alexander Anderson, president and director of policy at the Centre for International Security and Economic Strategy.
+He told CNBC that Russian and potentially Chinese influence operations may work to amplify those divisions.
+"But we should be careful not to dismiss legitimate domestic grievances as the product of foreign interference," he said. "Doing so risks misunderstanding both the causes of political instability and the methods through which hostile actors seek to exploit it."
+Weeks of nationwide protests, riots and strikes have increased pressure on the French government, complicating efforts to rein in public finances and deepening existing political divisions.
+In Spain, demonstrations and a parliamentary impasse over the housing crisis led Prime Minister Pedro Sanchez to call a snap election. The vote is scheduled for Nov. 29. The far-right Vox party is expected to make gains, putting Sanchez's left-leaning government at risk of losing power.
+Germany, Italy, Portugal and Albania have also seen unrest over rising living costs in recent weeks.
+On Friday, protesters in Amsterdam tried to enter a Microsoft data center, Reuters reported.
+Meanwhile, elevated energy prices, persistent inflation, sluggish growth and large budget deficits are pushing up borrowing costs and leaving governments with less room to support struggling households.`,
+    bodyJa: `Cyberattacks, bomb threats against passenger flights, civil unrest and suspected acts of sabotage across Europe have raised questions about the continent's resilience — and how prepared it is to defend itself against modern security threats.
+Hackers remotely manipulated refrigeration systems at supermarkets across Europe last week, forcing retailers to discard spoiled food and exposing vulnerabilities in everyday infrastructure.
+French blood-bank refrigeration systems were subsequently targeted in what appeared to be a similar incident, while a wave of suspected hoax bomb threats disrupted dozens of flights across the continent, forcing diversions and, in some cases, fighter jet escorts.
+The week culminated with bomb threats targeting European news outlets, including the U.K.'s Sky News and Irish public broadcaster RTÉ.
+The incidents come against a backdrop of heightened geopolitical tensions and domestic unrest across parts of Europe, with civilian infrastructure potentially becoming an increasingly attractive target for hostile actors.
+While authorities have not established who was behind the attacks or whether they were connected, defense and security experts warn that disruption to everyday services can have consequences far beyond the immediate economic damage.
+If Russia were responsible, such attacks could be intended to demonstrate the costs of Europe's continued support for Ukraine, said Sidharth Kaushal, a research fellow at the Royal United Services Institute, or RUSI.
+"I think it's more about cost imposition," Kaushal told CNBC. "Convincing the European political leadership that the costs of a war can come home to them."
+Russia didn't immediately respond to a CNBC request for comment.
+Cyberattacks
+On Monday, supermarkets in Belgium, Luxembourg, Sweden and the Netherlands found that refrigeration systems had been set to as much as 50 degrees Celsius, or 122 degrees Fahrenheit, affecting retailers including Ahold Delhaize, IKEA, Colruyt Group and Carrefour.
+It followed an October cyberattack that targeted hundreds of French supermarkets, causing fires, fridges to overheat and food to spoil. The incidents highlighted vulnerabilities in food-supply infrastructure.
+They also highlight the role of private companies in national resilience, as internet-connected equipment can be exploited to cause physical disruption.
+Fredrik Blix, cybersecurity expert at Visente and associate professor at Stockholm University, told CNBC that the supermarket attacks required very little technical sophistication since vulnerable refrigeration control systems were connected directly to the public internet, allowing potential attackers to find and exploit them.
+"These attacks, they don't really require any specific advanced knowledge to carry out," he said, adding that some systems were protected only by default passwords or easily guessed credentials.
+"This is why this is so cheap to do," Blix said, warning that the publicity surrounding the incidents could encourage copycat attacks. "Anyone can do it, and it does not require any resources from a country or anything like that."
+Cyberattacks have become more common over the past decade as societies have become more digital and vulnerable systems have become easier to access, Blix said. However, he noted that mounting geopolitical tensions have also made European countries more alert to potential hybrid warfare threats, leading to scrutiny by both governments and media.
+While Blix acknowledged the possibility of a state or state-backed actor being behind the attacks, he said the more likely scenario is someone testing the boundaries and "having some fun."
+Kaushal said the incidents should be viewed within the larger context of suspected sabotage and hybrid threats across Europe, including damage to undersea cables in the Baltic Sea.
+"If this was an event in isolation, one might say 'okay, we should view it on its own merits,' but when you view it in the backdrop of all of that, it becomes less clear," he said, also citing death threats against European defense executives and a bomb placed on a DHL aircraft in 2024.
+Can Europe defend itself?
+European governments are contending with greater uncertainty over U.S. security guarantees after decades of underinvestment in defense, while facing a rise in unconventional but potentially devastating threats.
+Hybrid warfare combines tactics such as cyberattacks, sabotage and disinformation to destabilize adversaries without triggering open military conflict.
+Countries' abilities to withstand hybrid threats vary substantially across the continent, according to Kaushal. While Finland and Sweden have well-developed civilian defense programs reflecting their Cold War experience, much of Europe's infrastructure was built around economic efficiency rather than defense needs.
+"As one goes further west in Europe, the level of preparation, both against hybrid attacks, but also just simple missile attacks of the kind that we've seen in Ukraine, is far less great," he said.
+"Every attack generates a bit of resilience," he said, citing NATO's increased focus on threats to underwater cables and gas pipelines after the 2022 Nord Stream sabotage.
+We've been slow in adjusting to a new reality...We still tend to conceptually divide between peace and wartime, and that is no longer the case because we're not at war, but we're also not in peacetime.Oana Popescu-ZamfirRUSI senior research fellow
+Oana Popescu-Zamfir, a senior research fellow specializing in European security at RUSI, said the recent incidents showed Europe had lagged in "preparing for something that we have known would be coming."
+"We've been slow in adjusting to a new reality," she said. "We still tend to conceptually divide between peace and wartime, and that is no longer the case because we're not at war, but we're also not in peace time."
+She said Europe was likely to face sustained hybrid attacks designed to achieve military objectives without conventional military force.
+Popescu-Zamfir said Russia could draw on networks of proxies in Europe, some directly controlled and others more loosely coordinated, making responsibility difficult to trace directly to the Kremlin.
+She told CNBC that "the damage that can be done is huge" in targeted attacks on internet-connected systems, citing the potential disruption of blood reserves.
+The attacks are not a "piece of cake for Russia to carry out, but they're also not rocket science," she said, adding that they "can do tremendous damage in concrete terms and in terms of the psychological impact on our societies and the feeling that we are unprotected."
+Blix said companies can take relatively straightforward steps to reduce their exposure.
+"These are basic cyber hygiene things... You should not be allowed to connect industrial control systems and this kind of operational technology directly online without any proper security around it," he said.
+Responsibility is split among product manufacturers, maintenance providers and grocery chains, making accountability unclear as each points to the others.
+Blix said maintenance companies sometimes prioritize convenience by enabling remote access despite manufacturers' security guidance, while retailers may fail to enforce adequate cybersecurity standards among suppliers.
+"What worries me is that we don't really do anything," Blix said, adding that "we are shuffling a lot of papers" and "doing a lot of risk assessments" but failing to take meaningful action.
+Economic pressure
+Europe has also seen widespread unrest in recent months, adding political pressure as households grapple with high living costs.
+Domestic political and economic tensions can also give foreign adversaries opportunities to deepen divisions, said Alexander Anderson, president and director of policy at the Centre for International Security and Economic Strategy.
+He told CNBC that Russian and potentially Chinese influence operations may work to amplify those divisions.
+"But we should be careful not to dismiss legitimate domestic grievances as the product of foreign interference," he said. "Doing so risks misunderstanding both the causes of political instability and the methods through which hostile actors seek to exploit it."
+Weeks of nationwide protests, riots and strikes have increased pressure on the French government, complicating efforts to rein in public finances and deepening existing political divisions.
+In Spain, demonstrations and a parliamentary impasse over the housing crisis led Prime Minister Pedro Sanchez to call a snap election. The vote is scheduled for Nov. 29. The far-right Vox party is expected to make gains, putting Sanchez's left-leaning government at risk of losing power.
+Germany, Italy, Portugal and Albania have also seen unrest over rising living costs in recent weeks.
+On Friday, protesters in Amsterdam tried to enter a Microsoft data center, Reuters reported.
+Meanwhile, elevated energy prices, persistent inflation, sluggish growth and large budget deficits are pushing up borrowing costs and leaving governments with less room to support struggling households.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/09/europe-fridge-hacks-bomb-threats-cyberattack.html",
+    publishedAt: "2026-11-09T05:00:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "china-wholesale-inflation-hits-highest-i-fd60b30c",
+    title: "China wholesale inflation hits highest in more than four years as consumer measure slows",
+    titleJa: "China wholesale inflation hits highest in more than four years as consumer measure slows",
+    summaryJa: "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
+    bodyOriginal: `Producer prices in China grew at the fastest rate since June 2022, accelerating for the third month in a row.
+The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters. The increase was driven by a sharp rise in prices in the mining and raw materials industries.
+The increase was driven by very strong external demand, Zhang Zhiwei, president and chief economist at Pinpoint Asset Management, told CNBC's "Squawk Box Asia."
+Consumer inflation in China slowed to 0.7% in October, its first deceleration after two straight months of increases.
+The figure missed expectations of a 0.8% rise from economists polled by Reuters, and was lower than the 0.9% seen in September.
+Core inflation, which strips out food and energy prices, came in at 0.8%, down from the 1% seen in the month before.
+The rise in consumer prices were still held up by prices of gasoline, which was the largest contributor to the increase in prices, but this was offset by a sharper than expected fall in food prices, according to Dong Lijuan, chief statistician of the urban division at China's National Bureau of Statistics.
+The Chinese economy has shown some signs of expansion recently. It grew faster than expected in the third quarter, and September saw a sharp beat in retail sales.
+The mainland Chinese CSI 300 index gained 0.56% after the data release.
+Pinpoint's Zhang said that domestic demand has been rather weak due to the property market, and this is a key reason why inflation is not picking up in China
+"There's no clear sign of stabilization [in that sector] yet," he said, adding this was weighing on the household consumer confidence and local government revenue.
+"So the the overall economic momentum has been weak and hasn't really seen [a] clear sign of recovery," Zhang explained.`,
+    bodyJa: `Producer prices in China grew at the fastest rate since June 2022, accelerating for the third month in a row.
+The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters. The increase was driven by a sharp rise in prices in the mining and raw materials industries.
+The increase was driven by very strong external demand, Zhang Zhiwei, president and chief economist at Pinpoint Asset Management, told CNBC's "Squawk Box Asia."
+Consumer inflation in China slowed to 0.7% in October, its first deceleration after two straight months of increases.
+The figure missed expectations of a 0.8% rise from economists polled by Reuters, and was lower than the 0.9% seen in September.
+Core inflation, which strips out food and energy prices, came in at 0.8%, down from the 1% seen in the month before.
+The rise in consumer prices were still held up by prices of gasoline, which was the largest contributor to the increase in prices, but this was offset by a sharper than expected fall in food prices, according to Dong Lijuan, chief statistician of the urban division at China's National Bureau of Statistics.
+The Chinese economy has shown some signs of expansion recently. It grew faster than expected in the third quarter, and September saw a sharp beat in retail sales.
+The mainland Chinese CSI 300 index gained 0.56% after the data release.
+Pinpoint's Zhang said that domestic demand has been rather weak due to the property market, and this is a key reason why inflation is not picking up in China
+"There's no clear sign of stabilization [in that sector] yet," he said, adding this was weighing on the household consumer confidence and local government revenue.
+"So the the overall economic momentum has been weak and hasn't really seen [a] clear sign of recovery," Zhang explained.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+    publishedAt: "2026-11-09T02:50:22+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "my-life-could-be-cut-short-i-m-55-marri-aee705ff",
+    title: "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
+    titleJa: "‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?",
+    summaryJa: "“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”",
+    bodyOriginal: `“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”`,
+    bodyJa: `“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories",
+    publishedAt: "2026-11-09T01:21:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-49119290",
+    readTime: 2,
+  },
+  {
+    id: "nvidia-launches-investigation-into-ceo-s-687e31f1",
+    title: "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+    titleJa: "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+    summaryJa: "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+    bodyOriginal: `Nvidia launches investigation into CEO's affair with suspected Chinese spy
+- Published
+US tech giant Nvidia has opened an independent investigation following reports its CEO Jensen Huang had a relationship with a suspected Chinese spy.
+The company, one of the most valuable in the world, said its board had no reason to believe the company's secrets or national security were compromised, adding that the CEO was committed to continuing to lead the company.
+Separately, Jensen Huang admitted to having been "unfaithful" to his wife and apologised for hurting her and their children.
+US intelligence officials believed that Chinese businesswoman Alice Huang, who had a close relationship with Jensen Huang, was a spy for Beijing, according to a New York Times report.
+Jensen Huang said he took "full responsibility" for what he did, adding that he had fallen short of his responsibilities to Nvidia's employees, board and shareholders.
+Nvidia is one of the world's largest companies and seen as central to making the hardware for emerging AI technologies, and Jensen Huang has been in charge of it for more than 30 years.
+He said: "I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry."
+His statement continued: "Regarding the national security concerns raised in news reports, Nvidia's Board of Directors has initiated an independent investigation. I support the investigation and will cooperate fully.
+"I love our country and our company. I am committed to protecting Nvidia and supporting America's national security. I am proud and grateful to be an American."
+A separate statement issued by Nvidia's board of directors said it would begin an investigation in "light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort".
+It continued: "The Board prioritises US national and economic security, which is paramount to the interests of Nvidia and its shareholders.
+"While the Board has no reason to believe that either national security or Nvidia secrets were compromised, the Board's inquiry will examine all available information."
+US President Donald Trump said he had not spoken to the Nvidia boss since news of the investigation emerged.
+"I just know he's a fine person, but you never know what's going on," Trump told reporters, adding that he had "done an amazing job for our country".
+The New York Times reported in late October that Trump had been briefed last year on intelligence alleging Alice Huang was spying on China's behalf.
+Asked by reporters on Sunday whether he now wished he had "acted on the intelligence" at the time, Trump responded: "No, I don't think so. I think he's an honourable guy."
+China has previously rejected allegations of an espionage operation targeting the Nvidia chief, describing the claims as "groundless speculation".
+Jensen Huang rescued Nvidia from bankruptcy on more than one occasion, and he took risks on AI a long time before the rest of the world did.
+His decision to make Nvidia chips, originally designed for gaming, become the best in the business for AI development, has now paid off in spades and the company is worth trillions.
+This is a big blow for a man who is renowned for being a workaholic, a perfectionist and someone who expects incredibly high standards from his staff.
+Alice Huang, who is of no relation to Jensen Huang, is linked to Singapore-based data centre firm Megaspeed.
+The company told the New York Times last month its current leadership took the allegations seriously and had appointed external legal advisers to conduct an internal investigation.
+Nvidia is a central player in AI infrastructure, providing chips to leading AI model developers including OpenAI and Meta.
+The microchip manufacturer is worth some $4.5 trillion, making it one of the most valuable companies ever.
+US intelligence agencies had been monitoring Alice Huang and concluded that she was acting on behalf of the Chinese government, according to unnamed sources cited by the New York Times.
+Surveillance reportedly revealed communications between Alice Huang and an American citizen, who was subsequently identified as Jensen Huang through a process known as "unmasking".
+It remains unclear what information Alice Huang – who is also known as Huang Le – allegedly passed to Beijing, how valuable it was, or when she is believed to have begun gathering intelligence.
+Alice Huang did not respond to the paper's request for comment.
+Last week, members of Congress wrote to Jensen Huang, asking him to appear before them in the light of the reported relationship.
+Three House Republican committee leaders asked the CEO to appear later in the month, to talk about Nvidia's "security protocols against foreign adversary espionage" given his reported relationship with Alice Huang.
+"Recent reports raise significant national security concerns regarding the PRC's [China's] access to sensitive US technology and information.
+"The issue of PRC infiltration and access to cutting-edge US technology is core to the investigative work of our three committees this Congress," the letter said.
+Nvidia's AI chips have been a major focus of the rivalry between the US and China, and Washington has previously imposed controls on where its advanced products can be sold.
+The H200, Nvidia's second most advanced semiconductor, had previously been restricted by Washington over concerns that it would give China's technology industry an edge over the US.
+In January, the Trump administration said it would allow the company to sell its H200 chips to Chinese customers under certain conditions.
+Related topics
+- Published21 May
+- Published25 February
+- Published30 October`,
+    bodyJa: `Nvidia launches investigation into CEO's affair with suspected Chinese spy
+- Published
+US tech giant Nvidia has opened an independent investigation following reports its CEO Jensen Huang had a relationship with a suspected Chinese spy.
+The company, one of the most valuable in the world, said its board had no reason to believe the company's secrets or national security were compromised, adding that the CEO was committed to continuing to lead the company.
+Separately, Jensen Huang admitted to having been "unfaithful" to his wife and apologised for hurting her and their children.
+US intelligence officials believed that Chinese businesswoman Alice Huang, who had a close relationship with Jensen Huang, was a spy for Beijing, according to a New York Times report.
+Jensen Huang said he took "full responsibility" for what he did, adding that he had fallen short of his responsibilities to Nvidia's employees, board and shareholders.
+Nvidia is one of the world's largest companies and seen as central to making the hardware for emerging AI technologies, and Jensen Huang has been in charge of it for more than 30 years.
+He said: "I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did. I am deeply sorry."
+His statement continued: "Regarding the national security concerns raised in news reports, Nvidia's Board of Directors has initiated an independent investigation. I support the investigation and will cooperate fully.
+"I love our country and our company. I am committed to protecting Nvidia and supporting America's national security. I am proud and grateful to be an American."
+A separate statement issued by Nvidia's board of directors said it would begin an investigation in "light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort".
+It continued: "The Board prioritises US national and economic security, which is paramount to the interests of Nvidia and its shareholders.
+"While the Board has no reason to believe that either national security or Nvidia secrets were compromised, the Board's inquiry will examine all available information."
+US President Donald Trump said he had not spoken to the Nvidia boss since news of the investigation emerged.
+"I just know he's a fine person, but you never know what's going on," Trump told reporters, adding that he had "done an amazing job for our country".
+The New York Times reported in late October that Trump had been briefed last year on intelligence alleging Alice Huang was spying on China's behalf.
+Asked by reporters on Sunday whether he now wished he had "acted on the intelligence" at the time, Trump responded: "No, I don't think so. I think he's an honourable guy."
+China has previously rejected allegations of an espionage operation targeting the Nvidia chief, describing the claims as "groundless speculation".
+Jensen Huang rescued Nvidia from bankruptcy on more than one occasion, and he took risks on AI a long time before the rest of the world did.
+His decision to make Nvidia chips, originally designed for gaming, become the best in the business for AI development, has now paid off in spades and the company is worth trillions.
+This is a big blow for a man who is renowned for being a workaholic, a perfectionist and someone who expects incredibly high standards from his staff.
+Alice Huang, who is of no relation to Jensen Huang, is linked to Singapore-based data centre firm Megaspeed.
+The company told the New York Times last month its current leadership took the allegations seriously and had appointed external legal advisers to conduct an internal investigation.
+Nvidia is a central player in AI infrastructure, providing chips to leading AI model developers including OpenAI and Meta.
+The microchip manufacturer is worth some $4.5 trillion, making it one of the most valuable companies ever.
+US intelligence agencies had been monitoring Alice Huang and concluded that she was acting on behalf of the Chinese government, according to unnamed sources cited by the New York Times.
+Surveillance reportedly revealed communications between Alice Huang and an American citizen, who was subsequently identified as Jensen Huang through a process known as "unmasking".
+It remains unclear what information Alice Huang – who is also known as Huang Le – allegedly passed to Beijing, how valuable it was, or when she is believed to have begun gathering intelligence.
+Alice Huang did not respond to the paper's request for comment.
+Last week, members of Congress wrote to Jensen Huang, asking him to appear before them in the light of the reported relationship.
+Three House Republican committee leaders asked the CEO to appear later in the month, to talk about Nvidia's "security protocols against foreign adversary espionage" given his reported relationship with Alice Huang.
+"Recent reports raise significant national security concerns regarding the PRC's [China's] access to sensitive US technology and information.
+"The issue of PRC infiltration and access to cutting-edge US technology is core to the investigative work of our three committees this Congress," the letter said.
+Nvidia's AI chips have been a major focus of the rivalry between the US and China, and Washington has previously imposed controls on where its advanced products can be sold.
+The H200, Nvidia's second most advanced semiconductor, had previously been restricted by Washington over concerns that it would give China's technology industry an edge over the US.
+In January, the Trump administration said it would allow the company to sell its H200 chips to Chinese customers under certain conditions.
+Related topics
+- Published21 May
+- Published25 February
+- Published30 October`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-09T00:50:06+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4981/live/81f74f50-dbb8-11f1-86cb-c1d83392da32.jpg",
+    readTime: 10,
+  },
+  {
+    id: "doing-these-things-now-will-help-you-sav-14b1cd45",
+    title: "Doing these things now will help you save money at Christmas",
+    titleJa: "Doing these things now will help you save money at Christmas",
+    summaryJa: "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+    bodyOriginal: `Doing these things now will help you save money at Christmas
+- Published
+How soon is too soon when it comes to thinking about Christmas and your finances?
+The answer, of course, is that it is never too soon. Save early and the cost becomes more manageable.
+The squeeze is harder for some than others, with charity Barnardo's warning that some parents will skip meals so their kids get a Christmas dinner with the trimmings.
+But, debt advice charity StepChange is offering tips to everyone, to avoid Christmas spending leading to a financially painful new year.
+What to think about now
+The best way to avoid a difficult January, it says, is to make a realistic plan before the spending begins.
+Small decisions now can make a big difference later. Its tips include:
+Budget for Christmas in full. So, that's not just presents, a budget should include the cost of food and drink, travel, parties, presents, postage, decorations and other festive extras
+Spread the cost. Don't just rely on your December paypacket. Also, make a shopping list before Black Friday on 27 November - it is only a discount if you were going to buy it anyway
+Book your train journey now. Advance tickets, if available, are cheaper
+Set spending limits. Put a cap on the bill for Christmas socialising, and have a quiet conversation with family and friends about how much to spend on presents
+Stocktake before the big food shop. Check your cupboards, fridge and freezer before you go shopping and plan meals around food you already have. Make a list of what you need and compare prices.
+Think twice. Can you afford what you are going to buy? Can you afford the repayments if it's bought on credit? And, do you really need it?
+"Christmas is a time when we want to enjoy ourselves and make things special for the people we care most about," said Vikki Brownridge, chief executive of StepChange.
+"But it can also put a lot of pressure on household budgets, and it is key to take steps to get ahead of any January financial blues."
+Where to go for help
+If you are concerned about Christmas leaving you in debt, then it is best to seek advice well before things become unmanageable.
+The independent MoneyHelper website has a guide to finding free debt advice near you, external.
+There are also tools to work out if you are receiving all the benefits and grants you are entitled to, and tips on how to draw up a budget.
+And it is really important to watch out for scams at this time of year. Fraudsters will take any opportunity to catch you out, especially when you are under pressure financially.
+Related topics
+- Published12 October
+- Published19 October`,
+    bodyJa: `Doing these things now will help you save money at Christmas
+- Published
+How soon is too soon when it comes to thinking about Christmas and your finances?
+The answer, of course, is that it is never too soon. Save early and the cost becomes more manageable.
+The squeeze is harder for some than others, with charity Barnardo's warning that some parents will skip meals so their kids get a Christmas dinner with the trimmings.
+But, debt advice charity StepChange is offering tips to everyone, to avoid Christmas spending leading to a financially painful new year.
+What to think about now
+The best way to avoid a difficult January, it says, is to make a realistic plan before the spending begins.
+Small decisions now can make a big difference later. Its tips include:
+Budget for Christmas in full. So, that's not just presents, a budget should include the cost of food and drink, travel, parties, presents, postage, decorations and other festive extras
+Spread the cost. Don't just rely on your December paypacket. Also, make a shopping list before Black Friday on 27 November - it is only a discount if you were going to buy it anyway
+Book your train journey now. Advance tickets, if available, are cheaper
+Set spending limits. Put a cap on the bill for Christmas socialising, and have a quiet conversation with family and friends about how much to spend on presents
+Stocktake before the big food shop. Check your cupboards, fridge and freezer before you go shopping and plan meals around food you already have. Make a list of what you need and compare prices.
+Think twice. Can you afford what you are going to buy? Can you afford the repayments if it's bought on credit? And, do you really need it?
+"Christmas is a time when we want to enjoy ourselves and make things special for the people we care most about," said Vikki Brownridge, chief executive of StepChange.
+"But it can also put a lot of pressure on household budgets, and it is key to take steps to get ahead of any January financial blues."
+Where to go for help
+If you are concerned about Christmas leaving you in debt, then it is best to seek advice well before things become unmanageable.
+The independent MoneyHelper website has a guide to finding free debt advice near you, external.
+There are also tools to work out if you are receiving all the benefits and grants you are entitled to, and tips on how to draw up a budget.
+And it is really important to watch out for scams at this time of year. Fraudsters will take any opportunity to catch you out, especially when you are under pressure financially.
+Related topics
+- Published12 October
+- Published19 October`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-09T00:09:14+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/903c/live/8d645510-d9ef-11f1-bb10-cdca6001fbcf.jpg",
+    readTime: 7,
+  },
+  {
+    id: "it-feels-like-he-s-quietly-building-a-s-404bc0f7",
+    title: "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+    titleJa: "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
+    summaryJa: "“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”",
+    bodyOriginal: `“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”`,
+    bodyJa: `“Our kitchen dates from 1999 and the oven only works if you hit the door a certain way.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
+    publishedAt: "2026-11-09T00:02:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-88923729",
+    readTime: 2,
+  },
+  {
+    id: "funeral-homes-are-finding-new-life-hosti-1bcf66b3",
+    title: "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+    titleJa: "Funeral homes are finding new life hosting weddings and golf outings, as the traditional burial business dies out",
+    summaryJa: "“It’s not my funeral — it’s yours — so make it what you want,” one funeral-home operator says.",
+    bodyOriginal: `“It’s not my funeral — it’s yours — so make it what you want,” one funeral-home operator says.`,
+    bodyJa: `“It’s not my funeral — it’s yours — so make it what you want,” one funeral-home operator says.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/funeral-homes-are-finding-new-life-hosting-weddings-and-golf-outings-as-the-traditional-burial-business-dies-out-15831d13?mod=mw_rss_topstories",
+    publishedAt: "2026-11-09T00:00:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-20210681",
+    readTime: 2,
+  },
+  {
     id: "trump-says-renewed-iran-strikes-highly-u-967d4bbc",
     title: "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
     titleJa: "Trump says renewed Iran strikes ‘highly unlikely’ if talks progress but warns he could still strike",
@@ -1819,154 +2161,6 @@ Do you have a mortgage, a credit card, a car finance agreement? How are interest
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e6b/live/b1102500-d9fb-11f1-b441-2b33b063138f.png",
     readTime: 10,
-  },
-  {
-    id: "i-have-no-financial-safety-net-i-m-66-r-6d21ec3d",
-    title: "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-    titleJa: "‘I have no financial safety net’: I’m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-    summaryJa: "“Sometimes I wonder whether wealthier Americans should trade places with people like me.”",
-    bodyOriginal: `“Sometimes I wonder whether wealthier Americans should trade places with people like me.”`,
-    bodyJa: `“Sometimes I wonder whether wealthier Americans should trade places with people like me.”`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-    publishedAt: "2026-11-06T21:45:00+00:00",
-    category: "貿易",
-    imageUrl: "https://images.mktw.net/im-91335118",
-    readTime: 2,
-  },
-  {
-    id: "elon-musk-opens-the-door-for-a-big-space-d3d93954",
-    title: "Elon Musk opens the door for a big SpaceX acquisition",
-    titleJa: "Elon Musk opens the door for a big SpaceX acquisition",
-    summaryJa: "The rocket and satellite-internet company is looking to challenge telecom giants.",
-    bodyOriginal: `The rocket and satellite-internet company is looking to challenge telecom giants.`,
-    bodyJa: `The rocket and satellite-internet company is looking to challenge telecom giants.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
-    publishedAt: "2026-11-06T21:45:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-63491767",
-    readTime: 2,
-  },
-  {
-    id: "sen-chris-murphy-released-from-hospital-e0973689",
-    title: "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
-    titleJa: "Sen. Chris Murphy released from hospital after stroke, will miss votes for 'several weeks' as he rehabs",
-    summaryJa: "The Connecticut Democrat Murphy has been discussed as a possible candidate for the White House in 2028.",
-    bodyOriginal: `Connecticut Democratic Sen. Chris Murphy said Friday he had been released from a hospital after suffering a stroke last weekend.
-Murphy, 53, said he will be in a rehabilitation center for the next "several weeks," meaning he will miss votes in the Senate when Congress returns on Monday.
-"The doctors are very encouraged by the progress I've made so far," he said in a statement.
-"In order to take my recovery seriously and get back to work on the quickest timeline possible, I will be spending several weeks at a rehabilitation center after being discharged from the hospital today," said Murphy, who has been discussed as a possible presidential candidate in 2028.
-Dr. Jose Suarez, chief of Neurosciences Critical Care at The Johns Hopkins Hospital, in a statement released by Murphy's office, said, "Senator Murphy experienced a small hemorrhagic stroke."
-"He has shown tremendous progress, and at the current rate of improvement, we expect that he will make a full recovery following rehabilitation," Suarez said.
-Murphy had been in the hospital since having a stroke at his son's hockey game.
-"Last Saturday afternoon, I felt something was not right with my body and called 9-1-1 out of an abundance of caution, and I'm glad I did," Murphy said in his statement. "I was diagnosed with a small bleed in the thalamus region of my brain."
-The senator said he was grateful "for the outpouring of support my family and I have received over the last few days."
-"This has been a scary experience for me and my family, and I appreciate the continued respect for our privacy," Murphy said. "As I'm working towards a full recovery, I am staying engaged with my team and colleagues remotely, and my staff continues to carry out our legislative priorities, serve constituents, and ensure the work of my office continues uninterrupted."
-Murphy's stroke came three days before Democratic candidates, in a stunning election result, won more than enough races to flip the Senate and House of Representatives from Republican majority control in January.
-Murphy, who was not up for reelection this year, before the election had campaigned for Democratic candidates around the country, most recently in Michigan, Minnesota and Florida. He had been scheduled to campaign in New Hampshire on Sunday with Rep. Chris Pappas, who on Tuesday won election to the Senate.`,
-    bodyJa: `Connecticut Democratic Sen. Chris Murphy said Friday he had been released from a hospital after suffering a stroke last weekend.
-Murphy, 53, said he will be in a rehabilitation center for the next "several weeks," meaning he will miss votes in the Senate when Congress returns on Monday.
-"The doctors are very encouraged by the progress I've made so far," he said in a statement.
-"In order to take my recovery seriously and get back to work on the quickest timeline possible, I will be spending several weeks at a rehabilitation center after being discharged from the hospital today," said Murphy, who has been discussed as a possible presidential candidate in 2028.
-Dr. Jose Suarez, chief of Neurosciences Critical Care at The Johns Hopkins Hospital, in a statement released by Murphy's office, said, "Senator Murphy experienced a small hemorrhagic stroke."
-"He has shown tremendous progress, and at the current rate of improvement, we expect that he will make a full recovery following rehabilitation," Suarez said.
-Murphy had been in the hospital since having a stroke at his son's hockey game.
-"Last Saturday afternoon, I felt something was not right with my body and called 9-1-1 out of an abundance of caution, and I'm glad I did," Murphy said in his statement. "I was diagnosed with a small bleed in the thalamus region of my brain."
-The senator said he was grateful "for the outpouring of support my family and I have received over the last few days."
-"This has been a scary experience for me and my family, and I appreciate the continued respect for our privacy," Murphy said. "As I'm working towards a full recovery, I am staying engaged with my team and colleagues remotely, and my staff continues to carry out our legislative priorities, serve constituents, and ensure the work of my office continues uninterrupted."
-Murphy's stroke came three days before Democratic candidates, in a stunning election result, won more than enough races to flip the Senate and House of Representatives from Republican majority control in January.
-Murphy, who was not up for reelection this year, before the election had campaigned for Democratic candidates around the country, most recently in Michigan, Minnesota and Florida. He had been scheduled to campaign in New Hampshire on Sunday with Rep. Chris Pappas, who on Tuesday won election to the Senate.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/06/chris-murphy-stroke-hospital-senate.html",
-    publishedAt: "2026-11-06T21:40:09+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "data-centers-run-on-debt-that-was-a-prob-a20df056",
-    title: "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
-    titleJa: "Data centers run on debt. That was a problem for bonds this year — and it’s only going to get worse.",
-    summaryJa: "AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won’t get any better with Democrats in control of Congress.",
-    bodyOriginal: `AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won’t get any better with Democrats in control of Congress.`,
-    bodyJa: `AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won’t get any better with Democrats in control of Congress.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
-    publishedAt: "2026-11-06T21:37:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-27823796",
-    readTime: 2,
-  },
-  {
-    id: "nvidia-amd-and-other-chip-stocks-rebound-757eefdd",
-    title: "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
-    titleJa: "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
-    summaryJa: "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade’s favor.",
-    bodyOriginal: `Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade’s favor.`,
-    bodyJa: `Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade’s favor.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-    publishedAt: "2026-11-06T21:24:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-78248485",
-    readTime: 2,
-  },
-  {
-    id: "openai-bugging-suspect-alfozan-pleads-no-cc60cb34",
-    title: "OpenAI bugging suspect Alfozan pleads not guilty",
-    titleJa: "OpenAI bugging suspect Alfozan pleads not guilty",
-    summaryJa: "Saudi national Abdulrahman Alfozan is charged with planting a recording device in a conference room at artificial intelligence giant OpenAI.",
-    bodyOriginal: `The Saudi national charged with planting a listening device in the headquarters of OpenAI while he worked there pleaded not guilty on Friday during an appearance in San Francisco federal court.
-Abdulrahman Alfozan, 35, was sent back to jail after the brief hearing. Alfozan has been held without bail since his arrest on a criminal complaint in early October.
-He faces a maximum possible sentence of five years in prison if convicted in the case.
-A grand jury indicted Alfozan on Oct. 27 on a single count of interception of oral communications, court records show.
-Prosecutors say that he put a recording device in a television in an executive conference room at OpenAI's offices in San Francisco on Sept. 28.
-Alfozan's lawyer declined to comment after the hearing before Magistrate Judge Peter Kang.
-The judge ordered Alfozan to next appear in court on Nov. 17.
-Alfozan is a venture partner in a Saudi Arabian venture capital firm, Raed Ventures.
-"He currently serves as Engineering Lead at OpenAI, with a focus on AI Agents and the data platform," Alfozan's bio page on Raed's site says.
-Prince Khalid Bin Bader Al Saud, a member of Saudi Arabia's royal family, is a venture partner in the same firm.
-Alfozan's case comes as U.S. companies such as OpenAI are making rapid advancements in developing artificial intelligence agents, and as concerns grow about the potential theft of AI tech from those companies.
-In June, President Donald Trump, in an executive order on AI innovation, said it was U.S. policy "to protect American ingenuity and intellectual property from exploitation and theft by adversaries; and to cultivate America's advanced AI-enabled capabilities."
-Trump has had a close relationship with Saudi Arabia. But he has also taken steps during his second term in the White House to limit the number of visas for highly skilled foreign workers.
-OpenAI earlier this year held discussions with Saudi Arabia's Public Investment Fund, the country's sovereign wealth fund, about investing in the company.
-— Jordan Novet reported from San Francisco`,
-    bodyJa: `The Saudi national charged with planting a listening device in the headquarters of OpenAI while he worked there pleaded not guilty on Friday during an appearance in San Francisco federal court.
-Abdulrahman Alfozan, 35, was sent back to jail after the brief hearing. Alfozan has been held without bail since his arrest on a criminal complaint in early October.
-He faces a maximum possible sentence of five years in prison if convicted in the case.
-A grand jury indicted Alfozan on Oct. 27 on a single count of interception of oral communications, court records show.
-Prosecutors say that he put a recording device in a television in an executive conference room at OpenAI's offices in San Francisco on Sept. 28.
-Alfozan's lawyer declined to comment after the hearing before Magistrate Judge Peter Kang.
-The judge ordered Alfozan to next appear in court on Nov. 17.
-Alfozan is a venture partner in a Saudi Arabian venture capital firm, Raed Ventures.
-"He currently serves as Engineering Lead at OpenAI, with a focus on AI Agents and the data platform," Alfozan's bio page on Raed's site says.
-Prince Khalid Bin Bader Al Saud, a member of Saudi Arabia's royal family, is a venture partner in the same firm.
-Alfozan's case comes as U.S. companies such as OpenAI are making rapid advancements in developing artificial intelligence agents, and as concerns grow about the potential theft of AI tech from those companies.
-In June, President Donald Trump, in an executive order on AI innovation, said it was U.S. policy "to protect American ingenuity and intellectual property from exploitation and theft by adversaries; and to cultivate America's advanced AI-enabled capabilities."
-Trump has had a close relationship with Saudi Arabia. But he has also taken steps during his second term in the White House to limit the number of visas for highly skilled foreign workers.
-OpenAI earlier this year held discussions with Saudi Arabia's Public Investment Fund, the country's sovereign wealth fund, about investing in the company.
-— Jordan Novet reported from San Francisco`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
-    publishedAt: "2026-11-06T21:15:47+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "it-seems-bizarre-we-re-in-our-80s-with-8ee3b034",
-    title: "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-    titleJa: "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?",
-    summaryJa: "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
-    bodyOriginal: `“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”`,
-    bodyJa: `“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
-    publishedAt: "2026-11-06T21:15:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-26708039",
-    readTime: 2,
   },
 ];
 
