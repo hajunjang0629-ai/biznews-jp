@@ -15,6 +15,520 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "nvidia-s-ceo-turmoil-gives-newly-empower-d88cd9ae",
+    title: "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
+    titleJa: "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
+    summaryJa: "Nvidia CEO Jensen Huang's extramarital affair with an alleged Chinese spy comes as the company is already about to face heightened scrutiny.",
+    bodyOriginal: `Nvidia CEO Jensen Huang's close ties to the U.S. government were already poised to loosen with Democrats winning control of Congress and promising far more oversight of AI development than what the chip giant has experienced under Republican leadership.
+That was before Huang admitted on Sunday to having an extramarital affair with a businesswoman who intelligence agencies say is a Chinese spy. The woman, Alice Huang, is affiliated with an Nvidia customer called Megaspeed that's been accused of helping restricted Chinese companies acquire Nvidia's artificial intelligence chips.
+Huang apologized to staffers in a note on Sunday for being "unfaithful to my wife," and said the company's board was investigating any related national security concerns. Nvidia's board said it has "confidence in Jensen," who co-founded the company in 1993 and has led it ever since, building a net worth of more than $150 billion in the process.
+Even before last week's midterm elections, which saw Democrats win sweeping majorities in the House and Senate, vocal party leaders wanted answers from Huang about China's access to advanced Nvidia chips and his company's lobbying for favorable legislation. Sen. Elizabeth Warren of Massachusetts said days before the election, when the spy story was first surfacing, that "we must pass bipartisan legislation to keep our advanced AI technology out of China's hands." Months before that, in June, Huang declined an invitation from Warren to testify before the Senate Banking Committee.
+With Democrats about to take the gavel, Delaware Sen. Chris Coons, who is in line to chair the Senate Foreign Relations Committee, wrote on X on Saturday that "Congress will investigate and get answers," following the allegations that appeared in a New York Times report Friday.
+It's a sharp reversal for Huang, who gained first-name status with President Donald Trump and has been closely allied with the administration in trying to limit AI regulation. Nvidia shares plunged 12% in the two days after the election, pacing a drop in AI-related stocks, on fears that incoming lawmakers, at the federal and state levels, and a host of newly passed ballot measures will slow the buildout and halt the AI boom.
+Huang is a singular voice in the AI industry, as his company's technology is used to train nearly all major AI models. He's also turned Nvidia into an essential source of financing for AI startups, and pulled together some of the biggest names on Wall Street into a group that announced plans in August to raise $500 billion for investing in the buildout.
+At Nvidia, Huang is the sole public face of the company and has no clear second-in-command. He decides which projects are a strategic priority, and frequently sends short emails to individual engineers about details. Huang has said he has 60 direct reports and reviews every employee's salary. Meanwhile, he packs his calendar with meetings with world leaders and CEOs, alongside keynote speeches at conferences and trade shows.
+"Nvidia is not an ordinary company and Jensen is not an ordinary CEO; he IS Nvidia," Bernstein analyst Stacy Rasgon wrote in a note on Sunday, adding that it's not clear who would succeed him.
+Patrick Moorhead, CEO at Moor Insights & Strategy, said in an email that "Jensen holding so much power is why Nvidia moves faster than anyone."
+Change is on the way
+Unlike many of his tech peers, Huang is not chairman of the board. Rather, he's one of 11 board members, and there's no designated chair.
+One investor close to Huang told CNBC that, depending on what the board's investigation finds, he could foresee Huang taking a leave of absence.
+"Today's news will not slow Nvidia," a company spokesperson said in a statement. "Jensen is committed to continuing to lead Nvidia as CEO without interruption."
+But scrutiny of Nvidia is set to intensify on Wall Street and in Washington, where Huang's level of influence is almost certain to change.
+He has been a major advocate for more chip exports to China, arguing that it's better for AI labs there to build on American technology than to encourage the development of domestic alternatives. Huang joined Trump on Air Force One in May on a China trip that's now raised additional questions about what the administration and Huang knew about Chinese spying at the time.
+One question Democrats are likely to probe is whether the Trump administration was aware of Huang's relationship with the alleged Chinese spy, and whether the Nvidia CEO influenced American policy, said Sam Bresnick, a research fellow at the Center for Security and Emerging Technology.
+"That is going to be very high up on the Democrats' lists of people to investigate to try to figure out to what extent was the Trump administration aware of what was going on," Bresnick said.
+But pressure isn't just coming from Democrats. House Republican leaders have already asked Huang for a closed-door briefing on Chinese spying issues later this month.
+Trump has continued to back Huang, telling reporters on Sunday that he's an "honorable guy" and has "done an amazing job for our country."
+"I think he probably has an excuse for it," Trump said of the incident.
+Critical time on Wall Street
+Amid all the noise about the election results and the spying revelations, Nvidia is facing a crucial stretch on the markets.
+Neoclouds CoreWeave and Nebius, which are both backed by Nvidia and are big buyers of its chips, are scheduled to report earnings this week after their stocks lost roughly half their value over the past month. Investors are particularly concerned about their hefty debt loads and how they'll continue to fund their buildouts with interest rates rising and lenders turning skittish.
+Nvidia has its own earnings report coming on Nov. 17, when Huang, assuming he sticks with the typical format, will face questions from analysts. And then there's the Anthropic initial public offering, which is critical for Nvidia as it's both an investor in the Claude creator and counts the AI lab as a significant customer.
+A couple of weeks after earnings, Nvidia is hosting a large conference in Washington, D.C., where Huang is scheduled to give the keynote on Dec. 1.
+Bullish investors and analysts can still point to the insatiable demand for Nvidia's technology. The company recently projected 70% sales growth in its upcoming fiscal year. Analysts polled by FactSet expect nearly $694 billion in fiscal 2028 sales.
+"We believe demand for the company's products seems unlikely to be affected," Rasgon wrote. "But it seems plausible to postulate increased risks (regulatory etc.) as AI buildouts become an increasingly political issue."
+— CNBC's Seema Mody, Katie Tarasov, Ashley Capoot and MacKenzie Sigalos contributed reporting to this report.`,
+    bodyJa: `Nvidia CEO Jensen Huang's close ties to the U.S. government were already poised to loosen with Democrats winning control of Congress and promising far more oversight of AI development than what the chip giant has experienced under Republican leadership.
+That was before Huang admitted on Sunday to having an extramarital affair with a businesswoman who intelligence agencies say is a Chinese spy. The woman, Alice Huang, is affiliated with an Nvidia customer called Megaspeed that's been accused of helping restricted Chinese companies acquire Nvidia's artificial intelligence chips.
+Huang apologized to staffers in a note on Sunday for being "unfaithful to my wife," and said the company's board was investigating any related national security concerns. Nvidia's board said it has "confidence in Jensen," who co-founded the company in 1993 and has led it ever since, building a net worth of more than $150 billion in the process.
+Even before last week's midterm elections, which saw Democrats win sweeping majorities in the House and Senate, vocal party leaders wanted answers from Huang about China's access to advanced Nvidia chips and his company's lobbying for favorable legislation. Sen. Elizabeth Warren of Massachusetts said days before the election, when the spy story was first surfacing, that "we must pass bipartisan legislation to keep our advanced AI technology out of China's hands." Months before that, in June, Huang declined an invitation from Warren to testify before the Senate Banking Committee.
+With Democrats about to take the gavel, Delaware Sen. Chris Coons, who is in line to chair the Senate Foreign Relations Committee, wrote on X on Saturday that "Congress will investigate and get answers," following the allegations that appeared in a New York Times report Friday.
+It's a sharp reversal for Huang, who gained first-name status with President Donald Trump and has been closely allied with the administration in trying to limit AI regulation. Nvidia shares plunged 12% in the two days after the election, pacing a drop in AI-related stocks, on fears that incoming lawmakers, at the federal and state levels, and a host of newly passed ballot measures will slow the buildout and halt the AI boom.
+Huang is a singular voice in the AI industry, as his company's technology is used to train nearly all major AI models. He's also turned Nvidia into an essential source of financing for AI startups, and pulled together some of the biggest names on Wall Street into a group that announced plans in August to raise $500 billion for investing in the buildout.
+At Nvidia, Huang is the sole public face of the company and has no clear second-in-command. He decides which projects are a strategic priority, and frequently sends short emails to individual engineers about details. Huang has said he has 60 direct reports and reviews every employee's salary. Meanwhile, he packs his calendar with meetings with world leaders and CEOs, alongside keynote speeches at conferences and trade shows.
+"Nvidia is not an ordinary company and Jensen is not an ordinary CEO; he IS Nvidia," Bernstein analyst Stacy Rasgon wrote in a note on Sunday, adding that it's not clear who would succeed him.
+Patrick Moorhead, CEO at Moor Insights & Strategy, said in an email that "Jensen holding so much power is why Nvidia moves faster than anyone."
+Change is on the way
+Unlike many of his tech peers, Huang is not chairman of the board. Rather, he's one of 11 board members, and there's no designated chair.
+One investor close to Huang told CNBC that, depending on what the board's investigation finds, he could foresee Huang taking a leave of absence.
+"Today's news will not slow Nvidia," a company spokesperson said in a statement. "Jensen is committed to continuing to lead Nvidia as CEO without interruption."
+But scrutiny of Nvidia is set to intensify on Wall Street and in Washington, where Huang's level of influence is almost certain to change.
+He has been a major advocate for more chip exports to China, arguing that it's better for AI labs there to build on American technology than to encourage the development of domestic alternatives. Huang joined Trump on Air Force One in May on a China trip that's now raised additional questions about what the administration and Huang knew about Chinese spying at the time.
+One question Democrats are likely to probe is whether the Trump administration was aware of Huang's relationship with the alleged Chinese spy, and whether the Nvidia CEO influenced American policy, said Sam Bresnick, a research fellow at the Center for Security and Emerging Technology.
+"That is going to be very high up on the Democrats' lists of people to investigate to try to figure out to what extent was the Trump administration aware of what was going on," Bresnick said.
+But pressure isn't just coming from Democrats. House Republican leaders have already asked Huang for a closed-door briefing on Chinese spying issues later this month.
+Trump has continued to back Huang, telling reporters on Sunday that he's an "honorable guy" and has "done an amazing job for our country."
+"I think he probably has an excuse for it," Trump said of the incident.
+Critical time on Wall Street
+Amid all the noise about the election results and the spying revelations, Nvidia is facing a crucial stretch on the markets.
+Neoclouds CoreWeave and Nebius, which are both backed by Nvidia and are big buyers of its chips, are scheduled to report earnings this week after their stocks lost roughly half their value over the past month. Investors are particularly concerned about their hefty debt loads and how they'll continue to fund their buildouts with interest rates rising and lenders turning skittish.
+Nvidia has its own earnings report coming on Nov. 17, when Huang, assuming he sticks with the typical format, will face questions from analysts. And then there's the Anthropic initial public offering, which is critical for Nvidia as it's both an investor in the Claude creator and counts the AI lab as a significant customer.
+A couple of weeks after earnings, Nvidia is hosting a large conference in Washington, D.C., where Huang is scheduled to give the keynote on Dec. 1.
+Bullish investors and analysts can still point to the insatiable demand for Nvidia's technology. The company recently projected 70% sales growth in its upcoming fiscal year. Analysts polled by FactSet expect nearly $694 billion in fiscal 2028 sales.
+"We believe demand for the company's products seems unlikely to be affected," Rasgon wrote. "But it seems plausible to postulate increased risks (regulatory etc.) as AI buildouts become an increasingly political issue."
+— CNBC's Seema Mody, Katie Tarasov, Ashley Capoot and MacKenzie Sigalos contributed reporting to this report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
+    publishedAt: "2026-11-09T15:49:30+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "what-we-know-so-far-about-jensen-huang-s-a9649874",
+    title: "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+    titleJa: "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+    summaryJa: "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+    bodyOriginal: `What we know so far about Jensen Huang's affair with suspected Chinese spy
+- Published
+One of the Artificial Intelligence (AI) industry's most important figures has been accused of having an affair with a suspected Chinese spy, prompting an investigation.
+US intelligence officials believed that Chinese businesswoman Alice Huang, who had a close relationship with Nvidia CEO and co-founder Jensen Huang, was a spy for Beijing, according to a New York Times report.
+On Sunday, Huang admitted, external to having been "unfaithful" to his wife and apologised for hurting her and their children.
+US tech giant Nvidia, one of the most valuable companies in the world, has opened an independent investigation into the reports. The firm said it does not believe US national security had been compromised - and added that Huang was committed to continuing to lead the company.
+Here is what we know about the affair and why it matters.
+Who is Alice Huang and what do we know about the affair?
+US officials believed that Alice Huang had been recruited to spy by China's top intelligence agency, the New York Times reported, external. Her current whereabouts are unknown.
+Alice Huang, who is of no relation to Jensen Huang, was a top executive at Singapore-based data centre firm Megaspeed between March and November 2023. The firm had been suspected of helping divert Nvidia chips to China, a concern that Nvidia maintains was investigated and debunked.
+However, the BBC understands Megaspeed is under investigation by the Singapore government regarding previous allegations that the company was circumventing US sanctions on the export of Nvidia's high-end chips. The BBC has contacted Megaspeed for comment.
+The company told the New York Times last month its current leadership took the allegations seriously and had appointed external legal advisers to conduct an internal investigation.
+Surveillance reportedly revealed communications between Alice Huang and an American citizen, who was subsequently identified as Jensen Huang through a process known as "unmasking".
+It remains unclear what, if any, intelligence Alice Huang – who is also known as Huang Le – allegedly gathered and passed to Beijing. She did not respond to the paper's request for comment.
+When the BBC asked Nvidia if the company was aware of intelligence concerns, the company said it was not.
+"We trust that if we were the target of a genuine threat, the US government would have notified us," an Nvidia spokesperson told the BBC.
+China has rejected the spying allegations.
+Foreign Ministry spokesperson Guo Jiakun told reporters on Monday at a regular daily press briefing: "We have already responded to this. The allegations about Chinese spies are entirely groundless, speculative and intended to smear and malign China."
+The New York Times reported in late October that Trump had been briefed last year on intelligence alleging Alice Huang was spying on China's behalf.
+Asked by reporters on Sunday whether he wished he had "acted on the intelligence", Trump responded: "No, I don't think so. I think he's an honourable guy."
+US Secretary of State Marco Rubio, meanwhile, refused to comment when asked about Huang. Last spring, the secretary of state reportedly oversaw the drafting of a memo that warned the Trump administration about Huang's relationship with the Chinese businesswoman, according to the New York Times.
+Why does it matter?
+Nvidia is at the heart of US and China's AI race, which is why the billionaire's affair has sparked national security fears among American lawmakers.
+Trump has said "whoever wins AI wins", and the fear is that if China gains the upper hand in AI, it will supercharge the country's military and surveillance capabilities.
+The US advantage is in large part because of US companies like Nvidia, working with producers like the Taiwan Semiconductor Manufacturing Company (TSMC), which makes more than 90% of the world's most advanced chips.
+Since 2022, the US has used various export controls to keep the top tech out of China, which it says helps retain America's competitive edge and protects its national security.
+This means companies like Nvidia have been largely locked out of the world's most lucrative market, with Huang once saying that Nvidia's share of the Chinese market had gone from around 95% to effectively zero.
+Huang has engaged in shuttle diplomacy between Washington and Beijing, hoping to find a US-approved way back in, and shaping US policy on China along the way.
+Sunday's revelations may explain why Huang has failed to bring home the biggest prize of all to Nvidia: the Trump administration's blessing to sell all but its most advanced chips to China.
+Who is Jensen Huang?
+Born in Taiwan in 1963, Huang was nine years old when his family moved to the West Coast of the US. He graduated as an electrical engineer from Oregon State University, and then with a master's degree in the same field from Stanford University.
+Huang then worked at US chip firm AMD before co-founding Nvidia. Known as "Daddy Huang" in Taiwan and once lauded as the "Taylor Swift of tech", he has a reputation as a workaholic and perfectionist with incredibly high standards for his staff.
+He has an estimated fortune of $155bn (£115bn), according to the Bloomberg Billionaires Index.
+"Jensen Huang is a tech visionary of the likes of Steve Jobs," Stephen Witt, the author of Thinking Machine, a biography on Huang, told the BBC, adding that he was responsible for creating AI hardware as we know it today.
+Huang has a famously close relationship with Trump. At the recent AI summit at the White House, where 42 tech executives were present, the president was flanked by Elon Musk and Huang.
+Trump said he had not spoken to the Nvidia boss since news of the investigation emerged.
+"I just know he's a fine person, but you never know what's going on," Trump told reporters, adding that he had "done an amazing job for our country".
+What is Nvidia and how important is it?
+Founded by Huang and fellow electrical engineers Chris Malachowsky and Curtis Priem in 1993, the company was originally known for chips that process graphics, particularly for computer games.
+Eventually it changed focus to AI, a field it now dominates.
+Huang rescued Nvidia from bankruptcy on more than one occasion, and took risks on AI a long time before the rest of the world did, effectively building the infrastructure from scratch.
+"Today when we think of that, we think of these giant data centres - none of that existed. There were no customers for the stuff he was building. In fact his first customer was Open AI at the time they had 30 people - he actually gave it to them, he donated it to them," Witt told the BBC.
+Every notable tech company building AI tools and infrastructure, including Amazon, Meta, Google, and Microsoft, now use Nvidia chips.
+Currently worth $4.5tn (£3.4tn), Nvidia is one of the most valuable companies ever.
+For now, the firm's board appears to have little appetite for removing Huang, saying in a statement on Sunday that they have "confidence in Jensen and his leadership team".
+Sources tell the BBC his removal is unlikely because there is so much money at stake.
+There is no public succession plan for the 63-year-old. He has often said he hopes to continue in the role for decades, and Bloomberg reports he has created an informal leadership structure around him unlike a traditional company's hierarchy.
+His children, Spencer and Madison, and son-in-law Nico Caprez work at Nvidia in senior roles.
+Who is Jensen Huang's wife?
+Huang met his future wife Lori Mills at Oregon State University while studying electrical engineering in the early 1980s. The pair were lab partners.
+They married in 1985, about eight years before he co-founded Nvidia, and have two children, Madison and Spencer.
+In 2007, the couple founded the Jen-Hsun and Lori Huang Foundation. The charitable fund has seen its assets surge in recent years, driven by the soaring value of Nvidia shares, and is estimated to be worth more than $9bn.
+Its donations include tens of millions of dollars to engineering programmes at Oregon State and Stanford University.
+Witt told the BBC that Huang has gone to great lengths to present himself as a family man, adding: "That's very important to him".
+"He praises his wife, he talks about her in very glowing ways," he added. "The fallout of this would be bad for anyone's family. But for someone who has gone to such great lengths to cultivate an image of being a family guy and who keeps his children very close, it is very bad."
+Additional reporting by Tom McArthur in London, Ayeshea Perera and Tessa Wong in Singapore and Helen Davidson in Sydney
+- Published21 September`,
+    bodyJa: `What we know so far about Jensen Huang's affair with suspected Chinese spy
+- Published
+One of the Artificial Intelligence (AI) industry's most important figures has been accused of having an affair with a suspected Chinese spy, prompting an investigation.
+US intelligence officials believed that Chinese businesswoman Alice Huang, who had a close relationship with Nvidia CEO and co-founder Jensen Huang, was a spy for Beijing, according to a New York Times report.
+On Sunday, Huang admitted, external to having been "unfaithful" to his wife and apologised for hurting her and their children.
+US tech giant Nvidia, one of the most valuable companies in the world, has opened an independent investigation into the reports. The firm said it does not believe US national security had been compromised - and added that Huang was committed to continuing to lead the company.
+Here is what we know about the affair and why it matters.
+Who is Alice Huang and what do we know about the affair?
+US officials believed that Alice Huang had been recruited to spy by China's top intelligence agency, the New York Times reported, external. Her current whereabouts are unknown.
+Alice Huang, who is of no relation to Jensen Huang, was a top executive at Singapore-based data centre firm Megaspeed between March and November 2023. The firm had been suspected of helping divert Nvidia chips to China, a concern that Nvidia maintains was investigated and debunked.
+However, the BBC understands Megaspeed is under investigation by the Singapore government regarding previous allegations that the company was circumventing US sanctions on the export of Nvidia's high-end chips. The BBC has contacted Megaspeed for comment.
+The company told the New York Times last month its current leadership took the allegations seriously and had appointed external legal advisers to conduct an internal investigation.
+Surveillance reportedly revealed communications between Alice Huang and an American citizen, who was subsequently identified as Jensen Huang through a process known as "unmasking".
+It remains unclear what, if any, intelligence Alice Huang – who is also known as Huang Le – allegedly gathered and passed to Beijing. She did not respond to the paper's request for comment.
+When the BBC asked Nvidia if the company was aware of intelligence concerns, the company said it was not.
+"We trust that if we were the target of a genuine threat, the US government would have notified us," an Nvidia spokesperson told the BBC.
+China has rejected the spying allegations.
+Foreign Ministry spokesperson Guo Jiakun told reporters on Monday at a regular daily press briefing: "We have already responded to this. The allegations about Chinese spies are entirely groundless, speculative and intended to smear and malign China."
+The New York Times reported in late October that Trump had been briefed last year on intelligence alleging Alice Huang was spying on China's behalf.
+Asked by reporters on Sunday whether he wished he had "acted on the intelligence", Trump responded: "No, I don't think so. I think he's an honourable guy."
+US Secretary of State Marco Rubio, meanwhile, refused to comment when asked about Huang. Last spring, the secretary of state reportedly oversaw the drafting of a memo that warned the Trump administration about Huang's relationship with the Chinese businesswoman, according to the New York Times.
+Why does it matter?
+Nvidia is at the heart of US and China's AI race, which is why the billionaire's affair has sparked national security fears among American lawmakers.
+Trump has said "whoever wins AI wins", and the fear is that if China gains the upper hand in AI, it will supercharge the country's military and surveillance capabilities.
+The US advantage is in large part because of US companies like Nvidia, working with producers like the Taiwan Semiconductor Manufacturing Company (TSMC), which makes more than 90% of the world's most advanced chips.
+Since 2022, the US has used various export controls to keep the top tech out of China, which it says helps retain America's competitive edge and protects its national security.
+This means companies like Nvidia have been largely locked out of the world's most lucrative market, with Huang once saying that Nvidia's share of the Chinese market had gone from around 95% to effectively zero.
+Huang has engaged in shuttle diplomacy between Washington and Beijing, hoping to find a US-approved way back in, and shaping US policy on China along the way.
+Sunday's revelations may explain why Huang has failed to bring home the biggest prize of all to Nvidia: the Trump administration's blessing to sell all but its most advanced chips to China.
+Who is Jensen Huang?
+Born in Taiwan in 1963, Huang was nine years old when his family moved to the West Coast of the US. He graduated as an electrical engineer from Oregon State University, and then with a master's degree in the same field from Stanford University.
+Huang then worked at US chip firm AMD before co-founding Nvidia. Known as "Daddy Huang" in Taiwan and once lauded as the "Taylor Swift of tech", he has a reputation as a workaholic and perfectionist with incredibly high standards for his staff.
+He has an estimated fortune of $155bn (£115bn), according to the Bloomberg Billionaires Index.
+"Jensen Huang is a tech visionary of the likes of Steve Jobs," Stephen Witt, the author of Thinking Machine, a biography on Huang, told the BBC, adding that he was responsible for creating AI hardware as we know it today.
+Huang has a famously close relationship with Trump. At the recent AI summit at the White House, where 42 tech executives were present, the president was flanked by Elon Musk and Huang.
+Trump said he had not spoken to the Nvidia boss since news of the investigation emerged.
+"I just know he's a fine person, but you never know what's going on," Trump told reporters, adding that he had "done an amazing job for our country".
+What is Nvidia and how important is it?
+Founded by Huang and fellow electrical engineers Chris Malachowsky and Curtis Priem in 1993, the company was originally known for chips that process graphics, particularly for computer games.
+Eventually it changed focus to AI, a field it now dominates.
+Huang rescued Nvidia from bankruptcy on more than one occasion, and took risks on AI a long time before the rest of the world did, effectively building the infrastructure from scratch.
+"Today when we think of that, we think of these giant data centres - none of that existed. There were no customers for the stuff he was building. In fact his first customer was Open AI at the time they had 30 people - he actually gave it to them, he donated it to them," Witt told the BBC.
+Every notable tech company building AI tools and infrastructure, including Amazon, Meta, Google, and Microsoft, now use Nvidia chips.
+Currently worth $4.5tn (£3.4tn), Nvidia is one of the most valuable companies ever.
+For now, the firm's board appears to have little appetite for removing Huang, saying in a statement on Sunday that they have "confidence in Jensen and his leadership team".
+Sources tell the BBC his removal is unlikely because there is so much money at stake.
+There is no public succession plan for the 63-year-old. He has often said he hopes to continue in the role for decades, and Bloomberg reports he has created an informal leadership structure around him unlike a traditional company's hierarchy.
+His children, Spencer and Madison, and son-in-law Nico Caprez work at Nvidia in senior roles.
+Who is Jensen Huang's wife?
+Huang met his future wife Lori Mills at Oregon State University while studying electrical engineering in the early 1980s. The pair were lab partners.
+They married in 1985, about eight years before he co-founded Nvidia, and have two children, Madison and Spencer.
+In 2007, the couple founded the Jen-Hsun and Lori Huang Foundation. The charitable fund has seen its assets surge in recent years, driven by the soaring value of Nvidia shares, and is estimated to be worth more than $9bn.
+Its donations include tens of millions of dollars to engineering programmes at Oregon State and Stanford University.
+Witt told the BBC that Huang has gone to great lengths to present himself as a family man, adding: "That's very important to him".
+"He praises his wife, he talks about her in very glowing ways," he added. "The fallout of this would be bad for anyone's family. But for someone who has gone to such great lengths to cultivate an image of being a family guy and who keeps his children very close, it is very bad."
+Additional reporting by Tom McArthur in London, Ayeshea Perera and Tessa Wong in Singapore and Helen Davidson in Sydney
+- Published21 September`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-09T15:46:20+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
+    readTime: 10,
+  },
+  {
+    id: "trump-questions-midterm-election-results-eb821882",
+    title: "Trump questions midterm election results, revives voting-machine conspiracy",
+    titleJa: "Trump questions midterm election results, revives voting-machine conspiracy",
+    summaryJa: "President Trump's questioning of the legitimacy of his loss in the 2020 election culminated with an attack on the U.S. Capitol by a mob of his supporters.",
+    bodyOriginal: `President Donald Trump on Monday questioned the legitimacy of the midterm election results, resurrecting his pattern of raising doubts about electoral losses for himself and other Republicans.
+Trump's social media post raising questions about the election came six days after his fellow Republicans suffered historic defeats at the polls nationwide, including in several GOP strongholds like Texas and South Carolina.
+"Does anybody really believe that this 'Election' was honest," Trump wrote on Truth Social.
+"How could the Polls be so wrong??? Some early voting 'dumps' were so large that it was impossible to win, no matter how many people went to vote," the president said. "It's all about the machines, which are far more important than the voter!"
+Trump's post was a sharp pivot from what has been a somewhat conciliatory tone after last Tuesday's thumping of Republican candidates.
+"I'll get along probably with the Democrats unless they want to be destructive," Trump said a day after the election.
+After his electoral loss to former President Joe Biden in 2020, Trump argued, without evidence, that he only lost as a result of widespread ballot fraud.
+Trump's claims, which were joined by dozens of unsuccessful court cases challenging election procedures, culminated in the Jan. 6, 2021, attack on the U.S. Capitol by a mob of his supporters after he spoke at a rally outside the White House.
+The riot disrupted a joint session of Congress for hours. Later that day, Congress confirmed Biden's election by the Electoral College.
+Critics of Trump's conspiracy theories about elections have noted that he lost the 2020 race when he was president, but won the 2024 presidential election, when Biden was in the White House.
+They also noted that in the past week, Republicans had control of states that saw major Democratic wins that few analysts would have predicted a year ago, including Texas, Kansas, South Carolina, and Iowa.`,
+    bodyJa: `President Donald Trump on Monday questioned the legitimacy of the midterm election results, resurrecting his pattern of raising doubts about electoral losses for himself and other Republicans.
+Trump's social media post raising questions about the election came six days after his fellow Republicans suffered historic defeats at the polls nationwide, including in several GOP strongholds like Texas and South Carolina.
+"Does anybody really believe that this 'Election' was honest," Trump wrote on Truth Social.
+"How could the Polls be so wrong??? Some early voting 'dumps' were so large that it was impossible to win, no matter how many people went to vote," the president said. "It's all about the machines, which are far more important than the voter!"
+Trump's post was a sharp pivot from what has been a somewhat conciliatory tone after last Tuesday's thumping of Republican candidates.
+"I'll get along probably with the Democrats unless they want to be destructive," Trump said a day after the election.
+After his electoral loss to former President Joe Biden in 2020, Trump argued, without evidence, that he only lost as a result of widespread ballot fraud.
+Trump's claims, which were joined by dozens of unsuccessful court cases challenging election procedures, culminated in the Jan. 6, 2021, attack on the U.S. Capitol by a mob of his supporters after he spoke at a rally outside the White House.
+The riot disrupted a joint session of Congress for hours. Later that day, Congress confirmed Biden's election by the Electoral College.
+Critics of Trump's conspiracy theories about elections have noted that he lost the 2020 race when he was president, but won the 2024 presidential election, when Biden was in the White House.
+They also noted that in the past week, Republicans had control of states that saw major Democratic wins that few analysts would have predicted a year ago, including Texas, Kansas, South Carolina, and Iowa.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
+    publishedAt: "2026-11-09T15:44:09+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "civil-servant-who-juggled-five-jobs-foun-c49bbdf3",
+    title: "Civil servant who juggled five jobs found guilty of fraud",
+    titleJa: "Civil servant who juggled five jobs found guilty of fraud",
+    summaryJa: "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+    bodyOriginal: `Civil servant who juggled five jobs found guilty of fraud
+- Published
+A civil servant who secretly held multiple public sector jobs on full-time salaries has been found guilty of nine counts of fraud.
+Kashim Chowdhury, from east London, had five government jobs that overlapped in the spring of 2023. He fraudulently earned more than £284,000 of taxpayers' money.
+The prosecution accused the 56-year-old of ''deliberate, intentional dishonesty'' and of ''exploiting the system''.
+After seven hours of deliberation, the jury unanimously found Chowdhury guilty of eight counts of fraud by false representation and one count of fraud by a failure to disclose.
+Between 2020 and 2023 Kashim Chowdhury had eight full-time public sector roles that overlapped and earned him £350,000 in total.
+The prosecution told the court that on application forms he provided inaccurate information about his employment status and failed to disclose to government departments that he was already a civil servant. Once he secured the roles he didn't tell his employers he was working elsewhere.
+He was allowed to work entirely from home because he told his employers he was caring for his mother, whom he lived with in east London. She had dementia and was diagnosed with terminal cancer in 2023.
+But rather than reduce his workload to look after her, he kept taking on new jobs. In the spring of 2023, when his mother was a few months away from death, he had jobs at the Department for Environment, Food and Rural Affairs, the Department of Health and Social Care, the UK Health Security Agency (UKHSA), the Department for Business and Trade, the Food Standards Agency and the Home Office.
+During this period he was contracted to work 183 hours a week - more than the number of hours that exist in seven days.
+Chowdhury said he had taken on so many roles because he feared losing his livelihood after experiencing insecure employment in the past. He was made redundant from a job at the Department for Education in 2013 and was given a diagnosis of PTSD.
+He said he had not been thinking clearly when applying for jobs ''because of my stress, distress and trauma and due to my panic at the time".
+But the prosecution barrister, Lucy Organ, told the jury: "He's lied to you in evidence, he's lied to you under oath, which demonstrates the level of deceit he has descended to."
+A succession of his managers told the court about his poor performance. Especially damning was the evidence given by Dan McCartney who managed Chowdhury at Defra.
+He said he had to "effectively tell him what to do the whole time". McCartney said that during video calls Chowdhury had his camera switched off blaming technical problems. McCartney said this went on for four to five months.
+But McCartney said that because Chowdhury was not subject to any formal performance measures at Defra, he was given a permanent job and remained there for two years.
+The prosecution argued that he used sick notes to cope with his impossible schedule. In March 2023, he was on sick leave from four of the organisations he worked for. But he kept working at the Home Office and did not tell them he was ill.
+His line manager at the UK Health Security Agency (UKHSA), Aleesha Adams, organised a video call with him in May 2023. By this point he'd been off sick for three months and she wanted to make a plan to get him back to work.
+She told the jury that at the start of the call he was coughing a lot and waving tissues up to the camera. She also told the jury that he had been wearing white make-up to try to look ill.
+Adams told the court that as the meeting went on the make-up started coming off his forehead. ''He was sweating, it was like rubbing off so it was darker underneath and darker on the neck."
+Chowdhury told the jury this was a smear and that he had not been wearing make-up.
+After the call, Adams discovered that he had logged into the call using a Defra email address. When she challenged him about it he blamed a technical error.
+Adams grew suspicious. ''I believed he was lying,'' she told the jury. She escalated her concerns up the chain at the UKHSA.
+But his fraudulent behaviour went on for several more months until he left the civil service in September 2023.
+He was finally caught in 2024 by the government's National Fraud Initiative, which conducts searches of civil service databases such as payroll every two years to look for anomalies.`,
+    bodyJa: `Civil servant who juggled five jobs found guilty of fraud
+- Published
+A civil servant who secretly held multiple public sector jobs on full-time salaries has been found guilty of nine counts of fraud.
+Kashim Chowdhury, from east London, had five government jobs that overlapped in the spring of 2023. He fraudulently earned more than £284,000 of taxpayers' money.
+The prosecution accused the 56-year-old of ''deliberate, intentional dishonesty'' and of ''exploiting the system''.
+After seven hours of deliberation, the jury unanimously found Chowdhury guilty of eight counts of fraud by false representation and one count of fraud by a failure to disclose.
+Between 2020 and 2023 Kashim Chowdhury had eight full-time public sector roles that overlapped and earned him £350,000 in total.
+The prosecution told the court that on application forms he provided inaccurate information about his employment status and failed to disclose to government departments that he was already a civil servant. Once he secured the roles he didn't tell his employers he was working elsewhere.
+He was allowed to work entirely from home because he told his employers he was caring for his mother, whom he lived with in east London. She had dementia and was diagnosed with terminal cancer in 2023.
+But rather than reduce his workload to look after her, he kept taking on new jobs. In the spring of 2023, when his mother was a few months away from death, he had jobs at the Department for Environment, Food and Rural Affairs, the Department of Health and Social Care, the UK Health Security Agency (UKHSA), the Department for Business and Trade, the Food Standards Agency and the Home Office.
+During this period he was contracted to work 183 hours a week - more than the number of hours that exist in seven days.
+Chowdhury said he had taken on so many roles because he feared losing his livelihood after experiencing insecure employment in the past. He was made redundant from a job at the Department for Education in 2013 and was given a diagnosis of PTSD.
+He said he had not been thinking clearly when applying for jobs ''because of my stress, distress and trauma and due to my panic at the time".
+But the prosecution barrister, Lucy Organ, told the jury: "He's lied to you in evidence, he's lied to you under oath, which demonstrates the level of deceit he has descended to."
+A succession of his managers told the court about his poor performance. Especially damning was the evidence given by Dan McCartney who managed Chowdhury at Defra.
+He said he had to "effectively tell him what to do the whole time". McCartney said that during video calls Chowdhury had his camera switched off blaming technical problems. McCartney said this went on for four to five months.
+But McCartney said that because Chowdhury was not subject to any formal performance measures at Defra, he was given a permanent job and remained there for two years.
+The prosecution argued that he used sick notes to cope with his impossible schedule. In March 2023, he was on sick leave from four of the organisations he worked for. But he kept working at the Home Office and did not tell them he was ill.
+His line manager at the UK Health Security Agency (UKHSA), Aleesha Adams, organised a video call with him in May 2023. By this point he'd been off sick for three months and she wanted to make a plan to get him back to work.
+She told the jury that at the start of the call he was coughing a lot and waving tissues up to the camera. She also told the jury that he had been wearing white make-up to try to look ill.
+Adams told the court that as the meeting went on the make-up started coming off his forehead. ''He was sweating, it was like rubbing off so it was darker underneath and darker on the neck."
+Chowdhury told the jury this was a smear and that he had not been wearing make-up.
+After the call, Adams discovered that he had logged into the call using a Defra email address. When she challenged him about it he blamed a technical error.
+Adams grew suspicious. ''I believed he was lying,'' she told the jury. She escalated her concerns up the chain at the UKHSA.
+But his fraudulent behaviour went on for several more months until he left the civil service in September 2023.
+He was finally caught in 2024 by the government's National Fraud Initiative, which conducts searches of civil service databases such as payroll every two years to look for anomalies.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-09T15:33:35+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1641/live/c3324b50-d6f9-11f1-b983-c357054e4d1e.jpg",
+    readTime: 10,
+  },
+  {
+    id: "home-listings-pile-up-in-october-but-sel-bc75a143",
+    title: "Home listings pile up in October, but sellers won't slash prices",
+    titleJa: "Home listings pile up in October, but sellers won't slash prices",
+    summaryJa: "After a rough month in September, the housing market remained in a deep freeze in October as listings piled up. Sellers are still reluctant to cut prices.",
+    bodyOriginal: `Homebuyers continue to retreat, but sellers are still digging in, refusing to cut prices or give up. As a result, September's frozen housing market is now October's frozen and increasingly bloated market.
+Active inventory in October hit 183,500 homes, up 7.4% year-over-year, according to Realtor.com. That is the fastest annual growth in eight months. Active listings have been rising each month since February. This is despite the fact that new listings are actually falling, down 7.5% from October 2025.
+The market has seen several years of extremely lean supply, driven by the homebuying frenzy during the first two years of the pandemic, when mortgage rates hit more than a dozen record lows. Now supply nationally is just 6.6% below typical pre-pandemic levels, the narrowest gap since the pandemic.
+"The market is cooling on both sides, but in different ways. Buyers are stepping back as higher mortgage rates cut into their buying power, while sellers are listing less often without a broad increase in delistings or price cuts," said Danielle Hale, chief economist at Realtor.com. "We're seeing a pause in new supply, but owners who already have homes on the market appear to be largely unphased."
+Just over 20% of sellers cut prices in October, about the same as both September and October of last year. There was also no meaningful increase in delistings by sellers.
+Mortgage rates came down a little bit in October month-to-month, but they are still over a full percentage point higher than a year ago. That continued to weigh on sales. Newly pending sales, representing signed contracts, not closings, dropped 16.8% in October year-over-year, according to Zillow. That was the biggest annual drop since August 2023 and slowest October since 2018.
+While rates fell slightly, home prices continued to gain. Zillow estimated the monthly mortgage payment on the typical U.S. home was $2,004 in October, assuming a 20% down payment and excluding taxes and insurance. That is an increase of 12.8% from last year and 4.8% higher than in September, the biggest one-month jump in four years.
+"November is shaping up to have an even larger contraction, but the silver lining is that next month is likely going to be the worst of it," said Mischa Fisher, Zillow's chief economist, in a release. "I expect the pace of the slowdown to ease into the new year. There are deals to be had for buyers able to brave the affordability headwinds in the coming months, and the continued inventory buildup means there is a lot of upside for sales into next year if we get rate relief."`,
+    bodyJa: `Homebuyers continue to retreat, but sellers are still digging in, refusing to cut prices or give up. As a result, September's frozen housing market is now October's frozen and increasingly bloated market.
+Active inventory in October hit 183,500 homes, up 7.4% year-over-year, according to Realtor.com. That is the fastest annual growth in eight months. Active listings have been rising each month since February. This is despite the fact that new listings are actually falling, down 7.5% from October 2025.
+The market has seen several years of extremely lean supply, driven by the homebuying frenzy during the first two years of the pandemic, when mortgage rates hit more than a dozen record lows. Now supply nationally is just 6.6% below typical pre-pandemic levels, the narrowest gap since the pandemic.
+"The market is cooling on both sides, but in different ways. Buyers are stepping back as higher mortgage rates cut into their buying power, while sellers are listing less often without a broad increase in delistings or price cuts," said Danielle Hale, chief economist at Realtor.com. "We're seeing a pause in new supply, but owners who already have homes on the market appear to be largely unphased."
+Just over 20% of sellers cut prices in October, about the same as both September and October of last year. There was also no meaningful increase in delistings by sellers.
+Mortgage rates came down a little bit in October month-to-month, but they are still over a full percentage point higher than a year ago. That continued to weigh on sales. Newly pending sales, representing signed contracts, not closings, dropped 16.8% in October year-over-year, according to Zillow. That was the biggest annual drop since August 2023 and slowest October since 2018.
+While rates fell slightly, home prices continued to gain. Zillow estimated the monthly mortgage payment on the typical U.S. home was $2,004 in October, assuming a 20% down payment and excluding taxes and insurance. That is an increase of 12.8% from last year and 4.8% higher than in September, the biggest one-month jump in four years.
+"November is shaping up to have an even larger contraction, but the silver lining is that next month is likely going to be the worst of it," said Mischa Fisher, Zillow's chief economist, in a release. "I expect the pace of the slowdown to ease into the new year. There are deals to be had for buyers able to brave the affordability headwinds in the coming months, and the continued inventory buildup means there is a lot of upside for sales into next year if we get rate relief."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/09/home-listings-pile-up-in-october-but-sellers-wont-slash-prices.html",
+    publishedAt: "2026-11-09T13:54:29+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "government-s-ev-targets-expected-to-be-r-9d9e37e8",
+    title: "Government's EV targets expected to be reduced this week",
+    titleJa: "Government's EV targets expected to be reduced this week",
+    summaryJa: "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+    bodyOriginal: `Government's EV targets expected to be reduced this week
+- Published
+The UK government's electric vehicle (EV) targets are expected to be reduced this week in a move likely to be welcomed by carmakers but opposed by environmental groups.
+Under the current rules, 80% of new cars sold in the UK must be electric by 2030 but industry groups have long called for "urgent relief".
+New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.
+But the speed of the transition to electric has been hotly debated, including within the cabinet.
+The government has been consulting on reducing its 80% rule and a significant reduction is now expected.
+Downing Street has insisted no decision has been made.
+A government source told the BBC it would approach the issue in a "pragmatic and balanced" way.
+If ministers do decide on a steeper watering-down of the rules, it will arguably be interpreted by some - alongside the approval of the Jackdaw gas field in the North Sea - as the government prioritising economic considerations over environmental ones.
+Prime Minister Andy Burnham has recused himself from this issue due to his wife's links to an electric vehicle company.
+The key meetings on the subject will instead be chaired by Cabinet Office minister Louise Haigh.
+Asked about reports the targets would be reduced, Burnham dismissed this as "speculation", adding: "No decision has been made at this point."
+Sustainability groups say any weakening of the 2030 target will threaten the UK's long-term electrification and climate goals.
+It could undermine the UK's claim to be providing leadership on climate just as ministers head to Turkey for COP31, the UN's climate summit.
+Energy UK, the trade association for the energy industry, has also opposed the move.
+Last month, it said, external reducing targets could damage "the investment certainty needed to deliver the infrastructure, innovation and services required for the transition to zero-emission transport".
+Asked if climate change was no longer a big priority, Health Minister Karin Smyth said the government was committed to its emissions targets.
+"This country is doing great work in terms of our transition and looking at renewables – that's a key part of growth in different parts of the country," she told BBC Breakfast.
+She added that the prime minister would have "a good story to tell" when meeting other leaders at COP31.
+A government spokesperson said: "We are committed to the phase out of all new cars relying solely on petrol and diesel engines by 2030, and to 100% of new car and van sales being zero emission by 2035, and our legally binding net zero targets."
+The Society of Motor Manufacturers and Traders welcomed the government's review of the EV targets when it was announced in the summer.
+Last week, head of the association Mike Hawes said transitioning to electric vehicles had come at a "heavy cost" with billions spent on discounts to drive demand in electric vehicles.
+He said the government's targets could not be achieved "without putting at risk any future investment".
+UK electric car sales target set to be weakened
+- Published14 June
+EU waters down plans to end new petrol and diesel car sales by 2035
+- Published16 December 2025
+Net zero means balancing the amount of planet-warming "greenhouse" gases produced by human activities with the amount being actively removed from the atmosphere.
+The government's policy to phase out petrol and diesel vehicle sales has undergone multiple changes since it was first introduced by former Prime Minister Boris Johnson in 2020.
+His successor Rishi Sunak pushed back the timeline to 2035, and the Burnham government set up a review of the EV sales targets in August.
+Sunak introduced phased targets for EV sales in the UK, known as the Zero Emission Vehicles (ZEV) mandate.
+Under the ZEV mandate, the percentage of new car sales that need to be EVs increases each year. The target was 28% for 2025, 33% for 2026, and so on until it reaches 80% by 2030.
+Pressure in the European Union saw the bloc scrap a similar plan to ban new petrol and diesel car sales by 2035, particularly from countries with large auto industries such as Germany.
+The Conservative Party has also vowed to abandon the petrol car ban if it wins the next election, with leader Kemi Badenoch calling it a "well-meaning, but ultimately destructive piece of legislation".
+Green Party leader Zack Polanski said the government was "building up a shocking record of backsliding and bad decisions on climate issues".
+Sign up for our Future Earth newsletter to keep up with the latest climate and environment stories with the BBC's Justin Rowlatt. Outside the UK? Sign up to our international newsletter here.`,
+    bodyJa: `Government's EV targets expected to be reduced this week
+- Published
+The UK government's electric vehicle (EV) targets are expected to be reduced this week in a move likely to be welcomed by carmakers but opposed by environmental groups.
+Under the current rules, 80% of new cars sold in the UK must be electric by 2030 but industry groups have long called for "urgent relief".
+New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.
+But the speed of the transition to electric has been hotly debated, including within the cabinet.
+The government has been consulting on reducing its 80% rule and a significant reduction is now expected.
+Downing Street has insisted no decision has been made.
+A government source told the BBC it would approach the issue in a "pragmatic and balanced" way.
+If ministers do decide on a steeper watering-down of the rules, it will arguably be interpreted by some - alongside the approval of the Jackdaw gas field in the North Sea - as the government prioritising economic considerations over environmental ones.
+Prime Minister Andy Burnham has recused himself from this issue due to his wife's links to an electric vehicle company.
+The key meetings on the subject will instead be chaired by Cabinet Office minister Louise Haigh.
+Asked about reports the targets would be reduced, Burnham dismissed this as "speculation", adding: "No decision has been made at this point."
+Sustainability groups say any weakening of the 2030 target will threaten the UK's long-term electrification and climate goals.
+It could undermine the UK's claim to be providing leadership on climate just as ministers head to Turkey for COP31, the UN's climate summit.
+Energy UK, the trade association for the energy industry, has also opposed the move.
+Last month, it said, external reducing targets could damage "the investment certainty needed to deliver the infrastructure, innovation and services required for the transition to zero-emission transport".
+Asked if climate change was no longer a big priority, Health Minister Karin Smyth said the government was committed to its emissions targets.
+"This country is doing great work in terms of our transition and looking at renewables – that's a key part of growth in different parts of the country," she told BBC Breakfast.
+She added that the prime minister would have "a good story to tell" when meeting other leaders at COP31.
+A government spokesperson said: "We are committed to the phase out of all new cars relying solely on petrol and diesel engines by 2030, and to 100% of new car and van sales being zero emission by 2035, and our legally binding net zero targets."
+The Society of Motor Manufacturers and Traders welcomed the government's review of the EV targets when it was announced in the summer.
+Last week, head of the association Mike Hawes said transitioning to electric vehicles had come at a "heavy cost" with billions spent on discounts to drive demand in electric vehicles.
+He said the government's targets could not be achieved "without putting at risk any future investment".
+UK electric car sales target set to be weakened
+- Published14 June
+EU waters down plans to end new petrol and diesel car sales by 2035
+- Published16 December 2025
+Net zero means balancing the amount of planet-warming "greenhouse" gases produced by human activities with the amount being actively removed from the atmosphere.
+The government's policy to phase out petrol and diesel vehicle sales has undergone multiple changes since it was first introduced by former Prime Minister Boris Johnson in 2020.
+His successor Rishi Sunak pushed back the timeline to 2035, and the Burnham government set up a review of the EV sales targets in August.
+Sunak introduced phased targets for EV sales in the UK, known as the Zero Emission Vehicles (ZEV) mandate.
+Under the ZEV mandate, the percentage of new car sales that need to be EVs increases each year. The target was 28% for 2025, 33% for 2026, and so on until it reaches 80% by 2030.
+Pressure in the European Union saw the bloc scrap a similar plan to ban new petrol and diesel car sales by 2035, particularly from countries with large auto industries such as Germany.
+The Conservative Party has also vowed to abandon the petrol car ban if it wins the next election, with leader Kemi Badenoch calling it a "well-meaning, but ultimately destructive piece of legislation".
+Green Party leader Zack Polanski said the government was "building up a shocking record of backsliding and bad decisions on climate issues".
+Sign up for our Future Earth newsletter to keep up with the latest climate and environment stories with the BBC's Justin Rowlatt. Outside the UK? Sign up to our international newsletter here.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-09T12:06:22+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b401/live/fd7836e0-dbdf-11f1-b348-cb75a5659779.jpg",
+    readTime: 10,
+  },
+  {
+    id: "congress-returns-with-government-funding-0d05cd59",
+    title: "Congress returns with government funding, Pete Hegseth and the debt limit on the agenda",
+    titleJa: "Congress returns with government funding, Pete Hegseth and the debt limit on the agenda",
+    summaryJa: "Republicans have less than two months left with majorities in both the Senate and the House — and a long list of legislation to take up in the coming weeks.",
+    bodyOriginal: `The House and Senate are due to return to Washington on Monday with a crowded legislative agenda in the final weeks before the end of the 119th Congress.
+Congress will need to act quickly to extend government funding, which expires Dec. 11. Lawmakers will need to pass the National Defense Authorization Act, and they may tackle ambitious proposals including a construction permitting package and a bill to regulate name, image and likeness rules in college sports.
+The work will commence under a new dynamic. Republicans come back to the Capitol diminished after suffering substantial losses in this week's midterms. Democrats swept to a commanding majority in the House with at least 255 seats in the 435-member chamber and could emerge with as many as 56 seats in the Senate.
+With majorities in both chambers looming, Democrats will have little incentive to cut deals with their GOP counterparts.
+Government funding
+The most pressing concern lawmakers will face when they return is funding the government. Current funding expires Dec. 11. Congress must pass another continuing resolution to retain current spending levels or a full-year suite of appropriations bills before then to avoid a government shutdown.
+Appropriations bills and continuing resolutions require bipartisan majorities due to the Senate's 60-vote filibuster threshold. Democrats are unlikely to negotiate a full year of government funding before the new Congress is sworn in, given that they will soon hold commanding majorities in both chambers and can use that to leverage concessions from the White House.
+"This former preschool teacher is going to teach President Trump a simple lesson: The power of the purse belongs to CONGRESS!" Sen. Patty Murray, D-Wash., the presumptive chair of the Appropriations Committee, said in an X post Tuesday as election results rolled in. "It's NOT Trump's money. Taxpayer dollars belong to the American PEOPLE."
+Adding another wrinkle to the funding push is the electoral loss of Sen. Susan Collins, R-Maine, who chairs the Senate Appropriations Committee and is one of the "four corners" of spending talks. Collins lost reelection to Democrat Troy Jackson, ending a five-term career in the Senate.
+Debt ceiling
+Some lawmakers, including Sen. Kevin Cramer, R-N.D., have called for Congress to raise the debt limit before Republicans lose control.
+In September, the federal debt hit $40 trillion for the first time, bumping up against the $41.1 trillion ceiling written into the GOP's 2025 budget reconciliation law known as the "one big beautiful bill."
+The Bipartisan Policy Center, a nonprofit that tracks the debt limit, said Treasury is likely to hit its maximum borrowing capacity by mid-summer. The U.S. may no longer be able to meet all its obligations by November 2027, according to a Bank of America estimate from Nov. 6.
+But Democrats may instead prefer to use the debt limit as a bargaining chip in the next Congress.
+Republicans could theoretically raise the debt ceiling in a budget reconciliation package, as they did with their 2025 law. But cobbling together a post-election coalition to clear another reconciliation bill with exceptionally narrow margins would be difficult. Budget reconciliation, which allows party-line bills to skirt the filibuster in the Senate, requires near-total unity.
+Congressional leadership, particularly on the Republican side, is likely to have difficulty with lawmaker attendance after dozens of members lost their seats in an electoral bloodbath. Leadership will also struggle to whip members into line, especially those who do not have another election to run.
+Energy construction permitting
+Top senators on energy committees struck a deal on a permitting bill before the election. That accord to make construction easier could now be in jeopardy, though the Senate plans to hold a procedural vote to advance it Monday evening, according to a Senate aide familiar with the schedule. The person asked not to be named because the move has not been announced.
+The resounding majorities Democrats won in both the House and Senate may give them incentive to torpedo the permitting deal in hopes of securing a better one later. The deal also may have been in trouble prior to the election, with top Democrats in the House not supporting the version their counterparts in the Senate accepted.
+Politico reported Thursday that Democratic Minority Leader and likely next House Speaker Hakeem Jeffries, D-N.Y., did not support the permitting deal.
+Lawmakers have long sought, and failed to reach, a bipartisan, bicameral deal on permitting reform. Democrats want to speed up the buildout of clean energy. Republicans have long complained that the federal permitting process and environmental laws that comprise it stymie the U.S.'s ability to build critical infrastructure.
+Defense spending
+The House passed a version of the NDAA, which would authorize more than $1 trillion in defense spending, in July. But Senate Democrats blocked their chamber's version of the bill that same month over concerns about the Iran war.
+"Donald Trump is dragging America deeper into a war in Iran with no authorization, no plan, and no exit strategy. Democrats will not go along," Senate Minority Leader Chuck Schumer, D-N.Y., said in a statement at the time.
+The NDAA is typically seen as a must-pass, bipartisan bill.
+The legislation as it stood in July also drew pushback from businesses over a provision that would restrict Pentagon contractors from executing stock buybacks and paying dividends unless they have the Defense Department's approval.
+A new wrinkle threatens to derail the NDAA process during the lame duck, however. Defense Secretary Pete Hegseth faces a vote on articles of impeachment upon Congress' return, and Democrats have already been highly skeptical of the Pentagon's asks in this year's budget as the expensive Iran war drags on.
+NIL and stocks
+Other priorities could also get floor time.
+The Senate in September approved, in a bipartisan vote, a package that would establish federal rules for the ways in which college athletes are compensated. But that legislation has many opponents in the House, particularly among Democrats in the chamber, making its passage more complicated.
+There's also been a yearslong effort to ban members of Congress from owning or trading individual stocks.
+In previous Congresses, the effort was stymied by leadership from both parties. And more recently, a bipartisan push to pass legislation was derailed after House Democrats demanded the ban also apply to the president.
+One GOP-led proposal, called the Stop Insider Trading Act, passed the House with some bipartisan support in July, but met with Democratic opposition because it would apply only to Congress and would not require lawmakers to divest existing holdings.
+Sen. Todd Young, R-Ind., called for action on the issue in an X post Thursday. Young is a co-sponsor of the Senate version of the Stop Insider Trading Act.
+"We have a great opportunity in the lame duck session to restore a small amount of trust by banning Members of Congress from trading stocks. I've been talking about this for many months, and it should be a no-brainer," Young said.
+Democrats, however, are eager to claim a victory on congressional stock trading in the next Congress.
+Jeffries, in a letter to fellow House members announcing his candidacy for speaker, listed it as a priority as part of Democrats' anti-corruption agenda.
+"We must root out corrupt price gouging, clean up the mess at the Supreme Court and ban Members of Congress from trading stocks. Accountability begins at home," Jeffries wrote.`,
+    bodyJa: `The House and Senate are due to return to Washington on Monday with a crowded legislative agenda in the final weeks before the end of the 119th Congress.
+Congress will need to act quickly to extend government funding, which expires Dec. 11. Lawmakers will need to pass the National Defense Authorization Act, and they may tackle ambitious proposals including a construction permitting package and a bill to regulate name, image and likeness rules in college sports.
+The work will commence under a new dynamic. Republicans come back to the Capitol diminished after suffering substantial losses in this week's midterms. Democrats swept to a commanding majority in the House with at least 255 seats in the 435-member chamber and could emerge with as many as 56 seats in the Senate.
+With majorities in both chambers looming, Democrats will have little incentive to cut deals with their GOP counterparts.
+Government funding
+The most pressing concern lawmakers will face when they return is funding the government. Current funding expires Dec. 11. Congress must pass another continuing resolution to retain current spending levels or a full-year suite of appropriations bills before then to avoid a government shutdown.
+Appropriations bills and continuing resolutions require bipartisan majorities due to the Senate's 60-vote filibuster threshold. Democrats are unlikely to negotiate a full year of government funding before the new Congress is sworn in, given that they will soon hold commanding majorities in both chambers and can use that to leverage concessions from the White House.
+"This former preschool teacher is going to teach President Trump a simple lesson: The power of the purse belongs to CONGRESS!" Sen. Patty Murray, D-Wash., the presumptive chair of the Appropriations Committee, said in an X post Tuesday as election results rolled in. "It's NOT Trump's money. Taxpayer dollars belong to the American PEOPLE."
+Adding another wrinkle to the funding push is the electoral loss of Sen. Susan Collins, R-Maine, who chairs the Senate Appropriations Committee and is one of the "four corners" of spending talks. Collins lost reelection to Democrat Troy Jackson, ending a five-term career in the Senate.
+Debt ceiling
+Some lawmakers, including Sen. Kevin Cramer, R-N.D., have called for Congress to raise the debt limit before Republicans lose control.
+In September, the federal debt hit $40 trillion for the first time, bumping up against the $41.1 trillion ceiling written into the GOP's 2025 budget reconciliation law known as the "one big beautiful bill."
+The Bipartisan Policy Center, a nonprofit that tracks the debt limit, said Treasury is likely to hit its maximum borrowing capacity by mid-summer. The U.S. may no longer be able to meet all its obligations by November 2027, according to a Bank of America estimate from Nov. 6.
+But Democrats may instead prefer to use the debt limit as a bargaining chip in the next Congress.
+Republicans could theoretically raise the debt ceiling in a budget reconciliation package, as they did with their 2025 law. But cobbling together a post-election coalition to clear another reconciliation bill with exceptionally narrow margins would be difficult. Budget reconciliation, which allows party-line bills to skirt the filibuster in the Senate, requires near-total unity.
+Congressional leadership, particularly on the Republican side, is likely to have difficulty with lawmaker attendance after dozens of members lost their seats in an electoral bloodbath. Leadership will also struggle to whip members into line, especially those who do not have another election to run.
+Energy construction permitting
+Top senators on energy committees struck a deal on a permitting bill before the election. That accord to make construction easier could now be in jeopardy, though the Senate plans to hold a procedural vote to advance it Monday evening, according to a Senate aide familiar with the schedule. The person asked not to be named because the move has not been announced.
+The resounding majorities Democrats won in both the House and Senate may give them incentive to torpedo the permitting deal in hopes of securing a better one later. The deal also may have been in trouble prior to the election, with top Democrats in the House not supporting the version their counterparts in the Senate accepted.
+Politico reported Thursday that Democratic Minority Leader and likely next House Speaker Hakeem Jeffries, D-N.Y., did not support the permitting deal.
+Lawmakers have long sought, and failed to reach, a bipartisan, bicameral deal on permitting reform. Democrats want to speed up the buildout of clean energy. Republicans have long complained that the federal permitting process and environmental laws that comprise it stymie the U.S.'s ability to build critical infrastructure.
+Defense spending
+The House passed a version of the NDAA, which would authorize more than $1 trillion in defense spending, in July. But Senate Democrats blocked their chamber's version of the bill that same month over concerns about the Iran war.
+"Donald Trump is dragging America deeper into a war in Iran with no authorization, no plan, and no exit strategy. Democrats will not go along," Senate Minority Leader Chuck Schumer, D-N.Y., said in a statement at the time.
+The NDAA is typically seen as a must-pass, bipartisan bill.
+The legislation as it stood in July also drew pushback from businesses over a provision that would restrict Pentagon contractors from executing stock buybacks and paying dividends unless they have the Defense Department's approval.
+A new wrinkle threatens to derail the NDAA process during the lame duck, however. Defense Secretary Pete Hegseth faces a vote on articles of impeachment upon Congress' return, and Democrats have already been highly skeptical of the Pentagon's asks in this year's budget as the expensive Iran war drags on.
+NIL and stocks
+Other priorities could also get floor time.
+The Senate in September approved, in a bipartisan vote, a package that would establish federal rules for the ways in which college athletes are compensated. But that legislation has many opponents in the House, particularly among Democrats in the chamber, making its passage more complicated.
+There's also been a yearslong effort to ban members of Congress from owning or trading individual stocks.
+In previous Congresses, the effort was stymied by leadership from both parties. And more recently, a bipartisan push to pass legislation was derailed after House Democrats demanded the ban also apply to the president.
+One GOP-led proposal, called the Stop Insider Trading Act, passed the House with some bipartisan support in July, but met with Democratic opposition because it would apply only to Congress and would not require lawmakers to divest existing holdings.
+Sen. Todd Young, R-Ind., called for action on the issue in an X post Thursday. Young is a co-sponsor of the Senate version of the Stop Insider Trading Act.
+"We have a great opportunity in the lame duck session to restore a small amount of trust by banning Members of Congress from trading stocks. I've been talking about this for many months, and it should be a no-brainer," Young said.
+Democrats, however, are eager to claim a victory on congressional stock trading in the next Congress.
+Jeffries, in a letter to fellow House members announcing his candidacy for speaker, listed it as a priority as part of Democrats' anti-corruption agenda.
+"We must root out corrupt price gouging, clean up the mess at the Supreme Court and ban Members of Congress from trading stocks. Accountability begins at home," Jeffries wrote.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/09/congress-government-funding-debt-limit-elections.html",
+    publishedAt: "2026-11-09T11:00:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "what-do-we-know-about-nvidia-ceo-s-affai-e7e00f67",
+    title: "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+    titleJa: "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+    summaryJa: "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
+    bodyOriginal: `What do we know about Nvidia CEO’s affair with a suspected Chinese spy?
+US tech giant Nvidia has opened an independent investigation following reports its boss Jensen Huang had a relationship with businesswoman Alice Huang, a suspected Chinese spy.
+Huang has been in charge of the tech giant for 30 years, and is a popular public figure - but will this scandal hurt his reputation? The BBC’s Steve Lai explains everything you need to know.`,
+    bodyJa: `What do we know about Nvidia CEO’s affair with a suspected Chinese spy?
+US tech giant Nvidia has opened an independent investigation following reports its boss Jensen Huang had a relationship with businesswoman Alice Huang, a suspected Chinese spy.
+Huang has been in charge of the tech giant for 30 years, and is a popular public figure - but will this scandal hurt his reputation? The BBC’s Steve Lai explains everything you need to know.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-09T07:10:11+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83e2/live/f1cb1e30-dc24-11f1-93e1-3b657b665bcf.png",
+    readTime: 2,
+  },
+  {
     id: "from-supermarket-fridges-to-passenger-fl-8694ab5e",
     title: "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses",
     titleJa: "From supermarket fridges to passenger flights, a wave of threats is testing Europe's defenses",
@@ -1545,622 +2059,6 @@ Berkshire's cash hoard also grew 3% in the third quarter $377.435 billion from $
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
     readTime: 5,
-  },
-  {
-    id: "risk-of-iran-war-escalation-remains-high-9d020de0",
-    title: "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
-    titleJa: "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
-    summaryJa: "The U.S. and Iran are on a collision course as tensions in the Middle East simmer.",
-    bodyOriginal: `The U.S. and Iran are careening toward renewed war despite growing hopes this week that the Democrats' decisive midterm election victory will bring the conflict to an end, analysts say.
-Crude oil prices fell more than 16% over the last five trading days after Vice President JD Vance publicly blamed the Republicans' stinging loss on the war. Vance's remarks raised questions about whether there is still support within the administration to continue the conflict with Iran.
-The Democrats plan to use their comfortable majorities in both chambers of Congress to pass a war powers resolution that demands President Donald Trump end the war. But tensions in the Middle East have not eased since the election, and the Democrats aren't sworn in until January, the analysts say.
-"Throughout the week, we were struck by the divergence between deepening escalation concerns in the Gulf and the headline driven off-ramp optimism of market participants thousands of miles away," Helima Croft, head of global commodity strategy at RBC Capital Markets, told investors in a note Friday.
-More attacks
-Several oil tankers have come under attack near Oman since the election, killing one seafarer, according to maritime security agencies. Iran's Houthi allies in Yemen continue to fire missiles at neighboring Saudi Arabia.
-Meanwhile, the U.S. military buildup continues, with a third carrier strike group en route to the region. The consulting group Rapidan Energy sees an 80% chance that fighting will resume as diplomacy stalls.
-President Donald Trump told reporters Thursday that he will make a decision soon on whether to attack Iran again.
-"I would rather not destroy the rest of the country if possible but maybe I'll have to," Trump said in the Oval Office. "You'll know soon enough."
-"We're locked and loaded," the president said. "If we have to do the rest of the Iran thing, we're very much locked in."
-Price risk
-Crude oil prices will vault above $100 a barrel again in response to renewed fighting, said Bob McNally, president of Rapidan and a former energy advisor to President George W. Bush. Brent crude, the international benchmark, was trading above $97 on Friday while U.S. crude was around $90.
-"President Donald Trump is determined as a legacy item, almost at all costs, to prevent Iran from getting a nuclear weapon, having them give up their nuclear capabilities," McNally told CNBC's "Squawk Box Asia" on Friday.
-"The Iranian regime, on the other hand, is not willing to do it," the analyst said. The escalation dynamic remains in place so long as that core difference between the U.S. and Iran persists, he said.
-The risk of war is still alive, especially since Trump doesn't face anymore future elections, said Amos Hochstein, a former energy advisor to President Joe Biden. Gasoline, diesel and jet fuel prices would all surge as a consequence, Hochstein told CNBC's "Power Lunch" Friday.
-Iranian taunts
-Tehran has been taunting the Trump administration since the election. The social media account of Iran's Supreme Leader Mojtaba Khamenei said the "process of the U.S.'s collapse has accelerated" after the midterm results.
-And Congress is unlikely to pass a war powers resolution until Democrats take control in January. Trump can veto such a resolution in any case.
-The main leverage Congress will have is the power of the purse, Croft said. Government funding expires on Dec. 11 and negotiations for another continuing resolution could drag into 2027, she said. This would give Democrats more leverage when they take power in January, the analyst said.
-"Importantly, deferring funding decisions would not immediately constrain Trump's ability to conduct military operations, but could significantly reshape the administration's longer-term funding outlook," Croft told investors.
-Trump discussed diplomatic efforts to de-escalate tensions in the region with the emir of Qatar during a Friday phone call, according to Qatar's state news agency.
-An unnamed senior Iranian official told Reuters on Thursday that Tehran sent a nuclear proposal to the U.S. through Qatar. Tehran will only discuss the proposal after the U.S. meets its demands, the Iranian official told Reuters.
-Trump seemed to dismiss the diplomatic efforts Thursday.
-"Iran will never have a nuclear weapon," the president said. "They're not doing anything without our approval. It doesn't make any difference what they're looking at," he said of the diplomatic efforts.`,
-    bodyJa: `The U.S. and Iran are careening toward renewed war despite growing hopes this week that the Democrats' decisive midterm election victory will bring the conflict to an end, analysts say.
-Crude oil prices fell more than 16% over the last five trading days after Vice President JD Vance publicly blamed the Republicans' stinging loss on the war. Vance's remarks raised questions about whether there is still support within the administration to continue the conflict with Iran.
-The Democrats plan to use their comfortable majorities in both chambers of Congress to pass a war powers resolution that demands President Donald Trump end the war. But tensions in the Middle East have not eased since the election, and the Democrats aren't sworn in until January, the analysts say.
-"Throughout the week, we were struck by the divergence between deepening escalation concerns in the Gulf and the headline driven off-ramp optimism of market participants thousands of miles away," Helima Croft, head of global commodity strategy at RBC Capital Markets, told investors in a note Friday.
-More attacks
-Several oil tankers have come under attack near Oman since the election, killing one seafarer, according to maritime security agencies. Iran's Houthi allies in Yemen continue to fire missiles at neighboring Saudi Arabia.
-Meanwhile, the U.S. military buildup continues, with a third carrier strike group en route to the region. The consulting group Rapidan Energy sees an 80% chance that fighting will resume as diplomacy stalls.
-President Donald Trump told reporters Thursday that he will make a decision soon on whether to attack Iran again.
-"I would rather not destroy the rest of the country if possible but maybe I'll have to," Trump said in the Oval Office. "You'll know soon enough."
-"We're locked and loaded," the president said. "If we have to do the rest of the Iran thing, we're very much locked in."
-Price risk
-Crude oil prices will vault above $100 a barrel again in response to renewed fighting, said Bob McNally, president of Rapidan and a former energy advisor to President George W. Bush. Brent crude, the international benchmark, was trading above $97 on Friday while U.S. crude was around $90.
-"President Donald Trump is determined as a legacy item, almost at all costs, to prevent Iran from getting a nuclear weapon, having them give up their nuclear capabilities," McNally told CNBC's "Squawk Box Asia" on Friday.
-"The Iranian regime, on the other hand, is not willing to do it," the analyst said. The escalation dynamic remains in place so long as that core difference between the U.S. and Iran persists, he said.
-The risk of war is still alive, especially since Trump doesn't face anymore future elections, said Amos Hochstein, a former energy advisor to President Joe Biden. Gasoline, diesel and jet fuel prices would all surge as a consequence, Hochstein told CNBC's "Power Lunch" Friday.
-Iranian taunts
-Tehran has been taunting the Trump administration since the election. The social media account of Iran's Supreme Leader Mojtaba Khamenei said the "process of the U.S.'s collapse has accelerated" after the midterm results.
-And Congress is unlikely to pass a war powers resolution until Democrats take control in January. Trump can veto such a resolution in any case.
-The main leverage Congress will have is the power of the purse, Croft said. Government funding expires on Dec. 11 and negotiations for another continuing resolution could drag into 2027, she said. This would give Democrats more leverage when they take power in January, the analyst said.
-"Importantly, deferring funding decisions would not immediately constrain Trump's ability to conduct military operations, but could significantly reshape the administration's longer-term funding outlook," Croft told investors.
-Trump discussed diplomatic efforts to de-escalate tensions in the region with the emir of Qatar during a Friday phone call, according to Qatar's state news agency.
-An unnamed senior Iranian official told Reuters on Thursday that Tehran sent a nuclear proposal to the U.S. through Qatar. Tehran will only discuss the proposal after the U.S. meets its demands, the Iranian official told Reuters.
-Trump seemed to dismiss the diplomatic efforts Thursday.
-"Iran will never have a nuclear weapon," the president said. "They're not doing anything without our approval. It doesn't make any difference what they're looking at," he said of the diplomatic efforts.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
-    publishedAt: "2026-11-07T13:03:12+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "america-doesn-t-like-socialism-so-why-ar-be57aa78",
-    title: "America doesn't like socialism. So why are socialists winning?",
-    titleJa: "America doesn't like socialism. So why are socialists winning?",
-    summaryJa: "Democratic socialists had their best showing yet at the polls. The problem: Most U.S. voters don't actually like socialism.",
-    bodyOriginal: `Democratic socialists just had their biggest election night yet.
-There's just one complication: Most American voters don't actually like socialism.
-Six candidates backed by the Democratic Socialists of America won House seats Tuesday, giving the movement its largest foothold yet in Congress and greater clout in a Democratic Party already divided over how far left to go.
-The victories, coming on the heels of New York City Mayor Zohran Mamdani's rise to power, mark another milestone for a movement that has spent years challenging the party establishment. Now, with Democrats sweeping control of Congress, the question is whether those electoral gains will translate into actual political power.
-The results of the new CNBC Voter Poll show the potential hazard of handing too much power to the party's left flank. The survey of roughly 80,000 midterm voters found that 53% view socialism unfavorably, compared with 33% who viewed it favorably. Capitalism fared considerably better, with 56% expressing a positive view. Just 18% of voters identified themselves as democratic socialists.
-That disconnect underscores both the opportunity and the challenge facing Democrats and their growing left flank. How the party reconciles the divide between reforming capitalism and fundamentally overhauling it could shape its legislative agenda in Congress, its economic message to voters and, ultimately, its direction heading into the 2028 presidential election.
-A mixed night for the left
-The DSA's presence in Congress will be quadrupled when Tuesday's victors, all of whom won in safely Democratic districts, are sworn in.
-But the projected Democratic landslide of more than 250 House seats could dilute their influence. Party leaders could afford to lose all eight DSA votes on most measures, leaving the group with far less bargaining power than it would wield in a narrowly controlled chamber.
-Still, the movement is building financial muscle. While the DSA relies on membership dues, wealthy donors are now backing its candidates through outside groups. The 12 largest donors to American Priorities, a super PAC supporting some DSA-backed candidates, gave nearly $5.9 million this cycle, according to a CNBC analysis of Federal Election Commission filings through Oct. 31.
-"We've had success with more donors but also we have an even stronger ground game to spread our message," said Megan Romer, co-chair of the DSA. "Mailers and ads alone just don't do it anymore. You have to knock on more doors and make more phone calls and talk to more people at work and in your union."
-The more revealing tests on Tuesday came outside of liberal enclaves.
-In Florida, DSA member Angie Nixon came within three percentage points of an upset in a state where Democrats haven't won a Senate race since 2012 and President Donald Trump won by 13 percentage points in 2024. But she lost by a wider margin than Democratic gubernatorial candidate David Jolly, who took a more moderate approach.
-Michigan told a similar story. Progressive Abdul El-Sayed – backed by self-described democratic socialist Sen. Bernie Sanders, I-Vt., – won his Senate seat by seven percentage points. Yet he lagged nearly four percentage points behind Democratic Gov.-elect Jocelyn Benson's winning margin.
-El-Sayed shares many DSA priorities but neither belongs to the group nor received its endorsement. He says he favors reforming capitalism over replacing it.
-State ballot initiatives offered an equally mixed ideological verdict: Nearly two-thirds of voters in ruby-red Montana backed limits on corporate political spending, while deep-blue California rejected a billionaire wealth tax by roughly 10 percentage points, even as voters approved higher income taxes on the wealthy.
-The results sharpen the dilemma over Democrats' identity heading into 2028, as Rep. Alexandria Ocasio-Cortez, D-N.Y., the DSA's most prominent standard-bearer, seemingly weighs a White House bid: Can left-wing populism expand the party's coalition without alienating the swing-state moderates it needs to win a presidential election – especially in a less favorable political environment?
-"I think a lot of people did vote for Democrats who would not ordinarily and who probably did it ... with their teeth gritted," Romer told CNBC.
-Capitalism or socialism?
-But it's clear that even voters who reject socialism aren't satisfied with capitalism as it stands.
-Three out of every four participants in the CNBC Voter Poll said the condition of the U.S. economy was poor or not so good, compared with just 2% who described it as excellent. And 70% said the economic system favors the wealthy rather than treating most Americans fairly.
-That frustration helped fuel a populist message far beyond the socialist left, with victorious Democrats from Adam Hamilton in Kansas to James Talarico in Texas tapping into anger over rising costs, economic inequality and the political influence of wealthy elites. Eighteen Sanders-endorsed candidates also won, including in traditionally right-leaning states like Ohio and Montana.
-"The real fight in this country is not left versus right. It is top versus bottom," Talarico, who flipped a Senate seat for Democrats in the Lone Star state, said in his victory speech. "The people at the top work so hard to keep us angry and divided because our unity is a threat to their wealth and their power."
-Even politicians who weren't on the ballot took note. Sen. Elizabeth Warren, D-Mass., said in a video posted to X Friday that "Democrats won by being populist economic fighters."
-Economists have pointed to measures showing increasing wealth concentration and a shrinking share of the U.S. GDP heading to workers in the form of pay as signs that the divide between the country's rich and poor is widening. Coming out of the pandemic, the "K"-shaped economy has become a common descriptor for the unequal recovery seen by income classes.
-Americans displayed their economic dissatisfaction well before they headed to the polls this week. The University of Michigan's closely followed consumer sentiment index hit all-time lows this year.
-"We have a rising tide that is not equally lifting all boats," said Joe Brusuelas, chief economist at RSM, a tax firm. "That's not what we used to tell ourselves when we were young."
-Rather than signaling a distaste for capitalism as a whole, Brusuelas said this week's results show voters want a system that also includes populist policies like Medicare for all. Or, as he calls it, "capitalism with a human face."
-"These things are not mutually exclusive," said Brusuelas, who regularly briefs members of Congress on policy issues. "We can walk and chew gum at the same time."
-Wall Street readies
-Tuesday's Democratic sweep left some on Wall Street racing to prepare their clients' portfolios for potential policy shifts. Bank of America analysts detailed what heightened scrutiny of social media platforms or artificial intelligence data centers could mean for the shares of companies in those industries. CIBC built a basket of stocks that should benefit from a Democratically controlled Congress.
-Still, the reaction of Wall Street veterans and New York City business moguls to this week's election was relatively subdued compared with Mamdani's victory in the mayoral race last year.
-After Mamdani clinched his party's nomination, Pershing Square CEO Bill Ackman said he was "a bit depressed." Ahead of Mamdani's victory, Kathryn Wylde, who leads the Partnership for New York City, a nonprofit group of business executives, told CNBC that "terror is the feeling" as he rose in the polls.
-Wall Street magnates wondered how a city known as the epicenter of financial markets and global capitalism could survive under a self-described socialist. Some questioned if billionaires would flee the city or whether corporations would move their headquarters — fears that largely haven't materialized since Mamdani took office.
-With roughly 10 months of Mamdani's term in the rearview mirror, Anthony Chan, the former chief economist at JPMorgan, said finance moguls have realized that politics don't necessarily result in material policy changes. Chan said it's a message they've carried with them exiting this week, with many understanding that any incoming lawmakers in Washington aligned with democratic socialist policies would be a small minority.
-"Many of the people that I meet that were very adamantly against and opposed to his candidacy now are sending their kids to his free daycare centers," Chan said, referencing Mamdani's partnership with the state to expand no-cost programs for 2-year-olds in New York City.
-"I thought you felt that the world was going to end if this mayor came in," said Chan, who's also an alumnus of Barclays and the New York Federal Reserve. "Now, you're sending your kids to his free daycare centers."
-But the DSA has even bigger ambitions for 2028. With growing political clout, infrastructure and financial backing, the movement is looking to expand its influence nationwide, while one of its most prominent allies, Ocasio-Cortez, weighs a White House run.
-"That infrastructure is there, and that will make a big difference for a potential left presidential candidate," Romer said. "It's really kind of do or die time. We really have to deliver."`,
-    bodyJa: `Democratic socialists just had their biggest election night yet.
-There's just one complication: Most American voters don't actually like socialism.
-Six candidates backed by the Democratic Socialists of America won House seats Tuesday, giving the movement its largest foothold yet in Congress and greater clout in a Democratic Party already divided over how far left to go.
-The victories, coming on the heels of New York City Mayor Zohran Mamdani's rise to power, mark another milestone for a movement that has spent years challenging the party establishment. Now, with Democrats sweeping control of Congress, the question is whether those electoral gains will translate into actual political power.
-The results of the new CNBC Voter Poll show the potential hazard of handing too much power to the party's left flank. The survey of roughly 80,000 midterm voters found that 53% view socialism unfavorably, compared with 33% who viewed it favorably. Capitalism fared considerably better, with 56% expressing a positive view. Just 18% of voters identified themselves as democratic socialists.
-That disconnect underscores both the opportunity and the challenge facing Democrats and their growing left flank. How the party reconciles the divide between reforming capitalism and fundamentally overhauling it could shape its legislative agenda in Congress, its economic message to voters and, ultimately, its direction heading into the 2028 presidential election.
-A mixed night for the left
-The DSA's presence in Congress will be quadrupled when Tuesday's victors, all of whom won in safely Democratic districts, are sworn in.
-But the projected Democratic landslide of more than 250 House seats could dilute their influence. Party leaders could afford to lose all eight DSA votes on most measures, leaving the group with far less bargaining power than it would wield in a narrowly controlled chamber.
-Still, the movement is building financial muscle. While the DSA relies on membership dues, wealthy donors are now backing its candidates through outside groups. The 12 largest donors to American Priorities, a super PAC supporting some DSA-backed candidates, gave nearly $5.9 million this cycle, according to a CNBC analysis of Federal Election Commission filings through Oct. 31.
-"We've had success with more donors but also we have an even stronger ground game to spread our message," said Megan Romer, co-chair of the DSA. "Mailers and ads alone just don't do it anymore. You have to knock on more doors and make more phone calls and talk to more people at work and in your union."
-The more revealing tests on Tuesday came outside of liberal enclaves.
-In Florida, DSA member Angie Nixon came within three percentage points of an upset in a state where Democrats haven't won a Senate race since 2012 and President Donald Trump won by 13 percentage points in 2024. But she lost by a wider margin than Democratic gubernatorial candidate David Jolly, who took a more moderate approach.
-Michigan told a similar story. Progressive Abdul El-Sayed – backed by self-described democratic socialist Sen. Bernie Sanders, I-Vt., – won his Senate seat by seven percentage points. Yet he lagged nearly four percentage points behind Democratic Gov.-elect Jocelyn Benson's winning margin.
-El-Sayed shares many DSA priorities but neither belongs to the group nor received its endorsement. He says he favors reforming capitalism over replacing it.
-State ballot initiatives offered an equally mixed ideological verdict: Nearly two-thirds of voters in ruby-red Montana backed limits on corporate political spending, while deep-blue California rejected a billionaire wealth tax by roughly 10 percentage points, even as voters approved higher income taxes on the wealthy.
-The results sharpen the dilemma over Democrats' identity heading into 2028, as Rep. Alexandria Ocasio-Cortez, D-N.Y., the DSA's most prominent standard-bearer, seemingly weighs a White House bid: Can left-wing populism expand the party's coalition without alienating the swing-state moderates it needs to win a presidential election – especially in a less favorable political environment?
-"I think a lot of people did vote for Democrats who would not ordinarily and who probably did it ... with their teeth gritted," Romer told CNBC.
-Capitalism or socialism?
-But it's clear that even voters who reject socialism aren't satisfied with capitalism as it stands.
-Three out of every four participants in the CNBC Voter Poll said the condition of the U.S. economy was poor or not so good, compared with just 2% who described it as excellent. And 70% said the economic system favors the wealthy rather than treating most Americans fairly.
-That frustration helped fuel a populist message far beyond the socialist left, with victorious Democrats from Adam Hamilton in Kansas to James Talarico in Texas tapping into anger over rising costs, economic inequality and the political influence of wealthy elites. Eighteen Sanders-endorsed candidates also won, including in traditionally right-leaning states like Ohio and Montana.
-"The real fight in this country is not left versus right. It is top versus bottom," Talarico, who flipped a Senate seat for Democrats in the Lone Star state, said in his victory speech. "The people at the top work so hard to keep us angry and divided because our unity is a threat to their wealth and their power."
-Even politicians who weren't on the ballot took note. Sen. Elizabeth Warren, D-Mass., said in a video posted to X Friday that "Democrats won by being populist economic fighters."
-Economists have pointed to measures showing increasing wealth concentration and a shrinking share of the U.S. GDP heading to workers in the form of pay as signs that the divide between the country's rich and poor is widening. Coming out of the pandemic, the "K"-shaped economy has become a common descriptor for the unequal recovery seen by income classes.
-Americans displayed their economic dissatisfaction well before they headed to the polls this week. The University of Michigan's closely followed consumer sentiment index hit all-time lows this year.
-"We have a rising tide that is not equally lifting all boats," said Joe Brusuelas, chief economist at RSM, a tax firm. "That's not what we used to tell ourselves when we were young."
-Rather than signaling a distaste for capitalism as a whole, Brusuelas said this week's results show voters want a system that also includes populist policies like Medicare for all. Or, as he calls it, "capitalism with a human face."
-"These things are not mutually exclusive," said Brusuelas, who regularly briefs members of Congress on policy issues. "We can walk and chew gum at the same time."
-Wall Street readies
-Tuesday's Democratic sweep left some on Wall Street racing to prepare their clients' portfolios for potential policy shifts. Bank of America analysts detailed what heightened scrutiny of social media platforms or artificial intelligence data centers could mean for the shares of companies in those industries. CIBC built a basket of stocks that should benefit from a Democratically controlled Congress.
-Still, the reaction of Wall Street veterans and New York City business moguls to this week's election was relatively subdued compared with Mamdani's victory in the mayoral race last year.
-After Mamdani clinched his party's nomination, Pershing Square CEO Bill Ackman said he was "a bit depressed." Ahead of Mamdani's victory, Kathryn Wylde, who leads the Partnership for New York City, a nonprofit group of business executives, told CNBC that "terror is the feeling" as he rose in the polls.
-Wall Street magnates wondered how a city known as the epicenter of financial markets and global capitalism could survive under a self-described socialist. Some questioned if billionaires would flee the city or whether corporations would move their headquarters — fears that largely haven't materialized since Mamdani took office.
-With roughly 10 months of Mamdani's term in the rearview mirror, Anthony Chan, the former chief economist at JPMorgan, said finance moguls have realized that politics don't necessarily result in material policy changes. Chan said it's a message they've carried with them exiting this week, with many understanding that any incoming lawmakers in Washington aligned with democratic socialist policies would be a small minority.
-"Many of the people that I meet that were very adamantly against and opposed to his candidacy now are sending their kids to his free daycare centers," Chan said, referencing Mamdani's partnership with the state to expand no-cost programs for 2-year-olds in New York City.
-"I thought you felt that the world was going to end if this mayor came in," said Chan, who's also an alumnus of Barclays and the New York Federal Reserve. "Now, you're sending your kids to his free daycare centers."
-But the DSA has even bigger ambitions for 2028. With growing political clout, infrastructure and financial backing, the movement is looking to expand its influence nationwide, while one of its most prominent allies, Ocasio-Cortez, weighs a White House run.
-"That infrastructure is there, and that will make a big difference for a potential left presidential candidate," Romer said. "It's really kind of do or die time. We really have to deliver."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/07/socialism-elections-economy.html",
-    publishedAt: "2026-11-07T13:01:01+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "anthropic-ipo-meets-ai-backlash-after-mi-ad162d5c",
-    title: "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
-    titleJa: "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
-    summaryJa: "Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry.",
-    bodyOriginal: `Americans were unequivocal at the ballot box this week as they expressed disdain for tech billionaires and mistrust of artificial intelligence. With that backdrop, Anthropic is about to try to go public.
-The AI company is gearing up for a potentially historic IPO, likely targeting mid-November for its Nasdaq debut. CNBC reported on Friday that Anthropic investors see the company aiming for a valuation of $1 trillion to $1.5 trillion, down from a target of $2 trillion that had been floated in recent months.
-From Wall Street to Main Street, it's becoming a tougher environment for Anthropic. The Nasdaq on Thursday suffered its steepest drop in 19 months, and it's down to start November after October marked its worst month since March 2025. Chipmakers and neoclouds, the companies most closely tied to the AI buildout, are getting hit the hardest.
-Voters rebuked AI in Tuesday's midterm elections, while sending Democrats to sweeping congressional victories across the country. Candidates who advocated for more stringent AI regulation won handily in states like Michigan, Ohio, Texas and Georgia, which will all now have Democratic governors, and local communities opposed data center-related ballot measures in 40 out of 41 cases.
-More than half of voters said AI data centers were a "crucial" or "major factor" in who they supported for Congress, according to an exit poll from NBC News.
-"People don't want a data center going near them if it's just going to house AI that's going to help a big tech company profit," Maura Austin, a behavioral scientist at the University of Virginia, told CNBC. "What Anthropic is doing when they're going public with such a high valuation is they're really leaning into that big tech, billionaire kind of caricature. I expect that's not going to go well with the public."
-Anthropic has long tried to position itself as a safety-conscious company that takes AI's potential risks and benefits seriously. CEO Dario Amodei co-founded the company alongside a handful of researchers who defected from OpenAI, now its chief rival. Anthropic is best known for developing a family of AI models called Claude, and it primarily sells its products and services to other businesses.
-The company's enterprise focus has helped it avoid becoming the public face of AI, leaving that distinction to OpenAI and CEO Sam Altman. But with Anthropic poised to become the first pure-play AI company to hit the public market, minting a number of new billionaires and many more millionaires in the process, a heightened level of scrutiny is coming.
-"Being a public company, just that by itself pushes you in the limelight," Reena Aggarwal, a professor of finance at Georgetown University, said in an interview. "And then AI is such a hot-button issue that Anthropic will be in the limelight even more."
-Matt Kennedy, a senior IPO market strategist at Renaissance Capital, said that's not necessarily a bad thing for Anthropic.
-Public markets force greater transparency, he said, and the company could attract new users through its debut. And since AI has become such a mainstream conversation topic, several private companies are already household names.
-"I would say that a public company does not deserve more criticisms than a comparable private company," Kennedy said. "So Anthropic should not be put in a harsher public spotlight than OpenAI just because it's public."
-Anthropic declined to comment.
-Data center blowback
-AI backlash accelerated over the summer after a series of high-profile safety and security incidents rattled the public. As concerns mounted, the debate over data centers intensified, while tech's hyperscalers simultaneously boosted their forecasts for capital expenditures, each reaching into the hundreds of billions of dollars.
-Anthropic and OpenAI depend on state-of-the-art data centers to train models and serve customers, and they're trying to build out capacity as quickly as possible to meet demand. Anthropic said in an amended IPO prospectus this week that it has entered into purchase commitments and lease agreements with an aggregate committed spend of about $895.4 billion, "substantially all of which is related to compute and infrastructure."
-Americans grappling with inflation and stubbornly high gas prices have grown worried that the facilities could exacerbate environmental harms, raise utility bills and contribute to job loss. For many, a proposed data center in their backyard became the physical manifestation of the widespread antipathy toward AI.
-In the risk factors section of its prospectus, Anthropic said opposition to data center development has become more organized across jurisdictions, and that the company's public profile could draw particular scrutiny to projects associated with it.
-Nicole Greene, an analyst at Gartner, said she expects that Anthropic's executives have long been prepared to contend with AI backlash, especially given the disruptive nature of the technology.
-"There's going to be big emotions," Greene told CNBC. "With big emotions and feelings — fear and excitement — comes heightened scrutiny."
-Amodei acknowledged the souring sentiment around AI in a post on X in August. He said it's the result of a "crisis of trust," and that people believe companies, the government and the tech industry are always "cooking up some new way to screw them over."
-Rebuilding public confidence is going to be an uphill battle as the company begins providing quarterly financial updates.
-The University of Southern California published a survey on Monday that found that 71% of respondents don't trust big tech companies to act in society's best interest "at all" around data center development.
-"Once you've lost trust, it's hard to gain it back," Wändi Bruine de Bruin, a professor at the University of Southern California's Schaeffer Institute, said in an interview. "The numbers are not good."
-WATCH: Alex Kantrowitz: Anthropic doesn’t have a lot of flexibility on timing of its IPO`,
-    bodyJa: `Americans were unequivocal at the ballot box this week as they expressed disdain for tech billionaires and mistrust of artificial intelligence. With that backdrop, Anthropic is about to try to go public.
-The AI company is gearing up for a potentially historic IPO, likely targeting mid-November for its Nasdaq debut. CNBC reported on Friday that Anthropic investors see the company aiming for a valuation of $1 trillion to $1.5 trillion, down from a target of $2 trillion that had been floated in recent months.
-From Wall Street to Main Street, it's becoming a tougher environment for Anthropic. The Nasdaq on Thursday suffered its steepest drop in 19 months, and it's down to start November after October marked its worst month since March 2025. Chipmakers and neoclouds, the companies most closely tied to the AI buildout, are getting hit the hardest.
-Voters rebuked AI in Tuesday's midterm elections, while sending Democrats to sweeping congressional victories across the country. Candidates who advocated for more stringent AI regulation won handily in states like Michigan, Ohio, Texas and Georgia, which will all now have Democratic governors, and local communities opposed data center-related ballot measures in 40 out of 41 cases.
-More than half of voters said AI data centers were a "crucial" or "major factor" in who they supported for Congress, according to an exit poll from NBC News.
-"People don't want a data center going near them if it's just going to house AI that's going to help a big tech company profit," Maura Austin, a behavioral scientist at the University of Virginia, told CNBC. "What Anthropic is doing when they're going public with such a high valuation is they're really leaning into that big tech, billionaire kind of caricature. I expect that's not going to go well with the public."
-Anthropic has long tried to position itself as a safety-conscious company that takes AI's potential risks and benefits seriously. CEO Dario Amodei co-founded the company alongside a handful of researchers who defected from OpenAI, now its chief rival. Anthropic is best known for developing a family of AI models called Claude, and it primarily sells its products and services to other businesses.
-The company's enterprise focus has helped it avoid becoming the public face of AI, leaving that distinction to OpenAI and CEO Sam Altman. But with Anthropic poised to become the first pure-play AI company to hit the public market, minting a number of new billionaires and many more millionaires in the process, a heightened level of scrutiny is coming.
-"Being a public company, just that by itself pushes you in the limelight," Reena Aggarwal, a professor of finance at Georgetown University, said in an interview. "And then AI is such a hot-button issue that Anthropic will be in the limelight even more."
-Matt Kennedy, a senior IPO market strategist at Renaissance Capital, said that's not necessarily a bad thing for Anthropic.
-Public markets force greater transparency, he said, and the company could attract new users through its debut. And since AI has become such a mainstream conversation topic, several private companies are already household names.
-"I would say that a public company does not deserve more criticisms than a comparable private company," Kennedy said. "So Anthropic should not be put in a harsher public spotlight than OpenAI just because it's public."
-Anthropic declined to comment.
-Data center blowback
-AI backlash accelerated over the summer after a series of high-profile safety and security incidents rattled the public. As concerns mounted, the debate over data centers intensified, while tech's hyperscalers simultaneously boosted their forecasts for capital expenditures, each reaching into the hundreds of billions of dollars.
-Anthropic and OpenAI depend on state-of-the-art data centers to train models and serve customers, and they're trying to build out capacity as quickly as possible to meet demand. Anthropic said in an amended IPO prospectus this week that it has entered into purchase commitments and lease agreements with an aggregate committed spend of about $895.4 billion, "substantially all of which is related to compute and infrastructure."
-Americans grappling with inflation and stubbornly high gas prices have grown worried that the facilities could exacerbate environmental harms, raise utility bills and contribute to job loss. For many, a proposed data center in their backyard became the physical manifestation of the widespread antipathy toward AI.
-In the risk factors section of its prospectus, Anthropic said opposition to data center development has become more organized across jurisdictions, and that the company's public profile could draw particular scrutiny to projects associated with it.
-Nicole Greene, an analyst at Gartner, said she expects that Anthropic's executives have long been prepared to contend with AI backlash, especially given the disruptive nature of the technology.
-"There's going to be big emotions," Greene told CNBC. "With big emotions and feelings — fear and excitement — comes heightened scrutiny."
-Amodei acknowledged the souring sentiment around AI in a post on X in August. He said it's the result of a "crisis of trust," and that people believe companies, the government and the tech industry are always "cooking up some new way to screw them over."
-Rebuilding public confidence is going to be an uphill battle as the company begins providing quarterly financial updates.
-The University of Southern California published a survey on Monday that found that 71% of respondents don't trust big tech companies to act in society's best interest "at all" around data center development.
-"Once you've lost trust, it's hard to gain it back," Wändi Bruine de Bruin, a professor at the University of Southern California's Schaeffer Institute, said in an interview. "The numbers are not good."
-WATCH: Alex Kantrowitz: Anthropic doesn’t have a lot of flexibility on timing of its IPO`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
-    publishedAt: "2026-11-07T13:00:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "tech-companies-face-mounting-child-safet-3a560f72",
-    title: "Tech companies face mounting child safety lawsuits while pushing AI into schools",
-    titleJa: "Tech companies face mounting child safety lawsuits while pushing AI into schools",
-    summaryJa: "Lawsuits against Snap, Meta and Google are creating headwinds for tech companies just as artificial intelligence tools expand into classrooms.",
-    bodyOriginal: `Tech companies have spent years telling parents they're working to make their products safer for children. But ongoing jury trials, settlements and related litigation against the likes of Meta, Google and Snap suggest that they're not doing enough.
-The latest examples landed this week. Snap confidentially settled a case claiming that its technology caused severe psychological distress to two teenage users. Meta, TikTok and YouTube previously settled with the plaintiffs in the same suit. And Google was sued this week by the parents of a child who allegedly suffered a psychological crisis after chatting with the Gemini AI chatbot in Google Classroom.
-Concern is intensifying as artificial intelligence companies pursue trillion-dollar valuations, and established internet giants pour money into developing advanced AI models while pushing them into the classroom. Products and features intended to maximize engagement can have detrimental effects on users, thus warranting "broader systemic changes in tech design, particularly when children are using them," said developmental psychologist Kate Blocker.
-"I think it's so so important that children's safety is being considered when these products — AI, social media, et cetera — are being designed, and not after the fact as these problems emerge," said Blocker, the director of research and programs for the nonprofit Children and Screens.
-Snap's settlement this week, which spared CEO Evan Spiegel from testifying in a Los Angeles court, continues a general trend of tech companies attempting to shield themselves from public scrutiny due to the various high-profile child-safety related trials this year, said Joseph McNally, the director of emerging litigation at McNicholas & McNicholas.
-The case was one of several lawsuits related to the social media personal injury trial that Meta and YouTube lost earlier this year. More trials are slated to commence in March.
-"I view this settlement and the other settlements in this space as an effort by tech companies to turn a corner, not only because I think that there were real legal challenges, but also the reputation of their products, the reputation of their companies has really been hit," said McNally, a former acting U.S. attorney for the Central District of California.
-"The parties are pleased to have been able to resolve this matter in an amicable manner," a Snap spokesperson said in a statement.
-"We've built safeguards, launched safety tutorials, and partnered with experts and because safety is never finished, we remain committed to continually strengthening the safety, privacy, and well-being of our community," the Snap spokesperson said.
-But there remains a federal case involving Meta, TikTok, Snap and YouTube and a litany of nationwide school districts, along with various state attorneys general suits. In August, Meta agreed to pay nearly $17 billion to settle with a group of state AGs in a child mental health case. Some AGs are still pursuing similar suits against Meta's rivals.
-The social media lawsuits have helped inform parents and the public about how the industry designs products used by teenagers and children, McNally said.
-"It's the technology arms race that continues," he said. "What is oftentimes missing is how you balance that participation in the arms race with utility and then product safety."
-More scrutiny in the classroom
-Google ran into more criticism this week for moving too fast. The New York Times reported on Tuesday that K-12 schools that don't allow use of Google's AI tools for students will lose access to search. Chris Phillips, vice president for education at Google, told the Times that, "Search and AI are deeply integrated."
-That coincided with the new lawsuit against Google centering on a teen's alleged suicidal crisis that the parents attributed to the company's Gemini AI. The plaintiff's attorneys allege that "despite Gemini's known risks, Google hastily integrated" Gemini into Chromebook computers for school children.
-"We are reviewing the claims in the lawsuit and we take this very seriously," a Google spokesperson said in a statement. "We've worked extensively with medical professionals and academic experts to build features that help young people find critical support and trusted resources when they need it."
-Google and its internet peers have for decades been able to rely on Section 230.
-Passed in 1996, the federal legislation has protected social media companies from being sued over content posted by their users. That's why plaintiffs' attorneys and state AGs have been focused on alleged harms stemming from the design of the tech platforms as opposed to their content.
-Some plaintiffs are using the same tactics against AI companies. OpenAI faces several lawsuits from state AGs and plaintiff attorneys, taking cues from the social media suits in alleging that the design of ChatGPT can pose risks to children.
-The litigation could become a growing financial risk as the company plans for a potential blockbuster IPO. OpenAI competitor Anthropic, which is planning to go public this month, highlighted the issue in its prospectus, even though the Claude creator prohibits children from using its product.
-"This is a clear indication that tech companies anticipate more litigation risks than they did a decade ago," said Michele Neitz, a professor at the University of San Francisco School of Law.
-Blocker said that the highly personalized nature of current AI-powered chat apps makes it "a little bit unpredictable" to determine exactly what the apps will say to kids. She stressed the importance of testing and evaluating these products for children's developmental safety from the start, "not after harms start happening."
-This collective litigation has helped educate the public on the potential pitfalls of poor product design choices, Blocker said. And it could be a catalyzing force for change in the tech industry.
-"Certainly there's a hope that this will motivate real systemic change, both from a regulation standpoint and internal company decision-making standpoint," Blocker said.
-If you are having suicidal thoughts or are in distress, contact the Suicide & Crisis Lifeline at 988 for support and assistance from a trained counselor.`,
-    bodyJa: `Tech companies have spent years telling parents they're working to make their products safer for children. But ongoing jury trials, settlements and related litigation against the likes of Meta, Google and Snap suggest that they're not doing enough.
-The latest examples landed this week. Snap confidentially settled a case claiming that its technology caused severe psychological distress to two teenage users. Meta, TikTok and YouTube previously settled with the plaintiffs in the same suit. And Google was sued this week by the parents of a child who allegedly suffered a psychological crisis after chatting with the Gemini AI chatbot in Google Classroom.
-Concern is intensifying as artificial intelligence companies pursue trillion-dollar valuations, and established internet giants pour money into developing advanced AI models while pushing them into the classroom. Products and features intended to maximize engagement can have detrimental effects on users, thus warranting "broader systemic changes in tech design, particularly when children are using them," said developmental psychologist Kate Blocker.
-"I think it's so so important that children's safety is being considered when these products — AI, social media, et cetera — are being designed, and not after the fact as these problems emerge," said Blocker, the director of research and programs for the nonprofit Children and Screens.
-Snap's settlement this week, which spared CEO Evan Spiegel from testifying in a Los Angeles court, continues a general trend of tech companies attempting to shield themselves from public scrutiny due to the various high-profile child-safety related trials this year, said Joseph McNally, the director of emerging litigation at McNicholas & McNicholas.
-The case was one of several lawsuits related to the social media personal injury trial that Meta and YouTube lost earlier this year. More trials are slated to commence in March.
-"I view this settlement and the other settlements in this space as an effort by tech companies to turn a corner, not only because I think that there were real legal challenges, but also the reputation of their products, the reputation of their companies has really been hit," said McNally, a former acting U.S. attorney for the Central District of California.
-"The parties are pleased to have been able to resolve this matter in an amicable manner," a Snap spokesperson said in a statement.
-"We've built safeguards, launched safety tutorials, and partnered with experts and because safety is never finished, we remain committed to continually strengthening the safety, privacy, and well-being of our community," the Snap spokesperson said.
-But there remains a federal case involving Meta, TikTok, Snap and YouTube and a litany of nationwide school districts, along with various state attorneys general suits. In August, Meta agreed to pay nearly $17 billion to settle with a group of state AGs in a child mental health case. Some AGs are still pursuing similar suits against Meta's rivals.
-The social media lawsuits have helped inform parents and the public about how the industry designs products used by teenagers and children, McNally said.
-"It's the technology arms race that continues," he said. "What is oftentimes missing is how you balance that participation in the arms race with utility and then product safety."
-More scrutiny in the classroom
-Google ran into more criticism this week for moving too fast. The New York Times reported on Tuesday that K-12 schools that don't allow use of Google's AI tools for students will lose access to search. Chris Phillips, vice president for education at Google, told the Times that, "Search and AI are deeply integrated."
-That coincided with the new lawsuit against Google centering on a teen's alleged suicidal crisis that the parents attributed to the company's Gemini AI. The plaintiff's attorneys allege that "despite Gemini's known risks, Google hastily integrated" Gemini into Chromebook computers for school children.
-"We are reviewing the claims in the lawsuit and we take this very seriously," a Google spokesperson said in a statement. "We've worked extensively with medical professionals and academic experts to build features that help young people find critical support and trusted resources when they need it."
-Google and its internet peers have for decades been able to rely on Section 230.
-Passed in 1996, the federal legislation has protected social media companies from being sued over content posted by their users. That's why plaintiffs' attorneys and state AGs have been focused on alleged harms stemming from the design of the tech platforms as opposed to their content.
-Some plaintiffs are using the same tactics against AI companies. OpenAI faces several lawsuits from state AGs and plaintiff attorneys, taking cues from the social media suits in alleging that the design of ChatGPT can pose risks to children.
-The litigation could become a growing financial risk as the company plans for a potential blockbuster IPO. OpenAI competitor Anthropic, which is planning to go public this month, highlighted the issue in its prospectus, even though the Claude creator prohibits children from using its product.
-"This is a clear indication that tech companies anticipate more litigation risks than they did a decade ago," said Michele Neitz, a professor at the University of San Francisco School of Law.
-Blocker said that the highly personalized nature of current AI-powered chat apps makes it "a little bit unpredictable" to determine exactly what the apps will say to kids. She stressed the importance of testing and evaluating these products for children's developmental safety from the start, "not after harms start happening."
-This collective litigation has helped educate the public on the potential pitfalls of poor product design choices, Blocker said. And it could be a catalyzing force for change in the tech industry.
-"Certainly there's a hope that this will motivate real systemic change, both from a regulation standpoint and internal company decision-making standpoint," Blocker said.
-If you are having suicidal thoughts or are in distress, contact the Suicide & Crisis Lifeline at 988 for support and assistance from a trained counselor.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/07/snap-social-media-teen-safety-lawsuits.html",
-    publishedAt: "2026-11-07T12:00:01+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "why-a-wave-of-bomb-threats-is-proving-so-653ca7b3",
-    title: "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
-    titleJa: "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
-    summaryJa: "The \"weakest point of aviation is targeting it in-flight,\" analysts say — but any change to procedures will be a lengthy process.",
-    bodyOriginal: `A spate of bomb threats against passenger flights has forced diversions, emergency landings and military escorts across European airspace this week, stoking fear among passengers and heaping pressure on airlines.
-Authorities have described the more than two dozen threats as malicious hoaxes, and no actual attacks have been carried out. But the incidents have highlighted the huge impact that even false claims can have on a tightly scheduled aviation network.
-"This is really quite exceptional, I've never seen this before in my whole career," Wilfried Covent, head of security firm Covent Consulting with a specialization in aviation, told CNBC by phone.
-"We've had bomb threats in flights and towards airports, but usually maybe a single copycat, one or two max. What we see now is a systematic attack on airlines and airports."
-An email sent to European broadcasters on Friday claimed to be from the leader of the group behind the plane hoaxes and also said bombs had been placed in their buildings, prompting evacuations. No bombs were found at the sites.
-"What happened this week is just a small part of what awaits Europe in the near future," the message said, according to Reuters.
-The news agency said it could not verify the sender's identity, where the emails originated or whether they were linked to the threats against flights.
-Covent said the "criminals" — who many security analysts say are likely to be state-backed actors working in coordination to disrupt public life for Europeans, but have not been identified — were well aware that the "weakest point of aviation is targeting it in-flight."
-"With a threat on an airport or a general threat to aircraft, you can assess the situation without fully disrupting operations. When the threat is called on a specific flight number that is in the air, even with a hoax, that triggers international regulations which ensure you don't ignore it — it means a quick landing, evacuation and searches by specialist forces," he told CNBC.
-"For the context of an assessment, you cannot say that 20 times before it has been a hoax so this time it is a hoax, the safety of passengers and crew is priority number one. The criminals know that."
-Coordinated response
-Responsibility for dealing with hoax attacks is split, international agencies told CNBC. Assessing security threats and implementing aviation security measures primarily falls to national authorities, working in coordination with airport operators, airlines and law enforcement.
-Air traffic control will also be involved in finding aircraft with an appropriate place to land, while the European Union Aviation Safety Agency, or EASA and U.K.'s Civil Aviation Authority more broadly set aviation safety rules and set how airlines prepare their crews to respond to security threats. Within the European Union, the European Commission is involved in aviation security policy and coordination between member states.
-The operational decisions also depend on where the threat arises. Joji Waites, director of flight safety, policy and regulation at the British Air Line Pilots Association, said airline assessors grade a threat as red, amber or green, but that an amber verdict would never be given if the plane is airborne.
-If assessors judge a threat credible, the crew is informed and the captain takes command of decisions for the aircraft, guided by company procedures. On the ground, that may mean an evacuation, while in the air the priority is to land as soon and as safely as possible.
-Read more
-As well as the fear and disruption to specific flights, each diversion can then affect the next flight scheduled to use that aircraft, the crew's working hours and passengers with connections.
-The network effect can be significant. Philip Baum, a visiting professor of aviation security at Coventry University, told AP that a single diversion could cost an airline as much as $250,000, including replacement crews, missed connections and disruption to the rest of the day's schedule.
-"Diversions necessitated by these bomb threats are a disturbance to a system designed for predictability and efficiency, and lead to increased workload for pilots, Air Traffic Controllers and airports," an EASA spokesperson said in emailed comments.
-"As these staff have all have been trained to cope with such unexpected developments, the immediate safety threat from individual hoax threats is low. However, the higher number of diversions places an additional strain on the system."
-What can change?
-National governments will already be looking at their aviation authority regulations and frameworks and there will be discussions at the European and global level, John Edwards, senior consultant at Gates Aviation in London, said by phone.
-"Bomb threats to aviation have been going on for decades, what they'll need to be looking at is what's different. Why have there been so many, why have so many been considered sufficiently credible to warrant the kind of action that it's warranted?"
-"There's a range of questions they should be able to work through fairly quickly to establish a broad-brush level of credibility. If there is some characteristic that is new, every time there is an event of this kind, it triggers a big collaboration to ensure recurrence is prevented going forward."
-"In theory, he said, "the vast majority should be able to assessed and considered non-credible based on routine risk assessment processes and well established procedures."
-However, Eric Schouten, a former intelligence liaison officer at the Dutch General Intelligence and Security Service and CEO of security consultancy Dyami, said that changes to existing procedural regulations would take some time and require balancing the views and responsibilities of countries, airports, safety authorities and the European Union, with geopolitics also playing a role.
-"There is a high likelihood even more flights are going to be canceled or diverted. It's possible that next to be targeted could be railways and highways," he said.
-"But they will figure it out. It's not the first time airlines have had to deal with hoax calls because there are always copycats."
-"Whatever measures they come out with to address it, they won't share publicly" for risk of alerting the bad actors, he added.
-Wilfried Covent said that while there would not be any quick changes to assessment protocol, "if this is really going on for ever and ever something will need to change or you'd have to stop flying completely."
-"Based on what we've seen in the past with other kinds of threats, time goes on and the type of attack may change and move on," he continued, pointing to the wave of cyberattacks that has recently hit supermarket fridges and blood banks.
-"As Europeans we need to be prepared."`,
-    bodyJa: `A spate of bomb threats against passenger flights has forced diversions, emergency landings and military escorts across European airspace this week, stoking fear among passengers and heaping pressure on airlines.
-Authorities have described the more than two dozen threats as malicious hoaxes, and no actual attacks have been carried out. But the incidents have highlighted the huge impact that even false claims can have on a tightly scheduled aviation network.
-"This is really quite exceptional, I've never seen this before in my whole career," Wilfried Covent, head of security firm Covent Consulting with a specialization in aviation, told CNBC by phone.
-"We've had bomb threats in flights and towards airports, but usually maybe a single copycat, one or two max. What we see now is a systematic attack on airlines and airports."
-An email sent to European broadcasters on Friday claimed to be from the leader of the group behind the plane hoaxes and also said bombs had been placed in their buildings, prompting evacuations. No bombs were found at the sites.
-"What happened this week is just a small part of what awaits Europe in the near future," the message said, according to Reuters.
-The news agency said it could not verify the sender's identity, where the emails originated or whether they were linked to the threats against flights.
-Covent said the "criminals" — who many security analysts say are likely to be state-backed actors working in coordination to disrupt public life for Europeans, but have not been identified — were well aware that the "weakest point of aviation is targeting it in-flight."
-"With a threat on an airport or a general threat to aircraft, you can assess the situation without fully disrupting operations. When the threat is called on a specific flight number that is in the air, even with a hoax, that triggers international regulations which ensure you don't ignore it — it means a quick landing, evacuation and searches by specialist forces," he told CNBC.
-"For the context of an assessment, you cannot say that 20 times before it has been a hoax so this time it is a hoax, the safety of passengers and crew is priority number one. The criminals know that."
-Coordinated response
-Responsibility for dealing with hoax attacks is split, international agencies told CNBC. Assessing security threats and implementing aviation security measures primarily falls to national authorities, working in coordination with airport operators, airlines and law enforcement.
-Air traffic control will also be involved in finding aircraft with an appropriate place to land, while the European Union Aviation Safety Agency, or EASA and U.K.'s Civil Aviation Authority more broadly set aviation safety rules and set how airlines prepare their crews to respond to security threats. Within the European Union, the European Commission is involved in aviation security policy and coordination between member states.
-The operational decisions also depend on where the threat arises. Joji Waites, director of flight safety, policy and regulation at the British Air Line Pilots Association, said airline assessors grade a threat as red, amber or green, but that an amber verdict would never be given if the plane is airborne.
-If assessors judge a threat credible, the crew is informed and the captain takes command of decisions for the aircraft, guided by company procedures. On the ground, that may mean an evacuation, while in the air the priority is to land as soon and as safely as possible.
-Read more
-As well as the fear and disruption to specific flights, each diversion can then affect the next flight scheduled to use that aircraft, the crew's working hours and passengers with connections.
-The network effect can be significant. Philip Baum, a visiting professor of aviation security at Coventry University, told AP that a single diversion could cost an airline as much as $250,000, including replacement crews, missed connections and disruption to the rest of the day's schedule.
-"Diversions necessitated by these bomb threats are a disturbance to a system designed for predictability and efficiency, and lead to increased workload for pilots, Air Traffic Controllers and airports," an EASA spokesperson said in emailed comments.
-"As these staff have all have been trained to cope with such unexpected developments, the immediate safety threat from individual hoax threats is low. However, the higher number of diversions places an additional strain on the system."
-What can change?
-National governments will already be looking at their aviation authority regulations and frameworks and there will be discussions at the European and global level, John Edwards, senior consultant at Gates Aviation in London, said by phone.
-"Bomb threats to aviation have been going on for decades, what they'll need to be looking at is what's different. Why have there been so many, why have so many been considered sufficiently credible to warrant the kind of action that it's warranted?"
-"There's a range of questions they should be able to work through fairly quickly to establish a broad-brush level of credibility. If there is some characteristic that is new, every time there is an event of this kind, it triggers a big collaboration to ensure recurrence is prevented going forward."
-"In theory, he said, "the vast majority should be able to assessed and considered non-credible based on routine risk assessment processes and well established procedures."
-However, Eric Schouten, a former intelligence liaison officer at the Dutch General Intelligence and Security Service and CEO of security consultancy Dyami, said that changes to existing procedural regulations would take some time and require balancing the views and responsibilities of countries, airports, safety authorities and the European Union, with geopolitics also playing a role.
-"There is a high likelihood even more flights are going to be canceled or diverted. It's possible that next to be targeted could be railways and highways," he said.
-"But they will figure it out. It's not the first time airlines have had to deal with hoax calls because there are always copycats."
-"Whatever measures they come out with to address it, they won't share publicly" for risk of alerting the bad actors, he added.
-Wilfried Covent said that while there would not be any quick changes to assessment protocol, "if this is really going on for ever and ever something will need to change or you'd have to stop flying completely."
-"Based on what we've seen in the past with other kinds of threats, time goes on and the type of attack may change and move on," he continued, pointing to the wave of cyberattacks that has recently hit supermarket fridges and blood banks.
-"As Europeans we need to be prepared."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html",
-    publishedAt: "2026-11-07T09:01:57+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "trump-says-u-s-carried-out-minor-strikes-2b9300ec",
-    title: "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
-    titleJa: "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
-    summaryJa: "Trump said the U.S. carried out ‘minor strikes’ on Iran after Iranian media reported two missiles hit Qeshm Island near the Strait of Hormuz.",
-    bodyOriginal: `President Donald Trump told reporters Friday that the U.S. carried out "minor strikes" on Iran, amid reports that two missiles struck Qeshm Island near the Strait of Hormuz.
-The missiles struck the island on Friday, Iranian news agency Tasnim reported, according to Reuters. Tasnim said there was no official information on damage, Reuters added.
-The island lies off Iran's southern coast, near the Strait of Hormuz, the vital artery for oil and gas that has become a flashpoint in the war.
-Speaking to reporters Friday evening after landing in West Palm Beach, Florida, Trump didn't comment specifically on Qeshm Island, saying: "I don't want to talk about it."
-But he added: "We do minor strikes, but they knock out. They built a little bit of an anti-aircraft device, and we knocked it out in about 15 minutes, maybe five." He did not explicitly confirm that he was referring to the reported strikes on Qeshm.
-The strikes are the first since Tuesday's midterm elections, after analysts and regional officials had debated whether the vote would lead Trump toward further escalation or renewed diplomacy.
-The U.S. struck the same island Monday, in what a U.S. official told MS Now was a "defensive measure."
-'They want to make a deal very badly'
-Trump also told reporters Friday that Iran wants "to make a deal very badly. They have 300% inflation. Their navy's gone. Their airport, everything's gone, and they want to make a deal."
-The International Monetary Fund forecast that Iran's consumer prices would rise by an average of 78.6% in 2026, in a report published Oct. 13.
-When asked if he wanted to make a deal "really soon," Trump said: "Well, we have nobody getting hurt, nobody getting killed.
-"You know, this is a war that we may have been there for seven months, but we probably fought for three or four weeks, really fought. And again, you look at World War One; that's a war. World War Two; that's a war."
-Iran has said it wants more than "paper commitments" from the U.S. before entering a new phase of diplomatic talks.
-"We must see practical measures by the Americans," Ali Bagheri Kani, deputy secretary of Iran's Supreme National Security Council, told state broadcaster IRIB on Friday, according to Press TV.`,
-    bodyJa: `President Donald Trump told reporters Friday that the U.S. carried out "minor strikes" on Iran, amid reports that two missiles struck Qeshm Island near the Strait of Hormuz.
-The missiles struck the island on Friday, Iranian news agency Tasnim reported, according to Reuters. Tasnim said there was no official information on damage, Reuters added.
-The island lies off Iran's southern coast, near the Strait of Hormuz, the vital artery for oil and gas that has become a flashpoint in the war.
-Speaking to reporters Friday evening after landing in West Palm Beach, Florida, Trump didn't comment specifically on Qeshm Island, saying: "I don't want to talk about it."
-But he added: "We do minor strikes, but they knock out. They built a little bit of an anti-aircraft device, and we knocked it out in about 15 minutes, maybe five." He did not explicitly confirm that he was referring to the reported strikes on Qeshm.
-The strikes are the first since Tuesday's midterm elections, after analysts and regional officials had debated whether the vote would lead Trump toward further escalation or renewed diplomacy.
-The U.S. struck the same island Monday, in what a U.S. official told MS Now was a "defensive measure."
-'They want to make a deal very badly'
-Trump also told reporters Friday that Iran wants "to make a deal very badly. They have 300% inflation. Their navy's gone. Their airport, everything's gone, and they want to make a deal."
-The International Monetary Fund forecast that Iran's consumer prices would rise by an average of 78.6% in 2026, in a report published Oct. 13.
-When asked if he wanted to make a deal "really soon," Trump said: "Well, we have nobody getting hurt, nobody getting killed.
-"You know, this is a war that we may have been there for seven months, but we probably fought for three or four weeks, really fought. And again, you look at World War One; that's a war. World War Two; that's a war."
-Iran has said it wants more than "paper commitments" from the U.S. before entering a new phase of diplomatic talks.
-"We must see practical measures by the Americans," Ali Bagheri Kani, deputy secretary of Iran's Supreme National Security Council, told state broadcaster IRIB on Friday, according to Press TV.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
-    publishedAt: "2026-11-07T07:37:36+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "inside-the-card-grading-empire-shaping-t-2d3ead55",
-    title: "Inside the card-grading empire shaping the price of Pokémon cards",
-    titleJa: "Inside the card-grading empire shaping the price of Pokémon cards",
-    summaryJa: "PSA’s resale premium, backlog and grading-market dominance shape what collectors pay — and how much their Pokémon cards may fetch.",
-    bodyOriginal: `Collectors may have more grading options than ever, but many still turn to Professional Sports Authenticator, or PSA — even as the industry leader works through a backlog of millions of cards.
-Demand for grading — an act of verifying a card’s authenticity and condition — has grown as collectors increasingly treat trading and vintage sports cards as alternative investments.
-PSA reported a backlog of 7.2 million items on Oct. 20, down from 12.4 million in July. The company suspended cheaper submission services in June to ease the backlog before reopening its Value service on Oct. 29.
-Even so, some sellers would rather wait for a PSA label than send their cards to a competitor, dealers told CNBC.
-“It really all comes down to secondary market values,” said Geoff Wilson, founder and CEO of CardsHQ, which operates one of the world's largest sports card shops.
-PSA-graded cards typically command higher prices than equivalent grades from competitors, Wilson said, giving collectors and investors an incentive to choose PSA in hopes of a stronger return.
-The financial difference can be substantial.
-A 1999 Base Set Charizard graded PSA 9 sold for about $3,440 on eBay on Sept. 29, compared with roughly $1,890 for a CGC 9 copy sold the same day, according to CNBC's review of PriceCharting records.
-That pricing gap reinforces PSA's lead and gives its decisions about fees and submission services considerable influence over the resale market.
-PSA had not responded to CNBC’s detailed questions at the time of publication. In published updates, the company has attributed service restrictions and pricing changes to demand exceeding capacity, and outlined investments intended to reduce the backlog.
-The 'gold standard'
-Grading companies verify a card’s authenticity, assess its condition and seal it in a protective plastic case, known as a slab. PSA uses a 10-point scale, with its highest grade, Gem Mint 10, reserved for cards it describes as "virtually perfect."
-Like a credit rating in bond markets, a card grade gives buyers and sellers a common benchmark for assessing condition.
-That can reduce friction in transactions by giving both sides a reference point based on past sales of the same card at the same grade.
-That capability has helped open the trading-card market to more global participation and made cross-border transactions easier, according to an unnamed spokesperson for Singapore-based submission dealer Oxley Grading.
-The spokesperson attributed PSA’s position as the industry’s “gold standard” to its early start, brand recognition and extensive history of completed sales.
-“They've just built up such a strong branding and a lot of sales records,” the spokesperson said.
-They estimated that roughly 90% of the graded cards offered to Oxley Grading for purchase carry PSA’s label.
-The dominance creates a self-reinforcing cycle: buyers seek out PSA-graded cards, giving sellers an incentive to use the company. The abundance of PSA slabs in shops and online marketplaces further reinforces the brand's visibility and demand.
-For a seller choosing a grader, that established resale demand can outweigh a competitor’s lower fees or faster turnaround times.
-The collectible empire
-PSA sits within a larger collectibles business.
-Its parent company, Collectors, also owns rival grading brands Beckett and SGC, pricing-data platform Card Ladder, the PSA Vault and financial services. The vault links storage with selling through external marketplaces, including eBay.
-Together, those businesses span much of a card’s commercial journey — grading, pricing, storage, sales and even financing against collectibles.
-Collectors' three card-grading brands accounted for roughly 71% of August grading volume among the major firms tracked by industry analyst GemRate. PSA alone represented about 65%, while the next-largest player, CGC, represented about 28%.
-Collectors' consolidation has also drawn legal scrutiny.
-A proposed class action filed in April challenges Collectors’ acquisitions of SGC and Beckett, alleging that the deals unlawfully reduced competition in card grading. The allegations have not been proven in court.
-Collectors has defended the Beckett acquisition as a way to strengthen a trusted brand while preserving collectors’ ability to choose the grading service that best suits their items.
-“We believe that strong, well-supported brands help grow access to the hobby,” Collectors CEO Nat Turner said in the company's 2025 acquisition announcement.
-Cost of market dependence
-For sellers who prioritize PSA's resale premium, changes to its fees and submission services can alter the economics of grading a card.
-PSA raised fees across several existing tiers in February, including Value Bulk from $21.99 to $24.99 and Value from $27.99 to $32.99. It also lengthened estimated turnaround times for some services, saying the changes would help balance submission demand with grading capacity.
-The suspension of cheaper tiers in June further narrowed affordable options, while higher costs have made customers more selective about which cards they submit, according to Oxley Grading's spokesperson.
-Meanwhile, Wilson said the restrictions have particularly affected collectors and dealers who buy cards ungraded, send them to PSA and then resell them at a higher price.
-For cards worth a few hundred dollars or less, that strategy has become harder to justify, he said.
-“You're seeing more raw cards bought and sold at card shows,” Wilson added, using the industry term for ungraded cards.
-PSA has acknowledged that customers are waiting too long.
-In an Oct. 28 update, the company said submissions in April and May were 2.5 times the volume received in the same months a year earlier. It also announced shorter turnaround estimates for Standard and Priority services, while saying new Value submissions would be processed behind existing orders.
-“We have added an incredible amount of capacity, but we still have work to do,” Ryan Hoge, president of PSA and grading at Collectors, said in the statement.
-For Wilson, those investments in capacity are part of PSA's appeal.
-“They've made the collector experience better by doing that,” he said.
-Limited bargaining power
-The leading graders' dominance may leave collectors with little room to push back.
-Collectors' preference for PSA's resale value can make switching graders less attractive, the Oxley Grading's spokesperson said, adding, "PSA's lead comes from resale demand and liquidity, and other labels are still building that."
-Overseas customers can face fewer practical grading options as many major graders are based in the U.S., Amber Chuah, operations manager of trading-card platform TCG Marketplace, told CNBC.
-The complaints she hears most often involve long waits and disappointment when cards receive lower grades than customers expected.
-Challenging a grade can require another round of shipping and waiting, discouraging some collectors from disputing the result, she added.
-"If you're really keen on selling, that's a lot of time."
-PSA did not respond to CNBC's questions about the sources' claims.
-PSA’s terms allow customers to request a paid review of disputed grades, with customers responsible for grading and applicable shipping fees. The company also offers defect notes for eligible submissions to provide more detail on how a grade was determined.
-CardsHQ's Wilson said some variation between assessments is an inherent challenge in a process that involves human judgment.
-Challenging PSA
-Wilson pushes back against the suggestion that PSA’s position leaves customers without alternatives.
-“First of all, there are alternatives,” he said, pointing to CGC, Beckett and smaller grading firms such as TAG.
-CGC’s grading volume in August was more than double its level a year earlier, according to GemRate, showing that rival graders are attracting business. Beckett also recorded strong growth, although it is owned by Collectors.
-Oxley Grading's spokesperson said there may be room for lower-cost services aimed at collectors who care more about a card’s artwork, sentimental value or preservation than maximizing its resale value.
-Competing for sellers focused on the strongest financial return remains more difficult.
-Building comparable resale acceptance would require substantial investment, with no guarantee that buyers would ultimately value a newcomer's label as highly as PSA's, the spokesperson said.
-For Wilson, broader acceptance in the resale market is key to shifting that balance.
-“If the market as a whole starts to respect the value of the other grading companies' cards more, then collectors will increasingly submit to those companies,” he said.`,
-    bodyJa: `Collectors may have more grading options than ever, but many still turn to Professional Sports Authenticator, or PSA — even as the industry leader works through a backlog of millions of cards.
-Demand for grading — an act of verifying a card’s authenticity and condition — has grown as collectors increasingly treat trading and vintage sports cards as alternative investments.
-PSA reported a backlog of 7.2 million items on Oct. 20, down from 12.4 million in July. The company suspended cheaper submission services in June to ease the backlog before reopening its Value service on Oct. 29.
-Even so, some sellers would rather wait for a PSA label than send their cards to a competitor, dealers told CNBC.
-“It really all comes down to secondary market values,” said Geoff Wilson, founder and CEO of CardsHQ, which operates one of the world's largest sports card shops.
-PSA-graded cards typically command higher prices than equivalent grades from competitors, Wilson said, giving collectors and investors an incentive to choose PSA in hopes of a stronger return.
-The financial difference can be substantial.
-A 1999 Base Set Charizard graded PSA 9 sold for about $3,440 on eBay on Sept. 29, compared with roughly $1,890 for a CGC 9 copy sold the same day, according to CNBC's review of PriceCharting records.
-That pricing gap reinforces PSA's lead and gives its decisions about fees and submission services considerable influence over the resale market.
-PSA had not responded to CNBC’s detailed questions at the time of publication. In published updates, the company has attributed service restrictions and pricing changes to demand exceeding capacity, and outlined investments intended to reduce the backlog.
-The 'gold standard'
-Grading companies verify a card’s authenticity, assess its condition and seal it in a protective plastic case, known as a slab. PSA uses a 10-point scale, with its highest grade, Gem Mint 10, reserved for cards it describes as "virtually perfect."
-Like a credit rating in bond markets, a card grade gives buyers and sellers a common benchmark for assessing condition.
-That can reduce friction in transactions by giving both sides a reference point based on past sales of the same card at the same grade.
-That capability has helped open the trading-card market to more global participation and made cross-border transactions easier, according to an unnamed spokesperson for Singapore-based submission dealer Oxley Grading.
-The spokesperson attributed PSA’s position as the industry’s “gold standard” to its early start, brand recognition and extensive history of completed sales.
-“They've just built up such a strong branding and a lot of sales records,” the spokesperson said.
-They estimated that roughly 90% of the graded cards offered to Oxley Grading for purchase carry PSA’s label.
-The dominance creates a self-reinforcing cycle: buyers seek out PSA-graded cards, giving sellers an incentive to use the company. The abundance of PSA slabs in shops and online marketplaces further reinforces the brand's visibility and demand.
-For a seller choosing a grader, that established resale demand can outweigh a competitor’s lower fees or faster turnaround times.
-The collectible empire
-PSA sits within a larger collectibles business.
-Its parent company, Collectors, also owns rival grading brands Beckett and SGC, pricing-data platform Card Ladder, the PSA Vault and financial services. The vault links storage with selling through external marketplaces, including eBay.
-Together, those businesses span much of a card’s commercial journey — grading, pricing, storage, sales and even financing against collectibles.
-Collectors' three card-grading brands accounted for roughly 71% of August grading volume among the major firms tracked by industry analyst GemRate. PSA alone represented about 65%, while the next-largest player, CGC, represented about 28%.
-Collectors' consolidation has also drawn legal scrutiny.
-A proposed class action filed in April challenges Collectors’ acquisitions of SGC and Beckett, alleging that the deals unlawfully reduced competition in card grading. The allegations have not been proven in court.
-Collectors has defended the Beckett acquisition as a way to strengthen a trusted brand while preserving collectors’ ability to choose the grading service that best suits their items.
-“We believe that strong, well-supported brands help grow access to the hobby,” Collectors CEO Nat Turner said in the company's 2025 acquisition announcement.
-Cost of market dependence
-For sellers who prioritize PSA's resale premium, changes to its fees and submission services can alter the economics of grading a card.
-PSA raised fees across several existing tiers in February, including Value Bulk from $21.99 to $24.99 and Value from $27.99 to $32.99. It also lengthened estimated turnaround times for some services, saying the changes would help balance submission demand with grading capacity.
-The suspension of cheaper tiers in June further narrowed affordable options, while higher costs have made customers more selective about which cards they submit, according to Oxley Grading's spokesperson.
-Meanwhile, Wilson said the restrictions have particularly affected collectors and dealers who buy cards ungraded, send them to PSA and then resell them at a higher price.
-For cards worth a few hundred dollars or less, that strategy has become harder to justify, he said.
-“You're seeing more raw cards bought and sold at card shows,” Wilson added, using the industry term for ungraded cards.
-PSA has acknowledged that customers are waiting too long.
-In an Oct. 28 update, the company said submissions in April and May were 2.5 times the volume received in the same months a year earlier. It also announced shorter turnaround estimates for Standard and Priority services, while saying new Value submissions would be processed behind existing orders.
-“We have added an incredible amount of capacity, but we still have work to do,” Ryan Hoge, president of PSA and grading at Collectors, said in the statement.
-For Wilson, those investments in capacity are part of PSA's appeal.
-“They've made the collector experience better by doing that,” he said.
-Limited bargaining power
-The leading graders' dominance may leave collectors with little room to push back.
-Collectors' preference for PSA's resale value can make switching graders less attractive, the Oxley Grading's spokesperson said, adding, "PSA's lead comes from resale demand and liquidity, and other labels are still building that."
-Overseas customers can face fewer practical grading options as many major graders are based in the U.S., Amber Chuah, operations manager of trading-card platform TCG Marketplace, told CNBC.
-The complaints she hears most often involve long waits and disappointment when cards receive lower grades than customers expected.
-Challenging a grade can require another round of shipping and waiting, discouraging some collectors from disputing the result, she added.
-"If you're really keen on selling, that's a lot of time."
-PSA did not respond to CNBC's questions about the sources' claims.
-PSA’s terms allow customers to request a paid review of disputed grades, with customers responsible for grading and applicable shipping fees. The company also offers defect notes for eligible submissions to provide more detail on how a grade was determined.
-CardsHQ's Wilson said some variation between assessments is an inherent challenge in a process that involves human judgment.
-Challenging PSA
-Wilson pushes back against the suggestion that PSA’s position leaves customers without alternatives.
-“First of all, there are alternatives,” he said, pointing to CGC, Beckett and smaller grading firms such as TAG.
-CGC’s grading volume in August was more than double its level a year earlier, according to GemRate, showing that rival graders are attracting business. Beckett also recorded strong growth, although it is owned by Collectors.
-Oxley Grading's spokesperson said there may be room for lower-cost services aimed at collectors who care more about a card’s artwork, sentimental value or preservation than maximizing its resale value.
-Competing for sellers focused on the strongest financial return remains more difficult.
-Building comparable resale acceptance would require substantial investment, with no guarantee that buyers would ultimately value a newcomer's label as highly as PSA's, the spokesperson said.
-For Wilson, broader acceptance in the resale market is key to shifting that balance.
-“If the market as a whole starts to respect the value of the other grading companies' cards more, then collectors will increasingly submit to those companies,” he said.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/06/card-pokemon-grading-psa-collectors-price.html",
-    publishedAt: "2026-11-07T02:00:01+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "my-mortgage-is-going-up-200-a-month-how-4016238b",
-    title: "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
-    titleJa: "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
-    summaryJa: "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
-    bodyOriginal: `'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets
-- Published
-On Thursday, the Bank of England increased interest rates for the first time in over three years as it tries to get a grip on rising inflation linked to the Iran war.
-Experts say there could be more hikes over the next 18 months, as the conflict continues to push up food, fuel and energy prices across the UK and worldwide.
-Higher interest rates affect borrowing costs, however, which means mortgages, credit cards and personal loans could get more expensive for millions, even as savings rates improve.
-For some, it could mean extra financial pressure at a time when they are already struggling with the cost of living. The BBC spoke to three people about how they could be affected.
-'Our tracker mortgage will go up'
-Peter Gill, 48, is one of the around 1.3 million Britons on a variable rate mortgage.
-These loans track the Bank of England base rate, with a margin on top determined by the lender, so any rise in interest rates can push up repayments.
-Peter, who runs a small tiling business in Halifax, says his monthly repayments will go up by roughly £45 following Thursday's quarter-percentage point increase and he's worried they could climb higher.
-But he still thinks it'd be more expensive to move onto a fixed-rate deal - which is when you pay a set amount of monthly interest for a period - and is prepared to stay put for now.
-His higher mortgage costs come as the "cost of everything is going up", he says.
-The father of two, who has a combined household income of £45,000 with his wife Faye, is having to pay his staff more because of increases in the national minimum wage. Raw material costs have also risen due to the war in Iran.
-At home, the family's food, gas and electricity bills have gone up and he says he's working "about six and a half days a week" to shield them from the worst of it.
-"From my point of view, inflation goes up which costs you, then interest rates go up and you have even less money."
-'My mortgage is going up by £200 a month'
-Most UK mortgage holders are on fixed-rate deals, but that doesn't necessarily protect them when the Bank of England puts up rates.
-David Hollingworth, from brokers L&C Mortgages, says many people will be shocked at how much higher fixed-rate deals are than they were five years ago following recent increases.
-"Fixed rates have already risen due to market anticipation that interest rates would need to rise to combat higher inflation," he says.
-Dawn Fazackerley-King is a Pilates instructor who lives near Ipswich and has previously spoken to the BBC about her struggles with the cost of living.
-She was on a five-year fixed deal at 1.4%, which she took out in January 2022. But the mother of two is about to refix for two years and the best deal she can find is a 5.69% loan. That will push her costs up by about £200 a month.
-"I don't know where that money is going to come from, it's something we are going to have to figure out as a family. It's stressful."
-She and her husband, who have a joint income of about £70,000, have already gone through their direct debits and there's "no more obvious fat to trim".
-There is also no scope for them to take on additional work, as they both work full time.
-"We're still living in the same property, our household costs are remaining the same," Dawn says. "It's an additional cost of several hundred pounds but we're not getting anything extra for that."
-'My credit card repayments could rise'
-When the Bank of England increases its base rate, credit card borrowing costs also tend to increase, although the impact is not always immediate.
-It may affect people with outstanding debts, as providers can increase the interest rates they charge with 30 days' notice.
-Ben Thomas, 41, from Shropshire, ditched his career as a chartered accountant during the Covid pandemic after a mental health crisis and retrained as a paramedic.
-But the drop in income left him reliant on credit cards and personal loans for everyday living expenses and he is now £52,000 in debt.
-Faisal Islam: How high will interest rates go?
-- Published2 days ago
-Three ways the interest rate rise could affect you
-- Published3 days ago
-Ben says he's reached an agreement to pause the interest on most of it, but he is still incurring charges on around £2,000 of credit card debt and is worried about his repayments going up.
-"With all that's going on, rising interest rates is another cost to deal with," he tells the BBC.
-As well as overall debt repayments of around £300 a month, he and his wife pay £760 on their mortgage. They have also struggled with higher food and energy bills.
-Simon Trevethick is head of communications at StepChange, which has been helping Ben manage his debt. He says the debt charity has seen a 20% increase in people asking for support this year and warned of tougher times ahead.
-"If higher borrowing costs feed through into household budgets over the coming months, we could see further pressure on people seeking support."
-Get in touch
-Do you have a mortgage, a credit card, a car finance agreement? How are interest rates affecting you?`,
-    bodyJa: `'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets
-- Published
-On Thursday, the Bank of England increased interest rates for the first time in over three years as it tries to get a grip on rising inflation linked to the Iran war.
-Experts say there could be more hikes over the next 18 months, as the conflict continues to push up food, fuel and energy prices across the UK and worldwide.
-Higher interest rates affect borrowing costs, however, which means mortgages, credit cards and personal loans could get more expensive for millions, even as savings rates improve.
-For some, it could mean extra financial pressure at a time when they are already struggling with the cost of living. The BBC spoke to three people about how they could be affected.
-'Our tracker mortgage will go up'
-Peter Gill, 48, is one of the around 1.3 million Britons on a variable rate mortgage.
-These loans track the Bank of England base rate, with a margin on top determined by the lender, so any rise in interest rates can push up repayments.
-Peter, who runs a small tiling business in Halifax, says his monthly repayments will go up by roughly £45 following Thursday's quarter-percentage point increase and he's worried they could climb higher.
-But he still thinks it'd be more expensive to move onto a fixed-rate deal - which is when you pay a set amount of monthly interest for a period - and is prepared to stay put for now.
-His higher mortgage costs come as the "cost of everything is going up", he says.
-The father of two, who has a combined household income of £45,000 with his wife Faye, is having to pay his staff more because of increases in the national minimum wage. Raw material costs have also risen due to the war in Iran.
-At home, the family's food, gas and electricity bills have gone up and he says he's working "about six and a half days a week" to shield them from the worst of it.
-"From my point of view, inflation goes up which costs you, then interest rates go up and you have even less money."
-'My mortgage is going up by £200 a month'
-Most UK mortgage holders are on fixed-rate deals, but that doesn't necessarily protect them when the Bank of England puts up rates.
-David Hollingworth, from brokers L&C Mortgages, says many people will be shocked at how much higher fixed-rate deals are than they were five years ago following recent increases.
-"Fixed rates have already risen due to market anticipation that interest rates would need to rise to combat higher inflation," he says.
-Dawn Fazackerley-King is a Pilates instructor who lives near Ipswich and has previously spoken to the BBC about her struggles with the cost of living.
-She was on a five-year fixed deal at 1.4%, which she took out in January 2022. But the mother of two is about to refix for two years and the best deal she can find is a 5.69% loan. That will push her costs up by about £200 a month.
-"I don't know where that money is going to come from, it's something we are going to have to figure out as a family. It's stressful."
-She and her husband, who have a joint income of about £70,000, have already gone through their direct debits and there's "no more obvious fat to trim".
-There is also no scope for them to take on additional work, as they both work full time.
-"We're still living in the same property, our household costs are remaining the same," Dawn says. "It's an additional cost of several hundred pounds but we're not getting anything extra for that."
-'My credit card repayments could rise'
-When the Bank of England increases its base rate, credit card borrowing costs also tend to increase, although the impact is not always immediate.
-It may affect people with outstanding debts, as providers can increase the interest rates they charge with 30 days' notice.
-Ben Thomas, 41, from Shropshire, ditched his career as a chartered accountant during the Covid pandemic after a mental health crisis and retrained as a paramedic.
-But the drop in income left him reliant on credit cards and personal loans for everyday living expenses and he is now £52,000 in debt.
-Faisal Islam: How high will interest rates go?
-- Published2 days ago
-Three ways the interest rate rise could affect you
-- Published3 days ago
-Ben says he's reached an agreement to pause the interest on most of it, but he is still incurring charges on around £2,000 of credit card debt and is worried about his repayments going up.
-"With all that's going on, rising interest rates is another cost to deal with," he tells the BBC.
-As well as overall debt repayments of around £300 a month, he and his wife pay £760 on their mortgage. They have also struggled with higher food and energy bills.
-Simon Trevethick is head of communications at StepChange, which has been helping Ben manage his debt. He says the debt charity has seen a 20% increase in people asking for support this year and warned of tougher times ahead.
-"If higher borrowing costs feed through into household budgets over the coming months, we could see further pressure on people seeking support."
-Get in touch
-Do you have a mortgage, a credit card, a car finance agreement? How are interest rates affecting you?`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-07T01:41:36+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e6b/live/b1102500-d9fb-11f1-b441-2b33b063138f.png",
-    readTime: 10,
   },
 ];
 
