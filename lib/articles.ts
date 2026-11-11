@@ -15,6 +15,328 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "here-s-how-bernie-sanders-wants-to-keep-6e394874",
+    title: "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+    titleJa: "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+    summaryJa: "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
+    bodyOriginal: `The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes`,
+    bodyJa: `The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+    publishedAt: "2026-11-11T13:55:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-95193263",
+    readTime: 2,
+  },
+  {
+    id: "corporate-america-is-making-a-trillion-d-cbeaaac1",
+    title: "Corporate America is making a trillion-dollar mistake about retirement",
+    titleJa: "Corporate America is making a trillion-dollar mistake about retirement",
+    summaryJa: "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
+    bodyOriginal: `The market is dramatically underpricing the economic impact of Americans age 50 and older.`,
+    bodyJa: `The market is dramatically underpricing the economic impact of Americans age 50 and older.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+    publishedAt: "2026-11-11T13:52:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-43763907",
+    readTime: 2,
+  },
+  {
+    id: "fed-s-goolsbee-calls-inflation-report-bo-158b6c8a",
+    title: "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+    titleJa: "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
+    summaryJa: "The consumer price index rose more than expected in October, raising alarm among Federal Reserve officials.",
+    bodyOriginal: `Chicago Federal Reserve President Austan Goolsbee called the latest inflation data "borderline disturbing."
+"It's another distressing report — borderline disturbing," Goolsbee said in an interview with PBS Tuesday.
+"We have got a real inflation issue on our hands that has been developing," Goolsbee said, according to a transcript of his remarks. "We're going to have to deal with that."
+The consumer price index rose 0.4% on a seasonally adjusted basis in October, according to the Bureau of Labor Statistics' Tuesday release. That was higher than economists had predicted.
+Goolsbee said he had not seen drivers of prices like tariffs fade over time like he hoped. He also said continuously high inflation on services concerned him.
+And the Chicago Fed chief said lofty prices are a top issue for many people he meets.
+"It's on everyone's mind," Goolsbee said. "It's on business mind. It's on nonprofits' minds. It's on ordinary consumers' mind."
+The inflation report landed at a critical juncture for the Federal Reserve, as it considers its next interest-rate move — and the moves it may have to make beyond that if the numbers continue to come in hot.
+Goolsbee's comments came on the heels of remarks from other Fed officials Tuesday who said the rate-setting Federal Open Market Committee may need to act more decisively to rein in inflation.
+When it raises or lowers rates, the Fed typically moves them by a quarter-percentage point. But Fed Governor Christopher Waller said in London early Tuesday that a hot inflation report could push him toward advocating for an outsized half-point increase in December, and specifically said such a hike should be on the table if core CPI was "around 0.3." Hours later, that's exactly what happened.
+Dallas Fed President Lorie Logan, speaking Tuesday after the inflation report, said she sees a need for two additional quarter-point increases, and said "it may be possible to move more rapidly this winter than the FOMC has moved so far this fall."
+The rate-setting committee raised rates by a quarter point in September, to a range of 3.75%-4%, before voting to hold them steady in October.
+After years of higher-than-preferred price growth, Goolsbee said the possibility of consumers and businesses beginning to expect hot inflation is a "major concern." If that does happen, he said it can make the process of cooling inflation "much more painful."
+But Goolsbee didn't specify whether he thought the Fed should hike rates at its December policy gathering as a result of these concerns.
+"I'm not a fan of being very specific and tying our hands at the next meeting or meetings in the future," Goolsbee said.
+Waller, Logan and Paulson are voting members of the FOMC this year, which means they will cast votes on whether to raise rates at the committee's final meeting of the year in December. Goolsbee will be a voting member next year.
+In the wake of the inflation report and the remarks from the various Fed officials, Fed funds futures are now unanimously expecting a rate hike at the December meeting, according to CME's FedWatch tool.
+Now the question is about whether the central bank will raise rates by a quarter or half percentage point. The Fed funds futures currently put the odds of a half-point hike at the upcoming December meeting at 15%.
+Odds of rates reaching 4.25%-4.5% by the January meeting — the equivalent of either a single half-point rise or two quarter-point hikes — are now at 60%, with a 10% chance of rates hitting 4.5%-4.75% by then.`,
+    bodyJa: `Chicago Federal Reserve President Austan Goolsbee called the latest inflation data "borderline disturbing."
+"It's another distressing report — borderline disturbing," Goolsbee said in an interview with PBS Tuesday.
+"We have got a real inflation issue on our hands that has been developing," Goolsbee said, according to a transcript of his remarks. "We're going to have to deal with that."
+The consumer price index rose 0.4% on a seasonally adjusted basis in October, according to the Bureau of Labor Statistics' Tuesday release. That was higher than economists had predicted.
+Goolsbee said he had not seen drivers of prices like tariffs fade over time like he hoped. He also said continuously high inflation on services concerned him.
+And the Chicago Fed chief said lofty prices are a top issue for many people he meets.
+"It's on everyone's mind," Goolsbee said. "It's on business mind. It's on nonprofits' minds. It's on ordinary consumers' mind."
+The inflation report landed at a critical juncture for the Federal Reserve, as it considers its next interest-rate move — and the moves it may have to make beyond that if the numbers continue to come in hot.
+Goolsbee's comments came on the heels of remarks from other Fed officials Tuesday who said the rate-setting Federal Open Market Committee may need to act more decisively to rein in inflation.
+When it raises or lowers rates, the Fed typically moves them by a quarter-percentage point. But Fed Governor Christopher Waller said in London early Tuesday that a hot inflation report could push him toward advocating for an outsized half-point increase in December, and specifically said such a hike should be on the table if core CPI was "around 0.3." Hours later, that's exactly what happened.
+Dallas Fed President Lorie Logan, speaking Tuesday after the inflation report, said she sees a need for two additional quarter-point increases, and said "it may be possible to move more rapidly this winter than the FOMC has moved so far this fall."
+The rate-setting committee raised rates by a quarter point in September, to a range of 3.75%-4%, before voting to hold them steady in October.
+After years of higher-than-preferred price growth, Goolsbee said the possibility of consumers and businesses beginning to expect hot inflation is a "major concern." If that does happen, he said it can make the process of cooling inflation "much more painful."
+But Goolsbee didn't specify whether he thought the Fed should hike rates at its December policy gathering as a result of these concerns.
+"I'm not a fan of being very specific and tying our hands at the next meeting or meetings in the future," Goolsbee said.
+Waller, Logan and Paulson are voting members of the FOMC this year, which means they will cast votes on whether to raise rates at the committee's final meeting of the year in December. Goolsbee will be a voting member next year.
+In the wake of the inflation report and the remarks from the various Fed officials, Fed funds futures are now unanimously expecting a rate hike at the December meeting, according to CME's FedWatch tool.
+Now the question is about whether the central bank will raise rates by a quarter or half percentage point. The Fed funds futures currently put the odds of a half-point hike at the upcoming December meeting at 15%.
+Odds of rates reaching 4.25%-4.5% by the January meeting — the equivalent of either a single half-point rise or two quarter-point hikes — are now at 60%, with a 10% chance of rates hitting 4.5%-4.75% by then.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
+    publishedAt: "2026-11-11T13:50:31+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "nvidia-shares-rebound-4-as-huang-faces-s-253f9380",
+    title: "Nvidia shares rebound 4% as Huang faces scrutiny ahead of earnings",
+    titleJa: "Nvidia shares rebound 4% as Huang faces scrutiny ahead of earnings",
+    summaryJa: "Investors are assessing whether CEO Jensen Huang's affair will have spillover effects on Nvidia's business.",
+    bodyOriginal: `Nvidia's stock rose premarket on Wednesday, after falling for two days amid the scandal that has rocked the world's most valuable tech company.
+Shares had closed down 5.47% on Tuesday as more details were revealed about the impact of CEO Jensen Huang's affair with an alleged Chinese spy. They fell 4.3% Monday.
+Shares were 3.8% higher in premarket trading as of 8:37 a.m. ET.
+On Tuesday, Nvidia announced it had hired law firm Wachtell, Lipton, Rosen & Katz to investigate whether company secrets or national security were compromised.
+Huang tried to project "business as usual" as he returned to the office on Monday, people familiar with the matter told CNBC. The CEO was also in the office on Tuesday, conducting meetings, ahead of the company's quarterly earnings on Nov. 17.
+Investors are assessing whether the matter will have damaging spillover effects on the business.
+In a Tuesday note, Bank of America said it saw three scenarios with differing investment outcomes. In one scenario, the impact is contained with leadership continuity, and in another, prolonged uncertainty pressures valuation before earnings.
+In the final scenario, the impact is escalated, with "adverse findings, leadership disruption or tighter restrictions requiring earnings reassessment," BofA research analyst Vivek Arya said in the note.
+Zacks' Chief Equity Strategist John Blank said the selloff reflected two concerns: that the U.S. might impose further restrictions in the wake of the affair and that further problems might arise as the news develops. "What else has Jensen done?" he said.
+"It's not good for Nvidia. It's not good for Jensen Huang. It's certainly not good for the AI trade," Blank told CNBC's "Squawk Box Europe" on Wednesday.
+Morgan Stanley on Wednesday removed Nvidia as a top pick after shares dropped more than 25% since it was named on the list on Oct. 2. Huang's leadership is "crucial" to the company's strategic direction, analysts said in a Wednesday note.
+— CNBC's Michael Bloom helped contribute to this report.`,
+    bodyJa: `Nvidia's stock rose premarket on Wednesday, after falling for two days amid the scandal that has rocked the world's most valuable tech company.
+Shares had closed down 5.47% on Tuesday as more details were revealed about the impact of CEO Jensen Huang's affair with an alleged Chinese spy. They fell 4.3% Monday.
+Shares were 3.8% higher in premarket trading as of 8:37 a.m. ET.
+On Tuesday, Nvidia announced it had hired law firm Wachtell, Lipton, Rosen & Katz to investigate whether company secrets or national security were compromised.
+Huang tried to project "business as usual" as he returned to the office on Monday, people familiar with the matter told CNBC. The CEO was also in the office on Tuesday, conducting meetings, ahead of the company's quarterly earnings on Nov. 17.
+Investors are assessing whether the matter will have damaging spillover effects on the business.
+In a Tuesday note, Bank of America said it saw three scenarios with differing investment outcomes. In one scenario, the impact is contained with leadership continuity, and in another, prolonged uncertainty pressures valuation before earnings.
+In the final scenario, the impact is escalated, with "adverse findings, leadership disruption or tighter restrictions requiring earnings reassessment," BofA research analyst Vivek Arya said in the note.
+Zacks' Chief Equity Strategist John Blank said the selloff reflected two concerns: that the U.S. might impose further restrictions in the wake of the affair and that further problems might arise as the news develops. "What else has Jensen done?" he said.
+"It's not good for Nvidia. It's not good for Jensen Huang. It's certainly not good for the AI trade," Blank told CNBC's "Squawk Box Europe" on Wednesday.
+Morgan Stanley on Wednesday removed Nvidia as a top pick after shares dropped more than 25% since it was named on the list on Oct. 2. Huang's leadership is "crucial" to the company's strategic direction, analysts said in a Wednesday note.
+— CNBC's Michael Bloom helped contribute to this report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/11/nvidia-stock-jensen-huang-affair-china.html",
+    publishedAt: "2026-11-11T13:45:17+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "how-democrats-could-snarl-trump-administ-1ed2819b",
+    title: "How Democrats could snarl Trump administration stakes in private sector companies",
+    titleJa: "How Democrats could snarl Trump administration stakes in private sector companies",
+    summaryJa: "The Trump administration had established some form of equity position in 41 companies as of November, according to the CATO Institute's tally.",
+    bodyOriginal: `With Republicans in charge of the White House and Congress, President Donald Trump has embedded the federal government in private sector companies' affairs in unprecedented ways. That could change once Trump's Democratic adversaries take over the House and Senate following the blue-wave midterm.
+Democrats, planning to root out alleged corruption involving Trump, his family and their business associates, have signaled they will closely scrutinize companies that have curried the president's favor.
+Their investigations may extend to Intel and the dozens of other companies that have clinched equity stakes with the government during Trump's second term. Democratic lawmakers in July asked law firm Skadden Arps for details about its involvement in the Intel deal.
+The dynamic could affect how Trump approaches relationships with private sector companies, after spending two years involving the government in their affairs through stock agreements or, in the case of U.S. Steel, acquiring a "golden share" when the company was acquired by Nippon Steel.
+The golden share, which allows a holder to outvote other shareholders, was negotiated as part of the June 2025 deal. The highly unusual arrangement gives Trump veto power over several key areas of the steelmaker's business, including those related to employee salaries, capital investment and even the company name.
+In a unique twist, the company's amended charter specifies that after Trump leaves office, the veto power passes not to his successor, but to the Treasury and Commerce Departments as representatives of the U.S. government.
+U.S. Steel CEO David Burritt is scheduled to speak Wednesday with CNBC's Megan Cassella about what's next for U.S. industry at the B20 summit hosted by the U.S. Chamber of Commerce.
+The U.S. Steel intervention turned out to be just the beginning of the U.S. government taking stakes in companies, a highly unusual move stateside. A month after acquiring the golden share, the Trump administration agreed to a $400 million stock deal with rare-earths company MP Materials. The month after that, Trump announced the U.S. would take a 10% stake in chipmaker Intel.
+By January, one year into Trump's second term as president, the administration had established some form of equity position in 14 companies, according to the CATO Institute's tracker. That number skyrocketed to 41 by November, including nine such announcements in May alone, the tracker shows. The holdings include both publicly traded and privately held companies, and CATO tracks deals that are closed as well as others that have been made public but are still being negotiated.
+Following Republicans' decisive defeat in the Nov. 3 midterm election, the federal government has not revealed any new stock positions. But Trump, entering lame-duck status and on the verge of losing political power over Congress, could keep trying to steer his government to forge more equity deals with companies, said Indiana University associate professor Sarah Bauerle Danzman, who researches the intersection of national security and investment policy.
+"He might feel he has less to lose," Bauerle Danzman, who is also a senior fellow at the Atlantic Council, told CNBC.
+White House spokesman Matthew Middleton told CNBC in a statement, "Through voluntary equity investments in willing companies, the Trump Administration has partnered with the private sector to rebuild America's industrial base and bring critical production back home."
+"Moving forward, the President is willing to work with anyone to advance solutions that strengthen our economy and put more money back in the pockets of American workers," Middleton said.
+But Trump's so-far unimpeded efforts may face sudden resistance once Democrats take majority control of the House and Senate in January.
+Democratic lawmakers are openly gearing up to score wins against Trump and his associates as they vow to crack down on alleged rampant government corruption.
+Those probes are expected to center on tech giants like Apple, Meta Platforms and Elon Musk's companies, whose executives have spent millions cozying up to the administration. Democrats are also poised to dig into potential conflicts related to the bevy of critical-minerals deals Trump has struck. Lawmakers of both parties are also looking at Nvidia CEO Jensen Huang, the close Trump ally engulfed in scandal after admitting an extramarital affair with a suspected Chinese spy.
+The administration's equity interventions could become a target in that mission, said Bauerle Danzman, predicting that Democrats might seek to boost oversight efforts even if they don't try to cancel the existing stock arrangements.
+The next Congress could try to ensure the government is taking stakes that are "forwarding genuine national security priorities" and that do not provide "special favors to political and family connections," she said.
+"The story there is more about kind of tying these issues to ones of accountability and anti-corruption, as opposed to necessarily cost," Bauerle Danzman said.
+It's also not clear how strongly Republicans would try to defend Trump's golden share or his government's equity stakes should they become a Democratic target.
+Conservatives traditionally espouse free markets and denounce excessive government meddling in the private sector. Republicans, including Trump, spent much of the midterm campaign warning that Democrats aim to destroy the U.S. capitalist system and impose economy-killing big-government socialism.
+Some Republicans have criticized the Trump administration's corporate interventions, but the moves have received little pushback from the president's party overall.
+But in the wake of a crushing electoral defeat, some Republicans "might feel emboldened and actually join with the Democrats" in trying to clamp down on Trump, Bauerle Danzman said.`,
+    bodyJa: `With Republicans in charge of the White House and Congress, President Donald Trump has embedded the federal government in private sector companies' affairs in unprecedented ways. That could change once Trump's Democratic adversaries take over the House and Senate following the blue-wave midterm.
+Democrats, planning to root out alleged corruption involving Trump, his family and their business associates, have signaled they will closely scrutinize companies that have curried the president's favor.
+Their investigations may extend to Intel and the dozens of other companies that have clinched equity stakes with the government during Trump's second term. Democratic lawmakers in July asked law firm Skadden Arps for details about its involvement in the Intel deal.
+The dynamic could affect how Trump approaches relationships with private sector companies, after spending two years involving the government in their affairs through stock agreements or, in the case of U.S. Steel, acquiring a "golden share" when the company was acquired by Nippon Steel.
+The golden share, which allows a holder to outvote other shareholders, was negotiated as part of the June 2025 deal. The highly unusual arrangement gives Trump veto power over several key areas of the steelmaker's business, including those related to employee salaries, capital investment and even the company name.
+In a unique twist, the company's amended charter specifies that after Trump leaves office, the veto power passes not to his successor, but to the Treasury and Commerce Departments as representatives of the U.S. government.
+U.S. Steel CEO David Burritt is scheduled to speak Wednesday with CNBC's Megan Cassella about what's next for U.S. industry at the B20 summit hosted by the U.S. Chamber of Commerce.
+The U.S. Steel intervention turned out to be just the beginning of the U.S. government taking stakes in companies, a highly unusual move stateside. A month after acquiring the golden share, the Trump administration agreed to a $400 million stock deal with rare-earths company MP Materials. The month after that, Trump announced the U.S. would take a 10% stake in chipmaker Intel.
+By January, one year into Trump's second term as president, the administration had established some form of equity position in 14 companies, according to the CATO Institute's tracker. That number skyrocketed to 41 by November, including nine such announcements in May alone, the tracker shows. The holdings include both publicly traded and privately held companies, and CATO tracks deals that are closed as well as others that have been made public but are still being negotiated.
+Following Republicans' decisive defeat in the Nov. 3 midterm election, the federal government has not revealed any new stock positions. But Trump, entering lame-duck status and on the verge of losing political power over Congress, could keep trying to steer his government to forge more equity deals with companies, said Indiana University associate professor Sarah Bauerle Danzman, who researches the intersection of national security and investment policy.
+"He might feel he has less to lose," Bauerle Danzman, who is also a senior fellow at the Atlantic Council, told CNBC.
+White House spokesman Matthew Middleton told CNBC in a statement, "Through voluntary equity investments in willing companies, the Trump Administration has partnered with the private sector to rebuild America's industrial base and bring critical production back home."
+"Moving forward, the President is willing to work with anyone to advance solutions that strengthen our economy and put more money back in the pockets of American workers," Middleton said.
+But Trump's so-far unimpeded efforts may face sudden resistance once Democrats take majority control of the House and Senate in January.
+Democratic lawmakers are openly gearing up to score wins against Trump and his associates as they vow to crack down on alleged rampant government corruption.
+Those probes are expected to center on tech giants like Apple, Meta Platforms and Elon Musk's companies, whose executives have spent millions cozying up to the administration. Democrats are also poised to dig into potential conflicts related to the bevy of critical-minerals deals Trump has struck. Lawmakers of both parties are also looking at Nvidia CEO Jensen Huang, the close Trump ally engulfed in scandal after admitting an extramarital affair with a suspected Chinese spy.
+The administration's equity interventions could become a target in that mission, said Bauerle Danzman, predicting that Democrats might seek to boost oversight efforts even if they don't try to cancel the existing stock arrangements.
+The next Congress could try to ensure the government is taking stakes that are "forwarding genuine national security priorities" and that do not provide "special favors to political and family connections," she said.
+"The story there is more about kind of tying these issues to ones of accountability and anti-corruption, as opposed to necessarily cost," Bauerle Danzman said.
+It's also not clear how strongly Republicans would try to defend Trump's golden share or his government's equity stakes should they become a Democratic target.
+Conservatives traditionally espouse free markets and denounce excessive government meddling in the private sector. Republicans, including Trump, spent much of the midterm campaign warning that Democrats aim to destroy the U.S. capitalist system and impose economy-killing big-government socialism.
+Some Republicans have criticized the Trump administration's corporate interventions, but the moves have received little pushback from the president's party overall.
+But in the wake of a crushing electoral defeat, some Republicans "might feel emboldened and actually join with the Democrats" in trying to clamp down on Trump, Bauerle Danzman said.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/11/trump-company-equity-takes.html",
+    publishedAt: "2026-11-11T13:40:04+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "coreweave-stock-pops-15-after-outlook-ra-7994f9a2",
+    title: "CoreWeave stock pops 15% after outlook raise eases AI slowdown concerns",
+    titleJa: "CoreWeave stock pops 15% after outlook raise eases AI slowdown concerns",
+    summaryJa: "Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade.",
+    bodyOriginal: `CoreWeave shares jumped 15% in premarket trading Wednesday after the neocloud posted quarterly earnings that beat estimates and raised its guidance for the year.
+Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade. CoreWeave, in particular, sparked alarm when spreads on its CDS widened past 11%, generally viewed as a distress level, as investors have to pay up for protection against default.
+Revenue jumped 168% to $3.7 billion in the third quarter, the company said in a Tuesday statement.
+The three months to Sept. 30 marked a "breakout quarter" for CoreWeave, CEO Michael Intrator said, adding that growth was supported by multiple sources of funding, including financing backed by customer contracts and around $9 billion in customer prepayments and deposits.
+Shares were 15.3% higher as of 8:30 a.m. ET. Other neclouds were also higher in premarket trading, with Nebius up 13.4%, Applied Digital up 9.8% and Iren up 7.9%.
+CoreWeave expects $1.275 billion to $1.375 billion in adjusted operating income on $13 billion to $13.3 billion in revenue. Analysts surveyed by Visible Alpha were looking for $1.07 billion in adjusted operating income, and analysts polled by LSEG had expected $12.86 billion in 2026 revenue.
+The neocloud has done well to allay concerns about financing by moving away from unsecured bond financing, Zacks Chief Equity Strategist John Blank told CNBC's "Squawk Box Europe."
+"It might be the bottom for CoreWeave," Blank said Wednesday. "But the shares are so beaten up, you have to believe at this point there's more value on the upside than the down."
+Tune in at 9:50 a.m. ET as CoreWeave CO Michael Intrator joins CNBC TV to discuss the company's earnings. Watch in real time on CNBC+ or the CNBC Pro stream.
+— CNBC's Jordan Novet contributed to this report.`,
+    bodyJa: `CoreWeave shares jumped 15% in premarket trading Wednesday after the neocloud posted quarterly earnings that beat estimates and raised its guidance for the year.
+Neoclouds such as CoreWeave, Nebius and IREN have come under scrutiny this month as investors assessed the sustainability of the AI trade. CoreWeave, in particular, sparked alarm when spreads on its CDS widened past 11%, generally viewed as a distress level, as investors have to pay up for protection against default.
+Revenue jumped 168% to $3.7 billion in the third quarter, the company said in a Tuesday statement.
+The three months to Sept. 30 marked a "breakout quarter" for CoreWeave, CEO Michael Intrator said, adding that growth was supported by multiple sources of funding, including financing backed by customer contracts and around $9 billion in customer prepayments and deposits.
+Shares were 15.3% higher as of 8:30 a.m. ET. Other neclouds were also higher in premarket trading, with Nebius up 13.4%, Applied Digital up 9.8% and Iren up 7.9%.
+CoreWeave expects $1.275 billion to $1.375 billion in adjusted operating income on $13 billion to $13.3 billion in revenue. Analysts surveyed by Visible Alpha were looking for $1.07 billion in adjusted operating income, and analysts polled by LSEG had expected $12.86 billion in 2026 revenue.
+The neocloud has done well to allay concerns about financing by moving away from unsecured bond financing, Zacks Chief Equity Strategist John Blank told CNBC's "Squawk Box Europe."
+"It might be the bottom for CoreWeave," Blank said Wednesday. "But the shares are so beaten up, you have to believe at this point there's more value on the upside than the down."
+Tune in at 9:50 a.m. ET as CoreWeave CO Michael Intrator joins CNBC TV to discuss the company's earnings. Watch in real time on CNBC+ or the CNBC Pro stream.
+— CNBC's Jordan Novet contributed to this report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/11/coreweave-crwv-outlook-earnings-ai.html",
+    publishedAt: "2026-11-11T13:36:50+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "zelenskyy-warns-ukraine-is-not-real-esta-ad98a9d5",
+    title: "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive",
+    titleJa: "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive",
+    summaryJa: "President Zelenskyy warned Tuesday that his country \"was not real estate,\" as a second and final day of U.S.-brokered peace talks got underway.",
+    bodyOriginal: `Ukrainian President Volodymyr Zelenskyy warned Tuesday that his country "was not real estate," as a second and final day of U.S.-brokered peace talks got underway.
+Speaking to reporters in Denmark late Tuesday, Zelenskyy said he was "happy" with what he was hearing from the peace talks in Abu Dhabi between Russian and Ukrainian representatives, but said he had been clear with U.S. envoys Steve Witkoff and Jared Kushner that "this is a country of our nation, it is not real estate."
+His comments come amid discussions on the future borders of Ukraine and post-war security guarantees, issues where the countries remain far apart.
+"I don't have any expectations of major progress towards settlement," Mykola Bielieskov, senior analyst at Ukrainian NGO Come Back Alive, told CNBC Tuesday.
+Bielieskov would welcome another round of exchanges of prisoners of war, "otherwise there is no room for compromise."
+Following Tuesday's talks, the first since February, Kushner said he was "encouraged by the constructive discussions."
+"We are working to end this devastating war and establish the security arrangements necessary for a sovereign, secure, and prosperous Ukraine and lasting peace across Europe," he wrote on X.
+Opening the meeting, Kushner said he had almost daily conversations with both sides and had narrowed the gaps between them. "I think we have some good ideas on how to bridge it."
+According to Bielieskov, Ukraine could accept a ceasefire along the current front lines, but would never formally recognize Russian sovereignty over occupied territory. He argued that Zelenskyy has neither the legal authority nor public support to surrender Ukrainian land, even if Kyiv acknowledges it cannot reclaim those territories militarily in the near term.
+Russia's demands for additional territory, restrictions on NATO membership and limits on Ukraine's armed forces remain fundamental obstacles to a deal, he added.
+Maximilian Hess at political risk firm Enmetena Advisory told CNBC's Dan Murphy on Wednesday that little has been achieved in the latest round of meetings.
+While Zelenskyy has urged leaders to speak directly, Hess said it's unlikely the Ukrainian leader will be willing to meet with Putin without meaningful concessions from Russia, given the risk of domestic backlash.
+He argued that Putin could use a potential meeting with Trump and Xi Jinping in China to seek further U.S. sanctions relief, weaken Washington's support for Ukraine, and deepen divisions within the West.`,
+    bodyJa: `Ukrainian President Volodymyr Zelenskyy warned Tuesday that his country "was not real estate," as a second and final day of U.S.-brokered peace talks got underway.
+Speaking to reporters in Denmark late Tuesday, Zelenskyy said he was "happy" with what he was hearing from the peace talks in Abu Dhabi between Russian and Ukrainian representatives, but said he had been clear with U.S. envoys Steve Witkoff and Jared Kushner that "this is a country of our nation, it is not real estate."
+His comments come amid discussions on the future borders of Ukraine and post-war security guarantees, issues where the countries remain far apart.
+"I don't have any expectations of major progress towards settlement," Mykola Bielieskov, senior analyst at Ukrainian NGO Come Back Alive, told CNBC Tuesday.
+Bielieskov would welcome another round of exchanges of prisoners of war, "otherwise there is no room for compromise."
+Following Tuesday's talks, the first since February, Kushner said he was "encouraged by the constructive discussions."
+"We are working to end this devastating war and establish the security arrangements necessary for a sovereign, secure, and prosperous Ukraine and lasting peace across Europe," he wrote on X.
+Opening the meeting, Kushner said he had almost daily conversations with both sides and had narrowed the gaps between them. "I think we have some good ideas on how to bridge it."
+According to Bielieskov, Ukraine could accept a ceasefire along the current front lines, but would never formally recognize Russian sovereignty over occupied territory. He argued that Zelenskyy has neither the legal authority nor public support to surrender Ukrainian land, even if Kyiv acknowledges it cannot reclaim those territories militarily in the near term.
+Russia's demands for additional territory, restrictions on NATO membership and limits on Ukraine's armed forces remain fundamental obstacles to a deal, he added.
+Maximilian Hess at political risk firm Enmetena Advisory told CNBC's Dan Murphy on Wednesday that little has been achieved in the latest round of meetings.
+While Zelenskyy has urged leaders to speak directly, Hess said it's unlikely the Ukrainian leader will be willing to meet with Putin without meaningful concessions from Russia, given the risk of domestic backlash.
+He argued that Putin could use a potential meeting with Trump and Xi Jinping in China to seek further U.S. sanctions relief, weaken Washington's support for Ukraine, and deepen divisions within the West.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html",
+    publishedAt: "2026-11-11T12:12:48+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "measles-is-surging-in-the-u-s-and-outbre-4f9dcd59",
+    title: "Measles is surging in the U.S. — and outbreaks can cost millions",
+    titleJa: "Measles is surging in the U.S. — and outbreaks can cost millions",
+    summaryJa: "A new tool developed by Johns Hopkins researchers estimates that the 2025 measles outbreak in the U.S. carried an economic cost of more than $37 million.",
+    bodyOriginal: `Measles outbreaks aren't just a public health threat. They can also be a financial burden on the U.S. — and the cost could only deepen as the once-eliminated disease spreads more widely.
+The U.S. is expected to lose its official measles elimination status following a review by the Pan American Health Organization this week, after cases ratcheted to recent highs this year.
+More than 5,100 measles cases have been reported nationwide in 2026 as of early November, marking the country's worst outbreak in more than three decades. Eight deaths associated with the disease have been confirmed by states so far in 2026: six in Pennsylvania, one in New York and one in Wisconsin.
+Based on this year's case count, a new tool developed by researchers at Johns Hopkins University estimates an economic cost of nearly $83 million for the outbreaks. That total includes $56 million in public health response costs, almost $25 million in lost productivity and more than $1.8 million in direct medical expenses.
+The tool also estimates that 2025 measles outbreaks in the U.S. — which involved 2,289 confirmed cases nationwide – carried an economic cost of more than $37 million.
+The costs extend beyond treating people who become sick, accounting for the resources health departments spend investigating and containing outbreaks, as well as wages lost when people have to miss work. The tool uses more recent, state-specific cost and financing data than an initial study by the researchers, which relied on historical outbreak costs.
+The estimates from the tool are not a definitive accounting of what the outbreaks actually cost. But it illustrates the hefty bill tied to the spread of a disease that can be prevented through vaccination, and the potential economic consequences of falling childhood immunization rates. CNBC previously reported on how the return of measles in the U.S. exposes weaknesses in the nation's public health system that raise concerns about the return of other eliminated diseases.
+"We're starting to see a whole bunch of people who decided not to get vaccinated as kids or have never gotten exposed to measles because they benefited from herd immunity, who now make it into adulthood and risk potentially getting quite seriously ill and requiring very significant medical expenses, or dying at the hospital," Bryan Patenaude, a health economist at the International Vaccine Access Center at the Johns Hopkins Bloomberg School of Public Health, who helped develop the tool, said in an interview.
+The costs of containing measles
+Measles outbreaks can trigger a costly public health response, even when many people who are exposed never become sick.
+When a case is identified, public health officials must investigate the infection, identify and notify people who may have been exposed, coordinate with hospitals and schools, and sometimes organize vaccination campaigns to prevent further spread. Those efforts can divert staff and resources from other public health priorities.
+Costs could differ heavily depending on the state.
+Johns Hopkins' data includes national averages alongside state-specific inputs, including inpatient hospital costs and wages from government data or trusted health policy sources. In New York, for example, the average inpatient hospital stay is roughly $4,200 a day, while the minimum wage is $16 per hour.
+The tool estimates that the 48 cases reported by New York in 2025 carried an estimated $1.1 million in costs, including nearly $749,000 in public health responses, $333,000 in productivity losses and roughly $24,500 in direct medical expenses.
+Meanwhile, the 803 cases in Texas, the epicenter of the largest U.S. measles outbreak in 2025, carried estimated costs of nearly $13 million, according to the tool. That includes $9 million in public health costs, $4 million in productivity losses and around $288,000 in direct medical expenses.
+The tool builds on a study published by Patenaude and other researchers in August, which examined the costs of measles outbreaks in the U.S. The researchers reviewed published studies and government reports to compile historical estimates of medical expenses and public health response costs across 18 states.
+The paper estimated that outbreaks carried a historical average cost of nearly $59,000 per case, just from the public health response. The researchers also estimated how costs scale with outbreak size, separating fixed up-front response expenses from the additional costs associated with each new case.
+"A lot of this is incurred up front, and that's because of the human labor that's involved in contact tracing and all of the different actors that sort of need to be mobilized to deal with the fact that there's an outbreak," Patenaude told CNBC. "It's a largely labor-driven cost."
+That model estimated roughly $298,000 in fixed costs and about $16,300 for each additional case. But it relied on historical data, including a particularly large 2019 outbreak in New York City, where contact-tracing labor costs were high. The researchers also excluded productivity losses from that model because most of the historical studies they reviewed did not consistently account for them.
+The costs of lost productivity
+The economic burden of measles extends beyond the costs of treating infected patients and organizing a public health response.
+People who are exposed to measles may have to quarantine, even if they never develop symptoms. Parents can also be forced to miss work to care for sick or exposed children, while workers who contract the disease may lose wages during their recovery.
+A 2025 study by Joey Mattingly, a pharmacist and health economist at the University of Utah, used published epidemiological and cost data to model the potential economic burden of a hypothetical 1,500-case outbreak. His analysis included direct medical expenses, public health spending and lost productivity, and examined how the estimates changed under different assumptions, including hospitalization rates.
+The study estimated that the hypothetical outbreak could cost about $90 million, including roughly $26 million in productivity losses.
+The economic ripple effects of a case
+Those indirect costs can add up quickly because measles is highly contagious and a single infected person can expose dozens of others. Those contacts may need to quarantine or miss work while health officials determine whether they have been infected, creating costs even when they never develop the disease.
+Mattingly estimated that each person who is quarantined could amount to roughly $300 in lost productivity alone.
+If a single measles case exposes 40 to 50 people who then need to quarantine, that could translate into an estimated $12,000 to $15,000 in lost productivity, even if none of those contacts become sick.
+That ripple effect is one reason Mattingly argues that the economic costs of outbreaks can quickly outweigh the investment required to vaccinate people against measles.
+"Even if you don't get the infection, the contact costs you," he said. "And so it's just showing that there's this multiplication or exponential growth on the economic side that happens."
+The financial burden can also fall unevenly across communities. While the costs of responding to an outbreak may be shared among local, state and federal agencies, Mattingly said the impact is often felt directly by local health departments.
+"It's not like your health department is sitting around waiting for measles outbreaks," he said. "They're working, doing all these other things, and imagine having to just drop what you're doing because there's been a huge outbreak in the community."
+Patenaude said the findings could help state and local health departments better anticipate the resources needed to contain outbreaks — particularly as measles cases continue to rise.
+"It's not super expensive to treat and deal with a single case of measles compared to a single case of cancer," he said. "But if you have these outbreaks popping up and you're having to constantly divert resources that could be spent elsewhere by state and local health departments on measles, then you're going to wind up spending a lot of money very quickly."`,
+    bodyJa: `Measles outbreaks aren't just a public health threat. They can also be a financial burden on the U.S. — and the cost could only deepen as the once-eliminated disease spreads more widely.
+The U.S. is expected to lose its official measles elimination status following a review by the Pan American Health Organization this week, after cases ratcheted to recent highs this year.
+More than 5,100 measles cases have been reported nationwide in 2026 as of early November, marking the country's worst outbreak in more than three decades. Eight deaths associated with the disease have been confirmed by states so far in 2026: six in Pennsylvania, one in New York and one in Wisconsin.
+Based on this year's case count, a new tool developed by researchers at Johns Hopkins University estimates an economic cost of nearly $83 million for the outbreaks. That total includes $56 million in public health response costs, almost $25 million in lost productivity and more than $1.8 million in direct medical expenses.
+The tool also estimates that 2025 measles outbreaks in the U.S. — which involved 2,289 confirmed cases nationwide – carried an economic cost of more than $37 million.
+The costs extend beyond treating people who become sick, accounting for the resources health departments spend investigating and containing outbreaks, as well as wages lost when people have to miss work. The tool uses more recent, state-specific cost and financing data than an initial study by the researchers, which relied on historical outbreak costs.
+The estimates from the tool are not a definitive accounting of what the outbreaks actually cost. But it illustrates the hefty bill tied to the spread of a disease that can be prevented through vaccination, and the potential economic consequences of falling childhood immunization rates. CNBC previously reported on how the return of measles in the U.S. exposes weaknesses in the nation's public health system that raise concerns about the return of other eliminated diseases.
+"We're starting to see a whole bunch of people who decided not to get vaccinated as kids or have never gotten exposed to measles because they benefited from herd immunity, who now make it into adulthood and risk potentially getting quite seriously ill and requiring very significant medical expenses, or dying at the hospital," Bryan Patenaude, a health economist at the International Vaccine Access Center at the Johns Hopkins Bloomberg School of Public Health, who helped develop the tool, said in an interview.
+The costs of containing measles
+Measles outbreaks can trigger a costly public health response, even when many people who are exposed never become sick.
+When a case is identified, public health officials must investigate the infection, identify and notify people who may have been exposed, coordinate with hospitals and schools, and sometimes organize vaccination campaigns to prevent further spread. Those efforts can divert staff and resources from other public health priorities.
+Costs could differ heavily depending on the state.
+Johns Hopkins' data includes national averages alongside state-specific inputs, including inpatient hospital costs and wages from government data or trusted health policy sources. In New York, for example, the average inpatient hospital stay is roughly $4,200 a day, while the minimum wage is $16 per hour.
+The tool estimates that the 48 cases reported by New York in 2025 carried an estimated $1.1 million in costs, including nearly $749,000 in public health responses, $333,000 in productivity losses and roughly $24,500 in direct medical expenses.
+Meanwhile, the 803 cases in Texas, the epicenter of the largest U.S. measles outbreak in 2025, carried estimated costs of nearly $13 million, according to the tool. That includes $9 million in public health costs, $4 million in productivity losses and around $288,000 in direct medical expenses.
+The tool builds on a study published by Patenaude and other researchers in August, which examined the costs of measles outbreaks in the U.S. The researchers reviewed published studies and government reports to compile historical estimates of medical expenses and public health response costs across 18 states.
+The paper estimated that outbreaks carried a historical average cost of nearly $59,000 per case, just from the public health response. The researchers also estimated how costs scale with outbreak size, separating fixed up-front response expenses from the additional costs associated with each new case.
+"A lot of this is incurred up front, and that's because of the human labor that's involved in contact tracing and all of the different actors that sort of need to be mobilized to deal with the fact that there's an outbreak," Patenaude told CNBC. "It's a largely labor-driven cost."
+That model estimated roughly $298,000 in fixed costs and about $16,300 for each additional case. But it relied on historical data, including a particularly large 2019 outbreak in New York City, where contact-tracing labor costs were high. The researchers also excluded productivity losses from that model because most of the historical studies they reviewed did not consistently account for them.
+The costs of lost productivity
+The economic burden of measles extends beyond the costs of treating infected patients and organizing a public health response.
+People who are exposed to measles may have to quarantine, even if they never develop symptoms. Parents can also be forced to miss work to care for sick or exposed children, while workers who contract the disease may lose wages during their recovery.
+A 2025 study by Joey Mattingly, a pharmacist and health economist at the University of Utah, used published epidemiological and cost data to model the potential economic burden of a hypothetical 1,500-case outbreak. His analysis included direct medical expenses, public health spending and lost productivity, and examined how the estimates changed under different assumptions, including hospitalization rates.
+The study estimated that the hypothetical outbreak could cost about $90 million, including roughly $26 million in productivity losses.
+The economic ripple effects of a case
+Those indirect costs can add up quickly because measles is highly contagious and a single infected person can expose dozens of others. Those contacts may need to quarantine or miss work while health officials determine whether they have been infected, creating costs even when they never develop the disease.
+Mattingly estimated that each person who is quarantined could amount to roughly $300 in lost productivity alone.
+If a single measles case exposes 40 to 50 people who then need to quarantine, that could translate into an estimated $12,000 to $15,000 in lost productivity, even if none of those contacts become sick.
+That ripple effect is one reason Mattingly argues that the economic costs of outbreaks can quickly outweigh the investment required to vaccinate people against measles.
+"Even if you don't get the infection, the contact costs you," he said. "And so it's just showing that there's this multiplication or exponential growth on the economic side that happens."
+The financial burden can also fall unevenly across communities. While the costs of responding to an outbreak may be shared among local, state and federal agencies, Mattingly said the impact is often felt directly by local health departments.
+"It's not like your health department is sitting around waiting for measles outbreaks," he said. "They're working, doing all these other things, and imagine having to just drop what you're doing because there's been a huge outbreak in the community."
+Patenaude said the findings could help state and local health departments better anticipate the resources needed to contain outbreaks — particularly as measles cases continue to rise.
+"It's not super expensive to treat and deal with a single case of measles compared to a single case of cancer," he said. "But if you have these outbreaks popping up and you're having to constantly divert resources that could be spent elsewhere by state and local health departments on measles, then you're going to wind up spending a lot of money very quickly."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html",
+    publishedAt: "2026-11-11T12:00:01+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    readTime: 10,
+  },
+  {
     id: "u-s-china-should-harbor-no-illusions-as-b3b84a76",
     title: "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
     titleJa: "U.S., China should ‘harbor no illusions’ as they cooperate, compete on AI, Bessent says",
@@ -1885,520 +2207,6 @@ The central issue is whether a piecemeal sale would protect more jobs than a buy
     category: "金融政策",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c59/live/3c72aa60-dc53-11f1-b8a2-9782924402f8.jpg",
     readTime: 9,
-  },
-  {
-    id: "nvidia-s-ceo-turmoil-gives-newly-empower-d88cd9ae",
-    title: "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
-    titleJa: "Nvidia's CEO turmoil gives newly empowered Democrats fresh ammunition in pursuit of oversight",
-    summaryJa: "Nvidia CEO Jensen Huang's extramarital affair with an alleged Chinese spy comes as the company is already about to face heightened scrutiny.",
-    bodyOriginal: `Nvidia CEO Jensen Huang's close ties to the U.S. government were already poised to loosen with Democrats winning control of Congress and promising far more oversight of AI development than what the chip giant has experienced under Republican leadership.
-That was before Huang admitted on Sunday to having an extramarital affair with a businesswoman who intelligence agencies say is a Chinese spy. The woman, Alice Huang, is affiliated with an Nvidia customer called Megaspeed that's been accused of helping restricted Chinese companies acquire Nvidia's artificial intelligence chips.
-Huang apologized to staffers in a note on Sunday for being "unfaithful to my wife," and said the company's board was investigating any related national security concerns. Nvidia's board said it has "confidence in Jensen," who co-founded the company in 1993 and has led it ever since, building a net worth of more than $150 billion in the process.
-Even before last week's midterm elections, which saw Democrats win sweeping majorities in the House and Senate, vocal party leaders wanted answers from Huang about China's access to advanced Nvidia chips and his company's lobbying for favorable legislation. Sen. Elizabeth Warren of Massachusetts said days before the election, when the spy story was first surfacing, that "we must pass bipartisan legislation to keep our advanced AI technology out of China's hands." Months before that, in June, Huang declined an invitation from Warren to testify before the Senate Banking Committee.
-With Democrats about to take the gavel, Delaware Sen. Chris Coons, who is in line to chair the Senate Foreign Relations Committee, wrote on X on Saturday that "Congress will investigate and get answers," following the allegations that appeared in a New York Times report Friday.
-It's a sharp reversal for Huang, who gained first-name status with President Donald Trump and has been closely allied with the administration in trying to limit AI regulation. Nvidia shares plunged 12% in the two days after the election, pacing a drop in AI-related stocks, on fears that incoming lawmakers, at the federal and state levels, and a host of newly passed ballot measures will slow the buildout and halt the AI boom.
-Huang is a singular voice in the AI industry, as his company's technology is used to train nearly all major AI models. He's also turned Nvidia into an essential source of financing for AI startups, and pulled together some of the biggest names on Wall Street into a group that announced plans in August to raise $500 billion for investing in the buildout.
-At Nvidia, Huang is the sole public face of the company and has no clear second-in-command. He decides which projects are a strategic priority, and frequently sends short emails to individual engineers about details. Huang has said he has 60 direct reports and reviews every employee's salary. Meanwhile, he packs his calendar with meetings with world leaders and CEOs, alongside keynote speeches at conferences and trade shows.
-"Nvidia is not an ordinary company and Jensen is not an ordinary CEO; he IS Nvidia," Bernstein analyst Stacy Rasgon wrote in a note on Sunday, adding that it's not clear who would succeed him.
-Patrick Moorhead, CEO at Moor Insights & Strategy, said in an email that "Jensen holding so much power is why Nvidia moves faster than anyone."
-Change is on the way
-Unlike many of his tech peers, Huang is not chairman of the board. Rather, he's one of 11 board members, and there's no designated chair.
-One investor close to Huang told CNBC that, depending on what the board's investigation finds, he could foresee Huang taking a leave of absence.
-"Today's news will not slow Nvidia," a company spokesperson said in a statement. "Jensen is committed to continuing to lead Nvidia as CEO without interruption."
-But scrutiny of Nvidia is set to intensify on Wall Street and in Washington, where Huang's level of influence is almost certain to change.
-He has been a major advocate for more chip exports to China, arguing that it's better for AI labs there to build on American technology than to encourage the development of domestic alternatives. Huang joined Trump on Air Force One in May on a China trip that's now raised additional questions about what the administration and Huang knew about Chinese spying at the time.
-One question Democrats are likely to probe is whether the Trump administration was aware of Huang's relationship with the alleged Chinese spy, and whether the Nvidia CEO influenced American policy, said Sam Bresnick, a research fellow at the Center for Security and Emerging Technology.
-"That is going to be very high up on the Democrats' lists of people to investigate to try to figure out to what extent was the Trump administration aware of what was going on," Bresnick said.
-But pressure isn't just coming from Democrats. House Republican leaders have already asked Huang for a closed-door briefing on Chinese spying issues later this month.
-Trump has continued to back Huang, telling reporters on Sunday that he's an "honorable guy" and has "done an amazing job for our country."
-"I think he probably has an excuse for it," Trump said of the incident.
-Critical time on Wall Street
-Amid all the noise about the election results and the spying revelations, Nvidia is facing a crucial stretch on the markets.
-Neoclouds CoreWeave and Nebius, which are both backed by Nvidia and are big buyers of its chips, are scheduled to report earnings this week after their stocks lost roughly half their value over the past month. Investors are particularly concerned about their hefty debt loads and how they'll continue to fund their buildouts with interest rates rising and lenders turning skittish.
-Nvidia has its own earnings report coming on Nov. 17, when Huang, assuming he sticks with the typical format, will face questions from analysts. And then there's the Anthropic initial public offering, which is critical for Nvidia as it's both an investor in the Claude creator and counts the AI lab as a significant customer.
-A couple of weeks after earnings, Nvidia is hosting a large conference in Washington, D.C., where Huang is scheduled to give the keynote on Dec. 1.
-Bullish investors and analysts can still point to the insatiable demand for Nvidia's technology. The company recently projected 70% sales growth in its upcoming fiscal year. Analysts polled by FactSet expect nearly $694 billion in fiscal 2028 sales.
-"We believe demand for the company's products seems unlikely to be affected," Rasgon wrote. "But it seems plausible to postulate increased risks (regulatory etc.) as AI buildouts become an increasingly political issue."
-— CNBC's Seema Mody, Katie Tarasov, Ashley Capoot and MacKenzie Sigalos contributed reporting to this report.`,
-    bodyJa: `Nvidia CEO Jensen Huang's close ties to the U.S. government were already poised to loosen with Democrats winning control of Congress and promising far more oversight of AI development than what the chip giant has experienced under Republican leadership.
-That was before Huang admitted on Sunday to having an extramarital affair with a businesswoman who intelligence agencies say is a Chinese spy. The woman, Alice Huang, is affiliated with an Nvidia customer called Megaspeed that's been accused of helping restricted Chinese companies acquire Nvidia's artificial intelligence chips.
-Huang apologized to staffers in a note on Sunday for being "unfaithful to my wife," and said the company's board was investigating any related national security concerns. Nvidia's board said it has "confidence in Jensen," who co-founded the company in 1993 and has led it ever since, building a net worth of more than $150 billion in the process.
-Even before last week's midterm elections, which saw Democrats win sweeping majorities in the House and Senate, vocal party leaders wanted answers from Huang about China's access to advanced Nvidia chips and his company's lobbying for favorable legislation. Sen. Elizabeth Warren of Massachusetts said days before the election, when the spy story was first surfacing, that "we must pass bipartisan legislation to keep our advanced AI technology out of China's hands." Months before that, in June, Huang declined an invitation from Warren to testify before the Senate Banking Committee.
-With Democrats about to take the gavel, Delaware Sen. Chris Coons, who is in line to chair the Senate Foreign Relations Committee, wrote on X on Saturday that "Congress will investigate and get answers," following the allegations that appeared in a New York Times report Friday.
-It's a sharp reversal for Huang, who gained first-name status with President Donald Trump and has been closely allied with the administration in trying to limit AI regulation. Nvidia shares plunged 12% in the two days after the election, pacing a drop in AI-related stocks, on fears that incoming lawmakers, at the federal and state levels, and a host of newly passed ballot measures will slow the buildout and halt the AI boom.
-Huang is a singular voice in the AI industry, as his company's technology is used to train nearly all major AI models. He's also turned Nvidia into an essential source of financing for AI startups, and pulled together some of the biggest names on Wall Street into a group that announced plans in August to raise $500 billion for investing in the buildout.
-At Nvidia, Huang is the sole public face of the company and has no clear second-in-command. He decides which projects are a strategic priority, and frequently sends short emails to individual engineers about details. Huang has said he has 60 direct reports and reviews every employee's salary. Meanwhile, he packs his calendar with meetings with world leaders and CEOs, alongside keynote speeches at conferences and trade shows.
-"Nvidia is not an ordinary company and Jensen is not an ordinary CEO; he IS Nvidia," Bernstein analyst Stacy Rasgon wrote in a note on Sunday, adding that it's not clear who would succeed him.
-Patrick Moorhead, CEO at Moor Insights & Strategy, said in an email that "Jensen holding so much power is why Nvidia moves faster than anyone."
-Change is on the way
-Unlike many of his tech peers, Huang is not chairman of the board. Rather, he's one of 11 board members, and there's no designated chair.
-One investor close to Huang told CNBC that, depending on what the board's investigation finds, he could foresee Huang taking a leave of absence.
-"Today's news will not slow Nvidia," a company spokesperson said in a statement. "Jensen is committed to continuing to lead Nvidia as CEO without interruption."
-But scrutiny of Nvidia is set to intensify on Wall Street and in Washington, where Huang's level of influence is almost certain to change.
-He has been a major advocate for more chip exports to China, arguing that it's better for AI labs there to build on American technology than to encourage the development of domestic alternatives. Huang joined Trump on Air Force One in May on a China trip that's now raised additional questions about what the administration and Huang knew about Chinese spying at the time.
-One question Democrats are likely to probe is whether the Trump administration was aware of Huang's relationship with the alleged Chinese spy, and whether the Nvidia CEO influenced American policy, said Sam Bresnick, a research fellow at the Center for Security and Emerging Technology.
-"That is going to be very high up on the Democrats' lists of people to investigate to try to figure out to what extent was the Trump administration aware of what was going on," Bresnick said.
-But pressure isn't just coming from Democrats. House Republican leaders have already asked Huang for a closed-door briefing on Chinese spying issues later this month.
-Trump has continued to back Huang, telling reporters on Sunday that he's an "honorable guy" and has "done an amazing job for our country."
-"I think he probably has an excuse for it," Trump said of the incident.
-Critical time on Wall Street
-Amid all the noise about the election results and the spying revelations, Nvidia is facing a crucial stretch on the markets.
-Neoclouds CoreWeave and Nebius, which are both backed by Nvidia and are big buyers of its chips, are scheduled to report earnings this week after their stocks lost roughly half their value over the past month. Investors are particularly concerned about their hefty debt loads and how they'll continue to fund their buildouts with interest rates rising and lenders turning skittish.
-Nvidia has its own earnings report coming on Nov. 17, when Huang, assuming he sticks with the typical format, will face questions from analysts. And then there's the Anthropic initial public offering, which is critical for Nvidia as it's both an investor in the Claude creator and counts the AI lab as a significant customer.
-A couple of weeks after earnings, Nvidia is hosting a large conference in Washington, D.C., where Huang is scheduled to give the keynote on Dec. 1.
-Bullish investors and analysts can still point to the insatiable demand for Nvidia's technology. The company recently projected 70% sales growth in its upcoming fiscal year. Analysts polled by FactSet expect nearly $694 billion in fiscal 2028 sales.
-"We believe demand for the company's products seems unlikely to be affected," Rasgon wrote. "But it seems plausible to postulate increased risks (regulatory etc.) as AI buildouts become an increasingly political issue."
-— CNBC's Seema Mody, Katie Tarasov, Ashley Capoot and MacKenzie Sigalos contributed reporting to this report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-affair-congress-scrutiny.html",
-    publishedAt: "2026-11-09T15:49:30+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "what-we-know-so-far-about-jensen-huang-s-a9649874",
-    title: "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-    titleJa: "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-    summaryJa: "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-    bodyOriginal: `What we know so far about Jensen Huang's affair with suspected Chinese spy
-- Published
-One of the Artificial Intelligence (AI) industry's most important figures has been accused of having an affair with a suspected Chinese spy, prompting an investigation.
-US intelligence officials believed that Chinese businesswoman Alice Huang, who had a close relationship with Nvidia CEO and co-founder Jensen Huang, was a spy for Beijing, according to a New York Times report.
-On Sunday, Huang admitted, external to having been "unfaithful" to his wife and apologised for hurting her and their children.
-US tech giant Nvidia, one of the most valuable companies in the world, has opened an independent investigation into the reports. The firm said it does not believe US national security had been compromised - and added that Huang was committed to continuing to lead the company.
-Here is what we know about the affair and why it matters.
-Who is Alice Huang and what do we know about the affair?
-US officials believed that Alice Huang had been recruited to spy by China's top intelligence agency, the New York Times reported, external. Her current whereabouts are unknown.
-Alice Huang, who is of no relation to Jensen Huang, was a top executive at Singapore-based data centre firm Megaspeed between March and November 2023. The firm had been suspected of helping divert Nvidia chips to China, a concern that Nvidia maintains was investigated and debunked.
-However, the BBC understands Megaspeed is under investigation by the Singapore government regarding previous allegations that the company was circumventing US sanctions on the export of Nvidia's high-end chips. The BBC has contacted Megaspeed for comment.
-The company told the New York Times last month its current leadership took the allegations seriously and had appointed external legal advisers to conduct an internal investigation.
-Surveillance reportedly revealed communications between Alice Huang and an American citizen, who was subsequently identified as Jensen Huang through a process known as "unmasking".
-It remains unclear what, if any, intelligence Alice Huang – who is also known as Huang Le – allegedly gathered and passed to Beijing. She did not respond to the paper's request for comment.
-When the BBC asked Nvidia if the company was aware of intelligence concerns, the company said it was not.
-"We trust that if we were the target of a genuine threat, the US government would have notified us," an Nvidia spokesperson told the BBC.
-China has rejected the spying allegations.
-Foreign Ministry spokesperson Guo Jiakun told reporters on Monday at a regular daily press briefing: "We have already responded to this. The allegations about Chinese spies are entirely groundless, speculative and intended to smear and malign China."
-The New York Times reported in late October that Trump had been briefed last year on intelligence alleging Alice Huang was spying on China's behalf.
-Asked by reporters on Sunday whether he wished he had "acted on the intelligence", Trump responded: "No, I don't think so. I think he's an honourable guy."
-US Secretary of State Marco Rubio, meanwhile, refused to comment when asked about Huang. Last spring, the secretary of state reportedly oversaw the drafting of a memo that warned the Trump administration about Huang's relationship with the Chinese businesswoman, according to the New York Times.
-Why does it matter?
-Nvidia is at the heart of US and China's AI race, which is why the billionaire's affair has sparked national security fears among American lawmakers.
-Trump has said "whoever wins AI wins", and the fear is that if China gains the upper hand in AI, it will supercharge the country's military and surveillance capabilities.
-The US advantage is in large part because of US companies like Nvidia, working with producers like the Taiwan Semiconductor Manufacturing Company (TSMC), which makes more than 90% of the world's most advanced chips.
-Since 2022, the US has used various export controls to keep the top tech out of China, which it says helps retain America's competitive edge and protects its national security.
-This means companies like Nvidia have been largely locked out of the world's most lucrative market, with Huang once saying that Nvidia's share of the Chinese market had gone from around 95% to effectively zero.
-Huang has engaged in shuttle diplomacy between Washington and Beijing, hoping to find a US-approved way back in, and shaping US policy on China along the way.
-Sunday's revelations may explain why Huang has failed to bring home the biggest prize of all to Nvidia: the Trump administration's blessing to sell all but its most advanced chips to China.
-Who is Jensen Huang?
-Born in Taiwan in 1963, Huang was nine years old when his family moved to the West Coast of the US. He graduated as an electrical engineer from Oregon State University, and then with a master's degree in the same field from Stanford University.
-Huang then worked at US chip firm AMD before co-founding Nvidia. Known as "Daddy Huang" in Taiwan and once lauded as the "Taylor Swift of tech", he has a reputation as a workaholic and perfectionist with incredibly high standards for his staff.
-He has an estimated fortune of $155bn (£115bn), according to the Bloomberg Billionaires Index.
-"Jensen Huang is a tech visionary of the likes of Steve Jobs," Stephen Witt, the author of Thinking Machine, a biography on Huang, told the BBC, adding that he was responsible for creating AI hardware as we know it today.
-Huang has a famously close relationship with Trump. At the recent AI summit at the White House, where 42 tech executives were present, the president was flanked by Elon Musk and Huang.
-Trump said he had not spoken to the Nvidia boss since news of the investigation emerged.
-"I just know he's a fine person, but you never know what's going on," Trump told reporters, adding that he had "done an amazing job for our country".
-What is Nvidia and how important is it?
-Founded by Huang and fellow electrical engineers Chris Malachowsky and Curtis Priem in 1993, the company was originally known for chips that process graphics, particularly for computer games.
-Eventually it changed focus to AI, a field it now dominates.
-Huang rescued Nvidia from bankruptcy on more than one occasion, and took risks on AI a long time before the rest of the world did, effectively building the infrastructure from scratch.
-"Today when we think of that, we think of these giant data centres - none of that existed. There were no customers for the stuff he was building. In fact his first customer was Open AI at the time they had 30 people - he actually gave it to them, he donated it to them," Witt told the BBC.
-Every notable tech company building AI tools and infrastructure, including Amazon, Meta, Google, and Microsoft, now use Nvidia chips.
-Currently worth $4.5tn (£3.4tn), Nvidia is one of the most valuable companies ever.
-For now, the firm's board appears to have little appetite for removing Huang, saying in a statement on Sunday that they have "confidence in Jensen and his leadership team".
-Sources tell the BBC his removal is unlikely because there is so much money at stake.
-There is no public succession plan for the 63-year-old. He has often said he hopes to continue in the role for decades, and Bloomberg reports he has created an informal leadership structure around him unlike a traditional company's hierarchy.
-His children, Spencer and Madison, and son-in-law Nico Caprez work at Nvidia in senior roles.
-Who is Jensen Huang's wife?
-Huang met his future wife Lori Mills at Oregon State University while studying electrical engineering in the early 1980s. The pair were lab partners.
-They married in 1985, about eight years before he co-founded Nvidia, and have two children, Madison and Spencer.
-In 2007, the couple founded the Jen-Hsun and Lori Huang Foundation. The charitable fund has seen its assets surge in recent years, driven by the soaring value of Nvidia shares, and is estimated to be worth more than $9bn.
-Its donations include tens of millions of dollars to engineering programmes at Oregon State and Stanford University.
-Witt told the BBC that Huang has gone to great lengths to present himself as a family man, adding: "That's very important to him".
-"He praises his wife, he talks about her in very glowing ways," he added. "The fallout of this would be bad for anyone's family. But for someone who has gone to such great lengths to cultivate an image of being a family guy and who keeps his children very close, it is very bad."
-Additional reporting by Tom McArthur in London, Ayeshea Perera and Tessa Wong in Singapore and Helen Davidson in Sydney
-- Published21 September`,
-    bodyJa: `What we know so far about Jensen Huang's affair with suspected Chinese spy
-- Published
-One of the Artificial Intelligence (AI) industry's most important figures has been accused of having an affair with a suspected Chinese spy, prompting an investigation.
-US intelligence officials believed that Chinese businesswoman Alice Huang, who had a close relationship with Nvidia CEO and co-founder Jensen Huang, was a spy for Beijing, according to a New York Times report.
-On Sunday, Huang admitted, external to having been "unfaithful" to his wife and apologised for hurting her and their children.
-US tech giant Nvidia, one of the most valuable companies in the world, has opened an independent investigation into the reports. The firm said it does not believe US national security had been compromised - and added that Huang was committed to continuing to lead the company.
-Here is what we know about the affair and why it matters.
-Who is Alice Huang and what do we know about the affair?
-US officials believed that Alice Huang had been recruited to spy by China's top intelligence agency, the New York Times reported, external. Her current whereabouts are unknown.
-Alice Huang, who is of no relation to Jensen Huang, was a top executive at Singapore-based data centre firm Megaspeed between March and November 2023. The firm had been suspected of helping divert Nvidia chips to China, a concern that Nvidia maintains was investigated and debunked.
-However, the BBC understands Megaspeed is under investigation by the Singapore government regarding previous allegations that the company was circumventing US sanctions on the export of Nvidia's high-end chips. The BBC has contacted Megaspeed for comment.
-The company told the New York Times last month its current leadership took the allegations seriously and had appointed external legal advisers to conduct an internal investigation.
-Surveillance reportedly revealed communications between Alice Huang and an American citizen, who was subsequently identified as Jensen Huang through a process known as "unmasking".
-It remains unclear what, if any, intelligence Alice Huang – who is also known as Huang Le – allegedly gathered and passed to Beijing. She did not respond to the paper's request for comment.
-When the BBC asked Nvidia if the company was aware of intelligence concerns, the company said it was not.
-"We trust that if we were the target of a genuine threat, the US government would have notified us," an Nvidia spokesperson told the BBC.
-China has rejected the spying allegations.
-Foreign Ministry spokesperson Guo Jiakun told reporters on Monday at a regular daily press briefing: "We have already responded to this. The allegations about Chinese spies are entirely groundless, speculative and intended to smear and malign China."
-The New York Times reported in late October that Trump had been briefed last year on intelligence alleging Alice Huang was spying on China's behalf.
-Asked by reporters on Sunday whether he wished he had "acted on the intelligence", Trump responded: "No, I don't think so. I think he's an honourable guy."
-US Secretary of State Marco Rubio, meanwhile, refused to comment when asked about Huang. Last spring, the secretary of state reportedly oversaw the drafting of a memo that warned the Trump administration about Huang's relationship with the Chinese businesswoman, according to the New York Times.
-Why does it matter?
-Nvidia is at the heart of US and China's AI race, which is why the billionaire's affair has sparked national security fears among American lawmakers.
-Trump has said "whoever wins AI wins", and the fear is that if China gains the upper hand in AI, it will supercharge the country's military and surveillance capabilities.
-The US advantage is in large part because of US companies like Nvidia, working with producers like the Taiwan Semiconductor Manufacturing Company (TSMC), which makes more than 90% of the world's most advanced chips.
-Since 2022, the US has used various export controls to keep the top tech out of China, which it says helps retain America's competitive edge and protects its national security.
-This means companies like Nvidia have been largely locked out of the world's most lucrative market, with Huang once saying that Nvidia's share of the Chinese market had gone from around 95% to effectively zero.
-Huang has engaged in shuttle diplomacy between Washington and Beijing, hoping to find a US-approved way back in, and shaping US policy on China along the way.
-Sunday's revelations may explain why Huang has failed to bring home the biggest prize of all to Nvidia: the Trump administration's blessing to sell all but its most advanced chips to China.
-Who is Jensen Huang?
-Born in Taiwan in 1963, Huang was nine years old when his family moved to the West Coast of the US. He graduated as an electrical engineer from Oregon State University, and then with a master's degree in the same field from Stanford University.
-Huang then worked at US chip firm AMD before co-founding Nvidia. Known as "Daddy Huang" in Taiwan and once lauded as the "Taylor Swift of tech", he has a reputation as a workaholic and perfectionist with incredibly high standards for his staff.
-He has an estimated fortune of $155bn (£115bn), according to the Bloomberg Billionaires Index.
-"Jensen Huang is a tech visionary of the likes of Steve Jobs," Stephen Witt, the author of Thinking Machine, a biography on Huang, told the BBC, adding that he was responsible for creating AI hardware as we know it today.
-Huang has a famously close relationship with Trump. At the recent AI summit at the White House, where 42 tech executives were present, the president was flanked by Elon Musk and Huang.
-Trump said he had not spoken to the Nvidia boss since news of the investigation emerged.
-"I just know he's a fine person, but you never know what's going on," Trump told reporters, adding that he had "done an amazing job for our country".
-What is Nvidia and how important is it?
-Founded by Huang and fellow electrical engineers Chris Malachowsky and Curtis Priem in 1993, the company was originally known for chips that process graphics, particularly for computer games.
-Eventually it changed focus to AI, a field it now dominates.
-Huang rescued Nvidia from bankruptcy on more than one occasion, and took risks on AI a long time before the rest of the world did, effectively building the infrastructure from scratch.
-"Today when we think of that, we think of these giant data centres - none of that existed. There were no customers for the stuff he was building. In fact his first customer was Open AI at the time they had 30 people - he actually gave it to them, he donated it to them," Witt told the BBC.
-Every notable tech company building AI tools and infrastructure, including Amazon, Meta, Google, and Microsoft, now use Nvidia chips.
-Currently worth $4.5tn (£3.4tn), Nvidia is one of the most valuable companies ever.
-For now, the firm's board appears to have little appetite for removing Huang, saying in a statement on Sunday that they have "confidence in Jensen and his leadership team".
-Sources tell the BBC his removal is unlikely because there is so much money at stake.
-There is no public succession plan for the 63-year-old. He has often said he hopes to continue in the role for decades, and Bloomberg reports he has created an informal leadership structure around him unlike a traditional company's hierarchy.
-His children, Spencer and Madison, and son-in-law Nico Caprez work at Nvidia in senior roles.
-Who is Jensen Huang's wife?
-Huang met his future wife Lori Mills at Oregon State University while studying electrical engineering in the early 1980s. The pair were lab partners.
-They married in 1985, about eight years before he co-founded Nvidia, and have two children, Madison and Spencer.
-In 2007, the couple founded the Jen-Hsun and Lori Huang Foundation. The charitable fund has seen its assets surge in recent years, driven by the soaring value of Nvidia shares, and is estimated to be worth more than $9bn.
-Its donations include tens of millions of dollars to engineering programmes at Oregon State and Stanford University.
-Witt told the BBC that Huang has gone to great lengths to present himself as a family man, adding: "That's very important to him".
-"He praises his wife, he talks about her in very glowing ways," he added. "The fallout of this would be bad for anyone's family. But for someone who has gone to such great lengths to cultivate an image of being a family guy and who keeps his children very close, it is very bad."
-Additional reporting by Tom McArthur in London, Ayeshea Perera and Tessa Wong in Singapore and Helen Davidson in Sydney
-- Published21 September`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-09T15:46:20+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
-    readTime: 10,
-  },
-  {
-    id: "trump-questions-midterm-election-results-eb821882",
-    title: "Trump questions midterm election results, revives voting-machine conspiracy",
-    titleJa: "Trump questions midterm election results, revives voting-machine conspiracy",
-    summaryJa: "President Trump's questioning of the legitimacy of his loss in the 2020 election culminated with an attack on the U.S. Capitol by a mob of his supporters.",
-    bodyOriginal: `President Donald Trump on Monday questioned the legitimacy of the midterm election results, resurrecting his pattern of raising doubts about electoral losses for himself and other Republicans.
-Trump's social media post raising questions about the election came six days after his fellow Republicans suffered historic defeats at the polls nationwide, including in several GOP strongholds like Texas and South Carolina.
-"Does anybody really believe that this 'Election' was honest," Trump wrote on Truth Social.
-"How could the Polls be so wrong??? Some early voting 'dumps' were so large that it was impossible to win, no matter how many people went to vote," the president said. "It's all about the machines, which are far more important than the voter!"
-Trump's post was a sharp pivot from what has been a somewhat conciliatory tone after last Tuesday's thumping of Republican candidates.
-"I'll get along probably with the Democrats unless they want to be destructive," Trump said a day after the election.
-After his electoral loss to former President Joe Biden in 2020, Trump argued, without evidence, that he only lost as a result of widespread ballot fraud.
-Trump's claims, which were joined by dozens of unsuccessful court cases challenging election procedures, culminated in the Jan. 6, 2021, attack on the U.S. Capitol by a mob of his supporters after he spoke at a rally outside the White House.
-The riot disrupted a joint session of Congress for hours. Later that day, Congress confirmed Biden's election by the Electoral College.
-Critics of Trump's conspiracy theories about elections have noted that he lost the 2020 race when he was president, but won the 2024 presidential election, when Biden was in the White House.
-They also noted that in the past week, Republicans had control of states that saw major Democratic wins that few analysts would have predicted a year ago, including Texas, Kansas, South Carolina, and Iowa.`,
-    bodyJa: `President Donald Trump on Monday questioned the legitimacy of the midterm election results, resurrecting his pattern of raising doubts about electoral losses for himself and other Republicans.
-Trump's social media post raising questions about the election came six days after his fellow Republicans suffered historic defeats at the polls nationwide, including in several GOP strongholds like Texas and South Carolina.
-"Does anybody really believe that this 'Election' was honest," Trump wrote on Truth Social.
-"How could the Polls be so wrong??? Some early voting 'dumps' were so large that it was impossible to win, no matter how many people went to vote," the president said. "It's all about the machines, which are far more important than the voter!"
-Trump's post was a sharp pivot from what has been a somewhat conciliatory tone after last Tuesday's thumping of Republican candidates.
-"I'll get along probably with the Democrats unless they want to be destructive," Trump said a day after the election.
-After his electoral loss to former President Joe Biden in 2020, Trump argued, without evidence, that he only lost as a result of widespread ballot fraud.
-Trump's claims, which were joined by dozens of unsuccessful court cases challenging election procedures, culminated in the Jan. 6, 2021, attack on the U.S. Capitol by a mob of his supporters after he spoke at a rally outside the White House.
-The riot disrupted a joint session of Congress for hours. Later that day, Congress confirmed Biden's election by the Electoral College.
-Critics of Trump's conspiracy theories about elections have noted that he lost the 2020 race when he was president, but won the 2024 presidential election, when Biden was in the White House.
-They also noted that in the past week, Republicans had control of states that saw major Democratic wins that few analysts would have predicted a year ago, including Texas, Kansas, South Carolina, and Iowa.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
-    publishedAt: "2026-11-09T15:44:09+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "civil-servant-who-juggled-five-jobs-foun-c49bbdf3",
-    title: "Civil servant who juggled five jobs found guilty of fraud",
-    titleJa: "Civil servant who juggled five jobs found guilty of fraud",
-    summaryJa: "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
-    bodyOriginal: `Civil servant who juggled five jobs found guilty of fraud
-- Published
-A civil servant who secretly held multiple public sector jobs on full-time salaries has been found guilty of nine counts of fraud.
-Kashim Chowdhury, from east London, had five government jobs that overlapped in the spring of 2023. He fraudulently earned more than £284,000 of taxpayers' money.
-The prosecution accused the 56-year-old of ''deliberate, intentional dishonesty'' and of ''exploiting the system''.
-After seven hours of deliberation, the jury unanimously found Chowdhury guilty of eight counts of fraud by false representation and one count of fraud by a failure to disclose.
-Between 2020 and 2023 Kashim Chowdhury had eight full-time public sector roles that overlapped and earned him £350,000 in total.
-The prosecution told the court that on application forms he provided inaccurate information about his employment status and failed to disclose to government departments that he was already a civil servant. Once he secured the roles he didn't tell his employers he was working elsewhere.
-He was allowed to work entirely from home because he told his employers he was caring for his mother, whom he lived with in east London. She had dementia and was diagnosed with terminal cancer in 2023.
-But rather than reduce his workload to look after her, he kept taking on new jobs. In the spring of 2023, when his mother was a few months away from death, he had jobs at the Department for Environment, Food and Rural Affairs, the Department of Health and Social Care, the UK Health Security Agency (UKHSA), the Department for Business and Trade, the Food Standards Agency and the Home Office.
-During this period he was contracted to work 183 hours a week - more than the number of hours that exist in seven days.
-Chowdhury said he had taken on so many roles because he feared losing his livelihood after experiencing insecure employment in the past. He was made redundant from a job at the Department for Education in 2013 and was given a diagnosis of PTSD.
-He said he had not been thinking clearly when applying for jobs ''because of my stress, distress and trauma and due to my panic at the time".
-But the prosecution barrister, Lucy Organ, told the jury: "He's lied to you in evidence, he's lied to you under oath, which demonstrates the level of deceit he has descended to."
-A succession of his managers told the court about his poor performance. Especially damning was the evidence given by Dan McCartney who managed Chowdhury at Defra.
-He said he had to "effectively tell him what to do the whole time". McCartney said that during video calls Chowdhury had his camera switched off blaming technical problems. McCartney said this went on for four to five months.
-But McCartney said that because Chowdhury was not subject to any formal performance measures at Defra, he was given a permanent job and remained there for two years.
-The prosecution argued that he used sick notes to cope with his impossible schedule. In March 2023, he was on sick leave from four of the organisations he worked for. But he kept working at the Home Office and did not tell them he was ill.
-His line manager at the UK Health Security Agency (UKHSA), Aleesha Adams, organised a video call with him in May 2023. By this point he'd been off sick for three months and she wanted to make a plan to get him back to work.
-She told the jury that at the start of the call he was coughing a lot and waving tissues up to the camera. She also told the jury that he had been wearing white make-up to try to look ill.
-Adams told the court that as the meeting went on the make-up started coming off his forehead. ''He was sweating, it was like rubbing off so it was darker underneath and darker on the neck."
-Chowdhury told the jury this was a smear and that he had not been wearing make-up.
-After the call, Adams discovered that he had logged into the call using a Defra email address. When she challenged him about it he blamed a technical error.
-Adams grew suspicious. ''I believed he was lying,'' she told the jury. She escalated her concerns up the chain at the UKHSA.
-But his fraudulent behaviour went on for several more months until he left the civil service in September 2023.
-He was finally caught in 2024 by the government's National Fraud Initiative, which conducts searches of civil service databases such as payroll every two years to look for anomalies.`,
-    bodyJa: `Civil servant who juggled five jobs found guilty of fraud
-- Published
-A civil servant who secretly held multiple public sector jobs on full-time salaries has been found guilty of nine counts of fraud.
-Kashim Chowdhury, from east London, had five government jobs that overlapped in the spring of 2023. He fraudulently earned more than £284,000 of taxpayers' money.
-The prosecution accused the 56-year-old of ''deliberate, intentional dishonesty'' and of ''exploiting the system''.
-After seven hours of deliberation, the jury unanimously found Chowdhury guilty of eight counts of fraud by false representation and one count of fraud by a failure to disclose.
-Between 2020 and 2023 Kashim Chowdhury had eight full-time public sector roles that overlapped and earned him £350,000 in total.
-The prosecution told the court that on application forms he provided inaccurate information about his employment status and failed to disclose to government departments that he was already a civil servant. Once he secured the roles he didn't tell his employers he was working elsewhere.
-He was allowed to work entirely from home because he told his employers he was caring for his mother, whom he lived with in east London. She had dementia and was diagnosed with terminal cancer in 2023.
-But rather than reduce his workload to look after her, he kept taking on new jobs. In the spring of 2023, when his mother was a few months away from death, he had jobs at the Department for Environment, Food and Rural Affairs, the Department of Health and Social Care, the UK Health Security Agency (UKHSA), the Department for Business and Trade, the Food Standards Agency and the Home Office.
-During this period he was contracted to work 183 hours a week - more than the number of hours that exist in seven days.
-Chowdhury said he had taken on so many roles because he feared losing his livelihood after experiencing insecure employment in the past. He was made redundant from a job at the Department for Education in 2013 and was given a diagnosis of PTSD.
-He said he had not been thinking clearly when applying for jobs ''because of my stress, distress and trauma and due to my panic at the time".
-But the prosecution barrister, Lucy Organ, told the jury: "He's lied to you in evidence, he's lied to you under oath, which demonstrates the level of deceit he has descended to."
-A succession of his managers told the court about his poor performance. Especially damning was the evidence given by Dan McCartney who managed Chowdhury at Defra.
-He said he had to "effectively tell him what to do the whole time". McCartney said that during video calls Chowdhury had his camera switched off blaming technical problems. McCartney said this went on for four to five months.
-But McCartney said that because Chowdhury was not subject to any formal performance measures at Defra, he was given a permanent job and remained there for two years.
-The prosecution argued that he used sick notes to cope with his impossible schedule. In March 2023, he was on sick leave from four of the organisations he worked for. But he kept working at the Home Office and did not tell them he was ill.
-His line manager at the UK Health Security Agency (UKHSA), Aleesha Adams, organised a video call with him in May 2023. By this point he'd been off sick for three months and she wanted to make a plan to get him back to work.
-She told the jury that at the start of the call he was coughing a lot and waving tissues up to the camera. She also told the jury that he had been wearing white make-up to try to look ill.
-Adams told the court that as the meeting went on the make-up started coming off his forehead. ''He was sweating, it was like rubbing off so it was darker underneath and darker on the neck."
-Chowdhury told the jury this was a smear and that he had not been wearing make-up.
-After the call, Adams discovered that he had logged into the call using a Defra email address. When she challenged him about it he blamed a technical error.
-Adams grew suspicious. ''I believed he was lying,'' she told the jury. She escalated her concerns up the chain at the UKHSA.
-But his fraudulent behaviour went on for several more months until he left the civil service in September 2023.
-He was finally caught in 2024 by the government's National Fraud Initiative, which conducts searches of civil service databases such as payroll every two years to look for anomalies.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-09T15:33:35+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1641/live/c3324b50-d6f9-11f1-b983-c357054e4d1e.jpg",
-    readTime: 10,
-  },
-  {
-    id: "home-listings-pile-up-in-october-but-sel-bc75a143",
-    title: "Home listings pile up in October, but sellers won't slash prices",
-    titleJa: "Home listings pile up in October, but sellers won't slash prices",
-    summaryJa: "After a rough month in September, the housing market remained in a deep freeze in October as listings piled up. Sellers are still reluctant to cut prices.",
-    bodyOriginal: `Homebuyers continue to retreat, but sellers are still digging in, refusing to cut prices or give up. As a result, September's frozen housing market is now October's frozen and increasingly bloated market.
-Active inventory in October hit 183,500 homes, up 7.4% year-over-year, according to Realtor.com. That is the fastest annual growth in eight months. Active listings have been rising each month since February. This is despite the fact that new listings are actually falling, down 7.5% from October 2025.
-The market has seen several years of extremely lean supply, driven by the homebuying frenzy during the first two years of the pandemic, when mortgage rates hit more than a dozen record lows. Now supply nationally is just 6.6% below typical pre-pandemic levels, the narrowest gap since the pandemic.
-"The market is cooling on both sides, but in different ways. Buyers are stepping back as higher mortgage rates cut into their buying power, while sellers are listing less often without a broad increase in delistings or price cuts," said Danielle Hale, chief economist at Realtor.com. "We're seeing a pause in new supply, but owners who already have homes on the market appear to be largely unphased."
-Just over 20% of sellers cut prices in October, about the same as both September and October of last year. There was also no meaningful increase in delistings by sellers.
-Mortgage rates came down a little bit in October month-to-month, but they are still over a full percentage point higher than a year ago. That continued to weigh on sales. Newly pending sales, representing signed contracts, not closings, dropped 16.8% in October year-over-year, according to Zillow. That was the biggest annual drop since August 2023 and slowest October since 2018.
-While rates fell slightly, home prices continued to gain. Zillow estimated the monthly mortgage payment on the typical U.S. home was $2,004 in October, assuming a 20% down payment and excluding taxes and insurance. That is an increase of 12.8% from last year and 4.8% higher than in September, the biggest one-month jump in four years.
-"November is shaping up to have an even larger contraction, but the silver lining is that next month is likely going to be the worst of it," said Mischa Fisher, Zillow's chief economist, in a release. "I expect the pace of the slowdown to ease into the new year. There are deals to be had for buyers able to brave the affordability headwinds in the coming months, and the continued inventory buildup means there is a lot of upside for sales into next year if we get rate relief."`,
-    bodyJa: `Homebuyers continue to retreat, but sellers are still digging in, refusing to cut prices or give up. As a result, September's frozen housing market is now October's frozen and increasingly bloated market.
-Active inventory in October hit 183,500 homes, up 7.4% year-over-year, according to Realtor.com. That is the fastest annual growth in eight months. Active listings have been rising each month since February. This is despite the fact that new listings are actually falling, down 7.5% from October 2025.
-The market has seen several years of extremely lean supply, driven by the homebuying frenzy during the first two years of the pandemic, when mortgage rates hit more than a dozen record lows. Now supply nationally is just 6.6% below typical pre-pandemic levels, the narrowest gap since the pandemic.
-"The market is cooling on both sides, but in different ways. Buyers are stepping back as higher mortgage rates cut into their buying power, while sellers are listing less often without a broad increase in delistings or price cuts," said Danielle Hale, chief economist at Realtor.com. "We're seeing a pause in new supply, but owners who already have homes on the market appear to be largely unphased."
-Just over 20% of sellers cut prices in October, about the same as both September and October of last year. There was also no meaningful increase in delistings by sellers.
-Mortgage rates came down a little bit in October month-to-month, but they are still over a full percentage point higher than a year ago. That continued to weigh on sales. Newly pending sales, representing signed contracts, not closings, dropped 16.8% in October year-over-year, according to Zillow. That was the biggest annual drop since August 2023 and slowest October since 2018.
-While rates fell slightly, home prices continued to gain. Zillow estimated the monthly mortgage payment on the typical U.S. home was $2,004 in October, assuming a 20% down payment and excluding taxes and insurance. That is an increase of 12.8% from last year and 4.8% higher than in September, the biggest one-month jump in four years.
-"November is shaping up to have an even larger contraction, but the silver lining is that next month is likely going to be the worst of it," said Mischa Fisher, Zillow's chief economist, in a release. "I expect the pace of the slowdown to ease into the new year. There are deals to be had for buyers able to brave the affordability headwinds in the coming months, and the continued inventory buildup means there is a lot of upside for sales into next year if we get rate relief."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/09/home-listings-pile-up-in-october-but-sellers-wont-slash-prices.html",
-    publishedAt: "2026-11-09T13:54:29+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "government-s-ev-targets-expected-to-be-r-9d9e37e8",
-    title: "Government's EV targets expected to be reduced this week",
-    titleJa: "Government's EV targets expected to be reduced this week",
-    summaryJa: "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
-    bodyOriginal: `Government's EV targets expected to be reduced this week
-- Published
-The UK government's electric vehicle (EV) targets are expected to be reduced this week in a move likely to be welcomed by carmakers but opposed by environmental groups.
-Under the current rules, 80% of new cars sold in the UK must be electric by 2030 but industry groups have long called for "urgent relief".
-New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.
-But the speed of the transition to electric has been hotly debated, including within the cabinet.
-The government has been consulting on reducing its 80% rule and a significant reduction is now expected.
-Downing Street has insisted no decision has been made.
-A government source told the BBC it would approach the issue in a "pragmatic and balanced" way.
-If ministers do decide on a steeper watering-down of the rules, it will arguably be interpreted by some - alongside the approval of the Jackdaw gas field in the North Sea - as the government prioritising economic considerations over environmental ones.
-Prime Minister Andy Burnham has recused himself from this issue due to his wife's links to an electric vehicle company.
-The key meetings on the subject will instead be chaired by Cabinet Office minister Louise Haigh.
-Asked about reports the targets would be reduced, Burnham dismissed this as "speculation", adding: "No decision has been made at this point."
-Sustainability groups say any weakening of the 2030 target will threaten the UK's long-term electrification and climate goals.
-It could undermine the UK's claim to be providing leadership on climate just as ministers head to Turkey for COP31, the UN's climate summit.
-Energy UK, the trade association for the energy industry, has also opposed the move.
-Last month, it said, external reducing targets could damage "the investment certainty needed to deliver the infrastructure, innovation and services required for the transition to zero-emission transport".
-Asked if climate change was no longer a big priority, Health Minister Karin Smyth said the government was committed to its emissions targets.
-"This country is doing great work in terms of our transition and looking at renewables – that's a key part of growth in different parts of the country," she told BBC Breakfast.
-She added that the prime minister would have "a good story to tell" when meeting other leaders at COP31.
-A government spokesperson said: "We are committed to the phase out of all new cars relying solely on petrol and diesel engines by 2030, and to 100% of new car and van sales being zero emission by 2035, and our legally binding net zero targets."
-The Society of Motor Manufacturers and Traders welcomed the government's review of the EV targets when it was announced in the summer.
-Last week, head of the association Mike Hawes said transitioning to electric vehicles had come at a "heavy cost" with billions spent on discounts to drive demand in electric vehicles.
-He said the government's targets could not be achieved "without putting at risk any future investment".
-UK electric car sales target set to be weakened
-- Published14 June
-EU waters down plans to end new petrol and diesel car sales by 2035
-- Published16 December 2025
-Net zero means balancing the amount of planet-warming "greenhouse" gases produced by human activities with the amount being actively removed from the atmosphere.
-The government's policy to phase out petrol and diesel vehicle sales has undergone multiple changes since it was first introduced by former Prime Minister Boris Johnson in 2020.
-His successor Rishi Sunak pushed back the timeline to 2035, and the Burnham government set up a review of the EV sales targets in August.
-Sunak introduced phased targets for EV sales in the UK, known as the Zero Emission Vehicles (ZEV) mandate.
-Under the ZEV mandate, the percentage of new car sales that need to be EVs increases each year. The target was 28% for 2025, 33% for 2026, and so on until it reaches 80% by 2030.
-Pressure in the European Union saw the bloc scrap a similar plan to ban new petrol and diesel car sales by 2035, particularly from countries with large auto industries such as Germany.
-The Conservative Party has also vowed to abandon the petrol car ban if it wins the next election, with leader Kemi Badenoch calling it a "well-meaning, but ultimately destructive piece of legislation".
-Green Party leader Zack Polanski said the government was "building up a shocking record of backsliding and bad decisions on climate issues".
-Sign up for our Future Earth newsletter to keep up with the latest climate and environment stories with the BBC's Justin Rowlatt. Outside the UK? Sign up to our international newsletter here.`,
-    bodyJa: `Government's EV targets expected to be reduced this week
-- Published
-The UK government's electric vehicle (EV) targets are expected to be reduced this week in a move likely to be welcomed by carmakers but opposed by environmental groups.
-Under the current rules, 80% of new cars sold in the UK must be electric by 2030 but industry groups have long called for "urgent relief".
-New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.
-But the speed of the transition to electric has been hotly debated, including within the cabinet.
-The government has been consulting on reducing its 80% rule and a significant reduction is now expected.
-Downing Street has insisted no decision has been made.
-A government source told the BBC it would approach the issue in a "pragmatic and balanced" way.
-If ministers do decide on a steeper watering-down of the rules, it will arguably be interpreted by some - alongside the approval of the Jackdaw gas field in the North Sea - as the government prioritising economic considerations over environmental ones.
-Prime Minister Andy Burnham has recused himself from this issue due to his wife's links to an electric vehicle company.
-The key meetings on the subject will instead be chaired by Cabinet Office minister Louise Haigh.
-Asked about reports the targets would be reduced, Burnham dismissed this as "speculation", adding: "No decision has been made at this point."
-Sustainability groups say any weakening of the 2030 target will threaten the UK's long-term electrification and climate goals.
-It could undermine the UK's claim to be providing leadership on climate just as ministers head to Turkey for COP31, the UN's climate summit.
-Energy UK, the trade association for the energy industry, has also opposed the move.
-Last month, it said, external reducing targets could damage "the investment certainty needed to deliver the infrastructure, innovation and services required for the transition to zero-emission transport".
-Asked if climate change was no longer a big priority, Health Minister Karin Smyth said the government was committed to its emissions targets.
-"This country is doing great work in terms of our transition and looking at renewables – that's a key part of growth in different parts of the country," she told BBC Breakfast.
-She added that the prime minister would have "a good story to tell" when meeting other leaders at COP31.
-A government spokesperson said: "We are committed to the phase out of all new cars relying solely on petrol and diesel engines by 2030, and to 100% of new car and van sales being zero emission by 2035, and our legally binding net zero targets."
-The Society of Motor Manufacturers and Traders welcomed the government's review of the EV targets when it was announced in the summer.
-Last week, head of the association Mike Hawes said transitioning to electric vehicles had come at a "heavy cost" with billions spent on discounts to drive demand in electric vehicles.
-He said the government's targets could not be achieved "without putting at risk any future investment".
-UK electric car sales target set to be weakened
-- Published14 June
-EU waters down plans to end new petrol and diesel car sales by 2035
-- Published16 December 2025
-Net zero means balancing the amount of planet-warming "greenhouse" gases produced by human activities with the amount being actively removed from the atmosphere.
-The government's policy to phase out petrol and diesel vehicle sales has undergone multiple changes since it was first introduced by former Prime Minister Boris Johnson in 2020.
-His successor Rishi Sunak pushed back the timeline to 2035, and the Burnham government set up a review of the EV sales targets in August.
-Sunak introduced phased targets for EV sales in the UK, known as the Zero Emission Vehicles (ZEV) mandate.
-Under the ZEV mandate, the percentage of new car sales that need to be EVs increases each year. The target was 28% for 2025, 33% for 2026, and so on until it reaches 80% by 2030.
-Pressure in the European Union saw the bloc scrap a similar plan to ban new petrol and diesel car sales by 2035, particularly from countries with large auto industries such as Germany.
-The Conservative Party has also vowed to abandon the petrol car ban if it wins the next election, with leader Kemi Badenoch calling it a "well-meaning, but ultimately destructive piece of legislation".
-Green Party leader Zack Polanski said the government was "building up a shocking record of backsliding and bad decisions on climate issues".
-Sign up for our Future Earth newsletter to keep up with the latest climate and environment stories with the BBC's Justin Rowlatt. Outside the UK? Sign up to our international newsletter here.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-09T12:06:22+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b401/live/fd7836e0-dbdf-11f1-b348-cb75a5659779.jpg",
-    readTime: 10,
-  },
-  {
-    id: "congress-returns-with-government-funding-0d05cd59",
-    title: "Congress returns with government funding, Pete Hegseth and the debt limit on the agenda",
-    titleJa: "Congress returns with government funding, Pete Hegseth and the debt limit on the agenda",
-    summaryJa: "Republicans have less than two months left with majorities in both the Senate and the House — and a long list of legislation to take up in the coming weeks.",
-    bodyOriginal: `The House and Senate are due to return to Washington on Monday with a crowded legislative agenda in the final weeks before the end of the 119th Congress.
-Congress will need to act quickly to extend government funding, which expires Dec. 11. Lawmakers will need to pass the National Defense Authorization Act, and they may tackle ambitious proposals including a construction permitting package and a bill to regulate name, image and likeness rules in college sports.
-The work will commence under a new dynamic. Republicans come back to the Capitol diminished after suffering substantial losses in this week's midterms. Democrats swept to a commanding majority in the House with at least 255 seats in the 435-member chamber and could emerge with as many as 56 seats in the Senate.
-With majorities in both chambers looming, Democrats will have little incentive to cut deals with their GOP counterparts.
-Government funding
-The most pressing concern lawmakers will face when they return is funding the government. Current funding expires Dec. 11. Congress must pass another continuing resolution to retain current spending levels or a full-year suite of appropriations bills before then to avoid a government shutdown.
-Appropriations bills and continuing resolutions require bipartisan majorities due to the Senate's 60-vote filibuster threshold. Democrats are unlikely to negotiate a full year of government funding before the new Congress is sworn in, given that they will soon hold commanding majorities in both chambers and can use that to leverage concessions from the White House.
-"This former preschool teacher is going to teach President Trump a simple lesson: The power of the purse belongs to CONGRESS!" Sen. Patty Murray, D-Wash., the presumptive chair of the Appropriations Committee, said in an X post Tuesday as election results rolled in. "It's NOT Trump's money. Taxpayer dollars belong to the American PEOPLE."
-Adding another wrinkle to the funding push is the electoral loss of Sen. Susan Collins, R-Maine, who chairs the Senate Appropriations Committee and is one of the "four corners" of spending talks. Collins lost reelection to Democrat Troy Jackson, ending a five-term career in the Senate.
-Debt ceiling
-Some lawmakers, including Sen. Kevin Cramer, R-N.D., have called for Congress to raise the debt limit before Republicans lose control.
-In September, the federal debt hit $40 trillion for the first time, bumping up against the $41.1 trillion ceiling written into the GOP's 2025 budget reconciliation law known as the "one big beautiful bill."
-The Bipartisan Policy Center, a nonprofit that tracks the debt limit, said Treasury is likely to hit its maximum borrowing capacity by mid-summer. The U.S. may no longer be able to meet all its obligations by November 2027, according to a Bank of America estimate from Nov. 6.
-But Democrats may instead prefer to use the debt limit as a bargaining chip in the next Congress.
-Republicans could theoretically raise the debt ceiling in a budget reconciliation package, as they did with their 2025 law. But cobbling together a post-election coalition to clear another reconciliation bill with exceptionally narrow margins would be difficult. Budget reconciliation, which allows party-line bills to skirt the filibuster in the Senate, requires near-total unity.
-Congressional leadership, particularly on the Republican side, is likely to have difficulty with lawmaker attendance after dozens of members lost their seats in an electoral bloodbath. Leadership will also struggle to whip members into line, especially those who do not have another election to run.
-Energy construction permitting
-Top senators on energy committees struck a deal on a permitting bill before the election. That accord to make construction easier could now be in jeopardy, though the Senate plans to hold a procedural vote to advance it Monday evening, according to a Senate aide familiar with the schedule. The person asked not to be named because the move has not been announced.
-The resounding majorities Democrats won in both the House and Senate may give them incentive to torpedo the permitting deal in hopes of securing a better one later. The deal also may have been in trouble prior to the election, with top Democrats in the House not supporting the version their counterparts in the Senate accepted.
-Politico reported Thursday that Democratic Minority Leader and likely next House Speaker Hakeem Jeffries, D-N.Y., did not support the permitting deal.
-Lawmakers have long sought, and failed to reach, a bipartisan, bicameral deal on permitting reform. Democrats want to speed up the buildout of clean energy. Republicans have long complained that the federal permitting process and environmental laws that comprise it stymie the U.S.'s ability to build critical infrastructure.
-Defense spending
-The House passed a version of the NDAA, which would authorize more than $1 trillion in defense spending, in July. But Senate Democrats blocked their chamber's version of the bill that same month over concerns about the Iran war.
-"Donald Trump is dragging America deeper into a war in Iran with no authorization, no plan, and no exit strategy. Democrats will not go along," Senate Minority Leader Chuck Schumer, D-N.Y., said in a statement at the time.
-The NDAA is typically seen as a must-pass, bipartisan bill.
-The legislation as it stood in July also drew pushback from businesses over a provision that would restrict Pentagon contractors from executing stock buybacks and paying dividends unless they have the Defense Department's approval.
-A new wrinkle threatens to derail the NDAA process during the lame duck, however. Defense Secretary Pete Hegseth faces a vote on articles of impeachment upon Congress' return, and Democrats have already been highly skeptical of the Pentagon's asks in this year's budget as the expensive Iran war drags on.
-NIL and stocks
-Other priorities could also get floor time.
-The Senate in September approved, in a bipartisan vote, a package that would establish federal rules for the ways in which college athletes are compensated. But that legislation has many opponents in the House, particularly among Democrats in the chamber, making its passage more complicated.
-There's also been a yearslong effort to ban members of Congress from owning or trading individual stocks.
-In previous Congresses, the effort was stymied by leadership from both parties. And more recently, a bipartisan push to pass legislation was derailed after House Democrats demanded the ban also apply to the president.
-One GOP-led proposal, called the Stop Insider Trading Act, passed the House with some bipartisan support in July, but met with Democratic opposition because it would apply only to Congress and would not require lawmakers to divest existing holdings.
-Sen. Todd Young, R-Ind., called for action on the issue in an X post Thursday. Young is a co-sponsor of the Senate version of the Stop Insider Trading Act.
-"We have a great opportunity in the lame duck session to restore a small amount of trust by banning Members of Congress from trading stocks. I've been talking about this for many months, and it should be a no-brainer," Young said.
-Democrats, however, are eager to claim a victory on congressional stock trading in the next Congress.
-Jeffries, in a letter to fellow House members announcing his candidacy for speaker, listed it as a priority as part of Democrats' anti-corruption agenda.
-"We must root out corrupt price gouging, clean up the mess at the Supreme Court and ban Members of Congress from trading stocks. Accountability begins at home," Jeffries wrote.`,
-    bodyJa: `The House and Senate are due to return to Washington on Monday with a crowded legislative agenda in the final weeks before the end of the 119th Congress.
-Congress will need to act quickly to extend government funding, which expires Dec. 11. Lawmakers will need to pass the National Defense Authorization Act, and they may tackle ambitious proposals including a construction permitting package and a bill to regulate name, image and likeness rules in college sports.
-The work will commence under a new dynamic. Republicans come back to the Capitol diminished after suffering substantial losses in this week's midterms. Democrats swept to a commanding majority in the House with at least 255 seats in the 435-member chamber and could emerge with as many as 56 seats in the Senate.
-With majorities in both chambers looming, Democrats will have little incentive to cut deals with their GOP counterparts.
-Government funding
-The most pressing concern lawmakers will face when they return is funding the government. Current funding expires Dec. 11. Congress must pass another continuing resolution to retain current spending levels or a full-year suite of appropriations bills before then to avoid a government shutdown.
-Appropriations bills and continuing resolutions require bipartisan majorities due to the Senate's 60-vote filibuster threshold. Democrats are unlikely to negotiate a full year of government funding before the new Congress is sworn in, given that they will soon hold commanding majorities in both chambers and can use that to leverage concessions from the White House.
-"This former preschool teacher is going to teach President Trump a simple lesson: The power of the purse belongs to CONGRESS!" Sen. Patty Murray, D-Wash., the presumptive chair of the Appropriations Committee, said in an X post Tuesday as election results rolled in. "It's NOT Trump's money. Taxpayer dollars belong to the American PEOPLE."
-Adding another wrinkle to the funding push is the electoral loss of Sen. Susan Collins, R-Maine, who chairs the Senate Appropriations Committee and is one of the "four corners" of spending talks. Collins lost reelection to Democrat Troy Jackson, ending a five-term career in the Senate.
-Debt ceiling
-Some lawmakers, including Sen. Kevin Cramer, R-N.D., have called for Congress to raise the debt limit before Republicans lose control.
-In September, the federal debt hit $40 trillion for the first time, bumping up against the $41.1 trillion ceiling written into the GOP's 2025 budget reconciliation law known as the "one big beautiful bill."
-The Bipartisan Policy Center, a nonprofit that tracks the debt limit, said Treasury is likely to hit its maximum borrowing capacity by mid-summer. The U.S. may no longer be able to meet all its obligations by November 2027, according to a Bank of America estimate from Nov. 6.
-But Democrats may instead prefer to use the debt limit as a bargaining chip in the next Congress.
-Republicans could theoretically raise the debt ceiling in a budget reconciliation package, as they did with their 2025 law. But cobbling together a post-election coalition to clear another reconciliation bill with exceptionally narrow margins would be difficult. Budget reconciliation, which allows party-line bills to skirt the filibuster in the Senate, requires near-total unity.
-Congressional leadership, particularly on the Republican side, is likely to have difficulty with lawmaker attendance after dozens of members lost their seats in an electoral bloodbath. Leadership will also struggle to whip members into line, especially those who do not have another election to run.
-Energy construction permitting
-Top senators on energy committees struck a deal on a permitting bill before the election. That accord to make construction easier could now be in jeopardy, though the Senate plans to hold a procedural vote to advance it Monday evening, according to a Senate aide familiar with the schedule. The person asked not to be named because the move has not been announced.
-The resounding majorities Democrats won in both the House and Senate may give them incentive to torpedo the permitting deal in hopes of securing a better one later. The deal also may have been in trouble prior to the election, with top Democrats in the House not supporting the version their counterparts in the Senate accepted.
-Politico reported Thursday that Democratic Minority Leader and likely next House Speaker Hakeem Jeffries, D-N.Y., did not support the permitting deal.
-Lawmakers have long sought, and failed to reach, a bipartisan, bicameral deal on permitting reform. Democrats want to speed up the buildout of clean energy. Republicans have long complained that the federal permitting process and environmental laws that comprise it stymie the U.S.'s ability to build critical infrastructure.
-Defense spending
-The House passed a version of the NDAA, which would authorize more than $1 trillion in defense spending, in July. But Senate Democrats blocked their chamber's version of the bill that same month over concerns about the Iran war.
-"Donald Trump is dragging America deeper into a war in Iran with no authorization, no plan, and no exit strategy. Democrats will not go along," Senate Minority Leader Chuck Schumer, D-N.Y., said in a statement at the time.
-The NDAA is typically seen as a must-pass, bipartisan bill.
-The legislation as it stood in July also drew pushback from businesses over a provision that would restrict Pentagon contractors from executing stock buybacks and paying dividends unless they have the Defense Department's approval.
-A new wrinkle threatens to derail the NDAA process during the lame duck, however. Defense Secretary Pete Hegseth faces a vote on articles of impeachment upon Congress' return, and Democrats have already been highly skeptical of the Pentagon's asks in this year's budget as the expensive Iran war drags on.
-NIL and stocks
-Other priorities could also get floor time.
-The Senate in September approved, in a bipartisan vote, a package that would establish federal rules for the ways in which college athletes are compensated. But that legislation has many opponents in the House, particularly among Democrats in the chamber, making its passage more complicated.
-There's also been a yearslong effort to ban members of Congress from owning or trading individual stocks.
-In previous Congresses, the effort was stymied by leadership from both parties. And more recently, a bipartisan push to pass legislation was derailed after House Democrats demanded the ban also apply to the president.
-One GOP-led proposal, called the Stop Insider Trading Act, passed the House with some bipartisan support in July, but met with Democratic opposition because it would apply only to Congress and would not require lawmakers to divest existing holdings.
-Sen. Todd Young, R-Ind., called for action on the issue in an X post Thursday. Young is a co-sponsor of the Senate version of the Stop Insider Trading Act.
-"We have a great opportunity in the lame duck session to restore a small amount of trust by banning Members of Congress from trading stocks. I've been talking about this for many months, and it should be a no-brainer," Young said.
-Democrats, however, are eager to claim a victory on congressional stock trading in the next Congress.
-Jeffries, in a letter to fellow House members announcing his candidacy for speaker, listed it as a priority as part of Democrats' anti-corruption agenda.
-"We must root out corrupt price gouging, clean up the mess at the Supreme Court and ban Members of Congress from trading stocks. Accountability begins at home," Jeffries wrote.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/09/congress-government-funding-debt-limit-elections.html",
-    publishedAt: "2026-11-09T11:00:01+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "what-do-we-know-about-nvidia-ceo-s-affai-e7e00f67",
-    title: "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-    titleJa: "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-    summaryJa: "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
-    bodyOriginal: `What do we know about Nvidia CEO’s affair with a suspected Chinese spy?
-US tech giant Nvidia has opened an independent investigation following reports its boss Jensen Huang had a relationship with businesswoman Alice Huang, a suspected Chinese spy.
-Huang has been in charge of the tech giant for 30 years, and is a popular public figure - but will this scandal hurt his reputation? The BBC’s Steve Lai explains everything you need to know.`,
-    bodyJa: `What do we know about Nvidia CEO’s affair with a suspected Chinese spy?
-US tech giant Nvidia has opened an independent investigation following reports its boss Jensen Huang had a relationship with businesswoman Alice Huang, a suspected Chinese spy.
-Huang has been in charge of the tech giant for 30 years, and is a popular public figure - but will this scandal hurt his reputation? The BBC’s Steve Lai explains everything you need to know.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-09T07:10:11+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83e2/live/f1cb1e30-dc24-11f1-93e1-3b657b665bcf.png",
-    readTime: 2,
   },
 ];
 
