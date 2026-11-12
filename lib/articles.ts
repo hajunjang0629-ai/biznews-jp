@@ -15,6 +15,254 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "who-can-replace-jensen-huang-as-nvidia-c-df5149ca",
+    title: "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
+    titleJa: "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
+    summaryJa: "As Nvidia’s board seeks a new CEO, experts say that person will need a rare balance of tech vision and business savvy",
+    bodyOriginal: `As Nvidia’s board seeks a new CEO, experts say that person will need a rare balance of tech vision and business savvy`,
+    bodyJa: `As Nvidia’s board seeks a new CEO, experts say that person will need a rare balance of tech vision and business savvy`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
+    publishedAt: "2026-11-12T22:57:00+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.mktw.net/im-25209832",
+    readTime: 2,
+  },
+  {
+    id: "cerebras-surges-17-after-beating-on-quar-f30f0012",
+    title: "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+    titleJa: "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+    summaryJa: "Cerebras announced a new deal with Microsoft after partnering with major cloud providers Amazon and Oracle.",
+    bodyOriginal: `Cerebras Systems reported better-than-expected revenue and quarterly guidance in its earnings report on Thursday, and touted a new deal with Microsoft. The stock soared 17% in extended trading.
+Here's how the company performed relative to LSEG consensus:
+- Loss per share: 67 cents. It's not immediately clear how the number compares with the loss of 14 cents expected
+- Core revenue: $230.9 million vs. $214.7 million expected
+Cerebras' core revenue grew 70% from $135.7 million, compared with 103% growth in the second quarter, according to a statement.
+"I think there is opportunity created by, particularly on the hardware side, the sale of hardware, where long lead times in GPUs and more expense creates opportunity for us," Cerebras CEO Andrew Feldman told CNBC in an interview, referring to graphics processing units.
+Executives will announce a new relationship with Microsoft, one of the world's top cloud providers, on a conference call with analysts, Feldman said. The call starts at 5 p.m. ET.
+"We believe revenue begins to show up in Q1 '27," Feldman said in the interview, adding that Microsoft signed the deal in October. Cerebras has also landed deals with other major cloud providers Amazon and Oracle.
+Cerebras is evaluating its financing options to meet the ramping demand, Feldman said in the interview.
+The company is trying to challenge Nvidia in the AI chip market. Its earnings land on the same day that Nvidia CEO Jensen Huang resigned from the company he co-founded after multiple scandals involving extramarital affairs.
+For the fourth quarter, Cerebras expects a core gross margin of 47% to 49%, with $310 million to $330 million in revenue. Analysts polled by LSEG were looking for a 42.1% margin and $271 million in revenue.
+Cerebras said it expects revenue to triple in 2027. That implies about $2.85 billion in revenue. Analysts surveyed by LSEG were looking for $2.92 billion.
+Cerebras shares have slumped by about 47% since the company debuted on Nasdaq in May.
+WATCH: This AI chip stock is struggling. Paul Meeks thinks it's an opportunity to buy`,
+    bodyJa: `Cerebras Systems reported better-than-expected revenue and quarterly guidance in its earnings report on Thursday, and touted a new deal with Microsoft. The stock soared 17% in extended trading.
+Here's how the company performed relative to LSEG consensus:
+- Loss per share: 67 cents. It's not immediately clear how the number compares with the loss of 14 cents expected
+- Core revenue: $230.9 million vs. $214.7 million expected
+Cerebras' core revenue grew 70% from $135.7 million, compared with 103% growth in the second quarter, according to a statement.
+"I think there is opportunity created by, particularly on the hardware side, the sale of hardware, where long lead times in GPUs and more expense creates opportunity for us," Cerebras CEO Andrew Feldman told CNBC in an interview, referring to graphics processing units.
+Executives will announce a new relationship with Microsoft, one of the world's top cloud providers, on a conference call with analysts, Feldman said. The call starts at 5 p.m. ET.
+"We believe revenue begins to show up in Q1 '27," Feldman said in the interview, adding that Microsoft signed the deal in October. Cerebras has also landed deals with other major cloud providers Amazon and Oracle.
+Cerebras is evaluating its financing options to meet the ramping demand, Feldman said in the interview.
+The company is trying to challenge Nvidia in the AI chip market. Its earnings land on the same day that Nvidia CEO Jensen Huang resigned from the company he co-founded after multiple scandals involving extramarital affairs.
+For the fourth quarter, Cerebras expects a core gross margin of 47% to 49%, with $310 million to $330 million in revenue. Analysts polled by LSEG were looking for a 42.1% margin and $271 million in revenue.
+Cerebras said it expects revenue to triple in 2027. That implies about $2.85 billion in revenue. Analysts surveyed by LSEG were looking for $2.92 billion.
+Cerebras shares have slumped by about 47% since the company debuted on Nasdaq in May.
+WATCH: This AI chip stock is struggling. Paul Meeks thinks it's an opportunity to buy`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+    publishedAt: "2026-11-12T22:48:26+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "alice-huang-tied-to-nvidia-s-biggest-chi-93f91fc1",
+    title: "Alice Huang tied to Nvidia’s biggest Chinese competitor",
+    titleJa: "Alice Huang tied to Nvidia’s biggest Chinese competitor",
+    summaryJa: "The woman with whom Jensen Huang reportedly had a relationship also owned stakes in companies that provided computing power to Huawei, a key Nvidia competitor.",
+    bodyOriginal: `Alleged Chinese spy Alice Huang may have owned stakes in businesses in China that benefited Nvidia's biggest competitor in China, Huawei, at the same time that she was in business with Nvidia and also reportedly having a romantic affair with its ousted CEO Jensen Huang.
+The connection between Alice Huang and Huawei was first discovered by analysts at private intelligence firm Tesari. The firm exclusively shared its findings with CNBC. Tesari, which uses artificial intelligence to collect evidence and specializes in national security investigations around the world, provides intelligence research to private companies and the U.S. government.
+This previously unreported entanglement may raise questions about Alice Huang's intent and conduct in her relationship with the CEO and whether Jensen Huang knew his romantic partner was closely connected with his competition. Jensen Huang has acknowledged having an affair, though the precise timing of his relationship with Alice Huang is unknown.
+The mysterious saga of Alice Huang involves a tangle of interlocking corporations and transactions that show her connection to entities that ultimately provided computing power to Huawei in China.
+Huawei is known as a Chinese government "state champion" in the technology and telecommunications sectors, meaning it receives enormous financial support from the government in Beijing so it can lower prices and undercut global competitors. It is considered a key part of the Chinese government's push for global technical dominance and is closely linked to the Chinese Communist Party.
+Businesses connected to Alice Huang were linked with supplying Nvidia computing power to Huawei, according to documents reviewed by CNBC, around the same time she and Jensen Huang were first publicly seen together, in December 2023.
+In 2024, Nvidia said Huawei was a top competitor, specifically in artificial intelligence chips including graphics processing units, central processing units and networking chips.
+"This activity, which surfaced through our analysis of Alice's network, warrants a national security and [technology] counterproliferation investigation," said Brian Andersen, Tesari's vice president for national security applications and a former supervisory special agent with Homeland Security Investigations.
+If the Commerce Department's Bureau of Industry Security and Homeland Security Investigations found evidence that anyone transferred "controlled equipment" to Huawei without authorization, potential charges might include export-control violations, conspiracy and smuggling, Andersen said.
+The connection between Alice Huang and Huawei is so convoluted that analysts at Tesari told CNBC that based on their previous investigative experience, they suspect it was designed to deliberately obscure the relationship.
+Nvidia and Huawei did not respond to CNBC's requests for comment. Jensen Huang did not respond to a voicemail left on a mobile phone. Alice Huang could not be reached.
+According to Chinese corporate records and media reports compiled by Tesari and provided to CNBC, Alice Huang, whose Chinese name is Huang Le and who according to documents at the time was based in Hong Kong, in 2019 sold a cloud business she owned called Osmanthus to a Chinese gaming company called 7Road. A subsidiary of 7Road, which was based in Singapore, was spun off as "Megaspeed" in 2023. Megaspeed would go on to become a key Nvidia customer, helping facilitate at least $7.5 billion in Nvidia chip shipments to Chinese firms, The Information reported Tuesday.
+As early as 2016, Alice Huang had also become a co-owner of a financial firm known as Shanghai Hexi, which heavily invests in tech and data centers. In 2021, Hexi in turn acquired 27 percent of a company called Shanghai Century Longteng, a data center developer, which Hexi held until 2024. That firm owned a controlling 50.1 percent stake in a data center facility called Shenzhen Yifeng Technology Co. Ltd. in mainland China.
+The key customer of that data center was Huawei Cloud, the Shenzhen, China-based subsidiary of Huawei Technologies.
+In addition, Alice Huang's firm Hexi guaranteed the loans required to finance the Shenzhen data center, which did business with Huawei.
+Hexi did not immediately respond to a message via its LinkedIn page sent outside of normal business hours.
+CNBC translated corporate records and Chinese news articles in Mandarin that Tesari provided.
+It's not clear if the Shenzhen data center was able to acquire Nvidia GPUs, but its majority owner began purchasing the chips in 2023. That company is known as Zhejiang Century Huatong Group and is a business partner of Alice Huang's Hexi through their joint ownership of Century Longteng.
+That made Alice Huang a part owner of a data center providing computing power to Huawei. And that was happening at around the same time the first known sightings of Alice Huang and Jensen Huang in public together.
+And that raises the question of why Huawei, which has access to Chinese-made chips, would need to rent computing power from an outside entity.
+Hexi exited its stake in the data center development company in 2024, but individuals within Alice Huang's network are still connected to the Shenzhen data center. Her husband Kang Wei is a longtime business associate who founded Hexi, where Alice Huang previously held an executive role. In 2022, Kang became an executive of Century Longteng, which owns the controlling stake in the Shenzhen data center, and he also attended the company's signing of the Huawei agreement.`,
+    bodyJa: `Alleged Chinese spy Alice Huang may have owned stakes in businesses in China that benefited Nvidia's biggest competitor in China, Huawei, at the same time that she was in business with Nvidia and also reportedly having a romantic affair with its ousted CEO Jensen Huang.
+The connection between Alice Huang and Huawei was first discovered by analysts at private intelligence firm Tesari. The firm exclusively shared its findings with CNBC. Tesari, which uses artificial intelligence to collect evidence and specializes in national security investigations around the world, provides intelligence research to private companies and the U.S. government.
+This previously unreported entanglement may raise questions about Alice Huang's intent and conduct in her relationship with the CEO and whether Jensen Huang knew his romantic partner was closely connected with his competition. Jensen Huang has acknowledged having an affair, though the precise timing of his relationship with Alice Huang is unknown.
+The mysterious saga of Alice Huang involves a tangle of interlocking corporations and transactions that show her connection to entities that ultimately provided computing power to Huawei in China.
+Huawei is known as a Chinese government "state champion" in the technology and telecommunications sectors, meaning it receives enormous financial support from the government in Beijing so it can lower prices and undercut global competitors. It is considered a key part of the Chinese government's push for global technical dominance and is closely linked to the Chinese Communist Party.
+Businesses connected to Alice Huang were linked with supplying Nvidia computing power to Huawei, according to documents reviewed by CNBC, around the same time she and Jensen Huang were first publicly seen together, in December 2023.
+In 2024, Nvidia said Huawei was a top competitor, specifically in artificial intelligence chips including graphics processing units, central processing units and networking chips.
+"This activity, which surfaced through our analysis of Alice's network, warrants a national security and [technology] counterproliferation investigation," said Brian Andersen, Tesari's vice president for national security applications and a former supervisory special agent with Homeland Security Investigations.
+If the Commerce Department's Bureau of Industry Security and Homeland Security Investigations found evidence that anyone transferred "controlled equipment" to Huawei without authorization, potential charges might include export-control violations, conspiracy and smuggling, Andersen said.
+The connection between Alice Huang and Huawei is so convoluted that analysts at Tesari told CNBC that based on their previous investigative experience, they suspect it was designed to deliberately obscure the relationship.
+Nvidia and Huawei did not respond to CNBC's requests for comment. Jensen Huang did not respond to a voicemail left on a mobile phone. Alice Huang could not be reached.
+According to Chinese corporate records and media reports compiled by Tesari and provided to CNBC, Alice Huang, whose Chinese name is Huang Le and who according to documents at the time was based in Hong Kong, in 2019 sold a cloud business she owned called Osmanthus to a Chinese gaming company called 7Road. A subsidiary of 7Road, which was based in Singapore, was spun off as "Megaspeed" in 2023. Megaspeed would go on to become a key Nvidia customer, helping facilitate at least $7.5 billion in Nvidia chip shipments to Chinese firms, The Information reported Tuesday.
+As early as 2016, Alice Huang had also become a co-owner of a financial firm known as Shanghai Hexi, which heavily invests in tech and data centers. In 2021, Hexi in turn acquired 27 percent of a company called Shanghai Century Longteng, a data center developer, which Hexi held until 2024. That firm owned a controlling 50.1 percent stake in a data center facility called Shenzhen Yifeng Technology Co. Ltd. in mainland China.
+The key customer of that data center was Huawei Cloud, the Shenzhen, China-based subsidiary of Huawei Technologies.
+In addition, Alice Huang's firm Hexi guaranteed the loans required to finance the Shenzhen data center, which did business with Huawei.
+Hexi did not immediately respond to a message via its LinkedIn page sent outside of normal business hours.
+CNBC translated corporate records and Chinese news articles in Mandarin that Tesari provided.
+It's not clear if the Shenzhen data center was able to acquire Nvidia GPUs, but its majority owner began purchasing the chips in 2023. That company is known as Zhejiang Century Huatong Group and is a business partner of Alice Huang's Hexi through their joint ownership of Century Longteng.
+That made Alice Huang a part owner of a data center providing computing power to Huawei. And that was happening at around the same time the first known sightings of Alice Huang and Jensen Huang in public together.
+And that raises the question of why Huawei, which has access to Chinese-made chips, would need to rent computing power from an outside entity.
+Hexi exited its stake in the data center development company in 2024, but individuals within Alice Huang's network are still connected to the Shenzhen data center. Her husband Kang Wei is a longtime business associate who founded Hexi, where Alice Huang previously held an executive role. In 2022, Kang became an executive of Century Longteng, which owns the controlling stake in the Shenzhen data center, and he also attended the company's signing of the Huawei agreement.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+    publishedAt: "2026-11-12T22:47:28+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "opening-trading-card-packs-has-become-a-8d9645b7",
+    title: "Opening trading-card packs has become a $2 billion market",
+    titleJa: "Opening trading-card packs has become a $2 billion market",
+    summaryJa: "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
+    bodyOriginal: `Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.`,
+    bodyJa: `Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
+    publishedAt: "2026-11-12T22:38:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-87023125",
+    readTime: 2,
+  },
+  {
+    id: "widespread-microsoft-outage-takes-down-o-4337bd6f",
+    title: "Widespread Microsoft outage takes down Outlook and other 365 services",
+    titleJa: "Widespread Microsoft outage takes down Outlook and other 365 services",
+    summaryJa: "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
+    bodyOriginal: `Microsoft suffered a widespread outage on Thursday that impacted thousands of users across regions, according to outage-tracking website Downdetector.com.
+The outage began shortly before 1 p.m. and impacted Microsoft 365 services, Outlook and Teams. At the time, about 130,000 users reported issues with Outlook.
+Amazon Web Services and Google users also reported outages on the site.
+"We are aware and investigating reports of users experiencing issues with Microsoft 365 services, primarily issues with Exchange Online," a Microsoft spokesperson wrote in a statement to CNBC. "We appreciate our customers' patience while we work to restore services as soon as possible."
+Microsoft shared updates on the outage from its Microsoft 365 Status account on social media platform X.
+Amazon wrote on X that services were "operating normally" and an "unrelated disruption elsewhere on the internet is prompting some inaccurate news reports." The company referred users to its health dashboard for "accurate data."
+At 4 p.m., Microsoft said it had "validated an alternative service health check method" that brought some affected servers back online.
+"We're now applying this change more broadly," Microsoft wrote. "We're also preparing automated recovery systems to continually detect and restart unresponsive servers, to maintain service stability while this change progresses."
+Microsoft initially said infrastructure "elevated load across multiple regions" was responsible for the connectivity problems.
+The company later determined that the elevated load was caused by a "number of servers being unexpectedly unavailable; straining the remaining infrastructure" and that some servers were failing automated health checks.
+"We've taken steps to prevent additional servers from being impacted while we work to return the affected servers to service," Microsoft wrote.`,
+    bodyJa: `Microsoft suffered a widespread outage on Thursday that impacted thousands of users across regions, according to outage-tracking website Downdetector.com.
+The outage began shortly before 1 p.m. and impacted Microsoft 365 services, Outlook and Teams. At the time, about 130,000 users reported issues with Outlook.
+Amazon Web Services and Google users also reported outages on the site.
+"We are aware and investigating reports of users experiencing issues with Microsoft 365 services, primarily issues with Exchange Online," a Microsoft spokesperson wrote in a statement to CNBC. "We appreciate our customers' patience while we work to restore services as soon as possible."
+Microsoft shared updates on the outage from its Microsoft 365 Status account on social media platform X.
+Amazon wrote on X that services were "operating normally" and an "unrelated disruption elsewhere on the internet is prompting some inaccurate news reports." The company referred users to its health dashboard for "accurate data."
+At 4 p.m., Microsoft said it had "validated an alternative service health check method" that brought some affected servers back online.
+"We're now applying this change more broadly," Microsoft wrote. "We're also preparing automated recovery systems to continually detect and restart unresponsive servers, to maintain service stability while this change progresses."
+Microsoft initially said infrastructure "elevated load across multiple regions" was responsible for the connectivity problems.
+The company later determined that the elevated load was caused by a "number of servers being unexpectedly unavailable; straining the remaining infrastructure" and that some servers were failing automated health checks.
+"We've taken steps to prevent additional servers from being impacted while we work to return the affected servers to service," Microsoft wrote.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+    publishedAt: "2026-11-12T22:24:12+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "bond-yields-just-saw-their-biggest-surge-0725cd85",
+    title: "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
+    titleJa: "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
+    summaryJa: "Fed Chair Warsh’s quiet style of communicating interest-rate policy has led to more volatile markets.",
+    bodyOriginal: `Fed Chair Warsh’s quiet style of communicating interest-rate policy has led to more volatile markets.`,
+    bodyJa: `Fed Chair Warsh’s quiet style of communicating interest-rate policy has led to more volatile markets.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
+    publishedAt: "2026-11-12T22:16:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-73097292",
+    readTime: 2,
+  },
+  {
+    id: "cisco-beats-on-earnings-says-ai-infrastr-e7811e34",
+    title: "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
+    titleJa: "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
+    summaryJa: "Cisco is trying to become a bigger player in AI after missing out on the early years of the boom.",
+    bodyOriginal: `Cisco shares rose in extended trading on Thursday after the maker of networking gear reported better-than-expected fiscal first-quarter results.
+Here's how the company did compared to LSEG consensus estimates:
+- EPS: $1.40 adjusted vs. $1.33 expected
+- Revenue: $18.5 billion vs. $18.1 billion expected.
+Revenue increased 24% from $14.88 billion a year earlier, Cisco said in a statement. Net income rose to $4.6 billion, or $1.14 per share, from $2.9 billion, or 72 center per share, a year ago.
+Cisco is trying to gain a foothold in the artificial intelligence buildout after missing out on the early years of the generative AI boom. The company's stock price is up about 35% this year as of Thursday's close, trouncing the Nasdaq, which has gained 9% over that stretch.
+Cisco raised its expectation for AI infrastructure revenue from hyperscalers to $9 billion this fiscal year, more than double the figure in fiscal 2026.
+"Organizations are turning to Cisco for our trusted, market-defining technology and our expertise to help them scale, secure and optimize their environments for the agentic AI era," CEO Chuck Robbins said in the statement.
+For the fiscal second quarter, Cisco said it expects revenue of between $18 billion and $18.2 billion, topping the average analyst estimate of $17.88 billion, according to LSEG. The company is projecting adjusted earnings per share of $1.34 to $1.36, beating the $1.23 average estimate.`,
+    bodyJa: `Cisco shares rose in extended trading on Thursday after the maker of networking gear reported better-than-expected fiscal first-quarter results.
+Here's how the company did compared to LSEG consensus estimates:
+- EPS: $1.40 adjusted vs. $1.33 expected
+- Revenue: $18.5 billion vs. $18.1 billion expected.
+Revenue increased 24% from $14.88 billion a year earlier, Cisco said in a statement. Net income rose to $4.6 billion, or $1.14 per share, from $2.9 billion, or 72 center per share, a year ago.
+Cisco is trying to gain a foothold in the artificial intelligence buildout after missing out on the early years of the generative AI boom. The company's stock price is up about 35% this year as of Thursday's close, trouncing the Nasdaq, which has gained 9% over that stretch.
+Cisco raised its expectation for AI infrastructure revenue from hyperscalers to $9 billion this fiscal year, more than double the figure in fiscal 2026.
+"Organizations are turning to Cisco for our trusted, market-defining technology and our expertise to help them scale, secure and optimize their environments for the agentic AI era," CEO Chuck Robbins said in the statement.
+For the fiscal second quarter, Cisco said it expects revenue of between $18 billion and $18.2 billion, topping the average analyst estimate of $17.88 billion, according to LSEG. The company is projecting adjusted earnings per share of $1.34 to $1.36, beating the $1.23 average estimate.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+    publishedAt: "2026-11-12T21:20:35+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "irs-announces-2027-401-k-contribution-li-b5f9d5bc",
+    title: "IRS announces 2027 401(k) contribution limits, raises savings cap: What it means for your money",
+    titleJa: "IRS announces 2027 401(k) contribution limits, raises savings cap: What it means for your money",
+    summaryJa: "The IRS has announced higher 401(k) contribution limits for 2027. Here’s what retirement savers need to know.",
+    bodyOriginal: `The IRS has announced new retirement account contribution limits for 2027.
+In its release on Thursday, the agency increased the 401(k) employee deferral limit to $25,500 next year, up from $24,500 in 2026. The change applies to 401(k)s, 403(b)s and most 457 plans, along with the federal Thrift Savings Plan.
+The IRS also unveiled 2027 catch-up contribution limits for savers age 50 and older, new individual retirement account savings limits and higher income thresholds for Roth IRA contributions.
+Starting in 2027, the 401(k) catch-up contribution limit will rise to $8,500 for savers 50 and older, up from $8,000 in 2026. But investors aged 60 to 63 can instead save an extra $11,750, based on changes enacted via Secure 2.0. That figure is up $500 from 2026.
+Both amounts are in addition to the $25,500 deferral limit for 2027.
+The 2027 IRA contribution limit is $7,500, unchanged from 2026, the IRS announced. IRA catch-up contributions for investors age 50 and older will be $1,100, the same as 2026.
+The announcement comes one week after the agency released dozens of other inflation adjustments for 2027, including federal income tax brackets, higher capital gains brackets, estate and gift tax exemptions and provisions impacting families, among others.
+Get your 401(k) employer match first
+In 2025, only 14% of participants maxed out their 401(k)s, according to Vanguard's 2026 How America Saves report, which was based on data from more than 1,300 qualified plans and nearly 5 million participants. The average combined savings rate, including employer deposits, was an estimated 12.1%, according to the same report.
+"Before worrying about contribution limits, make sure you're capturing your full employer match," said Sean Michael Pearson, a certified financial planner with Ameriprise Financial Services in Conshohocken, Pennsylvania.
+During the second quarter of 2026, about 19% of employees weren't deferring enough to 401(k)s to receive their company's full matching contribution, according to a Fidelity analysis of 27,300 corporate plans and nearly 26 million participants.
+Vanguard suggests saving 12% to 15% of your pay per year, including employer contributions, depending on your income. But only one-quarter of 401(k) participants deferred more than 10% of earnings in 2025, according to Vanguard's report.
+If you plan to max out your 401(k) for 2027, you should change your savings rate in December so it's active by your first January paycheck, experts say. The update could take one or two pay periods to go into effect.
+Boost your 401(k) savings rate every year
+The "most important habit" is consistently increasing your 401(k) savings rate over time, according to Pearson.
+For example, if you bump 401(k) contributions by 1% every year, "you may barely notice the difference in your paycheck, but the long-term impact can be substantial," he said.
+In 2025, about 27% of 401(k) plans automatically increased employee deferrals over time, known as "auto-escalation," according to the Plan Sponsor Council of America's yearly survey of 401(k)s. The nonprofit trade organization's survey included 753 plans.
+The vast majority of plans with auto-escalation, 69%, boosted deferrals by 1% per year, the Plan Sponsor Council of America found.`,
+    bodyJa: `The IRS has announced new retirement account contribution limits for 2027.
+In its release on Thursday, the agency increased the 401(k) employee deferral limit to $25,500 next year, up from $24,500 in 2026. The change applies to 401(k)s, 403(b)s and most 457 plans, along with the federal Thrift Savings Plan.
+The IRS also unveiled 2027 catch-up contribution limits for savers age 50 and older, new individual retirement account savings limits and higher income thresholds for Roth IRA contributions.
+Starting in 2027, the 401(k) catch-up contribution limit will rise to $8,500 for savers 50 and older, up from $8,000 in 2026. But investors aged 60 to 63 can instead save an extra $11,750, based on changes enacted via Secure 2.0. That figure is up $500 from 2026.
+Both amounts are in addition to the $25,500 deferral limit for 2027.
+The 2027 IRA contribution limit is $7,500, unchanged from 2026, the IRS announced. IRA catch-up contributions for investors age 50 and older will be $1,100, the same as 2026.
+The announcement comes one week after the agency released dozens of other inflation adjustments for 2027, including federal income tax brackets, higher capital gains brackets, estate and gift tax exemptions and provisions impacting families, among others.
+Get your 401(k) employer match first
+In 2025, only 14% of participants maxed out their 401(k)s, according to Vanguard's 2026 How America Saves report, which was based on data from more than 1,300 qualified plans and nearly 5 million participants. The average combined savings rate, including employer deposits, was an estimated 12.1%, according to the same report.
+"Before worrying about contribution limits, make sure you're capturing your full employer match," said Sean Michael Pearson, a certified financial planner with Ameriprise Financial Services in Conshohocken, Pennsylvania.
+During the second quarter of 2026, about 19% of employees weren't deferring enough to 401(k)s to receive their company's full matching contribution, according to a Fidelity analysis of 27,300 corporate plans and nearly 26 million participants.
+Vanguard suggests saving 12% to 15% of your pay per year, including employer contributions, depending on your income. But only one-quarter of 401(k) participants deferred more than 10% of earnings in 2025, according to Vanguard's report.
+If you plan to max out your 401(k) for 2027, you should change your savings rate in December so it's active by your first January paycheck, experts say. The update could take one or two pay periods to go into effect.
+Boost your 401(k) savings rate every year
+The "most important habit" is consistently increasing your 401(k) savings rate over time, according to Pearson.
+For example, if you bump 401(k) contributions by 1% every year, "you may barely notice the difference in your paycheck, but the long-term impact can be substantial," he said.
+In 2025, about 27% of 401(k) plans automatically increased employee deferrals over time, known as "auto-escalation," according to the Plan Sponsor Council of America's yearly survey of 401(k)s. The nonprofit trade organization's survey included 753 plans.
+The vast majority of plans with auto-escalation, 69%, boosted deferrals by 1% per year, the Plan Sponsor Council of America found.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/12/401k-contribution-limits-2027.html",
+    publishedAt: "2026-11-12T17:23:14+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 8,
+  },
+  {
     id: "analysis-jensen-huang-s-exit-tests-nvidi-ba530057",
     title: "Analysis: Jensen Huang’s exit tests Nvidia’s role as the ‘central bank of AI’",
     titleJa: "Analysis: Jensen Huang’s exit tests Nvidia’s role as the ‘central bank of AI’",
@@ -1801,354 +2049,6 @@ The news of the CEO's affair has drawn increased scrutiny on his continued suppo
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 7,
-  },
-  {
-    id: "schumer-accuses-trump-of-defending-nvidi-f16d8273",
-    title: "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
-    titleJa: "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
-    summaryJa: "Rep. John Moolenaar, R-Mich., the Republican chairman of the Select Committee on China, told CNBC he expects answers about Jensen Huang's relationship.",
-    bodyOriginal: `Democratic leader Sen. Charles Schumer ripped President Donald Trump on Tuesday for defending embattled Nvidia CEO Jensen Huang at the expense of U.S. national security.
-"The press reports that Trump was briefed more than a year ago that Nvidia's CEO was having an affair with a suspected Chinese spy, and Trump didn't do anything – anything – about it," Schumer, D-N.Y., said on the Senate floor.
-"Can you believe that?" said Schumer, the Senate's minority leader.
-Schumer's broadside came on the heels of New York Times reports that Trump had been briefed about Huang's extramarital affair with Megaspeed executive Alice Huang — whom U.S. intelligence concluded was a spy for China — and opted not to do anything about it.
-Trump suggested to reporters on Monday that he only recently learned of the allegations about Alice Huang, and the president commented Monday that he "really" believes Jensen Huang's claim to him directly that he had no idea Alice Huang was a spy.
-"One of our most important companies that is involved in national security, and the CEO might be having an affair with a Chinese spy, and Trump did nothing about it," Schumer said Tuesday.
-"What a dereliction of duty. He's supposed to protect America, not China, not his friends," Schumer said. "Trump has been busy trying to defend Jensen Huang when he ought to be defending our national security. It's that simple, it's obvious."
-Schumer's comments escalated growing bipartisan concern in Congress about the Nvidia CEO and his company. Nvidia makes advanced chips that are essential components in developing artificial intelligence models, a sector that is the focus of keen competition between the United States and China.
-Schumer noted that Trump earlier this year invited Huang to join him on a state visit to Beijing, and that he took Huang's advice by granting the People's Republic of China "access to some of our most advanced AI chips."
-Nvidia also donated $25 million to Trump's controversial White House ballroom project, the Democrat said.
-"Despite talking a big game, Trump continues to show a troubling resistance to confront China on AI and to protect American national security," Schumer said. "I've been saying it for years: our cutting-edge AI chips are too valuable to fall into the hands of potential adversaries."
-Schumer in his speech called on Republicans to join Democrats in passing several pieces of legislation — the AI Overwatch Act, the Match Act, and the Chip Security Act — which he said would "cut off China's access to advanced American technology."
-"We also need answers on Nvidia's influence campaign and how [it] affected the Trump administration's national security decisions, including the loosening – the loosening – of key export controls," Schumer said. "We need a full accounting for Trump's failure to address foreign espionage in the American tech industry."
-CNBC has requested comment from the White House about Schumer's remarks.
-The remarks came nearly a week after Democrats won enough Senate and House races nationwide to take majority control of both chambers of Congress in January. Schumer hopes to be selected majority leader.
-Regardless of which Democrats are tapped to serve as majority leaders in both chambers, the party will have the ability to launch investigations into Nvidia and Huang.
-Earlier Tuesday, Rep. John Moolenaar, R-Mich., said on CNBC's "Squawk Box" that Congress needs to "get to the bottom" of Jensen Huang's relationship with Alice Huang.
-Moolenaar, who chairs the House Permanent Select Committee on China, said he wants to know whether Huang shared privileged information with a Chinese spy; whether Huang was influenced to lobby against preventing chip sales to China; and whether China was given preference in purchasing Nvidia's limited supply of advanced chips.
-And he urged a thorough internal investigation of Huang.
-"If it becomes less of an investigation, more of damage control, that's not going to work because people have to have confidence," Moolenaar said.
-"We're dealing with the country, the Chinese Communist Party that is a foremost adversary, that's funding wars and supporting Russia, supporting Iran, North Korea," he said. "And we have basically a Cold War race with technology. We cannot allow the premier company at the forefront of this to, in some way, be irresponsible."
-Congressional scrutiny of Huang's affair has intensified since members returned to Washington on Monday, a day after Nvidia announced it was opening an independent investigation into Jensen Huang's conduct.
-Rep. Jay Obernolte, R-Calif., co-chair of the House AI task force, raised concerns that the scandal could plague talks over export controls for advanced AI chips.
-"It's important not to have a personal scandal interfere with the substantive policy discussion about to what degree we should be allowing the export of cutting edge chips to our geopolitical competitors like China," Obernolte told CNBC. "I hope this isn't a distraction because that's a very important conversation that needs to happen."
-House Minority Leader Hakeem Jeffries, D-N.Y., said at a news conference on Monday that "we're going to need a full briefing specifically as it relates to the Nvidia issue so we can all get to the bottom of what has happened and what the implications are in terms of national security"
-Moolenaar co-authored a letter with Florida Rep. Brian Mast and Arkansas Rep. Rick Crawford on Nov. 5 asking Huang to appear before the Select Committee on China, the House Foreign Affairs Committee and House Select Committee on Intelligence. Mast chairs the foreign affairs panel, and Crawford chairs intelligence.
-"Recent reports raise significant national security concerns regarding the PRC's access to sensitive U.S. technology and information," the three Republicans wrote.
-Mast said Tuesday he did not know whether Huang had responded to the letter he authored with Moolenar and Crawford demanding the tech CEO brief them.
-"I can't say that I've heard an answer back yet that," Mast told reporters at the Capitol.
-Mast then rattled off a list of questions he has for Huang, including where the company has been selling chips, what Megaspeed may have been using them for, who has been remotely accessing Nvidia chips, and what information was passed between Huang and the potential spy.
-"Obviously questions relating to his relationship and what information was or was not passed about anything," Mast said when asked what he wants answered.
-Mast said he "can't say it would hurt" to hear from the Commerce Department as well, noting he speaks regularly to the Bureau of Industry and Security.
-"So that's obviously something that falls directly under Commerce," he said`,
-    bodyJa: `Democratic leader Sen. Charles Schumer ripped President Donald Trump on Tuesday for defending embattled Nvidia CEO Jensen Huang at the expense of U.S. national security.
-"The press reports that Trump was briefed more than a year ago that Nvidia's CEO was having an affair with a suspected Chinese spy, and Trump didn't do anything – anything – about it," Schumer, D-N.Y., said on the Senate floor.
-"Can you believe that?" said Schumer, the Senate's minority leader.
-Schumer's broadside came on the heels of New York Times reports that Trump had been briefed about Huang's extramarital affair with Megaspeed executive Alice Huang — whom U.S. intelligence concluded was a spy for China — and opted not to do anything about it.
-Trump suggested to reporters on Monday that he only recently learned of the allegations about Alice Huang, and the president commented Monday that he "really" believes Jensen Huang's claim to him directly that he had no idea Alice Huang was a spy.
-"One of our most important companies that is involved in national security, and the CEO might be having an affair with a Chinese spy, and Trump did nothing about it," Schumer said Tuesday.
-"What a dereliction of duty. He's supposed to protect America, not China, not his friends," Schumer said. "Trump has been busy trying to defend Jensen Huang when he ought to be defending our national security. It's that simple, it's obvious."
-Schumer's comments escalated growing bipartisan concern in Congress about the Nvidia CEO and his company. Nvidia makes advanced chips that are essential components in developing artificial intelligence models, a sector that is the focus of keen competition between the United States and China.
-Schumer noted that Trump earlier this year invited Huang to join him on a state visit to Beijing, and that he took Huang's advice by granting the People's Republic of China "access to some of our most advanced AI chips."
-Nvidia also donated $25 million to Trump's controversial White House ballroom project, the Democrat said.
-"Despite talking a big game, Trump continues to show a troubling resistance to confront China on AI and to protect American national security," Schumer said. "I've been saying it for years: our cutting-edge AI chips are too valuable to fall into the hands of potential adversaries."
-Schumer in his speech called on Republicans to join Democrats in passing several pieces of legislation — the AI Overwatch Act, the Match Act, and the Chip Security Act — which he said would "cut off China's access to advanced American technology."
-"We also need answers on Nvidia's influence campaign and how [it] affected the Trump administration's national security decisions, including the loosening – the loosening – of key export controls," Schumer said. "We need a full accounting for Trump's failure to address foreign espionage in the American tech industry."
-CNBC has requested comment from the White House about Schumer's remarks.
-The remarks came nearly a week after Democrats won enough Senate and House races nationwide to take majority control of both chambers of Congress in January. Schumer hopes to be selected majority leader.
-Regardless of which Democrats are tapped to serve as majority leaders in both chambers, the party will have the ability to launch investigations into Nvidia and Huang.
-Earlier Tuesday, Rep. John Moolenaar, R-Mich., said on CNBC's "Squawk Box" that Congress needs to "get to the bottom" of Jensen Huang's relationship with Alice Huang.
-Moolenaar, who chairs the House Permanent Select Committee on China, said he wants to know whether Huang shared privileged information with a Chinese spy; whether Huang was influenced to lobby against preventing chip sales to China; and whether China was given preference in purchasing Nvidia's limited supply of advanced chips.
-And he urged a thorough internal investigation of Huang.
-"If it becomes less of an investigation, more of damage control, that's not going to work because people have to have confidence," Moolenaar said.
-"We're dealing with the country, the Chinese Communist Party that is a foremost adversary, that's funding wars and supporting Russia, supporting Iran, North Korea," he said. "And we have basically a Cold War race with technology. We cannot allow the premier company at the forefront of this to, in some way, be irresponsible."
-Congressional scrutiny of Huang's affair has intensified since members returned to Washington on Monday, a day after Nvidia announced it was opening an independent investigation into Jensen Huang's conduct.
-Rep. Jay Obernolte, R-Calif., co-chair of the House AI task force, raised concerns that the scandal could plague talks over export controls for advanced AI chips.
-"It's important not to have a personal scandal interfere with the substantive policy discussion about to what degree we should be allowing the export of cutting edge chips to our geopolitical competitors like China," Obernolte told CNBC. "I hope this isn't a distraction because that's a very important conversation that needs to happen."
-House Minority Leader Hakeem Jeffries, D-N.Y., said at a news conference on Monday that "we're going to need a full briefing specifically as it relates to the Nvidia issue so we can all get to the bottom of what has happened and what the implications are in terms of national security"
-Moolenaar co-authored a letter with Florida Rep. Brian Mast and Arkansas Rep. Rick Crawford on Nov. 5 asking Huang to appear before the Select Committee on China, the House Foreign Affairs Committee and House Select Committee on Intelligence. Mast chairs the foreign affairs panel, and Crawford chairs intelligence.
-"Recent reports raise significant national security concerns regarding the PRC's access to sensitive U.S. technology and information," the three Republicans wrote.
-Mast said Tuesday he did not know whether Huang had responded to the letter he authored with Moolenar and Crawford demanding the tech CEO brief them.
-"I can't say that I've heard an answer back yet that," Mast told reporters at the Capitol.
-Mast then rattled off a list of questions he has for Huang, including where the company has been selling chips, what Megaspeed may have been using them for, who has been remotely accessing Nvidia chips, and what information was passed between Huang and the potential spy.
-"Obviously questions relating to his relationship and what information was or was not passed about anything," Mast said when asked what he wants answered.
-Mast said he "can't say it would hurt" to hear from the Commerce Department as well, noting he speaks regularly to the Bureau of Industry and Security.
-"So that's obviously something that falls directly under Commerce," he said`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
-    publishedAt: "2026-11-10T23:06:44+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "coreweave-beats-on-revenue-and-lifts-gui-cb83ecb7",
-    title: "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
-    titleJa: "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
-    summaryJa: "CoreWeave's stock has been hammered heading into the neocloud's Q3 earnings report.",
-    bodyOriginal: `CoreWeave reported better-than-expected quarterly revenue and lifted its 2026 guidance on Tuesday, showing that demand for artificial intelligence infrastructure remains strong despite concerns of a market slowdown. The stock advanced in extended trading.
-The earnings announcement lands at a particularly volatile moment for CoreWeave and its neocloud peers, as the market sours on the AI trade and as Nvidia CEO Jensen Huang, the central figure in the global buildout, faces a scandal tied to an affair with an alleged Chinese spy.
-Here's how the company performed relative to LSEG consensus:
-- Loss per share: 95 cents adjusted vs. $1.16 expected
-- Revenue: $3.66 billion vs. $3.55 billion expected
-CoreWeave's revenue soared 168% from about $1.36 billion a year earlier, according to a statement. The company recorded a net loss of $709 million, or $1.27 per share, compared to a net loss of $110 million a year earlier. Adjusted earnings exclude stock-based compensation.
-Executives pushed up their forecast for 2026. They now see $1.275 billion to $1.375 billion in adjusted operating income on $13 billion to $13.3 billion in revenue. Analysts surveyed by Visible Alpha were looking for $1.07 billion in adjusted operating income, and analysts polled by LSEG had expected $12.86 billion in 2026 revenue.
-In August, CoreWeave's 2026 guidance included $960 million to $1.15 billion in adjusted operating income and $12.4 billion to $13.2 billion in revenue.
-CoreWeave has lost over 40% of its value in the past month, as investors rotate out of companies most closely tied to AI infrastructure. Rising interest rates have pushed lenders out of the market, raising concerns about ongoing access to capital. Some CoreWeave bond yields recently topped 16%.
-"The business can execute well and still face a tougher financing environment," Joe Tigay, portfolio manager at Equity Armor Investments, wrote in an email. "Strong demand is encouraging; the cost and availability of capital remain critical."
-CoreWeave will get most the capital it needs for 2027 through clients pre-payments and financing from hardware partners, and the company will raise "a limited amount" as well, CEO Mike Intrator told analysts on a conference call.
-The company plans to raise new debt tied to a set of contracts in the weeks to come, said Nitin Agrawal, its finance chief.
-"At current yields, we do not intend to issue additional parent-level unsecured debt through 2027," he said. "By contrast, the asset-level secured debt market has remained stable, with our loans continuing to trade around par value." In all, he said he projects under $5 billion in parent-level debt financing through 2027.
-Fellow neocloud Nebius, whose stock is down by a similar amount, is scheduled to report earnings on Thursday. Nebius shares got a small boost from CoreWeave's results.
-Both companies and several other providers of cloud-based graphics processing units are particularly reliant on Nvidia, which provides GPUs as well as necessary capital to the whole ecosystem. Nvidia shares have dropped nearly 10% to start the week as the Huang affair raises pressure on the company in Washington, D.C. Nvidia's board said on Tuesday that it hired Wachtell, Lipton, Rosen & Katz to investigate Huang and determine whether national security or company secrets were compromised.
-CoreWeave investors are also looking toward next week, when key customer Anthropic is scheduled to debut on the Nasdaq. In its updated IPO prospectus on Tuesday, Anthropic indicated that it could be valued at around $1.4 trillion after its share sale. Anthropic has signed deals for the construction of entire data centers that will meet its needs. "We see that we're going to have long-term relationships with the AI labs," said Intrator, a CoreWeave co-founder.
-During the quarter, CoreWeave said it would establish its first data centers in Asia and announced the Forge service for running and evaluating AI models.
-Management still anticipates 1.85 gigawatts in active power by the end of 2026. CoreWeave is targeting $37 billion to $39 billion in full-year capital expenditures, which would imply 155% growth at the middle of the range. Analysts polled by Visible Alpha were looking for $37.69 billion.
-CoreWeave owed almost $47 billion in debt at the end of the third quarter, according to the statement. Like its bigger cloud rivals such as Amazon and Oracle, CoreWeave is rushing to bolster computing capacity for clients. But last week, voters in the U.S., where CoreWeave derives most of its revenue, rejected dozens of initiatives on data center development.
-"If data center construction across the sector were to slow, installed compute becomes scarcer, and the knock-on effect is that GPU pricing may stay higher for longer," Intrator said.
-He said the company does not expect risks to deliveries in 2027 based on construction at permitted locations.
-"We could sell all of the capacity that we have to current buyers that are in the queue. We are choosing not to," Intrator said. We're choosing to be patient. We're choosing to bring the infrastructure to market when it is further along, because we believe that that will result in better economic output for the outstanding infrastructure that we have."
-Meanwhile, demand remains robust, with the company now sitting on a $132.5 billion revenue backlog, up from $104 billion as of June.
-"Should we choose to focus only on our committed backlog, we would expect capex for 2027 to remain in line with our 2026 capex investment, while revenue and EBITDA grow significantly," Agrawal said.
-WATCH: Cramer's Mad Dash: CoreWeave`,
-    bodyJa: `CoreWeave reported better-than-expected quarterly revenue and lifted its 2026 guidance on Tuesday, showing that demand for artificial intelligence infrastructure remains strong despite concerns of a market slowdown. The stock advanced in extended trading.
-The earnings announcement lands at a particularly volatile moment for CoreWeave and its neocloud peers, as the market sours on the AI trade and as Nvidia CEO Jensen Huang, the central figure in the global buildout, faces a scandal tied to an affair with an alleged Chinese spy.
-Here's how the company performed relative to LSEG consensus:
-- Loss per share: 95 cents adjusted vs. $1.16 expected
-- Revenue: $3.66 billion vs. $3.55 billion expected
-CoreWeave's revenue soared 168% from about $1.36 billion a year earlier, according to a statement. The company recorded a net loss of $709 million, or $1.27 per share, compared to a net loss of $110 million a year earlier. Adjusted earnings exclude stock-based compensation.
-Executives pushed up their forecast for 2026. They now see $1.275 billion to $1.375 billion in adjusted operating income on $13 billion to $13.3 billion in revenue. Analysts surveyed by Visible Alpha were looking for $1.07 billion in adjusted operating income, and analysts polled by LSEG had expected $12.86 billion in 2026 revenue.
-In August, CoreWeave's 2026 guidance included $960 million to $1.15 billion in adjusted operating income and $12.4 billion to $13.2 billion in revenue.
-CoreWeave has lost over 40% of its value in the past month, as investors rotate out of companies most closely tied to AI infrastructure. Rising interest rates have pushed lenders out of the market, raising concerns about ongoing access to capital. Some CoreWeave bond yields recently topped 16%.
-"The business can execute well and still face a tougher financing environment," Joe Tigay, portfolio manager at Equity Armor Investments, wrote in an email. "Strong demand is encouraging; the cost and availability of capital remain critical."
-CoreWeave will get most the capital it needs for 2027 through clients pre-payments and financing from hardware partners, and the company will raise "a limited amount" as well, CEO Mike Intrator told analysts on a conference call.
-The company plans to raise new debt tied to a set of contracts in the weeks to come, said Nitin Agrawal, its finance chief.
-"At current yields, we do not intend to issue additional parent-level unsecured debt through 2027," he said. "By contrast, the asset-level secured debt market has remained stable, with our loans continuing to trade around par value." In all, he said he projects under $5 billion in parent-level debt financing through 2027.
-Fellow neocloud Nebius, whose stock is down by a similar amount, is scheduled to report earnings on Thursday. Nebius shares got a small boost from CoreWeave's results.
-Both companies and several other providers of cloud-based graphics processing units are particularly reliant on Nvidia, which provides GPUs as well as necessary capital to the whole ecosystem. Nvidia shares have dropped nearly 10% to start the week as the Huang affair raises pressure on the company in Washington, D.C. Nvidia's board said on Tuesday that it hired Wachtell, Lipton, Rosen & Katz to investigate Huang and determine whether national security or company secrets were compromised.
-CoreWeave investors are also looking toward next week, when key customer Anthropic is scheduled to debut on the Nasdaq. In its updated IPO prospectus on Tuesday, Anthropic indicated that it could be valued at around $1.4 trillion after its share sale. Anthropic has signed deals for the construction of entire data centers that will meet its needs. "We see that we're going to have long-term relationships with the AI labs," said Intrator, a CoreWeave co-founder.
-During the quarter, CoreWeave said it would establish its first data centers in Asia and announced the Forge service for running and evaluating AI models.
-Management still anticipates 1.85 gigawatts in active power by the end of 2026. CoreWeave is targeting $37 billion to $39 billion in full-year capital expenditures, which would imply 155% growth at the middle of the range. Analysts polled by Visible Alpha were looking for $37.69 billion.
-CoreWeave owed almost $47 billion in debt at the end of the third quarter, according to the statement. Like its bigger cloud rivals such as Amazon and Oracle, CoreWeave is rushing to bolster computing capacity for clients. But last week, voters in the U.S., where CoreWeave derives most of its revenue, rejected dozens of initiatives on data center development.
-"If data center construction across the sector were to slow, installed compute becomes scarcer, and the knock-on effect is that GPU pricing may stay higher for longer," Intrator said.
-He said the company does not expect risks to deliveries in 2027 based on construction at permitted locations.
-"We could sell all of the capacity that we have to current buyers that are in the queue. We are choosing not to," Intrator said. We're choosing to be patient. We're choosing to bring the infrastructure to market when it is further along, because we believe that that will result in better economic output for the outstanding infrastructure that we have."
-Meanwhile, demand remains robust, with the company now sitting on a $132.5 billion revenue backlog, up from $104 billion as of June.
-"Should we choose to focus only on our committed backlog, we would expect capex for 2027 to remain in line with our 2026 capex investment, while revenue and EBITDA grow significantly," Agrawal said.
-WATCH: Cramer's Mad Dash: CoreWeave`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
-    publishedAt: "2026-11-10T23:02:16+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "one-reason-children-s-place-is-going-ban-b33e30f1",
-    title: "One reason Children’s Place is going bankrupt? Not enough children.",
-    titleJa: "One reason Children’s Place is going bankrupt? Not enough children.",
-    summaryJa: "People might be having fewer children, but that isn’t the only thing to blame for Children’s Place filing for bankruptcy.",
-    bodyOriginal: `People might be having fewer children, but that isn’t the only thing to blame for Children’s Place filing for bankruptcy.`,
-    bodyJa: `People might be having fewer children, but that isn’t the only thing to blame for Children’s Place filing for bankruptcy.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/one-reason-the-childrens-place-is-going-bankrupt-not-enough-children-b275eab0?mod=mw_rss_topstories",
-    publishedAt: "2026-11-10T22:56:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-03873300",
-    readTime: 2,
-  },
-  {
-    id: "nvidia-hires-major-us-law-firm-to-invest-bd3bdf99",
-    title: "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-    titleJa: "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-    summaryJa: "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-    bodyOriginal: `Nvidia hires major US law firm to investigate alleged Chinese spy affair
-- Published
-Nvidia has hired one of the largest law firms in the US to investigate the affair between its own chief executive and an alleged Chinese spy.
-Jensen Huang, who co-founded the tech company, has admitted to having a romantic relationship outside of his marriage. The woman, Alice Huang, is alleged to be a spy for Beijing.
-Nvidia said on Tuesday that it had hired New York law firm Wachtell, Lipton, Rosen & Katz, and that its attorney Joon Kim would lead "a thorough and independent investigation". The FBI is also conducting its own probe.
-The company's share price has fallen almost to a yearly low, with $500bn (£375bn) wiped of its stock market value since Friday.
-Nvidia is widely considered one of the most important companies behind the artificial intelligence (AI) boom given it is the sole manufacturer of a crucial computer chip required for successfully operating AI tools.
-It is the world's second most valuable company after Apple and its chips have become a matter of national security for US officials keen to win the AI race.
-Alice Huang was an executive at a Singaporean company Megaspeed, which has been a customer of Nvidia.
-The company had been suspected of helping divert Nvidia chips to China, a concern that Nvidia has said was investigated and debunked.
-Nvidia has also maintained the US government did not inform the firm that Megaspeed posed an intelligence concern.
-According to the New York Times, Secretary of State Marco Rubio sent a memo to top officials in Washington in spring of this year warning that the Jensen Huang was in a close relationship with a Chinese spy.
-Beijing has rejected claims that Jensen Huang has been targeted, with its foreign ministry saying the allegations were "intended to smear and malign China".
-US President Donald Trump said Monday that he had spoken to Jensen Huang and that the Nvidia boss told him "I had no idea she was a spy." Trump said he believed the him.
-However, the relationship has drawn more political attention. Congressional leaders of the House Committee on Foreign Affairs have asked Jensen Huang to appear next week for a closed door briefing.
-The Nvidia boss has yet to say whether he will attend, a person familiar with the committee's demand told the BBC.
-The committee has the authority to subpoena Jensen Huang, effectively forcing him to appear before the committee, if deemed necessary.
-When announcing on Sunday that it would investigate the affair, Nvidia's board said it had no reason to believe the company's secrets or national security were compromised.
-It added that a committee of independent directors would oversee the probe.
-What we know so far about Jensen Huang's affair with suspected Chinese spy
-- Published1 hour ago
-Joon Kim, who will lead Nvidia's investigation, is a former US Attorney for New York's Southern District and spent several years working as a government attorney focused on fraud and other criminal acts.
-Wachtell is one of the largest law firms in the US and has several notable clients in the tech industry. Among them are OpenAI and Salesforce.
-The investigation will likely be treated as urgent, according to sources familiar with the matter, as Jensen Huang's public image is tightly intertwined with Nvidia.
-He has become a key public figure in the development on AI, arguing the technology is a "new industrial revolution" and is on par with the advent of electricity.
-It is unclear, however, if Wachtell will be able to interview Alice Huang, who is also known as Huang Le, and is not related to Jensen Huang.
-A spokesperson for Nvidia declined to comment on Tuesday when asked if Jensen Huang had retained any additional of his own legal representation amid the company investigation and the separate one launched by the FBI.
-- Published14 hours ago`,
-    bodyJa: `Nvidia hires major US law firm to investigate alleged Chinese spy affair
-- Published
-Nvidia has hired one of the largest law firms in the US to investigate the affair between its own chief executive and an alleged Chinese spy.
-Jensen Huang, who co-founded the tech company, has admitted to having a romantic relationship outside of his marriage. The woman, Alice Huang, is alleged to be a spy for Beijing.
-Nvidia said on Tuesday that it had hired New York law firm Wachtell, Lipton, Rosen & Katz, and that its attorney Joon Kim would lead "a thorough and independent investigation". The FBI is also conducting its own probe.
-The company's share price has fallen almost to a yearly low, with $500bn (£375bn) wiped of its stock market value since Friday.
-Nvidia is widely considered one of the most important companies behind the artificial intelligence (AI) boom given it is the sole manufacturer of a crucial computer chip required for successfully operating AI tools.
-It is the world's second most valuable company after Apple and its chips have become a matter of national security for US officials keen to win the AI race.
-Alice Huang was an executive at a Singaporean company Megaspeed, which has been a customer of Nvidia.
-The company had been suspected of helping divert Nvidia chips to China, a concern that Nvidia has said was investigated and debunked.
-Nvidia has also maintained the US government did not inform the firm that Megaspeed posed an intelligence concern.
-According to the New York Times, Secretary of State Marco Rubio sent a memo to top officials in Washington in spring of this year warning that the Jensen Huang was in a close relationship with a Chinese spy.
-Beijing has rejected claims that Jensen Huang has been targeted, with its foreign ministry saying the allegations were "intended to smear and malign China".
-US President Donald Trump said Monday that he had spoken to Jensen Huang and that the Nvidia boss told him "I had no idea she was a spy." Trump said he believed the him.
-However, the relationship has drawn more political attention. Congressional leaders of the House Committee on Foreign Affairs have asked Jensen Huang to appear next week for a closed door briefing.
-The Nvidia boss has yet to say whether he will attend, a person familiar with the committee's demand told the BBC.
-The committee has the authority to subpoena Jensen Huang, effectively forcing him to appear before the committee, if deemed necessary.
-When announcing on Sunday that it would investigate the affair, Nvidia's board said it had no reason to believe the company's secrets or national security were compromised.
-It added that a committee of independent directors would oversee the probe.
-What we know so far about Jensen Huang's affair with suspected Chinese spy
-- Published1 hour ago
-Joon Kim, who will lead Nvidia's investigation, is a former US Attorney for New York's Southern District and spent several years working as a government attorney focused on fraud and other criminal acts.
-Wachtell is one of the largest law firms in the US and has several notable clients in the tech industry. Among them are OpenAI and Salesforce.
-The investigation will likely be treated as urgent, according to sources familiar with the matter, as Jensen Huang's public image is tightly intertwined with Nvidia.
-He has become a key public figure in the development on AI, arguing the technology is a "new industrial revolution" and is on par with the advent of electricity.
-It is unclear, however, if Wachtell will be able to interview Alice Huang, who is also known as Huang Le, and is not related to Jensen Huang.
-A spokesperson for Nvidia declined to comment on Tuesday when asked if Jensen Huang had retained any additional of his own legal representation amid the company investigation and the separate one launched by the FBI.
-- Published14 hours ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-10T22:52:15+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d6c/live/e7ad5400-dd59-11f1-b441-2b33b063138f.jpg",
-    readTime: 10,
-  },
-  {
-    id: "amd-s-stock-fades-as-investors-weigh-whe-0c20d17f",
-    title: "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
-    titleJa: "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
-    summaryJa: "It’s one thing for money to shift between stocks,  but it’s another thing for customers to shift their supplier relationships.",
-    bodyOriginal: `It’s one thing for money to shift between stocks,  but it’s another thing for customers to shift their supplier relationships.`,
-    bodyJa: `It’s one thing for money to shift between stocks,  but it’s another thing for customers to shift their supplier relationships.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
-    publishedAt: "2026-11-10T22:37:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-86112590",
-    readTime: 2,
-  },
-  {
-    id: "mississippi-senate-scott-colom-extends-t-0c6bc4e6",
-    title: "Mississippi Senate: Scott Colom extends tight lead over Hyde-Smith as ballot deadlines hit",
-    titleJa: "Mississippi Senate: Scott Colom extends tight lead over Hyde-Smith as ballot deadlines hit",
-    summaryJa: "Tuesday was the deadline for provisional ballots to be resolved in Mississippi, and the deadline for the receipt of mail-in absentee ballots.",
-    bodyOriginal: `Democratic nominee Scott Colom added slightly to his narrow lead over incumbent Sen. Cindy Hyde-Smith in the Mississippi Senate election as two key ballot deadlines hit Tuesday.
-Colom, a local district attorney, as of 4:30 p.m. ET, was ahead of Hyde-Smith by 2,607 votes, out of 953,547 votes counted, with an estimated 97% of the votes in, according to the Associated Press. That's a margin of just 0.27 percentage points.
-Independent candidate Ty Pinkins had 20,034 votes.
-Tuesday is the deadline for resolving affidavit or provisional ballots, which are cast by voters whose eligibility is disputed or unclear on Election Day. It is also the deadline for the receipt of mail-in absentee ballots that are postmarked by Election Day, Nov. 3.
-Mississippi is one of just two states whose Senate election has not been called. Alaska is the other.
-Democrats so far have flipped seven Senate seats held by Republicans going into the election. That gives Democrats a new majority in the Senate of at least 54 seats in the 100-member chamber come January.
-Alaska before Election Day was viewed as possibly key to the question of whether Republicans would retain their narrow majority in the Senate.
-Mississippi, which has not elected a Democratic senator since the segregationist John Stennis in 1982, was on few political analysts' radar as a possible pickup for Democrats. If Colom wins his race, he would be the first Black senator from Mississippi since the post-Civil War Reconstruction Era.
-In Alaska, Democratic nominee Mary Peltola is ahead by just 2,517 votes over incumbent Republican Sen. Dan Sullivan, with 218,641 total votes counted, a margin of 1.1 percentage points.
-Peltola has 48.6% of the total vote. If neither she nor Sullivan gets more than 50% of the total vote, the race will go to a ranked-choice round, in which the two other candidates, Gerald Heikes and another candidate named Dan Sullivan, will be eliminated, and the second choices of voters who made them their first choice will be allocated between Peltola and the incumbent.`,
-    bodyJa: `Democratic nominee Scott Colom added slightly to his narrow lead over incumbent Sen. Cindy Hyde-Smith in the Mississippi Senate election as two key ballot deadlines hit Tuesday.
-Colom, a local district attorney, as of 4:30 p.m. ET, was ahead of Hyde-Smith by 2,607 votes, out of 953,547 votes counted, with an estimated 97% of the votes in, according to the Associated Press. That's a margin of just 0.27 percentage points.
-Independent candidate Ty Pinkins had 20,034 votes.
-Tuesday is the deadline for resolving affidavit or provisional ballots, which are cast by voters whose eligibility is disputed or unclear on Election Day. It is also the deadline for the receipt of mail-in absentee ballots that are postmarked by Election Day, Nov. 3.
-Mississippi is one of just two states whose Senate election has not been called. Alaska is the other.
-Democrats so far have flipped seven Senate seats held by Republicans going into the election. That gives Democrats a new majority in the Senate of at least 54 seats in the 100-member chamber come January.
-Alaska before Election Day was viewed as possibly key to the question of whether Republicans would retain their narrow majority in the Senate.
-Mississippi, which has not elected a Democratic senator since the segregationist John Stennis in 1982, was on few political analysts' radar as a possible pickup for Democrats. If Colom wins his race, he would be the first Black senator from Mississippi since the post-Civil War Reconstruction Era.
-In Alaska, Democratic nominee Mary Peltola is ahead by just 2,517 votes over incumbent Republican Sen. Dan Sullivan, with 218,641 total votes counted, a margin of 1.1 percentage points.
-Peltola has 48.6% of the total vote. If neither she nor Sullivan gets more than 50% of the total vote, the race will go to a ranked-choice round, in which the two other candidates, Gerald Heikes and another candidate named Dan Sullivan, will be eliminated, and the second choices of voters who made them their first choice will be allocated between Peltola and the incumbent.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
-    publishedAt: "2026-11-10T22:01:52+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "rep-jim-jordan-sen-john-thune-elected-go-2602c576",
-    title: "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
-    titleJa: "Rep. Jim Jordan, Sen. John Thune elected GOP leaders in Congress",
-    summaryJa: "House Speaker Mike Johnson, R-La., announced the day after Election Day he would not run for minority leader in the 120th Congress.",
-    bodyOriginal: `Republican lawmakers on Tuesday picked Rep. Jim Jordan of Ohio and Sen. John Thune of South Dakota to serve as their respective House and Senate minority leaders in the next Congress.
-Jordan, the House Judiciary Committee chairman, was elected in a 106-73 vote, sources told MS NOW on condition of anonymity to discuss the private meeting. He beat Rep. Steve Scalise, R-La., the current House majority leader.
-A two-decade House veteran and committed supporter of President Donald Trump, Jordan will take on the leadership role just as Republicans relinquish power, following blowout Democratic victories in last week's midterm election.
-House Speaker Mike Johnson, R-La., announced the day after Election Day that he would not run for minority leader in the 120th Congress.
-Thune, in a statement, said he "appreciated the opportunity to have an open, honest, and transparent conversation with my colleagues today, and I am honored to have their continued trust and support to lead the Senate Republican Conference in the 120th Congress."
-"I'm proud of what this Republican team has accomplished together, and we remain united in our commitment to advancing conservative priorities, working with President Trump and our colleagues in the House, and holding the line against Democrats' efforts to enact their far-left, liberal agenda," Thune said in the statement.
-"We have important work ahead of us, and I look forward to serving alongside my colleagues on behalf of the American people," he said.`,
-    bodyJa: `Republican lawmakers on Tuesday picked Rep. Jim Jordan of Ohio and Sen. John Thune of South Dakota to serve as their respective House and Senate minority leaders in the next Congress.
-Jordan, the House Judiciary Committee chairman, was elected in a 106-73 vote, sources told MS NOW on condition of anonymity to discuss the private meeting. He beat Rep. Steve Scalise, R-La., the current House majority leader.
-A two-decade House veteran and committed supporter of President Donald Trump, Jordan will take on the leadership role just as Republicans relinquish power, following blowout Democratic victories in last week's midterm election.
-House Speaker Mike Johnson, R-La., announced the day after Election Day that he would not run for minority leader in the 120th Congress.
-Thune, in a statement, said he "appreciated the opportunity to have an open, honest, and transparent conversation with my colleagues today, and I am honored to have their continued trust and support to lead the Senate Republican Conference in the 120th Congress."
-"I'm proud of what this Republican team has accomplished together, and we remain united in our commitment to advancing conservative priorities, working with President Trump and our colleagues in the House, and holding the line against Democrats' efforts to enact their far-left, liberal agenda," Thune said in the statement.
-"We have important work ahead of us, and I look forward to serving alongside my colleagues on behalf of the American people," he said.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/10/jim-jordan-congress-republicans-midterm.html",
-    publishedAt: "2026-11-10T22:00:40+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "white-house-vows-to-press-ahead-with-tar-ea87fedf",
-    title: "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
-    titleJa: "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
-    summaryJa: "Business executives warned at a Washington summit of rising costs and shifting supply chains as polls showed growing opposition to Trump's tariffs.",
-    bodyOriginal: `One week after voters punished Republicans over rising prices in the midterm elections, President Donald Trump's White House signaled it would stay the course on tariffs, even as his former top economic advisor warned that Americans are footing the bill.
-Jim Goyer, Trump's director of White House Office of Public Liaison, defended tariffs as a tool to rebuild U.S. manufacturing, secure supply chains and protect national security during an address Tuesday at the B20 summit, a gathering of global business leaders in Washington hosted by the U.S. Chamber of Commerce.
-"And we are just getting started," Goyer said. "Our ambition is to continue this pace for the remainder of the president's term in office."
-But Gary Cohn, who served as Trump's chief economic advisor during his first administration, offered a sharply different assessment during an onstage interview later Tuesday.
-"Tariffs are a consumption tax on the U.S. consumer," Cohn said, arguing that the duties are raising prices and forcing Americans to reconsider purchases.
-The divide exposed a growing dilemma for Trump. His trade agenda is reshaping global commerce – and driving up costs for voters. Companies are adapting to the chaos, but the old trading system isn't coming back.
-"President Trump has disrupted that system in a way that we're not likely to return to," Kevin Brady, a former Republican congressman who helped lead the B20 summit, said during a discussion with U.S. Chamber CEO Suzanne Clark.
-The political backlash was evident in the Nov. 3 election. Roughly two-thirds of voters said Trump's policies contributed to inflation, according to the CNBC Voter Poll. Nearly nine in 10 said the cost of living was a major or crucial factor in their vote.
-A separate Reuters/Ipsos poll released Tuesday found 62% of Americans supported repealing Trump's tariffs, while just 21% approved of his handling of the cost of living.
-"Last week, American voters sent a clear message about the cost of living and their economic security," Clark said in her keynote address.
-The pressure intensified Tuesday as new government data showed consumer prices rose 0.4% in October, exceeding economists' expectations. Annual inflation reached 3.7% in September, the latest available year-over-year figure and well above the Federal Reserve's 2% target.
-Tariffs are not the only factor driving higher prices. The war with Iran has pushed energy costs sharply higher, while housing, healthcare and other household expenses continue to strain consumers.
-But research has found Trump's import duties have added to those pressures. A Federal Reserve Bank of New York study estimated that about 26% of tariff increases were passed through to consumer prices, with some effects taking nine to 12 months to work through supply chains.
-Cohn, now vice chairman of IBM, argued that while tariffs generate revenue for the U.S., those gains come at consumers' expense.
-"You're looking at one side of the equation. You're looking at the credit side of the balance sheet," Cohn said, describing how he would respond to Trump's defense of tariff revenue. "There's the debit side of the balance sheet, which is every hardworking American who happened to pay the tariff through some product that they bought."
-Still, Cohn saw room for a bipartisan trade deal. He suggested Trump and the incoming Democratic Congress could make protections against China and unfair trade practices permanent while rolling back tariffs on Canada, leaving less for future presidents to undo.
-For businesses, the shift is already underway. UPS CEO Carol Tomé said customers are moving production and sourcing closer to home as global supply chains become more regional.
-"Supply chains are diversifying. Supply chains are regionalizing," Tomé said during a panel discussion moderated by CNBC's Morgan Brennan.
-Separately, UPS is opening a new $80 million-plus air hub in the Philippines in October to expand its Asian network and improve connections across more than 1,100 global trade lanes.
-Other executives, like Jim Fitterling, executive chairman of chemicals giant Dow, defended Trump's tariffs despite their costs. Fitterling acknowledged they can drive up prices but argued they are necessary to combat unfair competition and protect U.S. manufacturing.
-Democrats plan to challenge Trump's tariffs when they take control of Congress in January, but his veto power and broad trade authority could make them difficult to overturn.`,
-    bodyJa: `One week after voters punished Republicans over rising prices in the midterm elections, President Donald Trump's White House signaled it would stay the course on tariffs, even as his former top economic advisor warned that Americans are footing the bill.
-Jim Goyer, Trump's director of White House Office of Public Liaison, defended tariffs as a tool to rebuild U.S. manufacturing, secure supply chains and protect national security during an address Tuesday at the B20 summit, a gathering of global business leaders in Washington hosted by the U.S. Chamber of Commerce.
-"And we are just getting started," Goyer said. "Our ambition is to continue this pace for the remainder of the president's term in office."
-But Gary Cohn, who served as Trump's chief economic advisor during his first administration, offered a sharply different assessment during an onstage interview later Tuesday.
-"Tariffs are a consumption tax on the U.S. consumer," Cohn said, arguing that the duties are raising prices and forcing Americans to reconsider purchases.
-The divide exposed a growing dilemma for Trump. His trade agenda is reshaping global commerce – and driving up costs for voters. Companies are adapting to the chaos, but the old trading system isn't coming back.
-"President Trump has disrupted that system in a way that we're not likely to return to," Kevin Brady, a former Republican congressman who helped lead the B20 summit, said during a discussion with U.S. Chamber CEO Suzanne Clark.
-The political backlash was evident in the Nov. 3 election. Roughly two-thirds of voters said Trump's policies contributed to inflation, according to the CNBC Voter Poll. Nearly nine in 10 said the cost of living was a major or crucial factor in their vote.
-A separate Reuters/Ipsos poll released Tuesday found 62% of Americans supported repealing Trump's tariffs, while just 21% approved of his handling of the cost of living.
-"Last week, American voters sent a clear message about the cost of living and their economic security," Clark said in her keynote address.
-The pressure intensified Tuesday as new government data showed consumer prices rose 0.4% in October, exceeding economists' expectations. Annual inflation reached 3.7% in September, the latest available year-over-year figure and well above the Federal Reserve's 2% target.
-Tariffs are not the only factor driving higher prices. The war with Iran has pushed energy costs sharply higher, while housing, healthcare and other household expenses continue to strain consumers.
-But research has found Trump's import duties have added to those pressures. A Federal Reserve Bank of New York study estimated that about 26% of tariff increases were passed through to consumer prices, with some effects taking nine to 12 months to work through supply chains.
-Cohn, now vice chairman of IBM, argued that while tariffs generate revenue for the U.S., those gains come at consumers' expense.
-"You're looking at one side of the equation. You're looking at the credit side of the balance sheet," Cohn said, describing how he would respond to Trump's defense of tariff revenue. "There's the debit side of the balance sheet, which is every hardworking American who happened to pay the tariff through some product that they bought."
-Still, Cohn saw room for a bipartisan trade deal. He suggested Trump and the incoming Democratic Congress could make protections against China and unfair trade practices permanent while rolling back tariffs on Canada, leaving less for future presidents to undo.
-For businesses, the shift is already underway. UPS CEO Carol Tomé said customers are moving production and sourcing closer to home as global supply chains become more regional.
-"Supply chains are diversifying. Supply chains are regionalizing," Tomé said during a panel discussion moderated by CNBC's Morgan Brennan.
-Separately, UPS is opening a new $80 million-plus air hub in the Philippines in October to expand its Asian network and improve connections across more than 1,100 global trade lanes.
-Other executives, like Jim Fitterling, executive chairman of chemicals giant Dow, defended Trump's tariffs despite their costs. Fitterling acknowledged they can drive up prices but argued they are necessary to combat unfair competition and protect U.S. manufacturing.
-Democrats plan to challenge Trump's tariffs when they take control of Congress in January, but his veto power and broad trade authority could make them difficult to overturn.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
-    publishedAt: "2026-11-10T21:45:46+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
   },
 ];
 
