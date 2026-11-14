@@ -15,6 +15,296 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "here-s-how-bernie-sanders-wants-to-keep-6e394874",
+    title: "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+    titleJa: "Here’s how Bernie Sanders wants to keep Social Security solvent ‘for generations’",
+    summaryJa: "The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes",
+    bodyOriginal: `The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes`,
+    bodyJa: `The Vermont senator aims to eliminate the taxable maximum, making the wealthy pay more in taxes`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/heres-how-bernie-sanders-wants-to-keep-social-security-solvent-for-generations-f5666a38?mod=mw_rss_topstories",
+    publishedAt: "2026-11-14T17:50:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-95193263",
+    readTime: 2,
+  },
+  {
+    id: "the-trillion-dollar-mistake-corporate-am-cbeaaac1",
+    title: "The trillion-dollar mistake corporate America is making about retirement",
+    titleJa: "The trillion-dollar mistake corporate America is making about retirement",
+    summaryJa: "The market is dramatically underpricing the economic impact of Americans age 50 and older.",
+    bodyOriginal: `The market is dramatically underpricing the economic impact of Americans age 50 and older.`,
+    bodyJa: `The market is dramatically underpricing the economic impact of Americans age 50 and older.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+    publishedAt: "2026-11-14T17:50:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-43763907",
+    readTime: 2,
+  },
+  {
+    id: "the-lonely-labor-of-caregiving-you-shoul-ef4d491a",
+    title: "The lonely labor of caregiving: ‘You shouldn’t have to be rich to take care of the people you love’",
+    titleJa: "The lonely labor of caregiving: ‘You shouldn’t have to be rich to take care of the people you love’",
+    summaryJa: "“Take Me Home” offers a view of how one family faces caregiving issues and finds solutions.",
+    bodyOriginal: `“Take Me Home” offers a view of how one family faces caregiving issues and finds solutions.`,
+    bodyJa: `“Take Me Home” offers a view of how one family faces caregiving issues and finds solutions.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/if-you-could-change-one-thing-about-caregiving-what-would-it-be-8b20be29?mod=mw_rss_topstories",
+    publishedAt: "2026-11-14T17:50:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-84810296",
+    readTime: 2,
+  },
+  {
+    id: "medicare-at-age-50-what-medicare-for-mor-0bd5d828",
+    title: "Medicare at age 50? What ‘Medicare for more’ could mean for American workers.",
+    titleJa: "Medicare at age 50? What ‘Medicare for more’ could mean for American workers.",
+    summaryJa: "It’s not “Medicare for All,” but a new bill would lower the Medicare age to 50, expanding coverage for 60 million adults",
+    bodyOriginal: `It’s not “Medicare for All,” but a new bill would lower the Medicare age to 50, expanding coverage for 60 million adults`,
+    bodyJa: `It’s not “Medicare for All,” but a new bill would lower the Medicare age to 50, expanding coverage for 60 million adults`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/its-not-medicare-for-all-but-medicare-for-more-what-this-could-mean-for-workers-over-50-4a5c51a3?mod=mw_rss_topstories",
+    publishedAt: "2026-11-14T17:50:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-17509627",
+    readTime: 2,
+  },
+  {
+    id: "nvidia-board-urged-to-consider-potential-a220594d",
+    title: "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+    titleJa: "Nvidia board urged to consider 'potential return of Jensen Huang' by two major investors",
+    summaryJa: "Two Nvidia investors with about $2.13 billion of stock disclosed as of June 30 are calling for a deliberate leadership search after Huang’s resignation.",
+    bodyOriginal: `Two major Nvidia shareholders are calling on the board of directors to weigh all options for the company's future leadership, including "the potential return of Jensen Huang."
+Altimeter Capital CEO Brad Gerstner posted a letter on X on Friday that urges Nvidia's board to "pursue a slow, measured, and deliberate process regarding the future leadership of Nvidia." The letter is also signed by Atreides Management's Gavin Baker.
+Nvidia was Altimeter Capital's largest disclosed equity holding in its most recent SEC filing, with a 9.4 million-share stake worth nearly $1.9 billion as of June 30. Atreides held 1.2 million shares worth nearly $250 million at the end of June.
+The letter said Nvidia will be "capably led" by interim CEO Colette Kress, who served as Nvidia's CFO for 13 years before the board announced Thursday that she'd lead the company in Huang's absence.
+"But the Founder and long time incredible leader of this extraordinary company has earned the right for a deliberate process that avoids any needless rush to replace him before all the facts are known," the letter concludes. The document did not call for Huang's immediate reinstatement.
+Nvidia founder Jensen Huang resigned on Thursday amid multiple affair allegations, including one with suspected Chinese spy Alice Huang, who also worked with Nvidia customer Megaspeed. The Singapore-based company is being investigated by the Justice Department for possibly redirecting some of its supply of Nvidia's restricted artificial intelligence chips to China.
+SpaceX CEO Elon Musk said on X Friday that he signed a petition asking to reinstate Huang. A petition circulating online called "Stand with Jensen" claims to have more than 100,000 signatures, including more than 5,000 current Nvidia employees.
+Musk said on X Saturday that without Huang, some "critical deals will be lost."
+Another letter sent Friday called on U.S. Secretary of Commerce Howard Lutnick to testify about Megaspeed before the House Intelligence Committee.
+Lutnick has agreed to testify before the Senate Banking Committee on Dec. 10 about whether the Commerce Department is "properly performing its broader role of preventing China from acquiring advanced AI chips," according to the letter. Huang has also been asked to testify.
+The Commerce Department originally launched an investigation into Megaspeed that was moved to the Justice Department in 2025 after Nvidia's lawyer contacted a senior Commerce official, according to The New York Times.
+President Donald Trump is scheduled to visit China on Thursday, but doesn't plan to raise Nvidia and the suspected spy affair during his meeting with Chinese president Xi Jinping, according to U.S. officials. Musk is expected to join Trump on the trip to Shenzhen, China, for the Asia-Pacific Economic Cooperation summit on Nov. 18 and 19.`,
+    bodyJa: `Two major Nvidia shareholders are calling on the board of directors to weigh all options for the company's future leadership, including "the potential return of Jensen Huang."
+Altimeter Capital CEO Brad Gerstner posted a letter on X on Friday that urges Nvidia's board to "pursue a slow, measured, and deliberate process regarding the future leadership of Nvidia." The letter is also signed by Atreides Management's Gavin Baker.
+Nvidia was Altimeter Capital's largest disclosed equity holding in its most recent SEC filing, with a 9.4 million-share stake worth nearly $1.9 billion as of June 30. Atreides held 1.2 million shares worth nearly $250 million at the end of June.
+The letter said Nvidia will be "capably led" by interim CEO Colette Kress, who served as Nvidia's CFO for 13 years before the board announced Thursday that she'd lead the company in Huang's absence.
+"But the Founder and long time incredible leader of this extraordinary company has earned the right for a deliberate process that avoids any needless rush to replace him before all the facts are known," the letter concludes. The document did not call for Huang's immediate reinstatement.
+Nvidia founder Jensen Huang resigned on Thursday amid multiple affair allegations, including one with suspected Chinese spy Alice Huang, who also worked with Nvidia customer Megaspeed. The Singapore-based company is being investigated by the Justice Department for possibly redirecting some of its supply of Nvidia's restricted artificial intelligence chips to China.
+SpaceX CEO Elon Musk said on X Friday that he signed a petition asking to reinstate Huang. A petition circulating online called "Stand with Jensen" claims to have more than 100,000 signatures, including more than 5,000 current Nvidia employees.
+Musk said on X Saturday that without Huang, some "critical deals will be lost."
+Another letter sent Friday called on U.S. Secretary of Commerce Howard Lutnick to testify about Megaspeed before the House Intelligence Committee.
+Lutnick has agreed to testify before the Senate Banking Committee on Dec. 10 about whether the Commerce Department is "properly performing its broader role of preventing China from acquiring advanced AI chips," according to the letter. Huang has also been asked to testify.
+The Commerce Department originally launched an investigation into Megaspeed that was moved to the Justice Department in 2025 after Nvidia's lawyer contacted a senior Commerce official, according to The New York Times.
+President Donald Trump is scheduled to visit China on Thursday, but doesn't plan to raise Nvidia and the suspected spy affair during his meeting with Chinese president Xi Jinping, according to U.S. officials. Musk is expected to join Trump on the trip to Shenzhen, China, for the Asia-Pacific Economic Cooperation summit on Nov. 18 and 19.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+    publishedAt: "2026-11-14T17:46:06+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "ground-stop-followed-updates-to-older-l3-314bd2c2",
+    title: "Ground stop followed updates to older L3Harris communication system: DOT’s Duffy",
+    titleJa: "Ground stop followed updates to older L3Harris communication system: DOT’s Duffy",
+    summaryJa: "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
+    bodyOriginal: `The longest halt of flight departures to U.S. airports since 9/11 came after updates to a communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.
+A router in a remote location had overloaded other parts of the system and prompted the Federal Aviation Administration to impose a nationwide ground stop on Friday, officials said.
+There was "zero evidence" that the problem was caused by something "nefarious" or anything related to artificial intelligence, Bryan Bedford, the head of the Federal Aviation Administration, said at a press conference.
+Bedford said no facilities went dark but noted that officials decided to ground flights because of "instability" in information feeds.
+Flight disruptions continued on Saturday. More than 3,700 U.S. flights were canceled Saturday and close to 2,000 were delayed as of 9:40 a.m. ET, according to flight-tracking site FlightAware. That's on top of about 9,000 U.S. flight cancellations and more than 7,000 delays on Friday, though some disruptions were due to bad weather.
+Part of untangling from the ground stop includes getting aircraft where they need to be. The ground stop forced many planes to divert to other airports.
+Airlines run one of the lightest schedules on Saturday and are deploying as many spare planes and crews as possible to get travelers and employees where they need to be as they're eager to start fresh for the upcoming Thanksgiving holiday period.
+American Airlines, for example, is offering flight attendants extra pay to pick up trips, according to a person familiar with the airline's plans. Delta Air Lines was giving flight crews confirmed seats on flights to get them into position, according to an internal company message seen by CNBC.
+American and other airlines said they would change customers' tickets at no fee or fare difference if the outage affected their plans.
+Around 3 million people were scheduled to fly on Saturday, according to aviation data firm Cirium.
+The FAA had halted departing U.S. flights around 4 p.m. on Friday, a ground stop that lasted more than four hours. Routers were overloaded with data and started giving air traffic control centers inconsistent information, so the U.S. issued the ground stop, Transportation Secretary Sean Duffy said at a news conference late Friday.
+He blamed outdated U.S. infrastructure for the problem and said Congress needs to approve more money to overhaul the country's air traffic control. Aging equipment and a shortage of air traffic controllers have angered airline executives for years, who have complained about the cost of resulting disruptions.
+It was the second time the FAA has issued a nationwide ground stop since the Sept. 11, 2001 terror attacks. Trump administration officials said it did not appear to be a cyberattack.
+The U.S. has the world's busiest airspace.
+"Before clearing flights to resume, we thoroughly tested our systems to confirm they were stable and that operations remain reliable," the FAA said late Friday.
+The disruption also upended travel for NBA, NHL and college teams, which struggled to reach their destinations in time for games this weekend.
+Duffy said college football teams traveling on charter flights could receive priority.
+"I would encourage those football teams to reach out to the FAA to schedule their flight times and make sure they have games going off tomorrow," he said during a Friday press briefing.
+The Southeastern Conference announced on X that some games had been moved to Sunday due to the flight disruption.
+"We are in close communication with our member institutions to assess potential disruptions and coordinate appropriate responses," the SEC said in a statement shared on X.
+The National Football League said that it is putting in three backup referees for three games on Sunday because of the ground stop, "reassigning officials to games within driving distance of their hometowns."
+— CNBC's Jessica Golden contributed to this article.
+This is breaking news. Please refresh for updates.`,
+    bodyJa: `The longest halt of flight departures to U.S. airports since 9/11 came after updates to a communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.
+A router in a remote location had overloaded other parts of the system and prompted the Federal Aviation Administration to impose a nationwide ground stop on Friday, officials said.
+There was "zero evidence" that the problem was caused by something "nefarious" or anything related to artificial intelligence, Bryan Bedford, the head of the Federal Aviation Administration, said at a press conference.
+Bedford said no facilities went dark but noted that officials decided to ground flights because of "instability" in information feeds.
+Flight disruptions continued on Saturday. More than 3,700 U.S. flights were canceled Saturday and close to 2,000 were delayed as of 9:40 a.m. ET, according to flight-tracking site FlightAware. That's on top of about 9,000 U.S. flight cancellations and more than 7,000 delays on Friday, though some disruptions were due to bad weather.
+Part of untangling from the ground stop includes getting aircraft where they need to be. The ground stop forced many planes to divert to other airports.
+Airlines run one of the lightest schedules on Saturday and are deploying as many spare planes and crews as possible to get travelers and employees where they need to be as they're eager to start fresh for the upcoming Thanksgiving holiday period.
+American Airlines, for example, is offering flight attendants extra pay to pick up trips, according to a person familiar with the airline's plans. Delta Air Lines was giving flight crews confirmed seats on flights to get them into position, according to an internal company message seen by CNBC.
+American and other airlines said they would change customers' tickets at no fee or fare difference if the outage affected their plans.
+Around 3 million people were scheduled to fly on Saturday, according to aviation data firm Cirium.
+The FAA had halted departing U.S. flights around 4 p.m. on Friday, a ground stop that lasted more than four hours. Routers were overloaded with data and started giving air traffic control centers inconsistent information, so the U.S. issued the ground stop, Transportation Secretary Sean Duffy said at a news conference late Friday.
+He blamed outdated U.S. infrastructure for the problem and said Congress needs to approve more money to overhaul the country's air traffic control. Aging equipment and a shortage of air traffic controllers have angered airline executives for years, who have complained about the cost of resulting disruptions.
+It was the second time the FAA has issued a nationwide ground stop since the Sept. 11, 2001 terror attacks. Trump administration officials said it did not appear to be a cyberattack.
+The U.S. has the world's busiest airspace.
+"Before clearing flights to resume, we thoroughly tested our systems to confirm they were stable and that operations remain reliable," the FAA said late Friday.
+The disruption also upended travel for NBA, NHL and college teams, which struggled to reach their destinations in time for games this weekend.
+Duffy said college football teams traveling on charter flights could receive priority.
+"I would encourage those football teams to reach out to the FAA to schedule their flight times and make sure they have games going off tomorrow," he said during a Friday press briefing.
+The Southeastern Conference announced on X that some games had been moved to Sunday due to the flight disruption.
+"We are in close communication with our member institutions to assess potential disruptions and coordinate appropriate responses," the SEC said in a statement shared on X.
+The National Football League said that it is putting in three backup referees for three games on Sunday because of the ground stop, "reassigning officials to games within driving distance of their hometowns."
+— CNBC's Jessica Golden contributed to this article.
+This is breaking news. Please refresh for updates.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+    publishedAt: "2026-11-14T16:46:11+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "how-rockstar-s-gta-vi-release-could-resh-f04f0158",
+    title: "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off",
+    titleJa: "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off",
+    summaryJa: "\"Grand Theft Auto VI\" launches Nov. 19 with huge expectations. Its impact could reach creators, streaming, music, workplace time off, food delivery and tourism.",
+    bodyOriginal: `It's been 13 years since the last installment of Grand Theft Auto, and fans are getting ready for what analysts say could be the biggest video game launch of all time.
+The latest game in the franchise, "Grand Theft Auto VI," is set to launch on Nov. 19, after Take-Two Interactive's Rockstar Games delayed its launch twice. Roth analyst Eric Handler estimated the game maker spent more than $1 billion developing the game.
+Sales figures could end up breaking records. Sensor Tower estimated over 12 million preorders through Nov. 13, and Morgan Stanley forecast the game could sell 40 million copies by March 2027.
+Beyond launch week, the Grand Theft Auto, or GTA, franchise has a track record of lasting engagement over many years. Even 13 years after launch, "Grand Theft Auto V" is one of the top five most viewed games on Twitch this year.
+In anticipation of the game's launch, investors have been taking note: Take-two's stock has more than doubled since the beginning of 2023.
+The release is seen as not only a monumental moment for developer Rockstar Games and parent company Take-Two, but also a massive opportunity for the entire gaming industry.
+Take-Two CEO Strauss Zelnick addressed demand in a recent "Squawk Box" interview, saying, "We tend to be pretty judicious when we talk about this sort of thing, but our expectations were high and they are being vastly exceeded so far."
+Streamers and creators across the digital ecosystem are looking at the launch as a massive opportunity to drive engagement with their content and fuel subscriber and ad revenue growth.
+A creator who goes by the name Deansocool, who has 375,000 followers on Twitch and posts content to YouTube and other social platforms as well, said "GTA VI" will enable creators to grow their audience and provide a massive opportunity for newer streamers to make a name for themselves.
+"This game is going to make a lot of millionaires in 2027. A lot of creators gotta understand this is it. This is that golden ticket. This is like a hundred times bigger than Fortnite," he said in an interview with CNBC.
+"It goes beyond this launch moment into this sustaining opportunity for them to grow, build, engage and retain their audience and ultimately support themselves by making money," said Twitch Chief Product Officer Mike Minton.
+GTA PTO
+The release of the latest Grand Theft Auto title could draw so much attention that its impact will be felt beyond just the world of gaming.
+BambooHR, a workplace time-off platform, reported that paid time off requests for the "GTA VI" release date are nearly 13% higher than equivalent days in 2024 and 2025. It also noted that nearly one in five workers are planning to take time off for the launch.
+PwC issued a report examining all the different sectors of the economy that could benefit from the game's launch — or be hurt by it. The firm projected that food delivery companies could see a surge from hunkered-down gamers, and Miami tourism could benefit. PwC noted that foreign visitors to Seoul's Bukchon Hanok Village, which inspired a location in the hit Netflix movie KPop Demon Hunters, increased 118% in the four weeks following the movie's debut.
+Music streaming also looks set to get a boost. Tom Petty's "Love Is a Long Road," which appeared in the first "GTA VI" trailer in December 2023, reportedly saw Spotify streams jump by more than 37,000%.
+On the downside, the game could distract from movies and streaming entertainment.
+"How are people spending Thanksgiving? There's a lot of sports on TV, but you've also got a pretty solid group of your demographics that are going to be focused on playing 'GTA VI,'" said Bart Spiegel, who leads PwC's Global Entertainment & Media sector. "You're going to start to pull eyeballs away from video streaming platforms.
+"I think you're going to hear a lot of analyst calls in the first quarter of 2027 saying, 'Hey, listen, some of our numbers were down because of the release of this game,'" Spiegel added.
+Rockstar Games declined CNBC's interview request. Watch the video above to learn more.`,
+    bodyJa: `It's been 13 years since the last installment of Grand Theft Auto, and fans are getting ready for what analysts say could be the biggest video game launch of all time.
+The latest game in the franchise, "Grand Theft Auto VI," is set to launch on Nov. 19, after Take-Two Interactive's Rockstar Games delayed its launch twice. Roth analyst Eric Handler estimated the game maker spent more than $1 billion developing the game.
+Sales figures could end up breaking records. Sensor Tower estimated over 12 million preorders through Nov. 13, and Morgan Stanley forecast the game could sell 40 million copies by March 2027.
+Beyond launch week, the Grand Theft Auto, or GTA, franchise has a track record of lasting engagement over many years. Even 13 years after launch, "Grand Theft Auto V" is one of the top five most viewed games on Twitch this year.
+In anticipation of the game's launch, investors have been taking note: Take-two's stock has more than doubled since the beginning of 2023.
+The release is seen as not only a monumental moment for developer Rockstar Games and parent company Take-Two, but also a massive opportunity for the entire gaming industry.
+Take-Two CEO Strauss Zelnick addressed demand in a recent "Squawk Box" interview, saying, "We tend to be pretty judicious when we talk about this sort of thing, but our expectations were high and they are being vastly exceeded so far."
+Streamers and creators across the digital ecosystem are looking at the launch as a massive opportunity to drive engagement with their content and fuel subscriber and ad revenue growth.
+A creator who goes by the name Deansocool, who has 375,000 followers on Twitch and posts content to YouTube and other social platforms as well, said "GTA VI" will enable creators to grow their audience and provide a massive opportunity for newer streamers to make a name for themselves.
+"This game is going to make a lot of millionaires in 2027. A lot of creators gotta understand this is it. This is that golden ticket. This is like a hundred times bigger than Fortnite," he said in an interview with CNBC.
+"It goes beyond this launch moment into this sustaining opportunity for them to grow, build, engage and retain their audience and ultimately support themselves by making money," said Twitch Chief Product Officer Mike Minton.
+GTA PTO
+The release of the latest Grand Theft Auto title could draw so much attention that its impact will be felt beyond just the world of gaming.
+BambooHR, a workplace time-off platform, reported that paid time off requests for the "GTA VI" release date are nearly 13% higher than equivalent days in 2024 and 2025. It also noted that nearly one in five workers are planning to take time off for the launch.
+PwC issued a report examining all the different sectors of the economy that could benefit from the game's launch — or be hurt by it. The firm projected that food delivery companies could see a surge from hunkered-down gamers, and Miami tourism could benefit. PwC noted that foreign visitors to Seoul's Bukchon Hanok Village, which inspired a location in the hit Netflix movie KPop Demon Hunters, increased 118% in the four weeks following the movie's debut.
+Music streaming also looks set to get a boost. Tom Petty's "Love Is a Long Road," which appeared in the first "GTA VI" trailer in December 2023, reportedly saw Spotify streams jump by more than 37,000%.
+On the downside, the game could distract from movies and streaming entertainment.
+"How are people spending Thanksgiving? There's a lot of sports on TV, but you've also got a pretty solid group of your demographics that are going to be focused on playing 'GTA VI,'" said Bart Spiegel, who leads PwC's Global Entertainment & Media sector. "You're going to start to pull eyeballs away from video streaming platforms.
+"I think you're going to hear a lot of analyst calls in the first quarter of 2027 saying, 'Hey, listen, some of our numbers were down because of the release of this game,'" Spiegel added.
+Rockstar Games declined CNBC's interview request. Watch the video above to learn more.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
+    publishedAt: "2026-11-14T14:54:22+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "eric-trump-backed-robot-soldier-startup-ea09f222",
+    title: "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+    titleJa: "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+    summaryJa: "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
+    bodyOriginal: `Foundation Future Industries, a maker of military humanoid robots advised and backed by Eric Trump, failed to pay employees last month as its cash reserves dwindled, according to people with direct knowledge of the matter.
+Workers have yet to receive paychecks after San Francisco-based Foundation missed payroll on Oct. 30, said the people, who asked for anonymity to speak candidly about a private company.
+The situation has particularly angered some inside the startup because its CEO and co-founder, Sankaet Pathak, borrowed $4.6 million from the company last year to buy a luxury home, money that could have been used to pay workers, the people said.
+Public records show that an LLC that names Pathak as sole principal purchased a $4.6 million Sausalito, California, property with "sweeping, cinematic views" of the San Francisco Bay in October 2025.
+A spokesman for Pathak acknowledged receiving a detailed list of the major points from this story on Thursday, but didn't respond to requests for comment. Pathak's previous startup, a fintech firm named Synapse, collapsed in 2024, leaving thousands of Americans locked out of their savings accounts.
+Foundation's cash crunch comes at a precarious moment for the company, which Pathak has said is close to unveiling a next-generation, weapons-ready robot that will help the U.S. compete against Chinese rivals. At the same time, Pathak is seeking to raise hundreds of millions of dollars in funding at a $3 billion valuation.
+The company has garnered headlines this year for Pathak's claims that his robots could soon take on battlefield tasks in Ukraine or patrol the U.S. border with Mexico. Broadcast interviews and articles about Foundation also include claims that the company has won $24 million in Pentagon contracts.
+"What we're about to unveil in the next couple of months [is] going to be the strongest humanoid robot that exists anywhere in the world, including China," Pathak said in an April television interview.
+'Plain sight'
+That April interview introduced Eric Trump, the son of the U.S. president, as a Foundation investor and chief strategy advisor. It is unclear how large his stake is.
+Eric Trump and his brother Donald Trump Jr. have invested in an array of defense firms, including makers of military drones and autonomous weapons. A July Washington Post investigation found that startups backed by investment vehicles linked to the brothers had secured at least $3.2 billion in government business.
+"We have to win robotics in the United States of America," Eric Trump said in April. "When you go up and interact with these robots ... they fist bump you, they high five you, they follow your commands."
+Eric Trump's involvement in Foundation drew the swift ire of Sen. Elizabeth Warren, D-Mass., who asked whether Foundation won U.S. defense contracts because of nepotism.
+"Eric Trump went on FOX to brag about winning ANOTHER multimillion-dollar contract from the Trump administration," Warren said in an April 23 social media post. "This looks like corruption in plain sight."
+Eric Trump didn't respond to requests for comment. His spokesperson recently told the Financial Times that Eric Trump had "no involvement in Foundation's management, operations, strategic decisions or commercial activities, including the solicitation, negotiation, procurement or execution of any government contracts."
+While the Eric Trump announcement created speculation within Foundation that a Democratic-led Congress may look to investigate the company, Foundation itself didn't actually win the $24 million in contracts, despite that assertion being widely reported across news outlets.
+Instead, it acquired Florida-based Boardwalk Robotics in late 2024, and government research contracts won by that firm account for the claim, said a person with knowledge of the matter. Foundation used Boardwalk's robot Alex as the basis for its first robot, the Phantom MK-1, this person said.
+Foundation's deal for Boardwalk included performance milestones for the robot that haven't been reached, said a separate person with direct knowledge of the deal.
+In 2024, CNBC reported that letters Pathak sent to prospective investors cited an imminent investment and $300 million purchase order from General Motors, claims the automaker rejected.
+Foundation co-founder Mike LeBlanc said at the time he was "embarrassed" about the marketing materials.
+Rescue loan?
+Insiders fret that Foundation could soon fold if Pathak doesn't secure fresh funding. Pathak has been seeking to raise hundreds of millions of dollars at a $3 billion valuation since at least January.
+Pathak is Foundation's sole board member, a structure that has raised concerns among prospective investors about corporate governance, said the people familiar with the matter. He also owns most of the firm's shares.
+That setup allowed Pathak to borrow $4.6 million last year, which he called a short-term loan at the time, the people said. Existing investors are aware of the loan through the company's financial disclosures, the people said.
+"This is what happens in a company with no governance," said one of the people. "Are you just going to let it ride into the ground, and you ride off into the sunset?"
+Foundation also ran out of cash for payroll in August, though employees only had to wait about two days to get paid after the company secured a bridge loan from an existing investor, the people said.
+Pathak told employees this week in a memo that he was working on sourcing money to pay back wages.
+The company was founded in April 2024 by Pathak, Tribe Capital CEO Arjun Sethi and LeBlanc, co-founder of Cobalt Robotics, a maker of autonomous security guards, according to a fundraising pitch at the time.
+Foundation went on to hire dozens of robotics engineers and artificial intelligence experts, managing to lure some from Tesla and Amazon-owned autonomous vehicle company Zoox.
+Missing money
+Before Foundation, Pathak was known as the founder of Synapse, a kind of middleman that enabled fintech firms like Mercury, Dave and YieldStreet to offer savings accounts and credit cards with the help of small community banks.
+Synapse was a behind-the-scenes player until its collapse left more than 100,000 Americans with a combined $265 million in deposits locked out of their FDIC-backed accounts.
+While some customers received partial payments during Synapse's bankruptcy proceedings, thousands remain without access to their money after more than two years. A bankruptcy trustee, the former FDIC chair Jelena McWilliams, said as much as $96 million in customer funds went missing.
+The bankruptcy proceedings concluded last year without uncovering where the funds went; Pathak blamed a banking partner named Evolve, and Evolve blamed Synapse for the mess. U.S. regulators didn't intervene until the Consumer Financial Protection Bureau sued Synapse last year, opening up a $55 million fund for customer relief.
+Pathak withdrew $320,000 in loans from Synapse as it spiraled toward bankruptcy in 2024 amid disputes over unmatched ledgers, according to the consultant and independent journalist Jason Mikula.
+Federal prosecutors convened a grand jury to investigate possible criminal misconduct at Synapse, the Wall Street Journal reported last year. The WSJ report didn't mention Pathak specifically.
+The controversy didn't dissuade Eric Trump from investing in Foundation and Pathak, who he called a friend in the April broadcast interview.
+"I walked into his factory, and I couldn't believe what I saw," Eric Trump said. "I'm telling you, he's doing a phenomenal job."`,
+    bodyJa: `Foundation Future Industries, a maker of military humanoid robots advised and backed by Eric Trump, failed to pay employees last month as its cash reserves dwindled, according to people with direct knowledge of the matter.
+Workers have yet to receive paychecks after San Francisco-based Foundation missed payroll on Oct. 30, said the people, who asked for anonymity to speak candidly about a private company.
+The situation has particularly angered some inside the startup because its CEO and co-founder, Sankaet Pathak, borrowed $4.6 million from the company last year to buy a luxury home, money that could have been used to pay workers, the people said.
+Public records show that an LLC that names Pathak as sole principal purchased a $4.6 million Sausalito, California, property with "sweeping, cinematic views" of the San Francisco Bay in October 2025.
+A spokesman for Pathak acknowledged receiving a detailed list of the major points from this story on Thursday, but didn't respond to requests for comment. Pathak's previous startup, a fintech firm named Synapse, collapsed in 2024, leaving thousands of Americans locked out of their savings accounts.
+Foundation's cash crunch comes at a precarious moment for the company, which Pathak has said is close to unveiling a next-generation, weapons-ready robot that will help the U.S. compete against Chinese rivals. At the same time, Pathak is seeking to raise hundreds of millions of dollars in funding at a $3 billion valuation.
+The company has garnered headlines this year for Pathak's claims that his robots could soon take on battlefield tasks in Ukraine or patrol the U.S. border with Mexico. Broadcast interviews and articles about Foundation also include claims that the company has won $24 million in Pentagon contracts.
+"What we're about to unveil in the next couple of months [is] going to be the strongest humanoid robot that exists anywhere in the world, including China," Pathak said in an April television interview.
+'Plain sight'
+That April interview introduced Eric Trump, the son of the U.S. president, as a Foundation investor and chief strategy advisor. It is unclear how large his stake is.
+Eric Trump and his brother Donald Trump Jr. have invested in an array of defense firms, including makers of military drones and autonomous weapons. A July Washington Post investigation found that startups backed by investment vehicles linked to the brothers had secured at least $3.2 billion in government business.
+"We have to win robotics in the United States of America," Eric Trump said in April. "When you go up and interact with these robots ... they fist bump you, they high five you, they follow your commands."
+Eric Trump's involvement in Foundation drew the swift ire of Sen. Elizabeth Warren, D-Mass., who asked whether Foundation won U.S. defense contracts because of nepotism.
+"Eric Trump went on FOX to brag about winning ANOTHER multimillion-dollar contract from the Trump administration," Warren said in an April 23 social media post. "This looks like corruption in plain sight."
+Eric Trump didn't respond to requests for comment. His spokesperson recently told the Financial Times that Eric Trump had "no involvement in Foundation's management, operations, strategic decisions or commercial activities, including the solicitation, negotiation, procurement or execution of any government contracts."
+While the Eric Trump announcement created speculation within Foundation that a Democratic-led Congress may look to investigate the company, Foundation itself didn't actually win the $24 million in contracts, despite that assertion being widely reported across news outlets.
+Instead, it acquired Florida-based Boardwalk Robotics in late 2024, and government research contracts won by that firm account for the claim, said a person with knowledge of the matter. Foundation used Boardwalk's robot Alex as the basis for its first robot, the Phantom MK-1, this person said.
+Foundation's deal for Boardwalk included performance milestones for the robot that haven't been reached, said a separate person with direct knowledge of the deal.
+In 2024, CNBC reported that letters Pathak sent to prospective investors cited an imminent investment and $300 million purchase order from General Motors, claims the automaker rejected.
+Foundation co-founder Mike LeBlanc said at the time he was "embarrassed" about the marketing materials.
+Rescue loan?
+Insiders fret that Foundation could soon fold if Pathak doesn't secure fresh funding. Pathak has been seeking to raise hundreds of millions of dollars at a $3 billion valuation since at least January.
+Pathak is Foundation's sole board member, a structure that has raised concerns among prospective investors about corporate governance, said the people familiar with the matter. He also owns most of the firm's shares.
+That setup allowed Pathak to borrow $4.6 million last year, which he called a short-term loan at the time, the people said. Existing investors are aware of the loan through the company's financial disclosures, the people said.
+"This is what happens in a company with no governance," said one of the people. "Are you just going to let it ride into the ground, and you ride off into the sunset?"
+Foundation also ran out of cash for payroll in August, though employees only had to wait about two days to get paid after the company secured a bridge loan from an existing investor, the people said.
+Pathak told employees this week in a memo that he was working on sourcing money to pay back wages.
+The company was founded in April 2024 by Pathak, Tribe Capital CEO Arjun Sethi and LeBlanc, co-founder of Cobalt Robotics, a maker of autonomous security guards, according to a fundraising pitch at the time.
+Foundation went on to hire dozens of robotics engineers and artificial intelligence experts, managing to lure some from Tesla and Amazon-owned autonomous vehicle company Zoox.
+Missing money
+Before Foundation, Pathak was known as the founder of Synapse, a kind of middleman that enabled fintech firms like Mercury, Dave and YieldStreet to offer savings accounts and credit cards with the help of small community banks.
+Synapse was a behind-the-scenes player until its collapse left more than 100,000 Americans with a combined $265 million in deposits locked out of their FDIC-backed accounts.
+While some customers received partial payments during Synapse's bankruptcy proceedings, thousands remain without access to their money after more than two years. A bankruptcy trustee, the former FDIC chair Jelena McWilliams, said as much as $96 million in customer funds went missing.
+The bankruptcy proceedings concluded last year without uncovering where the funds went; Pathak blamed a banking partner named Evolve, and Evolve blamed Synapse for the mess. U.S. regulators didn't intervene until the Consumer Financial Protection Bureau sued Synapse last year, opening up a $55 million fund for customer relief.
+Pathak withdrew $320,000 in loans from Synapse as it spiraled toward bankruptcy in 2024 amid disputes over unmatched ledgers, according to the consultant and independent journalist Jason Mikula.
+Federal prosecutors convened a grand jury to investigate possible criminal misconduct at Synapse, the Wall Street Journal reported last year. The WSJ report didn't mention Pathak specifically.
+The controversy didn't dissuade Eric Trump from investing in Foundation and Pathak, who he called a friend in the April broadcast interview.
+"I walked into his factory, and I couldn't believe what I saw," Eric Trump said. "I'm telling you, he's doing a phenomenal job."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+    publishedAt: "2026-11-14T12:00:01+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
     id: "faa-lifts-ground-stop-after-more-than-fo-045ad0d0",
     title: "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend",
     titleJa: "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend",
@@ -1607,580 +1897,6 @@ The vast majority of plans with auto-escalation, 69%, boosted deferrals by 1% pe
     category: "金融政策",
     imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
     readTime: 8,
-  },
-  {
-    id: "analysis-jensen-huang-s-exit-tests-nvidi-ba530057",
-    title: "Analysis: Jensen Huang’s exit tests Nvidia’s role as the ‘central bank of AI’",
-    titleJa: "Analysis: Jensen Huang’s exit tests Nvidia’s role as the ‘central bank of AI’",
-    summaryJa: "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
-    bodyOriginal: `Nvidia CEO Jensen Huang's shock resignation is raising a worrying question: Could trouble at the chipmaker spread through the tightly connected financial network Nvidia has built to support the artificial intelligence boom?
-Serious problems with Nvidia could do far-reaching economic and financial damage. The company has made hundreds of billions of dollars in financial commitments to other firms to help the industry grow, earning it the nickname the "central bank of AI." The Federal Reserve and other financial institutions are closely watching the AI buildout to monitor for the possibility that an unexpected event could destabilize the global financial system.
-Even back in July Fed officials were discussing the possibility of a "broad-based repricing of assets" in the event of problems in the AI sector.
-A rerun of the 2007-2008 financial crisis isn't likely, according to analysts and current and former financial officials. Nvidia isn't "too big to fail in a bank sense at all," said Sheila Bair, a former government regulator who ran the Federal Deposit Insurance Corp. Unlike a troubled bank, Nvidia isn't vulnerable to a sudden loss of confidence and would still produce a product customers want to buy even if something went wrong. And its massive equity gives it a cushion.
-But regulators need to watch carefully for exposure by the banks and the wider financial system to Nvidia and other firms like it, Bair said.
-"Nvidia going down would be a pretty seismic event," she said.
-Investors still have high hopes for Nvidia, which reports earnings on Tuesday. Analysts expect its revenue to more than double in the current fiscal year, and then to roughly double again over the following two years, according to LSEG data. But Huang's exit from the company Thursday following a pair of extramarital affairs, including one with a woman The New York Times reported was suspected of spying for China, makes the company's fate extraordinarily hard to predict. Huang had led the company since co-founding it in 1993.
-Nvidia didn't respond to a request for comment. The company named CFO Colette Kress as interim CEO.
-Nvidia's stock fell 33% from its Oct. 6 peak through Thursday morning. Still, people who closely track the financial flows underlying AI say that even sharper losses by Nvidia likely wouldn't trigger the kind of systemic problems that regulators guard against.
-And yet the risks flowing from AI are keeping some finance officials up at night. They are watching for the possibility that many of the factors that have helped the AI boom could reverse simultaneously. If the value of Nvidia's GPU chips fell, for instance, it could prompt investors to ask whether companies that borrowed money to buy them would be able to pay off their debts.
-In that case, the financial assistance big tech firms have extended to others in the industry could suddenly become drags on their growth. Tech companies would have credit problems at the same time that their equity is falling. Problems among giant tech firms wouldn't stay contained to tech investors' portfolios, but could cause problems across the economy.
-"I think that's a real concern because both the economy and financial markets are standing on the same leg, which means a drawdown could have reinforcing effects between the two," said Jason Wu, an assistant director at the International Monetary Fund who oversees the Global Markets Analysis unit.
-Wu was the lead author of a chapter of the IMF's Global Financial Stability report published in October that warned about the potential for growing leverage among AI firms and investors to trigger broader problems. The so-called hyperscalers — the biggest tech firms — have grown from just 1% of bond issuance in the $15 trillion investment-grade debt market to 10% in just two years. Hedge funds and retail investors are making risky bets even riskier by taking on debt to buy stocks or investing in funds that have embedded leverage.
-Nvidia is at the center of all of that. The company has repeatedly stepped in to help backstop smaller AI companies known as neoclouds, which build data centers using Nvidia chips and lease capacity to other firms. Among other obligations, Nvidia disclosed in July that it has committed to buy up to $36 billion in cloud services from those companies. That helps Nvidia ensure that there will be more customers for its AI chips, and it helps those companies find easier financing.
-Wu and others refer to these kinds of arrangements as circular financing. When business is growing, it can be productive for bigger firms to help their customers buy their products. But if Nvidia couldn't honor its obligations, it would ripple through the firms that borrowed the money and the banks that lent to it. Relatively opaque private credit funds have also lent heavily into the AI boom, and how they would fare is a subject of debate among regulators.
-Nvidia didn't reveal its specific partners, but some neoclouds such as CoreWeave and IREN have separately disclosed their relationships with the bigger firm.
-Many neoclouds have been under stress in recent weeks. The cost of insuring CoreWeave debt, as measured by credit-default spreads, rose by 94% — nearly doubling — from Oct. 1 to Nov. 5, before settling, according to LSEG data. The price of an IREN convertible bond maturing in 2029 fell 23% from Nov. 3 to Nov. 5, amid a 26% decline in the company's share price.
-Nvidia's other obligations include a $105 billion phased guarantee to a major data center project in Ohio planned by OpenAI and SB Energy, subject to certain conditions. Nvidia promised to backstop up to $125 billion of a $500 billion credit program by Wall Street financial firms.
-These obligations come in different forms and are unlikely to come due all at once, if ever. Stijn Van Nieuwerburgh, a Columbia Business School finance professor, estimates them at $400 billion overall.
-That is a huge sum, but still a small fraction of the roughly $3.9 trillion market capitalization Nvidia has even after its stock decline. "The company would have to get to the brink of extinction before all these guarantees come into jeopardy."
-"I don't want to say it's a safe system, but I do want to say there's a lot of equity in the system right now," Van Nieuwerburgh said.
-But in the past few days, Nvidia's troubles have separated it from the pack. Most neoclouds' equity prices have recovered this week as Nvidia's share price has fallen. That suggests investors see Nvidia's problems as specific to the company, for now.
-Meanwhile the basic laws of economics are driving other firms to try to move into Nvidia's lucrative chips business. AMD, Broadcom, Intel, Google, Microsoft, and OpenAI all have efforts underway to build their own AI chips, Van Nieuwerburgh said.
-Over time, they could replace Nvidia's products. That could cap the economic fallout of any potential troubles at the company.
-And yet it's impossible to entirely write off the financial risks of the AI trade suddenly hitting a wall, added Van Nieuwerburgh, who spoke to me over Zoom from the sidelines of a bimonthly meeting of finance officials in Basel, Switzerland.
-Central bankers "are clearly very, very, very anxious about this and thinking hard about these questions," he said.`,
-    bodyJa: `Nvidia CEO Jensen Huang's shock resignation is raising a worrying question: Could trouble at the chipmaker spread through the tightly connected financial network Nvidia has built to support the artificial intelligence boom?
-Serious problems with Nvidia could do far-reaching economic and financial damage. The company has made hundreds of billions of dollars in financial commitments to other firms to help the industry grow, earning it the nickname the "central bank of AI." The Federal Reserve and other financial institutions are closely watching the AI buildout to monitor for the possibility that an unexpected event could destabilize the global financial system.
-Even back in July Fed officials were discussing the possibility of a "broad-based repricing of assets" in the event of problems in the AI sector.
-A rerun of the 2007-2008 financial crisis isn't likely, according to analysts and current and former financial officials. Nvidia isn't "too big to fail in a bank sense at all," said Sheila Bair, a former government regulator who ran the Federal Deposit Insurance Corp. Unlike a troubled bank, Nvidia isn't vulnerable to a sudden loss of confidence and would still produce a product customers want to buy even if something went wrong. And its massive equity gives it a cushion.
-But regulators need to watch carefully for exposure by the banks and the wider financial system to Nvidia and other firms like it, Bair said.
-"Nvidia going down would be a pretty seismic event," she said.
-Investors still have high hopes for Nvidia, which reports earnings on Tuesday. Analysts expect its revenue to more than double in the current fiscal year, and then to roughly double again over the following two years, according to LSEG data. But Huang's exit from the company Thursday following a pair of extramarital affairs, including one with a woman The New York Times reported was suspected of spying for China, makes the company's fate extraordinarily hard to predict. Huang had led the company since co-founding it in 1993.
-Nvidia didn't respond to a request for comment. The company named CFO Colette Kress as interim CEO.
-Nvidia's stock fell 33% from its Oct. 6 peak through Thursday morning. Still, people who closely track the financial flows underlying AI say that even sharper losses by Nvidia likely wouldn't trigger the kind of systemic problems that regulators guard against.
-And yet the risks flowing from AI are keeping some finance officials up at night. They are watching for the possibility that many of the factors that have helped the AI boom could reverse simultaneously. If the value of Nvidia's GPU chips fell, for instance, it could prompt investors to ask whether companies that borrowed money to buy them would be able to pay off their debts.
-In that case, the financial assistance big tech firms have extended to others in the industry could suddenly become drags on their growth. Tech companies would have credit problems at the same time that their equity is falling. Problems among giant tech firms wouldn't stay contained to tech investors' portfolios, but could cause problems across the economy.
-"I think that's a real concern because both the economy and financial markets are standing on the same leg, which means a drawdown could have reinforcing effects between the two," said Jason Wu, an assistant director at the International Monetary Fund who oversees the Global Markets Analysis unit.
-Wu was the lead author of a chapter of the IMF's Global Financial Stability report published in October that warned about the potential for growing leverage among AI firms and investors to trigger broader problems. The so-called hyperscalers — the biggest tech firms — have grown from just 1% of bond issuance in the $15 trillion investment-grade debt market to 10% in just two years. Hedge funds and retail investors are making risky bets even riskier by taking on debt to buy stocks or investing in funds that have embedded leverage.
-Nvidia is at the center of all of that. The company has repeatedly stepped in to help backstop smaller AI companies known as neoclouds, which build data centers using Nvidia chips and lease capacity to other firms. Among other obligations, Nvidia disclosed in July that it has committed to buy up to $36 billion in cloud services from those companies. That helps Nvidia ensure that there will be more customers for its AI chips, and it helps those companies find easier financing.
-Wu and others refer to these kinds of arrangements as circular financing. When business is growing, it can be productive for bigger firms to help their customers buy their products. But if Nvidia couldn't honor its obligations, it would ripple through the firms that borrowed the money and the banks that lent to it. Relatively opaque private credit funds have also lent heavily into the AI boom, and how they would fare is a subject of debate among regulators.
-Nvidia didn't reveal its specific partners, but some neoclouds such as CoreWeave and IREN have separately disclosed their relationships with the bigger firm.
-Many neoclouds have been under stress in recent weeks. The cost of insuring CoreWeave debt, as measured by credit-default spreads, rose by 94% — nearly doubling — from Oct. 1 to Nov. 5, before settling, according to LSEG data. The price of an IREN convertible bond maturing in 2029 fell 23% from Nov. 3 to Nov. 5, amid a 26% decline in the company's share price.
-Nvidia's other obligations include a $105 billion phased guarantee to a major data center project in Ohio planned by OpenAI and SB Energy, subject to certain conditions. Nvidia promised to backstop up to $125 billion of a $500 billion credit program by Wall Street financial firms.
-These obligations come in different forms and are unlikely to come due all at once, if ever. Stijn Van Nieuwerburgh, a Columbia Business School finance professor, estimates them at $400 billion overall.
-That is a huge sum, but still a small fraction of the roughly $3.9 trillion market capitalization Nvidia has even after its stock decline. "The company would have to get to the brink of extinction before all these guarantees come into jeopardy."
-"I don't want to say it's a safe system, but I do want to say there's a lot of equity in the system right now," Van Nieuwerburgh said.
-But in the past few days, Nvidia's troubles have separated it from the pack. Most neoclouds' equity prices have recovered this week as Nvidia's share price has fallen. That suggests investors see Nvidia's problems as specific to the company, for now.
-Meanwhile the basic laws of economics are driving other firms to try to move into Nvidia's lucrative chips business. AMD, Broadcom, Intel, Google, Microsoft, and OpenAI all have efforts underway to build their own AI chips, Van Nieuwerburgh said.
-Over time, they could replace Nvidia's products. That could cap the economic fallout of any potential troubles at the company.
-And yet it's impossible to entirely write off the financial risks of the AI trade suddenly hitting a wall, added Van Nieuwerburgh, who spoke to me over Zoom from the sidelines of a bimonthly meeting of finance officials in Basel, Switzerland.
-Central bankers "are clearly very, very, very anxious about this and thinking hard about these questions," he said.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-    publishedAt: "2026-11-12T14:55:16+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "who-could-replace-jensen-huang-as-nvidia-96f22e90",
-    title: "Who could replace Jensen Huang as Nvidia's permanent chief executive?",
-    titleJa: "Who could replace Jensen Huang as Nvidia's permanent chief executive?",
-    summaryJa: "Chief financial officer Colette Kress will replace him temporarily, but several others are in the frame as potential successors.",
-    bodyOriginal: `Who could replace Jensen Huang as Nvidia's permanent chief executive?
-- Published
-Nvidia is now facing a scenario few would have considered until very recently - a future without Jensen Huang.
-The chief executive and co-founder of the AI chip-making giant is at the centre of a major scandal over reports of extramarital affairs, one of which was with a woman suspected of being a Chinese spy.
-On Thursday, Nvidia's board announced he had resigned effective immediately.
-He will be replaced, for now, by Nvidia's chief financial officer Colette Kress.
-The tech giant is facing one of its biggest challenges, finding the right person to permanently lead the business that Huang helped create more than three decades ago and turned into one of the world's most valuable companies.
-We take a look at which candidates have emerged as potential successors.
-The finance chief
-Nvidia's finance chief, Colette Kress, is taking on the chief executive role for an interim period while the company searches for a permanent replacement.
-An industry veteran for more than 30 years, Kress previously held high positions at tech firms like Cisco and Microsoft.
-Kress, who also serves as Nvidia's executive vice president, has seen the firm's transformation from making chips for video games in the early 1990s to becoming an AI semiconductor powerhouse.
-She "fronts every earnings call" alongside Huang and is a "familiar and trusted voice for the market at a time when it badly needs one," said Josh Gilbert, an analyst at investment firm eToro.
-But doing the job permanently could be a different story, said Gilbert, as the firm, known for its edge in technology, could want an engineer in the chair.
-The co-founder and the engineer
-Another option is Chris Malachowsky, who founded Nvidia alongside Huang and Curtis Priem, and is the only executive that shares the same level of seniority.
-Malachowsky has played a key part in developing the company's computing technology.
-Ian Buck, who oversees Nvidia's high-performance computing business, has also emerged as a potential candidate if the company is keen to put an engineer in the top job.
-Buck was among the early pioneers who helped popularise the use of graphic processors beyond gaming applications.
-"He could protect Nvidia's technological edge, but his ability to manage the wider commercial relationships and geopolitical challenges would face scrutiny," said Charu Chanana, investment strategist at investment bank Saxo.
-Today, Nvidia's leading processors are widely regarded as the gold standard for AI development.
-Huang's children also work at Nvidia in executive positions but are relatively young and inexperienced.
-Apple and Arm's top brass
-Nvidia is likely to favour an internal appointment initially but could look externally for a more permanent replacement, said Jun Bei Liu, founder and lead portfolio manager at Ten Cap.
-Several names of tech entrepreneurs outside of Nvidia have been floated by experts.
-Liu said Apple's former chief executive, Tim Cook, could be a possible choice as someone familiar with managing global supply chains, though she questioned whether he would be willing to leave the iPhone maker, where he is the chair.
-Liu and Chanana also suggested Rene Haas, chief executive of Arm Holdings, the UK chipmaking giant.
-Nvidia's processors are made with the help of chipmakers around the world, including Taiwan's TSMC and South Korea's SK Hynix and Samsung.
-Haas is familiar with leading a publicly-listed company and would bring semiconductor experience, though Nvidia's business model is considerably different from Arm's, said Chanana.
-"The challenge is finding someone who can combine Jensen's technical understanding, strategic vision and relationships across the global technology industry," Liu said.
-Where now for Huang?
-Ten Cap's Liu had believed it was just a matter of time before Huang would step down as Nvidia's chief executive.
-"The issue is no longer simply about personal conduct," she said. "It is about corporate governance, national security concerns and maintaining confidence in the leadership of one of the world's most strategically important companies."
-Several major investment firms have downgraded their forecasts for the chip giant - a rare shift given investors' longstanding optimism about the company.
-Stacy Rasgon, senior analyst in US semiconductors at Bernstein Research, wrote in a note to investors that "our gut tells us we probably haven't fully probed the depths of what might be found here".
-Rasgon halved Bernstein's share price target for Nvidia and said: "We've had enough and prefer to watch from the sidelines."
-Ray Wang, chief executive of Constellation Research, said the crisis isn't so much an issue for the wider AI industry but rather one for Nvidia itself which has to consider if the person it appoints as its chief executive has the same appeal as Huang.
-"That's really what the issue is, because a lot of these partnerships and investments have been made because of the trust with with Jensen," he said.
-Additional reporting by Kali Hays
-Related topics
-- Published10 hours ago
-- Published2 days ago`,
-    bodyJa: `Who could replace Jensen Huang as Nvidia's permanent chief executive?
-- Published
-Nvidia is now facing a scenario few would have considered until very recently - a future without Jensen Huang.
-The chief executive and co-founder of the AI chip-making giant is at the centre of a major scandal over reports of extramarital affairs, one of which was with a woman suspected of being a Chinese spy.
-On Thursday, Nvidia's board announced he had resigned effective immediately.
-He will be replaced, for now, by Nvidia's chief financial officer Colette Kress.
-The tech giant is facing one of its biggest challenges, finding the right person to permanently lead the business that Huang helped create more than three decades ago and turned into one of the world's most valuable companies.
-We take a look at which candidates have emerged as potential successors.
-The finance chief
-Nvidia's finance chief, Colette Kress, is taking on the chief executive role for an interim period while the company searches for a permanent replacement.
-An industry veteran for more than 30 years, Kress previously held high positions at tech firms like Cisco and Microsoft.
-Kress, who also serves as Nvidia's executive vice president, has seen the firm's transformation from making chips for video games in the early 1990s to becoming an AI semiconductor powerhouse.
-She "fronts every earnings call" alongside Huang and is a "familiar and trusted voice for the market at a time when it badly needs one," said Josh Gilbert, an analyst at investment firm eToro.
-But doing the job permanently could be a different story, said Gilbert, as the firm, known for its edge in technology, could want an engineer in the chair.
-The co-founder and the engineer
-Another option is Chris Malachowsky, who founded Nvidia alongside Huang and Curtis Priem, and is the only executive that shares the same level of seniority.
-Malachowsky has played a key part in developing the company's computing technology.
-Ian Buck, who oversees Nvidia's high-performance computing business, has also emerged as a potential candidate if the company is keen to put an engineer in the top job.
-Buck was among the early pioneers who helped popularise the use of graphic processors beyond gaming applications.
-"He could protect Nvidia's technological edge, but his ability to manage the wider commercial relationships and geopolitical challenges would face scrutiny," said Charu Chanana, investment strategist at investment bank Saxo.
-Today, Nvidia's leading processors are widely regarded as the gold standard for AI development.
-Huang's children also work at Nvidia in executive positions but are relatively young and inexperienced.
-Apple and Arm's top brass
-Nvidia is likely to favour an internal appointment initially but could look externally for a more permanent replacement, said Jun Bei Liu, founder and lead portfolio manager at Ten Cap.
-Several names of tech entrepreneurs outside of Nvidia have been floated by experts.
-Liu said Apple's former chief executive, Tim Cook, could be a possible choice as someone familiar with managing global supply chains, though she questioned whether he would be willing to leave the iPhone maker, where he is the chair.
-Liu and Chanana also suggested Rene Haas, chief executive of Arm Holdings, the UK chipmaking giant.
-Nvidia's processors are made with the help of chipmakers around the world, including Taiwan's TSMC and South Korea's SK Hynix and Samsung.
-Haas is familiar with leading a publicly-listed company and would bring semiconductor experience, though Nvidia's business model is considerably different from Arm's, said Chanana.
-"The challenge is finding someone who can combine Jensen's technical understanding, strategic vision and relationships across the global technology industry," Liu said.
-Where now for Huang?
-Ten Cap's Liu had believed it was just a matter of time before Huang would step down as Nvidia's chief executive.
-"The issue is no longer simply about personal conduct," she said. "It is about corporate governance, national security concerns and maintaining confidence in the leadership of one of the world's most strategically important companies."
-Several major investment firms have downgraded their forecasts for the chip giant - a rare shift given investors' longstanding optimism about the company.
-Stacy Rasgon, senior analyst in US semiconductors at Bernstein Research, wrote in a note to investors that "our gut tells us we probably haven't fully probed the depths of what might be found here".
-Rasgon halved Bernstein's share price target for Nvidia and said: "We've had enough and prefer to watch from the sidelines."
-Ray Wang, chief executive of Constellation Research, said the crisis isn't so much an issue for the wider AI industry but rather one for Nvidia itself which has to consider if the person it appoints as its chief executive has the same appeal as Huang.
-"That's really what the issue is, because a lot of these partnerships and investments have been made because of the trust with with Jensen," he said.
-Additional reporting by Kali Hays
-Related topics
-- Published10 hours ago
-- Published2 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-12T14:48:26+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1381/live/d9f5ab20-de97-11f1-a701-fddedf244c16.jpg",
-    readTime: 10,
-  },
-  {
-    id: "nvidia-stock-falls-nearly-10-as-ceo-jens-d93a2b1c",
-    title: "Nvidia stock falls nearly 10% as CEO Jensen Huang announces resignation",
-    titleJa: "Nvidia stock falls nearly 10% as CEO Jensen Huang announces resignation",
-    summaryJa: "Chief Financial Officer Colette Kress will serve as interim CEO until a new leader is appointed.",
-    bodyOriginal: `Nvidia shares plunged nearly 10% on Thursday, sending the company's value below $4 trillion in market cap after Jensen Huang announced he would immediately step down as CEO and a member of the board at the chipmaker.
-Chief Financial Officer Colette Kress will serve as interim CEO until a new leader is appointed, Nvidia said in a Thursday statement. Harvey C. Jones, former CEO of Synopsys, will become the first-ever chair of the board.
-On Sunday, Huang admitted to having an affair. The CEO was romantically involved with Alice Huang, an executive at cloud company Megaspeed, according to The Financial Times, who U.S. intelligence officials believe is a spy for China.
-The New York Times on Wednesday reported that Huang had another extramarital relationship with Kimberly Powell, vice president of health care at Nvidia. Powell reports to Huang, according to the Times.
-Before Huang resigned, several Wall Street analysts told CNBC that this departure could lead the stock to fall 20%, given how critical he has been to Nvidia's success. Nvidia's stock is already down more than 20% over the last month.
-Bernstein on Thursday slashed its price target on Nvidia's stock by half from $400 to $200.
-Stacy Rasgon, a senior analyst at Bernstein, told CNBC's "Squawk Box Asia" on Thursday that Huang's alleged affair with a direct report means it is "much tougher for the board to leave him in position."
-Huang was central to Nvidia's rise, having co-founded the company in 1993 and was pivotal in transforming Nvidia from a gaming hardware player to the company at the center of the artificial intelligence boom.
-Rasgon said it is unclear who could be the "visionary" to lead Nvidia into the future as new CEO.
-"Jensen is Nvidia, right? He is the visionary. The reason they're in the position that they're in today is because he made decisions 10 years ago," Rasgon said. "Who is the right person now to make the decisions for the next 10 years? I don't intuitively know who that person would be."
-Earlier, U.S. lawmakers had called for Huang's resignation, adding further pressure to the CEO and the company.
-Richard Reyle, chief investment officer at Questar Capital Partners, said Nvidia's lack of a succession plan makes the stock "uninvestable."
-"Nvidia doesn't have that person in place, and so it's going to be either a choice of keeping Jensen and being faced with months and months of being hauled in front of probably congressional boards and things to explain themselves and all kinds of interrogations," Reyle told CNBC's "Access Middle East."
-"Or they're going to have to move on from him, and that's just going to make the stock uninvestable. That doesn't make the AI trade uninvestable, but it certainly makes Nvidia uninvestable."
-— CNBC's Caleigh Keating contributed to this report.`,
-    bodyJa: `Nvidia shares plunged nearly 10% on Thursday, sending the company's value below $4 trillion in market cap after Jensen Huang announced he would immediately step down as CEO and a member of the board at the chipmaker.
-Chief Financial Officer Colette Kress will serve as interim CEO until a new leader is appointed, Nvidia said in a Thursday statement. Harvey C. Jones, former CEO of Synopsys, will become the first-ever chair of the board.
-On Sunday, Huang admitted to having an affair. The CEO was romantically involved with Alice Huang, an executive at cloud company Megaspeed, according to The Financial Times, who U.S. intelligence officials believe is a spy for China.
-The New York Times on Wednesday reported that Huang had another extramarital relationship with Kimberly Powell, vice president of health care at Nvidia. Powell reports to Huang, according to the Times.
-Before Huang resigned, several Wall Street analysts told CNBC that this departure could lead the stock to fall 20%, given how critical he has been to Nvidia's success. Nvidia's stock is already down more than 20% over the last month.
-Bernstein on Thursday slashed its price target on Nvidia's stock by half from $400 to $200.
-Stacy Rasgon, a senior analyst at Bernstein, told CNBC's "Squawk Box Asia" on Thursday that Huang's alleged affair with a direct report means it is "much tougher for the board to leave him in position."
-Huang was central to Nvidia's rise, having co-founded the company in 1993 and was pivotal in transforming Nvidia from a gaming hardware player to the company at the center of the artificial intelligence boom.
-Rasgon said it is unclear who could be the "visionary" to lead Nvidia into the future as new CEO.
-"Jensen is Nvidia, right? He is the visionary. The reason they're in the position that they're in today is because he made decisions 10 years ago," Rasgon said. "Who is the right person now to make the decisions for the next 10 years? I don't intuitively know who that person would be."
-Earlier, U.S. lawmakers had called for Huang's resignation, adding further pressure to the CEO and the company.
-Richard Reyle, chief investment officer at Questar Capital Partners, said Nvidia's lack of a succession plan makes the stock "uninvestable."
-"Nvidia doesn't have that person in place, and so it's going to be either a choice of keeping Jensen and being faced with months and months of being hauled in front of probably congressional boards and things to explain themselves and all kinds of interrogations," Reyle told CNBC's "Access Middle East."
-"Or they're going to have to move on from him, and that's just going to make the stock uninvestable. That doesn't make the AI trade uninvestable, but it certainly makes Nvidia uninvestable."
-— CNBC's Caleigh Keating contributed to this report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
-    publishedAt: "2026-11-12T14:39:34+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "a-dark-day-for-nvidia-here-s-what-analy-17f08ea8",
-    title: "‘A dark day for Nvidia’: Here’s what analysts have been saying about Jensen Huang’s departure",
-    titleJa: "‘A dark day for Nvidia’: Here’s what analysts have been saying about Jensen Huang’s departure",
-    summaryJa: "The company's board convened Wednesday evening after reports emerged of Huang engaging in an affair with an employee.",
-    bodyOriginal: `Nvidia investors are preparing for a future without Jensen Huang after the CEO's resignation was announced on Thursday.
-Markets were on tenterhooks ahead of the decision amid reports that the chip giant's board had convened to discuss his future with the company. By the time of the announcement, at least six analysts had downgraded the stock between Wednesday night and Thursday morning.
-The New York Times on Wednesday reported that Huang had engaged in a second extramarital affair with an employee. The CEO was already under scrutiny after Huang admitted to having a romantic relationship with a woman U.S. intelligence believes is a Chinese spy.
-Nvidia announced on Thursday morning that, following a board meeting, Huang would step down after more than 30 years at the company's helm.
-CFO Colette Kress has been named interim CEO.
-Those downgrading the stock included longtime Nvidia bull Ben Reitzes of Melius Research.
-Nvidia shares were seen down more than 12% shortly after the open on Wall Street, bringing losses for the last month close to 25%.
-Here's what analysts and investors are saying about the company and the stock.
-Loading chart...
-Melius Research: Hold, $185
-Reitzes changed his rating for Nvidia to hold from buy. His price target is now $185 — down from $315 — is 6% above the level at which shares last closed.
-"We thought we had experience, but nothing prepares you for what has happened at Nvidia over the last few weeks - and especially since Saturday. The only situation remotely close to this we can recall was HP in 2010. Waiting to see what that Board would do (and who they would hire) that time didn't work out. It was really cheap, too, at ~9x EPS right after its initial swoon. Nvidia is a much stronger, more important company, but its market moves far faster, and this story touches geopolitical flashpoints. In this unique crisis, we have decided (reluctantly) to step aside on Nvidia (now a Hold) after recommending it since we launched our AI platform coverage universe in July 2023," he said.
-Evercore: In line, $186
-Analyst Mark Lipacis downgraded Nvidia to in line from outperform. He also lowered his price target on shares to $186 from $465, implying 7% upside from Wednesday's close.
-"The Wall Street Journal reported Nvidia's Board was 'preparing to oust' its CEO after he had two extramarital affairs, including one with a suspected Chinese spy. The NY Times reported that Nvidia's Board hired law firm Wachtell Lipton to lead an investigation into the matter. While Nvidia's Board said that it 'has no reason to believe that either national security or Nvidia secrets were compromised,' we believe that the investigation will take time and we expect NVDA's P/E multiple will continue to compress consistent with our 'Late-Innings of the Semi Cycle' thesis, especially since Nvidia has no obvious succession plan or number 2 operational executive," he said.
-William Blair: Market perform
-William Blair's Sebastien Naji downgraded Nvidia to market perform from outperform.
-"After a head-spinning week of news and allegations around CEO Jensen Huang, Nvidia's board is reportedly preparing to remove him, according to the Wall Street Journal. The full story will take time to emerge and may require several investigations, including the board's own independent probe and a requested U.S. House briefing. What is already clear is that Huang's likely departure and heightened scrutiny of the company will be a significant overhang on NVDA shares in the near term. Meanwhile, the potential for a slower AI buildout and more intense competition from other chipmakers will only add to execution risk...governance and regulatory pressure, the potential for more serious fallout, and a sudden change in management are likely to muddle both execution and sentiment. As a result, we are downgrading NVDA to Market Perform and will wait for the dust to settle before reassessing," he said.
-Oppenheimer: Perform
-Analyst Rick Schafer downgraded the AI stock to perform from outperform.
-"We are downgrading shares of NVDA and removing our price target following reports (WSJ, NYT) of founding CEO Jensen Huang's imminent departure amidst allegations of a 2nd extramarital affair. Credible media reports circulated Wednesday evening that NVDA's board is preparing to part ways with Huang following a widely reported relationship with an alleged Chinese spy compounded by new allegations of a relationship with an NVDA executive. This 'one-two' punch appears to have forced the board's hand...While we see upside to the F3Q (Oct.) print and F4Q (Jan.) outlook, we expect fundamentals to take a backseat near term. The departure of Mr. Huang could, in our view, translate to a lingering share overhang," he said.
-Bernstein: Market perform, $200
-Analyst Stacy Rasgon slashed his price target from $400 and downgraded the stock from market outperform.
-"So now what? On the positive, the fundamentals of the business (if not the leadership) are
-clearly still intact with numbers that remain massive (and probably still headed higher). We don't think the company should have huge issues operating while engaged in a search for new leadership. And (of course) the shares are almost absurdly cheap (and getting cheaper as we speak); clearly there is a lot of bad news getting priced in here," he said.
-"On the other hand, we find it hard to advocate stepping in here in size as there will no doubt be more allegations to come (there is a trope that says if you find two ants in your kitchen the best estimate of the total number of ants in your kitchen is not two...), both from internal issues as well as headlines related to the business, new governmental investigations etc. Adding on the new variable of who will take the reins (internal? external?) and anything else they may or may not uncover creates additional uncertainty (and we can't even begin to speculate as to who they might find to fill Jensen's shoes)," he added.
-KeyBanc: Sector weight
-Analyst John Vinh downgraded the stock from overweight.
-"We believe Huang's departure represents a material increase in strategic, organizational, and execution risk that warrants a higher risk premium and lower valuation multiple for the stock. While we expect core fundamentals to remain strong for the foreseeable future, we believe it will be challenging for NVDA to find a successor with the same leadership and strategic vision as Huang," he said.
-Yorkville Ives & Co.: Outperform
-"In our view the writing is on the wall that Jensen's days at Nvidia could be numbered and we would expect this to be a very fluid situation over the next 48 hours," renowned tech bull Dan Ives said in a note overnight.
-"Jensen has created a black eye moment for himself and Nvidia and now has created a spider web of complexity that Wall Street, Silicon Valley, DC, and the global tech ecosystem are trying to figure out what is next."
-"We believe Nvidia's value is $300 per share with Jensen as CEO and $225 per share without Jensen as CEO," Ives added.
-"The stock will clearly be under pressure with this fluid news but the reality is its a dark day for Nvidia, but the company will navigate this turmoil and get through to the other side and remain a core foundational piece of the AI Revolution."
-Citi: Buy
-Citi analysts said overnight that they had trimmed their target price for Nvidia to $225, down from $285.
-"If Jensen were forced out, it would mark the end of an era," Malik and Sylla said in their note.
-"Under his leadership, Nvidia became the dominant force in AI infrastructure, the primary beneficiary of the global AI spending cycle, and one of the world's most valuable companies. A leadership transition creates an overhang on the stock given his central role in strategy, product vision, customer relationships, and investor confidence."
-They said Nvidia CFO Colette Kress could serve as interim CEO while the board evaluates external candidates.
-Manulife Investment Management
-"As much as there is a lesson here for Nvidia around corporate governance, around key man risk… the reality is there is still 40,000 other employees at Nvidia, and there is some real talent there, and I have no doubt that there are some executors within Nvidia that the board will be able to tap to execute on their existing plans and continue to manage the company," Nathan Thooft, the firm's CIO, told CNBC's "Squawk Box Asia" on Thursday.
-"I think the bigger risk is the foresight in the next several years, where Nvidia was driven by a lot of the mindset and thoughts that come out of their CEO, and if he's no longer there they're going to have to find that replacement."
-Robert Greifeld, former Nasdaq chairman and CEO
-"You can't deny the board has done a horrible job of succession planning," Greifeld told CNBC's "Morning Call" on Thursday.
-"What the board has to find out in the next days or weeks is, did Jensen lie to them? Right? Did he lie to them repeatedly on different topics? We don't know. Does he lose their trust basically on lying to them over the years? I'm sure the board would love to keep Jensen in place in some role. Right, his value to the company is quite large."
-Greifeld said he does not see a premium in Nvidia stock, noting that it trades at a low multiple "so there's no bubble to burst here with respect to the valuation."
-"If there's a new CEO in, they don't have to make any decisions day one, day 30, day 60. They have time to really get their footing and come up with their own strategic vision," he told CNBC. "You're not going to change what is in the development plan for chips that exists today. So I think certainly it would be a loss, but given the nature of the business and the long lead time for these chip developments and the long contractual relationships they have with customers, it would give them certainly room to maneuver."
-Questar Capital Partners
-CIO Richard Reyle told CNBC's "Squawk Box Asia" that Nvidia's board had painted themselves into a corner by not having any kind of succession plan in place.
-"I've heard him compared to Steve Jobs being removed from Apple, but [Jobs] put in place a succession plan and cultivated and groomed Tim Cook for years, so that when he passed away and [Cook] took over, there was a real leader there," he said. "Right now, Nvidia doesn't have that person in place, so it's going to be a choice of keeping Jensen and being faced with … all kinds of interrogations, or they're going to have to move on from him, and that's just going to make the stock uninvestable. That doesn't make the AI trade uninvestable, but it certainly makes Nvidia uninvestable."
-Reyle said he saw the stock moving "lower and much lower from here."
-"There's no obvious [replacement] there that can step right in and take over, so they may kind of try to ride this out and retain him," he said. "But there's going to be a lot of difficulty in doing so because he's going to become something of a liability."
-UBS
-"NVIDIA upheaval puts tech concentration risks in focus," Mark Haefele, global wealth management chief investment officer at UBS, and his team said on Thursday morning.
-"Without taking any views on individual companies, the episode reinforces the importance of investment diversification and selectivity as the AI trade matures. We retain our conviction in AI's long-term potential, with compute demand remaining robust and earnings resilient. But elevated expectations and potentially wide differences in company outcomes can leave concentrated portfolios exposed to company-specific setbacks."
-Wind Shift Capital
-"Jensen Huang is toast," Bill Blain, founder and principal, said in his morning newsletter. "Nvidia's dependence on Jensen Huang is now exposed as a major market risk. The dominant firm within the AI industry lacks clear succession planning and Huang was seen as the acceptable face of AI by the public."
-"Confidence in the AI sector has been wobbling for months," he added. "Huang's departure could lead to instability and trigger another collapse."`,
-    bodyJa: `Nvidia investors are preparing for a future without Jensen Huang after the CEO's resignation was announced on Thursday.
-Markets were on tenterhooks ahead of the decision amid reports that the chip giant's board had convened to discuss his future with the company. By the time of the announcement, at least six analysts had downgraded the stock between Wednesday night and Thursday morning.
-The New York Times on Wednesday reported that Huang had engaged in a second extramarital affair with an employee. The CEO was already under scrutiny after Huang admitted to having a romantic relationship with a woman U.S. intelligence believes is a Chinese spy.
-Nvidia announced on Thursday morning that, following a board meeting, Huang would step down after more than 30 years at the company's helm.
-CFO Colette Kress has been named interim CEO.
-Those downgrading the stock included longtime Nvidia bull Ben Reitzes of Melius Research.
-Nvidia shares were seen down more than 12% shortly after the open on Wall Street, bringing losses for the last month close to 25%.
-Here's what analysts and investors are saying about the company and the stock.
-Loading chart...
-Melius Research: Hold, $185
-Reitzes changed his rating for Nvidia to hold from buy. His price target is now $185 — down from $315 — is 6% above the level at which shares last closed.
-"We thought we had experience, but nothing prepares you for what has happened at Nvidia over the last few weeks - and especially since Saturday. The only situation remotely close to this we can recall was HP in 2010. Waiting to see what that Board would do (and who they would hire) that time didn't work out. It was really cheap, too, at ~9x EPS right after its initial swoon. Nvidia is a much stronger, more important company, but its market moves far faster, and this story touches geopolitical flashpoints. In this unique crisis, we have decided (reluctantly) to step aside on Nvidia (now a Hold) after recommending it since we launched our AI platform coverage universe in July 2023," he said.
-Evercore: In line, $186
-Analyst Mark Lipacis downgraded Nvidia to in line from outperform. He also lowered his price target on shares to $186 from $465, implying 7% upside from Wednesday's close.
-"The Wall Street Journal reported Nvidia's Board was 'preparing to oust' its CEO after he had two extramarital affairs, including one with a suspected Chinese spy. The NY Times reported that Nvidia's Board hired law firm Wachtell Lipton to lead an investigation into the matter. While Nvidia's Board said that it 'has no reason to believe that either national security or Nvidia secrets were compromised,' we believe that the investigation will take time and we expect NVDA's P/E multiple will continue to compress consistent with our 'Late-Innings of the Semi Cycle' thesis, especially since Nvidia has no obvious succession plan or number 2 operational executive," he said.
-William Blair: Market perform
-William Blair's Sebastien Naji downgraded Nvidia to market perform from outperform.
-"After a head-spinning week of news and allegations around CEO Jensen Huang, Nvidia's board is reportedly preparing to remove him, according to the Wall Street Journal. The full story will take time to emerge and may require several investigations, including the board's own independent probe and a requested U.S. House briefing. What is already clear is that Huang's likely departure and heightened scrutiny of the company will be a significant overhang on NVDA shares in the near term. Meanwhile, the potential for a slower AI buildout and more intense competition from other chipmakers will only add to execution risk...governance and regulatory pressure, the potential for more serious fallout, and a sudden change in management are likely to muddle both execution and sentiment. As a result, we are downgrading NVDA to Market Perform and will wait for the dust to settle before reassessing," he said.
-Oppenheimer: Perform
-Analyst Rick Schafer downgraded the AI stock to perform from outperform.
-"We are downgrading shares of NVDA and removing our price target following reports (WSJ, NYT) of founding CEO Jensen Huang's imminent departure amidst allegations of a 2nd extramarital affair. Credible media reports circulated Wednesday evening that NVDA's board is preparing to part ways with Huang following a widely reported relationship with an alleged Chinese spy compounded by new allegations of a relationship with an NVDA executive. This 'one-two' punch appears to have forced the board's hand...While we see upside to the F3Q (Oct.) print and F4Q (Jan.) outlook, we expect fundamentals to take a backseat near term. The departure of Mr. Huang could, in our view, translate to a lingering share overhang," he said.
-Bernstein: Market perform, $200
-Analyst Stacy Rasgon slashed his price target from $400 and downgraded the stock from market outperform.
-"So now what? On the positive, the fundamentals of the business (if not the leadership) are
-clearly still intact with numbers that remain massive (and probably still headed higher). We don't think the company should have huge issues operating while engaged in a search for new leadership. And (of course) the shares are almost absurdly cheap (and getting cheaper as we speak); clearly there is a lot of bad news getting priced in here," he said.
-"On the other hand, we find it hard to advocate stepping in here in size as there will no doubt be more allegations to come (there is a trope that says if you find two ants in your kitchen the best estimate of the total number of ants in your kitchen is not two...), both from internal issues as well as headlines related to the business, new governmental investigations etc. Adding on the new variable of who will take the reins (internal? external?) and anything else they may or may not uncover creates additional uncertainty (and we can't even begin to speculate as to who they might find to fill Jensen's shoes)," he added.
-KeyBanc: Sector weight
-Analyst John Vinh downgraded the stock from overweight.
-"We believe Huang's departure represents a material increase in strategic, organizational, and execution risk that warrants a higher risk premium and lower valuation multiple for the stock. While we expect core fundamentals to remain strong for the foreseeable future, we believe it will be challenging for NVDA to find a successor with the same leadership and strategic vision as Huang," he said.
-Yorkville Ives & Co.: Outperform
-"In our view the writing is on the wall that Jensen's days at Nvidia could be numbered and we would expect this to be a very fluid situation over the next 48 hours," renowned tech bull Dan Ives said in a note overnight.
-"Jensen has created a black eye moment for himself and Nvidia and now has created a spider web of complexity that Wall Street, Silicon Valley, DC, and the global tech ecosystem are trying to figure out what is next."
-"We believe Nvidia's value is $300 per share with Jensen as CEO and $225 per share without Jensen as CEO," Ives added.
-"The stock will clearly be under pressure with this fluid news but the reality is its a dark day for Nvidia, but the company will navigate this turmoil and get through to the other side and remain a core foundational piece of the AI Revolution."
-Citi: Buy
-Citi analysts said overnight that they had trimmed their target price for Nvidia to $225, down from $285.
-"If Jensen were forced out, it would mark the end of an era," Malik and Sylla said in their note.
-"Under his leadership, Nvidia became the dominant force in AI infrastructure, the primary beneficiary of the global AI spending cycle, and one of the world's most valuable companies. A leadership transition creates an overhang on the stock given his central role in strategy, product vision, customer relationships, and investor confidence."
-They said Nvidia CFO Colette Kress could serve as interim CEO while the board evaluates external candidates.
-Manulife Investment Management
-"As much as there is a lesson here for Nvidia around corporate governance, around key man risk… the reality is there is still 40,000 other employees at Nvidia, and there is some real talent there, and I have no doubt that there are some executors within Nvidia that the board will be able to tap to execute on their existing plans and continue to manage the company," Nathan Thooft, the firm's CIO, told CNBC's "Squawk Box Asia" on Thursday.
-"I think the bigger risk is the foresight in the next several years, where Nvidia was driven by a lot of the mindset and thoughts that come out of their CEO, and if he's no longer there they're going to have to find that replacement."
-Robert Greifeld, former Nasdaq chairman and CEO
-"You can't deny the board has done a horrible job of succession planning," Greifeld told CNBC's "Morning Call" on Thursday.
-"What the board has to find out in the next days or weeks is, did Jensen lie to them? Right? Did he lie to them repeatedly on different topics? We don't know. Does he lose their trust basically on lying to them over the years? I'm sure the board would love to keep Jensen in place in some role. Right, his value to the company is quite large."
-Greifeld said he does not see a premium in Nvidia stock, noting that it trades at a low multiple "so there's no bubble to burst here with respect to the valuation."
-"If there's a new CEO in, they don't have to make any decisions day one, day 30, day 60. They have time to really get their footing and come up with their own strategic vision," he told CNBC. "You're not going to change what is in the development plan for chips that exists today. So I think certainly it would be a loss, but given the nature of the business and the long lead time for these chip developments and the long contractual relationships they have with customers, it would give them certainly room to maneuver."
-Questar Capital Partners
-CIO Richard Reyle told CNBC's "Squawk Box Asia" that Nvidia's board had painted themselves into a corner by not having any kind of succession plan in place.
-"I've heard him compared to Steve Jobs being removed from Apple, but [Jobs] put in place a succession plan and cultivated and groomed Tim Cook for years, so that when he passed away and [Cook] took over, there was a real leader there," he said. "Right now, Nvidia doesn't have that person in place, so it's going to be a choice of keeping Jensen and being faced with … all kinds of interrogations, or they're going to have to move on from him, and that's just going to make the stock uninvestable. That doesn't make the AI trade uninvestable, but it certainly makes Nvidia uninvestable."
-Reyle said he saw the stock moving "lower and much lower from here."
-"There's no obvious [replacement] there that can step right in and take over, so they may kind of try to ride this out and retain him," he said. "But there's going to be a lot of difficulty in doing so because he's going to become something of a liability."
-UBS
-"NVIDIA upheaval puts tech concentration risks in focus," Mark Haefele, global wealth management chief investment officer at UBS, and his team said on Thursday morning.
-"Without taking any views on individual companies, the episode reinforces the importance of investment diversification and selectivity as the AI trade matures. We retain our conviction in AI's long-term potential, with compute demand remaining robust and earnings resilient. But elevated expectations and potentially wide differences in company outcomes can leave concentrated portfolios exposed to company-specific setbacks."
-Wind Shift Capital
-"Jensen Huang is toast," Bill Blain, founder and principal, said in his morning newsletter. "Nvidia's dependence on Jensen Huang is now exposed as a major market risk. The dominant firm within the AI industry lacks clear succession planning and Huang was seen as the acceptable face of AI by the public."
-"Confidence in the AI sector has been wobbling for months," he added. "Huang's departure could lead to instability and trigger another collapse."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html",
-    publishedAt: "2026-11-12T14:28:58+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "nvidia-s-ceo-was-the-rock-star-of-ai-bef-88741972",
-    title: "Nvidia's CEO was the rock star of AI before his dramatic unravelling",
-    titleJa: "Nvidia's CEO was the rock star of AI before his dramatic unravelling",
-    summaryJa: "Within days, Huang's status as a seemingly untouchable figure leading the global AI race has crumbled.",
-    bodyOriginal: `Nvidia's CEO was the rock star of AI before his dramatic unravelling
-- Published
-In recent years, Jensen Huang has been riding high on the crest of the AI wave as his company Nvidia became one of the most valuable in the world.
-It only took a few days for it to all come crashing down.
-Back-to-back revelations of two affairs involving the CEO, including a romantic relationship with an alleged Chinese spy, upended his seemingly untouchable status as a leading tech figure and led to his resignation from the company he helped form.
-His departure leaves uncertainty in the global stock market, which leans on his microchip company, and over the future of a US company seen as a linchpin in the country's race for AI dominance over China.
-On Wednesday, reports emerged that the 63-year-old married man was said to have had an affair with a Nvidia colleague, coming just days after revelations surfaced of a romantic relationship with a woman alleged to be a spy for China.
-This hit the company's shares, and they sank again after the New York Times reported that Huang had had a second affair with an executive at his own company.
-Huang is well known in the technology, business and political world, but despite his company's rocketing rise over the past four years, he perhaps isn't as big a household name as fellow tech bros Elon Musk, Jeff Bezos and Mark Zuckerburg.
-However, Huang is probably more consequential to the development of AI across the world due to Nvidia making the best microchips in the business, which are used to power the technology.
-The company, which is still valued at more than $4 trillion despite recent events, is at the centre of the AI race between the US and China, the world's tech and economic powerhouses.
-This has led to Huang holding court with both US President Donald Trump and China's President XI Jinping. The leather-jacket wearing CEO has access to the world's powerful like few others.
-His remarkable rise to the top of his profession has led to him being dubbed the "Taylor Swift of tech" and seen him amass an estimated fortune of $145bn (£109bn), according to the Bloomberg Billionaires Index.
-Despite always donning his trademark black leather jacket look, Huang has worked for years to present himself as a family man, someone who exemplified the American Dream.
-Born in Taiwan in 1963, Huang and his family moved to the west coast of the US when he was nine years old. He graduated as an electrical engineer from Oregon State University, and then with a master's degree in the same field from Stanford University.
-It was at college where he met his current wife, Lori Mills. The pair were lab partners and married in 1985, eight years before Huang founded Nvidia.
-They have two children, Madison and Spencer, who now both work at their father's firm.
-He worked at US chip firm AMD before co-founding Nvidia. Known as "Daddy Huang" in Taiwan, he has a reputation as a workaholic with incredibly high standards for his staff.
-The company became a key provider of computer chips and circuits used for gaming before it expanded in direction and entered the world of AI. It now creates the key processing chips used to power the growing technology.
-Huang has hailed AI as a "new industrial revolution" that is on par with the advent of electricity.
-"Jensen Huang is a tech visionary of the likes of Steve Jobs," Stephen Witt, the author of Thinking Machine, a biography on the Jensen Huang, told the BBC, adding that he was responsible for creating AI hardware as we know it today.
-The Nvidia co-founder has a famously close relationship with Trump. At a recent AI summit at the White House, where 42 tech executives were present, the president was flanked by Huang and Musk.
-It was no surprise that Huang was at the top table. Companies using Nvidia's chips include Google, Meta, Amazon, Microsoft, SpaceX, Tesla, OpenAI and Anthropic.
-In essence, Huang's customer base includes the biggest firms on the planet and they are spending plenty on Nvidia's products.
-This intertwining of companies means that the negative impact being felt by Nvidia, on the stock market for example, could perhaps have wider implications on other companies and the wider economy.
-Witt told the BBC that Jensen Huang had gone to great lengths to present himself as a family man, and that it was "very important to him".
-"He praises his wife, he talks about her in very glowing ways," he added. "The fallout of this would be bad for anyone's family. But for someone who has gone to such great lengths to cultivate an image of being a family guy and who keeps his children very close, it is very bad."
-After the revelations of the first affair, Huang admitted to having been "unfaithful" to his wife and apologised for hurting their family.
-Trump, as well as other leaders in the AI tech industry, had backed Huang to continue in his role at Nvidia. The president described him as "honourable".`,
-    bodyJa: `Nvidia's CEO was the rock star of AI before his dramatic unravelling
-- Published
-In recent years, Jensen Huang has been riding high on the crest of the AI wave as his company Nvidia became one of the most valuable in the world.
-It only took a few days for it to all come crashing down.
-Back-to-back revelations of two affairs involving the CEO, including a romantic relationship with an alleged Chinese spy, upended his seemingly untouchable status as a leading tech figure and led to his resignation from the company he helped form.
-His departure leaves uncertainty in the global stock market, which leans on his microchip company, and over the future of a US company seen as a linchpin in the country's race for AI dominance over China.
-On Wednesday, reports emerged that the 63-year-old married man was said to have had an affair with a Nvidia colleague, coming just days after revelations surfaced of a romantic relationship with a woman alleged to be a spy for China.
-This hit the company's shares, and they sank again after the New York Times reported that Huang had had a second affair with an executive at his own company.
-Huang is well known in the technology, business and political world, but despite his company's rocketing rise over the past four years, he perhaps isn't as big a household name as fellow tech bros Elon Musk, Jeff Bezos and Mark Zuckerburg.
-However, Huang is probably more consequential to the development of AI across the world due to Nvidia making the best microchips in the business, which are used to power the technology.
-The company, which is still valued at more than $4 trillion despite recent events, is at the centre of the AI race between the US and China, the world's tech and economic powerhouses.
-This has led to Huang holding court with both US President Donald Trump and China's President XI Jinping. The leather-jacket wearing CEO has access to the world's powerful like few others.
-His remarkable rise to the top of his profession has led to him being dubbed the "Taylor Swift of tech" and seen him amass an estimated fortune of $145bn (£109bn), according to the Bloomberg Billionaires Index.
-Despite always donning his trademark black leather jacket look, Huang has worked for years to present himself as a family man, someone who exemplified the American Dream.
-Born in Taiwan in 1963, Huang and his family moved to the west coast of the US when he was nine years old. He graduated as an electrical engineer from Oregon State University, and then with a master's degree in the same field from Stanford University.
-It was at college where he met his current wife, Lori Mills. The pair were lab partners and married in 1985, eight years before Huang founded Nvidia.
-They have two children, Madison and Spencer, who now both work at their father's firm.
-He worked at US chip firm AMD before co-founding Nvidia. Known as "Daddy Huang" in Taiwan, he has a reputation as a workaholic with incredibly high standards for his staff.
-The company became a key provider of computer chips and circuits used for gaming before it expanded in direction and entered the world of AI. It now creates the key processing chips used to power the growing technology.
-Huang has hailed AI as a "new industrial revolution" that is on par with the advent of electricity.
-"Jensen Huang is a tech visionary of the likes of Steve Jobs," Stephen Witt, the author of Thinking Machine, a biography on the Jensen Huang, told the BBC, adding that he was responsible for creating AI hardware as we know it today.
-The Nvidia co-founder has a famously close relationship with Trump. At a recent AI summit at the White House, where 42 tech executives were present, the president was flanked by Huang and Musk.
-It was no surprise that Huang was at the top table. Companies using Nvidia's chips include Google, Meta, Amazon, Microsoft, SpaceX, Tesla, OpenAI and Anthropic.
-In essence, Huang's customer base includes the biggest firms on the planet and they are spending plenty on Nvidia's products.
-This intertwining of companies means that the negative impact being felt by Nvidia, on the stock market for example, could perhaps have wider implications on other companies and the wider economy.
-Witt told the BBC that Jensen Huang had gone to great lengths to present himself as a family man, and that it was "very important to him".
-"He praises his wife, he talks about her in very glowing ways," he added. "The fallout of this would be bad for anyone's family. But for someone who has gone to such great lengths to cultivate an image of being a family guy and who keeps his children very close, it is very bad."
-After the revelations of the first affair, Huang admitted to having been "unfaithful" to his wife and apologised for hurting their family.
-Trump, as well as other leaders in the AI tech industry, had backed Huang to continue in his role at Nvidia. The president described him as "honourable".`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-12T14:18:33+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5297/live/47801ac0-de4a-11f1-8eb3-bb386b145647.jpg",
-    readTime: 10,
-  },
-  {
-    id: "trump-says-we-don-t-need-a-deal-with-ira-917f9632",
-    title: "Trump says ‘we don’t need a deal with Iran’",
-    titleJa: "Trump says ‘we don’t need a deal with Iran’",
-    summaryJa: "Trump directed Vice President JD Vance to instead focus his attention on corruption and crime in Democratic cities and states.",
-    bodyOriginal: `The U.S. should no longer seek a deal with Iran, President Donald Trump said Thursday as he directed Vice President JD Vance to instead focus his attention on corruption and crime in Democratic cities and states.
-"We don't need a deal with Iran. Those days have long since passed," Trump wrote in a Truth Social post.
-"We've got their money, Hundreds of Billions of Dollars, and we've got their Strait!" Trump wrote, referring to the Strait of Hormuz, a key chokepoint in the ongoing U.S.-Iran war.
-The announcement came just over a week after Republicans suffered huge losses in the midterm election. Vance and other Republicans have pinned those losses on the Iran war, which the U.S. and Israel started in late February.
-In the weeks leading up to Election Day, Trump repeatedly suggested the U.S. could resume launching military strikes, which have largely subsided as a tense stalemate has taken hold in the region
-The Wall Street Journal on Wednesday reported that Vance, who has led diplomatic efforts with Iran in prior months, was considering face-to-face talks with a top Iranian security official.
-Stock futures declined following Trump's post.
-The unpopular Iran war, which Trump and others in his administration said would be won in a matter of weeks, is now in its ninth month with no clear end in sight. The conflict region has driven up global energy prices, creating a ripple effect through the economy and exacerbating concerns about inflation and affordability that were paramount to voters in the midterms.
-Corruption emerged as another top issue that broke in Democrats' favor in the election. Trump's post Thursday morning attempts to flip the script, blaming Democratic-run areas for allowing corruption and crime to proliferate.
-"I have asked Vice President Vance to focus his complete and total attention on the Massive Corruption and Crime taking place in Democrat run Cities and States throughout the U.S.," Trump wrote.
-"The Blue States, such as Minnesota, California, Illinois, and many more, are all poorly run, corrupt disasters. Billions of Dollars is being stolen each and every month," the president wrote. "Our Budget could be quickly BALANCED with the correction of this large scale criminal activity."
-"CORRUPTION is in the Democrat Leadership's blood!" he added.
-This is breaking news. Please refresh for updates.`,
-    bodyJa: `The U.S. should no longer seek a deal with Iran, President Donald Trump said Thursday as he directed Vice President JD Vance to instead focus his attention on corruption and crime in Democratic cities and states.
-"We don't need a deal with Iran. Those days have long since passed," Trump wrote in a Truth Social post.
-"We've got their money, Hundreds of Billions of Dollars, and we've got their Strait!" Trump wrote, referring to the Strait of Hormuz, a key chokepoint in the ongoing U.S.-Iran war.
-The announcement came just over a week after Republicans suffered huge losses in the midterm election. Vance and other Republicans have pinned those losses on the Iran war, which the U.S. and Israel started in late February.
-In the weeks leading up to Election Day, Trump repeatedly suggested the U.S. could resume launching military strikes, which have largely subsided as a tense stalemate has taken hold in the region
-The Wall Street Journal on Wednesday reported that Vance, who has led diplomatic efforts with Iran in prior months, was considering face-to-face talks with a top Iranian security official.
-Stock futures declined following Trump's post.
-The unpopular Iran war, which Trump and others in his administration said would be won in a matter of weeks, is now in its ninth month with no clear end in sight. The conflict region has driven up global energy prices, creating a ripple effect through the economy and exacerbating concerns about inflation and affordability that were paramount to voters in the midterms.
-Corruption emerged as another top issue that broke in Democrats' favor in the election. Trump's post Thursday morning attempts to flip the script, blaming Democratic-run areas for allowing corruption and crime to proliferate.
-"I have asked Vice President Vance to focus his complete and total attention on the Massive Corruption and Crime taking place in Democrat run Cities and States throughout the U.S.," Trump wrote.
-"The Blue States, such as Minnesota, California, Illinois, and many more, are all poorly run, corrupt disasters. Billions of Dollars is being stolen each and every month," the president wrote. "Our Budget could be quickly BALANCED with the correction of this large scale criminal activity."
-"CORRUPTION is in the Democrat Leadership's blood!" he added.
-This is breaking news. Please refresh for updates.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
-    publishedAt: "2026-11-12T14:15:05+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "faisal-islam-why-the-uk-economy-is-surpr-fe940829",
-    title: "Faisal Islam: Why the UK economy is surprisingly resilient",
-    titleJa: "Faisal Islam: Why the UK economy is surprisingly resilient",
-    summaryJa: "Faisal Islam: Why the UK economy is surprisingly resilient- Published",
-    bodyOriginal: `Faisal Islam: Why the UK economy is surprisingly resilient
-- Published
-The UK economy grew at its fastest rate for more than two years in the three months to September.
-"Top gear" and "strikingly strong" were among the descriptions of the 0.7% growth offered by the economists who track every minor murmur of Britain's economy.
-It is an upgrade on "solid" and "resilient", and in turn a world away from "hardest hit by the Iran War".
-Against the backdrop of the world's biggest disruption to energy flows, rising market borrowing costs - and the cruel summers since the pandemic - it is impressive growth.
-It should reset some of the swirl of self-reinforcing negativity.
-The UK's economic growth has averaged less than 0.1% in the four Q3s [ie July to September] since the pandemic.
-The average prediction just months ago for this July to September was just 0.1%.
-Even the UK's official forecaster the Office for Budget Responsibility (OBR) effectively pencilled in 0.3% at the Budget just 3 weeks ago.
-This figure has not been exceeded outside the pandemic since 2017. It puts the UK on course to be the second fastest growing economy after the US across the major G7 countries which also includes Canada, Japan, Germany, Italy and France.
-It is tempting to think about what the economy would have done if the Iran War hadn't happened. If interest rates had been cut instead of their recent rise.
-Not a boom
-While the latest figure kills the doom, it is clearly not a boom either.
-Spending on AI and tech have driven the surprise upside over the year. While the AI data centre boom may at any point turn to bust, these figures suggest that spending across the economy on investing in these technologies is helping to boost growth. Consumers have been resilient, at least till the autumn, perhaps helped by better economic vibes.
-While there has been an understandable focus on high UK borrowing costs, another measure of the international standing of the UK economy, sterling's value, reached post Brexit referendum highs last week.
-Productivity and investment is also looking stronger, especially after recent revisions. Some of the most encouraging figures are in private sector business investment.
-I spoke to the chancellor at Nexeon in Oxfordshire, which is searching for a UK factory to manufacture its cutting edge electric vehicle battery - and British - technology. My colleagues visited British watchmakers in Maidenhead carving out a niche to take on the Swiss.
-However, this may well not last for the final three months of the year.
-Consumer confidence has already fallen as petrol and domestic energy prices start to rise again.
-There is a significant challenge with everyday cost-of-living pressures in the coming months. Construction and private house building remain depressed.
-The Iran conflict remains the big unknown and whether post the US midterm elections there could be a durable end to the conflict in the Gulf.
-Some oil and gas production there is starting to normalise. It could bring down petrol prices, energy bills, government borrowing costs, and mortgage costs too.
-Expect to see Downing Street investing heavily in "settlement of the conflict", which the chancellor told me is the "best economic policy".
-- Published6 days ago
-- Published3 hours ago`,
-    bodyJa: `Faisal Islam: Why the UK economy is surprisingly resilient
-- Published
-The UK economy grew at its fastest rate for more than two years in the three months to September.
-"Top gear" and "strikingly strong" were among the descriptions of the 0.7% growth offered by the economists who track every minor murmur of Britain's economy.
-It is an upgrade on "solid" and "resilient", and in turn a world away from "hardest hit by the Iran War".
-Against the backdrop of the world's biggest disruption to energy flows, rising market borrowing costs - and the cruel summers since the pandemic - it is impressive growth.
-It should reset some of the swirl of self-reinforcing negativity.
-The UK's economic growth has averaged less than 0.1% in the four Q3s [ie July to September] since the pandemic.
-The average prediction just months ago for this July to September was just 0.1%.
-Even the UK's official forecaster the Office for Budget Responsibility (OBR) effectively pencilled in 0.3% at the Budget just 3 weeks ago.
-This figure has not been exceeded outside the pandemic since 2017. It puts the UK on course to be the second fastest growing economy after the US across the major G7 countries which also includes Canada, Japan, Germany, Italy and France.
-It is tempting to think about what the economy would have done if the Iran War hadn't happened. If interest rates had been cut instead of their recent rise.
-Not a boom
-While the latest figure kills the doom, it is clearly not a boom either.
-Spending on AI and tech have driven the surprise upside over the year. While the AI data centre boom may at any point turn to bust, these figures suggest that spending across the economy on investing in these technologies is helping to boost growth. Consumers have been resilient, at least till the autumn, perhaps helped by better economic vibes.
-While there has been an understandable focus on high UK borrowing costs, another measure of the international standing of the UK economy, sterling's value, reached post Brexit referendum highs last week.
-Productivity and investment is also looking stronger, especially after recent revisions. Some of the most encouraging figures are in private sector business investment.
-I spoke to the chancellor at Nexeon in Oxfordshire, which is searching for a UK factory to manufacture its cutting edge electric vehicle battery - and British - technology. My colleagues visited British watchmakers in Maidenhead carving out a niche to take on the Swiss.
-However, this may well not last for the final three months of the year.
-Consumer confidence has already fallen as petrol and domestic energy prices start to rise again.
-There is a significant challenge with everyday cost-of-living pressures in the coming months. Construction and private house building remain depressed.
-The Iran conflict remains the big unknown and whether post the US midterm elections there could be a durable end to the conflict in the Gulf.
-Some oil and gas production there is starting to normalise. It could bring down petrol prices, energy bills, government borrowing costs, and mortgage costs too.
-Expect to see Downing Street investing heavily in "settlement of the conflict", which the chancellor told me is the "best economic policy".
-- Published6 days ago
-- Published3 hours ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-12T13:27:09+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c584/live/89340bf0-de9c-11f1-9afe-1f03bfe02283.jpg",
-    readTime: 8,
-  },
-  {
-    id: "uk-economy-grows-at-fastest-rate-for-mor-9a8e4786",
-    title: "UK economy grows at fastest rate for more than two years",
-    titleJa: "UK economy grows at fastest rate for more than two years",
-    summaryJa: "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
-    bodyOriginal: `UK economy grows at fastest rate for more than two years
-- Published
-The UK economy grew at its fastest rate for more than two years in the three months to September.
-Between July and September, the economy expanded by 0.7%, accelerating from the previous three months, official figures, external show.
-The robust growth suggests a far more resilient economy than expected over the summer, despite the impact of higher energy prices from the Iran war.
-Strong growth in the services sector - the largest part of the economy, which includes non-physical goods such as consultancy services and computer programming as well as hotels and restaurants - helped boost the numbers.
-Within services, computer programming registered its fastest growth for the past three years, helped by cloud computing and AI-linked spending.
-The boost from computer programming and consultancy services has been the biggest driver of growth so far this year.
-Grant Fitzner, chief economist at the Office for National Statistics, said it was "possible growth could have been even stronger" if there hadn't been a war in the Middle East.
-But he says households may still not feel better off, and that prices might soon start to rise more quickly than wages.
-However, Prime Minister Andy Burnham said the figures were "welcome news".
-"Despite a year where events around the world have pushed up costs here at home, our economy is growing, bringing hope for the future," he said.
-Chancellor John Healey told the BBC the figures showed a "remarkable resilience" in the face of global conflicts, and hopes they "bring back confidence in Britain".
-Asked about how government decisions could be the reason for growth when AI investment has been a main driver, Healey said ministers can always "help or hinder" business confidence and investments.
-Although investors have recently been concerned about slower artificial intelligence development in the US and the long term viability of AI firms' business models, businesses have continued to invest in the technologies.
-Sarah Coles, from investment platform AJ Bell, said that since the start of the year, "it's the less visible back-office work that has delivered, with administrative and supportive services seeing strong growth" noting that these are the areas benefitting from the increasing use of AI.
-The latest figures put the UK on course to be the second fastest growing economy across the major G7 countries which also includes Canada, Japan, Germany, Italy and France.
-However, Jake Finney, senior economist at consultancy PwC, cautioned that growth was likely to slow over the coming months "unless energy markets stabilise".
-A sharp rise in energy bills is forecast for January, which is likely to hit consumer spending and confidence, he said.
-High energy costs have been stoked by the ongoing conflict in the Middle East and Russia's invasion of Ukraine.
-US and Israeli attacks led to Iran blocking the Strait of Hormuz - a vital shipping route for the world's oil and gas.
-Meanwhile, Russia and Ukraine have been attacking each other's oil refineries, leading to a squeeze on global refining capacity, hitting diesel and petrol prices.
-What's happening to the UK economy and how does it affect you?
-- Published5 hours ago
-'Surprising resilience'
-Richard Benc, founder of mechanical watch company Studio Underdog, says sales are better than he expected.
-"We've seen more resilience than we had forecast for and expected. We are still projecting growth this year," he says.
-The business exports about 80% of its watches. "We've seen a surprising amount of resilience, particularly from our US customers," he adds, although some UK customers are now taking longer to buy watches.
-Get in touch
-Do you have any views, comments or questions about this story?`,
-    bodyJa: `UK economy grows at fastest rate for more than two years
-- Published
-The UK economy grew at its fastest rate for more than two years in the three months to September.
-Between July and September, the economy expanded by 0.7%, accelerating from the previous three months, official figures, external show.
-The robust growth suggests a far more resilient economy than expected over the summer, despite the impact of higher energy prices from the Iran war.
-Strong growth in the services sector - the largest part of the economy, which includes non-physical goods such as consultancy services and computer programming as well as hotels and restaurants - helped boost the numbers.
-Within services, computer programming registered its fastest growth for the past three years, helped by cloud computing and AI-linked spending.
-The boost from computer programming and consultancy services has been the biggest driver of growth so far this year.
-Grant Fitzner, chief economist at the Office for National Statistics, said it was "possible growth could have been even stronger" if there hadn't been a war in the Middle East.
-But he says households may still not feel better off, and that prices might soon start to rise more quickly than wages.
-However, Prime Minister Andy Burnham said the figures were "welcome news".
-"Despite a year where events around the world have pushed up costs here at home, our economy is growing, bringing hope for the future," he said.
-Chancellor John Healey told the BBC the figures showed a "remarkable resilience" in the face of global conflicts, and hopes they "bring back confidence in Britain".
-Asked about how government decisions could be the reason for growth when AI investment has been a main driver, Healey said ministers can always "help or hinder" business confidence and investments.
-Although investors have recently been concerned about slower artificial intelligence development in the US and the long term viability of AI firms' business models, businesses have continued to invest in the technologies.
-Sarah Coles, from investment platform AJ Bell, said that since the start of the year, "it's the less visible back-office work that has delivered, with administrative and supportive services seeing strong growth" noting that these are the areas benefitting from the increasing use of AI.
-The latest figures put the UK on course to be the second fastest growing economy across the major G7 countries which also includes Canada, Japan, Germany, Italy and France.
-However, Jake Finney, senior economist at consultancy PwC, cautioned that growth was likely to slow over the coming months "unless energy markets stabilise".
-A sharp rise in energy bills is forecast for January, which is likely to hit consumer spending and confidence, he said.
-High energy costs have been stoked by the ongoing conflict in the Middle East and Russia's invasion of Ukraine.
-US and Israeli attacks led to Iran blocking the Strait of Hormuz - a vital shipping route for the world's oil and gas.
-Meanwhile, Russia and Ukraine have been attacking each other's oil refineries, leading to a squeeze on global refining capacity, hitting diesel and petrol prices.
-What's happening to the UK economy and how does it affect you?
-- Published5 hours ago
-'Surprising resilience'
-Richard Benc, founder of mechanical watch company Studio Underdog, says sales are better than he expected.
-"We've seen more resilience than we had forecast for and expected. We are still projecting growth this year," he says.
-The business exports about 80% of its watches. "We've seen a surprising amount of resilience, particularly from our US customers," he adds, although some UK customers are now taking longer to buy watches.
-Get in touch
-Do you have any views, comments or questions about this story?`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-12T11:20:25+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b029/live/c4ae2930-de89-11f1-b441-2b33b063138f.jpg",
-    readTime: 9,
   },
 ];
 
