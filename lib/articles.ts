@@ -15,6 +15,398 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "we-slept-here-flight-delays-linger-but-63ca4a0b",
+    title: "'We slept here': Flight delays linger but schedule is back on track for Monday",
+    titleJa: "'We slept here': Flight delays linger but schedule is back on track for Monday",
+    summaryJa: "Flight disruptions lingered two days after the Federal Aviation Administration grounded departures nationwide for more than four hours.",
+    bodyOriginal: `U.S. flights are set to run close to normal on Monday as airlines scramble to get back on track after the Federal Aviation Administration grounded departures nationwide for more than four hours on Friday.
+Disruptions lingered on Sunday, but passengers were getting on their way.
+More than 1,600 U.S. flights there were canceled as of noon ET and more than 4,000 were delayed, according to FlightAware data. That was far fewer than the almost 6,700 cancellations on Saturday and more than 9,200 on Sunday when the FAA halted all departures into U.S. airports.
+"We slept here," said Beth Martin, who was trying to travel home to Birmingham, Alabama, from New York's LaGuardia Airport on Sunday at the end of her daughter's birthday trip. They were booked for Saturday night, and when delay announcements started rolling in from Delta Air Lines, they decided to make good use of the extra time: after strolling through Central Park, they went window shopping on Fifth Avenue.
+But when the flight was canceled, the standby list on a backup flight looked grim, and their original midtown hotel was charging about $700 for an additional night, the two of them slept at LaGuardia on Saturday. She said they found wheelchairs to sleep in outside security.
+Transportation Secretary Sean Duffy on Saturday tied the issue to a router and work to update from copper wires, a system overseen by L3Harris Technologies, to a fiber-optic system. FAA administrator Bryan Bedford said the upgrades were part of "routine" maintenance to switch over to fiber optic.
+"We are supporting the FAA in its investigation to understand the conditions that led to the Nov. 13 ground stop of our nation's air travel," L3Harris said in a statement Saturday afternoon.
+Airlines waived change fees and fare differences and offered pilots and flight attendants extra pay to ease the delays.
+Customers told CNBC they were booked on several flights before getting on board.
+Justine Fritz, who works in sales for a consumer goods company, was in New York for a business event on Friday. She tried five different flights before getting on a flight to Houston, then flew four hours out of her way to get back to Minneapolis after her Saturday flight was canceled. Fritz said she had so many boarding passes that TSA wouldn't let her through security at first.
+"It's been bananas," she told CNBC at the gate. Fritz said she made the best of it by shopping and getting a haircut, but she's still disappointed.
+"I'm missing the first hour of the Vikings game," she said.
+Martin said her trip home with her daughter will take even longer. Delta booked them to Memphis, and her husband will drive the four hours from Birmingham to pick them up.
+Shortly after the groundstop, the longest since 9/11, Duffy pushed Congress for as much as $50 billion for upgrades to the aging U.S. air traffic control system. A day later, Democratic lawmakers pushed back, citing unspent money from existing funding, which includes Congress's approval last year of $12.5 billion for airport and air traffic control improvements over five years.
+"Our committee, on behalf of the flying public, will hold the administration accountable for what happened to make sure this chaos does not happen again," said Reps. Rick Larsen (D.-Wash.), ranking member of the House Committee on Transportation and Infrastructure, and Rep. Andre Carson (D.-Ind.), ranking member of the aviation subcommittee, said in a joint statement.`,
+    bodyJa: `U.S. flights are set to run close to normal on Monday as airlines scramble to get back on track after the Federal Aviation Administration grounded departures nationwide for more than four hours on Friday.
+Disruptions lingered on Sunday, but passengers were getting on their way.
+More than 1,600 U.S. flights there were canceled as of noon ET and more than 4,000 were delayed, according to FlightAware data. That was far fewer than the almost 6,700 cancellations on Saturday and more than 9,200 on Sunday when the FAA halted all departures into U.S. airports.
+"We slept here," said Beth Martin, who was trying to travel home to Birmingham, Alabama, from New York's LaGuardia Airport on Sunday at the end of her daughter's birthday trip. They were booked for Saturday night, and when delay announcements started rolling in from Delta Air Lines, they decided to make good use of the extra time: after strolling through Central Park, they went window shopping on Fifth Avenue.
+But when the flight was canceled, the standby list on a backup flight looked grim, and their original midtown hotel was charging about $700 for an additional night, the two of them slept at LaGuardia on Saturday. She said they found wheelchairs to sleep in outside security.
+Transportation Secretary Sean Duffy on Saturday tied the issue to a router and work to update from copper wires, a system overseen by L3Harris Technologies, to a fiber-optic system. FAA administrator Bryan Bedford said the upgrades were part of "routine" maintenance to switch over to fiber optic.
+"We are supporting the FAA in its investigation to understand the conditions that led to the Nov. 13 ground stop of our nation's air travel," L3Harris said in a statement Saturday afternoon.
+Airlines waived change fees and fare differences and offered pilots and flight attendants extra pay to ease the delays.
+Customers told CNBC they were booked on several flights before getting on board.
+Justine Fritz, who works in sales for a consumer goods company, was in New York for a business event on Friday. She tried five different flights before getting on a flight to Houston, then flew four hours out of her way to get back to Minneapolis after her Saturday flight was canceled. Fritz said she had so many boarding passes that TSA wouldn't let her through security at first.
+"It's been bananas," she told CNBC at the gate. Fritz said she made the best of it by shopping and getting a haircut, but she's still disappointed.
+"I'm missing the first hour of the Vikings game," she said.
+Martin said her trip home with her daughter will take even longer. Delta booked them to Memphis, and her husband will drive the four hours from Birmingham to pick them up.
+Shortly after the groundstop, the longest since 9/11, Duffy pushed Congress for as much as $50 billion for upgrades to the aging U.S. air traffic control system. A day later, Democratic lawmakers pushed back, citing unspent money from existing funding, which includes Congress's approval last year of $12.5 billion for airport and air traffic control improvements over five years.
+"Our committee, on behalf of the flying public, will hold the administration accountable for what happened to make sure this chaos does not happen again," said Reps. Rick Larsen (D.-Wash.), ranking member of the House Committee on Transportation and Infrastructure, and Rep. Andre Carson (D.-Ind.), ranking member of the aviation subcommittee, said in a joint statement.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html",
+    publishedAt: "2026-11-15T18:22:23+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "bessent-calls-for-dramatic-shakeup-at-nv-43ed46a0",
+    title: "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
+    titleJa: "Bessent calls for ‘dramatic shakeup’ at Nvidia, urges outside CEO",
+    summaryJa: "Bessent has criticized Howard Lutnick’s department over suspected chip diversion to China while defending President Donald Trump’s handling of the matter.",
+    bodyOriginal: `Treasury Secretary Scott Bessent on Sunday called for a "dramatic shakeup" at Nvidia after CEO Jensen Huang's resignation, questioning whether the chipmaker pursued illicit sales of its advanced artificial intelligence chips to boost earnings.
+Bessent said Nvidia's board should look outside the company for its next chief executive and suggested other executives should face scrutiny over the chip giant's compliance with U.S. export controls.
+"I want to keep coming back to what was the culture at Nvidia, and were they pressing these seemingly illicit sales to goose their revenues and their earnings?" Bessent said in an interview on Fox News.
+The remarks come amid a growing feud between Bessent and Commerce Secretary Howard Lutnick over the suspected diversion of advanced AI chips to China, even as the Treasury secretary continues to defend President Donald Trump's handling of the matter.
+Both Bessent and Lutnick are expected to accompany Trump to China this week, Semafor reported Sunday, putting the two Cabinet secretaries alongside the president as he prepares to meet with Chinese President Xi Jinping and Russian President Vladimir Putin on the sidelines of the APEC summit.
+A White House official told Reuters on Thursday that the president maintains "complete confidence" in Lutnick, despite mounting scrutiny of the secretary’s handling of the Nvidia matter.
+Huang resigned Thursday following revelations about his relationship with Alice Huang, a former executive at Singapore-based Megaspeed, whom U.S. intelligence officials suspect of spying for China. Megaspeed is suspected of diverting Nvidia chips to China in violation of U.S. export controls.
+Nvidia named Chief Financial Officer Colette Kress interim CEO.
+Bessent suggested Sunday that Nvidia's problems extended well beyond Huang.
+"If this were a bank and they hadn't complied like this, the OCC would be in there right now, and a lot of the executives would be removed," Bessent said, referring to the Office of the Comptroller of the Currency.
+Bessent also questioned Nvidia's financial disclosures, pointing to a surge in reported Singapore revenue as its China sales fell.
+Nvidia stopped separately reporting Singapore revenue in November 2025, saying a new methodology based on customers' headquarters rather than billing addresses better reflected the geographic distribution of its sales.
+Bessent's remarks came two days after he told CNBC's "Squawk Box" that several federal agencies had supported adding Megaspeed to the government's export blacklist for months.
+"But Commerce has the pen," Bessent said.
+The public rebuke followed reporting by Axios that Bessent confronted Lutnick in the White House Situation Room over Commerce's failure to act against Megaspeed. Commerce denied that the confrontation took place.
+Lutnick is also facing scrutiny over his family's financial ties to Nvidia. CNBC reported Friday that Cantor Fitzgerald, the Wall Street firm formerly run by Lutnick and now led by his sons, has helped arrange billions of dollars in financing for Nvidia's business partners.
+Cantor said Nvidia share holdings fell nearly 50% over six months as national security concerns surrounding Huang escalated. The positions were associated with client swap transactions, not proprietary investments, the investment bank said.
+There is no evidence Lutnick shared sensitive information with his sons or that Cantor traded on such information.
+Bessent on Sunday said Trump had drawn a firm line against sales of chips more advanced than Nvidia's H200 to China. Trump himself authorized H200 sales to approved Chinese customers in December —following months of lobbying by Huang — in an arrangement under which the U.S. government would receive a 25% cut.
+Bessent's latest criticism comes two days before Nvidia is scheduled to report its first quarterly earnings since Huang's departure.`,
+    bodyJa: `Treasury Secretary Scott Bessent on Sunday called for a "dramatic shakeup" at Nvidia after CEO Jensen Huang's resignation, questioning whether the chipmaker pursued illicit sales of its advanced artificial intelligence chips to boost earnings.
+Bessent said Nvidia's board should look outside the company for its next chief executive and suggested other executives should face scrutiny over the chip giant's compliance with U.S. export controls.
+"I want to keep coming back to what was the culture at Nvidia, and were they pressing these seemingly illicit sales to goose their revenues and their earnings?" Bessent said in an interview on Fox News.
+The remarks come amid a growing feud between Bessent and Commerce Secretary Howard Lutnick over the suspected diversion of advanced AI chips to China, even as the Treasury secretary continues to defend President Donald Trump's handling of the matter.
+Both Bessent and Lutnick are expected to accompany Trump to China this week, Semafor reported Sunday, putting the two Cabinet secretaries alongside the president as he prepares to meet with Chinese President Xi Jinping and Russian President Vladimir Putin on the sidelines of the APEC summit.
+A White House official told Reuters on Thursday that the president maintains "complete confidence" in Lutnick, despite mounting scrutiny of the secretary’s handling of the Nvidia matter.
+Huang resigned Thursday following revelations about his relationship with Alice Huang, a former executive at Singapore-based Megaspeed, whom U.S. intelligence officials suspect of spying for China. Megaspeed is suspected of diverting Nvidia chips to China in violation of U.S. export controls.
+Nvidia named Chief Financial Officer Colette Kress interim CEO.
+Bessent suggested Sunday that Nvidia's problems extended well beyond Huang.
+"If this were a bank and they hadn't complied like this, the OCC would be in there right now, and a lot of the executives would be removed," Bessent said, referring to the Office of the Comptroller of the Currency.
+Bessent also questioned Nvidia's financial disclosures, pointing to a surge in reported Singapore revenue as its China sales fell.
+Nvidia stopped separately reporting Singapore revenue in November 2025, saying a new methodology based on customers' headquarters rather than billing addresses better reflected the geographic distribution of its sales.
+Bessent's remarks came two days after he told CNBC's "Squawk Box" that several federal agencies had supported adding Megaspeed to the government's export blacklist for months.
+"But Commerce has the pen," Bessent said.
+The public rebuke followed reporting by Axios that Bessent confronted Lutnick in the White House Situation Room over Commerce's failure to act against Megaspeed. Commerce denied that the confrontation took place.
+Lutnick is also facing scrutiny over his family's financial ties to Nvidia. CNBC reported Friday that Cantor Fitzgerald, the Wall Street firm formerly run by Lutnick and now led by his sons, has helped arrange billions of dollars in financing for Nvidia's business partners.
+Cantor said Nvidia share holdings fell nearly 50% over six months as national security concerns surrounding Huang escalated. The positions were associated with client swap transactions, not proprietary investments, the investment bank said.
+There is no evidence Lutnick shared sensitive information with his sons or that Cantor traded on such information.
+Bessent on Sunday said Trump had drawn a firm line against sales of chips more advanced than Nvidia's H200 to China. Trump himself authorized H200 sales to approved Chinese customers in December —following months of lobbying by Huang — in an arrangement under which the U.S. government would receive a 25% cut.
+Bessent's latest criticism comes two days before Nvidia is scheduled to report its first quarterly earnings since Huang's departure.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+    publishedAt: "2026-11-15T18:10:18+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "trump-breaks-silence-about-faa-nationwid-574cbb42",
+    title: "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
+    titleJa: "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
+    summaryJa: "Trump blamed the Biden administration for the FAA’s aging system after a nationwide ground stop disrupted air travel and urged Congress to approve more funding.",
+    bodyOriginal: `President Donald Trump on Sunday made his first public comments about Friday's nationwide ground stop by the Federal Aviation Administration, blaming the Biden administration for making an "old and broken" air traffic control system worse. Trump also urged Congress to approve more funding to modernize the system.
+The ground stop lasted more than four hours Friday, disrupted flights nationwide, contributed to thousands of cancellations and delays, and affected hundreds of thousands of passengers.
+"The Biden Administration was an FAA disaster," Trump wrote on his social media platform. "Big money spent unwisely, making an old and broken system worse than when they began."
+The president added that his administration has "the knowledge and plan for the Flight Control Systems," but said that "we need Congress to give the money, FAST!"
+Congress approved $12.5 billion for the FAA last year as part of a major tax and spending package. Transportation Secretary Sean Duffy has said that the aging air traffic control system will need more funding for a broader overhaul.
+The FAA said its equipment became unstable after a high volume of data flooded its network. The agency said contractor work at one site may be related and that the underlying cause remains under investigation.
+Nationwide FAA ground stops are rare. Before the Nov. 2026 shutdown, the last two were after the Sept. 11 attacks and a brief FAA computer outage in January 2023.`,
+    bodyJa: `President Donald Trump on Sunday made his first public comments about Friday's nationwide ground stop by the Federal Aviation Administration, blaming the Biden administration for making an "old and broken" air traffic control system worse. Trump also urged Congress to approve more funding to modernize the system.
+The ground stop lasted more than four hours Friday, disrupted flights nationwide, contributed to thousands of cancellations and delays, and affected hundreds of thousands of passengers.
+"The Biden Administration was an FAA disaster," Trump wrote on his social media platform. "Big money spent unwisely, making an old and broken system worse than when they began."
+The president added that his administration has "the knowledge and plan for the Flight Control Systems," but said that "we need Congress to give the money, FAST!"
+Congress approved $12.5 billion for the FAA last year as part of a major tax and spending package. Transportation Secretary Sean Duffy has said that the aging air traffic control system will need more funding for a broader overhaul.
+The FAA said its equipment became unstable after a high volume of data flooded its network. The agency said contractor work at one site may be related and that the underlying cause remains under investigation.
+Nationwide FAA ground stops are rare. Before the Nov. 2026 shutdown, the last two were after the Sept. 11 attacks and a brief FAA computer outage in January 2023.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
+    publishedAt: "2026-11-15T16:56:40+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 4,
+  },
+  {
+    id: "we-had-the-worst-fight-i-want-my-husban-49829581",
+    title: "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+    titleJa: "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to lose his $280,000 salary. Is that unreasonable?",
+    summaryJa: "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
+    bodyOriginal: `“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”`,
+    bodyJa: `“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
+    publishedAt: "2026-11-15T16:00:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-41887542",
+    readTime: 2,
+  },
+  {
+    id: "suspected-china-spy-linked-to-nvidia-s-e-c621dae0",
+    title: "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+    titleJa: "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+    summaryJa: "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+    bodyOriginal: `Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says
+- Published
+Alice Huang, a suspected China spy who has been linked to Nvidia's former boss Jensen Huang, left her executive role at Megaspeed in August last year, the company says.
+Jensen Huang resigned as chief executive of the AI chip-making giant Nvidia after it emerged he had allegedly had affairs with Alice Huang as well as with one of his employees.
+Megaspeed is the biggest buyer of Nvidia chips in south-east Asia and the scandal at Nvidia has raised questions about the possibility that high-end AI chips may have ended up in China despite US export restrictions.
+The Singapore-based company said on Sunday it had launched an internal investigation into its business.
+It said it was aware of reports "containing assertions about our business, supply chain and global operations that are not supported by verifiable evidence".
+It added that it "conducts legitimate and lawful business" and has "retained external legal counsel to conduct a thorough internal investigation".
+On Friday, US Treasury Secretary Scott Bessent blamed fellow Trump cabinet colleague Howard Lutnick's commerce department for failing to properly oversee the export of high-end chips.
+Bessent told CNBC that several agencies "were in favour of putting Megaspeed on the entity list for months... but Commerce has the pen... and you will have to ask them about their internal process".
+The so-called entity list restricts US trade with overseas firms and individuals.
+Lutnick has been called to testify before the Senate Banking Committee next month over his department's role in allowing Nvidia to export its advanced chips.
+Other congressional committees have asked both Lutnick and his department to retain all records relating to Nvidia and Jensen Huang.
+Megaspeed is suspected of giving backdoor access to Nvidia chips to Chinese companies via its data centres in Malaysia, Indonesia and Thailand.
+Nvidia has been banned from selling its advanced chips to China.
+While Singapore does not prohibit the transfer of advanced AI chips to companies abroad, such moves can breach US export controls.
+Singapore has said that while it does not enforce "unilateral export controls imposed by other countries" it expects all companies in its jurisdiction to respect such regulations.
+Megaspeed said it "designs and maintains its global operational and supply-chain control frameworks to comply with all applicable laws and regulatory regimes". It said this includes "US export control requirements and local jurisdiction rules in every market where we operate".
+China has denied that Alice Huang is a spy and warned the US not to use the scandal as a "pretext for imposing a technological blockade" on AI technology.
+Related topics
+- Published2 days ago
+- Published3 days ago`,
+    bodyJa: `Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says
+- Published
+Alice Huang, a suspected China spy who has been linked to Nvidia's former boss Jensen Huang, left her executive role at Megaspeed in August last year, the company says.
+Jensen Huang resigned as chief executive of the AI chip-making giant Nvidia after it emerged he had allegedly had affairs with Alice Huang as well as with one of his employees.
+Megaspeed is the biggest buyer of Nvidia chips in south-east Asia and the scandal at Nvidia has raised questions about the possibility that high-end AI chips may have ended up in China despite US export restrictions.
+The Singapore-based company said on Sunday it had launched an internal investigation into its business.
+It said it was aware of reports "containing assertions about our business, supply chain and global operations that are not supported by verifiable evidence".
+It added that it "conducts legitimate and lawful business" and has "retained external legal counsel to conduct a thorough internal investigation".
+On Friday, US Treasury Secretary Scott Bessent blamed fellow Trump cabinet colleague Howard Lutnick's commerce department for failing to properly oversee the export of high-end chips.
+Bessent told CNBC that several agencies "were in favour of putting Megaspeed on the entity list for months... but Commerce has the pen... and you will have to ask them about their internal process".
+The so-called entity list restricts US trade with overseas firms and individuals.
+Lutnick has been called to testify before the Senate Banking Committee next month over his department's role in allowing Nvidia to export its advanced chips.
+Other congressional committees have asked both Lutnick and his department to retain all records relating to Nvidia and Jensen Huang.
+Megaspeed is suspected of giving backdoor access to Nvidia chips to Chinese companies via its data centres in Malaysia, Indonesia and Thailand.
+Nvidia has been banned from selling its advanced chips to China.
+While Singapore does not prohibit the transfer of advanced AI chips to companies abroad, such moves can breach US export controls.
+Singapore has said that while it does not enforce "unilateral export controls imposed by other countries" it expects all companies in its jurisdiction to respect such regulations.
+Megaspeed said it "designs and maintains its global operational and supply-chain control frameworks to comply with all applicable laws and regulatory regimes". It said this includes "US export control requirements and local jurisdiction rules in every market where we operate".
+China has denied that Alice Huang is a spy and warned the US not to use the scandal as a "pretext for imposing a technological blockade" on AI technology.
+Related topics
+- Published2 days ago
+- Published3 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-15T14:56:21+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
+    readTime: 7,
+  },
+  {
+    id: "minister-backs-legal-right-to-job-suppor-b65091f0",
+    title: "Minister backs legal right to job support for young people",
+    titleJa: "Minister backs legal right to job support for young people",
+    summaryJa: "The work and pensions secretary said the level of support currently on offer was too vague.",
+    bodyOriginal: `Minister backs legal right to job support for young people
+- Published
+The work and pensions secretary has backed the idea that the government should legally guarantee young people help to get into employment.
+Pat McFadden told the BBC that job support should be given a "legislative underpinning", adding the level of assistance on offer was currently "vague".
+McFadden also confirmed that some current benefit claimants would see their current entitlement to benefits reduced when they are reassessed.
+But his Conservative counterpart Helen Whately said the idea of legally guaranteeing support "doesn't make sense" and ministers should focus instead on reducing taxes paid by employers.
+It comes ahead of a long-awaited review by former Labour cabinet minister Alan Milburn, which will recommend on Tuesday that under-25s should be guaranteed job placements or training to help them find permanent work.
+His report is also expected to say that under-25s should no longer be able to claim the health element of UK-wide universal credit - or personal independence payment (Pip), the main disability benefit in England and Wales.
+Some could be eligible for a new "additional cost allowance" to cover day-to-day costs related to health conditions, under the plans.
+Speaking to Sunday with Laura Kuenssberg, Milburn said the government should divert money away from the benefits system to boost work support, adding he wanted to see "billions" extra spent on help over the next decade.
+However, the idea of reducing the entitlement of existing benefit claimants could prove controversial among Labour MPs, who scuppered a previous benefits-cutting plan under Sir Keir Starmer last year.
+Milburn said the reduced entitlement for some should be accompanied by a new "duty on government" to provide jobs support to young people, such as apprenticeships, college places, job coaching, or a job.
+He added that the temporary nature of previous job support schemes, including the Kickstart programme during the Covid pandemic, meant that they had been less effective as reducing long-term joblessness.
+How the new guarantee would work in practice is not yet clear, with McFadden adding it would have to be "carefully" drafted.
+Although local councils have some specific legal duties, including in the areas of child protection and homelessness, duties on central government currently tend to be much broader, such as operating a "comprehensive" health service.
+Asked on the same programme whether he agreed with the idea of a guarantee, McFadden said: "I do think we need some legislative underpinning to this."
+He added that the offer of support "needs to be more firm," adding: "People need more certainty about what they are entitled to."
+He confirmed that the government planned to move younger claimants onto a new benefits system when they undergo scheduled reassessment, and some of them would not receive "what they would get today".
+Other claimants, such as those with long-term disabilities, would receive an increased amount, he added.
+Also speaking to Kuenssberg, shadow work and pensions secretary Helen Whately said her party backed moves to reduce welfare spending.
+But she criticised the proposed legal guarantee of work support, arguing it might "sound a nice thing to do," but ministers would be better off reducing taxes and regulations on businesses to help youngsters find "real jobs".
+She added it was "absurd" the government had increased taxes for employers in order to "subsidise things that look like jobs". She added: "Just stop doing the taxing.
+Elsewhere in his interview, former health secretary Milburn said:
+a sustainable reduction in welfare spending cannot be achieved in two or three years, warning that "crude cuts" to the benefits system would create other additional costs for government
+GPs should not be responsible for signing sick notes declaring people unable to work
+ministers should "look very carefully" at Labour's manifesto commitment to phase out the reduced minimum wage for those aged 18-21, adding that moves towards this had "imposed a lot of cost" on firms
+It comes as the government announced it will further widen eligibly for its scheme that offers jobless under-25s subsidised six-month job roles on the minimum wage.
+From next April, eligible claimants will be offered a role after 12 months of unsuccessfully looking for work, rather 18 currently.
+It is the second time that eligibility for the scheme has been widened, after the maximum age was increased from 21 to 24 earlier this year.
+Get in touch
+How have you been affected by the issues raised in this story? Tell us about your experience.
+Related topics
+- Published2 days ago
+- Published3 days ago`,
+    bodyJa: `Minister backs legal right to job support for young people
+- Published
+The work and pensions secretary has backed the idea that the government should legally guarantee young people help to get into employment.
+Pat McFadden told the BBC that job support should be given a "legislative underpinning", adding the level of assistance on offer was currently "vague".
+McFadden also confirmed that some current benefit claimants would see their current entitlement to benefits reduced when they are reassessed.
+But his Conservative counterpart Helen Whately said the idea of legally guaranteeing support "doesn't make sense" and ministers should focus instead on reducing taxes paid by employers.
+It comes ahead of a long-awaited review by former Labour cabinet minister Alan Milburn, which will recommend on Tuesday that under-25s should be guaranteed job placements or training to help them find permanent work.
+His report is also expected to say that under-25s should no longer be able to claim the health element of UK-wide universal credit - or personal independence payment (Pip), the main disability benefit in England and Wales.
+Some could be eligible for a new "additional cost allowance" to cover day-to-day costs related to health conditions, under the plans.
+Speaking to Sunday with Laura Kuenssberg, Milburn said the government should divert money away from the benefits system to boost work support, adding he wanted to see "billions" extra spent on help over the next decade.
+However, the idea of reducing the entitlement of existing benefit claimants could prove controversial among Labour MPs, who scuppered a previous benefits-cutting plan under Sir Keir Starmer last year.
+Milburn said the reduced entitlement for some should be accompanied by a new "duty on government" to provide jobs support to young people, such as apprenticeships, college places, job coaching, or a job.
+He added that the temporary nature of previous job support schemes, including the Kickstart programme during the Covid pandemic, meant that they had been less effective as reducing long-term joblessness.
+How the new guarantee would work in practice is not yet clear, with McFadden adding it would have to be "carefully" drafted.
+Although local councils have some specific legal duties, including in the areas of child protection and homelessness, duties on central government currently tend to be much broader, such as operating a "comprehensive" health service.
+Asked on the same programme whether he agreed with the idea of a guarantee, McFadden said: "I do think we need some legislative underpinning to this."
+He added that the offer of support "needs to be more firm," adding: "People need more certainty about what they are entitled to."
+He confirmed that the government planned to move younger claimants onto a new benefits system when they undergo scheduled reassessment, and some of them would not receive "what they would get today".
+Other claimants, such as those with long-term disabilities, would receive an increased amount, he added.
+Also speaking to Kuenssberg, shadow work and pensions secretary Helen Whately said her party backed moves to reduce welfare spending.
+But she criticised the proposed legal guarantee of work support, arguing it might "sound a nice thing to do," but ministers would be better off reducing taxes and regulations on businesses to help youngsters find "real jobs".
+She added it was "absurd" the government had increased taxes for employers in order to "subsidise things that look like jobs". She added: "Just stop doing the taxing.
+Elsewhere in his interview, former health secretary Milburn said:
+a sustainable reduction in welfare spending cannot be achieved in two or three years, warning that "crude cuts" to the benefits system would create other additional costs for government
+GPs should not be responsible for signing sick notes declaring people unable to work
+ministers should "look very carefully" at Labour's manifesto commitment to phase out the reduced minimum wage for those aged 18-21, adding that moves towards this had "imposed a lot of cost" on firms
+It comes as the government announced it will further widen eligibly for its scheme that offers jobless under-25s subsidised six-month job roles on the minimum wage.
+From next April, eligible claimants will be offered a role after 12 months of unsuccessfully looking for work, rather 18 currently.
+It is the second time that eligibility for the scheme has been widened, after the maximum age was increased from 21 to 24 earlier this year.
+Get in touch
+How have you been affected by the issues raised in this story? Tell us about your experience.
+Related topics
+- Published2 days ago
+- Published3 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-15T13:06:15+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ee9/live/2745bfb0-e103-11f1-b441-2b33b063138f.jpg",
+    readTime: 10,
+  },
+  {
+    id: "rivian-lucid-scout-ceos-aren-t-counting-2e4a7c72",
+    title: "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
+    titleJa: "Rivian, Lucid, Scout CEOs aren’t counting on Democrats to restore EV federal support after midterm wins",
+    summaryJa: "EV makers have had to contend with flip-flopping regulatory support from Washington over the years.",
+    bodyOriginal: `Leaders of several U.S. electric vehicle manufacturers said they're not counting on increased federal support for their businesses once Democrats gain control of Congress in January, but they said they'll gladly take it if it does happen.
+That was the overall sentiment from CEOs of Rivian Automotive, Lucid Group and EV startup Scout Motors during interviews with CNBC after Democrats' historic midterm election wins.
+"We've honestly constructed Scout from day one to be in an environment where we're not going to count on, let's say, legislation or count on things that may or may not be there," Scout CEO Scott Keogh, an automotive veteran, told CNBC on Wednesday.
+EV makers have had to contend with flip-flopping support from Washington over the years. The Trump administration has ended or rolled back support for climate change initiatives and EVs that were supported by the Biden administration, including an up to $7,500 customer incentive for purchasing an EV.
+Legacy automakers such as General Motors and EV startups alike had counted on such credits to help them boost their sales and assist in electric vehicle profitability. But now they don't have that same level of federal assistance.
+'Plan for the worst'
+Rivian CEO RJ Scaringe said it's his hope that the Democratic-controlled Congress and Republican President Donald Trump can find middle ground to make progress for the EV industry, but Rivian's not counting on that.
+"We try not to plan for those sort of things. The reality is it's probably going to have less of an impact than we think," Scaringe said Nov. 6 following the election results. "I think we're going to actually have a lot of challenges getting things done."
+Fellow EV manufacturer Lucid, which is backed by Saudi Arabia's Public Investment Fund, is taking a similar approach.
+"You know, they say, 'Plan for the worst and … hope for the best.' That's all we can say," Lucid CEO Silvio Napoli told CNBC on Monday. "Anything positive, we'll take it."
+The lack of expected support comes as Democrats seem to be more focused on hot topics such as healthcare and data centers rather than climate change and support for alternative energy technologies such as EVs.
+CNBC previously reported that House Democrats plan to bring to the floor bills reinstating the enhanced health insurance subsidies that expired under the GOP-held Congress and reversing the Medicaid cuts Trump signed into law last year. They also plan to focus on oversight of the Trump administration and affordability.
+Rachel McCleery, executive director of the nonprofit policy advisory Coalition for Reimagined Mobility at SAFE, said she believes affordability concerns also could include the cost of vehicles, including EVs.
+"I fully expect there will be legislative debates over what to do moving forward, including on EV and EV supply chain incentives," McCleery, a former U.S. Department of Treasury senior advisor and Ford Motor policy director, said. "Bringing down the cost of vehicles for U.S. consumers is top of mind for Democratic policymakers, and electric vehicles are a critical aspect of this agenda because of the multiple challenges greater EV adoption solves for."
+Affordability concerns
+Scout's Keogh said if legislators decide to offer any type of support, he would prefer it to be for EV production, which could then have a trickle-down effect on vehicle pricing and help companies amid inflated costs.
+"I always prefer it on the production side," Keogh said. "Anything that can drive down production cost is going to, of course, get passed along to the customer."
+Affordability has been a concern for EV adoption as the vehicles typically cost more than traditional models with internal combustion engines.
+Sales of EVs spiked last year ahead of the Trump administration ending the up to $7,500 incentive after September 2025, but have since come down from that high.
+Cox Automotive reports the average price for a new electric vehicle as of September was more than $54,800, according to the most recent available data. That compared to the average overall industry at just over $51,100 last month.
+"Ultimately, incentives can help accelerate adoption, but the industry can't build its long-term strategy around them," Stephanie Valdez Streaty, Cox director of industry insight, said Friday. "The goal has to be making EVs affordable and compelling enough that they make sense for more consumers with or without an incentive."`,
+    bodyJa: `Leaders of several U.S. electric vehicle manufacturers said they're not counting on increased federal support for their businesses once Democrats gain control of Congress in January, but they said they'll gladly take it if it does happen.
+That was the overall sentiment from CEOs of Rivian Automotive, Lucid Group and EV startup Scout Motors during interviews with CNBC after Democrats' historic midterm election wins.
+"We've honestly constructed Scout from day one to be in an environment where we're not going to count on, let's say, legislation or count on things that may or may not be there," Scout CEO Scott Keogh, an automotive veteran, told CNBC on Wednesday.
+EV makers have had to contend with flip-flopping support from Washington over the years. The Trump administration has ended or rolled back support for climate change initiatives and EVs that were supported by the Biden administration, including an up to $7,500 customer incentive for purchasing an EV.
+Legacy automakers such as General Motors and EV startups alike had counted on such credits to help them boost their sales and assist in electric vehicle profitability. But now they don't have that same level of federal assistance.
+'Plan for the worst'
+Rivian CEO RJ Scaringe said it's his hope that the Democratic-controlled Congress and Republican President Donald Trump can find middle ground to make progress for the EV industry, but Rivian's not counting on that.
+"We try not to plan for those sort of things. The reality is it's probably going to have less of an impact than we think," Scaringe said Nov. 6 following the election results. "I think we're going to actually have a lot of challenges getting things done."
+Fellow EV manufacturer Lucid, which is backed by Saudi Arabia's Public Investment Fund, is taking a similar approach.
+"You know, they say, 'Plan for the worst and … hope for the best.' That's all we can say," Lucid CEO Silvio Napoli told CNBC on Monday. "Anything positive, we'll take it."
+The lack of expected support comes as Democrats seem to be more focused on hot topics such as healthcare and data centers rather than climate change and support for alternative energy technologies such as EVs.
+CNBC previously reported that House Democrats plan to bring to the floor bills reinstating the enhanced health insurance subsidies that expired under the GOP-held Congress and reversing the Medicaid cuts Trump signed into law last year. They also plan to focus on oversight of the Trump administration and affordability.
+Rachel McCleery, executive director of the nonprofit policy advisory Coalition for Reimagined Mobility at SAFE, said she believes affordability concerns also could include the cost of vehicles, including EVs.
+"I fully expect there will be legislative debates over what to do moving forward, including on EV and EV supply chain incentives," McCleery, a former U.S. Department of Treasury senior advisor and Ford Motor policy director, said. "Bringing down the cost of vehicles for U.S. consumers is top of mind for Democratic policymakers, and electric vehicles are a critical aspect of this agenda because of the multiple challenges greater EV adoption solves for."
+Affordability concerns
+Scout's Keogh said if legislators decide to offer any type of support, he would prefer it to be for EV production, which could then have a trickle-down effect on vehicle pricing and help companies amid inflated costs.
+"I always prefer it on the production side," Keogh said. "Anything that can drive down production cost is going to, of course, get passed along to the customer."
+Affordability has been a concern for EV adoption as the vehicles typically cost more than traditional models with internal combustion engines.
+Sales of EVs spiked last year ahead of the Trump administration ending the up to $7,500 incentive after September 2025, but have since come down from that high.
+Cox Automotive reports the average price for a new electric vehicle as of September was more than $54,800, according to the most recent available data. That compared to the average overall industry at just over $51,100 last month.
+"Ultimately, incentives can help accelerate adoption, but the industry can't build its long-term strategy around them," Stephanie Valdez Streaty, Cox director of industry insight, said Friday. "The goal has to be making EVs affordable and compelling enough that they make sense for more consumers with or without an incentive."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/15/rivian-lucid-scout-arent-counting-on-dems-to-restore-ev-incentives.html",
+    publishedAt: "2026-11-15T13:00:02+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "anthropic-s-ipo-lands-as-the-embattled-a-dfb87a15",
+    title: "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+    titleJa: "Anthropic’s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+    summaryJa: "Anthropic's IPO has outsized importance in the tech industry, which is heavily invested in the AI lab and is desperate for some positive momentum.",
+    bodyOriginal: `Between rising interest rates, a nationwide AI backlash, a major political shift in Washington, D.C., and the sudden ouster of Nvidia CEO Jensen Huang, the tech industry is under mounting strain.
+Now comes the most important tech IPO in years, and a defining event for the burgeoning but still young artificial intelligence market.
+With Anthropic expected to debut on the Nasdaq on Thursday, the stakes are sky-high for almost every major tech company. Advanced Micro Devices, Broadcom, Google, Micron, Microsoft, Nvidia and Taiwan Semiconductor Manufacturing Company are collectively investing $26 billion at the IPO price, which is currently expected at $70 to $78 a share. Some of those companies are existing investors, as is early backer Amazon, whose stake could be in the hundreds of billions of dollars.
+In addition to all the cash on the line, tech giants also need Anthropic's spending for many years to come. The Claude creator and its top rival, OpenAI, are driving an outsized amount of the AI buildout, and are burning historic amounts of money in the process.
+Anthropic has outstanding spending commitments of over $900 billion, according to its latest prospectus. It's on the hook to spend at least $110 billion with Amazon over the course of a decade, and another $400 billion with other companies for cloud capacity, according to filings and partner disclosures. The lab also made $300 billion in commitments with data center and chip partners. Anthropic intends to lay out $125 billion to $150 billion for AI chips from Google, though delivery won't start until 2028.
+"The numbers are just staggering," Joe Fath, a partner at venture firm Eclipse and former T. Rowe Price portfolio manager, said in an interview. "It's hard to get your head wrapped around it."
+Cloud partners Amazon, Google and Microsoft account for 31% of contractual obligations, Anthropic said in its prospectus. Last year, Amazon built an Indiana data center just for Anthropic, using custom chips.
+By going public now, Anthropic can raise a large portion of the money it needs to pay for the technology and infrastructure required for building and hosting its frontier models and expanding portfolio of services. The company recorded a net loss of $104 billion through the first nine months of 2026. The IPO could yield over $90 billion in proceeds, on top of Anthropic's $132 billion in existing cash, including short-term investments.
+The length of Anthropic's contracts is also unique. Typically such contracts last five years or less, while Anthropic's agreement with Amazon extends for twice that amount of time.
+"Realistically, anything past three to four years, you're basically throwing darts in the dark," said Corey Quinn, chief cloud economist at spend management software vendor Duckbill. "It is almost a certainty that it will be renegotiated long before the culmination of that contract."
+Meanwhile, a data center for Anthropic that starts leasing in 2027 has a 20-year term. For both space and computing, Anthropic is splurging now so it doesn't end up short on capacity long into the future.
+"In the past, we have significantly underestimated our compute requirements, which left us capacity constrained and impacted both product development and deployment," Anthropic said in the prospectus.
+Anthropic and Amazon didn't provide a comment.
+'Future of Google'
+It's a tough time for Anthropic to hit the Nasdaq, with the offering coming as tech investors are desperate for some good news. The Nasdaq is down to start November after dropping 5.3% in October, its worst month since March 2025.
+Rising interest rates pushed investors out of debt-heavy neoclouds, which have become a critical piece of the infrastructure buildout. And in the midterm elections earlier this month, Democrats won sweeping victories in both houses of Congress and in key gubernatorial races, while dozens of ballot measures were passed that will potentially limit new data center development across the country.
+Then came the Nvidia crisis. Shares of the chipmaker at the center of the AI boom tumbled 13% this week to their lowest since July 2025, after Huang's multiple reported affairs, including one with an alleged Chinese spy, led to his ouster early Thursday. Huang was replaced on an interim basis with CFO Colette Cress, who faces a major test on Tuesday, two days before the Anthropic debut, as Nvidia is set to report quarterly results.
+The ongoing Nvidia fallout and the Anthropic IPO create quite the split-screen moment for tech's heavyweights, which are closely tied to both companies.
+Google will be paying particularly close attention.
+The company is set to own about 13% of Anthropic after the IPO, and is backstopping the lab's $19 billion in lease commitments to Terawulf, which will supply data center space in Kentucky. If Anthropic goes insolvent, Google will step in and pay the remaining rent or a termination fee, Terawulf said.
+"Everybody knows that Anthropic is going to be the future of Google," said Subhadeep Chatterjee, a former Google cloud partnerships leader who now advises companies.
+Google didn't provide a comment.
+One major impetus for Anthropic to enter costly and long-term guarantees is that OpenAI is being equally aggressive, and capacity is limited, particularly for graphics processing units. Going long can mean locking in rates as the industry confronts questions about whether data center development will slow.
+"You will need to be in a rush to get infrastructure, and if you are not going to be there, you will be out of business," said Eli Mansoor, CEO of OskaQ Consulting, which advises companies on cloud negotiations. "It used to be that prices always go down, but this is changing, especially in the GPU world."
+Big financial firms are lining up to help Anthropic get what it wants. Bank of America, Blackstone, Citigroup and Morgan Stanley have offered $63 billion to buy racks full of Broadcom AI chips that Anthropic will rent. Broadcom has provided a backstop with a maximum liability of $43 billion.
+That's a lot of silicon and a massive bet for a five-year-old company that's never lived through a technology downturn.
+"It's not a risk-free prospect, but I would call it smart investing," said David Tollen, founder of Sycamore Legal, where he specializes in IT contracts. "They're investing, in a sense, in themselves. They're putting money into something that if it succeeds, they get a piece of the action."
+WATCH: Buying Anthropic means betting its explosive growth can outpace its expenses, says Jim Cramer`,
+    bodyJa: `Between rising interest rates, a nationwide AI backlash, a major political shift in Washington, D.C., and the sudden ouster of Nvidia CEO Jensen Huang, the tech industry is under mounting strain.
+Now comes the most important tech IPO in years, and a defining event for the burgeoning but still young artificial intelligence market.
+With Anthropic expected to debut on the Nasdaq on Thursday, the stakes are sky-high for almost every major tech company. Advanced Micro Devices, Broadcom, Google, Micron, Microsoft, Nvidia and Taiwan Semiconductor Manufacturing Company are collectively investing $26 billion at the IPO price, which is currently expected at $70 to $78 a share. Some of those companies are existing investors, as is early backer Amazon, whose stake could be in the hundreds of billions of dollars.
+In addition to all the cash on the line, tech giants also need Anthropic's spending for many years to come. The Claude creator and its top rival, OpenAI, are driving an outsized amount of the AI buildout, and are burning historic amounts of money in the process.
+Anthropic has outstanding spending commitments of over $900 billion, according to its latest prospectus. It's on the hook to spend at least $110 billion with Amazon over the course of a decade, and another $400 billion with other companies for cloud capacity, according to filings and partner disclosures. The lab also made $300 billion in commitments with data center and chip partners. Anthropic intends to lay out $125 billion to $150 billion for AI chips from Google, though delivery won't start until 2028.
+"The numbers are just staggering," Joe Fath, a partner at venture firm Eclipse and former T. Rowe Price portfolio manager, said in an interview. "It's hard to get your head wrapped around it."
+Cloud partners Amazon, Google and Microsoft account for 31% of contractual obligations, Anthropic said in its prospectus. Last year, Amazon built an Indiana data center just for Anthropic, using custom chips.
+By going public now, Anthropic can raise a large portion of the money it needs to pay for the technology and infrastructure required for building and hosting its frontier models and expanding portfolio of services. The company recorded a net loss of $104 billion through the first nine months of 2026. The IPO could yield over $90 billion in proceeds, on top of Anthropic's $132 billion in existing cash, including short-term investments.
+The length of Anthropic's contracts is also unique. Typically such contracts last five years or less, while Anthropic's agreement with Amazon extends for twice that amount of time.
+"Realistically, anything past three to four years, you're basically throwing darts in the dark," said Corey Quinn, chief cloud economist at spend management software vendor Duckbill. "It is almost a certainty that it will be renegotiated long before the culmination of that contract."
+Meanwhile, a data center for Anthropic that starts leasing in 2027 has a 20-year term. For both space and computing, Anthropic is splurging now so it doesn't end up short on capacity long into the future.
+"In the past, we have significantly underestimated our compute requirements, which left us capacity constrained and impacted both product development and deployment," Anthropic said in the prospectus.
+Anthropic and Amazon didn't provide a comment.
+'Future of Google'
+It's a tough time for Anthropic to hit the Nasdaq, with the offering coming as tech investors are desperate for some good news. The Nasdaq is down to start November after dropping 5.3% in October, its worst month since March 2025.
+Rising interest rates pushed investors out of debt-heavy neoclouds, which have become a critical piece of the infrastructure buildout. And in the midterm elections earlier this month, Democrats won sweeping victories in both houses of Congress and in key gubernatorial races, while dozens of ballot measures were passed that will potentially limit new data center development across the country.
+Then came the Nvidia crisis. Shares of the chipmaker at the center of the AI boom tumbled 13% this week to their lowest since July 2025, after Huang's multiple reported affairs, including one with an alleged Chinese spy, led to his ouster early Thursday. Huang was replaced on an interim basis with CFO Colette Cress, who faces a major test on Tuesday, two days before the Anthropic debut, as Nvidia is set to report quarterly results.
+The ongoing Nvidia fallout and the Anthropic IPO create quite the split-screen moment for tech's heavyweights, which are closely tied to both companies.
+Google will be paying particularly close attention.
+The company is set to own about 13% of Anthropic after the IPO, and is backstopping the lab's $19 billion in lease commitments to Terawulf, which will supply data center space in Kentucky. If Anthropic goes insolvent, Google will step in and pay the remaining rent or a termination fee, Terawulf said.
+"Everybody knows that Anthropic is going to be the future of Google," said Subhadeep Chatterjee, a former Google cloud partnerships leader who now advises companies.
+Google didn't provide a comment.
+One major impetus for Anthropic to enter costly and long-term guarantees is that OpenAI is being equally aggressive, and capacity is limited, particularly for graphics processing units. Going long can mean locking in rates as the industry confronts questions about whether data center development will slow.
+"You will need to be in a rush to get infrastructure, and if you are not going to be there, you will be out of business," said Eli Mansoor, CEO of OskaQ Consulting, which advises companies on cloud negotiations. "It used to be that prices always go down, but this is changing, especially in the GPU world."
+Big financial firms are lining up to help Anthropic get what it wants. Bank of America, Blackstone, Citigroup and Morgan Stanley have offered $63 billion to buy racks full of Broadcom AI chips that Anthropic will rent. Broadcom has provided a backstop with a maximum liability of $43 billion.
+That's a lot of silicon and a massive bet for a five-year-old company that's never lived through a technology downturn.
+"It's not a risk-free prospect, but I would call it smart investing," said David Tollen, founder of Sycamore Legal, where he specializes in IT contracts. "They're investing, in a sense, in themselves. They're putting money into something that if it succeeds, they get a piece of the action."
+WATCH: Buying Anthropic means betting its explosive growth can outpace its expenses, says Jim Cramer`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/15/anthropic-ipo-is-make-or-break-for-the-technology-industry.html",
+    publishedAt: "2026-11-15T12:00:01+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
     id: "judge-temporarily-blocks-trump-from-clos-b1fe230f",
     title: "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
     titleJa: "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
@@ -1387,588 +1779,6 @@ The investors who sued Robinhood and the other defendants alleged that the regis
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 5,
-  },
-  {
-    id: "nvidia-hasn-t-selected-search-firm-for-p-04ef5531",
-    title: "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC",
-    titleJa: "Nvidia hasn’t selected search firm for permanent Huang replacement, board tells CNBC",
-    summaryJa: "Nvidia hasn't yet selected a search firm to work with in identifying a successor for former CEO Jensen Huang, the company's board told CNBC.\"We are in the process of selecting a search firm for the Nvidia CEO role,\" the board said in a Friday statement. \"We have not formally engaged any potential candidates.\"",
-    bodyOriginal: `Nvidia hasn't yet selected a search firm to work with in identifying a successor for former CEO Jensen Huang, the company's board told CNBC.
-"We are in the process of selecting a search firm for the Nvidia CEO role," the board said in a Friday statement. "We have not formally engaged any potential candidates."
-The comments come after speculation has swirled about who might be tapped to replace Huang. Nvidia announced Thursday that Huang would step down as CEO of the chipmaker after multiple reported affairs, including one with a woman purported to be a Chinese spy.
-Nvidia named CFO Colette Kress as interim CEO and said it will begin a search for a permanent CEO to replace Huang, adding that it will consider both internal and external candidates.
-The Financial Times reported Friday that Nvidia's board has approached Arm CEO Rene Haas in its search for Huang's successor, citing people familiar with the matter.
-Nvidia's board said, "Any speculation regarding individual candidates, whether internal or external, is premature."
-Before joining the SoftBank-backed chip company in 2013, Haas spent seven years at Nvidia, serving in a variety of roles including vice president of its computing products business.
-This is breaking news. Please refresh for updates.`,
-    bodyJa: `Nvidia hasn't yet selected a search firm to work with in identifying a successor for former CEO Jensen Huang, the company's board told CNBC.
-"We are in the process of selecting a search firm for the Nvidia CEO role," the board said in a Friday statement. "We have not formally engaged any potential candidates."
-The comments come after speculation has swirled about who might be tapped to replace Huang. Nvidia announced Thursday that Huang would step down as CEO of the chipmaker after multiple reported affairs, including one with a woman purported to be a Chinese spy.
-Nvidia named CFO Colette Kress as interim CEO and said it will begin a search for a permanent CEO to replace Huang, adding that it will consider both internal and external candidates.
-The Financial Times reported Friday that Nvidia's board has approached Arm CEO Rene Haas in its search for Huang's successor, citing people familiar with the matter.
-Nvidia's board said, "Any speculation regarding individual candidates, whether internal or external, is premature."
-Before joining the SoftBank-backed chip company in 2013, Haas spent seven years at Nvidia, serving in a variety of roles including vice president of its computing products business.
-This is breaking news. Please refresh for updates.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
-    publishedAt: "2026-11-13T19:33:23+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "lutnick-faces-questions-over-nvidia-spy-fc3b4656",
-    title: "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",
-    titleJa: "Lutnick faces questions over Nvidia spy scandal. His sons’ firm has deep ties to the chipmaker",
-    summaryJa: "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family’s financial ties to the chipmaker.",
-    bodyOriginal: `In late September, Cantor Fitzgerald hosted Nvidia CEO Jensen Huang and other top executives from the chipmaker for investor meetings in New York, according to a Cantor research report reviewed by CNBC.
-The Wall Street firm liked what it heard.
-"We continue to view NVDA as the best risk/reward in our coverage," Cantor analyst C.J. Muse and his colleagues wrote in a research report dated Oct. 3 that maintained a $350 price target and overweight rating on the stock.
-Yet the firm formerly run by Commerce Secretary Howard Lutnick and now led by his sons, Brandon and Kyle, reported a nearly 50% decline in the number of Nvidia shares it held between September 2025 and March 2026, according to a CNBC analysis of securities filings that excludes options. Nvidia had been one of the largest stock positions reported in Cantor's filings.
-The decline coincided with White House and U.S. intelligence officials pressing Lutnick to crack down on Megaspeed, a Singapore-based company suspected of funneling Nvidia's advanced artificial intelligence chips to China. Lutnick repeatedly resisted those efforts, according to Axios.
-By the time Cantor hosted Huang in New York, Lutnick had also received a classified intelligence warning, according to Axios, about Huang's ties to a suspected Chinese spy and had appeared alongside the CEO at a G20 technology summit in North Carolina.
-Even as Cantor pared back its Nvidia stake, it continued doing business across the chipmaker's AI empire. A CNBC review of securities filings, corporate announcements and Wall Street research found the firm has helped arrange billions of dollars in financing for Nvidia's business partners while maintaining close ties to the chipmaker's leadership.
-Those ties have drawn fresh scrutiny following Huang's resignation Thursday and Axios' reporting that Lutnick repeatedly resisted a crackdown on companies suspected of smuggling Nvidia chips to China, despite President Donald Trump authorizing new export restrictions on those companies for a third time on Nov. 5.
-An ethics expert said the relationship between Lutnick and his former firm's investments may raise questions, given what the secretary knew about Nvidia.
-Richard Painter, the former chief White House ethics lawyer for President George W. Bush and now a corporate law professor at the University of Minnesota said that while "there's no proof of" Lutnick sharing nonpublic information with Cantor Fitzgerald, "the appearance doesn't look great."
-"His conversations with his sons better be about publicly available information," Painter told CNBC.
-There is no evidence that Lutnick's sons had advance knowledge of the intelligence concerns, that changes in Cantor's reported holdings were tied to any warnings or that the firm's business interests influenced their father's decisions.
-"Cantor has to date from time to time had only immaterial stand-alone proprietary positions in Nvidia, unlike the positions reflected in 13F filings which were entered into in the ordinary course of business in connection with client swap transactions, that are common in institutional markets," a Cantor spokesperson told CNBC.
-Cantor declined to answer CNBC's other questions. The Commerce Department, the White House, Howard Lutnick and his sons did not respond to CNBC's requests for comment or detailed questions about the findings.
-As scrutiny of Huang intensified, Cantor Chairman Brandon Lutnick was publicly praising the chipmaker's leadership. "Nvidia is one of the great companies on the planet, and they have an amazing leadership team," Brandon Lutnick told Fox Business on Wednesday.
-Trump is standing by Howard Lutnick. A White House official told Reuters on Thursday that the president maintains "complete confidence" in the commerce secretary.
-But cracks in the administration's unity emerged Friday, when Treasury Secretary Scott Bessent told CNBC's "Squawk Box" that the Departments of Treasury, Defense and State and the Office of the U.S. Trade Representative all "were in favor of putting Megaspeed on the entity list for months."
-Bessent pointed to Commerce as the department responsible for imposing the entity list, which identifies restricted businesses and other groups, adding, "You will have to ask them about their internal processes."
-A shrinking Nvidia position
-Nvidia was Cantor's second-largest reported stock position before Howard Lutnick left Wall Street to become commerce secretary in February 2025, behind only bitcoin investor MicroStrategy, now known as Strategy. At the end of 2024, the firm disclosed more than 3.5 million Nvidia shares worth $479 million, according to its quarterly securities filing.
-That share count held steady through September 2025, but its value climbed 36% to $652 million, according to Cantor's quarterly securities filing, as the Trump administration moved over the summer to ease restrictions on Nvidia's H20 chip sales to China.
-Over the following six months, however, the number of Nvidia shares Cantor reported holding fell by 49%, to 3 million in December and 1.78 million by the end of March 2026, with their value dropping from $652 million to $310 million, according to a CNBC analysis of securities filings.
-Pressure on Howard Lutnick was also mounting on Capitol Hill. Sens. Jim Banks, R-Ind., and Elizabeth Warren, D-Mass., in March urged the secretary to suspend or reconsider Nvidia's export licenses after three people linked to Nvidia customer Super Micro Computer were indicted on charges of conspiring to smuggle AI chips to China.
-"The Trump administration, I think, leaks like a sieve when it comes to non-public government information getting to various hedge fund guys," Painter said, though he stressed there is no evidence Howard Lutnick had shared such information with his sons.
-The filings do not establish why Cantor's reported share count fell or whether its overall financial exposure to Nvidia declined. Nvidia’s stock had more than doubled from its April 2025 lows by late October, before retreating in the following months. The stock fell about 6.5% between the end of September and the end of March.
-Cantor's reported Nvidia holdings remained near that lower level through June 30, the latest quarter covered by public disclosures, at 1.81 million shares. Its next quarterly filing is due Monday.
-Cantor has not publicly explained the decline.
-Most of those shares were attributed to CF Secured, a Cantor brokerage subsidiary that uses stocks and derivatives to hedge customer transactions, according to its audited financial statements. Cantor also disclosed substantial Nvidia options positions during the time period CNBC examined, overwhelmingly skewed toward put options, which can protect against declines in the stock price.
-Classified warnings and a $3 billion deal
-As concerns about Huang escalated inside the Trump administration in May, according to Axios, Cantor was helping finance the expansion of one of Nvidia's newest business partners, securities filings show.
-On May 7, Nvidia and Australia-based cloud computing provider IREN announced a five-year, $3.4 billion cloud computing contract and a strategic partnership giving the chipmaker the right to invest up to $2.1 billion in IREN.
-"That's not a passive financial investment. Nvidia is a partner who wins as we deliver," IREN co-CEO Daniel Roberts told investors on the company's quarterly earnings call that day.
-Five days later, as Trump headed to China aboard Air Force One, Secretary of State Marco Rubio warned him about Huang's relationship with a suspected Chinese spy, The New York Times reported on Tuesday. Huang, who had not initially been invited on the trip, joined the president's delegation during a refueling stop in Alaska.
-Howard Lutnick had already been sent a highly classified intelligence memo detailing concerns about Huang's relationship, Axios reported.
-On May 12, the day Trump departed for China, IREN announced the pricing of a convertible bond offering that ultimately raised $3 billion when it closed two days later. Cantor was one of seven bookrunners on the deal, alongside JPMorgan Chase and Goldman Sachs.
-On the day the offering closed, May 14, Lutnick's Commerce Department quietly cleared roughly 10 Chinese companies, including Alibaba and ByteDance, to buy Nvidia's advanced H200 chips, though some of those approvals predated the intelligence memo.
-It is unclear when IREN hired Cantor for the offering or how much the firm earned from the deal. Cantor declined to answer CNBC's questions about its work with IREN.
-Still, Cantor reported a substantial position in IREN's stock.
-By the end of June, Cantor reported $115 million in IREN shares and $362 million in Nvidia shares. Together, the two companies accounted for more than 9% of the value of Cantor's reported $5.2 billion in securities holdings, excluding options, according to CNBC's analysis of the filing.
-Cantor didn't answer CNBC's questions about its work with IREN.
-Beyond the stock
-IREN was not the only company in Nvidia's orbit that turned to Cantor for financing.
-In October 2025, Cantor advised AI infrastructure developer Lancium on a $600 million financing deal to support its data center campus in Abilene, Texas, the first site of Stargate, the massive AI infrastructure project backed by OpenAI, SoftBank and Oracle.
-Newmark, a commercial real estate firm controlled by Cantor, also helped finance the Abilene campus, arranging a $7.1 billion construction loan in May 2025.
-Ten months later, Nvidia agreed to invest $2 billion for a roughly 20% stake in Lancium, with up to $1 billion more tied to future milestones, The Information reported in August. Lancium, which is also backed by Blackstone, confirmed an investment and a technology partnership on Aug. 24 without disclosing financial terms.
-It's unclear whether Cantor continued advising Lancium after the financing deal or played a role in Nvidia's investment. Neither Cantor nor Lancium responded to questions about the investment.
-Cantor's reported ties also extend to Nvidia's supply chain.
-In May 2025, days after Howard Lutnick announced the transfer of his ownership stake in Cantor to his children via trusts, Semafor reported that bankers at the firm had informally advised executives at Taiwan Semiconductor Manufacturing Co., which makes Nvidia's most advanced chips, on navigating Washington. Cantor called Semafor's report "baseless and false."
-TSMC received billions of dollars in federal subsidies created during the Biden administration and administered by the Commerce Department to fund its U.S. manufacturing expansion.
-Democratic senators called for an ethics investigation in December into whether the Lutnick family stood to benefit from his push to expand AI data centers.
-And on Wednesday, Sens. Warren and Chris Coons, D-Del., demanded that Howard Lutnick, Rubio and White House chief of staff Stephen Miller preserve records on Nvidia's chip exports to China and intelligence warnings about Huang.
-The senators questioned whether "prudent defensive counter-intelligence action was taken or national security recommendations were overruled."
-"The place where I think the Trump administration has most failed here is in being persuaded by Jensen Huang and others to license the export of some advanced chips," Coons said Friday on CNBC's "Squawk Box," accusing the administration of turning a blind eye to the black market for more advanced chips.`,
-    bodyJa: `In late September, Cantor Fitzgerald hosted Nvidia CEO Jensen Huang and other top executives from the chipmaker for investor meetings in New York, according to a Cantor research report reviewed by CNBC.
-The Wall Street firm liked what it heard.
-"We continue to view NVDA as the best risk/reward in our coverage," Cantor analyst C.J. Muse and his colleagues wrote in a research report dated Oct. 3 that maintained a $350 price target and overweight rating on the stock.
-Yet the firm formerly run by Commerce Secretary Howard Lutnick and now led by his sons, Brandon and Kyle, reported a nearly 50% decline in the number of Nvidia shares it held between September 2025 and March 2026, according to a CNBC analysis of securities filings that excludes options. Nvidia had been one of the largest stock positions reported in Cantor's filings.
-The decline coincided with White House and U.S. intelligence officials pressing Lutnick to crack down on Megaspeed, a Singapore-based company suspected of funneling Nvidia's advanced artificial intelligence chips to China. Lutnick repeatedly resisted those efforts, according to Axios.
-By the time Cantor hosted Huang in New York, Lutnick had also received a classified intelligence warning, according to Axios, about Huang's ties to a suspected Chinese spy and had appeared alongside the CEO at a G20 technology summit in North Carolina.
-Even as Cantor pared back its Nvidia stake, it continued doing business across the chipmaker's AI empire. A CNBC review of securities filings, corporate announcements and Wall Street research found the firm has helped arrange billions of dollars in financing for Nvidia's business partners while maintaining close ties to the chipmaker's leadership.
-Those ties have drawn fresh scrutiny following Huang's resignation Thursday and Axios' reporting that Lutnick repeatedly resisted a crackdown on companies suspected of smuggling Nvidia chips to China, despite President Donald Trump authorizing new export restrictions on those companies for a third time on Nov. 5.
-An ethics expert said the relationship between Lutnick and his former firm's investments may raise questions, given what the secretary knew about Nvidia.
-Richard Painter, the former chief White House ethics lawyer for President George W. Bush and now a corporate law professor at the University of Minnesota said that while "there's no proof of" Lutnick sharing nonpublic information with Cantor Fitzgerald, "the appearance doesn't look great."
-"His conversations with his sons better be about publicly available information," Painter told CNBC.
-There is no evidence that Lutnick's sons had advance knowledge of the intelligence concerns, that changes in Cantor's reported holdings were tied to any warnings or that the firm's business interests influenced their father's decisions.
-"Cantor has to date from time to time had only immaterial stand-alone proprietary positions in Nvidia, unlike the positions reflected in 13F filings which were entered into in the ordinary course of business in connection with client swap transactions, that are common in institutional markets," a Cantor spokesperson told CNBC.
-Cantor declined to answer CNBC's other questions. The Commerce Department, the White House, Howard Lutnick and his sons did not respond to CNBC's requests for comment or detailed questions about the findings.
-As scrutiny of Huang intensified, Cantor Chairman Brandon Lutnick was publicly praising the chipmaker's leadership. "Nvidia is one of the great companies on the planet, and they have an amazing leadership team," Brandon Lutnick told Fox Business on Wednesday.
-Trump is standing by Howard Lutnick. A White House official told Reuters on Thursday that the president maintains "complete confidence" in the commerce secretary.
-But cracks in the administration's unity emerged Friday, when Treasury Secretary Scott Bessent told CNBC's "Squawk Box" that the Departments of Treasury, Defense and State and the Office of the U.S. Trade Representative all "were in favor of putting Megaspeed on the entity list for months."
-Bessent pointed to Commerce as the department responsible for imposing the entity list, which identifies restricted businesses and other groups, adding, "You will have to ask them about their internal processes."
-A shrinking Nvidia position
-Nvidia was Cantor's second-largest reported stock position before Howard Lutnick left Wall Street to become commerce secretary in February 2025, behind only bitcoin investor MicroStrategy, now known as Strategy. At the end of 2024, the firm disclosed more than 3.5 million Nvidia shares worth $479 million, according to its quarterly securities filing.
-That share count held steady through September 2025, but its value climbed 36% to $652 million, according to Cantor's quarterly securities filing, as the Trump administration moved over the summer to ease restrictions on Nvidia's H20 chip sales to China.
-Over the following six months, however, the number of Nvidia shares Cantor reported holding fell by 49%, to 3 million in December and 1.78 million by the end of March 2026, with their value dropping from $652 million to $310 million, according to a CNBC analysis of securities filings.
-Pressure on Howard Lutnick was also mounting on Capitol Hill. Sens. Jim Banks, R-Ind., and Elizabeth Warren, D-Mass., in March urged the secretary to suspend or reconsider Nvidia's export licenses after three people linked to Nvidia customer Super Micro Computer were indicted on charges of conspiring to smuggle AI chips to China.
-"The Trump administration, I think, leaks like a sieve when it comes to non-public government information getting to various hedge fund guys," Painter said, though he stressed there is no evidence Howard Lutnick had shared such information with his sons.
-The filings do not establish why Cantor's reported share count fell or whether its overall financial exposure to Nvidia declined. Nvidia’s stock had more than doubled from its April 2025 lows by late October, before retreating in the following months. The stock fell about 6.5% between the end of September and the end of March.
-Cantor's reported Nvidia holdings remained near that lower level through June 30, the latest quarter covered by public disclosures, at 1.81 million shares. Its next quarterly filing is due Monday.
-Cantor has not publicly explained the decline.
-Most of those shares were attributed to CF Secured, a Cantor brokerage subsidiary that uses stocks and derivatives to hedge customer transactions, according to its audited financial statements. Cantor also disclosed substantial Nvidia options positions during the time period CNBC examined, overwhelmingly skewed toward put options, which can protect against declines in the stock price.
-Classified warnings and a $3 billion deal
-As concerns about Huang escalated inside the Trump administration in May, according to Axios, Cantor was helping finance the expansion of one of Nvidia's newest business partners, securities filings show.
-On May 7, Nvidia and Australia-based cloud computing provider IREN announced a five-year, $3.4 billion cloud computing contract and a strategic partnership giving the chipmaker the right to invest up to $2.1 billion in IREN.
-"That's not a passive financial investment. Nvidia is a partner who wins as we deliver," IREN co-CEO Daniel Roberts told investors on the company's quarterly earnings call that day.
-Five days later, as Trump headed to China aboard Air Force One, Secretary of State Marco Rubio warned him about Huang's relationship with a suspected Chinese spy, The New York Times reported on Tuesday. Huang, who had not initially been invited on the trip, joined the president's delegation during a refueling stop in Alaska.
-Howard Lutnick had already been sent a highly classified intelligence memo detailing concerns about Huang's relationship, Axios reported.
-On May 12, the day Trump departed for China, IREN announced the pricing of a convertible bond offering that ultimately raised $3 billion when it closed two days later. Cantor was one of seven bookrunners on the deal, alongside JPMorgan Chase and Goldman Sachs.
-On the day the offering closed, May 14, Lutnick's Commerce Department quietly cleared roughly 10 Chinese companies, including Alibaba and ByteDance, to buy Nvidia's advanced H200 chips, though some of those approvals predated the intelligence memo.
-It is unclear when IREN hired Cantor for the offering or how much the firm earned from the deal. Cantor declined to answer CNBC's questions about its work with IREN.
-Still, Cantor reported a substantial position in IREN's stock.
-By the end of June, Cantor reported $115 million in IREN shares and $362 million in Nvidia shares. Together, the two companies accounted for more than 9% of the value of Cantor's reported $5.2 billion in securities holdings, excluding options, according to CNBC's analysis of the filing.
-Cantor didn't answer CNBC's questions about its work with IREN.
-Beyond the stock
-IREN was not the only company in Nvidia's orbit that turned to Cantor for financing.
-In October 2025, Cantor advised AI infrastructure developer Lancium on a $600 million financing deal to support its data center campus in Abilene, Texas, the first site of Stargate, the massive AI infrastructure project backed by OpenAI, SoftBank and Oracle.
-Newmark, a commercial real estate firm controlled by Cantor, also helped finance the Abilene campus, arranging a $7.1 billion construction loan in May 2025.
-Ten months later, Nvidia agreed to invest $2 billion for a roughly 20% stake in Lancium, with up to $1 billion more tied to future milestones, The Information reported in August. Lancium, which is also backed by Blackstone, confirmed an investment and a technology partnership on Aug. 24 without disclosing financial terms.
-It's unclear whether Cantor continued advising Lancium after the financing deal or played a role in Nvidia's investment. Neither Cantor nor Lancium responded to questions about the investment.
-Cantor's reported ties also extend to Nvidia's supply chain.
-In May 2025, days after Howard Lutnick announced the transfer of his ownership stake in Cantor to his children via trusts, Semafor reported that bankers at the firm had informally advised executives at Taiwan Semiconductor Manufacturing Co., which makes Nvidia's most advanced chips, on navigating Washington. Cantor called Semafor's report "baseless and false."
-TSMC received billions of dollars in federal subsidies created during the Biden administration and administered by the Commerce Department to fund its U.S. manufacturing expansion.
-Democratic senators called for an ethics investigation in December into whether the Lutnick family stood to benefit from his push to expand AI data centers.
-And on Wednesday, Sens. Warren and Chris Coons, D-Del., demanded that Howard Lutnick, Rubio and White House chief of staff Stephen Miller preserve records on Nvidia's chip exports to China and intelligence warnings about Huang.
-The senators questioned whether "prudent defensive counter-intelligence action was taken or national security recommendations were overruled."
-"The place where I think the Trump administration has most failed here is in being persuaded by Jensen Huang and others to license the export of some advanced chips," Coons said Friday on CNBC's "Squawk Box," accusing the administration of turning a blind eye to the black market for more advanced chips.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-    publishedAt: "2026-11-13T19:11:13+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "why-is-microsoft-s-outage-lasting-so-lon-3f86df29",
-    title: "Why is Microsoft's outage lasting so long and will emails be lost?",
-    titleJa: "Why is Microsoft's outage lasting so long and will emails be lost?",
-    summaryJa: "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-    bodyOriginal: `Why is Microsoft's outage lasting so long and will emails be lost?
-- Published
-A major Microsoft outage has impacted schools, healthcare systems, businesses, courts and governments around the world.
-Services including Teams, Outlook and AI software Copilot, are being restored almost 24 hours since issues first surfaced.
-Microsoft said the outage was not a cyber-security incident and was caused by a technical issue. It has apologised for the disruption.
-Here's what we know about the services affected and what went wrong.
-What happened?
-Some Microsoft 365 services have been affected by "connectivity problems" with problems reported in at least 74 countries.
-From late on Thursday, customers reported varying levels of access - many were unable to send or receive emails, view certain files or details on their calendar apps.
-But some users were able to use Teams, messaging and online meeting functions without issues.
-As of Friday afternoon, Microsoft said it had seen "encouraging recovery progress" in Europe and improvement in North America.
-The company added that it was focused on "addressing the remaining areas of disruption" but warned "some users may still experience intermittent issues".
-In a later statement, the company said it was continuing to see improvements "with email queues significantly reduced and approaching normal levels".
-The company attributed the ongoing outage to an issue during an earlier network capacity upgrade.
-"We have addressed the underlying issue and continue to restore service to remaining customers and regions," it said on Friday.
-Will emails affected by the outage ever arrive?
-Although services are beginning to resume, Microsoft has warned of continued "intermittent access issues", meaning some users will still struggle to load their inboxes and could experience "delayed email delivery".
-In other words, it is not quite safe to assume every email you send is going to arrive in its intended recipient's inbox right away.
-Earlier, Microsoft said it would be extending the "timeout window" to 48 hours "to help protect delayed messages as delivery catches up".
-The email timeout window refers to the amount of time Outlook will wait to receive an email.
-When they do show up, the timestamp will be when they were delivered rather than when they were sent.
-Why has it taken so long to fix?
-Although email service Outlook appears to be resuming, the outage has so far lasted for more than 20 hours - in outage terms that is considered a long time.
-Prof James Ferryman from the University of Reading's department of computer science said the details the company has disclosed provide some clues.
-"What Microsoft has told us is that the part of its servers that sets up secure connections is getting swamped, and once that happens the server just stops answering," he said.
-"The trouble is that this kind of failure snowballs.
-"One server falls over, its work gets passed to the next one, and meanwhile huge numbers of phones and laptops keep trying to get back in.
-"You can't just turn it all back on at once. You have to bring it back bit by bit."
-The challenge is therefore not just fixing the fault, but managing the huge surge of devices trying to reconnect once services start coming back online.
-Gergely Orosz, a former leading software engineer at several major tech companies including Skype and Uber, said this could be the "most disruptive" business email outage "of all time".
-He said it was still difficult to know just how many people have been affected by the disruption, but added he "cannot recall" an outage over business email ever taking this long to return to normal.
-Australian cyber-security expert Troy Hunt told the BBC the outage could have far-reaching consequences.
-"Microsoft is a massive part of the internet backbone and reminds us how critical email still is.
-"Not only does this outage affect many people's ability to work but also things like the ability to communicate about appointments, purchase things that need verification, create or access accounts and services," he said.
-In a statement, Microsoft said it was "deeply sorry for the disruption this incident has caused our customers and partners.
-"We know the trust they place in our services and take that responsibility extremely seriously. We are seeing broad recovery and stability across our services."
-How many people have been affected?
-More than 430 million people use Microsoft 365 apps according to Microsoft's website. The full scale of the outage has not been confirmed.
-Microsoft 365 is used by companies worldwide and is expected to have a knock-on effect to other services.
-Tech giants OpenAI and Anthropic both earlier reported problems as a result of the outage.
-ChatGPT-maker OpenAI said it was investigating an issue affecting its connections to Microsoft's services, which had caused some tools to not work as expected.
-From city governments in the US to Australian spy agencies, disruption across the globe has been widespread.
-Courts from Los Angeles to Texas earlier warned that communications might be delayed.
-In Canada, the public broadcaster CBC reported that a healthcare network running several hospitals in Toronto was experiencing email issues, but that patient care was not affected.
-The government of Japan also said its shared IT platform had been disrupted.
-Across the UK, GP surgeries, pharmacies, police and schools have been affected by the outage.
-Some GP surgeries had urged patients not to submit messages via their website while police forces were also earlier asking the public to call if they want to make a report.
-Additional reporting by Henry Moore
-Get in touch
-Have you or your business been affected by the outage?`,
-    bodyJa: `Why is Microsoft's outage lasting so long and will emails be lost?
-- Published
-A major Microsoft outage has impacted schools, healthcare systems, businesses, courts and governments around the world.
-Services including Teams, Outlook and AI software Copilot, are being restored almost 24 hours since issues first surfaced.
-Microsoft said the outage was not a cyber-security incident and was caused by a technical issue. It has apologised for the disruption.
-Here's what we know about the services affected and what went wrong.
-What happened?
-Some Microsoft 365 services have been affected by "connectivity problems" with problems reported in at least 74 countries.
-From late on Thursday, customers reported varying levels of access - many were unable to send or receive emails, view certain files or details on their calendar apps.
-But some users were able to use Teams, messaging and online meeting functions without issues.
-As of Friday afternoon, Microsoft said it had seen "encouraging recovery progress" in Europe and improvement in North America.
-The company added that it was focused on "addressing the remaining areas of disruption" but warned "some users may still experience intermittent issues".
-In a later statement, the company said it was continuing to see improvements "with email queues significantly reduced and approaching normal levels".
-The company attributed the ongoing outage to an issue during an earlier network capacity upgrade.
-"We have addressed the underlying issue and continue to restore service to remaining customers and regions," it said on Friday.
-Will emails affected by the outage ever arrive?
-Although services are beginning to resume, Microsoft has warned of continued "intermittent access issues", meaning some users will still struggle to load their inboxes and could experience "delayed email delivery".
-In other words, it is not quite safe to assume every email you send is going to arrive in its intended recipient's inbox right away.
-Earlier, Microsoft said it would be extending the "timeout window" to 48 hours "to help protect delayed messages as delivery catches up".
-The email timeout window refers to the amount of time Outlook will wait to receive an email.
-When they do show up, the timestamp will be when they were delivered rather than when they were sent.
-Why has it taken so long to fix?
-Although email service Outlook appears to be resuming, the outage has so far lasted for more than 20 hours - in outage terms that is considered a long time.
-Prof James Ferryman from the University of Reading's department of computer science said the details the company has disclosed provide some clues.
-"What Microsoft has told us is that the part of its servers that sets up secure connections is getting swamped, and once that happens the server just stops answering," he said.
-"The trouble is that this kind of failure snowballs.
-"One server falls over, its work gets passed to the next one, and meanwhile huge numbers of phones and laptops keep trying to get back in.
-"You can't just turn it all back on at once. You have to bring it back bit by bit."
-The challenge is therefore not just fixing the fault, but managing the huge surge of devices trying to reconnect once services start coming back online.
-Gergely Orosz, a former leading software engineer at several major tech companies including Skype and Uber, said this could be the "most disruptive" business email outage "of all time".
-He said it was still difficult to know just how many people have been affected by the disruption, but added he "cannot recall" an outage over business email ever taking this long to return to normal.
-Australian cyber-security expert Troy Hunt told the BBC the outage could have far-reaching consequences.
-"Microsoft is a massive part of the internet backbone and reminds us how critical email still is.
-"Not only does this outage affect many people's ability to work but also things like the ability to communicate about appointments, purchase things that need verification, create or access accounts and services," he said.
-In a statement, Microsoft said it was "deeply sorry for the disruption this incident has caused our customers and partners.
-"We know the trust they place in our services and take that responsibility extremely seriously. We are seeing broad recovery and stability across our services."
-How many people have been affected?
-More than 430 million people use Microsoft 365 apps according to Microsoft's website. The full scale of the outage has not been confirmed.
-Microsoft 365 is used by companies worldwide and is expected to have a knock-on effect to other services.
-Tech giants OpenAI and Anthropic both earlier reported problems as a result of the outage.
-ChatGPT-maker OpenAI said it was investigating an issue affecting its connections to Microsoft's services, which had caused some tools to not work as expected.
-From city governments in the US to Australian spy agencies, disruption across the globe has been widespread.
-Courts from Los Angeles to Texas earlier warned that communications might be delayed.
-In Canada, the public broadcaster CBC reported that a healthcare network running several hospitals in Toronto was experiencing email issues, but that patient care was not affected.
-The government of Japan also said its shared IT platform had been disrupted.
-Across the UK, GP surgeries, pharmacies, police and schools have been affected by the outage.
-Some GP surgeries had urged patients not to submit messages via their website while police forces were also earlier asking the public to call if they want to make a report.
-Additional reporting by Henry Moore
-Get in touch
-Have you or your business been affected by the outage?`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-13T18:36:57+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
-    readTime: 10,
-  },
-  {
-    id: "wholesale-prices-rose-0-3-in-october-put-294545f0",
-    title: "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
-    titleJa: "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
-    summaryJa: "The producer price index was expected to increase 0.4% in October, according to the Dow Jones consensus.",
-    bodyOriginal: `Wholesale prices increased less than expected in October, but inflation pressures persisted and the Federal Reserve is likely still on target for an interest rate increase soon.
-The producer price index, which measures the prices domestic producers get for their products before they reach the consumer, rose a seasonally adjusted 0.3% for the month, against the Dow Jones consensus for a 0.4% increase, the Bureau of Labor Statistics reported Friday.
-Stripping out food and energy, core PPI posted a 0.3% gain, meeting expectations.
-On an annual basis, headline PPI accelerated 6.5%, up 0.2 percentage point for the highest annual rate since November 2022.
-The report comes just a few weeks ahead of the Federal Reserve's next policy meeting, Dec. 8-9. Markets are fully pricing in a quarter percentage point increase in the central bank's key overnight borrowing rate, with slight odds that the Federal Open Market Committee might opt for a half-point hike.
-Stock market futures added to gains following the release while Treasury yields were mixed.
-Earlier this week, the BLS reported that inflation at the cash register was hotter than expected.
-The headline consumer price index saw a 0.4% increase in October while core was up 0.3%, both 0.1 percentage point higher than expected. Because of the government shutdown in October 2025, the BLS couldn't collect some data and refrained from putting out a 12-month inflation figure for CPI.
-However, the figures showed that the Fed remains a good distance from its 2% inflation goal.
-"Today's PPI data – which shows some signs of improving, albeit still too-high – is unlikely to change the Fed's approach in December because the CPI data was already outside their comfort zone," said Chris Zaccarelli, chief investment officer for Northlight Asset Management.
-Moreover, policymakers are beginning to worry that inflation generated by the Iran war and higher fuel prices, along with President Donald Trump's tariffs, are beginning to spread through the economy. The Fed generally would look through such price pressures as temporary, but the breadth of inflation could indicate that inflation is becoming more entrenched.
-"We've had some signs of trouble now for several months in a row," Chicago Fed President Austan Goolsbee said in a CNBC interview Friday. "If you look at how broad-based the inflation is, it's not just that we're above the target and have been for some time. It's that in categories that are not driven by oil prices and not driven by tariffs, you're still seeing stalled progress and in some cases going the wrong way."
-Stripping out food, energy and trade services, PPI saw an increase of 0.5% in October.
-Goods prices increased 0.5% in October, with more than 60% of that move driven by goods excluding food and energy, which actually saw a 0.1% decrease. On an annual basis, the goods index jumped 10.2%, the biggest 12-month surge since October 2022.
-Final demand services prices increased 0.2%, most of which was linked to transportation and warehousing services, and within that category a 3.9% gain in truck transportation of freight.
-"We've been above 2% for almost six years, and while it sometimes we were making progress, lately we're not making any progress, and if anything, it's going the wrong way," Goolsbee said. "Inflation is rising; it's proved far more persistent than we predicted at the beginning from the supply shocks."
-Other items in the PPI report also showed multiyear gains. Prices for intermediate processed goods soared 14.6% from October 2025, the biggest annual gain since July 2022. Intermediate prices for services posted a 6.9% increase, the most since November 2022.`,
-    bodyJa: `Wholesale prices increased less than expected in October, but inflation pressures persisted and the Federal Reserve is likely still on target for an interest rate increase soon.
-The producer price index, which measures the prices domestic producers get for their products before they reach the consumer, rose a seasonally adjusted 0.3% for the month, against the Dow Jones consensus for a 0.4% increase, the Bureau of Labor Statistics reported Friday.
-Stripping out food and energy, core PPI posted a 0.3% gain, meeting expectations.
-On an annual basis, headline PPI accelerated 6.5%, up 0.2 percentage point for the highest annual rate since November 2022.
-The report comes just a few weeks ahead of the Federal Reserve's next policy meeting, Dec. 8-9. Markets are fully pricing in a quarter percentage point increase in the central bank's key overnight borrowing rate, with slight odds that the Federal Open Market Committee might opt for a half-point hike.
-Stock market futures added to gains following the release while Treasury yields were mixed.
-Earlier this week, the BLS reported that inflation at the cash register was hotter than expected.
-The headline consumer price index saw a 0.4% increase in October while core was up 0.3%, both 0.1 percentage point higher than expected. Because of the government shutdown in October 2025, the BLS couldn't collect some data and refrained from putting out a 12-month inflation figure for CPI.
-However, the figures showed that the Fed remains a good distance from its 2% inflation goal.
-"Today's PPI data – which shows some signs of improving, albeit still too-high – is unlikely to change the Fed's approach in December because the CPI data was already outside their comfort zone," said Chris Zaccarelli, chief investment officer for Northlight Asset Management.
-Moreover, policymakers are beginning to worry that inflation generated by the Iran war and higher fuel prices, along with President Donald Trump's tariffs, are beginning to spread through the economy. The Fed generally would look through such price pressures as temporary, but the breadth of inflation could indicate that inflation is becoming more entrenched.
-"We've had some signs of trouble now for several months in a row," Chicago Fed President Austan Goolsbee said in a CNBC interview Friday. "If you look at how broad-based the inflation is, it's not just that we're above the target and have been for some time. It's that in categories that are not driven by oil prices and not driven by tariffs, you're still seeing stalled progress and in some cases going the wrong way."
-Stripping out food, energy and trade services, PPI saw an increase of 0.5% in October.
-Goods prices increased 0.5% in October, with more than 60% of that move driven by goods excluding food and energy, which actually saw a 0.1% decrease. On an annual basis, the goods index jumped 10.2%, the biggest 12-month surge since October 2022.
-Final demand services prices increased 0.2%, most of which was linked to transportation and warehousing services, and within that category a 3.9% gain in truck transportation of freight.
-"We've been above 2% for almost six years, and while it sometimes we were making progress, lately we're not making any progress, and if anything, it's going the wrong way," Goolsbee said. "Inflation is rising; it's proved far more persistent than we predicted at the beginning from the supply shocks."
-Other items in the PPI report also showed multiyear gains. Prices for intermediate processed goods soared 14.6% from October 2025, the biggest annual gain since July 2022. Intermediate prices for services posted a 6.9% increase, the most since November 2022.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
-    publishedAt: "2026-11-13T15:44:16+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "pressure-grows-on-trump-s-commerce-secre-7e15bfd6",
-    title: "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-    titleJa: "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-    summaryJa: "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
-    bodyOriginal: `Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal
-- Published
-US Treasury Secretary Scott Bessent has blamed the Commerce Department, run by Howard Lutnick, for failing to properly oversee the export of high-spec Nvidia chips, as the fallout from the scandal widens.
-There is growing pressure on Lutnick across the political spectrum to explain his department's actions.
-Jensen Huang was ousted as Nvidia CEO after revelations he had an affair with a businesswoman who was also allegedly a Chinese spy.
-Megaspeed, the firm she worked for, had been probed by US government agencies over suspicions it had been smuggling Nvidia chips into China, reports said, but is not on a list of firms that US companies are prevented from working with.
-Bessent told CNBC several agencies "were in favour of putting Megaspeed on the entity list for months".
-"But Commerce has the pen... and you will have to ask them about their internal process," he added.
-Bessent's comments come after Lutnick was called to testify before the Senate Banking Committee next month over the Commerce Department's role in allowing Nvidia to export its advanced chips.
-Other congressional committees have asked both Lutnick and his department to retain all records relating to Nvidia and Huang.
-Bessent said he was "frustrated" by delays in putting the company on the export control list and reports of leakage of AI chips into China.
-"President Trump made it very clear that China should not receive any Nvidia chips above H100s, so any leakage is very frustrating because it hurts our great companies in the AI race, because it gives the Chinese an advantage," he said.
-Last year, the Commerce Department had been investigating Megaspeed over suspicions it had been smuggling some of Nvidia's advanced AI chips into China, according to the New York Times. Megaspeed has been contacted for comment.
-There was also pressure on the Commerce Department to add it to the list, but separate reporting in the Financial Times said the department was delaying efforts to have the cloud computing firm included.
-However, Bessent also pointed the finger at Nvidia.
-"The story has been thus far of Jensen Huang's personal foibles," he told CNBC's Squawk Box programme, external.
-"The real story here should be: Did Nvidia know their client, and was there a robust effort at Nvidia to make sure that there was no leakage and that they were selling to what were obviously pass-through shell companies?
-"It's important that anyone at the company there be held accountable for that."
-How a sex scandal at Nvidia is putting pressure on the White House
-- Published7 hours ago
-How AI visionary Jensen Huang was undone by his own bad decisions
-- Published1 day ago
-Huang has been summoned to testify before the Senate Banking Committee about his affair with the former Megaspeed executive, who is suspected of being a Chinese spy.
-The Commerce Secretary has also been summoned to appear before the committee in December.
-"Recent reports raise serious concerns about our national security and the protection of sensitive US technology," committee chairman, Republican Senator Tim Scott posted on X.
-Democrats on key congressional committees have asked the Commerce Department and Lutnick to keep all records relating to decisions to allow Nvidia to sell its advanced AI chips to Chinese companies, including all their communications with or about Nvidia and Jensen Huang.
-Ways and Means Committee Ranking Member Richard E. Neal and Senate Finance Committee Ranking Member Ron Wyden are starting investigations into the way Nvidia was allowed to sell these chips.
-According to Neal and Wyden, Nvidia's advanced H200 chips could be sold to Chinese firms if they were first imported from their manufacturing facility in Taiwan into America for inspection.
-A 25% tariff - a levy that is paid to the federal government - was imposed on those chips, under a section of the Trade Act that Neal and Wyden say is meant to allow the US president to take action against imports that risk national security.
-"Trump's use of the statute appears to have done the opposite, undermining US national security and putting Americans at risk," they said.`,
-    bodyJa: `Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal
-- Published
-US Treasury Secretary Scott Bessent has blamed the Commerce Department, run by Howard Lutnick, for failing to properly oversee the export of high-spec Nvidia chips, as the fallout from the scandal widens.
-There is growing pressure on Lutnick across the political spectrum to explain his department's actions.
-Jensen Huang was ousted as Nvidia CEO after revelations he had an affair with a businesswoman who was also allegedly a Chinese spy.
-Megaspeed, the firm she worked for, had been probed by US government agencies over suspicions it had been smuggling Nvidia chips into China, reports said, but is not on a list of firms that US companies are prevented from working with.
-Bessent told CNBC several agencies "were in favour of putting Megaspeed on the entity list for months".
-"But Commerce has the pen... and you will have to ask them about their internal process," he added.
-Bessent's comments come after Lutnick was called to testify before the Senate Banking Committee next month over the Commerce Department's role in allowing Nvidia to export its advanced chips.
-Other congressional committees have asked both Lutnick and his department to retain all records relating to Nvidia and Huang.
-Bessent said he was "frustrated" by delays in putting the company on the export control list and reports of leakage of AI chips into China.
-"President Trump made it very clear that China should not receive any Nvidia chips above H100s, so any leakage is very frustrating because it hurts our great companies in the AI race, because it gives the Chinese an advantage," he said.
-Last year, the Commerce Department had been investigating Megaspeed over suspicions it had been smuggling some of Nvidia's advanced AI chips into China, according to the New York Times. Megaspeed has been contacted for comment.
-There was also pressure on the Commerce Department to add it to the list, but separate reporting in the Financial Times said the department was delaying efforts to have the cloud computing firm included.
-However, Bessent also pointed the finger at Nvidia.
-"The story has been thus far of Jensen Huang's personal foibles," he told CNBC's Squawk Box programme, external.
-"The real story here should be: Did Nvidia know their client, and was there a robust effort at Nvidia to make sure that there was no leakage and that they were selling to what were obviously pass-through shell companies?
-"It's important that anyone at the company there be held accountable for that."
-How a sex scandal at Nvidia is putting pressure on the White House
-- Published7 hours ago
-How AI visionary Jensen Huang was undone by his own bad decisions
-- Published1 day ago
-Huang has been summoned to testify before the Senate Banking Committee about his affair with the former Megaspeed executive, who is suspected of being a Chinese spy.
-The Commerce Secretary has also been summoned to appear before the committee in December.
-"Recent reports raise serious concerns about our national security and the protection of sensitive US technology," committee chairman, Republican Senator Tim Scott posted on X.
-Democrats on key congressional committees have asked the Commerce Department and Lutnick to keep all records relating to decisions to allow Nvidia to sell its advanced AI chips to Chinese companies, including all their communications with or about Nvidia and Jensen Huang.
-Ways and Means Committee Ranking Member Richard E. Neal and Senate Finance Committee Ranking Member Ron Wyden are starting investigations into the way Nvidia was allowed to sell these chips.
-According to Neal and Wyden, Nvidia's advanced H200 chips could be sold to Chinese firms if they were first imported from their manufacturing facility in Taiwan into America for inspection.
-A 25% tariff - a levy that is paid to the federal government - was imposed on those chips, under a section of the Trade Act that Neal and Wyden say is meant to allow the US president to take action against imports that risk national security.
-"Trump's use of the statute appears to have done the opposite, undermining US national security and putting Americans at risk," they said.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-13T15:40:08+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg",
-    readTime: 10,
-  },
-  {
-    id: "how-a-sex-scandal-at-nvidia-is-putting-p-2c3c8833",
-    title: "How a sex scandal at Nvidia is putting pressure on the White House",
-    titleJa: "How a sex scandal at Nvidia is putting pressure on the White House",
-    summaryJa: "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
-    bodyOriginal: `How a sex scandal at Nvidia is putting pressure on the White House
-- Published
-How close is Donald Trump to Jensen Huang?
-The answer is very.
-The Nvidia boss was one of the few business leaders with direct access to the US president. He had met Trump repeatedly, travelled with him to Britain and, in May, joined him on Air Force One for his trip to China.
-Jensen Huang wasn't just another tech billionaire seeking the president's ear. He had become an important voice in one of the biggest arguments inside the administration: how much of America's most advanced technology should be allowed to reach China.
-Nvidia makes the chips that power the AI revolution. Washington has restricted exports of its most advanced processors to China since 2022, believing they could help Beijing develop its military and technological capabilities.
-But enforcing those restrictions is difficult. Chips can be bought legally by customers in countries such as Singapore and Malaysia and then diverted to China. Chinese companies can also rent access to computing power through data centres outside the country.
-Jensen Huang has long argued that the restrictions are counterproductive. They shut Nvidia out of a huge market and encourage Chinese companies to develop their own alternatives. Trump appeared sympathetic to this view, allowing Nvidia to resume sales of certain chips to China last year in return for a share of the revenue, although its most advanced Blackwell chips remain off limits.
-But that relationship now looks rather more complicated.
-The allegations surrounding Jensen Huang's reported affair with Alice Huang, of no relation but a former executive at Singapore-based company Megaspeed, have raised the possibility that a foreign intelligence operation was targeting not just a powerful businessman, but someone with unusually close access to the American president.
-US intelligence reportedly suspects Alice Huang of having links to Chinese intelligence. Beijing has rejected the allegations. Nvidia's board says it has no reason to believe company secrets or national security were compromised. But the affair has opened up a much bigger question: what did the administration in Washington know, and what did it do about it?
-That question leads directly to Commerce Secretary Howard Lutnick.
-His department was responsible for controlling exports of sensitive American technology. It was also being pressed to act on concerns about Megaspeed, an Nvidia customer suspected of helping divert advanced chips to China.
-On Thursday, Megaspeed chief executive, Tan Yong Pong, also known as James Tan, said the company "takes its compliance obligations under US export control laws extremely seriously" and is "committed to working constructively and transparently with the US government". He said the company had co-operated with US Commerce Department inspections.
-A highly classified memo was shared with Lutnick about the concerns surrounding Alice Huang and Megaspeed. He resisted taking action against the company, a decision that is now under scrutiny.
-Other senior officials wanted a tougher response.
-Treasury Secretary Scott Bessent was among those who reportedly questioned why Megaspeed had not been placed on the Commerce Department's blacklist.
-On Friday, Bessent pointed the finger at Commerce for not blacklisting the company, telling CNBC that several government agencies "were in favour of putting Megaspeed on the entity list for months".
-"But Commerce has the pen... and you will have to ask them about their internal process," he added.
-There have also been questions about why an investigation into the Singapore-based company was stopped after Nvidia intervened. The New York Times reported that Nvidia's general counsel contacted Commerce Department investigators probing suspected chip smuggling by Megaspeed invoking a senior Trump appointee. The department allegedly then froze its investigation and handed the case to the Justice Department.
-This apparently highlighted a significant disagreement about the direction of Trump's China policy. Huang wanted access to the Chinese market. Other officials were supposedly worried about the national security consequences. Lutnick was caught in the middle.
-Now the political pressure is building.
-Members of Congress from both parties want answers. Democrats have launched an investigation into how the Commerce Department vetted Chinese companies approved to buy AI chips. Republicans are also questioning the administration's approach.
-And Jensen Huang's departure has not eased the pressure.
-Republican representative John Moolenaar, who chairs the House Select Committee on China, said it was in the national interest for Nvidia and other American AI firms to succeed, but that companies "should never jeopardise our nation's security" by giving Chinese firms access to their most advanced chips.
-Senator Elizabeth Warren, the top Democrat on the Senate Banking Committee, said Huang's resignation did not absolve him of responsibility, and urged Lutnick to explain why export control loopholes remain open.
-Meanwhile Jensen Huang's team told Republican lawmakers on Wednesday that he plans to cooperate with their request to testify behind closed doors.
-The White House has not responded to the BBC's request for comment.
-It has, however, told the New York Post that Trump has complete confidence in Lutnick, describing him as "the most transformative commerce secretary in modern history".
-That is a fairly emphatic show of support, particularly amid reports that officials are weighing whether Lutnick should be forced out.
-There are some obvious questions. If Lutnick had indeed been warned about the risks, why did his department fail to act? And if other senior officials were indeed pressing for action, why did it take so long?
-The BBC has contacted the Commerce Department for comment. But there is an even bigger question for Trump.
-The president cultivated a close relationship with Huang. He was directly involved in decisions about chip sales to China. And, according to reporting in the New York Times, he was briefed on the intelligence concerns.
-This is becoming difficult to dismiss as the misjudgement of one businessman or one government department.
-Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself. How much influence did he have? What did the president know? And who was ultimately responsible for protecting America's most sensitive technology?`,
-    bodyJa: `How a sex scandal at Nvidia is putting pressure on the White House
-- Published
-How close is Donald Trump to Jensen Huang?
-The answer is very.
-The Nvidia boss was one of the few business leaders with direct access to the US president. He had met Trump repeatedly, travelled with him to Britain and, in May, joined him on Air Force One for his trip to China.
-Jensen Huang wasn't just another tech billionaire seeking the president's ear. He had become an important voice in one of the biggest arguments inside the administration: how much of America's most advanced technology should be allowed to reach China.
-Nvidia makes the chips that power the AI revolution. Washington has restricted exports of its most advanced processors to China since 2022, believing they could help Beijing develop its military and technological capabilities.
-But enforcing those restrictions is difficult. Chips can be bought legally by customers in countries such as Singapore and Malaysia and then diverted to China. Chinese companies can also rent access to computing power through data centres outside the country.
-Jensen Huang has long argued that the restrictions are counterproductive. They shut Nvidia out of a huge market and encourage Chinese companies to develop their own alternatives. Trump appeared sympathetic to this view, allowing Nvidia to resume sales of certain chips to China last year in return for a share of the revenue, although its most advanced Blackwell chips remain off limits.
-But that relationship now looks rather more complicated.
-The allegations surrounding Jensen Huang's reported affair with Alice Huang, of no relation but a former executive at Singapore-based company Megaspeed, have raised the possibility that a foreign intelligence operation was targeting not just a powerful businessman, but someone with unusually close access to the American president.
-US intelligence reportedly suspects Alice Huang of having links to Chinese intelligence. Beijing has rejected the allegations. Nvidia's board says it has no reason to believe company secrets or national security were compromised. But the affair has opened up a much bigger question: what did the administration in Washington know, and what did it do about it?
-That question leads directly to Commerce Secretary Howard Lutnick.
-His department was responsible for controlling exports of sensitive American technology. It was also being pressed to act on concerns about Megaspeed, an Nvidia customer suspected of helping divert advanced chips to China.
-On Thursday, Megaspeed chief executive, Tan Yong Pong, also known as James Tan, said the company "takes its compliance obligations under US export control laws extremely seriously" and is "committed to working constructively and transparently with the US government". He said the company had co-operated with US Commerce Department inspections.
-A highly classified memo was shared with Lutnick about the concerns surrounding Alice Huang and Megaspeed. He resisted taking action against the company, a decision that is now under scrutiny.
-Other senior officials wanted a tougher response.
-Treasury Secretary Scott Bessent was among those who reportedly questioned why Megaspeed had not been placed on the Commerce Department's blacklist.
-On Friday, Bessent pointed the finger at Commerce for not blacklisting the company, telling CNBC that several government agencies "were in favour of putting Megaspeed on the entity list for months".
-"But Commerce has the pen... and you will have to ask them about their internal process," he added.
-There have also been questions about why an investigation into the Singapore-based company was stopped after Nvidia intervened. The New York Times reported that Nvidia's general counsel contacted Commerce Department investigators probing suspected chip smuggling by Megaspeed invoking a senior Trump appointee. The department allegedly then froze its investigation and handed the case to the Justice Department.
-This apparently highlighted a significant disagreement about the direction of Trump's China policy. Huang wanted access to the Chinese market. Other officials were supposedly worried about the national security consequences. Lutnick was caught in the middle.
-Now the political pressure is building.
-Members of Congress from both parties want answers. Democrats have launched an investigation into how the Commerce Department vetted Chinese companies approved to buy AI chips. Republicans are also questioning the administration's approach.
-And Jensen Huang's departure has not eased the pressure.
-Republican representative John Moolenaar, who chairs the House Select Committee on China, said it was in the national interest for Nvidia and other American AI firms to succeed, but that companies "should never jeopardise our nation's security" by giving Chinese firms access to their most advanced chips.
-Senator Elizabeth Warren, the top Democrat on the Senate Banking Committee, said Huang's resignation did not absolve him of responsibility, and urged Lutnick to explain why export control loopholes remain open.
-Meanwhile Jensen Huang's team told Republican lawmakers on Wednesday that he plans to cooperate with their request to testify behind closed doors.
-The White House has not responded to the BBC's request for comment.
-It has, however, told the New York Post that Trump has complete confidence in Lutnick, describing him as "the most transformative commerce secretary in modern history".
-That is a fairly emphatic show of support, particularly amid reports that officials are weighing whether Lutnick should be forced out.
-There are some obvious questions. If Lutnick had indeed been warned about the risks, why did his department fail to act? And if other senior officials were indeed pressing for action, why did it take so long?
-The BBC has contacted the Commerce Department for comment. But there is an even bigger question for Trump.
-The president cultivated a close relationship with Huang. He was directly involved in decisions about chip sales to China. And, according to reporting in the New York Times, he was briefed on the intelligence concerns.
-This is becoming difficult to dismiss as the misjudgement of one businessman or one government department.
-Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself. How much influence did he have? What did the president know? And who was ultimately responsible for protecting America's most sensitive technology?`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-13T12:22:30+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab0/live/068591d0-dee5-11f1-9bb0-8de7754c4db5.jpg",
-    readTime: 10,
-  },
-  {
-    id: "heat-pumps-how-much-heat-does-your-home-5b02e7b0",
-    title: "Heat pumps: How much heat does your home really need?",
-    titleJa: "Heat pumps: How much heat does your home really need?",
-    summaryJa: "Knowing how much heat your home loses is important before installing a new heating system.",
-    bodyOriginal: `Heat pumps: How much heat does your home really need?
-- Published
-Floorplans. Air duct diagrams. Heat pump specifications. Most people in the market for a new heating system probably don't want to think about this level of detail.
-But, perhaps surprisingly, some do want to think about those things. In extreme depth.
-Every day, roughly 150 new users sign up to an app called Cool Calc, which works out the heat requirements of properties in the US.
-Just over one third of those new users are not tradespeople but private homeowners, says founder and chief executive Bill Fiore.
-When choosing a heating system, people can find themselves bombarded with information – how powerful a heat pump do they need, for example? It isn't always easy to take a tradesperson at their word.
-"As an overall trend, we are seeing homeowners be more informed," explains Fiore. "They want to do a calculation on their own."
-A heat loss calculation is a figure, usually measured in watts, that defines how much heat a home loses during cold weather. It's worked out room by room and is a key part of designing an efficient heating system.
-This estimate is especially important to get right when installing a heat pump, which is sized fairly precisely, according to the projected heat loss.
-Should that calculation be off, the heat pump will likely perform poorly. You could be left with an underpowered device that struggles to warm your property, for example. Given the costs involved, homeowners are often anxious to ensure installers avoid such mistakes.
-Certain new technologies are not, for the moment, helping, adds Fiore. "People are going to AI and they're getting a lot of misinformation because it's not backed by anything credible," he says. Cool Calc is planning to integrate with AI chatbots to try and improve the quality of the advice they spew out.
-It is probably a good idea to be cautious about your new heating system's design, says Kevin Kircher at Purdue University. He and colleagues recently conducted a study, yet to be published, examining the heat loss calculations provided by tradespeople to roughly 75 US homeowners.
-"We were surprised," says Kircher. "The heat loss calculations often led to overestimating the design heat loads by a factor of two or more." That would result in oversized systems that use much more power than necessary.
-Not only that, some people reported charges of more than $1,000 (£745) – and in one case as much as $2,500 – just for a heat loss survey, adds Kircher.
-Besides using excessive amounts of energy, an oversized heating system can also feel uncomfortable, says Dan Dempsey, a former senior engineering fellow for a major heating and cooling provider in the US.
-Dempsey, who took part in Kircher and his colleagues' study, lives in Indiana. He says it is his retirement hobby to monitor the performance of heating and cooling systems in the homes of friends and family members, by analysing data from their smart thermostats.
-"I spent five years manually downloading everything, every week," he says. He points out that oversized systems tend to cycle a lot, meaning they switch on and off again in quick succession.
-This leads to discernible swings in temperature: rooms that fail to remain at their target temperature of, say, 20C, but rather fluctuate, which feels uncomfortable, says Dempsey.
-For people seeking a better understanding of their home's heat loss, various free or partially free apps, including Cool Calc and AutoHVAC, are available. There are options for UK homeowners, too, such as web app Heatpunk.
-Many things can influence the heat loss figure, including the amount of insulation in your home, whether the building has double or triple glazing, and also the size of your radiators.
-Heatpunk allows people to draw a floor plan of their home and input data about the property in order to estimate its performance. Thousands of people use it every month, mostly professional installers, says Andy Rankin, founder and managing director of Midsummer Energy.
-The web app also suggests specific heat pump models for each property, based on the results of the calculation. Naturally, these are models available through Midsummer Energy. "It's been a very effective marketing tool," says Rankin.
-Dwellow, another company that offers heat pump installations in the UK, is keen to follow suit. The firm recently launched its own heat loss estimator.
-While professional heat loss calculations remain essential, getting people to do their own "self surveys" first could ultimately reduce how much time professional heating engineers must spend analysing properties says Ian Mclaren, Dwellow's co-founder and director.
-"Going into a home and just being able to check the information rather than start from scratch could turn a survey into a half-hour trip – far more efficient and less costly," says Mclaren.
-There's no substitute for engineers doing a good job when it is their turn, however, stresses Maurizio Sibilla, of the Centre for Advanced Built Environment Research at the University of West England, Bristol.
-"The solution is better installer practice, clearer customer-facing evidence, and improved methods, not expecting homeowners to do the engineering themselves," he says, adding that providing homeowners with information about the calculation and also data on heat pump performance post-installation can reassure them that the system works as expected.
-Doing your own heat loss calculation may end up "over-intellectualising" things, says Adam Chapman, chief geek at heat pump training firm and installer network Heat Geek.
-"I don't personally see what a homeowner would gain from it," he says. "We will guarantee the efficiency with way less radiators and pipework upgrades than any other system out there."
-Chapman points out that only the most careful of surveys will capture a home's heat loss well.
-He says it is common for Heat Geek installers to discover retrofitted windows that haven't been foam-insulated into their openings, leaving draughty gaps, or cavity walls that a homeowner thought had been insulated – but which were actually missed by the builder.
-"It's stuff you can't see," he says. "What we actually need is home surveys that go and spot for these sorts of things."
-More Technology of Business
-- Published4 November
-- Published28 October
-- Published23 October`,
-    bodyJa: `Heat pumps: How much heat does your home really need?
-- Published
-Floorplans. Air duct diagrams. Heat pump specifications. Most people in the market for a new heating system probably don't want to think about this level of detail.
-But, perhaps surprisingly, some do want to think about those things. In extreme depth.
-Every day, roughly 150 new users sign up to an app called Cool Calc, which works out the heat requirements of properties in the US.
-Just over one third of those new users are not tradespeople but private homeowners, says founder and chief executive Bill Fiore.
-When choosing a heating system, people can find themselves bombarded with information – how powerful a heat pump do they need, for example? It isn't always easy to take a tradesperson at their word.
-"As an overall trend, we are seeing homeowners be more informed," explains Fiore. "They want to do a calculation on their own."
-A heat loss calculation is a figure, usually measured in watts, that defines how much heat a home loses during cold weather. It's worked out room by room and is a key part of designing an efficient heating system.
-This estimate is especially important to get right when installing a heat pump, which is sized fairly precisely, according to the projected heat loss.
-Should that calculation be off, the heat pump will likely perform poorly. You could be left with an underpowered device that struggles to warm your property, for example. Given the costs involved, homeowners are often anxious to ensure installers avoid such mistakes.
-Certain new technologies are not, for the moment, helping, adds Fiore. "People are going to AI and they're getting a lot of misinformation because it's not backed by anything credible," he says. Cool Calc is planning to integrate with AI chatbots to try and improve the quality of the advice they spew out.
-It is probably a good idea to be cautious about your new heating system's design, says Kevin Kircher at Purdue University. He and colleagues recently conducted a study, yet to be published, examining the heat loss calculations provided by tradespeople to roughly 75 US homeowners.
-"We were surprised," says Kircher. "The heat loss calculations often led to overestimating the design heat loads by a factor of two or more." That would result in oversized systems that use much more power than necessary.
-Not only that, some people reported charges of more than $1,000 (£745) – and in one case as much as $2,500 – just for a heat loss survey, adds Kircher.
-Besides using excessive amounts of energy, an oversized heating system can also feel uncomfortable, says Dan Dempsey, a former senior engineering fellow for a major heating and cooling provider in the US.
-Dempsey, who took part in Kircher and his colleagues' study, lives in Indiana. He says it is his retirement hobby to monitor the performance of heating and cooling systems in the homes of friends and family members, by analysing data from their smart thermostats.
-"I spent five years manually downloading everything, every week," he says. He points out that oversized systems tend to cycle a lot, meaning they switch on and off again in quick succession.
-This leads to discernible swings in temperature: rooms that fail to remain at their target temperature of, say, 20C, but rather fluctuate, which feels uncomfortable, says Dempsey.
-For people seeking a better understanding of their home's heat loss, various free or partially free apps, including Cool Calc and AutoHVAC, are available. There are options for UK homeowners, too, such as web app Heatpunk.
-Many things can influence the heat loss figure, including the amount of insulation in your home, whether the building has double or triple glazing, and also the size of your radiators.
-Heatpunk allows people to draw a floor plan of their home and input data about the property in order to estimate its performance. Thousands of people use it every month, mostly professional installers, says Andy Rankin, founder and managing director of Midsummer Energy.
-The web app also suggests specific heat pump models for each property, based on the results of the calculation. Naturally, these are models available through Midsummer Energy. "It's been a very effective marketing tool," says Rankin.
-Dwellow, another company that offers heat pump installations in the UK, is keen to follow suit. The firm recently launched its own heat loss estimator.
-While professional heat loss calculations remain essential, getting people to do their own "self surveys" first could ultimately reduce how much time professional heating engineers must spend analysing properties says Ian Mclaren, Dwellow's co-founder and director.
-"Going into a home and just being able to check the information rather than start from scratch could turn a survey into a half-hour trip – far more efficient and less costly," says Mclaren.
-There's no substitute for engineers doing a good job when it is their turn, however, stresses Maurizio Sibilla, of the Centre for Advanced Built Environment Research at the University of West England, Bristol.
-"The solution is better installer practice, clearer customer-facing evidence, and improved methods, not expecting homeowners to do the engineering themselves," he says, adding that providing homeowners with information about the calculation and also data on heat pump performance post-installation can reassure them that the system works as expected.
-Doing your own heat loss calculation may end up "over-intellectualising" things, says Adam Chapman, chief geek at heat pump training firm and installer network Heat Geek.
-"I don't personally see what a homeowner would gain from it," he says. "We will guarantee the efficiency with way less radiators and pipework upgrades than any other system out there."
-Chapman points out that only the most careful of surveys will capture a home's heat loss well.
-He says it is common for Heat Geek installers to discover retrofitted windows that haven't been foam-insulated into their openings, leaving draughty gaps, or cavity walls that a homeowner thought had been insulated – but which were actually missed by the builder.
-"It's stuff you can't see," he says. "What we actually need is home surveys that go and spot for these sorts of things."
-More Technology of Business
-- Published4 November
-- Published28 October
-- Published23 October`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-13T09:29:25+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d187/live/503bbbd0-d902-11f1-93e1-3b657b665bcf.jpg",
-    readTime: 10,
-  },
-  {
-    id: "nvidia-on-track-for-longest-weekly-losin-9a4c6ed2",
-    title: "Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion",
-    titleJa: "Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion",
-    summaryJa: "Jensen Huang's resignation added to Nvidia's market woes, with the stock already in a downward slide since early October.",
-    bodyOriginal: `Nvidia investors turned bearish before this week's Jensen Huang saga. But the selling on Wall Street accelerated in the past few days, sending the stock toward its sixth straight weekly drop, the longest losing streak since 2012.
-The chip giant, which spent most of the year as the world's most valuable company, has lost 29% of its value over that stretch as of Thursday's close. That's a drop of roughly $1.6 trillion in market cap, and it fell below Apple in the process.
-Huang, who co-founded Nvidia and led it for 33 years, resigned on Thursday after two separate extramarital affairs — one with an alleged Chinese spy and the other with an employee — were made public. The board named finance chief Colette Kress as interim CEO while it conducts a search for a full-time successor.
-Nvidia shares fell 4.3% on Thursday, bringing their loss for the week to 11%. News of the first reported affair hit the front pages over the weekend, when Huang sent a letter to employees apologizing for being "unfaithful to my wife." The board convened late Wednesday after The New York Times reported on the other affair, this one with the company's vice president of health care.
-By early Thursday morning, Huang was out, capping a stunning fall for the Nvidia co-founder, who had emerged as one of President Donald Trump's top allies in the corporate world.
-"With the unfortunate departure of CEO Jensen Huang we expect a challenging transition for NVIDIA over the next few months," Gil Luria, an analyst at D.A. Davidson, wrote in a report on Thursday. Luria lowered his price target to $200 from $300, but maintained his buy rating. "We believe the market has appropriately adjusted for this transition," he wrote.
-Last week, prior to Huang's departure, Nvidia shares dropped about 9%. Much of the decline came after the midterm elections, which resulted in sweeping victories for Democrats and the passage of dozens of ballot measures that could slow the artificial intelligence buildout.
-In the weeks before the election, Nvidia's stock was sliding alongside the rest of the AI trade on concerns that rising interest rates would punish debt-heavy companies. While Nvidia is wildly profitable, big customers like neoclouds are reliant on the debt markets.
-Heading into next week, the pressure is on Kress. Nvidia is scheduled to report quarterly results on Tuesday. Analysts are projecting 91% year-over-year revenue growth to $108.9 billion, according to LSEG. That's up 18-fold from the same quarter in 2022, just before OpenAI launched ChatGPT and kicked off the generative AI era.
-Analysts at Oppenheimer wrote in a report on Thursday that, even though they see the company reporting solid earnings, "we expect fundamentals to take a backseat near term."
-"The departure of Mr. Huang could, in our view, translate to a lingering share overhang," they wrote.
-WATCH: Sell rating on Nvidia`,
-    bodyJa: `Nvidia investors turned bearish before this week's Jensen Huang saga. But the selling on Wall Street accelerated in the past few days, sending the stock toward its sixth straight weekly drop, the longest losing streak since 2012.
-The chip giant, which spent most of the year as the world's most valuable company, has lost 29% of its value over that stretch as of Thursday's close. That's a drop of roughly $1.6 trillion in market cap, and it fell below Apple in the process.
-Huang, who co-founded Nvidia and led it for 33 years, resigned on Thursday after two separate extramarital affairs — one with an alleged Chinese spy and the other with an employee — were made public. The board named finance chief Colette Kress as interim CEO while it conducts a search for a full-time successor.
-Nvidia shares fell 4.3% on Thursday, bringing their loss for the week to 11%. News of the first reported affair hit the front pages over the weekend, when Huang sent a letter to employees apologizing for being "unfaithful to my wife." The board convened late Wednesday after The New York Times reported on the other affair, this one with the company's vice president of health care.
-By early Thursday morning, Huang was out, capping a stunning fall for the Nvidia co-founder, who had emerged as one of President Donald Trump's top allies in the corporate world.
-"With the unfortunate departure of CEO Jensen Huang we expect a challenging transition for NVIDIA over the next few months," Gil Luria, an analyst at D.A. Davidson, wrote in a report on Thursday. Luria lowered his price target to $200 from $300, but maintained his buy rating. "We believe the market has appropriately adjusted for this transition," he wrote.
-Last week, prior to Huang's departure, Nvidia shares dropped about 9%. Much of the decline came after the midterm elections, which resulted in sweeping victories for Democrats and the passage of dozens of ballot measures that could slow the artificial intelligence buildout.
-In the weeks before the election, Nvidia's stock was sliding alongside the rest of the AI trade on concerns that rising interest rates would punish debt-heavy companies. While Nvidia is wildly profitable, big customers like neoclouds are reliant on the debt markets.
-Heading into next week, the pressure is on Kress. Nvidia is scheduled to report quarterly results on Tuesday. Analysts are projecting 91% year-over-year revenue growth to $108.9 billion, according to LSEG. That's up 18-fold from the same quarter in 2022, just before OpenAI launched ChatGPT and kicked off the generative AI era.
-Analysts at Oppenheimer wrote in a report on Thursday that, even though they see the company reporting solid earnings, "we expect fundamentals to take a backseat near term."
-"The departure of Mr. Huang could, in our view, translate to a lingering share overhang," they wrote.
-WATCH: Sell rating on Nvidia`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
-    publishedAt: "2026-11-13T05:51:34+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 7,
   },
 ];
 
