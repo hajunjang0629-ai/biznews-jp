@@ -15,6 +15,532 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "china-confirms-xi-trump-putin-historic-s-4a5412ca",
+    title: "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
+    titleJa: "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
+    summaryJa: "The talks are expected to focus on issues including nuclear non-proliferation, the Middle East war, trade policies and, possibly, the Ukraine war.",
+    bodyOriginal: `China confirmed Monday that President Xi Jinping will meet with Russian President Vladimir Putin and U.S. President Donald Trump in Shenzhen on Thursday, setting up the first-ever gathering of the three leaders.
+That confirmation from a spokesperson at China's Foreign Ministry follows announcements from Moscow and the White House. The Wall Street Journal had reported last month that Putin had proposed a three-way sit-down in an attempt to negotiate an end to the four-year war in Ukraine.
+While the summit among the three nations, on the sidelines of the APEC meeting in Shenzhen, is unprecedented, the leaders have held bilateral meetings over the years. Xi has met with Trump three times since October last year and more than 40 times with Putin since becoming president in 2013. Trump and Putin have met in person on several occasions, including a visit to Alaska by the Russian leader in August 2025.
+"For Xi, just the ability to bring Putin and Trump to the table, a first among equals scenario, will deliver much of the political benefit even before the discussions begin," said Peter Alexander, Shanghai-based managing director at Z-Ben Advisors.
+Trump has departed Washington, D.C. for a four-day trip to Asia that also includes a stop in the Philippines.
+Uncertain agenda
+The main hurdle to the first-of-its-kind summit now appears to be "a disagreement over the agenda," said Neo Wang, chief China strategist at Evercore ISI.
+The White House signaled the U.S. intention to prioritize talks over nuclear non-proliferation and the Middle East war, while downplaying the prospects of engaging in talks over Ukraine — a topic high on Moscow's agenda.
+"He [Trump] will discuss the reduction of nuclear weapons in the world, whose proliferation President Trump believes is very dangerous," Olivia Wales, a White House spokeswoman, told reporters on a briefing call. The president will raise the U.S.-Israeli war against Iran in the meeting but is not expected to bring up Russia's war in Ukraine, the official said.
+Putin's position on the war appears unwavering, with the Russian president telling U.S. envoys Jared Kushner and Steve Witkoff in a meeting in Moscow last week that Europe should "figure out" whether "they want peace or war." The meeting came a day after an earlier round of talks aimed at ending the war in Ukraine wrapped up in Abu Dhabi.
+Russian presidential aide Yuri Ushakov said last week the talks in Shenzhen would continue the diplomatic efforts aimed at reaching a negotiated settlement to the Ukraine war, according to state-controlled local media Russia Today.
+China and Russia could turn more aggressive with their military ambitions over the next two years if they perceive Trump as politically weakened, Brookings Institution senior fellow Robert Kagan told CNBC earlier this month, following the dramatic defeat of Trump's Republican Party in the midterm election.
+China did not specify what will be discussed at the three leaders' meeting in Monday's statement.
+"Xi may be inclined to do Putin a favor by showing up, given close strategic ties," said Wang. But a joint statement on Ukraine territory, security arrangements or sanctions against Russia appears unlikely, he said, as it would leave Beijing "more exposed to political scrutiny and accountability."
+A U.S.-China trade truce set to expire in January is likely to be on the table, with analysts largely expecting an extension despite signs of growing friction in the bilateral relationship.
+Aside from an immediate extension, leaders may also look to assess "whether a more durable framework for a rebalancing of U.S.–China trade relations can be established," said Carlos Casanova, senior economist for Asia at UBP.
+U.S. trade deficit with China remains substantial, with Beijing's exports to Washington recording double-digit growth for most of this year, from last year's low base. Narrowing that deficit will be central to Washington's call for a more balanced trade, Casanova said.`,
+    bodyJa: `China confirmed Monday that President Xi Jinping will meet with Russian President Vladimir Putin and U.S. President Donald Trump in Shenzhen on Thursday, setting up the first-ever gathering of the three leaders.
+That confirmation from a spokesperson at China's Foreign Ministry follows announcements from Moscow and the White House. The Wall Street Journal had reported last month that Putin had proposed a three-way sit-down in an attempt to negotiate an end to the four-year war in Ukraine.
+While the summit among the three nations, on the sidelines of the APEC meeting in Shenzhen, is unprecedented, the leaders have held bilateral meetings over the years. Xi has met with Trump three times since October last year and more than 40 times with Putin since becoming president in 2013. Trump and Putin have met in person on several occasions, including a visit to Alaska by the Russian leader in August 2025.
+"For Xi, just the ability to bring Putin and Trump to the table, a first among equals scenario, will deliver much of the political benefit even before the discussions begin," said Peter Alexander, Shanghai-based managing director at Z-Ben Advisors.
+Trump has departed Washington, D.C. for a four-day trip to Asia that also includes a stop in the Philippines.
+Uncertain agenda
+The main hurdle to the first-of-its-kind summit now appears to be "a disagreement over the agenda," said Neo Wang, chief China strategist at Evercore ISI.
+The White House signaled the U.S. intention to prioritize talks over nuclear non-proliferation and the Middle East war, while downplaying the prospects of engaging in talks over Ukraine — a topic high on Moscow's agenda.
+"He [Trump] will discuss the reduction of nuclear weapons in the world, whose proliferation President Trump believes is very dangerous," Olivia Wales, a White House spokeswoman, told reporters on a briefing call. The president will raise the U.S.-Israeli war against Iran in the meeting but is not expected to bring up Russia's war in Ukraine, the official said.
+Putin's position on the war appears unwavering, with the Russian president telling U.S. envoys Jared Kushner and Steve Witkoff in a meeting in Moscow last week that Europe should "figure out" whether "they want peace or war." The meeting came a day after an earlier round of talks aimed at ending the war in Ukraine wrapped up in Abu Dhabi.
+Russian presidential aide Yuri Ushakov said last week the talks in Shenzhen would continue the diplomatic efforts aimed at reaching a negotiated settlement to the Ukraine war, according to state-controlled local media Russia Today.
+China and Russia could turn more aggressive with their military ambitions over the next two years if they perceive Trump as politically weakened, Brookings Institution senior fellow Robert Kagan told CNBC earlier this month, following the dramatic defeat of Trump's Republican Party in the midterm election.
+China did not specify what will be discussed at the three leaders' meeting in Monday's statement.
+"Xi may be inclined to do Putin a favor by showing up, given close strategic ties," said Wang. But a joint statement on Ukraine territory, security arrangements or sanctions against Russia appears unlikely, he said, as it would leave Beijing "more exposed to political scrutiny and accountability."
+A U.S.-China trade truce set to expire in January is likely to be on the table, with analysts largely expecting an extension despite signs of growing friction in the bilateral relationship.
+Aside from an immediate extension, leaders may also look to assess "whether a more durable framework for a rebalancing of U.S.–China trade relations can be established," said Carlos Casanova, senior economist for Asia at UBP.
+U.S. trade deficit with China remains substantial, with Beijing's exports to Washington recording double-digit growth for most of this year, from last year's low base. Narrowing that deficit will be central to Washington's call for a more balanced trade, Casanova said.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html",
+    publishedAt: "2026-11-16T04:34:00+00:00",
+    category: "貿易",
+    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "china-s-slowdown-deepens-in-october-as-i-bc870298",
+    title: "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+    titleJa: "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+    summaryJa: "A deepening reliance on external demand leaves China more exposed to shocks abroad as domestic momentum fades, analysts say.",
+    bodyOriginal: `China's economic slowdown worsened in October with retail sales, investment and industrial output all missing economists' estimates, as analysts warn a growing reliance on external demand leaves growth more exposed to shocks abroad.
+Monday's data showed the investment slump deepened and retail sales again lagged industrial output, as consumer spending languished with the property market downturn eroding household wealth for a fifth year.
+Retail sales, a gauge of consumption, rose 0.4% from a year ago in October, disappointing analysts' forecast for a 0.8% rise, slowing from a six-month high of 1.1% in September.
+Industrial output expanded 4.8% from a year earlier last month, missing analysts' estimates for 5.3% growth and sharply slowing from 5.5% in September, the highest level in five months.
+For the first ten months of this year, fixed-asset investments, including property and infrastructure, shrank 8.1%, deepening a collapse plaguing the economy this year that's unprecedented outside the Covid-19 period. That figure marked a significant deterioration compared to analysts' expectations for a 7% decline.
+The economic malaise also weighed on the labor market. Unemployment inched lower to 5.1% in October, while the jobless rate for those aged between 16 and 24, excluding students, hovered near the highest level in a year, standing at 18% in September.
+Growth in the world's second-largest economy bounced off three-year lows in the third quarter, expanding 4.5% from a year earlier. Goldman Sachs expects China's economy to slow to 4.6% this year, from 5% expansion in 2025, before easing further to 4.5% in 2027.
+The Wall Street bank expects the low inflation to extend into next year, with consumer inflation ticking lower to 0.8% this year, 0.5 in 2027. It cited soft domestic demand, abundant aggregate supply, easing commodity-price momentum and potential artificial intelligence disruption risks.
+Despite the moderation, the projected growth rate still puts the economy on track to achieve Beijing's ambition of doubling 2020 per capita income by 2035, Goldman Sachs said in a note Monday.
+Subdued consumer inflation and roaring exports paint a picture of an economy increasingly dominant in global markets but struggling to generate prosperity at home. Consumer inflation ticked down to 0.7% in October, its first deceleration after two straight months of increases, while exports surged by a more-than-expected 35.2%.
+China is on track to surpass last year's record $1.2 trillion trade surplus despite growing trade tensions, with the gap reaching the $1 trillion threshold by October — the fastest it has ever reached that mark.
+AI demand risks
+The strong export momentum has largely been driven by global demand for AI-related technology and equipment. Any signs of pullback in the industry could weigh on China's exports, analysts warn.
+"The market was already worried" about a slowdown in the AI capital-spending cycle even before the Nvidia scandal that put flows of restricted chips to China under renewed scrutiny, said Zhiwei Zhang, president and chief economist at Pinpoint Asset Management.
+"Now the risk has become even more serious," Zhang said, forecasting further downside risk for global economic growth next year.
+The increasingly lopsided growth came as major trading partners have ramped up calls for the economy to rebalance. Headwinds on China's export engine could intensify next year, with further trade restrictions from the European Union posing a critical downside risk, Citi Research analysts said.
+"More EU trade measures targeting China look plausible to us, potentially adding to tensions ahead," the bank said, though Beijing is likely to be open to negotiating "reasonable, practical concessions," such as import pledges, sector-specific deals and value-added tax rebate cuts.
+— CNBC's Evelyn Cheng contributed to this report.`,
+    bodyJa: `China's economic slowdown worsened in October with retail sales, investment and industrial output all missing economists' estimates, as analysts warn a growing reliance on external demand leaves growth more exposed to shocks abroad.
+Monday's data showed the investment slump deepened and retail sales again lagged industrial output, as consumer spending languished with the property market downturn eroding household wealth for a fifth year.
+Retail sales, a gauge of consumption, rose 0.4% from a year ago in October, disappointing analysts' forecast for a 0.8% rise, slowing from a six-month high of 1.1% in September.
+Industrial output expanded 4.8% from a year earlier last month, missing analysts' estimates for 5.3% growth and sharply slowing from 5.5% in September, the highest level in five months.
+For the first ten months of this year, fixed-asset investments, including property and infrastructure, shrank 8.1%, deepening a collapse plaguing the economy this year that's unprecedented outside the Covid-19 period. That figure marked a significant deterioration compared to analysts' expectations for a 7% decline.
+The economic malaise also weighed on the labor market. Unemployment inched lower to 5.1% in October, while the jobless rate for those aged between 16 and 24, excluding students, hovered near the highest level in a year, standing at 18% in September.
+Growth in the world's second-largest economy bounced off three-year lows in the third quarter, expanding 4.5% from a year earlier. Goldman Sachs expects China's economy to slow to 4.6% this year, from 5% expansion in 2025, before easing further to 4.5% in 2027.
+The Wall Street bank expects the low inflation to extend into next year, with consumer inflation ticking lower to 0.8% this year, 0.5 in 2027. It cited soft domestic demand, abundant aggregate supply, easing commodity-price momentum and potential artificial intelligence disruption risks.
+Despite the moderation, the projected growth rate still puts the economy on track to achieve Beijing's ambition of doubling 2020 per capita income by 2035, Goldman Sachs said in a note Monday.
+Subdued consumer inflation and roaring exports paint a picture of an economy increasingly dominant in global markets but struggling to generate prosperity at home. Consumer inflation ticked down to 0.7% in October, its first deceleration after two straight months of increases, while exports surged by a more-than-expected 35.2%.
+China is on track to surpass last year's record $1.2 trillion trade surplus despite growing trade tensions, with the gap reaching the $1 trillion threshold by October — the fastest it has ever reached that mark.
+AI demand risks
+The strong export momentum has largely been driven by global demand for AI-related technology and equipment. Any signs of pullback in the industry could weigh on China's exports, analysts warn.
+"The market was already worried" about a slowdown in the AI capital-spending cycle even before the Nvidia scandal that put flows of restricted chips to China under renewed scrutiny, said Zhiwei Zhang, president and chief economist at Pinpoint Asset Management.
+"Now the risk has become even more serious," Zhang said, forecasting further downside risk for global economic growth next year.
+The increasingly lopsided growth came as major trading partners have ramped up calls for the economy to rebalance. Headwinds on China's export engine could intensify next year, with further trade restrictions from the European Union posing a critical downside risk, Citi Research analysts said.
+"More EU trade measures targeting China look plausible to us, potentially adding to tensions ahead," the bank said, though Beijing is likely to be open to negotiating "reasonable, practical concessions," such as import pledges, sector-specific deals and value-added tax rebate cuts.
+— CNBC's Evelyn Cheng contributed to this report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+    publishedAt: "2026-11-16T03:53:59+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "tech-world-s-calls-for-jensen-huang-to-r-fdc77f3c",
+    title: "Tech world's calls for Jensen Huang to return to Nvidia are growing",
+    titleJa: "Tech world's calls for Jensen Huang to return to Nvidia are growing",
+    summaryJa: "Calls for Jensen Huang's return as Nvidia CEO are growing, with tech executives and major shareholders backing a potential comeback following his resignation.",
+    bodyOriginal: `An online petition calling for Jensen Huang's reinstatement as CEO of Nvidia has drawn more than 160,000 signatures, as prominent tech executives, employees and shareholders rally behind the chipmaker's co-founder following his resignation last week.
+The "Stand with Jensen" campaign has attracted support from Tesla CEO Elon Musk, Epic Games CEO Tim Sweeney and Y Combinator CEO Garry Tan, according to the petition's website, which notes that affiliations are self-reported and not verified.
+Huang, who co-founded the company in 1993 and helped turn it into a dominant supplier of artificial intelligence chips, resigned as Nvidia's president, CEO and board member last week following reports of extramarital affairs — including one involving a woman suspected of ties to Chinese intelligence.
+Nvidia appointed longtime finance chief Colette Kress as interim CEO and said its board would consider both internal and external candidates in its search for a permanent successor. The growing campaign to reinstate Huang adds a layer of complexity to the decision for Nvidia's board as it looks to put the controversy behind it, and coincides with reports that he is considering a comeback.
+Any potential return, however, faces significant hurdles. Nvidia's board is continuing an independent investigation into the conduct that led to Huang's departure. What's more, U.S. lawmakers are preparing for investigations into how the now-ex-CEO's affair may have damaged America's artificial intelligence dominance, the national security implications and the executive's close relationship with President Donald Trump and his Cabinet.
+Silicon Valley's view
+Musk was among the most prominent tech executives to publicly back Huang's reinstatement, saying on X that he would sign a petition calling for the former Nvidia chief's return.
+"A petition is underway to reinstate Jensen and I'm signing it too," Musk wrote on X. He had previously also said it would be "an honor" to hire Huang.
+The campaign has drawn support from people identifying themselves as current and former Nvidia employees, shareholders and business partners, according to the petition's website. It calls on Nvidia's board to ensure a fair investigation into Huang's conduct and provide greater transparency around the circumstances of his departure.
+Some Nvidia employees have also publicly expressed support for Huang, with one engineer saying he had decided to leave the company following the CEO's departure.
+Darrell Dai, who identified himself as a robotics engineer at Nvidia, said Huang's vision and the engineering culture he fostered were key reasons he had stayed at the company.
+Another Nvidia employee, Vartika Singh, who said she had worked at the chipmaker for nearly eight years, praised Huang's leadership and personal support during a family medical crisis.
+"I have never worked for anyone quite like Jensen Huang, and I doubt I ever will," Singh wrote on X, describing his commitment to employees, researchers and startups.
+The push has also gained traction among major shareholders, with Altimeter Capital CEO Brad Gerstner and Atreides Management's Gavin Baker urging Nvidia's board to consider all options, including Huang's potential return, in an open letter Friday.
+The investors called for a measured approach to choosing Nvidia's next leader, arguing that Huang deserved a fair process before the board made any permanent decision.
+Reinstatement chances
+Huang has discussed the possibility of returning as Nvidia's chief executive with close confidants, the Financial Times reported, citing multiple people familiar with the matter.
+One of his allies told the FT that supporters were assembling a "war room" of Silicon Valley executives to lobby for his reinstatement and would seek backing from the White House.
+The efforts had Huang's support, the person added, according to the report.
+"We are in the process of selecting a search firm for the NVIDIA CEO role. We have not formally engaged any potential candidates," an Nvidia spokesperson said in response to CNBC's request for comment on the company's search.
+The spokesperson added that any speculation about individual candidates, whether internal or external, was premature.
+Anthony Scaramucci, founder of alternative investment firm SkyBridge and a former White House communications director, also dismissed the prospect of Huang returning as CEO, saying the investigations surrounding him presented obstacles that a public campaign could not overcome.
+"The tech bros want Jensen back. Not happening," Scaramucci wrote on X, arguing that Nvidia's board could not reinstate a chief executive whose conduct remained under investigation.
+In a separate post, Scaramucci rejected comparisons with OpenAI CEO Sam Altman, who returned to the company days after being ousted in 2023.
+"The FBI doesn't take petitions," he wrote, saying that Huang's situation was fundamentally different from Altman's. Altman's ouster stemmed from an internal governance dispute, while Huang's situation involves ongoing investigations into his conduct that make a swift board reversal far more difficult.
+Megaspeed, a Singapore-based company linked to the controversy, said recent media reports contained assertions about its business and supply chain that were not supported by verifiable evidence.
+The company said it had retained external legal counsel to conduct an internal investigation and that Alice Huang, a woman reportedly romantically linked to Jensen Huang and an alleged Chinese spy, left Megaspeed effective Aug. 30, 2025, and no longer holds any role there.
+Alice Huang may have owned stakes in businesses in China that benefited Nvidia's biggest competitor in China, Huawei, CNBC reported earlier.
+Meanwhile, Nvidia's board has approached Arm CEO Rene Haas as a potential successor to Huang, the FT reported. Nvidia's board said at the time that it had not formally engaged any candidates.
+Some analysts see a path for Huang to return despite the controversy surrounding his departure.
+Jay Goldberg, a senior analyst at Seaport Research Partners, said Huang could make a comeback if he overcomes his legal challenges, citing his influence in the AI industry and continued support from investors.
+"If he can get through the legal trouble, I think we'll have a second act from him," Goldberg told CNBC's "Squawk Box Asia."
+But not everyone on Wall Street is convinced it can happen so soon.
+"We see no chance Jensen comes back to Nvidia as CEO," Dan Ives, partner and senior managing director at Yorkville Ives & Co., said in a note.
+Ives said the shareholder petition and public pressure could create further distractions for Nvidia, but would not change the central task facing interim CEO Kress: restoring stability and investor confidence.
+Ives added that Nvidia's leadership in AI chips and its long-term demand outlook remained intact despite the management upheaval.
+Nvidia is scheduled to report its fiscal third-quarter earnings Tuesday, putting Kress and the company's leadership team under the spotlight as investors look for reassurance about its future.`,
+    bodyJa: `An online petition calling for Jensen Huang's reinstatement as CEO of Nvidia has drawn more than 160,000 signatures, as prominent tech executives, employees and shareholders rally behind the chipmaker's co-founder following his resignation last week.
+The "Stand with Jensen" campaign has attracted support from Tesla CEO Elon Musk, Epic Games CEO Tim Sweeney and Y Combinator CEO Garry Tan, according to the petition's website, which notes that affiliations are self-reported and not verified.
+Huang, who co-founded the company in 1993 and helped turn it into a dominant supplier of artificial intelligence chips, resigned as Nvidia's president, CEO and board member last week following reports of extramarital affairs — including one involving a woman suspected of ties to Chinese intelligence.
+Nvidia appointed longtime finance chief Colette Kress as interim CEO and said its board would consider both internal and external candidates in its search for a permanent successor. The growing campaign to reinstate Huang adds a layer of complexity to the decision for Nvidia's board as it looks to put the controversy behind it, and coincides with reports that he is considering a comeback.
+Any potential return, however, faces significant hurdles. Nvidia's board is continuing an independent investigation into the conduct that led to Huang's departure. What's more, U.S. lawmakers are preparing for investigations into how the now-ex-CEO's affair may have damaged America's artificial intelligence dominance, the national security implications and the executive's close relationship with President Donald Trump and his Cabinet.
+Silicon Valley's view
+Musk was among the most prominent tech executives to publicly back Huang's reinstatement, saying on X that he would sign a petition calling for the former Nvidia chief's return.
+"A petition is underway to reinstate Jensen and I'm signing it too," Musk wrote on X. He had previously also said it would be "an honor" to hire Huang.
+The campaign has drawn support from people identifying themselves as current and former Nvidia employees, shareholders and business partners, according to the petition's website. It calls on Nvidia's board to ensure a fair investigation into Huang's conduct and provide greater transparency around the circumstances of his departure.
+Some Nvidia employees have also publicly expressed support for Huang, with one engineer saying he had decided to leave the company following the CEO's departure.
+Darrell Dai, who identified himself as a robotics engineer at Nvidia, said Huang's vision and the engineering culture he fostered were key reasons he had stayed at the company.
+Another Nvidia employee, Vartika Singh, who said she had worked at the chipmaker for nearly eight years, praised Huang's leadership and personal support during a family medical crisis.
+"I have never worked for anyone quite like Jensen Huang, and I doubt I ever will," Singh wrote on X, describing his commitment to employees, researchers and startups.
+The push has also gained traction among major shareholders, with Altimeter Capital CEO Brad Gerstner and Atreides Management's Gavin Baker urging Nvidia's board to consider all options, including Huang's potential return, in an open letter Friday.
+The investors called for a measured approach to choosing Nvidia's next leader, arguing that Huang deserved a fair process before the board made any permanent decision.
+Reinstatement chances
+Huang has discussed the possibility of returning as Nvidia's chief executive with close confidants, the Financial Times reported, citing multiple people familiar with the matter.
+One of his allies told the FT that supporters were assembling a "war room" of Silicon Valley executives to lobby for his reinstatement and would seek backing from the White House.
+The efforts had Huang's support, the person added, according to the report.
+"We are in the process of selecting a search firm for the NVIDIA CEO role. We have not formally engaged any potential candidates," an Nvidia spokesperson said in response to CNBC's request for comment on the company's search.
+The spokesperson added that any speculation about individual candidates, whether internal or external, was premature.
+Anthony Scaramucci, founder of alternative investment firm SkyBridge and a former White House communications director, also dismissed the prospect of Huang returning as CEO, saying the investigations surrounding him presented obstacles that a public campaign could not overcome.
+"The tech bros want Jensen back. Not happening," Scaramucci wrote on X, arguing that Nvidia's board could not reinstate a chief executive whose conduct remained under investigation.
+In a separate post, Scaramucci rejected comparisons with OpenAI CEO Sam Altman, who returned to the company days after being ousted in 2023.
+"The FBI doesn't take petitions," he wrote, saying that Huang's situation was fundamentally different from Altman's. Altman's ouster stemmed from an internal governance dispute, while Huang's situation involves ongoing investigations into his conduct that make a swift board reversal far more difficult.
+Megaspeed, a Singapore-based company linked to the controversy, said recent media reports contained assertions about its business and supply chain that were not supported by verifiable evidence.
+The company said it had retained external legal counsel to conduct an internal investigation and that Alice Huang, a woman reportedly romantically linked to Jensen Huang and an alleged Chinese spy, left Megaspeed effective Aug. 30, 2025, and no longer holds any role there.
+Alice Huang may have owned stakes in businesses in China that benefited Nvidia's biggest competitor in China, Huawei, CNBC reported earlier.
+Meanwhile, Nvidia's board has approached Arm CEO Rene Haas as a potential successor to Huang, the FT reported. Nvidia's board said at the time that it had not formally engaged any candidates.
+Some analysts see a path for Huang to return despite the controversy surrounding his departure.
+Jay Goldberg, a senior analyst at Seaport Research Partners, said Huang could make a comeback if he overcomes his legal challenges, citing his influence in the AI industry and continued support from investors.
+"If he can get through the legal trouble, I think we'll have a second act from him," Goldberg told CNBC's "Squawk Box Asia."
+But not everyone on Wall Street is convinced it can happen so soon.
+"We see no chance Jensen comes back to Nvidia as CEO," Dan Ives, partner and senior managing director at Yorkville Ives & Co., said in a note.
+Ives said the shareholder petition and public pressure could create further distractions for Nvidia, but would not change the central task facing interim CEO Kress: restoring stability and investor confidence.
+Ives added that Nvidia's leadership in AI chips and its long-term demand outlook remained intact despite the management upheaval.
+Nvidia is scheduled to report its fiscal third-quarter earnings Tuesday, putting Kress and the company's leadership team under the spotlight as investors look for reassurance about its future.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html",
+    publishedAt: "2026-11-16T03:35:09+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "investors-sue-chip-giant-intel-after-29-7966049a",
+    title: "Investors sue chip giant Intel after 29% stock plunge",
+    titleJa: "Investors sue chip giant Intel after 29% stock plunge",
+    summaryJa: "A proposed class action says Intel hid the impact of slowing sales, inflating its shares.",
+    bodyOriginal: `Investors sue chip giant Intel after 29% stock plunge
+- Published
+Shareholders have sued US chip giant Intel, accusing it of hiding the severity of a slump in personal computer (PC) sales, which they say led to a nearly 29% one-day collapse in the firm's stock.
+A proposed class action lawsuit in San Jose, California said Intel was too late to alert shareholders about how slowing sales could impact its earnings, allegedly artificially inflating its stock price.
+Intel shares plunged on 30 October, erasing tens of billions of dollars off its market value the day after it forecasted disappointing revenue in its coming earnings report.
+The BBC has contacted Intel for comment.
+The lawsuit, filed by legal firm Robbins Geller Rudman & Dowd on behalf of owners of Intel common shares between 23 July and 29 October this year, was filed against the chipmaker, its chief executive Tan Lip-Bu and other company leaders.
+Intel has been accused of making "materially false and/or misleading" statements that failed to disclose the slowdown in PC sales and the impact of its data centre projects, the complaint said.
+In October, the firm announced that its computer hardware sales had dropped sharply in the three months that ended in September. That report undermined earlier suggestions from Intel that demand had been improving, sending Intel shares plunging, according to the lawsuit.
+The lawsuit said the "depressed demand for PC sales" caused "a dramatic slowdown" in quarterly earnings – a drop of 9%, or about $800m, to $8.1bn.
+Intel has poured huge investments into manufacturing to meet the enormous demand for AI computing power.
+As more semiconductors are channelled towards data centres, chips for PCs and other electronics have become more expensive.
+Intel boss Tan had told analysts that the industry was facing an "unprecedented memory crunch", resulting in a shortage of chip supplies for PCs.
+"We need to address these challenges with urgency," Tan said in October.
+Intel shares have fallen sharply in the past month by 37.5%, though the stock is still up by 51% overall this year.
+Related topics
+- Published22 August 2025
+- Published20 hours ago`,
+    bodyJa: `Investors sue chip giant Intel after 29% stock plunge
+- Published
+Shareholders have sued US chip giant Intel, accusing it of hiding the severity of a slump in personal computer (PC) sales, which they say led to a nearly 29% one-day collapse in the firm's stock.
+A proposed class action lawsuit in San Jose, California said Intel was too late to alert shareholders about how slowing sales could impact its earnings, allegedly artificially inflating its stock price.
+Intel shares plunged on 30 October, erasing tens of billions of dollars off its market value the day after it forecasted disappointing revenue in its coming earnings report.
+The BBC has contacted Intel for comment.
+The lawsuit, filed by legal firm Robbins Geller Rudman & Dowd on behalf of owners of Intel common shares between 23 July and 29 October this year, was filed against the chipmaker, its chief executive Tan Lip-Bu and other company leaders.
+Intel has been accused of making "materially false and/or misleading" statements that failed to disclose the slowdown in PC sales and the impact of its data centre projects, the complaint said.
+In October, the firm announced that its computer hardware sales had dropped sharply in the three months that ended in September. That report undermined earlier suggestions from Intel that demand had been improving, sending Intel shares plunging, according to the lawsuit.
+The lawsuit said the "depressed demand for PC sales" caused "a dramatic slowdown" in quarterly earnings – a drop of 9%, or about $800m, to $8.1bn.
+Intel has poured huge investments into manufacturing to meet the enormous demand for AI computing power.
+As more semiconductors are channelled towards data centres, chips for PCs and other electronics have become more expensive.
+Intel boss Tan had told analysts that the industry was facing an "unprecedented memory crunch", resulting in a shortage of chip supplies for PCs.
+"We need to address these challenges with urgency," Tan said in October.
+Intel shares have fallen sharply in the past month by 37.5%, though the stock is still up by 51% overall this year.
+Related topics
+- Published22 August 2025
+- Published20 hours ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-16T03:04:01+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e63c/live/afebacc0-e14f-11f1-8fb1-c394c4317b6a.jpg",
+    readTime: 5,
+  },
+  {
+    id: "japan-s-economy-unexpectedly-contracts-i-303dab90",
+    title: "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+    titleJa: "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+    summaryJa: "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
+    bodyOriginal: `Japan's economy unexpectedly contracted in the third quarter, shrinking at an annualized 0.1% compared to the previous quarter, as elevated energy prices weighed on consumption and net exports.
+A Reuters poll of economists had estimated the economy to grow at 0.3% in the three months to September, while GDP had expanded at 1.4% in the previous quarter.
+Japan's exports beat expectations for two of the three months in the quarter, but net exports weighed on the economy due to higher costs of energy imports, cutting 0.6 percentage point from the country's growth.
+Energy subsidies for households had reportedly expired in September, exposing consumers to higher energy prices brought about by the Iran war.
+The GDP data could complicate Japan's policy normalization path, though there's still a 75.6% chance of the Bank of Japan raising rates by 25 basis points in December, according to LSEG.
+"Today's GDP data is hardly a green light for the BOJ to hike in December," according to Krishna Bhimavarapu, APAC economist at State Street Investment Management.
+He pointed out that real final sales of domestic product fell 2.1% annualized, which is the largest decline outside the Covid-19 pandemic and the first quarter of 2022. "[This] looks to be a loss of momentum," he added. That metric is a measure of
+Real final sales of domestic product refer to GDP growth, net of private inventories, and indicate underlying demand.
+Marcel Thieliant, head of Asia Pacific at Capital Economics, still expects the BOJ to go ahead with the rate hike. "It looks increasingly likely that the Bank will have to tighten policy more aggressively than we've been anticipating as inflation is about to surge."
+The BOJ had declared that its 2% underlying inflation target had been met for the first time in 13 years at its meeting last month. Core inflation in September also hit its highest level this year at 2.1%, overshooting analysts' expectations.
+On an year-on-year basis Japan's economy grew 1.1%, its strongest growth since the second quarter of 2025. Theliant noted that this was owed to a lower base in the third quarter of 2025.
+Following the data release, the Nikkei 225 fell 0.62%, while the yield on the benchmark 10-year Japanese Government Bonds was at 2.885%. The yen weakened marginally against the dollar, trading at 159.76.`,
+    bodyJa: `Japan's economy unexpectedly contracted in the third quarter, shrinking at an annualized 0.1% compared to the previous quarter, as elevated energy prices weighed on consumption and net exports.
+A Reuters poll of economists had estimated the economy to grow at 0.3% in the three months to September, while GDP had expanded at 1.4% in the previous quarter.
+Japan's exports beat expectations for two of the three months in the quarter, but net exports weighed on the economy due to higher costs of energy imports, cutting 0.6 percentage point from the country's growth.
+Energy subsidies for households had reportedly expired in September, exposing consumers to higher energy prices brought about by the Iran war.
+The GDP data could complicate Japan's policy normalization path, though there's still a 75.6% chance of the Bank of Japan raising rates by 25 basis points in December, according to LSEG.
+"Today's GDP data is hardly a green light for the BOJ to hike in December," according to Krishna Bhimavarapu, APAC economist at State Street Investment Management.
+He pointed out that real final sales of domestic product fell 2.1% annualized, which is the largest decline outside the Covid-19 pandemic and the first quarter of 2022. "[This] looks to be a loss of momentum," he added. That metric is a measure of
+Real final sales of domestic product refer to GDP growth, net of private inventories, and indicate underlying demand.
+Marcel Thieliant, head of Asia Pacific at Capital Economics, still expects the BOJ to go ahead with the rate hike. "It looks increasingly likely that the Bank will have to tighten policy more aggressively than we've been anticipating as inflation is about to surge."
+The BOJ had declared that its 2% underlying inflation target had been met for the first time in 13 years at its meeting last month. Core inflation in September also hit its highest level this year at 2.1%, overshooting analysts' expectations.
+On an year-on-year basis Japan's economy grew 1.1%, its strongest growth since the second quarter of 2025. Theliant noted that this was owed to a lower base in the third quarter of 2025.
+Following the data release, the Nikkei 225 fell 0.62%, while the yield on the benchmark 10-year Japanese Government Bonds was at 2.885%. The yen weakened marginally against the dollar, trading at 159.76.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+    publishedAt: "2026-11-16T02:56:24+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "black-friday-and-tax-return-scams-don-t-779db28a",
+    title: "Black Friday and tax return scams  - don't fall for these",
+    titleJa: "Black Friday and tax return scams  - don't fall for these",
+    summaryJa: "Tens of thousands of scams are reported to HMRC - so it has advice on how to spot a fake request and refund.",
+    bodyOriginal: `Black Friday and tax return scams - don't fall for these
+- Published
+This month's Black Friday and the tax return deadline at the end of January are both opportunities for fraudsters to scam you.
+That's because people are more likely to expect emails, texts and other correspondence at this time of year.
+Fraudsters will use the dates to impersonate genuine organisations and retailers by pushing victims towards fake websites to steal personal information.
+Here's how to spot a scam and how you can avoid being caught out.
+Is it really HMRC? Here's how to tell
+If you are self-employed or have more than one source of income you will need to file a tax return by the end of January.
+Fraudsters seize on this deadline to blitz people with messages that look like they are official and from the UK's tax authority, HMRC.
+Any such calls or messages should be ignored, but you can also check whether an email, external, text message, external or phone call, external claiming to be from HMRC is genuine.
+"Reporting scams helps us shut them down and protect others," adds Lucy Pike, HMRC's chief security officer.
+New figures from HMRC, shared with the BBC, show that it received 95,340 reports of suspected scams in the year to the end of October.
+There were 900 reports of one specific scam which used emails containing a malicious attachment which directed customers to a fake gov.uk webpage designed to steal personal and financial information.
+To avoid being caught out, HMRC says:
+it never contacts people by email, text or phone to tell them they are due a refund or ask them to claim one
+it never asks for personal or financial information by email or text message
+it never leaves threatening voicemails about legal action or arrest
+Is it a real deal? Here's how to check
+In the run-up to Black Friday you may be looking around for discounts, but fraudsters will impersonate genuine retailers to steal personal details or take payment for a product that will never be delivered.
+Kirsty Adams, a fraud and scams expert at High Street bank Barclays, says make sure you pause before you buy.
+"When you're scrolling on the sofa and a countdown timer starts ticking, or a deal pops up in your feed from an account that looks just like a brand you trust, it's easy to get swept up and pay before you've had a chance to check.
+"No deal is worth rushing for. So take a moment before you buy."
+The bank also advises doing these four things:
+Pause and check, rather than being blinded by a countdown timer
+Pay safely using a credit or debit card via a trusted payment service, not a bank transfer to a stranger
+Open an official website or app yourself rather than clicking on links in emails, ads or social posts
+Talk to a friend, family or your bank if you think something does not feel right, and calling your bank straight away if you think you've been scammed
+Related topics
+- Published7 days ago
+- Published19 October`,
+    bodyJa: `Black Friday and tax return scams - don't fall for these
+- Published
+This month's Black Friday and the tax return deadline at the end of January are both opportunities for fraudsters to scam you.
+That's because people are more likely to expect emails, texts and other correspondence at this time of year.
+Fraudsters will use the dates to impersonate genuine organisations and retailers by pushing victims towards fake websites to steal personal information.
+Here's how to spot a scam and how you can avoid being caught out.
+Is it really HMRC? Here's how to tell
+If you are self-employed or have more than one source of income you will need to file a tax return by the end of January.
+Fraudsters seize on this deadline to blitz people with messages that look like they are official and from the UK's tax authority, HMRC.
+Any such calls or messages should be ignored, but you can also check whether an email, external, text message, external or phone call, external claiming to be from HMRC is genuine.
+"Reporting scams helps us shut them down and protect others," adds Lucy Pike, HMRC's chief security officer.
+New figures from HMRC, shared with the BBC, show that it received 95,340 reports of suspected scams in the year to the end of October.
+There were 900 reports of one specific scam which used emails containing a malicious attachment which directed customers to a fake gov.uk webpage designed to steal personal and financial information.
+To avoid being caught out, HMRC says:
+it never contacts people by email, text or phone to tell them they are due a refund or ask them to claim one
+it never asks for personal or financial information by email or text message
+it never leaves threatening voicemails about legal action or arrest
+Is it a real deal? Here's how to check
+In the run-up to Black Friday you may be looking around for discounts, but fraudsters will impersonate genuine retailers to steal personal details or take payment for a product that will never be delivered.
+Kirsty Adams, a fraud and scams expert at High Street bank Barclays, says make sure you pause before you buy.
+"When you're scrolling on the sofa and a countdown timer starts ticking, or a deal pops up in your feed from an account that looks just like a brand you trust, it's easy to get swept up and pay before you've had a chance to check.
+"No deal is worth rushing for. So take a moment before you buy."
+The bank also advises doing these four things:
+Pause and check, rather than being blinded by a countdown timer
+Pay safely using a credit or debit card via a trusted payment service, not a bank transfer to a stranger
+Open an official website or app yourself rather than clicking on links in emails, ads or social posts
+Talk to a friend, family or your bank if you think something does not feel right, and calling your bank straight away if you think you've been scammed
+Related topics
+- Published7 days ago
+- Published19 October`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-16T00:50:39+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab33/live/9ed5ff60-dea9-11f1-98eb-79ee6ea9ba56.jpg",
+    readTime: 7,
+  },
+  {
+    id: "cut-national-insurance-for-under-25s-to-ad6ae5ae",
+    title: "Cut national insurance for under-25s to create jobs, Milburn report to say",
+    titleJa: "Cut national insurance for under-25s to create jobs, Milburn report to say",
+    summaryJa: "The report being launched this week will suggest gradually reducing employment costs over five years.",
+    bodyOriginal: `Cut national insurance for under-25s to create jobs, Milburn report to say
+- Published
+National Insurance (NI) paid by businesses on workers aged under 25 should be gradually lowered to encourage companies to create jobs for young people, a major review of youth unemployment will say.
+A report by former Labour minister Alan Milburn will suggest the government should reduce NI costs over five years for people aged between 21 and 24 years old, starting in retail and hospitality.
+Under Sir Keir Starmer, the government raised NI for firms. Milburn will say the number of young people not in employment, education or training - known as Neets - was not started by the NI rise.
+But shadow work and pensions secretary, Helen Whately, said the government should "just stop doing the taxing".
+The independent report, which has been in the works for a year and will be published on Tuesday, will also make recommendations on reducing the UK's benefits bill.
+Milburn has said the government spends £22bn a year supporting young people who are economically inactive. There are nearly one million so-called Neets aged between 16 and 24 in the UK, according to data from the Office for National Statistics.
+He will recommend that under-25s should no longer be able to claim the health element of UK-wide Universal Credit or personal independence payment (Pip), which is the main disability benefit in England and Wales.
+Milburn wants the government to provide a legal guarantee of a job, training or employment support. Those who refuse to take up help could lose their benefits.
+Milburn is also expected to say that helping young people develop skills is pointless if there are no jobs available for them.
+The former health secretary will recommend doubling the threshold at which businesses start paying NI for 21 to 24-year-olds from £5,000 to £10,000.
+But he will say this should only be done "when fiscal conditions allow".
+Immediately axing NI for 21 to 24-year-olds would cost £5.1bn, according to research by the Resolution Foundation, a left-leaning think tank.
+Milburn is set to say that given the UK's fiscal position, an immediate across-the-board cut in employer NI is not the best use of several billions of pounds of public money.
+'Government's foot firmly on my neck'
+But Collette Osborne, a hairdresser who owns three salons in Nottingham, said she feels "suffocated by employment costs" including NI and the minimum wage.
+She said she used to employ eight apprentices a year, now she cannot afford to take on any. Her workforce has more than halved to 21 staff.
+Osborne told the BBC it costs "around £60,000 to train an apprentice before we can actually start allowing them onto customers' heads".
+She said she has had parents so desperate for their children to find employment at her salons that some have even offered to pay their wages.
+"I'm inundated with applications - and I mean inundated - which is heartbreaking because I can't take them on," she said.
+Osborne does not feel she is getting help to offer jobs to youngsters.
+"I feel like the government's foot is firmly on my neck," she said. "They promise breathing space. I feel suffocated, suffocated by employment costs."
+Milburn told the BBC's Sunday with Laura Kuenssberg programme he agreed with a recent move by Chancellor John Healey to slow down the equalisation of the national minimum wage across age groups.
+Labour had pledged in its manifesto to remove "discriminatory age bands" and close the gap between adult minimum wages and pay for 18 to 20-year-olds.
+But in his Budget, Healey said pay for that age group would rise from £10.85 to £11.27 an hour in April next year while people aged 21 and over will see their wages increase from £12.71 to £13.21.
+"I understand why because nobody wants to see young workers on poverty pay," Milburn said, but he said it "imposed a lot of costs on [the] government".
+"I think we have got to look very carefully at the convergence issue," he said.
+Milburn said he supported the government subsidising wages to encourage businesses to take on young workers.
+"Because young people today are walking into the workplace often with a mental health problem, ADHD or anxiety, if you're a small business that's a cost that you've got to absorb," he said.
+"The state has a responsibility to help them with that."
+On Sunday, Work and Pensions Secretary Pat McFadden said the government would extend its subsidised jobs guarantee scheme for 18 to 24-year-olds who are claiming Universal Credit.
+People who have been on benefits for 12 months will be eligible, down from 18 months and the scheme would be available for people in England, Scotland and Wales.
+McFadden said the scheme, which guarantees workers a six-month job, "will help more than 90,000 young people into work by March 2029".
+But Whately said it is "just absurd that they are taxing businesses here and they're going to subsidise things that look like jobs over here. Just stop doing the taxing".
+She said the Tories want to halve employer NI costs "because I talk to businesses who say they really want to employ young people but they just can't afford to anymore and the regulation that the Labour Party has put in place has made it harder".
+Milburn will say that if the government does go ahead with a gradual reduction in NI over five years, it should start with businesses such as shops, bars and restaurants.
+Retail and hospitality together provide 37% of jobs for young people aged between 16 and 24.
+Additional reporting by Ollie Smith
+Related topics
+- Published3 days ago`,
+    bodyJa: `Cut national insurance for under-25s to create jobs, Milburn report to say
+- Published
+National Insurance (NI) paid by businesses on workers aged under 25 should be gradually lowered to encourage companies to create jobs for young people, a major review of youth unemployment will say.
+A report by former Labour minister Alan Milburn will suggest the government should reduce NI costs over five years for people aged between 21 and 24 years old, starting in retail and hospitality.
+Under Sir Keir Starmer, the government raised NI for firms. Milburn will say the number of young people not in employment, education or training - known as Neets - was not started by the NI rise.
+But shadow work and pensions secretary, Helen Whately, said the government should "just stop doing the taxing".
+The independent report, which has been in the works for a year and will be published on Tuesday, will also make recommendations on reducing the UK's benefits bill.
+Milburn has said the government spends £22bn a year supporting young people who are economically inactive. There are nearly one million so-called Neets aged between 16 and 24 in the UK, according to data from the Office for National Statistics.
+He will recommend that under-25s should no longer be able to claim the health element of UK-wide Universal Credit or personal independence payment (Pip), which is the main disability benefit in England and Wales.
+Milburn wants the government to provide a legal guarantee of a job, training or employment support. Those who refuse to take up help could lose their benefits.
+Milburn is also expected to say that helping young people develop skills is pointless if there are no jobs available for them.
+The former health secretary will recommend doubling the threshold at which businesses start paying NI for 21 to 24-year-olds from £5,000 to £10,000.
+But he will say this should only be done "when fiscal conditions allow".
+Immediately axing NI for 21 to 24-year-olds would cost £5.1bn, according to research by the Resolution Foundation, a left-leaning think tank.
+Milburn is set to say that given the UK's fiscal position, an immediate across-the-board cut in employer NI is not the best use of several billions of pounds of public money.
+'Government's foot firmly on my neck'
+But Collette Osborne, a hairdresser who owns three salons in Nottingham, said she feels "suffocated by employment costs" including NI and the minimum wage.
+She said she used to employ eight apprentices a year, now she cannot afford to take on any. Her workforce has more than halved to 21 staff.
+Osborne told the BBC it costs "around £60,000 to train an apprentice before we can actually start allowing them onto customers' heads".
+She said she has had parents so desperate for their children to find employment at her salons that some have even offered to pay their wages.
+"I'm inundated with applications - and I mean inundated - which is heartbreaking because I can't take them on," she said.
+Osborne does not feel she is getting help to offer jobs to youngsters.
+"I feel like the government's foot is firmly on my neck," she said. "They promise breathing space. I feel suffocated, suffocated by employment costs."
+Milburn told the BBC's Sunday with Laura Kuenssberg programme he agreed with a recent move by Chancellor John Healey to slow down the equalisation of the national minimum wage across age groups.
+Labour had pledged in its manifesto to remove "discriminatory age bands" and close the gap between adult minimum wages and pay for 18 to 20-year-olds.
+But in his Budget, Healey said pay for that age group would rise from £10.85 to £11.27 an hour in April next year while people aged 21 and over will see their wages increase from £12.71 to £13.21.
+"I understand why because nobody wants to see young workers on poverty pay," Milburn said, but he said it "imposed a lot of costs on [the] government".
+"I think we have got to look very carefully at the convergence issue," he said.
+Milburn said he supported the government subsidising wages to encourage businesses to take on young workers.
+"Because young people today are walking into the workplace often with a mental health problem, ADHD or anxiety, if you're a small business that's a cost that you've got to absorb," he said.
+"The state has a responsibility to help them with that."
+On Sunday, Work and Pensions Secretary Pat McFadden said the government would extend its subsidised jobs guarantee scheme for 18 to 24-year-olds who are claiming Universal Credit.
+People who have been on benefits for 12 months will be eligible, down from 18 months and the scheme would be available for people in England, Scotland and Wales.
+McFadden said the scheme, which guarantees workers a six-month job, "will help more than 90,000 young people into work by March 2029".
+But Whately said it is "just absurd that they are taxing businesses here and they're going to subsidise things that look like jobs over here. Just stop doing the taxing".
+She said the Tories want to halve employer NI costs "because I talk to businesses who say they really want to employ young people but they just can't afford to anymore and the regulation that the Labour Party has put in place has made it harder".
+Milburn will say that if the government does go ahead with a gradual reduction in NI over five years, it should start with businesses such as shops, bars and restaurants.
+Retail and hospitality together provide 37% of jobs for young people aged between 16 and 24.
+Additional reporting by Ollie Smith
+Related topics
+- Published3 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-15T22:30:03+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad4a/live/a30d20c0-e117-11f1-a7db-d90284d21c62.png",
+    readTime: 10,
+  },
+  {
+    id: "uk-will-have-voice-but-no-vote-on-eu-foo-d57dbf74",
+    title: "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+    titleJa: "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+    summaryJa: "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+    bodyOriginal: `UK will have 'voice' but no vote on EU food rules in Brexit reset
+- Published
+The UK will have a "voice in the room" but no vote on European Union food policies as part of a so-called "Brexit reset" to reduce red tape, EU relations minister Hamish Falconer has told the BBC.
+Prime Minister Andy Burnham hopes to agree a deal at a summit on Friday but critics have said a reset will make the UK "a rule taker" but not a rule maker.
+Falconer said the UK will be involved in a process to shape the rules and said the deal could help bring down prices for shoppers.
+The reset would not involve any upfront payments, Falconer added, but made it clear there could well be an "exit clause" in case a future UK government reversed the closer alignment.
+Falconer said it was "reasonable" to consider what would happen if a future Conservative or Reform government wanted to undo the new arrangements.
+"The EU is worried about that and you can see why," he said.
+The BBC understands that the clause is a result of EU concerns about the possible cost of having to rebuild facilities for border food safety checks which were put in place following Brexit.
+The reset means they will be dismantled.
+In September, the Conservative Party said it was "raising the alarm" over the government's planned reset, saying it would leave British consumers and businesses "dangerously exposed, with no input on how regulations are made or power to reject them".
+Both the Conservatives and Reform have said they would undo the planned reset if they were in power.
+The prime minister has said he believes there is a "win-win" deal to be had with the EU.
+Speaking at a Marks & Spencer food court in central London, Falconer said the deal would help bring down costs for firms importing food.
+"This will mean less cost for supermarkets, and I hope that less cost then turns into cheaper produce on the shelves," he said.
+He said currently "pages and pages" of form-filling meant some suppliers had given up exporting to the EU and some products, such as Lincolnshire sausages, meant they were almost impossible to export at all.
+Some M&S trucks require over 300 pages of documents for food exports, from export health certificates, phytosanitary certificates, visits from vets and border check paperwork.
+Some exports are rejected for having the wrong colour of ink on forms, or an inaccurate Latin name for cooked meats.
+"The amount of paperwork you would need to do, the amount of uncertainty - you have to have it in the right pen colour, if it's not black, it might be refused," Falconer said.
+"If you're selling Cox apples from Kent, they have to wait a day before they go into the European Union."
+The reset could also mean "tearing up" checks that were introduced on goods flowing from Great Britain to Northern Ireland, following Brexit, he said, as well as separate "Not for EU" labelling.
+Falconer said the impact of the reset deal for food would be an additional £5bn.
+The whole deal to be signed on Friday is calculated to add 0.4% to UK GDP.
+This wider agreement includes aligning emissions trading rules, and agreeing to a youth mobility scheme, as well as the reset on food trading.
+Tom Bradshaw, president of the National Farmers' Union, welcomed reduced border inspections and paperwork but said that for the NFU it was "a moment of opportunity and risk" with farmers waiting to see what carve-outs and transitional arrangements would be included.
+Trade volumes in food exports to the EU had "fallen significantly - by over a third" since 2019, he said.
+But the UK should take a "pragmatic" approach to implementing any new rules.
+He raised pesticides and precision breeding - or gene edited crops - as areas where he hoped some compromise would be found.
+UK firms are, for example, developing tomatoes engineered to contain extra vitamin D.
+Historically the EU has had much stricter rules on gene-editing, but this year relaxed regulations.
+Falconer said people would have to "wait and see the detail" in this area.
+He said there were bound to be compromises and trade-offs in any deal but that where the UK had advantages the government wanted to make sure "those aren't lost under the deal".
+Crisp flavourings a contentious area
+Another contentious area has been crisp flavourings, with concerns raised that stricter EU rules on certain ingredients might limit the sale of some popular snack flavours in the UK.
+"I want to take this opportunity to absolutely stamp down on misinformation about smoky bacon crisps," Falconer said.
+Post-Brexit the UK had stayed "pretty closely aligned" to European food safety standards, he said.
+Two leading snack brands had already adapted their recipes to accommodate EU rules, an example of the kind of alignment that would happen whether or not there was a reset of UK-EU relations.
+"The truth is, almost every business in this country that wants to export food or drink will be aligning with EU rules because it's our biggest market.
+"Lots of people, like the good people at Walkers and Frazzles have made these changes already, so I would want to reassure people, particularly smoky bacon fans, it's okay," he said.
+- Published6 days ago
+- Published14 September
+- Published1 November`,
+    bodyJa: `UK will have 'voice' but no vote on EU food rules in Brexit reset
+- Published
+The UK will have a "voice in the room" but no vote on European Union food policies as part of a so-called "Brexit reset" to reduce red tape, EU relations minister Hamish Falconer has told the BBC.
+Prime Minister Andy Burnham hopes to agree a deal at a summit on Friday but critics have said a reset will make the UK "a rule taker" but not a rule maker.
+Falconer said the UK will be involved in a process to shape the rules and said the deal could help bring down prices for shoppers.
+The reset would not involve any upfront payments, Falconer added, but made it clear there could well be an "exit clause" in case a future UK government reversed the closer alignment.
+Falconer said it was "reasonable" to consider what would happen if a future Conservative or Reform government wanted to undo the new arrangements.
+"The EU is worried about that and you can see why," he said.
+The BBC understands that the clause is a result of EU concerns about the possible cost of having to rebuild facilities for border food safety checks which were put in place following Brexit.
+The reset means they will be dismantled.
+In September, the Conservative Party said it was "raising the alarm" over the government's planned reset, saying it would leave British consumers and businesses "dangerously exposed, with no input on how regulations are made or power to reject them".
+Both the Conservatives and Reform have said they would undo the planned reset if they were in power.
+The prime minister has said he believes there is a "win-win" deal to be had with the EU.
+Speaking at a Marks & Spencer food court in central London, Falconer said the deal would help bring down costs for firms importing food.
+"This will mean less cost for supermarkets, and I hope that less cost then turns into cheaper produce on the shelves," he said.
+He said currently "pages and pages" of form-filling meant some suppliers had given up exporting to the EU and some products, such as Lincolnshire sausages, meant they were almost impossible to export at all.
+Some M&S trucks require over 300 pages of documents for food exports, from export health certificates, phytosanitary certificates, visits from vets and border check paperwork.
+Some exports are rejected for having the wrong colour of ink on forms, or an inaccurate Latin name for cooked meats.
+"The amount of paperwork you would need to do, the amount of uncertainty - you have to have it in the right pen colour, if it's not black, it might be refused," Falconer said.
+"If you're selling Cox apples from Kent, they have to wait a day before they go into the European Union."
+The reset could also mean "tearing up" checks that were introduced on goods flowing from Great Britain to Northern Ireland, following Brexit, he said, as well as separate "Not for EU" labelling.
+Falconer said the impact of the reset deal for food would be an additional £5bn.
+The whole deal to be signed on Friday is calculated to add 0.4% to UK GDP.
+This wider agreement includes aligning emissions trading rules, and agreeing to a youth mobility scheme, as well as the reset on food trading.
+Tom Bradshaw, president of the National Farmers' Union, welcomed reduced border inspections and paperwork but said that for the NFU it was "a moment of opportunity and risk" with farmers waiting to see what carve-outs and transitional arrangements would be included.
+Trade volumes in food exports to the EU had "fallen significantly - by over a third" since 2019, he said.
+But the UK should take a "pragmatic" approach to implementing any new rules.
+He raised pesticides and precision breeding - or gene edited crops - as areas where he hoped some compromise would be found.
+UK firms are, for example, developing tomatoes engineered to contain extra vitamin D.
+Historically the EU has had much stricter rules on gene-editing, but this year relaxed regulations.
+Falconer said people would have to "wait and see the detail" in this area.
+He said there were bound to be compromises and trade-offs in any deal but that where the UK had advantages the government wanted to make sure "those aren't lost under the deal".
+Crisp flavourings a contentious area
+Another contentious area has been crisp flavourings, with concerns raised that stricter EU rules on certain ingredients might limit the sale of some popular snack flavours in the UK.
+"I want to take this opportunity to absolutely stamp down on misinformation about smoky bacon crisps," Falconer said.
+Post-Brexit the UK had stayed "pretty closely aligned" to European food safety standards, he said.
+Two leading snack brands had already adapted their recipes to accommodate EU rules, an example of the kind of alignment that would happen whether or not there was a reset of UK-EU relations.
+"The truth is, almost every business in this country that wants to export food or drink will be aligning with EU rules because it's our biggest market.
+"Lots of people, like the good people at Walkers and Frazzles have made these changes already, so I would want to reassure people, particularly smoky bacon fans, it's okay," he said.
+- Published6 days ago
+- Published14 September
+- Published1 November`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-15T22:00:24+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81c7/live/353868b0-6be8-11f1-aa71-afd82ef74c53.jpg",
+    readTime: 10,
+  },
+  {
     id: "we-slept-here-flight-delays-linger-but-63ca4a0b",
     title: "'We slept here': Flight delays linger but schedule is back on track for Monday",
     titleJa: "'We slept here': Flight delays linger but schedule is back on track for Monday",
@@ -1359,426 +1885,6 @@ The major U.S. airlines issued statements saying they would work with customers 
     category: "金融政策",
     imageUrl: "https://images.mktw.net/im-14527198",
     readTime: 2,
-  },
-  {
-    id: "14-dividend-stocks-selected-for-long-ter-9860327d",
-    title: "14 dividend stocks selected for long-term growth",
-    titleJa: "14 dividend stocks selected for long-term growth",
-    summaryJa: "These stocks feature attractive dividend payouts and are trading low to the companies’ intrinsic value, according to John Buckingham of Value87 Investment Partners.",
-    bodyOriginal: `These stocks feature attractive dividend payouts and are trading low to the companies’ intrinsic value, according to John Buckingham of Value87 Investment Partners.`,
-    bodyJa: `These stocks feature attractive dividend payouts and are trading low to the companies’ intrinsic value, according to John Buckingham of Value87 Investment Partners.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
-    publishedAt: "2026-11-14T01:58:00+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.mktw.net/im-27014870",
-    readTime: 2,
-  },
-  {
-    id: "trump-doesn-t-plan-to-raise-nvidia-spy-i-007e0f59",
-    title: "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
-    titleJa: "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
-    summaryJa: "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
-    bodyOriginal: `President Donald Trump is not expected to raise allegations of a Chinese intelligence operation involving former Nvidia CEO Jensen Huang during his upcoming meeting with Chinese President Xi Jinping, senior U.S. officials said Friday.
-Officials also said that Elon Musk, the CEO of Tesla and SpaceX, will accompany Trump on the trip to Shenzhen, China, for the Asia-Pacific Economic Cooperation summit on Nov. 18 and 19.
-The White House, earlier Friday, said Trump plans to have a three-way summit there with Xi and Russian President Vladimir Putin.
-Jensen Huang's relationship with the suspected spy, Alice Huang, who is not related to him, has raised concerns that a Singapore-based company where she was an executive diverted restricted Nvidia chips to China.
-"The situation with Nvidia should not really have any bearing on the trip," an official said on the press call, speaking on the condition that they not be identified.
-"In all of our discussions and negotiations with the Chinese, we do not negotiate American export controls ... and we don't expect it to figure at all in any of our conversations with the Chinese while we're there."
-Asked if Trump would raise the allegations against Alice Huang to Chinese leader Xi Jinping, the official said, "The focus of a meeting with President Xi, at least on the economic side, is going to be about implementation of the trade agreement."
-"When it comes to some of these national security matters and examinations and investigations that are going on in the U.S., [that is] probably not something that we're going to read the Chinese in on at this moment," the official said.
-Another official said, "I don't expect the president to raise it — the Alice Huang issue."
-China has called the allegations against Alice Huang baseless.
-Huang resigned this week as Nvidia's CEO after damning reports that he had an affair with Alice Huang, who was an executive of Megaspeed, a cloud-computing company that is being eyed for possible facilitation of sending billions of dollars worth of Nvidia chips in violation of U.S. restrictions on those chips.
-The scandal has rocked Nvidia and raised questions about whether the Commerce Department, which is led by Howard Lutnick, has been aggressive enough at blocking advanced chips from ending up in China.
-During Friday's call, a reporter asked why Musk was going on the trip with Trump.
-"I don't want to speak for the president on exactly why Elon's going," an official said.
-"Obviously, he has tremendous business interests in the U.S.-China relationship. He's a big part of our national security," the official said. "There are numerous reasons, given the engagement that the president is going to have, where I think Elon would be of tremendous benefit, just even as an advisor to the president."`,
-    bodyJa: `President Donald Trump is not expected to raise allegations of a Chinese intelligence operation involving former Nvidia CEO Jensen Huang during his upcoming meeting with Chinese President Xi Jinping, senior U.S. officials said Friday.
-Officials also said that Elon Musk, the CEO of Tesla and SpaceX, will accompany Trump on the trip to Shenzhen, China, for the Asia-Pacific Economic Cooperation summit on Nov. 18 and 19.
-The White House, earlier Friday, said Trump plans to have a three-way summit there with Xi and Russian President Vladimir Putin.
-Jensen Huang's relationship with the suspected spy, Alice Huang, who is not related to him, has raised concerns that a Singapore-based company where she was an executive diverted restricted Nvidia chips to China.
-"The situation with Nvidia should not really have any bearing on the trip," an official said on the press call, speaking on the condition that they not be identified.
-"In all of our discussions and negotiations with the Chinese, we do not negotiate American export controls ... and we don't expect it to figure at all in any of our conversations with the Chinese while we're there."
-Asked if Trump would raise the allegations against Alice Huang to Chinese leader Xi Jinping, the official said, "The focus of a meeting with President Xi, at least on the economic side, is going to be about implementation of the trade agreement."
-"When it comes to some of these national security matters and examinations and investigations that are going on in the U.S., [that is] probably not something that we're going to read the Chinese in on at this moment," the official said.
-Another official said, "I don't expect the president to raise it — the Alice Huang issue."
-China has called the allegations against Alice Huang baseless.
-Huang resigned this week as Nvidia's CEO after damning reports that he had an affair with Alice Huang, who was an executive of Megaspeed, a cloud-computing company that is being eyed for possible facilitation of sending billions of dollars worth of Nvidia chips in violation of U.S. restrictions on those chips.
-The scandal has rocked Nvidia and raised questions about whether the Commerce Department, which is led by Howard Lutnick, has been aggressive enough at blocking advanced chips from ending up in China.
-During Friday's call, a reporter asked why Musk was going on the trip with Trump.
-"I don't want to speak for the president on exactly why Elon's going," an official said.
-"Obviously, he has tremendous business interests in the U.S.-China relationship. He's a big part of our national security," the official said. "There are numerous reasons, given the engagement that the president is going to have, where I think Elon would be of tremendous benefit, just even as an advisor to the president."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
-    publishedAt: "2026-11-14T01:34:11+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "spacex-launches-starship-in-key-test-fli-f7d6831c",
-    title: "SpaceX launches Starship in key test flight of massive rocket",
-    titleJa: "SpaceX launches Starship in key test flight of massive rocket",
-    summaryJa: "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.",
-    bodyOriginal: `In a key test flight on Friday, SpaceX tried but failed to recover both stages of its massive Starship rocket.
-The rocket lifted off from the company's South Texas launch facility at 4:47 p.m. local time, or 5:47 p.m. ET. SpaceX had to abort its plans to catch and reuse the booster, instead diverting it to splash into the Gulf of Mexico, where it burst into flames.
-Test Flight 15, the most ambitious Starship mission to date, was the first time Elon Musk's company attempted to catch both the booster and upper stage, or spacecraft portion, of the massive rocket.
-Earlier on Friday, SpaceX obtained authorization from the Federal Aviation Administration. Hours later, the FAA issued a nationwide ground stop after reporting communication problems affecting "multiple" air traffic control centers. The SpaceX license wasn't effected by the flight stoppage, a spokesperson for the FAA told CNBC.
-The upper stage of the Starship continued its trajectory into orbit after the company failed to catch and salvage the booster. The rocket is expected to fly around the Earth fourteen times in total. If successful, SpaceX will land the upper stage back at its Starbase facility on Saturday.
-Starship's success is critical to SpaceX and its ambitions to eventually lift cargo and people to the surface of the Moon and Mars. In the near-term, SpaceX needs to send more satellites into orbit to expands its Starlink satellite internet service, which is currently the company's profit center.
-The company's constellation already includes over 11,000 active satellites in low Earth orbit. One Starship rocket has the capacity to carry up to 60 Starlink v3 satellites into orbit, the company has said, representing about 20 times the capacity of earlier Falcon 9 rockets.
-In the previous Starship test flight, the company released 26 v3 satellites, and released another 26 in the Friday test flight, with the goal of "Starlink becoming 51% of the internet," SpaceX said in a post on X.
-When it comes to launches, "SpaceX is likely a full decade ahead of peers on this front," William Blair analysts wrote in a note out on Friday. "Even if tonight's catch is unsuccessful, a delay by a few months is not that consequential."
-Meanwhile, SpaceX is facing fresh criticism over restrictions imposed on its Starshield satellite internet service in Ukraine. Starshield is built on Starlink technology and is the military-tier of SpaceX's satellite internet service.
-Earlier this week, Ukraine President Volodymyr Zelenskyy said his country's military forces had experienced limits on Starshield without warning again, harming their ability to defend against Russia's ongoing aerial attacks. Similar limits on Starshield in Ukraine were temporarily imposed last month.
-Some U.S. senators have condemned the restrictions, and urged Congress to investigate SpaceX.`,
-    bodyJa: `In a key test flight on Friday, SpaceX tried but failed to recover both stages of its massive Starship rocket.
-The rocket lifted off from the company's South Texas launch facility at 4:47 p.m. local time, or 5:47 p.m. ET. SpaceX had to abort its plans to catch and reuse the booster, instead diverting it to splash into the Gulf of Mexico, where it burst into flames.
-Test Flight 15, the most ambitious Starship mission to date, was the first time Elon Musk's company attempted to catch both the booster and upper stage, or spacecraft portion, of the massive rocket.
-Earlier on Friday, SpaceX obtained authorization from the Federal Aviation Administration. Hours later, the FAA issued a nationwide ground stop after reporting communication problems affecting "multiple" air traffic control centers. The SpaceX license wasn't effected by the flight stoppage, a spokesperson for the FAA told CNBC.
-The upper stage of the Starship continued its trajectory into orbit after the company failed to catch and salvage the booster. The rocket is expected to fly around the Earth fourteen times in total. If successful, SpaceX will land the upper stage back at its Starbase facility on Saturday.
-Starship's success is critical to SpaceX and its ambitions to eventually lift cargo and people to the surface of the Moon and Mars. In the near-term, SpaceX needs to send more satellites into orbit to expands its Starlink satellite internet service, which is currently the company's profit center.
-The company's constellation already includes over 11,000 active satellites in low Earth orbit. One Starship rocket has the capacity to carry up to 60 Starlink v3 satellites into orbit, the company has said, representing about 20 times the capacity of earlier Falcon 9 rockets.
-In the previous Starship test flight, the company released 26 v3 satellites, and released another 26 in the Friday test flight, with the goal of "Starlink becoming 51% of the internet," SpaceX said in a post on X.
-When it comes to launches, "SpaceX is likely a full decade ahead of peers on this front," William Blair analysts wrote in a note out on Friday. "Even if tonight's catch is unsuccessful, a delay by a few months is not that consequential."
-Meanwhile, SpaceX is facing fresh criticism over restrictions imposed on its Starshield satellite internet service in Ukraine. Starshield is built on Starlink technology and is the military-tier of SpaceX's satellite internet service.
-Earlier this week, Ukraine President Volodymyr Zelenskyy said his country's military forces had experienced limits on Starshield without warning again, harming their ability to defend against Russia's ongoing aerial attacks. Similar limits on Starshield in Ukraine were temporarily imposed last month.
-Some U.S. senators have condemned the restrictions, and urged Congress to investigate SpaceX.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
-    publishedAt: "2026-11-14T01:18:51+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "nvidia-is-done-with-jensen-huang-the-fal-5b538cd5",
-    title: "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
-    titleJa: "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
-    summaryJa: "The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.",
-    bodyOriginal: `Jensen Huang is out at Nvidia. Washington is just getting started with him and the company he co-founded.
-Huang, the leather-jacket-clad CEO of the world's most important chipmaker, resigned from Nvidia on Thursday after revelations that he had an affair with a suspected Chinese spy. But the spy saga is gripping Washington, and lawmakers are preparing for investigations into how the now-ex-CEO's affair may have damaged U.S. artificial intelligence dominance, the national security implications and the executive's close relationship with President Donald Trump and his Cabinet.
-Republicans will have their chance first during their last six weeks controlling both chambers of Congress. GOP leaders immediately summoned Huang to Capitol Hill and said they would subpoena him if he doesn't agree to show up. In January, Democrats, who are already eager to make their mark with oversight when they take over the U.S. House and Senate, will be in the driver's seat.
-"In this environment where there's some really high stakes when it comes to our national security, I would expect there would be some follow-up, yeah," Senate Majority Leader John Thune, R-S.D., told reporters at the Capitol on Thursday.
-Huang and the woman with whom he reportedly had a relationship, Alice Huang, an executive at the Singaporean technology company Megaspeed and an alleged Chinese spy have drawn congressional attention. And Commerce Secretary Howard Lutnick has drawn fire after reports this week that he stalled President Donald Trump's crackdowns on firms routing Nvidia chips to China.
-Some Congress members have also called for an investigation into the role of the Bureau of Industry and Security, a subagency of the Commerce Department that manages and enforces export controls, in the Huang scandal.
-The New York Times reported on Monday that Nvidia's general counsel, Tim Teter, claimed in emails to Commerce investigators probing Alice Huang's company that he'd been in touch with Jeffrey Kessler, who leads BIS. The Commerce investigation into Megaspeed, which allegedly smuggled restricted chips to China, was then transferred to the Justice Department.
-By Thursday night, Senate banking committee Chair Tim Scott, R-S.C., summoned both Huang and Lutnick to testify before his committee in December. Later that same night, Lutnick had "proactively agreed to appear voluntarily before the Banking Committee to address their questions," Kristen Eichamer, a Commerce Department spokesperson, said in a statement.
-Scott threatened to subpoena Huang if he does not appear. A banking panel spokesperson did not immediately respond Friday morning when asked if they'd heard from Huang.
-"Recent reports raise serious concerns about our national security and the protection of sensitive U.S. technology," Scott wrote to Huang. "The American people deserve answers."
-And with Democrats poised to take control of both chambers come January, the tech mogul's close ties to the White House will add fuel to an already burning fire as the new majority spools up myriad investigations into the Trump administration.
-Senate Minority Leader Chuck Schumer, D-N.Y., in a post to X on Thursday, said "Congress must demand answers from Mr. Huang and others at Nvidia about how they may have put U.S. national security at risk." Schumer is in a contested race to become Senate majority leader in the next Congress.
-The senators who will lead those investigations, and hold subpoena power in the new Congress, are gearing up for Nvidia to take center stage.
-Sen. Elizabeth Warren, D-Mass., the likely incoming chair of the Senate banking panel, said in a statement Thursday that "Mr. Huang, NVIDIA executives, and NVIDIA's board of directors still owe Congress answers about the company's compliance with U.S. export controls
-Warren and Sen. Chris Coons, D-Del., the top Democrat on the Senate Foreign Relations subpanel with jurisdiction over East Asia and the Pacific, sent a letter Wednesday to Lutnick, Secretary of State Marco Rubio and White House Chief of Staff Stephen Miller instructing them to preserve all documents and communications related to Nvidia's exports of "advanced AI chips to China or to entities that may divert such chips to China."
-Even before Democrats take control in January, Huang is expected to appear before Congress.
-House Foreign Affairs Committee Chair Brian Mast, R-Fla., is actively negotiating for Huang to testify before House committees and told reporters Thursday the Nvidia CEO has agreed to appear in the coming weeks.
-Details of that testimony are still being worked out, Mast said. It would likely include his committee, as well as the House intelligence panel and the House Permanent Select Committee on China, and it would be under oath and transcribed. It's not clear at this point whether it would be public.
-"We want to see him basically in a week … Sooner rather than later," Mast told reporters Thursday, adding that he believed it would happen before Thanksgiving.
-If Huang doesn't willingly appear, Mast said he will subpoena him.
-Mast, along with House Select China Committee Chair Rep. John Moolenaar, R-Mich., and House Intelligence Committee Chair Rep. Rick Crawford, R-Ark., sent a second request Thursday to Huang and Teter requesting they appear and giving them an 8 p.m. ET Friday deadline to respond. Mast also sent a second request to Kessler.
-Rep. Josh Gottheimer, D-N.J., a member of the House Intelligence Committee, said Friday during an appearance on CNBC's "The Exchange" that he wants answers from Huang on the national security and export implications of the affair.
-"From an intelligence committee perspective, you can imagine from an AI perspective, how important this is for our national security, for our critical infrastructure and understand when it comes to chip policy, what exactly got to China and ... did Megaspeed divert chips?" Gottheimer said.
-The calls for immediate investigation into Huang and Nvidia on the day of his resignation represent a stunning fall from grace in the halls of power for the former CEO. Huang was one of the most effective voices for the AI industry in Washington — able to toggle between leveraging his relationship with Trump and defending his industry from fears about AI's risks to lawmakers.
-"He is always the TED Talk guy," one senior Democratic staff member who was granted anonymity to describe private meetings they had attended with Huang, told CNBC. "He's really good and articulate, and really good at explaining why AI is important and why it's so important for the United States to be leading here."
-The staffer said Huang was a "happy warrior" for AI, and stayed longer than scheduled or anticipated for questions from lawmakers. But in the meetings with lawmakers the aide attended, they said Huang did not aggressively push against export controls or get too "deep in the weeds" to really "lobby one way or the other" with the lawmakers.
-Huang has repeatedly resisted export controls publicly, a move that has rubbed some lawmakers the wrong way.
-Some lawmakers even lamented the loss of Huang, despite the inevitable buzzsaw he now faces on Capitol Hill.
-"It's just sad all around," Sen. John Fetterman, D-Pa., said of Huang's resignation.`,
-    bodyJa: `Jensen Huang is out at Nvidia. Washington is just getting started with him and the company he co-founded.
-Huang, the leather-jacket-clad CEO of the world's most important chipmaker, resigned from Nvidia on Thursday after revelations that he had an affair with a suspected Chinese spy. But the spy saga is gripping Washington, and lawmakers are preparing for investigations into how the now-ex-CEO's affair may have damaged U.S. artificial intelligence dominance, the national security implications and the executive's close relationship with President Donald Trump and his Cabinet.
-Republicans will have their chance first during their last six weeks controlling both chambers of Congress. GOP leaders immediately summoned Huang to Capitol Hill and said they would subpoena him if he doesn't agree to show up. In January, Democrats, who are already eager to make their mark with oversight when they take over the U.S. House and Senate, will be in the driver's seat.
-"In this environment where there's some really high stakes when it comes to our national security, I would expect there would be some follow-up, yeah," Senate Majority Leader John Thune, R-S.D., told reporters at the Capitol on Thursday.
-Huang and the woman with whom he reportedly had a relationship, Alice Huang, an executive at the Singaporean technology company Megaspeed and an alleged Chinese spy have drawn congressional attention. And Commerce Secretary Howard Lutnick has drawn fire after reports this week that he stalled President Donald Trump's crackdowns on firms routing Nvidia chips to China.
-Some Congress members have also called for an investigation into the role of the Bureau of Industry and Security, a subagency of the Commerce Department that manages and enforces export controls, in the Huang scandal.
-The New York Times reported on Monday that Nvidia's general counsel, Tim Teter, claimed in emails to Commerce investigators probing Alice Huang's company that he'd been in touch with Jeffrey Kessler, who leads BIS. The Commerce investigation into Megaspeed, which allegedly smuggled restricted chips to China, was then transferred to the Justice Department.
-By Thursday night, Senate banking committee Chair Tim Scott, R-S.C., summoned both Huang and Lutnick to testify before his committee in December. Later that same night, Lutnick had "proactively agreed to appear voluntarily before the Banking Committee to address their questions," Kristen Eichamer, a Commerce Department spokesperson, said in a statement.
-Scott threatened to subpoena Huang if he does not appear. A banking panel spokesperson did not immediately respond Friday morning when asked if they'd heard from Huang.
-"Recent reports raise serious concerns about our national security and the protection of sensitive U.S. technology," Scott wrote to Huang. "The American people deserve answers."
-And with Democrats poised to take control of both chambers come January, the tech mogul's close ties to the White House will add fuel to an already burning fire as the new majority spools up myriad investigations into the Trump administration.
-Senate Minority Leader Chuck Schumer, D-N.Y., in a post to X on Thursday, said "Congress must demand answers from Mr. Huang and others at Nvidia about how they may have put U.S. national security at risk." Schumer is in a contested race to become Senate majority leader in the next Congress.
-The senators who will lead those investigations, and hold subpoena power in the new Congress, are gearing up for Nvidia to take center stage.
-Sen. Elizabeth Warren, D-Mass., the likely incoming chair of the Senate banking panel, said in a statement Thursday that "Mr. Huang, NVIDIA executives, and NVIDIA's board of directors still owe Congress answers about the company's compliance with U.S. export controls
-Warren and Sen. Chris Coons, D-Del., the top Democrat on the Senate Foreign Relations subpanel with jurisdiction over East Asia and the Pacific, sent a letter Wednesday to Lutnick, Secretary of State Marco Rubio and White House Chief of Staff Stephen Miller instructing them to preserve all documents and communications related to Nvidia's exports of "advanced AI chips to China or to entities that may divert such chips to China."
-Even before Democrats take control in January, Huang is expected to appear before Congress.
-House Foreign Affairs Committee Chair Brian Mast, R-Fla., is actively negotiating for Huang to testify before House committees and told reporters Thursday the Nvidia CEO has agreed to appear in the coming weeks.
-Details of that testimony are still being worked out, Mast said. It would likely include his committee, as well as the House intelligence panel and the House Permanent Select Committee on China, and it would be under oath and transcribed. It's not clear at this point whether it would be public.
-"We want to see him basically in a week … Sooner rather than later," Mast told reporters Thursday, adding that he believed it would happen before Thanksgiving.
-If Huang doesn't willingly appear, Mast said he will subpoena him.
-Mast, along with House Select China Committee Chair Rep. John Moolenaar, R-Mich., and House Intelligence Committee Chair Rep. Rick Crawford, R-Ark., sent a second request Thursday to Huang and Teter requesting they appear and giving them an 8 p.m. ET Friday deadline to respond. Mast also sent a second request to Kessler.
-Rep. Josh Gottheimer, D-N.J., a member of the House Intelligence Committee, said Friday during an appearance on CNBC's "The Exchange" that he wants answers from Huang on the national security and export implications of the affair.
-"From an intelligence committee perspective, you can imagine from an AI perspective, how important this is for our national security, for our critical infrastructure and understand when it comes to chip policy, what exactly got to China and ... did Megaspeed divert chips?" Gottheimer said.
-The calls for immediate investigation into Huang and Nvidia on the day of his resignation represent a stunning fall from grace in the halls of power for the former CEO. Huang was one of the most effective voices for the AI industry in Washington — able to toggle between leveraging his relationship with Trump and defending his industry from fears about AI's risks to lawmakers.
-"He is always the TED Talk guy," one senior Democratic staff member who was granted anonymity to describe private meetings they had attended with Huang, told CNBC. "He's really good and articulate, and really good at explaining why AI is important and why it's so important for the United States to be leading here."
-The staffer said Huang was a "happy warrior" for AI, and stayed longer than scheduled or anticipated for questions from lawmakers. But in the meetings with lawmakers the aide attended, they said Huang did not aggressively push against export controls or get too "deep in the weeds" to really "lobby one way or the other" with the lawmakers.
-Huang has repeatedly resisted export controls publicly, a move that has rubbed some lawmakers the wrong way.
-Some lawmakers even lamented the loss of Huang, despite the inevitable buzzsaw he now faces on Capitol Hill.
-"It's just sad all around," Sen. John Fetterman, D-Pa., said of Huang's resignation.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
-    publishedAt: "2026-11-13T23:54:36+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "how-the-jensen-huang-scandal-created-a-h-82e6d1dc",
-    title: "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-    titleJa: "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-    summaryJa: "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-    bodyOriginal: `How the Jensen Huang scandal created a headache for business-friendly Singapore
-- Published
-A major scandal involving Nvidia founder Jensen Huang and a suspected Chinese spy based in Singapore has cast a spotlight on the city-state's success as a global chip hub - and a location for alleged illicit trade.
-On Thursday, Huang stepped down from the US chip giant after admitting he had an affair. He was reportedly involved with a woman named Alice Huang, who ran Singaporean data centre company Megaspeed, a major buyer of Nvidia's chips.
-For decades, Singapore has painstakingly cultivated a reputation as an open, business-friendly economy offering easy access to both the US and Chinese markets.
-With the AI boom, it has become a major hub for the trade of high-end semiconductor chips in recent years.
-Singapore was the second-largest billing centre globally last year for Nvidia, accounting for nearly a fifth of what the US chip giant earns.
-But notably, less than 1% of its earnings were for chips that actually entered Singapore, as the island acts as a hub for many Asian companies to place orders and send them elsewhere.
-Since 2022, when the US restricted advanced American semiconductors from being exported to China or acquired by Chinese companies, US officials have been concerned that other countries such as Singapore could be used by Chinese companies to gain access to the chips.
-Megaspeed is a case in point.
-It became the biggest buyer of Nvidia's chips in South East Asia and is suspected of giving backdoor access to these chips to Chinese companies via its data centres in Malaysia, Indonesia and Thailand.
-While Singapore does not prohibit the transfer of advanced AI chips to companies abroad, such moves can breach US export controls.
-Singapore has said that while it does not enforce "unilateral export controls imposed by other countries" it expects all companies in its jurisdiction to respect such regulations.
-The city-state has had some success in policing this.
-It has charged four companies and five individuals - including Chinese nationals - for various offences including fraud, following US concerns that Chinese AI company DeepSeek had been buying Nvidia chips from third parties in Singapore, among other places.
-They also tried to probe Megaspeed, but were faced with a number of difficulties.
-In a statement released on Thursday, the government said that since February 2025, they had been looking into whether Megaspeed and other firms had made false declarations about data servers which were purchased and exported through Singapore.
-The companies stated the equipment would end up in neighbouring Malaysia, but Singapore authorities suspect the equipment's final destinations were elsewhere.
-Singapore said it sought assistance from US authorities several times to get more information from one of the investigated companies - Supermicro, a US-based company which the BBC understands was supplying computer servers to Megaspeed.
-But "despite these repeated requests, Singapore has to date received limited information or assistance", it said in its statement. The BBC has sought comment from the US State Department.
-Singapore authorities said they had also investigated Alice Huang - not for espionage, but for any possible role in Megaspeed's suspected fraud.
-In the end, they found "insufficient evidence" of crime and let her leave Singapore in February this year, after holding her passport for several months.
-Since launching their probe nearly two years ago, Singapore has yet to bring any charges against Megaspeed or any of the companies and individuals linked to the case.
-Singapore and US investigations into Megaspeed are still ongoing.
-In 2024, US officials had paid a visit to a Malaysian data centre owned by Megaspeed and saw Nvidia technology still in their boxes, raising concerns that Megaspeed was shipping high-end chips out elsewhere, according to a report by the New York Times.
-Last year, Megaspeed appeared to have imported 50,000 more chips than Nvidia could account for, according to a Bloomberg report. Nvidia later adjusted its own figures after visiting more warehouses.
-Megaspeed has maintained it has always acted lawfully and that previous inspections by authorities found no evidence of illegal activity.
-On Thursday, the company said it "welcomes appropriate government scrutiny" and that it is "committed to working constructively and transparently with the US government".
-China has also long refuted accusations that its companies and institutions are illegally obtaining high-end US chips.
-How Megaspeed and Alice Huang came to Singapore highlights other vulnerabilities stemming from the city-state's openness.
-In recent years, the city-state has become a prime destination for Chinese companies, with tech firms such as TikTok and Manus making it their global headquarters. Besides Singapore's ease of doing business, it has a population that is mostly ethnically Chinese and largely views China positively.
-For a Chinese firm, Singapore offers a base near the mainland and a "neutral address" that global customers and investors accept, said Winston Ma, adjunct professor at New York University's School of Law.
-But critics say this has given rise to "Singapore-washing", where Chinese companies use the city-state's clean image to obscure their origins, reduce suspicions and even cover up dubious activities.
-Washington-based security analysis group C4ADS told the BBC they had assessed Alice Huang's setup of Megaspeed to be such a case.
-BBC checks of corporate records in China, Hong Kong and Singapore found that in 2019, Huang sold a gaming company and its subsidiaries to Chinese gaming firm 7Road.
-In March 2023, a 7Road subsidiary in Singapore named Huang as its executive director. The next day it changed its name - to Megaspeed.
-Huang was in charge for eight months before she transferred the company to a Singaporean man.
-During this period, Megaspeed went through "a critical period of corporate restructuring and regional expansion", and her corporate relationships raised questions about whether "Megaspeed's Singaporean identity is genuine or effectively Chinese-controlled", according to C4ADS.
-Even after she transferred Megaspeed, C4ADS assessed that she was still "practically in control" of the company, based on her links to Megaspeed via another company as well as LinkedIn posts where she continued to identify herself as Megaspeed's "chairwoman" at conferences.
-Megaspeed has not answered BBC queries regarding the company's and Alice Huang's links to China and the Chinese government.
-All this reinforces the dilemma faced by Singapore.
-"For the longest time, Singapore has managed to enjoy the best of both worlds with excellent relations with US and China," Nanyang Technological University politics and international studies lecturer Dylan Loh said.
-Singapore has long positioned itself as a neutral party between the two superpowers. Its prime minister Lawrence Wong has insisted that his country is neither pro-China nor pro-America, but "pro-Singapore".
-But Loh says this balancing act "has now fast become very difficult to manage and sometimes quite fraught too" with the US-China dispute over chips.
-With the Megaspeed case, the tightrope Singapore has walked is set to get even narrower, according to analysts.
-Beijing may ask why Singapore is investigating issues pertaining to US restrictions and whether they are siding with the US' interests, says Chong Ja Ian, a Singaporean political scientist and non-resident scholar with Carnegie China.
-Washington, in turn, might read Singapore's latest statement as "pushing blame" on the US, which could lead to backlash from the White House, he said.
-"Singapore has made a policy position not to take sides. But by not choosing a side, they run the risk of being seen as complicit" in either side's agenda, he said.
-But Benjamin Ho, an assistant professor and China expert at Singapore's S Rajaratnam School of International Studies, noted that this was "not the first or last time Singapore will be caught between the US and China".
-"This is the price that an open economy has to grapple with - you get caught in the middle when things turn sour."
-Additional reporting by Jack Lau of the BBC's Global China Unit.
-- Published2 days ago
-- Published2 days ago`,
-    bodyJa: `How the Jensen Huang scandal created a headache for business-friendly Singapore
-- Published
-A major scandal involving Nvidia founder Jensen Huang and a suspected Chinese spy based in Singapore has cast a spotlight on the city-state's success as a global chip hub - and a location for alleged illicit trade.
-On Thursday, Huang stepped down from the US chip giant after admitting he had an affair. He was reportedly involved with a woman named Alice Huang, who ran Singaporean data centre company Megaspeed, a major buyer of Nvidia's chips.
-For decades, Singapore has painstakingly cultivated a reputation as an open, business-friendly economy offering easy access to both the US and Chinese markets.
-With the AI boom, it has become a major hub for the trade of high-end semiconductor chips in recent years.
-Singapore was the second-largest billing centre globally last year for Nvidia, accounting for nearly a fifth of what the US chip giant earns.
-But notably, less than 1% of its earnings were for chips that actually entered Singapore, as the island acts as a hub for many Asian companies to place orders and send them elsewhere.
-Since 2022, when the US restricted advanced American semiconductors from being exported to China or acquired by Chinese companies, US officials have been concerned that other countries such as Singapore could be used by Chinese companies to gain access to the chips.
-Megaspeed is a case in point.
-It became the biggest buyer of Nvidia's chips in South East Asia and is suspected of giving backdoor access to these chips to Chinese companies via its data centres in Malaysia, Indonesia and Thailand.
-While Singapore does not prohibit the transfer of advanced AI chips to companies abroad, such moves can breach US export controls.
-Singapore has said that while it does not enforce "unilateral export controls imposed by other countries" it expects all companies in its jurisdiction to respect such regulations.
-The city-state has had some success in policing this.
-It has charged four companies and five individuals - including Chinese nationals - for various offences including fraud, following US concerns that Chinese AI company DeepSeek had been buying Nvidia chips from third parties in Singapore, among other places.
-They also tried to probe Megaspeed, but were faced with a number of difficulties.
-In a statement released on Thursday, the government said that since February 2025, they had been looking into whether Megaspeed and other firms had made false declarations about data servers which were purchased and exported through Singapore.
-The companies stated the equipment would end up in neighbouring Malaysia, but Singapore authorities suspect the equipment's final destinations were elsewhere.
-Singapore said it sought assistance from US authorities several times to get more information from one of the investigated companies - Supermicro, a US-based company which the BBC understands was supplying computer servers to Megaspeed.
-But "despite these repeated requests, Singapore has to date received limited information or assistance", it said in its statement. The BBC has sought comment from the US State Department.
-Singapore authorities said they had also investigated Alice Huang - not for espionage, but for any possible role in Megaspeed's suspected fraud.
-In the end, they found "insufficient evidence" of crime and let her leave Singapore in February this year, after holding her passport for several months.
-Since launching their probe nearly two years ago, Singapore has yet to bring any charges against Megaspeed or any of the companies and individuals linked to the case.
-Singapore and US investigations into Megaspeed are still ongoing.
-In 2024, US officials had paid a visit to a Malaysian data centre owned by Megaspeed and saw Nvidia technology still in their boxes, raising concerns that Megaspeed was shipping high-end chips out elsewhere, according to a report by the New York Times.
-Last year, Megaspeed appeared to have imported 50,000 more chips than Nvidia could account for, according to a Bloomberg report. Nvidia later adjusted its own figures after visiting more warehouses.
-Megaspeed has maintained it has always acted lawfully and that previous inspections by authorities found no evidence of illegal activity.
-On Thursday, the company said it "welcomes appropriate government scrutiny" and that it is "committed to working constructively and transparently with the US government".
-China has also long refuted accusations that its companies and institutions are illegally obtaining high-end US chips.
-How Megaspeed and Alice Huang came to Singapore highlights other vulnerabilities stemming from the city-state's openness.
-In recent years, the city-state has become a prime destination for Chinese companies, with tech firms such as TikTok and Manus making it their global headquarters. Besides Singapore's ease of doing business, it has a population that is mostly ethnically Chinese and largely views China positively.
-For a Chinese firm, Singapore offers a base near the mainland and a "neutral address" that global customers and investors accept, said Winston Ma, adjunct professor at New York University's School of Law.
-But critics say this has given rise to "Singapore-washing", where Chinese companies use the city-state's clean image to obscure their origins, reduce suspicions and even cover up dubious activities.
-Washington-based security analysis group C4ADS told the BBC they had assessed Alice Huang's setup of Megaspeed to be such a case.
-BBC checks of corporate records in China, Hong Kong and Singapore found that in 2019, Huang sold a gaming company and its subsidiaries to Chinese gaming firm 7Road.
-In March 2023, a 7Road subsidiary in Singapore named Huang as its executive director. The next day it changed its name - to Megaspeed.
-Huang was in charge for eight months before she transferred the company to a Singaporean man.
-During this period, Megaspeed went through "a critical period of corporate restructuring and regional expansion", and her corporate relationships raised questions about whether "Megaspeed's Singaporean identity is genuine or effectively Chinese-controlled", according to C4ADS.
-Even after she transferred Megaspeed, C4ADS assessed that she was still "practically in control" of the company, based on her links to Megaspeed via another company as well as LinkedIn posts where she continued to identify herself as Megaspeed's "chairwoman" at conferences.
-Megaspeed has not answered BBC queries regarding the company's and Alice Huang's links to China and the Chinese government.
-All this reinforces the dilemma faced by Singapore.
-"For the longest time, Singapore has managed to enjoy the best of both worlds with excellent relations with US and China," Nanyang Technological University politics and international studies lecturer Dylan Loh said.
-Singapore has long positioned itself as a neutral party between the two superpowers. Its prime minister Lawrence Wong has insisted that his country is neither pro-China nor pro-America, but "pro-Singapore".
-But Loh says this balancing act "has now fast become very difficult to manage and sometimes quite fraught too" with the US-China dispute over chips.
-With the Megaspeed case, the tightrope Singapore has walked is set to get even narrower, according to analysts.
-Beijing may ask why Singapore is investigating issues pertaining to US restrictions and whether they are siding with the US' interests, says Chong Ja Ian, a Singaporean political scientist and non-resident scholar with Carnegie China.
-Washington, in turn, might read Singapore's latest statement as "pushing blame" on the US, which could lead to backlash from the White House, he said.
-"Singapore has made a policy position not to take sides. But by not choosing a side, they run the risk of being seen as complicit" in either side's agenda, he said.
-But Benjamin Ho, an assistant professor and China expert at Singapore's S Rajaratnam School of International Studies, noted that this was "not the first or last time Singapore will be caught between the US and China".
-"This is the price that an open economy has to grapple with - you get caught in the middle when things turn sour."
-Additional reporting by Jack Lau of the BBC's Global China Unit.
-- Published2 days ago
-- Published2 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-13T23:00:31+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d29/live/445059b0-e02e-11f1-9ca9-b3b288fceb81.jpg",
-    readTime: 10,
-  },
-  {
-    id: "nvidia-s-stock-is-on-a-losing-streak-not-138aea90",
-    title: "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
-    titleJa: "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
-    summaryJa: "Nvidia wiped out $573 billion in market capitalization this week — its sixth consecutive week of stock declines.",
-    bodyOriginal: `Nvidia wiped out $573 billion in market capitalization this week — its sixth consecutive week of stock declines.`,
-    bodyJa: `Nvidia wiped out $573 billion in market capitalization this week — its sixth consecutive week of stock declines.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
-    publishedAt: "2026-11-13T22:21:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-33661435",
-    readTime: 2,
-  },
-  {
-    id: "microsoft-deeply-sorry-for-global-outage-51201e7d",
-    title: "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-    titleJa: "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-    summaryJa: "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-    bodyOriginal: `Microsoft 'deeply sorry' for global outage as it reports broad recovery
-- Published
-Microsoft has said it is "deeply sorry" for the service outage to its products, including Outlook and Teams, which has caused disruption around the world.
-Services were broadly recovering by Friday afternoon, nearly 24 hours after issues began. Microsoft said it was making "encouraging progress", but added it does not know when services will fully recover.
-The outage hit more than 70 countries, disrupting everything from business operations to government services and personal users. More than 430 million people use the affected products worldwide.
-Microsoft said it was a technical issue introduced during a "network capacity upgrade" and not related to cyber or artificial intelligence agents.
-Experts said the event was a "stark reminder" of how heavily businesses and vital services rely on a small group of big tech providers.
-Users began reporting they were having trouble accessing Microsoft 365 products on Thursday.
-By Friday, the far-reaching issue was affecting institutions from the Japanese government and the Philippines Supreme Court to the Australian spy agency, and trains, hospitals and courts in North America.
-Why is Microsoft's outage lasting so long and will emails be lost?
-- Published11 hours ago
-Courts, spies and MPs: How the Microsoft outage has been felt around the world
-- Published12 hours ago
-In the UK, some parts of the NHS, including GPs and hospitals, were affected, as were some schools and police forces.
-UK cyber minister Liz Lloyd said the incident had "limited" impact on critical frontline services such as 999 calls, and there had been no disruption to the transport network.
-In Canada, however, the national rail network said passengers may not be able to receive email updates about their trips, and hospitals across the country also had issues with emails.
-In the US, staff members from the House of Representatives told Politico it had set back an entire day of legislative work as everything was on Microsoft's Outlook.
-Singapore's government acknowledged some of its systems had been impacted, and in India, the outage disrupted work for many on Friday.
-In Turkey, advisers and officials attending the COP31 climate summit in Antalya were left frustrated by being unable to access Outlook.
-The issues also affected smaller businesses and individuals.
-Peter Pentz, a winemaker in South Africa, said his entire business was basically brought to a "standstill".
-His winery's communication with exports was also brought to a standstill, he said, and "critical production work" was been halted as the Cape West Coast winery "relies on these systems for parts of our day-to-day operations".
-Georgia from Staffordshire in England said she was due to complete her first house purchase today after waiting eight months to get to this point - but the outage has delayed that.
-"The solicitor mentioned there may be a delay due to not being able to contact other agencies.
-"We're not the only one completing today, there are hundreds of houses and for them to ring everyone in time is unfeasible," Georgia said.
-'Encouraging recovery signals'
-Microsoft first acknowledged users in the Americas were unable to access Exchange Online mailboxes at 17:54 GMT on Thursday, and shortly after warned the disruption was possibly affecting Microsoft 365 globally.
-While it launched an investigation and engineers began working to restore services, by 04:36 on Friday Microsoft was reporting only a "partial recovery" in some parts of the world.
-By 13:32, the tech giant said there were "broader improvements" in North America, "sustained improvements" across much of Europe and "encouraging recovery signals" in the Asia Pacific region.
-Microsoft said it restored services gradually due to the scale of the problem and to help ensure services remain stable once they are up and running again.
-"We are deeply sorry for the disruption this incident has caused our customers and partners," a Microsoft spokesperson said.
-"We know the trust they place in our services and take that responsibility extremely seriously."
-Microsoft said it has no "ETA" for when services will be fully recovered.
-A full post-incident report will be released once Microsoft has completed a review.
-Experts said while workers may have been happy to not have email access for the day, the incident showed the dependence many organisations have on these cloud-based services.
-"The global Microsoft outage is a stark reminder of how heavily we rely on a handful of big tech providers," said Rob Demain, chief executive of cybersecurity firm e2e-assure.
-Matt Saunders, field chief technology officer at tech consultancy Adaptavist, said it would be challenging to mitigate against a similar problem.
-"Classic IT disaster planning strategies suggest using a second service for resilience, but in practice, it's almost impossible for a business to function without tools such as Microsoft," he said.
-"In the wake of this outage, organisations must have a plan in place for how to work without such tools, for when incidents like this occur."
-Related topics
-- Published8 hours ago
-- Published12 hours ago`,
-    bodyJa: `Microsoft 'deeply sorry' for global outage as it reports broad recovery
-- Published
-Microsoft has said it is "deeply sorry" for the service outage to its products, including Outlook and Teams, which has caused disruption around the world.
-Services were broadly recovering by Friday afternoon, nearly 24 hours after issues began. Microsoft said it was making "encouraging progress", but added it does not know when services will fully recover.
-The outage hit more than 70 countries, disrupting everything from business operations to government services and personal users. More than 430 million people use the affected products worldwide.
-Microsoft said it was a technical issue introduced during a "network capacity upgrade" and not related to cyber or artificial intelligence agents.
-Experts said the event was a "stark reminder" of how heavily businesses and vital services rely on a small group of big tech providers.
-Users began reporting they were having trouble accessing Microsoft 365 products on Thursday.
-By Friday, the far-reaching issue was affecting institutions from the Japanese government and the Philippines Supreme Court to the Australian spy agency, and trains, hospitals and courts in North America.
-Why is Microsoft's outage lasting so long and will emails be lost?
-- Published11 hours ago
-Courts, spies and MPs: How the Microsoft outage has been felt around the world
-- Published12 hours ago
-In the UK, some parts of the NHS, including GPs and hospitals, were affected, as were some schools and police forces.
-UK cyber minister Liz Lloyd said the incident had "limited" impact on critical frontline services such as 999 calls, and there had been no disruption to the transport network.
-In Canada, however, the national rail network said passengers may not be able to receive email updates about their trips, and hospitals across the country also had issues with emails.
-In the US, staff members from the House of Representatives told Politico it had set back an entire day of legislative work as everything was on Microsoft's Outlook.
-Singapore's government acknowledged some of its systems had been impacted, and in India, the outage disrupted work for many on Friday.
-In Turkey, advisers and officials attending the COP31 climate summit in Antalya were left frustrated by being unable to access Outlook.
-The issues also affected smaller businesses and individuals.
-Peter Pentz, a winemaker in South Africa, said his entire business was basically brought to a "standstill".
-His winery's communication with exports was also brought to a standstill, he said, and "critical production work" was been halted as the Cape West Coast winery "relies on these systems for parts of our day-to-day operations".
-Georgia from Staffordshire in England said she was due to complete her first house purchase today after waiting eight months to get to this point - but the outage has delayed that.
-"The solicitor mentioned there may be a delay due to not being able to contact other agencies.
-"We're not the only one completing today, there are hundreds of houses and for them to ring everyone in time is unfeasible," Georgia said.
-'Encouraging recovery signals'
-Microsoft first acknowledged users in the Americas were unable to access Exchange Online mailboxes at 17:54 GMT on Thursday, and shortly after warned the disruption was possibly affecting Microsoft 365 globally.
-While it launched an investigation and engineers began working to restore services, by 04:36 on Friday Microsoft was reporting only a "partial recovery" in some parts of the world.
-By 13:32, the tech giant said there were "broader improvements" in North America, "sustained improvements" across much of Europe and "encouraging recovery signals" in the Asia Pacific region.
-Microsoft said it restored services gradually due to the scale of the problem and to help ensure services remain stable once they are up and running again.
-"We are deeply sorry for the disruption this incident has caused our customers and partners," a Microsoft spokesperson said.
-"We know the trust they place in our services and take that responsibility extremely seriously."
-Microsoft said it has no "ETA" for when services will be fully recovered.
-A full post-incident report will be released once Microsoft has completed a review.
-Experts said while workers may have been happy to not have email access for the day, the incident showed the dependence many organisations have on these cloud-based services.
-"The global Microsoft outage is a stark reminder of how heavily we rely on a handful of big tech providers," said Rob Demain, chief executive of cybersecurity firm e2e-assure.
-Matt Saunders, field chief technology officer at tech consultancy Adaptavist, said it would be challenging to mitigate against a similar problem.
-"Classic IT disaster planning strategies suggest using a second service for resilience, but in practice, it's almost impossible for a business to function without tools such as Microsoft," he said.
-"In the wake of this outage, organisations must have a plan in place for how to work without such tools, for when incidents like this occur."
-Related topics
-- Published8 hours ago
-- Published12 hours ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-13T21:14:22+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
-    readTime: 10,
-  },
-  {
-    id: "supreme-court-will-hear-robinhood-effort-80fe6669",
-    title: "Supreme Court will hear Robinhood effort to toss IPO info omissions lawsuit",
-    titleJa: "Supreme Court will hear Robinhood effort to toss IPO info omissions lawsuit",
-    summaryJa: "The Trump administration had urged the Supreme Court to hear an appeal by Robinhood of a lower-court's decision to revive an investors' lawsuit over the IPO.",
-    bodyOriginal: `The Supreme Court on Friday agreed to consider an effort by Robinhood to block a class-action lawsuit over the company's omission of interim financial data from the online broker's initial public offering in 2021.
-Robinhood wants the Supreme Court to overturn a ruling by the 9th Circuit U.S. Court of Appeals that revived a lawsuit by investors against the company and firms involved with the IPO, including Goldman Sachs and J.P. Morgan Securities.
-A San Francisco federal court judge had previously dismissed the lawsuit.
-The Trump administration had urged the Supreme Court to hear Robinhood's appeal.
-In its order granting Robinhood's request, the Supreme Court said it would focus solely on the question of whether a company that issues stock can be found liable under the misleading-omissions prong of Section 11(a) of the Securities Act of 1933 based on a determination that the issuer failed to disclose interim financial information that is material within the meaning of Section 11(a), without an additional inquiry to determine whether the omission rendered any affirmative statement misleading.
-Robinhood's IPO came on the heels of a surge in investor interest during the Covid-19 pandemic of so-called meme stocks, and trading in the crypto asset Dogecoin.
-In July 2021, Robinhood conducted its IPO, "for which it prepared a registration statement" that "contained only limited information about Robinhood's performance during the second quarter of 2021," the 9th Circuit panel that heard the case noted.
-"After the initial public offering, Robinhood reported financial results from that second quarter, and its stock price dropped," the panel wrote.
-The investors who sued Robinhood and the other defendants alleged that the registration statement omitted material information that was legally required to be disclosed.`,
-    bodyJa: `The Supreme Court on Friday agreed to consider an effort by Robinhood to block a class-action lawsuit over the company's omission of interim financial data from the online broker's initial public offering in 2021.
-Robinhood wants the Supreme Court to overturn a ruling by the 9th Circuit U.S. Court of Appeals that revived a lawsuit by investors against the company and firms involved with the IPO, including Goldman Sachs and J.P. Morgan Securities.
-A San Francisco federal court judge had previously dismissed the lawsuit.
-The Trump administration had urged the Supreme Court to hear Robinhood's appeal.
-In its order granting Robinhood's request, the Supreme Court said it would focus solely on the question of whether a company that issues stock can be found liable under the misleading-omissions prong of Section 11(a) of the Securities Act of 1933 based on a determination that the issuer failed to disclose interim financial information that is material within the meaning of Section 11(a), without an additional inquiry to determine whether the omission rendered any affirmative statement misleading.
-Robinhood's IPO came on the heels of a surge in investor interest during the Covid-19 pandemic of so-called meme stocks, and trading in the crypto asset Dogecoin.
-In July 2021, Robinhood conducted its IPO, "for which it prepared a registration statement" that "contained only limited information about Robinhood's performance during the second quarter of 2021," the 9th Circuit panel that heard the case noted.
-"After the initial public offering, Robinhood reported financial results from that second quarter, and its stock price dropped," the panel wrote.
-The investors who sued Robinhood and the other defendants alleged that the registration statement omitted material information that was legally required to be disclosed.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/13/robinhood-supreme-court-ipo-lawsuit.html",
-    publishedAt: "2026-11-13T19:33:26+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 5,
   },
 ];
 
