@@ -15,6 +15,308 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "new-draft-deal-aims-to-avert-collapse-of-34642264",
+    title: "New draft deal aims to avert collapse of talks at climate summit",
+    titleJa: "New draft deal aims to avert collapse of talks at climate summit",
+    summaryJa: "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+    bodyOriginal: `New draft deal aims to avert collapse of talks at climate summit
+- Published
+Talks were set to resume at the UN COP31 summit on Sunday for a second day of overtime as countries struggled to reach a new global climate deal.
+A new draft agreement was published in the early hours of Sunday which the Turkey and Australia co-hosts hoped would bridge the divide between nations.
+Although it still includes no specific reference to "transitioning away from fossil fuels" - an omission in the previous draft that sparked threats of walkouts - it does acknowledge a previous commitment made by countries to do just that three years ago.
+And it includes for the first time a recognition that the world is on track to miss the crucial goal of keeping temperatures below 1.5C of warming.
+The EU and Pacific states had been arguing against the removal of fossil fuels from the draft text. The EU has not yet reacted to this latest draft.
+The Africa Group is likely to be disappointed at this latest iteration as it includes no specific figure on money for adaptation and instead kicks that decision to future meetings.
+Countries were expected to reconvene at 09:00 local time (06:00GMT) to decide whether to approve a new deal.
+If countries cannot reach consensus - as required by the UN's climate talks process - the negotiations could be suspended until next year. This has only happened once before since countries started holding COP climate meetings in 1995.
+Just hours before the new text was published, EU Commissioner for Climate Wopke Hoekstra said if the bloc could not get "what is needed in terms of climate action... then there's no deal."
+Energy Secretary Miatta Fahnbulleh, the UK's chief negotiator, struck a more hopeful tone, saying her team was still working to get an agreement.
+A draft deal unveiled earlier this week called for a faster phase-out of fossil fuels, but a second, pared-down version released on Thursday stripped away all mentions of coal, oil and gas - sparking threats of a walk out.
+The fallout led to the summit in Antalya blowing past the original deadline of Friday. On Saturday negotiating teams who had Sunday morning flights were rescheduling them - a sign a deal was still not in sight, and raising the risk that as teams eventually had to leave, the meeting could lose the critical numbers needed to pass an agreement.
+As part of a last ditch effort to produce an acceptable text, the European Union and Saudi Arabia - who were deeply divided over the future of fossil fuels - were brought together on Saturday to seek a compromise.
+COP31 President and Turkish Environment Minister Murat Kurum told delegates in the early hours of Sunday he believed concerns had been addressed.
+"We ask you to look at this decision carefully," Kurum said. "We are closer than ever to agreement on the remaining issues."
+What has the issue been?
+Ministers from Panama, Solomon Islands, Cote d'Ivoire and the EU were fighting to have a commitment to move away from fossil fuels put back into the final agreement, after fossil fuel producers led by Saudi Arabia pushed for its removal.
+"It is not acceptable to have a COP or a cover decision that does not even mention fossil fuels and we simply will not put up with it," said Juan Carlos Navarro, Panama's minister for the environment.
+Tuvalu's Climate Minister Maina Talia told reporters it was a "red line" for the low-lying Pacific nation: "We're talking about the root cause of all of this".
+France's Minister of Ecological Transition, Monique Barbut, took aim at several references in the text to carbon capture, use and storage (CCUS) - the technology that takes emissions when they are released and stores them underground - as a licence for other countries to keep burning oil and gas.
+"We cannot be announcing to the world that we are now getting to 1.5 increase in the temperature and do business like nothing was happening," Barbut said.
+In the latest text the commitments to CCUS have been reduced, which may be enough to alleviate the EU's concerns.
+For the first time at a COP, the agreement - known officially as the Antalya Accords - could acknowledge that the goal set under the Paris climate accord of keeping global temperature rise below 1.5C has been missed.
+The world is entering a period called "overshoot".
+Beyond this point scientists warn millions more people will be exposed to sea level rise and extreme heat.
+But Australia's Climate Change and Energy Minister, Chris Bowen, who is leading negotiations, pushed back on the need to include language on fossil fuels.
+He argued the summit was about implementation, and should focus on the move towards clean energy sources.
+'We did not come here to beg'
+One of the other key issues raised by developing nations - the lack of money - appears unresolved in the latest draft agreement.
+Earlier versions of the text included an agreement to ramp up money for adaptation to $120bn (£91bn) by 2035 - a figure that was then removed.
+"We did not come here to beg, we came here to claim what is rightfully ours for our people who are suffering the brunt of anthropogenic activities of developed countries," said Zanetor Agyeman Rawlings, Ghana's Environment Minister and chair of the African Group of negotiators.
+Climate activists and environmental groups, who are observers to these talks, have slammed negotiations.
+"I can tell you without any doubt that this has been the worst COP ever," said Mohamed Adow of Powershift Africa.
+Related topics
+- Published2 days ago
+- Published8 hours ago`,
+    bodyJa: `New draft deal aims to avert collapse of talks at climate summit
+- Published
+Talks were set to resume at the UN COP31 summit on Sunday for a second day of overtime as countries struggled to reach a new global climate deal.
+A new draft agreement was published in the early hours of Sunday which the Turkey and Australia co-hosts hoped would bridge the divide between nations.
+Although it still includes no specific reference to "transitioning away from fossil fuels" - an omission in the previous draft that sparked threats of walkouts - it does acknowledge a previous commitment made by countries to do just that three years ago.
+And it includes for the first time a recognition that the world is on track to miss the crucial goal of keeping temperatures below 1.5C of warming.
+The EU and Pacific states had been arguing against the removal of fossil fuels from the draft text. The EU has not yet reacted to this latest draft.
+The Africa Group is likely to be disappointed at this latest iteration as it includes no specific figure on money for adaptation and instead kicks that decision to future meetings.
+Countries were expected to reconvene at 09:00 local time (06:00GMT) to decide whether to approve a new deal.
+If countries cannot reach consensus - as required by the UN's climate talks process - the negotiations could be suspended until next year. This has only happened once before since countries started holding COP climate meetings in 1995.
+Just hours before the new text was published, EU Commissioner for Climate Wopke Hoekstra said if the bloc could not get "what is needed in terms of climate action... then there's no deal."
+Energy Secretary Miatta Fahnbulleh, the UK's chief negotiator, struck a more hopeful tone, saying her team was still working to get an agreement.
+A draft deal unveiled earlier this week called for a faster phase-out of fossil fuels, but a second, pared-down version released on Thursday stripped away all mentions of coal, oil and gas - sparking threats of a walk out.
+The fallout led to the summit in Antalya blowing past the original deadline of Friday. On Saturday negotiating teams who had Sunday morning flights were rescheduling them - a sign a deal was still not in sight, and raising the risk that as teams eventually had to leave, the meeting could lose the critical numbers needed to pass an agreement.
+As part of a last ditch effort to produce an acceptable text, the European Union and Saudi Arabia - who were deeply divided over the future of fossil fuels - were brought together on Saturday to seek a compromise.
+COP31 President and Turkish Environment Minister Murat Kurum told delegates in the early hours of Sunday he believed concerns had been addressed.
+"We ask you to look at this decision carefully," Kurum said. "We are closer than ever to agreement on the remaining issues."
+What has the issue been?
+Ministers from Panama, Solomon Islands, Cote d'Ivoire and the EU were fighting to have a commitment to move away from fossil fuels put back into the final agreement, after fossil fuel producers led by Saudi Arabia pushed for its removal.
+"It is not acceptable to have a COP or a cover decision that does not even mention fossil fuels and we simply will not put up with it," said Juan Carlos Navarro, Panama's minister for the environment.
+Tuvalu's Climate Minister Maina Talia told reporters it was a "red line" for the low-lying Pacific nation: "We're talking about the root cause of all of this".
+France's Minister of Ecological Transition, Monique Barbut, took aim at several references in the text to carbon capture, use and storage (CCUS) - the technology that takes emissions when they are released and stores them underground - as a licence for other countries to keep burning oil and gas.
+"We cannot be announcing to the world that we are now getting to 1.5 increase in the temperature and do business like nothing was happening," Barbut said.
+In the latest text the commitments to CCUS have been reduced, which may be enough to alleviate the EU's concerns.
+For the first time at a COP, the agreement - known officially as the Antalya Accords - could acknowledge that the goal set under the Paris climate accord of keeping global temperature rise below 1.5C has been missed.
+The world is entering a period called "overshoot".
+Beyond this point scientists warn millions more people will be exposed to sea level rise and extreme heat.
+But Australia's Climate Change and Energy Minister, Chris Bowen, who is leading negotiations, pushed back on the need to include language on fossil fuels.
+He argued the summit was about implementation, and should focus on the move towards clean energy sources.
+'We did not come here to beg'
+One of the other key issues raised by developing nations - the lack of money - appears unresolved in the latest draft agreement.
+Earlier versions of the text included an agreement to ramp up money for adaptation to $120bn (£91bn) by 2035 - a figure that was then removed.
+"We did not come here to beg, we came here to claim what is rightfully ours for our people who are suffering the brunt of anthropogenic activities of developed countries," said Zanetor Agyeman Rawlings, Ghana's Environment Minister and chair of the African Group of negotiators.
+Climate activists and environmental groups, who are observers to these talks, have slammed negotiations.
+"I can tell you without any doubt that this has been the worst COP ever," said Mohamed Adow of Powershift Africa.
+Related topics
+- Published2 days ago
+- Published8 hours ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-22T05:26:10+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg",
+    readTime: 10,
+  },
+  {
+    id: "mexican-drug-lord-on-fbi-s-10-most-wante-81f00345",
+    title: "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+    titleJa: "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+    summaryJa: "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+    bodyOriginal: `Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out
+- Published
+A Mexican drug lord who was on the FBI's 10 most wanted list has been arrested following a shoot-out with Mexican authorities.
+Fausto Isidro "Chapo Isidro" Meza Flores and seven others were detained by Mexican special forces in Guasave, Sinaloa on Friday, Mexico's defence secretariat said.
+Seven suspects were killed in the operation, as were four members of the Mexican army who were travelling to reinforce security in Guasave, the secretariat added.
+Meza Flores was wanted in Mexico on organised crime charges, while he has been accused of "flooding the US with fentanyl, cocaine, heroin and other deadly drugs" by the FBI. The US is seeking his extradition.
+Mexico has stepped up efforts to tackle drug-related crime after coming under pressure from US President Donald Trump since he returned to the White House.
+Meza Flores, the leader of the Meza Flores Organisation, also known as the Guasave Cartel, is thought to have been active in the drug trafficking trade since the 1990s but managed to evade authorities till now by maintaining a relatively low profile.
+Using US intelligence on his whereabouts, Mexican special forces descended on his location using "stealth and surprise", establishing a perimeter to prevent him from escaping and reinforcements arriving, Mexico's defence secretariat said.
+However, they "came under attack from gunfire and explosives" before entering the property and arresting Meza Flores, the secretariat continued.
+Videos circulating online appear to show helicopters firing streams of bullets towards the ground in Guasave. Others appear to show people at a baseball stadium fleeing as they hear shooting sounds.
+Eight people in total were arrested, including Meza Flores' second-in-command, who is also his cousin, and his brother-in-law, who is the group's financial operator, the secretariat added.
+Meza Flores, his cousin, and his brother-in-law were flown to Mexico City to face prosecution, the defence secretariat said. The other five remained in the state of Sinaloa.
+Authorities also said they had seized multiple weapons during the operation, including a grenade launcher, as well as drugs and cash.
+The US Consulate General in the city of Hermosillo said it was "monitoring reports of ongoing security operations, armed clashes, road blockades, and vehicle fires that occurred overnight in Ahome, Guamúchil, Guasave, and Navolato" following the arrest of Meza-Flores.
+It advised US citizens to remain alert for potential violence in the area and for residents to remain sheltered in place.
+When Meza Flores was added to the FBI's most-wanted list in 2025, he was accused of "heinous crimes" including kidnapping, extortion and torture.
+Then-acting FBI director Brian Driscoll said Meza Flores and his organisation had also unleashed a "scourge of illicit drugs" into the US via its southern border with Mexico.
+He was initially charged with drug trafficking in the US in 2012 before being charged again in 2019.
+The 44-year-old is alleged to have conspired to manufacture and distribute large quantities of cocaine, heroin, methamphetamine and marijuana between 2005 and 2019.
+Meza Flores was originally a high-ranking member of the Beltrán Leyva Organization, but a split between rival factions led to a surge of violence and prompted him to establish his own cartel by 2013.
+His organisation has also engaged in what US officials described as an "extremely violent turf war" with the Sinaloa Cartel, one of the most powerful drug trafficking gangs, which operates in the same region.
+Meza Flores was added to the FBI's most-wanted list after Mexican authorities reportedly linked his cartel to 20 million fentanyl pills they seized in 2024.
+Mexican President Claudia Sheinbaum has taken a tougher stance on the country's cartels in a bid to resist US intervention on Mexican soil. Mexico has welcomed closer collaboration but resisted US boots on the ground.
+Trump made stemming the flow of drugs into the US across its southern border one of his key election pledges.
+Related topics
+- Published22 January
+- Published14 September`,
+    bodyJa: `Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out
+- Published
+A Mexican drug lord who was on the FBI's 10 most wanted list has been arrested following a shoot-out with Mexican authorities.
+Fausto Isidro "Chapo Isidro" Meza Flores and seven others were detained by Mexican special forces in Guasave, Sinaloa on Friday, Mexico's defence secretariat said.
+Seven suspects were killed in the operation, as were four members of the Mexican army who were travelling to reinforce security in Guasave, the secretariat added.
+Meza Flores was wanted in Mexico on organised crime charges, while he has been accused of "flooding the US with fentanyl, cocaine, heroin and other deadly drugs" by the FBI. The US is seeking his extradition.
+Mexico has stepped up efforts to tackle drug-related crime after coming under pressure from US President Donald Trump since he returned to the White House.
+Meza Flores, the leader of the Meza Flores Organisation, also known as the Guasave Cartel, is thought to have been active in the drug trafficking trade since the 1990s but managed to evade authorities till now by maintaining a relatively low profile.
+Using US intelligence on his whereabouts, Mexican special forces descended on his location using "stealth and surprise", establishing a perimeter to prevent him from escaping and reinforcements arriving, Mexico's defence secretariat said.
+However, they "came under attack from gunfire and explosives" before entering the property and arresting Meza Flores, the secretariat continued.
+Videos circulating online appear to show helicopters firing streams of bullets towards the ground in Guasave. Others appear to show people at a baseball stadium fleeing as they hear shooting sounds.
+Eight people in total were arrested, including Meza Flores' second-in-command, who is also his cousin, and his brother-in-law, who is the group's financial operator, the secretariat added.
+Meza Flores, his cousin, and his brother-in-law were flown to Mexico City to face prosecution, the defence secretariat said. The other five remained in the state of Sinaloa.
+Authorities also said they had seized multiple weapons during the operation, including a grenade launcher, as well as drugs and cash.
+The US Consulate General in the city of Hermosillo said it was "monitoring reports of ongoing security operations, armed clashes, road blockades, and vehicle fires that occurred overnight in Ahome, Guamúchil, Guasave, and Navolato" following the arrest of Meza-Flores.
+It advised US citizens to remain alert for potential violence in the area and for residents to remain sheltered in place.
+When Meza Flores was added to the FBI's most-wanted list in 2025, he was accused of "heinous crimes" including kidnapping, extortion and torture.
+Then-acting FBI director Brian Driscoll said Meza Flores and his organisation had also unleashed a "scourge of illicit drugs" into the US via its southern border with Mexico.
+He was initially charged with drug trafficking in the US in 2012 before being charged again in 2019.
+The 44-year-old is alleged to have conspired to manufacture and distribute large quantities of cocaine, heroin, methamphetamine and marijuana between 2005 and 2019.
+Meza Flores was originally a high-ranking member of the Beltrán Leyva Organization, but a split between rival factions led to a surge of violence and prompted him to establish his own cartel by 2013.
+His organisation has also engaged in what US officials described as an "extremely violent turf war" with the Sinaloa Cartel, one of the most powerful drug trafficking gangs, which operates in the same region.
+Meza Flores was added to the FBI's most-wanted list after Mexican authorities reportedly linked his cartel to 20 million fentanyl pills they seized in 2024.
+Mexican President Claudia Sheinbaum has taken a tougher stance on the country's cartels in a bid to resist US intervention on Mexican soil. Mexico has welcomed closer collaboration but resisted US boots on the ground.
+Trump made stemming the flow of drugs into the US across its southern border one of his key election pledges.
+Related topics
+- Published22 January
+- Published14 September`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-22T01:25:03+00:00",
+    category: "自動車",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg",
+    readTime: 10,
+  },
+  {
+    id: "fbi-reportedly-investigating-apparent-ha-2cc7b750",
+    title: "FBI reportedly investigating apparent hack of its criminal database",
+    titleJa: "FBI reportedly investigating apparent hack of its criminal database",
+    summaryJa: "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+    bodyOriginal: `FBI reportedly investigating apparent hack of its criminal database
+- Published
+The FBI is investigating an apparent breach of its criminal information database, US media reports, citing two people briefed on the issue.
+The National Crime Information Center (NCIC) database is used by federal and local law enforcement to share information on warrants and background checks.
+It would not be the first time hackers have targeted the FBI, the domestic intelligence and security service of the US. The agency did not respond to the BBC's request for comment.
+When asked about the breach in a Fox News interview on Saturday, President Donald Trump said he had "just heard" about the hack. "I will say that it's not good. I don't like that," he said.
+"But maybe we'll learn things that we would've never learned otherwise," Trump added.
+This apparent breach of FBI database comes after a string of tech outages which hit banking, air traffic control and other sectors in the US last week. Officials have said they were not caused by cyber-attacks, but the blackouts have sparked scrutiny from lawmakers.
+White House National Cyber Director Sean Cairncross was fired this week, with Trump saying he was not good enough.
+Dan Lorhmann, a former analyst for the National Security Agency (NSA), told the BBC News Channel that the NCIC's data included "critical information relating to nationwide criminal activity" and needed to be protected.
+He added that while US security agencies including the FBI have "an amazing ability" to keep such information safe" and are "globally respected", the level of cyber-attacks is rising globally.
+"There's a lot of different reasons why that's happening but I do have faith in our experts in government," Lorhmann said.
+In September, the FBI said it was investigating an apparent breach by a cyber-crime group ShinyHunters, which claimed it had stolen sensitive information on all bureau staff - around 38,000 people.
+After that hack, one former FBI agent told the BBC he feared for the safety of current employees, whose personal information could soon become available online to criminals and hostile nation-state hackers.
+In a separate development, NBC reported an apparent cyberattack against the US Department of Agriculture (USDA).
+Employees were informed on Thursday that its farm payment system had been targeted, NBC said.
+The USDA has not publicly commented on the issue.`,
+    bodyJa: `FBI reportedly investigating apparent hack of its criminal database
+- Published
+The FBI is investigating an apparent breach of its criminal information database, US media reports, citing two people briefed on the issue.
+The National Crime Information Center (NCIC) database is used by federal and local law enforcement to share information on warrants and background checks.
+It would not be the first time hackers have targeted the FBI, the domestic intelligence and security service of the US. The agency did not respond to the BBC's request for comment.
+When asked about the breach in a Fox News interview on Saturday, President Donald Trump said he had "just heard" about the hack. "I will say that it's not good. I don't like that," he said.
+"But maybe we'll learn things that we would've never learned otherwise," Trump added.
+This apparent breach of FBI database comes after a string of tech outages which hit banking, air traffic control and other sectors in the US last week. Officials have said they were not caused by cyber-attacks, but the blackouts have sparked scrutiny from lawmakers.
+White House National Cyber Director Sean Cairncross was fired this week, with Trump saying he was not good enough.
+Dan Lorhmann, a former analyst for the National Security Agency (NSA), told the BBC News Channel that the NCIC's data included "critical information relating to nationwide criminal activity" and needed to be protected.
+He added that while US security agencies including the FBI have "an amazing ability" to keep such information safe" and are "globally respected", the level of cyber-attacks is rising globally.
+"There's a lot of different reasons why that's happening but I do have faith in our experts in government," Lorhmann said.
+In September, the FBI said it was investigating an apparent breach by a cyber-crime group ShinyHunters, which claimed it had stolen sensitive information on all bureau staff - around 38,000 people.
+After that hack, one former FBI agent told the BBC he feared for the safety of current employees, whose personal information could soon become available online to criminals and hostile nation-state hackers.
+In a separate development, NBC reported an apparent cyberattack against the US Department of Agriculture (USDA).
+Employees were informed on Thursday that its farm payment system had been targeted, NBC said.
+The USDA has not publicly commented on the issue.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-22T00:10:44+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
+    readTime: 6,
+  },
+  {
+    id: "i-m-in-my-40s-should-i-accept-a-lower-pe-4daa42af",
+    title: "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+    titleJa: "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+    summaryJa: "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+    bodyOriginal: `“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”`,
+    bodyJa: `“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+    publishedAt: "2026-11-21T23:05:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-29241577",
+    readTime: 2,
+  },
+  {
+    id: "it-s-downright-dirty-my-brother-moved-i-e4977130",
+    title: "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+    titleJa: "‘It’s downright dirty’: My brother moved in with our ailing mother and closed her bank account. What can I do?",
+    summaryJa: "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
+    bodyOriginal: `“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”`,
+    bodyJa: `“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
+    publishedAt: "2026-11-21T20:15:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-72281427",
+    readTime: 2,
+  },
+  {
+    id: "buyers-are-out-for-blood-with-home-sale-62b30a54",
+    title: "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+    titleJa: "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+    summaryJa: "The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.",
+    bodyOriginal: `The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.`,
+    bodyJa: `The few buyers left in the market braving record-high home prices and 7% mortgage rates are starting to call the shots, real-estate agents say.`,
+    source: "MarketWatch",
+    sourceUrl: "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+    publishedAt: "2026-11-21T19:45:00+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.mktw.net/im-39779425",
+    readTime: 2,
+  },
+  {
+    id: "russia-bound-ship-attacked-in-gulf-of-fi-2b1585b5",
+    title: "Russia-bound ship attacked in Gulf of Finland",
+    titleJa: "Russia-bound ship attacked in Gulf of Finland",
+    summaryJa: "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+    bodyOriginal: `Russia-bound ship attacked in Gulf of Finland
+- Published
+A Russian cargo vessel bound for the country's Baltic exclave Kaliningrad has been hit by a drone attack in the eastern Gulf of Finland, Russian and Finnish authorities say.
+The ship - the Sparta II - caught on fire after the strike on Saturday morning, before drifting into Finnish waters. Finnish defence forces said Ukraine was likely behind the attack. Kyiv has yet to comment.
+"War is spilling over into our immediate vicinity," Finnish Prime Minister Petteri Orpo said. "Ukraine has the right to fight back against the aggressor."
+Kaliningrad Governor Alexei Besprozvannykh said two drones had been used, based on preliminary information, and there was "no threat" to the territory's supplies.
+The Sparta II was sanctioned by the US in 2022 and Ukraine earlier this year, and is run by a Russian company, according to the Ukrainian and US governments.
+The company says on its website that it was established within the structure of Russia's defence ministry in 2011 and since 2015 has been operating within the military construction complex.
+Finland's coast guard said it had been alerted to the attack at around 08:50 local time (06:50 GMT) on Saturday and that the cargo vessel had been located approximately 50km west of the island of Suursaari in the Gulf of Finland.
+This prompted "temporary aviation and maritime restrictions" around the area, Finnish border officials said.
+Shortly after the incident, Finland's defence ministry said a Russian helicopter was suspected of violating the country's airspace, potentially linked to "rescue or tracking operations".
+A Russian rescue vessel approached the ship and was told by the crew that they did not need to be evacuated, Kaliningrad's governor wrote on Telegram, adding: "The crew is currently carrying out the necessary work and plans to continue on its way."
+The Finnish Border Guard later said the crew had been evacuated to another Russian vessel that was now already en route to Russia. The Russian rescue vessel had remained at the location of the stricken ship.
+It added that no environmental damage had been detected and that there was no danger to maritime traffic or people.
+Kaliningrad is a Russian exclave that sits between Poland and Lithuania.
+Defence Minister Antti Häkkänen said that the Finnish Border Guard were responsible for the investigation into the attack and were co-operating with other relevant authorities.
+Nato has also been informed, the defence ministry said.
+The Baltic Sea has become a flashpoint in the Russia-Ukraine war, triggered when Russia launched a full-scale invasion of Ukraine in 2022. Ukraine has recently ramped up its long-range attacks against Russia beyond the front lines.
+Earlier this month, a Ukrainian drone strike hit a Russian warship in the Gulf of Finland.
+Related topics
+- Published17 hours ago
+- Published2 days ago
+- Published3 days ago`,
+    bodyJa: `Russia-bound ship attacked in Gulf of Finland
+- Published
+A Russian cargo vessel bound for the country's Baltic exclave Kaliningrad has been hit by a drone attack in the eastern Gulf of Finland, Russian and Finnish authorities say.
+The ship - the Sparta II - caught on fire after the strike on Saturday morning, before drifting into Finnish waters. Finnish defence forces said Ukraine was likely behind the attack. Kyiv has yet to comment.
+"War is spilling over into our immediate vicinity," Finnish Prime Minister Petteri Orpo said. "Ukraine has the right to fight back against the aggressor."
+Kaliningrad Governor Alexei Besprozvannykh said two drones had been used, based on preliminary information, and there was "no threat" to the territory's supplies.
+The Sparta II was sanctioned by the US in 2022 and Ukraine earlier this year, and is run by a Russian company, according to the Ukrainian and US governments.
+The company says on its website that it was established within the structure of Russia's defence ministry in 2011 and since 2015 has been operating within the military construction complex.
+Finland's coast guard said it had been alerted to the attack at around 08:50 local time (06:50 GMT) on Saturday and that the cargo vessel had been located approximately 50km west of the island of Suursaari in the Gulf of Finland.
+This prompted "temporary aviation and maritime restrictions" around the area, Finnish border officials said.
+Shortly after the incident, Finland's defence ministry said a Russian helicopter was suspected of violating the country's airspace, potentially linked to "rescue or tracking operations".
+A Russian rescue vessel approached the ship and was told by the crew that they did not need to be evacuated, Kaliningrad's governor wrote on Telegram, adding: "The crew is currently carrying out the necessary work and plans to continue on its way."
+The Finnish Border Guard later said the crew had been evacuated to another Russian vessel that was now already en route to Russia. The Russian rescue vessel had remained at the location of the stricken ship.
+It added that no environmental damage had been detected and that there was no danger to maritime traffic or people.
+Kaliningrad is a Russian exclave that sits between Poland and Lithuania.
+Defence Minister Antti Häkkänen said that the Finnish Border Guard were responsible for the investigation into the attack and were co-operating with other relevant authorities.
+Nato has also been informed, the defence ministry said.
+The Baltic Sea has become a flashpoint in the Russia-Ukraine war, triggered when Russia launched a full-scale invasion of Ukraine in 2022. Ukraine has recently ramped up its long-range attacks against Russia beyond the front lines.
+Earlier this month, a Ukrainian drone strike hit a Russian warship in the Gulf of Finland.
+Related topics
+- Published17 hours ago
+- Published2 days ago
+- Published3 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-21T19:20:22+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg",
+    readTime: 7,
+  },
+  {
     id: "never-too-late-to-start-practical-inves-237afe33",
     title: "‘Never too late to start’: Practical investing advice from some of the top women in finance",
     titleJa: "‘Never too late to start’: Practical investing advice from some of the top women in finance",
@@ -226,6 +528,88 @@ But this year is the first time that she's felt she needed to be prepared for a 
     publishedAt: "2026-11-21T15:04:56+00:00",
     category: "エネルギー",
     imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "zelensky-says-crimean-bridge-strikes-fai-43786a9b",
+    title: "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+    titleJa: "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+    summaryJa: "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+    bodyOriginal: `Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting
+- Published
+Ukrainian President Volodymyr Zelensky has justified Kyiv's repeated attacks on a critical bridge linking Russia to occupied Crimea, calling it a "fair response" to 109 separate Russian attacks on bridges in Ukraine.
+In comments to the BBC in Kyiv, Zelensky said the intense attacks on Ukraine by Russia that have followed the strikes on the Crimean Bridge were only a "signal that Vladimir Putin does not want to stop. He wants a reason to escalate".
+He rejected the claim by the Russian president that the bridge - which links Russia to the peninsula it illegally annexed from Ukraine - was "exclusively civilian" in use.
+"There are facts, not just the words of Putin. We can see," he said.
+The Ukrainian president pointed to images online of tanks and other Russian military hardware using the route from Russia into occupied Crimea as a supply line and for logistics.
+"If Putin used the internet, he could see that."
+The Ukrainian president added that Russia had carried out attacks with missiles and drones on bridges in Ukraine.
+This week's combined missile-and-drone strikes by Ukrainian forces destroyed the central road section of the Crimean Bridge, collapsing part of it together with one of the two support arches into the sea and rendering the structure unusable for road traffic.
+Russian attacks on Ukraine continued on Friday evening and overnight: a seven-year-old boy was killed in missile and drone strikes on Zelensky's hometown of Kryvyi Rih in the central Dnipropetrovsk region. Local officials say he had been in a playground at the time.
+A 20-year-old female medic was also killed. A local official added that when rescuers rushed to the scene, the same site was targeted again with jet powered drones. Another 58 people were injured in the city.
+Ukraine's state emergency service DSNS said 11 people were also injured in the north-eastern Kharkiv region, and one person in Rivne, in the north-west.
+Russia launched its full-scale invasion of Ukraine in February 2022.
+Zelensky was speaking ahead of a meeting in Kyiv with UK Defence Secretary Wes Streeting, who told the Ukrainian president he was here to show that Europe was united in its support.
+"The more Putin tries to divide us, the more resolute we become," Streeting said.
+He said that Russian missiles hitting Poland on Friday, during military exercises of the so-called Coalition of the Willing, was an "outrageous provocation".
+The timing, Streeting said, seemed "more than a coincidence".
+Asked by the BBC about Nato's response, he said the best way was to "do more for Ukraine" to defend itself against Putin who he called a "cold-blooded killer".
+Streeting's description of Putin chimed with the comments made earlier by Zelensky, who described the Kremlin leader a "killer". This was done in response to US President Donald Trump referring this week to Putin as his "friend".
+Streeting's visit to Kyiv came after European leaders meeting in Berlin on Thursday alongside US envoys said they were ready for negotiations with Moscow on ending the war in Ukraine.
+"Europe has a clear and consistent and united negotiating position," UK Prime Minister Andy Burnham said, while German Chancellor Friedrich Merz stressed that Moscow's "maximalist demands are not realistic".
+Donald Trump's son-in-law Jared Kushner, one of the two US envoys who were in Berlin, said the US president - who had also dialled into the meeting from Air Force One - wanted to make a deal with Moscow "with Europe by his side".
+Russia's Vladimir Putin has so far rejected any European role in the US-led peace talks - but earlier this week he invited European representatives to Moscow as it wanted to clarify "what Europe will bring to these talks".
+That meeting in the German capital came hours after Putin had held historic trilateral talks in Shenzhen, China, with Trump and Chinese President Xi Jinping.
+Zelensky said he had been "sceptical" ahead of the latest round of talks, when US envoys claimed that Russia was prepared to make compromises to end the war.
+"I thought [Putin] would find reason to escalate."
+Speaking to the BBC, Streeting added: "Putin has absolutely no business playing the victim. He is the aggressor in this war. He provoked an illegal invasion of Ukraine. And all of us, right throughout the world, need to judge Putin not on his words, but on his actions."
+In a separate development on Saturday, Finland said it "detected a drone strike on a Russian merchant vessel" in the eastern Gulf of Finland, "in an international maritime area".
+The Finnish defence ministry said in a statement that the vessel was damaged, without giving any further details.
+It added that "temporary restrictions on aviation and maritime areas in the eastern Gulf of Finland" were now reinstated for safety reasons.
+Russia has not publicly commented on the issue.
+Related topics
+- Published3 days ago
+- Published2 days ago`,
+    bodyJa: `Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting
+- Published
+Ukrainian President Volodymyr Zelensky has justified Kyiv's repeated attacks on a critical bridge linking Russia to occupied Crimea, calling it a "fair response" to 109 separate Russian attacks on bridges in Ukraine.
+In comments to the BBC in Kyiv, Zelensky said the intense attacks on Ukraine by Russia that have followed the strikes on the Crimean Bridge were only a "signal that Vladimir Putin does not want to stop. He wants a reason to escalate".
+He rejected the claim by the Russian president that the bridge - which links Russia to the peninsula it illegally annexed from Ukraine - was "exclusively civilian" in use.
+"There are facts, not just the words of Putin. We can see," he said.
+The Ukrainian president pointed to images online of tanks and other Russian military hardware using the route from Russia into occupied Crimea as a supply line and for logistics.
+"If Putin used the internet, he could see that."
+The Ukrainian president added that Russia had carried out attacks with missiles and drones on bridges in Ukraine.
+This week's combined missile-and-drone strikes by Ukrainian forces destroyed the central road section of the Crimean Bridge, collapsing part of it together with one of the two support arches into the sea and rendering the structure unusable for road traffic.
+Russian attacks on Ukraine continued on Friday evening and overnight: a seven-year-old boy was killed in missile and drone strikes on Zelensky's hometown of Kryvyi Rih in the central Dnipropetrovsk region. Local officials say he had been in a playground at the time.
+A 20-year-old female medic was also killed. A local official added that when rescuers rushed to the scene, the same site was targeted again with jet powered drones. Another 58 people were injured in the city.
+Ukraine's state emergency service DSNS said 11 people were also injured in the north-eastern Kharkiv region, and one person in Rivne, in the north-west.
+Russia launched its full-scale invasion of Ukraine in February 2022.
+Zelensky was speaking ahead of a meeting in Kyiv with UK Defence Secretary Wes Streeting, who told the Ukrainian president he was here to show that Europe was united in its support.
+"The more Putin tries to divide us, the more resolute we become," Streeting said.
+He said that Russian missiles hitting Poland on Friday, during military exercises of the so-called Coalition of the Willing, was an "outrageous provocation".
+The timing, Streeting said, seemed "more than a coincidence".
+Asked by the BBC about Nato's response, he said the best way was to "do more for Ukraine" to defend itself against Putin who he called a "cold-blooded killer".
+Streeting's description of Putin chimed with the comments made earlier by Zelensky, who described the Kremlin leader a "killer". This was done in response to US President Donald Trump referring this week to Putin as his "friend".
+Streeting's visit to Kyiv came after European leaders meeting in Berlin on Thursday alongside US envoys said they were ready for negotiations with Moscow on ending the war in Ukraine.
+"Europe has a clear and consistent and united negotiating position," UK Prime Minister Andy Burnham said, while German Chancellor Friedrich Merz stressed that Moscow's "maximalist demands are not realistic".
+Donald Trump's son-in-law Jared Kushner, one of the two US envoys who were in Berlin, said the US president - who had also dialled into the meeting from Air Force One - wanted to make a deal with Moscow "with Europe by his side".
+Russia's Vladimir Putin has so far rejected any European role in the US-led peace talks - but earlier this week he invited European representatives to Moscow as it wanted to clarify "what Europe will bring to these talks".
+That meeting in the German capital came hours after Putin had held historic trilateral talks in Shenzhen, China, with Trump and Chinese President Xi Jinping.
+Zelensky said he had been "sceptical" ahead of the latest round of talks, when US envoys claimed that Russia was prepared to make compromises to end the war.
+"I thought [Putin] would find reason to escalate."
+Speaking to the BBC, Streeting added: "Putin has absolutely no business playing the victim. He is the aggressor in this war. He provoked an illegal invasion of Ukraine. And all of us, right throughout the world, need to judge Putin not on his words, but on his actions."
+In a separate development on Saturday, Finland said it "detected a drone strike on a Russian merchant vessel" in the eastern Gulf of Finland, "in an international maritime area".
+The Finnish defence ministry said in a statement that the vessel was damaged, without giving any further details.
+It added that "temporary restrictions on aviation and maritime areas in the eastern Gulf of Finland" were now reinstated for safety reasons.
+Russia has not publicly commented on the issue.
+Related topics
+- Published3 days ago
+- Published2 days ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-21T13:17:38+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg",
     readTime: 10,
   },
   {
@@ -1892,408 +2276,6 @@ Despite the company's claims that the technology it is building at a rapid pace 
     publishedAt: "2026-11-19T23:33:51+00:00",
     category: "テクノロジー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
-    readTime: 10,
-  },
-  {
-    id: "walmart-hikes-outlook-as-ceo-tells-cnbc-6c9e8acd",
-    title: "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
-    titleJa: "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
-    summaryJa: "Walmart said it saw strength with store-fulfilled pickup and delivery in its fiscal third quarter.",
-    bodyOriginal: `Walmart on Thursday reported earnings and revenue that narrowly topped estimates and raised its full-year outlook as it saw strong e-commerce growth ahead of the busy holiday season.
-Walmart said global e-commerce sales surged 17% in the fiscal third quarter, driven by store-fulfilled pickup and delivery, with Walmart U.S. up 23% and Sam's Club U.S. rising 30%. Its Walmart U.S. advertising business saw a 37% sales increase for the quarter.
-Walmart said it rolled back prices on nearly 8,000 products across its stores, a focus as U.S. consumers worry about the cost of living in the face of elevated food and gas prices.
-CEO John Furner told CNBC's Becky Quick that the company has seen higher-than-expected diesel costs, but that tariff refunds have helped the retailer to offset those inputs and maintain lower prices.
-"The reality is that increases in diesel fuel and transportation, they do work their way into cost of goods," Furner said in an exclusive interview. "So we're hoping to see these costs come down as soon as possible, and we'll keep prices as low as we can."
-CFO John David Rainey told CNBC that growth in online orders for Walmart and Sam's Club was driven by an emphasis on speed of delivery and reduced prices. He added that Walmart saw its largest share gains in the food category in three years during the third quarter.
-"This was another really solid quarter for us, we feel good about it," Rainey told CNBC. "We continue to gain share while continuing to improve the profitability of our digital businesses."
-Walmart also raised its full-year guidance, now expecting net sales to increase between 4.9% and 5.2%, compared with previous guidance of a 4% to 5% increase. Rainey said Walmart is maintaining "flexibility" in its guidance.
-Walmart anticipates adjusted earnings per share will come in between $2.84 and $2.89, compared with a prior range of $2.80 to $2.87. It's also now expecting adjusted operating income to increase between 8% and 8.6%, up from the previous outlook of between 7% and 8.5% growth.
-Here's how the company performed in its fiscal third quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: 65 cents adjusted vs. 64 cents expected
-- Revenue: $188.84 billion vs. $187.27 billion expected
-For the quarter ended Oct. 31, the company reported net income of $4.95 billion, or 62 cents per share, down from $6.14 billion, or 77 cents per share, a year earlier. Revenue rose 5.2%.
-Adjusting for investment gains and losses, tax matters and reorganization charges, Walmart earned 65 cents per share.
-Walmart U.S. recorded net sales of $125 billion, up 3.6% from a year earlier. Its comparable sales excluding fuel rose 2.9%, in line with Wall Street expectations, according to StreetAccount.
-Furner also said Walmart is seeing encouraging adoption of its artificial intelligence agent, named Sparky, especially ahead of the holiday season. He said it's led to customer basket increases of 40% on average.
-"It just is a great way of just completing the entire basket and solving entire the solution for people," he said.
-Sam's Club reported net sales of $25.9 billion, marking a 10% increase from the year-ago period. It said its sales were driven by strength in the grocery category and general merchandise.
-In October, Walmart announced it was launching a joint membership option with Walmart+ and Sam's Club as it leans further into convenience. Both stores will still offer stand-alone memberships, as well.
-Furner told CNBC the new membership has brought roughly 2 million new people into Sam's Club since its launch in late October. Though the company reimbursed some members for the new membership rate, Rainey added that it's already seeing positive returns on the joint model and that consumers are "spending appreciably more."
-The company on Thursday said its global membership fee revenue grew 17% in the third quarter.
-The company is typically well insulated from macroeconomic pressures because of its value reputation. Last quarter, the company said it was lowering prices of products across multiple categories, including beef.
-Rainey said Thursday that he's "optimistic" about consumer spending heading into the holiday season and that the fourth quarter is already "off to a pretty good start."
-The big-box retailer has posted solid growth over the past few quarters as it sees customers gravitate to reduced prices, improvements in delivery and gains in its advertising business. It's also leaned into attracting higher-income consumers with its Walmart+ membership.
-Shares of Walmart have fluctuated this year but are up roughly 13% year to date.`,
-    bodyJa: `Walmart on Thursday reported earnings and revenue that narrowly topped estimates and raised its full-year outlook as it saw strong e-commerce growth ahead of the busy holiday season.
-Walmart said global e-commerce sales surged 17% in the fiscal third quarter, driven by store-fulfilled pickup and delivery, with Walmart U.S. up 23% and Sam's Club U.S. rising 30%. Its Walmart U.S. advertising business saw a 37% sales increase for the quarter.
-Walmart said it rolled back prices on nearly 8,000 products across its stores, a focus as U.S. consumers worry about the cost of living in the face of elevated food and gas prices.
-CEO John Furner told CNBC's Becky Quick that the company has seen higher-than-expected diesel costs, but that tariff refunds have helped the retailer to offset those inputs and maintain lower prices.
-"The reality is that increases in diesel fuel and transportation, they do work their way into cost of goods," Furner said in an exclusive interview. "So we're hoping to see these costs come down as soon as possible, and we'll keep prices as low as we can."
-CFO John David Rainey told CNBC that growth in online orders for Walmart and Sam's Club was driven by an emphasis on speed of delivery and reduced prices. He added that Walmart saw its largest share gains in the food category in three years during the third quarter.
-"This was another really solid quarter for us, we feel good about it," Rainey told CNBC. "We continue to gain share while continuing to improve the profitability of our digital businesses."
-Walmart also raised its full-year guidance, now expecting net sales to increase between 4.9% and 5.2%, compared with previous guidance of a 4% to 5% increase. Rainey said Walmart is maintaining "flexibility" in its guidance.
-Walmart anticipates adjusted earnings per share will come in between $2.84 and $2.89, compared with a prior range of $2.80 to $2.87. It's also now expecting adjusted operating income to increase between 8% and 8.6%, up from the previous outlook of between 7% and 8.5% growth.
-Here's how the company performed in its fiscal third quarter compared with what Wall Street was expecting, based on a survey of analysts by LSEG:
-- Earnings per share: 65 cents adjusted vs. 64 cents expected
-- Revenue: $188.84 billion vs. $187.27 billion expected
-For the quarter ended Oct. 31, the company reported net income of $4.95 billion, or 62 cents per share, down from $6.14 billion, or 77 cents per share, a year earlier. Revenue rose 5.2%.
-Adjusting for investment gains and losses, tax matters and reorganization charges, Walmart earned 65 cents per share.
-Walmart U.S. recorded net sales of $125 billion, up 3.6% from a year earlier. Its comparable sales excluding fuel rose 2.9%, in line with Wall Street expectations, according to StreetAccount.
-Furner also said Walmart is seeing encouraging adoption of its artificial intelligence agent, named Sparky, especially ahead of the holiday season. He said it's led to customer basket increases of 40% on average.
-"It just is a great way of just completing the entire basket and solving entire the solution for people," he said.
-Sam's Club reported net sales of $25.9 billion, marking a 10% increase from the year-ago period. It said its sales were driven by strength in the grocery category and general merchandise.
-In October, Walmart announced it was launching a joint membership option with Walmart+ and Sam's Club as it leans further into convenience. Both stores will still offer stand-alone memberships, as well.
-Furner told CNBC the new membership has brought roughly 2 million new people into Sam's Club since its launch in late October. Though the company reimbursed some members for the new membership rate, Rainey added that it's already seeing positive returns on the joint model and that consumers are "spending appreciably more."
-The company on Thursday said its global membership fee revenue grew 17% in the third quarter.
-The company is typically well insulated from macroeconomic pressures because of its value reputation. Last quarter, the company said it was lowering prices of products across multiple categories, including beef.
-Rainey said Thursday that he's "optimistic" about consumer spending heading into the holiday season and that the fourth quarter is already "off to a pretty good start."
-The big-box retailer has posted solid growth over the past few quarters as it sees customers gravitate to reduced prices, improvements in delivery and gains in its advertising business. It's also leaned into attracting higher-income consumers with its Walmart+ membership.
-Shares of Walmart have fluctuated this year but are up roughly 13% year to date.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
-    publishedAt: "2026-11-19T19:58:30+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "trump-bought-nvidia-palantir-spacex-in-s-2274e90b",
-    title: "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
-    titleJa: "Trump bought Nvidia, Palantir, SpaceX in September as federal deals, White House ties grew",
-    summaryJa: "President Trump disclosed purchases of Nvidia stock, SpaceX debt and Tesla shares in September, alongside millions of dollars in other investments.",
-    bodyOriginal: `President Donald Trump's investment accounts bought shares of Nvidia, Palantir and Elon Musk's SpaceX in September, around the time the companies secured major federal contracts and their executives met with the president, according to a newly released financial disclosure.
-The 25-page filing shows 751 purchases and sales totaling between roughly $40.9 million and $148.1 million, according to a CNBC analysis. Purchases accounted for at least $29.2 million and sales at least $11.7 million. The filing reports transactions in broad dollar ranges, leaving the exact amounts and value of Trump's holdings unclear.
-Among the transactions were Palantir purchases before the company received two federal contracts worth $42.5 million combined, according to contracting records, SpaceX investments shortly before and after a $946 million NASA contract expansion, and Nvidia trades as its then-CEO, Jensen Huang, cultivated a close relationship with Trump.
-The trades underscore a striking feature of Trump's presidency: His personal fortune remains invested in companies whose fortunes his administration can shape. His accounts reported more than 21,000 trades in 2025, compared with roughly 500 during his entire first term. Recent presidents have generally divested individual stocks or used blind trusts to avoid potential conflicts.
-The White House has told CNBC previously Trump and his family have no control over the trades, which outside financial managers handle independently. The Trump Organization says the arrangement is designed to avoid even the appearance of a conflict. There is no evidence Trump directed the transactions or that his managers knew government decisions in advance.
-White House spokesman Davis Ingle said that Trump's portfolio is independently managed and that neither the president nor his family has any input on trades. "All investment decisions are made entirely by independent managers," Ingle told CNBC.
-The Trump Organization did not immediately respond to a request for comment.
-The timing was particularly notable at Palantir, the artificial intelligence software maker whose technology is used by U.S. military, intelligence and civilian agencies.
-Trump's accounts bought between $15,001 and $50,000 in Palantir shares on Sept. 2, followed by another purchase of between $1,001 and $15,000 on Sept. 9.
-A week later, the Department of Housing and Urban Development awarded Palantir a contract with $10.4 million in initial obligations for AI-powered grant oversight and fraud detection.
-On Sept. 29, the Department of Homeland Security awarded Palantir another $32.1 million software contract, bringing the two awards to roughly $42.5 million. That same day, CEO Alex Karp joined Trump, Musk, Huang and other technology executives at the White House for a meeting on artificial intelligence.
-Trump's accounts also bought shares and debt in SpaceX in the weeks surrounding a major NASA contract award.
-On Sept. 1, the accounts purchased between $100,001 and $250,000 in SpaceX debt carrying a 5.35% interest rate. Eight days later, they bought between $1,001 and $15,000 in shares of the major NASA and Pentagon contractor.
-On Sept. 18, NASA announced a $946 million expansion of its SpaceX contract, adding three astronaut missions to the International Space Station and bringing the agreement's total value to $5.92 billion. The agency had signaled plans for additional missions in May.
-Six days after the announcement, Trump's accounts bought another $15,001 to $50,000 in SpaceX shares on the same day Musk attended Trump's White House state dinner for Chinese President Xi Jinping. The filing does not show whether the purchase came before or after the dinner.
-The trades followed an even larger SpaceX investment in August, when Trump's accounts bought between $1 million and $5 million in the company's debt just two days before he signed a policy aimed at expanding commercial space transportation.
-Trump's accounts also continued buying Nvidia shares as Huang drew closer to the president — a relationship now under congressional scrutiny over Huang's ties to a woman suspected of spying for China.
-The September filing shows four Nvidia purchases totaling between $152,004 and $380,000, including two on Sept. 2 worth as much as $350,000 combined.
-The accounts also sold between $1,001 and $15,000 in Nvidia shares on Sept. 24, the day Huang also attended the state dinner with Xi.
-The trades bring Trump's Nvidia transactions to at least 108 since his return to office in 2025, worth between $27.2 million and $97.9 million, extending a CNBC analysis published Monday.
-The relationship between the president and Nvidia's then-CEO has drawn fresh scrutiny after The New York Times reported that intelligence officials warned Trump about Huang's relationship with a suspected Chinese spy. Trump has denied being briefed. Huang resigned Nov. 12 following revelations about his personal relationships.
-The September filing also shows substantial trading beyond the three companies. The largest reported transaction was a Sept. 23 purchase of between $5 million and $25 million in Vanguard Dividend Appreciation ETF shares.
-That same day, Trump's accounts sold between $1 million and $5 million each in Comcast, McDonald's, Home Depot and Fidelity National Information Services, along with between $500,001 and $1 million each in Nike and Constellation Brands.
-On the buy side, Trump's accounts purchased between $250,001 and $500,000 in TJX shares on each of two consecutive days, Sept. 15 and 16. They also bought between $117,004 and $330,000 in Tesla shares across four transactions, along with smaller investments in CoreWeave, Intel, Microsoft and Apple.`,
-    bodyJa: `President Donald Trump's investment accounts bought shares of Nvidia, Palantir and Elon Musk's SpaceX in September, around the time the companies secured major federal contracts and their executives met with the president, according to a newly released financial disclosure.
-The 25-page filing shows 751 purchases and sales totaling between roughly $40.9 million and $148.1 million, according to a CNBC analysis. Purchases accounted for at least $29.2 million and sales at least $11.7 million. The filing reports transactions in broad dollar ranges, leaving the exact amounts and value of Trump's holdings unclear.
-Among the transactions were Palantir purchases before the company received two federal contracts worth $42.5 million combined, according to contracting records, SpaceX investments shortly before and after a $946 million NASA contract expansion, and Nvidia trades as its then-CEO, Jensen Huang, cultivated a close relationship with Trump.
-The trades underscore a striking feature of Trump's presidency: His personal fortune remains invested in companies whose fortunes his administration can shape. His accounts reported more than 21,000 trades in 2025, compared with roughly 500 during his entire first term. Recent presidents have generally divested individual stocks or used blind trusts to avoid potential conflicts.
-The White House has told CNBC previously Trump and his family have no control over the trades, which outside financial managers handle independently. The Trump Organization says the arrangement is designed to avoid even the appearance of a conflict. There is no evidence Trump directed the transactions or that his managers knew government decisions in advance.
-White House spokesman Davis Ingle said that Trump's portfolio is independently managed and that neither the president nor his family has any input on trades. "All investment decisions are made entirely by independent managers," Ingle told CNBC.
-The Trump Organization did not immediately respond to a request for comment.
-The timing was particularly notable at Palantir, the artificial intelligence software maker whose technology is used by U.S. military, intelligence and civilian agencies.
-Trump's accounts bought between $15,001 and $50,000 in Palantir shares on Sept. 2, followed by another purchase of between $1,001 and $15,000 on Sept. 9.
-A week later, the Department of Housing and Urban Development awarded Palantir a contract with $10.4 million in initial obligations for AI-powered grant oversight and fraud detection.
-On Sept. 29, the Department of Homeland Security awarded Palantir another $32.1 million software contract, bringing the two awards to roughly $42.5 million. That same day, CEO Alex Karp joined Trump, Musk, Huang and other technology executives at the White House for a meeting on artificial intelligence.
-Trump's accounts also bought shares and debt in SpaceX in the weeks surrounding a major NASA contract award.
-On Sept. 1, the accounts purchased between $100,001 and $250,000 in SpaceX debt carrying a 5.35% interest rate. Eight days later, they bought between $1,001 and $15,000 in shares of the major NASA and Pentagon contractor.
-On Sept. 18, NASA announced a $946 million expansion of its SpaceX contract, adding three astronaut missions to the International Space Station and bringing the agreement's total value to $5.92 billion. The agency had signaled plans for additional missions in May.
-Six days after the announcement, Trump's accounts bought another $15,001 to $50,000 in SpaceX shares on the same day Musk attended Trump's White House state dinner for Chinese President Xi Jinping. The filing does not show whether the purchase came before or after the dinner.
-The trades followed an even larger SpaceX investment in August, when Trump's accounts bought between $1 million and $5 million in the company's debt just two days before he signed a policy aimed at expanding commercial space transportation.
-Trump's accounts also continued buying Nvidia shares as Huang drew closer to the president — a relationship now under congressional scrutiny over Huang's ties to a woman suspected of spying for China.
-The September filing shows four Nvidia purchases totaling between $152,004 and $380,000, including two on Sept. 2 worth as much as $350,000 combined.
-The accounts also sold between $1,001 and $15,000 in Nvidia shares on Sept. 24, the day Huang also attended the state dinner with Xi.
-The trades bring Trump's Nvidia transactions to at least 108 since his return to office in 2025, worth between $27.2 million and $97.9 million, extending a CNBC analysis published Monday.
-The relationship between the president and Nvidia's then-CEO has drawn fresh scrutiny after The New York Times reported that intelligence officials warned Trump about Huang's relationship with a suspected Chinese spy. Trump has denied being briefed. Huang resigned Nov. 12 following revelations about his personal relationships.
-The September filing also shows substantial trading beyond the three companies. The largest reported transaction was a Sept. 23 purchase of between $5 million and $25 million in Vanguard Dividend Appreciation ETF shares.
-That same day, Trump's accounts sold between $1 million and $5 million each in Comcast, McDonald's, Home Depot and Fidelity National Information Services, along with between $500,001 and $1 million each in Nike and Constellation Brands.
-On the buy side, Trump's accounts purchased between $250,001 and $500,000 in TJX shares on each of two consecutive days, Sept. 15 and 16. They also bought between $117,004 and $330,000 in Tesla shares across four transactions, along with smaller investments in CoreWeave, Intel, Microsoft and Apple.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/19/trump-nvidia-spacex-palantir-stock-trades-september.html",
-    publishedAt: "2026-11-19T19:43:08+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "amazon-launches-in-app-push-against-mamd-dc201879",
-    title: "Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
-    titleJa: "Amazon launches in-app push against Mamdani-backed delivery bill in New York City",
-    summaryJa: "Amazon has lobbied heavily against the proposed legislation, while New York City Mayor Zohran Mamdani backed the bill earlier this year.",
-    bodyOriginal: `Amazon is taking its fight against a New York City delivery bill, which has been backed by Mayor Zohran Mamdani, to its shopping website and app.
-Some users who open the company's shopping app or website report being served with pop-ups and banners warning that the New York City Council "could add up to $5 per order" if it passes Intro 518, or the Delivery Protection Act.
-The bill would require Amazon to employ its army of third-party delivery companies directly, disrupting the contractor model it has relied on since 2018. Amazon uses a network of thousands of small companies, which often work solely for Amazon, to handle the last-mile portion of shipments, in an effort to speed up deliveries and control more of its logistics operations.
-"If this legislation passes, we'd no longer be able to work with them, and we'd be forced to consider moving our operations outside of the city," Amazon's in-app message states. "That would likely mean slower and more expensive delivery for millions of customers in New York City, while also threatening small businesses and their thousands of employees."
-The proposed legislation was introduced in February and is awaiting review by City Council Speaker Julie Menin.
-Amazon also posted a statement on its company website where it often publishes its policy positions. But rarely has the company used its valuable e-commerce site and app real estate to push its perspectives. Other tech companies including Uber and Lyft have similarly used their apps to advocate for or against legislation in the past.
-Amazon's pop-up notices and a stationary banner on its store homepage direct users to a form where they can "contact your council member to oppose Intro 518."
-According to Amazon, 20,000 customers sent emails to city council members in the first six hours that the pop-up appeared.
-Menin told CNBC in a statement that Amazon's claim it will need to raise prices due to the proposed legislation "defies logic."
-"We are crafting legislation that regulates Amazon and protects workers, without impacting prices or jobs," Menin said. "If Amazon thinks this deceptive campaign will effectively threaten New Yorkers and intimidate this City Council, they are dead wrong."
-Amazon spokesperson Kelly Nantel said in a statement that the company put up the notices to be "transparent with our customers" about what the bill "would cause them if it passes as written."
-"If customers are concerned, one of the most impactful things they can do is contact their City Council member and ask them to oppose this bill," Nantel said.
-The Delivery Protection Act has received a swell of support from labor groups, including the International Brotherhood of Teamsters, which has sought to unionize Amazon delivery and warehouse workers.
-Mamdani endorsed the bill in August, saying Amazon's subcontractor model "leaves workers vulnerable and corporations free to avoid accountability for reckless conditions on city streets." He's argued the bill would lead to safer working conditions for drivers, and allow the city to "regulate last-mile operations."
-Amazon disputed Mamdani's claims, saying the bill would put Delivery Service Partner jobs "at risk without improving safety." It also argued that other businesses and governments use contractors in their operations, and said the DSP model has allowed it to meet growing customer demand.
-"It works because local entrepreneurs — people rooted in their communities — deliver a better experience," Amazon said. "They invest in their teams, their routes, and their neighborhoods. That's not a liability play."
-Amazon has lobbied heavily against the bill, while logistics and business groups have launched local advertising campaigns, and warned they may sue the city if the bill passes.`,
-    bodyJa: `Amazon is taking its fight against a New York City delivery bill, which has been backed by Mayor Zohran Mamdani, to its shopping website and app.
-Some users who open the company's shopping app or website report being served with pop-ups and banners warning that the New York City Council "could add up to $5 per order" if it passes Intro 518, or the Delivery Protection Act.
-The bill would require Amazon to employ its army of third-party delivery companies directly, disrupting the contractor model it has relied on since 2018. Amazon uses a network of thousands of small companies, which often work solely for Amazon, to handle the last-mile portion of shipments, in an effort to speed up deliveries and control more of its logistics operations.
-"If this legislation passes, we'd no longer be able to work with them, and we'd be forced to consider moving our operations outside of the city," Amazon's in-app message states. "That would likely mean slower and more expensive delivery for millions of customers in New York City, while also threatening small businesses and their thousands of employees."
-The proposed legislation was introduced in February and is awaiting review by City Council Speaker Julie Menin.
-Amazon also posted a statement on its company website where it often publishes its policy positions. But rarely has the company used its valuable e-commerce site and app real estate to push its perspectives. Other tech companies including Uber and Lyft have similarly used their apps to advocate for or against legislation in the past.
-Amazon's pop-up notices and a stationary banner on its store homepage direct users to a form where they can "contact your council member to oppose Intro 518."
-According to Amazon, 20,000 customers sent emails to city council members in the first six hours that the pop-up appeared.
-Menin told CNBC in a statement that Amazon's claim it will need to raise prices due to the proposed legislation "defies logic."
-"We are crafting legislation that regulates Amazon and protects workers, without impacting prices or jobs," Menin said. "If Amazon thinks this deceptive campaign will effectively threaten New Yorkers and intimidate this City Council, they are dead wrong."
-Amazon spokesperson Kelly Nantel said in a statement that the company put up the notices to be "transparent with our customers" about what the bill "would cause them if it passes as written."
-"If customers are concerned, one of the most impactful things they can do is contact their City Council member and ask them to oppose this bill," Nantel said.
-The Delivery Protection Act has received a swell of support from labor groups, including the International Brotherhood of Teamsters, which has sought to unionize Amazon delivery and warehouse workers.
-Mamdani endorsed the bill in August, saying Amazon's subcontractor model "leaves workers vulnerable and corporations free to avoid accountability for reckless conditions on city streets." He's argued the bill would lead to safer working conditions for drivers, and allow the city to "regulate last-mile operations."
-Amazon disputed Mamdani's claims, saying the bill would put Delivery Service Partner jobs "at risk without improving safety." It also argued that other businesses and governments use contractors in their operations, and said the DSP model has allowed it to meet growing customer demand.
-"It works because local entrepreneurs — people rooted in their communities — deliver a better experience," Amazon said. "They invest in their teams, their routes, and their neighborhoods. That's not a liability play."
-Amazon has lobbied heavily against the bill, while logistics and business groups have launched local advertising campaigns, and warned they may sue the city if the bill passes.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
-    publishedAt: "2026-11-19T19:29:31+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "amd-dives-on-short-seller-report-of-alle-6ed97a5f",
-    title: "AMD dives on short-seller report of alleged China exposure",
-    titleJa: "AMD dives on short-seller report of alleged China exposure",
-    summaryJa: "AMD was slumping after a short-seller alleged that its firmware showed up at a blacklisted Chinese company. The company said it complies with U.S. law.",
-    bodyOriginal: `Shares of chipmaker Advanced Micro Devices were down about 7% Wednesday after investment firm Hunterbrook Media issued a report alleging that the company "has its own China problem."
-Hunterbrook disclosed that it had taken a short position in AMD.
-The report claims that "after the U.S. blacklisted Chinese server maker IEIT Systems, the company kept getting newer AMD firmware, which enables AMD chips to run in servers."
-CNBC did not independently verify this information.
-Hunterbrook also said that new export rules in Washington could "tighten restrictions on AMD's foreign business," alleging that AMD "bills over 20% of its revenue to customers in China and Hong Kong," and "depends on a Chinese partner to finish most of its chips."
-The allegations come amid investigations of rival chipmaker Nvidia over its sales to companies in Asia with ties to China. AMD has been viewed as a beneficiary of the uncertainty surrounding Nvidia.
-"The claims misrepresent AMD's business practices and relationships," an AMD spokesperson said in a statement. "AMD complies with applicable US export control laws and regulations and maintains rigorous processes to ensure compliance across our global operations. We remain focused on serving our customers and upholding the highest standards of integrity."
-Lisa Su, CEO of AMD, told investors on the company's recent earnings call that China is an "important" market and that the semiconductor giant wants to be fully compliant with U.S. export controls.`,
-    bodyJa: `Shares of chipmaker Advanced Micro Devices were down about 7% Wednesday after investment firm Hunterbrook Media issued a report alleging that the company "has its own China problem."
-Hunterbrook disclosed that it had taken a short position in AMD.
-The report claims that "after the U.S. blacklisted Chinese server maker IEIT Systems, the company kept getting newer AMD firmware, which enables AMD chips to run in servers."
-CNBC did not independently verify this information.
-Hunterbrook also said that new export rules in Washington could "tighten restrictions on AMD's foreign business," alleging that AMD "bills over 20% of its revenue to customers in China and Hong Kong," and "depends on a Chinese partner to finish most of its chips."
-The allegations come amid investigations of rival chipmaker Nvidia over its sales to companies in Asia with ties to China. AMD has been viewed as a beneficiary of the uncertainty surrounding Nvidia.
-"The claims misrepresent AMD's business practices and relationships," an AMD spokesperson said in a statement. "AMD complies with applicable US export control laws and regulations and maintains rigorous processes to ensure compliance across our global operations. We remain focused on serving our customers and upholding the highest standards of integrity."
-Lisa Su, CEO of AMD, told investors on the company's recent earnings call that China is an "important" market and that the semiconductor giant wants to be fully compliant with U.S. export controls.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
-    publishedAt: "2026-11-19T18:24:54+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 4,
-  },
-  {
-    id: "palo-alto-stock-jumps-on-earnings-beat-a-a6aa02cf",
-    title: "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
-    titleJa: "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
-    summaryJa: "Palo Alto Networks reported better-than-expected first-quarter results and inked a $4.5 billion deal for AI startup Applied Compute",
-    bodyOriginal: `Palo Alto Networks shares rose 6% on Thursday as businesses boosted spending on cybersecurity products and investors cheered the company's acquisition of a startup that pushes it into securing open-weight artificial intelligence models.
-The company beat Wall Street's estimates for the fiscal first quarter. Revenue jumped 39% from a year ago and Palo Alto boosted its guidance for the year.
-Recent outages at Microsoft, banks and the Federal Aviation Administration have left businesses reeling. While U.S. officials haven't detected any malicious activity, the disruptions raise concerns over aging equipment and infrastructure. Many businesses are scrambling to patch vulnerabilities at a faster clip than ever before to keep pace with the growing risks of AI-powered cyberattacks.
-Those fears have led more businesses to consolidate platforms, which is fueling growth in areas like firewall and AI security, Palo Alto Networks CEO Nikesh Arora told CNBC's "Mad Money" on Wednesday.
-"They're going to have to make sure they get the best players in the market to come support them because this is no longer child's play," Arora said.
-Alongside earnings, Palo Alto announced a $4.5 billion deal to buy Applied Compute, a startup that helps train customized open-weight models. It's one of several recent deals in Arora's aggressive acquisition spree and marks a significant shift beyond cybersecurity.
-"Rather than being one player out of 10 in the industry serving compute, we want to be the one player with Palo Alto that delivers secure compute and security capability," Arora told CNBC.
-Palo Alto expects the deal to add more than $1 billion in annual recurring revenue to its next-generation security business by the 2029 fiscal year.
-Analysts at Bank of America touted the deal as a "bold move" to expand beyond securing AI into training open-weight models, allowing Palo Alto to lead the next phase of the AI revolution.
-This "appears consistent with PANW's 'long-game' - become indispensable beyond cyber into multidisciplinary IT domains across AI-value-chain," wrote analysts at Citigroup.`,
-    bodyJa: `Palo Alto Networks shares rose 6% on Thursday as businesses boosted spending on cybersecurity products and investors cheered the company's acquisition of a startup that pushes it into securing open-weight artificial intelligence models.
-The company beat Wall Street's estimates for the fiscal first quarter. Revenue jumped 39% from a year ago and Palo Alto boosted its guidance for the year.
-Recent outages at Microsoft, banks and the Federal Aviation Administration have left businesses reeling. While U.S. officials haven't detected any malicious activity, the disruptions raise concerns over aging equipment and infrastructure. Many businesses are scrambling to patch vulnerabilities at a faster clip than ever before to keep pace with the growing risks of AI-powered cyberattacks.
-Those fears have led more businesses to consolidate platforms, which is fueling growth in areas like firewall and AI security, Palo Alto Networks CEO Nikesh Arora told CNBC's "Mad Money" on Wednesday.
-"They're going to have to make sure they get the best players in the market to come support them because this is no longer child's play," Arora said.
-Alongside earnings, Palo Alto announced a $4.5 billion deal to buy Applied Compute, a startup that helps train customized open-weight models. It's one of several recent deals in Arora's aggressive acquisition spree and marks a significant shift beyond cybersecurity.
-"Rather than being one player out of 10 in the industry serving compute, we want to be the one player with Palo Alto that delivers secure compute and security capability," Arora told CNBC.
-Palo Alto expects the deal to add more than $1 billion in annual recurring revenue to its next-generation security business by the 2029 fiscal year.
-Analysts at Bank of America touted the deal as a "bold move" to expand beyond securing AI into training open-weight models, allowing Palo Alto to lead the next phase of the AI revolution.
-This "appears consistent with PANW's 'long-game' - become indispensable beyond cyber into multidisciplinary IT domains across AI-value-chain," wrote analysts at Citigroup.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
-    publishedAt: "2026-11-19T16:28:06+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 5,
-  },
-  {
-    id: "kash-patel-skips-house-hearing-after-mar-f3259224",
-    title: "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
-    titleJa: "Kash Patel skips House hearing after Mar-a-Lago gala with $50,000 access",
-    summaryJa: "Kash Patel missed a congressional hearing after appearing the night before at a Mar-a-Lago gala offering donors of $50,000 access to top officials.",
-    bodyOriginal: `After a string of outages disrupted airlines, banks and even the National Security Agency, U.S. House members gathered Wednesday to question the nation's top security officials. But FBI Director Kash Patel was nowhere to be seen.
-The night before, Patel and Homeland Security Secretary Markwayne Mullin had been advertised as "honored guests" at the Big Blue Bash, a lavish charitable fundraiser at President Donald Trump's Mar-a-Lago club, where attendees were offered access to a "private roundtable" and a stay at the venue for $50,000 a person.
-Mullin appeared before lawmakers Wednesday morning at the House Homeland Security Committee's annual threat assessment hearing. Patel sent his deputy instead. And as the hearing got underway, a Justice Department jet that's been used by Patel before was still flying back from Florida.
-Flight records reviewed by CNBC show the Justice Department aircraft associated with Patel's travel left West Palm Beach, Florida, at 7:51 a.m. ET Wednesday and landed at Joint Base Andrews outside Washington at 10:20 a.m. ET — 20 minutes after the House Homeland Security Committee hearing began.
-The FBI confirmed Patel, Mullin and Attorney General Todd Blanche attended the Mar-a-Lago event.
-"The event is approved by Ethics, following all guidelines and regulations," FBI spokesperson Benjamin Williamson told CNBC by email, noting the gala "is an annual event honoring fallen law enforcement officers and their families."
-Patel's absence drew bipartisan criticism on Capitol Hill. Committee Chairman Andrew Garbarino, R-N.Y., said lawmakers had spent months trying to secure Patel's testimony, only for the FBI director to make clear he had "no intention" of appearing.
-Rep. Bennie Thompson, of Mississippi, the committee's top Democrat, said Patel's absence for a second consecutive year undermined lawmakers' ability to conduct oversight. Before 2024, FBI directors traditionally testified at the annual hearing.
-The episode also drew attention to what was being offered at Trump's private club: a chance for donors and corporate sponsors to meet privately with some of the nation's most powerful law enforcement officials.
-"Trump's Big Blue Bash is yet another fundraising event that encourages wealthy special interests, particularly those seeking lucrative government contracts, to rub elbows with officials responsible for awarding those contracts," Craig Holman, a government ethics and lobbying expert at the watchdog group Public Citizen, told CNBC.
-Billed as a tribute to federal officers and their families, the second annual black-tie gala came with a price list for access.
-Gala tickets cost up to $50,000
-General admission cost nearly $5,000, a VIP all-access pass $25,000, and a private roundtable with federal agency heads and a night at Trump's resort $50,000, according to the event's ticketing page. A sponsorship prospectus reviewed by CNBC advertised corporate packages reaching $1 million, including private briefings, speaking time, and the chance to name and present an award to a federal agency of the sponsor's choosing.
-Alongside Patel and Mullin, the advertised guest list also included White House border czar Tom Homan and leaders of Customs and Border Protection, the Secret Service, Drug Enforcement Administration, and Transportation Security Administration.
-It remains unclear which officials attended private meetings or which companies bought the most expensive packages. But several sponsors had substantial business with the agencies represented.
-Motorola Solutions, the gala's top named sponsor, had approximately $237.1 million in fiscal 2026 net contract obligations from the Justice and Homeland Security departments, according to CNBC's analysis of federal records. That included a $139.6 million Bureau of Prisons radio contract, a $25.8 million Customs and Border Protection award and a nearly $18 million Secret Service contract option, all in September.
-Motorola reported roughly $1.69 million in federal lobbying expenses this year through September, according to its first-quarter, second-quarter and third-quarter disclosures. Its lobbying included homeland security funding, communications technology and other issues.
-"Motorola Solutions was proud to support last night's Big Blue Bash, honoring the families of wounded and fallen federal officers, whom we hosted as the night's guests of honor," the company said through a spokesperson. "We did not participate in private briefings."
-Federal contractors supported gala
-Two other federal contractors, the Vierra Group and Teya Diversified Services, sponsored a Department of Homeland Security presentation featuring Mullin and Homan, according to the gala's published program.
-Federal contracting records show Teya received three Customs and Border Protection contracts in September worth approximately $23.3 million combined for repairs at northern border ports of entry. The awards were $9.1 million for work at 12 ports, $7.9 million for nine ports and $6.4 million for 10 ports.
-LEO Technologies, which markets artificial intelligence and surveillance products to law enforcement agencies, was also listed as a sponsor.
-Vierra, Teya and LEO Technologies didn't immediately respond to CNBC's requests for comment.
-Ethics rules limit charitable involvement
-Federal ethics rules require authorization for officials to participate in charitable fundraising in their official capacities and restrict the use of government titles for personal fundraising.
-Holman said companies attending such events hope to gain favor with the administration and ultimately benefit through government contracts and policies affecting their businesses.
-There is no evidence the sponsorships influenced federal contracts or secured preferential treatment, and some new contract awards added to existing contracts.
-The financial questions extend to Trump's own business. Organizers haven't disclosed what Mar-a-Lago was paid or how much reached the Federal Law Enforcement Officers Foundation, the nonprofit that's the event's beneficiary. The gala offered a $1 million sponsorship package — more than the charity's entire 2024 revenue of $725,476, according to its latest available IRS filing — though no purchase has been confirmed. A Republican fundraiser at Mar-a-Lago cost about $318,000 in 2023, according to a New York Times analysis of campaign finance records.
-The event also may raise questions about taxpayer-funded travel. Organizers listed Mullin as a speaker, and flight records reviewed by CNBC show a Gulfstream jet registered to DHS arriving in West Palm Beach Tuesday evening, alongside the Justice Department plane associated with Patel's travel. It remains unclear who was aboard either aircraft or whether the flights were connected to the gala.
-Days earlier, Mullin used a government plane to attend a Louisiana State University football game shortly after a nationwide FAA ground stop. He defended the trip Wednesday to the House Homeland Security Committee, saying that government travel was required and that he personally paid for it.`,
-    bodyJa: `After a string of outages disrupted airlines, banks and even the National Security Agency, U.S. House members gathered Wednesday to question the nation's top security officials. But FBI Director Kash Patel was nowhere to be seen.
-The night before, Patel and Homeland Security Secretary Markwayne Mullin had been advertised as "honored guests" at the Big Blue Bash, a lavish charitable fundraiser at President Donald Trump's Mar-a-Lago club, where attendees were offered access to a "private roundtable" and a stay at the venue for $50,000 a person.
-Mullin appeared before lawmakers Wednesday morning at the House Homeland Security Committee's annual threat assessment hearing. Patel sent his deputy instead. And as the hearing got underway, a Justice Department jet that's been used by Patel before was still flying back from Florida.
-Flight records reviewed by CNBC show the Justice Department aircraft associated with Patel's travel left West Palm Beach, Florida, at 7:51 a.m. ET Wednesday and landed at Joint Base Andrews outside Washington at 10:20 a.m. ET — 20 minutes after the House Homeland Security Committee hearing began.
-The FBI confirmed Patel, Mullin and Attorney General Todd Blanche attended the Mar-a-Lago event.
-"The event is approved by Ethics, following all guidelines and regulations," FBI spokesperson Benjamin Williamson told CNBC by email, noting the gala "is an annual event honoring fallen law enforcement officers and their families."
-Patel's absence drew bipartisan criticism on Capitol Hill. Committee Chairman Andrew Garbarino, R-N.Y., said lawmakers had spent months trying to secure Patel's testimony, only for the FBI director to make clear he had "no intention" of appearing.
-Rep. Bennie Thompson, of Mississippi, the committee's top Democrat, said Patel's absence for a second consecutive year undermined lawmakers' ability to conduct oversight. Before 2024, FBI directors traditionally testified at the annual hearing.
-The episode also drew attention to what was being offered at Trump's private club: a chance for donors and corporate sponsors to meet privately with some of the nation's most powerful law enforcement officials.
-"Trump's Big Blue Bash is yet another fundraising event that encourages wealthy special interests, particularly those seeking lucrative government contracts, to rub elbows with officials responsible for awarding those contracts," Craig Holman, a government ethics and lobbying expert at the watchdog group Public Citizen, told CNBC.
-Billed as a tribute to federal officers and their families, the second annual black-tie gala came with a price list for access.
-Gala tickets cost up to $50,000
-General admission cost nearly $5,000, a VIP all-access pass $25,000, and a private roundtable with federal agency heads and a night at Trump's resort $50,000, according to the event's ticketing page. A sponsorship prospectus reviewed by CNBC advertised corporate packages reaching $1 million, including private briefings, speaking time, and the chance to name and present an award to a federal agency of the sponsor's choosing.
-Alongside Patel and Mullin, the advertised guest list also included White House border czar Tom Homan and leaders of Customs and Border Protection, the Secret Service, Drug Enforcement Administration, and Transportation Security Administration.
-It remains unclear which officials attended private meetings or which companies bought the most expensive packages. But several sponsors had substantial business with the agencies represented.
-Motorola Solutions, the gala's top named sponsor, had approximately $237.1 million in fiscal 2026 net contract obligations from the Justice and Homeland Security departments, according to CNBC's analysis of federal records. That included a $139.6 million Bureau of Prisons radio contract, a $25.8 million Customs and Border Protection award and a nearly $18 million Secret Service contract option, all in September.
-Motorola reported roughly $1.69 million in federal lobbying expenses this year through September, according to its first-quarter, second-quarter and third-quarter disclosures. Its lobbying included homeland security funding, communications technology and other issues.
-"Motorola Solutions was proud to support last night's Big Blue Bash, honoring the families of wounded and fallen federal officers, whom we hosted as the night's guests of honor," the company said through a spokesperson. "We did not participate in private briefings."
-Federal contractors supported gala
-Two other federal contractors, the Vierra Group and Teya Diversified Services, sponsored a Department of Homeland Security presentation featuring Mullin and Homan, according to the gala's published program.
-Federal contracting records show Teya received three Customs and Border Protection contracts in September worth approximately $23.3 million combined for repairs at northern border ports of entry. The awards were $9.1 million for work at 12 ports, $7.9 million for nine ports and $6.4 million for 10 ports.
-LEO Technologies, which markets artificial intelligence and surveillance products to law enforcement agencies, was also listed as a sponsor.
-Vierra, Teya and LEO Technologies didn't immediately respond to CNBC's requests for comment.
-Ethics rules limit charitable involvement
-Federal ethics rules require authorization for officials to participate in charitable fundraising in their official capacities and restrict the use of government titles for personal fundraising.
-Holman said companies attending such events hope to gain favor with the administration and ultimately benefit through government contracts and policies affecting their businesses.
-There is no evidence the sponsorships influenced federal contracts or secured preferential treatment, and some new contract awards added to existing contracts.
-The financial questions extend to Trump's own business. Organizers haven't disclosed what Mar-a-Lago was paid or how much reached the Federal Law Enforcement Officers Foundation, the nonprofit that's the event's beneficiary. The gala offered a $1 million sponsorship package — more than the charity's entire 2024 revenue of $725,476, according to its latest available IRS filing — though no purchase has been confirmed. A Republican fundraiser at Mar-a-Lago cost about $318,000 in 2023, according to a New York Times analysis of campaign finance records.
-The event also may raise questions about taxpayer-funded travel. Organizers listed Mullin as a speaker, and flight records reviewed by CNBC show a Gulfstream jet registered to DHS arriving in West Palm Beach Tuesday evening, alongside the Justice Department plane associated with Patel's travel. It remains unclear who was aboard either aircraft or whether the flights were connected to the gala.
-Days earlier, Mullin used a government plane to attend a Louisiana State University football game shortly after a nationwide FAA ground stop. He defended the trip Wednesday to the House Homeland Security Committee, saying that government travel was required and that he personally paid for it.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/18/kash-patel-hearing-mar-a-lago-gala.html",
-    publishedAt: "2026-11-19T14:15:18+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "viagogo-may-have-broken-law-on-hidden-fe-a6ba23d6",
-    title: "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
-    titleJa: "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
-    summaryJa: "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
-    bodyOriginal: `Viagogo may have broken law on hidden fees, watchdog provisionally finds
-- Published
-Ticket-reselling site Viagogo may have broken the law on hidden fees, the UK's competition body has said in a provisional finding.
-The Competition and Markets Authority (CMA) said it found that Viagogo failed to show consumers the total price upfront when they were buying tickets "and added fees later in the process, a practice known as drip pricing".
-The CMA added that this was an initial finding, and it should not be assumed that the company had actually broken the law.
-In a statement, Viagogo said it was co-operating fully with the CMA, adding that the investigation was continuing and "no final findings have been made".
-The CMA said last year that it was investigating a number of companies over their online pricing practices, including Viagogo.
-The competition watchdog said it had looked into the experience of UK fans buying tickets for events such as concerts and sport on three websites that operate under the Viagogo brand.
-"The CMA believes that mandatory costs such as taxes and booking fees were added at later stages of the checkout process and not included in the total price from the start," it said.
-"Drip pricing can cause fans to be caught out by extra charges and buy tickets they might not otherwise have selected, had they been able to compare prices accurately from the start."
-The CMA said Viagogo would now have an opportunity to consider its findings and respond before a final decision is made.
-"This is an ongoing investigation and no final findings have been made," Viagogo said in a statement.
-"We have engaged constructively with the CMA and continue to cooperate fully with its investigation."
-The CMA has powers to tackle anti-competitive behaviour. It can now decide if consumer laws have been broken - rather than having to go through the courts.
-Drip pricing is one of the practices the CMA has been focusing on particularly.
-On Wednesday, it said it was investigating three companies, external over the issue, and in August it announced that the Trainline, Virgin Atlantic and RED Driving School had been engaged in the practice.
-In general, the CMA can impose penalties of up to 10% of global turnover for a breach of consumer law. However, it will consider a number of factors, including the severity of conduct, before deciding on the size of the penalty.
-In June this year, the watchdog ordered rival ticket reseller StubHub UK to refund more than 50,000 customers and pay a £900,000 fine for not showing people the total price upfront when buying tickets.
-StubHub UK received a 40% reduction to its financial penalty after it admitted to breaking the law and agreed to settle the case early with the CMA.`,
-    bodyJa: `Viagogo may have broken law on hidden fees, watchdog provisionally finds
-- Published
-Ticket-reselling site Viagogo may have broken the law on hidden fees, the UK's competition body has said in a provisional finding.
-The Competition and Markets Authority (CMA) said it found that Viagogo failed to show consumers the total price upfront when they were buying tickets "and added fees later in the process, a practice known as drip pricing".
-The CMA added that this was an initial finding, and it should not be assumed that the company had actually broken the law.
-In a statement, Viagogo said it was co-operating fully with the CMA, adding that the investigation was continuing and "no final findings have been made".
-The CMA said last year that it was investigating a number of companies over their online pricing practices, including Viagogo.
-The competition watchdog said it had looked into the experience of UK fans buying tickets for events such as concerts and sport on three websites that operate under the Viagogo brand.
-"The CMA believes that mandatory costs such as taxes and booking fees were added at later stages of the checkout process and not included in the total price from the start," it said.
-"Drip pricing can cause fans to be caught out by extra charges and buy tickets they might not otherwise have selected, had they been able to compare prices accurately from the start."
-The CMA said Viagogo would now have an opportunity to consider its findings and respond before a final decision is made.
-"This is an ongoing investigation and no final findings have been made," Viagogo said in a statement.
-"We have engaged constructively with the CMA and continue to cooperate fully with its investigation."
-The CMA has powers to tackle anti-competitive behaviour. It can now decide if consumer laws have been broken - rather than having to go through the courts.
-Drip pricing is one of the practices the CMA has been focusing on particularly.
-On Wednesday, it said it was investigating three companies, external over the issue, and in August it announced that the Trainline, Virgin Atlantic and RED Driving School had been engaged in the practice.
-In general, the CMA can impose penalties of up to 10% of global turnover for a breach of consumer law. However, it will consider a number of factors, including the severity of conduct, before deciding on the size of the penalty.
-In June this year, the watchdog ordered rival ticket reseller StubHub UK to refund more than 50,000 customers and pay a £900,000 fine for not showing people the total price upfront when buying tickets.
-StubHub UK received a 40% reduction to its financial penalty after it admitted to breaking the law and agreed to settle the case early with the CMA.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-19T13:35:52+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3865/live/755fe980-e407-11f1-ab35-e1af93fa5cce.jpg",
-    readTime: 7,
-  },
-  {
-    id: "takaichi-gets-chilly-reception-in-china-fa0c4782",
-    title: "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
-    titleJa: "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
-    summaryJa: "Takaichi received a subdued welcome on her trip to attend the APEC summit, as Beijing shows limited appetite for repairing ties strained by Taiwan dispute.",
-    bodyOriginal: `Japanese Prime Minister Sanae Takaichi received a subdued welcome on her first trip to China as premier, signaling Beijing's limited appetite for repairing ties strained by a simmering row over Taiwan.
-At gatherings such as this week's Asia-Pacific Economic Cooperation summit in Shenzhen, protocol details — including who greets a visiting leader at the airport and where they are positioned in official photographs — often convey political messages.
-Takaichi was met on the tarmac Wednesday by a retired Chinese diplomat, rather than a serving official, and Japan's ambassador to China, Kenji Kanasugi.
-The low-key reception contrasted sharply with the warmer welcomes given to other visiting leaders, including South Korean President Lee Jae Myung, while U.S. President Donald Trump was greeted personally by Chinese President Xi Jinping.
-In the leaders' group photo, Takaichi was placed in the back row, off to the side and several places from Xi, who stood alongside Trump and Russian President Vladimir Putin.
-"Beijing sought to downgrade her official status to that of a head of government rather than a head of state," said Jeremy Chan, senior analyst at Eurasia Group.
-During Thursday morning's greeting line, Takaichi spent several minutes trying to talk to the Chinese leader without an interpreter present, while most leaders exchanged handshakes and kept walking.
-"It has become increasingly difficult for her to engage in formal or even informal conversations with Xi," said Kei Koga, an associate professor at Nanyang Technological University in Singapore, who sees Takaichi's intention as to still "project the image that she could still communicate with him despite the ongoing tensions."
-Takaichi's subdued reception signaled Beijing's lack of enthusiasm to repair ties with Tokyo, analysts said, potentially prolonging China's curbs on critical mineral exports that have gripped Japanese industries for the past year.
-"China's frosty reception of Takaichi shows quite clearly that Beijing is not yet ready to forgive her over her remarks about Taiwan," Chan said, expecting the bilateral relationship to remain strained until Takaichi leaves office.
-That could leave Japan grappling with continued restrictions on rare earth supplies from China next year, said Tianchen Xu, senior economist at the Economist Intelligence Unit.
-Relations deteriorated sharply after Takaichi said in November 2025 that a Taiwan Strait crisis could constitute a situation threatening Japan's survival and warrant a self-defense response.
-While the substance broadly aligned with Japan's existing security policy, previous prime ministers had generally avoided stating it so explicitly in a Taiwan scenario.
-China reacted angrily and demanded that Takaichi retract the remarks. She has not done so, while stating that the door to dialogue with Beijing remains open, with minimal high-level contact over the past year.
-China has since tightened restrictions affecting Japan, including controls on dual-use and rare earth exports with potential military uses. It also discouraged its citizens from traveling to Japan and halted Japanese seafood imports.
-Takaichi's visit marked the first trip to China by a Japanese prime minister since Shinzo Abe traveled to Chengdu in December 2019 for a trilateral summit with Chinese and South Korean leaders.
-No formal Takaichi-Xi meeting has been publicly scheduled during her visit. Meanwhile, Xi is expected to join Trump and Putin for a historic trilateral gathering on Thursday, alongside a bilateral meeting with Trump.
-Takaichi needs to show a "reflection of what she said about Taiwan a year ago," said Huiyao Wang, founder of the Beijing-based Center for China and Globalization, which is often seen as close to Beijing's thinking.
-Wang said Tokyo should show greater flexibility, pointing to Trump's comments that the U.S. would avoid getting involved in the Taiwan issue. He argued that Japan holding firm on the issue would not help relations with Beijing.
-Such reflection, he said, "would really help to clarify some of those misunderstandings between the two countries."`,
-    bodyJa: `Japanese Prime Minister Sanae Takaichi received a subdued welcome on her first trip to China as premier, signaling Beijing's limited appetite for repairing ties strained by a simmering row over Taiwan.
-At gatherings such as this week's Asia-Pacific Economic Cooperation summit in Shenzhen, protocol details — including who greets a visiting leader at the airport and where they are positioned in official photographs — often convey political messages.
-Takaichi was met on the tarmac Wednesday by a retired Chinese diplomat, rather than a serving official, and Japan's ambassador to China, Kenji Kanasugi.
-The low-key reception contrasted sharply with the warmer welcomes given to other visiting leaders, including South Korean President Lee Jae Myung, while U.S. President Donald Trump was greeted personally by Chinese President Xi Jinping.
-In the leaders' group photo, Takaichi was placed in the back row, off to the side and several places from Xi, who stood alongside Trump and Russian President Vladimir Putin.
-"Beijing sought to downgrade her official status to that of a head of government rather than a head of state," said Jeremy Chan, senior analyst at Eurasia Group.
-During Thursday morning's greeting line, Takaichi spent several minutes trying to talk to the Chinese leader without an interpreter present, while most leaders exchanged handshakes and kept walking.
-"It has become increasingly difficult for her to engage in formal or even informal conversations with Xi," said Kei Koga, an associate professor at Nanyang Technological University in Singapore, who sees Takaichi's intention as to still "project the image that she could still communicate with him despite the ongoing tensions."
-Takaichi's subdued reception signaled Beijing's lack of enthusiasm to repair ties with Tokyo, analysts said, potentially prolonging China's curbs on critical mineral exports that have gripped Japanese industries for the past year.
-"China's frosty reception of Takaichi shows quite clearly that Beijing is not yet ready to forgive her over her remarks about Taiwan," Chan said, expecting the bilateral relationship to remain strained until Takaichi leaves office.
-That could leave Japan grappling with continued restrictions on rare earth supplies from China next year, said Tianchen Xu, senior economist at the Economist Intelligence Unit.
-Relations deteriorated sharply after Takaichi said in November 2025 that a Taiwan Strait crisis could constitute a situation threatening Japan's survival and warrant a self-defense response.
-While the substance broadly aligned with Japan's existing security policy, previous prime ministers had generally avoided stating it so explicitly in a Taiwan scenario.
-China reacted angrily and demanded that Takaichi retract the remarks. She has not done so, while stating that the door to dialogue with Beijing remains open, with minimal high-level contact over the past year.
-China has since tightened restrictions affecting Japan, including controls on dual-use and rare earth exports with potential military uses. It also discouraged its citizens from traveling to Japan and halted Japanese seafood imports.
-Takaichi's visit marked the first trip to China by a Japanese prime minister since Shinzo Abe traveled to Chengdu in December 2019 for a trilateral summit with Chinese and South Korean leaders.
-No formal Takaichi-Xi meeting has been publicly scheduled during her visit. Meanwhile, Xi is expected to join Trump and Putin for a historic trilateral gathering on Thursday, alongside a bilateral meeting with Trump.
-Takaichi needs to show a "reflection of what she said about Taiwan a year ago," said Huiyao Wang, founder of the Beijing-based Center for China and Globalization, which is often seen as close to Beijing's thinking.
-Wang said Tokyo should show greater flexibility, pointing to Trump's comments that the U.S. would avoid getting involved in the Taiwan issue. He argued that Japan holding firm on the issue would not help relations with Beijing.
-Such reflection, he said, "would really help to clarify some of those misunderstandings between the two countries."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html",
-    publishedAt: "2026-11-19T06:39:53+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 10,
   },
 ];
