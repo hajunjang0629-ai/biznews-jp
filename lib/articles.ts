@@ -15,6 +15,322 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "employees-at-eric-trump-backed-robot-sta-774ce43f",
+    title: "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+    titleJa: "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+    summaryJa: "Foundation is pursuing an emergency bridge loan and has been in talks with VC firms as it waits for a $150 million investment from South Korea's Base Group.",
+    bodyOriginal: `Employees at Foundation Future Industries were told that their health benefits through administrator Rippling have been terminated, according to a memo obtained by CNBC, adding to mounting signs of financial distress at the humanoid robot startup advised and backed by Eric Trump.
+Foundation told staff in a Friday evening email that they'd be offered coverage through COBRA, the federal law that generally lets workers temporarily keep their health insurance after losing benefits by paying the full premium out of pocket.
+"Because our last pay run through Rippling was in October, they have ended our benefits with them retroactive to October," a Foundation human resources manager said in the memo. "COBRA will be offered to all employees to cover November."
+Foundation has garnered headlines for the bold claims that co-founder Sankaet Pathak — whose previous startup collapsed in 2024 — has made about his robots and their potential use in war zones. Employees were last paid on Oct. 15, and some inside the company are angry at Pathak for a $4.6 million loan he took from his company last year, CNBC reported earlier this month.
+A Foundation spokesman didn't immediately respond to an email or phone call seeking comment.
+In the staff memo, Foundation blamed Rippling for the disruption to health coverage. The startup also said it would reimburse COBRA premiums paid by workers and that it was onboarding a new benefits provider.
+But employees, especially those whose family members are undergoing treatment for medical ailments, worry the company won't have funds to reimburse workers or reinstate coverage, people with direct knowledge of the situation said.
+In a statement to CNBC, Rippling indicated it was Foundation's failure to pay for its employee benefits that led to the change: "If a client enrolled in Rippling's [Professional Employer Organization] is unable to meet their payroll and benefits obligations for multiple months, they will first receive a warning and if not met, they are terminated."
+Rescue loan
+Foundation has been seeking a bridge loan to repay employees after its financial woes began in August. It has been in talks with three or four venture capital firms, including existing investor Tribe Capital, Pathak has told employees, according to people familiar with the situation, who asked to remain unnamed because they were not authorized to speak publicly and feared retaliation. Tribe didn't immediately return a request for comment.
+The bridge loan would help the company survive until a possible $150 million investment from South Korean conglomerate Base Group lands as early as December or January, Pathak has told employees, the people said.
+Base confirmed to Reuters in recent days that it was considering an investment, but the funding has not been finalized.
+The potential investment would deepen business ties between the Trump family and the South Korean conglomerate, an aluminum producer also known for real estate and hospitality projects.
+Base paid the Trump Organization $2 million in 2025, according to a New York Times article, drawing scrutiny from Democratic senators over conflict-of-interest concerns. Base has also pursued other business relationships with the Trump Organization, including a Trump-branded golf course in South Korea.
+Eric Trump, who has invested in Foundation and was given the title of chief strategy advisor, didn't immediately respond to a CNBC email seeking comment.
+Inside Foundation
+The prospect of employees having to pay for their own health coverage comes as many are already drawing down savings to cover living expenses. With another scheduled payday approaching on Nov. 30, workers are facing a third straight pay cycle without income.
+Many are actively interviewing for other jobs, and attendance at the company's San Francisco headquarters has fallen sharply, according to people familiar.
+Frustration has boiled over into distrust of Pathak's leadership for some employees, while others hope Pathak can secure funding to repay workers and bring the company back to financial health. In conversations and memos, Pathak says that he is highly invested in securing Foundation's future, the people said.
+Despite the firm's shaky finances, Foundation continued to hire for open roles until recently and some new workers have never been fully paid, said the people.
+To keep employees from leaving before a possible Base Group investment, Pathak has floated the idea of offering workers equity in the startup, the people said.
+At the same time, human resources staff have warned workers against taking legal action with California to recover their wages, saying that any employees who file complaints with the state would be dismissed, the people said.
+Following a Nov. 14 CNBC report detailing the missed payrolls and a $4.6 million loan Pathak took from the startup in 2025, the chief executive addressed the issue in an all-hands meeting, according to the people.
+Pathak defended the arrangement by telling workers that he had plowed his own money into the startup and takes only a nominal salary, the people said.
+The co-founder also told employees who were in dire financial straits to contact human resources for help covering personal bills, the people added.
+"I'm burning through savings just to afford my apartment," one employee told CNBC. "It's extremely unfortunate we're in this situation."`,
+    bodyJa: `Employees at Foundation Future Industries were told that their health benefits through administrator Rippling have been terminated, according to a memo obtained by CNBC, adding to mounting signs of financial distress at the humanoid robot startup advised and backed by Eric Trump.
+Foundation told staff in a Friday evening email that they'd be offered coverage through COBRA, the federal law that generally lets workers temporarily keep their health insurance after losing benefits by paying the full premium out of pocket.
+"Because our last pay run through Rippling was in October, they have ended our benefits with them retroactive to October," a Foundation human resources manager said in the memo. "COBRA will be offered to all employees to cover November."
+Foundation has garnered headlines for the bold claims that co-founder Sankaet Pathak — whose previous startup collapsed in 2024 — has made about his robots and their potential use in war zones. Employees were last paid on Oct. 15, and some inside the company are angry at Pathak for a $4.6 million loan he took from his company last year, CNBC reported earlier this month.
+A Foundation spokesman didn't immediately respond to an email or phone call seeking comment.
+In the staff memo, Foundation blamed Rippling for the disruption to health coverage. The startup also said it would reimburse COBRA premiums paid by workers and that it was onboarding a new benefits provider.
+But employees, especially those whose family members are undergoing treatment for medical ailments, worry the company won't have funds to reimburse workers or reinstate coverage, people with direct knowledge of the situation said.
+In a statement to CNBC, Rippling indicated it was Foundation's failure to pay for its employee benefits that led to the change: "If a client enrolled in Rippling's [Professional Employer Organization] is unable to meet their payroll and benefits obligations for multiple months, they will first receive a warning and if not met, they are terminated."
+Rescue loan
+Foundation has been seeking a bridge loan to repay employees after its financial woes began in August. It has been in talks with three or four venture capital firms, including existing investor Tribe Capital, Pathak has told employees, according to people familiar with the situation, who asked to remain unnamed because they were not authorized to speak publicly and feared retaliation. Tribe didn't immediately return a request for comment.
+The bridge loan would help the company survive until a possible $150 million investment from South Korean conglomerate Base Group lands as early as December or January, Pathak has told employees, the people said.
+Base confirmed to Reuters in recent days that it was considering an investment, but the funding has not been finalized.
+The potential investment would deepen business ties between the Trump family and the South Korean conglomerate, an aluminum producer also known for real estate and hospitality projects.
+Base paid the Trump Organization $2 million in 2025, according to a New York Times article, drawing scrutiny from Democratic senators over conflict-of-interest concerns. Base has also pursued other business relationships with the Trump Organization, including a Trump-branded golf course in South Korea.
+Eric Trump, who has invested in Foundation and was given the title of chief strategy advisor, didn't immediately respond to a CNBC email seeking comment.
+Inside Foundation
+The prospect of employees having to pay for their own health coverage comes as many are already drawing down savings to cover living expenses. With another scheduled payday approaching on Nov. 30, workers are facing a third straight pay cycle without income.
+Many are actively interviewing for other jobs, and attendance at the company's San Francisco headquarters has fallen sharply, according to people familiar.
+Frustration has boiled over into distrust of Pathak's leadership for some employees, while others hope Pathak can secure funding to repay workers and bring the company back to financial health. In conversations and memos, Pathak says that he is highly invested in securing Foundation's future, the people said.
+Despite the firm's shaky finances, Foundation continued to hire for open roles until recently and some new workers have never been fully paid, said the people.
+To keep employees from leaving before a possible Base Group investment, Pathak has floated the idea of offering workers equity in the startup, the people said.
+At the same time, human resources staff have warned workers against taking legal action with California to recover their wages, saying that any employees who file complaints with the state would be dismissed, the people said.
+Following a Nov. 14 CNBC report detailing the missed payrolls and a $4.6 million loan Pathak took from the startup in 2025, the chief executive addressed the issue in an all-hands meeting, according to the people.
+Pathak defended the arrangement by telling workers that he had plowed his own money into the startup and takes only a nominal salary, the people said.
+The co-founder also told employees who were in dire financial straits to contact human resources for help covering personal bills, the people added.
+"I'm burning through savings just to afford my apartment," one employee told CNBC. "It's extremely unfortunate we're in this situation."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+    publishedAt: "2026-11-22T18:55:05+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "director-of-national-intelligence-jay-cl-738bb154",
+    title: "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
+    titleJa: "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
+    summaryJa: "Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.",
+    bodyOriginal: `Director of National Intelligence Jay Clayton warned Americans to prepare for "bumps in the road" after a set of damaging technology outages rocked air travel and systems like Microsoft Outlook.
+Government officials have largely dismissed the prospects that the outages, which also slowed bank transactions, are linked to a coordinated or artificial intelligence cyberattack.
+Clayton, however, said on CNN's "State of the Union" that outages may continue as companies and the government upgrade their systems to adapt to the AI age.
+"The American people should be prepared for a great deal of investment in upgrading our systems; they should be prepared for investment in cybersecurity, and they should be prepared that any time there is a step change in technology, a step change in both compute and applications, there will be bumps in the road," Clayton said.
+"You prepare by knowing that systems are going to be upgraded; they may be interrupted for a period of time and that companies and government are dealing with this on the front foot," he said.
+Clayton's warning came as the U.S. prepares to celebrate Thanksgiving on Thursday, one of the busiest travel weeks of the year. A technology outage prompted a nationwide ground stop just over a week ago, which lasted for hours.
+The Federal Aviation Administration said router upgrades caused a flood of data that led to the ground stop, and that there is no indication of a cyberattack.
+Separately, Microsoft said the Outlook outage was caused by "an issue during an earlier network capacity upgrade."
+Treasury Secretary Scott Bessent delivered a similar message on CBS' "Face the Nation."
+Asked if Americans should be concerned about the security of their financial institutions, Bessent said: "No, they shouldn't."
+"The patches may cause a glitch," he said, referring to measures banks are taking to safeguard from AI. "I think the American people should think of it as a vaccine; your arm may hurt, you may feel a little bad the next day, but it increases your long-term immunity and resiliency."`,
+    bodyJa: `Director of National Intelligence Jay Clayton warned Americans to prepare for "bumps in the road" after a set of damaging technology outages rocked air travel and systems like Microsoft Outlook.
+Government officials have largely dismissed the prospects that the outages, which also slowed bank transactions, are linked to a coordinated or artificial intelligence cyberattack.
+Clayton, however, said on CNN's "State of the Union" that outages may continue as companies and the government upgrade their systems to adapt to the AI age.
+"The American people should be prepared for a great deal of investment in upgrading our systems; they should be prepared for investment in cybersecurity, and they should be prepared that any time there is a step change in technology, a step change in both compute and applications, there will be bumps in the road," Clayton said.
+"You prepare by knowing that systems are going to be upgraded; they may be interrupted for a period of time and that companies and government are dealing with this on the front foot," he said.
+Clayton's warning came as the U.S. prepares to celebrate Thanksgiving on Thursday, one of the busiest travel weeks of the year. A technology outage prompted a nationwide ground stop just over a week ago, which lasted for hours.
+The Federal Aviation Administration said router upgrades caused a flood of data that led to the ground stop, and that there is no indication of a cyberattack.
+Separately, Microsoft said the Outlook outage was caused by "an issue during an earlier network capacity upgrade."
+Treasury Secretary Scott Bessent delivered a similar message on CBS' "Face the Nation."
+Asked if Americans should be concerned about the security of their financial institutions, Bessent said: "No, they shouldn't."
+"The patches may cause a glitch," he said, referring to measures banks are taking to safeguard from AI. "I think the American people should think of it as a vaccine; your arm may hurt, you may feel a little bad the next day, but it increases your long-term immunity and resiliency."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+    publishedAt: "2026-11-22T17:14:03+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "centrica-boss-says-he-is-hugely-concerne-d65b769f",
+    title: "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+    titleJa: "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+    summaryJa: "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+    bodyOriginal: `Centrica boss 'hugely concerned' over impact of soaring energy bills
+- Published
+The boss of British Gas owner Centrica says he is "hugely concerned" about the impact the expected jump in energy bills in January will have on consumers.
+Chris O'Shea told the BBC he thought the number of people unable or unwilling to pay their energy bills would rise when prices go up in the new year.
+The new energy price cap to take effect from January will be announced on Wednesday and consultancy Cornwall Insight has forecast it will jump by £443 a year for a typical household.
+The government has said some households will get £100 to help with energy bills, but Citizens Advice said it was a "drop in the ocean" while one pressure group called for action on "inflated energy firm profits".
+Speaking to the Sunday with Laura Kuenssberg programme, O'Shea said the predictions for a "substantial increase" in bills from January were "materially correct", adding that the first quarter of the year was the time when most energy was consumed.
+"That's right at the point where people will be paying for Christmas and the like. So I am hugely concerned," he said.
+O'Shea added there was a "massive problem" with people not paying their bills in the UK, with some not able to pay their bills and an "increasing number of people that are choosing not to pay their bills".
+He said the collective impact of that was that "every single electricity consumer, is paying about £1.50, £1.60 a week to cover the cost of people that are not paying their bills, and it's just going to get worse when bills go up".
+The amount owed to energy suppliers by households hit £5bn in the April to June period, according to energy regulator Ofgem.
+Wholesale energy prices paid by suppliers have been rising this year as a result of the conflict in the Middle East, which has pushed up bills for households.
+Cornwall Insight has predicted Ofgem's energy price cap will rise by 26% to £2,166 a year for a typical household from 1 January.
+The price cap affects about 20 million households in England, Scotland and Wales and sets a maximum price for each unit of gas and electricity, so the actual level of bills will vary according to energy usage.
+The government has said some households will get a £100 payment to help with energy bills, a policy which was announced in the Budget.
+The government has also temporarily cut 5% VAT from electricity bills until the end of June next year, which is expected to save the typical household about £45 a year.
+But consumer groups have argued the £100 payment announced in the Budget will not be enough for some.
+Citizens Advice said it was a "drop in the ocean" and that we would see "cold-related deaths" this winter.
+"For someone in a lot of debt, who can't afford their bills, it's not going to touch the sides."
+The Fuel Poverty Action Group said the government and Ofgem needed to take stronger action against energy companies.
+"Our inflated energy prices are driven by inflated energy firm profits," the group said.
+"Government and Ofgem must take stronger action against this blatant profiteering whilst we suffer in cold homes, or are forced into debt."
+Energy firms operating in the UK are subject to a windfall tax that was introduced in 2022.
+When the windfall tax is added to other taxes levied, it means the overall tax rate on profits earned by oil and gas companies operating in the UK is 78%.`,
+    bodyJa: `Centrica boss 'hugely concerned' over impact of soaring energy bills
+- Published
+The boss of British Gas owner Centrica says he is "hugely concerned" about the impact the expected jump in energy bills in January will have on consumers.
+Chris O'Shea told the BBC he thought the number of people unable or unwilling to pay their energy bills would rise when prices go up in the new year.
+The new energy price cap to take effect from January will be announced on Wednesday and consultancy Cornwall Insight has forecast it will jump by £443 a year for a typical household.
+The government has said some households will get £100 to help with energy bills, but Citizens Advice said it was a "drop in the ocean" while one pressure group called for action on "inflated energy firm profits".
+Speaking to the Sunday with Laura Kuenssberg programme, O'Shea said the predictions for a "substantial increase" in bills from January were "materially correct", adding that the first quarter of the year was the time when most energy was consumed.
+"That's right at the point where people will be paying for Christmas and the like. So I am hugely concerned," he said.
+O'Shea added there was a "massive problem" with people not paying their bills in the UK, with some not able to pay their bills and an "increasing number of people that are choosing not to pay their bills".
+He said the collective impact of that was that "every single electricity consumer, is paying about £1.50, £1.60 a week to cover the cost of people that are not paying their bills, and it's just going to get worse when bills go up".
+The amount owed to energy suppliers by households hit £5bn in the April to June period, according to energy regulator Ofgem.
+Wholesale energy prices paid by suppliers have been rising this year as a result of the conflict in the Middle East, which has pushed up bills for households.
+Cornwall Insight has predicted Ofgem's energy price cap will rise by 26% to £2,166 a year for a typical household from 1 January.
+The price cap affects about 20 million households in England, Scotland and Wales and sets a maximum price for each unit of gas and electricity, so the actual level of bills will vary according to energy usage.
+The government has said some households will get a £100 payment to help with energy bills, a policy which was announced in the Budget.
+The government has also temporarily cut 5% VAT from electricity bills until the end of June next year, which is expected to save the typical household about £45 a year.
+But consumer groups have argued the £100 payment announced in the Budget will not be enough for some.
+Citizens Advice said it was a "drop in the ocean" and that we would see "cold-related deaths" this winter.
+"For someone in a lot of debt, who can't afford their bills, it's not going to touch the sides."
+The Fuel Poverty Action Group said the government and Ofgem needed to take stronger action against energy companies.
+"Our inflated energy prices are driven by inflated energy firm profits," the group said.
+"Government and Ofgem must take stronger action against this blatant profiteering whilst we suffer in cold homes, or are forced into debt."
+Energy firms operating in the UK are subject to a windfall tax that was introduced in 2022.
+When the windfall tax is added to other taxes levied, it means the overall tax rate on profits earned by oil and gas companies operating in the UK is 78%.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-22T13:50:21+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg",
+    readTime: 9,
+  },
+  {
+    id: "saudi-arabia-bahrain-report-new-attacks-f99a1d07",
+    title: "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+    titleJa: "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+    summaryJa: "Saudi Arabia said it destroyed a drone launched by Iran-backed Houthis, while Bahrain said an industrial facility was hit by Iranian projectiles.",
+    bodyOriginal: `Saudi Arabia and Bahrain reported attacks by Iran-linked forces over the weekend, as Iran's foreign minister said his government remains open to a deal to end the war with the U.S.
+"Intercepted and destroyed a drone launched by the Houthi terrorist militia toward the Riyadh area," the Saudi-led Coalition to Support Legitimacy in Yemen, which has been leading the fight against the Iran-backed group, said Sunday in a post on X.
+The coalition said late Saturday that its air defenses "intercepted and destroyed a ballistic missile" launched by the Yemen-based Houthis toward Saudi Arabia's western region, which includes some of the country's sensitive energy refining and export infrastructure.
+Neighboring Bahrain also said it came under Iranian fire.
+"As a result of the heinous Iranian aggression, a civilian industrial facility was targeted, causing a fire at the site," Bahrain's Ministry of Interior said on X. The ministry later said two people, a Bahraini citizen and a Pakistani resident, were injured in the attack.
+Bahrain is home to the U.S. Navy's Fifth Fleet.
+Iranian state media reported late Saturday that the country's Islamic Revolutionary Guard Corps fired missiles and drones at U.S. military facilities in Bahrain.
+A separate Iranian media report claimed the IRGC's air defenses intercepted and destroyed a U.S. MQ-9 drone.
+U.S. Central Command did not immediately respond to CNBC's request for comment on either Iranian report.
+Reaching a final agreement
+Meanwhile, Iranian Foreign Minister Abbas Araghchi said his government remains open to a negotiated settlement to the war. An agreement aimed at developing a permanent peace deal signed in June between President Donald Trump and his Iranian counterpart Masoud Pezeshkian — the so-called Islamabad Memorandum of Understanding — later broke down.
+"The Islamabad Memorandum of Understanding is no longer on the table and has no implementation relevance," Araghchi told the Iran newspaper.
+"However, the commitments that the U.S. had accepted in that Memorandum of Understanding and the principle that the implementation of those commitments can pave the way for reaching a final agreement are still accepted by both sides," he said.
+The war, which began with U.S. and Israeli airstrikes on Iranian targets on Feb. 28, has resulted in major disruptions to energy shipments through the Strait of Hormuz between Iran and Oman.
+The United Kingdom Maritime Trade Operations reported that two tankers near Oman were struck by unidentified projectiles on Saturday.
+Iran has imposed curbs on vessels moving through the strait, a major sticking point in negotiations with the U.S.
+Oil prices have fallen for three straight weeks, however, as traders weighed strong Middle East flows and rising U.S. inventories.
+International benchmark Brent crude fell 3.4% for the week, while U.S. crude tumbled 5.2%.`,
+    bodyJa: `Saudi Arabia and Bahrain reported attacks by Iran-linked forces over the weekend, as Iran's foreign minister said his government remains open to a deal to end the war with the U.S.
+"Intercepted and destroyed a drone launched by the Houthi terrorist militia toward the Riyadh area," the Saudi-led Coalition to Support Legitimacy in Yemen, which has been leading the fight against the Iran-backed group, said Sunday in a post on X.
+The coalition said late Saturday that its air defenses "intercepted and destroyed a ballistic missile" launched by the Yemen-based Houthis toward Saudi Arabia's western region, which includes some of the country's sensitive energy refining and export infrastructure.
+Neighboring Bahrain also said it came under Iranian fire.
+"As a result of the heinous Iranian aggression, a civilian industrial facility was targeted, causing a fire at the site," Bahrain's Ministry of Interior said on X. The ministry later said two people, a Bahraini citizen and a Pakistani resident, were injured in the attack.
+Bahrain is home to the U.S. Navy's Fifth Fleet.
+Iranian state media reported late Saturday that the country's Islamic Revolutionary Guard Corps fired missiles and drones at U.S. military facilities in Bahrain.
+A separate Iranian media report claimed the IRGC's air defenses intercepted and destroyed a U.S. MQ-9 drone.
+U.S. Central Command did not immediately respond to CNBC's request for comment on either Iranian report.
+Reaching a final agreement
+Meanwhile, Iranian Foreign Minister Abbas Araghchi said his government remains open to a negotiated settlement to the war. An agreement aimed at developing a permanent peace deal signed in June between President Donald Trump and his Iranian counterpart Masoud Pezeshkian — the so-called Islamabad Memorandum of Understanding — later broke down.
+"The Islamabad Memorandum of Understanding is no longer on the table and has no implementation relevance," Araghchi told the Iran newspaper.
+"However, the commitments that the U.S. had accepted in that Memorandum of Understanding and the principle that the implementation of those commitments can pave the way for reaching a final agreement are still accepted by both sides," he said.
+The war, which began with U.S. and Israeli airstrikes on Iranian targets on Feb. 28, has resulted in major disruptions to energy shipments through the Strait of Hormuz between Iran and Oman.
+The United Kingdom Maritime Trade Operations reported that two tankers near Oman were struck by unidentified projectiles on Saturday.
+Iran has imposed curbs on vessels moving through the strait, a major sticking point in negotiations with the U.S.
+Oil prices have fallen for three straight weeks, however, as traders weighed strong Middle East flows and rising U.S. inventories.
+International benchmark Brent crude fell 3.4% for the week, while U.S. crude tumbled 5.2%.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
+    publishedAt: "2026-11-22T13:25:47+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "pizza-chains-are-under-pressure-glp-1-us-e89b3dba",
+    title: "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
+    titleJa: "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
+    summaryJa: "Domino's, Papa Johns and Pizza Hut face weaker demand, more delivery competition and changing eating habits, including GLP-1 use.",
+    bodyOriginal: `Big pizza chains are struggling as weaker consumer spending, a wider variety of dining options and the rise of GLP-1 medications weigh on their sales.
+The pandemic was a boom time for Domino's Pizza, Papa Johns, Little Caesars and Pizza Hut. But since dining rooms reopened, the biggest U.S. pizza chains have faced an uphill battle to retain their customers.
+These days, consumers are watching their discretionary spending but have more delivery and takeout options when they do decide to order, thanks to the accessibility of third-party platforms. Plus, food quality and the customer experience have become more important to diners who are looking for value when they order from restaurants.
+As a result of pizza fatigue and challenges facing the broader restaurant industry, the number of U.S. pizza restaurants has tumbled. Since pizza locations hit a peak of 83,035 nationwide in August 2019, more than 9,600 pizzerias had closed their doors as of July 2026, according to data from Datassential.
+In 2025, sales at U.S. pizza restaurants fell 0.3%, according to Technomic data. Sales at independent pizzerias slipped 0.4%. Chains, which account for about two-thirds of the domestic pizza category sales, saw revenue shrink 0.3%.
+Papa Johns reported that North American same-store sales declined 2.5% in 2025. Pizza Hut's U.S. same-store sales fell 5%. Among the three pizza chains that were publicly traded last year, only Domino's posted annual same-store sales growth at its U.S. restaurants, with an increase of 3%.
+It isn't just diners who have lost their appetite for pizza. Since March 2020, Papa Johns stock has lost about two-thirds of its value. Even shares of Domino's, which dominates the category, have seen gains of only about 2% in that time. For comparison, the S&P 500 has climbed about 150% over the same period.
+And Yum Brands sold Pizza Hut this year, offloading the laggard of its portfolio to LongRange Capital and Yum China after about two decades of stagnating sales.
+"Pizza Hut has been a detractor for YUM ... Going forward, YUM won't be tripped up by pizza category dynamics (discounting, etc.), translating to stronger growth and higher concentration in higher growth industry segments and markets," Wells Fargo analyst Zachary Fadem wrote in a research note in September.
+Pizza's challenges
+Pizza chains now have significantly more competition for diners' dollars than they did in 2020. Third-party delivery platforms, which grew in popularity during the pandemic, offer a wide variety of cuisines beyond the traditional pizza and Chinese. As a result, Domino's and Papa John's have to compete with other fast-food chains, like McDonald's and Chick-fil-A, for DoorDash and Uber Eats orders.
+As pizza has grown more expensive, a pie seems less appealing to budget-conscious diners. The average large cheese pizza is now almost $17, according to the 2026 Pizza Power Report from PMQ Pizza, a trade publication.
+Plus, frozen pizza is another convenient option, with a lower price tag. Retail sales of single- and multi-serve frozen pizza rose 2.9% in the 52 weeks ended Nov. 7 compared with the same period in 2022, according to NielsenIQ data.
+"When the American consumer is focused on the least expensive eating occasion, the items that are in my pantry, my refrigerator and my freezer win every single time," said David Portalatin, a food and food service industry advisor for Circana.
+Convenience stores like Casey's General Stores have also won over customers with pizza at a low price point.
+"We believe that [Casey's] has an advantage over [quick-service restaurants] and dollar stores, which have fewer options to navigate the persistent inflationary environment, while [Casey's] can offset food pressures with margins," Bank of America Securities analyst Sara Senatore wrote in a research note published in June.
+She added that geographic overlap of locations suggests that Casey's is stealing share from Pizza Hut.
+The biggest pizza chains have also been slow to adapt to shifting consumer attitudes toward nutrition. For example, of the four biggest chains, Papa Johns is the only one to even test a pizza crust with added protein as more diners prioritize it in their diets. And the test was only in one Atlanta restaurant — for a single day.
+Pizza's nutritional content more broadly is another drag for the category. Its carbohydrate and fat content, from its dough and cheese, respectively, can make it less appealing for consumers on GLP-1 drugs, which have skyrocketed in use over the last several years.
+Spending on pizza quick-service restaurants has fallen 22.2% per GLP-1 household after six to eight months using the medications, according to a 2026 survey published by PwC.
+To be sure, pizza's recent struggles do not mean an existential crisis for the category. Total pizza servings are down only about 1% this year, Circana's Portalatin said.
+And chains are trying to reverse that downturn in servings. In August, Domino's launched the Domino, a customizable Detroit-style personal pizza to attract solo diners. In November, Papa Johns unveiled a new turnaround plan focusing on improving food consistency and restaurant operations. And Pizza Hut is running a holiday-themed meal deal.
+"Pizza's not going anywhere," Portalatin said. "The American consumer loves pizza."`,
+    bodyJa: `Big pizza chains are struggling as weaker consumer spending, a wider variety of dining options and the rise of GLP-1 medications weigh on their sales.
+The pandemic was a boom time for Domino's Pizza, Papa Johns, Little Caesars and Pizza Hut. But since dining rooms reopened, the biggest U.S. pizza chains have faced an uphill battle to retain their customers.
+These days, consumers are watching their discretionary spending but have more delivery and takeout options when they do decide to order, thanks to the accessibility of third-party platforms. Plus, food quality and the customer experience have become more important to diners who are looking for value when they order from restaurants.
+As a result of pizza fatigue and challenges facing the broader restaurant industry, the number of U.S. pizza restaurants has tumbled. Since pizza locations hit a peak of 83,035 nationwide in August 2019, more than 9,600 pizzerias had closed their doors as of July 2026, according to data from Datassential.
+In 2025, sales at U.S. pizza restaurants fell 0.3%, according to Technomic data. Sales at independent pizzerias slipped 0.4%. Chains, which account for about two-thirds of the domestic pizza category sales, saw revenue shrink 0.3%.
+Papa Johns reported that North American same-store sales declined 2.5% in 2025. Pizza Hut's U.S. same-store sales fell 5%. Among the three pizza chains that were publicly traded last year, only Domino's posted annual same-store sales growth at its U.S. restaurants, with an increase of 3%.
+It isn't just diners who have lost their appetite for pizza. Since March 2020, Papa Johns stock has lost about two-thirds of its value. Even shares of Domino's, which dominates the category, have seen gains of only about 2% in that time. For comparison, the S&P 500 has climbed about 150% over the same period.
+And Yum Brands sold Pizza Hut this year, offloading the laggard of its portfolio to LongRange Capital and Yum China after about two decades of stagnating sales.
+"Pizza Hut has been a detractor for YUM ... Going forward, YUM won't be tripped up by pizza category dynamics (discounting, etc.), translating to stronger growth and higher concentration in higher growth industry segments and markets," Wells Fargo analyst Zachary Fadem wrote in a research note in September.
+Pizza's challenges
+Pizza chains now have significantly more competition for diners' dollars than they did in 2020. Third-party delivery platforms, which grew in popularity during the pandemic, offer a wide variety of cuisines beyond the traditional pizza and Chinese. As a result, Domino's and Papa John's have to compete with other fast-food chains, like McDonald's and Chick-fil-A, for DoorDash and Uber Eats orders.
+As pizza has grown more expensive, a pie seems less appealing to budget-conscious diners. The average large cheese pizza is now almost $17, according to the 2026 Pizza Power Report from PMQ Pizza, a trade publication.
+Plus, frozen pizza is another convenient option, with a lower price tag. Retail sales of single- and multi-serve frozen pizza rose 2.9% in the 52 weeks ended Nov. 7 compared with the same period in 2022, according to NielsenIQ data.
+"When the American consumer is focused on the least expensive eating occasion, the items that are in my pantry, my refrigerator and my freezer win every single time," said David Portalatin, a food and food service industry advisor for Circana.
+Convenience stores like Casey's General Stores have also won over customers with pizza at a low price point.
+"We believe that [Casey's] has an advantage over [quick-service restaurants] and dollar stores, which have fewer options to navigate the persistent inflationary environment, while [Casey's] can offset food pressures with margins," Bank of America Securities analyst Sara Senatore wrote in a research note published in June.
+She added that geographic overlap of locations suggests that Casey's is stealing share from Pizza Hut.
+The biggest pizza chains have also been slow to adapt to shifting consumer attitudes toward nutrition. For example, of the four biggest chains, Papa Johns is the only one to even test a pizza crust with added protein as more diners prioritize it in their diets. And the test was only in one Atlanta restaurant — for a single day.
+Pizza's nutritional content more broadly is another drag for the category. Its carbohydrate and fat content, from its dough and cheese, respectively, can make it less appealing for consumers on GLP-1 drugs, which have skyrocketed in use over the last several years.
+Spending on pizza quick-service restaurants has fallen 22.2% per GLP-1 household after six to eight months using the medications, according to a 2026 survey published by PwC.
+To be sure, pizza's recent struggles do not mean an existential crisis for the category. Total pizza servings are down only about 1% this year, Circana's Portalatin said.
+And chains are trying to reverse that downturn in servings. In August, Domino's launched the Domino, a customizable Detroit-style personal pizza to attract solo diners. In November, Papa Johns unveiled a new turnaround plan focusing on improving food consistency and restaurant operations. And Pizza Hut is running a holiday-themed meal deal.
+"Pizza's not going anywhere," Portalatin said. "The American consumer loves pizza."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
+    publishedAt: "2026-11-22T13:00:01+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "italian-jeweller-and-businessman-paolo-b-75589a11",
+    title: "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+    titleJa: "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+    summaryJa: "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+    bodyOriginal: `Italian jeweller and businessman Paolo Bulgari dies aged 89
+- Published
+Italian jeweller Paolo Bulgari, who helped turn his family's business into a global luxury brand, has died in Rome aged age 89.
+His family announced the news, remembering him as "the greatest jeweller of our time", according to Italian media.
+Paolo Bulgari was Chairman of the Bvlgari Group since 1984 and its jewellery pieces have adorned Hollywood stars and royalty including Diana, Princess of Wales.
+The company Bvlgari posted an online tribute to the "true creative soul", whose work would "continue to inspire generations to come".
+The firm, Bulgari, was set up by his grandfather, Greek silversmith Sotirios Voulgaris, in Rome in the late 19th century - who later adapted his name to Bulgari in Italian.
+Originally from Paramythia, a mountain village in the Epirus region of northwestern Greece renowned for its silver jewellery, Voulgaris fled Ottoman rule and settled in Naples before opening a shop in Rome.
+Paolo Bulgari joined the company shortly after leaving school, becoming an expert in gemstones - eventually leading the business and overseeing international growth.
+The Bulgari family favoured bold gemstones, rich yellow gold, generous proportions and unexpected colour combinations to set them apart from the delicate asethetic associated with Parisian jewellery houses.
+The business broke into luxury markets and diversified beyond jewellery into watches, perfumes, leather goods and hotels.
+"Paolo Bulgari began collaborating with his father in 1960, specialising in the knowledge of precious stones, of which he was one of the world's leading experts, and refining the sensibility and aesthetic sense that are at the root of the Bvlgari style," the Bvlgari company posted on social media., external
+"He poured his heart into his craft and into nurturing the talents of young designers, leaving an indelible mark on the world of jewellery.
+"Thank you, Mr. Paolo, your legacy as a brilliant beacon of creative inspiration will continue to inspire generations to come."
+The post included a quote from Paolo Bulgari: "Everything can be a source of inspiration. There are no rules in creativity. Never."
+The designer brand's celebrity clients have included Elizabeth Taylor, Audrey Hepburn, Marilyn Monroe, Ingrid Bergman, Sophie Loren, Anne Hathaway, Zendaya and Rihanna.
+In 2011 the family sold its controlling stake to the French luxury group LVMH, in a deal worth about 3.7 billion euros.
+In 2019, he and his wife established the Paolo Bulgari Foundation to support young people through schooling and job training in disadvantaged neighbourhoods on the outskirts of Rome.
+The funeral will take place in Rome on Monday, 23 November in the Basilica of Santa Croce in Gerusalemme.
+- Published7 March 2011`,
+    bodyJa: `Italian jeweller and businessman Paolo Bulgari dies aged 89
+- Published
+Italian jeweller Paolo Bulgari, who helped turn his family's business into a global luxury brand, has died in Rome aged age 89.
+His family announced the news, remembering him as "the greatest jeweller of our time", according to Italian media.
+Paolo Bulgari was Chairman of the Bvlgari Group since 1984 and its jewellery pieces have adorned Hollywood stars and royalty including Diana, Princess of Wales.
+The company Bvlgari posted an online tribute to the "true creative soul", whose work would "continue to inspire generations to come".
+The firm, Bulgari, was set up by his grandfather, Greek silversmith Sotirios Voulgaris, in Rome in the late 19th century - who later adapted his name to Bulgari in Italian.
+Originally from Paramythia, a mountain village in the Epirus region of northwestern Greece renowned for its silver jewellery, Voulgaris fled Ottoman rule and settled in Naples before opening a shop in Rome.
+Paolo Bulgari joined the company shortly after leaving school, becoming an expert in gemstones - eventually leading the business and overseeing international growth.
+The Bulgari family favoured bold gemstones, rich yellow gold, generous proportions and unexpected colour combinations to set them apart from the delicate asethetic associated with Parisian jewellery houses.
+The business broke into luxury markets and diversified beyond jewellery into watches, perfumes, leather goods and hotels.
+"Paolo Bulgari began collaborating with his father in 1960, specialising in the knowledge of precious stones, of which he was one of the world's leading experts, and refining the sensibility and aesthetic sense that are at the root of the Bvlgari style," the Bvlgari company posted on social media., external
+"He poured his heart into his craft and into nurturing the talents of young designers, leaving an indelible mark on the world of jewellery.
+"Thank you, Mr. Paolo, your legacy as a brilliant beacon of creative inspiration will continue to inspire generations to come."
+The post included a quote from Paolo Bulgari: "Everything can be a source of inspiration. There are no rules in creativity. Never."
+The designer brand's celebrity clients have included Elizabeth Taylor, Audrey Hepburn, Marilyn Monroe, Ingrid Bergman, Sophie Loren, Anne Hathaway, Zendaya and Rihanna.
+In 2011 the family sold its controlling stake to the French luxury group LVMH, in a deal worth about 3.7 billion euros.
+In 2019, he and his wife established the Paolo Bulgari Foundation to support young people through schooling and job training in disadvantaged neighbourhoods on the outskirts of Rome.
+The funeral will take place in Rome on Monday, 23 November in the Basilica of Santa Croce in Gerusalemme.
+- Published7 March 2011`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-22T07:12:41+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg",
+    readTime: 7,
+  },
+  {
     id: "new-draft-deal-aims-to-avert-collapse-of-34642264",
     title: "New draft deal aims to avert collapse of talks at climate summit",
     titleJa: "New draft deal aims to avert collapse of talks at climate summit",
@@ -215,6 +531,80 @@ The USDA has not publicly commented on the issue.`,
     category: "テクノロジー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg",
     readTime: 6,
+  },
+  {
+    id: "employers-are-being-asked-to-give-interv-1d866549",
+    title: "Employers are being asked to give interview feedback - here's what applicants want",
+    titleJa: "Employers are being asked to give interview feedback - here's what applicants want",
+    summaryJa: "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+    bodyOriginal: `Employers are being asked to give interview feedback - here's what applicants want
+- Published
+Have you ever applied for a job or attended an interview, only to hear absolutely nothing back from the employer?
+So-called "job ghosting" has become a big problem for jobseekers in the UK, leaving them "demoralised", denting their confidence and undermining their hopes of finding work.
+It's an issue that was mentioned in former minister Alan Milburn's major review into young people who are not in employment, education or training - those dubbed as Neets - this week.
+Among his recommendations - aimed at reducing the proportion of Neets from 13% to about 5% by 2036 - Milburn proposed that large employers should give all unsuccessful job applicants under 25 "meaningful feedback".
+The report's proposals relate mostly to England, with a recommendation that Scotland, Wales and Northern Ireland adapt the principles to suit their own systems.
+But is feedback for all applicants realistic, given the vast number of applications these firms receive? And what can people do to improve their chances in such a tough job market?
+Yugraj Samrai, 23, from Coventry is currently unemployed and says he has submitted hundreds of job applications since he graduated from his marketing degree in July.
+But 30 to 40% of the time he hears nothing back at all, which can make him "feel like a statistic, not a person".
+He tells the BBC: "I understand there are very few graduate jobs available, but at least give me a response to say whether I'll progress onto the next stage or not."
+'I'm just not hearing anything'
+Ffion Johns, from Llanelli, has been unemployed since June and did not get an interview until September after submitting 70 applications.
+The 24-year-old says her biggest problem throughout the job-hunting process has been the lack of feedback about why she didn't get the job, so she knows what to fix next time.
+Sometimes she has even been ghosted after attending an interview.
+"With most of these roles I'm not getting a rejection. I'm just not hearing anything, which can be quite frustrating," she says.
+Research by head-hunting firm Robert Walters last year found 86% of UK job hunters said their applications had been ignored, with no response at all from the hiring organisation.
+The Milburn report, external says this "wall of silence" is especially hard on young people as it gives them "nothing to learn from". It adds that "time and emotional investment" goes into their applications.
+"It can really take hours and hours, so it just feels even worse to not even have that be recognised," says Jessica Anderson, 21, from Swindon.
+Employers say they are being flooded with job applications in a very competitive jobs market and it can be hard to respond to all of them.
+And AI is adding to the problem, enabling applicants to submit large numbers of applications in the hope of improving their chances.
+But Meg Burton, a career coach based in Leeds, says firms should at the very least inform job applicants when they are unsuccessful and that AI could help achieve this.
+Candidates should also be given proper feedback if they reach the interview stage, she says.
+"It doesn't have to be hugely detailed, it's just some pointers on why they were unsuccessful and what they can learn from that experience going forward," she says.
+The government could choose to adopt the Milburn proposals and crack down on job ghosting.
+But it raises another question: if candidates began receiving significantly more rejections than before, could this itself have a demoralising effect?
+Ellie McCrone, 20, from Northampton understands the concern but thinks hearing back and getting constructive feedback where possible is always best.
+"If you are applying for hundreds of jobs and never getting anything, I think something is going wrong... You can't fix something unless you know what the problem is."
+There are things applicants can do to improve their chances and avoid ghosting, such as tailoring their CV to each job and not submitting "hundreds and hundreds of applications" that all look the same, Burton adds.
+Candidates should also never take being ghosted personally, she adds.
+"Not hearing back doesn't mean you aren't a great candidate. Put it down to experience and move on."`,
+    bodyJa: `Employers are being asked to give interview feedback - here's what applicants want
+- Published
+Have you ever applied for a job or attended an interview, only to hear absolutely nothing back from the employer?
+So-called "job ghosting" has become a big problem for jobseekers in the UK, leaving them "demoralised", denting their confidence and undermining their hopes of finding work.
+It's an issue that was mentioned in former minister Alan Milburn's major review into young people who are not in employment, education or training - those dubbed as Neets - this week.
+Among his recommendations - aimed at reducing the proportion of Neets from 13% to about 5% by 2036 - Milburn proposed that large employers should give all unsuccessful job applicants under 25 "meaningful feedback".
+The report's proposals relate mostly to England, with a recommendation that Scotland, Wales and Northern Ireland adapt the principles to suit their own systems.
+But is feedback for all applicants realistic, given the vast number of applications these firms receive? And what can people do to improve their chances in such a tough job market?
+Yugraj Samrai, 23, from Coventry is currently unemployed and says he has submitted hundreds of job applications since he graduated from his marketing degree in July.
+But 30 to 40% of the time he hears nothing back at all, which can make him "feel like a statistic, not a person".
+He tells the BBC: "I understand there are very few graduate jobs available, but at least give me a response to say whether I'll progress onto the next stage or not."
+'I'm just not hearing anything'
+Ffion Johns, from Llanelli, has been unemployed since June and did not get an interview until September after submitting 70 applications.
+The 24-year-old says her biggest problem throughout the job-hunting process has been the lack of feedback about why she didn't get the job, so she knows what to fix next time.
+Sometimes she has even been ghosted after attending an interview.
+"With most of these roles I'm not getting a rejection. I'm just not hearing anything, which can be quite frustrating," she says.
+Research by head-hunting firm Robert Walters last year found 86% of UK job hunters said their applications had been ignored, with no response at all from the hiring organisation.
+The Milburn report, external says this "wall of silence" is especially hard on young people as it gives them "nothing to learn from". It adds that "time and emotional investment" goes into their applications.
+"It can really take hours and hours, so it just feels even worse to not even have that be recognised," says Jessica Anderson, 21, from Swindon.
+Employers say they are being flooded with job applications in a very competitive jobs market and it can be hard to respond to all of them.
+And AI is adding to the problem, enabling applicants to submit large numbers of applications in the hope of improving their chances.
+But Meg Burton, a career coach based in Leeds, says firms should at the very least inform job applicants when they are unsuccessful and that AI could help achieve this.
+Candidates should also be given proper feedback if they reach the interview stage, she says.
+"It doesn't have to be hugely detailed, it's just some pointers on why they were unsuccessful and what they can learn from that experience going forward," she says.
+The government could choose to adopt the Milburn proposals and crack down on job ghosting.
+But it raises another question: if candidates began receiving significantly more rejections than before, could this itself have a demoralising effect?
+Ellie McCrone, 20, from Northampton understands the concern but thinks hearing back and getting constructive feedback where possible is always best.
+"If you are applying for hundreds of jobs and never getting anything, I think something is going wrong... You can't fix something unless you know what the problem is."
+There are things applicants can do to improve their chances and avoid ghosting, such as tailoring their CV to each job and not submitting "hundreds and hundreds of applications" that all look the same, Burton adds.
+Candidates should also never take being ghosted personally, she adds.
+"Not hearing back doesn't mean you aren't a great candidate. Put it down to experience and move on."`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-22T00:04:07+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb80/live/784ad260-e4e1-11f1-99b6-a35a62fa4264.jpg",
+    readTime: 10,
   },
   {
     id: "i-m-in-my-40s-should-i-accept-a-lower-pe-4daa42af",
@@ -937,6 +1327,146 @@ Meanwhile, smaller airlines like JetBlue Airways, Frontier Airlines and Allegian
     category: "テクノロジー",
     imageUrl: "https://images.mktw.net/im-46571930",
     readTime: 2,
+  },
+  {
+    id: "can-ai-really-help-spot-black-friday-dea-0ec089ab",
+    title: "Can AI really help spot Black Friday deals? We put it to the test",
+    titleJa: "Can AI really help spot Black Friday deals? We put it to the test",
+    summaryJa: "We put four AI models to the test to see if they could save us money on a new TV.",
+    bodyOriginal: `Can AI really help spot Black Friday deals? We put it to the test
+- Published
+Whether it's scrolling through endless choice, spotting fake reviews, or working out if a "deal" is a deal at all, Black Friday sums up a lot of online woes.
+Retailers promise bargains - but the sheer number of offers can leave us feeling no closer to finding the best deal.
+It's an area where generative AI products, such as ChatGPT, Claude and Gemini, have promised to help.
+But are they any good at finding Black Friday deals? We had a go ourselves a week ahead of the big day.
+Figures suggest relatively few UK shoppers currently go to AI tools for help.
+A recent YouGov survey of 19 countries found the UK ranked second-last in the proportion of people who said they had used AI to help them shop.
+Crucially, 36% of respondents who said they would be shopping around Black Friday didn't plan to use an AI tool at all.
+But the survey suggested a growing number of people were considering it - and tech firms have released features to capitalise on this.
+Amazon launched Alexa for Shopping for UK users in November and OpenAI launched a Shopping Research tool on ChatGPT days before last year's Black Friday.
+In the US, Google recently launched Universal Cart, with AI-powered features such as price tracking and identification of relevant promo codes.
+But there has been criticism that fact-checking AI ends up taking more time, while some brands are working to try to make sure their products show up in chatbot answers.
+We asked four models to find a 55-inch TV deal, using the free versions of many of the most popular tools.
+While this was not a rigorous scientific test, the experience we had produced mixed results.
+ChatGPT - full price and not available to buy
+OpenAI's ChatGPT came up with four options.
+Its top pick was a Hisense TV on Chinese retailer Joybuy's website, on sale for £499 down from £649.
+The next recommendation was a 55-inch TCL-branded TV, but a sidebar showed prices for the 50-inch version, from £379 to £814.
+Option three was the same Hisense TV as before, but for full price at £649 from John Lewis and Richer Sounds.
+This was the "best safer purchase" according to ChatGPT, as the sites offered longer guarantee periods.
+But clicking on the links did not go well. Both retailers said the TV was no longer listed online.
+The fourth option was equally fruitless - another TCL TV, at full price, £150 over our budget and not available online.
+At the bottom, ChatGPT served one last offer - "one OLED option to compare" - for a £1,100 LG TV that was marked as "Ad".
+Claude - honest, but not too helpful
+Claude produced the shortest answer of all the models we tested, and unlike the others, it did not give much detail on the specifications of each model.
+Instead, it seemed to base its results on a small number of reviews published online.
+It recommended the same two TCL TVs as ChatGPT.
+But when we clicked on the links, they sent us to two dead pages on the Richer Sounds website.
+Some other links led to year-old round-ups of Black Friday 2025 deals.
+Claude was not very enthusiastic about its other two recommendations due to a lack of independent reviews - calling one "a decent option" but saying it "wouldn't pick" the other.
+It also listed two Samsung TVs, but it told us not to buy them, with one "over budget and not clearly better than the TCLs".
+We were left wondering why it even mentioned them in the first place.
+Gemini - a familiar pattern
+Different AI model, same TV manufacturers - albeit different Hisense and TCL models to the previous chatbots' recommendations.
+Gemini generated a table comparing four different models, but offered no links to the stores it named, so we searched for them ourselves.
+The prices for one TCL TV were correct at £649, but it was sold out at one of the named retailers.
+It said the other TCL model was available from Argos and Currys for £539 - correct for Argos, but when we checked Currys, it was £60 more expensive.
+Again, it included two Samsung models to avoid due to lower screen specs.
+Alexa - accurate but limited
+Alexa came back with four TVs, from its own Amazon Ember at £532 to a £699 Samsung.
+But its top recommendation was to go for another Samsung model at £616 (down from £749), based on its picture quality and Amazon customer rating.
+Its fourth option was for a Sony TV, but it was only 50 inches, leaving us unsure why it had included it.
+All the prices stated were correct, but Amazon only searches its own store. Alexa did acknowledge this, encouraging us to check its rivals for better deals, "as prices can vary" and we could get longer guarantees elsewhere.
+Inconsistent pricing
+There are methods that can boost the likelihood of getting a better response, from crafting more informative prompts to upping a chatbot's "thinking" level.
+Tech journalist Alex Hughes had better luck than we did when he used ChatGPT's agentic AI mode to find a TV in last year's Black Friday sales.
+Agentic AI is still in its early days, but it allows AI to act with more autonomy and carry out multi-step tasks.
+The search took about 20 minutes "with very little work on my end needed," Hughes wrote for Tom's Guide, external in November 2025.
+A year on, he told the BBC he didn't go through with buying a TV at that time.
+He did later purchase one of the seven models ChatGPT had surfaced - but he had found it for a lower price in a bricks-and-mortar shop.
+Will he be using AI to find Black Friday deals again this year? "Probably not," he said.
+He reckoned it saved him time, but "when you're trying to deal with something like live price data... it will be inconsistent and quite often incorrect".
+Slim pickings
+While we were served up the same brands again and again, in reality there are tonnes of products listed for sale around Black Friday.
+Naureen Mohammed, who advises businesses on how to get their products to appear in AI results, told the BBC customers did not see the full picture when they talked to chatbots.
+If businesses fail to update their prices when people start hunting for bargains, "last year's prices are served up as today's deals".
+"I suspect the whole model for advertising is going to start influencing AI recommendations," she said.
+Her own analysis of chatbots' Black Friday tech deals in the UK suggested the big retailers came out on top - with Amazon mentioned in half of responses, and Currys following closely behind.
+Her tips include asking an assistant "is that this year's price?" and clicking on the links provided - "because you shouldn't take any advice from the AI system at face value".
+But consumer group Which? recently said inaccurate pricing in AI results added more work, external to Black Friday deal-hunting.
+"If you ask ChatGPT for a list of 10 laptops under £400 and seven of the results are priced higher, you've likely wasted a good chunk of time going through them to discover the bot gave you only three options," said senior researcher Hannah Walsh.
+"The opposite is also true - you could miss out on great models in your budget if ChatGPT tells you they are more expensive than they actually are."
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
+    bodyJa: `Can AI really help spot Black Friday deals? We put it to the test
+- Published
+Whether it's scrolling through endless choice, spotting fake reviews, or working out if a "deal" is a deal at all, Black Friday sums up a lot of online woes.
+Retailers promise bargains - but the sheer number of offers can leave us feeling no closer to finding the best deal.
+It's an area where generative AI products, such as ChatGPT, Claude and Gemini, have promised to help.
+But are they any good at finding Black Friday deals? We had a go ourselves a week ahead of the big day.
+Figures suggest relatively few UK shoppers currently go to AI tools for help.
+A recent YouGov survey of 19 countries found the UK ranked second-last in the proportion of people who said they had used AI to help them shop.
+Crucially, 36% of respondents who said they would be shopping around Black Friday didn't plan to use an AI tool at all.
+But the survey suggested a growing number of people were considering it - and tech firms have released features to capitalise on this.
+Amazon launched Alexa for Shopping for UK users in November and OpenAI launched a Shopping Research tool on ChatGPT days before last year's Black Friday.
+In the US, Google recently launched Universal Cart, with AI-powered features such as price tracking and identification of relevant promo codes.
+But there has been criticism that fact-checking AI ends up taking more time, while some brands are working to try to make sure their products show up in chatbot answers.
+We asked four models to find a 55-inch TV deal, using the free versions of many of the most popular tools.
+While this was not a rigorous scientific test, the experience we had produced mixed results.
+ChatGPT - full price and not available to buy
+OpenAI's ChatGPT came up with four options.
+Its top pick was a Hisense TV on Chinese retailer Joybuy's website, on sale for £499 down from £649.
+The next recommendation was a 55-inch TCL-branded TV, but a sidebar showed prices for the 50-inch version, from £379 to £814.
+Option three was the same Hisense TV as before, but for full price at £649 from John Lewis and Richer Sounds.
+This was the "best safer purchase" according to ChatGPT, as the sites offered longer guarantee periods.
+But clicking on the links did not go well. Both retailers said the TV was no longer listed online.
+The fourth option was equally fruitless - another TCL TV, at full price, £150 over our budget and not available online.
+At the bottom, ChatGPT served one last offer - "one OLED option to compare" - for a £1,100 LG TV that was marked as "Ad".
+Claude - honest, but not too helpful
+Claude produced the shortest answer of all the models we tested, and unlike the others, it did not give much detail on the specifications of each model.
+Instead, it seemed to base its results on a small number of reviews published online.
+It recommended the same two TCL TVs as ChatGPT.
+But when we clicked on the links, they sent us to two dead pages on the Richer Sounds website.
+Some other links led to year-old round-ups of Black Friday 2025 deals.
+Claude was not very enthusiastic about its other two recommendations due to a lack of independent reviews - calling one "a decent option" but saying it "wouldn't pick" the other.
+It also listed two Samsung TVs, but it told us not to buy them, with one "over budget and not clearly better than the TCLs".
+We were left wondering why it even mentioned them in the first place.
+Gemini - a familiar pattern
+Different AI model, same TV manufacturers - albeit different Hisense and TCL models to the previous chatbots' recommendations.
+Gemini generated a table comparing four different models, but offered no links to the stores it named, so we searched for them ourselves.
+The prices for one TCL TV were correct at £649, but it was sold out at one of the named retailers.
+It said the other TCL model was available from Argos and Currys for £539 - correct for Argos, but when we checked Currys, it was £60 more expensive.
+Again, it included two Samsung models to avoid due to lower screen specs.
+Alexa - accurate but limited
+Alexa came back with four TVs, from its own Amazon Ember at £532 to a £699 Samsung.
+But its top recommendation was to go for another Samsung model at £616 (down from £749), based on its picture quality and Amazon customer rating.
+Its fourth option was for a Sony TV, but it was only 50 inches, leaving us unsure why it had included it.
+All the prices stated were correct, but Amazon only searches its own store. Alexa did acknowledge this, encouraging us to check its rivals for better deals, "as prices can vary" and we could get longer guarantees elsewhere.
+Inconsistent pricing
+There are methods that can boost the likelihood of getting a better response, from crafting more informative prompts to upping a chatbot's "thinking" level.
+Tech journalist Alex Hughes had better luck than we did when he used ChatGPT's agentic AI mode to find a TV in last year's Black Friday sales.
+Agentic AI is still in its early days, but it allows AI to act with more autonomy and carry out multi-step tasks.
+The search took about 20 minutes "with very little work on my end needed," Hughes wrote for Tom's Guide, external in November 2025.
+A year on, he told the BBC he didn't go through with buying a TV at that time.
+He did later purchase one of the seven models ChatGPT had surfaced - but he had found it for a lower price in a bricks-and-mortar shop.
+Will he be using AI to find Black Friday deals again this year? "Probably not," he said.
+He reckoned it saved him time, but "when you're trying to deal with something like live price data... it will be inconsistent and quite often incorrect".
+Slim pickings
+While we were served up the same brands again and again, in reality there are tonnes of products listed for sale around Black Friday.
+Naureen Mohammed, who advises businesses on how to get their products to appear in AI results, told the BBC customers did not see the full picture when they talked to chatbots.
+If businesses fail to update their prices when people start hunting for bargains, "last year's prices are served up as today's deals".
+"I suspect the whole model for advertising is going to start influencing AI recommendations," she said.
+Her own analysis of chatbots' Black Friday tech deals in the UK suggested the big retailers came out on top - with Amazon mentioned in half of responses, and Currys following closely behind.
+Her tips include asking an assistant "is that this year's price?" and clicking on the links provided - "because you shouldn't take any advice from the AI system at face value".
+But consumer group Which? recently said inaccurate pricing in AI results added more work, external to Black Friday deal-hunting.
+"If you ask ChatGPT for a list of 10 laptops under £400 and seven of the results are priced higher, you've likely wasted a good chunk of time going through them to discover the bot gave you only three options," said senior researcher Hannah Walsh.
+"The opposite is also true - you could miss out on great models in your budget if ChatGPT tells you they are more expensive than they actually are."
+Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-21T00:06:11+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbf/live/85d51550-e435-11f1-8346-933d3547e297.jpg",
+    readTime: 10,
   },
   {
     id: "dow-s-p-500-enter-correction-as-nasdaq-s-7a2c029c",
@@ -1662,620 +2192,6 @@ Technology of Business
     publishedAt: "2026-11-20T07:32:19+00:00",
     category: "テクノロジー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5352/live/663fec10-d765-11f1-93e1-3b657b665bcf.jpg",
-    readTime: 10,
-  },
-  {
-    id: "mouldy-infested-housing-for-vulnerable-p-8e85df23",
-    title: "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
-    titleJa: "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
-    summaryJa: "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds.",
-    bodyOriginal: `Mouldy, infested housing for vulnerable people sold as ethical investments abroad
-- Published
-"This building is hell on Earth," says Phil, describing the black mould and rats at Castleview House, the block of flats in Runcorn, Cheshire, where he lives.
-But to an estate agent called Britské Reality - which translates as British Real Estate - working with investors hundreds of miles away in the Czech Republic, the flat Phil rents through his benefits was an exciting business opportunity.
-The estate agent's marketing material said the flat was a government-funded source of income for investors, where tenants were taken care of and the property was in excellent condition.
-A Czech investor bought it last year for £163,150, more than double the £75,000 cost of similar apartments in the block.
-The BBC has found more than 40 companies marketing similar properties to individuals in the UK and abroad, as businesses seek to profit from a government system intended to provide housing and support for vulnerable people.
-About a dozen of these companies work with a property developer called Lee Jones, whose company sold Phil's flat.
-The homes they are selling to investors are advertised as supported accommodation, a type of housing for people with issues including mental health problems or drug abuse issues, as well as people fleeing domestic violence.
-Providers offering what is known as supported exempt accommodation are allowed to charge the taxpayer more than the usual housing benefit cap, because they have higher running costs. Tenants are entitled to care, support and supervision - although how much support should be provided is not defined.
-While there are legitimate providers helping people back into independent living, the BBC has previously reported on how some are exploiting the system by taking the higher housing benefit payments but failing to provide support.
-Our latest investigation found companies marketing supported housing properties to people in Hong Kong, Macau, Nigeria, Turkey, the Netherlands, the UK and other countries as a "secure", "government-backed" investment.
-We also found adverts made misleading promises about the quality of the accommodation and support, with tenants saying they were receiving little or no care, while we observed examples of poor quality, unsafe accommodation.
-Housing charities and experts have told the BBC the sector has been transformed into a profit-generating machine at the expense of some tenants' safety, care, and dignity.
-Labour MP Abena Oppong-Asare, who chairs the Housing Select Committee, said it was "outrageous" that supported housing properties were being marketed as investments "particularly where there's public funds involved".
-The BBC's findings were "alarming" and showed a sector "open to abuse", she added.
-'Total dishonesty' in marketing
-Lee Jones's company The Investment Room converted Castleview House in 2019 from an office block into more than 200 residential flats, including the one where Phil now lives.
-Then Jones partnered with Nurture Housing Association. His company granted Nurture a 25-year-lease on some of the flats, to provide housing for people on government benefits. Jones has a close business relationship with Nurture's chief executive Chris Smith, with the pair also acting as joint directors of other housing companies.
-Jones then worked with estate agents, which marketed the housing to investors in the UK and overseas using the regular cashflow generated by the 25-year lease with Nurture and the promise of government funding to justify inflated prices.
-Lee Jones and Nurture have repeated this with property developments across England, including in Doncaster, Rotherham, Stockton-on-Tees and Bradford. These type of properties are also in Scotland, Wales and Northern Ireland but are funded and regulated differently.
-Because neither profit-making private companies nor individuals can act as supported housing providers themselves, co-operation between developers, investors and publicly funded providers has become common.
-The Czech marketing material found by the BBC said Nurture provides housing for people with mental health issues who receive the "aftercare program pursuant to Section 117 of the Mental Health Act", meaning they have been sectioned and discharged from hospital with a detailed care plan.
-But Phil says he has never been sectioned under the Mental Health Act.
-He does have severe depression and anxiety, and he is currently out of work. But he says he has never had any support or care, or met anyone working for Nurture during his time at the flat.
-"Whoever marketed this property, the way they've worded it is total dishonesty," says Phil. "If they're looking to make as much profit as they can, then they clearly have no plans to fix the issues in the building."
-Phil had no idea the flat he rents had been sold to overseas investors in May 2025 until the BBC contacted him. But there were clues: bills addressed to someone called Jan Hála had been coming through the letterbox for months.
-Lee Jones told us that the properties his companies provide are "good quality accommodation" and he has no responsibility for the communal areas of Castleview House since he sold the freehold in 2021. He denied his relationship with Chris Smith amounted to a conflict of interest, but did not respond to questions about his role in marketing the properties.
-Jan Hála, the Czech investor who now owns Phil's flat, and the Britské Reality estate agency did not respond to requests for comment.
-We spoke to several other people living in flats run by Nurture Housing Association in Castleview House who said they were in supported accommodation. They reported receiving little or no help from Nurture but were afraid to speak out publicly for fear of eviction and becoming homeless.
-There is also evidence that marketing materials for investors buying flats in Castleview were misleading. Investors were told Nurture was providing "specialist supported housing" - a claim which is repeated on its website.
-According to the Regulator of Social Housing, this would mean it was providing a high level of care, equivalent to living in a care home.
-But Nurture had not been registered as a specialised supported housing provider, the regulator said, and its claim to be providing this was "shocking".
-In a statement, Nurture acknowledged that Castleview House is managed under a "general housing management model" and does not form part of its supported housing portfolio. It said it provided supported housing elsewhere through partners which were registered providers.
-It said the Czech advert found by the BBC related to "historic marketing material" produced by third parties.
-However, the BBC has seen marketing material from several other agents selling flats in Castleview House to investors, which also claim that Nurture is providing supported housing to the residents on a 25-year lease.
-Nurture said it is not directly involved with the companies marketing the properties. But it said: "We will be reviewing communications with relevant agents and reminding them of the importance of ensuring that any information relating to Nurture is accurate, transparent and does not create misunderstanding regarding the accommodation or services provided."
-'No-one is directly accountable'
-While there are doubts about what kind of housing Nurture has been providing, the BBC also found other flats sold to investors overseas with tenants who were in supported exempt accommodation.
-The web of companies involved in providing this housing and cross-border ownership means it can be difficult for vulnerable tenants to get help when there are problems with properties.
-"The way that the current system works is there's different levels of involvement by different organisations and companies and no-one is directly accountable," Abena Oppong-Asare, the housing committee chairwoman, told us.
-Mo, who has mental health issues, was housed in a studio flat in Cricklewood, north London, after he became homeless. The converted house containing his flat was bought by Gemelli London 2 Limited, a company run by French nationals living in the Czech Republic, for £1.83m in January last year.
-He says his supported housing provider, Windrush Alliance, receives nearly £2,000 a month via Barnet Council for the flat. Mo says he receives £340 in universal credit for living expenses every month - but he is expected to pay Windrush a monthly £120 service charge out of that.
-Last year his ceiling collapsed after a leak went unrepaired for more than a year and Mo was temporarily housed in another flat in the property.
-Mo says his weekly visits from a Windrush support worker feel like a tick-box exercise and do not help him with the mental health issues which have been keeping him out of work.
-Gemelli's director Stephane Boussier told the BBC that when the company bought the property "no complaints from residents were disclosed". It was made aware of issues in August 2025, he said, and since then has "raised them with Windrush in writing, inspected the property and pressed for them to be resolved".
-He added that Gemelli London 2 Limited receives about £1,365 per flat per month from Windrush and does not receive any of the extra housing benefit that would be used for vulnerable tenants.
-Windrush said it was aware of issues at Mo's property and was "working with the building owner to put them right". According to Gemelli, the ceiling was repaired after the BBC contacted the two companies.
-Windrush has previously been criticised by the Regulator for Social Housing for a "failure to meet the standards" of the regulator, including failing to ensure "tenants are safe in their homes".
-It acknowledged that it "fell short in the past". It wrote off £1.8m in "funds to former directors and companies under their control", saying the company's financial position had been "compromised" by their actions. The company now has a new board in place.
-Windrush told us its "priority is residents, not investors" and the rates it charges "are agreed with the relevant local authorities" and "any surplus is reinvested in our homes and services".
-'The worst kind of exploitation'
-In Bradford, the BBC visited City Exchange and Colonnade House, two former office blocks which Lee Jones has converted into housing - with Nurture Housing Association managing many of the flats.
-Many of the properties there were advertised as supported housing investments. Residents showed us cockroach infestations, faulty fire alarms, broken lifts, leaks through the ceiling and black mould.
-Nurture Housing said it was only responsible for the individual homes that it manages and does not manage communal areas or "wider building infrastructure".
-"Nurture Housing and its managing agents regularly raise these concerns with the block manager," the company said.
-The freeholder for Phil's block, Castleview House, and City Exchange, blamed "defects" by the developer Lee Jones for the problems with the buildings and said it was taking legal action. Colonnade House has had several building management companies in recent years and the latest said it was addressing the problems.
-None of these companies or individuals are breaking the law, but critics say they are exploiting a lack of regulation in the sector.
-Three years after the Supported Housing Act was passed in England, which would put in place a licensing regime for supported housing providers and give local councils more powers to shut down providers that failed to meet the standards, it still has not been implemented.
-"It's taken too long," said Jasmine Basran, head of policy and campaigns at housing charity Crisis. "In the meantime, this an area where we've seen the worst kind of exploitation."
-Additional reporting by Lorna Acquah and Abi Smitton
-Get in touch
-Have you been affected by issues covered in this story? Share your experiences.`,
-    bodyJa: `Mouldy, infested housing for vulnerable people sold as ethical investments abroad
-- Published
-"This building is hell on Earth," says Phil, describing the black mould and rats at Castleview House, the block of flats in Runcorn, Cheshire, where he lives.
-But to an estate agent called Britské Reality - which translates as British Real Estate - working with investors hundreds of miles away in the Czech Republic, the flat Phil rents through his benefits was an exciting business opportunity.
-The estate agent's marketing material said the flat was a government-funded source of income for investors, where tenants were taken care of and the property was in excellent condition.
-A Czech investor bought it last year for £163,150, more than double the £75,000 cost of similar apartments in the block.
-The BBC has found more than 40 companies marketing similar properties to individuals in the UK and abroad, as businesses seek to profit from a government system intended to provide housing and support for vulnerable people.
-About a dozen of these companies work with a property developer called Lee Jones, whose company sold Phil's flat.
-The homes they are selling to investors are advertised as supported accommodation, a type of housing for people with issues including mental health problems or drug abuse issues, as well as people fleeing domestic violence.
-Providers offering what is known as supported exempt accommodation are allowed to charge the taxpayer more than the usual housing benefit cap, because they have higher running costs. Tenants are entitled to care, support and supervision - although how much support should be provided is not defined.
-While there are legitimate providers helping people back into independent living, the BBC has previously reported on how some are exploiting the system by taking the higher housing benefit payments but failing to provide support.
-Our latest investigation found companies marketing supported housing properties to people in Hong Kong, Macau, Nigeria, Turkey, the Netherlands, the UK and other countries as a "secure", "government-backed" investment.
-We also found adverts made misleading promises about the quality of the accommodation and support, with tenants saying they were receiving little or no care, while we observed examples of poor quality, unsafe accommodation.
-Housing charities and experts have told the BBC the sector has been transformed into a profit-generating machine at the expense of some tenants' safety, care, and dignity.
-Labour MP Abena Oppong-Asare, who chairs the Housing Select Committee, said it was "outrageous" that supported housing properties were being marketed as investments "particularly where there's public funds involved".
-The BBC's findings were "alarming" and showed a sector "open to abuse", she added.
-'Total dishonesty' in marketing
-Lee Jones's company The Investment Room converted Castleview House in 2019 from an office block into more than 200 residential flats, including the one where Phil now lives.
-Then Jones partnered with Nurture Housing Association. His company granted Nurture a 25-year-lease on some of the flats, to provide housing for people on government benefits. Jones has a close business relationship with Nurture's chief executive Chris Smith, with the pair also acting as joint directors of other housing companies.
-Jones then worked with estate agents, which marketed the housing to investors in the UK and overseas using the regular cashflow generated by the 25-year lease with Nurture and the promise of government funding to justify inflated prices.
-Lee Jones and Nurture have repeated this with property developments across England, including in Doncaster, Rotherham, Stockton-on-Tees and Bradford. These type of properties are also in Scotland, Wales and Northern Ireland but are funded and regulated differently.
-Because neither profit-making private companies nor individuals can act as supported housing providers themselves, co-operation between developers, investors and publicly funded providers has become common.
-The Czech marketing material found by the BBC said Nurture provides housing for people with mental health issues who receive the "aftercare program pursuant to Section 117 of the Mental Health Act", meaning they have been sectioned and discharged from hospital with a detailed care plan.
-But Phil says he has never been sectioned under the Mental Health Act.
-He does have severe depression and anxiety, and he is currently out of work. But he says he has never had any support or care, or met anyone working for Nurture during his time at the flat.
-"Whoever marketed this property, the way they've worded it is total dishonesty," says Phil. "If they're looking to make as much profit as they can, then they clearly have no plans to fix the issues in the building."
-Phil had no idea the flat he rents had been sold to overseas investors in May 2025 until the BBC contacted him. But there were clues: bills addressed to someone called Jan Hála had been coming through the letterbox for months.
-Lee Jones told us that the properties his companies provide are "good quality accommodation" and he has no responsibility for the communal areas of Castleview House since he sold the freehold in 2021. He denied his relationship with Chris Smith amounted to a conflict of interest, but did not respond to questions about his role in marketing the properties.
-Jan Hála, the Czech investor who now owns Phil's flat, and the Britské Reality estate agency did not respond to requests for comment.
-We spoke to several other people living in flats run by Nurture Housing Association in Castleview House who said they were in supported accommodation. They reported receiving little or no help from Nurture but were afraid to speak out publicly for fear of eviction and becoming homeless.
-There is also evidence that marketing materials for investors buying flats in Castleview were misleading. Investors were told Nurture was providing "specialist supported housing" - a claim which is repeated on its website.
-According to the Regulator of Social Housing, this would mean it was providing a high level of care, equivalent to living in a care home.
-But Nurture had not been registered as a specialised supported housing provider, the regulator said, and its claim to be providing this was "shocking".
-In a statement, Nurture acknowledged that Castleview House is managed under a "general housing management model" and does not form part of its supported housing portfolio. It said it provided supported housing elsewhere through partners which were registered providers.
-It said the Czech advert found by the BBC related to "historic marketing material" produced by third parties.
-However, the BBC has seen marketing material from several other agents selling flats in Castleview House to investors, which also claim that Nurture is providing supported housing to the residents on a 25-year lease.
-Nurture said it is not directly involved with the companies marketing the properties. But it said: "We will be reviewing communications with relevant agents and reminding them of the importance of ensuring that any information relating to Nurture is accurate, transparent and does not create misunderstanding regarding the accommodation or services provided."
-'No-one is directly accountable'
-While there are doubts about what kind of housing Nurture has been providing, the BBC also found other flats sold to investors overseas with tenants who were in supported exempt accommodation.
-The web of companies involved in providing this housing and cross-border ownership means it can be difficult for vulnerable tenants to get help when there are problems with properties.
-"The way that the current system works is there's different levels of involvement by different organisations and companies and no-one is directly accountable," Abena Oppong-Asare, the housing committee chairwoman, told us.
-Mo, who has mental health issues, was housed in a studio flat in Cricklewood, north London, after he became homeless. The converted house containing his flat was bought by Gemelli London 2 Limited, a company run by French nationals living in the Czech Republic, for £1.83m in January last year.
-He says his supported housing provider, Windrush Alliance, receives nearly £2,000 a month via Barnet Council for the flat. Mo says he receives £340 in universal credit for living expenses every month - but he is expected to pay Windrush a monthly £120 service charge out of that.
-Last year his ceiling collapsed after a leak went unrepaired for more than a year and Mo was temporarily housed in another flat in the property.
-Mo says his weekly visits from a Windrush support worker feel like a tick-box exercise and do not help him with the mental health issues which have been keeping him out of work.
-Gemelli's director Stephane Boussier told the BBC that when the company bought the property "no complaints from residents were disclosed". It was made aware of issues in August 2025, he said, and since then has "raised them with Windrush in writing, inspected the property and pressed for them to be resolved".
-He added that Gemelli London 2 Limited receives about £1,365 per flat per month from Windrush and does not receive any of the extra housing benefit that would be used for vulnerable tenants.
-Windrush said it was aware of issues at Mo's property and was "working with the building owner to put them right". According to Gemelli, the ceiling was repaired after the BBC contacted the two companies.
-Windrush has previously been criticised by the Regulator for Social Housing for a "failure to meet the standards" of the regulator, including failing to ensure "tenants are safe in their homes".
-It acknowledged that it "fell short in the past". It wrote off £1.8m in "funds to former directors and companies under their control", saying the company's financial position had been "compromised" by their actions. The company now has a new board in place.
-Windrush told us its "priority is residents, not investors" and the rates it charges "are agreed with the relevant local authorities" and "any surplus is reinvested in our homes and services".
-'The worst kind of exploitation'
-In Bradford, the BBC visited City Exchange and Colonnade House, two former office blocks which Lee Jones has converted into housing - with Nurture Housing Association managing many of the flats.
-Many of the properties there were advertised as supported housing investments. Residents showed us cockroach infestations, faulty fire alarms, broken lifts, leaks through the ceiling and black mould.
-Nurture Housing said it was only responsible for the individual homes that it manages and does not manage communal areas or "wider building infrastructure".
-"Nurture Housing and its managing agents regularly raise these concerns with the block manager," the company said.
-The freeholder for Phil's block, Castleview House, and City Exchange, blamed "defects" by the developer Lee Jones for the problems with the buildings and said it was taking legal action. Colonnade House has had several building management companies in recent years and the latest said it was addressing the problems.
-None of these companies or individuals are breaking the law, but critics say they are exploiting a lack of regulation in the sector.
-Three years after the Supported Housing Act was passed in England, which would put in place a licensing regime for supported housing providers and give local councils more powers to shut down providers that failed to meet the standards, it still has not been implemented.
-"It's taken too long," said Jasmine Basran, head of policy and campaigns at housing charity Crisis. "In the meantime, this an area where we've seen the worst kind of exploitation."
-Additional reporting by Lorna Acquah and Abi Smitton
-Get in touch
-Have you been affected by issues covered in this story? Share your experiences.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-20T06:00:33+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c60/live/a3312140-e43d-11f1-99b6-a35a62fa4264.jpg",
-    readTime: 10,
-  },
-  {
-    id: "forget-anthropic-in-europe-the-ipo-hype-c0efaa87",
-    title: "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
-    titleJa: "Forget Anthropic: In Europe, the IPO hype is about a blue lagoon",
-    summaryJa: "Iceland’s famed Blue Lagoon geothermal spa is going public in a $110 million IPO, tapping investor interest in tourism and the booming wellness industry.",
-    bodyOriginal: `While investors are fixated on Anthropic's blockbuster stock market debut, a very different IPO is making waves in Europe: Iceland's Blue Lagoon, the operator of one of the world's most famous geothermal spas.
-Blue Lagoon Corp. raised roughly 14.3 billion Icelandic kronur ($110 million) through the offering, valuing the Icelandic geothermal spa operator at about $787 million, according to the company's investor presentation.
-The Blue Lagoon traces its origins to 1992, when Blue Lagoon Ltd. was founded to study the water in the Blue Lagoon, an open-air pool of warm, milky-blue water set in a black lava field in southwestern Iceland. It grew into a business spanning a spa, hotels and skincare made with ingredients from the lagoon.
-Shares will trade under the ticker "BLUE" on one of Europe's smallest stock exchanges, Nasdaq Iceland Main Market, part of the Nasdaq Nordic group, which also operates exchanges in Sweden, Denmark and Finland.
-'Wellness is the new luxury'
-"Wellness is the new luxury, and we know that the wellness economy is growing faster than the economy as a whole, so we have tailwind from that," CEO Sigríður Margrét Oddsdóttir told CNBC on Thursday.
-"Now is the right time for us to list," she added. "We are a company that thinks long-term, we have a clear vision for the next decade, and being publicly listed gives investors the opportunity to participate in our journey."
-The company's operations are centered on Iceland's Reykjanes Peninsula, where, as well as the Blue Lagoon geothermal spa, it runs the Silica Hotel, the Retreat luxury hotel and spa, and the Michelin-starred Moss restaurant.
-It also operates the Kerlingarfjöll Highland Base and Hrauneyjar properties in Iceland's highlands, and sells Blue Lagoon-branded skincare products internationally.
-The 34-year-old company has averaged 11% annual revenue growth over the past decade, and next year is expected to be a record, with revenue growing by more than half, Oddsdóttir said.
-The company plans to use the raised capital to fund expanding its existing properties, acquiring businesses, and developing new destinations.
-In total, nearly 4,000 subscriptions were received in the initial public offering, worth about 15.3 billion kronur, about 7% more than the total size of the offering, the company said, citing strong demand from smaller investors, including retail investors.
-Iceland's relatively small stock market had just 27 companies on its main exchange at the end of 2025, according to Nasdaq. The market is dominated by banks, seafood companies and other domestically focused firms.
-Iceland's growing wellness industry
-The global wellness industry reached $7.5 trillion in 2025, up 8.9% from the previous year, according to the Global Wellness Institute. Spending on thermal and mineral springs grew 10.4% over the same period, with the institute forecasting annual growth of nearly 10% for the sector through 2030.
-Tourism accounted for nearly 9% of Iceland's GDP in 2025, and is growing, according to Statistics Iceland. The country welcomed around 2.3 million international visitors that year, with the U.S. as its largest source market.`,
-    bodyJa: `While investors are fixated on Anthropic's blockbuster stock market debut, a very different IPO is making waves in Europe: Iceland's Blue Lagoon, the operator of one of the world's most famous geothermal spas.
-Blue Lagoon Corp. raised roughly 14.3 billion Icelandic kronur ($110 million) through the offering, valuing the Icelandic geothermal spa operator at about $787 million, according to the company's investor presentation.
-The Blue Lagoon traces its origins to 1992, when Blue Lagoon Ltd. was founded to study the water in the Blue Lagoon, an open-air pool of warm, milky-blue water set in a black lava field in southwestern Iceland. It grew into a business spanning a spa, hotels and skincare made with ingredients from the lagoon.
-Shares will trade under the ticker "BLUE" on one of Europe's smallest stock exchanges, Nasdaq Iceland Main Market, part of the Nasdaq Nordic group, which also operates exchanges in Sweden, Denmark and Finland.
-'Wellness is the new luxury'
-"Wellness is the new luxury, and we know that the wellness economy is growing faster than the economy as a whole, so we have tailwind from that," CEO Sigríður Margrét Oddsdóttir told CNBC on Thursday.
-"Now is the right time for us to list," she added. "We are a company that thinks long-term, we have a clear vision for the next decade, and being publicly listed gives investors the opportunity to participate in our journey."
-The company's operations are centered on Iceland's Reykjanes Peninsula, where, as well as the Blue Lagoon geothermal spa, it runs the Silica Hotel, the Retreat luxury hotel and spa, and the Michelin-starred Moss restaurant.
-It also operates the Kerlingarfjöll Highland Base and Hrauneyjar properties in Iceland's highlands, and sells Blue Lagoon-branded skincare products internationally.
-The 34-year-old company has averaged 11% annual revenue growth over the past decade, and next year is expected to be a record, with revenue growing by more than half, Oddsdóttir said.
-The company plans to use the raised capital to fund expanding its existing properties, acquiring businesses, and developing new destinations.
-In total, nearly 4,000 subscriptions were received in the initial public offering, worth about 15.3 billion kronur, about 7% more than the total size of the offering, the company said, citing strong demand from smaller investors, including retail investors.
-Iceland's relatively small stock market had just 27 companies on its main exchange at the end of 2025, according to Nasdaq. The market is dominated by banks, seafood companies and other domestically focused firms.
-Iceland's growing wellness industry
-The global wellness industry reached $7.5 trillion in 2025, up 8.9% from the previous year, according to the Global Wellness Institute. Spending on thermal and mineral springs grew 10.4% over the same period, with the institute forecasting annual growth of nearly 10% for the sector through 2030.
-Tourism accounted for nearly 9% of Iceland's GDP in 2025, and is growing, according to Statistics Iceland. The country welcomed around 2.3 million international visitors that year, with the U.S. as its largest source market.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/20/anthropic-ipo-iceland-blue-lagoon.html",
-    publishedAt: "2026-11-20T06:00:01+00:00",
-    category: "貿易",
-    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    readTime: 8,
-  },
-  {
-    id: "senate-passes-baaja-permitting-reform-bi-2f1f5ff3",
-    title: "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
-    titleJa: "Senate passes BAAJA permitting reform bill backed by AI, energy sectors",
-    summaryJa: "The permitting bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Trump's desk.",
-    bodyOriginal: `The Senate on Thursday passed a long-sought bill to ease the nation's environmental permitting laws and overhaul electrical transmission regulations, a crucial step toward boosting construction for the energy and technology industries.
-Senators voted 62-33 to pass the bill, which split Democrats just weeks after they flipped enough seats from Republicans in the midterm elections to give them majorities in both chambers of Congress in January. The bill, known as the Bipartisan American Affordability and Jobs Act of 2026, is projected to lower energy costs for consumers while weakening some environmental laws to speed up the permitting process.
-The vote offers a window into the fissures forming in the Democratic Party as it prepares to assume full control of Congress in January and tries to address the affordability crisis that catapulted it to power.
-More Democrats voted against the permitting measure than voted for it. Still, more than a dozen — including Senate Minority Leader Chuck Schumer, D-N.Y. — voted to pass it over the objections of climate groups and tribes to get the bill across the finish line.
-"It's going to be legislation that's really going to make the biggest difference for the next 100 years, especially bringing down carbon emissions once this president is gone," Sen. Ruben Gallego, D-Ariz., told reporters on Thursday before the vote. Gallego supported the measure.
-The bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Donald Trump's desk.
-Democratic supporters of the bill touted its cost benefits as a win after they ran campaigns on affordability, and pointed to a massive glut of clean energy the bill could bring onto the grid. Opponents lamented rollbacks to the nation's bedrock environmental protection laws favored by the fossil fuel industry and Republicans, and warned the measure could offer carte blanche authority to the data centers undergirding artificial intelligence.
-"No big, bipartisan bill is going to be perfect for everyone, but we have a real opportunity to make electricity more affordable for families. Working people can't afford to wait another few years for us to get this done," Sen. Martin Heinrich, D-N.M., the incoming chair of the Senate Energy and Natural Resources Committee and an author of the bill, said in a statement to CNBC.
-Heinrich brokered the agreement with his counterpart Sen. Mike Lee, R-Utah, along with Sens. Sheldon Whitehouse, D-R.I., and Shelley Moore Capito, R-W.Va., the top Democrat and Republican on the Senate Environment and Public Works Committee.
-"Earlier this month, Americans sent a clear message: They want Congress focused on making their lives more affordable. That's precisely what this permitting reform bill will do," he said.
-Getting to a final vote was acrimonious. Senators amended the package in the weeks leading up to the vote to address concerns from Native American tribes, which objected to changes in their participation in permitting.
-"I'm not going to sit around and let these data centers scar our treasures," Sen. Ron Wyden, D-Ore., told reporters Thursday about the push for his amendment, which would have blocked data centers from being built on public lands.
-Clean energy and fossil energy groups both cheered the bill's passage in the Senate.
-As negotiated, the bill would benefit both renewables and fossil fuels. Artificial intelligence and the broader tech industry also stand to benefit — despite the bill's provision forcing hyperscalers to pay for upgrades to the grid — as power-hungry data centers demand more electricity.
-The American Clean Power Association, a group that represents renewables, said it was "a clean energy bill that will modernize America's energy systems and lower consumer prices."
-The American Petroleum Institute, which represents the oil and gas industry, called the bill a "major breakthrough on historic permitting reforms that would deliver more affordable energy for consumers, cut costly delays, and build much-needed critical infrastructure."
-Renewables would benefit largely from the bill's electricity transmission component, along with measures aimed at blocking Trump from cancelling already-permitted wind and solar projects. New solar and wind projects are often bottlenecked by a lack of transmission able to deliver power to the grid.
-Rhodium Group, an economic research firm, estimates the bill would allow an additional 17 to 249 gigawatts of clean energy to be built by 2040. Natural gas exports would rise 8% to 15% beyond a 76% to 145% rise already accounted for under current policy. Greenhouse gases would be reduced by 5 to 148 million metric tons annually in 2040.
-"A lot of Democrats are involved and supportive in this deal because expanding grid capacity would integrate a lot of clean energy," said Rob Gramlich, the founder and president of Grid Strategies, an energy consulting group. "Republicans are maybe less interested in that benefit, but they do care about economic growth and serving new large loads. And I think members on both sides of the aisle are pretty well aware that we're doing much less grid investment here in the U.S. compared to other countries."
-Gramlich added that "you can't get to 60 to 80% of our grid from renewable energy without a significant expansion of grid capacity."
-However, the Natural Resources Defense Council was among the opponents.
-"The House should not pass a bill that gives President Trump a blank check to reward oil and gas companies and data center developers," the organization said in a statement. "Lawmakers should oppose this bill and try again next year to pass legislation worthy of the American people, not for the fossil fuel industry and data center companies."
-The bill now heads to the House, where Republican leadership is expected to attempt to pass it. Trump also supports the deal.
-But as in the Senate, Democrats are expected to be divided.
-"Democrats promised to lower bills, cut pollution, and protect ratepayers," said Rep. Scott Peters, D-Calif., a longtime champion of permitting reform. "Voters are giving us a chance to show we mean it. BAAJA does all three. We should pass it before the end of this Congress."
-House Natural Resources ranking member and likely incoming Chair Jared Huffman, D-Calif., meanwhile, urged Democrats to say no to the permitting bill.
-"Don't believe the lie that this terrible bill, exactly as drafted, is the last, best and only chance to ever do permitting reform," he said. "We can produce a better deal."`,
-    bodyJa: `The Senate on Thursday passed a long-sought bill to ease the nation's environmental permitting laws and overhaul electrical transmission regulations, a crucial step toward boosting construction for the energy and technology industries.
-Senators voted 62-33 to pass the bill, which split Democrats just weeks after they flipped enough seats from Republicans in the midterm elections to give them majorities in both chambers of Congress in January. The bill, known as the Bipartisan American Affordability and Jobs Act of 2026, is projected to lower energy costs for consumers while weakening some environmental laws to speed up the permitting process.
-The vote offers a window into the fissures forming in the Democratic Party as it prepares to assume full control of Congress in January and tries to address the affordability crisis that catapulted it to power.
-More Democrats voted against the permitting measure than voted for it. Still, more than a dozen — including Senate Minority Leader Chuck Schumer, D-N.Y. — voted to pass it over the objections of climate groups and tribes to get the bill across the finish line.
-"It's going to be legislation that's really going to make the biggest difference for the next 100 years, especially bringing down carbon emissions once this president is gone," Sen. Ruben Gallego, D-Ariz., told reporters on Thursday before the vote. Gallego supported the measure.
-The bill's Senate passage is a key step to it becoming law, but it would also need to clear the House before heading to President Donald Trump's desk.
-Democratic supporters of the bill touted its cost benefits as a win after they ran campaigns on affordability, and pointed to a massive glut of clean energy the bill could bring onto the grid. Opponents lamented rollbacks to the nation's bedrock environmental protection laws favored by the fossil fuel industry and Republicans, and warned the measure could offer carte blanche authority to the data centers undergirding artificial intelligence.
-"No big, bipartisan bill is going to be perfect for everyone, but we have a real opportunity to make electricity more affordable for families. Working people can't afford to wait another few years for us to get this done," Sen. Martin Heinrich, D-N.M., the incoming chair of the Senate Energy and Natural Resources Committee and an author of the bill, said in a statement to CNBC.
-Heinrich brokered the agreement with his counterpart Sen. Mike Lee, R-Utah, along with Sens. Sheldon Whitehouse, D-R.I., and Shelley Moore Capito, R-W.Va., the top Democrat and Republican on the Senate Environment and Public Works Committee.
-"Earlier this month, Americans sent a clear message: They want Congress focused on making their lives more affordable. That's precisely what this permitting reform bill will do," he said.
-Getting to a final vote was acrimonious. Senators amended the package in the weeks leading up to the vote to address concerns from Native American tribes, which objected to changes in their participation in permitting.
-"I'm not going to sit around and let these data centers scar our treasures," Sen. Ron Wyden, D-Ore., told reporters Thursday about the push for his amendment, which would have blocked data centers from being built on public lands.
-Clean energy and fossil energy groups both cheered the bill's passage in the Senate.
-As negotiated, the bill would benefit both renewables and fossil fuels. Artificial intelligence and the broader tech industry also stand to benefit — despite the bill's provision forcing hyperscalers to pay for upgrades to the grid — as power-hungry data centers demand more electricity.
-The American Clean Power Association, a group that represents renewables, said it was "a clean energy bill that will modernize America's energy systems and lower consumer prices."
-The American Petroleum Institute, which represents the oil and gas industry, called the bill a "major breakthrough on historic permitting reforms that would deliver more affordable energy for consumers, cut costly delays, and build much-needed critical infrastructure."
-Renewables would benefit largely from the bill's electricity transmission component, along with measures aimed at blocking Trump from cancelling already-permitted wind and solar projects. New solar and wind projects are often bottlenecked by a lack of transmission able to deliver power to the grid.
-Rhodium Group, an economic research firm, estimates the bill would allow an additional 17 to 249 gigawatts of clean energy to be built by 2040. Natural gas exports would rise 8% to 15% beyond a 76% to 145% rise already accounted for under current policy. Greenhouse gases would be reduced by 5 to 148 million metric tons annually in 2040.
-"A lot of Democrats are involved and supportive in this deal because expanding grid capacity would integrate a lot of clean energy," said Rob Gramlich, the founder and president of Grid Strategies, an energy consulting group. "Republicans are maybe less interested in that benefit, but they do care about economic growth and serving new large loads. And I think members on both sides of the aisle are pretty well aware that we're doing much less grid investment here in the U.S. compared to other countries."
-Gramlich added that "you can't get to 60 to 80% of our grid from renewable energy without a significant expansion of grid capacity."
-However, the Natural Resources Defense Council was among the opponents.
-"The House should not pass a bill that gives President Trump a blank check to reward oil and gas companies and data center developers," the organization said in a statement. "Lawmakers should oppose this bill and try again next year to pass legislation worthy of the American people, not for the fossil fuel industry and data center companies."
-The bill now heads to the House, where Republican leadership is expected to attempt to pass it. Trump also supports the deal.
-But as in the Senate, Democrats are expected to be divided.
-"Democrats promised to lower bills, cut pollution, and protect ratepayers," said Rep. Scott Peters, D-Calif., a longtime champion of permitting reform. "Voters are giving us a chance to show we mean it. BAAJA does all three. We should pass it before the end of this Congress."
-House Natural Resources ranking member and likely incoming Chair Jared Huffman, D-Calif., meanwhile, urged Democrats to say no to the permitting bill.
-"Don't believe the lie that this terrible bill, exactly as drafted, is the last, best and only chance to ever do permitting reform," he said. "We can produce a better deal."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html",
-    publishedAt: "2026-11-20T03:56:17+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "gta-6-breaks-records-as-estimated-sales-f6c44cb4",
-    title: "GTA 6 breaks records as estimated sales top $2.3bn",
-    titleJa: "GTA 6 breaks records as estimated sales top $2.3bn",
-    summaryJa: "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
-    bodyOriginal: `GTA 6 breaks records as estimated sales top $2.3bn
-- Published
-Grand Theft Auto 6 is estimated to have become the biggest entertainment launch in history following the blockbuster video game's debut on Thursday, after a 13-year wait.
-The highly anticipated open-world action-adventure saw pre-orders and first day sales total more than 24.5 million units, raking in about $2.36bn (£1.8bn), according to analytics platform Sensor Tower.
-In comparison, this year's highest grossing movie so far, Spider-Man: Brand New Day, made $2.5bn over its entire run in cinemas.
-GTA 6's maker Rockstar and parent company Take-Two have not released details of the game's sales but said demand has been "unprecedented". The BBC has contacted both the firms for comment.
-The game is the latest instalment in Rockstar's nearly three decade old crime simulator franchise, which has become one of the most popular games in history.
-At its core, the series is a satirical take on the American dream, putting players in the shoes of career criminals in Leonida, the game's Florida-inspired state.
-The latest release follows new characters Lucia and her partner Jason, a pair of small-time criminals.
-GTA 6 is estimated to have cost more than $1bn to develop, which would make it the most expensive video game in history.
-Sensor Tower said GTA 6 will be so popular that it will reduce the time gamers spend on other single-player titles by 10%.
-The research firm said its estimates are based on email receipts data and other statistical sources that track millions of people daily. They also track public profiles across major gaming platforms like PlayStation and Xbox, where GTA 6 is available.
-Around three quarters of the game's sales have been for the PlayStation 5 and the balance on Xbox, Sensor Tower said.
-Niko Partners, a gaming market research firm, said it expects GTA 6 to make more than $3bn in sales worldwide this year.
-That figure would rank GTA 6 among the highest-grossing entertainment releases ever, but it would still have some way to go to catch 1939's Gone with the Wind, which has made an estimated $4.5bn, adjusted for inflation.
-Rockstar is expected to make even more money from GTA 6 over the coming years.
-The New York-based studio has yet to announce when the game will be released for PCs or given a date for its multiplayer expansion, which will allow players to interact and go on missions with others over the internet.
-If 2013's GTA 5 is any guide, multiplayer will add dozens more hours of gameplay and bring in even more revenue for Rockstar as players spend real money on in-game property, cars and other perks.
-Anticipation for the blockbuster title has grown through repeated delays, following a 13-year wait.
-GTA 6 has been hailed by some reviewers as one of the most impressive gaming experiences ever. Entertainment media site IGN described it as an "uncompromisingly engineered" masterpiece.
-The release of GTA 6 at midnight on Thursday across various time zones saw many gamers stay up through the night, while some took the following day off to play.
-Its launch broke Virgin Media O2's evening traffic record as people rushed to install GTA 6's huge 212GB file on consoles.
-The game's graphic content has resulted in censorship in Japan and, like earlier GTA releases, is not approved for sale in mainland China.
-Related topics
-- Published2 days ago
-- Published2 days ago`,
-    bodyJa: `GTA 6 breaks records as estimated sales top $2.3bn
-- Published
-Grand Theft Auto 6 is estimated to have become the biggest entertainment launch in history following the blockbuster video game's debut on Thursday, after a 13-year wait.
-The highly anticipated open-world action-adventure saw pre-orders and first day sales total more than 24.5 million units, raking in about $2.36bn (£1.8bn), according to analytics platform Sensor Tower.
-In comparison, this year's highest grossing movie so far, Spider-Man: Brand New Day, made $2.5bn over its entire run in cinemas.
-GTA 6's maker Rockstar and parent company Take-Two have not released details of the game's sales but said demand has been "unprecedented". The BBC has contacted both the firms for comment.
-The game is the latest instalment in Rockstar's nearly three decade old crime simulator franchise, which has become one of the most popular games in history.
-At its core, the series is a satirical take on the American dream, putting players in the shoes of career criminals in Leonida, the game's Florida-inspired state.
-The latest release follows new characters Lucia and her partner Jason, a pair of small-time criminals.
-GTA 6 is estimated to have cost more than $1bn to develop, which would make it the most expensive video game in history.
-Sensor Tower said GTA 6 will be so popular that it will reduce the time gamers spend on other single-player titles by 10%.
-The research firm said its estimates are based on email receipts data and other statistical sources that track millions of people daily. They also track public profiles across major gaming platforms like PlayStation and Xbox, where GTA 6 is available.
-Around three quarters of the game's sales have been for the PlayStation 5 and the balance on Xbox, Sensor Tower said.
-Niko Partners, a gaming market research firm, said it expects GTA 6 to make more than $3bn in sales worldwide this year.
-That figure would rank GTA 6 among the highest-grossing entertainment releases ever, but it would still have some way to go to catch 1939's Gone with the Wind, which has made an estimated $4.5bn, adjusted for inflation.
-Rockstar is expected to make even more money from GTA 6 over the coming years.
-The New York-based studio has yet to announce when the game will be released for PCs or given a date for its multiplayer expansion, which will allow players to interact and go on missions with others over the internet.
-If 2013's GTA 5 is any guide, multiplayer will add dozens more hours of gameplay and bring in even more revenue for Rockstar as players spend real money on in-game property, cars and other perks.
-Anticipation for the blockbuster title has grown through repeated delays, following a 13-year wait.
-GTA 6 has been hailed by some reviewers as one of the most impressive gaming experiences ever. Entertainment media site IGN described it as an "uncompromisingly engineered" masterpiece.
-The release of GTA 6 at midnight on Thursday across various time zones saw many gamers stay up through the night, while some took the following day off to play.
-Its launch broke Virgin Media O2's evening traffic record as people rushed to install GTA 6's huge 212GB file on consoles.
-The game's graphic content has resulted in censorship in Japan and, like earlier GTA releases, is not approved for sale in mainland China.
-Related topics
-- Published2 days ago
-- Published2 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-20T02:54:40+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ccb/live/0f9f2750-e493-11f1-a094-5fdc692f3e33.jpg",
-    readTime: 8,
-  },
-  {
-    id: "airbnb-s-divisive-new-house-rules-come-i-ab8976d1",
-    title: "Airbnb's divisive new house rules come into force",
-    titleJa: "Airbnb's divisive new house rules come into force",
-    summaryJa: "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
-    bodyOriginal: `Airbnb's divisive new house rules come into force
-- Published
-New rules on what Airbnb hosts can reasonably ask guests to do have come into force.
-Hosts should now not normally ask guests to wash up, for example, but can appeal to Airbnb if they have a compelling reason.
-Some guests have found lists of house rules laborious to complete, with one telling the BBC "it was not relaxing at all".
-But some hosts have said that the costs of paying for extra cleaning may have to be passed on to customers.
-The new Airbnb rules, announced last month, allow hosts to choose from seven standard house rules, which include determining how many people can stay overnight, and whether or not pets or smoking are allowed.
-Hosts can then set additional rules, but guests shouldn't be asked to do the washing up, remove sheets from beds, take rubbish out or avoid using utilities.
-Airbnb has begun reviewing listings and will be sending emails to hosts, external "who need to take action" it said.
-Hosts can appeal to Airbnb to argue an additional house rule is necessary, and ask Airbnb to approve it.
-If the house rule is not approved and the host keeps it anyway, Airbnb will flag this to guests on the host's listing page with a message such as "includes cleaning tasks".
-Airbnb said chores can make customers hesitate about booking through the platform, arguing that making house rules "clearer" would increase the number of clients.
-But some hosts have said they may have to pass the extra cleaning costs on to guests.
-Lisa Clewes, who runs a Welsh holiday let, told the BBC she was "horrified" at the state her guests left the house after a dinner party.
-There were broken glasses, drinks cans on the floor, pans full of food on the table and fish guts left in the garden.
-Clewes said it typically takes cleaners four hours to turn around her three-bedroom property.
-She said guests leaving more mess could mean hiring extra cleaners and increasing costs – expenses that may ultimately be passed on to her customers.
-The changes have come as a relief to guests like Jessica Newhook, who says she has been faced with lengthy checkout lists, often on top of hefty cleaning fees.
-She booked an Airbnb in Florida for a family reunion of 11 guests and says they had to "leave the property move-in ready for the cleaners", despite paying a $250 (£187) cleaning fee.
-"We had rules about everything and it was not relaxing at all," she said.
-The new rules have added to growing frustration among owners following increases in Airbnb's commission rates last year.
-Many are investing in their own websites and social media to attract direct bookings and avoid platform fees.
-Not all hosts are concerned about the changes, however.
-Matt Porsz, who hosts and manages other Airbnb properties full-time, told the BBC previously the review system encourages both hosts and guests to behave reasonably.`,
-    bodyJa: `Airbnb's divisive new house rules come into force
-- Published
-New rules on what Airbnb hosts can reasonably ask guests to do have come into force.
-Hosts should now not normally ask guests to wash up, for example, but can appeal to Airbnb if they have a compelling reason.
-Some guests have found lists of house rules laborious to complete, with one telling the BBC "it was not relaxing at all".
-But some hosts have said that the costs of paying for extra cleaning may have to be passed on to customers.
-The new Airbnb rules, announced last month, allow hosts to choose from seven standard house rules, which include determining how many people can stay overnight, and whether or not pets or smoking are allowed.
-Hosts can then set additional rules, but guests shouldn't be asked to do the washing up, remove sheets from beds, take rubbish out or avoid using utilities.
-Airbnb has begun reviewing listings and will be sending emails to hosts, external "who need to take action" it said.
-Hosts can appeal to Airbnb to argue an additional house rule is necessary, and ask Airbnb to approve it.
-If the house rule is not approved and the host keeps it anyway, Airbnb will flag this to guests on the host's listing page with a message such as "includes cleaning tasks".
-Airbnb said chores can make customers hesitate about booking through the platform, arguing that making house rules "clearer" would increase the number of clients.
-But some hosts have said they may have to pass the extra cleaning costs on to guests.
-Lisa Clewes, who runs a Welsh holiday let, told the BBC she was "horrified" at the state her guests left the house after a dinner party.
-There were broken glasses, drinks cans on the floor, pans full of food on the table and fish guts left in the garden.
-Clewes said it typically takes cleaners four hours to turn around her three-bedroom property.
-She said guests leaving more mess could mean hiring extra cleaners and increasing costs – expenses that may ultimately be passed on to her customers.
-The changes have come as a relief to guests like Jessica Newhook, who says she has been faced with lengthy checkout lists, often on top of hefty cleaning fees.
-She booked an Airbnb in Florida for a family reunion of 11 guests and says they had to "leave the property move-in ready for the cleaners", despite paying a $250 (£187) cleaning fee.
-"We had rules about everything and it was not relaxing at all," she said.
-The new rules have added to growing frustration among owners following increases in Airbnb's commission rates last year.
-Many are investing in their own websites and social media to attract direct bookings and avoid platform fees.
-Not all hosts are concerned about the changes, however.
-Matt Porsz, who hosts and manages other Airbnb properties full-time, told the BBC previously the review system encourages both hosts and guests to behave reasonably.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-20T00:12:28+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/005c/live/dfcb5350-e410-11f1-b37c-b3a71d7200af.jpg",
-    readTime: 7,
-  },
-  {
-    id: "fish-and-eggs-al-desko-the-dos-and-don-t-271297a6",
-    title: "Fish and eggs al desko? The dos and don'ts of the lunch break",
-    titleJa: "Fish and eggs al desko? The dos and don'ts of the lunch break",
-    summaryJa: "Fish and eggs al desko? The dos and don'ts of the lunch break- Published",
-    bodyOriginal: `Fish and eggs al desko? The dos and don'ts of the lunch break
-- Published
-There are two types of office workers: those who eat lunch al-desko, and those who have to endure the smell of everyone else's.
-Few things are more likely to test workplace relationships than the person sitting next to you proudly unveiling a container of reheated fish.
-From tuna sandwiches and boiled eggs to crumbly and sticky treats that leave a mess on the keyboard, what is considered OK to eat in the office can be surprisingly divisive.
-"We all know not to bring in a microwave fish pie, that is the law," says civil servant Sarah.
-She admits she has, in fact, committed the offence herself in a previous workplace and jokes "that's the reason I left".
-'Suss out the smelliness'
-Casey, a content creator for an energy company, says he used to eat tuna at his desk but has since "reformed".
-He says you have to "suss out the smelliness" and then decide if it's acceptable to eat at the desk.
-But fish isn't the only food causing office friction and Casey says his regular snack of cinnamon pretzels has been causing "quite a bit of havoc".
-"The sugar's going everywhere and it's getting in my laptop keys," he admits. No-one in the office has commented on it yet but he says he's hiding the crumbs by "shuffling them off the desk".
-Boiled eggs also split opinion. Laura, who works in finance, says she's been teased by colleagues for eating them.
-"In my defence, it was high protein, it was cost-effective and healthy – I swear by a good boiled egg."
-She thinks that no food is off limits at the desk. "Coming from an Asian background where you'd eat fish for breakfast I am very open to it being eaten."
-Ashlea Fisher, who runs her own recruitment company, has tackled the issue of smelly food in the office head on when she asked a member of staff to stop bringing in fish after "the smell was so bad that a pregnant colleague was feeling physically sick".
-"I'm a big believer in being able to have an honest conversation with your team," she says, and suggests that other people in her position should approach a conversation lightly and be conscious of not embarrassing colleagues.
-"Nobody should feel judged for what they eat, and we should respect different cultures and dietary requirements, but being mindful of the people around you is simply good workplace etiquette."
-Do you take a lunch break?
-While what we eat in the office at lunch can cause tension, there's also the question of whether we're even taking the time to enjoy our lunch in the first place.
-In a world of back-to-back meetings and overflowing inboxes, it's easy to skip our break and shovel down a sandwich with one hand while replying to emails with the other.
-A 2025 report by Just Eat found that the youngest workers, Gen Z, were the most likely to take a full break, with 56% doing so.
-However, the next generation up, millennials were more likely than any other to eat lunch at their desk.
-"While it can be convenient to eat at your desk, it's not best practice to remain glued to the screen all day," says Alan Price, an employment law and HR expert, and CEO of BrightHR.
-"Taking a break isn't just an employment right, there are proven benefits for both physical and mental health."
-Laura, whose working day can occasionally finish at 2am, says stepping away from her desk is a non-negotiable and she makes a point of taking an hour for lunch, describing it as "essential for maintaining my sanity".
-"I take my lunch break as much as possible, for the sake of my eyes and mental wellbeing," she says.
-But others are less precious about it. Content creator Manny says he has lunch at his desk "most of the time".
-His work is task-based and his company operates a policy of "do the work when you want to do it".
-"Usually you just take 20 minutes to eat something, but on another day you might take an hour. You just kind of feel it out," he says.
-Related topics
-- Published15 December 2025
-- Published30 January`,
-    bodyJa: `Fish and eggs al desko? The dos and don'ts of the lunch break
-- Published
-There are two types of office workers: those who eat lunch al-desko, and those who have to endure the smell of everyone else's.
-Few things are more likely to test workplace relationships than the person sitting next to you proudly unveiling a container of reheated fish.
-From tuna sandwiches and boiled eggs to crumbly and sticky treats that leave a mess on the keyboard, what is considered OK to eat in the office can be surprisingly divisive.
-"We all know not to bring in a microwave fish pie, that is the law," says civil servant Sarah.
-She admits she has, in fact, committed the offence herself in a previous workplace and jokes "that's the reason I left".
-'Suss out the smelliness'
-Casey, a content creator for an energy company, says he used to eat tuna at his desk but has since "reformed".
-He says you have to "suss out the smelliness" and then decide if it's acceptable to eat at the desk.
-But fish isn't the only food causing office friction and Casey says his regular snack of cinnamon pretzels has been causing "quite a bit of havoc".
-"The sugar's going everywhere and it's getting in my laptop keys," he admits. No-one in the office has commented on it yet but he says he's hiding the crumbs by "shuffling them off the desk".
-Boiled eggs also split opinion. Laura, who works in finance, says she's been teased by colleagues for eating them.
-"In my defence, it was high protein, it was cost-effective and healthy – I swear by a good boiled egg."
-She thinks that no food is off limits at the desk. "Coming from an Asian background where you'd eat fish for breakfast I am very open to it being eaten."
-Ashlea Fisher, who runs her own recruitment company, has tackled the issue of smelly food in the office head on when she asked a member of staff to stop bringing in fish after "the smell was so bad that a pregnant colleague was feeling physically sick".
-"I'm a big believer in being able to have an honest conversation with your team," she says, and suggests that other people in her position should approach a conversation lightly and be conscious of not embarrassing colleagues.
-"Nobody should feel judged for what they eat, and we should respect different cultures and dietary requirements, but being mindful of the people around you is simply good workplace etiquette."
-Do you take a lunch break?
-While what we eat in the office at lunch can cause tension, there's also the question of whether we're even taking the time to enjoy our lunch in the first place.
-In a world of back-to-back meetings and overflowing inboxes, it's easy to skip our break and shovel down a sandwich with one hand while replying to emails with the other.
-A 2025 report by Just Eat found that the youngest workers, Gen Z, were the most likely to take a full break, with 56% doing so.
-However, the next generation up, millennials were more likely than any other to eat lunch at their desk.
-"While it can be convenient to eat at your desk, it's not best practice to remain glued to the screen all day," says Alan Price, an employment law and HR expert, and CEO of BrightHR.
-"Taking a break isn't just an employment right, there are proven benefits for both physical and mental health."
-Laura, whose working day can occasionally finish at 2am, says stepping away from her desk is a non-negotiable and she makes a point of taking an hour for lunch, describing it as "essential for maintaining my sanity".
-"I take my lunch break as much as possible, for the sake of my eyes and mental wellbeing," she says.
-But others are less precious about it. Content creator Manny says he has lunch at his desk "most of the time".
-His work is task-based and his company operates a policy of "do the work when you want to do it".
-"Usually you just take 20 minutes to eat something, but on another day you might take an hour. You just kind of feel it out," he says.
-Related topics
-- Published15 December 2025
-- Published30 January`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-20T00:08:37+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a2/live/ef6d14f0-d93a-11f1-95ea-8df9a040b6bf.jpg",
-    readTime: 10,
-  },
-  {
-    id: "tens-of-thousands-of-uk-fridges-secured-a1fc48de",
-    title: "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-    titleJa: "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-    summaryJa: "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
-    bodyOriginal: `Tens of thousands of UK fridges secured from hackers in secret nationwide operation
-- Published
-A behind the scenes cyber-security operation has taken place to secure tens of thousands of fridges and freezers at major UK supermarkets, warehouses, restaurants, petrol stations and stadiums from hackers, the BBC has learned.
-Recent waves of cyber-attacks in Europe have seen tonnes of food spoiled at hundreds of stores, causing millions of pounds of damage.
-France has blamed Iran for one of the waves of attacks that impacted its supermarkets, a claim Tehran denies.
-It was thought the UK had largely escaped such hacks as the British refrigeration industry relies on different devices but there was in fact a potential vulnerability the sector has been rushing to fix.
-In late October, security researchers discovered a major flaw that, if found by hackers, could have led to even worse damage to the UK.
-Since then, researchers, IT teams and the National Cyber Security Centre have been working around the clock to warn dozens of companies.
-The BBC has not reported on the large-scale, secretive operation until now to reduce the chances of hackers causing harm if they found the vulnerability.
-Thousands of fridges taken off-line
-The security threat was discovered by ethical hackers at a firm called Omega Systems - it was then verified and expanded upon by experts at Pen Test Partners who helped raise the alarm.
-The National Cyber Security Centre (NCSC), the Department for Environment, Food & Rural Affairs (Defra) and Food Standards Agency (FSA) were then involved in the campaign to plug the security holes.
-They held industry conference calls and tasked teams to contact firms at risk.
-Thousands of devices controlling tens of thousands of refrigeration devices were taken off the open internet either remotely or, in some cases, physically - with staff ordered to remove internet cables and monitor temperatures manually.
-BBC news has learnt most major supermarkets have been forced to divert IT teams to address the risks, with a worker at one large chain saying they took hundreds of devices offline every day over the course of a week.
-"It did feel like a race against time as we were expecting another wave of these fridge hacks to come," said the person, who did not want to be publicly named.
-"From a business perspective it could have been potentially devastating with business interruption and supply chain problems. Our warehouses have millions of pounds worth of food that could have been spoiled if any hackers found out about this method of attack," they added.
-There have been three waves of hacks on refrigeration temperature controllers so far this year:
-In August, fridges at a small number of US military bases were impacted
-On 11 and 12 October hundreds of supermarkets and food processing sites in France were hit when Danfoss temperature control systems were targeted
-On 1 and 2 November dozens of supermarkets across seven European countries were hit, with Belgium and Luxembourg the worst affected. A small number of blood bank sites in France were also impacted
-The waves of attacks prompted an expert at Omega Solutions to examine the security of the most popular refrigeration controllers in the UK, made by British firm Resource Data Management (RDM).
-RDM disputes the critical nature of the vulnerabilities exposed but has been praised for its professional response to address the concerns, the BBC understands.
-As well as supermarkets, multiple other areas of UK food and beverage industry were also warned to take action about the risks.
-These include convenience stores, petrol stations, restaurants and fast food chains, sports arenas, hotels, food processing plants and cold storage sites.
-"These popular controllers had a similar weak password problem to the Danfoss and other controllers that were attacked so successfully in previous hacks so we had to get the message out as soon as possible and keep it secret," said Ken Munro of Pen Test Partners.
-"There is so much extra attention on these ubiquitous bits of kit now that it was likely a matter of days until criminals or nation state hackers figured it out," he added.
-RDM, though, says comparisons with the units attacked in mainland Europe are not fair because hacking their fridges and freezers would have involved getting hold of a piece of hardware.
-The ethical hackers say this would have been achievable as the hardware in question can be purchased cheaply online on sites like eBay.
-"This was a vulnerability identified in a test environment," said Ged Evans, CEO of RDM.
-He said the test "went beyond" what such exercises usually involved, as it "included dismantling our hardware".
-"In any event we have acted at pace to address this issue and have already deployed first patch releases and have been in proactive contact with our customers to flag any issues and recommend mitigatory steps," he added.
-RDM confirmed that there was no sign of any malicious activity on the controllers and that it continued to work with the NCSC and other authorities to monitor the situation.
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
-    bodyJa: `Tens of thousands of UK fridges secured from hackers in secret nationwide operation
-- Published
-A behind the scenes cyber-security operation has taken place to secure tens of thousands of fridges and freezers at major UK supermarkets, warehouses, restaurants, petrol stations and stadiums from hackers, the BBC has learned.
-Recent waves of cyber-attacks in Europe have seen tonnes of food spoiled at hundreds of stores, causing millions of pounds of damage.
-France has blamed Iran for one of the waves of attacks that impacted its supermarkets, a claim Tehran denies.
-It was thought the UK had largely escaped such hacks as the British refrigeration industry relies on different devices but there was in fact a potential vulnerability the sector has been rushing to fix.
-In late October, security researchers discovered a major flaw that, if found by hackers, could have led to even worse damage to the UK.
-Since then, researchers, IT teams and the National Cyber Security Centre have been working around the clock to warn dozens of companies.
-The BBC has not reported on the large-scale, secretive operation until now to reduce the chances of hackers causing harm if they found the vulnerability.
-Thousands of fridges taken off-line
-The security threat was discovered by ethical hackers at a firm called Omega Systems - it was then verified and expanded upon by experts at Pen Test Partners who helped raise the alarm.
-The National Cyber Security Centre (NCSC), the Department for Environment, Food & Rural Affairs (Defra) and Food Standards Agency (FSA) were then involved in the campaign to plug the security holes.
-They held industry conference calls and tasked teams to contact firms at risk.
-Thousands of devices controlling tens of thousands of refrigeration devices were taken off the open internet either remotely or, in some cases, physically - with staff ordered to remove internet cables and monitor temperatures manually.
-BBC news has learnt most major supermarkets have been forced to divert IT teams to address the risks, with a worker at one large chain saying they took hundreds of devices offline every day over the course of a week.
-"It did feel like a race against time as we were expecting another wave of these fridge hacks to come," said the person, who did not want to be publicly named.
-"From a business perspective it could have been potentially devastating with business interruption and supply chain problems. Our warehouses have millions of pounds worth of food that could have been spoiled if any hackers found out about this method of attack," they added.
-There have been three waves of hacks on refrigeration temperature controllers so far this year:
-In August, fridges at a small number of US military bases were impacted
-On 11 and 12 October hundreds of supermarkets and food processing sites in France were hit when Danfoss temperature control systems were targeted
-On 1 and 2 November dozens of supermarkets across seven European countries were hit, with Belgium and Luxembourg the worst affected. A small number of blood bank sites in France were also impacted
-The waves of attacks prompted an expert at Omega Solutions to examine the security of the most popular refrigeration controllers in the UK, made by British firm Resource Data Management (RDM).
-RDM disputes the critical nature of the vulnerabilities exposed but has been praised for its professional response to address the concerns, the BBC understands.
-As well as supermarkets, multiple other areas of UK food and beverage industry were also warned to take action about the risks.
-These include convenience stores, petrol stations, restaurants and fast food chains, sports arenas, hotels, food processing plants and cold storage sites.
-"These popular controllers had a similar weak password problem to the Danfoss and other controllers that were attacked so successfully in previous hacks so we had to get the message out as soon as possible and keep it secret," said Ken Munro of Pen Test Partners.
-"There is so much extra attention on these ubiquitous bits of kit now that it was likely a matter of days until criminals or nation state hackers figured it out," he added.
-RDM, though, says comparisons with the units attacked in mainland Europe are not fair because hacking their fridges and freezers would have involved getting hold of a piece of hardware.
-The ethical hackers say this would have been achievable as the hardware in question can be purchased cheaply online on sites like eBay.
-"This was a vulnerability identified in a test environment," said Ged Evans, CEO of RDM.
-He said the test "went beyond" what such exercises usually involved, as it "included dismantling our hardware".
-"In any event we have acted at pace to address this issue and have already deployed first patch releases and have been in proactive contact with our customers to flag any issues and recommend mitigatory steps," he added.
-RDM confirmed that there was no sign of any malicious activity on the controllers and that it continued to work with the NCSC and other authorities to monitor the situation.
-Sign up for our Tech Decoded newsletter to follow the world's top tech stories and trends. Outside the UK? Sign up here.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-20T00:02:07+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
-    readTime: 10,
-  },
-  {
-    id: "anthropic-becomes-one-of-world-s-most-va-06ecd904",
-    title: "Anthropic becomes one of world's most valuable public companies in stock market debut",
-    titleJa: "Anthropic becomes one of world's most valuable public companies in stock market debut",
-    summaryJa: "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-    bodyOriginal: `Anthropic becomes one of world's most valuable public companies in stock market debut
-- Published
-Anthropic has become one of the most valuable public companies in the world after its shares began trading on the stock market, taking its valuation to roughly $1.76 trillion (£1.34 trillion).
-The artificial intelligence (AI) company's Thursday debut on the Nasdaq stock exchange was a crucial test for the industry, given the huge amount of money being poured into advancing the technology.
-Anthropic's shares flew past its allocation price of $83 each, showing there was plenty of excitement around AI.
-Yet the company, which is behind AI chatbot Claude, will remain under intense scrutiny in the months ahead to answer the key question surrounding AI: is it all worth it?
-In just a few hours of trading, Anthropic's stock seemed to show that investors remain uncertain of where exactly AI is heading. The share price rose immediately to $111.53, sending the company's market value to almost $2 trillion, before falling by the end of the day as the shares closed at $97.17.
-Some investors said Anthropic's debut seemed to be a success, as shares rose roughly 17% during the day, but the broader tech market did not perform as well.
-The tech-heavy Nasdaq Composite Index closed down nearly 2.3%. Stocks fell in the largest tech firms, including Google's parent company Alphabet, which was down by 2.9%, while Amazon lost almost 3.9%.
-The buildout happening around this era of AI is among the most expensive endeavours in the history of technology, with more than $1 trillion being spent in the last year alone by a handful of major tech companies.
-The speed at which investment has grown has led to ongoing concerns of a financial bubble.
-"Bubbles don't burst on the day of the largest deal," Richard Whittle, an economist with the University of Salford said. "They burst later, if the positive future becomes suspect."
-While the basics of the technology have been around for decades, the more recent advent of more powerful computers and related components have allowed the processing of more data than ever.
-The result has been AI chatbots that simulate human speech and operate tasks like software coding, digital image generation, and searching the internet more quickly.
-It represents a new way of using computers that has led to the rapid rise of Anthropic, which started just five years ago and is best known as the maker of the popular AI chatbot Claude.
-As the first purely AI company to go public, Anthropic will almost certainly see significant swings in price on the stock market going forward, according to Ben Barringer, who leads technology research at Quilter Cheviot.
-The "initial exuberance" will wear off, Barringer said, pointing to what happened with SpaceX earlier this year.
-That company, led by Elon Musk, saw shares jump by about 10% on the first day of trading, taking the company to a record-breaking valuation of $2.2 trillion.
-Within a month shares had fallen below their debut price, and have mostly fallen further since.
-Most tech companies see their shares fall after hitting the stock market, often after reporting quarterly results for the first time.
-But many such companies, including Meta, Amazon and Google, have gone on to become the largest and most profitable corporations in the world.
-With Anthropic, investors are not only looking at a notable tech company with a major valuation, and a potentially big future in business, but a company that is the first of its kind on the stock market.
-"There's no obvious peer to compare it to," Neil Wilson, an investor strategist at Saxo UK, said.
-So, as individual investors and even researchers and investors at large funds ask themselves if Anthropic is really worth more than $1.7 trillion, or even more, there will be few answers available.
-"We'll have a stab at it," Wilson said. "I don't think anyone really knows."
-A few things will likely impact the company's success on the stock market in the near-term.
-One of those things is the prospect of new laws governing the use of AI tools. In the US, where Anthropic is based, Democrats will be in many more positions of power come 2027, and several politicians have already said they will be looking to ensure AI tools are safe and have some guardrails attached.
-Such regulation is currently unlikely at the federal level. US President Donald Trump on Thursday spoke about AI during the Asia-Pacific Economic Cooperation summit in China, alongside Chinese and Russian counterparts, Xi Jinping and Vladimir Putin.
-Trump reiterated his position against "any form of robust regulation" around the technology, adding, "we won't allow that to happen, frankly."
-The same day, however, a bipartisan group of US lawmakers formed the House AI Safety and Innovation Caucus, which will work specifically on AI regulation and safety considerations.
-A significant driver of this kind of scrutiny is Anthropic itself. Company executives, including co-founder and CEO Dario Amodei, have been outspoken in their purported fears that future AI tools will become so capable they will outsmart humans, to the point where extinction is possible.
-Anthropic has always put itself forward in public as an AI company that takes the safety of its technology very seriously.
-Daniela Amodei, Anthropic's president and sister of Dario Amodei, boasted on Thursday that the company "had an AI safety team before we launched our first product".
-"AI carries real risks," she added.
-Despite the company's claims that the technology it is building at a rapid pace could be dangerous, Anthropic has made one of the quickest trips from start-up to IPO in history.
-- Published14 hours ago`,
-    bodyJa: `Anthropic becomes one of world's most valuable public companies in stock market debut
-- Published
-Anthropic has become one of the most valuable public companies in the world after its shares began trading on the stock market, taking its valuation to roughly $1.76 trillion (£1.34 trillion).
-The artificial intelligence (AI) company's Thursday debut on the Nasdaq stock exchange was a crucial test for the industry, given the huge amount of money being poured into advancing the technology.
-Anthropic's shares flew past its allocation price of $83 each, showing there was plenty of excitement around AI.
-Yet the company, which is behind AI chatbot Claude, will remain under intense scrutiny in the months ahead to answer the key question surrounding AI: is it all worth it?
-In just a few hours of trading, Anthropic's stock seemed to show that investors remain uncertain of where exactly AI is heading. The share price rose immediately to $111.53, sending the company's market value to almost $2 trillion, before falling by the end of the day as the shares closed at $97.17.
-Some investors said Anthropic's debut seemed to be a success, as shares rose roughly 17% during the day, but the broader tech market did not perform as well.
-The tech-heavy Nasdaq Composite Index closed down nearly 2.3%. Stocks fell in the largest tech firms, including Google's parent company Alphabet, which was down by 2.9%, while Amazon lost almost 3.9%.
-The buildout happening around this era of AI is among the most expensive endeavours in the history of technology, with more than $1 trillion being spent in the last year alone by a handful of major tech companies.
-The speed at which investment has grown has led to ongoing concerns of a financial bubble.
-"Bubbles don't burst on the day of the largest deal," Richard Whittle, an economist with the University of Salford said. "They burst later, if the positive future becomes suspect."
-While the basics of the technology have been around for decades, the more recent advent of more powerful computers and related components have allowed the processing of more data than ever.
-The result has been AI chatbots that simulate human speech and operate tasks like software coding, digital image generation, and searching the internet more quickly.
-It represents a new way of using computers that has led to the rapid rise of Anthropic, which started just five years ago and is best known as the maker of the popular AI chatbot Claude.
-As the first purely AI company to go public, Anthropic will almost certainly see significant swings in price on the stock market going forward, according to Ben Barringer, who leads technology research at Quilter Cheviot.
-The "initial exuberance" will wear off, Barringer said, pointing to what happened with SpaceX earlier this year.
-That company, led by Elon Musk, saw shares jump by about 10% on the first day of trading, taking the company to a record-breaking valuation of $2.2 trillion.
-Within a month shares had fallen below their debut price, and have mostly fallen further since.
-Most tech companies see their shares fall after hitting the stock market, often after reporting quarterly results for the first time.
-But many such companies, including Meta, Amazon and Google, have gone on to become the largest and most profitable corporations in the world.
-With Anthropic, investors are not only looking at a notable tech company with a major valuation, and a potentially big future in business, but a company that is the first of its kind on the stock market.
-"There's no obvious peer to compare it to," Neil Wilson, an investor strategist at Saxo UK, said.
-So, as individual investors and even researchers and investors at large funds ask themselves if Anthropic is really worth more than $1.7 trillion, or even more, there will be few answers available.
-"We'll have a stab at it," Wilson said. "I don't think anyone really knows."
-A few things will likely impact the company's success on the stock market in the near-term.
-One of those things is the prospect of new laws governing the use of AI tools. In the US, where Anthropic is based, Democrats will be in many more positions of power come 2027, and several politicians have already said they will be looking to ensure AI tools are safe and have some guardrails attached.
-Such regulation is currently unlikely at the federal level. US President Donald Trump on Thursday spoke about AI during the Asia-Pacific Economic Cooperation summit in China, alongside Chinese and Russian counterparts, Xi Jinping and Vladimir Putin.
-Trump reiterated his position against "any form of robust regulation" around the technology, adding, "we won't allow that to happen, frankly."
-The same day, however, a bipartisan group of US lawmakers formed the House AI Safety and Innovation Caucus, which will work specifically on AI regulation and safety considerations.
-A significant driver of this kind of scrutiny is Anthropic itself. Company executives, including co-founder and CEO Dario Amodei, have been outspoken in their purported fears that future AI tools will become so capable they will outsmart humans, to the point where extinction is possible.
-Anthropic has always put itself forward in public as an AI company that takes the safety of its technology very seriously.
-Daniela Amodei, Anthropic's president and sister of Dario Amodei, boasted on Thursday that the company "had an AI safety team before we launched our first product".
-"AI carries real risks," she added.
-Despite the company's claims that the technology it is building at a rapid pace could be dangerous, Anthropic has made one of the quickest trips from start-up to IPO in history.
-- Published14 hours ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-19T23:33:51+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
     readTime: 10,
   },
 ];
