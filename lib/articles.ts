@@ -15,6 +15,786 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "nvidia-shares-fall-4-in-premarket-after-d4e59a5f",
+    title: "Nvidia shares fall 4% in premarket after Huang comeback rally",
+    titleJa: "Nvidia shares fall 4% in premarket after Huang comeback rally",
+    summaryJa: "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
+    bodyOriginal: `Nvidia shares fell on Tuesday after the return of Jensen Huang as CEO sparked a massive rally on Monday.
+Nvidia shares were down 3.9% in premarket trading as of 4:40 a.m. ET.
+Other U.S. semiconductor stocks were also lower in premarket trading on Tuesday, with Micron, Marvell Technology, AMD and Arm all down over 3%.
+Huang, who resigned as CEO of Nvidia earlier this month after admitting to an extramarital affair, was reinstated on Monday. The stock closed 30% higher following the news.
+The company's board of directors said it unanimously voted to reinstate Huang following "a series of discussions and meetings" with him.
+President Donald Trump also claimed he was personally involved in Huang's return. The president told CNBC that he spoke with the chip maker's board before it reversed course and reinstated its co-founder.
+"I made the deal," Trump told CNBC's Eamon Javers during an interview on "Squawk on the Street."
+Trump said Nvidia's board asked for guarantees that Huang, who resigned less than two weeks ago, was not a threat to national security.
+"And we gave them assurances, at least with everything we know," the president said. "We believe he's fine. He's absolutely fine."
+After Huang's reinstatement, several Wall Street analysts turned more bullish on the stock and upgraded their ratings on Nvidia.
+"We believe reinstatement of CEO Jensen Huang RETURNS Investor CONFIDENCE in the AI trade," Mizuho analysts wrote in a note on Monday.
+Huang and Nvidia have been central to the AI story, supplying the chips that power AI and financing companies across the ecosystem.
+Nvidia scrutiny continues
+The tech giant remains under scrutiny as questions remain about Huang's reported affair with Alice Huang, an alleged Chinese spy.
+The U.S. is investigating Alice Huang and Megaspeed, the company where she worked. There are also questions about whether Nvidia chips are making their way into China despite export controls.
+Huang has been called to provide testimony in front of the Senate Banking Committee next week. Sen. Elizabeth Warren, who is set to take over the Committee in January, called Huang's reinstatement "reckless."
+"The reckless decision to bring Jensen Huang back as CEO does not change the fact that Mr. Huang, NVIDIA executives, and the company's board still owe Congress answers about the company's compliance with U.S. export controls," Warren said in a statement on Monday.
+Huang is also expected to answer questions from the House Foreign Affairs Committee next week.
+"Reinstatement should not be confused with the end of scrutiny," Bank of America said in a note on Monday. "We therefore expect elevated attention around governance, China/export controls, customer relationships and compliance to persist even with the CEO question resolved."
+— CNBC's Luke Fountain, Seema Mody and Dan Mangan contributed to this report.`,
+    bodyJa: `Nvidia shares fell on Tuesday after the return of Jensen Huang as CEO sparked a massive rally on Monday.
+Nvidia shares were down 3.9% in premarket trading as of 4:40 a.m. ET.
+Other U.S. semiconductor stocks were also lower in premarket trading on Tuesday, with Micron, Marvell Technology, AMD and Arm all down over 3%.
+Huang, who resigned as CEO of Nvidia earlier this month after admitting to an extramarital affair, was reinstated on Monday. The stock closed 30% higher following the news.
+The company's board of directors said it unanimously voted to reinstate Huang following "a series of discussions and meetings" with him.
+President Donald Trump also claimed he was personally involved in Huang's return. The president told CNBC that he spoke with the chip maker's board before it reversed course and reinstated its co-founder.
+"I made the deal," Trump told CNBC's Eamon Javers during an interview on "Squawk on the Street."
+Trump said Nvidia's board asked for guarantees that Huang, who resigned less than two weeks ago, was not a threat to national security.
+"And we gave them assurances, at least with everything we know," the president said. "We believe he's fine. He's absolutely fine."
+After Huang's reinstatement, several Wall Street analysts turned more bullish on the stock and upgraded their ratings on Nvidia.
+"We believe reinstatement of CEO Jensen Huang RETURNS Investor CONFIDENCE in the AI trade," Mizuho analysts wrote in a note on Monday.
+Huang and Nvidia have been central to the AI story, supplying the chips that power AI and financing companies across the ecosystem.
+Nvidia scrutiny continues
+The tech giant remains under scrutiny as questions remain about Huang's reported affair with Alice Huang, an alleged Chinese spy.
+The U.S. is investigating Alice Huang and Megaspeed, the company where she worked. There are also questions about whether Nvidia chips are making their way into China despite export controls.
+Huang has been called to provide testimony in front of the Senate Banking Committee next week. Sen. Elizabeth Warren, who is set to take over the Committee in January, called Huang's reinstatement "reckless."
+"The reckless decision to bring Jensen Huang back as CEO does not change the fact that Mr. Huang, NVIDIA executives, and the company's board still owe Congress answers about the company's compliance with U.S. export controls," Warren said in a statement on Monday.
+Huang is also expected to answer questions from the House Foreign Affairs Committee next week.
+"Reinstatement should not be confused with the end of scrutiny," Bank of America said in a note on Monday. "We therefore expect elevated attention around governance, China/export controls, customer relationships and compliance to persist even with the CEO question resolved."
+— CNBC's Luke Fountain, Seema Mody and Dan Mangan contributed to this report.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
+    publishedAt: "2026-11-24T09:41:02+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "jensen-huang-is-too-big-to-fire-putting-00cb2304",
+    title: "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+    titleJa: "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
+    summaryJa: "Jensen Huang’s return has underscored Nvidia’s deep reliance on its founder, putting the company's board oversight and corporate governance under scrutiny.",
+    bodyOriginal: `Jensen Huang's return as Nvidia CEO may have eased concerns over the chipmaker's leadership, but it has also brought renewed scrutiny to the company's corporate governance and its reliance on its founder.
+Huang's abrupt departure and unexpected reinstatement exposed a deeper vulnerability at the heart of Nvidia, industry experts told CNBC, raising questions about board oversight and succession planning.
+"What does it mean if you have a company too big to fail or a CEO too big to fire?" Angela Mancini, head of advisory for global risk insights at Dow Jones, told CNBC's "Squawk Box Asia" on Tuesday.
+Mancini pointed to Huang's unusually large number of direct reports as another sign of how heavily Nvidia depends on its founder.
+"What does it mean when someone has 60 direct reports, and you literally are in a situation where you feel like you can't fire them?" she added.
+For Nvidia, Huang's return offers an opportunity to address some of the governance issues brought to light by his departure.
+An opportunity for change
+Jeff Herbst, managing partner at GFT Ventures and a former Nvidia executive who spent nearly two decades at the company, said he had written to the board late last week calling for Huang's return.
+While initially disappointed by the allegations surrounding Huang, Herbst said he came to view the episode as an opportunity for Nvidia to strengthen its governance, succession planning and overall management.
+"While a lot of people saw a crisis here, I saw a potential opportunity," he said.
+Herbst said Nvidia's management and oversight functions needed to evolve alongside its transformation from a relatively small technology company into one of the world's largest corporations.
+"I think the corporate governance, the succession planning, the legal function, the regulatory function, the political function, all has to scale at the same time," he said.
+He suggested Nvidia add more experience to its board by bringing in individuals who have run large companies and take a more formal approach to developing potential successors to Huang.
+Tom Hulick, CEO of Strategy Asset Managers, agreed, saying the chip giant's "corporate governance definitely needs to be retooled."
+It's "unheard of" and "unprecedented" for a president to enforce the reinstatement of a company's CEO, Hulick said on "Squawk Box Europe" on Tuesday.
+"He's a born leader. He's enduring a lot of pain right now. Does he deserve to be back as CEO? It's not for me to speculate. Is he the right person? Probably for now."
+However, Hulick added that the company still has "a lot of things to worry about" regarding corporate governance.
+The succession question
+Huang's departure also exposed how closely Nvidia's leadership and long-term strategy are tied to its founder, raising questions about how the company would navigate a future transition.
+Stacy Rasgon, managing director and senior U.S. semiconductor analyst at Bernstein Research, said the episode had revived attention to a risk investors had long overlooked.
+"We all knew that there was key man risk here. We all chose, and I'm including myself in that. We all kind of chose to just ignore it," Rasgon told CNBC.
+Succession planning, he said, is an issue both Huang and the board will need to address and communicate clearly to investors.
+"I think both Jensen and the board will have to figure out, and I think communicate to investors," he added.
+Herbst also pointed to Huang's personal role in driving Nvidia's technological innovations, including his willingness to invest in artificial intelligence and high-performance computing long before those businesses became profitable.
+New markets such as autonomous systems and robotics would require major investment and a leader with Huang's passion and vision, Herbst added.
+Correction: This story has been updated to reflect that Angela Mancini said Nvidia is in a situation where it feels like you can not fire the CEO.`,
+    bodyJa: `Jensen Huang's return as Nvidia CEO may have eased concerns over the chipmaker's leadership, but it has also brought renewed scrutiny to the company's corporate governance and its reliance on its founder.
+Huang's abrupt departure and unexpected reinstatement exposed a deeper vulnerability at the heart of Nvidia, industry experts told CNBC, raising questions about board oversight and succession planning.
+"What does it mean if you have a company too big to fail or a CEO too big to fire?" Angela Mancini, head of advisory for global risk insights at Dow Jones, told CNBC's "Squawk Box Asia" on Tuesday.
+Mancini pointed to Huang's unusually large number of direct reports as another sign of how heavily Nvidia depends on its founder.
+"What does it mean when someone has 60 direct reports, and you literally are in a situation where you feel like you can't fire them?" she added.
+For Nvidia, Huang's return offers an opportunity to address some of the governance issues brought to light by his departure.
+An opportunity for change
+Jeff Herbst, managing partner at GFT Ventures and a former Nvidia executive who spent nearly two decades at the company, said he had written to the board late last week calling for Huang's return.
+While initially disappointed by the allegations surrounding Huang, Herbst said he came to view the episode as an opportunity for Nvidia to strengthen its governance, succession planning and overall management.
+"While a lot of people saw a crisis here, I saw a potential opportunity," he said.
+Herbst said Nvidia's management and oversight functions needed to evolve alongside its transformation from a relatively small technology company into one of the world's largest corporations.
+"I think the corporate governance, the succession planning, the legal function, the regulatory function, the political function, all has to scale at the same time," he said.
+He suggested Nvidia add more experience to its board by bringing in individuals who have run large companies and take a more formal approach to developing potential successors to Huang.
+Tom Hulick, CEO of Strategy Asset Managers, agreed, saying the chip giant's "corporate governance definitely needs to be retooled."
+It's "unheard of" and "unprecedented" for a president to enforce the reinstatement of a company's CEO, Hulick said on "Squawk Box Europe" on Tuesday.
+"He's a born leader. He's enduring a lot of pain right now. Does he deserve to be back as CEO? It's not for me to speculate. Is he the right person? Probably for now."
+However, Hulick added that the company still has "a lot of things to worry about" regarding corporate governance.
+The succession question
+Huang's departure also exposed how closely Nvidia's leadership and long-term strategy are tied to its founder, raising questions about how the company would navigate a future transition.
+Stacy Rasgon, managing director and senior U.S. semiconductor analyst at Bernstein Research, said the episode had revived attention to a risk investors had long overlooked.
+"We all knew that there was key man risk here. We all chose, and I'm including myself in that. We all kind of chose to just ignore it," Rasgon told CNBC.
+Succession planning, he said, is an issue both Huang and the board will need to address and communicate clearly to investors.
+"I think both Jensen and the board will have to figure out, and I think communicate to investors," he added.
+Herbst also pointed to Huang's personal role in driving Nvidia's technological innovations, including his willingness to invest in artificial intelligence and high-performance computing long before those businesses became profitable.
+New markets such as autonomous systems and robotics would require major investment and a leader with Huang's passion and vision, Herbst added.
+Correction: This story has been updated to reflect that Angela Mancini said Nvidia is in a situation where it feels like you can not fire the CEO.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
+    publishedAt: "2026-11-24T08:35:16+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "signal-joins-united-airlines-banks-in-li-3133516e",
+    title: "Signal joins United Airlines, banks in limiting AI agents over customer risks",
+    titleJa: "Signal joins United Airlines, banks in limiting AI agents over customer risks",
+    summaryJa: "Privacy-focused messaging application Signal has joined United Airlines and JPMorgan Chase in implementing restrictions around artificial intelligence agents.",
+    bodyOriginal: `Privacy-focused messaging application Signal is tightening protections against artificial intelligence agents that can access information displayed on users' screens, citing concerns over privacy and security.
+Signal said AI agents built into mobile operating systems, such as Google's Gemini and Apple's Siri with onscreen awareness, can "scan" information on users' screens, potentially capturing and storing Signal data outside its control.
+People treat agent risk as one-size-fits-all rather than matching the security needed to the actual task.Yat SiuCo-founder, Animoca Brands
+The company said it will block screenshots in its iOS app and, on Android, enable screen security when it detects an AI assistant attempting to read the screen.
+"We want to be very clear: it is a serious problem that Signal — and application developers beyond — lack robust tools to prevent AI agents from undermining application-level privacy," Meredith Whittaker, president of the app's nonprofit parent Signal Foundation, said in a Friday blog post.
+Signal last year introduced similar restrictions against Microsoft's Recall AI on Windows 11. Its latest move adds to a broader push by companies including United Airlines, JPMorgan Chase and Charles Schwab to limit or block AI agents over security and for customer-protection concerns.
+Whittaker said the new protections do not address every way an agent might gain access to data, including by retrieving content already stored on a user's device.
+Signal also warned that third-party agents such as Meta's Muse could gain access to private app content through permissions granted during setup.
+"Application-level protections will always have gaps, so the data an agent can reach has to be classified, permissioned and recoverable before the agent arrives," said Tianyi Jiang, CEO of data management and protection software company AvePoint.
+AvePoint's State of AI 2026 report found that 88.4% of surveyed organizations had experienced at least one AI-agent-related security breach in the previous year. The survey covered 750 IT leaders globally.
+"We continue to call on the major consumer operating system companies – Apple, Google and Microsoft – to provide simple technical tools and accurate documentation that give developers like Signal ways to prevent AI agents from accessing sensitive application data," said Whittaker.
+Restricted entry
+Banks are also restricting third-party AI agents from accessing customer accounts.
+JPMorgan Chase CEO Jamie Dimon said in October that outside agents were too risky for the bank and its clients. Morgan Stanley has blocked third-party agents from its platforms, Reuters reported.
+Meanwhile, Charles Schwab CEO Richard Wurster said the brokerage blocks unauthorized agents to protect clients and the firm.
+Singapore's OCBC Bank has said it will not let third-party agents to interact with the bank to transfer money autonomously and warned that "customers should exercise caution" when using such agents for banking.
+United Airlines said Nov. 11 that it would restrict unauthorized agents from booking or managing tickets, citing risks that they could expose customer information, make unintended purchases or violate aviation rules.
+"To book flights or do your grocery shop, an agent needs your email, accounts and payment details," said Mick Maleishko, an AI advocate at identity verification and compliance platform Sumsub.
+He said that level of access creates a risk of account hijacking because actions taken by an agent may appear to a retailer or bank to have been authorized by the user.
+Singapore Airlines, by contrast, is an early partner of Meta's Muse. Meta said users can ask the agent to explore travel, ticketing and reservation options through the airline.
+"People treat agent risk as one-size-fits-all rather than matching the security needed to the actual task," said Yat Siu, executive chairman and co-founder of Animoca Brands. He said agents could help consumers act on their intentions and help businesses reach customers directly, but the risks vary by task.
+"There's a much higher risk around an agent able to move meaningful sums of money or access sensitive personal data, than one making your restaurant reservations," Siu said. "The reality is that, just like internet applications to date, agents require tiered safeguards."`,
+    bodyJa: `Privacy-focused messaging application Signal is tightening protections against artificial intelligence agents that can access information displayed on users' screens, citing concerns over privacy and security.
+Signal said AI agents built into mobile operating systems, such as Google's Gemini and Apple's Siri with onscreen awareness, can "scan" information on users' screens, potentially capturing and storing Signal data outside its control.
+People treat agent risk as one-size-fits-all rather than matching the security needed to the actual task.Yat SiuCo-founder, Animoca Brands
+The company said it will block screenshots in its iOS app and, on Android, enable screen security when it detects an AI assistant attempting to read the screen.
+"We want to be very clear: it is a serious problem that Signal — and application developers beyond — lack robust tools to prevent AI agents from undermining application-level privacy," Meredith Whittaker, president of the app's nonprofit parent Signal Foundation, said in a Friday blog post.
+Signal last year introduced similar restrictions against Microsoft's Recall AI on Windows 11. Its latest move adds to a broader push by companies including United Airlines, JPMorgan Chase and Charles Schwab to limit or block AI agents over security and for customer-protection concerns.
+Whittaker said the new protections do not address every way an agent might gain access to data, including by retrieving content already stored on a user's device.
+Signal also warned that third-party agents such as Meta's Muse could gain access to private app content through permissions granted during setup.
+"Application-level protections will always have gaps, so the data an agent can reach has to be classified, permissioned and recoverable before the agent arrives," said Tianyi Jiang, CEO of data management and protection software company AvePoint.
+AvePoint's State of AI 2026 report found that 88.4% of surveyed organizations had experienced at least one AI-agent-related security breach in the previous year. The survey covered 750 IT leaders globally.
+"We continue to call on the major consumer operating system companies – Apple, Google and Microsoft – to provide simple technical tools and accurate documentation that give developers like Signal ways to prevent AI agents from accessing sensitive application data," said Whittaker.
+Restricted entry
+Banks are also restricting third-party AI agents from accessing customer accounts.
+JPMorgan Chase CEO Jamie Dimon said in October that outside agents were too risky for the bank and its clients. Morgan Stanley has blocked third-party agents from its platforms, Reuters reported.
+Meanwhile, Charles Schwab CEO Richard Wurster said the brokerage blocks unauthorized agents to protect clients and the firm.
+Singapore's OCBC Bank has said it will not let third-party agents to interact with the bank to transfer money autonomously and warned that "customers should exercise caution" when using such agents for banking.
+United Airlines said Nov. 11 that it would restrict unauthorized agents from booking or managing tickets, citing risks that they could expose customer information, make unintended purchases or violate aviation rules.
+"To book flights or do your grocery shop, an agent needs your email, accounts and payment details," said Mick Maleishko, an AI advocate at identity verification and compliance platform Sumsub.
+He said that level of access creates a risk of account hijacking because actions taken by an agent may appear to a retailer or bank to have been authorized by the user.
+Singapore Airlines, by contrast, is an early partner of Meta's Muse. Meta said users can ask the agent to explore travel, ticketing and reservation options through the airline.
+"People treat agent risk as one-size-fits-all rather than matching the security needed to the actual task," said Yat Siu, executive chairman and co-founder of Animoca Brands. He said agents could help consumers act on their intentions and help businesses reach customers directly, but the risks vary by task.
+"There's a much higher risk around an agent able to move meaningful sums of money or access sensitive personal data, than one making your restaurant reservations," Siu said. "The reality is that, just like internet applications to date, agents require tiered safeguards."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
+    publishedAt: "2026-11-24T07:25:41+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "six-key-questions-raised-by-jensen-huang-cd0ab57e",
+    title: "Six key questions raised by Jensen Huang's return to Nvidia",
+    titleJa: "Six key questions raised by Jensen Huang's return to Nvidia",
+    summaryJa: "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
+    bodyOriginal: `Jensen Huang made a dramatic return as Nvidia CEO on Monday, less than a week after board Chairman Harvey Jones said directors did not intend to reinstate him. The board later voted unanimously to bring Huang back.
+Nvidia shares surged as much as 36% during the session and closed 31% higher.
+The reversal followed a steep decline in Nvidia shares, which closed at $125.53 on Friday even after the company reported strong third-quarter results. A petition calling for Huang's return had drawn more than 200,000 signatures, according to its organizers.
+The rally spread across the broader market, with the Nasdaq Composite gaining 6.5% and the S&P 500 rising 4.7%, each posting its strongest session since April 2025.
+Nvidia's board said it had received input from senior U.S. government officials and that its investigation into Huang's conduct would continue.
+Still, the board's reversal, President Donald Trump's administration's role and continued scrutiny of Nvidia's China business leave major questions for both investors and lawmakers.
+What would Washington do?
+Sen. Jack Reed, a member of the Senate Banking Committee, urged Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick on Monday to appear before the committee to discuss the case.
+Reed did not lay out a specific list of questions for the two officials, but his statement cited reporting that Trump had been briefed by intelligence officials led by then-National Security Adviser Marco Rubio before intervening in support of Huang's return.
+Reed's call adds to mounting pressure on both Nvidia and the Trump administration to explain what they knew and when.
+Rep. Gabe Amo, D-R.I., vice ranking member of the House Foreign Affairs Committee, said Huang’s reinstatement could broaden congressional scrutiny rather than bring it to a close.
+“I think it frankly broadens the scope of the query,” Amo told CNBC, adding that lawmakers should also examine administration officials involved in decisions affecting Nvidia and chip sales to China.
+Amo said he expects the planned closed-door interview with Huang on Dec. 1 to proceed and that Congress would continue seeking answers both privately and publicly in the coming months.
+“He should start purchasing his plane tickets to Washington,” he said. “It is abundantly clear that this is ripe for questioning by Congress.”
+Why the reversal?
+On Nvidia's third-quarter earnings call on Nov. 17, Jones said the board had accepted Huang's resignation and did not intend to reinstate him.
+Less than a week later, the board reversed course, saying Monday that it had unanimously voted to bring Huang back after discussions with him and input from senior U.S. government officials.
+Trump said he had spoken with board members and that his administration provided assurances based on the information available to it. But the board has not publicly detailed what it was told.
+"The board decided to do what we wanted to do," Trump told CNBC, adding that he believed his intervention had been important.
+"I've been speaking to the board directly and indirectly, and I felt very strongly about it," he said.
+Trump also called into an Nvidia board meeting to argue for Huang's return, Semafor reported, citing people familiar with the matter.
+Reed has called on Huang to disclose his communications with Trump and on Nvidia to release a transcript of the board's call with the president.
+How much China risk remains?
+Lawmakers are still seeking answers about the alleged smuggling of Nvidia products to China, their possible diversion for military use and possible advancement of Chinese AI capabilities.
+The Senate Banking Committee has scheduled Huang to testify on U.S. export controls on Dec. 3. House lawmakers have also confirmed closed-door interviews with Huang on Dec. 1 and Nvidia General Counsel Tim Teter on Dec. 2.
+"The Nvidia board's brief internal investigation and reinstatement of Jensen Huang do not erase the national security threats and questions that must be addressed," Reps. John Moolenaar, Rick Crawford and Brian Mast said in a joint statement.
+Their inquiry may also examine what Nvidia knew about the customers and resellers involved, as well as what controls the company had in place.
+Other lawmakers have also sought to preserve the paper trail. Sens. Elizabeth Warren and Chris Coons had asked senior administration officials on Nov. 11 to retain records related to Nvidia exports of advanced AI chips to China and associated national security concerns.
+Huang oversight?
+Nvidia has promised to hire a chief compliance officer and establish a committee overseeing national security and export controls. The board's investigation into Huang's conduct also remains underway.
+Josh Gilbert, eToro's lead analyst for APAC and the Middle East, said investors will be watching whether those new safeguards carry meaningful authority.
+Succession remains another question.
+Gil Luria, head of technology research at D.A. Davidson, said Nvidia has a limited window to prepare for the possibility that a future president may be less supportive of Huang.
+With Trump's term ending in two years, Luria argued that Nvidia needs a clearer plan for who could take over if Huang were forced to leave again.
+Can Nvidia growth hold?
+Gilbert pointed to Nvidia's roughly 75% revenue-growth forecast for the next financial year as evidence of strong near-term demand. The longer-term question, he said, is whether customer orders and artificial intelligence investment can sustain that pace.
+Luria told CNBC that concerns about the broader AI trade remain, including the cost of financing data centers, potential overbuilding by neocloud companies and obstacles to building new facilities.
+Bernstein analyst Stacy Rasgon said worries about whether AI spending is achievable and sustainable were not caused solely by Huang's departure. UBS, meanwhile, flagged Nvidia's roughly $390 billion in supply commitments and the need to keep demand flowing through its ecosystem.
+How will shares perform?
+Gilbert said part of Monday's rally reflected investors recovering earlier losses rather than pricing in new growth. Bernstein restored its "Outperform" rating and kept its $200 price target, while UBS maintained its $220 target.
+"For the share price, it comes down to whether Nvidia can keep delivering as it has done over recent years," said Gilbert, adding that Huang's return could ease some concerns about Nvidia's longer-term outlook.
+"The real worry has been what happens beyond next year. Having Huang back at the helm goes a long way to easing those concerns, because he's the one who sits down with the biggest customers and gets those multi-year orders over the line," he said.
+— CNBC's David Sucherman, Justin Papp and Eko Prasetyo contributed to the story`,
+    bodyJa: `Jensen Huang made a dramatic return as Nvidia CEO on Monday, less than a week after board Chairman Harvey Jones said directors did not intend to reinstate him. The board later voted unanimously to bring Huang back.
+Nvidia shares surged as much as 36% during the session and closed 31% higher.
+The reversal followed a steep decline in Nvidia shares, which closed at $125.53 on Friday even after the company reported strong third-quarter results. A petition calling for Huang's return had drawn more than 200,000 signatures, according to its organizers.
+The rally spread across the broader market, with the Nasdaq Composite gaining 6.5% and the S&P 500 rising 4.7%, each posting its strongest session since April 2025.
+Nvidia's board said it had received input from senior U.S. government officials and that its investigation into Huang's conduct would continue.
+Still, the board's reversal, President Donald Trump's administration's role and continued scrutiny of Nvidia's China business leave major questions for both investors and lawmakers.
+What would Washington do?
+Sen. Jack Reed, a member of the Senate Banking Committee, urged Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick on Monday to appear before the committee to discuss the case.
+Reed did not lay out a specific list of questions for the two officials, but his statement cited reporting that Trump had been briefed by intelligence officials led by then-National Security Adviser Marco Rubio before intervening in support of Huang's return.
+Reed's call adds to mounting pressure on both Nvidia and the Trump administration to explain what they knew and when.
+Rep. Gabe Amo, D-R.I., vice ranking member of the House Foreign Affairs Committee, said Huang’s reinstatement could broaden congressional scrutiny rather than bring it to a close.
+“I think it frankly broadens the scope of the query,” Amo told CNBC, adding that lawmakers should also examine administration officials involved in decisions affecting Nvidia and chip sales to China.
+Amo said he expects the planned closed-door interview with Huang on Dec. 1 to proceed and that Congress would continue seeking answers both privately and publicly in the coming months.
+“He should start purchasing his plane tickets to Washington,” he said. “It is abundantly clear that this is ripe for questioning by Congress.”
+Why the reversal?
+On Nvidia's third-quarter earnings call on Nov. 17, Jones said the board had accepted Huang's resignation and did not intend to reinstate him.
+Less than a week later, the board reversed course, saying Monday that it had unanimously voted to bring Huang back after discussions with him and input from senior U.S. government officials.
+Trump said he had spoken with board members and that his administration provided assurances based on the information available to it. But the board has not publicly detailed what it was told.
+"The board decided to do what we wanted to do," Trump told CNBC, adding that he believed his intervention had been important.
+"I've been speaking to the board directly and indirectly, and I felt very strongly about it," he said.
+Trump also called into an Nvidia board meeting to argue for Huang's return, Semafor reported, citing people familiar with the matter.
+Reed has called on Huang to disclose his communications with Trump and on Nvidia to release a transcript of the board's call with the president.
+How much China risk remains?
+Lawmakers are still seeking answers about the alleged smuggling of Nvidia products to China, their possible diversion for military use and possible advancement of Chinese AI capabilities.
+The Senate Banking Committee has scheduled Huang to testify on U.S. export controls on Dec. 3. House lawmakers have also confirmed closed-door interviews with Huang on Dec. 1 and Nvidia General Counsel Tim Teter on Dec. 2.
+"The Nvidia board's brief internal investigation and reinstatement of Jensen Huang do not erase the national security threats and questions that must be addressed," Reps. John Moolenaar, Rick Crawford and Brian Mast said in a joint statement.
+Their inquiry may also examine what Nvidia knew about the customers and resellers involved, as well as what controls the company had in place.
+Other lawmakers have also sought to preserve the paper trail. Sens. Elizabeth Warren and Chris Coons had asked senior administration officials on Nov. 11 to retain records related to Nvidia exports of advanced AI chips to China and associated national security concerns.
+Huang oversight?
+Nvidia has promised to hire a chief compliance officer and establish a committee overseeing national security and export controls. The board's investigation into Huang's conduct also remains underway.
+Josh Gilbert, eToro's lead analyst for APAC and the Middle East, said investors will be watching whether those new safeguards carry meaningful authority.
+Succession remains another question.
+Gil Luria, head of technology research at D.A. Davidson, said Nvidia has a limited window to prepare for the possibility that a future president may be less supportive of Huang.
+With Trump's term ending in two years, Luria argued that Nvidia needs a clearer plan for who could take over if Huang were forced to leave again.
+Can Nvidia growth hold?
+Gilbert pointed to Nvidia's roughly 75% revenue-growth forecast for the next financial year as evidence of strong near-term demand. The longer-term question, he said, is whether customer orders and artificial intelligence investment can sustain that pace.
+Luria told CNBC that concerns about the broader AI trade remain, including the cost of financing data centers, potential overbuilding by neocloud companies and obstacles to building new facilities.
+Bernstein analyst Stacy Rasgon said worries about whether AI spending is achievable and sustainable were not caused solely by Huang's departure. UBS, meanwhile, flagged Nvidia's roughly $390 billion in supply commitments and the need to keep demand flowing through its ecosystem.
+How will shares perform?
+Gilbert said part of Monday's rally reflected investors recovering earlier losses rather than pricing in new growth. Bernstein restored its "Outperform" rating and kept its $200 price target, while UBS maintained its $220 target.
+"For the share price, it comes down to whether Nvidia can keep delivering as it has done over recent years," said Gilbert, adding that Huang's return could ease some concerns about Nvidia's longer-term outlook.
+"The real worry has been what happens beyond next year. Having Huang back at the helm goes a long way to easing those concerns, because he's the one who sits down with the biggest customers and gets those multi-year orders over the line," he said.
+— CNBC's David Sucherman, Justin Papp and Eko Prasetyo contributed to the story`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
+    publishedAt: "2026-11-24T07:12:33+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "trump-faces-backlash-after-saying-he-con-b573b436",
+    title: "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+    titleJa: "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+    summaryJa: "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+    bodyOriginal: `Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang
+- Published
+Nvidia has reinstated CEO Jensen Huang just days after rejecting his offer to return to the AI chipmaker - and less than two weeks after he was forced to resign over a reported affair with a suspected Chinese spy.
+The company came under pressure by Donald Trump to reappoint Huang - and on Monday, the US president said he "made the deal" to "convince" the tech giant's board to bring him back.
+But now both Trump and Nvidia are facing bipartisan backlash from lawmakers, just as Huang is due to testify before Congress next week.
+The CEO's comeback helped end a week-long losing streak in US stocks that left the S&P 500 in correction territory, and added nearly $1 trillion to Nvidia's market value.
+Stock prices for Nvidia fell sharply after Huang stepped down, but jumped by 31% after he was reappointed on Monday - adding about $1tn to the company's market value.
+But Nvidia's closing price was still down slightly from its Friday morning opening price.
+As Asian stock markets opened, Nvidia racked up more gains and helped lift other share prices across the tech sector.
+Board Chairman Harvey C Jones said in a statement earlier in the day: "The Board believes Jensen is the right person to lead Nvidia, and that his reinstatement is in the best interests of our stockholders, employees, partners and customers."
+The board said it had received input from senior levels of the US government and was confident that Huang's reinstatement posed no national security risk.
+It was only last Tuesday that the board explicitly said it did not intend to reinstate him.
+Huang resigned from Nvidia on 12 November following reports of extramarital affairs, including one with a woman, Alice Huang, who was alleged to have ties to Chinese intelligence.
+On Monday, the US Commerce Department announced it was preparing to blacklist Megaspeed, the Singapore-based Nvidia customer where Alice Huang was CEO.
+In a brief interview with CNBC on Monday, Trump said he had spoken to Nvidia's board of directors and "convinced" them to bring back Huang. Trump praised the Nvidia board for acting "really responsibly" in reinstating the CEO.
+"They did ask for assurance on the national security threat," Trump said. "And we gave them assurances at least with everything we know. And we know a lot."
+"People say, is it a threat to have him? No, it's a threat to lose him," the president added.
+The president was asked whether Nvidia stock losses after Huang resigned last week had influenced his decision to personally intervene.
+"Probably so," Trump said.
+The rise and fall and rise again of Jensen Huang
+- Published17 hours ago
+How important are Nvidia and Jensen Huang to the US economy?
+- Published17 hours ago
+Congress vows to investigate Nvidia and the Trump administration's role
+The head of the International Association for Safe and Ethical AI told the BBC that the Nvidia board must have been under "enormous pressure" from the White House to reinstate Huang.
+Prof Stuart Russell, who is professor of computer science at UC Berkeley, said the stock price of Nvidia and similar firms has been a major factor in "underpinning US economic growth for years".
+"I assume the White House was worried that the markets would go down a lot further in the next few weeks unless they got him back in," he says.
+Trump's vocal backing of Huang comes despite the concerns of US lawmakers, including some Republicans, over the CEO's affair and Nvidia's compliance with US export controls.
+Hakeem Jeffries, who is expected to lead the House of Representatives as Speaker when Democrats take control in January called the decision to reinstate Huang "indefensible, irresponsible and incomprehensible" and vowed that Congress will conduct "a swift, thorough and wide-ranging investigation".
+"We will not allow America's national security to be sold out by the Trump Administration for personal financial gain," he said, echoing many lawmakers on Monday who said that Congress must pass strong export control legislation.
+Huang is scheduled to appear before Congress for a closed-door interview with three House committees on 1 December. Two days later, he has been asked to testify before the Senate banking committee.
+Senator Elizabeth Warren, who is set to be chairwoman of the Senate Banking Committee once Democrats take control of the chamber in January, said in a statement that the reinstatement was "reckless".
+"The Trump Administration also needs to explain to Congress what 'input' was given and by which senior officials in the United States government to support his reinstatement," she also said.
+Republicans, too, called for answers.
+"Nvidia should have moved on without Huang and ignored the administration's inexplicable desire to save Huang," said Republican Representative Don Bacon, who chairs a House subcommittee on cyber security.
+"We cannot say we want to win the AI race and then give China our best technology. We need sunlight on who is responsible."
+The chair of the Senate's select committee on intelligence, Republican Tom Cotton said: "The controversy with Nvidia and Megaspeed is just the tip of the iceberg, and it's not resolved because Jensen Huang has his job back."
+Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns
+- Published12 hours ago
+Faisal Islam: Why Jensen Huang proved too big to fire
+- Published16 hours ago
+US to blacklist Asian AI firm Megaspeed after Nvidia scandal
+- Published10 hours ago
+Trump's personal Nvidia investments
+Since returning last year to the White House, Trump has amassed a significant level of investment in Nvidia. Recent financial disclosures show he purchased $265,000 in its stock and sold as much as $15,000 worth of shares in September.
+A BBC review of his government financial disclosures for the last two years shows he purchased shares of Nvidia stock worth between $23m and $86m (£18m and £66m). And he has bought Nvidia stock 85 separate times through a number of investment accounts.
+The value of those holdings would have been affected by the recent fall in Nvidia's stock price amid Huang's exit.
+Trump has also sold some of his stake in Nvidia since returning to the presidency. Over 19 sales, Trump gained between $3.5m and $10.2m, according to his government disclosures.
+The BBC has contacted the White House.
+Both Trump and White House have repeatedly rejected assertions that he has profited from the presidency. The president has said "everybody" was making money from rising stocks and he does not make decisions related to his investment accounts.
+The White House has emphasised that Trump has placed his businesses in a trust managed by his sons.
+With additional reporting from Brandon Drenon and Rachel Clun`,
+    bodyJa: `Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang
+- Published
+Nvidia has reinstated CEO Jensen Huang just days after rejecting his offer to return to the AI chipmaker - and less than two weeks after he was forced to resign over a reported affair with a suspected Chinese spy.
+The company came under pressure by Donald Trump to reappoint Huang - and on Monday, the US president said he "made the deal" to "convince" the tech giant's board to bring him back.
+But now both Trump and Nvidia are facing bipartisan backlash from lawmakers, just as Huang is due to testify before Congress next week.
+The CEO's comeback helped end a week-long losing streak in US stocks that left the S&P 500 in correction territory, and added nearly $1 trillion to Nvidia's market value.
+Stock prices for Nvidia fell sharply after Huang stepped down, but jumped by 31% after he was reappointed on Monday - adding about $1tn to the company's market value.
+But Nvidia's closing price was still down slightly from its Friday morning opening price.
+As Asian stock markets opened, Nvidia racked up more gains and helped lift other share prices across the tech sector.
+Board Chairman Harvey C Jones said in a statement earlier in the day: "The Board believes Jensen is the right person to lead Nvidia, and that his reinstatement is in the best interests of our stockholders, employees, partners and customers."
+The board said it had received input from senior levels of the US government and was confident that Huang's reinstatement posed no national security risk.
+It was only last Tuesday that the board explicitly said it did not intend to reinstate him.
+Huang resigned from Nvidia on 12 November following reports of extramarital affairs, including one with a woman, Alice Huang, who was alleged to have ties to Chinese intelligence.
+On Monday, the US Commerce Department announced it was preparing to blacklist Megaspeed, the Singapore-based Nvidia customer where Alice Huang was CEO.
+In a brief interview with CNBC on Monday, Trump said he had spoken to Nvidia's board of directors and "convinced" them to bring back Huang. Trump praised the Nvidia board for acting "really responsibly" in reinstating the CEO.
+"They did ask for assurance on the national security threat," Trump said. "And we gave them assurances at least with everything we know. And we know a lot."
+"People say, is it a threat to have him? No, it's a threat to lose him," the president added.
+The president was asked whether Nvidia stock losses after Huang resigned last week had influenced his decision to personally intervene.
+"Probably so," Trump said.
+The rise and fall and rise again of Jensen Huang
+- Published17 hours ago
+How important are Nvidia and Jensen Huang to the US economy?
+- Published17 hours ago
+Congress vows to investigate Nvidia and the Trump administration's role
+The head of the International Association for Safe and Ethical AI told the BBC that the Nvidia board must have been under "enormous pressure" from the White House to reinstate Huang.
+Prof Stuart Russell, who is professor of computer science at UC Berkeley, said the stock price of Nvidia and similar firms has been a major factor in "underpinning US economic growth for years".
+"I assume the White House was worried that the markets would go down a lot further in the next few weeks unless they got him back in," he says.
+Trump's vocal backing of Huang comes despite the concerns of US lawmakers, including some Republicans, over the CEO's affair and Nvidia's compliance with US export controls.
+Hakeem Jeffries, who is expected to lead the House of Representatives as Speaker when Democrats take control in January called the decision to reinstate Huang "indefensible, irresponsible and incomprehensible" and vowed that Congress will conduct "a swift, thorough and wide-ranging investigation".
+"We will not allow America's national security to be sold out by the Trump Administration for personal financial gain," he said, echoing many lawmakers on Monday who said that Congress must pass strong export control legislation.
+Huang is scheduled to appear before Congress for a closed-door interview with three House committees on 1 December. Two days later, he has been asked to testify before the Senate banking committee.
+Senator Elizabeth Warren, who is set to be chairwoman of the Senate Banking Committee once Democrats take control of the chamber in January, said in a statement that the reinstatement was "reckless".
+"The Trump Administration also needs to explain to Congress what 'input' was given and by which senior officials in the United States government to support his reinstatement," she also said.
+Republicans, too, called for answers.
+"Nvidia should have moved on without Huang and ignored the administration's inexplicable desire to save Huang," said Republican Representative Don Bacon, who chairs a House subcommittee on cyber security.
+"We cannot say we want to win the AI race and then give China our best technology. We need sunlight on who is responsible."
+The chair of the Senate's select committee on intelligence, Republican Tom Cotton said: "The controversy with Nvidia and Megaspeed is just the tip of the iceberg, and it's not resolved because Jensen Huang has his job back."
+Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns
+- Published12 hours ago
+Faisal Islam: Why Jensen Huang proved too big to fire
+- Published16 hours ago
+US to blacklist Asian AI firm Megaspeed after Nvidia scandal
+- Published10 hours ago
+Trump's personal Nvidia investments
+Since returning last year to the White House, Trump has amassed a significant level of investment in Nvidia. Recent financial disclosures show he purchased $265,000 in its stock and sold as much as $15,000 worth of shares in September.
+A BBC review of his government financial disclosures for the last two years shows he purchased shares of Nvidia stock worth between $23m and $86m (£18m and £66m). And he has bought Nvidia stock 85 separate times through a number of investment accounts.
+The value of those holdings would have been affected by the recent fall in Nvidia's stock price amid Huang's exit.
+Trump has also sold some of his stake in Nvidia since returning to the presidency. Over 19 sales, Trump gained between $3.5m and $10.2m, according to his government disclosures.
+The BBC has contacted the White House.
+Both Trump and White House have repeatedly rejected assertions that he has profited from the presidency. The president has said "everybody" was making money from rising stocks and he does not make decisions related to his investment accounts.
+The White House has emphasised that Trump has placed his businesses in a trust managed by his sons.
+With additional reporting from Brandon Drenon and Rachel Clun`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-24T04:36:31+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
+    readTime: 10,
+  },
+  {
+    id: "why-the-rise-of-the-corporate-landlord-c-b077ad29",
+    title: "Why the rise of the corporate landlord could lead to a two-tier rental market",
+    titleJa: "Why the rise of the corporate landlord could lead to a two-tier rental market",
+    summaryJa: "Companies building flats that they then rent out could usher in big changes for renters",
+    bodyOriginal: `On Christmas Eve 2021, there was a knock on the door of Lexi Levens' rented flat. It was a letter sent by special delivery from the NHS nurse's landlord saying she, her husband, and four children had two months to move out.
+"The kids all thought it was a present arriving," she recalls.
+Lexi's landlord had used something known then as a Section 21 notice to evict her family without needing to give a reason.
+Lexi, along with the housing charity Shelter, went on to lobby the government to improve rights for renters. The Renters' Rights Act, which came into force in May this year, banned Section 21 evictions and also made it illegal to refuse to rent to people based on their status as a family with children.
+The landlords Lexi had been renting from at that time were typical of the English housing market — individuals who owned one or a handful of properties.
+Many of these small landlords say the Renters' Rights Act has left them feeling squeezed. They also say rising interest rates, new regulations and tax changes (including some in the most recent Budget) are making things harder. Some say they are selling up.
+Meanwhile, according to Savills estate agents, 2026 is likely to be another record year for investment from large institutions in what is known in the property industry as build to rent (BTR). This is when big developers build blocks of flats or family housing to rent out, something that is commonplace in parts of Europe and the US. It means that rather than dealing with an individual landlord or letting agent, tenants are instead renting from larger, typically corporate, entities.
+So does the shift, as some believe, represent a welcome professionalisation of the UK rental sector? Or will renters increasingly miss the positive elements of the personal touch that small landlords can provide?
+'Very industrial and very unpersonal'
+According to the latest government survey of private landlords in England, 83% of English landlords own four properties or fewer, representing 51% of tenancies.
+And according to 2024 research by real estate agency Savills, around 40% rental homes in the US and Germany are owned by large institutions — be they private firms, listed companies, pension funds, or co-operatives. For the UK, Savills calculated that figure was just 3%.
+But the rental market is changing. The trend is most visible in England, where BTR has boomed in large cities and where regulations like the Renters' Rights Act apply, but there are BTR developments in Scotland, Wales, and Northern Ireland too and the devolved nations are also seeing increased regulation on landlords, such as with Scotland's rent controls.
+Lexi is pleased with the idea of a sector with stricter rules for landlords and more professional institutions getting involved.
+"Anything that takes away from landlords having personal preferences [around choosing who they are or not prepared to rent to]… is a good thing," she says, adding that she believes large, corporate landlords would be less likely to act that way.
+Not everyone is convinced BTR landlords are better, though.
+Clint Stevenson, a 44-year-old magician for weddings and events, has been renting his one-bedroom flat in Ramsgate for £550 a month for two years. He says he has "the most amazing landlady" — an older woman who he regularly chats to. He sometimes walks her dog and does her shopping as well.
+He says he had considered renting from a BTR development, but found the accommodation to be "very industrial and very unpersonal". He also found what was on offer to be expensive compared to what he is used to paying.
+"They just look like big, money-grabbing deals," he says.
+In Cardiff, Grainger, the UK's largest listed BTR developer, is currently offering a fully-furnished studio flat on the 20th floor of The Copper Works in the city centre with views over the bay for £1,265 a month.
+It's a lot more than what is currently on offer on Rightmove, a 15 minute walk away from the city centre – a fully-furnished, ground-floor, one-bedroom flat with a garden for £800 a month.
+But tenants in The Copper Works have free access to a gym, a cinema room, a roof terrace, and a games room. There's also free WiFi, a concierge service with a helpline, and other amenities. In addition, the studio flat has an EPC B rating as opposed to an EPC C rating for the one-bedroom flat down the road.
+"You have to look at what you're getting for your rent," says Helen Gordon, Grainger's chief executive. She says BTR landlords can offer these services because of their scale. As she puts it: "If you run 11,000 homes, you can afford to invest in systems, processes, people, helplines – that sort of thing – that smaller landlords can't."
+Gordon strongly pushes back against suggestions that there is a lack of human connection within BTR, noting that tenants are able to speak with staff whenever they need and that the firm regularly organises events for socialising with other tenants to create a sense of community.
+It's a pattern across the BTR sector: a higher price point in exchange for what is marketed as high-quality accommodation and a suite of services — some in the sector even refer to 'customers' rather than 'tenants'.
+The number of BTR homes has tripled between 2019 and 2025, and while it represents just 3% of the overall rental market at the moment, Gordon believes it could reach "at least 10%" over the next ten years. "And I think it could go higher," she adds.
+"If you've got major institutions that include pension funds, financial institutions, and FTSE 250 companies running the stock, it's easier to hold people to account than lots of disparate people, so you can see why it's attractive [to government]."
+'Policy environment'
+A 2012 government-commissioned report concluded that more BTR properties could help increase housing supply and drive economic growth as well as providing tenants with more choice and better quality housing. It recommended central government and councils support the development of BTR through favourable planning decisions and releasing public land.
+There is a lot of evidence governments and local authorities listened. Local leaders in big cities – London and Manchester, in particular – have partnered with developers to deliver large housing projects involving, in many cases, the release of public land. Kings Cross in London is a prime example of this and current London Mayor Sadiq Khan's push for BTR development near Transport for London (TFL) land, mostly Tube stations, is another example. As part of that, TfL formed a joint venture with Grainger.
+Lucian Cook, head of residential research at Savills, says it's not a matter of looking at one policy, government, or council in particular but more the "policy environment" which has been around since the 2010s.
+He points to a series of tax changes, including mortgage interest tax relief changes and higher stamp duty rates for second homes and buy-to-let properties introduced by the Conservatives around 10 years ago, which made the sector less favourable for smaller landlords.
+The Renters' Rights Act and more stringent energy efficiency requirements were later introduced. And the last two Budgets have raised taxes on rental income from next year. The tax change applies to individuals who are landlords, not to BTR companies which pay corporation tax, further encouraging professionalisation of the sector.
+Yet, while many welcome these changes, others say they are pushing smaller landlords out of the sector. As Cook puts it, there has been more "stick" for small landlords than "carrot" for the BTR sector.
+Between 2000 and 2016, a net 2.74 million homes were added to the English rental market in total, according to an analysis of government data by the Joseph Rowntree Foundation. In the 10 years since, a net of just 200,000 have. For renters, it is now less likely that your property is owned by a smaller landlord.
+Kevin Barber started off with one rental home. He has since grown this portfolio to 40 properties with his business partner but resents what he sees as the clout of the BTR sector. "The big property companies have got so much financial power and influence with the government," he says.
+What would really help renters
+Many experts, landlord groups, and tenant groups agree that building more housing — whether that's rental housing or housing for sale — would help solve many of the issues in the rental sector.
+The thinking goes that building more homes for rent, provided people can afford them, would help deal with the supply crunch that can drive up rental costs and force tenants into lower quality properties. And building more homes for sale, provided people can afford them, would remove those from the market who don't want to rent but are forced into it.
+But whether we will actually see more homes being built is another matter. Savills' Cook says BTR development could slow in future as high interest rates and increased building costs continue to hit developers' bottom line. These same factors are why housebuilders say they are building less.
+Cook says the current rate of BTR development won't be enough to meet the demand for rental properties on its own, at least not imminently. In addition, while some BTR developers do build cheaper family homes for rent in the suburbs, the sector is largely still building blocks of flats for wealthier renters living in cities.
+This raises the possibility that the UK could end up with a two-tier rental market – what Cook describes as the "haves and the have nots" – where high-earning city-dwelling renters have their pick of rental properties but poorer renters in suburbs struggle to find somewhere to live.
+Unless the government steps in, possibly by delivering more housing itself or partnering with developers to do so, it might find any positives gained by the Renters' Rights Act are undone by an increasingly fragmented rental market.
+Top picture credit: Getty Images
+More from InDepth
+The school where white working-class pupils defy the odds
+- Published13 November
+BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
+Get in touch
+Are you personally affected by the issues raised in this story?`,
+    bodyJa: `On Christmas Eve 2021, there was a knock on the door of Lexi Levens' rented flat. It was a letter sent by special delivery from the NHS nurse's landlord saying she, her husband, and four children had two months to move out.
+"The kids all thought it was a present arriving," she recalls.
+Lexi's landlord had used something known then as a Section 21 notice to evict her family without needing to give a reason.
+Lexi, along with the housing charity Shelter, went on to lobby the government to improve rights for renters. The Renters' Rights Act, which came into force in May this year, banned Section 21 evictions and also made it illegal to refuse to rent to people based on their status as a family with children.
+The landlords Lexi had been renting from at that time were typical of the English housing market — individuals who owned one or a handful of properties.
+Many of these small landlords say the Renters' Rights Act has left them feeling squeezed. They also say rising interest rates, new regulations and tax changes (including some in the most recent Budget) are making things harder. Some say they are selling up.
+Meanwhile, according to Savills estate agents, 2026 is likely to be another record year for investment from large institutions in what is known in the property industry as build to rent (BTR). This is when big developers build blocks of flats or family housing to rent out, something that is commonplace in parts of Europe and the US. It means that rather than dealing with an individual landlord or letting agent, tenants are instead renting from larger, typically corporate, entities.
+So does the shift, as some believe, represent a welcome professionalisation of the UK rental sector? Or will renters increasingly miss the positive elements of the personal touch that small landlords can provide?
+'Very industrial and very unpersonal'
+According to the latest government survey of private landlords in England, 83% of English landlords own four properties or fewer, representing 51% of tenancies.
+And according to 2024 research by real estate agency Savills, around 40% rental homes in the US and Germany are owned by large institutions — be they private firms, listed companies, pension funds, or co-operatives. For the UK, Savills calculated that figure was just 3%.
+But the rental market is changing. The trend is most visible in England, where BTR has boomed in large cities and where regulations like the Renters' Rights Act apply, but there are BTR developments in Scotland, Wales, and Northern Ireland too and the devolved nations are also seeing increased regulation on landlords, such as with Scotland's rent controls.
+Lexi is pleased with the idea of a sector with stricter rules for landlords and more professional institutions getting involved.
+"Anything that takes away from landlords having personal preferences [around choosing who they are or not prepared to rent to]… is a good thing," she says, adding that she believes large, corporate landlords would be less likely to act that way.
+Not everyone is convinced BTR landlords are better, though.
+Clint Stevenson, a 44-year-old magician for weddings and events, has been renting his one-bedroom flat in Ramsgate for £550 a month for two years. He says he has "the most amazing landlady" — an older woman who he regularly chats to. He sometimes walks her dog and does her shopping as well.
+He says he had considered renting from a BTR development, but found the accommodation to be "very industrial and very unpersonal". He also found what was on offer to be expensive compared to what he is used to paying.
+"They just look like big, money-grabbing deals," he says.
+In Cardiff, Grainger, the UK's largest listed BTR developer, is currently offering a fully-furnished studio flat on the 20th floor of The Copper Works in the city centre with views over the bay for £1,265 a month.
+It's a lot more than what is currently on offer on Rightmove, a 15 minute walk away from the city centre – a fully-furnished, ground-floor, one-bedroom flat with a garden for £800 a month.
+But tenants in The Copper Works have free access to a gym, a cinema room, a roof terrace, and a games room. There's also free WiFi, a concierge service with a helpline, and other amenities. In addition, the studio flat has an EPC B rating as opposed to an EPC C rating for the one-bedroom flat down the road.
+"You have to look at what you're getting for your rent," says Helen Gordon, Grainger's chief executive. She says BTR landlords can offer these services because of their scale. As she puts it: "If you run 11,000 homes, you can afford to invest in systems, processes, people, helplines – that sort of thing – that smaller landlords can't."
+Gordon strongly pushes back against suggestions that there is a lack of human connection within BTR, noting that tenants are able to speak with staff whenever they need and that the firm regularly organises events for socialising with other tenants to create a sense of community.
+It's a pattern across the BTR sector: a higher price point in exchange for what is marketed as high-quality accommodation and a suite of services — some in the sector even refer to 'customers' rather than 'tenants'.
+The number of BTR homes has tripled between 2019 and 2025, and while it represents just 3% of the overall rental market at the moment, Gordon believes it could reach "at least 10%" over the next ten years. "And I think it could go higher," she adds.
+"If you've got major institutions that include pension funds, financial institutions, and FTSE 250 companies running the stock, it's easier to hold people to account than lots of disparate people, so you can see why it's attractive [to government]."
+'Policy environment'
+A 2012 government-commissioned report concluded that more BTR properties could help increase housing supply and drive economic growth as well as providing tenants with more choice and better quality housing. It recommended central government and councils support the development of BTR through favourable planning decisions and releasing public land.
+There is a lot of evidence governments and local authorities listened. Local leaders in big cities – London and Manchester, in particular – have partnered with developers to deliver large housing projects involving, in many cases, the release of public land. Kings Cross in London is a prime example of this and current London Mayor Sadiq Khan's push for BTR development near Transport for London (TFL) land, mostly Tube stations, is another example. As part of that, TfL formed a joint venture with Grainger.
+Lucian Cook, head of residential research at Savills, says it's not a matter of looking at one policy, government, or council in particular but more the "policy environment" which has been around since the 2010s.
+He points to a series of tax changes, including mortgage interest tax relief changes and higher stamp duty rates for second homes and buy-to-let properties introduced by the Conservatives around 10 years ago, which made the sector less favourable for smaller landlords.
+The Renters' Rights Act and more stringent energy efficiency requirements were later introduced. And the last two Budgets have raised taxes on rental income from next year. The tax change applies to individuals who are landlords, not to BTR companies which pay corporation tax, further encouraging professionalisation of the sector.
+Yet, while many welcome these changes, others say they are pushing smaller landlords out of the sector. As Cook puts it, there has been more "stick" for small landlords than "carrot" for the BTR sector.
+Between 2000 and 2016, a net 2.74 million homes were added to the English rental market in total, according to an analysis of government data by the Joseph Rowntree Foundation. In the 10 years since, a net of just 200,000 have. For renters, it is now less likely that your property is owned by a smaller landlord.
+Kevin Barber started off with one rental home. He has since grown this portfolio to 40 properties with his business partner but resents what he sees as the clout of the BTR sector. "The big property companies have got so much financial power and influence with the government," he says.
+What would really help renters
+Many experts, landlord groups, and tenant groups agree that building more housing — whether that's rental housing or housing for sale — would help solve many of the issues in the rental sector.
+The thinking goes that building more homes for rent, provided people can afford them, would help deal with the supply crunch that can drive up rental costs and force tenants into lower quality properties. And building more homes for sale, provided people can afford them, would remove those from the market who don't want to rent but are forced into it.
+But whether we will actually see more homes being built is another matter. Savills' Cook says BTR development could slow in future as high interest rates and increased building costs continue to hit developers' bottom line. These same factors are why housebuilders say they are building less.
+Cook says the current rate of BTR development won't be enough to meet the demand for rental properties on its own, at least not imminently. In addition, while some BTR developers do build cheaper family homes for rent in the suburbs, the sector is largely still building blocks of flats for wealthier renters living in cities.
+This raises the possibility that the UK could end up with a two-tier rental market – what Cook describes as the "haves and the have nots" – where high-earning city-dwelling renters have their pick of rental properties but poorer renters in suburbs struggle to find somewhere to live.
+Unless the government steps in, possibly by delivering more housing itself or partnering with developers to do so, it might find any positives gained by the Renters' Rights Act are undone by an increasingly fragmented rental market.
+Top picture credit: Getty Images
+More from InDepth
+The school where white working-class pupils defy the odds
+- Published13 November
+BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
+Get in touch
+Are you personally affected by the issues raised in this story?`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-24T00:28:48+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8db7/live/089748f0-e7e7-11f1-99b6-a35a62fa4264.jpg",
+    readTime: 10,
+  },
+  {
+    id: "bbc-secret-filming-shows-dog-breeder-sel-afb831dd",
+    title: "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+    titleJa: "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+    summaryJa: "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
+    bodyOriginal: `BBC secret filming shows dog breeder selling sick puppies for £2k each
+- Published
+When Katie Thornton paid £2,000 for a nine-week-old puppy for her son, she knew it was a premium price - but was happy to be doing business with a "legit", council-approved breeder.
+But Ozzy the Dobermann pup started coughing in the car on the way home, and within 48 hours he was in a veterinary hospital receiving urgent treatment for pneumonia.
+Since then, his ongoing health problems mean Katie has racked up more than £5,000 in vet bills.
+A BBC investigation has found the breeder had been stripped of his five-star rating two months before selling several sick puppies, but continued to advertise as five-star.
+We have also found at least 15 other breeders in England advertising puppies alongside claims their star rating is higher than it really is.
+An expert reviewing our findings - including undercover footage we recorded at the breeder's home - said the investigation exposes a nationwide "wild west" of dog licensing, making it "easy for consumers to be scammed".
+The breeder has not responded to our request for comment.
+When Katie visited the premises of Mikjulora Dobermanns in Whitby, North Yorkshire, she said the puppies' mother "didn't look very well" and was "skinny" and "shaking".
+But she felt the breeder, Michael Estill, was "pushing me to buy Ozzy" so she paid for him and took him home on the spot.
+Katie defended her decision because she had done extensive research to check the business was "legit".
+The mother-of-one, from Harrogate, said she had checked his licence number and read through his website and online adverts, which said he had decades of experience and a "five-star" breeding licence.
+'It is a scam'
+In England, local councils grant breeders in their area a licence and star rating dependent on welfare standards.
+Vet reports for North Yorkshire Council from August and December 2025, seen by the BBC, cited dozens of concerns with Estill's business, including:
+"Poor" living conditions "akin to a prison", with dogs kept in cages, stacked on top of each other, that were too small for them to turn around in
+Deteriorating health and welfare of "sad" dogs
+Puppies for sale not matching descriptions - "in other words it is a scam"
+Prospective buyers "very vulnerable to unsuspectingly purchasing unhealthy puppies"
+The business was "more or less a puppy farm masquerading as an honest and conscientious breeder. This must stop"
+Estill "bullied" a local vet to perform an "unnecessary" Caesarean section on one of his dogs, to reduce the time he would have to spend monitoring her
+His "demanding" behaviour led the practice to give him several doses of a powerful stimulant which he gave to one of his dogs at home - which the vet considered to be "negligent"
+He had a three-year-old dog euthanised because he suspected her to have a neurological condition, despite the vet encouraging him to get diagnostic tests and specialist treatment first.
+Following the reports, which concluded that the business was "functioning outside the law", the council renewed Estill's licence in January but downgraded his rating from five-star (the highest standards) to one-star (minor failings).
+Dr Caroline Allen, founder of Pet Lighthouse and former RSPCA chief veterinary officer, said she was "surprised and shocked" that the business kept its licence.
+A North Yorkshire Council spokesperson said the threshold for revoking a licence "was not considered to have been met on the evidence available".
+They added: "We take animal welfare very seriously and investigate concerns brought to our attention.
+"Following the veterinary inspection reports, we have continued to work with the licence holder to address the identified concerns and are satisfied that standards have significantly improved, resulting in a higher level of animal welfare at the premises."
+The BBC has evidence that Estill continued to sell puppies while claiming on his website and in person that he was five-star rated.
+While Estill has since updated his website homepage, he has not updated the metadata, which means when his business is searched for online the five-star claim still appears alongside a link to his site.
+There is no official list of licensed breeders and their star ratings, and not all councils publish them, so Katie took his word for it.
+"If I would've known he was a one-star breeder, I would've never even gone to the property. I wouldn't have bought a dog off a one-star breeder," she said, adding that she wanted to see Estill's licence revoked.
+'He died aged three'
+Kat Durrant's dog Bentley died aged three in 2022 of a heart condition known as dilated cardiomyopathy (DCM).
+Within days of bringing him home from Mikjulora Dobermanns, Kat says Bentley was "really poorly".
+"The vet asked me if I had got the dog from a puppy farm because of his condition," she added.
+Three years later, Kat had Bentley put to sleep as his weak heart was "giving up" and he was struggling to breathe.
+"Bentley suffered his whole life because of everything he'd been through when he was young," she said.
+Kat, from Manchester, set up a Facebook group where other people who had bought dogs from Estill could share their experiences.
+Including Kat, owners of 17 dogs mentioned in the group said the pets had died before the age of eight, including 10 below the age of four.
+Several others claimed their dogs were sick at a young age but survived.
+The vet report from December 2025 said Estill was not correctly testing his dogs for DCM despite his website saying that he did test.
+The report said the fact that Estill did "nothing" when customers told him about DCM diagnoses was "truly the hallmark of a breeder who does not care about the welfare or improving the breed".
+Michelle Paton, who lives in Edinburgh, bought her puppy Cruz a week before Katie bought Ozzy.
+He had a cough "as soon as he came through the front door" and was diagnosed with pneumonia and possible heart failure a few weeks later.
+Michelle was frustrated to discover Kat's Facebook group and felt Estill's licence should have been revoked "years ago".
+"If somebody was actually doing their job properly then they would have put an end to him breeding a long time ago," she said.
+Caroline Housam, from York, bought her puppy Roxy the day before Katie bought Ozzy.
+Roxy started coughing in the car on the journey home.
+When Caroline took Roxy to the vet she said she was told there were problems with her glands, and later they found she had a limp and ulcers in her eyes.
+She is having ongoing treatment and tests.
+"I'm actually angry because I look at my dog and I'm thinking, 'I don't know what lies ahead'," said Caroline.
+"When you listen to what other people have said [on Facebook] who have had [dogs] bred from him, her chances of living until two are slim."
+To corroborate the claims made, the BBC sent undercover reporters to film at Estill's home, posing as potential puppy buyers.
+Estill refused to show us where the puppies and their mother slept.
+He said he had "another 15 Dobermanns" in cages in a back room and worried that the neighbours would complain if we went in and they started barking.
+He offered to show us the space another day and said he had "nothing to hide".
+Reviewing our footage, Allen said this refusal was the "most serious concern" and breached regulations.
+She added that the eyes of two of the puppies for sale were " not all normal", citing "a number of abnormalities" such as discoloration and the shape of the eye socket.
+Looking at a photo of a male pup taken by the BBC, she said: "That is not a healthy dog."
+Estill's licence certificate and star rating were also not visibly on display anywhere, despite government rules saying both should be "clearly and prominently displayed" for customers.
+BBC research has found at least 15 other breeders in England who are also advertising puppies alongside claims their star rating is higher than the one they have been given by their local authority.
+We checked through a list of 806 breeders with a rating between one and four stars.
+Of the 573 breeders rated three-star or below (meaning lower standards), we could not find mention of a rating on their websites, social media pages or in online adverts for puppies in 541 cases.
+Of the 32 who did mention a rating, 11 had active adverts claiming to be more highly rated than they really were.
+Of the 45 four-star rated breeders to mention a rating, four claimed they were five-star in active adverts.
+More from the investigations team
+Drugs running was like 'a paper round' for exploited son, mum says
+- Published12 November
+The man accused of tricking his friends out of £50,000
+- Published15 October
+Ex-workers tell of 'chaotic atmosphere' at new £400m prison
+- Published18 August
+One council confirmed a breeder we enquired about did not have a licence at all, another said they could not find the information we needed, and others took weeks to respond.
+The list of breeders was provided by Paws on the Doors, an organisation aiming to collate breeders' star ratings across the country in one place. For each of the breeders whose online claims did not match the Paws on the Doors list, we checked with individual councils to verify the up-to-date rating.
+Commenting on the BBC's findings, Paws on the Doors co-founder Leigh Grant said the main reason "the scammers exist" was that central government and local councils had "failed" to properly implement the principles of legislation for breeder licensing from 2018.
+He said a lack of support for animal welfare had led to a position where breeders can "falsely claim higher standards, without fear of detection".
+Allen said our findings showed puppy breeding was "an absolute wild west" and there should be "countrywide teams of inspectors and vets who are properly trained to understand the legislation".
+She said: "It is easy for consumers to be scammed, but unfortunately at the heart of this there are really vulnerable animals and puppies."
+Amy Thompson-Copsey, senior public affairs officer at Dogs Trust, said potential puppy owners should "trust your instinct" to avoid falling for "financial scams".
+"If something seems off, if you feel red flags, just walk away. You don't know what you could be getting into."
+A Defra spokesperson said they were committed to ending "low welfare dog breeding" and were consulting on reforms to protect dogs' health and better inform the public on "which breeders they can trust".
+The BBC put all allegations to Michael Estill and his wife Julie Estill, who is the named director of Mikjulora on Companies House, but they did not respond.
+Additional data journalism by Anil Kumar Bharath.
+Get in touch
+Do you have a story to share with the BBC Yorkshire & Lincolnshire investigations team?
+Get our flagship newsletter with all the headlines you need to start the day. Sign up here.
+More stories like this
+- Published15 October
+- Published15 November
+- Published5 November`,
+    bodyJa: `BBC secret filming shows dog breeder selling sick puppies for £2k each
+- Published
+When Katie Thornton paid £2,000 for a nine-week-old puppy for her son, she knew it was a premium price - but was happy to be doing business with a "legit", council-approved breeder.
+But Ozzy the Dobermann pup started coughing in the car on the way home, and within 48 hours he was in a veterinary hospital receiving urgent treatment for pneumonia.
+Since then, his ongoing health problems mean Katie has racked up more than £5,000 in vet bills.
+A BBC investigation has found the breeder had been stripped of his five-star rating two months before selling several sick puppies, but continued to advertise as five-star.
+We have also found at least 15 other breeders in England advertising puppies alongside claims their star rating is higher than it really is.
+An expert reviewing our findings - including undercover footage we recorded at the breeder's home - said the investigation exposes a nationwide "wild west" of dog licensing, making it "easy for consumers to be scammed".
+The breeder has not responded to our request for comment.
+When Katie visited the premises of Mikjulora Dobermanns in Whitby, North Yorkshire, she said the puppies' mother "didn't look very well" and was "skinny" and "shaking".
+But she felt the breeder, Michael Estill, was "pushing me to buy Ozzy" so she paid for him and took him home on the spot.
+Katie defended her decision because she had done extensive research to check the business was "legit".
+The mother-of-one, from Harrogate, said she had checked his licence number and read through his website and online adverts, which said he had decades of experience and a "five-star" breeding licence.
+'It is a scam'
+In England, local councils grant breeders in their area a licence and star rating dependent on welfare standards.
+Vet reports for North Yorkshire Council from August and December 2025, seen by the BBC, cited dozens of concerns with Estill's business, including:
+"Poor" living conditions "akin to a prison", with dogs kept in cages, stacked on top of each other, that were too small for them to turn around in
+Deteriorating health and welfare of "sad" dogs
+Puppies for sale not matching descriptions - "in other words it is a scam"
+Prospective buyers "very vulnerable to unsuspectingly purchasing unhealthy puppies"
+The business was "more or less a puppy farm masquerading as an honest and conscientious breeder. This must stop"
+Estill "bullied" a local vet to perform an "unnecessary" Caesarean section on one of his dogs, to reduce the time he would have to spend monitoring her
+His "demanding" behaviour led the practice to give him several doses of a powerful stimulant which he gave to one of his dogs at home - which the vet considered to be "negligent"
+He had a three-year-old dog euthanised because he suspected her to have a neurological condition, despite the vet encouraging him to get diagnostic tests and specialist treatment first.
+Following the reports, which concluded that the business was "functioning outside the law", the council renewed Estill's licence in January but downgraded his rating from five-star (the highest standards) to one-star (minor failings).
+Dr Caroline Allen, founder of Pet Lighthouse and former RSPCA chief veterinary officer, said she was "surprised and shocked" that the business kept its licence.
+A North Yorkshire Council spokesperson said the threshold for revoking a licence "was not considered to have been met on the evidence available".
+They added: "We take animal welfare very seriously and investigate concerns brought to our attention.
+"Following the veterinary inspection reports, we have continued to work with the licence holder to address the identified concerns and are satisfied that standards have significantly improved, resulting in a higher level of animal welfare at the premises."
+The BBC has evidence that Estill continued to sell puppies while claiming on his website and in person that he was five-star rated.
+While Estill has since updated his website homepage, he has not updated the metadata, which means when his business is searched for online the five-star claim still appears alongside a link to his site.
+There is no official list of licensed breeders and their star ratings, and not all councils publish them, so Katie took his word for it.
+"If I would've known he was a one-star breeder, I would've never even gone to the property. I wouldn't have bought a dog off a one-star breeder," she said, adding that she wanted to see Estill's licence revoked.
+'He died aged three'
+Kat Durrant's dog Bentley died aged three in 2022 of a heart condition known as dilated cardiomyopathy (DCM).
+Within days of bringing him home from Mikjulora Dobermanns, Kat says Bentley was "really poorly".
+"The vet asked me if I had got the dog from a puppy farm because of his condition," she added.
+Three years later, Kat had Bentley put to sleep as his weak heart was "giving up" and he was struggling to breathe.
+"Bentley suffered his whole life because of everything he'd been through when he was young," she said.
+Kat, from Manchester, set up a Facebook group where other people who had bought dogs from Estill could share their experiences.
+Including Kat, owners of 17 dogs mentioned in the group said the pets had died before the age of eight, including 10 below the age of four.
+Several others claimed their dogs were sick at a young age but survived.
+The vet report from December 2025 said Estill was not correctly testing his dogs for DCM despite his website saying that he did test.
+The report said the fact that Estill did "nothing" when customers told him about DCM diagnoses was "truly the hallmark of a breeder who does not care about the welfare or improving the breed".
+Michelle Paton, who lives in Edinburgh, bought her puppy Cruz a week before Katie bought Ozzy.
+He had a cough "as soon as he came through the front door" and was diagnosed with pneumonia and possible heart failure a few weeks later.
+Michelle was frustrated to discover Kat's Facebook group and felt Estill's licence should have been revoked "years ago".
+"If somebody was actually doing their job properly then they would have put an end to him breeding a long time ago," she said.
+Caroline Housam, from York, bought her puppy Roxy the day before Katie bought Ozzy.
+Roxy started coughing in the car on the journey home.
+When Caroline took Roxy to the vet she said she was told there were problems with her glands, and later they found she had a limp and ulcers in her eyes.
+She is having ongoing treatment and tests.
+"I'm actually angry because I look at my dog and I'm thinking, 'I don't know what lies ahead'," said Caroline.
+"When you listen to what other people have said [on Facebook] who have had [dogs] bred from him, her chances of living until two are slim."
+To corroborate the claims made, the BBC sent undercover reporters to film at Estill's home, posing as potential puppy buyers.
+Estill refused to show us where the puppies and their mother slept.
+He said he had "another 15 Dobermanns" in cages in a back room and worried that the neighbours would complain if we went in and they started barking.
+He offered to show us the space another day and said he had "nothing to hide".
+Reviewing our footage, Allen said this refusal was the "most serious concern" and breached regulations.
+She added that the eyes of two of the puppies for sale were " not all normal", citing "a number of abnormalities" such as discoloration and the shape of the eye socket.
+Looking at a photo of a male pup taken by the BBC, she said: "That is not a healthy dog."
+Estill's licence certificate and star rating were also not visibly on display anywhere, despite government rules saying both should be "clearly and prominently displayed" for customers.
+BBC research has found at least 15 other breeders in England who are also advertising puppies alongside claims their star rating is higher than the one they have been given by their local authority.
+We checked through a list of 806 breeders with a rating between one and four stars.
+Of the 573 breeders rated three-star or below (meaning lower standards), we could not find mention of a rating on their websites, social media pages or in online adverts for puppies in 541 cases.
+Of the 32 who did mention a rating, 11 had active adverts claiming to be more highly rated than they really were.
+Of the 45 four-star rated breeders to mention a rating, four claimed they were five-star in active adverts.
+More from the investigations team
+Drugs running was like 'a paper round' for exploited son, mum says
+- Published12 November
+The man accused of tricking his friends out of £50,000
+- Published15 October
+Ex-workers tell of 'chaotic atmosphere' at new £400m prison
+- Published18 August
+One council confirmed a breeder we enquired about did not have a licence at all, another said they could not find the information we needed, and others took weeks to respond.
+The list of breeders was provided by Paws on the Doors, an organisation aiming to collate breeders' star ratings across the country in one place. For each of the breeders whose online claims did not match the Paws on the Doors list, we checked with individual councils to verify the up-to-date rating.
+Commenting on the BBC's findings, Paws on the Doors co-founder Leigh Grant said the main reason "the scammers exist" was that central government and local councils had "failed" to properly implement the principles of legislation for breeder licensing from 2018.
+He said a lack of support for animal welfare had led to a position where breeders can "falsely claim higher standards, without fear of detection".
+Allen said our findings showed puppy breeding was "an absolute wild west" and there should be "countrywide teams of inspectors and vets who are properly trained to understand the legislation".
+She said: "It is easy for consumers to be scammed, but unfortunately at the heart of this there are really vulnerable animals and puppies."
+Amy Thompson-Copsey, senior public affairs officer at Dogs Trust, said potential puppy owners should "trust your instinct" to avoid falling for "financial scams".
+"If something seems off, if you feel red flags, just walk away. You don't know what you could be getting into."
+A Defra spokesperson said they were committed to ending "low welfare dog breeding" and were consulting on reforms to protect dogs' health and better inform the public on "which breeders they can trust".
+The BBC put all allegations to Michael Estill and his wife Julie Estill, who is the named director of Mikjulora on Companies House, but they did not respond.
+Additional data journalism by Anil Kumar Bharath.
+Get in touch
+Do you have a story to share with the BBC Yorkshire & Lincolnshire investigations team?
+Get our flagship newsletter with all the headlines you need to start the day. Sign up here.
+More stories like this
+- Published15 October
+- Published15 November
+- Published5 November`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-24T00:11:08+00:00",
+    category: "自動車",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbbd/live/db7cd3b0-e7d4-11f1-939f-471cde339c0e.jpg",
+    readTime: 10,
+  },
+  {
+    id: "i-pay-250-a-month-for-someone-else-to-do-aa74c94a",
+    title: "I pay £250 a month for someone else to do my life admin - it's worth it",
+    titleJa: "I pay £250 a month for someone else to do my life admin - it's worth it",
+    summaryJa: "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
+    bodyOriginal: `I pay £250 a month for someone else to do my life admin - it's worth it
+- Published
+Maxine Dillion, a busy 44-year-old mum of two, was struggling with her life admin – the never-ending to-do list of household and personal chores.
+Everything from arranging for a handyman to fix something, to posting her clothing returns on Vinted, she wasn't getting around to it.
+"I felt like all the little jobs that I didn't have time for were mounting up," says Maxine, who is self-employed helping businesses with their use of social media.
+Then last year, Maxine, who lives in Mansfield in Nottinghamshire, discovered a new company called Life Laundry.
+Launched in 2025 by two women based in Wakefield, Yorkshire, you can pay them to do all your admin jobs for you. Such companies are known as life personal assistants, and in recent years a growing number have sprung up on both sides of the Atlantic.
+Maxine, who earns £32,000 a year, doesn't have a massive amount of disposable income, but she decided to start spending £250 a month for five hours' work and thinks it is worth it as it also helps reduce her "mental load".
+The owners of Life Laundry, Alicia Papachristou and Jane Forbes, now look after a host of things for Maxine. Other jobs they take care of include arranging insurance, sending school emails, and managing online subscriptions.
+Much of the work they can do remotely, but once a month they travel to Mansfield to do the jobs that require them to be physically present.
+"If someone asks us what we do, we say we're life PAs [personal assistants], and we ease your overwhelm," says Forbes.
+With such companies also increasingly available in the US, another busy working mother, Amanda Sims Nichols in Austin, Texas, has also employed a firm to look after her life admin.
+Amanda, who is a business consultant, has three children with her attorney husband, and decided to start paying for help with life admin after moving house, away from her family support network.
+She pays $2,250 (£1,750) a month for 25 hours, and says she relishes offloading regular chores including the weekly food shop and clothes washing.
+"Money cannot buy you everything, but it can buy you back some of your time," says the 45-year-old.
+The company she uses, Queen of To Do, was founded by Kate Ginsberg in 2011. She says that interest has greatly increased since the pandemic.
+The business now has more than 50 active users. Meanwhile, Life Laundry has 25 customers.
+Both companies say demand is growing for their services as people's lives become increasingly frantic.
+Ginsberg says that the work they do for clients can be very diverse, with no task too big or too small.
+Some of the larger tasks her team has faced over the years include flying from Austin to New York City to buy a desperately needed Christmas gift, and finding a new wedding location for a client with just three days' notice due to an incoming hurricane.
+Jess Baker, a UK chartered psychologist, says the appeal of such providers is understandable.
+"Using a life PA, if you can afford one, takes the pressure off having to keep hundreds of to-dos swimming around your head, or on lists you might forget to look at," she says.
+"Otherwise, the cognitive load can lead to feelings of being overwhelmed, excess worry and exhaustion."
+'We meet twice a week on Zoom'
+While paying for help with such tasks may seem a luxury, for some people support with life's everyday trials is a lifeline.
+Anna Allington sought help after her husband died. "My husband passed away. I was 47," she says.
+"And the same week he passed away, I got leukaemia. There was a lot to sort out and I was very, very unwell."
+Anna, now 51, still suffers the after-effects of her cancer. "I can't function executively like I used to," she says.
+She pays £1,200 a month for 40 hours of help from Cheshire-based company Vi-Va. Her personal assistant helps her respond to emails, manage her diary and make travel plans and bookings.
+"We meet twice a week on Zoom," says Anna, who lives in the Cotswolds, so they can go through all her tasks.
+Many more women than men use these companies.
+Queen of To Do says just 20% of its clients are male, while only one of Life Laundry's 25 clients is a man.
+Some of that disparity is likely due to mothers still looking after the lion's share of household admin, as studies continue to show.
+However, Life Laundry's Forbes wonders if some men are too proud to ask for assistance.
+"Men are struggling as well, but I think they're less likely to ask for help."
+- Published7 days ago
+- Published3 November
+- Published15 September`,
+    bodyJa: `I pay £250 a month for someone else to do my life admin - it's worth it
+- Published
+Maxine Dillion, a busy 44-year-old mum of two, was struggling with her life admin – the never-ending to-do list of household and personal chores.
+Everything from arranging for a handyman to fix something, to posting her clothing returns on Vinted, she wasn't getting around to it.
+"I felt like all the little jobs that I didn't have time for were mounting up," says Maxine, who is self-employed helping businesses with their use of social media.
+Then last year, Maxine, who lives in Mansfield in Nottinghamshire, discovered a new company called Life Laundry.
+Launched in 2025 by two women based in Wakefield, Yorkshire, you can pay them to do all your admin jobs for you. Such companies are known as life personal assistants, and in recent years a growing number have sprung up on both sides of the Atlantic.
+Maxine, who earns £32,000 a year, doesn't have a massive amount of disposable income, but she decided to start spending £250 a month for five hours' work and thinks it is worth it as it also helps reduce her "mental load".
+The owners of Life Laundry, Alicia Papachristou and Jane Forbes, now look after a host of things for Maxine. Other jobs they take care of include arranging insurance, sending school emails, and managing online subscriptions.
+Much of the work they can do remotely, but once a month they travel to Mansfield to do the jobs that require them to be physically present.
+"If someone asks us what we do, we say we're life PAs [personal assistants], and we ease your overwhelm," says Forbes.
+With such companies also increasingly available in the US, another busy working mother, Amanda Sims Nichols in Austin, Texas, has also employed a firm to look after her life admin.
+Amanda, who is a business consultant, has three children with her attorney husband, and decided to start paying for help with life admin after moving house, away from her family support network.
+She pays $2,250 (£1,750) a month for 25 hours, and says she relishes offloading regular chores including the weekly food shop and clothes washing.
+"Money cannot buy you everything, but it can buy you back some of your time," says the 45-year-old.
+The company she uses, Queen of To Do, was founded by Kate Ginsberg in 2011. She says that interest has greatly increased since the pandemic.
+The business now has more than 50 active users. Meanwhile, Life Laundry has 25 customers.
+Both companies say demand is growing for their services as people's lives become increasingly frantic.
+Ginsberg says that the work they do for clients can be very diverse, with no task too big or too small.
+Some of the larger tasks her team has faced over the years include flying from Austin to New York City to buy a desperately needed Christmas gift, and finding a new wedding location for a client with just three days' notice due to an incoming hurricane.
+Jess Baker, a UK chartered psychologist, says the appeal of such providers is understandable.
+"Using a life PA, if you can afford one, takes the pressure off having to keep hundreds of to-dos swimming around your head, or on lists you might forget to look at," she says.
+"Otherwise, the cognitive load can lead to feelings of being overwhelmed, excess worry and exhaustion."
+'We meet twice a week on Zoom'
+While paying for help with such tasks may seem a luxury, for some people support with life's everyday trials is a lifeline.
+Anna Allington sought help after her husband died. "My husband passed away. I was 47," she says.
+"And the same week he passed away, I got leukaemia. There was a lot to sort out and I was very, very unwell."
+Anna, now 51, still suffers the after-effects of her cancer. "I can't function executively like I used to," she says.
+She pays £1,200 a month for 40 hours of help from Cheshire-based company Vi-Va. Her personal assistant helps her respond to emails, manage her diary and make travel plans and bookings.
+"We meet twice a week on Zoom," says Anna, who lives in the Cotswolds, so they can go through all her tasks.
+Many more women than men use these companies.
+Queen of To Do says just 20% of its clients are male, while only one of Life Laundry's 25 clients is a man.
+Some of that disparity is likely due to mothers still looking after the lion's share of household admin, as studies continue to show.
+However, Life Laundry's Forbes wonders if some men are too proud to ask for assistance.
+"Men are struggling as well, but I think they're less likely to ask for help."
+- Published7 days ago
+- Published3 November
+- Published15 September`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-24T00:01:04+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a207/live/9dc35180-e378-11f1-b879-03485a55c082.jpg",
+    readTime: 10,
+  },
+  {
     id: "nvidia-surge-what-investors-should-do-wi-36691275",
     title: "Nvidia surge: What investors should do with the stock and the AI trade now",
     titleJa: "Nvidia surge: What investors should do with the stock and the AI trade now",
@@ -1787,582 +2567,6 @@ The FBI did not immediately respond to a CNBC request for comment.`,
     category: "マクロ経済",
     imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
     readTime: 4,
-  },
-  {
-    id: "is-social-security-a-ponzi-scheme-no-don-de2b8bba",
-    title: "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
-    titleJa: "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
-    summaryJa: "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
-    bodyOriginal: `Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.`,
-    bodyJa: `Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-    publishedAt: "2026-11-21T16:50:00+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.mktw.net/im-49247042",
-    readTime: 2,
-  },
-  {
-    id: "anthropic-s-record-ipo-collides-with-tec-20c463de",
-    title: "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
-    titleJa: "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
-    summaryJa: "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
-    bodyOriginal: `Startup investor Ben Narasin is so jazzed about Anthropic's blockbuster IPO that he's planning a party later this month at his Silicon Valley home. Sake, vodka and Krug Champagne will be served. Each attendee will be given two jars of caviar.
-"This is a celebration of the most material, significant, and mind-blowingly awesome event that has ever happened in venture capital," Narasin, founding partner of Tenacity Venture Capital, told CNBC in an interview, adding that he didn't even invest in the company.
-Anthropic raised a record $93.5 billion in its IPO and an additional $26 billion from tech giants that bought at the offer price. The stock gained 17% in its debut on Thursday, lifting Anthropic's market cap to $1.8 trillion and providing a much-needed windfall for Silicon Valley's startup ecosystem.
-It was quite the split-screen moment on Wall Street, which spent the week in an AI-driven tailspin. Led by Nvidia's 23% plunge, which marked the stock's sharpest weekly pullback in 18 years, the Nasdaq slid 10% over the past five trading days in its worst week since the early days of Covid in 2020.
-Investors and analysts spent the week debating whether Anthropic will trade alongside AI hardware, as it's reliant on advanced chips, memory and data centers, or whether it will stand alone as the first public pure-play AI developer and a company that's achieved unrivaled growth in less than six years of existence.
-That question will likely persist for some time, but Friday's market action showed that Wall Street is skeptical of Anthropic's ability to grow into its lofty valuation. At week's end, the Claude creator's $1.6 trillion fully diluted market cap put it behind just six U.S. companies: Apple, Microsoft, Alphabet, Nvidia, Amazon and SpaceX.
-With the tech market in turmoil due to rising interest rates, raging anti-AI sentiment and Nvidia's C-suite crisis, Anthropic's IPO was part exuberance, part relief for an industry hungry for exits.
-After venture-backed IPOs yielded $73 billion in proceeds in 2021, the amount raised in the next four years totaled just $39 billion, according to data from University of Florida emeritus professor Jay Ritter. In 2021, 126 technology companies went public, compared with 34 in 2025.
-When going public was 'not worth it'
-Meanwhile, the private market has continued to balloon, with companies raising ever-larger sums at sky-high valuations without the pressures of quarterly earnings. Many startups that had hoped to go public early in the decade fell out of favor in the AI boom. They experienced hefty job cuts, down rounds and acquisitions for pennies on the dollar.
-"There was a time in Silicon Valley not that long ago where the prevailing wisdom was the default path should be avoiding going public for as long as possible," said Somesh Dash, a general partner at venture firm IVP. The view was, "it's too long, it's too hard, it's not worth it," he said.
-Anthropic is very young compared to some of those companies, but it was a huge collector of private capital. Investors poured $141 billion into the AI lab as of September, according to Anthropic's prospectus.
-For a few Silicon Valley firms that contributed to those funding rounds, the returns are unlike anything they've ever seen. At the IPO price, Menlo Ventures and Lightspeed Venture Partners each owned about $25 billion worth of Anthropic stock. Bessemer Venture Partners owned a stake worth roughly $10 billion, partner Byron Deeter said.
-Matt Murphy, a partner at Menlo, told CNBC's David Faber on Thursday that his firm has more than five limited partners "that we delivered over $1 billion of returns to."
-"At the end of the day, that's really our job, is to get dollars back into foundations and endowments," Murphy said. "There's a lot of pride in being able to do that."
-Bessemer's Deeter was also jubilant on Thursday, posting on X that, in addition to being "the largest bet in Bessemer's history," the IPO "is a punctuation mark in the history of both humanity and computation."
-That's quite a change from a few years earlier, when Anthropic was hardly generating revenue, and success was far from guaranteed. In 2023, Anthropic's Claude 2 was struggling to keep pace with models from Google and OpenAI. In April 2024, investors at Bessemer wrote in a memo that if Anthropic missed its own targets, there was "a good chance that we lose all or part of our money."
-Guru Chahal at Lightspeed told CNBC that Anthropic was clearly the team taking a more measured approach to AI. The company looked beyond Nvidia's dominant AI chips, choosing to use alternatives from Amazon and Google as well. Anthropic said it generated $1.72 in revenue per dollar spent on computing power in the third quarter, up from 68 cents a year earlier.
-"It is true that it required lots of capital, but when you dig in and you realize that capital is going toward compute, and this is the team that's positioned to use that compute in the most effective way, then we could connect those dots," Chahal said. He added that those metrics showed it was "going to be a very high-quality business."
-IPO pipeline?
-Anthropic isn't the only big win for VCs this year.
-Five months before Anthropic's Nasdaq debut, SpaceX hit the market in what, until this week, was by far the largest IPO in history. SpaceX, which Elon Musk founded in 2002, produced outsized returns for firms including Sequoia and Andreessen Horowitz.
-SpaceX and Anthropic alone will make 2026 a monster year for the venture industry, easily exceeding any other year in IPO proceeds. And investors in OpenAI hope appetite remains strong for trillion-dollar companies next year, as the ChatGPT maker is looking to 2027 for a potential offering.
-IVP's Dash said that in his AI portfolio, "a lot of companies are starting IPO prep" even if it's only "year four, year five, year six since inception." He hopes to see at least half a dozen companies go public at valuations north of $10 billion each in the second half of 2027.
-The macro picture, however, is ominous.
-Jensen Huang's sudden departure from Nvidia has left the chip giant without a clear leader at a time when the company already faced heightened concerns about a slowdown in spending. Nvidia is a key investor in Anthropic and OpenAI and a critical supplier and financing partner for the entire AI industry, which is getting hammered across the board.
-In January, Democrats will take control of the House and Senate after this month's midterm elections, which included the passage of numerous ballot measures that could stymie data center development. Anthropic investor Brad Gerstner predicted after the election that market dynamics would push Anthropic to price toward the lower end of its range.
-Narasin said he wasn't even sure the company would get that far.
-"I was concerned they'd delay," Narasin said.
-That makes the outcome that much more impressive, he said, after Anthropic priced above its expected range and upsized the offering.
-"This will be bedtime stories for years for future VCs," Narasin said. "There was a company that was created, backed by angels and later venture" that in a few short years "became the single biggest IPO of all history."
-— CNBC's Ari Levy contributed to this report.
-WATCH: I like owning Anthropic over the long term, says Gabelli Funds' John Belton`,
-    bodyJa: `Startup investor Ben Narasin is so jazzed about Anthropic's blockbuster IPO that he's planning a party later this month at his Silicon Valley home. Sake, vodka and Krug Champagne will be served. Each attendee will be given two jars of caviar.
-"This is a celebration of the most material, significant, and mind-blowingly awesome event that has ever happened in venture capital," Narasin, founding partner of Tenacity Venture Capital, told CNBC in an interview, adding that he didn't even invest in the company.
-Anthropic raised a record $93.5 billion in its IPO and an additional $26 billion from tech giants that bought at the offer price. The stock gained 17% in its debut on Thursday, lifting Anthropic's market cap to $1.8 trillion and providing a much-needed windfall for Silicon Valley's startup ecosystem.
-It was quite the split-screen moment on Wall Street, which spent the week in an AI-driven tailspin. Led by Nvidia's 23% plunge, which marked the stock's sharpest weekly pullback in 18 years, the Nasdaq slid 10% over the past five trading days in its worst week since the early days of Covid in 2020.
-Investors and analysts spent the week debating whether Anthropic will trade alongside AI hardware, as it's reliant on advanced chips, memory and data centers, or whether it will stand alone as the first public pure-play AI developer and a company that's achieved unrivaled growth in less than six years of existence.
-That question will likely persist for some time, but Friday's market action showed that Wall Street is skeptical of Anthropic's ability to grow into its lofty valuation. At week's end, the Claude creator's $1.6 trillion fully diluted market cap put it behind just six U.S. companies: Apple, Microsoft, Alphabet, Nvidia, Amazon and SpaceX.
-With the tech market in turmoil due to rising interest rates, raging anti-AI sentiment and Nvidia's C-suite crisis, Anthropic's IPO was part exuberance, part relief for an industry hungry for exits.
-After venture-backed IPOs yielded $73 billion in proceeds in 2021, the amount raised in the next four years totaled just $39 billion, according to data from University of Florida emeritus professor Jay Ritter. In 2021, 126 technology companies went public, compared with 34 in 2025.
-When going public was 'not worth it'
-Meanwhile, the private market has continued to balloon, with companies raising ever-larger sums at sky-high valuations without the pressures of quarterly earnings. Many startups that had hoped to go public early in the decade fell out of favor in the AI boom. They experienced hefty job cuts, down rounds and acquisitions for pennies on the dollar.
-"There was a time in Silicon Valley not that long ago where the prevailing wisdom was the default path should be avoiding going public for as long as possible," said Somesh Dash, a general partner at venture firm IVP. The view was, "it's too long, it's too hard, it's not worth it," he said.
-Anthropic is very young compared to some of those companies, but it was a huge collector of private capital. Investors poured $141 billion into the AI lab as of September, according to Anthropic's prospectus.
-For a few Silicon Valley firms that contributed to those funding rounds, the returns are unlike anything they've ever seen. At the IPO price, Menlo Ventures and Lightspeed Venture Partners each owned about $25 billion worth of Anthropic stock. Bessemer Venture Partners owned a stake worth roughly $10 billion, partner Byron Deeter said.
-Matt Murphy, a partner at Menlo, told CNBC's David Faber on Thursday that his firm has more than five limited partners "that we delivered over $1 billion of returns to."
-"At the end of the day, that's really our job, is to get dollars back into foundations and endowments," Murphy said. "There's a lot of pride in being able to do that."
-Bessemer's Deeter was also jubilant on Thursday, posting on X that, in addition to being "the largest bet in Bessemer's history," the IPO "is a punctuation mark in the history of both humanity and computation."
-That's quite a change from a few years earlier, when Anthropic was hardly generating revenue, and success was far from guaranteed. In 2023, Anthropic's Claude 2 was struggling to keep pace with models from Google and OpenAI. In April 2024, investors at Bessemer wrote in a memo that if Anthropic missed its own targets, there was "a good chance that we lose all or part of our money."
-Guru Chahal at Lightspeed told CNBC that Anthropic was clearly the team taking a more measured approach to AI. The company looked beyond Nvidia's dominant AI chips, choosing to use alternatives from Amazon and Google as well. Anthropic said it generated $1.72 in revenue per dollar spent on computing power in the third quarter, up from 68 cents a year earlier.
-"It is true that it required lots of capital, but when you dig in and you realize that capital is going toward compute, and this is the team that's positioned to use that compute in the most effective way, then we could connect those dots," Chahal said. He added that those metrics showed it was "going to be a very high-quality business."
-IPO pipeline?
-Anthropic isn't the only big win for VCs this year.
-Five months before Anthropic's Nasdaq debut, SpaceX hit the market in what, until this week, was by far the largest IPO in history. SpaceX, which Elon Musk founded in 2002, produced outsized returns for firms including Sequoia and Andreessen Horowitz.
-SpaceX and Anthropic alone will make 2026 a monster year for the venture industry, easily exceeding any other year in IPO proceeds. And investors in OpenAI hope appetite remains strong for trillion-dollar companies next year, as the ChatGPT maker is looking to 2027 for a potential offering.
-IVP's Dash said that in his AI portfolio, "a lot of companies are starting IPO prep" even if it's only "year four, year five, year six since inception." He hopes to see at least half a dozen companies go public at valuations north of $10 billion each in the second half of 2027.
-The macro picture, however, is ominous.
-Jensen Huang's sudden departure from Nvidia has left the chip giant without a clear leader at a time when the company already faced heightened concerns about a slowdown in spending. Nvidia is a key investor in Anthropic and OpenAI and a critical supplier and financing partner for the entire AI industry, which is getting hammered across the board.
-In January, Democrats will take control of the House and Senate after this month's midterm elections, which included the passage of numerous ballot measures that could stymie data center development. Anthropic investor Brad Gerstner predicted after the election that market dynamics would push Anthropic to price toward the lower end of its range.
-Narasin said he wasn't even sure the company would get that far.
-"I was concerned they'd delay," Narasin said.
-That makes the outcome that much more impressive, he said, after Anthropic priced above its expected range and upsized the offering.
-"This will be bedtime stories for years for future VCs," Narasin said. "There was a company that was created, backed by angels and later venture" that in a few short years "became the single biggest IPO of all history."
-— CNBC's Ari Levy contributed to this report.
-WATCH: I like owning Anthropic over the long term, says Gabelli Funds' John Belton`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
-    publishedAt: "2026-11-21T16:40:05+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "tech-outages-are-fueling-a-new-doomsday-a9237249",
-    title: "Tech outages are fueling a new doomsday economy",
-    titleJa: "Tech outages are fueling a new doomsday economy",
-    summaryJa: "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.",
-    bodyOriginal: `Americans are shopping like there's no tomorrow.
-A spate of high-profile technology outages that grounded planes, halted email access and slowed bank transactions have left many people worried about artificial intelligence-driven cyberattacks and the state of the U.S. energy grid.
-Government officials have dismissed rumors and speculation circulating online that there could be a nefarious culprit for the series of malfunctions. Despite those assurances, consumers like Sabrina Cepeda are readying for a larger-scale technology blackout or other emergency event.
-In recent days, the Houston resident has purchased propane and lighter fluid for cooking and heating equipment that can be used without electricity. The mother of three also replenished her backup stockpiles of non-perishable foods, hygiene products and allergy medicine in the event that her family is homebound for several days.
-"I have a way to keep my family fed, clean, hydrated, warm and safe," said Cepeda, 39. "You want to have these things and not need them, rather than need them and not have them."
-The doomsday economy is catching a bid. Wall Street and retailers are taking note.
-Emergency prep buying
-At least half a dozen major technology outages took place in the U.S. between Nov. 12 and Nov. 17. In that time frame, spending at brands specializing in emergency products spiked about 400% compared with the same period a year prior, according to card data analyzed exclusively for CNBC by Consumer Edge.
-At Ready America, which sells products like emergency survival kits, prepackaged water and high-calorie food bars, sales through e-commerce platforms have seen a roughly five-fold increase in recent days. In addition, corporate customers who keep the Vista, California-based company's supplies in their offices in case of emergency have called in to order more.
-The company has rarely seen this much demand since the Covid pandemic sent Americans into lockdown more than six years ago, said Ready America President Trevyn Reese. As a result, Ready America asked its suppliers to scale up production. The family-owned business has faced a shortage of water purification tablets, and redirected shoppers to alternative offerings like prepackaged water pouches.
-"With everything going on in the news right now, we've seen a large spike of people wanting to get prepared," said Reese.
-While the string of outages brought power-related concerns to a boiling point, data shows that worries had been bubbling under the surface for weeks.
-Shoppers began significantly ramping up buying from emergency preparedness brands late last month, according to Consumer Edge. Around that time, Fox News reported that the Pentagon was preparing U.S. military bases to operate for at least 90 days without external support. Exacerbating those fears was the ongoing war with Iran that President Donald Trump signaled could ramp back up.
-Firearm trade group NSSF said that gun sales rose about 8% in October from the same month a year prior. Retailers and gun manufacturers have anecdotally reported that demand has remained elevated into November, which NSSF said can be attributed to a combination of uncertainty tied to the midterm election and the recent outages.
-"If people are investing in firearms and ammunition, they're telling you very directly, with their wallet, what their priority is," said Mark Oliva, NSSF's managing director of public affairs. "You're literally investing in a product that's going to be able to protect your life and protect the lives of your family."
-'Apocalyptic concerns'
-Now, the doomsday talk has begun making its way to Wall Street.
-Mizuho told clients on Monday that consumer worries about the outages — coupled with what the bank called "apocalyptic concerns" swirling on social media — drove shoppers to stock up on emergency supplies at Costco. As a result, Mizuho said it expects a key measure of non-fuel sales growth for Costco in November to rise above 10% for the first time since 2022.
-And RBC said so-called doomsday prepping has had a "real impact" on buying behavior around the globe over recent weeks. Still, the Canadian bank reported that the trend has so far boosted sales for only a small basket of items, such as shelf-stable proteins, water purification products and dry-pantry foods.
-Clients of Richard McWhorter, a private wealth advisor at SRM, have been rushing to Costco to buy goods in bulk and splurging for power generators. McWhorter said he's also fielded questions about how to prepare for a situation in which the financial system goes down.
-"I've never seen anything like this in my life," McWhorter said. "There's the financial side of what I do, and then there's the psychological side. And the past two weeks have been much more psychological."
-Metal dealer American Hartford Gold reported an uptick in customer inquiries this week. Company president Max Baecker said he heard from some customers that their interest in products like gold — long considered a safe-haven asset during times of turmoil — was driven by newfound concern about being overly reliant on digital financial networks following a glitch at JPMorgan Chase that affected customer transactions for several hours.
-Vice President JD Vance abruptly canceled his appearance at a New York Times summit on Wednesday to attend meetings about the technology outages. A day prior, Jay Clayton, the U.S. director of national intelligence, told CNBC that the recent outages were not a cyberattack or a coordinated effort by a foreign nation.
-Still, Sen. Mark Warner, D-Va., told CNBC on Wednesday that people were "freaked out" by the outages. Warner, who acts as the vice chairman of the Senate Intelligence Committee, said that the U.S. was "lucky" to have not yet seen a major AI-generated cyberattack or crisis due to AI agents going rogue.
-Investors may begin pushing companies to accelerate their cybersecurity spending out of an abundance of caution around rogue AI agents following the outages, according to Macro Hive CEO Bilal Hafeez. Such a situation would be reminiscent of the antivirus software push seen during the dot-com boom, he said.
-The Global X Cybersecurity ETF (BUG) has climbed around 3% over the past two weeks, bucking the downtrend seen among AI stocks and the broader technology trade. The Nasdaq Composite on Friday fell into negative territory for 2026, putting the tech-heavy index on track for its first losing year since 2022.
-The 'old-fashioned way'
-To be sure, not everyone on social media has bought into the idea that they should be prepping for a doomsday scenario. In satirical videos posted on TikTok, users joked that they were gearing up by placing orders in the Starbucks drive-thru or purchasing significant quantities of alcohol.
-Still, the topic appears to be on the minds of a growing number of Americans. U.S. Google searches for the term "prepping" have more than doubled when comparing the past month with the same period a year prior. On YouTube, queries for videos about "survivalism," a term describing the practice of preparing for emergencies, have soared by more than 5,000% over the same time frame.
-Cepeda, the Houston mom, sees emergency prep efforts as a way to be safe rather than sorry. She's previously tapped into backup food stashes during extreme weather events like Hurricane Harvey in 2017 and Winter Storm Uri in 2021.
-But this year is the first time that she's felt she needed to be prepared for a potential emergency caused by technology outages, she said. Cepeda and her husband have ensured they have enough cash on hand and fuel in their cars if there's a broader hit to the U.S. power grid, she said.
-"We rely so much on technology," Cepeda said. "You need to be able to do these things the more traditional, old-fashioned way."`,
-    bodyJa: `Americans are shopping like there's no tomorrow.
-A spate of high-profile technology outages that grounded planes, halted email access and slowed bank transactions have left many people worried about artificial intelligence-driven cyberattacks and the state of the U.S. energy grid.
-Government officials have dismissed rumors and speculation circulating online that there could be a nefarious culprit for the series of malfunctions. Despite those assurances, consumers like Sabrina Cepeda are readying for a larger-scale technology blackout or other emergency event.
-In recent days, the Houston resident has purchased propane and lighter fluid for cooking and heating equipment that can be used without electricity. The mother of three also replenished her backup stockpiles of non-perishable foods, hygiene products and allergy medicine in the event that her family is homebound for several days.
-"I have a way to keep my family fed, clean, hydrated, warm and safe," said Cepeda, 39. "You want to have these things and not need them, rather than need them and not have them."
-The doomsday economy is catching a bid. Wall Street and retailers are taking note.
-Emergency prep buying
-At least half a dozen major technology outages took place in the U.S. between Nov. 12 and Nov. 17. In that time frame, spending at brands specializing in emergency products spiked about 400% compared with the same period a year prior, according to card data analyzed exclusively for CNBC by Consumer Edge.
-At Ready America, which sells products like emergency survival kits, prepackaged water and high-calorie food bars, sales through e-commerce platforms have seen a roughly five-fold increase in recent days. In addition, corporate customers who keep the Vista, California-based company's supplies in their offices in case of emergency have called in to order more.
-The company has rarely seen this much demand since the Covid pandemic sent Americans into lockdown more than six years ago, said Ready America President Trevyn Reese. As a result, Ready America asked its suppliers to scale up production. The family-owned business has faced a shortage of water purification tablets, and redirected shoppers to alternative offerings like prepackaged water pouches.
-"With everything going on in the news right now, we've seen a large spike of people wanting to get prepared," said Reese.
-While the string of outages brought power-related concerns to a boiling point, data shows that worries had been bubbling under the surface for weeks.
-Shoppers began significantly ramping up buying from emergency preparedness brands late last month, according to Consumer Edge. Around that time, Fox News reported that the Pentagon was preparing U.S. military bases to operate for at least 90 days without external support. Exacerbating those fears was the ongoing war with Iran that President Donald Trump signaled could ramp back up.
-Firearm trade group NSSF said that gun sales rose about 8% in October from the same month a year prior. Retailers and gun manufacturers have anecdotally reported that demand has remained elevated into November, which NSSF said can be attributed to a combination of uncertainty tied to the midterm election and the recent outages.
-"If people are investing in firearms and ammunition, they're telling you very directly, with their wallet, what their priority is," said Mark Oliva, NSSF's managing director of public affairs. "You're literally investing in a product that's going to be able to protect your life and protect the lives of your family."
-'Apocalyptic concerns'
-Now, the doomsday talk has begun making its way to Wall Street.
-Mizuho told clients on Monday that consumer worries about the outages — coupled with what the bank called "apocalyptic concerns" swirling on social media — drove shoppers to stock up on emergency supplies at Costco. As a result, Mizuho said it expects a key measure of non-fuel sales growth for Costco in November to rise above 10% for the first time since 2022.
-And RBC said so-called doomsday prepping has had a "real impact" on buying behavior around the globe over recent weeks. Still, the Canadian bank reported that the trend has so far boosted sales for only a small basket of items, such as shelf-stable proteins, water purification products and dry-pantry foods.
-Clients of Richard McWhorter, a private wealth advisor at SRM, have been rushing to Costco to buy goods in bulk and splurging for power generators. McWhorter said he's also fielded questions about how to prepare for a situation in which the financial system goes down.
-"I've never seen anything like this in my life," McWhorter said. "There's the financial side of what I do, and then there's the psychological side. And the past two weeks have been much more psychological."
-Metal dealer American Hartford Gold reported an uptick in customer inquiries this week. Company president Max Baecker said he heard from some customers that their interest in products like gold — long considered a safe-haven asset during times of turmoil — was driven by newfound concern about being overly reliant on digital financial networks following a glitch at JPMorgan Chase that affected customer transactions for several hours.
-Vice President JD Vance abruptly canceled his appearance at a New York Times summit on Wednesday to attend meetings about the technology outages. A day prior, Jay Clayton, the U.S. director of national intelligence, told CNBC that the recent outages were not a cyberattack or a coordinated effort by a foreign nation.
-Still, Sen. Mark Warner, D-Va., told CNBC on Wednesday that people were "freaked out" by the outages. Warner, who acts as the vice chairman of the Senate Intelligence Committee, said that the U.S. was "lucky" to have not yet seen a major AI-generated cyberattack or crisis due to AI agents going rogue.
-Investors may begin pushing companies to accelerate their cybersecurity spending out of an abundance of caution around rogue AI agents following the outages, according to Macro Hive CEO Bilal Hafeez. Such a situation would be reminiscent of the antivirus software push seen during the dot-com boom, he said.
-The Global X Cybersecurity ETF (BUG) has climbed around 3% over the past two weeks, bucking the downtrend seen among AI stocks and the broader technology trade. The Nasdaq Composite on Friday fell into negative territory for 2026, putting the tech-heavy index on track for its first losing year since 2022.
-The 'old-fashioned way'
-To be sure, not everyone on social media has bought into the idea that they should be prepping for a doomsday scenario. In satirical videos posted on TikTok, users joked that they were gearing up by placing orders in the Starbucks drive-thru or purchasing significant quantities of alcohol.
-Still, the topic appears to be on the minds of a growing number of Americans. U.S. Google searches for the term "prepping" have more than doubled when comparing the past month with the same period a year prior. On YouTube, queries for videos about "survivalism," a term describing the practice of preparing for emergencies, have soared by more than 5,000% over the same time frame.
-Cepeda, the Houston mom, sees emergency prep efforts as a way to be safe rather than sorry. She's previously tapped into backup food stashes during extreme weather events like Hurricane Harvey in 2017 and Winter Storm Uri in 2021.
-But this year is the first time that she's felt she needed to be prepared for a potential emergency caused by technology outages, she said. Cepeda and her husband have ensured they have enough cash on hand and fuel in their cars if there's a broader hit to the U.S. power grid, she said.
-"We rely so much on technology," Cepeda said. "You need to be able to do these things the more traditional, old-fashioned way."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
-    publishedAt: "2026-11-21T15:04:56+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "zelensky-says-crimean-bridge-strikes-fai-43786a9b",
-    title: "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-    titleJa: "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-    summaryJa: "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-    bodyOriginal: `Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting
-- Published
-Ukrainian President Volodymyr Zelensky has justified Kyiv's repeated attacks on a critical bridge linking Russia to occupied Crimea, calling it a "fair response" to 109 separate Russian attacks on bridges in Ukraine.
-In comments to the BBC in Kyiv, Zelensky said the intense attacks on Ukraine by Russia that have followed the strikes on the Crimean Bridge were only a "signal that Vladimir Putin does not want to stop. He wants a reason to escalate".
-He rejected the claim by the Russian president that the bridge - which links Russia to the peninsula it illegally annexed from Ukraine - was "exclusively civilian" in use.
-"There are facts, not just the words of Putin. We can see," he said.
-The Ukrainian president pointed to images online of tanks and other Russian military hardware using the route from Russia into occupied Crimea as a supply line and for logistics.
-"If Putin used the internet, he could see that."
-The Ukrainian president added that Russia had carried out attacks with missiles and drones on bridges in Ukraine.
-This week's combined missile-and-drone strikes by Ukrainian forces destroyed the central road section of the Crimean Bridge, collapsing part of it together with one of the two support arches into the sea and rendering the structure unusable for road traffic.
-Russian attacks on Ukraine continued on Friday evening and overnight: a seven-year-old boy was killed in missile and drone strikes on Zelensky's hometown of Kryvyi Rih in the central Dnipropetrovsk region. Local officials say he had been in a playground at the time.
-A 20-year-old female medic was also killed. A local official added that when rescuers rushed to the scene, the same site was targeted again with jet powered drones. Another 58 people were injured in the city.
-Ukraine's state emergency service DSNS said 11 people were also injured in the north-eastern Kharkiv region, and one person in Rivne, in the north-west.
-Russia launched its full-scale invasion of Ukraine in February 2022.
-Zelensky was speaking ahead of a meeting in Kyiv with UK Defence Secretary Wes Streeting, who told the Ukrainian president he was here to show that Europe was united in its support.
-"The more Putin tries to divide us, the more resolute we become," Streeting said.
-He said that Russian missiles hitting Poland on Friday, during military exercises of the so-called Coalition of the Willing, was an "outrageous provocation".
-The timing, Streeting said, seemed "more than a coincidence".
-Asked by the BBC about Nato's response, he said the best way was to "do more for Ukraine" to defend itself against Putin who he called a "cold-blooded killer".
-Streeting's description of Putin chimed with the comments made earlier by Zelensky, who described the Kremlin leader a "killer". This was done in response to US President Donald Trump referring this week to Putin as his "friend".
-Streeting's visit to Kyiv came after European leaders meeting in Berlin on Thursday alongside US envoys said they were ready for negotiations with Moscow on ending the war in Ukraine.
-"Europe has a clear and consistent and united negotiating position," UK Prime Minister Andy Burnham said, while German Chancellor Friedrich Merz stressed that Moscow's "maximalist demands are not realistic".
-Donald Trump's son-in-law Jared Kushner, one of the two US envoys who were in Berlin, said the US president - who had also dialled into the meeting from Air Force One - wanted to make a deal with Moscow "with Europe by his side".
-Russia's Vladimir Putin has so far rejected any European role in the US-led peace talks - but earlier this week he invited European representatives to Moscow as it wanted to clarify "what Europe will bring to these talks".
-That meeting in the German capital came hours after Putin had held historic trilateral talks in Shenzhen, China, with Trump and Chinese President Xi Jinping.
-Zelensky said he had been "sceptical" ahead of the latest round of talks, when US envoys claimed that Russia was prepared to make compromises to end the war.
-"I thought [Putin] would find reason to escalate."
-Speaking to the BBC, Streeting added: "Putin has absolutely no business playing the victim. He is the aggressor in this war. He provoked an illegal invasion of Ukraine. And all of us, right throughout the world, need to judge Putin not on his words, but on his actions."
-In a separate development on Saturday, Finland said it "detected a drone strike on a Russian merchant vessel" in the eastern Gulf of Finland, "in an international maritime area".
-The Finnish defence ministry said in a statement that the vessel was damaged, without giving any further details.
-It added that "temporary restrictions on aviation and maritime areas in the eastern Gulf of Finland" were now reinstated for safety reasons.
-Russia has not publicly commented on the issue.
-Related topics
-- Published3 days ago
-- Published2 days ago`,
-    bodyJa: `Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting
-- Published
-Ukrainian President Volodymyr Zelensky has justified Kyiv's repeated attacks on a critical bridge linking Russia to occupied Crimea, calling it a "fair response" to 109 separate Russian attacks on bridges in Ukraine.
-In comments to the BBC in Kyiv, Zelensky said the intense attacks on Ukraine by Russia that have followed the strikes on the Crimean Bridge were only a "signal that Vladimir Putin does not want to stop. He wants a reason to escalate".
-He rejected the claim by the Russian president that the bridge - which links Russia to the peninsula it illegally annexed from Ukraine - was "exclusively civilian" in use.
-"There are facts, not just the words of Putin. We can see," he said.
-The Ukrainian president pointed to images online of tanks and other Russian military hardware using the route from Russia into occupied Crimea as a supply line and for logistics.
-"If Putin used the internet, he could see that."
-The Ukrainian president added that Russia had carried out attacks with missiles and drones on bridges in Ukraine.
-This week's combined missile-and-drone strikes by Ukrainian forces destroyed the central road section of the Crimean Bridge, collapsing part of it together with one of the two support arches into the sea and rendering the structure unusable for road traffic.
-Russian attacks on Ukraine continued on Friday evening and overnight: a seven-year-old boy was killed in missile and drone strikes on Zelensky's hometown of Kryvyi Rih in the central Dnipropetrovsk region. Local officials say he had been in a playground at the time.
-A 20-year-old female medic was also killed. A local official added that when rescuers rushed to the scene, the same site was targeted again with jet powered drones. Another 58 people were injured in the city.
-Ukraine's state emergency service DSNS said 11 people were also injured in the north-eastern Kharkiv region, and one person in Rivne, in the north-west.
-Russia launched its full-scale invasion of Ukraine in February 2022.
-Zelensky was speaking ahead of a meeting in Kyiv with UK Defence Secretary Wes Streeting, who told the Ukrainian president he was here to show that Europe was united in its support.
-"The more Putin tries to divide us, the more resolute we become," Streeting said.
-He said that Russian missiles hitting Poland on Friday, during military exercises of the so-called Coalition of the Willing, was an "outrageous provocation".
-The timing, Streeting said, seemed "more than a coincidence".
-Asked by the BBC about Nato's response, he said the best way was to "do more for Ukraine" to defend itself against Putin who he called a "cold-blooded killer".
-Streeting's description of Putin chimed with the comments made earlier by Zelensky, who described the Kremlin leader a "killer". This was done in response to US President Donald Trump referring this week to Putin as his "friend".
-Streeting's visit to Kyiv came after European leaders meeting in Berlin on Thursday alongside US envoys said they were ready for negotiations with Moscow on ending the war in Ukraine.
-"Europe has a clear and consistent and united negotiating position," UK Prime Minister Andy Burnham said, while German Chancellor Friedrich Merz stressed that Moscow's "maximalist demands are not realistic".
-Donald Trump's son-in-law Jared Kushner, one of the two US envoys who were in Berlin, said the US president - who had also dialled into the meeting from Air Force One - wanted to make a deal with Moscow "with Europe by his side".
-Russia's Vladimir Putin has so far rejected any European role in the US-led peace talks - but earlier this week he invited European representatives to Moscow as it wanted to clarify "what Europe will bring to these talks".
-That meeting in the German capital came hours after Putin had held historic trilateral talks in Shenzhen, China, with Trump and Chinese President Xi Jinping.
-Zelensky said he had been "sceptical" ahead of the latest round of talks, when US envoys claimed that Russia was prepared to make compromises to end the war.
-"I thought [Putin] would find reason to escalate."
-Speaking to the BBC, Streeting added: "Putin has absolutely no business playing the victim. He is the aggressor in this war. He provoked an illegal invasion of Ukraine. And all of us, right throughout the world, need to judge Putin not on his words, but on his actions."
-In a separate development on Saturday, Finland said it "detected a drone strike on a Russian merchant vessel" in the eastern Gulf of Finland, "in an international maritime area".
-The Finnish defence ministry said in a statement that the vessel was damaged, without giving any further details.
-It added that "temporary restrictions on aviation and maritime areas in the eastern Gulf of Finland" were now reinstated for safety reasons.
-Russia has not publicly commented on the issue.
-Related topics
-- Published3 days ago
-- Published2 days ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-21T13:17:38+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg",
-    readTime: 10,
-  },
-  {
-    id: "state-and-federal-battle-over-prediction-2e3d2cc8",
-    title: "State and federal battle over prediction markets regulation heats up after midterms",
-    titleJa: "State and federal battle over prediction markets regulation heats up after midterms",
-    summaryJa: "States, Congress and the CFTC are escalating the fight over prediction market regulation after the midterms.",
-    bodyOriginal: `The turf war between states and the federal government is intensifying after Democrats secured control of Congress and key governorships on midterm elections night.
-While it was widely expected Democrats would step up oversight of the emerging, multibillion-dollar industry if they won control of Congress, the actions after the elections have come from primarily Republican-led states.
-At the same time, the Commodity Futures Trading Commission — the federal regulator for prediction markets — has ramped up its oversight of "mention" markets, where traders speculate on what individuals will say during a speech or broadcast. It's a type of event contract the agency has said is susceptible to manipulation.
-CNBC first reported on Tuesday that the CFTC placed a hold on the certification of markets related to President Donald Trump's words in mid-November. Kalshi said it was complying with the order, but CEO Tarek Mansour said at an Axios event on Tuesday that the company disagreed with the regulatory decision.
-On Thursday, the Senate passed a bipartisan bill that would ban CFTC-registered entities from listing contracts involving terrorism, assassination, war or military operations. The measure also bars contracts that are "reasonably expected" to resolve based on an individual's death.
-Criminal charges, restraining order, lawsuits
-Utah Attorney General Derek Brown filed 14 criminal charges against Kalshi and its founders, Mansour and Luana Lopes Lara, on Oct. 28, asserting the company violated a state law that prohibits gambling.
-Kalshi's founders are expected to appear in person at Utah's Third District Court on Dec. 4, according to court documents.
-"This is a crazy overreach; Utah is clearly playing politics. We look forward to putting a stop to this in court, just like we did in Arizona," said Kalshi's spokesperson Dani Lever.
-In a separate, civil complaint on Oct. 20, Utah also named institutional market maker Susquehanna International Group as a defendant, along with Kalshi.
-Though Arizona Attorney General Kris Mayes filed a criminal complaint against Kalshi in March, a federal judge blocked the case from proceeding in April.
-Louisiana's Republican attorney general also filed a complaint to ban multiple exchanges from operating in the state on Nov. 12. A state judge ordered a temporary restraining order against the prediction market companies that same day.
-"Who would have thought that these red states, that were reluctant to jump into the litigation arena, ended up having the most boldest and most innovative solutions," said gambling attorney Daniel Wallach, noting that Louisiana and Utah's latest lawsuits were led by Republican attorneys general.
-In response, the CFTC sued Louisiana on Nov. 13. Separately, the federal agency filed suit against Arkansas after that state pursued civil enforcement against Kalshi.
-The CFTC has sued 12 states as it tries to defend what it views as its exclusive jurisdiction to regulate prediction markets.
-Meanwhile, the CFTC may soon add commissioners. President Donald Trump sent bipartisan nominations to the U.S. Senate on Nov. 12 to fill two of the four open seats on the commission. Chairman Michael Selig has been the only member since his nomination was approved by the Senate in December 2025.
-Nathan Anonick, a Republican, and Matthew Rowland, a Democrat, appeared before the Senate Agriculture Committee on Tuesday. Multiple senators questioned them on the issue of prediction markets. Both demurred when asked whether they viewed sports-related event contracts as gambling.
-Kalshi loses in Maryland
-The CFTC's position faced another setback in a complicated decision by the Fourth U.S. Circuit Court of Appeals this week. The court ruled 2-1 that Maryland can enforce its state gambling law against Kalshi, though the judges disagreed on the reasoning.
-"Judges can't agree with each other on why we're wrong," Kalshi spokesperson Elisabeth Diana said in a statement about the decision. "This splintered decision, including three separate contradictory opinions, demonstrates there is no unified coherent legal argument against prediction markets."
-Overall, prediction markets have now seen three losses and one win at the circuit court level. It's widely expected the question of whether states or the federal government can regulate sports-related event contracts will be decided by the Supreme Court.
-Donald Trump Jr. parts ways with Kalshi
-Kalshi on Nov. 12 ended its advisory relationship with Donald Trump Jr. The prediction platform pointed to his venture capital firm 1789 Capital having a stake in rival platform Polymarket.
-Though 1789 Capital announced its holding in Polymarket in August, Kalshi and the president's son ended their relationship after Democrats secured a majority in the House and Senate. Democratic lawmakers are expected to probe companies with relationships to the Trump family.
-Nine Democratic senators, led by Adam Schiff, D-California, on Monday sent a letter to the CFTC asking it to reverse a directive to platforms not to geofence their offerings when they receive unfavorable court rulings stopping exchanges from operating in certain states.
-Geofencing involves the use of location technology to block users in certain jurisdictions from participating in events contracts.
-"Your unilateral decision directly conflicts with active court orders, undermines state and tribal law, and must be reversed," the senators wrote.
-Meanwhile, Democratic Rep. Ro Khanna, D-California, has called for Congress to ban sports-related prediction markets entirely.
-"Kalshi, a $40B company, lets 18 year olds bet on sports. They call it a 'prediction market.' It's gambling," he wrote in a post on X on Wednesday. "Investigate and ban sports prediction markets."
-Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.`,
-    bodyJa: `The turf war between states and the federal government is intensifying after Democrats secured control of Congress and key governorships on midterm elections night.
-While it was widely expected Democrats would step up oversight of the emerging, multibillion-dollar industry if they won control of Congress, the actions after the elections have come from primarily Republican-led states.
-At the same time, the Commodity Futures Trading Commission — the federal regulator for prediction markets — has ramped up its oversight of "mention" markets, where traders speculate on what individuals will say during a speech or broadcast. It's a type of event contract the agency has said is susceptible to manipulation.
-CNBC first reported on Tuesday that the CFTC placed a hold on the certification of markets related to President Donald Trump's words in mid-November. Kalshi said it was complying with the order, but CEO Tarek Mansour said at an Axios event on Tuesday that the company disagreed with the regulatory decision.
-On Thursday, the Senate passed a bipartisan bill that would ban CFTC-registered entities from listing contracts involving terrorism, assassination, war or military operations. The measure also bars contracts that are "reasonably expected" to resolve based on an individual's death.
-Criminal charges, restraining order, lawsuits
-Utah Attorney General Derek Brown filed 14 criminal charges against Kalshi and its founders, Mansour and Luana Lopes Lara, on Oct. 28, asserting the company violated a state law that prohibits gambling.
-Kalshi's founders are expected to appear in person at Utah's Third District Court on Dec. 4, according to court documents.
-"This is a crazy overreach; Utah is clearly playing politics. We look forward to putting a stop to this in court, just like we did in Arizona," said Kalshi's spokesperson Dani Lever.
-In a separate, civil complaint on Oct. 20, Utah also named institutional market maker Susquehanna International Group as a defendant, along with Kalshi.
-Though Arizona Attorney General Kris Mayes filed a criminal complaint against Kalshi in March, a federal judge blocked the case from proceeding in April.
-Louisiana's Republican attorney general also filed a complaint to ban multiple exchanges from operating in the state on Nov. 12. A state judge ordered a temporary restraining order against the prediction market companies that same day.
-"Who would have thought that these red states, that were reluctant to jump into the litigation arena, ended up having the most boldest and most innovative solutions," said gambling attorney Daniel Wallach, noting that Louisiana and Utah's latest lawsuits were led by Republican attorneys general.
-In response, the CFTC sued Louisiana on Nov. 13. Separately, the federal agency filed suit against Arkansas after that state pursued civil enforcement against Kalshi.
-The CFTC has sued 12 states as it tries to defend what it views as its exclusive jurisdiction to regulate prediction markets.
-Meanwhile, the CFTC may soon add commissioners. President Donald Trump sent bipartisan nominations to the U.S. Senate on Nov. 12 to fill two of the four open seats on the commission. Chairman Michael Selig has been the only member since his nomination was approved by the Senate in December 2025.
-Nathan Anonick, a Republican, and Matthew Rowland, a Democrat, appeared before the Senate Agriculture Committee on Tuesday. Multiple senators questioned them on the issue of prediction markets. Both demurred when asked whether they viewed sports-related event contracts as gambling.
-Kalshi loses in Maryland
-The CFTC's position faced another setback in a complicated decision by the Fourth U.S. Circuit Court of Appeals this week. The court ruled 2-1 that Maryland can enforce its state gambling law against Kalshi, though the judges disagreed on the reasoning.
-"Judges can't agree with each other on why we're wrong," Kalshi spokesperson Elisabeth Diana said in a statement about the decision. "This splintered decision, including three separate contradictory opinions, demonstrates there is no unified coherent legal argument against prediction markets."
-Overall, prediction markets have now seen three losses and one win at the circuit court level. It's widely expected the question of whether states or the federal government can regulate sports-related event contracts will be decided by the Supreme Court.
-Donald Trump Jr. parts ways with Kalshi
-Kalshi on Nov. 12 ended its advisory relationship with Donald Trump Jr. The prediction platform pointed to his venture capital firm 1789 Capital having a stake in rival platform Polymarket.
-Though 1789 Capital announced its holding in Polymarket in August, Kalshi and the president's son ended their relationship after Democrats secured a majority in the House and Senate. Democratic lawmakers are expected to probe companies with relationships to the Trump family.
-Nine Democratic senators, led by Adam Schiff, D-California, on Monday sent a letter to the CFTC asking it to reverse a directive to platforms not to geofence their offerings when they receive unfavorable court rulings stopping exchanges from operating in certain states.
-Geofencing involves the use of location technology to block users in certain jurisdictions from participating in events contracts.
-"Your unilateral decision directly conflicts with active court orders, undermines state and tribal law, and must be reversed," the senators wrote.
-Meanwhile, Democratic Rep. Ro Khanna, D-California, has called for Congress to ban sports-related prediction markets entirely.
-"Kalshi, a $40B company, lets 18 year olds bet on sports. They call it a 'prediction market.' It's gambling," he wrote in a post on X on Wednesday. "Investigate and ban sports prediction markets."
-Disclosure: CNBC and Kalshi have a commercial relationship that includes customer acquisition and a minority investment.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/21/prediction-market-regulation-kalshi-cftc.html",
-    publishedAt: "2026-11-21T13:12:41+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "warren-buffett-quadruples-thanksgiving-g-25a2dbea",
-    title: "Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he's giving away",
-    titleJa: "Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he's giving away",
-    summaryJa: "Warren Buffett more than quadrupled his Thanksgiving donations to four family foundations this year to $5.5 billion.",
-    bodyOriginal: `(This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway. You can sign up here to receive it every Friday evening in your inbox.)
-Buffett says kindness 'compounds' as his Thanksgiving gifts soar
-Warren Buffett, 96, more than quadrupled his Thanksgiving donations to four family foundations this year to $5.5 billion.
-The gifts consist of Berkshire Class B shares that have been converted from his roughly $160 billion of Class A shares.
-The increase is in line with his new goal, announced last July, to give away all of his Berkshire Hathaway shares "within about eight years," with no additional annual donations going to the Gates Foundation.
-Around $2.2 billion of shares goes to the Susan Thompson Buffett Foundation, named for his late first wife, with the three foundations run by his children, Susie Buffett's Sherwood Foundation, the Howard G. Buffett Foundation, and Peter Buffett's NoVo Foundation each getting $1.1 billion each.
-In July of last year, Buffett gave shares worth $4.6 billion to the Gates Foundation with another $1.4 billion going to the family foundations.
-This July, the family foundations received $5.9 billion in stock, bringing the year's total to $11.4 billion, an increase of almost 55% from last year, even as the Gates Foundation received nothing.
-In comments included in the Berkshire news release this week announcing the new gifts, Buffett reaffirmed his confidence in his children's ability to disburse his fortune over time, saying they "have given thoughtfully to worthy causes for decades, and I trust 100% both their abilities and their fidelity."
-He also said his confidence in Berkshire is "as strong as ever."
-Recalling that in last year's lengthier Thanksgiving message he had said, "Kindness is costless but also priceless," Buffett wrote, " A year later, I would only add that it compounds, and at a better rate than anything Charlie [Munger] and I ever bought."
-"Both of us received beyond measurement costless benefits from a few teachers such as Ben Graham, Joe Rosenfield and Tom Murphy. Because of this we not only prospered mightily but were able to pass along many of the benefits we received.
-"Much of my good fortune has come in the form of people who were kind to me and expected nothing in return. I'm grateful to every one of them.
-"This Thanksgiving, thank one of those selfless people in your own life. Better yet, be a benefactor for someone else."
-Berkshire rally stalls but it's not as bad as S&P's AI selloff
-Berkshire Hathaway's fourth quarter rally that had produced a string of record highs cooled this week as both classes of its stock posted five straight daily declines.
-That sent them down 3.9% for the week.
-Last Friday, Berkshire was up 19.1% since October 1. Now that gain has been cut to 14.5%
-The S&P's decline of 8.6% this week, however, was even bigger than Berkshire's 5-day drop, as investors sold to lock in profits from AI-related stocks.
-The benchmark index, along with the Dow Industrials, are in a correction after falling 10% from their recent highs, and the Nasdaq Composite has erased all of its year-to-date gains.
-Berkshire's smaller decline increased its year-to-date outperformance of the S&P to 12.5 percentage points.
-One Wall Street firm, however, thinks Berkshire's run-up has run its course.
-Argus Research downgraded the B shares to hold from buy Friday, saying the stock is "fully valued" at about 25 times next year's estimate for operating earnings per share.
-Berkshire buys Delta, sells BofA in quiet quarter
-As foreshadowed by its 10-Q financial report released almost two weeks ago, Berkshire Hathaway's Q3 13F portfolio snapshot filed with the SEC on Monday showed it wasn't doing much buying and selling of equities this summer.
-And the two largest additions, Lennar and Bending Spoons, had been previously disclosed, along with additional purchases at the start of the fourth quarter.
-The most notable change we didn't expect was a 12% increase in Berkshire's Delta Air Lines position, bringing it just short of a 10% stake, now valued at $5.2 billion.
-Exceeding 10% triggers a number of regulatory burdens, including the requirement to promptly disclose new buying or selling, so we may not see additional purchases going forward.
-Delta's return to the portfolio after Warren Buffett sold all of Berkshire's airline stocks in 2020 has been something of a surprise given his bumpy ride with the industry over the years.
-As expected, Berkshire continued to trim its Bank of America stake. After nine consecutive quarters of sales, it's been cut by 56% but remains the fifth largest portfolio holding at $21.4 billion.
-Berkshire also cut another financial, Capital One, by almost 62%, although it was already a relatively small position, now worth $207 million.
-Also notable are two positions that didn't change.
-After adding $17 billion in Q2 to the Alphabet bet that had only been initiated last summer, Berkshire defied some expectations by keeping the holding unchanged.
-Its 106 million shares are valued at $28.1 billion.
-And for the fourth consecutive quarter, Berkshire's largest equity holding, Apple, didn't change. With a big boost from the stock's year-to-date gain of 26.1%, the position is now valued at more than $78 billion.
-The complete portfolio
-BUFFETT & BERKSHIRE AROUND THE INTERNET
-Some links may require a subscription:
-- Barron's on MSN: Berkshire executives buy $2 million in stock with shares near record
-HIGHLIGHTS FROM CNBC'S BUFFETT ARCHIVE
-Why Buffett doesn't worry about what he eats (2001)
-Warren Buffett loves to eat what many would call junk food and drink a lot of sugary beverages. A quarter-century ago, when he was 70, Buffett explained why he still thought a life insurance company would rate his life expectancy "considerably better than the average."
-AUDIENCE MEMBER: Every time I hear what you like to eat, Warren, it makes me wonder what your cholesterol level is — (laughter) — or if you even worry about it...
-WARREN BUFFETT: I do know the number, and I don't remember it. My doctor tells me, "It's a little high," but if he says it's a little high, it means it isn't that high, or he would — because he always tries to push me into making a few changes in my life.
-But he — I've got a wonderful doctor. And I was lucky last year, because I hadn't been in to see him for about five years. And — (laughter) — due to — those guys cost a lot of money, I mean. (Laughter)
-And due to purely an accident, a reaction to some other medicine I was given when I was out of the city, he got a hold of me, and then he shamed me into having a physical. And it was extremely lucky, because I had a polyp in the colon that would have probably caused trouble, you know, within a couple of years.
-I would say that if you ask my doctor, he would want me to make a few changes, but he would also say that my life expectancy is probably a lot better than the average person of 70.
-You know, I have no stress whatsoever. Zero. You know, I mean, I get to do what I love to do every day. You know, and I'm surrounded by people that are terrific.
-So that problem in life just doesn't exist for me. You know, and I don't smoke or drink or, well, we'll end it right there. (Laughter)
-And so, you know, if you were an underwriter for a life company, you would rate me considerably better than the average. You'd rate Charlie better than average, too.
-And I'm sure that, you know, I could change it slightly, perhaps, on the probabilities, you know, if I change my diet dramatically or something. But it's very unlikely to happen.
-BERKSHIRE STOCK WATCH
-Four weeks
-Twelve months
-BRK.A stock price: $855,000.00
-BRK.B stock price: $570.00
-BRK.B P/E (TTM): 15.91
-Berkshire market capitalization: $1,210,976,168,580
-Berkshire Cash as of Sept 30: $377.4 billion (Up 3.3% from June 30)
-Excluding Rail Cash and Subtracting T-Bills Payable: $352.3 billion (Down 1.9% from June 30)
-Berkshire repurchased $9.6 billion of its shares in Q3 2026.
-BERKSHIRE'S TOP EQUITY HOLDINGS - Nov. 20, 2026
-Berkshire's top holdings of disclosed publicly traded stocks in the U.S. and Japan, by market value, based on the latest closing prices.
-Holdings are as of September 30, 2026, as reported in Berkshire Hathaway's 13F filing on November 16, 2026, except for:
-- Mitsubishi, which is as of April 30, 2026
-The full list of holdings and current market values is available from CNBC.com's Berkshire Hathaway Portfolio Tracker.
-QUESTIONS OR COMMENTS
-Please send any questions or comments about the newsletter to me at alex.crippen@cnbc.com. (Sorry, but we don't forward questions or comments to Buffett himself.)
-If you aren't already subscribed to this newsletter, you can sign up here.
-Also, Buffett's annual letters to shareholders are highly recommended reading. There are collected here on Berkshire's website.
--- Alex Crippen, Editor, Warren Buffett Watch`,
-    bodyJa: `(This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway. You can sign up here to receive it every Friday evening in your inbox.)
-Buffett says kindness 'compounds' as his Thanksgiving gifts soar
-Warren Buffett, 96, more than quadrupled his Thanksgiving donations to four family foundations this year to $5.5 billion.
-The gifts consist of Berkshire Class B shares that have been converted from his roughly $160 billion of Class A shares.
-The increase is in line with his new goal, announced last July, to give away all of his Berkshire Hathaway shares "within about eight years," with no additional annual donations going to the Gates Foundation.
-Around $2.2 billion of shares goes to the Susan Thompson Buffett Foundation, named for his late first wife, with the three foundations run by his children, Susie Buffett's Sherwood Foundation, the Howard G. Buffett Foundation, and Peter Buffett's NoVo Foundation each getting $1.1 billion each.
-In July of last year, Buffett gave shares worth $4.6 billion to the Gates Foundation with another $1.4 billion going to the family foundations.
-This July, the family foundations received $5.9 billion in stock, bringing the year's total to $11.4 billion, an increase of almost 55% from last year, even as the Gates Foundation received nothing.
-In comments included in the Berkshire news release this week announcing the new gifts, Buffett reaffirmed his confidence in his children's ability to disburse his fortune over time, saying they "have given thoughtfully to worthy causes for decades, and I trust 100% both their abilities and their fidelity."
-He also said his confidence in Berkshire is "as strong as ever."
-Recalling that in last year's lengthier Thanksgiving message he had said, "Kindness is costless but also priceless," Buffett wrote, " A year later, I would only add that it compounds, and at a better rate than anything Charlie [Munger] and I ever bought."
-"Both of us received beyond measurement costless benefits from a few teachers such as Ben Graham, Joe Rosenfield and Tom Murphy. Because of this we not only prospered mightily but were able to pass along many of the benefits we received.
-"Much of my good fortune has come in the form of people who were kind to me and expected nothing in return. I'm grateful to every one of them.
-"This Thanksgiving, thank one of those selfless people in your own life. Better yet, be a benefactor for someone else."
-Berkshire rally stalls but it's not as bad as S&P's AI selloff
-Berkshire Hathaway's fourth quarter rally that had produced a string of record highs cooled this week as both classes of its stock posted five straight daily declines.
-That sent them down 3.9% for the week.
-Last Friday, Berkshire was up 19.1% since October 1. Now that gain has been cut to 14.5%
-The S&P's decline of 8.6% this week, however, was even bigger than Berkshire's 5-day drop, as investors sold to lock in profits from AI-related stocks.
-The benchmark index, along with the Dow Industrials, are in a correction after falling 10% from their recent highs, and the Nasdaq Composite has erased all of its year-to-date gains.
-Berkshire's smaller decline increased its year-to-date outperformance of the S&P to 12.5 percentage points.
-One Wall Street firm, however, thinks Berkshire's run-up has run its course.
-Argus Research downgraded the B shares to hold from buy Friday, saying the stock is "fully valued" at about 25 times next year's estimate for operating earnings per share.
-Berkshire buys Delta, sells BofA in quiet quarter
-As foreshadowed by its 10-Q financial report released almost two weeks ago, Berkshire Hathaway's Q3 13F portfolio snapshot filed with the SEC on Monday showed it wasn't doing much buying and selling of equities this summer.
-And the two largest additions, Lennar and Bending Spoons, had been previously disclosed, along with additional purchases at the start of the fourth quarter.
-The most notable change we didn't expect was a 12% increase in Berkshire's Delta Air Lines position, bringing it just short of a 10% stake, now valued at $5.2 billion.
-Exceeding 10% triggers a number of regulatory burdens, including the requirement to promptly disclose new buying or selling, so we may not see additional purchases going forward.
-Delta's return to the portfolio after Warren Buffett sold all of Berkshire's airline stocks in 2020 has been something of a surprise given his bumpy ride with the industry over the years.
-As expected, Berkshire continued to trim its Bank of America stake. After nine consecutive quarters of sales, it's been cut by 56% but remains the fifth largest portfolio holding at $21.4 billion.
-Berkshire also cut another financial, Capital One, by almost 62%, although it was already a relatively small position, now worth $207 million.
-Also notable are two positions that didn't change.
-After adding $17 billion in Q2 to the Alphabet bet that had only been initiated last summer, Berkshire defied some expectations by keeping the holding unchanged.
-Its 106 million shares are valued at $28.1 billion.
-And for the fourth consecutive quarter, Berkshire's largest equity holding, Apple, didn't change. With a big boost from the stock's year-to-date gain of 26.1%, the position is now valued at more than $78 billion.
-The complete portfolio
-BUFFETT & BERKSHIRE AROUND THE INTERNET
-Some links may require a subscription:
-- Barron's on MSN: Berkshire executives buy $2 million in stock with shares near record
-HIGHLIGHTS FROM CNBC'S BUFFETT ARCHIVE
-Why Buffett doesn't worry about what he eats (2001)
-Warren Buffett loves to eat what many would call junk food and drink a lot of sugary beverages. A quarter-century ago, when he was 70, Buffett explained why he still thought a life insurance company would rate his life expectancy "considerably better than the average."
-AUDIENCE MEMBER: Every time I hear what you like to eat, Warren, it makes me wonder what your cholesterol level is — (laughter) — or if you even worry about it...
-WARREN BUFFETT: I do know the number, and I don't remember it. My doctor tells me, "It's a little high," but if he says it's a little high, it means it isn't that high, or he would — because he always tries to push me into making a few changes in my life.
-But he — I've got a wonderful doctor. And I was lucky last year, because I hadn't been in to see him for about five years. And — (laughter) — due to — those guys cost a lot of money, I mean. (Laughter)
-And due to purely an accident, a reaction to some other medicine I was given when I was out of the city, he got a hold of me, and then he shamed me into having a physical. And it was extremely lucky, because I had a polyp in the colon that would have probably caused trouble, you know, within a couple of years.
-I would say that if you ask my doctor, he would want me to make a few changes, but he would also say that my life expectancy is probably a lot better than the average person of 70.
-You know, I have no stress whatsoever. Zero. You know, I mean, I get to do what I love to do every day. You know, and I'm surrounded by people that are terrific.
-So that problem in life just doesn't exist for me. You know, and I don't smoke or drink or, well, we'll end it right there. (Laughter)
-And so, you know, if you were an underwriter for a life company, you would rate me considerably better than the average. You'd rate Charlie better than average, too.
-And I'm sure that, you know, I could change it slightly, perhaps, on the probabilities, you know, if I change my diet dramatically or something. But it's very unlikely to happen.
-BERKSHIRE STOCK WATCH
-Four weeks
-Twelve months
-BRK.A stock price: $855,000.00
-BRK.B stock price: $570.00
-BRK.B P/E (TTM): 15.91
-Berkshire market capitalization: $1,210,976,168,580
-Berkshire Cash as of Sept 30: $377.4 billion (Up 3.3% from June 30)
-Excluding Rail Cash and Subtracting T-Bills Payable: $352.3 billion (Down 1.9% from June 30)
-Berkshire repurchased $9.6 billion of its shares in Q3 2026.
-BERKSHIRE'S TOP EQUITY HOLDINGS - Nov. 20, 2026
-Berkshire's top holdings of disclosed publicly traded stocks in the U.S. and Japan, by market value, based on the latest closing prices.
-Holdings are as of September 30, 2026, as reported in Berkshire Hathaway's 13F filing on November 16, 2026, except for:
-- Mitsubishi, which is as of April 30, 2026
-The full list of holdings and current market values is available from CNBC.com's Berkshire Hathaway Portfolio Tracker.
-QUESTIONS OR COMMENTS
-Please send any questions or comments about the newsletter to me at alex.crippen@cnbc.com. (Sorry, but we don't forward questions or comments to Buffett himself.)
-If you aren't already subscribed to this newsletter, you can sign up here.
-Also, Buffett's annual letters to shareholders are highly recommended reading. There are collected here on Berkshire's website.
--- Alex Crippen, Editor, Warren Buffett Watch`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/21/warren-buffett-quadruples-thanksgiving-gifts.html",
-    publishedAt: "2026-11-21T13:01:44+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "international-first-class-is-over-for-u-db52fc97",
-    title: "International first class is over for U.S. airlines. Enter the mega business-class cabin",
-    titleJa: "International first class is over for U.S. airlines. Enter the mega business-class cabin",
-    summaryJa: "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
-    bodyOriginal: `The era of U.S. airlines' long-haul, international first class ended this week when American Airlines' last flight with its eight-suite section landed. In its place will be a massive business-class cabin with room for 70 passengers.
-U.S. airlines have been ditching international first-class cabins for a new top tier: larger and souped-up business classes, featuring suites with sliding doors, the design du jour. Delta Air Lines and United Airlines have already taken this step. American was the last of the U.S. airlines to still have first class on long-haul international routes.
-Many travelers might not notice the difference. That's because of airlines' investments into business class: new suites, bigger screens, better technology like device-charging pads, and improved bedding.
-It's part of airlines' big bet on mass luxury. Consumers have been willing to shell out more to fly comfortably, which is helping to boost airline revenue. That's all the more important as costs of everything from fuel to airport landing fees have been rising, soaking up more of the industry's profits.
-The retirement of first class ends a more-than-six-decade stretch of the jet age that in the early days included service like seat-side carving of chateaubriand and meals served on fine bone china.
-A few decades ago, business class was much smaller, with two-by-two seats in some configurations, and recliners, not the lie-flat seats that dominate those cabins now.
-"When you've got individual pods in biz class, and you've got a comfortable enough seat and bedding and decent wine, for a lot of people this is good enough," said Henry Harteveldt, founder of travel consulting firm Atmosphere Research Group and a former airline executive.
-The over-the-top dining of the early days of international first class was a form of entertainment, long before laptops, personal seat-back screens and in-flight Wi-Fi, or even the promise of sleep on lie-flat beds, but customers still eat lots on board, Harteveldt said.
-"People say they want to sleep but then they stay up and they eat every morsel," he said. "They're hypocrites."
-There was still a hefty price gap between first and business.
-A flight between Los Angeles and London on American's Boeing 777-300ER this week went for $12,994 in business class for a one-way ticket and $15,669 for a first-class seat.
-American's last flight with international first class departed Friday morning local time in Sydney, bound for Los Angeles.
-Its new cabin on its Boeing 777-300ERs will feature 70 business-class suites, the most of any U.S. airline. Pre-overhaul, the cabins had been operating with eight first-class suites and 52 pods in business, though the remodeling is ongoing. American is also flying a subfleet of 787-9 Dreamliners that have 51 business-class suites. (United is putting 64 new suites on that aircraft.)
-Part of the allure is that some companies allow employees to book business-class tickets, but not first class.
-American Airlines told CNBC it's growing its business-class cabins across the fleet. It's evaluating increasing the number of suites on its smaller long-haul jets, the Boeing 787-8 Dreamliners, from 20 currently to somewhere in the 30s.
-"You don't have enough seats to make the seat cost competitive," Nat Pieper, American's chief commercial officer, said in an interview this month. "So what you need to do to make that airplane work is it's got to be a yield play. You need more business-class seats."
-No soup, no olives
-Differences between first and business classes on American lately came down to details.
-On American's first-class long-haul section, passengers got olives with warm nuts to accompany their beverage early in the flight, while there were no olives for business class.
-First class got a soup; business did not. First class got a warm dessert served a la mode in addition to the cold dessert or fruit and cheese plate both cabins were offered.
-And there was no memory foam lumbar pillow for business class like there was in first, American said. But otherwise, the experiences were fairly similar for passengers. They still got better food options and service than economy passengers, along with their bigger seats, early boarding and lounge access.
-"It's not like the bed can go any flatter than 180 degrees," Harteveldt said. "The bedding can be thicker, and the food nicer."
-Delta and United have already replaced international, long-haul first class with dozens of their Delta One and Polaris business lie-flat suites, respectively, each of which is getting upgrades now.
-American will continue offering a separate lie-flat first class on its Airbus A321T subfleet it uses for domestic cross-country flying until early 2027. But then that goes away, too.
-Meanwhile, airlines over the past decade have added a premium economy section, which sits between business class and economy. It features recliner seats similar to those in domestic first class, often with foot rests, meals served on actual plates, larger seat-back screens than economy and earlier boarding.
-Carving up business class
-Airlines are now cutting up business class into different segments, something they've done for more than a decade with the coach cabin's basic economy, standard and extra legroom seats.
-United and Delta this year each announced their most expensive cabins will be sold with basic options, which are more restrictive and don't include things like the ability to pick your seat ahead of time or get access to a special airport lounge.
-There are also a few seats in some of the business-class cabins that are roomier, like American's Flagship Suite Preferred and United's Polaris Studio. Even the guest seating in the United suite varies with "standard and companion ottomans," the latter including a seatbelt so you can ask "another Polaris passenger to visit you between takeoff and landing for a drink, chat or game," the airline says.
-There's more to come.
-"I don't think we found the limit on segmentation," United CFO Mike Leskinen told CNBC on Thursday. "We have a few things on the drawing board. We're not done."
-First class still flies globally
-Although U.S. carriers are moving away from the designation, first class is far from dead.
-Singapore Airlines, Germany's Lufthansa, British Airways and Air France have unveiled updated first-class cabins and other service improvements like food.
-British Airways last month said it will build a record 106-suite business class on its Airbus A380 aircraft, the world's largest passenger airplane, but it's also upgrading its first class on board.
-Meanwhile, smaller airlines like JetBlue Airways, Frontier Airlines and Allegiant Air are introducing domestic or short-haul first-class seats.
-"We're going to be able to do that at a really low price comparatively to what you're used to out there in the marketplace," Frontier Chief Commercial Officer Bobby Schroeter said last month.`,
-    bodyJa: `The era of U.S. airlines' long-haul, international first class ended this week when American Airlines' last flight with its eight-suite section landed. In its place will be a massive business-class cabin with room for 70 passengers.
-U.S. airlines have been ditching international first-class cabins for a new top tier: larger and souped-up business classes, featuring suites with sliding doors, the design du jour. Delta Air Lines and United Airlines have already taken this step. American was the last of the U.S. airlines to still have first class on long-haul international routes.
-Many travelers might not notice the difference. That's because of airlines' investments into business class: new suites, bigger screens, better technology like device-charging pads, and improved bedding.
-It's part of airlines' big bet on mass luxury. Consumers have been willing to shell out more to fly comfortably, which is helping to boost airline revenue. That's all the more important as costs of everything from fuel to airport landing fees have been rising, soaking up more of the industry's profits.
-The retirement of first class ends a more-than-six-decade stretch of the jet age that in the early days included service like seat-side carving of chateaubriand and meals served on fine bone china.
-A few decades ago, business class was much smaller, with two-by-two seats in some configurations, and recliners, not the lie-flat seats that dominate those cabins now.
-"When you've got individual pods in biz class, and you've got a comfortable enough seat and bedding and decent wine, for a lot of people this is good enough," said Henry Harteveldt, founder of travel consulting firm Atmosphere Research Group and a former airline executive.
-The over-the-top dining of the early days of international first class was a form of entertainment, long before laptops, personal seat-back screens and in-flight Wi-Fi, or even the promise of sleep on lie-flat beds, but customers still eat lots on board, Harteveldt said.
-"People say they want to sleep but then they stay up and they eat every morsel," he said. "They're hypocrites."
-There was still a hefty price gap between first and business.
-A flight between Los Angeles and London on American's Boeing 777-300ER this week went for $12,994 in business class for a one-way ticket and $15,669 for a first-class seat.
-American's last flight with international first class departed Friday morning local time in Sydney, bound for Los Angeles.
-Its new cabin on its Boeing 777-300ERs will feature 70 business-class suites, the most of any U.S. airline. Pre-overhaul, the cabins had been operating with eight first-class suites and 52 pods in business, though the remodeling is ongoing. American is also flying a subfleet of 787-9 Dreamliners that have 51 business-class suites. (United is putting 64 new suites on that aircraft.)
-Part of the allure is that some companies allow employees to book business-class tickets, but not first class.
-American Airlines told CNBC it's growing its business-class cabins across the fleet. It's evaluating increasing the number of suites on its smaller long-haul jets, the Boeing 787-8 Dreamliners, from 20 currently to somewhere in the 30s.
-"You don't have enough seats to make the seat cost competitive," Nat Pieper, American's chief commercial officer, said in an interview this month. "So what you need to do to make that airplane work is it's got to be a yield play. You need more business-class seats."
-No soup, no olives
-Differences between first and business classes on American lately came down to details.
-On American's first-class long-haul section, passengers got olives with warm nuts to accompany their beverage early in the flight, while there were no olives for business class.
-First class got a soup; business did not. First class got a warm dessert served a la mode in addition to the cold dessert or fruit and cheese plate both cabins were offered.
-And there was no memory foam lumbar pillow for business class like there was in first, American said. But otherwise, the experiences were fairly similar for passengers. They still got better food options and service than economy passengers, along with their bigger seats, early boarding and lounge access.
-"It's not like the bed can go any flatter than 180 degrees," Harteveldt said. "The bedding can be thicker, and the food nicer."
-Delta and United have already replaced international, long-haul first class with dozens of their Delta One and Polaris business lie-flat suites, respectively, each of which is getting upgrades now.
-American will continue offering a separate lie-flat first class on its Airbus A321T subfleet it uses for domestic cross-country flying until early 2027. But then that goes away, too.
-Meanwhile, airlines over the past decade have added a premium economy section, which sits between business class and economy. It features recliner seats similar to those in domestic first class, often with foot rests, meals served on actual plates, larger seat-back screens than economy and earlier boarding.
-Carving up business class
-Airlines are now cutting up business class into different segments, something they've done for more than a decade with the coach cabin's basic economy, standard and extra legroom seats.
-United and Delta this year each announced their most expensive cabins will be sold with basic options, which are more restrictive and don't include things like the ability to pick your seat ahead of time or get access to a special airport lounge.
-There are also a few seats in some of the business-class cabins that are roomier, like American's Flagship Suite Preferred and United's Polaris Studio. Even the guest seating in the United suite varies with "standard and companion ottomans," the latter including a seatbelt so you can ask "another Polaris passenger to visit you between takeoff and landing for a drink, chat or game," the airline says.
-There's more to come.
-"I don't think we found the limit on segmentation," United CFO Mike Leskinen told CNBC on Thursday. "We have a few things on the drawing board. We're not done."
-First class still flies globally
-Although U.S. carriers are moving away from the designation, first class is far from dead.
-Singapore Airlines, Germany's Lufthansa, British Airways and Air France have unveiled updated first-class cabins and other service improvements like food.
-British Airways last month said it will build a record 106-suite business class on its Airbus A380 aircraft, the world's largest passenger airplane, but it's also upgrading its first class on board.
-Meanwhile, smaller airlines like JetBlue Airways, Frontier Airlines and Allegiant Air are introducing domestic or short-haul first-class seats.
-"We're going to be able to do that at a really low price comparatively to what you're used to out there in the marketplace," Frontier Chief Commercial Officer Bobby Schroeter said last month.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
-    publishedAt: "2026-11-21T12:00:01+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "tech-outages-are-rattling-americans-so-m-e90c804c",
-    title: "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
-    titleJa: "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
-    summaryJa: "A lack of clarity from world leaders is prompting some people to prepare for the worst.",
-    bodyOriginal: `A lack of clarity from world leaders is prompting some people to prepare for the worst.`,
-    bodyJa: `A lack of clarity from world leaders is prompting some people to prepare for the worst.`,
-    source: "MarketWatch",
-    sourceUrl: "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
-    publishedAt: "2026-11-21T03:20:00+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.mktw.net/im-46571930",
-    readTime: 2,
   },
 ];
 
