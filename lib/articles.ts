@@ -15,6 +15,350 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "new-uk-eu-treaty-has-10-year-termination-072cd8f0",
+    title: "New UK-EU treaty has 10-year termination clause, BBC understands",
+    titleJa: "New UK-EU treaty has 10-year termination clause, BBC understands",
+    summaryJa: "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+    bodyOriginal: `New UK-EU treaty has 10-year termination clause, BBC understands
+- Published
+The government and the EU are set to publish the texts of two treaties that were agreed last week as part of a post-Brexit reset.
+The treaties will be published on Thursday afternoon, alongside legislation which is designed to enact the bulk of the deal.
+The BBC understands the deal covering food exports has a 10-year termination clause that would mean if one party ended the agreement, they would have to pay to rebuild border checks infrastructure, which will be significantly scaled back as part of the new deal.
+Opposition leader Kemi Badenoch has said she would scrap the deal and Reform UK's Nigel Farage has suggested he would refuse to pay.
+The Brexit reset deal has already sparked debate about its benefits, its costs, and a wider discussion on the long-term UK-EU relationship.
+The deal covers British food exports, emissions trading and a youth experience scheme.
+Two of the three legal texts will be released on Thursday, covering the food trade and emissions trading scheme deals, alongside the government's cost-cutting bill to enact the deal.
+New assessments of the impact of the deal on different sectors and regions of the country are also expected.
+EU offers UK fresh deal on 'Made in Europe' scheme
+- Published15 hours ago
+Badenoch challenges Burnham over university fees for EU students
+- Published15 hours ago
+Farage helps launch new campaign against the UK rejoining the EU
+- Published13 hours ago
+Under the deal, food exporters will be significant beneficiaries from the scrapping of considerable red tape and checks, and dismantling of border facilities. An internal analysis forecasts a 16% boost to agricultural exports.
+The industry and government hope the reduction in costs for food producers and sellers will be passed on to customers, but there may be no clear visible impact at the checkout.
+Privately, industry insiders told the BBC earlier this week that there are too many moving parts in the world economy, in particular the energy price shock resulting from war in the Middle East.
+Regarding the fine detail in the text of one of the treaties relating to the 10-year termination clause, European affairs minister Hamish Falconer said: "The Cutting Costs Bill allows us to implement two major trade agreements."
+"It allows us to eliminate paperwork for our food and drink traders, protect billions of pounds worth of British exports from carbon taxes, and make doing business with our largest trading partner cheaper and easier."
+The BBC understands that a plan to link British and European emissions trading schemes will see more coverage across the UK's aviation and maritime industries.
+The treaty text will also contain finer detail of how the UK will observe, shape but not vote on relevant EU rules.
+Plans to use secondary legislation, including granting direct so-called "Henry VIII powers" to ministers to align UK and EU laws, will also be detailed in the legislation.
+Such powers could enable ministers to make changes to bills with less Parliamentary scrutiny.
+Outlining the agreement with the EU to MPs earlier this week, the prime minister said new agreements with the EU are "pragmatic" and "not a prelude to anything".
+Andy Burnham also said it would be "unthinkable" for the UK to rejoin the bloc without a referendum.
+Several former prime ministers have urged him not to reopen the Brexit debate. Burnham said they are "stuck in the past" and later claimed there would be "no banging on about Europe" from Labour.
+Badenoch said Burnham has "oversold" the deal and was "trying to take Britain back to 2015".`,
+    bodyJa: `New UK-EU treaty has 10-year termination clause, BBC understands
+- Published
+The government and the EU are set to publish the texts of two treaties that were agreed last week as part of a post-Brexit reset.
+The treaties will be published on Thursday afternoon, alongside legislation which is designed to enact the bulk of the deal.
+The BBC understands the deal covering food exports has a 10-year termination clause that would mean if one party ended the agreement, they would have to pay to rebuild border checks infrastructure, which will be significantly scaled back as part of the new deal.
+Opposition leader Kemi Badenoch has said she would scrap the deal and Reform UK's Nigel Farage has suggested he would refuse to pay.
+The Brexit reset deal has already sparked debate about its benefits, its costs, and a wider discussion on the long-term UK-EU relationship.
+The deal covers British food exports, emissions trading and a youth experience scheme.
+Two of the three legal texts will be released on Thursday, covering the food trade and emissions trading scheme deals, alongside the government's cost-cutting bill to enact the deal.
+New assessments of the impact of the deal on different sectors and regions of the country are also expected.
+EU offers UK fresh deal on 'Made in Europe' scheme
+- Published15 hours ago
+Badenoch challenges Burnham over university fees for EU students
+- Published15 hours ago
+Farage helps launch new campaign against the UK rejoining the EU
+- Published13 hours ago
+Under the deal, food exporters will be significant beneficiaries from the scrapping of considerable red tape and checks, and dismantling of border facilities. An internal analysis forecasts a 16% boost to agricultural exports.
+The industry and government hope the reduction in costs for food producers and sellers will be passed on to customers, but there may be no clear visible impact at the checkout.
+Privately, industry insiders told the BBC earlier this week that there are too many moving parts in the world economy, in particular the energy price shock resulting from war in the Middle East.
+Regarding the fine detail in the text of one of the treaties relating to the 10-year termination clause, European affairs minister Hamish Falconer said: "The Cutting Costs Bill allows us to implement two major trade agreements."
+"It allows us to eliminate paperwork for our food and drink traders, protect billions of pounds worth of British exports from carbon taxes, and make doing business with our largest trading partner cheaper and easier."
+The BBC understands that a plan to link British and European emissions trading schemes will see more coverage across the UK's aviation and maritime industries.
+The treaty text will also contain finer detail of how the UK will observe, shape but not vote on relevant EU rules.
+Plans to use secondary legislation, including granting direct so-called "Henry VIII powers" to ministers to align UK and EU laws, will also be detailed in the legislation.
+Such powers could enable ministers to make changes to bills with less Parliamentary scrutiny.
+Outlining the agreement with the EU to MPs earlier this week, the prime minister said new agreements with the EU are "pragmatic" and "not a prelude to anything".
+Andy Burnham also said it would be "unthinkable" for the UK to rejoin the bloc without a referendum.
+Several former prime ministers have urged him not to reopen the Brexit debate. Burnham said they are "stuck in the past" and later claimed there would be "no banging on about Europe" from Labour.
+Badenoch said Burnham has "oversold" the deal and was "trying to take Britain back to 2015".`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-26T07:40:04+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbe3/live/d6fe8520-e961-11f1-a094-5fdc692f3e33.jpg",
+    readTime: 9,
+  },
+  {
+    id: "wealthy-europeans-look-beyond-stocks-ami-47336685",
+    title: "Wealthy Europeans look beyond stocks amid AI selloff. Here’s where they’re investing",
+    titleJa: "Wealthy Europeans look beyond stocks amid AI selloff. Here’s where they’re investing",
+    summaryJa: "Goldman Sachs Alternatives' inaugural survey of high-net-worth investors found they're increasingly looking to alternatives amid turbulent markets.",
+    bodyOriginal: `Wealthy Europeans are looking to alternative asset classes to build exposure to artificial intelligence themes amid turbulence in public markets.
+Goldman Sachs Alternatives' inaugural survey of high-net-worth and ultra-high-net-worth investors found 47% of European respondents saw alternatives as the best way to gain exposure to AI and future tech growth, compared to just 24% of U.S. investors.
+The survey found a significant gap between the U.S. and Europe in terms of investor knowledge of alternatives, which include assets like private equity, property and infrastructure. Goldman said 82% of European respondents are familiar with the alternative investments market — compared to 50% of U.S. investors.
+Goldman polled 1,000 investors with at least 1 million in investable assets in their local currency across the U.K., France, Germany, Italy and Switzerland. The survey was carried out between June 29 and Aug. 18 this year.
+The report on the findings, published Wednesday, did not specify the proportion of respondents who already have a stake in some kind of alternative investment — but wealthy Europeans appeared particularly bullish on the space.
+Private equity made up the largest proportion of current alternatives holdings. Among wealthy Europeans with alternatives exposure, 62% said they invested in private equity. The second most commonly held asset class was private real estate, which was backed by 51% of European alternatives investors. Hedge funds were held by 37% of European alternatives owners, and private infrastructure was held by 30%.
+One in four respondents who did not already own an alternative investment said they were likely to invest in the market in the coming 12 months. Among those already in the space, 26% said they were likely to increase their allocations over the next year, while just 5% said they planned to decrease their exposure.
+Of the European investors who already owned alternatives, 54% said their assets had performed as expected, while 44% said their assets had exceeded their expectations to the upside. Only 2% said their alternative investments had performed worse than expected.
+"Recent reforms gave individual investors unprecedented access to alternative asset classes like private equity, venture capital, and private credit," Kyle Kniffen, global head of alternatives for third-party wealth at Goldman Sachs Asset Management, said in Wednesday's report.
+He added that wealthy investors "look ready to jump at the opportunity."
+"Our survey shows satisfaction among current alts owners is high and adoption looks set to increase," Kniffen said.
+Alternative investments have increasingly become a staple of high-net-worth individuals' investment portfolios.
+Over the past year, JPMorgan Asset Management's private wealth alternative assets in the Asia-Pacific region have jumped 40%, while BNY Wealth says alternative investments now account for 60% of single-family office portfolios — recently surpassing traditional assets for the first time.
+But investing in alternatives carries risks. Private equity, for example, can lock up capital for long periods, and although the number of exits ticked slightly higher last year, the value of those deals fell.
+Concerns about private credit, meanwhile, have dominated headlines, with JPMorgan CEO Jamie Dimon warning on Oct. 14, 2025, that "cockroaches" were likely to be lurking in private markets.
+— CNBC's Lee Ying Shan contributed to this article.`,
+    bodyJa: `Wealthy Europeans are looking to alternative asset classes to build exposure to artificial intelligence themes amid turbulence in public markets.
+Goldman Sachs Alternatives' inaugural survey of high-net-worth and ultra-high-net-worth investors found 47% of European respondents saw alternatives as the best way to gain exposure to AI and future tech growth, compared to just 24% of U.S. investors.
+The survey found a significant gap between the U.S. and Europe in terms of investor knowledge of alternatives, which include assets like private equity, property and infrastructure. Goldman said 82% of European respondents are familiar with the alternative investments market — compared to 50% of U.S. investors.
+Goldman polled 1,000 investors with at least 1 million in investable assets in their local currency across the U.K., France, Germany, Italy and Switzerland. The survey was carried out between June 29 and Aug. 18 this year.
+The report on the findings, published Wednesday, did not specify the proportion of respondents who already have a stake in some kind of alternative investment — but wealthy Europeans appeared particularly bullish on the space.
+Private equity made up the largest proportion of current alternatives holdings. Among wealthy Europeans with alternatives exposure, 62% said they invested in private equity. The second most commonly held asset class was private real estate, which was backed by 51% of European alternatives investors. Hedge funds were held by 37% of European alternatives owners, and private infrastructure was held by 30%.
+One in four respondents who did not already own an alternative investment said they were likely to invest in the market in the coming 12 months. Among those already in the space, 26% said they were likely to increase their allocations over the next year, while just 5% said they planned to decrease their exposure.
+Of the European investors who already owned alternatives, 54% said their assets had performed as expected, while 44% said their assets had exceeded their expectations to the upside. Only 2% said their alternative investments had performed worse than expected.
+"Recent reforms gave individual investors unprecedented access to alternative asset classes like private equity, venture capital, and private credit," Kyle Kniffen, global head of alternatives for third-party wealth at Goldman Sachs Asset Management, said in Wednesday's report.
+He added that wealthy investors "look ready to jump at the opportunity."
+"Our survey shows satisfaction among current alts owners is high and adoption looks set to increase," Kniffen said.
+Alternative investments have increasingly become a staple of high-net-worth individuals' investment portfolios.
+Over the past year, JPMorgan Asset Management's private wealth alternative assets in the Asia-Pacific region have jumped 40%, while BNY Wealth says alternative investments now account for 60% of single-family office portfolios — recently surpassing traditional assets for the first time.
+But investing in alternatives carries risks. Private equity, for example, can lock up capital for long periods, and although the number of exits ticked slightly higher last year, the value of those deals fell.
+Concerns about private credit, meanwhile, have dominated headlines, with JPMorgan CEO Jamie Dimon warning on Oct. 14, 2025, that "cockroaches" were likely to be lurking in private markets.
+— CNBC's Lee Ying Shan contributed to this article.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/26/wealthy-europeans-alternative-investments-ai.html",
+    publishedAt: "2026-11-26T07:23:42+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "spacex-musk-pledge-to-donate-a-share-eac-05100b2b",
+    title: "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+    titleJa: "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+    summaryJa: "SpaceX said it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would match it.",
+    bodyOriginal: `SpaceX said Wednesday it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would personally match the gift.
+"SpaceX is building the infrastructure of the future and working to make life multiplanetary," the company said in a statement. "We believe ownership of the company creating these systems should extend to the next generation of Americans for their long-term benefit."
+The White House announced in October that nearly 70 million Trump Accounts had been created, including more than 60 million through auto-enrollment. It's unclear how many are considered active.
+Musk said in a social media post on X on Thursday that the share from SpaceX would be transferred next month, without providing further details. "The share directly from me will be transferred when my lockup expires in June next year," he added.
+Eligible children must have their account claimed to enable contributions from family members, friends and employers, and to receive the government's one-time $1,000 seed contribution. Auto-enrolled children can receive philanthropic contributions without a parent or guardian claiming an account, according to TrumpAccounts.gov.
+Representatives for SpaceX and the U.S. Department of the Treasury did not immediately respond to a request for further details about the planned gift.
+SpaceX Chief Operating Officer Gwynne Shotwell had previously agreed to make a personal gift of over 2 million SpaceX shares to Trump Accounts, with eligible account holders expected to receive them in December.
+In October, Elon Musk posted on X that he would give a share of SpaceX to every kid in America next year.
+Trump Accounts, also known as 530A accounts, are open to any U.S. child under 18 with a Social Security number.
+Parents, guardians, grandparents and others can collectively contribute up to $5,000 per child per year in after-tax dollars up until the year before the beneficiary turns 18. The annual contribution limit is indexed for inflation after 2027.
+Since the July 4 launch, families and friends have collectively contributed more than $1 billion to Trump Accounts. Total deposits now sit at more than $9 billion, CNBC first reported.
+Children born from 2025 through 2028 may receive a one-time $1,000 deposit from the Treasury. Other funds may also be available, depending on certain criteria.
+The Treasury rolled out temporary regulations at the end of September that allow Trump Accounts to hold stock donations, a move officials have said is meant to encourage more philanthropic gifts.
+Contributing stock can benefit donors, who are able to avoid capital gains taxes triggered by selling appreciated stock. But families can face restrictions related to selling that donated stock. The policy also means some children's wealth accumulation could be tied to the performance of individual companies.
+Under U.S. Department of the Treasury guidelines, families cannot refuse stock gifted to Trump Accounts and generally cannot sell it until the earlier of five years or the end of the calendar year in which the beneficiary turns 17.
+SpaceX shares have been under some pricing pressure as the company negotiates a possible merger with Elon Musk's automaker Tesla. The companies have established two special committees to handle merger negotiations, and hired advisers for a potential mega-deal.
+CNBC's Sam Meredith, Kevin Breuninger, Kate Dore and Jess Dickler contributed to this story`,
+    bodyJa: `SpaceX said Wednesday it will donate one share of the company's class A stock to every active Trump Account, and CEO Elon Musk would personally match the gift.
+"SpaceX is building the infrastructure of the future and working to make life multiplanetary," the company said in a statement. "We believe ownership of the company creating these systems should extend to the next generation of Americans for their long-term benefit."
+The White House announced in October that nearly 70 million Trump Accounts had been created, including more than 60 million through auto-enrollment. It's unclear how many are considered active.
+Musk said in a social media post on X on Thursday that the share from SpaceX would be transferred next month, without providing further details. "The share directly from me will be transferred when my lockup expires in June next year," he added.
+Eligible children must have their account claimed to enable contributions from family members, friends and employers, and to receive the government's one-time $1,000 seed contribution. Auto-enrolled children can receive philanthropic contributions without a parent or guardian claiming an account, according to TrumpAccounts.gov.
+Representatives for SpaceX and the U.S. Department of the Treasury did not immediately respond to a request for further details about the planned gift.
+SpaceX Chief Operating Officer Gwynne Shotwell had previously agreed to make a personal gift of over 2 million SpaceX shares to Trump Accounts, with eligible account holders expected to receive them in December.
+In October, Elon Musk posted on X that he would give a share of SpaceX to every kid in America next year.
+Trump Accounts, also known as 530A accounts, are open to any U.S. child under 18 with a Social Security number.
+Parents, guardians, grandparents and others can collectively contribute up to $5,000 per child per year in after-tax dollars up until the year before the beneficiary turns 18. The annual contribution limit is indexed for inflation after 2027.
+Since the July 4 launch, families and friends have collectively contributed more than $1 billion to Trump Accounts. Total deposits now sit at more than $9 billion, CNBC first reported.
+Children born from 2025 through 2028 may receive a one-time $1,000 deposit from the Treasury. Other funds may also be available, depending on certain criteria.
+The Treasury rolled out temporary regulations at the end of September that allow Trump Accounts to hold stock donations, a move officials have said is meant to encourage more philanthropic gifts.
+Contributing stock can benefit donors, who are able to avoid capital gains taxes triggered by selling appreciated stock. But families can face restrictions related to selling that donated stock. The policy also means some children's wealth accumulation could be tied to the performance of individual companies.
+Under U.S. Department of the Treasury guidelines, families cannot refuse stock gifted to Trump Accounts and generally cannot sell it until the earlier of five years or the end of the calendar year in which the beneficiary turns 17.
+SpaceX shares have been under some pricing pressure as the company negotiates a possible merger with Elon Musk's automaker Tesla. The companies have established two special committees to handle merger negotiations, and hired advisers for a potential mega-deal.
+CNBC's Sam Meredith, Kevin Breuninger, Kate Dore and Jess Dickler contributed to this story`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
+    publishedAt: "2026-11-26T06:39:34+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 9,
+  },
+  {
+    id: "south-korea-s-kospi-leads-gains-as-tech-aae5b32e",
+    title: "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
+    titleJa: "South Korea's Kospi leads gains as tech rebound lifts Asia markets",
+    summaryJa: "Investors appear to have looked past a fresh set of U.S. tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners.",
+    bodyOriginal: `Asia-Pacific markets rose Thursday, tracking Wall Street gains overnight, with tech stocks rebounding from steep losses in the prior session.
+Investors appear to have looked past a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners, including China and the European Union.
+South Korea's Kospi gained 0.29% to close at 4,711.21, while the small-cap Kosdaq index advanced 0.78% to 655.71 after the country's central bank hiked benchmark lending rates to a 2-year high, in its final meeting of the year.
+Japan's Nikkei 225 rose 0.86% to 57,499.16 while the Topix edged 0.11% higher to 3,750.4. Australia's S&P/ASX 200 gained 0.82% to 8,763.8.
+Hong Kong's Hang Seng index was up 1.52% in its last hour of trade, while mainland China's CSI 300 edged higher marginally, closing at 3,900.55.
+Asian technology stocks rebounded sharply Thursday, led by Japanese chip-related companies.
+SoftBank Group surged more than 7%, while chip-testing equipment maker Advantest rose 4.57%. Lasertec and Disco gained , while Tokyo Electron climbed 0.59%
+In South Korea, memory chip giants SK Hynix and Samsung Electronics advanced more than 2% and 0.35%, respectively. The gains followed a bruising session Wednesday amid renewed concerns over the sustainability of artificial intelligence spending.
+Cryptocurrencies also traded higher, with bitcoin rising 1.58% to $60,944.60, while ether gained 1.15% to $1,702.96.
+The gains come amid lingering concerns over the outlook for digital assets, with the co-founder of now-shuttered crypto exchange BitMEX Arthur Hayes telling CNBC on Tuesday that bitcoin could test $50,000 if the Nasdaq continues to slide.
+Meanwhile, fresh U.S. inflation data reinforced expectations of further monetary tightening by the Federal Reserve. The personal consumption expenditures price index rose 3.8% year on year in October, accelerating from 3.7% in September, while core inflation came in slightly above expectations at 3.3%.
+Overnight in the U.S., the Dow Jones Industrial Average erased an 1,100-point plunge on Wednesday, advancing 164.25 points, or 0.33%, to end at 50,182.95. The Nasdaq Composite, however, fell 0.62% to 23,585.80, while the S&P 500 shed 0.25% to close at 7,182.78.
+U.S. markets will be closed Thursday for the Thanksgiving holiday and will have a shortened trading session on Friday.`,
+    bodyJa: `Asia-Pacific markets rose Thursday, tracking Wall Street gains overnight, with tech stocks rebounding from steep losses in the prior session.
+Investors appear to have looked past a fresh set of tariffs unveiled by the White House on Wednesday, targeting more than a dozen major trading partners, including China and the European Union.
+South Korea's Kospi gained 0.29% to close at 4,711.21, while the small-cap Kosdaq index advanced 0.78% to 655.71 after the country's central bank hiked benchmark lending rates to a 2-year high, in its final meeting of the year.
+Japan's Nikkei 225 rose 0.86% to 57,499.16 while the Topix edged 0.11% higher to 3,750.4. Australia's S&P/ASX 200 gained 0.82% to 8,763.8.
+Hong Kong's Hang Seng index was up 1.52% in its last hour of trade, while mainland China's CSI 300 edged higher marginally, closing at 3,900.55.
+Asian technology stocks rebounded sharply Thursday, led by Japanese chip-related companies.
+SoftBank Group surged more than 7%, while chip-testing equipment maker Advantest rose 4.57%. Lasertec and Disco gained , while Tokyo Electron climbed 0.59%
+In South Korea, memory chip giants SK Hynix and Samsung Electronics advanced more than 2% and 0.35%, respectively. The gains followed a bruising session Wednesday amid renewed concerns over the sustainability of artificial intelligence spending.
+Cryptocurrencies also traded higher, with bitcoin rising 1.58% to $60,944.60, while ether gained 1.15% to $1,702.96.
+The gains come amid lingering concerns over the outlook for digital assets, with the co-founder of now-shuttered crypto exchange BitMEX Arthur Hayes telling CNBC on Tuesday that bitcoin could test $50,000 if the Nasdaq continues to slide.
+Meanwhile, fresh U.S. inflation data reinforced expectations of further monetary tightening by the Federal Reserve. The personal consumption expenditures price index rose 3.8% year on year in October, accelerating from 3.7% in September, while core inflation came in slightly above expectations at 3.3%.
+Overnight in the U.S., the Dow Jones Industrial Average erased an 1,100-point plunge on Wednesday, advancing 164.25 points, or 0.33%, to end at 50,182.95. The Nasdaq Composite, however, fell 0.62% to 23,585.80, while the S&P 500 shed 0.25% to close at 7,182.78.
+U.S. markets will be closed Thursday for the Thanksgiving holiday and will have a shortened trading session on Friday.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/26/stock-markets-today-.html",
+    publishedAt: "2026-11-26T04:49:03+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 6,
+  },
+  {
+    id: "how-trump-s-latest-tariff-moves-hand-ind-377581d9",
+    title: "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
+    titleJa: "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
+    summaryJa: "Proposed tariffs of 18% on Bangladesh, Cambodia, Thailand, and 20% on China and Vietnam, subject to their respective trade deals, offer India a competitive advantage.",
+    bodyOriginal: `The latest U.S. tariff rates announced Wednesday have signaled that Washington is willing to offer India an edge over its competitors if New Delhi agrees to finalize a long-pending trade deal.
+The Office of the United States Trade Representative has proposed a tariff of 17% on Indian exports if New Delhi "were to reach an Agreement on Reciprocal Trade" with Washington. It added that without a trade deal, India could face tariffs of up to 25% under Section 301 investigations encompassing excess production capacity that harms U.S. interests.
+Meanwhile, the USTR has proposed tariffs of 18% on Bangladesh, Cambodia, Thailand, and 20% on China and Vietnam, subject to their respective trade deals, handing India a competitive advantage over rival exporters.
+The U.S. expects the announcement of a lower tariff rate will encourage New Delhi to sign off on a trade deal before the G20, Atman Trivedi, partner at Washington-based DGA Albright Stonebridge Group, told CNBC.
+India has got a "better bargain with Washington than its main competitors," and it may be enough for the Indian government "to declare victory and secure domestic backing for the deal," Trivedi said.
+In February, U.S. President Donald Trump had announced a deal with India, claiming that New Delhi had accepted to "Buy American" at a much higher level after the U.S. agreed to slash tariffs to 18% from 50% earlier.
+U.S. pressure
+The India-U.S. trade deal has been pending with both sides indicating there was little room to grant concessions, while the Supreme Court annulling Trump tariffs allowed New Delhi to demand preferential tariffs that give it an edge over competitors.
+"Today's announcement increases the urgency of reaching an agreement," Ronak D. Desai, visiting fellow at Hoover Institution, Stanford University, told CNBC. He added that while the prospect of a 17% tariff may strengthen the economic case for the deal, the threat of a 25% tariff could stir the sensitivity of the Indian government.
+"The Modi government will be particularly sensitive to any perception that India is conceding under American Pressure," Desai said.
+India's commerce ministry on Wednesday said it "does not have structural excess capacity in any sector," denying the findings of the USTR investigation, but added that it remains committed to "working closely with the United States towards the early conclusion of the India-U.S. Bilateral Trade Agreement."
+Despite India facing steep tariffs, which were raised to 50%, New Delhi's trade surplus with the U.S. rose to $57.3 billion in 2025 from $45.2 billion in 2024.
+Indian Prime Minister Narendra Modi and Trump are likely to meet in December for the G20 leaders' meeting in Florida, and several experts believe the two leaders could seal the trade deal on the sidelines of the summit.`,
+    bodyJa: `The latest U.S. tariff rates announced Wednesday have signaled that Washington is willing to offer India an edge over its competitors if New Delhi agrees to finalize a long-pending trade deal.
+The Office of the United States Trade Representative has proposed a tariff of 17% on Indian exports if New Delhi "were to reach an Agreement on Reciprocal Trade" with Washington. It added that without a trade deal, India could face tariffs of up to 25% under Section 301 investigations encompassing excess production capacity that harms U.S. interests.
+Meanwhile, the USTR has proposed tariffs of 18% on Bangladesh, Cambodia, Thailand, and 20% on China and Vietnam, subject to their respective trade deals, handing India a competitive advantage over rival exporters.
+The U.S. expects the announcement of a lower tariff rate will encourage New Delhi to sign off on a trade deal before the G20, Atman Trivedi, partner at Washington-based DGA Albright Stonebridge Group, told CNBC.
+India has got a "better bargain with Washington than its main competitors," and it may be enough for the Indian government "to declare victory and secure domestic backing for the deal," Trivedi said.
+In February, U.S. President Donald Trump had announced a deal with India, claiming that New Delhi had accepted to "Buy American" at a much higher level after the U.S. agreed to slash tariffs to 18% from 50% earlier.
+U.S. pressure
+The India-U.S. trade deal has been pending with both sides indicating there was little room to grant concessions, while the Supreme Court annulling Trump tariffs allowed New Delhi to demand preferential tariffs that give it an edge over competitors.
+"Today's announcement increases the urgency of reaching an agreement," Ronak D. Desai, visiting fellow at Hoover Institution, Stanford University, told CNBC. He added that while the prospect of a 17% tariff may strengthen the economic case for the deal, the threat of a 25% tariff could stir the sensitivity of the Indian government.
+"The Modi government will be particularly sensitive to any perception that India is conceding under American Pressure," Desai said.
+India's commerce ministry on Wednesday said it "does not have structural excess capacity in any sector," denying the findings of the USTR investigation, but added that it remains committed to "working closely with the United States towards the early conclusion of the India-U.S. Bilateral Trade Agreement."
+Despite India facing steep tariffs, which were raised to 50%, New Delhi's trade surplus with the U.S. rose to $57.3 billion in 2025 from $45.2 billion in 2024.
+Indian Prime Minister Narendra Modi and Trump are likely to meet in December for the G20 leaders' meeting in Florida, and several experts believe the two leaders could seal the trade deal on the sidelines of the summit.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html",
+    publishedAt: "2026-11-26T04:12:18+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "s-p-warns-nvidia-credit-rating-could-be-5c1989de",
+    title: "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+    titleJa: "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
+    summaryJa: "S&amp;P Global Ratings said Nvidia's credit rating could be cut by one notch as it flagged \"rising\" management and governance risk at the chipmaker.",
+    bodyOriginal: `Nvidia's credit rating could be cut by one notch over the next 90 days if the company continues to have "deficiencies" in its management and governance framework, S&P Global Ratings said in the wake of the Jensen Huang's ouster and reinstatement as Nvidia CEO.
+"News regarding the CEO and questions regarding potential export control violations have exposed vulnerabilities in Nvidia's management and governance framework, especially in regard to its board structure, composition, and effectiveness," S&P said in a Wednesday note.
+Nvidia currently holds an AA rating, the third-highest level.
+S&P has placed the chipmaker on "CreditWatch with negative implications," though any potential downgrade would be limited to one notch, to AA-, unless investigations or disclosures lead the agency to conclude that Nvidia's reputation or future prospects have also been harmed.
+A downgrade can pressure bond prices, push yields higher and raise borrowing costs. Nvidia priced $25 billion of investment-grade senior notes in June, with maturities from 2028 through 2056, shortly after S&P upgraded the company from AA- to AA.
+Nvidia has about $32.5 billion of bonds in the U.S. high-grade corporate bond index, according to Bloomberg.
+S&P's Wednesday note follows Moody's Ratings changing its outlook on Nvidia to stable from positive on Nov. 18, citing governance concerns, and leaving that outlook unchanged after Huang's return on Monday.
+In its note, S&P cited the "long tenure" of certain board members as a reason their independence may be "compromised" and said Nvidia's management and governance risk was "rising."
+The ratings agency added that it remained unaware of any remedial action taken by the board to address what could be "meaningful" management and governance deficiencies.
+Chairman Harvey Jones and early investor Tench Coxe have served on Nvidia's board since 1993, while Brooke Seawell joined in 1997. Mark Stevens served from 1993 to 2006 and rejoined the board in 2008.
+S&P also flagged questions around geopolitical risk management and internal controls arising from Nvidia's exposure to China.
+"While Nvidia management has delivered significant returns for its stakeholders over decades, weak executive oversight and lack of succession planning have brought questions around the "key man" risk to the forefront," S&P's Andrew Chang and David Tsui said.
+Chang and Tsui noted that Huang's resignation and subsequent reinstatement did not resolve questions about the board's oversight of executive conduct.
+The agency also intends to meet with Nvidia's board and management to discuss plans to address those deficiencies, particularly around "board independence, effective management oversight and a credible leadership succession plan."
+Huang returned less than two weeks after Jones said Nvidia's directors did not intend to reinstate him. The board later voted unanimously to bring Huang back, sending Nvidia shares up as much as 36% during Monday's session.
+Nvidia shares are down about 12.5% since Monday's close.`,
+    bodyJa: `Nvidia's credit rating could be cut by one notch over the next 90 days if the company continues to have "deficiencies" in its management and governance framework, S&P Global Ratings said in the wake of the Jensen Huang's ouster and reinstatement as Nvidia CEO.
+"News regarding the CEO and questions regarding potential export control violations have exposed vulnerabilities in Nvidia's management and governance framework, especially in regard to its board structure, composition, and effectiveness," S&P said in a Wednesday note.
+Nvidia currently holds an AA rating, the third-highest level.
+S&P has placed the chipmaker on "CreditWatch with negative implications," though any potential downgrade would be limited to one notch, to AA-, unless investigations or disclosures lead the agency to conclude that Nvidia's reputation or future prospects have also been harmed.
+A downgrade can pressure bond prices, push yields higher and raise borrowing costs. Nvidia priced $25 billion of investment-grade senior notes in June, with maturities from 2028 through 2056, shortly after S&P upgraded the company from AA- to AA.
+Nvidia has about $32.5 billion of bonds in the U.S. high-grade corporate bond index, according to Bloomberg.
+S&P's Wednesday note follows Moody's Ratings changing its outlook on Nvidia to stable from positive on Nov. 18, citing governance concerns, and leaving that outlook unchanged after Huang's return on Monday.
+In its note, S&P cited the "long tenure" of certain board members as a reason their independence may be "compromised" and said Nvidia's management and governance risk was "rising."
+The ratings agency added that it remained unaware of any remedial action taken by the board to address what could be "meaningful" management and governance deficiencies.
+Chairman Harvey Jones and early investor Tench Coxe have served on Nvidia's board since 1993, while Brooke Seawell joined in 1997. Mark Stevens served from 1993 to 2006 and rejoined the board in 2008.
+S&P also flagged questions around geopolitical risk management and internal controls arising from Nvidia's exposure to China.
+"While Nvidia management has delivered significant returns for its stakeholders over decades, weak executive oversight and lack of succession planning have brought questions around the "key man" risk to the forefront," S&P's Andrew Chang and David Tsui said.
+Chang and Tsui noted that Huang's resignation and subsequent reinstatement did not resolve questions about the board's oversight of executive conduct.
+The agency also intends to meet with Nvidia's board and management to discuss plans to address those deficiencies, particularly around "board independence, effective management oversight and a credible leadership succession plan."
+Huang returned less than two weeks after Jones said Nvidia's directors did not intend to reinstate him. The board later voted unanimously to bring Huang back, sending Nvidia shares up as much as 36% during Monday's session.
+Nvidia shares are down about 12.5% since Monday's close.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
+    publishedAt: "2026-11-26T03:19:44+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 8,
+  },
+  {
+    id: "us-approves-spacex-plan-to-send-a-millio-cc11c413",
+    title: "US approves SpaceX plan to send a million data satellites to space",
+    titleJa: "US approves SpaceX plan to send a million data satellites to space",
+    summaryJa: "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+    bodyOriginal: `US approves SpaceX plan to send a million data satellites to space
+- Published
+US regulators have given SpaceX the go-ahead to launch a million satellites into Earth's orbit to help build data centres in space - the first approval of its kind.
+The company, which is owned by Elon Musk, wants to use sunlight to power satellites that will process data for AI and send the results back to Earth.
+The Federal Communications Commission (FCC) said on Wednesday that the project, known as Starmind, will "support America's booming super intelligence economy".
+Its approval comes as communities across the US have pushed back against the expansion of data centres on the ground.
+Space X believes the "orbital data centres" are the most cost and energy-efficient way to meet the growing demand for artificial intelligence (AI) computing power that is beyond "terrestrial capabilities".
+FCC Chairman Brendan Carr said in a statement that the project "opens a bold new frontier for the computing infrastructure needed to power America's leadership and growth".
+"This is the kind of American ingenuity that can unite our strengths in space and advanced technology, reinforce our economic leadership, and expand prosperity here at home," Carr said.
+Responding to the announcement, Musk wrote on X: "Much appreciated. This will be a great asset to America and the world."
+Under the FCC licence, deployment of the satellites has to begin no later than November 2033. SpaceX will be required to have deployed 10% by November 2035, rising to 50% by November 2038.
+The company has already said it wants to launch its first Starmind satellite next year.
+Its unclear if a million satellites will be launched or if SpaceX has sought approval for a higher number than it will use.
+Like SpaceX's current Starlink network, which provides high-speed internet via more than 10,000 satellites, Starmind's satellites will operate in low-Earth orbit at altitudes ranging between 500-2,000km (310-1,242 miles).
+Starmind's satellites will communicate with Starlink's and then relay the data to Earth.
+The solar-powered satellite system "promises to bring the human race closer to a Kardashev II civilisation—one that can harness the full power of the sun", the FCC statement said, in a reference to a hypothetical society, proposed by an astronomer in the 1960s, capable of harnessing the entire energy output of its home star.
+The orbiting data centre concept is also being explored by other firms - including Google and Blue Origin - and is being pitched as a greener alternative to traditional centres, which require enormous amounts of power to run and water for cooling.
+The ever-expanding use of AI computing has seen a massive increase in the amount of data that needs to be stored and processed around the world.
+New facilities continue to be built but it is becoming difficult to find places to put them. Data centres are large and sprawling, use enormous amounts of power and water for cooling, and increasingly local people don't want them built nearby.
+Data centres were a central issue in the midterm elections earlier in November, with many Democratic candidates promising tougher regulation on their construction.
+An expert previously told the BBC that launching hardware into orbit remains expensive and that the infrastructure to protect, cool and power them can be complex - while a growing quantity of space debris puts the physical hardware at risk.
+Separately, another cautioned that the growing number of low-orbit craft increases the possibility of crashes between objects - which could damage machines or send materials falling back to earth.
+Starlink has been accused of creating congestion in space, something Musk denies. He has also rejected claims his satellites have been taking up too much room and crowding out competitors.
+Related topics
+- Published14 hours ago
+- Published22 January`,
+    bodyJa: `US approves SpaceX plan to send a million data satellites to space
+- Published
+US regulators have given SpaceX the go-ahead to launch a million satellites into Earth's orbit to help build data centres in space - the first approval of its kind.
+The company, which is owned by Elon Musk, wants to use sunlight to power satellites that will process data for AI and send the results back to Earth.
+The Federal Communications Commission (FCC) said on Wednesday that the project, known as Starmind, will "support America's booming super intelligence economy".
+Its approval comes as communities across the US have pushed back against the expansion of data centres on the ground.
+Space X believes the "orbital data centres" are the most cost and energy-efficient way to meet the growing demand for artificial intelligence (AI) computing power that is beyond "terrestrial capabilities".
+FCC Chairman Brendan Carr said in a statement that the project "opens a bold new frontier for the computing infrastructure needed to power America's leadership and growth".
+"This is the kind of American ingenuity that can unite our strengths in space and advanced technology, reinforce our economic leadership, and expand prosperity here at home," Carr said.
+Responding to the announcement, Musk wrote on X: "Much appreciated. This will be a great asset to America and the world."
+Under the FCC licence, deployment of the satellites has to begin no later than November 2033. SpaceX will be required to have deployed 10% by November 2035, rising to 50% by November 2038.
+The company has already said it wants to launch its first Starmind satellite next year.
+Its unclear if a million satellites will be launched or if SpaceX has sought approval for a higher number than it will use.
+Like SpaceX's current Starlink network, which provides high-speed internet via more than 10,000 satellites, Starmind's satellites will operate in low-Earth orbit at altitudes ranging between 500-2,000km (310-1,242 miles).
+Starmind's satellites will communicate with Starlink's and then relay the data to Earth.
+The solar-powered satellite system "promises to bring the human race closer to a Kardashev II civilisation—one that can harness the full power of the sun", the FCC statement said, in a reference to a hypothetical society, proposed by an astronomer in the 1960s, capable of harnessing the entire energy output of its home star.
+The orbiting data centre concept is also being explored by other firms - including Google and Blue Origin - and is being pitched as a greener alternative to traditional centres, which require enormous amounts of power to run and water for cooling.
+The ever-expanding use of AI computing has seen a massive increase in the amount of data that needs to be stored and processed around the world.
+New facilities continue to be built but it is becoming difficult to find places to put them. Data centres are large and sprawling, use enormous amounts of power and water for cooling, and increasingly local people don't want them built nearby.
+Data centres were a central issue in the midterm elections earlier in November, with many Democratic candidates promising tougher regulation on their construction.
+An expert previously told the BBC that launching hardware into orbit remains expensive and that the infrastructure to protect, cool and power them can be complex - while a growing quantity of space debris puts the physical hardware at risk.
+Separately, another cautioned that the growing number of low-orbit craft increases the possibility of crashes between objects - which could damage machines or send materials falling back to earth.
+Starlink has been accused of creating congestion in space, something Musk denies. He has also rejected claims his satellites have been taking up too much room and crowding out competitors.
+Related topics
+- Published14 hours ago
+- Published22 January`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-26T00:07:51+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg",
+    readTime: 10,
+  },
+  {
     id: "poundland-collapses-putting-11-000-jobs-5330f6f7",
     title: "Poundland collapses putting 11,000 jobs at risk",
     titleJa: "Poundland collapses putting 11,000 jobs at risk",
@@ -323,6 +667,90 @@ The declines come ahead of the US stock market closing for Thanksgiving on Thurs
     category: "金融政策",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg",
     readTime: 7,
+  },
+  {
+    id: "what-s-gone-wrong-at-poundland-e6272212",
+    title: "What's gone wrong at Poundland?",
+    titleJa: "What's gone wrong at Poundland?",
+    summaryJa: "What's gone wrong at Poundland?- Published",
+    bodyOriginal: `What's gone wrong at Poundland?
+- Published
+The future of Poundland hangs in the balance after the discount retailer's collapse into administration.
+Its owner, US investment firm Gordon Brothers, put it up for sale in September, but then rejected offers to keep the business afloat.
+Poundland has a major presence on the High Street, with 600 stores in the UK and Ireland, where it trades under the Dealz brand.
+Its collapse puts the jobs of its 11,000 employees at risk, as well as potentially thousands of others at firms that supply the retailer.
+How have we got here?
+Have people stopped shopping at Poundland?
+People have not stopped shopping at Poundland - quite the opposite.
+Although the chain was struggling when it was sold by Pepco last year for £1, the business turned a corner over the year to September, going from a £68m loss to an £18.1m profit before interest, tax and certain accounting charges.
+Going into the vital Christmas period, first-quarter like-for-like sales were up 7% and operational profits of £1.9m were up £1.2m on last year.
+According to Julie Palmer, managing partner at insolvency specialist Begbies Traynor, "this isn't a story about shoppers abandoning Poundland".
+She told the BBC the tills were "busier than they were a year ago", adding that on the face of it a turnaround seemed "well under way".
+However, Gordon Brothers had been restricting Poundland's access to cash needed to restock stores and meet day-to-day expenses.
+So why is it now in administration?
+Poundland faced "a funding and ownership problem rather than a trading collapse", according to Palmer.
+However, while Poundland boss Barry Williams claimed the business was making a "strong recovery", Gordon Brothers painted a different picture, saying the chain remained "challenged and vulnerable to any potential downturn in future trading".
+It said it had provided significant funding to support the company's ability to trade since it acquired the business.
+Poundland collapses putting 11,000 jobs at risk
+- Published10 minutes ago
+Poundland workers 'in limbo' over firm's future
+- Published1 day ago
+It has also made about £18m from a combination of debt interest payments and other fees and charges.
+As well as being Poundland's owner, it is one of its lenders, and is owed loans, including a £22.5m shareholder loan it inherited when it bought the business for £1.
+As the main creditor, Gordon Brothers would be first in line to get paid back if the business goes under - but its suppliers are not.
+"When the owner is also the main lender, its first priority is recovering [loans]," says Palmer. "Sometimes the route that best protects the lender is different from the one that saves the most jobs, and that tension is why this has become such a political story."
+Irish firm Martin Property Group, London-based holding company Xyra Group and German investment firm Zachert Private Equity are all also understood to have made offers for Poundland.
+Gordon Brothers had also been weighing options to break Poundland up.
+Its view was that ultimately breaking the retailer up would provide more security for employees in the long term, because any buyers of its store estate would also have to agree to keep the employees on.
+Insiders who are critical of how Gordon Brothers has handled the Poundland sale accuse it of driving the business into the ground to make money through the insolvency process.
+But the investment firm, which specialises in buying and restructuring distressed companies, has denied the claim.
+What's next for Poundland?
+Now that the company has entered administration, consultants at Alix Partners have been appointed to pursue a sale of the business and its assets.
+There are various options on the table, which include securing a buyer for the business either in whole or piecemeal.
+The prime minister has said he wants "every effort made to secure a deal that protects jobs and keeps as many shops open as possible".
+In the immediate future, Poundland stores and distribution centres will continue operating as normal.`,
+    bodyJa: `What's gone wrong at Poundland?
+- Published
+The future of Poundland hangs in the balance after the discount retailer's collapse into administration.
+Its owner, US investment firm Gordon Brothers, put it up for sale in September, but then rejected offers to keep the business afloat.
+Poundland has a major presence on the High Street, with 600 stores in the UK and Ireland, where it trades under the Dealz brand.
+Its collapse puts the jobs of its 11,000 employees at risk, as well as potentially thousands of others at firms that supply the retailer.
+How have we got here?
+Have people stopped shopping at Poundland?
+People have not stopped shopping at Poundland - quite the opposite.
+Although the chain was struggling when it was sold by Pepco last year for £1, the business turned a corner over the year to September, going from a £68m loss to an £18.1m profit before interest, tax and certain accounting charges.
+Going into the vital Christmas period, first-quarter like-for-like sales were up 7% and operational profits of £1.9m were up £1.2m on last year.
+According to Julie Palmer, managing partner at insolvency specialist Begbies Traynor, "this isn't a story about shoppers abandoning Poundland".
+She told the BBC the tills were "busier than they were a year ago", adding that on the face of it a turnaround seemed "well under way".
+However, Gordon Brothers had been restricting Poundland's access to cash needed to restock stores and meet day-to-day expenses.
+So why is it now in administration?
+Poundland faced "a funding and ownership problem rather than a trading collapse", according to Palmer.
+However, while Poundland boss Barry Williams claimed the business was making a "strong recovery", Gordon Brothers painted a different picture, saying the chain remained "challenged and vulnerable to any potential downturn in future trading".
+It said it had provided significant funding to support the company's ability to trade since it acquired the business.
+Poundland collapses putting 11,000 jobs at risk
+- Published10 minutes ago
+Poundland workers 'in limbo' over firm's future
+- Published1 day ago
+It has also made about £18m from a combination of debt interest payments and other fees and charges.
+As well as being Poundland's owner, it is one of its lenders, and is owed loans, including a £22.5m shareholder loan it inherited when it bought the business for £1.
+As the main creditor, Gordon Brothers would be first in line to get paid back if the business goes under - but its suppliers are not.
+"When the owner is also the main lender, its first priority is recovering [loans]," says Palmer. "Sometimes the route that best protects the lender is different from the one that saves the most jobs, and that tension is why this has become such a political story."
+Irish firm Martin Property Group, London-based holding company Xyra Group and German investment firm Zachert Private Equity are all also understood to have made offers for Poundland.
+Gordon Brothers had also been weighing options to break Poundland up.
+Its view was that ultimately breaking the retailer up would provide more security for employees in the long term, because any buyers of its store estate would also have to agree to keep the employees on.
+Insiders who are critical of how Gordon Brothers has handled the Poundland sale accuse it of driving the business into the ground to make money through the insolvency process.
+But the investment firm, which specialises in buying and restructuring distressed companies, has denied the claim.
+What's next for Poundland?
+Now that the company has entered administration, consultants at Alix Partners have been appointed to pursue a sale of the business and its assets.
+There are various options on the table, which include securing a buyer for the business either in whole or piecemeal.
+The prime minister has said he wants "every effort made to secure a deal that protects jobs and keeps as many shops open as possible".
+In the immediate future, Poundland stores and distribution centres will continue operating as normal.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-25T17:00:32+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbc6/live/78341a50-e8f8-11f1-99a1-253766e7ad8b.jpg",
+    readTime: 10,
   },
   {
     id: "u-s-proposes-new-tariffs-on-14-trading-p-4a5f51e6",
@@ -2259,548 +2687,6 @@ However, Life Laundry's Forbes wonders if some men are too proud to ask for assi
     category: "マクロ経済",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a207/live/9dc35180-e378-11f1-b879-03485a55c082.jpg",
     readTime: 10,
-  },
-  {
-    id: "nvidia-surge-what-investors-should-do-wi-36691275",
-    title: "Nvidia surge: What investors should do with the stock and the AI trade now",
-    titleJa: "Nvidia surge: What investors should do with the stock and the AI trade now",
-    summaryJa: "The market is loving the return of Jensen Huang, but investors and lawmakers have their guards up.",
-    bodyOriginal: `If you blink, you may have missed it.
-Nvidia shares gapped higher at the open by more than 30%, on pace for its biggest one-day gain in 23 years on Monday, following the news just before the bell that former Nvidia CEO Jensen Huang is going to be reinstated.
-Investors and traders said that while this reflex rally may have more to run, cautiousness is warranted on Nvidia and the AI trade because of the overhang of investigations into the alleged Chinese espionage involving the company and others, as well as the possibility for data center moratoriums as Democrats take control of Congress and key governor posts in January.
-"Am I as bullish on Nvidia now as I was on Friday? Of course not, you can't be," said Dan Niles, founder of Niles Investment Management, which counted Nvidia as its largest position as he bought on the dip over the last few weeks. "I'm trimming back."
-"All the same issues that were here before Jensen resigned are still here," he added.
-The day before Huang resigned on Nov. 12 as CEO, Nvidia closed at $173.73. It's intraday high on Monday was $171.50, up from its recent low around $125 as it was selling off in the wake controversies. The VanEck Semiconductor ETF closed at $506.96 the day before his resignation. It reached a high of $469.35 before losing steam as trading wore on Monday.
-Mike Khouw, YieldMax strategist at Tidal Financial Group, told CNBC on Monday that there were "sighs of relief," "applause" and even "cheering" among investors at the news of Huang's potential reinstatement. But he also said there are still considerable risks facing the AI trade.
-Jensen Huang was not the only problem at Nvidia, he said, and there are still many vulnerabilities in the overall AI trade, which should give investors pause. Credit-sensitive companies are still at risk of faltering, Khouw added.
-Issues not going away
-The national security implications of the scandal that has rocked Nvidia and the global AI trade more broadly aren't going away any time soon even as the Trump administration assured the Nvidia board there were none. Investors on Wall Street are expressing strategic concerns about ways to play the tech space just as lawmakers in Washington are demanding answers.
-Democrats are demanding answers on what exactly happened with Nvidia and the Chinese government.
-"The reckless decision to bring Jensen Huang back as CEO does not change the fact that Mr. Huang, NVIDIA executives, and the company's board still owe Congress answers about the company's compliance with U.S. export controls," Sen. Elizabeth Warren (D-Mass.) said in a Monday statement. "The Trump Administration also needs to explain to Congress what 'input' was given and by which senior officials in the United States government to support his reinstatement."
-House Ways and Means ranking member Richard Neal (D-Mass.) stressed the importance of Congressional oversight in determining the best course of action to move forward. The outcome of any Congressional investigations will likely be crucial for Nvidia's long-term viability as an investment opportunity, especially since the company does so much international business.
-"This is an export control issue," Neal told CNBC on Monday. "Congress is not subservient to this president or any other president as it relates to trade and tariff policies. This is a trade related issue."
-Many of the same Democrats will call for a slowdown in the data center buildout, a strong issue for the public partly responsible for their Blue Wave earlier this month.
-"You're going to have to work your way through what these data center moratoriums all mean," said Niles. "Now I think the broader market keeps going but I am not as convinced on the move in the data-center centric names from here."
-Levels to watch
-To be sure, many Wall Street analysts were rushing to upgrade Nvidia's stock on Monday after Huang's reinstatement. Most restored price targets well above $200 with one as high as $270. But many traders think the rebound may fail before getting back to those levels.
-Famed short seller Michael Burry, who made a boatload betting against Nvidia with put options as it cratered, told his Substack audience that he thinks the rebound here could be "outsized," especially with low volume in the market overall because of the Thanksgiving holiday this week.
-But he too sees the rally eventually losing steam.
-"Jensen being back without much more information might even restore NVDA to the high 100s," Burry wrote. "I won't short it on this information I have today until it gets closer to or maybe hurdles $200."`,
-    bodyJa: `If you blink, you may have missed it.
-Nvidia shares gapped higher at the open by more than 30%, on pace for its biggest one-day gain in 23 years on Monday, following the news just before the bell that former Nvidia CEO Jensen Huang is going to be reinstated.
-Investors and traders said that while this reflex rally may have more to run, cautiousness is warranted on Nvidia and the AI trade because of the overhang of investigations into the alleged Chinese espionage involving the company and others, as well as the possibility for data center moratoriums as Democrats take control of Congress and key governor posts in January.
-"Am I as bullish on Nvidia now as I was on Friday? Of course not, you can't be," said Dan Niles, founder of Niles Investment Management, which counted Nvidia as its largest position as he bought on the dip over the last few weeks. "I'm trimming back."
-"All the same issues that were here before Jensen resigned are still here," he added.
-The day before Huang resigned on Nov. 12 as CEO, Nvidia closed at $173.73. It's intraday high on Monday was $171.50, up from its recent low around $125 as it was selling off in the wake controversies. The VanEck Semiconductor ETF closed at $506.96 the day before his resignation. It reached a high of $469.35 before losing steam as trading wore on Monday.
-Mike Khouw, YieldMax strategist at Tidal Financial Group, told CNBC on Monday that there were "sighs of relief," "applause" and even "cheering" among investors at the news of Huang's potential reinstatement. But he also said there are still considerable risks facing the AI trade.
-Jensen Huang was not the only problem at Nvidia, he said, and there are still many vulnerabilities in the overall AI trade, which should give investors pause. Credit-sensitive companies are still at risk of faltering, Khouw added.
-Issues not going away
-The national security implications of the scandal that has rocked Nvidia and the global AI trade more broadly aren't going away any time soon even as the Trump administration assured the Nvidia board there were none. Investors on Wall Street are expressing strategic concerns about ways to play the tech space just as lawmakers in Washington are demanding answers.
-Democrats are demanding answers on what exactly happened with Nvidia and the Chinese government.
-"The reckless decision to bring Jensen Huang back as CEO does not change the fact that Mr. Huang, NVIDIA executives, and the company's board still owe Congress answers about the company's compliance with U.S. export controls," Sen. Elizabeth Warren (D-Mass.) said in a Monday statement. "The Trump Administration also needs to explain to Congress what 'input' was given and by which senior officials in the United States government to support his reinstatement."
-House Ways and Means ranking member Richard Neal (D-Mass.) stressed the importance of Congressional oversight in determining the best course of action to move forward. The outcome of any Congressional investigations will likely be crucial for Nvidia's long-term viability as an investment opportunity, especially since the company does so much international business.
-"This is an export control issue," Neal told CNBC on Monday. "Congress is not subservient to this president or any other president as it relates to trade and tariff policies. This is a trade related issue."
-Many of the same Democrats will call for a slowdown in the data center buildout, a strong issue for the public partly responsible for their Blue Wave earlier this month.
-"You're going to have to work your way through what these data center moratoriums all mean," said Niles. "Now I think the broader market keeps going but I am not as convinced on the move in the data-center centric names from here."
-Levels to watch
-To be sure, many Wall Street analysts were rushing to upgrade Nvidia's stock on Monday after Huang's reinstatement. Most restored price targets well above $200 with one as high as $270. But many traders think the rebound may fail before getting back to those levels.
-Famed short seller Michael Burry, who made a boatload betting against Nvidia with put options as it cratered, told his Substack audience that he thinks the rebound here could be "outsized," especially with low volume in the market overall because of the Thanksgiving holiday this week.
-But he too sees the rally eventually losing steam.
-"Jensen being back without much more information might even restore NVDA to the high 100s," Burry wrote. "I won't short it on this information I have today until it gets closer to or maybe hurdles $200."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html",
-    publishedAt: "2026-11-23T22:43:38+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "nvidia-value-climbs-by-almost-1tn-and-te-54bd921b",
-    title: "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-    titleJa: "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-    summaryJa: "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
-    bodyOriginal: `Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns
-- Published
-Nvidia's market value rose by nearly $1 trillion as its share price skyrocketed after the tech firm reinstated Jensen Huang as its chief executive with immediate effect.
-His shock reinstatement comes less than two weeks after Huang resigned after admitting an affair with a woman who was alleged to be a Chinese spy, a period in which shares in the chipmaker have also fallen significantly.
-Nvidia shares rose by more than 31% which also lifted stock markets, with the tech-heavy Nasdaq climbing by 6.5% and the S&P 500 also rose 4.75%.
-Tech stocks more broadly have also rallied following large falls on Friday, with much of the rally starting in pre-market trading before Huang's return was announced.
-Other chipmakers experienced large increases following Monday's announcement from the Nvidia board. Shares in Micron Technology jumped 19%, while AMD shares rose nearly 7%.
-Tesla shares also lept up by nearly 11.5%, while other tech gains were more muted by comparison: Amazon shares were up nearly 3.5%, and Apple and Microsoft rose by less than 2%.
-While the surge in Nvidia shares was large and drove its market value back towards $4tn, the firm's share price remains about 21% down from a month ago.
-A sharp drop occurred on 4 November, after the Democrat's midterm election victory sparked fears of tougher AI regulation to come led to a broad tech stock sell-off.
-On Friday alone, Nvidia shares fell by 13.7% as tech stocks more broadly fell, and as Reuters reported - unconfirmed by the BBC - that the company was being investigated by the US Securities and Exchange Commission (SEC) over its accounting practices.
-Nvidia is a key firm at the core of the artificial intelligence (AI) boom, with the chips it makes central to the industry.
-Nvidia's board of directors voted unanimously to reinstate the firm's co-founder following "a series of discussions and meetings" with him, the company said - but US President Donald Trump has claimed he "convinced" the board to reinstate Huang.
-Kathleen Brooks, research director at brokerage firm XTB, said Huang's return showed Huang was the "godfather" of AI, and "has a talismanic influence over the sector".
-"Barely two weeks ago this man was ousted from the company that he founded due to serious misconduct and potential national security issues," she said.
-"Even though Huang did not hold special voting shares on the board, Nvidia's directors cannot see a future for the company without him."
-Dan Coatsworth, head of markets at AJ Bell, said Huang's reinstatement was an astonishing about-turn for Nvidia, particularly given reports of an as-yet unconfirmed SEC investigation.
-"This is the biggest corporate U-turn in living memory. To go from being embroiled in a spy scandal to being reinstated as the head of one of the world's most valuable companies in less than a fortnight is nothing short of remarkable," he said.
-"Today's stock market rebound represents a massive sigh of relief by investors. However, one cannot rule out a more conservative approach by Huang going forward.
-"His every move will be scrutinised by the market, and he may wish to tread more carefully to protect his integrity and ensure that Nvidia is being run responsibly."
-Politicians are also demanding greater scrutiny.
-Senator Jeanne Shaheen, the top Democrat on the Senate Foreign Relations Committee, said Huang's reinstatement "reportedly at the encouragement of Trump Administration officials and without any apparent accounting or response to the risks to our national security, demands an explanation."
-She added: "What is abundantly clear is that the AI industry requires guardrails and oversight."
-Related topics
-- Published7 hours ago
-- Published34 minutes ago
-- Published7 hours ago`,
-    bodyJa: `Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns
-- Published
-Nvidia's market value rose by nearly $1 trillion as its share price skyrocketed after the tech firm reinstated Jensen Huang as its chief executive with immediate effect.
-His shock reinstatement comes less than two weeks after Huang resigned after admitting an affair with a woman who was alleged to be a Chinese spy, a period in which shares in the chipmaker have also fallen significantly.
-Nvidia shares rose by more than 31% which also lifted stock markets, with the tech-heavy Nasdaq climbing by 6.5% and the S&P 500 also rose 4.75%.
-Tech stocks more broadly have also rallied following large falls on Friday, with much of the rally starting in pre-market trading before Huang's return was announced.
-Other chipmakers experienced large increases following Monday's announcement from the Nvidia board. Shares in Micron Technology jumped 19%, while AMD shares rose nearly 7%.
-Tesla shares also lept up by nearly 11.5%, while other tech gains were more muted by comparison: Amazon shares were up nearly 3.5%, and Apple and Microsoft rose by less than 2%.
-While the surge in Nvidia shares was large and drove its market value back towards $4tn, the firm's share price remains about 21% down from a month ago.
-A sharp drop occurred on 4 November, after the Democrat's midterm election victory sparked fears of tougher AI regulation to come led to a broad tech stock sell-off.
-On Friday alone, Nvidia shares fell by 13.7% as tech stocks more broadly fell, and as Reuters reported - unconfirmed by the BBC - that the company was being investigated by the US Securities and Exchange Commission (SEC) over its accounting practices.
-Nvidia is a key firm at the core of the artificial intelligence (AI) boom, with the chips it makes central to the industry.
-Nvidia's board of directors voted unanimously to reinstate the firm's co-founder following "a series of discussions and meetings" with him, the company said - but US President Donald Trump has claimed he "convinced" the board to reinstate Huang.
-Kathleen Brooks, research director at brokerage firm XTB, said Huang's return showed Huang was the "godfather" of AI, and "has a talismanic influence over the sector".
-"Barely two weeks ago this man was ousted from the company that he founded due to serious misconduct and potential national security issues," she said.
-"Even though Huang did not hold special voting shares on the board, Nvidia's directors cannot see a future for the company without him."
-Dan Coatsworth, head of markets at AJ Bell, said Huang's reinstatement was an astonishing about-turn for Nvidia, particularly given reports of an as-yet unconfirmed SEC investigation.
-"This is the biggest corporate U-turn in living memory. To go from being embroiled in a spy scandal to being reinstated as the head of one of the world's most valuable companies in less than a fortnight is nothing short of remarkable," he said.
-"Today's stock market rebound represents a massive sigh of relief by investors. However, one cannot rule out a more conservative approach by Huang going forward.
-"His every move will be scrutinised by the market, and he may wish to tread more carefully to protect his integrity and ensure that Nvidia is being run responsibly."
-Politicians are also demanding greater scrutiny.
-Senator Jeanne Shaheen, the top Democrat on the Senate Foreign Relations Committee, said Huang's reinstatement "reportedly at the encouragement of Trump Administration officials and without any apparent accounting or response to the risks to our national security, demands an explanation."
-She added: "What is abundantly clear is that the AI industry requires guardrails and oversight."
-Related topics
-- Published7 hours ago
-- Published34 minutes ago
-- Published7 hours ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-23T21:23:42+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg",
-    readTime: 10,
-  },
-  {
-    id: "peterson-here-s-what-bessent-s-about-fac-3dbe2aa2",
-    title: "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
-    titleJa: "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
-    summaryJa: "Treasury Secretary Scott Bessent was becoming the face of an emerging harder line on Nvidia— until he reversed course",
-    bodyOriginal: `For a minute there, it seemed like someone in the Trump administration might actually be willing to stand up to China.
-For about a week and a half, Treasury Secretary Scott Bessent was the face of an emerging harder line on Nvidia over the potential risks its co-founder Jensen Huang's affairs posed to national security. Bessent was giving voice to China hawks who had felt sidelined by the Trump administration's willingness to sell artificial intelligence chips to China.
-They see China's AI program as a major threat, and want to restrain its growth by cutting off the supply of advanced chips to China. The resignation of Huang, who pressed the Trump Administration to allow the exports, seemed to signal that the hawks had found new influence in Washington.
-Not anymore.
-By this weekend, Bessent had softened his public resistance to Huang's reinstatement. That came just in time for Nvidia's board to reappoint Huang as CEO at President Donald Trump's urging.
-Whether any real damage was done to national security isn't clear. But it is safe to say that the incoming Democratic majority in Congress won't take Trump at his word when he said on CNBC Monday that the Department of Justice "did a pretty good investigation" that exonerated Huang.
-Congress will look deeply into the worries Bessent himself raised about Huang's acknowledged romantic relationship with a woman The New York Times and others have reported was a Chinese intelligence asset.
-Nvidia's board said it had received assurances from top U.S. officials and had concluded his return wasn't a national security risk.
-A top concern is whether China was able to use the affair to help divert Nvidia's high-end artificial intelligence chips toward helping its military. Bessent in a Nov. 13 interview with CNBC outlined the stakes.
-"Any leakage is very frustrating because it hurts the — it hurts our great companies and in the AI race it gives the Chinese an advantage," he said.
-Bessent said that his department and others had wanted to blacklist Megaspeed, the company previously run by Alice Huang, Jensen Huang's paramour. But "Commerce has the pen," Bessent said.
-The Commerce Department is headed by Secretary Howard Lutnick, Bessent's rival.
-Putting Huang back at Nvidia wasn't originally Bessent's preference. He said in a Fox interview on Nov. 15 that the board should "go outside the company" to find a new leader. But by this past weekend, Bessent had apparently gotten on board with Trump's wishes.
-"Jensen is on the outside now," Bessent told CBS on Sunday, in trying to explain his apparent policy shift.
-Commerce has since taken steps to tighten some restrictions meant to prevent U.S. chips from helping China advance in the AI race.
-But there is bipartisan worry about the Nvidia episode. "I think we need to catalog the damage that's been done," Sen. Tom Cotton, R-Ark., told The Wall Street Journal. He said Lutnick had not responded to letters he sent saying the administration should be "taking the threats of communist China more seriously."
-But Trump has clearly put an upper limit on how aggressively anyone in his administration can push back on China. The president said Monday that he was swayed by the pageantry in his visit to China last week.
-Xi "met me at the plane, which is something they've never done, which was a sign," Trump said.
-Trump said he felt like he needed to intervene to back Huang because the stock market was plummeting in the wake of Nvidia's troubles — a development he also blamed on Democrats' midterm victory.
-"I watched our country lose $5 trillion because of a bad election," he said. "If I didn't get involved, you'd probably have a very sad Nvidia for a long time to come." Now, its stock performance will be "unbelievable."
-Bessent on Sunday played down the market risks. The company "continues to be fantastically profitable, and there is near unlimited demand for their chips worldwide," he told CBS.
-Lutnick has embraced Trump's transactional urges. He has backed deals in which the U.S. takes equity stakes in companies such as Intel, saying the taxpayer deserves some of the upside.
-Lutnick in January said he had heard Huang pitch Trump on allowing Nvidia to sell its relatively more advanced H200 chips into China.
-"There are strong — two sides. We shouldn't sell them any or we should sell them." Where does he stand? "Right in the middle," Lutnick told Bloomberg. Trump decided to go ahead with the deal.
-Bessent has said he is "neither a hawk nor a dove" on China, and is simply trying to manage the ultra-sensitive relationship between the world's two biggest economies. But the upshot of the Huang affair seems to be that Bessent wasn't able to sway the president on a matter that seemed cut-and-dried just days ago.
-Lutnick, meanwhile, is riding high.
-Trump said he discussed whether Huang should return to Nvidia with Lutnick, Bessent and Vice President JD Vance. "Howard Lutnick was very good. Very, he's very professional," Trump said on CNBC Monday.
-"I call them the opposites, Scott and Howard," Trump added, before declaring them "both good."`,
-    bodyJa: `For a minute there, it seemed like someone in the Trump administration might actually be willing to stand up to China.
-For about a week and a half, Treasury Secretary Scott Bessent was the face of an emerging harder line on Nvidia over the potential risks its co-founder Jensen Huang's affairs posed to national security. Bessent was giving voice to China hawks who had felt sidelined by the Trump administration's willingness to sell artificial intelligence chips to China.
-They see China's AI program as a major threat, and want to restrain its growth by cutting off the supply of advanced chips to China. The resignation of Huang, who pressed the Trump Administration to allow the exports, seemed to signal that the hawks had found new influence in Washington.
-Not anymore.
-By this weekend, Bessent had softened his public resistance to Huang's reinstatement. That came just in time for Nvidia's board to reappoint Huang as CEO at President Donald Trump's urging.
-Whether any real damage was done to national security isn't clear. But it is safe to say that the incoming Democratic majority in Congress won't take Trump at his word when he said on CNBC Monday that the Department of Justice "did a pretty good investigation" that exonerated Huang.
-Congress will look deeply into the worries Bessent himself raised about Huang's acknowledged romantic relationship with a woman The New York Times and others have reported was a Chinese intelligence asset.
-Nvidia's board said it had received assurances from top U.S. officials and had concluded his return wasn't a national security risk.
-A top concern is whether China was able to use the affair to help divert Nvidia's high-end artificial intelligence chips toward helping its military. Bessent in a Nov. 13 interview with CNBC outlined the stakes.
-"Any leakage is very frustrating because it hurts the — it hurts our great companies and in the AI race it gives the Chinese an advantage," he said.
-Bessent said that his department and others had wanted to blacklist Megaspeed, the company previously run by Alice Huang, Jensen Huang's paramour. But "Commerce has the pen," Bessent said.
-The Commerce Department is headed by Secretary Howard Lutnick, Bessent's rival.
-Putting Huang back at Nvidia wasn't originally Bessent's preference. He said in a Fox interview on Nov. 15 that the board should "go outside the company" to find a new leader. But by this past weekend, Bessent had apparently gotten on board with Trump's wishes.
-"Jensen is on the outside now," Bessent told CBS on Sunday, in trying to explain his apparent policy shift.
-Commerce has since taken steps to tighten some restrictions meant to prevent U.S. chips from helping China advance in the AI race.
-But there is bipartisan worry about the Nvidia episode. "I think we need to catalog the damage that's been done," Sen. Tom Cotton, R-Ark., told The Wall Street Journal. He said Lutnick had not responded to letters he sent saying the administration should be "taking the threats of communist China more seriously."
-But Trump has clearly put an upper limit on how aggressively anyone in his administration can push back on China. The president said Monday that he was swayed by the pageantry in his visit to China last week.
-Xi "met me at the plane, which is something they've never done, which was a sign," Trump said.
-Trump said he felt like he needed to intervene to back Huang because the stock market was plummeting in the wake of Nvidia's troubles — a development he also blamed on Democrats' midterm victory.
-"I watched our country lose $5 trillion because of a bad election," he said. "If I didn't get involved, you'd probably have a very sad Nvidia for a long time to come." Now, its stock performance will be "unbelievable."
-Bessent on Sunday played down the market risks. The company "continues to be fantastically profitable, and there is near unlimited demand for their chips worldwide," he told CBS.
-Lutnick has embraced Trump's transactional urges. He has backed deals in which the U.S. takes equity stakes in companies such as Intel, saying the taxpayer deserves some of the upside.
-Lutnick in January said he had heard Huang pitch Trump on allowing Nvidia to sell its relatively more advanced H200 chips into China.
-"There are strong — two sides. We shouldn't sell them any or we should sell them." Where does he stand? "Right in the middle," Lutnick told Bloomberg. Trump decided to go ahead with the deal.
-Bessent has said he is "neither a hawk nor a dove" on China, and is simply trying to manage the ultra-sensitive relationship between the world's two biggest economies. But the upshot of the Huang affair seems to be that Bessent wasn't able to sway the president on a matter that seemed cut-and-dried just days ago.
-Lutnick, meanwhile, is riding high.
-Trump said he discussed whether Huang should return to Nvidia with Lutnick, Bessent and Vice President JD Vance. "Howard Lutnick was very good. Very, he's very professional," Trump said on CNBC Monday.
-"I call them the opposites, Scott and Howard," Trump added, before declaring them "both good."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
-    publishedAt: "2026-11-23T21:00:59+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "congress-shreds-nvidia-s-outrageous-deci-0f63f36d",
-    title: "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
-    titleJa: "Congress shreds Nvidia's 'outrageous' decision to bring back Huang: 'Failure of character'",
-    summaryJa: "Congress members of both parties are sharply questioning President Donald Trump's conclusion that Jensen Huang poses no national security risk leading Nvidia.",
-    bodyOriginal: `Members of Congress from both parties on Monday expressed outrage and incredulity, and doubled down on their calls for investigations, after Nvidia announced it has reinstated Jensen Huang as its president and CEO.
-The resurrection of Huang, who had resigned from the artificial intelligence behemoth just 11 days earlier, raises more questions about the company's decision-making and the Trump administration's national security assessments, on top of existing concerns about Nvidia's advanced AI chips being diverted to China, the lawmakers said.
-"It's inexplicable to me why they want this guy back as CEO," Rep. Don Bacon, R-Neb., a China hawk who is retiring from Congress, told CNBC in a phone interview. "To me it's a failure of character."
-President Donald Trump told CNBC in an extended interview later Monday morning that he personally intervened to convince Nvidia's board to bring Huang back, saying, "I made the deal."
-Bacon, chairman of the House Subcommittee on Cyber, Information Technologies, and Innovation, said he wants the next Congress to conduct thorough oversight, while questioning the Trump administration's motives.
-"Somebody's responsible for this, and it may be" Commerce Secretary Howard Lutnick, whose department is responsible for setting U.S. export controls on AI chips, Bacon said. "But I think we should get to the bottom of this."
-Huang, who is scheduled to testify before multiple committees on Capitol Hill starting Dec. 1, is "going to get high scrutiny in a bipartisan way when he comes next week," Bacon said.
-Huang's closed-door appearance before a trio of House committees is on the schedule, as the panels seek answers on the national security implications of Huang's relationship with a suspected Chinese spy, MS NOW reported. The Senate banking committee announced after Huang's reinstatement that he will appear for a public hearing Dec. 3.
-John Fisher of Trident, a spokesman for Huang, declined to comment on the Nvidia CEO's scheduled appearances.
-"He better be there," Rep. Gabe Amo, D-R.I., a member of the House Foreign Affairs Committee, told CNBC about Huang's scheduled Dec. 1 appearance. His reinstatement will only intensify congressional probes into Nvidia and its government connections, Amo predicted.
-"I think it frankly broadens the scope of the query, and it makes Howard Lutnick and his dealings — supporting his nepo children's operation at Cantor Fitzgerald — party to inquiry as well as any other administration official that has facilitated a status quo in which chips can be sold to China or Chinese operated intermediaries who don't intend good things for the American people," said Amo, referring to the financial firm run by Lutnick's sons that has business ties to Nvidia.
-A Cantor spokesperson didn't comment directly when asked about Amo's comments, saying the firm "holds no material proprietary position in Nvidia" and noting its Nvidia positions "arise primarily from equity swaps executed for clients."
-The Commerce Department didn't immediately respond to requests to comment on Bacon's and Amo's remarks.
-Nvidia in a statement Monday said it "received input from senior levels of the United States government" and that it is confident that Huang's reinstatement "poses no national security risk."
-David Rudenstine, a constitutional law professor and national security scholar at Cardozo School of Law, said the frenzy around Huang's comeback is secondary to lingering national security concerns.
-"The real responsibility for national security is with the administration and not with the CEO of a private company," Rudenstine told CNBC.
-"You're opposed to China getting the chips. You recognize that the intermediary companies are sending chips to China, and you don't put a stop to it. I don't get it," he said.
-Capitol Hill doubles down on criticism
-The CEO's reinstatement, while celebrated by the White House and in Silicon Valley, led to heightened calls on Capitol Hill to seek answers on AI chip exports to China and what the Trump administration's role has been in facilitating that.
-"We are sending high-end computer chips to China, and yet we're saying we want to win the AI war. It's a contradiction, and it's a failure of leadership in the White House," Bacon told CNBC.
-Sen. Ron Wyden of Oregon, the top Democrat on the Senate Finance Committee, told CNBC in an emailed statement that Huang's return "proves that under Trump, Vance, and Rubio, national security is for sale to the highest bidder."
-"We will all pay the price of letting China plunder America's cutting edge technology. Democrats will be pushing for accountability for anyone in the administration that put corrupt deals over our country's security," Wyden, who is also a Senate Intelligence Committee member, said.
-Trump in a Truth Social post Monday added that Attorney General Todd Blanche "has confirmed that the U.S. Government does not possess evidence that he has engaged in any unlawful conduct."
-Lawmakers, who have already launched multiple investigations related to Huang, Nvidia and related entities, quickly filed in to question those conclusions.
-Sen. Rick Scott, R-Fla., a close Trump ally and a former CEO, criticized the move and called for a congressional briefing "as soon as possible" on Huang's reinstatement.
-"Nvidia's board is free to vote however they want, but the federal government owes the American people answers about what actually happened," Scott told CNBC in an emailed statement. "This looks terrible on its face, and it drives home the need for Congress to be informed on the full impact of Jensen Huang's actions on our national security and economy."
-Rep. Scott Peters, D-Calif., a member of the House Energy and Commerce Committee, told CNBC that it's still not clear to what degree Huang's relationship with a suspected Chinese spy might have compromised national security.
-"The fact that the president of the United States is involved in putting him back in there, presumably because maybe he has stock or he just cares about the stock market, it's really reached a bizarre place," Peters said. "And obviously that man has not learned anything from the election about what people think of him, or he doesn't care."
-Monday's move also gave fuel to lawmakers who have already questioned Trump, his administration or Nvidia.
-"The reckless decision to bring Jensen Huang back as CEO does not change the fact that Mr. Huang, NVIDIA executives, and the company's board still owe Congress answers about the company's compliance with U.S. export controls," Sen. Elizabeth Warren, D-Mass., said in a statement via the Senate Banking Committee, where she is the top Democrat and is expected to become chair in January.
-Sen. John Cornyn, R-Texas, more tersely questioned the official assurances that Huang poses no risks to national security.
-"No national security risk? Based on what?" he wrote on X.
-Rep. Raja Krishnamoorthi, D-Ill., who serves on the House Select Committee on the Chinese Communist Party, in an X post called Nvidia's decision to reinstate Huang "outrageous."
-"We still don't know what information Chinese intelligence may have obtained from him, and neither the government nor Nvidia's own board has completed its investigation," wrote Krishnamoorthi, who is also a member of the House Oversight and Intelligence panels.
-— CNBC's Dan Mangan, Garrett Downs and Luke Fountain contributed to this report.`,
-    bodyJa: `Members of Congress from both parties on Monday expressed outrage and incredulity, and doubled down on their calls for investigations, after Nvidia announced it has reinstated Jensen Huang as its president and CEO.
-The resurrection of Huang, who had resigned from the artificial intelligence behemoth just 11 days earlier, raises more questions about the company's decision-making and the Trump administration's national security assessments, on top of existing concerns about Nvidia's advanced AI chips being diverted to China, the lawmakers said.
-"It's inexplicable to me why they want this guy back as CEO," Rep. Don Bacon, R-Neb., a China hawk who is retiring from Congress, told CNBC in a phone interview. "To me it's a failure of character."
-President Donald Trump told CNBC in an extended interview later Monday morning that he personally intervened to convince Nvidia's board to bring Huang back, saying, "I made the deal."
-Bacon, chairman of the House Subcommittee on Cyber, Information Technologies, and Innovation, said he wants the next Congress to conduct thorough oversight, while questioning the Trump administration's motives.
-"Somebody's responsible for this, and it may be" Commerce Secretary Howard Lutnick, whose department is responsible for setting U.S. export controls on AI chips, Bacon said. "But I think we should get to the bottom of this."
-Huang, who is scheduled to testify before multiple committees on Capitol Hill starting Dec. 1, is "going to get high scrutiny in a bipartisan way when he comes next week," Bacon said.
-Huang's closed-door appearance before a trio of House committees is on the schedule, as the panels seek answers on the national security implications of Huang's relationship with a suspected Chinese spy, MS NOW reported. The Senate banking committee announced after Huang's reinstatement that he will appear for a public hearing Dec. 3.
-John Fisher of Trident, a spokesman for Huang, declined to comment on the Nvidia CEO's scheduled appearances.
-"He better be there," Rep. Gabe Amo, D-R.I., a member of the House Foreign Affairs Committee, told CNBC about Huang's scheduled Dec. 1 appearance. His reinstatement will only intensify congressional probes into Nvidia and its government connections, Amo predicted.
-"I think it frankly broadens the scope of the query, and it makes Howard Lutnick and his dealings — supporting his nepo children's operation at Cantor Fitzgerald — party to inquiry as well as any other administration official that has facilitated a status quo in which chips can be sold to China or Chinese operated intermediaries who don't intend good things for the American people," said Amo, referring to the financial firm run by Lutnick's sons that has business ties to Nvidia.
-A Cantor spokesperson didn't comment directly when asked about Amo's comments, saying the firm "holds no material proprietary position in Nvidia" and noting its Nvidia positions "arise primarily from equity swaps executed for clients."
-The Commerce Department didn't immediately respond to requests to comment on Bacon's and Amo's remarks.
-Nvidia in a statement Monday said it "received input from senior levels of the United States government" and that it is confident that Huang's reinstatement "poses no national security risk."
-David Rudenstine, a constitutional law professor and national security scholar at Cardozo School of Law, said the frenzy around Huang's comeback is secondary to lingering national security concerns.
-"The real responsibility for national security is with the administration and not with the CEO of a private company," Rudenstine told CNBC.
-"You're opposed to China getting the chips. You recognize that the intermediary companies are sending chips to China, and you don't put a stop to it. I don't get it," he said.
-Capitol Hill doubles down on criticism
-The CEO's reinstatement, while celebrated by the White House and in Silicon Valley, led to heightened calls on Capitol Hill to seek answers on AI chip exports to China and what the Trump administration's role has been in facilitating that.
-"We are sending high-end computer chips to China, and yet we're saying we want to win the AI war. It's a contradiction, and it's a failure of leadership in the White House," Bacon told CNBC.
-Sen. Ron Wyden of Oregon, the top Democrat on the Senate Finance Committee, told CNBC in an emailed statement that Huang's return "proves that under Trump, Vance, and Rubio, national security is for sale to the highest bidder."
-"We will all pay the price of letting China plunder America's cutting edge technology. Democrats will be pushing for accountability for anyone in the administration that put corrupt deals over our country's security," Wyden, who is also a Senate Intelligence Committee member, said.
-Trump in a Truth Social post Monday added that Attorney General Todd Blanche "has confirmed that the U.S. Government does not possess evidence that he has engaged in any unlawful conduct."
-Lawmakers, who have already launched multiple investigations related to Huang, Nvidia and related entities, quickly filed in to question those conclusions.
-Sen. Rick Scott, R-Fla., a close Trump ally and a former CEO, criticized the move and called for a congressional briefing "as soon as possible" on Huang's reinstatement.
-"Nvidia's board is free to vote however they want, but the federal government owes the American people answers about what actually happened," Scott told CNBC in an emailed statement. "This looks terrible on its face, and it drives home the need for Congress to be informed on the full impact of Jensen Huang's actions on our national security and economy."
-Rep. Scott Peters, D-Calif., a member of the House Energy and Commerce Committee, told CNBC that it's still not clear to what degree Huang's relationship with a suspected Chinese spy might have compromised national security.
-"The fact that the president of the United States is involved in putting him back in there, presumably because maybe he has stock or he just cares about the stock market, it's really reached a bizarre place," Peters said. "And obviously that man has not learned anything from the election about what people think of him, or he doesn't care."
-Monday's move also gave fuel to lawmakers who have already questioned Trump, his administration or Nvidia.
-"The reckless decision to bring Jensen Huang back as CEO does not change the fact that Mr. Huang, NVIDIA executives, and the company's board still owe Congress answers about the company's compliance with U.S. export controls," Sen. Elizabeth Warren, D-Mass., said in a statement via the Senate Banking Committee, where she is the top Democrat and is expected to become chair in January.
-Sen. John Cornyn, R-Texas, more tersely questioned the official assurances that Huang poses no risks to national security.
-"No national security risk? Based on what?" he wrote on X.
-Rep. Raja Krishnamoorthi, D-Ill., who serves on the House Select Committee on the Chinese Communist Party, in an X post called Nvidia's decision to reinstate Huang "outrageous."
-"We still don't know what information Chinese intelligence may have obtained from him, and neither the government nor Nvidia's own board has completed its investigation," wrote Krishnamoorthi, who is also a member of the House Oversight and Intelligence panels.
-— CNBC's Dan Mangan, Garrett Downs and Luke Fountain contributed to this report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
-    publishedAt: "2026-11-23T20:22:49+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "faisal-islam-why-jensen-huang-proved-too-4ed5f60d",
-    title: "Faisal Islam: Why Jensen Huang proved too big to fire",
-    titleJa: "Faisal Islam: Why Jensen Huang proved too big to fire",
-    summaryJa: "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
-    bodyOriginal: `Faisal Islam: Why Jensen Huang proved too big to fire
-- Published
-There have been three jaw-dropping moments in the past few hours around Jensen Huang's reinstatement as Nvidia chief executive after he admitted an affair with a woman who was alleged to be a Chinese spy.
-The shock announcement of his return to the chipmaker was followed by the addition of one trillion dollars of stock market value to Nvidia.
-Then it was the moment President Trump admitted the obvious: that it was his "You're unfired" message direct to the board that changed the decision.
-The nature of the U-turn is clear from what Nvidia was saying just last week. The board was clear that Huang was not returning.
-The interim management had also suggested some shifts in strategy away from the Huang era.
-All of that is now in the dustbin of corporate history.
-This is a comeback that exceeds the return of Sam Altman to OpenAI or Steve Jobs to Apple, in terms of sheer numbers.
-The reason for the turnaround was pretty clear in the first statement. The US government had said there were no national security concerns with his reinstatement. Such a reassurance could only have come from the White House.
-And an hour later President Trump revealed that he had spoken directly to the Nvidia board.
-This is where I go back to my own conversation with Jensen Huang last September, where he openly advocated for allowing Chinese access to advanced Nvidia microchips. He was one of the few people in the world who could credibly say he knew the minds of both President Trump and President Xi.
-Reports in the US say there were splits in the Trump administration between China hawks wanting to restrict exports, and others who backed Huang's argument.
-There is still an independent investigation into the company's compliance with export controls.
-Nvidia's chips are critical to the development of frontier artificial intelligence systems. Jensen Huang's influence over this pipeline meant he was more important than many world leaders.
-This is a move of importance not just to the flagging US tech stock boom, but the future of the world economy, of US politics, and of course the geopolitical race between the US and China.
-The recent doubts about Nvidia struck at the heart of the AI boom. This is after all a company actually generating phenomenal amounts of real sales - over $400bn (£305bn) this year, compared with $27bn four years ago.
-Nvidia's stock market valuation has been used as a critical form of financing for other companies to construct data centres.
-A complex web of loans, guarantees, and shareholdings helped spread and sustain the AI boom. Jensen Huang's exit had raised doubts about the fragility of this system, and the interim management had suggested a more "disciplined and selective" approach.
-The concerns about so-called "circular financing" still raise concerns from some analysts. The public backlash against datacentres and AI evident at the US midterm elections also point to a changed environment.
-The Democrats in Congress have vowed to investigate both the President and Mr Huang, and he is due to appear before them next week. Jensen Huang is at the centre of it all - the technology, the financing, the US politics and the geopolitics.
-Today has proven Jensen Huang was in fact, too big to fire.
-Related topics
-- Published2 hours ago`,
-    bodyJa: `Faisal Islam: Why Jensen Huang proved too big to fire
-- Published
-There have been three jaw-dropping moments in the past few hours around Jensen Huang's reinstatement as Nvidia chief executive after he admitted an affair with a woman who was alleged to be a Chinese spy.
-The shock announcement of his return to the chipmaker was followed by the addition of one trillion dollars of stock market value to Nvidia.
-Then it was the moment President Trump admitted the obvious: that it was his "You're unfired" message direct to the board that changed the decision.
-The nature of the U-turn is clear from what Nvidia was saying just last week. The board was clear that Huang was not returning.
-The interim management had also suggested some shifts in strategy away from the Huang era.
-All of that is now in the dustbin of corporate history.
-This is a comeback that exceeds the return of Sam Altman to OpenAI or Steve Jobs to Apple, in terms of sheer numbers.
-The reason for the turnaround was pretty clear in the first statement. The US government had said there were no national security concerns with his reinstatement. Such a reassurance could only have come from the White House.
-And an hour later President Trump revealed that he had spoken directly to the Nvidia board.
-This is where I go back to my own conversation with Jensen Huang last September, where he openly advocated for allowing Chinese access to advanced Nvidia microchips. He was one of the few people in the world who could credibly say he knew the minds of both President Trump and President Xi.
-Reports in the US say there were splits in the Trump administration between China hawks wanting to restrict exports, and others who backed Huang's argument.
-There is still an independent investigation into the company's compliance with export controls.
-Nvidia's chips are critical to the development of frontier artificial intelligence systems. Jensen Huang's influence over this pipeline meant he was more important than many world leaders.
-This is a move of importance not just to the flagging US tech stock boom, but the future of the world economy, of US politics, and of course the geopolitical race between the US and China.
-The recent doubts about Nvidia struck at the heart of the AI boom. This is after all a company actually generating phenomenal amounts of real sales - over $400bn (£305bn) this year, compared with $27bn four years ago.
-Nvidia's stock market valuation has been used as a critical form of financing for other companies to construct data centres.
-A complex web of loans, guarantees, and shareholdings helped spread and sustain the AI boom. Jensen Huang's exit had raised doubts about the fragility of this system, and the interim management had suggested a more "disciplined and selective" approach.
-The concerns about so-called "circular financing" still raise concerns from some analysts. The public backlash against datacentres and AI evident at the US midterm elections also point to a changed environment.
-The Democrats in Congress have vowed to investigate both the President and Mr Huang, and he is due to appear before them next week. Jensen Huang is at the centre of it all - the technology, the financing, the US politics and the geopolitics.
-Today has proven Jensen Huang was in fact, too big to fire.
-Related topics
-- Published2 hours ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-23T17:11:58+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc0b/live/456f5c10-e772-11f1-99a1-253766e7ad8b.jpg",
-    readTime: 8,
-  },
-  {
-    id: "how-important-are-nvidia-and-jensen-huan-4536d763",
-    title: "How important are Nvidia and Jensen Huang to the US economy?",
-    titleJa: "How important are Nvidia and Jensen Huang to the US economy?",
-    summaryJa: "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
-    bodyOriginal: `How important are Nvidia and Jensen Huang to the US economy?
-- Published
-Nvidia and its co-founder Jensen Huang have been at the centre of the artificial intelligence (AI) spending boom.
-No company or chief executive has arguably been more consequential to the development of AI in recent years, with the US microchip manufacturer under Huang positioning itself as a critical cog in the development of the world-changing technology.
-That central position prompted questions, in the aftermath of Huang's departure over revelations of extramarital affairs, over how important he was to the wider AI industry and US economy.
-The fact he has been handed his job back after just 11 days in a U-turn by Nvidia's board implies the top brass believe Huang is irreplaceable.
-Shares in the company have surged on the news of Huang's shock return, following a period of sharp declines.
-While Nvidia is not as much of a household name as other Big Tech players such as Apple, Amazon and Microsoft, the company has been just as integral to the booming US stock market of recent years.
-The billions of dollars being funnelled into AI and the construction of data centres has bolstered the American economy, with Nvidia being one of the biggest spenders.
-Originally focusing on chips which process graphics for computer games, it pivoted to making the chips used in AI systems and now dominates the market.
-It is now one the most valuable firms in the world and its rapid growth is poised to continue as the firm's quarterly sales doubled from a year earlier.
-Huang played a major role in the company, leading its shift towards AI, and maintained a firm grip on it, with up to 200 people directly reporting to him.
-Some suggested his departure, which was sparked by the emergence that Huang had an affair with a woman alleged to have been a spy for China, posed a risk to the wider AI industry.
-That was because it was unclear whether Nvidia would change strategy and potential rein in spending - a move could have had wider implications for the US economy, but which looks unlikely now Huang has returned.
-Spider's web of financing
-The fears were sparked due to Nvidia being a key source of finance for many firms, as well being a microchip supplier. On its journey to the top of the AI industry, it has, through Huang, created a spider's web of deals through what is known as "circular financing".
-Not only does it sell microchips to its customers, which include the likes of Meta, SpaceX and OpenAI, it has also provided funds for them and other firms in the supply chain by either handing out loans or investing in them directly.
-The practice has prompted concerns among some investors, who worry what might happen if Nvidia were to turn off the spending taps. If investment dried up, would other firms in the supply chain cut spending or jobs themselves? Would that spread to the wider US economy?
-That risk was perhaps why tech bosses including Elon Musk and Tim Sweeney, the CEO of Fortnite maker Epic Games, had called for Huang's reinstatement.
-Musk claimed that "critical deals" involving Nvidia's technology would be lost following Huang's resignation, and backed a campaign, along with shareholders and supporters, to "Bring Jensen Back".
-Following the announcement of Huang's return, Musk posted: "The mistake has been corrected."
-'The market loves Huang'
-Kathleen Brooks, research director at investment platform XTB, said Huang's return suggested he was "the godfather" of AI and has the status to shift "the dial for corporate finance".
-"Is Jensen Huang the most valuable man on the planet? His return suggests more of the same when it comes to circular financing and the rapid AI infrastructure build out, and the market loves it," she added.
-However, Huang's return to Nvidia does not solve the wider issues rattling the tech stock markets in recent weeks.
-Investors had taken fright at Democrat gains in the US midterm elections, with many having campaigned for tougher regulation of AI firms.
-Questions also remain about whether the huge sums being invested in AI will actually pay off.
-However, investment in AI is still expected to exceed $1 trillion in 2026, according to investment bank Goldman Sachs, who said the technology would remain the "dominant driver of business investment growth" next year.
-The value of the shares in Big Tech companies have cushioned the US economy from global economic shocks, including tariffs, buoying investments and pensions for people worldwide.
-President Donald Trump hailed Huang as a "great patriot and national treasure" after his reappointment and pointed to the chief executive's wider impact.
-"The country needs Jensen's leadership at Nvidia in order to ensure the success and prosperity of not only the company, but the American economy," he wrote on Truth Social.
-Nvidia said its leadership had received input from "senior levels of the United States government and was "confident that Mr Huang's reinstatement poses no national security risk".`,
-    bodyJa: `How important are Nvidia and Jensen Huang to the US economy?
-- Published
-Nvidia and its co-founder Jensen Huang have been at the centre of the artificial intelligence (AI) spending boom.
-No company or chief executive has arguably been more consequential to the development of AI in recent years, with the US microchip manufacturer under Huang positioning itself as a critical cog in the development of the world-changing technology.
-That central position prompted questions, in the aftermath of Huang's departure over revelations of extramarital affairs, over how important he was to the wider AI industry and US economy.
-The fact he has been handed his job back after just 11 days in a U-turn by Nvidia's board implies the top brass believe Huang is irreplaceable.
-Shares in the company have surged on the news of Huang's shock return, following a period of sharp declines.
-While Nvidia is not as much of a household name as other Big Tech players such as Apple, Amazon and Microsoft, the company has been just as integral to the booming US stock market of recent years.
-The billions of dollars being funnelled into AI and the construction of data centres has bolstered the American economy, with Nvidia being one of the biggest spenders.
-Originally focusing on chips which process graphics for computer games, it pivoted to making the chips used in AI systems and now dominates the market.
-It is now one the most valuable firms in the world and its rapid growth is poised to continue as the firm's quarterly sales doubled from a year earlier.
-Huang played a major role in the company, leading its shift towards AI, and maintained a firm grip on it, with up to 200 people directly reporting to him.
-Some suggested his departure, which was sparked by the emergence that Huang had an affair with a woman alleged to have been a spy for China, posed a risk to the wider AI industry.
-That was because it was unclear whether Nvidia would change strategy and potential rein in spending - a move could have had wider implications for the US economy, but which looks unlikely now Huang has returned.
-Spider's web of financing
-The fears were sparked due to Nvidia being a key source of finance for many firms, as well being a microchip supplier. On its journey to the top of the AI industry, it has, through Huang, created a spider's web of deals through what is known as "circular financing".
-Not only does it sell microchips to its customers, which include the likes of Meta, SpaceX and OpenAI, it has also provided funds for them and other firms in the supply chain by either handing out loans or investing in them directly.
-The practice has prompted concerns among some investors, who worry what might happen if Nvidia were to turn off the spending taps. If investment dried up, would other firms in the supply chain cut spending or jobs themselves? Would that spread to the wider US economy?
-That risk was perhaps why tech bosses including Elon Musk and Tim Sweeney, the CEO of Fortnite maker Epic Games, had called for Huang's reinstatement.
-Musk claimed that "critical deals" involving Nvidia's technology would be lost following Huang's resignation, and backed a campaign, along with shareholders and supporters, to "Bring Jensen Back".
-Following the announcement of Huang's return, Musk posted: "The mistake has been corrected."
-'The market loves Huang'
-Kathleen Brooks, research director at investment platform XTB, said Huang's return suggested he was "the godfather" of AI and has the status to shift "the dial for corporate finance".
-"Is Jensen Huang the most valuable man on the planet? His return suggests more of the same when it comes to circular financing and the rapid AI infrastructure build out, and the market loves it," she added.
-However, Huang's return to Nvidia does not solve the wider issues rattling the tech stock markets in recent weeks.
-Investors had taken fright at Democrat gains in the US midterm elections, with many having campaigned for tougher regulation of AI firms.
-Questions also remain about whether the huge sums being invested in AI will actually pay off.
-However, investment in AI is still expected to exceed $1 trillion in 2026, according to investment bank Goldman Sachs, who said the technology would remain the "dominant driver of business investment growth" next year.
-The value of the shares in Big Tech companies have cushioned the US economy from global economic shocks, including tariffs, buoying investments and pensions for people worldwide.
-President Donald Trump hailed Huang as a "great patriot and national treasure" after his reappointment and pointed to the chief executive's wider impact.
-"The country needs Jensen's leadership at Nvidia in order to ensure the success and prosperity of not only the company, but the American economy," he wrote on Truth Social.
-Nvidia said its leadership had received input from "senior levels of the United States government and was "confident that Mr Huang's reinstatement poses no national security risk".`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-23T16:12:35+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
-    readTime: 10,
-  },
-  {
-    id: "the-rise-and-fall-and-rise-again-of-jens-88741972",
-    title: "The rise and fall and rise again of Jensen Huang",
-    titleJa: "The rise and fall and rise again of Jensen Huang",
-    summaryJa: "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
-    bodyOriginal: `The rise and fall and rise again of Jensen Huang
-- Published
-It's being called a comeback for the ages.
-For a long time it seemed that Jensen Huang, the leather jacket-clad founder of Nvidia, dubbed the "Taylor Swift of tech", could do no wrong.
-Then came allegations of two affairs - one with a businesswoman suspected of being a Chinese spy - that rocked the world of tech and the global stock market. Huang resigned.
-Now, just 11 days later, he's been reinstated by the board, who says it believes he is the right person to lead the company.
-So what do we know about the man who is once again at the head of Nvidia, a linchpin in the US's race for technology leadership with China?
-Huang may not be a household name on the same level as Elon Musk or Mark Zuckerberg.
-But his role in the tech industry, especially in relation to the explosion of artificial intelligence in the last three years, may prove more consequential. Nvidia dominates the market for the microchips that are used to power the new technology.
-The company is at the centre of the AI race between the US and China, the world's tech and economic powerhouses.
-Huang enjoyed access to the seats of political power on an unrivalled scale, being courted by both US President Donald Trump and China's President Xi Jinping.
-His remarkable rise to the top of his profession saw him amass an estimated fortune of close to $200bn earlier this year, according to the Bloomberg Billionaires Index, though that has since dropped to around $105bn.
-Despite always donning his trademark all-black outfits and taking a playful approach to investor presentations, Huang has worked for years to present himself as a family man, someone who exemplified the American Dream.
-Born in Taiwan in 1963, Huang and his family moved to the west coast of the US when he was nine years old. He graduated as an electrical engineer from Oregon State University, and then with a Master's degree in the same field from Stanford University.
-It was at college where he met his wife, Lori Mills. The pair were lab partners and married in 1985, eight years before Huang founded Nvidia.
-They have two children, Madison and Spencer, who now both work in senior roles at Nvidia.
-The company became a key provider of the computer chips and circuits used for gaming before it expanded in a new direction. It now creates the key processing chips used to power the growing AI technology.
-Huang has hailed AI as a "new industrial revolution" that is on a par with the advent of electricity. Nvidia is the world's second most valuable company and its customers include the biggest firms on the planet, Google, Meta, Amazon, Microsoft, SpaceX, Tesla, OpenAI and Anthropic, all spending big on its products.
-So it is no surprise that at a recent AI summit at the White House, Huang was picked out from a group of 42 to flank the president, alongside Elon Musk, both men with whom Trump has famously close relationships.
-"Jensen Huang is a tech visionary of the likes of Steve Jobs," Stephen Witt, the author of Thinking Machine, a biography on Jensen Huang, told the BBC, referring to the late boss of Apple. He added that Huang was responsible for creating AI hardware as we know it today.
-He described him as a "demanding" boss, who "really pushes his people to the limit".
-But while Huang is "very brilliant" and a "world-class computer scientist", there's also "a level of arrogance" and "a level of self-deception as well", he said.
-Huang had gone to great lengths to present himself as a family man, he added, something that was "very important to him".
-First reports emerged on 29 October in the New York Times that Huang had conducted a relationship with Alice Huang, no relation. US officials allege the businesswoman associated with Singapore-based firm Megaspeed is a Chinese intelligence asset.
-Huang admitted to having been unfaithful to his wife and apologised for hurting their family.
-But the reporting of a second affair, with Kimberly Powell, vice president of healthcare who has worked at Nvidia for 18 years, prompted a board meeting, followed by an announcement that Huang was stepping down.
-He'd barely been gone, however, before a "Bring Jensen Back" campaign was launched, reportedly by current and former Nvidia employees, partners, shareholders and supporters.
-The man himself said he would be "honoured" to return, should the board ask him.
-Although initially showing no interest in reinstating him, the board has now done just that, saying his return was "in the best interests of our stockholders, employees, partners and customers".`,
-    bodyJa: `The rise and fall and rise again of Jensen Huang
-- Published
-It's being called a comeback for the ages.
-For a long time it seemed that Jensen Huang, the leather jacket-clad founder of Nvidia, dubbed the "Taylor Swift of tech", could do no wrong.
-Then came allegations of two affairs - one with a businesswoman suspected of being a Chinese spy - that rocked the world of tech and the global stock market. Huang resigned.
-Now, just 11 days later, he's been reinstated by the board, who says it believes he is the right person to lead the company.
-So what do we know about the man who is once again at the head of Nvidia, a linchpin in the US's race for technology leadership with China?
-Huang may not be a household name on the same level as Elon Musk or Mark Zuckerberg.
-But his role in the tech industry, especially in relation to the explosion of artificial intelligence in the last three years, may prove more consequential. Nvidia dominates the market for the microchips that are used to power the new technology.
-The company is at the centre of the AI race between the US and China, the world's tech and economic powerhouses.
-Huang enjoyed access to the seats of political power on an unrivalled scale, being courted by both US President Donald Trump and China's President Xi Jinping.
-His remarkable rise to the top of his profession saw him amass an estimated fortune of close to $200bn earlier this year, according to the Bloomberg Billionaires Index, though that has since dropped to around $105bn.
-Despite always donning his trademark all-black outfits and taking a playful approach to investor presentations, Huang has worked for years to present himself as a family man, someone who exemplified the American Dream.
-Born in Taiwan in 1963, Huang and his family moved to the west coast of the US when he was nine years old. He graduated as an electrical engineer from Oregon State University, and then with a Master's degree in the same field from Stanford University.
-It was at college where he met his wife, Lori Mills. The pair were lab partners and married in 1985, eight years before Huang founded Nvidia.
-They have two children, Madison and Spencer, who now both work in senior roles at Nvidia.
-The company became a key provider of the computer chips and circuits used for gaming before it expanded in a new direction. It now creates the key processing chips used to power the growing AI technology.
-Huang has hailed AI as a "new industrial revolution" that is on a par with the advent of electricity. Nvidia is the world's second most valuable company and its customers include the biggest firms on the planet, Google, Meta, Amazon, Microsoft, SpaceX, Tesla, OpenAI and Anthropic, all spending big on its products.
-So it is no surprise that at a recent AI summit at the White House, Huang was picked out from a group of 42 to flank the president, alongside Elon Musk, both men with whom Trump has famously close relationships.
-"Jensen Huang is a tech visionary of the likes of Steve Jobs," Stephen Witt, the author of Thinking Machine, a biography on Jensen Huang, told the BBC, referring to the late boss of Apple. He added that Huang was responsible for creating AI hardware as we know it today.
-He described him as a "demanding" boss, who "really pushes his people to the limit".
-But while Huang is "very brilliant" and a "world-class computer scientist", there's also "a level of arrogance" and "a level of self-deception as well", he said.
-Huang had gone to great lengths to present himself as a family man, he added, something that was "very important to him".
-First reports emerged on 29 October in the New York Times that Huang had conducted a relationship with Alice Huang, no relation. US officials allege the businesswoman associated with Singapore-based firm Megaspeed is a Chinese intelligence asset.
-Huang admitted to having been unfaithful to his wife and apologised for hurting their family.
-But the reporting of a second affair, with Kimberly Powell, vice president of healthcare who has worked at Nvidia for 18 years, prompted a board meeting, followed by an announcement that Huang was stepping down.
-He'd barely been gone, however, before a "Bring Jensen Back" campaign was launched, reportedly by current and former Nvidia employees, partners, shareholders and supporters.
-The man himself said he would be "honoured" to return, should the board ask him.
-Although initially showing no interest in reinstating him, the board has now done just that, saying his return was "in the best interests of our stockholders, employees, partners and customers".`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-23T15:49:52+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
-    readTime: 10,
-  },
-  {
-    id: "capita-shares-plunge-70-as-boss-quits-af-f4cec2f3",
-    title: "Capita shares plunge 70% as boss quits after civil service pensions failure",
-    titleJa: "Capita shares plunge 70% as boss quits after civil service pensions failure",
-    summaryJa: "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
-    bodyOriginal: `Capita shares plunge 70% as boss quits after civil service pensions failure
-- Published
-Shares in outsourcing business Capita have sunk 70% after its boss stepped down as the saga over public sector pensions drags on.
-Chief executive Adolfo Hernandez has agreed with the firm's board to leave with "immediate effect", admitting that the company had "not delivered" for members of the UK's Civil Service pension scheme.
-The scheme, which manages the pensions of 1.7 million public sector workers in the UK, has been mired in controversy, with tens of thousands of retiring civil servants having faced delays receiving their pension payments.
-Capita has cut its profit forecast, partly due to the problems surrounding the scheme, and says it plans to raise £190m to bolster its finances.
-Capita took over the administration of the Civil Service Pension Scheme in December last year.
-One Cabinet Office minister last month labelled the company's progress in improving how it runs the scheme as "abysmal".
-Hernandez, who will be replaced by current chief financial officer Pablo Andres, said: "I am proud of the groundwork we have laid and the progress we have made under my leadership.
-"Of course, within that I recognise that we have not delivered the service that members of the Civil Service pension scheme deserve."
-Bereaved families will not face tax bill over pension delays under new rules
-- Published29 October
-Capita said it was now expecting its underlying operating profit for 2027 to be hit by between £85m and £95m, having previously expected a reduction of up to £40m.
-This comes from the extra cost of the recovery plan, as well the loss of two other "major" contracts in the defence and pension solutions divisions.
-Capita said it was planning an equity raise of £190m in the first half of next year, in order for the company to "move forward from a more stable foundation".
-The backlog of payments from the civil service pension scheme has been described as "hell" by people who have failed to receive money, some of whom retired early owing to ill health.
-BBC Radio 4's Money Box programme has been hearing from people caught up in the saga, and left in financial hardship.
-Sir Geoffrey Clifton-Brown, who chairs the Public Accounts Committee of MPs, said: "The mishandling of the civil service pension scheme has caused severe hardship for some scheme members, particularly considerably delayed bereavement payments.
-"The PAC will continue to pursue this dreadful matter and we can only hope that the new acting Chief Executive, Pablo Andres, will be able to get a grip on this whole affair."
-'Capita needs to steady the ship'
-Until the end of November 2025, the scheme was administered by a company called MyCSP.
-The contract was taken over by Capita on 1 December, in a seven-year deal worth £239m.
-"Capita inherited an enormous backlog of cases which needed addressing and failed to deliver on the promised automation, AI and digital tools needed to manage the 1.7 million members," said Russ Mould, investment director at investment platform AJ Bell.
-"Efforts to fix the problems failed and government deadlines came and went, leading to the withholding of milestone payments, with the National Audit Office probing the contract.
-"Capita needs to steady the ship quickly, and hope that the modest recent improvements in service levels on the civil service scheme can be built upon."
-Get in touch
-Have you been affected by the problems with the civil service pension scheme?`,
-    bodyJa: `Capita shares plunge 70% as boss quits after civil service pensions failure
-- Published
-Shares in outsourcing business Capita have sunk 70% after its boss stepped down as the saga over public sector pensions drags on.
-Chief executive Adolfo Hernandez has agreed with the firm's board to leave with "immediate effect", admitting that the company had "not delivered" for members of the UK's Civil Service pension scheme.
-The scheme, which manages the pensions of 1.7 million public sector workers in the UK, has been mired in controversy, with tens of thousands of retiring civil servants having faced delays receiving their pension payments.
-Capita has cut its profit forecast, partly due to the problems surrounding the scheme, and says it plans to raise £190m to bolster its finances.
-Capita took over the administration of the Civil Service Pension Scheme in December last year.
-One Cabinet Office minister last month labelled the company's progress in improving how it runs the scheme as "abysmal".
-Hernandez, who will be replaced by current chief financial officer Pablo Andres, said: "I am proud of the groundwork we have laid and the progress we have made under my leadership.
-"Of course, within that I recognise that we have not delivered the service that members of the Civil Service pension scheme deserve."
-Bereaved families will not face tax bill over pension delays under new rules
-- Published29 October
-Capita said it was now expecting its underlying operating profit for 2027 to be hit by between £85m and £95m, having previously expected a reduction of up to £40m.
-This comes from the extra cost of the recovery plan, as well the loss of two other "major" contracts in the defence and pension solutions divisions.
-Capita said it was planning an equity raise of £190m in the first half of next year, in order for the company to "move forward from a more stable foundation".
-The backlog of payments from the civil service pension scheme has been described as "hell" by people who have failed to receive money, some of whom retired early owing to ill health.
-BBC Radio 4's Money Box programme has been hearing from people caught up in the saga, and left in financial hardship.
-Sir Geoffrey Clifton-Brown, who chairs the Public Accounts Committee of MPs, said: "The mishandling of the civil service pension scheme has caused severe hardship for some scheme members, particularly considerably delayed bereavement payments.
-"The PAC will continue to pursue this dreadful matter and we can only hope that the new acting Chief Executive, Pablo Andres, will be able to get a grip on this whole affair."
-'Capita needs to steady the ship'
-Until the end of November 2025, the scheme was administered by a company called MyCSP.
-The contract was taken over by Capita on 1 December, in a seven-year deal worth £239m.
-"Capita inherited an enormous backlog of cases which needed addressing and failed to deliver on the promised automation, AI and digital tools needed to manage the 1.7 million members," said Russ Mould, investment director at investment platform AJ Bell.
-"Efforts to fix the problems failed and government deadlines came and went, leading to the withholding of milestone payments, with the National Audit Office probing the contract.
-"Capita needs to steady the ship quickly, and hope that the modest recent improvements in service levels on the civil service scheme can be built upon."
-Get in touch
-Have you been affected by the problems with the civil service pension scheme?`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-23T11:24:37+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d59/live/4828e850-e726-11f1-914b-6d226d813a52.jpg",
-    readTime: 9,
   },
 ];
 
