@@ -15,6 +15,446 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "trump-demands-probe-into-record-setting-cde0fd0e",
+    title: "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+    titleJa: "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
+    summaryJa: "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
+    bodyOriginal: `President Donald Trump on Thursday falsely deemed the latest gross domestic product revision a mistake, claiming that it should be "immediately investigated."
+Data released Wednesday from the Commerce Department revealed that the U.S. economy exhibited much stronger growth for the third quarter than initially estimated, showing that real GDP grew at a 4.3% annualized rate. That was revised upward from the department's advance estimate of 3.4%.
+That revision was a "RECORD SETTING ERROR," Trump said in a Truth Social post, suggesting that the initial release could have influenced the outcome of the 2026 U.S. midterm elections, where Democrats flipped both chambers of Congress and even multiple governorships.
+"I would like to wish a Happy Thanksgiving to even those who issued fake Economic Numbers, just prior to the Election, and corrected them yesterday, three weeks late, showing that the GDP was actually 4.3%, versus 3.4%, A RECORD SETTING ERROR, and one so grave that it should be immediately investigated," Trump wrote.
+However, the difference between the advance estimate and the figure in the second release is far from being an all-time record. It was the largest revision since the 1.2 percentage point revision seen in the second quarter of 2020.
+On an absolute basis, the latest revision was tied for 16th among all revisions from the advance estimate to the second release since 1990. It also tied four other quarters with a similar 0.9 percentage point difference — and was approximately double the average revision of 0.43 percentage points for all 147 quarters.
+The upward revision shows Trump's policies are "delivering results" that defy expectations, White House spokesman Matthew Middleton told CNBC.
+Nothing new
+Revisions to U.S. economic numbers are not out of the ordinary. Initial reports count on partial survey data and early estimates. Those data are later updated with more survey responses — which sometimes leads to changes from the initial reports.
+GDP data is revised repeatedly over a five year period. By the time the final revision is done, the average absolute error from the second release to the final is 1.14 percentage points.
+The advance estimate for Q3 U.S. GDP, which came just days before Election Day in early November, was still better than the figure economists had expected at the time. It also showed a significant step-up in growth from the second quarter.
+Because that was a strong showing for the economy, some on Wall Street consider this week's revision to be a confirmation of the economy's recent growth trend.
+Jim Baird of Plante Moran Financial Advisors said immediately following the release that it "reinforces an increasingly familiar tension" that the economy is "performing quite well, but its resilience also gives the Fed an even stronger case for further rate hikes."
+"The economy isn't merely hanging in there. It continues to demonstrate considerable resilience, with consumers spending, businesses investing and few signs that restrictive monetary policy is creating significant cracks in the broader expansion," the firm's chief investment officer said.
+Traders are currently pricing in a nearly 100% chance of a hike at the Federal Open Market Committee's December meeting, per the CME FedWatch tool. They're also anticipating an additional hike in January.
+— CNBC's Jeff Cox and Fred Imbert contributed reporting`,
+    bodyJa: `President Donald Trump on Thursday falsely deemed the latest gross domestic product revision a mistake, claiming that it should be "immediately investigated."
+Data released Wednesday from the Commerce Department revealed that the U.S. economy exhibited much stronger growth for the third quarter than initially estimated, showing that real GDP grew at a 4.3% annualized rate. That was revised upward from the department's advance estimate of 3.4%.
+That revision was a "RECORD SETTING ERROR," Trump said in a Truth Social post, suggesting that the initial release could have influenced the outcome of the 2026 U.S. midterm elections, where Democrats flipped both chambers of Congress and even multiple governorships.
+"I would like to wish a Happy Thanksgiving to even those who issued fake Economic Numbers, just prior to the Election, and corrected them yesterday, three weeks late, showing that the GDP was actually 4.3%, versus 3.4%, A RECORD SETTING ERROR, and one so grave that it should be immediately investigated," Trump wrote.
+However, the difference between the advance estimate and the figure in the second release is far from being an all-time record. It was the largest revision since the 1.2 percentage point revision seen in the second quarter of 2020.
+On an absolute basis, the latest revision was tied for 16th among all revisions from the advance estimate to the second release since 1990. It also tied four other quarters with a similar 0.9 percentage point difference — and was approximately double the average revision of 0.43 percentage points for all 147 quarters.
+The upward revision shows Trump's policies are "delivering results" that defy expectations, White House spokesman Matthew Middleton told CNBC.
+Nothing new
+Revisions to U.S. economic numbers are not out of the ordinary. Initial reports count on partial survey data and early estimates. Those data are later updated with more survey responses — which sometimes leads to changes from the initial reports.
+GDP data is revised repeatedly over a five year period. By the time the final revision is done, the average absolute error from the second release to the final is 1.14 percentage points.
+The advance estimate for Q3 U.S. GDP, which came just days before Election Day in early November, was still better than the figure economists had expected at the time. It also showed a significant step-up in growth from the second quarter.
+Because that was a strong showing for the economy, some on Wall Street consider this week's revision to be a confirmation of the economy's recent growth trend.
+Jim Baird of Plante Moran Financial Advisors said immediately following the release that it "reinforces an increasingly familiar tension" that the economy is "performing quite well, but its resilience also gives the Fed an even stronger case for further rate hikes."
+"The economy isn't merely hanging in there. It continues to demonstrate considerable resilience, with consumers spending, businesses investing and few signs that restrictive monetary policy is creating significant cracks in the broader expansion," the firm's chief investment officer said.
+Traders are currently pricing in a nearly 100% chance of a hike at the Federal Open Market Committee's December meeting, per the CME FedWatch tool. They're also anticipating an additional hike in January.
+— CNBC's Jeff Cox and Fred Imbert contributed reporting`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+    publishedAt: "2026-11-26T21:13:17+00:00",
+    category: "金融政策",
+    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
+    readTime: 8,
+  },
+  {
+    id: "faisal-islam-why-trump-s-new-tariffs-are-f42fab11",
+    title: "Faisal Islam: Why Trump's new tariffs are less of a threat",
+    titleJa: "Faisal Islam: Why Trump's new tariffs are less of a threat",
+    summaryJa: "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
+    bodyOriginal: `Faisal Islam: Why Trump's new tariffs are less of a threat
+- Published
+There was none of last April's fanfare, the Rose Garden reveal, the gameshow blue board or "Liberation Day" rhetoric surrounding Trump's tariff announcement this week.
+Instead there is something rather tentative about this latest exercise with talk of further negotiations.
+"We expect to have a broad, even a plurilateral negotiation to talk about excess capacity and how to resolve it," US Trade Representative Jamieson Greer told CNBC.
+Around the world the view is that this week's announcement is an attempt to shore up the domestic legal underpinning of these tariffs, more than a fundamental change in the Trump trade agenda.
+The tariffs are also not due to come in until January or possibly February, after a period of consultation. There has already been eight months of process and hearings, and the rates announced are upper ceilings, often up for negotiation. It's quite the contrast to the overnight shock meted out to the world last April.
+Still, the USA is making the argument that large swathes of the rest of the world, including allies, are harming the US goods trade position by supporting their own industries. This is the basis for the tariffs, in large part replacing the previous tariffs justified on "forced labour" provisions.
+The UK, which was unaffected by the new tariff announcements, remains caught by the forced labour provisions, albeit at a rate of 10% extra on global tariffs. There was no move in response to the UK's digital services tax.
+It means for many important countries there are now two legal bases upon which the Trump tariffs rest, after the Supreme Court struck down the original emergency basis earlier this year. A group of 25 states has taken the Trump administration to court to strike down the forced labour tariffs.
+The tariffs will have to be finalised under a Democrat Congress, which has influence, but not power. The Speaker-designate Hakeem Jeffries said this week that the new House would in its first 100 days "move aggressively to… repeal the Trump tariffs".
+The Chinese rate of 20% is the truce rate from last year's Trump-Xi deal. The truce is due to expire in mid-January. Beijing's response was muted, no retaliation, criticism of industrial overcapacity as a "false issue", and a call to implement the Xi-Trump deal. The leverage over China has weakened, with the US share of its exports dropping to around 10% this year, down from 15%, just two years ago, and 19% in 2018.
+US announces new tariffs on host of countries including China
+- Published17 hours ago
+New UK-EU treaty has 10-year termination clause
+- Published5 hours ago
+However, the most interesting spot to focus on is closer to home for Trump. Over half of Canada tariffs are authorised under "Section 338" of the 1930s Smoot-Hawley act. There is already a Senate Bill to repeal them, and it is possible that there would be enough rebel Republicans in the House and Senate to threaten to over-ride any Presidential veto. The incoming Senate Finance Committee chair Ron Wyden last week said Democrats were focussed on "figuring out a way to beat Trump and his veto".
+Before that an interim deal is being sought, and Democrat senators such as Chris Coons are appearing on Canadian TV, telling CBC, external: "Frankly, if you can get an interim deal, I'd take it, and then put it to us in the new majority to legislate an even better deal."
+The rest of world is watching the machinations in Washington and also looking beyond Donald Trump's tenure.
+It pays to look at how the initial Trump trade-quake has reshaped the pattern of world trade already.
+The rest of the world has rerouted its trade flows around Donald Trump's tariff wall, proving far more resilient than expected. In cash terms, China's exports so far in 2026 are down about 8% on 2024, but that is more than 25 times made up for by its increased exports to everywhere else.
+Canada has seen flat exports to the USA since tariffs, fewer cars and lumber, but pricier flows of energy. Its exports, especially commodities, to the rest of the world have rocketed.
+This means that next month's G20 summit at the president's Miami resort is an important moment. In general US allies have not rocked the boat, accepting the lower level of tariffs as part of the new reality. Could the middle powers choose to upset their host in Florida next month?
+The bigger question however, is how much the Democrats decide to keep of the America First trade agenda. It will not be all, but nor will it be nothing. Economists now expect some of these tariffs to stay in place for years.`,
+    bodyJa: `Faisal Islam: Why Trump's new tariffs are less of a threat
+- Published
+There was none of last April's fanfare, the Rose Garden reveal, the gameshow blue board or "Liberation Day" rhetoric surrounding Trump's tariff announcement this week.
+Instead there is something rather tentative about this latest exercise with talk of further negotiations.
+"We expect to have a broad, even a plurilateral negotiation to talk about excess capacity and how to resolve it," US Trade Representative Jamieson Greer told CNBC.
+Around the world the view is that this week's announcement is an attempt to shore up the domestic legal underpinning of these tariffs, more than a fundamental change in the Trump trade agenda.
+The tariffs are also not due to come in until January or possibly February, after a period of consultation. There has already been eight months of process and hearings, and the rates announced are upper ceilings, often up for negotiation. It's quite the contrast to the overnight shock meted out to the world last April.
+Still, the USA is making the argument that large swathes of the rest of the world, including allies, are harming the US goods trade position by supporting their own industries. This is the basis for the tariffs, in large part replacing the previous tariffs justified on "forced labour" provisions.
+The UK, which was unaffected by the new tariff announcements, remains caught by the forced labour provisions, albeit at a rate of 10% extra on global tariffs. There was no move in response to the UK's digital services tax.
+It means for many important countries there are now two legal bases upon which the Trump tariffs rest, after the Supreme Court struck down the original emergency basis earlier this year. A group of 25 states has taken the Trump administration to court to strike down the forced labour tariffs.
+The tariffs will have to be finalised under a Democrat Congress, which has influence, but not power. The Speaker-designate Hakeem Jeffries said this week that the new House would in its first 100 days "move aggressively to… repeal the Trump tariffs".
+The Chinese rate of 20% is the truce rate from last year's Trump-Xi deal. The truce is due to expire in mid-January. Beijing's response was muted, no retaliation, criticism of industrial overcapacity as a "false issue", and a call to implement the Xi-Trump deal. The leverage over China has weakened, with the US share of its exports dropping to around 10% this year, down from 15%, just two years ago, and 19% in 2018.
+US announces new tariffs on host of countries including China
+- Published17 hours ago
+New UK-EU treaty has 10-year termination clause
+- Published5 hours ago
+However, the most interesting spot to focus on is closer to home for Trump. Over half of Canada tariffs are authorised under "Section 338" of the 1930s Smoot-Hawley act. There is already a Senate Bill to repeal them, and it is possible that there would be enough rebel Republicans in the House and Senate to threaten to over-ride any Presidential veto. The incoming Senate Finance Committee chair Ron Wyden last week said Democrats were focussed on "figuring out a way to beat Trump and his veto".
+Before that an interim deal is being sought, and Democrat senators such as Chris Coons are appearing on Canadian TV, telling CBC, external: "Frankly, if you can get an interim deal, I'd take it, and then put it to us in the new majority to legislate an even better deal."
+The rest of world is watching the machinations in Washington and also looking beyond Donald Trump's tenure.
+It pays to look at how the initial Trump trade-quake has reshaped the pattern of world trade already.
+The rest of the world has rerouted its trade flows around Donald Trump's tariff wall, proving far more resilient than expected. In cash terms, China's exports so far in 2026 are down about 8% on 2024, but that is more than 25 times made up for by its increased exports to everywhere else.
+Canada has seen flat exports to the USA since tariffs, fewer cars and lumber, but pricier flows of energy. Its exports, especially commodities, to the rest of the world have rocketed.
+This means that next month's G20 summit at the president's Miami resort is an important moment. In general US allies have not rocked the boat, accepting the lower level of tariffs as part of the new reality. Could the middle powers choose to upset their host in Florida next month?
+The bigger question however, is how much the Democrats decide to keep of the America First trade agenda. It will not be all, but nor will it be nothing. Economists now expect some of these tariffs to stay in place for years.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-26T19:55:58+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/be7b3450-e9af-11f1-859a-37130cd3a1d7.jpg",
+    readTime: 10,
+  },
+  {
+    id: "semiconductor-chips-are-the-new-oil-here-c2472664",
+    title: "Semiconductor chips are the new oil. Here's why",
+    titleJa: "Semiconductor chips are the new oil. Here's why",
+    summaryJa: "Semiconductor exports overtook oil and gas for the first time in 2026, as the AI boom fueled chip demand.",
+    bodyOriginal: `The artificial intelligence boom has pushed semiconductors past oil and gas in global export value for the first time, according to a Deutsche Bank analysis of International Trade Centre data.
+Yet the milestone arrives at an awkward moment, just as investors reassess the outlook for artificial intelligence spending and drive down the price of semiconductor stocks. Last week, before Monday's breathtaking reversal, semiconductor stocks suffered their worst weekly loss in a quarter century, with the PHLX Semiconductor Index (SOX) plunging nearly 11% last Friday alone, capping a more than 17% weekly decline.
+Nvidia soared more than 31% Monday after the leading maker of artificial intelligence chips had fallen for a seventh straight week, plunging 46% during that stretch. Then it fell again, dropping almost 10% on Tuesday and Wednesday. Advanced Micro Devices tumbled 20% in two days last Thursday and Friday. Micron Technology sank 27% over the seven days ended last Friday.
+"For decades we've talked about the petrodollar. Perhaps increasingly we need to think about the chip dollar," Jim Reid, global head of macro and thematic research at Deutsche Bank wrote in a report this month.
+Semiconductor exports overtook oil and gas for the first time during the January-March quarter of 2026, reaching about $1.61 trillion, compared with $1.53 trillion for oil and gas, the report said, using four-quarter rolling totals.
+The gap widened in the second quarter, when semiconductor exports totaled about $1.60 trillion and oil and gas exports reached about $1.47 trillion. Disruptions to oil supplies through the Strait of Hormuz after the Iran war helped widen the gap. Daily oil flows through the Strait collapsed nearly 77%, to 4.9 million barrels in the second quarter of 2026 from 21.6 million barrels in the fourth quarter of 2025, according to the U.S. Energy Information Administration.
+AI driven demand
+Yet the demand for semiconductors has proven insatiable in the face of soaring data center construction, boosting global trade in the increasingly scarce AI component. Hundreds of billions of dollars of orders for graphics processing units and data centers aim at providing AI computing power, Rothschild & Co. Redburn wrote in a report last Thursday.
+"Compute will be the new commodity fueling this transformation on a global scale," Rothschild analyst Cara Thomson said.
+The shift toward chips has macroeconomic implications just as the explosion in oil trade did in the 1970s.
+Oil-exporting countries historically recycled much of their surpluses into the purchase of U.S. Treasuries and other bonds, helping finance U.S. deficits and underpin demand for other government debt.
+Reid at Deutsche Bank said that since semiconductor-surplus countries in Asia are more closely tied to U.S. tech companies, some chip-export earnings could flow back into U.S. technology stocks, startups and data centers, further helping to finance the AI investment cycle.
+The changing dynamics in global trade could also tilt the mix of global financial flows, Reid said. "So welcome to the chip-dollar era: potentially more growth, more excitement, more volatility, and structurally higher yields" in corporate and government debt.`,
+    bodyJa: `The artificial intelligence boom has pushed semiconductors past oil and gas in global export value for the first time, according to a Deutsche Bank analysis of International Trade Centre data.
+Yet the milestone arrives at an awkward moment, just as investors reassess the outlook for artificial intelligence spending and drive down the price of semiconductor stocks. Last week, before Monday's breathtaking reversal, semiconductor stocks suffered their worst weekly loss in a quarter century, with the PHLX Semiconductor Index (SOX) plunging nearly 11% last Friday alone, capping a more than 17% weekly decline.
+Nvidia soared more than 31% Monday after the leading maker of artificial intelligence chips had fallen for a seventh straight week, plunging 46% during that stretch. Then it fell again, dropping almost 10% on Tuesday and Wednesday. Advanced Micro Devices tumbled 20% in two days last Thursday and Friday. Micron Technology sank 27% over the seven days ended last Friday.
+"For decades we've talked about the petrodollar. Perhaps increasingly we need to think about the chip dollar," Jim Reid, global head of macro and thematic research at Deutsche Bank wrote in a report this month.
+Semiconductor exports overtook oil and gas for the first time during the January-March quarter of 2026, reaching about $1.61 trillion, compared with $1.53 trillion for oil and gas, the report said, using four-quarter rolling totals.
+The gap widened in the second quarter, when semiconductor exports totaled about $1.60 trillion and oil and gas exports reached about $1.47 trillion. Disruptions to oil supplies through the Strait of Hormuz after the Iran war helped widen the gap. Daily oil flows through the Strait collapsed nearly 77%, to 4.9 million barrels in the second quarter of 2026 from 21.6 million barrels in the fourth quarter of 2025, according to the U.S. Energy Information Administration.
+AI driven demand
+Yet the demand for semiconductors has proven insatiable in the face of soaring data center construction, boosting global trade in the increasingly scarce AI component. Hundreds of billions of dollars of orders for graphics processing units and data centers aim at providing AI computing power, Rothschild & Co. Redburn wrote in a report last Thursday.
+"Compute will be the new commodity fueling this transformation on a global scale," Rothschild analyst Cara Thomson said.
+The shift toward chips has macroeconomic implications just as the explosion in oil trade did in the 1970s.
+Oil-exporting countries historically recycled much of their surpluses into the purchase of U.S. Treasuries and other bonds, helping finance U.S. deficits and underpin demand for other government debt.
+Reid at Deutsche Bank said that since semiconductor-surplus countries in Asia are more closely tied to U.S. tech companies, some chip-export earnings could flow back into U.S. technology stocks, startups and data centers, further helping to finance the AI investment cycle.
+The changing dynamics in global trade could also tilt the mix of global financial flows, Reid said. "So welcome to the chip-dollar era: potentially more growth, more excitement, more volatility, and structurally higher yields" in corporate and government debt.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+    publishedAt: "2026-11-26T17:52:15+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 8,
+  },
+  {
+    id: "when-will-poundland-shops-close-five-key-574745a9",
+    title: "When will Poundland shops close? Five key questions answered",
+    titleJa: "When will Poundland shops close? Five key questions answered",
+    summaryJa: "When will Poundland shops close? Five key questions answered- Published",
+    bodyOriginal: `When will Poundland shops close? Five key questions answered
+- Published
+Poundland has collapsed into administration, leaving the jobs of its 11,000 staff in doubt in the run-up to Christmas.
+The company has appointed consultancy Alix Partners to oversee a sale of part or all of the discount retailer, with questions remaining about the future of the company.
+1. When will Poundland shops close?
+This is the question that is most difficult to answer.
+Poundland shops will remain open as usual for now. The firm collapsing has acted as a reset in the process of selling it.
+Administrators are looking to either sell the business as a whole, or to break it up, which is the more likely outcome.
+When Poundland was still a going concern, Irish property firm Martin Property Group made an offer for it. But a source said the group was now "unlikely" to make a fresh bid due to "irreparable harm" to the brand from the administration process.
+Before the collapse, Fortress, which owns rival budget chain Poundstretcher, was interested in buying about 200 of the stores, and wanted to keep those trading under the Poundland brand.
+But Fortress's position at the moment is unclear. The BBC understands it is considering selling Poundstretcher, a move first reported by Bloomberg.
+A decision on Poundstretcher could come before the end of this week. However, Fortress has declined to comment.
+2. Why is Poundland closing down?
+That depends on who you ask.
+When the chain was sold by Pepco last year for £1 it was struggling. It suffered a £68m loss that year.
+Poundland's managing director Barry Williams said Poundland had been seeing a "strong recovery" and recorded a profit by one measure in the first nine months of this year.
+Poundland's management paint a picture of a retailer that was turning a corner until the owner, US investment firm Gordon Brothers, pulled the plug on funding for day-to-day expenses such as buying stock.
+The Usdaw union, which represents shopworkers, claim the owners forced Poundland into administration.
+Labour MP Antonia Bance said she was "pretty appalled" by the conduct of Gordon Brothers over the past few weeks, and that it was going to make much bigger profits by breaking up the business rather than by keeping it going.
+However, Gordon Brothers insisted the business was only turning a profit on paper, and had missed budget forecasts.
+A spokeswoman said while the management team had made £100m in cost reductions, the business had moved from a £70m loss to "around break-even".
+"Break-even is different from generating the cash needed to buy stock, invest, and withstand increasing economic pressures," the spokeswoman said. "A few good weeks do not make a turnaround."
+Poundland repeatedly missed budget targets over the year, the spokeswoman added.
+Gordon Brothers was concerned that as inflation goes up next year, those pressures would have helped to make the business unviable, it said.
+And Julie Palmer, managing partner at insolvency agency Begbies Traynor, said Poundland's collapse "seemed somehow inevitable" due to challenges facing retailers - including higher costs to employ staff.
+3. What will happen to staff?
+Stores are still trading while the administrators work out if the business is viable.
+The funds locked up by Gordon Brothers - at the last count about £70m - have now been released by the administrators.
+This has turned the taps back on, so staff will continue to be paid in the run-up to Christmas, and so will suppliers.
+But here's the catch: the administrators have a legal obligation to maximise value for "secured" creditors. It means the owners, Gordon Brothers, are at the head of the queue for being paid back the loans that were stumbling blocks in the negotiations.
+But more importantly for staff, if the administrators can get more value by breaking up the business than by selling it as a whole, then that is what they have to do, even if the business would be viable.
+If the business is broken up and its stores are sold off, the new owners would not be obliged to keep staff on.
+4. Will shoppers still be able to buy from Poundland?
+In the short term, yes.
+From 26 November you will not get a refund for goods if you change your mind about the purchase. If the item is faulty you will still get a refund.
+The immediate reason Poundland collapsed was that Gordon Brothers locked up funds for the day-to-day running of the business, including to pay suppliers.
+This meant that stock was running low at Poundland.
+But those funds have now been unlocked, meaning suppliers can be paid, and supply chains can be re-established, at least in the short term.
+If an item is on the shelves, then shoppers can buy it.
+5. How will Poundland's collapse change the High Street?
+That depends on what happens next.
+Administrators will have to get the best value for creditors, which could mean selling the business as it stands.
+But if Poundland is broken up, administrators could sell the brand without the stores, or the brand along with some of the stores, or the stores without the Poundland brand, to other retailers.
+As a result there could be fewer discount stores on the High Street, providing less incentive for other retailers to keep prices down.
+"Poundland is a place they go on the High Street to get bargains and... given the cost of living challenges we face, that is of concern to us in government," Wes Streeting, the defence secretary, told the BBC on Thursday.
+Poundland's customers may well turn to rival budget retailers in the hunt for bargains.
+Get in touch
+Are you a Poundland employee? Tell us your story. Get in touch.`,
+    bodyJa: `When will Poundland shops close? Five key questions answered
+- Published
+Poundland has collapsed into administration, leaving the jobs of its 11,000 staff in doubt in the run-up to Christmas.
+The company has appointed consultancy Alix Partners to oversee a sale of part or all of the discount retailer, with questions remaining about the future of the company.
+1. When will Poundland shops close?
+This is the question that is most difficult to answer.
+Poundland shops will remain open as usual for now. The firm collapsing has acted as a reset in the process of selling it.
+Administrators are looking to either sell the business as a whole, or to break it up, which is the more likely outcome.
+When Poundland was still a going concern, Irish property firm Martin Property Group made an offer for it. But a source said the group was now "unlikely" to make a fresh bid due to "irreparable harm" to the brand from the administration process.
+Before the collapse, Fortress, which owns rival budget chain Poundstretcher, was interested in buying about 200 of the stores, and wanted to keep those trading under the Poundland brand.
+But Fortress's position at the moment is unclear. The BBC understands it is considering selling Poundstretcher, a move first reported by Bloomberg.
+A decision on Poundstretcher could come before the end of this week. However, Fortress has declined to comment.
+2. Why is Poundland closing down?
+That depends on who you ask.
+When the chain was sold by Pepco last year for £1 it was struggling. It suffered a £68m loss that year.
+Poundland's managing director Barry Williams said Poundland had been seeing a "strong recovery" and recorded a profit by one measure in the first nine months of this year.
+Poundland's management paint a picture of a retailer that was turning a corner until the owner, US investment firm Gordon Brothers, pulled the plug on funding for day-to-day expenses such as buying stock.
+The Usdaw union, which represents shopworkers, claim the owners forced Poundland into administration.
+Labour MP Antonia Bance said she was "pretty appalled" by the conduct of Gordon Brothers over the past few weeks, and that it was going to make much bigger profits by breaking up the business rather than by keeping it going.
+However, Gordon Brothers insisted the business was only turning a profit on paper, and had missed budget forecasts.
+A spokeswoman said while the management team had made £100m in cost reductions, the business had moved from a £70m loss to "around break-even".
+"Break-even is different from generating the cash needed to buy stock, invest, and withstand increasing economic pressures," the spokeswoman said. "A few good weeks do not make a turnaround."
+Poundland repeatedly missed budget targets over the year, the spokeswoman added.
+Gordon Brothers was concerned that as inflation goes up next year, those pressures would have helped to make the business unviable, it said.
+And Julie Palmer, managing partner at insolvency agency Begbies Traynor, said Poundland's collapse "seemed somehow inevitable" due to challenges facing retailers - including higher costs to employ staff.
+3. What will happen to staff?
+Stores are still trading while the administrators work out if the business is viable.
+The funds locked up by Gordon Brothers - at the last count about £70m - have now been released by the administrators.
+This has turned the taps back on, so staff will continue to be paid in the run-up to Christmas, and so will suppliers.
+But here's the catch: the administrators have a legal obligation to maximise value for "secured" creditors. It means the owners, Gordon Brothers, are at the head of the queue for being paid back the loans that were stumbling blocks in the negotiations.
+But more importantly for staff, if the administrators can get more value by breaking up the business than by selling it as a whole, then that is what they have to do, even if the business would be viable.
+If the business is broken up and its stores are sold off, the new owners would not be obliged to keep staff on.
+4. Will shoppers still be able to buy from Poundland?
+In the short term, yes.
+From 26 November you will not get a refund for goods if you change your mind about the purchase. If the item is faulty you will still get a refund.
+The immediate reason Poundland collapsed was that Gordon Brothers locked up funds for the day-to-day running of the business, including to pay suppliers.
+This meant that stock was running low at Poundland.
+But those funds have now been unlocked, meaning suppliers can be paid, and supply chains can be re-established, at least in the short term.
+If an item is on the shelves, then shoppers can buy it.
+5. How will Poundland's collapse change the High Street?
+That depends on what happens next.
+Administrators will have to get the best value for creditors, which could mean selling the business as it stands.
+But if Poundland is broken up, administrators could sell the brand without the stores, or the brand along with some of the stores, or the stores without the Poundland brand, to other retailers.
+As a result there could be fewer discount stores on the High Street, providing less incentive for other retailers to keep prices down.
+"Poundland is a place they go on the High Street to get bargains and... given the cost of living challenges we face, that is of concern to us in government," Wes Streeting, the defence secretary, told the BBC on Thursday.
+Poundland's customers may well turn to rival budget retailers in the hunt for bargains.
+Get in touch
+Are you a Poundland employee? Tell us your story. Get in touch.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-26T17:21:21+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b760/live/084c3aa0-e9b2-11f1-859a-37130cd3a1d7.jpg",
+    readTime: 10,
+  },
+  {
+    id: "millions-of-people-to-see-average-monthl-8a9be5d6",
+    title: "Millions of people to see average monthly mortgage payments rise by £100",
+    titleJa: "Millions of people to see average monthly mortgage payments rise by £100",
+    summaryJa: "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
+    bodyOriginal: `Millions of people to see average monthly mortgage payments rise by £100
+- Published
+More people face higher mortgage repayments when they roll off a fixed deal than previously estimated, new figures from the the Bank of England show.
+About 6.5 million owners are forecast to see their monthly repayment jump by £100 on average when they move onto their next deal by the end of 2029, new data in its Financial Stability Report reveals.
+That is more the double the £45-a-month hike that the Bank estimated in its last report in July.
+In the shorter term, about one million of those homeowners, who are on mortgage rates below 3% and due to refinance by the end of next year, will see an average £200 increase in their monthly repayments.
+For borrowers, the interest rate on a fixed mortgage does not change until it expires, usually after two or five years, and a new one is chosen to replace it. The vast majority of homeowners and buyers have this kind of mortgage.
+Since the Iran war began, global economic uncertainty has been pushing up the cost of deals, with the average rates on two and five year fixed mortgages at their highest for about three years.
+On Thursday, the average rate on a two-year deal was 5.99%, and at 6% for a five-year deal, according to the financial information service Moneyfacts.
+Analysts have described the situation as "brutal" for homeowners coming to the end of their fixed deals.
+However, the Bank's report points out that the average £100 increase in monthly repayments was half the rise experienced by those refinancing during 2023 and 2024.
+Dawn Fazackerley-King is a Pilates instructor who lives near Ipswich and has previously spoken to the BBC about her struggles with the cost of living.
+She was on a five-year fixed deal at 1.4%, which she took out in January 2022. But the mother-of-two is about to refix for two years and the best deal she can find is a 5.69% loan. That will push her costs up by about £200 a month.
+She is far from alone, with one million homeowners facing a similar increase often because they are coming off deals that were agreed before interest rates began rising in 2022.
+The Bank's report said that households facing higher payments "may need to reduce discretionary spending or draw down savings as higher energy and other essential costs feed through".
+Most had savings buffers but lower-income households, including renters, had less wriggle room owing to spending a greater proportion of their income on essentials.
+Early in November, the Bank raised the benchmark interest rate, which influences borrowing costs for individuals and businesses, for the first time in more than three years, from 3.75% to 4%.
+Some positive signs
+The numbers could change were mortgage rates to fall, primarily if international economic volatility eased.
+Even so, the Bank said around 350,000 were already projected to see monthly mortgage repayments fall when they fixed their next deal within three years.
+The report also suggested there were no signs of an increase in borrowers defaulting on their loans, while UK households remained resilient.
+"We have not seen the scale of mortgage arrears that we saw if you go back to earlier periods, the early 90s, the early 80s, actually even the financial crisis. And we are not seeing the scale of house repossessions, and that has to be a good thing," said the Bank's governor, Andrew Bailey.
+However, separately, the Bank warned that cyber attacks had become a more prominent threat to the UK's financial stability.
+Financial firms needed to "keep pace with the growing scale and sophistication of cyber threats", the report said.
+Get in touch
+Are your mortgage payments rising? Share your experience.
+- Published18 November
+- Published5 November
+- Published4 November`,
+    bodyJa: `Millions of people to see average monthly mortgage payments rise by £100
+- Published
+More people face higher mortgage repayments when they roll off a fixed deal than previously estimated, new figures from the the Bank of England show.
+About 6.5 million owners are forecast to see their monthly repayment jump by £100 on average when they move onto their next deal by the end of 2029, new data in its Financial Stability Report reveals.
+That is more the double the £45-a-month hike that the Bank estimated in its last report in July.
+In the shorter term, about one million of those homeowners, who are on mortgage rates below 3% and due to refinance by the end of next year, will see an average £200 increase in their monthly repayments.
+For borrowers, the interest rate on a fixed mortgage does not change until it expires, usually after two or five years, and a new one is chosen to replace it. The vast majority of homeowners and buyers have this kind of mortgage.
+Since the Iran war began, global economic uncertainty has been pushing up the cost of deals, with the average rates on two and five year fixed mortgages at their highest for about three years.
+On Thursday, the average rate on a two-year deal was 5.99%, and at 6% for a five-year deal, according to the financial information service Moneyfacts.
+Analysts have described the situation as "brutal" for homeowners coming to the end of their fixed deals.
+However, the Bank's report points out that the average £100 increase in monthly repayments was half the rise experienced by those refinancing during 2023 and 2024.
+Dawn Fazackerley-King is a Pilates instructor who lives near Ipswich and has previously spoken to the BBC about her struggles with the cost of living.
+She was on a five-year fixed deal at 1.4%, which she took out in January 2022. But the mother-of-two is about to refix for two years and the best deal she can find is a 5.69% loan. That will push her costs up by about £200 a month.
+She is far from alone, with one million homeowners facing a similar increase often because they are coming off deals that were agreed before interest rates began rising in 2022.
+The Bank's report said that households facing higher payments "may need to reduce discretionary spending or draw down savings as higher energy and other essential costs feed through".
+Most had savings buffers but lower-income households, including renters, had less wriggle room owing to spending a greater proportion of their income on essentials.
+Early in November, the Bank raised the benchmark interest rate, which influences borrowing costs for individuals and businesses, for the first time in more than three years, from 3.75% to 4%.
+Some positive signs
+The numbers could change were mortgage rates to fall, primarily if international economic volatility eased.
+Even so, the Bank said around 350,000 were already projected to see monthly mortgage repayments fall when they fixed their next deal within three years.
+The report also suggested there were no signs of an increase in borrowers defaulting on their loans, while UK households remained resilient.
+"We have not seen the scale of mortgage arrears that we saw if you go back to earlier periods, the early 90s, the early 80s, actually even the financial crisis. And we are not seeing the scale of house repossessions, and that has to be a good thing," said the Bank's governor, Andrew Bailey.
+However, separately, the Bank warned that cyber attacks had become a more prominent threat to the UK's financial stability.
+Financial firms needed to "keep pace with the growing scale and sophistication of cyber threats", the report said.
+Get in touch
+Are your mortgage payments rising? Share your experience.
+- Published18 November
+- Published5 November
+- Published4 November`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-26T14:00:20+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0133/live/865c5960-e9a9-11f1-99b6-a35a62fa4264.jpg",
+    readTime: 9,
+  },
+  {
+    id: "simon-jack-is-poundland-s-us-owner-to-bl-3759a77a",
+    title: "Simon Jack: Is Poundland's US owner to blame for its collapse?",
+    titleJa: "Simon Jack: Is Poundland's US owner to blame for its collapse?",
+    summaryJa: "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
+    bodyOriginal: `Simon Jack: Is Poundland's US owner to blame for its collapse?
+- Published
+The blame game for the demise of Poundland is in full swing.
+The number one target is US-based Gordon Brothers who bought the discount chain for £1 and have taken nearly £20m out of the business already.
+Gordon Brothers stand to get paid back a further £22.5m, as their share of an existing £30m loan is set to be one of the first debts that the administrators will have to pay out of the proceeds of any sale of the business in whole or in part.
+The team running Poundland blame the owners for strangling their ability to turn the business around, saying that their access to Poundland's own cash was restricted, leaving them unable to fully restock ahead of the crucial Christmas period.
+They point to improving sales over recent months as proof the business had a future.
+MPs also laid into the US firm with members of the Business Committee accusing it of "predatory capitalism" and "asset stripping".
+Poundland collapses putting 11,000 jobs at risk
+- Published12 hours ago
+What's gone wrong at Poundland?
+- Published11 hours ago
+No-one appears to dispute the fact that Gordon Brothers' insistence that they get paid most of their £22.5m debt was a major stumbling block to a sale.
+Potential buyers balked at paying out millions on a loan that Gordon Brothers inherited for nothing.
+Martin Property Group offered £5m up front with the balance to be deferred, while Xyra Holdings offered £12.5m up front but, according to sources close to the deal, were thought unable to actually pay.
+Two versions
+Unsurprisingly perhaps, Gordon Brothers dispute a lot of how they have been characterised.
+First, they insist that they lent the business £85m to try to keep it alive for the 17 months since they bought it. Without them, this collapse would have happened in June last year.
+The £20m taken out of the business since then has mostly been interest on that loan.
+Despite brief periods of sales growth compared with a year earlier, Poundland was not generating enough cash to sustain itself. Sales were forecast to be £115m lower than predicted when Gordon Brothers bought the business - more than offsetting a £100m cost-cutting programme.
+Like other retailers Poundland was hit by rising labour costs, employment taxes and business rates.
+In the end, argue Gordon Brothers, none of the potential buyers could meet their terms and prove they had the money and expertise to make a go of it.
+Such is the discrepancy between the two versions that the chair of the Business Committee wants Gordon Brothers and the management back in front of them to get to the truth.
+It is still possible that a bidder may emerge in the coming hours and days to save the business as a whole but most industry observers think that looks unlikely.
+Julie Palmer of insolvency specialists Begbies Traynor told the BBC: "This sort of direction of travel seemed somehow inevitable. Obviously, if one of those interested parties steps up and buys the whole business and assets, that's the best, quickest and cleanest outcome. I think realistically, though, there is a chance now that there will be a breakup."
+Like previous busts such as Woolworths, BHS and Wilko, many of these stores will find new owners and they will need local, experienced staff.
+But none of that will be much comfort to those workers facing grave uncertainty a month before Christmas, when they should be at their busiest and most needed.
+Gordon Brothers specialise in situations of commercial distress. When they take on a distressed company, they try to make sure that the worst possible outcome is still one that makes money for them.
+In this situation, the worst outcome would mean they get paid back £22.5m, earn interest on the loan they provided the company (secured against the company assets) and a few other miscellaneous fees.
+Little wonder then that many people say they had little incentive to strain every sinew to secure a buyer. They argue they kept a business that would have collapsed last June going for another 17 months, which extended employment for thousands of workers.
+But if, as some retail veterans have told the BBC, Gordon Brothers never really intended to turn this business around, why would the previous owners PepCo give them a no-lose gamble? Why didn't they do what Gordon Brothers are doing - profiting with no risk?
+The answer is simple: Pepco have other businesses, which could have got tangled up in the administration of Poundland.
+Get in touch
+Are you a Poundland employee? Tell us your story. Get in touch.`,
+    bodyJa: `Simon Jack: Is Poundland's US owner to blame for its collapse?
+- Published
+The blame game for the demise of Poundland is in full swing.
+The number one target is US-based Gordon Brothers who bought the discount chain for £1 and have taken nearly £20m out of the business already.
+Gordon Brothers stand to get paid back a further £22.5m, as their share of an existing £30m loan is set to be one of the first debts that the administrators will have to pay out of the proceeds of any sale of the business in whole or in part.
+The team running Poundland blame the owners for strangling their ability to turn the business around, saying that their access to Poundland's own cash was restricted, leaving them unable to fully restock ahead of the crucial Christmas period.
+They point to improving sales over recent months as proof the business had a future.
+MPs also laid into the US firm with members of the Business Committee accusing it of "predatory capitalism" and "asset stripping".
+Poundland collapses putting 11,000 jobs at risk
+- Published12 hours ago
+What's gone wrong at Poundland?
+- Published11 hours ago
+No-one appears to dispute the fact that Gordon Brothers' insistence that they get paid most of their £22.5m debt was a major stumbling block to a sale.
+Potential buyers balked at paying out millions on a loan that Gordon Brothers inherited for nothing.
+Martin Property Group offered £5m up front with the balance to be deferred, while Xyra Holdings offered £12.5m up front but, according to sources close to the deal, were thought unable to actually pay.
+Two versions
+Unsurprisingly perhaps, Gordon Brothers dispute a lot of how they have been characterised.
+First, they insist that they lent the business £85m to try to keep it alive for the 17 months since they bought it. Without them, this collapse would have happened in June last year.
+The £20m taken out of the business since then has mostly been interest on that loan.
+Despite brief periods of sales growth compared with a year earlier, Poundland was not generating enough cash to sustain itself. Sales were forecast to be £115m lower than predicted when Gordon Brothers bought the business - more than offsetting a £100m cost-cutting programme.
+Like other retailers Poundland was hit by rising labour costs, employment taxes and business rates.
+In the end, argue Gordon Brothers, none of the potential buyers could meet their terms and prove they had the money and expertise to make a go of it.
+Such is the discrepancy between the two versions that the chair of the Business Committee wants Gordon Brothers and the management back in front of them to get to the truth.
+It is still possible that a bidder may emerge in the coming hours and days to save the business as a whole but most industry observers think that looks unlikely.
+Julie Palmer of insolvency specialists Begbies Traynor told the BBC: "This sort of direction of travel seemed somehow inevitable. Obviously, if one of those interested parties steps up and buys the whole business and assets, that's the best, quickest and cleanest outcome. I think realistically, though, there is a chance now that there will be a breakup."
+Like previous busts such as Woolworths, BHS and Wilko, many of these stores will find new owners and they will need local, experienced staff.
+But none of that will be much comfort to those workers facing grave uncertainty a month before Christmas, when they should be at their busiest and most needed.
+Gordon Brothers specialise in situations of commercial distress. When they take on a distressed company, they try to make sure that the worst possible outcome is still one that makes money for them.
+In this situation, the worst outcome would mean they get paid back £22.5m, earn interest on the loan they provided the company (secured against the company assets) and a few other miscellaneous fees.
+Little wonder then that many people say they had little incentive to strain every sinew to secure a buyer. They argue they kept a business that would have collapsed last June going for another 17 months, which extended employment for thousands of workers.
+But if, as some retail veterans have told the BBC, Gordon Brothers never really intended to turn this business around, why would the previous owners PepCo give them a no-lose gamble? Why didn't they do what Gordon Brothers are doing - profiting with no risk?
+The answer is simple: Pepco have other businesses, which could have got tangled up in the administration of Poundland.
+Get in touch
+Are you a Poundland employee? Tell us your story. Get in touch.`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-26T13:40:46+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db70/live/c33d5240-e999-11f1-a094-5fdc692f3e33.jpg",
+    readTime: 10,
+  },
+  {
+    id: "new-boss-appointed-to-lead-travelodge-a1442fef",
+    title: "New boss appointed to lead Travelodge",
+    titleJa: "New boss appointed to lead Travelodge",
+    summaryJa: "The new CEO will lead the Thame-based company from 1 December following Jo Boydell's resignation.",
+    bodyOriginal: `New boss appointed to lead Travelodge
+- Published
+Travelodge has appointed a former Tui executive to become its new boss from the start of December.
+The former CEO of the Oxfordshire-based budget hotel chain Jo Boydell quit in the summer after safety issues were raised at many of its sites.
+A woman staying at its Maidenhead hotel was sexually assaulted in December 2022 after a man lied to staff to get a key card to her room. Kyran Smith was jailed for seven-and-a-half years for the attack.
+Peter Krueger will start his new role at Travelodge on Tuesday, replacing interim chief Ray Reidy who has led the company since Boydell quit.
+She left the company after facing significant criticism over the handling of the sexual assault incident and wider safety concerns.
+It prompted former prime minister Sir Keir Starmer to urge her to "seriously engage" with the government on the issue after she cancelled a meeting with MPs.
+An independent review by Paul Greaney KC published in October found the sexual assault victim was treated in a "disgraceful" way and "fundamentally failed" by the hotel chain.
+In an update on Thursday, Reidy said the business is "continuing to make further investments into room security, and the safety and security of our guests remains our top priority".
+Travelodge said it will be making additional investments in room security "over the course of 2027".
+Get in touch
+Your Voice
+- Published1 October`,
+    bodyJa: `New boss appointed to lead Travelodge
+- Published
+Travelodge has appointed a former Tui executive to become its new boss from the start of December.
+The former CEO of the Oxfordshire-based budget hotel chain Jo Boydell quit in the summer after safety issues were raised at many of its sites.
+A woman staying at its Maidenhead hotel was sexually assaulted in December 2022 after a man lied to staff to get a key card to her room. Kyran Smith was jailed for seven-and-a-half years for the attack.
+Peter Krueger will start his new role at Travelodge on Tuesday, replacing interim chief Ray Reidy who has led the company since Boydell quit.
+She left the company after facing significant criticism over the handling of the sexual assault incident and wider safety concerns.
+It prompted former prime minister Sir Keir Starmer to urge her to "seriously engage" with the government on the issue after she cancelled a meeting with MPs.
+An independent review by Paul Greaney KC published in October found the sexual assault victim was treated in a "disgraceful" way and "fundamentally failed" by the hotel chain.
+In an update on Thursday, Reidy said the business is "continuing to make further investments into room security, and the safety and security of our guests remains our top priority".
+Travelodge said it will be making additional investments in room security "over the course of 2027".
+Get in touch
+Your Voice
+- Published1 October`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-26T12:03:49+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7c6/live/aeced5c0-e98c-11f1-9d1c-4dcc8fcde666.jpg",
+    readTime: 4,
+  },
+  {
     id: "new-uk-eu-treaty-has-10-year-termination-072cd8f0",
     title: "New UK-EU treaty has 10-year termination clause, BBC understands",
     titleJa: "New UK-EU treaty has 10-year termination clause, BBC understands",
@@ -356,6 +796,114 @@ Related topics
     publishedAt: "2026-11-26T00:07:51+00:00",
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg",
+    readTime: 10,
+  },
+  {
+    id: "guitar-wars-the-transatlantic-battle-ove-147ce9ab",
+    title: "Guitar wars - the transatlantic battle over the Stratocaster",
+    titleJa: "Guitar wars - the transatlantic battle over the Stratocaster",
+    summaryJa: "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
+    bodyOriginal: `Guitar wars - the transatlantic battle over the Stratocaster
+- Published
+Hans Thomann leads the way through his music store in central Germany to the large electric guitar department, where the walls are hung with hundreds of instruments.
+Brands on show include famous names Fender and Gibson, plus Harley Benton.
+The latter is a low-price range of guitars owned by the family-run company that Thomann leads – Thomann, one of the world's largest online retailers of musical instruments.
+The shop, together with warehouses and offices, are at the company's headquarters in the tiny village of Treppendorf in rural Upper Franconia, in Bavaria.
+The business was founded by Thomann's father, Hans Thomann Senior, in 1954.
+In one corner of the store, a young man is trying out a Fender Stratocaster, one of the world's most iconic electric guitars.
+Designed in the US in the early 1950's, the "Strat" became the instrument of choice for many famous rock and pop musicians, such as Jimi Hendrix, Eric Clapton and Buddy Holly.
+Hendrix famously set one on fire at the Monterey Pop Festival in 1967, and his performances helped make the guitar a symbol of modern rock music.
+These days, the Stratocaster is very much on Hans Thomann's mind, because it's the subject of an intense copyright dispute.
+When the guitar was first made, California-based Fender did not trademark the body shape. So, since the 1960s Strat-shaped guitars have been made and sold around the world by countless manufacturers.
+The shape is so ubiquitous that many musicians consider it to be a generic design.
+But since March of this year, Fender has begun a new campaign to defend its right to the guitar's sinuous shape. It follows a decision by a court in Düsseldorf last December which granted Fender copyright protection, external of the Stratocaster design in Germany.
+The defendant, Chinese seller Yiwu Philharmonic Musical Instruments, did not appear. The Düsseldorf court accepted Fender's arguments and ruled in its favour. According to German law the court makes its decision based on the facts presented by the plaintiff if the defendant doesn't raise objections.
+The ruling said that Fender's design for the Stratocaster was "an outstanding, free creative achievement" that "clearly reflects the personality of its author".
+It described the guitar as "a body without edges" with "soft curves that evoke associations with the female torso consisting of hips, waist and arms".
+On its website, Fender announced in March, external the decision created "enforceable rights" against any guitars using the Strat body shape, that are manufactured, sold or distributed into Germany or other EU countries, "regardless of where those guitars are produced".
+Fender began to send out cease and desist letters to dozens of retailers and manufacturers, both large and small, asking them to stop making and selling Strat lookalikes heading for Europe.
+One of these letters, seen by the BBC, said Fender "insists that you immediately stop manufacturing, marketing, selling and producing the infringing products".
+The letter also demanded that companies recall and destroy the guitars.
+The move caused an outcry in the guitar world, among manufacturers and musicians.
+"Time to boycott Fender," one person wrote on the Facebook page of the boutique US guitar maker, LSL Instruments.
+Thomann received a cease-and-desist letter shortly after a visit to Treppendorf in March by Fender's chief executive Bud Cole.
+"We remember the meeting as a very positive and constructive exchange," says Thomann. "At the time we had no indication that Fender was considering legal action."
+The letter, he says, came as a shock.
+"For more than 70 years, we have carried Fender instruments with great appreciation for the brand and many of us are Fender players ourselves. We were therefore surprised and disappointed by Fender's recent actions."
+In 2025, Thomann sold over 112,000 Strat-style guitars, including more than 16,000 made by Fender and Fender subsidiary brand Squier.
+"As a retailer, we want to continue offering our customers everything that is available in the world of guitars," adds Thomann. "We would have welcomed to the opportunity to discuss the matter openly before receiving a formal legal demand for such extreme action."
+In June, Thomann the company started legal action against Fender, filing an "action of non-infringement" that said that Fender does not have a valid copyright claim to the Stat shape.
+Thomann says that the Düsseldorf ruling was simply a default judgement based on missed deadlines and didn't represent a "comprehensive review of the legal claims".
+For its part, Fender, which is majority-owned by Hawaii-based company Servco Pacific, says it has a responsibility to protect the Stratocaster's iconic design. In July, it sued Thomann in a German court, for copyright infringement.
+In a statement to the BBC, Fender said it remained "confident" in the original Düsseldorf court judgement.
+"Our preference has always been to keep lines of communication open and resolve these matters through constructive dialogue rather than litigation," it added.
+With the legal cases continuing, Thomann says he believes it is important to get "legal clarity – not only for us but for the wider guitar industry."
+"Ultimately, we want to help preserve an environment in which innovation, diversity and creative development can continue to thrive," he adds.
+Thomann says he was taking legal action not just for his company, but for smaller music companies too.
+"We used to be a small music shop ourselves," he says.
+"Many of the smaller manufacturers, guitar makers and dealers affected simply don't have the financial and legal resources to conduct a legal dispute like this."
+One such company is LSL Instruments, a family-owned boutique guitar maker in California. Its director of sales, Johny Miller, told me that when they first received Fender's letter they were "pretty terrified and blown away".
+"They were asking us to retrieve guitars from dealers out there and destroy them and send them proof.
+"So when we heard Hans Thomann got the same letter and responded by suing them… so that everybody in the guitar community could understand exactly what's going on… we were so thankful and grateful," he says.
+Fender tells BBC that it agrees that "legal clarity was important", and that it was now focusing more on targeting larger manufacturers.
+It also says it realises that "our outreach has caused concern and frustration, particularly among smaller, independent guitar builders. "To them we say: we continue to hear you, and we're listening."
+Read more global business stories
+- Published3 days ago
+- Published12 November
+- Published24 September`,
+    bodyJa: `Guitar wars - the transatlantic battle over the Stratocaster
+- Published
+Hans Thomann leads the way through his music store in central Germany to the large electric guitar department, where the walls are hung with hundreds of instruments.
+Brands on show include famous names Fender and Gibson, plus Harley Benton.
+The latter is a low-price range of guitars owned by the family-run company that Thomann leads – Thomann, one of the world's largest online retailers of musical instruments.
+The shop, together with warehouses and offices, are at the company's headquarters in the tiny village of Treppendorf in rural Upper Franconia, in Bavaria.
+The business was founded by Thomann's father, Hans Thomann Senior, in 1954.
+In one corner of the store, a young man is trying out a Fender Stratocaster, one of the world's most iconic electric guitars.
+Designed in the US in the early 1950's, the "Strat" became the instrument of choice for many famous rock and pop musicians, such as Jimi Hendrix, Eric Clapton and Buddy Holly.
+Hendrix famously set one on fire at the Monterey Pop Festival in 1967, and his performances helped make the guitar a symbol of modern rock music.
+These days, the Stratocaster is very much on Hans Thomann's mind, because it's the subject of an intense copyright dispute.
+When the guitar was first made, California-based Fender did not trademark the body shape. So, since the 1960s Strat-shaped guitars have been made and sold around the world by countless manufacturers.
+The shape is so ubiquitous that many musicians consider it to be a generic design.
+But since March of this year, Fender has begun a new campaign to defend its right to the guitar's sinuous shape. It follows a decision by a court in Düsseldorf last December which granted Fender copyright protection, external of the Stratocaster design in Germany.
+The defendant, Chinese seller Yiwu Philharmonic Musical Instruments, did not appear. The Düsseldorf court accepted Fender's arguments and ruled in its favour. According to German law the court makes its decision based on the facts presented by the plaintiff if the defendant doesn't raise objections.
+The ruling said that Fender's design for the Stratocaster was "an outstanding, free creative achievement" that "clearly reflects the personality of its author".
+It described the guitar as "a body without edges" with "soft curves that evoke associations with the female torso consisting of hips, waist and arms".
+On its website, Fender announced in March, external the decision created "enforceable rights" against any guitars using the Strat body shape, that are manufactured, sold or distributed into Germany or other EU countries, "regardless of where those guitars are produced".
+Fender began to send out cease and desist letters to dozens of retailers and manufacturers, both large and small, asking them to stop making and selling Strat lookalikes heading for Europe.
+One of these letters, seen by the BBC, said Fender "insists that you immediately stop manufacturing, marketing, selling and producing the infringing products".
+The letter also demanded that companies recall and destroy the guitars.
+The move caused an outcry in the guitar world, among manufacturers and musicians.
+"Time to boycott Fender," one person wrote on the Facebook page of the boutique US guitar maker, LSL Instruments.
+Thomann received a cease-and-desist letter shortly after a visit to Treppendorf in March by Fender's chief executive Bud Cole.
+"We remember the meeting as a very positive and constructive exchange," says Thomann. "At the time we had no indication that Fender was considering legal action."
+The letter, he says, came as a shock.
+"For more than 70 years, we have carried Fender instruments with great appreciation for the brand and many of us are Fender players ourselves. We were therefore surprised and disappointed by Fender's recent actions."
+In 2025, Thomann sold over 112,000 Strat-style guitars, including more than 16,000 made by Fender and Fender subsidiary brand Squier.
+"As a retailer, we want to continue offering our customers everything that is available in the world of guitars," adds Thomann. "We would have welcomed to the opportunity to discuss the matter openly before receiving a formal legal demand for such extreme action."
+In June, Thomann the company started legal action against Fender, filing an "action of non-infringement" that said that Fender does not have a valid copyright claim to the Stat shape.
+Thomann says that the Düsseldorf ruling was simply a default judgement based on missed deadlines and didn't represent a "comprehensive review of the legal claims".
+For its part, Fender, which is majority-owned by Hawaii-based company Servco Pacific, says it has a responsibility to protect the Stratocaster's iconic design. In July, it sued Thomann in a German court, for copyright infringement.
+In a statement to the BBC, Fender said it remained "confident" in the original Düsseldorf court judgement.
+"Our preference has always been to keep lines of communication open and resolve these matters through constructive dialogue rather than litigation," it added.
+With the legal cases continuing, Thomann says he believes it is important to get "legal clarity – not only for us but for the wider guitar industry."
+"Ultimately, we want to help preserve an environment in which innovation, diversity and creative development can continue to thrive," he adds.
+Thomann says he was taking legal action not just for his company, but for smaller music companies too.
+"We used to be a small music shop ourselves," he says.
+"Many of the smaller manufacturers, guitar makers and dealers affected simply don't have the financial and legal resources to conduct a legal dispute like this."
+One such company is LSL Instruments, a family-owned boutique guitar maker in California. Its director of sales, Johny Miller, told me that when they first received Fender's letter they were "pretty terrified and blown away".
+"They were asking us to retrieve guitars from dealers out there and destroy them and send them proof.
+"So when we heard Hans Thomann got the same letter and responded by suing them… so that everybody in the guitar community could understand exactly what's going on… we were so thankful and grateful," he says.
+Fender tells BBC that it agrees that "legal clarity was important", and that it was now focusing more on targeting larger manufacturers.
+It also says it realises that "our outreach has caused concern and frustration, particularly among smaller, independent guitar builders. "To them we say: we continue to hear you, and we're listening."
+Read more global business stories
+- Published3 days ago
+- Published12 November
+- Published24 September`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-26T00:01:37+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67c1/live/7aa1e2b0-e80b-11f1-99a1-253766e7ad8b.jpg",
     readTime: 10,
   },
   {
@@ -1907,786 +2455,6 @@ Related topics
     category: "テクノロジー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec8/live/8b0c59c0-e831-11f1-917e-35f1674fb52c.jpg",
     readTime: 7,
-  },
-  {
-    id: "nvidia-shares-fall-4-in-premarket-after-d4e59a5f",
-    title: "Nvidia shares fall 4% in premarket after Huang comeback rally",
-    titleJa: "Nvidia shares fall 4% in premarket after Huang comeback rally",
-    summaryJa: "Jensen Huang was reinstated as CEO of Nvidia after he resigned following an acknowledgement of an extramarital affair.",
-    bodyOriginal: `Nvidia shares fell on Tuesday after the return of Jensen Huang as CEO sparked a massive rally on Monday.
-Nvidia shares were down 3.9% in premarket trading as of 4:40 a.m. ET.
-Other U.S. semiconductor stocks were also lower in premarket trading on Tuesday, with Micron, Marvell Technology, AMD and Arm all down over 3%.
-Huang, who resigned as CEO of Nvidia earlier this month after admitting to an extramarital affair, was reinstated on Monday. The stock closed 30% higher following the news.
-The company's board of directors said it unanimously voted to reinstate Huang following "a series of discussions and meetings" with him.
-President Donald Trump also claimed he was personally involved in Huang's return. The president told CNBC that he spoke with the chip maker's board before it reversed course and reinstated its co-founder.
-"I made the deal," Trump told CNBC's Eamon Javers during an interview on "Squawk on the Street."
-Trump said Nvidia's board asked for guarantees that Huang, who resigned less than two weeks ago, was not a threat to national security.
-"And we gave them assurances, at least with everything we know," the president said. "We believe he's fine. He's absolutely fine."
-After Huang's reinstatement, several Wall Street analysts turned more bullish on the stock and upgraded their ratings on Nvidia.
-"We believe reinstatement of CEO Jensen Huang RETURNS Investor CONFIDENCE in the AI trade," Mizuho analysts wrote in a note on Monday.
-Huang and Nvidia have been central to the AI story, supplying the chips that power AI and financing companies across the ecosystem.
-Nvidia scrutiny continues
-The tech giant remains under scrutiny as questions remain about Huang's reported affair with Alice Huang, an alleged Chinese spy.
-The U.S. is investigating Alice Huang and Megaspeed, the company where she worked. There are also questions about whether Nvidia chips are making their way into China despite export controls.
-Huang has been called to provide testimony in front of the Senate Banking Committee next week. Sen. Elizabeth Warren, who is set to take over the Committee in January, called Huang's reinstatement "reckless."
-"The reckless decision to bring Jensen Huang back as CEO does not change the fact that Mr. Huang, NVIDIA executives, and the company's board still owe Congress answers about the company's compliance with U.S. export controls," Warren said in a statement on Monday.
-Huang is also expected to answer questions from the House Foreign Affairs Committee next week.
-"Reinstatement should not be confused with the end of scrutiny," Bank of America said in a note on Monday. "We therefore expect elevated attention around governance, China/export controls, customer relationships and compliance to persist even with the CEO question resolved."
-— CNBC's Luke Fountain, Seema Mody and Dan Mangan contributed to this report.`,
-    bodyJa: `Nvidia shares fell on Tuesday after the return of Jensen Huang as CEO sparked a massive rally on Monday.
-Nvidia shares were down 3.9% in premarket trading as of 4:40 a.m. ET.
-Other U.S. semiconductor stocks were also lower in premarket trading on Tuesday, with Micron, Marvell Technology, AMD and Arm all down over 3%.
-Huang, who resigned as CEO of Nvidia earlier this month after admitting to an extramarital affair, was reinstated on Monday. The stock closed 30% higher following the news.
-The company's board of directors said it unanimously voted to reinstate Huang following "a series of discussions and meetings" with him.
-President Donald Trump also claimed he was personally involved in Huang's return. The president told CNBC that he spoke with the chip maker's board before it reversed course and reinstated its co-founder.
-"I made the deal," Trump told CNBC's Eamon Javers during an interview on "Squawk on the Street."
-Trump said Nvidia's board asked for guarantees that Huang, who resigned less than two weeks ago, was not a threat to national security.
-"And we gave them assurances, at least with everything we know," the president said. "We believe he's fine. He's absolutely fine."
-After Huang's reinstatement, several Wall Street analysts turned more bullish on the stock and upgraded their ratings on Nvidia.
-"We believe reinstatement of CEO Jensen Huang RETURNS Investor CONFIDENCE in the AI trade," Mizuho analysts wrote in a note on Monday.
-Huang and Nvidia have been central to the AI story, supplying the chips that power AI and financing companies across the ecosystem.
-Nvidia scrutiny continues
-The tech giant remains under scrutiny as questions remain about Huang's reported affair with Alice Huang, an alleged Chinese spy.
-The U.S. is investigating Alice Huang and Megaspeed, the company where she worked. There are also questions about whether Nvidia chips are making their way into China despite export controls.
-Huang has been called to provide testimony in front of the Senate Banking Committee next week. Sen. Elizabeth Warren, who is set to take over the Committee in January, called Huang's reinstatement "reckless."
-"The reckless decision to bring Jensen Huang back as CEO does not change the fact that Mr. Huang, NVIDIA executives, and the company's board still owe Congress answers about the company's compliance with U.S. export controls," Warren said in a statement on Monday.
-Huang is also expected to answer questions from the House Foreign Affairs Committee next week.
-"Reinstatement should not be confused with the end of scrutiny," Bank of America said in a note on Monday. "We therefore expect elevated attention around governance, China/export controls, customer relationships and compliance to persist even with the CEO question resolved."
-— CNBC's Luke Fountain, Seema Mody and Dan Mangan contributed to this report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html",
-    publishedAt: "2026-11-24T09:41:02+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "jensen-huang-is-too-big-to-fire-putting-00cb2304",
-    title: "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
-    titleJa: "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
-    summaryJa: "Jensen Huang’s return has underscored Nvidia’s deep reliance on its founder, putting the company's board oversight and corporate governance under scrutiny.",
-    bodyOriginal: `Jensen Huang's return as Nvidia CEO may have eased concerns over the chipmaker's leadership, but it has also brought renewed scrutiny to the company's corporate governance and its reliance on its founder.
-Huang's abrupt departure and unexpected reinstatement exposed a deeper vulnerability at the heart of Nvidia, industry experts told CNBC, raising questions about board oversight and succession planning.
-"What does it mean if you have a company too big to fail or a CEO too big to fire?" Angela Mancini, head of advisory for global risk insights at Dow Jones, told CNBC's "Squawk Box Asia" on Tuesday.
-Mancini pointed to Huang's unusually large number of direct reports as another sign of how heavily Nvidia depends on its founder.
-"What does it mean when someone has 60 direct reports, and you literally are in a situation where you feel like you can't fire them?" she added.
-For Nvidia, Huang's return offers an opportunity to address some of the governance issues brought to light by his departure.
-An opportunity for change
-Jeff Herbst, managing partner at GFT Ventures and a former Nvidia executive who spent nearly two decades at the company, said he had written to the board late last week calling for Huang's return.
-While initially disappointed by the allegations surrounding Huang, Herbst said he came to view the episode as an opportunity for Nvidia to strengthen its governance, succession planning and overall management.
-"While a lot of people saw a crisis here, I saw a potential opportunity," he said.
-Herbst said Nvidia's management and oversight functions needed to evolve alongside its transformation from a relatively small technology company into one of the world's largest corporations.
-"I think the corporate governance, the succession planning, the legal function, the regulatory function, the political function, all has to scale at the same time," he said.
-He suggested Nvidia add more experience to its board by bringing in individuals who have run large companies and take a more formal approach to developing potential successors to Huang.
-Tom Hulick, CEO of Strategy Asset Managers, agreed, saying the chip giant's "corporate governance definitely needs to be retooled."
-It's "unheard of" and "unprecedented" for a president to enforce the reinstatement of a company's CEO, Hulick said on "Squawk Box Europe" on Tuesday.
-"He's a born leader. He's enduring a lot of pain right now. Does he deserve to be back as CEO? It's not for me to speculate. Is he the right person? Probably for now."
-However, Hulick added that the company still has "a lot of things to worry about" regarding corporate governance.
-The succession question
-Huang's departure also exposed how closely Nvidia's leadership and long-term strategy are tied to its founder, raising questions about how the company would navigate a future transition.
-Stacy Rasgon, managing director and senior U.S. semiconductor analyst at Bernstein Research, said the episode had revived attention to a risk investors had long overlooked.
-"We all knew that there was key man risk here. We all chose, and I'm including myself in that. We all kind of chose to just ignore it," Rasgon told CNBC.
-Succession planning, he said, is an issue both Huang and the board will need to address and communicate clearly to investors.
-"I think both Jensen and the board will have to figure out, and I think communicate to investors," he added.
-Herbst also pointed to Huang's personal role in driving Nvidia's technological innovations, including his willingness to invest in artificial intelligence and high-performance computing long before those businesses became profitable.
-New markets such as autonomous systems and robotics would require major investment and a leader with Huang's passion and vision, Herbst added.
-Correction: This story has been updated to reflect that Angela Mancini said Nvidia is in a situation where it feels like you can not fire the CEO.`,
-    bodyJa: `Jensen Huang's return as Nvidia CEO may have eased concerns over the chipmaker's leadership, but it has also brought renewed scrutiny to the company's corporate governance and its reliance on its founder.
-Huang's abrupt departure and unexpected reinstatement exposed a deeper vulnerability at the heart of Nvidia, industry experts told CNBC, raising questions about board oversight and succession planning.
-"What does it mean if you have a company too big to fail or a CEO too big to fire?" Angela Mancini, head of advisory for global risk insights at Dow Jones, told CNBC's "Squawk Box Asia" on Tuesday.
-Mancini pointed to Huang's unusually large number of direct reports as another sign of how heavily Nvidia depends on its founder.
-"What does it mean when someone has 60 direct reports, and you literally are in a situation where you feel like you can't fire them?" she added.
-For Nvidia, Huang's return offers an opportunity to address some of the governance issues brought to light by his departure.
-An opportunity for change
-Jeff Herbst, managing partner at GFT Ventures and a former Nvidia executive who spent nearly two decades at the company, said he had written to the board late last week calling for Huang's return.
-While initially disappointed by the allegations surrounding Huang, Herbst said he came to view the episode as an opportunity for Nvidia to strengthen its governance, succession planning and overall management.
-"While a lot of people saw a crisis here, I saw a potential opportunity," he said.
-Herbst said Nvidia's management and oversight functions needed to evolve alongside its transformation from a relatively small technology company into one of the world's largest corporations.
-"I think the corporate governance, the succession planning, the legal function, the regulatory function, the political function, all has to scale at the same time," he said.
-He suggested Nvidia add more experience to its board by bringing in individuals who have run large companies and take a more formal approach to developing potential successors to Huang.
-Tom Hulick, CEO of Strategy Asset Managers, agreed, saying the chip giant's "corporate governance definitely needs to be retooled."
-It's "unheard of" and "unprecedented" for a president to enforce the reinstatement of a company's CEO, Hulick said on "Squawk Box Europe" on Tuesday.
-"He's a born leader. He's enduring a lot of pain right now. Does he deserve to be back as CEO? It's not for me to speculate. Is he the right person? Probably for now."
-However, Hulick added that the company still has "a lot of things to worry about" regarding corporate governance.
-The succession question
-Huang's departure also exposed how closely Nvidia's leadership and long-term strategy are tied to its founder, raising questions about how the company would navigate a future transition.
-Stacy Rasgon, managing director and senior U.S. semiconductor analyst at Bernstein Research, said the episode had revived attention to a risk investors had long overlooked.
-"We all knew that there was key man risk here. We all chose, and I'm including myself in that. We all kind of chose to just ignore it," Rasgon told CNBC.
-Succession planning, he said, is an issue both Huang and the board will need to address and communicate clearly to investors.
-"I think both Jensen and the board will have to figure out, and I think communicate to investors," he added.
-Herbst also pointed to Huang's personal role in driving Nvidia's technological innovations, including his willingness to invest in artificial intelligence and high-performance computing long before those businesses became profitable.
-New markets such as autonomous systems and robotics would require major investment and a leader with Huang's passion and vision, Herbst added.
-Correction: This story has been updated to reflect that Angela Mancini said Nvidia is in a situation where it feels like you can not fire the CEO.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html",
-    publishedAt: "2026-11-24T08:35:16+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "signal-joins-united-airlines-banks-in-li-3133516e",
-    title: "Signal joins United Airlines, banks in limiting AI agents over customer risks",
-    titleJa: "Signal joins United Airlines, banks in limiting AI agents over customer risks",
-    summaryJa: "Privacy-focused messaging application Signal has joined United Airlines and JPMorgan Chase in implementing restrictions around artificial intelligence agents.",
-    bodyOriginal: `Privacy-focused messaging application Signal is tightening protections against artificial intelligence agents that can access information displayed on users' screens, citing concerns over privacy and security.
-Signal said AI agents built into mobile operating systems, such as Google's Gemini and Apple's Siri with onscreen awareness, can "scan" information on users' screens, potentially capturing and storing Signal data outside its control.
-People treat agent risk as one-size-fits-all rather than matching the security needed to the actual task.Yat SiuCo-founder, Animoca Brands
-The company said it will block screenshots in its iOS app and, on Android, enable screen security when it detects an AI assistant attempting to read the screen.
-"We want to be very clear: it is a serious problem that Signal — and application developers beyond — lack robust tools to prevent AI agents from undermining application-level privacy," Meredith Whittaker, president of the app's nonprofit parent Signal Foundation, said in a Friday blog post.
-Signal last year introduced similar restrictions against Microsoft's Recall AI on Windows 11. Its latest move adds to a broader push by companies including United Airlines, JPMorgan Chase and Charles Schwab to limit or block AI agents over security and for customer-protection concerns.
-Whittaker said the new protections do not address every way an agent might gain access to data, including by retrieving content already stored on a user's device.
-Signal also warned that third-party agents such as Meta's Muse could gain access to private app content through permissions granted during setup.
-"Application-level protections will always have gaps, so the data an agent can reach has to be classified, permissioned and recoverable before the agent arrives," said Tianyi Jiang, CEO of data management and protection software company AvePoint.
-AvePoint's State of AI 2026 report found that 88.4% of surveyed organizations had experienced at least one AI-agent-related security breach in the previous year. The survey covered 750 IT leaders globally.
-"We continue to call on the major consumer operating system companies – Apple, Google and Microsoft – to provide simple technical tools and accurate documentation that give developers like Signal ways to prevent AI agents from accessing sensitive application data," said Whittaker.
-Restricted entry
-Banks are also restricting third-party AI agents from accessing customer accounts.
-JPMorgan Chase CEO Jamie Dimon said in October that outside agents were too risky for the bank and its clients. Morgan Stanley has blocked third-party agents from its platforms, Reuters reported.
-Meanwhile, Charles Schwab CEO Richard Wurster said the brokerage blocks unauthorized agents to protect clients and the firm.
-Singapore's OCBC Bank has said it will not let third-party agents to interact with the bank to transfer money autonomously and warned that "customers should exercise caution" when using such agents for banking.
-United Airlines said Nov. 11 that it would restrict unauthorized agents from booking or managing tickets, citing risks that they could expose customer information, make unintended purchases or violate aviation rules.
-"To book flights or do your grocery shop, an agent needs your email, accounts and payment details," said Mick Maleishko, an AI advocate at identity verification and compliance platform Sumsub.
-He said that level of access creates a risk of account hijacking because actions taken by an agent may appear to a retailer or bank to have been authorized by the user.
-Singapore Airlines, by contrast, is an early partner of Meta's Muse. Meta said users can ask the agent to explore travel, ticketing and reservation options through the airline.
-"People treat agent risk as one-size-fits-all rather than matching the security needed to the actual task," said Yat Siu, executive chairman and co-founder of Animoca Brands. He said agents could help consumers act on their intentions and help businesses reach customers directly, but the risks vary by task.
-"There's a much higher risk around an agent able to move meaningful sums of money or access sensitive personal data, than one making your restaurant reservations," Siu said. "The reality is that, just like internet applications to date, agents require tiered safeguards."`,
-    bodyJa: `Privacy-focused messaging application Signal is tightening protections against artificial intelligence agents that can access information displayed on users' screens, citing concerns over privacy and security.
-Signal said AI agents built into mobile operating systems, such as Google's Gemini and Apple's Siri with onscreen awareness, can "scan" information on users' screens, potentially capturing and storing Signal data outside its control.
-People treat agent risk as one-size-fits-all rather than matching the security needed to the actual task.Yat SiuCo-founder, Animoca Brands
-The company said it will block screenshots in its iOS app and, on Android, enable screen security when it detects an AI assistant attempting to read the screen.
-"We want to be very clear: it is a serious problem that Signal — and application developers beyond — lack robust tools to prevent AI agents from undermining application-level privacy," Meredith Whittaker, president of the app's nonprofit parent Signal Foundation, said in a Friday blog post.
-Signal last year introduced similar restrictions against Microsoft's Recall AI on Windows 11. Its latest move adds to a broader push by companies including United Airlines, JPMorgan Chase and Charles Schwab to limit or block AI agents over security and for customer-protection concerns.
-Whittaker said the new protections do not address every way an agent might gain access to data, including by retrieving content already stored on a user's device.
-Signal also warned that third-party agents such as Meta's Muse could gain access to private app content through permissions granted during setup.
-"Application-level protections will always have gaps, so the data an agent can reach has to be classified, permissioned and recoverable before the agent arrives," said Tianyi Jiang, CEO of data management and protection software company AvePoint.
-AvePoint's State of AI 2026 report found that 88.4% of surveyed organizations had experienced at least one AI-agent-related security breach in the previous year. The survey covered 750 IT leaders globally.
-"We continue to call on the major consumer operating system companies – Apple, Google and Microsoft – to provide simple technical tools and accurate documentation that give developers like Signal ways to prevent AI agents from accessing sensitive application data," said Whittaker.
-Restricted entry
-Banks are also restricting third-party AI agents from accessing customer accounts.
-JPMorgan Chase CEO Jamie Dimon said in October that outside agents were too risky for the bank and its clients. Morgan Stanley has blocked third-party agents from its platforms, Reuters reported.
-Meanwhile, Charles Schwab CEO Richard Wurster said the brokerage blocks unauthorized agents to protect clients and the firm.
-Singapore's OCBC Bank has said it will not let third-party agents to interact with the bank to transfer money autonomously and warned that "customers should exercise caution" when using such agents for banking.
-United Airlines said Nov. 11 that it would restrict unauthorized agents from booking or managing tickets, citing risks that they could expose customer information, make unintended purchases or violate aviation rules.
-"To book flights or do your grocery shop, an agent needs your email, accounts and payment details," said Mick Maleishko, an AI advocate at identity verification and compliance platform Sumsub.
-He said that level of access creates a risk of account hijacking because actions taken by an agent may appear to a retailer or bank to have been authorized by the user.
-Singapore Airlines, by contrast, is an early partner of Meta's Muse. Meta said users can ask the agent to explore travel, ticketing and reservation options through the airline.
-"People treat agent risk as one-size-fits-all rather than matching the security needed to the actual task," said Yat Siu, executive chairman and co-founder of Animoca Brands. He said agents could help consumers act on their intentions and help businesses reach customers directly, but the risks vary by task.
-"There's a much higher risk around an agent able to move meaningful sums of money or access sensitive personal data, than one making your restaurant reservations," Siu said. "The reality is that, just like internet applications to date, agents require tiered safeguards."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/24/signal-airlines-banks-ai-limit.html",
-    publishedAt: "2026-11-24T07:25:41+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "six-key-questions-raised-by-jensen-huang-cd0ab57e",
-    title: "Six key questions raised by Jensen Huang's return to Nvidia",
-    titleJa: "Six key questions raised by Jensen Huang's return to Nvidia",
-    summaryJa: "As Jensen Huang returns to Nvidia, questions remained around the board's reversal, Trump's involvement and the tech giant's future.",
-    bodyOriginal: `Jensen Huang made a dramatic return as Nvidia CEO on Monday, less than a week after board Chairman Harvey Jones said directors did not intend to reinstate him. The board later voted unanimously to bring Huang back.
-Nvidia shares surged as much as 36% during the session and closed 31% higher.
-The reversal followed a steep decline in Nvidia shares, which closed at $125.53 on Friday even after the company reported strong third-quarter results. A petition calling for Huang's return had drawn more than 200,000 signatures, according to its organizers.
-The rally spread across the broader market, with the Nasdaq Composite gaining 6.5% and the S&P 500 rising 4.7%, each posting its strongest session since April 2025.
-Nvidia's board said it had received input from senior U.S. government officials and that its investigation into Huang's conduct would continue.
-Still, the board's reversal, President Donald Trump's administration's role and continued scrutiny of Nvidia's China business leave major questions for both investors and lawmakers.
-What would Washington do?
-Sen. Jack Reed, a member of the Senate Banking Committee, urged Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick on Monday to appear before the committee to discuss the case.
-Reed did not lay out a specific list of questions for the two officials, but his statement cited reporting that Trump had been briefed by intelligence officials led by then-National Security Adviser Marco Rubio before intervening in support of Huang's return.
-Reed's call adds to mounting pressure on both Nvidia and the Trump administration to explain what they knew and when.
-Rep. Gabe Amo, D-R.I., vice ranking member of the House Foreign Affairs Committee, said Huang’s reinstatement could broaden congressional scrutiny rather than bring it to a close.
-“I think it frankly broadens the scope of the query,” Amo told CNBC, adding that lawmakers should also examine administration officials involved in decisions affecting Nvidia and chip sales to China.
-Amo said he expects the planned closed-door interview with Huang on Dec. 1 to proceed and that Congress would continue seeking answers both privately and publicly in the coming months.
-“He should start purchasing his plane tickets to Washington,” he said. “It is abundantly clear that this is ripe for questioning by Congress.”
-Why the reversal?
-On Nvidia's third-quarter earnings call on Nov. 17, Jones said the board had accepted Huang's resignation and did not intend to reinstate him.
-Less than a week later, the board reversed course, saying Monday that it had unanimously voted to bring Huang back after discussions with him and input from senior U.S. government officials.
-Trump said he had spoken with board members and that his administration provided assurances based on the information available to it. But the board has not publicly detailed what it was told.
-"The board decided to do what we wanted to do," Trump told CNBC, adding that he believed his intervention had been important.
-"I've been speaking to the board directly and indirectly, and I felt very strongly about it," he said.
-Trump also called into an Nvidia board meeting to argue for Huang's return, Semafor reported, citing people familiar with the matter.
-Reed has called on Huang to disclose his communications with Trump and on Nvidia to release a transcript of the board's call with the president.
-How much China risk remains?
-Lawmakers are still seeking answers about the alleged smuggling of Nvidia products to China, their possible diversion for military use and possible advancement of Chinese AI capabilities.
-The Senate Banking Committee has scheduled Huang to testify on U.S. export controls on Dec. 3. House lawmakers have also confirmed closed-door interviews with Huang on Dec. 1 and Nvidia General Counsel Tim Teter on Dec. 2.
-"The Nvidia board's brief internal investigation and reinstatement of Jensen Huang do not erase the national security threats and questions that must be addressed," Reps. John Moolenaar, Rick Crawford and Brian Mast said in a joint statement.
-Their inquiry may also examine what Nvidia knew about the customers and resellers involved, as well as what controls the company had in place.
-Other lawmakers have also sought to preserve the paper trail. Sens. Elizabeth Warren and Chris Coons had asked senior administration officials on Nov. 11 to retain records related to Nvidia exports of advanced AI chips to China and associated national security concerns.
-Huang oversight?
-Nvidia has promised to hire a chief compliance officer and establish a committee overseeing national security and export controls. The board's investigation into Huang's conduct also remains underway.
-Josh Gilbert, eToro's lead analyst for APAC and the Middle East, said investors will be watching whether those new safeguards carry meaningful authority.
-Succession remains another question.
-Gil Luria, head of technology research at D.A. Davidson, said Nvidia has a limited window to prepare for the possibility that a future president may be less supportive of Huang.
-With Trump's term ending in two years, Luria argued that Nvidia needs a clearer plan for who could take over if Huang were forced to leave again.
-Can Nvidia growth hold?
-Gilbert pointed to Nvidia's roughly 75% revenue-growth forecast for the next financial year as evidence of strong near-term demand. The longer-term question, he said, is whether customer orders and artificial intelligence investment can sustain that pace.
-Luria told CNBC that concerns about the broader AI trade remain, including the cost of financing data centers, potential overbuilding by neocloud companies and obstacles to building new facilities.
-Bernstein analyst Stacy Rasgon said worries about whether AI spending is achievable and sustainable were not caused solely by Huang's departure. UBS, meanwhile, flagged Nvidia's roughly $390 billion in supply commitments and the need to keep demand flowing through its ecosystem.
-How will shares perform?
-Gilbert said part of Monday's rally reflected investors recovering earlier losses rather than pricing in new growth. Bernstein restored its "Outperform" rating and kept its $200 price target, while UBS maintained its $220 target.
-"For the share price, it comes down to whether Nvidia can keep delivering as it has done over recent years," said Gilbert, adding that Huang's return could ease some concerns about Nvidia's longer-term outlook.
-"The real worry has been what happens beyond next year. Having Huang back at the helm goes a long way to easing those concerns, because he's the one who sits down with the biggest customers and gets those multi-year orders over the line," he said.
-— CNBC's David Sucherman, Justin Papp and Eko Prasetyo contributed to the story`,
-    bodyJa: `Jensen Huang made a dramatic return as Nvidia CEO on Monday, less than a week after board Chairman Harvey Jones said directors did not intend to reinstate him. The board later voted unanimously to bring Huang back.
-Nvidia shares surged as much as 36% during the session and closed 31% higher.
-The reversal followed a steep decline in Nvidia shares, which closed at $125.53 on Friday even after the company reported strong third-quarter results. A petition calling for Huang's return had drawn more than 200,000 signatures, according to its organizers.
-The rally spread across the broader market, with the Nasdaq Composite gaining 6.5% and the S&P 500 rising 4.7%, each posting its strongest session since April 2025.
-Nvidia's board said it had received input from senior U.S. government officials and that its investigation into Huang's conduct would continue.
-Still, the board's reversal, President Donald Trump's administration's role and continued scrutiny of Nvidia's China business leave major questions for both investors and lawmakers.
-What would Washington do?
-Sen. Jack Reed, a member of the Senate Banking Committee, urged Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick on Monday to appear before the committee to discuss the case.
-Reed did not lay out a specific list of questions for the two officials, but his statement cited reporting that Trump had been briefed by intelligence officials led by then-National Security Adviser Marco Rubio before intervening in support of Huang's return.
-Reed's call adds to mounting pressure on both Nvidia and the Trump administration to explain what they knew and when.
-Rep. Gabe Amo, D-R.I., vice ranking member of the House Foreign Affairs Committee, said Huang’s reinstatement could broaden congressional scrutiny rather than bring it to a close.
-“I think it frankly broadens the scope of the query,” Amo told CNBC, adding that lawmakers should also examine administration officials involved in decisions affecting Nvidia and chip sales to China.
-Amo said he expects the planned closed-door interview with Huang on Dec. 1 to proceed and that Congress would continue seeking answers both privately and publicly in the coming months.
-“He should start purchasing his plane tickets to Washington,” he said. “It is abundantly clear that this is ripe for questioning by Congress.”
-Why the reversal?
-On Nvidia's third-quarter earnings call on Nov. 17, Jones said the board had accepted Huang's resignation and did not intend to reinstate him.
-Less than a week later, the board reversed course, saying Monday that it had unanimously voted to bring Huang back after discussions with him and input from senior U.S. government officials.
-Trump said he had spoken with board members and that his administration provided assurances based on the information available to it. But the board has not publicly detailed what it was told.
-"The board decided to do what we wanted to do," Trump told CNBC, adding that he believed his intervention had been important.
-"I've been speaking to the board directly and indirectly, and I felt very strongly about it," he said.
-Trump also called into an Nvidia board meeting to argue for Huang's return, Semafor reported, citing people familiar with the matter.
-Reed has called on Huang to disclose his communications with Trump and on Nvidia to release a transcript of the board's call with the president.
-How much China risk remains?
-Lawmakers are still seeking answers about the alleged smuggling of Nvidia products to China, their possible diversion for military use and possible advancement of Chinese AI capabilities.
-The Senate Banking Committee has scheduled Huang to testify on U.S. export controls on Dec. 3. House lawmakers have also confirmed closed-door interviews with Huang on Dec. 1 and Nvidia General Counsel Tim Teter on Dec. 2.
-"The Nvidia board's brief internal investigation and reinstatement of Jensen Huang do not erase the national security threats and questions that must be addressed," Reps. John Moolenaar, Rick Crawford and Brian Mast said in a joint statement.
-Their inquiry may also examine what Nvidia knew about the customers and resellers involved, as well as what controls the company had in place.
-Other lawmakers have also sought to preserve the paper trail. Sens. Elizabeth Warren and Chris Coons had asked senior administration officials on Nov. 11 to retain records related to Nvidia exports of advanced AI chips to China and associated national security concerns.
-Huang oversight?
-Nvidia has promised to hire a chief compliance officer and establish a committee overseeing national security and export controls. The board's investigation into Huang's conduct also remains underway.
-Josh Gilbert, eToro's lead analyst for APAC and the Middle East, said investors will be watching whether those new safeguards carry meaningful authority.
-Succession remains another question.
-Gil Luria, head of technology research at D.A. Davidson, said Nvidia has a limited window to prepare for the possibility that a future president may be less supportive of Huang.
-With Trump's term ending in two years, Luria argued that Nvidia needs a clearer plan for who could take over if Huang were forced to leave again.
-Can Nvidia growth hold?
-Gilbert pointed to Nvidia's roughly 75% revenue-growth forecast for the next financial year as evidence of strong near-term demand. The longer-term question, he said, is whether customer orders and artificial intelligence investment can sustain that pace.
-Luria told CNBC that concerns about the broader AI trade remain, including the cost of financing data centers, potential overbuilding by neocloud companies and obstacles to building new facilities.
-Bernstein analyst Stacy Rasgon said worries about whether AI spending is achievable and sustainable were not caused solely by Huang's departure. UBS, meanwhile, flagged Nvidia's roughly $390 billion in supply commitments and the need to keep demand flowing through its ecosystem.
-How will shares perform?
-Gilbert said part of Monday's rally reflected investors recovering earlier losses rather than pricing in new growth. Bernstein restored its "Outperform" rating and kept its $200 price target, while UBS maintained its $220 target.
-"For the share price, it comes down to whether Nvidia can keep delivering as it has done over recent years," said Gilbert, adding that Huang's return could ease some concerns about Nvidia's longer-term outlook.
-"The real worry has been what happens beyond next year. Having Huang back at the helm goes a long way to easing those concerns, because he's the one who sits down with the biggest customers and gets those multi-year orders over the line," he said.
-— CNBC's David Sucherman, Justin Papp and Eko Prasetyo contributed to the story`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-politics-market.html",
-    publishedAt: "2026-11-24T07:12:33+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "trump-faces-backlash-after-saying-he-con-b573b436",
-    title: "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-    titleJa: "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-    summaryJa: "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-    bodyOriginal: `Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang
-- Published
-Nvidia has reinstated CEO Jensen Huang just days after rejecting his offer to return to the AI chipmaker - and less than two weeks after he was forced to resign over a reported affair with a suspected Chinese spy.
-The company came under pressure by Donald Trump to reappoint Huang - and on Monday, the US president said he "made the deal" to "convince" the tech giant's board to bring him back.
-But now both Trump and Nvidia are facing bipartisan backlash from lawmakers, just as Huang is due to testify before Congress next week.
-The CEO's comeback helped end a week-long losing streak in US stocks that left the S&P 500 in correction territory, and added nearly $1 trillion to Nvidia's market value.
-Stock prices for Nvidia fell sharply after Huang stepped down, but jumped by 31% after he was reappointed on Monday - adding about $1tn to the company's market value.
-But Nvidia's closing price was still down slightly from its Friday morning opening price.
-As Asian stock markets opened, Nvidia racked up more gains and helped lift other share prices across the tech sector.
-Board Chairman Harvey C Jones said in a statement earlier in the day: "The Board believes Jensen is the right person to lead Nvidia, and that his reinstatement is in the best interests of our stockholders, employees, partners and customers."
-The board said it had received input from senior levels of the US government and was confident that Huang's reinstatement posed no national security risk.
-It was only last Tuesday that the board explicitly said it did not intend to reinstate him.
-Huang resigned from Nvidia on 12 November following reports of extramarital affairs, including one with a woman, Alice Huang, who was alleged to have ties to Chinese intelligence.
-On Monday, the US Commerce Department announced it was preparing to blacklist Megaspeed, the Singapore-based Nvidia customer where Alice Huang was CEO.
-In a brief interview with CNBC on Monday, Trump said he had spoken to Nvidia's board of directors and "convinced" them to bring back Huang. Trump praised the Nvidia board for acting "really responsibly" in reinstating the CEO.
-"They did ask for assurance on the national security threat," Trump said. "And we gave them assurances at least with everything we know. And we know a lot."
-"People say, is it a threat to have him? No, it's a threat to lose him," the president added.
-The president was asked whether Nvidia stock losses after Huang resigned last week had influenced his decision to personally intervene.
-"Probably so," Trump said.
-The rise and fall and rise again of Jensen Huang
-- Published17 hours ago
-How important are Nvidia and Jensen Huang to the US economy?
-- Published17 hours ago
-Congress vows to investigate Nvidia and the Trump administration's role
-The head of the International Association for Safe and Ethical AI told the BBC that the Nvidia board must have been under "enormous pressure" from the White House to reinstate Huang.
-Prof Stuart Russell, who is professor of computer science at UC Berkeley, said the stock price of Nvidia and similar firms has been a major factor in "underpinning US economic growth for years".
-"I assume the White House was worried that the markets would go down a lot further in the next few weeks unless they got him back in," he says.
-Trump's vocal backing of Huang comes despite the concerns of US lawmakers, including some Republicans, over the CEO's affair and Nvidia's compliance with US export controls.
-Hakeem Jeffries, who is expected to lead the House of Representatives as Speaker when Democrats take control in January called the decision to reinstate Huang "indefensible, irresponsible and incomprehensible" and vowed that Congress will conduct "a swift, thorough and wide-ranging investigation".
-"We will not allow America's national security to be sold out by the Trump Administration for personal financial gain," he said, echoing many lawmakers on Monday who said that Congress must pass strong export control legislation.
-Huang is scheduled to appear before Congress for a closed-door interview with three House committees on 1 December. Two days later, he has been asked to testify before the Senate banking committee.
-Senator Elizabeth Warren, who is set to be chairwoman of the Senate Banking Committee once Democrats take control of the chamber in January, said in a statement that the reinstatement was "reckless".
-"The Trump Administration also needs to explain to Congress what 'input' was given and by which senior officials in the United States government to support his reinstatement," she also said.
-Republicans, too, called for answers.
-"Nvidia should have moved on without Huang and ignored the administration's inexplicable desire to save Huang," said Republican Representative Don Bacon, who chairs a House subcommittee on cyber security.
-"We cannot say we want to win the AI race and then give China our best technology. We need sunlight on who is responsible."
-The chair of the Senate's select committee on intelligence, Republican Tom Cotton said: "The controversy with Nvidia and Megaspeed is just the tip of the iceberg, and it's not resolved because Jensen Huang has his job back."
-Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns
-- Published12 hours ago
-Faisal Islam: Why Jensen Huang proved too big to fire
-- Published16 hours ago
-US to blacklist Asian AI firm Megaspeed after Nvidia scandal
-- Published10 hours ago
-Trump's personal Nvidia investments
-Since returning last year to the White House, Trump has amassed a significant level of investment in Nvidia. Recent financial disclosures show he purchased $265,000 in its stock and sold as much as $15,000 worth of shares in September.
-A BBC review of his government financial disclosures for the last two years shows he purchased shares of Nvidia stock worth between $23m and $86m (£18m and £66m). And he has bought Nvidia stock 85 separate times through a number of investment accounts.
-The value of those holdings would have been affected by the recent fall in Nvidia's stock price amid Huang's exit.
-Trump has also sold some of his stake in Nvidia since returning to the presidency. Over 19 sales, Trump gained between $3.5m and $10.2m, according to his government disclosures.
-The BBC has contacted the White House.
-Both Trump and White House have repeatedly rejected assertions that he has profited from the presidency. The president has said "everybody" was making money from rising stocks and he does not make decisions related to his investment accounts.
-The White House has emphasised that Trump has placed his businesses in a trust managed by his sons.
-With additional reporting from Brandon Drenon and Rachel Clun`,
-    bodyJa: `Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang
-- Published
-Nvidia has reinstated CEO Jensen Huang just days after rejecting his offer to return to the AI chipmaker - and less than two weeks after he was forced to resign over a reported affair with a suspected Chinese spy.
-The company came under pressure by Donald Trump to reappoint Huang - and on Monday, the US president said he "made the deal" to "convince" the tech giant's board to bring him back.
-But now both Trump and Nvidia are facing bipartisan backlash from lawmakers, just as Huang is due to testify before Congress next week.
-The CEO's comeback helped end a week-long losing streak in US stocks that left the S&P 500 in correction territory, and added nearly $1 trillion to Nvidia's market value.
-Stock prices for Nvidia fell sharply after Huang stepped down, but jumped by 31% after he was reappointed on Monday - adding about $1tn to the company's market value.
-But Nvidia's closing price was still down slightly from its Friday morning opening price.
-As Asian stock markets opened, Nvidia racked up more gains and helped lift other share prices across the tech sector.
-Board Chairman Harvey C Jones said in a statement earlier in the day: "The Board believes Jensen is the right person to lead Nvidia, and that his reinstatement is in the best interests of our stockholders, employees, partners and customers."
-The board said it had received input from senior levels of the US government and was confident that Huang's reinstatement posed no national security risk.
-It was only last Tuesday that the board explicitly said it did not intend to reinstate him.
-Huang resigned from Nvidia on 12 November following reports of extramarital affairs, including one with a woman, Alice Huang, who was alleged to have ties to Chinese intelligence.
-On Monday, the US Commerce Department announced it was preparing to blacklist Megaspeed, the Singapore-based Nvidia customer where Alice Huang was CEO.
-In a brief interview with CNBC on Monday, Trump said he had spoken to Nvidia's board of directors and "convinced" them to bring back Huang. Trump praised the Nvidia board for acting "really responsibly" in reinstating the CEO.
-"They did ask for assurance on the national security threat," Trump said. "And we gave them assurances at least with everything we know. And we know a lot."
-"People say, is it a threat to have him? No, it's a threat to lose him," the president added.
-The president was asked whether Nvidia stock losses after Huang resigned last week had influenced his decision to personally intervene.
-"Probably so," Trump said.
-The rise and fall and rise again of Jensen Huang
-- Published17 hours ago
-How important are Nvidia and Jensen Huang to the US economy?
-- Published17 hours ago
-Congress vows to investigate Nvidia and the Trump administration's role
-The head of the International Association for Safe and Ethical AI told the BBC that the Nvidia board must have been under "enormous pressure" from the White House to reinstate Huang.
-Prof Stuart Russell, who is professor of computer science at UC Berkeley, said the stock price of Nvidia and similar firms has been a major factor in "underpinning US economic growth for years".
-"I assume the White House was worried that the markets would go down a lot further in the next few weeks unless they got him back in," he says.
-Trump's vocal backing of Huang comes despite the concerns of US lawmakers, including some Republicans, over the CEO's affair and Nvidia's compliance with US export controls.
-Hakeem Jeffries, who is expected to lead the House of Representatives as Speaker when Democrats take control in January called the decision to reinstate Huang "indefensible, irresponsible and incomprehensible" and vowed that Congress will conduct "a swift, thorough and wide-ranging investigation".
-"We will not allow America's national security to be sold out by the Trump Administration for personal financial gain," he said, echoing many lawmakers on Monday who said that Congress must pass strong export control legislation.
-Huang is scheduled to appear before Congress for a closed-door interview with three House committees on 1 December. Two days later, he has been asked to testify before the Senate banking committee.
-Senator Elizabeth Warren, who is set to be chairwoman of the Senate Banking Committee once Democrats take control of the chamber in January, said in a statement that the reinstatement was "reckless".
-"The Trump Administration also needs to explain to Congress what 'input' was given and by which senior officials in the United States government to support his reinstatement," she also said.
-Republicans, too, called for answers.
-"Nvidia should have moved on without Huang and ignored the administration's inexplicable desire to save Huang," said Republican Representative Don Bacon, who chairs a House subcommittee on cyber security.
-"We cannot say we want to win the AI race and then give China our best technology. We need sunlight on who is responsible."
-The chair of the Senate's select committee on intelligence, Republican Tom Cotton said: "The controversy with Nvidia and Megaspeed is just the tip of the iceberg, and it's not resolved because Jensen Huang has his job back."
-Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns
-- Published12 hours ago
-Faisal Islam: Why Jensen Huang proved too big to fire
-- Published16 hours ago
-US to blacklist Asian AI firm Megaspeed after Nvidia scandal
-- Published10 hours ago
-Trump's personal Nvidia investments
-Since returning last year to the White House, Trump has amassed a significant level of investment in Nvidia. Recent financial disclosures show he purchased $265,000 in its stock and sold as much as $15,000 worth of shares in September.
-A BBC review of his government financial disclosures for the last two years shows he purchased shares of Nvidia stock worth between $23m and $86m (£18m and £66m). And he has bought Nvidia stock 85 separate times through a number of investment accounts.
-The value of those holdings would have been affected by the recent fall in Nvidia's stock price amid Huang's exit.
-Trump has also sold some of his stake in Nvidia since returning to the presidency. Over 19 sales, Trump gained between $3.5m and $10.2m, according to his government disclosures.
-The BBC has contacted the White House.
-Both Trump and White House have repeatedly rejected assertions that he has profited from the presidency. The president has said "everybody" was making money from rising stocks and he does not make decisions related to his investment accounts.
-The White House has emphasised that Trump has placed his businesses in a trust managed by his sons.
-With additional reporting from Brandon Drenon and Rachel Clun`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-24T04:36:31+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
-    readTime: 10,
-  },
-  {
-    id: "why-the-rise-of-the-corporate-landlord-c-b077ad29",
-    title: "Why the rise of the corporate landlord could lead to a two-tier rental market",
-    titleJa: "Why the rise of the corporate landlord could lead to a two-tier rental market",
-    summaryJa: "Companies building flats that they then rent out could usher in big changes for renters",
-    bodyOriginal: `On Christmas Eve 2021, there was a knock on the door of Lexi Levens' rented flat. It was a letter sent by special delivery from the NHS nurse's landlord saying she, her husband, and four children had two months to move out.
-"The kids all thought it was a present arriving," she recalls.
-Lexi's landlord had used something known then as a Section 21 notice to evict her family without needing to give a reason.
-Lexi, along with the housing charity Shelter, went on to lobby the government to improve rights for renters. The Renters' Rights Act, which came into force in May this year, banned Section 21 evictions and also made it illegal to refuse to rent to people based on their status as a family with children.
-The landlords Lexi had been renting from at that time were typical of the English housing market — individuals who owned one or a handful of properties.
-Many of these small landlords say the Renters' Rights Act has left them feeling squeezed. They also say rising interest rates, new regulations and tax changes (including some in the most recent Budget) are making things harder. Some say they are selling up.
-Meanwhile, according to Savills estate agents, 2026 is likely to be another record year for investment from large institutions in what is known in the property industry as build to rent (BTR). This is when big developers build blocks of flats or family housing to rent out, something that is commonplace in parts of Europe and the US. It means that rather than dealing with an individual landlord or letting agent, tenants are instead renting from larger, typically corporate, entities.
-So does the shift, as some believe, represent a welcome professionalisation of the UK rental sector? Or will renters increasingly miss the positive elements of the personal touch that small landlords can provide?
-'Very industrial and very unpersonal'
-According to the latest government survey of private landlords in England, 83% of English landlords own four properties or fewer, representing 51% of tenancies.
-And according to 2024 research by real estate agency Savills, around 40% rental homes in the US and Germany are owned by large institutions — be they private firms, listed companies, pension funds, or co-operatives. For the UK, Savills calculated that figure was just 3%.
-But the rental market is changing. The trend is most visible in England, where BTR has boomed in large cities and where regulations like the Renters' Rights Act apply, but there are BTR developments in Scotland, Wales, and Northern Ireland too and the devolved nations are also seeing increased regulation on landlords, such as with Scotland's rent controls.
-Lexi is pleased with the idea of a sector with stricter rules for landlords and more professional institutions getting involved.
-"Anything that takes away from landlords having personal preferences [around choosing who they are or not prepared to rent to]… is a good thing," she says, adding that she believes large, corporate landlords would be less likely to act that way.
-Not everyone is convinced BTR landlords are better, though.
-Clint Stevenson, a 44-year-old magician for weddings and events, has been renting his one-bedroom flat in Ramsgate for £550 a month for two years. He says he has "the most amazing landlady" — an older woman who he regularly chats to. He sometimes walks her dog and does her shopping as well.
-He says he had considered renting from a BTR development, but found the accommodation to be "very industrial and very unpersonal". He also found what was on offer to be expensive compared to what he is used to paying.
-"They just look like big, money-grabbing deals," he says.
-In Cardiff, Grainger, the UK's largest listed BTR developer, is currently offering a fully-furnished studio flat on the 20th floor of The Copper Works in the city centre with views over the bay for £1,265 a month.
-It's a lot more than what is currently on offer on Rightmove, a 15 minute walk away from the city centre – a fully-furnished, ground-floor, one-bedroom flat with a garden for £800 a month.
-But tenants in The Copper Works have free access to a gym, a cinema room, a roof terrace, and a games room. There's also free WiFi, a concierge service with a helpline, and other amenities. In addition, the studio flat has an EPC B rating as opposed to an EPC C rating for the one-bedroom flat down the road.
-"You have to look at what you're getting for your rent," says Helen Gordon, Grainger's chief executive. She says BTR landlords can offer these services because of their scale. As she puts it: "If you run 11,000 homes, you can afford to invest in systems, processes, people, helplines – that sort of thing – that smaller landlords can't."
-Gordon strongly pushes back against suggestions that there is a lack of human connection within BTR, noting that tenants are able to speak with staff whenever they need and that the firm regularly organises events for socialising with other tenants to create a sense of community.
-It's a pattern across the BTR sector: a higher price point in exchange for what is marketed as high-quality accommodation and a suite of services — some in the sector even refer to 'customers' rather than 'tenants'.
-The number of BTR homes has tripled between 2019 and 2025, and while it represents just 3% of the overall rental market at the moment, Gordon believes it could reach "at least 10%" over the next ten years. "And I think it could go higher," she adds.
-"If you've got major institutions that include pension funds, financial institutions, and FTSE 250 companies running the stock, it's easier to hold people to account than lots of disparate people, so you can see why it's attractive [to government]."
-'Policy environment'
-A 2012 government-commissioned report concluded that more BTR properties could help increase housing supply and drive economic growth as well as providing tenants with more choice and better quality housing. It recommended central government and councils support the development of BTR through favourable planning decisions and releasing public land.
-There is a lot of evidence governments and local authorities listened. Local leaders in big cities – London and Manchester, in particular – have partnered with developers to deliver large housing projects involving, in many cases, the release of public land. Kings Cross in London is a prime example of this and current London Mayor Sadiq Khan's push for BTR development near Transport for London (TFL) land, mostly Tube stations, is another example. As part of that, TfL formed a joint venture with Grainger.
-Lucian Cook, head of residential research at Savills, says it's not a matter of looking at one policy, government, or council in particular but more the "policy environment" which has been around since the 2010s.
-He points to a series of tax changes, including mortgage interest tax relief changes and higher stamp duty rates for second homes and buy-to-let properties introduced by the Conservatives around 10 years ago, which made the sector less favourable for smaller landlords.
-The Renters' Rights Act and more stringent energy efficiency requirements were later introduced. And the last two Budgets have raised taxes on rental income from next year. The tax change applies to individuals who are landlords, not to BTR companies which pay corporation tax, further encouraging professionalisation of the sector.
-Yet, while many welcome these changes, others say they are pushing smaller landlords out of the sector. As Cook puts it, there has been more "stick" for small landlords than "carrot" for the BTR sector.
-Between 2000 and 2016, a net 2.74 million homes were added to the English rental market in total, according to an analysis of government data by the Joseph Rowntree Foundation. In the 10 years since, a net of just 200,000 have. For renters, it is now less likely that your property is owned by a smaller landlord.
-Kevin Barber started off with one rental home. He has since grown this portfolio to 40 properties with his business partner but resents what he sees as the clout of the BTR sector. "The big property companies have got so much financial power and influence with the government," he says.
-What would really help renters
-Many experts, landlord groups, and tenant groups agree that building more housing — whether that's rental housing or housing for sale — would help solve many of the issues in the rental sector.
-The thinking goes that building more homes for rent, provided people can afford them, would help deal with the supply crunch that can drive up rental costs and force tenants into lower quality properties. And building more homes for sale, provided people can afford them, would remove those from the market who don't want to rent but are forced into it.
-But whether we will actually see more homes being built is another matter. Savills' Cook says BTR development could slow in future as high interest rates and increased building costs continue to hit developers' bottom line. These same factors are why housebuilders say they are building less.
-Cook says the current rate of BTR development won't be enough to meet the demand for rental properties on its own, at least not imminently. In addition, while some BTR developers do build cheaper family homes for rent in the suburbs, the sector is largely still building blocks of flats for wealthier renters living in cities.
-This raises the possibility that the UK could end up with a two-tier rental market – what Cook describes as the "haves and the have nots" – where high-earning city-dwelling renters have their pick of rental properties but poorer renters in suburbs struggle to find somewhere to live.
-Unless the government steps in, possibly by delivering more housing itself or partnering with developers to do so, it might find any positives gained by the Renters' Rights Act are undone by an increasingly fragmented rental market.
-Top picture credit: Getty Images
-More from InDepth
-The school where white working-class pupils defy the odds
-- Published13 November
-BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
-Get in touch
-Are you personally affected by the issues raised in this story?`,
-    bodyJa: `On Christmas Eve 2021, there was a knock on the door of Lexi Levens' rented flat. It was a letter sent by special delivery from the NHS nurse's landlord saying she, her husband, and four children had two months to move out.
-"The kids all thought it was a present arriving," she recalls.
-Lexi's landlord had used something known then as a Section 21 notice to evict her family without needing to give a reason.
-Lexi, along with the housing charity Shelter, went on to lobby the government to improve rights for renters. The Renters' Rights Act, which came into force in May this year, banned Section 21 evictions and also made it illegal to refuse to rent to people based on their status as a family with children.
-The landlords Lexi had been renting from at that time were typical of the English housing market — individuals who owned one or a handful of properties.
-Many of these small landlords say the Renters' Rights Act has left them feeling squeezed. They also say rising interest rates, new regulations and tax changes (including some in the most recent Budget) are making things harder. Some say they are selling up.
-Meanwhile, according to Savills estate agents, 2026 is likely to be another record year for investment from large institutions in what is known in the property industry as build to rent (BTR). This is when big developers build blocks of flats or family housing to rent out, something that is commonplace in parts of Europe and the US. It means that rather than dealing with an individual landlord or letting agent, tenants are instead renting from larger, typically corporate, entities.
-So does the shift, as some believe, represent a welcome professionalisation of the UK rental sector? Or will renters increasingly miss the positive elements of the personal touch that small landlords can provide?
-'Very industrial and very unpersonal'
-According to the latest government survey of private landlords in England, 83% of English landlords own four properties or fewer, representing 51% of tenancies.
-And according to 2024 research by real estate agency Savills, around 40% rental homes in the US and Germany are owned by large institutions — be they private firms, listed companies, pension funds, or co-operatives. For the UK, Savills calculated that figure was just 3%.
-But the rental market is changing. The trend is most visible in England, where BTR has boomed in large cities and where regulations like the Renters' Rights Act apply, but there are BTR developments in Scotland, Wales, and Northern Ireland too and the devolved nations are also seeing increased regulation on landlords, such as with Scotland's rent controls.
-Lexi is pleased with the idea of a sector with stricter rules for landlords and more professional institutions getting involved.
-"Anything that takes away from landlords having personal preferences [around choosing who they are or not prepared to rent to]… is a good thing," she says, adding that she believes large, corporate landlords would be less likely to act that way.
-Not everyone is convinced BTR landlords are better, though.
-Clint Stevenson, a 44-year-old magician for weddings and events, has been renting his one-bedroom flat in Ramsgate for £550 a month for two years. He says he has "the most amazing landlady" — an older woman who he regularly chats to. He sometimes walks her dog and does her shopping as well.
-He says he had considered renting from a BTR development, but found the accommodation to be "very industrial and very unpersonal". He also found what was on offer to be expensive compared to what he is used to paying.
-"They just look like big, money-grabbing deals," he says.
-In Cardiff, Grainger, the UK's largest listed BTR developer, is currently offering a fully-furnished studio flat on the 20th floor of The Copper Works in the city centre with views over the bay for £1,265 a month.
-It's a lot more than what is currently on offer on Rightmove, a 15 minute walk away from the city centre – a fully-furnished, ground-floor, one-bedroom flat with a garden for £800 a month.
-But tenants in The Copper Works have free access to a gym, a cinema room, a roof terrace, and a games room. There's also free WiFi, a concierge service with a helpline, and other amenities. In addition, the studio flat has an EPC B rating as opposed to an EPC C rating for the one-bedroom flat down the road.
-"You have to look at what you're getting for your rent," says Helen Gordon, Grainger's chief executive. She says BTR landlords can offer these services because of their scale. As she puts it: "If you run 11,000 homes, you can afford to invest in systems, processes, people, helplines – that sort of thing – that smaller landlords can't."
-Gordon strongly pushes back against suggestions that there is a lack of human connection within BTR, noting that tenants are able to speak with staff whenever they need and that the firm regularly organises events for socialising with other tenants to create a sense of community.
-It's a pattern across the BTR sector: a higher price point in exchange for what is marketed as high-quality accommodation and a suite of services — some in the sector even refer to 'customers' rather than 'tenants'.
-The number of BTR homes has tripled between 2019 and 2025, and while it represents just 3% of the overall rental market at the moment, Gordon believes it could reach "at least 10%" over the next ten years. "And I think it could go higher," she adds.
-"If you've got major institutions that include pension funds, financial institutions, and FTSE 250 companies running the stock, it's easier to hold people to account than lots of disparate people, so you can see why it's attractive [to government]."
-'Policy environment'
-A 2012 government-commissioned report concluded that more BTR properties could help increase housing supply and drive economic growth as well as providing tenants with more choice and better quality housing. It recommended central government and councils support the development of BTR through favourable planning decisions and releasing public land.
-There is a lot of evidence governments and local authorities listened. Local leaders in big cities – London and Manchester, in particular – have partnered with developers to deliver large housing projects involving, in many cases, the release of public land. Kings Cross in London is a prime example of this and current London Mayor Sadiq Khan's push for BTR development near Transport for London (TFL) land, mostly Tube stations, is another example. As part of that, TfL formed a joint venture with Grainger.
-Lucian Cook, head of residential research at Savills, says it's not a matter of looking at one policy, government, or council in particular but more the "policy environment" which has been around since the 2010s.
-He points to a series of tax changes, including mortgage interest tax relief changes and higher stamp duty rates for second homes and buy-to-let properties introduced by the Conservatives around 10 years ago, which made the sector less favourable for smaller landlords.
-The Renters' Rights Act and more stringent energy efficiency requirements were later introduced. And the last two Budgets have raised taxes on rental income from next year. The tax change applies to individuals who are landlords, not to BTR companies which pay corporation tax, further encouraging professionalisation of the sector.
-Yet, while many welcome these changes, others say they are pushing smaller landlords out of the sector. As Cook puts it, there has been more "stick" for small landlords than "carrot" for the BTR sector.
-Between 2000 and 2016, a net 2.74 million homes were added to the English rental market in total, according to an analysis of government data by the Joseph Rowntree Foundation. In the 10 years since, a net of just 200,000 have. For renters, it is now less likely that your property is owned by a smaller landlord.
-Kevin Barber started off with one rental home. He has since grown this portfolio to 40 properties with his business partner but resents what he sees as the clout of the BTR sector. "The big property companies have got so much financial power and influence with the government," he says.
-What would really help renters
-Many experts, landlord groups, and tenant groups agree that building more housing — whether that's rental housing or housing for sale — would help solve many of the issues in the rental sector.
-The thinking goes that building more homes for rent, provided people can afford them, would help deal with the supply crunch that can drive up rental costs and force tenants into lower quality properties. And building more homes for sale, provided people can afford them, would remove those from the market who don't want to rent but are forced into it.
-But whether we will actually see more homes being built is another matter. Savills' Cook says BTR development could slow in future as high interest rates and increased building costs continue to hit developers' bottom line. These same factors are why housebuilders say they are building less.
-Cook says the current rate of BTR development won't be enough to meet the demand for rental properties on its own, at least not imminently. In addition, while some BTR developers do build cheaper family homes for rent in the suburbs, the sector is largely still building blocks of flats for wealthier renters living in cities.
-This raises the possibility that the UK could end up with a two-tier rental market – what Cook describes as the "haves and the have nots" – where high-earning city-dwelling renters have their pick of rental properties but poorer renters in suburbs struggle to find somewhere to live.
-Unless the government steps in, possibly by delivering more housing itself or partnering with developers to do so, it might find any positives gained by the Renters' Rights Act are undone by an increasingly fragmented rental market.
-Top picture credit: Getty Images
-More from InDepth
-The school where white working-class pupils defy the odds
-- Published13 November
-BBC InDepth is the home on the website and app for the best analysis, with fresh perspectives that challenge assumptions and deep reporting on the biggest issues of the day. Emma Barnett and John Simpson bring their pick of the most thought-provoking deep reads and analysis, every Saturday. Sign up for the newsletter here
-Get in touch
-Are you personally affected by the issues raised in this story?`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-24T00:28:48+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8db7/live/089748f0-e7e7-11f1-99b6-a35a62fa4264.jpg",
-    readTime: 10,
-  },
-  {
-    id: "bbc-secret-filming-shows-dog-breeder-sel-afb831dd",
-    title: "BBC secret filming shows dog breeder selling sick puppies for £2k each",
-    titleJa: "BBC secret filming shows dog breeder selling sick puppies for £2k each",
-    summaryJa: "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
-    bodyOriginal: `BBC secret filming shows dog breeder selling sick puppies for £2k each
-- Published
-When Katie Thornton paid £2,000 for a nine-week-old puppy for her son, she knew it was a premium price - but was happy to be doing business with a "legit", council-approved breeder.
-But Ozzy the Dobermann pup started coughing in the car on the way home, and within 48 hours he was in a veterinary hospital receiving urgent treatment for pneumonia.
-Since then, his ongoing health problems mean Katie has racked up more than £5,000 in vet bills.
-A BBC investigation has found the breeder had been stripped of his five-star rating two months before selling several sick puppies, but continued to advertise as five-star.
-We have also found at least 15 other breeders in England advertising puppies alongside claims their star rating is higher than it really is.
-An expert reviewing our findings - including undercover footage we recorded at the breeder's home - said the investigation exposes a nationwide "wild west" of dog licensing, making it "easy for consumers to be scammed".
-The breeder has not responded to our request for comment.
-When Katie visited the premises of Mikjulora Dobermanns in Whitby, North Yorkshire, she said the puppies' mother "didn't look very well" and was "skinny" and "shaking".
-But she felt the breeder, Michael Estill, was "pushing me to buy Ozzy" so she paid for him and took him home on the spot.
-Katie defended her decision because she had done extensive research to check the business was "legit".
-The mother-of-one, from Harrogate, said she had checked his licence number and read through his website and online adverts, which said he had decades of experience and a "five-star" breeding licence.
-'It is a scam'
-In England, local councils grant breeders in their area a licence and star rating dependent on welfare standards.
-Vet reports for North Yorkshire Council from August and December 2025, seen by the BBC, cited dozens of concerns with Estill's business, including:
-"Poor" living conditions "akin to a prison", with dogs kept in cages, stacked on top of each other, that were too small for them to turn around in
-Deteriorating health and welfare of "sad" dogs
-Puppies for sale not matching descriptions - "in other words it is a scam"
-Prospective buyers "very vulnerable to unsuspectingly purchasing unhealthy puppies"
-The business was "more or less a puppy farm masquerading as an honest and conscientious breeder. This must stop"
-Estill "bullied" a local vet to perform an "unnecessary" Caesarean section on one of his dogs, to reduce the time he would have to spend monitoring her
-His "demanding" behaviour led the practice to give him several doses of a powerful stimulant which he gave to one of his dogs at home - which the vet considered to be "negligent"
-He had a three-year-old dog euthanised because he suspected her to have a neurological condition, despite the vet encouraging him to get diagnostic tests and specialist treatment first.
-Following the reports, which concluded that the business was "functioning outside the law", the council renewed Estill's licence in January but downgraded his rating from five-star (the highest standards) to one-star (minor failings).
-Dr Caroline Allen, founder of Pet Lighthouse and former RSPCA chief veterinary officer, said she was "surprised and shocked" that the business kept its licence.
-A North Yorkshire Council spokesperson said the threshold for revoking a licence "was not considered to have been met on the evidence available".
-They added: "We take animal welfare very seriously and investigate concerns brought to our attention.
-"Following the veterinary inspection reports, we have continued to work with the licence holder to address the identified concerns and are satisfied that standards have significantly improved, resulting in a higher level of animal welfare at the premises."
-The BBC has evidence that Estill continued to sell puppies while claiming on his website and in person that he was five-star rated.
-While Estill has since updated his website homepage, he has not updated the metadata, which means when his business is searched for online the five-star claim still appears alongside a link to his site.
-There is no official list of licensed breeders and their star ratings, and not all councils publish them, so Katie took his word for it.
-"If I would've known he was a one-star breeder, I would've never even gone to the property. I wouldn't have bought a dog off a one-star breeder," she said, adding that she wanted to see Estill's licence revoked.
-'He died aged three'
-Kat Durrant's dog Bentley died aged three in 2022 of a heart condition known as dilated cardiomyopathy (DCM).
-Within days of bringing him home from Mikjulora Dobermanns, Kat says Bentley was "really poorly".
-"The vet asked me if I had got the dog from a puppy farm because of his condition," she added.
-Three years later, Kat had Bentley put to sleep as his weak heart was "giving up" and he was struggling to breathe.
-"Bentley suffered his whole life because of everything he'd been through when he was young," she said.
-Kat, from Manchester, set up a Facebook group where other people who had bought dogs from Estill could share their experiences.
-Including Kat, owners of 17 dogs mentioned in the group said the pets had died before the age of eight, including 10 below the age of four.
-Several others claimed their dogs were sick at a young age but survived.
-The vet report from December 2025 said Estill was not correctly testing his dogs for DCM despite his website saying that he did test.
-The report said the fact that Estill did "nothing" when customers told him about DCM diagnoses was "truly the hallmark of a breeder who does not care about the welfare or improving the breed".
-Michelle Paton, who lives in Edinburgh, bought her puppy Cruz a week before Katie bought Ozzy.
-He had a cough "as soon as he came through the front door" and was diagnosed with pneumonia and possible heart failure a few weeks later.
-Michelle was frustrated to discover Kat's Facebook group and felt Estill's licence should have been revoked "years ago".
-"If somebody was actually doing their job properly then they would have put an end to him breeding a long time ago," she said.
-Caroline Housam, from York, bought her puppy Roxy the day before Katie bought Ozzy.
-Roxy started coughing in the car on the journey home.
-When Caroline took Roxy to the vet she said she was told there were problems with her glands, and later they found she had a limp and ulcers in her eyes.
-She is having ongoing treatment and tests.
-"I'm actually angry because I look at my dog and I'm thinking, 'I don't know what lies ahead'," said Caroline.
-"When you listen to what other people have said [on Facebook] who have had [dogs] bred from him, her chances of living until two are slim."
-To corroborate the claims made, the BBC sent undercover reporters to film at Estill's home, posing as potential puppy buyers.
-Estill refused to show us where the puppies and their mother slept.
-He said he had "another 15 Dobermanns" in cages in a back room and worried that the neighbours would complain if we went in and they started barking.
-He offered to show us the space another day and said he had "nothing to hide".
-Reviewing our footage, Allen said this refusal was the "most serious concern" and breached regulations.
-She added that the eyes of two of the puppies for sale were " not all normal", citing "a number of abnormalities" such as discoloration and the shape of the eye socket.
-Looking at a photo of a male pup taken by the BBC, she said: "That is not a healthy dog."
-Estill's licence certificate and star rating were also not visibly on display anywhere, despite government rules saying both should be "clearly and prominently displayed" for customers.
-BBC research has found at least 15 other breeders in England who are also advertising puppies alongside claims their star rating is higher than the one they have been given by their local authority.
-We checked through a list of 806 breeders with a rating between one and four stars.
-Of the 573 breeders rated three-star or below (meaning lower standards), we could not find mention of a rating on their websites, social media pages or in online adverts for puppies in 541 cases.
-Of the 32 who did mention a rating, 11 had active adverts claiming to be more highly rated than they really were.
-Of the 45 four-star rated breeders to mention a rating, four claimed they were five-star in active adverts.
-More from the investigations team
-Drugs running was like 'a paper round' for exploited son, mum says
-- Published12 November
-The man accused of tricking his friends out of £50,000
-- Published15 October
-Ex-workers tell of 'chaotic atmosphere' at new £400m prison
-- Published18 August
-One council confirmed a breeder we enquired about did not have a licence at all, another said they could not find the information we needed, and others took weeks to respond.
-The list of breeders was provided by Paws on the Doors, an organisation aiming to collate breeders' star ratings across the country in one place. For each of the breeders whose online claims did not match the Paws on the Doors list, we checked with individual councils to verify the up-to-date rating.
-Commenting on the BBC's findings, Paws on the Doors co-founder Leigh Grant said the main reason "the scammers exist" was that central government and local councils had "failed" to properly implement the principles of legislation for breeder licensing from 2018.
-He said a lack of support for animal welfare had led to a position where breeders can "falsely claim higher standards, without fear of detection".
-Allen said our findings showed puppy breeding was "an absolute wild west" and there should be "countrywide teams of inspectors and vets who are properly trained to understand the legislation".
-She said: "It is easy for consumers to be scammed, but unfortunately at the heart of this there are really vulnerable animals and puppies."
-Amy Thompson-Copsey, senior public affairs officer at Dogs Trust, said potential puppy owners should "trust your instinct" to avoid falling for "financial scams".
-"If something seems off, if you feel red flags, just walk away. You don't know what you could be getting into."
-A Defra spokesperson said they were committed to ending "low welfare dog breeding" and were consulting on reforms to protect dogs' health and better inform the public on "which breeders they can trust".
-The BBC put all allegations to Michael Estill and his wife Julie Estill, who is the named director of Mikjulora on Companies House, but they did not respond.
-Additional data journalism by Anil Kumar Bharath.
-Get in touch
-Do you have a story to share with the BBC Yorkshire & Lincolnshire investigations team?
-Get our flagship newsletter with all the headlines you need to start the day. Sign up here.
-More stories like this
-- Published15 October
-- Published15 November
-- Published5 November`,
-    bodyJa: `BBC secret filming shows dog breeder selling sick puppies for £2k each
-- Published
-When Katie Thornton paid £2,000 for a nine-week-old puppy for her son, she knew it was a premium price - but was happy to be doing business with a "legit", council-approved breeder.
-But Ozzy the Dobermann pup started coughing in the car on the way home, and within 48 hours he was in a veterinary hospital receiving urgent treatment for pneumonia.
-Since then, his ongoing health problems mean Katie has racked up more than £5,000 in vet bills.
-A BBC investigation has found the breeder had been stripped of his five-star rating two months before selling several sick puppies, but continued to advertise as five-star.
-We have also found at least 15 other breeders in England advertising puppies alongside claims their star rating is higher than it really is.
-An expert reviewing our findings - including undercover footage we recorded at the breeder's home - said the investigation exposes a nationwide "wild west" of dog licensing, making it "easy for consumers to be scammed".
-The breeder has not responded to our request for comment.
-When Katie visited the premises of Mikjulora Dobermanns in Whitby, North Yorkshire, she said the puppies' mother "didn't look very well" and was "skinny" and "shaking".
-But she felt the breeder, Michael Estill, was "pushing me to buy Ozzy" so she paid for him and took him home on the spot.
-Katie defended her decision because she had done extensive research to check the business was "legit".
-The mother-of-one, from Harrogate, said she had checked his licence number and read through his website and online adverts, which said he had decades of experience and a "five-star" breeding licence.
-'It is a scam'
-In England, local councils grant breeders in their area a licence and star rating dependent on welfare standards.
-Vet reports for North Yorkshire Council from August and December 2025, seen by the BBC, cited dozens of concerns with Estill's business, including:
-"Poor" living conditions "akin to a prison", with dogs kept in cages, stacked on top of each other, that were too small for them to turn around in
-Deteriorating health and welfare of "sad" dogs
-Puppies for sale not matching descriptions - "in other words it is a scam"
-Prospective buyers "very vulnerable to unsuspectingly purchasing unhealthy puppies"
-The business was "more or less a puppy farm masquerading as an honest and conscientious breeder. This must stop"
-Estill "bullied" a local vet to perform an "unnecessary" Caesarean section on one of his dogs, to reduce the time he would have to spend monitoring her
-His "demanding" behaviour led the practice to give him several doses of a powerful stimulant which he gave to one of his dogs at home - which the vet considered to be "negligent"
-He had a three-year-old dog euthanised because he suspected her to have a neurological condition, despite the vet encouraging him to get diagnostic tests and specialist treatment first.
-Following the reports, which concluded that the business was "functioning outside the law", the council renewed Estill's licence in January but downgraded his rating from five-star (the highest standards) to one-star (minor failings).
-Dr Caroline Allen, founder of Pet Lighthouse and former RSPCA chief veterinary officer, said she was "surprised and shocked" that the business kept its licence.
-A North Yorkshire Council spokesperson said the threshold for revoking a licence "was not considered to have been met on the evidence available".
-They added: "We take animal welfare very seriously and investigate concerns brought to our attention.
-"Following the veterinary inspection reports, we have continued to work with the licence holder to address the identified concerns and are satisfied that standards have significantly improved, resulting in a higher level of animal welfare at the premises."
-The BBC has evidence that Estill continued to sell puppies while claiming on his website and in person that he was five-star rated.
-While Estill has since updated his website homepage, he has not updated the metadata, which means when his business is searched for online the five-star claim still appears alongside a link to his site.
-There is no official list of licensed breeders and their star ratings, and not all councils publish them, so Katie took his word for it.
-"If I would've known he was a one-star breeder, I would've never even gone to the property. I wouldn't have bought a dog off a one-star breeder," she said, adding that she wanted to see Estill's licence revoked.
-'He died aged three'
-Kat Durrant's dog Bentley died aged three in 2022 of a heart condition known as dilated cardiomyopathy (DCM).
-Within days of bringing him home from Mikjulora Dobermanns, Kat says Bentley was "really poorly".
-"The vet asked me if I had got the dog from a puppy farm because of his condition," she added.
-Three years later, Kat had Bentley put to sleep as his weak heart was "giving up" and he was struggling to breathe.
-"Bentley suffered his whole life because of everything he'd been through when he was young," she said.
-Kat, from Manchester, set up a Facebook group where other people who had bought dogs from Estill could share their experiences.
-Including Kat, owners of 17 dogs mentioned in the group said the pets had died before the age of eight, including 10 below the age of four.
-Several others claimed their dogs were sick at a young age but survived.
-The vet report from December 2025 said Estill was not correctly testing his dogs for DCM despite his website saying that he did test.
-The report said the fact that Estill did "nothing" when customers told him about DCM diagnoses was "truly the hallmark of a breeder who does not care about the welfare or improving the breed".
-Michelle Paton, who lives in Edinburgh, bought her puppy Cruz a week before Katie bought Ozzy.
-He had a cough "as soon as he came through the front door" and was diagnosed with pneumonia and possible heart failure a few weeks later.
-Michelle was frustrated to discover Kat's Facebook group and felt Estill's licence should have been revoked "years ago".
-"If somebody was actually doing their job properly then they would have put an end to him breeding a long time ago," she said.
-Caroline Housam, from York, bought her puppy Roxy the day before Katie bought Ozzy.
-Roxy started coughing in the car on the journey home.
-When Caroline took Roxy to the vet she said she was told there were problems with her glands, and later they found she had a limp and ulcers in her eyes.
-She is having ongoing treatment and tests.
-"I'm actually angry because I look at my dog and I'm thinking, 'I don't know what lies ahead'," said Caroline.
-"When you listen to what other people have said [on Facebook] who have had [dogs] bred from him, her chances of living until two are slim."
-To corroborate the claims made, the BBC sent undercover reporters to film at Estill's home, posing as potential puppy buyers.
-Estill refused to show us where the puppies and their mother slept.
-He said he had "another 15 Dobermanns" in cages in a back room and worried that the neighbours would complain if we went in and they started barking.
-He offered to show us the space another day and said he had "nothing to hide".
-Reviewing our footage, Allen said this refusal was the "most serious concern" and breached regulations.
-She added that the eyes of two of the puppies for sale were " not all normal", citing "a number of abnormalities" such as discoloration and the shape of the eye socket.
-Looking at a photo of a male pup taken by the BBC, she said: "That is not a healthy dog."
-Estill's licence certificate and star rating were also not visibly on display anywhere, despite government rules saying both should be "clearly and prominently displayed" for customers.
-BBC research has found at least 15 other breeders in England who are also advertising puppies alongside claims their star rating is higher than the one they have been given by their local authority.
-We checked through a list of 806 breeders with a rating between one and four stars.
-Of the 573 breeders rated three-star or below (meaning lower standards), we could not find mention of a rating on their websites, social media pages or in online adverts for puppies in 541 cases.
-Of the 32 who did mention a rating, 11 had active adverts claiming to be more highly rated than they really were.
-Of the 45 four-star rated breeders to mention a rating, four claimed they were five-star in active adverts.
-More from the investigations team
-Drugs running was like 'a paper round' for exploited son, mum says
-- Published12 November
-The man accused of tricking his friends out of £50,000
-- Published15 October
-Ex-workers tell of 'chaotic atmosphere' at new £400m prison
-- Published18 August
-One council confirmed a breeder we enquired about did not have a licence at all, another said they could not find the information we needed, and others took weeks to respond.
-The list of breeders was provided by Paws on the Doors, an organisation aiming to collate breeders' star ratings across the country in one place. For each of the breeders whose online claims did not match the Paws on the Doors list, we checked with individual councils to verify the up-to-date rating.
-Commenting on the BBC's findings, Paws on the Doors co-founder Leigh Grant said the main reason "the scammers exist" was that central government and local councils had "failed" to properly implement the principles of legislation for breeder licensing from 2018.
-He said a lack of support for animal welfare had led to a position where breeders can "falsely claim higher standards, without fear of detection".
-Allen said our findings showed puppy breeding was "an absolute wild west" and there should be "countrywide teams of inspectors and vets who are properly trained to understand the legislation".
-She said: "It is easy for consumers to be scammed, but unfortunately at the heart of this there are really vulnerable animals and puppies."
-Amy Thompson-Copsey, senior public affairs officer at Dogs Trust, said potential puppy owners should "trust your instinct" to avoid falling for "financial scams".
-"If something seems off, if you feel red flags, just walk away. You don't know what you could be getting into."
-A Defra spokesperson said they were committed to ending "low welfare dog breeding" and were consulting on reforms to protect dogs' health and better inform the public on "which breeders they can trust".
-The BBC put all allegations to Michael Estill and his wife Julie Estill, who is the named director of Mikjulora on Companies House, but they did not respond.
-Additional data journalism by Anil Kumar Bharath.
-Get in touch
-Do you have a story to share with the BBC Yorkshire & Lincolnshire investigations team?
-Get our flagship newsletter with all the headlines you need to start the day. Sign up here.
-More stories like this
-- Published15 October
-- Published15 November
-- Published5 November`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-24T00:11:08+00:00",
-    category: "自動車",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbbd/live/db7cd3b0-e7d4-11f1-939f-471cde339c0e.jpg",
-    readTime: 10,
-  },
-  {
-    id: "i-pay-250-a-month-for-someone-else-to-do-aa74c94a",
-    title: "I pay £250 a month for someone else to do my life admin - it's worth it",
-    titleJa: "I pay £250 a month for someone else to do my life admin - it's worth it",
-    summaryJa: "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
-    bodyOriginal: `I pay £250 a month for someone else to do my life admin - it's worth it
-- Published
-Maxine Dillion, a busy 44-year-old mum of two, was struggling with her life admin – the never-ending to-do list of household and personal chores.
-Everything from arranging for a handyman to fix something, to posting her clothing returns on Vinted, she wasn't getting around to it.
-"I felt like all the little jobs that I didn't have time for were mounting up," says Maxine, who is self-employed helping businesses with their use of social media.
-Then last year, Maxine, who lives in Mansfield in Nottinghamshire, discovered a new company called Life Laundry.
-Launched in 2025 by two women based in Wakefield, Yorkshire, you can pay them to do all your admin jobs for you. Such companies are known as life personal assistants, and in recent years a growing number have sprung up on both sides of the Atlantic.
-Maxine, who earns £32,000 a year, doesn't have a massive amount of disposable income, but she decided to start spending £250 a month for five hours' work and thinks it is worth it as it also helps reduce her "mental load".
-The owners of Life Laundry, Alicia Papachristou and Jane Forbes, now look after a host of things for Maxine. Other jobs they take care of include arranging insurance, sending school emails, and managing online subscriptions.
-Much of the work they can do remotely, but once a month they travel to Mansfield to do the jobs that require them to be physically present.
-"If someone asks us what we do, we say we're life PAs [personal assistants], and we ease your overwhelm," says Forbes.
-With such companies also increasingly available in the US, another busy working mother, Amanda Sims Nichols in Austin, Texas, has also employed a firm to look after her life admin.
-Amanda, who is a business consultant, has three children with her attorney husband, and decided to start paying for help with life admin after moving house, away from her family support network.
-She pays $2,250 (£1,750) a month for 25 hours, and says she relishes offloading regular chores including the weekly food shop and clothes washing.
-"Money cannot buy you everything, but it can buy you back some of your time," says the 45-year-old.
-The company she uses, Queen of To Do, was founded by Kate Ginsberg in 2011. She says that interest has greatly increased since the pandemic.
-The business now has more than 50 active users. Meanwhile, Life Laundry has 25 customers.
-Both companies say demand is growing for their services as people's lives become increasingly frantic.
-Ginsberg says that the work they do for clients can be very diverse, with no task too big or too small.
-Some of the larger tasks her team has faced over the years include flying from Austin to New York City to buy a desperately needed Christmas gift, and finding a new wedding location for a client with just three days' notice due to an incoming hurricane.
-Jess Baker, a UK chartered psychologist, says the appeal of such providers is understandable.
-"Using a life PA, if you can afford one, takes the pressure off having to keep hundreds of to-dos swimming around your head, or on lists you might forget to look at," she says.
-"Otherwise, the cognitive load can lead to feelings of being overwhelmed, excess worry and exhaustion."
-'We meet twice a week on Zoom'
-While paying for help with such tasks may seem a luxury, for some people support with life's everyday trials is a lifeline.
-Anna Allington sought help after her husband died. "My husband passed away. I was 47," she says.
-"And the same week he passed away, I got leukaemia. There was a lot to sort out and I was very, very unwell."
-Anna, now 51, still suffers the after-effects of her cancer. "I can't function executively like I used to," she says.
-She pays £1,200 a month for 40 hours of help from Cheshire-based company Vi-Va. Her personal assistant helps her respond to emails, manage her diary and make travel plans and bookings.
-"We meet twice a week on Zoom," says Anna, who lives in the Cotswolds, so they can go through all her tasks.
-Many more women than men use these companies.
-Queen of To Do says just 20% of its clients are male, while only one of Life Laundry's 25 clients is a man.
-Some of that disparity is likely due to mothers still looking after the lion's share of household admin, as studies continue to show.
-However, Life Laundry's Forbes wonders if some men are too proud to ask for assistance.
-"Men are struggling as well, but I think they're less likely to ask for help."
-- Published7 days ago
-- Published3 November
-- Published15 September`,
-    bodyJa: `I pay £250 a month for someone else to do my life admin - it's worth it
-- Published
-Maxine Dillion, a busy 44-year-old mum of two, was struggling with her life admin – the never-ending to-do list of household and personal chores.
-Everything from arranging for a handyman to fix something, to posting her clothing returns on Vinted, she wasn't getting around to it.
-"I felt like all the little jobs that I didn't have time for were mounting up," says Maxine, who is self-employed helping businesses with their use of social media.
-Then last year, Maxine, who lives in Mansfield in Nottinghamshire, discovered a new company called Life Laundry.
-Launched in 2025 by two women based in Wakefield, Yorkshire, you can pay them to do all your admin jobs for you. Such companies are known as life personal assistants, and in recent years a growing number have sprung up on both sides of the Atlantic.
-Maxine, who earns £32,000 a year, doesn't have a massive amount of disposable income, but she decided to start spending £250 a month for five hours' work and thinks it is worth it as it also helps reduce her "mental load".
-The owners of Life Laundry, Alicia Papachristou and Jane Forbes, now look after a host of things for Maxine. Other jobs they take care of include arranging insurance, sending school emails, and managing online subscriptions.
-Much of the work they can do remotely, but once a month they travel to Mansfield to do the jobs that require them to be physically present.
-"If someone asks us what we do, we say we're life PAs [personal assistants], and we ease your overwhelm," says Forbes.
-With such companies also increasingly available in the US, another busy working mother, Amanda Sims Nichols in Austin, Texas, has also employed a firm to look after her life admin.
-Amanda, who is a business consultant, has three children with her attorney husband, and decided to start paying for help with life admin after moving house, away from her family support network.
-She pays $2,250 (£1,750) a month for 25 hours, and says she relishes offloading regular chores including the weekly food shop and clothes washing.
-"Money cannot buy you everything, but it can buy you back some of your time," says the 45-year-old.
-The company she uses, Queen of To Do, was founded by Kate Ginsberg in 2011. She says that interest has greatly increased since the pandemic.
-The business now has more than 50 active users. Meanwhile, Life Laundry has 25 customers.
-Both companies say demand is growing for their services as people's lives become increasingly frantic.
-Ginsberg says that the work they do for clients can be very diverse, with no task too big or too small.
-Some of the larger tasks her team has faced over the years include flying from Austin to New York City to buy a desperately needed Christmas gift, and finding a new wedding location for a client with just three days' notice due to an incoming hurricane.
-Jess Baker, a UK chartered psychologist, says the appeal of such providers is understandable.
-"Using a life PA, if you can afford one, takes the pressure off having to keep hundreds of to-dos swimming around your head, or on lists you might forget to look at," she says.
-"Otherwise, the cognitive load can lead to feelings of being overwhelmed, excess worry and exhaustion."
-'We meet twice a week on Zoom'
-While paying for help with such tasks may seem a luxury, for some people support with life's everyday trials is a lifeline.
-Anna Allington sought help after her husband died. "My husband passed away. I was 47," she says.
-"And the same week he passed away, I got leukaemia. There was a lot to sort out and I was very, very unwell."
-Anna, now 51, still suffers the after-effects of her cancer. "I can't function executively like I used to," she says.
-She pays £1,200 a month for 40 hours of help from Cheshire-based company Vi-Va. Her personal assistant helps her respond to emails, manage her diary and make travel plans and bookings.
-"We meet twice a week on Zoom," says Anna, who lives in the Cotswolds, so they can go through all her tasks.
-Many more women than men use these companies.
-Queen of To Do says just 20% of its clients are male, while only one of Life Laundry's 25 clients is a man.
-Some of that disparity is likely due to mothers still looking after the lion's share of household admin, as studies continue to show.
-However, Life Laundry's Forbes wonders if some men are too proud to ask for assistance.
-"Men are struggling as well, but I think they're less likely to ask for help."
-- Published7 days ago
-- Published3 November
-- Published15 September`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-24T00:01:04+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a207/live/9dc35180-e378-11f1-b879-03485a55c082.jpg",
-    readTime: 10,
   },
 ];
 
