@@ -15,6 +15,548 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "my-self-care-ritual-is-a-meal-at-a-fancy-85331d41",
+    title: "My self-care ritual is a meal at a fancy restaurant - on my own",
+    titleJa: "My self-care ritual is a meal at a fancy restaurant - on my own",
+    summaryJa: "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+    bodyOriginal: `My self-care ritual is a meal at a fancy restaurant - on my own
+- Published
+Catherine Smith is perusing the menu at a high-end Mediterranean restaurant she has been excited to try. She has a new outfit on, and as she sips her rosé, she looks across at the empty seat opposite - bliss.
+"I think what is so special about solo dining is that you don't have to wait for people to make those plans. You can go out and do them yourself," says the 23-year-old.
+The self-confessed foodie is part of a growing trend of people booking tables for one - not because they're away with work but as a treat.
+As food trends analyst Charles Banks puts it: "[Eating alone] is becoming an intentional act, a little pocket of independence, indulgence and self-care."
+We spoke to solo dining fans and hospitality industry experts about how the trend is shaping the restaurant experience and asked if you would book a table for one.
+Catherine, from Yorkshire, began dining solo at university and now does it at least once a month, choosing high-end restaurants she would not usually go to with friends and family.
+She has been to a range of places both in the UK and abroad, doing "lots of research" to find new spots, typically spending £100 to £200 per meal.
+"I think because a lot of my friends are vegan or vegetarian, I find that difficult sometimes because I'm quite a big meat eater," she says.
+"I find it nice to be able to go out and pick a restaurant where I haven't had to scour through the menu to make sure that it's suitable for them."
+Catherine says the sense of freedom she gets from picking where and when she eats "feels empowering".
+"It definitely feels like not only a form of self-care but also a form of female liberation."
+Online booking platform OpenTable says it covers more than 5,000 restaurants in the UK. It says solo dining makes up the smallest proportion of its bookings in the UK but it is the fastest-growing category.
+Figures from 1 January to 31 August this year saw a rise of 23% in solo bookings compared to the same time period a year ago. It did not provide the data to the BBC to verify.
+Nishi Singh was an avid solo diner when she lived in London, but found it wasn't widely accepted after moving to Delhi.
+"Someone approached me and said that they assumed I'd been stood up," she tells BBC World Service's The Food Chain podcast.
+"It sparked a conversation about the culture around solo dining in Delhi and I was really shocked to hear that it's not really something people do."
+A couple of days later, she started documenting her solo dining experience on social media.
+"Quite a lot of people have reached out and said that this is something they'd like to do and they're too scared to do it themselves," she says.
+The Food Chain
+Ruth Alexander hears from solo diners - some who find peace and joy in a table for one, and others who would much rather not be alone
+Banks, joint managing director of The Food People, a food trends and ideas agency, says that while solo dining isn't a "new consumer behaviour", changes in society mean it has become "almost aspirational".
+But he notes that not every restaurant has welcomed the trend.
+"A single diner could therefore feel like an inefficient use of a table rather than a customer the restaurant actively wanted."
+SoloTable, a website that helps identify restaurants suitable for solo diners, found that one in eight of 178 restaurants it surveyed in London did not accept online reservations from solo diners.
+Catherine says she has previously been turned away. "There are a lot of restaurants that I've wanted to go to before where they don't actually allow solo diners. And I've always found that to be really disappointing."
+However, some restaurants like Jungli, an Indian restaurant in Newcastle upon Tyne, is working to attract solo diners.
+Co-founder and director Yousaf Khalid has included high tables and bar seats in his recently opened restaurant. They also have charging points for laptops and phones.
+"We want people to feel comfortable in these sorts of environments, being able to walk in on their own," he says.
+He has hired staff with "bigger personalities" to engage customers in conversation but they also know when to leave diners alone if they want a more solitary experience.
+Catherine urges anyone who fancies solo dining to give it a go.
+"Food is a great way to bring people together, but it's also a great way to have good experiences on your own.
+"I think with time, people will see and will start to accept it as something that's more normal."
+Additional reporting by Jemma Crew and Emma Jackson.
+Get in touch
+Do you treat yourself to meals out on your own?
+Related topics
+More like this
+- Published15 November`,
+    bodyJa: `My self-care ritual is a meal at a fancy restaurant - on my own
+- Published
+Catherine Smith is perusing the menu at a high-end Mediterranean restaurant she has been excited to try. She has a new outfit on, and as she sips her rosé, she looks across at the empty seat opposite - bliss.
+"I think what is so special about solo dining is that you don't have to wait for people to make those plans. You can go out and do them yourself," says the 23-year-old.
+The self-confessed foodie is part of a growing trend of people booking tables for one - not because they're away with work but as a treat.
+As food trends analyst Charles Banks puts it: "[Eating alone] is becoming an intentional act, a little pocket of independence, indulgence and self-care."
+We spoke to solo dining fans and hospitality industry experts about how the trend is shaping the restaurant experience and asked if you would book a table for one.
+Catherine, from Yorkshire, began dining solo at university and now does it at least once a month, choosing high-end restaurants she would not usually go to with friends and family.
+She has been to a range of places both in the UK and abroad, doing "lots of research" to find new spots, typically spending £100 to £200 per meal.
+"I think because a lot of my friends are vegan or vegetarian, I find that difficult sometimes because I'm quite a big meat eater," she says.
+"I find it nice to be able to go out and pick a restaurant where I haven't had to scour through the menu to make sure that it's suitable for them."
+Catherine says the sense of freedom she gets from picking where and when she eats "feels empowering".
+"It definitely feels like not only a form of self-care but also a form of female liberation."
+Online booking platform OpenTable says it covers more than 5,000 restaurants in the UK. It says solo dining makes up the smallest proportion of its bookings in the UK but it is the fastest-growing category.
+Figures from 1 January to 31 August this year saw a rise of 23% in solo bookings compared to the same time period a year ago. It did not provide the data to the BBC to verify.
+Nishi Singh was an avid solo diner when she lived in London, but found it wasn't widely accepted after moving to Delhi.
+"Someone approached me and said that they assumed I'd been stood up," she tells BBC World Service's The Food Chain podcast.
+"It sparked a conversation about the culture around solo dining in Delhi and I was really shocked to hear that it's not really something people do."
+A couple of days later, she started documenting her solo dining experience on social media.
+"Quite a lot of people have reached out and said that this is something they'd like to do and they're too scared to do it themselves," she says.
+The Food Chain
+Ruth Alexander hears from solo diners - some who find peace and joy in a table for one, and others who would much rather not be alone
+Banks, joint managing director of The Food People, a food trends and ideas agency, says that while solo dining isn't a "new consumer behaviour", changes in society mean it has become "almost aspirational".
+But he notes that not every restaurant has welcomed the trend.
+"A single diner could therefore feel like an inefficient use of a table rather than a customer the restaurant actively wanted."
+SoloTable, a website that helps identify restaurants suitable for solo diners, found that one in eight of 178 restaurants it surveyed in London did not accept online reservations from solo diners.
+Catherine says she has previously been turned away. "There are a lot of restaurants that I've wanted to go to before where they don't actually allow solo diners. And I've always found that to be really disappointing."
+However, some restaurants like Jungli, an Indian restaurant in Newcastle upon Tyne, is working to attract solo diners.
+Co-founder and director Yousaf Khalid has included high tables and bar seats in his recently opened restaurant. They also have charging points for laptops and phones.
+"We want people to feel comfortable in these sorts of environments, being able to walk in on their own," he says.
+He has hired staff with "bigger personalities" to engage customers in conversation but they also know when to leave diners alone if they want a more solitary experience.
+Catherine urges anyone who fancies solo dining to give it a go.
+"Food is a great way to bring people together, but it's also a great way to have good experiences on your own.
+"I think with time, people will see and will start to accept it as something that's more normal."
+Additional reporting by Jemma Crew and Emma Jackson.
+Get in touch
+Do you treat yourself to meals out on your own?
+Related topics
+More like this
+- Published15 November`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-27T07:46:02+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0041/live/4371efb0-ea36-11f1-9fc4-ef897a334b75.jpg",
+    readTime: 10,
+  },
+  {
+    id: "tech-german-software-major-sap-is-report-ffd826ee",
+    title: "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
+    titleJa: "Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push",
+    summaryJa: "SAP is weighing cuts of at least 10,000 jobs as it reshapes its software business around AI, Bloomberg reported.",
+    bodyOriginal: `SAP is preparing a plan to eliminate at least 10,000 positions as the German firm reshapes its software business for the artificial intelligence era, Bloomberg reported on Thursday, citing people familiar with the matter.
+The report came as the company flagged a cybersecurity attack, but said it had found "no evidence of unauthorized access to customer business data."
+"SAP has identified suspicious activity and promptly implemented the necessary measures to protect its customers and preserve the security of its services," a company spokesperson said.
+"Our customers trust us to protect their data, and that remains our highest priority. In a highly dynamic threat environment, we will continue to strengthen our security to provide the secure and resilient environment our customers depend on."
+The company did not respond to a request for comment on the reported job cuts. The number could change after labor negotiations.
+Other software companies have also tied workforce reductions to AI initiatives, though for different reasons. WiseTech Global said in February it planned to cut about 2,000 jobs over two years as it integrated AI into its products and operations.
+Atlassian said in March it would cut about 1,600 jobs partly to fund further AI investment, while Cloudflare said in May it would eliminate more than 1,100 roles as it moved toward an AI-first operating model.
+In the U.S., employers cited AI in 121,401 job-cut announcements through October 2026, accounting for about 20% of the total, according to a Nov. 5 report from outplacement and executive coaching firm Challenger, Gray & Christmas.
+SAP employs more than 110,000 people worldwide. Bloomberg reported that all departments had been asked to identify potential cuts, with product, engineering and sales in particular focus.
+The company also underwent a reorganization in 2024, when it eliminated around 10,000 positions through a program that relied mainly on voluntary departures and retraining.
+Its headcount later remained relatively flat as it hired for new roles, Bloomberg reported.
+In 2023, SAP CEO Christian Klein told CNBC he did not necessarily expect a reduction in the workforce, saying he expected the company to grow and "accelerate" its total revenue.
+The reported cuts come as Klein pushes SAP toward an AI-first strategy. This year, SAP completed four acquisitions — Reltio, Dremio, Prior Labs and TechWolf — and made strategic investments in AI-focused companies including Parloa, n8n and Conduct.
+The acquisitions are intended to help SAP organize company data, develop AI models for business information and analyze workforce skills.`,
+    bodyJa: `SAP is preparing a plan to eliminate at least 10,000 positions as the German firm reshapes its software business for the artificial intelligence era, Bloomberg reported on Thursday, citing people familiar with the matter.
+The report came as the company flagged a cybersecurity attack, but said it had found "no evidence of unauthorized access to customer business data."
+"SAP has identified suspicious activity and promptly implemented the necessary measures to protect its customers and preserve the security of its services," a company spokesperson said.
+"Our customers trust us to protect their data, and that remains our highest priority. In a highly dynamic threat environment, we will continue to strengthen our security to provide the secure and resilient environment our customers depend on."
+The company did not respond to a request for comment on the reported job cuts. The number could change after labor negotiations.
+Other software companies have also tied workforce reductions to AI initiatives, though for different reasons. WiseTech Global said in February it planned to cut about 2,000 jobs over two years as it integrated AI into its products and operations.
+Atlassian said in March it would cut about 1,600 jobs partly to fund further AI investment, while Cloudflare said in May it would eliminate more than 1,100 roles as it moved toward an AI-first operating model.
+In the U.S., employers cited AI in 121,401 job-cut announcements through October 2026, accounting for about 20% of the total, according to a Nov. 5 report from outplacement and executive coaching firm Challenger, Gray & Christmas.
+SAP employs more than 110,000 people worldwide. Bloomberg reported that all departments had been asked to identify potential cuts, with product, engineering and sales in particular focus.
+The company also underwent a reorganization in 2024, when it eliminated around 10,000 positions through a program that relied mainly on voluntary departures and retraining.
+Its headcount later remained relatively flat as it hired for new roles, Bloomberg reported.
+In 2023, SAP CEO Christian Klein told CNBC he did not necessarily expect a reduction in the workforce, saying he expected the company to grow and "accelerate" its total revenue.
+The reported cuts come as Klein pushes SAP toward an AI-first strategy. This year, SAP completed four acquisitions — Reltio, Dremio, Prior Labs and TechWolf — and made strategic investments in AI-focused companies including Parloa, n8n and Conduct.
+The acquisitions are intended to help SAP organize company data, develop AI models for business information and analyze workforce skills.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html",
+    publishedAt: "2026-11-27T07:15:44+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 7,
+  },
+  {
+    id: "spacex-shares-jump-on-alternative-tradin-e9e46b91",
+    title: "SpaceX shares jump on alternative trading platform after Musk says he will expand on Trump Account share donations",
+    titleJa: "SpaceX shares jump on alternative trading platform after Musk says he will expand on Trump Account share donations",
+    summaryJa: "SpaceX shares jumped in overnight trading on Blue Ocean ATS after Elon Musk said on X that he would donate shares to American children every year.",
+    bodyOriginal: `Shares of SpaceX jumped 7.47% in overnight trading on Blue Ocean ATS after CEO Elon Musk expanded his SpaceX share-donation plan for U.S. children.
+"I will be donating another share of SpaceX to all kids in America every year," Musk said in a post on X.
+Blue Ocean ATS is an alternative trading system for U.S. equities that operates from 8 p.m. to 4 a.m. ET, outside regular U.S. stock market hours. According to the platform's holiday schedule, overnight trading resumed at 8 p.m. ET on Thanksgiving Day. U.S. stock exchanges were closed Thursday and are scheduled to close early Friday.
+SpaceX shares closed 1.30% higher on Wednesday ahead of Thanksgiving.
+The latest pledge follows SpaceX's announcement Wednesday that it would donate one share of its Class A stock to every active Trump Account, tax-advantaged investment accounts for American children, with Musk personally matching the gift.
+In a separate post on X, Musk said SpaceX's contribution would be transferred next month, while his personal donation would follow when his lockup period expires in June next year.
+Nearly 70 million Trump Accounts had been created as of October, according to the White House.
+Since the program's launch in July, families and friends have contributed more than $1 billion to the accounts, bringing total deposits from all sources to more than $9 billion, CNBC reported earlier this week.`,
+    bodyJa: `Shares of SpaceX jumped 7.47% in overnight trading on Blue Ocean ATS after CEO Elon Musk expanded his SpaceX share-donation plan for U.S. children.
+"I will be donating another share of SpaceX to all kids in America every year," Musk said in a post on X.
+Blue Ocean ATS is an alternative trading system for U.S. equities that operates from 8 p.m. to 4 a.m. ET, outside regular U.S. stock market hours. According to the platform's holiday schedule, overnight trading resumed at 8 p.m. ET on Thanksgiving Day. U.S. stock exchanges were closed Thursday and are scheduled to close early Friday.
+SpaceX shares closed 1.30% higher on Wednesday ahead of Thanksgiving.
+The latest pledge follows SpaceX's announcement Wednesday that it would donate one share of its Class A stock to every active Trump Account, tax-advantaged investment accounts for American children, with Musk personally matching the gift.
+In a separate post on X, Musk said SpaceX's contribution would be transferred next month, while his personal donation would follow when his lockup period expires in June next year.
+Nearly 70 million Trump Accounts had been created as of October, according to the White House.
+Since the program's launch in July, families and friends have contributed more than $1 billion to the accounts, bringing total deposits from all sources to more than $9 billion, CNBC reported earlier this week.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+    publishedAt: "2026-11-27T07:15:13+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 3,
+  },
+  {
+    id: "two-italians-killed-in-kuwait-drone-atta-0594dea0",
+    title: "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+    titleJa: "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+    summaryJa: "Iran's foreign minister Abbas Araghchi said \"The incident is suspicious and looks like a precooked recipe for war.\"",
+    bodyOriginal: `Two Italians have been killed after an alleged Iranian attack on Kuwait, Kuwaiti forces said Thursday.
+In a post on X, Kuwait's army said the deaths followed Iranian attacks on the country, with the two Italians killed by falling missile debris. Two others were also injured.
+In response, a spokesperson for Iran's military told state media that no offensive or military operations had been carried out in the area and that "these accusations should be viewed as a cover for continued malevolence and an attempt to exacerbate insecurity in the region" by U.S. and Israeli forces.
+Iranian Foreign Minister Abbas Araghchi said on Telegram that he had spoken with his Italian counterpart, Antonio Tajani, and expressed regret over their deaths, while stressing that Tehran had no role or involvement in the incident.
+"The incident is suspicious and looks like a precooked recipe for war," Araghchi wrote on X.
+He also said Iran was ready to cooperate with the governments of Kuwait and Italy in investigating the incident.
+Separately, Israel said Thursday that it was prepared to carry out strikes against Iran "at any moment," even without U.S. forces joining the effort, according to Israeli military spokesman Effie Defrin on Israeli broadcaster Kan.
+The comments came after U.S. envoy Jared Kushner told a podcast Wednesday that Israel "needs to get out of the constant wartime mindset."
+Israel has been pushing the Trump administration to back another offensive against Tehran, with Reuters reporting on Nov. 18 that Israeli spy chief Roman Gofman pushed for joint strikes when he met U.S. officials earlier in the month.
+Late Thursday, President Donald Trump said on PBS that the U.S. had "victory at hand" in the Iran conflict and reiterated that victory would come "whenever I want it to be, to be honest."
+Speaking during a Thanksgiving call with U.S. military personnel, Trump said Washington was still trying to give Iran "every chance to make a deal and save a lot of lives."
+But he added that he was not sure whether Tehran would agree.
+"Some people question why. Are they crazy? Maybe they are," Trump said.`,
+    bodyJa: `Two Italians have been killed after an alleged Iranian attack on Kuwait, Kuwaiti forces said Thursday.
+In a post on X, Kuwait's army said the deaths followed Iranian attacks on the country, with the two Italians killed by falling missile debris. Two others were also injured.
+In response, a spokesperson for Iran's military told state media that no offensive or military operations had been carried out in the area and that "these accusations should be viewed as a cover for continued malevolence and an attempt to exacerbate insecurity in the region" by U.S. and Israeli forces.
+Iranian Foreign Minister Abbas Araghchi said on Telegram that he had spoken with his Italian counterpart, Antonio Tajani, and expressed regret over their deaths, while stressing that Tehran had no role or involvement in the incident.
+"The incident is suspicious and looks like a precooked recipe for war," Araghchi wrote on X.
+He also said Iran was ready to cooperate with the governments of Kuwait and Italy in investigating the incident.
+Separately, Israel said Thursday that it was prepared to carry out strikes against Iran "at any moment," even without U.S. forces joining the effort, according to Israeli military spokesman Effie Defrin on Israeli broadcaster Kan.
+The comments came after U.S. envoy Jared Kushner told a podcast Wednesday that Israel "needs to get out of the constant wartime mindset."
+Israel has been pushing the Trump administration to back another offensive against Tehran, with Reuters reporting on Nov. 18 that Israeli spy chief Roman Gofman pushed for joint strikes when he met U.S. officials earlier in the month.
+Late Thursday, President Donald Trump said on PBS that the U.S. had "victory at hand" in the Iran conflict and reiterated that victory would come "whenever I want it to be, to be honest."
+Speaking during a Thanksgiving call with U.S. military personnel, Trump said Washington was still trying to give Iran "every chance to make a deal and save a lot of lives."
+But he added that he was not sure whether Tehran would agree.
+"Some people question why. Are they crazy? Maybe they are," Trump said.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html",
+    publishedAt: "2026-11-27T03:30:23+00:00",
+    category: "テクノロジー",
+    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
+    readTime: 5,
+  },
+  {
+    id: "sovereign-wealth-funds-are-acting-more-l-a4441d34",
+    title: "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
+    titleJa: "Sovereign wealth funds are acting more like private equity giants — and inheriting their risks",
+    summaryJa: "Sovereign wealth funds are increasingly originating deals, taking controlling stakes and building their own investment platforms.",
+    bodyOriginal: `For decades, sovereign wealth funds were among private equity's most deep-pocketed backers, entrusting billions of dollars to buyout firms to invest on their behalf. Increasingly, they are doing the dealmaking themselves.
+From originating transactions and taking controlling stakes in companies to building their own investment platforms, some of the world's largest state investors are adopting the playbook of traditional private equity giants, according to industry veterans.
+"The imminent change is that the lines between LPs and GPs are becoming increasingly blurry. This could bring more fundamental changes in the long term," Diego Lopez of Global SWF told CNBC.
+Limited partners, or LPs, typically commit capital to private equity funds, while general partners, or GPs, are responsible for sourcing deals and managing investments.
+Sovereign funds and state investment companies are increasingly taking on the GP role, Lopez said, pointing to the establishment of their own private equity management platforms, such as Mubadala Capital and Singapore's Seviora.
+The shift is also reflected in the way some of the world's largest sovereign investors are approaching dealmaking.
+"They originate transactions rather than waiting for them. They build platforms rather than buying single assets. They take control positions and operate what they own," PwC said in their latest report on sovereign wealth funds.
+"Whether you're a company, a general partner, or a government, you'll find that these institutions are no longer the limited partner you're raising money from; they're the principal sitting across the table."
+Last year, Abu Dhabi's MGX, an investment vehicle established by state fund Mubadala in 2024, anchored the roughly $40 billion acquisition of Aligned Data Centers alongside BlackRock, Nvidia and Microsoft. A year earlier, a consortium led by Mubadala Capital acquired a 68% equity stake in alternative asset manager Fortress, which at the time managed more than $48 billion.
+Some sovereign funds are striking deals at a speed typically associated with large private equity firms, according to PwC.
+Singapore's GIC recorded 553 transactions between July 2023 and July 2026, Abu Dhabi's Mubadala 397 and the Abu Dhabi Investment Authority 367, according to PwC's analysis of PitchBook data, which includes transactions by subsidiaries.
+The shift comes as sovereign wealth funds command unprecedented financial firepower. Their assets have surged about 59% over the past five years to $16.5 trillion, up from $10.4 trillion in 2022 and more than nine times the $1.8 trillion they managed in 2005, according to data provided to CNBC by research firm Global SWF which focuses on state-owned investors.
+PwC projects that sovereign wealth fund assets to reach $22.4 trillion by 2030.
+Cutting out the middleman
+While sovereign funds' push into direct investing has been underway for years, a more challenging fundraising environment for PE firms and a resurgence in megadeals have recently accelerated the trend.
+The fundraising slowdown has tilted bargaining power toward large institutional investors, allowing them to negotiate more opportunities to invest directly alongside private equity managers, said Kyle Walters of PitchBook.
+A key attraction is the potential to save on fees. Co-investments typically carry little or no management fees and no carried interest, which is the share of investment profits that managers receive. Additionally, direct deals can eliminate external manager fees altogether.
+"For a large SWF writing big checks, the fee savings in dollar terms can be substantial," Walters said.
+Sovereign funds also enjoy structural advantages over traditional buyout firms. Unlike conventional private equity funds, which operate within predetermined lifespans, sovereign investors can hold assets for decades, the experts highlighted.
+They can also deploy substantial sums from their own balance sheets without having to raise fresh capital, an advantage particularly valuable in capital-intensive sectors such as AI infrastructure and energy.
+But deep pockets and patient capital alone do not guarantee success.
+As sovereign wealth funds take controlling stakes in companies, they assume operational responsibilities traditionally borne by private equity managers, while potentially stretching their own capacity to source deals, conduct due diligence and manage complex assets, PwC cautioned.
+"Building the required capability, the talent, the systems, and the governance is a slower process than committing the capital," PwC said. The firm also flagged concentration risks as sovereign investors increasingly pile into similar investment themes, particularly AI, data centers and power infrastructure, leaving even geographically diversified portfolios vulnerable to the same underlying risks.
+Relationship reset?
+Despite their growing ambitions, industry experts are skeptical that sovereign wealth funds will supplant established private equity managers.
+"This new path these large LPs are paving is more of a partnership than a competition between GPs and LPs," Walters said, noting that much of the increased activity is taking the form of co-investments.
+He pointed to the $55 billion take-private deal for video-game maker Electronic Arts announced last year, in which Saudi Arabia's PIF contributed significant capital, as an example of how both sides ae joining hands.
+Traditional buyout firms also retain an edge in sourcing deals and managing portfolio companies.
+"However, capital alone does not replace the specialist sourcing, operational expertise, and active ownership capabilities required to consistently create value, which experienced managers have built over time," said Vincent Ng, managing director and co-head of Asia at Partners Group.
+Direct investing also raises concentration risks, while illiquidity could become a problem during crises when governments need access to capital, experts said.
+Rather than displacing traditional buyout firms, sovereign investors' growing ambitions could change the economics of private equity, forcing managers to become more flexible in how they work with their biggest clients.
+"This is likely to reshape the relationship between asset owners and managers, with more customized mandates, co-investments, and long-term partnerships," Ng said.`,
+    bodyJa: `For decades, sovereign wealth funds were among private equity's most deep-pocketed backers, entrusting billions of dollars to buyout firms to invest on their behalf. Increasingly, they are doing the dealmaking themselves.
+From originating transactions and taking controlling stakes in companies to building their own investment platforms, some of the world's largest state investors are adopting the playbook of traditional private equity giants, according to industry veterans.
+"The imminent change is that the lines between LPs and GPs are becoming increasingly blurry. This could bring more fundamental changes in the long term," Diego Lopez of Global SWF told CNBC.
+Limited partners, or LPs, typically commit capital to private equity funds, while general partners, or GPs, are responsible for sourcing deals and managing investments.
+Sovereign funds and state investment companies are increasingly taking on the GP role, Lopez said, pointing to the establishment of their own private equity management platforms, such as Mubadala Capital and Singapore's Seviora.
+The shift is also reflected in the way some of the world's largest sovereign investors are approaching dealmaking.
+"They originate transactions rather than waiting for them. They build platforms rather than buying single assets. They take control positions and operate what they own," PwC said in their latest report on sovereign wealth funds.
+"Whether you're a company, a general partner, or a government, you'll find that these institutions are no longer the limited partner you're raising money from; they're the principal sitting across the table."
+Last year, Abu Dhabi's MGX, an investment vehicle established by state fund Mubadala in 2024, anchored the roughly $40 billion acquisition of Aligned Data Centers alongside BlackRock, Nvidia and Microsoft. A year earlier, a consortium led by Mubadala Capital acquired a 68% equity stake in alternative asset manager Fortress, which at the time managed more than $48 billion.
+Some sovereign funds are striking deals at a speed typically associated with large private equity firms, according to PwC.
+Singapore's GIC recorded 553 transactions between July 2023 and July 2026, Abu Dhabi's Mubadala 397 and the Abu Dhabi Investment Authority 367, according to PwC's analysis of PitchBook data, which includes transactions by subsidiaries.
+The shift comes as sovereign wealth funds command unprecedented financial firepower. Their assets have surged about 59% over the past five years to $16.5 trillion, up from $10.4 trillion in 2022 and more than nine times the $1.8 trillion they managed in 2005, according to data provided to CNBC by research firm Global SWF which focuses on state-owned investors.
+PwC projects that sovereign wealth fund assets to reach $22.4 trillion by 2030.
+Cutting out the middleman
+While sovereign funds' push into direct investing has been underway for years, a more challenging fundraising environment for PE firms and a resurgence in megadeals have recently accelerated the trend.
+The fundraising slowdown has tilted bargaining power toward large institutional investors, allowing them to negotiate more opportunities to invest directly alongside private equity managers, said Kyle Walters of PitchBook.
+A key attraction is the potential to save on fees. Co-investments typically carry little or no management fees and no carried interest, which is the share of investment profits that managers receive. Additionally, direct deals can eliminate external manager fees altogether.
+"For a large SWF writing big checks, the fee savings in dollar terms can be substantial," Walters said.
+Sovereign funds also enjoy structural advantages over traditional buyout firms. Unlike conventional private equity funds, which operate within predetermined lifespans, sovereign investors can hold assets for decades, the experts highlighted.
+They can also deploy substantial sums from their own balance sheets without having to raise fresh capital, an advantage particularly valuable in capital-intensive sectors such as AI infrastructure and energy.
+But deep pockets and patient capital alone do not guarantee success.
+As sovereign wealth funds take controlling stakes in companies, they assume operational responsibilities traditionally borne by private equity managers, while potentially stretching their own capacity to source deals, conduct due diligence and manage complex assets, PwC cautioned.
+"Building the required capability, the talent, the systems, and the governance is a slower process than committing the capital," PwC said. The firm also flagged concentration risks as sovereign investors increasingly pile into similar investment themes, particularly AI, data centers and power infrastructure, leaving even geographically diversified portfolios vulnerable to the same underlying risks.
+Relationship reset?
+Despite their growing ambitions, industry experts are skeptical that sovereign wealth funds will supplant established private equity managers.
+"This new path these large LPs are paving is more of a partnership than a competition between GPs and LPs," Walters said, noting that much of the increased activity is taking the form of co-investments.
+He pointed to the $55 billion take-private deal for video-game maker Electronic Arts announced last year, in which Saudi Arabia's PIF contributed significant capital, as an example of how both sides ae joining hands.
+Traditional buyout firms also retain an edge in sourcing deals and managing portfolio companies.
+"However, capital alone does not replace the specialist sourcing, operational expertise, and active ownership capabilities required to consistently create value, which experienced managers have built over time," said Vincent Ng, managing director and co-head of Asia at Partners Group.
+Direct investing also raises concentration risks, while illiquidity could become a problem during crises when governments need access to capital, experts said.
+Rather than displacing traditional buyout firms, sovereign investors' growing ambitions could change the economics of private equity, forcing managers to become more flexible in how they work with their biggest clients.
+"This is likely to reshape the relationship between asset owners and managers, with more customized mandates, co-investments, and long-term partnerships," Ng said.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html",
+    publishedAt: "2026-11-27T00:22:29+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "why-is-there-a-shortage-of-wizard-elevat-10b92806",
+    title: "Why is there a shortage of 'wizard' elevator mechanics?",
+    titleJa: "Why is there a shortage of 'wizard' elevator mechanics?",
+    summaryJa: "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+    bodyOriginal: `Why is there a shortage of 'wizard' elevator mechanics?
+- Published
+Some of them are angry. Nerves are frayed. Many of them are just relieved that he's here.
+When a lift stops working in Chicago, frazzled building managers might get a visit from Jim Lembesis. For more than 47 years, Lembesis has repaired and upgraded lifts. He says he understands why staff and residents are so anxious to have things working again.
+"They wait and they wait," says Lembesis, a field technician for Parkway Elevators. "There's a lot of frustration. Sometimes it's a repeat issue. It's a never-ending cycle, you know what I mean?"
+The widely reported shortage of lift and escalator mechanics in the US, which is also a problem in many other countries, has got worse over time, he adds: "It's been like night and day compared to when I started."
+Everyone needs a lift now and again. Some people depend on them – elderly residents of high-rise buildings, say, or wheelchair users.
+Storm-damaged lifts in Hawaiian apartment blocks this year left some residents trapped, external in their homes for weeks. A lack of mechanics, and problems sourcing parts, were blamed for the repair delays.
+In the US, the average salary for a lift mechanic, external is $110,000 (£83,000). And yet people in the industry say it is difficult to attract new workers.
+Sure, says Lembesis, you do encounter some dangers in a job like this. There are risks of falling from a great height – or being electrocuted. Once, he was even hit on the head with an umbrella by an elderly lady after he rescued her from a stuck lift.
+But there are so many skills to learn, and great camaraderie and knowledge-sharing among mechanics, he says. As one recruiter puts it, these technicians amaze people with their ability to fix things. They are like "wizards". The overall-clad shamans who know how to get modern life running again.
+Nine times out of 10, the problem is with the doors, says Lembesis. These components repeatedly move back and forth. "People hit them with carts, and dirt and debris [falls into them]," says Lembesis. "[The doors] take the most beating."
+Mechanics often keep various spare door parts in their vehicles, ready to use.
+But technicians like Lembesis don't just have to get lifts working, they also have to verify the lifts are safe. He remembers one case, decades ago, getting called out to a burning building. His role was to ensure the lifts, which were being drenched with huge volumes of water, were still safe to use while firefighters tackled the blaze.
+"I was there for 15 hours that night," he says. "Everyone, on the way out of the door, shook my hand."
+Finding good lift technicians is "becoming more difficult" says Matt Hollinshead, president of the US National Association for Elevator Contractors. "We have a four-year apprenticeship," he says. That's the first hurdle. And many states require certification or licensing before you can work on lifts.
+"We have a vast array of equipment that has to be maintained in the United States." Some lifts are 100-years-old. As time goes on, the technological knowledge required to repair them only grows.
+Hollinshead says that weeks or months-long delays to lift repairs are not typically due to staff shortages but that, in such cases, it's likely that a particular part isn't readily available. Manufacturing a replacement hydraulic cylinder takes six to 12 weeks, he notes.
+But the lack of technicians does mean that that building managers might have to wait days before someone can even diagnose what's wrong with a lift after it stops working.
+Hollinshead says teaching the basics of the trade in high schools or technical schools could entice more people into the role.
+Matt Allred, a recruiter and host of The Elevator Careers Podcast, emphasises the many skills that lift mechanics require. "You're a little bit of a wizard, right? You show up and if you can fix it – 'Wow!'."
+He blames major lift companies, in part, for locking down maintenance contracts, making it difficult or impossible for third-party repairers to intervene when a lift fails.
+Two large lift manufacturers approached by BBC News declined interviews. The chief executive of Otis, one of the firms, said in May that her company was struggling to hire enough staff, external to meet demand. The firm also states on its website, external that the shortage of lift mechanics affects "almost every part of the world".
+However, a spokesman for Otis claimed its "US talent pipeline" was healthy, and declined an interview.
+Everyone else who spoke to BBC News said hiring was challenging in the US. Allred was recently contacted by a major lift company and asked to help them find a technician. "I was surprised that a major company would reach out to a little recruiting shop," he says, suggesting that this reflects the extent of the labour shortage.
+That shortage is also a problem in the UK. "It is bad and getting worse," says Dave Cooper, president of the Chartered Institution of Building Services Engineers, who is also chief executive of a lift and escalator engineering consultancy.
+"We've known food delivery companies to refuse to deliver to flats above the ground floor because the lift is out of service."
+Offering better tax breaks to companies that train lift mechanics could help ensure that plenty of workers continue to enter the industry, he adds.
+Training to be a lift mechanic is "not a quick route to competency – and it requires people to stick at it for the long term" says Karen Slade, head of assessment at the Lift and Escalator Industry Association (Leia).
+Continued investment in training and attracting new workers is "essential", according to Leia. There are currently 259 active lift and escalator apprentices in the UK, the body adds.
+Back in Chicago, Lembesis is working with two younger mechanics who have been "really good", he says, so there's at least some hope for the future.
+He stresses again how rewarding he finds his work. The people for whom he fixes lifts tend to be very appreciative.
+"I love that. You get that reaction from the customers," he says. "Without them, you got nothing."
+Technology of Business
+- Published6 November
+- Published9 October
+- Published25 September`,
+    bodyJa: `Why is there a shortage of 'wizard' elevator mechanics?
+- Published
+Some of them are angry. Nerves are frayed. Many of them are just relieved that he's here.
+When a lift stops working in Chicago, frazzled building managers might get a visit from Jim Lembesis. For more than 47 years, Lembesis has repaired and upgraded lifts. He says he understands why staff and residents are so anxious to have things working again.
+"They wait and they wait," says Lembesis, a field technician for Parkway Elevators. "There's a lot of frustration. Sometimes it's a repeat issue. It's a never-ending cycle, you know what I mean?"
+The widely reported shortage of lift and escalator mechanics in the US, which is also a problem in many other countries, has got worse over time, he adds: "It's been like night and day compared to when I started."
+Everyone needs a lift now and again. Some people depend on them – elderly residents of high-rise buildings, say, or wheelchair users.
+Storm-damaged lifts in Hawaiian apartment blocks this year left some residents trapped, external in their homes for weeks. A lack of mechanics, and problems sourcing parts, were blamed for the repair delays.
+In the US, the average salary for a lift mechanic, external is $110,000 (£83,000). And yet people in the industry say it is difficult to attract new workers.
+Sure, says Lembesis, you do encounter some dangers in a job like this. There are risks of falling from a great height – or being electrocuted. Once, he was even hit on the head with an umbrella by an elderly lady after he rescued her from a stuck lift.
+But there are so many skills to learn, and great camaraderie and knowledge-sharing among mechanics, he says. As one recruiter puts it, these technicians amaze people with their ability to fix things. They are like "wizards". The overall-clad shamans who know how to get modern life running again.
+Nine times out of 10, the problem is with the doors, says Lembesis. These components repeatedly move back and forth. "People hit them with carts, and dirt and debris [falls into them]," says Lembesis. "[The doors] take the most beating."
+Mechanics often keep various spare door parts in their vehicles, ready to use.
+But technicians like Lembesis don't just have to get lifts working, they also have to verify the lifts are safe. He remembers one case, decades ago, getting called out to a burning building. His role was to ensure the lifts, which were being drenched with huge volumes of water, were still safe to use while firefighters tackled the blaze.
+"I was there for 15 hours that night," he says. "Everyone, on the way out of the door, shook my hand."
+Finding good lift technicians is "becoming more difficult" says Matt Hollinshead, president of the US National Association for Elevator Contractors. "We have a four-year apprenticeship," he says. That's the first hurdle. And many states require certification or licensing before you can work on lifts.
+"We have a vast array of equipment that has to be maintained in the United States." Some lifts are 100-years-old. As time goes on, the technological knowledge required to repair them only grows.
+Hollinshead says that weeks or months-long delays to lift repairs are not typically due to staff shortages but that, in such cases, it's likely that a particular part isn't readily available. Manufacturing a replacement hydraulic cylinder takes six to 12 weeks, he notes.
+But the lack of technicians does mean that that building managers might have to wait days before someone can even diagnose what's wrong with a lift after it stops working.
+Hollinshead says teaching the basics of the trade in high schools or technical schools could entice more people into the role.
+Matt Allred, a recruiter and host of The Elevator Careers Podcast, emphasises the many skills that lift mechanics require. "You're a little bit of a wizard, right? You show up and if you can fix it – 'Wow!'."
+He blames major lift companies, in part, for locking down maintenance contracts, making it difficult or impossible for third-party repairers to intervene when a lift fails.
+Two large lift manufacturers approached by BBC News declined interviews. The chief executive of Otis, one of the firms, said in May that her company was struggling to hire enough staff, external to meet demand. The firm also states on its website, external that the shortage of lift mechanics affects "almost every part of the world".
+However, a spokesman for Otis claimed its "US talent pipeline" was healthy, and declined an interview.
+Everyone else who spoke to BBC News said hiring was challenging in the US. Allred was recently contacted by a major lift company and asked to help them find a technician. "I was surprised that a major company would reach out to a little recruiting shop," he says, suggesting that this reflects the extent of the labour shortage.
+That shortage is also a problem in the UK. "It is bad and getting worse," says Dave Cooper, president of the Chartered Institution of Building Services Engineers, who is also chief executive of a lift and escalator engineering consultancy.
+"We've known food delivery companies to refuse to deliver to flats above the ground floor because the lift is out of service."
+Offering better tax breaks to companies that train lift mechanics could help ensure that plenty of workers continue to enter the industry, he adds.
+Training to be a lift mechanic is "not a quick route to competency – and it requires people to stick at it for the long term" says Karen Slade, head of assessment at the Lift and Escalator Industry Association (Leia).
+Continued investment in training and attracting new workers is "essential", according to Leia. There are currently 259 active lift and escalator apprentices in the UK, the body adds.
+Back in Chicago, Lembesis is working with two younger mechanics who have been "really good", he says, so there's at least some hope for the future.
+He stresses again how rewarding he finds his work. The people for whom he fixes lifts tend to be very appreciative.
+"I love that. You get that reaction from the customers," he says. "Without them, you got nothing."
+Technology of Business
+- Published6 November
+- Published9 October
+- Published25 September`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-27T00:02:19+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c0e/live/0c8a5940-e7e0-11f1-99a1-253766e7ad8b.jpg",
+    readTime: 10,
+  },
+  {
+    id: "uk-to-pay-participation-fee-to-deliver-e-79ce82f0",
+    title: "UK to pay 'participation' fee to deliver EU deals",
+    titleJa: "UK to pay 'participation' fee to deliver EU deals",
+    summaryJa: "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+    bodyOriginal: `UK to pay 'participation' fee to deliver EU deals
+- Published
+The UK will pay a "participation fee" to the EU as part of the deals agreed by Andy Burnham, according to legal documents.
+The surcharge will go towards the running costs of EU agencies and systems required to deliver two of the agreements unveiled by the prime minister last week.
+It will be paid in addition to a contribution towards costs that broadly mirrors how EU members contribute to the bloc's shared budget, the documents show.
+The government has sought to contrast the financial costs of the deals against their overall effect on the economy, which it estimates will receive an eventual boost by billions a year due to increased trade.
+The government is yet to publish an estimate of overall additional costs, but officials said they expected them to be in the low tens of millions per year and "massively outweighed" by predicted economic gains.
+British ministers had already said they were prepared to pay towards administrative costs required to implement deals to re-link the UK to the EU's carbon trading regime, and align Britain with the EU's food standards.
+Now, details of how the payments will be calculated have been revealed in treaties to deliver the two agreements, which are meant to take effect during 2028.
+Legal text for a third agreement agreed last week, on youth visas for 18 to 31 year olds, is expected to be published in the coming days.
+Fee details
+According to the treaties, the payments will be made as a share of the running costs of three EU agencies, as well as various systems that will be used to implement the food standards and emissions deals.
+The bulk of the payments, to be made in euros, will come in the form of an "operational contribution" in proportion to the size of the British economy compared to that of the EU.
+This broadly mirrors the way in which EU member states split the cost of their main contributions towards the bloc's overall budget.
+But in addition, the UK will also pay a "participation fee" set at 4% of its main contribution figure.
+The government has pointed to the 2021 Brexit trade agreement negotiated by the Conservatives, which also applied an additional surcharge to UK contributions towards the cost of relevant EU programmes.
+However, any additional contributions are likely to be seized upon by opponents of the latest deals.
+Ministers had declined to enter into specifics of the fees during negotiations on the treaties. On Sunday, Foreign Secretary Ed Miliband said the latest deals agreed by Burnham were "not about cost to the taxpayer".
+'Extraordinary powers'
+It comes as the government published separate legislation granting it broad powers to incorporate new EU laws required to implement the agreements, without having to hold a full vote each time.
+The food standards deal in particular will mean Britain will have to align with scores of current EU food-related laws that have been updated since Brexit, along with future rules in these areas.
+The government argues the new powers are required because it would be impractical to run a full parliamentary process each time UK legislation needs to be updated to make the agreement work.
+But it has prompted criticism from opposition parties, because the UK no longer has voting rights at the EU to shape European legislation.
+The government argues the UK will get a say on new rules, with the treaty texts confirming British experts can be consulted when new EU laws are being drawn up, with the UK granted "observer" status in certain meetings.
+But Conservative leader Kemi Badenoch said Burnham was showing "disdain for the democratic process" by asking for a "blank cheque to install and enact EU law".
+"The prime minister is telling MPs to hand him extraordinary powers whilst having no idea what the EU will actually agree to," she added.
+Reform UK leader Nigel Farage has argued the Burnham's deals would take Britain back into "much of the European Union's single market".
+He added: "European economies are not growing as fast as ours. The idea that getting closer to the EU will mean growth for us is a myth."
+Get our flagship newsletter with all the headlines you need to start the day. Sign up here.
+Related topics
+- Published16 hours ago
+- Published1 day ago`,
+    bodyJa: `UK to pay 'participation' fee to deliver EU deals
+- Published
+The UK will pay a "participation fee" to the EU as part of the deals agreed by Andy Burnham, according to legal documents.
+The surcharge will go towards the running costs of EU agencies and systems required to deliver two of the agreements unveiled by the prime minister last week.
+It will be paid in addition to a contribution towards costs that broadly mirrors how EU members contribute to the bloc's shared budget, the documents show.
+The government has sought to contrast the financial costs of the deals against their overall effect on the economy, which it estimates will receive an eventual boost by billions a year due to increased trade.
+The government is yet to publish an estimate of overall additional costs, but officials said they expected them to be in the low tens of millions per year and "massively outweighed" by predicted economic gains.
+British ministers had already said they were prepared to pay towards administrative costs required to implement deals to re-link the UK to the EU's carbon trading regime, and align Britain with the EU's food standards.
+Now, details of how the payments will be calculated have been revealed in treaties to deliver the two agreements, which are meant to take effect during 2028.
+Legal text for a third agreement agreed last week, on youth visas for 18 to 31 year olds, is expected to be published in the coming days.
+Fee details
+According to the treaties, the payments will be made as a share of the running costs of three EU agencies, as well as various systems that will be used to implement the food standards and emissions deals.
+The bulk of the payments, to be made in euros, will come in the form of an "operational contribution" in proportion to the size of the British economy compared to that of the EU.
+This broadly mirrors the way in which EU member states split the cost of their main contributions towards the bloc's overall budget.
+But in addition, the UK will also pay a "participation fee" set at 4% of its main contribution figure.
+The government has pointed to the 2021 Brexit trade agreement negotiated by the Conservatives, which also applied an additional surcharge to UK contributions towards the cost of relevant EU programmes.
+However, any additional contributions are likely to be seized upon by opponents of the latest deals.
+Ministers had declined to enter into specifics of the fees during negotiations on the treaties. On Sunday, Foreign Secretary Ed Miliband said the latest deals agreed by Burnham were "not about cost to the taxpayer".
+'Extraordinary powers'
+It comes as the government published separate legislation granting it broad powers to incorporate new EU laws required to implement the agreements, without having to hold a full vote each time.
+The food standards deal in particular will mean Britain will have to align with scores of current EU food-related laws that have been updated since Brexit, along with future rules in these areas.
+The government argues the new powers are required because it would be impractical to run a full parliamentary process each time UK legislation needs to be updated to make the agreement work.
+But it has prompted criticism from opposition parties, because the UK no longer has voting rights at the EU to shape European legislation.
+The government argues the UK will get a say on new rules, with the treaty texts confirming British experts can be consulted when new EU laws are being drawn up, with the UK granted "observer" status in certain meetings.
+But Conservative leader Kemi Badenoch said Burnham was showing "disdain for the democratic process" by asking for a "blank cheque to install and enact EU law".
+"The prime minister is telling MPs to hand him extraordinary powers whilst having no idea what the EU will actually agree to," she added.
+Reform UK leader Nigel Farage has argued the Burnham's deals would take Britain back into "much of the European Union's single market".
+He added: "European economies are not growing as fast as ours. The idea that getting closer to the EU will mean growth for us is a myth."
+Get our flagship newsletter with all the headlines you need to start the day. Sign up here.
+Related topics
+- Published16 hours ago
+- Published1 day ago`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-26T23:17:12+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e264/live/8e58c180-e9e5-11f1-ab41-f1f84c0c758a.png",
+    readTime: 10,
+  },
+  {
+    id: "asia-made-a-big-ai-bet-on-nvidia-what-ha-80778f1c",
+    title: "Asia made a big AI bet on Nvidia. What happens now?",
+    titleJa: "Asia made a big AI bet on Nvidia. What happens now?",
+    summaryJa: "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+    bodyOriginal: `Asia made a big AI bet on Nvidia. What happens now?
+- Published
+Jensen Huang's extraordinary return as Nvidia's boss rocked not only its shares in New York but also sent shockwaves through the artificial intelligence (AI) industry around the world.
+Those jolts were felt particularly in Asia as the saga highlighted the region's huge exposure to the technology.
+Tech-heavy stock indexes in Japan, South Korea and Taiwan went on a rollercoaster ride this week. Markets soared after a near-trillion dollar surge in Nvidia's share price but then slumped as concerns about political and regulatory scrutiny hit investor confidence.
+The chipmaker is a "symbolic bellwether" of the AI trade that is fast becoming key to places like South Korea, Taiwan, Singapore and Malaysia," says Dylan Loh, an international studies lecturer at Nanyang Technological University.
+From chip manufacturing to data centres to foreign investments, AI has become a strategic priority for these economies - and they are now increasingly dependent on Nvidia's fortunes.
+Nvidia is everywhere
+In Nvidia, the AI industry has the unrivalled power of cutting-edge chips and the financial clout that turned it into "the bank of AI". And in Huang, it has a high-profile evangelist.
+That combination has put it at the heart of the AI ecosystem in more ways than one.
+For one, Nvidia was able to grow rapidly by outsourcing chip production instead of having to spend heavily to build its own manufacturing plants.
+It contracts out most of its production to Taiwanese chipmaking giant TSMC.
+That means Taiwan is vulnerable to changes in AI tech demand, says Paul Cavey, founder of Taipei-based research firm East Asia Econ.
+"The surge in [Taiwan's] real economic growth since 2024 has been because of the big increase in AI related exports".
+Huang said earlier this year that Nvidia plans to invest around $150bn (£114.4bn) a year in Taiwan at a launch to celebrate the firm's planned headquarters on the island.
+To a lesser extent, South Korea and Japan are also exposed to the industry, Cavey adds. They are among its suppliers of key components such as memory chips and testing equipment, with firms like Samsung and SK Hynix making the firm's processors.
+On top of that, Nvidia is a financial backstop and major lender to companies in the AI supply chain.
+It is difficult to overstate the role Nvidia, with Huang at its helm, has played in the region's AI industry. Nvidia's chips fill its data centres, power its AI models and feed the companies making cars and electronics.
+"Asia isn't just a customer base for Nvidia. It is an indispensable engine of the company's AI dominance because of East Asia's semiconductor manufacturing and memory ecosystems," Loh says.
+In the Asia-Pacific region, the data centre market, which is largely powered by Nvidia chips, is in the midst of an "unprecedented boom", according to property services firm CBRE, external. The volume of investment has been rising steadily in recent years to reach a record of $11.6bn (£8.85bn) in 2025.
+In South East Asia, Singapore-based AI company Megaspeed had become the region's biggest buyer of Nvidia chips before it was accused of smuggling them to China. Megaspeed has said it "conducts legitimate and lawful business" and has "retained external legal counsel to conduct a thorough internal investigation".
+The US has said it intends to ban Megaspeed Ltd from doing business in the United States.
+But in a timely example of the importance of AI to this region, Singapore this week further raised its growth forecast for this year as the technology boosts its economy.
+The world's biggest tech firms - Google, Microsoft, Oracle - also plan to boost their spending on infrastructure in the region by roughly 60% this year, CBRE added.
+The demand for neoclouds, which are specialised data centres which power AI, has also risen rapidly, it said.
+For economies betting heavily on AI, Nvidia has become "hugely important", with vast sums being spent on its chips and factory activity increasingly dependent on its technology, Loh told the BBC.
+Huang's return carries risks
+In many economies, news of Huang's return to Nvidia was met with jubilation.
+In Taiwan, where he was born and the home of "Jensanity", investors jokingly described his return as a "one man saves the village" story.
+Social media and groups on messaging platform Line saw posts like "Old Huang is back," while some investors said "Daddy is back to save my life" and "the humanitarian corridor is open."
+However, some said the episode should also prompt a closer look at how effective Taiwan has been in building a "non-China" semiconductor supply chain, and how risks from the industry's heavy reliance on Nvidia should be managed better.
+Asia's technology industry has been under increasing pressure from the US in recent years. The administrations of both Joe Biden and Donald Trump have tightened rules on the export of Nvidia's most advanced chips to China.
+Those efforts seem to have been renewed. Just last week, Washington announced new rules that will increase scrutiny of data centre operators in Singapore, Malaysia, Thailand, Indonesia and Brazil.
+The latest move not only restricts the export of high-end chips to China, but also access to their computing power, which Chinese firms currently rent abroad to train AI models.
+This will hit South East Asian countries, which have invested billions in data centre infrastructure to cater to Chinese firms. Nvidia has already paused shipments to the region, according to the Financial Times, although it is unclear if this is only a temporary move while it figures out how to comply with the new export rules.
+Nvidia did not immediately respond to a BBC request for comment.
+Then there is the growing bipartisan backlash against President Trump and Nvidia after he said he "made the deal" to "convince" the company‘s board to reinstate Huang.
+Huang is also due to testify before Congress next week. And as Democrats prepare to take control of the US House and Senate in the New Year, Huang is likely to face further risks.
+"Jensen's return may resolve the immediate leadership crisis, but it does not resolve the legal and political overhangs," said Charu Chanana, chief investment strategist from Saxo Bank.
+Investor concerns about the trillions of dollars being poured into AI and the pivotal role Nvidia plays in the industry were already sending tremors through global stock markets.
+Some fear that while the company and its charismatic leader have been crucial in driving AI's growth that concentration of influence also poses a threat.
+Especially now when it appears that Huang's future - which is still uncertain - could impact economies that are heavily exposed to the AI industry.
+"I would say the President and White House would love to brush this over and say its fine but I believe Democrats in Congress will definitely be probing", Ray Wang, founder of San Francisco-based Constellation Research said.
+"The story is not over yet... Jensen coming back is probably the biggest, baddest return ever. The question is what will happen next?"
+Additional reporting by Benny Lu, BBC Chinese
+Related topics
+- Published20 July`,
+    bodyJa: `Asia made a big AI bet on Nvidia. What happens now?
+- Published
+Jensen Huang's extraordinary return as Nvidia's boss rocked not only its shares in New York but also sent shockwaves through the artificial intelligence (AI) industry around the world.
+Those jolts were felt particularly in Asia as the saga highlighted the region's huge exposure to the technology.
+Tech-heavy stock indexes in Japan, South Korea and Taiwan went on a rollercoaster ride this week. Markets soared after a near-trillion dollar surge in Nvidia's share price but then slumped as concerns about political and regulatory scrutiny hit investor confidence.
+The chipmaker is a "symbolic bellwether" of the AI trade that is fast becoming key to places like South Korea, Taiwan, Singapore and Malaysia," says Dylan Loh, an international studies lecturer at Nanyang Technological University.
+From chip manufacturing to data centres to foreign investments, AI has become a strategic priority for these economies - and they are now increasingly dependent on Nvidia's fortunes.
+Nvidia is everywhere
+In Nvidia, the AI industry has the unrivalled power of cutting-edge chips and the financial clout that turned it into "the bank of AI". And in Huang, it has a high-profile evangelist.
+That combination has put it at the heart of the AI ecosystem in more ways than one.
+For one, Nvidia was able to grow rapidly by outsourcing chip production instead of having to spend heavily to build its own manufacturing plants.
+It contracts out most of its production to Taiwanese chipmaking giant TSMC.
+That means Taiwan is vulnerable to changes in AI tech demand, says Paul Cavey, founder of Taipei-based research firm East Asia Econ.
+"The surge in [Taiwan's] real economic growth since 2024 has been because of the big increase in AI related exports".
+Huang said earlier this year that Nvidia plans to invest around $150bn (£114.4bn) a year in Taiwan at a launch to celebrate the firm's planned headquarters on the island.
+To a lesser extent, South Korea and Japan are also exposed to the industry, Cavey adds. They are among its suppliers of key components such as memory chips and testing equipment, with firms like Samsung and SK Hynix making the firm's processors.
+On top of that, Nvidia is a financial backstop and major lender to companies in the AI supply chain.
+It is difficult to overstate the role Nvidia, with Huang at its helm, has played in the region's AI industry. Nvidia's chips fill its data centres, power its AI models and feed the companies making cars and electronics.
+"Asia isn't just a customer base for Nvidia. It is an indispensable engine of the company's AI dominance because of East Asia's semiconductor manufacturing and memory ecosystems," Loh says.
+In the Asia-Pacific region, the data centre market, which is largely powered by Nvidia chips, is in the midst of an "unprecedented boom", according to property services firm CBRE, external. The volume of investment has been rising steadily in recent years to reach a record of $11.6bn (£8.85bn) in 2025.
+In South East Asia, Singapore-based AI company Megaspeed had become the region's biggest buyer of Nvidia chips before it was accused of smuggling them to China. Megaspeed has said it "conducts legitimate and lawful business" and has "retained external legal counsel to conduct a thorough internal investigation".
+The US has said it intends to ban Megaspeed Ltd from doing business in the United States.
+But in a timely example of the importance of AI to this region, Singapore this week further raised its growth forecast for this year as the technology boosts its economy.
+The world's biggest tech firms - Google, Microsoft, Oracle - also plan to boost their spending on infrastructure in the region by roughly 60% this year, CBRE added.
+The demand for neoclouds, which are specialised data centres which power AI, has also risen rapidly, it said.
+For economies betting heavily on AI, Nvidia has become "hugely important", with vast sums being spent on its chips and factory activity increasingly dependent on its technology, Loh told the BBC.
+Huang's return carries risks
+In many economies, news of Huang's return to Nvidia was met with jubilation.
+In Taiwan, where he was born and the home of "Jensanity", investors jokingly described his return as a "one man saves the village" story.
+Social media and groups on messaging platform Line saw posts like "Old Huang is back," while some investors said "Daddy is back to save my life" and "the humanitarian corridor is open."
+However, some said the episode should also prompt a closer look at how effective Taiwan has been in building a "non-China" semiconductor supply chain, and how risks from the industry's heavy reliance on Nvidia should be managed better.
+Asia's technology industry has been under increasing pressure from the US in recent years. The administrations of both Joe Biden and Donald Trump have tightened rules on the export of Nvidia's most advanced chips to China.
+Those efforts seem to have been renewed. Just last week, Washington announced new rules that will increase scrutiny of data centre operators in Singapore, Malaysia, Thailand, Indonesia and Brazil.
+The latest move not only restricts the export of high-end chips to China, but also access to their computing power, which Chinese firms currently rent abroad to train AI models.
+This will hit South East Asian countries, which have invested billions in data centre infrastructure to cater to Chinese firms. Nvidia has already paused shipments to the region, according to the Financial Times, although it is unclear if this is only a temporary move while it figures out how to comply with the new export rules.
+Nvidia did not immediately respond to a BBC request for comment.
+Then there is the growing bipartisan backlash against President Trump and Nvidia after he said he "made the deal" to "convince" the company‘s board to reinstate Huang.
+Huang is also due to testify before Congress next week. And as Democrats prepare to take control of the US House and Senate in the New Year, Huang is likely to face further risks.
+"Jensen's return may resolve the immediate leadership crisis, but it does not resolve the legal and political overhangs," said Charu Chanana, chief investment strategist from Saxo Bank.
+Investor concerns about the trillions of dollars being poured into AI and the pivotal role Nvidia plays in the industry were already sending tremors through global stock markets.
+Some fear that while the company and its charismatic leader have been crucial in driving AI's growth that concentration of influence also poses a threat.
+Especially now when it appears that Huang's future - which is still uncertain - could impact economies that are heavily exposed to the AI industry.
+"I would say the President and White House would love to brush this over and say its fine but I believe Democrats in Congress will definitely be probing", Ray Wang, founder of San Francisco-based Constellation Research said.
+"The story is not over yet... Jensen coming back is probably the biggest, baddest return ever. The question is what will happen next?"
+Additional reporting by Benny Lu, BBC Chinese
+Related topics
+- Published20 July`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-26T23:08:12+00:00",
+    category: "金融政策",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c76/live/9f54a560-e956-11f1-a629-63e812fa871f.jpg",
+    readTime: 10,
+  },
+  {
     id: "trump-demands-probe-into-record-setting-cde0fd0e",
     title: "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
     titleJa: "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher",
@@ -2003,458 +2545,6 @@ Related topics
     category: "エネルギー",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a8e/live/565f9af0-e806-11f1-a094-5fdc692f3e33.jpg",
     readTime: 10,
-  },
-  {
-    id: "huawei-found-guilty-of-stealing-trade-se-d8811f3a",
-    title: "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-    titleJa: "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-    summaryJa: "Huawei found guilty of stealing trade secrets but acquitted of racketeering- Published",
-    bodyOriginal: `Huawei found guilty of stealing trade secrets but acquitted of racketeering
-- Published
-Huawei has been found guilty of conspiracy to steal trade secrets and bank fraud, but not guilty of the more serious overarching racketeering charge in a landmark trial in the US.
-In a two-month trial, prosecutors accused the Chinese technology and telecommunications giant of lying, cheating and stealing to gain any competitive advantage.
-Huawei's defence team argued that prosecutors had decided Huawei was a criminal organisation and built its case from there, but the firm's success was due to its own innovation.
-In a statement, Huawei said the racketeering acquittal "confirms that these allegations lack factual basis and vindicates our consistent position over the past eight years".
-Jurors in a Brooklyn court found Huawei guilty of 10 out of 12 counts, which also included conspiracy to violate US sanctions.
-However the jury declined to convict Huawei of the racketeering conspiracy charge, which required members to find the firm acted like a criminal enterprise.
-Federal prosecutors first announced the charges against Huawei in 2019, after the dramatic arrest in late 2018 of senior executive Meng Wanzhou in Canada.
-Meng, also known as Cathy Meng, was held for three years in Canada before she was released to return to China through a deal with US prosecutors.
-During closing arguments last week, assistant US attorney Meredith Arfa told jurors Huawei spent 20 years doing whatever it took to expand its business, including lying to banks about its business dealings in Iran and stealing technology secrets from rival firms to ensure it had a competitive edge.
-However, defence attorney Brian Heberlig said Huawei had grown into business with operations in 170 countries and more than 200,000 staff through hard work.
-Following the verdict, Heberlig told the BBC that Huawei was gratified the jury had rejected the racketeering charge.
-"The RICO count that alleged that Huawei was a corrupt organisation, with a corporate culture and policy of committing crime. That was, in our view, a significant overreach, and the jury soundly rejected it," he said.
-"Of course, we have mixed emotions about the rest of the verdict ... [we] thought that Huawei was deserving of acquittals across the board."
-Sentencing is planned for September 2027. Heberlig said there will be "significant advocacy" to achieve the lowest sentence possible. Following that, he said he fully expects Huawei to appeal.
-"If I know Huawei, that fight will continue, and the company's not going to rest until it's pursued every last argument it can through appeal, and hopefully, ultimately toward vindication," he said.`,
-    bodyJa: `Huawei found guilty of stealing trade secrets but acquitted of racketeering
-- Published
-Huawei has been found guilty of conspiracy to steal trade secrets and bank fraud, but not guilty of the more serious overarching racketeering charge in a landmark trial in the US.
-In a two-month trial, prosecutors accused the Chinese technology and telecommunications giant of lying, cheating and stealing to gain any competitive advantage.
-Huawei's defence team argued that prosecutors had decided Huawei was a criminal organisation and built its case from there, but the firm's success was due to its own innovation.
-In a statement, Huawei said the racketeering acquittal "confirms that these allegations lack factual basis and vindicates our consistent position over the past eight years".
-Jurors in a Brooklyn court found Huawei guilty of 10 out of 12 counts, which also included conspiracy to violate US sanctions.
-However the jury declined to convict Huawei of the racketeering conspiracy charge, which required members to find the firm acted like a criminal enterprise.
-Federal prosecutors first announced the charges against Huawei in 2019, after the dramatic arrest in late 2018 of senior executive Meng Wanzhou in Canada.
-Meng, also known as Cathy Meng, was held for three years in Canada before she was released to return to China through a deal with US prosecutors.
-During closing arguments last week, assistant US attorney Meredith Arfa told jurors Huawei spent 20 years doing whatever it took to expand its business, including lying to banks about its business dealings in Iran and stealing technology secrets from rival firms to ensure it had a competitive edge.
-However, defence attorney Brian Heberlig said Huawei had grown into business with operations in 170 countries and more than 200,000 staff through hard work.
-Following the verdict, Heberlig told the BBC that Huawei was gratified the jury had rejected the racketeering charge.
-"The RICO count that alleged that Huawei was a corrupt organisation, with a corporate culture and policy of committing crime. That was, in our view, a significant overreach, and the jury soundly rejected it," he said.
-"Of course, we have mixed emotions about the rest of the verdict ... [we] thought that Huawei was deserving of acquittals across the board."
-Sentencing is planned for September 2027. Heberlig said there will be "significant advocacy" to achieve the lowest sentence possible. Following that, he said he fully expects Huawei to appeal.
-"If I know Huawei, that fight will continue, and the company's not going to rest until it's pursued every last argument it can through appeal, and hopefully, ultimately toward vindication," he said.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-24T22:12:44+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
-    readTime: 7,
-  },
-  {
-    id: "dell-earnings-beat-on-ai-strength-compan-c6d4f951",
-    title: "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
-    titleJa: "Dell earnings beat on AI strength, company authorizes $25 billion buyback",
-    summaryJa: "The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.",
-    bodyOriginal: `Dell reported third-quarter earnings on Tuesday that topped Wall Street expectations for earnings and sales, and provided a strong guide for the fourth quarter.
-Dell shares rose in extended trading.
-Here's how the chipmaker did versus LSEG consensus estimates:
-- EPS: $9.45, adjusted, versus $6.59 expected
-- Revenue: $54.94 billion, versus $49.32 billion expected
-Dell said that it expected earnings of $8.40 per share on revenue of about $56.3 billion in the current quarter. Analysts polled by LSEG were looking for $7.50 per share on $53.61 billion in revenue.
-The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.
-The company's largest line is its infrastructure solutions group, or ISG, which makes AI servers and systems, often based around AI chips from companies like Nvidia and AMD.
-ISG sales during the quarter were $41.97 billion, topping an LSEG estimate of $35.27 billion. Of that, $22 billion was for AI-optimized servers, up 291% on an annual basis. ISG now accounts for 85% of Dell's total revenue.
-"We are now a different company, with Infrastructure Solutions Group driving the vast majority of our profit and growth," said Jeff Clarke, Dell's vice chairman and COO, in a statement. He said that Dell has 7,500 customers buying AI servers.
-In prepared remarks, Clarke said that Dell has a competitive advantage over other computer equipment makers because it allows customers to get their computers working within hours of delivery.
-"That allows customers to convert backlog into revenue sooner and more reliably," Clarke said in the prepared remarks published by Dell.
-The company also raised its forecast for AI-servers in the coming fiscal year to $78 billion, versus $74 billion expected. The company says it has a backlog of $132.3 billion in AI server orders it is working through.
-"Every AI order is vetted for access to capital, end customer quality, trade and export compliance and access to land and power," Clarke said on an earnings call with analysts.
-The company also sells laptops and PCs, in a group it calls CSG, or client services group. It reported $12.89 billion in sales, which was below LSEG expectations of $14.33 billion.
-The overall PC market has been getting whacked of late, with some estimates calling the lull the worst ever, as rising memory prices have led to higher device prices and consumers are choosing to hang on to their old laptops longer.
-Dell said that it had authorized $25 billion in share repurchases, and that it had spent $4.9 billion in the third quarter on share repurchases and dividends.
-Dell shares are up over 135% so far in 2026.`,
-    bodyJa: `Dell reported third-quarter earnings on Tuesday that topped Wall Street expectations for earnings and sales, and provided a strong guide for the fourth quarter.
-Dell shares rose in extended trading.
-Here's how the chipmaker did versus LSEG consensus estimates:
-- EPS: $9.45, adjusted, versus $6.59 expected
-- Revenue: $54.94 billion, versus $49.32 billion expected
-Dell said that it expected earnings of $8.40 per share on revenue of about $56.3 billion in the current quarter. Analysts polled by LSEG were looking for $7.50 per share on $53.61 billion in revenue.
-The company's overall sales more than doubled on an annual basis during the third quarter, driven by AI server demand.
-The company's largest line is its infrastructure solutions group, or ISG, which makes AI servers and systems, often based around AI chips from companies like Nvidia and AMD.
-ISG sales during the quarter were $41.97 billion, topping an LSEG estimate of $35.27 billion. Of that, $22 billion was for AI-optimized servers, up 291% on an annual basis. ISG now accounts for 85% of Dell's total revenue.
-"We are now a different company, with Infrastructure Solutions Group driving the vast majority of our profit and growth," said Jeff Clarke, Dell's vice chairman and COO, in a statement. He said that Dell has 7,500 customers buying AI servers.
-In prepared remarks, Clarke said that Dell has a competitive advantage over other computer equipment makers because it allows customers to get their computers working within hours of delivery.
-"That allows customers to convert backlog into revenue sooner and more reliably," Clarke said in the prepared remarks published by Dell.
-The company also raised its forecast for AI-servers in the coming fiscal year to $78 billion, versus $74 billion expected. The company says it has a backlog of $132.3 billion in AI server orders it is working through.
-"Every AI order is vetted for access to capital, end customer quality, trade and export compliance and access to land and power," Clarke said on an earnings call with analysts.
-The company also sells laptops and PCs, in a group it calls CSG, or client services group. It reported $12.89 billion in sales, which was below LSEG expectations of $14.33 billion.
-The overall PC market has been getting whacked of late, with some estimates calling the lull the worst ever, as rising memory prices have led to higher device prices and consumers are choosing to hang on to their old laptops longer.
-Dell said that it had authorized $25 billion in share repurchases, and that it had spent $4.9 billion in the third quarter on share repurchases and dividends.
-Dell shares are up over 135% so far in 2026.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/24/dell-earnings-report-q3-2027.html",
-    publishedAt: "2026-11-24T22:07:45+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "us-attorney-general-dodges-questions-abo-a0fd6f5c",
-    title: "US attorney general dodges questions about Nvidia investigation",
-    titleJa: "US attorney general dodges questions about Nvidia investigation",
-    summaryJa: "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-    bodyOriginal: `US attorney general dodges questions about Nvidia investigation
-- Published
-US Attorney General Todd Blanche has backed Nvidia as a "good corporate citizen" while refusing to comment on whether the AI chipmaker was under federal investigation.
-Blanche said he had no information about newly reinstated CEO Jensen Huang's security clearance status, as lawmakers demand answers about President Donald Trump's involvement in Huang's comeback.
-Huang was given his job back less than two weeks after being forced to resign over revelations of extramarital affairs, including one with an alleged Chinese spy.
-Asked several times on Tuesday if the justice department or FBI had investigated Huang, Blanche responded: "I don't know what you're talking about."
-Huang is still set to appear before Congress next week, where he will be questioned about national security concerns over his relationship with an alleged China spy who led Megaspeed, a Singapore-based corporate customer of Nvidia.
-The US commerce department has also announced it was preparing to blacklist the tech company Megaspeed, which has been suspected of helping to divert advanced chips to China.
-In a joint statement last week, the commerce and justice departments said they began investigating Megaspeed in 2024 "for potential export control violations".
-But speaking to reporters on Tuesday, Blanche said the latter department has "hundreds, if not more" export investigations occurring at any one time.
-"So when you say the export investigation is still ongoing, I don't know what you're talking about," he said.
-Asked if he was satisfied Nvidia had been co-operative with any efforts to get to the bottom of whether the company or Huang potentially knew about any chips being diverted to China, Blanche said: "I have no reason to stand up here and say Nvidia is anything but a good corporate citizen.
-"Obviously, if Nvidia was the target or was subject to some criminal investigation or they were obstructing or thwarting our investigation, then that wouldn't be the message that the president is saying to the American people.
-"It shouldn't be what my message would be either."
-While Nvidia's stock market value surged on the announcement of Huang's reappointment, some of the gains were reversed in volatile Tuesday trading.
-The company's share price closed down nearly 6% - still well above where it ended last week. On Monday, Nvidia stock rocketed more than 31% following news of Huang's return.
-Faisal Islam: Fears over the AI boom haven't gone away
-- Published3 hours ago
-The company's board reinstated Huang on Monday in a shock U-turn. Harvey Jones, chairman of Nvidia's board, said Huang's return was in the "best interests of our stockholders, employees, partners and customers".
-The board said it had received input from senior levels of the US government and was confident that Huang's reinstatement posed no national security risk.
-On Monday, Trump said he spoke to the company's directors and convinced them to bring back Huang.
-Huang's reinstatement provoked bipartisan anger.
-Republican congressman Don Bacon said Nvidia should have "ignored the Administration's inexplicable desire to save Huang".
-Republican Senator Pete Ricketts said Huang's behaviour "doesn't absolve Nvidia of answering for national security concerns and unaccounted-for chips".
-Democratic congressman Robert Garcia, the incoming chairman of the House oversight committee, said Trump's "direct involvement" with Nvidia's decision "raises serious national security and corruption questions".
-Democratic Senator Ruben Gallego said Congress needed to "investigate what stock positions took place before the announcement".
-- Published1 day ago
-- Published23 hours ago`,
-    bodyJa: `US attorney general dodges questions about Nvidia investigation
-- Published
-US Attorney General Todd Blanche has backed Nvidia as a "good corporate citizen" while refusing to comment on whether the AI chipmaker was under federal investigation.
-Blanche said he had no information about newly reinstated CEO Jensen Huang's security clearance status, as lawmakers demand answers about President Donald Trump's involvement in Huang's comeback.
-Huang was given his job back less than two weeks after being forced to resign over revelations of extramarital affairs, including one with an alleged Chinese spy.
-Asked several times on Tuesday if the justice department or FBI had investigated Huang, Blanche responded: "I don't know what you're talking about."
-Huang is still set to appear before Congress next week, where he will be questioned about national security concerns over his relationship with an alleged China spy who led Megaspeed, a Singapore-based corporate customer of Nvidia.
-The US commerce department has also announced it was preparing to blacklist the tech company Megaspeed, which has been suspected of helping to divert advanced chips to China.
-In a joint statement last week, the commerce and justice departments said they began investigating Megaspeed in 2024 "for potential export control violations".
-But speaking to reporters on Tuesday, Blanche said the latter department has "hundreds, if not more" export investigations occurring at any one time.
-"So when you say the export investigation is still ongoing, I don't know what you're talking about," he said.
-Asked if he was satisfied Nvidia had been co-operative with any efforts to get to the bottom of whether the company or Huang potentially knew about any chips being diverted to China, Blanche said: "I have no reason to stand up here and say Nvidia is anything but a good corporate citizen.
-"Obviously, if Nvidia was the target or was subject to some criminal investigation or they were obstructing or thwarting our investigation, then that wouldn't be the message that the president is saying to the American people.
-"It shouldn't be what my message would be either."
-While Nvidia's stock market value surged on the announcement of Huang's reappointment, some of the gains were reversed in volatile Tuesday trading.
-The company's share price closed down nearly 6% - still well above where it ended last week. On Monday, Nvidia stock rocketed more than 31% following news of Huang's return.
-Faisal Islam: Fears over the AI boom haven't gone away
-- Published3 hours ago
-The company's board reinstated Huang on Monday in a shock U-turn. Harvey Jones, chairman of Nvidia's board, said Huang's return was in the "best interests of our stockholders, employees, partners and customers".
-The board said it had received input from senior levels of the US government and was confident that Huang's reinstatement posed no national security risk.
-On Monday, Trump said he spoke to the company's directors and convinced them to bring back Huang.
-Huang's reinstatement provoked bipartisan anger.
-Republican congressman Don Bacon said Nvidia should have "ignored the Administration's inexplicable desire to save Huang".
-Republican Senator Pete Ricketts said Huang's behaviour "doesn't absolve Nvidia of answering for national security concerns and unaccounted-for chips".
-Democratic congressman Robert Garcia, the incoming chairman of the House oversight committee, said Trump's "direct involvement" with Nvidia's decision "raises serious national security and corruption questions".
-Democratic Senator Ruben Gallego said Congress needed to "investigate what stock positions took place before the announcement".
-- Published1 day ago
-- Published23 hours ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-24T21:19:42+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
-    readTime: 9,
-  },
-  {
-    id: "trump-wanted-jensen-huang-back-now-the-p-1801f9c7",
-    title: "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
-    titleJa: "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
-    summaryJa: "Republicans worry Nvidia CEO Jensen Huang's affairs with a suspected Chinese spy jeopardized U.S. national security.",
-    bodyOriginal: `President Donald Trump wanted Jensen Huang back at the helm of Nvidia. Now that the chip mogul is reinstated, Trump is cheering alone in Washington.
-Trump celebrated and claimed credit after Huang was reinstated by the Nvidia board on Monday, a stunning return to power for the embattled CEO. In a nearly hourlong phone call with CNBC, the president went as far as saying he "made the deal" to bring Huang back.
-But Trump's jubilation stands in stark contrast to the reaction from even his staunchest allies on Capitol Hill, who recoiled after the reinstatement and vowed to continue their investigations into Huang — whose relationship with a potential Chinese intelligence asset they fear may have jeopardized U.S. national security.
-"The risk remains that there could be information that a Chinese spy knows about a key individual in the supply chain, and that's not worth the risk," Sen. Kevin Cramer, R-N.D., said Tuesday on CNBC's "Squawk Box." "We might even have to put a babysitter on Jensen Huang for crying out loud ... just to make sure that he doesn't do something that's going to risk the United States."
-Trump's rare isolation from his party over Huang comes after the GOP was throttled in the midterm elections, as Democrats rode a blue tsunami to capture the Senate and the largest House majority this century. And it suggests Republicans, who have spent a decade in lockstep with the president, may have found an issue on which they can't bring themselves to take Trump's side.
-"I can accept what the president has done," Cramer said. "But we have to put guardrails around to protect the United States of America."
-Many midterm voters identified Silicon Valley's most visible outputs, artificial intelligence and data centers, as top concerns motivating them to cast ballots for Democrats. The CNBC All-America Economic Survey in October found 63% of registered voters oppose an AI data center within 10 miles of their home, while just 13% support one.
-By timing his extraordinary intervention in Nvidia so soon after the GOP's historic losses, Trump could spark a national debate about corporate governance and responsibility, former Under Secretary of State Richard Stengel said.
-"With the repudiation of Trumpism in the midterms and voter revulsion with corruption, I think there will be a turn back to a more value-based duty of care for boards of directors and away from the current maximization of shareholder value," Stengel told CNBC in an email.
-"Directors are citizens first, shareholders second. The idea that you put profit above national security should disgust shareholders, not please them," Stengel, who worked in the Obama administration, wrote.
-Bipartisan lawmakers are now racing to pass a series of export control bills before the year ends, a call that has only grown louder since Huang was reinstated.
-There's "not just frustration or political worry, but actual, substantive national security concern here from Democrats and Republicans," Chris McGuire, senior fellow for China and emerging technologies at the Council on Foreign Relations, told CNBC.
-"This has historically been a bipartisan issue," McGuire said. "Democrats and Republicans generally pretty much agree that we shouldn't be sending our most advanced chips to China."
-"If it happened in massive quantities, people want to know why, how, and they want to make sure that it doesn't happen again," he said. "And putting your thumb on the scale in this clear of a way seems like it could undercut those efforts."
-The White House didn't immediately respond to a request for comment on the political dynamics of Trump's involvement in reinstating Huang.
-Republicans ready to probe Huang, Nvidia
-Republicans will have the first crack at investigating Huang next week before ceding power to Democrats in January. Democrats have vowed their own investigations into the Nvidia CEO and his ties to the president and his Cabinet. The Democrats who will lead those investigations are now hopeful that Republicans will join them.
-"I've been seeing a lot of Republicans outraged and scandalized by what has just happened," House Judiciary Committee ranking member Jamie Raskin, D-Md., said Tuesday on "Squawk Box," when asked if Republicans may support a bipartisan investigation of Nvidia.
-"When else in American history can you think of a time when a president of the United States called up a corporate board of directors meeting and then essentially dictated to them who was going to be their new CEO right after they had fired the guy?"
-Trump throughout his second term has stated repeatedly that achieving AI dominance is required for the U.S. to maintain global superiority. His administration has championed the rapid growth of the country's tech giants and forged close ties with its leaders, especially Huang, while removing constraints on the industry and opposing some new regulatory efforts.
-At the same time, Trump has defended Commerce Secretary Howard Lutnick against accusations of slow-walking export controls on China, the fiercest competitor in the AI race. And while Trump recently discussed AI during an in-person meeting with Chinese President Xi Jinping, he appeared to deliver few demands and achieved few assurances about Beijing's efforts to acquire U.S. chips.
-"To say we can't do AI safety because of China, and then also be actively loosening the controls on China, makes no sense," McGuire said.
-Some of Trump's fiercest allies have raised similar qualms.
-"Reinstating Jensen Huang is going to blow back on our national security," MAGA activist Laura Loomer wrote in an X post Monday. "Eventually there has to be accountability for jeopardizing US national security. China didn't just get access to Nvidia chips by accident."
-Newt Gingrich, the influential former Republican speaker of the House, in an X post after Huang's reinstatement, wrote, "Congress should really dig into this as a national security issue of enormous proportions and also a significant failure in the federal bureaucracy."
-Their criticisms sharply contrast with the praise coming from Silicon Valley and some of the Trump-friendly voices within it, such as Elon Musk, who wrote Monday, "The mistake has been corrected."
-But that's a shrinking political constituency, McGuire said.
-"The tech-right perspective is very out of touch with where most of the Republican Party is on these issues, to say nothing of the Democratic Party," he said.
-"Those positions are just not going to be sustainable for much longer," he added. "I think they're already becoming unsustainable."`,
-    bodyJa: `President Donald Trump wanted Jensen Huang back at the helm of Nvidia. Now that the chip mogul is reinstated, Trump is cheering alone in Washington.
-Trump celebrated and claimed credit after Huang was reinstated by the Nvidia board on Monday, a stunning return to power for the embattled CEO. In a nearly hourlong phone call with CNBC, the president went as far as saying he "made the deal" to bring Huang back.
-But Trump's jubilation stands in stark contrast to the reaction from even his staunchest allies on Capitol Hill, who recoiled after the reinstatement and vowed to continue their investigations into Huang — whose relationship with a potential Chinese intelligence asset they fear may have jeopardized U.S. national security.
-"The risk remains that there could be information that a Chinese spy knows about a key individual in the supply chain, and that's not worth the risk," Sen. Kevin Cramer, R-N.D., said Tuesday on CNBC's "Squawk Box." "We might even have to put a babysitter on Jensen Huang for crying out loud ... just to make sure that he doesn't do something that's going to risk the United States."
-Trump's rare isolation from his party over Huang comes after the GOP was throttled in the midterm elections, as Democrats rode a blue tsunami to capture the Senate and the largest House majority this century. And it suggests Republicans, who have spent a decade in lockstep with the president, may have found an issue on which they can't bring themselves to take Trump's side.
-"I can accept what the president has done," Cramer said. "But we have to put guardrails around to protect the United States of America."
-Many midterm voters identified Silicon Valley's most visible outputs, artificial intelligence and data centers, as top concerns motivating them to cast ballots for Democrats. The CNBC All-America Economic Survey in October found 63% of registered voters oppose an AI data center within 10 miles of their home, while just 13% support one.
-By timing his extraordinary intervention in Nvidia so soon after the GOP's historic losses, Trump could spark a national debate about corporate governance and responsibility, former Under Secretary of State Richard Stengel said.
-"With the repudiation of Trumpism in the midterms and voter revulsion with corruption, I think there will be a turn back to a more value-based duty of care for boards of directors and away from the current maximization of shareholder value," Stengel told CNBC in an email.
-"Directors are citizens first, shareholders second. The idea that you put profit above national security should disgust shareholders, not please them," Stengel, who worked in the Obama administration, wrote.
-Bipartisan lawmakers are now racing to pass a series of export control bills before the year ends, a call that has only grown louder since Huang was reinstated.
-There's "not just frustration or political worry, but actual, substantive national security concern here from Democrats and Republicans," Chris McGuire, senior fellow for China and emerging technologies at the Council on Foreign Relations, told CNBC.
-"This has historically been a bipartisan issue," McGuire said. "Democrats and Republicans generally pretty much agree that we shouldn't be sending our most advanced chips to China."
-"If it happened in massive quantities, people want to know why, how, and they want to make sure that it doesn't happen again," he said. "And putting your thumb on the scale in this clear of a way seems like it could undercut those efforts."
-The White House didn't immediately respond to a request for comment on the political dynamics of Trump's involvement in reinstating Huang.
-Republicans ready to probe Huang, Nvidia
-Republicans will have the first crack at investigating Huang next week before ceding power to Democrats in January. Democrats have vowed their own investigations into the Nvidia CEO and his ties to the president and his Cabinet. The Democrats who will lead those investigations are now hopeful that Republicans will join them.
-"I've been seeing a lot of Republicans outraged and scandalized by what has just happened," House Judiciary Committee ranking member Jamie Raskin, D-Md., said Tuesday on "Squawk Box," when asked if Republicans may support a bipartisan investigation of Nvidia.
-"When else in American history can you think of a time when a president of the United States called up a corporate board of directors meeting and then essentially dictated to them who was going to be their new CEO right after they had fired the guy?"
-Trump throughout his second term has stated repeatedly that achieving AI dominance is required for the U.S. to maintain global superiority. His administration has championed the rapid growth of the country's tech giants and forged close ties with its leaders, especially Huang, while removing constraints on the industry and opposing some new regulatory efforts.
-At the same time, Trump has defended Commerce Secretary Howard Lutnick against accusations of slow-walking export controls on China, the fiercest competitor in the AI race. And while Trump recently discussed AI during an in-person meeting with Chinese President Xi Jinping, he appeared to deliver few demands and achieved few assurances about Beijing's efforts to acquire U.S. chips.
-"To say we can't do AI safety because of China, and then also be actively loosening the controls on China, makes no sense," McGuire said.
-Some of Trump's fiercest allies have raised similar qualms.
-"Reinstating Jensen Huang is going to blow back on our national security," MAGA activist Laura Loomer wrote in an X post Monday. "Eventually there has to be accountability for jeopardizing US national security. China didn't just get access to Nvidia chips by accident."
-Newt Gingrich, the influential former Republican speaker of the House, in an X post after Huang's reinstatement, wrote, "Congress should really dig into this as a national security issue of enormous proportions and also a significant failure in the federal bureaucracy."
-Their criticisms sharply contrast with the praise coming from Silicon Valley and some of the Trump-friendly voices within it, such as Elon Musk, who wrote Monday, "The mistake has been corrected."
-But that's a shrinking political constituency, McGuire said.
-"The tech-right perspective is very out of touch with where most of the Republican Party is on these issues, to say nothing of the Democratic Party," he said.
-"Those positions are just not going to be sustainable for much longer," he added. "I think they're already becoming unsustainable."`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
-    publishedAt: "2026-11-24T21:13:39+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "drugmaker-insmed-shares-rally-14-after-s-cb1f0c85",
-    title: "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
-    titleJa: "Drugmaker Insmed shares rally 14% after Sanofi agrees to buy it in pharma’s biggest deal in three years",
-    summaryJa: "Sanofi faces a revenue drop toward the end of the decade as top-selling drugs lose exclusivity and open up for generic drugmakers to compete.",
-    bodyOriginal: `Insmed shares rallied 14% on Tuesday after Sanofi announced it would buy the smaller drugmaker for $41 billion, marking the largest pharma deal since 2023.
-The proposed acquisition includes Insmed's portfolio of two commercialized respiratory drugs as well as its pipeline of experimental candidates. Sanofi will pay $175 per share in cash.
-It's a big bet by new Sanofi CEO Belen Garijo, who took up the role in May to steer the company through its upcoming patent cliff, when its blockbuster immunology drug Dupixent will face generic competition as patents expire.
-If closed, the transaction will be the biggest one the industry has seen since Pfizer bought Seagen for $43 billion in December 2023.
-Insmed shares closed up 14.1% at $170.15 on Tuesday, while Sanofi stock closed up 10.9% in Paris.
-'Buys time'
-Barclays analysts called the deal a "breath of fresh air," significantly improving Sanofi's Dupixent patent expiry outlook by adding Insmed's established respiratory assets Brinsupri and Arikayce, plus a late-stage pipeline offering further potential upside.
-The deal is expected to close in the first half of 2027 and be accretive to earnings by the end of 2028, Sanofi said.
-Like much of the industry, Sanofi faces a revenue drop toward the end of the decade as top-selling drugs lose exclusivity and open up for generic drugmakers to compete.
-Global biopharma has experienced a sharp uptick in deals in 2026, as the sector is driven by looming patent cliffs, newly buoyant public markets and a race to beef up pipelines. Following a post-pandemic trough in 2022, M&A activity surged in 2025 and has accelerated into 2026.
-While companies develop new medicines in-house, acquiring them is often faster and has become the go-to strategy for large biopharma companies with strong cash flows and financial firepower. Investors are also calling for sustainable revenue growth as major drugs lose exclusivity.
-"Sanofi could offer a far more attractive investment opportunity given the significantly improved growth outlook," Barclays said in a note early Tuesday.
-Formerly CEO at Merck KGaA, Garijo is facing pressure to find Sanofi's next growth driver. Her predecessor Paul Hudson stepped down earlier this year after the board chose not to renew his mandate, following a six-year reign during which his costly emphasis on R&D failed to deliver speedy results.
-The Insmed deal is a good strategic fit that will help soften the blow from Dupixent's expected 2031–32 loss of exclusivity, said Jefferies analysts.
-Insmed's medicines Brinsupri and Arikayce could add significant long-term revenue, with forecasts of $6.8 billion and $1.3 billion, respectively, in 2035, the analysts said. They see further potential upside if a settlement delays Dupixent's patent cliff, or if Brinsupri is included in Sanofi's alliance with Regeneron and positioned alongside Dupixent in respiratory diseases.
-"The deal does not fix Sanofi's R&D/pipeline questions, but it buys time," the analysts said, adding that one potential wrinkle is future competition from AstraZeneca's tozorakimab, which is being studied for treatment in bronchiectasis, a chronic lung condition.
-"Insmed builds on our already successful presence in respiratory diseases through its highly differentiated portfolio, strong science and proven commercial success," CEO Garijo said in a statement.
-Sanofi shares fell 2.9%, and Insmed rose 24% on Nov. 19 after Bloomberg reported that a deal was underway.`,
-    bodyJa: `Insmed shares rallied 14% on Tuesday after Sanofi announced it would buy the smaller drugmaker for $41 billion, marking the largest pharma deal since 2023.
-The proposed acquisition includes Insmed's portfolio of two commercialized respiratory drugs as well as its pipeline of experimental candidates. Sanofi will pay $175 per share in cash.
-It's a big bet by new Sanofi CEO Belen Garijo, who took up the role in May to steer the company through its upcoming patent cliff, when its blockbuster immunology drug Dupixent will face generic competition as patents expire.
-If closed, the transaction will be the biggest one the industry has seen since Pfizer bought Seagen for $43 billion in December 2023.
-Insmed shares closed up 14.1% at $170.15 on Tuesday, while Sanofi stock closed up 10.9% in Paris.
-'Buys time'
-Barclays analysts called the deal a "breath of fresh air," significantly improving Sanofi's Dupixent patent expiry outlook by adding Insmed's established respiratory assets Brinsupri and Arikayce, plus a late-stage pipeline offering further potential upside.
-The deal is expected to close in the first half of 2027 and be accretive to earnings by the end of 2028, Sanofi said.
-Like much of the industry, Sanofi faces a revenue drop toward the end of the decade as top-selling drugs lose exclusivity and open up for generic drugmakers to compete.
-Global biopharma has experienced a sharp uptick in deals in 2026, as the sector is driven by looming patent cliffs, newly buoyant public markets and a race to beef up pipelines. Following a post-pandemic trough in 2022, M&A activity surged in 2025 and has accelerated into 2026.
-While companies develop new medicines in-house, acquiring them is often faster and has become the go-to strategy for large biopharma companies with strong cash flows and financial firepower. Investors are also calling for sustainable revenue growth as major drugs lose exclusivity.
-"Sanofi could offer a far more attractive investment opportunity given the significantly improved growth outlook," Barclays said in a note early Tuesday.
-Formerly CEO at Merck KGaA, Garijo is facing pressure to find Sanofi's next growth driver. Her predecessor Paul Hudson stepped down earlier this year after the board chose not to renew his mandate, following a six-year reign during which his costly emphasis on R&D failed to deliver speedy results.
-The Insmed deal is a good strategic fit that will help soften the blow from Dupixent's expected 2031–32 loss of exclusivity, said Jefferies analysts.
-Insmed's medicines Brinsupri and Arikayce could add significant long-term revenue, with forecasts of $6.8 billion and $1.3 billion, respectively, in 2035, the analysts said. They see further potential upside if a settlement delays Dupixent's patent cliff, or if Brinsupri is included in Sanofi's alliance with Regeneron and positioned alongside Dupixent in respiratory diseases.
-"The deal does not fix Sanofi's R&D/pipeline questions, but it buys time," the analysts said, adding that one potential wrinkle is future competition from AstraZeneca's tozorakimab, which is being studied for treatment in bronchiectasis, a chronic lung condition.
-"Insmed builds on our already successful presence in respiratory diseases through its highly differentiated portfolio, strong science and proven commercial success," CEO Garijo said in a statement.
-Sanofi shares fell 2.9%, and Insmed rose 24% on Nov. 19 after Bloomberg reported that a deal was underway.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/24/insmed-sanofi-deal-stock-pharma.html",
-    publishedAt: "2026-11-24T21:07:19+00:00",
-    category: "マクロ経済",
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "jensen-huang-tells-staff-that-nvidia-doe-3c62ac01",
-    title: "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-    titleJa: "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-    summaryJa: "Nvidia CEO Jensen Huang resigned after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.",
-    bodyOriginal: `Nvidia CEO Jensen Huang on Tuesday struck a conciliatory and remorseful tone while leading his first employee meeting since being reinstated, and said how sorry he was for what he had done.
-Huang told employees that he let them down and promised to do a better job the second time around, according to people inside the room, who asked not to be named in order to share details. "I hurt all of you," Huang said, according to one of the people.
-The CEO also addressed succession planning during the event, the people said. He told staff that Nvidia has built a team that doesn't require succession planning the way a normal organization does, because the company operates a unique business model where there are multiple capable leaders at Nvidia that are leading different parts of the organization.
-A succession plan would create unnecessary hierarchy, Huang said, according to one of the people present.
-Investors and analysts were left to speculate about the company's future leadership in the wake of Huang's resignation on Nov. 12.
-On Monday, Huang was reinstated as CEO of the chipmaker by Nvidia's board of directors. Eleven days before, Huang had resigned from Nvidia after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.
-Harvey Jones, Nvidia's newly appointed board chair, said last week that Huang resigned after "disclosure of personal behavior inconsistent with the company's code of conduct, standards and cultural norms."
-Huang started the meeting by thanking CFO Colette Kress for her leadership as interim CEO.
-Huang told staff that Tuesday's company meeting was the second hardest meeting of his life, the first one being with his wife. He said he is in therapy, according to one of the people present.
-In a press release announcing Huang's return on Monday, the company said the board "received input" from senior officials in the federal government about any potential national security risk around the CEO. President Donald Trump told CNBC that he gave the board assurances and "made the deal" to restore Huang to his post.
-After the company had its worst week in the stock market since 2008, the stock surged more than 30% the day his return was announced. Shares fell on Tuesday, however.
-An Nvidia representative didn't immediately respond to requests for comment.`,
-    bodyJa: `Nvidia CEO Jensen Huang on Tuesday struck a conciliatory and remorseful tone while leading his first employee meeting since being reinstated, and said how sorry he was for what he had done.
-Huang told employees that he let them down and promised to do a better job the second time around, according to people inside the room, who asked not to be named in order to share details. "I hurt all of you," Huang said, according to one of the people.
-The CEO also addressed succession planning during the event, the people said. He told staff that Nvidia has built a team that doesn't require succession planning the way a normal organization does, because the company operates a unique business model where there are multiple capable leaders at Nvidia that are leading different parts of the organization.
-A succession plan would create unnecessary hierarchy, Huang said, according to one of the people present.
-Investors and analysts were left to speculate about the company's future leadership in the wake of Huang's resignation on Nov. 12.
-On Monday, Huang was reinstated as CEO of the chipmaker by Nvidia's board of directors. Eleven days before, Huang had resigned from Nvidia after multiple reported affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing.
-Harvey Jones, Nvidia's newly appointed board chair, said last week that Huang resigned after "disclosure of personal behavior inconsistent with the company's code of conduct, standards and cultural norms."
-Huang started the meeting by thanking CFO Colette Kress for her leadership as interim CEO.
-Huang told staff that Tuesday's company meeting was the second hardest meeting of his life, the first one being with his wife. He said he is in therapy, according to one of the people present.
-In a press release announcing Huang's return on Monday, the company said the board "received input" from senior officials in the federal government about any potential national security risk around the CEO. President Donald Trump told CNBC that he gave the board assurances and "made the deal" to restore Huang to his post.
-After the company had its worst week in the stock market since 2008, the stock surged more than 30% the day his return was announced. Shares fell on Tuesday, however.
-An Nvidia representative didn't immediately respond to requests for comment.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
-    publishedAt: "2026-11-24T20:42:07+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 6,
-  },
-  {
-    id: "will-i-get-the-100-energy-payment-and-wh-e2c0cb64",
-    title: "Will I get the £100 energy payment and when will I receive it?",
-    titleJa: "Will I get the £100 energy payment and when will I receive it?",
-    summaryJa: "Here is what you need to know about the payment that millions will receive from January.",
-    bodyOriginal: `Will I get the £100 energy payment and when will I receive it?
-- Published
-Up to 20 million households in England will get a £100 payment to help with their energy bills this winter, Chancellor John Healey has announced in his Budget.
-Here's what you need to know about the payment.
-How much is it?
-For many people, the £100 on offer is a lot of money, but it's worth considering the context.
-A typical energy bill is forecast to jump by £443 a year from January, according to consultants Cornwall Insight.
-Therefore many people will still feel worse off despite the payment.
-Will I get the payment? And how can I check?
-Those living in properties which are in council tax bands A to D in England will get the payment, the government has said.
-As such, it's worth checking which council tax band your home is in, external. If you live in England, you can use the search function by typing your postcode into the box.
-If you get a paper council tax bill, your band will also be printed on there.
-Will I get it if I live in Scotland, Wales or Northern Ireland?
-The chancellor said the policy was for England but that funding would be given to Scotland, Wales and Northern Ireland to make the payment as well.
-The Scottish and Welsh governments have confirmed they will use the funding to introduce equivalent or similar payment schemes.
-The Northern Irish government does not have the legal authority to make the £100 payments unless it agrees its budget, which it has failed to do since the start of this financial year.
-Your pay, energy bills and savings: How the Budget affects you
-- Published29 October
-How do I get the money? Will I get it if I'm a student or don't pay council tax?
-If you pay your council tax by direct debit, the money will be paid directly into your bank account.
-Those who don't pay by direct debit will be contacted by their council and given the choice to receive the £100 directly into their bank account or as credit on their council tax bill.
-The government will ask councils to make payments from 4 January, and the scheme will be open until the end of May.
-Students living in halls will not get the payment because student halls are not in council tax bands A to D.
-However, if you're a student living in a property that is in council tax bands A to D, as in a private home or flat let out by a landlord, then you will get the payment.
-Students do not pay council tax so the local authority will be responsible for finding a way to give them the payments.
-This is also the case for those who do not pay council tax because of another kind of exemption, or if you do pay council tax but you do it by cash or some other way.
-The government said it would give councils guidance on how local authorities should do this in due course.
-Do I have to spend the money on my energy bill?
-The government has said the support is to help households with the cost of energy.
-But the money will appear directly in people's bank accounts so you could choose to spend it on something else, while some people may choose to receive the £100 as a credit on their council tax bill.
-How is the government funding this payment?
-The chancellor said the money for the £100 cash payments is coming from a tax rise on banks.
-The surcharge on banks' corporation tax will rise from 3% to 6% for 15 months from 1 January 2027 to 31 March 2028.
-- Published28 October`,
-    bodyJa: `Will I get the £100 energy payment and when will I receive it?
-- Published
-Up to 20 million households in England will get a £100 payment to help with their energy bills this winter, Chancellor John Healey has announced in his Budget.
-Here's what you need to know about the payment.
-How much is it?
-For many people, the £100 on offer is a lot of money, but it's worth considering the context.
-A typical energy bill is forecast to jump by £443 a year from January, according to consultants Cornwall Insight.
-Therefore many people will still feel worse off despite the payment.
-Will I get the payment? And how can I check?
-Those living in properties which are in council tax bands A to D in England will get the payment, the government has said.
-As such, it's worth checking which council tax band your home is in, external. If you live in England, you can use the search function by typing your postcode into the box.
-If you get a paper council tax bill, your band will also be printed on there.
-Will I get it if I live in Scotland, Wales or Northern Ireland?
-The chancellor said the policy was for England but that funding would be given to Scotland, Wales and Northern Ireland to make the payment as well.
-The Scottish and Welsh governments have confirmed they will use the funding to introduce equivalent or similar payment schemes.
-The Northern Irish government does not have the legal authority to make the £100 payments unless it agrees its budget, which it has failed to do since the start of this financial year.
-Your pay, energy bills and savings: How the Budget affects you
-- Published29 October
-How do I get the money? Will I get it if I'm a student or don't pay council tax?
-If you pay your council tax by direct debit, the money will be paid directly into your bank account.
-Those who don't pay by direct debit will be contacted by their council and given the choice to receive the £100 directly into their bank account or as credit on their council tax bill.
-The government will ask councils to make payments from 4 January, and the scheme will be open until the end of May.
-Students living in halls will not get the payment because student halls are not in council tax bands A to D.
-However, if you're a student living in a property that is in council tax bands A to D, as in a private home or flat let out by a landlord, then you will get the payment.
-Students do not pay council tax so the local authority will be responsible for finding a way to give them the payments.
-This is also the case for those who do not pay council tax because of another kind of exemption, or if you do pay council tax but you do it by cash or some other way.
-The government said it would give councils guidance on how local authorities should do this in due course.
-Do I have to spend the money on my energy bill?
-The government has said the support is to help households with the cost of energy.
-But the money will appear directly in people's bank accounts so you could choose to spend it on something else, while some people may choose to receive the £100 as a credit on their council tax bill.
-How is the government funding this payment?
-The chancellor said the money for the £100 cash payments is coming from a tax rise on banks.
-The surcharge on banks' corporation tax will rise from 3% to 6% for 15 months from 1 January 2027 to 31 March 2028.
-- Published28 October`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-24T20:16:24+00:00",
-    category: "エネルギー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06e/live/66b0c920-d2ed-11f1-8d86-83eebc838351.jpg",
-    readTime: 8,
-  },
-  {
-    id: "faisal-islam-fears-over-the-ai-boom-have-fa4f47d1",
-    title: "Faisal Islam: Fears over the AI boom haven't gone away",
-    titleJa: "Faisal Islam: Fears over the AI boom haven't gone away",
-    summaryJa: "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
-    bodyOriginal: `Faisal Islam: Fears over the AI boom haven't gone away
-- Published
-As the market bell rang out at the Nasdaq today, the Nvidia super-bounce faded.
-Its shares slid and are down almost 30% over the past six months, well before the scandal involving Jensen Huang emerged earlier this month.
-The legitimate fears about the staying power of the tech boom pre-dated Huang's exit. They have not gone away with his return.
-Investors are jittery. Already Anthropic is now trading notably lower than last week's stock market flotation. The firm is the first purely AI company to be publicly listed, and is being seen as a big test for continued investor appetite for the technology.
-President Trump's extraordinary phone call to CNBC taking credit for telling the board to reinstate Huang showed the extent of the operation - of some in Silicon Valley and within the US administration - to get him back at the helm.
-Among the truly astonishing reflections from President Trump was a suggestion that a two-day investigation of allegations was done and had cleared Huang of national security concerns.
-The President said his remarkable move to intervene was because Huang is a "national treasure" who has the next generation of AI chips "in his head". Trump says this is why he needed to act.
-In markets, those sceptical about the AI boom say they have never seen an operation to prop up a stock market boom like this. The bond vigilantes and short sellers are now up against Silicon Valley and the White House.
-Investors are trading not revenue numbers but levels of political support at a time when US voters have just delivered a backlash against AI data centres.
-Against this backdrop, the recovery of the central cash-generating foundation of the tech boom - Nvidia and its $400bn (£304bn) annual sales of advanced chips - looks politically fragile.
-This worsens other uncertainties and risks, such as Nvidia's central role in the web of financing, borrowing and cross-ownership to support every corner of the build out of data centres.
-The brief interim Nvidia chief executive Colette Kress had already signalled a rowing back from elements of this strategy last week. Where is that now?
-The fall back in Anthropic's share price also raises questions about OpenAI's planned listing on the stock exchange. Ultimately these two companies might be the most critical part of all this.
-They remain valuable companies with phenomenal technology relied on by the world's biggest companies. The real question is whether that reliance eases, as corporations eschew expensive frontier models for cheaper generic models offered by China.
-In turn, all this could be affected by the political backlash, to which the Nvidia psychodrama now contributes.
-It is simply not normal to have trillion dollar swings in the value of individual companies.
-The extraordinary volatility shows the fragile mood of investors.
-Related topics
-- Published56 minutes ago
-- Published20 hours ago`,
-    bodyJa: `Faisal Islam: Fears over the AI boom haven't gone away
-- Published
-As the market bell rang out at the Nasdaq today, the Nvidia super-bounce faded.
-Its shares slid and are down almost 30% over the past six months, well before the scandal involving Jensen Huang emerged earlier this month.
-The legitimate fears about the staying power of the tech boom pre-dated Huang's exit. They have not gone away with his return.
-Investors are jittery. Already Anthropic is now trading notably lower than last week's stock market flotation. The firm is the first purely AI company to be publicly listed, and is being seen as a big test for continued investor appetite for the technology.
-President Trump's extraordinary phone call to CNBC taking credit for telling the board to reinstate Huang showed the extent of the operation - of some in Silicon Valley and within the US administration - to get him back at the helm.
-Among the truly astonishing reflections from President Trump was a suggestion that a two-day investigation of allegations was done and had cleared Huang of national security concerns.
-The President said his remarkable move to intervene was because Huang is a "national treasure" who has the next generation of AI chips "in his head". Trump says this is why he needed to act.
-In markets, those sceptical about the AI boom say they have never seen an operation to prop up a stock market boom like this. The bond vigilantes and short sellers are now up against Silicon Valley and the White House.
-Investors are trading not revenue numbers but levels of political support at a time when US voters have just delivered a backlash against AI data centres.
-Against this backdrop, the recovery of the central cash-generating foundation of the tech boom - Nvidia and its $400bn (£304bn) annual sales of advanced chips - looks politically fragile.
-This worsens other uncertainties and risks, such as Nvidia's central role in the web of financing, borrowing and cross-ownership to support every corner of the build out of data centres.
-The brief interim Nvidia chief executive Colette Kress had already signalled a rowing back from elements of this strategy last week. Where is that now?
-The fall back in Anthropic's share price also raises questions about OpenAI's planned listing on the stock exchange. Ultimately these two companies might be the most critical part of all this.
-They remain valuable companies with phenomenal technology relied on by the world's biggest companies. The real question is whether that reliance eases, as corporations eschew expensive frontier models for cheaper generic models offered by China.
-In turn, all this could be affected by the political backlash, to which the Nvidia psychodrama now contributes.
-It is simply not normal to have trillion dollar swings in the value of individual companies.
-The extraordinary volatility shows the fragile mood of investors.
-Related topics
-- Published56 minutes ago
-- Published20 hours ago`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-24T18:21:43+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec8/live/8b0c59c0-e831-11f1-917e-35f1674fb52c.jpg",
-    readTime: 7,
   },
 ];
 
