@@ -15,6 +15,434 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    id: "saudi-arabia-shifts-vision-2030-spending-66593554",
+    title: "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
+    titleJa: "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
+    summaryJa: "The Kingdom is moving from \"spending and delivery at any cost\" to \"spending and delivery at the right cost,\" Economic Minister Faisal Alibrahim told CNBC.",
+    bodyOriginal: `Saudi Arabia's economic diversification strategy has moved from "spending and delivery at any cost" to "spending and delivery at the right cost," Economy Minister Faisal Alibrahim told CNBC on Friday.
+It comes after the Kingdom scaled back or cut several flagship projects as it endures a sharp economic contraction.
+Alibrahim also said Saudi Arabia would "stop at nothing from realizing long-term sustainable stability in the region" amid ongoing Houthi strikes on civilian and energy infrastructure that have killed and injured dozens and repeatedly rocked oil markets.
+"The phase we're in today is one where every riyal is deployed with greater precision... it was clear that while we want to diversify or restructure our economy to depend less on government spend, there was a lot of catch-up that needed to be done, and for that, you saw government spend leading the way," Alibrahim told CNBC's Dan Murphy.
+"Right now, that is shifting from spending and delivery at any cost to spending and delivering at the right cost. We're moving towards a policy-first approach to many of our policy areas and... objectives. We're also creating a clearer business environment, one that aligns the regulatory environment in the Kingdom with international laws."
+That includes the recent announcement of a 15% minimum effective tax rate on multinational profits, which Alibrahim said would "create a clearer environment for the private sector to operate," as the government looks to attract more external investment.
+Saudi pulls back non-essential spending
+Saudi Arabia has been on a mammoth capital spending spree since it launched its Vision 2030 plan to reduce its dependence on oil revenue in 2016, deploying the resources of its sovereign wealth fund — the Public Investment Fund, or PIF.
+But more recently, it has reassessed the cost and commercial prospects of initiatives such as the new economic region NEOM and the futuristic "The Line" city, withdrawn funding from the LIV Golf tournament and halted construction on a planned giant skyscraper in Riyadh. In January, it said it would postpone hosting the 2029 Asian Winter Games, which had been scheduled for Trojena, a planned part of NEOM.
+Saudi Arabia is meanwhile grappling with the destabilizing effects of ongoing strikes by Iran-backed Houthi militants in Yemen, which have hit targets including the PIF tower, Riyadh Airport and the country's largest oil refinery. The danger forced the Kingdom to call off its big international investor conference, dubbed "Davos in the Desert," which was due to be attended by some of the biggest figures in global finance in November.
+"The human cost of crisis has been real, and so has been the economic cost," Alibrahim told CNBC.
+Alibrahim said infrastructure investments had allowed the Kingdom's energy sector to restore production to near pre-crisis levels. It has meanwhile moved its import and export hub from the east to the west of the country via land-based transport due to the airport strikes, which has restored cargo levels.
+He added that the attacks highlight the importance of diversification to the Saudi economy.
+Real GDP contracted by 3.8% in the third quarter, according to government figures, with oil activities down 20.4% year-on-year partially offset by a 1.9% rise in non-oil activities. Net foreign direct investment inflows dropped 19.5% year-on-year in the second quarter.
+The Saudi Ministry of Finance expects an overall contraction of around 2.1% this year and a rebound of 10.9% next year.
+Advisory group Oxford Economics forecasts a more negative outlook. It sees the Saudi economy shrinking 3.4% this year and by 4% in 2027, amid escalating attacks on energy infrastructure even as a new minimum wage and continued Vision 2030 spending are expected to support incomes and domestic demand.
+Akanksha Samdani, lead economist at Oxford Economics, said Vision 2030 was entering a new phase focused on returns.
+"The government is managing fiscal pressures and shifting budgetary spending towards essential services and strategic priorities, while PIF is becoming more selective in its capital allocation and seeking greater private-sector participation," Samdani said, adding that some giga projects are being scaled back or delayed, while investment continues in sectors such as manufacturing, logistics, tourism, mining and technology.
+"Our forecasts already assume that some of the Vision 2030 targets will be achieved later than originally planned. But the overarching goal of economic diversification remains unchanged," Samdani told CNBC by email.
+Neil Quilliam, managing director of consultancy Azure Strategy, said investors are assessing whether Houthi attacks demonstrate a persistent vulnerability that could increase the cost and complexity of delivering Vision 2030.
+"They have repeatedly demonstrated an ability to target important economic infrastructure and expose weaknesses in Saudi air defences," he told CNBC, with the attacks challenging the "assumption that Saudi Arabia has insulated itself from regional instability."
+The economic impact of the strikes will be less about physical damage and more about whether they affect confidence in Saudi Arabia as a destination for tourism, entertainment and sports, a key part of Vision 2030 and a source of foreign capital and expatriate talent, he added.`,
+    bodyJa: `Saudi Arabia's economic diversification strategy has moved from "spending and delivery at any cost" to "spending and delivery at the right cost," Economy Minister Faisal Alibrahim told CNBC on Friday.
+It comes after the Kingdom scaled back or cut several flagship projects as it endures a sharp economic contraction.
+Alibrahim also said Saudi Arabia would "stop at nothing from realizing long-term sustainable stability in the region" amid ongoing Houthi strikes on civilian and energy infrastructure that have killed and injured dozens and repeatedly rocked oil markets.
+"The phase we're in today is one where every riyal is deployed with greater precision... it was clear that while we want to diversify or restructure our economy to depend less on government spend, there was a lot of catch-up that needed to be done, and for that, you saw government spend leading the way," Alibrahim told CNBC's Dan Murphy.
+"Right now, that is shifting from spending and delivery at any cost to spending and delivering at the right cost. We're moving towards a policy-first approach to many of our policy areas and... objectives. We're also creating a clearer business environment, one that aligns the regulatory environment in the Kingdom with international laws."
+That includes the recent announcement of a 15% minimum effective tax rate on multinational profits, which Alibrahim said would "create a clearer environment for the private sector to operate," as the government looks to attract more external investment.
+Saudi pulls back non-essential spending
+Saudi Arabia has been on a mammoth capital spending spree since it launched its Vision 2030 plan to reduce its dependence on oil revenue in 2016, deploying the resources of its sovereign wealth fund — the Public Investment Fund, or PIF.
+But more recently, it has reassessed the cost and commercial prospects of initiatives such as the new economic region NEOM and the futuristic "The Line" city, withdrawn funding from the LIV Golf tournament and halted construction on a planned giant skyscraper in Riyadh. In January, it said it would postpone hosting the 2029 Asian Winter Games, which had been scheduled for Trojena, a planned part of NEOM.
+Saudi Arabia is meanwhile grappling with the destabilizing effects of ongoing strikes by Iran-backed Houthi militants in Yemen, which have hit targets including the PIF tower, Riyadh Airport and the country's largest oil refinery. The danger forced the Kingdom to call off its big international investor conference, dubbed "Davos in the Desert," which was due to be attended by some of the biggest figures in global finance in November.
+"The human cost of crisis has been real, and so has been the economic cost," Alibrahim told CNBC.
+Alibrahim said infrastructure investments had allowed the Kingdom's energy sector to restore production to near pre-crisis levels. It has meanwhile moved its import and export hub from the east to the west of the country via land-based transport due to the airport strikes, which has restored cargo levels.
+He added that the attacks highlight the importance of diversification to the Saudi economy.
+Real GDP contracted by 3.8% in the third quarter, according to government figures, with oil activities down 20.4% year-on-year partially offset by a 1.9% rise in non-oil activities. Net foreign direct investment inflows dropped 19.5% year-on-year in the second quarter.
+The Saudi Ministry of Finance expects an overall contraction of around 2.1% this year and a rebound of 10.9% next year.
+Advisory group Oxford Economics forecasts a more negative outlook. It sees the Saudi economy shrinking 3.4% this year and by 4% in 2027, amid escalating attacks on energy infrastructure even as a new minimum wage and continued Vision 2030 spending are expected to support incomes and domestic demand.
+Akanksha Samdani, lead economist at Oxford Economics, said Vision 2030 was entering a new phase focused on returns.
+"The government is managing fiscal pressures and shifting budgetary spending towards essential services and strategic priorities, while PIF is becoming more selective in its capital allocation and seeking greater private-sector participation," Samdani said, adding that some giga projects are being scaled back or delayed, while investment continues in sectors such as manufacturing, logistics, tourism, mining and technology.
+"Our forecasts already assume that some of the Vision 2030 targets will be achieved later than originally planned. But the overarching goal of economic diversification remains unchanged," Samdani told CNBC by email.
+Neil Quilliam, managing director of consultancy Azure Strategy, said investors are assessing whether Houthi attacks demonstrate a persistent vulnerability that could increase the cost and complexity of delivering Vision 2030.
+"They have repeatedly demonstrated an ability to target important economic infrastructure and expose weaknesses in Saudi air defences," he told CNBC, with the attacks challenging the "assumption that Saudi Arabia has insulated itself from regional instability."
+The economic impact of the strikes will be less about physical damage and more about whether they affect confidence in Saudi Arabia as a destination for tourism, entertainment and sports, a key part of Vision 2030 and a source of foreign capital and expatriate talent, he added.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html",
+    publishedAt: "2026-11-28T06:00:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "africa-s-richest-man-is-taking-his-mega-a9091caf",
+    title: "Africa’s richest man is taking his mega-refinery public in a blockbuster IPO",
+    titleJa: "Africa’s richest man is taking his mega-refinery public in a blockbuster IPO",
+    summaryJa: "Dangote Refinery’s IPO could value the company at about $47 billion, in what is expected to be Africa’s biggest stock market listing.",
+    bodyOriginal: `One of the world's largest oil refineries is set to become Africa's biggest public firm in a highly anticipated offering that the continent's richest man has marketed as an "IPO for the people."
+Dangote Petroleum Refinery and Petrochemicals FZE, founded by Nigerian billionaire Aliko Dangote, is expected to begin trading in Lagos on Dec. 1, according to multiple media reports, following regulatory approval. A Dangote Refinery spokesperson did not respond to a CNBC request for comment.
+The IPO of a minority stake in the refinery has reportedly been heavily oversubscribed, with investors from 120 countries and all 54 African countries applying to buy shares, Dangote Refinery said. The shares were offered at 525 naira ($0.39).
+Reuters' calculations put Dangote Refinery's IPO-implied valuation at about $47 billion, based on the offer price and the company's registered share count. That would make it the biggest stock market listing Africa has ever seen.
+The Lagos-based refinery is regarded as a crown jewel of Nigeria's energy industry given the facility's role in transforming the oil-rich country's fuel market since it started operating in 2024.
+"With a minimum subscription of just 10 shares, the offer is designed to give ordinary Nigerians and Africans an opportunity to own a stake in the refinery," Aliko Dangote said at the IPO launch in early September.
+"The IPO is positioned not simply as a capital-raising exercise, but as an opportunity for workers, entrepreneurs and everyday Nigerians to participate in the refinery's future growth," he added.
+Built for around $20 billion, the Dangote Refinery is now one of the largest in the world, with a crude oil distillation capacity of between 650,000 to 700,000 barrels per day.
+It has emerged as a key provider of jet fuel in recent months, with buyers pivoting to West Africa amid Middle Eastern supply disruptions due to the Iran war.
+"In theory, it's a win-win situation," Cyril Widdershoven, a maritime, energy and geopolitical analyst at Blue Water Strategy, told CNBC by phone.
+Dangote Refinery has bolstered its reputation as a key Atlantic Basin facility amid soaring global demand for refined petroleum products, Widdershoven said, and the company intends to double its refining capacity to 1.4 million barrels per day by 2029, which could further strengthen its competitiveness in global markets.
+However, despite the refinery's importance to Nigeria's economy, questions remain over its investment case, Widdershoven said, citing construction costs, commissioning delays, and the possibility that new capacity comes online with weaker margins.
+"Right now it's like Anthropic or Nvidia, you are now buying the hype," Widdershoven said.
+'An extremely strong year'
+The Dangote Refinery has had "an extremely strong year," Mick Strautmann, market analyst at Vortexa, told CNBC by phone.
+Between January and October, Vortexa data showed Dangote's seaborne refined product loadings stood at around 400,000 barrels per day, which is roughly 50% more than the same period last year.
+More recently, however, the facility has seen refined-product loading jump to a record of 575,000 barrels per day through the first three weeks of November, surpassing an October record of 550,000 barrels per day, Strautmann said.
+"It's been able to ramp up quite spectacularly and provide a lot of these products to the market in an extremely high price environment," Strautmann added.
+"So, it's been one of the few places that's adding a lot of fuel supply to the Atlantic Basin, and at the same time, you know, to make West Africa less reliant on imports from other regions, particularly Europe for its gasoline supply," he said.
+David Omojomolo, an emerging market economist focused on Africa at Capital Economics, said the upcoming Dangote Refinery IPO has captured global attention because the facility is seen as a rare example of an industrial policy success story on the African continent.
+"It's been a good news story, and it's been an optimistic one as well," Omojomolo told CNBC.
+"I don't want to be a hostage to fortune and say this time is different … but it does feel like a buzz and it's a question as to does it force other, say, billionaire industrialists to put their money where their mouth is in terms of helping the region's industrialisation prospects," he added.`,
+    bodyJa: `One of the world's largest oil refineries is set to become Africa's biggest public firm in a highly anticipated offering that the continent's richest man has marketed as an "IPO for the people."
+Dangote Petroleum Refinery and Petrochemicals FZE, founded by Nigerian billionaire Aliko Dangote, is expected to begin trading in Lagos on Dec. 1, according to multiple media reports, following regulatory approval. A Dangote Refinery spokesperson did not respond to a CNBC request for comment.
+The IPO of a minority stake in the refinery has reportedly been heavily oversubscribed, with investors from 120 countries and all 54 African countries applying to buy shares, Dangote Refinery said. The shares were offered at 525 naira ($0.39).
+Reuters' calculations put Dangote Refinery's IPO-implied valuation at about $47 billion, based on the offer price and the company's registered share count. That would make it the biggest stock market listing Africa has ever seen.
+The Lagos-based refinery is regarded as a crown jewel of Nigeria's energy industry given the facility's role in transforming the oil-rich country's fuel market since it started operating in 2024.
+"With a minimum subscription of just 10 shares, the offer is designed to give ordinary Nigerians and Africans an opportunity to own a stake in the refinery," Aliko Dangote said at the IPO launch in early September.
+"The IPO is positioned not simply as a capital-raising exercise, but as an opportunity for workers, entrepreneurs and everyday Nigerians to participate in the refinery's future growth," he added.
+Built for around $20 billion, the Dangote Refinery is now one of the largest in the world, with a crude oil distillation capacity of between 650,000 to 700,000 barrels per day.
+It has emerged as a key provider of jet fuel in recent months, with buyers pivoting to West Africa amid Middle Eastern supply disruptions due to the Iran war.
+"In theory, it's a win-win situation," Cyril Widdershoven, a maritime, energy and geopolitical analyst at Blue Water Strategy, told CNBC by phone.
+Dangote Refinery has bolstered its reputation as a key Atlantic Basin facility amid soaring global demand for refined petroleum products, Widdershoven said, and the company intends to double its refining capacity to 1.4 million barrels per day by 2029, which could further strengthen its competitiveness in global markets.
+However, despite the refinery's importance to Nigeria's economy, questions remain over its investment case, Widdershoven said, citing construction costs, commissioning delays, and the possibility that new capacity comes online with weaker margins.
+"Right now it's like Anthropic or Nvidia, you are now buying the hype," Widdershoven said.
+'An extremely strong year'
+The Dangote Refinery has had "an extremely strong year," Mick Strautmann, market analyst at Vortexa, told CNBC by phone.
+Between January and October, Vortexa data showed Dangote's seaborne refined product loadings stood at around 400,000 barrels per day, which is roughly 50% more than the same period last year.
+More recently, however, the facility has seen refined-product loading jump to a record of 575,000 barrels per day through the first three weeks of November, surpassing an October record of 550,000 barrels per day, Strautmann said.
+"It's been able to ramp up quite spectacularly and provide a lot of these products to the market in an extremely high price environment," Strautmann added.
+"So, it's been one of the few places that's adding a lot of fuel supply to the Atlantic Basin, and at the same time, you know, to make West Africa less reliant on imports from other regions, particularly Europe for its gasoline supply," he said.
+David Omojomolo, an emerging market economist focused on Africa at Capital Economics, said the upcoming Dangote Refinery IPO has captured global attention because the facility is seen as a rare example of an industrial policy success story on the African continent.
+"It's been a good news story, and it's been an optimistic one as well," Omojomolo told CNBC.
+"I don't want to be a hostage to fortune and say this time is different … but it does feel like a buzz and it's a question as to does it force other, say, billionaire industrialists to put their money where their mouth is in terms of helping the region's industrialisation prospects," he added.`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/28/dangote-refinery-oil-ipo-nigeria-africa-energy.html",
+    publishedAt: "2026-11-28T06:00:01+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "eight-killed-in-peruvian-military-helico-a45bd669",
+    title: "Eight killed in Peruvian military helicopter crash",
+    titleJa: "Eight killed in Peruvian military helicopter crash",
+    summaryJa: "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+    bodyOriginal: `Eight killed in Peruvian military helicopter crash
+- Published
+Eight military personnel have been killed in a helicopter crash in a remote area of Peru known for growing and trafficking drugs.
+Authorities say the aircraft came down near the town of Sanabamba during a mission to evacuate an army patrol in the valley of the Apurimac, Ene, and Mantaro rivers, known by its Spanish acronym VRAEM.
+Often referred to as 'Cocaine Valley', the area is Peru's largest coca-growing valley where gangs and the remnants of the former Shining Path rebel group operate.
+The Peruvian ministry of defence said the pilot was the sole survivor of the crash, the cause of which is still unknown.
+In its statement, the ministry said "search and rescue operations located the aircraft and the nine military personnel who were on board".
+It named the pilot as Enzo Espinoza Roque and said he was evacuated to Lima to "receive specialised medical treatment".
+The aircraft was reported missing on Thursday night after rescuing three army personnel.
+No further information was shared about why the group needed to be rescued, but it was confirmed that they were among those who were killed in the crash.
+Joint Command of the Peruvian Armed Forces posted a tribute online extending "deepest condolences to the family members, friends, and comrades-in-arms of the members of our VRAEM Special Command who lost their lives while carrying out a military mission. May God keep them in His glory".
+In February, a MI-17 helicopter crashed in southern Peru in February killing all 15 on board.
+Peru, along with Colombia, is one of the world's largest producers of coca leaves and cocaine, according to the United Nations.
+Related topics
+- Published23 February
+- Published15 November`,
+    bodyJa: `Eight killed in Peruvian military helicopter crash
+- Published
+Eight military personnel have been killed in a helicopter crash in a remote area of Peru known for growing and trafficking drugs.
+Authorities say the aircraft came down near the town of Sanabamba during a mission to evacuate an army patrol in the valley of the Apurimac, Ene, and Mantaro rivers, known by its Spanish acronym VRAEM.
+Often referred to as 'Cocaine Valley', the area is Peru's largest coca-growing valley where gangs and the remnants of the former Shining Path rebel group operate.
+The Peruvian ministry of defence said the pilot was the sole survivor of the crash, the cause of which is still unknown.
+In its statement, the ministry said "search and rescue operations located the aircraft and the nine military personnel who were on board".
+It named the pilot as Enzo Espinoza Roque and said he was evacuated to Lima to "receive specialised medical treatment".
+The aircraft was reported missing on Thursday night after rescuing three army personnel.
+No further information was shared about why the group needed to be rescued, but it was confirmed that they were among those who were killed in the crash.
+Joint Command of the Peruvian Armed Forces posted a tribute online extending "deepest condolences to the family members, friends, and comrades-in-arms of the members of our VRAEM Special Command who lost their lives while carrying out a military mission. May God keep them in His glory".
+In February, a MI-17 helicopter crashed in southern Peru in February killing all 15 on board.
+Peru, along with Colombia, is one of the world's largest producers of coca leaves and cocaine, according to the United Nations.
+Related topics
+- Published23 February
+- Published15 November`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-28T04:19:16+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/b54be270-eadc-11f1-81da-2ff518b71d00.jpg",
+    readTime: 4,
+  },
+  {
+    id: "turkish-officials-destroyed-pro-oppositi-be6b98f7",
+    title: "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+    titleJa: "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+    summaryJa: "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+    bodyOriginal: `Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC
+- Published
+Turkish authorities have "destroyed" one of the country's most-watched news channels, its London-based owner has told the BBC.
+Speaking to the BBC's Newshour, Cafer Mahiroğlu said that nine people connected to Halk TV were arrested this week on charges including money laundering, bribery and spreading misleading information.
+Mahiroğlu said that several of his family members were among those arrested when the pro-opposition channel was taken into government control last month, adding that the allegations against him and Halk TV are "completely wrong".
+The Istanbul Chief Public Prosecutor' Office said that two former news anchors of the channel were among the most recent group of people detained.
+In a statement, prosecutors accused the anchors of producing "false reports" in exchange for money.
+Authorities have also issued an arrest warrant for the channel's news coordinator Kürşad Oğuz who is "abroad", the statement said, without specifying where.
+Mahiroğlu told the BBC that he could be sent to prison if he tried to return to Turkey.
+"[The government] wants to be in control of the whole media... I'm more worried about my country and my democracy than my channel," he said.
+The headquarters of Halk TV was raided by Turkish authorities last month, halting the channel's live broadcasts, the latest in a series of crackdowns on news sources deemed to be critical of Turkish President Tayyip Erdoğan and his administration.
+The government subsequently appointed a new administrator to run the channel.
+Erdoğan's government controls much of the country's media, which ranks among the worst globally for press freedom, external, though the government insists that it does not detain media workers for carrying out journalistic activities.
+However, the president has scaled up a crackdown on dissent since his narrow victory in the 2023 presidential election.
+Earlier this month, authorities took control of pro-opposition network Sozcu TV.
+Erdoğan's main challenger, mayor of Istanbul Ekrem Imamoğlu, has been jailed on corruption charges and for violating election laws, which he and his party have fiercely denied.
+Hundreds of Imamoğlu's supporters have faced similar accusations, while the government has also imprisoned other campaigners, lawyers and comedians.
+Related topics
+- Published24 March 2025`,
+    bodyJa: `Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC
+- Published
+Turkish authorities have "destroyed" one of the country's most-watched news channels, its London-based owner has told the BBC.
+Speaking to the BBC's Newshour, Cafer Mahiroğlu said that nine people connected to Halk TV were arrested this week on charges including money laundering, bribery and spreading misleading information.
+Mahiroğlu said that several of his family members were among those arrested when the pro-opposition channel was taken into government control last month, adding that the allegations against him and Halk TV are "completely wrong".
+The Istanbul Chief Public Prosecutor' Office said that two former news anchors of the channel were among the most recent group of people detained.
+In a statement, prosecutors accused the anchors of producing "false reports" in exchange for money.
+Authorities have also issued an arrest warrant for the channel's news coordinator Kürşad Oğuz who is "abroad", the statement said, without specifying where.
+Mahiroğlu told the BBC that he could be sent to prison if he tried to return to Turkey.
+"[The government] wants to be in control of the whole media... I'm more worried about my country and my democracy than my channel," he said.
+The headquarters of Halk TV was raided by Turkish authorities last month, halting the channel's live broadcasts, the latest in a series of crackdowns on news sources deemed to be critical of Turkish President Tayyip Erdoğan and his administration.
+The government subsequently appointed a new administrator to run the channel.
+Erdoğan's government controls much of the country's media, which ranks among the worst globally for press freedom, external, though the government insists that it does not detain media workers for carrying out journalistic activities.
+However, the president has scaled up a crackdown on dissent since his narrow victory in the 2023 presidential election.
+Earlier this month, authorities took control of pro-opposition network Sozcu TV.
+Erdoğan's main challenger, mayor of Istanbul Ekrem Imamoğlu, has been jailed on corruption charges and for violating election laws, which he and his party have fiercely denied.
+Hundreds of Imamoğlu's supporters have faced similar accusations, while the government has also imprisoned other campaigners, lawyers and comedians.
+Related topics
+- Published24 March 2025`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-28T04:13:45+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3aaf/live/e29d41d0-ead0-11f1-b97f-cdd549897b30.jpg",
+    readTime: 6,
+  },
+  {
+    id: "poison-seller-kenneth-law-apologises-in-bcd9c26d",
+    title: "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+    titleJa: "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+    summaryJa: "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+    bodyOriginal: `'Poison seller' Kenneth Law apologises in court to the families of his victims
+- Published
+The Canadian man who sold toxic chemicals through online suicide forums in 40 countries apologised in court to the families of the victims, saying he deeply regrets his actions and will never repeat them.
+Kenneth Law made the remarks on Friday during a sentencing hearing where prosecutors asked a judge to give him a 25-year prison term.
+The 61-year-old pleaded guilty in May to 14 counts of aiding the suicide deaths of 14 people in Ontario, Canada, though he has admitted to causing the deaths of dozens of victims in England and Wales.
+He will not face charges in the UK or over any British deaths under a plea deal which saw Canadian authorities withdraw more serious charges of murder.
+During Friday's sentencing hearing in an Ontario court, prosecutors stressed that many of his victims were young and struggling with mental distress.
+If Law receives the prosecution's recommended sentence, he would serve just under 20 years in prison, after accounting for credit for time served since his May 2023 arrest.
+As she sought to make her case in court on Friday, Crown Attorney Kathleen Doherty described Law as a predator taking advantage of "vulnerable people".
+"What they needed was help. But what they found was Mr Law and his products for death," Doherty said.
+She also said Law's motives were financial.
+"If people could pay, he sold it to them. There's no discussion or inquiries or anything going on whereby Mr Law would have any ability to appreciate the circumstances of the individual he was dealing with," she said.
+Law's defence lawyer, Matthew Gourlay, countered those claims, arguing that his client was not responsible for any of their battles with mental illness..
+"Each of these incidents is its own unique tragedy," Gourlay said. "Mr Law may be a common denominator between them, but Mr Law was not the cause of the struggles and hardships that caused all these victims to seek out his products in the first place."
+He said Law held a "misguided belief" he was helping his victims
+Law's defence attorney has asked the court to give him a 12-year sentence.
+At the end of the hearing, Law told the court that he had deep regret for aiding in the suicide deaths of his victims.
+"To the families of the victims, words can never replace the loss of your loved ones. I convey my deepest condolences. I remain remorseful. I'm sorry."
+The sentencing hearing followed an emotional few days of testimony in September, when grieving family members and friends told the court of the pain Law had caused.
+Those impact statements will be taken into account at sentencing, which is due at a later date.
+Authorities said the former chef sold about 1,200 packages of toxic substances to recipients - who he met in online suicide forums - in 40 countries, roughly a quarter of which were sent to the UK.
+If you or anyone you know has been affected by the issues raised in this article, details of organisations offering information are available at BBC Action Line
+Related topics
+- Published23 September`,
+    bodyJa: `'Poison seller' Kenneth Law apologises in court to the families of his victims
+- Published
+The Canadian man who sold toxic chemicals through online suicide forums in 40 countries apologised in court to the families of the victims, saying he deeply regrets his actions and will never repeat them.
+Kenneth Law made the remarks on Friday during a sentencing hearing where prosecutors asked a judge to give him a 25-year prison term.
+The 61-year-old pleaded guilty in May to 14 counts of aiding the suicide deaths of 14 people in Ontario, Canada, though he has admitted to causing the deaths of dozens of victims in England and Wales.
+He will not face charges in the UK or over any British deaths under a plea deal which saw Canadian authorities withdraw more serious charges of murder.
+During Friday's sentencing hearing in an Ontario court, prosecutors stressed that many of his victims were young and struggling with mental distress.
+If Law receives the prosecution's recommended sentence, he would serve just under 20 years in prison, after accounting for credit for time served since his May 2023 arrest.
+As she sought to make her case in court on Friday, Crown Attorney Kathleen Doherty described Law as a predator taking advantage of "vulnerable people".
+"What they needed was help. But what they found was Mr Law and his products for death," Doherty said.
+She also said Law's motives were financial.
+"If people could pay, he sold it to them. There's no discussion or inquiries or anything going on whereby Mr Law would have any ability to appreciate the circumstances of the individual he was dealing with," she said.
+Law's defence lawyer, Matthew Gourlay, countered those claims, arguing that his client was not responsible for any of their battles with mental illness..
+"Each of these incidents is its own unique tragedy," Gourlay said. "Mr Law may be a common denominator between them, but Mr Law was not the cause of the struggles and hardships that caused all these victims to seek out his products in the first place."
+He said Law held a "misguided belief" he was helping his victims
+Law's defence attorney has asked the court to give him a 12-year sentence.
+At the end of the hearing, Law told the court that he had deep regret for aiding in the suicide deaths of his victims.
+"To the families of the victims, words can never replace the loss of your loved ones. I convey my deepest condolences. I remain remorseful. I'm sorry."
+The sentencing hearing followed an emotional few days of testimony in September, when grieving family members and friends told the court of the pain Law had caused.
+Those impact statements will be taken into account at sentencing, which is due at a later date.
+Authorities said the former chef sold about 1,200 packages of toxic substances to recipients - who he met in online suicide forums - in 40 countries, roughly a quarter of which were sent to the UK.
+If you or anyone you know has been affected by the issues raised in this article, details of organisations offering information are available at BBC Action Line
+Related topics
+- Published23 September`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-28T00:56:55+00:00",
+    category: "貿易",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg",
+    readTime: 8,
+  },
+  {
+    id: "inflation-has-shoppers-hunting-for-value-2832b0c1",
+    title: "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+    titleJa: "Inflation has shoppers hunting for value. That bodes well for Black Friday",
+    summaryJa: "Even as consumers face macroeconomic headwinds, retailers are expecting robust holiday spending through Black Friday and beyond.",
+    bodyOriginal: `Economic headwinds have made consumers more cautious — but new data and reports from retailers are painting a picture of robust holiday spending through Black Friday and beyond.
+The macroeconomic environment has squeezed wallets. High inflation, fluctuating gas prices and labor uncertainty have dampened consumer sentiment and contributed to a pullback in spending. October's consumer price index rose a seasonally adjusted 0.4%, coming in higher than expected, while the personal consumption expenditures price index accelerated to a seasonally adjusted 3.8% in October compared with last year. Meanwhile, October retail sales grew at their slowest pace in nearly a year, according to the CNBC/NRF Retail Monitor.
+The Conference Board's Consumer Confidence Index slid to its lowest since 2014 in September, with respondents citing concerns about inflation and the job market. It's translated into caution from some retailers like Walmart and Lowe's, which have reported slower sales, smaller baskets and drops in big-ticket and discretionary purchases.
+Despite that pullback, recent earnings reports and end-of-year forecasts suggest consumers are still willing to shell out for the holidays.
+Planned spending on gifts and nongifts is estimated to be $1,049 on average this year, up 5.9% from $990 last year, according to The Conference Board. Adjusting for inflation, that figure is still up 3.2% year over year.
+Holiday sales are expected to top $1 trillion this year, but that growth is boosted by inflation. Though consumers have said they're willing to spend, experts have noted that shoppers are still emphasizing value and looking for deals where they can. Adobe data found that in the first 22 days of November — what it considers the beginning of the holiday season — consumers spent $82.5 billion online, marking a 9.1% year-over-year increase.
+That's translating to the Black Friday and Cyber Monday week, too, as consumers take advantage of deals that started days before the traditional Friday blitz. Salesforce is predicting a record-breaking holiday week between Nov. 24 and Nov. 30, as it expects online sales to reach $357 billion globally and $84 billion in the U.S., both marking 6% year-over-year increases.
+The report also found that retailers are offering bigger markdowns than last year, with discount rates up 8% in the U.S. in November.
+And according to Deloitte's Black Friday survey, participation in the shopping holiday this year is expected to be the highest seen since 2016, with 87% of shoppers reporting they plan to buy during Black Friday and Cyber Monday sales.
+That number is up from 82% in 2025. Consumers are expecting to spend an average of $624 this holiday, similar to last year's numbers, and Generation Z is going all in on those deals, according to Deloitte, which surveyed 1,200 consumers in mid-October. That echoes similar behavior from the cohort last year.
+"It's sort of the mix of feeling the squeeze on prices, people thinking about their economic condition and their financial position, but still wanting to protect the holidays," Brian McCarthy, retail strategy lead at Deloitte, told CNBC in an interview.
+He added that even as shoppers pulled back on spending over the past few months and delayed big purchases, that spend is now being more heavily concentrated into promotional windows like the holiday season. They're searching for more deals, becoming more savvy and deferring some spending.
+The Deloitte data also found that 40% of Gen Z shoppers plan to use buy now, pay later for their shopping this holiday season.
+"People do care about the holidays and want to make sure they can buy those gifts to share with their friends and family, but it's another way of deferring when they're going to have to pay for that item," McCarthy said.
+Retailers see continued spending
+On the other side of the cash register, retailers are expecting similar holiday shopping behavior and reported optimism about the consumer in earnings reports over the past two weeks.
+Walmart CFO John David Rainey told CNBC last week that the company is continuing to see a resilient consumer. The retailer is leaning into value with rollbacks and deals, and Rainey said the holiday quarter was "off to a pretty good start" as macroeconomic trends start to show signs of potential improvement.
+"The fact remains that payrolls are healthy, the equity markets are holding up in the face of geopolitical uncertainty, and even though consumer sentiment is somewhat lower, it hasn't translated into reduced economic output," Rainey said.
+Target executives also said last week that the retailer is optimistic about holiday spending this season. The company is pricing thousands of products at $5 and under and investing in elevated products while prioritizing low prices, they said.
+"We're encouraged by the start of the quarter that we've seen so far," CEO Michael Fiddelke told reporters following the company's third-quarter earnings report. "We're really excited for what guests are going to find at Target this holiday season."
+Best Buy CEO Jason Bonfig told CNBC on Tuesday that while the company is seeing consumers place higher emphasis on value, those shoppers are also looking to upgrade products, sometimes into "more premium price points."
+Lowe's is also expecting a solid holiday season, with CEO Marvin Ellison telling CNBC last week that the company's November sales to date are in line with its expectations. The home improvement company is also emphasizing deals for customers who may be more price-conscious, but Ellison said he's still "optimistic."
+Executives at TJX Companies, a retailer known for its value proposition, said on an earnings call with analysts last week that the company is expecting sales momentum to accelerate throughout the holiday season.
+"In the current environment, we believe value will be top of mind for many consumers this holiday season," CEO Ernie Herrman said on the call.
+Still, TJX said warmer weather in the beginning of the fourth quarter led to a sales slowdown. The company also reported weak fourth-quarter guidance, coming in below Wall Street expectations for earnings and same-store sales. Competitor Burlington Stores also posted weak sales and provided a lower-than-expected outlook.
+Gap Inc. saw a similar trend. CEO Richard Dickson told CNBC that the company's sales lagged at the beginning of the quarter due to warmer weather. The retailer posted flat comparable sales for its fiscal third quarter last week and reported sinking sales at its Athleta and Banana Republic banners. It also lowered its guidance.
+But Dickson said the retailer is optimistic about colder weather beginning to drive spending again.
+"We're entering the peak holiday season and selling weeks with pent-up demand and hopefully maintained good weather for shopping," Dickson said. "This could be, and would be, a source of upside."`,
+    bodyJa: `Economic headwinds have made consumers more cautious — but new data and reports from retailers are painting a picture of robust holiday spending through Black Friday and beyond.
+The macroeconomic environment has squeezed wallets. High inflation, fluctuating gas prices and labor uncertainty have dampened consumer sentiment and contributed to a pullback in spending. October's consumer price index rose a seasonally adjusted 0.4%, coming in higher than expected, while the personal consumption expenditures price index accelerated to a seasonally adjusted 3.8% in October compared with last year. Meanwhile, October retail sales grew at their slowest pace in nearly a year, according to the CNBC/NRF Retail Monitor.
+The Conference Board's Consumer Confidence Index slid to its lowest since 2014 in September, with respondents citing concerns about inflation and the job market. It's translated into caution from some retailers like Walmart and Lowe's, which have reported slower sales, smaller baskets and drops in big-ticket and discretionary purchases.
+Despite that pullback, recent earnings reports and end-of-year forecasts suggest consumers are still willing to shell out for the holidays.
+Planned spending on gifts and nongifts is estimated to be $1,049 on average this year, up 5.9% from $990 last year, according to The Conference Board. Adjusting for inflation, that figure is still up 3.2% year over year.
+Holiday sales are expected to top $1 trillion this year, but that growth is boosted by inflation. Though consumers have said they're willing to spend, experts have noted that shoppers are still emphasizing value and looking for deals where they can. Adobe data found that in the first 22 days of November — what it considers the beginning of the holiday season — consumers spent $82.5 billion online, marking a 9.1% year-over-year increase.
+That's translating to the Black Friday and Cyber Monday week, too, as consumers take advantage of deals that started days before the traditional Friday blitz. Salesforce is predicting a record-breaking holiday week between Nov. 24 and Nov. 30, as it expects online sales to reach $357 billion globally and $84 billion in the U.S., both marking 6% year-over-year increases.
+The report also found that retailers are offering bigger markdowns than last year, with discount rates up 8% in the U.S. in November.
+And according to Deloitte's Black Friday survey, participation in the shopping holiday this year is expected to be the highest seen since 2016, with 87% of shoppers reporting they plan to buy during Black Friday and Cyber Monday sales.
+That number is up from 82% in 2025. Consumers are expecting to spend an average of $624 this holiday, similar to last year's numbers, and Generation Z is going all in on those deals, according to Deloitte, which surveyed 1,200 consumers in mid-October. That echoes similar behavior from the cohort last year.
+"It's sort of the mix of feeling the squeeze on prices, people thinking about their economic condition and their financial position, but still wanting to protect the holidays," Brian McCarthy, retail strategy lead at Deloitte, told CNBC in an interview.
+He added that even as shoppers pulled back on spending over the past few months and delayed big purchases, that spend is now being more heavily concentrated into promotional windows like the holiday season. They're searching for more deals, becoming more savvy and deferring some spending.
+The Deloitte data also found that 40% of Gen Z shoppers plan to use buy now, pay later for their shopping this holiday season.
+"People do care about the holidays and want to make sure they can buy those gifts to share with their friends and family, but it's another way of deferring when they're going to have to pay for that item," McCarthy said.
+Retailers see continued spending
+On the other side of the cash register, retailers are expecting similar holiday shopping behavior and reported optimism about the consumer in earnings reports over the past two weeks.
+Walmart CFO John David Rainey told CNBC last week that the company is continuing to see a resilient consumer. The retailer is leaning into value with rollbacks and deals, and Rainey said the holiday quarter was "off to a pretty good start" as macroeconomic trends start to show signs of potential improvement.
+"The fact remains that payrolls are healthy, the equity markets are holding up in the face of geopolitical uncertainty, and even though consumer sentiment is somewhat lower, it hasn't translated into reduced economic output," Rainey said.
+Target executives also said last week that the retailer is optimistic about holiday spending this season. The company is pricing thousands of products at $5 and under and investing in elevated products while prioritizing low prices, they said.
+"We're encouraged by the start of the quarter that we've seen so far," CEO Michael Fiddelke told reporters following the company's third-quarter earnings report. "We're really excited for what guests are going to find at Target this holiday season."
+Best Buy CEO Jason Bonfig told CNBC on Tuesday that while the company is seeing consumers place higher emphasis on value, those shoppers are also looking to upgrade products, sometimes into "more premium price points."
+Lowe's is also expecting a solid holiday season, with CEO Marvin Ellison telling CNBC last week that the company's November sales to date are in line with its expectations. The home improvement company is also emphasizing deals for customers who may be more price-conscious, but Ellison said he's still "optimistic."
+Executives at TJX Companies, a retailer known for its value proposition, said on an earnings call with analysts last week that the company is expecting sales momentum to accelerate throughout the holiday season.
+"In the current environment, we believe value will be top of mind for many consumers this holiday season," CEO Ernie Herrman said on the call.
+Still, TJX said warmer weather in the beginning of the fourth quarter led to a sales slowdown. The company also reported weak fourth-quarter guidance, coming in below Wall Street expectations for earnings and same-store sales. Competitor Burlington Stores also posted weak sales and provided a lower-than-expected outlook.
+Gap Inc. saw a similar trend. CEO Richard Dickson told CNBC that the company's sales lagged at the beginning of the quarter due to warmer weather. The retailer posted flat comparable sales for its fiscal third quarter last week and reported sinking sales at its Athleta and Banana Republic banners. It also lowered its guidance.
+But Dickson said the retailer is optimistic about colder weather beginning to drive spending again.
+"We're entering the peak holiday season and selling weeks with pent-up demand and hopefully maintained good weather for shopping," Dickson said. "This could be, and would be, a source of upside."`,
+    source: "CNBC",
+    sourceUrl: "https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html",
+    publishedAt: "2026-11-27T22:00:57+00:00",
+    category: "エネルギー",
+    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
+    readTime: 10,
+  },
+  {
+    id: "spanish-pm-and-rivals-rally-supporters-i-91c209f1",
+    title: "Spanish PM and rivals rally supporters in final pitch for votes",
+    titleJa: "Spanish PM and rivals rally supporters in final pitch for votes",
+    summaryJa: "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+    bodyOriginal: `Spanish PM and rivals rally supporters in final pitch for votes
+- Published
+Spain's main party leaders have held their final rallies ahead of Sunday's election, with Socialist Prime Minister Pedro Sánchez saying he is confident of defying the polls.
+"I cannot imagine us losing," he said, posing for selfies with supporters in red T-shirts and accusing conservative rival Alberto Núñez Feijóo of planning a coalition with the far right.
+Feijóo's People's Party (PP) is narrowly ahead in the polls, and in the final hours of the campaign he travelled first to Barcelona and then Seville, promising voters a new political era of "truth, decency and good governance".
+He accused Sánchez of evading questions on key issues like corruption, rail disasters, immigration and the national debt.
+The Socialist leader heads one of Europe's few left-wing governments, and with the French presidential elections five months away, there is a real chance that two of the continent's biggest economies could move to the right in quick succession.
+Almost 39 million people have a vote in Spain and while commentators expect a high turnout, most polls have suggested a close finish. Under Spanish electoral law, no polls have been published since Monday.
+"This time, yes, we're going to do it," Feijóo told PP supporters, in a nod to his failure to form a government three years ago despite winning most seats.
+If he gets to form a government this time, it will be with the support of anti-immigration party Vox, led by Santiago Abascal, whose final rally took place in front of thousands of people in a bull-ring in Valencia on Spain's east coast.
+The venue was filled with Spanish flags and green Vox banners, and one of the biggest cheers of the night came when the secretary general of the party called for "less burka and less halal".
+Ignacio Garriga said he was not acting out of hatred but love for the homeland.
+A small section of the crowd could be heard chanting "Viva Franco" in reference to the dictator, whose death in 1975 heralded the start of Spain's transition to democracy.
+A number of first-time voters at the rally said they were supporting Vox because of its policies on immigration.
+Lledó, 18, said what had happened in Ceuta in the summer, when more than 70,000 migrants crossed into the Spanish territory from Morocco, showed Sánchez was not able to control the country's border.
+She had come to the bullring with her mum and aunt, Carli Chilet, who argued that Vox "are the best for women's rights".
+Vox is hoping to almost double its seats from the 33 it won three years ago. It backs policies such as "national priority" - putting Spanish citizens first for welfare - and "remigration" for foreigners not considered to be contributing to the economy.
+Leaders clash in final Spain election debate as housing dominates run-in
+- Published1 day ago
+Spanish election: What you need to know and what's at stake
+- Published18 hours ago
+Who to watch in Spain's election race
+- Published18 hours ago
+Clashing political visions reflect a divided Spain ahead of election
+- Published3 days ago
+The final day of campaigning was very much in the shadow of a four-way TV debate the night before that exposed Spain's sharply polarised politics.
+All four leaders had solutions for the housing crisis. Feijóo said the PP would build a million homes over four years, while Sánchez said housing should be a right not an object of speculation and profit.
+While the conservatives tried to turn the spotlight on the series of scandals that have overshadowed the Socialists' term in office, Sánchez and his left-wing ally Ada Colau, who heads Frente Amplio (The Broad Front), focused on women's rights.
+The two leaders seized on a moment in the debate when the PP leader accused Colau and the rest of the left of staying quiet during a flood disaster in Valencia, briefly moving his finger to his lips. The word he used "calladita" is a diminutive and can also be used to tell a woman to "keep quiet" in a condescending manner.
+Sánchez reacted immediately and called on him to show "a little respect", accusing him of sexism.
+Feijóo sought to clarify what he meant on Friday, and accused Ada Colau of remaining silent during "these years of corruption". His decision to wind up his campaign in Seville was significant, because the wider southern region of Andalusia has 61 seats in Spain's 350-seat parliament, more than any other.
+Andalusia is also important because it is run by a coalition made up of the PP and Abascal's Vox, as are three other regions, Extremadura, Aragón, and Castilla y León.
+Feijóo has insisted he wants to govern with a majority, backed up by "parliamentary support agreements" with Vox and says he has never spoken to Abascal about giving Vox ministerial power.
+"Governing is about managing, and I have spent my whole life preparing for this moment," he said in Seville.
+One of his new supporters at the rally was a retired woman called Isabel who told Spanish public broadvaster RTVE that she was attending a PP rally for the first time. The formerly loyal Socialist voter said she was "disillusioned" with a party led by Sánchez. Another voter at the rally said Spain needed "a good manager".
+Sánchez took to the stage in Madrid with his wife Begoña Gómez, and donned a red T-shirt that read "power of the people".
+He then went on to praise Colau and her left-wing coalition's campaign.
+"These elections are about moving Spain forward, not taking it backwards," he said.
+Socialist supporter Leon Felipe, 25, told Reuters news agency: "Well, I think what's at stake in these elections is a big deal, is not a change of government... but rather a return to the past - a return to Franco's dictatorship.
+"So, I believe that young must mobilise."
+As he was speaking, Colau told a large audience in the south of Madrid that not only would they "not remain silent, we will win", vowing to form another "progressive government".`,
+    bodyJa: `Spanish PM and rivals rally supporters in final pitch for votes
+- Published
+Spain's main party leaders have held their final rallies ahead of Sunday's election, with Socialist Prime Minister Pedro Sánchez saying he is confident of defying the polls.
+"I cannot imagine us losing," he said, posing for selfies with supporters in red T-shirts and accusing conservative rival Alberto Núñez Feijóo of planning a coalition with the far right.
+Feijóo's People's Party (PP) is narrowly ahead in the polls, and in the final hours of the campaign he travelled first to Barcelona and then Seville, promising voters a new political era of "truth, decency and good governance".
+He accused Sánchez of evading questions on key issues like corruption, rail disasters, immigration and the national debt.
+The Socialist leader heads one of Europe's few left-wing governments, and with the French presidential elections five months away, there is a real chance that two of the continent's biggest economies could move to the right in quick succession.
+Almost 39 million people have a vote in Spain and while commentators expect a high turnout, most polls have suggested a close finish. Under Spanish electoral law, no polls have been published since Monday.
+"This time, yes, we're going to do it," Feijóo told PP supporters, in a nod to his failure to form a government three years ago despite winning most seats.
+If he gets to form a government this time, it will be with the support of anti-immigration party Vox, led by Santiago Abascal, whose final rally took place in front of thousands of people in a bull-ring in Valencia on Spain's east coast.
+The venue was filled with Spanish flags and green Vox banners, and one of the biggest cheers of the night came when the secretary general of the party called for "less burka and less halal".
+Ignacio Garriga said he was not acting out of hatred but love for the homeland.
+A small section of the crowd could be heard chanting "Viva Franco" in reference to the dictator, whose death in 1975 heralded the start of Spain's transition to democracy.
+A number of first-time voters at the rally said they were supporting Vox because of its policies on immigration.
+Lledó, 18, said what had happened in Ceuta in the summer, when more than 70,000 migrants crossed into the Spanish territory from Morocco, showed Sánchez was not able to control the country's border.
+She had come to the bullring with her mum and aunt, Carli Chilet, who argued that Vox "are the best for women's rights".
+Vox is hoping to almost double its seats from the 33 it won three years ago. It backs policies such as "national priority" - putting Spanish citizens first for welfare - and "remigration" for foreigners not considered to be contributing to the economy.
+Leaders clash in final Spain election debate as housing dominates run-in
+- Published1 day ago
+Spanish election: What you need to know and what's at stake
+- Published18 hours ago
+Who to watch in Spain's election race
+- Published18 hours ago
+Clashing political visions reflect a divided Spain ahead of election
+- Published3 days ago
+The final day of campaigning was very much in the shadow of a four-way TV debate the night before that exposed Spain's sharply polarised politics.
+All four leaders had solutions for the housing crisis. Feijóo said the PP would build a million homes over four years, while Sánchez said housing should be a right not an object of speculation and profit.
+While the conservatives tried to turn the spotlight on the series of scandals that have overshadowed the Socialists' term in office, Sánchez and his left-wing ally Ada Colau, who heads Frente Amplio (The Broad Front), focused on women's rights.
+The two leaders seized on a moment in the debate when the PP leader accused Colau and the rest of the left of staying quiet during a flood disaster in Valencia, briefly moving his finger to his lips. The word he used "calladita" is a diminutive and can also be used to tell a woman to "keep quiet" in a condescending manner.
+Sánchez reacted immediately and called on him to show "a little respect", accusing him of sexism.
+Feijóo sought to clarify what he meant on Friday, and accused Ada Colau of remaining silent during "these years of corruption". His decision to wind up his campaign in Seville was significant, because the wider southern region of Andalusia has 61 seats in Spain's 350-seat parliament, more than any other.
+Andalusia is also important because it is run by a coalition made up of the PP and Abascal's Vox, as are three other regions, Extremadura, Aragón, and Castilla y León.
+Feijóo has insisted he wants to govern with a majority, backed up by "parliamentary support agreements" with Vox and says he has never spoken to Abascal about giving Vox ministerial power.
+"Governing is about managing, and I have spent my whole life preparing for this moment," he said in Seville.
+One of his new supporters at the rally was a retired woman called Isabel who told Spanish public broadvaster RTVE that she was attending a PP rally for the first time. The formerly loyal Socialist voter said she was "disillusioned" with a party led by Sánchez. Another voter at the rally said Spain needed "a good manager".
+Sánchez took to the stage in Madrid with his wife Begoña Gómez, and donned a red T-shirt that read "power of the people".
+He then went on to praise Colau and her left-wing coalition's campaign.
+"These elections are about moving Spain forward, not taking it backwards," he said.
+Socialist supporter Leon Felipe, 25, told Reuters news agency: "Well, I think what's at stake in these elections is a big deal, is not a change of government... but rather a return to the past - a return to Franco's dictatorship.
+"So, I believe that young must mobilise."
+As he was speaking, Colau told a large audience in the south of Madrid that not only would they "not remain silent, we will win", vowing to form another "progressive government".`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-27T21:55:53+00:00",
+    category: "マクロ経済",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg",
+    readTime: 10,
+  },
+  {
     id: "these-stocks-soared-the-most-during-a-wi-603de0ec",
     title: "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
     titleJa: "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
@@ -81,6 +509,118 @@ In fact, several European airlines have stopped operating this winter, including
     category: "テクノロジー",
     imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
     readTime: 6,
+  },
+  {
+    id: "zelensky-criticises-strange-trump-putin-fe3c098e",
+    title: "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+    titleJa: "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+    summaryJa: "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+    bodyOriginal: `Zelensky criticises 'strange' Trump-Putin friendship in BBC interview
+- Published
+Volodymyr Zelensky has voiced deep frustration with the US, criticising Donald Trump for calling Vladimir Putin "my friend" and saying delays in delivering vital anti-ballistic missiles were costing Ukrainian lives.
+In an interview with the BBC at his central Kyiv office, Ukraine's president complained the US was not pushing Russia hard enough in peace talks, and called it "strange" that Trump posted a photo of himself embracing Putin.
+"Of course it's up to the president of the United States, but... it's strange," Zelensky said, speaking in English.
+"He's an aggressor, and a killer... He can't be a friend. Just cannot be," he said, adding it was like saying you were friends with Adolf Hitler during World War Two.
+Since a bruising encounter with Trump in the Oval Office in 2025, Zelensky has been careful how he handles relations with the US.
+Trump's two envoys, Jared Kushner and Steve Witkoff, have been trying to negotiate a peace deal between Russia and Ukraine - to end the huge loss of life. But they often seem more in tune with Moscow's position, than that of Kyiv.
+Kushner, Trump's son-in-law, said on Wednesday that Putin had shown "restraint" by not using nuclear weapons in Ukraine. He also described Putin as a "grand master of politics".
+The latest round of peace talks in Abu Dhabi earlier this month made no obvious progress: "The more we know, the more problems", is how Zelensky described it.
+He said talks were expected to resume in December.
+On Thursday, Trump posted on his Truth Social platform that at his own summit with Putin in China last week he had urged Russia to "pull back all military aggression against territories throughout Europe" and said he believed a peace deal with Ukraine was "a strong possibility".
+But from its public statements, Russia appears to have regressed to its initial, hardline negotiating positions – on everything.
+And Zelensky revealed that it was not clear whether European negotiators would be at the table, as the US envoys had announced.
+The Kremlin appears to be resisting.
+Europe ready for talks with Russia on ending war in Ukraine, leaders say
+- Published20 November
+Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend
+- Published6 days ago
+Ukraine urgently needs the talks to move forward and bring five exhausting years of Russia's full-scale invasion to an end.
+Russian strikes across the country have been growing more frequent and more deadly: the number of civilians being killed is at an all-time high.
+So Zelensky called for "real helpful allies, who can push Russia" to achieve results and urged the US to live up to its reputation as a strong country with "power and respect".
+"When you try to be very neutral with the aggressor... it means you support victims and you support also aggressor. It's not right," he said.
+The US argues that it is neutral: in the complex search for a peace deal between the two sides that can hold.
+Questioned again on Thursday about calling Putin a friend, Trump told reporters: "We want to stop killing. I could say he's not a friend... I want to make a deal."
+He added: "I could walk in and say, I don't like you, and then we have the same problem that we have with Zelensky and Putin.
+"You know... the biggest problem to that settlement is the fact that you have two leaders that really hate each other."
+In the meantime, Kyiv is struggling to defend its skies.
+The air alerts, day and night, are now a draining feature of everyday life. As Russian ballistic missiles target power stations and bridges, jet-powered drones are launched daily at central Kyiv and other big cities.
+Ukraine launches hundreds of drones at targets in Russia in response.
+Zelensky said the military here are now able to destroy about 70% of Russia's fastest drones, a statistic he said was improving.
+But there is a "very, very big" deficit of interceptors to stop ballistic missiles and he said the Americans were delaying deliveries of its Patriot systems.
+"It's a pity they made a focus on Middle East and they help them more… It's a pity. We have huge questions with this," Zelensky said.
+"The deficit of these missiles - that is people's lives."
+He also confirmed that the US satellite communications system, Starlink – and its military version, Starshield – were still being restricted in occupied areas of Ukraine.
+Ukrainian drone units have described their problems to the BBC, as their interceptor drones can no longer catch up with Russian Shaheds. It means those weapons then fly deeper into Ukraine, unhindered.
+So whose decision was that?
+"Technically SpaceX, politically - I don't know, I really don't know," Zelensky replied. "It's like... ping pong. We are asking one side, they say it's the other."
+Tough winter
+Ukraine's own long-range strikes against Russian targets have increased in recent weeks, including oil refineries and ships carrying weapons or fuel.
+On Thursday, Italy's Prime Minister Giorgia Meloni said an attack that sank a Russian warship docked in eastern Libya this week risked spreading war to the Mediterranean, which was unacceptable.
+Zelensky defended the move, calling the warship Merkury an "absolutely fair goal".
+He accepted that such strikes were "very dangerous" but said Ukraine's forces "never attack" without co-ordinating with its partners.
+He declined to be more specific.
+But he acknowledged that Ukraine was bracing for a difficult and dangerous winter.
+Recent attacks on Kyiv have targeted bridges over the vast river Dnipro, apparently trying to cut the city in two.
+Some residents have already left town for the winter and businesses closed, as power cuts and strikes on logistics networks have pushed operating costs unmanageably high.
+They have also plunged much of the city into darkness.
+"[Russia] wants us to run away, of course," Zelensky said.
+"People can go, but we will try to defend our capital in any way. We need our capital. Without a capital, you don't have a country."`,
+    bodyJa: `Zelensky criticises 'strange' Trump-Putin friendship in BBC interview
+- Published
+Volodymyr Zelensky has voiced deep frustration with the US, criticising Donald Trump for calling Vladimir Putin "my friend" and saying delays in delivering vital anti-ballistic missiles were costing Ukrainian lives.
+In an interview with the BBC at his central Kyiv office, Ukraine's president complained the US was not pushing Russia hard enough in peace talks, and called it "strange" that Trump posted a photo of himself embracing Putin.
+"Of course it's up to the president of the United States, but... it's strange," Zelensky said, speaking in English.
+"He's an aggressor, and a killer... He can't be a friend. Just cannot be," he said, adding it was like saying you were friends with Adolf Hitler during World War Two.
+Since a bruising encounter with Trump in the Oval Office in 2025, Zelensky has been careful how he handles relations with the US.
+Trump's two envoys, Jared Kushner and Steve Witkoff, have been trying to negotiate a peace deal between Russia and Ukraine - to end the huge loss of life. But they often seem more in tune with Moscow's position, than that of Kyiv.
+Kushner, Trump's son-in-law, said on Wednesday that Putin had shown "restraint" by not using nuclear weapons in Ukraine. He also described Putin as a "grand master of politics".
+The latest round of peace talks in Abu Dhabi earlier this month made no obvious progress: "The more we know, the more problems", is how Zelensky described it.
+He said talks were expected to resume in December.
+On Thursday, Trump posted on his Truth Social platform that at his own summit with Putin in China last week he had urged Russia to "pull back all military aggression against territories throughout Europe" and said he believed a peace deal with Ukraine was "a strong possibility".
+But from its public statements, Russia appears to have regressed to its initial, hardline negotiating positions – on everything.
+And Zelensky revealed that it was not clear whether European negotiators would be at the table, as the US envoys had announced.
+The Kremlin appears to be resisting.
+Europe ready for talks with Russia on ending war in Ukraine, leaders say
+- Published20 November
+Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend
+- Published6 days ago
+Ukraine urgently needs the talks to move forward and bring five exhausting years of Russia's full-scale invasion to an end.
+Russian strikes across the country have been growing more frequent and more deadly: the number of civilians being killed is at an all-time high.
+So Zelensky called for "real helpful allies, who can push Russia" to achieve results and urged the US to live up to its reputation as a strong country with "power and respect".
+"When you try to be very neutral with the aggressor... it means you support victims and you support also aggressor. It's not right," he said.
+The US argues that it is neutral: in the complex search for a peace deal between the two sides that can hold.
+Questioned again on Thursday about calling Putin a friend, Trump told reporters: "We want to stop killing. I could say he's not a friend... I want to make a deal."
+He added: "I could walk in and say, I don't like you, and then we have the same problem that we have with Zelensky and Putin.
+"You know... the biggest problem to that settlement is the fact that you have two leaders that really hate each other."
+In the meantime, Kyiv is struggling to defend its skies.
+The air alerts, day and night, are now a draining feature of everyday life. As Russian ballistic missiles target power stations and bridges, jet-powered drones are launched daily at central Kyiv and other big cities.
+Ukraine launches hundreds of drones at targets in Russia in response.
+Zelensky said the military here are now able to destroy about 70% of Russia's fastest drones, a statistic he said was improving.
+But there is a "very, very big" deficit of interceptors to stop ballistic missiles and he said the Americans were delaying deliveries of its Patriot systems.
+"It's a pity they made a focus on Middle East and they help them more… It's a pity. We have huge questions with this," Zelensky said.
+"The deficit of these missiles - that is people's lives."
+He also confirmed that the US satellite communications system, Starlink – and its military version, Starshield – were still being restricted in occupied areas of Ukraine.
+Ukrainian drone units have described their problems to the BBC, as their interceptor drones can no longer catch up with Russian Shaheds. It means those weapons then fly deeper into Ukraine, unhindered.
+So whose decision was that?
+"Technically SpaceX, politically - I don't know, I really don't know," Zelensky replied. "It's like... ping pong. We are asking one side, they say it's the other."
+Tough winter
+Ukraine's own long-range strikes against Russian targets have increased in recent weeks, including oil refineries and ships carrying weapons or fuel.
+On Thursday, Italy's Prime Minister Giorgia Meloni said an attack that sank a Russian warship docked in eastern Libya this week risked spreading war to the Mediterranean, which was unacceptable.
+Zelensky defended the move, calling the warship Merkury an "absolutely fair goal".
+He accepted that such strikes were "very dangerous" but said Ukraine's forces "never attack" without co-ordinating with its partners.
+He declined to be more specific.
+But he acknowledged that Ukraine was bracing for a difficult and dangerous winter.
+Recent attacks on Kyiv have targeted bridges over the vast river Dnipro, apparently trying to cut the city in two.
+Some residents have already left town for the winter and businesses closed, as power cuts and strikes on logistics networks have pushed operating costs unmanageably high.
+They have also plunged much of the city into darkness.
+"[Russia] wants us to run away, of course," Zelensky said.
+"People can go, but we will try to defend our capital in any way. We need our capital. Without a capital, you don't have a country."`,
+    source: "BBC",
+    sourceUrl: "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+    publishedAt: "2026-11-27T18:00:40+00:00",
+    category: "エネルギー",
+    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg",
+    readTime: 10,
   },
   {
     id: "clearing-out-my-parents-house-was-a-lega-68fd21a2",
@@ -1969,394 +2509,6 @@ Are you a Poundland employee? Tell us your story. Get in touch.`,
     category: "金融政策",
     imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg",
     readTime: 10,
-  },
-  {
-    id: "macy-s-postpones-thanksgiving-day-parade-f736cfca",
-    title: "Macy's postpones Thanksgiving Day Parade due to severe weather",
-    titleJa: "Macy's postpones Thanksgiving Day Parade due to severe weather",
-    summaryJa: "Macy's announced on Wednesday that the annual Thanksgiving Day Parade is being postponed to Saturday due to severe weather.",
-    bodyOriginal: `Macy's on Wednesday announced it's postponing the annual Thanksgiving Day Parade due to severe weather.
-The parade, held each year on Thursday morning, will now take place on Saturday at 8:30 a.m. ET, according to the company. The New York City area is expected to have heavy rain and thunderstorms on Thanksgiving.
-"The safety of our participants and spectators is our top priority, and after close consultation with our city and agency partners, we have made the decision to move this year's celebration," Macy's said in a statement.
-This year's event marks the 100th Macy's Thanksgiving Day Parade. The annual event has never been canceled due to weather, though it was suspended between 1942 and 1944 for World War II.
-The parade's viability this year had been in question after concerns arose over strong winds that could become dangerous for the massive balloons that the event is known for. Many of the balloons had already been inflated as of Wednesday afternoon.
-The postponement also means thousands of volunteers and artists slated to perform will have to adapt to Saturday's schedule.`,
-    bodyJa: `Macy's on Wednesday announced it's postponing the annual Thanksgiving Day Parade due to severe weather.
-The parade, held each year on Thursday morning, will now take place on Saturday at 8:30 a.m. ET, according to the company. The New York City area is expected to have heavy rain and thunderstorms on Thanksgiving.
-"The safety of our participants and spectators is our top priority, and after close consultation with our city and agency partners, we have made the decision to move this year's celebration," Macy's said in a statement.
-This year's event marks the 100th Macy's Thanksgiving Day Parade. The annual event has never been canceled due to weather, though it was suspended between 1942 and 1944 for World War II.
-The parade's viability this year had been in question after concerns arose over strong winds that could become dangerous for the massive balloons that the event is known for. Many of the balloons had already been inflated as of Wednesday afternoon.
-The postponement also means thousands of volunteers and artists slated to perform will have to adapt to Saturday's schedule.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
-    publishedAt: "2026-11-25T21:26:36+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 3,
-  },
-  {
-    id: "vance-says-he-was-assured-jensen-huang-w-92850af2",
-    title: "Vance says he was assured Jensen Huang was not under DOJ investigation",
-    titleJa: "Vance says he was assured Jensen Huang was not under DOJ investigation",
-    summaryJa: "Whether the Trump administration has investigated Jensen Huang for potential national security risks has been the subject of questions.",
-    bodyOriginal: `Vice President JD Vance said Wednesday that Attorney General Todd Blanche told him Nvidia CEO Jensen Huang was not under investigation.
-"I was told by the Department of Justice and multiple officials in our national security apparatus that he was under no investigation," Vance told reporters in Ohio on Wednesday after being asked what assurances he had gotten that Huang was not under investigation. "Not even that he was about to be prosecuted; that he's under no investigation."
-Vance spoke two days after President Donald Trump told CNBC in an interview that an investigation had been done.
-Trump was asked what Blanche had told him about potential criminal liability for Huang and the question of whether Nvidia chips had ended up in China in violation of U.S. export laws.
-"They did a pretty good investigation, and they felt that he, himself, was exonerated," Trump said Monday.
-Reuters reported Wednesday that the Department of Justice did not conduct a formal investigation into Huang before Trump pushed for his reinstatement as CEO.
-Blanche had concluded there was no evidence Huang had broken any laws based on investigations into Nvidia clients Super Micro Computer and Megaspeed, according to the report.
-The DOJ did not immediately respond to a request for comment on the Reuters report. And the White House didn't immediately respond to a request for comment on Vance saying Huang was under no investigation when Trump had said there was one. Nvidia didn't immediately respond to a request for comment about Vance's remarks.
-Blanche on Tuesday dodged questions about whether there had been an investigation.
-"What the president said is that he talked to a lot of people going into the decision that he made to encourage the board to reinstate him," Blanche said after being asked whether the DOJ had investigated Huang and, if so, what were the results of the probe.
-Huang was reinstated as CEO of Nvidia on Monday, after the chipmaker's board of directors said it had received "input from senior levels of the United States government" that Huang was not a national security risk. Trump took credit for Huang's reinstatement in the interview with CNBC shortly after Nvidia's announcement.
-Huang resigned following The New York Times reporting multiple affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing and who was an executive for the Singapore-based cloud provider Megaspeed.
-The reporting added fuel to allegations that Nvidia should have known its artificial intelligence chips were being diverted to China and being used by Chinese companies, violating U.S. export laws.
-"The product they create is a very important part of us staying ahead of the SI arms race with China. We really do care about ensuring those chips do not fall into the wrong hands," Vance said, using the Trump administration's preferred acronym for AI, which the president calls "super intelligence."
-"We actually see this is an opportunity for Nvidia to focus on complying with American export controls, and we think Jensen Huang is going to take that very seriously," Vance continued.
-"We received the assurances that he was not under any significant — he was under no investigation — and the accusations against him were based on anonymous reporting, not on actual evidence," Vance said.
-On Tuesday, Trump left the door open to pardon Huang in an interview with the New York Post, but Vance said on Wednesday that the CEO doesn't need one.
-"I don't think he needs a pardon at all," Vance said. "I haven't seen any evidence again that he committed a crime. And if there is evidence that he committed a crime, then that's up to relevant authorities to actually bring a prosecution against him."
-Huang is scheduled to appear for a closed-door interview with House committees about his dealings with Megaspeed on Tuesday. At the same time, Nvidia will hold its annual conference where it showcases new technology in Washington.
-— Kevin Breuninger contributed to this report.`,
-    bodyJa: `Vice President JD Vance said Wednesday that Attorney General Todd Blanche told him Nvidia CEO Jensen Huang was not under investigation.
-"I was told by the Department of Justice and multiple officials in our national security apparatus that he was under no investigation," Vance told reporters in Ohio on Wednesday after being asked what assurances he had gotten that Huang was not under investigation. "Not even that he was about to be prosecuted; that he's under no investigation."
-Vance spoke two days after President Donald Trump told CNBC in an interview that an investigation had been done.
-Trump was asked what Blanche had told him about potential criminal liability for Huang and the question of whether Nvidia chips had ended up in China in violation of U.S. export laws.
-"They did a pretty good investigation, and they felt that he, himself, was exonerated," Trump said Monday.
-Reuters reported Wednesday that the Department of Justice did not conduct a formal investigation into Huang before Trump pushed for his reinstatement as CEO.
-Blanche had concluded there was no evidence Huang had broken any laws based on investigations into Nvidia clients Super Micro Computer and Megaspeed, according to the report.
-The DOJ did not immediately respond to a request for comment on the Reuters report. And the White House didn't immediately respond to a request for comment on Vance saying Huang was under no investigation when Trump had said there was one. Nvidia didn't immediately respond to a request for comment about Vance's remarks.
-Blanche on Tuesday dodged questions about whether there had been an investigation.
-"What the president said is that he talked to a lot of people going into the decision that he made to encourage the board to reinstate him," Blanche said after being asked whether the DOJ had investigated Huang and, if so, what were the results of the probe.
-Huang was reinstated as CEO of Nvidia on Monday, after the chipmaker's board of directors said it had received "input from senior levels of the United States government" that Huang was not a national security risk. Trump took credit for Huang's reinstatement in the interview with CNBC shortly after Nvidia's announcement.
-Huang resigned following The New York Times reporting multiple affairs, including one with a Chinese businesswoman who is alleged to be a spy for Beijing and who was an executive for the Singapore-based cloud provider Megaspeed.
-The reporting added fuel to allegations that Nvidia should have known its artificial intelligence chips were being diverted to China and being used by Chinese companies, violating U.S. export laws.
-"The product they create is a very important part of us staying ahead of the SI arms race with China. We really do care about ensuring those chips do not fall into the wrong hands," Vance said, using the Trump administration's preferred acronym for AI, which the president calls "super intelligence."
-"We actually see this is an opportunity for Nvidia to focus on complying with American export controls, and we think Jensen Huang is going to take that very seriously," Vance continued.
-"We received the assurances that he was not under any significant — he was under no investigation — and the accusations against him were based on anonymous reporting, not on actual evidence," Vance said.
-On Tuesday, Trump left the door open to pardon Huang in an interview with the New York Post, but Vance said on Wednesday that the CEO doesn't need one.
-"I don't think he needs a pardon at all," Vance said. "I haven't seen any evidence again that he committed a crime. And if there is evidence that he committed a crime, then that's up to relevant authorities to actually bring a prosecution against him."
-Huang is scheduled to appear for a closed-door interview with House committees about his dealings with Megaspeed on Tuesday. At the same time, Nvidia will hold its annual conference where it showcases new technology in Washington.
-— Kevin Breuninger contributed to this report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
-    publishedAt: "2026-11-25T21:00:08+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "spacex-wins-fcc-approval-to-deploy-1-mil-eb47aa85",
-    title: "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
-    titleJa: "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
-    summaryJa: "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
-    bodyOriginal: `The Federal Communications Commission has authorized Elon Musk's SpaceX to put 1 million artificial intelligence computing satellites in orbit, Chairman Brendan Carr announced on Wednesday.
-Carr said in a post on X, the social network owned by SpaceX, that the company's Starmind constellation, and "competitor constellations will use solar power to extend America's lead" in AI.
-Musk said in a reply, "Much appreciated. This will be a great asset to America and the world."
-The FCC, in its authorization filing, noted that SpaceX's application "received a substantial number of comments from the public, including petitions to deny filed by Kuiper Systems LLC (Amazon Leo), Viasat Inc. (Viasat), and the American Astronomical Society (AAS)."
-In a March petition urging the FCC to deny SpaceX's application, Amazon had labeled the company's Starmind project as a "lofty ambition rather than a real plan."
-The e-commerce and cloud computing giant is building a competitor to SpaceX's Starlink satellite internet service, and said it would take SpaceX "centuries" to build the constellation, adding that the company provided scant details about how it would "deliver on these grand claims."
-The petition resulted in a rebuke from Carr, who said Amazon "should focus on the fact" that it's falling short of its own satellite deployment milestone.
-Amazon declined to comment on the FCC's approval.
-Other companies have also set their sights on orbital data centers. Google last year announced Project Suncatcher, which it describes as a "moonshot to put AI in space," and launched its first chips into space on a SpaceX rocket and Planet Labs satellite in October.
-In March, Jeff Bezos' Blue Origin petitioned the FCC to let it launch up to 51,600 satellites as part of a low Earth orbit satellite constellation dubbed "Project Sunrise." The constellation would work in tandem with Blue Origin's planned TeraWave satellite internet service, announced in January.
-Astrophysicist and author Adam Becker was critical of the FCC move in an email to CNBC on Wednesday.
-"Any serious attempt at this is going to further pollute the night sky and runs a serious risk of a cascading chain reaction of space junk collisions, which would be a disaster for all of humanity," he wrote. "Musk and Carr are either profoundly stupid themselves, or hoping the rest of us are too stupid to notice this is nonsense."
-SpaceX did not respond to a request for comment.
-The FCC said in its authorization that it dismissed "comments and concerns raised regarding topics over which the Commission has no authority, including environmental concerns," and concerns about its impact on "optical astronomy."
-This story is developing. Please check back for updates.`,
-    bodyJa: `The Federal Communications Commission has authorized Elon Musk's SpaceX to put 1 million artificial intelligence computing satellites in orbit, Chairman Brendan Carr announced on Wednesday.
-Carr said in a post on X, the social network owned by SpaceX, that the company's Starmind constellation, and "competitor constellations will use solar power to extend America's lead" in AI.
-Musk said in a reply, "Much appreciated. This will be a great asset to America and the world."
-The FCC, in its authorization filing, noted that SpaceX's application "received a substantial number of comments from the public, including petitions to deny filed by Kuiper Systems LLC (Amazon Leo), Viasat Inc. (Viasat), and the American Astronomical Society (AAS)."
-In a March petition urging the FCC to deny SpaceX's application, Amazon had labeled the company's Starmind project as a "lofty ambition rather than a real plan."
-The e-commerce and cloud computing giant is building a competitor to SpaceX's Starlink satellite internet service, and said it would take SpaceX "centuries" to build the constellation, adding that the company provided scant details about how it would "deliver on these grand claims."
-The petition resulted in a rebuke from Carr, who said Amazon "should focus on the fact" that it's falling short of its own satellite deployment milestone.
-Amazon declined to comment on the FCC's approval.
-Other companies have also set their sights on orbital data centers. Google last year announced Project Suncatcher, which it describes as a "moonshot to put AI in space," and launched its first chips into space on a SpaceX rocket and Planet Labs satellite in October.
-In March, Jeff Bezos' Blue Origin petitioned the FCC to let it launch up to 51,600 satellites as part of a low Earth orbit satellite constellation dubbed "Project Sunrise." The constellation would work in tandem with Blue Origin's planned TeraWave satellite internet service, announced in January.
-Astrophysicist and author Adam Becker was critical of the FCC move in an email to CNBC on Wednesday.
-"Any serious attempt at this is going to further pollute the night sky and runs a serious risk of a cascading chain reaction of space junk collisions, which would be a disaster for all of humanity," he wrote. "Musk and Carr are either profoundly stupid themselves, or hoping the rest of us are too stupid to notice this is nonsense."
-SpaceX did not respond to a request for comment.
-The FCC said in its authorization that it dismissed "comments and concerns raised regarding topics over which the Commission has no authority, including environmental concerns," and concerns about its impact on "optical astronomy."
-This story is developing. Please check back for updates.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
-    publishedAt: "2026-11-25T19:52:47+00:00",
-    category: "テクノロジー",
-    imageUrl: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    readTime: 7,
-  },
-  {
-    id: "saudi-national-in-openai-bugging-case-is-2973378a",
-    title: "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
-    titleJa: "Saudi national in OpenAI bugging case is out on bond after DOJ tries to block release",
-    summaryJa: "Abdulrahman Alfozan, a former OpenAI engineer, is expected to be fitted with an ankle monitor, his attorney, David Rizk, previously told CNBC.",
-    bodyOriginal: `Abdulrahman Alfozan, the Saudi national accused of bugging an executive conference room at OpenAI's headquarters, has been released from custody, his attorney told CNBC on Wednesday.
-The confirmation of Alfozan's release came a day after a federal judge in San Francisco said the defendant would be allowed out of jail on a $1 million bond, despite prosecutors' warnings that he posed a serious flight risk.
-Alfozan, a former OpenAI engineer, is expected to be fitted with an ankle monitor, his attorney, David Rizk, previously told CNBC.
-Alfozan was scheduled to be released from detention Wednesday morning at 8 a.m. PT. Shortly before that deadline, U.S. Attorney Craig Missakian of the Northern District of California urged the court to maintain Alfozan's detention pending trial, "given the significant risk that the defendant will flee to Saudi Arabia if he is released from custody."
-In an order posted on the case docket later Wednesday, Judge Vince Chhabria said the court only learned of the government's last-minute bid to block Alfozan's release after he had already been let out.
-The government's motion "is therefore denied as moot," Chhabria's order stated. The judge set a hearing for Dec. 3 on the bid to revoke the magistrate judge's order releasing Alfozan.
-Pointing to Alfozan's "ample resources, significant family and professional ties to Saudi Arabia, and few remaining ties to the United States," Missakian had argued in a court filing that the release conditions imposed by Magistrate Judge Alex Tse "are insufficient to safeguard the defendant's appearance for future proceedings in this case."
-Alfozan "presents a serious risk of flight that no set of release conditions can reasonably mitigate," Missakian wrote.
-His office sought to pause the magistrate judge's release order until a ruling on a motion to revoke it. The Department of Justice did not immediately respond to CNBC's request for comment on Alfozan's release.
-Tse in a court hearing Tuesday ruled in favor of Rizk's motion for his client's release, which said prosecutors have admitted finding "no new evidence to support the theory that Mr. Alfozan was stealing trade secrets, or to support the speculation that he was acting as an unregistered foreign agent for Saudi Arabia."
-In a text message to CNBC after that hearing, Rizk said, "We are simply grateful that the Court made the right decision to release Mr. Alfozan and now we look forward to defending the case."
-But Missakian's filing Wednesday morning pushed back, saying "the government's investigation of this seven-week-old case is ongoing."
-Prosecutors have so far found "hundreds of audio files" on Alfozan's personal computer, "including dozens of recordings of meetings or conversations that occurred at OpenAI throughout September 2026, at least one of which involved representatives of a foreign government and many of which involved discussions of what may be trade secrets," according to the filing.
-"To be sure, what the defendant did or intended to do with those audio files remains under investigation, but the absence of that evidence at this point has no bearing" on whether Alfozan is a flight risk, Missakian argued.
-Alfozan was arrested Oct. 9 and is accused of concealing a recording device in the artificial intelligence company's conference room to secretly record discussions. The device was found in a USB port in a television in the room on Sept. 30, prosecutors have said.
-Jury selection for Alfozan's trial is scheduled to begin Jan. 20.
-— CNBC's Dan Mangan contributed to this report.`,
-    bodyJa: `Abdulrahman Alfozan, the Saudi national accused of bugging an executive conference room at OpenAI's headquarters, has been released from custody, his attorney told CNBC on Wednesday.
-The confirmation of Alfozan's release came a day after a federal judge in San Francisco said the defendant would be allowed out of jail on a $1 million bond, despite prosecutors' warnings that he posed a serious flight risk.
-Alfozan, a former OpenAI engineer, is expected to be fitted with an ankle monitor, his attorney, David Rizk, previously told CNBC.
-Alfozan was scheduled to be released from detention Wednesday morning at 8 a.m. PT. Shortly before that deadline, U.S. Attorney Craig Missakian of the Northern District of California urged the court to maintain Alfozan's detention pending trial, "given the significant risk that the defendant will flee to Saudi Arabia if he is released from custody."
-In an order posted on the case docket later Wednesday, Judge Vince Chhabria said the court only learned of the government's last-minute bid to block Alfozan's release after he had already been let out.
-The government's motion "is therefore denied as moot," Chhabria's order stated. The judge set a hearing for Dec. 3 on the bid to revoke the magistrate judge's order releasing Alfozan.
-Pointing to Alfozan's "ample resources, significant family and professional ties to Saudi Arabia, and few remaining ties to the United States," Missakian had argued in a court filing that the release conditions imposed by Magistrate Judge Alex Tse "are insufficient to safeguard the defendant's appearance for future proceedings in this case."
-Alfozan "presents a serious risk of flight that no set of release conditions can reasonably mitigate," Missakian wrote.
-His office sought to pause the magistrate judge's release order until a ruling on a motion to revoke it. The Department of Justice did not immediately respond to CNBC's request for comment on Alfozan's release.
-Tse in a court hearing Tuesday ruled in favor of Rizk's motion for his client's release, which said prosecutors have admitted finding "no new evidence to support the theory that Mr. Alfozan was stealing trade secrets, or to support the speculation that he was acting as an unregistered foreign agent for Saudi Arabia."
-In a text message to CNBC after that hearing, Rizk said, "We are simply grateful that the Court made the right decision to release Mr. Alfozan and now we look forward to defending the case."
-But Missakian's filing Wednesday morning pushed back, saying "the government's investigation of this seven-week-old case is ongoing."
-Prosecutors have so far found "hundreds of audio files" on Alfozan's personal computer, "including dozens of recordings of meetings or conversations that occurred at OpenAI throughout September 2026, at least one of which involved representatives of a foreign government and many of which involved discussions of what may be trade secrets," according to the filing.
-"To be sure, what the defendant did or intended to do with those audio files remains under investigation, but the absence of that evidence at this point has no bearing" on whether Alfozan is a flight risk, Missakian argued.
-Alfozan was arrested Oct. 9 and is accused of concealing a recording device in the artificial intelligence company's conference room to secretly record discussions. The device was found in a USB port in a television in the room on Sept. 30, prosecutors have said.
-Jury selection for Alfozan's trial is scheduled to begin Jan. 20.
-— CNBC's Dan Mangan contributed to this report.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/25/openai-bugging-aflozan-bond-release-saudi.html",
-    publishedAt: "2026-11-25T19:11:53+00:00",
-    category: "貿易",
-    imageUrl: "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    readTime: 9,
-  },
-  {
-    id: "us-stocks-fall-further-as-fears-over-ai-83aab49f",
-    title: "US stocks fall further as fears over AI intensify",
-    titleJa: "US stocks fall further as fears over AI intensify",
-    summaryJa: "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-    bodyOriginal: `US stocks fall further as fears over AI intensify
-- Published
-Big technology firms connected to AI continued to see share prices fall on Wednesday, with stock in Nvidia and Anthropic dropping sharply in early trading.
-The surge in Nvidia shares after boss Jensen Huang was reinstated was temporary, and the general stock sell-off continued, with all three main US stock market indices down. The tech-dominated Nasdaq has shed over 2%.
-The declines come amid concerns over the level and sustainability of AI investment which has rattled investors in recent weeks.
-Shares in other major tech firms, including Amazon, Tesla and SpaceX, Micrsoft and Meta were also down.
-Nvidia's share price was down 8% in early trading on Wednesday, extending Tuesday's slide as the boost from Huang's return eased.
-The resignation and subsequent reinstatement of Nvidia boss Jensen Huang after revelations of his extra marital affairs has seen the market value of the world's premier AI chipmaker fluctuate wildly.
-Given Nvidia's position as both supplier and financier of many other firms involved in the AI rollout, its rocky fortnight has had a wider impact.
-The US government also announced a raft of new tariffs on countries and trading partners on Wednesday as part of President Donald Trump's flagship trade policy.
-The value of big tech companies have sheltered the US economy from global economic shocks, including tariffs, but share prices in recent weeks have been volatile in response to the US midterm elections and other events in the AI industry.
-Faisal Islam: Fears over the AI boom haven't gone away
-- Published1 day ago
-Investors have taken fright at Democrat gains in the US midterm elections, with many having campaigned for tougher regulation of AI firms and even a moratorium on the development of new data centres.
-Questions also remain about whether the huge sums being invested in AI will eventually pay off.
-"It seems that these companies are trying to one-up each other on the amount of money that they're spending but you have to show that it's worth it, and that's where Wall Street is saying I don't know," said Todd Schoenberger, chief investment officer at CrossCheck Management.
-Despite concerns, investment in AI is expected to exceed $1 trillion in 2026, according to investment bank Goldman Sachs, which said the technology will remain the "dominant driver of business investment growth" next year.
-Shares in Anthropic continued to trade below the $83 they debuted at last week, while Amazon shares fell by more than 5%.
-The declines come ahead of the US stock market closing for Thanksgiving on Thursday before opening for a shortened session on Friday.`,
-    bodyJa: `US stocks fall further as fears over AI intensify
-- Published
-Big technology firms connected to AI continued to see share prices fall on Wednesday, with stock in Nvidia and Anthropic dropping sharply in early trading.
-The surge in Nvidia shares after boss Jensen Huang was reinstated was temporary, and the general stock sell-off continued, with all three main US stock market indices down. The tech-dominated Nasdaq has shed over 2%.
-The declines come amid concerns over the level and sustainability of AI investment which has rattled investors in recent weeks.
-Shares in other major tech firms, including Amazon, Tesla and SpaceX, Micrsoft and Meta were also down.
-Nvidia's share price was down 8% in early trading on Wednesday, extending Tuesday's slide as the boost from Huang's return eased.
-The resignation and subsequent reinstatement of Nvidia boss Jensen Huang after revelations of his extra marital affairs has seen the market value of the world's premier AI chipmaker fluctuate wildly.
-Given Nvidia's position as both supplier and financier of many other firms involved in the AI rollout, its rocky fortnight has had a wider impact.
-The US government also announced a raft of new tariffs on countries and trading partners on Wednesday as part of President Donald Trump's flagship trade policy.
-The value of big tech companies have sheltered the US economy from global economic shocks, including tariffs, but share prices in recent weeks have been volatile in response to the US midterm elections and other events in the AI industry.
-Faisal Islam: Fears over the AI boom haven't gone away
-- Published1 day ago
-Investors have taken fright at Democrat gains in the US midterm elections, with many having campaigned for tougher regulation of AI firms and even a moratorium on the development of new data centres.
-Questions also remain about whether the huge sums being invested in AI will eventually pay off.
-"It seems that these companies are trying to one-up each other on the amount of money that they're spending but you have to show that it's worth it, and that's where Wall Street is saying I don't know," said Todd Schoenberger, chief investment officer at CrossCheck Management.
-Despite concerns, investment in AI is expected to exceed $1 trillion in 2026, according to investment bank Goldman Sachs, which said the technology will remain the "dominant driver of business investment growth" next year.
-Shares in Anthropic continued to trade below the $83 they debuted at last week, while Amazon shares fell by more than 5%.
-The declines come ahead of the US stock market closing for Thanksgiving on Thursday before opening for a shortened session on Friday.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-25T17:48:09+00:00",
-    category: "金融政策",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg",
-    readTime: 7,
-  },
-  {
-    id: "what-s-gone-wrong-at-poundland-e6272212",
-    title: "What's gone wrong at Poundland?",
-    titleJa: "What's gone wrong at Poundland?",
-    summaryJa: "What's gone wrong at Poundland?- Published",
-    bodyOriginal: `What's gone wrong at Poundland?
-- Published
-The future of Poundland hangs in the balance after the discount retailer's collapse into administration.
-Its owner, US investment firm Gordon Brothers, put it up for sale in September, but then rejected offers to keep the business afloat.
-Poundland has a major presence on the High Street, with 600 stores in the UK and Ireland, where it trades under the Dealz brand.
-Its collapse puts the jobs of its 11,000 employees at risk, as well as potentially thousands of others at firms that supply the retailer.
-How have we got here?
-Have people stopped shopping at Poundland?
-People have not stopped shopping at Poundland - quite the opposite.
-Although the chain was struggling when it was sold by Pepco last year for £1, the business turned a corner over the year to September, going from a £68m loss to an £18.1m profit before interest, tax and certain accounting charges.
-Going into the vital Christmas period, first-quarter like-for-like sales were up 7% and operational profits of £1.9m were up £1.2m on last year.
-According to Julie Palmer, managing partner at insolvency specialist Begbies Traynor, "this isn't a story about shoppers abandoning Poundland".
-She told the BBC the tills were "busier than they were a year ago", adding that on the face of it a turnaround seemed "well under way".
-However, Gordon Brothers had been restricting Poundland's access to cash needed to restock stores and meet day-to-day expenses.
-So why is it now in administration?
-Poundland faced "a funding and ownership problem rather than a trading collapse", according to Palmer.
-However, while Poundland boss Barry Williams claimed the business was making a "strong recovery", Gordon Brothers painted a different picture, saying the chain remained "challenged and vulnerable to any potential downturn in future trading".
-It said it had provided significant funding to support the company's ability to trade since it acquired the business.
-Poundland collapses putting 11,000 jobs at risk
-- Published10 minutes ago
-Poundland workers 'in limbo' over firm's future
-- Published1 day ago
-It has also made about £18m from a combination of debt interest payments and other fees and charges.
-As well as being Poundland's owner, it is one of its lenders, and is owed loans, including a £22.5m shareholder loan it inherited when it bought the business for £1.
-As the main creditor, Gordon Brothers would be first in line to get paid back if the business goes under - but its suppliers are not.
-"When the owner is also the main lender, its first priority is recovering [loans]," says Palmer. "Sometimes the route that best protects the lender is different from the one that saves the most jobs, and that tension is why this has become such a political story."
-Irish firm Martin Property Group, London-based holding company Xyra Group and German investment firm Zachert Private Equity are all also understood to have made offers for Poundland.
-Gordon Brothers had also been weighing options to break Poundland up.
-Its view was that ultimately breaking the retailer up would provide more security for employees in the long term, because any buyers of its store estate would also have to agree to keep the employees on.
-Insiders who are critical of how Gordon Brothers has handled the Poundland sale accuse it of driving the business into the ground to make money through the insolvency process.
-But the investment firm, which specialises in buying and restructuring distressed companies, has denied the claim.
-What's next for Poundland?
-Now that the company has entered administration, consultants at Alix Partners have been appointed to pursue a sale of the business and its assets.
-There are various options on the table, which include securing a buyer for the business either in whole or piecemeal.
-The prime minister has said he wants "every effort made to secure a deal that protects jobs and keeps as many shops open as possible".
-In the immediate future, Poundland stores and distribution centres will continue operating as normal.`,
-    bodyJa: `What's gone wrong at Poundland?
-- Published
-The future of Poundland hangs in the balance after the discount retailer's collapse into administration.
-Its owner, US investment firm Gordon Brothers, put it up for sale in September, but then rejected offers to keep the business afloat.
-Poundland has a major presence on the High Street, with 600 stores in the UK and Ireland, where it trades under the Dealz brand.
-Its collapse puts the jobs of its 11,000 employees at risk, as well as potentially thousands of others at firms that supply the retailer.
-How have we got here?
-Have people stopped shopping at Poundland?
-People have not stopped shopping at Poundland - quite the opposite.
-Although the chain was struggling when it was sold by Pepco last year for £1, the business turned a corner over the year to September, going from a £68m loss to an £18.1m profit before interest, tax and certain accounting charges.
-Going into the vital Christmas period, first-quarter like-for-like sales were up 7% and operational profits of £1.9m were up £1.2m on last year.
-According to Julie Palmer, managing partner at insolvency specialist Begbies Traynor, "this isn't a story about shoppers abandoning Poundland".
-She told the BBC the tills were "busier than they were a year ago", adding that on the face of it a turnaround seemed "well under way".
-However, Gordon Brothers had been restricting Poundland's access to cash needed to restock stores and meet day-to-day expenses.
-So why is it now in administration?
-Poundland faced "a funding and ownership problem rather than a trading collapse", according to Palmer.
-However, while Poundland boss Barry Williams claimed the business was making a "strong recovery", Gordon Brothers painted a different picture, saying the chain remained "challenged and vulnerable to any potential downturn in future trading".
-It said it had provided significant funding to support the company's ability to trade since it acquired the business.
-Poundland collapses putting 11,000 jobs at risk
-- Published10 minutes ago
-Poundland workers 'in limbo' over firm's future
-- Published1 day ago
-It has also made about £18m from a combination of debt interest payments and other fees and charges.
-As well as being Poundland's owner, it is one of its lenders, and is owed loans, including a £22.5m shareholder loan it inherited when it bought the business for £1.
-As the main creditor, Gordon Brothers would be first in line to get paid back if the business goes under - but its suppliers are not.
-"When the owner is also the main lender, its first priority is recovering [loans]," says Palmer. "Sometimes the route that best protects the lender is different from the one that saves the most jobs, and that tension is why this has become such a political story."
-Irish firm Martin Property Group, London-based holding company Xyra Group and German investment firm Zachert Private Equity are all also understood to have made offers for Poundland.
-Gordon Brothers had also been weighing options to break Poundland up.
-Its view was that ultimately breaking the retailer up would provide more security for employees in the long term, because any buyers of its store estate would also have to agree to keep the employees on.
-Insiders who are critical of how Gordon Brothers has handled the Poundland sale accuse it of driving the business into the ground to make money through the insolvency process.
-But the investment firm, which specialises in buying and restructuring distressed companies, has denied the claim.
-What's next for Poundland?
-Now that the company has entered administration, consultants at Alix Partners have been appointed to pursue a sale of the business and its assets.
-There are various options on the table, which include securing a buyer for the business either in whole or piecemeal.
-The prime minister has said he wants "every effort made to secure a deal that protects jobs and keeps as many shops open as possible".
-In the immediate future, Poundland stores and distribution centres will continue operating as normal.`,
-    source: "BBC",
-    sourceUrl: "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-    publishedAt: "2026-11-25T17:00:32+00:00",
-    category: "貿易",
-    imageUrl: "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbc6/live/78341a50-e8f8-11f1-99a1-253766e7ad8b.jpg",
-    readTime: 10,
-  },
-  {
-    id: "u-s-proposes-new-tariffs-on-14-trading-p-4a5f51e6",
-    title: "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
-    titleJa: "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
-    summaryJa: "The new levies seek to counter foreign trade practices deemed unfair, discriminatory or burdensome to U.S. commerce.",
-    bodyOriginal: `The U.S. is preparing new tariffs on 14 economies, including China, the EU, Japan and India, following investigations into what the Trump administration says are excess manufacturing practices that disadvantage U.S. commerce.
-The administration launched those and other trade investigations in March, weeks after the Supreme Court unraveled a major piece of President Donald Trump's tariff-heavy economic policy by striking down his "liberation day" duties. Trump has since been accused by critics of his tariffs of trying to revive the canceled duties using other legal authorities.
-The latest action targets foreign economies that create, sustain or contribute to structural excess capacity and production in manufacturing sectors that the U.S. finds unreasonable and burdensome or restrictive to its commerce, a senior U.S. official told reporters Tuesday evening.
-The new tariffs are "targeted," not blanket rates, and will vary for each economy, and many will not exceed the rates established in previously reached trade deals, said the official, who spoke on condition of anonymity to discuss the forthcoming duties.
-The rates, which mostly range from 15% to 20%, are "not really additive" and generally will not stack on top of existing duties, U.S. Trade Representative Jamieson Greer told CNBC's "Squawk Box" Wednesday morning.
-"In effect, it'll look more like a top up," Greer said. "When it all nets out, it really will just top up a few percentage points."
-An exception is China, which faces a 20% rate under the new tariff policy, "so it will go up some," Greer said. But at the same time, both countries are moving to remove tariffs on some of each other's goods in what Greer called "stability-generating activity through this action."
-The senior U.S. official said Tuesday that the 20% rate will come on top of the so-called forced technology transfer-related tariffs of roughly 25%, which were implemented during Trump's first presidential term. U.S. tariffs on Chinese goods will therefore reach about 45%, give or take for different goods, the official said.
-Average U.S. tariffs rates on Chinese goods stood at about 36.5% as of July, according to the Congressional Research Service.
-Greer also said on CNBC that the new policy likely will not take effect for months.
-"We've talked to our trading partners about this. They know what we're proposing," he said. "I think a lot of this is baked in, and I don't think any of these would actually take effect earlier than a couple months from now."
-The administration says the tariffs target what it calls "overcapacity" — excess industrial production, often supported by government subsidies, that allows cheaper goods to flood global markets and undercut U.S. producers.
-China has disputed the allegations. "The so-called 'overcapacity' does not really exist," China's foreign ministry said Wednesday before the official reports were released by the Office of the U.S. Trade Representative, according to Reuters.
-The overcapacity levies are being imposed under Section 301 of the Trade Act of 1974. The Trump administration invoked the same statute to launch investigations into 60 economies over alleged forced-labor issues.
-Those investigations, which also began in March, led to broad tariffs of 10% to 12.5% on goods from dozens of countries covering 99.4% of U.S. imports.
-The Section 301 actions came weeks after the Supreme Court struck down the near-global tariffs that Trump had enacted under the International Emergency Economic Powers Act.
-Shortly after the court's ruling, Trump invoked Section 122 of the Trade Act of 1974 to impose a 10% global tariff. That tariff expired after 150 days, and was immediately replaced with the forced-labor-related duties.
-An ongoing lawsuit accuses the Trump administration of citing forced-labor issues as a "pretext" in pursuit of reviving Trump's worldwide tariff regime.`,
-    bodyJa: `The U.S. is preparing new tariffs on 14 economies, including China, the EU, Japan and India, following investigations into what the Trump administration says are excess manufacturing practices that disadvantage U.S. commerce.
-The administration launched those and other trade investigations in March, weeks after the Supreme Court unraveled a major piece of President Donald Trump's tariff-heavy economic policy by striking down his "liberation day" duties. Trump has since been accused by critics of his tariffs of trying to revive the canceled duties using other legal authorities.
-The latest action targets foreign economies that create, sustain or contribute to structural excess capacity and production in manufacturing sectors that the U.S. finds unreasonable and burdensome or restrictive to its commerce, a senior U.S. official told reporters Tuesday evening.
-The new tariffs are "targeted," not blanket rates, and will vary for each economy, and many will not exceed the rates established in previously reached trade deals, said the official, who spoke on condition of anonymity to discuss the forthcoming duties.
-The rates, which mostly range from 15% to 20%, are "not really additive" and generally will not stack on top of existing duties, U.S. Trade Representative Jamieson Greer told CNBC's "Squawk Box" Wednesday morning.
-"In effect, it'll look more like a top up," Greer said. "When it all nets out, it really will just top up a few percentage points."
-An exception is China, which faces a 20% rate under the new tariff policy, "so it will go up some," Greer said. But at the same time, both countries are moving to remove tariffs on some of each other's goods in what Greer called "stability-generating activity through this action."
-The senior U.S. official said Tuesday that the 20% rate will come on top of the so-called forced technology transfer-related tariffs of roughly 25%, which were implemented during Trump's first presidential term. U.S. tariffs on Chinese goods will therefore reach about 45%, give or take for different goods, the official said.
-Average U.S. tariffs rates on Chinese goods stood at about 36.5% as of July, according to the Congressional Research Service.
-Greer also said on CNBC that the new policy likely will not take effect for months.
-"We've talked to our trading partners about this. They know what we're proposing," he said. "I think a lot of this is baked in, and I don't think any of these would actually take effect earlier than a couple months from now."
-The administration says the tariffs target what it calls "overcapacity" — excess industrial production, often supported by government subsidies, that allows cheaper goods to flood global markets and undercut U.S. producers.
-China has disputed the allegations. "The so-called 'overcapacity' does not really exist," China's foreign ministry said Wednesday before the official reports were released by the Office of the U.S. Trade Representative, according to Reuters.
-The overcapacity levies are being imposed under Section 301 of the Trade Act of 1974. The Trump administration invoked the same statute to launch investigations into 60 economies over alleged forced-labor issues.
-Those investigations, which also began in March, led to broad tariffs of 10% to 12.5% on goods from dozens of countries covering 99.4% of U.S. imports.
-The Section 301 actions came weeks after the Supreme Court struck down the near-global tariffs that Trump had enacted under the International Emergency Economic Powers Act.
-Shortly after the court's ruling, Trump invoked Section 122 of the Trade Act of 1974 to impose a 10% global tariff. That tariff expired after 150 days, and was immediately replaced with the forced-labor-related duties.
-An ongoing lawsuit accuses the Trump administration of citing forced-labor issues as a "pretext" in pursuit of reviving Trump's worldwide tariff regime.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
-    publishedAt: "2026-11-25T16:02:52+00:00",
-    category: "金融政策",
-    imageUrl: "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&q=80",
-    readTime: 10,
-  },
-  {
-    id: "fed-s-preferred-inflation-gauge-accelera-ba89a581",
-    title: "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-    titleJa: "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-    summaryJa: "The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.",
-    bodyOriginal: `Inflation moved further away from the Federal Reserve's target in October, reinforcing expectations that another interest rate hike is in the cards for December and raising questions about how much more work the central bank will have to do in 2027.
-The personal consumption expenditures price index, the Fed's preferred inflation gauge, showed a seasonally adjusted 3.8% annual inflation rate, in line with the Dow Jones consensus estimate and nearly twice the central bank's goal. The reading was 0.1 percentage point higher than September.
-Excluding food and energy, core PCE was 3.3%, the Commerce Department reported Wednesday. That was 0.1 percentage point above the forecast.
-While the Fed officially follows the headline figure, policymakers consider core to be a more reliable longer-term gauge of inflation trends.
-A separate report also showed much stronger economic growth for the third quarter, with gross domestic product rising at a 4.3% annualized rate, according to a revised Commerce Department estimate. The strong top-line gain for the economy adds further fuel to the notion that Fed monetary policy is not restricting economic activity.
-Consumer spending rose 0.3% for the month, which matched the pace of price increases but was 0.1 percentage point lower than forecast. Income, on the other hand, surged 0.7%, much more than the 0.4% estimate. The personal saving rate rose to 4.1%.
-Stock market futures added to losses following the release, while Treasury yields also were sharply lower. Even with the higher-than-expected core inflation figure, expectations eased a bit for Fed rate hikes in 2027. Traders continued to price in two more increases but lowered odds for a third hike to about 1-in-3, compared to 50-50 on Tuesday, according to the CME Group's FedWatch.
-"Inflation is too hot and it will not be brought under control as long as economic demand is also too hot," said Chris Rupkey, chief economist at Fwdbonds.
-The report comes with the market fully pricing in a quarter percentage point interest rate hike when the Fed meets Dec. 8-9. Less certain is how much more rates will need to increase to get inflation back down to the Fed's 2% target. Inflation has been running above target for some 5½ years.
-Inflation had been drifting lower but spiked again following the late-February attacks on Iran led by the U.S. and Israel. Tariffs also have continued to exert pressure, as has strong demand associated with the artificial intelligence buildout. The White House on Wednesday announced a fresh round of tariffs on 14 trading partners including China, the European Union and Japan.
-Policymakers generally consider factors such as tariffs and supply shocks to be temporary, but some fear the impact has begun spreading through the economy and could become embedded.
-"America's inflation problem is bigger than an energy shock," said Heather Long, chief economist at Navy Federal Credit Union.
-The large upward increase in GDP came from revisions to investment as well as consumer and government spending.
-Consumer spending, which accounts for about two-thirds of all economic activity, rose 4.2% in the third quarter. A metric known as real final sales to private domestic purchasers, which Fed officials regard as a key indicator of underlying demand, jumped 5.8%, reflecting an upward revision of 0.9 percentage point.
-In other economic news Wednesday, the Labor Department reported that initial jobless claims slipped to 189,000 for the week ending Nov. 21, down 13,000 from the prior week and back to around the lowest level since the late 1960s. Wall Street had been expecting 200,000.`,
-    bodyJa: `Inflation moved further away from the Federal Reserve's target in October, reinforcing expectations that another interest rate hike is in the cards for December and raising questions about how much more work the central bank will have to do in 2027.
-The personal consumption expenditures price index, the Fed's preferred inflation gauge, showed a seasonally adjusted 3.8% annual inflation rate, in line with the Dow Jones consensus estimate and nearly twice the central bank's goal. The reading was 0.1 percentage point higher than September.
-Excluding food and energy, core PCE was 3.3%, the Commerce Department reported Wednesday. That was 0.1 percentage point above the forecast.
-While the Fed officially follows the headline figure, policymakers consider core to be a more reliable longer-term gauge of inflation trends.
-A separate report also showed much stronger economic growth for the third quarter, with gross domestic product rising at a 4.3% annualized rate, according to a revised Commerce Department estimate. The strong top-line gain for the economy adds further fuel to the notion that Fed monetary policy is not restricting economic activity.
-Consumer spending rose 0.3% for the month, which matched the pace of price increases but was 0.1 percentage point lower than forecast. Income, on the other hand, surged 0.7%, much more than the 0.4% estimate. The personal saving rate rose to 4.1%.
-Stock market futures added to losses following the release, while Treasury yields also were sharply lower. Even with the higher-than-expected core inflation figure, expectations eased a bit for Fed rate hikes in 2027. Traders continued to price in two more increases but lowered odds for a third hike to about 1-in-3, compared to 50-50 on Tuesday, according to the CME Group's FedWatch.
-"Inflation is too hot and it will not be brought under control as long as economic demand is also too hot," said Chris Rupkey, chief economist at Fwdbonds.
-The report comes with the market fully pricing in a quarter percentage point interest rate hike when the Fed meets Dec. 8-9. Less certain is how much more rates will need to increase to get inflation back down to the Fed's 2% target. Inflation has been running above target for some 5½ years.
-Inflation had been drifting lower but spiked again following the late-February attacks on Iran led by the U.S. and Israel. Tariffs also have continued to exert pressure, as has strong demand associated with the artificial intelligence buildout. The White House on Wednesday announced a fresh round of tariffs on 14 trading partners including China, the European Union and Japan.
-Policymakers generally consider factors such as tariffs and supply shocks to be temporary, but some fear the impact has begun spreading through the economy and could become embedded.
-"America's inflation problem is bigger than an energy shock," said Heather Long, chief economist at Navy Federal Credit Union.
-The large upward increase in GDP came from revisions to investment as well as consumer and government spending.
-Consumer spending, which accounts for about two-thirds of all economic activity, rose 4.2% in the third quarter. A metric known as real final sales to private domestic purchasers, which Fed officials regard as a key indicator of underlying demand, jumped 5.8%, reflecting an upward revision of 0.9 percentage point.
-In other economic news Wednesday, the Labor Department reported that initial jobless claims slipped to 189,000 for the week ending Nov. 21, down 13,000 from the prior week and back to around the lowest level since the late 1960s. Wall Street had been expecting 200,000.`,
-    source: "CNBC",
-    sourceUrl: "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-    publishedAt: "2026-11-25T14:18:45+00:00",
-    category: "エネルギー",
-    imageUrl: "https://images.unsplash.com/photo-1473172367879-2dca04a4dca4?w=800&q=80",
-    readTime: 9,
   },
 ];
 
